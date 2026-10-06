@@ -1,0 +1,962 @@
+[
+{
+"id": "nihongopro:6b47356492-5",
+"type": "orthography",
+"question": "父 は 毎 日 ＿ざんぎょう＿ ばかりしています。",
+"options": [
+"残 形",
+"残 行",
+"残 業",
+"残 尭"
+],
+"answer": 2
+},
+{
+"id": "nihongopro:6bf0a7f511-1",
+"type": "kanji_reading",
+"question": "私 の 誕 生 日 は 九 月 ＿十日＿ です。",
+"options": [
+"いつか",
+"じゅうにち",
+"とおか",
+"とうか"
+],
+"answer": 2
+},
+{
+"id": "nihongopro:6bf0a7f511-2",
+"type": "kanji_reading",
+"question": "このフルーツは、 ＿珍しい＿ ですね。",
+"options": [
+"やかましい",
+"さわがしい",
+"うつくしい",
+"めずらしい"
+],
+"answer": 3
+},
+{
+"id": "nihongopro:6bf0a7f511-3",
+"type": "kanji_reading",
+"question": "宿 題 は ＿全て＿ 終 わりました。",
+"options": [
+"よって",
+"かつて",
+"ぜんて",
+"すべて"
+],
+"answer": 3
+},
+{
+"id": "nihongopro:6bf0a7f511-4",
+"type": "kanji_reading",
+"question": "会 社 の 帰 りに、 毎 日 ＿運動＿ しています。",
+"options": [
+"うんどう",
+"うんよう",
+"うんてん",
+"うんどん"
+],
+"answer": 0
+},
+{
+"id": "nihongopro:6bf0a7f511-5",
+"type": "kanji_reading",
+"question": "料 理 が ＿下手＿ なので、あまり 作 りません。",
+"options": [
+"すき",
+"じょうず",
+"きらい",
+"へた"
+],
+"answer": 3
+},
+{
+"id": "nihongopro:6e85981fd2-1",
+"type": "vocab_meaning",
+"question": "雨 がたくさん 降 る。",
+"options": [
+"ぱらぱら",
+"しとしと",
+"ざあざあ",
+"ぽつぽつ"
+],
+"answer": 2
+},
+{
+"id": "nihongopro:6e85981fd2-2",
+"type": "vocab_meaning",
+"question": "弱 い 雨 が 降 る。",
+"options": [
+"ざあざあ",
+"しとしと",
+"ぽつぽつ",
+"ぱらぱら"
+],
+"answer": 3
+},
+{
+"id": "nihongopro:6e85981fd2-3",
+"type": "vocab_meaning",
+"question": "少 しだけ 雨 が 降 る。",
+"options": [
+"ぱらぱら",
+"ぽつぽつ",
+"しとしと",
+"ざあざあ"
+],
+"answer": 1
+},
+{
+"id": "nihongopro:6e85981fd2-4",
+"type": "vocab_meaning",
+"question": "静 かに 雨 が 降 る。",
+"options": [
+"ぽつぽつ",
+"ぱらぱら",
+"ざあざあ",
+"しとしと"
+],
+"answer": 3
+},
+{
+"id": "nihongopro:6e85981fd2-5",
+"type": "vocab_meaning",
+"question": "雪 が 積 もるようす。",
+"options": [
+"しんしん",
+"しとしと",
+"ぽつぽつ",
+"ぱらぱら"
+],
+"answer": 0
+},
+{
+"id": "nihongopro:72fc46fd70-1",
+"type": "context",
+"question": "私 は、 走 るのは （ ） ですが、 水 泳 は 得 意 です。",
+"options": [
+"欠 点",
+"上 手",
+"早 い",
+"苦 手"
+],
+"answer": 3
+},
+{
+"id": "nihongopro:72fc46fd70-2",
+"type": "context",
+"question": "一 日 中 誰 にも 会 わないと、 （ ） さびしいものですね。",
+"options": [
+"すっかり",
+"それとも",
+"ちっとも",
+"やはり"
+],
+"answer": 3
+},
+{
+"id": "nihongopro:72fc46fd70-3",
+"type": "context",
+"question": "たくさんの 人 の 前 で、 歌 を 歌 うのは （ ） する。",
+"options": [
+"ときどき",
+"とろとろ",
+"どんどん",
+"どきどき"
+],
+"answer": 3
+},
+{
+"id": "nihongopro:72fc46fd70-4",
+"type": "context",
+"question": "毎 日 仕 事 をして （ ） をもらいました。",
+"options": [
+"給 料",
+"頭 金",
+"貯 金",
+"借 金"
+],
+"answer": 0
+},
+{
+"id": "nihongopro:72fc46fd70-5",
+"type": "context",
+"question": "もうこんな 時 間 ですね。では、 （ ） 失 礼 します。",
+"options": [
+"もろもろ",
+"やれやれ",
+"そろそろ",
+"するする"
+],
+"answer": 2
+},
+{
+"id": "nihongopro:8a13403c0f-1",
+"type": "vocab_meaning",
+"question": "何 も 考 えずに、 話 してはいけないことを 話 す。",
+"options": [
+"ひそひそ",
+"ぺらぺら",
+"ぺちゃくちゃ",
+"ぶつぶつ"
+],
+"answer": 1
+},
+{
+"id": "nihongopro:8a13403c0f-2",
+"type": "vocab_meaning",
+"question": "ほかの 人 に 聞 こえないように、 小 さい 声 で 話 す。",
+"options": [
+"ぶつぶつ",
+"ひそひそ",
+"ぺらぺら",
+"ぺちゃくちゃ"
+],
+"answer": 1
+},
+{
+"id": "nihongopro:8a13403c0f-3",
+"type": "vocab_meaning",
+"question": "ひとりで 何 かを 言 っている。",
+"options": [
+"ぺらぺら",
+"ひそひそ",
+"ぺちゃくちゃ",
+"ぶつぶつ"
+],
+"answer": 3
+},
+{
+"id": "nihongopro:8a13403c0f-4",
+"type": "vocab_meaning",
+"question": "目 を 離 さないで 見 る。",
+"options": [
+"そろそろ",
+"きょろきょろ",
+"じろじろ",
+"こそこそ"
+],
+"answer": 2
+},
+{
+"id": "nihongopro:8a13403c0f-5",
+"type": "vocab_meaning",
+"question": "落 ち 着 きがなく、 周 りを 何 度 も 見 る。",
+"options": [
+"きょろきょろ",
+"じろじろ",
+"そろそろ",
+"こそこそ"
+],
+"answer": 0
+},
+{
+"id": "nihongopro:8f7c3981f7-1",
+"type": "vocab_meaning",
+"question": "日 本 語 の 新 聞 を 読 むには、 漢 字 をたくさん ＿ ＿ ＿ ＿ しなければなりません。",
+"options": [
+"暗 記",
+"憶 測",
+"習 慣",
+"慣 習"
+],
+"answer": 0
+},
+{
+"id": "nihongopro:8f7c3981f7-3",
+"type": "vocab_meaning",
+"question": "去 年 の 冬 は ＿ ＿ ＿ に 寒 かったです。",
+"options": [
+"意 外",
+"大 分",
+"とても",
+"より"
+],
+"answer": 0
+},
+{
+"id": "nihongopro:8f7c3981f7-4",
+"type": "vocab_meaning",
+"question": "年 をとるにつれて、 健 康 の ＿ ＿ ＿ ＿ が 大 切 になります。",
+"options": [
+"医 師",
+"維 持",
+"持 参",
+"支 持"
+],
+"answer": 1
+},
+{
+"id": "nihongopro:8f7c3981f7-6",
+"type": "vocab_meaning",
+"question": "ちょっとだけの 相 談 で、 全 員 の 意 見 が ＿ ＿ ＿ ＿ しました。",
+"options": [
+"一 体",
+"一 方",
+"一 致",
+"一 家"
+],
+"answer": 2
+},
+{
+"id": "nihongopro:8f7c3981f7-7",
+"type": "vocab_meaning",
+"question": "夕 べ 眠 れなかったため、 今 日 は つい ＿ ＿ ＿ ＿ ＿ してしまった。",
+"options": [
+"居 眠 り",
+"熟 眠",
+"居 寝",
+"目 覚 ま"
+],
+"answer": 0
+},
+{
+"id": "nihongopro:925cf01fb3-1",
+"type": "kanji_reading",
+"question": "わたしの しゅみは ＿世界＿ の 切 手 を 集 める ことです。",
+"options": [
+"せいがい",
+"せがい",
+"せかい",
+"せいかい"
+],
+"answer": 2
+},
+{
+"id": "nihongopro:925cf01fb3-10",
+"type": "kanji_reading",
+"question": "図 書 館 は スーパーの となりに ある 低 い ＿建物＿ です。",
+"options": [
+"たてもの",
+"けんもの",
+"たてぶつ",
+"けんぶつ"
+],
+"answer": 0
+},
+{
+"id": "nihongopro:925cf01fb3-2",
+"type": "kanji_reading",
+"question": "わたしの しゅみは 世 界 の ＿切手＿ を 集 める ことです。",
+"options": [
+"きぷ",
+"きて",
+"きっぷ",
+"きって"
+],
+"answer": 3
+},
+{
+"id": "nihongopro:925cf01fb3-3",
+"type": "kanji_reading",
+"question": "わたしの しゅみは 世 界 の 切 手 を ＿集める＿ ことです。",
+"options": [
+"あつめる",
+"とめる",
+"やめる",
+"つどめる"
+],
+"answer": 0
+},
+{
+"id": "nihongopro:925cf01fb3-4",
+"type": "kanji_reading",
+"question": "＿姉＿ は 工 場 で 洋 服 を 作 って いる。",
+"options": [
+"いもうと",
+"あに",
+"あね",
+"おとうと"
+],
+"answer": 2
+},
+{
+"id": "nihongopro:925cf01fb3-5",
+"type": "kanji_reading",
+"question": "姉 は ＿工場＿ で 洋 服 を 作 って いる。",
+"options": [
+"こじょう",
+"こうじょ",
+"こじょ",
+"こうじょう"
+],
+"answer": 3
+},
+{
+"id": "nihongopro:925cf01fb3-6",
+"type": "kanji_reading",
+"question": "姉 は 工 場 で ＿洋服＿ を 作 って いる。",
+"options": [
+"よふうく",
+"よっぷく",
+"ようぷく",
+"ようふく"
+],
+"answer": 3
+},
+{
+"id": "nihongopro:925cf01fb3-7",
+"type": "kanji_reading",
+"question": "姉 は 工 場 で 洋 服 を ＿作って＿ いる。",
+"options": [
+"あらって",
+"つくろって",
+"つかって",
+"つくって"
+],
+"answer": 3
+},
+{
+"id": "nihongopro:925cf01fb3-8",
+"type": "kanji_reading",
+"question": "＿図書館＿ は スーパーの となりに ある 低 い 建 物 です。",
+"options": [
+"としゅがん",
+"としょがん",
+"としょかん",
+"としゅかん"
+],
+"answer": 2
+},
+{
+"id": "nihongopro:925cf01fb3-9",
+"type": "kanji_reading",
+"question": "図 書 館 は スーパーの となりに ある ＿低い＿ 建 物 です。",
+"options": [
+"せまい",
+"ひくい",
+"たかい",
+"みじかい"
+],
+"answer": 1
+},
+{
+"id": "nihongopro:9f6cb3a456-1",
+"type": "vocab_meaning",
+"question": "出 身",
+"options": [
+"山 本 さんは、 ＿出身＿ で 中 国 に 行 きました。",
+"山 本 さんは、 ＿出身＿ がむずかしいので、 東 京 には 住 んでいません。",
+"山 本 さんは、 九 州 の ＿出身＿ ですが、 育 ったのは 大 阪 です。",
+"山 本 さんは、 九 州 の ＿出身＿ に 住 んでいます。"
+],
+"answer": 2
+},
+{
+"id": "nihongopro:9f6cb3a456-2",
+"type": "vocab_meaning",
+"question": "手 軽",
+"options": [
+"＿手軽＿ に 飼 える 小 さなペットが、 人 気 があります。",
+"このスーツは ＿手軽＿ な 値 段 ですね。",
+"新 しい 上 司 は、とても ＿手軽＿ な 人 で 安 心 しました。",
+"子 どもでもできることは、 家 の ＿手軽＿ をさせましょう。"
+],
+"answer": 0
+},
+{
+"id": "nihongopro:9f6cb3a456-3",
+"type": "vocab_meaning",
+"question": "一 見",
+"options": [
+"＿一見＿ してはいけません。",
+"この 映 画 は ＿一見＿ したことがある。",
+"インフルエンザは、 ＿一見＿ 普 通 の 風 邪 とまちがえてしまう。",
+"どうぞ、ご ＿一見＿ ください。"
+],
+"answer": 2
+},
+{
+"id": "nihongopro:9f6cb3a456-4",
+"type": "vocab_meaning",
+"question": "たしかに",
+"options": [
+"＿たしかに＿ あの 人 が 山 田 さんです。",
+"ありがとうございました。 ＿たしかに＿ 300 円 のおつりです。",
+"答 えが 合 っているかどうか ＿たしかに＿ しました。",
+"来 年 になったら、 ＿たしかに＿ 日 本 で 住 むかもしれません。"
+],
+"answer": 0
+},
+{
+"id": "nihongopro:9f6cb3a456-5",
+"type": "vocab_meaning",
+"question": "つもり",
+"options": [
+"来 年 は 旅 行 の ＿つもり＿ があり、とても 楽 しみだ。",
+"おいしい 料 理 を 作 った ＿つもり＿ で、 家 族 はとてもおいしいと 言 った。",
+"彼 は 勉 強 ＿つもり＿ がないのに、 大 学 に 行 くと 言 っている。",
+"気 をつけていた ＿つもり＿ だったが、 風 邪 を 引 いてしまった。"
+],
+"answer": 3
+},
+{
+"id": "nihongopro:a6145ffeeb-1",
+"type": "kanji_reading",
+"question": "日 本 には ＿四季＿ があり、また、 南 北 にのびているため、 地 域 によって 気 候 が 異 なる。",
+"options": [
+"よんき",
+"しぎ",
+"しき",
+"じき"
+],
+"answer": 2
+},
+{
+"id": "nihongopro:a6145ffeeb-2",
+"type": "kanji_reading",
+"question": "日 本 には 四 季 があり、また、 ＿南北＿ にのびているため、 地 域 によって 気 候 が 異 なる。",
+"options": [
+"なんきた",
+"なんほく",
+"みなみきた",
+"なんぼく"
+],
+"answer": 3
+},
+{
+"id": "nihongopro:a6145ffeeb-3",
+"type": "kanji_reading",
+"question": "日 本 には 四 季 があり、また、 南 北 にのびているため、 ＿地域＿ によって 気 候 が 異 なる。",
+"options": [
+"ちいき",
+"じく",
+"じいき",
+"ちく"
+],
+"answer": 0
+},
+{
+"id": "nihongopro:a6145ffeeb-4",
+"type": "kanji_reading",
+"question": "日 本 には 四 季 があり、また、 南 北 にのびているため、 地 域 によって ＿気候＿ が 異 なる。",
+"options": [
+"ちこう",
+"ちほう",
+"きこう",
+"きほう"
+],
+"answer": 2
+},
+{
+"id": "nihongopro:a6145ffeeb-5",
+"type": "kanji_reading",
+"question": "日 本 には 四 季 があり、また、 南 北 にのびているため、 地 域 によって 気 候 が ＿異＿ なる。",
+"options": [
+"ちが",
+"い",
+"こと",
+"ごと"
+],
+"answer": 2
+},
+{
+"id": "nihongopro:a725e783b0-1",
+"type": "context",
+"question": "試 験 の 日 に 熱 が 出 て( )。",
+"options": [
+"気 が 早 い。",
+"気 の 毒 だ。",
+"気 のせいだ。",
+"気 まずい。"
+],
+"answer": 1
+},
+{
+"id": "nihongopro:a725e783b0-2",
+"type": "context",
+"question": "雪 の 日 の 運 転 は( )。",
+"options": [
+"気 が 遠 い。",
+"気 が 小 さい。",
+"気 が 進 まない。",
+"気 が 済 まない。"
+],
+"answer": 2
+},
+{
+"id": "nihongopro:a725e783b0-3",
+"type": "context",
+"question": "うちの 猫 は （ ） と 散 歩 に 出 かける。",
+"options": [
+"気 が 合 う",
+"気 に 入 る",
+"気 が 向 く",
+"気 に 障 る"
+],
+"answer": 2
+},
+{
+"id": "nihongopro:a725e783b0-4",
+"type": "context",
+"question": "同 じ 部 屋 に 誰 かがいると( )、 勉 強 できない。",
+"options": [
+"気 が 利 いて",
+"気 が 散 って",
+"気 に 入 って",
+"気 がついて"
+],
+"answer": 1
+},
+{
+"id": "nihongopro:a725e783b0-5",
+"type": "context",
+"question": "今 日 買 い 物 に 行 く 予 定 たったが、( ) 映 画 を 見 に 行 った。",
+"options": [
+"気 が 変 わって",
+"気 になって",
+"気 が 戻 って",
+"気 が 立 って"
+],
+"answer": 0
+},
+{
+"id": "nihongopro:a8f9d1e9b3-1",
+"type": "context",
+"question": "間 違 ったニュースに( )が 立 った。",
+"options": [
+"気",
+"口",
+"耳",
+"腹"
+],
+"answer": 3
+},
+{
+"id": "nihongopro:a8f9d1e9b3-2",
+"type": "context",
+"question": "子 どものすることに、いちいち( )を 出 す。",
+"options": [
+"口",
+"顔",
+"舌",
+"足"
+],
+"answer": 0
+},
+{
+"id": "nihongopro:a8f9d1e9b3-3",
+"type": "context",
+"question": "プレゼントをもらって 喜 ぶ 姿 が( )に 浮 かぶ。",
+"options": [
+"背 中",
+"体",
+"頭",
+"目"
+],
+"answer": 3
+},
+{
+"id": "nihongopro:a8f9d1e9b3-4",
+"type": "context",
+"question": "今 ( )が 離 せないので、 電 話 に 出 れない。",
+"options": [
+"体",
+"手",
+"口",
+"耳"
+],
+"answer": 1
+},
+{
+"id": "nihongopro:a8f9d1e9b3-5",
+"type": "context",
+"question": "次 のテストのことを 考 えると( )が 痛 い。",
+"options": [
+"手",
+"腹",
+"頭",
+"腰"
+],
+"answer": 2
+},
+{
+"id": "nihongopro:add80afc69-1",
+"type": "context",
+"question": "昔 のアルバムを 見 て、 （ ） かった。",
+"options": [
+"かた",
+"あたらし",
+"さむ",
+"なつかし"
+],
+"answer": 3
+},
+{
+"id": "nihongopro:add80afc69-2",
+"type": "context",
+"question": "子 どもたちは 泥 （ ） になって 遊 んでいる。",
+"options": [
+"ずくめ",
+"ぎみ",
+"だらけ",
+"だけ"
+],
+"answer": 2
+},
+{
+"id": "nihongopro:add80afc69-3",
+"type": "context",
+"question": "来 月 、 私 の （ ） 友 人 が 遊 びに 来 ます。",
+"options": [
+"いやしい",
+"したしい",
+"うれしい",
+"くやしい"
+],
+"answer": 1
+},
+{
+"id": "nihongopro:add80afc69-4",
+"type": "context",
+"question": "この 書 類 を （ ） しておいてください。",
+"options": [
+"クリック",
+"サンド",
+"コピー",
+"テープ"
+],
+"answer": 2
+},
+{
+"id": "nihongopro:add80afc69-5",
+"type": "context",
+"question": "レポートを 書 いたら、 間 違 いがないかよく （ ） ましょう。",
+"options": [
+"たしかめ",
+"チェック",
+"みつめ",
+"なおし"
+],
+"answer": 0
+},
+{
+"id": "nihongopro:b022bf0c03-1",
+"type": "context",
+"question": "赤 ちゃんが 生 まれて、 （ ） 。",
+"options": [
+"かなしい",
+"なつかしい",
+"さびしい",
+"うれしい"
+],
+"answer": 3
+},
+{
+"id": "nihongopro:b022bf0c03-2",
+"type": "context",
+"question": "一 人 の 生 活 は、 （ ） 。",
+"options": [
+"おいしい",
+"かわいい",
+"びっくりする",
+"さびしい"
+],
+"answer": 3
+},
+{
+"id": "nihongopro:b022bf0c03-3",
+"type": "context",
+"question": "テストに 合 格 できなくて、 （ ） 。",
+"options": [
+"がっかりした",
+"おもしろかった",
+"たのしかった",
+"はらはらした"
+],
+"answer": 0
+},
+{
+"id": "nihongopro:b022bf0c03-4",
+"type": "context",
+"question": "昔 の 写 真 を 見 て、 （ ） と 思 う。",
+"options": [
+"うらやましい",
+"くわしい",
+"あつい",
+"なつかしい"
+],
+"answer": 3
+},
+{
+"id": "nihongopro:b022bf0c03-5",
+"type": "context",
+"question": "みんなの 前 で 転 んで、 （ ） 。",
+"options": [
+"はずかしかった",
+"うれしかった",
+"ちいさかった",
+"うらやましかった"
+],
+"answer": 0
+},
+{
+"id": "nihongopro:b022bf0c03-6",
+"type": "context",
+"question": "１ 時 間 も 電 車 が 来 なくて、 （ ） 。",
+"options": [
+"イライラする",
+"わくわくする",
+"はっきりする",
+"うっとりする"
+],
+"answer": 0
+},
+{
+"id": "nihongopro:b022bf0c03-7",
+"type": "context",
+"question": "大 勢 の 前 でスピーチするのは、 （ ） 。",
+"options": [
+"どきどきする",
+"ほそい",
+"すっきりする",
+"さびしい"
+],
+"answer": 0
+},
+{
+"id": "nihongopro:b40983fb87-1",
+"type": "kanji_meaning",
+"question": "「 頭 」",
+"options": [
+"あし",
+"くび",
+"あたま",
+"かお"
+],
+"answer": 2
+},
+{
+"id": "nihongopro:b40983fb87-2",
+"type": "kanji_meaning",
+"question": "「 指 」",
+"options": [
+"て",
+"ゆび",
+"つめ",
+"あし"
+],
+"answer": 1
+},
+{
+"id": "nihongopro:b40983fb87-3",
+"type": "kanji_meaning",
+"question": "「 顔 」",
+"options": [
+"ひたい",
+"あご",
+"かお",
+"はな"
+],
+"answer": 2
+},
+{
+"id": "nihongopro:b40983fb87-4",
+"type": "kanji_meaning",
+"question": "「 首 」",
+"options": [
+"しり",
+"もも",
+"くび",
+"せなか"
+],
+"answer": 2
+},
+{
+"id": "nihongopro:b40983fb87-5",
+"type": "kanji_meaning",
+"question": "「 耳 」",
+"options": [
+"みみ",
+"くち",
+"め",
+"はな"
+],
+"answer": 0
+},
+{
+"id": "nihongopro:b5fb1afd08-1",
+"type": "context",
+"question": "営 業 中 （ えいぎょうちゅう ）",
+"options": [
+"Toilet",
+"In preparation",
+"Open for Business",
+"Closed"
+],
+"answer": 2
+},
+{
+"id": "nihongopro:b5fb1afd08-2",
+"type": "context",
+"question": "準 備 中 （ じゅんびちゅう ）",
+"options": [
+"No smoking seat",
+"In preparation",
+"Open for Business",
+"Reserved seat"
+],
+"answer": 1
+},
+{
+"id": "nihongopro:b5fb1afd08-3",
+"type": "context",
+"question": "化 粧 室 （ けしょうしつ ）",
+"options": [
+"Closed",
+"Toilet",
+"Regular holiday",
+"Under construction"
+],
+"answer": 1
+},
+{
+"id": "nihongopro:b5fb1afd08-4",
+"type": "context",
+"question": "非 常 口 （ ひじょうぐち ）",
+"options": [
+"Smoking seat",
+"Emergency exit",
+"Closed",
+"Open for Business"
+],
+"answer": 1
+},
+{
+"id": "nihongopro:b5fb1afd08-5",
+"type": "context",
+"question": "閉 店 （ へいてん ）",
+"options": [
+"Closed",
+"Toilet",
+"No smoking seat",
+"Reserved seat"
+],
+"answer": 0
+},
+{
+"id": "nihongopro:b5fb1afd08-6",
+"type": "context",
+"question": "禁 煙 （ きんえん ）",
+"options": [
+"Smoking",
+"Emergency exit",
+"No Smoking",
+"Flammable"
+],
+"answer": 2
+},
+{
+"id": "nihongopro:b94af3995f-1",
+"type": "vocab_meaning",
+"question": "あの 女 の 子 のほおは ＿ ＿ の ように 赤 い。",
+"options": [
+"いちご",
+"トマト",
+"りんご",
+"さくらんぼ"
+],
+"answer": 2
+}
+]

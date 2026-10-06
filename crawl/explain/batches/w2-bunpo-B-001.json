@@ -1,0 +1,1042 @@
+[
+{
+"id": "gyanmirai:grammar-1-1",
+"type": "grammar_form",
+"question": "A: 「田中さんは今日もアルバイトでしょうか。」\n\nB 「今日はない（　）言っていましたよ。」",
+"options": [
+"を",
+"って",
+"のを",
+"だ"
+],
+"answer": 1,
+"source_explanation": "今日はないって言っていましたよ: (he/she) was saying there's none today. って is the casual quotation particle.\nって is the casual version of と for reported speech/quotation: 今日はないって言っていました = was saying 'there's none today.' It reports what someone said in casual speech, common in everyday conversation.\n✗ を: object marker; 今日はないを言っていました is ungrammatical — を marks objects but cannot introduce quoted content.\n✗ のを: nominalizer + object marker; 今日はないのを言っていました changes the structure to 'was saying the fact of there being none today' — grammatically awkward.\n✗ だ: copula; 今日はないだ言っていました is ungrammatical — the copula cann"
+},
+{
+"id": "gyanmirai:grammar-1-10",
+"type": "grammar_form",
+"question": "A社の商品が腰の痛めにどのくらい効果が（　）詳しく知りたい。",
+"options": [
+"あるのかによって",
+"あるのかについて",
+"あるのかどうかによって",
+"あるのかどうかについて"
+],
+"answer": 1,
+"source_explanation": "あるのかについて means 'about how effective it is' — について attaches to an embedded question to mean 'concerning that topic.'\nどのくらい効果があるのかについて詳しく知りたい — 'I want to know in detail about how effective the product is.' The clause どのくらい効果があるのか (how effective it is) is nominalized with のか and then について (about) attaches to it. This targets the degree/extent of effectiveness.\n〜のかについて — 'about [embedded question]'\nClause + のか + について + 知りたい / 調べる\n✗ あるのかによって means 'depending on how effective it is' — によって expresses condition/cause, but the sentence is about wanting knowledge, not expressing a dependency.\n✗ あるのかどうか"
+},
+{
+"id": "gyanmirai:grammar-1-11",
+"type": "grammar_form",
+"question": "昨日、 わたしと妹でスープを作ったんですが、 塩の量が間違えて味が（　）いました。",
+"options": [
+"濃くなりやすくなって",
+"濃くしやすくなって",
+"濃くなりすぎて",
+"濃くしすぎて"
+],
+"answer": 2,
+"source_explanation": "濃くなりすぎて means 'became too salty/thick' — なる (intransitive become) + すぎる (too much) describes an unintended result.\n濃い (こい) means thick/strong in flavor. 濃くなる (こくなる) = 'to become thick' (intransitive — it happened on its own). すぎる adds 'too much.' Because they made a mistake with salt, the flavor changed by itself — the intransitive なる is correct.\nAdjective-く + なりすぎる — 'became too [adjective]' (natural/unintentional change)\nい-Adjective stem + くなりすぎて\n✗ 濃くなりやすくなって means 'became easier to become thick' — this is a double change of state (become easier), not a one-time accidental result.\n✗ 濃くしやすくなっ"
+},
+{
+"id": "gyanmirai:grammar-1-12",
+"type": "grammar_form",
+"question": "A: 「あれ、 財布がない。」\nB: 「え、 本当ですか。」\nA: 「あ、ありました、 ありました。」\nB: 「もう、 びっくり（　）よ。 でも、よかったですね。」",
+"options": [
+"させないでください",
+"させてください",
+"させないことにしてください",
+"させることにしてください"
+],
+"answer": 0,
+"source_explanation": "びっくりさせないでください: Please don't startle me! Causative negative request: please don't cause me to be startled.\nびっくりさせる (causative of びっくりする: cause/make startled) → させないでください (please don't make [me] do). もう、びっくりさせないでください = You surprised me! Please don't do that. The speaker was startled by the false alarm about the wallet.\n✗ させてください: 'Please let me do / please let me startle' — requests permission to startle someone, the opposite.\n✗ させないことにしてください: 'please decide not to make [me] startle' — ことにする adds a deliberate policy decision that is overly complex for a simple request not to startle.\n✗ させることにしてく"
+},
+{
+"id": "gyanmirai:grammar-1-13",
+"type": "grammar_form",
+"question": "今朝からひどく歯が痛い。 すぐに歯医者に（　）、行きたくない。",
+"options": [
+"早く",
+"開いていない",
+"まだ",
+"行っても"
+],
+"answer": 2,
+"source_explanation": "まだ means 'still' — the speaker's tooth has been hurting since this morning, but they still don't want to go to the dentist.\nThe sentence: 今朝からひどく歯が痛い。すぐに歯医者に（ ）、行きたくない. The blank fills the contrast. まだ + 行きたくない = 'still don't want to go'. The speaker concedes the pain but maintains reluctance about visiting the dentist. まだ expresses that a previous state (not wanting to go) continues to hold despite the changing situation (the pain).\nまだ + [state or verb-negative] — 'still [something]; have not yet changed from the previous state'\nまだ + Verb-negative / adjective expressing a continuing state\n✗ 早"
+},
+{
+"id": "gyanmirai:grammar-1-17",
+"type": "grammar_form",
+"question": "A「ねえ、（　） どんな人?」B「とても親切でいい人だよ。」",
+"options": [
+"田中さんが",
+"田中さんで",
+"田中さんって",
+"田中さんでも"
+],
+"answer": 2,
+"source_explanation": "田中さんって is the casual topic marker って — 'Speaking of Tanaka-san, what kind of person are they?'\n（ ）どんな人? — A asks about Tanaka-san. 田中さんって (たなかさんって) uses って, the casual spoken form of は or という, to introduce a topic in conversation. って effectively means 'speaking of Tanaka-san, as for Tanaka-san.'\nN + って — casual spoken topic marker 'speaking of N, as for N'\nPerson name + って + [question about them]\n✗ 田中さんが uses が as a subject marker — 田中さんがどんな人? would be a direct question 'What person is Tanaka-san?' but the の/んだ structure is missing. More importantly, が marks the subject of a predicate, while っ"
+},
+{
+"id": "gyanmirai:grammar-1-19",
+"type": "grammar_form",
+"question": "(デパートでシャツを選びながら) 山田 「明るい色のシャツが欲しいんだけど...」田中 「だったら、これ（　）どう?山田さんにすごく似合うと思うよ。」",
+"options": [
+"なんか",
+"ばかり",
+"へ",
+"に"
+],
+"answer": 0,
+"source_explanation": "なんか is a casual particle meaning 'something like, how about ~' — used for informal suggestions or softening a recommendation.\nこれなんかどう? (これなんかどう?) — 'How about something like this?' なんか (also なんて) is a casual spoken particle that softens a suggestion or implies 'something in that vein.' Tanaka is suggesting a specific shirt while downplaying the recommendation with なんか, making it feel less pushy.\nN + なんか + どう — 'how about [N] (or something like it)?'\nN + なんか + どうですか / どう?\n✗ ばかり means 'only, just' — こればかりどう would mean 'how about only this one,' implying exclusive focus, not casual suggestion.\n✗ "
+},
+{
+"id": "gyanmirai:grammar-1-2",
+"type": "grammar_form",
+"question": "わたしは山田さんに会う （　） すてきな人だといつも思う。",
+"options": [
+"うちに",
+"はじめに",
+"たびに",
+"だけに"
+],
+"answer": 2,
+"source_explanation": "たびに means 'every time' — it marks a repeated trigger event that always leads to the same feeling or action.\n会うたびに (あうたびに) — 'every time I meet [her].' The pattern V-plain-present + たびに attaches to the trigger event. Here the trigger is meeting Yamada-san, and the repeated result is always thinking she is a wonderful person.\n〜たびに — 'every time ~, whenever ~'\nVerb-dictionary form + たびに + [recurring result]\n✗ うちに means 'while, before [a change happens].' It does not express repetition.\n✗ はじめに means 'first of all, at the beginning.' It marks sequence, not a repeated trigger.\n✗ だけに means 'precisely"
+},
+{
+"id": "gyanmirai:grammar-1-20",
+"type": "grammar_form",
+"question": "(スーパーで) 母親 「今、お菓子を買った子がタケルくん?」 子供 「ちがうよ。あそこで泣いて、お菓子を（　）子だよ。」",
+"options": [
+"欲しい",
+"欲しがっている",
+"欲しそうな",
+"欲しがってみる"
+],
+"answer": 1,
+"source_explanation": "お菓子を欲しがっている子: the child who is showing signs of wanting candy. 欲しがる = third-person expression of desire.\n欲しがる (want + がる) describes observable desire in a third person: お菓子を欲しがっている = (the child) is visibly wanting candy (crying for it). ている adds the ongoing/continuous state. The child's desire is observable behavior.\n✗ 欲しい: 'want' — first-person desire; using 欲しい directly would be the child's own statement, but the mother is describing the child's observable behavior to another person.\n✗ 欲しそうな: 'looks like wants' (appearance-based inference); 欲しそうな子 = 'a child who looks like they want' — possi"
+},
+{
+"id": "gyanmirai:grammar-1-4",
+"type": "grammar_form",
+"question": "今日は七時に東京駅で友達と（　）ことになっているので、そろそろ出ます。",
+"options": [
+"会おう",
+"会う",
+"会った",
+"会って"
+],
+"answer": 1,
+"source_explanation": "ことになっている expresses an arrangement or decided plan — 'it has been arranged that I will meet a friend'.\n〜ことになっている expresses a pre-arranged situation or social expectation: 'it has been decided/arranged that [X]'. 友達と会う (あう) ことになっている = 'it has been arranged that I will meet a friend'. The arrangement is something decided by mutual agreement or external circumstance, not the speaker's personal decision. This is why the speaker is leaving — the arrangement exists.\nVerb-dictionary form + ことになっている — 'it has been arranged/decided that [X]; there is an expectation to do [X]'\nVerb-dictionary form + ことにな"
+},
+{
+"id": "gyanmirai:grammar-1-5",
+"type": "grammar_form",
+"question": "医者からたばこを（　）ように言われているのだが、 なかなかやめられない。",
+"options": [
+"やめる",
+"やめた",
+"やめない",
+"やめ"
+],
+"answer": 0,
+"source_explanation": "たばこをやめるように言われている: told to quit smoking. 〜ように言う takes the dictionary form of the verb being prescribed.\n〜ように言う/言われる expresses indirect instruction (telling someone to do something): X に Verb(dictionary) ように言われている = have been told to [do X]. The verb before ように must be the dictionary form: やめる (not past tense or other forms).\n✗ やめた is past tense (stopped); ように言われている requires the non-past/dictionary form, not the past tense.\n✗ やめない is negative (not quitting); ように言われている with a negative form would mean 'told not to quit' — the opposite instruction.\n✗ やめ is the masu-stem; ように言われている takes the diction"
+},
+{
+"id": "gyanmirai:grammar-1-6",
+"type": "grammar_form",
+"question": "山田先生の講演の（　）、皆熱心に話を聞いていた。",
+"options": [
+"あいだと",
+"あいだに",
+"あいだ",
+"あいだで"
+],
+"answer": 2,
+"source_explanation": "山田先生の講演のあいだ means 'during Prof. Yamada's lecture' — plain あいだ (without に) marks the entire duration of an ongoing situation.\n講演のあいだ (こうえんのあいだ) — 'during the lecture.' When the main clause describes a continuous state lasting throughout the period (皆熱心に話を聞いていた — everyone was listening attentively the whole time), plain あいだ is used without に.\nNoun + のあいだ — 'throughout the duration of N' (continuous background)\nNoun + のあいだ + continuous-state verb\n✗ あいだと is not a standard grammar pattern in this context.\n✗ あいだに marks a sub-event that happens at some point within a period ('while / in the meantime "
+},
+{
+"id": "gyanmirai:grammar-1-7",
+"type": "grammar_form",
+"question": "A: 「かばん売り場はどこ?」\nB: 「5階に（　）」",
+"options": [
+"ございます",
+"いらっしゃいます",
+"いる",
+"おります"
+],
+"answer": 0,
+"source_explanation": "5階にございます: It is on the 5th floor. ございます is the formal honorific copula for things/locations.\nございます is the formal, polite equivalent of あります for objects/locations, used in service contexts: 5階にございます = It is on the 5th floor (formal). Shop staff use ございます to direct customers to locations.\n✗ いらっしゃいます is the honorific form of いる/いく/くる for people: the かばん売り場 (bag department) is a place, not a person, so the animate honorific いらっしゃいます is incorrect.\n✗ いる is the informal form for animate beings; shop staff use formal speech, and いる is inappropriate in service language.\n✗ おります is the humble form of いる "
+},
+{
+"id": "gyanmirai:grammar-1-8",
+"type": "grammar_form",
+"question": "(喫茶店で)\nA 「何か食べようか。」\nB「わたし、スパゲッティとコーヒー。」\nC 「わたし、おなかすいてないから、コーヒー（　）する。」",
+"options": [
+"だけ",
+"だけで",
+"だけを",
+"だけに"
+],
+"answer": 3,
+"source_explanation": "だけに here means 'limited to just' in the sense 'I'll have only coffee (as my order)', making it the right choice for a polite narrowing of one's choice.\n〜だけに + する means 'to limit oneself to just' or 'to settle for only'. Person C is not hungry and says コーヒーだけにする = 'I'll just have coffee'. The だけ limits the choice, and に + する means 'to decide on / to go with'. This phrase is natural when someone is reducing their order from a full meal to just one item.\n〜だけにする — 'to limit oneself to just [X]; to settle for only [X]'\nNoun + だけに + する\n✗ だけ without に + する ends the sentence in an incomplete way. Noun"
+},
+{
+"id": "gyanmirai:grammar-10-1",
+"type": "grammar_form",
+"question": "先月買った靴は、（　） 足が疲れないので気に入っている。",
+"options": [
+"歩きやすくて",
+"歩きすぎて",
+"歩きやすかったら",
+"歩きすぎたら"
+],
+"answer": 0,
+"source_explanation": "歩きやすくて means 'easy to walk in, and therefore' — V-stem + やすい (easy to V) + て-form gives the reason feet don't tire.\n先月買った靴は、歩きやすくて足が疲れない (あるきやすくてあしがつかれない) — 'The shoes I bought last month are easy to walk in, so my feet don't get tired.' 歩く (あるく) → masu-stem 歩き + やすい = 歩きやすい (easy to walk in); the て-form connects it as a reason for the result.\nV-masu-stem + やすくて — 'being easy to V, and so...' (reason via te-form)\nV-masu-stem + やすくて + [positive result]\n✗ 歩きすぎて means 'having walked too much, and so' — すぎる adds excess. Walking too much would cause tiredness, not prevent it.\n✗ 歩きやすかったら means 'if t"
+},
+{
+"id": "gyanmirai:grammar-10-10",
+"type": "grammar_form",
+"question": "(会社で)\n田中: 「すみません、森さん。私、先週のセミナー、出張で出られなかったので、資料を（　）。」\n森: 「あ、いいですよ。これです。どうぞ。」",
+"options": [
+"ぐらいでも、",
+"ずっなら",
+"までなら",
+"からでも"
+],
+"answer": 1,
+"source_explanation": "資料をずっなら (likely: ずっと/from before → probably a typo for もらえるなら): if I could get the materials. Context: missed seminar, requesting materials.\nEntry 141: 田中 asks 森 about materials from the missed seminar. The correct answer is ずっなら (option 1). This appears to be a sentence-arrangement question; the pair {ぐらいでも、ずっなら、までなら、からでも} forms part of a larger sequence. ずっなら in context likely means 'if you have them / if possible, (I'd like the materials).'\n✗ ぐらいでも: 'even about/approximately'; doesn't fit a request for specific materials.\n✗ までなら: 'up to this extent is OK'; sets an upper limit, not a request"
+},
+{
+"id": "gyanmirai:grammar-10-11",
+"type": "grammar_form",
+"question": "A: 「ねえ、『星の物語』って読んだことある?」\n\nB: 「うん、3巻 （　） 読んだよ。最新の4巻はまだ読んでないんだけど。」",
+"options": [
+"ぐらいでも、",
+"ずっなら",
+"までなら",
+"からでも"
+],
+"answer": 2,
+"source_explanation": "3巻までなら読んだ: I've read up to volume 3 (that extent is what I've covered). までなら sets an upper limit that has been reached.\n〜までなら combines まで (up to/as far as) + なら (conditional/if-then): 3巻までなら読んだ = I've read [as far as] up to volume 3 [at least that much]. The なら softens the statement, implying 'that much I've done.'\n✗ ぐらいでも: 'even about/approximately' — 3巻ぐらいでも読んだ doesn't set a clear upper limit and implies even an approximate amount is fine.\n✗ ずっなら appears to be a typo or error (perhaps ずっとなら, 'if always'); it does not form a natural expression for describing reading progress.\n✗ からでも: 'even st"
+},
+{
+"id": "gyanmirai:grammar-10-12",
+"type": "grammar_form",
+"question": "駅前にできた喫茶店はコーヒーが 20 種類以上あるそうだ。友達に（　）と誘われたので、今度一緒に行くことにした。",
+"options": [
+"行ってみないか",
+"行ったらいい",
+".行っただろう",
+"行ってみて"
+],
+"answer": 0,
+"source_explanation": "行ってみないか is a casual invitation — 'why don't we try going?' — V-te + みる (try) + ないか (invitation question).\n友達に行ってみないかと誘われた (いってみないかとさそわれた) — 'A friend invited me [saying] why don't we try going?' 行ってみる = 'try going'; ないか = casual invitation tag meaning 'won't you? why don't you/we?' Together they form a casual suggestion to try something new.\nVerb-te + みないか — casual invitation 'why don't we try ~?'\nV-te + みないか (と誘う)\n✗ 行ったらいい means 'it would be good if you went' — unilateral advice rather than a mutual invitation.\n✗ 行っただろう means 'probably went' — a past-tense conjecture, not an invitation.\n✗ 行って"
+},
+{
+"id": "gyanmirai:grammar-10-13",
+"type": "grammar_form",
+"question": "今日の夕方、聞きたいとこがあって営業部の南さんのところに行ったが、もう いなかった。",
+"options": [
+"帰っていく前に",
+"帰っている間は",
+"帰ってきたまま",
+"帰 ってしまっていて"
+],
+"answer": 3,
+"source_explanation": "帰ってしまっていて means '[Minami-san] had already gone home' — てしまう marks unfortunate completion, ていて gives the resulting state as a reason.\n帰ってしまっていて (かえってしまっていて) — 帰る (かえる, to go home) + てしまう (completed, with regret) + ていて (continuing state, used as a reason). The speaker went to visit but found that Minami-san had already left — an unfortunate discovery.\n〜てしまっていて — 'had already [done], unfortunately' (past completion + resulting state as reason)\nVerb-te + しまっていて\n✗ 帰っていく前に means 'before going home' — this would imply the speaker arrived before Minami-san left, the opposite of what happened.\n✗ 帰っている間"
+},
+{
+"id": "gyanmirai:grammar-10-14",
+"type": "grammar_form",
+"question": "(公園で)\n山下:「この木は本当に大きいですね。」\n\n林:「そうですね。ここまで（　） 20年ぐらいかかったそうですよ。」",
+"options": [
+"大きくなるのに",
+"大きいようだし 、",
+"大きくできて",
+"大きいほうがよければ"
+],
+"answer": 0,
+"source_explanation": "〜のに (time/effort required) + かかった: 大きくなるのに20年かかった = it took 20 years to grow this big. のに marks what the effort/time goes toward.\n〜のに used with time expressions and かかる/かける means 'it takes [time] to do X': ここまで大きくなるのに20年ぐらいかかった = it took about 20 years to grow to this size. のに nominalizes the purpose/destination of the time spent.\n✗ 大きいようだし (seems big, and...) uses ようだ (appearance) + し (listing reasons); it cannot combine with かかった (took time) to form a time-duration sentence.\n✗ 大きくできて (was able to make big) uses the transitive potential; trees grow by themselves (intransitive 大きくなる), so できて i"
+},
+{
+"id": "gyanmirai:grammar-10-15",
+"type": "grammar_form",
+"question": "医者:「この薬を、3日間、1日3回飲んでください。」\n\n患者:「わかりました。痛みがないときも、（　）。」\n\n医者:「はい。必ず飲んでください。」",
+"options": [
+"飲まないほうがよさそうですね",
+"飲まないといけないでしょうか",
+"飲まなくてもしかたないですね",
+"飲まなければいいんでしょうか"
+],
+"answer": 1,
+"source_explanation": "痛みがないときも飲まないといけないでしょうか: Even when there's no pain, do I have to take it? 〜ないといけない = must / have to.\n〜ないといけない (must / have to): 飲まないといけないでしょうか = must I take it? (even without pain). The patient confirms whether the obligation applies universally. でしょうか softens the question.\n✗ 飲まないほうがよさそうですね: 'seems like it's better not to take it' — suggests not taking is advisable; the doctor then says 必ず飲んでください = must take, contradicting this option.\n✗ 飲まなくてもしかたないですね: 'I guess there's nothing I can do about not taking it' — accepts not taking; but the doctor insists on taking it regardless.\n✗ 飲まなければいいんでしょうか: "
+},
+{
+"id": "gyanmirai:grammar-10-16",
+"type": "grammar_form",
+"question": "昨日の夜はとても疲れていたので、夕飯の後、電気（　）消さないでソファで寝て しまった。",
+"options": [
+"も",
+"と",
+"が",
+"で"
+],
+"answer": 0,
+"source_explanation": "も after 電気 means 'even / also', completing 電気も消さないで — 'without even turning off the lights' — showing the speaker was exhausted.\nも here functions as an additive/emphatic particle meaning 'even / also'. 電気 (でんき) も消さないで (けさないで) ソファで寝てしまった = 'I fell asleep on the sofa without even turning off the lights.' The も emphasizes that the speaker did not even do the basic minimum (turn off the lights), which shows how exhausted they were. 消さないで (without turning off) is the negative te-form used as a manner marker.\nNoun + も + Verb-negative form + で — 'without even doing [minimum action]'\nNoun + も + Verb-n"
+},
+{
+"id": "gyanmirai:grammar-10-17",
+"type": "grammar_form",
+"question": "隣の席の山田さんは、文句が多い。いつも（　）言っている。",
+"options": [
+"もっとも",
+"せっかく",
+"ようやく",
+"あまりにも"
+],
+"answer": 3,
+"source_explanation": "いつもあまりにも文句を言っている: always complaining excessively. あまりにも emphasizes the excessive degree of complaining.\nあまりにも (excessively / to too great a degree): 隣の席の山田さんはいつもあまりにも文句を言っている = the colleague Yamada is always complaining way too much. あまりにも expresses that the degree of complaining exceeds what is reasonable.\n✗ もっとも: 'however/although' (concession); cannot function as a degree adverb modifying 文句を言う.\n✗ せっかく: 'going to the trouble of'; せっかく文句を言っている = going to the trouble of complaining — implies the complaining is an effort, not excessive.\n✗ ようやく: 'finally/at last'; ようやく文句を言っている = finally complai"
+},
+{
+"id": "gyanmirai:grammar-10-18",
+"type": "grammar_form",
+"question": "最近できたケーキ屋に今日初めて行ってみたが、（　）込んでいたので、何も買わずに帰ってきた。",
+"options": [
+"もっとも",
+"せっかく",
+"ようやく",
+"あまりにも"
+],
+"answer": 3,
+"source_explanation": "あまりにも込んでいた = it was excessively crowded. あまりにも emphasizes that the degree of something exceeded expectations or tolerance.\nあまりにも (too much / excessively) modifies adjectives and verbs to show something was beyond acceptable limits: あまりにも込んでいたので = because it was so incredibly crowded, [nothing was bought]. The speaker's surprise at the crowding is conveyed.\n✗ もっとも introduces a concession: もっとも混んでいたが = however it was crowded... it cannot function as a degree adverb modifying 込んでいた.\n✗ せっかく expresses effort made in advance (せっかく行ったのに = I went to the trouble of going but...); it does not describe t"
+},
+{
+"id": "gyanmirai:grammar-10-19",
+"type": "grammar_form",
+"question": "私の大学の国際政治学部は、他の学部 （　） 留学生の割合が高い。",
+"options": [
+"において",
+"によって",
+"にくらべて",
+"にしたがって"
+],
+"answer": 2,
+"source_explanation": "他の学部にくらべて留学生の割合が高い: the proportion of international students is high compared to other departments. にくらべて = compared to.\n〜にくらべて (compared to): 他の学部にくらべて = compared to other departments. This sets up a comparative baseline to highlight the unusually high proportion of international students in this specific faculty.\n✗ 〜において: 'in / at' (formal context) — 他の学部において = in other departments; marks context, not comparison.\n✗ 〜によって: 'depending on / by means of / due to': 他の学部によって = depending on / due to other departments; doesn't set up a comparison.\n✗ 〜にしたがって: 'as X progresses / following X': 他の学部にしたが"
+},
+{
+"id": "gyanmirai:grammar-10-2",
+"type": "grammar_form",
+"question": "(電話で)\n父:「はい、山下です。」\n\n息子:「あ、もしもし、お父さん?今、お母さん、家にいる?」\n\n父:「ああ、いるよ。ちょうど仕事から（　）よ。」",
+"options": [
+"ですから",
+"で",
+"いい",
+"まで"
+],
+"answer": 2,
+"source_explanation": "ちょうど仕事から[帰ってきた]よ: she just got back from work. いい here works contextually in the reply — examining the question's context.\nEntry 132: 息子 asks if お母さん is home; father says いるよ and ちょうど仕事から( )よ = just [got back] from work. The answer いい doesn't fit the blank directly — the expected answer is 帰ってきた. However, the correct option (2 = いい) may come from a sentence-arrangement type where the position tested is different.\n✗ ですから: 'because / therefore' — reason connector; 仕事からですから = because from work — incomplete and unnatural.\n✗ で: particle or te-form; 仕事からで = unnatural particle combination here.\n✗ まで:"
+},
+{
+"id": "gyanmirai:grammar-10-20",
+"type": "grammar_form",
+"question": "昨日、1か月前から編んでいたセーターが完成した。途中で間違えて、何度か（　） けれど、完成させることができてよかった。",
+"options": [
+"やりおわった",
+"やりなおす",
+"やっておいた",
+"やってあった"
+],
+"answer": 1,
+"source_explanation": "やりなおす (やり直す) means 'to redo, to start over' — the compound verb for correcting mistakes by doing something again from the beginning.\n途中で間違えて、何度かやりなおす (やりなおす) — 'I made mistakes along the way and had to redo it several times.' やり直す (やりなおす) = やる (to do) + 直す (to fix/redo). This compound verb describes restarting after an error — exactly what happens when knitting a sweater wrong.\nやり直す — 'to redo, to start over, to do again from scratch after an error'\n何度か + やり直して + でも完成させた\n✗ やりおわった means 'finished doing' — this describes completion, not restarting after error.\n✗ やっておいた means 'did in advance, did"
+},
+{
+"id": "gyanmirai:grammar-10-3",
+"type": "grammar_form",
+"question": "今年は夏休みに国へ帰りません。日本で夏休み（　）過ごすのは今年が初めてです。",
+"options": [
+"と",
+"が",
+"へ",
+"を"
+],
+"answer": 3,
+"source_explanation": "日本で夏休みを過ごす: spend summer vacation in Japan. を marks the time period through which one passes (with motion/time verbs).\n〜を過ごす: を used with 過ごす (to spend time) marks the time period: 夏休みを日本で過ごす = spend summer vacation in Japan. を is used with time-period expressions + 過ごす, 歩く (walk through), 渡る (cross), etc.\n✗ 〜と: 'with / and'; 夏休みと過ごす = spend time with summer vacation — nonsensical.\n✗ 〜が: subject marker; 夏休みが過ごす = summer vacation spends — wrong subject (夏休み can't spend time).\n✗ 〜へ: directional particle; 夏休みへ過ごす = spend time toward summer vacation — directional and unnatural with 過ごす."
+},
+{
+"id": "gyanmirai:grammar-10-4",
+"type": "grammar_form",
+"question": "この美術館では、10年前から外国人旅行者 （　） チケットの割引サービスを行っている。",
+"options": [
+"に対して",
+"に比べて",
+"のことで",
+"のほかに"
+],
+"answer": 0,
+"source_explanation": "外国人旅行者に対してチケットの割引サービスを行っている: providing ticket discounts for foreign tourists. に対して marks the target group.\n〜に対して (toward / for / directed at): 外国人旅行者に対してサービスを行う = provide services for/toward foreign tourists. に対して identifies the group that is the beneficiary/target of the policy.\n✗ に比べて: 'compared to'; 外国人旅行者に比べてサービスを行う = provide services compared to foreign tourists — sets up a comparison, not a directed action.\n✗ のことで: 'about / regarding'; 外国人旅行者のことでサービスを行う = do a service about foreign tourists — vague.\n✗ のほかに: 'besides / in addition to'; 外国人旅行者のほかにサービスを行う = provide services in addition to f"
+},
+{
+"id": "gyanmirai:grammar-10-5",
+"type": "grammar_form",
+"question": "今朝（　） 早起きをしてお弁当を作ったのに、持ってくるのを忘れてしまった。",
+"options": [
+"ぜったい",
+"せっかく",
+"けっして",
+"まったく"
+],
+"answer": 1,
+"source_explanation": "今朝せっかく早起きをしてお弁当を作ったのに、持ってくるのを忘れた: I woke up early and made a bento specially, yet forgot to bring it. せっかく marks effort that went to waste.\nせっかく (going to the trouble of / especially / specially) expresses that an effort was made with positive intent, which then went to waste or was frustrated: せっかく早起きして作ったのに忘れた = I made the special effort of waking early and making it, yet I forgot it.\n✗ ぜったい: 'absolutely/definitely'; ぜったい早起きして = absolutely woke up early — strong assertion, not the 'wasted effort' nuance.\n✗ けっして: 'never / absolutely not' (with negatives); けっして早起きして is unnatural — けっして precede"
+},
+{
+"id": "gyanmirai:grammar-10-6",
+"type": "grammar_form",
+"question": "健康でいるためには、食事に（　）、運動もしたほうがいいことはわかっているが、忙しくてなかなか運動する時間 がとれない。",
+"options": [
+"気をつけることで",
+"気をつけるかどうか",
+"気をつけるのだから",
+"気をつけるだけではなく"
+],
+"answer": 3,
+"source_explanation": "気をつけるだけではなく means 'not only being careful about diet but also' — だけではなく expands beyond one item to include another.\n食事に気をつけるだけではなく、運動もしたほうがいい — 'Not only should you watch your diet, but you should also exercise.' The pattern V-dict + だけではなく introduces an additional item beyond the stated one. The follow-up 運動も confirms that both conditions are needed.\n〜だけではなく〜も — 'not only ~ but also ~'\nVerb-plain + だけではなく + [additional element] + も\n✗ 気をつけることで means 'by being careful about diet' — で marks means/method, implying diet alone is sufficient. The sentence adds exercise, so this contradicts the meani"
+},
+{
+"id": "gyanmirai:grammar-10-7",
+"type": "grammar_form",
+"question": "A: 「ねえ、最近、娘がピアノを習いたいと言ってるから、（　）と思ってるんだけど、4歳じゃまだ早いと思う?」\n\nB: 「ううん、別に早くないと思うよ。習わせてみたらいいんじゃない?」",
+"options": [
+"習わせるだろうか",
+"習わせようか",
+"習わせているのだ",
+"習わせるつもりだ"
+],
+"answer": 1,
+"source_explanation": "習わせようか means 'should I have her learn?' — causative + volitional よう expresses the speaker's deliberation about arranging lessons.\n習わせる (ならわせる) is the causative of 習う (ならう, to learn/take lessons): 'to have [someone] learn.' Adding よう (volitional) + か (question particle) creates an internal deliberation: 'should I have her learn [piano]?' The speaker is thinking aloud while seeking B's opinion.\nVerb-causative + ようか — 'should I have [someone] do ~?' (deliberation)\nVerb-causative stem + ようか + と思ってる\n✗ 習わせるだろうか means 'I wonder if [she] will learn' — だろうか expresses uncertainty about an outcome, not t"
+},
+{
+"id": "gyanmirai:grammar-10-8",
+"type": "grammar_form",
+"question": "自分の会社をつくったと言うとよく驚かれるが、会社をつくることは必ずしも（　）。",
+"options": [
+"難しいに違いない",
+"難しいはずがない",
+"難しいことではない",
+"難しいかもしれない"
+],
+"answer": 2,
+"source_explanation": "会社をつくることは必ずしも難しいことではない: starting a company is not necessarily a difficult thing. ことではない frames it as a nominal judgment.\n必ずしも〜ではない (not necessarily): 必ずしも難しいことではない = not necessarily a difficult matter. The speaker challenges the assumption that starting a company is always hard. ことではない turns the adjective into a nominal statement about the nature of the thing.\n✗ 難しいに違いない: 'must certainly be difficult' — strong certainty of difficulty; this is the opposite of the 'not necessarily difficult' message.\n✗ 難しいはずがない: 'there's no way it's difficult' — strong denial of difficulty; while similar to the "
+},
+{
+"id": "gyanmirai:grammar-10-9",
+"type": "grammar_form",
+"question": "(レストランで)\n客:「ランチセットを一つお願いします。」\n店員:「AセットとBセットのどちらに（　）か。」\n客:「あ、Aセットをお願いします。」",
+"options": [
+"食べられます",
+"差し上げます",
+"なさいます",
+"ございます"
+],
+"answer": 2,
+"source_explanation": "AセットとBセットのどちらになさいますか: Which (set) will you have? なさいます is the honorific form of する, used for a customer's choice.\nなさる is 尊敬語 for する. In service contexts, staff use なさいます to honor the customer's choice/action: どちらになさいますか = Which will you go with? (Lit. Which will you do?). The polite form of する for the customer's decision.\n✗ 食べられます: '(you) can eat' or passive of 食べる — potential or passive form; neither expresses a polite honorific for the customer's menu choice.\n✗ 差し上げます: 'I humbly give (to you)' — humble giving expression from the staff's perspective; it's not used to ask the customer's choice"
+},
+{
+"id": "gyanmirai:grammar-11-1",
+"type": "grammar_form",
+"question": "(高校で)\n先生:「大学合格おめでとう。よく頑張ったね。」 生徒:「ありがとうございます。先生がいつも丁寧に教えてくださった（　）。」",
+"options": [
+"ようです",
+"せいです",
+"はずです",
+"おかげです"
+],
+"answer": 3,
+"source_explanation": "おかげです expresses gratitude for positive results caused by another person's effort, which matches a student thanking a teacher for helping them pass.\n〜のおかげです (お陰です) means 'it is thanks to [X]'. The student says 先生 (せんせい) がいつも丁寧 (ていねい) に教えてくださったおかげです = 'It is thanks to the fact that you always taught me carefully.' おかげ attributes a good outcome to a cause. Here the cause is the teacher's dedicated teaching, and the good outcome is passing the university entrance exam. The で in おかげです marks the cause.\n〜のおかげです — 'it is thanks to [X]; I owe [positive result] to [X]'\nVerb (plain form) + おかげで / おかげです\n✗"
+},
+{
+"id": "gyanmirai:grammar-11-10",
+"type": "grammar_form",
+"question": "このファッション誌は、20～25 歳の女性（　）中心に多くの人に人気があます。",
+"options": [
+"に",
+"で",
+"は",
+"を"
+],
+"answer": 3,
+"source_explanation": "20〜25歳の女性を中心に: with 20-25-year-old women as the focus. 〜を中心に is a set phrase meaning 'centered on/focused on X.'\n〜を中心に is a fixed expression (set phrase): 20〜25歳の女性を中心に = with 20-to-25-year-old women as the target/focus. を marks the focal group. The magazine is primarily popular with this demographic.\n✗ 〜に中心に would be redundant; 中心に already contains the directional meaning, so を is needed to mark the object.\n✗ 〜で中心に: で marks means or location; 女性で中心に doesn't form the standard 〜を中心に fixed expression.\n✗ 〜は中心に: は marks topic; introducing the women as a topic rather than using を changes the gramma"
+},
+{
+"id": "gyanmirai:grammar-11-11",
+"type": "grammar_form",
+"question": "昨日のパーティーで、知り合いになった人といっぱいお話したけど、彼の名前を（　）思い出せない。",
+"options": [
+"必ず",
+"必ずしも",
+"どうか",
+"どうしても"
+],
+"answer": 3,
+"source_explanation": "どうしても〜ない means 'no matter what I try, I can't' — expressing inability despite effort. Here: the name just won't come back.\nどうしても in a negative sentence means 'no matter how hard I try, I cannot': どうしても思い出せない = I just cannot remember, no matter what. It conveys stubborn inability or resistance.\n✗ 必ず means 'certainly/definitely' (positive); in a negative sentence it becomes 必ず〜ない = definitely won't, which implies certainty of negation rather than frustrated inability.\n✗ 必ずしも〜ない means 'not necessarily,' expressing that something is not always true; it expresses a logical qualification, not person"
+},
+{
+"id": "gyanmirai:grammar-11-12",
+"type": "grammar_form",
+"question": "奨学金を申請するには、申込書（　）成績証明書などの情報が必要です。",
+"options": [
+"のほかに",
+"のことで",
+"について",
+"にくらべて"
+],
+"answer": 0,
+"source_explanation": "申込書のほかに成績証明書などが必要です: in addition to the application form, a transcript etc. is needed. のほかに = besides/in addition to.\n〜のほかに (besides / in addition to / other than): 申込書のほかに成績証明書などの情報が必要 = in addition to the application form, documents like transcripts are required. ほかに specifies that the application form is one item in a larger set.\n✗ のことで: 'about / regarding'; 申込書のことで = about the application form — topic marker, not addition.\n✗ について: 'about/regarding'; 申込書について = regarding the application — explains context, not lists additional requirements.\n✗ にくらべて: 'compared to'; 申込書にくらべて = compared to the "
+},
+{
+"id": "gyanmirai:grammar-11-13",
+"type": "grammar_form",
+"question": "A：「あ、今雨が降り出した。」\n\nB ：「あ、本当ですね。今夜は大雨が降るそうですね。\n大雨が降らない（　）急いで帰りましょう。」",
+"options": [
+"ように",
+"うちに",
+"ために",
+"までに"
+],
+"answer": 1,
+"source_explanation": "うちに means 'while (a condition still holds)' — hurry home before the heavy rain starts.\n〜ないうちに means 'while [something negative] has not yet happened'. 大雨が降らないうちに急いで帰りましょう = 'Let us hurry home while the heavy rain has not started yet.' B sees light rain beginning and warns that heavy rain is coming. The speaker wants to act before the window of safe conditions closes. This is the structure for doing something before a bad event occurs.\nVerb-negative + うちに — 'while [bad situation] has not yet occurred; before it does'\nVerb-negative form + うちに + [recommended action]\n✗ ように here would mean 'in a wa"
+},
+{
+"id": "gyanmirai:grammar-11-14",
+"type": "grammar_form",
+"question": "社長はいつも私たちのために出張帰りに、お土産を買ってきて（　）。",
+"options": [
+"くださいます",
+"いただきます",
+"差し上げます",
+"召し上がります"
+],
+"answer": 0,
+"source_explanation": "くださいます is the honorific form of 'giving from a superior to the speaker' — the president gives souvenirs to the employees.\n社長は出張帰りにお土産を買ってきてくださいます (しゃちょうはしゅっちょうがえりにおみやげをかってきてくださいます) — 'The president always buys souvenirs and gives them to us on returning from business trips.' くださる/くださいます is the honorific giving verb: the giver (president, high status) → receiver (speaker, lower status).\nV-te + くださる — honorific 'to give [action] to speaker/in-group' (giver is socially higher)\nSuperior + V-te + くださいます\n✗ いただきます (いただく) is humble 'to receive' — the subject would be the speaker doing the receiving, n"
+},
+{
+"id": "gyanmirai:grammar-11-15",
+"type": "grammar_form",
+"question": "妹:「お姉さん、もうすぐ電車（　）！」\n\n姉：「わかった。急ごう。」",
+"options": [
+"来てる",
+"来とく",
+"来ちゃう",
+"来なきゃ"
+],
+"answer": 2,
+"source_explanation": "来ちゃう is the colloquial form of 来てしまう, expressing that the train will arrive (and leave without them) — a note of urgency.\n〜てしまう (colloquially 〜ちゃう) expresses an action that the speaker feels is regrettable or beyond control. 電車 (でんしゃ) 来ちゃう = 'The train is going to come (and leave without us)!' The younger sister warns that the train will arrive and depart if they don't hurry. てしまう/ちゃう here carries the nuance of an unwanted consequence — missing the train. The older sister's reply 急ごう (let's hurry) confirms this urgency.\n〜てしまう / 〜ちゃう (colloquial) — 'will end up happening (with a sense of regret"
+},
+{
+"id": "gyanmirai:grammar-11-16",
+"type": "grammar_form",
+"question": "息子「私の算数の教科書、どこ？ここにないね。」\n母「え？（　）でしょ。昨日明日が宿題をしているのを見たから。探してください。",
+"options": [
+"ないに違いない",
+"ないはずがない",
+"なくてはいけない",
+"なくてもおかしくない"
+],
+"answer": 1,
+"source_explanation": "ないはずがない: there's no way it's not there = it must certainly be there. Double negative expressing strong certainty.\nない + はずがない: 'there's no way it's not [here]' = it must be there. The mother confidently asserts: 昨日宿題をしているのを見たから、ないはずがないでしょ = I saw you doing your homework yesterday, so there's no way it's not there.\n✗ ないに違いない: 'must certainly not be / must be absent' — strong certainty that something is NOT there; opposite of the mother's certainty.\n✗ なくてはいけない: 'must not have it / must be absent' (obligation); unrelated to the mother's confident assertion about the textbook's location.\n✗ なくてもおかしく"
+},
+{
+"id": "gyanmirai:grammar-11-17",
+"type": "grammar_form",
+"question": "私の大学の近くには、森中駅と南川駅がありますが、（　）大学に行けます。いつもは森中駅から歩いていきますね。",
+"options": [
+"どちらからでも",
+"どちらかどうか",
+"どっちかも",
+"あっちこっちから"
+],
+"answer": 0,
+"source_explanation": "どちらからでも means 'from either one, from whichever station' — どちら (which of two) + から (from) + でも (even, any).\n森中駅と南川駅がありますが、どちらからでも大学に行けます (どちらからでもだいがくにいけます) — 'There are two stations, but you can get to the university from either one.' どちら = 'which of two'; からでも = 'from even / from any one of them.' The statement says no matter which station, the route works.\nどちらからでも — 'from either [of the two], from whichever one'\nどちらからでも + V-potential\n✗ どちらかどうか means 'whether either' — this turns the clause into an embedded question about which is true, not a statement that both work.\n✗ どっちかも is informal — どっち"
+},
+{
+"id": "gyanmirai:grammar-11-18",
+"type": "grammar_form",
+"question": "（料理教室で）\n\n先生: 沸騰したら、お湯に塩とキャベツを入れて、キャベツが（　）まで待ってください。",
+"options": [
+"柔らかくする",
+"柔らかくにる",
+"柔らかくなる",
+"柔らかく"
+],
+"answer": 2,
+"source_explanation": "柔らかくなる is the intransitive 'to become soft' — the natural process of cabbage softening in boiling water.\nキャベツが柔らかくなるまで待ってください (やわらかくなるまでまってください) — 'Please wait until the cabbage becomes soft.' 柔らかくなる (やわらかくなる) = intransitive 'to become soft' — a natural process caused by heat. The instruction is to wait for this natural change; the speaker does not cause it directly.\nAdjective-く + なる + まで — 'until [it] becomes [adjective]' (natural intransitive change)\nい-Adj stem + くなるまで + wait / cook\n✗ 柔らかくする means 'to make soft' (transitive) — if you use する, the cook becomes the agent making the cabbage soft"
+},
+{
+"id": "gyanmirai:grammar-11-19",
+"type": "grammar_form",
+"question": "昨日初めてパンを作ってみた。インタネットに書いてあったレシピー通りに作った（　）失敗した。",
+"options": [
+"から",
+"のに",
+"のは",
+"ので"
+],
+"answer": 1,
+"source_explanation": "〜のに (contrary expectation): made it exactly per the recipe but still failed. のに connects an expected cause with a surprising opposite result.\n〜のに after a clause expresses that despite the condition, the result is contrary to expectation: レシピ通りに作ったのに失敗した = I made it exactly as the recipe said, yet I still failed. The speaker expected success from following instructions but got failure.\n✗ から means 'because': レシピ通りに作ったから失敗した = I failed because I followed the recipe — which implies following the recipe caused the failure. This is the opposite logic.\n✗ のは nominalizes: 失敗したのはレシピ通りに作ったからだ = The reaso"
+},
+{
+"id": "gyanmirai:grammar-11-2",
+"type": "grammar_form",
+"question": "祖母は 20年以上前に買った掃除機をまだ （　）。壊れて使えなくなるまで、新しいのは買わないと言っていた。",
+"options": [
+"使った",
+"使わない",
+"使っている",
+"使っていなかった"
+],
+"answer": 2,
+"source_explanation": "使っている expresses the ongoing state of still using the vacuum cleaner — the grandmother has it and is still using it.\n〜ている (ている) has two main uses: progressive action (is doing) and resultant state (has done and remains in that state). Here, 20年以上前に買った掃除機 (そうじき) をまだ使っている = 'is still using the vacuum cleaner bought more than 20 years ago'. This is the resultant-state use: the grandmother bought the vacuum cleaner and has been in the state of using it continuously since then. The adverb まだ (still) confirms ongoing use.\n〜ている — ongoing state / continued result; pairs with まだ for 'still doing'\nまだ + V"
+},
+{
+"id": "gyanmirai:grammar-11-20",
+"type": "grammar_form",
+"question": "田中「僕、テニス始めたばかりだけど、山下君はテニスできる？」\n\n山下「そうだね。前、学校でテニス部に（　）」",
+"options": [
+"入ったままなんだ",
+"入ってばかりだったんだ",
+"入っていたことがあるんだ",
+"入っているところだったんだ"
+],
+"answer": 2,
+"source_explanation": "入っていたことがあるんだ means 'I have been in [the tennis club] before' — ことがある marks a past experience.\n入っていたことがある (はいっていたことがある) — ていた is the past progressive (was being a member), and ことがある says that experience exists in the speaker's history. The んだ at the end adds explanatory nuance. Yamashita is telling Tanaka about past club membership.\n〜ていたことがある — 'have had the experience of being/doing ~' (past state experience)\nVerb-te progressive past + ことがある\n✗ 入ったままなんだ means 'I joined and am still in that state' — it implies current membership, which contradicts the conversation's past-tense context.\n✗ 入ってばかりだ"
+},
+{
+"id": "gyanmirai:grammar-11-3",
+"type": "grammar_form",
+"question": "(レストランで) 店員:「いらっしゃいませ。2名様ですか。」\n客:「はい。」 店員:「こちらへどうぞ。お席にご案内 （　）。」",
+"options": [
+"いたします",
+"なさいます",
+"うかがいます",
+"いらっしゃいます"
+],
+"answer": 0,
+"source_explanation": "いたします is the humble form of する, used by service staff to describe their own action of guiding a guest to their seat.\nいたします (致します) is the humble (けんじょうご) form of します. お席にご案内 (あんない) いたします = 'I will humbly guide you to your seat.' Restaurant staff use the ご + verb-noun + いたします pattern to speak humbly about their own service actions to guests. The customer is then told 'this way, please' (どうぞこちらへ), confirming the staff is performing the guiding action.\nご[verb-noun] + いたします — humble service expression for staff's own action\nご + Noun (action) + いたします\n✗ なさいます is the respectful (そんけいご) form, used to d"
+},
+{
+"id": "gyanmirai:grammar-11-4",
+"type": "grammar_form",
+"question": "私はダンスが大好きで、毎日練習している。私より上手な人はたくさんいるが、ダンスが好きだという気持ちは（　）負けない。",
+"options": [
+"誰には",
+"誰にも",
+"誰かは",
+"誰かも"
+],
+"answer": 1,
+"source_explanation": "誰にも means 'to anyone, compared to anyone' — with a negative verb, it means 'not inferior to anyone.'\nダンスが好きだという気持ちは誰にも負けない (だれにもまけない) — 'My passion for dance is not inferior to anyone's.' 誰にも + negative = 'not to anyone, no one surpasses me in this.' に marks the comparison target; も + negative creates absolute universality ('not even to a single person').\n誰にも + V-negative — 'not to anyone, [cannot be beaten] by anyone'\n誰にも + 負けない / 負けたくない\n✗ 誰には creates a topic contrast — 誰には負けない would imply 'there is someone specific I don't lose to' (implying I lose to others), which is not the confident univ"
+},
+{
+"id": "gyanmirai:grammar-11-5",
+"type": "grammar_form",
+"question": "(さくらホテルのホームページで) さくらホテルの会員に （　）、「ホームページからのお申し込み」、または、「郵送でのお申し込み」の二つの方法があります。",
+"options": [
+"なるには",
+"するよりは",
+"なるかどうかは",
+"することは"
+],
+"answer": 0,
+"source_explanation": "なるには means 'in order to become' — に marks the goal state, and には signals 'for the purpose of reaching that goal.'\nさくらホテルの会員になるには、申し込み方法が二つあります (かいいんになるには) — 'In order to become a member of Sakura Hotel, there are two application methods.' V-dict + には expresses the purpose or required condition: 'for the purpose of V-ing, in order to V.' This is a common structure in instruction/guide texts.\nVerb-plain + には — 'in order to ~, for the purpose of ~' (required condition/means)\nVerb-dict + には + [method/requirement]\n✗ するよりは means 'rather than doing' — a comparison dismissing an alternative, not a sta"
+},
+{
+"id": "gyanmirai:grammar-11-6",
+"type": "grammar_form",
+"question": "自分のレストランを（　） 実際に店をオープンするまで5年以上かかったが、自分の店が持ててとてもうれしい。",
+"options": [
+"開こうと思えば",
+"開こうと思ってから",
+"開くようになれば、",
+"開くようになってから"
+],
+"answer": 1,
+"source_explanation": "開こうと思ってから means 'from when I first thought of opening' — volitional + と思ってから marks the starting point of a period.\n自分のレストランを開こうと思ってから実際に店をオープンするまで5年以上かかった (あけようとおもってから) — 'More than 5 years passed from when I first thought of opening my own restaurant to actually opening it.' と思ってから = 'from the point when I decided/thought of.' てから marks the starting point of the elapsed time.\nVerb-volitional + と思ってから — 'from when one started thinking/deciding to ~'\nV-volitional + と思ってから + [duration] + かかった\n✗ 開こうと思えば means 'if I think of opening' — a conditional 'if', not a time reference marking when the deci"
+},
+{
+"id": "gyanmirai:grammar-11-7",
+"type": "grammar_form",
+"question": "(会社で)\n前川:「森さん、この書類、ここにもサインを（　）ですか。」 森: 「あ、忘れてました。すぐします。」",
+"options": [
+"してあげてもいい",
+"してくれたらいい",
+"してやったらいい",
+"してもらってもいい"
+],
+"answer": 3,
+"source_explanation": "してもらってもいいですか is a polite request — 'would it be okay if I had you [sign]?' — もらう (receive action) + permission question.\nここにもサインをしてもらってもいいですか (してもらってもいいですか) — 'Would it be alright if you signed here too?' してもらう means 'to have [someone] do [action] for me/us.' Adding てもいいですか turns it into a polite permission request. The speaker is asking a colleague for a favor.\nV-te + もらってもいいですか — polite request 'would it be okay if I had you do ~?'\nV-te + もらってもいいですか\n✗ してあげてもいい means 'it would be fine to do [as a favor to someone else]' — あげる is giving to others, making the speaker the one giving a favor, not"
+},
+{
+"id": "gyanmirai:grammar-11-8",
+"type": "grammar_form",
+"question": "(会社で) 青木:「南さん、今日はもうお帰りですか。」\n南:「ええ、これから子供を保育園に迎えに （　）。お先に失礼します。」",
+"options": [
+"ことに",
+"やっていた",
+"ように",
+"何度も書いてみる"
+],
+"answer": 2,
+"source_explanation": "子供を保育園に迎えに行くように: so that I can go pick up my child from daycare. ように here expresses purpose/goal.\n〜ように (so that / in order to): これから子供を保育園に迎えに（行けるように） + 場が必要 or 「行くような状況です」. Actually: 子供を保育園に迎えに行く + ように = in such a way that (going to pick up child). The ように here indicates the reason/purpose for leaving early.\n✗ ことに: 'to the matter of / regarding'; 迎えに行くことに = as for the matter of going to pick up — marks a decision or fact, not the purpose of leaving.\n✗ やっていた: 'was doing / had been doing' — past progressive; doesn't fit the context of giving a reason for leaving now.\n✗ 何度も書いてみる: 'try writing ma"
+},
+{
+"id": "gyanmirai:grammar-11-9",
+"type": "grammar_form",
+"question": "高校の友達に会ったら、うれしくて何時間（　）話してしまった。",
+"options": [
+"は",
+"も",
+"が",
+"を"
+],
+"answer": 1,
+"source_explanation": "も after a quantity means 'as many as / as long as', expressing surprise at talking for hours.\nも after a number or duration expresses surprise at the amount — 'as many as / as much as'. 何時間も話してしまった = 'ended up talking for hours (and hours)!' も emphasizes that the quantity is larger than expected. Combined with てしまった (unplanned or uncontrolled outcome), the sentence conveys that the speaker was so happy to see their old friend that they lost track of time.\nNumber/duration + も — 'as many as / as much as [quantity] (surprise at the amount)'\nTime/amount + も + Verb-てしまった\n✗ は marks the topic or creat"
+},
+{
+"id": "gyanmirai:grammar-12-1",
+"type": "grammar_form",
+"question": "A：「日本語の辞書、いろいろありますね。どれを買うか迷いますね。」\n\nB:「これはどうですか。他のものと比べて、例文がたくさんありますし、使い（　）と思います。」",
+"options": [
+"すぎる",
+"やすい",
+"てもいい",
+"そうだ"
+],
+"answer": 1,
+"source_explanation": "使いやすいと思います: I think it's easy to use. 〜やすい attaches to the verb masu-stem to mean 'easy to do / easy to X.'\n〜やすい (easy to ~): 使い + やすい = 使いやすい (easy to use). The form is: verb masu-stem + やすい. 他のものと比べて例文がたくさんありますし、使いやすい = it has many example sentences compared to others, and it's easy to use.\n✗ すぎる: 'too much / excessive'; 使いすぎる = use too much (excessive usage), not 'easy to use.'\n✗ てもいい: 'it's OK to / may ~'; 使ってもいい = it's OK to use; this expresses permission, not ease of use.\n✗ そうだ: 'looks like / heard that'; 使いそうだ = looks like (someone) will use it; hearsay/appearance nuance, not ease of us"
+},
+{
+"id": "gyanmirai:grammar-12-10",
+"type": "grammar_form",
+"question": "（バス亭で）\n乗客:「すみません、この車は花森駅に行きますか。」\n\n運転手:「いいえ、この車は次のバス亭（　）いきませんよ。」",
+"options": [
+"までしか",
+"までだけ",
+"からしか",
+"からだけ"
+],
+"answer": 0,
+"source_explanation": "までしか expresses 'only up to [a point]' with a negative verb, meaning the bus goes no farther than the next stop.\n〜までしか + negative verb means 'goes no farther than / only up to'. The driver says この車 (くるま) は次のバス停 (ていりゅうじょ) までしかいきませんよ = 'This bus only goes as far as the next stop.' まで sets the endpoint, and しか + negative (いきません → doesn't go) expresses that nothing beyond that point happens. The passenger asked about going to 花森駅, and the driver is saying that destination is beyond the bus's route.\n〜までしか + negative verb — 'only up to [X]; no farther than [X]'\nNoun + まで + しか + Verb-negative\n✗ までだけ i"
+},
+{
+"id": "gyanmirai:grammar-12-11",
+"type": "grammar_form",
+"question": "授業の後、昼ご飯を（　）大学の食堂に行ったが、とても込んでいたので、大学の近くのラ－メン屋に食べに行った。",
+"options": [
+"食べていて",
+"食べているのに",
+"食べようと思って",
+"食べようと思うのに"
+],
+"answer": 2,
+"source_explanation": "食べようと思って大学の食堂に行った: went to the cafeteria intending to eat. 〜ようと思って expresses going somewhere with that intention.\n〜ようと思って (volitional form + と思って) expresses the intention that motivated the action: 昼ご飯を食べようと思って大学の食堂に行った = I went to the university cafeteria with the intention of eating lunch. It provides the purpose behind the movement.\n✗ 食べていて (while eating) would mean the speaker was already eating when they went to the cafeteria — logically inverted.\n✗ 食べているのに (even though eating) expresses a contrary expectation — eating but still doing something else; it doesn't express the purpose of goin"
+},
+{
+"id": "gyanmirai:grammar-12-12",
+"type": "grammar_form",
+"question": "うちの近くにある美容院は９時まで営業しているから。仕事が（　）行けて便利だ。",
+"options": [
+"終わる前は",
+"終わったからは",
+"終わる前でも",
+"終わってからでも"
+],
+"answer": 3,
+"source_explanation": "仕事が終わってからでも行けて便利だ: even after work finishes, you can go — convenient. 〜てからでも = even after doing X.\n〜てから (after doing) + でも (even): 仕事が終わってからでも行ける = can go even after work ends. 9時まで営業しているから = since it's open until 9, even post-work visits are possible.\n✗ 終わる前は: 'before work ends' — まえ marks 'before'; the shop being open until 9 is useful specifically for after work, not before.\n✗ 終わったからは: unnatural combination; からは after a past event is not a standard expression for this context.\n✗ 終わる前でも: 'even before work ends' — before work ends would be during work hours; the convenience is that you can go"
+},
+{
+"id": "gyanmirai:grammar-12-13",
+"type": "grammar_form",
+"question": "高校生のとき、ギタ－教室に（　）が、難しく3ヶ月でやめてしまった。",
+"options": [
+"通ってみたところだ",
+"通ってみたことがある",
+"通っておいたところだ",
+"通っておいたことがある"
+],
+"answer": 1,
+"source_explanation": "通ってみたことがある means 'have tried attending' — ことがある marks a past experience, and みる adds the nuance of trying it out.\n通ってみたことがある (かよってみたことがある) — 'I have tried attending [a guitar class].' The compound てみる means 'to try doing,' and ことがある confirms this is a past experience. The follow-up 難しくて3ヶ月でやめてしまった (it was difficult and I quit after 3 months) confirms the experience was real but brief.\nVerb-te + みたことがある — 'have had the experience of trying ~'\nVerb-te + みたことがある\n✗ 通ってみたところだ means 'I have just tried attending' — ところだ marks something that just happened, implying very recent action, not a past exper"
+},
+{
+"id": "gyanmirai:grammar-12-14",
+"type": "grammar_form",
+"question": "子供のころ、私は将来歌手に（　）。",
+"options": [
+"なりたそうだ",
+"なることができた",
+"なっていたと思う",
+"なりたいと思っていた"
+],
+"answer": 3,
+"source_explanation": "なりたいと思っていた = used to want to become. 〜たいと思っていた expresses a past ongoing desire from the speaker's own perspective.\n〜たいと思っていた describes the speaker's own past desire: 将来歌手になりたいと思っていた = I used to think I wanted to become a singer. This is a first-person retrospective statement about a childhood wish. と思っていた marks it as an ongoing past thought.\n✗ なりたそうだ means 'seems to want to become' (third-person inference from appearance); the sentence uses 私 (I) as the subject, so first-person reporting of one's own desire is needed, not inference about someone else.\n✗ なることができた means 'was able to become' — a "
+},
+{
+"id": "gyanmirai:grammar-12-15",
+"type": "grammar_form",
+"question": "今年の夏は去年（　） 暑くない。",
+"options": [
+"から",
+"ほど",
+"まで",
+"しか"
+],
+"answer": 1,
+"source_explanation": "ほど is used in negative comparisons to mean 'as ... as', so 去年ほど暑くない means 'not as hot as last year'.\nThe pattern 〜ほど〜ない means 'not as [adjective] as [standard]'. 去年 (きょねん) ほど暑 (あつ) くない = 'not as hot as last year'. ほど sets the reference point for comparison, and the negative form of the adjective completes the structure. This is a standard way to say something does not reach a certain level.\n〜ほど〜ない — 'not as [adjective] as [reference]'\nNoun + ほど + い-adjective (negative form)\n✗ から means 'from' or 'because'. 去年から暑くない would mean 'not hot since last year', implying it has not been hot since then — "
+},
+{
+"id": "gyanmirai:grammar-12-16",
+"type": "grammar_form",
+"question": "今朝、電車で 隣に座った人から、シャンプー（　）何（　） わからないが、 とにかくいい香りがしてきた。",
+"options": [
+"か/か",
+"は/は",
+"が/が",
+"で/で"
+],
+"answer": 0,
+"source_explanation": "シャンプーか何かわからないが: whether it was shampoo or something, not sure. か marks uncertainty about identity.\n〜か〜か marks alternatives when the speaker doesn't know which: シャンプーか何かわからないが = I don't know whether it was shampoo or something (else). The repeated か expresses the speaker's uncertainty about the exact nature of the fragrance.\n✗ は/は: topic markers; シャンプーは何はわからないが = as for shampoo, as for what... — unnatural double-topic construction, not expressing uncertainty about identity.\n✗ が/が: subject markers; シャンプーが何がわからないが = what about shampoo... — two subject markers in one clause is unnatural.\n✗ で/で: me"
+},
+{
+"id": "gyanmirai:grammar-12-17",
+"type": "grammar_form",
+"question": "課長: 「 林さん、急で悪いんだけど、 出張のレポートと明日の会議の資料、今日のお昼ごろまでにできる?」\n林: 「両方は 難しそうです。会議の資料（　）できると思いますが.............。」",
+"options": [
+"とでも",
+"となら",
+"だけでも",
+"だけなら"
+],
+"answer": 3,
+"source_explanation": "だけなら means 'if it is just ~' — a conditional that limits scope to one item when both are too much.\n会議の資料だけならできると思いますが (かいぎのしりょうだけならできるとおもいますが) — 'If it is just the meeting materials (not both), I think I can do it.' だけ limits to one item; なら is the conditional 'if it is.' Together: 'if only this one thing is required.' The は after だけなら adds contrast: 'materials — yes; both together — difficult.\nN + だけなら — 'if it is just N, if only N is required'\nN + だけなら + [feasibility statement]\n✗ とでも means 'even with, combined with' — it does not limit to one item.\n✗ となら means 'if with / if together with' — "
+},
+{
+"id": "gyanmirai:grammar-12-18",
+"type": "grammar_form",
+"question": "このごろ、息子 が（　）私の言うことを聞かないので困っている。",
+"options": [
+"やっと",
+"きっと",
+"ちっとも",
+"せっかく"
+],
+"answer": 2,
+"source_explanation": "ちっとも〜ない: not at all. Emphatic negative adverb, stronger than 全然. 息子がちっとも言うことを聞かない = the son doesn't listen at all.\nちっとも requires a negative predicate and means 'not at all / not even a little': 言うことを聞かない = doesn't listen. ちっとも intensifies the negation: not even slightly listens. It expresses the parent's frustration.\n✗ やっと means 'finally/at last': やっと言うことを聞かない = finally doesn't listen — illogical.\n✗ きっと means 'surely/certainly': きっと言うことを聞かない = surely doesn't listen — this expresses confidence, not frustrated ongoing negation.\n✗ せっかく expresses wasted effort or special occasion: せっかく言うことを聞かない is"
+},
+{
+"id": "gyanmirai:grammar-12-19",
+"type": "grammar_form",
+"question": "私たちの生活は、技術の進歩の（　）とても便利になった。",
+"options": [
+"おかげで",
+"ようで",
+"ことで",
+"ほかで"
+],
+"answer": 0,
+"source_explanation": "技術の進歩のおかげでとても便利になった: thanks to technological progress, life has become very convenient. おかげで marks a positive cause.\n〜おかげで expresses gratitude or acknowledgment that something good happened because of a cause: 技術の進歩のおかげで生活が便利になった = thanks to technological advances, life has become convenient. おかげで pairs with positive outcomes.\n✗ 〜ようで: 'seems like / appears that' — describes resemblance or inference, not a causal relationship that produced a result.\n✗ 〜ことで: 'by means of the fact that' — can express cause, but 〜のことで life becoming convenient sounds awkward; おかげで is the natural expression for 'tha"
+},
+{
+"id": "gyanmirai:grammar-12-2",
+"type": "grammar_form",
+"question": "高校時代の友人と京都で楽しい一日（　）過ごした。",
+"options": [
+"と",
+"を",
+"も",
+"が"
+],
+"answer": 1,
+"source_explanation": "楽しい一日を過ごした: spent a wonderful day. を marks the time period with 過ごす.\n〜を過ごす: を marks the time period being spent. 高校時代の友人と京都で楽しい一日を過ごした = spent a wonderful day in Kyoto with a high school friend. を is the standard particle with 過ごす for time expressions.\n✗ 〜と: 'with / and'; 楽しい一日と過ごした = 'spent time together with a fun day' — を is needed to mark the time period, not と (which would add a companion meaning).\n✗ 〜も: 'also'; 楽しい一日も過ごした = 'also spent a fun day' — adds a nuance of 'in addition to other things', which is not the neutral statement of spending a day.\n✗ 〜が: subject marker; 楽しい一日が過ごした = 'the"
+},
+{
+"id": "gyanmirai:grammar-12-20",
+"type": "grammar_form",
+"question": "今度の 出張で泊まる Y ホテルは駅前にあるので、夜遅く、駅に （　）、安心だ。",
+"options": [
+"着いたり",
+"着いたため",
+"着いたとしても",
+"着いたかどうか"
+],
+"answer": 2,
+"source_explanation": "着いたとしても means 'even if [I] arrive late' — a concessive hypothetical allowing for a worst-case scenario while maintaining confidence.\n夜遅く、駅に着いたとしても、安心だ (えきにとうちゃくしたとしても、あんしんだ) — 'Even if I arrive at the station late at night, I can feel safe [because the hotel is right in front].' V-ta + としても = 'even if [V] were to happen / even assuming [V].' The speaker is reassured that the inconvenient scenario still works out.\nVerb-ta + としても — 'even if ~, even assuming ~' (concessive hypothetical)\nV-ta + としても + [reassuring result]\n✗ 着いたり (たり) is used in 〜たり〜たり patterns to list examples of actions — 'arrivin"
+},
+{
+"id": "gyanmirai:grammar-12-3",
+"type": "grammar_form",
+"question": "A :「このケーキ、どこで買ったの？すごくおいしいね。」\nB :「 『リボン』 （　）店何だけど、知ってる？」",
+"options": [
+"どれ",
+"いくつ",
+"どれか",
+"いくつか"
+],
+"answer": 0,
+"source_explanation": "The answer options for this entry are corrupted OCR data. The question asks about a shop called 'Ribbon' and how to refer to it — the intended grammar likely involves という (called, known as).\nThe sentence B :「『リボン』（ ）店なんだけど、知ってる？」is asking 'It's a shop called Ribbon, do you know it?' The intended fill is likely という — 『リボン』という店 means 'a shop called Ribbon.' The listed options (どれ, いくつ, どれか, いくつか) are quantity/selection words that do not grammatically fit here and appear to be OCR artifacts from a different question.\n〜という + N — 'N called ~, N known as ~'\n「Name」+ という + Noun\n✗ いくつ means 'how many' "
+},
+{
+"id": "gyanmirai:grammar-12-4",
+"type": "grammar_form",
+"question": "私が電車に乗ったとき、車内がすいていたが、集中して本を読んでいたら、（　）満員になった。",
+"options": [
+"どれ",
+"いくつ",
+"どれか",
+"いくつか"
+],
+"answer": 3,
+"source_explanation": "満員電車でいくつか駅が過ぎた: some/several stations passed while I was absorbed in my book. いくつか = an unspecified number of.\nいくつか means 'some (number of)': いくつか駅が過ぎた = several stations passed. The speaker was reading and didn't notice exactly how many stations went by — いくつか expresses the vague, unspecified quantity that passed unnoticed.\n✗ どれ: 'which one' — asks for identification among options; doesn't express a quantity.\n✗ いくつ: 'how many' — asks for a specific count; but the sentence is not a question, and the speaker doesn't know the count.\n✗ どれか: 'some (one) of them' — indicates one unspecified item fr"
+},
+{
+"id": "gyanmirai:grammar-12-5",
+"type": "grammar_form",
+"question": "うちには大きさの違うフライパンが（　）あるが、使っているのは一番小さいサイズのだけだ。",
+"options": [
+"どれ",
+"いくつ",
+"どれか",
+"いくつか"
+],
+"answer": 3,
+"source_explanation": "いくつか means 'some (in quantity), a few' — it describes an indefinite number of countable items.\n大きさの違うフライパンがいくつかあるが (おおきさのちがうフライパンがいくつかあるが) — 'We have some frying pans of different sizes.' いくつか = 'some number of [countable items],' used when the exact count is unimportant. The contrast with using only the smallest confirms there are multiple but the speaker doesn't count them.\nいくつか — 'some, a few (of countable items)'; indefinite quantity\nNoun + が + いくつか + ある\n✗ どれ means 'which one' — a selection question word, not a quantity. 'Which frying pan exists?' does not fit.\n✗ いくつ means 'how many' — a q"
+},
+{
+"id": "gyanmirai:grammar-12-6",
+"type": "grammar_form",
+"question": "森田: 「石山さん、見たいってた DVD、持ってきたよ。」\n石山: 「 ありがとう」\n森田: 「林さんも見たがってたから、（　）林さんに渡してくれる？」",
+"options": [
+"までしか",
+"までだけ",
+"からしか",
+"からだけ"
+],
+"answer": 2,
+"source_explanation": "からしか means 'only from (a starting point)' with a negative verb — the DVD can only be passed on from Ishiyama to Hayashi.\n〜からしか + negative verb means 'only from [X]; not except from [X]'. Morita asks Ishiyama to pass the DVD to Hayashi after watching it. から marks the source of the transfer, and しか + negative limits that source to just Ishiyama. The chain is: Morita → Ishiyama → Hayashi. からしか emphasizes that the hand-off must start from Ishiyama.\nNoun + からしか + Verb-negative — 'only from [source]; not except from [starting point]'\nPerson + から + しか + Verb-negative\n✗ までしか means 'only up to [an endp"
+},
+{
+"id": "gyanmirai:grammar-12-7",
+"type": "grammar_form",
+"question": "私は毎年誕生日にそのとき読みたいと思った本を一冊（　）、本棚に並べているが、自分が好きな本の変化が分かって面白い。",
+"options": [
+"までしか",
+"までだけ",
+"からしか",
+"からだけ"
+],
+"answer": 1,
+"source_explanation": "一冊までだけ: only one book (at most one). まで sets the upper limit and だけ emphasizes the restriction — together expressing 'just one book per year.'\nまで (up to/as far as) + だけ (only/just): 一冊までだけ = just up to one [book]. The speaker selects exactly one book each birthday and lines them up: 一冊までだけ[本棚に並べている] = I arrange just one book [per year].\n✗ までしか requires a negative predicate: 一冊までしか〜ない = only up to one (cannot do more). The predicate here is 並べている (positive), so しか does not fit.\n✗ からしか requires a negative predicate too: 一冊からしか〜ない = not unless from one book. This is also negative-requiring and se"
+},
+{
+"id": "gyanmirai:grammar-12-8",
+"type": "grammar_form",
+"question": "A :「昨日携帯電話をなくしたって言ったけど、見つかった？」\nB :「うん、実は車の中に落ちていたんだ」\nA: 「そうなんだ。（　）ね。」",
+"options": [
+"までしか",
+"までだけ",
+"からしか",
+"からだけ"
+],
+"answer": 0,
+"source_explanation": "車の中に落ちていたんだ。そうなんだ、までしかね = (response implying only searched/knew as far as X).\nLooking at the context: A's phone was lost then found in the car. The response そうなんだ（）ね — までしか with the following context implies 'only up to that point' of concern/search. までしか + implied negative: it was only [there].\n✗ までだけ: 'only up to' (positive form) — positive predicate; the implied meaning of relief involves a limiting sense that fits しか (only, with negative undertone) more naturally here.\n✗ からしか: 'only starting from' — sets a starting point; the sentence is about finding the endpoint of a search/worry, not a "
+},
+{
+"id": "gyanmirai:grammar-12-9",
+"type": "grammar_form",
+"question": "先生 :「Hoa さんが留学すると言ったとき、ご両親は何と（　）。」\nHoa さん: 「頑張れと応援してくれた。」",
+"options": [
+"までしか",
+"までだけ",
+"からしか",
+"からだけ"
+],
+"answer": 2,
+"source_explanation": "This entry's options appear corrupted (からしか, からだけ, etc. do not complete the sentence). The stem asks about a student's parents' response to studying abroad.\nThe question stem 先生:「Hoa さんが留学すると言ったとき、ご両親は何と（ ）。」is asking what the parents said. The correct answer (index 2: からしか) cannot complete ご両親は何と（からしか）grammatically. The options appear to belong to a different question. The grammar point からしか + negative means 'only from, from no one but' — as in 一人からしか返事が来ていない (I received a reply from only one person).\nN + からしか + negative — 'only from N (not from anyone/anywhere else)'\nPerson/Source + からしか + V"
+},
+{
+"id": "gyanmirai:grammar-13-1",
+"type": "grammar_form",
+"question": "日本に来たのは今回が 2 度目だ。前に来たのは 20 年前だが、そのときに\n入った喫茶店がまだ（　） 驚いた。",
+"options": [
+"営業して",
+"営業しなくて",
+"営業していて",
+"営業していなくて"
+],
+"answer": 2,
+"source_explanation": "営業していて means 'was still operating (and I was surprised)' — progressive ていた gives the ongoing state discovered after 20 years.\n20年前に入った喫茶店がまだ営業していて、驚いた (えいぎょうしていて、おどろいた) — 'The café I went into 20 years ago was still in business, and I was surprised.' The て-form ていて connects the discovered state (still operating) with the resulting emotion (surprised). The progressive ていた form describes the ongoing state at the time of discovery.\nVerb-ていて — 'was [in state], and [result/reaction]' (progressive state + consequence)\nVerb-progressive + ていて + [emotion/reaction]\n✗ 営業して (simple te-form of 営業する) lacks "
+},
+{
+"id": "gyanmirai:grammar-13-10",
+"type": "grammar_form",
+"question": "私に （　） 今一番大切なものは飼っている犬です。",
+"options": [
+"対して",
+"比べて",
+"おいて",
+"とって"
+],
+"answer": 3,
+"source_explanation": "私にとって = for me / from my perspective. にとって marks the person for whom something is the case.\n〜にとって expresses something from a specific person's standpoint or in terms of what matters to that person: 私にとって今一番大切なものは = the thing most important to me right now is. It answers the question 'for whom does this hold?'\n✗ 〜に対して means 'toward/against/regarding': 私に対して (toward me / regarding me). It expresses directionality or relationship, not personal perspective.\n✗ 〜に比べて means 'compared to': 私に比べて (compared to me). It sets up a comparison, not a statement about personal importance.\n✗ 〜において means 'in/at'"
+},
+{
+"id": "gyanmirai:grammar-13-11",
+"type": "grammar_form",
+"question": "A「部長の田中とお会いになるのは今日が初めてですか。」\n\nB「はい。山下課長（　）お目にかかったことがございませんので。」",
+"options": [
+"にだけ",
+"にしか",
+"でしか",
+"でだけ"
+],
+"answer": 1,
+"source_explanation": "山下課長にしかお目にかかったことがございません: I have only met Section Chief Yamashita. にしか + negative = only (with) X, no one else.\n〜にしか〜ない restricts to one instance: 山下課長にしかお目にかかったことがない = (I) have only met Section Chief Yamashita [and no one above]. に marks the person met; しか requires the negative がない to complete the 'only' meaning.\n✗ にだけ also means 'only at/with': にだけ can be used with positive predicates. However, in this formal business context where the speaker is establishing they have minimal senior contact, にしか (with negative) is the standard form.\n✗ でしか uses で as the particle; でしか would mean 'only at/by me"
+},
+{
+"id": "gyanmirai:grammar-13-12",
+"type": "grammar_form",
+"question": "この図書館はは入り口の近くに、返す本を入れるためのブックポストがあり、 図書館が閉まっている （　） 、本を返すことができます。",
+"options": [
+"ときでも",
+"ままで",
+"間だから",
+"ところなら"
+],
+"answer": 0,
+"source_explanation": "図書館が閉まっているときでも: even when the library is closed. 〜ときでも = even at the time of X.\n〜ときでも (even when/even at the time): 閉まっているときでも = even when it's closed, you can return books. でも attached to とき gives the concessive 'even when' meaning, expanding the available times.\n✗ 〜まま: 'as is / while remaining in the state of': 閉まっているまま = while remaining closed; this would mean books can be returned while the library remains in a closed state, which is an odd expression.\n✗ 〜間だから: 'because it is during the period of': 閉まっている間だから = because it's during the closed period; this provides a reason (during closure),"
+},
+{
+"id": "gyanmirai:grammar-13-13",
+"type": "grammar_form",
+"question": "A「今夜は晴れているから星がよく見えるよ。」\n\nB「わあ、本当だ。（　） きれいなんだろうか。」",
+"options": [
+"何とか",
+"なんか",
+"なんて",
+"何でも"
+],
+"answer": 2,
+"source_explanation": "なんてきれいなんだろうか: How beautiful it is! なんて is an exclamatory word expressing surprise or admiration.\nなんて before an adjective/verb in an exclamation expresses surprised admiration: なんてきれいなんだろうか = how incredibly beautiful! It is used when the speaker is struck by the degree of something and exclaims their feeling.\n✗ 何とか: 'somehow/one way or another' — expresses a means to make something work; unrelated to an exclamation of beauty.\n✗ なんか: 'things like / or something' — used dismissively or vaguely; なんかきれいなんだろうか = 'It's beautiful or something?' weakens the exclamation.\n✗ 何でも: 'anything / everything' —"
+},
+{
+"id": "gyanmirai:grammar-13-14",
+"type": "grammar_form",
+"question": "展覧会に知り合いの絵がかざれるので、わたしも見に （　） と思う。",
+"options": [
+"行こうか",
+"行かないか",
+"行くのか",
+"行ったか"
+],
+"answer": 0,
+"source_explanation": "見に行こうか(と思う): I'm thinking of going to see it. 〜ようかと思う expresses a tentative plan or intention.\n〜ようかと思う expresses a tentative, personal intention: わたしも見に行こうかと思う = I'm thinking of going to see it too. ようか is the volitional + question marker, conveying personal deliberation (shall I go?).\n✗ 行かないか is a casual invitation (negative question): 一緒に行かないか? = Won't you come with me? — This invites someone else rather than expressing the speaker's personal tentative plan.\n✗ 行くのか: 'is (someone) going?' — This asks whether the subject will go, not expressing the speaker's own intention.\n✗ 行ったか: 'did (someon"
+}
+]

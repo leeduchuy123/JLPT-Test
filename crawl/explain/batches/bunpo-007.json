@@ -1,0 +1,1015 @@
+[
+{
+"id": "dethitiengnhat:N3-8-3-q8",
+"type": "grammar_form",
+"question": "宿題が多すぎて、明日までに（　　　）と思ったので、先生に相談した。",
+"options": [
+"終わりそうだ",
+"終わらなさそうだ",
+"終わりそうにない",
+"終わるはずがない"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-8-3-q9",
+"type": "grammar_form",
+"question": "（会社で） A：「田中さん、ちょっと郵便局まで（　　　）ね。すぐ戻ります。」 B：「はい、いってらっしゃい。」",
+"options": [
+"出してきます",
+"出しにいってきます",
+"出しにきています",
+"出してしまいます"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-9-3-q1",
+"type": "grammar_form",
+"question": "大切な会議があるから、今日だけは誰（　　　）邪魔をしないでほしい。」",
+"options": [
+"には",
+"にも",
+"しか",
+"でも"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-9-3-q10",
+"type": "grammar_form",
+"question": "これからは、お年寄りの数がどんどん増えて（　　　）と言われています。",
+"options": [
+"くる",
+"いく",
+"きた",
+"いった"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-9-3-q11",
+"type": "grammar_form",
+"question": "A：「店長に頼めば、もう少し安くなるかもしれないよ。お願いしてみようか。」 B：「いや、あの店長に（　　　）、これ以上安くならないと思うよ。諦めよう。」",
+"options": [
+"頼んでて",
+"頼まなくちゃ",
+"頼んじゃって",
+"頼んだって"
+],
+"answer": 3,
+"source_explanation": "頼んだって= 頼んでも"
+},
+{
+"id": "dethitiengnhat:N3-9-3-q12",
+"type": "grammar_form",
+"question": "(レストランで) 店員：「お食事の後のデザートは、どちら（　　　）か。」 客：「そうですね…。あちらのアイスクリームをお願いします。」",
+"options": [
+"を召し上がります",
+"をなさいます",
+"に召し上がります",
+"になさいます"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-9-3-q13",
+"type": "grammar_form",
+"question": "新しい仕事は、詳しい内容を（　　　）やるかどうか決めたいと思っています。",
+"options": [
+"聞いておいてから",
+"聞いてみないと",
+"聞いてみてから",
+"聞いておかないと"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-9-3-q14",
+"type": "sentence_order",
+"question": "私はこのカフェのお気に入りの席が好きだ。コーヒーが美味しい＿＿＿ ＿＿＿ ＿★＿ ＿＿＿いい。",
+"options": [
+"リラックスできるのも",
+"静かなジャズが流れていて",
+"だけでなく",
+"音楽を聞きながら"
+],
+"answer": 3,
+"source_explanation": "だけでなく静かなジャズが流れていて ＿音楽を聞きながら＿ リラックスできるのも"
+},
+{
+"id": "dethitiengnhat:N3-9-3-q15",
+"type": "sentence_order",
+"question": "開発チームは、ユーザーが ___ ___ ★ ___ を分析し、次のアップデートに活かす予定だ。",
+"options": [
+"持っている",
+"新システム",
+"不満",
+"に対して"
+],
+"answer": 0,
+"source_explanation": "新システムに対して ＿持っている＿ 不満"
+},
+{
+"id": "dethitiengnhat:N3-9-3-q16",
+"type": "sentence_order",
+"question": "友達が＿＿＿ ＿＿＿ ＿★＿ ＿＿＿日本酒が大好きなので、今度私もその地方へ旅行に行きたい。",
+"options": [
+"たびに",
+"名産の",
+"送ってくれる",
+"地元に帰る"
+],
+"answer": 2,
+"source_explanation": "地元に帰るたびに ＿送ってくれる＿ 名産の"
+},
+{
+"id": "dethitiengnhat:N3-9-3-q17",
+"type": "sentence_order",
+"question": "私は、体力づくりの＿＿＿ ＿＿＿ ＿★＿ ＿＿＿。",
+"options": [
+"している",
+"毎日スクワットをする",
+"ように",
+"ために"
+],
+"answer": 2,
+"source_explanation": "ために 毎日スクワットをする ＿ように＿ している"
+},
+{
+"id": "dethitiengnhat:N3-9-3-q18",
+"type": "sentence_order",
+"question": "明日の子どもの誕生日には、＿＿＿ ＿＿＿ ＿★＿ ＿＿＿予定だ。",
+"options": [
+"ずっと",
+"おもちゃを",
+"買ってあげる",
+"欲しがっていた"
+],
+"answer": 1,
+"source_explanation": "ずっと欲しがっていた ＿おもちゃを＿ 買ってあげる"
+},
+{
+"id": "dethitiengnhat:N3-9-3-q2",
+"type": "grammar_form",
+"question": "(電話で) 林：「もしもし、鈴木さん。先週お願いした資料（　　　）、お電話したんですが…。」 鈴木：「あ、はい。資料ですね。今、作っているところです。」",
+"options": [
+"のうちに",
+"のかわりに",
+"のことで",
+"のうえで"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-9-3-q3",
+"type": "grammar_form",
+"question": "(会社で) 社員：「課長、この企画書なんですが、少し（　　　）。」 課長：「いいよ。ちょっと待ってね。」",
+"options": [
+"拝見していただけませんか",
+"ご覧いたしませんか",
+"お見せいたしませんか",
+"見せていただけませんか"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-9-3-q4",
+"type": "grammar_form",
+"question": "(会社で) 上司：「Aさん、この資料を今すぐ確認してくれる？」 A：「すみません、今から（　　　）。明日でもいいでしょうか。」",
+"options": [
+"帰るところなんです",
+"帰ったところなんです",
+"帰っているところなんです",
+"帰ることにしたんです"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-9-3-q5",
+"type": "grammar_form",
+"question": "A：「その荷物、重そうですね。玄関まで（　　　）？」 B：「あ、すみません。助かります。」",
+"options": [
+"運んであげませんか",
+"運んであげましょうか",
+"運んでもらいませんか",
+"運んでもらいましょうか"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-9-3-q6",
+"type": "grammar_form",
+"question": "ここから空港まで、タクシーに乗れば30分（　　　）着くと思いますよ。",
+"options": [
+"ごろに",
+"ごろで",
+"ぐらいに",
+"ぐらいで"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-9-3-q7",
+"type": "grammar_form",
+"question": "A：「昨日のスピーチ大会、どうだった？」 B：「すごく緊張したけど、練習した通りに話せたし、（　　　）。」",
+"options": [
+"参加しなくてよかった",
+"参加するつもりだった",
+"参加してよかった",
+"参加したらいいなあ"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-9-3-q8",
+"type": "grammar_form",
+"question": "A：「あ、電池が切れちゃった。動かないよ。」 B：「えっ、（　　　）新しいのと替えたばかりなのに。おかしいなあ。",
+"options": [
+"たった今",
+"やっと",
+"そろそろ",
+"さっそく"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-9-3-q9",
+"type": "grammar_form",
+"question": "昨日はとても疲れていたので、テレビを（　　　）寝てしまった。",
+"options": [
+"ついたまま",
+"つけたまま",
+"つけているうちに",
+"ついているうちに"
+],
+"answer": 1
+},
+{
+"id": "mazii:625-11190-0",
+"type": "sentence_order",
+"question": "では、部長には、会議で ＿ ＊ ＿ ＿ よろしいでしょうか。",
+"options": [
+"ことを",
+"おけば",
+"決まった",
+"申し上げて"
+],
+"answer": 0,
+"source_explanation": "Câu hoàn chỉnh: では、部長には、会議で 決まった ことを 申し上げて おけば、よろしいでしょうか。\nCách đọc: では、ぶちょうには、かいぎで きまったことを もうしあげておけば、よろしいでしょうか。\nNghĩa: Vậy, tôi cứ thưa lại với trưởng phòng về những gì đã được quyết định trong cuộc họp là được, đúng không ạ?\nVị trí ★: ことを"
+},
+{
+"id": "mazii:625-4183-0",
+"type": "grammar_form",
+"question": "小さい子を一人で遠くに遊びに ________ 。",
+"options": [
+"行ったものではない",
+"行かないものではない",
+"行かせるものではない",
+"行かれるものではない"
+],
+"answer": 2,
+"source_explanation": "小さい子を一人で遠くに遊びに行かせるものではない。\n\nKhông nên cho đi trẻ nhỏ chơi một mình ở xa.\n\n1. Không nên đi\n\n2. Không nên không đi\n\n3. Không nên cho đi\n\n4. Không nên được đi\n\n###\n\n■Giải thích:\n\nCâu trên đưa ra lời khuyên không nên làm gì đối với hành động của người khác\n\n=>「3行かせるものではない」là chính xác\n\n■Ngữ pháp:\n\nV từ điển ＋ものではない：không nên làm gì"
+},
+{
+"id": "mazii:625-4188-0",
+"type": "grammar_form",
+"question": "彼は、けがをした足が痛むのもかまわず、 ________ 。",
+"options": [
+"大事な会議に欠席した",
+"医者に足を見てもらった",
+"工事現場を見てまわった",
+"骨折していることがわかった"
+],
+"answer": 2,
+"source_explanation": "Câu hoàn chỉnh: 彼は、けがをした足が痛むのもかまわず、工事現場を見てまわった。\nCách đọc: かれは、けがをしたあしがいたむのもかまわず、工事現場を見てまわった。\nNghĩa: Anh ấy mặc kệ cái chân bị thương đau mà đã đi xem công trường."
+},
+{
+"id": "mazii:625-4237-0",
+"type": "grammar_form",
+"question": "人生の短さを花 ________ 、さくらの花だ。",
+"options": [
+"にくらべて",
+"に応じては",
+"にたとえると",
+"について言えば"
+],
+"answer": 2,
+"source_explanation": "Câu hoàn chỉnh: 人生の短さを花にたとえると、さくらの花だ。\nCách đọc: じんせいの みじかさを はな にたとえると 、さくらの はなだ。\nNghĩa: Nếu ví sự ngắn ngủi của đời người như một loài hoa, thì đó chính là hoa anh đào."
+},
+{
+"id": "mazii:625-4253-0",
+"type": "grammar_form",
+"question": "本田さんとは2０年前に一度会った ________ 。",
+"options": [
+"ことだ",
+"きりだ",
+"ほどだ",
+"ばかりだ"
+],
+"answer": 1,
+"source_explanation": "Câu hoàn chỉnh: 本田さんとは2０年前に一度会ったきりだ。\nCách đọc: ほんださんとはにじゅうねんまえにいちどあった きりだ 。\nNghĩa: Tôi đã gặp anh Honda duy nhất một lần cách đây 20 năm."
+},
+{
+"id": "mazii:625-4283-0",
+"type": "grammar_form",
+"question": "調査の結果、若者の言葉づかいにきびしい ________ 、4０代、５０代の人の多くが言葉の正確な意味を理解していないことがわかった。",
+"options": [
+"からには",
+"あまり",
+"だけあって",
+"わりには"
+],
+"answer": 3,
+"source_explanation": "Câu hoàn chỉnh: 調査の結果、若者の言葉づかいにきびしいわりには、4０代、５０代の人の多くが言葉の正確な意味を理解していないことがわかった。\nCách đọc: ちょうさのけっか、わかもののことばづかいにきびしいわりには、よんじゅうだい、ごじゅうだいのひとのおおくがことばのせいかくな いみをりかいしていないことがわかった。\nNghĩa: Kết quả điều tra cho thấy, dù khắt khe với cách dùng từ của giới trẻ, nhưng nhiều người ở độ tuổi 40, 50 lại không hiểu chính xác ý nghĩa của từ ngữ."
+},
+{
+"id": "mazii:625-4391-0",
+"type": "grammar_form",
+"question": "いくら話し合ったところで、この問題を解決することが ________ 。",
+"options": [
+"されます",
+"できます",
+"されません",
+"できません"
+],
+"answer": 3,
+"source_explanation": "Câu hoàn chỉnh: いくら話し合ったところで、この問題を解決することができません。\nCách đọc: いくらはなしあったところで、このもんだいをかいけつすることが できません 。\nNghĩa: Dù có bàn bạc bao nhiêu đi nữa, việc giải quyết vấn đề này cũng không thể thực hiện được."
+},
+{
+"id": "mazii:625-4442-0",
+"type": "grammar_form",
+"question": "困っている人を見たら、助けず ________ いられない。",
+"options": [
+"とも",
+"をも",
+"には",
+"では"
+],
+"answer": 2,
+"source_explanation": "Câu hoàn chỉnh: 困っている人を見たら、助けずにはいられない。\nCách đọc: こまっているひとをみたら、たすけずにはいられない。\nNghĩa: Một khi đã thấy người gặp khó khăn, tôi không thể không giúp đỡ."
+},
+{
+"id": "mazii:625-4479-0",
+"type": "grammar_form",
+"question": "先日起きた事件 ________ 人々に恐怖感を与えた事件はないだろう。",
+"options": [
+"だけ",
+"こそ",
+"ほど",
+"ばかり"
+],
+"answer": 2,
+"source_explanation": "Câu hoàn chỉnh: 先日起きた事件ほど人々に恐怖感を与えた事件はないだろう。\nCách đọc: せんじつおきたじけん ほど ひとびとにきょうふかんをあたえたじけんはないだろう。\nNghĩa: Có lẽ không có sự kiện nào gây ra nhiều nỗi sợ hãi cho mọi người bằng sự kiện đã xảy ra ngày hôm kia."
+},
+{
+"id": "mazii:625-4551-0",
+"type": "grammar_form",
+"question": "わたしはこのごろからだの調子もよくなり、何でもおいしく ________ おります。",
+"options": [
+"めしあがって",
+"あがって",
+"いただいて",
+"おっしゃって"
+],
+"answer": 2,
+"source_explanation": "Câu hoàn chỉnh: わたしはこのごろからだの調子もよくなり、何でもおいしくいただいております。\nCách đọc: わたしはこのごろからだのちょうしもよくなり、なんでもおいしく いただいて おります。\nNghĩa: Gần đây sức khỏe của tôi đã tốt hơn và tôi ăn mọi thứ đều ngon miệng."
+},
+{
+"id": "mazii:625-4581-0",
+"type": "grammar_form",
+"question": "この布は水に強い ________ 、熱には弱い。",
+"options": [
+"部分",
+"反面",
+"反対",
+"半分"
+],
+"answer": 1,
+"source_explanation": "Câu hoàn chỉnh: この布は水に強い反面、熱には弱い。\nCách đọc: このぬのはみずにつよい 反面 、ねつにはよわい。\nNghĩa: Vải này mặt khác chịu nước tốt, nhưng lại kém chịu nhiệt."
+},
+{
+"id": "mazii:625-4602-0",
+"type": "grammar_form",
+"question": "事態がこうなった ________ は、もう彼一人に任せてはおけない。",
+"options": [
+"まで",
+"わけ",
+"うえ",
+"ほど"
+],
+"answer": 2,
+"source_explanation": "Câu hoàn chỉnh: 事態がこうなったうえは、もう彼一人に任せてはおけない。\nCách đọc: じたいがこうなったうえは、もうかれひとりにまかせてはおけない。\nNghĩa: Tình hình đã trở nên như thế này rồi thì tôi không thể để một mình anh ấy lo liệu được nữa."
+},
+{
+"id": "mazii:625-7768-0",
+"type": "grammar_form",
+"question": "木村さんは朝から風邪で具合が悪いそうだ、赤い顔をしているので、熱がある ________ 。",
+"options": [
+"にほかならない",
+"に違いない",
+"とのことだ",
+"はもちろん"
+],
+"answer": 1,
+"source_explanation": "Câu hoàn chỉnh: 木村さんは朝から風邪で具合が悪いそうだ、赤い顔をしているので、熱があるに違いない。\nCách đọc: きむらさんはあさからかぜでぐあいがわるいそうだ、あかいかおをしているので、ねつがある に違いない 。\nNghĩa: Nghe nói anh Kimura cảm thấy không khỏe từ sáng nay, mặt đỏ bừng nên chắc chắn là bị sốt."
+},
+{
+"id": "mazii:625-7901-0",
+"type": "sentence_order",
+"question": "日本の ＿ ＿ ＊ ＿ もらえませんか。",
+"options": [
+"について",
+"させて",
+"印象",
+"インタビュー"
+],
+"answer": 3,
+"source_explanation": "Câu hoàn chỉnh: 日本の 印象 について インタビュー させて もらえませんか。\nCách đọc: にほんのいんしょうについてインタビューさせてもらえませんか。\nNghĩa: Tôi có thể phỏng vấn bạn về ấn tượng đối với nước Nhật Bản được không?\nVị trí ★: インタビュー"
+},
+{
+"id": "mazii:625-7918-0",
+"type": "sentence_order",
+"question": "子供の ＿ ＿ ＊ ＿ でしょうか。",
+"options": [
+"象",
+"好きな",
+"というと",
+"動物"
+],
+"answer": 2,
+"source_explanation": "Câu hoàn chỉnh: 子供の 好きな 動物 というと 象 でしょうか。\nCách đọc: こどものすきなどうぶつというとぞうでしょうか。\nNghĩa: Nói đến động vật yêu thích của trẻ em thì chắc là voi nhỉ?\nVị trí ★: というと"
+},
+{
+"id": "mazii:625-7961-0",
+"type": "sentence_order",
+"question": "＿ ＿ ＊ ＿ 日本語の勉強がおもしろくなった。",
+"options": [
+"はじめて",
+"あの先生に",
+"なって",
+"習うように"
+],
+"answer": 2,
+"source_explanation": "Câu hoàn chỉnh: あの先生に 習うように なって はじめて 日本語の勉強がおもしろくなった。\nCách đọc: あのせんせいに ならうように なって はじめて にほんごのべんきょうがおもしろくなった。\nNghĩa: Sau khi học từ giáo viên kia thì lần đầu tiên tôi thấy việc học tiếng Nhật trở nên thú vị.\nVị trí ★: なって"
+},
+{
+"id": "mazii:626-4214-0",
+"type": "grammar_form",
+"question": "相手の話も聞かずに自分の主張だけ通そうとするなんて、それはわがまま ________ 。",
+"options": [
+"ということではない",
+"というからだ",
+"というわけではない",
+"というものだ"
+],
+"answer": 3,
+"source_explanation": "Câu hoàn chỉnh: 相手の話も聞かずに自分の主張だけ通そうとするなんて、それはわがままというものだ。\nCách đọc: あいてのはなしもきかずにじぶんのしゅちょうだけとおそうとするなんて、それはわがままというものだ。\nNghĩa: Việc không nghe câu chuyện của đối phương mà chỉ cố gắng theo ý kiến của mình, đúng là ích kỷ."
+},
+{
+"id": "mazii:626-4238-0",
+"type": "grammar_form",
+"question": "明日もまた仕事を休む ________ 、会社をやめてもらいます。",
+"options": [
+"ようなら",
+"ついでに",
+"ことには",
+"あまりに"
+],
+"answer": 0,
+"source_explanation": "Câu hoàn chỉnh: 明日もまた仕事を休むようなら、会社をやめてもらいます。\nCách đọc: あしたもまたしごとをやすむ ようなら 、かいしゃをやめてもらいます。\nNghĩa: Nếu ngày mai bạn lại nghỉ làm, bạn sẽ phải nghỉ việc."
+},
+{
+"id": "mazii:626-4300-0",
+"type": "grammar_form",
+"question": "ごみ処理の問題については林先生が一番くわしい。専門的なことについては、林先生をぬきにして議論 ________ 。",
+"options": [
+"しなければならない",
+"しても仕方がない",
+"した方がいい",
+"してもいい"
+],
+"answer": 1,
+"source_explanation": "Câu hoàn chỉnh: ごみ処理の問題については林先生が一番くわしい。専門的なことについては、林先生をぬきにして議論しても仕方がない。\nCách đọc: ごみしょりのもんだいについてははやしせんせいがいちばんくわしい。せんもんてきなことについては、はやしせんせいをぬきにしてぎろん しても仕方がない 。\nNghĩa: Về vấn đề xử lý rác thải, thầy Hayashi là người hiểu rõ nhất. Về những vấn đề chuyên môn, dù có thảo luận mà không có thầy Hayashi cũng vô ích."
+},
+{
+"id": "mazii:626-4303-0",
+"type": "grammar_form",
+"question": "好きなことを職業にする人が多いが、私は映画が＿＿＿、職業にはしないことにした。",
+"options": [
+"好きなどころか",
+"好きなわりには",
+"好きだからこそ",
+"好きというより"
+],
+"answer": 2,
+"source_explanation": "Câu hoàn chỉnh: 好きなことを職業にする人が多いが、私は映画が好きだからこそ、職業にはしないことにした。\nCách đọc: すきなことをしょくぎょうにするひとがおおいが、わたしはえいがが＿＿＿、しょくぎょうにはしないことにした。\nNghĩa: Có nhiều người biến sở thích thành nghề nghiệp, nhưng tôi chính vì thích phim ảnh nên mới không chọn nó làm nghề."
+},
+{
+"id": "mazii:626-4311-0",
+"type": "grammar_form",
+"question": "この車は、空気を汚さない ________ 、価格が高いという欠点がある。",
+"options": [
+"と同時に",
+"かぎり",
+"ばかりか",
+"反面"
+],
+"answer": 3,
+"source_explanation": "Câu hoàn chỉnh: この車は、空気を汚さない反面、価格が高いという欠点がある。\nCách đọc: このくるまは、くうきをよごさない反面、かかくがたかいというけってんがある。\nNghĩa: Chiếc xe này không làm ô nhiễm không khí, mặt khác thì lại có nhược điểm là giá cao."
+},
+{
+"id": "mazii:626-4409-0",
+"type": "grammar_form",
+"question": "まだ3月のはじめなのにとても暑い。まるで夏になったかの ________ 。",
+"options": [
+"ぐらいだ",
+"ようだ",
+"みたい",
+"らしい"
+],
+"answer": 1,
+"source_explanation": "Câu hoàn chỉnh: まだ3月のはじめなのにとても暑い。まるで夏になったかのようだ。\nCách đọc: まださんがつのはじめなのにとてもあつい。まるでなつになったかの ようだ 。\nNghĩa: Mới đầu tháng 3 nhưng trời rất nóng. Có vẻ như mùa hè đã đến."
+},
+{
+"id": "mazii:626-4411-0",
+"type": "grammar_form",
+"question": "こんなむずかしい問題はだれにも答えられる ________ 。",
+"options": [
+"わけがない",
+"にすぎない",
+"べきでない",
+"にちがいない"
+],
+"answer": 0,
+"source_explanation": "Câu hoàn chỉnh: こんなむずかしい問題はだれにも答えられるわけがない。\nCách đọc: こんなむずかしいもんだいはだれにもこたえられるわけがない。\nNghĩa: Câu hỏi khó như thế này thì không ai có thể trả lời được."
+},
+{
+"id": "mazii:626-4478-0",
+"type": "grammar_form",
+"question": "この手続きは、面倒な ________ 時間もかかるので、皆がいやがっている。",
+"options": [
+"ものの",
+"うえに",
+"うちに",
+"ほどの"
+],
+"answer": 1,
+"source_explanation": "Câu hoàn chỉnh: この手続きは、面倒なうえに時間もかかるので、皆がいやがっている。\nCách đọc: このてつづきは、めんどうなうえにじかんもかかるので、みんながいやがっている。\nNghĩa: Thủ tục này vừa phiền phức, hơn nữa còn tốn thời gian, nên mọi người đều không thích."
+},
+{
+"id": "mazii:626-7715-0",
+"type": "grammar_form",
+"question": "１度仕事を引き受けた以上 ________ 。",
+"options": [
+"できないと断るつもりだ",
+"簡単にやめることはできない",
+"断りたいのだが",
+"もうやめたいと思っている。"
+],
+"answer": 1,
+"source_explanation": "Câu hoàn chỉnh: １度仕事を引き受けた以上簡単にやめることはできない。\nCách đọc: いちどしごとをひきうけたいじょう 簡単にやめることはできない 。\nNghĩa: Một khi đã nhận công việc thì không thể dễ dàng từ bỏ."
+},
+{
+"id": "mazii:626-7734-0",
+"type": "grammar_form",
+"question": "最近体の調子が悪いが、仕事を ________ 。",
+"options": [
+"休んでばかりもいられない",
+"休んでかなわない",
+"休まないこともない",
+"休まないではいられない"
+],
+"answer": 0,
+"source_explanation": "Câu hoàn chỉnh: 最近体の調子が悪いが、仕事を休んでばかりもいられない。\nNghĩa: Gần đây tình trạng sức khỏe không tốt, nhưng không thể cứ nghỉ mãi được."
+},
+{
+"id": "mazii:626-7755-0",
+"type": "grammar_form",
+"question": "電子メールは若者 ________ なくてはならないものだ。",
+"options": [
+"として",
+"にとって",
+"からして",
+"によって"
+],
+"answer": 1,
+"source_explanation": "Câu hoàn chỉnh: 電子メールは若者にとってなくてはならないものだ。\nCách đọc: でんしメールはわかものにとってなくてはならないものだ。\nNghĩa: Email là thứ không thể thiếu đối với giới trẻ."
+},
+{
+"id": "mazii:626-7955-0",
+"type": "sentence_order",
+"question": "途中からは入れません。 ＿ ＿ ＊ ＿ 。",
+"options": [
+"絶対に",
+"来てください",
+"ですから",
+"遅れないように"
+],
+"answer": 3,
+"source_explanation": "Câu hoàn chỉnh: 途中からは入れません。ですから 絶対に 遅れないように 来てください。\nCách đọc: とちゅうからははいれません。ですから ぜったいに おくれないように きてください。\nNghĩa: Không thể vào từ giữa chừng. Vì vậy nên các bạn tuyệt đối đừng đến muộn.\nVị trí ★: 遅れないように"
+},
+{
+"id": "mazii:626-8244-0",
+"type": "sentence_order",
+"question": "お父さん ＊ ＿ ＿ ＿ よくないね。",
+"options": [
+"進めるのは",
+"ぬきで",
+"話を",
+"家族旅行の"
+],
+"answer": 1,
+"source_explanation": "お父さん（２）ぬきで（４）家族旅行の（３）話を（１）進めるのはよくないね。\n\nNói chuyện về chuyến du lịch gia đình mà không có bố thì không tốt nhỉ.\n\n###\n\nNgữ pháp\n\nN　＋　ぬきにして（は）／ぬきで（は）／ぬきに（は）　：　không có N"
+},
+{
+"id": "mazii:626-8387-0",
+"type": "sentence_order",
+"question": "兄 ＿ ＊ ＿ ＿ 食べるのも遅い。",
+"options": [
+"私は",
+"作るのも",
+"に比べて",
+"料理を"
+],
+"answer": 0,
+"source_explanation": "Câu hoàn chỉnh: 兄 に比べて 私は 料理を 作るのも 食べるのも遅い。\nCách đọc: あににくらべて わたしは りょうりを つくるのも たべるのもおそい。\nNghĩa: So với anh trai thì tôi nấu ăn cũng chậm mà ăn cũng chậm.\nVị trí ★: 私は"
+},
+{
+"id": "mazii:626-8576-0",
+"type": "sentence_order",
+"question": "あの学生は日本語が ＿ ＿ ＊ ＿ みたい。",
+"options": [
+"明るくなった",
+"ように",
+"なってから",
+"わかる"
+],
+"answer": 2,
+"source_explanation": "Câu hoàn chỉnh: あの学生は日本語が わかる ように なってから 明るくなった みたい。\nCách đọc: あのがくせいはにほんごが わかる ように なってから あかるくなった みたい。\nNghĩa: Học sinh kia dường như đã trở nên vui vẻ hơn sau khi hiểu được tiếng Nhật.\nVị trí ★: なってから"
+},
+{
+"id": "mazii:627-11175-0",
+"type": "sentence_order",
+"question": "＿ ＿ ＊ ＿ とても心が落ち着く。",
+"options": [
+"川の流れる",
+"に加えて",
+"音も聞こえて",
+"虫の音"
+],
+"answer": 0,
+"source_explanation": "Câu hoàn chỉnh: 虫の音 に加えて 川の流れる 音も聞こえて とても心が落ち着く。\nCách đọc: むしのねにくわえて かわのながれる おともきこえて とてもこころがおちつく。\nNghĩa: Không chỉ tiếng côn trùng mà tôi còn nghe được cả tiếng nước chảy, khiến tâm hồn tôi cảm thấy rất thư thái.\nVị trí ★: 川の流れる"
+},
+{
+"id": "mazii:627-4164-0",
+"type": "grammar_form",
+"question": "主婦のアイディアを採り入れた新製品は、おもしろい ________ よく売れた。",
+"options": [
+"ほど",
+"こそ",
+"あまり",
+"ばかり"
+],
+"answer": 0,
+"source_explanation": "Câu hoàn chỉnh: 主婦のアイディアを採り入れた新製品は、おもしろいほどよく売れた。\nCách đọc: しゅふのアイディアをとりいれたしんせいひんは、おもしろい ほど よくうれた。\nNghĩa: Sản phẩm mới áp dụng ý tưởng của các bà nội trợ thú vị đến mức bán rất chạy."
+},
+{
+"id": "mazii:627-4165-0",
+"type": "grammar_form",
+"question": "当時に ________ 、海外旅行など夢のようなことだった。",
+"options": [
+"よっては",
+"そっては",
+"おいては",
+"あたっては"
+],
+"answer": 2,
+"source_explanation": "Câu hoàn chỉnh: 当時においては、海外旅行など夢のようなことだった。\nCách đọc: とうじにおいては、かいがいりょこうなどゆめのようなことだった。\nNghĩa: Vào thời điểm đó, du lịch nước ngoài là một điều như trong mơ."
+},
+{
+"id": "mazii:627-4231-0",
+"type": "grammar_form",
+"question": "内田さんは ________ 髪型が違う。",
+"options": [
+"会ったなら",
+"会うたびに",
+"会ううちに",
+"会ったところ"
+],
+"answer": 1,
+"source_explanation": "Câu hoàn chỉnh: 内田さんは会うたびに髪型が違う。\nCách đọc: うちださんは 会うたびに かみがたがちがう。\nNghĩa: Mỗi lần gặp anh Uchida, kiểu tóc lại khác nhau."
+},
+{
+"id": "mazii:627-4379-0",
+"type": "grammar_form",
+"question": "最近、公害を出す企業 ________ 批判が強くなっている。",
+"options": [
+"にとっての",
+"にとって",
+"に対するの",
+"に対する"
+],
+"answer": 3,
+"source_explanation": "Câu hoàn chỉnh: 最近、公害を出す企業に対する批判が強くなっている。\nCách đọc: さいきん、こうがいをだすきぎょう に対する ひはんがつよくなっている。\nNghĩa: Gần đây, sự chỉ trích đối với các doanh nghiệp gây ra ô nhiễm đã trở nên mạnh mẽ hơn."
+},
+{
+"id": "mazii:627-4423-0",
+"type": "grammar_form",
+"question": "田中先生、最近先生が ________ ご本のことで、おうかがいしたいんですが。",
+"options": [
+"お書きした",
+"お書きになった",
+"お書かれなった",
+"お書かれした"
+],
+"answer": 1,
+"source_explanation": "Câu hoàn chỉnh: 田中先生、最近先生が お書きになった ご本のことで、おうかがいしたいんですが。\nCách đọc: たなかせんせい、さいきんせんせいが お書きになった ごほんのことで、おうかがいしたいんですが。\nNghĩa: Thưa thầy Tanaka, em muốn hỏi về cuốn sách mà thầy đã viết gần đây ạ."
+},
+{
+"id": "mazii:627-4504-0",
+"type": "grammar_form",
+"question": "アパートは部屋の中を見た ________ 借りるかどうかを決めたい。",
+"options": [
+"うえに",
+"うえから",
+"うえにも",
+"うえで"
+],
+"answer": 3,
+"source_explanation": "Câu hoàn chỉnh: アパートは部屋の中を見たうえで借りるかどうかを決めたい。\nNghĩa: Tôi muốn quyết định có thuê căn hộ hay không sau khi xem bên trong phòng."
+},
+{
+"id": "mazii:627-4510-0",
+"type": "grammar_form",
+"question": "家にばかりいないで映画でも見に行こう ________ 。",
+"options": [
+"まいか",
+"ともしない",
+"じゃないか",
+"ともする"
+],
+"answer": 2,
+"source_explanation": "Câu hoàn chỉnh: 家にばかりいないで映画でも見に行こうじゃないか。\nCách đọc: いえにばかりいないでえいがでもみにいこうじゃないか。\nNghĩa: Đừng chỉ ở nhà mãi thế, đi xem phim không?"
+},
+{
+"id": "mazii:627-4514-0",
+"type": "grammar_form",
+"question": "水道代は一か月に ________ 3000円かかります。",
+"options": [
+"つき",
+"とって",
+"わたり",
+"かけ"
+],
+"answer": 0,
+"source_explanation": "Câu hoàn chỉnh: 水道代は一か月につき3000円かかります。\nCách đọc: すいどうだいはいっかげつに つき さんぜんえんかかります。\nNghĩa: Tiền nước mỗi tháng tốn 3000 yên."
+},
+{
+"id": "mazii:627-4620-0",
+"type": "grammar_form",
+"question": "新薬の輸入 ________ 慎重な調査が行われている。",
+"options": [
+"にかけて",
+"につけて",
+"にさきだち",
+"にこたえて"
+],
+"answer": 2,
+"source_explanation": "Câu hoàn chỉnh: 新薬の輸入にさきだち慎重な調査が行われている。\nNghĩa: Một cuộc điều tra đang được tiến hành một cách thận trọng trước khi nhập khẩu thuốc mới."
+},
+{
+"id": "mazii:627-4630-0",
+"type": "grammar_form",
+"question": "今日は時間がありません。あいさつは ________ さっそく会議を始めましょう。",
+"options": [
+"抜きにして",
+"抜きながら",
+"抜いても",
+"抜きつつ"
+],
+"answer": 0,
+"source_explanation": "Câu hoàn chỉnh: 今日は時間がありません。あいさつは抜きにしてさっそく会議を始めましょう。\nCách đọc: きょうはじかんがありません。あいさつは 抜きにして さっそくかいぎをはじめましょう。\nNghĩa: Hôm nay không có thời gian. Chúng ta hãy bỏ qua phần chào hỏi và bắt đầu cuộc họp ngay lập tức."
+},
+{
+"id": "mazii:627-7754-0",
+"type": "grammar_form",
+"question": "仕事が増える ________ 貯金が増えるといいのだけれど。。。",
+"options": [
+"によって",
+"にとって",
+"につれて",
+"にたいして"
+],
+"answer": 2,
+"source_explanation": "Câu hoàn chỉnh: 仕事が増えるにつれて貯金が増えるといいのだけれど。。。\nNghĩa: Hy vọng rằng khi công việc nhiều lên, tiền tiết kiệm cũng sẽ tăng theo..."
+},
+{
+"id": "mazii:627-7765-0",
+"type": "grammar_form",
+"question": "台風が来るという予想 ________ 、今日はいい天気になった。",
+"options": [
+"に反したら",
+"に反対で",
+"に反する",
+"に反して"
+],
+"answer": 3,
+"source_explanation": "Câu hoàn chỉnh: 台風が来るという予想に反して、今日はいい天気になった。\nCách đọc: たいふうがくるというよそうに反して、きょうはいいてんきになった。\nNghĩa: Trái với dự đoán là bão sẽ đến, hôm nay thời tiết lại đẹp."
+},
+{
+"id": "mazii:627-8403-0",
+"type": "sentence_order",
+"question": "夏休み ＿ ＿ ＊ ＿ 、結局どこへも行かなかった。",
+"options": [
+"旅行するか",
+"どこに",
+"あげく",
+"悩んだ"
+],
+"answer": 3,
+"source_explanation": "Câu hoàn chỉnh: 夏休み どこに 旅行するか 悩んだ あげく、結局どこへも行かなかった。\nCách đọc: なつやすみ どこに りょこうするか なやんだ あげく、けっきょくどこへもいかなかった。\nNghĩa: Sau một hồi phân vân không biết nên đi đâu vào kỳ nghỉ hè, cuối cùng tôi đã không đi đâu cả.\nVị trí ★: 悩んだ"
+},
+{
+"id": "mazii:627-8423-0",
+"type": "sentence_order",
+"question": "先生の ＿ ＿ ＊ ＿ 。",
+"options": [
+"かぎらない",
+"いつも",
+"正しいとは",
+"話が"
+],
+"answer": 2,
+"source_explanation": "Câu hoàn chỉnh: 先生 の話が いつも 正しいとは かぎらない。\nCách đọc: せんせいのはなしがいつもただしいとはかぎらない。\nNghĩa: Lời của giáo viên không phải lúc nào cũng đúng.\nVị trí ★: 正しいとは"
+},
+{
+"id": "mazii:627-8441-0",
+"type": "sentence_order",
+"question": "飛行場ができて ＿ ＿ ＿ ＊ 、観光客が増えてうるさくなった。",
+"options": [
+"反面",
+"なった",
+"に",
+"便利"
+],
+"answer": 0,
+"source_explanation": "Câu hoàn chỉnh: 飛行場ができて 便利 に なった 反面、観光客が増えてうるさくなった。\nCách đọc: ひこうじょうができて べんり に なった はんめん、かんこうきゃくがふえてうるさくなった。\nNghĩa: Sau khi sân bay được xây dựng, một mặt trở nên tiện lợi hơn, mặt khác thì lượng khách du lịch tăng lên gây ồn ào.\nVị trí ★: 反面"
+},
+{
+"id": "mlc:n3_001-q1",
+"type": "grammar_form",
+"question": "富士山は形が美しい山として＿＿＿。",
+"options": [
+"知れています",
+"知られます",
+"知られています",
+"知っていられます"
+],
+"answer": 2
+},
+{
+"id": "mlc:n3_001-q2",
+"type": "grammar_form",
+"question": "これは１００年以上前に＿＿＿美術館です。",
+"options": [
+"建ってられた",
+"建てられた",
+"建ちられた",
+"建ちられます"
+],
+"answer": 1
+},
+{
+"id": "mlc:n3_002-q1",
+"type": "grammar_form",
+"question": "雨が＿＿＿買い物に行こうと思いました。",
+"options": [
+"降らなかったうちに",
+"降っていなかっうたちに",
+"降るうちに",
+"降らないうちに"
+],
+"answer": 3
+},
+{
+"id": "mlc:n3_002-q2",
+"type": "grammar_form",
+"question": "友人の娘は少し＿＿＿大きくなっていて、びっくりしました。",
+"options": [
+"見ないうちに",
+"見ないのうちに",
+"見なかったうちに",
+"見るうちに"
+],
+"answer": 0
+},
+{
+"id": "mlc:n3_003-q1",
+"type": "grammar_form",
+"question": "犯人は＿＿＿背の高い人でした。",
+"options": [
+"やせ気味してる",
+"やせ気味で",
+"やせた気味な",
+"やせた気味の"
+],
+"answer": 1
+},
+{
+"id": "mlc:n3_003-q2",
+"type": "grammar_form",
+"question": "彼女は＿＿＿だったが、無事にプレゼンテーションは終了した。",
+"options": [
+"緊張な気味",
+"緊張している気味",
+"緊張気味",
+"緊張の気味"
+],
+"answer": 2
+},
+{
+"id": "mlc:n3_004-q1",
+"type": "grammar_form",
+"question": "今年の試験は私にとって＿＿＿なので、絶対に合格したい。",
+"options": [
+"一度のチャンスきり",
+"一度チャンスきり",
+"一度きりのチャンス",
+"一度きりチャンス"
+],
+"answer": 2
+},
+{
+"id": "mlc:n3_004-q2",
+"type": "grammar_form",
+"question": "フランス語は大学のときに＿＿＿なんで、全部忘れてしましました。",
+"options": [
+"一年間勉強したきり",
+"一年間きり勉強した",
+"一年間勉強しきり",
+"一年間勉強するきり"
+],
+"answer": 0
+},
+{
+"id": "mlc:n3_005-q1",
+"type": "grammar_form",
+"question": "彼女と＿＿＿、死んでしまったほうがましだ。",
+"options": [
+"別れくらいなら",
+"別れたくらいなら",
+"別れのくらいなら",
+"別れるくらいなら"
+],
+"answer": 3
+},
+{
+"id": "mlc:n3_005-q2",
+"type": "grammar_form",
+"question": "あんな人と＿＿＿、死んだ方がましだ。",
+"options": [
+"結婚するくらいなら",
+"結婚くらいなら",
+"結婚のくらいなら",
+"結婚しくらいなら"
+],
+"answer": 0
+},
+{
+"id": "mlc:n3_006-q1",
+"type": "grammar_form",
+"question": "今日はあまり具合がよくないので少し＿＿＿か。",
+"options": [
+"早く帰らせていただけません",
+"早く帰らせてません",
+"早く帰りさせません",
+"早く帰りさせていただけません"
+],
+"answer": 0
+},
+{
+"id": "mlc:n3_006-q2",
+"type": "grammar_form",
+"question": "すみません、明日の予定について＿＿＿いいですか。",
+"options": [
+"確認させているも",
+"確認させるも",
+"確認させも",
+"確認させてもらっても"
+],
+"answer": 3
+},
+{
+"id": "mlc:n3_007-q1",
+"type": "grammar_form",
+"question": "日本語の上達のためには＿＿＿と思います。",
+"options": [
+"勉強が続けしかない",
+"勉強が続けるしかない",
+"勉強を続けしかない",
+"勉強を続けるしかない"
+],
+"answer": 3
+}
+]

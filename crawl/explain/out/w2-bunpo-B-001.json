@@ -1,0 +1,802 @@
+{
+ "gyanmirai:grammar-1-1": {
+  "opts": [
+   "を – trợ từ tân ngữ, không dùng để dẫn lời nói",
+   "✔ って – trích dẫn lời nói, dạng thân mật của と",
+   "のを – danh từ hóa + を, câu thành vô nghĩa",
+   "だ – 'là', không nối được với 言う"
+  ],
+  "trans": "A: Hôm nay anh Tanaka cũng đi làm thêm à? / B: Anh ấy bảo là hôm nay không có (ca) đấy.",
+  "note": "〜って言っていた = 'nghe nói/bảo rằng…'. Trước 言う cần trợ từ trích dẫn と hoặc って; を và だ không làm được việc này."
+ },
+ "gyanmirai:grammar-1-10": {
+  "opts": [
+   "あるのかによって – 'tùy vào có hiệu quả bao nhiêu', không hợp với 知りたい",
+   "✔ あるのかについて – 'về việc có hiệu quả đến mức nào'",
+   "あるのかどうかによって – 'tùy vào có hay không'; どのくらい không đi với かどうか",
+   "あるのかどうかについて – どのくらい (bao nhiêu) không ghép được với かどうか (có hay không)"
+  ],
+  "trans": "Tôi muốn biết kỹ xem sản phẩm của công ty A có hiệu quả đến mức nào với chứng đau lưng.",
+  "note": "Câu có từ để hỏi どのくらい nên mệnh đề kết thúc bằng のか, không dùng かどうか. 知りたい đi với について (về…), không phải によって (tùy theo)."
+ },
+ "gyanmirai:grammar-1-11": {
+  "opts": [
+   "濃くなりやすくなって – 'trở nên dễ bị đậm', không phải kết quả thực tế",
+   "濃くしやすくなって – 'trở nên dễ làm đậm', vô nghĩa ở đây",
+   "✔ 濃くなりすぎて – 'bị đậm quá' (tự động từ なる + すぎる)",
+   "濃くしすぎて – 'làm đậm quá'; chủ ngữ là 味 nên không dùng する"
+  ],
+  "trans": "Hôm qua tôi và em gái nấu súp nhưng nhầm lượng muối nên vị bị mặn quá.",
+  "note": "Chủ ngữ là 味 (vị) tự thay đổi → dùng 〜くなる; 〜すぎる diễn tả 'quá mức'. 濃くなりすぎていました = đã trở nên quá đậm."
+ },
+ "gyanmirai:grammar-1-12": {
+  "opts": [
+   "✔ させないでください – 'đừng làm (tôi) giật mình'",
+   "させてください – 'hãy cho tôi giật mình', ngược nghĩa",
+   "させないことにしてください – 'hãy quyết định không làm giật mình', dài dòng, không tự nhiên",
+   "させることにしてください – 'hãy quyết định làm giật mình', vô lý"
+  ],
+  "trans": "A: Ơ, không thấy ví đâu. / B: Hả, thật à? / A: À, đây rồi, đây rồi. / B: Thôi mà, đừng làm người ta hết hồn chứ. Nhưng mà may quá nhỉ.",
+  "note": "びっくりさせる = làm ai đó giật mình (sai khiến). Yêu cầu 'đừng làm…' → 〜させないでください."
+ },
+ "gyanmirai:grammar-1-13": {
+  "opts": [
+   "早く – 'sớm', không nối mạch 'đau nhưng…'",
+   "開いていない – 'chưa mở cửa', không hợp với 歯医者に",
+   "✔ まだ – 'vẫn' (chưa muốn đi)",
+   "行っても – 'dù đi', câu thành tối nghĩa"
+  ],
+  "trans": "Từ sáng nay răng đau kinh khủng. (Dù vậy) vẫn chưa muốn đi nha sĩ ngay.",
+  "note": "Câu đề bị lỗi dấu phẩy nhưng ý là: đau răng mà まだ行きたくない (vẫn chưa muốn đi). (?) Đề gốc hơi lủng củng, đáp án theo nguồn là まだ."
+ },
+ "gyanmirai:grammar-1-17": {
+  "opts": [
+   "田中さんが – 'Tanaka thì…', thiếu động từ, không tự nhiên",
+   "田中さんで – 'bằng/là Tanaka', không hợp",
+   "✔ 田中さんって – 'Tanaka ấy à, là người thế nào?' (nêu chủ đề thân mật)",
+   "田中さんでも – 'kể cả Tanaka', không hợp câu hỏi"
+  ],
+  "trans": "A: Này, Tanaka là người thế nào? / B: Rất tốt bụng, là người tốt đấy.",
+  "note": "って (= というのは/は) dùng nêu chủ đề trong văn nói: 〜ってどんな人? = '… là người thế nào?'."
+ },
+ "gyanmirai:grammar-1-19": {
+  "opts": [
+   "✔ なんか – 'cái này chẳng hạn thì sao?' (đưa ví dụ nhẹ nhàng)",
+   "ばかり – 'toàn là', không hợp",
+   "へ – chỉ hướng, không hợp",
+   "に – không hợp với どう?"
+  ],
+  "trans": "Yamada: Mình muốn một cái áo sơ mi màu sáng… / Tanaka: Vậy thì cái này chẳng hạn thì sao? Mình nghĩ sẽ rất hợp với cậu đấy.",
+  "note": "N + なんか (= など) khi gợi ý 'cái này chẳng hạn', giọng nhẹ nhàng. これなんかどう? là mẫu rất hay gặp."
+ },
+ "gyanmirai:grammar-1-2": {
+  "opts": [
+   "うちに – 'trong lúc còn…', không hợp",
+   "はじめに – 'đầu tiên', không hợp",
+   "✔ たびに – 'mỗi lần gặp'",
+   "だけに – 'chính vì…', không hợp"
+  ],
+  "trans": "Mỗi lần gặp anh Yamada tôi đều nghĩ anh ấy thật là một người tuyệt vời.",
+  "note": "V-辞書形 + たびに = 'mỗi lần…'. いつも ở sau càng khớp với ý lặp lại."
+ },
+ "gyanmirai:grammar-1-20": {
+  "opts": [
+   "欲しい – 'muốn' dùng cho ngôi 1, không tả người thứ 3 đang khóc đòi",
+   "✔ 欲しがっている – 'đang đòi (muốn)' – tả người khác",
+   "欲しそうな – 'có vẻ muốn', ở đây đứa bé đang khóc đòi rõ ràng nên 欲しがる tự nhiên hơn",
+   "欲しがってみる – 'thử muốn', vô nghĩa"
+  ],
+  "trans": "(Ở siêu thị) Mẹ: Đứa vừa mua bánh kẹo là Takeru à? / Con: Không phải. Là đứa đang khóc đòi bánh kẹo ở đằng kia kìa.",
+  "note": "Nói về mong muốn của người thứ ba → 欲しがる; đang diễn ra → 欲しがっている. お菓子を欲しがる dùng を, đúng với を trong đề."
+ },
+ "gyanmirai:grammar-1-4": {
+  "opts": [
+   "会おう – ý chí, không đi với ことになっている",
+   "✔ 会う – V-辞書形 + ことになっている (đã hẹn/định sẵn)",
+   "会った – quá khứ, không hợp",
+   "会って – thể て, không nối được"
+  ],
+  "trans": "Hôm nay tôi hẹn gặp bạn ở ga Tokyo lúc 7 giờ nên sắp phải đi rồi.",
+  "note": "〜ことになっている = 'theo lịch/quy định thì…', trước nó dùng thể từ điển hoặc ない."
+ },
+ "gyanmirai:grammar-1-5": {
+  "opts": [
+   "✔ やめる – V-辞書形 + ように言われる (được bảo hãy…)",
+   "やめた – quá khứ, không nối với ように",
+   "やめない – 'đừng bỏ' ngược nghĩa",
+   "やめ – thể ます bỏ ます, không nối được"
+  ],
+  "trans": "Tôi được bác sĩ bảo phải bỏ thuốc lá nhưng mãi vẫn không bỏ được.",
+  "note": "〜ように言う = bảo ai làm gì; trước ように là thể từ điển/ない. Người được bảo → 言われている."
+ },
+ "gyanmirai:grammar-1-6": {
+  "opts": [
+   "あいだと – không có cách dùng này",
+   "あいだに – 'trong khoảng…' cho hành động xảy ra một lúc",
+   "✔ あいだ – 'suốt trong lúc' (hành động kéo dài liên tục)",
+   "あいだで – không hợp"
+  ],
+  "trans": "Suốt buổi diễn thuyết của thầy Yamada, mọi người đều chăm chú lắng nghe.",
+  "note": "あいだ (không に) dùng khi vế sau kéo dài suốt khoảng thời gian đó (聞いていた). あいだに dùng khi vế sau xảy ra tức thời."
+ },
+ "gyanmirai:grammar-1-7": {
+  "opts": [
+   "✔ ございます – khiêm nhường/lịch sự của あります, dùng cho vật",
+   "いらっしゃいます – kính ngữ của います cho người",
+   "いる – cho người/động vật, lại không lịch sự",
+   "おります – khiêm nhường của います, cho người"
+  ],
+  "trans": "A: Quầy túi xách ở đâu? / B: Ở tầng 5 ạ.",
+  "note": "Quầy hàng là vật → ある → dạng lịch sự ございます. Nhân viên nói với khách nên dùng lịch sự."
+ },
+ "gyanmirai:grammar-1-8": {
+  "opts": [
+   "だけ – thiếu trợ từ với する",
+   "だけで – 'chỉ với cà phê là đủ', nhưng không đi với する",
+   "だけを – 'chỉ (chọn) cà phê', không tự nhiên bằng にする",
+   "✔ だけに – 'chỉ (gọi) cà phê thôi' (N + にする = chọn)"
+  ],
+  "trans": "A: Ăn gì đi nhỉ. / B: Tôi, mì spaghetti với cà phê. / C: Tôi không đói nên chỉ gọi cà phê thôi.",
+  "note": "N + にする = quyết định/chọn N. Thêm だけ: コーヒーだけにする = chỉ chọn cà phê."
+ },
+ "gyanmirai:grammar-10-1": {
+  "opts": [
+   "✔ 歩きやすくて – 'dễ đi và…' (lý do)",
+   "歩きすぎて – 'đi bộ quá nhiều', ngược ý",
+   "歩きやすかったら – 'nếu dễ đi', không phải điều kiện",
+   "歩きすぎたら – 'nếu đi quá nhiều', không hợp"
+  ],
+  "trans": "Đôi giày tôi mua tháng trước đi rất dễ chịu, không mỏi chân nên tôi rất thích.",
+  "note": "V-ます + やすい = dễ làm gì. Thể て nối hai lý do: 歩きやすくて足が疲れない."
+ },
+ "gyanmirai:grammar-10-10": {
+  "opts": [
+   "ぐらいでも – 'cỡ… cũng được', không hợp",
+   "✔ ずっなら – (theo đáp án nguồn) nhưng không phải cụm từ có nghĩa",
+   "までなら – 'nếu đến mức…', không hợp",
+   "からでも – 'từ… cũng được', không hợp"
+  ],
+  "trans": "(Ở công ty) Tanaka: Xin lỗi anh Mori. Tuần trước tôi đi công tác nên không dự buổi hội thảo được, cho tôi xem tài liệu được không? / Mori: À được chứ. Đây, mời anh.",
+  "note": "(?) Đáp án nguồn có thể sai: các lựa chọn bị lấy nhầm từ câu khác. Chỗ trống đúng nghĩa phải là 見せていただけませんか (cho tôi xem)."
+ },
+ "gyanmirai:grammar-10-11": {
+  "opts": [
+   "ぐらいでも – 'cỡ… cũng', không hợp",
+   "ずっなら – không có từ này",
+   "✔ までなら – 'nếu là đến tập 3 thì (đã đọc)'",
+   "からでも – 'từ… cũng được', không hợp"
+  ],
+  "trans": "A: Này, cậu đọc 'Câu chuyện vì sao' chưa? / B: Ừ, đến tập 3 thì đọc rồi. Tập 4 mới nhất thì chưa đọc.",
+  "note": "〜までなら = 'nếu nói đến giới hạn… thì'. Giới hạn まで + điều kiện なら, vế sau nói rõ phần còn lại chưa làm."
+ },
+ "gyanmirai:grammar-10-12": {
+  "opts": [
+   "✔ 行ってみないか – 'đi thử không?' (lời rủ)",
+   "行ったらいい – 'nên đi' là lời khuyên, không phải rủ",
+   "行っただろう – 'đã đi rồi chứ gì', không hợp",
+   "行ってみて – 'đi thử đi' là nhờ vả, không hợp 誘われた"
+  ],
+  "trans": "Nghe nói quán cà phê mới mở trước ga có hơn 20 loại cà phê. Bạn rủ 'đi thử không?' nên tôi quyết định lần tới đi cùng.",
+  "note": "〜と誘われた (được rủ) → câu trích dẫn phải là lời rủ: V-ないか = 'không… à?'."
+ },
+ "gyanmirai:grammar-10-13": {
+  "opts": [
+   "帰っていく前に – 'trước khi về', ngược với 'đã không còn ở đó'",
+   "帰っている間は – 'trong lúc đang về', không hợp",
+   "帰ってきたまま – 'cứ nguyên trạng về tới', không hợp",
+   "✔ 帰ってしまっていて – 'đã về mất rồi' (hoàn tất + trạng thái)"
+  ],
+  "trans": "Chiều nay tôi có việc muốn hỏi nên đến chỗ anh Minami phòng kinh doanh, nhưng anh ấy đã về mất rồi, không còn ở đó.",
+  "note": "〜てしまっている = đã làm xong mất rồi, trạng thái còn giữ. (?) Câu đề thiếu chỗ trống; nguyên bản chắc là もう帰ってしまっていて、いなかった."
+ },
+ "gyanmirai:grammar-10-14": {
+  "opts": [
+   "✔ 大きくなるのに – 'để lớn được thế này (mất 20 năm)'",
+   "大きいようだし – 'có vẻ to và…', không hợp かかった",
+   "大きくできて – 'làm to được', vô lý",
+   "大きいほうがよければ – 'nếu to thì tốt hơn', không hợp"
+  ],
+  "trans": "Yamashita: Cái cây này to thật đấy. / Hayashi: Đúng vậy. Nghe nói để lớn được đến mức này mất khoảng 20 năm đấy.",
+  "note": "V-辞書形 + のに + 時間がかかる = mất thời gian để làm gì. Cây tự lớn → 大きくなる."
+ },
+ "gyanmirai:grammar-10-15": {
+  "opts": [
+   "飲まないほうがよさそうですね – 'có vẻ không nên uống', ngược với lời bác sĩ",
+   "✔ 飲まないといけないでしょうか – 'có phải uống không ạ?'",
+   "飲まなくてもしかたないですね – 'không uống cũng đành', vô lý",
+   "飲まなければいいんでしょうか – 'không uống là được phải không?', ngược ý"
+  ],
+  "trans": "Bác sĩ: Thuốc này uống ngày 3 lần trong 3 ngày. / Bệnh nhân: Vâng. Cả lúc không đau cũng phải uống ạ? / Bác sĩ: Vâng, nhất định phải uống.",
+  "note": "Bác sĩ trả lời はい、必ず飲んでください nên câu hỏi phải là 'có phải uống không?' = 〜ないといけないでしょうか."
+ },
+ "gyanmirai:grammar-10-16": {
+  "opts": [
+   "✔ も – 'đến cả đèn cũng không tắt' (nhấn mạnh)",
+   "と – 'và', không hợp",
+   "が – chủ ngữ, không tự nhiên với 消さないで",
+   "で – phương tiện, không hợp"
+  ],
+  "trans": "Tối qua tôi mệt quá nên sau bữa tối, đèn cũng không tắt mà ngủ luôn trên sofa.",
+  "note": "も thay cho を để nhấn 'ngay cả… cũng không': 電気も消さないで = đến đèn cũng chẳng tắt."
+ },
+ "gyanmirai:grammar-10-17": {
+  "opts": [
+   "もっとも – 'hợp lý nhất/tuy nhiên', không hợp",
+   "せっかく – 'mất công', không hợp",
+   "ようやく – 'cuối cùng cũng', không hợp",
+   "✔ あまりにも – (theo đáp án) 'quá đỗi'"
+  ],
+  "trans": "Anh Yamada ngồi cạnh tôi hay phàn nàn. Lúc nào cũng cằn nhằn quá mức.",
+  "note": "(?) Đáp án nguồn có thể sai: いつもあまりにも言っている không tự nhiên; câu gốc có lẽ là いつも文句ばかり言っている. Giải thích theo nguồn: あまりにも = quá mức."
+ },
+ "gyanmirai:grammar-10-18": {
+  "opts": [
+   "もっとも – 'tuy nhiên', không hợp",
+   "せっかく – 'mất công đến mà', đặt trước 込んでいた thì sai vị trí",
+   "ようやく – 'cuối cùng cũng', không hợp",
+   "✔ あまりにも – 'quá đông'"
+  ],
+  "trans": "Hôm nay lần đầu tôi thử đến tiệm bánh mới mở, nhưng đông quá nên chẳng mua gì mà về.",
+  "note": "あまりにも + tính từ/động từ = quá mức đến nỗi… あまりにも込んでいた = đông kinh khủng."
+ },
+ "gyanmirai:grammar-10-19": {
+  "opts": [
+   "において – 'tại/ở', không so sánh",
+   "によって – 'tùy theo/bởi', không hợp",
+   "✔ にくらべて – 'so với các khoa khác'",
+   "にしたがって – 'theo đà/tuân theo', không hợp"
+  ],
+  "trans": "Khoa Chính trị quốc tế trường tôi có tỉ lệ du học sinh cao so với các khoa khác.",
+  "note": "Có 割合が高い (tỉ lệ cao) → cần vế so sánh: N + にくらべて = so với N."
+ },
+ "gyanmirai:grammar-10-2": {
+  "opts": [
+   "ですから – 'vì vậy', không hợp",
+   "で – không hợp",
+   "✔ いい – (theo đáp án nguồn)",
+   "まで – 'đến', không hợp"
+  ],
+  "trans": "Bố: Alo, Yamashita đây. / Con: A, bố à? Mẹ có nhà không? / Bố: Có, mẹ vừa đi làm về đấy.",
+  "note": "(?) Đáp án nguồn có thể sai: các lựa chọn không thuộc câu này. Chỗ trống đúng phải là 帰ってきた (vừa về): ちょうど仕事から帰ってきたよ."
+ },
+ "gyanmirai:grammar-10-20": {
+  "opts": [
+   "やりおわった – 'làm xong', không hợp với 'làm lại'",
+   "✔ やりなおす – 'làm lại' (V-ます + なおす)",
+   "やっておいた – 'làm sẵn', không hợp",
+   "やってあった – 'đã được làm sẵn', không hợp"
+  ],
+  "trans": "Hôm qua chiếc áo len tôi đan từ một tháng trước đã hoàn thành. Giữa chừng đan nhầm phải làm lại mấy lần nhưng hoàn thành được nên rất vui.",
+  "note": "V-ます + なおす = làm lại. Vế trước có 間違えて (đan nhầm) → 何度かやりなおす. (?) Về thì, やりなおした tự nhiên hơn nhưng nguồn chọn やりなおす."
+ },
+ "gyanmirai:grammar-10-3": {
+  "opts": [
+   "と – 'cùng với', không hợp",
+   "が – chủ ngữ, không hợp với 過ごす",
+   "へ – hướng, không hợp",
+   "✔ を – tân ngữ của 過ごす (trải qua kỳ nghỉ)"
+  ],
+  "trans": "Năm nay nghỉ hè tôi không về nước. Đây là lần đầu tôi trải qua kỳ nghỉ hè ở Nhật.",
+  "note": "過ごす là tha động từ: 夏休みを過ごす = trải qua kỳ nghỉ hè. Nơi chốn dùng で (日本で)."
+ },
+ "gyanmirai:grammar-10-4": {
+  "opts": [
+   "✔ に対して – 'đối với du khách nước ngoài' (đối tượng)",
+   "に比べて – 'so với', không hợp",
+   "のことで – 'về việc', không hợp",
+   "のほかに – 'ngoài ra', không hợp"
+  ],
+  "trans": "Bảo tàng này từ 10 năm trước đã có dịch vụ giảm giá vé cho du khách nước ngoài.",
+  "note": "N + に対して = hướng tới/đối với đối tượng N. Giảm giá dành cho ai → に対して."
+ },
+ "gyanmirai:grammar-10-5": {
+  "opts": [
+   "ぜったい – 'tuyệt đối', không hợp với のに",
+   "✔ せっかく – 'mất công… vậy mà'",
+   "けっして – 'tuyệt đối không', cần phủ định",
+   "まったく – 'hoàn toàn', không hợp"
+  ],
+  "trans": "Sáng nay mất công dậy sớm làm cơm hộp vậy mà lại quên mang theo.",
+  "note": "せっかく…のに = mất công làm… mà lại (tiếc). Cặp せっかく〜のに rất hay gặp."
+ },
+ "gyanmirai:grammar-10-6": {
+  "opts": [
+   "気をつけることで – 'bằng cách chú ý', không hợp",
+   "気をつけるかどうか – 'có chú ý hay không', không hợp",
+   "気をつけるのだから – 'vì chú ý', không hợp",
+   "✔ 気をつけるだけではなく – 'không chỉ chú ý ăn uống mà còn…'"
+  ],
+  "trans": "Để khỏe mạnh thì tôi biết là không chỉ chú ý ăn uống mà còn nên vận động, nhưng bận quá nên mãi không có thời gian tập.",
+  "note": "〜だけではなく、〜も = không chỉ… mà còn. Vế sau có 運動も nên vế trước phải là だけではなく."
+ },
+ "gyanmirai:grammar-10-7": {
+  "opts": [
+   "習わせるだろうか – 'không biết có cho học không', không hợp と思っている",
+   "✔ 習わせようか – 'hay là cho con học nhỉ' (ý định đang cân nhắc)",
+   "習わせているのだ – 'đang cho học', mâu thuẫn với câu hỏi",
+   "習わせるつもりだ – 'định cho học', không đi với と思ってる"
+  ],
+  "trans": "A: Dạo này con gái bảo muốn học piano nên tôi đang nghĩ hay là cho nó học, nhưng 4 tuổi thì còn sớm quá không? / B: Không, tôi nghĩ không sớm đâu. Cứ cho học thử xem sao?",
+  "note": "Sai khiến 習わせる + ý chí 〜ようか + と思っている = đang nghĩ hay là cho (con) học."
+ },
+ "gyanmirai:grammar-10-8": {
+  "opts": [
+   "難しいに違いない – 'chắc chắn khó', ngược ý",
+   "難しいはずがない – 'không thể nào khó', quá mạnh, không đi với 必ずしも",
+   "✔ 難しいことではない – 'không hẳn là chuyện khó'",
+   "難しいかもしれない – 'có thể khó', cần phủ định"
+  ],
+  "trans": "Khi nói đã lập công ty riêng, tôi thường bị ngạc nhiên, nhưng lập công ty không hẳn là chuyện khó.",
+  "note": "必ずしも…ない = không hẳn/không nhất thiết. Phải kết thúc bằng phủ định → 難しいことではない."
+ },
+ "gyanmirai:grammar-10-9": {
+  "opts": [
+   "食べられます – kính ngữ 'ăn', nhưng ở đây hỏi 'chọn'",
+   "差し上げます – khiêm nhường 'tặng', không hợp",
+   "✔ なさいます – kính ngữ của する: 〜になさいますか = quý khách chọn…",
+   "ございます – lịch sự của ある, không hợp"
+  ],
+  "trans": "Khách: Cho tôi một suất trưa. / Nhân viên: Quý khách chọn set A hay set B ạ? / Khách: À, cho tôi set A.",
+  "note": "N + にする = chọn N; kính ngữ của する là なさる → どちらになさいますか."
+ },
+ "gyanmirai:grammar-11-1": {
+  "opts": [
+   "ようです – 'có vẻ', không hợp",
+   "せいです – 'tại vì' (kết quả xấu), ngược nghĩa",
+   "はずです – 'chắc là', không hợp",
+   "✔ おかげです – 'nhờ có… ạ'"
+  ],
+  "trans": "Thầy: Chúc mừng em đỗ đại học. Em cố gắng lắm. / Học sinh: Em cảm ơn thầy. Là nhờ thầy luôn dạy em tận tình ạ.",
+  "note": "〜おかげ = nhờ (kết quả tốt); 〜せい = tại (kết quả xấu). Đỗ đại học là tốt → おかげです."
+ },
+ "gyanmirai:grammar-11-10": {
+  "opts": [
+   "に – không đi với 中心に theo cấu trúc này",
+   "で – không hợp",
+   "は – không hợp",
+   "✔ を – N + を中心に = lấy N làm trung tâm"
+  ],
+  "trans": "Tạp chí thời trang này được nhiều người ưa chuộng, chủ yếu là phụ nữ 20–25 tuổi.",
+  "note": "Mẫu cố định N + を中心に(して) = tập trung/chủ yếu vào N."
+ },
+ "gyanmirai:grammar-11-11": {
+  "opts": [
+   "必ず – 'nhất định', cần câu khẳng định",
+   "必ずしも – 'không hẳn', không hợp ý",
+   "どうか – 'xin hãy/liệu', không hợp",
+   "✔ どうしても – 'thế nào cũng không… được'"
+  ],
+  "trans": "Ở bữa tiệc hôm qua tôi nói chuyện rất nhiều với người mới quen, nhưng cố thế nào cũng không nhớ ra tên anh ấy.",
+  "note": "どうしても + phủ định khả năng = cố mấy cũng không được. どうしても思い出せない rất hay gặp."
+ },
+ "gyanmirai:grammar-11-12": {
+  "opts": [
+   "✔ のほかに – 'ngoài đơn đăng ký ra còn cần…'",
+   "のことで – 'về việc', không hợp",
+   "について – 'về', không hợp",
+   "にくらべて – 'so với', không hợp"
+  ],
+  "trans": "Để xin học bổng, ngoài đơn đăng ký ra còn cần các giấy tờ như bảng điểm.",
+  "note": "N + のほかに = ngoài N ra (còn). Vế sau liệt kê thêm など nên hợp."
+ },
+ "gyanmirai:grammar-11-13": {
+  "opts": [
+   "ように – 'để cho', không hợp",
+   "✔ うちに – 'trong lúc chưa mưa to (thì về nhanh)'",
+   "ために – 'vì/để', không hợp",
+   "までに – 'trước khi', không đi với thể ない kiểu này"
+  ],
+  "trans": "A: A, trời bắt đầu mưa rồi. / B: Ừ nhỉ. Nghe nói tối nay mưa to đấy. Về nhanh trong lúc mưa chưa to đi.",
+  "note": "V-ない + うちに = tranh thủ làm gì trước khi tình trạng xấu xảy ra."
+ },
+ "gyanmirai:grammar-11-14": {
+  "opts": [
+   "✔ くださいます – kính ngữ của くれる (giám đốc mua cho chúng tôi)",
+   "いただきます – khiêm nhường của もらう, chủ ngữ phải là 'chúng tôi'",
+   "差し上げます – khiêm nhường của あげる, hướng ngược",
+   "召し上がります – kính ngữ 'ăn', không hợp"
+  ],
+  "trans": "Giám đốc lúc nào cũng mua quà về cho chúng tôi mỗi khi đi công tác.",
+  "note": "Chủ ngữ là 社長 (người trên) làm cho mình → 〜てくれる → kính ngữ 〜てくださる."
+ },
+ "gyanmirai:grammar-11-15": {
+  "opts": [
+   "来てる – 'đang đến', không có ý gấp",
+   "来とく – 'đến sẵn', vô nghĩa",
+   "✔ 来ちゃう – 'tàu đến mất bây giờ' (てしまう rút gọn)",
+   "来なきゃ – 'phải đến', không hợp"
+  ],
+  "trans": "Em: Chị ơi, tàu sắp đến mất rồi! / Chị: Biết rồi. Nhanh lên.",
+  "note": "〜ちゃう = 〜てしまう (văn nói), ở đây mang ý 'sắp xảy ra mất rồi, gay go'."
+ },
+ "gyanmirai:grammar-11-16": {
+  "opts": [
+   "ないに違いない – 'chắc chắn không có', ngược ý",
+   "✔ ないはずがない – 'không thể nào không có' = chắc chắn có",
+   "なくてはいけない – 'phải không có', vô lý",
+   "なくてもおかしくない – 'không có cũng chẳng lạ', ngược ý"
+  ],
+  "trans": "Con: Sách toán của con đâu? Ở đây không có. / Mẹ: Hả? Không thể không có được. Hôm qua mẹ thấy con làm bài tập mà. Tìm kỹ đi.",
+  "note": "〜はずがない = không có lý nào. ないはずがない là phủ định kép → chắc chắn phải có."
+ },
+ "gyanmirai:grammar-11-17": {
+  "opts": [
+   "✔ どちらからでも – 'từ ga nào cũng (đi được)'",
+   "どちらかどうか – 'ga nào hay không', vô nghĩa",
+   "どっちかも – không hợp cấu trúc",
+   "あっちこっちから – 'từ khắp nơi', không hợp vì chỉ có 2 ga"
+  ],
+  "trans": "Gần trường đại học của tôi có ga Morinaka và ga Minamikawa, từ ga nào cũng đến trường được. Thường thì tôi đi bộ từ ga Morinaka.",
+  "note": "Nghi vấn từ + でも = bất kể… cũng. どちらからでも = từ bên nào cũng được."
+ },
+ "gyanmirai:grammar-11-18": {
+  "opts": [
+   "柔らかくする – 'làm mềm', chủ ngữ là bắp cải nên sai",
+   "柔らかくにる – không có dạng này",
+   "✔ 柔らかくなる – 'trở nên mềm'",
+   "柔らかく – thiếu động từ trước まで"
+  ],
+  "trans": "(Ở lớp nấu ăn) Cô giáo: Khi sôi thì cho muối và bắp cải vào, đợi đến khi bắp cải mềm.",
+  "note": "キャベツが (tự động) → 柔らかくなる. V-辞書形 + まで待つ = đợi đến khi…"
+ },
+ "gyanmirai:grammar-11-19": {
+  "opts": [
+   "から – 'vì', không tương phản",
+   "✔ のに – 'làm đúng công thức vậy mà thất bại'",
+   "のは – không hợp",
+   "ので – 'vì', không tương phản"
+  ],
+  "trans": "Hôm qua lần đầu tôi thử làm bánh mì. Làm đúng theo công thức trên mạng vậy mà vẫn hỏng.",
+  "note": "Vế trước (làm đúng) và vế sau (thất bại) trái ngược → のに (vậy mà)."
+ },
+ "gyanmirai:grammar-11-2": {
+  "opts": [
+   "使った – 'đã dùng', không tả trạng thái hiện tại",
+   "使わない – 'không dùng', ngược ý",
+   "✔ 使っている – 'vẫn đang dùng'",
+   "使っていなかった – 'đã không dùng', ngược ý"
+  ],
+  "trans": "Bà tôi vẫn đang dùng cái máy hút bụi mua hơn 20 năm trước. Bà bảo đến khi hỏng không dùng được nữa mới mua cái mới.",
+  "note": "まだ + 〜ている = vẫn còn đang… Vế sau nói 'hỏng mới mua mới' nên hiện tại vẫn dùng."
+ },
+ "gyanmirai:grammar-11-20": {
+  "opts": [
+   "入ったままなんだ – 'vẫn trong câu lạc bộ nguyên như cũ', không hợp",
+   "入ってばかりだったんだ – 'vừa mới vào', không hợp 前",
+   "✔ 入っていたことがあるんだ – 'từng ở trong câu lạc bộ tennis'",
+   "入っているところだったんだ – 'đang lúc vào', không hợp"
+  ],
+  "trans": "Tanaka: Tớ mới bắt đầu chơi tennis, Yamashita biết chơi không? / Yamashita: Ừ. Hồi trước tớ từng ở trong câu lạc bộ tennis ở trường.",
+  "note": "〜たことがある = từng có kinh nghiệm. 前 (hồi trước) + kinh nghiệm quá khứ → 入っていたことがある."
+ },
+ "gyanmirai:grammar-11-3": {
+  "opts": [
+   "✔ いたします – khiêm nhường của する: ご案内いたします",
+   "なさいます – kính ngữ của する, dùng cho khách, không cho mình",
+   "うかがいます – khiêm nhường 'hỏi/đến thăm', không đi với ご案内",
+   "いらっしゃいます – kính ngữ 'đến/ở', không hợp"
+  ],
+  "trans": "Nhân viên: Kính chào quý khách. 2 người ạ? / Khách: Vâng. / Nhân viên: Mời đi lối này. Tôi xin dẫn quý khách đến bàn.",
+  "note": "Hành động của mình (nhân viên) → khiêm nhường: ご + N + いたします."
+ },
+ "gyanmirai:grammar-11-4": {
+  "opts": [
+   "誰には – không có cách dùng này",
+   "✔ 誰にも – 'không thua bất cứ ai'",
+   "誰かは – 'ai đó thì', không hợp",
+   "誰かも – không hợp"
+  ],
+  "trans": "Tôi rất thích nhảy và tập mỗi ngày. Có nhiều người giỏi hơn tôi nhưng tình yêu với nhảy múa thì tôi không thua ai cả.",
+  "note": "誰にも + phủ định = không… với bất kỳ ai. 〜に負けない = không thua ai."
+ },
+ "gyanmirai:grammar-11-5": {
+  "opts": [
+   "✔ なるには – 'để trở thành hội viên thì (có 2 cách)'",
+   "するよりは – 'hơn là làm', không hợp",
+   "なるかどうかは – 'có trở thành hay không', không hợp",
+   "することは – không hợp"
+  ],
+  "trans": "(Trên trang web khách sạn Sakura) Để trở thành hội viên khách sạn Sakura, có hai cách: đăng ký qua trang web hoặc đăng ký qua đường bưu điện.",
+  "note": "V-辞書形 + には = để làm… thì (cần/có cách). 会員になる = trở thành hội viên."
+ },
+ "gyanmirai:grammar-11-6": {
+  "opts": [
+   "開こうと思えば – 'nếu định mở', không hợp",
+   "✔ 開こうと思ってから – 'từ khi nghĩ sẽ mở (đến lúc mở mất 5 năm)'",
+   "開くようになれば – 'nếu trở nên mở', không hợp",
+   "開くようになってから – 'từ khi bắt đầu mở', mâu thuẫn với 'đến khi mở'"
+  ],
+  "trans": "Từ khi nghĩ sẽ mở nhà hàng riêng đến khi thực sự mở cửa hàng mất hơn 5 năm, nhưng có được cửa hàng của mình tôi rất vui.",
+  "note": "〜てから…まで = từ khi… đến khi. 開こうと思う = nghĩ/định sẽ mở."
+ },
+ "gyanmirai:grammar-11-7": {
+  "opts": [
+   "してあげてもいい – 'tôi ký giúp cũng được', ngược hướng",
+   "してくれたらいい – 'ký cho tôi thì tốt', không phải câu hỏi lịch sự",
+   "してやったらいい – 'ký cho thì tốt', thô",
+   "✔ してもらってもいい – 'anh ký giúp tôi được không?'"
+  ],
+  "trans": "Maekawa: Anh Mori, tài liệu này, anh ký cả vào đây giúp tôi được không? / Mori: À, tôi quên. Tôi ký ngay.",
+  "note": "〜てもらってもいいですか = nhờ người khác làm gì một cách lịch sự (tôi nhận hành động của anh)."
+ },
+ "gyanmirai:grammar-11-8": {
+  "opts": [
+   "ことに – không hợp",
+   "やっていた – không hợp",
+   "✔ ように – (theo đáp án nguồn)",
+   "何度も書いてみる – lấy từ câu khác"
+  ],
+  "trans": "Aoki: Anh Minami, hôm nay anh về rồi à? / Minami: Vâng, tôi đi đón con ở nhà trẻ. Tôi xin phép về trước.",
+  "note": "(?) Đáp án nguồn có thể sai: các lựa chọn không thuộc câu này. Chỗ trống đúng phải là 行くんです/行かなければならないんです (đi đón con)."
+ },
+ "gyanmirai:grammar-11-9": {
+  "opts": [
+   "は – không hợp",
+   "✔ も – 'đến mấy tiếng đồng hồ' (nhấn mạnh nhiều)",
+   "が – không hợp",
+   "を – không hợp"
+  ],
+  "trans": "Gặp bạn hồi cấp ba, vui quá nên tôi nói chuyện đến mấy tiếng đồng hồ.",
+  "note": "Nghi vấn từ + lượng từ + も (何時間も) = nhấn mạnh số lượng nhiều."
+ },
+ "gyanmirai:grammar-12-1": {
+  "opts": [
+   "すぎる – 'quá', 使いすぎる = dùng quá nhiều, không hợp",
+   "✔ やすい – 'dễ dùng' (V-ます + やすい)",
+   "てもいい – 'dùng cũng được', không nối với 使い",
+   "そうだ – 使いそうだ 'có vẻ sẽ dùng', không hợp"
+  ],
+  "trans": "A: Từ điển tiếng Nhật nhiều loại quá nhỉ. Chẳng biết mua quyển nào. / B: Quyển này thì sao? So với các quyển khác nó có nhiều ví dụ và tôi nghĩ dễ dùng.",
+  "note": "V-ます + やすい = dễ làm gì. 使いやすい = dễ dùng; ngược lại là 使いにくい."
+ },
+ "gyanmirai:grammar-12-10": {
+  "opts": [
+   "✔ までしか – 'chỉ đi đến trạm kế tiếp thôi' (しか + phủ định)",
+   "までだけ – だけ không đi với いきません kiểu này",
+   "からしか – 'chỉ từ', không hợp",
+   "からだけ – 'chỉ từ', không hợp"
+  ],
+  "trans": "(Ở bến xe buýt) Khách: Xin hỏi, xe này có đi đến ga Hanamori không? / Tài xế: Không, xe này chỉ đi đến bến kế tiếp thôi.",
+  "note": "までしか + 〜ない = chỉ đến… thôi. Vế sau là いきません (phủ định) nên dùng しか, không dùng だけ."
+ },
+ "gyanmirai:grammar-12-11": {
+  "opts": [
+   "食べていて – 'đang ăn', không hợp vì sau đó mới đến nhà ăn",
+   "食べているのに – 'đang ăn vậy mà', không hợp",
+   "✔ 食べようと思って – 'định ăn trưa nên (đến nhà ăn)'",
+   "食べようと思うのに – 'định ăn vậy mà', không hợp mạch"
+  ],
+  "trans": "Sau giờ học tôi định ăn trưa nên đến nhà ăn của trường, nhưng đông quá nên đi ăn ở quán mì gần trường.",
+  "note": "V-意向形 + と思って = định làm gì nên… Lý do dẫn đến hành động 食堂に行った."
+ },
+ "gyanmirai:grammar-12-12": {
+  "opts": [
+   "終わる前は – 'trước khi xong việc thì', không hợp 9時まで",
+   "終わったからは – không có cách dùng này",
+   "終わる前でも – 'kể cả trước khi xong', không hợp",
+   "✔ 終わってからでも – 'kể cả sau khi tan làm vẫn đi được'"
+  ],
+  "trans": "Tiệm làm tóc gần nhà tôi mở đến 9 giờ nên tan làm xong vẫn đi được, rất tiện.",
+  "note": "〜てからでも = kể cả sau khi… cũng (vẫn kịp). Mở đến 9 giờ → sau giờ làm vẫn đi được."
+ },
+ "gyanmirai:grammar-12-13": {
+  "opts": [
+   "通ってみたところだ – 'vừa mới đi học thử', không hợp 高校生のとき",
+   "✔ 通ってみたことがある – 'từng thử đi học'",
+   "通っておいたところだ – vô nghĩa",
+   "通っておいたことがある – 'từng đi học sẵn', không tự nhiên"
+  ],
+  "trans": "Hồi học cấp ba tôi từng thử đi học lớp guitar nhưng khó quá nên 3 tháng là bỏ.",
+  "note": "〜たことがある = đã từng. 〜てみる = thử. Kết hợp: 通ってみたことがある = từng đi thử."
+ },
+ "gyanmirai:grammar-12-14": {
+  "opts": [
+   "なりたそうだ – 'có vẻ muốn trở thành', dùng tả người khác",
+   "なることができた – 'đã trở thành được', mâu thuẫn",
+   "なっていたと思う – 'nghĩ là đã trở thành', vô lý",
+   "✔ なりたいと思っていた – 'đã từng mơ ước trở thành'"
+  ],
+  "trans": "Hồi nhỏ tôi từng mong muốn sau này trở thành ca sĩ.",
+  "note": "Ước muốn trong quá khứ kéo dài → 〜たいと思っていた. 子供のころ là mốc quá khứ."
+ },
+ "gyanmirai:grammar-12-15": {
+  "opts": [
+   "から – 'từ', không so sánh",
+   "✔ ほど – 'không nóng bằng năm ngoái' (ほど + phủ định)",
+   "まで – 'đến', không hợp",
+   "しか – cần đi với phủ định kiểu 'chỉ', không hợp"
+  ],
+  "trans": "Mùa hè năm nay không nóng bằng năm ngoái.",
+  "note": "N + ほど + 〜ない = không… bằng N. Đây là mẫu so sánh phủ định rất hay thi."
+ },
+ "gyanmirai:grammar-12-16": {
+  "opts": [
+   "✔ か/か – 'dầu gội hay gì đó không rõ'",
+   "は/は – không hợp",
+   "が/が – không hợp",
+   "で/で – không hợp"
+  ],
+  "trans": "Sáng nay trên tàu, từ người ngồi cạnh tỏa ra mùi gì đó rất thơm, không rõ là dầu gội hay gì nữa.",
+  "note": "N か N か わからない = không biết là A hay B. か ở đây là trợ từ nghi vấn trong mệnh đề."
+ },
+ "gyanmirai:grammar-12-17": {
+  "opts": [
+   "とでも – không hợp",
+   "となら – 'nếu cùng với', không hợp",
+   "だけでも – 'ít nhất chỉ… cũng', nhưng câu sau nói 'làm được' có điều kiện",
+   "✔ だけなら – 'nếu chỉ tài liệu họp thì (làm được)'"
+  ],
+  "trans": "Trưởng phòng: Hayashi, đột xuất thế này ngại quá, báo cáo công tác và tài liệu họp ngày mai, trưa nay xong được không? / Hayashi: Cả hai thì khó. Nếu chỉ tài liệu họp thì tôi nghĩ làm được, nhưng…",
+  "note": "N + だけなら = nếu chỉ N thôi thì… Đưa ra điều kiện giới hạn để nhận lời một phần."
+ },
+ "gyanmirai:grammar-12-18": {
+  "opts": [
+   "やっと – 'cuối cùng cũng', không hợp",
+   "きっと – 'chắc chắn', không hợp",
+   "✔ ちっとも – 'chẳng… chút nào' (+ phủ định)",
+   "せっかく – 'mất công', không hợp"
+  ],
+  "trans": "Dạo này con trai tôi chẳng chịu nghe lời tôi chút nào nên tôi rất khổ.",
+  "note": "ちっとも + 〜ない = hoàn toàn không, chẳng chút nào (giọng nói thân mật)."
+ },
+ "gyanmirai:grammar-12-19": {
+  "opts": [
+   "✔ おかげで – 'nhờ tiến bộ kỹ thuật'",
+   "ようで – 'có vẻ như', không hợp",
+   "ことで – 'bằng việc', không tự nhiên với 進歩の",
+   "ほかで – không hợp"
+  ],
+  "trans": "Cuộc sống của chúng ta nhờ tiến bộ của kỹ thuật mà trở nên rất tiện lợi.",
+  "note": "N + のおかげで = nhờ N (kết quả tốt: 便利になった)."
+ },
+ "gyanmirai:grammar-12-2": {
+  "opts": [
+   "と – 'với', không hợp",
+   "✔ を – 一日を過ごす (tân ngữ của 過ごす)",
+   "も – không hợp",
+   "が – không hợp"
+  ],
+  "trans": "Tôi đã có một ngày vui vẻ với bạn thời cấp ba ở Kyoto.",
+  "note": "過ごす là tha động từ: 楽しい一日を過ごす = trải qua một ngày vui."
+ },
+ "gyanmirai:grammar-12-20": {
+  "opts": [
+   "着いたり – liệt kê, không hợp",
+   "着いたため – 'vì đã đến', không hợp",
+   "✔ 着いたとしても – 'dù có đến ga muộn đi nữa (vẫn yên tâm)'",
+   "着いたかどうか – 'có đến hay không', không hợp"
+  ],
+  "trans": "Khách sạn Y tôi sẽ ở trong chuyến công tác tới nằm ngay trước ga, nên dù có đến ga khuya cũng yên tâm.",
+  "note": "〜としても = cho dù… đi nữa. Khách sạn gần ga nên đến khuya cũng không lo."
+ },
+ "gyanmirai:grammar-12-3": {
+  "opts": [
+   "✔ どれ – (theo đáp án nguồn)",
+   "いくつ – 'mấy cái', không hợp",
+   "どれか – 'cái nào đó', không hợp",
+   "いくつか – 'vài cái', không hợp"
+  ],
+  "trans": "A: Cái bánh này mua ở đâu thế? Ngon quá. / B: Là tiệm tên 'Ribbon' ấy, cậu biết không?",
+  "note": "(?) Đáp án nguồn có thể sai: các lựa chọn không thuộc câu này. Chỗ trống đúng phải là という/って: 『リボン』って店 = tiệm tên là Ribbon."
+ },
+ "gyanmirai:grammar-12-4": {
+  "opts": [
+   "どれ – 'cái nào', không hợp",
+   "いくつ – 'mấy', câu không phải câu hỏi",
+   "どれか – 'cái nào đó', không hợp",
+   "✔ いくつか – (theo đáp án nguồn) 'vài'"
+  ],
+  "trans": "Khi tôi lên tàu thì trong toa vắng, nhưng mải đọc sách thì lúc nào đó tàu đã chật kín.",
+  "note": "(?) Đáp án nguồn có thể sai: いくつか満員になった không có nghĩa; câu gốc có lẽ là いつの間にか満員になった. Lựa chọn bị lấy từ câu khác."
+ },
+ "gyanmirai:grammar-12-5": {
+  "opts": [
+   "どれ – 'cái nào', không hợp",
+   "いくつ – 'mấy cái?', câu không hỏi",
+   "どれか – 'cái nào đó' (1 cái), không hợp với 'nhiều cỡ'",
+   "✔ いくつか – 'vài cái'"
+  ],
+  "trans": "Nhà tôi có vài cái chảo kích cỡ khác nhau nhưng cái tôi dùng chỉ là cái nhỏ nhất.",
+  "note": "Nghi vấn từ + か = số lượng không xác định: いくつか = vài cái."
+ },
+ "gyanmirai:grammar-12-6": {
+  "opts": [
+   "までしか – không hợp",
+   "までだけ – không hợp",
+   "✔ からしか – (theo đáp án nguồn)",
+   "からだけ – không hợp"
+  ],
+  "trans": "Morita: Ishiyama, mình mang cái DVD cậu bảo muốn xem đến rồi. / Ishiyama: Cảm ơn. / Morita: Hayashi cũng muốn xem nên xem xong đưa cho Hayashi giúp mình nhé?",
+  "note": "(?) Đáp án nguồn có thể sai: các lựa chọn không thuộc câu này. Chỗ trống đúng phải là 見終わったら/見てから (xem xong thì)."
+ },
+ "gyanmirai:grammar-12-7": {
+  "opts": [
+   "までしか – không hợp",
+   "✔ までだけ – (theo đáp án nguồn)",
+   "からしか – không hợp",
+   "からだけ – không hợp"
+  ],
+  "trans": "Mỗi năm vào sinh nhật tôi mua một quyển sách mình muốn đọc lúc đó rồi xếp lên giá; thấy được sở thích sách của mình thay đổi thế nào, rất thú vị.",
+  "note": "(?) Đáp án nguồn có thể sai: 一冊までだけ không tự nhiên. Chỗ trống đúng phải là động từ như 買って. Lựa chọn bị lấy từ câu khác."
+ },
+ "gyanmirai:grammar-12-8": {
+  "opts": [
+   "✔ までしか – (theo đáp án nguồn)",
+   "までだけ – không hợp",
+   "からしか – không hợp",
+   "からだけ – không hợp"
+  ],
+  "trans": "A: Hôm qua cậu bảo mất điện thoại, tìm thấy chưa? / B: Ừ, hóa ra nó rơi trong xe ô tô. / A: Thế à. May quá nhỉ.",
+  "note": "(?) Đáp án nguồn có thể sai: các lựa chọn không thuộc câu này. Chỗ trống đúng phải là よかった (may quá)."
+ },
+ "gyanmirai:grammar-12-9": {
+  "opts": [
+   "までしか – không hợp",
+   "までだけ – không hợp",
+   "✔ からしか – (theo đáp án nguồn)",
+   "からだけ – không hợp"
+  ],
+  "trans": "Cô giáo: Khi Hoa nói sẽ đi du học, bố mẹ em nói sao? / Hoa: Bố mẹ động viên em 'cố lên'.",
+  "note": "(?) Đáp án nguồn có thể sai: các lựa chọn không thuộc câu này. Chỗ trống đúng phải là 言いましたか/おっしゃいましたか (đã nói gì)."
+ },
+ "gyanmirai:grammar-13-1": {
+  "opts": [
+   "営業して – 'kinh doanh và', không rõ trạng thái",
+   "営業しなくて – 'không kinh doanh', ngược ý",
+   "✔ 営業していて – 'vẫn còn mở cửa nên (ngạc nhiên)'",
+   "営業していなくて – 'không còn mở', không khớp まだ"
+  ],
+  "trans": "Đây là lần thứ 2 tôi đến Nhật. Lần trước là 20 năm trước, quán cà phê tôi vào hồi đó vẫn còn mở cửa nên tôi ngạc nhiên.",
+  "note": "まだ + 〜ている = vẫn còn. Thể て (〜していて) làm lý do cho 驚いた."
+ },
+ "gyanmirai:grammar-13-10": {
+  "opts": [
+   "対して – 'đối với' (đối tượng hành động), không hợp",
+   "比べて – 'so với', không hợp",
+   "おいて – 'tại/ở', không hợp",
+   "✔ とって – 'đối với tôi (mà nói)'"
+  ],
+  "trans": "Đối với tôi, thứ quan trọng nhất hiện giờ là con chó tôi đang nuôi.",
+  "note": "N + にとって = đứng trên lập trường của N mà đánh giá. Hay đi với 大切/必要/重要."
+ },
+ "gyanmirai:grammar-13-11": {
+  "opts": [
+   "にだけ – 'chỉ gặp', nhưng だけ không đi với phủ định ございません",
+   "✔ にしか – 'chỉ mới gặp trưởng phòng Yamashita thôi'",
+   "でしか – sai trợ từ (お目にかかる đi với に)",
+   "でだけ – sai trợ từ"
+  ],
+  "trans": "A: Hôm nay là lần đầu anh gặp trưởng phòng Tanaka à? / B: Vâng. Tôi mới chỉ gặp trưởng phòng Yamashita thôi ạ.",
+  "note": "お目にかかる = khiêm nhường của 会う, đi với に. Vế sau phủ định ございません → dùng しか."
+ },
+ "gyanmirai:grammar-13-12": {
+  "opts": [
+   "✔ ときでも – 'kể cả lúc thư viện đóng cửa'",
+   "ままで – 'trong trạng thái', không hợp",
+   "間だから – 'vì trong lúc', không hợp",
+   "ところなら – 'nếu lúc', không hợp"
+  ],
+  "trans": "Thư viện này có hộp trả sách gần lối vào, nên kể cả lúc thư viện đóng cửa cũng trả sách được.",
+  "note": "〜ときでも = ngay cả khi… cũng. でも nhấn mạnh trường hợp đặc biệt vẫn được."
+ },
+ "gyanmirai:grammar-13-13": {
+  "opts": [
+   "何とか – 'bằng cách nào đó', không hợp",
+   "なんか – 'như là/kiểu', không hợp",
+   "✔ なんて – 'đẹp làm sao!' (cảm thán)",
+   "何でも – 'gì cũng', không hợp"
+  ],
+  "trans": "A: Tối nay trời quang nên nhìn sao rõ lắm. / B: Ôi, thật kìa. Đẹp làm sao!",
+  "note": "なんて + tính từ + んだろう = câu cảm thán 'sao mà… thế!'."
+ },
+ "gyanmirai:grammar-13-14": {
+  "opts": [
+   "✔ 行こうか – 'hay là mình đi xem nhỉ' (ý chí + か)",
+   "行かないか – 'không đi à?' là lời rủ, không hợp と思う",
+   "行くのか – 'đi à?', không hợp",
+   "行ったか – 'đã đi chưa?', không hợp"
+  ],
+  "trans": "Vì tranh của người quen được treo ở triển lãm nên tôi nghĩ mình cũng đi xem.",
+  "note": "V-意向形 + か + と思う = đang định/nghĩ là sẽ làm gì."
+ }
+}

@@ -1,0 +1,969 @@
+[
+{
+"id": "jlptpt:n3-201212-vocabulary-26",
+"type": "paraphrase",
+"question": "何度失敗しても、彼女は＿あきらめなかった＿。",
+"options": [
+"気にしなかった",
+"やめようとしなかった",
+"怒らなかった",
+"謝るうとしなかった"
+],
+"answer": 1
+},
+{
+"id": "jlptpt:n3-201212-vocabulary-27",
+"type": "paraphrase",
+"question": "あのスーパーは、＿年中＿、セールをしている。",
+"options": [
+"最近",
+"ときどき",
+"いつも",
+"前から"
+],
+"answer": 2
+},
+{
+"id": "jlptpt:n3-201212-vocabulary-28",
+"type": "paraphrase",
+"question": "相手の選手にポールをうばわれてしまった。",
+"options": [
+"入れられて",
+"止められて",
+"打たれて",
+"取られて"
+],
+"answer": 3
+},
+{
+"id": "jlptpt:n3-201212-vocabulary-30",
+"type": "paraphrase",
+"question": "＿まぶしくて＿ポスターの字がよく見えない。",
+"options": [
+"明るずぎて",
+"遠すぎて",
+"薄すぎて",
+"小さすぎて"
+],
+"answer": 0
+},
+{
+"id": "jlptpt:n3-201212-vocabulary-31",
+"type": "usage",
+"question": "募集",
+"options": [
+"授業の説明のために、新入生を1番教室に募集した。",
+"わたしの趣味は、いろいろな国のコインを募集することです。",
+"スピーチ大会の参加者を募集しています。",
+"この市では週2回、ごみを募集しています。"
+],
+"answer": 2,
+"source_explanation": "募集: スピーチ大会の参加者を募集しています。"
+},
+{
+"id": "jlptpt:n3-201212-vocabulary-32",
+"type": "usage",
+"question": "空",
+"options": [
+"来還は忙しくて、空の日が三田もない。",
+"あの人の話は内容が空なので、聞いてもつまらない。",
+"林さんは忙しいみたいで、いつ行っても家が空だ。",
+"飲み終わって空になったビンはここに置いてください。"
+],
+"answer": 3
+},
+{
+"id": "jlptpt:n3-201212-vocabulary-7",
+"type": "kanji_reading",
+"question": "道路を＿横断＿するときは、車に十分注意してください。",
+"options": [
+"おうだん",
+"よこだん",
+"おうたん",
+"よこたん"
+],
+"answer": 0,
+"source_explanation": "横断 => おうだん"
+},
+{
+"id": "jlptpt:n3-201307-vocabulary-15",
+"type": "context",
+"question": "のどが（　）、何か飲みたい。",
+"options": [
+"ふらふらなので",
+"べこべこなので",
+"すいたので",
+"かわいたので"
+],
+"answer": 3
+},
+{
+"id": "jlptpt:n3-201307-vocabulary-16",
+"type": "context",
+"question": "工事のせいで道が（　）していて、車が全然前に進まない。",
+"options": [
+"運休",
+"故障",
+"渋滞",
+"集中"
+],
+"answer": 2
+},
+{
+"id": "jlptpt:n3-201307-vocabulary-17",
+"type": "context",
+"question": "車のエンジンの音が（　）ので、修理をお願いした。",
+"options": [
+"まずしい",
+"おかしい",
+"きびしい",
+"しつこい"
+],
+"answer": 1
+},
+{
+"id": "jlptpt:n3-201307-vocabulary-18",
+"type": "context",
+"question": "時計が止まってしまったので、新しい電池に（　）した。",
+"options": [
+"移動",
+"変化",
+"交换",
+"入力"
+],
+"answer": 2
+},
+{
+"id": "jlptpt:n3-201307-vocabulary-19",
+"type": "context",
+"question": "缶やペットボトルも捨てないで（　）すれば、ごみは少なくなる。",
+"options": [
+"リサイクル",
+"キャンセル",
+"カット",
+"チェンジ"
+],
+"answer": 0
+},
+{
+"id": "jlptpt:n3-201307-vocabulary-20",
+"type": "context",
+"question": "林さんが結婚するという（　）を聞いたが、本当かどうかはわからない。",
+"options": [
+"文句",
+"宣伝",
+"うそ",
+"うわさ"
+],
+"answer": 3
+},
+{
+"id": "jlptpt:n3-201307-vocabulary-21",
+"type": "context",
+"question": "この講演会の参加者は（　）学生だったが、ほかに主婦や会社員も少しいた。",
+"options": [
+"かならず",
+"すべて",
+"じゆうぶん",
+"おもに"
+],
+"answer": 3
+},
+{
+"id": "jlptpt:n3-201307-vocabulary-22",
+"type": "context",
+"question": "こんな重要な仕事がわたしにできるかどうか、初めは（　）だった。",
+"options": [
+"不安",
+"無理",
+"退屈",
+"苦手"
+],
+"answer": 0
+},
+{
+"id": "jlptpt:n3-201307-vocabulary-23",
+"type": "context",
+"question": "都合が悪くなったときは、（　）早く連絡してください。",
+"options": [
+"ずいぶん",
+"なるべく",
+"きっと",
+"さっそく"
+],
+"answer": 1
+},
+{
+"id": "jlptpt:n3-201307-vocabulary-24",
+"type": "context",
+"question": "会議の間、山田さんは目を（　）いたので、寝ているのかと思った。",
+"options": [
+"とめて",
+"やめて",
+"さげて",
+"とじて"
+],
+"answer": 3
+},
+{
+"id": "jlptpt:n3-201307-vocabulary-25",
+"type": "context",
+"question": "セーターをきちんと（　）、たんすの引き出しにしまった。",
+"options": [
+"締めて",
+"曲げて",
+"たたんで",
+"むすんで"
+],
+"answer": 2
+},
+{
+"id": "jlptpt:n3-201307-vocabulary-26",
+"type": "paraphrase",
+"question": "これと同じ＿サイズ＿の皿はありますか",
+"options": [
+"大きさ",
+"値段",
+"色",
+"形"
+],
+"answer": 0
+},
+{
+"id": "jlptpt:n3-201307-vocabulary-27",
+"type": "paraphrase",
+"question": "サラダはもう＿注文しましたか＿。",
+"options": [
+"作りましたか",
+"たのみましたか",
+"食べましたか",
+"はこびましたか"
+],
+"answer": 1
+},
+{
+"id": "jlptpt:n3-201307-vocabulary-28",
+"type": "paraphrase",
+"question": "すみませんが、もう一回＿たしかめて＿くれませんか。",
+"options": [
+"コピーして",
+"メモして",
+"メールして",
+"チェックして"
+],
+"answer": 3
+},
+{
+"id": "jlptpt:n3-201307-vocabulary-29",
+"type": "paraphrase",
+"question": "山田さんは＿このごろ＿忙しそうですね。",
+"options": [
+"ずっと",
+"いつも",
+"まだ",
+"さいきん"
+],
+"answer": 3
+},
+{
+"id": "jlptpt:n3-201307-vocabulary-3",
+"type": "kanji_reading",
+"question": "一つだけ＿席＿があいていました。",
+"options": [
+"せき",
+"かぎ",
+"あな",
+"ふた"
+],
+"answer": 0,
+"source_explanation": "席 => せき"
+},
+{
+"id": "jlptpt:n3-201307-vocabulary-30",
+"type": "paraphrase",
+"question": "さっきからあの子ばかり＿しゃべって＿いる。",
+"options": [
+"騒いで",
+"話して",
+"答えて",
+"遊んで"
+],
+"answer": 1
+},
+{
+"id": "jlptpt:n3-201307-vocabulary-31",
+"type": "usage",
+"question": "建設",
+"options": [
+"この本棚は自分たちで建設したものです。",
+"公国にやっとベンチが建設されました",
+"ここに新しい空港が建設される予定です。",
+"この工場では船を建設しています。"
+],
+"answer": 2
+},
+{
+"id": "jlptpt:n3-201307-vocabulary-32",
+"type": "usage",
+"question": "身につける",
+"options": [
+"田中さんは将来は海外で働きたいという希望を身につけている。",
+"林さんはこの村に学校を作り、多くの人の尊敬を身につけた。",
+"専門学校でいろいろな技術を身につけて、いい会社に入りたい。",
+"新しいクラス全員の顔と名前を身につけるのに2日かかった。"
+],
+"answer": 2
+},
+{
+"id": "jlptpt:n3-201307-vocabulary-33",
+"type": "usage",
+"question": "発生",
+"options": [
+"この二つの洗剤を混ぜると危険なガスが発生するので、気をつけてください。",
+"この大学からは、有名な研究者がたくさん発生している。",
+"駅の周りには、この2、3年の間に発生した店がたくさんあります。",
+"春になると、この木には白い花がたくさん発生します。"
+],
+"answer": 0
+},
+{
+"id": "jlptpt:n3-201307-vocabulary-34",
+"type": "usage",
+"question": "にぎる",
+"options": [
+"袋がひもで固くにぎってあったので、なかなか開かなかった。",
+"ローブを強くにぎっていたせいで、手が赤くなってしまった。",
+"この料理は、ほしを使うとにぎりにくいので、スプーンで食べよう。",
+"資料がぼらばらにならないようにクリップでにぎった。"
+],
+"answer": 1
+},
+{
+"id": "jlptpt:n3-201307-vocabulary-35",
+"type": "usage",
+"question": "だるい",
+"options": [
+"楽しみにしていたコンサートが中止になってだるかったです。",
+"空がだるそうだから、雨が降らないうちに家に帰りましょ",
+"朝から熱があって体がだるかったので、会社を休みました。",
+"旅行の間、窓を全部閉めておいたせいで、部屋がだるい。"
+],
+"answer": 2
+},
+{
+"id": "jlptpt:n3-201312-vocabulary-13",
+"type": "orthography",
+"question": "この本を＿かして＿ください。",
+"options": [
+"措して",
+"借して",
+"貨して",
+"貸して"
+],
+"answer": 3,
+"source_explanation": "かして => 貸して"
+},
+{
+"id": "jlptpt:n3-201312-vocabulary-15",
+"type": "context",
+"question": "風邪をひいて、のどの（　）が悪いです。",
+"options": [
+"気分",
+"調子",
+"事情",
+"都合"
+],
+"answer": 1
+},
+{
+"id": "jlptpt:n3-201312-vocabulary-16",
+"type": "context",
+"question": "このズボンは（　）ので、もう少し小さいサイズのをください。",
+"options": [
+"きつい",
+"だるい",
+"緩い",
+"苦しい"
+],
+"answer": 2
+},
+{
+"id": "jlptpt:n3-201312-vocabulary-17",
+"type": "context",
+"question": "日本に来てから、もう3年（　）。",
+"options": [
+"移りました",
+"かかりました",
+"通りました",
+"たちました"
+],
+"answer": 3
+},
+{
+"id": "jlptpt:n3-201312-vocabulary-18",
+"type": "context",
+"question": "ついさっきまでいい天気だったのに、（　）雨が降ってきてぬれてしまいました。",
+"options": [
+"突然",
+"早めに",
+"さっそく",
+"急ぐ"
+],
+"answer": 0
+},
+{
+"id": "jlptpt:n3-201312-vocabulary-19",
+"type": "context",
+"question": "この国は（　）が高いので、生活が大変です。",
+"options": [
+"経済",
+"物価",
+"消費",
+"支出"
+],
+"answer": 1
+},
+{
+"id": "jlptpt:n3-201312-vocabulary-20",
+"type": "context",
+"question": "先に家を出た兄に、駅の近くでやっと（　）。",
+"options": [
+"間に合いました",
+"ぶつかりました",
+"届きました",
+"追いつきました"
+],
+"answer": 3
+},
+{
+"id": "jlptpt:n3-201312-vocabulary-21",
+"type": "context",
+"question": "わたしは泳ぐのが下手なので、この前、海で（　）になりました。",
+"options": [
+"こおりそう",
+"たまりそう",
+"おぼれそう",
+"すべりそう"
+],
+"answer": 2
+},
+{
+"id": "jlptpt:n3-201312-vocabulary-22",
+"type": "context",
+"question": "友人の家で食べたケーキがおいしかったので、（　）と作り方を教えてもらった。",
+"options": [
+"資源",
+"材料",
+"部品",
+"原因"
+],
+"answer": 1
+},
+{
+"id": "jlptpt:n3-201312-vocabulary-23",
+"type": "context",
+"question": "あの兄弟はいつも一緒に学校に来るのに、今日は（　）来た。",
+"options": [
+"別々に",
+"半々に",
+"分けて",
+"区切って"
+],
+"answer": 0
+},
+{
+"id": "jlptpt:n3-201312-vocabulary-24",
+"type": "context",
+"question": "佐藤さんに仕事をお願いしたら、（　）くれました。",
+"options": [
+"引き受けて",
+"引き出して",
+"引っ張って",
+"引っかけて"
+],
+"answer": 0
+},
+{
+"id": "jlptpt:n3-201312-vocabulary-25",
+"type": "context",
+"question": "森さんはいつも、自分の飼っているペットが一番かわいいとみんなに（　）いる。",
+"options": [
+"期待して",
+"応援して",
+"自慢して",
+"賛成して"
+],
+"answer": 2
+},
+{
+"id": "jlptpt:n3-201312-vocabulary-26",
+"type": "paraphrase",
+"question": "高橋さんの家は＿キッチン＿が広くていいですね。",
+"options": [
+"玄関",
+"台所",
+"部屋",
+"廊下"
+],
+"answer": 1
+},
+{
+"id": "jlptpt:n3-201312-vocabulary-27",
+"type": "paraphrase",
+"question": "机の＿位置＿を確認しておいてください。",
+"options": [
+"値段",
+"場所",
+"数",
+"色"
+],
+"answer": 1
+},
+{
+"id": "jlptpt:n3-201312-vocabulary-28",
+"type": "paraphrase",
+"question": "その商品は＿売り切れた＿。",
+"options": [
+"全部売れた",
+"全部売れなかった",
+"だんだん売れなくなってきた",
+"よく売れるようになってきた"
+],
+"answer": 0
+},
+{
+"id": "jlptpt:n3-201312-vocabulary-29",
+"type": "paraphrase",
+"question": "今度、＿わけ＿を教えてください。",
+"options": [
+"計画",
+"意見",
+"規則",
+"理由"
+],
+"answer": 3
+},
+{
+"id": "jlptpt:n3-201312-vocabulary-30",
+"type": "paraphrase",
+"question": "今からアンケートを＿回収＿します。",
+"options": [
+"渡す",
+"贈る",
+"集める",
+"始める"
+],
+"answer": 2
+},
+{
+"id": "jlptpt:n3-201312-vocabulary-31",
+"type": "usage",
+"question": "早退",
+"options": [
+"ストーリーがあまり面白くなかったので、映画館を早退した。",
+"けがのため、佐藤選手が試合の途中で早退した。",
+"今日は、夕方病院に行かなければいけないので、会社を早退した。",
+"入院は1週間の予定だったが、5日で早退することができた。"
+],
+"answer": 2,
+"source_explanation": "早退 (そうたい) có nghĩa là \"về sớm\". Từ này thường được sử dụng trong ngữ cảnh rời khỏi nơi làm việc, trường học hoặc một sự kiện nào đó sớm hơn so với thời gian dự kiến hoặc quy định.\n\n今日は、夕方病院に行かなければいけないので、会社を早退した。\nきょうは、ゆうがたびょういんにいかなければいけないので、かいしゃをそうたいした。\nHôm nay, vì phải đi bệnh viện vào buổi chiều, tôi đã xin về sớm từ công ty."
+},
+{
+"id": "jlptpt:n3-201312-vocabulary-32",
+"type": "usage",
+"question": "進歩",
+"options": [
+"この畑はよく日が当たるので、野菜がよく進歩する。",
+"科学技術が進歩して、人々の生活は便利になりました。",
+"ジョギングを始めてから、ずいぶん体力が進歩した気がする。",
+"毎日一生懸命勉強したので、日本語の成績がかなり進歩しました。"
+],
+"answer": 1
+},
+{
+"id": "jlptpt:n3-201312-vocabulary-33",
+"type": "usage",
+"question": "余る",
+"options": [
+"レポートの締め切りまであと3日しか余っていない。",
+"薬を飲んだら少しよくなったが、まだ熱が余っている。",
+"さっき掃除をしたので、部屋にはごみが余っていない。",
+"授業を欠席した人がいたので、資料が何人分か余っている。"
+],
+"answer": 3
+},
+{
+"id": "jlptpt:n3-201312-vocabulary-34",
+"type": "usage",
+"question": "効果",
+"options": [
+"友人が手伝ってくれた効果で、引っ越しが早く終わった。",
+"最近目が悪くなってきたのは、年をとった効果だろうか。",
+"広告の効果があったようで、今月はお客さんが多かった。",
+"昨日の疲れの効果が出たらしく、今朝はなかなか起きられなかった。"
+],
+"answer": 2
+},
+{
+"id": "jlptpt:n3-201312-vocabulary-35",
+"type": "usage",
+"question": "こぼす",
+"options": [
+"机の上にジュースをこぼして、ノートを汚してしまいました。",
+"今日は気温が高くて、みんな汗をこぼしながら電車を待っていました。",
+"おじぎをしたら、ポケットの中の携帯電話をこぼしてしまった。",
+"クリップが取れて、書類を床にこぼしてしまった。"
+],
+"answer": 0
+},
+{
+"id": "jlptpt:n3-201407-vocabulary-10",
+"type": "orthography",
+"question": "風邪で学校を＿けっせき＿した。",
+"options": [
+"休座",
+"体席",
+"欠座",
+"欠席"
+],
+"answer": 3
+},
+{
+"id": "jlptpt:n3-201407-vocabulary-11",
+"type": "orthography",
+"question": "野菜を＿こまかく＿切ってください。",
+"options": [
+"細かく",
+"短かく",
+"丸かく",
+"角かく"
+],
+"answer": 0
+},
+{
+"id": "jlptpt:n3-201407-vocabulary-12",
+"type": "orthography",
+"question": "このアパートには＿わかい＿人がたくさん住んでいる。",
+"options": [
+"孝い",
+"苦い",
+"老い",
+"若い"
+],
+"answer": 3
+},
+{
+"id": "jlptpt:n3-201407-vocabulary-13",
+"type": "orthography",
+"question": "＿ふくすう＿の写真からいいものを選んだ。",
+"options": [
+"複数",
+"複枚",
+"復数",
+"復枚"
+],
+"answer": 0
+},
+{
+"id": "jlptpt:n3-201407-vocabulary-14",
+"type": "orthography",
+"question": "米の輸入量が＿げんしょう＿している。",
+"options": [
+"減小",
+"減少",
+"現少",
+"現小"
+],
+"answer": 1
+},
+{
+"id": "jlptpt:n3-201407-vocabulary-15",
+"type": "context",
+"question": "お菓子は6個あるから、3人で（　）と一人2個になる。",
+"options": [
+"わける",
+"離す",
+"引く",
+"破く"
+],
+"answer": 0
+},
+{
+"id": "jlptpt:n3-201407-vocabulary-16",
+"type": "context",
+"question": "友人に子どもが生まれたので、（　）に何か贈りたいと思っています。",
+"options": [
+"お願い",
+"お祝い",
+"お代わり",
+"お見舞い"
+],
+"answer": 1
+},
+{
+"id": "jlptpt:n3-201407-vocabulary-17",
+"type": "context",
+"question": "パソコンの調子が悪いんですが、自分で原因を調べる（　）はありませんか。",
+"options": [
+"方法",
+"都合",
+"規則",
+"計画"
+],
+"answer": 0
+},
+{
+"id": "jlptpt:n3-201407-vocabulary-18",
+"type": "context",
+"question": "田中さんは、何でも自分からやってみようとする（　）な人だ。",
+"options": [
+"感情的",
+"効果的",
+"積極的",
+"具体的"
+],
+"answer": 2
+},
+{
+"id": "jlptpt:n3-201407-vocabulary-19",
+"type": "context",
+"question": "日本には石油や金などの（　）はあまりない。",
+"options": [
+"環境",
+"資源",
+"基礎",
+"栄養"
+],
+"answer": 1
+},
+{
+"id": "jlptpt:n3-201407-vocabulary-20",
+"type": "context",
+"question": "初めて森さんに会ったときには、おとなしい人だという（　）を受けた。",
+"options": [
+"感覚",
+"意識",
+"印象",
+"気分"
+],
+"answer": 2
+},
+{
+"id": "jlptpt:n3-201407-vocabulary-21",
+"type": "context",
+"question": "昨日の夜から歯が痛くて（　）できなくなったので、今朝歯医者に行った。",
+"options": [
+"遠慮",
+"努力",
+"我慢",
+"心配"
+],
+"answer": 2
+},
+{
+"id": "jlptpt:n3-201407-vocabulary-22",
+"type": "context",
+"question": "旅行の（　）に絵はがきを買った。",
+"options": [
+"満足",
+"感激",
+"経験",
+"記念"
+],
+"answer": 3
+},
+{
+"id": "jlptpt:n3-201407-vocabulary-23",
+"type": "context",
+"question": "今月から駐車場の使用（　）が高くなった。",
+"options": [
+"金",
+"値",
+"料",
+"賃"
+],
+"answer": 2
+},
+{
+"id": "jlptpt:n3-201407-vocabulary-24",
+"type": "context",
+"question": "このゲーム、初めはおもしろいと思ったけど、何度もやったので、もう（　）しまった。",
+"options": [
+"きらって",
+"あきらめて",
+"こわがって",
+"あきて"
+],
+"answer": 3
+},
+{
+"id": "jlptpt:n3-201407-vocabulary-25",
+"type": "context",
+"question": "旅行会社に行ったら、海外旅行の（　）がたくさん置いてあった。",
+"options": [
+"アナウンス",
+"コマーシャル",
+"サンプル",
+"パンフレット"
+],
+"answer": 3
+},
+{
+"id": "jlptpt:n3-201407-vocabulary-26",
+"type": "paraphrase",
+"question": "山口さんなら＿さっき＿帰りましたよ。",
+"options": [
+"すぐに",
+"ずっと前に",
+"やっと",
+"少し前に"
+],
+"answer": 3
+},
+{
+"id": "jlptpt:n3-201407-vocabulary-27",
+"type": "paraphrase",
+"question": "隣の部屋から＿おかしな＿音が聞こえる。",
+"options": [
+"いろいろな",
+"にぎやかな",
+"へんな",
+"大きな"
+],
+"answer": 2
+},
+{
+"id": "jlptpt:n3-201407-vocabulary-28",
+"type": "paraphrase",
+"question": "あれから約1週間＿たちました＿。",
+"options": [
+"過ぎました",
+"かかりました",
+"待ちました",
+"続けました"
+],
+"answer": 0
+},
+{
+"id": "jlptpt:n3-201407-vocabulary-29",
+"type": "paraphrase",
+"question": "山本さんは＿あわてて＿出ていきましたよ。",
+"options": [
+"困ったようすで",
+"急いだようすで",
+"疲れたようすで",
+"怒ったようすで"
+],
+"answer": 1
+},
+{
+"id": "jlptpt:n3-201407-vocabulary-30",
+"type": "paraphrase",
+"question": "道が＿カープしている＿ので、気をつけてください。",
+"options": [
+"曲がっている",
+"坂になっている",
+"暗くなっている",
+"狭くなっている"
+],
+"answer": 0
+},
+{
+"id": "jlptpt:n3-201407-vocabulary-31",
+"type": "usage",
+"question": "内容",
+"options": [
+"中村さんの頭の内容は、来月の結婚のことでいっぱいです。",
+"この薬には、頭痛に特によく効く内容が入っています。",
+"このジュースの内容は、りんごとバナナと牛乳です。",
+"このメールの内容は、まだ誰にも話さないでください。"
+],
+"answer": 3
+},
+{
+"id": "jlptpt:n3-201407-vocabulary-32",
+"type": "usage",
+"question": "発展",
+"options": [
+"この町は海に近く、外国との貿易によって発展してきた。",
+"毎日ピアノの練習をしているが、なかなか発展しない。",
+"工事が始まって3か月になり、ビルもずいぶん発展してきた。",
+"留学していた息子が帰ってきたが、発展していてうれしかった。"
+],
+"answer": 0
+},
+{
+"id": "jlptpt:n3-201407-vocabulary-33",
+"type": "usage",
+"question": "伝わる",
+"options": [
+"高校時代の友人から久しぶりに手紙が伝わった。",
+"妹の風邪が伝わったみたいで、熱が出てきた。",
+"事故で電車が止まったらしく、たくさんの人がバスに伝わってきた。",
+"この技術は、約200年前に外国から伝わったそうです。"
+],
+"answer": 3
+},
+{
+"id": "jlptpt:n3-201407-vocabulary-34",
+"type": "usage",
+"question": "どなる。",
+"options": [
+"時計がどなる音で目が覚めた。",
+"そんなにどならなくても、ちゃんと聞こえるよ。",
+"庭で犬がどなっていて、うるさい。",
+"急に空が曇ってきて、雷がどなり始めた。"
+],
+"answer": 1
+},
+{
+"id": "jlptpt:n3-201407-vocabulary-35",
+"type": "usage",
+"question": "期限",
+"options": [
+"このテレビは最近音が出ないときがあるので、そろそろ期限だと思う。",
+"東京行きの新幹線は期限より10分遅れて出発した。",
+"指定の期限までに代金の振り込みがない場合、注文はキャンセルされます。",
+"駅に4時に集まる約束だったのに、期限になっても誰も来ない。"
+],
+"answer": 2
+},
+{
+"id": "jlptpt:n3-201407-vocabulary-9",
+"type": "orthography",
+"question": "子どもが壁に絵を書いてしまったので、＿けして＿きれいにした。",
+"options": [
+"流して",
+"洗して",
+"消して",
+"清して"
+],
+"answer": 2
+},
+{
+"id": "jlptpt:n3-201412-vocabulary-1",
+"type": "kanji_reading",
+"question": "鈴木さんの＿横＿にいるのは誰ですか。",
+"options": [
+"そば",
+"よこ",
+"となり",
+"おく"
+],
+"answer": 1,
+"source_explanation": "横 => よこ"
+},
+{
+"id": "jlptpt:n3-201412-vocabulary-12",
+"type": "orthography",
+"question": "外国の＿ざっし＿を買ってきました。",
+"options": [
+"稚志",
+"雑誌",
+"稚誌",
+"雑志"
+],
+"answer": 1,
+"source_explanation": "ざっし => 雑誌"
+}
+]

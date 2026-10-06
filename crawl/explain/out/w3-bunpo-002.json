@@ -1,0 +1,802 @@
+{
+ "jlptpt:n3-201812-grammar-22": {
+  "opts": [
+   "では – 'ở giường thì', không có ý giới hạn",
+   "でなら – 'nếu ở giường thì', sai",
+   "でだけ – 'chỉ ở giường', nhưng だけ không đi với ない",
+   "✔ でしか – 'chỉ (ngủ) trên giường', đi với ない"
+  ],
+  "trans": "Vì trước đó tôi chỉ toàn ngủ trên giường thôi.",
+  "note": "Sau chỗ trống là ～たことがなかった (phủ định) → しか～ない 'chỉ'. で chỉ nơi diễn ra hành động."
+ },
+ "jlptpt:n3-201812-grammar-23": {
+  "opts": [
+   "住むならいいです – 'nếu ở thì tốt', không tự nhiên",
+   "住むつもりだからです – 'vì định ở', nêu lý do",
+   "✔ 住んでみたいです – 'muốn thử sống'",
+   "住もうとすることです – 'việc định sống', sai"
+  ],
+  "trans": "Tôi cũng muốn thử sống trong một ngôi nhà có phòng tatami.",
+  "note": "Câu kết bài, nêu mong muốn sau khi biết cái hay của phòng tatami → V-てみたい."
+ },
+ "jlptpt:n3-201907-grammar-19": {
+  "opts": [
+   "できるのか知りたいです – 'muốn biết' (hiện tại), sai thì",
+   "できたのかわかりません – 'không biết đã… chưa', sai thì",
+   "できたのか知りたかったです – mệnh đề quá khứ, sai",
+   "✔ できるのかわかりませんでした – 'đã không biết làm sao để có'"
+  ],
+  "trans": "Ở trường tôi chỉ học giờ tiếng Nhật nên không có dịp nói chuyện với sinh viên Nhật, và đã không biết làm sao để có bạn người Nhật.",
+  "note": "Kể tình trạng 2 tháng đầu (quá khứ) → わかりませんでした. どうしたら～できるのか hỏi về cách làm nên giữ thể る."
+ },
+ "jlptpt:n3-201907-grammar-20": {
+  "opts": [
+   "つまり – 'tức là'",
+   "✔ そして – 'rồi thì', nối hành động tiếp theo",
+   "ところが – 'thế nhưng'",
+   "たとえば – 'ví dụ'"
+  ],
+  "trans": "Rồi tôi nghĩ biết đâu vào câu lạc bộ thì sẽ có bạn người Nhật.",
+  "note": "Hành động nối tiếp: đứng xem một lúc → rồi nảy ra suy nghĩ. Không có đối lập hay giải thích → そして."
+ },
+ "jlptpt:n3-201907-grammar-21": {
+  "opts": [
+   "ないそうです – 'nghe nói không có', sai",
+   "ないのでしょうか – 'liệu không có sao?', sai",
+   "ないと思ったからです – 'vì đã nghĩ là không có', nêu lý do",
+   "✔ ないかもしれないと思いました – 'nghĩ có lẽ sẽ không có'"
+  ],
+  "trans": "Nhưng tôi nghĩ nếu không vào câu lạc bộ thì có lẽ mãi mãi sẽ không có cơ hội kết bạn với sinh viên Nhật.",
+  "note": "Suy nghĩ lúc đó của người viết, dẫn tới hành động ở câu sau (bắt chuyện) → ～かもしれないと思いました."
+ },
+ "jlptpt:n3-201907-grammar-22": {
+  "opts": [
+   "答えてやりました – 'trả lời cho (người dưới)', sai",
+   "答えてもらえました – chủ ngữ phải là tôi",
+   "✔ 答えてくれました – 'cô ấy đã trả lời cho tôi'",
+   "答えてあげられました – sai"
+  ],
+  "trans": "Cô ấy đã trả lời câu hỏi của tôi rất tận tình.",
+  "note": "Chủ ngữ 彼女は làm việc gì đó cho tôi → V-てくれました."
+ },
+ "jlptpt:n3-201907-grammar-23": {
+  "opts": [
+   "✔ あのとき – 'lúc ấy', một thời điểm cụ thể đã qua",
+   "そんなとき – 'những lúc như thế', không cụ thể",
+   "このときも – 'lần này cũng', sai",
+   "どんなときも – 'lúc nào cũng', sai"
+  ],
+  "trans": "Tôi nghĩ chính vì lúc ấy không bỏ cuộc mà hỏi cách vào câu lạc bộ nên tôi mới có bạn nhanh như vậy.",
+  "note": "あのとき dùng để nhớ lại một thời điểm cụ thể trong quá khứ (lúc bắt chuyện hỏi cách vào CLB), nhìn từ hiện tại."
+ },
+ "jlptpt:n3-201912-grammar-19": {
+  "opts": [
+   "ある – 'một… nào đó'",
+   "この – 'này', gần người nói",
+   "✔ その – 'tình trạng đó', chỉ việc vừa kể",
+   "あの – 'kia', chỉ điều xa"
+  ],
+  "trans": "Tôi nghĩ: 'Nếu tình trạng đó cứ tiếp diễn thì những chỗ không được dọn sẽ mãi còn nguyên như vậy.'",
+  "note": "その chỉ lại tình trạng vừa kể: bận nên không tổng vệ sinh, rồi lại đến tháng 12. (OCR: 階段あまり = 階段などあまり; 掃除用器 = 掃除用具.)"
+ },
+ "jlptpt:n3-201912-grammar-20": {
+  "opts": [
+   "✔ まず – 'trước tiên'",
+   "または – 'hoặc'",
+   "すると – 'thế là'",
+   "ところが – 'thế nhưng'"
+  ],
+  "trans": "Trước tiên, tôi vứt hết đồ không cần trong nhà.",
+  "note": "まず… そして… : kể các bước theo thứ tự."
+ },
+ "jlptpt:n3-201912-grammar-21": {
+  "opts": [
+   "なら – 'nếu là'",
+   "でも – 'ngay cả', thường dùng với giả định",
+   "✔ まで – 'đến cả', vượt mức bình thường",
+   "ばかり – 'toàn là'"
+  ],
+  "trans": "Đây là lần đầu tôi dọn đến cả quạt thông gió.",
+  "note": "まで = đến cả (thứ bình thường không làm). Quạt thông gió là chỗ thường bị bỏ qua."
+ },
+ "jlptpt:n3-201912-grammar-22": {
+  "opts": [
+   "迎えることができそうです – 'có vẻ đón được', chưa xảy ra",
+   "迎えることができたらしいです – 'nghe nói đã đón được', như chuyện người khác",
+   "迎えることができればいいです – 'mong đón được', chưa xảy ra",
+   "✔ 迎えることができたと思います – 'tôi nghĩ mình đã đón được'"
+  ],
+  "trans": "Nhà sạch sẽ nên tôi nghĩ mình đã đón năm mới thoải mái hơn mọi năm.",
+  "note": "Việc đã xảy ra (năm ngoái), người viết tự nhìn lại → ～できたと思います. らしい dùng cho thông tin nghe được. (OCR: 新しい年 thiếu を.)"
+ },
+ "jlptpt:n3-201912-grammar-23": {
+  "opts": [
+   "決めた – 'đã quyết định', thiếu chủ thể",
+   "✔ 決められた – 'đã được định sẵn'",
+   "決めさせた – 'bắt quyết định', sai",
+   "決めさせられた – 'bị bắt quyết định', sai"
+  ],
+  "trans": "Dù vậy, tôi nghĩ thỉnh thoảng làm việc gì đó vào thời điểm đã được định sẵn cũng không tệ.",
+  "note": "Đối lập với 'tự mình quyết' ở câu trước, nhắc lại '誰かが決めた時期' ở đoạn đầu → bị động 決められた."
+ },
+ "jlptpt:n3-202012-grammar-19": {
+  "opts": [
+   "待つことです – 'việc chờ', sai",
+   "待ちにくいからです – 'vì khó chờ', sai",
+   "待ったところです – 'vừa chờ xong', sai",
+   "✔ 待っているのです – 'là đang chờ'"
+  ],
+  "trans": "Họ đang xếp hàng chờ để được vào quán.",
+  "note": "Giải thích cảnh vừa thấy (nhiều người đứng trước quán) → ～ているのです."
+ },
+ "jlptpt:n3-202012-grammar-20": {
+  "opts": [
+   "✔ でも – 'nhưng'",
+   "また – 'ngoài ra'",
+   "つまり – 'tức là'",
+   "そのうえ – 'hơn nữa'"
+  ],
+  "trans": "Nhưng vừa chờ vừa nói chuyện với bạn nên tôi không thấy là đã chờ lâu.",
+  "note": "Trước: nhiều người xếp hàng (đáng ngại); sau: không thấy lâu → trái chiều, dùng でも."
+ },
+ "jlptpt:n3-202012-grammar-21": {
+  "opts": [
+   "言えて – 'nói được', sai",
+   "✔ 言われて – 'được (đàn chị) nói', bị động",
+   "言ってきて – 'nói tới', sai",
+   "言ってくれて – cần 先輩が, nhưng câu có 先輩に"
+  ],
+  "trans": "Được đàn chị nói 'Thích thế! Lần tới chị cũng đi thử xem', tôi rất vui.",
+  "note": "先輩に + bị động: đàn chị là người nói, tôi là chủ ngữ. Thể て nêu lý do của うれしかった."
+ },
+ "jlptpt:n3-202012-grammar-22": {
+  "opts": [
+   "その – 'quán đó', không hợp với でも",
+   "どの – 'quán nào', sai",
+   "✔ 別の – 'quán nổi tiếng khác'",
+   "チーズケーキの – 'quán bánh phô mai', đã đi rồi"
+  ],
+  "trans": "Nếu có dịp, tôi muốn thử xếp hàng ở cả những quán nổi tiếng khác.",
+  "note": "でも ở đây = 'cả ở…': muốn mở rộng trải nghiệm sang quán khác → 別の. (OCR: 少。。。 = 少し.)"
+ },
+ "jlptpt:n3-202107-grammar-19": {
+  "opts": [
+   "するだろうと思いました – 'nghĩ chắc sẽ ăn', phỏng đoán",
+   "させるだろうと思いました – 'cho ăn', sai",
+   "✔ するようにしていました – 'luôn cố gắng ăn'",
+   "させるようにしていました – 'cho người khác ăn', sai"
+  ],
+  "trans": "Vì vậy, mỗi khi đi du lịch, tôi luôn cố gắng ăn ở những quán chỉ địa phương đó mới có.",
+  "note": "ずっと + V-るようにしていた = đã luôn có thói quen cố gắng làm. Chủ thể là tôi nên không dùng thể sai khiến."
+ },
+ "jlptpt:n3-202107-grammar-20": {
+  "opts": [
+   "✔ ただ – 'có điều', thêm hạn chế",
+   "そのうえ – 'hơn nữa'",
+   "つまり – 'tức là'",
+   "やはり – 'quả nhiên'"
+  ],
+  "trans": "Có điều, đi du lịch liên tục thì giữa chừng sẽ thấy mệt.",
+  "note": "ただ = 'tuy vậy, có điều': thêm một điểm hạn chế cho ý trước (đi quán lạ thì vui)."
+ },
+ "jlptpt:n3-202107-grammar-21": {
+  "opts": [
+   "わかってほしいのです – 'muốn được hiểu', sai",
+   "✔ わかっているからです – 'vì đã biết rõ'",
+   "わかりそうにありません – 'có vẻ không hiểu nổi', ngược ý",
+   "わからなければなりません – 'phải hiểu', sai"
+  ],
+  "trans": "Vì cả thực đơn lẫn cách gọi món tôi đều đã biết rõ.",
+  "note": "Giải thích vì sao gặp quán quen ở nơi du lịch lại là điều tốt → ～からです."
+ },
+ "jlptpt:n3-202107-grammar-22": {
+  "opts": [
+   "店 – quá chung chung",
+   "この店 – 'quán này', không có quán cụ thể",
+   "ある店 – 'một quán nào đó'",
+   "✔ そういう店 – 'những quán như thế'"
+  ],
+  "trans": "Tôi đã tìm ra những điểm hay trước giờ chưa biết của những quán như vậy.",
+  "note": "そういう chỉ lại 'những quán giống nhau có ở khắp nơi'. (OCR: 店行く = 店に行く; ありせん = ありません; レスラン = レストラン.)"
+ },
+ "jlptpt:n3-202112-grammar-19": {
+  "opts": [
+   "だから – 'vì vậy'",
+   "つまり – 'tức là'",
+   "✔ でも – 'nhưng'",
+   "そのうえ – 'hơn nữa'"
+  ],
+  "trans": "Nhưng sang tháng 6, mùa mưa đến, ngày mưa nhiều hơn.",
+  "note": "Trước: sống vui vẻ; sau: mùa mưa, thấy khó chịu → đối lập, dùng でも. (OCR: 過こして = 過ごして.)"
+ },
+ "jlptpt:n3-202112-grammar-20": {
+  "opts": [
+   "その友達 – 'người bạn đó', chưa nhắc tới",
+   "こういう友達 – 'người bạn như thế này', sai",
+   "どちらかの友達 – 'một trong hai người bạn', sai",
+   "✔ 友達 – 'một người bạn'"
+  ],
+  "trans": "Đúng lúc đó, một người bạn đã tặng tôi chiếc ô.",
+  "note": "Người bạn xuất hiện lần đầu, chưa nhắc trước đó → không dùng từ chỉ định."
+ },
+ "jlptpt:n3-202112-grammar-21": {
+  "opts": [
+   "かいてあったそうです – 'nghe nói có vẽ', nhưng tôi tự thấy",
+   "✔ かいてあったのです – 'có vẽ sẵn', giải thích",
+   "かいてあったはずです – 'chắc là có vẽ', phỏng đoán",
+   "かいてあったおかげです – 'là nhờ có vẽ', sai"
+  ],
+  "trans": "Chiếc ô bạn tặng có vẽ hình hoa anh đào rất đẹp ở mặt trong.",
+  "note": "V-てある = trạng thái do ai đó làm sẵn. ～のです giải thích cho câu trước 'mặt trong khác hẳn'."
+ },
+ "jlptpt:n3-202112-grammar-22": {
+  "opts": [
+   "✔ 思うこともあります – 'cũng có lúc nghĩ'",
+   "思ったらいいです – 'nghĩ thì tốt', sai",
+   "思うことができません – 'không thể nghĩ', sai",
+   "思わなくなりました – 'không còn nghĩ', ngược ý"
+  ],
+  "trans": "Khi trời nắng nhiều ngày liền, cũng có lúc tôi mong trời mưa.",
+  "note": "V-ることもある = cũng có lúc. Cho thấy thay đổi: trước ghét mưa, giờ đôi khi lại mong mưa."
+ },
+ "jlptpt:n3-202207-grammar-19": {
+  "opts": [
+   "見学する – 'sẽ tham quan', sai thì",
+   "✔ 見学した – 'đã tham quan'",
+   "見学している – 'đang tham quan', sai",
+   "見学してある – sai ngữ pháp"
+  ],
+  "trans": "Nơi tôi đã tham quan là nhà máy của một công ty kem.",
+  "note": "Đã đi vào tháng trước → quá khứ 見学した. (OCR: 機会 = 機械; とことが = ところが.)"
+ },
+ "jlptpt:n3-202207-grammar-21": {
+  "opts": [
+   "これ – 'cái này', không chỉ nơi chốn",
+   "それ – 'cái đó', không chỉ nơi chốn",
+   "ここ – 'ở đây', người viết không ở nhà máy",
+   "✔ そこま – (OCR: そこ) 'ở đó', chỉ nhà máy"
+  ],
+  "trans": "Theo khảo sát của một tờ báo, phần lớn người tham quan nhà máy đã thích những sản phẩm làm ra ở đó, và có ấn tượng tốt hơn về công ty.",
+  "note": "Cần từ chỉ nơi chốn (～で作られている) và chỉ lại nhà máy vừa nhắc → そこ. (OCR: そこま = そこ.)"
+ },
+ "jlptpt:n3-202207-grammar-22": {
+  "opts": [
+   "行ってみてほしいです – 'muốn (ai) đi thử', sai chủ thể",
+   "行ってみたがっています – 'muốn đi' (ngôi thứ ba)",
+   "✔ 行ってみるつもりです – 'tôi định đi thử'",
+   "行ってみるといいです – 'nên đi thử', lời khuyên"
+  ],
+  "trans": "Trong thời gian ở Nhật, tôi định sẽ đi tham quan thử nhiều nhà máy khác nhau.",
+  "note": "Dự định của chính người viết (đang tìm nhà máy tiếp theo) → V-てみるつもりです. たがる chỉ dùng cho ngôi thứ ba."
+ },
+ "jlptpt:n3-202212-grammar-19": {
+  "opts": [
+   "✔ 温泉 – 'suối nước nóng' (nói chung)",
+   "あの温泉 – 'suối kia', không hợp",
+   "そんな温泉 – 'suối như thế', sai",
+   "これらの温泉 – 'những suối này', sai"
+  ],
+  "trans": "Tôi cũng lần đầu được tắm suối nước nóng.",
+  "note": "Trải nghiệm chung 'lần đầu tắm onsen', không chỉ một onsen cụ thể → không cần từ chỉ định."
+ },
+ "jlptpt:n3-202212-grammar-20": {
+  "opts": [
+   "まで – 'đến cả'",
+   "しか – 'chỉ', nghĩa sai",
+   "は – chủ đề, ít dùng trong mệnh đề phụ",
+   "✔ が – chủ ngữ của ない"
+  ],
+  "trans": "Hôm sau, đang chuẩn bị rời đi trong phòng thì tôi nhận ra chiếc đồng hồ đeo tay không thấy đâu.",
+  "note": "Trong mệnh đề bổ nghĩa (～ないこと) chủ ngữ dùng が. 腕時計がない = không thấy đồng hồ."
+ },
+ "jlptpt:n3-202212-grammar-21": {
+  "opts": [
+   "落ちたままです – 'vẫn nằm đó', mâu thuẫn (đã tìm thấy)",
+   "落ちたばかりです – 'vừa mới rơi', sai",
+   "✔ 落ちていたそうです – 'nghe nói đã rơi ở đó'",
+   "落ちていたことです – 'là việc đã rơi', sai"
+  ],
+  "trans": "Nghe nói nó rơi ở chỗ lối vào khu tắm onsen.",
+  "note": "Người viết không tự thấy, chỉ nghe nhân viên kể lại → truyền đạt ～そうです."
+ },
+ "jlptpt:n3-202212-grammar-22": {
+  "opts": [
+   "なっただろうと思います – 'chắc là đã thành', phỏng đoán",
+   "なるのだと感じました – 'tôi cảm nhận rằng… trở thành'",
+   "✔ なったのではないでしょうか – 'chẳng phải đã trở thành… sao'",
+   "なるでしょうか – 'liệu có thành không?', nghi vấn"
+  ],
+  "trans": "Khi đi du lịch, không chỉ danh lam hay món ăn, mà cả lòng tốt của con người cũng đã trở thành kỷ niệm đẹp, phải không?",
+  "note": "(?) Đáp án nguồn có thể sai: câu khái quát 旅行では… hợp với なるのだと感じました (phương án 2) hơn. (OCR: くれまた = くれました.)"
+ },
+ "jlptpt:n3-202307-grammar-19": {
+  "opts": [
+   "✔ でも – 'nhưng'",
+   "だから – 'vì vậy'",
+   "すると – 'thế là'",
+   "そのうえ – 'hơn nữa'"
+  ],
+  "trans": "Nhưng từ học kỳ này việc học bận hơn, nên tháng trước tôi đã nghỉ làm thêm.",
+  "note": "Trước: nhờ mọi người giúp nên làm tiếp được; sau: lại phải nghỉ → trái chiều, dùng でも."
+ },
+ "jlptpt:n3-202307-grammar-20": {
+  "opts": [
+   "書いておいた – 'đã viết sẵn', chủ thể là người viết",
+   "書きたかった – 'đã muốn viết', sai",
+   "✔ 書かれていた – 'được viết (trên thiệp)'",
+   "書いてほしかった – 'đã muốn được viết cho', sai"
+  ],
+  "trans": "Những gì được viết trên tấm thiệp là rất nhiều lời cảm ơn và lời động viên.",
+  "note": "カードに + bị động trạng thái: 'trên thiệp có viết'. Người viết là đồng nghiệp chứ không phải tôi → 書かれていた."
+ },
+ "jlptpt:n3-202307-grammar-21": {
+  "opts": [
+   "そこ – 'chỗ đó', không rõ chỉ đâu",
+   "✔ 大学 – 'trường đại học'",
+   "その大学 – 'trường đó', nghe như trường khác vừa nhắc",
+   "そういうところ – 'nơi như vậy', sai"
+  ],
+  "trans": "Tôi treo tấm thiệp trong phòng và lần nào trước khi đến trường cũng nhìn nó.",
+  "note": "Nói đến trường mình đi học hằng ngày → chỉ cần 大学, không cần từ chỉ định."
+ },
+ "jlptpt:n3-202307-grammar-22": {
+  "opts": [
+   "頑張っているのです – 'đang cố gắng đấy', không hợp どんなに～ても",
+   "✔ 頑張ることができるからです – 'vì có thể cố gắng', nêu lý do",
+   "頑張っているみたいです – 'hình như đang cố', như nói người khác",
+   "頑張ることができそうです – 'có vẻ sẽ cố gắng được'"
+  ],
+  "trans": "(Vì) dù việc học có vất vả đến đâu, tôi cũng có thể cố gắng.",
+  "note": "(?) Đáp án nguồn có thể sai: câu kết nói về tương lai chứ không giải thích lý do → 頑張ることができそうです (phương án 4) tự nhiên hơn."
+ },
+ "jlptpt:n3-202312-grammar-20": {
+  "opts": [
+   "ただ – 'có điều'",
+   "例えば – 'ví dụ'",
+   "✔ そのうえ – 'hơn nữa, thêm vào đó'",
+   "ところが – 'thế nhưng'"
+  ],
+  "trans": "Hơn nữa, một nhân viên khác đến lau cả cửa kính xe cho rất cẩn thận.",
+  "note": "Thêm một dịch vụ cùng chiều (đổ xăng + lau kính, chú ý も) → そのうえ."
+ },
+ "jlptpt:n3-202312-grammar-21": {
+  "opts": [
+   "✔ 行った – 'đã đến'",
+   "行ける – 'có thể đến', sai",
+   "行くような – 'kiểu sẽ đến', sai",
+   "行きたかった – 'đã muốn đến', sai"
+  ],
+  "trans": "Ở cây xăng chúng tôi đã đến, khi xe đổ xong chạy ra đường, nhân viên còn nhìn trái phải xem có xe không và tiễn chúng tôi.",
+  "note": "Chỉ cây xăng cụ thể đã ghé hôm đó → mệnh đề bổ nghĩa thì quá khứ 行った. (OCR: 店か員 = 店員.)"
+ },
+ "jlptpt:n3-202312-grammar-22": {
+  "opts": [
+   "いいサービスだろうと思うからです – 'vì nghĩ chắc là tốt', sai",
+   "✔ いいサービスだと思いました – 'tôi thấy là dịch vụ rất tốt'",
+   "いいサービスにするつもりです – 'định làm thành dịch vụ tốt', sai chủ thể",
+   "いいサービスにしようとしました – 'đã cố làm cho tốt', sai"
+  ],
+  "trans": "Tôi thấy đó là một dịch vụ rất tốt.",
+  "note": "Câu kết, nêu cảm nhận của người viết sau trải nghiệm → ～と思いました."
+ },
+ "jlptpt:n3-202407-grammar-19": {
+  "opts": [
+   "話しかけていました – 'đã hay bắt chuyện', thiếu ý ơn huệ",
+   "話しかけてあげました – 'bắt chuyện cho (ai)', sai chiều",
+   "✔ 話しかけてくれました – 'ông ấy bắt chuyện với tôi'",
+   "話しかけてもらいました – chủ ngữ phải là tôi"
+  ],
+  "trans": "Mỗi lần tôi đến, ông Hayashi luôn bắt chuyện với tôi.",
+  "note": "Chủ ngữ 林さんは, hành động hướng về tôi và tôi thấy biết ơn → V-てくれました. Câu sau それで仲がよくなりました là kết quả."
+ },
+ "jlptpt:n3-202407-grammar-21": {
+  "opts": [
+   "にも – 'cả với', sai",
+   "✔ のような – 'như (ông Hayashi)'",
+   "にだけ – 'chỉ với', sai",
+   "のほかに – 'ngoài ông Hayashi', sai"
+  ],
+  "trans": "Tôi không ngờ ở Nhật lại có được một người bạn như ông Hayashi.",
+  "note": "N のような N = 'N giống như…', ở đây ý 'một người bạn lớn tuổi như ông Hayashi'."
+ },
+ "jlptpt:n3-202407-grammar-22": {
+  "opts": [
+   "✔ 会えて – 'được gặp', V-てよかった",
+   "会うから – 'vì sẽ gặp', sai",
+   "会えるのが – sai",
+   "会っても – 'dù gặp', sai"
+  ],
+  "trans": "Tôi thật vui vì đã được gặp ông Hayashi ở Nhật.",
+  "note": "V-てよかった = thật may/vui vì đã…. Thể khả năng 会える thể hiện 'may mắn được gặp'."
+ },
+ "jlptpt:n3-202412-grammar-19": {
+  "opts": [
+   "✔ 招待してくれたのです – 'bạn đã mời tôi', giải thích",
+   "招待してくれたはずです – 'chắc là đã mời', phỏng đoán",
+   "招待してくれたばかりです – 'vừa mới mời', sai",
+   "招待してくれたそうです – 'nghe nói đã mời', nhưng chính tôi được mời"
+  ],
+  "trans": "Người bạn Nhật đã mời tôi đến nhà.",
+  "note": "～のです giải thích bối cảnh cho câu trước (vì sao lại ở nhà người Nhật). Chính tôi trải qua nên không dùng はず/そうです."
+ },
+ "jlptpt:n3-202412-grammar-21": {
+  "opts": [
+   "は – chủ đề, không có ý giới hạn",
+   "などを – 'những thứ như', sai",
+   "✔ しか – 'chỉ', đi với ない",
+   "だけ – 'chỉ', nhưng không đi với ない"
+  ],
+  "trans": "Trước giờ tôi chỉ ăn rau bán ở cửa hàng thôi.",
+  "note": "Sau chỗ trống là ～たことがありませんでした (phủ định) → しか～ない. (OCR: 巡の畑 = 家の畑; 猫で, 脳 = 畑; 野果 = 野菜.)"
+ },
+ "jlptpt:n3-202412-grammar-22": {
+  "opts": [
+   "育ててみてほしいです – 'muốn (ai) trồng thử', sai",
+   "育ててみてもいいです – 'trồng thử cũng được', sai",
+   "育ててみようとしました – 'đã định trồng thử', ngụ ý không thành",
+   "✔ 育ててみることにしました – 'đã quyết định trồng thử'"
+  ],
+  "trans": "Tôi đã quyết định trồng thử rau theo cách mẹ của bạn chỉ.",
+  "note": "Câu sau: hiện đang trồng 2 loại → quyết định đã thành hiện thực → ～ことにしました. ようとした thường ngụ ý chưa làm được."
+ },
+ "jlptpt:n3-201007-grammar-13": {
+  "opts": [
+   "行かなくてもいいのだろうが – 'chắc không cần đi nhưng', trái ngữ cảnh",
+   "行かなくてもいいようだが – 'hình như không cần đi', sai",
+   "✔ 行けばいいのだろうが – 'biết là nên đi, nhưng…'",
+   "行ければいいようだが – 'hình như đi được thì tốt', không tự nhiên"
+  ],
+  "trans": "Từ sáng nay răng đau dữ dội. Biết là nên đi nha sĩ ngay, nhưng tôi không muốn đi.",
+  "note": "V-ばいい = nên làm. ～のだろうが = 'chắc là vậy, nhưng…', nối với vế trái ngược 行きたくない."
+ },
+ "jlptpt:n3-201112-grammar-1": {
+  "opts": [
+   "✔ として – 'với tư cách là'",
+   "にして – 'ở mức/ở tuổi…', không hợp",
+   "とまで – 'đến mức nói là', sai",
+   "にまで – 'đến cả', sai"
+  ],
+  "trans": "Tuần sau giám đốc đi công tác Nhật, tôi cũng đi cùng với tư cách phiên dịch.",
+  "note": "N + として = với tư cách/vai trò là N."
+ },
+ "jlptpt:n3-201112-grammar-10": {
+  "opts": [
+   "そうなのを – sai ngữ pháp",
+   "ようなのを – sai ngữ pháp",
+   "そうなことを – そうな không nối với thể る",
+   "✔ ようなことを – 'những điều kiểu như (làm giận)'"
+  ],
+  "trans": "Lúc đó cũng đành chịu, nhưng tôi thấy có lỗi vì đã lỡ nói những điều khiến anh ấy nổi giận.",
+  "note": "V-る + ようなこと = 'những điều có tính chất như…'. そうな phải nối với gốc ます (怒らせそうな), nên 怒らせるそうな sai."
+ },
+ "jlptpt:n3-201112-grammar-11": {
+  "opts": [
+   "ばかりでよければ – ばかり 'toàn là', không giới hạn",
+   "ばかりでよくても – sai nghĩa",
+   "✔ だけでよければ – 'nếu chỉ buổi sáng mà được thì'",
+   "だけでよくても – 'dù chỉ buổi sáng cũng được', không hợp"
+  ],
+  "trans": "Yamashita: Tanaka, mai cậu đến dọn phòng nghiên cứu được không? / Tanaka: Chiều tớ có hẹn rồi. Nếu chỉ buổi sáng thôi cũng được thì tớ đến được.",
+  "note": "だけ giới hạn phạm vi 'chỉ'; ～でよければ = 'nếu… cũng được thì'. ばかり nhấn 'toàn là', không dùng để giới hạn."
+ },
+ "jlptpt:n3-201112-grammar-12": {
+  "opts": [
+   "お見えになる – tôn kính 'đến', chủ ngữ phải là thầy",
+   "拝見できる3) – khiêm nhường 'xem' (OCR thừa '3)'), không dùng cho người",
+   "✔ お目にかかる – khiêm nhường của 会う 'gặp'",
+   "ご覧になる – tôn kính 'xem', chủ ngữ là thầy"
+  ],
+  "trans": "Yamaguchi: Thưa thầy Nakagawa. / Thầy Nakagawa: À, em Yamaguchi. Tình cờ quá nhỉ. / Yamaguchi: Vâng, em cũng không ngờ lại gặp thầy ở bữa tiệc này.",
+  "note": "Chủ ngữ là tôi (gặp thầy) → khiêm nhường ngữ của 会う: お目にかかる. ～とは思わなかった = không ngờ."
+ },
+ "jlptpt:n3-201112-grammar-13": {
+  "opts": [
+   "しないことになった – 'đã được quyết định là không', sai",
+   "✔ しないようになった – 'dần không còn… nữa'",
+   "しないことにした – 'quyết định không', bệnh không tự quyết được",
+   "しないようにした – 'cố gắng không', sai"
+  ],
+  "trans": "Con gái tôi hồi nhỏ yếu ớt, nhưng từ khi vào tiểu học thì dần dần không còn hay bị cảm hay sốt nữa.",
+  "note": "だんだん + V-ないようになる = thay đổi tự nhiên. ことにする/ようにする là ý chí, không dùng cho ốm đau. (OCR: したことから = したころから.)"
+ },
+ "jlptpt:n3-201112-grammar-2": {
+  "opts": [
+   "の – sai",
+   "も – 'cũng', không hợp",
+   "✔ を – N をしている: có (hình dạng, màu…)",
+   "で – sai"
+  ],
+  "trans": "Những đồng xu chúng ta thường dùng phần lớn có hình tròn.",
+  "note": "Mẫu cố định: 形/色/顔 + をしている = 'có hình dạng/màu/gương mặt…'. VD: 青い目をしている."
+ },
+ "jlptpt:n3-201112-grammar-3": {
+  "opts": [
+   "などを – không đi được với いう",
+   "✔ などと – 'những (lý do) như…', と trích dẫn + いう",
+   "ことを – sai",
+   "ことと – sai"
+  ],
+  "trans": "Có người dễ dàng mua thú cưng vì những lý do như 'dễ thương' hay 'ở một mình buồn', nhưng tôi nghĩ cũng cần có ý chí mạnh mẽ để nuôi đến cùng.",
+  "note": "「…」などという + N = 'N kiểu như…'. Sau lời trích dẫn phải có と trước いう."
+ },
+ "jlptpt:n3-201112-grammar-4": {
+  "opts": [
+   "いても – 'dù đói', sai",
+   "いると – 'hễ đói là', điều kiện tự nhiên, không hợp",
+   "いるけど – 'đói nhưng', sai",
+   "✔ いるなら – 'nếu (con) đói thì'"
+  ],
+  "trans": "Con: Có gì ăn không mẹ? / Mẹ: Nếu con đói thì có bánh donut đấy.",
+  "note": "なら: tiếp nhận tình huống của người kia (đói) rồi đưa ra gợi ý. Đây là cách dùng điển hình của なら."
+ },
+ "jlptpt:n3-201112-grammar-5": {
+  "opts": [
+   "にしたがって – 'càng… càng, theo'",
+   "✔ にくらべて – 'so với'",
+   "の一方で – 'mặt khác'",
+   "のことで – 'về việc'"
+  ],
+  "trans": "Chiếc máy tính mới ra lần này nhẹ hơn hẳn so với các mẫu trước nên mang theo rất tiện.",
+  "note": "N にくらべて = so với N, đi với ý so sánh (かなり軽くなった)."
+ },
+ "jlptpt:n3-201112-grammar-6": {
+  "opts": [
+   "来る – sai",
+   "✔ 行った – 持って行った 'đã mang đi (đến chỗ trưởng phòng)'",
+   "行く – 'sắp mang đi', mâu thuẫn với 届けました",
+   "来た – 'mang đến (đây)', sai hướng"
+  ],
+  "trans": "Trưởng nhóm: Yamada, tài liệu họp ngày mai đã mang cho trưởng phòng chưa? / Yamada: Rồi ạ. Em vừa mới mang qua lúc nãy.",
+  "note": "V-たところ = vừa mới làm xong (đi với ついさっき). Mang từ chỗ mình sang chỗ trưởng phòng → 持って行った."
+ },
+ "jlptpt:n3-201112-grammar-7": {
+  "opts": [
+   "して – 'hãy hỏi', bảo người kia",
+   "✔ させて – 'cho phép tôi hỏi'",
+   "やって – sai",
+   "されて – bị động, sai"
+  ],
+  "trans": "(Ở buổi giới thiệu công ty) Người công ty: Phần trình bày của tôi đến đây là hết, có ai có câu hỏi không? / Sinh viên: Vâng, cho em hỏi hai câu ạ.",
+  "note": "V-させてください = xin cho phép tôi làm. 質問してください là bảo người khác hỏi."
+ },
+ "jlptpt:n3-201112-grammar-8": {
+  "opts": [
+   "✔ するな – thể cấm chỉ 'cấm đến muộn'",
+   "するよ – 'sẽ làm đấy', sai",
+   "するね – sai",
+   "するんだ – 'phải làm', ngược nghĩa"
+  ],
+  "trans": "Đàn anh: Lại đến muộn. Hôm trước thầy chẳng đã bảo 'từ giờ đi tập cấm đến muộn' rồi sao? / Nishida: Vâng, em thật sự xin lỗi.",
+  "note": "V-る + な = thể cấm chỉ, hay dùng khi thuật lại lời mắng: ～するなって言われた."
+ },
+ "jlptpt:n3-201112-grammar-9": {
+  "opts": [
+   "くださる – tôn kính 'cho (tôi)', chủ ngữ là thầy",
+   "なさる – tôn kính 'làm', không hợp",
+   "✔ さしあげる – khiêm nhường 'tặng (thầy)'",
+   "いただく – khiêm nhường 'nhận', ngược chiều"
+  ],
+  "trans": "Chúng tôi đang lên kế hoạch chuẩn bị quà và tặng thầy vào buổi học cuối cùng.",
+  "note": "Chúng tôi tặng quà cho thầy (người trên) → さしあげる, khiêm nhường của あげる."
+ },
+ "jlptpt:n3-201207-grammar-1": {
+  "opts": [
+   "対して – 'đối với', thái độ/hành động hướng tới ai",
+   "比べて – 'so với'",
+   "おいて – 'ở, tại', văn viết",
+   "✔ とって – 'đối với (ai), theo góc nhìn của'"
+  ],
+  "trans": "Đối với tôi, thứ quan trọng nhất bây giờ là con chó đang nuôi.",
+  "note": "N にとって = theo góc nhìn/đánh giá của N, đi với 大切・必要・難しい…. に対して dùng cho thái độ hướng tới ai."
+ },
+ "jlptpt:n3-201207-grammar-10": {
+  "opts": [
+   "までで – sai",
+   "でまで – sai",
+   "までに – 'trước (thời hạn)', sai",
+   "✔ にまで – 'đến cả (nhà bên)'"
+  ],
+  "trans": "Bố: Hiroshi, đừng nghe nhạc to thế. Đến cả nhà bên cũng nghe thấy đấy. / Hiroshi: A, con xin lỗi.",
+  "note": "に (nơi âm thanh tới) + まで (đến cả, lan xa) = にまで. までに là hạn chót."
+ },
+ "jlptpt:n3-201207-grammar-11": {
+  "opts": [
+   "ついたり消えて – thiếu たり thứ hai",
+   "✔ ついたり消えたり – tự động từ, 'lúc sáng lúc tắt'",
+   "つけたり消して – tha động từ, sai",
+   "つけたり消したり – tha động từ, cần người bật/tắt"
+  ],
+  "trans": "Đèn phòng khách cứ lúc sáng lúc tắt, con đi mua bóng đèn mới về nhé.",
+  "note": "Chủ ngữ là 電気が (đèn tự sáng/tắt) → tự động từ つく/消える. Mẫu ～たり～たりする phải đủ hai たり."
+ },
+ "jlptpt:n3-201207-grammar-12": {
+  "opts": [
+   "動かさないあいだに – tha động từ, sai",
+   "動かさないうちに – tha động từ, sai",
+   "✔ 動かなくなるまえに – 'trước khi không cử động được nữa'",
+   "動かなくなるころに – 'vào lúc không cử động được', ngược ý"
+  ],
+  "trans": "Bố tôi nói 'muốn đi du lịch trước khi về già, cơ thể không còn cử động được', rồi tháng trước đã đi nước ngoài.",
+  "note": "体が動く (tự động từ) → 動かなくなる = trở nên không cử động được; まえに = trước khi. 動かす là tha động từ, không đi với 体が."
+ },
+ "jlptpt:n3-201207-grammar-13": {
+  "opts": [
+   "行っているところです – chủ động, sai với が",
+   "行われているところです – 'đang diễn ra', mâu thuẫn これから",
+   "✔ 行われるところです – 'sắp được tổ chức'",
+   "行うところです – chủ động, sai với 開会式が"
+  ],
+  "trans": "A: Trận đấu đã bắt đầu chưa? / B: Lễ khai mạc sắp được tổ chức đây.",
+  "note": "開会式が → bị động 行われる. これから + V-るところ = sắp sửa."
+ },
+ "jlptpt:n3-201007-grammar-14": {
+  "opts": [
+   "早く – sớm",
+   "開いていない – chưa mở cửa",
+   "✔ まだ – vẫn (chưa)",
+   "行っても – dù có đi"
+  ],
+  "trans": "A: Vậy ngày mai mình tập trung ở cổng hội trường lúc 5 giờ nhé? / B: Hòa nhạc 7 giờ mới bắt đầu, nên tôi nghĩ có đi sớm vậy thì cửa cũng vẫn chưa mở đâu.",
+  "note": "Câu đúng: そんなに早く行ってもまだ開いていないと思いますよ。 ★ = まだ. V-ても = dù có…; まだ～ていない = vẫn chưa."
+ },
+ "jlptpt:n3-201007-grammar-15": {
+  "opts": [
+   "✔ すこし – một chút",
+   "から – vì",
+   "待って – chờ",
+   "いらっしゃいます – (thầy) đang (kính ngữ)"
+  ],
+  "trans": "(Ở phòng nghiên cứu của thầy Tanaka) Sinh viên: Thầy Tanaka có ở đây không ạ? / Thư ký: Thầy đang nói chuyện với sinh viên khác, em chờ một chút nhé.",
+  "note": "Câu đúng: 今、ほかの学生と話していらっしゃいますから、すこし待ってください。 ★ = すこし. ～ていらっしゃる = kính ngữ của ～ている."
+ },
+ "jlptpt:n3-201007-grammar-16": {
+  "opts": [
+   "だろう – chắc là",
+   "✔ と思って – nghĩ rằng",
+   "大丈夫 – không sao",
+   "出かけた – đã ra ngoài"
+  ],
+  "trans": "Cả bố và tôi đều nghĩ hôm nay không mang ô chắc cũng không sao nên ra ngoài, nhưng lại bị mắc mưa.",
+  "note": "Câu đúng: 今日はかさがなくても大丈夫だろうと思って出かけたが、雨に降られてしまった。 ★ = と思って. ～だろうと思って = nghĩ chắc là… nên."
+ },
+ "jlptpt:n3-201007-grammar-17": {
+  "opts": [
+   "生まれた – đã sinh ra",
+   "✔ ライオンの – của sư tử",
+   "ばかりの – vừa mới",
+   "赤ちゃんを – con non"
+  ],
+  "trans": "Hôm qua đi sở thú, tôi đã được xem chú sư tử con mới sinh tháng trước.",
+  "note": "Câu đúng: 先月生まれたばかりのライオンの赤ちゃんを見ることができました。 ★ = ライオンの. V-たばかりの + N = N vừa mới…."
+ },
+ "jlptpt:n3-201007-grammar-18": {
+  "opts": [
+   "意味だった – là nghĩa",
+   "という – gọi là",
+   "と思 – (OCR: と思う) tôi nghĩ",
+   "✔ ような – kiểu như"
+  ],
+  "trans": "John: Từ 'rikai' này nghĩa là gì vậy? / Ali: À, hình như là nghĩa kiểu như 'hiểu' thì phải.",
+  "note": "Câu đúng: 確か『わかる』というような意味だったと思うんですけど。 ★ = ような. ～というような = kiểu như là…. (OCR: と思 = と思う.)"
+ },
+ "jlptpt:n3-201107-grammar-14": {
+  "opts": [
+   "何をやっていた – đã làm gì",
+   "✔ 練習に来ないで – không đến tập mà",
+   "なのに – vậy mà",
+   "ちっとも – chẳng… chút nào"
+  ],
+  "trans": "A: Tuần sau có trận đấu rồi vậy mà cậu chẳng đến tập gì cả, đã làm gì thế hả? / B: Em xin lỗi.",
+  "note": "Câu đúng: 来週、試合なのにちっとも練習に来ないで何をやっていたんですか。 ★ = 練習に来ないで. N + なのに = vậy mà; ちっとも～ない = chẳng… chút nào."
+ },
+ "jlptpt:n3-201107-grammar-16": {
+  "opts": [
+   "ことが – việc (trồng)",
+   "✔ 大変 – vất vả",
+   "ことか – biết bao",
+   "どんなに – đến nhường nào"
+  ],
+  "trans": "Tự mình trồng rau rồi tôi mới hiểu việc trồng được rau ngon vất vả biết bao.",
+  "note": "Câu đúng: おいしい野菜を育てることがどんなに大変（な）ことかわかりました。 ★ = 大変. どんなに～か = … biết bao (cảm thán)."
+ },
+ "jlptpt:n3-201107-grammar-18": {
+  "opts": [
+   "したい – muốn làm",
+   "やりたい – muốn (làm cho)",
+   "✔ やらせて – cho (con) làm",
+   "と思うことは – điều (con) nghĩ là"
+  ],
+  "trans": "Gần đây con tôi nói muốn học piano. Tôi nghĩ những gì con muốn làm thì tôi muốn để con được làm.",
+  "note": "Câu đúng: 子どもがしたいと思うことはやらせてやりたいと思っている。 ★ = やらせて. V-させてやりたい = muốn cho (con) được làm."
+ },
+ "jlptpt:n3-201112-grammar-14": {
+  "opts": [
+   "ほど – đến mức",
+   "仕事は – công việc",
+   "これ – cái này",
+   "✔ おもしろい – thú vị"
+  ],
+  "trans": "Nakayama: Anh Ueda thật sự thích công việc này nhỉ. / Ueda: Vâng, tôi nghĩ không có công việc nào thú vị bằng việc này.",
+  "note": "Câu đúng: わたしは、これほどおもしろい仕事はないと思っているんです。 ★ = おもしろい. N ほど～はない = không có gì… bằng N."
+ },
+ "jlptpt:n3-201112-grammar-15": {
+  "opts": [
+   "よって – bởi",
+   "画家たちに – các họa sĩ",
+   "絵が – tranh",
+   "✔ 描かれた – được vẽ"
+  ],
+  "trans": "Bảo tàng này có rất nhiều tranh do các họa sĩ thế kỷ 19 vẽ.",
+  "note": "Câu đúng: 19世紀の画家たちによって描かれた絵がたくさんあります。 ★ = 描かれた. N によって + bị động = được làm bởi N (tác phẩm, phát minh)."
+ },
+ "jlptpt:n3-201112-grammar-16": {
+  "opts": [
+   "終わってしまって – đã kết thúc mất",
+   "何も – (không) gì cả",
+   "✔ うちに – trong khi (còn chưa)",
+   "食べない – không ăn"
+  ],
+  "trans": "Bữa tiệc hôm qua, mải nói chuyện với bạn, tôi gần như chưa ăn gì thì tiệc đã tàn, nên sau đó bị đói bụng.",
+  "note": "Câu đúng: ほとんど何も食べないうちに終わってしまって、… ★ = うちに. V-ないうちに = khi còn chưa… thì đã."
+ },
+ "jlptpt:n3-201112-grammar-17": {
+  "opts": [
+   "考える – suy nghĩ",
+   "というのが – việc (gọi là)",
+   "働く – làm việc",
+   "✔ どういうことか – là như thế nào"
+  ],
+  "trans": "Đợt thực tập ở công ty hồi hè là cơ hội tốt để tôi suy nghĩ xem làm việc ở doanh nghiệp là như thế nào.",
+  "note": "Câu đúng: 企業で働くというのがどういうことか考えるいい機会になった。 ★ = どういうことか. Câu hỏi lồng ～か + 考える."
+ },
+ "jlptpt:n3-201112-grammar-18": {
+  "opts": [
+   "✔ ジョギングの – của việc chạy bộ",
+   "している – đang làm",
+   "おかげだ – là nhờ",
+   "毎朝 – mỗi sáng"
+  ],
+  "trans": "Mẹ tôi hay nói: 'Mẹ không bị cảm là nhờ sáng nào cũng chạy bộ.'",
+  "note": "Câu đúng: 風邪をひかないのは、毎朝しているジョギングのおかげだ。 ★ = ジョギングの. ～のは N のおかげだ = việc… là nhờ N. (OCR: 風 = 風邪.)"
+ },
+ "jlptpt:n3-201207-grammar-14": {
+  "opts": [
+   "と思う – tôi nghĩ",
+   "✔ 多分 – có lẽ",
+   "時間は – giờ đó",
+   "家にいる – ở nhà"
+  ],
+  "trans": "(Qua điện thoại) Nhân viên giao hàng: Về giờ giao, khoảng 8 giờ tối mai có được không ạ? / Khách: Giờ đó chắc tôi ở nhà nên không sao. Nhờ anh nhé.",
+  "note": "Câu đúng: その時間は多分家にいると思うので大丈夫です。 ★ = 多分. 多分～と思う = chắc là…."
+ },
+ "jlptpt:n3-201207-grammar-15": {
+  "opts": [
+   "✔ ありますが – có (nhưng)",
+   "会ったことは – gặp thì",
+   "聞いたことが – đã từng nghe",
+   "お名前は – tên thì"
+  ],
+  "trans": "Yamashita: Anh Tanaka có biết thầy Ryu ở đại học ABC không? / Tanaka: Tên thì tôi từng nghe, nhưng chưa gặp bao giờ.",
+  "note": "Câu đúng: お名前は聞いたことがありますが、会ったことはありません。 ★ = ありますが. Hai は đối chiếu: tên thì…, gặp thì…."
+ },
+ "jlptpt:n3-201207-grammar-16": {
+  "opts": [
+   "行ってみたい – muốn đi thử",
+   "ひとつに – (là) một trong",
+   "もっとも – nhất",
+   "✔ 寺の – của các ngôi chùa"
+  ],
+  "trans": "Một trong những ngôi chùa tôi muốn đến nhất là chùa Kōzan-ji ở Kyoto.",
+  "note": "Câu đúng: わたしがもっとも行ってみたい寺のひとつに京都の高山寺がある。 ★ = 寺の. N のひとつに～がある = trong số N có…."
+ },
+ "jlptpt:n3-201207-grammar-17": {
+  "opts": [
+   "ほど – (không gì) bằng",
+   "✔ について – về",
+   "人生 – cuộc đời",
+   "考えさせられる – khiến phải suy nghĩ"
+  ],
+  "trans": "Xem bộ phim 'Present', tôi nghĩ không có phim nào khiến người ta phải suy ngẫm về cuộc đời như phim này.",
+  "note": "Câu đúng: この映画ほど人生について考えさせられる映画はないと思った。 ★ = について. N ほど～はない = không có gì… bằng N."
+ }
+}

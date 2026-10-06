@@ -1,0 +1,12 @@
+{
+  "name": "jlpt-n3-app",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Web tổng ôn JLPT N3 (frontend tĩnh, host trên Vercel)",
+  "scripts": {
+    "dev": "npx --yes serve . -l 3000",
+    "build:data": "python -I scripts/build_bank.py",
+    "check": "node --check js/app.js"
+  },
+  "type": "module"
+}

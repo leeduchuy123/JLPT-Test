@@ -1,0 +1,802 @@
+{
+ "challenge:N3G0170": {
+  "opts": [
+   "つもり – ý định",
+   "✔ こと – V-ることはない: không cần phải",
+   "はず – はずはない: không có lý nào (sai nghĩa)",
+   "ところ – lúc"
+  ],
+  "trans": "Nếu không khỏe thì không cần phải cố tham gia đâu.",
+  "note": "V-ることはない = không cần thiết, dùng để khuyên nhủ, trấn an."
+ },
+ "challenge:N3G0171": {
+  "opts": [
+   "ために – vì",
+   "✔ のに – mặc dù (trái lẽ thường)",
+   "から – vì",
+   "ので – vì"
+  ],
+  "trans": "Chẳng ai dùng mà đèn vẫn bật nguyên.",
+  "note": "Hai vế mâu thuẫn (không ai dùng ↔ đèn bật) → のに."
+ },
+ "challenge:N3G0172": {
+  "opts": [
+   "ようには – để (không hợp với わからない)",
+   "ことには – nếu không… thì (ないことには)",
+   "ためには – để mà",
+   "✔ かどうかは – có… hay không thì"
+  ],
+  "trans": "Nghe giải thích rồi nhưng có dùng được thật hay không thì chưa biết.",
+  "note": "わからない cần nội dung nghi vấn → V-るかどうか."
+ },
+ "challenge:N3G0173": {
+  "opts": [
+   "へ – sai",
+   "まで – đến",
+   "に – sai",
+   "✔ から – Nから考えると: xét từ góc độ"
+  ],
+  "trans": "Kế hoạch này nếu xét về chi phí thì khó thực hiện.",
+  "note": "Nから考えると/見ると = lấy N làm căn cứ để phán đoán."
+ },
+ "challenge:N3G0174": {
+  "opts": [
+   "より – hơn",
+   "だけ – chỉ",
+   "ほど – mức",
+   "✔ から – AからBまで: từ A đến B"
+  ],
+  "trans": "Khách tham quan rất đa dạng, từ trẻ em đến người cao tuổi.",
+  "note": "Thấy まで phía sau thì phía trước là から."
+ },
+ "challenge:N3G0175": {
+  "opts": [
+   "ばかりに – chỉ vì (hậu quả xấu)",
+   "しか – chỉ (cần phủ định ngay sau)",
+   "✔ だけ – だけでは: chỉ… thì (không đủ)",
+   "ほど – mức"
+  ],
+  "trans": "Chỉ nghe giải thích thì không hiểu nên tôi nhờ cho xem đồ thật.",
+  "note": "V-るだけでは…ない = chỉ với mức đó thì không đủ."
+ },
+ "challenge:N3G0176": {
+  "opts": [
+   "✔ まで – cho đến khi (hành động kéo dài)",
+   "ために – để",
+   "までに – trước thời hạn (hành động một lần)",
+   "うちに – trong khi"
+  ],
+  "trans": "Chờ ở đây đến khi tạnh mưa nhé. Tạnh rồi thì xuất phát.",
+  "note": "待つ kéo dài liên tục → まで; までに dùng cho hành động hoàn tất một lần."
+ },
+ "challenge:N3G0177": {
+  "opts": [
+   "うちに – trong khi còn",
+   "✔ までに – trước khi (hạn chót)",
+   "に対して – đối với",
+   "につれて – cùng với"
+  ],
+  "trans": "Trước khi cuộc họp bắt đầu, hãy phát xong tài liệu cho mọi người.",
+  "note": "配り終える là hành động hoàn tất một lần → までに."
+ },
+ "challenge:N3G0178": {
+  "opts": [
+   "に反して – trái với",
+   "に対して – đối với",
+   "に代わって – thay cho",
+   "✔ に伴って – kèm theo, cùng với"
+  ],
+  "trans": "Cùng với sự lớn lên của trẻ, cỡ quần áo cần thiết cũng thay đổi.",
+  "note": "Nに伴って = A thay đổi kéo theo B thay đổi."
+ },
+ "challenge:N3G0179": {
+  "opts": [
+   "✔ にとって – đối với",
+   "につれて – cùng với",
+   "によって – bởi",
+   "に代わって – thay cho"
+  ],
+  "trans": "Đối với cha mẹ, sức khỏe của con quan trọng hơn hết.",
+  "note": "Nにとって + đánh giá (大切, 重要) là mẫu rất hay gặp."
+ },
+ "challenge:N3G0180": {
+  "opts": [
+   "の途中を – giữa chừng (trợ từ sai)",
+   "✔ の結果 – kết quả của",
+   "の最中を – giữa lúc (trợ từ sai)",
+   "の前を – trước (sai)"
+  ],
+  "trans": "Kết quả của cuộc thảo luận là tìm ra cách tất cả đều đồng tình.",
+  "note": "Nの結果 = sau quá trình X thì có kết quả Y."
+ },
+ "challenge:N3G0181": {
+  "opts": [
+   "まま – nguyên trạng",
+   "ところ – lúc",
+   "✔ わけ – わけだ: tức là, có nghĩa là",
+   "つもり – định"
+  ],
+  "trans": "Dự kiến 10 người nhưng chỉ 3 người đến. Tức là 7 người vắng.",
+  "note": "つまり…わけだ = rút ra kết luận hợp logic từ sự thật."
+ },
+ "challenge:N3G0182": {
+  "opts": [
+   "ところを – lúc",
+   "ことが – không nối している",
+   "✔ ように – ようにしている: cố duy trì",
+   "ためを – sai"
+  ],
+  "trans": "Trong chuyến đi, tôi cố gắng tối nào cũng liên lạc với gia đình.",
+  "note": "V-るようにしている = nỗ lực giữ thói quen."
+ },
+ "challenge:N3G0185": {
+  "opts": [
+   "✔ 寝ている – V-ている間に: trong lúc đang",
+   "寝てい – thiếu る",
+   "寝ます – thể lịch sự không bổ nghĩa",
+   "寝ていて – không nối 間"
+  ],
+  "trans": "Trong lúc con ngủ, tôi chuẩn bị bữa tối.",
+  "note": "Trước 間(に) dùng V-ている để chỉ trạng thái đang kéo dài."
+ },
+ "challenge:N3G0186": {
+  "opts": [
+   "進み – không nối につれて",
+   "進んで – không nối",
+   "進んだ – không nối",
+   "✔ 進む – V-るにつれて"
+  ],
+  "trans": "Cuộc thảo luận càng tiến triển, sự khác biệt ý kiến càng rõ.",
+  "note": "につれて luôn đi với thể từ điển."
+ },
+ "challenge:N3G0187": {
+  "opts": [
+   "聞き – không nối とたん",
+   "✔ 聞いた – V-たとたん: vừa… thì ngay",
+   "聞いて – không nối",
+   "聞く – không nối"
+  ],
+  "trans": "Vừa nghe tin đó, hội trường im bặt.",
+  "note": "とたん(に) bắt buộc đi với V-た."
+ },
+ "challenge:N3G0188": {
+  "opts": [
+   "考えて考える – sai mẫu",
+   "考えた考えた – sai mẫu",
+   "考える考えて – sai mẫu",
+   "✔ 考えれば考える – V-ばV-るほど: càng… càng"
+  ],
+  "trans": "Bài này càng nghĩ càng không hiểu.",
+  "note": "Mẫu càng…càng: thể ば + thể từ điển + ほど."
+ },
+ "challenge:N3G0189": {
+  "opts": [
+   "間違えます – thể lịch sự không bổ nghĩa",
+   "✔ 間違えた – V-たことに気づく: nhận ra đã",
+   "間違えて – không nối ことに",
+   "間違え – không nối"
+  ],
+  "trans": "Đọc mail xác nhận tôi mới nhận ra đã nhầm ngày đặt chỗ.",
+  "note": "ことに気づく = nhận ra sự việc; việc đã xảy ra → V-た."
+ },
+ "challenge:N3G0190": {
+  "opts": [
+   "分かりません – thể lịch sự không bổ nghĩa",
+   "分からなく – thiếu い",
+   "✔ 分からない – V-ないまま: để nguyên không",
+   "分からずに – không nối まま"
+  ],
+  "trans": "Không được để nguyên những điểm chưa hiểu.",
+  "note": "V-ないまま(にする) = giữ nguyên trạng thái chưa làm."
+ },
+ "challenge:N3G0191": {
+  "opts": [
+   "続けて – không nối には",
+   "✔ 続ける – V-るには: để mà",
+   "続けた – không nối",
+   "続け – không nối"
+  ],
+  "trans": "Để tiếp tục công việc này cần có kiến thức chuyên môn.",
+  "note": "V-るには = để làm được X thì cần Y."
+ },
+ "challenge:N3G0192": {
+  "opts": [
+   "✔ つもりで – với tâm thế như là",
+   "かわりに – thay cho",
+   "せいで – tại",
+   "おかげで – nhờ"
+  ],
+  "trans": "Hãy coi như là biểu diễn thật. Hôm nay tập thôi nhưng hãy chơi với tâm thế như thật.",
+  "note": "Nのつもりで = giả định mình đang ở tình huống đó để hành động."
+ },
+ "challenge:N3G0193": {
+  "opts": [
+   "おかげ – nhờ",
+   "ため – vì",
+   "✔ ふり – giả vờ (ふりをする)",
+   "はず – chắc hẳn"
+  ],
+  "trans": "Biết là bị gọi tên nhưng tôi giả vờ không nghe thấy, không trả lời.",
+  "note": "V-ないふりをする = giả vờ không… ; cụm cố định."
+ },
+ "challenge:N3G0194": {
+  "opts": [
+   "うえ – thêm",
+   "たび – mỗi lần",
+   "✔ まま – để nguyên (出したままにしない)",
+   "ばかり – chỉ"
+  ],
+  "trans": "Đừng để nước chảy nguyên thế, dùng xong thì khóa lại.",
+  "note": "V-たままにする = để nguyên trạng thái sau hành động."
+ },
+ "challenge:N3G0195": {
+  "opts": [
+   "るまま – sai cách nối (phải V-た)",
+   "たままに – にで sai ngữ pháp",
+   "てばかりの – sai nghĩa",
+   "✔ っぱなし – V-ますっぱなし: để nguyên"
+  ],
+  "trans": "Tôi nhận ra mình đã ra ngoài mà để đèn bật nguyên.",
+  "note": "つけっぱなし = bật rồi để nguyên, sắc thái bất cẩn."
+ },
+ "challenge:N3G0196": {
+  "opts": [
+   "かけた – ăn dở",
+   "損ねた – lỡ không ăn được",
+   "✔ きった – ăn hết sạch (V-ますきる)",
+   "始めた – bắt đầu ăn"
+  ],
+  "trans": "Nhiều nhưng tôi ăn hết sạch một mình. Đĩa không còn gì.",
+  "note": "V-ますきる = làm hết, trọn vẹn; 皿には何も残っていない xác nhận."
+ },
+ "challenge:N3G0197": {
+  "opts": [
+   "始めない – không bắt đầu",
+   "直さない – không làm lại",
+   "✔ きれない – không thể nhớ hết (きれない)",
+   "合わない – không hợp"
+  ],
+  "trans": "Nhiều tên thế này một lúc không nhớ hết được. Tôi muốn học dần.",
+  "note": "V-ますきれない = không thể hoàn thành toàn bộ."
+ },
+ "challenge:N3G0198": {
+  "opts": [
+   "終え – kết thúc",
+   "✔ 合い – 話し合う: bàn bạc với nhau",
+   "出し – bắt đầu nói",
+   "直し – nói lại"
+  ],
+  "trans": "Đừng ôm vấn đề một mình, hãy lắng nghe nhau và cùng bàn bạc.",
+  "note": "V-ます合う = làm với nhau, qua lại (話し合う, 助け合う)."
+ },
+ "challenge:N3G0199": {
+  "opts": [
+   "✔ 直した – giải thích lại (直す: làm lại)",
+   "終わった – xong",
+   "きった – hết",
+   "合った – với nhau"
+  ],
+  "trans": "Giải thích không truyền đạt được nên tôi giải thích lại bằng từ dễ hơn.",
+  "note": "V-ます直す = làm lại lần nữa cho đúng/tốt hơn."
+ },
+ "challenge:N3G0200": {
+  "opts": [
+   "✔ 出した – bắt đầu đột ngột (降り出す)",
+   "きった – hết",
+   "終わった – xong",
+   "直した – lại"
+  ],
+  "trans": "Trước đó trời nắng mà đột nhiên đổ mưa.",
+  "note": "V-ます出す = bắt đầu đột ngột, bất ngờ; 急に là dấu hiệu. Khác 始める (bắt đầu có chủ ý)."
+ },
+ "challenge:N3G0201": {
+  "opts": [
+   "直した – đi lại",
+   "✔ 続けた – đi liên tục (続ける)",
+   "始めた – bắt đầu đi",
+   "出した – bắt đầu đột ngột"
+  ],
+  "trans": "Đi bộ liên tục ba tiếng không nghỉ nên đau chân.",
+  "note": "V-ます続ける = tiếp tục không ngừng."
+ },
+ "challenge:N3G0202": {
+  "opts": [
+   "きり – (読みきり: truyện một tập, nghĩa khác)",
+   "✔ かけ – đọc dở",
+   "過ぎ – quá",
+   "終わり – xong"
+  ],
+  "trans": "Cuốn này tôi còn đang đọc dở. Chưa biết kết thúc.",
+  "note": "V-ますかけ = dở dang; 結末は知らない xác nhận chưa xong."
+ },
+ "challenge:N3G0203": {
+  "opts": [
+   "たび – mỗi lần",
+   "結果 – kết quả",
+   "最中 – giữa lúc",
+   "✔ ついで – nhân tiện"
+  ],
+  "trans": "Nếu đi bưu điện thì nhân tiện gửi giúp tôi lá thư này được không?",
+  "note": "そのついでに = nhân dịp làm việc đó."
+ },
+ "challenge:N3G0204": {
+  "opts": [
+   "✔ たびに – mỗi lần",
+   "かわりに – thay vào",
+   "ために – vì",
+   "前に – trước khi"
+  ],
+  "trans": "Mỗi lần xem tấm ảnh này tôi lại nhớ bạn bè hồi du học. Lần nào cũng vậy.",
+  "note": "V-るたびに + 毎回 = lặp lại."
+ },
+ "challenge:N3G0205": {
+  "opts": [
+   "ために – để",
+   "たびに – mỗi lần",
+   "✔ うちに – khi còn (nóng)",
+   "かわりに – thay vào"
+  ],
+  "trans": "Hãy ăn khi còn nóng. Nguội rồi vị sẽ khác.",
+  "note": "A-いうちに = tranh thủ lúc trạng thái còn, trước khi mất."
+ },
+ "challenge:N3G0206": {
+  "opts": [
+   "ために – vì",
+   "ついでに – nhân tiện",
+   "✔ 最中に – đang giữa lúc",
+   "かわりに – thay vào"
+  ],
+  "trans": "Đang giữa lúc giải thích quan trọng thì chuông báo cháy bất ngờ kêu.",
+  "note": "Nの最中に = ngay giữa lúc đang diễn ra, có việc chen vào."
+ },
+ "challenge:N3G0207": {
+  "opts": [
+   "ための – để",
+   "たびの – sai",
+   "✔ とたん – vừa… thì ngay",
+   "ついでに – nhân tiện"
+  ],
+  "trans": "Vừa mở cửa thì gió lạnh bên ngoài thốc vào.",
+  "note": "V-たとたん = ngay lập tức sau hành động, thường bất ngờ."
+ },
+ "challenge:N3G0208": {
+  "opts": [
+   "まま – nguyên trạng",
+   "✔ ところ – V-たところ: hỏi thì (kết quả)",
+   "たび – mỗi lần",
+   "ついで – nhân tiện"
+  ],
+  "trans": "Tôi hỏi nhà ga về chỗ đồ bỏ quên thì biết là đã có người nộp.",
+  "note": "問い合わせたところ = hỏi và phát hiện kết quả."
+ },
+ "challenge:N3G0209": {
+  "opts": [
+   "たびに – mỗi lần",
+   "ばかり – vừa mới",
+   "✔ 以来 – kể từ khi",
+   "最中に – giữa lúc"
+  ],
+  "trans": "Kể từ khi chuyển đến thị trấn này, tôi vẫn mua ở cùng một tiệm bánh.",
+  "note": "V-て以来 + ずっと = từ mốc đó liên tục đến nay."
+ },
+ "challenge:N3G0210": {
+  "opts": [
+   "買う – không nối ばかり theo nghĩa này",
+   "✔ 買った – V-たばかり: vừa mới mua",
+   "買って – てばかり nghĩa khác (chỉ toàn)",
+   "買い – không nối"
+  ],
+  "trans": "Máy này mới mua hôm qua mà đã hỏng rồi.",
+  "note": "V-たばかり (vừa mới) khác V-てばかり (suốt chỉ)."
+ },
+ "challenge:N3G0212": {
+  "opts": [
+   "ことになった – được quyết định",
+   "ようにした – đã cố để",
+   "✔ はずがない – không có lý nào",
+   "ためがある – không có mẫu"
+  ],
+  "trans": "Đứa trẻ chưa học lần nào thì không thể nào tự làm được phép tính khó này.",
+  "note": "はずがない = phủ định mạnh bằng suy luận."
+ },
+ "challenge:N3G0214": {
+  "opts": [
+   "✔ とは限らない – chưa chắc đã",
+   "はずだ – chắc hẳn",
+   "に違いない – chắc chắn",
+   "に決まっている – nhất định"
+  ],
+  "trans": "Không phải cứ quán nổi tiếng là hợp khẩu vị mọi người. Sở thích mỗi người khác nhau.",
+  "note": "からといって + とは限らない là cặp kinh điển."
+ },
+ "challenge:N3G0215": {
+  "opts": [
+   "わけではない – không hẳn",
+   "とは限らない – chưa chắc",
+   "✔ に違いない – chắc chắn là",
+   "ことはない – không cần"
+  ],
+  "trans": "Giày anh ấy ở cửa. Chắc chắn anh ấy vẫn còn ở trong.",
+  "note": "きっと + に違いない = khẳng định có căn cứ."
+ },
+ "challenge:N3G0216": {
+  "opts": [
+   "✔ ことはない – không cần phải",
+   "しかない – chỉ còn cách",
+   "に決まっている – nhất định",
+   "べきだ – nên"
+  ],
+  "trans": "Cách xin lỗi hơi gượng cũng không cần bận tâm thế đâu. Tấm lòng đã truyền tới rồi.",
+  "note": "V-ることはない = không cần, dùng để trấn an."
+ },
+ "challenge:N3G0217": {
+  "opts": [
+   "はずがない – không có lý nào",
+   "✔ しかない – chỉ còn cách",
+   "ことはない – không cần",
+   "わけではない – không hẳn"
+  ],
+  "trans": "Tàu cuối và xe buýt đều hết, không còn phương tiện nên chỉ còn cách đi bộ về.",
+  "note": "V-るしかない = không có lựa chọn khác."
+ },
+ "challenge:N3G0218": {
+  "opts": [
+   "わけがない – không có lý nào",
+   "✔ わけにはいかない – không thể (vì trách nhiệm)",
+   "とは限らない – chưa chắc",
+   "ことはない – không cần"
+  ],
+  "trans": "Tôi là người phụ trách duy nhất nên không thể nghỉ buổi thuyết trình mai được.",
+  "note": "わけにはいかない = không được phép vì hoàn cảnh/trách nhiệm."
+ },
+ "challenge:N3G0219": {
+  "opts": [
+   "✔ べきだ – nên, phải",
+   "つもりだった – đã định",
+   "はずだった – lẽ ra",
+   "ところだった – suýt nữa"
+  ],
+  "trans": "Nếu nhận ra đã gửi thông tin sai thì nên đính chính ngay.",
+  "note": "V-るべきだ = nghĩa vụ, điều đúng đắn nên làm."
+ },
+ "challenge:N3G0220": {
+  "opts": [
+   "✔ 振り返る – V-るべきだ",
+   "振り返って – không nối",
+   "振り返り – không nối",
+   "振り返った – không nối"
+  ],
+  "trans": "Trước khi đổ lỗi cho người khác, nên nhìn lại hành động của mình.",
+  "note": "べきだ đi với thể từ điển (する → すべき/するべき)."
+ },
+ "challenge:N3G0221": {
+  "opts": [
+   "✔ かまいません – không sao, được phép (てもかまわない)",
+   "しまいません – sai",
+   "なりません – không được (てはなりません)",
+   "いけません – không được (てはいけません)"
+  ],
+  "trans": "Dùng xong trả lại chỗ cũ thì dụng cụ này dùng thoải mái cũng không sao.",
+  "note": "V-てもかまわない = cho phép. いけない/ならない đi với ては, không phải ても."
+ },
+ "challenge:N3G0222": {
+  "opts": [
+   "ばかり – chỉ toàn",
+   "こそ – chính là",
+   "✔ さえ – chỉ cần (さえ…ば)",
+   "まで – đến tận"
+  ],
+  "trans": "Chỉ cần ghi tên, các ô khác để trống cũng được.",
+  "note": "Nさえ + V-ば = điều kiện tối thiểu."
+ },
+ "challenge:N3G0223": {
+  "opts": [
+   "✔ さえ – ngay cả (さえない)",
+   "ほどに – mức độ",
+   "ずつ – mỗi",
+   "ごとに – mỗi"
+  ],
+  "trans": "Ngày bận thì đến thời gian ăn cũng không có.",
+  "note": "Nさえない = nhấn mạnh thiếu cả điều tối thiểu."
+ },
+ "challenge:N3G0224": {
+  "opts": [
+   "✔ ほど – càng… càng",
+   "だけに – chính vì",
+   "ために – vì",
+   "うえに – thêm"
+  ],
+  "trans": "Càng luyện tập, tự tin càng tăng dần.",
+  "note": "V-ばV-るほど = càng… càng."
+ },
+ "challenge:N3G0225": {
+  "opts": [
+   "だけに – chính vì",
+   "✔ ほど – bằng (Nほど…ない)",
+   "ごとに – mỗi",
+   "ばかりに – chỉ vì"
+  ],
+  "trans": "Hôm nay cũng lạnh nhưng không lạnh bằng hôm qua.",
+  "note": "Nほど…ない = so sánh \"không bằng\"."
+ },
+ "challenge:N3G0227": {
+  "opts": [
+   "ばかりに – chỉ vì",
+   "のせいで – tại",
+   "✔ だけでなく – không chỉ",
+   "のかわりに – thay cho"
+  ],
+  "trans": "Quán này không chỉ món ăn mà thái độ nhân viên cũng được khen.",
+  "note": "Nだけでなく…も = bổ sung."
+ },
+ "challenge:N3G0228": {
+  "opts": [
+   "つもりで – coi như",
+   "わけには – không thể",
+   "✔ ばかりか – không những… mà còn",
+   "うちには – trong khi"
+  ],
+  "trans": "Đường này không những hẹp mà ban đêm còn ít đèn nên cần chú ý.",
+  "note": "A-いばかりか…も = chồng thêm điều cùng chiều, mạnh hơn だけでなく."
+ },
+ "challenge:N3G0229": {
+  "opts": [
+   "に従って – theo",
+   "✔ にとって – đối với",
+   "を通じて – thông qua",
+   "によれば – theo (nguồn tin)"
+  ],
+  "trans": "Từ điển này dễ hiểu cả với người học không có kiến thức chuyên môn.",
+  "note": "Nにとって + đánh giá (分かりやすい)."
+ },
+ "challenge:N3G0230": {
+  "opts": [
+   "によって – bởi",
+   "✔ として – với tư cách",
+   "に比べて – so với",
+   "に対して – đối với"
+  ],
+  "trans": "Anh ấy với tư cách bác sĩ tham gia tư vấn sức khỏe cho địa phương.",
+  "note": "Nとして = vai trò, tư cách."
+ },
+ "challenge:N3G0231": {
+  "opts": [
+   "✔ に対して – đối với (hướng tới)",
+   "として – với tư cách",
+   "に比べて – so với",
+   "にとって – đối với (lập trường)"
+  ],
+  "trans": "Với các câu hỏi của người dùng, người phụ trách trả lời kỹ từng câu.",
+  "note": "に対して = đối tượng hướng tới của hành động (答える)."
+ },
+ "challenge:N3G0232": {
+  "opts": [
+   "に従って – theo",
+   "に比べて – so với",
+   "✔ について – về",
+   "に反して – trái với"
+  ],
+  "trans": "Trong cuộc họp, chúng ta sẽ bàn về kế hoạch năm tới.",
+  "note": "Nについて話し合う = bàn về chủ đề N."
+ },
+ "challenge:N3G0233": {
+  "opts": [
+   "✔ によると – theo (nguồn tin)",
+   "にとって – đối với",
+   "として – với tư cách",
+   "に対して – đối với"
+  ],
+  "trans": "Theo loa thông báo của nhà ga, tàu tiếp theo trễ mười phút.",
+  "note": "によると…そうだ dẫn nguồn."
+ },
+ "challenge:N3G0234": {
+  "opts": [
+   "を通して – thông qua",
+   "をはじめ – bắt đầu từ",
+   "✔ に比べて – so với",
+   "に対する – đối với (dạng bổ nghĩa)"
+  ],
+  "trans": "So với năm ngoái, năm nay nhiều ngày mưa hơn.",
+  "note": "Nに比べて = so sánh."
+ },
+ "challenge:N3G0235": {
+  "opts": [
+   "✔ につれて – cùng với",
+   "に対して – đối với",
+   "にとって – đối với",
+   "について – về"
+  ],
+  "trans": "Càng leo lên núi, nhiệt độ càng giảm.",
+  "note": "V-るにつれて = biến đổi song song."
+ },
+ "challenge:N3G0236": {
+  "opts": [
+   "に反して – trái với",
+   "✔ に従って – theo (chỉ dẫn)",
+   "にとって – đối với",
+   "に比べて – so với"
+  ],
+  "trans": "Hãy theo chỉ dẫn của nhân viên, lần lượt tiến vào lối vào.",
+  "note": "指示に従って = tuân theo chỉ thị."
+ },
+ "challenge:N3G0237": {
+  "opts": [
+   "くせに – vậy mà",
+   "かわりに – thay vào",
+   "せいで – tại",
+   "✔ おかげで – nhờ"
+  ],
+  "trans": "Nhờ mọi người giúp, công việc xong sớm hơn dự định.",
+  "note": "Kết quả tốt → おかげで."
+ },
+ "challenge:N3G0238": {
+  "opts": [
+   "✔ せいで – tại",
+   "おかげで – nhờ",
+   "ついでに – nhân tiện",
+   "かわりに – thay vào"
+  ],
+  "trans": "Tại tôi đọc nhầm hàng số nên đặt nguyên liệu nhiều gấp mười.",
+  "note": "Kết quả xấu + tự trách → せいで."
+ },
+ "challenge:N3G0239": {
+  "opts": [
+   "ために – vì",
+   "✔ くせに – vậy mà (chê trách)",
+   "おかげで – nhờ",
+   "ついでに – nhân tiện"
+  ],
+  "trans": "Anh ta tự mình chẳng làm gì, vậy mà toàn chê bai cách làm của người khác.",
+  "note": "くせに = のに kèm sắc thái khinh, trách."
+ },
+ "challenge:N3G0240": {
+  "opts": [
+   "✔ だらけ – đầy những",
+   "ずつ – mỗi",
+   "ごと – mỗi, nguyên cả",
+   "ぶり – sau khoảng thời gian"
+  ],
+  "trans": "Vì viết vội nên bài nộp đầy lỗi.",
+  "note": "間違いだらけ = đầy lỗi; だらけ dùng cho thứ không mong muốn."
+ },
+ "challenge:N3G0241": {
+  "opts": [
+   "がちの – hay bị (nối sai với 疲れ ở đây)",
+   "だらけに – đầy",
+   "っぽくての – sai",
+   "✔ 気味 – hơi có dấu hiệu (疲れ気味)"
+  ],
+  "trans": "Dạo này hơi mệt nên tối nay định nghỉ sớm.",
+  "note": "V-ます/N + 気味 = hơi có triệu chứng (疲れ気味, 風邪気味)."
+ },
+ "jt4y:1495-1": {
+  "opts": [
+   "ように – như",
+   "うえに – thêm",
+   "✔ せいで – tại",
+   "おかげで – nhờ"
+  ],
+  "trans": "Tại mưa mà mầm cây công phu trồng bị nước cuốn trôi.",
+  "note": "Kết quả xấu → Nのせいで."
+ },
+ "jt4y:1495-10": {
+  "opts": [
+   "食べるかもしれない – có lẽ sẽ ăn (thiếu nghĩa khả năng)",
+   "✔ 食べられるかもしれない – có lẽ ăn được",
+   "食べるようになった – đã thành ra ăn",
+   "食べられるようになった – đã trở nên ăn được (chưa thử, sai thì)"
+  ],
+  "trans": "Siêu thị có mứt cà chua lạ. Mứt thì ngọt nên tôi nghĩ người ghét chua như mình có lẽ cũng ăn được, bèn mua thử.",
+  "note": "Suy đoán trước khi thử → 食べられる (khả năng) + かもしれない."
+ },
+ "jt4y:1495-2": {
+  "opts": [
+   "✔ 読んだり – V-たりする: làm những việc như",
+   "読んだから – vì đọc",
+   "読んで – đọc rồi",
+   "読んでから – sau khi đọc"
+  ],
+  "trans": "Nữ 1: Chủ nhật chị thường làm gì? Nữ 2: Tôi đọc sách này nọ.",
+  "note": "V-たりする liệt kê hành động tiêu biểu; dù chỉ một ví dụ vẫn cần する phía sau."
+ },
+ "jt4y:1495-3": {
+  "opts": [
+   "てもかまわない – có cũng không sao",
+   "てはすまない – không xong được (sai nghĩa)",
+   "てはたまらない – không chịu nổi",
+   "✔ てはいられない – không thể cứ… mãi"
+  ],
+  "trans": "Chỉ còn một tuần đến hạn. Không thể thong thả mãi được.",
+  "note": "V-てはいられない = không thể tiếp tục trạng thái đó vì gấp."
+ },
+ "jt4y:1495-4": {
+  "opts": [
+   "ために – để (cần động từ ý chí)",
+   "✔ ように – để (động từ khả năng)",
+   "ことに – điều… là",
+   "みたいに – giống như"
+  ],
+  "trans": "Tôi sẽ cố hết sức để thắng trận đấu lần này.",
+  "note": "勝てる là động từ khả năng → mục đích dùng ように."
+ },
+ "jt4y:1495-5": {
+  "opts": [
+   "✔ きり – V-たきり: từ lúc đó… (chưa về)",
+   "だけ – chỉ",
+   "しか – chỉ",
+   "きる – hết"
+  ],
+  "trans": "Nam 1: Yamada đâu? Nam 2: Chiều đi chơi rồi đi luôn, chưa về.",
+  "note": "V-たきり…ない = sau hành động đó không có gì tiếp theo."
+ },
+ "jt4y:1495-6": {
+  "opts": [
+   "✔ してこないはず – chắc hẳn không đeo đến công ty",
+   "しにこないはず – không đến để đeo (sai nghĩa)",
+   "してこないつもり – không định (つもり không dùng cho người khác)",
+   "しにこないつもり – sai"
+  ],
+  "trans": "Uchida: Nhẫn chị Takada đeo trông đắt nhỉ. Moriyama: Không, nếu nhẫn đắt thì chắc chị ấy đã không đeo đến công ty.",
+  "note": "指輪をする + てくる → してくる; suy luận về người khác dùng はず."
+ },
+ "jt4y:1495-7": {
+  "opts": [
+   "ごろ – khoảng (thời gian)",
+   "つもり – định",
+   "ように – như",
+   "✔ くらい – đến mức"
+  ],
+  "trans": "Nghe nói tuyển thủ Suzuki trước trận hồi hộp đến mức đau bụng.",
+  "note": "V-るくらい/ほど = mức độ cao."
+ },
+ "jt4y:1495-8": {
+  "opts": [
+   "ようとする – định (không hợp mệnh lệnh chung)",
+   "✔ ようにする – cố gắng, hãy đảm bảo",
+   "ようと思う – định",
+   "ようになる – trở nên"
+  ],
+  "trans": "Khi có động đất, hãy đảm bảo không dùng thang máy.",
+  "note": "V-ないようにする = cố gắng/đảm bảo không làm."
+ },
+ "jt4y:1495-9": {
+  "opts": [
+   "ごろは – khoảng… thì",
+   "✔ ぐらいまで – đến khoảng",
+   "ごろよりも – hơn khoảng",
+   "ぐらいに – vào khoảng"
+  ],
+  "trans": "Nắng nóng kéo dài, nghe nói đợt nóng này còn tiếp tục đến khoảng cuối tuần.",
+  "note": "続く kéo dài → mốc kết thúc dùng まで; ぐらい làm mềm thời điểm."
+ },
+ "jt4y:1497-1": {
+  "opts": [
+   "✔ 遊んで – chơi",
+   "友達と – với bạn",
+   "悪い – xấu",
+   "ばかり – suốt"
+  ],
+  "trans": "Con trai tôi suốt ngày chơi với đám bạn xấu, chẳng chịu học hành gì.",
+  "note": "Câu đúng: 息子は悪い友達と遊んでばかりで、全然勉強しようとしない。★ = 遊んで. Mấu chốt: V-てばかり(で) \"suốt chỉ…\", 悪い bổ nghĩa cho 友達."
+ },
+ "jt4y:1497-2": {
+  "opts": [
+   "姉が作る – chị làm",
+   "風を引いた – bị cảm (đúng ra là 風邪をひいた)",
+   "✔ かわって – thay cho",
+   "母に – mẹ"
+  ],
+  "trans": "Bữa tối nay chị tôi sẽ nấu thay mẹ bị cảm.",
+  "note": "Câu đúng: 今日の夕飯は風邪をひいた母にかわって姉が作ることになった。★ = かわって. Mấu chốt: Nにかわって (thay cho N)."
+ },
+ "jt4y:1497-3": {
+  "opts": [
+   "くせに – vậy mà",
+   "持つと – hễ cầm",
+   "下手な – kém",
+   "✔ マイクを – micro"
+  ],
+  "trans": "Anh tôi hát dở vậy mà hễ cầm micro là không buông.",
+  "note": "Câu đúng: 兄は歌が下手なくせにマイクを持つと放さない。★ = マイクを. Mấu chốt: A-なくせに (vậy mà, chê)."
+ }
+}

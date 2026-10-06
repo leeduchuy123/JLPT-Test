@@ -1,0 +1,800 @@
+{
+ "bunpro:980": {
+  "opts": [
+   "聞いた – 'đã nghe', không liên quan đến việc xuất bản",
+   "読んだ – 'đã đọc', đọc sách chứ không phải ra sách",
+   "買った – 'đã mua', người mua chứ không phải tác giả",
+   "✔ 出した – 'đã cho ra (sách)', cách nói đời thường của 出版した"
+  ],
+  "trans": "Nghe nói anh ấy lại vừa xuất bản một cuốn sách mới đấy.",
+  "note": "出版する (XUẤT BẢN) = cho ra sách. 本を出す là cách nói thường gặp cùng nghĩa."
+ },
+ "bunpro:981": {
+  "opts": [
+   "✔ 言い – 言う 'nói, bảo': thầy bảo mọi người giúp, đúng ý 呼びかける",
+   "おどろき – 驚く 'ngạc nhiên', không hợp",
+   "しかり – 叱る 'mắng', thầy không mắng mà kêu gọi",
+   "泣き – 泣く 'khóc', không liên quan"
+  ],
+  "trans": "Thầy giáo đã kêu gọi (mọi người) giúp một tay.",
+  "note": "呼びかける = kêu gọi, lên tiếng đề nghị mọi người làm gì. Gần với ～ように言う."
+ },
+ "bunpro:982": {
+  "opts": [
+   "✔ 間違って理解しました – 'hiểu sai', chính là 誤解",
+   "忘れました – 'đã quên', không phải hiểu sai",
+   "聞けませんでした – 'không nghe được', khác nghĩa",
+   "よくわかりました – 'hiểu rõ', ngược nghĩa"
+  ],
+  "trans": "Tôi đã hiểu lầm lời của bạn mình.",
+  "note": "誤解 (NGỘ GIẢI) = hiểu lầm. 誤 = sai, 解 = hiểu."
+ },
+ "bunpro:983": {
+  "opts": [
+   "✔ 空気 – 'không khí', thứ con người cần để thở, thay được cho 酸素",
+   "水 – 'nước', cũng cần nhưng không phải nghĩa của 酸素",
+   "食べ物 – 'thức ăn', không đúng",
+   "お金 – 'tiền', không đúng"
+  ],
+  "trans": "Con người không có oxy thì không sống nổi.",
+  "note": "酸素 (TOAN TỐ) = oxy. Trong câu này 空気 là từ gần nghĩa nhất."
+ },
+ "bunpro:984": {
+  "opts": [
+   "捨てます – 'vứt bỏ', ngược với thu hoạch",
+   "✔ とります – 'hái, lấy', cách nói thường của 収穫する",
+   "育てます – 'trồng, nuôi', là bước trước thu hoạch",
+   "売ります – 'bán', bước sau thu hoạch"
+  ],
+  "trans": "Đến mùa thu là thu hoạch rất nhiều rau.",
+  "note": "収穫 (THU HOẠCH) = gặt hái. Đời thường nói 野菜をとる."
+ },
+ "bunpro:985": {
+  "opts": [
+   "追いかけた – 'đuổi theo'",
+   "追い越した – 'vượt qua'",
+   "✔ ぶつかった – 'đâm vào nhau', đúng nghĩa 衝突",
+   "並んだ – 'xếp hàng, đứng cạnh nhau'"
+  ],
+  "trans": "Nghe nói trên con đường đó 3 chiếc xe đã đâm nhau.",
+  "note": "衝突 (XUNG ĐỘT) = va chạm, đâm nhau; nghĩa bóng là xung đột ý kiến."
+ },
+ "bunpro:986": {
+  "opts": [
+   "Sai – nhường ghế trên tàu là 席を譲る, không phải 推薦",
+   "Sai – 'hồi âm nhanh' phải là 返信",
+   "Sai – không đặt chỗ nhà hàng là 予約をしなかった",
+   "✔ Đúng – học giỏi nên được thầy giới thiệu/tiến cử"
+  ],
+  "trans": "Vì điểm tốt nên tôi được thầy giáo viết thư tiến cử.",
+  "note": "推薦 (SUY TIẾN) = giới thiệu, tiến cử ai đó. 推薦状 = thư giới thiệu, 推薦する/推薦をもらう."
+ },
+ "bunpro:987": {
+  "opts": [
+   "Sai – ghé nhà bạn là 寄って/行って",
+   "✔ Đúng – lặn xuống biển sẽ thấy nhiều cá",
+   "Sai – bị thầy mắng là 叱られました",
+   "Sai – làm việc ở công ty là 働いて"
+  ],
+  "trans": "Lặn xuống biển là thấy được rất nhiều cá đấy.",
+  "note": "潜る (もぐる) = lặn xuống nước, chui vào (dưới chăn, lòng đất). Đi với 海に/水に/布団に."
+ },
+ "bunpro:988": {
+  "opts": [
+   "Sai – người đáng tin là 誠実/親切な人",
+   "Sai – lạc đường thì xem 地図 (bản đồ)",
+   "Sai – nhiệt độ thấp/cao là 低い/高い",
+   "✔ Đúng – hai ý kiến có điểm khác biệt"
+  ],
+  "trans": "Giữa hai ý kiến này có sự khác biệt.",
+  "note": "相違 (TƯƠNG VI) = sự khác nhau, danh từ trang trọng. 相違がある/相違点. Gần nghĩa với 違い."
+ },
+ "bunpro:989": {
+  "opts": [
+   "Sai – hết mệt là 疲れが取れました",
+   "Sai – giữ sức khỏe là 健康を保つ/守る",
+   "Sai – giọng ca vang lên là 声が響いて",
+   "✔ Đúng – kẻ trộm cướp trang sức rồi bỏ chạy"
+  ],
+  "trans": "Tên trộm cướp trang sức ở cửa hàng rồi bỏ chạy.",
+  "note": "奪う (うばう) = cướp đoạt, lấy đi bằng vũ lực. Cũng dùng bóng: 心を奪われる (bị hút hồn)."
+ },
+ "bunpro:990": {
+  "opts": [
+   "Sai – ghế ngồi êm là 座り心地がいい",
+   "Sai – thầy sửa bài là 直して/添削して",
+   "✔ Đúng – cãi nhau với bạn rồi lại làm lành",
+   "Sai – chỉnh vị bằng muối là 味を直す/調整する"
+  ],
+  "trans": "Trước đây một chút tôi cãi nhau với bạn, nhưng rồi lại làm lành.",
+  "note": "仲直り = làm lành, hòa giải sau khi cãi nhau. 仲直りする/仲直りをする, đi với người (友だちと)."
+ },
+ "bunpro:991": {
+  "opts": [
+   "Sai – bật khi ăn cơm là テレビ",
+   "Sai – mua cái mới là 車/服… vật cụ thể",
+   "✔ Đúng – trên đời có nhiều người kỳ lạ",
+   "Sai – trong phòng có nhiều 本/物"
+  ],
+  "trans": "Trên đời này có đầy người kỳ lạ.",
+  "note": "世の中 (よのなか) = thế gian, xã hội, cuộc đời. Hay dùng: 世の中には…がいる, 世の中は厳しい."
+ },
+ "bunpro:992": {
+  "opts": [
+   "✔ Đúng – hẹn gặp bạn ở ga rồi đi trung tâm thương mại",
+   "Sai – mua/gọi cà phê là 買います/注文します",
+   "Sai – công việc mới đang chờ là 待っている",
+   "Sai – đi tắm là シャワーを浴びて"
+  ],
+  "trans": "Tôi hẹn gặp bạn ở ga rồi cùng đi trung tâm thương mại.",
+  "note": "待ち合わせる = hẹn gặp nhau tại một địa điểm/giờ. 人と場所で待ち合わせる; danh từ 待ち合わせ."
+ },
+ "bunpro:993": {
+  "opts": [
+   "Sai – xem phim mà phấn khích là 興奮した",
+   "Sai – khử mùi là においを消す",
+   "Sai – chân mỏi là 足が疲れた",
+   "✔ Đúng – dân số thị trấn đang tăng"
+  ],
+  "trans": "Nghe nói gần đây dân số của thị trấn này đang tăng lên.",
+  "note": "増加 (TĂNG GIA) = tăng lên về số lượng, đi với 人口/数/量. Trái nghĩa: 減少."
+ },
+ "bunpro:994": {
+  "opts": [
+   "✔ Đúng – trời lạnh nên mặc áo khoác cho con",
+   "Sai – che ô là 傘をさして",
+   "Sai – viết nhật ký là 書いて",
+   "Sai – đổ nước vào chai là 入れて"
+  ],
+  "trans": "Hôm nay lạnh nên tôi mặc áo khoác cho con.",
+  "note": "着せる = mặc (quần áo) cho người khác, dạng sai khiến của 着る. 子どもに服を着せる."
+ },
+ "bunpro:995": {
+  "opts": [
+   "✔ Đúng – có cháy thì phải sơ tán ngay lập tức",
+   "Sai – hẹn trước với bạn thì bỏ 直ちに hoặc dùng 前もって",
+   "Sai – thỉnh thoảng dọn phòng là たまに/時々",
+   "Sai – mỗi sáng luôn uống cà phê là 必ず/いつも"
+  ],
+  "trans": "Nếu xảy ra hỏa hoạn thì phải sơ tán ngay lập tức.",
+  "note": "直ちに (ただちに) = ngay lập tức, trang trọng hơn すぐに; hay thấy trong thông báo, chỉ thị."
+ },
+ "bunpro:996": {
+  "opts": [
+   "✔ Đúng – ngủ đủ giấc thì hết mệt",
+   "Sai – không giải được là だめ/不合格",
+   "Sai – chơi với mèo bằng おもちゃ",
+   "Sai – uống cho mát là 冷たい飲み物"
+  ],
+  "trans": "Ngủ đủ giấc thì cơ thể sẽ hết mệt mỏi.",
+  "note": "睡眠 (THÙY MIÊN) = giấc ngủ, danh từ. 睡眠を取る, 睡眠不足, 睡眠時間."
+ },
+ "bunpro:997": {
+  "opts": [
+   "Sai – người không khỏe là 体調が悪い",
+   "✔ Đúng – vì lười biếng nên thi điểm kém",
+   "Sai – chuẩn bị nấu ăn là 料理の準備",
+   "Sai – dọn phòng sạch là 片付けたら/掃除したら"
+  ],
+  "trans": "Vì lười biếng nên tôi bị điểm kém trong bài kiểm tra.",
+  "note": "怠ける (なまける) = lười, bỏ bê việc phải làm. 勉強/仕事を怠ける. Khác 怠い(だるい) = uể oải."
+ },
+ "bunpro:998": {
+  "opts": [
+   "Sai – bạn mua cho thì là 服 (quần áo)",
+   "Sai – món ăn mềm là やわらかい",
+   "Sai – mua giảm giá là セールで",
+   "✔ Đúng – tôi rất kính trọng thầy giáo"
+  ],
+  "trans": "Tôi rất kính trọng thầy giáo của mình.",
+  "note": "尊敬 (TÔN KÍNH) = kính trọng. 人を尊敬する; 尊敬語 = kính ngữ."
+ },
+ "bunpro:999": {
+  "opts": [
+   "Sai – xem lại vở là 見直そう",
+   "Sai – thái thịt nhỏ là 切って",
+   "Sai – xem đồng hồ là 見たら",
+   "✔ Đúng – khắc tên lên tấm gỗ rồi trang trí phòng"
+  ],
+  "trans": "Tôi khắc tên mình lên tấm gỗ rồi treo trang trí trong phòng.",
+  "note": "彫る (ほる) = khắc, chạm (gỗ, đá, tượng). Đồng âm 掘る = đào (đất), đừng nhầm."
+ },
+ "dethitiengnhat:N3-1-1-q1": {
+  "opts": [
+   "じきゅ – không có từ này",
+   "じきゅう – 時給 'lương theo giờ', không phải chữ này",
+   "ちきゅ – không có từ này (thiếu trường âm)",
+   "✔ ちきゅう – 地球, Trái Đất (ĐỊA CẦU)"
+  ],
+  "trans": "Bản tin đã giải thích chi tiết về sự nóng lên của Trái Đất.",
+  "note": "地球 ĐỊA CẦU: 地 đọc ち (地図 ちず), 球 đọc きゅう có trường âm. Nhớ 'cầu' = きゅう như 野球."
+ },
+ "dethitiengnhat:N3-1-1-q2": {
+  "opts": [
+   "ぶうぶん – sai, 部 không có trường âm",
+   "ぶうふん – sai cả hai âm",
+   "✔ ぶぶん – 部分, bộ phận, phần (BỘ PHẬN)",
+   "ぶふん – sai, 分 ở đây đọc ぶん (biến âm đục)"
+  ],
+  "trans": "Đọc phần này trong sách hướng dẫn là hiểu được thao tác cơ bản.",
+  "note": "部分 BỘ PHẬN: ぶ + ぶん. Không có trường âm; 分 đục thành ぶん như 自分 (じぶん)."
+ },
+ "dethitiengnhat:N3-1-1-q3": {
+  "opts": [
+   "ほうちょ – thiếu trường âm, không có từ này",
+   "ぼうちょ – sai, không có từ này",
+   "ぼうちょう – 膨張 'phình to', không phải chữ này",
+   "✔ ほうちょう – 包丁, dao làm bếp (BAO ĐINH)"
+  ],
+  "trans": "Tôi đã học cách dùng dao bếp đúng cách ở lớp nấu ăn.",
+  "note": "包丁 BAO ĐINH: ほう (包 như 包装) + ちょう. Cả hai âm đều có trường âm, 包 không bị đục."
+ },
+ "dethitiengnhat:N3-1-1-q4": {
+  "opts": [
+   "はっひょう – sai, 表 sau âm ngắt っ bị bán đục thành ぴ",
+   "✔ はっぴょう – 発表, phát biểu, công bố (PHÁT BIỂU)",
+   "はっひょ – sai, thiếu trường âm",
+   "はっぴょ – sai, thiếu trường âm"
+  ],
+  "trans": "Trong giờ học ngày mai, tôi dự định sẽ phát biểu nội dung đã tìm hiểu.",
+  "note": "発表 PHÁT BIỂU: はつ + ひょう → はっぴょう. Quy tắc: sau っ, hàng は biến thành hàng ぱ (出発 しゅっぱつ)."
+ },
+ "dethitiengnhat:N3-1-1-q5": {
+  "opts": [
+   "くもん – 苦悶 'khổ sở' (từ hiếm), không phải chữ này",
+   "ぐもん – 愚問 'câu hỏi ngớ ngẩn', không phải chữ này",
+   "✔ ぎもん – 疑問, nghi vấn, thắc mắc (NGHI VẤN)",
+   "きもん – không có từ thông dụng"
+  ],
+  "trans": "Nghe giải thích rồi mà vẫn còn thắc mắc.",
+  "note": "疑問 NGHI VẤN: 疑 đọc ぎ (âm đục), 問 đọc もん như 質問. 疑う (うたがう) = nghi ngờ."
+ },
+ "dethitiengnhat:N3-1-1-q6": {
+  "opts": [
+   "きって – 切って 'cắt', không phải chữ này",
+   "おって – 折って 'gấp, bẻ', không phải chữ này",
+   "わって – 割って 'làm vỡ, chia', không phải chữ này",
+   "✔ うって – 打って, đánh, đập (ĐẢ)"
+  ],
+  "trans": "Cậu ấy đánh bóng thật mạnh, bay ra tận ngoài sân trường.",
+  "note": "打つ (うつ) ĐẢ = đánh, gõ. Nhớ qua 打ち合わせ (họp bàn), メールを打つ (gõ mail)."
+ },
+ "dethitiengnhat:N3-1-1-q7": {
+  "opts": [
+   "ほうほう – 方法 'phương pháp', không phải chữ này",
+   "ほうぼう – 方々 'khắp nơi', không phải chữ này",
+   "✔ ほうこう – 方向, phương hướng (PHƯƠNG HƯỚNG)",
+   "ほうごう – 縫合 'khâu vết thương', không phải chữ này"
+  ],
+  "trans": "Tôi đã xem hướng đi đến ga bằng ứng dụng bản đồ.",
+  "note": "方向 PHƯƠNG HƯỚNG: 向 đọc こう không đục (向上 こうじょう). Đừng nhầm với 方法 ほうほう."
+ },
+ "dethitiengnhat:N3-1-1-q8": {
+  "opts": [
+   "ゆび – 指 'ngón tay', không phải chữ này",
+   "✔ ゆうひ – 夕日, mặt trời lặn, ánh chiều tà",
+   "ゆうび – sai, ở đây 日 không bị đục",
+   "ゆひ – sai, 夕 đọc ゆう có trường âm"
+  ],
+  "trans": "Tôi xúc động khi ngắm mặt trời lặn xuống biển.",
+  "note": "夕日 = ゆう (夕方) + ひ (日). Đọc thuần Nhật, không đục, có trường âm ở ゆう."
+ },
+ "dethitiengnhat:N3-1-1-q9": {
+  "opts": [
+   "✔ 安全 – あんぜん, an toàn (AN TOÀN)",
+   "案全 – 案 (AN, 'phương án') ghép sai",
+   "安然 – 然 (NHIÊN, 自然) ghép sai",
+   "案然 – cả hai chữ đều sai"
+  ],
+  "trans": "Tòa nhà này đã được đánh giá là an toàn.",
+  "note": "安 (bộ miên 宀 + 女) = yên ổn; 案 có thêm 木 bên dưới = phương án. 全 = toàn bộ, 然 = nhiên."
+ },
+ "dethitiengnhat:N3-1-1-q10": {
+  "opts": [
+   "送れて – おくれて nhưng là 'gửi được', không hợp nghĩa",
+   "後れて – おくれて 'tụt lại phía sau', ít dùng cho giờ giấc",
+   "✔ 遅れて – おくれて, trễ, muộn (TRÌ)",
+   "押くれて – không có cách viết này"
+  ],
+  "trans": "Tàu điện đã đến trễ.",
+  "note": "遅れる TRÌ = chậm, trễ giờ (遅い おそい). 送る TỐNG = gửi; cùng đọc おくる/おくれる nên hay nhầm."
+ },
+ "dethitiengnhat:N3-1-1-q11": {
+  "opts": [
+   "永久 – えいきゅう 'vĩnh cửu', đọc khác",
+   "✔ 影響 – えいきょう, ảnh hưởng (ẢNH HƯỞNG)",
+   "映供 – không có từ này",
+   "英協 – không có từ này"
+  ],
+  "trans": "Do ảnh hưởng của công trình, đường đang bị tắc.",
+  "note": "影響 ẢNH HƯỞNG: 影 = bóng (かげ), 響 = vang (ひびく). Chú ý きょう chứ không phải きゅう như 永久."
+ },
+ "dethitiengnhat:N3-1-1-q12": {
+  "opts": [
+   "✔ 相談 – そうだん, bàn bạc, xin lời khuyên (TƯƠNG ĐÀM)",
+   "想談 – 想 (TƯỞNG, 想像) ghép sai",
+   "双段 – không có từ này",
+   "相断 – 断 (ĐOẠN, 断る) ghép sai"
+  ],
+  "trans": "Tôi đã trao đổi/xin ý kiến thầy giáo.",
+  "note": "相談 TƯƠNG ĐÀM: 相 = cùng nhau, 談 = nói chuyện (bộ ngôn 言). 断 là 'từ chối', 想 là 'nghĩ'."
+ },
+ "dethitiengnhat:N3-1-1-q13": {
+  "opts": [
+   "室 – しつ 'phòng' (教室), không hợp nghĩa",
+   "失 – しつ 'mất' (失敗), không hợp nghĩa",
+   "実 – じつ 'thật' (実際), đọc khác",
+   "✔ 質 – しつ, chất lượng (CHẤT)"
+  ],
+  "trans": "Công ty đang cố gắng nâng cao chất lượng dịch vụ.",
+  "note": "Bốn chữ cùng âm しつ/じつ: 室 phòng, 失 mất, 実 thật, 質 chất. サービスの質 = chất lượng dịch vụ."
+ },
+ "dethitiengnhat:N3-1-1-q14": {
+  "opts": [
+   "たおれて – 倒れて 'ngã, đổ', không phải chữ này",
+   "こわれて – 壊れて 'hỏng', không phải chữ này",
+   "よごれて – 汚れて 'bẩn', không phải chữ này",
+   "✔ たすけて – 助けて, giúp đỡ, cứu (TRỢ)"
+  ],
+  "trans": "Thấy người gặp khó khăn thì tôi muốn giúp họ hết mức có thể.",
+  "note": "助ける (たすける) TRỢ = giúp, cứu. Câu hỏi hỏi cách đọc chữ 助けて trong câu."
+ },
+ "dethitiengnhat:N3-1-1-q15": {
+  "opts": [
+   "ルール – 'quy tắc', họp không có quy tắc thay đổi",
+   "✔ スケジュール – 'lịch trình', lịch họp thay đổi nên báo bằng mail",
+   "マナー – 'phép lịch sự', không hợp",
+   "プラン – 'kế hoạch', gần nhưng lịch giờ giấc dùng スケジュール"
+  ],
+  "trans": "Lịch họp đã thay đổi nên tôi sẽ thông báo qua email."
+ },
+ "dethitiengnhat:N3-1-1-q16": {
+  "opts": [
+   "✔ 本気 – 'nghiêm túc, thật lòng', đối lập với 冗談 (đùa)",
+   "本物 – 'đồ thật' (vật), không dùng cho thái độ",
+   "事実 – 'sự thật', không đi với だ kiểu này",
+   "正直 – 'thật thà', là tính cách chứ không phải 'nói thật'"
+  ],
+  "trans": "Anh ấy chỉ nói đùa thôi, tôi nghĩ không phải nghiêm túc đâu.",
+  "note": "冗談 ↔ 本気 là cặp đối lập quen thuộc. 本気で = một cách nghiêm túc."
+ },
+ "dethitiengnhat:N3-1-1-q17": {
+  "opts": [
+   "隙間 – 'khe hở', quá nhỏ để phơi đồ",
+   "空き – 'chỗ trống, chỗ còn trống' (ghế, lịch), không tự nhiên ở đây",
+   "広さ – 'độ rộng', không nói 広さがない",
+   "✔ スペース – 'không gian, chỗ', 干すスペースがない rất tự nhiên"
+  ],
+  "trans": "Đồ giặt nhiều quá, ngoài ban công không còn chỗ để phơi."
+ },
+ "dethitiengnhat:N3-1-1-q18": {
+  "opts": [
+   "うっかり – 'lỡ, vô ý', đi với quên/làm nhầm",
+   "✔ すっかり – 'hoàn toàn', mẹ thất vọng hoàn toàn",
+   "ぴったり – 'vừa khít, vừa đúng'",
+   "しっかり – 'chắc chắn, đàng hoàng'"
+  ],
+  "trans": "Vì kết quả thi kém nên mẹ hoàn toàn thất vọng về tôi.",
+  "note": "すっかり nhấn mạnh mức độ 'hoàn toàn, hết sạch': すっかり忘れた, すっかり変わった."
+ },
+ "dethitiengnhat:N3-1-1-q19": {
+  "opts": [
+   "✔ 息 – 息が切れる 'hụt hơi, thở dốc'",
+   "胸 – 'ngực', không có 胸が切れる",
+   "気 – 気が切れる không dùng (có 気が済む, 気が付く)",
+   "身 – 'thân mình', không hợp"
+  ],
+  "trans": "Dạo này có lẽ do thiếu vận động, cứ leo cầu thang là tôi hụt hơi ngay.",
+  "note": "息が切れる = thở không kịp, đứt hơi. Cụm cố định, nhớ cả cụm."
+ },
+ "dethitiengnhat:N3-1-1-q20": {
+  "opts": [
+   "隠れて – 'ẩn nấp' (tự động từ), không cất được vật",
+   "✔ しまって – 'cất vào', 机の中にしまう rất tự nhiên",
+   "閉じて – 'đóng (sách, mắt)', không hợp",
+   "貯めて – 'tích trữ (tiền)', không hợp"
+  ],
+  "trans": "Tài liệu này quan trọng, hãy cất vào trong bàn để khỏi làm mất.",
+  "note": "しまう (ở đây là 仕舞う) = cất, dọn vào chỗ. Khác với ～てしまう ngữ pháp."
+ },
+ "dethitiengnhat:N3-1-1-q21": {
+  "opts": [
+   "険しい – 'hiểm trở, nghiêm nghị', không hợp",
+   "激しい – 'dữ dội', không hợp",
+   "詳しい – 'rành, am hiểu' (お金に詳しい = rành về tiền), nhưng câu nói về tính chi li",
+   "✔ 細かい – お金に細かい = chi li, tính toán từng đồng"
+  ],
+  "trans": "Anh Sato là người chi li về tiền bạc, chia tiền đến từng yên một.",
+  "note": "細かい ngoài nghĩa 'nhỏ, chi tiết' còn có nghĩa 'chi li, kỹ tính'. お金に細かい là cụm cố định."
+ },
+ "dethitiengnhat:N3-1-1-q22": {
+  "opts": [
+   "分類 – 'phân loại' (khoa học, dữ liệu), không phải từ dùng cho rác",
+   "✔ 分別 – ゴミの分別 'phân loại rác', cụm cố định",
+   "区別 – 'phân biệt' hai thứ, không hợp",
+   "分解 – 'tháo rời, phân hủy', không hợp"
+  ],
+  "trans": "Để bảo vệ tài nguyên, xin hãy hợp tác phân loại rác.",
+  "note": "ゴミの分別 (ぶんべつ) là cụm cố định ở Nhật. Đọc ふんべつ lại có nghĩa 'sự chín chắn'."
+ },
+ "dethitiengnhat:N3-1-1-q23": {
+  "opts": [
+   "✔ 稼いだ – 'kiếm (tiền) bằng sức lao động', đúng với 一生懸命働いて",
+   "儲けた – 'kiếm lời, lãi' (buôn bán, đầu tư), không phải nhờ làm việc chăm",
+   "奪った – 'cướp', không hợp",
+   "支払った – 'chi trả', ngược nghĩa"
+  ],
+  "trans": "Tôi đã làm việc cật lực để kiếm tiền chi phí đi du học.",
+  "note": "稼ぐ = kiếm tiền bằng lao động; 儲ける = sinh lời. Cả hai đều 'kiếm' nhưng cách kiếm khác nhau."
+ },
+ "dethitiengnhat:N3-1-1-q24": {
+  "opts": [
+   "そろそろ – 'sắp đến lúc', không đi với てしまった",
+   "いよいよ – 'cuối cùng cũng (hào hứng)', sắc thái không hợp với 'lỡ'",
+   "✔ とうとう – 'rốt cuộc, cuối cùng', việc đến dù không mong",
+   "ますます – 'càng ngày càng', không hợp"
+  ],
+  "trans": "Cứ tưởng còn thời gian, thế mà rốt cuộc đã đến giờ xuất phát mất rồi.",
+  "note": "とうとう diễn tả kết quả cuối cùng, thường kèm sắc thái tiếc nuối hoặc bất đắc dĩ."
+ },
+ "dethitiengnhat:N3-1-1-q25": {
+  "opts": [
+   "✔ 喜んで – 'vui mừng', nghe tin đỗ nên nhảy lên mừng",
+   "楽しんで – 'tận hưởng, chơi vui', không phải phản ứng với tin",
+   "好んで – 'ưa thích', không hợp",
+   "遊んで – 'chơi đùa', không hợp"
+  ],
+  "trans": "Nghe tin đỗ, cô ấy nhảy cẫng lên vui mừng.",
+  "note": "喜ぶ = vui mừng vì một tin/sự việc; 楽しむ = tận hưởng một hoạt động."
+ },
+ "dethitiengnhat:N3-1-1-q26": {
+  "opts": [
+   "反対だ – 'trái ngược'",
+   "✔ よく似ている – 'rất giống nhau', đúng nghĩa そっくり",
+   "全然違う – 'hoàn toàn khác'",
+   "明るい – 'vui vẻ, sáng'"
+  ],
+  "trans": "Hai anh em đó tính cách giống nhau như đúc.",
+  "note": "そっくり = giống hệt, như đúc. Mạnh hơn 似ている."
+ },
+ "dethitiengnhat:N3-1-1-q27": {
+  "opts": [
+   "✔ 迷って – 'đang phân vân', đúng nghĩa ためらう",
+   "決めて – 'đã quyết', ngược nghĩa",
+   "急いで – 'vội vàng'",
+   "困って – 'gặp khó khăn', gần nhưng không phải 'do dự'"
+  ],
+  "trans": "Tôi vẫn còn đang do dự không biết có nên đi du học hay không.",
+  "note": "ためらう = do dự, ngập ngừng trước khi quyết định. Gần với 迷う."
+ },
+ "dethitiengnhat:N3-1-1-q28": {
+  "opts": [
+   "値段 – 'giá tiền'",
+   "評判 – 'tiếng tăm, đánh giá'",
+   "✔ 程度 – 'mức độ, trình độ', đúng nghĩa レベル",
+   "価値 – 'giá trị'"
+  ],
+  "trans": "Cuốn sách này quá cao so với trình độ người mới bắt đầu.",
+  "note": "レベル (level) = mức, trình độ = 程度 (TRÌNH ĐỘ) / 水準."
+ },
+ "dethitiengnhat:N3-1-1-q29": {
+  "opts": [
+   "頭がいい – 'thông minh'",
+   "厳しい – 'nghiêm khắc'",
+   "冷たい – 'lạnh lùng'",
+   "✔ 優しい – 'hiền hậu, dịu dàng', đúng nghĩa 温厚"
+  ],
+  "trans": "Anh Yamada là người rất hiền hậu, ôn hòa.",
+  "note": "温厚 (ÔN HẬU) = hiền lành, điềm đạm, không nóng nảy."
+ },
+ "dethitiengnhat:N3-1-1-q30": {
+  "opts": [
+   "✔ 終わった – 'đã xong', đúng nghĩa 完了",
+   "始まった – 'đã bắt đầu'",
+   "失敗した – 'thất bại'",
+   "遅れた – 'bị trễ'"
+  ],
+  "trans": "Việc chuẩn bị cho chuyến du lịch đã hoàn tất.",
+  "note": "完了 (HOÀN LIỄU) = hoàn tất, xong hẳn. Thường thấy: 準備完了, ダウンロード完了."
+ },
+ "dethitiengnhat:N3-1-1-q31": {
+  "opts": [
+   "Sai – gia hạn hộ chiếu là 更新 (こうしん)",
+   "✔ Đúng – mưa to nên trận đấu dời sang tuần sau",
+   "Sai – kéo dài họp thêm 30 phút là 延長 (えんちょう)",
+   "Sai – ở thêm 2 đêm là 延長"
+  ],
+  "trans": "Vì mưa to nên trận đấu đã bị hoãn sang tuần sau.",
+  "note": "延期 (DIÊN KỲ) = hoãn, dời ngày sang sau. Phân biệt: 延長 = kéo dài thời gian, 更新 = gia hạn/làm mới."
+ },
+ "dethitiengnhat:N3-1-1-q32": {
+  "opts": [
+   "✔ Đúng – được trưởng phòng khao bữa tối",
+   "Sai – bố tặng đồng hồ là 買って/プレゼントして",
+   "Sai – cho bạn vay/đưa tiền là 貸して/あげた",
+   "Sai – mua vở ở combini là 買った"
+  ],
+  "trans": "Tôi được trưởng phòng đãi bữa tối.",
+  "note": "おごる = khao, đãi (trả tiền ăn uống cho người khác). 人に～をおごる; おごってもらう = được khao."
+ },
+ "dethitiengnhat:N3-1-1-q33": {
+  "opts": [
+   "✔ Đúng – tính cách ôn hòa nên ai cũng quý",
+   "Sai – thời tiết dễ chịu là 温暖/穏やか",
+   "Sai – nhiệt độ phòng vừa phải là 適温/ちょうどいい",
+   "Sai – giọng dịu dàng là 優しい声"
+  ],
+  "trans": "Anh ấy có tính cách ôn hòa nên được mọi người yêu mến.",
+  "note": "温厚 (ÔN HẬU) chỉ dùng cho tính cách con người: 温厚な人/性格. Không dùng cho thời tiết, nhiệt độ."
+ },
+ "dethitiengnhat:N3-1-1-q34": {
+  "opts": [
+   "Sai – ô trống trong giấy tờ là 欄 (らん)",
+   "Sai – không có thời gian nghỉ là 暇/時間がない",
+   "✔ Đúng – hành lý nhiều, xe không còn chỗ chất",
+   "Sai – thừa từ, 宇宙 đã là 'vũ trụ'; nói 宇宙に行く"
+  ],
+  "trans": "Hành lý nhiều quá, trên xe không còn chỗ để chất.",
+  "note": "スペース trong tiếng Nhật chủ yếu nghĩa 'khoảng trống, chỗ để đồ'. Không dùng cho thời gian rảnh hay ô điền tên."
+ },
+ "dethitiengnhat:N3-1-1-q35": {
+  "opts": [
+   "Sai – hạ sốt là 熱が下がった",
+   "Hủy hợp đồng là 契約を解除/解消 – thực ra cũng dùng được, nhưng đề chọn câu 4",
+   "Sai – sửa máy hỏng là 修理した",
+   "✔ Đúng – hiểu lầm được hóa giải, hai người làm lành"
+  ],
+  "trans": "Hiểu lầm được giải tỏa, hai người đã làm lành với nhau.",
+  "note": "解消 (GIẢI TIÊU) = xóa bỏ, giải tỏa (hiểu lầm, stress, bất an). (?) Đáp án nguồn có thể chưa chặt: 契約を解消する cũng là cách dùng đúng."
+ },
+ "dethitiengnhat:N3-10-1-q1": {
+  "opts": [
+   "✔ くばった – 配った, phát, chia (PHỐI)",
+   "うばった – 奪った 'cướp', không phải chữ này",
+   "しばった – 縛った 'trói, buộc', không phải chữ này",
+   "くだった – 下った 'đi xuống', không phải chữ này"
+  ],
+  "trans": "Trước cuộc họp, tôi đã phát tài liệu cho người tham dự.",
+  "note": "配る (くばる) PHỐI = phân phát. Nhớ qua 配達 (はいたつ giao hàng), 心配 (しんぱい)."
+ },
+ "dethitiengnhat:N3-10-1-q2": {
+  "opts": [
+   "そうげん – 草原 'thảo nguyên', không phải chữ này",
+   "そうけん – sai, 増 đọc ぞう",
+   "✔ ぞうげん – 増減, tăng giảm (TĂNG GIẢM)",
+   "ぞうけん – sai, 減 đọc げん (âm đục)"
+  ],
+  "trans": "Tôi đã xem biểu đồ để kiểm tra mức tăng giảm doanh thu tháng này.",
+  "note": "増減: 増 ぞう (増加 ぞうか), 減 げん (減少 げんしょう). Cả hai chữ đều đọc âm đục."
+ },
+ "dethitiengnhat:N3-10-1-q3": {
+  "opts": [
+   "ちちはは – cách đọc thuần Nhật của 父母, ít dùng trong văn trang trọng",
+   "✔ ふぼ – 父母, cha mẹ (PHỤ MẪU)",
+   "ふふ – sai, 母 đọc ぼ",
+   "ちちぼ – lẫn lộn âm Hán và âm thuần, không có"
+  ],
+  "trans": "Cha mẹ cũng đã đến dự buổi lễ.",
+  "note": "父母 PHỤ MẪU đọc ふぼ (âm Hán). 父 ふ như 祖父 (そふ), 母 ぼ như 祖母 (そぼ)."
+ },
+ "dethitiengnhat:N3-10-1-q10": {
+  "opts": [
+   "新林 – không có từ này",
+   "森村 – không có từ này",
+   "山村 – さんそん 'làng núi', đọc khác",
+   "✔ 森林 – しんりん, rừng (SÂM LÂM)"
+  ],
+  "trans": "Ở vùng này đang có hoạt động bảo vệ rừng.",
+  "note": "森林 SÂM LÂM: 森 (3 cây) đọc しん, 林 (2 cây) đọc りん. 新 TÂN cũng đọc しん nhưng nghĩa 'mới'."
+ },
+ "dethitiengnhat:N3-10-1-q11": {
+  "opts": [
+   "✔ 浴びました – あびました, tắm, dội (DỤC)",
+   "帯びました – おびました 'mang, đeo', đọc khác",
+   "浴みました – sai okurigana",
+   "沿びました – 沿 (DUYÊN, 沿い) sai chữ"
+  ],
+  "trans": "Sau khi bơi ở biển, tôi về khách sạn tắm vòi sen.",
+  "note": "浴びる DỤC = dội nước, tắm (シャワーを浴びる), hứng (日光を浴びる). Bộ thủy 氵 + 谷."
+ },
+ "dethitiengnhat:N3-10-1-q12": {
+  "opts": [
+   "左有 – 有 (HỮU, 'có') sai chữ",
+   "右有 – sai",
+   "✔ 左右 – さゆう, trái phải (TẢ HỮU)",
+   "佐右 – 佐 (TÁ) có bộ nhân, sai chữ"
+  ],
+  "trans": "Trước khi sang đường, nhất định phải nhìn trái phải.",
+  "note": "左右 TẢ HỮU: 左 (có 工), 右 (có 口). 有 HỮU 'có' và 佐 TÁ (佐藤) trông giống nhưng khác nghĩa."
+ },
+ "dethitiengnhat:N3-10-1-q13": {
+  "opts": [
+   "✔ 負けて – まけて, thua (PHỤ)",
+   "欠けて – かけて 'sứt, thiếu', đọc khác",
+   "退けて – しりぞけて 'đẩy lui', đọc khác",
+   "勝けて – 勝 là 'thắng' (かつ), sai okurigana và nghĩa"
+  ],
+  "trans": "Tuy thua trận nhưng đã cố gắng hết sức đến phút cuối.",
+  "note": "負ける PHỤ = thua, đối lập 勝つ (かつ THẮNG). 負 cũng xuất hiện trong 勝負 (しょうぶ)."
+ },
+ "dethitiengnhat:N3-10-1-q14": {
+  "opts": [
+   "過古 – không có từ này",
+   "✔ 過去 – かこ, quá khứ (QUÁ KHỨ)",
+   "加去 – không có từ này",
+   "適古 – không có từ này"
+  ],
+  "trans": "Có nhiều điều học được từ những thất bại trong quá khứ.",
+  "note": "過去 QUÁ KHỨ: 過 (bộ 辶) = trôi qua, 去 = đi khỏi (去年 きょねん). Bộ ba 過去・現在・未来."
+ },
+ "dethitiengnhat:N3-10-1-q15": {
+  "opts": [
+   "印象 – 'ấn tượng', không hợp",
+   "✔ 影響 – 台風の影響で 'do ảnh hưởng của bão'",
+   "連絡 – 'liên lạc', không hợp",
+   "理由 – 'lý do', không nói 台風の理由で"
+  ],
+  "trans": "Nghe nói do ảnh hưởng của bão nên tàu điện đang bị trễ.",
+  "note": "～の影響で là cụm rất hay gặp khi nói về thiên tai, sự cố."
+ },
+ "dethitiengnhat:N3-10-1-q16": {
+  "opts": [
+   "まぶしい – 'chói mắt'",
+   "くやしい – 'tiếc nuối, cay cú'",
+   "✔ あやしい – 'đáng ngờ, khả nghi', người lạ bắt chuyện ban đêm",
+   "厳しい – 'nghiêm khắc'"
+  ],
+  "trans": "Bị người lạ bắt chuyện trên đường tối, tôi thấy hơi đáng ngờ.",
+  "note": "怪しい (あやしい) = khả nghi, kỳ lạ. 怪しい人 = người đáng ngờ."
+ },
+ "dethitiengnhat:N3-10-1-q17": {
+  "opts": [
+   "不満 – 'bất mãn'",
+   "自慢 – 'khoe khoang'",
+   "✔ 我慢 – 'chịu đựng, nhịn', nhịn đau không uống thuốc",
+   "注文 – 'gọi món, đặt hàng'"
+  ],
+  "trans": "Đau nhưng tôi đã cố nhịn một lúc, không uống thuốc.",
+  "note": "我慢する (NGÃ MẠN) = chịu đựng, nhịn. Cùng chữ 慢 với 自慢 (TỰ MẠN, khoe) nên dễ lẫn."
+ },
+ "dethitiengnhat:N3-10-1-q18": {
+  "opts": [
+   "感情的 – 'cảm tính, dễ xúc động'",
+   "積極的 – 'tích cực, chủ động', ngược nghĩa",
+   "具体的 – 'cụ thể'",
+   "✔ 消極的 – 'tiêu cực, thụ động', không nói ý kiến"
+  ],
+  "trans": "Anh ấy không nêu ý kiến, lúc nào cũng có thái độ thụ động.",
+  "note": "積極的 ↔ 消極的 là cặp trái nghĩa. 消極 = TIÊU CỰC, rụt rè không chủ động."
+ },
+ "dethitiengnhat:N3-10-1-q19": {
+  "opts": [
+   "✔ 経由 – 'đi qua, quá cảnh', 新宿を経由して",
+   "進行 – 'tiến hành, chạy tới'",
+   "到着 – 'đến nơi'",
+   "乗車 – 'lên tàu'"
+  ],
+  "trans": "Tàu này đi qua Shinjuku rồi đến Ikebukuro.",
+  "note": "経由 (けいゆ KINH DO) = qua ngả, transit. ～を経由して/～経由 (成田経由)."
+ },
+ "dethitiengnhat:N3-10-1-q20": {
+  "opts": [
+   "型 – 'khuôn, kiểu'",
+   "✔ 仲 – 仲がいい 'quan hệ tốt, thân thiết'",
+   "方 – 'phía, cách'",
+   "間 – 'khoảng', không nói 間が良い cho quan hệ"
+  ],
+  "trans": "Hai vợ chồng đó rất hòa thuận, được mọi người xung quanh ngưỡng mộ.",
+  "note": "仲 (なか) = mối quan hệ giữa người với người. 仲がいい/悪い, 仲良し, 仲直り."
+ },
+ "dethitiengnhat:N3-10-1-q21": {
+  "opts": [
+   "取り出した – 'lấy ra'",
+   "取り替えた – 'đổi, thay'",
+   "取り消した – 'hủy bỏ'",
+   "✔ 取り戻した – 'lấy lại được', ví tưởng mất mà lấy lại"
+  ],
+  "trans": "Lấy lại được chiếc ví tưởng đã mất ở đồn cảnh sát, tôi thấy yên tâm.",
+  "note": "取り戻す = lấy lại, khôi phục (ví, sức khỏe, niềm tin)."
+ },
+ "dethitiengnhat:N3-10-1-q22": {
+  "opts": [
+   "たまに – 'thỉnh thoảng'",
+   "すぐに – 'ngay lập tức'",
+   "✔ 一度に – 'một lần, một lượt', không bê hết trong một lần được",
+   "平等に – 'bình đẳng'"
+  ],
+  "trans": "Hành lý nhiều nên tôi khổ sở vì không mang hết trong một lần được.",
+  "note": "一度に (いちどに) = cùng một lúc, một lượt."
+ },
+ "dethitiengnhat:N3-10-1-q23": {
+  "opts": [
+   "アナウンス – 'thông báo (loa)'",
+   "✔ アクセス – 'truy cập', vào website từ điện thoại",
+   "ストップ – 'dừng'",
+   "アレンジ – 'sắp xếp, biến tấu'"
+  ],
+  "trans": "Trang web này có thể truy cập dễ dàng từ điện thoại.",
+  "note": "アクセスする = truy cập (web), hoặc đi đến (giao thông thuận tiện: アクセスがいい)."
+ },
+ "dethitiengnhat:N3-10-1-q24": {
+  "opts": [
+   "あわてた – 'cuống lên'",
+   "あせった – 'sốt ruột'",
+   "うばった – 'cướp'",
+   "✔ あきらめた – 'bỏ cuộc', làm mãi không được nên bỏ"
+  ],
+  "trans": "Làm bao nhiêu lần cũng không được nên tôi bỏ cuộc rồi.",
+  "note": "諦める (あきらめる) = từ bỏ, bỏ cuộc. もう諦めた = thôi, bỏ rồi."
+ },
+ "dethitiengnhat:N3-10-1-q25": {
+  "opts": [
+   "✔ うろうろ – 'đi loanh quanh, lượn lờ' trước ga",
+   "ぐっすり – 'ngủ say'",
+   "ぴったり – 'vừa khít'",
+   "すっきり – 'sảng khoái, gọn gàng'"
+  ],
+  "trans": "Tôi đi loanh quanh trước ga cho đến giờ hẹn.",
+  "note": "うろうろする = lượn lờ, đi qua đi lại không mục đích."
+ },
+ "dethitiengnhat:N3-10-1-q26": {
+  "opts": [
+   "よく数えて – 'đếm kỹ'",
+   "✔ 調べて考えて – 'tìm hiểu và suy xét', đúng nghĩa 検討",
+   "説明して – 'giải thích'",
+   "心配して – 'lo lắng'"
+  ],
+  "trans": "Công ty đang cân nhắc kỹ việc có đưa hệ thống mới vào hay không.",
+  "note": "検討 (KIỂM THẢO) = xem xét, cân nhắc. 検討します trong công việc = 'để tôi xem xét'."
+ },
+ "dethitiengnhat:N3-10-1-q27": {
+  "opts": [
+   "✔ 会社 – 'công ty', đúng nghĩa 企業",
+   "工場 – 'nhà máy'",
+   "店舗 – 'cửa hàng'",
+   "大学 – 'trường đại học'"
+  ],
+  "trans": "Nghe nói doanh nghiệp đó sẽ bắt đầu dịch vụ mới từ năm sau.",
+  "note": "企業 (きぎょう XÍ NGHIỆP) = doanh nghiệp, công ty; trang trọng hơn 会社."
+ },
+ "dethitiengnhat:N3-10-1-q28": {
+  "opts": [
+   "たくさん売れて – 'bán được nhiều'",
+   "少し高くなって – 'đắt lên một chút'",
+   "✔ 売れないままで – 'vẫn chưa bán được', đúng nghĩa 売れ残る",
+   "全部売れて – 'bán hết sạch', ngược nghĩa"
+  ],
+  "trans": "Sau khi hết giảm giá, áo khoác mùa đông vẫn còn tồn lại chưa bán được.",
+  "note": "売れ残る = bán ế, tồn hàng. 残る = còn lại."
+ },
+ "dethitiengnhat:N3-10-1-q29": {
+  "opts": [
+   "人気がある – 'được ưa chuộng'",
+   "新しくできた – 'mới xây'",
+   "値段が安い – 'giá rẻ'",
+   "✔ 有名で質の高い – 'nổi tiếng và chất lượng cao', đúng nghĩa 一流"
+  ],
+  "trans": "Sau khi tốt nghiệp đại học, anh ấy bắt đầu làm ở một khách sạn hạng nhất.",
+  "note": "一流 (いちりゅう NHẤT LƯU) = hạng nhất, hàng đầu. 一流ホテル, 一流企業."
+ },
+ "dethitiengnhat:N3-10-1-q30": {
+  "opts": [
+   "いつでも – 'lúc nào cũng'",
+   "すぐに – 'ngay lập tức'",
+   "✔ やっと – 'cuối cùng cũng', đúng nghĩa ようやく",
+   "たぶん – 'có lẽ'"
+  ],
+  "trans": "Luyện tập nhiều lần, cuối cùng tôi cũng hát hay được bài này.",
+  "note": "ようやく = やっと = cuối cùng cũng (sau nhiều cố gắng, chờ đợi)."
+ },
+ "dethitiengnhat:N3-10-1-q31": {
+  "opts": [
+   "✔ Đúng – cây cầu mới dự kiến hoàn thành tháng sau",
+   "Sai – đặt phòng xong là 完了した/取れた",
+   "Sai – họp xong là 終わって",
+   "Sai – kế hoạch thi công đã chốt là 決まった"
+  ],
+  "trans": "Cây cầu mới dự kiến hoàn thành vào tháng sau.",
+  "note": "完成 (HOÀN THÀNH) = làm xong một vật/công trình/tác phẩm (橋, ビル, 作品). Việc kết thúc thì dùng 終わる/完了."
+ }
+}

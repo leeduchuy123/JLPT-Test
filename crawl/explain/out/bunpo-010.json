@@ -1,0 +1,802 @@
+{
+ "nihongopro:027e107b2f-1": {
+  "opts": [
+   "し – liệt kê lý do (…し…し), không dùng kiểu này với 言う",
+   "にしても – 'dù là… đi nữa', không dùng để liệt kê",
+   "✔ とか – '…này …nọ', liệt kê lời nói làm ví dụ",
+   "や – chỉ nối danh từ, không gắn sau câu/tính từ"
+  ],
+  "trans": "Đừng có kêu mệt này, vất vả nọ nữa, hãy làm việc cho nghiêm túc vào.",
+  "note": "AとかBとか言う = nói kiểu A này B nọ; とか gắn được sau cả câu (疲れた, 大変だ), còn や chỉ nối danh từ."
+ },
+ "nihongopro:027e107b2f-2": {
+  "opts": [
+   "こそ – 'chính là', nhấn mạnh, không hợp nghĩa",
+   "さえ – 'ngay cả', ngụ ý mức cực đoan, trái với 'tôi kém rượu'",
+   "✔ ぐらいは – 'cỡ… thì (vẫn) được', mức tối thiểu",
+   "まで – 'đến cả', nghĩa là uống được cả thứ khó, không hợp"
+  ],
+  "trans": "Tôi uống rượu kém, nhưng cỡ cocktail ngọt thì vẫn uống được.",
+  "note": "N ぐらいは + khả năng = ít ra mức nhẹ như N thì làm được; khớp với vế 'tôi kém rượu' phía trước."
+ },
+ "nihongopro:027e107b2f-3": {
+  "opts": [
+   "ことにしました – tự mình quyết định, báo với sếp nghe hơi chủ động",
+   "ことになります – 'sẽ thành ra…', thì không hợp khi báo tin",
+   "ことがあります – 'thỉnh thoảng có khi…'",
+   "✔ ことになりました – 'đã được quyết định là…', báo tin khiêm tốn"
+  ],
+  "trans": "Tanaka: Thưa trưởng phòng, thật ra lần này em sắp kết hôn. Mong anh tiếp tục giúp đỡ. Trưởng phòng: Chúc mừng. Từ giờ cũng cố gắng nhé.",
+  "note": "Báo tin vui với cấp trên, người Nhật hay dùng ことになりました (sự việc đã thành ra vậy) cho khiêm tốn, dù thực chất là tự quyết."
+ },
+ "nihongopro:027e107b2f-4": {
+  "opts": [
+   "わけだ – 'thảo nào, hèn gì', kết luận hợp lý",
+   "ほうじゃない – 'không thuộc loại…', so sánh mức độ, không hợp",
+   "べきじゃない – 'không nên', lời khuyên",
+   "✔ はずがない – 'không thể nào', phủ định chắc chắn"
+  ],
+  "trans": "Bận thế này thì làm sao mà đi du lịch được.",
+  "note": "Vế trước nêu căn cứ khách quan (bận như vậy) → kết luận chắc chắn 'không thể nào' = はずがない."
+ },
+ "nihongopro:027e107b2f-5": {
+  "opts": [
+   "✔ た – Vたところ: vừa mới làm xong",
+   "ている – Vているところ: đang làm dở, không hợp",
+   "る – Vるところ: sắp làm, tức Ken vẫn còn ở nhà",
+   "て – không có dạng Vてところ"
+  ],
+  "trans": "(Qua điện thoại) Tanaka: A lô, Ken có nhà không ạ? Mẹ Ken: Ken vừa mới ra ngoài xong. Khi về tôi sẽ bảo nó gọi lại.",
+  "note": "Ken không có nhà, 'khi về sẽ gọi lại' → đã đi rồi, vừa mới xong: Vたところ."
+ },
+ "nihongopro:0565d33107-1": {
+  "opts": [
+   "としての – 'với tư cách là', không hợp",
+   "✔ に関する – 'liên quan đến', bổ nghĩa cho danh từ 質問",
+   "にとって – 'đối với (ai)', dùng cho người đánh giá",
+   "について – 'về', nhưng trước danh từ phải là についての"
+  ],
+  "trans": "Mọi thắc mắc liên quan đến kỳ thi, xin vui lòng gửi về địa chỉ dưới đây.",
+  "note": "Đứng trước danh từ cần dạng bổ nghĩa: に関する N / についての N. について trơn không nối thẳng vào N."
+ },
+ "nihongopro:0565d33107-2": {
+  "opts": [
+   "せいで – 'tại vì', dùng cho kết quả xấu",
+   "✔ おかげで – 'nhờ', dùng cho kết quả tốt",
+   "おかげさまで – câu xã giao 'nhờ trời/nhờ anh chị', không nối mệnh đề",
+   "ためで – không dùng nối giữa câu như vậy"
+  ],
+  "trans": "Nhờ bạn giúp nên công việc xong sớm.",
+  "note": "Việc xong sớm là kết quả tốt → おかげで. おかげさまで đứng một mình như lời cảm ơn xã giao."
+ },
+ "nihongopro:0565d33107-3": {
+  "opts": [
+   "らしい – 'đúng chất', và 冬らしい không có の",
+   "みたいだ – 'giống như', nhưng gắn thẳng N: 冬みたいだ",
+   "感じだ – 'cảm giác', không đi tự nhiên với まるで",
+   "✔ ようだ – Nのようだ: cứ như là, đi với まるで"
+  ],
+  "trans": "Tháng 9 mà lạnh quá. Cứ như là mùa đông vậy.",
+  "note": "まるで…ようだ = cứ như là… Chú ý cách nối: 冬のようだ nhưng 冬みたいだ (không có の)."
+ },
+ "nihongopro:0565d33107-4": {
+  "opts": [
+   "でも – 'nhưng', ở đây không có ý đối lập",
+   "✔ それで – 'vì thế, cho nên', nguyên nhân → kết quả",
+   "というのは – 'là bởi vì', giải thích lý do ở câu sau",
+   "それなのに – 'thế mà', kết quả trái mong đợi"
+  ],
+  "trans": "Toàn ăn đồ ngọt. Vì thế nên đã bị béo lên.",
+  "note": "Ăn đồ ngọt (nguyên nhân) → béo (kết quả tự nhiên) nên dùng それで."
+ },
+ "nihongopro:0565d33107-5": {
+  "opts": [
+   "みたいに – 'giống như', so sánh",
+   "ため – mục đích chỉ dùng với động từ ý chí",
+   "ために – mục đích + V ý chí; わかる không phải V ý chí",
+   "✔ ように – 'để cho (đạt trạng thái)', đi với V không ý chí"
+  ],
+  "trans": "Hãy nói chậm thôi để cả trẻ con cũng hiểu được.",
+  "note": "わかる là động từ không ý chí → mục đích dùng ように, không dùng ために."
+ },
+ "nihongopro:0e7713d7e9-1": {
+  "opts": [
+   "拝見しましたか – khiêm nhường ngữ, không dùng cho hành động của thầy",
+   "✔ ご覧になりましたか – tôn kính ngữ của 見る",
+   "ご覧ください – 'xin hãy xem', lời mời, không phải câu hỏi",
+   "お見になりましたか – dạng sai, 見る không chia như vậy"
+  ],
+  "trans": "Học sinh: 'Thưa thầy, thầy đã xem bộ phim mới chưa ạ?'",
+  "note": "Hành động của thầy → tôn kính ngữ: 見る → ご覧になる. 拝見する là khiêm nhường, dùng cho mình."
+ },
+ "nihongopro:0e7713d7e9-2": {
+  "opts": [
+   "✔ 拝見しました – khiêm nhường ngữ của 見る",
+   "お目にかかりました – khiêm nhường của 会う 'gặp', không dùng cho tranh",
+   "お見しました – dạng sai",
+   "ご拝見いたしました – thừa kính ngữ, sai"
+  ],
+  "trans": "Tôi đã được xem bức tranh giám đốc vẽ.",
+  "note": "Mình xem tác phẩm của giám đốc → khiêm nhường 拝見する. Không gắn thêm ご vào 拝見."
+ },
+ "nihongopro:0e7713d7e9-3": {
+  "opts": [
+   "✔ おります – khiêm nhường/lịch sự của いる, nói về nhà mình",
+   "いらっしゃいます – tôn kính, không dùng cho con mèo nhà mình",
+   "まいります – khiêm nhường của 行く/来る",
+   "あります – dùng cho đồ vật, không dùng cho động vật"
+  ],
+  "trans": "Nhà tôi có một con mèo.",
+  "note": "Mèo là sinh vật → いる; nói về nhà mình một cách lịch sự → おります."
+ },
+ "nihongopro:0e7713d7e9-4": {
+  "opts": [
+   "お召しになりました – tôn kính của 着る/乗る…, không phải 'uống'",
+   "いただかれました – dạng sai (khiêm nhường + tôn kính)",
+   "いただきました – khiêm nhường, dùng khi mình ăn/uống",
+   "✔ 召し上がりました – tôn kính của 食べる/飲む"
+  ],
+  "trans": "Giám đốc đã uống tới 3 ly bia.",
+  "note": "Hành động của giám đốc → tôn kính: 飲む → 召し上がる. いただく là khiêm nhường, chỉ dùng cho mình."
+ },
+ "nihongopro:0e7713d7e9-5": {
+  "opts": [
+   "ご存になります – dạng sai",
+   "ご存じます – dạng sai",
+   "✔ ご存じです – tôn kính của 知っている",
+   "存じております – khiêm nhường, dùng khi mình biết"
+  ],
+  "trans": "Giám đốc biết rất nhiều điều.",
+  "note": "知っている: tôn kính = ご存じだ, khiêm nhường = 存じております. Chủ ngữ là giám đốc nên chọn ご存じです."
+ },
+ "nihongopro:0e7713d7e9-6": {
+  "opts": [
+   "✔ 説明いたします – khiêm nhường (Nいたす), mình làm",
+   "説明なさいます – tôn kính, dùng cho người trên",
+   "説明されます – tôn kính dạng られる, dùng cho người khác",
+   "説明いらっしゃいます – dạng sai"
+  ],
+  "trans": "Về vấn đề này, tôi xin được giải thích.",
+  "note": "Chủ ngữ là わたし → dùng khiêm nhường: する → いたす."
+ },
+ "nihongopro:0e7713d7e9-7": {
+  "opts": [
+   "ございます – lịch sự của ある/です, không dùng giới thiệu tên với と",
+   "✔ 申します – khiêm nhường của 言う, giới thiệu tên mình",
+   "お言いします – dạng sai",
+   "おっしゃいます – tôn kính của 言う, dùng cho người khác"
+  ],
+  "trans": "Tên tôi là Tanaka.",
+  "note": "Nと申します = tôi tên là N (khiêm nhường). おっしゃる chỉ dùng cho người trên nói."
+ },
+ "nihongopro:1060e3557e-1": {
+  "opts": [
+   "の – sở hữu, không hợp",
+   "を – tân ngữ, 多い không có tân ngữ",
+   "に – nơi chốn/đối tượng, không hợp",
+   "✔ が – chủ ngữ của tính từ trong mẫu AはBが多い"
+  ],
+  "trans": "Tokyo đông người.",
+  "note": "Mẫu XはYが + tính từ: Tokyo (chủ đề) – người (chủ ngữ) – nhiều."
+ },
+ "nihongopro:1060e3557e-2": {
+  "opts": [
+   "が – chủ ngữ, sai",
+   "✔ に – Nに似ている: giống ai",
+   "へ – chỉ hướng, không hợp",
+   "を – 似る không đi với を"
+  ],
+  "trans": "Khuôn mặt tôi giống mẹ.",
+  "note": "似る luôn đi với に: 母に似ている = giống mẹ."
+ },
+ "nihongopro:1060e3557e-3": {
+  "opts": [
+   "と – không hợp",
+   "✔ が – Nがする: cảm nhận mùi/vị/âm thanh",
+   "を – する thường đi với を nhưng mẫu cảm nhận thì không",
+   "で – chỉ phương tiện, không hợp"
+  ],
+  "trans": "Hoa này có mùi thơm.",
+  "note": "香り・におい・味・音 + がする = cảm thấy có mùi/vị/tiếng…"
+ },
+ "nihongopro:1060e3557e-4": {
+  "opts": [
+   "に – không hợp",
+   "✔ を – tân ngữ của 掃除する",
+   "が – chủ ngữ, không hợp",
+   "へ – chỉ hướng, không hợp"
+  ],
+  "trans": "Ngày mai bạn đến chơi nên tôi sẽ dọn phòng sẵn.",
+  "note": "部屋を掃除する = dọn phòng; ておく = làm sẵn để chuẩn bị."
+ },
+ "nihongopro:1060e3557e-5": {
+  "opts": [
+   "で – nơi/phương tiện, không hợp",
+   "を – tân ngữ, không hợp",
+   "✔ に – người thực hiện hành động trong câu bị động",
+   "の – sở hữu, không hợp"
+  ],
+  "trans": "Hôm qua tôi được thầy khen.",
+  "note": "Câu bị động: (người làm)に + Vられる. ほめられる = được khen."
+ },
+ "nihongopro:13d461a03c-1": {
+  "opts": [
+   "✔ お読みになる – tôn kính: お+Vます+になる",
+   "お読みする – khiêm nhường, dùng cho mình",
+   "ご読みになる – sai, động từ thuần Nhật dùng お",
+   "ご読みする – sai cả tiền tố lẫn loại kính ngữ"
+  ],
+  "trans": "Thầy giáo đọc sách.",
+  "note": "Chủ ngữ là thầy → tôn kính お+Vます+になる. Tiền tố ご chỉ đi với từ Hán (ご紹介, ご説明…)."
+ },
+ "nihongopro:13d461a03c-2": {
+  "opts": [
+   "✔ ご紹介しました – khiêm nhường: ご+N(Hán)+する",
+   "お紹介になりました – sai tiền tố và sai loại kính ngữ",
+   "ご紹介になりました – tôn kính, dùng khi người trên giới thiệu",
+   "お紹介しました – sai tiền tố, 紹介 dùng ご"
+  ],
+  "trans": "Tôi đã giới thiệu gia đình mình với thầy.",
+  "note": "Mình làm cho thầy → khiêm nhường ご紹介する. 紹介 là từ Hán nên đi với ご."
+ },
+ "nihongopro:13d461a03c-3": {
+  "opts": [
+   "お帰りなりました – thiếu に (お帰りになりました mới đúng)",
+   "帰れました – thể khả năng 'đã về được'",
+   "お帰りました – dạng sai",
+   "✔ 帰られました – tôn kính dạng られる"
+  ],
+  "trans": "Anh/chị khóa trên đã về rồi.",
+  "note": "Tôn kính dạng bị động: 帰る → 帰られる. Nếu dùng お～になる thì phải là お帰りになりました."
+ },
+ "nihongopro:13d461a03c-4": {
+  "opts": [
+   "お届けになります – tôn kính, dùng cho người trên",
+   "ご届けします – sai tiền tố, 届ける dùng お",
+   "お届けられます – dạng sai",
+   "✔ お届けします – khiêm nhường: お+Vます+する"
+  ],
+  "trans": "Vào sinh nhật giám đốc, tôi sẽ mang quà đến tặng.",
+  "note": "Mình mang quà đến cho giám đốc → khiêm nhường お届けする."
+ },
+ "nihongopro:13d461a03c-5": {
+  "opts": [
+   "お持ちになりますか – tôn kính, hỏi thầy có tự mang không",
+   "お持ちしてあげます – てあげる với người trên là thất lễ",
+   "お持ちしてほしいですか – hỏi thẳng mong muốn người trên, thất lễ",
+   "✔ お持ちしましょうか – 'để em xách giúp nhé', đề nghị khiêm nhường"
+  ],
+  "trans": "Học sinh: 'Thưa thầy, để em xách hành lý giúp thầy nhé?'",
+  "note": "Đề nghị giúp người trên: お+Vます+しましょうか. Tránh てあげる và ほしいですか vì nghe kẻ cả."
+ },
+ "nihongopro:13d461a03c-6": {
+  "opts": [
+   "お話しする – khiêm nhường, dùng cho mình",
+   "✔ お話しになる – tôn kính của 話す",
+   "お話せる – dạng sai",
+   "お話しになられる – kính ngữ kép, thừa"
+  ],
+  "trans": "Thầy nói tiếng Nhật và tiếng Anh.",
+  "note": "Chủ ngữ là thầy → お話しになる. Thêm られる nữa là kính ngữ kép (二重敬語), sai."
+ },
+ "nihongopro:13d461a03c-7": {
+  "opts": [
+   "…でもいたしますか – いたす là khiêm nhường, dùng sai cho thầy",
+   "…を召し上がりたいですか – hỏi thẳng mong muốn người trên, thất lễ",
+   "✔ …でもいかがですか – 'thầy dùng chút… nhé?', lời mời lịch sự",
+   "…をお飲みになりたいですか – hỏi ～たい với người trên, thất lễ"
+  ],
+  "trans": "Học sinh: 'Thưa thầy, hôm nay lạnh nhỉ. Thầy dùng chút đồ uống nóng nhé?'",
+  "note": "Mời người trên dùng ～はいかがですか; tránh hỏi ～たいですか vì như dò ý muốn của họ."
+ },
+ "nihongopro:17eead2099-1": {
+  "opts": [
+   "✔ へ – chỉ hướng đi tới: 東京へ行く",
+   "で – nơi diễn ra hành động, không hợp với 行く",
+   "を – nơi đi qua/rời khỏi",
+   "の – sở hữu"
+  ],
+  "trans": "Tôi đi tàu điện đến Tokyo.",
+  "note": "Đích đến của 行く/来る/帰る dùng へ hoặc に."
+ },
+ "nihongopro:17eead2099-2": {
+  "opts": [
+   "から – 'từ', điểm xuất phát",
+   "へ – hướng di chuyển, không dùng với 住む",
+   "で – nơi hành động, nhưng 住む đi với に",
+   "✔ に – nơi cư trú: Nに住む"
+  ],
+  "trans": "Anh Tanaka đang sống ở Mỹ.",
+  "note": "住む dùng に (nơi tồn tại lâu dài), không dùng で. Dễ nhầm với 働く (Nで働く)."
+ },
+ "nihongopro:17eead2099-3": {
+  "opts": [
+   "✔ を – nơi đi qua: 橋を渡る",
+   "に – đích đến, không hợp với 渡る ở đây",
+   "で – nơi hành động, không dùng cho chỗ băng qua",
+   "へ – chỉ hướng"
+  ],
+  "trans": "Qua cây cầu này rồi đi thẳng là có trường học đấy.",
+  "note": "Động từ di chuyển (渡る・通る・歩く) + を chỉ nơi đi qua."
+ },
+ "nihongopro:17eead2099-4": {
+  "opts": [
+   "と – 'cùng với', không hợp",
+   "を – tân ngữ đã có (サンドイッチを)",
+   "✔ で – nơi diễn ra hành động",
+   "に – nơi tồn tại, không dùng cho hành động ăn"
+  ],
+  "trans": "Tôi ăn bánh sandwich ở công viên.",
+  "note": "Nơi xảy ra hành động (ăn, học, chơi…) dùng で."
+ },
+ "nihongopro:17eead2099-5": {
+  "opts": [
+   "✔ から/まで – từ… đến…",
+   "まで/から – đảo ngược thứ tự, sai",
+   "より/のほうが – mẫu so sánh, không hợp どのくらいかかる",
+   "のほうが/より – mẫu so sánh, không hợp"
+  ],
+  "trans": "Từ Tokyo đến Mỹ mất khoảng bao lâu?",
+  "note": "AからBまで + かかる = mất bao lâu từ A đến B."
+ },
+ "nihongopro:17eead2099-6": {
+  "opts": [
+   "へ – chỉ hướng",
+   "に – nơi tồn tại đồ vật; sự kiện thì dùng で",
+   "✔ で – nơi diễn ra sự kiện: Nでパーティがある",
+   "を – không hợp"
+  ],
+  "trans": "Hôm nay có tiệc ở nhà anh Tanaka.",
+  "note": "あります với sự kiện (tiệc, họp, thi) → nơi chốn dùng で; với đồ vật thì dùng に."
+ },
+ "nihongopro:18803365d6-1": {
+  "opts": [
+   "によって – 'tùy theo, bởi', không chỉ địa điểm",
+   "に関して – 'liên quan đến'",
+   "にして – 'ở mức…', không hợp",
+   "✔ において – 'tại, ở' (trang trọng = で)"
+  ],
+  "trans": "Bài thi toán sẽ được tổ chức tại phòng A.",
+  "note": "Nにおいて = Nで, văn trang trọng, chỉ nơi/thời điểm diễn ra sự kiện."
+ },
+ "nihongopro:18803365d6-2": {
+  "opts": [
+   "✔ に沿って – 'theo, bám theo' (tài liệu, kế hoạch)",
+   "によって – 'tùy theo / bởi', không hợp",
+   "にとって – 'đối với (ai)'",
+   "にあたって – 'nhân dịp, khi bắt đầu'"
+  ],
+  "trans": "Tôi sẽ giải thích theo tài liệu đã phát.",
+  "note": "Nに沿って = làm theo, bám sát N; hay đi với 資料・マニュアル・方針・川."
+ },
+ "nihongopro:18803365d6-3": {
+  "opts": [
+   "によって – 'tùy theo, bởi'",
+   "にとって – 'đối với (ai)'",
+   "にあたって – 'nhân dịp'",
+   "✔ に関して – 'liên quan đến, về'"
+  ],
+  "trans": "Về phần giải thích nãy giờ, mọi người có câu hỏi gì không?",
+  "note": "Hỏi về nội dung nào đó: Nに関して/Nについて質問がある."
+ },
+ "nihongopro:18803365d6-4": {
+  "opts": [
+   "について – 'về'",
+   "✔ によって – 'bởi, theo' (căn cứ/tác nhân)",
+   "に対して – 'đối với, hướng tới'",
+   "にとって – 'đối với (ai)', mang tính đánh giá"
+  ],
+  "trans": "Việc trẻ em uống bia bị pháp luật cấm.",
+  "note": "Bị động với tác nhân là luật/tổ chức: Nによって禁止されている."
+ },
+ "nihongopro:18803365d6-5": {
+  "opts": [
+   "にして – không hợp",
+   "において – 'tại', chỉ nơi chốn",
+   "にとって – 'đối với ai (thì thế nào)', mang tính đánh giá",
+   "✔ に対して – 'đối với', hướng về người nhận hành động"
+  ],
+  "trans": "Đối với người trên thì hãy dùng kính ngữ.",
+  "note": "Hành động/thái độ hướng tới ai → に対して. にとって đi với đánh giá: 私にとって大切だ."
+ },
+ "nihongopro:18803365d6-6": {
+  "opts": [
+   "によって – 'tùy theo, bởi'",
+   "に関して – 'liên quan đến'",
+   "✔ にとって – 'đối với (ai), theo quan điểm của'",
+   "について – 'về'"
+  ],
+  "trans": "Đối với công ty chúng tôi, nhân viên giống như người trong gia đình.",
+  "note": "Nにとって + nhận định/đánh giá = theo góc nhìn của N."
+ },
+ "nihongopro:18803365d6-7": {
+  "opts": [
+   "✔ によって – 'dựa vào, tùy theo'",
+   "に関して – 'liên quan đến'",
+   "について – 'về'",
+   "にとって – 'đối với (ai)'"
+  ],
+  "trans": "Sẽ xếp lớp dựa theo thành tích bài thi.",
+  "note": "Nによって決める = quyết định căn cứ vào N."
+ },
+ "nihongopro:1a39e0c81a-1": {
+  "opts": [
+   "ようだ – 'hình như', phỏng đoán",
+   "ようになっている – 'đã trở nên/được thiết kế để', không hợp",
+   "✔ ことにしている – tự đặt thói quen, quy tắc cho bản thân",
+   "ことになっている – quy định do người khác/tổ chức đặt"
+  ],
+  "trans": "Vì sức khỏe, sáng nào tôi cũng chạy bộ (đã thành thói quen).",
+  "note": "Tự mình quyết định và duy trì → ことにしている; quy định từ bên ngoài → ことになっている."
+ },
+ "nihongopro:1a39e0c81a-2": {
+  "opts": [
+   "入れる – tha động từ 'cho vào', cần người làm",
+   "入るつもり – 'định vào', không dùng cho đồ vật",
+   "✔ 入る – tự động từ 'chứa được, vào được'",
+   "入られる – bị động/kính ngữ, không hợp"
+  ],
+  "trans": "Cái túi này nhẹ mà đựng được nhiều nên tiện khi đi du lịch.",
+  "note": "Chủ ngữ là cái túi → dùng tự động từ 入る (đồ vào được), không dùng 入れる."
+ },
+ "nihongopro:1a39e0c81a-3": {
+  "opts": [
+   "のとおりに – dạng N+のとおりに, không nối sau động từ",
+   "✔ とおりに – Vた + とおりに: đúng như",
+   "おなじに – không có cách nối này",
+   "どおりに – gắn sau danh từ (指示どおりに), không sau động từ"
+  ],
+  "trans": "Tôi đã chép vào vở đúng như thầy đã viết.",
+  "note": "Vた + とおりに; N + のとおりに hoặc N + どおりに. Sau 書いた (động từ) chỉ dùng とおりに."
+ },
+ "nihongopro:1a39e0c81a-4": {
+  "opts": [
+   "ぐらい – 'khoảng, cỡ'",
+   "だけ – 'chỉ'",
+   "ずくめ – 'toàn là' (thường điều tốt/màu: いいことずくめ)",
+   "✔ だらけ – 'đầy, toàn là' (điều không hay)"
+  ],
+  "trans": "Bài kiểm tra toán toàn là lỗi sai.",
+  "note": "Nだらけ = đầy những N, thường mang nghĩa tiêu cực (間違い, 傷, ほこり)."
+ },
+ "nihongopro:1a39e0c81a-5": {
+  "opts": [
+   "だけで – 'chỉ cần… là', không hợp với 休めない",
+   "ぐらい – thiếu で, không nối được với vế sau",
+   "なら – 'nếu là'",
+   "✔ くらいで – 'chỉ vì chuyện cỏn con như…'"
+  ],
+  "trans": "Chỉ bị cảm thôi thì không thể nghỉ làm được.",
+  "note": "Nくらいで + phủ định = chỉ vì chuyện nhỏ như N thì không… Ngụ ý N không đáng kể."
+ },
+ "nihongopro:1c101bd23a-1": {
+  "opts": [
+   "使わざるをえない – buộc phải dùng",
+   "✔ のぞいては – ngoại trừ",
+   "場合を – trường hợp",
+   "食べたり – ăn (…hay…)"
+  ],
+  "trans": "Thực phẩm dự trữ khẩn cấp thì ngoài trường hợp bắt buộc phải dùng, không được ăn hay uống.",
+  "note": "Câu đúng: 非常用食料は、使わざるをえない場合をのぞいては食べたり飲んだりしてはいけません。★ = のぞいては. Nをのぞいては = ngoại trừ N; Vざるをえない = buộc phải."
+ },
+ "nihongopro:1c101bd23a-2": {
+  "opts": [
+   "どこへ – đi đâu",
+   "急いで – vội vàng",
+   "✔ そんなに – đến thế",
+   "行くんですか – đi vậy?"
+  ],
+  "trans": "A: Anh Tanaka, vội vàng thế đi đâu vậy? B: Trước ga có đợt giảm giá giờ vàng đến 10 giờ.",
+  "note": "Câu đúng: 田中さん、そんなに急いでどこへ行くんですか。★ = そんなに. そんなに bổ nghĩa cho 急いで; ～んですか hỏi về điều mình thấy."
+ },
+ "nihongopro:1c101bd23a-3": {
+  "opts": [
+   "✔ ばかりの – vừa mới…",
+   "中国から – từ Trung Quốc",
+   "届いた – đã gửi đến",
+   "昨日 – hôm qua"
+  ],
+  "trans": "Hôm nay chúng tôi chiếu bộ phim vừa mới được gửi từ Trung Quốc về hôm qua.",
+  "note": "Câu đúng: 今日は昨日中国から届いたばかりの映画を上映します。★ = ばかりの. Vたばかりの + N = N vừa mới…"
+ },
+ "nihongopro:1c101bd23a-4": {
+  "opts": [
+   "お茶 – trà",
+   "聞きながら – vừa nghe",
+   "CDを – đĩa CD",
+   "✔ でも – …chẳng hạn (rủ nhẹ)"
+  ],
+  "trans": "Nếu có thời gian thì cùng vừa nghe CD vừa uống trà nhé?",
+  "note": "Câu đúng: 時間があるならCDを聞きながらお茶でも飲みませんか。★ = でも. Nでも + Vませんか: rủ rê nhẹ nhàng; Vながら = vừa… vừa."
+ },
+ "nihongopro:1c101bd23a-5": {
+  "opts": [
+   "✔ 帰ってきた – đã về",
+   "急に – đột nhiên",
+   "とたんに – vừa… thì ngay",
+   "うちへ – về nhà"
+  ],
+  "trans": "Tôi vừa về đến nhà thì trời đột nhiên đổ mưa.",
+  "note": "Câu đúng: うちへ帰ってきたとたんに急に雨が降りはじめた。★ = 帰ってきた. Vたとたんに = vừa mới… thì liền."
+ },
+ "nihongopro:21575a14a4-1": {
+  "opts": [
+   "いただきました – khiêm nhường của もらう",
+   "いらっしゃいました – tôn kính, không dùng cho thời tiết",
+   "ごらんになりました – tôn kính của 見る",
+   "✔ まいりました – dạng trang trọng của てくる: dần trở nên"
+  ],
+  "trans": "Trời mỗi ngày một lạnh hơn, dạo này anh/chị vẫn khỏe chứ ạ?",
+  "note": "Vてくる (thay đổi dần) trong thư trang trọng → Vてまいりました. Đây là câu chào mở đầu thư quen thuộc."
+ },
+ "nihongopro:21575a14a4-2": {
+  "opts": [
+   "お見えになっても – tôn kính của 来る, dùng khi thầy đến",
+   "おいでになっても – tôn kính của 来る/行く, dùng cho thầy",
+   "いらっしゃって – tôn kính, lại thiếu も",
+   "✔ うかがっても – khiêm nhường của 行く/訪ねる, mình đến"
+  ],
+  "trans": "Thưa thầy, chiều nay 2 giờ em đến phòng nghiên cứu có được không ạ?",
+  "note": "Mình đến chỗ thầy → khiêm nhường うかがう. Vてもよろしいでしょうか = xin phép lịch sự."
+ },
+ "nihongopro:21575a14a4-3": {
+  "opts": [
+   "✔ 行っている – Vているうちに: trong lúc đang…",
+   "行ってしまう – không đi với うちに theo nghĩa này",
+   "行っても – 'dù có đi', không nối với うちに",
+   "行っておく – 'đi sẵn', không hợp"
+  ],
+  "trans": "Trong lúc tôi đi vệ sinh thì chương trình muốn xem đã hết mất.",
+  "note": "Vているうちに + thay đổi ngoài ý muốn = trong lúc đang… thì (không hay biết)…"
+ },
+ "nihongopro:21575a14a4-4": {
+  "opts": [
+   "そうに – 'trông có vẻ', không chỉ mục đích",
+   "からに – không có nghĩa phù hợp",
+   "みたいに – 'giống như', so sánh",
+   "✔ ように – 'để cho' với V không ý chí"
+  ],
+  "trans": "Hãy nói bằng từ ngữ dễ hiểu để ai cũng hiểu được.",
+  "note": "わかる là động từ không ý chí nên mục đích dùng ように (không dùng ために)."
+ },
+ "nihongopro:21575a14a4-5": {
+  "opts": [
+   "休まれて – tôn kính/bị động, không dùng để xin phép",
+   "お休みになって – tôn kính, cho người khác nghỉ",
+   "✔ 休ませて – Vさせていただきたい: xin cho phép tôi…",
+   "休ませられて – sai khiến bị động, sai"
+  ],
+  "trans": "A: Hôm nay tôi bị sốt nên xin cho phép tôi được nghỉ. B: Tôi hiểu rồi. Anh giữ gìn sức khỏe nhé.",
+  "note": "Xin phép làm gì: Vさせていただきたいのですが – cách nói khiêm nhường, lịch sự."
+ },
+ "nihongopro:33b8265a29-1": {
+  "opts": [
+   "くせに – 'vậy mà', chê trách",
+   "✔ おかげで – 'nhờ', kết quả tốt",
+   "せいで – 'tại vì', kết quả xấu",
+   "わりに – 'so với… thì', trái kỳ vọng"
+  ],
+  "trans": "Nhờ thầy mà em đã đỗ đại học.",
+  "note": "Đỗ đại học là kết quả tốt → Nのおかげで."
+ },
+ "nihongopro:33b8265a29-2": {
+  "opts": [
+   "おかげで – 'nhờ', không phải quan hệ nhân quả ở đây",
+   "✔ わりに – 'so với… thì (khác dự đoán)'",
+   "ために – 'vì, để'",
+   "くせに – 'thế mà', chê trách người"
+  ],
+  "trans": "Bánh ở tiệm này rẻ mà ngon lắm đấy.",
+  "note": "Rẻ thì thường không ngon lắm → ngon là ngoài dự đoán: ～わりに."
+ },
+ "nihongopro:33b8265a29-3": {
+  "opts": [
+   "かわって – 'thay cho'",
+   "とって – 'đối với'",
+   "かぎって – 'riêng (lúc)… thì lại'",
+   "✔ よって – 'tùy theo': Nによって違う"
+  ],
+  "trans": "Điều gì quan trọng thì mỗi người mỗi khác.",
+  "note": "Nによって違う/異なる = khác nhau tùy theo N."
+ },
+ "nihongopro:33b8265a29-4": {
+  "opts": [
+   "おかげで – 'nhờ'",
+   "せいで – 'tại vì'",
+   "✔ かわりに – 'thay cho'",
+   "くせに – 'thế mà'"
+  ],
+  "trans": "Tôi đến lấy thuốc thay cho bố.",
+  "note": "Nのかわりに = thay cho N, làm việc mà lẽ ra N làm."
+ },
+ "nihongopro:33b8265a29-5": {
+  "opts": [
+   "とおりに – 'đúng như'",
+   "よって – phải là 地震によって, không đi sau の",
+   "✔ せいで – 'do, tại', nguyên nhân xấu",
+   "くせに – 'thế mà', chê trách"
+  ],
+  "trans": "Nghe nói có hơn 1000 căn nhà bị đổ do trận động đất vừa rồi.",
+  "note": "Nのせいで + kết quả xấu. よって phải nối là 地震によって, không đi sau の."
+ },
+ "nihongopro:43462b7a6c-1": {
+  "opts": [
+   "だろうに – 'chắc là… thế mà'",
+   "✔ するに – Vるに決まっている: chắc chắn là",
+   "だけに – 'chính vì'",
+   "したと – không nối với 決まっている"
+  ],
+  "trans": "Bố chắc chắn sẽ phản đối việc tôi kết hôn.",
+  "note": "V辞書形 + に決まっている = chắc chắn, nhất định là (khẳng định chủ quan mạnh)."
+ },
+ "nihongopro:43462b7a6c-2": {
+  "opts": [
+   "だけ – 'chỉ'",
+   "もの – 'vì', không hợp",
+   "✔ はず – 'đáng lẽ, chắc chắn là'",
+   "よう – 'hình như'"
+  ],
+  "trans": "Chắc chắn tôi đã bỏ vào túi rồi, vậy mà không thấy ví đâu.",
+  "note": "Vたはずなのに = chắc chắn là đã… vậy mà (thực tế khác)."
+ },
+ "nihongopro:43462b7a6c-3": {
+  "opts": [
+   "おそれは – 'e rằng'",
+   "✔ 際は – 'khi, lúc' (trang trọng)",
+   "うちに – 'trong lúc còn…'",
+   "とすれば – 'nếu giả sử'"
+  ],
+  "trans": "Khi xuống tàu, xin quý khách chú ý dưới chân.",
+  "note": "Nの際は = khi N (thông báo trang trọng ở ga, cửa hàng)."
+ },
+ "nihongopro:43462b7a6c-4": {
+  "opts": [
+   "じゃ – rút gọn của では",
+   "ちゃ – rút gọn của ては",
+   "りゃ – rút gọn của れば",
+   "✔ なきゃ – rút gọn của なければ"
+  ],
+  "trans": "Không dậy ngay là đi trễ đấy.",
+  "note": "Văn nói: Vなきゃ = Vなければ (nếu không…); cũng hay dùng như Vなきゃ(いけない) = phải…"
+ },
+ "nihongopro:43462b7a6c-5": {
+  "opts": [
+   "おさえて – 'kìm nén'",
+   "✔ こめて – 心をこめて: dồn cả tấm lòng",
+   "つくして – 'tận lực' (全力をつくす), không đi với 心を",
+   "入れて – 'cho vào', không dùng với 心"
+  ],
+  "trans": "Tôi đã nấu ăn bằng cả tấm lòng cho gia đình.",
+  "note": "心をこめて = với cả tấm lòng; cụm cố định hay đi với 作る・書く・歌う."
+ },
+ "nihongopro:517b89436f-1": {
+  "opts": [
+   "決して – 'tuyệt đối không', đi với phủ định",
+   "まるで – 'cứ như là'",
+   "どんな – 'thế nào', cần danh từ theo sau",
+   "✔ たとえ – たとえ～ても: dù cho"
+  ],
+  "trans": "Dù lương có thấp đi nữa, tôi vẫn muốn làm công việc mình thích.",
+  "note": "たとえ đi cặp với ～ても/でも = dù cho."
+ },
+ "nihongopro:517b89436f-2": {
+  "opts": [
+   "もしかして – 'không lẽ, có khi nào'",
+   "たとえ – 'dù cho', cần ～ても",
+   "✔ 必ずしも – 'không hẳn', đi với とは限らない",
+   "まるで – 'cứ như'"
+  ],
+  "trans": "Người tốt nghiệp trường đại học tốt chưa chắc đã làm việc giỏi.",
+  "note": "必ずしも～とは限らない/わけではない = không nhất thiết là…"
+ },
+ "nihongopro:517b89436f-3": {
+  "opts": [
+   "たとえ – 'dù cho'",
+   "決して – 'tuyệt đối không'",
+   "✔ まるで – 'cứ như là', đi với ようだ",
+   "もちろん – 'tất nhiên'"
+  ],
+  "trans": "Bức tranh kia tuyệt quá nhỉ. Cứ như ảnh chụp vậy.",
+  "note": "まるで～ようだ/みたいだ = cứ như là… (so sánh ví von)."
+ },
+ "nihongopro:517b89436f-4": {
+  "opts": [
+   "もしかすると – 'có lẽ'",
+   "たとえ – 'dù cho'",
+   "✔ 決して – 'tuyệt đối (không)', đi với phủ định",
+   "必ずしも – 'không hẳn'"
+  ],
+  "trans": "Ban đêm nguy hiểm nên tuyệt đối đừng ra ngoài.",
+  "note": "決して + phủ định (ないで/ない) = tuyệt đối không."
+ },
+ "nihongopro:517b89436f-5": {
+  "opts": [
+   "決して – đi với phủ định",
+   "たとえ – cần ～ても",
+   "✔ もしかすると – 'có lẽ', đi với かもしれない",
+   "必ず – 'nhất định', mâu thuẫn với かもしれない"
+  ],
+  "trans": "Chuyện đó không chừng là thật đấy nhỉ.",
+  "note": "もしかすると/もしかしたら ～かもしれない = biết đâu, không chừng."
+ },
+ "nihongopro:5962b337cc-1": {
+  "opts": [
+   "に対して – 'đối với', hướng tới người",
+   "✔ に関する – 'liên quan đến', bổ nghĩa danh từ",
+   "にしての – không có dạng này",
+   "について – trước danh từ phải là についての"
+  ],
+  "trans": "Thắc mắc về lễ hội xin gọi đến số điện thoại dưới đây.",
+  "note": "Trước danh từ (質問): に関する N hoặc についての N."
+ },
+ "nihongopro:5962b337cc-2": {
+  "opts": [
+   "ことを – tân ngữ, 有名 không có tân ngữ",
+   "✔ ことで – ～ことで有名: nổi tiếng vì…",
+   "ことに – không hợp",
+   "ことの – không hợp"
+  ],
+  "trans": "Thị trấn này nổi tiếng vì có khách du lịch từ khắp thế giới đổ về.",
+  "note": "Nで有名 = nổi tiếng về N; mệnh đề thì danh từ hóa: Vることで有名."
+ },
+ "nihongopro:5962b337cc-3": {
+  "opts": [
+   "します – khẳng định, mâu thuẫn với てからでないと",
+   "しませんでした – quá khứ, không hợp",
+   "できます – khẳng định, mâu thuẫn",
+   "✔ できません – てからでないと + phủ định"
+  ],
+  "trans": "Nếu chưa nhận tiền thì chúng tôi không thể giao hàng.",
+  "note": "Vてからでないと～ない = nếu chưa… thì không thể… Vế sau luôn là phủ định/khó khăn."
+ },
+ "nihongopro:5962b337cc-4": {
+  "opts": [
+   "ためで – không nối giữa câu được",
+   "せいで – 'tại vì', kết quả xấu",
+   "ばかりで – 'chỉ toàn…'",
+   "✔ おかげで – 'nhờ', kết quả tốt"
+  ],
+  "trans": "Nhờ anh ấy giúp mà công việc xong sớm.",
+  "note": "Kết quả tốt nhờ ơn người khác → おかげで."
+ },
+ "nihongopro:5962b337cc-5": {
+  "opts": [
+   "かもしれない – 'có lẽ', không đi với まるで",
+   "✔ ようだ – Nのようだ: cứ như là",
+   "みたいだ – nghĩa giống nhưng phải là 冬みたいだ (không の)",
+   "だった – 'đã là', không hợp まるで"
+  ],
+  "trans": "Tháng 4 mà tuyết rơi. Cứ như mùa đông vậy.",
+  "note": "まるで～のようだ; chú ý 冬のようだ / 冬みたいだ — みたい không đi sau の."
+ },
+ "nihongopro:6412161a82-1": {
+  "opts": [
+   "✔ べきだ – nên",
+   "遊ぶ – chơi",
+   "と思います – tôi nghĩ",
+   "元気に – khỏe khoắn"
+  ],
+  "trans": "A: Dạo này nhiều trẻ con chơi game trong nhà nhỉ. B: Tôi nghĩ trẻ con thì quả nhiên nên chơi ngoài trời cho khỏe.",
+  "note": "Câu đúng: 私は子どもはやっぱり外で元気に遊ぶべきだと思います。★ = べきだ. V辞書形 + べきだ = nên; と思います đứng cuối."
+ },
+ "nihongopro:6412161a82-2": {
+  "opts": [
+   "恋人 – người yêu",
+   "✔ できた – có (người yêu)",
+   "が – trợ từ chủ ngữ",
+   "にちがいない – chắc chắn là"
+  ],
+  "trans": "A: Dạo này Tanaka xinh ra nhỉ. B: Ừ. Chắc chắn là có người yêu mới rồi.",
+  "note": "Câu đúng: きっと新しい恋人ができたにちがいない。★ = できた. 恋人ができる = có người yêu; きっと～にちがいない = chắc chắn là."
+ },
+ "nihongopro:6412161a82-3": {
+  "opts": [
+   "知りませんでした – đã không biết",
+   "✔ とは – rằng (bất ngờ)",
+   "結婚している – đã kết hôn",
+   "が – trợ từ chủ ngữ"
+  ],
+  "trans": "Tôi không hề biết là anh Tanaka đã kết hôn.",
+  "note": "Câu đúng: 田中さんが結婚しているとは知りませんでした。★ = とは. ～とは知らなかった = không ngờ là…, nhấn mạnh sự bất ngờ."
+ }
+}

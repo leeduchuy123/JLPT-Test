@@ -1,0 +1,802 @@
+{
+ "japanesequizzes:grammar-5-6415": {
+  "opts": [
+   "ても – 'dù… cũng', nhưng phải nối 辛くても, không nối 辛い+ても",
+   "✔ にしても – 'cho dù… đi nữa', nối thẳng sau 辛い",
+   "ものだから – 'vì… (biện minh)', không hợp với たとえ",
+   "ことだから – 'vì là… (tính cách đã biết)', không hợp"
+  ],
+  "trans": "Cho dù có vất vả đến đâu đi nữa cũng phải cố gắng đến cùng.",
+  "note": "たとえ…にしても: 'cho dù… đi nữa'. ても cũng đúng nghĩa nhưng phải đổi 辛い → 辛くても, nên không khớp chỗ trống."
+ },
+ "japanesequizzes:grammar-5-6416": {
+  "opts": [
+   "✔ いただきます – 'xin phép cho tôi được về', khiêm nhường",
+   "やります – 'làm cho người dưới', sai hướng",
+   "くれます – 'người khác làm cho tôi', chủ ngữ là tôi nên sai",
+   "くださいます – kính ngữ của くれる, cũng sai hướng"
+  ],
+  "trans": "Vì đau đầu nên hôm nay xin phép cho tôi về nhà đến đây thôi.",
+  "note": "〜させていただく: xin phép được làm gì (khiêm nhường). Người nói tự về nên dùng いただく, không dùng くれる/くださる."
+ },
+ "japanesequizzes:grammar-5-6417": {
+  "opts": [
+   "伝える – thể từ điển, không vào mẫu お〜ください",
+   "伝えして – お〜する là khiêm nhường, không ghép với ください",
+   "✔ 伝え – gốc ます: お伝えください 'xin hãy nhắn giúp'",
+   "伝えて – thể て không đứng sau お"
+  ],
+  "trans": "Xin gửi lời hỏi thăm đến mọi người trong gia đình anh/chị.",
+  "note": "お + V(gốc ます) + ください = kính ngữ của 〜てください. Nhớ: お伝えください, お待ちください."
+ },
+ "japanesequizzes:grammar-5-6418": {
+  "opts": [
+   "のものだから – không có mẫu này",
+   "✔ である – N である以上 'một khi đã là…'",
+   "の – 以上 không nối với N の",
+   "という – 'gọi là', không hợp với 以上"
+  ],
+  "trans": "Một khi đã là cha mẹ – con cái thì không thể thờ ơ với cuộc sống của nhau được.",
+  "note": "N である以上 / V 以上: 'một khi đã… thì đương nhiên phải'. (?) Đề gõ nhầm: 新子 → 親子, お互いにの → お互いの."
+ },
+ "japanesequizzes:grammar-5-6419": {
+  "opts": [
+   "貸しても – thể ても, không hợp sau お",
+   "貸して – thể て, không ghép お〜願う",
+   "貸す – thể từ điển, sai",
+   "✔ 貸し – gốc ます: お貸し願えませんか 'có thể cho mượn không?'"
+  ],
+  "trans": "Anh/chị có thể cho tôi mượn xe khoảng hai tiếng được không ạ?",
+  "note": "お + V(gốc ます) + 願えませんか: cách nhờ vả rất lịch sự, cùng kiểu với お〜ください, お〜いただけませんか."
+ },
+ "japanesequizzes:grammar-5-6420": {
+  "opts": [
+   "によって – 'tùy theo/bởi', không hợp ý so sánh",
+   "から – 'từ', sai nghĩa",
+   "✔ と違って – 'khác với ngày thường'",
+   "にそって – 'dọc theo/theo đúng', sai"
+  ],
+  "trans": "Chủ nhật thì khác với ngày thường, trung tâm thương mại rất đông.",
+  "note": "N と違って: 'khác với N' – so sánh đối lập hai đối tượng."
+ },
+ "japanesequizzes:grammar-5-6421": {
+  "opts": [
+   "育ち – gốc ます của 育つ 'lớn lên' (tự động từ), không đi với を",
+   "育つ – thể từ điển, không nối ながら",
+   "✔ 育て – gốc ます của 育てる 'nuôi dạy': 子供を育てながら",
+   "育てる – thể từ điển, ながら cần gốc ます"
+  ],
+  "trans": "Chị Namura vừa nuôi con vừa học cả cao học.",
+  "note": "V(gốc ます) + ながら: 'vừa… vừa…'. 育てる (tha động từ, có を) khác 育つ (tự lớn lên)."
+ },
+ "japanesequizzes:grammar-5-6422": {
+  "opts": [
+   "ついで – 'nhân tiện', sai",
+   "を通して – 'thông qua', sai",
+   "とおりに – 'theo đúng như', sai",
+   "✔ にこたえて – 'đáp lại tràng vỗ tay'"
+  ],
+  "trans": "Nghệ sĩ dương cầm đã cúi chào nhiều lần để đáp lại tràng pháo tay của khán giả.",
+  "note": "N にこたえて (に応えて): 'đáp lại/đáp ứng N' – 期待にこたえて, 要望にこたえて."
+ },
+ "japanesequizzes:grammar-5-6423": {
+  "opts": [
+   "あるなら – 'nếu có', sai",
+   "✔ あるし – 'có khi… và cũng có khi…', liệt kê",
+   "あるもので – không tự nhiên",
+   "あることで – 'bằng việc có', sai"
+  ],
+  "trans": "Vì tăng ca nên giờ ngủ thất thường, có hôm ngủ sớm, cũng có hôm tới nửa đêm.",
+  "note": "〜こともあるし、〜こともある: 'có lúc A, có lúc B'. し nối hai vế cùng loại."
+ },
+ "japanesequizzes:grammar-5-6424": {
+  "opts": [
+   "にくわえて – 'thêm vào', sai",
+   "のおかげで – 'nhờ vào', sai nghĩa",
+   "✔ をめぐって – 'xoay quanh tài sản' (tranh cãi)",
+   "ついでに – 'nhân tiện', sai"
+  ],
+  "trans": "Nghe nói họ hàng đang cãi nhau xoay quanh số tài sản để lại.",
+  "note": "N をめぐって: 'xoay quanh N' – thường đi với tranh luận, cãi vã, đối lập."
+ },
+ "japanesequizzes:grammar-5-6425": {
+  "opts": [
+   "ばかりではない – 'không chỉ', sai",
+   "✔ ばかりだ – 'chỉ còn việc chờ' (mọi thứ đã xong)",
+   "一方だ – 'ngày càng', đi với động từ biến đổi",
+   "増えて – không phải mẫu ngữ pháp"
+  ],
+  "trans": "Phòng đã dọn sạch, giờ chỉ còn việc chờ khách đến thôi.",
+  "note": "V(từ điển) + ばかりだ: 'chỉ còn mỗi việc…', chuẩn bị xong hết. (?) Đề gõ nhầm 持つ → 待つ."
+ },
+ "japanesequizzes:grammar-50-6962": {
+  "opts": [
+   "別に – 'ngoài ra', không đi với を",
+   "他に – 'khác', không đi với を",
+   "ほか – 'ngoài', phải là のほか",
+   "✔ 除いて – 'ngoại trừ cửa hàng độc quyền'"
+  ],
+  "trans": "Nghe nói món hàng này ngoại trừ cửa hàng độc quyền ra thì không còn mua được ở đâu nữa.",
+  "note": "N を除いて: 'trừ N ra'. Trước chỗ trống có を nên chỉ 除いて khớp."
+ },
+ "japanesequizzes:grammar-50-6963": {
+  "opts": [
+   "✔ に代わって – 'thay cho thầy Osawa'",
+   "にとって – 'đối với', sai",
+   "として – 'với tư cách', sai",
+   "によって – 'bởi/tùy', sai"
+  ],
+  "trans": "Thay cho thầy Osawa đang nằm viện, hiện giờ một giáo viên mới đang dạy.",
+  "note": "N に代わって: 'thay cho N'."
+ },
+ "japanesequizzes:grammar-50-6964": {
+  "opts": [
+   "にそって – 'dọc theo/theo', sai",
+   "✔ にともなって – 'cùng với sự trưởng thành'",
+   "こそ – nhấn mạnh, sai",
+   "でさえ – 'ngay cả', sai"
+  ],
+  "trans": "Cùng với sự trưởng thành về tâm hồn, cách suy nghĩ chắc cũng sẽ dần thay đổi.",
+  "note": "N にともなって: 'cùng với/kéo theo N' – hai thay đổi đi kèm nhau."
+ },
+ "japanesequizzes:grammar-50-6965": {
+  "opts": [
+   "✔ にかけて – 'từ… đến (khoảng)…'",
+   "にまで – 'cho đến tận', không đi cặp với から kiểu này",
+   "にしたがって – 'theo', sai",
+   "にそって – 'dọc theo', sai"
+  ],
+  "trans": "Nghe nói hôm qua mưa to từ Hokkaido đến vùng phía bắc Honshu.",
+  "note": "A から B にかけて: 'từ A đến B' (phạm vi mơ hồ, không rõ ranh giới)."
+ },
+ "japanesequizzes:grammar-50-6966": {
+  "opts": [
+   "ます – không nối trực tiếp sau danh từ お帰り",
+   "✔ です – お帰りです: kính ngữ 'ngài về'",
+   "にします – 'quyết định chọn', sai",
+   "します – お帰りします là khiêm nhường, không dùng cho sếp"
+  ],
+  "trans": "Trưởng phòng Watanabe lúc nào cũng về lúc 9 giờ tối.",
+  "note": "お + V(gốc ます) + です: kính ngữ chỉ hành động người trên (お帰りです, お出かけです). お〜します là khiêm nhường."
+ },
+ "japanesequizzes:grammar-50-6967": {
+  "opts": [
+   "ないわけにはいかない – 'không thể không', phải nối với V ない",
+   "ばかりか – 'không chỉ', câu không hoàn chỉnh",
+   "✔ ことだ – 'nên/hãy…' (lời khuyên)",
+   "ものだから – 'vì…', sai"
+  ],
+  "trans": "Khi học tiếng Nhật, trước hết hãy nhớ cách đọc chữ Hán.",
+  "note": "V(từ điển) + ことだ: khuyên bảo 'nên làm…'."
+ },
+ "japanesequizzes:grammar-50-6968": {
+  "opts": [
+   "来た – thể た không nối 以来",
+   "✔ 来て – V て以来 'kể từ khi đến'",
+   "来る – thể từ điển, sai",
+   "来よう – thể ý chí, sai"
+  ],
+  "trans": "Kể từ khi đến Nhật, cách nghĩ của tôi về văn hóa Nhật đã dần thay đổi.",
+  "note": "V て + 以来: 'kể từ khi…' – chỉ nối với thể て."
+ },
+ "japanesequizzes:grammar-50-6969": {
+  "opts": [
+   "にわたって – 'trải suốt', sai",
+   "のうちに – 'trong lúc', sai",
+   "✔ にはんする – 'trái với người thường', ý đối lập",
+   "なんか – 'kiểu như/đồ như', sai sắc thái"
+  ],
+  "trans": "Khác với người bình thường, diễn viên nổi tiếng thường không thể hành động theo ý mình.",
+  "note": "(?) Đáp án nguồn có thể sai: にはんする là định ngữ (cần danh từ sau), trước dấu phẩy phải là に反して/と違って. Bộ option trùng với câu sau."
+ },
+ "japanesequizzes:grammar-50-6970": {
+  "opts": [
+   "にわたって – 'trải suốt', sai",
+   "のうちに – 'trong lúc', sai",
+   "✔ にはんする – 'trái với kỳ vọng' + こと",
+   "なんか – 'kiểu như', sai"
+  ],
+  "trans": "Đứa trẻ đó toàn làm những việc trái với kỳ vọng của bố mẹ.",
+  "note": "N に反する + N / N に反して、…: 'trái với N'. Trước こと phải dùng dạng định ngữ 反する."
+ },
+ "japanesequizzes:grammar-50-6971": {
+  "opts": [
+   "より – 'hơn', sai",
+   "といっても – 'dù nói là', sai",
+   "さえ – 'ngay cả', không đi với も ở vế sau kiểu này",
+   "✔ はもちろん – 'thú hoang thì khỏi nói, cả chim cá cũng…'"
+  ],
+  "trans": "Núi đồi xanh bị tàn phá khắp nơi, thú hoang đã đành, cả chim và cá cũng ngày một ít đi.",
+  "note": "A はもちろん B も: 'A thì đương nhiên, B cũng…'. (?) Đề gõ nhầm 荒れ課て → 荒れ果てて."
+ },
+ "japanesequizzes:grammar-50-6972": {
+  "opts": [
+   "研究する – thể từ điển, không vào mẫu ご〜なさる",
+   "研究して – thể て, sai",
+   "✔ 研究 – ご研究なさる: kính ngữ 'ngài nghiên cứu'",
+   "研究し – gốc ます không dùng với từ Hán ご〜"
+  ],
+  "trans": "Ngài sẽ nghiên cứu lĩnh vực nào ạ?",
+  "note": "ご + N(Hán) + なさる/になる: kính ngữ. Từ gốc Hán (研究, 説明) dùng ご + danh từ, không chia."
+ },
+ "japanesequizzes:grammar-50-6973": {
+  "opts": [
+   "ものとして – 'coi như', sai",
+   "✔ あるかと思えば – 'có… thì lại cũng có…'",
+   "だけのことはある – 'quả xứng đáng', sai",
+   "いるかと思えば – いる dùng cho người/động vật, nhà phải ある"
+  ],
+  "trans": "Có nhà kiểu Nhật, thì cũng có nhà kiểu Tây.",
+  "note": "A かと思えば B も: 'vừa có A lại cũng có B' – hai thứ trái ngược cùng tồn tại. Nhà là vật nên ある."
+ },
+ "japanesequizzes:grammar-50-6974": {
+  "opts": [
+   "直す – thể từ điển, không nối とする kiểu này",
+   "✔ 直そう – V(ý chí) + とする 'cố sửa'",
+   "直し – gốc ます, sai",
+   "直して – thể て, sai"
+  ],
+  "trans": "Đã có ý kiến cho rằng cố ép sửa tật thuận tay trái là không tốt.",
+  "note": "V(ý chí) + とする: 'cố/định làm gì'. 直す → 直そう."
+ },
+ "japanesequizzes:grammar-50-6975": {
+  "opts": [
+   "うちに – 'trong lúc', sai nghĩa",
+   "以上 – 'một khi đã', sai",
+   "かと思うと – 'vừa… thì', sai",
+   "✔ うえで – 'sau khi xem rồi mới quyết định'"
+  ],
+  "trans": "Tôi muốn xem bên trong phòng rồi mới quyết định có thuê hay không.",
+  "note": "V た + うえで: 'sau khi làm A, dựa trên đó mới làm B'."
+ },
+ "japanesequizzes:grammar-50-6976": {
+  "opts": [
+   "ばかりから – không có mẫu này",
+   "ばかりなく – thiếu で (ばかりでなく)",
+   "✔ うえに – 'thêm vào đó còn…'",
+   "ばかり – 'chỉ/toàn', sai"
+  ],
+  "trans": "Đã có công trình làm đường, lại còn xảy ra cả tai nạn giao thông.",
+  "note": "N の + うえに: 'không những… mà còn', thêm cùng chiều (xấu thêm xấu)."
+ },
+ "japanesequizzes:grammar-51-6947": {
+  "opts": [
+   "読んでおく – 'đọc sẵn', sai",
+   "✔ 読んでいる – 'trong lúc đang đọc'",
+   "読んである – trạng thái đã đọc sẵn, sai",
+   "読んでしまう – 'đọc xong mất', sai"
+  ],
+  "trans": "Trong lúc đang đọc mail của người yêu ở quê, bất giác nước mắt tôi rơi.",
+  "note": "V ている + うちに: 'trong lúc đang…' thì xảy ra thay đổi không chủ ý."
+ },
+ "japanesequizzes:grammar-51-6948": {
+  "opts": [
+   "うらない – không có dạng này",
+   "✔ えない – あり得ない 'không thể có'",
+   "える – あり得る 'có thể có', ngược nghĩa",
+   "うることができない – thừa, sai"
+  ],
+  "trans": "Nếu không có sự ủng hộ của mọi người thì thành công hôm nay của tôi không thể có được.",
+  "note": "V(gốc ます) + 得る/得ない: 'có thể/không thể…'. あり得ない (ありえない): 'không thể nào'."
+ },
+ "japanesequizzes:grammar-51-6949": {
+  "opts": [
+   "おそれにある – sai trợ từ",
+   "おそれである – sai",
+   "おそれへある – sai",
+   "✔ おそれがある – 'có nguy cơ phá sản'"
+  ],
+  "trans": "Nếu cứ lỗ mãi thế này, công ty này có nguy cơ phá sản.",
+  "note": "N の / V + おそれがある: 'e rằng, có nguy cơ…' (điều xấu). Cố định với が."
+ },
+ "japanesequizzes:grammar-51-6950": {
+  "opts": [
+   "しますか – 覚えがする không dùng",
+   "できますか – sai",
+   "✔ ありますか – 覚えがある 'có nhớ là đã…'",
+   "できあげますか – không có từ này"
+  ],
+  "trans": "Bạn có nhớ là đã thấy nội dung này ở đâu đó không?",
+  "note": "V た + 覚えがある: 'nhớ là đã từng…'. Luôn là 覚えがある/ない."
+ },
+ "japanesequizzes:grammar-51-6951": {
+  "opts": [
+   "✔ からといって – 'không phải cứ vì… mà…'",
+   "にしても – 'cho dù', sai",
+   "にしては – 'so với mức', sai",
+   "ながら – 'tuy', không hợp vế sau わけではない"
+  ],
+  "trans": "Không phải cứ vì ít ăn natto mà bảo là tôi ghét món Nhật.",
+  "note": "〜からといって…わけではない/とは限らない: 'không phải cứ vì A mà B'. Đi cặp cố định."
+ },
+ "japanesequizzes:grammar-51-6952": {
+  "opts": [
+   "✔ ことか – 'biết bao nhiêu!' (cảm thán)",
+   "ところか – không có mẫu này",
+   "はずか – sai",
+   "わけか – sai"
+  ],
+  "trans": "Hôm qua gặp lại bạn thời cấp ba sau mười năm, tôi vui biết bao nhiêu!",
+  "note": "どれほど/どんなに/なんと + 〜ことか: cảm thán 'biết chừng nào'."
+ },
+ "japanesequizzes:grammar-51-6953": {
+  "opts": [
+   "ものから – không có",
+   "はずから – không có",
+   "わけから – không có",
+   "✔ ことから – 'từ việc… (suy ra)'"
+  ],
+  "trans": "Từ việc người già làng này ai cũng sống thọ, người ta cho rằng thói quen ăn uống ở làng tốt cho sức khỏe.",
+  "note": "〜ことから: 'từ sự thật A nên suy ra/kết luận B'."
+ },
+ "japanesequizzes:grammar-51-6954": {
+  "opts": [
+   "がものだから – sai",
+   "のものだから – ものだから không đi với tên người",
+   "がことだから – sai trợ từ",
+   "✔ のことだから – 'vì là anh Kinoshita (tính cách đã biết) nên…'"
+  ],
+  "trans": "Anh Kinoshita nghiêm túc thế thì chắc chắn sẽ viết được báo cáo tốt.",
+  "note": "N(người) のことだから: 'vì là người đó, ai cũng biết tính, nên chắc chắn…'."
+ },
+ "japanesequizzes:grammar-51-6955": {
+  "opts": [
+   "ものに – sai",
+   "ところに – 'đúng lúc', sai",
+   "ように – 'như', sai",
+   "✔ ことに – 'thú vị là…' (cảm xúc người nói)"
+  ],
+  "trans": "Thú vị là, mục được đọc nhiều nhất trong báo lại là trang lịch chương trình ti vi.",
+  "note": "A(cảm xúc) + ことに: 'điều… là' – 残念なことに, 驚いたことに. (?) Đề gõ nhầm プージ → ページ."
+ },
+ "japanesequizzes:grammar-51-6956": {
+  "opts": [
+   "✔ ことはない – 'không cần phải…'",
+   "ことではない – 'không phải là việc', sai",
+   "ものはない – sai",
+   "ものではない – 'không nên (đạo lý)', không hợp"
+  ],
+  "trans": "Không cần phải mất công đi đâu. Báo bằng mail là được mà?",
+  "note": "V(từ điển) + ことはない: 'không cần phải…'. ものではない là 'không nên'."
+ },
+ "japanesequizzes:grammar-51-6957": {
+  "opts": [
+   "始める – 見始める 'bắt đầu xem', sai",
+   "✔ ごろ – 見ごろ 'thời điểm đẹp nhất để ngắm'",
+   "かけ – 見かけ 'vẻ ngoài', sai",
+   "かわり – không có 見かわり"
+  ],
+  "trans": "Tuần này là lúc hoa anh đào đẹp nhất để ngắm.",
+  "note": "V(gốc ます) + ごろ: 'thời điểm thích hợp nhất' – 見ごろ, 食べごろ."
+ },
+ "japanesequizzes:grammar-51-6958": {
+  "opts": [
+   "✔ 安く – い-adj → 〜くさえあれば 'chỉ cần rẻ'",
+   "安い – sai hình thức",
+   "安くて – sai",
+   "安くても – sai"
+  ],
+  "trans": "Về chuyện phòng ấy, chỉ cần rẻ là được, hơi chật cũng không sao.",
+  "note": "い-adj → 〜く + さえあれば: 'chỉ cần…'. Danh từ: N さえあれば; động từ: V(gốc ます) さえすれば."
+ },
+ "japanesequizzes:grammar-51-6959": {
+  "opts": [
+   "✔ ざる – 行かざるを得ない 'buộc phải đi'",
+   "なくても – sai",
+   "なければ – sai",
+   "ないこと – sai"
+  ],
+  "trans": "Tôi không muốn đi công tác, nhưng vì là lệnh của trưởng phòng nên buộc phải đi.",
+  "note": "V ない(bỏ ない) + ざるを得ない: 'đành phải, không thể không…'. する → せざるを得ない."
+ },
+ "japanesequizzes:grammar-51-6960": {
+  "opts": [
+   "過ごして – không nối với tính từ",
+   "きれて – 'hết sạch', sai",
+   "✔ 過ぎて – 重過ぎて 'quá nặng, quá sức'",
+   "きって – 'hoàn toàn', sai"
+  ],
+  "trans": "Việc đó hơi quá sức, có lẽ cậu không gánh nổi đâu.",
+  "note": "い-adj(bỏ い) + 過ぎる: 'quá…'. 荷が重い: gánh nặng quá sức."
+ },
+ "japanesequizzes:grammar-51-6961": {
+  "opts": [
+   "だけ – 'chỉ', sai",
+   "✔ ずつ – 少しずつ 'từng chút một'",
+   "かけ – sai",
+   "しか – cần phủ định, sai"
+  ],
+  "trans": "Tuy chậm nhưng công việc vẫn đang tiến triển từng chút một.",
+  "note": "少しずつ: 'từng chút một'. ずつ chỉ lượng chia đều/dần dần."
+ },
+ "japanesequizzes:grammar-52-6932": {
+  "opts": [
+   "なくて – sai dạng",
+   "✔ せずに – 'không làm (đi loanh quanh)' = しないで",
+   "しなくて – 'vì không làm', không hợp",
+   "しずに – sai, する → せず"
+  ],
+  "trans": "Đừng đi loanh quanh, hãy yên lặng chờ được gọi.",
+  "note": "〜たりせずに = 〜たりしないで: 'không làm… mà'. する → せず (bất quy tắc)."
+ },
+ "japanesequizzes:grammar-52-6933": {
+  "opts": [
+   "あまり – 'vì quá…', không hợp với triệu chứng này",
+   "✔ せいか – 'có lẽ do sốt cao'",
+   "以上 – sai",
+   "おかげで – 'nhờ', kết quả xấu nên sai"
+  ],
+  "trans": "Có lẽ do sốt cao mà đầu tôi cứ choáng váng.",
+  "note": "N の + せいか: 'có lẽ tại… (kết quả xấu)'. おかげで dùng cho kết quả tốt."
+ },
+ "japanesequizzes:grammar-52-6934": {
+  "opts": [
+   "ないでもおく – sai",
+   "なければおく – sai",
+   "なくておく – sai",
+   "✔ ずにおく – 'để nguyên không thông báo'"
+  ],
+  "trans": "Kế hoạch này tôi định không thông báo cho đến buổi ra mắt sản phẩm mới.",
+  "note": "V ずにおく = V ないでおく: 'cứ để không làm gì (có chủ ý)'."
+ },
+ "japanesequizzes:grammar-52-6935": {
+  "opts": [
+   "✔ ずに – 食べずにいる 'cứ không ăn'",
+   "しなくて – sai",
+   "しないで – 食べしないで sai",
+   "なくて – 食べなくている sai"
+  ],
+  "trans": "Cứ nhịn ăn mãi thì sẽ hỏng người đấy.",
+  "note": "V ずにいる = V ないでいる: 'cứ ở trạng thái không làm gì'."
+ },
+ "japanesequizzes:grammar-52-6936": {
+  "opts": [
+   "する – sai",
+   "されて – bị động, sai",
+   "しよう – sai",
+   "✔ させて – 紹介させていただく 'xin phép được giới thiệu'"
+  ],
+  "trans": "Vậy, tôi xin phép được giới thiệu qua tác phẩm này.",
+  "note": "V させていただく: xin phép làm gì (khiêm nhường)."
+ },
+ "japanesequizzes:grammar-52-6937": {
+  "opts": [
+   "つつ – 'vừa… vừa' hoặc 'tuy', câu không kết thúc được",
+   "✔ つつある – 'đang dần sáng tỏ'",
+   "せいだ – sai",
+   "ようとする – sai"
+  ],
+  "trans": "Sự thật vụ hối lộ đang dần được làm sáng tỏ.",
+  "note": "V(gốc ます) + つつある: 'đang dần…' (quá trình thay đổi)."
+ },
+ "japanesequizzes:grammar-52-6938": {
+  "opts": [
+   "くださいます – sai",
+   "いただきます – sai",
+   "✔ いらっしゃいます – kính ngữ của です/いる",
+   "ねがいます – sai"
+  ],
+  "trans": "Đây là phu nhân của giám đốc.",
+  "note": "N でいらっしゃいます = kính ngữ của N です, dùng cho người đáng kính."
+ },
+ "japanesequizzes:grammar-52-6939": {
+  "opts": [
+   "にない – sai",
+   "✔ がない – しかたがない 'không chịu được'",
+   "をない – sai",
+   "でない – sai"
+  ],
+  "trans": "Vì đang đọc lịch sử Nhật nên tôi muốn đi cố đô Nara không chịu nổi.",
+  "note": "〜て + しかたがない / しょうがない / たまらない: 'không kiềm chế được… quá'."
+ },
+ "japanesequizzes:grammar-52-6940": {
+  "opts": [
+   "だけ – không dùng てだけいる",
+   "✔ ばかり – 食べてばかりいる 'cứ ăn suốt'",
+   "しか – cần phủ định",
+   "くらい – sai"
+  ],
+  "trans": "Không phải cứ ngon là ăn suốt được, như vậy không tốt.",
+  "note": "V て + ばかりいる: 'chỉ toàn làm…' (phê phán)."
+ },
+ "japanesequizzes:grammar-52-6941": {
+  "opts": [
+   "まま – sai",
+   "✔ ばかり – てばかりはいられない 'không thể cứ xem mãi'",
+   "しか – sai",
+   "くらい – sai"
+  ],
+  "trans": "Phải chuẩn bị bữa tối nên không thể cứ ngồi xem ti vi mãi được.",
+  "note": "V てばかりはいられない: 'không thể cứ mãi…'."
+ },
+ "japanesequizzes:grammar-52-6942": {
+  "opts": [
+   "からというと – không có",
+   "以上 – 'một khi', không nối て",
+   "✔ はじめて – V てはじめて 'chỉ sau khi… mới'",
+   "にあたって – 'nhân dịp', không nối て"
+  ],
+  "trans": "Chỉ sau khi ra nước Nhật, ta mới hiểu rõ về đất nước mình.",
+  "note": "V て + はじめて: 'chỉ sau khi A mới (lần đầu) B'."
+ },
+ "japanesequizzes:grammar-52-6943": {
+  "opts": [
+   "✔ たとえ – 'cho dù', đi với ても",
+   "もしかしたら – 'có lẽ', đi với かもしれない",
+   "たったいま – 'vừa mới', sai",
+   "たぶん – 'có lẽ', sai"
+  ],
+  "trans": "Cho dù có rẻ đến đâu, tôi cũng không định mua máy tính của hãng đó.",
+  "note": "たとえ…ても: 'cho dù… cũng'."
+ },
+ "japanesequizzes:grammar-52-6944": {
+  "opts": [
+   "ごとに – 'mỗi', sai",
+   "にわたって – 'trải suốt', sai",
+   "✔ というと – 'nói đến… thì'",
+   "としたら – 'nếu giả sử', sai"
+  ],
+  "trans": "Nói đến đại hội thể thao lớn thì trước hết là Olympic bốn năm một lần nhỉ.",
+  "note": "N というと/といえば: 'nói đến N thì (nghĩ ngay đến)'."
+ },
+ "japanesequizzes:grammar-52-6945": {
+  "opts": [
+   "ところ – sai",
+   "ということ – ということではない không mang nghĩa 'không hẳn'",
+   "✔ というもの – というものではない 'không hẳn là…'",
+   "ものの – 'tuy', sai"
+  ],
+  "trans": "Không hẳn là thứ tự phát biểu tuyệt đối không thể thay đổi.",
+  "note": "〜というものではない: 'không hẳn/không phải cứ… là đúng' – phủ định nhẹ một ý khẳng định."
+ },
+ "japanesequizzes:grammar-52-6946": {
+  "opts": [
+   "✔ むしろ – 'đúng hơn là'",
+   "どちらか – 'một trong hai', sai",
+   "ただし – 'tuy nhiên', sai",
+   "あるいは – 'hoặc là', sai"
+  ],
+  "trans": "Nói là tôi dạy, đúng hơn là tôi đang được học từ họ.",
+  "note": "A というより、むしろ B: 'hơn là A thì đúng hơn là B'."
+ },
+ "japanesequizzes:grammar-53-6917": {
+  "opts": [
+   "✔ といえば – 'nói đến… thì'",
+   "といっても – 'dù nói là', sai",
+   "からすると – 'xét từ', sai",
+   "からすれば – 'xét từ', sai"
+  ],
+  "trans": "Nói đến nghệ thuật cổ điển Nhật Bản thì dù sao cũng là Kabuki nhỉ.",
+  "note": "N といえば: 'nói đến N thì (điển hình là)'. 何といっても: 'dù nói gì thì'."
+ },
+ "japanesequizzes:grammar-53-6918": {
+  "opts": [
+   "からすれば – 'xét từ', sai",
+   "にわたって – sai",
+   "✔ といったら – 'nói về vẻ mặt ấy thì…' cảm thán",
+   "としたら – sai"
+  ],
+  "trans": "Vẻ mặt anh ấy lúc nhận tin ấy thì không lời nào tả nổi.",
+  "note": "N といったら: nêu chủ đề kèm cảm thán mạnh 'nói về N thì… ghê gớm lắm'."
+ },
+ "japanesequizzes:grammar-53-6919": {
+  "opts": [
+   "ことだから – sai",
+   "✔ といっても – 'tuy nói là có… nhưng chỉ…'",
+   "にしては – 'so với', sai cấu trúc",
+   "からといって – vế sau cần わけではない"
+  ],
+  "trans": "Nói là học viện này có du học sinh, nhưng cũng chỉ chiếm 3% tổng số sinh viên.",
+  "note": "〜といっても: 'tuy nói là… nhưng thực ra (ít hơn mong đợi)'."
+ },
+ "japanesequizzes:grammar-53-6920": {
+  "opts": [
+   "✔ ところから – 'từ việc… nên'",
+   "のに – 'vậy mà', sai",
+   "以上 – sai",
+   "おかげで – kết quả xấu, sai"
+  ],
+  "trans": "Vì dùng sức quá độ nên tôi mới mắc bệnh thế này.",
+  "note": "〜ところから = ことから: 'từ chỗ/từ việc A mà dẫn tới B'."
+ },
+ "japanesequizzes:grammar-53-6921": {
+  "opts": [
+   "✔ とは – 'con người là…' (định nghĩa/chủ đề)",
+   "として – 'với tư cách', sai",
+   "にとって – 'đối với', sai",
+   "について – 'về', sai"
+  ],
+  "trans": "Có lúc tôi nghĩ con người là loài động vật tham lam.",
+  "note": "N とは: nêu định nghĩa/bản chất 'N là…' (hơi trang trọng)."
+ },
+ "japanesequizzes:grammar-53-6922": {
+  "opts": [
+   "✔ 比べもの – 比べものにならない 'không thể so được'",
+   "比べこと – không có",
+   "比べるもの – sai",
+   "比べること – sai"
+  ],
+  "trans": "Anh ấy chơi shamisen giỏi, nhưng không thể so với dân chuyên nghiệp được.",
+  "note": "比べものにならない: thành ngữ 'không thể so sánh được, khác một trời một vực'."
+ },
+ "japanesequizzes:grammar-53-6923": {
+  "opts": [
+   "なくて – sai",
+   "✔ ないで – 触らないでおく 'cứ để không chạm'",
+   "なかって – sai",
+   "ないでも – sai"
+  ],
+  "trans": "Cái máy này cứ để nguyên, đừng chạm vào nhé.",
+  "note": "V ないでおく: 'để nguyên không làm'."
+ },
+ "japanesequizzes:grammar-53-6924": {
+  "opts": [
+   "ないでも – sai",
+   "なければ – 'nếu không', sai",
+   "ないで – 'không… mà', không dùng nêu lý do",
+   "✔ なくて – 'vì không tìm được'"
+  ],
+  "trans": "Vì không tìm được việc nên tôi lang thang không làm gì một thời gian.",
+  "note": "V なくて: nêu nguyên nhân 'vì không…'. V ないで: 'không làm A mà làm B'."
+ },
+ "japanesequizzes:grammar-53-6925": {
+  "opts": [
+   "しかし – 'nhưng', sai",
+   "そのせいで – 'vì vậy (xấu)', sai",
+   "そのために – 'vì thế', sai",
+   "✔ なぜかというと – 'bởi vì…'"
+  ],
+  "trans": "Ai muốn thì hãy đăng ký sớm. Bởi vì số lượng có hạn.",
+  "note": "なぜかというと…から(です): giải thích lý do cho câu trước."
+ },
+ "japanesequizzes:grammar-53-6926": {
+  "opts": [
+   "もの – sai",
+   "ついでに – 'nhân tiện', sai",
+   "ながら – sai",
+   "✔ なんて – 'việc… thật là (bất ngờ)'"
+  ],
+  "trans": "Gặp thầy ở nơi thế này, thật là trùng hợp quá.",
+  "note": "〜なんて: tỏ ngạc nhiên/bất ngờ về điều phía trước. (?) Đề gõ nhầm 奇愚 → 奇遇 'tình cờ gặp'."
+ },
+ "japanesequizzes:grammar-53-6927": {
+  "opts": [
+   "開発しよう – sai",
+   "開発した – không nối thể た",
+   "開発している – sai",
+   "✔ 開発する – V(từ điển) + にあたり"
+  ],
+  "trans": "Nhân việc phát triển dược phẩm mới, một nhóm dự án mới đã được lập.",
+  "note": "V(từ điển)/N + にあたり/にあたって: 'nhân dịp, khi bắt đầu…'."
+ },
+ "japanesequizzes:grammar-53-6928": {
+  "opts": [
+   "にわたって – sai",
+   "✔ に応じて – 'tùy theo yêu cầu'",
+   "にしたがって – 'theo/cùng với', hơi khác nghĩa",
+   "にはんして – 'trái với', sai"
+  ],
+  "trans": "Phải cung cấp dịch vụ tùy theo yêu cầu của khách hàng.",
+  "note": "N に応じて: 'tùy theo/đáp ứng N'."
+ },
+ "japanesequizzes:grammar-53-6929": {
+  "opts": [
+   "✔ にくく – 近寄りにくくなる 'trở nên khó tiếp cận'",
+   "いじょう – sai",
+   "こそ – sai",
+   "げ – sai"
+  ],
+  "trans": "Đẹp quá thì ngược lại đàn ông lại khó dám tiếp cận đấy.",
+  "note": "V(gốc ます) + にくい: 'khó…'; → にくくなる 'trở nên khó'."
+ },
+ "japanesequizzes:grammar-53-6930": {
+  "opts": [
+   "にかわって – 'thay cho', sai",
+   "✔ にのぞんで – 'có mặt tại hiện trường'",
+   "にとって – sai",
+   "によって – sai"
+  ],
+  "trans": "Việc đến hiện trường để tiến hành điều tra ban đầu, trong thuật ngữ cảnh sát gọi là 臨場.",
+  "note": "N に臨んで: 'đứng trước/có mặt tại N'. 臨場 = 臨む + 場."
+ },
+ "japanesequizzes:grammar-53-6931": {
+  "opts": [
+   "✔ にのぼる – 'lên tới'",
+   "にしたがう – sai",
+   "にそう – sai",
+   "による – 'do', sai"
+  ],
+  "trans": "Theo điều tra, thiệt hại nông sản do bão lên tới hàng chục triệu yên.",
+  "note": "Số lượng + にのぼる: 'lên tới (con số lớn)'."
+ },
+ "japanesequizzes:grammar-6-6426": {
+  "opts": [
+   "✔ まま – 'y nguyên như xưa'",
+   "とおり – 'theo đúng', không hợp",
+   "よてい – 'dự định', sai",
+   "よそく – 'dự đoán', sai"
+  ],
+  "trans": "Dãy nhà quanh đây vẫn y nguyên như ngày xưa.",
+  "note": "N の + まま: 'giữ nguyên trạng thái'."
+ },
+ "japanesequizzes:grammar-6-6427": {
+  "opts": [
+   "✔ にあたり – 'nhân dịp khai mạc'",
+   "のあまり – 'vì quá', sai",
+   "にしても – sai",
+   "のうちに – sai"
+  ],
+  "trans": "Nhân dịp khai mạc, tôi xin phép có đôi lời chào.",
+  "note": "N にあたり: 'nhân dịp, vào lúc…' – trang trọng."
+ },
+ "japanesequizzes:grammar-6-6428": {
+  "opts": [
+   "頃 – sai",
+   "ばかり – phải là V たばかり",
+   "こと – sai",
+   "✔ ところ – V(từ điển) + ところ 'sắp sửa…'"
+  ],
+  "trans": "Giờ chúng tôi sắp sửa ăn cơm.",
+  "note": "V(từ điển) + ところだ: 'sắp làm'; V た + ところ: 'vừa làm xong'."
+ },
+ "japanesequizzes:grammar-6-6429": {
+  "opts": [
+   "だから – sai",
+   "✔ からといって – 'dù có bận đến đâu cũng không nên…'",
+   "おかげで – sai",
+   "だといっても – sai hình thức"
+  ],
+  "trans": "Dù bận đến mấy, cứ thức khuya mãi cũng không tốt cho sức khỏe.",
+  "note": "いくら…からといって: 'dù với lý do… cũng không…'."
+ },
+ "japanesequizzes:grammar-6-6430": {
+  "opts": [
+   "のまま – sai",
+   "✔ かのような – 'cứ như là con gái'",
+   "ような – cần 女性のような, thiếu の",
+   "に – sai"
+  ],
+  "trans": "Cậu bé đó là một mỹ thiếu niên da trắng cứ như con gái vậy.",
+  "note": "まるで N かのような + N: 'cứ như thể là…'."
+ },
+ "japanesequizzes:grammar-6-6431": {
+  "opts": [
+   "あるとあれば – sai",
+   "あるのではないか – sai",
+   "あるかと思って – sai",
+   "✔ あるかと思うと – 'có món ngon thì cũng có món dở'"
+  ],
+  "trans": "Nhà hàng này có món ngon, thì cũng có món dở.",
+  "note": "A かと思うと/かと思えば B も: nêu hai thứ trái ngược cùng tồn tại."
+ },
+ "japanesequizzes:grammar-6-6432": {
+  "opts": [
+   "予定 – 'dự định (lịch trình)', sai",
+   "✔ つもり – 'định/sẽ (ý chí)'",
+   "せい – sai",
+   "とおり – sai"
+  ],
+  "trans": "Để đạt mục tiêu, tôi định nỗ lực hết sức có thể.",
+  "note": "V(từ điển) + つもりだ: ý định cá nhân."
+ },
+ "japanesequizzes:grammar-6-6433": {
+  "opts": [
+   "ないである – sai",
+   "なくてある – sai",
+   "✔ ないでいる – 'vẫn chưa viết được'",
+   "なくている – sai"
+  ],
+  "trans": "Tài liệu thì gom đủ rồi nhưng không có thời gian nên vẫn chưa viết được.",
+  "note": "V ないでいる: 'vẫn trong trạng thái chưa…'."
+ },
+ "japanesequizzes:grammar-6-6434": {
+  "opts": [
+   "をもとづいて – sai, phải là にもとづいて",
+   "とともに – sai",
+   "✔ にのぼる – 'lên tới hàng trăm người'",
+   "にそって – sai"
+  ],
+  "trans": "Nghe nói do va chạm, số người thương vong lên tới hàng trăm.",
+  "note": "Số + にのぼる + N: 'lên tới'."
+ }
+}

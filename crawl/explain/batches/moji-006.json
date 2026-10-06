@@ -1,0 +1,971 @@
+[
+{
+"id": "dethitiengnhat:N3-31-1-q19",
+"type": "context",
+"question": "最初は料理が苦手だったが、毎日(　　)して上手になった。",
+"options": [
+"貯金",
+"努力",
+"発見",
+"成功"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-31-1-q2",
+"type": "kanji_reading",
+"question": "書類を＿郵送＿してください。",
+"options": [
+"ゆうそう",
+"ゆうしょう",
+"ようそう",
+"ようしょう"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-31-1-q20",
+"type": "context",
+"question": "朝から何も飲んでいないので、のどが(　　)だ。",
+"options": [
+"ぺこぺこ",
+"ぼろぼろ",
+"からから",
+"ふらふら"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-31-1-q21",
+"type": "context",
+"question": "本人から直接聞いた話なので、これは(　　)情報だと思います。",
+"options": [
+"丁寧な",
+"素直な",
+"確実な",
+"単純な"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-31-1-q22",
+"type": "context",
+"question": "電車の中で、次の駅では右側のドアが開くという(　　)が流れた。",
+"options": [
+"サイン",
+"アナウンス",
+"インタビュー",
+"サイレン"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-31-1-q23",
+"type": "context",
+"question": "ハワイに着いたが、(　　)のせいでとても眠い。",
+"options": [
+"季節",
+"時差",
+"気分",
+"気候"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-31-1-q24",
+"type": "context",
+"question": "難しいと思っていたテストだが、(　　)簡単だった。",
+"options": [
+"結局",
+"偶然",
+"当然",
+"案外"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-31-1-q25",
+"type": "context",
+"question": "田中さんはよく面白い(　　)を言って、職場の人を笑わせる。",
+"options": [
+"遠慮",
+"意見",
+"冗談",
+"言い訳"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-31-1-q26",
+"type": "paraphrase",
+"question": "＿さっき＿山田さんから電話がありました。",
+"options": [
+"少し前に",
+"このあとで",
+"ずっと",
+"何度も"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-31-1-q27",
+"type": "paraphrase",
+"question": "新しい家の＿キッチン＿は、とても使いやすいです。",
+"options": [
+"食堂",
+"台所",
+"居間",
+"玄関"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-31-1-q28",
+"type": "paraphrase",
+"question": "料理をするときは、＿清潔な＿手で料理をしてください。",
+"options": [
+"静かな",
+"きれいな",
+"丈夫な",
+"安全な"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-31-1-q29",
+"type": "paraphrase",
+"question": "時間になったので、今日の練習は＿おしまいにしましょう＿。",
+"options": [
+"始めましょう",
+"続けましょう",
+"休憩しましょう",
+"終わりにしましょう"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-31-1-q3",
+"type": "kanji_reading",
+"question": "走った後は、少し息が＿苦しい＿です。",
+"options": [
+"ぐるしい",
+"かるしい",
+"くろしい",
+"くるしい"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-31-1-q30",
+"type": "paraphrase",
+"question": "先輩として、新入社員に仕事のやり方を＿指導して＿ください。",
+"options": [
+"教えて",
+"頼んで",
+"手伝って",
+"相談して"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-31-1-q31",
+"type": "usage",
+"question": "＿変化＿",
+"options": [
+"薬を飲んだら、頭の痛みが＿変化＿した。",
+"最近、この町の様子が大きく＿変化＿してきた。",
+"友だちに会うために、駅で電車を＿変化＿した。",
+"新しい服を買ったので、すぐに＿変化＿して出かけた。"
+],
+"answer": 1,
+"source_explanation": "1) 薬を飲んだら、頭の痛みが＿変化＿した。\n3) 友だちに会うために、駅で電車を＿変化＿した。\n4) 新しい服を買ったので、すぐに＿変化＿して出かけた。"
+},
+{
+"id": "dethitiengnhat:N3-31-1-q32",
+"type": "usage",
+"question": "＿にぎる＿",
+"options": [
+"エレベーターに乗って、5階のボタンを強く＿にぎった＿。",
+"重い荷物を＿にぎって＿、階段を上がった。",
+"駅までの道がわからなかったので、地図を＿にぎった＿。",
+"緊張していたので、手に持っていたペンを強く＿にぎった＿。"
+],
+"answer": 3,
+"source_explanation": "1) エレベーターに乗って、5階のボタンを強く＿押した＿。\n2) 重い荷物を＿持って＿、階段を上がった。\n3) 駅までの道がわからなかったので、地図を＿確認した＿。"
+},
+{
+"id": "dethitiengnhat:N3-31-1-q33",
+"type": "usage",
+"question": "＿修理＿",
+"options": [
+"風邪をひいたので、病院で＿修理＿してもらった。",
+"髪が長くなったので、美容院で＿修理＿してもらった。",
+"壊れた自転車を店に持って行って、＿修理＿してもらった。",
+"テストの答えを間違えたので、先生に＿修理＿してもらった。"
+],
+"answer": 2,
+"source_explanation": "1) 風邪をひいたので、病院で＿治療＿してもらった。\n2) 髪が長くなったので、美容院で＿切って＿もらった。\n\n4) テストの答えを間違えたので、先生に＿直して＿もらった。"
+},
+{
+"id": "dethitiengnhat:N3-31-1-q34",
+"type": "usage",
+"question": "＿目的＿",
+"options": [
+"今日の会議の＿目的＿は、新しい計画について話し合うことだ。",
+"電車の＿目的＿は東京駅なので、そこで降りてください。",
+"彼は試験に合格するために、高い＿目的＿を立てた。",
+"駅までの＿目的＿を地図で調べた。"
+],
+"answer": 0,
+"source_explanation": "2) 電車の＿終点＿は東京駅なので、そこで降りてください。\n3) 彼は試験に合格するために、高い＿目標＿を立てた。\n4) 駅までの＿行き方＿を地図で調べた。"
+},
+{
+"id": "dethitiengnhat:N3-31-1-q35",
+"type": "usage",
+"question": "＿懐かしい＿",
+"options": [
+"初めて会った人の名前は、とても＿懐かしい＿。",
+"昨日買った新しいスマホは、とても＿懐かしい＿。",
+"1) 年間ずっと探していた時計がやっと見つかって、とても＿懐かしい＿。",
+"子供のころによく遊んだ公園に行くと、とても＿懐かしい＿気持ちになった。"
+],
+"answer": 3,
+"source_explanation": "1) 初めて会った人の名前は、とても＿懐かしい＿。\n2) 昨日買った新しいスマホは、とても＿便利だ＿。\n3) 1年間ずっと探していた時計がやっと見つかって、とても＿嬉しい＿。"
+},
+{
+"id": "dethitiengnhat:N3-31-1-q4",
+"type": "kanji_reading",
+"question": "＿東洋＿の文化に興味があります。",
+"options": [
+"とうよう",
+"どうよう",
+"とうゆう",
+"どうゆう"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-31-1-q5",
+"type": "kanji_reading",
+"question": "映画を見て、感動して＿泣いて＿しまった。",
+"options": [
+"ぬいて",
+"さいて",
+"ないて",
+"だいて"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-31-1-q6",
+"type": "kanji_reading",
+"question": "朝から＿頭痛＿がします。",
+"options": [
+"とうつう",
+"ずつ",
+"ずつう",
+"とうつ"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-31-1-q7",
+"type": "kanji_reading",
+"question": "＿他人＿の意見も聞くことが大切です。",
+"options": [
+"だにん",
+"ほかにん",
+"ほっじん",
+"たにん"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-31-1-q8",
+"type": "kanji_reading",
+"question": "この浴衣には、赤い＿帯＿が合います。",
+"options": [
+"おび",
+"おり",
+"たい",
+"つえ"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-31-1-q9",
+"type": "orthography",
+"question": "次の＿ず＿を見てください。",
+"options": [
+"図",
+"字",
+"面",
+"線"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-32-1-q1",
+"type": "kanji_reading",
+"question": "ここは水が＿浅い＿ので、子どもでも安心して泳げます。",
+"options": [
+"おそい",
+"あさい",
+"あまい",
+"あつい"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-32-1-q10",
+"type": "orthography",
+"question": "割れやすいので、紙で丁寧に＿つつんで＿箱に入れた。",
+"options": [
+"抱んで",
+"包んで",
+"泡んで",
+"胞んで"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-32-1-q11",
+"type": "orthography",
+"question": "フライパンに＿あぶら＿を少しひいてください。",
+"options": [
+"油",
+"抽",
+"袖",
+"宙"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-32-1-q12",
+"type": "orthography",
+"question": "映画の最後に、感動して涙を＿ながした＿。",
+"options": [
+"荒した",
+"洗した",
+"滴した",
+"流した"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-32-1-q13",
+"type": "orthography",
+"question": "次の信号を＿うせつ＿すると、目的地に着きます。",
+"options": [
+"右折",
+"右析",
+"石折",
+"石析"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-32-1-q14",
+"type": "orthography",
+"question": "良いものと悪いものをしっかり＿くべつ＿する必要がある。",
+"options": [
+"凶別",
+"区別",
+"欧別",
+"匹別"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-32-1-q15",
+"type": "context",
+"question": "転ばないように、靴のひもを(　　)結んでください。",
+"options": [
+"じっくり",
+"ぐっすり",
+"しっかり",
+"すっきり"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-32-1-q16",
+"type": "context",
+"question": "人気のレストランに行ってみたが、(　　)が一つもなかった。",
+"options": [
+"空席",
+"空間",
+"満員",
+"余裕"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-32-1-q17",
+"type": "context",
+"question": "今月はアルバイト代が少ないので、生活費をできるだけ(　　)つもりだ。",
+"options": [
+"助ける",
+"抑える",
+"縮める",
+"済ませる"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-32-1-q18",
+"type": "context",
+"question": "風邪を予防するために、外から帰ったら必ず手洗いと(　　)をしましょう。",
+"options": [
+"くしゃみ",
+"居眠り",
+"おじぎ",
+"うがい"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-32-1-q19",
+"type": "context",
+"question": "この湖は自然にできたものではなく、(　　)造られたものです。",
+"options": [
+"人工的に",
+"具体的に",
+"積極的に",
+"伝統的に"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-32-1-q2",
+"type": "kanji_reading",
+"question": "部屋の書類を＿整理＿してから出かけます。",
+"options": [
+"せいり",
+"せいりん",
+"しょうり",
+"しょり"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-32-1-q20",
+"type": "context",
+"question": "今朝から胃の(　　)が悪くて、ご飯が全然食べられない。",
+"options": [
+"機嫌",
+"印象",
+"調子",
+"影響"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-32-1-q21",
+"type": "context",
+"question": "先生が黒板に書いた大切な英単語を、その日のうちに(　　)した。",
+"options": [
+"記録",
+"暗記",
+"発明",
+"翻訳"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-32-1-q22",
+"type": "context",
+"question": "昨日の夜はお酒を飲みすぎて、足が(　　)してまっすぐ歩けなかった。",
+"options": [
+"ぶつぶつ",
+"ぺこぺこ",
+"ぴかぴか",
+"ふらふら"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-32-1-q23",
+"type": "context",
+"question": "図書館で見つけた本の（　　）を忘れてしまった。",
+"options": [
+"タイトル",
+"メッセージ",
+"デザイン",
+"ルール"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-32-1-q24",
+"type": "context",
+"question": "私が世界で一番(　　)している人物は、高校時代の担任の先生です。",
+"options": [
+"期待",
+"注目",
+"歓迎",
+"尊敬"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-32-1-q25",
+"type": "context",
+"question": "朝、カーテンを開けたら、太陽の光が(　　)目が開けられなかった。",
+"options": [
+"はげしくて",
+"かゆくて",
+"まぶしくて",
+"するどくて"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-32-1-q26",
+"type": "paraphrase",
+"question": "電池を新しいものと＿交換した＿。",
+"options": [
+"修理した",
+"取り替えた",
+"準備した",
+"捨てた"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-32-1-q27",
+"type": "paraphrase",
+"question": "この靴は＿サイズ＿が合わない。",
+"options": [
+"種類",
+"大きさ",
+"長さ",
+"値段"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-32-1-q28",
+"type": "paraphrase",
+"question": "電車の到着が＿多少＿遅れている。",
+"options": [
+"少し",
+"かなり",
+"もうすぐ",
+"しばらく"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-32-1-q29",
+"type": "paraphrase",
+"question": "もっと＿らくな＿仕事がしたい。",
+"options": [
+"危険な",
+"複雑な",
+"大変ではない",
+"忙しい"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-32-1-q3",
+"type": "kanji_reading",
+"question": "新しい商品の＿広告＿を雑誌に載せる予定です。",
+"options": [
+"こうきょく",
+"こうきょう",
+"こうこう",
+"こうこく"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-32-1-q30",
+"type": "paraphrase",
+"question": "30 . 彼女はさっきからずっと友達と＿しゃべっている＿。",
+"options": [
+"泣いている",
+"怒っている",
+"笑っている",
+")話している"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-32-1-q32",
+"type": "usage",
+"question": "＿消費＿",
+"options": [
+"夏はエアコンをよく使うので、電気の＿消費＿が増える。",
+"昨日は友だちと映画館で新しい映画を＿消費＿した。",
+"誕生日に、友だちからプレゼントを＿消費＿した。",
+"明日のテストのために、漢字を何度も＿消費＿した。"
+],
+"answer": 0,
+"source_explanation": "2 昨日は友だちと映画館で新しい映画を＿見た＿。\n3 誕生日に、友だちからプレゼントを＿もらった＿。\n4 明日のテストのために、漢字を何度も＿練習＿した。"
+},
+{
+"id": "dethitiengnhat:N3-32-1-q33",
+"type": "usage",
+"question": "＿知り合う＿",
+"options": [
+"旅行中、同じホテルに泊まっていた人と＿知り合った＿。",
+"駅で偶然、昔からの友だちと＿知り合った＿。",
+"先生の説明を聞いて、問題の答えを＿知り合った＿。",
+"友だちに電話番号を＿知り合って＿から、連絡した。"
+],
+"answer": 0,
+"source_explanation": "2 駅で偶然、昔からの友だちと＿会った＿。\n3 先生の説明を聞いて、問題の答えを＿わかった＿。\n4 友だちに電話番号を＿教えてもらって＿から、連絡した。"
+},
+{
+"id": "dethitiengnhat:N3-32-1-q34",
+"type": "usage",
+"question": "＿内側＿",
+"options": [
+"先生の話の＿内側＿をノートにメモした。",
+"雨が降っていたので、家の＿内側＿で一日中過ごした。",
+"このコートは、＿内側＿にも小さなポケットがある。",
+"駅の＿内側＿を聞きながら、友だちの家へ向かった。"
+],
+"answer": 2,
+"source_explanation": "1 先生の話の＿内容＿をノートにメモした。\n2 雨が降っていたので、家の＿中＿で一日中過ごした。\n4 駅の＿道＿を聞きながら、友だちの家へ向かった。"
+},
+{
+"id": "dethitiengnhat:N3-32-1-q35",
+"type": "usage",
+"question": "＿看板＿",
+"options": [
+"明日の会議で使う＿看板＿をコピーしておいてください。",
+"来月の旅行の＿看板＿を友だちと相談して決めた。",
+"駅までの道がわからなかったので、近くの人に＿看板＿を聞いた。",
+"店の入り口に、新しい＿看板＿がかかっている。"
+],
+"answer": 3,
+"source_explanation": "1 明日の会議で使う＿資料＿をコピーしておいてください。\n2 来月の旅行の＿行き先＿を友だちと相談して決めた。\n\n3 駅までの道がわからなかったので、近くの人に＿道＿を聞いた。"
+},
+{
+"id": "dethitiengnhat:N3-32-1-q4",
+"type": "kanji_reading",
+"question": "今月のテストの＿平均＿点は何点でしたか。",
+"options": [
+"へいきん",
+"へいきゅう",
+"べいきん",
+"べいきゅう"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-32-1-q5",
+"type": "kanji_reading",
+"question": "＿悲しい＿ニュースを聞いて、涙が出そうになった。",
+"options": [
+"やさしい",
+"あやしい",
+"かなしい",
+"くやしい"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-32-1-q6",
+"type": "kanji_reading",
+"question": "スマートフォンを使って旅行の費用を＿計算＿した。",
+"options": [
+"かいさい",
+"けいさい",
+"けいさん",
+"かいさん"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-32-1-q7",
+"type": "kanji_reading",
+"question": "私たちのチームが決勝戦で＿勝った＿。",
+"options": [
+"まけた",
+"おった",
+"たった",
+"かった"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-32-1-q8",
+"type": "kanji_reading",
+"question": "図書館にはさまざまな＿種類＿の本が置いてあります。",
+"options": [
+"しゅるい",
+"しゅり",
+"しゅりゅ",
+"しゅりん"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-32-1-q9",
+"type": "orthography",
+"question": "上司の＿めいれい＿には絶対に従わなければならない。",
+"options": [
+"命礼",
+"明例",
+"命令",
+"命冷"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-4-1-q1",
+"type": "kanji_reading",
+"question": "今年の夏は雨が少なく、＿水不足＿が心配されています。",
+"options": [
+"みずぶそく",
+"みずふそく",
+"すいぶそく",
+"すいふそく"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-4-1-q10",
+"type": "orthography",
+"question": "その問題について、学生たちは政治に＿むかんしん＿だと言われている。",
+"options": [
+"無関心",
+"無感心",
+"無間心",
+"無観心"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-4-1-q11",
+"type": "orthography",
+"question": "そのボールを＿うって＿ください。",
+"options": [
+"撃って",
+"討って",
+"打って",
+"投って"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-4-1-q12",
+"type": "orthography",
+"question": "事故の＿げんいん＿について、警察が詳しく調べています。",
+"options": [
+"元困",
+"元因",
+"原困",
+"原因"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-4-1-q13",
+"type": "orthography",
+"question": "締め切りまでに提出できるよう、毎日少しずつ準備を＿すすめて＿います。",
+"options": [
+"進めて",
+"勤めて",
+"勧めて",
+"励めて"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-4-1-q14",
+"type": "orthography",
+"question": "この地域は近年、人口が＿きゅうそく＿に増えています。",
+"options": [
+"急促",
+"急速",
+"急則",
+"急側"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-4-1-q15",
+"type": "context",
+"question": "時間がないときは、やり方を少し（　　）してみてください。",
+"options": [
+"工夫",
+"想像",
+"競争",
+"観察"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-4-1-q16",
+"type": "context",
+"question": "あの人は約束を（　　）、来ませんでした。",
+"options": [
+"捨てて",
+"離して",
+"焦って",
+"やぶって"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-4-1-q17",
+"type": "context",
+"question": "ジュースに入れた氷が（　　）、味が薄くなってしまった。",
+"options": [
+"かわって",
+"かれて",
+"こげて",
+"とけて"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-4-1-q18",
+"type": "context",
+"question": "来年は海外で働けるように、（　　）を持って勉強を続けている。",
+"options": [
+"希望",
+"不安",
+"失望",
+"期待"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-4-1-q19",
+"type": "context",
+"question": "渋滞のせいでバスがなかなか来なくて、（　　）した。",
+"options": [
+"わくわく",
+"すっきり",
+"いらいら",
+"ぐっすり"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-4-1-q2",
+"type": "kanji_reading",
+"question": "その店は駅から近くて、＿便利＿です。",
+"options": [
+"へんり",
+"べんり",
+"べんい",
+"へんい"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-4-1-q20",
+"type": "context",
+"question": "このクイズは難しすぎて、いくら考えてもわからない。少し（　　）をください。",
+"options": [
+"アイディア",
+"ヒント",
+"ルール",
+"サンプル"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-4-1-q21",
+"type": "context",
+"question": "友達が毎年海外旅行に行けるなんて、本当に（　　）です。",
+"options": [
+"かなしい",
+"くやしい",
+"うらやましい",
+"なつかしい"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-4-1-q22",
+"type": "context",
+"question": "この絵は古いですが、芸術的な（　　）が高いそうです。",
+"options": [
+"現金",
+"料金",
+"代金",
+"価値"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-4-1-q23",
+"type": "context",
+"question": "A「今日は手伝ってくれて、本当に助かったよ。」 　B「（　　）。こちらこそ、ありがとう。」",
+"options": [
+"とんでもない",
+"もったいない",
+"つまらない",
+"くだらない"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-4-1-q24",
+"type": "context",
+"question": "あの学生はいつも授業で（　　）に発言している。",
+"options": [
+"常識的",
+"一般的",
+"積極的",
+"自動的"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-4-1-q25",
+"type": "context",
+"question": "次の駅まで（　　）は300円です。",
+"options": [
+"片方",
+"片道",
+"反対",
+"半々"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-4-1-q26",
+"type": "paraphrase",
+"question": "仕事が終わるころには、おなかが＿ぺこぺこ＿だった。",
+"options": [
+"少し痛かった",
+"とてもすいていた",
+"いっぱいだった",
+"気持ちが悪かった"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-4-1-q27",
+"type": "paraphrase",
+"question": "地図で駅の＿位置＿を確認してから、出かけました。",
+"options": [
+"場所",
+"向き",
+"形",
+"広さ"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-4-1-q28",
+"type": "paraphrase",
+"question": "このアパートは＿キッチン＿が広くて、料理がしやすい。",
+"options": [
+"庭",
+"玄関",
+"台所",
+"屋根"
+],
+"answer": 2
+}
+]

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="description" content="Tổng ôn JLPT N3: thi thử, luyện nhanh, chữa bài, ôn lại theo spaced repetition.">
+  <meta name="theme-color" content="#1c5cab">
+  <title>JLPT N3 – Tổng ôn</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='18' fill='%231c5cab'/><text x='50' y='72' text-anchor='middle' font-size='64' fill='white' font-family='sans-serif'>日</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a href="#/" class="brand" aria-label="Trang chủ">
+      <span class="brand-mark">日</span>
+      <span class="brand-text">JLPT N3</span>
+    </a>
+    <nav class="site-nav" id="nav" aria-label="Điều hướng chính">
+      <a href="#/" data-route="/">Hôm nay</a>
+      <a href="#/test" data-route="/test">Thi thử</a>
+      <a href="#/drill" data-route="/drill">Luyện nhanh</a>
+      <a href="#/review" data-route="/review">Xem sau <span class="nav-badge" id="nav-due" hidden>0</span></a>
+      <a href="#/progress" data-route="/progress">Tiến độ</a>
+      <a href="#/ref" data-route="/ref">Tra cứu</a>
+      <a href="#/settings" data-route="/settings" aria-label="Cài đặt">⚙</a>
+    </nav>
+  </header>
+
+  <main id="app" class="container">
+    <p class="muted">Đang tải...</p>
+  </main>
+
+  <footer class="site-footer">
+    <small>Dữ liệu tiến độ lưu trên trình duyệt này. Nhớ <a href="#/settings">sao lưu</a> định kỳ.</small>
+  </footer>
+
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+  <div id="modal-root"></div>
+  <script type="module" src="/js/app.js"></script>
+</body>
+</html>

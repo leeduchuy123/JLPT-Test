@@ -1,0 +1,802 @@
+{
+ "gyanmirai:vocabulary-11-18": {
+  "opts": [
+   "✔ at most – nhiều nhất cũng chỉ, cùng lắm là (せいぜい)",
+   "more than – hơn",
+   "exactly – chính xác",
+   "at least – ít nhất, ngược nghĩa"
+  ],
+  "trans": "せいぜい nghĩa là gì? → nhiều nhất cũng chỉ, cùng lắm là.",
+  "note": "せいぜい = cùng lắm là, đánh giá thấp: せいぜい10人だろう. Nghĩa khác: cố hết sức (せいぜい頑張って)."
+ },
+ "gyanmirai:vocabulary-11-19": {
+  "opts": [
+   "exactly – chính xác",
+   "fewer than – ít hơn",
+   "✔ at least – ít nhất (少なくとも)",
+   "at most – nhiều nhất, ngược nghĩa"
+  ],
+  "trans": "少なくとも nghĩa là gì? → ít nhất.",
+  "note": "少なくとも すくなくとも = ít nhất cũng: 少なくとも1時間はかかる. Trái với せいぜい."
+ },
+ "gyanmirai:vocabulary-11-2": {
+  "opts": [
+   "つぎぞく – không có từ này",
+   "つぎつづ – không có từ này",
+   "✔ せつぞく – 接続, kết nối (TIẾP TỤC)",
+   "せつつづ – không có từ này"
+  ],
+  "trans": "接続 đọc là gì? → せつぞく (kết nối).",
+  "note": "接 TIẾP → せつ, 続 TỤC → ぞく (đục, như 継続 けいぞく). インターネットに接続する."
+ },
+ "gyanmirai:vocabulary-11-20": {
+  "opts": [
+   "似た意味 – gần nghĩa, không đúng",
+   "関係ない – không liên quan, không đúng",
+   "同じ意味 – cùng nghĩa, không đúng",
+   "✔ 反対の意味 – trái nghĩa: cùng lắm là ⇔ ít nhất"
+  ],
+  "trans": "せいぜい và 少なくとも quan hệ thế nào? → trái nghĩa.",
+  "note": "せいぜい chặn trên (nhiều nhất cũng chỉ), 少なくとも chặn dưới (ít nhất)."
+ },
+ "gyanmirai:vocabulary-11-3": {
+  "opts": [
+   "設定 – cài đặt, không đi với に…できません kiểu này",
+   "検索 – tìm kiếm, phải là インターネットで検索",
+   "すべて可能 – không, chỉ 接続 hợp với trợ từ に",
+   "✔ 接続 – kết nối; インターネットに接続する là cụm chuẩn"
+  ],
+  "trans": "Không thể kết nối internet.",
+  "note": "Mấu chốt là trợ từ に: 〜に接続する = kết nối với. 検索 và 設定 đi với を/で."
+ },
+ "gyanmirai:vocabulary-11-4": {
+  "opts": [
+   "✔ がいとう – 該当, tương ứng, thuộc diện (CAI ĐƯƠNG)",
+   "かいとう – 回答 'trả lời' / 解答 'đáp án', không phải chữ này",
+   "がいあた – không có từ này",
+   "かいあた – không có từ này"
+  ],
+  "trans": "該当 đọc là gì? → がいとう (thuộc diện, tương ứng).",
+  "note": "該 CAI → がい (âm đục), 当 ĐƯƠNG → とう. 該当する = phù hợp với điều kiện. Từ mức N1, hay gặp trong giấy tờ."
+ },
+ "gyanmirai:vocabulary-11-5": {
+  "opts": [
+   "unrelated items – mục không liên quan, ngược nghĩa",
+   "no items – không có mục nào",
+   "all items – tất cả các mục",
+   "✔ applicable items – các mục phù hợp, thuộc diện áp dụng"
+  ],
+  "trans": "該当する項目 nghĩa là gì? → các mục phù hợp, thuộc diện.",
+  "note": "該当する項目にチェック = tích vào mục phù hợp với bạn. 該当なし = không có mục nào phù hợp."
+ },
+ "gyanmirai:vocabulary-11-6": {
+  "opts": [
+   "しきはん – không có từ này",
+   "しきばん – không có từ này",
+   "✔ ひんぱん – 頻繁, thường xuyên, dồn dập (TẦN PHỒN)",
+   "ひんばん – không có từ này"
+  ],
+  "trans": "頻繁 đọc là gì? → ひんぱん (thường xuyên).",
+  "note": "頻 TẦN → ひん, 繁 PHỒN → ぱん (bán đục sau ん). 頻繁に = thường xuyên, liên tục."
+ },
+ "gyanmirai:vocabulary-11-7": {
+  "opts": [
+   "rarely – hiếm khi, ngược nghĩa",
+   "sometimes – thỉnh thoảng",
+   "✔ frequently – thường xuyên (頻繁に)",
+   "never – không bao giờ"
+  ],
+  "trans": "頻繁に nghĩa là gì? → thường xuyên.",
+  "note": "頻繁に起こる = xảy ra thường xuyên. Mức độ mạnh hơn よく, gần với しょっちゅう."
+ },
+ "gyanmirai:vocabulary-11-8": {
+  "opts": [
+   "おだちょう – không có từ này",
+   "おだちょ – không có từ này",
+   "✔ じゅんちょう – 順調, suôn sẻ, thuận lợi (THUẬN ĐIỀU)",
+   "じゅんちょ – không có từ này"
+  ],
+  "trans": "順調 đọc là gì? → じゅんちょう (suôn sẻ).",
+  "note": "順 THUẬN → じゅん, 調 ĐIỀU → ちょう có trường âm. 順調に進む = tiến triển suôn sẻ."
+ },
+ "gyanmirai:vocabulary-11-9": {
+  "opts": [
+   "快調 – かいちょう, trôi chảy, sung sức; dùng được",
+   "好調 – こうちょう, thuận lợi, phong độ tốt; dùng được",
+   "✔ すべて可能 – cả ba đều có nghĩa 'tiến triển tốt'",
+   "順調 – じゅんちょう, suôn sẻ; tự nhiên nhất"
+  ],
+  "trans": "Dự án đang tiến triển (suôn sẻ / thuận lợi / trôi chảy).",
+  "note": "順調 là từ chuẩn nhất cho 'suôn sẻ'; 好調, 快調 thiên về phong độ, tình hình kinh doanh. Cả ba đều chấp nhận được."
+ },
+ "gyanmirai:vocabulary-12-1": {
+  "opts": [
+   "✔ earnestly/solely – một mực, chỉ chuyên tâm (ひたすら)",
+   "lazily – lười biếng",
+   "reluctantly – miễn cưỡng",
+   "occasionally – thỉnh thoảng"
+  ],
+  "trans": "ひたすら nghĩa là gì? → một mực, chuyên tâm làm mỗi việc đó.",
+  "note": "ひたすら = chỉ làm duy nhất một việc, không nghĩ gì khác: ひたすら走る, ひたすら謝る."
+ },
+ "gyanmirai:vocabulary-12-10": {
+  "opts": [
+   "案の定 – quả nhiên như dự đoán, ở đây không có dự đoán trước",
+   "さすがに – quả đúng là, không hợp ý trái ngược",
+   "✔ かえって – ngược lại, trái với mong đợi: uống thuốc mà lại nặng hơn",
+   "やはり – quả nhiên, không diễn tả kết quả trái ngược"
+  ],
+  "trans": "Uống thuốc rồi mà ngược lại còn tệ hơn.",
+  "note": "かえって dùng khi kết quả ngược với kỳ vọng: làm A để tốt lên nhưng lại xấu đi. Thuốc đáng lẽ phải đỡ."
+ },
+ "gyanmirai:vocabulary-12-11": {
+  "opts": [
+   "budget – ngân sách",
+   "✔ estimate/quote – báo giá, dự toán (見積もり)",
+   "invoice – hóa đơn thanh toán",
+   "receipt – biên lai"
+  ],
+  "trans": "見積もり nghĩa là gì? → bản báo giá, dự toán.",
+  "note": "見積もり みつもり = ước tính chi phí trước khi làm. 見積もりを取る = lấy báo giá. 請求書 mới là hóa đơn."
+ },
+ "gyanmirai:vocabulary-12-12": {
+  "opts": [
+   "ていむす – không có từ này",
+   "✔ ていけつ – 締結, ký kết (hợp đồng, hiệp ước) (ĐẾ KẾT)",
+   "しめけつ – không có từ này",
+   "しめむす – không có từ này"
+  ],
+  "trans": "締結 đọc là gì? → ていけつ (ký kết).",
+  "note": "締 ĐẾ → てい (kun しめる = thắt, siết), 結 KẾT → けつ. 契約を締結する. Từ mức N1."
+ },
+ "gyanmirai:vocabulary-12-13": {
+  "opts": [
+   "✔ すべて可能 – cả ba đều ghép tự nhiên với 契約",
+   "解除 – hủy bỏ hợp đồng",
+   "締結 – ký kết hợp đồng",
+   "更新 – gia hạn hợp đồng"
+  ],
+  "trans": "Tôi đã (hủy / ký kết / gia hạn) hợp đồng.",
+  "note": "契約を締結する (ký), 契約を更新する (gia hạn), 契約を解除する (hủy): ba giai đoạn của một hợp đồng."
+ },
+ "gyanmirai:vocabulary-12-14": {
+  "opts": [
+   "かいのぞ – không có từ này",
+   "✔ かいじょ – 解除, hủy bỏ, gỡ bỏ (GIẢI TRỪ)",
+   "とけじょ – không có từ này",
+   "とけのぞ – không có từ này"
+  ],
+  "trans": "解除 đọc là gì? → かいじょ (hủy bỏ, gỡ bỏ).",
+  "note": "解 GIẢI → かい, 除 TRỪ → じょ (掃除 そうじ cũng là じ). ロックを解除する = mở khóa."
+ },
+ "gyanmirai:vocabulary-12-15": {
+  "opts": [
+   "とりよう – không có từ này",
+   "とりもち – không có từ này",
+   "✔ さいよう – 採用, tuyển dụng, áp dụng (THÁI DỤNG)",
+   "さいもち – không có từ này"
+  ],
+  "trans": "採用 đọc là gì? → さいよう (tuyển dụng).",
+  "note": "採 THÁI → さい (kun とる = lấy, hái), 用 DỤNG → よう. 採用試験 = kỳ thi tuyển dụng."
+ },
+ "gyanmirai:vocabulary-12-16": {
+  "opts": [
+   "✔ 採用 – tuyển dụng; 'nhân viên mới' thì chỉ có tuyển vào",
+   "配置 – bố trí, sắp xếp vị trí; không hợp với 新しい",
+   "解雇 – sa thải; không ai sa thải nhân viên vừa mới",
+   "すべて可能 – không, 解雇 trái nghĩa hẳn"
+  ],
+  "trans": "Chúng tôi đã tuyển nhân viên mới.",
+  "note": "採用 = tuyển vào ⇔ 解雇 かいこ = sa thải. 配置 là xếp người đã có vào vị trí."
+ },
+ "gyanmirai:vocabulary-12-17": {
+  "opts": [
+   "とけく – không có từ này",
+   "✔ かいこ – 解雇, sa thải (GIẢI CỐ)",
+   "かいく – không có từ này",
+   "とけやと – không có từ này"
+  ],
+  "trans": "解雇 đọc là gì? → かいこ (sa thải).",
+  "note": "解 GIẢI → かい, 雇 CỐ → こ (kun やとう = thuê). 解雇される = bị sa thải. Thường gặp hơn: クビになる."
+ },
+ "gyanmirai:vocabulary-12-18": {
+  "opts": [
+   "のぼしん – không có từ này",
+   "しょうすす – không có từ này",
+   "のぼすす – không có từ này",
+   "✔ しょうしん – 昇進, thăng chức (THĂNG TIẾN)"
+  ],
+  "trans": "昇進 đọc là gì? → しょうしん (thăng chức).",
+  "note": "昇 THĂNG → しょう (kun のぼる), 進 TIẾN → しん. 課長に昇進する. Ngược lại: 降格 こうかく."
+ },
+ "gyanmirai:vocabulary-12-19": {
+  "opts": [
+   "resignation – từ chức (辞任)",
+   "✔ demotion – giáng chức (降格 こうかく)",
+   "transfer – thuyên chuyển (異動)",
+   "promotion – thăng chức (昇進), ngược nghĩa"
+  ],
+  "trans": "降格 nghĩa là gì? → giáng chức.",
+  "note": "降格 こうかく (GIÁNG CÁCH) = hạ cấp bậc. Trái nghĩa 昇進 / 昇格. Trong bóng đá = xuống hạng."
+ },
+ "gyanmirai:vocabulary-12-2": {
+  "opts": [
+   "definitely – chắc chắn",
+   "never – không bao giờ",
+   "✔ barely/narrowly – suýt soát, vừa đủ, một cách chật vật (かろうじて)",
+   "easily – dễ dàng, ngược nghĩa"
+  ],
+  "trans": "かろうじて nghĩa là gì? → suýt soát, vừa vặn (đạt được).",
+  "note": "かろうじて (辛うじて) = khó khăn lắm mới vừa đủ: かろうじて間に合った = suýt nữa thì trễ."
+ },
+ "gyanmirai:vocabulary-12-20": {
+  "opts": [
+   "やめにん – không có từ này",
+   "やめんにん – không có từ này",
+   "✔ じにん – 辞任, từ chức (TỪ NHIỆM)",
+   "じんにん – không có từ này"
+  ],
+  "trans": "辞任 đọc là gì? → じにん (từ chức).",
+  "note": "辞 TỪ → じ (kun やめる = thôi việc), 任 NHIỆM → にん. 大臣が辞任する. Trái nghĩa: 就任 しゅうにん."
+ },
+ "gyanmirai:vocabulary-12-3": {
+  "opts": [
+   "✔ in an instant – trong chớp mắt, ngay lập tức (たちまち)",
+   "slowly – từ từ, ngược nghĩa",
+   "sometimes – thỉnh thoảng",
+   "never – không bao giờ"
+  ],
+  "trans": "たちまち nghĩa là gì? → trong chớp mắt, ngay tức khắc.",
+  "note": "たちまち = thay đổi/lan ra rất nhanh: たちまち売り切れた = hết veo ngay lập tức."
+ },
+ "gyanmirai:vocabulary-12-4": {
+  "opts": [
+   "eventually – cuối cùng",
+   "slowly – từ từ",
+   "✔ suddenly/abruptly – đột ngột, bất thình lình (いきなり)",
+   "gradually – dần dần, ngược nghĩa"
+  ],
+  "trans": "いきなり nghĩa là gì? → đột ngột, bất thình lình.",
+  "note": "いきなり = không báo trước, không có bước đệm: いきなり雨が降り出した. Gần nghĩa 突然, 急に."
+ },
+ "gyanmirai:vocabulary-12-5": {
+  "opts": [
+   "together – cùng nhau",
+   "✔ one by one/every single – từng cái một, cái gì cũng (いちいち)",
+   "never – không bao giờ",
+   "sometimes – thỉnh thoảng"
+  ],
+  "trans": "いちいち nghĩa là gì? → từng cái một, cái gì cũng (phiền phức).",
+  "note": "いちいち thường mang sắc thái khó chịu: いちいち文句を言う = cái gì cũng càu nhàu."
+ },
+ "gyanmirai:vocabulary-12-6": {
+  "opts": [
+   "✔ involuntarily/unintentionally – bất giác, vô thức (思わず)",
+   "slowly – từ từ",
+   "carefully – cẩn thận",
+   "intentionally – cố ý, ngược nghĩa"
+  ],
+  "trans": "思わず nghĩa là gì? → bất giác, không chủ ý.",
+  "note": "思わず おもわず = phản ứng tự nhiên trước khi kịp nghĩ: 思わず笑ってしまった = bất giác bật cười."
+ },
+ "gyanmirai:vocabulary-12-7": {
+  "opts": [
+   "unfortunately – tiếc là",
+   "surprisingly – bất ngờ, ngược nghĩa",
+   "✔ as expected – quả nhiên, đúng như dự đoán (案の定)",
+   "luckily – may mắn"
+  ],
+  "trans": "案の定 nghĩa là gì? → quả nhiên, đúng như đã đoán.",
+  "note": "案の定 あんのじょう = kết quả (thường xấu) đúng như lo ngại: 案の定、遅刻した."
+ },
+ "gyanmirai:vocabulary-12-8": {
+  "opts": [
+   "✔ to the end/stubbornly – đến cùng, một mực, chỉ là (あくまで)",
+   "sometimes – thỉnh thoảng",
+   "partially – một phần",
+   "giving up – bỏ cuộc, ngược nghĩa"
+  ],
+  "trans": "あくまで nghĩa là gì? → đến cùng, kiên quyết; hoặc 'chỉ đơn thuần là'.",
+  "note": "あくまで(も) có 2 nghĩa: kiên trì đến cùng (あくまで反対する) và 'chỉ là' (あくまで個人の意見です)."
+ },
+ "gyanmirai:vocabulary-12-9": {
+  "opts": [
+   "as expected – quả nhiên",
+   "therefore – vì vậy",
+   "✔ on the contrary – ngược lại, trái lại (かえって)",
+   "similarly – tương tự"
+  ],
+  "trans": "かえって nghĩa là gì? → ngược lại, trái với dự tính.",
+  "note": "かえって = kết quả ngược với mong đợi: 急いだらかえって遅くなった = vội quá hóa chậm."
+ },
+ "gyanmirai:vocabulary-13-1": {
+  "opts": [
+   "つくにん – không có từ này",
+   "しゅにん – 主任 'trưởng nhóm', không phải chữ này",
+   "✔ しゅうにん – 就任, nhậm chức (TỰU NHIỆM)",
+   "つにん – không có từ này"
+  ],
+  "trans": "就任 đọc là gì? → しゅうにん (nhậm chức).",
+  "note": "就 TỰU → しゅう có trường âm (就職 しゅうしょく). Đừng rút ngắn thành しゅにん (主任)."
+ },
+ "gyanmirai:vocabulary-13-10": {
+  "opts": [
+   "まえだい – không có từ này",
+   "✔ ぜんてい – 前提, tiền đề (TIỀN ĐỀ)",
+   "ぜんだい – không có từ này",
+   "まえてい – không có từ này"
+  ],
+  "trans": "前提 đọc là gì? → ぜんてい (tiền đề).",
+  "note": "前 TIỀN → ぜん, 提 ĐỀ → てい (提出 ていしゅつ). 〜を前提に = với tiền đề là."
+ },
+ "gyanmirai:vocabulary-13-11": {
+  "opts": [
+   "exception – ngoại lệ",
+   "conclusion – kết luận",
+   "result – kết quả",
+   "✔ prerequisite – điều kiện tiên quyết (前提条件)"
+  ],
+  "trans": "前提条件 nghĩa là gì? → điều kiện tiên quyết.",
+  "note": "前提条件 ぜんていじょうけん = điều kiện phải có trước. 条件 じょうけん = điều kiện."
+ },
+ "gyanmirai:vocabulary-13-12": {
+  "opts": [
+   "かりせつ – không có từ này (仮 đọc かり chỉ khi đứng riêng)",
+   "かぜつ – không có từ này",
+   "かりぜつ – không có từ này",
+   "✔ かせつ – 仮説, giả thuyết (GIẢ THUYẾT)"
+  ],
+  "trans": "仮説 đọc là gì? → かせつ (giả thuyết).",
+  "note": "仮 GIẢ → か (on), kun là かり (仮に = giả sử). 説 THUYẾT → せつ. Cùng âm かせつ: 仮設 (lắp tạm)."
+ },
+ "gyanmirai:vocabulary-13-13": {
+  "opts": [
+   "✔ 仮説→chưa chứng minh, 定説→được công nhận rộng rãi",
+   "仮説→đã chứng minh, 定説→chưa chứng minh – ngược rồi",
+   "同じ意味 – không, hai từ khác nhau",
+   "関係ない – không, cả hai đều là 'thuyết'"
+  ],
+  "trans": "仮説 và 定説 khác nhau thế nào? → 仮説 là giả thuyết chưa chứng minh, 定説 là thuyết đã được công nhận.",
+  "note": "仮 GIẢ = tạm, giả định; 定 ĐỊNH = đã xác định. 定説 ていせつ = học thuyết được thừa nhận."
+ },
+ "gyanmirai:vocabulary-13-14": {
+  "opts": [
+   "みしょう – không có từ này",
+   "みつしょう – không có từ này",
+   "じつしょう – sai, phải có âm ngắt",
+   "✔ じっしょう – 実証, chứng minh bằng thực tế (THỰC CHỨNG)"
+  ],
+  "trans": "実証 đọc là gì? → じっしょう (thực chứng).",
+  "note": "実 THỰC → じつ, trước し biến thành じっ (âm ngắt), như 実際 じっさい, 実験 じっけん."
+ },
+ "gyanmirai:vocabulary-13-15": {
+  "opts": [
+   "実証 – じっしょう, chứng minh bằng thực tế; dùng được",
+   "検証 – けんしょう, kiểm chứng; dùng được",
+   "証明 – しょうめい, chứng minh; dùng được",
+   "✔ すべて可能 – cả ba đều ghép được với 仮説を"
+  ],
+  "trans": "Tôi đã thu thập dữ liệu để (kiểm chứng / chứng minh) giả thuyết.",
+  "note": "仮説を検証する là cụm chuẩn nhất; 実証, 証明 cũng dùng được. Cả ba đều mang nghĩa chứng minh."
+ },
+ "gyanmirai:vocabulary-13-16": {
+  "opts": [
+   "素晴らしい – tuyệt vời, không liên quan",
+   "一貫性がある – có tính nhất quán, ngược nghĩa",
+   "普通だ – bình thường",
+   "✔ つじつまが合わない – không khớp, trước sau bất nhất"
+  ],
+  "trans": "Bị chỉ ra là 'mâu thuẫn'. Nghĩa là gì? → đầu đuôi không khớp nhau.",
+  "note": "矛盾 むじゅん (MÂU THUẪN) = giáo và khiên, hai điều phủ định lẫn nhau. つじつまが合う = ăn khớp."
+ },
+ "gyanmirai:vocabulary-13-17": {
+  "opts": [
+   "いつかん – sai, phải có âm ngắt",
+   "✔ いっかん – 一貫, nhất quán, xuyên suốt (NHẤT QUÁN)",
+   "ひとかん – không có từ này",
+   "ひとつかん – không có từ này"
+  ],
+  "trans": "一貫 đọc là gì? → いっかん (nhất quán).",
+  "note": "一 trước か-hàng thành いっ (一回 いっかい). 貫 QUÁN → かん. 一貫して = một cách nhất quán."
+ },
+ "gyanmirai:vocabulary-13-18": {
+  "opts": [
+   "occasionally – thỉnh thoảng",
+   "randomly – ngẫu nhiên",
+   "inconsistently – không nhất quán, ngược nghĩa",
+   "✔ consistently – một cách nhất quán, trước sau như một (一貫して)"
+  ],
+  "trans": "一貫して nghĩa là gì? → một cách nhất quán.",
+  "note": "一貫して反対している = từ đầu đến cuối vẫn phản đối. Danh từ: 一貫性 いっかんせい."
+ },
+ "gyanmirai:vocabulary-13-19": {
+  "opts": [
+   "一貫 – nhất quán, trái nghĩa đúng",
+   "整合 – せいごう, ăn khớp, trái nghĩa đúng",
+   "論理的 – ろんりてき, logic; hơi khác loại từ nhưng đề coi là liên quan",
+   "✔ すべて関連 – 'tất cả đều liên quan' theo đáp án nguồn"
+  ],
+  "trans": "Từ trái nghĩa với 矛盾 là gì? → theo đáp án nguồn: 一貫, 整合, 論理的 đều liên quan.",
+  "note": "Trái nghĩa chuẩn của 矛盾 là 一貫 hoặc 整合 (整合性 = tính nhất quán). 論理的 là tính từ, hơi lệch loại."
+ },
+ "gyanmirai:vocabulary-13-2": {
+  "opts": [
+   "昇進 – thăng chức, không phải cặp đối",
+   "退任 – たいにん, rời nhiệm vụ; gần nghĩa với 辞任",
+   "解任 – かいにん, bị bãi nhiệm; cũng là rời chức",
+   "✔ 就任 – しゅうにん, nhậm chức; trái với từ chức"
+  ],
+  "trans": "Từ trái nghĩa với 辞任 là gì? → 就任 (nhậm chức).",
+  "note": "辞任 (tự xin thôi) ⇔ 就任 (nhận chức). 退任, 解任 đều là 'rời chức' nên không phải trái nghĩa."
+ },
+ "gyanmirai:vocabulary-13-20": {
+  "opts": [
+   "✔ ふきゅう – 普及, phổ cập, lan rộng (PHỔ CẬP)",
+   "ふおよ – không có từ này",
+   "ほきゅう – 補給 'tiếp tế', không phải chữ này",
+   "ほおよ – không có từ này"
+  ],
+  "trans": "普及 đọc là gì? → ふきゅう (phổ cập).",
+  "note": "普 PHỔ → ふ (普通 ふつう), 及 CẬP → きゅう (kun およぶ). スマホが普及する."
+ },
+ "gyanmirai:vocabulary-13-3": {
+  "opts": [
+   "ふくちょう – không có từ này",
+   "✔ ぼうちょう – 膨張, giãn nở, phình to (BÀNH TRƯỚNG)",
+   "ぼうはり – không có từ này",
+   "ふくはり – không có từ này"
+  ],
+  "trans": "膨張 đọc là gì? → ぼうちょう (giãn nở).",
+  "note": "膨 BÀNH → ぼう (kun ふくらむ), 張 TRƯƠNG → ちょう. Vật lý: 熱膨張 giãn nở vì nhiệt. Từ mức N1."
+ },
+ "gyanmirai:vocabulary-13-4": {
+  "opts": [
+   "しゅうちぢ – không có từ này",
+   "おさしゅく – không có từ này",
+   "おさちぢ – không có từ này",
+   "✔ しゅうしゅく – 収縮, co lại, thu nhỏ (THU SÚC)"
+  ],
+  "trans": "収縮 đọc là gì? → しゅうしゅく (co lại).",
+  "note": "収 THU → しゅう (kun おさめる), 縮 SÚC → しゅく (kun ちぢむ). 筋肉が収縮する = cơ co."
+ },
+ "gyanmirai:vocabulary-13-5": {
+  "opts": [
+   "増加 – tăng lên, không phải cặp đối",
+   "✔ 収縮 – co lại, trái với giãn nở",
+   "成長 – tăng trưởng",
+   "拡大 – mở rộng, gần nghĩa với 膨張"
+  ],
+  "trans": "Từ trái nghĩa với 膨張 là gì? → 収縮 (co lại).",
+  "note": "膨張 ぼうちょう (nở) ⇔ 収縮 しゅうしゅく (co). Cặp kun tương ứng: 膨らむ ⇔ 縮む."
+ },
+ "gyanmirai:vocabulary-13-7": {
+  "opts": [
+   "✔ 要因→nhiều yếu tố góp phần, 原因→lý do trực tiếp",
+   "同じ意味 – không, có khác biệt sắc thái",
+   "関係ない – không, cả hai đều về nguyên nhân",
+   "要因→kết quả, 原因→quá trình – sai"
+  ],
+  "trans": "要因 và 原因 khác nhau thế nào? → 要因 là các yếu tố góp phần, 原因 là nguyên nhân trực tiếp.",
+  "note": "原因 げんいん = nguyên nhân gây ra kết quả; 要因 よういん = yếu tố chính, thường nhiều cái cộng lại."
+ },
+ "gyanmirai:vocabulary-13-8": {
+  "opts": [
+   "せけい – không có từ này",
+   "✔ はいけい – 背景, bối cảnh, nền (BỐI CẢNH)",
+   "せかげ – không có từ này",
+   "はいかげ – không có từ này"
+  ],
+  "trans": "背景 đọc là gì? → はいけい (bối cảnh).",
+  "note": "背 BỐI → はい (kun せ = lưng), 景 CẢNH → けい (景色 là けしき ngoại lệ). 歴史的背景."
+ },
+ "gyanmirai:vocabulary-13-9": {
+  "opts": [
+   "✔ すべて可能 – cả ba đều ghép tự nhiên với 問題の",
+   "背景 – bối cảnh của vấn đề",
+   "要因 – các yếu tố gây ra vấn đề",
+   "原因 – nguyên nhân của vấn đề"
+  ],
+  "trans": "Cần hiểu (bối cảnh / yếu tố / nguyên nhân) của vấn đề này.",
+  "note": "問題の背景・要因・原因を理解する đều là cụm hay gặp trong văn phân tích. Nghĩa khác nhau nhưng đều hợp."
+ },
+ "gyanmirai:vocabulary-14-1": {
+  "opts": [
+   "流行 – thịnh hành, mốt; không đi với 世界中に…する kiểu này",
+   "✔ 普及 – phổ cập, lan rộng ra toàn thế giới",
+   "すべて可能 – không, 流行 và 拡大 không tự nhiên ở đây",
+   "拡大 – mở rộng; chủ ngữ thường là quy mô, thị trường"
+  ],
+  "trans": "Điện thoại thông minh đã phổ cập khắp thế giới.",
+  "note": "普及 = một thứ trở nên phổ biến ai cũng dùng. 流行 là mốt nhất thời, 拡大 là phạm vi/quy mô to ra."
+ },
+ "gyanmirai:vocabulary-14-10": {
+  "opts": [
+   "がいかた – không có từ này",
+   "✔ おおむね – 概ね, đại thể, nhìn chung (KHÁI)",
+   "がいね – không có từ này",
+   "おおかた – 大方 'phần lớn', khác chữ"
+  ],
+  "trans": "概ね đọc là gì? → おおむね (đại thể, nhìn chung).",
+  "note": "概 KHÁI đọc kun おおむね là cách đọc đặc biệt; on là がい (概要 がいよう). Từ mức N1."
+ },
+ "gyanmirai:vocabulary-14-11": {
+  "opts": [
+   "すべて可能 – không, 全く không đi với 順調",
+   "完全に – hoàn toàn; 完全に順調 nghe cường điệu, ít dùng",
+   "✔ 概ね – nhìn chung, về cơ bản; 概ね順調 là cụm rất quen",
+   "全く – hoàn toàn (không); thường đi với phủ định"
+  ],
+  "trans": "Kế hoạch nhìn chung là suôn sẻ.",
+  "note": "概ね順調 = về cơ bản ổn, có vài điểm nhỏ. 全く dùng với phủ định (全くできない)."
+ },
+ "gyanmirai:vocabulary-14-12": {
+  "opts": [
+   "always – luôn luôn",
+   "✔ generally/indiscriminately – vơ đũa cả nắm, nói chung chung (một mực)",
+   "definitely – chắc chắn",
+   "never – không bao giờ"
+  ],
+  "trans": "一概に nghĩa là gì? → đánh đồng tất cả, vơ đũa cả nắm.",
+  "note": "一概に いちがいに hầu như luôn đi với phủ định: 一概には言えない = không thể nói chung chung được."
+ },
+ "gyanmirai:vocabulary-14-13": {
+  "opts": [
+   "たいけい – 体系 'hệ thống' / 体型 'dáng người', không phải chữ này",
+   "✔ たいせい – 体制, thể chế, cơ cấu tổ chức (THỂ CHẾ)",
+   "からだせい – không có từ này",
+   "からだけい – không có từ này"
+  ],
+  "trans": "体制 đọc là gì? → たいせい (thể chế).",
+  "note": "制 CHẾ → せい. Cùng âm たいせい: 態勢 (tư thế sẵn sàng), 大勢 (xu thế chung). Rất dễ nhầm với 体系 たいけい."
+ },
+ "gyanmirai:vocabulary-14-14": {
+  "opts": [
+   "したく – 支度 'chuẩn bị', không phải chữ này",
+   "✔ せいど – 制度, chế độ, hệ thống quy định (CHẾ ĐỘ)",
+   "せいたく – 贅沢 'xa xỉ', không phải chữ này",
+   "しど – không có từ này"
+  ],
+  "trans": "制度 đọc là gì? → せいど (chế độ).",
+  "note": "制 CHẾ → せい, 度 ĐỘ → ど (âm đục). 年金制度 = chế độ lương hưu."
+ },
+ "gyanmirai:vocabulary-14-15": {
+  "opts": [
+   "関係ない – không, cả hai đều về cách tổ chức xã hội",
+   "同じ意味 – không, có khác biệt",
+   "✔ 体制→cơ cấu tổ chức, 制度→quy tắc, luật lệ",
+   "体制→quy tắc, 制度→tổ chức – ngược rồi"
+  ],
+  "trans": "体制 và 制度 khác nhau thế nào? → 体制 là cơ cấu tổ chức, 制度 là quy tắc.",
+  "note": "体制 = bộ máy, cách tổ chức (政治体制); 制度 = các quy định được lập ra (教育制度)."
+ },
+ "gyanmirai:vocabulary-14-16": {
+  "opts": [
+   "おきし – không có từ này",
+   "✔ そち – 措置, biện pháp xử lý (THỐ TRÍ)",
+   "そし – 阻止 'ngăn chặn', không phải chữ này",
+   "おきち – không có từ này"
+  ],
+  "trans": "措置 đọc là gì? → そち (biện pháp).",
+  "note": "措 THỐ → そ, 置 TRÍ → ち (kun おく). 措置を取る/講じる = thực hiện biện pháp. Từ hành chính, mức N1."
+ },
+ "gyanmirai:vocabulary-14-17": {
+  "opts": [
+   "措置 – biện pháp xử lý; 措置を取る dùng được",
+   "対策 – biện pháp đối phó; 対策を取る dùng được",
+   "✔ すべて可能 – cả ba đều ghép với 適切な…を取る",
+   "対応 – ứng phó; 対応を取る dùng được"
+  ],
+  "trans": "Cần phải thực hiện (biện pháp / cách ứng phó) thích hợp.",
+  "note": "適切な措置・対策・対応を取る đều là cụm chuẩn. 措置 trang trọng nhất, 対応 thông dụng nhất."
+ },
+ "gyanmirai:vocabulary-14-18": {
+  "opts": [
+   "しもう – không có từ này",
+   "✔ しせつ – 施設, cơ sở, công trình (THI THIẾT)",
+   "せもう – không có từ này",
+   "せせつ – không có từ này"
+  ],
+  "trans": "施設 đọc là gì? → しせつ (cơ sở vật chất).",
+  "note": "施 THI → し (実施 じっし), 設 THIẾT → せつ. 公共施設 = công trình công cộng."
+ },
+ "gyanmirai:vocabulary-14-19": {
+  "opts": [
+   "せつそな – không có từ này",
+   "もうび – không có từ này",
+   "もうそな – không có từ này",
+   "✔ せつび – 設備, trang thiết bị (THIẾT BỊ)"
+  ],
+  "trans": "設備 đọc là gì? → せつび (trang thiết bị).",
+  "note": "設 THIẾT → せつ, 備 BỊ → び (準備 じゅんび). Kun: 設ける もうける, 備える そなえる."
+ },
+ "gyanmirai:vocabulary-14-2": {
+  "opts": [
+   "✔ しんとう – 浸透, thấm sâu, lan tỏa (THẨM THẤU)",
+   "ひたとう – không có từ này",
+   "しんすけ – không có từ này",
+   "ひたすけ – không có từ này"
+  ],
+  "trans": "浸透 đọc là gì? → しんとう (thấm, lan tỏa).",
+  "note": "浸 THẨM → しん (kun ひたす = ngâm), 透 THẤU → とう. Nghĩa bóng: 考え方が浸透する = tư tưởng ăn sâu."
+ },
+ "gyanmirai:vocabulary-14-20": {
+  "opts": [
+   "すべて可能 – không, 施設 lặp từ với chủ ngữ",
+   "環境 – môi trường; 環境が充実 nghe không tự nhiên",
+   "施設 – cơ sở; trùng với chủ ngữ この施設",
+   "✔ 設備 – trang thiết bị; 設備が充実している là cụm chuẩn"
+  ],
+  "trans": "Cơ sở này có trang thiết bị rất đầy đủ.",
+  "note": "施設 = tòa nhà/cơ sở, 設備 = thiết bị bên trong. 設備が充実 = trang bị đầy đủ, hiện đại."
+ },
+ "gyanmirai:vocabulary-14-3": {
+  "opts": [
+   "定着 – ていちゃく, bám rễ, định hình; dùng được",
+   "浸透 – しんとう, thấm sâu vào; dùng được",
+   "普及 – ふきゅう, phổ biến rộng; dùng được",
+   "✔ すべて可能 – cả ba đều ghép với 社会に…してきた"
+  ],
+  "trans": "Cách nghĩ mới đã dần (thấm sâu / phổ biến / định hình) trong xã hội.",
+  "note": "普及 = lan rộng, 浸透 = thấm sâu, 定着 = bám rễ ổn định. Ba mức độ của cùng một quá trình."
+ },
+ "gyanmirai:vocabulary-14-4": {
+  "opts": [
+   "あらさ – không có từ này",
+   "とうさ – không có từ này",
+   "✔ とうた – 淘汰, đào thải, sàng lọc (ĐÀO THẢI)",
+   "あらた – không có từ này"
+  ],
+  "trans": "淘汰 đọc là gì? → とうた (đào thải).",
+  "note": "淘 ĐÀO → とう, 汰 THẢI → た. 自然淘汰 = chọn lọc tự nhiên. Từ mức N1, trên N3 khá xa."
+ },
+ "gyanmirai:vocabulary-14-5": {
+  "opts": [
+   "ほうか – 放火 'phóng hỏa', không phải chữ này",
+   "✔ ほうわ – 飽和, bão hòa (BÃO HÒA)",
+   "あきわ – không có từ này",
+   "あきか – không có từ này"
+  ],
+  "trans": "飽和 đọc là gì? → ほうわ (bão hòa).",
+  "note": "飽 BÃO → ほう (kun あきる = chán), 和 HÒA → わ. 飽和状態 = trạng thái bão hòa. Từ mức N1."
+ },
+ "gyanmirai:vocabulary-14-6": {
+  "opts": [
+   "✔ 飽和 – bão hòa; 飽和状態 là cụm cố định",
+   "すべて可能 – không, 成長状態/発展状態 không tự nhiên",
+   "成長 – tăng trưởng; không ghép với 状態 kiểu này",
+   "発展 – phát triển; không ghép với 状態 kiểu này"
+  ],
+  "trans": "Thị trường đang ở trạng thái bão hòa.",
+  "note": "飽和状態 ほうわじょうたい = đầy, không thể thêm được nữa. 市場が飽和する = thị trường bão hòa."
+ },
+ "gyanmirai:vocabulary-14-7": {
+  "opts": [
+   "✔ barely/narrowly – suýt soát, chật vật mới được (辛うじて)",
+   "easily – dễ dàng, ngược nghĩa",
+   "absolutely – tuyệt đối",
+   "definitely – chắc chắn"
+  ],
+  "trans": "辛うじて nghĩa là gì? → suýt soát, vừa vặn.",
+  "note": "辛うじて かろうじて: 辛 ở đây là 'gian khổ'. 辛うじて合格した = đỗ trong gang tấc."
+ },
+ "gyanmirai:vocabulary-14-8": {
+  "opts": [
+   "✔ especially/particularly – đặc biệt là, nhất là (とりわけ)",
+   "rarely – hiếm khi",
+   "never – không bao giờ",
+   "generally – nói chung, ngược sắc thái"
+  ],
+  "trans": "とりわけ nghĩa là gì? → đặc biệt là, nhất là.",
+  "note": "とりわけ = nổi bật hơn hẳn trong nhóm: 果物の中でとりわけりんごが好き. Gần nghĩa: 特に, 中でも."
+ },
+ "gyanmirai:vocabulary-14-9": {
+  "opts": [
+   "always – luôn luôn",
+   "✔ not so much – không đến mức, không lắm (さほど…ない)",
+   "never – không bao giờ",
+   "very much – rất, ngược nghĩa"
+  ],
+  "trans": "さほど (trong câu phủ định) nghĩa là gì? → không đến mức, không lắm.",
+  "note": "さほど〜ない = それほど〜ない: さほど難しくない = không khó lắm. Luôn đi với phủ định."
+ },
+ "gyanmirai:vocabulary-15-1": {
+  "opts": [
+   "まくぜん – không có từ này",
+   "ばくねん – không có từ này",
+   "まくねん – không có từ này",
+   "✔ ばくぜん – 漠然, mơ hồ, lờ mờ (MẠC NHIÊN)"
+  ],
+  "trans": "漠然 đọc là gì? → ばくぜん (mơ hồ).",
+  "note": "漠 MẠC → ばく (砂漠 さばく), 然 NHIÊN → ぜん (自然 しぜん). 漠然とした = mơ hồ, không rõ ràng."
+ },
+ "gyanmirai:vocabulary-15-10": {
+  "opts": [
+   "同じ – không, khác sắc thái",
+   "✔ 見解→trang trọng, 意見→thông thường",
+   "見解→thông thường, 意見→trang trọng – ngược rồi",
+   "関係ない – không, cả hai đều là 'ý kiến'"
+  ],
+  "trans": "見解 và 意見 khác nhau thế nào? → 見解 trang trọng (quan điểm chính thức), 意見 thông thường.",
+  "note": "見解 けんかい = quan điểm của tổ chức/chuyên gia (政府の見解). 意見 いけん = ý kiến cá nhân hằng ngày."
+ },
+ "gyanmirai:vocabulary-15-11": {
+  "opts": [
+   "✔ もうら – 網羅, bao quát toàn bộ (VÕNG LA)",
+   "もうろう – 朦朧 'mơ màng', không phải chữ này",
+   "あみら – không có từ này",
+   "あみろう – không có từ này"
+  ],
+  "trans": "網羅 đọc là gì? → もうら (bao quát toàn bộ).",
+  "note": "網 VÕNG → もう (kun あみ = lưới), 羅 LA → ら. Nghĩa gốc: giăng lưới bắt hết. Từ mức N1."
+ },
+ "gyanmirai:vocabulary-15-12": {
+  "opts": [
+   "random – ngẫu nhiên",
+   "✔ comprehensive/exhaustive – toàn diện, bao quát hết (網羅的)",
+   "partial – một phần, ngược nghĩa",
+   "brief – ngắn gọn"
+  ],
+  "trans": "網羅的 nghĩa là gì? → toàn diện, bao quát hết thảy.",
+  "note": "網羅的に調べる = khảo sát không bỏ sót gì. Gần nghĩa: 包括的, 全面的."
+ },
+ "gyanmirai:vocabulary-15-13": {
+  "opts": [
+   "✔ たんてき – 端的, thẳng thắn, ngắn gọn rõ ràng (ĐOAN ĐÍCH)",
+   "たんまと – không có từ này",
+   "はしまと – không có từ này",
+   "はしてき – không có từ này"
+  ],
+  "trans": "端的 đọc là gì? → たんてき (ngắn gọn, thẳng thắn).",
+  "note": "端 ĐOAN → たん, 的 ĐÍCH → てき. 端的に言うと = nói ngắn gọn thì. Từ mức N1."
+ },
+ "gyanmirai:vocabulary-15-14": {
+  "opts": [
+   "to put it rudely – nói thô lỗ",
+   "✔ to put it briefly – nói ngắn gọn, nói thẳng ra",
+   "to put it politely – nói lịch sự",
+   "to put it vaguely – nói mơ hồ, ngược nghĩa"
+  ],
+  "trans": "端的に言えば nghĩa là gì? → nói ngắn gọn, nói thẳng ra là.",
+  "note": "端的に言えば = đi thẳng vào trọng tâm, không vòng vo. Gần với 簡単に言うと, 要するに."
+ },
+ "gyanmirai:vocabulary-15-15": {
+  "opts": [
+   "✔ to be forced to/compelled to – buộc phải, bất đắc dĩ phải",
+   "to refuse – từ chối",
+   "to enjoy – tận hưởng",
+   "to choose freely – tự do lựa chọn, ngược nghĩa"
+  ],
+  "trans": "余儀なくされる nghĩa là gì? → buộc phải (vì hoàn cảnh).",
+  "note": "余儀なくされる よぎなくされる: 余儀 = cách khác; 'không còn cách nào khác'. Ngữ pháp N1, dạng bị động cố định."
+ },
+ "gyanmirai:vocabulary-15-16": {
+  "opts": [
+   "✔ 余儀なくされました – buộc phải thay đổi kế hoạch",
+   "楽しみました – đã tận hưởng; không ghép với 変更を",
+   "無視しました – đã phớt lờ; nghĩa gượng",
+   "すべて可能 – không, chỉ đáp án 1 tự nhiên"
+  ],
+  "trans": "Chúng tôi buộc phải thay đổi kế hoạch.",
+  "note": "Nを余儀なくされる = bất đắc dĩ phải làm N: 中止を余儀なくされる, 変更を余儀なくされる."
+ },
+ "gyanmirai:vocabulary-15-17": {
+  "opts": [
+   "あらじょ – không có từ này",
+   "あらちょ – không có từ này",
+   "✔ けんちょ – 顕著, rõ rệt, nổi bật (HIỂN TRỨ)",
+   "けんじょ – không có từ này"
+  ],
+  "trans": "顕著 đọc là gì? → けんちょ (rõ rệt).",
+  "note": "顕 HIỂN → けん, 著 TRỨ → ちょ (kun いちじるしい = rõ rệt). 顕著な違い = khác biệt rõ rệt. Từ mức N1."
+ },
+ "gyanmirai:vocabulary-15-18": {
+  "opts": [
+   "✔ remarkable results – thành quả nổi bật, rõ rệt",
+   "poor results – kết quả kém, ngược nghĩa",
+   "no results – không có kết quả",
+   "average results – kết quả trung bình"
+  ],
+  "trans": "顕著な成果 nghĩa là gì? → thành quả nổi bật.",
+  "note": "顕著な = rõ ràng ai cũng thấy. 成果 せいか = thành quả. Cụm hay gặp trong báo cáo, bài báo."
+ }
+}

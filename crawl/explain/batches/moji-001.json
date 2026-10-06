@@ -1,0 +1,1042 @@
+[
+{
+"id": "bunpro:1000",
+"type": "usage",
+"question": "伝統",
+"options": [
+"＿伝統＿を持って歩くと健康にいいと言われています。",
+"そのお祭りは、古くから続いている＿伝統＿です。",
+"日本には四つの＿伝統＿があって、私が一番好きなのは秋だ。",
+"仕事へ行く前にコーヒーを飲むのが＿伝統＿だ。"
+],
+"answer": 1,
+"source_explanation": "1. ＿伝統＿を持って歩くと健康にいいと言われています。 — 伝統 means 'tradition', and is not something that can be physically carried while walking.\n3. 日本には四つの＿伝統＿があって、私が一番好きなのは秋だ。 — 伝統 means 'tradition', but this sentence is referring to seasons (季節).\n4. 仕事へ行く前にコーヒーを飲むのが＿伝統＿だ。 — 伝統 means 'tradition'. Drinking coffee before work may be a routine, but it is not a tradition."
+},
+{
+"id": "bunpro:1001",
+"type": "usage",
+"question": "精神",
+"options": [
+"教室にたくさん＿精神＿が落ちていて汚いです。",
+"大事な会議の前に＿精神＿を落ち着ける。",
+"冷める前に早く＿精神＿を食べた方がいいですよ。",
+"彼女は＿精神＿が高いから、よく怒ります。"
+],
+"answer": 1,
+"source_explanation": "1. 教室にたくさん＿精神＿が落ちていて汚いです。 — 精神 refers to one's mental state or mind, and is not something that can physically make a room dirty.\n3. 冷める前に早く＿精神＿を食べた方がいいですよ。 — 精神 refers to one's mental state or mind, and is not something that can be eaten.\n4. 彼女は＿精神＿が高いから、よく怒ります。 — 精神 refers to one's mental state or mind, but cannot be described as 'high' nor given as a reason for getting mad often."
+},
+{
+"id": "bunpro:1002",
+"type": "usage",
+"question": "退く",
+"options": [
+"今日はあまりお腹が空いていないから、料理を＿退く＿ことにしました。",
+"部屋を明るくするために、この電気を＿退け＿よう。",
+"もう70歳だから、会社を＿退く＿ことにしよう。",
+"明日の会議で＿退く＿ために、今日はたくさんの準備をします。"
+],
+"answer": 2,
+"source_explanation": "1. 今日はあまりお腹が空いていないから、料理を＿退く＿ことにしました。 — 退く can refer to taking a step back or retiring, but is intransitive, and does not work in the context of eating.\n2. 部屋を明るくするために、この電気を＿退け＿よう。 — 退く can refer to taking a step back or retiring, but is intransitive, and does not work for 'installing lights'.\n4. 明日の会議で＿退く＿ために、今日はたくさんの準備をします。 — 退く can refer to taking a step back or retiring, but one does not 'retire from' or 'withdraw from' a single meeting."
+},
+{
+"id": "bunpro:1003",
+"type": "usage",
+"question": "逮捕",
+"options": [
+"友だちの家でいっしょに料理を＿逮捕＿するのが楽しかったです。",
+"宿題を＿逮捕＿するのを忘れて先生に怒られました。",
+"コンビニで泥棒した人がまだ＿逮捕＿されていないから怖いです。",
+"なぜ楽しい日は、時間がすぐに＿逮捕＿されてしまうのでしょうか。"
+],
+"answer": 2,
+"source_explanation": "1. 友だちの家でいっしょに料理を＿逮捕＿するのが楽しかったです。 — 逮捕 means 'arrest', and is not something you can do to food.\n2. 宿題を＿逮捕＿するのを忘れて先生に怒られました。 — 逮捕 means 'arrest', but one does not 'arrest' homework'\n4. なぜ楽しい日は、時間がすぐに＿逮捕＿されてしまうのでしょうか。 — 逮捕 means 'arrest'. Time cannot be arrested."
+},
+{
+"id": "bunpro:1004",
+"type": "usage",
+"question": "つぶす",
+"options": [
+"大切な書類を＿つぶした＿から家に取りに行きます。",
+"雨が降っている間、この本屋でマンガを＿つぶそう＿。",
+"ジュースの缶を＿つぶして＿小さくしてください。",
+"今日は時間があるから映画を＿つぶす＿ことにしよう。"
+],
+"answer": 2,
+"source_explanation": "1. 大切な書類を＿つぶした＿から家に取りに行きます。 — つぶす means 'to crush' or 'to flatten', but one does not 'crush' or 'flatten' important documents before taking them home.\n2. 雨が降っている間、この本屋でマンガを＿つぶそう＿。 — つぶす can mean 'to kill time', but time, not manga would have to be the direct object. One doesn't 'crush' manga while waiting.\n4. 今日は時間があるから映画を＿つぶす＿ことにしよう。 — つぶす can mean 'to kill time', but time, not the movie would have to be marked with the を particle."
+},
+{
+"id": "bunpro:1005",
+"type": "usage",
+"question": "土地",
+"options": [
+"わたしのお母さんは＿土地＿で会社まで行っています。",
+"この＿土地＿は美味しいので、毎日食べても飽きません。",
+"コンビニでお茶を買おうとしたが、＿土地＿がなくて払えなかった。",
+"この＿土地＿はお米を作るのに使われているようです。"
+],
+"answer": 3,
+"source_explanation": "1. わたしのお母さんは＿土地＿で会社まで行っています。 — 土地 means 'dirt' or 'soil', and is not something someone uses to commute to the office.\n2. この＿土地＿は美味しいので、毎日食べても飽きません。 — 土地 means 'dirt' or 'soil', and is not something that is eaten. 土地 means 'dirt' or 'soil', and is not something used to pay for items."
+},
+{
+"id": "bunpro:1006",
+"type": "usage",
+"question": "水面",
+"options": [
+"昨日は＿水面＿が足りなかったからまだ眠いです。",
+"風が強かったから＿水面＿を歩くのが大変でした。",
+"＿水面＿が静かだから景色が綺麗にうつっています。",
+"テーブルの＿水面＿をふいてから勉強をします。"
+],
+"answer": 2,
+"source_explanation": "1. 昨日は＿水面＿が足りなかったからまだ眠いです。 — 水面 refers to the water's surface, which is not something that affects whether or not one feels tired.\n2. 風が強かったから＿水面＿を歩くのが大変でした。 — 水面 refers to the water's surface. Humans cannot walk on the water.\n4. テーブルの＿水面＿をふいてから勉強をします。 — 水面 refers to the water's surface, which is not part of a table and cannot be wiped down."
+},
+{
+"id": "bunpro:1007",
+"type": "usage",
+"question": "叩く",
+"options": [
+"仕事が終わったらカフェでゆっくりお茶を＿叩き＿ます。",
+"そんなに高いアクセサリーを＿叩く＿なんて、お金持ちなんですね。",
+"カメラマンが結婚式でたくさんのいい写真を＿叩いて＿くれました。",
+"彼が音楽室でドラムを＿叩く＿音がよく聞こえます。"
+],
+"answer": 3,
+"source_explanation": "1. 仕事が終わったらカフェでゆっくりお茶を＿叩き＿ます。 — 叩く means 'to tap' or 'to strike'. One does not tap or strike tea.\n2. そんなに高いアクセサリーを＿叩く＿なんて、お金持ちなんですね。 — 叩く means 'to tap' or 'to strike'. One does not tap or strike accessories.\n3. カメラマンが結婚式でたくさんのいい写真を＿叩いて＿くれました。 — 叩く means 'to tap' or 'to strike'. One does not tap or strike photos."
+},
+{
+"id": "bunpro:1008",
+"type": "usage",
+"question": "速度",
+"options": [
+"そんなに＿速度＿が高いバッグを買うことはできません。",
+"車を運転する時は、必ず＿速度＿を守りましょう。",
+"今日は＿速度＿が降っているから、家の中にいよう。",
+"＿速度＿をやらなかったせいで先生に怒られました。"
+],
+"answer": 1,
+"source_explanation": "1. そんなに＿速度＿が高いバッグを買うことはできません。 — 速度 is the speed at which something travels. Bags are not described as having a 'high speed'.\n3. 今日は＿速度＿が降っているから、家の中にいよう。 — 速度 is the speed at which something travels. Speed cannot fall like rain.\n4. ＿速度＿をやらなかったせいで先生に怒られました。 — 速度 is the speed at which something travels. Speed is not something a student does."
+},
+{
+"id": "bunpro:1009",
+"type": "usage",
+"question": "追いかける",
+"options": [
+"先生の話を＿追いかける＿ためにノートにメモをしました。",
+"犬が公園でボールを＿追いかけて＿いて可愛いです。",
+"毎朝電車に＿追いかけて＿仕事へ行くのは疲れます。",
+"料理を＿追いかけ＿ながらテレビを見ていたら火が出ました。"
+],
+"answer": 1,
+"source_explanation": "1. 先生の話を＿追いかける＿ためにノートにメモをしました。 — 追いかける means 'to chase', and isn't something one does with a lecture.\n3. 毎朝電車に＿追いかけて＿仕事へ行くのは疲れます。 — 追いかける means 'to chase', but one doesn't literally 'chase' a train as a daily commute.\n4. 料理を＿追いかけ＿ながらテレビを見ていたら火が出ました。 — 追いかける means 'to chase', but food isn't something one 'chases'."
+},
+{
+"id": "bunpro:1010",
+"type": "usage",
+"question": "当たり前",
+"options": [
+"＿当たり前＿が多くて広い家に住むことがわたしの夢です。",
+"困っている人を助けるのは、＿当たり前＿のことだと思います。",
+"今日は＿当たり前＿が悪いから、外に出ないほうがいいです。",
+"友だちと＿当たり前＿を見ながらゆっくり過ごすのが好きです。"
+],
+"answer": 1,
+"source_explanation": "1. ＿当たり前＿が多くて広い家に住むことがわたしの夢です。 — 当たり前 means 'natural' or 'obvious', and isn't something that is quantifiable.\n3. 今日は＿当たり前＿が悪いから、外に出ないほうがいいです。 — 当たり前 means 'natural' or 'obvious', and isn't something that can be described as good or bad.\n4. 友だちと＿当たり前＿を見ながらゆっくり過ごすのが好きです。 — 当たり前 means 'natural' or 'obvious', and isn't something that can be physically seen."
+},
+{
+"id": "bunpro:831",
+"type": "kanji_reading",
+"question": "お父さんが車に＿乗って＿います。",
+"options": [
+"もって",
+"さって",
+"かって",
+"のって"
+],
+"answer": 3,
+"source_explanation": "1. もって — もって would be the て form of 持つ 'to hold/own'. It does not fit grammatically here because there is a location marked with に, while 持つ would require an object marked by を.\n2. さって — さって would be the て form of 去る 'to depart'. If this were the verb here with a destination marked by に, it would likely appear in a form like 去って行った rather than the ている form.\n3. かって — かって would be the て form of 買う 'to buy' or 飼う 'to own (i.e. a pet)'. Neither fits here grammatically because both would require an object marked with を, not a location marked with に."
+},
+{
+"id": "bunpro:832",
+"type": "kanji_reading",
+"question": "＿他＿のメニューはありますか。",
+"options": [
+"それ",
+"これ",
+"なに",
+"ほか"
+],
+"answer": 3,
+"source_explanation": "1. それ — それ is typically written in hiragana, and when written in kanji (primarily in older novels with a more formal writing style) is written as 其れ. Furthermore, it does not usually precede の (instead, you would say そのメニュー).\n2. これ — これ is typically written in hiragana, and when written in kanji (primarily in older novels with a more formal writing style) is written as 此れ. Furthermore, it does not usually precede の (instead, you would say このメニュー).\n3. なに — なに 'what' would be written as 何, and before の would typically be read as なん, not なに."
+},
+{
+"id": "bunpro:833",
+"type": "kanji_reading",
+"question": "小さな男の子が＿死亡＿したそうです。",
+"options": [
+"うんどう",
+"しぼう",
+"けが",
+"りょこう"
+],
+"answer": 1,
+"source_explanation": "1. うんどう — うんどう is also a する verb, but would be written as 運動, and means 'exercise'. While it would fit here in grammar and meaning, this is しぼうする 'to die'.\n3. けが — けが is also a する verb, but would be written as 怪我, and means 'to be injured'. While it would fit here in grammar and meaning, this is しぼうする 'to die'.\n4. りょこう — りょこう is also a する verb, but would be written as 旅行, and means 'to travel'. While it would fit here in grammar and meaning, this is しぼうする 'to die'."
+},
+{
+"id": "bunpro:834",
+"type": "kanji_reading",
+"question": "これは、あなたに＿任せ＿てもいいですか。",
+"options": [
+"まかせ",
+"やらせ",
+"はなせ",
+"きかせ"
+],
+"answer": 0,
+"source_explanation": "2. やらせ — やらせる would be the causative form of やる 'to do' and would mean something like 'to make/let (you) do'. While it would fit in grammar and meaning, this is まかせる 'to entrust'.\n3. はなせ — はなせる would be the potential form of 話す 'to speak' or 離す 'to let go'. This can be ruled out because potential verbs do not typically occur in the てもいい form.\n4. きかせ — きかせる would be the causative form of 聞く'to hear/listen' and would mean something like 'to make/let (you) hear'. While it would fit in grammar and meaning, this is まかせる 'to entrust'."
+},
+{
+"id": "bunpro:835",
+"type": "kanji_reading",
+"question": "お父さんと弟はとても＿似て＿いると思う。",
+"options": [
+"にて",
+"して",
+"きて",
+"みて"
+],
+"answer": 0,
+"source_explanation": "2. して — して would be the て form of する 'to do'. It would not fit here because the sentence is describing some relationship or commonality between the father and brother.\n3. きて — きて would be the て form of 着る 'to wear' or 来る 'to come'. It would not fit here because the sentence is describing some relationship or commonality between the father and brother.\n4. みて — みて would be the て form of 見る 'to see'. It would not fit here because the sentence is describing some relationship or commonality between the father and brother."
+},
+{
+"id": "bunpro:836",
+"type": "kanji_reading",
+"question": "このアプリは＿便利＿だと聞きました。",
+"options": [
+"ゆうめい",
+"かんたん",
+"きれい",
+"べんり"
+],
+"answer": 3,
+"source_explanation": "1. ゆうめい — This would be the reading for 有名 'famous'. While an app might be well-known, that would more likely be described as 人気 'popular'.\n2. かんたん — This would be the reading for 簡単 'simple'. While an app might be intuitive to use, that would typically be described as 使いやすい 'easy to use' instead.\n3. きれい — This would be the reading for 綺麗 'pretty'/'clean'. While an app might be attractively designed, it would typically not be described in those terms."
+},
+{
+"id": "bunpro:837",
+"type": "kanji_reading",
+"question": "その国の＿気候＿について教えてください。",
+"options": [
+"けいざい",
+"せいじ",
+"しょくじ",
+"きこう"
+],
+"answer": 3,
+"source_explanation": "1. けいざい — This means 'economy' and is written as 経済. While it could fit in this sentence meaning-wise, it is a different word.\n2. せいじ — This means 'politics' and is written as 政治. While it could fit in this sentence meaning-wise, it is a different word.\n3. しょくじ — This means 'food'/'eating' and is written as 食事. While it could fit in this sentence meaning-wise, it is a different word."
+},
+{
+"id": "bunpro:838",
+"type": "kanji_reading",
+"question": "あなたの＿側＿にペットボトルがあります。",
+"options": [
+"うえ",
+"かげ",
+"そば",
+"うしろ"
+],
+"answer": 2,
+"source_explanation": "1. うえ — This means 'above' or 'on top' and is written as 上. While it could fit in the sentence in terms of grammar and meaning, it is a different word..\n2. かげ — This means 'shadow' and is written as 影. While it could fit in the sentence in terms of grammar and meaning, it is a different word.\n4. うしろ — This means 'behind' and is written as 後ろ (without the ろ, 後 is generally read as あと). While 後ろ could fit in the sentence in terms of grammar and meaning, it is a different word."
+},
+{
+"id": "bunpro:839",
+"type": "kanji_reading",
+"question": "ぼくの家族は地震に＿備えて＿います。",
+"options": [
+"きがえて",
+"おびえて",
+"やしなえて",
+"そなえて"
+],
+"answer": 3,
+"source_explanation": "1. きがえて — This means 'to change clothes' and is written as 着替える. The meaning does not fit the context of the sentence.\n2. おびえて — This means 'to fear' and is written as 怯える. While it makes sense in context as a family could be fearing earthquakes, it is a different word.\n3. やしなえて — This would be the potential form of 養う 'to raise'. It does not fit the sentence in terms of grammar or meaning."
+},
+{
+"id": "bunpro:840",
+"type": "kanji_reading",
+"question": "この商品にはプレゼントが＿付いて＿います。",
+"options": [
+"たいて",
+"かいて",
+"ついて",
+"しいて"
+],
+"answer": 2,
+"source_explanation": "1. たいて — たく is not a valid reading of 付いて, the conjunctive form of 付く (つく), which means 'to attach'. たく(炊く) means 'to cook rice'.\n2. かいて — The correct reading is ついて (the conjunctive form of 付く which means 'to be attached').  かく(書く) means 'to write'.\n4. しいて — The correct reading is ついて (the conjunctive form of 付く which means 'to be attached'). しく (敷く) means 'to spread something out'."
+},
+{
+"id": "bunpro:841",
+"type": "kanji_reading",
+"question": "ぼくのおじいちゃんはとても＿優しい＿です。",
+"options": [
+"きびしい",
+"やさしい",
+"はげしい",
+"さびしい"
+],
+"answer": 1,
+"source_explanation": "1. きびしい — きびしい (厳しい) means 'strict'. 優しい (kind) is read as やさしい.\n3. はげしい — はげしい (激しい) means 'intense' or 'extreme'. 優しい (kind) is read as やさしい.\n4. さびしい — さびしい (寂しい) means 'lonely'. 優しい (kind) is read as やさしい."
+},
+{
+"id": "bunpro:842",
+"type": "kanji_reading",
+"question": "＿両方＿このバッグに入れてください。",
+"options": [
+"りょうこう",
+"りょうほう",
+"りょうぼう",
+"りょうそう"
+],
+"answer": 1,
+"source_explanation": "1. りょうこう — こう is not a valid reading of the kanji 方. The correct reading is りょうほう.\n3. りょうぼう — 方 is read as ほう, not ぼう here. The correct reading is りょうほう.\n4. りょうそう — そう is not a valid reading of the kanji 方. The correct reading is りょうほう."
+},
+{
+"id": "bunpro:843",
+"type": "kanji_reading",
+"question": "先生にこのことを＿伝えて＿くれませんか。",
+"options": [
+"おしえて",
+"つたえて",
+"ささえて",
+"そびえて"
+],
+"answer": 1,
+"source_explanation": "1. おしえて — The correct reading is つたえて (the conjunctive form of 伝える, which means 'to convey' or 'to report'). おしえる (教える) means 'to teach' or 'to tell'.\n3. ささえて — The correct reading is つたえて (the conjunctive form of 伝える, which means 'to convey' or 'to report'). ささえる (支える) means 'to support'.\n4. そびえて — The correct reading is つたえて (the conjunctive form of 伝える, which means 'to convey' or 'to report'). そびえる means 'to tower' or 'to soar'."
+},
+{
+"id": "bunpro:844",
+"type": "kanji_reading",
+"question": "お母さんはわたしのことを＿信じて＿いません。",
+"options": [
+"きんじて",
+"てんじて",
+"しんじて",
+"そんじて"
+],
+"answer": 2,
+"source_explanation": "1. きんじて — The correct reading is しんじて (the conjunctive form of 信じる, which means 'to believe'). きんじる (禁じる) means 'to prohibit'.\n2. てんじて — The correct reading is しんじて (the conjunctive form of 信じる, which means 'to believe'). てんじる (転じる) means 'to turn' or 'to shift'.\n4. そんじて — The correct reading is しんじて (the conjunctive form of 信じる, which means 'to believe'). そんじる (損じる) means 'to hurt'."
+},
+{
+"id": "bunpro:845",
+"type": "kanji_reading",
+"question": "そのカバンの＿値段＿を教えてください。",
+"options": [
+"ねだん",
+"きげん",
+"かかく",
+"みりょく"
+],
+"answer": 0,
+"source_explanation": "2. きげん — There are a few words read きげん, but 値段 (price) is not one of them. The correct reading is ねだん.\n3. かかく — かかくalso means 'price', but is written with kanji as 価格. The correct reading is ねだん.\n4. みりょく — みりょく (魅力) means 'appeal'. 値段 (price) is read as ねだん."
+},
+{
+"id": "bunpro:846",
+"type": "kanji_reading",
+"question": "彼はいつも＿努力＿をしています。",
+"options": [
+"どりょく",
+"とりき",
+"どりき",
+"とりょく"
+],
+"answer": 0,
+"source_explanation": "2. とりき — 努 is never read as と and while 力 can be read as りき, it is read as りょく here. The correct reading is どりょく.\n3. どりき — While 力 can be read as りき, it is read as りょく here. The correct answer is どりょく.\n4. とりょく — Close! But 努 is read as と, not ど. The correct reading is どりょく."
+},
+{
+"id": "bunpro:847",
+"type": "kanji_reading",
+"question": "ぼくもそのグループに＿加えて＿ほしいです。",
+"options": [
+"くわえて",
+"たずさえて",
+"そびえて",
+"しりえて"
+],
+"answer": 0,
+"source_explanation": "2. たずさえて — The correct reading is くわえて (the conjunctive form of 加える, which means 'to add' or 'to include'). たずさえる (携える) means 'to have one on one's person' or 'to take someone along'.\n3. そびえて — The correct reading is くわえて (the conjunctive form of 加える, which means 'to add' or 'to include'). そびえる means 'to tower' or 'to soar'.\n4. しりえて — This is not a valid reading of any word in Japanese. The correct reading is くわえて (the conjunctive form of 加える, which means 'to add' or 'to include')."
+},
+{
+"id": "bunpro:848",
+"type": "kanji_reading",
+"question": "このメガネには＿割引＿がされています。",
+"options": [
+"わるびき",
+"わりひき",
+"わるひき",
+"わりびき"
+],
+"answer": 3,
+"source_explanation": "1. わるびき — 割 is read as わり, not わる. The correct answer is わりびき.\n2. わりひき — Close! But 引 is read as びき here. The correct reading is わりびき.\n3. わるひき — 割 is read as わり, not わる and 引 is read as びき, not ひき here. The correct answer is わりびき."
+},
+{
+"id": "bunpro:849",
+"type": "kanji_reading",
+"question": "大きな男の人が＿倒れて＿います。",
+"options": [
+"たおれて",
+"しびれて",
+"おくれて",
+"さびれて"
+],
+"answer": 0,
+"source_explanation": "2. しびれて — The correct reading is たおれて (the conjunctive form of 倒れる, which means 'to fall over'). しびれる (痺れる) means 'to go numb' or 'to tingle'.\n3. おくれて — The correct reading is たおれて (the conjunctive form of 倒れる, which means 'to fall over'). おくれる (遅れる) means 'to be late'.\n4. さびれて — The correct reading is たおれて (the conjunctive form of 倒れる, which means 'to fall over'). さびれる (寂れる) means 'to decline'."
+},
+{
+"id": "bunpro:850",
+"type": "kanji_reading",
+"question": "あなたはこの＿単語＿を知っていますか。",
+"options": [
+"ことば",
+"たんご",
+"きこう",
+"ちいき"
+],
+"answer": 1,
+"source_explanation": "1. ことば — While ことば and たんご have a similar meaning, ことば is written as 言葉 while たんご is written as 単語.\n3. きこう — きこう (気候) means 'climate'. 言葉 (language/word) is read as ことば.\n4. ちいき — ちいき (地域) means 'region'. 言葉 (language/word) is read as ことば."
+},
+{
+"id": "bunpro:851",
+"type": "kanji_reading",
+"question": "この道は＿危ない＿と聞きました。",
+"options": [
+"しらない",
+"すくない",
+"おどろかない",
+"あぶない"
+],
+"answer": 3,
+"source_explanation": "1. しらない — しらない (知らない) is the negative form of 知る (to know). 危ない (dangerous) is read as あぶない.\n2. すくない — すくない (少ない) means 'few'. 危ない (dangerous) is read as あぶない.\n3. おどろかない — おどろかない (驚かない) is the negative form of 驚く (to to be surprised). 危ない (dangerous) is read as あぶない."
+},
+{
+"id": "bunpro:852",
+"type": "kanji_reading",
+"question": "犬が＿助かった＿ので、安心しています。",
+"options": [
+"からかった",
+"たすかった",
+"こわかった",
+"さびしかった"
+],
+"answer": 1,
+"source_explanation": "1. からかった — からかった is not a valid reading of 助かった. The correct reading is たすかった, the past form of the verb 助かる (to be helped).\n3. こわかった — こわかった (怖かった) means 'was scary'. The correct reading is たすかった, the past form of the verb 助かる (to be helped).\n4. さびしかった — さびしかった (寂しかった) means 'was lonely'. The correct reading is たすかった, the past form of the verb 助かる (to be helped)."
+},
+{
+"id": "bunpro:853",
+"type": "kanji_reading",
+"question": "トランペットを＿吹く＿ことができますか。",
+"options": [
+"きく",
+"はく",
+"ふく",
+"とく"
+],
+"answer": 2,
+"source_explanation": "1. きく — きく (聞く) means 'to listen' or 'to hear'. 吹く (to play a wind instrument) is read as ふく.\n2. はく — はく is not a valid reading of 吹く (to play a wind instrument). It is read ふく.\n4. とく — とく is not a valid reading of 吹く (to play a wind instrument). It is read ふく."
+},
+{
+"id": "bunpro:854",
+"type": "kanji_reading",
+"question": "けいさつがこちらへ＿向かって＿います。",
+"options": [
+"かかって",
+"たかって",
+"むかって",
+"しかって"
+],
+"answer": 2,
+"source_explanation": "1. かかって — かかって is not a valid reading of 向かって, which is the conjunctive form of 向かう, read as むかって.\n2. たかって — たかって is not a valid reading of 向かって, which is the conjunctive form of 向かう, read as むかって.\n4. しかって — 向かって, the conunctive form of 向かう is read as むかう, not しかって, which is the conjunctive form of 𠮟る (to scold)."
+},
+{
+"id": "bunpro:855",
+"type": "kanji_reading",
+"question": "ケンカの＿原因＿を教えてください。",
+"options": [
+"げんい",
+"げいいん",
+"げいん",
+"げんいん"
+],
+"answer": 3,
+"source_explanation": "1. げんい — に is not a valid reading of the kanji 因. The correct reading is げんいん.\n2. げいいん — げい is not a valid reading of the kanji 原. The correct reading is げんいん.\n3. げいん — げ is not a valid reading of the kanji 原. The correct reading is げんいん."
+},
+{
+"id": "bunpro:856",
+"type": "kanji_reading",
+"question": "彼はそのことを＿否定＿しています。",
+"options": [
+"ひでい",
+"びてい",
+"ひてん",
+"ひてい"
+],
+"answer": 3,
+"source_explanation": "1. ひでい — Close! 定 is not read with dakuten here. The correct reading is ひてい.\n2. びてい — Close! 否 is read as ひ here. The correct reading is ひてい.\n3. ひてん — てん is not a valid reading of 定. The correct reading is ひてい."
+},
+{
+"id": "bunpro:857",
+"type": "kanji_reading",
+"question": "あれ？犬が＿呼吸＿をしていないようです。",
+"options": [
+"ごきゅう",
+"こうきゅう",
+"こきゅう",
+"こぎゅう"
+],
+"answer": 2,
+"source_explanation": "1. ごきゅう — Close! 呼 is not read with a dakuten here. The correct reading is こきゅう.\n2. こうきゅう — Close, but 呼 is read as こ, not こう. The correct reading is こきゅう.\n4. こぎゅう — Close! 吸 is not read with a dakuten here. The correct reading is こきゅう."
+},
+{
+"id": "bunpro:858",
+"type": "kanji_reading",
+"question": "お母さんが＿喜んで＿くれました。",
+"options": [
+"ころんで",
+"くんで",
+"にらんで",
+"よろこんで"
+],
+"answer": 3,
+"source_explanation": "1. ころんで — The correct answer is よろこんで (the conjunctive form of 喜ぶ, which means 'to rejoice' or 'to be delighted'). ころぶ (転ぶ) means 'to fall down'.\n2. くんで — くんで is not a valid reading of 喜んで, the conjunctive form of 喜ぶ, which means 'to rejoice' or 'to be delighted'. The correct reading is よろこんで.\n3. にらんで — The correct answer is よろこんで (the conjunctive form of 喜ぶ, which means 'to rejoice' or 'to be delighted'). にらむ (睨む) means 'to glare at'."
+},
+{
+"id": "bunpro:859",
+"type": "kanji_reading",
+"question": "＿命＿より大切なものはないと思います。",
+"options": [
+"いのち",
+"かみさま",
+"かね",
+"げんき"
+],
+"answer": 0,
+"source_explanation": "2. かみさま — かみさま (神様) means 'god'. 命 (life) is read as いのち.\n3. かね — かね (金) means 'money'. 命 (life) is read as いのち.\n4. げんき — げんき (元気) means 'energetic' or 'lively'. 命 (life) is read as いのち."
+},
+{
+"id": "bunpro:860",
+"type": "kanji_reading",
+"question": "わたしは＿困難＿にも負けません。",
+"options": [
+"ごんねん",
+"こんねん",
+"こんなん",
+"ごんなん"
+],
+"answer": 2,
+"source_explanation": "1. ごんねん — 困 is not read with a dakuten here, and 難 is read as なん, not ねん. The correct reading is こんなん.\n2. こんねん — ねん is not a valid reading of the kanji 難. The correct reading is こんなん.\n4. ごんなん — Close! 困 is not read with a dakuten here. The correct reading is こんなん."
+},
+{
+"id": "bunpro:861",
+"type": "kanji_reading",
+"question": "目が＿回った＿ので、少し休みます。",
+"options": [
+"まわった",
+"くるった",
+"はしった",
+"たまった"
+],
+"answer": 0,
+"source_explanation": "2. くるった — The correct reading is まわった (the past form of the verb 回る, which means 'to spin around'). くるう（狂う) means 'to go mad'.\n3. はしった — The correct reading is まわった (the past form of the verb 回る, which means 'to spin around'). はしる (走る) means 'to run'.\n4. たまった — たまった is not a valid reading 回った, the past form of the verb 回る, which means 'to spin around'. The correct reading is まわった."
+},
+{
+"id": "bunpro:862",
+"type": "kanji_reading",
+"question": "学校の後に＿公園＿へ行くつもりです。",
+"options": [
+"こうえん",
+"ごういん",
+"こういん",
+"こんえん"
+],
+"answer": 0,
+"source_explanation": "2. ごういん — Close! 公 is not read with a dakuten here. The correct reading is こうえん.\n3. こういん — いん is not a valid reading of the kanji 園. The correct reading is こうえん.\n4. こんえん — こん is not a valid reading of the kanji 公. The correct reading is こうえん."
+},
+{
+"id": "bunpro:863",
+"type": "kanji_reading",
+"question": "チームのメンバーが＿増えた＿そうですよ。",
+"options": [
+"たえた",
+"みえた",
+"ふえた",
+"こえた"
+],
+"answer": 2,
+"source_explanation": "1. たえた — たえた is not a valid reading of 増えた, which is the past form of the verb 増える (to increase). The correct reading is ふえる.\n2. みえた — The correct reading is ふえた (the past form of the verb 増える (to increase)). みえる (見える) means 'to be visible' or 'to seem'.\n4. こえた — こえた is not a valid reading of 増えた, which is the past form of the verb 増える (to increase). The correct reading is ふえる."
+},
+{
+"id": "bunpro:864",
+"type": "kanji_reading",
+"question": "あなたの＿夢＿について教えてくれませんか。",
+"options": [
+"ゆめ",
+"のぞみ",
+"こころ",
+"こと"
+],
+"answer": 0,
+"source_explanation": "2. のぞみ — のぞみ (望み) means 'wish'. 夢 (dream) is read as ゆめ.\n3. こころ — こころ (心) means 'heart' 夢 (dream) is read as ゆめ.\n4. こと — こと (事) means 'thing'. 夢 (dream) is read as ゆめ."
+},
+{
+"id": "bunpro:865",
+"type": "kanji_reading",
+"question": "彼女は＿美しい＿絵をかきましたね。",
+"options": [
+"かなしい",
+"うつくしい",
+"たのしい",
+"はげしい"
+],
+"answer": 1,
+"source_explanation": "1. かなしい — かなしい (悲しい) means 'sad'. 美しい (beautiful) is read as うつくしい.\n3. たのしい — たのしい (楽しい) means 'fun'. 美しい (beautiful) is read as うつくしい.\n4. はげしい — はげしい (激しい) means 'intense' or 'extreme'. 美しい (beautiful) is read as うつくしい."
+},
+{
+"id": "bunpro:866",
+"type": "kanji_reading",
+"question": "けいたいが＿鳴って＿いますよ。",
+"options": [
+"しって",
+"とって",
+"もって",
+"なって"
+],
+"answer": 3,
+"source_explanation": "1. しって — The correct reading is なって (the conjunctive form of the verb 鳴る, which means 'to ring'). しる (知る) means 'to know'.\n2. とって — とって is not a valid reading of 鳴って, which is the conjunctive form of 鳴る (to ring). The correct reading is なって.\n3. もって — もって is not a valid reading of 鳴って, which is the conjunctive form of 鳴る (to ring). The correct reading is なって."
+},
+{
+"id": "bunpro:867",
+"type": "kanji_reading",
+"question": "このことを＿調べた＿方がいいですよ。",
+"options": [
+"くらべた",
+"しらべた",
+"とべた",
+"たべた"
+],
+"answer": 1,
+"source_explanation": "1. くらべた — The correct answer is しらべた (the past form of 調べる, which means 'to research' or 'to examine'). くらべる (比べる) means 'to compare'.\n3. とべた — The correct answer is しらべた (the past form of 調べる, which means 'to research' or 'to examine'). とべた (飛べた) would be the past potential form of 飛ぶ (to fly).\n4. たべた — The correct answer is しらべた (the past form of 調べる, which means 'to research' or 'to examine'). たべる (食べる) means 'to eat'."
+},
+{
+"id": "bunpro:868",
+"type": "kanji_reading",
+"question": "＿変＿なことを言わないでください。",
+"options": [
+"けん",
+"そん",
+"めん",
+"へん"
+],
+"answer": 3,
+"source_explanation": "1. けん — けん is the reading of a variety of words in Japanese, but not 変, which means 'strange' and is read へん.\n2. そん — そん (損) means 'loss' or 'damage'. 変 (strange) is read as へん.\n3. めん — めん (麺) means 'noodles'. 変 (strange) is read as へん."
+},
+{
+"id": "bunpro:869",
+"type": "kanji_reading",
+"question": "あなたはもう＿宿題＿をし終えましたか。",
+"options": [
+"しゅくたい",
+"しゅくだい",
+"じゅくたい",
+"じゅくだい"
+],
+"answer": 1,
+"source_explanation": "1. しゅくたい — Close, but the kanji 題 is read as だい. The correct reading is しゅくだい.\n3. じゅくたい — The kanji 宿 is not read with a dakuten and 題 is read as だい. The correct reading is しゅくだい.\n4. じゅくだい — Close! The kanji 宿 is not read with a dakuten here. The correct reading is しゅくだい."
+},
+{
+"id": "bunpro:870",
+"type": "kanji_reading",
+"question": "わたしのことを＿許して＿くれませんか。",
+"options": [
+"かくして",
+"さして",
+"ゆるして",
+"ただして"
+],
+"answer": 2,
+"source_explanation": "1. かくして — かくして is not a valid reading of 許して, which is the conjunctive form of 許す (to allow/to pardon). The correct reading is ゆるして.\n2. さして — さして is not a valid reading of 許して, which is the conjunctive form of 許す (to allow/to pardon). The correct reading is ゆるして.\n4. ただして — ただして is not a valid reading of 許して, which is the conjunctive form of 許す (to allow/to pardon). The correct reading is ゆるして."
+},
+{
+"id": "bunpro:871",
+"type": "kanji_reading",
+"question": "これは＿苦い＿から、食べられません。",
+"options": [
+"まずい",
+"あまい",
+"からい",
+"にがい"
+],
+"answer": 3,
+"source_explanation": "1. まずい — まずい (不味い) means 'bad'. 苦い (bitter) is read as にがい.\n2. あまい — あまい (甘い) means 'sweet'. 苦い (bitter) is read as にがい.\n3. からい — からい (辛い) means 'spicy'. 苦い (bitter) is read as にがい."
+},
+{
+"id": "bunpro:872",
+"type": "kanji_reading",
+"question": "そこの＿道路＿は、今は使えないようです。",
+"options": [
+"とおろ",
+"どうろ",
+"どおろ",
+"とうろ"
+],
+"answer": 1,
+"source_explanation": "1. とおろ — とお is not a valid reading of the kanji 道. The correct reading is どうろ.\n3. どおろ — どお is not a valid reading of the kanji 道. The correct reading is どうろ.\n4. とうろ — とう is not a valid reading of the kanji 道. The correct reading is どうろ."
+},
+{
+"id": "bunpro:873",
+"type": "kanji_reading",
+"question": "わたしはお父さんの＿声＿がすきです。",
+"options": [
+"こえ",
+"かお",
+"こころ",
+"かみ"
+],
+"answer": 0,
+"source_explanation": "2. かお — かお (顔) means 'face'. 声 (voice) is read as こえ.\n3. こころ — こころ (心) means 'heart'. 声 (voice) is read as こえ.\n4. かみ — かみ is the reading of a variety of words in Japanese, but not 声, which means 'voice' and is read こえ."
+},
+{
+"id": "bunpro:874",
+"type": "kanji_reading",
+"question": "これより先へは＿進む＿ことができません。",
+"options": [
+"よむ",
+"りきむ",
+"すすむ",
+"のむ"
+],
+"answer": 2,
+"source_explanation": "1. よむ — よむ (読む) means 'to read'. 進む (to advance) is read as すすむ.\n2. りきむ — りきむ is not a valid reading of 進む, which means 'to advance' and is read as すすむ.\n4. のむ — のむ (飲む) means 'to drink'. 進む (to advance) is read as すすむ."
+},
+{
+"id": "bunpro:875",
+"type": "kanji_reading",
+"question": "あなたはいつ＿結婚＿をしたのですか。",
+"options": [
+"どうきょ",
+"りこん",
+"けっこん",
+"べっきょ"
+],
+"answer": 2,
+"source_explanation": "1. どうきょ — どうきょ is the reading of several words in Japanese, but not 結婚, which means 'marriage' and is read けっこん.\n2. りこん — りこん is the reading of several words in Japanse (including 離婚, which means 'divorce'), but the correct reading of 結婚 (marriage) is けっこん.\n4. べっきょ — べっきょ (別居) means 'living apart'. 結婚 (marriage) is read as けっこん."
+},
+{
+"id": "bunpro:876",
+"type": "orthography",
+"question": "あなたの＿かみ＿は、長くてきれいですね。",
+"options": [
+"髪",
+"智",
+"努",
+"碧"
+],
+"answer": 0,
+"source_explanation": "2. 智 — 智 means 'wisdom', but it is a rare kanji that isn't typically used as a standalone word. As an intangible concept, wisdom cannot be 'long' or 'pretty'.\n3. 努 — 勢い 'power'/'spirit' will typically be written with the い, and is an intangible concept so it cannot be 'long' or 'pretty'.\n4. 碧 — 碧 means 'deep blue/green', but is a somewhat rare kanji that is typically only found in compounds, rather than as a standalone word."
+},
+{
+"id": "bunpro:877",
+"type": "orthography",
+"question": "見てください、鳥が＿とんで＿いますよ。",
+"options": [
+"動んで",
+"飛んで",
+"走んで",
+"歩んで"
+],
+"answer": 1,
+"source_explanation": "1. 動んで — The て form of 動く 'to move' is うごいて, so it would not be found in this form.\n3. 走んで — The て form of 走る 'to run' is はしって, so it would not be found in this form.\n4. 歩んで — This would be the て form of 歩む, a more literary equivalent of 歩く that means 'to walk/tread'. While it would be grammatically correct, it is a different word."
+},
+{
+"id": "bunpro:878",
+"type": "orthography",
+"question": "あなたの＿ねがい＿を教えてください。",
+"options": [
+"願い",
+"頼い",
+"厚い",
+"原い"
+],
+"answer": 0,
+"source_explanation": "2. 頼い — This is the kanji for 頼（たの）む 'to request' or 頼（たよ）る 'to depend on'. While similar in meaning, it is a different word and grammatically would not appear in this form with い.\n3. 厚い — While the kanji appears visually similar, this is a different word, 厚い 'thick'. As an い-adjective, it would not be followed by を, which must mark a noun.\n4. 原い — While the kanji appears visually similar, 原 'field' is read as はら, and will never be followed by い."
+},
+{
+"id": "bunpro:879",
+"type": "orthography",
+"question": "先生に何を＿たのまれた＿のですか。",
+"options": [
+"依まれた",
+"頂まれた",
+"衣まれた",
+"頼まれた"
+],
+"answer": 3,
+"source_explanation": "1. 依まれた — While visually similar, this is the kanji for 依る 'to depend on'. It would not conjugate to the form seen here, and this meaning of よる is typically written in kana.\n2. 頂まれた — While visually similar, this is the kanji for 頂く, a humble verb meaning 'to receive'. It would not conjugate to the form seen here.\n3. 衣まれた — 衣 'clothes' is read as い, and typically only in compounds like 衣服 or 衣料. It would not appear as a standalone word or in a conjugated form like this."
+},
+{
+"id": "bunpro:880",
+"type": "orthography",
+"question": "このテレビ番組は本当に＿おもしろい＿ですね。",
+"options": [
+"函白い",
+"西白い",
+"価白い",
+"面白い"
+],
+"answer": 3,
+"source_explanation": "1. 函白い — While visually similar, 函 is a rare kanji used primarily in place names like 函館 'Hakodate' (a city in Hokkaido). It would not appear in this form.\n2. 西白い — While visually similar, 西 'west' is not used in compounds with 白.\n3. 価白い — While visually similar, 価 is a different kanji used in compounds like 価格 'price'. It would not appear in a compound with 白."
+},
+{
+"id": "bunpro:881",
+"type": "orthography",
+"question": "テストの点数が＿ひじょうに＿悪く、落ち込んでいます。",
+"options": [
+"非常に",
+"日常に",
+"悲常に",
+"火常に"
+],
+"answer": 0,
+"source_explanation": "2. 日常に — 日常 'daily life' is read as にちじょう, and does not work with the に particle (it would have to be 日常的に or the like).\n3. 悲常に — While 悲 'compassion' appears visually similar and also has the reading of ひ, it is not used in this compound.\n4. 火常に — While 火 'fire' also has the kun'yomi of ひ, in compounds it is typically read with the on'yomi of か, e.g. 火事 'fire'. This particular compound is not an existing word."
+},
+{
+"id": "bunpro:882",
+"type": "orthography",
+"question": "妻が寝ているので＿しずか＿にしてください。",
+"options": [
+"精か",
+"晴か",
+"静か",
+"浄か"
+],
+"answer": 2,
+"source_explanation": "1. 精か — This is not a word in Japanese. The correct answer is 静か, which means 'quiet'.\n2. 晴か — This is not a word in Japanese. The correct answer is 静か, which means 'quiet'.\n4. 浄か — This is not a word in Japanese. While the kanji 浄 and 静 look similar, the correct answer is 静か, which means 'quiet'."
+},
+{
+"id": "bunpro:883",
+"type": "orthography",
+"question": "＿たいよう＿が出ているから暖かい。",
+"options": [
+"太場",
+"太湯",
+"太陽",
+"太易"
+],
+"answer": 2,
+"source_explanation": "1. 太場 — You may have confused the kanji 場 (location) and 陽 (sunshine). The correct answer is 太陽, which means 'sun'.\n2. 太湯 — You may have confused the kanji 湯 (hot water) and 陽 (sunshine). The correct answer is 太陽, which means 'sun'.\n4. 太易 — You may have confused the kanji 易 (easy) and 陽 (sunshine). The correct answer is 太陽, which means 'sun'."
+},
+{
+"id": "bunpro:884",
+"type": "orthography",
+"question": "いつから雪が＿ふる＿のですか。",
+"options": [
+"降る",
+"防る",
+"阪る",
+"院る"
+],
+"answer": 0,
+"source_explanation": "2. 防る — You may have confused the kanji 防 (defend) and 降 (fall). The correct answer is 降る, which means 'to fall'.\n3. 阪る — You may have confused the kanji 阪 (slope) and 降 (fall). The correct answer is 降る, which means 'to fall'.\n4. 院る — You may have confused the kanji 院 (institution) and 降 (fall). The correct answer is 降る, which means 'to fall'."
+},
+{
+"id": "bunpro:885",
+"type": "orthography",
+"question": "あの人とは＿かかわらない＿方がいいですよ。",
+"options": [
+"関わらない",
+"問わない",
+"閉わらない",
+"開わらない"
+],
+"answer": 0,
+"source_explanation": "2. 問わない — Although many kanji use the 門 'gates' component, 問 (with a mouth in between the gates) comes from とう (問う), and means 'to question' or 'to enquire'.\n3. 閉わらない — Although many kanji use the 門 'gates' component, 閉 (with 才 between the gates) comes from とじる or しめる, meaning 'to close'.\n4. 開わらない — Although many kanji use the 門 'gates' component, 開 (with a shape similar to 升 in between the gates) comes from あける (開ける), meaning 'to open'."
+},
+{
+"id": "bunpro:886",
+"type": "orthography",
+"question": "お父さんに＿おさけ＿をプレゼントするつもりです。",
+"options": [
+"お酌",
+"お酎",
+"お酒",
+"お配"
+],
+"answer": 2,
+"source_explanation": "1. お酌 — You may have confused the kanji 配 and 酒. The correct answer is お酒, which means 'alcohol'.\n2. お酎 — You may have confused the kanji 酎 and 酒. The correct answer is お酒, which means 'alcohol'.\n4. お配 — You may have confused the kanji 配 (distribute) and 酒 (alcohol). The correct answer is お酒, which means 'alcohol'."
+},
+{
+"id": "bunpro:887",
+"type": "orthography",
+"question": "なぜこの学校を＿えらんだ＿のですか。",
+"options": [
+"選んだ",
+"遠んだ",
+"組んだ",
+"適んだ"
+],
+"answer": 0,
+"source_explanation": "2. 遠んだ — You may have confused the kanji 遠 (distant) and 選 (select). The correct answer is 選んだ, which means 'chose'.\n3. 組んだ — 組んだis pronounced くんだ.  The correct answer is 選んだ, which means 'chose'.\n4. 適んだ — You may have confused the kanji 適 (suitable) and 選 (select). The correct answer is 選んだ, which means 'chose'."
+},
+{
+"id": "bunpro:888",
+"type": "orthography",
+"question": "ドアをちゃんと＿しめて＿くれませんか。",
+"options": [
+"開めて",
+"関めて",
+"問めて",
+"閉めて"
+],
+"answer": 3,
+"source_explanation": "1. 開めて — You may have confused the kanji 開 (open) and 閉 (closed). The correct answer is 閉めて, which is the conjunctive form of 閉める (to shut).\n2. 関めて — You may have confused the kanji 関 (connection) and 閉 (closed). The correct answer is 閉めて, which is the conjunctive form of 閉める (to shut).\n3. 問めて — You may have confused the kanji 問 (question) and 閉 (closed). The correct answer is 閉めて, which is the conjunctive form of 閉める (to shut)."
+},
+{
+"id": "bunpro:889",
+"type": "orthography",
+"question": "わたしの家は駅からけっこう＿とおい＿です。",
+"options": [
+"適い",
+"達い",
+"遠い",
+"違い"
+],
+"answer": 2,
+"source_explanation": "1. 適い — You may have confused the kanji 適 (suitable) and 遠 (distant). The correct answer is 遠い which means 'far'.\n2. 達い — You may have confused the kanji 達 (attain) and 遠 (distant). The correct answer is 遠い which means 'far'.\n4. 違い — You may have confused the kanji 違 (differ) and 遠 (distant). The correct answer is 遠い which means 'far'."
+},
+{
+"id": "bunpro:890",
+"type": "orthography",
+"question": "＿ぎろん＿をしている間に、いやなふんいきになった。",
+"options": [
+"議崘",
+"議論",
+"議倫",
+"議掄"
+],
+"answer": 1,
+"source_explanation": "1. 議崘 — You may have confused the kanji 崘 and 論. The correct answer is 議論, which means 'argument'.\n3. 議倫 — You may have confused the kanji 倫 (ethics) and 論 (argument). The correct answer is 議論, which means 'argument'.\n4. 議掄 — You may have confused the kanji 掄 and 論. The correct answer is 議論, which means 'argument'."
+},
+{
+"id": "bunpro:891",
+"type": "orthography",
+"question": "あなたは本当にタバコを＿やめる＿つもりですか。",
+"options": [
+"舗める",
+"辣める",
+"舐める",
+"辞める"
+],
+"answer": 3,
+"source_explanation": "1. 舗める — This is not a word in Japanese. The correct answer is 辞める, which means 'to quit'.\n2. 辣める — You may have confused the kanji 辣 (pungent) and 辞 (resign). The correct answer is 辞める, which means 'to quit'.\n3. 舐める — You may have confused the kanji 舐 (lick) and 辞 (resign). The correct answer is 辞める, which means 'to quit'."
+},
+{
+"id": "bunpro:892",
+"type": "orthography",
+"question": "テニスの試合に＿まけて＿、くやしいです。",
+"options": [
+"負けて",
+"貧けて",
+"責けて",
+"費けて"
+],
+"answer": 0,
+"source_explanation": "2. 貧けて — You may have confused the kanji 貧 (poor) and 負 (defeat). The correct answer is 負けて, which is the conjunctive form of 負ける (to lose).\n3. 責けて — You may have confused the kanji 責 (blame) and 負 (defeat). The correct answer is 負けて, which is the conjunctive form of 負ける (to lose).\n4. 費けて — You may have confused the kanji 費 (expense) and 負 (defeat). The correct answer is 負けて, which is the conjunctive form of 負ける (to lose)."
+},
+{
+"id": "bunpro:893",
+"type": "orthography",
+"question": "ぼくのことを＿ろうじん＿と呼ばないでください。",
+"options": [
+"老人",
+"孝人",
+"者人",
+"考人"
+],
+"answer": 0,
+"source_explanation": "2. 孝人 — You may have confused the kanji 孝 (filial piety) and 老 (old age). The correct answer is 老人, which means 'elderly person'.\n3. 者人 — You may have confused the kanji 者 (someone) and 老 (old age). The correct answer is 老人, which means 'elderly person'.\n4. 考人 — You may have confused the kanji 考 (consider) and 老 (old age). The correct answer is 老人, which means 'elderly person'."
+},
+{
+"id": "bunpro:894",
+"type": "orthography",
+"question": "友だちの家を＿すぎて＿しまいました。",
+"options": [
+"遅ぎて",
+"過ぎて",
+"適ぎて",
+"選ぎて"
+],
+"answer": 1,
+"source_explanation": "1. 遅ぎて — You may have confused the kanji 遅 (slow) and 過 (excess). The correct answer is 過ぎて, which is the conjunctive form of 過ぎる (to pass by).\n3. 適ぎて — You may have confused the kanji 適 (suitable) and 過 (excess). The correct answer is 過ぎて, which is the conjunctive form of 過ぎる (to pass by).\n4. 選ぎて — You may have confused the kanji 選 (selection) and 過 (excess). The correct answer is 過ぎて, which is the conjunctive form of 過ぎる (to pass by)."
+},
+{
+"id": "bunpro:895",
+"type": "orthography",
+"question": "なぜ＿まど＿を開けたのですか。",
+"options": [
+"突",
+"空",
+"窓",
+"釜"
+],
+"answer": 2,
+"source_explanation": "1. 突 — You may have confused the kanji 突 (pierce) and 窓 (window). The correct answer is 窓, which means 'window'.\n2. 空 — You may have confused the kanji 空 (sky) and 窓 (window). The correct answer is 窓, which means 'window'.\n4. 釜 — You may have confused the kanji 釜 (kettle) and 窓 (window). The correct answer is 窓, which means 'window'."
+},
+{
+"id": "bunpro:896",
+"type": "orthography",
+"question": "わたしのお母さんは日本語を＿ぜんぜん＿話せません。",
+"options": [
+"全熱",
+"全然",
+"全熟",
+"全勲"
+],
+"answer": 1,
+"source_explanation": "1. 全熱 — You may have confused the kanji 熱 (heat) and 然 (nature). The correct answer is 全然, which means 'not at all' here.\n3. 全熟 — You may have confused the kanji 熟 (ripen) and 然 (nature). The correct answer is 全然, which means 'not at all' here.\n4. 全勲 — You may have confused the kanji 勲 (merit) and 然 (nature). The correct answer is 全然, which means 'not at all' here."
+},
+{
+"id": "bunpro:897",
+"type": "orthography",
+"question": "これをインターネットで＿しらべて＿みましょう。",
+"options": [
+"許べて",
+"誤べて",
+"訪べて",
+"調べて"
+],
+"answer": 3,
+"source_explanation": "1. 許べて — You may have confused the kanji 許 (permit) and 調 (investigate). The correct answer is 調べて, which is the conjunctive form of 調べる (to research).\n2. 誤べて — You may have confused the kanji 誤 (mistake) and 調 (investigate). The correct answer is 調べて, which is the conjunctive form of 調べる (to research).\n3. 訪べて — You may have confused the kanji 訪 (visit) and 調 (investigate). The correct answer is 調べて, which is the conjunctive form of 調べる (to research)."
+},
+{
+"id": "bunpro:898",
+"type": "orthography",
+"question": "汚れが＿おちる＿まで、掃除をしてください。",
+"options": [
+"落ちる",
+"洛ちる",
+"苦ちる",
+"若ちる"
+],
+"answer": 0,
+"source_explanation": "2. 洛ちる — You may have confused the kanji 洛 and 落. The correct answer is 落ちる, which means 'to be come off/ to be removed' here.\n3. 苦ちる — You may have confused the kanji 苦 (suffering) and 落 (fall). The correct answer is 落ちる, which means 'to be come off/ to be removed' here.\n4. 若ちる — You may have confused the kanji 若 (young) and 落 (fall). The correct answer is 落ちる, which means 'to be come off/ to be removed' here."
+},
+{
+"id": "bunpro:899",
+"type": "orthography",
+"question": "そこは＿いたい＿から、触らないでね。",
+"options": [
+"病い",
+"疲い",
+"症い",
+"痛い"
+],
+"answer": 3,
+"source_explanation": "1. 病い — You may have confused the kanji 病 (sick) and 痛 (pain). The correct answer is 痛い, which means 'painful'.\n2. 疲い — You may have confused the kanji 疲 (tired) and 痛 (pain). The correct answer is 痛い, which means 'painful'.\n3. 症い — You may have confused the kanji 症 (symptom) and 痛 (pain). The correct answer is 痛い, which means 'painful'."
+}
+]

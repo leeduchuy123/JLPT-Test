@@ -1,0 +1,802 @@
+{
+ "dethitiengnhat:N3-9-3-q22": {
+  "opts": [
+   "どこかの店 – 'cửa hàng nào đó', mơ hồ",
+   "あんな服 – 'quần áo kia'",
+   "どのような服 – 'quần áo như thế nào', nghi vấn",
+   "✔ こうしたチェーン店 – 'chuỗi cửa hàng như thế này', tức cửa hàng lớn ở đâu cũng có"
+  ],
+  "trans": "Tôi nghĩ đến giờ mình chưa nhận ra sức hút của những chuỗi cửa hàng như thế này.",
+  "note": "Cả đoạn cuối nói về おなじみの大きな店 / どこでも買える服 → tóm lại bằng こうしたチェーン店."
+ },
+ "mazii:625-12678-0": {
+  "opts": [
+   "ぶつけて – 'đâm vào (ai)', tôi thành người đâm, sai",
+   "✔ ぶつけられて – 'bị đâm', bị động",
+   "ぶつけさせて – 'cho đâm', sai khiến",
+   "ぶつけさせられて – 'bị bắt đâm'"
+  ],
+  "trans": "Hôm trước tôi bị một chiếc xe đạp từ phía sau đâm phải.",
+  "note": "Câu sau 悪いのは自転車の方 (lỗi tại xe đạp) → tôi là nạn nhân → bị động 〜られる."
+ },
+ "mazii:625-12678-1": {
+  "opts": [
+   "✔ 鳴らしました – 'tôi bấm chuông', tự làm",
+   "鳴らされました – 'bị bấm chuông'",
+   "鳴らしてもらいました – 'nhờ ai bấm'",
+   "鳴らしてくれました – 'ai đó bấm cho tôi'"
+  ],
+  "trans": "Có ông bố dắt con nhỏ đi phía trước nên tôi bấm chuông.",
+  "note": "Lần này tôi đang đi xe đạp, chính tôi bấm chuông → chủ động."
+ },
+ "mazii:625-12678-2": {
+  "opts": [
+   "注意させられないと – 'nếu không bị bắt chú ý'",
+   "注意させないと – 'nếu không bắt chú ý'",
+   "注意してあげないと – 'nếu không chú ý giúp (người dưới)', sai chiều",
+   "✔ 注意してくれないと – 'nếu (cô) không chú ý cho thì (phiền)'"
+  ],
+  "trans": "Ông ấy lườm tôi với vẻ mặt như muốn nói 'Nếu cô không cẩn thận thì phiền lắm'.",
+  "note": "Lời ông bố nói về tôi: 'cô phải cẩn thận cho tôi' → くれる (người khác làm cho mình) + ないと困る."
+ },
+ "mazii:625-12678-3": {
+  "opts": [
+   "✔ 車の人には – 'với người lái ô tô', xe đạp dưới lòng đường cản ô tô",
+   "歩く人には – 'với người đi bộ', họ ở vỉa hè nên không bị ảnh hưởng",
+   "自転車の人には – 'với người đi xe đạp', với họ là nguy hiểm chứ không phải phiền",
+   "子どもやお年寄りには – 'với trẻ em và người già', không liên quan lòng đường"
+  ],
+  "trans": "Nhưng khi xe nhiều, nếu xe đạp đi dưới lòng đường thì sẽ phiền cho người lái ô tô.",
+  "note": "Đoạn đối chiếu: xe đạp ở lòng đường → phiền ô tô; ở vỉa hè → phiền người đi bộ (câu sau)."
+ },
+ "mazii:626-12672-0": {
+  "opts": [
+   "いきました – 'sẽ tăng dần đi' (từ nay về sau), nhưng câu nói đến hiện tại",
+   "いました – 'đang tăng' trong quá khứ, không hợp",
+   "✔ きました – 増えてきた 'đã tăng lên cho đến nay'",
+   "ありました – không đi với 増えて"
+  ],
+  "trans": "Gần đây số người đi 'du học chơi' ở Hàn Quốc ngày càng tăng.",
+  "note": "増えてくる = tăng dần cho đến hiện tại; 増えていく = tăng từ nay về sau. 最近 → てきた."
+ },
+ "mazii:626-12672-1": {
+  "opts": [
+   "とたん – 'vừa… thì', tức thì",
+   "しだい – 'ngay khi… xong', việc tiếp theo",
+   "ところ – 'vừa mới, đang lúc'",
+   "✔ あげく – 'sau một hồi… rốt cuộc (kết quả xấu)'"
+  ],
+  "trans": "Trong số đó không ít sinh viên sau một thời gian chơi bời rốt cuộc bỏ học.",
+  "note": "V-た + あげく: sau khi làm nhiều, kết cục tiêu cực. 遊んで過ごしたあげく辞める hợp sắc thái."
+ },
+ "mazii:626-12672-2": {
+  "opts": [
+   "通りに – 'đúng như'",
+   "うちに – 'trong khi'",
+   "みたいに – 'giống như'",
+   "✔ ように – 'sao cho, để', mục đích / trạng thái mong muốn"
+  ],
+  "trans": "Vì tốn nhiều thời gian và tiền bạc, tôi mong các bạn sống sao cho không hối tiếc.",
+  "note": "後悔しないように過ごす = sống sao cho khỏi hối hận. ように + động từ chỉ cách thức, mục đích."
+ },
+ "mazii:626-12672-3": {
+  "opts": [
+   "つもり – 'định'",
+   "✔ もの – 'lẽ thường là', nêu quy luật chung",
+   "ところ – 'lúc'",
+   "こと – 'việc', がんばれることだ không tự nhiên"
+  ],
+  "trans": "Nếu có mục tiêu gì đó thì sẽ cố gắng được.",
+  "note": "〜ものだ = chân lý, khuynh hướng chung: 'có mục tiêu thì ai cũng gắng được'."
+ },
+ "mazii:627-12684-0": {
+  "opts": [
+   "✔ 登れると思うと – 'cứ nghĩ sẽ được leo thì', cảm xúc nảy sinh khi nghĩ đến",
+   "登れたと思うと – 'nghĩ đã leo được', nhưng chưa leo",
+   "登れたと思ったら – 'tưởng đã leo được thì', không hợp",
+   "登れると思ったら – 'nếu nghĩ sẽ leo được', ったら thiên về phát hiện / điều kiện"
+  ],
+  "trans": "Nghĩ đến việc sắp được leo núi Phú Sĩ, tối hôm trước tôi vui đến mức không ngủ được.",
+  "note": "〜と思うと + cảm xúc (うれしくて): mỗi khi nghĩ đến là thấy… Trước hôm leo nên dùng 登れる (chưa xảy ra)."
+ },
+ "mazii:627-12684-1": {
+  "opts": [
+   "見られそうでした – 'có vẻ sẽ xem được', chưa xem",
+   "見ることでした – 'là việc xem'",
+   "✔ 見ることができました – 'đã xem được'",
+   "見たいと思いました – 'muốn xem'"
+  ],
+  "trans": "Trời rất đẹp nên chúng tôi đã ngắm được mặt trời mọc gọi là 'goraikō' trên đỉnh.",
+  "note": "Câu sau 本当にきれいでした khẳng định đã thấy → khả năng + quá khứ."
+ },
+ "mazii:627-12684-2": {
+  "opts": [
+   "ところで – 'nhân tiện'",
+   "✔ そこで – 'thế là', vấn đề → hành động",
+   "ところが – 'thế nhưng'",
+   "それが – 'cái đó thì'"
+  ],
+  "trans": "Thế là tôi quyết định cùng bạn nhặt rác khi xuống núi.",
+  "note": "Rác nhiều (vấn đề) → quyết định nhặt rác (hành động giải quyết) → そこで."
+ },
+ "mazii:627-12684-3": {
+  "opts": [
+   "aきたない／bよごれている – a sai, nhìn từ xa thì đẹp",
+   "aきたない／bよごれていない – ngược cả hai",
+   "aきれいな／bよごれていない – b sai, thực tế bẩn",
+   "✔ aきれいな／bよごれている – xa thì đẹp, gần thì bẩn"
+  ],
+  "trans": "Núi Phú Sĩ nhìn từ xa đẹp vậy mà thực tế lại bẩn thế này, biết điều đó tôi thấy buồn.",
+  "note": "あんなに…も、実際はこんなに… = đối lập xa / gần. Cảm xúc 悲しい → thực tế là bẩn."
+ },
+ "tryjlpt:14-1480308200921": {
+  "opts": [
+   "わかってくるはずです – 'chắc sẽ hiểu', suy đoán tương lai",
+   "わかっていくそうです – 'nghe nói sẽ hiểu dần'",
+   "✔ わかってきました – 'đã dần hiểu ra'",
+   "わかっていったようです – 'có vẻ đã hiểu dần đi', không phải chuyện người khác"
+  ],
+  "trans": "Nhưng sống ở Tokyo 3 tháng, tôi dần hiểu ra lý do.",
+  "note": "3か月たって + V-てきた: thay đổi tích lũy đến hiện tại."
+ },
+ "tryjlpt:14-1480308333811": {
+  "opts": [
+   "したがって – 'do đó'",
+   "つまり – 'tức là'",
+   "たとえば – 'ví dụ'",
+   "✔ それから – 'rồi, thêm nữa', liệt kê lý do tiếp theo"
+  ],
+  "trans": "Thêm nữa, tàu ít khi trễ, và không cần đợi lâu đã có chuyến tiếp.",
+  "note": "まず… それから… = liệt kê thứ nhất, thứ hai."
+ },
+ "tryjlpt:14-1480308368917": {
+  "opts": [
+   "ある電車 – 'một loại tàu nào đó'",
+   "その電車 – 'tàu đó'",
+   "✔ こういう電車 – 'tàu như thế này', tổng kết các ưu điểm vừa nêu",
+   "どちらの電車 – 'tàu nào'"
+  ],
+  "trans": "Tàu như thế này thì tôi hiểu tâm lý ai cũng muốn dùng.",
+  "note": "こういう tóm lại những đặc điểm vừa kể ngay trên (nhiều ga, đúng giờ, 3 phút một chuyến)."
+ },
+ "tryjlpt:14-1480308416874": {
+  "opts": [
+   "答えなのか – 'là câu trả lời sao', sai nghĩa",
+   "✔ なぜなのか – 'tại sao'",
+   "理由なのか – 'là lý do sao', これが理由なのか sai nghĩa",
+   "だれなのか – 'là ai'"
+  ],
+  "trans": "Tôi không hiểu điều này là tại sao.",
+  "note": "Đoạn 'không hiểu' + câu cuối 答えがわかる → câu hỏi lý do: なぜなのかわかりません."
+ },
+ "tryjlpt:14-1480308445911": {
+  "opts": [
+   "✔ なるのでしょうか – 'liệu có trở nên… không', tự hỏi",
+   "なったでしょう – 'chắc đã trở nên', quá khứ",
+   "なってしまうのです – 'sẽ trở nên mất', khẳng định",
+   "なってしまいました – 'đã trở nên', chưa xảy ra"
+  ],
+  "trans": "Nếu sống lâu ở Nhật, liệu tôi cũng sẽ trở nên như vậy chăng?",
+  "note": "〜たら + のでしょうか: băn khoăn về tương lai. Câu sau 答えがわかるのかもしれません tiếp nối sự tự hỏi."
+ },
+ "tryjlpt:16-1480148044133": {
+  "opts": [
+   "なるところに – 'đúng lúc sắp thành'",
+   "なったように – 'như là đã thành'",
+   "✔ なってみると – 'khi thực sự đến (tuổi đó) thì thấy'",
+   "なるとしたら – 'giả sử thành', giả định"
+  ],
+  "trans": "Nhưng khi thực sự đến cái tuổi mà mình từng nghĩ là 'người lớn', tôi ngạc nhiên vì mình chưa trưởng thành.",
+  "note": "〜てみると = khi thực sự làm / trải nghiệm thì (phát hiện). Đã ở tuổi đó nên không phải giả định."
+ },
+ "tryjlpt:16-1480148072752": {
+  "opts": [
+   "あるかないかわからない – 'không rõ có hay không'",
+   "めったにない – 'hiếm khi', giảm nhẹ, không hợp ý tự phê",
+   "✔ あるくらいだ – 'thậm chí còn có', nhấn mức độ",
+   "あるはずがないのだ – 'không thể nào có', ngược"
+  ],
+  "trans": "Thậm chí tôi từng nói dối 'bị sốt do cảm' để nghỉ làm thật, trong khi hồi nhỏ dù sốt thật vẫn đi học đàng hoàng.",
+  "note": "〜くらいだ nêu ví dụ cực đoan để nhấn mạnh mức độ (tệ đến mức từng nói dối để nghỉ làm)."
+ },
+ "tryjlpt:16-1480148407785": {
+  "opts": [
+   "きらいだから/食べるようにしている – ghét mà cố ăn, mâu thuẫn với それなのに sau",
+   "✔ きらいだから/食べないようにしている – ghét nên tránh ăn",
+   "好きだから/食べるようにしている – không còn ghét thì không có gì để tự phê",
+   "好きだから/食べないようにしている – thích mà tránh ăn, vô lý"
+  ],
+  "trans": "Những món hồi nhỏ ghét như cà rốt, ớt chuông, giờ vẫn ghét nên nếu có trong món ăn thì tôi tránh ăn.",
+  "note": "Câu sau それなのに子どもには…しかったりする (mình kén ăn mà mắng con) → mình vẫn ghét và tránh."
+ },
+ "tryjlpt:16-1480148441012": {
+  "opts": [
+   "✔ そんなふうに – 'theo cách như vậy', chỉ các ví dụ vừa nêu",
+   "どんなふうに – 'như thế nào', nghi vấn",
+   "あんなふうな – 'kiểu kia', cần đi với danh từ",
+   "どんなような – sai ngữ pháp"
+  ],
+  "trans": "Người lớn như hiện nay, biết trốn việc và nói dối trơn tru như vậy, tâm hồn có khi còn tệ hơn hồi nhỏ.",
+  "note": "そんなふうに + động từ (さぼったり) tổng kết những hành vi vừa kể ở đoạn trên."
+ },
+ "tryjlpt:16-1480148465072": {
+  "opts": [
+   "ところが – 'thế nhưng'",
+   "つまり – 'tức là'",
+   "または – 'hoặc'",
+   "✔ そして – 'và rồi', dẫn tới suy nghĩ tiếp theo"
+  ],
+  "trans": "Và rồi nghĩ rằng bố mẹ mình, người tôi từng cho là 'người lớn', có lẽ cũng từng nghĩ như tôi bây giờ và cố gắng để thành người lớn, tôi thấy lòng ấm áp.",
+  "note": "Từ tự phê → chuyển sang nghĩ về bố mẹ với cảm giác ấm áp, liền mạch nên そして."
+ },
+ "tryjlpt:19-1480148849144": {
+  "opts": [
+   "からして/表すことだ – 'ngay từ…', không hợp",
+   "にしろ/表すものだ – 'dù là', không hợp",
+   "✔ によると/表しているそうだ – 'theo… thì nghe nói', cặp cố định",
+   "にかかわらず/表したわけだ – 'bất kể', không hợp"
+  ],
+  "trans": "Theo phòng quan hệ công chúng của tòa thị chính A, biểu tượng mới này thể hiện thông điệp từ thị trưởng Aoki.",
+  "note": "Nによると…そうだ: dẫn nguồn tin + truyền đạt. Văn báo chí nên dùng cấu trúc này."
+ },
+ "tryjlpt:19-1480148904605": {
+  "opts": [
+   "✔ 感じさせる – 'làm cho cảm thấy', sai khiến bổ nghĩa もの",
+   "感じようとする – 'cố cảm thấy'",
+   "感じないでもない – 'không phải không cảm thấy'",
+   "感じがちな – 'hay cảm thấy'"
+  ],
+  "trans": "Thị trưởng muốn làm thành biểu tượng khiến người ta cảm thấy gần gũi và ấm áp.",
+  "note": "親しみやすさと温かさを感じさせるもの = thứ gợi cảm giác gần gũi, ấm áp. Thể sai khiến = 'khiến người xem cảm thấy'."
+ },
+ "tryjlpt:19-1480148927369": {
+  "opts": [
+   "にともなって – 'cùng với'",
+   "✔ において – 'tại, ở' (trang trọng, tương đương で)",
+   "につれて – 'theo đà'",
+   "に対して – 'đối với'"
+  ],
+  "trans": "Từ hôm nay, thành phố A công bố biểu tượng mới này trên trang web của thành phố.",
+  "note": "ホームページにおいて公開する = công bố trên trang web. において = で trong văn viết."
+ },
+ "tryjlpt:19-1480148954311": {
+  "opts": [
+   "市町村のキャラクター – 'nhân vật của các thành phố', thiếu nghĩa 'được yêu thích'",
+   "このマークのキャラクター – 'nhân vật của biểu tượng này', chưa có",
+   "新しいキャラクター – 'nhân vật mới'",
+   "✔ 人気があるキャラクター – 'nhân vật được yêu thích', nối với とても"
+  ],
+  "trans": "Nhân vật rất được yêu thích thì được làm thành sản phẩm như khăn tay hoặc lên tivi.",
+  "note": "とても + 人気がある = 'rất được yêu thích'. Câu trước nói 人気者になっている → tiếp nối."
+ },
+ "tryjlpt:19-1480148976331": {
+  "opts": [
+   "つけられてほしい – sai dạng",
+   "つけてもいい – 'đặt cũng được'",
+   "つけてみたい – 'tôi muốn thử đặt', nhưng tên do người dân góp",
+   "✔ つけてほしい – 'mong (mọi người) đặt'"
+  ],
+  "trans": "Thị trưởng nói mong mọi người đặt cho nhân vật của thành phố một cái tên được nhiều người yêu mến.",
+  "note": "〜てほしい = mong người khác làm. Tên được 市民から募集 nên thị trưởng mong dân đặt."
+ },
+ "tryjlpt:21-1480127436105": {
+  "opts": [
+   "ながらいます – sai ngữ pháp",
+   "ないはずがありません – 'không thể không', sai nghĩa",
+   "✔ つつあります – 'đang dần', xu hướng tiếp diễn",
+   "ないであります – sai ngữ pháp"
+  ],
+  "trans": "Hiện nay 'pro bono' đang dần trở nên thịnh hành.",
+  "note": "V-ます + つつある = đang trong quá trình (văn viết). 流行しつつある = đang dần thịnh hành."
+ },
+ "tryjlpt:21-1480127485943": {
+  "opts": [
+   "わけ – 'lý do, tức là'",
+   "✔ こと – 'việc', định nghĩa 〜とは…ことです",
+   "もの – 'vật', không dùng cho hành động",
+   "はず – 'chắc hẳn'"
+  ],
+  "trans": "'Pro bono' là việc dùng kiến thức chuyên môn có được từ công việc để làm tình nguyện ở NPO.",
+  "note": "XとはVことです = định nghĩa X là việc làm gì. Mẫu chuẩn của câu giải thích thuật ngữ."
+ },
+ "tryjlpt:21-1480127527978": {
+  "opts": [
+   "通る – 'đi qua' (thể từ điển)",
+   "通った – 'đã đi qua'",
+   "通って – 'đi qua rồi', 通る là tự động từ, không đi với を kiểu này",
+   "✔ 通して – を通して 'thông qua'"
+  ],
+  "trans": "Vì họ nghĩ việc nhân viên nâng cao năng lực thông qua 'pro bono' rốt cuộc cũng có lợi cho công ty.",
+  "note": "Nを通して = thông qua N (phương tiện). Phân biệt 通る (tự động từ) và 通す (tha động từ)."
+ },
+ "tryjlpt:21-1480127553150": {
+  "opts": [
+   "✔ ため – 会社のためになる 'có lợi cho công ty', cụm cố định",
+   "おかげ – 'nhờ', không đi với になる kiểu này",
+   "せい – 'tại', kết quả xấu",
+   "から – 'vì', không bổ nghĩa danh từ với の"
+  ],
+  "trans": "…rốt cuộc cũng là vì lợi ích của công ty.",
+  "note": "〜のためになる = có ích cho. Nhớ cụm 人のためになる仕事."
+ },
+ "tryjlpt:21-1480127583453": {
+  "opts": [
+   "✔ 上で – 仕事の上で 'trong (phạm vi) công việc'",
+   "下で – 'dưới', không hợp",
+   "上は – 'một khi đã', nối với động từ",
+   "下は – không có cách dùng này"
+  ],
+  "trans": "Năng lực dùng trong công việc chỉ có giới hạn.",
+  "note": "Nの上で = về mặt, trong lĩnh vực N. 仕事の上で使う能力 = năng lực dùng trong công việc."
+ },
+ "tryjlpt:23-1480149396372": {
+  "opts": [
+   "ないのではないだろうか – 'phải chăng không có', ngược ý",
+   "なくてもよいのだろうか – 'không có cũng được sao'",
+   "✔ あるのではないだろうか – 'chẳng phải là có sao', khẳng định nhẹ",
+   "あってもよいのだろうか – 'có cũng được sao'"
+  ],
+  "trans": "Phải chăng thực ra có lúc chúng ta có thời gian nhưng lại giả vờ bận, tự đặt mình vào trạng thái bận rộn?",
+  "note": "〜のではないだろうか = ý kiến người viết dạng câu hỏi tu từ. Tác giả cho rằng chuyện đó có."
+ },
+ "tryjlpt:23-1480149437365": {
+  "opts": [
+   "乗ったすえに – 'sau cùng của việc lên tàu', sai",
+   "✔ 乗ったとたん – 'vừa lên tàu là'",
+   "乗れば乗るほど – 'càng đi càng'",
+   "乗ったばかりに – 'chỉ vì lên tàu (nên hậu quả xấu)'"
+  ],
+  "trans": "Bình thường vừa lên tàu là tôi nhét tai nghe vào tai, lấy sách báo ra đọc.",
+  "note": "V-た + とたん = ngay lập tức sau khi. Diễn tả thói quen phản xạ ngay khi lên tàu."
+ },
+ "tryjlpt:23-1480149460129": {
+  "opts": [
+   "たとえば – 'ví dụ'",
+   "または – 'hoặc'",
+   "しかも – 'hơn nữa'",
+   "✔ ところが – 'thế nhưng', khác với thường lệ"
+  ],
+  "trans": "Thế nhưng hôm đó tôi lên tàu mà chẳng mang gì nên chẳng có việc gì để làm.",
+  "note": "いつもは… ところが この日は… = thường thì vậy, nhưng hôm nay thì khác."
+ },
+ "tryjlpt:23-1480149490876": {
+  "opts": [
+   "✔ このことが示す通り – 'đúng như điều này cho thấy'",
+   "このことからはわからないが – 'từ điều này không rõ nhưng', ngược",
+   "このことが言うには – sai cách dùng",
+   "このことでよければ – 'nếu điều này được thì'"
+  ],
+  "trans": "Như điều này cho thấy, có lẽ chúng ta cần những khoảng thời gian không làm gì.",
+  "note": "Trải nghiệm thư giãn trên tàu là bằng chứng → rút ra kết luận: 〜が示す通り."
+ },
+ "tryjlpt:23-1480149520044": {
+  "opts": [
+   "してもいい – 'làm cũng được'",
+   "✔ しなくてもいい – 'không làm cũng được', việc không cần thiết",
+   "したほうがいい – 'nên làm'",
+   "すればいい – 'chỉ cần làm'"
+  ],
+  "trans": "Chúng ta cứ cố tình tạo ra những việc không cần làm rồi khiến cuộc sống bận rộn.",
+  "note": "わざわざ + しなくてもいい用事 = cố tình bày ra việc không cần. Hợp luận điểm 'thực ra có thời gian'."
+ },
+ "tryjlpt:24-1480150235492": {
+  "opts": [
+   "に限り – 'chỉ giới hạn ở', ngược",
+   "✔ に限らず – 'không chỉ… mà cả'",
+   "からして – 'ngay từ'",
+   "からすると – 'xét từ'"
+  ],
+  "trans": "Để có nhiều thông tin, tôi cố gắng đọc không chỉ báo tiếng Nhật mà cả báo tiếng Anh.",
+  "note": "Nに限らず…も = không chỉ N, cả… cũng. も ở 英字新聞も là dấu hiệu."
+ },
+ "tryjlpt:24-1480150297788": {
+  "opts": [
+   "からには/理解しようと思います – 'một khi đã… thì định hiểu', không hợp",
+   "ばかりに/理解できなくなりました – 'chỉ vì… nên không hiểu được', kết quả xấu",
+   "✔ おかげで/理解できるようになりました – 'nhờ… nên đã hiểu được'",
+   "せいで/理解することができます – せい là xấu, không hợp kết quả tốt"
+  ],
+  "trans": "Nhờ đọc suốt thời gian dài, gần đây chỉ lướt qua trang đầu là tôi đã nắm được đại ý.",
+  "note": "Kết quả tốt (hiểu được) → おかげで; ようになりました = thay đổi năng lực theo thời gian."
+ },
+ "tryjlpt:24-1480150330655": {
+  "opts": [
+   "考えません – 'không nghĩ', thiếu sắc thái 'không thể'",
+   "考えさせません – 'không cho nghĩ'",
+   "✔ 考えられません – 'không thể nghĩ tới' (đề in nhầm 孝)",
+   "考えさせられません – 'không bị bắt nghĩ'"
+  ],
+  "trans": "Với tôi, người rất thích đọc báo, việc vứt báo cũ là không thể nghĩ đến.",
+  "note": "〜ということは考えられない = không thể chấp nhận / tưởng tượng. Ở đây: không bao giờ có chuyện vứt báo."
+ },
+ "tryjlpt:24-1480150351522": {
+  "opts": [
+   "だんだん – 'dần dần', không đi với việc 'tìm ra' một lần",
+   "ますます – 'càng ngày càng'",
+   "なかなか – 'mãi không' (với phủ định)",
+   "✔ とうとう – 'cuối cùng cũng', sau quá trình dài"
+  ],
+  "trans": "Tôi đã thử nhiều cách và gần đây cuối cùng đã tìm ra cách giải quyết.",
+  "note": "いろいろやってみて…とうとう見つけました = sau nhiều cố gắng, cuối cùng đạt được."
+ },
+ "tryjlpt:24-1480150375078": {
+  "opts": [
+   "現在の新聞を見る – 'xem báo hiện tại', không phải chủ đề",
+   "過去の新聞を見る – 'xem báo cũ', chỉ là mục đích phụ",
+   "✔ 現在の新聞を保存する – 'lưu lại báo hiện tại', chủ đề của đoạn",
+   "過去の新聞を保存する – 'lưu báo cũ', báo cần lưu là báo mới mua"
+  ],
+  "trans": "Việc lưu giữ những tờ báo hiện tại có một niềm vui háo hức.",
+  "note": "Đoạn cuối nói về cách lưu báo (保存方法) và niềm vui của việc đó. Báo được lưu là báo mua hằng tuần."
+ },
+ "tryjlpt:27-1480146935083": {
+  "opts": [
+   "なぜなら – 'bởi vì', câu sau phải là lý do",
+   "または – 'hoặc'",
+   "✔ ですから – 'vì vậy'",
+   "ただし – 'tuy nhiên, có điều'"
+  ],
+  "trans": "Vì vậy, khi mới đến Nhật, biết người Nhật tắm bồn mỗi ngày tôi rất ngạc nhiên.",
+  "note": "Quê tôi không có thói quen tắm mỗi ngày (lý do) → ngạc nhiên (kết quả)."
+ },
+ "tryjlpt:27-1480146983415": {
+  "opts": [
+   "あの – 'kia'",
+   "✔ このような – 'như thế này', chỉ thói quen vừa nêu",
+   "ああした – 'kiểu kia'",
+   "それほどの – 'đến mức đó'"
+  ],
+  "trans": "Tôi nghĩ dân tộc có thói quen như thế này hiếm có trên thế giới rộng lớn.",
+  "note": "このような習慣 tóm tắt thói quen tắm mỗi ngày vừa mô tả ngay trước."
+ },
+ "tryjlpt:27-1480147050686": {
+  "opts": [
+   "まずは/最初に – a được, nhưng b 'đầu tiên' cho mục cuối thì sai",
+   "まずは/最後に – 'trước hết / cuối cùng', về logic liệt kê là hợp nhất",
+   "✔ 最初に/まずは – a 'đầu tiên' hợp; b 'trước hết' ở mục thứ tư thì không tự nhiên",
+   "最後に/まずは – ngược thứ tự"
+  ],
+  "trans": "Thứ nhất, tòa nhà cổ như chùa, đền. Thứ hai, lối vào chia 'nam' 'nữ'. Thứ ba, phải cởi hết đồ trước người khác. Và cuối cùng, nước tắm rất nóng.",
+  "note": "Liệt kê 第一に…第二に…第三に…最後に. (?) Đáp án nguồn có thể sai: hợp lý nhất là 'a まずは / b 最後に' (phương án 2)."
+ },
+ "tryjlpt:27-1480147100252": {
+  "opts": [
+   "慣れてつつあります – sai cách nối (không dùng thể て)",
+   "慣れてつついます – sai",
+   "✔ 慣れつつあります – V-ます + つつある 'đang dần quen'",
+   "慣れつついます – sai, không có dạng つついる"
+  ],
+  "trans": "Nhưng giờ tôi cũng đang dần quen với nhà tắm công cộng Nhật Bản.",
+  "note": "つつある nối với V-ます bỏ ます: 慣れ + つつある. Không có dạng つついる."
+ },
+ "tryjlpt:27-1480147141971": {
+  "opts": [
+   "限りでしょうか – 'chỉ trong phạm vi', sai",
+   "どころでしょうか – 'đâu phải lúc', sai",
+   "上でしょうか – 'trên', sai",
+   "✔ ことでしょうか – 'có lẽ là vậy chăng', kết luận nhẹ nhàng"
+  ],
+  "trans": "Có thể nói tôi đã khá gần với 'người Nhật' rồi chăng.",
+  "note": "〜ということでしょうか = 'có thể nói là… chăng', cách kết bài khiêm tốn."
+ },
+ "tryjlpt:29-1480299131632": {
+  "opts": [
+   "しか – 'chỉ', cần phủ định",
+   "✔ もの – số lượng + もの 'tới tận', nhấn mạnh nhiều",
+   "すら – 'ngay cả'",
+   "さえ – 'ngay cả'"
+  ],
+  "trans": "Thế là có tới khoảng 1000 lá đơn gửi về.",
+  "note": "Số lượng + もの(の) = nhấn mạnh nhiều: 1000通もの応募 = tới 1000 đơn."
+ },
+ "tryjlpt:29-1480299182573": {
+  "opts": [
+   "もしも/だろう – もしも cần vế giả định ば/たら",
+   "✔ もしかすると/かもしれない – cặp 'có lẽ… cũng nên'",
+   "もし/だったのだ – không khớp nhau",
+   "もしかしたら/だということだ – b 'nghe nói' không khớp với もしかしたら"
+  ],
+  "trans": "Trước giờ gọi là 'Furukawa-dōri' nên có lẽ với người sống lâu ở đây đó là cái tên gây ngạc nhiên.",
+  "note": "もしかすると…かもしれない là cặp hô ứng cố định diễn tả phỏng đoán."
+ },
+ "tryjlpt:29-1480299208309": {
+  "opts": [
+   "だからといって – 'dù nói vậy nhưng'",
+   "✔ 実は – 'thực ra là', nêu sự thật đằng sau",
+   "それとも – 'hay là'",
+   "または – 'hoặc'"
+  ],
+  "trans": "Thực ra gần đây nhà cửa đường sá cũ đi, đêm có thanh niên tụ tập ồn ào, tội phạm xảy ra…",
+  "note": "Sau khi nói phố có lịch sử 100 năm, bật ra thực trạng vấn đề → 実は."
+ },
+ "tryjlpt:29-1480299240004": {
+  "opts": [
+   "✔ 名前を変えた – 'đã đổi tên', chủ động, chủ thể là 商店街の人たち",
+   "名前が変わった – 'tên đã thay đổi' (tự nhiên), không hợp với chủ ngữ người",
+   "名前を変えずにいた – 'cứ không đổi'",
+   "名前が変わっていた – 'tên đã bị đổi (trạng thái)'"
+  ],
+  "trans": "Việc người dân phố thương mại đổi tên lần này là một trong những chiến lược để khôi phục sự sôi động.",
+  "note": "人たちが…のは: có chủ thể là người → tha động từ 変える."
+ },
+ "tryjlpt:29-1480299267788": {
+  "opts": [
+   "✔ 祈っているにちがいない – 'chắc chắn đang cầu mong', suy đoán chắc chắn",
+   "祈っている一方だ – 一方だ đi với xu hướng tăng / giảm",
+   "祈りたいにすぎない – 'chỉ là muốn cầu'",
+   "祈りたいものだ – 'thật muốn cầu', ý nguyện của người viết"
+  ],
+  "trans": "Chắc chắn các chủ cửa hàng đang cầu mong hiệu quả của tên mới đến càng sớm càng tốt.",
+  "note": "Bài báo nói về tâm trạng người khác → にちがいない (chắc chắn là)."
+ },
+ "tryjlpt:33-1480306014472": {
+  "opts": [
+   "からには/結論です – 'một khi đã… / kết luận', không hợp",
+   "ことから/感想です – 'từ việc / cảm tưởng', không hợp",
+   "からといって/満足です – 'dù nói là / hài lòng', không hợp",
+   "✔ にもかかわらず/現状です – 'mặc dù / là thực trạng'"
+  ],
+  "trans": "Tuy nhiên, dù đã bận hơn trước nhưng thực trạng là không có ai giúp đỡ.",
+  "note": "にもかかわらず = mặc dù (trái kỳ vọng). 〜のが現状です = thực trạng là."
+ },
+ "tryjlpt:33-1480306046453": {
+  "opts": [
+   "✔ これからの – 'từ nay về sau'",
+   "あれからの – 'từ hồi đó'",
+   "こちらからの – 'từ phía chúng tôi'",
+   "あちらからの – 'từ phía bên kia'"
+  ],
+  "trans": "Cùng người tham gia suy nghĩ về cách sống, cách làm việc khéo léo của phụ nữ từ nay về sau.",
+  "note": "Chủ đề hội thảo 新しい生き方 → これからの女性の生き方 (tương lai)."
+ },
+ "tryjlpt:33-1480306073921": {
+  "opts": [
+   "だけであり – 'chỉ là'",
+   "だけであれば – 'nếu chỉ'",
+   "✔ だけでなく – 'không chỉ… mà'",
+   "だけでなければ – 'nếu không chỉ'"
+  ],
+  "trans": "Chúng tôi tuyển những người không chỉ nghe bài giảng mà còn đặt câu hỏi, nêu ý kiến.",
+  "note": "ただ…だけでなく、…も = không chỉ… mà còn. Mẫu quen thuộc."
+ },
+ "tryjlpt:33-1480306107217": {
+  "opts": [
+   "未満の – 'dưới (chưa đến)'",
+   "方面の – 'phương diện'",
+   "以上の – 'từ… trở lên' (số lượng)",
+   "✔ 以降の – 'từ… trở đi' (thời gian, thứ tự)"
+  ],
+  "trans": "Lịch giảng viên từ buổi thứ 2 trở đi và các nội dung khác được đăng trên trang web.",
+  "note": "以降 dùng cho thời điểm / thứ tự (第2回目以降); 以上 dùng cho số lượng."
+ },
+ "tryjlpt:33-1480306136822": {
+  "opts": [
+   "待たれます – bị động / kính ngữ nhẹ, không hợp",
+   "お待ちでいらっしゃいます – tôn kính, nói về người khác",
+   "✔ お待ちいたしております – khiêm nhường, phía tổ chức chờ",
+   "お待ちくださいます – 'quý vị chờ', sai chủ thể"
+  ],
+  "trans": "Chúng tôi rất mong sự tham gia của quý vị.",
+  "note": "Người tổ chức nói về hành động của mình → khiêm nhường ngữ お〜いたす + おります."
+ },
+ "tryjlpt:34-1480319741850": {
+  "opts": [
+   "かなりよくある – 'khá thường thấy', ngược",
+   "ときどき見られる – 'thỉnh thoảng thấy'",
+   "✔ きわめてまれな – 'cực kỳ hiếm'",
+   "ないこともない – 'không phải là không có'"
+  ],
+  "trans": "Việc phát hành một tạp chí lấy chính cuộc sống làm chủ đề là chuyện cực kỳ hiếm.",
+  "note": "Câu trước: trước giờ chỉ giới thiệu đơn giản → tạp chí chuyên đề là mới lạ, hiếm."
+ },
+ "tryjlpt:34-1480319768475": {
+  "opts": [
+   "ところで – 'nhân tiện'",
+   "✔ つまり – 'tức là', giải thích 季刊",
+   "しかし – 'nhưng'",
+   "それから – 'sau đó'"
+  ],
+  "trans": "Tạp chí này không ra hàng tháng mà là quý san, tức là phát hành 4 lần một năm: xuân, hạ, thu, đông.",
+  "note": "季刊 (quý san) là từ khó → つまり diễn giải lại nghĩa."
+ },
+ "tryjlpt:34-1480319791566": {
+  "opts": [
+   "✔ というわけです – 'thế nên là', kết quả hợp lý từ lý do",
+   "ものがあります – 'có điều gì đó'",
+   "どころではありません – 'không phải lúc'",
+   "というばかりです – sai"
+  ],
+  "trans": "Do bán chạy hơn dự kiến nên thành ra được bán ở hiệu sách.",
+  "note": "Lý do (bán chạy) → kết quả (bán ở hiệu sách) → 〜というわけです."
+ },
+ "tryjlpt:34-1480319816421": {
+  "opts": [
+   "にとって – 'đối với'",
+   "に際して – 'nhân dịp'",
+   "につれて – 'theo đà'",
+   "✔ を通じて – 'thông qua'"
+  ],
+  "trans": "Thông qua tạp chí này, người nước ngoài hỏi han chia sẻ nỗi lo và niềm vui với nhau.",
+  "note": "Nを通じて = Nを通して: thông qua phương tiện N."
+ },
+ "tryjlpt:34-1480319854558": {
+  "opts": [
+   "紹介するおそれがあるのです – 'có nguy cơ giới thiệu', おそれ cho việc xấu",
+   "紹介していきかねません – 'có thể lỡ giới thiệu', sắc thái xấu",
+   "✔ 紹介していくつもりだそうです – 'nghe nói định giới thiệu'",
+   "紹介するかのようです – 'như thể giới thiệu'"
+  ],
+  "trans": "Nghe nói họ cũng dự định sẽ giới thiệu thông tin về giao lưu với người Nhật trên toàn quốc.",
+  "note": "Bài báo truyền đạt dự định của nhà xuất bản → つもりだ + そうです (nghe nói)."
+ },
+ "tryjlpt:37-1480327506479": {
+  "opts": [
+   "まあまあ料理 – sai ngữ pháp (phải là まあまあの)",
+   "✔ おいしい料理 – 'món ngon', khớp 'chinh phục qua dạ dày'",
+   "いつもの料理 – 'món thường ngày'",
+   "すべての料理 – 'mọi món'"
+  ],
+  "trans": "Đàn ông thường thích phụ nữ nấu cho mình những món ngon.",
+  "note": "Câu nói 'chinh phục đàn ông qua dạ dày' → món ăn phải ngon."
+ },
+ "tryjlpt:37-1480327594798": {
+  "opts": [
+   "そのため – 'vì thế'",
+   "それだけ – 'chỉ vậy'",
+   "✔ そうはいっても – 'dù nói vậy nhưng'",
+   "なぜなら – 'bởi vì'"
+  ],
+  "trans": "Dù nói vậy, câu này không chỉ áp dụng cho tình yêu hay đàn ông.",
+  "note": "Vừa khẳng định câu nói → rồi mở rộng: 'dù vậy, không chỉ…' → そうはいっても."
+ },
+ "tryjlpt:37-1480327618551": {
+  "opts": [
+   "するかと思います – 'tưởng là làm'",
+   "なるかと思います – 'tưởng là trở thành'",
+   "いることと思います – 'có' nhưng いる dùng cho người / vật sống",
+   "✔ あることと思います – 'chắc là có (kỷ niệm)'"
+  ],
+  "trans": "Chắc hẳn bạn cũng có kỷ niệm thân hơn với người từng cùng ăn uống.",
+  "note": "思い出がある (kỷ niệm → ある, không phải いる). 〜ことと思います = chắc hẳn là (lịch sự)."
+ },
+ "tryjlpt:37-1480327651576": {
+  "opts": [
+   "限りました – quá khứ, sai",
+   "限るようです – 'có vẻ chỉ'",
+   "限ります – 'chỉ giới hạn', ngược",
+   "✔ 限りません – 'không chỉ'"
+  ],
+  "trans": "Bữa ăn quan trọng không chỉ khi kết bạn hay tìm người yêu.",
+  "note": "〜だけに限りません = không chỉ giới hạn ở. Vế sau 仕事の話…でも mở rộng."
+ },
+ "tryjlpt:37-1480327682649": {
+  "opts": [
+   "✔ なることさえあるのです – 'thậm chí có khi trở thành'",
+   "することはあるのです – 'có khi làm', 手段にする không hợp",
+   "なるしかないのです – 'chỉ còn cách trở thành'",
+   "するしかないのです – 'chỉ còn cách làm'"
+  ],
+  "trans": "Biết một quán yên tĩnh, dịch vụ và món ngon thậm chí có thể trở thành phương tiện để công việc thuận lợi.",
+  "note": "手段になる (trở thành phương tiện); さえ nhấn mạnh 'thậm chí'."
+ },
+ "tryjlpt:6-1479322959593": {
+  "opts": [
+   "そして – 'và rồi', liệt kê",
+   "それから – 'sau đó'",
+   "✔ すると – 'thế là (kết quả xảy ra ngay)'",
+   "しかし – 'nhưng'"
+  ],
+  "trans": "Thế là đá đó hạ xuống khoảng -10 độ.",
+  "note": "Hành động (rắc muối) → hiện tượng tự nhiên xảy ra: すると."
+ },
+ "tryjlpt:6-1479323338418": {
+  "opts": [
+   "信じられることに – 'điều có thể tin', không có cách nói này",
+   "✔ 信じがたいことに – 'khó tin là'",
+   "信じやすいことで – 'dễ tin', sai nghĩa",
+   "信じにくいことで – で sai, cần ことに"
+  ],
+  "trans": "Thật khó tin là nếu làm lạnh từ từ, nước xuống dưới 0 độ vẫn không đóng băng.",
+  "note": "〜ことに = 'điều đáng… là' (đặt cảm xúc đầu câu): 信じがたいことに、驚いたことに."
+ },
+ "tryjlpt:6-1479323371212": {
+  "opts": [
+   "与えなくて – 'không tác động và', không nêu điều kiện",
+   "与えなくても – 'dù không tác động', sai logic",
+   "与えないだけで – 'chỉ cần không tác động', gần nghĩa nhưng không chuẩn",
+   "✔ 与えない限り – 'chừng nào không… thì'"
+  ],
+  "trans": "Nước siêu lạnh này vẫn là nước chừng nào không bị rung động.",
+  "note": "〜ない限り = chừng nào chưa… thì (điều kiện duy trì). Câu sau nói rung là đông ngay."
+ },
+ "tryjlpt:6-1479323431706": {
+  "opts": [
+   "✔ その際 – 'khi đó, lúc ấy'",
+   "その機会 – 'cơ hội đó'",
+   "そのところ – 'chỗ đó'",
+   "それで – 'vì vậy'"
+  ],
+  "trans": "Khi đó, hãy cẩn thận để nước trong cốc không bị rung.",
+  "note": "際 = lúc, dịp (trang trọng). その際 = trong lúc làm việc vừa nói (rót nước)."
+ },
+ "tryjlpt:6-1479323463037": {
+  "opts": [
+   "つつ – 'vừa… vừa'",
+   "ながら – 'trong khi'",
+   "なり – 'vừa… đã', nhưng nối với thể từ điển",
+   "✔ とたんに – 'ngay khi'"
+  ],
+  "trans": "Nước trong cốc rơi xuống là biến thành đá ngay lập tức.",
+  "note": "V-た + とたん(に) = ngay sau đó. なり nối thể từ điển nên không hợp với 落ちた."
+ },
+ "tryjlpt:74-1495381066684": {
+  "opts": [
+   "✔ それ – 'nó', chỉ cái cốc vừa nhắc",
+   "あれ – 'cái kia', xa",
+   "そっち – 'phía đó'",
+   "あっち – 'phía kia'"
+  ],
+  "trans": "Khi mang nó ra quầy thanh toán, chuyện bất ngờ đã xảy ra.",
+  "note": "Vật vừa nhắc ở câu trước (かわいいコップ) → それ."
+ },
+ "tryjlpt:74-1495381145785": {
+  "opts": [
+   "言い返しました – 'cãi lại'",
+   "言い直しませんでした – 'không nói lại', ngược",
+   "言い返さないでくれました – 'đã không cãi lại cho tôi'",
+   "✔ 言い直してくれました – 'nói lại (dễ hiểu hơn) cho tôi'"
+  ],
+  "trans": "Thấy tôi không hiểu, nhân viên nói lại cho tôi: 'Dùng ở nhà hay làm quà ạ?'",
+  "note": "言い直す = nói lại bằng cách khác; くれる = làm giúp tôi. Phân biệt với 言い返す (cãi lại)."
+ },
+ "tryjlpt:74-1495381174033": {
+  "opts": [
+   "実は – 'thực ra'",
+   "✔ すると – 'thế là', diễn biến ngay sau lời đáp",
+   "ところで – 'nhân tiện'",
+   "例えば – 'ví dụ'"
+  ],
+  "trans": "Thế là nhân viên cho cốc vào hộp và lấy ra một tờ giấy.",
+  "note": "Tôi trả lời 'quà' → ngay sau đó nhân viên hành động: すると."
+ },
+ "tryjlpt:74-1495381199607": {
+  "opts": [
+   "包まれていたものでした – 'từng được gói', hồi tưởng",
+   "包まれていたことでしたでした – sai ngữ pháp",
+   "✔ 包まれていたみたいでした – 'như thể đã được gói sẵn'",
+   "包まれていたからでした – 'vì đã được gói'"
+  ],
+  "trans": "Giấy vừa khít hình hộp, như thể đã được gói đẹp sẵn từ đầu.",
+  "note": "最初から…みたいだ = như thể từ đầu đã… (ví von). Thực tế mới gói 15 giây."
+ },
+ "tryjlpt:74-1495381230451": {
+  "opts": [
+   "見せるだろうと思っていました – 'đã nghĩ chắc sẽ cho xem'",
+   "✔ 見せようと思っています – 'đang định cho xem'",
+   "見せるだろうと思うはずです – 'chắc hẳn nghĩ là sẽ'",
+   "見せようと思ったかもしれません – 'có lẽ đã định'"
+  ],
+  "trans": "Vì vậy tôi định mua quà ở cửa hàng bách hóa, nhờ gói rồi cho gia đình xem.",
+  "note": "〜ようと思っています = ý định hiện tại. だから dẫn đến kế hoạch của người viết."
+ },
+ "bunpro:1011": {
+  "opts": [
+   "だけに – 'chính vì là… nên', nhấn mạnh lý do",
+   "✔ によって – 'bởi (tác nhân)' trong câu bị động",
+   "ために – 'vì, để'",
+   "について – 'về'"
+  ],
+  "trans": "Nghe nói bộ phim này được làm bởi vị đạo diễn nổi tiếng kia.",
+  "note": "Bị động 作られた + tác nhân sáng tạo (đạo diễn, tác giả) dùng によって, không dùng に."
+ },
+ "bunpro:1012": {
+  "opts": [
+   "ことになっている – 'theo quy định là'",
+   "そうだ – 'nghe nói'",
+   "✔ ことだ – 'nên, hãy' (lời khuyên)",
+   "ことはない – 'không cần'"
+  ],
+  "trans": "Nếu muốn điểm cao thì hãy học nhiều hơn.",
+  "note": "V-る + ことだ = lời khuyên mạnh 'điều nên làm là…'. Đi với điều kiện 〜のなら."
+ }
+}

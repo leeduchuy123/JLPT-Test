@@ -1,0 +1,985 @@
+[
+{
+"id": "bunpro:980",
+"type": "paraphrase",
+"question": "彼はまた新しい本を＿出版した＿そうですよ。",
+"options": [
+"聞いた",
+"読んだ",
+"買った",
+"出した"
+],
+"answer": 3,
+"source_explanation": "1. 聞いた — this means 'listened', but 出版した means 'published'. The correct answer is 出した, which means 'released' in this context.\n2. 読んだ — This means 'read', but 出版した means 'published'. The correct answer is 出した, which means 'released' in this context.\n3. 買った — This means 'bought', but 出版した means 'published'. The correct answer is 出した, which means 'released' in this context."
+},
+{
+"id": "bunpro:981",
+"type": "paraphrase",
+"question": "先生が手伝うように＿呼びかけ＿ました。",
+"options": [
+"言い",
+"おどろき",
+"しかり",
+"泣き"
+],
+"answer": 0,
+"source_explanation": "2. おどろき — 驚く means 'to be surprised', but the teacher is telling the students to help. The correct answer is 言い, the stem form of 言う, which means 'to say/tell'.\n3. しかり — しかる means 'to scold', but the teacher is telling the students to help. The correct answer is 言い, the stem form of 言う, which means 'to say/tell'.\n4. 泣き — 泣く means 'to cry',  but the teacher is telling the students to help. The correct answer is 言い, the stem form of 言う, which means 'to say/tell'."
+},
+{
+"id": "bunpro:982",
+"type": "paraphrase",
+"question": "友だちの言葉を＿誤解しました＿。",
+"options": [
+"間違って理解しました",
+"忘れました",
+"聞けませんでした",
+"よくわかりました"
+],
+"answer": 0,
+"source_explanation": "2. 忘れました — This means 'forgot', but 誤解しました means 'misunderstood'. The correct answer is 間違って理解しました which means the same thing.\n3. 聞けませんでした — This means 'didn't listen to', but 誤解しました means 'misunderstood'. The correct answer is 間違って理解しました which means the same thing.\n4. よくわかりました — This means 'understood well', but 誤解しました means 'misunderstood'. The correct answer is 間違って理解しました which means the same thing."
+},
+{
+"id": "bunpro:983",
+"type": "paraphrase",
+"question": "人は＿酸素＿がないと生きていけません。",
+"options": [
+"空気",
+"水",
+"食べ物",
+"お金"
+],
+"answer": 0,
+"source_explanation": "2. 水 — 水 means 'water', but 酸素 means 'oxygen'. While less scientific, 空気, meaning 'air'  is the corrct answer.\n3. 食べ物 — 食べ物 means 'food', but 酸素 means 'oxygen'. While less scientific, 空気, meaning 'air'  is the correct answer.\n4. お金 — お金 means 'money', but 酸素 means 'oxygen'. While less scientific, 空気, meaning 'air'  is the correct answer."
+},
+{
+"id": "bunpro:984",
+"type": "paraphrase",
+"question": "秋になるとたくさんの野菜を＿収穫します＿。",
+"options": [
+"捨てます",
+"とります",
+"育てます",
+"売ります"
+],
+"answer": 1,
+"source_explanation": "1. 捨てます — This means 'to throw away', but 収穫 means 'to harvest'. The correct answer is とります, which means the same thing in this context.\n3. 育てます — This means 'to raise', but 収穫 means 'to harvest'. The correct answer is とります, which means the same thing in this context.\n4. 売ります — This means 'sell', but 収穫 means 'to harvest'. The correct answer is とります, which means the same thing in this context."
+},
+{
+"id": "bunpro:985",
+"type": "paraphrase",
+"question": "その道で3台の車が＿衝突した＿そうです。",
+"options": [
+"追いかけた",
+"追い越した",
+"ぶつかった",
+"並んだ"
+],
+"answer": 2,
+"source_explanation": "1. 追いかけた — 追いかけた 'chased after', but 衝突した means 'collided'. The correct answer is ぶつかった, which has the same meaning.\n2. 追い越した — 追い越した mens 'overtook',  but 衝突した means 'collided'. The correct answer is ぶつかった, which has the same meaning.\n4. 並んだ — 並んだ means 'were in a line', but 衝突した means 'collided'. The correct answer is ぶつかった, which has the same meaning."
+},
+{
+"id": "bunpro:986",
+"type": "usage",
+"question": "推薦",
+"options": [
+"電車で＿推薦＿をしたら褒められました。",
+"遅い時間なのに彼女からの＿推薦＿が早くてびっくりした。",
+"レストランで＿推薦＿をしなかったせいで怒られました。",
+"成績が良かったから先生から＿推薦＿をもらった。"
+],
+"answer": 3,
+"source_explanation": "1. 電車で＿推薦＿をしたら褒められました。 — This doesn't work in this context.\nThere is no target for the appraisal or context behind it.\n2. 遅い時間なのに彼女からの＿推薦＿が早くてびっくりした。 — This isn't the best context for this sentence.\n3. レストランで＿推薦＿をしなかったせいで怒られました。 — This doesn't work in this context.\nThere is no target for the appraisal or context behind it."
+},
+{
+"id": "bunpro:987",
+"type": "usage",
+"question": "潜る",
+"options": [
+"友だちの家に＿潜って＿映画を見ました。",
+"海に＿潜る＿と、魚をいっぱい見られますよ。",
+"悪いことをしたので先生に＿潜られ＿ました。",
+"私は朝の8時から夕方の5時まで会社で＿潜って＿います。"
+],
+"answer": 1,
+"source_explanation": "1. 友だちの家に＿潜って＿映画を見ました。 — You cannot (should not?) dive under your friends house.\n3. 悪いことをしたので先生に＿潜られ＿ました。 — This would mean 'was dove under by the teacher', which does not fit.\n4. 私は朝の8時から夕方の5時まで会社で＿潜って＿います。 — This doesn't fit when talking about work in this context."
+},
+{
+"id": "bunpro:988",
+"type": "usage",
+"question": "相違",
+"options": [
+"その先生は＿相違＿な人だから、頼れますよ。",
+"道に迷った時は、＿相違＿を見てください。",
+"今日は気温が＿相違＿なので、家の中にいた方がいいです。",
+"この二つの意見には＿相違＿があります。"
+],
+"answer": 3,
+"source_explanation": "1. その先生は＿相違＿な人だから、頼れますよ。 — 相違 is used to describe a difference or discrepancy between two things. It is used here directly to modify the noun 'person'. It cannot be used this way.\n2. 道に迷った時は、＿相違＿を見てください。 — This could be correct under some contextual circumstances, but the way it is used here is incorrect.\n3. 今日は気温が＿相違＿なので、家の中にいた方がいいです。 — 相違 is used to describe a difference or discrepancy between two things. The way it is used here doesn't describe any differences."
+},
+{
+"id": "bunpro:989",
+"type": "usage",
+"question": "奪う",
+"options": [
+"お風呂にしっかり入ったので、疲れが＿奪われ＿ました。",
+"私は毎日ジムで運動をして健康を＿奪う＿ようにしています。",
+"コンサート会場で歌手の声が＿奪って＿います。",
+"どろぼうがお店からアクセサリーを＿奪って＿逃げました。"
+],
+"answer": 3,
+"source_explanation": "1. お風呂にしっかり入ったので、疲れが＿奪われ＿ました。 — This would translate as 'the tiredness stole (something)'.\n2. 私は毎日ジムで運動をして健康を＿奪う＿ようにしています。 — One does not 'rob health' while exercising.\n3. コンサート会場で歌手の声が＿奪って＿います。 — This would translate as 'the singer's voice is stealing (something)'."
+},
+{
+"id": "bunpro:990",
+"type": "usage",
+"question": "仲直り",
+"options": [
+"このソファの＿仲直り＿はいいので、ここで寝ることができます。",
+"先生がわたしの宿題を＿仲直り＿してくれました。",
+"少し前に友だちと喧嘩をしたが、また＿仲直り＿をした。",
+"料理が変な味になったから、塩で＿仲直り＿させよう。"
+],
+"answer": 2,
+"source_explanation": "1. このソファの＿仲直り＿はいいので、ここで寝ることができます。 — Saying 'a sofa's reconciliation is good' does not make sense.\n2. 先生がわたしの宿題を＿仲直り＿してくれました。 — One cannot 'reconcile' or 'make amends' with their homework.\n4. 料理が変な味になったから、塩で＿仲直り＿させよう。 — Food cannot 'reconcile' or 'make amends' with salt."
+},
+{
+"id": "bunpro:991",
+"type": "usage",
+"question": "世の中",
+"options": [
+"最近この＿世の中＿をつけながらご飯を食べます。",
+"新しい＿世の中＿を買ったので、うれしいです。",
+"＿世の中＿には変な人がいっぱいいます。",
+"私の部屋にはたくさんの＿世の中＿がありますよ。"
+],
+"answer": 2,
+"source_explanation": "1. 最近この＿世の中＿をつけながらご飯を食べます。 — 世の中 refers to society. Society cannot be 'attached' or 'turned on'.\n2. 新しい＿世の中＿を買ったので、うれしいです。 — 世の中 refers to society. You cannot 'buy a new society'.\n4. 私の部屋にはたくさんの＿世の中＿がありますよ。 — 世の中 refers to society. There are no 'societies' in one's room."
+},
+{
+"id": "bunpro:992",
+"type": "usage",
+"question": "待ち合わせる",
+"options": [
+"友だちと駅で＿待ち合わせて＿デパートへ行った。",
+"私は毎朝あのコーヒーのお店でコーヒーを＿待ち合わせます＿。",
+"新しい仕事が＿待ち合わせる＿から、今からウキウキしています。",
+"今日は疲れているから、早めにシャワーに＿待ち合わせて＿寝ます。"
+],
+"answer": 0,
+"source_explanation": "2. 私は毎朝あのコーヒーのお店でコーヒーを＿待ち合わせます＿。 — 待ち合わせ means 'to meet up with'. One does not 'meet up with coffee'.\n3. 新しい仕事が＿待ち合わせる＿から、今からウキウキしています。 — 待ち合わせ means 'to meet up with'. One does not 'meet up with a new job'.\n4. 今日は疲れているから、早めにシャワーに＿待ち合わせて＿寝ます。 — 待ち合わせ means 'to meet up with'. One does not 'meet up with a shower'."
+},
+{
+"id": "bunpro:993",
+"type": "usage",
+"question": "増加",
+"options": [
+"新しい映画を見て＿増加＿したので、なかなか寝られません。",
+"においを＿増加＿させるために、家の掃除をしました。",
+"公園でたくさん走ったから、足が＿増加＿しました。",
+"最近、この町の人口が＿増加＿していると聞きました。"
+],
+"answer": 3,
+"source_explanation": "1. 新しい映画を見て＿増加＿したので、なかなか寝られません。 — 増加 means 'increase' or 'growth', but it does not describe the effect of watching a movie.\n2. においを＿増加＿させるために、家の掃除をしました。 — 増加 means 'increase' or 'growth'. You cannot 'increase' the smell of a house by cleaning.\n3. 公園でたくさん走ったから、足が＿増加＿しました。 — 増加 means 'increase' or 'growth'. One's feet do not increase."
+},
+{
+"id": "bunpro:994",
+"type": "usage",
+"question": "着せる",
+"options": [
+"今日は寒いから、子どもにコートを＿着せます＿。",
+"雨の日には傘を＿着せて＿濡れないようにします。",
+"日記にその日にあったことを毎日＿着せて＿います。",
+"ペットボトルの中に水を＿着せて＿仕事へ持っていく。"
+],
+"answer": 0,
+"source_explanation": "2. 雨の日には傘を＿着せて＿濡れないようにします。 — 着せる means 'to clothe'. One does not put clothes on an umbrella.\n3. 日記にその日にあったことを毎日＿着せて＿います。 — 着せる means 'to clothe'. One does not 'clothe their diary in the events of the day'.\n4. ペットボトルの中に水を＿着せて＿仕事へ持っていく。 — 着せる means 'to clothe'. One does not put clothes on a plastic bottle."
+},
+{
+"id": "bunpro:995",
+"type": "usage",
+"question": "直ちに",
+"options": [
+"火事が起きたら＿直ちに＿避難しなくてはならない。",
+"友人と先週、＿直ちに＿約束をして会うことになりました。",
+"毎日ではないですが、＿直ちに＿自分の部屋の掃除をします。",
+"お父さんは毎朝、＿直ちに＿コーヒーを飲んでから出かけます。"
+],
+"answer": 0,
+"source_explanation": "2. 友人と先週、＿直ちに＿約束をして会うことになりました。 — 直ちに means 'at once', but doesn't fit when describing an appointment made last week.\n3. 毎日ではないですが、＿直ちに＿自分の部屋の掃除をします。 — 直ちに means 'at once' and doesn't fit here. たまに (occasionally) would be a better fit.\n4. お父さんは毎朝、＿直ちに＿コーヒーを飲んでから出かけます。 — 直ちに means 'at once', but isn't used for describing everyday activities and routines and sounds a bit stiff here."
+},
+{
+"id": "bunpro:996",
+"type": "usage",
+"question": "睡眠",
+"options": [
+"＿睡眠＿をしっかり取ると、体の疲れが取れます。",
+"先生がこの問題を解けない人は＿睡眠＿だと言いました。",
+"彼は家でよくネコと＿睡眠＿で遊んでいるそうだ。",
+"暑い時は＿睡眠＿を飲んで体を冷やしましょう。"
+],
+"answer": 0,
+"source_explanation": "2. 先生がこの問題を解けない人は＿睡眠＿だと言いました。 — 睡眠 means 'sleep', and is not used to describe people who cannot answer a problem.\n3. 彼は家でよくネコと＿睡眠＿で遊んでいるそうだ。 — 睡眠 means 'sleep', and is not something done with a cat for enjoyment.\n4. 暑い時は＿睡眠＿を飲んで体を冷やしましょう。 — 睡眠 means 'sleep', and is not something that can be drunk."
+},
+{
+"id": "bunpro:997",
+"type": "usage",
+"question": "怠ける",
+"options": [
+"体調が＿怠けて＿いるから、早めに帰ります。",
+"＿怠けて＿いたせいでテストで悪い点を取りました。",
+"料理を＿怠ける＿準備をするためにスーパーへ行きます。",
+"部屋を綺麗に＿怠けた＿ら、お母さんが喜んでくれました。"
+],
+"answer": 1,
+"source_explanation": "1. 体調が＿怠けて＿いるから、早めに帰ります。 — 怠ける means 'to be lazy/negligent', and is not used to describe one's physical condition.\n3. 料理を＿怠ける＿準備をするためにスーパーへ行きます。 — 怠ける means 'to be lazy/negligent', and is not something you do when preparing food.\n4. 部屋を綺麗に＿怠けた＿ら、お母さんが喜んでくれました。 — 怠ける means 'to be lazy/negligent', and is not something you do to your room to make it clean."
+},
+{
+"id": "bunpro:998",
+"type": "usage",
+"question": "尊敬",
+"options": [
+"友だちが＿尊敬＿を買ってくれたので、おしゃれがができます。",
+"この料理はとても＿尊敬＿で、小さい子でも食べられます。",
+"＿尊敬＿で買った洋服をデートで着たら、ほめられました。",
+"私は先生のことをとても＿尊敬＿しています。"
+],
+"answer": 3,
+"source_explanation": "1. 友だちが＿尊敬＿を買ってくれたので、おしゃれがができます。 — 尊敬 means 'respect', and is not something a friend buys for you.\n2. この料理はとても＿尊敬＿で、小さい子でも食べられます。 — 尊敬 means 'respect', and is not a descriptor of food.\n3. ＿尊敬＿で買った洋服をデートで着たら、ほめられました。 — 尊敬 means 'respect', and is not something that is used to purchase clothes."
+},
+{
+"id": "bunpro:999",
+"type": "usage",
+"question": "彫る",
+"options": [
+"明日はテストだから、もう一度ノートを＿彫ろう＿と思います。",
+"料理をする時は、肉を小さく＿彫って＿おくと便利です。",
+"時計を＿彫った＿らもう8時だったので、いそいで家を出ました。",
+"木の板に自分の名前を＿彫って＿部屋に飾りました。"
+],
+"answer": 3,
+"source_explanation": "1. 明日はテストだから、もう一度ノートを＿彫ろう＿と思います。 — 彫る means 'to carve' or 'to engrave', and is not something one does with notes before a test.\n2. 料理をする時は、肉を小さく＿彫って＿おくと便利です。 — 彫る means 'to carve' or 'to engrave', and does not work in this context.\n3. 時計を＿彫った＿らもう8時だったので、いそいで家を出ました。 — 彫る means 'to carve' or 'to engrave', and is not something one does when checking the time."
+},
+{
+"id": "dethitiengnhat:N3-1-1-q1",
+"type": "kanji_reading",
+"question": "ニュースでは、＿地球＿の温暖化について詳しく説明していた。",
+"options": [
+"じきゅ",
+"じきゅう",
+"ちきゅ",
+"ちきゅう"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-1-1-q10",
+"type": "orthography",
+"question": "電車が＿おくれて＿到着した。",
+"options": [
+"送れて",
+"後れて",
+"遅れて",
+"押くれて"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-1-1-q11",
+"type": "orthography",
+"question": "工事の＿えいきょう＿で道が混んでいる。",
+"options": [
+"永久",
+"影響",
+"映供",
+"英協"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-1-1-q12",
+"type": "orthography",
+"question": "先生に＿そうだん＿した。",
+"options": [
+"相談",
+"想談",
+"双段",
+"相断"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-1-1-q13",
+"type": "orthography",
+"question": "会社はサービスの＿しつ＿を上げようとしている。",
+"options": [
+"室",
+"失",
+"実",
+"質"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-1-1-q14",
+"type": "orthography",
+"question": "困っている人を見たら、できるだけ助けてあげたい。",
+"options": [
+"たおれて",
+"こわれて",
+"よごれて",
+"たすけて"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-1-1-q15",
+"type": "context",
+"question": "会議の（　　）が変わったので、メールでお知らせします。",
+"options": [
+"ルール",
+"スケジュール",
+"マナー",
+"プラン"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-1-1-q16",
+"type": "context",
+"question": "彼は冗談を言っているだけで、（　　）はではないと思うよ。",
+"options": [
+"本気",
+"本物",
+"事実",
+"正直"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-1-1-q17",
+"type": "context",
+"question": "洗濯物が多すぎて、ベランダに干す（　　）がない。",
+"options": [
+"隙間",
+"空き",
+"広さ",
+"スペース"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-1-1-q18",
+"type": "context",
+"question": "テストの結果が悪かったので、母に（　　）がっかりされた。",
+"options": [
+"うっかり",
+"すっかり",
+"ぴったり",
+"しっかり"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-1-1-q19",
+"type": "context",
+"question": "最近、運動不足のせいか、階段を上るとすぐに（　　）が切れてしまう。",
+"options": [
+"息",
+"胸",
+"気",
+"身"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-1-1-q2",
+"type": "kanji_reading",
+"question": "説明書のこの＿部分＿を読めば、基本的な操作が理解できる。",
+"options": [
+"ぶうぶん",
+"ぶうふん",
+"ぶぶん",
+"ぶふん"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-1-1-q20",
+"type": "context",
+"question": "この書類は重要なので、なくさないように机の中に（　　）おいてください。",
+"options": [
+"隠れて",
+"しまって",
+"閉じて",
+"貯めて"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-1-1-q21",
+"type": "context",
+"question": "佐藤さんはお金に（　　）人で、１円単位まで割り勘にする。",
+"options": [
+"険しい",
+"激しい",
+"詳しい",
+"細かい"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-1-1-q22",
+"type": "context",
+"question": "資源を大切にするために、ゴミの（　　）に協力してください。",
+"options": [
+"分類",
+"分別",
+"区別",
+"分解"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-1-1-q23",
+"type": "context",
+"question": "一生懸命働いて、留学するための費用を（　　）。",
+"options": [
+"稼いだ",
+"儲けた",
+"奪った",
+"支払った"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-1-1-q24",
+"type": "context",
+"question": "まだ時間があると思っていたら、（　　）出発の時間になってしまった。",
+"options": [
+"そろそろ",
+"いよいよ",
+"とうとう",
+"ますます"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-1-1-q25",
+"type": "context",
+"question": "彼女は合格したと聞いて、飛び上がって（　　）いた。",
+"options": [
+"喜んで",
+"楽しんで",
+"好んで",
+"遊んで"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-1-1-q26",
+"type": "paraphrase",
+"question": "あの兄弟は、性格が＿そっくり＿だ。",
+"options": [
+"反対だ",
+"よく似ている",
+"全然違う",
+"明るい"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-1-1-q27",
+"type": "paraphrase",
+"question": "留学するかどうか、まだ＿ためらって＿います。",
+"options": [
+"迷って",
+"決めて",
+"急いで",
+"困って"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-1-1-q28",
+"type": "paraphrase",
+"question": "この本は、初心者には＿レベル＿が高すぎる。",
+"options": [
+"値段",
+"評判",
+"程度",
+"価値"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-1-1-q29",
+"type": "paraphrase",
+"question": "山田さんはとても＿温厚な＿人だ。",
+"options": [
+"頭がいい",
+"厳しい",
+"冷たい",
+"優しい"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-1-1-q3",
+"type": "kanji_reading",
+"question": "料理教室で＿包丁＿の正しい使い方を学んだ。",
+"options": [
+"ほうちょ",
+"ぼうちょ",
+"ぼうちょう",
+"ほうちょう"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-1-1-q30",
+"type": "paraphrase",
+"question": "旅行の準備が＿完了＿した。",
+"options": [
+"終わった2",
+") 始まった",
+"失敗した",
+"遅れた"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-1-1-q31",
+"type": "usage",
+"question": "＿延期＿",
+"options": [
+"パスポートの期限を＿延期＿しに行った。",
+"雨が激しくなったので、試合は来週に＿延期＿された。",
+"会議の時間が足りないので、30分ほど＿延期＿しましょう。",
+"ホテルの滞在をあと2日＿延期＿したいのですが。"
+],
+"answer": 1,
+"source_explanation": "1) パスポートの期限を更新する\n\n3) 30分ほど 延長しましょう。\n4) 2日延長したい"
+},
+{
+"id": "dethitiengnhat:N3-1-1-q32",
+"type": "usage",
+"question": "＿おごる＿",
+"options": [
+"部長に晩ご飯を＿おごって＿ もらった。",
+"誕生日に父から時計を＿おごって＿ もらった。",
+"友達にお金を＿おごって＿ あげた。",
+"コンビニでノートを＿おごった＿ 。"
+],
+"answer": 0,
+"source_explanation": "2) 誕生日に父から時計を＿買って＿ もらった。\n\n3) 友達にお金を＿貸して＿ あげた。\n\n4) コンビニでノートを＿買った＿ 。"
+},
+{
+"id": "dethitiengnhat:N3-1-1-q33",
+"type": "usage",
+"question": "＿温厚＿",
+"options": [
+"彼は＿温厚＿な性格で、誰からも好かれている。",
+"今日の天気は＿温厚＿で過ごしやすい。",
+"この部屋の温度は＿温厚＿に設定してください。",
+"先生は＿温厚＿な声で説明してくれた。"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-1-1-q34",
+"type": "usage",
+"question": "＿スペース＿",
+"options": [
+"この書類の＿スペース＿ に名前を書いてください。",
+"忙しくて、休む＿スペース＿ が全くない。",
+"荷物が多すぎて、車に乗せる＿スペース＿ がない。",
+"宇宙の＿スペース＿ に行くのが夢だ。"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-1-1-q35",
+"type": "usage",
+"question": "＿解消＿",
+"options": [
+"薬を飲んだら、熱が＿解消＿ した。",
+"契約を＿解消＿ するために、サインをした。",
+"壊れたパソコンを＿解消＿ した。",
+"誤解が＿解消＿ して、二人は仲直りした。"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-1-1-q4",
+"type": "kanji_reading",
+"question": "明日の授業で、調べた内容を＿発表＿する予定だ。",
+"options": [
+"はっひょう",
+"はっぴょう",
+"はっひょ",
+"はっぴょ"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-1-1-q5",
+"type": "kanji_reading",
+"question": "説明を聞いてもまだ＿疑問＿が残っている。",
+"options": [
+"くもん",
+"ぐもん",
+"ぎもん",
+"きもん"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-1-1-q6",
+"type": "kanji_reading",
+"question": "彼はボールを強く＿打って＿、校庭の外まで飛ばした。",
+"options": [
+"きって",
+"おって",
+"わって",
+"うって"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-1-1-q7",
+"type": "kanji_reading",
+"question": "地図アプリで駅の＿方向＿を確認した。",
+"options": [
+"ほうほう",
+"ほうぼう",
+"ほうこう",
+"ほうごう"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-1-1-q8",
+"type": "kanji_reading",
+"question": "海に沈む＿夕日＿を見て、感動した。",
+"options": [
+"ゆび",
+"ゆうひ",
+"ゆうび",
+"ゆひ"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-1-1-q9",
+"type": "orthography",
+"question": "この建物は＿あんぜん＿だと判断された。",
+"options": [
+"安全",
+"案全",
+"安然",
+"案然"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-10-1-q1",
+"type": "kanji_reading",
+"question": "会議の前に、資料を参加者に＿配った＿。",
+"options": [
+"くばった",
+"うばった",
+"しばった",
+"くだった"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-10-1-q10",
+"type": "orthography",
+"question": "この地域では、＿しんりん＿を守る活動が行われている。",
+"options": [
+"新林",
+"森村",
+"山村",
+"森林"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-10-1-q11",
+"type": "orthography",
+"question": "海で泳いだあと、ホテルに戻ってシャワーを＿あびました＿。",
+"options": [
+"浴びました",
+"帯びました",
+"浴みました",
+"沿びました"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-10-1-q12",
+"type": "orthography",
+"question": "道を渡る前に、必ず＿さゆう＿を確認してください。",
+"options": [
+"左有",
+"右有",
+"左右",
+"佐右"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-10-1-q13",
+"type": "orthography",
+"question": "試合に＿まけて＿しまったが、最後までよく頑張った。",
+"options": [
+"負けて",
+"欠けて",
+"退けて",
+"勝けて"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-10-1-q14",
+"type": "orthography",
+"question": "＿かこ＿の失敗から学ぶことは多い。",
+"options": [
+"過古",
+"過去",
+"加去",
+"適古"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-10-1-q15",
+"type": "context",
+"question": "台風の（　　）で、電車が遅れているそうだ。",
+"options": [
+"印象",
+"影響",
+"連絡",
+"理由"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-10-1-q16",
+"type": "context",
+"question": "夜道で知らない人に声をかけられて、ちょっと（　　）と思った。",
+"options": [
+"まぶしい",
+"くやしい",
+"あやしい",
+"厳しい"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-10-1-q17",
+"type": "context",
+"question": "痛かったけど、しばらく（　　）して薬を飲まなかった。",
+"options": [
+"不満",
+"自慢",
+"我慢",
+"注文"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-10-1-q18",
+"type": "context",
+"question": "彼は意見を言わず、いつも（　　）な態度だ。",
+"options": [
+"感情的",
+"積極的",
+"具体的",
+"消極的"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-10-1-q19",
+"type": "context",
+"question": "この電車は新宿を（　　）して、池袋へ行きます。",
+"options": [
+"経由",
+"進行",
+"到着",
+"乗車"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-10-1-q2",
+"type": "kanji_reading",
+"question": "今月の売上の＿増減＿をグラフで確認した。",
+"options": [
+"そうげん",
+"そうけん",
+"ぞうげん",
+"ぞうけん"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-10-1-q20",
+"type": "context",
+"question": "あの二人は夫婦の（　　）が良く、周りからうらやましがられている。",
+"options": [
+"型",
+"仲",
+"方",
+"間"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-10-1-q21",
+"type": "context",
+"question": "失くしたと思っていた財布を, 交番で（　　）と、安心した。",
+"options": [
+"取り出した",
+"取り替えた",
+"取り消した",
+"取り戻した"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-10-1-q22",
+"type": "context",
+"question": "荷物が多いので、（　　）に運べなくて困った。",
+"options": [
+"たまに",
+"すぐに",
+"一度に",
+"平等に"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-10-1-q23",
+"type": "context",
+"question": "このサイトはスマホからも簡単に（　　）できます。",
+"options": [
+"アナウンス",
+"アクセス",
+"ストップ",
+"アレンジ"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-10-1-q24",
+"type": "context",
+"question": "何度やってもできなかったので、もう（　　）。",
+"options": [
+"あわてた",
+"あせった",
+"うばった",
+"あきらめた"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-10-1-q25",
+"type": "context",
+"question": "待ち合わせの時間まで、駅の前を（　　）していた。",
+"options": [
+"うろうろ",
+"ぐっすり",
+"ぴったり",
+"すっきり"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-10-1-q26",
+"type": "paraphrase",
+"question": "新しいシステムを導入するかどうか、会社でよく＿検討して＿います。",
+"options": [
+"よく数えて",
+"調べて考えて",
+"説明して",
+"心配して"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-10-1-q27",
+"type": "paraphrase",
+"question": "その＿企業＿は、来年から新しいサービスを始めるそうだ。",
+"options": [
+"会社",
+"工場",
+"店舗",
+"大学"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-10-1-q28",
+"type": "paraphrase",
+"question": "セールが終わったあとも、冬物のコートがまだ＿売りのこって＿いた。",
+"options": [
+"たくさん売れて",
+"少し高くなって",
+"売れないままで",
+"全部売れて"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-10-1-q29",
+"type": "paraphrase",
+"question": "彼は大学を出たあと、＿一流＿ホテルで働き始めた。",
+"options": [
+"人気がある",
+"新しくできた",
+"値段が安い",
+"有名で質の高い"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-10-1-q3",
+"type": "kanji_reading",
+"question": "式には＿父母＿も出席しました。",
+"options": [
+"ちちはは",
+"ふぼ",
+"ふふ",
+"ちちぼ"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-10-1-q30",
+"type": "paraphrase",
+"question": "何度も練習して、＿ようやく＿この歌が上手に歌えるようになった。",
+"options": [
+"いつでも",
+"すぐに",
+"やっと",
+"たぶん"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-10-1-q31",
+"type": "usage",
+"question": "＿完成＿",
+"options": [
+"新しい橋は来月＿完成＿する予定だ。",
+"ホテルの予約が＿完成＿したので、安心だ。",
+"会議が＿完成＿してから、食事に行きましょう。",
+"工事の予定が＿完成＿したので、来月から始まるそうだ。"
+],
+"answer": 0,
+"source_explanation": "2) ホテルの予約が＿完了＿したので、安心だ。\n3) 会議が＿終わってから＿、食事に行きましょう。\n4) 工事の予定が＿治った＿ので、来月から始まるそうだ。"
+}
+]

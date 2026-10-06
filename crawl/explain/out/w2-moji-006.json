@@ -1,0 +1,802 @@
+{
+ "challenge:N3V0159": {
+  "opts": [
+   "今朝は7時にこられました – 'sáng nay anh ấy đến lúc 7 giờ', không trả lời có mặt hay không",
+   "✔ すみません。今、席を外しています – 'xin lỗi, hiện anh ấy đang không có ở chỗ', cách nói chuẩn",
+   "えっ、今はいらっしゃいません – dùng kính ngữ いらっしゃる cho người cùng công ty với người ngoài là sai",
+   "はい、どこにいらっしゃいますか – 'vâng, anh ở đâu?', vô nghĩa"
+  ],
+  "trans": "A: Trưởng phòng Tanaka có ở đó không ạ? B: Xin lỗi, hiện anh ấy đang rời khỏi chỗ.",
+  "note": "席を外す (せきをはずす) = tạm rời chỗ làm việc. Nói về người trong công ty mình với khách thì không dùng kính ngữ (いらっしゃる)."
+ },
+ "challenge:N3V0160": {
+  "opts": [
+   "✔ おめでとう。よく頑張ったね – 'chúc mừng, em đã cố gắng lắm', thầy nói với trò",
+   "本当によくできましたね – 'làm tốt lắm', dùng cho bài làm, không cho việc xin được việc",
+   "頑張って仕事を探さないとね – 'phải cố tìm việc nhé', nhưng đã tìm được rồi",
+   "えっ、そうなんですか – 'ơ, vậy à?', quá dửng dưng"
+  ],
+  "trans": "A: Thưa thầy, cuối cùng em đã có việc làm rồi. B: Chúc mừng em. Em đã cố gắng lắm.",
+  "note": "就職が決まる = được nhận vào làm. Tin vui → おめでとう + lời khen よく頑張ったね (thầy nói với học trò nên thể ngắn)."
+ },
+ "challenge:N3V0161": {
+  "opts": [
+   "そうですか。何時ごろ戻りますか – 'vậy à, mấy giờ về?', là câu của A sau khi nghe trả lời",
+   "✔ いいえ、打ち合わせのあとで出かけましょう – 'không, sau cuộc họp hãy đi', trả lời câu hỏi",
+   "どこへ行くんですか – 'đi đâu thế?', hỏi ngược",
+   "はい、そうです。すぐです – 'vâng, ngay đây', cộc lốc, không tự nhiên"
+  ],
+  "trans": "A: Mình đi ngay bây giờ à? B: Không, họp bàn xong rồi hãy đi.",
+  "note": "打ち合わせ (うちあわせ) = cuộc họp bàn, trao đổi công việc. ～ましょう = rủ cùng làm, cho thấy A và B cùng đi."
+ },
+ "challenge:N3V0162": {
+  "opts": [
+   "✔ さあ、わかりません – 'ờ… tôi không rõ', trả lời khi không biết",
+   "あのう、バスは安いですよね – 'xe buýt rẻ nhỉ', hỏi ngược lại",
+   "ええ、そうですね – 'vâng, đúng vậy', câu hỏi どちら không trả lời bằng có/không",
+   "えっ、そんなに安いんですか – 'rẻ thế cơ à?', A chưa nói giá"
+  ],
+  "trans": "A: Ra sân bay thì xe buýt với tàu điện cái nào rẻ hơn? B: Ờ… tôi không rõ.",
+  "note": "さあ ở đầu câu là tiếng ậm ừ khi không biết hoặc đang nghĩ. Câu hỏi どちら không thể đáp ええ/はい."
+ },
+ "challenge:N3V0163": {
+  "opts": [
+   "そうなんですね。九州の別府にありますよ – 'ở Beppu có đấy', そうなんですね không hợp với câu hỏi",
+   "✔ そうですね。九州の別府はどうですか – 'để xem… Beppu ở Kyushu thì sao?', đề xuất",
+   "そうでしたか。九州の別府に行ったことがありますよ – 'tôi từng đi Beppu', không gợi ý",
+   "そうですか。九州の別府に行くんですか – 'anh đi Beppu à?', A chưa quyết"
+  ],
+  "trans": "A: Tôi muốn đi suối nước nóng, có chỗ nào hay không? B: Để xem… Beppu ở Kyushu thì sao?",
+  "note": "Khi được hỏi gợi ý: そうですね (để tôi nghĩ) + Nはどうですか (… thì sao?). Đây là mẫu đề xuất lịch sự."
+ },
+ "challenge:N3V0164": {
+  "opts": [
+   "うん、本当だよ – 'ừ, thật đấy', không trả lời đã đăng ký chưa",
+   "ええ、そうかもしれないね – 'có lẽ vậy', hạn chót thì không 'có lẽ'",
+   "✔ えっ、大変 – 'ơ, chết rồi!', hoảng vì chưa đăng ký mà mai hết hạn",
+   "ううん、あまり申し込んでないみたい – 'hình như không đăng ký lắm', あまり không đi với hành động có/không"
+  ],
+  "trans": "A: Chuyến du lịch tới cậu đăng ký chưa? Mai hết hạn đấy. B: Ơ, chết rồi!",
+  "note": "大変 (たいへん) đứng một mình = 'chết rồi, nguy rồi'. 締め切り (しめきり) = hạn chót."
+ },
+ "challenge:N3V0165": {
+  "opts": [
+   "先生に言えば、やめられますよ – 'nói với thầy là nghỉ được', dửng dưng",
+   "そうですね。心配ですね。 – 'ừ nhỉ, lo nhỉ', như đã biết trước",
+   "✔ えっ、どうしたんですか – 'ơ, có chuyện gì vậy?', ngạc nhiên và hỏi lý do",
+   "さあ、まだ決めていないんです – 'chưa quyết', là lời của A"
+  ],
+  "trans": "A: Thực ra, có thể em sẽ nghỉ học. B: Ơ, có chuyện gì vậy?",
+  "note": "実は (じつは) mở đầu chuyện quan trọng/khó nói. Người nghe phản ứng bằng どうしたんですか để hỏi lý do."
+ },
+ "challenge:N3V0166": {
+  "opts": [
+   "✔ では、明後日はいかがですか – 'vậy ngày kia thì sao ạ?', đề xuất lịch sự",
+   "それなら、明後日がいいですよ – 'thế thì ngày kia tốt đấy', như khuyên, không phải hỏi ý",
+   "それから、明後日にしようと思います – それから (sau đó) sai liên từ",
+   "それで、明後日はどうですか – それで (vì thế) không dùng để chuyển sang đề xuất"
+  ],
+  "trans": "A: Xin lỗi, có vẻ mai tôi không dự họp được… B: Vậy thì ngày kia thì sao ạ?",
+  "note": "では = 'vậy thì', chuyển sang phương án khác; いかがですか là dạng lịch sự của どうですか. Vそうにない = có vẻ không thể."
+ },
+ "challenge:N3V0167": {
+  "opts": [
+   "はい、もうすぐ終わります – 'vâng, sắp xong', không trả lời về thời gian còn lại",
+   "はい、そろそろ失礼します – 'vâng, tôi xin phép về', lạc đề",
+   "✔ いいえ、あと10分しかありません – 'không, chỉ còn 10 phút', trả lời đúng",
+   "いいえ、足りなくなってしまいました – 'không, đã thiếu mất rồi', không tự nhiên"
+  ],
+  "trans": "A: Vẫn còn thời gian chứ? B: Không, chỉ còn 10 phút thôi.",
+  "note": "あと + số lượng = còn…; しか～ない = chỉ (nhấn ít). いいえ vì B muốn nói 'không còn nhiều'."
+ },
+ "challenge:N3V0168": {
+  "opts": [
+   "✔ それはいけませんね – 'thế thì không ổn rồi', câu chia sẻ khi nghe người khác ốm",
+   "ああ、よかったですね – 'tốt quá', ngược",
+   "それで、どうしたらいいですか – 'vậy tôi nên làm gì?', lẫn vai",
+   "それなら、困りますね – 'thế thì phiền nhỉ', như trách người ốm"
+  ],
+  "trans": "A: Dạo này sức khỏe tôi cứ kém mãi… B: Thế thì không ổn rồi.",
+  "note": "それはいけませんね là câu thông cảm cố định khi nghe ai ốm/gặp chuyện xấu, gần như 'tội quá, lo đấy'."
+ },
+ "challenge:N3V0170": {
+  "opts": [
+   "そんなにできるんですか – 'làm được nhiều thế à?', không tự nhiên với 泳ぐ",
+   "✔ それはすごいですね – 'giỏi quá', khen thành tích",
+   "そうしたほうがいいですよ – 'nên làm thế', không phải lời khuyên",
+   "それはどうしてですか – 'tại sao vậy?', không hợp"
+  ],
+  "trans": "A: Dạo này tôi bơi được 500 mét rồi. B: Giỏi quá.",
+  "note": "～ようになる = trở nên làm được (tiến bộ). Nghe ai khoe tiến bộ → khen すごいですね."
+ },
+ "challenge:N3V0171": {
+  "opts": [
+   "いいえ、それだけではありませんよ – 'không, không chỉ thế đâu', lạc đề",
+   "ええ、早く上手になりたいです – 'vâng, tôi muốn giỏi nhanh', không đáp lời khen",
+   "✔ いいえ、まだまだです – 'không, còn kém lắm', khiêm tốn kiểu Nhật",
+   "はい、上手なんです – 'vâng, tôi giỏi mà', tự khen, thiếu khiêm tốn"
+  ],
+  "trans": "A: Tiếng Nhật của anh giỏi quá. B: Không, tôi còn kém lắm.",
+  "note": "Được khen thì người Nhật thường từ chối khiêm tốn: いいえ、まだまだです / そんなことありません."
+ },
+ "challenge:N3V0172": {
+  "opts": [
+   "このほうがいいですね – 'cái này tốt hơn', この không trỏ được việc A nói",
+   "✔ そのほうが体にいいですね – 'thế tốt cho sức khỏe hơn nhỉ', đồng tình",
+   "どうしてそうなんですか – 'sao lại thế?', lý do đã rõ",
+   "それなら困りますね – 'thế thì phiền', ngược"
+  ],
+  "trans": "A: Dạo này tôi cố ăn nhiều cá, rau hơn là thịt. B: Thế tốt cho sức khỏe hơn nhỉ.",
+  "note": "そのほうが～ = cách đó thì… (trỏ việc đối phương vừa nói). 体にいい = tốt cho sức khỏe. ～ようにしている = cố gắng duy trì thói quen."
+ },
+ "challenge:N3V0173": {
+  "opts": [
+   "ええ、どうして遅れるんですか – 'sao lại muộn?', lẫn vai",
+   "ええ、できるだけ遅れないようにしています – 'tôi vẫn cố không muộn', như cãi lại",
+   "✔ はい、わかりました。すみませんでした。 – 'vâng, tôi hiểu rồi, xin lỗi', nhận lỗi",
+   "はい、本当にそうですね – 'đúng thế thật', như người ngoài cuộc"
+  ],
+  "trans": "A: Từ giờ tuyệt đối đừng đi học muộn nữa nhé. B: Vâng, em hiểu rồi. Em xin lỗi ạ.",
+  "note": "Bị nhắc nhở → わかりました + すみませんでした (xin lỗi việc đã xảy ra, thì quá khứ)."
+ },
+ "challenge:N3V0174": {
+  "opts": [
+   "もし無理だったら相談してくださいね – 'nếu không được thì hỏi tôi', hơi lạ",
+   "✔ そうですか。無理をしないようにしてくださいね – 'vậy à, đừng quá sức nhé', quan tâm",
+   "それは無理かもしれませんね – 'chắc không được đâu', mất lịch sự",
+   "えっ、それは無理じゃないでしょうか – 'không được đâu nhỉ?', mất lịch sự"
+  ],
+  "trans": "A: Thực ra dạo này tôi bắt đầu ăn kiêng. B: Vậy à. Đừng cố quá sức nhé.",
+  "note": "無理をする = làm quá sức; 無理をしないでください là câu quan tâm chuẩn. Phân biệt với 無理だ = 'không thể'."
+ },
+ "challenge:N3V0175": {
+  "opts": [
+   "それは何でしょうか – 'đó là gì?', không rõ hỏi gì",
+   "何とかしなければなりませんね – 'phải làm gì đó thôi', chưa biết chuyện gì",
+   "社長は何でもできますよ – 'giám đốc làm gì cũng được', lạc đề",
+   "✔ 何かあったんですか – 'có chuyện gì à?', hỏi khi nghe việc bất thường"
+  ],
+  "trans": "A: Sáng nay vừa đến công ty thì bị giám đốc gọi đột xuất. B: Có chuyện gì à?",
+  "note": "何かあったんですか = có chuyện gì xảy ra à? Dùng khi nghe/thấy điều bất thường. 呼ばれた = bị gọi (bị động)."
+ },
+ "challenge:N3V0176": {
+  "opts": [
+   "昨日、2時間しか寝ませんですから – ません+です sai ngữ pháp",
+   "✔ 最近、寝られないんです – 'dạo này tôi không ngủ được', giải thích bằng んです",
+   "最近、あまり寝ていますから – あまり phải đi với phủ định",
+   "昨日、あまり寝ないんです – chuyện hôm qua phải chia quá khứ"
+  ],
+  "trans": "A: Anh sao vậy? Mắt đỏ ngầu kìa. B: Dạo này tôi không ngủ được.",
+  "note": "Trả lời どうしたんですか bằng ～んです (giải thích). 寝られない = không ngủ được (khả năng)."
+ },
+ "challenge:N3V0177": {
+  "opts": [
+   "海外旅行は大変ですよね – 'du lịch nước ngoài vất vả nhỉ', nói chung chung, không chia sẻ",
+   "大変なことを聞いてしまいましたね – vô nghĩa",
+   "✔ それは大変でしたね – 'thật là khổ nhỉ', thông cảm việc đã qua",
+   "楽しかったけど、大変でしたね – 'vui nhưng vất vả', B không đi cùng"
+  ],
+  "trans": "A: Tháng trước đi du lịch nước ngoài tôi làm mất hộ chiếu. B: Thật là khổ nhỉ.",
+  "note": "それは大変でしたね: thông cảm chuyện khổ đã xảy ra (quá khứ でした). Chuyện hiện tại thì それは大変ですね."
+ },
+ "challenge:N3V0178": {
+  "opts": [
+   "✔ ずいぶん古いんですね – 'cũ ghê nhỉ', ngạc nhiên tự nhiên trong hội thoại",
+   "このごろめっきり古くなりましたね – 'gần đây cũ hẳn đi', không hợp với 300 năm",
+   "相当古いんですね – 'khá cũ nhỉ', đúng nghĩa nhưng văn viết hơn",
+   "そんなに古くなったんですか – 'cũ đến thế rồi à?', nhấn vào quá trình, không hợp"
+  ],
+  "trans": "A: Nhà tôi được xây 300 năm trước. B: Cũ ghê nhỉ.",
+  "note": "ずいぶん + tính từ + んですね = ngạc nhiên về mức độ. (?) Đáp án nguồn có thể gây tranh cãi: 相当古いんですね cũng chấp nhận được, chỉ trang trọng hơn."
+ },
+ "challenge:N3V0179": {
+  "opts": [
+   "どうしましょうか – 'làm sao đây?', là câu của người gặp chuyện",
+   "どうすればいいですか – 'nên làm gì?', cũng là câu của người gặp chuyện",
+   "どうなったんですか – 'thành ra sao rồi?', hỏi kết quả",
+   "✔ どうしたんですか – 'sao vậy?', hỏi khi thấy người kia kêu lên"
+  ],
+  "trans": "A: Ôi, chết rồi. B: Sao vậy?",
+  "note": "あ、いけない = thốt lên khi nhớ ra/làm hỏng gì đó. Người bên cạnh hỏi どうしたんですか."
+ },
+ "challenge:N3V0180": {
+  "opts": [
+   "✔ よかったら、車で送りましょうか – 'nếu được, tôi chở về nhé?', đề nghị giúp",
+   "すみませんが、送っていただけませんか – 'cho tôi đi nhờ được không?', lẫn vai",
+   "忘れたら大変ですね – 'quên thì khổ nhỉ', vô cảm",
+   "雨が降っているのに、どうするんですか – 'trời mưa mà, làm sao đây?', không giúp"
+  ],
+  "trans": "A: Tớ quên mang ô rồi. B: Nếu được, để tôi chở về bằng xe nhé?",
+  "note": "Vましょうか = để tôi… nhé? (đề nghị giúp). よかったら = nếu được, làm câu đề nghị nhẹ nhàng hơn."
+ },
+ "challenge:N3V0181": {
+  "opts": [
+   "3年前なんです – 'là 3 năm trước', なんです dùng khi giải thích, không hợp câu hỏi いつ đơn giản",
+   "3年間です – '3 năm', là độ dài, không phải thời điểm",
+   "✔ 3年前です – '3 năm trước', trả lời đúng câu hỏi いつ",
+   "3年になります – 'được 3 năm rồi', là độ dài"
+  ],
+  "trans": "A: Chị gặp chồng lần đầu khi nào? B: 3 năm trước.",
+  "note": "いつ hỏi thời điểm → 3年前 (3 năm trước). 3年間 / 3年になる là độ dài thời gian (câu hỏi どのくらい)."
+ },
+ "challenge:N3V0182": {
+  "opts": [
+   "✔ じゃ、お先に失礼します – 'vậy tôi xin phép về trước', câu chào về chuẩn",
+   "はい、先に帰ります – 'vâng, tôi về trước', đúng nghĩa nhưng thiếu lễ, không tự nhiên",
+   "ええ、帰ったほうがいいですよ – 'anh nên về đi', lẫn vai",
+   "いいえ、どういたしまして – 'không có gì', trả lời cho lời cảm ơn"
+  ],
+  "trans": "A: Tôi để quên đồ, anh cứ về trước đi. B: Vậy tôi xin phép về trước.",
+  "note": "お先に失礼します là câu cố định khi về trước người khác. 忘れ物をする = để quên đồ."
+ },
+ "challenge:N3V0183": {
+  "opts": [
+   "✔ 遅れて、すみません – 'xin lỗi tôi đến muộn', câu xin lỗi chuẩn",
+   "ごめんなさい。遅れましたから – 'vì tôi muộn', から cuối câu như biện minh",
+   "すみません。遅れたんです。 – 'tôi đã muộn đấy', んです ở đây như thanh minh",
+   "遅れましたから、すみません – 'vì tôi muộn nên xin lỗi', không ai nói vậy"
+  ],
+  "trans": "A: Xin lỗi, tôi đến muộn. B: Anh có biết bây giờ là mấy giờ rồi không hả?",
+  "note": "Xin lỗi về việc mình làm: Vて + すみません (遅れてすみません). Câu của B là câu trách mắng."
+ },
+ "challenge:N3V0185": {
+  "opts": [
+   "ええ。高すぎて、買いませんでした – 'đắt quá nên không mua', thiếu でも, không nối với 'có giày đẹp'",
+   "ええ。高いですから、買いませんでした – から giữa câu quá máy móc",
+   "ええ。高いんですが、買えませんでした – が (nhưng) không logic: đắt nhưng không mua được",
+   "✔ ええ。でも、高くて買えなかったんです – 'có, nhưng đắt quá không mua nổi', tự nhiên"
+  ],
+  "trans": "A: Có đôi giày nào đẹp không? B: Có. Nhưng đắt quá nên không mua nổi.",
+  "note": "Mạch câu: ええ (có) → でも (nhưng) → lý do bằng Vて + kết quả 買えなかった (không mua được) + んです giải thích."
+ },
+ "challenge:N3V0186": {
+  "opts": [
+   "いいえ、また行きたいです – 'không, tôi muốn đi lại', また (lại) mâu thuẫn với chưa đi",
+   "はい、もう行ったんです – 'tôi đi rồi', không khớp mẫu ことがある",
+   "はい、行くことがあります – 'có khi đi', nghĩa khác (thỉnh thoảng)",
+   "✔ いいえ、まだありません – 'không, tôi chưa', trả lời chuẩn"
+  ],
+  "trans": "A: Anh đã từng đi Hokkaido chưa? B: Chưa, tôi chưa từng.",
+  "note": "Vたことがありますか → はい、あります / いいえ、(まだ)ありません. Phân biệt また (lại) và まだ (vẫn chưa)."
+ },
+ "challenge:N3V0187": {
+  "opts": [
+   "✔ 大丈夫ですよ。明日持ってきてください – 'không sao, mai mang đến nhé', phản ứng của giáo viên",
+   "困りましたね。どうしたらいいですか – 'phiền nhỉ, làm sao đây?', hỏi ngược",
+   "えっ、まだ書いてないんですか – 'chưa viết à?', A chỉ quên mang chứ không phải chưa viết",
+   "今日中に書かなければなりませんね – 'phải viết trong hôm nay', hiểu sai"
+  ],
+  "trans": "A: Dạ, em quên mang báo cáo đến… B: Không sao. Mai mang đến nhé.",
+  "note": "持ってくるのを忘れた = quên mang theo (đã viết rồi). B là người nhận nên đưa giải pháp 明日持ってきてください."
+ },
+ "challenge:N3V0188": {
+  "opts": [
+   "忘れ物を見つけているところです – 見つける là 'tìm thấy', không dùng cho quá trình đang tìm",
+   "忘れ物が何かわからないんです – 'không biết quên gì', không trả lời đang làm gì",
+   "忘れ物があったら、連絡してください – 'nếu có đồ quên thì liên lạc', lạc đề",
+   "✔ 忘れ物がないかどうか、調べているんです – 'đang kiểm tra xem có quên gì không'"
+  ],
+  "trans": "A: Anh đang làm gì thế? B: Tôi đang kiểm tra xem có quên gì không.",
+  "note": "～かどうか = có… hay không. Đang tìm thì dùng 探す/調べる, còn 見つける là kết quả 'tìm thấy'."
+ },
+ "challenge:N3V0189": {
+  "opts": [
+   "出るなら、申し込まなければなりません – 'nếu tham gia thì phải đăng ký', như nói với người khác",
+   "そろそろスピーチの準備をしなければなりませんね – 'phải chuẩn bị thôi', chưa quyết có tham gia",
+   "✔ 出るかどうかまだ決めていなんです – 'tôi vẫn chưa quyết có tham gia không'",
+   "早く決めたほうがいいですよ – 'nên quyết sớm', lẫn vai"
+  ],
+  "trans": "A: Hạn đăng ký thi hùng biện là đến mai đấy. B: Tôi vẫn chưa quyết có tham gia hay không.",
+  "note": "Đáp án nguồn viết thiếu: đúng phải là 決めていないんです. ～かどうかまだ決めていない = chưa quyết có… hay không."
+ },
+ "challenge:N3V0190": {
+  "opts": [
+   "いいえ。タクシーで30分ぐらいです – 'đi taxi 30 phút', mâu thuẫn với いいえ",
+   "✔ いいえ。父に迎えに来てもらいました – 'không, bố đến đón', cách khác",
+   "いいえ。タクシーは帰ったんです – 'taxi về rồi', vô nghĩa",
+   "いいえ。駅まで父を送っていきました – 'tôi đưa bố ra ga', ngược vai"
+  ],
+  "trans": "A: Tối qua anh về bằng taxi à? B: Không. Bố tôi đến đón.",
+  "note": "迎えに来てもらう = được ai đến đón (に + 人 + てもらう). 送る = đưa đi, 迎える = đón."
+ },
+ "challenge:N3V0191": {
+  "opts": [
+   "そうなんですか。それは楽しいですね – 'vui nhỉ', chuyến đi chưa diễn ra nên không dùng 楽しい",
+   "そうでしたか。それで楽しいんですね – vô nghĩa",
+   "そうですよね。きっと楽しいですよ – 'chắc chắn vui', như đã biết trước",
+   "✔ そうですか。それは楽しみですね – 'vậy à, đáng mong chờ nhỉ'"
+  ],
+  "trans": "A: Tôi đang để dành tiền để sang năm đi du lịch Hàn Quốc. B: Vậy à. Đáng mong chờ nhỉ.",
+  "note": "楽しみ (たのしみ) = niềm mong đợi (việc chưa xảy ra); 楽しい = vui (đang/đã trải nghiệm). お金をためる = để dành tiền."
+ },
+ "challenge:N3V0192": {
+  "opts": [
+   "２、３日にしては大きいかばんですね – 'to so với 2-3 ngày', nhận xét, không giới thiệu",
+   "その場合はこちらのほうがいいですよ – 'trường hợp đó cái này tốt hơn', chưa có cái để so",
+   "それでこのかばんがいいんですね – 'vậy nên cái này tốt nhỉ', lẫn vai",
+   "✔ それなら、こちらはいかがですか – 'vậy thì chiếc này thì sao ạ?', nhân viên gợi ý"
+  ],
+  "trans": "A: Có túi nào hợp cho chuyến đi 2-3 ngày không? B: Vậy thì chiếc này thì sao ạ?",
+  "note": "それなら = nếu vậy thì; こちらはいかがですか là câu nhân viên bán hàng giới thiệu sản phẩm."
+ },
+ "challenge:N3V0193": {
+  "opts": [
+   "えっ、そうなんですか。ありがとうございます – 'thế à?', việc nhìn là thấy, không nói そうなんですか",
+   "✔ あっ、本当ですね。ありがとうございます – 'ôi, đúng rồi, cảm ơn', nhìn và xác nhận",
+   "ええ、そうですね。ありがとうございます – 'ừ, đúng vậy', như đã biết",
+   "へえ、大変ですね。ありがとうございます – 'ồ, vất vả nhỉ', lạc đề"
+  ],
+  "trans": "A: Miệng túi của anh mở kìa. B: Ôi, đúng thật. Cảm ơn anh.",
+  "note": "Được nhắc chuyện nhìn thấy ngay → あっ、本当ですね (xác nhận) + cảm ơn. そうなんですか dùng khi nghe thông tin không tự kiểm chứng được."
+ },
+ "challenge:N3V0194": {
+  "opts": [
+   "はい、おいしかったです。いただきます – 'ngon quá' (quá khứ) khi chưa ăn",
+   "✔ わあ、おいしそうですね。いただきます – 'wow, trông ngon quá, tôi ăn nhé'",
+   "ええ、ありがとうございます。召し上がります – 召し上がる là kính ngữ, không dùng cho mình",
+   "へえ、おいしいですね。どうぞ – 'ngon nhỉ, mời', lẫn vai"
+  ],
+  "trans": "A: Bánh tôi làm đấy. Mời anh dùng. B: Wow, trông ngon quá. Tôi xin phép ăn nhé.",
+  "note": "おいしそう = trông ngon (chưa ăn). いただきます nói trước khi ăn. 召し上がる chỉ dùng cho người khác."
+ },
+ "challenge:N3V0195": {
+  "opts": [
+   "なくなったら、どうしますか – 'hết thì làm sao?', hỏi ngược",
+   "✔ じゃ、新しいのを買いましょう – 'vậy mua cái mới thôi', giải quyết",
+   "ええ、早く使ってしまいましょう – 'dùng nhanh cho hết', ngược logic",
+   "まだなくなりませんね – 'vẫn chưa hết nhỉ', phủ nhận"
+  ],
+  "trans": "A: Dầu gội sắp hết rồi đấy. B: Vậy mua chai mới thôi.",
+  "note": "Vますそう = sắp (dấu hiệu). 新しいの = cái mới (の thay cho danh từ シャンプー)."
+ },
+ "challenge:N3V0196": {
+  "opts": [
+   "いいえ、そんなに眠そうじゃありません – 'không buồn ngủ đến thế', 眠そう không dùng cho bản thân",
+   "いいえ、眠くなったら顔を洗ってくださいね – lẫn vai",
+   "✔ ええ、昨日2時間しか寝られなかったんです – 'vâng, hôm qua tôi chỉ ngủ được 2 tiếng'",
+   "ええ、毎日7時間は寝たほうがいいですよ – khuyên ngược"
+  ],
+  "trans": "A: Trông anh buồn ngủ nhỉ. B: Vâng, hôm qua tôi chỉ ngủ được có 2 tiếng.",
+  "note": "～そう (trông có vẻ) chỉ dùng để tả người khác, nên B không nói 眠そう về mình. しか～ない + んです = lý do."
+ },
+ "challenge:N3V0197": {
+  "opts": [
+   "✔ じゃ、この手紙を出してきてくれませんか – 'vậy gửi giúp lá thư này được không?', nhờ tiện thể",
+   "あのう、郵便局はどこですか – 'bưu điện ở đâu?', A đang đi tới đó mà",
+   "すみません、80円の切手を2枚ください – nói với nhân viên bưu điện, lẫn vai",
+   "えっ、手紙を出さなければなりませんね – vô nghĩa"
+  ],
+  "trans": "A: Tôi ra bưu điện một chút. B: Vậy gửi giúp tôi lá thư này được không?",
+  "note": "Vてきてくれませんか = làm giúp rồi quay về được không (nhờ tiện thể). 手紙を出す = gửi thư."
+ },
+ "challenge:N3V0198": {
+  "opts": [
+   "✔ 実は、彼に結婚を申し込まれたんです – 'thực ra tôi được anh ấy cầu hôn', tin vui",
+   "それが…。両親に結婚させられるんです – 'bị bố mẹ ép cưới', không vui",
+   "来月の結婚式の準備で疲れてしまったんです – 'mệt vì chuẩn bị cưới', không vui",
+   "ええ、友だちの結婚式で飲みすぎてしまったんです – 'uống quá chén', không vui"
+  ],
+  "trans": "A: Trông chị vui thế. Có chuyện gì tốt à? B: Thực ra tôi được anh ấy cầu hôn.",
+  "note": "結婚を申し込む = cầu hôn; dạng bị động 申し込まれた = được cầu hôn. Ba phương án kia đều là chuyện mệt/khổ."
+ },
+ "challenge:N3V0199": {
+  "opts": [
+   "コピーしたらホッチキスでとめておいてくださいね – chỉ thị, lẫn vai",
+   "コピーする前に部長に見せてくださいね – chỉ thị, lẫn vai",
+   "2階のコピー機を使ってくださいね – chỉ thị, lẫn vai",
+   "✔ 少し足りないので、コピーしてきます – 'hơi thiếu nên tôi đi photo thêm', trả lời"
+  ],
+  "trans": "A: Tài liệu họp đây là tất cả rồi à? B: Hơi thiếu một chút nên tôi đi photo thêm.",
+  "note": "足りない = thiếu. Vてきます = đi làm rồi quay lại. Ba phương án kia đều là người ra lệnh chứ không phải người được hỏi."
+ },
+ "challenge:N3V0200": {
+  "opts": [
+   "✔ じゃ、これを使って – 'vậy dùng cái này đi', đưa cái thay thế",
+   "こんなのはどうですか – thể lịch sự, không hợp giọng thân mật của A",
+   "えっ、どうして破ったの – 'sao cậu xé?', A không xé, nó tự rách",
+   "破れないように気をつけてね – 'cẩn thận đừng làm rách', đã rách rồi"
+  ],
+  "trans": "A: Ơ, cái túi giấy này rách rồi. B: Vậy dùng cái này đi.",
+  "note": "破れる (やぶれる) tự động từ = bị rách; 破る = xé. Hội thoại thân mật nên B dùng thể ngắn Vて (使って)."
+ },
+ "challenge:N3V0201": {
+  "opts": [
+   "どこが悪いのか調べないとね – 'phải kiểm tra chỗ nào hỏng', lẫn vai",
+   "病院に行ったほうがいいよ – 'nên đi bệnh viện', lẫn vai",
+   "✔ うん、ちょっと疲れてるんだ – 'ừ, tớ hơi mệt', giải thích",
+   "じゃ、修理してもらわないとね – 'phải đem sửa', dùng cho máy móc"
+  ],
+  "trans": "A: Sao thế? Trông cậu không khỏe. B: Ừ, tớ hơi mệt.",
+  "note": "調子が悪い = tình trạng không tốt (người hoặc máy). Giải thích tình trạng bằng ～んだ (thể ngắn của んです)."
+ },
+ "challenge:N3V0202": {
+  "opts": [
+   "来週の木曜日に会議があります – 'thứ Năm tuần sau có họp', thông báo, không quyết định",
+   "✔ 来週の木曜日にしましょう – 'chọn thứ Năm tuần sau nhé', đề xuất quyết định",
+   "来週の木曜日だと思いますよ – 'chắc là thứ Năm', như không có quyền quyết",
+   "会議は来週の木曜日までです – 'họp đến thứ Năm', vô lý"
+  ],
+  "trans": "A: Cuộc họp tới chọn hôm nào? B: Chọn thứ Năm tuần sau nhé.",
+  "note": "Nにする = quyết định chọn N. Câu hỏi いつにしますか → trả lời Nにしましょう."
+ },
+ "challenge:N3V0203": {
+  "opts": [
+   "✔ ええ、何ですか – 'ừ, chuyện gì?', hỏi nội dung",
+   "ええ、よろしいですよ – よろしい là kính ngữ hướng lên trên, cấp trên không dùng với cấp dưới",
+   "ええ、それでいいですよ – 'thế được rồi', chưa biết chuyện gì",
+   "ええ、何がいいですか – 'cái gì tốt?', vô nghĩa"
+  ],
+  "trans": "A: Sếp ơi, em xin phép một chút được không ạ? B: Ừ, chuyện gì?",
+  "note": "ちょっとよろしいでしょうか = xin một chút thời gian (rất lịch sự). Cấp trên đáp ngắn 何ですか."
+ },
+ "challenge:N3V0204": {
+  "opts": [
+   "✔ それは残念ですね – 'tiếc quá nhỉ', chia sẻ",
+   "ええ、そうですね – 'ừ, đúng vậy', như đã biết",
+   "えっ、どうしてですか – 'sao vậy?', A đã nói lý do là 急用",
+   "それは信じられませんね – 'không tin nổi', quá nặng"
+  ],
+  "trans": "A: Có việc gấp nên mai tôi không đi dự tiệc được nữa. B: Tiếc quá nhỉ.",
+  "note": "残念 (ざんねん) = đáng tiếc. それは残念ですね là câu phản ứng chuẩn khi ai không tham gia được. 急用 (きゅうよう) = việc gấp."
+ },
+ "challenge:N3V0205": {
+  "opts": [
+   "ええ。それで難しいんですね – 'vì thế nên khó', chỉ nhắc lại",
+   "いいえ。その本は難しいですよ – 'không, sách đó khó', mâu thuẫn いいえ với 難しい",
+   "いいえ。でも、漢字は難しくないですよ – 'chữ Hán không khó', phủ nhận thẳng",
+   "✔ ええ。でも、おもしろいですよ – 'ừ, nhưng hay lắm', đồng tình rồi bổ sung"
+  ],
+  "trans": "A: Cuốn này nhiều chữ Hán khó nhỉ. B: Ừ. Nhưng hay lắm đấy.",
+  "note": "Mạch 'đồng ý + でも + điểm tích cực' là cách đáp rất tự nhiên."
+ },
+ "challenge:N3V0206": {
+  "opts": [
+   "あのう、どうしたらいいんでしょうか – 'tôi nên làm sao?', lẫn vai",
+   "お時間のあるときに、見ていただけませんか – 'rảnh thì xem giúp', lẫn vai",
+   "えっ、どうしたんですか – 'sao vậy?', A đã nói máy lạnh hỏng",
+   "✔ じゃ、ちょっと見に行きます – 'vậy tôi đến xem nhé', người phụ trách đáp"
+  ],
+  "trans": "A: Xin lỗi, máy lạnh có vấn đề… B: Vậy tôi đến xem một chút.",
+  "note": "Vに行く = đi để làm gì (見に行く = đi xem). B là người quản lý/sửa chữa nên đáp bằng hành động."
+ },
+ "challenge:N3V0207": {
+  "opts": [
+   "✔ すみません、今日はちょっと急ぎますから – 'xin lỗi, hôm nay tôi hơi vội', từ chối khéo",
+   "今日はちょっと忙しかったんです – 'hôm nay bận' (quá khứ), không phải lý do từ chối về cùng",
+   "すみません、今はあまり時間がないんです – 'giờ không có thời gian', về cùng không tốn thêm thời gian, không hợp",
+   "忙しいですから、ちょっとすみません – trật tự câu lủng củng"
+  ],
+  "trans": "A: Anh vất vả rồi. Về cùng không? B: Xin lỗi, hôm nay tôi hơi vội.",
+  "note": "Từ chối lời rủ: すみません + lý do nhẹ + から bỏ lửng. 急ぐ (いそぐ) = vội."
+ },
+ "challenge:N3V0208": {
+  "opts": [
+   "じゃ、お祝いになろう – 'trở thành lời chúc', sai ngữ pháp",
+   "じゃ、お祝いするんじゃない – 'không phải chúc mừng à?', không hợp",
+   "じゃ、お祝いをしてみない – 'thử chúc mừng xem?', してみる không hợp với chúc mừng",
+   "✔ じゃ、お祝いをしないとね – 'vậy phải chúc mừng thôi nhỉ'"
+  ],
+  "trans": "A: Nghe nói sắp tới anh Tanaka kết hôn đấy. B: Vậy phải chúc mừng thôi nhỉ.",
+  "note": "～ないと(いけない) = phải làm. お祝いをする = chúc mừng, tặng quà mừng. そうだ = nghe nói."
+ },
+ "challenge:N3V0209": {
+  "opts": [
+   "✔ ええ、かまいませんよ – 'ừ, không sao', cho phép",
+   "すみませんが、休ませていただきます – 'tôi xin nghỉ', lẫn vai",
+   "じゃ、それでお願いします – 'vậy nhờ anh', lẫn vai",
+   "ありがとうございます。助かります – 'cảm ơn', lẫn vai"
+  ],
+  "trans": "A: Từ thứ Hai tuần sau cho tôi nghỉ khoảng 3 ngày được không ạ? B: Ừ, không sao đâu.",
+  "note": "休ませていただけませんか = xin phép được nghỉ (khiêm nhường). Cho phép: かまいませんよ / いいですよ."
+ },
+ "challenge:N3V0210": {
+  "opts": [
+   "そうなんですか。それはいいんですね – いいんですね ở đây lủng củng",
+   "そうでしたか。それは大変ですね – 'vất vả nhỉ', không hợp",
+   "✔ そうですか。それはいいことですね – 'đó là việc tốt đấy', đánh giá việc dạy con",
+   "そうですか。それはよかったですね – 'tốt quá', dùng cho kết quả, không hợp"
+  ],
+  "trans": "A: Ngày nào tôi cũng bắt bọn trẻ phụ việc nhà. B: Vậy à. Đó là việc tốt đấy.",
+  "note": "手伝いをさせる = bắt/cho làm giúp (sai khiến). いいことですね = khen một việc làm là tốt; よかったですね là mừng kết quả."
+ },
+ "challenge:N3V0211": {
+  "opts": [
+   "✔ じゃ、よろしくお願いします – 'vậy nhờ anh nhé', giao việc",
+   "じゃ、田中さんにやらせましょう – 'để Tanaka làm', phủ nhận A",
+   "えっ、わたしがやるんですか – 'tôi làm à?', lẫn vai",
+   "ちょっと自信がないんですが… – 'tôi không tự tin', lẫn vai"
+  ],
+  "trans": "A: Việc này nhất định hãy để tôi làm được không ạ? B: Vậy nhờ anh nhé.",
+  "note": "やらせていただけませんか = xin được làm (khiêm nhường). Chấp nhận: じゃ、お願いします."
+ },
+ "challenge:N3V0212": {
+  "opts": [
+   "はい、もう読めました – 'đọc được rồi', 読める là khả năng, không hợp",
+   "はい、もうお読みになりました – kính ngữ cho chính mình, sai",
+   "はい、もう読まれました – kính ngữ (bị động tôn kính) cho mình, sai",
+   "✔ はい、もう読みました – 'vâng, tôi đọc rồi', thể lịch sự bình thường"
+  ],
+  "trans": "A: Anh đã đọc cuốn sách này chưa? B: Vâng, tôi đọc rồi.",
+  "note": "読まれました trong câu hỏi là kính ngữ dạng bị động. Trả lời về mình thì không dùng kính ngữ, chỉ 読みました."
+ },
+ "challenge:N3V0213": {
+  "opts": [
+   "もう出かけられております – trộn kính ngữ với khiêm nhường, sai",
+   "さっきお出かけしました – お～する là khiêm nhường, không dùng cho sếp",
+   "✔ 先ほどお出かけになりました – 'sếp vừa đi ra ngoài rồi', kính ngữ お～になる",
+   "もう出かけていました – 'đã ra ngoài' thể thường, thiếu kính trọng với sếp"
+  ],
+  "trans": "A: Trưởng phòng đâu? B: Trưởng phòng vừa đi ra ngoài rồi ạ.",
+  "note": "お + Vます + になる = kính ngữ (tôn kính hành động của sếp). 先ほど (さきほど) là cách nói lịch sự của さっき."
+ },
+ "challenge:N3V0215": {
+  "opts": [
+   "先日のパーティーでお目にかけました – お目にかける = 'cho xem', nghĩa khác",
+   "おととい、学校でご覧になりました – ご覧になる là kính ngữ 'xem', dùng cho mình là sai",
+   "この間駅でお見かけしました – 'tình cờ nhìn thấy', không phải 'gặp'",
+   "✔ 先週、お目にかかりました – 'tuần trước tôi đã gặp', khiêm nhường của 会う"
+  ],
+  "trans": "A: Gần đây anh gặp anh Tanaka lúc nào? B: Tuần trước tôi đã gặp.",
+  "note": "お目にかかる = khiêm nhường của 会う. Đừng nhầm với お目にかける (cho xem) và 見かける (thoáng thấy)."
+ },
+ "challenge:N3V0216": {
+  "opts": [
+   "ありがとうございます。手伝わせていただきます – 'cho tôi giúp', lẫn vai",
+   "ええ、お手伝いさせてください – 'để tôi giúp', lẫn vai",
+   "はい、手伝ってもいいですよ – 'anh giúp cũng được', kẻ cả, thiếu lịch sự",
+   "✔ すみません。お願いします – 'xin lỗi, nhờ anh', nhận lời giúp đúng cách"
+  ],
+  "trans": "A: Trông nặng quá. Tôi giúp một tay nhé? B: Ngại quá. Nhờ anh vậy.",
+  "note": "Nhận đề nghị giúp đỡ: すみません (cảm ơn kèm áy náy) + お願いします. Hai phương án đầu là lời của người đề nghị giúp."
+ },
+ "challenge:N3V0217": {
+  "opts": [
+   "水曜日になります – 'sẽ là thứ Tư', dùng khi thông báo kết quả, hơi lạ",
+   "✔ 水曜日ですよ – 'thứ Tư đấy', trả lời rõ ràng",
+   "水曜日のようです – 'hình như thứ Tư', không chắc",
+   "水曜日でしょう – 'chắc là thứ Tư', không chắc"
+  ],
+  "trans": "A: Ngày đổ rác không cháy là khi nào? B: Thứ Tư đấy.",
+  "note": "Việc đã biết chắc (lịch rác) → trả lời khẳng định với よ. ようです/でしょう là phỏng đoán."
+ },
+ "challenge:N3V0218": {
+  "opts": [
+   "春はいつからですか – 'xuân từ bao giờ?', lạc đề",
+   "✔ ええ、もう春ですね – 'ừ, xuân rồi nhỉ', đồng tình",
+   "春になるかもしれませんね – 'có lẽ sẽ sang xuân', mùa không 'có lẽ'",
+   "もうすぐ春らしいですね – 'nghe nói sắp xuân', lủng củng"
+  ],
+  "trans": "A: Hoa anh đào sắp nở rồi nhỉ. B: Ừ, xuân đến rồi nhỉ.",
+  "note": "咲きそう = sắp nở. Đồng tình với cảm nhận: ええ、～ですね."
+ },
+ "challenge:N3V0219": {
+  "opts": [
+   "ええ、海を見ることができるからです – 'vì có thể thấy biển', trả lời như cho câu hỏi tại sao",
+   "✔ ええ、海が見えるんですよ – 'vâng, nhìn thấy biển đấy', khoe thêm điểm hay",
+   "ええ、海が見られるかもしれません – 'có lẽ thấy biển', chủ nhà không thể 'có lẽ'",
+   "ええ、海を見せるられるんです – sai ngữ pháp"
+  ],
+  "trans": "A: Cửa sổ lớn, phòng đẹp nhỉ. B: Vâng, từ đây nhìn thấy biển đấy.",
+  "note": "見える = tự nhiên lọt vào mắt (nhìn thấy); 見られる = có thể xem (khả năng/điều kiện). Cảnh từ cửa sổ dùng 見える."
+ },
+ "challenge:N3V0220": {
+  "opts": [
+   "田中さんに会ったら、お礼を言っといてね – 'gặp Tanaka thì cảm ơn nhé', không trả lời ở đâu",
+   "あれはフランスのワインだよ – 'rượu Pháp đấy', không trả lời ở đâu",
+   "冷蔵庫に入れておいたほうがいいですよ – thể lịch sự lạc giọng, và không trả lời",
+   "✔ この前みんなで飲んじゃったじゃない – 'hôm trước cả nhà uống hết rồi còn gì'"
+  ],
+  "trans": "A: Chai rượu anh Tanaka tặng đâu rồi? B: Hôm trước cả nhà uống hết rồi còn gì.",
+  "note": "飲んじゃった = 飲んでしまった (uống hết mất). ～じゃない cuối câu = 'còn gì', nhắc lại điều người kia quên."
+ },
+ "challenge:N3V0221": {
+  "opts": [
+   "いいえ、2時間ぐらい寝ました – 'ngủ khoảng 2 tiếng', đúng ý nhưng không dùng mẫu khả năng của câu hỏi",
+   "✔ 少ししか寝られませんでした – 'tôi chỉ ngủ được một chút', trả lời khớp 寝られる",
+   "はい、あまり寝られませんでした – はい mâu thuẫn với không ngủ được",
+   "隣の人がうるさくて、あまり寝ませんでした – cần 寝られませんでした (không ngủ được)"
+  ],
+  "trans": "A: Hôm qua anh ngủ ngon không? B: Tôi chỉ ngủ được có một chút.",
+  "note": "Câu hỏi dùng 寝られる (khả năng) → trả lời cũng dùng 寝られませんでした. しか～ない = chỉ."
+ },
+ "challenge:N3V0222": {
+  "opts": [
+   "動物の写真を撮ることです – 'là chụp ảnh động vật', giống trả lời sở thích",
+   "私は日本の美術に興味があります – 'quan tâm mỹ thuật', không phải ước mơ",
+   "昨夜は社長になる夢を見ました – 'mơ thấy làm giám đốc', 夢 nghĩa giấc mơ",
+   "✔ いつか自分の店を持ちたいと思っています – 'tôi muốn một ngày có cửa hàng riêng'"
+  ],
+  "trans": "A: Ước mơ tương lai của bạn là gì? B: Tôi muốn một ngày nào đó có cửa hàng của riêng mình.",
+  "note": "夢 có hai nghĩa: ước mơ (将来の夢) và giấc mơ (夢を見る). Trả lời ước mơ bằng ～たいと思っています."
+ },
+ "challenge:N3V0223": {
+  "opts": [
+   "毎日8時ごろ家に帰っています – 'ngày nào cũng về 8 giờ', hỏi hôm qua chứ không hỏi thường ngày",
+   "✔ 飲みすぎて、よく覚えていないんです – 'uống quá chén nên không nhớ rõ'",
+   "家までタクシーで30分ぐらいかかります – 'về nhà mất 30 phút', hỏi giờ không hỏi thời lượng",
+   "忙しいので、残業しなければならないと思います – nói về tương lai"
+  ],
+  "trans": "A: Hôm qua anh về nhà lúc mấy giờ? B: Uống quá chén nên tôi không nhớ rõ.",
+  "note": "Không trả lời được giờ thì giải thích lý do bằng ～んです. 覚えていない = không nhớ (trạng thái)."
+ },
+ "challenge:N3V0225": {
+  "opts": [
+   "ええ、そうかもしれませんね – 'có lẽ vậy', A nói chắc chắn chứ không phỏng đoán",
+   "えっと、そうなるんですよ – 'ờ, sẽ thế đấy', lẫn vai",
+   "えっ、そうですね – えっ (ngạc nhiên) không đi với そうですね (đồng tình)",
+   "✔ え？そうなんですか – 'ơ, vậy à?', lần đầu nghe tin"
+  ],
+  "trans": "A: Từ tháng sau giá vé xem phim tăng đấy nhỉ. B: Ơ? Vậy à?",
+  "note": "そうなんですか = phản ứng khi nghe thông tin mới (chưa biết). Nếu đã biết thì mới nói そうですね."
+ },
+ "challenge:N3V0227": {
+  "opts": [
+   "✔ 手順 – 'trình tự các bước', 手順に従う = làm theo các bước",
+   "順番待ち – 'chờ đến lượt'",
+   "手入れ – 'bảo dưỡng, chăm sóc'",
+   "手品 – 'ảo thuật'"
+  ],
+  "trans": "Lắp ráp theo trình tự trong sách hướng dẫn thì hoàn thành dễ dàng.",
+  "note": "手順 (てじゅん) THỦ THUẬN = các bước làm. Nに従って (したがって) = theo N."
+ },
+ "challenge:N3V0228": {
+  "opts": [
+   "✔ 慎重 – 'thận trọng', 慎重に操作する",
+   "盛大 – 'long trọng, hoành tráng'",
+   "強引 – 'cưỡng ép, bất chấp'",
+   "気楽 – 'thoải mái, vô tư'"
+  ],
+  "trans": "Máy này dùng sai cách thì nguy hiểm nên hãy thao tác thận trọng.",
+  "note": "慎重 (しんちょう) THẬN TRỌNG, na-tính từ → 慎重に + động từ. Gợi ý: 危険 (nguy hiểm)."
+ },
+ "challenge:N3V0229": {
+  "opts": [
+   "性格 – 'tính cách'",
+   "✔ 疑問 – 'thắc mắc, nghi vấn', 疑問を解決する",
+   "景色 – 'cảnh sắc'",
+   "予算 – 'ngân sách'"
+  ],
+  "trans": "Đừng tiến hành khi chưa hiểu, hãy giải quyết thắc mắc ngay tại chỗ.",
+  "note": "疑問 (ぎもん) NGHI VẤN = điều chưa rõ. 疑問を解決する/疑問に思う. 分からないまま = trong trạng thái chưa hiểu."
+ },
+ "challenge:N3V0230": {
+  "opts": [
+   "失って – 'đánh mất'",
+   "疑って – 'nghi ngờ'",
+   "✔ 頼って – 'dựa vào, nhờ cậy', 人を頼る",
+   "断って – 'từ chối'"
+  ],
+  "trans": "Đừng ôm hết một mình, lúc khó khăn hãy dựa vào người xung quanh.",
+  "note": "頼る (たよる) = dựa vào, nhờ cậy (Nを頼る/Nに頼る). 抱え込む (かかえこむ) = ôm đồm một mình."
+ },
+ "challenge:N3V0231": {
+  "opts": [
+   "乾燥 – 'khô hanh'",
+   "故障 – 'hỏng hóc'",
+   "✔ 信頼 – 'sự tin cậy', 信頼につながる",
+   "混雑 – 'đông đúc'"
+  ],
+  "trans": "Giữ đúng giờ dẫn đến sự tin cậy từ đối phương.",
+  "note": "信頼 (しんらい) TÍN LẠI = tin tưởng. Nにつながる = dẫn đến N."
+ },
+ "challenge:N3V0233": {
+  "opts": [
+   "✔ 印刷 – 'in ấn', 資料を印刷する",
+   "停車 – 'dừng xe'",
+   "栽培 – 'trồng trọt'",
+   "輸出 – 'xuất khẩu'"
+  ],
+  "trans": "Hãy in sẵn tài liệu dùng trong cuộc họp đủ cho số người.",
+  "note": "印刷 (いんさつ) ẤN LOÁT = in. 人数分 (にんずうぶん) = đủ phần cho số người. Vておく = làm sẵn."
+ },
+ "challenge:N3V0234": {
+  "opts": [
+   "拡大 – 'mở rộng'",
+   "✔ 削除 – 'xóa bỏ', phần lặp lại thì xóa",
+   "追加 – 'thêm vào', ngược ý rút ngắn",
+   "募集 – 'tuyển mộ'"
+  ],
+  "trans": "Để rút ngắn bài viết, tôi đã xóa những phần lặp lại cùng một giải thích.",
+  "note": "削除 (さくじょ) TƯỚC TRỪ = xóa. Mục đích 短くする (làm ngắn) → phải xóa, không thêm."
+ },
+ "challenge:N3V0235": {
+  "opts": [
+   "往復 – 'khứ hồi'",
+   "睡眠 – 'giấc ngủ'",
+   "✔ 報告 – 'báo cáo', 変更を報告する",
+   "通過 – 'đi qua'"
+  ],
+  "trans": "Nếu nội dung đăng ký có thay đổi, hãy báo cáo sớm.",
+  "note": "報告 (ほうこく) BÁO CÁO. 早めに (はやめに) = sớm một chút, trước thời hạn."
+ },
+ "challenge:N3V0236": {
+  "opts": [
+   "引退 – 'giải nghệ, về hưu'",
+   "✔ 比較 – 'so sánh', サービスの内容も比較する",
+   "停止 – 'dừng lại'",
+   "欠席 – 'vắng mặt'"
+  ],
+  "trans": "Tôi so sánh không chỉ giá mà cả nội dung dịch vụ rồi mới chọn khách sạn.",
+  "note": "比較 (ひかく) TỶ GIẢO = so sánh; 比較する = 比べる. だけでなく～も = không chỉ… mà cả."
+ },
+ "challenge:N3V0237": {
+  "opts": [
+   "✔ 余裕 – 'dư dả, thong thả', 時間に余裕を持たせる",
+   "不足 – 'thiếu'",
+   "欠点 – 'khuyết điểm'",
+   "制限 – 'giới hạn'"
+  ],
+  "trans": "Đừng nhồi nhét lịch trình quá, hãy để thời gian dư dả một chút.",
+  "note": "余裕 (よゆう) DƯ DỤ = khoảng dư. 時間に余裕がある/を持つ = có thời gian thong thả. 詰め込む = nhồi nhét."
+ },
+ "challenge:N3V0238": {
+  "opts": [
+   "油断 – 'lơ là, chủ quan'",
+   "安心 – 'yên tâm'",
+   "✔ 緊張 – 'căng thẳng', 緊張して手が震えた",
+   "満足 – 'hài lòng'"
+  ],
+  "trans": "Lần đầu thuyết trình tôi căng thẳng đến run tay.",
+  "note": "緊張 (きんちょう) KHẨN TRƯƠNG = hồi hộp, căng thẳng. 手が震える (ふるえる) = tay run."
+ },
+ "challenge:N3V0239": {
+  "opts": [
+   "じっと – 'yên lặng, bất động'",
+   "✔ ほっと – 'nhẹ nhõm', ほっとする",
+   "そっと – 'nhẹ nhàng, khẽ'",
+   "ざっと – 'sơ qua'"
+  ],
+  "trans": "Cái răng đau đến hôm qua đã khỏi, tôi thấy nhẹ cả người.",
+  "note": "ほっとする = thở phào nhẹ nhõm (khi hết lo). Bốn từ っと này hay bị lẫn, nhớ theo cụm với động từ."
+ },
+ "challenge:N3V0240": {
+  "opts": [
+   "ざっと – 'sơ qua', không tả cách đóng cửa",
+   "✔ そっと – 'khẽ, nhẹ nhàng', そっと閉める",
+   "どんどん – 'ầm ầm, liên tục', đánh thức em bé",
+   "はっきり – 'rõ ràng'"
+  ],
+  "trans": "Em bé đang ngủ nên tôi khẽ đóng cửa.",
+  "note": "そっと = nhẹ nhàng để không gây tiếng/động. Ngữ cảnh 赤ちゃんが寝ている loại ngay どんどん."
+ },
+ "challenge:N3V0241": {
+  "opts": [
+   "✔ ざっと – 'sơ qua, lướt', ざっと目を通す",
+   "じっと – 'chăm chú, bất động'",
+   "ずっと – 'suốt, mãi'",
+   "きっと – 'chắc chắn'"
+  ],
+  "trans": "Không có thời gian đọc kỹ nên tôi đọc lướt qua tài liệu.",
+  "note": "目を通す (めをとおす) = xem qua, đọc lướt. ざっと = đại khái, sơ bộ, hợp với ý 'không đọc kỹ'."
+ },
+ "challenge:N3V0242": {
+  "opts": [
+   "うっかり – 'lỡ, vô ý'",
+   "のんびり – 'thong thả'",
+   "✔ はっきり – 'rõ ràng', はっきりした声",
+   "がっかり – 'thất vọng'"
+  ],
+  "trans": "Để người ở xa cũng nghe thấy, tôi gọi tên bằng giọng rõ ràng.",
+  "note": "はっきり = rõ ràng (giọng nói, ý kiến, hình ảnh). はっきり言う = nói thẳng."
+ },
+ "challenge:N3V0243": {
+  "opts": [
+   "気にした – 'để tâm, bận lòng'",
+   "気をつけた – 'cẩn thận'",
+   "気に入った – 'ưng ý'",
+   "✔ 気づいた – 'nhận ra', ことに気づく"
+  ],
+  "trans": "Đến ga tôi mới nhận ra mình ra khỏi nhà mà không mang chìa khóa.",
+  "note": "気づく (気がつく) = nhận ra, phát hiện; đi với Nに/ことに. Cụm 気に～ rất nhiều, phải phân biệt từng cái."
+ },
+ "challenge:N3V0244": {
+  "opts": [
+   "気がついた – 'nhận ra'",
+   "気をつけた – 'cẩn thận'",
+   "気を失った – 'ngất xỉu'",
+   "✔ 気に入った – 'ưng ý, thích', すぐに気に入った"
+  ],
+  "trans": "Đôi giày này màu lẫn kiểu đều hợp gu, tôi ưng ngay.",
+  "note": "気に入る (きにいる) = thích, vừa ý (Nが気に入る). 好み (このみ) = sở thích, gu."
+ }
+}

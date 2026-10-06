@@ -1,0 +1,802 @@
+{
+ "dethitiengnhat:N3-3-1-q1": {
+  "opts": [
+   "くわしい – 詳しい 'chi tiết, rành rẽ', chữ khác",
+   "✔ こまかい – 細かい, nhỏ, tỉ mỉ, chi tiết (TẾ)",
+   "さわがしい – 騒がしい 'ồn ào', chữ khác",
+   "あやしい – 怪しい 'đáng ngờ', chữ khác"
+  ],
+  "trans": "Phần giải thích này rất chi tiết nên người mới bắt đầu cũng dễ hiểu.",
+  "note": "細 = TẾ (tinh tế). 細かい こまかい: nhỏ, tỉ mỉ. Đừng nhầm với 詳しい くわしい cũng nghĩa 'chi tiết' nhưng là chữ khác."
+ },
+ "dethitiengnhat:N3-3-1-q10": {
+  "opts": [
+   "因難 – 因 NHÂN (いん) 'nguyên nhân', không có từ này",
+   "因勤 – không có từ này",
+   "✔ 困難 – こんなん, khó khăn (KHỐN NAN)",
+   "困勤 – 勤 CẦN (きん) 'chăm chỉ', không có từ này"
+  ],
+  "trans": "Việc thay đổi kế hoạch khó khăn hơn dự tính.",
+  "note": "困 KHỐN có 木 trong khung (cây bị nhốt → khốn khó); 因 NHÂN có 大 bên trong. 難 NAN khác 勤 CẦN (勤務)."
+ },
+ "dethitiengnhat:N3-3-1-q11": {
+  "opts": [
+   "✔ 寒気 – さむけ, cảm giác ớn lạnh (HÀN KHÍ)",
+   "冷気 – れいき 'khí lạnh', không đọc さむけ",
+   "寒期 – không có từ này",
+   "冷期 – không có từ này"
+  ],
+  "trans": "Từ tối qua tôi thấy ớn lạnh, sốt cũng hơi lên.",
+  "note": "寒 HÀN đọc kun さむ(い); 冷 LÃNH đọc つめ(たい)/ひ(える). 気 'cảm giác' chứ không phải 期 'thời kỳ'."
+ },
+ "dethitiengnhat:N3-3-1-q12": {
+  "opts": [
+   "殖物 – 殖 THỰC (sinh sôi) không ghép với 物",
+   "✔ 植物 – しょくぶつ, thực vật (THỰC VẬT)",
+   "食物 – しょくもつ 'thức ăn', đọc khác",
+   "織物 – おりもの 'vải dệt', đọc khác"
+  ],
+  "trans": "Trong công viên có rất nhiều loài thực vật quý hiếm.",
+  "note": "植 THỰC có bộ 木 (cây) → thực vật. 食物 đọc しょくもつ chứ không phải しょくぶつ."
+ },
+ "dethitiengnhat:N3-3-1-q13": {
+  "opts": [
+   "貯けて – 貯 TRỮ dùng trong 貯金, không đọc あずける",
+   "借けて – 借 TÁ đọc か(りる) 'mượn'",
+   "替けて – 替 THẾ đọc か(える) 'đổi'",
+   "✔ 預けて – あずけて, gửi nhờ giữ (DỰ)"
+  ],
+  "trans": "Vì nhiều hành lý nên tôi gửi cặp vào tủ khóa ở ga rồi mới đi.",
+  "note": "預ける あずける gửi nhờ giữ, 預かる あずかる nhận giữ hộ. Nhớ 預金 よきん tiền gửi ngân hàng."
+ },
+ "dethitiengnhat:N3-3-1-q14": {
+  "opts": [
+   "権理 – 理 LÝ 'lý lẽ', không có từ này",
+   "✔ 権利 – けんり, quyền lợi (QUYỀN LỢI)",
+   "券利 – 券 QUYỀN là 'vé' (乗車券), sai chữ",
+   "権里 – 里 LÝ 'làng', không có từ này"
+  ],
+  "trans": "Khi trở thành hội viên, bạn có quyền được hưởng giảm giá.",
+  "note": "権利 đúng như Hán Việt QUYỀN LỢI. 利 có bộ 刂 (lợi ích), khác 理 (lý lẽ) và 里 (làng)."
+ },
+ "dethitiengnhat:N3-3-1-q15": {
+  "opts": [
+   "✔ デリバリー – giao hàng tận nhà, hợp vì đồ nội thất to",
+   "カタログ – catalog, không 'nhờ' sau khi đã mua",
+   "レシート – hóa đơn, không phải thứ để 頼む",
+   "サービス – dịch vụ nói chung, quá mơ hồ"
+  ],
+  "trans": "Vì mua đồ nội thất cỡ lớn nên tôi nhờ cửa hàng giao hàng.",
+  "note": "デリバリー = delivery; tiếng Nhật thuần là 配達 はいたつ."
+ },
+ "dethitiengnhat:N3-3-1-q16": {
+  "opts": [
+   "ながれ – dòng chảy, xu thế; không ghép quen với 景気",
+   "つごう – sự thuận tiện, hoàn cảnh; không hợp",
+   "きまり – quy định; không hợp",
+   "✔ うごき – 動き, biến động; 景気の動き là cụm quen"
+  ],
+  "trans": "Tôi muốn vừa theo dõi biến động kinh tế vừa lập kế hoạch năm sau.",
+  "note": "動き うごき = chuyển động, diễn biến. 景気の動きを見る = theo dõi tình hình kinh tế."
+ },
+ "dethitiengnhat:N3-3-1-q17": {
+  "opts": [
+   "比 – tỷ số so sánh (比率), không đứng sau 合格",
+   "✔ 率 – 合格率 ごうかくりつ, tỷ lệ đỗ",
+   "数 – phải là 合格者数, 合格数 không tự nhiên",
+   "値 – giá trị, không ghép"
+  ],
+  "trans": "Tỷ lệ đỗ của kỳ thi lần này thấp.",
+  "note": "〜率 りつ = tỷ lệ: 合格率, 出席率, 成功率."
+ },
+ "dethitiengnhat:N3-3-1-q18": {
+  "opts": [
+   "最初 – lúc đầu; 'đừng gọi lúc đầu họp' không tự nhiên",
+   "最後 – cuối cùng",
+   "✔ 最中 – さいちゅう, đang giữa lúc; 会議の最中 = đang họp",
+   "最終 – cuối cùng (chuyến cuối, vòng cuối)"
+  ],
+  "trans": "Xin đừng gọi điện khi đang họp.",
+  "note": "Nの最中(に) / Vている最中に = đang giữa lúc làm gì. Đừng đọc nhầm thành もなか (tên bánh)."
+ },
+ "dethitiengnhat:N3-3-1-q19": {
+  "opts": [
+   "独立心 – tinh thần tự lập",
+   "恐怖心 – nỗi sợ hãi",
+   "競争心 – tinh thần cạnh tranh",
+   "✔ 好奇心 – こうきしん, tính tò mò; hợp với 'hỏi mọi thứ'"
+  ],
+  "trans": "Học sinh đó rất tò mò, cái gì không hiểu cũng hỏi.",
+  "note": "好奇心が強い = tò mò, ham hiểu biết. Hán Việt HIẾU KỲ TÂM."
+ },
+ "dethitiengnhat:N3-3-1-q2": {
+  "opts": [
+   "✔ てつづき – 手続き, thủ tục (THỦ TỤC)",
+   "てつずき – sai: gốc là 続く つづく nên phải viết づ",
+   "でつづき – 手 không đọc で",
+   "てつつき – thiếu âm đục"
+  ],
+  "trans": "Thủ tục nhập học xin hoàn tất trước tuần sau.",
+  "note": "手続き = 手 + 続き(つづき). Vì gốc là つづく nên dùng づ chứ không phải ず."
+ },
+ "dethitiengnhat:N3-3-1-q20": {
+  "opts": [
+   "出会って – tình cờ gặp, không hợp với 'rồi cùng đi xem phim'",
+   "知り合って – quen biết nhau",
+   "✔ 待ち合わせて – まちあわせて, hẹn gặp ở điểm hẹn",
+   "付き合って – hẹn hò / đi cùng"
+  ],
+  "trans": "Tôi hẹn gặp bạn ở cửa soát vé của ga rồi cùng đi xem phim.",
+  "note": "待ち合わせる = hẹn nhau ở một chỗ. 出会う là gặp tình cờ."
+ },
+ "dethitiengnhat:N3-3-1-q21": {
+  "opts": [
+   "✔ 競争 – きょうそう, cạnh tranh; 競争が激しい là cụm quen",
+   "相談 – bàn bạc, không nói 激しい",
+   "協力 – hợp tác, không 'khốc liệt'",
+   "安心 – yên tâm"
+  ],
+  "trans": "Trong công ty cạnh tranh gay gắt nên ngày nào mọi người cũng làm việc hết mình.",
+  "note": "競争が激しい = cạnh tranh gay gắt."
+ },
+ "dethitiengnhat:N3-3-1-q22": {
+  "opts": [
+   "✔ 移る – うつる, chuyển (sang chi nhánh)",
+   "止まる – dừng lại",
+   "続く – tiếp tục",
+   "断る – từ chối"
+  ],
+  "trans": "Tháng sau, vì công việc, tôi sẽ chuyển sang chi nhánh Osaka.",
+  "note": "移る うつる tự động từ 'di chuyển, chuyển sang'; 移す うつす tha động từ. Hán Việt DI."
+ },
+ "dethitiengnhat:N3-3-1-q23": {
+  "opts": [
+   "投げて – ném",
+   "✔ 握って – にぎって, nắm chặt trong tay",
+   "押して – ấn, đẩy",
+   "引いて – kéo"
+  ],
+  "trans": "Vì tay lạnh nên tôi nắm cốc cà phê bằng hai tay để sưởi ấm.",
+  "note": "握る にぎる = nắm, cầm chặt (握手 bắt tay, おにぎり cơm nắm)."
+ },
+ "dethitiengnhat:N3-3-1-q24": {
+  "opts": [
+   "アイロン – bàn là",
+   "パック – gói; mặt nạ dưỡng da",
+   "ケース – hộp đựng, không đi với かける",
+   "✔ ラップ – màng bọc thực phẩm, đi với かける"
+  ],
+  "trans": "Tôi bọc màng bọc thực phẩm lên chiếc sandwich ăn dở rồi cho vào tủ lạnh.",
+  "note": "ラップをかける = bọc màng bọc thực phẩm. Nhớ cả cụm."
+ },
+ "dethitiengnhat:N3-3-1-q25": {
+  "opts": [
+   "駐車 – đỗ xe (ô tô), không dùng cho xe buýt dừng đón khách",
+   "乗車 – lên xe",
+   "✔ 停車 – ていしゃ, dừng xe (tàu, buýt dừng ở ga)",
+   "発車 – xuất phát"
+  ],
+  "trans": "Xe buýt này không dừng ở ga, xin quý khách lưu ý.",
+  "note": "停車 ĐÌNH XA = dừng xe tạm; 駐車 TRÚ XA = đỗ xe."
+ },
+ "dethitiengnhat:N3-3-1-q26": {
+  "opts": [
+   "全然 – hoàn toàn (không)",
+   "✔ だいたい – đại khái, gần hết ≈ ほとんど",
+   "やっと – cuối cùng cũng",
+   "すぐに – ngay lập tức"
+  ],
+  "trans": "Bài tập gần như xong hết rồi.",
+  "note": "ほとんど = hầu hết, gần như; trong câu khẳng định gần nghĩa だいたい."
+ },
+ "dethitiengnhat:N3-3-1-q27": {
+  "opts": [
+   "✔ 悪いところ – điểm xấu = 欠点",
+   "良いところ – điểm tốt (長所)",
+   "好きなところ – chỗ thích",
+   "嫌いなところ – chỗ ghét"
+  ],
+  "trans": "Tôi muốn sửa những điểm yếu của kế hoạch này.",
+  "note": "欠点 けってん KHUYẾT ĐIỂM = nhược điểm. Trái nghĩa 長所, 利点."
+ },
+ "dethitiengnhat:N3-3-1-q28": {
+  "opts": [
+   "準備 – chuẩn bị",
+   "予定 – dự định",
+   "✔ 規則 – きそく, quy tắc = ルール",
+   "案内 – hướng dẫn"
+  ],
+  "trans": "Hãy tuân thủ luật giao thông.",
+  "note": "ルール = rule = 規則 QUY TẮC. 交通ルール = 交通規則."
+ },
+ "dethitiengnhat:N3-3-1-q29": {
+  "opts": [
+   "期待 – kỳ vọng",
+   "反対 – phản đối (trái nghĩa)",
+   "満足 – hài lòng",
+   "✔ 賛成 – さんせい, tán thành = 同意"
+  ],
+  "trans": "Bố đã đồng ý cho tôi đi du học.",
+  "note": "同意 どうい ĐỒNG Ý = đồng ý, tán thành (賛成)."
+ },
+ "dethitiengnhat:N3-3-1-q3": {
+  "opts": [
+   "さつじょ – không có từ này",
+   "けずじょ – không có; 削 kun là けず(る) nhưng không ghép on-kun kiểu này",
+   "✔ さくじょ – 削除, xóa bỏ (TƯỚC TRỪ)",
+   "けずさく – không có từ này"
+  ],
+  "trans": "Ứng dụng này miễn phí nhưng muốn xóa quảng cáo thì phải trả tiền.",
+  "note": "削 TƯỚC: on さく, kun けず(る). 除 TRỪ: じょ (除く のぞく). 削除 = xóa."
+ },
+ "dethitiengnhat:N3-3-1-q30": {
+  "opts": [
+   "若い – trẻ",
+   "親切な – tốt bụng",
+   "厳しい – nghiêm khắc",
+   "✔ よく知られている – được nhiều người biết đến = 有名"
+  ],
+  "trans": "Ông ấy là bác sĩ nổi tiếng ở thị trấn này.",
+  "note": "有名 ゆうめい HỮU DANH = nổi tiếng."
+ },
+ "dethitiengnhat:N3-3-1-q31": {
+  "opts": [
+   "Sai: thầy ra bài tập nói 宿題を出してもらった",
+   "Sai: tặng quà cho em dùng あげた; 与える quá trang trọng",
+   "✔ Đúng: 感動を与える 'mang lại cảm động' là cụm chuẩn",
+   "Sai: nhờ lấy muối là 頼んだ, không phải 'cho'"
+  ],
+  "trans": "Bài phát biểu của anh ấy đã mang lại cảm động cho nhiều người.",
+  "note": "与える あたえる = ban cho, gây ra (trang trọng); hay đi với danh từ trừu tượng: 影響/感動/印象/チャンスを与える."
+ },
+ "dethitiengnhat:N3-3-1-q32": {
+  "opts": [
+   "Sai: cách đi Tokyo nói 行き方 hoặc 交通手段",
+   "Sai: cách nấu là 作り方",
+   "✔ Đúng: 問題を解決する手段 'biện pháp giải quyết vấn đề'",
+   "Sai: bạn thân là 仲のいい友達"
+  ],
+  "trans": "Suy nghĩ biện pháp để giải quyết vấn đề.",
+  "note": "手段 しゅだん THỦ ĐOẠN = phương tiện, biện pháp để đạt mục đích. Không dùng cho 'cách làm' thông thường."
+ },
+ "dethitiengnhat:N3-3-1-q33": {
+  "opts": [
+   "Sai: vị nhạt là 味が薄い",
+   "✔ Đúng: 地味な服 'quần áo giản dị, màu trầm'",
+   "Sai: phòng tối là 暗い",
+   "Sai: người nghiêm túc là 真面目"
+  ],
+  "trans": "Cô ấy thích quần áo giản dị, toàn mặc màu đen hoặc nâu.",
+  "note": "地味 じみ = giản dị, không nổi bật (quần áo, màu sắc, tính cách). Trái nghĩa 派手 はで."
+ },
+ "dethitiengnhat:N3-3-1-q34": {
+  "opts": [
+   "Sai: chụp ảnh là 写真",
+   "Sai: thấy cảnh núi Phú Sĩ là 景色 / 姿",
+   "Sai: lập kế hoạch là 計画",
+   "✔ Đúng: 会社のイメージを変える 'thay đổi hình ảnh công ty'"
+  ],
+  "trans": "Sản phẩm mới đã thay đổi hình ảnh của công ty.",
+  "note": "イメージ = ấn tượng, hình ảnh trong đầu (không phải ảnh chụp). イメージがいい/悪い, イメージを変える."
+ },
+ "dethitiengnhat:N3-3-1-q35": {
+  "opts": [
+   "✔ Đúng: あちこちの国 'nhiều nước đây đó'",
+   "Sai: dọn gọn là すっきり / きれいに",
+   "Sai: thường xuyên đến là たびたび / よく",
+   "Sai: xe buýt trễ không cần あちこち"
+  ],
+  "trans": "Tôi muốn đi thử nhiều nước khác nhau.",
+  "note": "あちこち = chỗ này chỗ kia, khắp nơi; dùng cho nơi chốn (あちこち探す), không chỉ tần suất."
+ },
+ "dethitiengnhat:N3-3-1-q4": {
+  "opts": [
+   "うれて – 売れて/熟れて 'bán chạy/chín', chữ khác",
+   "✔ ぬれて – 濡れて, bị ướt (NHU)",
+   "ゆれて – 揺れて 'rung lắc', chữ khác",
+   "いれて – 入れて 'cho vào', chữ khác"
+  ],
+  "trans": "Trời mưa đột ngột làm giấy tờ quan trọng bị ướt, không đọc được nữa.",
+  "note": "濡れる ぬれる = bị ướt (bộ 氵). Tha động từ: 濡らす ぬらす."
+ },
+ "dethitiengnhat:N3-3-1-q5": {
+  "opts": [
+   "しるす – 記す 'ghi lại', là động từ, chữ khác",
+   "いん – âm on của 印 (印刷), nhưng ở đây là danh từ đọc kun",
+   "じるし – chỉ xuất hiện khi ghép: 目印 めじるし",
+   "✔ しるし – 印, dấu, ký hiệu (ẤN)"
+  ],
+  "trans": "Hãy đánh dấu vào những trang quan trọng.",
+  "note": "印 ẤN: kun しるし (印をつける đánh dấu), on いん (印刷). じるし chỉ dùng khi ghép sau từ khác (矢印 やじるし)."
+ },
+ "dethitiengnhat:N3-3-1-q6": {
+  "opts": [
+   "✔ たおした – 倒した, quật ngã, đánh bại (ĐẢO)",
+   "おとした – 落とした 'làm rơi', chữ khác",
+   "おろした – 下ろした 'hạ xuống', chữ khác",
+   "こわした – 壊した 'làm hỏng', chữ khác"
+  ],
+  "trans": "Trong trận judo, tôi đã quật ngã đối thủ to hơn mình.",
+  "note": "倒す たおす = làm đổ, đánh bại; 倒れる たおれる = ngã, đổ. Hán Việt ĐẢO (打倒)."
+ },
+ "dethitiengnhat:N3-3-1-q7": {
+  "opts": [
+   "✔ じゅうような – 重要な, quan trọng (TRỌNG YẾU)",
+   "じゅような – thiếu trường âm",
+   "しゅうような – 重 không đọc しゅう",
+   "しゅような – sai cả hai âm"
+  ],
+  "trans": "Tài liệu này dùng trong cuộc họp nên hãy đọc trước phần đặc biệt quan trọng.",
+  "note": "重 TRỌNG đọc じゅう, 要 YẾU đọc よう. Cả hai đều có trường âm: じゅう・よう."
+ },
+ "dethitiengnhat:N3-3-1-q8": {
+  "opts": [
+   "せいごう – không có từ này",
+   "せんごう – 攻 không đọc đục",
+   "せいこう – 成功 'thành công', chữ khác",
+   "✔ せんこう – 専攻, chuyên ngành (CHUYÊN CÔNG)"
+  ],
+  "trans": "Anh ấy từng học chuyên ngành kinh tế ở đại học.",
+  "note": "専 CHUYÊN せん (専門), 攻 CÔNG こう (攻撃). Đồng âm せんこう: 先行, 選考."
+ },
+ "dethitiengnhat:N3-3-1-q9": {
+  "opts": [
+   "✔ 迷いました – まよいました, lạc đường, phân vân (MÊ)",
+   "疑いました – うたがいました 'nghi ngờ'",
+   "惑いました – 惑 HOẶC đọc まど(う), không phải まよう",
+   "述いました – 述 THUẬT đọc の(べる), không có dạng này"
+  ],
+  "trans": "Tôi bị lạc đường, không biết phải làm sao.",
+  "note": "迷う まよう = lạc (道に迷う), phân vân. 迷惑 めいわく ghép cả 迷 và 惑; nhớ 迷 có 米 bên trong."
+ },
+ "dethitiengnhat:N3-30-1-q1": {
+  "opts": [
+   "がんねつ – không có từ này",
+   "✔ かねつ – 加熱, làm nóng, đun nóng (GIA NHIỆT)",
+   "かんねつ – không có từ này",
+   "がねつ – 加 không đọc が"
+  ],
+  "trans": "Trước khi nấu, hãy làm nóng chảo thật kỹ.",
+  "note": "加 GIA đọc か (加える くわえる), 熱 NHIỆT đọc ねつ. Không có ん, không âm đục."
+ },
+ "dethitiengnhat:N3-30-1-q10": {
+  "opts": [
+   "葉局 – 葉 DIỆP 'lá', sai chữ",
+   "薬処 – không có từ này",
+   "薬室 – không có từ này",
+   "✔ 薬局 – やっきょく, hiệu thuốc (DƯỢC CỤC)"
+  ],
+  "trans": "Bị cảm nên tôi mua thuốc ở hiệu thuốc gần nhà.",
+  "note": "薬 DƯỢC (やく) + 局 CỤC (きょく) → やく+きょく = やっきょく (âm ngắt). 薬 có bộ 艹 trên 楽."
+ },
+ "dethitiengnhat:N3-30-1-q11": {
+  "opts": [
+   "✔ 空 – から, rỗng, trống (KHÔNG); cũng đọc そら, あ(く)",
+   "突 – ĐỘT, つ(く) 'đâm'",
+   "宇 – VŨ trong 宇宙, không đọc から",
+   "究 – CỨU trong 研究"
+  ],
+  "trans": "Tôi uống nước đến khi chai rỗng.",
+  "note": "空 KHÔNG: そら bầu trời, から rỗng, あく trống. Các chữ kia đều có bộ 穴/宀 giống nhau, chú ý phần dưới."
+ },
+ "dethitiengnhat:N3-30-1-q12": {
+  "opts": [
+   "端気 – 端 ĐOAN 'đầu mút', không có từ này",
+   "炭気 – 炭 THÁN 'than', không có từ này",
+   "✔ 短気 – たんき, nóng tính (ĐOẢN KHÍ)",
+   "探気 – 探 THÁM 'tìm', không có từ này"
+  ],
+  "trans": "Anh ấy muốn sửa tính nóng nảy, dễ nổi giận của mình.",
+  "note": "短気 = 'khí ngắn' → cộc tính, nóng nảy. 短 ĐOẢN có bộ 矢; đối lập 気が長い."
+ },
+ "dethitiengnhat:N3-30-1-q13": {
+  "opts": [
+   "組かく – 組 TỔ く(む) 'ghép, tổ chức'",
+   "✔ 細かく – こまかく, chi tiết, tỉ mỉ (TẾ)",
+   "畑かく – 畑 はたけ 'ruộng'",
+   "網かく – 網 VÕNG あみ 'lưới'"
+  ],
+  "trans": "Trong sách hướng dẫn, cách dùng được viết rất chi tiết.",
+  "note": "Bốn chữ đều có 糸 hoặc 田 trông gần giống. 細 TẾ = 糸 + 田, nghĩa nhỏ, mảnh, chi tiết."
+ },
+ "dethitiengnhat:N3-30-1-q14": {
+  "opts": [
+   "必配 – 必 TẤT 'nhất định', sai",
+   "芯配 – 芯 しん 'lõi', sai",
+   "心記 – không có từ này",
+   "✔ 心配 – しんぱい, lo lắng (TÂM PHỐI)"
+  ],
+  "trans": "Tôi rất lo không biết bài kiểm tra ngày mai có khó không.",
+  "note": "心 TÂM + 配 PHỐI. 心 (4 nét) khác 必 (5 nét, có nét phẩy xuyên qua)."
+ },
+ "dethitiengnhat:N3-30-1-q15": {
+  "opts": [
+   "すっきり – sảng khoái, gọn gàng",
+   "✔ うっかり – lơ đễnh, vô ý → nhầm tàu",
+   "ばったり – tình cờ gặp / ngã bịch",
+   "ぐっすり – ngủ say"
+  ],
+  "trans": "Vì vội nên tôi lỡ đãng lên nhầm tàu ngược chiều.",
+  "note": "うっかり = sơ ý, vô tình (làm lỗi). Thường đi với 〜てしまう."
+ },
+ "dethitiengnhat:N3-30-1-q16": {
+  "opts": [
+   "✔ 番 – ばん, lượt; 番が回ってくる 'đến lượt'",
+   "役 – vai trò",
+   "係 – người phụ trách",
+   "側 – phía, bên"
+  ],
+  "trans": "Ở karaoke, cuối cùng cũng đến lượt tôi hát.",
+  "note": "番 PHIÊN = lượt, thứ tự: 私の番, 順番. 番が回ってくる = đến lượt."
+ },
+ "dethitiengnhat:N3-30-1-q17": {
+  "opts": [
+   "かいで – 嗅いで, ngửi",
+   "むいて – 剥いて, gọt vỏ",
+   "くだいて – 砕いて, đập vụn",
+   "✔ なめて – 舐めて, liếm, nếm"
+  ],
+  "trans": "Tôi lấy thìa nếm thử một chút mật ong ngọt ngon.",
+  "note": "なめる = liếm, nếm. Mật ong thì 'nếm' bằng thìa, không ngửi hay gọt."
+ },
+ "dethitiengnhat:N3-30-1-q18": {
+  "opts": [
+   "規則 – quy tắc, không ghép 年齢規則",
+   "制度 – chế độ",
+   "✔ 制限 – せいげん, giới hạn; 年齢制限 là cụm quen",
+   "基準 – tiêu chuẩn"
+  ],
+  "trans": "Bộ phim này có giới hạn độ tuổi: trẻ dưới 15 tuổi không được xem.",
+  "note": "年齢制限 giới hạn tuổi, 時間制限, 制限速度. 制限 CHẾ HẠN."
+ },
+ "dethitiengnhat:N3-30-1-q19": {
+  "opts": [
+   "待ち合わせて – hẹn gặp nhau",
+   "✔ 付き合って – つきあって, đi cùng (cho có bạn)",
+   "誘い合って – rủ nhau",
+   "似合って – hợp (quần áo)"
+  ],
+  "trans": "Mai tớ đi mua quần áo ở trung tâm thương mại, đi cùng tớ chút được không?",
+  "note": "付き合う = đi cùng, chiều theo ai đó (買い物に付き合う); cũng nghĩa hẹn hò."
+ },
+ "dethitiengnhat:N3-30-1-q2": {
+  "opts": [
+   "せいゆ – không có từ này",
+   "せきゆう – thừa trường âm",
+   "せっきゅう – không có từ này",
+   "✔ せきゆ – 石油, dầu mỏ (THẠCH DU)"
+  ],
+  "trans": "Nhà máy này sản xuất nhựa từ dầu mỏ.",
+  "note": "石 THẠCH せき, 油 DU ゆ (ngắn, không phải ゆう). 石油ストーブ lò sưởi dầu."
+ },
+ "dethitiengnhat:N3-30-1-q20": {
+  "opts": [
+   "快適 – thoải mái dễ chịu (môi trường)",
+   "夢中 – mải mê",
+   "丁寧 – lịch sự, cẩn thận",
+   "✔ 平気 – へいき, không sao, không hề hấn gì"
+  ],
+  "trans": "Tôi rất thích đồ cay nên dù có nhiều ớt tôi cũng không hề hấn gì.",
+  "note": "平気 BÌNH KHÍ = không sao, bình thản, chịu được. 〜ても平気だ."
+ },
+ "dethitiengnhat:N3-30-1-q21": {
+  "opts": [
+   "✔ 差 – さ, chênh lệch; 点数の差 cách biệt điểm",
+   "額 – số tiền",
+   "幅 – bề rộng",
+   "量 – lượng"
+  ],
+  "trans": "Trận đấu tôi đã cố đến cùng nhưng cách biệt điểm số với đội bạn không rút ngắn được.",
+  "note": "差 SAI = chênh lệch: 点差, 時差, 差が縮まる/広がる."
+ },
+ "dethitiengnhat:N3-30-1-q22": {
+  "opts": [
+   "ざっと – sơ qua",
+   "✔ きちんと – đàng hoàng, chỉn chu",
+   "じっと – im lặng, bất động",
+   "どっと – ào ạt (đám đông, tiếng cười)"
+  ],
+  "trans": "Khi đi phỏng vấn, mặc vest và chào hỏi đàng hoàng là rất quan trọng.",
+  "note": "きちんと = đàng hoàng, ngay ngắn, đúng cách (挨拶, 片付け, 時間を守る)."
+ },
+ "dethitiengnhat:N3-30-1-q23": {
+  "opts": [
+   "✔ おたがいに – お互いに, lẫn nhau; hợp với 助け合う",
+   "かってに – tự tiện",
+   "じゆうに – tự do",
+   "こうごに – 交互に, luân phiên"
+  ],
+  "trans": "Nếu gặp khó khăn thì đừng ngại, hãy giúp đỡ lẫn nhau.",
+  "note": "お互いに = lẫn nhau, đi tự nhiên với động từ 〜合う."
+ },
+ "dethitiengnhat:N3-30-1-q24": {
+  "opts": [
+   "絞って – vắt",
+   "叩いて – gõ, đập",
+   "擦って – chà xát",
+   "✔ 振って – ふって, lắc"
+  ],
+  "trans": "Nước ép này hãy lắc kỹ chai rồi mới rót ra cốc.",
+  "note": "振る ふる = lắc, vẫy (手を振る, よく振ってから). Hán Việt CHẤN."
+ },
+ "dethitiengnhat:N3-30-1-q25": {
+  "opts": [
+   "申し訳ない – áy náy, xin lỗi",
+   "もったいない – lãng phí, tiếc",
+   "✔ めんどうくさい – phiền phức, ngại làm",
+   "思いがけない – bất ngờ"
+  ],
+  "trans": "Giấy tờ này có nhiều chỗ phải viết, thật phiền phức.",
+  "note": "面倒くさい = phiền phức, ngại làm. Khẩu ngữ rút gọn: めんどい."
+ },
+ "dethitiengnhat:N3-30-1-q26": {
+  "opts": [
+   "あまり好きではない – không thích lắm",
+   "まだ慣れていない – chưa quen",
+   "少し苦手な – hơi kém (trái nghĩa)",
+   "✔ とても上手な – rất giỏi = 得意"
+  ],
+  "trans": "Anh Yamada có vẻ giỏi phát biểu trước mọi người.",
+  "note": "得意 とくい ĐẮC Ý = sở trường, giỏi. Trái nghĩa 苦手 にがて."
+ },
+ "dethitiengnhat:N3-30-1-q27": {
+  "opts": [
+   "厚さ – độ dày",
+   "長さ – độ dài",
+   "種類 – chủng loại",
+   "✔ 大きさ – kích cỡ = サイズ"
+  ],
+  "trans": "Hãy đo kích cỡ thùng các-tông rồi mới cho đồ vào.",
+  "note": "サイズ = size = 大きさ."
+ },
+ "dethitiengnhat:N3-30-1-q28": {
+  "opts": [
+   "複雑なところ – chỗ phức tạp",
+   "✔ よくないところ – điểm không tốt = 欠点",
+   "変わったところ – chỗ lạ, khác thường",
+   "難しいところ – chỗ khó"
+  ],
+  "trans": "Chiếc túi này tiện nhưng có một nhược điểm.",
+  "note": "欠点 けってん KHUYẾT ĐIỂM = nhược điểm."
+ },
+ "dethitiengnhat:N3-30-1-q29": {
+  "opts": [
+   "✔ 大声で怒らないで – đừng quát to = どなる",
+   "文句を言わないで – đừng phàn nàn",
+   "無視しないで – đừng phớt lờ",
+   "泣き出さないで – đừng bật khóc"
+  ],
+  "trans": "Dù đối phương có sai thì cũng đừng quát mắng như thế.",
+  "note": "怒鳴る どなる = quát, hét lớn vì giận."
+ },
+ "dethitiengnhat:N3-30-1-q3": {
+  "opts": [
+   "✔ せんしゅ – 選手, tuyển thủ, vận động viên (TUYỂN THỦ)",
+   "せっじゅ – không có từ này",
+   "せんじゅ – 手 không đọc đục ở đây",
+   "せっしゅ – 摂取 'hấp thu', chữ khác"
+  ],
+  "trans": "Sau động đất, một cầu thủ bóng đá nổi tiếng đã đến thăm trường.",
+  "note": "選 TUYỂN せん (選ぶ えらぶ), 手 THỦ しゅ. Không đục, không âm ngắt."
+ },
+ "dethitiengnhat:N3-30-1-q30": {
+  "opts": [
+   "調べて – tra cứu",
+   "写して – chép lại",
+   "✔ 覚えて – ghi nhớ = 暗記",
+   "まとめて – tổng hợp"
+  ],
+  "trans": "Để chuẩn bị cho bài kiểm tra ngày mai, hãy học thuộc các từ trong danh sách này.",
+  "note": "暗記 あんき ÁM KÝ = học thuộc lòng."
+ },
+ "dethitiengnhat:N3-30-1-q31": {
+  "opts": [
+   "Sai: không nhớ → 記憶がない",
+   "Sai: lẽ thường của người đi làm → 常識",
+   "✔ Đúng: いろいろな分野の知識を身につける 'tích lũy kiến thức'",
+   "Sai: ký ức tuổi thơ → 記憶 / 思い出"
+  ],
+  "trans": "Tôi muốn đọc nhiều sách để tích lũy kiến thức ở nhiều lĩnh vực.",
+  "note": "知識 ちしき TRI THỨC = kiến thức học được; 常識 lẽ thường; 記憶 ký ức. 知識を身につける/得る."
+ },
+ "dethitiengnhat:N3-30-1-q32": {
+  "opts": [
+   "Sai: tính chất của vải → 性質",
+   "✔ Đúng: 明るくて優しい性格 'tính cách vui vẻ, dịu dàng'",
+   "Sai: thái độ không nghiêm túc → 態度",
+   "Sai: tâm trạng xấu → 機嫌が悪い"
+  ],
+  "trans": "Chị tôi tính cách vui vẻ, dịu dàng nên được mọi người quý mến.",
+  "note": "性格 せいかく TÍNH CÁCH dùng cho người; đồ vật dùng 性質; tâm trạng nhất thời là 機嫌."
+ },
+ "dethitiengnhat:N3-30-1-q33": {
+  "opts": [
+   "Sai: mệt rã rời → ぐったり",
+   "Sai: buộc chặt → しっかり / きつく",
+   "✔ Đúng: 朝までぐっすり眠る 'ngủ say đến sáng'",
+   "Sai: xem TV thong thả → のんびり"
+  ],
+  "trans": "Hôm qua tôi rất mệt nên đã ngủ một mạch ngon lành đến sáng.",
+  "note": "ぐっすり chỉ đi với 眠る/寝る = ngủ say. Dễ nhầm với ぐったり (mệt lả)."
+ },
+ "dethitiengnhat:N3-30-1-q34": {
+  "opts": [
+   "Sai: xóa chữ bằng tẩy → 消す",
+   "Sai: tẩy vết bẩn → 落とす",
+   "Sai: lấy lại đồ bị trộm → 取り返す",
+   "✔ Đúng: 予約を取り消す 'hủy đặt phòng'"
+  ],
+  "trans": "Có việc gấp nên tôi đã hủy đặt phòng khách sạn ngày mai.",
+  "note": "取り消す とりけす = hủy bỏ (đặt chỗ, phát ngôn, đơn): 予約/注文/発言を取り消す = キャンセル."
+ },
+ "dethitiengnhat:N3-30-1-q35": {
+  "opts": [
+   "Sai: địa chỉ mới của thư → 住所 / 宛先",
+   "Sai: hướng đi sau tốt nghiệp → 進路",
+   "✔ Đúng: バスの行き先 'điểm đến của xe buýt'",
+   "Sai: đầu bút chì → 先 / 先端"
+  ],
+  "trans": "Trước khi lên xe buýt, nên kiểm tra xem xe này đi đâu.",
+  "note": "行き先 いきさき/ゆきさき = nơi đến (của xe, chuyến đi). Hay thấy trên biển xe buýt, tàu."
+ },
+ "dethitiengnhat:N3-30-1-q4": {
+  "opts": [
+   "かく – thiếu âm đục",
+   "けぐ – 家 không đọc け ở đây",
+   "✔ かぐ – 家具, đồ nội thất (GIA CỤ)",
+   "かこう – không có từ này"
+  ],
+  "trans": "Tôi đang tìm trên mạng đồ nội thất để đặt trong phòng mới.",
+  "note": "家 GIA か/いえ/うち, 具 CỤ ぐ (道具 どうぐ). 家具 = đồ nội thất."
+ },
+ "dethitiengnhat:N3-30-1-q5": {
+  "opts": [
+   "そこ – 底 'đáy', chữ khác",
+   "✔ うら – 裏, mặt sau (LÝ)",
+   "すみ – 隅 'góc', chữ khác",
+   "はし – 端 'mép, đầu', chữ khác"
+  ],
+  "trans": "Tôi ghi ngày chụp và địa điểm vào mặt sau tấm ảnh.",
+  "note": "裏 うら mặt sau ↔ 表 おもて mặt trước. 裏口 cửa sau, 裏切る phản bội."
+ },
+ "dethitiengnhat:N3-30-1-q6": {
+  "opts": [
+   "ぬらして – 濡らして 'làm ướt', chữ khác",
+   "はずして – 外して 'tháo ra', chữ khác",
+   "くずして – 崩して 'làm sụp', chữ khác",
+   "✔ よごして – 汚して, làm bẩn (Ô)"
+  ],
+  "trans": "Tôi làm đổ cà phê, làm bẩn bộ quần áo quý.",
+  "note": "汚す よごす làm bẩn, 汚れる よごれる bị bẩn, 汚い きたない bẩn. Hán Việt Ô (汚染)."
+ },
+ "dethitiengnhat:N3-30-1-q7": {
+  "opts": [
+   "てきと – thiếu trường âm",
+   "✔ てきとう – 適当, phù hợp, vừa phải (THÍCH ĐÁNG)",
+   "てっこう – 鉄鋼 'thép', chữ khác",
+   "てきこう – không có từ này"
+  ],
+  "trans": "Hãy chọn phòng có kích cỡ phù hợp với số người.",
+  "note": "適 THÍCH てき, 当 ĐÁNG とう. 適当 vừa nghĩa 'phù hợp' vừa nghĩa 'qua loa' tùy ngữ cảnh."
+ },
+ "dethitiengnhat:N3-30-1-q8": {
+  "opts": [
+   "あさかん – 朝 không đọc kun khi ghép với 刊",
+   "あさきん – không có từ này",
+   "ちょうきん – 刊 không đọc きん",
+   "✔ ちょうかん – 朝刊, báo buổi sáng (TRIÊU SAN)"
+  ],
+  "trans": "Bố tôi sáng nào cũng đọc báo sáng trước khi đi làm.",
+  "note": "朝 TRIÊU ちょう (朝食), 刊 SAN かん (週刊). Đối lập 夕刊 ゆうかん báo chiều."
+ },
+ "dethitiengnhat:N3-30-1-q9": {
+  "opts": [
+   "報律 – 報 BÁO 'báo tin', sai",
+   "✔ 法律 – ほうりつ, pháp luật (PHÁP LUẬT)",
+   "法率 – 率 SUẤT 'tỷ lệ', sai",
+   "宝律 – 宝 BẢO 'báu vật', sai"
+  ],
+  "trans": "Ở nước này, một đạo luật mới đã được ban hành.",
+  "note": "法律 đúng như Hán Việt PHÁP LUẬT. 律 LUẬT (bộ 彳) khác 率 SUẤT (合格率)."
+ },
+ "dethitiengnhat:N3-31-1-q1": {
+  "opts": [
+   "じゅうでん – 充電 'sạc pin', chữ khác",
+   "✔ じゅうてん – 重点, trọng điểm (TRỌNG ĐIỂM)",
+   "しゅうてん – 終点 'điểm cuối', chữ khác",
+   "しゅうでん – 終電 'chuyến tàu cuối', chữ khác"
+  ],
+  "trans": "Tôi đã tóm tắt những điểm trọng tâm của câu chuyện.",
+  "note": "重 TRỌNG じゅう, 点 ĐIỂM てん (không đục). Đồng âm gần: 充電 じゅうでん sạc điện."
+ },
+ "dethitiengnhat:N3-31-1-q10": {
+  "opts": [
+   "歩路 – không có từ này",
+   "✔ 歩道 – ほどう, vỉa hè, đường đi bộ (BỘ ĐẠO)",
+   "通道 – không dùng trong tiếng Nhật",
+   "道歩 – ngược thứ tự, không có"
+  ],
+  "trans": "Hãy đi trên vỉa hè.",
+  "note": "歩道 BỘ ĐẠO; 横断歩道 おうだんほどう vạch qua đường; 車道 しゃどう lòng đường."
+ },
+ "dethitiengnhat:N3-31-1-q11": {
+  "opts": [
+   "性各 – 各 CÁC 'mỗi', sai",
+   "正格 – không có từ này (正確 せいかく mới là 'chính xác')",
+   "✔ 性格 – せいかく, tính cách (TÍNH CÁCH)",
+   "生格 – không có từ này"
+  ],
+  "trans": "Anh tôi có tính cách hiền lành.",
+  "note": "Đồng âm せいかく: 性格 tính cách / 正確 chính xác. Ở đây nói tính người → 性格."
+ },
+ "dethitiengnhat:N3-31-1-q12": {
+  "opts": [
+   "測りました – はかりました 'đo'",
+   "浅りました – 浅 THIỂN là tính từ あさい, không có dạng này",
+   "✔ 減りました – へりました, giảm (GIẢM)",
+   "省りました – 省 TỈNH đọc はぶ(く), không phải へる"
+  ],
+  "trans": "Số người tham dự giảm đi một chút.",
+  "note": "減る へる giảm (tự động) ↔ 増える ふえる tăng. 減らす へらす làm giảm."
+ },
+ "dethitiengnhat:N3-31-1-q13": {
+  "opts": [
+   "当たり – cũng đọc あたり nhưng nghĩa 'trúng' (当たる), không phải vùng",
+   "✔ 辺り – あたり, khu vực xung quanh (BIÊN)",
+   "周り – まわり 'xung quanh', đọc khác",
+   "近り – không có chữ này"
+  ],
+  "trans": "Quanh ga có nhiều cửa hàng.",
+  "note": "辺り あたり = vùng quanh đó (この辺り). 当たり cùng âm nhưng là 'trúng, đúng'."
+ },
+ "dethitiengnhat:N3-31-1-q14": {
+  "opts": [
+   "押つ – 押 ÁP đọc お(す) 'ấn'",
+   "記つ – 記 KÝ đọc しる(す)",
+   "写つ – 写 TẢ đọc うつ(す) 'chép, chụp', không phải うつ",
+   "✔ 打つ – うつ, gõ, đánh (ĐẢ)"
+  ],
+  "trans": "Gõ chữ bằng máy tính.",
+  "note": "打つ うつ gõ, đánh (文字を打つ, ボールを打つ). 写す うつす cùng gốc âm nhưng là 'chép, chụp'."
+ },
+ "dethitiengnhat:N3-31-1-q15": {
+  "opts": [
+   "もったいない – lãng phí, tiếc của",
+   "✔ しかたない – 仕方ない, đành chịu, hết cách",
+   "なつかしい – hoài niệm",
+   "おそろしい – đáng sợ"
+  ],
+  "trans": "Quên ví ở nhà, không mua sắm được thì cũng đành chịu thôi.",
+  "note": "仕方(が)ない = không còn cách nào, đành chịu = しょうがない."
+ },
+ "dethitiengnhat:N3-31-1-q16": {
+  "opts": [
+   "組み立てて – lắp ráp từ các bộ phận",
+   "取り消して – hủy bỏ",
+   "取り替えて – thay thế (phải có cái cũ)",
+   "✔ 取り付けて – とりつけて, gắn, lắp vào"
+  ],
+  "trans": "Người của cửa hàng đến lắp đèn mới lên trần bếp cho tôi.",
+  "note": "取り付ける = lắp đặt, gắn (エアコン/ライトを取り付ける). 取り替える là đổi cái cũ lấy cái mới."
+ },
+ "dethitiengnhat:N3-31-1-q17": {
+  "opts": [
+   "予想 – dự đoán",
+   "想像 – tưởng tượng",
+   "✔ 決意 – けつい, quyết tâm; 留学を決意する",
+   "予報 – dự báo (thời tiết)"
+  ],
+  "trans": "Muốn học thêm về văn hóa nước ngoài nên tôi đã quyết tâm đi du học.",
+  "note": "決意 QUYẾT Ý = quyết tâm (mạnh hơn 決める). 決意する = 決心する."
+ },
+ "dethitiengnhat:N3-31-1-q18": {
+  "opts": [
+   "✔ 預けて – あずけて, gửi nhờ giữ",
+   "届けて – giao đến, nộp",
+   "送って – gửi đi",
+   "渡して – trao cho"
+  ],
+  "trans": "Hành lý to vướng víu nên tôi gửi ở quầy lễ tân khách sạn rồi đi mua sắm.",
+  "note": "預ける = gửi nhờ giữ hộ (荷物/お金/子どもを預ける)."
+ }
+}

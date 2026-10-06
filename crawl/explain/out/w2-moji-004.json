@@ -1,0 +1,802 @@
+{
+ "challenge:N3KW0194": {
+  "opts": [
+   "気湿 – không có từ này (湿 là 'ẩm', しつ)",
+   "体温 – たいおん, nhiệt độ cơ thể (THỂ ÔN), không nói về núi",
+   "✔ 気温 – きおん, nhiệt độ không khí (KHÍ ÔN)",
+   "気音 – không có từ này (音 là 'âm thanh')"
+  ],
+  "trans": "Trên núi nhiệt độ thấp nên tôi mang theo áo khoác.",
+  "note": "気温 KHÍ ÔN. 温 có bộ nước さんずい (氵) bên trái; đừng nhầm với 湿 (ẩm) hay 音 (âm)."
+ },
+ "challenge:N3KW0195": {
+  "opts": [
+   "✔ 日差し – ひざし, ánh nắng chiếu xuống (NHẬT SAI)",
+   "日指し – không có từ này (指 = ngón tay, chỉ trỏ)",
+   "日刺し – không có từ này (刺 = đâm, châm)",
+   "日挿し – không có từ này (挿 = cắm vào)"
+  ],
+  "trans": "Tôi tránh cái nắng gắt mùa hè, nghỉ dưới gốc cây.",
+  "note": "差す = 'chiếu (nắng)', nên 日差し viết với 差. Ba chữ 指・刺・挿 đều đọc さす nhưng nghĩa khác, không đi với 日."
+ },
+ "challenge:N3KW0196": {
+  "opts": [
+   "朝日 – あさひ, mặt trời buổi sáng (TRIỀU NHẬT), sai thời điểm",
+   "外日 – không có từ này",
+   "✔ 夕日 – ゆうひ, mặt trời lặn buổi chiều (TỊCH NHẬT)",
+   "夕目 – không có từ này (目 = mắt)"
+  ],
+  "trans": "Bầu trời đỏ dần, phía bên kia núi hiện ra mặt trời lặn.",
+  "note": "夕 TỊCH = buổi chiều tối; 夕方 (ゆうがた), 夕食 (ゆうしょく). Trời đỏ + 'bên kia núi' là dấu hiệu hoàng hôn."
+ },
+ "challenge:N3KW0197": {
+  "opts": [
+   "日隠 – không có từ này (隠 = giấu, かくす)",
+   "日階 – không có từ này (階 = tầng)",
+   "日光 – にっこう, ánh sáng mặt trời (NHẬT QUANG), ngược nghĩa",
+   "✔ 日陰 – ひかげ, chỗ râm, bóng mát (NHẬT ÂM)"
+  ],
+  "trans": "Loại cây này ở chỗ râm vẫn lớn tốt.",
+  "note": "陰 ÂM = bóng tối, phía khuất nắng; bộ 阝 bên trái. でも ('ngay cả') cho thấy chỗ râm là điều kiện không thuận lợi."
+ },
+ "challenge:N3KW0198": {
+  "opts": [
+   "池面 – không có từ này ở nghĩa này (池 = ao, いけ)",
+   "✔ 地面 – じめん, mặt đất (ĐỊA DIỆN)",
+   "地免 – không có từ này (免 = miễn)",
+   "地画 – không có từ này (画 = vẽ, tranh)"
+  ],
+  "trans": "Quả bóng rơi xuống nảy lên trên mặt đất.",
+  "note": "地 ĐỊA đọc じ (地震 じしん, 地面 じめん) hoặc ち (地図 ちず). 面 DIỆN = bề mặt. Phân biệt 地 (đất) với 池 (ao, có bộ nước)."
+ },
+ "challenge:N3KW0199": {
+  "opts": [
+   "天丼 – てんどん, cơm tempura, món ăn",
+   "天上 – てんじょう, trên trời/cõi trời (THIÊN THƯỢNG), không phải trần nhà",
+   "✔ 天井 – てんじょう, trần nhà (THIÊN TỈNH)",
+   "天升 – không có từ này"
+  ],
+  "trans": "Trên trần phòng có gắn một cái đèn tròn.",
+  "note": "Trần nhà là 天井 với chữ 井 TỈNH (cái giếng). 天上 cũng đọc てんじょう nhưng nghĩa 'trên trời', không gắn đèn được."
+ },
+ "challenge:N3KW0200": {
+  "opts": [
+   "票面 – không dùng trong văn thường (票 = phiếu)",
+   "表免 – không có từ này (免 = miễn)",
+   "裏面 – りめん, mặt sau, mặt trái (LÝ DIỆN), ngược nghĩa",
+   "✔ 表面 – ひょうめん, bề mặt (BIỂU DIỆN)"
+  ],
+  "trans": "Trên mặt nước có một chiếc lá đang nổi.",
+  "note": "表 BIỂU = mặt ngoài, 裏 LÝ = mặt trong. 表 đọc ひょう (表面, 発表), còn 票 có bộ 示 là 'phiếu' (投票)."
+ },
+ "challenge:N3V0001": {
+  "opts": [
+   "明き – 'sáng/khoảng hở', không ghép với 缶 thành từ",
+   "✔ 空き – 'rỗng, trống', 空き缶 = lon rỗng, đúng với chuyện đổ rác",
+   "飽き – 'chán', chỉ cảm xúc, không hợp",
+   "開き – 'mở ra', không ghép thành 開き缶"
+  ],
+  "trans": "Lon rỗng xin hãy bỏ vào ngày rác không cháy, thứ Năm cách tuần.",
+  "note": "空き缶 (あきかん) lon rỗng, 空き瓶 chai rỗng, 空き家 nhà bỏ trống. Đều viết 空 KHÔNG."
+ },
+ "challenge:N3V0002": {
+  "opts": [
+   "✔ 息 – 'hơi thở', 息を吐く = thở ra, hơi thở trắng vì lạnh",
+   "気 – 'khí, tinh thần', không nói 気を吐く theo nghĩa này",
+   "吸 – chỉ là chữ Hán 'hút', không đứng một mình",
+   "流 – chữ 'chảy', không phải danh từ"
+  ],
+  "trans": "Trời đột nhiên lạnh. Sáng nay hơi thở tôi thở ra trắng xóa.",
+  "note": "息 (いき) đi với 吐く (thở ra) và 吸う (hít vào). Hơi thở 'trắng' là hình ảnh trời rất lạnh."
+ },
+ "challenge:N3V0003": {
+  "opts": [
+   "カード – 'thẻ', không có màu đen hết được",
+   "✔ インク – 'mực', mực đen máy in hết nên đi mua",
+   "コード – 'dây cáp', không 'hết' được",
+   "カラー – 'màu', 黒カラー không tự nhiên"
+  ],
+  "trans": "Mực đen của máy in hết mất nên tôi vội đi mua.",
+  "note": "インク = ink. Với máy in nói 黒インク/カラーインク, cái 'hết' (なくなる) phải là vật tiêu hao."
+ },
+ "challenge:N3V0004": {
+  "opts": [
+   "✔ 営業 – 'kinh doanh, bán hàng', công việc gặp khách hàng",
+   "経営 – 'quản lý, điều hành (công ty)', không phải vị trí nói chuyện với khách",
+   "経験 – 'kinh nghiệm', không phải nghề",
+   "経済 – 'kinh tế', không phải công việc"
+  ],
+  "trans": "Tôi làm sales bảo hiểm. Nói chuyện với khách hàng rất vui.",
+  "note": "営業 (えいぎょう) DOANH NGHIỆP = bán hàng/kinh doanh; 営業の仕事 = làm sales. 経営 (けいえい) = điều hành."
+ },
+ "challenge:N3V0005": {
+  "opts": [
+   "おにぎり – 'cơm nắm', một món cụ thể, không đối với 'thứ ghét'",
+   "食卓 – 'bàn ăn', không ăn được",
+   "お皿 – 'cái đĩa', không ăn được",
+   "✔ おかず – 'thức ăn (đồ ăn kèm cơm)', món thích ăn trước, món ghét để sau"
+  ],
+  "trans": "Hồi nhỏ tôi ăn trước những món mình thích, món ghét thì để lại đến cuối.",
+  "note": "おかず = các món ăn kèm cơm. 好きなおかず / 嫌いなおかず là cặp rất thường gặp."
+ },
+ "challenge:N3V0007": {
+  "opts": [
+   "収集 – 'thu thập, sưu tầm', dùng cho sở thích hoặc rác nói chung",
+   "回覧 – 'chuyền tay xem (thông báo)', không hợp",
+   "集合 – 'tập hợp (người)', không hợp",
+   "✔ 回収 – 'thu hồi, thu gom', 回収を行う = tổ chức thu gom đồ tái chế"
+  ],
+  "trans": "Siêu thị này có tổ chức thu gom những đồ có thể tái chế.",
+  "note": "回収 (かいしゅう) HỒI THU = thu lại, thu gom (vỏ chai, pin, hàng lỗi). 収集 thiên về sưu tầm."
+ },
+ "challenge:N3V0008": {
+  "opts": [
+   "せっかく – 'mất công, hiếm có dịp', không đi với 'quên'",
+   "しっかり – 'chắc chắn, vững vàng', ngược ý",
+   "ぴったり – 'vừa khít', không hợp",
+   "✔ うっかり – 'lỡ, vô ý', うっかり忘れる = lỡ quên"
+  ],
+  "trans": "Tôi lỡ quên nộp báo cáo hạn đến hôm qua, giờ phải làm sao ạ?",
+  "note": "うっかり = sơ ý, đãng trí. Cụm うっかり忘れる / うっかりミス rất quen, nên thuộc lòng."
+ },
+ "challenge:N3V0009": {
+  "opts": [
+   "植える – 'trồng (cây)'",
+   "✔ 稼ぐ – 'kiếm (tiền)', お金を稼ぐ",
+   "回す – 'xoay, chuyển', お金を回す = xoay vòng vốn, không phải kiếm",
+   "掻く – 'gãi', 汗をかく"
+  ],
+  "trans": "Đi làm để kiếm tiền không hề đơn giản.",
+  "note": "稼ぐ (かせぐ) = kiếm tiền bằng lao động. Cặp cố định お金を稼ぐ, 生活費を稼ぐ."
+ },
+ "challenge:N3V0010": {
+  "opts": [
+   "不幸 – 'bất hạnh', không nói 'có bất hạnh' kiểu cảnh báo",
+   "災難 – 'tai họa', thường chỉ việc đã xảy ra",
+   "✔ 危険 – 'nguy hiểm', 危険があります = có nguy cơ (bị bỏng)",
+   "冒険 – 'phiêu lưu', nghĩa khác hẳn"
+  ],
+  "trans": "Nếu dùng sai cách sẽ có nguy cơ bị bỏng v.v.",
+  "note": "危険 (きけん) NGUY HIỂM. Cụm cảnh báo ～おそれ/危険があります. 冒険 (ぼうけん) cũng có 険 nhưng là 'phiêu lưu'."
+ },
+ "challenge:N3V0011": {
+  "opts": [
+   "のよう – cần 子供のような/に, không nối trực tiếp với んじゃない",
+   "らしい – 子供らしい = 'đúng chất trẻ con' (khen), không hợp ý chê",
+   "✔ っぽい – 子供っぽい = 'trẻ con, nhí nhố' (chê), đúng sắc thái",
+   "みたい – cần 子供みたいな, không nối trực tiếp"
+  ],
+  "trans": "Bộ đồ đó hơi trẻ con đấy? Cậu nên mặc chững chạc hơn một chút.",
+  "note": "っぽい gắn vào danh từ tạo tính từ, thường mang ý chê: 子供っぽい, 安っぽい. らしい lại là khen 'đúng kiểu'."
+ },
+ "challenge:N3V0012": {
+  "opts": [
+   "ご不在 – 'vắng mặt', không hợp",
+   "✔ ご自由 – ご自由にお使いください = 'xin cứ tự nhiên sử dụng'",
+   "ご利用 – 'sử dụng', không nói ご利用にお使い (lặp)",
+   "ご自在 – không dùng kiểu này"
+  ],
+  "trans": "Máy tính đặt ở đây quý khách nào cũng có thể tự do sử dụng.",
+  "note": "ご自由に (ごじゆうに) = tùy ý, thoải mái. Mẫu kính ngữ quen: ご自由にお使いください / お取りください."
+ },
+ "challenge:N3V0013": {
+  "opts": [
+   "とにかく – 'dù sao thì', không chỉ mức độ",
+   "ずっと – 'suốt' hoặc 'hơn hẳn' (khi so sánh), không hợp với 違う đơn thuần",
+   "✔ ずいぶん – 'khá nhiều, đáng kể', ずいぶん違う = khác nhau nhiều",
+   "あまりに – 'quá mức', thường đi với kết quả xấu ở sau"
+  ],
+  "trans": "Cùng là trường tiếng Nhật nhưng không khí mỗi trường khác nhau khá nhiều.",
+  "note": "ずいぶん (随分) = khá, đáng kể, bổ nghĩa mức độ cho động từ/tính từ."
+ },
+ "challenge:N3V0014": {
+  "opts": [
+   "全体 – 'toàn thể, tổng thể', không chỉ địa lý",
+   "全長 – 'tổng chiều dài'",
+   "全部 – 'tất cả', 日本全部 không tự nhiên",
+   "✔ 全国 – 'toàn quốc', 日本全国に = khắp nước Nhật"
+  ],
+  "trans": "Cửa hàng này có khắp nước Nhật nên chắc nhiều người biết.",
+  "note": "全国 (ぜんこく) TOÀN QUỐC, hay thấy: 全国大会, 全国チェーン."
+ },
+ "challenge:N3V0015": {
+  "opts": [
+   "だんだん – 'dần dần', không hợp với hành động một lần",
+   "ゆっくり – 'thong thả', ngược ý vội",
+   "✔ そろそろ – 'sắp đến lúc, cũng đến giờ', そろそろ帰る",
+   "次第に – 'dần dần', trang trọng, không hợp"
+  ],
+  "trans": "Hôm nay 7 giờ có trận bóng đá nên tôi cũng phải về dần rồi.",
+  "note": "そろそろ = đến lúc làm gì rồi; そろそろ失礼します là câu chào về rất quen."
+ },
+ "challenge:N3V0016": {
+  "opts": [
+   "チーム – 'đội'",
+   "チェック – 'kiểm tra'",
+   "データ – 'dữ liệu'",
+   "✔ タイプ – 'loại, kiểu', いろいろなタイプの保険"
+  ],
+  "trans": "Có nhiều loại bảo hiểm khác nhau nên phải chọn sản phẩm hợp với mình.",
+  "note": "タイプ = type, loại; ～タイプの = loại… Đồng nghĩa với 種類."
+ },
+ "challenge:N3V0018": {
+  "opts": [
+   "とつぜん – 'đột nhiên', không hợp với việc chờ lâu",
+   "さらに – 'hơn nữa'",
+   "✔ ついに – 'cuối cùng thì', sau thời gian dài",
+   "さっそく – 'ngay lập tức'"
+  ],
+  "trans": "Cây cầu thi công suốt nhiều năm cuối cùng đã hoàn thành tuần trước.",
+  "note": "ついに = cuối cùng (sau quá trình dài), kết quả tốt hoặc xấu đều được. Gợi ý: 長年 (nhiều năm)."
+ },
+ "challenge:N3V0019": {
+  "opts": [
+   "ない – 連絡がない = 'không có liên lạc', nhưng câu có 電話をしても (mình gọi) nên không hợp",
+   "こない – 連絡がこない = 'không thấy họ liên lạc'",
+   "✔ つかない – 連絡がつかない = 'không liên lạc được' (dù gọi nhiều lần)",
+   "通じない – 電話が通じない thì được, 連絡が通じない không tự nhiên"
+  ],
+  "trans": "Gọi điện bao nhiêu lần cũng không liên lạc được với anh ấy nên tôi lo.",
+  "note": "連絡がつく = liên lạc được; 連絡がつかない = không liên lạc được. Cụm cố định nên nhớ nguyên cụm."
+ },
+ "challenge:N3V0020": {
+  "opts": [
+   "適当な – 'phù hợp' hoặc 'qua loa', cần 自分に適した mới ổn, không tự nhiên",
+   "配る – 'phân phát'",
+   "✔ 似合う – 'hợp (với người)', 自分に似合う髪型",
+   "合わせる – 'làm cho khớp', nghĩa chủ động, sai"
+  ],
+  "trans": "Tôi muốn được làm kiểu tóc hợp với mình nên đã hỏi ý thợ làm tóc.",
+  "note": "似合う (にあう) = hợp với ai (quần áo, kiểu tóc). Dạng Nに似合う."
+ },
+ "challenge:N3V0021": {
+  "opts": [
+   "✔ 広げる – 'mở rộng', 視野を広げる (cụm cố định)",
+   "ふくらませる – 'làm phồng lên', 夢をふくらませる",
+   "拡大する – 'mở rộng (quy mô)', không đi với 視野",
+   "伸ばす – 'kéo dài, phát triển', 能力を伸ばす"
+  ],
+  "trans": "Tôi nghĩ du học khi còn trẻ để mở rộng tầm nhìn là điều tốt.",
+  "note": "視野を広げる = mở rộng tầm nhìn/hiểu biết. Nhớ theo cụm."
+ },
+ "challenge:N3V0022": {
+  "opts": [
+   "こそこそ – 'lén lút'",
+   "✔ ぶらぶら – 'lang thang, thong dong', ぶらぶらする",
+   "そろそろ – 'sắp đến lúc', không phải động tác",
+   "てくてく – 'đi bộ cặm cụi', không đi với する"
+  ],
+  "trans": "Kỳ nghỉ tới không có kế hoạch gì đặc biệt nên tôi định một mình lang thang dạo phố.",
+  "note": "ぶらぶら = đi dạo không mục đích, hoặc ở không. Đi với する."
+ },
+ "challenge:N3V0023": {
+  "opts": [
+   "下げて – 'hạ xuống' (tha động từ, cần người làm)",
+   "✔ 減って – 'giảm đi', 子供の数が減っている",
+   "落ちて – 'rơi, sụt', 数が落ちる không tự nhiên",
+   "少なくて – tính từ, không đi với いる"
+  ],
+  "trans": "Người ta nói do ảnh hưởng của xu hướng kết hôn muộn, số trẻ em đang giảm.",
+  "note": "減る (へる) tự động từ = giảm; 減らす = làm giảm. 数が減る là cặp thường dùng."
+ },
+ "challenge:N3V0024": {
+  "opts": [
+   "✔ ほうき – 'cái chổi' (箒)",
+   "ほき – không có từ này",
+   "ほきい – không có từ này",
+   "ほっき – không có từ này"
+  ],
+  "trans": "Trước hết hãy quét sàn bằng chổi, sau đó lau bằng giẻ.",
+  "note": "ほうき có trường âm ほう. Cặp liên quan: ほうきで掃く, 雑巾がけ (lau bằng giẻ)."
+ },
+ "challenge:N3V0025": {
+  "opts": [
+   "肌 – 'da'",
+   "目的 – 'mục đích'",
+   "✔ 枕 – 'gối', gối hợp với mình để ngủ ngon",
+   "条件 – 'điều kiện'"
+  ],
+  "trans": "Để ngủ ngon thì nên dùng chiếc gối hợp với mình.",
+  "note": "枕 (まくら) = gối. 眠る (ngủ) là gợi ý trực tiếp."
+ },
+ "challenge:N3V0026": {
+  "opts": [
+   "風景 – 'phong cảnh'",
+   "✔ 見た目 – 'vẻ bề ngoài', 見た目で判断する",
+   "眺望 – 'tầm nhìn (cảnh)'",
+   "眺め – 'cảnh nhìn ra'"
+  ],
+  "trans": "Người ta bảo đánh giá người khác qua vẻ bề ngoài là không tốt, nhưng khó mà làm được.",
+  "note": "見た目 (みため) = bề ngoài, cái nhìn thấy. Đồng nghĩa 外見."
+ },
+ "challenge:N3V0027": {
+  "opts": [
+   "虫食い – 'bị sâu/mọt ăn' (quần áo, sách)",
+   "防虫 – 'chống côn trùng'",
+   "口虫 – không có từ này",
+   "✔ 虫歯 – 'sâu răng'"
+  ],
+  "trans": "Cứ ăn toàn đồ ngọt thế là bị sâu răng đấy.",
+  "note": "虫歯 (むしば) TRÙNG XỈ = sâu răng. Đồ ngọt → sâu răng, suy ra ngay."
+ },
+ "challenge:N3V0029": {
+  "opts": [
+   "絨毯 – 'thảm (trải sàn)'",
+   "ハンカチ – 'khăn tay', quá nhỏ",
+   "袋 – 'túi'",
+   "✔ 毛布 – 'chăn len', 毛布をかける = đắp chăn"
+  ],
+  "trans": "Phòng lạnh nên tôi đắp chăn cho đứa bé đang ngủ.",
+  "note": "毛布 (もうふ) MAO BỐ = chăn. 布団をかける / 毛布をかける = đắp (chăn)."
+ },
+ "challenge:N3V0030": {
+  "opts": [
+   "✔ 約束 – 'lời hẹn', 約束をする = hẹn với ai",
+   "予定 – 'dự định', 予定をする không tự nhiên (予定がある)",
+   "予約 – 'đặt chỗ', với vé/bàn chứ không phải với người",
+   "規約 – 'điều lệ'"
+  ],
+  "trans": "Tôi đã hẹn với bạn gái Chủ nhật tới đi xem phim.",
+  "note": "約束 (やくそく) ƯỚC THÚC = lời hẹn giữa người với người. 予約 là đặt trước dịch vụ."
+ },
+ "challenge:N3V0031": {
+  "opts": [
+   "家料 – không có từ này",
+   "家費 – không có từ này",
+   "家代 – không có từ này",
+   "✔ 家賃 – 'tiền thuê nhà' (やちん)"
+  ],
+  "trans": "Phòng tôi đang thuê quy định đóng tiền nhà tháng sau vào ngày 27 hằng tháng.",
+  "note": "家賃 (やちん) GIA NHẪM. Chú ý 家 đọc や (家賃, 大家 おおや chủ nhà)."
+ },
+ "challenge:N3V0032": {
+  "opts": [
+   "豊富 – 'phong phú' (số lượng), 生活が豊富 không tự nhiên",
+   "豊穣 – 'bội thu', văn chương",
+   "豊作 – 'được mùa'",
+   "✔ 豊か – 'sung túc, giàu có', 生活が豊かになる"
+  ],
+  "trans": "Kỹ thuật tiến bộ, cuộc sống sung túc hơn nhưng tôi thấy tinh thần lại nghèo đi.",
+  "note": "豊か (ゆたか) na-tính từ: giàu có, đủ đầy. Đối lập với 貧しい (まずしい) ở vế sau."
+ },
+ "challenge:N3V0033": {
+  "opts": [
+   "✔ 喜んで – 'vui mừng', お客様に喜んでもらう = làm khách hài lòng",
+   "叱って – 'mắng'",
+   "悩んで – 'phiền não'",
+   "困って – 'khó xử'"
+  ],
+  "trans": "Toàn thể nhân viên sẽ cố gắng để khách hàng được hài lòng.",
+  "note": "喜ぶ (よろこぶ) = vui mừng. Mẫu 人に～てもらう: nhận hành động từ ai."
+ },
+ "challenge:N3V0034": {
+  "opts": [
+   "エンド – 'kết thúc', không ghép エンドチャンス",
+   "コスト – 'chi phí'",
+   "テスト – 'bài kiểm tra'",
+   "✔ ラスト – 'cuối cùng', ラストチャンス"
+  ],
+  "trans": "Mua được với giá này thì hôm nay là cơ hội cuối cùng.",
+  "note": "ラストチャンス = last chance. Các từ ngoại lai hay đi cặp cần nhớ nguyên cụm."
+ },
+ "challenge:N3V0035": {
+  "opts": [
+   "掃除 – 'dọn dẹp', không 'thích' theo nghĩa ăn",
+   "✔ 料理 – 'món ăn', 妻が作ってくれる料理",
+   "処理 – 'xử lý'",
+   "家事 – 'việc nhà', không 'làm' kiểu 作る"
+  ],
+  "trans": "Tôi thích nhất những món ăn vợ nấu cho.",
+  "note": "料理を作る = nấu ăn. 家事 là việc nhà nói chung, không dùng với 作る."
+ },
+ "challenge:N3V0036": {
+  "opts": [
+   "嗜好 – 'sở thích, khẩu vị'",
+   "✔ 恋愛 – 'tình yêu nam nữ', 恋愛感情",
+   "愛情 – 'tình thương', 愛情感情 lặp nghĩa, không nói vậy",
+   "結婚 – 'kết hôn', không phải cảm xúc"
+  ],
+  "trans": "Có khi lòng biết ơn hay kính trọng lại biến thành tình cảm yêu đương.",
+  "note": "恋愛 (れんあい) LUYẾN ÁI. 恋愛感情 = cảm xúc yêu đương; 愛情 đã là 'tình cảm' rồi nên không ghép thêm 感情."
+ },
+ "challenge:N3V0037": {
+  "opts": [
+   "✔ 廊下 – 'hành lang', nơi hay va vào nhau nếu chạy",
+   "受付 – 'quầy lễ tân'",
+   "玄関 – 'cửa vào nhà'",
+   "トイレ – 'nhà vệ sinh'"
+  ],
+  "trans": "Va vào nhau thì nguy hiểm nên xin đừng chạy ở hành lang.",
+  "note": "廊下 (ろうか) LANG HẠ = hành lang. 廊下を走らない là nội quy trường học kinh điển."
+ },
+ "challenge:N3V0038": {
+  "opts": [
+   "割合 – 'tỷ lệ'",
+   "✔ 割引 – 'giảm giá', 7割引 = giảm 70%",
+   "学割 – 'giảm giá cho học sinh', không đi với số",
+   "引割 – không có từ này"
+  ],
+  "trans": "Siêu thị này qua 7 giờ tối cơm hộp giảm 70% nên tôi hay đến.",
+  "note": "割引 (わりびき). Chú ý 7割引 = giảm 7/10; còn 7割 là 'bằng 70%'. 割 = 10%."
+ },
+ "challenge:N3V0039": {
+  "opts": [
+   "相棒 – 'cộng sự, bạn cùng cặp', thân mật, không hợp",
+   "対象 – 'đối tượng (nghiên cứu, áp dụng)'",
+   "目標 – 'mục tiêu'",
+   "✔ 相手 – 'đối phương, người (nói chuyện) cùng', 話す相手"
+  ],
+  "trans": "Về già người để trò chuyện cùng ít đi nên thấy buồn.",
+  "note": "相手 (あいて) = người đối diện trong một hành động: 話し相手, 結婚相手, 相談相手."
+ },
+ "challenge:N3V0040": {
+  "opts": [
+   "いつかは – 'một lúc nào đó (tương lai)'",
+   "✔ いつのまにか – 'không biết từ lúc nào', ngủ quên lúc nào không hay",
+   "いつになったら – 'đến bao giờ thì…', câu hỏi sốt ruột",
+   "あいかわらず – 'vẫn như mọi khi'"
+  ],
+  "trans": "Trên tàu tôi ngủ quên lúc nào không hay, tỉnh dậy đã ở một ga lạ.",
+  "note": "いつの間にか = chẳng biết từ khi nào, việc xảy ra mà không nhận ra. Khớp với 気づいたら ở sau."
+ },
+ "challenge:N3V0041": {
+  "opts": [
+   "育てる – 'nuôi lớn', 木を育てる cũng được nhưng trồng mới là việc ban đầu",
+   "稼ぐ – 'kiếm tiền'",
+   "✔ 植える – 'trồng', 木を植える",
+   "生える – tự động từ 'mọc', không nói 木を生える"
+  ],
+  "trans": "Bố tôi làm tình nguyện trồng cây trên núi nhiều năm rồi.",
+  "note": "植える (うえる) THỰC = trồng (cây, hoa); 生える (はえる) = tự mọc. Chú ý tha/tự động từ."
+ },
+ "challenge:N3V0043": {
+  "opts": [
+   "追い出す – 'đuổi ra'",
+   "追い返す – 'đuổi về'",
+   "✔ 追い越す – 'vượt (xe)'",
+   "追いつく – 'đuổi kịp', chưa vượt"
+  ],
+  "trans": "Khi vượt xe phía trước hãy chú ý kỹ xung quanh.",
+  "note": "追い越す (おいこす) = vượt lên trước. 追いつく chỉ là bắt kịp, ngang hàng."
+ },
+ "challenge:N3V0044": {
+  "opts": [
+   "美貌 – 'nhan sắc', từ văn chương, không đối với 中身",
+   "形相 – 'nét mặt (dữ tợn)'",
+   "外側 – 'phía ngoài (vật)'",
+   "✔ 外見 – 'ngoại hình, bề ngoài', 外見より中身"
+  ],
+  "trans": "Bố mẹ dặn tôi 'chọn bạn đời bằng nội tâm hơn là bề ngoài'.",
+  "note": "外見 (がいけん) NGOẠI KIẾN = bề ngoài, đối lập 中身 (なかみ) bên trong. Đồng nghĩa 見た目."
+ },
+ "challenge:N3V0045": {
+  "opts": [
+   "行き – 'lượt đi'",
+   "戻り – 'quay lại', không nói 学校の戻り",
+   "✔ 帰り – 'lúc về', 学校の帰りに = trên đường đi học về",
+   "返し – 'trả lại'"
+  ],
+  "trans": "Niềm vui nhất của tôi là trên đường đi học về ghé quán uống trà với bạn.",
+  "note": "学校の帰りに / 仕事の帰りに = trên đường về từ trường/chỗ làm. Danh từ 帰り (かえり)."
+ },
+ "challenge:N3V0046": {
+  "opts": [
+   "金額 – 'số tiền' chung chung",
+   "価格 – 'giá cả (hàng hóa)'",
+   "学資 – 'tiền ăn học' (khoản dành dụm), ít dùng",
+   "✔ 学費 – 'học phí'"
+  ],
+  "trans": "Học phí đại học tùy trường mà khác nhau.",
+  "note": "学費 (がくひ) HỌC PHÍ. 費 = chi phí: 生活費, 交通費, 食費."
+ },
+ "challenge:N3V0047": {
+  "opts": [
+   "踊ろう – 'nhảy múa'",
+   "✔ 飾ろう – 'trang trí', 部屋を飾る",
+   "祈ろう – 'cầu nguyện'",
+   "歌おう – 'hát'"
+  ],
+  "trans": "Trước tiệc sinh nhật bạn, chúng tôi định cùng nhau trang trí phòng.",
+  "note": "飾る (かざる) SỨC = trang trí, bày. Thể ý chí 飾ろう + と思う = định làm."
+ },
+ "challenge:N3V0048": {
+  "opts": [
+   "✔ かゆい – 'ngứa', chỗ muỗi đốt ngứa nên bôi thuốc",
+   "こまかい – 'nhỏ, chi tiết'",
+   "あまい – 'ngọt'",
+   "にがい – 'đắng'"
+  ],
+  "trans": "Chỗ bị muỗi đốt ngứa nên tôi bôi thuốc.",
+  "note": "かゆい (痒い) = ngứa. 蚊に刺される = bị muỗi đốt."
+ },
+ "challenge:N3V0049": {
+  "opts": [
+   "規範 – 'chuẩn mực' (đạo đức)",
+   "規律 – 'kỷ luật', trừu tượng hơn",
+   "規格 – 'quy cách, tiêu chuẩn kỹ thuật'",
+   "✔ 規則 – 'nội quy, quy tắc', 規則を守る"
+  ],
+  "trans": "Trong thời gian nằm viện nhất định phải tuân thủ nội quy bệnh viện.",
+  "note": "規則 (きそく) QUY TẮC = nội quy cụ thể. Cụm 規則を守る. Các từ còn lại cũng 規 nhưng hẹp/trừu tượng hơn."
+ },
+ "challenge:N3V0050": {
+  "opts": [
+   "して – 気にする = 'để ý, bận tâm' (chủ động), nhưng 気にしてしかたがない ít dùng hơn",
+   "✔ なって – 気になる = 'thấy bận tâm', 気になってしかたがない",
+   "ついて – 気がつく mới đúng, 気につく sai",
+   "よって – không có cụm này"
+  ],
+  "trans": "Cách dùng từ của giới trẻ gần đây khiến tôi để ý đến mức không chịu được.",
+  "note": "気になる = tự nhiên thấy vướng mắc, bận tâm. Mẫu ～てしかたがない = không kìm được, thường đi với cảm xúc tự phát."
+ },
+ "challenge:N3V0051": {
+  "opts": [
+   "解約 – 'hủy hợp đồng', 解約料 có nhưng dùng cho hợp đồng dài hạn",
+   "中止 – 'ngừng (sự kiện)'",
+   "アポイント – 'cuộc hẹn'",
+   "✔ キャンセル – 'hủy', キャンセル料 = phí hủy"
+  ],
+  "trans": "Khách sạn này dù đã đặt, nếu hủy trước 3 ngày thì không mất phí hủy.",
+  "note": "キャンセル料 (phí hủy) là từ chuẩn cho đặt phòng, đặt vé."
+ },
+ "challenge:N3V0052": {
+  "opts": [
+   "雰囲気 – 'bầu không khí (cảm giác)', không 'bẩn' được",
+   "気色 – 'sắc mặt, khí sắc'",
+   "✔ 空気 – 'không khí' (vật lý), 空気が汚れる",
+   "大気 – 'khí quyển', quy mô quá lớn"
+  ],
+  "trans": "Bật sưởi thì không khí bị bẩn nên 1 tiếng hãy thông gió 1 lần.",
+  "note": "空気 (くうき) KHÔNG KHÍ. 雰囲気 là 'không khí' theo nghĩa cảm xúc, dễ nhầm với tiếng Việt."
+ },
+ "challenge:N3V0054": {
+  "opts": [
+   "筋書 – 'cốt truyện, kịch bản'",
+   "✔ 計画 – 'kế hoạch', 計画を立てる",
+   "事業 – 'sự nghiệp, dự án kinh doanh'",
+   "構想 – 'ý tưởng, cấu tứ'"
+  ],
+  "trans": "Tôi thích lập kế hoạch cho chuyến du lịch.",
+  "note": "計画を立てる = lập kế hoạch (cụm cố định với 立てる). 予定を立てる cũng được."
+ },
+ "challenge:N3V0055": {
+  "opts": [
+   "小切手 – 'séc'",
+   "手形 – 'hối phiếu'",
+   "✔ 現金 – 'tiền mặt'",
+   "即金 – 'trả ngay bằng tiền mặt', từ cũ, ít dùng"
+  ],
+  "trans": "Không dùng được thẻ nên xin quý khách thanh toán bằng tiền mặt.",
+  "note": "現金 (げんきん) HIỆN KIM = tiền mặt, đối lập với カード."
+ },
+ "challenge:N3V0056": {
+  "opts": [
+   "✔ 濃い – 'đậm, mặn (vị)', 味が濃い → khát nước",
+   "淡い – 'nhạt (màu)', vị nhạt dùng 薄い",
+   "厚い – 'dày'",
+   "深い – 'sâu', 味が深い là 'đậm đà' theo nghĩa khen, không gây khát"
+  ],
+  "trans": "Món mẹ tôi nấu hơi đậm vị nên ăn xong khát nước.",
+  "note": "味が濃い (こい) = vị đậm/mặn; ngược lại 味が薄い. Màu đậm cũng là 色が濃い."
+ },
+ "challenge:N3V0057": {
+  "opts": [
+   "運輸 – 'vận tải (ngành)'",
+   "連絡 – 'liên lạc'",
+   "通信 – 'thông tin, viễn thông'",
+   "✔ 交通 – 'giao thông', 交通が不便"
+  ],
+  "trans": "Chỗ tôi đang ở giao thông bất tiện nên không được giới trẻ ưa thích.",
+  "note": "交通が便利/不便 = giao thông thuận tiện/bất tiện. Cụm quen thuộc."
+ },
+ "challenge:N3V0058": {
+  "opts": [
+   "原料 – 'nguyên liệu thô' (sản xuất công nghiệp)",
+   "素材 – 'nguyên liệu, chất liệu' (thiên về chất lượng)",
+   "資料 – 'tài liệu'",
+   "✔ 材料 – 'nguyên liệu nấu ăn', 材料が少ない"
+  ],
+  "trans": "Món này ít nguyên liệu nên người mới nấu cũng dễ làm.",
+  "note": "材料 (ざいりょう) TÀI LIỆU = nguyên liệu/vật liệu nấu ăn, làm đồ. 資料 (しりょう) mới là 'tài liệu' kiểu giấy tờ."
+ },
+ "challenge:N3V0059": {
+  "opts": [
+   "✔ 地震 – 'động đất', gây thiệt hại nhà cửa",
+   "地域 – 'khu vực'",
+   "交通 – 'giao thông'",
+   "工事 – 'thi công'"
+  ],
+  "trans": "Trận động đất tuần trước làm nhiều tòa nhà bị thiệt hại.",
+  "note": "地震 (じしん) ĐỊA CHẤN. 被害を受ける = chịu thiệt hại."
+ },
+ "challenge:N3V0060": {
+  "opts": [
+   "すっと – 'nhẹ nhàng, vụt (một cái)'",
+   "やっと – 'cuối cùng cũng', không đi với する",
+   "そっと – 'khẽ, nhẹ nhàng'",
+   "✔ じっと – 'yên lặng bất động', じっとする = ngồi yên"
+  ],
+  "trans": "Trẻ con khó mà ngồi yên được nên bố mẹ rất vất vả.",
+  "note": "じっとする = ngồi/đứng yên không cựa quậy; じっと見る = nhìn chằm chằm."
+ },
+ "challenge:N3V0061": {
+  "opts": [
+   "サンプル – 'hàng mẫu'",
+   "セット – 'bộ'",
+   "✔ スタッフ – 'nhân viên', 日本人スタッフ",
+   "クーポン – 'phiếu giảm giá'"
+  ],
+  "trans": "Khách sạn chúng tôi có cả nhân viên người Nhật nên quý khách yên tâm.",
+  "note": "スタッフ = staff. おります là khiêm nhường của います, dùng cho nhân viên bên mình."
+ },
+ "challenge:N3V0062": {
+  "opts": [
+   "造 – 'tạo (xây dựng, chế tạo lớn)', không ghép hậu tố kiểu này",
+   "✔ 製 – hậu tố 'làm bằng / sản xuất tại', プラスチック製",
+   "制 – 'chế độ', 会員制",
+   "作 – 'tác phẩm', 話題作"
+  ],
+  "trans": "Túi làm bằng nhựa được cho là có ảnh hưởng xấu đến môi trường.",
+  "note": "～製 (せい): chất liệu hoặc nơi sản xuất: プラスチック製, 木製, 日本製. 制 là chế độ (3年制)."
+ },
+ "challenge:N3V0063": {
+  "opts": [
+   "拡大 – 'mở rộng (quy mô)'",
+   "上昇 – 'tăng lên (giá, nhiệt độ)'",
+   "✔ 増加 – 'gia tăng (số lượng người)'",
+   "増殖 – 'sinh sôi (tế bào, vi khuẩn)'"
+  ],
+  "trans": "Ở Nhật, việc gia tăng số người làm freeter đang trở thành vấn đề xã hội.",
+  "note": "増加 (ぞうか) TĂNG GIA = tăng số lượng; đối lập 減少. 上昇 dùng cho mức/giá."
+ },
+ "challenge:N3V0064": {
+  "opts": [
+   "メンテナンス – 'bảo trì'",
+   "✔ チェック – 'kiểm tra', レベルチェック",
+   "モニター – 'màn hình / người dùng thử'",
+   "アンテナ – 'ăng-ten'"
+  ],
+  "trans": "Trường này kiểm tra trình độ tiếng Nhật rồi mới xếp lớp.",
+  "note": "レベルチェック = kiểm tra trình độ (từ ghép quen trong trường tiếng)."
+ },
+ "challenge:N3V0065": {
+  "opts": [
+   "噴く – 'phun ra'",
+   "放つ – 'phóng, thả'",
+   "通す – 'cho đi qua'",
+   "✔ 点ける – 'bật, châm (lửa)', 火を点ける"
+  ],
+  "trans": "Khi bật lửa, hãy ấn núm này rồi vặn sang trái.",
+  "note": "火をつける (点ける) = châm lửa/bật bếp; 電気をつける = bật đèn. Tắt là 消す."
+ },
+ "challenge:N3V0066": {
+  "opts": [
+   "きた – 着る: mặc (áo, phần thân trên)",
+   "はいた – 履く: mang (giày, quần)",
+   "✔ した – 手袋をする: đeo găng tay",
+   "かぶった – かぶる: đội (mũ)"
+  ],
+  "trans": "Hôm nay rất lạnh nên khi đi xe đạp bạn nên đeo găng tay.",
+  "note": "Găng tay, khăn quàng, cà vạt, đồng hồ, nhẫn đều dùng する. Mũ かぶる, giày はく, áo 着る."
+ },
+ "challenge:N3V0067": {
+  "opts": [
+   "✔ 都会 – 'thành thị', đối lập 田舎",
+   "中心 – 'trung tâm'",
+   "地域 – 'khu vực'",
+   "都 – 'thủ đô (đơn vị hành chính Tokyo)', không dùng một mình thế này"
+  ],
+  "trans": "Hồi trẻ tôi muốn làm việc ở thành phố, nhưng giờ hay nhớ về cuộc sống ở quê.",
+  "note": "都会 (とかい) ĐÔ HỘI = thành phố lớn; 田舎 (いなか) = nông thôn. Cặp đối lập quen thuộc."
+ },
+ "challenge:N3V0068": {
+  "opts": [
+   "ミキサー – 'máy xay sinh tố'",
+   "エンジン – 'động cơ'",
+   "レンジ – 'lò vi sóng'",
+   "✔ ドライヤー – 'máy sấy tóc'"
+  ],
+  "trans": "Gội đầu xong thì sấy tóc bằng máy sấy.",
+  "note": "ドライヤー = dryer, máy sấy tóc. 髪を乾かす (かわかす) = làm khô tóc."
+ },
+ "challenge:N3V0069": {
+  "opts": [
+   "トング – 'kẹp gắp'",
+   "✔ ナイフ – 'dao', ナイフとフォーク",
+   "ボウル – 'tô, bát lớn'",
+   "コップ – 'cốc'"
+  ],
+  "trans": "Món Nhật ăn bằng đũa, còn món Tây thường ăn bằng dao và nĩa.",
+  "note": "ナイフとフォーク là cụm cố định như 'dao nĩa' tiếng Việt."
+ },
+ "challenge:N3V0070": {
+  "opts": [
+   "柄 – 'hoa văn / tính cách'",
+   "絆 – 'mối gắn kết', 絆が強い chứ không nói 絆が良い",
+   "✔ 仲 – 'quan hệ (giữa người)', 仲が良い = thân nhau",
+   "縁 – 'duyên', 縁がある"
+  ],
+  "trans": "Hai người đó thực sự rất thân nhau, làm gì cũng đi cùng.",
+  "note": "仲がいい (なか) = thân thiết; 仲が悪い = không ưa nhau. Cụm cố định."
+ },
+ "challenge:N3V0071": {
+  "opts": [
+   "厳しい – 'nghiêm khắc'",
+   "✔ 苦い – 'đắng', 苦いコーヒー để tỉnh táo",
+   "辛い – 'cay'",
+   "多い – 'nhiều', không bổ nghĩa cho コーヒー kiểu này"
+  ],
+  "trans": "Buổi sáng đầu óc chưa tỉnh nên tôi muốn uống cà phê đắng.",
+  "note": "苦い (にがい) KHỔ = đắng. Các vị: 甘い ngọt, 辛い cay, 酸っぱい chua, しょっぱい mặn."
+ },
+ "challenge:N3V0072": {
+  "opts": [
+   "情熱 – 'nhiệt huyết' (danh từ), không có dạng 情熱に",
+   "熱中 – 'say mê', dùng 熱中する chứ không 熱中に",
+   "専念 – 'chuyên tâm', 専念する",
+   "✔ 熱心 – 'chăm chú, nhiệt tình', 熱心に聞く"
+  ],
+  "trans": "Anh ấy luôn chăm chú nghe thầy giảng và ghi chép.",
+  "note": "熱心 (ねっしん) NHIỆT TÂM là na-tính từ nên có dạng 熱心に + động từ. Các từ kia là danh từ/động từ する."
+ },
+ "challenge:N3V0073": {
+  "opts": [
+   "✔ ノック – 'gõ cửa', ドアをノックする",
+   "アナウンス – 'thông báo (loa)'",
+   "サイン – 'chữ ký / ra hiệu'",
+   "パンチ – 'đấm'"
+  ],
+  "trans": "Khi vào phòng thầy cô, hãy gõ cửa.",
+  "note": "ノック = knock. ドアをノックする là cụm quen."
+ },
+ "challenge:N3V0074": {
+  "opts": [
+   "✔ 配達 – 'giao (hàng, báo) đến nhà', 新聞配達",
+   "輸送 – 'vận chuyển (quy mô lớn)'",
+   "配分 – 'phân bổ'",
+   "搬送 – 'chuyển (bệnh nhân, hàng)', từ chuyên môn"
+  ],
+  "trans": "Từ hồi cấp hai anh ấy đã đi giao báo để phụ giúp gia đình.",
+  "note": "配達 (はいたつ) PHỐI ĐẠT = giao đến tận nơi: 新聞配達, 宅配. 家計 (かけい) = kinh tế gia đình."
+ },
+ "challenge:N3V0075": {
+  "opts": [
+   "✔ 冷える – 'trở lạnh' (tự động từ), 夜は冷える",
+   "凍る – 'đóng băng', quá mức",
+   "下がる – 'hạ xuống', cần chủ ngữ 気温が",
+   "低い – tính từ, không nối ので theo kiểu này về nghĩa thời tiết"
+  ],
+  "trans": "Mùa này đêm xuống là trở lạnh nên bạn nên mang theo áo khoác.",
+  "note": "冷える (ひえる) = lạnh đi, nguội đi; 体が冷える = cơ thể bị lạnh. Tha động từ là 冷やす."
+ },
+ "challenge:N3V0076": {
+  "opts": [
+   "懸念 – 'lo ngại' (danh từ, trang trọng), không có 懸念になる",
+   "夢中 – 'say mê'",
+   "✔ 不安 – 'bất an, lo lắng', 不安になる",
+   "必死 – 'liều mạng, hết sức'"
+  ],
+  "trans": "Đến hôm trước ngày cưới tôi bỗng bất an không biết có nên kết hôn thật không.",
+  "note": "不安 (ふあん) BẤT AN, na-tính từ: 不安になる / 不安だ. Trái nghĩa 安心."
+ },
+ "challenge:N3V0077": {
+  "opts": [
+   "標準 – 'tiêu chuẩn'",
+   "中間 – 'giữa', 中間テスト",
+   "中心 – 'trung tâm'",
+   "✔ 平均 – 'trung bình', 平均点"
+  ],
+  "trans": "Điểm trung bình kỳ thi thử lần này là 62,3 điểm. Mọi người cố gắng hơn nữa nhé.",
+  "note": "平均 (へいきん) BÌNH QUÂN. 平均点 điểm trung bình, 平均気温 nhiệt độ trung bình."
+ },
+ "challenge:N3V0078": {
+  "opts": [
+   "✔ 洗濯機 – 'máy giặt', hỏng nên phải giặt tay",
+   "乾燥機 – 'máy sấy'",
+   "食洗機 – 'máy rửa bát'",
+   "掃除機 – 'máy hút bụi'"
+  ],
+  "trans": "Máy giặt đột nhiên hỏng nên tôi phải giặt quần áo bằng tay.",
+  "note": "洗濯機 (せんたくき) TẨY TRẠC CƠ. Gợi ý: 手で服を洗う = giặt tay."
+ }
+}

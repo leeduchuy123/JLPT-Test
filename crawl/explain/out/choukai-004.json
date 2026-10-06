@@ -1,0 +1,472 @@
+{
+ "dethitiengnhat:N3-31-4-q7": {
+  "trans": "Sáng mai, con đường gần nhà ga sẽ thế nào? → Khu gần ga sẽ rất đông xe, tắc nghẽn.",
+  "note": "「特に駅の近くは、車が多くなり、かなり混雑する見込みです」; không có tin tai nạn, đến chiều xe mới giảm dần."
+ },
+ "dethitiengnhat:N3-31-4-q8": {
+  "trans": "Chuyên gia khuyên nên chọn cặp như thế nào? → Cặp hợp với lượng đồ mang theo và với cơ thể.",
+  "note": "「荷物の量と体に合ったかばんを選ぶと、長く楽に使えます」; màu sắc, thương hiệu, nhiều ngăn đều không phải tiêu chí chính."
+ },
+ "dethitiengnhat:N3-31-4-q9": {
+  "trans": "Người đàn ông nói vì sao bánh mới bán không chạy? → Vì ảnh trên menu nhỏ quá.",
+  "note": "「メニューの写真が少し小さかったと思う」; anh gạt lý do ít khách (bánh phô mai vẫn bán được), vị thì ngon, giá không đắt."
+ },
+ "dethitiengnhat:N3-32-4-q1": {
+  "trans": "Người phụ nữ sẽ làm gì tiếp theo? → Nghĩ thêm món tráng miệng cho trẻ em.",
+  "note": "Cửa hàng trưởng muốn thêm 「子どもでも食べられるような甘いデザート」, cô đáp 「ちょっと考えてみます」. Đĩa đã có sẵn, bảng menu anh tự viết."
+ },
+ "dethitiengnhat:N3-32-4-q10": {
+  "trans": "Em gái muốn làm gì để kỷ niệm 30 năm ngày cưới của bố mẹ? → Tặng bố mẹ chuyến du lịch suối nước nóng.",
+  "note": "「二人にゆっくり温泉旅行をプレゼントできたらいいなあ」; đồng hồ và chụp ảnh là ý của anh trai, đi nhà hàng là dịp 20 năm."
+ },
+ "dethitiengnhat:N3-32-4-q11": {
+  "trans": "Người nông dân nói dâu bán được là nhờ đâu? → Nhờ chuyển sang thu hoạch vào sáng sớm.",
+  "note": "「イチゴをとる時間を、気温が低い朝早くに変えたら…売れ始めました」; giảm giá, đổi bao bì, quảng cáo trên mạng đều không hiệu quả."
+ },
+ "dethitiengnhat:N3-32-4-q12": {
+  "trans": "Người đàn ông nói tham gia tham quan thấy điều gì hay? → Được tự làm kem có hương vị riêng.",
+  "note": "「一番よかったのは、最後に自分でアイスを作れたことですね」; máy móc to là điều bọn trẻ thích, còn nếm thử thì ít loại."
+ },
+ "dethitiengnhat:N3-32-4-q13": {
+  "trans": "Người đàn ông đang nói về điều gì? → Những hiệu quả có được nhờ duy trì đi bộ.",
+  "note": "Trước kia sáng ra người nặng nề, giờ 「少し歩くだけで、自然と頭がすっきりする」 và làm việc hăng hái hơn, tức là nói về hiệu quả."
+ },
+ "dethitiengnhat:N3-32-4-q15": {
+  "trans": "Nhiếp ảnh gia đang nói về điều gì? → Lý do làm tập ảnh này.",
+  "note": "「昔からある景色がなくなってしまう前に、写真に撮って残しておきたいと考えたんです」 chính là lý do."
+ },
+ "dethitiengnhat:N3-32-4-q16": {
+  "opts": [
+   "Đừng ngồi chỗ đó. – bạn đang ngồi đúng chỗ, vô lý",
+   "✔ Này, kéo ghế vào giúp mình chút được không?",
+   "Sao không dùng cái ghế đó? – lạc đề"
+  ],
+  "trans": "Ở thư viện, ghế của bạn chìa ra lối đi nên không đi qua được. Nói gì? → \"Này, kéo ghế vào giúp mình chút được không?\"",
+  "note": "「〜てくれる？」 là cách nhờ thân mật; いすを入れる = đẩy ghế vào sát bàn."
+ },
+ "dethitiengnhat:N3-32-4-q17": {
+  "opts": [
+   "✔ Xin mời đi lối này.",
+   "Chỗ này được chứ ạ? – hỏi xác nhận, không phải dẫn đường",
+   "Cho tôi lấy cái này được không? – lời của khách mua hàng"
+  ],
+  "trans": "Khách vừa đến lữ quán, muốn dẫn khách lên phòng. Nói gì? → \"Xin mời quý khách đi lối này.\"",
+  "note": "「こちらへどうぞ」 là câu cửa miệng khi dẫn đường; へ chỉ hướng đi."
+ },
+ "dethitiengnhat:N3-32-4-q18": {
+  "opts": [
+   "✔ Nên ngồi nghỉ ở ghế băng một chút đi.",
+   "Cậu muốn (tớ) nghỉ thêm à? – sai ý, ほしい là mong người khác làm",
+   "Nghe nói hơi mệt đấy. – kể chuyện người khác"
+  ],
+  "trans": "Ở công viên, bạn có vẻ mệt. Nói gì với bạn? → \"Nên ngồi nghỉ ở ghế băng một chút đi.\"",
+  "note": "「〜たほうがいいよ」 dùng để khuyên. らしい chỉ là truyền đạt tin nghe được."
+ },
+ "dethitiengnhat:N3-32-4-q19": {
+  "opts": [
+   "Ghế kia còn trống không ạ? – hỏi ghế khác",
+   "✔ Xin lỗi, ghế đó có phải ghế của tôi không ạ?",
+   "Quý khách ngồi chỗ nào ạ? – câu của nhân viên"
+  ],
+  "trans": "Ở rạp phim, có người ngồi vào ghế mình đã đặt. Nói gì? → \"Xin lỗi, ghế đó hình như là ghế của tôi ạ?\"",
+  "note": "「〜ではないでしょうか」 nói vòng, nhẹ nhàng khi chỉ ra người khác nhầm."
+ },
+ "dethitiengnhat:N3-32-4-q2": {
+  "trans": "Nam sinh sẽ làm gì tiếp theo? → ア・ウ: mang tác phẩm lên giá phơi và bỏ giấy báo vào thùng tái chế.",
+  "note": "Việc rửa xô (イ) bị từ chối: 「バケツは私があとで片づけるので、そのままで大丈夫です」."
+ },
+ "dethitiengnhat:N3-32-4-q20": {
+  "opts": [
+   "Vâng, chắc là xong. – hỏi 'bao lâu', không hỏi có/không",
+   "Hiểu rồi, không cần vội nhỉ. – không ai bảo thế",
+   "✔ Chắc còn mất thêm một chút nữa."
+  ],
+  "trans": "\"Anh Suzuki, chuẩn bị tiệc còn bao lâu nữa thì xong?\" → \"Chắc còn mất thêm một chút nữa.\"",
+  "note": "あとどのくらい hỏi thời gian còn lại → trả lời bằng lượng thời gian; 掛かりそう = có vẻ sẽ mất."
+ },
+ "dethitiengnhat:N3-32-4-q21": {
+  "opts": [
+   "Cuộc thi vui không? – hỏi như đã thi xong",
+   "✔ Vậy à. Bao giờ thi?",
+   "Hả? Thi mà không luyện à? – không ai nói không luyện"
+  ],
+  "trans": "\"Thầy ơi, tháng sau em sẽ thi cuộc thi piano.\" → \"Vậy à. Bao giờ thi?\"",
+  "note": "出ることになりました = đã được quyết định sẽ tham gia, chuyện tương lai."
+ },
+ "dethitiengnhat:N3-32-4-q22": {
+  "opts": [
+   "✔ Vâng, tôi sẽ đọc thong thả.",
+   "Không cần đọc nhiều lần nhỉ. – hiểu sai",
+   "Không cần đọc nữa à? – hiểu sai"
+  ],
+  "trans": "\"Cuốn sách lúc nãy tôi cho mượn dài lắm, không cần đọc vội đâu.\" → \"Vâng, tôi sẽ đọc thong thả.\"",
+  "note": "急いで読まなくてもいい = không cần đọc vội, nên ゆっくり読みます là đáp tự nhiên."
+ },
+ "dethitiengnhat:N3-32-4-q23": {
+  "opts": [
+   "Cậu chơi tennis giỏi thật. – ngược ý",
+   "Mai cậu tự tin nhỉ. – ngược ý, bạn đang lo",
+   "✔ Mong trận đấu suôn sẻ nhé."
+  ],
+  "trans": "\"Mai tớ có trận tennis. Dạo này luyện tập ít quá.\" → \"Mong trận đấu suôn sẻ nhé.\"",
+  "note": "練習不足なんだよなぁ là lời than lo lắng → đáp bằng lời động viên 〜といいね."
+ },
+ "dethitiengnhat:N3-32-4-q24": {
+  "opts": [
+   "Chỉ sandwich thôi à. – hiểu sai か何か",
+   "✔ À, nhờ cậu mua bánh kem được không?",
+   "Không, tớ không cần gì. – từ chối"
+  ],
+  "trans": "\"Tớ ra tiệm bánh mì chút, mua sandwich hay gì đó cho cậu nhé?\" → \"À, nhờ cậu mua bánh kem được không?\"",
+  "note": "か何か = hay thứ gì đó, nên nhờ mua món khác vẫn được. (?) Đáp án nguồn có thể không duy nhất: 3 cũng là lời từ chối tự nhiên."
+ },
+ "dethitiengnhat:N3-32-4-q25": {
+  "opts": [
+   "✔ Thế thì vất vả quá nhỉ.",
+   "May mà họ chở giúp nhỉ. – nhầm ai làm",
+   "Cậu muốn khuân à. – ngược ý"
+  ],
+  "trans": "\"Hôm qua tớ bị bắt khuân đồ nặng giúp bạn chuyển nhà.\" → \"Vất vả cho cậu quá nhỉ.\"",
+  "note": "運ばされた = thể sai khiến bị động: bị bắt phải khuân dù không muốn → đáp lời thông cảm."
+ },
+ "dethitiengnhat:N3-32-4-q26": {
+  "opts": [
+   "✔ Hả? Có cần mà.",
+   "Nấu ăn thì không khó, nhưng… – lạc đề",
+   "Cậu mua tạp dề rồi à. – lạc đề"
+  ],
+  "trans": "\"Lớp nấu ăn hôm qua không cần mang tạp dề nhỉ?\" → \"Hả? Cần mà.\"",
+  "note": "要った là quá khứ của 要る (cần). Người nói nhớ sai nên người đáp phản bác."
+ },
+ "dethitiengnhat:N3-32-4-q27": {
+  "opts": [
+   "Hay đấy, đi uống thôi. – hiểu thành lời mời",
+   "Tôi vẫn chưa uống. – hỏi thói quen, không hỏi hôm nay",
+   "✔ Thỉnh thoảng tôi có uống."
+  ],
+  "trans": "\"Anh Tanaka, bình thường anh có hay uống cà phê không?\" → \"Thỉnh thoảng tôi có uống.\"",
+  "note": "召し上がる = kính ngữ của 食べる/飲む; 普段…よく hỏi thói quen."
+ },
+ "dethitiengnhat:N3-32-4-q28": {
+  "opts": [
+   "Tớ nghĩ thế thì hơn. – lạc đề",
+   "Tớ trả rồi. – không trả lời hạn",
+   "✔ Đến thứ Hai tuần sau."
+  ],
+  "trans": "\"Yamada, cậu biết sách thư viện phải trả trước ngày nào không?\" → \"Đến thứ Hai tuần sau.\"",
+  "note": "いつまでに hỏi hạn chót → trả lời mốc thời gian."
+ },
+ "dethitiengnhat:N3-32-4-q3": {
+  "trans": "Người phụ nữ sẽ sửa tờ rơi thế nào? → Làm chữ ghi giá to hơn.",
+  "note": "「一番上の値段の字はもう少し大きいほうがいい」; nền tối là đúng, ảnh giữ nguyên, mã sản phẩm anh Kimura tự kiểm tra."
+ },
+ "dethitiengnhat:N3-32-4-q4": {
+  "trans": "Trước tiên người đàn ông sẽ làm gì? → Tham gia buổi học thử.",
+  "note": "「まずはそこに行ってみてはどうですか」「ぜひ行ってみたいです」; nghe đồng nghiệp kể là sau khi tự học thử."
+ },
+ "dethitiengnhat:N3-32-4-q5": {
+  "trans": "Trước tiên người phụ nữ phải làm gì? → Hỏi lịch của cửa hàng trưởng.",
+  "note": "「店長に確認して、7時からで大丈夫なら和食にして…」: phải hỏi trước, rồi mới đặt nhà hàng Nhật hay tìm chỗ khác."
+ },
+ "dethitiengnhat:N3-32-4-q6": {
+  "trans": "Hôm nay nhân viên làm thêm phải làm gì theo nhóm? → Thảo luận về cách nói khi tiếp khách.",
+  "note": "「お客様にどんな言葉を使えばいいか、グループの中で話し合ってみてください」; máy tính tiền và phân công quầy là việc ngày mai."
+ },
+ "dethitiengnhat:N3-32-4-q7": {
+  "trans": "Cửa hàng trưởng nói trước hết nên chú ý điều gì? → Chào khách với nụ cười.",
+  "note": "「笑顔で、はっきりあいさつするようにしましょう」; mang nước sớm hơn thì 「後で直していきましょう」, số bàn đã nhớ tốt."
+ },
+ "dethitiengnhat:N3-32-4-q8": {
+  "trans": "Người phụ nữ nói gần đây thư viện thay đổi thế nào? → Chỗ ngồi đọc sách rộng hơn.",
+  "note": "「今はゆっくり本を読めるスペースが広くなってた」."
+ },
+ "dethitiengnhat:N3-32-4-q9": {
+  "trans": "Vì sao người phụ nữ bỏ lớp làm bánh mì? → Vì không thích phải cân đong tỉ mỉ.",
+  "note": "「小麦粉や水を細かく量るっていうのがね」「レシピ通りに作るのがあまり得意じゃなくて」; thầy giảng dễ hiểu, cũng không phải vì khó."
+ },
+ "dethitiengnhat:N3-4-4-q1": {
+  "trans": "Người đàn ông sẽ đặt gì trước lều? → Đèn lồng (ランタン) và ghế.",
+  "note": "Cô nhờ 「イスを出してくれる？」 và 「ランタン…テーブルに置いて」; củi thì 「まだ明るいからそれはいいよ」."
+ },
+ "dethitiengnhat:N3-4-4-q10": {
+  "trans": "Họ quyết định đi du lịch tốt nghiệp ở đâu? → Công viên giải trí.",
+  "note": "「じゃあ、卒業旅行は遊園地にしよう」; suối nước nóng đi năm ngoái rồi, biển còn lạnh, trượt tuyết khó cho người mới."
+ },
+ "dethitiengnhat:N3-4-4-q11": {
+  "trans": "Hiện giờ người phụ nữ làm gì với lọ thủy tinh rỗng? → Dùng làm đồ trang trí phòng.",
+  "note": "「最近、私は空き瓶の中に小さなライトや花を入れて、部屋に飾るようになりました」; đựng gia vị, bánh kẹo là chuyện 以前."
+ },
+ "dethitiengnhat:N3-4-4-q12": {
+  "trans": "Từ giờ khi luyện tập, trước hết điều gì quan trọng? → Nói chậm lại.",
+  "note": "「まずは、みんなが聞き取れるスピードで話せるようになることが必要です」; phát âm, giọng to đều đã tốt."
+ },
+ "dethitiengnhat:N3-4-4-q13": {
+  "trans": "Người đàn ông muốn nói điều gì? → Muốn được chỉ cách luyện tập chạy marathon.",
+  "note": "「練習のしかたとか靴の選び方とか、よく分からなくて」「アドバイスしてもらえないかな」; nhóm chạy và cái khăn là do cô gái nhắc."
+ },
+ "dethitiengnhat:N3-4-4-q14": {
+  "trans": "Cô giáo đang nói về điều gì? → Những điều cần chú ý trong buổi làm ngày mai.",
+  "note": "Cả bài là lưu ý: đến trước 15 phút, tránh áo tay rộng và dép, đeo găng tay và cầm bằng hai tay."
+ },
+ "dethitiengnhat:N3-4-4-q15": {
+  "trans": "Phát thanh viên đang nói về điều gì? → Hiệu quả của bữa sáng.",
+  "note": "「朝食には私たちが考えている以上にいい働きがある」: đánh thức cơ thể, điều chỉnh nhịp sinh hoạt; vận động nhẹ chỉ để so sánh."
+ },
+ "dethitiengnhat:N3-4-4-q16": {
+  "opts": [
+   "Thầy cũng thi à? – lạc đề",
+   "Lần sau học nhiều hơn nhé. – lời của thầy",
+   "✔ Nhờ thầy mà em đã đỗ suôn sẻ."
+  ],
+  "trans": "Thi đỗ bằng lái xe, muốn cảm ơn thầy dạy. Nói gì? → \"Nhờ thầy mà em đã đỗ suôn sẻ.\"",
+  "note": "おかげさまで = nhờ ơn anh/chị, mở đầu lời cảm ơn; 無事に = suôn sẻ."
+ },
+ "dethitiengnhat:N3-4-4-q17": {
+  "opts": [
+   "✔ Quý khách chọn cỡ nào ạ?",
+   "Cỡ đã uống chưa ạ? – vô nghĩa",
+   "Đặt cỡ ở đây ạ? – vô nghĩa"
+  ],
+  "trans": "Nhân viên quán cà phê hỏi khách cỡ đồ uống. Nói gì? → \"Quý khách chọn cỡ nào ạ?\"",
+  "note": "〜になさいますか = kính ngữ của 〜にしますか (chọn cái gì)."
+ },
+ "dethitiengnhat:N3-4-4-q18": {
+  "opts": [
+   "Xin lỗi, mình ngồi đây nhé? – ましょうか là rủ, sai",
+   "✔ Xin lỗi, ghế này có ai ngồi không ạ?",
+   "Xin lỗi, anh đứng ở đây được không? – vô lý"
+  ],
+  "trans": "Ở phòng chờ bệnh viện, muốn ngồi vào ghế trống. Hỏi người bên cạnh thế nào? → \"Xin lỗi, ghế này có ai ngồi không ạ?\"",
+  "note": "どなたかいらっしゃいますか = có ai (ngồi) không; いらっしゃる là kính ngữ của いる."
+ },
+ "dethitiengnhat:N3-4-4-q19": {
+  "opts": [
+   "✔ Trưởng phòng, cho em mượn thước một chút được không ạ?",
+   "Trưởng phòng mua thước ở đâu ạ? – hỏi chỗ mua",
+   "Trưởng phòng đã đặt thước lên bàn chưa ạ? – lạc đề"
+  ],
+  "trans": "Muốn dùng cây thước dài trưởng phòng đang cầm. Nói gì? → \"Trưởng phòng, cho em mượn thước một chút được không ạ?\"",
+  "note": "お借りできますか = khiêm nhường ngữ của 借りられますか, dùng khi xin mượn."
+ },
+ "dethitiengnhat:N3-4-4-q2": {
+  "trans": "Người phụ nữ trả bao nhiêu tiền khi mua vé? → 400 yên.",
+  "note": "Vé combo người lớn 400 yên, 「今日はキャンペーン中で子供は無料です」 → 400 + 0 = 400 yên."
+ },
+ "dethitiengnhat:N3-4-4-q20": {
+  "opts": [
+   "Hả? Quyết định không về à. – hiểu sai",
+   "✔ Ừ, đặt sớm thì hơn nhỉ.",
+   "Cậu đặt sớm giúp rồi à. – chưa đặt"
+  ],
+  "trans": "\"Vé máy bay về quê dịp Tết phải đặt sớm thôi nhỉ.\" → \"Ừ, đặt sớm thì hơn.\"",
+  "note": "予約しなきゃ = 予約しなければ (phải đặt), việc chưa làm."
+ },
+ "dethitiengnhat:N3-4-4-q21": {
+  "opts": [
+   "Bão đã qua rồi nhỉ. – bão chưa đến",
+   "Nhưng có vẻ sắp yếu đi. – ngược với gió đang mạnh lên",
+   "✔ Thời sự nói chiều tối bão sẽ tới đấy."
+  ],
+  "trans": "\"Gió mạnh lên rồi. Có vẻ bão sắp đến.\" → \"Thời sự nói chiều tối bão sẽ tới đấy.\"",
+  "note": "来そう = có vẻ sắp đến → đáp bằng thông tin xác nhận."
+ },
+ "dethitiengnhat:N3-4-4-q22": {
+  "opts": [
+   "Vậy dán ngay đi. – lạc đề",
+   "✔ Ở đằng kia, anh cứ mang đi.",
+   "Dán lên tường giúp nhé. – lạc đề"
+  ],
+  "trans": "\"Tôi đến lấy tấm poster đã nhờ làm.\" → \"Nó ở đằng kia, anh cứ mang đi.\"",
+  "note": "取りに来た = đến để lấy → chỉ chỗ để người đó lấy."
+ },
+ "dethitiengnhat:N3-4-4-q23": {
+  "opts": [
+   "Vẫn chưa được trả lại nhỉ. – lời người cho mượn",
+   "Tuần sau nhớ mang đến nhé. – lời người cho mượn",
+   "✔ Xin lỗi, tớ vẫn đang chơi dở."
+  ],
+  "trans": "\"Này, trò chơi hôm trước tớ cho mượn, sắp trả được chưa?\" → \"Xin lỗi, tớ vẫn đang chơi dở.\"",
+  "note": "返してくれない？ là lời đòi lại; やってるとこ = やっているところ, đang làm dở."
+ },
+ "dethitiengnhat:N3-4-4-q24": {
+  "opts": [
+   "✔ Xin đừng bận tâm ạ.",
+   "Vậy tôi xin phép về. – câu chào khi ra về",
+   "Không, chính tôi mới phải… – đáp lời cảm ơn, lạc đề"
+  ],
+  "trans": "\"Anh dùng chút đồ uống lạnh gì đó nhé?\" → \"Xin đừng bận tâm ạ.\"",
+  "note": "おかまいなく = lời từ chối lịch sự khi chủ nhà mời mọc, ý 'đừng bày vẽ'."
+ },
+ "dethitiengnhat:N3-4-4-q25": {
+  "opts": [
+   "Hiện người đó đang ra ngoài. – lời nhân viên nghe máy",
+   "✔ Vâng, tôi chờ liên lạc.",
+   "Xin vui lòng chờ một chút. – lời nhân viên"
+  ],
+  "trans": "\"Sửa xong chúng tôi sẽ gọi điện cho quý khách.\" → \"Vâng, tôi chờ liên lạc.\"",
+  "note": "お電話差し上げます = khiêm nhường ngữ 'tôi sẽ gọi cho quý khách'; khách đáp お待ちしております."
+ },
+ "dethitiengnhat:N3-4-4-q26": {
+  "opts": [
+   "Trông bẩn quá nhỉ. – nói như người ngoài",
+   "Giặt sạch hơn thì sao? – không trả lời câu hỏi",
+   "✔ Tớ lỡ làm đổ cà phê."
+  ],
+  "trans": "\"Suzuki, vết bẩn trên áo sơ mi là sao thế?\" → \"Tớ lỡ làm đổ cà phê.\"",
+  "note": "どうしたの hỏi nguyên nhân; こぼしちゃって = こぼしてしまって, lỡ làm đổ."
+ },
+ "dethitiengnhat:N3-4-4-q27": {
+  "opts": [
+   "Không cần bận tâm đâu nhỉ? – lạc đề",
+   "Trưởng phòng đi cùng cậu à. – hiểu ngược ai đi với ai",
+   "✔ Hả? Phí cả ngày nghỉ quý giá."
+  ],
+  "trans": "\"Cuối tuần tớ bị trưởng phòng bắt đi đánh golf cùng.\" → \"Hả? Mất toi ngày nghỉ quý giá rồi.\"",
+  "note": "付き合わされた = sai khiến bị động: bị bắt đi cùng; せっかく〜のに = tiếc vì phí mất điều quý."
+ },
+ "dethitiengnhat:N3-4-4-q28": {
+  "opts": [
+   "✔ Cho tôi xin thêm chút thời gian được không ạ?",
+   "Để sau hãy dịch thì hơn ạ? – lạc đề",
+   "Làm sớm nhất có thể được không? – lời người nhờ"
+  ],
+  "trans": "\"Yamada, bản dịch tôi nhờ cần càng sớm càng tốt, còn lâu không?\" → \"Anh cho tôi thêm chút thời gian được không ạ?\"",
+  "note": "お時間いただけますか = xin thêm thời gian (khiêm nhường), trả lời cho まだかかる？."
+ },
+ "dethitiengnhat:N3-4-4-q3": {
+  "trans": "Người phụ nữ sẽ làm gì? → Đăng ký thuê gối miễn phí.",
+  "note": "「最初の1週間は無料でレンタルできる」→「やっぱり申し込んでみたら」「はい、そうします」; yoga hết chỗ, đi viện phải nghỉ làm."
+ },
+ "dethitiengnhat:N3-4-4-q4": {
+  "trans": "Người đàn ông phải làm gì ở quầy? → イ・ウ: bỏ thẻ hội viên vào hộp và lấy chìa khóa xe.",
+  "note": "Lần thứ hai nên 「お名前はけっこうです」; mũ bảo hiểm thì 「あとで外にいるスタッフにお話しください」."
+ },
+ "dethitiengnhat:N3-4-4-q5": {
+  "trans": "Trước tiên người đàn ông sẽ làm gì? → Dự buổi định hướng.",
+  "note": "「ちょうどオリエンテーションが始まるところ」; đơn phát sau buổi đó, ảnh chó chụp sau, giấy tiêm phòng đã có."
+ },
+ "dethitiengnhat:N3-4-4-q6": {
+  "trans": "Nhân viên nữ sẽ tìm sách hướng dẫn bản thứ mấy? → Bản thứ 4.",
+  "note": "「もうそろそろ新しい第4版が入荷してると思うんだよ。ちょっと確認してみて」."
+ },
+ "dethitiengnhat:N3-4-4-q7": {
+  "trans": "Vì sao Sato không đến được? → Vì đàn guitar bị hỏng.",
+  "note": "Ngã ở cầu thang ga, 「ギターをぶつけてしまった…音が変になって」; tàu vẫn chạy, tay chỉ va nhẹ."
+ },
+ "dethitiengnhat:N3-4-4-q8": {
+  "trans": "Vì sao nữ sinh không đi tiệc chào mừng? → Vì phải dự đám cưới người họ hàng.",
+  "note": "Báo cáo đã nộp, làm thêm đã nhờ bạn thay; lý do là 「親せきの結婚式に出ることになって」."
+ },
+ "dethitiengnhat:N3-4-4-q9": {
+  "trans": "Người đàn ông nói khi mỏi mắt thì anh làm gì? → Dùng khăn ấm chườm mắt.",
+  "note": "「寝る前に温かいタオルで目を少し長めに温めるようにしています」; nhìn xa thì anh nói hay quên."
+ },
+ "dethitiengnhat:N3-5-4-q1": {
+  "trans": "Người đàn ông sẽ làm gì? → Xếp bàn.",
+  "note": "「机、今から並べておくね」; tài liệu đã photo, máy chiếu đã lắp, micro cô ấy tự thử."
+ },
+ "dethitiengnhat:N3-5-4-q10": {
+  "trans": "Người đàn ông nói viết nhật ký khó ở điểm nào? → Nghĩ xem nên viết gì.",
+  "note": "「毎回何を書こうか考えるのが一番大変なんだ」; nhớ lại thì anh giỏi, thời gian không tốn."
+ },
+ "dethitiengnhat:N3-5-4-q11": {
+  "trans": "Câu trả lời nhiều nhất trong khảo sát là gì? → Đi karaoke hát một mình.",
+  "note": "「意外にも、一人でカラオケに行って歌うことが一位でした」; nói chuyện với bạn chỉ là dự đoán của người dẫn."
+ },
+ "dethitiengnhat:N3-5-4-q12": {
+  "trans": "Chuyên gia đã khuyên gì? → Nên đổi hướng chụp.",
+  "note": "「まず撮る向きを変えて、太陽の光が顔に当たるようにしてみてください」; không cần đợi chiều, lại gần quá thì phông bị nhòe."
+ },
+ "dethitiengnhat:N3-5-4-q13": {
+  "trans": "Người phụ nữ đang nói về điều gì? → Đồ tái chế được gửi đến trung tâm thị dân.",
+  "note": "「実は、すべて市民センターに届けられたリサイクル品なんです」."
+ },
+ "dethitiengnhat:N3-5-4-q14": {
+  "trans": "Chuyên gia chủ yếu nói về điều gì? → Cách giảm mỏi mắt.",
+  "note": "Bài đưa ra cách: đừng xem điện thoại lúc nghỉ, 「短い休みを入れるのがいい」, ngủ sớm → cách giảm mỏi mắt."
+ },
+ "dethitiengnhat:N3-5-4-q15": {
+  "trans": "Thầy giáo đang nói về điều gì? → Bài tập nghỉ hè.",
+  "note": "「家の手伝いの記録を夏休みの宿題にします」; việc nhà và so sánh hè/đông chỉ là dẫn dắt."
+ },
+ "dethitiengnhat:N3-5-4-q16": {
+  "opts": [
+   "✔ Mời quý khách dùng kính này ạ.",
+   "Quý khách có mang kính không ạ? – khách đã quên kính",
+   "Quý khách đã đọc giấy này chưa ạ? – lạc đề"
+  ],
+  "trans": "Khách quên kính, không đọc rõ giấy tờ. Cho khách mượn kính của cửa hàng. Nói gì? → \"Mời quý khách dùng kính này ạ.\"",
+  "note": "お使いください = kính ngữ của 使ってください, mời khách dùng."
+ },
+ "dethitiengnhat:N3-5-4-q17": {
+  "opts": [
+   "Chị mua xe đẩy ở đâu? – lạc đề",
+   "Tôi bế em bé được không? – không tự nhiên với người lạ",
+   "✔ Để tôi gập xe đẩy giúp nhé?"
+  ],
+  "trans": "Ở ga, người phụ nữ vừa bế con vừa định gập xe đẩy. Muốn giúp. Nói gì? → \"Để tôi gập xe đẩy giúp nhé?\"",
+  "note": "V-ましょうか = đề nghị làm giúp; たたむ = gập lại."
+ },
+ "dethitiengnhat:N3-5-4-q18": {
+  "opts": [
+   "Tôi mượn phòng GS Kimura được không? – lạc đề",
+   "✔ Giáo sư Kimura có ở đây không ạ?",
+   "Giáo sư Kimura đã đọc gì ạ? – lạc đề"
+  ],
+  "trans": "Đến văn phòng trường, muốn gặp giáo sư Kimura. Nói với nhân viên thế nào? → \"Giáo sư Kimura có ở đây không ạ?\"",
+  "note": "いらっしゃいますか = kính ngữ của いますか, hỏi người trên có mặt không."
+ },
+ "dethitiengnhat:N3-5-4-q19": {
+  "opts": [
+   "✔ Có ghi là cấm cho chim ăn đấy.",
+   "Biết chim ở đâu không? – lạc đề",
+   "Nên mua thêm thức ăn đi. – ngược ý"
+  ],
+  "trans": "Ở đây cấm cho chim ăn, nhưng bạn định cho ăn. Nói gì với bạn? → \"Có ghi là cấm cho ăn đấy.\"",
+  "note": "V-る + な = thể cấm đoán; 〜って書いてある = có ghi là…; えさをやる = cho (con vật) ăn."
+ },
+ "dethitiengnhat:N3-5-4-q2": {
+  "trans": "Người khách nam sẽ sửa gì? → Giấy tờ tùy thân (bản photo).",
+  "note": "「この身分証明書のコピー、文字がずいぶんぼやけていますね」→ anh sẽ photo lại; địa chỉ, nghề nghiệp, thu nhập đều ổn."
+ },
+ "dethitiengnhat:N3-5-4-q3": {
+  "trans": "Nam sinh sẽ mang gì đi tình nguyện? → ア・ウ (giấy origami và lịch phong cảnh Nhật).",
+  "note": "Sách tranh 「要らないと思う」 vì toàn chữ Nhật; DVD anime 「再生できなくて」 → bỏ hai thứ này."
+ },
+ "dethitiengnhat:N3-5-4-q4": {
+  "trans": "Trước tiên nữ sinh sẽ làm gì? → Gom bảng tên của người tham gia.",
+  "note": "「参加者の名札のほうをまとめといてくれる？」; anh tự dọn bàn ghế và nhập khảo sát."
+ },
+ "dethitiengnhat:N3-5-4-q5": {
+  "trans": "Người đàn ông sẽ sửa phần nào của bản kế hoạch? → Phần biểu đồ.",
+  "note": "「3つ目のグラフはターゲット層とあんまり関係がない」→「別のデータに直したほうがいいね」; phần đầu, cuối, tiêu đề đều ổn."
+ },
+ "dethitiengnhat:N3-5-4-q6": {
+  "trans": "Người tham gia trước tiên phải làm gì? → Xem danh sách, kiểm tra lều của mình.",
+  "note": "「自分のテントを確認して広場に行ってください」: kiểm tra lều rồi mới đi định hướng; mượn đồ là sau đó."
+ },
+ "dethitiengnhat:N3-5-4-q7": {
+  "trans": "Vì sao người phụ nữ đến công ty người đàn ông? → Để giao mẫu vải làm túi.",
+  "note": "「私は説明に来たのではなく、この見本を届けるだけでございます」."
+ },
+ "dethitiengnhat:N3-5-4-q8": {
+  "trans": "Nữ sinh nhờ nam sinh việc gì? → Giúp chở đồ đến chỗ hội chợ.",
+  "note": "「会場まで運ぶのを手伝ってほしいってこと？」「うん」; đi ăn thịt nướng là quà cảm ơn."
+ },
+ "dethitiengnhat:N3-5-4-q9": {
+  "trans": "Vì sao người đàn ông khó xử? → Vì có thể phải ngừng bán bánh.",
+  "note": "Thiếu socola nhập khẩu → 「しばらく販売が止まっちゃいそうなんだ」; bánh bán chạy, hộp còn, giá không tăng."
+ },
+ "dethitiengnhat:N3-6-4-q1": {
+  "trans": "Người phụ nữ sẽ làm gì tiếp theo? → Đổi phông chữ.",
+  "note": "「文字のフォントを柔らかいものに変えたらどうですか」; ảnh đã chỉnh, bản đồ và lời chào không cần sửa."
+ },
+ "dethitiengnhat:N3-6-4-q10": {
+  "trans": "Hai người trước tiên sẽ làm gì? → Vào quán ăn.",
+  "note": "「向こうにファミレスがあるよ。あそこに入ろう」; taxi lâu, đi bộ hơn một tiếng, chờ ở sân ga thì lạnh."
+ },
+ "dethitiengnhat:N3-6-4-q11": {
+  "trans": "Người phụ nữ mua loại dầu gội nào? → Loại bánh xà phòng cho bé 1 tuổi và loại tạo bọt cho bé 5 tuổi.",
+  "note": "「一歳のお子さんには石けんタイプ、五歳のお子さんには泡タイプですね」「はい」. (?) Phương án trong dữ liệu bị chép nhầm từ câu trước; đáp án 3 là hình tương ứng."
+ }
+}

@@ -1,0 +1,9 @@
+.vercel
+node_modules
+.DS_Store
+Thumbs.db
+*.log
+crawl/cache/
+
+# login session (cookies/tokens) - never commit
+crawl/.auth/

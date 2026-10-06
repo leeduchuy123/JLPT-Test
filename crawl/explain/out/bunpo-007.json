@@ -1,0 +1,802 @@
+{
+ "dethitiengnhat:N3-8-3-q8": {
+  "opts": [
+   "終わりそうだ – 'có vẻ sẽ xong', ngược với ý bài tập quá nhiều",
+   "終わらなさそうだ – dạng phủ định không chuẩn theo sách với động từ",
+   "✔ 終わりそうにない – 'có vẻ không thể xong', phủ định chuẩn của V-そうだ",
+   "終わるはずがない – 'không đời nào xong', khẳng định quá mạnh, dựa vào lý lẽ"
+  ],
+  "trans": "Bài tập nhiều quá, tôi nghĩ chắc không thể làm xong trước ngày mai nên đã đi trao đổi với thầy.",
+  "note": "Phủ định của V(bỏ ます)そうだ là V-そうにない / V-そうもない. Dạng なさそう dùng cho tính từ (なさそう, よくなさそう)."
+ },
+ "dethitiengnhat:N3-8-3-q9": {
+  "opts": [
+   "出してきます – 'gửi rồi về', nhưng 郵便局まで cần động từ di chuyển",
+   "✔ 出しにいってきます – 'đi (đến đó) gửi rồi về', V-ます + に行く chỉ mục đích",
+   "出しにきています – 'đang đến để gửi', sai hướng, người nói đang rời đi",
+   "出してしまいます – 'gửi cho xong', không có ý đi rồi về"
+  ],
+  "trans": "(Ở công ty) A: \"Anh Tanaka, tôi ra bưu điện gửi đồ chút nhé. Tôi về ngay.\" B: \"Vâng, anh đi nhé.\"",
+  "note": "V(ます)にいってきます = đi làm gì rồi quay lại; khớp với 郵便局まで, すぐ戻ります và いってらっしゃい."
+ },
+ "dethitiengnhat:N3-9-3-q1": {
+  "opts": [
+   "には – nhấn 'đối với ai thì', không tạo nghĩa phủ định toàn bộ",
+   "✔ にも – 誰にも + phủ định = không (để) bất kỳ ai",
+   "しか – 'chỉ', không nói 誰しか",
+   "でも – 誰でも = ai cũng được, đi với khẳng định"
+  ],
+  "trans": "Vì có cuộc họp quan trọng nên ít nhất là hôm nay, tôi mong không ai làm phiền tôi cả.",
+  "note": "Mẫu 人に〜てほしい (muốn ai làm gì). Với nghi vấn từ + も + phủ định: 誰にも〜ないでほしい = không muốn bất kỳ ai làm ~."
+ },
+ "dethitiengnhat:N3-9-3-q10": {
+  "opts": [
+   "くる – 増えてくる: thay đổi từ trước tới hiện tại",
+   "✔ いく – 増えていく: thay đổi tiếp diễn từ nay về sau",
+   "きた – thay đổi từ quá khứ đến nay, mâu thuẫn với これからは",
+   "いった – thì quá khứ, không hợp với これからは"
+  ],
+  "trans": "Người ta nói rằng từ nay về sau số người cao tuổi sẽ ngày càng tăng lên.",
+  "note": "これからは (từ nay về sau) → 〜ていく: thay đổi hướng về tương lai. 〜てくる: thay đổi từ quá khứ tới hiện tại."
+ },
+ "dethitiengnhat:N3-9-3-q11": {
+  "opts": [
+   "頼んでて – văn nói của 頼んでいて 'đang nhờ', không có nghĩa nhượng bộ",
+   "頼まなくちゃ – 'phải nhờ', ngược ý muốn bỏ cuộc",
+   "頼んじゃって – 'lỡ nhờ mất rồi', không hợp",
+   "✔ 頼んだって – = 頼んでも, 'dù có nhờ thì cũng…'"
+  ],
+  "trans": "A: \"Nhờ ông quản lý thì có khi sẽ rẻ thêm chút đấy. Mình thử nhờ xem nhé?\" B: \"Thôi, ông quản lý đó thì dù có nhờ cũng chẳng rẻ hơn được đâu. Bỏ đi.\"",
+  "note": "〜たって là cách nói thân mật của 〜ても (dù… cũng). Vế sau 安くならない là kết quả trái với mong muốn."
+ },
+ "dethitiengnhat:N3-9-3-q12": {
+  "opts": [
+   "を召し上がります – 'dùng món nào', được ngữ pháp nhưng hỏi chọn món thì dùng 〜にする",
+   "をなさいます – 'chọn' phải là 〜にする, không phải 〜をする",
+   "に召し上がります – 召し上がる đi với を, không đi với に",
+   "✔ になさいます – kính ngữ của 〜にする 'chọn cái gì'"
+  ],
+  "trans": "(Ở nhà hàng) Nhân viên: \"Món tráng miệng sau bữa ăn, quý khách chọn món nào ạ?\" Khách: \"Để xem… Cho tôi món kem kia.\"",
+  "note": "Nにする = chọn/quyết định N; kính ngữ là Nになさる. Nhân viên hỏi khách chọn món thường nói どちらになさいますか."
+ },
+ "dethitiengnhat:N3-9-3-q13": {
+  "opts": [
+   "聞いておいてから – ておく là làm sẵn để chuẩn bị, không hợp",
+   "聞いてみないと – 'nếu không thử nghe thì…', vế sau phải là ý 'không biết được'",
+   "✔ 聞いてみてから – 'thử nghe rồi mới (quyết định)'",
+   "聞いておかないと – 'nếu không nghe sẵn thì…', không nối với 決めたい"
+  ],
+  "trans": "Với công việc mới, tôi muốn thử nghe nội dung chi tiết rồi mới quyết định có làm hay không.",
+  "note": "〜てから = làm A xong rồi mới B; 〜てみる = thử làm. Chỉ 聞いてみてから nối tự nhiên với やるかどうか決めたい."
+ },
+ "dethitiengnhat:N3-9-3-q14": {
+  "opts": [
+   "リラックスできるのも – 'việc có thể thư giãn cũng'",
+   "静かなジャズが流れていて – 'nhạc jazz nhẹ nhàng đang phát'",
+   "だけでなく – 'không chỉ'",
+   "✔ 音楽を聞きながら – 'vừa nghe nhạc'"
+  ],
+  "trans": "Tôi thích chỗ ngồi quen ở quán cà phê này. Không chỉ cà phê ngon mà quán còn bật nhạc jazz nhẹ nhàng, được vừa nghe nhạc vừa thư giãn cũng là điểm hay.",
+  "note": "Câu đúng: コーヒーが美味しいだけでなく静かなジャズが流れていて音楽を聞きながらリラックスできるのもいい。★ = 音楽を聞きながら. AだけでなくB(も) = không chỉ A mà còn B."
+ },
+ "dethitiengnhat:N3-9-3-q15": {
+  "opts": [
+   "✔ 持っている – 'đang có, mang'",
+   "新システム – 'hệ thống mới'",
+   "不満 – 'sự bất mãn'",
+   "に対して – 'đối với'"
+  ],
+  "trans": "Đội phát triển dự định phân tích những bất mãn mà người dùng có đối với hệ thống mới và tận dụng cho bản cập nhật tiếp theo.",
+  "note": "Câu đúng: 開発チームは、ユーザーが新システムに対して持っている不満を分析し、次のアップデートに活かす予定だ。★ = 持っている. Nに対して + 持っている bổ nghĩa cho 不満 (不満を持つ)."
+ },
+ "dethitiengnhat:N3-9-3-q16": {
+  "opts": [
+   "たびに – 'mỗi lần'",
+   "名産の – 'đặc sản (của vùng)'",
+   "✔ 送ってくれる – 'gửi cho (tôi)'",
+   "地元に帰る – 'về quê'"
+  ],
+  "trans": "Tôi rất thích rượu sake đặc sản mà bạn tôi gửi cho mỗi lần về quê, nên lần tới tôi cũng muốn đi du lịch vùng đó.",
+  "note": "Câu đúng: 友達が地元に帰るたびに送ってくれる名産の日本酒が大好きなので、今度私もその地方へ旅行に行きたい。★ = 送ってくれる. Vるたびに = mỗi lần ~ là lại."
+ },
+ "dethitiengnhat:N3-9-3-q17": {
+  "opts": [
+   "している – 'đang (duy trì)'",
+   "毎日スクワットをする – 'tập squat mỗi ngày'",
+   "✔ ように – 'sao cho, cố để'",
+   "ために – 'để, vì mục đích'"
+  ],
+  "trans": "Tôi cố gắng ngày nào cũng tập squat để rèn luyện thể lực.",
+  "note": "Câu đúng: 私は、体力づくりのために毎日スクワットをするようにしている。★ = ように. Vるようにしている = cố gắng duy trì thói quen."
+ },
+ "dethitiengnhat:N3-9-3-q18": {
+  "opts": [
+   "ずっと – 'suốt, từ lâu'",
+   "✔ おもちゃを – 'đồ chơi (tân ngữ)'",
+   "買ってあげる – 'mua cho'",
+   "欲しがっていた – '(con) đã muốn có'"
+  ],
+  "trans": "Vào sinh nhật con ngày mai, tôi định mua cho con món đồ chơi mà nó đã muốn từ lâu.",
+  "note": "Câu đúng: 明日の子どもの誕生日には、ずっと欲しがっていたおもちゃを買ってあげる予定だ。★ = おもちゃを. 欲しがる = (người khác) muốn có; Vてあげる = làm cho ai."
+ },
+ "dethitiengnhat:N3-9-3-q2": {
+  "opts": [
+   "のうちに – 'trong lúc/trong khoảng', không hợp",
+   "のかわりに – 'thay cho', không hợp",
+   "✔ のことで – 'về chuyện…', nêu lý do gọi điện",
+   "のうえで – 'về mặt/sau khi', không hợp"
+  ],
+  "trans": "(Qua điện thoại) Hayashi: \"Alo, anh Suzuki à. Tôi gọi về chuyện tài liệu tuần trước đã nhờ anh…\" Suzuki: \"À vâng, tài liệu ạ. Tôi đang làm đây.\"",
+  "note": "Nのことで + 電話する/相談する/話がある = gọi, bàn về chuyện N; rất hay dùng khi nêu lý do liên lạc."
+ },
+ "dethitiengnhat:N3-9-3-q3": {
+  "opts": [
+   "拝見していただけませんか – 拝見 là khiêm nhường, không dùng cho hành động của cấp trên",
+   "ご覧いたしませんか – ご覧 là tôn kính, không ghép với いたす",
+   "お見せいたしませんか – sai cách mời; muốn đề nghị thì お見せしましょうか",
+   "✔ 見せていただけませんか – 'cho em xem được không ạ', nhờ người trên"
+  ],
+  "trans": "(Ở công ty) Nhân viên: \"Trưởng phòng ơi, về bản kế hoạch này ạ, anh cho em xem một chút được không ạ?\" Trưởng phòng: \"Được. Chờ chút nhé.\"",
+  "note": "Nhờ cấp trên làm gì: Vていただけませんか. Ở đây người làm hành động 'cho xem' là trưởng phòng nên dùng 見せて."
+ },
+ "dethitiengnhat:N3-9-3-q4": {
+  "opts": [
+   "✔ 帰るところなんです – Vるところ: sắp sửa làm",
+   "帰ったところなんです – 'vừa mới về xong', mâu thuẫn với 今から",
+   "帰っているところなんです – 'đang trên đường về', không hợp 今から",
+   "帰ることにしたんです – 'đã quyết định về', không khớp với 今から"
+  ],
+  "trans": "(Ở công ty) Cấp trên: \"Anh A, kiểm tra tài liệu này ngay giúp tôi được không?\" A: \"Xin lỗi, tôi đang chuẩn bị về ạ. Để mai được không ạ?\"",
+  "note": "今から + Vるところ = ngay bây giờ sắp làm. Phân biệt: Vるところ (sắp), Vているところ (đang), Vたところ (vừa xong)."
+ },
+ "dethitiengnhat:N3-9-3-q5": {
+  "opts": [
+   "運んであげませんか – rủ cùng mang giúp người thứ ba",
+   "✔ 運んであげましょうか – 'để tôi mang giúp nhé?', đề nghị giúp",
+   "運んでもらいませんか – rủ cùng nhờ người khác mang, sai",
+   "運んでもらいましょうか – 'nhờ người khác mang nhé?', không hợp"
+  ],
+  "trans": "A: \"Hành lý đó trông nặng nhỉ. Để tôi mang ra tới cửa giúp nhé?\" B: \"A, cảm ơn anh. Đỡ cho tôi quá.\"",
+  "note": "Vてあげましょうか = đề nghị làm giúp người nghe. B trả lời 助かります xác nhận A là người giúp."
+ },
+ "dethitiengnhat:N3-9-3-q6": {
+  "opts": [
+   "ごろに – ごろ chỉ thời điểm (3時ごろ), không dùng cho khoảng thời gian",
+   "ごろで – sai cả ごろ lẫn で",
+   "ぐらいに – ぐらい đúng nhưng に chỉ thời điểm, không hợp",
+   "✔ ぐらいで – 'khoảng (30 phút) là', で chỉ thời gian cần"
+  ],
+  "trans": "Từ đây ra sân bay, đi taxi thì tôi nghĩ khoảng 30 phút là tới.",
+  "note": "ごろ = khoảng thời điểm, ぐらい = khoảng lượng/độ dài. で sau khoảng thời gian chỉ mất bao lâu: 30分で着く."
+ },
+ "dethitiengnhat:N3-9-3-q7": {
+  "opts": [
+   "参加しなくてよかった – 'may mà không tham gia', ngược ý",
+   "参加するつもりだった – 'đã định tham gia', không hợp",
+   "✔ 参加してよかった – 'tham gia thật đáng/thật tốt'",
+   "参加したらいいなあ – 'giá mà tham gia thì hay', việc chưa xảy ra"
+  ],
+  "trans": "A: \"Cuộc thi hùng biện hôm qua thế nào?\" B: \"Hồi hộp lắm, nhưng nói được đúng như đã tập, tham gia đúng là đáng.\"",
+  "note": "〜てよかった = may quá/thật tốt vì đã làm; đánh giá tích cực việc đã xảy ra, hợp với 練習した通りに話せた."
+ },
+ "dethitiengnhat:N3-9-3-q8": {
+  "opts": [
+   "✔ たった今 – 'vừa mới đây', đi với 〜たばかり",
+   "やっと – 'cuối cùng cũng', không hợp",
+   "そろそろ – 'sắp sửa', dùng cho việc sắp tới",
+   "さっそく – 'ngay lập tức (bắt tay làm)', không hợp"
+  ],
+  "trans": "A: \"Ơ, hết pin rồi. Không chạy nữa.\" B: \"Hả, vừa mới thay pin mới xong mà. Lạ thật.\"",
+  "note": "たった今 = vừa mới ngay đây, khớp với 替えたばかり và sự ngạc nhiên おかしいなあ."
+ },
+ "dethitiengnhat:N3-9-3-q9": {
+  "opts": [
+   "ついたまま – つく là tự động từ, không đi với を",
+   "✔ つけたまま – 'để nguyên (tivi) bật', つける tha động từ + たまま",
+   "つけているうちに – 'trong lúc đang bật', không hợp",
+   "ついているうちに – tự động từ + うちに, sai"
+  ],
+  "trans": "Hôm qua mệt quá nên tôi để nguyên tivi bật mà ngủ quên mất.",
+  "note": "テレビを → cần tha động từ つける. Vたまま = giữ nguyên trạng thái đó mà làm việc khác."
+ },
+ "mazii:625-11190-0": {
+  "opts": [
+   "✔ ことを – 'việc, điều (tân ngữ)'",
+   "おけば – 'nếu làm sẵn'",
+   "決まった – 'đã được quyết định'",
+   "申し上げて – 'thưa, báo (khiêm nhường)'"
+  ],
+  "trans": "Vậy thì tôi cứ báo trước với trưởng phòng những điều đã quyết trong cuộc họp là được, phải không ạ?",
+  "note": "Câu đúng: では、部長には、会議で決まったことを申し上げておけば、よろしいでしょうか。★ = ことを. 申し上げる là khiêm nhường của 言う; 〜ておけば = nếu làm sẵn."
+ },
+ "mazii:625-4183-0": {
+  "opts": [
+   "行ったものではない – sai, ものではない đi với V thể từ điển",
+   "行かないものではない – nghĩa rối, không hợp",
+   "✔ 行かせるものではない – 'không nên cho (trẻ) đi'",
+   "行かれるものではない – bị động/kính ngữ, không hợp với 子を"
+  ],
+  "trans": "Không nên để trẻ nhỏ đi chơi xa một mình.",
+  "note": "Vる＋ものではない = theo lẽ thường không nên làm. 子を + thể sai khiến 行かせる = cho/để con đi."
+ },
+ "mazii:625-4188-0": {
+  "opts": [
+   "大事な会議に欠席した – vắng họp, không phải hành động bất chấp đau",
+   "医者に足を見てもらった – đi khám là chuyện bình thường, không phải bất chấp",
+   "✔ 工事現場を見てまわった – 'đi một vòng xem công trường', bất chấp đau",
+   "骨折していることがわかった – sự phát hiện, không phải hành động có chủ ý"
+  ],
+  "trans": "Anh ấy mặc kệ cái chân bị thương đang đau, vẫn đi một vòng xem xét công trường.",
+  "note": "〜もかまわず = bất chấp, không bận tâm ~; vế sau là hành động có chủ ý mà bình thường người ta sẽ tránh."
+ },
+ "mazii:625-4237-0": {
+  "opts": [
+   "にくらべて – 'so với', không hợp",
+   "に応じては – 'tùy theo', không hợp",
+   "✔ にたとえると – 'nếu ví với'",
+   "について言えば – 'nói về', không đi với cấu trúc AをB"
+  ],
+  "trans": "Nếu ví sự ngắn ngủi của đời người với một loài hoa thì đó là hoa anh đào.",
+  "note": "AをBにたとえる = ví A như B. Trợ từ を trong 短さを là dấu hiệu chọn たとえる."
+ },
+ "mazii:625-4253-0": {
+  "opts": [
+   "ことだ – 'nên làm…' (lời khuyên), không hợp",
+   "✔ きりだ – Vたきり: làm một lần rồi thôi, sau đó không nữa",
+   "ほどだ – 'đến mức', không hợp",
+   "ばかりだ – Vたばかり 'vừa mới', mâu thuẫn với 20年前"
+  ],
+  "trans": "Tôi chỉ gặp anh Honda đúng một lần cách đây 20 năm, từ đó đến nay không gặp lại.",
+  "note": "Vたきり(だ) = làm một lần rồi thôi, sau đó không xảy ra nữa. Hay đi với 一度, それきり."
+ },
+ "mazii:625-4283-0": {
+  "opts": [
+   "からには – 'một khi đã… thì phải', không hợp",
+   "あまり – 'quá… đến nỗi', không hợp",
+   "だけあって – 'quả đúng là… nên', khen kết quả xứng đáng",
+   "✔ わりには – 'so với… thì lại (không như mong đợi)'"
+  ],
+  "trans": "Kết quả điều tra cho thấy, dù khắt khe với cách ăn nói của giới trẻ, nhiều người ở độ tuổi 40, 50 lại không hiểu đúng nghĩa của từ ngữ.",
+  "note": "〜わりには = kết quả trái với mức mong đợi từ vế trước. Khắt khe với người khác mà chính mình lại không hiểu → nghịch lý."
+ },
+ "mazii:625-4391-0": {
+  "opts": [
+   "されます – bị động, không đi với ことが",
+   "できます – khẳng định, mâu thuẫn với 〜たところで",
+   "されません – sai cấu trúc",
+   "✔ できません – 〜ことができない 'không thể'"
+  ],
+  "trans": "Dù có bàn bạc bao nhiêu đi nữa thì cũng không thể giải quyết được vấn đề này.",
+  "note": "いくら〜たところで = dù có làm… thì cũng vô ích; vế sau luôn mang nghĩa phủ định/tiêu cực."
+ },
+ "mazii:625-4442-0": {
+  "opts": [
+   "とも – không có mẫu này",
+   "をも – không có mẫu này",
+   "✔ には – Vずにはいられない: không thể không làm",
+   "では – không có mẫu này"
+  ],
+  "trans": "Hễ thấy người đang gặp khó khăn là tôi không thể không giúp.",
+  "note": "Vない(bỏ ない)＋ずにはいられない = không kìm được, thế nào cũng làm. Riêng する → せずにはいられない."
+ },
+ "mazii:625-4479-0": {
+  "opts": [
+   "だけ – 'chỉ', không hợp",
+   "こそ – 'chính là', không đi với 〜はない",
+   "✔ ほど – AほどBはない: không có B nào bằng A",
+   "ばかり – 'toàn là', không hợp"
+  ],
+  "trans": "Có lẽ không có vụ việc nào gây cho mọi người nỗi sợ hãi lớn bằng vụ việc xảy ra hôm trước.",
+  "note": "Nほど〜はない = không có gì ~ bằng N (so sánh nhất). 先日 = hôm trước/mấy hôm trước."
+ },
+ "mazii:625-4551-0": {
+  "opts": [
+   "めしあがって – tôn kính ngữ (người khác ăn), không dùng cho mình",
+   "あがって – cũng là tôn kính, không dùng cho mình",
+   "✔ いただいて – khiêm nhường ngữ của 食べる",
+   "おっしゃって – tôn kính của 言う, sai nghĩa"
+  ],
+  "trans": "Dạo này sức khỏe tôi cũng tốt lên, ăn gì cũng thấy ngon.",
+  "note": "Chủ ngữ là わたし + おります (khiêm nhường) → cần khiêm nhường ngữ いただく. 召し上がる chỉ dùng cho người trên."
+ },
+ "mazii:625-4581-0": {
+  "opts": [
+   "部分 – 'bộ phận', không phải mẫu nối câu",
+   "✔ 反面 – 'mặt khác (lại)', nêu hai mặt trái ngược",
+   "反対 – 'ngược lại/phản đối', không nối trực tiếp sau tính từ",
+   "半分 – 'một nửa', sai nghĩa"
+  ],
+  "trans": "Loại vải này chịu nước tốt, nhưng mặt khác lại chịu nhiệt kém.",
+  "note": "A反面B = A nhưng mặt khác B (hai tính chất trái ngược của cùng một đối tượng). Nối thể thông thường: 強い反面, 便利な反面."
+ },
+ "mazii:625-4602-0": {
+  "opts": [
+   "まで – 'đến mức', không hợp",
+   "わけ – 'lý do', không hợp",
+   "✔ うえ – Vたうえは: một khi đã… thì",
+   "ほど – 'mức độ', không hợp"
+  ],
+  "trans": "Một khi tình hình đã thành ra thế này thì không thể để một mình anh ấy lo được nữa.",
+  "note": "Vた＋うえは = một khi đã ~ thì (phải/không thể); giống 〜以上は, 〜からには, vế sau là quyết tâm/phán đoán."
+ },
+ "mazii:625-7768-0": {
+  "opts": [
+   "にほかならない – 'chính là, không gì khác', khẳng định bản chất/lý do",
+   "✔ に違いない – 'chắc chắn là', suy đoán có căn cứ",
+   "とのことだ – 'nghe nói', truyền đạt lại",
+   "はもちろん – 'thì đương nhiên', cần vế sau"
+  ],
+  "trans": "Nghe nói anh Kimura từ sáng đã bị cảm, không khỏe, mặt lại đỏ nên chắc chắn là đang sốt.",
+  "note": "Có căn cứ (赤い顔をしている) → suy đoán chắc chắn: 〜に違いない."
+ },
+ "mazii:625-7901-0": {
+  "opts": [
+   "について – 'về'",
+   "させて – 'cho phép (tôi) làm'",
+   "印象 – 'ấn tượng'",
+   "✔ インタビュー – 'phỏng vấn'"
+  ],
+  "trans": "Cho tôi phỏng vấn bạn về ấn tượng đối với Nhật Bản được không?",
+  "note": "Câu đúng: 日本の印象についてインタビューさせてもらえませんか。★ = インタビュー. Vさせてもらえませんか = xin phép được làm ~."
+ },
+ "mazii:625-7918-0": {
+  "opts": [
+   "象 – 'con voi'",
+   "好きな – 'thích'",
+   "✔ というと – 'nói đến… thì'",
+   "動物 – 'động vật'"
+  ],
+  "trans": "Nói đến con vật mà trẻ con thích thì chắc là con voi nhỉ?",
+  "note": "Câu đúng: 子供の好きな動物というと象でしょうか。★ = というと. Nというと = nhắc đến N thì nghĩ ngay tới…"
+ },
+ "mazii:625-7961-0": {
+  "opts": [
+   "はじめて – 'lần đầu, mới'",
+   "あの先生に – 'với thầy ấy'",
+   "✔ なって – 'trở nên, bắt đầu'",
+   "習うように – '(bắt đầu) được học'"
+  ],
+  "trans": "Phải đến khi được học với thầy ấy, tôi mới thấy việc học tiếng Nhật thú vị.",
+  "note": "Câu đúng: あの先生に習うようになってはじめて日本語の勉強がおもしろくなった。★ = なって. Vてはじめて = phải đến khi ~ mới."
+ },
+ "mazii:626-4214-0": {
+  "opts": [
+   "ということではない – 'không có nghĩa là', không hợp",
+   "というからだ – 'vì người ta nói', không hợp",
+   "というわけではない – 'không hẳn là', phủ định một phần",
+   "✔ というものだ – 'đó đúng là…', nhận định chắc"
+  ],
+  "trans": "Không nghe đối phương nói mà chỉ cố ép ý mình, như thế đúng là ích kỷ.",
+  "note": "Nというものだ = đó chính là ~ (nhận định, thường phê phán). Đi kèm 〜なんて thể hiện sự bất bình."
+ },
+ "mazii:626-4238-0": {
+  "opts": [
+   "✔ ようなら – 'nếu (cứ) tình trạng…', điều kiện kèm cảnh cáo",
+   "ついでに – 'nhân tiện', không hợp",
+   "ことには – Vないことには 'nếu không… thì không', sai hình thức",
+   "あまりに – 'quá… nên', không hợp"
+  ],
+  "trans": "Nếu mai cậu lại nghỉ làm nữa thì tôi sẽ cho cậu nghỉ việc.",
+  "note": "〜ようなら = nếu tình trạng ~ cứ xảy ra; hay dùng khi cảnh báo, vế sau là biện pháp xử lý."
+ },
+ "mazii:626-4300-0": {
+  "opts": [
+   "しなければならない – 'phải thảo luận', ngược ý câu trước",
+   "✔ しても仕方がない – 'có làm cũng vô ích'",
+   "した方がいい – 'nên thảo luận', ngược ý",
+   "してもいい – 'được phép thảo luận', không hợp"
+  ],
+  "trans": "Về vấn đề xử lý rác, thầy Hayashi là người am hiểu nhất. Với chuyện chuyên môn thì bàn mà không có thầy Hayashi cũng vô ích.",
+  "note": "Nをぬきにして = không có N/gạt N ra. Thầy giỏi nhất nên thiếu thầy thì bàn cũng vô ích → 〜ても仕方がない."
+ },
+ "mazii:626-4303-0": {
+  "opts": [
+   "好きなどころか – 'đâu chỉ thích, ngược lại…', không hợp",
+   "好きなわりには – 'so với mức thích thì', không hợp",
+   "✔ 好きだからこそ – 'chính vì thích nên'",
+   "好きというより – 'thay vì nói là thích', không hợp"
+  ],
+  "trans": "Nhiều người biến sở thích thành nghề nghiệp, nhưng chính vì thích phim nên tôi quyết định không lấy nó làm nghề.",
+  "note": "〜からこそ nhấn mạnh lý do đặc biệt, thường trái với suy nghĩ thông thường (người khác thích thì làm nghề, tôi thì ngược lại)."
+ },
+ "mazii:626-4311-0": {
+  "opts": [
+   "と同時に – 'đồng thời', không nhấn sự trái ngược",
+   "かぎり – 'chừng nào còn', không hợp",
+   "ばかりか – 'không những… mà còn', hai ý cùng chiều",
+   "✔ 反面 – 'mặt khác', hai mặt trái ngược"
+  ],
+  "trans": "Chiếc xe này không làm ô nhiễm không khí, nhưng mặt khác lại có nhược điểm là giá cao.",
+  "note": "Ưu điểm (không gây ô nhiễm) đối lập với nhược điểm (欠点) → A反面B."
+ },
+ "mazii:626-4409-0": {
+  "opts": [
+   "ぐらいだ – không đi sau かの",
+   "✔ ようだ – まるで〜かのようだ: cứ như thể là",
+   "みたい – không nói かのみたい",
+   "らしい – không đi sau かの"
+  ],
+  "trans": "Mới đầu tháng 3 mà trời nóng quá. Cứ như thể đã sang hè vậy.",
+  "note": "まるで〜(た)かのようだ = cứ như thể là ~ (thực tế không phải). まるで là dấu hiệu đi với ようだ."
+ },
+ "mazii:626-4411-0": {
+  "opts": [
+   "✔ わけがない – 'không đời nào, không thể nào'",
+   "にすぎない – 'chỉ là… mà thôi', không hợp",
+   "べきでない – 'không nên', không hợp",
+   "にちがいない – 'chắc chắn là', ngược ý"
+  ],
+  "trans": "Câu hỏi khó thế này thì không đời nào có ai trả lời được.",
+  "note": "〜わけがない = hoàn toàn không thể (phủ định mạnh dựa trên lý lẽ). こんなむずかしい là căn cứ."
+ },
+ "mazii:626-4478-0": {
+  "opts": [
+   "ものの – 'tuy… nhưng', không hợp",
+   "✔ うえに – 'đã… lại còn'",
+   "うちに – 'trong lúc', không hợp",
+   "ほどの – 'đến mức', không hợp"
+  ],
+  "trans": "Thủ tục này đã phiền phức lại còn mất thời gian nên ai cũng ngán.",
+  "note": "Aうえに(Bも) = không chỉ A mà còn B, hai ý cùng chiều; chữ も trong 時間も là gợi ý. Tính từ đuôi な: 面倒なうえに."
+ },
+ "mazii:626-7715-0": {
+  "opts": [
+   "できないと断るつもりだ – 'định từ chối', mâu thuẫn với đã nhận",
+   "✔ 簡単にやめることはできない – 'không thể dễ dàng bỏ'",
+   "断りたいのだが – 'muốn từ chối', không hợp với 以上",
+   "もうやめたいと思っている – 'muốn bỏ', không hợp"
+  ],
+  "trans": "Một khi đã nhận việc thì không thể dễ dàng bỏ ngang.",
+  "note": "〜以上(は) = một khi đã ~ thì; vế sau là nghĩa vụ, quyết tâm hoặc phán đoán (〜なければならない, 〜はできない)."
+ },
+ "mazii:626-7734-0": {
+  "opts": [
+   "✔ 休んでばかりもいられない – 'không thể cứ nghỉ mãi'",
+   "休んでかなわない – 'nghỉ thì chịu không nổi', sai nghĩa",
+   "休まないこともない – 'không phải là không nghỉ', không hợp",
+   "休まないではいられない – 'không thể không nghỉ', ngược ý với が"
+  ],
+  "trans": "Dạo này sức khỏe không tốt, nhưng cũng không thể cứ nghỉ làm mãi được.",
+  "note": "Vてばかりもいられない = không thể cứ mãi làm ~ (dù muốn). Trợ từ が (nhưng) báo hiệu vế sau trái với vế trước."
+ },
+ "mazii:626-7755-0": {
+  "opts": [
+   "として – 'với tư cách là', không hợp",
+   "✔ にとって – 'đối với (ai)', nêu góc nhìn/đánh giá",
+   "からして – 'ngay từ…', không hợp",
+   "によって – 'tùy theo/do', không hợp"
+  ],
+  "trans": "Email là thứ không thể thiếu đối với giới trẻ.",
+  "note": "Nにとって + đánh giá (大切だ, なくてはならない, 難しい) = xét từ lập trường của N."
+ },
+ "mazii:626-7955-0": {
+  "opts": [
+   "絶対に – 'tuyệt đối'",
+   "来てください – 'hãy đến'",
+   "ですから – 'vì vậy'",
+   "✔ 遅れないように – 'để không bị muộn'"
+  ],
+  "trans": "Không vào giữa chừng được đâu. Vì vậy hãy đến sao cho tuyệt đối không bị muộn.",
+  "note": "Câu đúng: 途中からは入れません。ですから絶対に遅れないように来てください。★ = 遅れないように. Vないように = để không ~."
+ },
+ "mazii:626-8244-0": {
+  "opts": [
+   "進めるのは – 'việc tiến hành (thì)'",
+   "✔ ぬきで – 'không có, gạt ra'",
+   "話を – 'câu chuyện (tân ngữ)'",
+   "家族旅行の – 'của chuyến du lịch gia đình'"
+  ],
+  "trans": "Bàn tiếp chuyện đi du lịch gia đình mà không có bố thì không hay đâu nhỉ.",
+  "note": "Câu đúng: お父さんぬきで家族旅行の話を進めるのはよくないね。★ = ぬきで. Nぬきで/ぬきにして = không có N, gạt N ra."
+ },
+ "mazii:626-8387-0": {
+  "opts": [
+   "✔ 私は – 'tôi thì'",
+   "作るのも – 'việc nấu cũng'",
+   "に比べて – 'so với'",
+   "料理を – 'món ăn (tân ngữ)'"
+  ],
+  "trans": "So với anh trai, tôi nấu ăn cũng chậm mà ăn cũng chậm.",
+  "note": "Câu đúng: 兄に比べて私は料理を作るのも食べるのも遅い。★ = 私は. Nに比べて = so với N; AのもBのも = cả A lẫn B."
+ },
+ "mazii:626-8576-0": {
+  "opts": [
+   "明るくなった – 'đã trở nên vui vẻ'",
+   "ように – '(trở nên) có thể'",
+   "✔ なってから – 'từ khi trở nên'",
+   "わかる – 'hiểu'"
+  ],
+  "trans": "Cậu sinh viên đó hình như vui vẻ hẳn lên từ khi hiểu được tiếng Nhật.",
+  "note": "Câu đúng: あの学生は日本語がわかるようになってから明るくなったみたい。★ = なってから. Vるようになる = trở nên (có thể) ~; 〜てから = từ sau khi."
+ },
+ "mazii:627-11175-0": {
+  "opts": [
+   "✔ 川の流れる – '(nước) sông chảy'",
+   "に加えて – 'thêm vào, ngoài ra'",
+   "音も聞こえて – 'cũng nghe thấy tiếng'",
+   "虫の音 – 'tiếng côn trùng'"
+  ],
+  "trans": "Ngoài tiếng côn trùng còn nghe được cả tiếng nước sông chảy, lòng thấy thật thư thái.",
+  "note": "Câu đúng: 虫の音に加えて川の流れる音も聞こえてとても心が落ち着く。★ = 川の流れる. Nに加えて = thêm vào N, thường đi với も ở vế sau."
+ },
+ "mazii:627-4164-0": {
+  "opts": [
+   "✔ ほど – 'đến mức', おもしろいほど = đến mức thấy vui",
+   "こそ – 'chính là', không hợp",
+   "あまり – 'quá… nên (kết quả xấu)', không hợp",
+   "ばかり – 'chỉ toàn', không hợp"
+  ],
+  "trans": "Sản phẩm mới áp dụng ý tưởng của các bà nội trợ bán chạy đến mức đáng kinh ngạc.",
+  "note": "おもしろいほど〜 là cách nói cố định: '(nhiều/dễ) đến mức thấy buồn cười', chỉ mức độ rất cao, không phải sản phẩm 'thú vị'."
+ },
+ "mazii:627-4165-0": {
+  "opts": [
+   "よっては – 'tùy theo', không hợp",
+   "そっては – không có mẫu này (にそって = dọc theo)",
+   "✔ おいては – Nにおいて(は): ở, trong (thời điểm, lĩnh vực)",
+   "あたっては – 'khi tiến hành (việc quan trọng)', không hợp"
+  ],
+  "trans": "Vào thời ấy, những chuyện như du lịch nước ngoài là điều như trong mơ.",
+  "note": "Nにおいて(は) = ở/tại/trong (thời gian, nơi chốn, lĩnh vực), dạng văn viết của で."
+ },
+ "mazii:627-4231-0": {
+  "opts": [
+   "会ったなら – 'nếu đã gặp', không hợp",
+   "✔ 会うたびに – 'mỗi lần gặp'",
+   "会ううちに – 'trong lúc gặp (dần dần)', không hợp",
+   "会ったところ – 'gặp thì (mới biết)', chỉ một lần"
+  ],
+  "trans": "Mỗi lần gặp, chị Uchida lại để một kiểu tóc khác.",
+  "note": "Vるたびに = mỗi lần ~ là lại…; diễn tả việc lặp lại."
+ },
+ "mazii:627-4379-0": {
+  "opts": [
+   "にとっての – 'đối với (góc nhìn của)', không đi với 批判",
+   "にとって – sai, cần dạng bổ nghĩa danh từ",
+   "に対するの – sai ngữ pháp, thừa の",
+   "✔ に対する – 'đối với', bổ nghĩa cho danh từ 批判"
+  ],
+  "trans": "Gần đây, sự chỉ trích đối với các doanh nghiệp gây ô nhiễm ngày càng mạnh.",
+  "note": "Bổ nghĩa danh từ: Nに対する批判 hoặc Nに対しての批判. Không nói に対するの."
+ },
+ "mazii:627-4423-0": {
+  "opts": [
+   "お書きした – khiêm nhường (お〜する), dùng cho mình",
+   "✔ お書きになった – tôn kính (お〜になる), dùng cho thầy",
+   "お書かれなった – sai hình thức",
+   "お書かれした – sai hình thức"
+  ],
+  "trans": "Thưa thầy Tanaka, em muốn hỏi thầy về cuốn sách thầy viết gần đây ạ.",
+  "note": "Hành động của thầy → tôn kính お＋V(ます)＋になる. お＋V(ます)＋する là khiêm nhường, cho hành động của mình."
+ },
+ "mazii:627-4504-0": {
+  "opts": [
+   "うえに – 'đã… lại còn', không hợp",
+   "うえから – không có mẫu này",
+   "うえにも – không có mẫu này",
+   "✔ うえで – Vたうえで: làm A xong rồi mới B"
+  ],
+  "trans": "Căn hộ thì tôi muốn xem bên trong phòng rồi mới quyết định có thuê hay không.",
+  "note": "Vた＋うえで = làm A xong (cẩn thận) rồi dựa vào đó làm B; hay đi với 決める, 判断する."
+ },
+ "mazii:627-4510-0": {
+  "opts": [
+   "まいか – phỏng đoán phủ định, không đi sau 行こう",
+   "ともしない – 'cũng chẳng thèm', sai",
+   "✔ じゃないか – Vようじゃないか: nào, cùng làm đi",
+   "ともする – sai"
+  ],
+  "trans": "Đừng cứ ở lì trong nhà, mình đi xem phim hay gì đó đi nào.",
+  "note": "Vよう(thể ý chí)＋じゃないか/ではないか = kêu gọi, rủ rê mạnh mẽ 'nào cùng ~ đi'."
+ },
+ "mazii:627-4514-0": {
+  "opts": [
+   "✔ つき – Nにつき: mỗi, tính trên một N",
+   "とって – にとって 'đối với', không hợp",
+   "わたり – にわたり 'suốt (phạm vi)', không hợp",
+   "かけ – không hợp nghĩa"
+  ],
+  "trans": "Tiền nước mất 3000 yên mỗi tháng.",
+  "note": "Nにつき = cho mỗi N (đơn vị tính): 1人につき, 1時間につき. につき còn có nghĩa 'vì' trong thông báo."
+ },
+ "mazii:627-4620-0": {
+  "opts": [
+   "にかけて – 'suốt từ… đến', không hợp",
+   "につけて – 'mỗi khi', không hợp",
+   "✔ にさきだち – 'trước khi (việc quan trọng)'",
+   "にこたえて – 'đáp ứng', không hợp"
+  ],
+  "trans": "Trước khi nhập khẩu thuốc mới, người ta đang tiến hành điều tra thận trọng.",
+  "note": "Nにさきだち/さきだって = trước khi làm việc quan trọng N thì làm việc chuẩn bị."
+ },
+ "mazii:627-4630-0": {
+  "opts": [
+   "✔ 抜きにして – 'bỏ qua, không làm'",
+   "抜きながら – 'vừa rút vừa…', sai nghĩa",
+   "抜いても – 'dù có rút ra', sai nghĩa",
+   "抜きつつ – 'vừa rút vừa…', sai nghĩa"
+  ],
+  "trans": "Hôm nay không có thời gian. Bỏ qua phần chào hỏi, chúng ta bắt đầu họp ngay nhé.",
+  "note": "Nは抜きにして = bỏ qua N, không làm N; cách nói cố định."
+ },
+ "mazii:627-7754-0": {
+  "opts": [
+   "によって – 'tùy theo/bởi', không hợp",
+   "にとって – 'đối với', không hợp",
+   "✔ につれて – 'càng… thì càng', biến đổi song song",
+   "にたいして – 'đối với', không hợp"
+  ],
+  "trans": "Giá mà việc nhiều lên thì tiền tiết kiệm cũng tăng theo thì tốt biết mấy…",
+  "note": "AにつれてB = A thay đổi thì B thay đổi theo; cả hai vế đều là động từ biến đổi (増える)."
+ },
+ "mazii:627-7765-0": {
+  "opts": [
+   "に反したら – dạng điều kiện, sai",
+   "に反対で – sai, 反対 là 'phản đối'",
+   "に反する – dạng bổ nghĩa, phải có danh từ theo sau",
+   "✔ に反して – 'trái với'"
+  ],
+  "trans": "Trái với dự báo là bão sẽ đến, hôm nay trời lại đẹp.",
+  "note": "N(予想/期待)に反して = trái với dự đoán/mong đợi, nối hai mệnh đề; に反する + N khi bổ nghĩa danh từ."
+ },
+ "mazii:627-8403-0": {
+  "opts": [
+   "旅行するか – 'có đi du lịch (đâu) không'",
+   "どこに – 'đến đâu'",
+   "あげく – 'rốt cuộc, sau khi… mãi'",
+   "✔ 悩んだ – 'đã phân vân'"
+  ],
+  "trans": "Nghỉ hè tôi phân vân mãi không biết nên đi du lịch đâu, rốt cuộc chẳng đi đâu cả.",
+  "note": "Câu đúng: 夏休みどこに旅行するか悩んだあげく、結局どこへも行かなかった。★ = 悩んだ. Vたあげく = sau khi ~ mãi thì rốt cuộc (kết quả không mong muốn)."
+ },
+ "mazii:627-8423-0": {
+  "opts": [
+   "かぎらない – 'không hẳn'",
+   "いつも – 'lúc nào cũng'",
+   "✔ 正しいとは – 'đúng (thì)'",
+   "話が – 'lời nói, câu chuyện'"
+  ],
+  "trans": "Lời thầy nói không phải lúc nào cũng đúng.",
+  "note": "Câu đúng: 先生の話がいつも正しいとはかぎらない。★ = 正しいとは. いつも/必ず〜とはかぎらない = không phải lúc nào cũng ~."
+ },
+ "mazii:627-8441-0": {
+  "opts": [
+   "✔ 反面 – 'mặt khác'",
+   "なった – 'đã trở nên'",
+   "に – trợ từ (〜になる)",
+   "便利 – 'tiện lợi'"
+  ],
+  "trans": "Có sân bay thì tiện lợi hơn, nhưng mặt khác khách du lịch tăng lên nên ồn ào hơn.",
+  "note": "Câu đúng: 飛行場ができて便利になった反面、観光客が増えてうるさくなった。★ = 反面. A反面B = A nhưng mặt khác B."
+ },
+ "mlc:n3_001-q1": {
+  "opts": [
+   "知れています – sai dạng, 知れる là 'bị lộ, biết được'",
+   "知られます – thiếu ている, không diễn tả trạng thái lâu dài",
+   "✔ 知られています – bị động + ている: được biết đến",
+   "知っていられます – sai hình thức"
+  ],
+  "trans": "Núi Phú Sĩ được biết đến là ngọn núi có hình dáng đẹp.",
+  "note": "〜として知られている = được biết đến như là ~; trạng thái lâu dài nên dùng bị động + ている."
+ },
+ "mlc:n3_001-q2": {
+  "opts": [
+   "建ってられた – sai hình thức",
+   "✔ 建てられた – bị động của 建てる (xây)",
+   "建ちられた – sai, 建つ là tự động từ",
+   "建ちられます – sai hình thức"
+  ],
+  "trans": "Đây là bảo tàng mỹ thuật được xây từ hơn 100 năm trước.",
+  "note": "建てる (tha động từ, xây) → bị động 建てられる. 建つ (tự động từ, được dựng lên) không chia thành 建ちられる."
+ },
+ "mlc:n3_002-q1": {
+  "opts": [
+   "降らなかったうちに – うちに không đi với thể quá khứ",
+   "降っていなかっうたちに – sai chính tả, hình thức",
+   "降るうちに – 'trong lúc mưa', ngược ý",
+   "✔ 降らないうちに – 'tranh thủ trước khi mưa'"
+  ],
+  "trans": "Tôi định tranh thủ đi mua sắm trước khi trời đổ mưa.",
+  "note": "Vないうちに = tranh thủ làm trước khi điều không mong muốn xảy ra; うちに luôn đi với thể không quá khứ."
+ },
+ "mlc:n3_002-q2": {
+  "opts": [
+   "✔ 見ないうちに – 'trong thời gian không gặp'",
+   "見ないのうちに – thừa の",
+   "見なかったうちに – không dùng thể quá khứ",
+   "見るうちに – 'trong lúc nhìn', sai nghĩa"
+  ],
+  "trans": "Mới không gặp một thời gian ngắn mà con gái của bạn tôi đã lớn hẳn, tôi ngạc nhiên quá.",
+  "note": "少し見ないうちに = mới không gặp một thời gian mà đã ~; vế sau là sự thay đổi bất ngờ."
+ },
+ "mlc:n3_003-q1": {
+  "opts": [
+   "やせ気味してる – sai hình thức",
+   "✔ やせ気味で – 'hơi gầy và…', 気味 + で để nối",
+   "やせた気味な – 気味 không đi sau thể た",
+   "やせた気味の – sai hình thức"
+  ],
+  "trans": "Thủ phạm là một người hơi gầy và cao.",
+  "note": "V(ます)＋気味 / N＋気味 = hơi có vẻ ~ (thường tiêu cực). Nối tiếp như danh từ: やせ気味で."
+ },
+ "mlc:n3_003-q2": {
+  "opts": [
+   "緊張な気味 – sai, không thêm な",
+   "緊張している気味 – sai, 気味 không đi sau Vている",
+   "✔ 緊張気味 – N + 気味: 'hơi căng thẳng'",
+   "緊張の気味 – thừa の"
+  ],
+  "trans": "Cô ấy hơi căng thẳng nhưng bài thuyết trình đã kết thúc suôn sẻ.",
+  "note": "気味 gắn trực tiếp vào danh từ hoặc V bỏ ます: 風邪気味, 緊張気味, 疲れ気味."
+ },
+ "mlc:n3_004-q1": {
+  "opts": [
+   "一度のチャンスきり – sai vị trí きり",
+   "一度チャンスきり – sai hình thức",
+   "✔ 一度きりのチャンス – 'cơ hội chỉ có một lần'",
+   "一度きりチャンス – thiếu の"
+  ],
+  "trans": "Với tôi, kỳ thi năm nay là cơ hội duy nhất nên nhất định tôi muốn đỗ.",
+  "note": "Số lượng + きり = chỉ có ~; bổ nghĩa danh từ cần の: 一度きりのチャンス, 二人きりの時間."
+ },
+ "mlc:n3_004-q2": {
+  "opts": [
+   "✔ 一年間勉強したきり – 'học một năm rồi thôi'",
+   "一年間きり勉強した – sai vị trí きり",
+   "一年間勉強しきり – sai, きり ở đây đi với Vた",
+   "一年間勉強するきり – sai, không dùng thể từ điển"
+  ],
+  "trans": "Tiếng Pháp thì tôi chỉ học một năm hồi đại học rồi thôi nên quên sạch rồi.",
+  "note": "Vたきり = làm ~ rồi sau đó không làm nữa. (Đề in しましました là lỗi gõ của しまいました.)"
+ },
+ "mlc:n3_005-q1": {
+  "opts": [
+   "別れくらいなら – sai hình thức",
+   "別れたくらいなら – không dùng thể た",
+   "別れのくらいなら – sai hình thức",
+   "✔ 別れるくらいなら – 'nếu phải chia tay thì thà…'"
+  ],
+  "trans": "Nếu phải chia tay cô ấy thì thà chết còn hơn.",
+  "note": "Vる＋くらいなら＋〜ほうがましだ = nếu phải làm điều tệ A thì thà làm B còn hơn."
+ },
+ "mlc:n3_005-q2": {
+  "opts": [
+   "✔ 結婚するくらいなら – 'nếu phải cưới thì thà…'",
+   "結婚くらいなら – thiếu する",
+   "結婚のくらいなら – sai hình thức",
+   "結婚しくらいなら – sai hình thức"
+  ],
+  "trans": "Nếu phải cưới người như thế thì thà chết còn hơn.",
+  "note": "くらいなら đi với động từ thể từ điển: 結婚するくらいなら. Vế sau thường là 〜ほうがましだ."
+ },
+ "mlc:n3_006-q1": {
+  "opts": [
+   "✔ 早く帰らせていただけません – 'cho phép tôi về sớm được không'",
+   "早く帰らせてません – sai hình thức",
+   "早く帰りさせません – sai thể sai khiến",
+   "早く帰りさせていただけません – sai, sai khiến của 帰る là 帰らせる"
+  ],
+  "trans": "Hôm nay tôi thấy không được khỏe lắm, cho phép tôi về sớm một chút được không ạ?",
+  "note": "Vさせていただけませんか = xin phép được làm ~ (lịch sự). 帰る (nhóm 1) → 帰らせる."
+ },
+ "mlc:n3_006-q2": {
+  "opts": [
+   "確認させているも – sai hình thức",
+   "確認させるも – sai hình thức",
+   "確認させも – sai hình thức",
+   "✔ 確認させてもらっても – 'cho tôi xác nhận được không'"
+  ],
+  "trans": "Xin lỗi, cho tôi xác nhận lại lịch trình ngày mai được không?",
+  "note": "Vさせてもらってもいいですか = xin phép làm ~; する → させる → させてもらう."
+ },
+ "mlc:n3_007-q1": {
+  "opts": [
+   "勉強が続けしかない – sai trợ từ và hình thức",
+   "勉強が続けるしかない – 続ける là tha động từ, cần を",
+   "勉強を続けしかない – しかない đi với Vる",
+   "✔ 勉強を続けるしかない – 'chỉ còn cách tiếp tục học'"
+  ],
+  "trans": "Tôi nghĩ để tiếng Nhật tiến bộ thì chỉ còn cách tiếp tục học.",
+  "note": "Vる＋しかない = chỉ còn cách ~. 続ける (tha động từ) đi với を; 続く (tự động từ) đi với が."
+ }
+}

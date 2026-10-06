@@ -1,0 +1,985 @@
+[
+{
+"id": "dethitiengnhat:N3-3-3-q1",
+"type": "grammar_form",
+"question": "部長は「明日の会議は10時からだ」と（　　）いました。",
+"options": [
+"伺って",
+"おっしゃって",
+"申して",
+"申し上げて"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-3-3-q10",
+"type": "grammar_form",
+"question": "このカード一枚（　　）、バスも電車も乗れます。",
+"options": [
+"ままで",
+"ほどで",
+"だけで",
+"だけに"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-3-3-q11",
+"type": "grammar_form",
+"question": "この道は通る（　　）、景色がきれいだと思う。",
+"options": [
+"たびに",
+"とき",
+"うちに",
+"あとで"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-3-3-q12",
+"type": "grammar_form",
+"question": "A: 「明日の飲み会、来ないの？」 B: 「行きたくない（　　　）、その日はどうしても外せない用事があるんだ。」",
+"options": [
+"はずがないので",
+"どころではないし",
+"わけにはいかないが",
+"わけではないが"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-3-3-q13",
+"type": "grammar_form",
+"question": "社長はもうすぐ（　　）ので、こちらでお待ちください。",
+"options": [
+"来る",
+"来られる",
+"いらっしゃる",
+"行く"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-3-3-q14",
+"type": "sentence_order",
+"question": "彼女が ___ ___ ★ ___ 見て、私は心配になった。",
+"options": [
+"顔を",
+"泣き出しそうな",
+"しているのを",
+"今にも"
+],
+"answer": 0,
+"source_explanation": "今にも (4) → 泣き出しそうな (2) → 顔を (1) → しているのを (3)"
+},
+{
+"id": "dethitiengnhat:N3-3-3-q15",
+"type": "sentence_order",
+"question": "このお寺は、雪が降る ___ ___ ★ ___ と評判です。",
+"options": [
+"景色が",
+"最も",
+"その",
+"素晴らしい"
+],
+"answer": 1,
+"source_explanation": "その (C) → 景色が (A) → 最も (B) → 素晴らしい"
+},
+{
+"id": "dethitiengnhat:N3-3-3-q16",
+"type": "sentence_order",
+"question": "この薬は、説明書どおりに ___ ___ ★ ___ よくなりますよ。",
+"options": [
+"きちんと",
+"飲みさえ",
+"すれば",
+"三日ほどで"
+],
+"answer": 2,
+"source_explanation": "きちんと (A) → 飲みさえ (B) → すれば (C) → 三日ほどで"
+},
+{
+"id": "dethitiengnhat:N3-3-3-q17",
+"type": "sentence_order",
+"question": "ピアノの練習曲は、これまでいくら弾いても ___ ___ ★ ___ 今日になってちゃんと弾けるようになった。",
+"options": [
+"あきらめずに",
+"ついに",
+"うまく弾けなかったが",
+"毎日続けていたら"
+],
+"answer": 3,
+"source_explanation": "うまく弾けなかったが → あきらめずに → 毎日続けていたら → ついに"
+},
+{
+"id": "dethitiengnhat:N3-3-3-q18",
+"type": "sentence_order",
+"question": "弟が店を始めるのは不安でしたが、彼が一生懸命 __ __ ★ __ と思っています。",
+"options": [
+"成功させようとして",
+"協力して",
+"やろうか",
+"いるので"
+],
+"answer": 1,
+"source_explanation": "成功させようとして→ いるので→ 協力して→ やろうか"
+},
+{
+"id": "dethitiengnhat:N3-3-3-q2",
+"type": "grammar_form",
+"question": "田中さん、今日は来ない（　　）よ。先生がそう言ってた。",
+"options": [
+"って",
+"と",
+"のに",
+"のを"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-3-3-q3",
+"type": "grammar_form",
+"question": "A: 「ただいま。遅くなってごめん。」 B: 「電話も出ないで……。事故にでもあったかと思って、心配したんだぞ。」 A: 「ごめん、スマホの充電が切れてたんだ。」 B: 「もう、親をあまり心配(　　　)よ。",
+"options": [
+"されないでください",
+"させてください",
+"させないでください",
+"しないでください"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-3-3-q4",
+"type": "grammar_form",
+"question": "昨日は資料も準備できていないまま、部長に急に発表を（　　）、結局うまく説明できなかった。",
+"options": [
+"させて",
+"させられて",
+"されて",
+"していただいて"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-3-3-q5",
+"type": "grammar_form",
+"question": "雨が降る（　　）、試合は中止になるかもしれない。",
+"options": [
+"ようなら",
+"そうで",
+"かもしれなくて",
+"らしいのに"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-3-3-q6",
+"type": "grammar_form",
+"question": "楽しく話していたら、（　　）時間が過ぎてしまった。",
+"options": [
+"いつのまにか",
+"たいてい",
+"すぐ",
+"しばらく"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-3-3-q7",
+"type": "grammar_form",
+"question": "田中さんは自分では料理ができない（　　）、人の作った料理には文句ばかり言う。",
+"options": [
+"ところで",
+"くせに",
+"さらに",
+"ために"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-3-3-q8",
+"type": "grammar_form",
+"question": "このホテルは駅から近い（　　）、朝食も無料で付いている。",
+"options": [
+"それでも",
+"ところが",
+"つまり",
+"しかも"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-3-3-q9",
+"type": "grammar_form",
+"question": "9: この料理は、熱いうちに(　　)おいしくないですよ。",
+"options": [
+"食べても",
+"食べないと",
+"食べたら",
+"食べながら"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-30-3-q1",
+"type": "grammar_form",
+"question": "旅行の最終日は海の近くを散歩したり、カフェに入ったりして、のんびりした午後（　　　）過ごした。",
+"options": [
+"に",
+"で",
+"が",
+"を"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-30-3-q10",
+"type": "grammar_form",
+"question": "私がこれから実現したい目標は、外国の人にも日本の文化を紹介できる仕事を（　　　）。",
+"options": [
+"するはずだ",
+"したいことだ",
+"することだ",
+"するものだ"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-30-3-q11",
+"type": "grammar_form",
+"question": "A：「まだ空が真っ暗だね。雨もかなり強いし。」 B：「うん。この様子だと、しばらくは（　　　）ね。出発を少し遅らせようか。」",
+"options": [
+"やまないに違いない",
+"やみそうにない",
+"やむはずがない",
+"やんでもかまわない"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-30-3-q12",
+"type": "grammar_form",
+"question": "（学校で） A：「聞いた？ 来月から図書館が夜9時まで利用できるように（　　　）よ。」 B：「そうなんだ。それなら授業のあとにも使えるね。」",
+"options": [
+"なるらしい",
+"なってほしい",
+"なることがある",
+"なったほうがいい"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-30-3-q13",
+"type": "grammar_form",
+"question": "（写真館で） 店員：「こちらの写真でよろしいですか。」 客：「すみません、顔が少し暗く見えるので、もう少し明るく（　　　）。」",
+"options": [
+"してあげますか",
+"なっていただきますか",
+"してもらえますか",
+"なってもらえますか"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-30-3-q14",
+"type": "sentence_order",
+"question": "あのレストランのオムライスはとてもおいしい。あれ＿＿＿ ＿＿＿ ＿★＿ ＿＿＿ないと思う。",
+"options": [
+"は",
+"おいしい料理",
+"ほど",
+"他に"
+],
+"answer": 0,
+"source_explanation": "ほどおいしい料理 ＿は＿ 他に"
+},
+{
+"id": "dethitiengnhat:N3-30-3-q15",
+"type": "sentence_order",
+"question": "最近は若者でも、＿＿＿ ＿＿＿ ＿★＿ ＿＿＿、新聞の特集で読んだ。",
+"options": [
+"人が",
+"増えている",
+"ふだんから着物を着る",
+"ということを"
+],
+"answer": 1,
+"source_explanation": "ふだんから着物を着る人が ＿増えている＿ ということを"
+},
+{
+"id": "dethitiengnhat:N3-30-3-q16",
+"type": "sentence_order",
+"question": "（アルバイト先で） 学生「店長、来週の金曜日なんですが、＿＿＿ ＿＿＿ ＿★＿ ＿＿＿でしょうか。」",
+"options": [
+"休ませて",
+"用事がある",
+"もらえない",
+"ので"
+],
+"answer": 0,
+"source_explanation": "用事があるので ＿休ませて＿ もらえない"
+},
+{
+"id": "dethitiengnhat:N3-30-3-q17",
+"type": "sentence_order",
+"question": "今朝は寝坊して慌てていたから、＿＿＿ ＿＿＿ ＿★＿ ＿＿＿しまった。",
+"options": [
+"学校へ来て",
+"受験票をかばんに入れるのを",
+"忘れて",
+"そのまま"
+],
+"answer": 3,
+"source_explanation": "受験票をかばんに入れるのを忘れて、＿そのまま＿ 学校へ来て"
+},
+{
+"id": "dethitiengnhat:N3-30-3-q18",
+"type": "sentence_order",
+"question": "語学の勉強をしている弟は、正しい発音を＿＿＿ ＿＿＿ ＿★＿ ＿＿＿そうだ。",
+"options": [
+"忘れない",
+"ように",
+"ことにしている",
+"毎日音声を聞く"
+],
+"answer": 3,
+"source_explanation": "忘れないように ＿毎日音声を聞く＿ ことにしている"
+},
+{
+"id": "dethitiengnhat:N3-30-3-q2",
+"type": "grammar_form",
+"question": "会社の近くには二つの駅がある。会社からは（　　　）10分ぐらいで歩いて行けるので、その日の電車に合わせて使い分けている。",
+"options": [
+"どちらかまで",
+"どちらへも",
+"どちらにだけ",
+"どちらからか"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-30-3-q3",
+"type": "grammar_form",
+"question": "庭に植えた小さな木を毎日世話していたら、（　　　）私の背より高くなっていた。",
+"options": [
+"ようやく",
+"たまたま",
+"そろそろ",
+"いつの間にか"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-30-3-q4",
+"type": "grammar_form",
+"question": "（旅行会社で） 客：「このホテル、海も近いし、部屋もきれいですね。ただ、一泊の料金が少し高いですね。（　　　）、もう少し安いホテルも見せていただけますか。」 店員：「はい、もちろんです。」",
+"options": [
+"できれば",
+"せっかく",
+"どうしても",
+"ついに"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-30-3-q5",
+"type": "grammar_form",
+"question": "映画を見ていた子どもが、怖い場面になったとたん、突然泣き（　　　）ので、母親はテレビを消した。",
+"options": [
+"込んだ",
+"出した",
+"終わった",
+"続けた"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-30-3-q6",
+"type": "grammar_form",
+"question": "（銀行の窓口で） 職員：「手続きが終わりましたら、こちらからお呼びします。お名前が（　　　）、そのままお待ちください。」",
+"options": [
+"呼ばれると",
+"呼ばれたので",
+"呼ばれるうちに",
+"呼ばれるまで"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-30-3-q7",
+"type": "grammar_form",
+"question": "出発する前に荷物を確認しなかった（　　　）、空港に着いてからパスポートを家に忘れたことに気づいた。",
+"options": [
+"おかげで",
+"くせに",
+"ためでも",
+"せいで"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-30-3-q8",
+"type": "grammar_form",
+"question": "明日の会議で使う資料は、今夜のうちに全部（　　　）のに、まだ半分しか準備できていない。",
+"options": [
+"印刷してはいけない",
+"印刷しておかなければならない",
+"印刷することにしてはいけない",
+"印刷することにならなければならない"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-30-3-q9",
+"type": "grammar_form",
+"question": "隣の部屋で夜遅くまで大きな音がしていたので、昨日はほとんど（　　　）。",
+"options": [
+"眠りたかった",
+"眠ろうとしなかった",
+"眠れなかった",
+"眠らなくなった"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-31-3-q1",
+"type": "grammar_form",
+"question": "今日は妹が実家に来ている。妹が（　　）、渡したいお土産があるので、急いで実家に帰ろう。",
+"options": [
+"帰るとしても",
+"帰ったところで",
+"帰りがけに",
+"帰ってしまう前に"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-31-3-q10",
+"type": "grammar_form",
+"question": "直接会って謝るのは勇気がいるが、電話(　　)素直に「ごめんなさい」と言える気がする。",
+"options": [
+"でなら",
+"となら",
+"のなら",
+"までなら"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-31-3-q11",
+"type": "grammar_form",
+"question": "あのカレー屋の激辛（げきから）カレーは、(　　)辛かったので、半分以上残してしまった。",
+"options": [
+"やっと",
+"あまりに",
+"まさか",
+"いくら"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-31-3-q12",
+"type": "grammar_form",
+"question": "ピアノの練習を毎日続けていく(　　)、少しずつ難しい曲も弾けるようになってきた。",
+"options": [
+"に代わって",
+"を通じて",
+"にしたがって",
+"ばかりに"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-31-3-q13",
+"type": "grammar_form",
+"question": "A「その雑誌、面白い？ 私も読みたいな。」 B「うん、すごく面白いよ。私が(　　)、次に貸してあげるね。」",
+"options": [
+"読みかけたら",
+"読もうとしたら",
+"読ませられたら",
+"読み終わったら"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-31-3-q14",
+"type": "sentence_order",
+"question": "図書館で、＿＿＿ ＿＿＿ ＿★＿ ＿＿＿資料を借りた。",
+"options": [
+"地域の歴史",
+"について",
+"詳しく説明している",
+"古い"
+],
+"answer": 2,
+"source_explanation": "地域の歴史について ＿詳しく説明している＿ 古い"
+},
+{
+"id": "dethitiengnhat:N3-31-3-q15",
+"type": "sentence_order",
+"question": "A「あの人、＿＿＿ ＿＿＿ ＿★＿ ＿＿＿気がする。」 B「近所のパン屋さんの店長さんだよ。」",
+"options": [
+"駅前",
+"か何かで",
+"会ったことがある",
+"前に"
+],
+"answer": 1,
+"source_explanation": "前に駅前 ＿か何かで＿ 会ったことがある"
+},
+{
+"id": "dethitiengnhat:N3-31-3-q16",
+"type": "sentence_order",
+"question": "毎朝走るようになってから、走れば＿＿＿ ＿＿＿ ＿★＿ ＿＿＿楽しくなってきた。",
+"options": [
+"走るほど",
+"長い距離を",
+"わかり",
+"走れるようになっていくのが"
+],
+"answer": 3,
+"source_explanation": "走るほど長い距離を ＿走れるようになっていくのが＿ わかり"
+},
+{
+"id": "dethitiengnhat:N3-31-3-q17",
+"type": "sentence_order",
+"question": "今日は休みなのに、＿＿＿ ＿＿＿ ＿★＿ ＿＿＿からだ。",
+"options": [
+"朝市へ",
+"のは",
+"早く起きた",
+"行きたかった"
+],
+"answer": 0,
+"source_explanation": "早く起きたのは ＿朝市へ＿ 行きたかった"
+},
+{
+"id": "dethitiengnhat:N3-31-3-q18",
+"type": "sentence_order",
+"question": "野菜を長く保存する＿＿＿ ＿＿＿ ＿★＿ ＿＿＿大切だ。",
+"options": [
+"ためには",
+"水気をよくふいてから",
+"袋に入れる",
+"ことが"
+],
+"answer": 2,
+"source_explanation": "ためには水気をよくふいてから ＿袋に入れる＿ ことが"
+},
+{
+"id": "dethitiengnhat:N3-31-3-q2",
+"type": "grammar_form",
+"question": "この橋は古そうに見えるが、実際に(　　)たったの5年前だそうだ。",
+"options": [
+"建てられたからには",
+"建てられたのは",
+"建てられて以来",
+"建てることになったのは"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-31-3-q3",
+"type": "grammar_form",
+"question": "A「あっ、外、傘をさしている人がいるよ。」 B「本当だ。いつの間にか、雨が降り出した(　　)ね。」",
+"options": [
+"つもりだ",
+"はずだ",
+"みたいだ",
+"どころだ"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-31-3-q4",
+"type": "grammar_form",
+"question": "A「すみません、この近くで美味しいパン屋さんを知っていたら、(　　)。」 B「あ、駅前のベーカリーはすごくおすすめですよ。」",
+"options": [
+"教えさせるんですが",
+"教えてみせるんですが",
+"教わるはずなんですが",
+"教えてほしいんですが"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-31-3-q5",
+"type": "grammar_form",
+"question": "彼は大学で日本史を教えている先生なのだから、その有名な歴史の事件について(　　)。",
+"options": [
+"わからなくもない",
+"わからないはずがない",
+"わからないそうだ",
+"わからないことになっている"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-31-3-q6",
+"type": "grammar_form",
+"question": "夫は、毎晩仕事が終わると、スーパーに寄って翌朝のパンを(　　)。",
+"options": [
+"買ってきてもらう",
+"買わせていただく",
+"買ってきてくれる",
+"買おうとしてくれる"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-31-3-q7",
+"type": "grammar_form",
+"question": "足を怪我して試合を休んでいたが、すっかり痛みがなくなった。明日の決勝戦には(　　)。",
+"options": [
+"出られそうだ",
+"出られるものだ",
+"出られっこない",
+"出られるばかりだ"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-31-3-q8",
+"type": "grammar_form",
+"question": "この映画は本当に感動的で、私は今までに何度(　　)見て泣いたことがある。",
+"options": [
+"も",
+"と",
+"さえ",
+"までに"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-31-3-q9",
+"type": "grammar_form",
+"question": "A「母の日のプレゼント、何がいいかな。」 B「お母さんはお花が好きだから、きれいなバラ(　　)どう？」",
+"options": [
+"だらけ",
+"にして",
+"ばかり",
+"なんか"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-32-3-q1",
+"type": "grammar_form",
+"question": "この美術館では、現代アート(　　)中心に様々な作品が展示されている。",
+"options": [
+"を",
+"で",
+"と",
+"として"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-32-3-q10",
+"type": "grammar_form",
+"question": "壁にこのスプレーをかけておくと、タバコのにおいが(　　)。",
+"options": [
+"つけにくくなる",
+"つきにくくなる",
+"つかなくさせる",
+"つけないでおく"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-32-3-q11",
+"type": "grammar_form",
+"question": "A「今度の歓迎会の準備、やることが多すぎて私たち二人じゃ終わらないね。別の部署の木村さんにも(　　)。」 B「そうだね。ちょっと聞いてみよう。」",
+"options": [
+"手伝わせてあげましょうか",
+"手伝ってくれましょうか",
+"手伝ってもらいましょうか",
+"手伝うようにしましょうか"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-32-3-q12",
+"type": "grammar_form",
+"question": "明日は友だちと遊園地に行く約束をしていたが、ひどい熱が出てしまい、とても(　　)。",
+"options": [
+"行けそうにない",
+"行くはずがない",
+"行くどころではない",
+"行かないわけにはいかない"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-32-3-q13",
+"type": "grammar_form",
+"question": "A「営業部の山田さん、来月結婚して退職するって知ってた？」 B「退職するどころか、彼が(　　)知らなかったよ。」",
+"options": [
+"結婚したのも",
+"結婚することか",
+"結婚したばかりで",
+"結婚するばかりに"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-32-3-q14",
+"type": "sentence_order",
+"question": "この説明書は、文字がとても小さい＿＿＿ ＿＿＿ ＿★＿ ＿＿＿のに苦労する。",
+"options": [
+"眼鏡がない",
+"読む",
+"と",
+"ので"
+],
+"answer": 2,
+"source_explanation": "ので眼鏡がない ＿と＿ 読む"
+},
+{
+"id": "dethitiengnhat:N3-32-3-q15",
+"type": "sentence_order",
+"question": "自分にとって「面白い」と思える＿＿＿ ＿＿＿ ＿★＿ ＿＿＿わからない。",
+"options": [
+"ほかの人が",
+"楽しめる",
+"映画でも",
+"かどうかは"
+],
+"answer": 1,
+"source_explanation": "映画でもほかの人が ＿楽しめる＿ かどうかは"
+},
+{
+"id": "dethitiengnhat:N3-32-3-q16",
+"type": "sentence_order",
+"question": "楽しみにしていた花火大会が、朝＿＿＿ ＿＿＿ ＿★＿ ＿＿＿延期になった。",
+"options": [
+"で",
+"の",
+"から",
+"強風"
+],
+"answer": 3,
+"source_explanation": "からの ＿強風＿ で"
+},
+{
+"id": "dethitiengnhat:N3-32-3-q17",
+"type": "sentence_order",
+"question": "寒い冬の日は、＿＿＿ ＿＿＿ ＿★＿ ＿＿＿はないと思う。",
+"options": [
+"ほど",
+"もの",
+"温泉",
+"気持ちがいい"
+],
+"answer": 3,
+"source_explanation": "温泉ほど ＿気持ちがいい＿ もの"
+},
+{
+"id": "dethitiengnhat:N3-32-3-q18",
+"type": "sentence_order",
+"question": "母の日にカーネーションを渡した。＿＿＿ ＿＿＿ ＿★＿ ＿＿＿見て、私も幸せな気持ちになった。",
+"options": [
+"している",
+"笑顔を",
+"母を",
+"幸せそうな"
+],
+"answer": 0,
+"source_explanation": "幸せそうな笑顔を ＿している＿ 母を"
+},
+{
+"id": "dethitiengnhat:N3-32-3-q2",
+"type": "grammar_form",
+"question": "毎日仕事が忙しいので、もっと夫(　　)家事を手伝ってほしい。",
+"options": [
+"から",
+"に",
+"で",
+"より"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-32-3-q3",
+"type": "grammar_form",
+"question": "彼は大好きなアイドルのコンサートにいく(　　)、毎日一生懸命アルバイトをしている。",
+"options": [
+"わけだけに",
+"ためだけに",
+"はずだけに",
+"ところだけに"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-32-3-q4",
+"type": "grammar_form",
+"question": "引っ越した新しいアパートは、駅から歩いて5分(　　)場所にある。",
+"options": [
+"ほどで",
+"ほどの",
+"ばかりの",
+"ぐらいの"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-32-3-q5",
+"type": "grammar_form",
+"question": "4月に入って、少しずつ暖かくなり、(　　)春が近づいてきた。",
+"options": [
+"ますます",
+"すっかり",
+"わざわざ",
+"ようやく"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-32-3-q6",
+"type": "grammar_form",
+"question": "あのスーパーの野菜は安くて新鮮なので、いつ買いに(　　)人が多い。",
+"options": [
+"行きながら",
+"行くかわりに",
+"行っても",
+"行くとしたら"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-32-3-q7",
+"type": "grammar_form",
+"question": "（取引先の会社で） 営業の林「本日は社長に(　　)大変光栄に存じます。」 社長「こちらこそ、遠いところからわざわざありがとうございます。」",
+"options": [
+"お会いされて",
+"お見えになって",
+"お目にかかれて",
+"ご覧くださって"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-32-3-q8",
+"type": "grammar_form",
+"question": "銀行で新しく口座を作ろうとしただけなのに、書類の確認などで窓口で1時間以上(　　)。",
+"options": [
+"待たせてしまった",
+"待たされた",
+"待たせておいた",
+"待ってもらった"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-32-3-q9",
+"type": "grammar_form",
+"question": "A「お庭のトマト、今年は赤くて大きな実がたくさんなりましたね。」 B「ええ。隣の鈴木さんが、おいしい育て方を丁寧に教えてくださった(　　)。」",
+"options": [
+"せいです",
+"ばかりです",
+"ところです",
+"おかげです"
+],
+"answer": 3
+},
+{
+"id": "dethitiengnhat:N3-4-3-q1",
+"type": "grammar_form",
+"question": "日本に来たばかりのころは、まだ慣れていなかったので、駅で電車を乗り換えるだけでも時間がかかってしまうことがよく（　　）。",
+"options": [
+"あった",
+"していた",
+"らしい",
+"いる"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-4-3-q10",
+"type": "grammar_form",
+"question": "約束したからと言って、必ず成功する（　　）。 最後まで努力し続けることが大切だと思う。",
+"options": [
+"つもりだ",
+"ことではない",
+"わけではない",
+"はずではない"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-4-3-q11",
+"type": "grammar_form",
+"question": "彼は何も言わなかったが、その表情から見ると、 かなり無理をしている（　　）感じがした。",
+"options": [
+"ような",
+"ようだ",
+"らしい",
+"みたい"
+],
+"answer": 0
+},
+{
+"id": "dethitiengnhat:N3-4-3-q12",
+"type": "grammar_form",
+"question": "この計画は予算も時間も足りないため、 予定通りに進まない（　　）があります。",
+"options": [
+"つもり",
+"おそれ",
+"こと",
+"ほど"
+],
+"answer": 1
+},
+{
+"id": "dethitiengnhat:N3-4-3-q13",
+"type": "grammar_form",
+"question": "友だちに手伝ってもらった（　　）、無事に作業が終わりました。一人では絶対に無理だったと思います。",
+"options": [
+"からこそ",
+"せいで",
+"おかげで",
+"ためで"
+],
+"answer": 2
+},
+{
+"id": "dethitiengnhat:N3-4-3-q14",
+"type": "sentence_order",
+"question": "朝起きる__ __ ★ __ 起きられます。",
+"options": [
+"私でも",
+"旅行の日だけは",
+"のが",
+"苦手な"
+],
+"answer": 0,
+"source_explanation": "のが→ 苦手な→ 私でも→ 旅行の日だけは"
+},
+{
+"id": "dethitiengnhat:N3-4-3-q15",
+"type": "sentence_order",
+"question": "(面接会場で) 係の者:「名前を呼びますので、そちらの ___ ___ ★ ___ ください。」",
+"options": [
+"お待ち",
+"2お読み",
+"資料を",
+"になって"
+],
+"answer": 3,
+"source_explanation": "資料を→ お読み → になって → お待ち"
+},
+{
+"id": "dethitiengnhat:N3-4-3-q16",
+"type": "sentence_order",
+"question": "林　「買い物に行くときは、リストを書くんですか。」 小川「ええ。頼まれた __ __ ★ __ しているんです。」",
+"options": [
+"買い忘れて",
+"しまわないように",
+"メモするように",
+"ものを"
+],
+"answer": 1,
+"source_explanation": "頼まれた→ 買い忘れて→ しまわないように→\nメモするように"
+}
+]

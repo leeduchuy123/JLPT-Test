@@ -1,0 +1,346 @@
+[
+{
+"id": "mazii:626-14142-0",
+"type": "listening",
+"question": "（音声を聞いて答えてください）",
+"options": [
+"1",
+"2",
+"3",
+"4"
+],
+"answer": 1,
+"source_explanation": "Đôi nam nữ đang nói chuyện với nhau.\nNam: Mãi không thấy đến nhỉ.\nNữ: Không biết có phải đã đi mất rồi không, chuyến 21 phút này.\nNam: Nhưng mà mình đến đây lúc 19 phút mà. Có lẽ bị trễ rồi?\nNữ: Nếu vậy thì tốt. Nhưng cũng có lúc xe đi sớm hơn đấy. Làm sao đây? Có nên đi taxi không?\nNam: Ừm, hơi phí tiền nhỉ.\nNữ: Nhưng cũng không biết bao giờ xe mới đến. Có thể đang tắc đường cũng nên.\nNam: Đúng rồi. Nếu lỡ chuyến bay thì phiền phức lắm. Hay là đi taxi nhỉ?\nNữ: À, đợi chút. Đến rồi kìa, nhìn kìa.\nNam: Đúng thật, muộn 4 phút à. Mà, chắc cũng ổn thôi.\nHai người đang ở đâu?\n###\n1. 駅\nNghĩa: Ga tàu",
+"transcript": "男の人と女の人が話しています\n\n男：来ないね\n\n女：うーん、もう行っちゃったのかなぁ、この21分\n\n男：でもここに着いたの、19分だよ。遅れてるんじゃない？\n\n女：だといいけど。たまに早く出ちゃうこともあるよ。どうする？タクシーにする？\n\n男：うん、ちょっともったいないかなぁ\n\n女：でもいつ来るかわかんないよ。すごい渋滞かもしれないし\n\n男：そうだね。飛行機に乗り遅れたら大変だもんね。タクシーんにしょうか\n\n女：あ、ちょっと待って。きたよ、ほら。\n\n男：本当だ、4分遅れか。まあ、大丈夫か\n\n2人はどこにいますか\n\n1。駅\n\n2。バス停\n\n3。空港\n\n4。タクシー乗り場"
+},
+{
+"id": "mazii:626-14168-0",
+"type": "listening",
+"question": "（音声を聞いて答えてください）",
+"options": [
+"1",
+"2",
+"3"
+],
+"answer": 2,
+"source_explanation": "Suzuki, ở lại giúp một chút được không?\n1. Xin lỗi, tôi không ở lại...\n2. Xin lỗi, tôi không giúp...\n3. Xin lỗi, tôi có hẹn...\n###\n1. すみません残らないんですが\nNghĩa: Xin lỗi, tôi không ở lại...\n→ SAI.\nCâu này sử dụng động từ 'ở lại' (残る) ở thể phủ định, thể hiện ý từ chối ở lại. Tuy nhiên, cách nói này không tự nhiên và thiếu lịch sự trong bối cảnh từ chối lời nhờ vả của người khác. Trong tiếng Nhật, khi từ chối một cách lịch sự, người ta thường đưa ra lý do cụ thể hoặc dùng cách nói gián tiếp hơn.\n2. すみません手伝わないんですが\nNghĩa: Xin lỗi, tôi không giúp...\n→ SAI.\nCâu này sử dụng động từ 'giúp' (手伝う) ở thể phủ đ",
+"transcript": "鈴木くん、ちょっと残って手伝ってくれないかな\n\n1。すみません残らないんですが\n\n2。すみません手伝わないんですが\n\n3。すみません約束があって"
+},
+{
+"id": "mazii:626-14200-0",
+"type": "listening",
+"question": "（音声を聞いて答えてください）",
+"options": [
+"1",
+"2",
+"3"
+],
+"answer": 1,
+"source_explanation": "Anh làm gì ở đây thế?\n1. À, tôi ổn.\n2. Tôi bị lạc đường.\n3. Làm thế này thì hơn.\n###\n1. うんん、大丈夫\nNghĩa: À, tôi ổn.\n→ SAI.\nCâu hỏi là về lý do tại sao người kia lại ở đây. Đáp án này chỉ nói rằng mình ổn, không trả lời trực tiếp cho câu hỏi về lý do xuất hiện ở đây.\n2. 道に迷っちゃって\nNghĩa: Tôi bị lạc đường.\n→ ĐÚNG.\nCâu này trả lời trực tiếp cho câu hỏi 'Anh làm gì ở đây thế?', giải thích rằng mình ở đây vì bị lạc đường. Cấu trúc 'ちゃって' là dạng thân mật của 'しまって', thể hiện sự lỡ làm gì đó, ở đây là lỡ bị lạc.\n3. こうした方がいいんです\nNghĩa: Làm thế này thì hơn.\n→ SAI.\nCâu này không liên quan đến câu hỏi về lý ",
+"transcript": "あれ、こんなところでどうしたの？\n\n1。うんん、大丈夫\n\n2。道に迷っちゃって\n\n3。こうした方がいいんです"
+},
+{
+"id": "mazii:626-14203-0",
+"type": "listening",
+"question": "（音声を聞いて答えてください）",
+"options": [
+"1",
+"2",
+"3"
+],
+"answer": 2,
+"source_explanation": "Cái này, nên làm xong trong hôm nay thì tốt hơn.\n1. Ừ, để mai làm nhé.\n2. Ừ, làm sớm thì tốt hơn nhưng...\n3. Ừ, cách đó thì tốt hơn nhỉ.\n###\n1. そうね。明日にしましょうか\nNghĩa: Ừ, để mai làm nhé.\n→ SAI.\nLựa chọn này không phù hợp vì người nói trước đó nhấn mạnh nên làm xong trong hôm nay, nhưng đáp án này lại đề xuất để sang ngày mai.\n2. そうね。早いほうがいいけど\nNghĩa: Ừ, làm sớm thì tốt hơn nhưng...\n→ SAI.\nLựa chọn này chỉ xác nhận rằng làm sớm thì tốt hơn, nhưng lại bỏ lửng, không đồng ý rõ ràng với ý kiến nên làm hôm nay.\n3. そうね。そのほうがいいね\nNghĩa: Ừ, cách đó thì tốt hơn nhỉ.\n→ ĐÚNG.\nLựa chọn này đồng ý rõ ràng với ý",
+"transcript": "これ、今日までにやっといたほうがいい\n\n1。そうね。明日にしましょうか\n\n2。そうね。早いほうがいいけど\n\n3。そうね。そのほうがいいね"
+},
+{
+"id": "mazii:626-14214-0",
+"type": "listening",
+"question": "（音声を聞いて答えてください）",
+"options": [
+"1",
+"2",
+"3"
+],
+"answer": 0,
+"source_explanation": "Xin lỗi, tôi xin phép về trước\n1. Bạn đã vất vả rồi\n2. Bảo trọng nhé\n3. Đừng lo cho tôi\n###\n1. おつかれさま\nNghĩa: Bạn đã vất vả rồi\n→ ĐÚNG.\nĐây là câu chào dùng để tiễn ai đó về sau khi làm việc, thể hiện sự cảm ơn và tôn trọng đối với công sức của người kia. Trong môi trường công sở Nhật Bản, khi một người xin phép về trước, người ở lại thường đáp lại bằng câu này.\n2. お大じに\nNghĩa: Bảo trọng nhé\n→ SAI.\nCâu này dùng khi nói với người bị ốm hoặc chúc ai đó mau khỏe, không phù hợp với bối cảnh chào tạm biệt sau giờ làm việc.\n3. お構いなく\nNghĩa: Đừng lo cho tôi\n→ SAI.\nCâu này dùng khi được người khác quan t",
+"transcript": "すみません。お先に失礼します\n\n1。おつかれさま\n\n2。お大事に\n\n3。お構いなく"
+},
+{
+"id": "mazii:626-14217-0",
+"type": "listening",
+"question": "（音声を聞いて答えてください）",
+"options": [
+"1",
+"2",
+"3"
+],
+"answer": 0,
+"source_explanation": "Anh/chị ơi, xin lỗi. Cái này, anh/chị làm rơi rồi đấy.\n1. Ồ, xin lỗi.\n2. Ồ, tôi cũng vậy.\n3. Ồ, không có gì.\n###\n1. あ、すみません\nNghĩa: Ồ, xin lỗi.\n→ ĐÚNG.\nKhi ai đó nhặt giúp đồ bị rơi và đưa lại, đáp lại bằng 'Ồ, xin lỗi' là tự nhiên và lịch sự trong tiếng Nhật. 「すみません」ở đây thể hiện sự cảm ơn và xin lỗi vì đã làm phiền người khác.\n2. あ、こちらこそ\nNghĩa: Ồ, tôi cũng vậy.\n→ SAI.\n「こちらこそ」thường dùng để đáp lại lời cảm ơn hoặc xin lỗi, mang nghĩa 'chính tôi mới phải...'. Trong trường hợp này, không phù hợp vì người nói không nhận được lời cảm ơn hay xin lỗi từ đối phương.\n3. あ、どういたしまして\nNghĩa: Ồ, không có ",
+"transcript": "あの、すみません。これ、落ちましたよ\n\n1。あ、すみません\n\n2。あ、こちらこそ\n\n3。あ、どういたしまして"
+},
+{
+"id": "mazii:626-14227-0",
+"type": "listening",
+"question": "（音声を聞いて答えてください）",
+"options": [
+"1",
+"2",
+"3"
+],
+"answer": 1,
+"source_explanation": "Taxi đã đến gần địa điểm cần đến. Bạn sẽ nói gì?\n1. Cho tôi dừng xe ở góc phía trước.\n2. Cho tôi xuống ở góc phía trước.\n3. Bạn có thể xuống ở góc phía trước giúp tôi không?\n###\n1. その先の角で止めさせてください\nNghĩa: Cho tôi dừng xe ở góc phía trước.\n→ SAI.\nCâu này sử dụng cấu trúc '止めさせてください' (xin hãy cho tôi dừng), về mặt ngữ pháp là yêu cầu cho phép bản thân thực hiện hành động dừng xe. Tuy nhiên, trong bối cảnh đi taxi, người khách không phải là người điều khiển xe, nên không thể dùng cấu trúc này để yêu cầu tài xế dừng xe. Câu này không tự nhiên và không đúng ngữ pháp trong trường hợp này.\n\n2. その先の角で降",
+"transcript": "タクシーで目的地の近くにつきました。何と言いますか\n\n1。その先の角で止めさせてください\n\n2。その先の角で降ろしてください\n\n3。その先の角で降りてくださいませんか"
+},
+{
+"id": "mazii:626-14232-0",
+"type": "listening",
+"question": "（音声を聞いて答えてください）",
+"options": [
+"1",
+"2",
+"3"
+],
+"answer": 0,
+"source_explanation": "Trên tàu điện, bạn nhường chỗ cho người đang đứng. Bạn sẽ nói gì?\n1. Xin mời bạn ngồi ở đây ạ.\n2. Mình ngồi đây thôi nhỉ?\n3. Tôi ngồi đây được không?\n###\n1. ここ、おかけになりませんか\nNghĩa: Xin mời bạn ngồi ở đây ạ.\n→ ĐÚNG.\nĐây là cách nói kính ngữ, lịch sự mời người khác ngồi xuống. 「おかけになる」là kính ngữ của 「ngồi」, thể hiện sự tôn trọng đối với người nghe. Câu này phù hợp khi bạn muốn nhường chỗ cho người khác trên 電車.\n\n2. ここ、おかけしましょうか\nNghĩa: Mình ngồi đây thôi nhỉ?\n→ SAI.\n「おかけします」là khiêm nhường ngữ, dùng để nói về hành động của bản thân với ý khiêm tốn. Trong trường hợp này, dùng khiêm nhường ngữ để nói",
+"transcript": "電車の中で立っている人に席を譲ります。なんと言いますか？\n\n１．ここ、おかけになりませんか\n\n２．ここ、おかけしましょうか\n\n３．ここ、おかけしたらどうですか"
+},
+{
+"id": "mazii:626-14238-0",
+"type": "listening",
+"question": "（音声を聞いて答えてください）",
+"options": [
+"1",
+"2",
+"3"
+],
+"answer": 0,
+"source_explanation": "Mưa đã tạnh rồi. Bạn sẽ nói gì?\n1. À, trời bắt đầu nắng lên rồi.\n2. À, trời bắt đầu mưa rồi.\n3. À, trời bắt đầu nhiều mây rồi.\n###\n1. あ、晴れてきた\nNghĩa: À, trời bắt đầu nắng lên rồi.\n→ ĐÚNG.\nCâu này sử dụng động từ '晴れる' (nắng lên) ở dạng 'てきた' để diễn tả sự thay đổi trạng thái, tức là trời đang chuyển sang nắng. Sau khi mưa tạnh, việc trời chuyển sang nắng là hợp lý và phù hợp với bối cảnh của đề bài.\n\n2. あ、降ってきた\nNghĩa: À, trời bắt đầu mưa rồi.\n→ SAI.\n'降ってきた' có nghĩa là trời bắt đầu mưa. Điều này trái ngược hoàn toàn với thông tin 'mưa đã tạnh', nên không phù hợp với bối cảnh.\n\n3. あ、くもってきた\nNghĩa",
+"transcript": "雨がやみました。何と言いますか\n\n1。あ、晴れてきた\n\n2。あ、降ってきた\n\n3。あ、くもってきた"
+},
+{
+"id": "mazii:626-14250-0",
+"type": "listening",
+"question": "（音声を聞いて答えてください）",
+"options": [
+"1",
+"2",
+"3"
+],
+"answer": 1,
+"source_explanation": "Bạn đến bệnh viện. Đây là lần đầu tiên bạn đến đó. Bạn sẽ nói gì?\n1. Xin lỗi, đây là lần đầu tiên tôi đến, tôi hỏi ở đâu?\n2. Xin lỗi, đây là lần đầu tiên tôi đến, tôi nên đi đâu?\n3. Xin lỗi, đây là lần đầu tiên tôi đến, tôi đi đâu thì được?\n###\n1. すみません、初めてなんですが、どこに伺いますか\nNghĩa: Xin lỗi, đây là lần đầu tiên tôi đến, tôi hỏi ở đâu?\n→ SAI.\nCâu này sử dụng động từ '伺います' là khiêm nhường ngữ của 'hỏi' hoặc 'đến thăm', nhưng trong trường hợp này, dùng 'どこに伺いますか' không tự nhiên và không phù hợp để hỏi về địa điểm mình nên đến khi lần đầu tới 病院. Câu này không truyền đạt đúng ý định muốn biết nên đi đ",
+"transcript": "病院に来ました。初めてのところです。何と言いますか\n\n1。すみません、初めてなんですが、どこに伺いますか\n\n2。すみません、初めてなんですが、どこに行けばいいですか\n\n3。すみません、初めてなんですが、どこに行くのがよろしいでしょうか"
+},
+{
+"id": "mazii:627-12195-0",
+"type": "listening",
+"question": "（音声を聞いて答えてください）",
+"options": [
+"1",
+"2",
+"3"
+],
+"answer": 1,
+"source_explanation": "Xin lỗi, đi trước và giải thích trước cho mọi người giúp tôi được không?\n1. Vậy, hãy nhờ anh ấy nói.\n2. Ừm, tôi sẽ làm.\n3. A, cái đấy trước à.\nLà câu trả lời cho 'Hãy giải thích trước giúp'.\n###\n1. じゃ、話してもらおう。\nNghĩa: Vậy, hãy nhờ anh ấy nói.\n→ SAI.\nLựa chọn này không phù hợp vì không phải là lời đáp lại yêu cầu 'giải thích trước giúp tôi', mà lại chuyển trách nhiệm cho người khác.\n2. うん、やっておくね。\nNghĩa: Ừm, tôi sẽ làm.\n→ ĐÚNG.\nĐây là câu trả lời tự nhiên và phù hợp, thể hiện sự đồng ý nhận lời và sẽ thực hiện yêu cầu 'giải thích trước giúp tôi'.\n3. あっ、先だったんだ。\nNghĩa: A, cái đấy trước à.\n→ SAI.\nCâ",
+"transcript": "Ｍ：ごめん、先に行って、みんなに説明しといてもらえる？\\n\n\nＦ：\n\n１.　じゃ、話してもらおう。\n\n２.　うん、やっておくね。\n\n３.　あっ、先だったんだ。\n\n「説明しておいて」に対する答え。"
+},
+{
+"id": "mazii:627-13189-0",
+"type": "listening",
+"question": "（音声を聞いて答えてください）",
+"options": [
+"1",
+"2",
+"3",
+"4"
+],
+"answer": 3,
+"source_explanation": "Mẹ và con gái đang nói chuyện. Con gái đã cho gia vị theo thứ tự nào?\n\nCon gái: Xong rồi. Mẹ nếm thử đi.\n\nMẹ: Cái nào? Nó hơi mặn một chút.\n\nCon gái: Ơ, thật à? Con chỉ cho nước tương và muối đúng như trong sách thôi mà...\n\nMẹ: Con đã cho đường chưa?\n\nCon gái: Rồi ạ.\n\nMẹ: Ừ.\n\nCon gái: Tại sao nhỉ?\n\nMẹ: Con cho muối lúc nào?\n\nCon gái: Sau khi cho nước tương.\n\nMẹ: Vậy còn đường thì sao?\n\nCon gái: Sau khi cho muối.\n\nMẹ: Gì cơ? Con phải cho đường vào đầu tiên chứ.\n\nCon gái: Ồ, vậy à?\n\nCon gái đã cho gia vị theo thứ tự nào?\n\n###\n1.\nĐáp án này thể hiện: Đầu tiên cho đường, sau đó cho nước tương, cuố",
+"transcript": "お母さんと娘が話しています。娘はどの順番で入れましたか。\n\n娘：できたよ。味みて。\n\nお母さん：どれどれ？ちょっと塩辛いな。\n\n娘：え、本当？しょうゆも塩も本に書いてあるだけしか入れてないだけどな．．．\n\nお母さん：砂糖を入れた？\n\n娘：入れたよ。\n\nお母さん：そう。\n\n娘：どうしてかな。\n\nお母さん：塩はいつ入れたの？\n\n娘：しょうゆを入れてから。\n\nお母さん：じゃ、砂糖は？\n\n娘：塩を入れてから。\n\nお母さん：え？砂糖を一番に入れなくちゃ。(i)\n\n娘：あ、そんなの？\n\n娘はどの順番で入れましたか。"
+},
+{
+"id": "mazii:627-13224-0",
+"type": "listening",
+"question": "（音声を聞いて答えてください）",
+"options": [
+"1",
+"2",
+"3",
+"4"
+],
+"answer": 2,
+"source_explanation": "Hai người đàn ông và một người phụ nữ đang nói chuyện. Điều hòa sẽ được gắn ở đâu?\n\nNam 1: Cái này, chúng ta nên gắn ở đâu?\n\nNữ: Ừm. Để làm cho phòng ấm lên, tốt hơn là nên gắn ở phía dưới phải không?\n\nNam 2: Nhưng nếu gắn điều hòa ở phía trên thì cả phòng sẽ mát hơn đấy.\n\nNữ: Chỉ cần mát ở phía dưới thôi cũng được mà, vì chúng ta sống gần sàn nhà mà.\n\nNam 2: Đúng rồi. Vậy làm như vậy đi.\n\nNữ: Ừ. Vậy thì gắn ở đây hay ở kia?\n\nNam 1: À, vì tôi sống một mình, nên tôi rất biết ơn nếu có thể gắn gần cửa sổ...\n\nNam 2: Vậy thì gắn ở đây thôi...\n\nĐiều hòa sẽ được gắn ở đâu?\n\n###\n1.\nNam 1 hỏi: 「これ、どこに",
+"transcript": "男の人二人と女の人が話しています。冷暖房機はどこにつけますか。\n\n男１：これ、どこにつけましょうか。\n\n女：そうね。部屋を暖かくするのには、なるべく下のほうにつけたほうがいいんじゃない？\n\n男２：でも、冷房は上につけたほうが、部屋全体が涼しくなるよ。\n\n女：部屋の下のほうだけ涼しくなればいいんじゃない？私たち、ゆかにちかいところで暮らしているんだから。\n\n男２：そうだね。そうするか。\n\n女：え。で、こっちにする？あっちにする？\n\n男１：あの、個人のつので、窓の近くにしていただけてありがたいですが．．．(i)\n\n男２：じゃ、こっちだな．．．\n\n冷暖房機はどこにつけますか。"
+},
+{
+"id": "mazii:627-13540-0",
+"type": "listening",
+"question": "（音声を聞いて答えてください）",
+"options": [
+"1",
+"2",
+"3",
+"4"
+],
+"answer": 2,
+"source_explanation": "Một người đàn ông và một người phụ nữ đang nhìn tấm áp phích phía trên và nói chuyện. Tấm áp phích sẽ được thay đổi thế nào?\n\nNữ: Áp phích quảng cáo ô dù thế này được chưa?\n\nNam: Đại khái thì được, nhưng nên làm hình to hơn một chút thì tốt hơn. Nhân vật thì chỉ lấy từ ngực trở lên thôi. Nếu làm vậy thì cái ô sẽ chiếm hết chiều rộng của áp phích và có thể nhấn mạnh hơn.\n\nNữ: Vâng\n\nTấm áp phích đã được thay đổi thế nào?\n\n###\n1.\nNgười đàn ông nói: 「人物は胸から上だけにして。」(Nhân vật thì chỉ lấy từ ngực trở lên thôi.)\nTuy nhiên, đáp án này mô tả người phụ nữ được vẽ toàn thân, không đúng với yêu cầu chỉ lấy",
+"transcript": "男の人と女の人が上のポスターを見ながら話しています。ポスターをどう変えますか\n\n女：傘の宣伝ポッターこれででどうでしょう\n\n男：だいたいいけど、あと絵をもう少し大きくした方がいいんじゃない。人物は胸から上だけにして。そうすれば傘がポスターの幅いっぱいになって強調できるし\n\n女：はい\n\nポスターをどう変えましたん"
+},
+{
+"id": "mazii:627-14144-0",
+"type": "listening",
+"question": "（音声を聞いて答えてください）",
+"options": [
+"1",
+"2",
+"3",
+"4"
+],
+"answer": 0,
+"source_explanation": "Bạn nữ sinh đang nói chuyện với bạn mình.\nNữ 1: Tanaka, hôm nay bạn có học cùng lớp với Onishi không?\nNữ 2: Ừ, mình học cùng lớp kinh tế với bạn ấy.\nNữ 1: Tốt quá. Này, bạn có thể đưa cái này cho Onishi giúp mình không?\nNữ 2: Được thôi, nhưng cái này là gì vậy?\nNữ 1: Vé buổi hòa nhạc, bạn biết ban nhạc Melon chứ.\nNữ 2: Tất nhiên. Mình cũng thích mà. Buổi hòa nhạc đó là khi nào vậy?\nNữ 1: Chiều thứ bảy tuần sau. Tanaka cũng đi chứ?\nNữ 2: Thứ bảy tuần sau à? À, không được rồi. Mình có kế hoạch mất rồi. Tiếc quá.\nBạn nữ sinh đã nhờ bạn mình làm gì?\n###\n1. チケットを渡すこと\nNghĩa: Đưa vé (cho người khác)\n",
+"transcript": "女の学生が友達と話しています\n\n女1：田中さん、今日大西さんと同じ授業をとってる？\n\n女2：うん、経済の授業で一緒だけど\n\n女1：良かった。あのさ、これを大西さんに渡してくれない？\n\n女2：いいけど、なにこれ？\n\n女1：コンサートのチケット、知ってるでしょ、メロンってバンド\n\n女2：もちろん。私も好きだよ。それっていつ？\n\n女1：来週の土曜の夕方。田中さんも行く？\n\n女2：来週の土曜？あ、だめだ。予定が入ってた。残念\n\n女の学生は友達に何を頼みましたか\n\n1。チケットを渡すこと\n\n2。チケットを買ってもらうこと\n\n3。代わりに授業に出てもらうこと\n\n4。コンサートに一緒に行くこと"
+},
+{
+"id": "mazii:627-14161-0",
+"type": "listening",
+"question": "（音声を聞いて答えてください）",
+"options": [
+"1",
+"2",
+"3",
+"4"
+],
+"answer": 1,
+"source_explanation": "Nhà của tôi ở Tokyo.\nVì vậy, tôi thường được hỏi tại sao lại cất công đến đại học ở Kyoto.\nTrường cấp ba mà tôi từng học có chế độ lên thẳng đại học.\nHơn nữa, ở Tokyo cũng có rất nhiều trường đại học khác.\nVì vậy, tôi thường bị nói rằng “Chắc là có bạn trai ở Kyoto nhỉ”.\nNhưng không phải như vậy.\nHiện tại tôi đang tìm bạn trai, mong mọi người giúp đỡ.\nKyoto là một thành phố có nền văn hóa lâu đời, yên tĩnh và rất tuyệt.\nNhưng thật ra, tôi chỉ nhận ra điều đó sau khi đến đây.\nThực ra, tôi chỉ muốn sống xa bố mẹ và thử sống một mình thôi.\nChỉ là tình cờ đó lại là Kyoto mà thôi.\nVì vậy, có thể mộ",
+"transcript": "女の学生がスピーチをしています\n\n私の家は東京にありますから。どうしてわざわざ京都の大学に来たのかと、よく聞かれます。私の通っていた高校はエスカレーター式に大学に上がれますし、それに、東京には他にもたくさん大学がありますから。だから、よく「彼氏が京都にいるんでしょう」なんて言われますが、そんなことありません。今、彼氏募集中ですので、よろしく。\n\n京都は古い文化を持つ、落ち着いていていい街ですが、実は、それもこちらに来てから気づいたことです。本当は、ただ親から離れて、一人で暮らしてみたかっただけなんです。それがたまたま京都だったというだけで。だから、そのうち、外国に行っちゃうかもしれません。ちょっと、変わってる人間ですので、よろしくお願いします\n\nこの学生はどうして京都の大学を選んだのですか\n\n1。恋人が京都にいるから\n\n2。親から離れたかったから\n\n3。学校で決められていたから\n\n4。京都の文化に興味があったから"
+},
+{
+"id": "mazii:627-14174-0",
+"type": "listening",
+"question": "（音声を聞いて答えてください）",
+"options": [
+"1",
+"2",
+"3"
+],
+"answer": 2,
+"source_explanation": "Cho đến mai tôi phải hoàn thành tài liệu này ạ?\n1. Để chiều nay làm nhỉ.\n2. Không kịp rồi nhỉ.\n3. Vì sẽ dùng cho cuộc họp ngày mai mà.\n###\n1. 今の、午後にしようか\nNghĩa: Để chiều nay làm nhỉ.\n→ SAI.\nLựa chọn này đề xuất thời gian hoàn thành là chiều nay, không trả lời trực tiếp cho câu hỏi về việc có phải hoàn thành trước ngày mai hay không. Câu hỏi gốc muốn xác nhận hạn chót, còn đáp án này lại đưa ra một đề xuất khác.\n2. 間に合わなかったねー\nNghĩa: Không kịp rồi nhỉ.\n→ SAI.\nLựa chọn này nói về việc đã không kịp, nhưng trong câu hỏi người nói đang hỏi về hạn chót, chưa có thông tin gì về việc đã muộn hay chưa. Đ",
+"transcript": "この書類、明日までに仕上げないといけませんか\n\n1。今日の、午後にしようか\n\n2。間に合わなかったねー\n\n3。明日の会議に使うからね"
+},
+{
+"id": "mazii:627-14179-0",
+"type": "listening",
+"question": "（音声を聞いて答えてください）",
+"options": [
+"1",
+"2",
+"3"
+],
+"answer": 1,
+"source_explanation": "Alo, tôi là Suzuki của Sakura Shouji. Cho tôi gặp Tanaka được không?\n1. Tanaka đang ở đây ạ.\n2. Tanaka vừa rời khỏi chỗ ngồi ạ.\n3. Tanaka đã nói như vậy à?\n###\n1. 田中はこちらでございます\nNghĩa: Tanaka đang ở đây ạ.\n→ SAI.\nCâu này thể hiện rằng Tanaka đang có mặt, không phù hợp với tình huống nếu Tanaka không có ở đó. Nếu Tanaka thực sự ở đó thì có thể dùng, nhưng trong trường hợp này đáp án đúng là thông báo Tanaka không có mặt.\n2. 田中は席を外しております\nNghĩa: Tanaka vừa rời khỏi chỗ ngồi ạ.\n→ ĐÚNG.\nĐây là cách trả lời lịch sự, phù hợp trong môi trường công sở khi người được hỏi không có mặt tại chỗ. Câu này sử d",
+"transcript": "もしもし、さくら商事の鈴木と申しますが、田中さんをお願いします\n\n1。田中はこちらでございます\n\n2。田中は席を外しております\n\n3。田中はそう申しましたか"
+},
+{
+"id": "mazii:627-14182-0",
+"type": "listening",
+"question": "（音声を聞いて答えてください）",
+"options": [
+"1",
+"2",
+"3"
+],
+"answer": 2,
+"source_explanation": "Tanaka san, anh ấy đã rời công ty bên kia và đã đến ga rồi.\n1. Vậy thì anh ấy vẫn còn ở công ty bên kia nhỉ.\n2. Vậy thì anh ấy đã lên tàu rồi nhỉ.\n3. Vậy thì bây giờ anh ấy đang ở ga nhỉ.\n###\n1. じゃ、まだあっちの会社にいるんだね\nNghĩa: Vậy thì anh ấy vẫn còn ở công ty bên kia nhỉ.\n→ SAI.\nCâu trong phần nghe nói rõ là Tanaka san đã rời công ty bên kia và đã đến ga, nên không thể vẫn còn ở công ty.\n2. じゃ、もう電車に乗っているんだね\nNghĩa: Vậy thì anh ấy đã lên tàu rồi nhỉ.\n→ SAI.\nPhần nghe chỉ nói Tanaka san đã đến ga, không nói là đã lên tàu.\n3. じゃ、今、駅にいるんだね\nNghĩa: Vậy thì bây giờ anh ấy đang ở ga nhỉ.\n→ ĐÚNG.\nThông tin tro",
+"transcript": "田中さん、あちらの会社を出て、駅に着いたそうです\n\n1。じゃ、まだあっちの会社にいるんだね\n\n2。じゃ、もう電車に乗っているんだね\n\n3。じゃ、今、駅にいるんだね"
+},
+{
+"id": "mazii:627-14194-0",
+"type": "listening",
+"question": "（音声を聞いて答えてください）",
+"options": [
+"1",
+"2",
+"3"
+],
+"answer": 0,
+"source_explanation": "Bạn, bây giờ tôi có thể làm phiền một chút được không?\n1. Vâng, có chuyện gì vậy ạ?\n2. Cái đó thì, được bạn ạ.\n3. Tôi cũng mong được giúp đỡ.\n###\n1. はい、何でしょうか\nNghĩa: Vâng, có chuyện gì vậy ạ?\n→ ĐÚNG.\nĐây là câu trả lời tự nhiên và lịch sự khi ai đó hỏi 'Bây giờ tôi có thể làm phiền một chút được không?'. Câu này sử dụng kính ngữ phù hợp, thể hiện sự sẵn sàng lắng nghe và đáp lại yêu cầu của người nói.\n2. それは、よろしいですね\nNghĩa: Cái đó thì, được bạn ạ.\n→ SAI.\nCâu này không phù hợp với ngữ cảnh. 'それは、よろしいですね' nghĩa là 'Cái đó thì, được bạn ạ', không phải là câu trả lời cho việc xin phép làm phiền, và",
+"transcript": "あのう、今ちょっとよろしいでしょうか\n\n1。はい、何でしょうか\n\n2。それは、よろしいですね\n\n3。こちらこそ、よろしくお願いします"
+},
+{
+"id": "mazii:627-14204-0",
+"type": "listening",
+"question": "（音声を聞いて答えてください）",
+"options": [
+"1",
+"2",
+"3"
+],
+"answer": 0,
+"source_explanation": "Này, nhìn này, đôi bốt này. Không phải là rẻ sao?\n1. Thật đấy, rẻ nhỉ.\n2. Thật đấy, đắt nhỉ.\n3. Thật đấy, không phải là đắt sao?\n###\n1. ほんと、安いね\nNghĩa: Thật đấy, rẻ nhỉ.\n→ ĐÚNG.\nCâu này đồng tình với ý kiến của người nói rằng đôi bốt này rẻ. Đây là phản ứng tự nhiên và phù hợp trong hội thoại.\n2. ほんと、高いね\nNghĩa: Thật đấy, đắt nhỉ.\n→ SAI.\nCâu này trái ngược với ý kiến của người nói, không phù hợp với bối cảnh khi người nói cho rằng đôi bốt rẻ.\n3. ほんと、高いんじゃない？\nNghĩa: Thật đấy, không phải là đắt sao?\n→ SAI.\nCâu này cũng không đồng tình với ý kiến của người nói, mà còn nghi ngờ rằng đôi bốt đắt, khô",
+"transcript": "ねえ、見て、このブーツ。安いんじゃない\n\n1。ほんと、安いね\n\n2。ほんと、高いね\n\n3。ほんと、高いんじゃない？"
+},
+{
+"id": "mazii:627-14213-0",
+"type": "listening",
+"question": "（音声を聞いて答えてください）",
+"options": [
+"1",
+"2",
+"3"
+],
+"answer": 1,
+"source_explanation": "Này, buổi họp hôm nay bắt đầu từ 3 giờ phải không?\n1. Ừ, sáng mai.\n2. Không, từ 3 giờ rưỡi.\n3. Không, phòng họp.\n###\n1. そう、明日\nNghĩa: Ừ, sáng mai.\n→ SAI.\nLựa chọn này xác nhận lại thông tin nhưng lại trả lời sai về thời gian, vì câu hỏi hỏi về buổi họp hôm nay, không phải sáng mai.\n2. ううん、3時半から\nNghĩa: Không, từ 3 giờ rưỡi.\n→ ĐÚNG.\nLựa chọn này phủ định thông tin trong câu hỏi và đưa ra thời gian chính xác là 3 giờ rưỡi, phù hợp với bối cảnh hỏi về thời gian bắt đầu của buổi họp hôm nay.\n3. ううん、会議室\nNghĩa: Không, phòng họp.\n→ SAI.\nLựa chọn này trả lời về địa điểm (phòng họp) thay vì thời gian, kh",
+"transcript": "ねえ、今日の会議、3時からだって？\n\n1。そう、明日\n\n2。ううん、3時半から\n\n3。ううん、会議室"
+},
+{
+"id": "mazii:627-14218-0",
+"type": "listening",
+"question": "（音声を聞いて答えてください）",
+"options": [
+"1",
+"2",
+"3"
+],
+"answer": 0,
+"source_explanation": "Bài thuyết trình đã thành công chứ?\n1. Chắc là cũng tạm được.\n2. Ừ, đã rất ngon.\n3. Không, tôi đã không thể làm tốt.\n###\n1. まあまあかな\nNghĩa: Chắc là cũng tạm được.\n→ ĐÚNG.\nCâu hỏi là về kết quả của bài thuyết trình. Lựa chọn này thể hiện sự khiêm tốn, trả lời rằng kết quả không quá tốt cũng không quá tệ, phù hợp với ngữ cảnh khi được hỏi về một trải nghiệm vừa diễn ra.\n2. うん。うまかった\nNghĩa: Ừ, đã rất ngon.\n→ SAI.\nTừ 'うまかった' thường dùng để nói về vị của đồ ăn, không phù hợp khi nói về bài thuyết trình. Đáp án này không đúng về ngữ nghĩa trong bối cảnh.\n3. ううん。ちゃんといけなかった\nNghĩa: Không, tôi đã không thể",
+"transcript": "プレゼン、うまくいった？\n\n1。まあまあかな\n\n2。うん。うまかった\n\n3。ううん。ちゃんといけなかった"
+},
+{
+"id": "mazii:627-14233-0",
+"type": "listening",
+"question": "（音声を聞いて答えてください）",
+"options": [
+"1",
+"2",
+"3"
+],
+"answer": 0,
+"source_explanation": "Bạn muốn hỏi tên khách hàng khi họ đến công ty. Bạn sẽ nói gì?\n1. Xin thất lễ, tôi có thể hỏi tên của quý khách được không ạ?\n2. Xin thất lễ, nếu quý khách nói tên thì thế nào ạ?\n3. Xin thất lễ, tôi nói tên của quý khách có được không ạ?\n###\n1. 失礼ですが、お名前を伺ってもよろしいでしょうか\nNghĩa: Xin thất lễ, tôi có thể hỏi tên của quý khách được không ạ?\n→ ĐÚNG.\nĐây là cách hỏi tên khách hàng rất lịch sự, sử dụng kính ngữ '伺う' (khiêm nhường ngữ của 'hỏi, nghe') và mẫu câu xin phép '～てもよろしいでしょうか'. Câu này phù hợp với bối cảnh giao tiếp trang trọng tại công ty khi hỏi tên khách hàng.\n\n2. 失礼ですが、お名前をおっしゃったらどうでしょうか\nNgh",
+"transcript": "会社に来た客に名前を聞きたいです。何と言いますか\n\n1。失礼ですが、お名前を伺ってもよろしいでしょうか\n\n2。失礼ですが、お名前をおっしゃったらどうでしょうか\n\n3。失礼ですが、お名前を申し上げてもよろしいでしょうか"
+},
+{
+"id": "mazii:627-14236-0",
+"type": "listening",
+"question": "（音声を聞いて答えてください）",
+"options": [
+"1",
+"2",
+"3"
+],
+"answer": 0,
+"source_explanation": "Chiều tối, bạn gặp thầy giáo ở gần trường. Bạn sẽ nói gì?\n1. Thầy về ạ?\n2. Thầy nghỉ ạ?\n3. Thầy ra ngoài ạ?\n###\n1. あ、先生、お帰りですか\nNghĩa: Thầy về ạ?\n→ ĐÚNG.\nCâu này sử dụng kính ngữ 'お帰りですか' để hỏi một cách lịch sự xem thầy giáo có đang trên đường về không. Trong bối cảnh gặp thầy giáo gần trường vào buổi chiều tối, đây là cách hỏi tự nhiên và phù hợp nhất để thể hiện sự quan tâm, lịch sự với thầy giáo.\n\n2. あ、先生、お休みですか\nNghĩa: Thầy nghỉ ạ?\n→ SAI.\n'お休みですか' thường dùng để hỏi ai đó có đang nghỉ (không đi làm, không đi học) hay không. Trong bối cảnh gặp thầy giáo ở gần trường vào buổi chiều tối, câu n",
+"transcript": "夕方、学校の近くで先生に会いました。何と言いますか\n\n1。あ、先生、お帰りですか\n\n2。あ、先生、お休みですか\n\n3。あ、先生、お出かけですか"
+},
+{
+"id": "mazii:627-14248-0",
+"type": "listening",
+"question": "（音声を聞いて答えてください）",
+"options": [
+"1",
+"2",
+"3"
+],
+"answer": 1,
+"source_explanation": "Bạn muốn nhờ cấp trên gia hạn nộp báo cáo thêm 1 ngày. Bạn sẽ nói gì?\n1. Em gia hạn nộp báo cáo thêm 1 ngày có được không ạ?\n2. Sếp có thể gia hạn nộp báo cáo thêm 1 ngày giúp em được không ạ?\n3. Em muốn gia hạn nộp báo cáo thêm 1 ngày, không biết ý sếp thế nào ạ?\n###\n1. 締切りを1日延ばしてもよろしいでしょうか\nNghĩa: Em gia hạn nộp báo cáo thêm 1 ngày có được không ạ?\n→ SAI.\nCâu này dùng mẫu '～てもよろしいでしょうか', là cách xin phép để bản thân làm điều gì đó. Tuy nhiên, trong trường hợp này, việc gia hạn là quyền của cấp trên, nên phải dùng mẫu câu nhờ người khác làm giúp. Câu này không phù hợp vì không thể hiện rõ ý nh",
+"transcript": "上司に、レポートの締め切りを1日延ばしてほしいと頼みます。何と言いますか\n\n1。締め切りを1日延ばしてもよろしいでしょうか\n\n2。締め切りを1日延ばしていただけないでしょうか\n\n3。締め切りを1日延ばしたいと思うのですがいかがでしょうか"
+}
+]
