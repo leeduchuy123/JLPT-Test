@@ -1,6 +1,7 @@
 /* ---------- App shell: router, theme, nav ---------- */
-import { $, $$, esc } from './util.js';
+import { $, $$, esc, fmtDate } from './util.js';
 import * as store from './store.js';
+import * as sync from './sync.js';
 import { loadBank, bankAliases, getQ } from './data.js';
 
 const pages = {
@@ -26,7 +27,8 @@ export function parseRoute() {
 
 export const navigate = (hash) => { location.hash = hash; };
 
-async function render() {
+/** keepScroll: vẽ lại tại chỗ (vd. sau khi đồng bộ kéo dữ liệu mới về), không nhảy lên đầu trang. */
+async function render(keepScroll = false) {
   const app = $('#app');
   const route = parseRoute();
   const loader = pages[route.base];
@@ -39,11 +41,11 @@ async function render() {
     app.innerHTML = `<div class="card"><h1>404</h1><p>Không có trang <code>${esc(route.path)}</code>. <a href="#/">Về trang chủ</a></p></div>`;
     return;
   }
-  app.innerHTML = '<p class="muted">Đang tải...</p>';
+  if (!keepScroll) app.innerHTML = '<p class="muted">Đang tải...</p>';
   try {
     const firstLoad = !window.__bankReady;
     await loadBank();
-    if (firstLoad) { window.__bankReady = true; store.migrateAliases(bankAliases(), (id) => !!getQ(id) && getQ(id).id === id); }
+    if (firstLoad) { window.__bankReady = true; store.migrateAliases(bankAliases(), (id) => !!getQ(id) && getQ(id).id === id); sync.start(); }
     const mod = await loader();
     const result = await mod.render(app, route);
     if (typeof result === 'function') cleanup = result;
@@ -51,7 +53,7 @@ async function render() {
     console.error(err);
     app.innerHTML = `<div class="card"><h2>Có lỗi xảy ra</h2><p>${esc(err.message)}</p><a class="btn" href="#/">Về trang chủ</a></div>`;
   }
-  if (!route.params.keepScroll) window.scrollTo({ top: 0 });
+  if (!keepScroll && !route.params.keepScroll) window.scrollTo({ top: 0 });
   updateNavBadge();
 }
 
@@ -61,6 +63,17 @@ export function updateNavBadge() {
   if (!el) return;
   el.textContent = n;
   el.hidden = n === 0;
+}
+
+/* ----- footer: trạng thái lưu / đồng bộ ----- */
+function updateFooter() {
+  const el = $('#footer-note');
+  if (!el) return;
+  const st = sync.status();
+  if (!st.enabled) { el.innerHTML = 'Dữ liệu tiến độ lưu trên trình duyệt này. Nhớ <a href="#/settings">sao lưu</a> định kỳ hoặc bật đồng bộ.'; return; }
+  if (st.error) { el.innerHTML = `⚠ Chưa đồng bộ được: ${esc(st.error)} · <a href="#/settings">Cài đặt</a>`; return; }
+  el.textContent = (st.lastAt ? `☁ Đã đồng bộ lúc ${fmtDate(st.lastAt, true)}` : '☁ Đã bật đồng bộ')
+    + (st.busy ? ' · đang đồng bộ…' : st.dirty ? ' · có thay đổi đang chờ' : '');
 }
 
 /* ----- theme ----- */
@@ -77,7 +90,14 @@ mq.addEventListener('change', applyTheme);
 
 /* ----- boot ----- */
 applyTheme();
-window.addEventListener('hashchange', render);
-if (document.readyState === 'loading') window.addEventListener('DOMContentLoaded', render); else render();
+updateFooter();
+window.addEventListener('hashchange', () => render());
+if (document.readyState === 'loading') window.addEventListener('DOMContentLoaded', () => render()); else render();
 document.addEventListener('srs-changed', updateNavBadge);
+document.addEventListener('sync-status', updateFooter);
+document.addEventListener('sync-applied', () => {
+  // dữ liệu từ máy khác vừa về: vẽ lại các trang chỉ-xem; trang đang làm bài thì giữ nguyên
+  updateNavBadge();
+  if (['/', '/progress'].includes(parseRoute().base)) render(true);
+});
 window.addEventListener('beforeunload', () => store.save(true));

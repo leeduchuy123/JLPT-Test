@@ -3,6 +3,7 @@ import { $, $$, esc, toast, confirmDialog, downloadJSON, fmtDate } from '../util
 import * as store from '../store.js';
 import { bankStats, loadManifest, SECTIONS, TYPES, typeLabel } from '../data.js';
 import { applyTheme } from '../app.js';
+import * as sync from '../sync.js';
 
 export async function render(app) {
   const s = store.settings();
@@ -23,9 +24,10 @@ export async function render(app) {
       <label class="field"><span>Mục tiêu mỗi ngày (số câu)</span><input class="input" type="number" min="5" max="200" id="dailyGoal" value="${s.dailyGoal}" style="max-width:220px"></label>
       <label class="check"><input type="checkbox" id="autoSrs" ${s.autoSrsWrong ? 'checked' : ''}> Câu làm sai tự động vào "Xem sau" (ôn lại ngày mai → 3 → 7 → 14 → 30 → 60 ngày)</label>
     </div>
+    <div class="card" id="sync-card"></div>
     <div class="card">
       <h2>Sao lưu dữ liệu</h2>
-      <p class="small muted">Toàn bộ tiến độ, lịch ôn, ghi chú đều nằm trong trình duyệt này. Xuất file JSON để lưu hoặc chuyển sang máy khác.</p>
+      <p class="small muted">Tiến độ, lịch ôn, ghi chú lưu trong trình duyệt này${sync.enabled() ? ' và trên máy chủ đồng bộ' : ''}. Xuất file JSON để giữ một bản sao lưu riêng.</p>
       <div class="row">
         <button class="btn btn-primary" id="export">⬇ Xuất file sao lưu</button>
         <label class="btn">⬆ Nhập từ file <input type="file" id="import" accept="application/json" hidden></label>
@@ -53,15 +55,80 @@ export async function render(app) {
     const f = e.target.files[0]; if (!f) return;
     try {
       const obj = JSON.parse(await f.text());
-      if (await confirmDialog({ title: 'Nhập dữ liệu?', body: `<p>Sẽ <b>thay thế</b> toàn bộ tiến độ hiện tại bằng dữ liệu trong file (${Object.keys(obj.stats || {}).length} câu đã làm, ${(obj.history || []).length} bài).</p>`, ok: 'Nhập' })) {
+      if (await confirmDialog({ title: 'Nhập dữ liệu?', body: `<p>Sẽ <b>thay thế</b> toàn bộ tiến độ hiện tại bằng dữ liệu trong file (${Object.keys(obj.stats || {}).length} câu đã làm, ${(obj.history || []).length} bài).</p>${ALL_DEVICES()}`, ok: 'Nhập' })) {
         store.importState(obj); toast('Đã nhập dữ liệu'); applyTheme(); render(app); document.dispatchEvent(new CustomEvent('srs-changed'));
       }
     } catch (err) { toast('Không đọc được file: ' + err.message, 4000); }
     e.target.value = '';
   };
   $('#reset', app).onclick = async () => {
-    if (await confirmDialog({ title: 'Xoá toàn bộ tiến độ?', body: '<p>Mọi kết quả, lịch ôn, ghi chú sẽ bị xoá. Hãy xuất file sao lưu trước nếu cần.</p>', ok: 'Xoá hết', danger: true })) {
+    if (await confirmDialog({ title: 'Xoá toàn bộ tiến độ?', body: `<p>Mọi kết quả, lịch ôn, ghi chú sẽ bị xoá. Hãy xuất file sao lưu trước nếu cần.</p>${ALL_DEVICES()}`, ok: 'Xoá hết', danger: true })) {
       store.resetAll(); applyTheme(); toast('Đã xoá'); render(app); document.dispatchEvent(new CustomEvent('srs-changed'));
+    }
+  };
+
+  drawSync(app);
+  document.addEventListener('sync-status', onSyncStatus);
+  return () => document.removeEventListener('sync-status', onSyncStatus);
+}
+
+const ALL_DEVICES = () => (sync.enabled() ? '<p><b>Đang bật đồng bộ:</b> thao tác này áp dụng cho mọi thiết bị.</p>' : '');
+
+function onSyncStatus() {
+  const el = document.getElementById('sync-card');
+  if (el && !el.contains(document.activeElement)) drawSync(el.closest('#app'));
+}
+
+function drawSync(app) {
+  const el = $('#sync-card', app);
+  if (!el) return;
+  const st = sync.status();
+  const head = '<h2>Đồng bộ giữa các thiết bị</h2>';
+
+  if (!st.enabled || st.needPass) {
+    el.innerHTML = `${head}
+      <p class="small muted">Lưu tiến độ, "Xem sau", ghi chú lên máy chủ để học tiếp trên điện thoại hoặc máy khác.
+        Nhập mật khẩu đồng bộ (biến <code>SYNC_PASSWORD</code> đặt trên Vercel) ở mỗi máy.
+        Dữ liệu trên máy này được <b>gộp</b> với dữ liệu đã có trên máy chủ, không ghi đè.</p>
+      ${st.needPass ? `<p class="small" style="color:var(--bad)">⚠ ${esc(st.error || 'Mật khẩu không còn đúng')}. Hãy nhập lại.</p>` : ''}
+      <form class="row" id="sync-form">
+        <input class="input" type="password" id="sync-pass" placeholder="Mật khẩu đồng bộ" autocomplete="current-password" required style="max-width:260px">
+        <button class="btn btn-primary" type="submit">${st.needPass ? 'Lưu mật khẩu' : 'Bật đồng bộ'}</button>
+        ${st.needPass ? '<button class="btn" type="button" id="sync-off">Tắt đồng bộ</button>' : ''}
+      </form>
+      <p class="small" id="sync-msg" hidden></p>`;
+    const msg = $('#sync-msg', el);
+    $('#sync-form', el).onsubmit = async (e) => {
+      e.preventDefault();
+      const btn = e.submitter || $('button[type="submit"]', el);
+      btn.disabled = true; msg.hidden = false; msg.style.color = ''; msg.textContent = 'Đang kiểm tra và gộp dữ liệu…';
+      try {
+        await sync.enable($('#sync-pass', el).value);
+        toast('Đã bật đồng bộ');
+        render(app);
+        document.dispatchEvent(new CustomEvent('srs-changed'));
+      } catch (err) {
+        msg.style.color = 'var(--bad)'; msg.textContent = err.message;
+        btn.disabled = false;
+      }
+    };
+  } else {
+    const line = st.error ? `<span style="color:var(--bad)">⚠ ${esc(st.error)}</span>`
+      : st.busy ? 'Đang đồng bộ…'
+      : st.lastAt ? `☁ Đã đồng bộ lúc ${fmtDate(st.lastAt, true)}` : '☁ Đã bật đồng bộ';
+    el.innerHTML = `${head}
+      <p>${line}${st.dirty && !st.busy ? ' <span class="pill">có thay đổi đang chờ</span>' : ''}</p>
+      <p class="small muted">Tự đồng bộ khi mở app, khi quay lại tab và vài giây sau mỗi câu trả lời. Mất mạng vẫn học bình thường, có mạng lại sẽ tự đẩy lên. Mật khẩu được lưu trong trình duyệt này.</p>
+      <div class="row">
+        <button class="btn btn-primary" id="sync-now" ${st.busy ? 'disabled' : ''}>Đồng bộ ngay</button>
+        <button class="btn" id="sync-off">Tắt đồng bộ trên máy này</button>
+      </div>`;
+    $('#sync-now', el).onclick = () => sync.syncNow({ manual: true });
+  }
+  const off = $('#sync-off', el);
+  if (off) off.onclick = async () => {
+    if (await confirmDialog({ title: 'Tắt đồng bộ trên máy này?', body: '<p>Dữ liệu trên máy này và trên máy chủ vẫn giữ nguyên; chỉ là máy này thôi gửi / nhận thay đổi.</p>', ok: 'Tắt' })) {
+      sync.disable(); toast('Đã tắt đồng bộ'); drawSync(app);
     }
   };
 }

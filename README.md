@@ -1,6 +1,6 @@
 # JLPT N3 – Web tổng ôn (cá nhân)
 
-Web tĩnh (HTML/CSS/JS thuần, ES modules, không build step), host trên Vercel. Mọi tiến độ lưu trong `localStorage` của trình duyệt, có xuất/nhập file sao lưu.
+Web tĩnh (HTML/CSS/JS thuần, ES modules, không build step), host trên Vercel. Tiến độ lưu trong `localStorage` của trình duyệt, có xuất/nhập file sao lưu, và (tuỳ chọn) đồng bộ giữa các thiết bị qua một Vercel Function + Upstash Redis.
 
 Mục tiêu: tổng ôn N3 trong ~2 tháng bằng cách **làm đề → sai ở đâu học lại ở đó**, với lịch ôn lại theo spaced repetition.
 
@@ -14,14 +14,17 @@ Mục tiêu: tổng ôn N3 trong ~2 tháng bằng cách **làm đề → sai ở
 | **Xem sau** | SRS: câu bạn gắn cờ hoặc làm sai, lặp lại 1 → 3 → 7 → 14 → 30 → 60 ngày; đánh giá Quên / Khó / Nhớ / Dễ |
 | **Tiến độ** | Biểu đồ 30 ngày, độ chính xác theo phần và theo dạng bài, điểm thi thử theo thời gian, lịch sử, ước tính điểm JLPT |
 | **Tra cứu** | Ngữ pháp N3, từ vựng N3, kanji N3 có tìm kiếm |
-| **Cài đặt** | Giao diện sáng/tối, ngày thi, mục tiêu ngày, tự thêm câu sai vào Xem sau, xuất/nhập/xoá dữ liệu, thống kê ngân hàng câu hỏi |
+| **Cài đặt** | Giao diện sáng/tối, ngày thi, mục tiêu ngày, tự thêm câu sai vào Xem sau, đồng bộ giữa các thiết bị, xuất/nhập/xoá dữ liệu, thống kê ngân hàng câu hỏi |
 
 ## Cấu trúc
 ```
 index.html              # shell SPA (hash router)
 css/style.css           # giao diện, light/dark
 js/app.js               # router, theme, nav
-js/store.js             # state + localStorage (stats, history, SRS, notes, sessions)
+js/store.js             # state + localStorage (stats, history, SRS, notes, sessions), ghi mốc thời gian cho đồng bộ
+js/merge.js             # gộp 2 bản tiến độ (từng mục theo lần sửa cuối, mục đã xoá, đếm ngày theo thiết bị)
+js/sync.js              # đồng bộ đám mây phía trình duyệt (kéo / gộp / đẩy, nén gzip)
+api/sync.js             # Vercel Function: kho đồng bộ 1 người dùng (Upstash Redis REST, khoá bằng mật khẩu)
 js/srs.js               # lịch lặp lại
 js/data.js              # tải bank/exams/refs, ghép đề, tìm tra cứu liên quan
 js/question.js          # render câu hỏi / đoạn văn / giải thích / hành động
@@ -39,7 +42,7 @@ crawl/                    # dữ liệu thô + cache (không deploy)
 
 ## Chạy local
 ```bash
-npm run dev          # http://localhost:3000
+npm run dev          # http://localhost:3000 (không có /api → đồng bộ báo lỗi, phần còn lại chạy bình thường)
 ```
 
 ## Cập nhật dữ liệu
@@ -52,7 +55,15 @@ python -I scripts/explain/validate.py       # kiểm tra giải thích
 Giải thích do AI viết theo vai giáo viên, lưu ở `crawl/explain/out/`, được gắn vào bank khi build.
 
 ## Deploy Vercel
-Framework: **Other**, không build command, output root. `vercel.json` đã có cleanUrls + cache headers. `.vercelignore` loại `crawl/`, `scripts/`, `docs/`.
+Framework: **Other**, không build command, output root. `vercel.json` đã có cleanUrls + header bảo mật; `js/`, `css/`, `data/` luôn hỏi lại máy chủ (ETag) để không bị trộn file JS cũ/mới sau khi deploy. `.vercelignore` loại `crawl/`, `scripts/`, `docs/`. Thư mục `api/` được Vercel tự nhận làm Functions.
+
+### Bật đồng bộ giữa các thiết bị
+1. Vercel → project → **Storage** → **Create Database** → **Upstash for Redis** (gói Free) → connect vào project. Tích hợp tự thêm biến `KV_REST_API_URL` / `KV_REST_API_TOKEN` (hoặc `UPSTASH_REDIS_REST_URL` / `_TOKEN`, đều dùng được).
+2. **Settings → Environment Variables**: thêm `SYNC_PASSWORD` = một mật khẩu dài (≥ 16 ký tự, có dấu tiếng Việt cũng được).
+3. **Deployments → Redeploy** để biến môi trường có hiệu lực.
+4. Trên mỗi máy: **Cài đặt → Đồng bộ giữa các thiết bị** → nhập mật khẩu. Dữ liệu sẵn có trên máy được gộp với máy chủ, không ghi đè.
+
+Cách gộp: mỗi câu / thẻ Xem sau / ghi chú / bài đang làm lấy bản sửa sau cùng; mục đã xoá không bị máy khác làm sống lại; số câu mỗi ngày đếm riêng từng thiết bị rồi cộng; giao diện sáng/tối giữ riêng từng máy. "Xoá toàn bộ" và "Nhập từ file" áp dụng cho mọi thiết bị. Máy chủ chỉ lưu một chuỗi nén (~120 KB khi đã làm hết ngân hàng câu), sai mật khẩu 20 lần / 15 phút thì khoá IP đó.
 
 ## Dữ liệu (build 2026-10-06)
 | | Số lượng |
