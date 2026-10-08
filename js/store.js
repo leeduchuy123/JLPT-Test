@@ -4,7 +4,7 @@
 */
 import { todayKey, startOfDay, uid } from './util.js';
 import * as srs from './srs.js';
-import { normMeta, totals } from './merge.js';
+import { normMeta, totals, mergeStates } from './merge.js';
 
 const KEY = 'jlpt-n3-state-v2';
 const LEGACY_KEY = 'jlpt-n3-progress';
@@ -206,12 +206,55 @@ export function migrateAliases(aliases, exists) {
   return moved;
 }
 
-/* ----- import / export ----- */
-export function exportState() { return JSON.parse(JSON.stringify(state)); }
-/** Nhập file = thay thế toàn bộ, kể cả trên các máy đang đồng bộ (epoch mới). */
+/* ----- import / export (chuyển tiến độ giữa các máy bằng file JSON) ----- */
+const LAST_EXPORT_KEY = 'jlpt-n3-last-export';
+const FILE_ONLY = ['app', 'exportedAt', 'exportedFrom'];
+
+/** Toàn bộ tiến độ (thống kê, "Xem sau" + lịch ôn, ghi chú, lịch sử, bài đang làm, số câu mỗi ngày, cài đặt). */
+export function exportState() {
+  const out = { app: 'jlpt-n3', exportedAt: Date.now(), exportedFrom: deviceId, ...JSON.parse(JSON.stringify(state)) };
+  try { localStorage.setItem(LAST_EXPORT_KEY, String(out.exportedAt)); } catch { /* ignore */ }
+  return out;
+}
+export function lastExportAt() {
+  try { return Number(localStorage.getItem(LAST_EXPORT_KEY)) || 0; } catch { return 0; }
+}
+
+/** Kiểm tra & làm sạch nội dung file; trả về state (không còn các trường chỉ có trong file). */
+export function checkFile(obj) {
+  if (!obj || typeof obj !== 'object' || !obj.version || typeof obj.stats !== 'object') throw new Error('File không đúng định dạng tiến độ JLPT N3');
+  const s = { ...obj };
+  for (const k of FILE_ONLY) delete s[k];
+  return s;
+}
+
+/** Tóm tắt nội dung một file / state để hiện trước khi nhập. */
+export function summarize(obj) {
+  const n = (o) => Object.keys(o || {}).length;
+  return {
+    answered: n(obj.stats),
+    srs: n(obj.srs),
+    notes: n(obj.notes),
+    tests: (obj.history || []).length,
+    days: Object.values(obj.daily || {}).filter(d => d && d.answered > 0).length,
+    exportedAt: obj.exportedAt || 0,
+  };
+}
+
+/** Nhập file kiểu GỘP: giữ tiến độ trên máy này, thêm / cập nhật theo file (mục nào sửa sau thì thắng). */
+export function mergeImport(obj) {
+  const incoming = checkFile(obj);
+  // cùng epoch với máy này để không bị cắt bớt dữ liệu cũ: đây là gộp, không phải thay thế
+  incoming.meta = { ...normMeta(incoming.meta), epoch: state.meta.epoch };
+  state = normalize(mergeStates(state, incoming, { device: deviceId }));
+  commit(true);
+}
+
+/** Nhập file kiểu THAY THẾ toàn bộ, kể cả trên các máy đang đồng bộ (epoch mới). */
 export function importState(obj) {
-  if (!obj || typeof obj !== 'object' || !obj.version) throw new Error('File không đúng định dạng');
-  state = normalize(obj);
+  const theme = state.settings.theme;
+  state = normalize(checkFile(obj));
+  state.settings.theme = theme;
   state.meta.epoch = { id: uid(), at: Date.now() };
   commit(true);
 }

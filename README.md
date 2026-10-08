@@ -57,7 +57,14 @@ Giải thích do AI viết theo vai giáo viên, lưu ở `crawl/explain/out/`, 
 ## Deploy Vercel
 Framework: **Other**, không build command, output root. `vercel.json` đã có cleanUrls + header bảo mật; `js/`, `css/`, `data/` luôn hỏi lại máy chủ (ETag) để không bị trộn file JS cũ/mới sau khi deploy. `.vercelignore` loại `crawl/`, `scripts/`, `docs/`. Thư mục `api/` được Vercel tự nhận làm Functions.
 
-### Bật đồng bộ giữa các thiết bị
+### Chuyển tiến độ sang máy khác (không cần cài gì)
+
+**Cài đặt → Chuyển tiến độ sang máy khác**:
+1. Máy cũ: **Xuất file tiến độ** → tải về `jlpt-n3-tien-do-<ngày>_<giờ>.json` (kết quả từng câu, Xem sau + lịch ôn, ghi chú, lịch sử thi, bài làm dở, số câu mỗi ngày, cài đặt).
+2. Gửi file sang máy mới.
+3. Máy mới: **Nhập file tiến độ** → **Gộp** (giữ tiến độ của cả hai máy, mục nào sửa sau thì thắng; nhập lại cùng file không bị cộng trùng) hoặc **Thay thế** (dùng đúng như trong file).
+
+### (Nâng cao, tuỳ chọn) Đồng bộ tự động giữa các thiết bị
 1. Vercel → project → **Storage** → **Create Database** → **Upstash for Redis** (gói Free) → connect vào project. Tích hợp tự thêm biến `KV_REST_API_URL` / `KV_REST_API_TOKEN` (hoặc `UPSTASH_REDIS_REST_URL` / `_TOKEN`, đều dùng được).
 2. **Settings → Environment Variables**: thêm `SYNC_PASSWORD` = một mật khẩu dài (≥ 16 ký tự, có dấu tiếng Việt cũng được).
 3. **Deployments → Redeploy** để biến môi trường có hiệu lực.

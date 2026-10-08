@@ -70,7 +70,7 @@ function updateFooter() {
   const el = $('#footer-note');
   if (!el) return;
   const st = sync.status();
-  if (!st.enabled) { el.innerHTML = 'Dữ liệu tiến độ lưu trên trình duyệt này. Nhớ <a href="#/settings">sao lưu</a> định kỳ hoặc bật đồng bộ.'; return; }
+  if (!st.enabled) { el.innerHTML = 'Dữ liệu tiến độ lưu trên trình duyệt này. Đổi máy? <a href="#/settings">Xuất / nhập file tiến độ</a>.'; return; }
   if (st.error) { el.innerHTML = `⚠ Chưa đồng bộ được: ${esc(st.error)} · <a href="#/settings">Cài đặt</a>`; return; }
   el.textContent = (st.lastAt ? `☁ Đã đồng bộ lúc ${fmtDate(st.lastAt, true)}` : '☁ Đã bật đồng bộ')
     + (st.busy ? ' · đang đồng bộ…' : st.dirty ? ' · có thay đổi đang chờ' : '');
