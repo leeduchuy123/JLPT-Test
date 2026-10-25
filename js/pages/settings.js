@@ -23,7 +23,7 @@ export async function render(app) {
         <li>Gửi file sang máy kia (Zalo, email, USB, Google Drive…).</li>
         <li>Máy kia: mở trang này → <b>Nhập file tiến độ</b> → chọn <b>Gộp</b>.</li>
       </ol>
-      <p class="small">Máy này: ${mine.answered.toLocaleString('vi')} câu đã làm · ${mine.srs} câu "Xem sau" · ${mine.notes} ghi chú · ${mine.tests} bài thi.
+      <p class="small">Máy này: ${mine.answered.toLocaleString('vi')} câu đã làm · ${mine.srs} câu "Xem sau" · ${mine.gcards} thẻ ngữ pháp · ${mine.notes} ghi chú · ${mine.tests} bài thi.
         <span class="muted" id="last-exp">${lastExp ? `Lần xuất gần nhất: ${fmtDate(lastExp, true)}.` : 'Chưa xuất file lần nào.'}</span></p>
       <div class="row">
         <button class="btn btn-primary" id="export">⬇ Xuất file tiến độ</button>
@@ -103,7 +103,7 @@ export async function render(app) {
 
 /** Hỏi cách nhập file: 'merge' | 'replace' | null (huỷ). */
 function importDialog(name, fs, mine) {
-  const line = (s) => `${s.answered.toLocaleString('vi')} câu đã làm · ${s.srs} câu "Xem sau" · ${s.notes} ghi chú · ${s.tests} bài thi · ${s.days} ngày học`;
+  const line = (s) => `${s.answered.toLocaleString('vi')} câu đã làm · ${s.srs} câu "Xem sau" · ${s.gcards} thẻ ngữ pháp · ${s.notes} ghi chú · ${s.tests} bài thi · ${s.days} ngày học`;
   const { el, close } = modal(`
     <h3>Nhập file tiến độ</h3>
     <p class="small"><b>${esc(name)}</b>${fs.exportedAt ? ` · xuất lúc ${fmtDate(fs.exportedAt, true)}` : ''}</p>

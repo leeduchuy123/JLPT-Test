@@ -1,0 +1,2402 @@
+[
+{
+"id": "dethitiengnhat:N3-11-3-q22",
+"t": "text_grammar",
+"q": "【22】 = 頑張り続けられそうです",
+"ans": "頑張り続けられそうです",
+"note": "どんなに〜ても + dự đoán tương lai; album tiếp sức → 'có thể tiếp tục cố gắng' (られる + そう).",
+"tr": "Từ nay dù công việc có vất vả đến đâu, tôi thấy mình có thể tiếp tục cố gắng."
+},
+{
+"id": "dethitiengnhat:N3-30-3-q1",
+"t": "grammar_form",
+"q": "旅行の最終日は海の近くを散歩したり、カフェに入ったりして、のんびりした午後を過ごした。",
+"ans": "を",
+"note": "過ごす là tha động từ: 時間/午後/休日 + を + 過ごす.",
+"tr": "Ngày cuối chuyến đi, tôi đi dạo gần biển, vào quán cà phê, trải qua một buổi chiều thong thả."
+},
+{
+"id": "dethitiengnhat:N3-30-3-q2",
+"t": "grammar_form",
+"q": "会社の近くには二つの駅がある。会社からはどちらへも10分ぐらいで歩いて行けるので、その日の電車に合わせて使い分けている。",
+"ans": "どちらへも",
+"note": "Từ để hỏi + も = 'cái nào cũng' (どちらへも = đến cả hai). Vế sau 使い分けている cho thấy dùng cả hai ga.",
+"tr": "Gần công ty có hai ga. Từ công ty đi bộ đến ga nào cũng chỉ khoảng 10 phút nên tôi dùng tùy theo tàu hôm đó."
+},
+{
+"id": "dethitiengnhat:N3-30-3-q3",
+"t": "grammar_form",
+"q": "庭に植えた小さな木を毎日世話していたら、いつの間にか私の背より高くなっていた。",
+"ans": "いつの間にか",
+"note": "いつの間にか + ~ていた: việc đã xảy ra mà mình không nhận ra.",
+"tr": "Ngày nào cũng chăm cái cây nhỏ trồng ngoài vườn, lúc nào không hay nó đã cao hơn cả tôi."
+},
+{
+"id": "dethitiengnhat:N3-30-3-q4",
+"t": "grammar_form",
+"q": "（旅行会社で） 客：「このホテル、海も近いし、部屋もきれいですね。ただ、一泊の料金が少し高いですね。できれば、もう少し安いホテルも見せていただけますか。」 店員：「はい、もちろんです。」",
+"ans": "できれば",
+"note": "できれば đứng đầu câu đề nghị ~ていただけますか để nói nhẹ nhàng, lịch sự.",
+"tr": "Khách: Khách sạn này gần biển, phòng cũng đẹp. Chỉ có điều giá một đêm hơi cao. Nếu được, anh cho tôi xem thêm khách sạn rẻ hơn một chút được không?"
+},
+{
+"id": "dethitiengnhat:N3-30-3-q5",
+"t": "grammar_form",
+"q": "映画を見ていた子どもが、怖い場面になったとたん、突然泣き出したので、母親はテレビを消した。",
+"ans": "出した",
+"note": "V-ます + 出す = đột ngột bắt đầu làm gì. Dấu hiệu: ~たとたん, 突然.",
+"tr": "Đứa trẻ đang xem phim, vừa đến cảnh đáng sợ thì bỗng òa khóc, nên người mẹ tắt tivi."
+},
+{
+"id": "dethitiengnhat:N3-30-3-q6",
+"t": "grammar_form",
+"q": "（銀行の窓口で） 職員：「手続きが終わりましたら、こちらからお呼びします。お名前が呼ばれるまで、そのままお待ちください。」",
+"ans": "呼ばれるまで",
+"note": "V-る(bị động) + まで = 'cho đến khi…'. Phân biệt với までに (trước thời hạn).",
+"tr": "Nhân viên: Khi thủ tục xong, chúng tôi sẽ gọi quý khách. Xin cứ đợi ở đây cho đến khi được gọi tên."
+},
+{
+"id": "dethitiengnhat:N3-30-3-q7",
+"t": "grammar_form",
+"q": "出発する前に荷物を確認しなかったせいで、空港に着いてからパスポートを家に忘れたことに気づいた。",
+"ans": "せいで",
+"note": "せいで = đổ lỗi, kết quả xấu; おかげで = kết quả tốt. Quên hộ chiếu là chuyện xấu nên dùng せいで.",
+"tr": "Tại không kiểm tra hành lý trước khi đi, đến sân bay tôi mới nhận ra đã để quên hộ chiếu ở nhà."
+},
+{
+"id": "dethitiengnhat:N3-30-3-q8",
+"t": "grammar_form",
+"q": "明日の会議で使う資料は、今夜のうちに全部印刷しておかなければならないのに、まだ半分しか準備できていない。",
+"ans": "印刷しておかなければならない",
+"note": "V-ておく (chuẩn bị trước) + なければならない (phải) = 'phải làm sẵn'. 今夜のうちに (trong tối nay) báo hiệu việc chuẩn bị.",
+"tr": "Tài liệu dùng cho họp mai phải in sẵn hết trong tối nay, vậy mà mới chuẩn bị được một nửa."
+},
+{
+"id": "dethitiengnhat:N3-30-3-q9",
+"t": "grammar_form",
+"q": "隣の部屋で夜遅くまで大きな音がしていたので、昨日はほとんど眠れなかった。",
+"ans": "眠れなかった",
+"note": "ほとんど + phủ định = 'hầu như không'. Tiếng ồn khiến mất khả năng ngủ nên dùng thể khả năng 眠れない.",
+"tr": "Phòng bên cạnh ồn ào đến khuya nên hôm qua tôi hầu như không ngủ được."
+},
+{
+"id": "dethitiengnhat:N3-30-3-q10",
+"t": "grammar_form",
+"q": "私がこれから実現したい目標は、外国の人にも日本の文化を紹介できる仕事をすることだ。",
+"ans": "することだ",
+"note": "Chủ ngữ là danh từ (目標は) nên vị ngữ phải là danh từ: V-る + ことだ.",
+"tr": "Mục tiêu tôi muốn thực hiện từ nay là làm công việc có thể giới thiệu văn hóa Nhật cho cả người nước ngoài."
+},
+{
+"id": "dethitiengnhat:N3-30-3-q11",
+"t": "grammar_form",
+"q": "A：「まだ空が真っ暗だね。雨もかなり強いし。」 B：「うん。この様子だと、しばらくはやみそうにないね。出発を少し遅らせようか。」",
+"ans": "やみそうにない",
+"note": "V-ます + そうにない = 'trông không có vẻ sẽ…'. この様子だと (nhìn tình hình này) là dấu hiệu của phán đoán そう.",
+"tr": "A: Trời vẫn tối om nhỉ, mưa cũng khá to. B: Ừ, nhìn thế này thì tạm thời chưa tạnh được đâu. Hay hoãn xuất phát một chút nhé?"
+},
+{
+"id": "dethitiengnhat:N3-30-3-q12",
+"t": "grammar_form",
+"q": "（学校で） A：「聞いた？ 来月から図書館が夜9時まで利用できるようになるらしいよ。」 B：「そうなんだ。それなら授業のあとにも使えるね。」",
+"ans": "なるらしい",
+"note": "聞いた？ cho thấy A đang truyền lại tin nghe được, nên dùng らしい (nghe nói, hình như).",
+"tr": "A: Nghe chưa? Nghe nói từ tháng sau thư viện mở đến 9 giờ tối đấy. B: Thế à. Vậy thì sau giờ học cũng dùng được nhỉ."
+},
+{
+"id": "dethitiengnhat:N3-30-3-q13",
+"t": "grammar_form",
+"q": "（写真館で） 店員：「こちらの写真でよろしいですか。」 客：「すみません、顔が少し暗く見えるので、もう少し明るくしてもらえますか。」",
+"ans": "してもらえますか",
+"note": "明るくする = làm cho sáng (tha động từ, do nhân viên làm). Nhờ ai làm: V-てもらえますか.",
+"tr": "Khách: Xin lỗi, mặt trông hơi tối nên anh chỉnh sáng hơn một chút được không?"
+},
+{
+"id": "dethitiengnhat:N3-30-3-q14",
+"t": "sentence_order",
+"q": "あのレストランのオムライスはとてもおいしい。あれ＿＿＿ ＿＿＿ ＿★＿ ＿＿＿ないと思う。",
+"ans": "は",
+"note": "Câu đúng: あれほどおいしい料理は他にないと思う。 ★ = は. Mẫu N + ほど + ~はない = 'không gì… bằng N'.",
+"tr": "Món omurice ở nhà hàng đó rất ngon. Tôi nghĩ không có món nào khác ngon bằng món đó."
+},
+{
+"id": "dethitiengnhat:N3-30-3-q15",
+"t": "sentence_order",
+"q": "最近は若者でも、＿＿＿ ＿＿＿ ＿★＿ ＿＿＿、新聞の特集で読んだ。",
+"ans": "増えている",
+"note": "Câu đúng: 最近は若者でも、ふだんから着物を着る人が増えているということを、新聞の特集で読んだ。 ★ = 増えている. Mệnh đề + ということを + 読んだ/聞いた = 'đọc/nghe được rằng…'.",
+"tr": "Tôi đọc trong chuyên đề trên báo rằng gần đây ngay cả giới trẻ cũng ngày càng nhiều người mặc kimono thường ngày."
+},
+{
+"id": "dethitiengnhat:N3-30-3-q16",
+"t": "sentence_order",
+"q": "（アルバイト先で） 学生「店長、来週の金曜日なんですが、＿＿＿ ＿＿＿ ＿★＿ ＿＿＿でしょうか。」",
+"ans": "休ませて",
+"note": "Câu đúng: 用事があるので休ませてもらえないでしょうか。 ★ = 休ませて. Mẫu xin phép V-させてもらえないでしょうか (cho tôi được… có được không).",
+"tr": "Sinh viên: Thưa quản lý, thứ Sáu tuần sau em có việc bận nên có thể cho em nghỉ được không ạ?"
+},
+{
+"id": "dethitiengnhat:N3-30-3-q17",
+"t": "sentence_order",
+"q": "今朝は寝坊して慌てていたから、＿＿＿ ＿＿＿ ＿★＿ ＿＿＿しまった。",
+"ans": "そのまま",
+"note": "Câu đúng: 受験票をかばんに入れるのを忘れて、そのまま学校へ来てしまった。 ★ = そのまま. V-るのを忘れる = quên làm việc gì; そのまま = cứ nguyên thế mà.",
+"tr": "Sáng nay ngủ quên nên cuống cuồng, tôi quên bỏ phiếu dự thi vào cặp rồi cứ thế đến trường mất."
+},
+{
+"id": "dethitiengnhat:N3-30-3-q18",
+"t": "sentence_order",
+"q": "語学の勉強をしている弟は、正しい発音を＿＿＿ ＿＿＿ ＿★＿ ＿＿＿そうだ。",
+"ans": "毎日音声を聞く",
+"note": "Câu đúng: 正しい発音を忘れないように毎日音声を聞くことにしているそうだ。 ★ = 毎日音声を聞く. V-ないように + V = 'để không…'; V-ることにしている = thói quen tự đặt ra.",
+"tr": "Em trai tôi đang học ngoại ngữ, nghe nói để không quên cách phát âm đúng, cậu ấy duy trì thói quen nghe file âm thanh mỗi ngày."
+},
+{
+"id": "dethitiengnhat:N3-30-3-q19",
+"t": "text_grammar",
+"q": "【19】 = お祭りの準備",
+"ans": "お祭りの準備",
+"note": "Câu trước nói lần đầu làm ở quầy; câu này thêm 'cũng lần đầu' với việc chuẩn bị lễ hội → nêu thẳng danh từ.",
+"tr": "Tôi cũng lần đầu tham gia chuẩn bị lễ hội."
+},
+{
+"id": "dethitiengnhat:N3-30-3-q21",
+"t": "text_grammar",
+"q": "【21】 = 置いてあったそうです",
+"ans": "置いてあったそうです",
+"note": "〜てある = trạng thái do ai để lại; そうです = nghe người mang túi đến kể. Người viết không tự thấy nên dùng truyền đạt.",
+"tr": "Nghe nói nó được để dưới ghế băng ở công viên tôi đã nghỉ."
+},
+{
+"id": "dethitiengnhat:N3-30-3-q22",
+"t": "text_grammar",
+"q": "【22】 = なるのだと実感しました",
+"ans": "なるのだと実感しました",
+"note": "Kết bài rút ra bài học từ trải nghiệm → 〜のだと実感した (cảm nhận thực tế).",
+"tr": "Dù là người lạ, khi cùng làm việc gì đó, lòng người xích lại gần nhau – tôi đã thực sự cảm nhận điều đó."
+},
+{
+"id": "dethitiengnhat:N3-31-3-q1",
+"t": "grammar_form",
+"q": "今日は妹が実家に来ている。妹が帰ってしまう前に、渡したいお土産があるので、急いで実家に帰ろう。",
+"ans": "帰ってしまう前に",
+"note": "V-てしまう前に = 'trước khi (việc đáng tiếc) xảy ra'. Vế sau 急いで帰ろう cho thấy sự gấp gáp trước khi em về.",
+"tr": "Hôm nay em gái về nhà bố mẹ. Trước khi em ấy về mất, tôi có quà muốn đưa nên phải nhanh về nhà thôi."
+},
+{
+"id": "dethitiengnhat:N3-31-3-q2",
+"t": "grammar_form",
+"q": "この橋は古そうに見えるが、実際に建てられたのはたったの5年前だそうだ。",
+"ans": "建てられたのは",
+"note": "Mẫu nhấn mạnh ~のは~だ: 'cái được xây là… (thời điểm)'. 実際に + bị động 建てられた đi với たったの5年前.",
+"tr": "Cây cầu này trông có vẻ cũ nhưng nghe nói thực tế nó được xây chỉ mới 5 năm trước."
+},
+{
+"id": "dethitiengnhat:N3-31-3-q3",
+"t": "grammar_form",
+"q": "A「あっ、外、傘をさしている人がいるよ。」 B「本当だ。いつの間にか、雨が降り出したみたいだね。」",
+"ans": "みたいだ",
+"note": "Thấy người che ô mà đoán trời mưa → みたいだ (có vẻ như). いつの間にか cho thấy bất ngờ, không phải suy luận chắc chắn はず.",
+"tr": "A: Ơ, ngoài kia có người che ô kìa. B: Thật này. Lúc nào không hay trời đã đổ mưa rồi."
+},
+{
+"id": "dethitiengnhat:N3-31-3-q4",
+"t": "grammar_form",
+"q": "A「すみません、この近くで美味しいパン屋さんを知っていたら、教えてほしいんですが。」 B「あ、駅前のベーカリーはすごくおすすめですよ。」",
+"ans": "教えてほしいんですが",
+"note": "V-てほしい = muốn người khác làm gì. Thêm んですが làm mềm câu nhờ.",
+"tr": "A: Xin lỗi, nếu anh biết tiệm bánh mì ngon gần đây thì chỉ cho tôi với. B: À, tiệm bánh trước ga rất đáng thử đấy."
+},
+{
+"id": "dethitiengnhat:N3-31-3-q5",
+"t": "grammar_form",
+"q": "彼は大学で日本史を教えている先生なのだから、その有名な歴史の事件についてわからないはずがない。",
+"ans": "わからないはずがない",
+"note": "~のだから (vì lý do hiển nhiên) + ~ないはずがない (không thể nào không) = suy luận chắc chắn kiểu phủ định kép.",
+"tr": "Anh ấy là giảng viên dạy lịch sử Nhật ở đại học nên không thể nào không biết về sự kiện lịch sử nổi tiếng đó."
+},
+{
+"id": "dethitiengnhat:N3-31-3-q6",
+"t": "grammar_form",
+"q": "夫は、毎晩仕事が終わると、スーパーに寄って翌朝のパンを買ってきてくれる。",
+"ans": "買ってきてくれる",
+"note": "Chủ ngữ 夫は làm cho tôi → V-てくれる. Nếu dùng もらう thì chủ ngữ phải là tôi (私は夫に~てもらう).",
+"tr": "Chồng tôi tối nào xong việc cũng ghé siêu thị mua bánh mì cho sáng hôm sau về cho tôi."
+},
+{
+"id": "dethitiengnhat:N3-31-3-q7",
+"t": "grammar_form",
+"q": "足を怪我して試合を休んでいたが、すっかり痛みがなくなった。明日の決勝戦には出られそうだ。",
+"ans": "出られそうだ",
+"note": "V-ます(thể khả năng) + そうだ = 'có vẻ sẽ… được'. すっかり痛みがなくなった là căn cứ cho dự đoán tốt.",
+"tr": "Bị thương chân nên nghỉ thi đấu, nhưng giờ hết đau hẳn rồi. Trận chung kết ngày mai chắc là ra sân được."
+},
+{
+"id": "dethitiengnhat:N3-31-3-q8",
+"t": "grammar_form",
+"q": "この映画は本当に感動的で、私は今までに何度も見て泣いたことがある。",
+"ans": "も",
+"note": "Từ để hỏi + も = số lượng nhiều: 何度も (nhiều lần), 何回も, 何人も.",
+"tr": "Bộ phim này thật sự cảm động, tôi đã xem và khóc không biết bao nhiêu lần rồi."
+},
+{
+"id": "dethitiengnhat:N3-31-3-q9",
+"t": "grammar_form",
+"q": "A「母の日のプレゼント、何がいいかな。」 B「お母さんはお花が好きだから、きれいなバラなんかどう？」",
+"ans": "なんか",
+"note": "N + なんか(どう) = 'N chẳng hạn thì sao?', dùng khi gợi ý một ví dụ nhẹ nhàng.",
+"tr": "A: Quà Ngày của Mẹ, tặng gì được nhỉ? B: Mẹ cậu thích hoa nên hoa hồng đẹp chẳng hạn thì sao?"
+},
+{
+"id": "dethitiengnhat:N3-31-3-q10",
+"t": "grammar_form",
+"q": "直接会って謝るのは勇気がいるが、電話でなら素直に「ごめんなさい」と言える気がする。",
+"ans": "でなら",
+"note": "電話で (bằng điện thoại) + なら (nếu là) → でなら. Đối lập với 直接会って.",
+"tr": "Gặp trực tiếp để xin lỗi thì cần can đảm, nhưng nếu qua điện thoại thì tôi cảm thấy có thể thành thật nói 'xin lỗi'."
+},
+{
+"id": "dethitiengnhat:N3-31-3-q11",
+"t": "grammar_form",
+"q": "あのカレー屋の激辛（げきから）カレーは、あまりに辛かったので、半分以上残してしまった。",
+"ans": "あまりに",
+"note": "あまりに + tính từ + ので = 'vì quá… nên'. Hệ quả xấu đi sau.",
+"tr": "Món cà ri siêu cay ở quán đó cay quá mức nên tôi bỏ lại hơn một nửa."
+},
+{
+"id": "dethitiengnhat:N3-31-3-q12",
+"t": "grammar_form",
+"q": "ピアノの練習を毎日続けていくにしたがって、少しずつ難しい曲も弾けるようになってきた。",
+"ans": "にしたがって",
+"note": "V-る + にしたがって = 'cùng với sự thay đổi của A thì B cũng thay đổi'. Dấu hiệu: 少しずつ, ~ようになってきた.",
+"tr": "Theo đà luyện piano mỗi ngày, dần dần tôi cũng đàn được cả những bài khó."
+},
+{
+"id": "dethitiengnhat:N3-31-3-q13",
+"t": "grammar_form",
+"q": "A「その雑誌、面白い？ 私も読みたいな。」 B「うん、すごく面白いよ。私が読み終わったら、次に貸してあげるね。」",
+"ans": "読み終わったら",
+"note": "V-ます + 終わる = làm xong. 次に貸してあげる (cho mượn tiếp theo) phải sau khi B đọc xong.",
+"tr": "A: Tạp chí đó hay không? Tớ cũng muốn đọc. B: Ừ, hay lắm. Tớ đọc xong sẽ cho cậu mượn tiếp nhé."
+},
+{
+"id": "dethitiengnhat:N3-31-3-q14",
+"t": "sentence_order",
+"q": "図書館で、＿＿＿ ＿＿＿ ＿★＿ ＿＿＿資料を借りた。",
+"ans": "詳しく説明している",
+"note": "Câu đúng: 図書館で、地域の歴史について詳しく説明している古い資料を借りた。 ★ = 詳しく説明している. N + について + V bổ nghĩa cho danh từ 資料.",
+"tr": "Ở thư viện, tôi mượn một tài liệu cũ giải thích chi tiết về lịch sử địa phương."
+},
+{
+"id": "dethitiengnhat:N3-31-3-q15",
+"t": "sentence_order",
+"q": "A「あの人、＿＿＿ ＿＿＿ ＿★＿ ＿＿＿気がする。」 B「近所のパン屋さんの店長さんだよ。」",
+"ans": "か何かで",
+"note": "Câu đúng: あの人、前に駅前か何かで会ったことがある気がする。 ★ = か何かで. N + か何か = 'N hay cái gì đó', nói mơ hồ.",
+"tr": "A: Người kia, tớ có cảm giác trước đây từng gặp ở trước ga hay đâu đó. B: Là chủ tiệm bánh mì gần nhà đấy."
+},
+{
+"id": "dethitiengnhat:N3-31-3-q16",
+"t": "sentence_order",
+"q": "毎朝走るようになってから、走れば＿＿＿ ＿＿＿ ＿★＿ ＿＿＿楽しくなってきた。",
+"ans": "走れるようになっていくのが",
+"note": "Câu đúng: 走れば走るほど長い距離を走れるようになっていくのがわかり楽しくなってきた。 ★ = 走れるようになっていくのが. Mẫu V-ば V-るほど = 'càng… càng'.",
+"tr": "Từ khi chạy mỗi sáng, tôi nhận ra càng chạy càng chạy được quãng dài hơn, nên thấy vui hẳn lên."
+},
+{
+"id": "dethitiengnhat:N3-31-3-q17",
+"t": "sentence_order",
+"q": "今日は休みなのに、＿＿＿ ＿＿＿ ＿★＿ ＿＿＿からだ。",
+"ans": "朝市へ",
+"note": "Câu đúng: 早く起きたのは朝市へ行きたかったからだ。 ★ = 朝市へ. Mẫu ~のは~からだ = 'sở dĩ… là vì…'.",
+"tr": "Hôm nay nghỉ mà tôi dậy sớm là vì muốn đi chợ sáng."
+},
+{
+"id": "dethitiengnhat:N3-31-3-q18",
+"t": "sentence_order",
+"q": "野菜を長く保存する＿＿＿ ＿＿＿ ＿★＿ ＿＿＿大切だ。",
+"ans": "袋に入れる",
+"note": "Câu đúng: 野菜を長く保存するためには水気をよくふいてから袋に入れることが大切だ。 ★ = 袋に入れる. V-る + ためには + ~ことが大切だ.",
+"tr": "Để bảo quản rau được lâu, quan trọng là lau kỹ nước rồi mới cho vào túi."
+},
+{
+"id": "dethitiengnhat:N3-31-3-q19",
+"t": "text_grammar",
+"q": "【19】 = 同じものだと思い込んでいました",
+"ans": "同じものだと思い込んでいました",
+"note": "思い込む = tin chắc (dù sai). Câu sau しかし…特徴があることを知りました cho thấy đó là hiểu lầm ban đầu.",
+"tr": "Hồi mới đến Nhật, tôi cứ đinh ninh tiệm bánh khác nhau nhưng bánh bán thì giống nhau."
+},
+{
+"id": "dethitiengnhat:N3-31-3-q21",
+"t": "text_grammar",
+"q": "【21】 = どの店も",
+"ans": "どの店も",
+"note": "Đang nói về việc đi nhiều tiệm mới → nhận xét chung cho mọi tiệm: từ nghi vấn + も.",
+"tr": "Tiệm nào cũng có vẻ đang nghĩ nhiều cách để làm ra bánh khiến khách vui."
+},
+{
+"id": "dethitiengnhat:N3-31-3-q22",
+"t": "text_grammar",
+"q": "【22】 = 私を元気にしてくれるのです",
+"ans": "私を元気にしてくれるのです",
+"note": "AがBを元気にしてくれる: A mang lại niềm vui cho B. くれる thể hiện lòng biết ơn, のです giải thích.",
+"tr": "Việc đến tiệm bánh làm tôi vui khỏe lên."
+},
+{
+"id": "dethitiengnhat:N3-32-3-q1",
+"t": "grammar_form",
+"q": "この美術館では、現代アートを中心に様々な作品が展示されている。",
+"ans": "を",
+"note": "Cụm cố định N を中心に(して) = 'tập trung vào N, lấy N làm trung tâm'. Nhớ trợ từ を.",
+"tr": "Bảo tàng này trưng bày nhiều tác phẩm, trọng tâm là nghệ thuật đương đại."
+},
+{
+"id": "dethitiengnhat:N3-32-3-q2",
+"t": "grammar_form",
+"q": "毎日仕事が忙しいので、もっと夫に家事を手伝ってほしい。",
+"ans": "に",
+"note": "Người mình muốn họ làm đi với に: 人に + V-てほしい.",
+"tr": "Ngày nào công việc cũng bận nên tôi muốn chồng giúp việc nhà nhiều hơn."
+},
+{
+"id": "dethitiengnhat:N3-32-3-q3",
+"t": "grammar_form",
+"q": "彼は大好きなアイドルのコンサートにいくためだけに、毎日一生懸命アルバイトをしている。",
+"ans": "ためだけに",
+"note": "V-る + ため + だけに = 'chỉ vì mục đích…'. Các mẫu khác với だけに không tồn tại.",
+"tr": "Anh ấy làm thêm chăm chỉ mỗi ngày chỉ để đi xem concert của thần tượng mình yêu thích."
+},
+{
+"id": "dethitiengnhat:N3-32-3-q4",
+"t": "grammar_form",
+"q": "引っ越した新しいアパートは、駅から歩いて5分ぐらいの場所にある。",
+"ans": "ぐらいの",
+"note": "Số lượng + ぐらいの + N = 'N khoảng chừng…'. 5分ほどの cũng nói được, nhưng đáp án đề là ぐらいの; cần の để nối với 場所.",
+"tr": "Căn hộ mới chuyển đến nằm ở chỗ đi bộ từ ga khoảng 5 phút."
+},
+{
+"id": "dethitiengnhat:N3-32-3-q5",
+"t": "grammar_form",
+"q": "4月に入って、少しずつ暖かくなり、ようやく春が近づいてきた。",
+"ans": "ようやく",
+"note": "ようやく = cuối cùng cũng (sau khi chờ đợi). Hợp với cảm giác chờ mùa xuân.",
+"tr": "Sang tháng 4, trời dần ấm lên, cuối cùng mùa xuân cũng đã đến gần."
+},
+{
+"id": "dethitiengnhat:N3-32-3-q6",
+"t": "grammar_form",
+"q": "あのスーパーの野菜は安くて新鮮なので、いつ買いに行っても人が多い。",
+"ans": "行っても",
+"note": "いつ + V-ても = 'dù lúc nào đi nữa cũng'. Từ để hỏi + ても là mẫu cố định.",
+"tr": "Rau ở siêu thị đó rẻ và tươi nên đi mua lúc nào cũng đông người."
+},
+{
+"id": "dethitiengnhat:N3-32-3-q7",
+"t": "grammar_form",
+"q": "（取引先の会社で） 営業の林「本日は社長にお目にかかれて大変光栄に存じます。」 社長「こちらこそ、遠いところからわざわざありがとうございます。」",
+"ans": "お目にかかれて",
+"note": "お目にかかる = khiêm nhường của 会う. Người nói hạ mình nên dùng khiêm nhường; お目にかかれて = 'được gặp'.",
+"tr": "Hayashi: Hôm nay được gặp ngài giám đốc, tôi vô cùng vinh hạnh. Giám đốc: Tôi mới phải cảm ơn anh đã lặn lội từ xa đến."
+},
+{
+"id": "dethitiengnhat:N3-32-3-q8",
+"t": "grammar_form",
+"q": "銀行で新しく口座を作ろうとしただけなのに、書類の確認などで窓口で1時間以上待たされた。",
+"ans": "待たされた",
+"note": "待たされる = bị động sai khiến của 待つ = bị bắt chờ. Sắc thái bực mình, chịu thiệt.",
+"tr": "Chỉ định mở tài khoản mới ở ngân hàng mà vì kiểm tra giấy tờ các thứ, tôi bị bắt đợi hơn một tiếng ở quầy."
+},
+{
+"id": "dethitiengnhat:N3-32-3-q9",
+"t": "grammar_form",
+"q": "A「お庭のトマト、今年は赤くて大きな実がたくさんなりましたね。」 B「ええ。隣の鈴木さんが、おいしい育て方を丁寧に教えてくださったおかげです。」",
+"ans": "おかげです",
+"note": "Kết quả tốt (cà chua sai quả) + biết ơn → おかげです. せい là đổ lỗi.",
+"tr": "A: Cà chua ngoài vườn năm nay ra nhiều quả to đỏ nhỉ. B: Vâng, là nhờ bác Suzuki hàng xóm tận tình chỉ cách trồng ngon."
+},
+{
+"id": "dethitiengnhat:N3-32-3-q10",
+"t": "grammar_form",
+"q": "壁にこのスプレーをかけておくと、タバコのにおいがつきにくくなる。",
+"ans": "つきにくくなる",
+"note": "Chủ ngữ là においが (mùi) → tự động từ つく. V-ます + にくい + なる = trở nên khó….",
+"tr": "Xịt sẵn loại này lên tường thì mùi thuốc lá sẽ khó bám hơn."
+},
+{
+"id": "dethitiengnhat:N3-32-3-q11",
+"t": "grammar_form",
+"q": "A「今度の歓迎会の準備、やることが多すぎて私たち二人じゃ終わらないね。別の部署の木村さんにも手伝ってもらいましょうか。」 B「そうだね。ちょっと聞いてみよう。」",
+"ans": "手伝ってもらいましょうか",
+"note": "木村さんにも + V-てもらう = nhờ anh Kimura làm. ましょうか = đề xuất với người đối thoại.",
+"tr": "A: Chuẩn bị cho tiệc chào mừng nhiều việc quá, hai đứa mình không xong đâu. Hay nhờ cả anh Kimura phòng khác giúp nhé? B: Ừ, hỏi thử xem."
+},
+{
+"id": "dethitiengnhat:N3-32-3-q12",
+"t": "grammar_form",
+"q": "明日は友だちと遊園地に行く約束をしていたが、ひどい熱が出てしまい、とても行けそうにない。",
+"ans": "行けそうにない",
+"note": "とても + phủ định = 'không tài nào'. V(khả năng)-ます + そうにない = trông không thể….",
+"tr": "Mai hẹn bạn đi công viên giải trí nhưng sốt cao quá, chắc không tài nào đi nổi."
+},
+{
+"id": "dethitiengnhat:N3-32-3-q13",
+"t": "grammar_form",
+"q": "A「営業部の山田さん、来月結婚して退職するって知ってた？」 B「退職するどころか、彼が結婚したのも知らなかったよ。」",
+"ans": "結婚したのも",
+"note": "~どころか、~も = 'đừng nói A, ngay cả B cũng…'. Danh từ hóa のも để làm tân ngữ của 知らなかった.",
+"tr": "A: Biết chuyện anh Yamada phòng kinh doanh tháng sau cưới rồi nghỉ việc chưa? B: Nghỉ việc gì chứ, cả chuyện anh ấy kết hôn tớ còn không biết."
+},
+{
+"id": "dethitiengnhat:N3-32-3-q14",
+"t": "sentence_order",
+"q": "この説明書は、文字がとても小さい＿＿＿ ＿＿＿ ＿★＿ ＿＿＿のに苦労する。",
+"ans": "と",
+"note": "Câu đúng: 文字がとても小さいので眼鏡がないと読むのに苦労する。 ★ = と. ~ないと = 'nếu không có… thì'; V-るのに苦労する = vất vả để làm gì.",
+"tr": "Tờ hướng dẫn này chữ rất nhỏ nên không có kính là đọc rất vất vả."
+},
+{
+"id": "dethitiengnhat:N3-32-3-q15",
+"t": "sentence_order",
+"q": "自分にとって「面白い」と思える＿＿＿ ＿＿＿ ＿★＿ ＿＿＿わからない。",
+"ans": "楽しめる",
+"note": "Câu đúng: 自分にとって「面白い」と思える映画でもほかの人が楽しめるかどうかはわからない。 ★ = 楽しめる. Mẫu ~かどうか = 'có… hay không'.",
+"tr": "Ngay cả bộ phim mình thấy 'hay', người khác có thích hay không thì cũng không biết được."
+},
+{
+"id": "dethitiengnhat:N3-32-3-q16",
+"t": "sentence_order",
+"q": "楽しみにしていた花火大会が、朝＿＿＿ ＿＿＿ ＿★＿ ＿＿＿延期になった。",
+"ans": "強風",
+"note": "Câu đúng: 楽しみにしていた花火大会が、朝からの強風で延期になった。 ★ = 強風. 朝からの + N = 'N (kéo dài) từ sáng'; N + で = nguyên nhân.",
+"tr": "Lễ hội pháo hoa tôi mong chờ đã bị hoãn vì gió mạnh từ sáng."
+},
+{
+"id": "dethitiengnhat:N3-32-3-q17",
+"t": "sentence_order",
+"q": "寒い冬の日は、＿＿＿ ＿＿＿ ＿★＿ ＿＿＿はないと思う。",
+"ans": "気持ちがいい",
+"note": "Câu đúng: 寒い冬の日は、温泉ほど気持ちがいいものはないと思う。 ★ = 気持ちがいい. Mẫu N ほど ~ものはない = 'không gì… bằng N'.",
+"tr": "Ngày đông lạnh, tôi nghĩ không gì dễ chịu bằng suối nước nóng."
+},
+{
+"id": "dethitiengnhat:N3-32-3-q18",
+"t": "sentence_order",
+"q": "母の日にカーネーションを渡した。＿＿＿ ＿＿＿ ＿★＿ ＿＿＿見て、私も幸せな気持ちになった。",
+"ans": "している",
+"note": "Câu đúng: 幸せそうな笑顔をしている母を見て、私も幸せな気持ちになった。 ★ = している. ~そうな + N; 笑顔をしている母 = mẹ đang nở nụ cười.",
+"tr": "Ngày của Mẹ tôi tặng hoa cẩm chướng. Nhìn mẹ cười trông thật hạnh phúc, tôi cũng thấy hạnh phúc theo."
+},
+{
+"id": "dethitiengnhat:N3-32-3-q19",
+"t": "text_grammar",
+"q": "【19】 = 飾られていたのです",
+"ans": "飾られていたのです",
+"note": "Mô tả cảnh nhìn thấy trong quá khứ → bị động + ていた; のです giải thích điều 'khác lạ' vừa nói.",
+"tr": "Trên kệ trà, thay vì tên hay nơi sản xuất, có rất nhiều thẻ ghi 'tâm trạng hiện tại' được trưng bày."
+},
+{
+"id": "dethitiengnhat:N3-32-3-q20",
+"t": "text_grammar",
+"q": "【20】 = たとえば",
+"ans": "たとえば",
+"note": "Câu trước nêu nhận xét chung (phân loại theo tâm trạng), câu này đưa ví dụ cụ thể.",
+"tr": "Ví dụ, kệ 'Cho buổi sáng buồn ngủ' có hồng trà hương mạnh."
+},
+{
+"id": "dethitiengnhat:N3-32-3-q21",
+"t": "text_grammar",
+"q": "【21】 = 買ってみました",
+"ans": "買ってみました",
+"note": "〜てみる = thử làm. Lần đầu uống trà khi đọc sách → 'mua thử'.",
+"tr": "Ở đó có loại trà xanh trông thư giãn nên tôi đã mua thử."
+},
+{
+"id": "dethitiengnhat:N3-32-3-q22",
+"t": "text_grammar",
+"q": "【22】 = が",
+"ans": "が",
+"note": "それ = việc gặp trà mới. それが楽しくて = chính điều đó vui, て nối lý do.",
+"tr": "Điều đó thật thú vị nên tôi hay đến 'Ryokuyō'."
+},
+{
+"id": "jt4y:49-1",
+"t": "grammar_form",
+"q": "二度とあの部屋に入らないと約束しろ _______ 言われたけど、僕は約束しなかった。",
+"ans": "って",
+"note": "〜って言われた = bị nói rằng (って = と trích dẫn, khẩu ngữ). Trước là mệnh lệnh 約束しろ.",
+"tr": "Tôi bị bảo 'hứa là không bao giờ vào phòng đó nữa đi', nhưng tôi đã không hứa."
+},
+{
+"id": "jt4y:49-2",
+"t": "grammar_form",
+"q": "私は何百回もこの手紙を読み返した。そして読み返す　_______ たまらなく哀しい気持になった。",
+"ans": "たびに",
+"note": "Vるたびに = mỗi lần làm V đều... Hợp với 何百回も (hàng trăm lần).",
+"tr": "Tôi đọc lại bức thư này hàng trăm lần. Và mỗi lần đọc lại là lòng lại buồn không chịu nổi."
+},
+{
+"id": "jt4y:49-4",
+"t": "grammar_form",
+"q": "ふたりはそれから３０年あまり、死がふたりを分かつまで幸せな結婚生活を送る　_______ 。",
+"ans": "ことになった",
+"note": "Vることになった = sự việc diễn ra như vậy (do số phận/hoàn cảnh), giọng kể chuyện. Không phải quyết định chủ động.",
+"tr": "Hai người sau đó đã có cuộc sống hôn nhân hạnh phúc hơn 30 năm, cho đến khi cái chết chia lìa họ."
+},
+{
+"id": "jt4y:49-5",
+"t": "grammar_form",
+"q": "彼女が蛇口をあけ、僕の傷ついた前腕を氷　_______ 冷たい水の下へ導いた。",
+"ans": "のように",
+"note": "Nのように＋adj = như N. Chú ý: Nのように nhưng Nみたいに (không の).",
+"tr": "Cô ấy mở vòi, đưa cánh tay bị thương của tôi xuống dưới dòng nước lạnh như băng."
+},
+{
+"id": "jt4y:49-6",
+"t": "grammar_form",
+"q": "まさかあのふたり　_______ なにかあったと言いたいんじゃないだろうな！",
+"ans": "の間に",
+"note": "AとBの間に何かある = giữa A và B có chuyện gì đó (quan hệ). なにかあった đi với に.",
+"tr": "Chẳng lẽ cậu muốn nói giữa hai người đó đã có chuyện gì à!"
+},
+{
+"id": "jt4y:49-7",
+"t": "grammar_form",
+"q": "鍵はお客様のお部屋のテーブルの上に　_______ 。",
+"ans": "ございます",
+"note": "Đồ vật tồn tại dùng ある → lịch sự là ございます. いる/おる/いらっしゃる chỉ dùng cho người.",
+"tr": "Chìa khóa ở trên bàn trong phòng của quý khách ạ."
+},
+{
+"id": "jt4y:49-8",
+"t": "grammar_form",
+"q": "あなた　_______ ちょっと内密で話したいことがあるのですが…",
+"ans": "だけに",
+"note": "人に話す → あなただけに話したい = chỉ nói với mỗi bạn. Trợ từ に theo động từ 話す.",
+"tr": "Tôi có chuyện kín muốn nói riêng với mỗi anh thôi..."
+},
+{
+"id": "jt4y:49-10",
+"t": "grammar_form",
+"q": "A社の商品が腰の痛みにどのくらい効果が　_______ 詳しく知りたい。",
+"ans": "あるのかについて",
+"note": "〜について知りたい = muốn biết về. Đã có どのくらい (bao nhiêu) nên không dùng かどうか (có hay không).",
+"tr": "Tôi muốn biết chi tiết về việc sản phẩm công ty A có hiệu quả đến mức nào với đau lưng."
+},
+{
+"id": "jt4y:51-1",
+"t": "grammar_form",
+"q": "あなたのお父さんもきっと彼を助けた _______ 。",
+"ans": "に違いない",
+"note": "〜に違いない = chắc chắn (suy đoán có căn cứ), đi với きっと.",
+"tr": "Bố anh chắc chắn cũng đã giúp anh ấy."
+},
+{
+"id": "jt4y:51-2",
+"t": "grammar_form",
+"q": "表紙 _______ 、この演目はシェイクスピアの「真夏の夜の夢」で、上演されたのは三十四年ほど前だ。",
+"ans": "によると",
+"note": "Nによると = theo N (nguồn tin). 表紙によると = theo bìa ghi.",
+"tr": "Theo trang bìa, vở này là 'Giấc mộng đêm hè' của Shakespeare, công diễn khoảng 34 năm trước."
+},
+{
+"id": "jt4y:51-3",
+"t": "grammar_form",
+"q": "きみは十八歳になる。これは大事なことだ。法律的に成人になる _______ から。",
+"ans": "わけだ",
+"note": "〜わけだから = vì (đương nhiên) là như vậy. わけだ giải thích lý do hợp lý cho 'quan trọng'.",
+"tr": "Cậu sắp 18 tuổi. Đó là chuyện quan trọng. Vì về mặt pháp luật cậu sẽ thành người lớn mà."
+},
+{
+"id": "jt4y:51-4",
+"t": "grammar_form",
+"q": "多くの賞金を得るために、彼は自分の妻 _______ 多くの同志を売りました。",
+"ans": "をはじめ",
+"note": "Nをはじめ = tiêu biểu là N, rồi còn nhiều cái khác. 妻をはじめ多くの同志.",
+"tr": "Để lấy nhiều tiền thưởng, hắn đã bán đứng nhiều đồng chí, bắt đầu từ chính vợ mình."
+},
+{
+"id": "jt4y:51-5",
+"t": "grammar_form",
+"q": "これに _______ 会社のイメージは著しく傷ついた。",
+"ans": "によって",
+"note": "Nによって = do N (nguyên nhân). Câu đề thừa một に (これにによって), bỏ qua lỗi đó.",
+"tr": "Do việc này mà hình ảnh công ty bị tổn hại nghiêm trọng."
+},
+{
+"id": "jt4y:51-6",
+"t": "grammar_form",
+"q": "鈴木はその場で目をつぶり、気を _______ のか、ゆっくりと大きく息をついた。",
+"ans": "静めようとしている",
+"note": "Vようとしている = đang cố làm (ngay lúc đó). のか = có lẽ là vậy (suy đoán của người kể).",
+"tr": "Suzuki nhắm mắt ngay tại chỗ, có lẽ đang cố trấn tĩnh, thở ra một hơi dài và chậm."
+},
+{
+"id": "jt4y:51-7",
+"t": "grammar_form",
+"q": "サユリ _______ 名前の学生は北島サユリひとりしかいなかった。",
+"ans": "という",
+"note": "AというB = B tên là A. サユリという名前の学生 = sinh viên có tên Sayuri.",
+"tr": "Sinh viên tên Sayuri chỉ có mỗi một người là Kitajima Sayuri."
+},
+{
+"id": "jt4y:51-8",
+"t": "grammar_form",
+"q": "彼女は自分の子供はこっそり家を抜け出すということは知らなかった _______ 。",
+"ans": "らしい",
+"note": "Vたらしい = hình như đã (suy đoán từ thông tin bên ngoài). Nối thẳng sau 知らなかった.",
+"tr": "Hình như bà ấy không biết chuyện con mình lén trốn khỏi nhà."
+},
+{
+"id": "jt4y:51-9",
+"t": "grammar_form",
+"q": "みんな、ビジネスマン _______ 話をしていた。私が聞いたこともない頭文字が並んだ略語とか、そんなものが聞こえたよ。",
+"ans": "っぽい",
+"note": "Nっぽい = có vẻ như N (cảm nhận chủ quan, hơi giống). Người nói không phải dân kinh doanh nên dùng っぽい.",
+"tr": "Mọi người nói chuyện kiểu dân kinh doanh. Nghe toàn chữ viết tắt tôi chưa từng nghe."
+},
+{
+"id": "jt4y:51-10",
+"t": "grammar_form",
+"q": "ハードウエアと同じようにソフトウエアも、専門家だけでなく一般 _______ にも販売すべきだと僕は考えた。",
+"ans": "向け",
+"note": "N向け = dành cho N (nhà sản xuất chủ ý nhắm tới). N向き = hợp với N một cách tự nhiên.",
+"tr": "Tôi nghĩ phần mềm cũng như phần cứng, không chỉ nên bán cho chuyên gia mà cả cho người dùng phổ thông."
+},
+{
+"id": "jt4y:53-1",
+"t": "grammar_form",
+"q": "いま、あれやこれや面倒なことを考えるのはよそう。明日 _______ わ。",
+"ans": "考えればいい",
+"note": "Vばいい = làm vậy là được/đủ. 明日考えればいい = để mai nghĩ là được.",
+"tr": "Giờ đừng nghĩ mấy chuyện phiền phức này nọ nữa. Mai nghĩ cũng được."
+},
+{
+"id": "jt4y:53-2",
+"t": "grammar_form",
+"q": "昨日はどこまで話した _______ ？",
+"ans": "っけ",
+"note": "Vたっけ = ... ấy nhỉ (hỏi lại điều mình đã quên). Hợp với 昨日.",
+"tr": "Hôm qua nói chuyện đến đâu rồi ấy nhỉ?"
+},
+{
+"id": "jt4y:53-3",
+"t": "grammar_form",
+"q": "健康体の男なら前線に出る _______ だろうと私も思いました。",
+"ans": "べき",
+"note": "Vるべきだ = nên/phải làm (nghĩa vụ, lẽ phải). 出るべきだろう.",
+"tr": "Tôi cũng nghĩ đàn ông khỏe mạnh thì nên ra tiền tuyến."
+},
+{
+"id": "jt4y:53-4",
+"t": "grammar_form",
+"q": "子供たちが学校から帰って _______ 、お菓子を隠してしまいましょう。",
+"ans": "こないうちに",
+"note": "Vないうちに = tranh thủ trước khi... xảy ra. 帰ってこないうちに = trước khi về tới.",
+"tr": "Giấu bánh kẹo đi trước khi bọn trẻ đi học về."
+},
+{
+"id": "jt4y:53-5",
+"t": "grammar_form",
+"q": "旧市街へ向かおう。答えがある _______ おそらくそこだ。",
+"ans": "としたら",
+"note": "〜としたら = giả sử nếu... thì. 答えがあるとしたら = nếu có câu trả lời.",
+"tr": "Đi về khu phố cổ thôi. Nếu có câu trả lời thì có lẽ là ở đó."
+},
+{
+"id": "jt4y:53-6",
+"t": "grammar_form",
+"q": "わたしの耳に、噴水 _______ 水音が聞こえてきた。",
+"ans": "のような",
+"note": "Sau chỗ trống là danh từ 水音 nên cần dạng bổ nghĩa danh từ: Nのような＋N.",
+"tr": "Tai tôi nghe thấy tiếng nước như tiếng đài phun nước."
+},
+{
+"id": "jt4y:53-7",
+"t": "grammar_form",
+"q": "それを _______ 、アミが信じられないと言いたげな顔でタクミのほうを向き、呆然と見つめた。",
+"ans": "聞いたとたん",
+"note": "Vたとたん(に) = ngay khi vừa... thì (phản ứng tức thì, bất ngờ). Khớp với phản ứng sững sờ.",
+"tr": "Vừa nghe thấy điều đó, Ami quay sang Takumi với vẻ mặt như muốn nói 'không thể tin được' và nhìn chằm chằm."
+},
+{
+"id": "jt4y:53-8",
+"t": "grammar_form",
+"q": "入る許可がないよ。誰かに見つかったら、それ _______ 大変よ。",
+"ans": "こそ",
+"note": "それこそ大変 = lúc đó mới thật sự là rắc rối. こそ nhấn mạnh 'chính cái đó'.",
+"tr": "Không có phép vào đâu. Nếu bị ai phát hiện thì đúng là to chuyện đấy."
+},
+{
+"id": "jt4y:53-9",
+"t": "grammar_form",
+"q": "明日嵐のコンサートに行く。パパの _______ いい席が手に入った。",
+"ans": "おかげで",
+"note": "Nのおかげで = nhờ N mà có kết quả tốt. せいで dùng cho kết quả xấu.",
+"tr": "Mai đi concert của Arashi. Nhờ bố mà có được chỗ ngồi đẹp."
+},
+{
+"id": "jt4y:53-10",
+"t": "grammar_form",
+"q": "彼は目を大きく見開いた _______ 、寝返りを打った。",
+"ans": "まま",
+"note": "Vたまま = giữ nguyên trạng thái đó mà làm việc khác. 目を見開いたまま.",
+"tr": "Anh ta cứ mở to mắt mà trở mình."
+},
+{
+"id": "jt4y:55-1",
+"t": "grammar_form",
+"q": "用心しろよ。誰かに見られたら、おれ _______ きみも縛り首になるぞ。",
+"ans": "ばかりか",
+"note": "AばかりかBも = không chỉ A mà cả B cũng. おればかりかきみも.",
+"tr": "Cẩn thận đấy. Nếu bị ai nhìn thấy thì không chỉ tao mà cả mày cũng bị treo cổ."
+},
+{
+"id": "jt4y:55-2",
+"t": "grammar_form",
+"q": "おれは _______ 、あいつに会えて嬉しいと思った。",
+"ans": "生まれて初めて",
+"note": "生まれて初めて = lần đầu tiên kể từ khi sinh ra. Cụm cố định với Vて＋初めて.",
+"tr": "Lần đầu tiên trong đời, tôi thấy vui vì được gặp hắn."
+},
+{
+"id": "jt4y:55-3",
+"t": "grammar_form",
+"q": "どんなにすばらしいごちそうだったか、とても口では言えない _______ ですよ。",
+"ans": "くらい",
+"note": "〜くらいだ = đến mức như vậy. Đáp án nguồn chọn くらい; ほど cũng gần nghĩa nhưng đề lấy くらい.",
+"tr": "Bữa ăn tuyệt vời thế nào ư, đến mức không thể nói hết bằng lời đâu."
+},
+{
+"id": "jt4y:55-4",
+"t": "grammar_form",
+"q": "わたしは地球外生命 _______ 本を書いています。",
+"ans": "に関する",
+"note": "Nに関するN = N về N. Sau chỗ trống là danh từ 本 nên dùng に関する.",
+"tr": "Tôi đang viết sách về sự sống ngoài Trái Đất."
+},
+{
+"id": "jt4y:55-5",
+"t": "grammar_form",
+"q": "それは奇妙な屋敷だった。 _______ 、とても屋敷には見えない。",
+"ans": "むしろ",
+"note": "むしろ = nói đúng hơn thì (sửa lại cách nói trước cho chính xác hơn).",
+"tr": "Đó là một dinh thự kỳ lạ. Đúng hơn là, trông chẳng giống dinh thự chút nào."
+},
+{
+"id": "jt4y:55-6",
+"t": "grammar_form",
+"q": "A社の製品は、機能的にはたいした _______ が、B製品ほど複雑で高価でもなかった。",
+"ans": "ことはない",
+"note": "たいしたことはない = không đáng kể, không có gì đặc biệt. Cụm cố định.",
+"tr": "Sản phẩm công ty A về chức năng không có gì ghê gớm, nhưng cũng không phức tạp và đắt như sản phẩm B."
+},
+{
+"id": "jt4y:55-7",
+"t": "grammar_form",
+"q": "われわれが母なる自然 _______ 犯した罪は桁違いに増えている。",
+"ans": "に対して",
+"note": "Nに対して犯した罪 = tội gây ra đối với N. に対して chỉ đối tượng hành động hướng tới.",
+"tr": "Tội lỗi chúng ta gây ra đối với Mẹ Thiên nhiên đang tăng vọt."
+},
+{
+"id": "jt4y:55-8",
+"t": "grammar_form",
+"q": "絵を描き、絵 _______ 暮らすことで、私は神聖なるときめきの形と色、音を体験するのです。",
+"ans": "と共に",
+"note": "Nと共に暮らす = sống cùng với N. とともに = cùng với.",
+"tr": "Vẽ tranh, sống cùng với tranh, tôi trải nghiệm hình dáng, màu sắc và âm thanh của những rung động thiêng liêng."
+},
+{
+"id": "jt4y:55-9",
+"t": "grammar_form",
+"q": "どうやら下での論争は終わった _______ ね。",
+"ans": "みたい",
+"note": "どうやら〜みたい = có vẻ như (suy đoán). みたい là な-adj nên nối thẳng với ね; よう phải có だ/な.",
+"tr": "Có vẻ như cuộc tranh cãi dưới nhà đã kết thúc rồi nhỉ."
+},
+{
+"id": "jt4y:55-10",
+"t": "grammar_form",
+"q": "「ちょっと待ってください」の _______ 「少々お待ちください」を使うとさらに丁寧な言い回しになります。",
+"ans": "かわりに",
+"note": "Nのかわりに = thay vì/thay cho N. Có の phía trước nên không dùng にかわって.",
+"tr": "Nếu dùng 'Shoushou omachi kudasai' thay cho 'Chotto matte kudasai' thì cách nói sẽ lịch sự hơn."
+},
+{
+"id": "jt4y:57-1",
+"t": "grammar_form",
+"q": "この町は無人島かと思う _______ 静かで、世の中との接点をもたず独立している。",
+"ans": "ほど",
+"note": "〜かと思うほど = đến mức tưởng là. ほど chỉ mức độ qua ví dụ.",
+"tr": "Thị trấn này yên tĩnh đến mức tưởng là đảo hoang, không tiếp xúc với thế giới mà đứng độc lập."
+},
+{
+"id": "jt4y:57-2",
+"t": "grammar_form",
+"q": "弱い者には、毅然と _______ やさしい態度で接するのですよ。",
+"ans": "しながらも",
+"note": "Vながらも = tuy... nhưng (hai điều trái ngược cùng tồn tại). 毅然としながらもやさしい.",
+"tr": "Với kẻ yếu, hãy đối xử kiên quyết nhưng vẫn dịu dàng."
+},
+{
+"id": "jt4y:57-3",
+"t": "grammar_form",
+"q": "医者は血 _______ のタオルを取り、私の手首をぎゅっとしばって血を止め傷口を消毒した。",
+"ans": "だらけ",
+"note": "Nだらけ = đầy N (bẩn, không mong muốn): 血だらけ、泥だらけ、間違いだらけ.",
+"tr": "Bác sĩ lấy chiếc khăn đầy máu, buộc chặt cổ tay tôi để cầm máu rồi sát trùng vết thương."
+},
+{
+"id": "jt4y:57-4",
+"t": "grammar_form",
+"q": "僕は彼女と二人 _______ で歩くのも初めてだし、こんなに長く話をするのも初めてだった。",
+"ans": "きり",
+"note": "二人きり = chỉ có hai người với nhau. Nきり = chỉ, không có gì khác.",
+"tr": "Lần đầu tôi đi riêng chỉ hai người với cô ấy, cũng là lần đầu nói chuyện lâu đến thế."
+},
+{
+"id": "jt4y:57-5",
+"t": "grammar_form",
+"q": "彼女はひと口も _______ ダイニングルームを後にし、裏のポーチへ出ていった。",
+"ans": "食べずに",
+"note": "Vずに = Vないで (không làm V mà làm việc khác), văn viết. ないで cũng đúng nghĩa; đề ưu tiên ずに theo văn phong.",
+"tr": "Cô ấy không ăn một miếng nào, rời phòng ăn và ra hiên sau."
+},
+{
+"id": "jt4y:57-6",
+"t": "grammar_form",
+"q": "知って _______ 、われわれにはわれわれの手立てがある。",
+"ans": "のとおり",
+"note": "知ってのとおり = như (anh) đã biết. Cụm cố định: ご存じのとおり、ご覧のとおり.",
+"tr": "Như các anh đã biết, chúng ta có cách của chúng ta."
+},
+{
+"id": "jt4y:57-7",
+"t": "grammar_form",
+"q": "「ママが新しいおもちゃを買ってあげるよ」と彼女は息子を元気づける _______ 言った。",
+"ans": "つもりで",
+"note": "Vるつもりで = với ý định/mục đích. 元気づけるつもりで言った.",
+"tr": "'Mẹ sẽ mua đồ chơi mới cho con', cô ấy nói với ý định động viên con trai."
+},
+{
+"id": "jt4y:57-8",
+"t": "grammar_form",
+"q": "彼女は双子の息子たちの区別がつく _______ 。",
+"ans": "ようになった",
+"note": "Vるようになった = trở nên có thể/làm được (thay đổi năng lực). 区別がつく = phân biệt được.",
+"tr": "Cô ấy đã phân biệt được hai cậu con trai sinh đôi."
+},
+{
+"id": "jt4y:57-9",
+"t": "grammar_form",
+"q": "彼はよろこび _______ おそろしい叫びをもらした。",
+"ans": "のあまり",
+"note": "Nのあまり = vì quá N nên (hành động bất thường). よろこびのあまり.",
+"tr": "Anh ta vì quá vui sướng mà thốt ra một tiếng hét khủng khiếp."
+},
+{
+"id": "jt4y:57-10",
+"t": "grammar_form",
+"q": "「これを食べてもいいですか」女の子がためらい _______ 聞いた。",
+"ans": "がちに",
+"note": "ためらいがちに = một cách ngập ngừng (gần như không dám). Nがち = có xu hướng.",
+"tr": "'Em ăn cái này được không?' cô bé hỏi với vẻ ngập ngừng."
+},
+{
+"id": "jt4y:59-1",
+"t": "grammar_form",
+"q": "彼はよく飲んでいて、酔うと彼女を殴る _______ 。",
+"ans": "ことがあった",
+"note": "Vる＋ことがある = 'có khi…, thỉnh thoảng…'. Dạng quá khứ ことがあった dùng khi kể chuyện trước đây.",
+"tr": "Anh ta hay uống rượu, và khi say thì có lúc đánh cả cô ấy."
+},
+{
+"id": "jt4y:59-2",
+"t": "grammar_form",
+"q": "これは意見 _______ むしろ質問であり、その証拠に、彼は私の目を見つめながら答えを待っていた。",
+"ans": "というより",
+"note": "A というより (むしろ) B = 'hơn là A, đúng ra phải nói là B'. Cặp というより…むしろ rất hay đi cùng nhau.",
+"tr": "Đây là một câu hỏi hơn là một ý kiến; bằng chứng là anh ta vừa nhìn vào mắt tôi vừa chờ câu trả lời."
+},
+{
+"id": "jt4y:59-3",
+"t": "grammar_form",
+"q": "あなた _______ マフラーを編みたいのに私には毛糸がない。",
+"ans": "のために",
+"note": "N＋のために = 'vì/cho N'. せいで, おかげで chỉ nguyên nhân, không chỉ người được nhận.",
+"tr": "Tôi muốn đan khăn quàng cho bạn, vậy mà tôi lại không có len."
+},
+{
+"id": "jt4y:59-4",
+"t": "grammar_form",
+"q": "一体なぜなのか、最高の専門家で _______ 説明のしようがないのだ。",
+"ans": "さえ",
+"note": "N＋でさえ = 'ngay cả N (mà còn…)'. Đề đã có で nên chỉ さえ ghép được; でも phải đứng thẳng sau danh từ.",
+"tr": "Rốt cuộc tại sao lại thế, ngay cả chuyên gia giỏi nhất cũng không có cách nào giải thích."
+},
+{
+"id": "jt4y:59-5",
+"t": "grammar_form",
+"q": "その質問にはどう _______ かわかりません。",
+"ans": "答えたらいい",
+"note": "どう/何を … Vたらいい(か) = 'nên… thế nào'. Cùng nghĩa với Vばいい.",
+"tr": "Tôi không biết nên trả lời câu hỏi đó thế nào."
+},
+{
+"id": "jt4y:59-6",
+"t": "sentence_order",
+"q": "彼は低い声で　_______　　_______　…★… _______　話しかけた。",
+"ans": "変な男に",
+"note": "Câu đúng: 彼は低い声で遠慮がちに変な男に向かって話しかけた。★ = 変な男に. 遠慮がちに = 'một cách dè dặt'; N に向かって = 'hướng về N'.",
+"tr": "Anh ta hạ giọng, dè dặt bắt chuyện với gã đàn ông kỳ lạ."
+},
+{
+"id": "jt4y:59-7",
+"t": "sentence_order",
+"q": "私は恥ずかしがり屋だから、　_______　　_______　…★… _______　できないよ。",
+"ans": "になる",
+"note": "Câu đúng: 私は恥ずかしがり屋だから、あなたのように会社のトップになるなんてできないよ。★ = になる. Vる＋なんて = 'chuyện như… (thì)', ý hạ thấp/khó tin.",
+"tr": "Tôi nhút nhát nên không thể trở thành người đứng đầu công ty như bạn được đâu."
+},
+{
+"id": "jt4y:59-8",
+"t": "sentence_order",
+"q": "日本語は　_______　　_______　…★… _______　が出ます。",
+"ans": "ほど",
+"note": "Câu đúng: 日本語は難しければ難しいほどやる気が出ます。★ = ほど. Mẫu Aければ Aいほど = 'càng… càng…'.",
+"tr": "Tiếng Nhật càng khó tôi càng có động lực."
+},
+{
+"id": "jt4y:59-9",
+"t": "sentence_order",
+"q": "天然資源は減っているのに、需要は急増している。　_______　　_______　…★… _______　。",
+"ans": "になる",
+"note": "Câu đúng: 清浄な水の入手は困難になる一方だ。★ = になる. Vる＋一方だ = 'ngày càng… (chỉ theo một hướng)'.",
+"tr": "Tài nguyên thiên nhiên đang giảm mà nhu cầu lại tăng vọt. Việc có được nước sạch ngày càng khó khăn."
+},
+{
+"id": "jt4y:59-10",
+"t": "sentence_order",
+"q": "_______　　_______　…★… _______　、近くの視界がずっとぼやけている。",
+"ans": "ほどに",
+"note": "Câu đúng: 頭痛は耐えがたいほどになっていて、近くの視界がずっとぼやけている。★ = ほどに. Vます＋がたい = 'khó mà…'; 〜ほどになる = 'đến mức…'.",
+"tr": "Cơn đau đầu đã trở nên khó chịu đựng nổi, tầm nhìn gần cứ mờ đi mãi."
+},
+{
+"id": "jt4y:61-1",
+"t": "grammar_form",
+"q": "気づかない _______ ご近所の方々に不快な思いをさせる行動をとりました。",
+"ans": "うちに",
+"note": "Vない＋うちに = 'trong khi chưa… / lúc nào không hay'. 気づかないうちに, 知らないうちに là cụm rất hay gặp.",
+"tr": "Trong lúc không nhận ra, tôi đã có hành động khiến bà con hàng xóm khó chịu."
+},
+{
+"id": "jt4y:61-2",
+"t": "grammar_form",
+"q": "ヘリコプターはごうおん _______ 地面に衝突した。",
+"ans": "と共に",
+"note": "N＋と共に = 'cùng với N / đồng thời với N'. ごうおん (轟音) = tiếng ầm vang.",
+"tr": "Chiếc trực thăng đâm xuống đất cùng với một tiếng nổ lớn."
+},
+{
+"id": "jt4y:61-3",
+"t": "grammar_form",
+"q": "彼女が、テーブルの下で弟の足をけろうとしたが、 _______ 僕をけってしまった。",
+"ans": "代わりに",
+"note": "代わりに đứng đầu vế = 'thay vào đó'. Vế trước định làm A, vế sau xảy ra B thay thế.",
+"tr": "Cô ấy định đá chân em trai dưới gầm bàn nhưng lại đá nhầm vào tôi."
+},
+{
+"id": "jt4y:61-4",
+"t": "grammar_form",
+"q": "でも、あの人のことは？ああ、どれほどあの人を探した _______ 。眠れぬ長い夜毎に、なん度あの人の名を呼んだ _______ 。",
+"ans": "ことか/ことか",
+"note": "どれほど / なん度 / どんなに … ことか = cảm thán 'biết bao nhiêu'. Thấy từ hỏi mức độ ở đầu thì nghĩ ngay đến ことか.",
+"tr": "Nhưng còn người ấy thì sao? Ôi, tôi đã tìm người ấy biết bao nhiêu. Mỗi đêm dài không ngủ, tôi đã gọi tên người ấy biết bao lần."
+},
+{
+"id": "jt4y:61-5",
+"t": "grammar_form",
+"q": "やりたくない _______ だろう。頭がおかしくなるくらいやりたいよ。",
+"ans": "わけがない",
+"note": "やりたくないわけがない = phủ định của phủ định → rất muốn làm. Câu sau 'muốn đến phát điên' xác nhận ý đó.",
+"tr": "Làm gì có chuyện tôi không muốn làm. Tôi muốn làm đến phát điên đây này."
+},
+{
+"id": "jt4y:61-6",
+"t": "grammar_form",
+"q": "僕 _______ は、偉大な彫刻の持つ真の力をはじめて教えてくれたのが「ダヴィッド像」だった。",
+"ans": "にとって",
+"note": "人＋にとって(は) = 'đối với ai đó' khi đưa ra đánh giá, cảm nhận. において chỉ nơi chốn, lĩnh vực.",
+"tr": "Đối với tôi, thứ đầu tiên dạy cho tôi sức mạnh thật sự của điêu khắc vĩ đại chính là tượng David."
+},
+{
+"id": "jt4y:61-7",
+"t": "grammar_form",
+"q": "学生の数が減った _______ 、食堂の灯はいつもの半分しかついていなかった。",
+"ans": "せいで",
+"note": "Vた＋せいで = nguyên nhân dẫn đến kết quả không mong muốn. Đối lập với おかげで (kết quả tốt).",
+"tr": "Vì số sinh viên giảm nên đèn trong nhà ăn chỉ bật có một nửa so với mọi khi."
+},
+{
+"id": "jt4y:61-8",
+"t": "grammar_form",
+"q": "彼はいつものように、気に入らない情報は知らない _______ 。",
+"ans": "ふりをした",
+"note": "Vる / Vない / N の＋ふりをする = 'giả vờ…'. Chỉ đi với する, không có なる.",
+"tr": "Như mọi khi, anh ta giả vờ không biết những thông tin mình không thích."
+},
+{
+"id": "jt4y:61-9",
+"t": "grammar_form",
+"q": "お金持ちになれば幸せ _______ とは限らない。",
+"ans": "になれる",
+"note": "〜とは限らない = 'không hẳn là…'. Ý câu: giàu chưa chắc đã CÓ THỂ hạnh phúc, nên dùng dạng khả năng なれる.",
+"tr": "Không hẳn cứ giàu là có thể hạnh phúc."
+},
+{
+"id": "jt4y:61-10",
+"t": "grammar_form",
+"q": "近頃のイタリアでは、たとえつまらない仕事 _______ 、職を見つけるのは容易ではない。",
+"ans": "でも",
+"note": "たとえ N でも = 'cho dù là N'. であっても cũng chấp nhận được về ngữ pháp, nhưng đề lấy dạng cơ bản でも.",
+"tr": "Ở Ý dạo này, cho dù là công việc chán ngắt đi nữa, tìm được việc cũng không dễ."
+},
+{
+"id": "jt4y:63-1",
+"t": "grammar_form",
+"q": "高木は車の後ろから首を伸ばし、渋滞の原因を _______ 。",
+"ans": "見きわめようとした",
+"note": "Vよう＋とする = 'định / cố gắng làm' ngay lúc đó. Vる＋ようにする = cố duy trì thói quen. 見きわめる = nhìn thấu, xác định rõ.",
+"tr": "Takagi vươn cổ từ phía sau xe, cố nhìn cho rõ nguyên nhân tắc đường."
+},
+{
+"id": "jt4y:63-2",
+"t": "grammar_form",
+"q": "鍵をかけておけ。誰も出入りさせない _______ 。わかったな。",
+"ans": "ように",
+"note": "Vない＋ように。 cuối câu = lời dặn, mệnh lệnh gián tiếp 'hãy đừng…'. Hợp ngữ cảnh ra lệnh (かけておけ, わかったな).",
+"tr": "Khóa cửa lại đi. Đừng cho ai ra vào. Rõ chưa."
+},
+{
+"id": "jt4y:63-3",
+"t": "grammar_form",
+"q": "彼が何かを漏らしたとしても、そうする _______ やったんじゃないと思う。",
+"ans": "つもりで",
+"note": "Vる＋つもりで = 'với ý định…'. 〜つもりでやったんじゃない = không cố ý. としても = cho dù.",
+"tr": "Cho dù anh ấy có để lộ điều gì đó, tôi nghĩ anh ấy cũng không cố ý làm vậy."
+},
+{
+"id": "jt4y:63-4",
+"t": "grammar_form",
+"q": "まずはその大きな道路から離れる _______ 。",
+"ans": "ことだ",
+"note": "Vる＋ことだ = lời khuyên trực tiếp cho người nghe 'nên…'. ものだ nói lẽ thường chung chung, không khuyên tình huống cụ thể.",
+"tr": "Trước hết là nên rời khỏi con đường lớn đó đã."
+},
+{
+"id": "jt4y:63-5",
+"t": "grammar_form",
+"q": "生命を脅かされる状況 _______ 銃の使用が許されることになってる。",
+"ans": "においては",
+"note": "N において = 'tại / trong N' (nơi chốn, thời điểm, tình huống), văn viết. ことになっている = quy định là.",
+"tr": "Trong tình huống bị đe dọa đến tính mạng thì được phép dùng súng."
+},
+{
+"id": "jt4y:63-6",
+"t": "grammar_form",
+"q": "図像学の研究者 _______ 、人間の意識に一瞬で恐怖を与えうるイメージがほんのわずかしかないのを私は知っている。",
+"ans": "として",
+"note": "N として = 'với tư cách N'. Chủ ngữ 私 làm việc gì đó (知っている) trong vai trò đó → として, không phải にとって.",
+"tr": "Với tư cách là một nhà nghiên cứu hình tượng học, tôi biết rằng chỉ có rất ít hình ảnh có thể gieo nỗi sợ tức thì vào ý thức con người."
+},
+{
+"id": "jt4y:63-7",
+"t": "grammar_form",
+"q": "食堂には先生の姿はなかった。授業中でない _______ 、たぶん職員室だろう。",
+"ans": "としたら",
+"note": "〜としたら = 'giả sử… thì', vế sau là suy đoán (たぶん〜だろう).",
+"tr": "Trong nhà ăn không thấy thầy. Nếu không phải đang trong giờ dạy thì chắc là ở phòng giáo viên."
+},
+{
+"id": "jt4y:63-8",
+"t": "grammar_form",
+"q": "昨日赤ちゃんが眠っている _______ わたしたちが家を掃除した。",
+"ans": "あいだに",
+"note": "あいだに: việc xảy ra/hoàn thành trong khoảng thời gian (掃除した). あいだは: việc kéo dài suốt khoảng đó (ずっと〜ていた).",
+"tr": "Hôm qua, trong lúc em bé ngủ, chúng tôi đã dọn nhà."
+},
+{
+"id": "jt4y:63-9",
+"t": "grammar_form",
+"q": "私が手にしたその物体は、大きさ _______ 驚くほど重く感じられた。",
+"ans": "のわりに",
+"note": "N の＋わりに = 'so với N thì… (trái mong đợi)'. くせに cũng trái mong đợi nhưng mang ý trách móc người.",
+"tr": "Vật mà tôi cầm trên tay nặng đến bất ngờ so với kích thước của nó."
+},
+{
+"id": "jt4y:63-10",
+"t": "grammar_form",
+"q": "この戦争 _______ 、ともあれすべては落ち着くところに落ち着くだろう。",
+"ans": "さえ終われば",
+"note": "N さえ Vば = 'chỉ cần N… là đủ'. Cố định với dạng ば, không dùng たら.",
+"tr": "Chỉ cần cuộc chiến này kết thúc thì dù sao mọi thứ cũng sẽ đâu vào đấy."
+},
+{
+"id": "jt4y:577-1",
+"t": "grammar_form",
+"q": "僕は大学が嫌だった　_______　。ただ、学費を払って面白くもない講義を受けるのが嫌だったのだ。",
+"ans": "わけではない",
+"note": "〜わけではない = không hẳn là (phủ định một phần). Câu sau ただ〜 giải thích lại điều thực sự ghét.",
+"tr": "Không hẳn là tôi ghét đại học. Chỉ là tôi ghét việc trả học phí để nghe những bài giảng chẳng thú vị."
+},
+{
+"id": "jt4y:577-2",
+"t": "grammar_form",
+"q": "私はあなたの特質がうらやましいよ。あなたは現実に直面することをいとわず、私のようにそこから　_______　。",
+"ans": "逃げようとしない",
+"note": "Vようとしない = không chịu/không có ý định làm. 私のように = như tôi (người hay trốn tránh).",
+"tr": "Tôi ghen tị với tính cách của anh. Anh không ngại đối mặt hiện thực, không trốn tránh nó như tôi."
+},
+{
+"id": "jt4y:577-3",
+"t": "grammar_form",
+"q": "資源をめぐる争いで、両国の関係はますます悪化する_______　。",
+"ans": "ばかりだ",
+"note": "Vるばかりだ = chỉ có ngày càng... (biến đổi theo hướng xấu). ますます là dấu hiệu.",
+"tr": "Vì tranh chấp tài nguyên, quan hệ hai nước ngày càng xấu đi."
+},
+{
+"id": "jt4y:577-4",
+"t": "grammar_form",
+"q": "１６日夜から１７日未明　_______　関東地域の広い範囲で雪が降った。",
+"ans": "にかけて",
+"note": "AからBにかけて = trong khoảng từ A đến B. Có から phía trước.",
+"tr": "Từ đêm 16 đến rạng sáng 17, tuyết rơi trên diện rộng ở vùng Kanto."
+},
+{
+"id": "jt4y:577-5",
+"t": "grammar_form",
+"q": "あのときは、違う対応が　_______　なと思う。あのころは自分が父親になるというのが想像できなくて、きちんと向き合うことができなかったんだ。",
+"ans": "できればよかった",
+"note": "Vばよかった = giá mà đã... (hối tiếc). できればよかった là dạng chuẩn nhất; たらよかった cũng gặp trong khẩu ngữ.",
+"tr": "Tôi nghĩ giá mà hồi đó tôi đã ứng xử khác đi. Hồi ấy tôi không tưởng tượng được mình sẽ làm bố nên đã không đối diện cho tử tế."
+},
+{
+"id": "jt4y:577-6",
+"t": "grammar_form",
+"q": "実家がパン屋だったので、わたしは休みの日も親に店の掃除などを　_______　ことが多く、友達とほとんど遊べなかった。",
+"ans": "手伝わされる",
+"note": "親に〜させられる = bị bố mẹ bắt làm (使役受身). 手伝わせられる rút gọn thành 手伝わされる.",
+"tr": "Nhà làm tiệm bánh nên ngày nghỉ tôi cũng hay bị bố mẹ bắt phụ dọn dẹp cửa hàng, hầu như không chơi được với bạn."
+},
+{
+"id": "jt4y:577-7",
+"t": "grammar_form",
+"q": "さあ、早く。フェンスを飛び越えられない　_______　老け込んではいないでしょう？",
+"ans": "ほど",
+"note": "〜ほど〜ない = không đến mức... Phủ định mức độ thì dùng ほど tự nhiên hơn くらい.",
+"tr": "Nào, nhanh lên. Anh chưa già đến mức không nhảy qua được hàng rào chứ?"
+},
+{
+"id": "jt4y:577-8",
+"t": "grammar_form",
+"q": "ありがたい　_______　東京の町は広く、どれだけ歩いても歩き尽くすということはなかった。",
+"ans": "ことに",
+"note": "A-adj＋ことに = ... thay (cảm xúc người nói đặt đầu câu): ありがたいことに、驚いたことに.",
+"tr": "May mắn thay, Tokyo rộng lớn, đi bộ bao nhiêu cũng không hết."
+},
+{
+"id": "jt4y:577-9",
+"t": "grammar_form",
+"q": "彼が大学　_______　高校さえも卒業していない。",
+"ans": "どころか",
+"note": "AどころかB = A thì khỏi nói, ngay cả B cũng (không). Có さえ〜ない ở sau là dấu hiệu.",
+"tr": "Anh ta đại học thì chưa nói, đến cấp ba cũng chưa tốt nghiệp."
+},
+{
+"id": "jt4y:577-10",
+"t": "grammar_form",
+"q": "父親にこんな口のきき方を　_______　よ。不敬というものだ。",
+"ans": "すべきではない",
+"note": "する＋べき có hai dạng: するべき và すべき. Đề chọn すべき (trang trọng); するべき cũng không sai về nguyên tắc.",
+"tr": "Không nên ăn nói với cha như thế. Đó là bất kính."
+},
+{
+"id": "jt4y:579-1",
+"t": "grammar_form",
+"q": "どんな犠牲を払おうと、彼との約束を破る　_______　。",
+"ans": "わけにはいかない",
+"note": "Vるわけにはいかない = không thể làm vì lý do đạo đức/trách nhiệm. どんな犠牲を払おうと = dù hy sinh gì.",
+"tr": "Dù phải trả giá thế nào, tôi cũng không thể phá vỡ lời hứa với anh ấy."
+},
+{
+"id": "jt4y:579-2",
+"t": "grammar_form",
+"q": "山田さんは鉄道が大好きで、列車の写真を撮る　_______　、どこへでも行く。",
+"ans": "ためなら",
+"note": "Nのためなら = nếu là vì N thì (sẵn sàng). Vるためなら〜どこへでも.",
+"tr": "Yamada mê tàu hỏa, nếu là để chụp ảnh tàu thì đi đâu cũng đi."
+},
+{
+"id": "jt4y:579-3",
+"t": "grammar_form",
+"q": "ふたりの関係はいつも大嵐のようでした。ふたりの性格が性格ですから、　_______　ほど多くのけんかをしたのです。",
+"ans": "数え切れない",
+"note": "Vます＋切れない = không thể làm hết. 数え切れないほど = nhiều không đếm xuể.",
+"tr": "Quan hệ hai người lúc nào cũng như bão tố. Tính cách họ như vậy nên cãi nhau nhiều không đếm xuể."
+},
+{
+"id": "jt4y:579-4",
+"t": "grammar_form",
+"q": "彼女と結婚する気はなかったし、結婚しても幸せになれず、すぐに分かれた　_______　。",
+"ans": "はずだ",
+"note": "〜はずだ = chắc chắn là vậy theo suy luận logic từ các lý do nêu trước.",
+"tr": "Anh ta không có ý định cưới cô ấy, mà có cưới cũng chẳng hạnh phúc, chắc hẳn đã chia tay ngay."
+},
+{
+"id": "jt4y:579-5",
+"t": "grammar_form",
+"q": "犯人たち　_______　、一人じゃないのですね？",
+"ans": "というのは",
+"note": "Nというのは = cái gọi là N, nêu lại để hỏi/giải thích. Hỏi về từ 犯人たち (số nhiều).",
+"tr": "'Những kẻ thủ phạm' tức là không phải một người đúng không?"
+},
+{
+"id": "jt4y:579-6",
+"t": "grammar_form",
+"q": "最近仕事が忙しく、食事の時間が不規則になり　_______　だ。",
+"ans": "がち",
+"note": "Vます＋がちだ = thường hay (xu hướng xấu). なりがち = hay trở nên.",
+"tr": "Dạo này công việc bận, giờ ăn hay bị thất thường."
+},
+{
+"id": "jt4y:579-7",
+"t": "grammar_form",
+"q": "君、そんな妙な目つきで僕を見ないでほしい　_______　ね。",
+"ans": "ものだ",
+"note": "〜てほしいものだ = thật mong rằng (nhấn mạnh mong muốn). ものだ sau ほしい.",
+"tr": "Này cậu, tôi mong cậu đừng nhìn tôi bằng ánh mắt kỳ quặc thế."
+},
+{
+"id": "jt4y:579-8",
+"t": "grammar_form",
+"q": "人には長所_______　あれば、短所_______　ある。",
+"ans": "も/も",
+"note": "AもVばBも = có A thì cũng có B (liệt kê song song). 長所もあれば短所もある.",
+"tr": "Con người có ưu điểm thì cũng có khuyết điểm."
+},
+{
+"id": "jt4y:579-9",
+"t": "grammar_form",
+"q": "私が部屋に入ったとき彼は水を飲んでいた。その顔の蒼さが、水を　_______　ことを示していた。",
+"ans": "飲まずにはいられなかった",
+"note": "Vずにはいられない = không thể kìm được, buộc phải làm. Dạng quá khứ いられなかった.",
+"tr": "Khi tôi vào phòng, anh ta đang uống nước. Mặt anh ta tái nhợt cho thấy anh ta không thể không uống nước."
+},
+{
+"id": "jt4y:579-10",
+"t": "grammar_form",
+"q": "中村はホテルの部屋に閉じこもり、プロトタイプをいじって　_______　いた。",
+"ans": "ばかり",
+"note": "Vてばかりいる = chỉ toàn làm mỗi việc đó (hơi chê). いじってばかりいた.",
+"tr": "Nakamura nhốt mình trong phòng khách sạn, chỉ toàn ngồi mày mò mẫu thử."
+},
+{
+"id": "jt4y:581-1",
+"t": "sentence_order",
+"q": "子供のころに祖母が作ってくれたワンピースを、_______　_______　…★… _______　いる。",
+"ans": "今でも",
+"note": "Câu đúng: 体が大きくなって着られなくなった今でも大切に持っている。★ = 今でも. Mệnh đề bổ nghĩa cho 今; 今でも = ngay cả bây giờ.",
+"tr": "Chiếc váy bà may cho hồi nhỏ, đến giờ khi đã lớn không mặc vừa nữa tôi vẫn giữ gìn cẩn thận."
+},
+{
+"id": "jt4y:581-2",
+"t": "sentence_order",
+"q": "庭の芝生中に、　_______　_______　…★… _______　兵士や、痛手を負って動けなくなった兵士が、倒れ伏していた。",
+"ans": "歩くことも",
+"note": "Câu đúng: 疲れきってそれ以上歩くこともできない兵士や。★ = 歩くことも. Vます＋きる = hoàn toàn; Vることもできない = ngay cả V cũng không thể.",
+"tr": "Trên bãi cỏ trong vườn, những người lính kiệt sức không thể đi thêm được nữa và những người lính bị thương nặng không cử động được nằm gục."
+},
+{
+"id": "jt4y:581-3",
+"t": "sentence_order",
+"q": "友達がけがで入院したと聞き、あわてて　_______　_______　…★… _______　元気で安心した。",
+"ans": "思って",
+"note": "Câu đúng: あわてて病院に行ってみると思っていたよりも元気で安心した。★ = 思って. Vてみると = thử làm thì thấy; 思っていたより = hơn mình tưởng.",
+"tr": "Nghe tin bạn bị thương nhập viện, tôi vội đến bệnh viện thì thấy bạn khỏe hơn mình tưởng nên yên tâm."
+},
+{
+"id": "jt4y:581-4",
+"t": "sentence_order",
+"q": "食糧と衣類　_______　_______　…★… _______　価格はつりあがった。",
+"ans": "すれば",
+"note": "Câu đúng: 食糧と衣類が不足すればするほど価格はつりあがった。★ = すれば. VばVるほど = càng... càng.",
+"tr": "Lương thực và quần áo càng thiếu thì giá càng bị đẩy lên."
+},
+{
+"id": "jt4y:581-5",
+"t": "sentence_order",
+"q": "あいつは知りすぎるくらい知っていやがる。　_______　_______　…★… _______　。",
+"ans": "ことはない",
+"note": "Câu đúng: 何もかも知らないことはないらしい。★ = ことはない. 知らないことはない = không có gì không biết (phủ định kép).",
+"tr": "Thằng đó biết nhiều quá mức cần thiết. Có vẻ không có chuyện gì nó không biết."
+},
+{
+"id": "jt4y:581-6",
+"t": "sentence_order",
+"q": "私はこの付近の大きい家を全部とうさして、　_______　_______　…★… _______　来歴を調べた。",
+"ans": "住んでいる",
+"note": "Câu đúng: ついでにそこに住んでいる家族の来歴を調べた。★ = 住んでいる. ついでに = nhân tiện; mệnh đề そこに住んでいる bổ nghĩa 家族.",
+"tr": "Tôi điều tra toàn bộ các ngôi nhà lớn quanh đây, nhân tiện tra cả lai lịch các gia đình sống ở đó."
+},
+{
+"id": "jt4y:581-7",
+"t": "sentence_order",
+"q": "樫の木も相当の老樹だが、それでもこの屋敷の　_______　_______　…★… _______　。",
+"ans": "まだ若い",
+"note": "Câu đúng: この屋敷の年代にくらべたらまだ若いといえる。★ = まだ若い. Nにくらべたら = nếu so với N; 〜といえる = có thể nói là.",
+"tr": "Cây sồi cũng là cổ thụ khá già, nhưng so với tuổi của dinh thự này thì vẫn có thể nói là còn trẻ."
+},
+{
+"id": "jt4y:581-8",
+"t": "sentence_order",
+"q": "_______　_______　…★… _______　窓の外の光はいかにも秋らしいやわらかな物静かな色に変化していった。",
+"ans": "に",
+"note": "Câu đúng: 午後が深まるにつれて窓の外の光は〜変化していった。★ = に. Vるにつれて = cùng với/càng... càng.",
+"tr": "Buổi chiều càng muộn, ánh sáng ngoài cửa sổ càng chuyển sang màu dịu nhẹ, tĩnh lặng đúng chất mùa thu."
+},
+{
+"id": "jt4y:581-9",
+"t": "sentence_order",
+"q": "仕事から帰って、娘に笑顔で_______　_______　…★… _______　幸せだといつも思う。",
+"ans": "娘がいる",
+"note": "Câu đúng: 娘に笑顔で「おかえり」と言われるとこんなかわいい娘がいるわたしは本当に幸せだといつも思う。★ = 娘がいる. Mệnh đề こんなかわいい娘がいる bổ nghĩa わたし.",
+"tr": "Đi làm về được con gái cười chào 'Bố về rồi ạ', tôi luôn nghĩ mình thật hạnh phúc vì có đứa con đáng yêu thế này."
+},
+{
+"id": "jt4y:581-10",
+"t": "sentence_order",
+"q": "今の子供達　_______　_______　…★… _______　とアメリカの学者が主張している。",
+"ans": "時間の",
+"note": "Câu đúng: 今の子供達にとって暗記は時間の無駄だとアメリカの学者が主張している。★ = 時間の. Nにとって = đối với N.",
+"tr": "Một học giả Mỹ cho rằng với trẻ em ngày nay, học thuộc lòng là lãng phí thời gian."
+},
+{
+"id": "jt4y:583-1",
+"t": "grammar_form",
+"q": "A 「私はどうすればいいんですか、具体的に？」 / B 「まず第一は相手を助けたいと思う　_______　。第二に正直になる　_______　。」",
+"ans": "こと/こと",
+"note": "Vること。= liệt kê điều cần làm/quy tắc (kết câu bằng こと). Mẫu hay gặp trong hướng dẫn, chỉ thị.",
+"tr": "A: Cụ thể tôi phải làm gì? B: Thứ nhất là muốn giúp đối phương. Thứ hai là thành thật."
+},
+{
+"id": "jt4y:583-2",
+"t": "grammar_form",
+"q": "この上はじっと辛抱して、どんなことになるか待つ　_______　のだよ。",
+"ans": "しかない",
+"note": "Vるしかない = chỉ còn cách làm V, không còn lựa chọn khác.",
+"tr": "Đến nước này thì chỉ còn cách kiên nhẫn chờ xem chuyện sẽ ra sao thôi."
+},
+{
+"id": "jt4y:583-3",
+"t": "grammar_form",
+"q": "彼を逮捕　_______　、容疑者として留置するつもりです。",
+"ans": "し次第",
+"note": "Vます＋次第 = ngay sau khi (trang trọng). 逮捕する → 逮捕し次第.",
+"tr": "Ngay khi bắt được anh ta, chúng tôi định giam giữ với tư cách nghi phạm."
+},
+{
+"id": "jt4y:583-4",
+"t": "grammar_form",
+"q": "合格できる_______　、一生懸命勉強しようと思っています。",
+"ans": "ように",
+"note": "Vられる/Vない＋ように = để (mục đích với động từ khả năng). 合格できるように.",
+"tr": "Để có thể đỗ, tôi định học hết sức."
+},
+{
+"id": "jt4y:583-5",
+"t": "grammar_form",
+"q": "私は　_______　の戸口へ二歩で飛んでいった。",
+"ans": "開けっぱなし",
+"note": "Vます＋っぱなし = để nguyên trạng thái (bỏ mặc). 開けっぱなし = mở mà không đóng.",
+"tr": "Tôi lao hai bước tới cánh cửa đang mở toang."
+},
+{
+"id": "jt4y:583-6",
+"t": "grammar_form",
+"q": "家を建てる　_______　、とてもおかしな場所を選んだように思えた。",
+"ans": "にしては",
+"note": "〜にしては = so với tiêu chuẩn đó thì (không phù hợp, bất ngờ). 家を建てるにしては.",
+"tr": "Để xây nhà thì có vẻ như họ đã chọn một địa điểm rất kỳ lạ."
+},
+{
+"id": "jt4y:583-7",
+"t": "grammar_form",
+"q": "怪物は小さい　_______　牛のように力が強かった。",
+"ans": "くせに",
+"note": "AくせにB = A thế mà B (trái ngược, có ý chê). 小さいくせに力が強い.",
+"tr": "Con quái vật nhỏ bé vậy mà khỏe như trâu."
+},
+{
+"id": "jt4y:583-9",
+"t": "grammar_form",
+"q": "驚いた　_______　、町の様子が１０年前に比べ、すっかり変わってしまった。",
+"ans": "ことに",
+"note": "Vた/A-adj＋ことに = ... thay (cảm xúc người nói đặt đầu câu). 驚いたことに.",
+"tr": "Đáng ngạc nhiên là diện mạo thị trấn đã thay đổi hoàn toàn so với 10 năm trước."
+},
+{
+"id": "jt4y:583-10",
+"t": "grammar_form",
+"q": "ハードウエアとソフトウエアを統合した製品が売れなかった　_______　、僕らは考え方を根本的に見直さなければならなくなっていた。",
+"ans": "ことから",
+"note": "〜ことから = từ sự việc... mà (dẫn đến kết quả), văn viết. Nối sau Vた.",
+"tr": "Từ việc sản phẩm tích hợp phần cứng và phần mềm không bán được, chúng tôi buộc phải xem lại tận gốc cách nghĩ."
+},
+{
+"id": "jt4y:585-1",
+"t": "grammar_form",
+"q": "３０歳　_______　多くの人にとって人生の節目である。",
+"ans": "というのは",
+"note": "Nというのは〜である = N (cái gọi là N) là... Mẫu giải thích/định nghĩa.",
+"tr": "Tuổi 30 đối với nhiều người là một cột mốc của cuộc đời."
+},
+{
+"id": "jt4y:585-2",
+"t": "grammar_form",
+"q": "子供の頃、よく祖母に「男_______　男になりなさい」と言われた。",
+"ans": "らしい",
+"note": "Nらしい = đúng chất N, mang đầy đủ đặc trưng của N. 男らしい男 = đàn ông đích thực.",
+"tr": "Hồi nhỏ bà hay bảo tôi: 'Hãy trở thành người đàn ông ra dáng đàn ông'."
+},
+{
+"id": "jt4y:585-3",
+"t": "grammar_form",
+"q": "木村さんに招待状を書いて、日曜のディナーにお招きし、直接お礼を申し上げられる　_______　ください。",
+"ans": "ようにして",
+"note": "Vられるようにする = làm sao để có thể... (cố ý tạo điều kiện). ようにしてください = hãy sắp xếp để.",
+"tr": "Hãy viết thiệp mời anh Kimura đến ăn tối Chủ nhật, sắp xếp sao cho tôi có thể trực tiếp cảm ơn anh ấy."
+},
+{
+"id": "jt4y:585-4",
+"t": "grammar_form",
+"q": "母親　「今、お菓子を買った子がタケルくん？」 / 子供　「ちがうよ。あそこで泣いて、お菓子を　_______　子だよ。」",
+"ans": "欲しがっている",
+"note": "Mong muốn của người thứ ba dùng 欲しがる; đang đòi tại chỗ → 欲しがっている.",
+"tr": "Mẹ: Đứa vừa mua bánh kẹo là Takeru à? Con: Không phải. Là đứa đang khóc đòi bánh kẹo đằng kia."
+},
+{
+"id": "jt4y:585-5",
+"t": "grammar_form",
+"q": "これが嘘なら地獄に　_______　。彼は本当に墓場に行きかけています。そしてあなたの他には誰も彼を救うことはできないのです！",
+"ans": "落ちてもかまわない",
+"note": "Vてもかまわない = dù có... cũng không sao. Lời thề: có xuống địa ngục cũng chịu.",
+"tr": "Nếu đây là nói dối thì tôi có xuống địa ngục cũng được. Anh ấy thực sự sắp xuống mồ. Và ngoài anh ra không ai cứu được anh ấy!"
+},
+{
+"id": "jt4y:585-6",
+"t": "grammar_form",
+"q": "最近発売されている液晶テレビは薄い_______　、高品質だ。",
+"ans": "うえに",
+"note": "AうえにB = đã A lại còn B (cộng thêm cùng chiều). 薄いうえに高品質.",
+"tr": "TV màn hình tinh thể lỏng mới ra gần đây đã mỏng lại còn chất lượng cao."
+},
+{
+"id": "jt4y:585-7",
+"t": "grammar_form",
+"q": "別に隠すつもりはありませんが、いまこの忙しい捜査 _______　、ながながと込み入った説明をしてはいられませんからね。",
+"ans": "の最中に",
+"note": "Nの最中に = đang chính giữa lúc N (đang dở, bận). 捜査の最中に.",
+"tr": "Tôi không định giấu gì, nhưng đang giữa lúc điều tra bận rộn thế này, không thể giải thích dài dòng rắc rối được."
+},
+{
+"id": "jt4y:585-8",
+"t": "grammar_form",
+"q": "この子は、もっとも簡単な質問にも答えられ _______　。",
+"ans": "そうもない",
+"note": "Vます＋そうもない/そうにない = có vẻ không thể. Cả hai dạng tồn tại; đề lấy そうもない.",
+"tr": "Đứa trẻ này có vẻ không trả lời được cả câu hỏi đơn giản nhất."
+},
+{
+"id": "jt4y:585-9",
+"t": "grammar_form",
+"q": "真珠を金庫へしまってくれたまえ。そして _______　偽造事件の書類を出してくれたまえ。",
+"ans": "ついでに",
+"note": "ついでに = nhân tiện làm việc chính thì làm luôn việc phụ. Hai việc cùng ở két sắt.",
+"tr": "Cất ngọc trai vào két đi. Rồi nhân tiện lấy hồ sơ vụ làm giả ra cho tôi."
+},
+{
+"id": "jt4y:585-10",
+"t": "grammar_form",
+"q": "田中は上司 _______　人間 _______　モデルになるような人物ではない。わかりやすくて皆がまねしたいと思うような人物でもない。",
+"ans": "としても/としても",
+"note": "NとしてもNとしても = dù xét với tư cách N hay N. として = với tư cách.",
+"tr": "Tanaka không phải người có thể làm hình mẫu, dù với tư cách cấp trên hay với tư cách con người. Cũng không phải người dễ hiểu khiến ai cũng muốn noi theo."
+},
+{
+"id": "jt4y:587-1",
+"t": "grammar_form",
+"q": "われわれはここで待っていますよ。奥の部屋へいって _______　なさい。",
+"ans": "調べてごらん",
+"note": "Vてごらん(なさい) = thử làm xem (lời bảo nhẹ nhàng của người trên). Có なさい phía sau.",
+"tr": "Chúng tôi đợi ở đây. Anh vào phòng trong tra xem thử đi."
+},
+{
+"id": "jt4y:587-4",
+"t": "grammar_form",
+"q": "私、あの方に夢中になっているのよ。あの方は、私がこれまで会った人たちと全然ちがうんです _______　。",
+"ans": "もの",
+"note": "〜んですもの/〜もの = vì... mà (biện minh, nữ tính, khẩu ngữ). Đứng cuối câu sau んです.",
+"tr": "Tôi mê người ấy mất rồi. Người ấy khác hẳn những người tôi từng gặp mà."
+},
+{
+"id": "jt4y:587-5",
+"t": "grammar_form",
+"q": "あの人は父親には似ていない _______　だけは確かに申し上げることができます。",
+"ans": "ということ",
+"note": "〜ということだけは = chỉ riêng việc rằng... ということ biến mệnh đề thành danh từ để gắn だけは.",
+"tr": "Chỉ riêng việc người đó không giống cha mình thì tôi có thể khẳng định chắc chắn."
+},
+{
+"id": "jt4y:587-6",
+"t": "grammar_form",
+"q": "ふたりはすぐに駆けだし早く家へはいりたい _______　話すひまもないほどでした。",
+"ans": "ばかりに",
+"note": "Vたい＋ばかりに = 'chỉ vì quá muốn… nên'; vế sau là hệ quả (không rảnh nói). 〜たいあまり cũng nói được nhưng đề chọn ばかりに.",
+"tr": "Hai người lập tức chạy đi, chỉ vì muốn mau về nhà nên đến cả thời gian nói chuyện cũng không có."
+},
+{
+"id": "jt4y:587-7",
+"t": "grammar_form",
+"q": "あの子は頭がよくて積極的で、私が見たなかで一番意志が強いんだ。昔の自分を見ている _______　ね。",
+"ans": "ような気がする",
+"note": "Vている＋ような気がする = 'cảm giác như…'. Phân biệt 気がする (cảm thấy) với 気になる (bận tâm / nảy ý định).",
+"tr": "Đứa bé đó thông minh, chủ động, là đứa có ý chí mạnh nhất trong số những đứa tôi từng gặp. Cứ như đang nhìn thấy chính mình ngày xưa vậy."
+},
+{
+"id": "jt4y:587-8",
+"t": "grammar_form",
+"q": "もしあの人たちが沼に落ちた _______　、今では上っているよ。",
+"ans": "にしても",
+"note": "もし Vた＋にしても = 'cho dù có… thì cũng…'. Vế sau nêu kết quả vẫn đúng bất kể giả định.",
+"tr": "Cho dù những người đó có rơi xuống đầm lầy đi nữa thì giờ này cũng đã lên bờ rồi."
+},
+{
+"id": "jt4y:587-9",
+"t": "grammar_form",
+"q": "彼はちっとも眠いとは思わなかったどころか、目がさえて、少し興奮 _______　だった。",
+"ans": "ぎみ",
+"note": "ぎみ tả trạng thái hiện tại 'hơi, có vẻ' (風邪ぎみ, 疲れぎみ). がち là xu hướng hay xảy ra (遅れがち).",
+"tr": "Anh ấy chẳng những không hề thấy buồn ngủ mà mắt còn tỉnh táo, lại hơi hưng phấn nữa."
+},
+{
+"id": "jt4y:587-10",
+"t": "grammar_form",
+"q": "子供の頃、テストの成績が悪くてよく母に_______　。",
+"ans": "叱られたものだ",
+"note": "Vたものだ = hồi xưa thường hay... (hồi tưởng). 母に叱られる = bị mẹ mắng (bị động).",
+"tr": "Hồi nhỏ, tôi hay bị mẹ mắng vì điểm kiểm tra kém."
+},
+{
+"id": "jt4y:1495-1",
+"t": "grammar_form",
+"q": "雨の_______　、せっかく植えた苗が水に流された。",
+"ans": "せいで",
+"note": "Kết quả xấu → Nのせいで.",
+"tr": "Tại mưa mà mầm cây công phu trồng bị nước cuốn trôi."
+},
+{
+"id": "jt4y:1495-2",
+"t": "grammar_form",
+"q": "女１　「日曜日はいつも何をしていますか。」 / 女２　「本を_______　しています。」",
+"ans": "読んだり",
+"note": "V-たりする liệt kê hành động tiêu biểu; dù chỉ một ví dụ vẫn cần する phía sau.",
+"tr": "Nữ 1: Chủ nhật chị thường làm gì? Nữ 2: Tôi đọc sách này nọ."
+},
+{
+"id": "jt4y:1495-3",
+"t": "grammar_form",
+"q": "締め切りまであと一週間しかない。のんびりし_______　。",
+"ans": "てはいられない",
+"note": "V-てはいられない = không thể tiếp tục trạng thái đó vì gấp.",
+"tr": "Chỉ còn một tuần đến hạn. Không thể thong thả mãi được."
+},
+{
+"id": "jt4y:1495-4",
+"t": "grammar_form",
+"q": "今度の試合に勝てる_______　一生懸命頑張ります。",
+"ans": "ように",
+"note": "勝てる là động từ khả năng → mục đích dùng ように.",
+"tr": "Tôi sẽ cố hết sức để thắng trận đấu lần này."
+},
+{
+"id": "jt4y:1495-5",
+"t": "grammar_form",
+"q": "男１　「山田は？」 / 男２　「夕方、遊びに行った_______　、まだ帰ってないよ。」",
+"ans": "きり",
+"note": "V-たきり…ない = sau hành động đó không có gì tiếp theo.",
+"tr": "Nam 1: Yamada đâu? Nam 2: Chiều đi chơi rồi đi luôn, chưa về."
+},
+{
+"id": "jt4y:1495-6",
+"t": "grammar_form",
+"q": "内田　「高田さんがしている指輪、すごく高そうだよね。」 / 森山　「いや、高い指輪だったら、会社に_______　だよ。",
+"ans": "してこないはず",
+"note": "指輪をする + てくる → してくる; suy luận về người khác dùng はず.",
+"tr": "Uchida: Nhẫn chị Takada đeo trông đắt nhỉ. Moriyama: Không, nếu nhẫn đắt thì chắc chị ấy đã không đeo đến công ty."
+},
+{
+"id": "jt4y:1495-7",
+"t": "grammar_form",
+"q": "鈴木選手は、試合前は腹痛を起こす_______　緊張したそうだ。",
+"ans": "くらい",
+"note": "V-るくらい/ほど = mức độ cao.",
+"tr": "Nghe nói tuyển thủ Suzuki trước trận hồi hộp đến mức đau bụng."
+},
+{
+"id": "jt4y:1495-8",
+"t": "grammar_form",
+"q": "地震の際には、エレベーターを使わない_______　。",
+"ans": "ようにする",
+"note": "V-ないようにする = cố gắng/đảm bảo không làm.",
+"tr": "Khi có động đất, hãy đảm bảo không dùng thang máy."
+},
+{
+"id": "jt4y:1495-10",
+"t": "grammar_form",
+"q": "スーパーに、トマトのジャムという珍しいものがあった。ジャムは甘いから、トマトのすっぱさが苦手なわたしにも_______　と思って、買ってみた。",
+"ans": "食べられるかもしれない",
+"note": "Suy đoán trước khi thử → 食べられる (khả năng) + かもしれない.",
+"tr": "Siêu thị có mứt cà chua lạ. Mứt thì ngọt nên tôi nghĩ người ghét chua như mình có lẽ cũng ăn được, bèn mua thử."
+},
+{
+"id": "jt4y:1497-1",
+"t": "sentence_order",
+"q": "息子は_______　_______　…★… _______　で、全然勉強しようとしない。",
+"ans": "遊んで",
+"note": "Câu đúng: 息子は悪い友達と遊んでばかりで、全然勉強しようとしない。★ = 遊んで. Mấu chốt: V-てばかり(で) \"suốt chỉ…\", 悪い bổ nghĩa cho 友達.",
+"tr": "Con trai tôi suốt ngày chơi với đám bạn xấu, chẳng chịu học hành gì."
+},
+{
+"id": "jt4y:1497-2",
+"t": "sentence_order",
+"q": "今日の夕飯は_______　_______　…★… _______　ことになった。",
+"ans": "かわって",
+"note": "Câu đúng: 今日の夕飯は風邪をひいた母にかわって姉が作ることになった。★ = かわって. Mấu chốt: Nにかわって (thay cho N).",
+"tr": "Bữa tối nay chị tôi sẽ nấu thay mẹ bị cảm."
+},
+{
+"id": "jt4y:1497-3",
+"t": "sentence_order",
+"q": "兄は歌が_______　_______　…★… _______　放さない。",
+"ans": "マイクを",
+"note": "Câu đúng: 兄は歌が下手なくせにマイクを持つと放さない。★ = マイクを. Mấu chốt: A-なくせに (vậy mà, chê).",
+"tr": "Anh tôi hát dở vậy mà hễ cầm micro là không buông."
+},
+{
+"id": "jt4y:1497-4",
+"t": "sentence_order",
+"q": "父はいつも、「何も_______　_______　…★… _______　ほうがいい。」と言っている。",
+"ans": "チャレンジして",
+"note": "Câu đúng: 父はいつも、「何もしないでいるよりチャレンジして失敗したほうがいい。」と言っている。★ = チャレンジして. AよりBほうがいい = B tốt hơn A.",
+"tr": "Bố tôi lúc nào cũng nói: \"Thà thử sức rồi thất bại còn hơn là chẳng làm gì cả.\""
+},
+{
+"id": "jt4y:1497-5",
+"t": "sentence_order",
+"q": "それは _______ _______ …★… _______わね。",
+"ans": "受け取って",
+"note": "Câu đúng: それはほめ言葉として受け取っておくわね。★ = 受け取って. Nとして = coi như là N; Vておく = làm sẵn/cứ làm vậy.",
+"tr": "Cái đó thì tôi xin nhận như một lời khen nhé."
+},
+{
+"id": "jt4y:1497-6",
+"t": "sentence_order",
+"q": "A　「じゃあ、あしたはコンサート会場の入り口に５時に集まりませんか。」 / B　「コンサートは７時からですから、みんな_______　_______　…★… _______　と思いますよ。」",
+"ans": "まだ",
+"note": "Câu đúng: みんな早く行ってもまだ開いていないと思いますよ。★ = まだ. Vても = dù có... thì cũng; まだ + phủ định = vẫn chưa.",
+"tr": "A: Mai 5 giờ tập trung ở cổng nhà hát nhé? B: Buổi diễn 7 giờ mới bắt đầu, mọi người có đi sớm thì chắc cũng chưa mở cửa đâu."
+},
+{
+"id": "jt4y:1497-7",
+"t": "sentence_order",
+"q": "男１　「来週、試合_______　_______　…★… _______　んですか。」 / 男２　「すみません。」",
+"ans": "練習に来ないで",
+"note": "Câu đúng: 来週、試合なのにちょっとも練習に来ないで何をやっていたんですか。★ = 練習に来ないで. Nなのに = thế mà; ちょっとも〜ない = chẳng chút nào.",
+"tr": "Nam 1: Tuần sau thi đấu rồi, thế mà cậu không đến tập buổi nào, cậu đã làm gì vậy hả? Nam 2: Em xin lỗi."
+},
+{
+"id": "jt4y:1497-8",
+"t": "sentence_order",
+"q": "私のこと、怒ってる？お願いだから、________ ________…★… _______。",
+"ans": "を",
+"note": "Câu đúng: お願いだから、わたしのことを怒らないで。★ = を. 人のことを怒る = giận ai; Vないで = đừng (làm).",
+"tr": "Cậu giận tớ à? Tớ xin đấy, đừng giận tớ mà."
+},
+{
+"id": "jt4y:1499-1",
+"t": "grammar_form",
+"q": "女１　「あれ、財布がない。」 / 女２　「え、本当ですか。」 / 女１　「あ、ありました、ありました。」 / 女２　「もう、びっくり_______　よ。でも、よかったですね。」",
+"ans": "させないでください",
+"note": "びっくりさせる = làm ai giật mình (sai khiến). Người nói bị dọa nên nhờ 'đừng làm thế nữa': させないでください.",
+"tr": "Nữ 1: Ơ, ví đâu rồi. Nữ 2: Hả, thật à? Nữ 1: À, đây rồi, đây rồi. Nữ 2: Thôi đi, đừng làm tôi hết hồn thế chứ. Mà tìm thấy là tốt rồi."
+},
+{
+"id": "jt4y:1499-2",
+"t": "grammar_form",
+"q": "来週の遠足ですが、集合時間は９時です。遅れる場合は、_______　学校に連絡してください。",
+"ans": "必ず",
+"note": "必ず + câu yêu cầu khẳng định = nhất định phải. 決して/全く cần phủ định phía sau; 非常に không bổ nghĩa cho động từ 連絡する.",
+"tr": "Về chuyến dã ngoại tuần sau, giờ tập trung là 9 giờ. Nếu đến muộn, nhất định phải liên lạc với trường."
+},
+{
+"id": "jt4y:1499-3",
+"t": "grammar_form",
+"q": "理屈の _______ は同社は必ずうまくいくはずだった。。",
+"ans": "うえで",
+"note": "Nのうえでは = xét về mặt N (lý thuyết, con số...). Trợ từ は đứng sau chỗ trống nên うえに/だけで không nối được.",
+"tr": "Về mặt lý thuyết thì công ty đó đáng lẽ chắc chắn phải thành công."
+},
+{
+"id": "jt4y:1499-4",
+"t": "grammar_form",
+"q": "問題は、わたしたちがどちらの方角へ向かうべきか _______ だ。",
+"ans": "ということ",
+"note": "問題は〜かということだ: dùng ということ để biến câu hỏi gián tiếp thành danh từ, khớp với chủ đề 問題は.",
+"tr": "Vấn đề là chúng ta nên đi về hướng nào."
+},
+{
+"id": "jt4y:1499-6",
+"t": "grammar_form",
+"q": "女　「社長、何をお飲みに_______　か。」 / 男　「じゃ、コーヒーで。」",
+"ans": "なります",
+"note": "Hỏi hành động của cấp trên dùng tôn kính お＋Vます＋になる → お飲みになりますか. いたす・いただく là khiêm nhường cho bản thân.",
+"tr": "Nữ: Thưa giám đốc, ngài dùng đồ uống gì ạ? Nam: Cho tôi cà phê."
+},
+{
+"id": "jt4y:1499-8",
+"t": "grammar_form",
+"q": "参加ご希望の方はメール_______　４月１８日までにご連絡ください。",
+"ans": "にて",
+"note": "にて = で (phương tiện) trong văn viết trang trọng, thông báo. メールにて連絡 = liên hệ bằng email.",
+"tr": "Quý vị muốn tham gia xin vui lòng liên hệ qua email trước ngày 18 tháng 4."
+},
+{
+"id": "jt4y:1499-9",
+"t": "grammar_form",
+"q": "まだ仕事が終わっていないので、帰る_______　。",
+"ans": "わけにはいかない",
+"note": "Vるわけにはいかない = không thể làm vì hoàn cảnh/trách nhiệm không cho phép, dù muốn. Khớp với lý do 仕事が終わっていない.",
+"tr": "Việc vẫn chưa xong nên tôi không thể về được."
+},
+{
+"id": "jt4y:1501-1",
+"t": "grammar_form",
+"q": "この仕事は大変な_______　給料が安い。",
+"ans": "わりに",
+"note": "AわりにB = so với A thì B không tương xứng; nối với な-adj là 大変なわりに. くせに chỉ dùng chỉ trích người.",
+"tr": "Công việc này vất vả thế mà lương lại thấp."
+},
+{
+"id": "jt4y:1501-2",
+"t": "grammar_form",
+"q": "この数年、テレビで放送しているアニメの番組が多_______　ような気がする。",
+"ans": "すぎる",
+"note": "い-adj bỏ い + すぎる: 多い → 多すぎる = quá nhiều. ような気がする = có cảm giác như.",
+"tr": "Mấy năm gần đây tôi có cảm giác chương trình anime phát trên TV hơi quá nhiều."
+},
+{
+"id": "jt4y:1501-3",
+"t": "grammar_form",
+"q": "女１　「あと３０分 _______ ありませんょ。」 / 女２　「これも買いたい、あれも買いたい。時間が足りないわ。」",
+"ans": "しか",
+"note": "しか＋ありません = chỉ còn... Phía sau là phủ định nên không dùng だけ (だけあります).",
+"tr": "Nữ 1: Chỉ còn 30 phút nữa thôi đấy. Nữ 2: Cái này cũng muốn mua, cái kia cũng muốn mua. Thiếu thời gian quá."
+},
+{
+"id": "jt4y:1501-4",
+"t": "grammar_form",
+"q": "初級クラスの学生には、分かり_______　例文で文法を説明する。",
+"ans": "やすい",
+"note": "Vます＋やすい = dễ làm; 分かりやすい例文 = ví dụ dễ hiểu. Với người mới học thì cần dễ chứ không phải khó.",
+"tr": "Với học sinh lớp sơ cấp, tôi giải thích ngữ pháp bằng những câu ví dụ dễ hiểu."
+},
+{
+"id": "jt4y:1501-5",
+"t": "grammar_form",
+"q": "不景気_______　、就職難という問題が目立ってきた。",
+"ans": "で",
+"note": "Nで = vì N (nguyên nhân). 不景気で = do suy thoái.",
+"tr": "Vì kinh tế suy thoái, vấn đề khó xin việc trở nên nổi cộm."
+},
+{
+"id": "jt4y:1501-6",
+"t": "grammar_form",
+"q": "１月２０日 _______ 指定口座にお振込みください。",
+"ans": "までに",
+"note": "までに = hạn chót, hành động xảy ra một lần trước mốc đó. まで là kéo dài liên tục đến mốc.",
+"tr": "Xin chuyển khoản vào tài khoản chỉ định trước ngày 20 tháng 1."
+},
+{
+"id": "jt4y:1501-7",
+"t": "grammar_form",
+"q": "ＵＰＳはダラスの冷蔵流通センターを中心 _______ その企業のシステムを再設計した。",
+"ans": "に",
+"note": "Nを中心に(して) = lấy N làm trung tâm/trọng tâm. Cụm cố định.",
+"tr": "UPS đã thiết kế lại hệ thống của doanh nghiệp đó lấy trung tâm phân phối lạnh ở Dallas làm trọng tâm."
+},
+{
+"id": "jt4y:1501-9",
+"t": "grammar_form",
+"q": "１９９７年から１９９９年 _______ 収益は着実に伸びていった。",
+"ans": "にかけて",
+"note": "AからBにかけて = từ A kéo dài đến B (thời gian/không gian liên tục). Có から phía trước là dấu hiệu.",
+"tr": "Từ năm 1997 đến 1999, lợi nhuận tăng trưởng đều đặn."
+},
+{
+"id": "jt4y:1501-10",
+"t": "grammar_form",
+"q": "これは否定し _______ 事実だ！",
+"ans": "がたい",
+"note": "Vます＋がたい = khó lòng làm được (信じがたい、否定しがたい), văn viết. にくい là khó về mặt thao tác.",
+"tr": "Đây là sự thật khó mà phủ nhận được!"
+},
+{
+"id": "jt4y:1571-1",
+"t": "grammar_form",
+"q": "ご契約に_______　、必ずこちらの注意事項をお読みください。",
+"ans": "際しては",
+"note": "Nに際して(は) = vào lúc/khi làm N (trang trọng). 契約に際して = khi ký hợp đồng.",
+"tr": "Khi ký hợp đồng, xin nhất định đọc các lưu ý này."
+},
+{
+"id": "jt4y:1571-2",
+"t": "grammar_form",
+"q": "男１　「体の具合はどうですか。」 / 男２　「昨日から急に咳が止まらなくなり、呼吸するで　_______　苦しくなりました。",
+"ans": "さえ",
+"note": "さえ = ngay cả việc tối thiểu như thở cũng khổ. Câu đề hơi lạ, tự nhiên hơn là 呼吸するのさえ/呼吸するだけでも.",
+"tr": "Nam 1: Sức khỏe anh thế nào? Nam 2: Từ hôm qua tự nhiên ho không dứt, đến thở thôi cũng thấy khó chịu."
+},
+{
+"id": "jt4y:1571-3",
+"t": "grammar_form",
+"q": "昨日の夜はとても疲れていたので、夕飯のあと、電気 _______ 消さないでソファで寝てしまった。",
+"ans": "も",
+"note": "Nも〜ないで = ngay cả N cũng không làm (nhấn mạnh mức độ mệt). 電気を消す → 電気も消さないで.",
+"tr": "Tối qua tôi mệt quá nên sau bữa tối, đèn cũng không tắt mà ngủ luôn trên sofa."
+},
+{
+"id": "jt4y:1571-5",
+"t": "grammar_form",
+"q": "留学する_______　、留学ビザの申請が必要だ。",
+"ans": "なら",
+"note": "Vるなら = nếu (bạn định) làm vậy thì (lời khuyên/điều kiện cần). と chỉ kết quả tất yếu, không hợp với 必要だ.",
+"tr": "Nếu đi du học thì cần phải xin visa du học."
+},
+{
+"id": "jt4y:1571-6",
+"t": "grammar_form",
+"q": "「１」に入る最も適当なものはどれか。",
+"ans": "寂しくないです",
+"note": "Câu nói về hiện tại, でも đảo ý 'cô đơn' phía trước → 寂しくないです. Các lựa chọn quá khứ không khớp thì.",
+"tr": "Người sống một mình nuôi chó mèo ngày càng nhiều. Về nhà là thế giới cô đơn, nhưng nếu có thú cưng thì không cô đơn."
+},
+{
+"id": "jt4y:1571-7",
+"t": "grammar_form",
+"q": "「２」に入る最も適当なものはどれか。",
+"ans": "ところで",
+"note": "Đoạn 2 chuyển sang chuyện khảo sát, khác đoạn 1 → dùng ところで để đổi đề tài.",
+"tr": "Nhân đây, một cuộc khảo sát đã cho thấy điều này."
+},
+{
+"id": "jt4y:1571-8",
+"t": "grammar_form",
+"q": "「３」に入る最も適当なものはどれか。",
+"ans": "と聞いたところ",
+"note": "VたところB = làm V thì thấy/phát hiện B. Hỏi → biết kết quả ほとんどが〜と答えた.",
+"tr": "Khi hỏi phụ nữ độ tuổi 20 'kết hôn rồi thì làm gì với thú cưng hiện có', hầu hết trả lời sẽ mang theo."
+},
+{
+"id": "jt4y:1571-9",
+"t": "grammar_form",
+"q": "「４」に入る最も適当なものはどれか。",
+"ans": "住むことになる",
+"note": "一緒に住むことになる彼のマンション = chung cư sẽ sống chung sau khi cưới. ことになる = kết quả hoàn cảnh dẫn tới.",
+"tr": "Ví dụ, chung cư của bạn trai – nơi sẽ chung sống – cấm nuôi thú cưng, nên có người phân vân không biết có nên kết hôn hay không."
+},
+{
+"id": "jt4y:1571-10",
+"t": "grammar_form",
+"q": "「５」に入る最も適当なものはどれか。",
+"ans": "かどうか",
+"note": "結婚するかどうか迷っている = phân vân có kết hôn hay không. Vるかどうか = có hay không, đi với 迷う.",
+"tr": "Ví dụ, có cả những phụ nữ đang phân vân không biết có nên kết hôn hay không vì chung cư của bạn trai cấm nuôi thú cưng."
+},
+{
+"id": "jt4y:1573-2",
+"t": "grammar_form",
+"q": "女１　「今、何してんの？」 / 女２　「ちょうど宿題が終わった_______　なんだ。」",
+"ans": "ところ",
+"note": "Vたところだ = vừa mới làm xong (ngay sau đó). ちょうど là dấu hiệu rõ.",
+"tr": "Nữ 1: Giờ đang làm gì đấy? Nữ 2: Vừa mới làm xong bài tập."
+},
+{
+"id": "jt4y:1573-3",
+"t": "grammar_form",
+"q": "あの新任の先生、顔つき_______　、怖そうね。",
+"ans": "からして",
+"note": "Nからして = chỉ mới xét N (điểm đầu tiên) đã..., thường kèm đánh giá tiêu cực.",
+"tr": "Thầy giáo mới ấy, nhìn mặt thôi đã thấy đáng sợ rồi."
+},
+{
+"id": "jt4y:1573-4",
+"t": "grammar_form",
+"q": "弟は以前から_______　いたゲームソフトを買ってもらって喜んでいる。",
+"ans": "ほしがって",
+"note": "Nói về mong muốn của người khác dùng ほしがる; ほしがっていた = đã muốn từ lâu. ほしい chỉ dùng cho bản thân.",
+"tr": "Em trai tôi được mua cho trò chơi điện tử mà nó muốn từ lâu nên đang rất vui."
+},
+{
+"id": "jt4y:1573-5",
+"t": "grammar_form",
+"q": "女１　「あの人の名前、山田さんだよね。」 / 女２　「違うよ。前田さんだよ。さっき教えた　_______　どうして忘れちゃうの？」",
+"ans": "ばかりなのに",
+"note": "Vたばかり = vừa mới; のに = thế mà (trách). Vừa dạy xong mà đã quên → ばかりなのに.",
+"tr": "Nữ 1: Người kia tên Yamada đúng không? Nữ 2: Sai rồi. Là Maeda. Vừa mới nói cho cậu lúc nãy mà sao quên rồi?"
+},
+{
+"id": "jt4y:1573-6",
+"t": "sentence_order",
+"q": "父もわたしも、今日はかさがなくても_______　_______　…★… _______　が、雨に降られてしまった。",
+"ans": "と思って",
+"note": "Câu đúng: 今日はかさがなくても大丈夫だろうと思って出かけたが、雨に降られてしまった。★ = と思って. 〜だろうと思って = nghĩ rằng chắc...; 雨に降られる = bị mưa (bị động phiền toái).",
+"tr": "Cả bố và tôi đều nghĩ hôm nay không ô cũng không sao nên ra ngoài, kết quả bị mưa."
+},
+{
+"id": "jt4y:1573-7",
+"t": "sentence_order",
+"q": "コンタクトレンズや_______　_______　…★… _______　の結果をまとめた。",
+"ans": "に関する",
+"note": "Câu đúng: コンタクトレンズや眼鏡の使用に関するアンケート調査の結果をまとめた。★ = に関する. Nに関するN = N về N.",
+"tr": "Tôi đã tổng hợp kết quả khảo sát về việc sử dụng kính áp tròng và kính mắt."
+},
+{
+"id": "jt4y:1573-8",
+"t": "sentence_order",
+"q": "女１　「昨日の映画、どうだった？」 / 女２　「これ_______　_______　…★… _______　見たことがないよ。」",
+"ans": "映画は",
+"note": "Câu đúng: これほど面白い映画は今まで見たことがないよ。★ = 映画は. これほど〜ない = không gì bằng cái này.",
+"tr": "Nữ 1: Phim hôm qua thế nào? Nữ 2: Từ trước đến giờ chưa từng xem phim nào hay như phim này."
+},
+{
+"id": "jt4y:1573-9",
+"t": "sentence_order",
+"q": "_______　_______　…★… _______　では、今の会社の実像がよく見えてくる。",
+"ans": "教育の",
+"note": "Câu đúng: 小学校をはじめとする教育の場では、今の社会の実像がよく見えてくる。★ = 教育の. NをはじめとするN = N tiêu biểu là N.",
+"tr": "Ở môi trường giáo dục, tiêu biểu là trường tiểu học, có thể thấy rõ bộ mặt thật của xã hội hiện nay."
+},
+{
+"id": "jt4y:1573-10",
+"t": "sentence_order",
+"q": "女１　「今度のさよならパーティーで、みんなで歌う歌は、これでいいですか。」 / 女２　「すみません。この歌は好きなんですが、少しむずかしいです_______　_______　…★… _______　してほしいです。」",
+"ans": "の",
+"note": "Câu đúng: 少しむずかしいですからほかのにしてほしいです。★ = の. ほかの(もの)にする = chọn cái khác; 〜てほしい = muốn ai làm.",
+"tr": "Nữ 1: Bài hát cho tiệc chia tay này được không? Nữ 2: Xin lỗi, tôi thích bài này nhưng hơi khó, nên tôi muốn đổi bài khác."
+},
+{
+"id": "jt4y:1575-1",
+"t": "grammar_form",
+"q": "みなさん、これから二週間の農家生活を_______　ください。",
+"ans": "お楽しみ",
+"note": "お＋Vます＋ください = kính ngữ 'xin hãy'. Động từ thuần Nhật dùng お, không dùng ご.",
+"tr": "Mọi người hãy tận hưởng hai tuần sống ở nông trại sắp tới nhé."
+},
+{
+"id": "jt4y:1575-2",
+"t": "grammar_form",
+"q": "成功できるか_______　は、本人の努力によるものだ。",
+"ans": "どうか",
+"note": "Vるかどうか = có... hay không, biến thành danh từ làm chủ đề (は).",
+"tr": "Có thành công được hay không là do nỗ lực của bản thân người đó."
+},
+{
+"id": "jt4y:1575-3",
+"t": "grammar_form",
+"q": "女１　「来月、大阪に出張するんだけど、いいホテル、知らない？」 / 女２　「駅の近くで_______　、一つ、知ってるよ。」",
+"ans": "なくてもよければ",
+"note": "Nでなくてもいい = không phải N cũng được; ければ = nếu. 駅の近くでなくてもよければ = nếu không gần ga cũng không sao.",
+"tr": "Nữ 1: Tháng sau tôi đi công tác Osaka, biết khách sạn nào tốt không? Nữ 2: Nếu không cần gần ga cũng được thì tôi biết một chỗ."
+},
+{
+"id": "jt4y:1575-4",
+"t": "grammar_form",
+"q": "雨が早く止む_______　ですね。",
+"ans": "といい",
+"note": "Vる＋といい(ですね) = mong rằng. Các lựa chọn khác sai cách nối: たら/ば phải đổi đuôi động từ.",
+"tr": "Mong là mưa mau tạnh nhỉ."
+},
+{
+"id": "jt4y:1575-5",
+"t": "grammar_form",
+"q": "女１　「ちょっと_______　ますが、東京駅へはどう行ったらいいでしょうか。」 / 女２　「この道をまっすく行って、交差点を右に曲がってください。」",
+"ans": "うかがい",
+"note": "ちょっとうかがいますが = cách mở lời hỏi đường lịch sự. 伺う = hỏi/đến thăm (khiêm nhường).",
+"tr": "Nữ 1: Xin hỏi một chút, đến ga Tokyo thì đi thế nào ạ? Nữ 2: Đi thẳng đường này rồi rẽ phải ở ngã tư."
+},
+{
+"id": "jt4y:1575-6",
+"t": "grammar_form",
+"q": "「１」に入る最も適当なものはどれか。",
+"ans": "入れておく",
+"note": "Có chủ thể 人 làm hành động → tha động từ 入れる + ておく (để sẵn). 入れてある không bổ nghĩa cho 人 kiểu này.",
+"tr": "Gần đây nhiều người mua nước uống chai nhựa lớn về rồi để sẵn trong tủ lạnh."
+},
+{
+"id": "jt4y:1575-7",
+"t": "grammar_form",
+"q": "「２」に入る最も適当なものはどれか。",
+"ans": "ため",
+"note": "Nのために = vì mục đích N. リサイクルのために別に集めている = gom riêng để tái chế.",
+"tr": "Hiện nay nhiều địa phương thu gom riêng chai nhựa, tách khỏi rác thường, để tái chế."
+},
+{
+"id": "jt4y:1575-8",
+"t": "grammar_form",
+"q": "「３」に入る最も適当なものはどれか。",
+"ans": "それでは",
+"note": "Sau khi nêu 8 割 người đem đi tái chế, tác giả chuyển sang câu hỏi tiếp → それでは.",
+"tr": "Vậy thì, quý vị có biết chúng được tái chế và dùng vào việc gì không?"
+},
+{
+"id": "jt4y:1575-9",
+"t": "grammar_form",
+"q": "「４」に入る最も適当なものはどれか。",
+"ans": "ということはない",
+"note": "ビンと違って = khác với chai thủy tinh (được dùng lại) → chai nhựa KHÔNG dùng lại: ということはない.",
+"tr": "Chai nhựa khác với chai thủy tinh, không có chuyện được rửa rồi dùng lại."
+},
+{
+"id": "jt4y:1575-10",
+"t": "grammar_form",
+"q": "「５」に入る最も適当なものはどれか。",
+"ans": "姿を変えて",
+"note": "Chai nhựa thành nguyên liệu quần áo, văn phòng phẩm → 'thay đổi hình dạng' (姿を変える), thành 別の商品.",
+"tr": "Tức là chúng hoàn toàn thay hình đổi dạng, trở thành sản phẩm khác và được bày bán ở cửa hàng."
+},
+{
+"id": "jt4y:1577-1",
+"t": "grammar_form",
+"q": "女１　「山頂まであと２時間もありますけど、大丈夫ですか。」 / 女２　「ええいくら歩い　_______　平気ですよ。",
+"ans": "ても",
+"note": "いくら＋Vても = dù... bao nhiêu đi nữa. 歩いて + も → 歩いても.",
+"tr": "Nữ 1: Còn tận 2 tiếng nữa mới lên đỉnh, chị ổn chứ? Nữ 2: Ừ, đi bao nhiêu cũng không sao đâu."
+},
+{
+"id": "jt4y:1577-2",
+"t": "grammar_form",
+"q": "マスコミの報道_______　、インドの自動車市場は急速に成長しているそうだ。",
+"ans": "によると",
+"note": "Nによると〜そうだ = theo N thì nghe nói. Có そうだ ở cuối là dấu hiệu.",
+"tr": "Theo báo chí đưa tin, thị trường ô tô Ấn Độ đang tăng trưởng nhanh chóng."
+},
+{
+"id": "jt4y:1577-3",
+"t": "grammar_form",
+"q": "詳しく調べた_______　、事件の報告書を作成する。",
+"ans": "上で",
+"note": "Vた上で = sau khi làm V xong rồi mới làm bước tiếp (có cân nhắc). 調べた上で作成する.",
+"tr": "Sau khi điều tra kỹ, tôi sẽ lập báo cáo về vụ việc."
+},
+{
+"id": "jt4y:1577-5",
+"t": "grammar_form",
+"q": "女１　「沖縄旅行はどうだった？」 / 女２　「海が青くて、料理もおいしくて、最高だったよ。」 / 女１　「いいなあ。わたしも　_______　一度行ってみたいなあ。」",
+"ans": "いつか",
+"note": "いつか〜たい = mong một ngày nào đó sẽ... いつでも = bất cứ lúc nào, không hợp với 一度.",
+"tr": "Nữ 1: Chuyến Okinawa thế nào? Nữ 2: Biển xanh, đồ ăn ngon, tuyệt lắm. Nữ 1: Thích thế. Tớ cũng muốn một ngày nào đó đi thử một lần."
+},
+{
+"id": "jt4y:1577-6",
+"t": "sentence_order",
+"q": "昨日動物園に行ったら、先月_______　_______　…★… _______　見ることができました。",
+"ans": "ライオンの",
+"note": "Câu đúng: 先月生まれたばかりのライオンの赤ちゃんを見ることができました。★ = ライオンの. Vたばかりの＋N = N vừa mới.",
+"tr": "Hôm qua đi sở thú, tôi được xem sư tử con vừa mới sinh tháng trước."
+},
+{
+"id": "jt4y:1577-7",
+"t": "sentence_order",
+"q": "男１　「辞書を_______　_______　…★… _______　ことができますか。」 / 男２　「ええ、大丈夫です。」",
+"ans": "小説を",
+"note": "Câu đúng: 辞書を使わずに日本語の小説を読むことができますか。★ = 小説を. Vずに = không làm V mà (= ないで).",
+"tr": "Nam 1: Anh đọc được tiểu thuyết tiếng Nhật mà không cần từ điển không? Nam 2: Vâng, không vấn đề gì."
+},
+{
+"id": "jt4y:1577-8",
+"t": "sentence_order",
+"q": "庭に植えたスイカは、これまでなかなか_______　_______　…★… _______　今年になっておいしいのができた。",
+"ans": "毎年チャレンジしていたら",
+"note": "Câu đúng: これまでなかなかうまく育てなかったが、あきらめないで毎年チャレンジしていたら、ようやく今年になっておいしいのができた。★ = 毎年チャレンジしていたら. Vていたら = cứ làm thì (kết quả).",
+"tr": "Dưa hấu trồng trong vườn trước nay mãi không lớn tốt, nhưng tôi không bỏ cuộc mà thử mỗi năm, cuối cùng năm nay đã có quả ngon."
+},
+{
+"id": "jt4y:1577-9",
+"t": "sentence_order",
+"q": "母の誕生日に_______　_______　…★… _______　贈った。",
+"ans": "編んで",
+"note": "Câu đúng: 母の誕生日に心を込めてセーターを編んで贈った。★ = 編んで. (?) Đáp án nguồn có thể sai: theo thứ tự tự nhiên ★ (vị trí 3) là セーターを.",
+"tr": "Nhân sinh nhật mẹ, tôi đã đan tặng mẹ một chiếc áo len bằng cả tấm lòng."
+},
+{
+"id": "jt4y:1577-10",
+"t": "sentence_order",
+"q": "最近、子供がピアノを習いたいと言い出した。わたしは、子供が_______　_______　…★… _______　と思っている。",
+"ans": "やらせて",
+"note": "Câu đúng: 子供がやりたいと思うことはやらせてしたいと思っている。★ = やらせて. (?) Đáp án nguồn có thể sai: 'やらせてしたい' không tự nhiên, phải là やらせてあげたい/やらせたい.",
+"tr": "Dạo này con tôi nói muốn học piano. Tôi nghĩ việc con muốn làm thì tôi muốn để cho nó làm."
+},
+{
+"id": "jt4y:1579-1",
+"t": "grammar_form",
+"q": "これ_______　の傷で、大騒ぎすることはないよ。",
+"ans": "ぐらい",
+"note": "これぐらいの = chỉ cỡ này (coi là nhỏ). ことはない = không cần phải.",
+"tr": "Vết thương cỡ này thôi, không cần phải làm ầm lên đâu."
+},
+{
+"id": "jt4y:1579-2",
+"t": "grammar_form",
+"q": "ガソリンの値段が高くなった。毎日車を運転するわたし_______　これは大きな問題だ。",
+"ans": "にとって",
+"note": "Nにとって = đối với N (đánh giá từ lập trường của N), hay đi với 問題だ、大切だ.",
+"tr": "Giá xăng tăng. Với tôi, người lái xe mỗi ngày, đây là vấn đề lớn."
+},
+{
+"id": "jt4y:1579-3",
+"t": "grammar_form",
+"q": "男１　「昨日からずっと頭が痛いんですが、どこかいい病院を知りませんか。」 / 男２　「そうですねえ。A病院に行って_______　。」",
+"ans": "みたらどうでしょう",
+"note": "Vたらどうですか/どうでしょう = khuyên người khác nên làm. Người B đang khuyên nên không dùng させてください.",
+"tr": "Nam 1: Từ hôm qua tôi đau đầu suốt, anh biết bệnh viện nào tốt không? Nam 2: Để xem... Hay là anh thử đến bệnh viện A xem sao."
+},
+{
+"id": "jt4y:1579-5",
+"t": "grammar_form",
+"q": "国籍や性別_______　差別は許せない。",
+"ans": "による",
+"note": "NによるN = N do/dựa theo N. 国籍による差別 = phân biệt theo quốc tịch.",
+"tr": "Không thể tha thứ cho sự phân biệt đối xử dựa trên quốc tịch hay giới tính."
+},
+{
+"id": "jt4y:1579-6",
+"t": "sentence_order",
+"q": "あの美術館は曜日_______　_______　…★… _______　窓口で確認したほうがいいよ。",
+"ans": "が",
+"note": "Câu đúng: あの美術館は曜日によって閉まる時間が違うから窓口で確認したほうがいいよ。★ = が. Nによって違う = khác nhau tùy theo N.",
+"tr": "Bảo tàng đó giờ đóng cửa khác nhau tùy ngày trong tuần, nên hỏi lại quầy vé thì hơn."
+},
+{
+"id": "jt4y:1579-7",
+"t": "sentence_order",
+"q": "男１　「昨日宝くじを買ったんです。」 / 男２　「もし_______　_______　…★… _______　、何に使いますか。」",
+"ans": "当たった",
+"note": "Câu đúng: もし一千万円の賞金が当たったとしたら、何に使いますか。★ = 当たった. もし〜としたら = giả sử.",
+"tr": "Nam 1: Hôm qua tôi mua vé số. Nam 2: Giả sử trúng giải 10 triệu yên thì anh dùng vào việc gì?"
+},
+{
+"id": "jt4y:1579-8",
+"t": "sentence_order",
+"q": "学生　「田中先生はいらっしゃいますか。」 / 秘書　「今、ほかの学生と話して_______　_______　…★… _______　ください。」",
+"ans": "すこし",
+"note": "Câu đúng: 今、ほかの学生と話していらっしゃいますからすこし待ってください。★ = すこし. Vていらっしゃる = tôn kính của Vている.",
+"tr": "Sinh viên: Thầy Tanaka có ở đây không ạ? Thư ký: Thầy đang nói chuyện với sinh viên khác, em đợi một chút nhé."
+},
+{
+"id": "jt4y:1579-9",
+"t": "sentence_order",
+"q": "自分で野菜を作ってみて、おいしい野菜を育てる_______　_______　…★… _______　わかりました。",
+"ans": "大変な",
+"note": "Câu đúng: おいしい野菜を育てることがどんなに大変なことかわかりました。★ = 大変な. どんなに〜ことか = ... biết bao nhiêu.",
+"tr": "Tự trồng rau thử rồi tôi mới hiểu trồng được rau ngon vất vả đến thế nào."
+},
+{
+"id": "jt4y:1579-10",
+"t": "sentence_order",
+"q": "川名寺は桜が_______　_______　…★… _______　秋の景色もすばらしいです。",
+"ans": "きれいな",
+"note": "Câu đúng: 川名寺は桜がきれいなことで有名ですが、桜だけでなく秋の景色もすばらしいです。★ = きれいな. (?) Đáp án nguồn có thể sai: ở vị trí 3 phải là 有名ですが.",
+"tr": "Chùa Kawana nổi tiếng vì hoa anh đào đẹp, nhưng không chỉ anh đào mà cảnh thu cũng tuyệt vời."
+},
+{
+"id": "jt4y:1581-1",
+"t": "grammar_form",
+"q": "最近のトイレって立ち上がると、自動で水が流れる　_______　。",
+"ans": "ようになっている",
+"note": "Vるようになっている = được làm/thiết kế để tự động như vậy (cơ chế, hệ thống).",
+"tr": "Bồn cầu dạo này cứ đứng dậy là tự động xả nước."
+},
+{
+"id": "jt4y:1581-2",
+"t": "grammar_form",
+"q": "田中さんは家に来る　_______　プレゼントを持ってきます。",
+"ans": "たびに",
+"note": "Vるたびに = mỗi lần làm V đều... ごとに hay đi với danh từ/số (3日ごとに).",
+"tr": "Anh Tanaka mỗi lần đến nhà đều mang quà đến."
+},
+{
+"id": "jt4y:1581-4",
+"t": "grammar_form",
+"q": "この映画は大人には面白くても、子供には　_______　分からないのだ。",
+"ans": "さっぱり",
+"note": "さっぱり〜ない = hoàn toàn không (hiểu/biết). ぜひ・なるべく đi với mong muốn/yêu cầu.",
+"tr": "Phim này người lớn thấy hay nhưng trẻ con thì hoàn toàn không hiểu."
+},
+{
+"id": "jt4y:1581-5",
+"t": "grammar_form",
+"q": "年を取るに　_______　目も耳も悪くなってきました。",
+"ans": "つれて",
+"note": "Vるにつれて = cùng với/càng... càng (hai thay đổi song song). 年を取るにつれて = càng già.",
+"tr": "Càng có tuổi, mắt và tai tôi càng kém đi."
+},
+{
+"id": "jt4y:1581-6",
+"t": "grammar_form",
+"q": "社員「ヨシダ電機の木村さんからお電話です」 / 部長「またかよ。いないということに　_______　くれ」",
+"ans": "しておいて",
+"note": "〜ということにする = coi như là/quyết định bảo là. しておいてくれ = cứ làm sẵn như thế giúp tôi (mệnh lệnh thân mật).",
+"tr": "Nhân viên: Có điện thoại từ anh Kimura bên Yoshida Denki ạ. Trưởng phòng: Lại nữa à. Cứ bảo là tôi không có ở đây đi."
+},
+{
+"id": "jt4y:1581-7",
+"t": "grammar_form",
+"q": "この番組に　_______　ご意見、ご感想をお寄せください。",
+"ans": "ついての",
+"note": "NについてのN = N về N. Phía sau là danh từ ご意見 nên cần の.",
+"tr": "Xin gửi ý kiến, cảm tưởng của quý vị về chương trình này."
+},
+{
+"id": "jt4y:1581-8",
+"t": "grammar_form",
+"q": "仕事が忙しいので今は話し　_______　ください。",
+"ans": "かけないで",
+"note": "話しかける = bắt chuyện, mở lời với ai. 話しかけないでください = đừng nói chuyện với tôi lúc này.",
+"tr": "Tôi đang bận việc nên giờ đừng bắt chuyện với tôi."
+},
+{
+"id": "jt4y:1614-1",
+"t": "grammar_form",
+"q": "田中「何してるの？」 / 中野「友達が来る　_______　を待っているのよ。」",
+"ans": "の",
+"note": "Vるのを待つ = đợi việc gì xảy ra; với 待つ dùng の, không dùng こと.",
+"tr": "Tanaka: Đang làm gì đấy? Nakano: Tớ đang đợi bạn đến."
+},
+{
+"id": "jt4y:1614-2",
+"t": "grammar_form",
+"q": "彼は全科目　_______　優秀な成績を獲得した。",
+"ans": "にわたって",
+"note": "Nにわたって = trải rộng trên toàn bộ phạm vi N (全科目にわたって = khắp mọi môn).",
+"tr": "Anh ấy đạt thành tích xuất sắc ở tất cả các môn."
+},
+{
+"id": "jt4y:1614-3",
+"t": "grammar_form",
+"q": "この学校は成績に　_______　クラスを決めます。",
+"ans": "もとづいて",
+"note": "Nにもとづいて = dựa trên cơ sở N. Có に phía trước nên không dùng をもとに.",
+"tr": "Trường này quyết định lớp dựa trên thành tích."
+},
+{
+"id": "jt4y:1614-4",
+"t": "grammar_form",
+"q": "この画家の描く絵はまるで写真の　_______　。",
+"ans": "ようだ",
+"note": "まるで〜のようだ = cứ như là. Chú ý cách nối: Nのようだ nhưng Nみたいだ (không có の).",
+"tr": "Tranh họa sĩ này vẽ cứ như ảnh chụp vậy."
+},
+{
+"id": "jt4y:1614-5",
+"t": "grammar_form",
+"q": "そばは、ラーメンやスパゲッティ　_______　カロリーが低い。",
+"ans": "にくらべて",
+"note": "Nにくらべて = so với N. Câu có so sánh 'thấp' → にくらべて.",
+"tr": "Mì soba có lượng calo thấp so với ramen hay spaghetti."
+},
+{
+"id": "jt4y:1614-6",
+"t": "sentence_order",
+"q": "ただいま、この番組　_______　　_______　…★… _______　ご要望を募集しております。",
+"ans": "ご意見や",
+"note": "Câu đúng: この番組に対する視聴者の皆様のご意見やご要望を募集しております。★ = ご意見や. (?) Đáp án nguồn có thể sai: theo thứ tự này vị trí 3 là 皆様の.",
+"tr": "Hiện chúng tôi đang thu thập ý kiến, yêu cầu của quý khán giả về chương trình này."
+},
+{
+"id": "jt4y:1614-7",
+"t": "sentence_order",
+"q": "すみませんが、あした配達してもらいたいんですけど…」 / 「申し訳ありませんが、翌日配達の受付は　_______　　_______　…★… _______　おりまして…」",
+"ans": "と",
+"note": "Câu đúng: 翌日配達の受付は4時までとなっておりまして。★ = と. 〜までとなっております = quy định là đến..., cách nói lịch sự.",
+"tr": "Xin lỗi, tôi muốn được giao hàng vào ngày mai... – Rất tiếc, việc nhận đơn giao hàng hôm sau chỉ đến 4 giờ thôi ạ..."
+},
+{
+"id": "jt4y:1614-8",
+"t": "sentence_order",
+"q": "営業成績に　_______　　_______　…★… _______　決めましょう。",
+"ans": "上げるか",
+"note": "Câu đúng: 営業成績に基づいて給料を上げるかどうか決めましょう。★ = 上げるか. Vるかどうか決める = quyết định có... hay không.",
+"tr": "Hãy quyết định có tăng lương hay không dựa trên thành tích kinh doanh."
+},
+{
+"id": "jt4y:1614-9",
+"t": "sentence_order",
+"q": "必ず　_______　　_______　…★… _______　すっかり忘れていた。",
+"ans": "会議の資料の",
+"note": "Câu đúng: 必ず今日中に作らなくてはいけない会議の資料のことをすっかり忘れていた。★ = 会議の資料の. Mệnh đề dài bổ nghĩa cho 資料; Nのことを忘れる.",
+"tr": "Tôi quên béng mất việc nhất định phải làm tài liệu họp trong hôm nay."
+},
+{
+"id": "jt4y:1614-10",
+"t": "sentence_order",
+"q": "学者　_______　　_______　…★… _______　違います。",
+"ans": "に対する",
+"note": "Câu đúng: 学者によって温暖化に対する意見が違います。★ = に対する. Nによって違う = khác nhau tùy N; Nに対する意見 = ý kiến về N.",
+"tr": "Tùy từng học giả mà ý kiến về sự nóng lên toàn cầu lại khác nhau."
+},
+{
+"id": "jt4y:1616-1",
+"t": "grammar_form",
+"q": "買った_____なのに、ボタンが取れそうだ。どうしたらいいか。",
+"ans": "ばかり",
+"note": "Vたばかり = vừa mới (cảm giác chủ quan 'mới đây thôi'). ばかりなのに = vừa mới... thế mà.",
+"tr": "Vừa mới mua mà cúc đã sắp rơi ra. Làm sao bây giờ?"
+},
+{
+"id": "jt4y:1616-2",
+"t": "grammar_form",
+"q": "「皆さんは、インターネットに40年以上の歴史があることを　____　か？」",
+"ans": "ご存じです",
+"note": "ご存じですか = tôn kính của 知っていますか, dùng khi hỏi người nghe.",
+"tr": "Quý vị có biết rằng Internet đã có lịch sử hơn 40 năm không?"
+},
+{
+"id": "jt4y:1616-3",
+"t": "grammar_form",
+"q": "せっかく試合に勝てそうだったのに負けてしまって残念で　_______　。",
+"ans": "たまらない",
+"note": "A-adj/な-adj＋て＋たまらない = ... đến mức không chịu được (cảm xúc mạnh). 残念でたまらない.",
+"tr": "Tưởng đã thắng trận đến nơi mà lại thua, tiếc không chịu nổi."
+},
+{
+"id": "jt4y:1616-4",
+"t": "grammar_form",
+"q": "夕方ケーキ屋に行ったら、ほとんど売り切れていて、チョコレートケーキとチーズケーキが一個　____　が残っていなかった。",
+"ans": "ずつしか",
+"note": "一個ずつ = mỗi loại một cái; しか〜ない = chỉ. Phía sau là phủ định 残っていなかった nên phải dùng しか.",
+"tr": "Chiều đến tiệm bánh thì gần hết sạch, bánh socola và bánh phô mai chỉ còn mỗi loại một cái."
+}
+]

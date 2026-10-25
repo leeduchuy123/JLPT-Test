@@ -114,6 +114,21 @@ export async function loadRefs() {
   return { vocab, kanji, grammar };
 }
 
+/* ----- mẫu ngữ pháp (data/grammar.json, build từ câu hỏi bunpo) ----- */
+let grammarCache = null;
+export async function loadGrammar() {
+  if (grammarCache) return grammarCache;
+  let raw;
+  try { raw = await fetchJSON('/data/grammar.json'); } catch { raw = { points: [], groups: [] }; }
+  const byId = new Map(raw.points.map(p => [p.id, p]));
+  const byQid = new Map();
+  for (const p of raw.points) for (const qid of p.qids) (byQid.get(qid) || byQid.set(qid, []).get(qid)).push(p);
+  grammarCache = { ...raw, byId, byQid };
+  return grammarCache;
+}
+/** Mẫu ngữ pháp mà một câu hỏi kiểm tra (cần gọi sau loadGrammar). */
+export const grammarOfQ = (qid) => (grammarCache?.byQid.get(qid)) || [];
+
 let refIndex = null;
 async function buildRefIndex() {
   if (refIndex) return refIndex;

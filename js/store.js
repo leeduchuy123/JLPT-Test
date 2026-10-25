@@ -23,6 +23,7 @@ const DEFAULTS = () => ({
   stats: {},     // qid -> {n, c, last, w, u?} (compact per-question stats)
   history: [],   // finished sessions
   srs: {},       // qid -> card (+ u: lúc sửa cuối)
+  gcards: {},    // mã mẫu ngữ pháp -> thẻ SRS (như srs, thêm u)
   notes: {},     // qid -> text
   inProgress: {},// sessionId -> session
   daily: {},     // 'YYYY-MM-DD' -> {answered, correct, secs, by: {deviceId: {a, c, s}}}
@@ -144,6 +145,22 @@ export function allCards() {
   return Object.entries(state.srs).map(([qid, c]) => ({ qid, ...c })).sort((a, b) => a.due - b.due);
 }
 
+/* ----- thẻ ngữ pháp (Học thẻ): cùng lịch lặp với srs.js ----- */
+export const gcardOf = (pid) => state.gcards[pid] || null;
+export function gradeGrammar(pid, grade) {
+  const card = state.gcards[pid] || srs.newCard(Date.now(), 'grammar');
+  const next = srs.review(card, grade);
+  next.u = Date.now();
+  state.gcards[pid] = next;
+  commit();
+  return next;
+}
+export function resetGrammar(pid) { delete state.gcards[pid]; tomb('gcards', pid); commit(); }
+export const allGrammarCards = () => Object.entries(state.gcards).map(([pid, c]) => ({ pid, ...c }));
+export function dueGrammar(now = Date.now()) {
+  return allGrammarCards().filter(c => srs.isDue(c, now)).sort((a, b) => a.due - b.due);
+}
+
 /* ----- notes ----- */
 export const noteOf = (qid) => state.notes[qid] || '';
 export function setNote(qid, text) {
@@ -234,6 +251,7 @@ export function summarize(obj) {
   return {
     answered: n(obj.stats),
     srs: n(obj.srs),
+    gcards: n(obj.gcards),
     notes: n(obj.notes),
     tests: (obj.history || []).length,
     days: Object.values(obj.daily || {}).filter(d => d && d.answered > 0).length,

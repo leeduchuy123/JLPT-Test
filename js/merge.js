@@ -1,6 +1,6 @@
 /* ---------- Gộp hai bản tiến độ (đồng bộ nhiều thiết bị) ----------
    Hàm thuần, không dùng DOM, nên chạy được cả trong Node để test.
-   - stats / srs / notes / inProgress: mỗi mục giữ bản sửa sau cùng; mục đã xoá (meta.del) chỉ sống lại
+   - stats / srs / gcards (thẻ ngữ pháp) / notes / inProgress: mỗi mục giữ bản sửa sau cùng; mục đã xoá (meta.del) chỉ sống lại
      nếu được sửa sau lúc xoá.
    - history: hợp theo id, bỏ bài đã xoá, giữ HISTORY_CAP bài mới nhất.
    - daily: mỗi thiết bị một bộ đếm riêng (by[device]) → lấy bản lớn nhất của từng thiết bị rồi cộng lại,
@@ -17,6 +17,7 @@ const GENESIS = { id: '0', at: 0 };
 const timeOf = {
   stats: (s) => Math.max(s.u || 0, s.last || 0),
   srs: (c) => c.u || Math.max(c.last || 0, c.added || 0),
+  gcards: (c) => c.u || Math.max(c.last || 0, c.added || 0),
   notes: (_, id, meta) => meta.noteAt[id] || 0,
   inProgress: (s) => s.updatedAt || s.createdAt || s.startedAt || 0,
 };

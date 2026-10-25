@@ -10,6 +10,7 @@ const pages = {
   '/drill': () => import('./pages/drill.js'),
   '/review': () => import('./pages/review.js'),
   '/progress': () => import('./pages/progress.js'),
+  '/grammar': () => import('./pages/grammar.js'),
   '/ref': () => import('./pages/ref.js'),
   '/settings': () => import('./pages/settings.js'),
 };
@@ -63,6 +64,8 @@ export function updateNavBadge() {
   if (!el) return;
   el.textContent = n;
   el.hidden = n === 0;
+  const g = $('#nav-gdue');
+  if (g) { const m = store.dueGrammar().length; g.textContent = m; g.hidden = m === 0; }
 }
 
 /* ----- footer: trạng thái lưu / đồng bộ ----- */
@@ -94,6 +97,7 @@ updateFooter();
 window.addEventListener('hashchange', () => render());
 if (document.readyState === 'loading') window.addEventListener('DOMContentLoaded', () => render()); else render();
 document.addEventListener('srs-changed', updateNavBadge);
+document.addEventListener('gcards-changed', updateNavBadge);
 document.addEventListener('sync-status', updateFooter);
 document.addEventListener('sync-applied', () => {
   // dữ liệu từ máy khác vừa về: vẽ lại các trang chỉ-xem; trang đang làm bài thì giữ nguyên

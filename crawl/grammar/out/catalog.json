@@ -1,0 +1,7234 @@
+[
+ {
+  "id": "tte",
+  "pattern": "〜って",
+  "reading": "",
+  "formula": "Câu + って言う / N + って",
+  "meaning_vi": "Là 'bảo rằng/nghe nói' (trích dẫn), và là cách nói thân mật của というのは/は",
+  "explain_vi": "Trong văn nói, って thay と trước 言う/思う/聞く để trích dẫn, và đứng sau danh từ để nêu chủ đề (田中さんってどんな人?) hoặc gọi tên (『…』って本屋 = hiệu sách tên là…). Là dạng suồng sã của と/という/は nên ít dùng trong văn viết.",
+  "group": "Trợ từ",
+  "confusable": [
+   "to-iu",
+   "to-omou"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201007-grammar-1",
+   "jlptpt:n3-201107-grammar-4",
+   "jlptpt:n3-201912-grammar-2",
+   "jlptpt:n3-202207-grammar-2",
+   "challenge:N3G0092"
+  ]
+ },
+ {
+  "id": "tabini",
+  "pattern": "〜たびに",
+  "reading": "",
+  "formula": "V-る / Nの + たびに",
+  "meaning_vi": "Mỗi lần … lại …",
+  "explain_vi": "Diễn tả cứ mỗi lần một sự việc xảy ra thì kèm theo một sự việc khác (thường là cảm xúc, hành động lặp lại). Vế sau hay có いつも/必ず. Gần nghĩa với 〜ごとに nhưng たびに nhấn vào 'mỗi lần xảy ra'.",
+  "group": "Thời gian",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201007-grammar-2",
+   "jlptpt:n3-202112-grammar-5",
+   "jlptpt:n3-202407-grammar-5",
+   "challenge:N3G0204",
+   "challenge:N3G0145"
+  ]
+ },
+ {
+  "id": "itsunomanika",
+  "pattern": "いつの間にか",
+  "reading": "",
+  "formula": "いつの間にか + V",
+  "meaning_vi": "Lúc nào không hay, chẳng biết tự bao giờ",
+  "explain_vi": "Dùng khi một sự việc/trạng thái thay đổi mà người nói không nhận ra thời điểm xảy ra, vế sau thường ở thể quá khứ hoặc kết quả (経ってしまった, 暗くなっていた). Thường đi với mải làm việc gì đó.",
+  "group": "Thời gian",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201007-grammar-3",
+   "jlptpt:n3-201912-grammar-3",
+   "jlptpt:n3-202107-grammar-2",
+   "dethitiengnhat:N3-3-3-q6",
+   "dethitiengnhat:N3-30-3-q3"
+  ]
+ },
+ {
+  "id": "koto-ni-naru",
+  "pattern": "〜ことになる / 〜ことになっている",
+  "reading": "",
+  "formula": "V-る/V-ない + ことになる(ことになっている)",
+  "meaning_vi": "Được quyết định là…; theo quy định/lịch thì…",
+  "explain_vi": "ことになる diễn tả quyết định mang tính khách quan (do hoàn cảnh, tổ chức quyết định), ことになっている là quy tắc/lịch trình đã định sẵn. Trước đó dùng thể từ điển hoặc thể ない. Khác với ことにする (tự mình quyết định).",
+  "group": "Quyết định/Quy định",
+  "confusable": [
+   "koto-ni-suru"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201007-grammar-4",
+   "jlptpt:n3-201612-grammar-8",
+   "dethitiengnhat:N3-2-3-q1",
+   "dethitiengnhat:N3-4-3-q2",
+   "nihongopro:d3befa57a5-1"
+  ]
+ },
+ {
+  "id": "you-ni-iu",
+  "pattern": "〜ように言う",
+  "reading": "",
+  "formula": "V-る/V-ない + ように + 言う/頼む/注意する",
+  "meaning_vi": "Bảo/dặn/yêu cầu ai làm (đừng làm) gì",
+  "explain_vi": "Dùng để thuật lại gián tiếp lời mệnh lệnh, nhờ vả, khuyên bảo. Trước ように là thể từ điển hoặc ない. Cũng gặp 〜ないように(と)言われた để dặn dò, nhắc nhở.",
+  "group": "Cách nói gián tiếp",
+  "confusable": [
+   "youni-mokuteki",
+   "meirei-kinshi"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201007-grammar-5",
+   "jlptpt:n3-201512-grammar-8",
+   "challenge:N3G0067",
+   "jt4y:63-2",
+   "mlc:n3_jlpt_grammar_quiz_09-q2"
+  ]
+ },
+ {
+  "id": "aida",
+  "pattern": "〜間",
+  "reading": "",
+  "formula": "V-ている/N の + 間",
+  "meaning_vi": "Trong suốt khoảng thời gian…",
+  "explain_vi": "あいだ (không có に) dùng khi hành động ở vế sau kéo dài suốt khoảng thời gian đó. Nếu vế sau là hành động xảy ra tức thời trong khoảng thời gian đó thì phải dùng 間に.",
+  "group": "Thời gian",
+  "confusable": [
+   "aida-ni",
+   "uchi-ni"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201007-grammar-6",
+   "challenge:N3G0073",
+   "japanesequizzes:grammar-1-6356",
+   "japanesequizzes:grammar-3-6385",
+   "japanesequizzes:grammar-28-6759"
+  ]
+ },
+ {
+  "id": "gozaimasu",
+  "pattern": "ございます / でございます",
+  "reading": "",
+  "formula": "N + がございます / N + でございます",
+  "meaning_vi": "Có/là (dạng lịch sự của あります/です)",
+  "explain_vi": "ございます là lịch sự ngữ của ある (vật, địa điểm), でございます là của です. Dùng trong dịch vụ, nói với khách. Không dùng cho người (người dùng いらっしゃる/おります).",
+  "group": "Kính ngữ",
+  "confusable": [
+   "sonkei",
+   "kenjou"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201007-grammar-7",
+   "jlptpt:n3-201307-grammar-9",
+   "jlptpt:n3-201407-grammar-7",
+   "jlptpt:n3-201512-grammar-7",
+   "jlptpt:n3-202312-grammar-11"
+  ]
+ },
+ {
+  "id": "ni-suru",
+  "pattern": "〜にする",
+  "reading": "",
+  "formula": "N + にする",
+  "meaning_vi": "Chọn/quyết định là N",
+  "explain_vi": "Dùng khi chọn một thứ trong nhiều lựa chọn (コーヒーにする = tôi chọn cà phê). Thêm だけ để giới hạn (コーヒーだけにする). Khác với になる (trở thành, thay đổi tự nhiên).",
+  "group": "Quyết định/Quy định",
+  "confusable": [
+   "koto-ni-suru"
+  ],
+  "examples_qids": [
+   "dethitiengnhat:N3-11-3-q13",
+   "jlptpt:n3-201007-grammar-8",
+   "dethitiengnhat:N3-9-3-q12",
+   "mlc:n3_01_08-q1",
+   "japanesequizzes:grammar-8-6467"
+  ]
+ },
+ {
+  "id": "you-ni-naru",
+  "pattern": "〜ようになる",
+  "reading": "",
+  "formula": "V-る/V-られる/V-ない + ようになる",
+  "meaning_vi": "Trở nên (có thể/làm)… ; dần dần không còn…",
+  "explain_vi": "Diễn tả sự thay đổi trạng thái, thói quen hoặc khả năng theo thời gian, không phải do ý chí. Phủ định: 〜ないようになる/〜なくなる. Khác ようにする (cố gắng chủ ý).",
+  "group": "Biến đổi",
+  "confusable": [
+   "you-ni-suru",
+   "naku-naru"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201007-grammar-9",
+   "jlptpt:n3-201112-grammar-13",
+   "gyanmirai:grammar-2-19",
+   "jt4y:57-8",
+   "jt4y:1581-1"
+  ]
+ },
+ {
+  "id": "te-kara",
+  "pattern": "〜てから",
+  "reading": "",
+  "formula": "V-て + から",
+  "meaning_vi": "Sau khi…, kể từ khi…",
+  "explain_vi": "Nhấn mạnh thứ tự: sau khi làm xong A thì mới B, hoặc mốc thời gian bắt đầu từ A (〜てから一年がたつ). Khác 〜たあとで (trung tính, không nhấn mạnh trình tự bắt buộc).",
+  "group": "Thời gian",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201707-grammar-11",
+   "jlptpt:n3-201812-grammar-11",
+   "jlptpt:n3-201912-grammar-11",
+   "jlptpt:n3-202412-grammar-7",
+   "dethitiengnhat:N3-9-3-q13"
+  ]
+ },
+ {
+  "id": "ni-tsuite",
+  "pattern": "〜について",
+  "reading": "",
+  "formula": "N + について",
+  "meaning_vi": "Về, liên quan đến N",
+  "explain_vi": "Chỉ chủ đề của việc nói, nghĩ, điều tra, hỏi (〜について知りたい/話す). Khác によって (tùy theo) và に対して (đối với).",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [
+   "ni-taishite",
+   "ni-yotte"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201007-grammar-10",
+   "challenge:N3G0232",
+   "jt4y:49-10",
+   "jt4y:1581-7",
+   "dethitiengnhat:N3-6-3-q2"
+  ]
+ },
+ {
+  "id": "ka-gimon",
+  "pattern": "〜か(間接疑問)",
+  "reading": "",
+  "formula": "Từ nghi vấn + 〜のか / 〜か + V (知りたい、わかる、教える…)",
+  "meaning_vi": "Câu hỏi lồng (gián tiếp)",
+  "explain_vi": "Khi trong câu lồng có từ để hỏi (何, どう, いつ, どれだけ…) thì kết thúc bằng か/のか, không dùng かどうか. Nếu không có từ để hỏi thì dùng かどうか. Thường đi với 知りたい, わからない, 教える, 考える.",
+  "group": "Mệnh đề lồng",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201212-grammar-4",
+   "jlptpt:n3-201412-grammar-11",
+   "jlptpt:n3-201507-grammar-11",
+   "jlptpt:n3-201512-grammar-3",
+   "dethitiengnhat:N3-11-3-q7"
+  ]
+ },
+ {
+  "id": "sugiru",
+  "pattern": "〜すぎる",
+  "reading": "",
+  "formula": "V-ます / A-い(bỏ い) / A-な + すぎる",
+  "meaning_vi": "Quá…, làm gì quá mức",
+  "explain_vi": "Diễn tả mức độ vượt quá giới hạn thích hợp, thường mang sắc thái không tốt. Dạng 〜くなりすぎる = trở nên quá…. Kết hợp 〜てしまう để nhấn mạnh sự tiếc nuối.",
+  "group": "Mức độ",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201007-grammar-11",
+   "jlptpt:n3-201312-grammar-13",
+   "jlptpt:n3-201412-grammar-12",
+   "jlptpt:n3-202112-grammar-12",
+   "jt4y:1501-2"
+  ]
+ },
+ {
+  "id": "saseru",
+  "pattern": "〜させる(使役)",
+  "reading": "",
+  "formula": "V-させる / V-させてやる・あげる",
+  "meaning_vi": "Bắt/cho phép/làm cho ai làm gì",
+  "explain_vi": "Thể sai khiến: bắt buộc hoặc cho phép (tùy ngữ cảnh), hoặc làm cho ai đó có cảm xúc (びっくりさせる). Kết hợp あげる/やる = cho phép (行かせてあげる), 〜させないでください = đừng làm tôi…",
+  "group": "Thể (voice)",
+  "confusable": [
+   "saserareru",
+   "sasete-itadaku"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-202012-grammar-10",
+   "jlptpt:n3-202312-grammar-8",
+   "dethitiengnhat:N3-8-3-q10",
+   "nihongopro:f394701a3f-2",
+   "jt4y:1622-5"
+  ]
+ },
+ {
+  "id": "ba-ii",
+  "pattern": "〜ばいい",
+  "reading": "",
+  "formula": "V-ば + いい",
+  "meaning_vi": "Chỉ cần… là được; nên…",
+  "explain_vi": "Diễn tả lời khuyên, đề xuất cách làm đơn giản ('nên làm thế này'). Hay đi với どうすればいい (làm thế nào thì tốt). Dạng 〜ばよかった = biết thế đã… (hối tiếc).",
+  "group": "Thể điều kiện",
+  "confusable": [
+   "tara-dou",
+   "hou-ga-ii"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201007-grammar-13",
+   "tryjlpt:34-1480318325327",
+   "jt4y:53-1",
+   "jt4y:59-5",
+   "mlc:n3_jlpt_grammar_quiz_10-q8"
+  ]
+ },
+ {
+  "id": "temo",
+  "pattern": "〜ても",
+  "reading": "",
+  "formula": "V-て/A-くて/N で + も",
+  "meaning_vi": "Dù… cũng…",
+  "explain_vi": "Diễn tả điều kiện nghịch: dù làm A thì kết quả B vẫn không đổi hoặc trái với kỳ vọng. Đi với いくら/たとえ/何度. Câu hỏi が/なんでも…ても = không thành vấn đề.",
+  "group": "Điều kiện nghịch",
+  "confusable": [
+   "toshitemo",
+   "noni"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201612-grammar-10",
+   "challenge:N3G0074",
+   "challenge:N3G0085",
+   "challenge:N3G0167",
+   "dethitiengnhat:N3-1-3-q11"
+  ]
+ },
+ {
+  "id": "sonkei",
+  "pattern": "尊敬語(いらっしゃる・ご覧になる・お〜になる…)",
+  "reading": "",
+  "formula": "お/ご + V-ます + になる / れる・られる / いらっしゃる・おっしゃる・ご覧になる…",
+  "meaning_vi": "Tôn kính ngữ: nâng hành động của người trên",
+  "explain_vi": "Dùng cho hành động của người trên (thầy, khách, cấp trên). Các dạng: お〜になる, お〜ください, đặc biệt: いらっしゃる, おっしゃる, ご覧になる, なさる, くださる, ご存じだ. Dễ nhầm với khiêm nhường ngữ (hạ mình), dùng cho hành động của bản thân.",
+  "group": "Kính ngữ",
+  "confusable": [
+   "kenjou"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201412-grammar-7",
+   "jlptpt:n3-201607-grammar-7",
+   "jlptpt:n3-202407-grammar-13",
+   "dethitiengnhat:N3-3-3-q1",
+   "dethitiengnhat:N3-3-3-q13"
+  ]
+ },
+ {
+  "id": "darou-to-omou",
+  "pattern": "〜だろうと思う",
+  "reading": "",
+  "formula": "普通形 + だろうと思う",
+  "meaning_vi": "Tôi nghĩ chắc là…",
+  "explain_vi": "Phỏng đoán chủ quan của chính người nói (không dựa vào thông tin nghe được). Khác らしい/そうだ (thông tin bên ngoài) hay はず (có căn cứ).",
+  "group": "Phỏng đoán",
+  "confusable": [
+   "kamoshirenai",
+   "hazu"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201207-grammar-3",
+   "jt4y:1573-6",
+   "jlptpt:n3-201007-grammar-16"
+  ]
+ },
+ {
+  "id": "tabakari",
+  "pattern": "〜たばかり",
+  "reading": "",
+  "formula": "V-た + ばかり(だ/の)",
+  "meaning_vi": "Vừa mới làm xong…",
+  "explain_vi": "Diễn tả hành động vừa kết thúc cách đây không lâu theo cảm giác của người nói (không nhất thiết đo bằng thời gian). Thường đi với さっき, 先月. Hay gặp mẫu 〜たばかりなのに (vừa mới… vậy mà…).",
+  "group": "Thời gian",
+  "confusable": [
+   "tokoro",
+   "bakari"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201212-grammar-9",
+   "jlptpt:n3-201412-grammar-3",
+   "jlptpt:n3-202412-grammar-4",
+   "challenge:N3G0090",
+   "challenge:N3G0210"
+  ]
+ },
+ {
+  "id": "to-iu",
+  "pattern": "〜という",
+  "reading": "",
+  "formula": "Mệnh đề/N + という + N / 〜ということ",
+  "meaning_vi": "Gọi là…; rằng…; (N) có nội dung là…",
+  "explain_vi": "Dùng để gọi tên, giải thích nội dung cho danh từ (という点で, という案, ということを忘れる) hoặc trích dẫn nhẹ (などという, というような = kiểu như là). Mệnh đề trước という dùng thể thường.",
+  "group": "Mệnh đề/Danh từ hoá",
+  "confusable": [
+   "tte",
+   "to-omou"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201307-grammar-1",
+   "dethitiengnhat:N3-2-3-q2",
+   "tryjlpt:19-1480124462722",
+   "tryjlpt:16-1480049220231",
+   "jt4y:51-7"
+  ]
+ },
+ {
+  "id": "tokoroga",
+  "pattern": "ところが",
+  "reading": "",
+  "formula": "文 + ところが + 文",
+  "meaning_vi": "Thế nhưng, vậy mà (trái với dự đoán)",
+  "explain_vi": "Liên từ nối hai câu có nội dung trái ngược với kỳ vọng ở câu trước (kết quả bất ngờ). Khác しかし (đối lập chung) ở chỗ vế sau là sự thật khác với dự đoán.",
+  "group": "Liên từ",
+  "confusable": [
+   "shikashi"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201007-grammar-19",
+   "tryjlpt:23-1480149460129",
+   "jlptpt:n3-201307-grammar-20",
+   "dethitiengnhat:N3-1-3-q19"
+  ]
+ },
+ {
+  "id": "no-desu",
+  "pattern": "〜のです/〜んです",
+  "reading": "",
+  "formula": "普通形 + のです(んです)",
+  "meaning_vi": "Giải thích, nhấn mạnh lý do/hoàn cảnh",
+  "explain_vi": "Dùng để giải thích lý do, bối cảnh, hoặc xin giải thích; ở cuối đoạn thể hiện người viết khẳng định sự thật. 〜のでしょうか = hỏi nhẹ nhàng/tự hỏi.",
+  "group": "Mẫu cuối câu",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-202407-grammar-10",
+   "dethitiengnhat:N3-11-3-q3",
+   "tryjlpt:24-1480134597869",
+   "gyanmirai:grammar-11-8",
+   "jlptpt:n3-201107-grammar-23"
+  ]
+ },
+ {
+  "id": "kosoado",
+  "pattern": "こ・そ・あ・ど(指示語)",
+  "reading": "",
+  "formula": "この/その/あの/どの・こんな/そんな/あんな・こう/そう/ああ",
+  "meaning_vi": "Từ chỉ định: này/đó/kia",
+  "explain_vi": "こ = gần người nói/sắp nói đến, そ = nhắc lại điều vừa nói (chỉ lại nội dung đã xuất hiện), あ = cả hai cùng biết. Danh từ phải đi với この/その/あの, phó từ đi với こう/そう/ああ. Hay ra thi trong đoạn văn để chọn từ chỉ lại nội dung trước.",
+  "group": "Chỉ định",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201412-grammar-4",
+   "jlptpt:n3-201607-grammar-4",
+   "tryjlpt:33-1480304093509",
+   "tryjlpt:27-1480145042155",
+   "tryjlpt:24-1480134748682"
+  ]
+ },
+ {
+  "id": "te-iru",
+  "pattern": "〜ている",
+  "reading": "",
+  "formula": "V-て + いる",
+  "meaning_vi": "Đang…; ở trạng thái…",
+  "explain_vi": "Diễn tả hành động đang tiếp diễn, trạng thái kết quả (結婚している), thói quen, hoặc trạng thái tại một thời điểm (〜ていなかった = lúc đó chưa…). まだ〜ている = vẫn đang.",
+  "group": "Thể/Aspect",
+  "confusable": [
+   "te-kuru"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201212-grammar-3",
+   "jlptpt:n3-201407-grammar-6",
+   "jlptpt:n3-201812-grammar-7",
+   "jlptpt:n3-202012-grammar-7",
+   "jlptpt:n3-202112-grammar-9"
+  ]
+ },
+ {
+  "id": "dakara",
+  "pattern": "だから / ですから",
+  "reading": "",
+  "formula": "文 + だから/ですから + 文",
+  "meaning_vi": "Cho nên…",
+  "explain_vi": "Liên từ chỉ lý do – hệ quả: câu trước nêu nguyên nhân, câu sau là kết quả/ý chí. Gần nghĩa với そのため, それで.",
+  "group": "Liên từ",
+  "confusable": [
+   "sokode"
+  ],
+  "examples_qids": [
+   "nihongopro:0565d33107-4",
+   "tryjlpt:27-1480146935083",
+   "jlptpt:n3-201007-grammar-22"
+  ]
+ },
+ {
+  "id": "mou-nai",
+  "pattern": "もう〜ない",
+  "reading": "",
+  "formula": "もう + V-ない",
+  "meaning_vi": "Không còn… nữa",
+  "explain_vi": "Diễn tả việc đã từng xảy ra/được kỳ vọng nhưng nay không còn nữa (もうおどろかない = giờ không ngạc nhiên nữa). Đừng nhầm với まだ〜ない (vẫn chưa).",
+  "group": "Phó từ",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201007-grammar-23",
+   "dethitiengnhat:N3-1-3-q23"
+  ]
+ },
+ {
+  "id": "youni-mokuteki",
+  "pattern": "〜ように(目的)",
+  "reading": "",
+  "formula": "V-可能形・ない形・自動詞 + ように",
+  "meaning_vi": "Để (có thể…) / để không…",
+  "explain_vi": "Chỉ mục đích khi vế trước là việc không do ý chí điều khiển trực tiếp (thể khả năng, ない, tự động từ). ために dùng với động từ ý chí cùng chủ ngữ.",
+  "group": "Mục đích",
+  "confusable": [
+   "tame-ni"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201107-grammar-1",
+   "jlptpt:n3-201407-grammar-13",
+   "challenge:N3G0069",
+   "nihongopro:21575a14a4-4",
+   "nihongopro:0565d33107-5"
+  ]
+ },
+ {
+  "id": "sou-mo-nai",
+  "pattern": "〜そうもない / 〜そうにない",
+  "reading": "",
+  "formula": "V-ます + そうもない/そうにない",
+  "meaning_vi": "Có vẻ khó mà…, không có vẻ gì sẽ…",
+  "explain_vi": "Phủ định của dự đoán 〜そうだ: nhìn tình hình thì không có khả năng xảy ra. Trước そう là gốc ます (V thể khả năng thường dùng).",
+  "group": "Phỏng đoán",
+  "confusable": [
+   "sou-yousu"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201107-grammar-2",
+   "jlptpt:n3-202307-grammar-11",
+   "jlptpt:n3-202312-grammar-7",
+   "dethitiengnhat:N3-8-3-q8",
+   "dethitiengnhat:N3-32-3-q12"
+  ]
+ },
+ {
+  "id": "no-koto-de",
+  "pattern": "Nのことで",
+  "reading": "",
+  "formula": "N + のことで + 悩む/困る/けんか…",
+  "meaning_vi": "Vì chuyện N",
+  "explain_vi": "Chỉ nguyên nhân/đề tài của sự phiền não, tranh cãi, trao đổi. Thường dùng với 悩む, 困る, 相談する, けんかする.",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [
+   "ni-tsuite"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201107-grammar-3",
+   "jlptpt:n3-202412-grammar-2",
+   "dethitiengnhat:N3-9-3-q2"
+  ]
+ },
+ {
+  "id": "gimonshi-ka",
+  "pattern": "疑問詞+か(不定)",
+  "reading": "",
+  "formula": "いつか/どこか/何か/誰か/どれか",
+  "meaning_vi": "Một lúc nào đó, ở đâu đó, cái gì đó (không xác định)",
+  "explain_vi": "Từ để hỏi + か tạo thành từ phiếm định. いつか + ý muốn/dự định = một ngày nào đó. Khác 疑問詞+も (không… nào) và 疑問詞+でも (bất cứ).",
+  "group": "Từ nghi vấn",
+  "confusable": [
+   "gimonshi-demo"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201912-grammar-4",
+   "jlptpt:n3-201107-grammar-5",
+   "jt4y:1577-5"
+  ]
+ },
+ {
+  "id": "nanka",
+  "pattern": "なんか",
+  "reading": "",
+  "formula": "N + なんか",
+  "meaning_vi": "… chẳng hạn; thứ như là…",
+  "explain_vi": "Dạng thân mật của など, dùng để gợi ý ví dụ (これなんかどう?) hoặc hạ thấp (私なんか). Văn nói.",
+  "group": "Trợ từ",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0132",
+   "challenge:N3G0016",
+   "dethitiengnhat:N3-31-3-q9",
+   "jlptpt:n3-201107-grammar-6",
+   "mlc:n3_jlpt_grammar_quiz_01-q4"
+  ]
+ },
+ {
+  "id": "garu",
+  "pattern": "〜がる",
+  "reading": "",
+  "formula": "A-い/A-な(bỏ い) / ほしい + がる",
+  "meaning_vi": "Tỏ ra (muốn/thích/sợ…) — ngôi thứ ba",
+  "explain_vi": "Dùng khi nói về cảm xúc, mong muốn bên ngoài của người khác (欲しがる, 嫌がる, 怖がる). Tân ngữ đi với を. Ngôi thứ nhất dùng tính từ gốc (ほしい, いや).",
+  "group": "Cảm xúc",
+  "confusable": [
+   "te-hoshii"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201307-grammar-7",
+   "jlptpt:n3-201707-grammar-5",
+   "jlptpt:n3-202312-grammar-10",
+   "challenge:N3G0079",
+   "dethitiengnhat:N3-8-3-q13"
+  ]
+ },
+ {
+  "id": "kenjou",
+  "pattern": "謙譲語(伺う・申す・いたす・お目にかかる…)",
+  "reading": "",
+  "formula": "お/ご + V-ます + する・いたす / 伺う・申し上げる・いただく・さしあげる・お目にかかる…",
+  "meaning_vi": "Khiêm nhường ngữ: hạ mình khi nói về hành động của bản thân",
+  "explain_vi": "Dùng cho hành động của chính mình hướng tới người trên: 伺う (đến/hỏi), 申す/申し上げる (nói), いたす (làm), 拝見する (xem), いただく (nhận/ăn), さしあげる (cho), お目にかかる (gặp). Đừng dùng cho hành động của người trên.",
+  "group": "Kính ngữ",
+  "confusable": [
+   "sonkei"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201112-grammar-9",
+   "dethitiengnhat:N3-1-3-q1",
+   "dethitiengnhat:N3-7-3-q2",
+   "nihongopro:21575a14a4-2",
+   "nihongopro:13d461a03c-2"
+  ]
+ },
+ {
+  "id": "tara-dou",
+  "pattern": "〜たらどう",
+  "reading": "",
+  "formula": "V-たら + どうですか/どうでしょう",
+  "meaning_vi": "Thử… thì sao?",
+  "explain_vi": "Dùng để gợi ý, khuyên nhẹ nhàng. 〜てみたらどうですか = sao anh không thử…. Thân mật: 〜たらどう?",
+  "group": "Gợi ý/Khuyên",
+  "confusable": [
+   "ba-ii",
+   "hou-ga-ii"
+  ],
+  "examples_qids": [
+   "challenge:N3G0091",
+   "jlptpt:n3-201107-grammar-9",
+   "tryjlpt:14-1479549437860",
+   "jt4y:1579-3",
+   "jlptpt:n3-202207-grammar-16"
+  ]
+ },
+ {
+  "id": "dake",
+  "pattern": "〜だけ",
+  "reading": "",
+  "formula": "N/V + だけ",
+  "meaning_vi": "Chỉ…; chỉ cần…",
+  "explain_vi": "Giới hạn phạm vi: Nだけ = chỉ N, V-るだけ = chỉ cần làm V. Khác しか〜ない (phải đi với phủ định) và ばかり (toàn là). 〜だけでよければ = nếu chỉ… cũng được.",
+  "group": "Giới hạn",
+  "confusable": [
+   "shika-nai",
+   "bakari"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201107-grammar-10",
+   "jlptpt:n3-201112-grammar-11",
+   "jlptpt:n3-201212-grammar-6",
+   "jlptpt:n3-201612-grammar-4",
+   "challenge:N3G0031"
+  ]
+ },
+ {
+  "id": "madeni",
+  "pattern": "〜までに",
+  "reading": "",
+  "formula": "N/V-る + までに",
+  "meaning_vi": "Trước (hạn chót)…",
+  "explain_vi": "Hạn chót của một hành động xảy ra một lần (終わる, 出す). Khác まで (hành động kéo dài liên tục đến thời điểm đó).",
+  "group": "Thời gian",
+  "confusable": [
+   "made"
+  ],
+  "examples_qids": [
+   "challenge:N3G0177",
+   "tryjlpt:23-1480128924595",
+   "jt4y:1501-6",
+   "jlptpt:n3-201107-grammar-11",
+   "japanesequizzes:grammar-5-6412"
+  ]
+ },
+ {
+  "id": "you-nara",
+  "pattern": "〜ようなら",
+  "reading": "",
+  "formula": "V-る + ようなら",
+  "meaning_vi": "Nếu có vẻ là… thì…",
+  "explain_vi": "Dùng với tình huống dự đoán (nếu tình hình có dấu hiệu như vậy) rồi đưa ra chỉ thị/hành động đối phó.",
+  "group": "Điều kiện",
+  "confusable": [
+   "nara"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201107-grammar-12",
+   "dethitiengnhat:N3-3-3-q5",
+   "tryjlpt:24-1480135942424",
+   "mazii:626-4238-0",
+   "tryjlpt:33-1480305053790"
+  ]
+ },
+ {
+  "id": "sou-yousu",
+  "pattern": "〜そうだ(様態)",
+  "reading": "",
+  "formula": "V-ます / A-い(bỏ い) / A-な + そうだ",
+  "meaning_vi": "Có vẻ, trông như sắp…",
+  "explain_vi": "Phán đoán dựa trên quan sát trực tiếp: 忙しそう, 雨が降りそう. いい → よさそう, ない → なさそう. Khác そうだ (nghe nói) nối với thể thường.",
+  "group": "Phỏng đoán",
+  "confusable": [
+   "sou-da-denbun",
+   "rashii-suitei"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201512-grammar-13",
+   "jlptpt:n3-202112-grammar-10",
+   "dethitiengnhat:N3-2-3-q9",
+   "dethitiengnhat:N3-31-3-q7",
+   "tryjlpt:37-1480325439036"
+  ]
+ },
+ {
+  "id": "noni",
+  "pattern": "〜のに",
+  "reading": "",
+  "formula": "普通形(な/である) + のに",
+  "meaning_vi": "Vậy mà… (bất mãn/ngạc nhiên)",
+  "explain_vi": "Diễn tả kết quả trái kỳ vọng kèm cảm xúc bất mãn, tiếc nuối. Vế sau không dùng ý chí/mệnh lệnh. Khác が/けど (trung tính).",
+  "group": "Điều kiện nghịch",
+  "confusable": [
+   "temo",
+   "keredo"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201907-grammar-11",
+   "challenge:N3G0149",
+   "challenge:N3G0171",
+   "dethitiengnhat:N3-1-3-q5",
+   "dethitiengnhat:N3-2-3-q5"
+  ]
+ },
+ {
+  "id": "ni-yotte",
+  "pattern": "〜によって / により",
+  "reading": "",
+  "formula": "N + によって/により",
+  "meaning_vi": "Tùy theo N; do N; bởi N",
+  "explain_vi": "Có nhiều nghĩa: (1) tùy N mà khác nhau (曜日によって違う), (2) nguyên nhân (台風により中止), (3) tác nhân của bị động (…によって描かれた). により là dạng trang trọng, văn viết.",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [
+   "ni-tsuite"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201407-grammar-1",
+   "jlptpt:n3-201507-grammar-3",
+   "jlptpt:n3-202312-grammar-3",
+   "jlptpt:n3-202407-grammar-9",
+   "bunpro:1011"
+  ]
+ },
+ {
+  "id": "donna-ni-ka",
+  "pattern": "どんなに〜か",
+  "reading": "",
+  "formula": "どんなに + A/V + か",
+  "meaning_vi": "… biết bao, đến mức nào",
+  "explain_vi": "Câu cảm thán/nhấn mạnh mức độ, thường đi với わかる, 想像する. Gần nghĩa いかに〜か.",
+  "group": "Mức độ",
+  "confusable": [],
+  "examples_qids": [
+   "dethitiengnhat:N3-6-3-q15",
+   "jt4y:1579-9"
+  ]
+ },
+ {
+  "id": "te-kuru",
+  "pattern": "〜てくる",
+  "reading": "",
+  "formula": "V-て + くる",
+  "meaning_vi": "Đến nay đã dần…; làm rồi quay lại",
+  "explain_vi": "Diễn tả sự thay đổi tiến triển đến thời điểm hiện tại (わかってきた), hoặc hướng chuyển động về phía người nói (運ばれてきた), hoặc làm rồi quay lại (買ってくる). Đối lập với 〜ていく.",
+  "group": "Thể/Aspect",
+  "confusable": [
+   "te-iru"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-202012-grammar-9",
+   "jlptpt:n3-202112-grammar-7",
+   "jlptpt:n3-202312-grammar-12",
+   "jlptpt:n3-202412-grammar-9",
+   "challenge:N3G0168"
+  ]
+ },
+ {
+  "id": "sorekara",
+  "pattern": "まず〜、それから〜",
+  "reading": "",
+  "formula": "文 + それから + 文",
+  "meaning_vi": "Rồi thì, sau đó nữa",
+  "explain_vi": "Liên từ liệt kê thêm ý/sự việc nối tiếp theo thứ tự (まず…、それから…).",
+  "group": "Liên từ",
+  "confusable": [],
+  "examples_qids": [
+   "tryjlpt:14-1480308333811",
+   "jlptpt:n3-201107-grammar-20",
+   "jlptpt:n3-201912-grammar-20"
+  ]
+ },
+ {
+  "id": "toshite",
+  "pattern": "〜として",
+  "reading": "",
+  "formula": "N + として",
+  "meaning_vi": "Với tư cách là N",
+  "explain_vi": "Chỉ vai trò, tư cách, tên gọi của chủ thể (通訳として行く, 小説家として有名). Khác にとって (theo đánh giá của).",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [
+   "ni-totte"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201112-grammar-1",
+   "jlptpt:n3-201612-grammar-1",
+   "jlptpt:n3-202407-grammar-3",
+   "bunpro:1024",
+   "challenge:N3G0118"
+  ]
+ },
+ {
+  "id": "wo-shiteiru",
+  "pattern": "〜をしている",
+  "reading": "",
+  "formula": "色/形/顔/目 + をしている",
+  "meaning_vi": "Có (màu, hình dạng, vẻ mặt) như…",
+  "explain_vi": "Mô tả đặc điểm bên ngoài: 青い目をしている, 丸い形をしている. Cố định dùng を.",
+  "group": "Biểu hiện",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201112-grammar-2",
+   "jlptpt:n3-201412-grammar-1",
+   "jlptpt:n3-202112-grammar-1",
+   "gyanmirai:grammar-2-8",
+   "jt4y:1622-4"
+  ]
+ },
+ {
+  "id": "nara",
+  "pattern": "〜なら",
+  "reading": "",
+  "formula": "N/普通形 + なら",
+  "meaning_vi": "Nếu là…thì; nếu đã nói vậy thì",
+  "explain_vi": "Tiếp nhận thông tin/tình huống từ người nghe hoặc ngữ cảnh rồi đưa ra lời khuyên, đề nghị (おなかがすいているならドーナツがあるよ). Khác と/ば/たら ở chỗ lấy tiền đề đã có làm nền.",
+  "group": "Thể điều kiện",
+  "confusable": [
+   "ba-jouken",
+   "tara"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201112-grammar-4",
+   "jlptpt:n3-201507-grammar-9",
+   "dethitiengnhat:N3-31-3-q10",
+   "gyanmirai:grammar-2-10",
+   "jt4y:1571-5"
+  ]
+ },
+ {
+  "id": "ni-kurabete",
+  "pattern": "〜にくらべて / 〜と比べて",
+  "reading": "",
+  "formula": "N + にくらべて/と比べて",
+  "meaning_vi": "So với N",
+  "explain_vi": "Dùng để so sánh hai đối tượng, vế sau nêu đặc tính nổi bật hơn/kém.",
+  "group": "So sánh",
+  "confusable": [
+   "yori-hou-ga"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201112-grammar-5",
+   "jlptpt:n3-201307-grammar-3",
+   "jlptpt:n3-201412-grammar-2",
+   "jlptpt:n3-201812-grammar-4",
+   "bunpro:1019"
+  ]
+ },
+ {
+  "id": "tokoro",
+  "pattern": "〜ところだ",
+  "reading": "",
+  "formula": "V-る/V-ている/V-た + ところだ",
+  "meaning_vi": "Sắp / đang / vừa mới (V)",
+  "explain_vi": "Chỉ giai đoạn của hành động: V-るところ = sắp làm, V-ているところ = đang làm, V-たところ = vừa mới làm xong. Nhấn vào thời điểm cụ thể, không nói về lượng thời gian.",
+  "group": "Thời gian",
+  "confusable": [
+   "tabakari"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201207-grammar-13",
+   "challenge:N3G0156",
+   "gyanmirai:grammar-3-12",
+   "jt4y:1573-2",
+   "jlptpt:n3-201112-grammar-6"
+  ]
+ },
+ {
+  "id": "sasete-itadaku",
+  "pattern": "〜(さ)せていただく / 〜させてください",
+  "reading": "",
+  "formula": "V-させていただく/させてください",
+  "meaning_vi": "Xin phép được làm…",
+  "explain_vi": "Dạng khiêm nhường khi xin phép hoặc thông báo hành động của bản thân (質問させてください, 使わせていただきます). Dùng khi người nghe cho phép hoặc ảnh hưởng đến mình.",
+  "group": "Kính ngữ",
+  "confusable": [
+   "saseru",
+   "kenjou"
+  ],
+  "examples_qids": [
+   "challenge:N3G0087",
+   "challenge:N3G0106",
+   "nihongopro:21575a14a4-5",
+   "nihongopro:f394701a3f-5",
+   "nihongopro:f394701a3f-8"
+  ]
+ },
+ {
+  "id": "meirei-kinshi",
+  "pattern": "命令形・禁止形(V-ろ・V-るな)",
+  "reading": "",
+  "formula": "V-ろ/V-れ / V-る + な",
+  "meaning_vi": "Thể mệnh lệnh / cấm chỉ",
+  "explain_vi": "Thể mạnh, chủ yếu trong lời mắng, khẩu hiệu hoặc khi thuật lại (遅刻するなと言われた, 寝ろと怒られた). Khi nhờ vả thân mật có てくれ/ないでくれ.",
+  "group": "Thể (voice)",
+  "confusable": [
+   "you-ni-iu"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201112-grammar-8",
+   "jlptpt:n3-201407-grammar-4",
+   "jlptpt:n3-201707-grammar-7",
+   "dethitiengnhat:N3-7-3-q5",
+   "tryjlpt:29-1480298046553"
+  ]
+ },
+ {
+  "id": "you-na",
+  "pattern": "〜ような",
+  "reading": "",
+  "formula": "V-る/N の + ような + N",
+  "meaning_vi": "Kiểu như, giống như…",
+  "explain_vi": "Dùng để đưa ví dụ hoặc so sánh (怒らせるようなことを言う = nói điều kiểu làm người ta giận). Khác そうな (nối với gốc ます).",
+  "group": "So sánh",
+  "confusable": [
+   "youni-youtai"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201112-grammar-10",
+   "dethitiengnhat:N3-4-3-q11",
+   "dethitiengnhat:N3-5-3-q1",
+   "gyanmirai:grammar-2-16",
+   "jt4y:53-6"
+  ]
+ },
+ {
+  "id": "ba-jouken",
+  "pattern": "〜ば(条件)",
+  "reading": "",
+  "formula": "V-ば / A-ければ / N なら(ば)",
+  "meaning_vi": "Nếu…thì",
+  "explain_vi": "Điều kiện giả định, thường dùng khi vế sau là kết quả tất yếu hoặc lời khuyên (行けばいい). Mẫu: 〜でよければ (nếu … cũng được), 〜ほうがよければ.",
+  "group": "Thể điều kiện",
+  "confusable": [
+   "tara",
+   "to-jouken",
+   "nara"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201607-grammar-11",
+   "tryjlpt:33-1480304587701",
+   "gyanmirai:grammar-8-1",
+   "tryjlpt:24-1480141331260"
+  ]
+ },
+ {
+  "id": "hodo-wa-nai",
+  "pattern": "〜ほど〜はない",
+  "reading": "",
+  "formula": "N + ほど + A + はない / ない",
+  "meaning_vi": "Không gì … bằng N",
+  "explain_vi": "So sánh tuyệt đối: N là cái nhất (これほどおもしろい仕事はない). Cũng dùng N ほど〜N はない.",
+  "group": "So sánh",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-202012-grammar-1",
+   "bunpro:1040",
+   "bunpro:1052",
+   "challenge:N3G0225",
+   "challenge:N3G0010"
+  ]
+ },
+ {
+  "id": "uchi-ni",
+  "pattern": "〜うちに",
+  "reading": "",
+  "formula": "V-ている/V-る/V-ない/N の + うちに",
+  "meaning_vi": "Trong lúc còn…, tranh thủ khi…",
+  "explain_vi": "Làm gì trước khi tình trạng thay đổi. V-ないうちに = trước khi (chưa)…; 〜ているうちに = trong lúc đang…thì (không hay biết). Khác 間に (một khoảng thời gian xác định).",
+  "group": "Thời gian",
+  "confusable": [
+   "aida",
+   "aida-ni"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201312-grammar-11",
+   "jlptpt:n3-201507-grammar-4",
+   "jlptpt:n3-202312-grammar-5",
+   "bunpro:1043",
+   "bunpro:1072"
+  ]
+ },
+ {
+  "id": "okage-de",
+  "pattern": "〜おかげで",
+  "reading": "",
+  "formula": "普通形(な/の) + おかげで",
+  "meaning_vi": "Nhờ có…",
+  "explain_vi": "Kết quả tốt do một nguyên nhân (người, vật). Mẫu ngược nghĩa là せいで (do lỗi của…).",
+  "group": "Nguyên nhân",
+  "confusable": [
+   "seide"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-202012-grammar-5",
+   "jlptpt:n3-202207-grammar-9",
+   "bunpro:1013",
+   "challenge:N3G0237",
+   "challenge:N3G0147"
+  ]
+ },
+ {
+  "id": "sokode",
+  "pattern": "そこで",
+  "reading": "",
+  "formula": "文 + そこで + 文",
+  "meaning_vi": "Vì vậy (nên quyết định…)",
+  "explain_vi": "Liên từ chỉ: trước tình huống đó, người nói chủ ý làm hành động tiếp theo (thường そこで〜ことにしました). Khác だから (hệ quả tự nhiên).",
+  "group": "Liên từ",
+  "confusable": [
+   "dakara"
+  ],
+  "examples_qids": [
+   "bunpro:1102",
+   "jlptpt:n3-201112-grammar-19",
+   "jlptpt:n3-201807-grammar-20",
+   "mazii:627-12684-2"
+  ]
+ },
+ {
+  "id": "kara-riyuu",
+  "pattern": "〜から(理由)",
+  "reading": "",
+  "formula": "普通形/です・ます + から / 〜からだ・からです",
+  "meaning_vi": "Vì…, bởi vì…",
+  "explain_vi": "Nêu lý do chủ quan. 〜からです ở cuối câu để giải thích lý do cho câu trước. Khác ので (khách quan hơn), せいで (xấu), おかげで (tốt).",
+  "group": "Nguyên nhân",
+  "confusable": [
+   "seide"
+  ],
+  "examples_qids": [
+   "dethitiengnhat:N3-8-3-q17",
+   "jlptpt:n3-201112-grammar-20",
+   "jlptpt:n3-201512-grammar-18",
+   "jlptpt:n3-201712-grammar-20",
+   "jlptpt:n3-202012-grammar-17"
+  ]
+ },
+ {
+  "id": "bunmyaku",
+  "pattern": "文脈・語彙の選択",
+  "reading": "",
+  "formula": "(chọn từ/cụm từ theo mạch văn)",
+  "meaning_vi": "Chọn từ/cụm phù hợp theo văn cảnh",
+  "explain_vi": "Câu hỏi đoạn văn kiểm tra mạch logic: thì (quá khứ/hiện tại), chủ thể hành động, quan hệ giữa các câu (thêm ý, đối lập, giải thích) hơn là một mẫu cụ thể.",
+  "group": "Văn bản/Ngữ cảnh",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0189",
+   "nihongopro:79e720b9cc-5",
+   "gyanmirai:grammar-1-13",
+   "gyanmirai:grammar-12-7",
+   "jt4y:55-6"
+  ]
+ },
+ {
+  "id": "koto-ga-dekiru",
+  "pattern": "〜ことができる",
+  "reading": "",
+  "formula": "V-る + ことができる",
+  "meaning_vi": "Có thể…",
+  "explain_vi": "Diễn tả khả năng hoặc cơ hội làm được, trang trọng hơn thể khả năng. ことができたのです = (nhờ đó) đã có thể.",
+  "group": "Khả năng",
+  "confusable": [
+   "kanou-kei"
+  ],
+  "examples_qids": [
+   "japanesequizzes:grammar-19-6624",
+   "japanesequizzes:grammar-21-6652",
+   "jlptpt:n3-201112-grammar-22",
+   "jlptpt:n3-201507-grammar-21",
+   "jlptpt:n3-201912-grammar-22"
+  ]
+ },
+ {
+  "id": "mono-da",
+  "pattern": "〜ものだ(感慨・一般論)",
+  "reading": "",
+  "formula": "V-た + ものだ / V-る + ものだ",
+  "meaning_vi": "Thật là…, thường thì…",
+  "explain_vi": "Biểu thị hoài niệm, cảm khái về chuyện đã qua (若いころはよく遊んだものだ) hoặc chân lý, lẽ thường.",
+  "group": "Mẫu cuối câu",
+  "confusable": [],
+  "examples_qids": [
+   "bunpro:1023",
+   "bunpro:1063",
+   "challenge:N3G0153",
+   "challenge:N3G0066",
+   "tryjlpt:21-1480126685848"
+  ]
+ },
+ {
+  "id": "ni-totte",
+  "pattern": "〜にとって",
+  "reading": "",
+  "formula": "N + にとって",
+  "meaning_vi": "Đối với N (xét từ lập trường của N)",
+  "explain_vi": "Đánh giá/giá trị theo quan điểm của N (大切、難しい、問題). Khác に対して (hướng hành động tới).",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [
+   "ni-taishite",
+   "toshite"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201207-grammar-1",
+   "jlptpt:n3-201312-grammar-4",
+   "jlptpt:n3-201507-grammar-1",
+   "jlptpt:n3-202107-grammar-3",
+   "jlptpt:n3-202207-grammar-1"
+  ]
+ },
+ {
+  "id": "demo-reishi",
+  "pattern": "Nでも(例示)",
+  "reading": "",
+  "formula": "N + でも + V-ませんか",
+  "meaning_vi": "…chẳng hạn (lời mời mềm mỏng)",
+  "explain_vi": "Đưa một ví dụ trong nhiều lựa chọn, ngụ ý 'cái khác cũng được'. Hay dùng trong lời mời, gợi ý: お茶でもいかがですか.",
+  "group": "Trợ từ",
+  "confusable": [
+   "nanka"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201207-grammar-2",
+   "tryjlpt:27-1480144933449",
+   "nihongopro:1c101bd23a-4"
+  ]
+ },
+ {
+  "id": "toshitemo",
+  "pattern": "〜としても",
+  "reading": "",
+  "formula": "普通形 + としても",
+  "meaning_vi": "Cho dù (giả sử)… cũng…",
+  "explain_vi": "Điều kiện giả định nghịch: dù giả sử A thì B vẫn như vậy (もし雨が降ったとしても実施する). Gần với たとえ〜ても.",
+  "group": "Điều kiện nghịch",
+  "confusable": [
+   "temo",
+   "toshitara"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201207-grammar-4",
+   "jlptpt:n3-202012-grammar-6",
+   "tryjlpt:24-1480135257983",
+   "gyanmirai:grammar-3-3",
+   "japanesequizzes:grammar-12-6525"
+  ]
+ },
+ {
+  "id": "retsukyo-ni",
+  "pattern": "N に N に(列挙)",
+  "reading": "",
+  "formula": "N に N に …",
+  "meaning_vi": "Liệt kê thêm vào (đủ thứ)",
+  "explain_vi": "Trợ từ に dùng để liệt kê chồng thêm: おすしに天ぷらにラーメン. Cảm giác 'đủ loại'.",
+  "group": "Trợ từ",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201207-grammar-6"
+  ]
+ },
+ {
+  "id": "ba-hodo",
+  "pattern": "〜ば〜ほど",
+  "reading": "",
+  "formula": "V-ば V-る + ほど / A-ければ A-い + ほど",
+  "meaning_vi": "Càng… càng…",
+  "explain_vi": "Mức độ ở vế sau tăng theo mức độ vế trước. Gồm cả A-ければ A-いほど, N なら N なほど.",
+  "group": "Thể điều kiện",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0188",
+   "challenge:N3G0119",
+   "challenge:N3G0224",
+   "tryjlpt:23-1480129203497",
+   "jlptpt:n3-201207-grammar-7"
+  ]
+ },
+ {
+  "id": "doushitemo",
+  "pattern": "どうしても",
+  "reading": "",
+  "formula": "どうしても + V-ない / V-たい",
+  "meaning_vi": "Thế nào cũng (không); nhất định muốn",
+  "explain_vi": "どうしても〜ない = dù cố thế nào cũng không thể; どうしても〜たい = rất muốn đến mức không kìm được.",
+  "group": "Phó từ",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201612-grammar-3",
+   "jlptpt:n3-201907-grammar-3",
+   "jlptpt:n3-202212-grammar-5",
+   "dethitiengnhat:N3-6-3-q4",
+   "jlptpt:n3-201207-grammar-8"
+  ]
+ },
+ {
+  "id": "kanou-kei",
+  "pattern": "可能形",
+  "reading": "",
+  "formula": "V-られる/V-れる",
+  "meaning_vi": "Thể khả năng: có thể…",
+  "explain_vi": "Diễn tả khả năng, năng lực hoặc điều kiện cho phép. Nhóm 1: -eru (行ける), nhóm 2: -rareru (食べられる). Tân ngữ đi với が hoặc を.",
+  "group": "Khả năng",
+  "confusable": [
+   "koto-ga-dekiru"
+  ],
+  "examples_qids": [
+   "dethitiengnhat:N3-30-3-q9",
+   "jlptpt:n3-201207-grammar-9",
+   "gyanmirai:grammar-3-8"
+  ]
+ },
+ {
+  "id": "made",
+  "pattern": "〜まで",
+  "reading": "",
+  "formula": "N/V-る + まで",
+  "meaning_vi": "Đến tận, cho đến khi",
+  "explain_vi": "Chỉ điểm kết thúc của hành động kéo dài liên tục (nhà ở đến 5 giờ) hoặc mức độ (〜にまで = đến cả). Số lượng + まで = tối đa đến. Khác までに (hạn chót).",
+  "group": "Trợ từ",
+  "confusable": [
+   "madeni"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201207-grammar-10",
+   "jlptpt:n3-201407-grammar-10",
+   "jlptpt:n3-201512-grammar-10",
+   "jlptpt:n3-201607-grammar-10",
+   "jlptpt:n3-201907-grammar-10"
+  ]
+ },
+ {
+  "id": "jidoushi-tadoushi",
+  "pattern": "自動詞・他動詞",
+  "reading": "",
+  "formula": "自動詞 (が) / 他動詞 (を)",
+  "meaning_vi": "Tự động từ và tha động từ",
+  "explain_vi": "Chọn đúng cặp: 電気がつく/消える (tự nhiên xảy ra) – 電気をつける/消す (ai đó làm). Chủ ngữ là vật tự thay đổi → tự động từ.",
+  "group": "Động từ",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201207-grammar-11",
+   "jlptpt:n3-201207-grammar-12",
+   "nihongopro:1a39e0c81a-2",
+   "nihongopro:f394701a3f-4",
+   "gyanmirai:grammar-3-11"
+  ]
+ },
+ {
+  "id": "tari",
+  "pattern": "〜たり〜たりする",
+  "reading": "",
+  "formula": "V-たり V-たりする",
+  "meaning_vi": "Nào là…nào là…, lúc thì… lúc thì…",
+  "explain_vi": "Liệt kê hành động tiêu biểu hoặc diễn tả hành động lặp lại luân phiên (ついたり消えたり). Có thể dùng một たり.",
+  "group": "Liệt kê",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201407-grammar-3",
+   "dethitiengnhat:N3-7-3-q4",
+   "gyanmirai:grammar-3-10",
+   "jt4y:1495-2"
+  ]
+ },
+ {
+  "id": "mae-ni",
+  "pattern": "〜まえに",
+  "reading": "",
+  "formula": "V-る / N の + まえに",
+  "meaning_vi": "Trước khi…",
+  "explain_vi": "Hành động ở vế sau xảy ra trước hành động ở vế trước. Luôn dùng thể từ điển trước まえに.",
+  "group": "Thời gian",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-202207-grammar-6",
+   "dethitiengnhat:N3-31-3-q1",
+   "tryjlpt:16-1480049630677"
+  ]
+ },
+ {
+  "id": "ukemi",
+  "pattern": "受身(受け身)",
+  "reading": "",
+  "formula": "V-られる",
+  "meaning_vi": "Thể bị động",
+  "explain_vi": "Chủ ngữ chịu tác động (雨に降られた), sự kiện được tổ chức/được tạo ra (行われる, 作られる), bị động gián tiếp (phiền toái). Người thực hiện có thể đánh dấu bằng に/から/によって.",
+  "group": "Thể (voice)",
+  "confusable": [
+   "saserareru"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201312-grammar-12",
+   "jlptpt:n3-201512-grammar-11",
+   "jlptpt:n3-201612-grammar-5",
+   "jlptpt:n3-202107-grammar-9",
+   "challenge:N3G0011"
+  ]
+ },
+ {
+  "id": "tabun",
+  "pattern": "多分〜と思う",
+  "reading": "",
+  "formula": "多分 + 普通形 + と思う/だろう",
+  "meaning_vi": "Có lẽ…",
+  "explain_vi": "Phó từ chỉ phỏng đoán mức độ trung bình, đi kèm でしょう/だろう/と思う/かもしれない.",
+  "group": "Phó từ",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201207-grammar-14"
+  ]
+ },
+ {
+  "id": "koto-ga-aru",
+  "pattern": "〜たことがある",
+  "reading": "",
+  "formula": "V-た + ことがある",
+  "meaning_vi": "Đã từng…",
+  "explain_vi": "Diễn tả kinh nghiệm trong quá khứ. Khác V-ることがある (đôi khi có chuyện…).",
+  "group": "Thể/Aspect",
+  "confusable": [
+   "koto-mo-aru"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201507-grammar-12",
+   "jlptpt:n3-201912-grammar-12",
+   "jlptpt:n3-202212-grammar-12",
+   "challenge:N3G0049",
+   "tryjlpt:34-1480318507457"
+  ]
+ },
+ {
+  "id": "no-hitotsu",
+  "pattern": "Nのひとつ",
+  "reading": "",
+  "formula": "N のひとつに/で + がある",
+  "meaning_vi": "Một trong những…",
+  "explain_vi": "Chỉ một phần tử trong tập hợp (もっとも行ってみたい寺のひとつ). Dùng cách nói nổi bật nhưng không khẳng định duy nhất.",
+  "group": "Mệnh đề/Danh từ hoá",
+  "confusable": [],
+  "examples_qids": [
+   "dethitiengnhat:N3-7-3-q16",
+   "jlptpt:n3-201207-grammar-16"
+  ]
+ },
+ {
+  "id": "soretomo",
+  "pattern": "それとも",
+  "reading": "",
+  "formula": "A のでしょうか。それとも B のでしょうか",
+  "meaning_vi": "Hay là…",
+  "explain_vi": "Liên từ nối hai câu hỏi lựa chọn.",
+  "group": "Liên từ",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201207-grammar-19"
+  ]
+ },
+ {
+  "id": "shiru",
+  "pattern": "知る・知っている",
+  "reading": "",
+  "formula": "V-て + 知る/知っている",
+  "meaning_vi": "Biết (động từ trạng thái)",
+  "explain_vi": "知る là lần đầu biết/thu nhận thông tin (知りました = tôi vừa biết), 知っている = đã biết. Kính ngữ: ご存じだ.",
+  "group": "Động từ",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-202212-grammar-10",
+   "jlptpt:n3-201207-grammar-23"
+  ]
+ },
+ {
+  "id": "chuushin-ni",
+  "pattern": "〜を中心に",
+  "reading": "",
+  "formula": "N + を中心に(して)",
+  "meaning_vi": "Lấy N làm trung tâm",
+  "explain_vi": "Mô tả hoạt động/nghiên cứu/phân bố lấy N làm hạt nhân.",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201212-grammar-1",
+   "jlptpt:n3-201907-grammar-2",
+   "jlptpt:n3-202307-grammar-1",
+   "dethitiengnhat:N3-11-3-q1",
+   "dethitiengnhat:N3-32-3-q1"
+  ]
+ },
+ {
+  "id": "tashika-ni",
+  "pattern": "たしかに〜しかし",
+  "reading": "",
+  "formula": "たしかに + 文。しかし + 文",
+  "meaning_vi": "Quả thật…nhưng…",
+  "explain_vi": "Thừa nhận một điều rồi đưa ra ý đối lập. Cấu trúc nhượng bộ thường gặp.",
+  "group": "Liên từ",
+  "confusable": [
+   "shikashi"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201212-grammar-2"
+  ]
+ },
+ {
+  "id": "te-hoshii",
+  "pattern": "〜てほしい",
+  "reading": "",
+  "formula": "V-て + ほしい",
+  "meaning_vi": "Muốn (ai đó) làm…",
+  "explain_vi": "Mong muốn người khác làm gì cho mình; người làm đánh dấu bằng に (人に来てほしい). Phủ định: 〜ないでほしい.",
+  "group": "Mong muốn",
+  "confusable": [
+   "garu"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201212-grammar-5",
+   "jlptpt:n3-201607-grammar-1",
+   "jlptpt:n3-202412-grammar-1",
+   "challenge:N3G0088",
+   "dethitiengnhat:N3-9-3-q1"
+  ]
+ },
+ {
+  "id": "te-morau",
+  "pattern": "〜てもらう/〜ていただく",
+  "reading": "",
+  "formula": "V-て + もらう/いただく",
+  "meaning_vi": "Được (ai) làm cho…",
+  "explain_vi": "Nhận hành động từ người khác (chủ ngữ là người nhận, người làm đánh dấu に). いただく là khiêm nhường. 〜てもらえませんか = nhờ vả lịch sự.",
+  "group": "Cho nhận",
+  "confusable": [
+   "te-kureru",
+   "te-ageru"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-202012-grammar-8",
+   "challenge:N3G0115",
+   "dethitiengnhat:N3-2-3-q11",
+   "dethitiengnhat:N3-9-3-q3",
+   "nihongopro:f394701a3f-3"
+  ]
+ },
+ {
+  "id": "te-oku",
+  "pattern": "〜ておく",
+  "reading": "",
+  "formula": "V-て + おく",
+  "meaning_vi": "Làm sẵn, để nguyên",
+  "explain_vi": "Chuẩn bị trước cho một mục đích (予約しておく), hoặc để nguyên trạng thái. Văn nói: とく.",
+  "group": "Thể/Aspect",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201212-grammar-11",
+   "jlptpt:n3-202307-grammar-8",
+   "challenge:N3G0014",
+   "dethitiengnhat:N3-6-3-q7",
+   "dethitiengnhat:N3-30-3-q8"
+  ]
+ },
+ {
+  "id": "kamoshirenai",
+  "pattern": "〜かもしれない",
+  "reading": "",
+  "formula": "普通形 + かもしれない",
+  "meaning_vi": "Có thể là…",
+  "explain_vi": "Phỏng đoán khả năng thấp (khoảng 50%). Có thể nối với thể khả năng, tính từ.",
+  "group": "Phỏng đoán",
+  "confusable": [
+   "darou-to-omou",
+   "hazu"
+  ],
+  "examples_qids": [
+   "dethitiengnhat:N3-2-3-q7",
+   "jlptpt:n3-201212-grammar-12",
+   "jlptpt:n3-201612-grammar-22",
+   "jlptpt:n3-201907-grammar-21"
+  ]
+ },
+ {
+  "id": "hazu",
+  "pattern": "〜はずだ",
+  "reading": "",
+  "formula": "普通形 + はずだ",
+  "meaning_vi": "Chắc chắn là…, lẽ ra…",
+  "explain_vi": "Suy luận có căn cứ, tin chắc. Phủ định: 〜はずがない / 〜ないはずだ. Khác だろう (chủ quan).",
+  "group": "Phỏng đoán",
+  "confusable": [
+   "darou-to-omou",
+   "kamoshirenai"
+  ],
+  "examples_qids": [
+   "challenge:N3G0017",
+   "challenge:N3G0212",
+   "dethitiengnhat:N3-31-3-q5",
+   "nihongopro:43462b7a6c-2",
+   "nihongopro:027e107b2f-4"
+  ]
+ },
+ {
+  "id": "te-shimau",
+  "pattern": "〜てしまう",
+  "reading": "",
+  "formula": "V-て + しまう",
+  "meaning_vi": "Làm xong hết; lỡ làm mất",
+  "explain_vi": "Diễn tả hoàn thành (làm cho xong) hoặc hối tiếc/ngoài ý muốn. Văn nói: ちゃう/じゃう. Hay đi cùng 間違って, うっかり.",
+  "group": "Thể/Aspect",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201907-grammar-7",
+   "jlptpt:n3-202107-grammar-11",
+   "nihongopro:fd43b1cf23-1",
+   "tryjlpt:37-1480326717930",
+   "jlptpt:n3-201807-grammar-11"
+  ]
+ },
+ {
+  "id": "rentai-shuushoku",
+  "pattern": "連体修飾(名詞修飾)",
+  "reading": "",
+  "formula": "普通形 + N",
+  "meaning_vi": "Mệnh đề bổ nghĩa cho danh từ",
+  "explain_vi": "Mệnh đề dài đứng trước danh từ. Chủ ngữ trong mệnh đề có thể dùng の thay が (雨の降らない日). Câu sắp xếp thường kiểm tra thứ tự mệnh đề và danh từ được bổ nghĩa.",
+  "group": "Mệnh đề/Danh từ hoá",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0163",
+   "nihongopro:9e3744eb93-4",
+   "mlc:n3_01_03-q1",
+   "dethitiengnhat:N3-3-3-q15",
+   "dethitiengnhat:N3-4-3-q17"
+  ]
+ },
+ {
+  "id": "koto-de-yuumei",
+  "pattern": "〜ことで有名",
+  "reading": "",
+  "formula": "N/V + ことで有名だ",
+  "meaning_vi": "Nổi tiếng vì…",
+  "explain_vi": "Chỉ lý do nổi tiếng. Mẫu: 〜で有名 (bởi N).",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [],
+  "examples_qids": [
+   "nihongopro:5962b337cc-2",
+   "jt4y:1579-10",
+   "jlptpt:n3-201212-grammar-16",
+   "bunpro:1079"
+  ]
+ },
+ {
+  "id": "yori-hou-ga",
+  "pattern": "〜より〜のほうが",
+  "reading": "",
+  "formula": "A より B のほうが + tính từ / V-るより V-たほうがいい",
+  "meaning_vi": "Hơn…, B hơn A",
+  "explain_vi": "So sánh hai đối tượng, A thì không bằng B. Kết hợp ほうがいい = nên làm B hơn là A.",
+  "group": "So sánh",
+  "confusable": [
+   "ni-kurabete"
+  ],
+  "examples_qids": [
+   "nihongopro:8a35d07b72-5",
+   "tryjlpt:23-1480129522794",
+   "dethitiengnhat:N3-2-3-q14",
+   "dethitiengnhat:N3-5-3-q18",
+   "jt4y:581-3"
+  ]
+ },
+ {
+  "id": "to-omou",
+  "pattern": "〜と思う",
+  "reading": "",
+  "formula": "普通形 + と思う/思っている",
+  "meaning_vi": "Tôi nghĩ rằng…",
+  "explain_vi": "Ý kiến, suy nghĩ cá nhân (思う: bây giờ; 思っている: suy nghĩ kéo dài/của người khác). Quá khứ 思いました thường dùng khi kể lại suy nghĩ lúc đó.",
+  "group": "Mệnh đề lồng",
+  "confusable": [
+   "darou-to-omou"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201212-grammar-20",
+   "jlptpt:n3-202312-grammar-22",
+   "dethitiengnhat:N3-10-3-q22",
+   "mazii:627-12684-0",
+   "jlptpt:n3-202212-grammar-17"
+  ]
+ },
+ {
+  "id": "dake-de-naku",
+  "pattern": "〜だけではなく",
+  "reading": "",
+  "formula": "N/普通形 + だけでなく + も",
+  "meaning_vi": "Không chỉ… mà còn…",
+  "explain_vi": "Thêm vào ý thứ hai ngoài ý thứ nhất, thường có も.",
+  "group": "Liên từ",
+  "confusable": [
+   "bakari-dewanaku"
+  ],
+  "examples_qids": [
+   "bunpro:1018",
+   "challenge:N3G0227",
+   "challenge:N3G0159",
+   "jlptpt:n3-201807-grammar-4",
+   "mlc:n3_jlpt_grammar_quiz_01-q9"
+  ]
+ },
+ {
+  "id": "sou-da-denbun",
+  "pattern": "〜そうだ(伝聞)",
+  "reading": "",
+  "formula": "普通形 + そうだ",
+  "meaning_vi": "Nghe nói là…",
+  "explain_vi": "Truyền đạt thông tin nghe được từ người khác. Khác 様態 そうだ (nhìn thấy sắp xảy ra). Nối với thể thường.",
+  "group": "Phỏng đoán",
+  "confusable": [
+   "sou-yousu"
+  ],
+  "examples_qids": [
+   "challenge:N3G0127",
+   "tryjlpt:6-1479321616462",
+   "jt4y:1622-10",
+   "jlptpt:n3-201212-grammar-21",
+   "jlptpt:n3-202212-grammar-21"
+  ]
+ },
+ {
+  "id": "shikashi",
+  "pattern": "しかし / でも / が",
+  "reading": "",
+  "formula": "文 + しかし/でも + 文",
+  "meaning_vi": "Nhưng, tuy nhiên",
+  "explain_vi": "Liên từ đối lập thông thường: しかし (trang trọng), でも (văn nói), けれども/が. Chọn theo quan hệ đối lập giữa hai ý.",
+  "group": "Liên từ",
+  "confusable": [
+   "tokoroga"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201212-grammar-22",
+   "jlptpt:n3-201312-grammar-21",
+   "jlptpt:n3-201612-grammar-19",
+   "jlptpt:n3-202012-grammar-20",
+   "jlptpt:n3-202112-grammar-19"
+  ]
+ },
+ {
+  "id": "ga-shugo",
+  "pattern": "が(主語)",
+  "reading": "",
+  "formula": "N + が + V",
+  "meaning_vi": "Trợ từ chỉ chủ ngữ",
+  "explain_vi": "が đánh dấu chủ ngữ của câu, kể cả chủ ngữ của câu bị động (こういうトイレが作られた) hay của mệnh đề phụ. Khác は (chủ đề/đối chiếu).",
+  "group": "Trợ từ",
+  "confusable": [
+   "wa-joshi"
+  ],
+  "examples_qids": [
+   "nihongopro:1060e3557e-3",
+   "nihongopro:1060e3557e-1",
+   "nihongopro:7bd3b80eee-1",
+   "jlptpt:n3-202212-grammar-20"
+  ]
+ },
+ {
+  "id": "he-no",
+  "pattern": "〜への / 〜との / 〜からの",
+  "reading": "",
+  "formula": "N + への/との/からの + N",
+  "meaning_vi": "Trợ từ + の bổ nghĩa danh từ",
+  "explain_vi": "Khi trợ từ phương hướng/đối tượng đứng trước danh từ thì phải thêm の: 金閣寺への行き方, 友だちからのメール.",
+  "group": "Trợ từ",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201307-grammar-2",
+   "jlptpt:n3-201712-grammar-1",
+   "jlptpt:n3-202312-grammar-1",
+   "dethitiengnhat:N3-8-3-q4",
+   "jlptpt:n3-202212-grammar-14"
+  ]
+ },
+ {
+  "id": "tara",
+  "pattern": "〜たら",
+  "reading": "",
+  "formula": "V-たら",
+  "meaning_vi": "Nếu / khi / hóa ra là…",
+  "explain_vi": "Điều kiện hoàn thành (nếu làm xong… thì…), cũng dùng cho phát hiện bất ngờ (行ったら会った). Có thể dùng với どうしたらいい (làm sao).",
+  "group": "Thể điều kiện",
+  "confusable": [
+   "ba-jouken",
+   "to-jouken"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201307-grammar-4",
+   "jlptpt:n3-201312-grammar-5",
+   "challenge:N3G0111",
+   "tryjlpt:16-1480054248532",
+   "dethitiengnhat:N3-3-3-q17"
+  ]
+ },
+ {
+  "id": "sekkaku",
+  "pattern": "せっかく",
+  "reading": "",
+  "formula": "せっかく + V-たのだから/V-たのに",
+  "meaning_vi": "Đã mất công… nên",
+  "explain_vi": "Nhấn mạnh cơ hội hiếm, công sức bỏ ra; せっかく〜のだから = đã vậy thì hãy tận dụng; せっかく〜のに = tiếc là.",
+  "group": "Phó từ",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201307-grammar-5",
+   "jlptpt:n3-201807-grammar-3",
+   "bunpro:1022"
+  ]
+ },
+ {
+  "id": "suru-ni-wa",
+  "pattern": "V-るには",
+  "reading": "",
+  "formula": "V-る + には",
+  "meaning_vi": "Để mà (làm)…",
+  "explain_vi": "Mục đích của hành động đòi hỏi điều kiện (作り直すには時間がたりない). Vế sau thường nêu điều cần thiết.",
+  "group": "Mục đích",
+  "confusable": [
+   "tame-ni"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201307-grammar-11",
+   "challenge:N3G0191",
+   "jt4y:1618-2",
+   "jlptpt:n3-201812-grammar-10"
+  ]
+ },
+ {
+  "id": "temo-okashikunai",
+  "pattern": "〜てもおかしくない / 〜ても不思議ではない",
+  "reading": "",
+  "formula": "V-て/N でも + おかしくない/不思議ではない",
+  "meaning_vi": "Dù… cũng không lạ",
+  "explain_vi": "Nhấn mạnh khả năng cao có thể xảy ra bất cứ lúc nào (いつ壊れてもおかしくない).",
+  "group": "Phỏng đoán",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201307-grammar-12",
+   "jlptpt:n3-201607-grammar-6",
+   "jlptpt:n3-202107-grammar-10",
+   "jlptpt:n3-201407-grammar-17",
+   "jlptpt:n3-201512-grammar-14"
+  ]
+ },
+ {
+  "id": "temo-ii",
+  "pattern": "〜てもいい",
+  "reading": "",
+  "formula": "V-て + もいい / かまわない",
+  "meaning_vi": "Được phép; …cũng được",
+  "explain_vi": "Cho phép hoặc đề xuất. 〜てもいいんじゃない = hay là… cũng được rồi. Phủ định: 〜なくてもいい.",
+  "group": "Cho phép",
+  "confusable": [
+   "nakutemo-ii"
+  ],
+  "examples_qids": [
+   "challenge:N3G0221",
+   "dethitiengnhat:N3-2-3-q3",
+   "tryjlpt:24-1480134951739",
+   "tryjlpt:23-1480129574831",
+   "jlptpt:n3-201307-grammar-13"
+  ]
+ },
+ {
+  "id": "demo-sae",
+  "pattern": "Nでも(さえ)",
+  "reading": "",
+  "formula": "N + でも",
+  "meaning_vi": "Ngay cả N",
+  "explain_vi": "Nêu ví dụ cực đoan để suy ra các trường hợp khác (専門家でもわからない). Khác でも lời mời.",
+  "group": "Trợ từ",
+  "confusable": [
+   "demo-reishi"
+  ],
+  "examples_qids": [
+   "tryjlpt:29-1480297573273",
+   "dethitiengnhat:N3-4-3-q14",
+   "jlptpt:n3-201307-grammar-15",
+   "jlptpt:n3-201612-grammar-14",
+   "jlptpt:n3-202112-grammar-14"
+  ]
+ },
+ {
+  "id": "you-ni-suru",
+  "pattern": "〜ようにする",
+  "reading": "",
+  "formula": "V-る/V-ない + ようにする",
+  "meaning_vi": "Cố gắng (làm / không làm)",
+  "explain_vi": "Nỗ lực duy trì thói quen, chú ý làm thường xuyên (毎日運動するようにしている). Khác ことにする (quyết định).",
+  "group": "Quyết định/Quy định",
+  "confusable": [
+   "you-ni-naru",
+   "koto-ni-suru"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-202207-grammar-13",
+   "challenge:N3G0182",
+   "challenge:N3G0038",
+   "dethitiengnhat:N3-1-3-q12",
+   "tryjlpt:34-1480318999335"
+  ]
+ },
+ {
+  "id": "ki-ga-suru",
+  "pattern": "〜気がする",
+  "reading": "",
+  "formula": "普通形 + 気がする",
+  "meaning_vi": "Có cảm giác là…",
+  "explain_vi": "Cảm giác mơ hồ, trực giác của người nói (何か音が聞こえた気がした).",
+  "group": "Phỏng đoán",
+  "confusable": [],
+  "examples_qids": [
+   "jt4y:587-7",
+   "jlptpt:n3-201307-grammar-17",
+   "jlptpt:n3-201512-grammar-23",
+   "bunpro:1124"
+  ]
+ },
+ {
+  "id": "te-kureru",
+  "pattern": "〜てくれる/〜てくださる",
+  "reading": "",
+  "formula": "V-て + くれる/くださる",
+  "meaning_vi": "(Ai) làm cho tôi",
+  "explain_vi": "Hành động của người khác mang lại lợi ích cho mình/nhóm mình; くださる là kính ngữ. Chủ ngữ là người làm, không phải mình.",
+  "group": "Cho nhận",
+  "confusable": [
+   "te-morau",
+   "te-ageru"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201907-grammar-6",
+   "challenge:N3G0058",
+   "dethitiengnhat:N3-6-3-q11",
+   "dethitiengnhat:N3-31-3-q6",
+   "jlptpt:n3-202207-grammar-11"
+  ]
+ },
+ {
+  "id": "te-ageru",
+  "pattern": "〜てあげる/〜てやる",
+  "reading": "",
+  "formula": "V-て + あげる/やる/さしあげる",
+  "meaning_vi": "Làm cho (ai)",
+  "explain_vi": "Mình làm giúp người khác; với người trên nên tránh dùng (dùng お〜する). てやる cho người dưới/động vật.",
+  "group": "Cho nhận",
+  "confusable": [
+   "te-kureru",
+   "te-morau"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201412-grammar-13",
+   "dethitiengnhat:N3-9-3-q5",
+   "jlptpt:n3-202412-grammar-12",
+   "dethitiengnhat:N3-3-3-q18",
+   "jlptpt:n3-201307-grammar-23"
+  ]
+ },
+ {
+  "id": "wo-joshi",
+  "pattern": "を(対象・通過)",
+  "reading": "",
+  "formula": "N + を + V(tha động từ)",
+  "meaning_vi": "Trợ từ chỉ đối tượng/nơi di chuyển",
+  "explain_vi": "Tân ngữ của tha động từ; nơi đi qua (道を歩く); nơi xuất phát (家を出る). Dùng để chọn đúng trợ từ trong hội thoại.",
+  "group": "Trợ từ",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201312-grammar-1",
+   "jlptpt:n3-201807-grammar-1",
+   "jlptpt:n3-201912-grammar-1",
+   "jlptpt:n3-202407-grammar-1",
+   "challenge:N3G0117"
+  ]
+ },
+ {
+  "id": "kanarazu",
+  "pattern": "必ず / 決して",
+  "reading": "",
+  "formula": "必ず + V / 決して + V-ない",
+  "meaning_vi": "Nhất định…",
+  "explain_vi": "必ず đi với khẳng định/yêu cầu, 決して đi với phủ định mạnh.",
+  "group": "Phó từ",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201312-grammar-2",
+   "jlptpt:n3-202212-grammar-4",
+   "jt4y:1499-2"
+  ]
+ },
+ {
+  "id": "nakereba-naranai",
+  "pattern": "〜なければならない/〜ないといけない",
+  "reading": "",
+  "formula": "V-ない(bỏ い) + ければならない / ないといけない",
+  "meaning_vi": "Phải…",
+  "explain_vi": "Nghĩa vụ, sự cần thiết. Văn nói: なきゃ, ないと. 〜なくてはいけない tương đương.",
+  "group": "Nghĩa vụ",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201312-grammar-7",
+   "challenge:N3G0009",
+   "nihongopro:43462b7a6c-4",
+   "nihongopro:fd43b1cf23-2",
+   "tryjlpt:37-1480325273140"
+  ]
+ },
+ {
+  "id": "gimonshi-demo",
+  "pattern": "疑問詞+でも",
+  "reading": "",
+  "formula": "いつ/どこ/だれ/何 + でも",
+  "meaning_vi": "Bất cứ… cũng…",
+  "explain_vi": "Từ nghi vấn + でも = không loại trừ (どこからでも見える, 何でも相談して).",
+  "group": "Từ nghi vấn",
+  "confusable": [
+   "gimonshi-ka"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201312-grammar-9",
+   "jlptpt:n3-201412-grammar-10",
+   "jlptpt:n3-201907-grammar-9",
+   "jlptpt:n3-202212-grammar-3",
+   "dethitiengnhat:N3-7-3-q11"
+  ]
+ },
+ {
+  "id": "nikui",
+  "pattern": "〜にくい",
+  "reading": "",
+  "formula": "V-ます + にくい",
+  "meaning_vi": "Khó…",
+  "explain_vi": "Khó làm vì tính chất sự vật (見えにくい). Trái nghĩa: やすい.",
+  "group": "Mức độ",
+  "confusable": [
+   "yasui"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201312-grammar-10",
+   "dethitiengnhat:N3-32-3-q10",
+   "japanesequizzes:grammar-7-6441",
+   "japanesequizzes:grammar-22-6671",
+   "japanesequizzes:grammar-36-7186"
+  ]
+ },
+ {
+  "id": "osewa-ni-naru",
+  "pattern": "お世話になる",
+  "reading": "",
+  "formula": "お世話になりました/お世話になっております",
+  "meaning_vi": "Cám ơn đã giúp đỡ",
+  "explain_vi": "Lời chào/cảm ơn cố định khi chia tay hoặc kết thư.",
+  "group": "Cụm cố định",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201312-grammar-19"
+  ]
+ },
+ {
+  "id": "mochiron",
+  "pattern": "もちろん",
+  "reading": "",
+  "formula": "もちろん + 文",
+  "meaning_vi": "Dĩ nhiên",
+  "explain_vi": "Phó từ khẳng định mạnh, hiển nhiên.",
+  "group": "Phó từ",
+  "confusable": [],
+  "examples_qids": [
+   "bunpro:1059",
+   "nihongopro:7d360e81c5-5",
+   "jlptpt:n3-201407-grammar-2",
+   "mlc:n3_jlpt_grammar_quiz_08-q8",
+   "japanesequizzes:grammar-6-6435"
+  ]
+ },
+ {
+  "id": "rashii-noun",
+  "pattern": "N+らしい",
+  "reading": "",
+  "formula": "N + らしい + N",
+  "meaning_vi": "Đúng chất N, rất ra dáng N",
+  "explain_vi": "Đặc trưng tiêu biểu của N. Khác らしい (hình như/nghe nói) nối câu.",
+  "group": "Biểu hiện",
+  "confusable": [
+   "rashii-suitei"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201407-grammar-5",
+   "challenge:N3G0070",
+   "dethitiengnhat:N3-7-3-q6",
+   "jt4y:585-2",
+   "mlc:n3_013-q1"
+  ]
+ },
+ {
+  "id": "saserareru",
+  "pattern": "使役受身(〜させられる)",
+  "reading": "",
+  "formula": "V-させられる",
+  "meaning_vi": "Bị bắt làm",
+  "explain_vi": "Người nói bị ép làm hành động (手伝わされる), thường mang cảm giác không muốn. Dạng rút gọn: 〜される (nhóm 1).",
+  "group": "Thể (voice)",
+  "confusable": [
+   "saseru",
+   "ukemi"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201407-grammar-11",
+   "dethitiengnhat:N3-1-3-q2",
+   "dethitiengnhat:N3-3-3-q4",
+   "dethitiengnhat:N3-7-3-q8",
+   "dethitiengnhat:N3-32-3-q8"
+  ]
+ },
+ {
+  "id": "nakutemo-ii",
+  "pattern": "〜なくてもいい",
+  "reading": "",
+  "formula": "V-ない(bỏ い) + くてもいい",
+  "meaning_vi": "Không … cũng được",
+  "explain_vi": "Không cần thiết. 〜なくてもよければ = nếu không… cũng được thì.",
+  "group": "Cho phép",
+  "confusable": [
+   "temo-ii"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201407-grammar-12",
+   "jt4y:1575-3"
+  ]
+ },
+ {
+  "id": "keredo",
+  "pattern": "〜けれども(逆接)",
+  "reading": "",
+  "formula": "普通形 + けれども",
+  "meaning_vi": "Tuy nhiên / nhưng",
+  "explain_vi": "Nối hai vế đối lập; trang trọng hơn けど. Cũng dùng đầu câu (けれども).",
+  "group": "Liên từ",
+  "confusable": [
+   "shikashi"
+  ],
+  "examples_qids": [
+   "dethitiengnhat:N3-2-3-q15",
+   "jlptpt:n3-201407-grammar-15",
+   "bunpro:1116",
+   "dethitiengnhat:N3-8-3-q19",
+   "dethitiengnhat:N3-9-3-q20"
+  ]
+ },
+ {
+  "id": "mama",
+  "pattern": "〜まま",
+  "reading": "",
+  "formula": "V-た/N の + まま",
+  "meaning_vi": "Cứ để nguyên",
+  "explain_vi": "Trạng thái giữ nguyên không thay đổi (座ったまま, 書いたまま出さない).",
+  "group": "Trạng thái",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201712-grammar-11",
+   "jlptpt:n3-202412-grammar-5",
+   "bunpro:1051",
+   "challenge:N3G0021",
+   "challenge:N3G0194"
+  ]
+ },
+ {
+  "id": "you-to-omou",
+  "pattern": "〜ようと思う",
+  "reading": "",
+  "formula": "V-よう(意向形) + と思う",
+  "meaning_vi": "Định…, dự định…",
+  "explain_vi": "Ý định, kế hoạch của người nói. 〜ようと思っている = đang giữ dự định.",
+  "group": "Ý chí/Dự định",
+  "confusable": [
+   "tsumori"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201912-grammar-10",
+   "jlptpt:n3-202107-grammar-7",
+   "challenge:N3G0041",
+   "tryjlpt:34-1480318759268",
+   "mlc:n3_jlpt_grammar_quiz_04-q9"
+  ]
+ },
+ {
+  "id": "shidai-ni",
+  "pattern": "次第に",
+  "reading": "",
+  "formula": "次第に + V-てくる/なる",
+  "meaning_vi": "Dần dần",
+  "explain_vi": "Phó từ, diễn tả thay đổi tăng giảm theo thời gian.",
+  "group": "Phó từ",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201412-grammar-5"
+  ]
+ },
+ {
+  "id": "ja-nakute",
+  "pattern": "〜じゃなくて / 〜ではなく",
+  "reading": "",
+  "formula": "普通形 + んじゃなくて、〜のだ",
+  "meaning_vi": "Không phải … mà là …",
+  "explain_vi": "Phủ định điều bị hiểu lầm rồi sửa lại.",
+  "group": "Mẫu cuối câu",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201412-grammar-6",
+   "jt4y:1622-7",
+   "tryjlpt:74-1495380373933",
+   "jlptpt:n3-201707-grammar-17"
+  ]
+ },
+ {
+  "id": "zutsu",
+  "pattern": "ずつ",
+  "reading": "",
+  "formula": "N/số + ずつ",
+  "meaning_vi": "Mỗi (một lượng)",
+  "explain_vi": "Chia đều từng phần: 1個ずつ. Thường đi kèm しか〜ない hoặc dần dần ずつ.",
+  "group": "Số lượng",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201412-grammar-9",
+   "jt4y:1616-4",
+   "japanesequizzes:grammar-13-6534",
+   "japanesequizzes:grammar-26-6738",
+   "japanesequizzes:grammar-34-7213"
+  ]
+ },
+ {
+  "id": "shika-nai",
+  "pattern": "〜しか〜ない",
+  "reading": "",
+  "formula": "N + しか + V-ない",
+  "meaning_vi": "Chỉ…",
+  "explain_vi": "Giới hạn nhưng mang sắc thái 'ít, không đủ'. Phải kết hợp phủ định.",
+  "group": "Giới hạn",
+  "confusable": [
+   "dake"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201512-grammar-9",
+   "jlptpt:n3-201607-grammar-9",
+   "jlptpt:n3-201712-grammar-9",
+   "jlptpt:n3-202207-grammar-7",
+   "jlptpt:n3-202307-grammar-3"
+  ]
+ },
+ {
+  "id": "wa-joshi",
+  "pattern": "は(主題・対比)",
+  "reading": "",
+  "formula": "N + は",
+  "meaning_vi": "Trợ từ chủ đề/đối chiếu",
+  "explain_vi": "Nêu chủ đề hoặc đối chiếu hai điều (名前は聞いたが会ったことはない).",
+  "group": "Trợ từ",
+  "confusable": [
+   "ga-shugo"
+  ],
+  "examples_qids": [
+   "dethitiengnhat:N3-6-3-q1",
+   "nihongopro:7bd3b80eee-4",
+   "jlptpt:n3-201412-grammar-14"
+  ]
+ },
+ {
+  "id": "to-jouken",
+  "pattern": "〜と(条件)",
+  "reading": "",
+  "formula": "V-る + と",
+  "meaning_vi": "Hễ… thì…",
+  "explain_vi": "Quan hệ tất yếu, quy luật, phát hiện (V-ると〜なる). Không dùng với ý chí ở vế sau.",
+  "group": "Thể điều kiện",
+  "confusable": [
+   "ba-jouken"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201612-grammar-9",
+   "jlptpt:n3-201707-grammar-12",
+   "jlptpt:n3-202212-grammar-9",
+   "jt4y:1620-10",
+   "jlptpt:n3-201412-grammar-16"
+  ]
+ },
+ {
+  "id": "koto-mo-aru",
+  "pattern": "〜こともある",
+  "reading": "",
+  "formula": "V-る/V-ない + こともある",
+  "meaning_vi": "Cũng có lúc…",
+  "explain_vi": "Diễn tả việc thỉnh thoảng xảy ra.",
+  "group": "Thời gian",
+  "confusable": [
+   "koto-ga-aru"
+  ],
+  "examples_qids": [
+   "dethitiengnhat:N3-4-3-q1",
+   "jt4y:59-1",
+   "jlptpt:n3-202207-grammar-8",
+   "japanesequizzes:grammar-5-6423",
+   "jlptpt:n3-202112-grammar-22"
+  ]
+ },
+ {
+  "id": "suruto",
+  "pattern": "すると",
+  "reading": "",
+  "formula": "文。すると、文",
+  "meaning_vi": "Thế là (việc tiếp theo xảy ra)",
+  "explain_vi": "Liên từ nối sự việc: sau hành động A thì B xảy ra, thường là điều bất ngờ.",
+  "group": "Liên từ",
+  "confusable": [],
+  "examples_qids": [
+   "tryjlpt:6-1479322959593",
+   "tryjlpt:74-1495381174033",
+   "jlptpt:n3-201412-grammar-21",
+   "jlptpt:n3-201607-grammar-20",
+   "jlptpt:n3-201707-grammar-19"
+  ]
+ },
+ {
+  "id": "mitai",
+  "pattern": "〜みたい / 〜ようだ",
+  "reading": "",
+  "formula": "N/普通形 + みたい",
+  "meaning_vi": "Hình như, giống như",
+  "explain_vi": "Ví von (như thể) hoặc phỏng đoán dựa trên ấn tượng. Dạng thân mật của ようだ.",
+  "group": "Phỏng đoán",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-202112-grammar-11",
+   "challenge:N3G0040",
+   "dethitiengnhat:N3-5-3-q10",
+   "dethitiengnhat:N3-31-3-q3",
+   "nihongopro:fd43b1cf23-3"
+  ]
+ },
+ {
+  "id": "tsuini",
+  "pattern": "ついに",
+  "reading": "",
+  "formula": "ついに + V",
+  "meaning_vi": "Cuối cùng (sau thời gian dài)",
+  "explain_vi": "Kết quả đạt được sau thời gian dài, thường tích cực hoặc chờ đợi.",
+  "group": "Phó từ",
+  "confusable": [
+   "youyaku"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201507-grammar-2",
+   "jlptpt:n3-202312-grammar-4",
+   "dethitiengnhat:N3-8-3-q3"
+  ]
+ },
+ {
+  "id": "you-to-suru",
+  "pattern": "〜ようとする",
+  "reading": "",
+  "formula": "V-よう + とする",
+  "meaning_vi": "Định làm / sắp làm",
+  "explain_vi": "Cố gắng bắt đầu một hành động (作ろうとした = đã định làm). Thường kết hợp が + kết quả không như ý.",
+  "group": "Ý chí/Dự định",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201507-grammar-5",
+   "challenge:N3G0068",
+   "challenge:N3G0160",
+   "challenge:N3G0026",
+   "challenge:N3G0140"
+  ]
+ },
+ {
+  "id": "youni-youtai",
+  "pattern": "〜ように(様態)",
+  "reading": "",
+  "formula": "V-る / V-たい + ように + V",
+  "meaning_vi": "Theo cách như, như là",
+  "explain_vi": "Dùng để làm rõ cách thức: やりたいようにやる = làm theo ý muốn.",
+  "group": "So sánh",
+  "confusable": [
+   "you-na"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201507-grammar-10",
+   "challenge:N3G0150",
+   "nihongopro:fd43b1cf23-4",
+   "jt4y:49-5",
+   "mlc:n3_jlpt_grammar_quiz_09-q1"
+  ]
+ },
+ {
+  "id": "amari-ni",
+  "pattern": "あまりに〜て",
+  "reading": "",
+  "formula": "あまりに + A/V-て",
+  "meaning_vi": "Quá… nên",
+  "explain_vi": "Mức độ quá cao dẫn đến hậu quả (thường xấu).",
+  "group": "Mức độ",
+  "confusable": [
+   "sugiru"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201812-grammar-3",
+   "bunpro:1067",
+   "dethitiengnhat:N3-31-3-q11",
+   "jlptpt:n3-201507-grammar-15"
+  ]
+ },
+ {
+  "id": "koto-kara",
+  "pattern": "〜ことから",
+  "reading": "",
+  "formula": "普通形 + ことから",
+  "meaning_vi": "Vì (lý do suy ra/đặt tên)",
+  "explain_vi": "Căn cứ, nguồn gốc của một nhận định hoặc tên gọi.",
+  "group": "Nguyên nhân",
+  "confusable": [],
+  "examples_qids": [
+   "bunpro:1070",
+   "tryjlpt:33-1480304145508",
+   "japanesequizzes:grammar-11-6515",
+   "japanesequizzes:grammar-25-6725",
+   "japanesequizzes:grammar-35-7197"
+  ]
+ },
+ {
+  "id": "no-meishika",
+  "pattern": "〜の(名詞化)",
+  "reading": "",
+  "formula": "V-る/A + の + は/を/が",
+  "meaning_vi": "Danh từ hoá mệnh đề",
+  "explain_vi": "Biến mệnh đề thành danh từ: 話し相手がいないのは寂しい.",
+  "group": "Mệnh đề/Danh từ hoá",
+  "confusable": [
+   "rentai-shuushoku"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-202307-grammar-10",
+   "dethitiengnhat:N3-30-3-q10",
+   "dethitiengnhat:N3-31-3-q2",
+   "jt4y:1614-1",
+   "nihongopro:9e3744eb93-3"
+  ]
+ },
+ {
+  "id": "no-hoka-ni",
+  "pattern": "のほかに",
+  "reading": "",
+  "formula": "N + のほかに〜も",
+  "meaning_vi": "Ngoài N ra còn…",
+  "explain_vi": "Thêm ý ngoài danh sách vừa nhắc. 〜のほかに〜も.",
+  "group": "Liệt kê",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201512-grammar-1",
+   "jlptpt:n3-201907-grammar-4",
+   "jlptpt:n3-202207-grammar-4",
+   "gyanmirai:grammar-6-18"
+  ]
+ },
+ {
+  "id": "seide",
+  "pattern": "〜せいで",
+  "reading": "",
+  "formula": "普通形 + せいで",
+  "meaning_vi": "Tại vì (kết quả xấu)",
+  "explain_vi": "Nguyên nhân dẫn đến kết quả không tốt, quy trách. Ngược với おかげで.",
+  "group": "Nguyên nhân",
+  "confusable": [
+   "okage-de"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201512-grammar-4",
+   "jlptpt:n3-202307-grammar-7",
+   "challenge:N3G0238",
+   "challenge:N3G0148",
+   "challenge:N3G0089"
+  ]
+ },
+ {
+  "id": "hajimeru",
+  "pattern": "〜はじめる",
+  "reading": "",
+  "formula": "V-ます + はじめる",
+  "meaning_vi": "Bắt đầu…",
+  "explain_vi": "Bắt đầu một hành động tự nhiên hoặc có ý chí. Khác V-だす (đột ngột).",
+  "group": "Thể/Aspect",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201512-grammar-6"
+  ]
+ },
+ {
+  "id": "yotei",
+  "pattern": "〜予定",
+  "reading": "",
+  "formula": "V-る / N の + 予定だ",
+  "meaning_vi": "Dự định, kế hoạch",
+  "explain_vi": "Kế hoạch đã sắp xếp (khách quan hơn つもり). 予定だった = đã định nhưng đã thay đổi.",
+  "group": "Ý chí/Dự định",
+  "confusable": [
+   "tsumori"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201512-grammar-15"
+  ]
+ },
+ {
+  "id": "mo-joshi",
+  "pattern": "も(強調・追加)",
+  "reading": "",
+  "formula": "N + も",
+  "meaning_vi": "Cũng, tới mức…",
+  "explain_vi": "Thêm ý (cũng) hoặc nhấn mạnh số lượng lớn.",
+  "group": "Trợ từ",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201812-grammar-1",
+   "jlptpt:n3-201907-grammar-1",
+   "dethitiengnhat:N3-6-3-q9",
+   "jt4y:1571-3",
+   "tryjlpt:37-1480324942417"
+  ]
+ },
+ {
+  "id": "ni-taishite",
+  "pattern": "〜に対して",
+  "reading": "",
+  "formula": "N + に対して",
+  "meaning_vi": "Đối với N",
+  "explain_vi": "Hướng hành động/thái độ tới người hoặc vật; cũng dùng đối chiếu. Khác にとって.",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [
+   "ni-totte"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201607-grammar-2",
+   "jlptpt:n3-201807-grammar-2",
+   "bunpro:1055",
+   "challenge:N3G0109",
+   "challenge:N3G0231"
+  ]
+ },
+ {
+  "id": "sukoshimo-nai",
+  "pattern": "少しも〜ない",
+  "reading": "",
+  "formula": "少しも + V-ない",
+  "meaning_vi": "Một chút cũng không",
+  "explain_vi": "Phủ định hoàn toàn mức độ. Gần với 全然〜ない.",
+  "group": "Phó từ",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201607-grammar-3",
+   "jlptpt:n3-202012-grammar-4",
+   "jlptpt:n3-202207-grammar-3",
+   "jlptpt:n3-202307-grammar-9",
+   "tryjlpt:24-1480135373015"
+  ]
+ },
+ {
+  "id": "naosu",
+  "pattern": "〜直す",
+  "reading": "",
+  "formula": "V-ます + 直す",
+  "meaning_vi": "Làm lại",
+  "explain_vi": "Làm lần nữa cho đúng.",
+  "group": "Động từ ghép",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201607-grammar-5",
+   "jlptpt:n3-201812-grammar-5",
+   "challenge:N3G0199",
+   "jlptpt:n3-202207-grammar-10",
+   "japanesequizzes:grammar-12-6524"
+  ]
+ },
+ {
+  "id": "yasui",
+  "pattern": "〜やすい",
+  "reading": "",
+  "formula": "V-ます + やすい",
+  "meaning_vi": "Dễ…",
+  "explain_vi": "Dễ làm vì tính chất tự nhiên. Đối lập にくい.",
+  "group": "Mức độ",
+  "confusable": [
+   "nikui"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201607-grammar-12",
+   "jlptpt:n3-201712-grammar-12",
+   "jlptpt:n3-202107-grammar-8",
+   "tryjlpt:29-1480298327458",
+   "jt4y:1501-4"
+  ]
+ },
+ {
+  "id": "de-joshi",
+  "pattern": "で(手段・人数・原因)",
+  "reading": "",
+  "formula": "N + で",
+  "meaning_vi": "Bằng, ở, với số người",
+  "explain_vi": "Trợ từ で chỉ phương tiện, nơi diễn ra hành động, số lượng người cùng làm (家族5人で).",
+  "group": "Trợ từ",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-202107-grammar-1",
+   "jt4y:1616-5",
+   "nihongopro:17eead2099-4",
+   "nihongopro:17eead2099-6",
+   "nihongopro:6fc3b1b60b-3"
+  ]
+ },
+ {
+  "id": "mashouka",
+  "pattern": "〜ましょうか",
+  "reading": "",
+  "formula": "V-ます + ましょうか",
+  "meaning_vi": "Để tôi…nhé? / cùng… nhé?",
+  "explain_vi": "Đề xuất làm giúp hoặc rủ cùng làm. Trả lời: お願いします.",
+  "group": "Gợi ý/Khuyên",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201612-grammar-13"
+  ]
+ },
+ {
+  "id": "te-renketsu",
+  "pattern": "〜て(連結)",
+  "reading": "",
+  "formula": "V-て, 文",
+  "meaning_vi": "Nối vế bằng て",
+  "explain_vi": "て nối nguyên nhân – kết quả, hành động liên tiếp.",
+  "group": "Liên từ",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-202312-grammar-6",
+   "challenge:N3G0100",
+   "dethitiengnhat:N3-8-3-q7",
+   "tryjlpt:23-1480129104779",
+   "japanesequizzes:grammar-4-6404"
+  ]
+ },
+ {
+  "id": "toshitara",
+  "pattern": "〜としたら",
+  "reading": "",
+  "formula": "普通形 + としたら",
+  "meaning_vi": "Nếu giả sử…",
+  "explain_vi": "Giả định trái hiện thực: nếu cho rằng…thì.",
+  "group": "Điều kiện nghịch",
+  "confusable": [
+   "toshitemo"
+  ],
+  "examples_qids": [
+   "challenge:N3G0059",
+   "tryjlpt:34-1480318670217",
+   "jt4y:53-5",
+   "jt4y:63-7",
+   "jlptpt:n3-201612-grammar-2"
+  ]
+ },
+ {
+  "id": "bakari",
+  "pattern": "〜ばかり",
+  "reading": "",
+  "formula": "N/V-て + ばかり",
+  "meaning_vi": "Toàn là…",
+  "explain_vi": "Chỉ có một loại; V-てばかりいる = toàn làm. Khác だけ (trung tính).",
+  "group": "Giới hạn",
+  "confusable": [
+   "dake"
+  ],
+  "examples_qids": [
+   "challenge:N3G0057",
+   "tryjlpt:23-1480128986475",
+   "gyanmirai:grammar-10-17",
+   "jt4y:579-10",
+   "jlptpt:n3-202012-grammar-12"
+  ]
+ },
+ {
+  "id": "bakari-dewanaku",
+  "pattern": "〜ばかりでなく",
+  "reading": "",
+  "formula": "N + ばかりでなく〜も",
+  "meaning_vi": "Không chỉ… mà còn",
+  "explain_vi": "Văn viết hơn だけでなく.",
+  "group": "Liên từ",
+  "confusable": [
+   "dake-de-naku"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201707-grammar-1",
+   "japanesequizzes:grammar-8-6465",
+   "japanesequizzes:grammar-18-6620",
+   "japanesequizzes:grammar-33-7222",
+   "japanesequizzes:grammar-43-7072"
+  ]
+ },
+ {
+  "id": "ni-shitagatte",
+  "pattern": "〜にしたがって",
+  "reading": "",
+  "formula": "V-る + にしたがって",
+  "meaning_vi": "Theo đà…, càng…",
+  "explain_vi": "Thay đổi song song: A tiến triển thì B cũng thay đổi.",
+  "group": "Biến đổi",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201707-grammar-2",
+   "challenge:N3G0051",
+   "challenge:N3G0236",
+   "dethitiengnhat:N3-11-3-q4",
+   "dethitiengnhat:N3-31-3-q12"
+  ]
+ },
+ {
+  "id": "youyaku",
+  "pattern": "ようやく",
+  "reading": "",
+  "formula": "ようやく + V",
+  "meaning_vi": "Mãi mới, cuối cùng",
+  "explain_vi": "Kết quả sau thời gian chờ đợi.",
+  "group": "Phó từ",
+  "confusable": [
+   "tsuini"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201707-grammar-3",
+   "dethitiengnhat:N3-32-3-q5"
+  ]
+ },
+ {
+  "id": "ippou-de",
+  "pattern": "〜一方で",
+  "reading": "",
+  "formula": "普通形 + 一方で",
+  "meaning_vi": "Một mặt… mặt khác…",
+  "explain_vi": "Hai mặt đối lập của sự việc.",
+  "group": "Liên từ",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201707-grammar-4",
+   "jlptpt:n3-202207-grammar-5",
+   "challenge:N3G0146",
+   "dethitiengnhat:N3-6-3-q5",
+   "tryjlpt:23-1480129054941"
+  ]
+ },
+ {
+  "id": "hou-ga-ii",
+  "pattern": "〜ほうがいい",
+  "reading": "",
+  "formula": "V-た/V-ない + ほうがいい",
+  "meaning_vi": "Nên… / Không nên…",
+  "explain_vi": "Lời khuyên: V-たほうがいい (nên làm), V-ないほうがいい (không nên làm). Khi nói về dáng vẻ: よさそう (có vẻ tốt), nối với いい → よさそう chứ không phải いいそう.",
+  "group": "Gợi ý/Khuyên",
+  "confusable": [
+   "ba-ii",
+   "tara-dou"
+  ],
+  "examples_qids": [
+   "dethitiengnhat:N3-1-3-q3",
+   "tryjlpt:23-1480129255287",
+   "jlptpt:n3-202107-grammar-13",
+   "dethitiengnhat:N3-6-3-q13"
+  ]
+ },
+ {
+  "id": "naku-naru",
+  "pattern": "〜なくなる",
+  "reading": "",
+  "formula": "V-ない/A-くない + なる",
+  "meaning_vi": "Không còn… nữa",
+  "explain_vi": "Trạng thái trước đây có nay mất đi (走らなくなった). Cũng là dạng phủ định của ようになる.",
+  "group": "Biến đổi",
+  "confusable": [
+   "you-ni-naru"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201307-grammar-10",
+   "dethitiengnhat:N3-6-3-q12",
+   "jlptpt:n3-201907-grammar-17"
+  ]
+ },
+ {
+  "id": "tame-ni",
+  "pattern": "〜ために",
+  "reading": "",
+  "formula": "V-る/N の + ために",
+  "meaning_vi": "Để…, vì…",
+  "explain_vi": "Chỉ mục đích (cùng chủ ngữ, động từ ý chí) hoặc lợi ích của ai (ファンのために). Khác ように (mục đích với động từ không ý chí).",
+  "group": "Mục đích",
+  "confusable": [
+   "youni-mokuteki"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201212-grammar-10",
+   "jlptpt:n3-201407-grammar-9",
+   "jlptpt:n3-201712-grammar-2",
+   "jlptpt:n3-202212-grammar-6",
+   "bunpro:1016"
+  ]
+ },
+ {
+  "id": "tsumori",
+  "pattern": "〜つもり",
+  "reading": "",
+  "formula": "V-る/V-ない/V-た + つもりだ",
+  "meaning_vi": "Dự định…, định…",
+  "explain_vi": "Ý định của người nói (cá nhân). V-たつもり = coi như đã…; V-ないつもり = định không. Khác 予定 (kế hoạch khách quan).",
+  "group": "Ý chí/Dự định",
+  "confusable": [
+   "yotei",
+   "you-to-omou"
+  ],
+  "examples_qids": [
+   "challenge:N3G0056",
+   "challenge:N3G0192",
+   "nihongopro:fc9a19f742-4",
+   "jt4y:57-7",
+   "jt4y:63-3"
+  ]
+ },
+ {
+  "id": "aida-ni",
+  "pattern": "〜間に",
+  "reading": "",
+  "formula": "V-ている/N の + 間に",
+  "meaning_vi": "Trong khoảng thời gian…(xảy ra một việc)",
+  "explain_vi": "Hành động xảy ra tức thời trong khoảng thời gian đó (留守の間に泥棒が入った). Khác あいだ (kéo dài suốt).",
+  "group": "Thời gian",
+  "confusable": [
+   "aida",
+   "uchi-ni"
+  ],
+  "examples_qids": [
+   "challenge:N3G0001",
+   "challenge:N3G0185",
+   "jt4y:63-8",
+   "japanesequizzes:grammar-2-6371",
+   "japanesequizzes:grammar-15-6567"
+  ]
+ },
+ {
+  "id": "koto-ni-suru",
+  "pattern": "〜ことにする",
+  "reading": "",
+  "formula": "V-る/V-ない + ことにする",
+  "meaning_vi": "Quyết định…",
+  "explain_vi": "Quyết định do ý chí của bản thân (ことにした = đã quyết định).",
+  "group": "Quyết định/Quy định",
+  "confusable": [
+   "koto-ni-naru",
+   "you-ni-suru"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-202207-grammar-12",
+   "bunpro:1075",
+   "challenge:N3G0126",
+   "nihongopro:1a39e0c81a-1",
+   "jt4y:1581-6"
+  ]
+ },
+ {
+  "id": "rashii-suitei",
+  "pattern": "〜らしい(推定)",
+  "reading": "",
+  "formula": "普通形 + らしい",
+  "meaning_vi": "Hình như, nghe nói",
+  "explain_vi": "Phỏng đoán dựa trên thông tin nghe được hoặc thấy gián tiếp.",
+  "group": "Phỏng đoán",
+  "confusable": [
+   "sou-da-denbun",
+   "sou-yousu"
+  ],
+  "examples_qids": [
+   "jt4y:51-8",
+   "jlptpt:n3-202307-grammar-12",
+   "dethitiengnhat:N3-30-3-q12"
+  ]
+ },
+ {
+  "id": "dake-demo",
+  "pattern": "〜だけでも",
+  "reading": "",
+  "formula": "N + だけでも",
+  "meaning_vi": "Chỉ riêng… cũng đã…",
+  "explain_vi": "Nhấn mạnh rằng ngay cả phạm vi nhỏ nhất cũng đã đủ nhiều/đủ để (今日だけでも2回見た). Thường dùng để nêu tần suất, số lượng nhiều từ một ví dụ nhỏ.",
+  "group": "Giới hạn",
+  "confusable": [
+   "dake"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201707-grammar-9"
+  ]
+ },
+ {
+  "id": "naide",
+  "pattern": "〜ないで",
+  "reading": "",
+  "formula": "V-ない + で",
+  "meaning_vi": "Không làm… mà làm…; mà không",
+  "explain_vi": "Diễn tả hành động B xảy ra trong trạng thái không có A (傘を持たないで出かけた), hoặc nhờ/yêu cầu không làm (〜ないでください). Văn viết thường dùng 〜ずに.",
+  "group": "Thể/Aspect",
+  "confusable": [
+   "zu-ni"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201707-grammar-10",
+   "japanesequizzes:grammar-1-6352",
+   "japanesequizzes:grammar-6-6433",
+   "japanesequizzes:grammar-12-6517",
+   "japanesequizzes:grammar-21-6655"
+  ]
+ },
+ {
+  "id": "ka-nanika",
+  "pattern": "N か何か",
+  "reading": "",
+  "formula": "N + か何か",
+  "meaning_vi": "… hay cái gì đó",
+  "explain_vi": "Ví dụ không chắc chắn: 雑誌か何か, シャンプーか何か. Cũng dùng nghi vấn từ + か trong mệnh đề.",
+  "group": "Từ nghi vấn",
+  "confusable": [
+   "gimonshi-ka"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-202012-grammar-2",
+   "jlptpt:n3-201707-grammar-14",
+   "dethitiengnhat:N3-31-3-q15"
+  ]
+ },
+ {
+  "id": "ato",
+  "pattern": "あと + số lượng",
+  "reading": "",
+  "formula": "あと + số từ + で/しかない",
+  "meaning_vi": "Còn… nữa",
+  "explain_vi": "あと5分で = 5 phút nữa; あと3分しかない = chỉ còn 3 phút. Chỉ phần còn lại tính đến mốc.",
+  "group": "Số lượng",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201712-grammar-3",
+   "jlptpt:n3-202012-grammar-15",
+   "dethitiengnhat:N3-8-3-q15"
+  ]
+ },
+ {
+  "id": "te-miru",
+  "pattern": "〜てみる",
+  "reading": "",
+  "formula": "V-て + みる",
+  "meaning_vi": "Thử làm…; làm thử thì phát hiện",
+  "explain_vi": "Thử làm để xem kết quả. 〜てみると = thử… thì thấy (kết quả bất ngờ); 〜てみたい = muốn thử; kết hợp 〜たことがある: 通ってみたことがある = từng đi thử.",
+  "group": "Thể/Aspect",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-201712-grammar-4",
+   "jlptpt:n3-202407-grammar-7",
+   "dethitiengnhat:N3-11-3-q8",
+   "tryjlpt:27-1480146173707",
+   "jlptpt:n3-202212-grammar-13"
+  ]
+ },
+ {
+  "id": "nante",
+  "pattern": "なんて〜だろう / なんて",
+  "reading": "",
+  "formula": "なんて + A/N + だろう/なんだろう",
+  "meaning_vi": "Thật là… biết bao",
+  "explain_vi": "Câu cảm thán diễn tả sự ngạc nhiên, cảm động, thường mở đầu bằng なんて và kết bằng だろう/んだろう. Cũng dùng なんて (= など) để coi nhẹ.",
+  "group": "Mẫu cuối câu",
+  "confusable": [
+   "donna-ni-ka"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201712-grammar-6",
+   "jlptpt:n3-202107-grammar-6",
+   "tryjlpt:29-1480298000614",
+   "tryjlpt:23-1480129430661",
+   "japanesequizzes:grammar-4-6398"
+  ]
+ },
+ {
+  "id": "ni-shitemo",
+  "pattern": "〜にしても",
+  "reading": "",
+  "formula": "N/普通形 + にしても",
+  "meaning_vi": "Dù là… cũng; kể cả…",
+  "explain_vi": "Nêu ví dụ song song: dù làm theo cách A hay B thì đều như nhau (ジャムにしてもおいしい). Cũng mang nghĩa 'cho dù đúng là… thì'.",
+  "group": "Điều kiện nghịch",
+  "confusable": [
+   "toshitemo",
+   "temo"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201712-grammar-10",
+   "jt4y:587-8",
+   "mlc:n3_jlpt_grammar_quiz_04-q5",
+   "japanesequizzes:grammar-5-6415",
+   "japanesequizzes:grammar-15-6570"
+  ]
+ },
+ {
+  "id": "de-ii",
+  "pattern": "Nでいい / Nまででいい",
+  "reading": "",
+  "formula": "N + でいい",
+  "meaning_vi": "…là được rồi",
+  "explain_vi": "Chỉ cần mức/lựa chọn đó là đủ (来週の金曜まででいい; 一度でいいから). Thể hiện sự nhượng bộ hoặc mong ước khiêm tốn.",
+  "group": "Cho phép",
+  "confusable": [
+   "temo-ii"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-202107-grammar-14",
+   "dethitiengnhat:N3-10-3-q15",
+   "jlptpt:n3-201712-grammar-14"
+  ]
+ },
+ {
+  "id": "igai",
+  "pattern": "〜以外",
+  "reading": "",
+  "formula": "N + 以外は/に",
+  "meaning_vi": "Ngoài… ra",
+  "explain_vi": "Loại trừ phần đã nêu (とき以外は使わない = ngoài lúc… ra thì không dùng).",
+  "group": "Giới hạn",
+  "confusable": [
+   "no-hoka-ni"
+  ],
+  "examples_qids": [
+   "dethitiengnhat:N3-10-3-q18",
+   "jlptpt:n3-201712-grammar-16"
+  ]
+ },
+ {
+  "id": "soredemo",
+  "pattern": "それでも",
+  "reading": "",
+  "formula": "文。それでも、文",
+  "meaning_vi": "Dù vậy vẫn…",
+  "explain_vi": "Liên từ đối lập mạnh: dù có điều kiện bất lợi ở trước, kết quả vẫn trái ngược.",
+  "group": "Liên từ",
+  "confusable": [
+   "shikashi"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201712-grammar-19"
+  ]
+ },
+ {
+  "id": "kanarazushimo",
+  "pattern": "必ずしも〜ない",
+  "reading": "",
+  "formula": "必ずしも + V-ない/A-くない",
+  "meaning_vi": "Không hẳn là…, không nhất thiết…",
+  "explain_vi": "Phủ định một phần: không phải lúc nào cũng vậy. Luôn đi với phủ định.",
+  "group": "Phó từ",
+  "confusable": [
+   "kanarazu"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201807-grammar-6",
+   "jlptpt:n3-202407-grammar-12",
+   "dethitiengnhat:N3-7-3-q3",
+   "nihongopro:517b89436f-2",
+   "tryjlpt:33-1480304254544"
+  ]
+ },
+ {
+  "id": "nai-ka-sasoi",
+  "pattern": "〜ないか(誘い)",
+  "reading": "",
+  "formula": "V-ない + か",
+  "meaning_vi": "Cùng… không?",
+  "explain_vi": "Lời rủ rê thân mật, thường được trích dẫn: 行ってみないかと誘われた.",
+  "group": "Gợi ý/Khuyên",
+  "confusable": [
+   "mashouka"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201807-grammar-10"
+  ]
+ },
+ {
+  "id": "no-ni-mokuteki",
+  "pattern": "〜のに(目的・必要)",
+  "reading": "",
+  "formula": "V-る + のに + 時間/お金が かかる・必要だ・便利だ",
+  "meaning_vi": "Để mà (làm)…",
+  "explain_vi": "のに chỉ mục đích khi theo sau là các từ như かかる, 必要だ, 使う, 便利. Không phải 'vậy mà' (逆接).",
+  "group": "Mục đích",
+  "confusable": [
+   "noni",
+   "tame-ni"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-202312-grammar-9",
+   "challenge:N3G0135",
+   "dethitiengnhat:N3-8-3-q12",
+   "jlptpt:n3-201807-grammar-12",
+   "mlc:n3_010-q1"
+  ]
+ },
+ {
+  "id": "toka",
+  "pattern": "〜とか〜とか",
+  "reading": "",
+  "formula": "N/V + とか + N/V + とか",
+  "meaning_vi": "…chẳng hạn như… hoặc…",
+  "explain_vi": "Liệt kê ví dụ không đầy đủ (văn nói), dùng được cả với trích dẫn lời nói (疲れたとか言っている).",
+  "group": "Liệt kê",
+  "confusable": [
+   "tari"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201812-grammar-2",
+   "nihongopro:a77592a059-1",
+   "nihongopro:027e107b2f-1",
+   "dethitiengnhat:N3-11-3-q15",
+   "jlptpt:n3-202307-grammar-17"
+  ]
+ },
+ {
+  "id": "gimonshi-mo",
+  "pattern": "疑問詞+も",
+  "reading": "",
+  "formula": "誰にも/どこへも/何も + V-ない",
+  "meaning_vi": "Không…bất kỳ ai/đâu/cái nào",
+  "explain_vi": "Từ nghi vấn + trợ từ + も với phủ định = hoàn toàn không. Cũng với khẳng định: どちらへも = bên nào cũng.",
+  "group": "Từ nghi vấn",
+  "confusable": [
+   "gimonshi-demo"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201812-grammar-9",
+   "jlptpt:n3-202407-grammar-2",
+   "dethitiengnhat:N3-30-3-q2",
+   "dethitiengnhat:N3-31-3-q8",
+   "dethitiengnhat:N3-31-3-q21"
+  ]
+ },
+ {
+  "id": "nakanaka",
+  "pattern": "なかなか",
+  "reading": "",
+  "formula": "なかなか + V-ない / なかなか + A",
+  "meaning_vi": "Mãi không…, khá là…",
+  "explain_vi": "なかなか〜ない = mãi mà không, khó mà (khả năng thấp); なかなか + A = khá, đáng kể.",
+  "group": "Phó từ",
+  "confusable": [],
+  "examples_qids": [
+   "bunpro:1045",
+   "bunpro:1091",
+   "jlptpt:n3-201907-grammar-15"
+  ]
+ },
+ {
+  "id": "soshite",
+  "pattern": "そして",
+  "reading": "",
+  "formula": "文。そして、文",
+  "meaning_vi": "Và rồi, sau đó",
+  "explain_vi": "Liên từ nối thêm/tiếp nối hành động, không mang ý đối lập hay giải thích.",
+  "group": "Liên từ",
+  "confusable": [
+   "sorekara"
+  ],
+  "examples_qids": [
+   "tryjlpt:16-1480148465072",
+   "jlptpt:n3-201907-grammar-20"
+  ]
+ },
+ {
+  "id": "te-yokatta",
+  "pattern": "〜てよかった",
+  "reading": "",
+  "formula": "V-て + よかった",
+  "meaning_vi": "May quá, mừng là…",
+  "explain_vi": "Biểu thị niềm vui nhẹ nhõm vì một kết quả tốt đã xảy ra (見つかってよかった).",
+  "group": "Cảm xúc",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0113",
+   "dethitiengnhat:N3-9-3-q7",
+   "jlptpt:n3-201912-grammar-7",
+   "jlptpt:n3-202412-grammar-10",
+   "jlptpt:n3-202407-grammar-22"
+  ]
+ },
+ {
+  "id": "tai",
+  "pattern": "〜たい",
+  "reading": "",
+  "formula": "V-ます + たい",
+  "meaning_vi": "Muốn…",
+  "explain_vi": "Mong muốn của người nói; về người khác dùng たがる. 〜たいと思っている là mong ước kéo dài.",
+  "group": "Mong muốn",
+  "confusable": [
+   "garu"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-201912-grammar-13",
+   "dethitiengnhat:N3-10-3-q5"
+  ]
+ },
+ {
+  "id": "owaru",
+  "pattern": "〜終わる",
+  "reading": "",
+  "formula": "V-ます + 終わる",
+  "meaning_vi": "Làm xong, kết thúc",
+  "explain_vi": "Diễn tả hoàn tất một hành động (見終わる). Đối lập với はじめる.",
+  "group": "Động từ ghép",
+  "confusable": [
+   "hajimeru"
+  ],
+  "examples_qids": [
+   "dethitiengnhat:N3-31-3-q13",
+   "jlptpt:n3-201912-grammar-5"
+  ]
+ },
+ {
+  "id": "shi-retsukyo",
+  "pattern": "〜し〜し",
+  "reading": "",
+  "formula": "普通形 + し、普通形 + し",
+  "meaning_vi": "Vừa… vừa…; không những… mà còn",
+  "explain_vi": "Liệt kê nhiều lý do/đặc điểm cùng chiều (嫌いだし…から).",
+  "group": "Liệt kê",
+  "confusable": [],
+  "examples_qids": [
+   "tryjlpt:33-1480304026411",
+   "japanesequizzes:grammar-22-6676",
+   "japanesequizzes:grammar-40-7117",
+   "japanesequizzes:grammar-44-7052",
+   "jlptpt:n3-202012-grammar-18"
+  ]
+ },
+ {
+  "id": "to-ii",
+  "pattern": "〜といい",
+  "reading": "",
+  "formula": "V-る + といい / V-た + といい",
+  "meaning_vi": "Mong là…, giá mà…",
+  "explain_vi": "Diễn tả hy vọng: 晴れるといいのだが. Cũng gợi ý: 〜とよい.",
+  "group": "Mong muốn",
+  "confusable": [],
+  "examples_qids": [
+   "dethitiengnhat:N3-10-3-q7",
+   "jt4y:1575-4",
+   "jlptpt:n3-202012-grammar-16"
+  ]
+ },
+ {
+  "id": "zu-ni",
+  "pattern": "〜ずに",
+  "reading": "",
+  "formula": "V-ない(bỏ ない) + ずに",
+  "meaning_vi": "Không… mà…",
+  "explain_vi": "Văn viết của ないで (する → せずに). Ví dụ: 磨かずに寝る.",
+  "group": "Thể/Aspect",
+  "confusable": [
+   "naide"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-202212-grammar-7",
+   "challenge:N3G0052",
+   "tryjlpt:37-1480326535326",
+   "jt4y:57-5",
+   "mlc:n3_jlpt_grammar_quiz_05-q8"
+  ]
+ },
+ {
+  "id": "tada",
+  "pattern": "ただ",
+  "reading": "",
+  "formula": "文。ただ、文",
+  "meaning_vi": "Có điều là…",
+  "explain_vi": "Thêm một điểm hạn chế hoặc điều kiện cho ý vừa nói.",
+  "group": "Liên từ",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-202107-grammar-20"
+  ]
+ },
+ {
+  "id": "ni-oite",
+  "pattern": "〜において",
+  "reading": "",
+  "formula": "N + において",
+  "meaning_vi": "Tại, ở, trong (N)",
+  "explain_vi": "Địa điểm/lĩnh vực của sự việc, trang trọng (= で).",
+  "group": "Trợ từ",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-202112-grammar-4",
+   "jlptpt:n3-202212-grammar-2",
+   "challenge:N3G0103",
+   "nihongopro:18803365d6-1",
+   "jt4y:63-5"
+  ]
+ },
+ {
+  "id": "tsuzukeru",
+  "pattern": "〜続ける",
+  "reading": "",
+  "formula": "V-ます + 続ける",
+  "meaning_vi": "Tiếp tục, cứ…",
+  "explain_vi": "Hành động kéo dài liên tục.",
+  "group": "Thể/Aspect",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-202112-grammar-6",
+   "challenge:N3G0201",
+   "tryjlpt:34-1480318603170"
+  ]
+ },
+ {
+  "id": "te-aru",
+  "pattern": "〜てある",
+  "reading": "",
+  "formula": "V-て + ある",
+  "meaning_vi": "Đã được làm sẵn (trạng thái)",
+  "explain_vi": "Trạng thái kết quả của hành động có chủ ý của ai đó (書いてあった = có ghi sẵn). Tân ngữ đi với が.",
+  "group": "Thể/Aspect",
+  "confusable": [
+   "te-iru"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-202112-grammar-21"
+  ]
+ },
+ {
+  "id": "dekireba",
+  "pattern": "できれば",
+  "reading": "",
+  "formula": "できれば + 希望",
+  "meaning_vi": "Nếu có thể",
+  "explain_vi": "Cách mở đầu nhẹ nhàng khi đưa ra mong muốn.",
+  "group": "Phó từ",
+  "confusable": [],
+  "examples_qids": [
+   "bunpro:1048",
+   "jlptpt:n3-202307-grammar-4",
+   "dethitiengnhat:N3-30-3-q4"
+  ]
+ },
+ {
+  "id": "dasu",
+  "pattern": "〜だす",
+  "reading": "",
+  "formula": "V-ます + だす",
+  "meaning_vi": "Đột nhiên bắt đầu…",
+  "explain_vi": "Bắt đầu bất ngờ (降りだす). Khác はじめる.",
+  "group": "Thể/Aspect",
+  "confusable": [
+   "hajimeru"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-202307-grammar-5",
+   "challenge:N3G0200",
+   "dethitiengnhat:N3-30-3-q5",
+   "japanesequizzes:grammar-9-6476",
+   "japanesequizzes:grammar-24-6706"
+  ]
+ },
+ {
+  "id": "kekkyoku",
+  "pattern": "結局",
+  "reading": "",
+  "formula": "結局 + 文",
+  "meaning_vi": "Rốt cuộc, cuối cùng thì…",
+  "explain_vi": "Kết quả cuối sau khi cân nhắc/nỗ lực.",
+  "group": "Phó từ",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-202407-grammar-4",
+   "dethitiengnhat:N3-11-3-q6"
+  ]
+ },
+ {
+  "id": "koto-de",
+  "pattern": "〜ことで",
+  "reading": "",
+  "formula": "V-る/V-た + ことで",
+  "meaning_vi": "Bằng việc…; do việc…",
+  "explain_vi": "Chỉ phương tiện hoặc nguyên nhân của một sự thay đổi (煮ることで柔らかくなる).",
+  "group": "Nguyên nhân",
+  "confusable": [],
+  "examples_qids": [
+   "jlptpt:n3-202207-grammar-15"
+  ]
+ },
+ {
+  "id": "soreni",
+  "pattern": "それに / そのうえ",
+  "reading": "",
+  "formula": "文。それに/そのうえ、文",
+  "meaning_vi": "Hơn nữa, thêm vào đó",
+  "explain_vi": "Liên từ thêm ý cùng chiều (tốt + tốt, xấu + xấu).",
+  "group": "Liên từ",
+  "confusable": [
+   "sorekara"
+  ],
+  "examples_qids": [
+   "mlc:n3_jlpt_grammar_quiz_04-q7",
+   "jlptpt:n3-201812-grammar-20",
+   "jlptpt:n3-202312-grammar-20"
+  ]
+ },
+ {
+  "id": "ai",
+  "pattern": "〜合う",
+  "reading": "",
+  "formula": "V-ます + 合う",
+  "meaning_vi": "Làm với nhau, qua lại",
+  "explain_vi": "Hậu tố động từ chỉ hành động hai bên (話し合う, 助け合う, 理解し合う).",
+  "group": "Động từ ghép",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0198",
+   "japanesequizzes:grammar-5-6411",
+   "japanesequizzes:grammar-15-6571",
+   "japanesequizzes:grammar-31-7248",
+   "japanesequizzes:grammar-42-7085"
+  ]
+ },
+ {
+  "id": "ba-yokatta",
+  "pattern": "〜ばよかった / 〜たらよかった",
+  "reading": "",
+  "formula": "V-ば/V-たら + よかった",
+  "meaning_vi": "Giá mà đã… (hối tiếc)",
+  "explain_vi": "Tiếc nuối về việc đã không làm trong quá khứ (勉強しておけばよかった). Khác 〜てよかった (mừng vì đã làm).",
+  "group": "Cảm xúc",
+  "confusable": [
+   "te-yokatta"
+  ],
+  "examples_qids": [
+   "challenge:N3G0022",
+   "challenge:N3G0112",
+   "mlc:n3_jlpt_grammar_quiz_05-q4",
+   "mlc:n3_jlpt_grammar_quiz_07-q7",
+   "nihongopro:8a35d07b72-6"
+  ]
+ },
+ {
+  "id": "bakari-ka",
+  "pattern": "〜ばかりか",
+  "reading": "",
+  "formula": "普通形 + ばかりか + も",
+  "meaning_vi": "Không những… mà còn…",
+  "explain_vi": "Chồng thêm một điều cùng chiều và thường nặng hơn (dùng với kết quả xấu hoặc tốt). Mạnh hơn だけでなく.",
+  "group": "Liên từ",
+  "confusable": [
+   "dake-de-naku",
+   "bakari-dewanaku"
+  ],
+  "examples_qids": [
+   "challenge:N3G0228",
+   "jt4y:55-1",
+   "japanesequizzes:grammar-8-6460",
+   "japanesequizzes:grammar-18-6618",
+   "japanesequizzes:grammar-40-7121"
+  ]
+ },
+ {
+  "id": "bakari-ni",
+  "pattern": "〜ばかりに",
+  "reading": "",
+  "formula": "V-た/普通形 + ばかりに",
+  "meaning_vi": "Chỉ vì… mà (hậu quả xấu)",
+  "explain_vi": "Một nguyên nhân nhỏ duy nhất dẫn đến kết quả đáng tiếc (財布を忘れたばかりに何も買えなかった).",
+  "group": "Nguyên nhân",
+  "confusable": [
+   "seide"
+  ],
+  "examples_qids": [
+   "bunpro:1074",
+   "tryjlpt:27-1480144985542",
+   "jt4y:587-6",
+   "tryjlpt:34-1480319149570"
+  ]
+ },
+ {
+  "id": "beki",
+  "pattern": "〜べきだ",
+  "reading": "",
+  "formula": "V-る + べきだ",
+  "meaning_vi": "Nên, cần phải…",
+  "explain_vi": "Nghĩa vụ/đạo lý nên làm. する → すべき/するべき. Phủ định: 〜べきではない.",
+  "group": "Nghĩa vụ",
+  "confusable": [
+   "nakereba-naranai"
+  ],
+  "examples_qids": [
+   "challenge:N3G0220",
+   "challenge:N3G0219",
+   "dethitiengnhat:N3-5-3-q3",
+   "jt4y:53-3",
+   "jt4y:577-10"
+  ]
+ },
+ {
+  "id": "chanto",
+  "pattern": "ちゃんと",
+  "reading": "",
+  "formula": "ちゃんと + V",
+  "meaning_vi": "Đàng hoàng, cẩn thận, đầy đủ",
+  "explain_vi": "Phó từ chỉ thực hiện đúng đắn, không qua loa.",
+  "group": "Phó từ",
+  "confusable": [],
+  "examples_qids": [
+   "bunpro:1071"
+  ]
+ },
+ {
+  "id": "darake",
+  "pattern": "〜だらけ",
+  "reading": "",
+  "formula": "N + だらけ",
+  "meaning_vi": "Đầy, toàn là (thứ xấu)",
+  "explain_vi": "N toàn là thứ không mong muốn (間違いだらけ, ゴミだらけ, ほこりだらけ). Khác まみれ (dính chất lỏng/bẩn lên bề mặt).",
+  "group": "Mức độ",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0240",
+   "challenge:N3G0099",
+   "nihongopro:1a39e0c81a-4",
+   "nihongopro:a77592a059-4",
+   "tryjlpt:19-1480123594429"
+  ]
+ },
+ {
+  "id": "dokoroka",
+  "pattern": "〜どころか",
+  "reading": "",
+  "formula": "普通形 + どころか",
+  "meaning_vi": "Đừng nói là… ngay cả… cũng không",
+  "explain_vi": "Phủ định mức cao để nhấn mạnh mức thấp hơn cũng không đạt (漢字どころかひらがなさえ…). Thường đi với さえ/も + phủ định.",
+  "group": "Liên từ",
+  "confusable": [
+   "sae"
+  ],
+  "examples_qids": [
+   "challenge:N3G0007",
+   "dethitiengnhat:N3-32-3-q13",
+   "jt4y:577-9"
+  ]
+ },
+ {
+  "id": "furi",
+  "pattern": "〜ふりをする",
+  "reading": "",
+  "formula": "V-る/V-ない/N の + ふり",
+  "meaning_vi": "Giả vờ…",
+  "explain_vi": "Làm ra vẻ như (聞こえないふりをする). Khác ようだ (có vẻ).",
+  "group": "Biểu hiện",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0193",
+   "jt4y:61-8"
+  ]
+ },
+ {
+  "id": "gachi",
+  "pattern": "〜がち",
+  "reading": "",
+  "formula": "V-ます / N + がち",
+  "meaning_vi": "Hay, thường có xu hướng (xấu)",
+  "explain_vi": "Chỉ khuynh hướng thường xảy ra, thường không tốt (遅れがち, 病気がち).",
+  "group": "Mức độ",
+  "confusable": [
+   "gimi"
+  ],
+  "examples_qids": [
+   "challenge:N3G0045",
+   "nihongopro:b8ecf21f70-4",
+   "tryjlpt:21-1480126587391",
+   "tryjlpt:16-1480049847803",
+   "jt4y:57-10"
+  ]
+ },
+ {
+  "id": "gimi",
+  "pattern": "〜気味",
+  "reading": "",
+  "formula": "V-ます / N + 気味",
+  "meaning_vi": "Hơi có chút…",
+  "explain_vi": "Có chút triệu chứng/xu hướng (風邪気味, 疲れ気味).",
+  "group": "Mức độ",
+  "confusable": [
+   "gachi"
+  ],
+  "examples_qids": [
+   "challenge:N3G0048",
+   "challenge:N3G0241",
+   "jt4y:587-9",
+   "mlc:n3_003-q1",
+   "mlc:n3_003-q2"
+  ]
+ },
+ {
+  "id": "gurai",
+  "pattern": "〜ぐらい / くらい",
+  "reading": "",
+  "formula": "N/V + ぐらい",
+  "meaning_vi": "Khoảng, cỡ; ít nhất cũng",
+  "explain_vi": "Chỉ mức độ ước chừng của lượng thời gian/số lượng (1時間ぐらい), hoặc mức nhẹ nhàng (お皿ぐらい洗って). Khác ごろ (thời điểm).",
+  "group": "Số lượng",
+  "confusable": [
+   "goro"
+  ],
+  "examples_qids": [
+   "jlptpt:n3-202412-grammar-3",
+   "dethitiengnhat:N3-5-3-q2",
+   "dethitiengnhat:N3-9-3-q6",
+   "dethitiengnhat:N3-32-3-q4",
+   "nihongopro:1a39e0c81a-5"
+  ]
+ },
+ {
+  "id": "hitsuyou",
+  "pattern": "〜必要がある",
+  "reading": "",
+  "formula": "V-る + 必要がある",
+  "meaning_vi": "Cần phải…",
+  "explain_vi": "Diễn tả sự cần thiết khách quan. Phủ định: 〜必要はない.",
+  "group": "Nghĩa vụ",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0155"
+  ]
+ },
+ {
+  "id": "hodo",
+  "pattern": "〜ほど(程度)",
+  "reading": "",
+  "formula": "V-る/N + ほど + A/V",
+  "meaning_vi": "Đến mức…",
+  "explain_vi": "Chỉ mức độ của trạng thái (涙が出るほどうれしい). Khác ほど〜ない (so sánh kém).",
+  "group": "Mức độ",
+  "confusable": [
+   "gurai"
+  ],
+  "examples_qids": [
+   "bunpro:1032",
+   "challenge:N3G0120",
+   "tryjlpt:29-1480297638877",
+   "jt4y:57-1",
+   "jt4y:1495-7"
+  ]
+ },
+ {
+  "id": "ippou-da",
+  "pattern": "〜一方だ",
+  "reading": "",
+  "formula": "V-る + 一方だ",
+  "meaning_vi": "Ngày càng…, chỉ theo chiều…",
+  "explain_vi": "Xu hướng liên tục đi theo một hướng (増える一方だ, 悪くなる一方だ).",
+  "group": "Biến đổi",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0044",
+   "nihongopro:b8ecf21f70-3",
+   "japanesequizzes:grammar-7-6449",
+   "japanesequizzes:grammar-19-6626",
+   "japanesequizzes:grammar-38-7156"
+  ]
+ },
+ {
+  "id": "irai",
+  "pattern": "〜以来",
+  "reading": "",
+  "formula": "V-て / N + 以来",
+  "meaning_vi": "Kể từ khi…",
+  "explain_vi": "Từ một mốc quá khứ liên tục đến nay (日本へ来て以来). Không dùng cho mốc ngắn.",
+  "group": "Thời gian",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0209",
+   "challenge:N3G0075",
+   "japanesequizzes:grammar-13-6540",
+   "japanesequizzes:grammar-21-6663",
+   "japanesequizzes:grammar-33-7225"
+  ]
+ },
+ {
+  "id": "ka-douka",
+  "pattern": "〜かどうか",
+  "reading": "",
+  "formula": "普通形 + かどうか",
+  "meaning_vi": "Có… hay không",
+  "explain_vi": "Câu hỏi gián tiếp dạng có/không (来るかどうか教えて). Không có từ để hỏi thì dùng かどうか, có thì dùng か.",
+  "group": "Mệnh đề lồng",
+  "confusable": [
+   "ka-gimon"
+  ],
+  "examples_qids": [
+   "challenge:N3G0027",
+   "challenge:N3G0172",
+   "gyanmirai:grammar-6-2",
+   "jt4y:1571-10",
+   "jt4y:1575-2"
+  ]
+ },
+ {
+  "id": "kake",
+  "pattern": "〜かけ",
+  "reading": "",
+  "formula": "V-ます + かけ(の)",
+  "meaning_vi": "Đang làm dở",
+  "explain_vi": "Hành động bỏ dở giữa chừng (食べかけ, 読みかけ).",
+  "group": "Thể/Aspect",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0078",
+   "challenge:N3G0202",
+   "challenge:N3G0104",
+   "tryjlpt:19-1480124341177",
+   "tryjlpt:6-1479321405663"
+  ]
+ },
+ {
+  "id": "kanari",
+  "pattern": "かなり",
+  "reading": "",
+  "formula": "かなり + A/V",
+  "meaning_vi": "Khá là, khá nhiều",
+  "explain_vi": "Phó từ chỉ mức độ cao khá; dùng với khẳng định.",
+  "group": "Phó từ",
+  "confusable": [],
+  "examples_qids": [
+   "bunpro:1073"
+  ]
+ },
+ {
+  "id": "kanenai",
+  "pattern": "〜かねない",
+  "reading": "",
+  "formula": "V-ます + かねない",
+  "meaning_vi": "Có thể dẫn đến (điều xấu)",
+  "explain_vi": "Có nguy cơ xảy ra điều tiêu cực (病気になりかねない).",
+  "group": "Phỏng đoán",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0084",
+   "tryjlpt:23-1480129659691"
+  ]
+ },
+ {
+  "id": "kara-koso",
+  "pattern": "〜からこそ",
+  "reading": "",
+  "formula": "普通形 + からこそ〜のだ",
+  "meaning_vi": "Chính vì… nên…",
+  "explain_vi": "Nhấn mạnh lý do duy nhất, thường đi với のだ/のです ở cuối.",
+  "group": "Nguyên nhân",
+  "confusable": [
+   "kara-riyuu"
+  ],
+  "examples_qids": [
+   "bunpro:1031",
+   "bunpro:1065",
+   "challenge:N3G0105",
+   "mazii:626-4303-0",
+   "mlc:n3_jlpt_grammar_quiz_02-q2"
+  ]
+ },
+ {
+  "id": "kara-miru",
+  "pattern": "〜から見ると / 〜から考えると",
+  "reading": "",
+  "formula": "N + から見ると/考えると",
+  "meaning_vi": "Xét từ N, nhìn từ N",
+  "explain_vi": "Lấy N làm căn cứ/quan điểm để phán đoán.",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0173",
+   "japanesequizzes:grammar-2-6380",
+   "japanesequizzes:grammar-6-6438",
+   "japanesequizzes:grammar-11-6513",
+   "japanesequizzes:grammar-16-6579"
+  ]
+ },
+ {
+  "id": "kara-to-itte",
+  "pattern": "〜からといって〜とは限らない",
+  "reading": "",
+  "formula": "普通形 + からといって + とは限らない/わけではない",
+  "meaning_vi": "Không phải cứ… là…",
+  "explain_vi": "Từ một lý do hợp lý nhưng kết luận không luôn đúng; thường đi với とは限らない, わけではない, かならずしも.",
+  "group": "Điều kiện nghịch",
+  "confusable": [
+   "to-wa-kagiranai"
+  ],
+  "examples_qids": [
+   "bunpro:1044",
+   "challenge:N3G0154",
+   "challenge:N3G0028",
+   "challenge:N3G0214",
+   "challenge:N3G0002"
+  ]
+ },
+ {
+  "id": "kiru",
+  "pattern": "〜きる",
+  "reading": "",
+  "formula": "V-ます + きる",
+  "meaning_vi": "Làm hết, làm trọn",
+  "explain_vi": "Hoàn tất toàn bộ (食べきる, 使いきる); đặc biệt với きれない = không thể hết.",
+  "group": "Thể/Aspect",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0196",
+   "challenge:N3G0197",
+   "tryjlpt:23-1480129304519",
+   "jt4y:579-3",
+   "mlc:n3_jlpt_grammar_quiz_06-q3"
+  ]
+ },
+ {
+  "id": "koto-da",
+  "pattern": "〜ことだ",
+  "reading": "",
+  "formula": "V-る/V-ない + ことだ",
+  "meaning_vi": "Nên (lời khuyên), điều quan trọng là…",
+  "explain_vi": "Lời khuyên hoặc điều nên làm, hơi mang giọng giáo huấn (もっと勉強することだ).",
+  "group": "Gợi ý/Khuyên",
+  "confusable": [
+   "beki"
+  ],
+  "examples_qids": [
+   "bunpro:1012",
+   "jt4y:63-4",
+   "japanesequizzes:grammar-7-6451",
+   "japanesequizzes:grammar-24-6705",
+   "japanesequizzes:grammar-40-7126"
+  ]
+ },
+ {
+  "id": "koto-ka",
+  "pattern": "〜ことか",
+  "reading": "",
+  "formula": "どれだけ/どんなに/なんと + 普通形 + ことか",
+  "meaning_vi": "Biết bao…",
+  "explain_vi": "Cảm thán mạnh về mức độ cảm xúc. Thường kết bằng ことか! hoặc ことだろう.",
+  "group": "Mẫu cuối câu",
+  "confusable": [
+   "donna-ni-ka"
+  ],
+  "examples_qids": [
+   "bunpro:1053",
+   "mlc:n3_jlpt_grammar_quiz_08-q7",
+   "nihongopro:f747504af6-2",
+   "japanesequizzes:grammar-13-6538",
+   "japanesequizzes:grammar-25-6721"
+  ]
+ },
+ {
+  "id": "koto-ni-kanjou",
+  "pattern": "〜ことに",
+  "reading": "",
+  "formula": "A + ことに / V-た + ことに",
+  "meaning_vi": "Điều … là…",
+  "explain_vi": "Đặt đầu câu để nói cảm xúc của người nói về sự việc tiếp theo (うれしいことに, 残念なことに, 驚いたことに).",
+  "group": "Cảm xúc",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0053",
+   "tryjlpt:24-1480134895742",
+   "jt4y:577-8",
+   "jt4y:583-9",
+   "japanesequizzes:grammar-8-6468"
+  ]
+ },
+ {
+  "id": "koto-wa-nai",
+  "pattern": "〜ことはない",
+  "reading": "",
+  "formula": "V-る + ことはない",
+  "meaning_vi": "Không cần phải…",
+  "explain_vi": "Trấn an/khuyên không cần làm gì (心配することはない).",
+  "group": "Cho phép",
+  "confusable": [
+   "nakereba-naranai"
+  ],
+  "examples_qids": [
+   "challenge:N3G0216",
+   "challenge:N3G0170",
+   "dethitiengnhat:N3-5-3-q6",
+   "nihongopro:a77592a059-5",
+   "tryjlpt:19-1480123889692"
+  ]
+ },
+ {
+  "id": "kuse-ni",
+  "pattern": "〜くせに",
+  "reading": "",
+  "formula": "普通形 + くせに",
+  "meaning_vi": "Mặc dù… vậy mà (chê trách)",
+  "explain_vi": "Giống のに nhưng thêm sắc thái khinh bỉ, chê trách, dùng khi nói về người.",
+  "group": "Điều kiện nghịch",
+  "confusable": [
+   "noni"
+  ],
+  "examples_qids": [
+   "challenge:N3G0239",
+   "dethitiengnhat:N3-2-3-q8",
+   "dethitiengnhat:N3-3-3-q7",
+   "nihongopro:98f72a73ed-4",
+   "jt4y:583-7"
+  ]
+ },
+ {
+  "id": "maru-de",
+  "pattern": "まるで〜ようだ",
+  "reading": "",
+  "formula": "まるで + N の/普通形 + ようだ/みたいだ",
+  "meaning_vi": "Cứ như là…",
+  "explain_vi": "So sánh ví von mạnh với thứ khác (まるで夢のようだ).",
+  "group": "So sánh",
+  "confusable": [
+   "youni-youtai"
+  ],
+  "examples_qids": [
+   "bunpro:1058",
+   "challenge:N3G0122",
+   "nihongopro:5962b337cc-5",
+   "nihongopro:0565d33107-3",
+   "nihongopro:517b89436f-3"
+  ]
+ },
+ {
+  "id": "masumasu",
+  "pattern": "ますます",
+  "reading": "",
+  "formula": "ますます + A/V",
+  "meaning_vi": "Càng ngày càng…",
+  "explain_vi": "Mức độ tiếp tục tăng thêm.",
+  "group": "Phó từ",
+  "confusable": [],
+  "examples_qids": [
+   "bunpro:1047"
+  ]
+ },
+ {
+  "id": "muke",
+  "pattern": "〜向け / 〜向き",
+  "reading": "",
+  "formula": "N + 向けの + N",
+  "meaning_vi": "Dành cho (đối tượng)",
+  "explain_vi": "向け là ý định nhà sản xuất nhắm tới đối tượng (子ども向け); 向き là tự nhiên phù hợp với (初心者向き).",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [],
+  "examples_qids": [
+   "bunpro:1035",
+   "dethitiengnhat:N3-5-3-q11",
+   "jt4y:51-10",
+   "nihongopro:b8ecf21f70-5",
+   "japanesequizzes:grammar-2-6369"
+  ]
+ },
+ {
+  "id": "nai-koto-wa-nai",
+  "pattern": "〜ないことはない / 〜ないこともない",
+  "reading": "",
+  "formula": "V-ない/A-くない + ことはない",
+  "meaning_vi": "Không hẳn là không… (cũng có thể)",
+  "explain_vi": "Phủ định kép, khẳng định yếu: cũng có thể, không phải là không. Thường kèm が để nhượng bộ.",
+  "group": "Phỏng đoán",
+  "confusable": [],
+  "examples_qids": [
+   "bunpro:1020",
+   "bunpro:1039",
+   "challenge:N3G0131",
+   "challenge:N3G0003",
+   "tryjlpt:34-1480318955365"
+  ]
+ },
+ {
+  "id": "ni-awasete",
+  "pattern": "〜に合わせて",
+  "reading": "",
+  "formula": "N + に合わせて",
+  "meaning_vi": "Phù hợp với, theo N",
+  "explain_vi": "Điều chỉnh hành động cho khớp với tiêu chuẩn N.",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [],
+  "examples_qids": [
+   "japanesequizzes:grammar-1-6361",
+   "japanesequizzes:grammar-14-6559",
+   "japanesequizzes:grammar-36-7174",
+   "japanesequizzes:grammar-48-7004",
+   "bunpro:1085"
+  ]
+ },
+ {
+  "id": "ni-chigainai",
+  "pattern": "〜に違いない",
+  "reading": "",
+  "formula": "普通形 + に違いない",
+  "meaning_vi": "Chắc chắn là…",
+  "explain_vi": "Suy đoán rất chắc chắn dựa trên căn cứ của người nói. Mạnh hơn だろう/かもしれない.",
+  "group": "Phỏng đoán",
+  "confusable": [
+   "hazu",
+   "kamoshirenai"
+  ],
+  "examples_qids": [
+   "bunpro:1017",
+   "challenge:N3G0215",
+   "nihongopro:b8ecf21f70-1",
+   "tryjlpt:33-1480304805990",
+   "jt4y:51-1"
+  ]
+ },
+ {
+  "id": "ni-hanshite",
+  "pattern": "〜に反して",
+  "reading": "",
+  "formula": "N + に反して",
+  "meaning_vi": "Trái với N",
+  "explain_vi": "Kết quả ngược với kỳ vọng/dự đoán/quy tắc (期待に反して).",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0035",
+   "mazii:627-7765-0",
+   "japanesequizzes:grammar-10-6497",
+   "japanesequizzes:grammar-22-6675",
+   "japanesequizzes:grammar-28-6770"
+  ]
+ },
+ {
+  "id": "ni-joshi",
+  "pattern": "に(目的・対象・帰着点)",
+  "reading": "",
+  "formula": "N + に + 便利/役に立つ/行く",
+  "meaning_vi": "Trợ từ に",
+  "explain_vi": "に chỉ đích đến, đối tượng, mục đích (旅行に便利, 買い物に行く). Phân biệt với で/へ.",
+  "group": "Trợ từ",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0036",
+   "nihongopro:1060e3557e-2",
+   "nihongopro:17eead2099-1",
+   "nihongopro:17eead2099-2",
+   "nihongopro:6fc3b1b60b-2"
+  ]
+ },
+ {
+  "id": "ni-kagitte",
+  "pattern": "〜に限って",
+  "reading": "",
+  "formula": "N + に限って",
+  "meaning_vi": "Riêng N thì…",
+  "explain_vi": "Tin tưởng tuyệt đối vào đối tượng (私の息子に限って…ない), hoặc chỉ đúng lúc không may.",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0139"
+  ]
+ },
+ {
+  "id": "ni-kakete",
+  "pattern": "〜にかけて",
+  "reading": "",
+  "formula": "N1 + から + N2 + にかけて",
+  "meaning_vi": "Từ… đến…",
+  "explain_vi": "Phạm vi thời gian/không gian ước chừng (今夜から明日にかけて).",
+  "group": "Thời gian",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0046",
+   "nihongopro:d3befa57a5-5",
+   "tryjlpt:19-1480064299797",
+   "jt4y:577-4",
+   "jt4y:1501-9"
+  ]
+ },
+ {
+  "id": "ni-kansuru",
+  "pattern": "〜に関する",
+  "reading": "",
+  "formula": "N + に関する + N",
+  "meaning_vi": "Liên quan đến, về…",
+  "explain_vi": "Nối danh từ: N に関する N2 = N2 liên quan đến N. Đứng trước danh từ, khác に関して.",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [
+   "ni-tsuite"
+  ],
+  "examples_qids": [
+   "challenge:N3G0080",
+   "nihongopro:5962b337cc-1",
+   "nihongopro:0565d33107-1",
+   "nihongopro:18803365d6-3",
+   "jt4y:55-4"
+  ]
+ },
+ {
+  "id": "ni-kawatte",
+  "pattern": "〜にかわって",
+  "reading": "",
+  "formula": "N + にかわって",
+  "meaning_vi": "Thay cho N",
+  "explain_vi": "Thay thế người hoặc vật cũ.",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [
+   "no-kawari-ni"
+  ],
+  "examples_qids": [
+   "bunpro:1062",
+   "japanesequizzes:grammar-3-6391",
+   "japanesequizzes:grammar-22-6666",
+   "japanesequizzes:grammar-28-6769",
+   "japanesequizzes:grammar-50-6963"
+  ]
+ },
+ {
+  "id": "ni-motozuite",
+  "pattern": "〜に基づいて",
+  "reading": "",
+  "formula": "N + に基づいて",
+  "meaning_vi": "Dựa trên N",
+  "explain_vi": "Dựa vào căn cứ (事実, 法律, 経験…) để làm gì.",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [
+   "wo-moto-ni"
+  ],
+  "examples_qids": [
+   "bunpro:1027",
+   "challenge:N3G0065",
+   "jt4y:1614-3",
+   "japanesequizzes:grammar-8-6459",
+   "japanesequizzes:grammar-14-6560"
+  ]
+ },
+ {
+  "id": "ni-shite-wa",
+  "pattern": "〜にしては",
+  "reading": "",
+  "formula": "N/普通形 + にしては",
+  "meaning_vi": "Xét theo N thì (khác dự đoán)",
+  "explain_vi": "So với tiêu chuẩn mong đợi, kết quả bất ngờ (子どもにしては静かだ).",
+  "group": "So sánh",
+  "confusable": [
+   "wari-ni"
+  ],
+  "examples_qids": [
+   "bunpro:1030",
+   "jt4y:583-6",
+   "mlc:n3_jlpt_grammar_quiz_07-q3"
+  ]
+ },
+ {
+  "id": "ni-suginai",
+  "pattern": "〜にすぎない",
+  "reading": "",
+  "formula": "N/普通形 + にすぎない",
+  "meaning_vi": "Chỉ là…, không hơn",
+  "explain_vi": "Hạ thấp tầm quan trọng (ただの噂にすぎない).",
+  "group": "Giới hạn",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0134",
+   "tryjlpt:29-1480298272403",
+   "tryjlpt:6-1479321918520",
+   "japanesequizzes:grammar-2-6378",
+   "japanesequizzes:grammar-20-6638"
+  ]
+ },
+ {
+  "id": "ni-tomonatte",
+  "pattern": "〜に伴って",
+  "reading": "",
+  "formula": "N/V-る + に伴って",
+  "meaning_vi": "Cùng với, kéo theo",
+  "explain_vi": "A thay đổi kéo theo B thay đổi (成長に伴って).",
+  "group": "Biến đổi",
+  "confusable": [
+   "ni-tsurete"
+  ],
+  "examples_qids": [
+   "challenge:N3G0178",
+   "japanesequizzes:grammar-12-6519",
+   "japanesequizzes:grammar-17-6595",
+   "japanesequizzes:grammar-38-7145",
+   "japanesequizzes:grammar-50-6964"
+  ]
+ },
+ {
+  "id": "ni-tsurete",
+  "pattern": "〜につれて",
+  "reading": "",
+  "formula": "V-る + につれて",
+  "meaning_vi": "Càng… càng…",
+  "explain_vi": "Hai sự thay đổi diễn ra song song (年を取るにつれて).",
+  "group": "Biến đổi",
+  "confusable": [
+   "ni-shitagatte"
+  ],
+  "examples_qids": [
+   "challenge:N3G0093",
+   "challenge:N3G0186",
+   "challenge:N3G0235",
+   "jt4y:1581-5",
+   "mazii:627-7754-0"
+  ]
+ },
+ {
+  "id": "ni-wataru",
+  "pattern": "〜にわたる / にわたって",
+  "reading": "",
+  "formula": "N + にわたって",
+  "meaning_vi": "Suốt, trải dài (khoảng)",
+  "explain_vi": "Phạm vi rộng về thời gian, số lượng, không gian (2年にわたる工事).",
+  "group": "Thời gian",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0023",
+   "challenge:N3G0138",
+   "tryjlpt:6-1479321763575",
+   "jt4y:1614-2",
+   "japanesequizzes:grammar-10-6496"
+  ]
+ },
+ {
+  "id": "ni-yoruto",
+  "pattern": "〜によると / 〜によれば",
+  "reading": "",
+  "formula": "N + によると + そうだ/らしい",
+  "meaning_vi": "Theo N thì…",
+  "explain_vi": "Dẫn nguồn thông tin, cuối câu thường là そうだ, ということだ, らしい.",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [
+   "sou-da-denbun"
+  ],
+  "examples_qids": [
+   "bunpro:1037",
+   "bunpro:1050",
+   "challenge:N3G0233",
+   "challenge:N3G0018",
+   "jt4y:51-2"
+  ]
+ },
+ {
+  "id": "no-kawari-ni",
+  "pattern": "〜のかわりに",
+  "reading": "",
+  "formula": "N/V-る + かわりに",
+  "meaning_vi": "Thay vì, đổi lại",
+  "explain_vi": "Thay thế cho N, hoặc đổi lại bằng điều khác.",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [
+   "ni-kawatte"
+  ],
+  "examples_qids": [
+   "challenge:N3G0047",
+   "nihongopro:33b8265a29-4",
+   "tryjlpt:6-1479321474695",
+   "jt4y:55-10",
+   "jt4y:61-3"
+  ]
+ },
+ {
+  "id": "no-kekka",
+  "pattern": "〜の結果",
+  "reading": "",
+  "formula": "N/V-た + 結果",
+  "meaning_vi": "Kết quả của…",
+  "explain_vi": "Quá trình X dẫn đến kết quả Y (話し合いの結果).",
+  "group": "Nguyên nhân",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0180"
+  ]
+ },
+ {
+  "id": "no-koto-dakara",
+  "pattern": "〜のことだから",
+  "reading": "",
+  "formula": "N(người) + のことだから",
+  "meaning_vi": "Vì là N (tính cách quen thuộc) nên…",
+  "explain_vi": "Đưa ra suy đoán dựa trên tính cách đã biết của người đó.",
+  "group": "Phỏng đoán",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0043",
+   "challenge:N3G0096",
+   "japanesequizzes:grammar-1-6355",
+   "japanesequizzes:grammar-21-6660",
+   "japanesequizzes:grammar-40-7114"
+  ]
+ },
+ {
+  "id": "omoi-wo-suru",
+  "pattern": "〜思いをする",
+  "reading": "",
+  "formula": "A-い + 思いをする",
+  "meaning_vi": "Trải qua cảm giác…",
+  "explain_vi": "Cụm cố định (恥ずかしい思い, 悲しい思いをする).",
+  "group": "Cụm cố định",
+  "confusable": [],
+  "examples_qids": [
+   "bunpro:1117"
+  ]
+ },
+ {
+  "id": "osore-ga-aru",
+  "pattern": "〜おそれがある",
+  "reading": "",
+  "formula": "V-る/N の + おそれがある",
+  "meaning_vi": "Có nguy cơ…",
+  "explain_vi": "Sợ rằng điều xấu có thể xảy ra, dùng trong thông báo, dự báo.",
+  "group": "Phỏng đoán",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0077",
+   "dethitiengnhat:N3-4-3-q12",
+   "tryjlpt:16-1480049492646",
+   "japanesequizzes:grammar-10-6486",
+   "japanesequizzes:grammar-23-6689"
+  ]
+ },
+ {
+  "id": "ppanashi",
+  "pattern": "〜っぱなし",
+  "reading": "",
+  "formula": "V-ます + っぱなし",
+  "meaning_vi": "Để nguyên (bỏ mặc)",
+  "explain_vi": "Bỏ nguyên trạng thái, không dọn (つけっぱなし, 出しっぱなし), sắc thái chê.",
+  "group": "Trạng thái",
+  "confusable": [
+   "mama"
+  ],
+  "examples_qids": [
+   "challenge:N3G0055",
+   "challenge:N3G0195",
+   "dethitiengnhat:N3-1-3-q10",
+   "nihongopro:cfb066c802-2",
+   "nihongopro:cfb066c802-6"
+  ]
+ },
+ {
+  "id": "sa-mi",
+  "pattern": "〜さ / 〜み",
+  "reading": "",
+  "formula": "A-い(bỏ い) + さ/み",
+  "meaning_vi": "Danh từ hóa tính từ",
+  "explain_vi": "さ chỉ mức độ khách quan (重さ), み chỉ cảm nhận chủ quan (楽しみ, 悲しみ).",
+  "group": "Mệnh đề/Danh từ hoá",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0050",
+   "nihongopro:9e3744eb93-1",
+   "nihongopro:9e3744eb93-2",
+   "nihongopro:9e3744eb93-5",
+   "mlc:n3_01_04-q1"
+  ]
+ },
+ {
+  "id": "sae",
+  "pattern": "〜さえ",
+  "reading": "",
+  "formula": "N + さえ",
+  "meaning_vi": "Ngay cả…",
+  "explain_vi": "Nêu ví dụ cực đoan để suy ra mức khác (子どもでさえ知っている). Thường đi với phủ định hoặc ví dụ nhẹ nhất.",
+  "group": "Trợ từ",
+  "confusable": [
+   "demo-sae"
+  ],
+  "examples_qids": [
+   "challenge:N3G0223",
+   "dethitiengnhat:N3-2-3-q4",
+   "nihongopro:cb38e4d9ed-5",
+   "jt4y:59-4",
+   "mlc:n3_jlpt_grammar_quiz_01-q3"
+  ]
+ },
+ {
+  "id": "sae-ba",
+  "pattern": "〜さえ〜ば",
+  "reading": "",
+  "formula": "N + さえ + V-ば / V-ます + さえすれば",
+  "meaning_vi": "Chỉ cần… là…",
+  "explain_vi": "Chỉ cần điều kiện tối thiểu đó là đủ (あなたさえいれば).",
+  "group": "Thể điều kiện",
+  "confusable": [
+   "ba-jouken"
+  ],
+  "examples_qids": [
+   "bunpro:1029",
+   "challenge:N3G0029",
+   "challenge:N3G0222",
+   "nihongopro:cb38e4d9ed-3",
+   "jt4y:63-10"
+  ]
+ },
+ {
+  "id": "saichuu",
+  "pattern": "〜最中に",
+  "reading": "",
+  "formula": "N の/V-ている + 最中に",
+  "meaning_vi": "Đang giữa lúc…",
+  "explain_vi": "Nhấn mạnh đang ở giữa chừng, có việc xen vào (授業の最中に電話が鳴った).",
+  "group": "Thời gian",
+  "confusable": [
+   "uchi-ni"
+  ],
+  "examples_qids": [
+   "bunpro:1034",
+   "challenge:N3G0206",
+   "challenge:N3G0128",
+   "jt4y:585-7",
+   "mlc:n3_jlpt_grammar_quiz_05-q3"
+  ]
+ },
+ {
+  "id": "shidai",
+  "pattern": "〜次第",
+  "reading": "",
+  "formula": "V-ます + 次第",
+  "meaning_vi": "Ngay sau khi…",
+  "explain_vi": "Ngay khi xong việc A thì làm B, vế sau là ý chí/dự định (受け取り次第返してください).",
+  "group": "Thời gian",
+  "confusable": [],
+  "examples_qids": [
+   "bunpro:1054",
+   "tryjlpt:34-1480318374155",
+   "jt4y:583-3"
+  ]
+ },
+ {
+  "id": "shikata-ga-nai",
+  "pattern": "〜てしかたがない",
+  "reading": "",
+  "formula": "V-て/A-くて + しかたがない",
+  "meaning_vi": "… không chịu nổi, hết sức…",
+  "explain_vi": "Cảm giác/cảm xúc mạnh không kiềm chế được (うるさくて仕方がない). Khác 〜ても仕方がない (vô ích).",
+  "group": "Cảm xúc",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0030",
+   "challenge:N3G0129",
+   "tryjlpt:33-1480304479741",
+   "japanesequizzes:grammar-11-6507",
+   "japanesequizzes:grammar-15-6569"
+  ]
+ },
+ {
+  "id": "sono-tame",
+  "pattern": "そのため / その結果",
+  "reading": "",
+  "formula": "文。そのため/その結果、文",
+  "meaning_vi": "Vì vậy, kết quả là…",
+  "explain_vi": "Liên từ chỉ nguyên nhân – kết quả ở văn viết.",
+  "group": "Liên từ",
+  "confusable": [
+   "dakara"
+  ],
+  "examples_qids": [
+   "bunpro:1107",
+   "bunpro:1119"
+  ]
+ },
+ {
+  "id": "ta-tokoro",
+  "pattern": "〜たところ(結果)",
+  "reading": "",
+  "formula": "V-た + ところ",
+  "meaning_vi": "Khi làm thử… thì (kết quả)",
+  "explain_vi": "Làm một việc rồi phát hiện kết quả bất ngờ (問い合わせたところ、〜と言われた).",
+  "group": "Thời gian",
+  "confusable": [
+   "tokoro"
+  ],
+  "examples_qids": [
+   "challenge:N3G0208",
+   "challenge:N3G0006",
+   "challenge:N3G0130",
+   "jt4y:1571-8",
+   "mlc:n3_jlpt_grammar_quiz_03-q9"
+  ]
+ },
+ {
+  "id": "te-goran",
+  "pattern": "〜てごらん",
+  "reading": "",
+  "formula": "V-て + ごらん",
+  "meaning_vi": "Hãy thử xem…",
+  "explain_vi": "Cách nói nhẹ nhàng với người nhỏ (trẻ em, cấp dưới) của てみて.",
+  "group": "Gợi ý/Khuyên",
+  "confusable": [],
+  "examples_qids": [
+   "bunpro:1041",
+   "jt4y:587-1",
+   "mlc:n3_jlpt_grammar_quiz_12-q2"
+  ]
+ },
+ {
+  "id": "te-hajimete",
+  "pattern": "〜てはじめて",
+  "reading": "",
+  "formula": "V-て + はじめて",
+  "meaning_vi": "Sau khi… lần đầu tiên mới…",
+  "explain_vi": "Chỉ khi trải qua A mới nhận ra/biết B (日本へ来てはじめて…).",
+  "group": "Thời gian",
+  "confusable": [],
+  "examples_qids": [
+   "bunpro:1061",
+   "challenge:N3G0114",
+   "nihongopro:e81ee2c39c-5",
+   "jt4y:55-2",
+   "mlc:n3_jlpt_grammar_quiz_10-q5"
+  ]
+ },
+ {
+  "id": "to-doujini",
+  "pattern": "〜と同時に",
+  "reading": "",
+  "formula": "V-る/N + と同時に",
+  "meaning_vi": "Đồng thời với…",
+  "explain_vi": "Hai việc xảy ra cùng lúc, hoặc không những… mà còn.",
+  "group": "Thời gian",
+  "confusable": [],
+  "examples_qids": [
+   "bunpro:1046",
+   "challenge:N3G0169"
+  ]
+ },
+ {
+  "id": "to-itte-mo",
+  "pattern": "〜といっても",
+  "reading": "",
+  "formula": "普通形 + といっても",
+  "meaning_vi": "Tuy nói là… nhưng",
+  "explain_vi": "Đính chính, hạ thấp mức độ so với điều vừa nói (宝くじが当たった。といっても1000円だけだ).",
+  "group": "Liên từ",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0013",
+   "mlc:n3_jlpt_grammar_quiz_04-q6",
+   "japanesequizzes:grammar-3-6382",
+   "japanesequizzes:grammar-24-6696",
+   "japanesequizzes:grammar-32-7234"
+  ]
+ },
+ {
+  "id": "to-wa-kagiranai",
+  "pattern": "〜とは限らない",
+  "reading": "",
+  "formula": "普通形 + とは限らない",
+  "meaning_vi": "Chưa chắc đã…",
+  "explain_vi": "Phủ định một phần: không phải lúc nào cũng vậy.",
+  "group": "Phỏng đoán",
+  "confusable": [
+   "kanarazushimo"
+  ],
+  "examples_qids": [
+   "jt4y:61-9",
+   "bunpro:1099",
+   "mazii:627-8423-0"
+  ]
+ },
+ {
+  "id": "toi-toi",
+  "pattern": "〜といい〜といい",
+  "reading": "",
+  "formula": "N + といい + N + といい",
+  "meaning_vi": "Dù là… hay… cũng…",
+  "explain_vi": "Nêu hai ví dụ để đánh giá chung (デザインといい性能といい申し分ない).",
+  "group": "Liệt kê",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0020"
+  ]
+ },
+ {
+  "id": "tokoro-ni",
+  "pattern": "〜ところに / ところを",
+  "reading": "",
+  "formula": "V-ている/V-よう + ところに",
+  "meaning_vi": "Đúng lúc đang…thì",
+  "explain_vi": "Có việc xen vào đúng lúc đang làm (お風呂に入ろうとしたところに電話が来た). ところを nghĩa tương tự, lịch sự: 忙しいところを…",
+  "group": "Thời gian",
+  "confusable": [
+   "tokoro"
+  ],
+  "examples_qids": [
+   "challenge:N3G0024",
+   "challenge:N3G0102",
+   "dethitiengnhat:N3-4-3-q6",
+   "dethitiengnhat:N3-8-3-q5"
+  ]
+ },
+ {
+  "id": "tokorode",
+  "pattern": "ところで / それでは",
+  "reading": "",
+  "formula": "文。ところで、文",
+  "meaning_vi": "À này, nhân tiện",
+  "explain_vi": "Liên từ chuyển đề tài (ところで, それでは, さて).",
+  "group": "Liên từ",
+  "confusable": [],
+  "examples_qids": [
+   "bunpro:1042",
+   "jt4y:1571-7",
+   "jt4y:1575-8"
+  ]
+ },
+ {
+  "id": "totan-ni",
+  "pattern": "〜たとたん(に)",
+  "reading": "",
+  "formula": "V-た + とたん(に)",
+  "meaning_vi": "Vừa mới… thì ngay lập tức…",
+  "explain_vi": "Hai sự việc xảy ra liên tiếp tức thì, vế sau bất ngờ, không dùng ý chí.",
+  "group": "Thời gian",
+  "confusable": [],
+  "examples_qids": [
+   "bunpro:1014",
+   "bunpro:1066",
+   "challenge:N3G0187",
+   "challenge:N3G0207",
+   "nihongopro:b8ecf21f70-2"
+  ]
+ },
+ {
+  "id": "totemo-nai",
+  "pattern": "とても〜ない",
+  "reading": "",
+  "formula": "とても + V-可能形 + ない",
+  "meaning_vi": "Không thể nào…",
+  "explain_vi": "Phủ định hoàn toàn khả năng (とても買えない).",
+  "group": "Phó từ",
+  "confusable": [],
+  "examples_qids": [
+   "bunpro:1069"
+  ]
+ },
+ {
+  "id": "tsuide-ni",
+  "pattern": "〜ついでに",
+  "reading": "",
+  "formula": "V-る/V-た/N の + ついでに",
+  "meaning_vi": "Nhân tiện, tiện thể",
+  "explain_vi": "Nhân dịp làm việc chính, làm thêm việc phụ.",
+  "group": "Thời gian",
+  "confusable": [],
+  "examples_qids": [
+   "bunpro:1036",
+   "challenge:N3G0034",
+   "challenge:N3G0203",
+   "challenge:N3G0158",
+   "jt4y:585-9"
+  ]
+ },
+ {
+  "id": "ue-de",
+  "pattern": "〜上で",
+  "reading": "",
+  "formula": "V-た/N の + 上で",
+  "meaning_vi": "Sau khi…, trong việc…",
+  "explain_vi": "V-た上で = sau khi làm xong A mới làm B; V-る上で = trong quá trình/để làm V thì.",
+  "group": "Thời gian",
+  "confusable": [
+   "ue-ni"
+  ],
+  "examples_qids": [
+   "bunpro:1049",
+   "bunpro:1064",
+   "challenge:N3G0152",
+   "challenge:N3G0151",
+   "challenge:N3G0162"
+  ]
+ },
+ {
+  "id": "ue-ni",
+  "pattern": "〜うえに",
+  "reading": "",
+  "formula": "普通形 + うえに",
+  "meaning_vi": "Hơn nữa, lại còn",
+  "explain_vi": "Chồng thêm một điều cùng chiều (xấu + xấu hoặc tốt + tốt).",
+  "group": "Liên từ",
+  "confusable": [
+   "dake-de-naku"
+  ],
+  "examples_qids": [
+   "challenge:N3G0101",
+   "challenge:N3G0165",
+   "challenge:N3G0142",
+   "dethitiengnhat:N3-4-3-q5",
+   "jt4y:585-6"
+  ]
+ },
+ {
+  "id": "wake-da",
+  "pattern": "〜わけだ",
+  "reading": "",
+  "formula": "普通形 + わけだ",
+  "meaning_vi": "Hèn gì…, nghĩa là…",
+  "explain_vi": "Rút ra kết luận hợp lý từ sự thật đã biết ('thảo nào').",
+  "group": "Mẫu cuối câu",
+  "confusable": [
+   "hazu"
+  ],
+  "examples_qids": [
+   "bunpro:1015",
+   "challenge:N3G0042",
+   "challenge:N3G0181",
+   "nihongopro:c51728c595-3",
+   "jt4y:51-3"
+  ]
+ },
+ {
+  "id": "wake-dewa-nai",
+  "pattern": "〜わけではない",
+  "reading": "",
+  "formula": "普通形 + わけではない",
+  "meaning_vi": "Không có nghĩa là…",
+  "explain_vi": "Phủ định một phần, chữa hiểu lầm (嫌いなわけではない).",
+  "group": "Phỏng đoán",
+  "confusable": [
+   "to-wa-kagiranai"
+  ],
+  "examples_qids": [
+   "challenge:N3G0062",
+   "dethitiengnhat:N3-3-3-q12",
+   "nihongopro:c51728c595-5",
+   "jt4y:577-1",
+   "mlc:n3_04_12-q1"
+  ]
+ },
+ {
+  "id": "wake-ga-nai",
+  "pattern": "〜わけがない",
+  "reading": "",
+  "formula": "普通形 + わけがない",
+  "meaning_vi": "Không đời nào, làm gì có chuyện…",
+  "explain_vi": "Phủ định mạnh bằng lý lẽ.",
+  "group": "Phỏng đoán",
+  "confusable": [
+   "hazu"
+  ],
+  "examples_qids": [
+   "challenge:N3G0123",
+   "tryjlpt:27-1480145111911",
+   "jt4y:61-5",
+   "mazii:626-4411-0",
+   "nihongopro:c51728c595-2"
+  ]
+ },
+ {
+  "id": "wake-niwa-ikanai",
+  "pattern": "〜わけにはいかない",
+  "reading": "",
+  "formula": "V-る/V-ない + わけにはいかない",
+  "meaning_vi": "Không thể… (vì hoàn cảnh)",
+  "explain_vi": "Vì trách nhiệm, đạo lý nên không thể làm. 〜ないわけにはいかない = không thể không.",
+  "group": "Nghĩa vụ",
+  "confusable": [],
+  "examples_qids": [
+   "bunpro:1033",
+   "challenge:N3G0218",
+   "challenge:N3G0012",
+   "dethitiengnhat:N3-5-3-q12",
+   "nihongopro:c51728c595-1"
+  ]
+ },
+ {
+  "id": "wari-ni",
+  "pattern": "〜わりに",
+  "reading": "",
+  "formula": "普通形 + わりに(は)",
+  "meaning_vi": "So với… thì (khác dự đoán)",
+  "explain_vi": "Kết quả không tương xứng với mức dự kiến (年のわりに若く見える).",
+  "group": "So sánh",
+  "confusable": [
+   "ni-shite-wa"
+  ],
+  "examples_qids": [
+   "bunpro:1021",
+   "bunpro:1060",
+   "challenge:N3G0144",
+   "challenge:N3G0143",
+   "challenge:N3G0025"
+  ]
+ },
+ {
+  "id": "wo-moto-ni",
+  "pattern": "〜をもとに",
+  "reading": "",
+  "formula": "N + をもとに(して)",
+  "meaning_vi": "Dựa trên N (làm nguyên liệu)",
+  "explain_vi": "Dùng tư liệu/sự thật để tạo ra cái mới (実話をもとに映画を作った).",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [
+   "ni-motozuite"
+  ],
+  "examples_qids": [
+   "challenge:N3G0125",
+   "japanesequizzes:grammar-1-6362",
+   "japanesequizzes:grammar-16-6587",
+   "japanesequizzes:grammar-28-6762",
+   "japanesequizzes:grammar-43-7070"
+  ]
+ },
+ {
+  "id": "wo-nozoite",
+  "pattern": "〜を除いて",
+  "reading": "",
+  "formula": "N + を除いて/除き",
+  "meaning_vi": "Ngoại trừ N",
+  "explain_vi": "Loại trừ một phần khỏi tổng thể.",
+  "group": "Giới hạn",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0124",
+   "nihongopro:1c101bd23a-1",
+   "japanesequizzes:grammar-4-6396",
+   "japanesequizzes:grammar-21-6661",
+   "japanesequizzes:grammar-35-7195"
+  ]
+ },
+ {
+  "id": "wo-tooshite",
+  "pattern": "〜を通して / 〜を通じて",
+  "reading": "",
+  "formula": "N + を通して",
+  "meaning_vi": "Thông qua N",
+  "explain_vi": "Dùng N làm phương tiện, kênh trung gian hoặc suốt cả khoảng thời gian.",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0116",
+   "challenge:N3G0071",
+   "jt4y:1616-8",
+   "nihongopro:f747504af6-5",
+   "japanesequizzes:grammar-2-6377"
+  ]
+ },
+ {
+  "id": "zu-ni-wa-irarenai",
+  "pattern": "〜ずにはいられない",
+  "reading": "",
+  "formula": "V-ない(bỏ ない) + ずにはいられない",
+  "meaning_vi": "Không thể không…, không kìm được",
+  "explain_vi": "Không thể nhịn làm (泣かずにはいられない). Cũng 〜ないではいられない.",
+  "group": "Cảm xúc",
+  "confusable": [],
+  "examples_qids": [
+   "bunpro:1056",
+   "jt4y:579-9",
+   "mazii:625-4442-0",
+   "bunpro:1110"
+  ]
+ },
+ {
+  "id": "goro",
+  "pattern": "〜ごろ",
+  "reading": "",
+  "formula": "時間 + ごろ",
+  "meaning_vi": "Khoảng (thời điểm)",
+  "explain_vi": "Chỉ thời điểm ước chừng (3時ごろ), khác ぐらい chỉ lượng.",
+  "group": "Thời gian",
+  "confusable": [
+   "gurai"
+  ],
+  "examples_qids": [
+   "japanesequizzes:grammar-32-7245"
+  ]
+ },
+ {
+  "id": "dochira-ka-to-iu-to",
+  "pattern": "どちらかというと",
+  "reading": "",
+  "formula": "どちらかというと + 〜(のほう)が…",
+  "meaning_vi": "Nếu phải chọn thì…, thiên về…",
+  "explain_vi": "Nói về xu hướng nghiêng về một bên khi so sánh hai thứ, thường ở câu trả lời nhẹ nhàng (洋食を作ることのほうが多い).",
+  "group": "Phó từ",
+  "confusable": [
+   "yori-hou-ga"
+  ],
+  "examples_qids": [
+   "dethitiengnhat:N3-10-3-q3",
+   "japanesequizzes:grammar-10-6493",
+   "japanesequizzes:grammar-23-6686",
+   "japanesequizzes:grammar-30-7272",
+   "japanesequizzes:grammar-41-7100"
+  ]
+ },
+ {
+  "id": "dokoro-dewanai",
+  "pattern": "〜どころではない",
+  "reading": "",
+  "formula": "V-る/N + どころではない",
+  "meaning_vi": "Làm gì có thời gian/tâm trí để…",
+  "explain_vi": "Hoàn cảnh không cho phép làm việc đó vì đang có việc quan trọng hơn (帰るどころではない). Khác どころか (đừng nói là).",
+  "group": "Mẫu cuối câu",
+  "confusable": [
+   "dokoroka"
+  ],
+  "examples_qids": [
+   "dethitiengnhat:N3-2-3-q12",
+   "tryjlpt:16-1480054408313"
+  ]
+ },
+ {
+  "id": "goto",
+  "pattern": "〜ごと",
+  "reading": "",
+  "formula": "N + ごと",
+  "meaning_vi": "Mỗi (N), cứ mỗi",
+  "explain_vi": "Chỉ từng đơn vị lặp lại (季節ごとに, 一週間ごと). Cũng có nghĩa 'cả (vỏ)': りんごを皮ごと.",
+  "group": "Số lượng",
+  "confusable": [],
+  "examples_qids": [
+   "japanesequizzes:grammar-2-6379",
+   "japanesequizzes:grammar-20-6646",
+   "japanesequizzes:grammar-29-6772",
+   "japanesequizzes:grammar-49-6980",
+   "dethitiengnhat:N3-5-3-q21"
+  ]
+ },
+ {
+  "id": "hanmen",
+  "pattern": "〜反面",
+  "reading": "",
+  "formula": "普通形 + 反面",
+  "meaning_vi": "Mặt khác, ngược lại",
+  "explain_vi": "Nêu hai mặt tương phản của cùng một đối tượng (便利な反面危険だ).",
+  "group": "Liên từ",
+  "confusable": [
+   "ippou-de"
+  ],
+  "examples_qids": [
+   "challenge:N3G0136",
+   "mazii:625-4581-0",
+   "mazii:626-4311-0",
+   "nihongopro:aaaf3bac92-5",
+   "japanesequizzes:grammar-3-6386"
+  ]
+ },
+ {
+  "id": "kaette",
+  "pattern": "かえって",
+  "reading": "",
+  "formula": "かえって + 文",
+  "meaning_vi": "Ngược lại, trái lại",
+  "explain_vi": "Kết quả ngược với điều mong đợi (手伝ってもらったらかえって時間がかかった).",
+  "group": "Phó từ",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0054",
+   "dethitiengnhat:N3-5-3-q5"
+  ]
+ },
+ {
+  "id": "kara-joshi",
+  "pattern": "から(起点・材料・根拠)",
+  "reading": "",
+  "formula": "N + から",
+  "meaning_vi": "Từ…",
+  "explain_vi": "Nguồn gốc, xuất phát điểm, căn cứ (社内から集める, 見た目から判断する).",
+  "group": "Trợ từ",
+  "confusable": [],
+  "examples_qids": [
+   "dethitiengnhat:N3-10-3-q1",
+   "tryjlpt:29-1480297689647"
+  ]
+ },
+ {
+  "id": "mono-desukara",
+  "pattern": "〜ものですから",
+  "reading": "",
+  "formula": "普通形 + ものですから",
+  "meaning_vi": "Vì… (lịch sự, bào chữa)",
+  "explain_vi": "Nêu lý do mang tính bào chữa khi xin lỗi, giải thích; lịch sự, hơi nữ tính hay trong văn nói trang trọng (おなかが痛かったものですから).",
+  "group": "Nguyên nhân",
+  "confusable": [
+   "kara-riyuu"
+  ],
+  "examples_qids": [
+   "challenge:N3G0121",
+   "jt4y:587-4",
+   "japanesequizzes:grammar-8-6466",
+   "japanesequizzes:grammar-15-6562",
+   "japanesequizzes:grammar-34-7210"
+  ]
+ },
+ {
+  "id": "nagara-mo",
+  "pattern": "〜ながらも",
+  "reading": "",
+  "formula": "V-ます / A / N + ながらも",
+  "meaning_vi": "Tuy… nhưng…",
+  "explain_vi": "Hai vế đối lập trong cùng một đối tượng, văn viết (浅いながらも最後まで責任を持つ).",
+  "group": "Điều kiện nghịch",
+  "confusable": [
+   "noni"
+  ],
+  "examples_qids": [
+   "dethitiengnhat:N3-5-3-q4",
+   "jt4y:57-2",
+   "japanesequizzes:grammar-12-6523",
+   "japanesequizzes:grammar-20-6644",
+   "japanesequizzes:grammar-34-7204"
+  ]
+ },
+ {
+  "id": "ni-kagirazu",
+  "pattern": "〜に限らず",
+  "reading": "",
+  "formula": "N + に限らず",
+  "meaning_vi": "Không chỉ N (mà cả…)",
+  "explain_vi": "Mở rộng phạm vi, không giới hạn ở N (若者に限らず…も).",
+  "group": "Liên từ",
+  "confusable": [
+   "dake-de-naku"
+  ],
+  "examples_qids": [
+   "challenge:N3G0133",
+   "nihongopro:7d360e81c5-2",
+   "tryjlpt:24-1480150235492"
+  ]
+ },
+ {
+  "id": "ni-kimatteiru",
+  "pattern": "〜に決まっている",
+  "reading": "",
+  "formula": "普通形 + に決まっている",
+  "meaning_vi": "Chắc chắn là, đương nhiên là",
+  "explain_vi": "Khẳng định mạnh chủ quan của người nói, thường nêu lý do ở vế sau.",
+  "group": "Phỏng đoán",
+  "confusable": [
+   "ni-chigainai"
+  ],
+  "examples_qids": [
+   "challenge:N3G0015",
+   "nihongopro:43462b7a6c-1",
+   "tryjlpt:27-1480146037129",
+   "japanesequizzes:grammar-6-6440",
+   "japanesequizzes:grammar-19-6622"
+  ]
+ },
+ {
+  "id": "ni-kizuku",
+  "pattern": "〜ことに気づく / 気がつく",
+  "reading": "",
+  "formula": "普通形 + ことに気づく",
+  "meaning_vi": "Nhận ra rằng…",
+  "explain_vi": "Nhận ra một sự thật (何も知らなかったことに気がついた). Luôn dùng に.",
+  "group": "Mệnh đề lồng",
+  "confusable": [],
+  "examples_qids": [
+   "dethitiengnhat:N3-5-3-q7",
+   "mlc:n3_01_03-q2"
+  ]
+ },
+ {
+  "id": "ni-mo-kakawarazu",
+  "pattern": "〜にもかかわらず",
+  "reading": "",
+  "formula": "普通形/N + にもかかわらず",
+  "meaning_vi": "Mặc dù, bất chấp",
+  "explain_vi": "Trái với điều kiện bất lợi vẫn xảy ra (忙しいにもかかわらず). Văn viết và lịch sự; sắc thái khen hoặc trung tính.",
+  "group": "Điều kiện nghịch",
+  "confusable": [
+   "noni",
+   "kuse-ni"
+  ],
+  "examples_qids": [
+   "dethitiengnhat:N3-5-3-q8",
+   "tryjlpt:19-1480124522416",
+   "tryjlpt:33-1480306014472"
+  ]
+ },
+ {
+  "id": "ru-shika-nai",
+  "pattern": "〜しかない / 〜よりほかない",
+  "reading": "",
+  "formula": "V-る + しかない",
+  "meaning_vi": "Chỉ còn cách…, đành phải…",
+  "explain_vi": "Không còn lựa chọn khác (歩いて帰るしかない). Khác Nしか〜ない (chỉ N).",
+  "group": "Nghĩa vụ",
+  "confusable": [
+   "shika-nai"
+  ],
+  "examples_qids": [
+   "challenge:N3G0217",
+   "challenge:N3G0008",
+   "tryjlpt:6-1479321981819",
+   "jt4y:583-2",
+   "mlc:n3_jlpt_grammar_quiz_09-q4"
+  ]
+ },
+ {
+  "id": "shikamo",
+  "pattern": "しかも",
+  "reading": "",
+  "formula": "文。しかも、文",
+  "meaning_vi": "Hơn nữa, lại còn",
+  "explain_vi": "Liên từ thêm ý cùng chiều, mạnh hơn それに.",
+  "group": "Liên từ",
+  "confusable": [
+   "soreni"
+  ],
+  "examples_qids": [
+   "dethitiengnhat:N3-3-3-q8"
+  ]
+ },
+ {
+  "id": "te-iku",
+  "pattern": "〜ていく",
+  "reading": "",
+  "formula": "V-て + いく",
+  "meaning_vi": "Dần dần…; làm rồi đi",
+  "explain_vi": "Sự thay đổi hướng về tương lai (増えていく), hoặc làm rồi mang đi (買っていく). Đối lập 〜てくる.",
+  "group": "Thể/Aspect",
+  "confusable": [
+   "te-kuru"
+  ],
+  "examples_qids": [
+   "dethitiengnhat:N3-9-3-q10",
+   "dethitiengnhat:N3-10-3-q6"
+  ]
+ },
+ {
+  "id": "te-kara-denaito",
+  "pattern": "〜てからでないと",
+  "reading": "",
+  "formula": "V-て + からでないと〜ない",
+  "meaning_vi": "Nếu chưa… thì không thể…",
+  "explain_vi": "Điều kiện bắt buộc phải hoàn thành A trước B.",
+  "group": "Thể điều kiện",
+  "confusable": [],
+  "examples_qids": [
+   "dethitiengnhat:N3-2-3-q13",
+   "nihongopro:5962b337cc-3"
+  ]
+ },
+ {
+  "id": "temo-shikata-ga-nai",
+  "pattern": "〜ても仕方がない",
+  "reading": "",
+  "formula": "V-て + も仕方がない",
+  "meaning_vi": "Có… cũng vô ích",
+  "explain_vi": "Làm cũng không thay đổi được gì (焦っても仕方がない). Khác 〜てしかたがない (không chịu nổi).",
+  "group": "Cho phép",
+  "confusable": [
+   "shikata-ga-nai"
+  ],
+  "examples_qids": [
+   "challenge:N3G0107",
+   "challenge:N3G0019",
+   "mazii:626-4300-0"
+  ]
+ },
+ {
+  "id": "wo-komete",
+  "pattern": "〜を込めて",
+  "reading": "",
+  "formula": "N + を込めて",
+  "meaning_vi": "Dồn, gửi gắm (tình cảm)",
+  "explain_vi": "Cụm cố định: 心を込めて, 愛を込めて.",
+  "group": "Cụm cố định",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0004",
+   "nihongopro:43462b7a6c-5",
+   "japanesequizzes:grammar-23-6683",
+   "japanesequizzes:grammar-36-7184",
+   "japanesequizzes:grammar-47-7011"
+  ]
+ },
+ {
+  "id": "wo-megutte",
+  "pattern": "〜をめぐって",
+  "reading": "",
+  "formula": "N + をめぐって",
+  "meaning_vi": "Xoay quanh N",
+  "explain_vi": "Nói về tranh luận, tranh chấp xoay quanh một vấn đề (遺産をめぐって争う).",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [],
+  "examples_qids": [
+   "challenge:N3G0037",
+   "challenge:N3G0072",
+   "japanesequizzes:grammar-5-6424",
+   "japanesequizzes:grammar-22-6677",
+   "japanesequizzes:grammar-30-7263"
+  ]
+ },
+ {
+  "id": "gatai",
+  "pattern": "〜がたい",
+  "reading": "",
+  "formula": "V-ます + がたい",
+  "meaning_vi": "Khó mà…, khó có thể…",
+  "explain_vi": "Diễn tả việc khó thực hiện về mặt tâm lý/đạo lý hoặc khó xảy ra (信じがたい, 否定しがたい). Văn viết. Khác にくい (khó thao tác).",
+  "group": "Mức độ",
+  "confusable": [
+   "nikui"
+  ],
+  "examples_qids": [
+   "jt4y:1501-10",
+   "japanesequizzes:grammar-9-6474",
+   "japanesequizzes:grammar-24-6697",
+   "japanesequizzes:grammar-33-7224",
+   "japanesequizzes:grammar-42-7091"
+  ]
+ },
+ {
+  "id": "kakeru",
+  "pattern": "〜かける",
+  "reading": "",
+  "formula": "V-ます + かける",
+  "meaning_vi": "Làm dở, bắt đầu…; hướng tới (người)",
+  "explain_vi": "Hậu tố: 話しかける (bắt chuyện), 言いかける (nói dở), 死にかける (suýt chết).",
+  "group": "Động từ ghép",
+  "confusable": [
+   "kake"
+  ],
+  "examples_qids": [
+   "jt4y:1581-8"
+  ]
+ },
+ {
+  "id": "kara-shite",
+  "pattern": "〜からして",
+  "reading": "",
+  "formula": "N + からして",
+  "meaning_vi": "Chỉ riêng N cũng đã…",
+  "explain_vi": "Lấy một chi tiết đầu tiên làm cơ sở để đánh giá chung (顔つきからして怖そう), thường nghĩa xấu.",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [],
+  "examples_qids": [
+   "jt4y:1573-3"
+  ]
+ },
+ {
+  "id": "kiri",
+  "pattern": "〜きり",
+  "reading": "",
+  "formula": "V-た + きり / N + きり",
+  "meaning_vi": "Từ đó chưa… ; chỉ có…",
+  "explain_vi": "V-たきり…ない = từ sau lần đó không còn gì tiếp nữa; N-きり (二人きり) = chỉ có hai người.",
+  "group": "Giới hạn",
+  "confusable": [],
+  "examples_qids": [
+   "jt4y:57-4",
+   "jt4y:1495-5",
+   "mazii:625-4253-0",
+   "mlc:n3_004-q1",
+   "mlc:n3_004-q2"
+  ]
+ },
+ {
+  "id": "koso",
+  "pattern": "〜こそ",
+  "reading": "",
+  "formula": "N + こそ",
+  "meaning_vi": "Chính là…",
+  "explain_vi": "Trợ từ nhấn mạnh (それこそ, 今度こそ, こちらこそ).",
+  "group": "Trợ từ",
+  "confusable": [
+   "kara-koso"
+  ],
+  "examples_qids": [
+   "nihongopro:cb38e4d9ed-1",
+   "jt4y:53-8",
+   "japanesequizzes:grammar-11-6514",
+   "japanesequizzes:grammar-27-6743",
+   "japanesequizzes:grammar-40-7125"
+  ]
+ },
+ {
+  "id": "koto-shiji",
+  "pattern": "〜こと(指示)",
+  "reading": "",
+  "formula": "V-る/V-ない + こと",
+  "meaning_vi": "Hãy…, phải… (chỉ thị)",
+  "explain_vi": "Kết câu bằng こと để đưa ra quy tắc, chỉ thị trong văn bản, thông báo, hướng dẫn (正直になること).",
+  "group": "Mẫu cuối câu",
+  "confusable": [
+   "koto-da"
+  ],
+  "examples_qids": [
+   "jt4y:583-1"
+  ]
+ },
+ {
+  "id": "mushiro",
+  "pattern": "むしろ",
+  "reading": "",
+  "formula": "A というより むしろ B",
+  "meaning_vi": "Đúng hơn, thà…hơn",
+  "explain_vi": "Sửa/đối chiếu: B phù hợp hơn A.",
+  "group": "Phó từ",
+  "confusable": [
+   "to-iu-yori"
+  ],
+  "examples_qids": [
+   "jt4y:55-5",
+   "japanesequizzes:grammar-9-6484",
+   "japanesequizzes:grammar-19-6628",
+   "japanesequizzes:grammar-52-6946"
+  ]
+ },
+ {
+  "id": "ni-saishite",
+  "pattern": "〜に際して",
+  "reading": "",
+  "formula": "N/V-る + に際して",
+  "meaning_vi": "Nhân dịp, vào lúc…",
+  "explain_vi": "Vào thời điểm bắt đầu một việc quan trọng, trang trọng (契約に際して).",
+  "group": "Thời gian",
+  "confusable": [],
+  "examples_qids": [
+   "jt4y:1571-1"
+  ]
+ },
+ {
+  "id": "nite",
+  "pattern": "〜にて",
+  "reading": "",
+  "formula": "N + にて",
+  "meaning_vi": "Bằng, tại (trang trọng)",
+  "explain_vi": "Dạng văn viết của で (phương tiện, địa điểm), dùng trong thông báo (メールにて連絡).",
+  "group": "Trợ từ",
+  "confusable": [
+   "ni-oite"
+  ],
+  "examples_qids": [
+   "jt4y:1499-8"
+  ]
+ },
+ {
+  "id": "no-amari",
+  "pattern": "〜のあまり",
+  "reading": "",
+  "formula": "N/V-る + あまり",
+  "meaning_vi": "Vì quá… nên",
+  "explain_vi": "Cảm xúc quá mạnh dẫn tới hành động/trạng thái bất thường (うれしさのあまり).",
+  "group": "Nguyên nhân",
+  "confusable": [
+   "amari-ni"
+  ],
+  "examples_qids": [
+   "tryjlpt:21-1480126268322",
+   "jt4y:57-9",
+   "jt4y:1622-6",
+   "japanesequizzes:grammar-1-6351",
+   "japanesequizzes:grammar-14-6555"
+  ]
+ },
+ {
+  "id": "no-ue-dewa",
+  "pattern": "〜上では",
+  "reading": "",
+  "formula": "N + 上では",
+  "meaning_vi": "Xét về mặt…, theo…",
+  "explain_vi": "Nêu phạm vi/góc nhìn (理屈の上では, 計算の上では, 規則の上では).",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [],
+  "examples_qids": [
+   "jt4y:1499-3",
+   "jt4y:1616-10",
+   "tryjlpt:21-1480127583453"
+  ]
+ },
+ {
+  "id": "ppoi",
+  "pattern": "〜っぽい",
+  "reading": "",
+  "formula": "N/V-ます/A + っぽい",
+  "meaning_vi": "Có vẻ, hơi giống…",
+  "explain_vi": "Mang tính chất, cảm giác giống N (ビジネスマンっぽい, 子どもっぽい, 忘れっぽい). Văn nói.",
+  "group": "Biểu hiện",
+  "confusable": [
+   "rashii-noun"
+  ],
+  "examples_qids": [
+   "nihongopro:fd43b1cf23-5",
+   "jt4y:51-9"
+  ]
+ },
+ {
+  "id": "ru-bakari-da",
+  "pattern": "〜ばかりだ",
+  "reading": "",
+  "formula": "V-る + ばかりだ",
+  "meaning_vi": "Chỉ ngày càng…",
+  "explain_vi": "Diễn tả xu hướng chỉ đi theo một chiều, thường xấu (悪化するばかりだ). Khác 一方だ.",
+  "group": "Biến đổi",
+  "confusable": [
+   "ippou-da"
+  ],
+  "examples_qids": [
+   "jt4y:577-3",
+   "japanesequizzes:grammar-5-6425",
+   "japanesequizzes:grammar-23-6682",
+   "japanesequizzes:grammar-36-7175",
+   "japanesequizzes:grammar-49-6978"
+  ]
+ },
+ {
+  "id": "sappari",
+  "pattern": "さっぱり",
+  "reading": "",
+  "formula": "さっぱり + V-ない",
+  "meaning_vi": "Hoàn toàn không (hiểu, biết)",
+  "explain_vi": "Phó từ phủ định toàn bộ (さっぱり分からない). Cũng nghĩa 'sảng khoái, nhẹ nhàng'.",
+  "group": "Phó từ",
+  "confusable": [],
+  "examples_qids": [
+   "jt4y:1581-4"
+  ]
+ },
+ {
+  "id": "takke",
+  "pattern": "〜っけ",
+  "reading": "",
+  "formula": "V-た/N だ + っけ",
+  "meaning_vi": "… nhỉ? (nhớ lại)",
+  "explain_vi": "Hỏi lại điều mình quên hoặc không chắc (昨日はどこまで話したっけ?).",
+  "group": "Mẫu cuối câu",
+  "confusable": [],
+  "examples_qids": [
+   "jt4y:53-2",
+   "mlc:n3_jlpt_grammar_quiz_12-q6"
+  ]
+ },
+ {
+  "id": "tamaranai",
+  "pattern": "〜てたまらない",
+  "reading": "",
+  "formula": "V-て/A-くて/な-A で + たまらない",
+  "meaning_vi": "… không chịu nổi",
+  "explain_vi": "Cảm giác/cảm xúc quá mạnh (残念でたまらない). Gần てしかたがない.",
+  "group": "Cảm xúc",
+  "confusable": [
+   "shikata-ga-nai"
+  ],
+  "examples_qids": [
+   "tryjlpt:23-1480129771272",
+   "jt4y:1616-3",
+   "japanesequizzes:grammar-6-6437",
+   "japanesequizzes:grammar-10-6487",
+   "japanesequizzes:grammar-21-6651"
+  ]
+ },
+ {
+  "id": "tatoeba",
+  "pattern": "たとえば",
+  "reading": "",
+  "formula": "たとえば + 例",
+  "meaning_vi": "Ví dụ",
+  "explain_vi": "Phó từ mở đầu câu ví dụ cụ thể.",
+  "group": "Liên từ",
+  "confusable": [],
+  "examples_qids": [
+   "dethitiengnhat:N3-32-3-q20"
+  ]
+ },
+ {
+  "id": "te-wa-irarenai",
+  "pattern": "〜てはいられない",
+  "reading": "",
+  "formula": "V-て + はいられない",
+  "meaning_vi": "Không thể cứ… mãi",
+  "explain_vi": "Tình hình gấp nên không thể tiếp tục trạng thái đó (のんびりしてはいられない).",
+  "group": "Mẫu cuối câu",
+  "confusable": [],
+  "examples_qids": [
+   "jt4y:1495-3",
+   "mazii:626-7734-0",
+   "japanesequizzes:grammar-4-6409",
+   "japanesequizzes:grammar-14-6549",
+   "japanesequizzes:grammar-22-6674"
+  ]
+ },
+ {
+  "id": "to-iu-yori",
+  "pattern": "〜というより",
+  "reading": "",
+  "formula": "普通形 + というより",
+  "meaning_vi": "Đúng hơn là, hơn là nói…",
+  "explain_vi": "So sánh hai cách diễn đạt: nói B thì chính xác hơn A.",
+  "group": "Liên từ",
+  "confusable": [
+   "mushiro"
+  ],
+  "examples_qids": [
+   "jt4y:59-2",
+   "mlc:n3_jlpt_grammar_quiz_05-q6",
+   "mlc:n3_jlpt_grammar_quiz_08-q1",
+   "japanesequizzes:grammar-39-7135"
+  ]
+ },
+ {
+  "id": "to-tomoni",
+  "pattern": "〜とともに",
+  "reading": "",
+  "formula": "N/V-る + とともに",
+  "meaning_vi": "Cùng với, đồng thời với",
+  "explain_vi": "(1) cùng với N; (2) A thay đổi thì B cũng thay đổi; (3) đồng thời.",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [
+   "ni-tsurete"
+  ],
+  "examples_qids": [
+   "jt4y:55-8",
+   "jt4y:61-2",
+   "japanesequizzes:grammar-11-6508",
+   "japanesequizzes:grammar-26-6727",
+   "japanesequizzes:grammar-31-7258"
+  ]
+ },
+ {
+  "id": "toori",
+  "pattern": "〜とおり(に)",
+  "reading": "",
+  "formula": "N の/V-る/V-た + とおり",
+  "meaning_vi": "Đúng như, theo như",
+  "explain_vi": "Làm theo đúng/giống như (知ってのとおり, 説明書のとおり).",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [],
+  "examples_qids": [
+   "nihongopro:fc9a19f742-5",
+   "nihongopro:1a39e0c81a-3",
+   "tryjlpt:29-1480297738674",
+   "jt4y:57-6",
+   "mlc:n3_jlpt_grammar_quiz_02-q1"
+  ]
+ },
+ {
+  "id": "wo-hajime",
+  "pattern": "〜をはじめ",
+  "reading": "",
+  "formula": "N + をはじめ(とする)",
+  "meaning_vi": "Tiêu biểu là N, kể cả…",
+  "explain_vi": "Nêu N làm đại diện rồi kể thêm nhiều thứ cùng loại (妻をはじめ多くの人).",
+  "group": "Liệt kê",
+  "confusable": [],
+  "examples_qids": [
+   "tryjlpt:21-1480126517316",
+   "jt4y:51-4",
+   "japanesequizzes:grammar-9-6473",
+   "japanesequizzes:grammar-19-6627",
+   "japanesequizzes:grammar-30-7274"
+  ]
+ },
+ {
+  "id": "ageku",
+  "pattern": "〜あげく",
+  "reading": "",
+  "formula": "V-た/N の + あげく",
+  "meaning_vi": "Rốt cuộc sau khi…(kết cục xấu)",
+  "explain_vi": "Sau một quá trình dài (vất vả, nhiều lần) thì cuối cùng dẫn đến kết quả không mong muốn (悩んだあげく何も決められなかった). Vế sau luôn là kết quả tiêu cực.",
+  "group": "Nguyên nhân",
+  "confusable": [
+   "kekkyoku"
+  ],
+  "examples_qids": [
+   "mazii:627-8403-0",
+   "mazii:626-12672-1"
+  ]
+ },
+ {
+  "id": "ijou",
+  "pattern": "〜以上(は)",
+  "reading": "",
+  "formula": "普通形 + 以上(は)",
+  "meaning_vi": "Một khi đã…thì…",
+  "explain_vi": "Nêu tiền đề đã xác định, vế sau là trách nhiệm, quyết tâm hay phán đoán tất yếu (引き受けた以上やるしかない).",
+  "group": "Nghĩa vụ",
+  "confusable": [
+   "ta-ue-wa"
+  ],
+  "examples_qids": [
+   "tryjlpt:24-1480134645244",
+   "mazii:626-7715-0",
+   "japanesequizzes:grammar-5-6418",
+   "japanesequizzes:grammar-24-6698",
+   "japanesequizzes:grammar-36-7180"
+  ]
+ },
+ {
+  "id": "janai-ka",
+  "pattern": "〜じゃないか / 〜ではないか",
+  "reading": "",
+  "formula": "V-よう + じゃないか / 普通形 + じゃないか",
+  "meaning_vi": "Nào cùng…đi; chẳng phải là…sao",
+  "explain_vi": "V-ようじゃないか = rủ rê, kêu gọi mạnh mẽ; 普通形じゃないか = ngạc nhiên hoặc nhắc nhở.",
+  "group": "Mẫu cuối câu",
+  "confusable": [],
+  "examples_qids": [
+   "mazii:627-4510-0",
+   "tryjlpt:19-1480124593872"
+  ]
+ },
+ {
+  "id": "kesshite",
+  "pattern": "決して〜ない",
+  "reading": "",
+  "formula": "決して + V-ない",
+  "meaning_vi": "Tuyệt đối không…",
+  "explain_vi": "Phó từ nhấn mạnh phủ định mạnh (決して忘れない). Chỉ đi với phủ định.",
+  "group": "Phó từ",
+  "confusable": [
+   "kanarazu"
+  ],
+  "examples_qids": [
+   "nihongopro:517b89436f-4",
+   "mlc:n3_jlpt_grammar_quiz_06-q1"
+  ]
+ },
+ {
+  "id": "koto-wa-verb",
+  "pattern": "V-た/V-る ことは V-た/V-る (が)",
+  "reading": "",
+  "formula": "V + ことは + V (が、…)",
+  "meaning_vi": "Có thì có…, nhưng…",
+  "explain_vi": "Lặp lại cùng động từ để thừa nhận nhưng kèm điều kiện hạn chế ở vế sau (目が覚めたことは覚めたが、またすぐ寝てしまった).",
+  "group": "Mẫu cuối câu",
+  "confusable": [],
+  "examples_qids": [
+   "mlc:n3_jlpt_grammar_quiz_09-q8"
+  ]
+ },
+ {
+  "id": "ku-ni-naru",
+  "pattern": "〜くなる / 〜になる",
+  "reading": "",
+  "formula": "A-くなる / A-になる / N になる",
+  "meaning_vi": "Trở nên, trở thành",
+  "explain_vi": "Diễn tả sự thay đổi trạng thái: い-adj bỏ い + くなる; な-adj/danh từ + になる. Khác ようになる (thói quen, khả năng).",
+  "group": "Biến đổi",
+  "confusable": [
+   "you-ni-naru"
+  ],
+  "examples_qids": [
+   "mlc:n3_jlpt_grammar_quiz_08-q4"
+  ]
+ },
+ {
+  "id": "kurai-nara",
+  "pattern": "〜くらいなら",
+  "reading": "",
+  "formula": "V-る + くらいなら",
+  "meaning_vi": "Nếu phải…thì thà…",
+  "explain_vi": "Nêu một việc tệ để so sánh, ý là thà làm việc khác còn hơn (別れるくらいなら死んだほうがましだ).",
+  "group": "So sánh",
+  "confusable": [],
+  "examples_qids": [
+   "nihongopro:fc9a19f742-2",
+   "mlc:n3_005-q1",
+   "mlc:n3_005-q2"
+  ]
+ },
+ {
+  "id": "mattaku-nai",
+  "pattern": "まったく〜ない / 全然〜ない",
+  "reading": "",
+  "formula": "まったく + V-ない",
+  "meaning_vi": "Hoàn toàn không…",
+  "explain_vi": "Phó từ phủ định toàn phần; 全然 cũng cần phủ định (trong văn nói có khi dùng 全然+khẳng định).",
+  "group": "Phó từ",
+  "confusable": [
+   "sukoshimo-nai"
+  ],
+  "examples_qids": [
+   "mlc:n3_jlpt_grammar_quiz_06-q6",
+   "mlc:n3_jlpt_grammar_quiz_07-q10"
+  ]
+ },
+ {
+  "id": "metta-ni",
+  "pattern": "めったに〜ない",
+  "reading": "",
+  "formula": "めったに + V-ない",
+  "meaning_vi": "Hiếm khi…",
+  "explain_vi": "Tần suất rất thấp, chỉ đi với phủ định.",
+  "group": "Phó từ",
+  "confusable": [],
+  "examples_qids": [
+   "mlc:n3_jlpt_grammar_quiz_06-q9",
+   "mlc:n3_04_07-q1",
+   "mlc:n3_04_07-q2"
+  ]
+ },
+ {
+  "id": "mo-kamawazu",
+  "pattern": "〜もかまわず",
+  "reading": "",
+  "formula": "N/普通形 + もかまわず",
+  "meaning_vi": "Bất chấp, không để ý",
+  "explain_vi": "Không bận tâm đến điều lẽ ra phải để ý (足が痛むのもかまわず).",
+  "group": "Cụm cố định",
+  "confusable": [],
+  "examples_qids": [
+   "mazii:625-4188-0"
+  ]
+ },
+ {
+  "id": "mono-dewanai",
+  "pattern": "〜ものではない",
+  "reading": "",
+  "formula": "V-る + ものではない",
+  "meaning_vi": "Không nên…(lẽ thường)",
+  "explain_vi": "Nêu đạo lý, lẽ thường không nên làm (子を一人で遠くに行かせるものではない).",
+  "group": "Nghĩa vụ",
+  "confusable": [
+   "beki"
+  ],
+  "examples_qids": [
+   "mazii:625-4183-0",
+   "japanesequizzes:grammar-6-6436",
+   "japanesequizzes:grammar-21-6659",
+   "japanesequizzes:grammar-35-7200",
+   "japanesequizzes:grammar-41-7109"
+  ]
+ },
+ {
+  "id": "n-damon",
+  "pattern": "〜んだもん / だって〜もん",
+  "reading": "",
+  "formula": "だって + 普通形 + もん",
+  "meaning_vi": "Tại vì mà…(biện minh)",
+  "explain_vi": "Khẩu ngữ thân mật trẻ con/nữ giới để bào chữa.",
+  "group": "Mẫu cuối câu",
+  "confusable": [
+   "mono-desukara"
+  ],
+  "examples_qids": [
+   "mlc:n3_jlpt_grammar_quiz_06-q7"
+  ]
+ },
+ {
+  "id": "ni-kuwaete",
+  "pattern": "〜に加えて",
+  "reading": "",
+  "formula": "N + に加えて",
+  "meaning_vi": "Thêm vào N, ngoài N ra",
+  "explain_vi": "Bổ sung thêm yếu tố vào cái đã có, thường có も ở vế sau (虫の音に加えて川の音も聞こえる).",
+  "group": "Liệt kê",
+  "confusable": [
+   "no-hoka-ni"
+  ],
+  "examples_qids": [
+   "tryjlpt:27-1480145233607",
+   "nihongopro:ebbf91561f-1",
+   "japanesequizzes:grammar-9-6471",
+   "japanesequizzes:grammar-26-6728",
+   "japanesequizzes:grammar-35-7187"
+  ]
+ },
+ {
+  "id": "ni-sakidachi",
+  "pattern": "〜に先立ち / に先立って",
+  "reading": "",
+  "formula": "N/V-る + に先立って",
+  "meaning_vi": "Trước khi (việc quan trọng)",
+  "explain_vi": "Làm công việc chuẩn bị trước khi bắt đầu việc lớn, trang trọng (新薬の輸入に先立ち調査が行われる).",
+  "group": "Thời gian",
+  "confusable": [
+   "mae-ni"
+  ],
+  "examples_qids": [
+   "mazii:627-4620-0"
+  ]
+ },
+ {
+  "id": "ni-tatoeru",
+  "pattern": "〜にたとえる",
+  "reading": "",
+  "formula": "N1 を N2 にたとえる",
+  "meaning_vi": "Ví N1 như N2",
+  "explain_vi": "Dùng hình ảnh N2 để diễn đạt N1 (人生を花にたとえると).",
+  "group": "Cụm cố định",
+  "confusable": [],
+  "examples_qids": [
+   "mazii:625-4237-0"
+  ]
+ },
+ {
+  "id": "ni-tsuki",
+  "pattern": "〜につき",
+  "reading": "",
+  "formula": "N + につき",
+  "meaning_vi": "Mỗi (N); vì (lý do, thông báo)",
+  "explain_vi": "Hai nghĩa: (1) cho mỗi N (1人につき), (2) văn thông báo: vì…(定休日につき休業).",
+  "group": "Số lượng",
+  "confusable": [],
+  "examples_qids": [
+   "mazii:627-4514-0"
+  ]
+ },
+ {
+  "id": "sore-nishitemo",
+  "pattern": "それにしても",
+  "reading": "",
+  "formula": "文。それにしても、文",
+  "meaning_vi": "Dù vậy thì, nhưng mà",
+  "explain_vi": "Chuyển sang nhận xét cảm nghĩ về chuyện đang bàn (最近は事故が多いですね).",
+  "group": "Liên từ",
+  "confusable": [],
+  "examples_qids": [
+   "mlc:n3_jlpt_grammar_quiz_10-q7"
+  ]
+ },
+ {
+  "id": "ta-ue-wa",
+  "pattern": "〜たうえは",
+  "reading": "",
+  "formula": "V-た + うえは",
+  "meaning_vi": "Một khi đã…thì…",
+  "explain_vi": "Giống 以上は, vế sau là quyết tâm hay điều bắt buộc.",
+  "group": "Nghĩa vụ",
+  "confusable": [
+   "ijou"
+  ],
+  "examples_qids": [
+   "mazii:625-4602-0"
+  ]
+ },
+ {
+  "id": "tate",
+  "pattern": "〜たて",
+  "reading": "",
+  "formula": "V-ます + たて",
+  "meaning_vi": "Vừa mới…",
+  "explain_vi": "Vừa mới hoàn thành (焼きたて, 入社したて, できたて).",
+  "group": "Thể/Aspect",
+  "confusable": [
+   "tabakari"
+  ],
+  "examples_qids": [
+   "mlc:n3_jlpt_grammar_quiz_03-q6",
+   "mlc:n3_jlpt_grammar_quiz_09-q5"
+  ]
+ },
+ {
+  "id": "tatokorode",
+  "pattern": "〜たところで",
+  "reading": "",
+  "formula": "V-た + ところで",
+  "meaning_vi": "Dù có…cũng vô ích",
+  "explain_vi": "Dù cố gắng thế nào, kết quả vẫn như cũ hoặc không có ích (いくら話し合ったところで解決しない). Vế sau là phủ định/tiêu cực.",
+  "group": "Điều kiện nghịch",
+  "confusable": [
+   "temo"
+  ],
+  "examples_qids": [
+   "mazii:625-4391-0"
+  ]
+ },
+ {
+  "id": "to-iu-mono-da",
+  "pattern": "〜というものだ",
+  "reading": "",
+  "formula": "普通形 + というものだ",
+  "meaning_vi": "Đó chính là…(nhận định)",
+  "explain_vi": "Nhận xét chủ quan, thường phê phán (それはわがままというものだ).",
+  "group": "Mẫu cuối câu",
+  "confusable": [],
+  "examples_qids": [
+   "tryjlpt:33-1480304849480",
+   "mazii:626-4214-0",
+   "japanesequizzes:grammar-12-6529",
+   "japanesequizzes:grammar-15-6575",
+   "japanesequizzes:grammar-36-7177"
+  ]
+ },
+ {
+  "id": "to-iu-to",
+  "pattern": "〜というと",
+  "reading": "",
+  "formula": "N + というと",
+  "meaning_vi": "Nói đến N thì…",
+  "explain_vi": "Khơi gợi liên tưởng khi nhắc đến N (夏というと海を思い出す). Gần với といえば.",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [],
+  "examples_qids": [
+   "mlc:n3_jlpt_grammar_quiz_06-q10",
+   "japanesequizzes:grammar-7-6455",
+   "japanesequizzes:grammar-12-6528",
+   "japanesequizzes:grammar-19-6621",
+   "japanesequizzes:grammar-20-6645"
+  ]
+ },
+ {
+  "id": "to-made",
+  "pattern": "〜とまで",
+  "reading": "",
+  "formula": "普通形 + とまで + 言う/思う",
+  "meaning_vi": "Đến mức nói rằng…",
+  "explain_vi": "Nhấn mạnh mức độ nghiêm trọng, quá đà của lời nói/hành động.",
+  "group": "Mức độ",
+  "confusable": [],
+  "examples_qids": [
+   "jt4y:1618-4"
+  ]
+ },
+ {
+  "id": "to-wa-teigi",
+  "pattern": "Nとは〜ことだ",
+  "reading": "〜とは",
+  "formula": "N + とは + 〜ことだ/のことだ",
+  "meaning_vi": "N nghĩa là…",
+  "explain_vi": "Mẫu định nghĩa, giải thích khái niệm.",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [
+   "to-iu"
+  ],
+  "examples_qids": [
+   "jt4y:1616-7",
+   "mlc:n3_jlpt_grammar_quiz_07-q9",
+   "tryjlpt:21-1480127485943"
+  ]
+ },
+ {
+  "id": "tsumari",
+  "pattern": "つまり",
+  "reading": "",
+  "formula": "文。つまり、文",
+  "meaning_vi": "Tức là",
+  "explain_vi": "Liên từ nói lại cho gọn, tóm tắt hay giải thích đồng nghĩa.",
+  "group": "Liên từ",
+  "confusable": [],
+  "examples_qids": [
+   "mlc:n3_jlpt_grammar_quiz_06-q8",
+   "tryjlpt:34-1480319768475"
+  ]
+ },
+ {
+  "id": "tsutsu-aru",
+  "pattern": "〜つつある",
+  "reading": "",
+  "formula": "V-ます + つつある",
+  "meaning_vi": "Đang dần…",
+  "explain_vi": "Văn viết, diễn tả quá trình đang thay đổi (流行しつつある).",
+  "group": "Biến đổi",
+  "confusable": [
+   "te-kuru"
+  ],
+  "examples_qids": [
+   "jt4y:1616-6",
+   "japanesequizzes:grammar-13-6535",
+   "japanesequizzes:grammar-18-6609",
+   "japanesequizzes:grammar-31-7254",
+   "japanesequizzes:grammar-52-6937"
+  ]
+ },
+ {
+  "id": "wo-nuki-ni",
+  "pattern": "〜抜きで / 〜抜きにして",
+  "reading": "",
+  "formula": "N + 抜きで/抜きにして",
+  "meaning_vi": "Không có N, bỏ N đi",
+  "explain_vi": "Làm việc gì mà bỏ qua N (朝食抜きで, 挨拶は抜きにして).",
+  "group": "Cụm cố định",
+  "confusable": [],
+  "examples_qids": [
+   "mazii:627-4630-0",
+   "mazii:626-8244-0"
+  ]
+ },
+ {
+  "id": "you-ni-mo",
+  "pattern": "〜ようにも〜ない",
+  "reading": "",
+  "formula": "V-よう + にも + V-可能形ない",
+  "meaning_vi": "Dù muốn…cũng không thể",
+  "explain_vi": "Muốn làm nhưng hoàn cảnh không cho phép (出ようにも出られない).",
+  "group": "Khả năng",
+  "confusable": [],
+  "examples_qids": [
+   "jt4y:1620-4"
+  ]
+ },
+ {
+  "id": "dake-atte",
+  "pattern": "〜だけあって",
+  "reading": "",
+  "formula": "N/普通形 + だけあって",
+  "meaning_vi": "Quả đúng là…nên…",
+  "explain_vi": "Kết quả tương xứng với danh tiếng, năng lực (スポーツ選手だけあって走るのが速い), dùng để khen.",
+  "group": "Nguyên nhân",
+  "confusable": [
+   "okage-de"
+  ],
+  "examples_qids": [
+   "tryjlpt:37-1480325189224",
+   "tryjlpt:16-1480055805815"
+  ]
+ },
+ {
+  "id": "hame-ni-naru",
+  "pattern": "〜はめになる",
+  "reading": "",
+  "formula": "V-る + はめになる",
+  "meaning_vi": "Rơi vào tình cảnh phải…",
+  "explain_vi": "Kết cục bất đắc dĩ, không mong muốn (追加でお金を払うはめになった).",
+  "group": "Nguyên nhân",
+  "confusable": [],
+  "examples_qids": [
+   "tryjlpt:33-1480304924490"
+  ]
+ },
+ {
+  "id": "ikou",
+  "pattern": "〜以降",
+  "reading": "",
+  "formula": "N + 以降",
+  "meaning_vi": "Từ…trở đi, sau…",
+  "explain_vi": "Chỉ mốc thời gian bắt đầu, gồm cả mốc đó (第2回以降).",
+  "group": "Thời gian",
+  "confusable": [
+   "irai"
+  ],
+  "examples_qids": [
+   "tryjlpt:33-1480306107217"
+  ]
+ },
+ {
+  "id": "kagiri",
+  "pattern": "〜限り",
+  "reading": "",
+  "formula": "V-る/N の + 限り",
+  "meaning_vi": "Chừng nào còn…, trong phạm vi…",
+  "explain_vi": "Điều kiện kéo dài: chừng nào điều đó còn thì (仕事がある限り働く). Phạm vi tối đa (できる限り).",
+  "group": "Điều kiện",
+  "confusable": [],
+  "examples_qids": [
+   "tryjlpt:24-1480134701138",
+   "tryjlpt:16-1480049393374",
+   "tryjlpt:6-1479321439732",
+   "tryjlpt:29-1480298652471",
+   "tryjlpt:6-1479322434895"
+  ]
+ },
+ {
+  "id": "kaneru",
+  "pattern": "〜かねる",
+  "reading": "",
+  "formula": "V-ます + かねる",
+  "meaning_vi": "Khó lòng…, không thể…(lịch sự)",
+  "explain_vi": "Cách từ chối khéo léo vì không thể đáp ứng (わかりかねます). Khác かねない (có thể xảy ra điều xấu).",
+  "group": "Kính ngữ",
+  "confusable": [
+   "kanenai"
+  ],
+  "examples_qids": [
+   "tryjlpt:27-1480145483131"
+  ]
+ },
+ {
+  "id": "kkonai",
+  "pattern": "〜っこない",
+  "reading": "",
+  "formula": "V-ます + っこない",
+  "meaning_vi": "Tuyệt đối không thể…",
+  "explain_vi": "Phủ định khả năng rất mạnh, văn nói (できっこない).",
+  "group": "Phỏng đoán",
+  "confusable": [
+   "wake-ga-nai"
+  ],
+  "examples_qids": [
+   "tryjlpt:29-1480298099844"
+  ]
+ },
+ {
+  "id": "mai",
+  "pattern": "〜まい",
+  "reading": "",
+  "formula": "V-る + まい",
+  "meaning_vi": "Quyết không…; có lẽ không…",
+  "explain_vi": "Ý chí phủ định mạnh (もう吸うまい) hoặc phỏng đoán phủ định, văn viết. Nhóm 2 thường dùng V-まい (見まい).",
+  "group": "Ý chí/Dự định",
+  "confusable": [],
+  "examples_qids": [
+   "tryjlpt:27-1480145335000"
+  ]
+ },
+ {
+  "id": "moshikasuruto",
+  "pattern": "もしかすると / もしかしたら",
+  "reading": "",
+  "formula": "もしかすると + 〜かもしれない",
+  "meaning_vi": "Biết đâu, có khi…",
+  "explain_vi": "Phó từ đi cặp với かもしれない, diễn tả khả năng thấp.",
+  "group": "Phó từ",
+  "confusable": [
+   "kamoshirenai"
+  ],
+  "examples_qids": [
+   "nihongopro:517b89436f-5",
+   "tryjlpt:34-1480318460083",
+   "tryjlpt:29-1480299182573"
+  ]
+ },
+ {
+  "id": "ni-kotaeru",
+  "pattern": "〜にこたえる",
+  "reading": "",
+  "formula": "N + にこたえる",
+  "meaning_vi": "Đáp ứng N",
+  "explain_vi": "Đáp lại yêu cầu, kỳ vọng, ủng hộ (要求にこたえる).",
+  "group": "Cụm cố định",
+  "confusable": [],
+  "examples_qids": [
+   "japanesequizzes:grammar-5-6422",
+   "japanesequizzes:grammar-17-6594",
+   "japanesequizzes:grammar-37-7165",
+   "japanesequizzes:grammar-45-7038",
+   "tryjlpt:37-1480327028643"
+  ]
+ },
+ {
+  "id": "ni-sotte",
+  "pattern": "〜に沿って",
+  "reading": "",
+  "formula": "N + に沿って",
+  "meaning_vi": "Dọc theo, bám theo N",
+  "explain_vi": "Làm theo kế hoạch/hướng dẫn/phương châm hoặc dọc theo đường, sông (資料に沿って説明する).",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [
+   "toori"
+  ],
+  "examples_qids": [
+   "nihongopro:18803365d6-2",
+   "tryjlpt:29-1480297794334",
+   "tryjlpt:6-1479321815642",
+   "japanesequizzes:grammar-4-6407",
+   "japanesequizzes:grammar-23-6692"
+  ]
+ },
+ {
+  "id": "nodewanai-ka",
+  "pattern": "〜のではないか",
+  "reading": "",
+  "formula": "普通形 + のではないか(と思う)",
+  "meaning_vi": "Có lẽ là…, chẳng phải là…sao",
+  "explain_vi": "Suy đoán nhẹ nhàng hoặc ngỏ ý nghi vấn (多いのではないか). Dạng 〜のではないかと思う lịch sự hơn.",
+  "group": "Phỏng đoán",
+  "confusable": [
+   "kamoshirenai"
+  ],
+  "examples_qids": [
+   "japanesequizzes:grammar-3-6392",
+   "japanesequizzes:grammar-10-6494",
+   "japanesequizzes:grammar-19-6629",
+   "japanesequizzes:grammar-25-6714",
+   "japanesequizzes:grammar-39-7137"
+  ]
+ },
+ {
+  "id": "taishite-nai",
+  "pattern": "たいして〜ない",
+  "reading": "",
+  "formula": "たいして + V-ない",
+  "meaning_vi": "Không…lắm",
+  "explain_vi": "Phủ định mức độ nhẹ, thường khiêm tốn khi được khen.",
+  "group": "Phó từ",
+  "confusable": [],
+  "examples_qids": [
+   "tryjlpt:27-1480145182866"
+  ]
+ },
+ {
+  "id": "te-wa-ikenai",
+  "pattern": "〜てはいけない",
+  "reading": "",
+  "formula": "V-て + はいけない",
+  "meaning_vi": "Cấm, không được…",
+  "explain_vi": "Cấm đoán hoặc quy định (たばこを吸ってはいけません).",
+  "group": "Cho phép",
+  "confusable": [
+   "temo-ii"
+  ],
+  "examples_qids": [
+   "tryjlpt:27-1480146108315"
+  ]
+ },
+ {
+  "id": "tsutsu",
+  "pattern": "〜つつ",
+  "reading": "",
+  "formula": "V-ます + つつ",
+  "meaning_vi": "Vừa…vừa…; tuy…nhưng",
+  "explain_vi": "Giống ながら nhưng trang trọng hơn, cũng có nghĩa đối lập (知りつつ).",
+  "group": "Thể/Aspect",
+  "confusable": [
+   "nagara"
+  ],
+  "examples_qids": [
+   "tryjlpt:37-1480325039916",
+   "japanesequizzes:grammar-11-6506",
+   "japanesequizzes:grammar-23-6684",
+   "japanesequizzes:grammar-37-7158",
+   "japanesequizzes:grammar-45-7037"
+  ]
+ },
+ {
+  "id": "wo-towazu",
+  "pattern": "〜を問わず",
+  "reading": "",
+  "formula": "N + を問わず",
+  "meaning_vi": "Không kể, không phân biệt",
+  "explain_vi": "Không phân biệt các điều kiện như tuổi, giới, kinh nghiệm (男女を問わず参加できる).",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [
+   "ni-kagirazu"
+  ],
+  "examples_qids": [
+   "tryjlpt:37-1480325361078",
+   "tryjlpt:6-1479322017895"
+  ]
+ },
+ {
+  "id": "yori-hoka-nai",
+  "pattern": "〜よりほかない",
+  "reading": "",
+  "formula": "V-る + よりほかない/しかない",
+  "meaning_vi": "Chẳng còn cách nào khác ngoài…",
+  "explain_vi": "Không có lựa chọn khác; trang trọng hơn しかない.",
+  "group": "Nghĩa vụ",
+  "confusable": [
+   "ru-shika-nai"
+  ],
+  "examples_qids": [
+   "tryjlpt:34-1480318900918",
+   "tryjlpt:19-1480124911975"
+  ]
+ },
+ {
+  "id": "zaru-wo-enai",
+  "pattern": "〜ざるを得ない",
+  "reading": "",
+  "formula": "V-ない(bỏ ない) + ざるを得ない",
+  "meaning_vi": "Đành phải…, không thể không…",
+  "explain_vi": "Bất đắc dĩ phải làm dù không muốn, văn viết. する → せざるを得ない.",
+  "group": "Nghĩa vụ",
+  "confusable": [
+   "wake-niwa-ikanai"
+  ],
+  "examples_qids": [
+   "nihongopro:7d360e81c5-1",
+   "tryjlpt:33-1480304744798",
+   "japanesequizzes:grammar-14-6546",
+   "japanesequizzes:grammar-25-6722",
+   "japanesequizzes:grammar-37-7167"
+  ]
+ },
+ {
+  "id": "ni-kakawarazu",
+  "pattern": "〜にかかわらず",
+  "reading": "",
+  "formula": "N/V-る・V-ない + にかかわらず",
+  "meaning_vi": "Bất kể, không liên quan đến…",
+  "explain_vi": "Bất kể điều kiện nêu ra, kết quả không thay đổi (入学する、しないにかかわらず). Gần với を問わず.",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [
+   "wo-towazu"
+  ],
+  "examples_qids": [
+   "nihongopro:7d360e81c5-3"
+  ]
+ },
+ {
+  "id": "sai",
+  "pattern": "〜際(は)",
+  "reading": "",
+  "formula": "V-る/V-た/N の + 際",
+  "meaning_vi": "Khi, vào lúc…",
+  "explain_vi": "Dạng trang trọng của とき, dùng trong thông báo, thư từ (お降りの際は).",
+  "group": "Thời gian",
+  "confusable": [
+   "ni-saishite"
+  ],
+  "examples_qids": [
+   "nihongopro:a77592a059-3",
+   "nihongopro:43462b7a6c-3",
+   "tryjlpt:6-1479323431706"
+  ]
+ },
+ {
+  "id": "wari-biki",
+  "pattern": "〜割引き",
+  "reading": "",
+  "formula": "数 + 割引き",
+  "meaning_vi": "Giảm …/10",
+  "explain_vi": "割 = 10% (1割 = 10%, 4割引き = giảm 40%).",
+  "group": "Số lượng",
+  "confusable": [],
+  "examples_qids": [
+   "nihongopro:79e720b9cc-4"
+  ]
+ },
+ {
+  "id": "to-no-koto",
+  "pattern": "〜とのことだ",
+  "reading": "",
+  "formula": "普通形 + とのことだ",
+  "meaning_vi": "Nghe nói là…, được biết là…",
+  "explain_vi": "Truyền đạt lời nhắn/thông tin của người khác, trang trọng hơn そうだ.",
+  "group": "Cách nói gián tiếp",
+  "confusable": [
+   "sou-da-denbun"
+  ],
+  "examples_qids": [
+   "nihongopro:8a35d07b72-1"
+  ]
+ },
+ {
+  "id": "to-wa",
+  "pattern": "〜とは(意外)",
+  "reading": "",
+  "formula": "普通形 + とは(思わなかった/知らなかった)",
+  "meaning_vi": "Không ngờ rằng…",
+  "explain_vi": "Diễn tả ngạc nhiên về một sự thật.",
+  "group": "Mẫu cuối câu",
+  "confusable": [],
+  "examples_qids": [
+   "nihongopro:6412161a82-3",
+   "japanesequizzes:grammar-2-6366",
+   "japanesequizzes:grammar-24-6707",
+   "japanesequizzes:grammar-28-6756",
+   "japanesequizzes:grammar-53-6921"
+  ]
+ },
+ {
+  "id": "nagara",
+  "pattern": "〜ながら",
+  "reading": "",
+  "formula": "V-ます + ながら",
+  "meaning_vi": "Vừa…vừa…",
+  "explain_vi": "Hai hành động đồng thời của cùng một chủ ngữ; hành động chính ở vế sau.",
+  "group": "Thể/Aspect",
+  "confusable": [
+   "tsutsu"
+  ],
+  "examples_qids": [
+   "nihongopro:cfb066c802-4",
+   "japanesequizzes:grammar-5-6421",
+   "japanesequizzes:grammar-18-6608",
+   "japanesequizzes:grammar-33-7226",
+   "japanesequizzes:grammar-45-7042"
+  ]
+ },
+ {
+  "id": "n-shidai-da",
+  "pattern": "N次第だ",
+  "reading": "",
+  "formula": "N + 次第だ",
+  "meaning_vi": "Tùy vào N",
+  "explain_vi": "Kết quả phụ thuộc vào N (天気次第だ, 気持ち次第だ). Khác V-ます次第 (ngay sau khi).",
+  "group": "Điều kiện",
+  "confusable": [
+   "shidai"
+  ],
+  "examples_qids": [
+   "tryjlpt:24-1480134818866"
+  ]
+ },
+ {
+  "id": "dake-ni",
+  "pattern": "〜だけに",
+  "reading": "",
+  "formula": "普通形 + だけに",
+  "meaning_vi": "Chính vì…nên càng…",
+  "explain_vi": "Vì là…(đặc biệt) nên kết quả/cảm xúc càng mạnh hay đương nhiên (期待していただけに残念だ). Gần với だけあって.",
+  "group": "Nguyên nhân",
+  "confusable": [
+   "dake-atte"
+  ],
+  "examples_qids": [
+   "tryjlpt:19-1480064443614"
+  ]
+ },
+ {
+  "id": "douyou",
+  "pattern": "〜と同様",
+  "reading": "",
+  "formula": "N + と同様(の/に)",
+  "meaning_vi": "Giống như N, tương tự N",
+  "explain_vi": "Nói sự việc giống hệt hoặc coi như N (去年と同様の生活).",
+  "group": "So sánh",
+  "confusable": [],
+  "examples_qids": [
+   "japanesequizzes:grammar-25-6723",
+   "japanesequizzes:grammar-3-6390",
+   "japanesequizzes:grammar-33-7229",
+   "japanesequizzes:grammar-42-7088"
+  ]
+ },
+ {
+  "id": "ka-to-omoeba",
+  "pattern": "〜かと思えば / かと思うと",
+  "reading": "",
+  "formula": "普通形 + かと思えば、〜も",
+  "meaning_vi": "Vừa mới…thì lại…; có…thì lại có…",
+  "explain_vi": "Đối chiếu hai điều trái ngược cùng tồn tại hoặc xảy ra liên tiếp (勉強する学生がいるかと思えば遊んでばかりの学生もいる).",
+  "group": "Liên từ",
+  "confusable": [
+   "ippou-de"
+  ],
+  "examples_qids": [
+   "japanesequizzes:grammar-17-6602",
+   "japanesequizzes:grammar-3-6388",
+   "japanesequizzes:grammar-6-6431",
+   "japanesequizzes:grammar-10-6499",
+   "japanesequizzes:grammar-12-6521"
+  ]
+ },
+ {
+  "id": "komi",
+  "pattern": "〜込み",
+  "reading": "",
+  "formula": "N + 込み",
+  "meaning_vi": "Đã bao gồm (N)",
+  "explain_vi": "Giá đã gồm cả N (税込み 3万円). Khác を込めて (gửi gắm).",
+  "group": "Cụm cố định",
+  "confusable": [],
+  "examples_qids": [
+   "japanesequizzes:grammar-2-6375"
+  ]
+ },
+ {
+  "id": "kurabemono-ni-naranai",
+  "pattern": "〜とは比べものにならない",
+  "reading": "",
+  "formula": "N + とは比べものにならない",
+  "meaning_vi": "Không thể so sánh với N",
+  "explain_vi": "Chênh lệch quá lớn, không đáng so (普通の学生とは比べものにならないほど賢い).",
+  "group": "So sánh",
+  "confusable": [
+   "ni-kurabete"
+  ],
+  "examples_qids": [
+   "japanesequizzes:grammar-3-6383",
+   "japanesequizzes:grammar-25-6713",
+   "japanesequizzes:grammar-30-7269",
+   "japanesequizzes:grammar-53-6922"
+  ]
+ },
+ {
+  "id": "mikomi",
+  "pattern": "〜見込み",
+  "reading": "",
+  "formula": "V-る + 見込みだ/がある",
+  "meaning_vi": "Dự kiến, có triển vọng…",
+  "explain_vi": "Dự đoán chắc chắn tương đối cao (一ヶ月でできあがる見込み).",
+  "group": "Phỏng đoán",
+  "confusable": [
+   "yotei"
+  ],
+  "examples_qids": [
+   "japanesequizzes:grammar-3-6393",
+   "japanesequizzes:grammar-21-6665",
+   "japanesequizzes:grammar-38-7142",
+   "japanesequizzes:grammar-43-7074"
+  ]
+ },
+ {
+  "id": "mo-n-nara",
+  "pattern": "NもNなら〜もNだ",
+  "reading": "",
+  "formula": "N + も + N + なら + N + も + N + だ",
+  "meaning_vi": "Cha nào con nấy; đã…thì cũng…",
+  "explain_vi": "Thành ngữ chê cả hai đều giống nhau (親も親なら子も子だ).",
+  "group": "Cụm cố định",
+  "confusable": [],
+  "examples_qids": [
+   "japanesequizzes:grammar-5-6413"
+  ]
+ },
+ {
+  "id": "mono-ka",
+  "pattern": "〜ものか",
+  "reading": "",
+  "formula": "V-る + ものか",
+  "meaning_vi": "Làm gì có chuyện…, đời nào…",
+  "explain_vi": "Phủ định mạnh bằng cách đặt câu hỏi tu từ (読みきれるものか).",
+  "group": "Mẫu cuối câu",
+  "confusable": [
+   "wake-ga-nai"
+  ],
+  "examples_qids": [
+   "japanesequizzes:grammar-1-6363",
+   "japanesequizzes:grammar-10-6492",
+   "japanesequizzes:grammar-24-6709",
+   "japanesequizzes:grammar-32-7239",
+   "japanesequizzes:grammar-47-7016"
+  ]
+ },
+ {
+  "id": "mottomo",
+  "pattern": "〜のももっともだ",
+  "reading": "",
+  "formula": "普通形 + のももっともだ",
+  "meaning_vi": "Có lý, đương nhiên",
+  "explain_vi": "Việc đó hợp lý, dễ hiểu (怒るのももっともだ).",
+  "group": "Mẫu cuối câu",
+  "confusable": [],
+  "examples_qids": [
+   "japanesequizzes:grammar-4-6403",
+   "japanesequizzes:grammar-16-6578",
+   "japanesequizzes:grammar-35-7189",
+   "japanesequizzes:grammar-47-7015"
+  ]
+ },
+ {
+  "id": "naka-wo",
+  "pattern": "〜中を",
+  "reading": "",
+  "formula": "お忙しい + 中(を)",
+  "meaning_vi": "Giữa lúc…(bận), trong khi…",
+  "explain_vi": "Lời xã giao lịch sự (お忙しい中ありがとうございます), cảm ơn người đã sắp xếp thời gian.",
+  "group": "Cụm cố định",
+  "confusable": [],
+  "examples_qids": [
+   "japanesequizzes:grammar-2-6373",
+   "japanesequizzes:grammar-27-6748",
+   "japanesequizzes:grammar-32-7240",
+   "japanesequizzes:grammar-46-7030"
+  ]
+ },
+ {
+  "id": "nazekato-iu-to",
+  "pattern": "なぜかというと〜からだ",
+  "reading": "",
+  "formula": "なぜかというと + 〜からだ",
+  "meaning_vi": "Sở dĩ…là vì…",
+  "explain_vi": "Mở đầu một lời giải thích lý do, kết bằng からだ.",
+  "group": "Liên từ",
+  "confusable": [
+   "kara-riyuu"
+  ],
+  "examples_qids": [
+   "japanesequizzes:grammar-1-6364",
+   "japanesequizzes:grammar-24-6699",
+   "japanesequizzes:grammar-29-6784",
+   "japanesequizzes:grammar-53-6925"
+  ]
+ },
+ {
+  "id": "ni-atari",
+  "pattern": "〜にあたり / にあたって",
+  "reading": "",
+  "formula": "N / V-る + にあたり",
+  "meaning_vi": "Nhân dịp, khi bắt đầu…",
+  "explain_vi": "Vào thời điểm bắt đầu việc trọng đại, trang trọng (開会にあたり).",
+  "group": "Thời gian",
+  "confusable": [
+   "ni-saishite"
+  ],
+  "examples_qids": [
+   "tryjlpt:6-1479321706971",
+   "japanesequizzes:grammar-6-6427",
+   "japanesequizzes:grammar-22-6678",
+   "japanesequizzes:grammar-28-6757",
+   "japanesequizzes:grammar-53-6927"
+  ]
+ },
+ {
+  "id": "ni-mukatte",
+  "pattern": "〜に向かって",
+  "reading": "",
+  "formula": "N + に向かって",
+  "meaning_vi": "Hướng về N",
+  "explain_vi": "Hướng hành động (nhìn, nói, tiến) về phía N (鏡に向かって練習する).",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [],
+  "examples_qids": [
+   "japanesequizzes:grammar-7-6442",
+   "japanesequizzes:grammar-21-6664",
+   "japanesequizzes:grammar-29-6785",
+   "japanesequizzes:grammar-46-7027"
+  ]
+ },
+ {
+  "id": "ni-noboru",
+  "pattern": "〜にのぼる",
+  "reading": "",
+  "formula": "Số lượng + にのぼる",
+  "meaning_vi": "Lên tới…",
+  "explain_vi": "Tổng số đạt đến mức lớn (死傷者が数百人にのぼる).",
+  "group": "Số lượng",
+  "confusable": [],
+  "examples_qids": [
+   "japanesequizzes:grammar-26-6729",
+   "japanesequizzes:grammar-35-7188",
+   "japanesequizzes:grammar-6-6434",
+   "japanesequizzes:grammar-53-6931"
+  ]
+ },
+ {
+  "id": "ni-oujite",
+  "pattern": "〜に応じて",
+  "reading": "",
+  "formula": "N + に応じて",
+  "meaning_vi": "Tùy theo, ứng với N",
+  "explain_vi": "Thay đổi phù hợp với mức độ, tình huống N (体力に応じて運動する).",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [
+   "ni-awasete"
+  ],
+  "examples_qids": [
+   "japanesequizzes:grammar-2-6370",
+   "japanesequizzes:grammar-20-6637",
+   "japanesequizzes:grammar-29-6778",
+   "japanesequizzes:grammar-53-6928"
+  ]
+ },
+ {
+  "id": "ni-shiro",
+  "pattern": "〜にしろ / 〜にせよ",
+  "reading": "",
+  "formula": "N/普通形 + にしろ",
+  "meaning_vi": "Dù là…cũng…",
+  "explain_vi": "Giống にしても nhưng văn viết hơn (どんな仕事につくにしろ).",
+  "group": "Điều kiện nghịch",
+  "confusable": [
+   "ni-shitemo"
+  ],
+  "examples_qids": [
+   "tryjlpt:21-1480126645062"
+  ]
+ },
+ {
+  "id": "ni-souinai",
+  "pattern": "〜に相違ない",
+  "reading": "",
+  "formula": "普通形 + に相違ない",
+  "meaning_vi": "Chắc chắn là…",
+  "explain_vi": "Trang trọng hơn に違いない.",
+  "group": "Phỏng đoán",
+  "confusable": [
+   "ni-chigainai"
+  ],
+  "examples_qids": [
+   "japanesequizzes:grammar-2-6368",
+   "japanesequizzes:grammar-26-6734",
+   "japanesequizzes:grammar-29-6776",
+   "japanesequizzes:grammar-47-7010"
+  ]
+ },
+ {
+  "id": "ni-tsugu",
+  "pattern": "〜に次ぐ",
+  "reading": "",
+  "formula": "N + に次ぐ + N",
+  "meaning_vi": "Liên tiếp; xếp sau",
+  "explain_vi": "N に次ぐ N = hết N này đến N khác (戦争に次ぐ戦争). Cũng nghĩa 'đứng thứ hai sau N'.",
+  "group": "Cụm cố định",
+  "confusable": [],
+  "examples_qids": [
+   "japanesequizzes:grammar-4-6402",
+   "japanesequizzes:grammar-17-6598",
+   "japanesequizzes:grammar-30-7271",
+   "japanesequizzes:grammar-49-6990"
+  ]
+ },
+ {
+  "id": "sarani",
+  "pattern": "さらに",
+  "reading": "",
+  "formula": "さらに + 文",
+  "meaning_vi": "Hơn nữa, thêm nữa",
+  "explain_vi": "Phó từ bổ sung thêm hoặc mức độ tăng lên.",
+  "group": "Liên từ",
+  "confusable": [
+   "soreni"
+  ],
+  "examples_qids": [
+   "tryjlpt:16-1480049561797"
+  ]
+ },
+ {
+  "id": "tai-mono-da",
+  "pattern": "〜たいものだ",
+  "reading": "",
+  "formula": "V-たい + ものだ",
+  "meaning_vi": "Thật muốn…, mong ước…",
+  "explain_vi": "Nguyện vọng mạnh, trang trọng, thường có ぜひ.",
+  "group": "Mong muốn",
+  "confusable": [
+   "tai"
+  ],
+  "examples_qids": [
+   "japanesequizzes:grammar-1-6354",
+   "japanesequizzes:grammar-30-7265",
+   "japanesequizzes:grammar-44-7060"
+  ]
+ },
+ {
+  "id": "te-naranai",
+  "pattern": "〜てならない",
+  "reading": "",
+  "formula": "V-て/A-くて/な-A で + ならない",
+  "meaning_vi": "Không chịu nổi, vô cùng…",
+  "explain_vi": "Cảm xúc tự trào dâng không kìm được (楽しみでならない, うれしくてならない). Gần với てたまらない.",
+  "group": "Cảm xúc",
+  "confusable": [
+   "tamaranai"
+  ],
+  "examples_qids": [
+   "tryjlpt:24-1480135708846",
+   "japanesequizzes:grammar-19-6635",
+   "japanesequizzes:grammar-35-7193",
+   "japanesequizzes:grammar-42-7095"
+  ]
+ },
+ {
+  "id": "to-chigatte",
+  "pattern": "〜と違って",
+  "reading": "",
+  "formula": "N + と違って",
+  "meaning_vi": "Khác với N",
+  "explain_vi": "So sánh đối lập hai đối tượng.",
+  "group": "So sánh",
+  "confusable": [
+   "ni-kurabete"
+  ],
+  "examples_qids": [
+   "japanesequizzes:grammar-5-6420",
+   "japanesequizzes:grammar-28-6768"
+  ]
+ },
+ {
+  "id": "to-iu-mono-dewanai",
+  "pattern": "〜というものではない",
+  "reading": "",
+  "formula": "普通形 + というものではない",
+  "meaning_vi": "Không phải cứ…là…",
+  "explain_vi": "Phủ định một quan niệm phổ biến (日本語ができればいいというものではない).",
+  "group": "Phỏng đoán",
+  "confusable": [
+   "wake-dewa-nai"
+  ],
+  "examples_qids": [
+   "japanesequizzes:grammar-1-6357",
+   "japanesequizzes:grammar-25-6718",
+   "japanesequizzes:grammar-31-7250",
+   "japanesequizzes:grammar-52-6945"
+  ]
+ },
+ {
+  "id": "to-kitara",
+  "pattern": "〜ときたら",
+  "reading": "",
+  "formula": "N + ときたら",
+  "meaning_vi": "Nói đến N thì thật là…",
+  "explain_vi": "Nêu chủ đề kèm chê trách, bực bội (あの連中ときたら).",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [],
+  "examples_qids": [
+   "japanesequizzes:grammar-4-6400",
+   "japanesequizzes:grammar-15-6566",
+   "japanesequizzes:grammar-30-7275",
+   "japanesequizzes:grammar-42-7092"
+  ]
+ },
+ {
+  "id": "to-miete",
+  "pattern": "〜とみえて",
+  "reading": "",
+  "formula": "普通形 + とみえて",
+  "meaning_vi": "Có vẻ là…nên…",
+  "explain_vi": "Suy đoán từ dấu hiệu bên ngoài, vế sau là kết quả/căn cứ (病気とみえて三日も休んでいる).",
+  "group": "Phỏng đoán",
+  "confusable": [
+   "rashii-suitei"
+  ],
+  "examples_qids": [
+   "japanesequizzes:grammar-4-6406",
+   "japanesequizzes:grammar-13-6544",
+   "japanesequizzes:grammar-25-6717",
+   "japanesequizzes:grammar-32-7235",
+   "japanesequizzes:grammar-47-7014"
+  ]
+ },
+ {
+  "id": "to-sareteiru",
+  "pattern": "〜とされている",
+  "reading": "",
+  "formula": "普通形 + とされている",
+  "meaning_vi": "Được coi là…",
+  "explain_vi": "Quan niệm chung, quy ước xã hội (敬語を使うのが礼儀とされている).",
+  "group": "Cách nói gián tiếp",
+  "confusable": [],
+  "examples_qids": [
+   "japanesequizzes:grammar-4-6397",
+   "japanesequizzes:grammar-17-6600",
+   "japanesequizzes:grammar-32-7243",
+   "japanesequizzes:grammar-49-6985"
+  ]
+ },
+ {
+  "id": "toutou",
+  "pattern": "とうとう",
+  "reading": "",
+  "formula": "とうとう + V-た",
+  "meaning_vi": "Cuối cùng thì…",
+  "explain_vi": "Phó từ chỉ kết quả cuối cùng sau thời gian dài.",
+  "group": "Phó từ",
+  "confusable": [
+   "youyaku",
+   "tsuini"
+  ],
+  "examples_qids": [
+   "tryjlpt:24-1480150351522"
+  ]
+ },
+ {
+  "id": "uru",
+  "pattern": "〜うる / 〜える",
+  "reading": "",
+  "formula": "V-ます + うる/える",
+  "meaning_vi": "Có thể…",
+  "explain_vi": "Khả năng xảy ra (起こりうる, ありうる). Phủ định: えない (ありえない).",
+  "group": "Khả năng",
+  "confusable": [],
+  "examples_qids": [
+   "japanesequizzes:grammar-4-6399",
+   "japanesequizzes:grammar-7-6448",
+   "japanesequizzes:grammar-17-6591",
+   "japanesequizzes:grammar-22-6668",
+   "japanesequizzes:grammar-27-6752"
+  ]
+ },
+ {
+  "id": "wo-kikkake-ni",
+  "pattern": "〜をきっかけに",
+  "reading": "",
+  "formula": "N + をきっかけに(して)",
+  "meaning_vi": "Nhân dịp, lấy N làm cơ hội",
+  "explain_vi": "Một sự kiện là điểm khởi đầu làm thay đổi (留学をきっかけに).",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [],
+  "examples_qids": [
+   "japanesequizzes:grammar-3-6395",
+   "japanesequizzes:grammar-15-6573",
+   "japanesequizzes:grammar-34-7206",
+   "japanesequizzes:grammar-44-7053"
+  ]
+ },
+ {
+  "id": "wo-mezashite",
+  "pattern": "〜を目指して",
+  "reading": "",
+  "formula": "N + を目指して",
+  "meaning_vi": "Nhắm tới N",
+  "explain_vi": "Hướng tới mục tiêu hoặc địa điểm.",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [],
+  "examples_qids": [
+   "japanesequizzes:grammar-20-6641",
+   "japanesequizzes:grammar-5-6414",
+   "japanesequizzes:grammar-34-7211",
+   "japanesequizzes:grammar-48-7003"
+  ]
+ },
+ {
+  "id": "you-ga-nai",
+  "pattern": "〜ようがない",
+  "reading": "",
+  "formula": "V-ます + ようがない",
+  "meaning_vi": "Không có cách nào để…",
+  "explain_vi": "Dù muốn cũng không có cách (準備しようがない).",
+  "group": "Khả năng",
+  "confusable": [],
+  "examples_qids": [
+   "tryjlpt:24-1480135007300"
+  ]
+ },
+ {
+  "id": "you-ni-natte-iru",
+  "pattern": "〜ようになっている",
+  "reading": "",
+  "formula": "V-る + ようになっている",
+  "meaning_vi": "Được thiết kế để…, cơ chế là…",
+  "explain_vi": "Mô tả cơ chế, quy tắc đã thành nếp (自動で水が流れるようになっている).",
+  "group": "Quyết định/Quy định",
+  "confusable": [
+   "koto-ni-naru"
+  ],
+  "examples_qids": [
+   "japanesequizzes:grammar-1-6353",
+   "japanesequizzes:grammar-17-6603",
+   "japanesequizzes:grammar-30-7273",
+   "japanesequizzes:grammar-42-7094"
+  ]
+ },
+ {
+  "id": "gai",
+  "pattern": "〜がい",
+  "reading": "",
+  "formula": "V-ます / N + がい(がある・のある)",
+  "meaning_vi": "Đáng để, xứng đáng…",
+  "explain_vi": "Giá trị/ý nghĩa của hành động (やりがいのある仕事, 生きがい).",
+  "group": "Mức độ",
+  "confusable": [
+   "kai-ga-aru"
+  ],
+  "examples_qids": [
+   "japanesequizzes:grammar-14-6556",
+   "japanesequizzes:grammar-33-7218"
+  ]
+ },
+ {
+  "id": "ge",
+  "pattern": "〜げ",
+  "reading": "",
+  "formula": "A / V-たい + げ",
+  "meaning_vi": "Có vẻ…(dáng vẻ)",
+  "explain_vi": "Tính từ cảm xúc + げ chỉ vẻ bên ngoài: 悲しげな様子, 言いたげに. げな + N, げに + V.",
+  "group": "Biểu hiện",
+  "confusable": [
+   "sou-yousu"
+  ],
+  "examples_qids": [
+   "japanesequizzes:grammar-7-6450",
+   "japanesequizzes:grammar-25-6720",
+   "japanesequizzes:grammar-29-6780",
+   "japanesequizzes:grammar-43-7075"
+  ]
+ },
+ {
+  "id": "v-goro",
+  "pattern": "〜ごろ(食べごろ)",
+  "reading": "",
+  "formula": "V-ます + ごろ",
+  "meaning_vi": "Đúng độ, vừa tới lúc",
+  "explain_vi": "Thời điểm thích hợp nhất để làm hoặc dùng (食べごろ, 見ごろ).",
+  "group": "Thời gian",
+  "confusable": [],
+  "examples_qids": [
+   "japanesequizzes:grammar-13-6539",
+   "japanesequizzes:grammar-51-6957"
+  ]
+ },
+ {
+  "id": "ka-nai-ka-no-uchi-ni",
+  "pattern": "〜か〜ないかのうちに",
+  "reading": "",
+  "formula": "V-る + か + V-ない + か + のうちに",
+  "meaning_vi": "Vừa mới…thì ngay lập tức",
+  "explain_vi": "Hai sự việc xảy ra gần như đồng thời, vế trước chưa kịp kết thúc (席につくかつかないかのうちに始まった).",
+  "group": "Thời gian",
+  "confusable": [
+   "totan-ni"
+  ],
+  "examples_qids": [
+   "japanesequizzes:grammar-42-7096",
+   "japanesequizzes:grammar-11-6501",
+   "japanesequizzes:grammar-18-6611",
+   "japanesequizzes:grammar-40-7124"
+  ]
+ },
+ {
+  "id": "ka-to-iu-to",
+  "pattern": "〜かというと",
+  "reading": "",
+  "formula": "疑問詞+か + というと",
+  "meaning_vi": "Nếu hỏi…thì…",
+  "explain_vi": "Tự đặt câu hỏi rồi trả lời (何がいいかというと…). Khác ka-to-omoeba (có A lại có B).",
+  "group": "Mệnh đề lồng",
+  "confusable": [
+   "nazekato-iu-to"
+  ],
+  "examples_qids": [
+   "japanesequizzes:grammar-11-6512",
+   "japanesequizzes:grammar-36-7181",
+   "japanesequizzes:grammar-41-7099"
+  ]
+ },
+ {
+  "id": "ka-to-omottara",
+  "pattern": "〜かと思ったら / かと思うと",
+  "reading": "",
+  "formula": "V-た + かと思ったら",
+  "meaning_vi": "Vừa mới…thì đã…",
+  "explain_vi": "Hai sự việc trái ngược xảy ra liên tiếp rất nhanh (月が出たかと思ったらすぐ雲に隠れた).",
+  "group": "Thời gian",
+  "confusable": [
+   "totan-ni"
+  ],
+  "examples_qids": [
+   "japanesequizzes:grammar-9-6475",
+   "japanesequizzes:grammar-21-6662",
+   "japanesequizzes:grammar-39-7127",
+   "japanesequizzes:grammar-42-7086"
+  ]
+ },
+ {
+  "id": "kaesu",
+  "pattern": "〜返す",
+  "reading": "",
+  "formula": "V-ます + 返す",
+  "meaning_vi": "Làm trả lại, làm lại",
+  "explain_vi": "Hậu tố: 言い返す (cãi lại), 読み返す (đọc lại), 息を吹き返す.",
+  "group": "Động từ ghép",
+  "confusable": [
+   "naosu"
+  ],
+  "examples_qids": [
+   "japanesequizzes:grammar-13-6541",
+   "japanesequizzes:grammar-25-6716",
+   "japanesequizzes:grammar-31-7249",
+   "japanesequizzes:grammar-49-6989"
+  ]
+ },
+ {
+  "id": "kai-ga-aru",
+  "pattern": "〜かいがある",
+  "reading": "",
+  "formula": "V-た / N + かいがある",
+  "meaning_vi": "Bõ công, xứng đáng với…",
+  "explain_vi": "Công sức bỏ ra được đền đáp (努力したかいがあって優勝した).",
+  "group": "Nguyên nhân",
+  "confusable": [],
+  "examples_qids": [
+   "japanesequizzes:grammar-7-6447",
+   "japanesequizzes:grammar-46-7029"
+  ]
+ },
+ {
+  "id": "kakasu",
+  "pattern": "欠かせない / 欠くことができない",
+  "reading": "",
+  "formula": "N + に欠かせない",
+  "meaning_vi": "Không thể thiếu",
+  "explain_vi": "Quan trọng đến mức không thể thiếu (人間にとって欠くことができない).",
+  "group": "Cụm cố định",
+  "confusable": [],
+  "examples_qids": [
+   "japanesequizzes:grammar-8-6457",
+   "japanesequizzes:grammar-33-7227",
+   "japanesequizzes:grammar-48-7000"
+  ]
+ },
+ {
+  "id": "mo-areba-mo-aru",
+  "pattern": "〜もあれば〜もある",
+  "reading": "",
+  "formula": "N + も + あれば + N + も + ある",
+  "meaning_vi": "Có…lại cũng có…",
+  "explain_vi": "Liệt kê hai thứ khác nhau cùng tồn tại (子供向きの本もあれば老人向きの本もある).",
+  "group": "Liệt kê",
+  "confusable": [
+   "ka-to-omoeba"
+  ],
+  "examples_qids": [
+   "japanesequizzes:grammar-7-6453",
+   "japanesequizzes:grammar-25-6715",
+   "japanesequizzes:grammar-33-7228",
+   "japanesequizzes:grammar-40-7123",
+   "japanesequizzes:grammar-47-7017"
+  ]
+ },
+ {
+  "id": "mono-ga-aru",
+  "pattern": "〜ものがある",
+  "reading": "",
+  "formula": "V-る/A + ものがある",
+  "meaning_vi": "Có điều gì đó thật…",
+  "explain_vi": "Cảm nhận có tính chất đáng chú ý (すばらしいものがある).",
+  "group": "Mẫu cuối câu",
+  "confusable": [
+   "mono-da"
+  ],
+  "examples_qids": [
+   "japanesequizzes:grammar-9-6481",
+   "japanesequizzes:grammar-24-6710",
+   "japanesequizzes:grammar-35-7190",
+   "japanesequizzes:grammar-46-7032"
+  ]
+ },
+ {
+  "id": "ni-nozonde",
+  "pattern": "〜に臨んで",
+  "reading": "",
+  "formula": "N + に臨んで",
+  "meaning_vi": "Đứng trước, đối mặt với",
+  "explain_vi": "Khi đối diện sự kiện quan trọng (試験に臨む, 危機に臨む).",
+  "group": "Thời gian",
+  "confusable": [
+   "ni-atari"
+  ],
+  "examples_qids": [
+   "japanesequizzes:grammar-10-6498",
+   "japanesequizzes:grammar-26-6739",
+   "japanesequizzes:grammar-34-7215",
+   "japanesequizzes:grammar-53-6930"
+  ]
+ },
+ {
+  "id": "ni-shitara",
+  "pattern": "〜にしたら / 〜にすれば",
+  "reading": "",
+  "formula": "N(人) + にしたら",
+  "meaning_vi": "Đứng ở lập trường N thì",
+  "explain_vi": "Xét từ góc nhìn của người đó (彼本人にしたら有意義な仕事だ).",
+  "group": "Chủ đề/Quan hệ",
+  "confusable": [
+   "ni-totte"
+  ],
+  "examples_qids": [
+   "japanesequizzes:grammar-14-6553",
+   "japanesequizzes:grammar-38-7154",
+   "japanesequizzes:grammar-43-7069"
+  ]
+ },
+ {
+  "id": "oboe-wa-nai",
+  "pattern": "〜覚えはない",
+  "reading": "",
+  "formula": "V-た + 覚えはない",
+  "meaning_vi": "Tôi không nhớ là đã…",
+  "explain_vi": "Phủ nhận việc đã làm, thường kèm cảm giác bị oan (批判した覚えはない).",
+  "group": "Mẫu cuối câu",
+  "confusable": [],
+  "examples_qids": [
+   "japanesequizzes:grammar-13-6532",
+   "japanesequizzes:grammar-19-6630",
+   "japanesequizzes:grammar-38-7143",
+   "japanesequizzes:grammar-51-6950"
+  ]
+ },
+ {
+  "id": "seika",
+  "pattern": "〜せいか",
+  "reading": "",
+  "formula": "普通形 + せいか",
+  "meaning_vi": "Có lẽ vì…nên",
+  "explain_vi": "Nguyên nhân không chắc chắn (thường kết quả xấu, nhưng cũng dùng khi tốt).",
+  "group": "Nguyên nhân",
+  "confusable": [
+   "seide"
+  ],
+  "examples_qids": [
+   "japanesequizzes:grammar-8-6469",
+   "japanesequizzes:grammar-21-6654",
+   "japanesequizzes:grammar-34-7202",
+   "japanesequizzes:grammar-52-6933"
+  ]
+ },
+ {
+  "id": "te-kudasai",
+  "pattern": "〜てください",
+  "reading": "",
+  "formula": "V-て + ください",
+  "meaning_vi": "Xin hãy…",
+  "explain_vi": "Cách nhờ vả/yêu cầu lịch sự thông thường (任せてください).",
+  "group": "Cho phép",
+  "confusable": [],
+  "examples_qids": [
+   "japanesequizzes:grammar-16-6580"
+  ]
+ },
+ {
+  "id": "to-ieyou",
+  "pattern": "〜と言えよう",
+  "reading": "",
+  "formula": "普通形 + と言えよう",
+  "meaning_vi": "Có thể nói rằng…",
+  "explain_vi": "Văn viết trang trọng của と言えるだろう.",
+  "group": "Mẫu cuối câu",
+  "confusable": [],
+  "examples_qids": [
+   "japanesequizzes:grammar-12-6527",
+   "japanesequizzes:grammar-14-6552",
+   "japanesequizzes:grammar-34-7203",
+   "japanesequizzes:grammar-46-7035"
+  ]
+ },
+ {
+  "id": "to-ittara",
+  "pattern": "〜といったら",
+  "reading": "",
+  "formula": "N + といったら",
+  "meaning_vi": "Nhắc đến N thì thật là…",
+  "explain_vi": "Cảm thán về mức độ cực đoan của N (部屋の汚いことといったら).",
+  "group": "Mẫu cuối câu",
+  "confusable": [],
+  "examples_qids": [
+   "japanesequizzes:grammar-8-6470",
+   "japanesequizzes:grammar-26-6732",
+   "japanesequizzes:grammar-29-6783",
+   "japanesequizzes:grammar-53-6918"
+  ]
+ },
+ {
+  "id": "to-miru",
+  "pattern": "〜とみてよい",
+  "reading": "",
+  "formula": "普通形 + とみてよい",
+  "meaning_vi": "Có thể xem là…",
+  "explain_vi": "Nhận định sau khi quan sát (晴れるとみてよい).",
+  "group": "Phỏng đoán",
+  "confusable": [],
+  "examples_qids": [
+   "japanesequizzes:grammar-8-6456",
+   "japanesequizzes:grammar-19-6632",
+   "japanesequizzes:grammar-36-7178",
+   "japanesequizzes:grammar-48-7006"
+  ]
+ },
+ {
+  "id": "tokoro-kara",
+  "pattern": "〜ところから",
+  "reading": "",
+  "formula": "普通形 + ところから",
+  "meaning_vi": "Từ chỗ…mà…",
+  "explain_vi": "Căn cứ/nguyên nhân dẫn đến phán đoán hoặc tên gọi (空席が多いところから).",
+  "group": "Nguyên nhân",
+  "confusable": [
+   "koto-kara"
+  ],
+  "examples_qids": [
+   "japanesequizzes:grammar-9-6477",
+   "japanesequizzes:grammar-16-6583",
+   "japanesequizzes:grammar-32-7242",
+   "japanesequizzes:grammar-53-6920"
+  ]
+ },
+ {
+  "id": "wa-betsu-ni",
+  "pattern": "〜は別にして",
+  "reading": "",
+  "formula": "N / 〜かどうか + は別にして",
+  "meaning_vi": "Tạm gác…sang một bên",
+  "explain_vi": "Bỏ qua yếu tố đó và bàn chuyện khác.",
+  "group": "Cụm cố định",
+  "confusable": [],
+  "examples_qids": [
+   "japanesequizzes:grammar-10-6490",
+   "japanesequizzes:grammar-20-6639",
+   "japanesequizzes:grammar-27-6754",
+   "japanesequizzes:grammar-49-6983"
+  ]
+ },
+ {
+  "id": "wo-mae-ni",
+  "pattern": "〜を前に(して)",
+  "reading": "",
+  "formula": "N + を前に(して)",
+  "meaning_vi": "Trước (sự kiện), đối diện với",
+  "explain_vi": "Đứng trước một việc/vật quan trọng (死を前に, 品物を前に).",
+  "group": "Thời gian",
+  "confusable": [
+   "ni-nozonde"
+  ],
+  "examples_qids": [
+   "japanesequizzes:grammar-7-6454",
+   "japanesequizzes:grammar-15-6564",
+   "japanesequizzes:grammar-27-6755",
+   "japanesequizzes:grammar-41-7110"
+  ]
+ },
+ {
+  "id": "yara",
+  "pattern": "〜やら〜やら",
+  "reading": "",
+  "formula": "N/V + やら + N/V + やら",
+  "meaning_vi": "Nào là…nào là…(lộn xộn)",
+  "explain_vi": "Liệt kê nhiều thứ lộn xộn thường kèm than phiền (頭痛がするやら寒気がするやら).",
+  "group": "Liệt kê",
+  "confusable": [
+   "toka"
+  ],
+  "examples_qids": [
+   "japanesequizzes:grammar-9-6482",
+   "japanesequizzes:grammar-24-6701",
+   "japanesequizzes:grammar-36-7183",
+   "japanesequizzes:grammar-41-7102"
+  ]
+ },
+ {
+  "id": "nakute-wa-naranai",
+  "pattern": "〜なくてはならない",
+  "reading": "",
+  "formula": "V-ない(bỏ い) + くてはならない / N + がなくてはならない",
+  "meaning_vi": "Phải…; không thể thiếu",
+  "explain_vi": "Nghĩa vụ (= なければならない), hoặc N がなくてはならない = không thể thiếu N. Văn nói: なくちゃ.",
+  "group": "Nghĩa vụ",
+  "confusable": [
+   "nakereba-naranai"
+  ],
+  "examples_qids": [
+   "japanesequizzes:grammar-11-6504",
+   "japanesequizzes:grammar-24-6704",
+   "japanesequizzes:grammar-31-7260",
+   "japanesequizzes:grammar-44-7064"
+  ]
+ }
+]
