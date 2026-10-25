@@ -13,7 +13,7 @@ Mục tiêu: tổng ôn N3 trong ~2 tháng bằng cách **làm đề → sai ở
 | **Chữa bài** | Mỗi câu: đáp án đúng/sai, giải thích từng lựa chọn (moji), giải thích mẫu ngữ pháp + dịch cả câu (bunpo), dịch cả đoạn (dokkai), script + câu then chốt (choukai); nút **☆ Lưu Xem sau**, **Ghi chú**, **Học lại** (ngữ pháp / từ vựng / kanji liên quan) |
 | **Xem sau** | SRS: câu bạn gắn cờ hoặc làm sai, lặp lại 1 → 3 → 7 → 14 → 30 → 60 ngày; đánh giá Quên / Khó / Nhớ / Dễ |
 | **Tiến độ** | Biểu đồ 30 ngày, độ chính xác theo phần và theo dạng bài, điểm thi thử theo thời gian, lịch sử, ước tính điểm JLPT |
-| **Ngữ pháp** | 422 mẫu gom từ 3.103 câu bunpo (công thức, ý nghĩa, giải thích, ví dụ từ đề). Học thẻ Nhớ/Quên: thẻ quên quay lại trong phiên và ôn theo lịch 1 → 3 → 7 → 14 → 30 → 60 ngày |
+| **Ngữ pháp** | 422 mẫu gom từ 3.103 câu bunpo (công thức, ý nghĩa, giải thích, ví dụ từ đề). Học thẻ Nhớ/Quên: thẻ quên quay lại trong phiên và ôn theo lịch 1 → 3 → 7 → 14 → 30 → 60 ngày. Tab **★ Đề thi chính thức**: 189 mẫu đã ra trong 28 đề JLPT N3 thật (xếp theo số đề xuất hiện), có học thẻ riêng, bài kiểm tra trắc nghiệm kiểu Quizlet và trò ghép cặp |
 | **Tra cứu** | Ngữ pháp N3, từ vựng N3, kanji N3 có tìm kiếm |
 | **Cài đặt** | Giao diện sáng/tối, ngày thi, mục tiêu ngày, tự thêm câu sai vào Xem sau, đồng bộ giữa các thiết bị, xuất/nhập/xoá dữ liệu, thống kê ngân hàng câu hỏi |
 
