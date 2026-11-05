@@ -1,0 +1,2071 @@
+{
+  "id": "g06",
+  "track": "goi",
+  "intro": "Bài 健康 (sức khoẻ) gồm từ vựng về **cơ thể không khoẻ** (体調を崩す, 症状, しびれる, 震える…), **đi khám bệnh** (診る, 診察, 診断, 内科・外科, 看病), **cử động cơ thể** (はう, しゃがむ, もたれる, 腰掛ける), **giữ sức khoẻ** (予防, 休養, 適度, 睡眠不足, 衛生的) và **làm đẹp** (肌が荒れる, ひげをそる, 髪をとかす).\n\nĐiểm then chốt của bài:\n- **Triệu chứng đi với động từ nào**: 頭痛／めまい**がする**, せき／くしゃみ**が出る**, あくび**をする**, 疲れ**がたまる**, 足**がしびれる**, 薬**が効く**, 病気**にかかる**. Đề 文脈規定 hầu như chỉ hỏi những kết hợp này.\n- **Ba chữ みる**: 見る (nhìn), 診る (bác sĩ khám), 看る (chăm người bệnh → 看病).\n- **Ghép từ**: 高〜 (高血圧, 高カロリー), 〜不足 (đọc **ぶそく**: 睡眠不足, 寝不足), 平均〜 (平均寿命, 平均気温), 〜上がる (立ち上がる, 起き上がる, 飛び上がる).\n- 4 phó từ: 一応, 当分, たちまち, 今に.\n\nMẹo học: tự kể lại một lần bị ốm bằng tiếng Nhật — 「{体調|たいちょう}を{崩|くず}して、{熱|ねつ}とせきが{出|で}た。{内科|ないか}で{診|み}てもらったら、インフルエンザと{診断|しんだん}された…」. Một câu chuyện nhỏ sẽ gom được gần hết từ của bài.",
+  "sections": [
+    {
+      "title": "体調",
+      "title_vi": "Thể trạng, bệnh và chấn thương",
+      "words": [
+        {
+          "id": "g06-w1",
+          "w": "調子",
+          "r": "ちょうし",
+          "hv": "ĐIỀU TỬ",
+          "pos": "名",
+          "vi": "tình trạng (cơ thể, máy móc, công việc); phong độ; giọng điệu",
+          "key": true,
+          "ex": {
+            "ja": "{朝|あさ}からどうも{胃|い}の{調子|ちょうし}がよくない。",
+            "vi": "Từ sáng dạ dày cứ thấy không ổn."
+          },
+          "col": [
+            "体の調子を崩す",
+            "調子がいい／悪い",
+            "調子が出る（vào phom）",
+            "調子に乗る（được đà lấn tới）"
+          ],
+          "rel": "≒ 具合・体調"
+        },
+        {
+          "id": "g06-w2",
+          "w": "崩す",
+          "r": "くずす",
+          "hv": "BĂNG",
+          "pos": "他動",
+          "vi": "làm sụp, phá vỡ (cân bằng); làm hỏng (sức khoẻ); đổi tiền lẻ",
+          "key": true,
+          "senses": [
+            {
+              "vi": "làm suy sụp (sức khoẻ, thể trạng)",
+              "ex": {
+                "ja": "{引|ひ}っ{越|こ}しの{疲|つか}れで{体調|たいちょう}を{崩|くず}し、{一週間|いっしゅうかん}{寝込|ねこ}んだ。",
+                "vi": "Mệt vì chuyển nhà, tôi đổ bệnh nằm liệt một tuần."
+              }
+            },
+            {
+              "vi": "đổi tiền ra tiền lẻ",
+              "ex": {
+                "ja": "{一万円|いちまんえん}{札|さつ}を{千円|せんえん}{札|さつ}に{崩|くず}してもらえますか。",
+                "vi": "Đổi giúp tôi tờ 10.000 yên ra tiền 1.000 được không?"
+              }
+            }
+          ],
+          "col": [
+            "体調を崩す",
+            "体を崩す ✗ → 体を壊す",
+            "姿勢を崩す（ngồi thoải mái）",
+            "お金を崩す"
+          ],
+          "rel": "自動: 崩れる",
+          "note": "Đi với **体調・調子・バランス** (trạng thái). Với **体・胃** thì dùng 「壊す」: 体を壊す, お腹を壊す."
+        },
+        {
+          "id": "g06-w3",
+          "w": "インフルエンザ",
+          "r": "インフルエンザ",
+          "hv": "",
+          "pos": "名",
+          "vi": "bệnh cúm (influenza)",
+          "key": true,
+          "ex": {
+            "ja": "{学校|がっこう}でインフルエンザが{流行|りゅうこう}して、{三|みっ}つのクラスが{休|やす}みになった。",
+            "vi": "Cúm lan ở trường nên ba lớp phải nghỉ."
+          },
+          "col": [
+            "インフルエンザにかかる",
+            "インフルエンザが流行する",
+            "インフルエンザの予防接種"
+          ],
+          "note": "Khác 「風邪」 (cảm thường). Nói tắt: インフル."
+        },
+        {
+          "id": "g06-w4",
+          "w": "かかる",
+          "r": "かかる",
+          "hv": "",
+          "pos": "自動",
+          "vi": "mắc (bệnh)",
+          "key": true,
+          "ex": {
+            "ja": "{子|こ}どものころ{一度|いちど}かかった{病気|びょうき}には、{大人|おとな}になってからかかりにくい。",
+            "vi": "Bệnh từng mắc một lần hồi nhỏ thì lớn lên khó mắc lại."
+          },
+          "col": [
+            "病気にかかる",
+            "インフルエンザにかかる",
+            "医者にかかる（đi khám bác sĩ）"
+          ],
+          "note": "Trợ từ **に**: 病気**に**かかる. Kanji 罹る ít dùng. 「医者にかかる」 = đi khám (là bệnh nhân của bác sĩ đó)."
+        },
+        {
+          "id": "g06-w5",
+          "w": "ウイルス",
+          "r": "ウイルス",
+          "hv": "",
+          "pos": "名",
+          "vi": "virus",
+          "key": true,
+          "ex": {
+            "ja": "{手洗|てあら}いをこまめにすれば、ウイルスが{体|からだ}に{入|はい}るのをかなり{防|ふせ}げる。",
+            "vi": "Rửa tay thường xuyên thì ngăn được virus xâm nhập vào cơ thể khá nhiều."
+          },
+          "col": [
+            "ウイルスに感染する",
+            "ウイルスが広がる",
+            "コンピューターウイルス"
+          ],
+          "note": "Viết là ウ**イ**ルス (không phải ウィルス trong văn bản chính thức)."
+        },
+        {
+          "id": "g06-w6",
+          "w": "伝染",
+          "r": "でんせん",
+          "hv": "TRUYỀN NHIỄM",
+          "pos": "名・自動",
+          "vi": "lây, lây lan (bệnh từ người này sang người khác); lan sang (cảm xúc, thói quen)",
+          "key": true,
+          "ex": {
+            "ja": "この{病気|びょうき}は{空気|くうき}を{通|とお}して{人|ひと}から{人|ひと}へ{伝染|でんせん}する。",
+            "vi": "Bệnh này lây từ người sang người qua không khí."
+          },
+          "col": [
+            "伝染病",
+            "伝染する",
+            "あくびが伝染する（ngáp lây）"
+          ],
+          "rel": "≒ うつる・感染",
+          "note": "「伝染」 nhìn **sự lan từ người này sang người khác**; 「感染」 nhìn **một người bị nhiễm** (ウイルスに感染する). Văn nói: 「風邪がうつる」."
+        },
+        {
+          "id": "g06-w7",
+          "w": "骨折",
+          "r": "こっせつ",
+          "hv": "CỐT CHIẾT",
+          "pos": "名・自動",
+          "vi": "gãy xương",
+          "key": true,
+          "ex": {
+            "ja": "スキーで{転|ころ}んで{右腕|みぎうで}を{骨折|こっせつ}し、{一か月|いっかげつ}ギプスをしていた。",
+            "vi": "Ngã khi trượt tuyết, gãy tay phải, phải bó bột một tháng."
+          },
+          "col": [
+            "足を骨折する",
+            "骨折が治る"
+          ],
+          "note": "Đọc **こっせつ** (骨 こつ + 折 せつ → こっせつ). 「{骨|ほね}が{折|お}れる」 = cùng nghĩa (văn nói); 「{骨|ほね}を{折|お}る」 còn là quán ngữ ‘ra sức, vất vả giúp’."
+        },
+        {
+          "id": "g06-w8",
+          "w": "血圧",
+          "r": "けつあつ",
+          "hv": "HUYẾT ÁP",
+          "pos": "名",
+          "vi": "huyết áp",
+          "key": true,
+          "ex": {
+            "ja": "{父|ちち}は{毎朝|まいあさ}、{起|お}きるとすぐ{血圧|けつあつ}を{測|はか}っている。",
+            "vi": "Sáng nào bố tôi cũng đo huyết áp ngay khi ngủ dậy."
+          },
+          "col": [
+            "血圧が高い／低い",
+            "血圧を測る",
+            "血圧が上がる"
+          ]
+        },
+        {
+          "id": "g06-w9",
+          "w": "高血圧",
+          "r": "こうけつあつ",
+          "hv": "CAO HUYẾT ÁP",
+          "pos": "名",
+          "vi": "bệnh cao huyết áp",
+          "key": true,
+          "ex": {
+            "ja": "{塩分|えんぶん}の{取|と}りすぎは{高血圧|こうけつあつ}の{原因|げんいん}になる。",
+            "vi": "Ăn quá nhiều muối là nguyên nhân gây cao huyết áp."
+          },
+          "col": [
+            "高血圧になる",
+            "高血圧の薬"
+          ],
+          "rel": "↔ 低血圧",
+          "note": "Tiền tố 高〜 (こう): xem 語形成."
+        },
+        {
+          "id": "g06-w10",
+          "w": "疲れ",
+          "r": "つかれ",
+          "hv": "BÌ",
+          "pos": "名",
+          "vi": "sự mệt mỏi",
+          "key": true,
+          "ex": {
+            "ja": "{温泉|おんせん}に{入|はい}って、{一週間|いっしゅうかん}の{疲|つか}れが{取|と}れた。",
+            "vi": "Ngâm suối nước nóng xong, mệt mỏi cả tuần tan biến."
+          },
+          "col": [
+            "疲れがたまる",
+            "疲れが取れる",
+            "疲れが出る",
+            "目の疲れ"
+          ]
+        },
+        {
+          "id": "g06-w11",
+          "w": "たまる",
+          "r": "たまる",
+          "hv": "",
+          "pos": "自動",
+          "vi": "tích lại, dồn lại, ứ đọng",
+          "key": true,
+          "ex": {
+            "ja": "{連休|れんきゅう}{明|あ}けは、メールがたまっていて{返事|へんじ}だけで{半日|はんにち}かかる。",
+            "vi": "Sau kỳ nghỉ dài, email dồn lại, chỉ trả lời thôi đã mất nửa ngày."
+          },
+          "col": [
+            "疲れ／ストレスがたまる",
+            "仕事がたまる",
+            "お金がたまる（貯まる）",
+            "ほこり／水がたまる"
+          ],
+          "rel": "他動: ためる",
+          "note": "Kanji 溜まる (đọng lại) / 貯まる (tiền tiết kiệm). Thứ tích tụ thường là **không mong muốn** (疲れ, ストレス, ごみ) — trừ tiền."
+        },
+        {
+          "id": "g06-w12",
+          "w": "もむ",
+          "r": "もむ",
+          "hv": "",
+          "pos": "他動",
+          "vi": "xoa bóp, nắn; (気をもむ) lo lắng, sốt ruột",
+          "key": true,
+          "ex": {
+            "ja": "パソコン{作業|さぎょう}の{後|あと}は、{首|くび}と{肩|かた}を{軽|かる}くもむと{楽|らく}になる。",
+            "vi": "Sau khi làm máy tính, xoa bóp nhẹ cổ và vai sẽ thấy dễ chịu."
+          },
+          "col": [
+            "肩をもむ",
+            "気をもむ（thấp thỏm lo）",
+            "もみほぐす"
+          ],
+          "note": "Kanji 揉む."
+        },
+        {
+          "id": "g06-w13",
+          "w": "白髪",
+          "r": "しらが",
+          "hv": "BẠCH PHÁT",
+          "pos": "名",
+          "vi": "tóc bạc",
+          "key": true,
+          "ex": {
+            "ja": "{仕事|しごと}のストレスのせいか、{三十代|さんじゅうだい}なのに{白髪|しらが}が{目立|めだ}ってきた。",
+            "vi": "Không biết có phải do stress công việc không mà mới ngoài 30 tóc bạc đã lộ rõ."
+          },
+          "col": [
+            "白髪が増える",
+            "白髪を染める",
+            "白髪交じり（tóc muối tiêu）"
+          ],
+          "note": "Cách đọc đặc biệt (熟字訓) **しらが**. Văn chương còn đọc はくはつ."
+        },
+        {
+          "id": "g06-w14",
+          "w": "抜ける",
+          "r": "ぬける",
+          "hv": "BẠT",
+          "pos": "自動",
+          "vi": "rụng, tuột ra; mất đi (sức); thiếu sót; đi xuyên qua",
+          "key": true,
+          "senses": [
+            {
+              "vi": "rụng (tóc, răng), tuột ra",
+              "ex": {
+                "ja": "{秋|あき}になると{髪|かみ}の{毛|け}がよく{抜|ぬ}ける{気|き}がする。",
+                "vi": "Cứ đến thu là tôi thấy tóc rụng nhiều."
+              }
+            },
+            {
+              "vi": "mất đi, hết (sức, hơi, mùi)",
+              "ex": {
+                "ja": "{試験|しけん}が{終|お}わったとたん、{体|からだ}から{力|ちから}が{抜|ぬ}けた。",
+                "vi": "Thi vừa xong là người rã rời hết cả sức."
+              }
+            },
+            {
+              "vi": "đi xuyên qua",
+              "ex": {
+                "ja": "{長|なが}いトンネルを{抜|ぬ}けると、{雪|ゆき}{景色|げしき}が{広|ひろ}がっていた。",
+                "vi": "Ra khỏi đường hầm dài, cảnh tuyết trải rộng trước mắt."
+              }
+            }
+          ],
+          "col": [
+            "毛／歯が抜ける",
+            "力が抜ける",
+            "疲れが抜ける",
+            "名前が抜けている（bị sót tên）",
+            "トンネルを抜ける"
+          ],
+          "rel": "他動: 抜く"
+        },
+        {
+          "id": "g06-w15",
+          "w": "ひねる",
+          "r": "ひねる",
+          "hv": "",
+          "pos": "他動",
+          "vi": "vặn, xoay (bằng tay); trẹo, sái (chân, cổ tay); vắt óc",
+          "key": true,
+          "ex": {
+            "ja": "{階段|かいだん}を{踏|ふ}み{外|はず}して、{足首|あしくび}をひねってしまった。",
+            "vi": "Hụt chân ở cầu thang, tôi bị trẹo cổ chân."
+          },
+          "col": [
+            "足首をひねる",
+            "蛇口をひねる（vặn vòi nước）",
+            "頭をひねる（vắt óc）",
+            "首をひねる（nghiêng đầu nghi ngờ）"
+          ],
+          "rel": "≒ ねじる・くじく",
+          "note": "Kanji 捻る. 「首をひねる」 = thấy khó hiểu, nghi ngờ — quán ngữ hay gặp."
+        },
+        {
+          "id": "g06-w16",
+          "w": "ねじる",
+          "r": "ねじる",
+          "hv": "",
+          "pos": "他動",
+          "vi": "vặn xoắn, xoắn (hai đầu ngược chiều)",
+          "key": true,
+          "ex": {
+            "ja": "{体|からだ}を{左右|さゆう}にねじる{運動|うんどう}は、{腰|こし}の{痛|いた}みに{効|き}くそうだ。",
+            "vi": "Nghe nói bài tập vặn người sang trái phải rất tốt cho đau lưng."
+          },
+          "col": [
+            "体をねじる",
+            "タオルをねじる",
+            "ねじ（con ốc）"
+          ],
+          "rel": "≒ ひねる",
+          "note": "ねじる nhấn vào **xoắn mạnh, nhiều vòng** (như vắt khăn); ひねる là **xoay nhẹ một lần** bằng đầu ngón tay. Khi nói trẹo chân, hai từ gần như thay nhau được."
+        },
+        {
+          "id": "g06-w17",
+          "w": "包帯",
+          "r": "ほうたい",
+          "hv": "BAO ĐỚI",
+          "pos": "名",
+          "vi": "băng (y tế), băng gạc",
+          "key": true,
+          "ex": {
+            "ja": "{転|ころ}んだ{子|こ}どもの{膝|ひざ}を{消毒|しょうどく}して、{包帯|ほうたい}を{巻|ま}いてあげた。",
+            "vi": "Tôi sát trùng đầu gối cho đứa bé bị ngã rồi quấn băng."
+          },
+          "col": [
+            "包帯を巻く",
+            "包帯を取る",
+            "包帯をする"
+          ]
+        },
+        {
+          "id": "g06-w18",
+          "w": "巻く",
+          "r": "まく",
+          "hv": "QUYỂN",
+          "pos": "他動",
+          "vi": "quấn, cuộn, vấn",
+          "key": true,
+          "ex": {
+            "ja": "{風邪|かぜ}をひかないように、{首|くび}にマフラーを{巻|ま}いて{出|で}かけた。",
+            "vi": "Tôi quấn khăn quanh cổ rồi ra ngoài cho khỏi cảm."
+          },
+          "col": [
+            "包帯を巻く",
+            "マフラーを巻く",
+            "ねじを巻く（lên dây cót）",
+            "舌を巻く（thán phục）"
+          ]
+        },
+        {
+          "id": "g06-w19",
+          "w": "効く",
+          "r": "きく",
+          "hv": "HIỆU",
+          "pos": "自動",
+          "vi": "có hiệu quả, có tác dụng (thuốc, biện pháp); (máy lạnh) mát/ấm đúng mức; (gia vị) đậm, cay nồng",
+          "key": true,
+          "ex": {
+            "ja": "この{目薬|めぐすり}は{疲|つか}れ{目|め}によく{効|き}く。",
+            "vi": "Thuốc nhỏ mắt này rất hiệu quả với mắt mỏi."
+          },
+          "col": [
+            "薬が効く",
+            "〜に効く",
+            "効き目（hiệu lực）",
+            "冷房／エアコンが効いている",
+            "わさび／こしょうが効いている（đậm vị cay）"
+          ],
+          "note": "Đồng âm 「{利|き}く」 = (giác quan, bộ phận) hoạt động tốt: {鼻|はな}が{利|き}く, {気|き}が{利|き}く, ブレーキが{利|き}く. 冷房／暖房 có thể viết cả hai (効く phổ biến hơn). Lưu ý: vé, hợp đồng, luật «còn hiệu lực» thì dùng 「{有効|ゆうこう}だ」, không dùng 効く (✗ この{切符|きっぷ}は3か{月|げつ}{効|き}く → ○ 3か{月|げつ}{有効|ゆうこう}だ)."
+        }
+      ]
+    },
+    {
+      "title": "症状",
+      "title_vi": "Triệu chứng",
+      "words": [
+        {
+          "id": "g06-w20",
+          "w": "症状",
+          "r": "しょうじょう",
+          "hv": "CHỨNG TRẠNG",
+          "pos": "名",
+          "vi": "triệu chứng",
+          "key": true,
+          "ex": {
+            "ja": "{熱|ねつ}やせきなどの{症状|しょうじょう}がある{方|かた}は、{受付|うけつけ}でお{知|し}らせください。",
+            "vi": "Ai có triệu chứng như sốt, ho xin báo ở quầy tiếp nhận."
+          },
+          "col": [
+            "症状が出る",
+            "症状が重い／軽い",
+            "症状が治まる",
+            "自覚症状"
+          ],
+          "note": "Đọc しょう**じょう** (cả hai âm dài, chữ sau có dakuten)."
+        },
+        {
+          "id": "g06-w21",
+          "w": "全身",
+          "r": "ぜんしん",
+          "hv": "TOÀN THÂN",
+          "pos": "名",
+          "vi": "toàn thân, khắp người",
+          "key": true,
+          "ex": {
+            "ja": "{初|はじ}めてのフルマラソンを{走|はし}り{終|お}えて、{全身|ぜんしん}が{痛|いた}い。",
+            "vi": "Chạy xong cuộc marathon đầu tiên, toàn thân đau nhức."
+          },
+          "col": [
+            "全身が震える",
+            "全身運動",
+            "全身の力"
+          ],
+          "note": "Đồng âm 「{前進|ぜんしん}」 (tiến lên)."
+        },
+        {
+          "id": "g06-w22",
+          "w": "震える",
+          "r": "ふるえる",
+          "hv": "CHẤN",
+          "pos": "自動",
+          "vi": "run, rung",
+          "key": true,
+          "ex": {
+            "ja": "{大勢|おおぜい}の{前|まえ}でスピーチをしたとき、{緊張|きんちょう}で{声|こえ}が{震|ふる}えた。",
+            "vi": "Lúc phát biểu trước đông người, giọng tôi run lên vì hồi hộp."
+          },
+          "col": [
+            "寒さで震える",
+            "手が震える",
+            "声が震える",
+            "スマホが震える"
+          ]
+        },
+        {
+          "id": "g06-w23",
+          "w": "青白い",
+          "r": "あおじろい",
+          "hv": "THANH BẠCH",
+          "pos": "い形",
+          "vi": "xanh xao, nhợt nhạt (sắc mặt)",
+          "key": true,
+          "ex": {
+            "ja": "{徹夜|てつや}{明|あ}けの{彼|かれ}は、{青白|あおじろ}い{顔|かお}で{会議|かいぎ}に{出|で}てきた。",
+            "vi": "Sau đêm thức trắng, anh ấy vào họp với khuôn mặt xanh xao."
+          },
+          "col": [
+            "顔が青白い",
+            "青白い光"
+          ],
+          "rel": "≒ 顔色が悪い",
+          "note": "Khác 「{真|ま}っ{青|さお}」 (tái mét vì sợ / sốc đột ngột). 青白い thường là trạng thái **yếu, thiếu sức sống** kéo dài."
+        },
+        {
+          "id": "g06-w24",
+          "w": "苦痛",
+          "r": "くつう",
+          "hv": "KHỔ THỐNG",
+          "pos": "名",
+          "vi": "đau đớn, khổ sở (thể xác hoặc tinh thần)",
+          "key": true,
+          "ex": {
+            "ja": "{満員|まんいん}{電車|でんしゃ}での{一時間|いちじかん}の{通勤|つうきん}が{苦痛|くつう}でたまらない。",
+            "vi": "Một tiếng đi làm trên tàu chật cứng người là cực hình với tôi."
+          },
+          "col": [
+            "苦痛を感じる",
+            "苦痛を与える",
+            "〜が苦痛だ",
+            "精神的苦痛"
+          ],
+          "rel": "≒ 苦しみ・つらさ",
+          "note": "Ngoài đau thể xác, rất hay dùng cho việc **khiến mình khổ sở, chán ghét**: 「{人前|ひとまえ}で{話|はな}すのが{苦痛|くつう}だ」."
+        },
+        {
+          "id": "g06-w25",
+          "w": "しびれる",
+          "r": "しびれる",
+          "hv": "",
+          "pos": "自動",
+          "vi": "tê (chân tay); (văn nói) phê, đã (cảm xúc mạnh)",
+          "key": true,
+          "ex": {
+            "ja": "{法事|ほうじ}で{一時間|いちじかん}{正座|せいざ}していたら、{足|あし}がしびれて{立|た}てなくなった。",
+            "vi": "Ngồi quỳ một tiếng ở buổi giỗ, chân tê đến mức không đứng dậy nổi."
+          },
+          "col": [
+            "足がしびれる",
+            "手がしびれる",
+            "しびれを切らす（hết kiên nhẫn）"
+          ],
+          "note": "Kanji 痺れる. Quán ngữ 「しびれを{切|き}らす」 = chờ mãi hết kiên nhẫn."
+        }
+      ]
+    },
+    {
+      "title": "病院",
+      "title_vi": "Bệnh viện, khám chữa",
+      "words": [
+        {
+          "id": "g06-w26",
+          "w": "薬局",
+          "r": "やっきょく",
+          "hv": "DƯỢC CỤC",
+          "pos": "名",
+          "vi": "hiệu thuốc, nhà thuốc",
+          "key": true,
+          "ex": {
+            "ja": "{病院|びょういん}でもらった{処方箋|しょほうせん}を{近|ちか}くの{薬局|やっきょく}に{出|だ}した。",
+            "vi": "Tôi nộp đơn thuốc nhận ở bệnh viện cho hiệu thuốc gần đó."
+          },
+          "col": [
+            "薬局で薬をもらう",
+            "ドラッグストア"
+          ],
+          "note": "Đọc **やっきょく** (薬 やく → やっ)."
+        },
+        {
+          "id": "g06-w27",
+          "w": "患者",
+          "r": "かんじゃ",
+          "hv": "HOẠN GIẢ",
+          "pos": "名",
+          "vi": "bệnh nhân",
+          "key": true,
+          "ex": {
+            "ja": "この{病院|びょういん}は{患者|かんじゃ}の{話|はなし}をよく{聞|き}いてくれると{評判|ひょうばん}だ。",
+            "vi": "Bệnh viện này nổi tiếng là chịu lắng nghe bệnh nhân."
+          },
+          "col": [
+            "患者を診る",
+            "入院患者",
+            "外来患者"
+          ]
+        },
+        {
+          "id": "g06-w28",
+          "w": "診る",
+          "r": "みる",
+          "hv": "CHẨN",
+          "pos": "他動",
+          "vi": "khám (bệnh) — hành động của bác sĩ",
+          "key": true,
+          "ex": {
+            "ja": "{夜中|よなか}に{熱|ねつ}が{出|で}たが、{救急|きゅうきゅう}の{先生|せんせい}がすぐに{診|み}てくれた。",
+            "vi": "Nửa đêm bị sốt, bác sĩ cấp cứu đã khám cho tôi ngay."
+          },
+          "col": [
+            "患者を診る",
+            "医者に診てもらう"
+          ],
+          "rel": "≒ 診察する",
+          "note": "Chỉ dùng khi **bác sĩ / người có chuyên môn** khám. Người nhà chăm sóc người ốm thì viết 「{看|み}る」 (→ 看病). Xem Focus."
+        },
+        {
+          "id": "g06-w29",
+          "w": "診察",
+          "r": "しんさつ",
+          "hv": "CHẨN SÁT",
+          "pos": "名・他動",
+          "vi": "khám bệnh (hỏi, nghe, xem)",
+          "key": true,
+          "ex": {
+            "ja": "{診察|しんさつ}の{前|まえ}に、この{問診票|もんしんひょう}にご{記入|きにゅう}ください。",
+            "vi": "Trước khi khám, xin điền vào phiếu hỏi bệnh này."
+          },
+          "col": [
+            "診察を受ける",
+            "診察室",
+            "診察券（thẻ khám bệnh）"
+          ]
+        },
+        {
+          "id": "g06-w30",
+          "w": "診断",
+          "r": "しんだん",
+          "hv": "CHẨN ĐOÁN",
+          "pos": "名・他動",
+          "vi": "chẩn đoán, kết luận bệnh",
+          "key": true,
+          "ex": {
+            "ja": "{検査|けんさ}の{結果|けっか}、{軽|かる}い{肺炎|はいえん}だと{診断|しんだん}された。",
+            "vi": "Kết quả xét nghiệm, tôi được chẩn đoán là viêm phổi nhẹ."
+          },
+          "col": [
+            "〜と診断される",
+            "診断書（giấy chứng nhận của bác sĩ）",
+            "健康診断（khám sức khoẻ định kỳ）"
+          ],
+          "note": "Trình tự: 診察 (khám) → 検査 (xét nghiệm) → 診断 (kết luận). Đi với 「〜と」: 骨折と診断される."
+        },
+        {
+          "id": "g06-w31",
+          "w": "内科",
+          "r": "ないか",
+          "hv": "NỘI KHOA",
+          "pos": "名",
+          "vi": "khoa nội",
+          "key": true,
+          "ex": {
+            "ja": "{熱|ねつ}とせきが{続|つづ}くなら、まず{内科|ないか}を{受診|じゅしん}してください。",
+            "vi": "Nếu sốt và ho kéo dài thì trước hết hãy khám ở khoa nội."
+          },
+          "col": [
+            "内科医",
+            "内科にかかる"
+          ],
+          "rel": "↔ 外科"
+        },
+        {
+          "id": "g06-w32",
+          "w": "外科",
+          "r": "げか",
+          "hv": "NGOẠI KHOA",
+          "pos": "名",
+          "vi": "khoa ngoại (phẫu thuật, chấn thương)",
+          "key": true,
+          "ex": {
+            "ja": "{包丁|ほうちょう}で{指|ゆび}を{深|ふか}く{切|き}ったので、{外科|げか}で{三針|さんはり}{縫|ぬ}ってもらった。",
+            "vi": "Bị dao cắt sâu vào ngón tay nên tôi đến khoa ngoại khâu ba mũi."
+          },
+          "col": [
+            "外科医",
+            "外科手術",
+            "整形外科（chấn thương chỉnh hình）"
+          ],
+          "rel": "↔ 内科",
+          "note": "Đọc **げ**か — 外 đọc げ như trong 外道, không phải がいか."
+        },
+        {
+          "id": "g06-w33",
+          "w": "看病",
+          "r": "かんびょう",
+          "hv": "KHÁN BỆNH",
+          "pos": "名・他動",
+          "vi": "chăm sóc người ốm (của người nhà, người thân)",
+          "key": true,
+          "ex": {
+            "ja": "{熱|ねつ}を{出|だ}した{息子|むすこ}を{一晩中|ひとばんじゅう}{看病|かんびょう}して、{一睡|いっすい}もできなかった。",
+            "vi": "Chăm thằng con sốt suốt đêm, tôi không chợp mắt được chút nào."
+          },
+          "col": [
+            "看病する",
+            "看病疲れ"
+          ],
+          "rel": "≒ 看護（của y tá, chuyên nghiệp）・介護（chăm người già, khuyết tật）",
+          "note": "看病 là **người thân** chăm bệnh nhân; 看護 là **công việc** của y tá (看護師); 介護 là chăm sóc người già / người cần trợ giúp sinh hoạt."
+        }
+      ]
+    },
+    {
+      "title": "からだの動き",
+      "title_vi": "Cử động cơ thể",
+      "words": [
+        {
+          "id": "g06-w34",
+          "w": "はう",
+          "r": "はう",
+          "hv": "",
+          "pos": "自動",
+          "vi": "bò (trườn sát mặt đất)",
+          "key": true,
+          "ex": {
+            "ja": "{煙|けむり}が{出|で}たら、{姿勢|しせい}を{低|ひく}くして{床|ゆか}をはうように{逃|に}げてください。",
+            "vi": "Nếu có khói, hãy hạ thấp người, bò sát sàn mà thoát ra."
+          },
+          "col": [
+            "赤ちゃんがはう",
+            "床をはう",
+            "はい上がる（bò lên）"
+          ],
+          "note": "Kanji 這う. Chia: はいます／はって. Trợ từ を chỉ nơi di chuyển: 床をはう."
+        },
+        {
+          "id": "g06-w35",
+          "w": "もたれる",
+          "r": "もたれる",
+          "hv": "",
+          "pos": "自動",
+          "vi": "tựa, dựa (lưng, người) vào",
+          "key": true,
+          "ex": {
+            "ja": "{疲|つか}れた{顔|かお}の{男性|だんせい}が、{駅|えき}の{柱|はしら}にもたれて{目|め}を{閉|と}じていた。",
+            "vi": "Một người đàn ông mặt mệt mỏi tựa vào cột nhà ga nhắm mắt."
+          },
+          "col": [
+            "壁にもたれる",
+            "いすの背にもたれる"
+          ],
+          "rel": "≒ 寄りかかる",
+          "note": "Trợ từ **に**: 壁にもたれる. Nghĩa khác ‘nặng bụng’ (胃にもたれる) đã học ở bài 食生活."
+        },
+        {
+          "id": "g06-w36",
+          "w": "しゃがむ",
+          "r": "しゃがむ",
+          "hv": "",
+          "pos": "自動",
+          "vi": "ngồi xổm, khom người ngồi xuống",
+          "key": true,
+          "ex": {
+            "ja": "{子|こ}どもと{話|はな}すときは、しゃがんで{目|め}の{高|たか}さを{合|あ}わせるといい。",
+            "vi": "Khi nói chuyện với trẻ, nên ngồi xổm xuống cho ngang tầm mắt bé."
+          },
+          "col": [
+            "その場にしゃがむ",
+            "しゃがみ込む（ngồi thụp xuống）"
+          ],
+          "note": "Không có ghế, mông **không chạm đất**. Khác 「座る」 (ngồi trên ghế / sàn) và 「腰掛ける」 (ngồi lên ghế)."
+        },
+        {
+          "id": "g06-w37",
+          "w": "腰掛ける",
+          "r": "こしかける",
+          "hv": "YÊU QUẢI",
+          "pos": "自動",
+          "vi": "ngồi (lên ghế, băng ghế, mép giường…)",
+          "key": true,
+          "ex": {
+            "ja": "{歩|ある}き{疲|つか}れたので、{公園|こうえん}のベンチに{腰掛|こしか}けてひと{休|やす}みした。",
+            "vi": "Đi bộ mỏi chân nên tôi ngồi lên ghế đá công viên nghỉ một lát."
+          },
+          "col": [
+            "いすに腰掛ける",
+            "腰掛け（ghế đẩu）"
+          ],
+          "rel": "≒ 座る ↔ 立ち上がる",
+          "note": "Chỉ dùng khi ngồi **lên thứ có độ cao** (ghế, bậc). Ngồi trên chiếu, sàn → 「座る」."
+        },
+        {
+          "id": "g06-w38",
+          "w": "立ち上がる",
+          "r": "たちあがる",
+          "hv": "LẬP THƯỢNG",
+          "pos": "自動",
+          "vi": "đứng dậy; vùng lên, bắt đầu hành động; (máy tính) khởi động",
+          "key": true,
+          "senses": [
+            {
+              "vi": "đứng dậy",
+              "ex": {
+                "ja": "{名前|なまえ}を{呼|よ}ばれて、{彼女|かのじょ}はゆっくりいすから{立|た}ち{上|あ}がった。",
+                "vi": "Được gọi tên, cô ấy từ từ đứng dậy khỏi ghế."
+              }
+            },
+            {
+              "vi": "vùng lên, đứng lên hành động",
+              "ex": {
+                "ja": "{災害|さいがい}の{後|あと}、{町|まち}の{人々|ひとびと}は{復興|ふっこう}に{向|む}けて{立|た}ち{上|あ}がった。",
+                "vi": "Sau thảm hoạ, người dân thị trấn đã đứng lên để tái thiết."
+              }
+            }
+          ],
+          "col": [
+            "いすから立ち上がる",
+            "パソコンが立ち上がる",
+            "立ち上げる（thành lập, khởi động）"
+          ],
+          "rel": "↔ 腰掛ける・座る"
+        }
+      ]
+    },
+    {
+      "title": "健康",
+      "title_vi": "Giữ gìn sức khoẻ",
+      "words": [
+        {
+          "id": "g06-w39",
+          "w": "余分",
+          "r": "よぶん",
+          "hv": "DƯ PHẦN",
+          "pos": "な形・名",
+          "vi": "thừa, dư, không cần thiết; (phần) dự phòng",
+          "key": true,
+          "ex": {
+            "ja": "{旅行|りょこう}のときは{余分|よぶん}なものを{持|も}たず、できるだけ{身軽|みがる}に{出|で}かけたい。",
+            "vi": "Khi du lịch tôi muốn không mang đồ thừa, đi càng gọn nhẹ càng tốt."
+          },
+          "col": [
+            "余分な脂肪",
+            "余分なお金",
+            "余分に買っておく（mua dư ra phòng khi）"
+          ],
+          "rel": "≒ 余計・不要",
+          "note": "「余分に」 có thể tích cực: mua dư để dự phòng. 「余計」 thì hay mang ý **phiền, thừa thãi** (余計なお世話 = lo chuyện bao đồng)."
+        },
+        {
+          "id": "g06-w40",
+          "w": "予防",
+          "r": "よぼう",
+          "hv": "DỰ PHÒNG",
+          "pos": "名・他動",
+          "vi": "phòng ngừa, phòng bệnh",
+          "key": true,
+          "ex": {
+            "ja": "{虫歯|むしば}を{予防|よぼう}するには、{寝|ね}る{前|まえ}の{歯磨|はみが}きが{一番|いちばん}{大切|たいせつ}だ。",
+            "vi": "Để phòng sâu răng, đánh răng trước khi ngủ là quan trọng nhất."
+          },
+          "col": [
+            "病気を予防する",
+            "予防接種（tiêm phòng）",
+            "予防策",
+            "火災予防"
+          ],
+          "rel": "≒ 防ぐ"
+        },
+        {
+          "id": "g06-w41",
+          "w": "適度",
+          "r": "てきど",
+          "hv": "THÍCH ĐỘ",
+          "pos": "な形・名",
+          "vi": "vừa phải, điều độ",
+          "key": true,
+          "ex": {
+            "ja": "{健康|けんこう}のためには、{無理|むり}のない{適度|てきど}な{運動|うんどう}を{続|つづ}けることが{大切|たいせつ}だ。",
+            "vi": "Vì sức khoẻ, quan trọng là duy trì vận động vừa sức, điều độ."
+          },
+          "col": [
+            "適度な運動",
+            "適度に休む",
+            "適度な湿度"
+          ],
+          "rel": "≒ ほどほど ↔ 過度（quá mức）",
+          "note": "Đồng âm 「{程度|ていど}」 khác nghĩa (mức độ). 適度 = mức **vừa đúng, không quá không thiếu**."
+        },
+        {
+          "id": "g06-w42",
+          "w": "休養",
+          "r": "きゅうよう",
+          "hv": "HƯU DƯỠNG",
+          "pos": "名・自動",
+          "vi": "nghỉ ngơi dưỡng sức",
+          "key": true,
+          "ex": {
+            "ja": "{医者|いしゃ}から{二週間|にしゅうかん}の{休養|きゅうよう}が{必要|ひつよう}だと{言|い}われた。",
+            "vi": "Bác sĩ bảo tôi cần nghỉ dưỡng hai tuần."
+          },
+          "col": [
+            "休養を取る",
+            "十分な休養",
+            "休養する"
+          ],
+          "rel": "≒ 休息",
+          "note": "Không chỉ nghỉ một lúc (休憩) mà là **nghỉ để hồi phục sức khoẻ** trong một thời gian."
+        },
+        {
+          "id": "g06-w43",
+          "w": "消毒",
+          "r": "しょうどく",
+          "hv": "TIÊU ĐỘC",
+          "pos": "名・他動",
+          "vi": "khử trùng, sát trùng",
+          "key": true,
+          "ex": {
+            "ja": "{店|みせ}の{入|い}り{口|ぐち}にアルコールが{置|お}いてあるので、{手|て}を{消毒|しょうどく}してから{入|はい}る。",
+            "vi": "Ở lối vào cửa hàng có cồn nên tôi sát trùng tay rồi mới vào."
+          },
+          "col": [
+            "傷口を消毒する",
+            "手指の消毒",
+            "消毒液"
+          ]
+        },
+        {
+          "id": "g06-w44",
+          "w": "衛生的",
+          "r": "えいせいてき",
+          "hv": "VỆ SINH ĐÍCH",
+          "pos": "な形",
+          "vi": "hợp vệ sinh, sạch sẽ",
+          "key": true,
+          "ex": {
+            "ja": "まな{板|いた}は{肉用|にくよう}と{野菜用|やさいよう}を{分|わ}けたほうが{衛生的|えいせいてき}だ。",
+            "vi": "Thớt nên chia riêng loại cho thịt và cho rau thì vệ sinh hơn."
+          },
+          "col": [
+            "衛生的な環境",
+            "衛生的に保つ",
+            "衛生面"
+          ],
+          "rel": "↔ 不衛生",
+          "note": "Người Việt nói ‘vệ sinh’ cho cả ‘đi vệ sinh’ — tiếng Nhật 衛生 chỉ nghĩa **sạch sẽ, phòng bệnh**."
+        },
+        {
+          "id": "g06-w45",
+          "w": "徹夜",
+          "r": "てつや",
+          "hv": "TRIỆT DẠ",
+          "pos": "名・自動",
+          "vi": "thức trắng đêm",
+          "key": true,
+          "ex": {
+            "ja": "{締|し}め{切|き}りに{間|ま}に{合|あ}わせるため、{二日|ふつか}{続|つづ}けて{徹夜|てつや}した。",
+            "vi": "Để kịp hạn chót, tôi thức trắng hai đêm liền."
+          },
+          "col": [
+            "徹夜する",
+            "徹夜で勉強する",
+            "徹夜明け（sáng sau đêm thức trắng）"
+          ],
+          "rel": "≒ 夜通し起きている",
+          "note": "徹 = xuyên suốt (徹底). Thức trắng **cả đêm**, không phải chỉ thức khuya (夜更かし)."
+        },
+        {
+          "id": "g06-w46",
+          "w": "睡眠",
+          "r": "すいみん",
+          "hv": "THUỴ MIÊN",
+          "pos": "名",
+          "vi": "giấc ngủ",
+          "key": true,
+          "ex": {
+            "ja": "{質|しつ}のいい{睡眠|すいみん}のためには、{寝|ね}る{前|まえ}にスマホを{見|み}ないほうがいい。",
+            "vi": "Để có giấc ngủ chất lượng, không nên xem điện thoại trước khi ngủ."
+          },
+          "col": [
+            "睡眠を取る",
+            "睡眠時間",
+            "睡眠薬",
+            "睡眠不足"
+          ]
+        },
+        {
+          "id": "g06-w47",
+          "w": "不足",
+          "r": "ふそく",
+          "hv": "BẤT TÚC",
+          "pos": "名・な形・自動",
+          "vi": "thiếu, không đủ",
+          "key": true,
+          "ex": {
+            "ja": "{夏|なつ}は{水分|すいぶん}が{不足|ふそく}しやすいので、こまめに{水|みず}を{飲|の}もう。",
+            "vi": "Mùa hè dễ thiếu nước nên hãy uống nước thường xuyên."
+          },
+          "col": [
+            "〜が不足する",
+            "人手不足",
+            "力不足",
+            "〜不足（ぶそく）"
+          ],
+          "rel": "↔ 十分・過剰",
+          "note": "Đứng sau danh từ khác trong từ ghép thường đọc **ぶそく**: 睡眠不足, 寝不足, 運動不足, 人手不足."
+        },
+        {
+          "id": "g06-w48",
+          "w": "睡眠不足",
+          "r": "すいみんぶそく",
+          "hv": "THUỴ MIÊN BẤT TÚC",
+          "pos": "名",
+          "vi": "thiếu ngủ",
+          "key": true,
+          "ex": {
+            "ja": "{睡眠|すいみん}{不足|ぶそく}が{続|つづ}くと、{集中力|しゅうちゅうりょく}が{落|お}ちてミスが{増|ふ}える。",
+            "vi": "Thiếu ngủ kéo dài thì khả năng tập trung giảm, lỗi tăng lên."
+          },
+          "rel": "≒ 寝不足"
+        },
+        {
+          "id": "g06-w49",
+          "w": "管理",
+          "r": "かんり",
+          "hv": "QUẢN LÝ",
+          "pos": "名・他動",
+          "vi": "quản lý, kiểm soát",
+          "key": true,
+          "ex": {
+            "ja": "スポーツ{選手|せんしゅ}にとって、{体重|たいじゅう}の{管理|かんり}も{仕事|しごと}のうちだ。",
+            "vi": "Với vận động viên, kiểm soát cân nặng cũng là một phần công việc."
+          },
+          "col": [
+            "健康を管理する",
+            "健康管理",
+            "体調管理",
+            "管理人（người quản lý toà nhà）"
+          ]
+        },
+        {
+          "id": "g06-w50",
+          "w": "せき",
+          "r": "せき",
+          "hv": "",
+          "pos": "名",
+          "vi": "cơn ho",
+          "key": true,
+          "ex": {
+            "ja": "{風邪|かぜ}は{治|なお}ったのに、せきだけがなかなか{止|と}まらない。",
+            "vi": "Cảm thì khỏi rồi mà ho mãi không dứt."
+          },
+          "col": [
+            "せきが出る",
+            "せきをする",
+            "せきが止まらない",
+            "せき止め（thuốc ho）"
+          ],
+          "note": "Kanji 咳. Đồng âm 「{席|せき}」 (chỗ ngồi)."
+        },
+        {
+          "id": "g06-w51",
+          "w": "くしゃみ",
+          "r": "くしゃみ",
+          "hv": "",
+          "pos": "名",
+          "vi": "cái hắt hơi",
+          "key": true,
+          "ex": {
+            "ja": "{花粉|かふん}の{季節|きせつ}になると、{朝|あさ}からくしゃみが{止|と}まらない。",
+            "vi": "Cứ đến mùa phấn hoa là từ sáng đã hắt hơi không ngừng."
+          },
+          "col": [
+            "くしゃみが出る",
+            "くしゃみをする"
+          ]
+        },
+        {
+          "id": "g06-w52",
+          "w": "しゃっくり",
+          "r": "しゃっくり",
+          "hv": "",
+          "pos": "名",
+          "vi": "nấc cụt",
+          "key": true,
+          "ex": {
+            "ja": "しゃっくりが{止|と}まらないときは、{水|みず}をゆっくり{飲|の}むといいと{言|い}われる。",
+            "vi": "Người ta bảo khi bị nấc không dứt thì uống nước từ từ."
+          },
+          "col": [
+            "しゃっくりが出る",
+            "しゃっくりが止まる"
+          ]
+        },
+        {
+          "id": "g06-w53",
+          "w": "あくび",
+          "r": "あくび",
+          "hv": "",
+          "pos": "名",
+          "vi": "cái ngáp",
+          "key": true,
+          "ex": {
+            "ja": "{会議|かいぎ}{中|ちゅう}に{大|おお}きなあくびをして、{部長|ぶちょう}ににらまれた。",
+            "vi": "Ngáp to giữa cuộc họp, tôi bị trưởng phòng lườm."
+          },
+          "col": [
+            "あくびが出る",
+            "あくびをする",
+            "あくびをかみ殺す（nén ngáp）"
+          ]
+        },
+        {
+          "id": "g06-w54",
+          "w": "不規則",
+          "r": "ふきそく",
+          "hv": "BẤT QUY TẮC",
+          "pos": "な形",
+          "vi": "không đều đặn, thất thường",
+          "key": true,
+          "ex": {
+            "ja": "{夜勤|やきん}のある{仕事|しごと}なので、どうしても{食事|しょくじ}の{時間|じかん}が{不規則|ふきそく}になる。",
+            "vi": "Công việc có ca đêm nên giờ ăn kiểu gì cũng thất thường."
+          },
+          "col": [
+            "不規則な生活",
+            "不規則な勤務"
+          ],
+          "rel": "↔ 規則正しい・規則的"
+        },
+        {
+          "id": "g06-w55",
+          "w": "平均寿命",
+          "r": "へいきんじゅみょう",
+          "hv": "BÌNH QUÂN THỌ MỆNH",
+          "pos": "名",
+          "vi": "tuổi thọ trung bình",
+          "key": true,
+          "ex": {
+            "ja": "{医療|いりょう}の{進歩|しんぽ}によって、{平均|へいきん}{寿命|じゅみょう}は{年々|ねんねん}{延|の}びている。",
+            "vi": "Nhờ y học tiến bộ, tuổi thọ trung bình tăng lên từng năm."
+          },
+          "col": [
+            "平均寿命が延びる",
+            "健康寿命"
+          ],
+          "note": "寿命 đọc **じゅみょう**: 命 thường đọc めい (生命, 運命), riêng trong 寿命 đọc みょう. 「{延|の}びる」 viết 延 vì là thời gian."
+        }
+      ]
+    },
+    {
+      "title": "美容",
+      "title_vi": "Làm đẹp, chăm sóc ngoại hình",
+      "words": [
+        {
+          "id": "g06-w56",
+          "w": "美容",
+          "r": "びよう",
+          "hv": "MỸ DUNG",
+          "pos": "名",
+          "vi": "làm đẹp, sắc đẹp",
+          "key": true,
+          "ex": {
+            "ja": "{姉|あね}は{美容|びよう}のために、{毎晩|まいばん}{十一時|じゅういちじ}{前|まえ}に{寝|ね}ている。",
+            "vi": "Chị tôi đi ngủ trước 11 giờ mỗi tối để giữ nhan sắc."
+          },
+          "col": [
+            "美容院（tiệm làm tóc）",
+            "美容師",
+            "美容と健康"
+          ]
+        },
+        {
+          "id": "g06-w57",
+          "w": "肌",
+          "r": "はだ",
+          "hv": "CƠ",
+          "pos": "名",
+          "vi": "da (bề mặt da)",
+          "key": true,
+          "ex": {
+            "ja": "{寝不足|ねぶそく}が{続|つづ}くと、{肌|はだ}の{調子|ちょうし}がすぐ{悪|わる}くなる。",
+            "vi": "Thiếu ngủ liên tục là da xấu đi ngay."
+          },
+          "col": [
+            "肌が荒れる",
+            "肌がきれいだ",
+            "肌に合う（hợp da）",
+            "肌で感じる（cảm nhận trực tiếp）"
+          ],
+          "note": "「{皮膚|ひふ}」 là từ y học; 「肌」 là từ đời thường, gắn với làm đẹp và cảm giác."
+        },
+        {
+          "id": "g06-w58",
+          "w": "荒れる",
+          "r": "あれる",
+          "hv": "HOANG",
+          "pos": "自動",
+          "vi": "(da) nứt nẻ, sần sùi; (thời tiết, biển) động, dữ; (trận đấu, cuộc họp) hỗn loạn",
+          "key": true,
+          "senses": [
+            {
+              "vi": "da nứt nẻ, thô ráp",
+              "ex": {
+                "ja": "{冬|ふゆ}は{水仕事|みずしごと}のせいで{手|て}が{荒|あ}れやすい。",
+                "vi": "Mùa đông, làm việc với nước nhiều nên tay dễ nứt nẻ."
+              }
+            },
+            {
+              "vi": "thời tiết xấu, biển động",
+              "ex": {
+                "ja": "{台風|たいふう}の{影響|えいきょう}で、{今夜|こんや}は{海|うみ}が{荒|あ}れる{見込|みこ}みです。",
+                "vi": "Do ảnh hưởng của bão, đêm nay dự kiến biển động."
+              }
+            }
+          ],
+          "col": [
+            "肌が荒れる",
+            "肌荒れ",
+            "天気が荒れる",
+            "荒れた生活"
+          ]
+        },
+        {
+          "id": "g06-w59",
+          "w": "かみそり",
+          "r": "かみそり",
+          "hv": "",
+          "pos": "名",
+          "vi": "dao cạo",
+          "key": true,
+          "ex": {
+            "ja": "{出張|しゅっちょう}に{使|つか}い{捨|す}てのかみそりを{持|も}っていくのを{忘|わす}れた。",
+            "vi": "Tôi quên mang dao cạo dùng một lần khi đi công tác."
+          },
+          "col": [
+            "かみそりでひげをそる",
+            "電気かみそり"
+          ],
+          "note": "Kanji 剃刀."
+        },
+        {
+          "id": "g06-w60",
+          "w": "ひげ",
+          "r": "ひげ",
+          "hv": "",
+          "pos": "名",
+          "vi": "râu",
+          "key": true,
+          "ex": {
+            "ja": "{休|やす}みの{日|ひ}はひげをそらずに{過|す}ごしている。",
+            "vi": "Ngày nghỉ tôi không cạo râu."
+          },
+          "col": [
+            "ひげをそる",
+            "ひげが伸びる",
+            "ひげを生やす（để râu）",
+            "無精ひげ（râu lởm chởm）"
+          ],
+          "note": "Kanji 髭・鬚・髯 (râu mép / cằm / má); thường viết hiragana."
+        },
+        {
+          "id": "g06-w61",
+          "w": "剃る",
+          "r": "そる",
+          "hv": "THẾ",
+          "pos": "他動",
+          "vi": "cạo (râu, lông)",
+          "key": true,
+          "ex": {
+            "ja": "{面接|めんせつ}の{朝|あさ}は、いつもよりていねいにひげをそった。",
+            "vi": "Sáng hôm phỏng vấn tôi cạo râu kỹ hơn mọi khi."
+          },
+          "col": [
+            "ひげをそる",
+            "頭をそる"
+          ],
+          "note": "Thường viết hiragana 「そる」. Là động từ nhóm 1 (そります／そって), dù có đuôi -る."
+        },
+        {
+          "id": "g06-w62",
+          "w": "くし",
+          "r": "くし",
+          "hv": "",
+          "pos": "名",
+          "vi": "cái lược",
+          "key": true,
+          "ex": {
+            "ja": "{目|め}の{細|こま}かいくしで、{絡|から}まった{髪|かみ}を{少|すこ}しずつほどいた。",
+            "vi": "Tôi dùng lược răng dày gỡ dần mái tóc rối."
+          },
+          "col": [
+            "くしで髪をとかす"
+          ],
+          "note": "Kanji 櫛. Đồng âm 「{串|くし}」 (xiên que: 串焼き)."
+        },
+        {
+          "id": "g06-w63",
+          "w": "ブラシ",
+          "r": "ブラシ",
+          "hv": "",
+          "pos": "名",
+          "vi": "bàn chải; lược chải tóc dạng bàn chải",
+          "key": true,
+          "ex": {
+            "ja": "{犬|いぬ}の{毛|け}を{毎日|まいにち}ブラシでとかしてやると、{毛|け}がつやつやになる。",
+            "vi": "Ngày nào cũng chải lông cho chó bằng bàn chải thì lông sẽ bóng mượt."
+          },
+          "col": [
+            "ヘアブラシ",
+            "歯ブラシ",
+            "ブラシをかける"
+          ]
+        },
+        {
+          "id": "g06-w64",
+          "w": "梳く",
+          "r": "とく",
+          "hv": "SƠ",
+          "pos": "他動",
+          "vi": "chải (tóc)",
+          "key": true,
+          "ex": {
+            "ja": "{祖母|そぼ}は{毎朝|まいあさ}、{鏡|かがみ}の{前|まえ}で{長|なが}い{髪|かみ}をくしでといていた。",
+            "vi": "Sáng nào bà cũng ngồi trước gương chải mái tóc dài bằng lược."
+          },
+          "col": [
+            "髪をとく"
+          ],
+          "rel": "≒ とかす",
+          "note": "Thường viết hiragana. Đồng âm 「{溶|と}く」 (hoà tan, bài 家事), 「{解|と}く」 (giải)."
+        },
+        {
+          "id": "g06-w65",
+          "w": "梳かす",
+          "r": "とかす",
+          "hv": "SƠ",
+          "pos": "他動",
+          "vi": "chải (tóc) cho suôn",
+          "key": true,
+          "ex": {
+            "ja": "{寝癖|ねぐせ}がひどいので、{出|で}かける{前|まえ}にブラシでよくとかした。",
+            "vi": "Tóc bị rối do nằm ngủ nên trước khi đi tôi chải kỹ bằng lược."
+          },
+          "col": [
+            "髪をとかす"
+          ],
+          "rel": "≒ とく",
+          "note": "Thông dụng hơn 「とく」 trong văn nói. Đồng âm 「{溶|と}かす」 (làm tan chảy)."
+        }
+      ]
+    },
+    {
+      "title": "語形成",
+      "title_vi": "Ghép từ: 高〜・〜上がる・〜不足・平均〜",
+      "words": [
+        {
+          "id": "g06-w66",
+          "w": "高カロリー",
+          "r": "こうカロリー",
+          "hv": "CAO",
+          "pos": "名",
+          "vi": "nhiều calo",
+          "key": true,
+          "ex": {
+            "ja": "{揚|あ}げ{物|もの}やケーキなど{高|こう}カロリーの{食品|しょくひん}は、{食|た}べる{量|りょう}に{気|き}をつけよう。",
+            "vi": "Đồ nhiều calo như đồ chiên, bánh ngọt thì nên chú ý lượng ăn."
+          },
+          "col": [
+            "高〜: 高血圧・高カロリー・高収入・高学歴・高気圧"
+          ],
+          "rel": "↔ 低カロリー",
+          "note": "Tiền tố 高〜 đọc **こう**, gắn trước danh từ chỉ mức đo: cao về…"
+        },
+        {
+          "id": "g06-w67",
+          "w": "起き上がる",
+          "r": "おきあがる",
+          "hv": "KHỞI THƯỢNG",
+          "pos": "自動",
+          "vi": "ngồi dậy, nhổm dậy (từ tư thế nằm)",
+          "key": false,
+          "ex": {
+            "ja": "{熱|ねつ}が{高|たか}くて、ベッドから{起|お}き{上|あ}がることもできなかった。",
+            "vi": "Sốt cao đến mức không ngồi dậy nổi khỏi giường."
+          },
+          "note": "起き上がる: nằm → ngồi / đứng; 立ち上がる: ngồi → đứng; 飛び上がる: bật nhảy lên."
+        },
+        {
+          "id": "g06-w68",
+          "w": "飛び上がる",
+          "r": "とびあがる",
+          "hv": "PHI THƯỢNG",
+          "pos": "自動",
+          "vi": "nhảy dựng lên, bật lên (vì vui, giật mình)",
+          "key": false,
+          "ex": {
+            "ja": "{合格|ごうかく}の{知|し}らせを{聞|き}いて、{飛|と}び{上|あ}がって{喜|よろこ}んだ。",
+            "vi": "Nghe tin đỗ, tôi nhảy cẫng lên vui sướng."
+          },
+          "col": [
+            "飛び上がって喜ぶ",
+            "飛び上がるほど驚く"
+          ]
+        },
+        {
+          "id": "g06-w69",
+          "w": "寝不足",
+          "r": "ねぶそく",
+          "hv": "TẨM BẤT TÚC",
+          "pos": "名・な形",
+          "vi": "thiếu ngủ (văn nói)",
+          "key": true,
+          "ex": {
+            "ja": "{昨日|きのう}は{寝不足|ねぶそく}で、{授業|じゅぎょう}{中|ちゅう}ずっとあくびが{出|で}ていた。",
+            "vi": "Hôm qua thiếu ngủ nên cả buổi học cứ ngáp suốt."
+          },
+          "rel": "≒ 睡眠不足",
+          "note": "Đọc ね**ぶ**そく. 寝不足 thường nói về **một vài hôm**; 睡眠不足 trang trọng hơn, có thể là tình trạng kéo dài."
+        },
+        {
+          "id": "g06-w70",
+          "w": "運動不足",
+          "r": "うんどうぶそく",
+          "hv": "VẬN ĐỘNG BẤT TÚC",
+          "pos": "名",
+          "vi": "thiếu vận động",
+          "key": false,
+          "ex": {
+            "ja": "{在宅|ざいたく}{勤務|きんむ}になってから、すっかり{運動|うんどう}{不足|ぶそく}だ。",
+            "vi": "Từ khi làm việc ở nhà, tôi hoàn toàn thiếu vận động."
+          },
+          "col": [
+            "運動不足を解消する"
+          ]
+        },
+        {
+          "id": "g06-w71",
+          "w": "平均気温",
+          "r": "へいきんきおん",
+          "hv": "BÌNH QUÂN KHÍ ÔN",
+          "pos": "名",
+          "vi": "nhiệt độ trung bình",
+          "key": true,
+          "ex": {
+            "ja": "{今年|ことし}の{八月|はちがつ}の{平均|へいきん}{気温|きおん}は、{観測|かんそく}{史上|しじょう}{最|もっと}も{高|たか}かった。",
+            "vi": "Nhiệt độ trung bình tháng 8 năm nay cao nhất trong lịch sử quan trắc."
+          },
+          "col": [
+            "平均〜: 平均寿命・平均気温・平均点・平均年齢"
+          ]
+        },
+        {
+          "id": "g06-w72",
+          "w": "平均点",
+          "r": "へいきんてん",
+          "hv": "BÌNH QUÂN ĐIỂM",
+          "pos": "名",
+          "vi": "điểm trung bình",
+          "key": false,
+          "ex": {
+            "ja": "{今回|こんかい}のテストは{難|むずか}しく、クラスの{平均点|へいきんてん}は{五十点|ごじゅってん}を{下回|したまわ}った。",
+            "vi": "Bài kiểm tra lần này khó, điểm trung bình của lớp dưới 50."
+          },
+          "col": [
+            "平均点を上回る／下回る"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "例文の副詞",
+      "title_vi": "Phó từ trong câu ví dụ",
+      "words": [
+        {
+          "id": "g06-w73",
+          "w": "一応",
+          "r": "いちおう",
+          "hv": "NHẤT ỨNG",
+          "pos": "副",
+          "vi": "tạm thời, cho chắc, phòng khi (dù không thật cần thiết); về cơ bản (tạm gọi là)",
+          "key": true,
+          "senses": [
+            {
+              "vi": "cho chắc ăn, phòng khi",
+              "ex": {
+                "ja": "{晴|は}れの{予報|よほう}だが、{一応|いちおう}{折|お}りたたみ{傘|がさ}を{持|も}っていく。",
+                "vi": "Dự báo trời nắng nhưng tôi vẫn mang ô gấp cho chắc."
+              }
+            },
+            {
+              "vi": "tạm gọi là, về cơ bản thì",
+              "ex": {
+                "ja": "{一応|いちおう}{英語|えいご}は{話|はな}せますが、{仕事|しごと}で{使|つか}えるほどではありません。",
+                "vi": "Tiếng Anh thì tạm gọi là nói được, nhưng chưa đến mức dùng trong công việc."
+              }
+            }
+          ],
+          "col": [
+            "一応確認する",
+            "一応〜けど"
+          ],
+          "rel": "≒ 念のため・とりあえず",
+          "note": "Sắc thái: **không chắc cần nhưng làm cho yên tâm**, hoặc **khiêm tốn, chưa hoàn hảo**."
+        },
+        {
+          "id": "g06-w74",
+          "w": "当分",
+          "r": "とうぶん",
+          "hv": "ĐƯƠNG PHÂN",
+          "pos": "副・名",
+          "vi": "trong một thời gian (từ giờ trở đi), tạm thời",
+          "key": true,
+          "ex": {
+            "ja": "{駅前|えきまえ}の{道路|どうろ}は{工事|こうじ}のため、{当分|とうぶん}{通|とお}れないそうだ。",
+            "vi": "Nghe nói đường trước ga đang thi công nên tạm thời không đi qua được."
+          },
+          "col": [
+            "当分の間",
+            "当分〜ない"
+          ],
+          "rel": "≒ しばらく",
+          "note": "Chỉ khoảng thời gian **từ bây giờ về sau** (không dùng cho quá khứ): ✗ 去年は当分忙しかった → ○ 去年はしばらく忙しかった."
+        },
+        {
+          "id": "g06-w75",
+          "w": "たちまち",
+          "r": "たちまち",
+          "hv": "",
+          "pos": "副",
+          "vi": "ngay lập tức, trong chớp mắt",
+          "key": true,
+          "ex": {
+            "ja": "{人気|にんき}{歌手|かしゅ}が{紹介|しょうかい}したお{菓子|かし}は、たちまち{売|う}り{切|き}れになった。",
+            "vi": "Món bánh được ca sĩ nổi tiếng giới thiệu bán hết sạch trong chớp mắt."
+          },
+          "col": [
+            "たちまち広がる",
+            "たちまち売り切れる"
+          ],
+          "rel": "≒ あっという間に・すぐに",
+          "note": "Dùng để **kể sự việc đã / sẽ xảy ra** một cách nhanh chóng; không dùng với mệnh lệnh, nhờ vả: ✗ たちまち来てください → ○ すぐ来てください."
+        },
+        {
+          "id": "g06-w76",
+          "w": "今に",
+          "r": "いまに",
+          "hv": "KIM",
+          "pos": "副",
+          "vi": "rồi sẽ (sớm muộn), chẳng mấy chốc nữa",
+          "key": true,
+          "ex": {
+            "ja": "{毎晩|まいばん}そんなに{遅|おそ}くまでゲームをしていたら、{今|いま}に{目|め}が{悪|わる}くなるよ。",
+            "vi": "Tối nào cũng chơi game khuya thế thì rồi sẽ hỏng mắt cho xem."
+          },
+          "col": [
+            "今に〜する（だろう）",
+            "今に見ていろ（cứ chờ đấy）"
+          ],
+          "rel": "≒ そのうち・やがて",
+          "note": "Hay dùng để **cảnh báo** hoặc **dự đoán chắc chắn** về tương lai gần. Khác 「今にも」 = sắp sửa ngay (今にも雨が降りそうだ)."
+        }
+      ]
+    }
+  ],
+  "focus": [
+    {
+      "title": "Ba chữ みる: 見る・診る・看る — và 診察・診断・検査・看病",
+      "body": "- **見る**: nhìn, xem (chung nhất).\n- **診る**: bác sĩ **khám** — 医者に診てもらう, 患者を診る.\n- **看る**: **chăm sóc** người ốm / người già — 病人を看る, 親の面倒を看る. Danh từ: **看病** (người nhà chăm), **看護** (y tá chăm, 看護師), **介護** (chăm người cao tuổi).\n\nQuy trình ở bệnh viện:\n- **診察**: hỏi, nghe, xem — 診察を受ける.\n- **検査**: xét nghiệm, chụp chiếu — 血液検査.\n- **診断**: đưa ra kết luận — 〜と診断される; 健康診断 = khám sức khoẻ định kỳ.\n\nBẫy đề: ✗ 母が祖父を診察している (mẹ không phải bác sĩ) → ○ 看病している. ✗ 医者に風邪と診察された → ○ 診断された."
+    },
+    {
+      "title": "Triệu chứng đi với động từ nào? — bảng cần thuộc",
+      "body": "- **〜がする**: 頭痛／めまい／吐き気／寒気がする (cảm giác bên trong)\n- **〜が出る**: 熱／せき／くしゃみ／鼻水／しゃっくり／あくびが出る (thứ ‘thoát ra’ ngoài)\n- **〜をする**: せき／くしゃみ／しゃっくり／あくびをする (hành động) — cả 4 từ này đều dùng được với cả 「が出る」 lẫn 「をする」\n- **〜がたまる**: 疲れ／ストレスがたまる ↔ 疲れが取れる\n- **〜が震える**: 体／手／声が震える\n- **〜がしびれる**: 足／手がしびれる\n- **〜が荒れる**: 肌／手が荒れる\n- **〜が抜ける**: 髪／歯／力が抜ける\n- **〜が効く**: 薬が効く (≠ 利く: 鼻が利く, 気が利く)\n- **〜にかかる**: 病気／インフルエンザにかかる\n- **〜を崩す**: 体調／調子を崩す (nhưng 体を**壊す**, お腹を**壊す**)\n\nMẹo: đề 文脈規定 thường cho 4 động từ cùng loại; nhìn danh từ đứng trước rồi đối chiếu bảng này."
+    },
+    {
+      "title": "Tư thế và cử động: はう・しゃがむ・もたれる・腰掛ける・立ち上がる",
+      "body": "Hình dung theo **độ cao của mông** — từ thấp đến cao:\n- **はう**: cả người sát đất, dùng tay và đầu gối di chuyển (赤ちゃんがはう).\n- **しゃがむ**: ngồi xổm, mông **không chạm** đất / ghế (道にしゃがむ).\n- **座る**: ngồi (trên sàn, chiếu hoặc ghế — chung nhất).\n- **腰掛ける**: ngồi **lên chỗ có độ cao** (いす, ベンチ, ベッドの端に腰掛ける).\n- **もたれる**: đứng / ngồi nhưng **dựa trọng lượng** vào vật khác (壁にもたれる).\n- **立ち上がる**: từ ngồi → đứng.\n\nHọ 〜上がる chỉ hướng **lên trên**: 起き上がる (nằm → ngồi dậy), 立ち上がる (ngồi → đứng), 飛び上がる (bật nhảy lên — vì vui, giật mình), はい上がる (bò lên).\n\nBẫy: ✗ ベンチにしゃがむ → ○ ベンチに腰掛ける. ✗ 床に腰掛ける → ○ 床に座る."
+    },
+    {
+      "title": "Ghép từ: 高〜・〜不足・平均〜・不規則 / 〜的",
+      "body": "- **高〜（こう）**: cao về… — 高血圧, 高カロリー, 高気圧, 高収入, 高学歴. Đối: **低〜（てい）** — 低血圧, 低カロリー. ✗ 上血圧, ✗ 多カロリー.\n- **〜不足（ぶそく）**: thiếu… — 睡眠不足, 寝不足, 運動不足, 人手不足, 練習不足. Đọc **ぶそく** khi đứng sau danh từ. Phân biệt 不満 (bất mãn), 不平 (than phiền) — cùng 不 nhưng không phải ‘thiếu’.\n- **平均〜（へいきん）**: trung bình — 平均寿命, 平均気温, 平均点, 平均年齢.\n- **不〜**: phủ định tính chất — 不規則, 不衛生, 不健康, 不足. (So với 無〜: 無意識; 非〜: 非常識; 未〜: 未経験.)\n- **〜的（てき）**: biến danh từ thành tính từ な — 衛生的, 健康的, 規則的, 積極的.\n\nMẹo 語形成: đọc từ đứng sau chỗ trống — số đo (血圧, カロリー) → 高; hoạt động (睡眠, 運動) → 不足; số liệu thống kê (寿命, 気温) → 平均."
+    },
+    {
+      "title": "効く vs 利く · 伝染 vs 感染 · ひねる vs ねじる",
+      "body": "- **効く**: **phát huy tác dụng / chức năng** (thuốc, biện pháp, máy lạnh, gia vị) — 薬が効く, エアコンが効いている, わさびが効いている. Hiệu lực pháp lý của vé, luật → 「有効」, không phải 効く.\n- **利く**: (giác quan, bộ phận, máy) **hoạt động tốt** — 鼻が利く, 気が利く (tinh ý), ブレーキが利かない, 無理が利かない (không còn sức gắng).\n\n- **伝染**: bệnh **lan từ người sang người** — 伝染病, あくびが伝染する.\n- **感染**: một cá thể **bị nhiễm** mầm bệnh — ウイルスに感染する, 感染者. Nói từ phía **người bị bệnh** thì dùng 感染: ✗ インフルエンザに伝染した → ○ インフルエンザに感染した.\n- Văn nói: 風邪が**うつる**／風邪を**うつす**.\n\n- **ひねる**: xoay / vặn **nhẹ, một lần** bằng ngón tay (蛇口をひねる); trẹo khớp (足首をひねる); 頭をひねる = vắt óc.\n- **ねじる**: **xoắn** mạnh, hai đầu ngược chiều (タオルをねじる, 体をねじる).\n- **もむ**: nắn, xoa bóp (肩をもむ); 気をもむ = lo lắng."
+    },
+    {
+      "title": "4 phó từ: 一応・当分・たちまち・今に",
+      "body": "- **一応**: làm **cho chắc / cho yên tâm** dù có lẽ không cần — 一応{確認|かくにん}しておきます; hoặc ‘tạm gọi là’ — 一応{完成|かんせい}した.\n- **当分**: **từ giờ trở đi một thời gian** — 当分の{間|あいだ}, 当分{休|やす}みます. Không dùng cho quá khứ.\n- **たちまち**: **trong chớp mắt** (kể sự việc) — うわさはたちまち{広|ひろ}がった. Không đi với mệnh lệnh.\n- **今に**: **rồi sẽ, sớm muộn** — thường cảnh báo hoặc dự đoán: 今に{後悔|こうかい}するよ. Đừng nhầm 「今にも」 (sắp sửa ngay: 今にも{泣|な}き{出|だ}しそう).\n\nSo sánh thời gian: たちまち (vài giây – vài phút, đã xảy ra) · 今に (tương lai gần, chưa xảy ra) · 当分 (khoảng thời gian kéo dài từ bây giờ)."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "g06-q1",
+      "kind": "read",
+      "ref": "g06-w13",
+      "q": "{最近|さいきん}、{鏡|かがみ}を{見|み}るたびに[[u:白髪]]が{増|ふ}えている{気|き}がする。",
+      "options": [
+        "しろが",
+        "しらげ",
+        "しらが",
+        "しろかみ"
+      ],
+      "answer": 2,
+      "vi": "Gần đây mỗi lần soi gương, tôi thấy tóc bạc như nhiều thêm.",
+      "why": "白髪 là cách đọc đặc biệt **しらが** (白 biến thành しら như 白雪 しらゆき). 「しろが」「しろかみ」 đọc theo mặt chữ 白い・髪; 「しらげ」 nhầm 髪 thành 毛 (け)."
+    },
+    {
+      "id": "g06-q2",
+      "kind": "write",
+      "ref": "g06-w29",
+      "q": "{受付|うけつけ}で{名前|なまえ}を{呼|よ}ばれたら、[[u:しんさつ]]{室|しつ}にお{入|はい}りください。",
+      "options": [
+        "診祭",
+        "診察",
+        "珍察",
+        "診擦"
+      ],
+      "answer": 1,
+      "vi": "Khi được gọi tên ở quầy, xin mời vào phòng khám.",
+      "why": "**診察** (診 = khám, 察 = xem xét như 観察・警察). 「祭」 thiếu bộ 宀 trên đầu; 「珍」 (hiếm) cùng phần phải với 診 nhưng bộ 王; 「擦」 (cọ xát) thêm bộ 扌."
+    },
+    {
+      "id": "g06-q3",
+      "kind": "context",
+      "ref": "g06-w11",
+      "q": "{毎日|まいにち}{残業|ざんぎょう}が{続|つづ}いて、だいぶ{疲|つか}れが（　　）いる。",
+      "options": [
+        "抜けて",
+        "崩れて",
+        "巻いて",
+        "たまって"
+      ],
+      "answer": 3,
+      "vi": "Làm thêm giờ ngày nào cũng vậy, mệt mỏi dồn lại nhiều rồi.",
+      "why": "Mệt mỏi tích tụ → **疲れがたまる**. 「疲れが抜ける」 là hết mệt (ngược logic ‘tăng ca liên tục’); 「崩れる」 dùng cho 体調・天気; 「巻く」 là tha động từ (quấn)."
+    },
+    {
+      "id": "g06-q4",
+      "kind": "context",
+      "ref": "g06-w2",
+      "q": "{季節|きせつ}の{変|か}わり{目|め}は、{体調|たいちょう}を（　　）{人|ひと}が{多|おお}い。",
+      "options": [
+        "崩す",
+        "倒す",
+        "外す",
+        "落とす"
+      ],
+      "answer": 0,
+      "vi": "Lúc giao mùa, nhiều người bị ốm.",
+      "why": "Cụm cố định **体調を崩す**. 「倒す」 = làm đổ; 「外す」 = tháo ra; 「落とす」 = đánh rơi — không đi với 体調."
+    },
+    {
+      "id": "g06-q5",
+      "kind": "paraphrase",
+      "ref": "g06-w74",
+      "q": "{手術|しゅじゅつ}の{後|あと}なので、[[u:当分]]お{酒|さけ}は{控|ひか}えてください。",
+      "options": [
+        "今日だけ",
+        "しばらくの間",
+        "少しだけ",
+        "一生"
+      ],
+      "answer": 1,
+      "vi": "Vì mới phẫu thuật, xin hãy kiêng rượu một thời gian.",
+      "why": "当分 = một khoảng thời gian từ nay ≒ **しばらくの間**. 「今日だけ」 quá ngắn; 「一生」 quá dài (当分 hàm ý có lúc kết thúc); 「少しだけ」 nói về lượng, không phải thời gian."
+    },
+    {
+      "id": "g06-q6",
+      "kind": "formation",
+      "ref": "g06-w69",
+      "q": "ゆうべは{二時間|にじかん}しか{寝|ね}ていないので、ひどい（　　）{不足|ぶそく}だ。",
+      "options": [
+        "寝",
+        "夜",
+        "休",
+        "眠"
+      ],
+      "answer": 0,
+      "vi": "Đêm qua chỉ ngủ được hai tiếng nên thiếu ngủ trầm trọng.",
+      "why": "**寝不足** (ねぶそく). 「睡眠不足」 cũng đúng nhưng cần cả 「睡眠」; 「眠不足」「休不足」「夜不足」 không tồn tại."
+    },
+    {
+      "id": "g06-q7",
+      "kind": "read",
+      "ref": "g06-w32",
+      "q": "{転|ころ}んで{腕|うで}を{強|つよ}く{打|う}ったので、[[u:外科]]で{診|み}てもらった。",
+      "options": [
+        "がいか",
+        "げか",
+        "そとか",
+        "ういか"
+      ],
+      "answer": 1,
+      "vi": "Ngã đập mạnh tay nên tôi đi khám khoa ngoại.",
+      "why": "外科 đọc **げか** (外 = げ). 「がいか」 là bẫy chính vì 外 thường đọc がい (外国); 「そと」 là âm Kun; 「うい」 không phải cách đọc của 外 (うい là 初)."
+    },
+    {
+      "id": "g06-q8",
+      "kind": "usage",
+      "ref": "g06-w14",
+      "q": "{抜|ぬ}ける",
+      "options": [
+        "熱がやっと抜けたので、明日から学校に行ける。",
+        "ポケットの財布が抜けて、道に落ちてしまった。",
+        "試合に負けたと聞いて、体中の力が抜けた。",
+        "テストで名前を書くのを抜けてしまった。"
+      ],
+      "answer": 2,
+      "vi": "(3) Nghe tin thua trận, toàn thân tôi rã rời.",
+      "why": "(3) 力が抜ける = mất hết sức → đúng. (1) hạ sốt → 熱が下がった; (2) rơi ra → 財布が落ちた (抜ける không dùng cho vật rơi khỏi túi); (4) quên viết → 書き忘れた (có thể nói 名前が抜けていた, nhưng không nói 書くのを抜ける)."
+    },
+    {
+      "id": "g06-q9",
+      "kind": "context",
+      "ref": "g06-w40",
+      "q": "インフルエンザを（　　）するために、{冬|ふゆ}の{前|まえ}にワクチンを{打|う}った。",
+      "options": [
+        "消毒",
+        "予約",
+        "予防",
+        "管理"
+      ],
+      "answer": 2,
+      "vi": "Để phòng cúm, tôi đã tiêm vắc-xin trước mùa đông.",
+      "why": "Ngăn bệnh trước khi mắc → **予防**. 「消毒」 tác động lên tay, đồ vật chứ không phải ‘インフルエンザを消毒’; 「予約」 = đặt hẹn; 「管理」 = quản lý (健康を管理する)."
+    }
+  ],
+  "practice": [
+    {
+      "id": "g06-p1",
+      "kind": "read",
+      "ref": "g06-w20",
+      "q": "{同|おな}じ[[u:症状]]の{患者|かんじゃ}が{最近|さいきん}{増|ふ}えているそうだ。",
+      "options": [
+        "しょうぞう",
+        "しょじょう",
+        "せいじょう",
+        "しょうじょう"
+      ],
+      "answer": 3,
+      "vi": "Nghe nói gần đây bệnh nhân có cùng triệu chứng đang tăng lên.",
+      "why": "**しょうじょう**: 症 = しょう, 状 = じょう. 「しょうぞう」 nhầm với 肖像; 「しょじょう」 thiếu trường âm; 「せいじょう」 là 正常 (bình thường)."
+    },
+    {
+      "id": "g06-p2",
+      "kind": "write",
+      "ref": "g06-w17",
+      "q": "けがをした{指|ゆび}に[[u:ほうたい]]を{巻|ま}いた。",
+      "options": [
+        "包帯",
+        "包滞",
+        "抱帯",
+        "砲帯"
+      ],
+      "answer": 0,
+      "vi": "Tôi quấn băng vào ngón tay bị thương.",
+      "why": "**包帯** (包 = bao bọc, 帯 = dải băng). 「滞」 (đình trệ) có bộ 氵; 「抱」 (ôm) và 「砲」 (pháo) cùng phần 包 nhưng khác bộ."
+    },
+    {
+      "id": "g06-p3",
+      "kind": "context",
+      "ref": "g06-w36",
+      "q": "{落|お}とした{小銭|こぜに}を{拾|ひろ}おうと、{道|みち}の{端|はし}に（　　）。",
+      "options": [
+        "もたれた",
+        "しゃがんだ",
+        "腰掛けた",
+        "はった"
+      ],
+      "answer": 1,
+      "vi": "Tôi ngồi xổm xuống mép đường để nhặt đồng xu đánh rơi.",
+      "why": "Hạ người xuống thấp tạm thời để nhặt → **しゃがんだ**. 「もたれた」 = tựa vào vật (道の端 không phải vật để tựa); 「腰掛けた」 cần chỗ ngồi có độ cao; 「はった」 = bò, không tự nhiên khi chỉ nhặt xu."
+    },
+    {
+      "id": "g06-p4",
+      "kind": "context",
+      "ref": "g06-w19",
+      "q": "この{薬|くすり}はよく（　　）が、{飲|の}むと{眠|ねむ}くなるのが{欠点|けってん}だ。",
+      "options": [
+        "治る",
+        "かかる",
+        "効く",
+        "診る"
+      ],
+      "answer": 2,
+      "vi": "Thuốc này rất hiệu nghiệm nhưng nhược điểm là uống vào buồn ngủ.",
+      "why": "Thuốc có tác dụng → **薬が効く**. 「治る」 chủ ngữ là bệnh / người (病気が治る), không phải thuốc; 「かかる」 = mắc bệnh; 「診る」 là việc của bác sĩ."
+    },
+    {
+      "id": "g06-p5",
+      "kind": "paraphrase",
+      "ref": "g06-w75",
+      "q": "テレビで{紹介|しょうかい}された{新商品|しんしょうひん}は、[[u:たちまち]]{売|う}り{切|き}れた。",
+      "options": [
+        "だんだん",
+        "結局",
+        "あっという間に",
+        "意外にも"
+      ],
+      "answer": 2,
+      "vi": "Sản phẩm mới được giới thiệu trên tivi bán hết trong chớp mắt.",
+      "why": "たちまち ≒ **あっという間に** (rất nhanh). 「だんだん」 = dần dần (ngược tốc độ); 「結局」 = rốt cuộc; 「意外にも」 = bất ngờ thay (sắc thái khác)."
+    },
+    {
+      "id": "g06-p6",
+      "kind": "formation",
+      "ref": "g06-w71",
+      "q": "{今年|ことし}の{八月|はちがつ}の（　　）{気温|きおん}は、{例年|れいねん}より2{度|ど}{高|たか}かった。",
+      "options": [
+        "平等",
+        "平均",
+        "普通",
+        "標準"
+      ],
+      "answer": 1,
+      "vi": "Nhiệt độ trung bình tháng 8 năm nay cao hơn mọi năm 2 độ.",
+      "why": "**平均気温** = nhiệt độ trung bình. 「平等」 = bình đẳng; 「普通気温」「標準気温」 không dùng (có 標準時, 普通列車 nhưng không ghép với 気温)."
+    },
+    {
+      "id": "g06-p7",
+      "kind": "usage",
+      "ref": "g06-w33",
+      "q": "{看病|かんびょう}",
+      "options": [
+        "医者は患者をていねいに看病して、薬を出した。",
+        "娘が熱を出したので、会社を休んで一晩中看病した。",
+        "毎朝、犬の看病のために公園を散歩している。",
+        "事故を起こさないよう、看病して運転してください。"
+      ],
+      "answer": 1,
+      "vi": "(2) Con gái bị sốt nên tôi nghỉ làm, chăm con suốt đêm.",
+      "why": "(2) người nhà chăm người ốm → **看病** đúng. (1) bác sĩ khám → 診察して; (3) chăm chó khoẻ mạnh → 世話; (4) cẩn thận → 注意して."
+    },
+    {
+      "id": "g06-p8",
+      "kind": "paraphrase",
+      "ref": "g06-w73",
+      "q": "{雨|あめ}は{降|ふ}らないと{思|おも}うが、[[u:一応]]{傘|かさ}を{持|も}って{行|い}こう。",
+      "options": [
+        "念のため",
+        "必ず",
+        "いつも",
+        "急いで"
+      ],
+      "answer": 0,
+      "vi": "Chắc không mưa đâu, nhưng cứ mang ô cho chắc.",
+      "why": "一応 = cho chắc, phòng khi ≒ **念のため**. 「必ず」 quá mạnh, mâu thuẫn với ‘chắc không mưa’; 「いつも」 nói thói quen; 「急いで」 không liên quan."
+    },
+    {
+      "id": "g06-p9",
+      "kind": "context",
+      "ref": "g06-w22",
+      "q": "{寒|さむ}さで{全身|ぜんしん}が（　　）、{歯|は}がかちかちと{鳴|な}った。",
+      "options": [
+        "しびれて",
+        "荒れて",
+        "抜けて",
+        "震えて"
+      ],
+      "answer": 3,
+      "vi": "Lạnh đến run cả người, răng va vào nhau lập cập.",
+      "why": "Lạnh + răng lập cập → **震えて** (run). 「しびれる」 = tê, không làm răng va nhau; 「荒れる」 dùng cho da / thời tiết; 「抜ける」 = rụng / mất sức."
+    },
+    {
+      "id": "g06-p10",
+      "kind": "context",
+      "ref": "g06-w44",
+      "q": "{食品|しょくひん}を{扱|あつか}う{工場|こうじょう}では、{常|つね}に（　　）な{環境|かんきょう}を{保|たも}たなければならない。",
+      "options": [
+        "衛生的",
+        "積極的",
+        "規則的",
+        "適度"
+      ],
+      "answer": 0,
+      "vi": "Nhà máy chế biến thực phẩm phải luôn giữ môi trường hợp vệ sinh.",
+      "why": "Thực phẩm → môi trường sạch → **衛生的**. 「積極的」 = tích cực (dùng cho người, thái độ); 「規則的」 = đều đặn theo quy luật; 「適度な環境」 không tự nhiên (適度 đi với 運動, 湿度…)."
+    },
+    {
+      "id": "g06-p11",
+      "kind": "write",
+      "ref": "g06-w57",
+      "q": "{冬|ふゆ}は{空気|くうき}が{乾燥|かんそう}して、[[u:はだ]]がかさかさになる。",
+      "options": [
+        "机",
+        "肌",
+        "肥",
+        "肋"
+      ],
+      "answer": 1,
+      "vi": "Mùa đông không khí khô nên da sần sùi.",
+      "why": "Da = **肌** (bộ 月 thịt + 几). 「机」 (cái bàn) cùng phần 几 nhưng bộ 木; 「肥」 (béo) và 「肋」 (xương sườn) cùng bộ 月 nhưng khác phần phải."
+    },
+    {
+      "id": "g06-p12",
+      "kind": "usage",
+      "ref": "g06-w58",
+      "q": "{荒|あ}れる",
+      "options": [
+        "熱が荒れて、夜には40度になった。",
+        "古くなったパンが荒れて、もう食べられない。",
+        "冬は水仕事が多くて、手が荒れやすい。",
+        "新しい靴が足に荒れて、歩くと痛い。"
+      ],
+      "answer": 2,
+      "vi": "(3) Mùa đông làm việc với nước nhiều nên tay dễ nứt nẻ.",
+      "why": "(3) da tay thô ráp, nứt nẻ → **荒れる** đúng. (1) sốt tăng → 熱が上がって; (2) bánh mì hỏng → かびが生えて／固くなって; (4) giày cọ chân → 靴が合わなくて／足に当たって."
+    },
+    {
+      "id": "g06-p13",
+      "kind": "paraphrase",
+      "ref": "g06-w45",
+      "q": "{試験|しけん}の{前|まえ}の{日|ひ}、[[u:徹夜した]]。",
+      "options": [
+        "夜遅く寝た",
+        "早く起きた",
+        "一晩中寝なかった",
+        "夜に出かけた"
+      ],
+      "answer": 2,
+      "vi": "Hôm trước kỳ thi, tôi đã thức trắng đêm.",
+      "why": "徹夜 = thức trắng **cả đêm** ≒ **一晩中寝なかった**. 「夜遅く寝た」 = thức khuya (夜更かし) — vẫn có ngủ, là bẫy chính; 「早く起きた」「夜に出かけた」 khác nghĩa."
+    }
+  ],
+  "test": [
+    {
+      "id": "g06-t1",
+      "kind": "read",
+      "ref": "g06-w7",
+      "q": "{雪道|ゆきみち}で{転|ころ}んで、{足|あし}を[[u:骨折]]してしまった。",
+      "options": [
+        "こつせつ",
+        "ほねおり",
+        "こっせつ",
+        "こっさつ"
+      ],
+      "answer": 2,
+      "vi": "Ngã trên đường tuyết, tôi bị gãy chân.",
+      "why": "**こっせつ**: こつ + せつ → âm つ biến thành っ. 「こつせつ」 thiếu biến âm; 「ほねおり」 là 骨折り (sự vất vả, đọc theo Kun) — nghĩa khác; 「こっさつ」 sai âm của 折."
+    },
+    {
+      "id": "g06-t2",
+      "kind": "read",
+      "ref": "g06-w55",
+      "q": "{日本人|にほんじん}の[[u:平均寿命]]は{世界|せかい}でもトップクラスだ。",
+      "options": [
+        "へいきんじゅめい",
+        "へいきんじゅみょう",
+        "へいぎんじゅみょう",
+        "へいきんすみょう"
+      ],
+      "answer": 1,
+      "vi": "Tuổi thọ trung bình của người Nhật thuộc hàng đầu thế giới.",
+      "why": "**へいきんじゅみょう**: 命 trong 寿命 đọc みょう (không phải めい như 生命). 「へいぎん」 thêm dakuten sai; 「すみょう」 sai âm của 寿."
+    },
+    {
+      "id": "g06-t3",
+      "kind": "write",
+      "ref": "g06-w43",
+      "q": "{転|ころ}んでできた{傷|きず}を、まず[[u:しょうどく]]した。",
+      "options": [
+        "消独",
+        "消読",
+        "削毒",
+        "消毒"
+      ],
+      "answer": 3,
+      "vi": "Trước hết tôi sát trùng vết thương do ngã.",
+      "why": "**消毒** (tiêu + độc). 「独」「読」 cùng âm どく nhưng nghĩa ‘một mình’, ‘đọc’; 「削」 (gọt) có hình gần giống 消 nhưng bộ 刂."
+    },
+    {
+      "id": "g06-t4",
+      "kind": "context",
+      "ref": "g06-w30",
+      "q": "{検査|けんさ}の{結果|けっか}、{医者|いしゃ}に{胃炎|いえん}だと（　　）された。",
+      "options": [
+        "診察",
+        "看病",
+        "管理",
+        "診断"
+      ],
+      "answer": 3,
+      "vi": "Kết quả xét nghiệm, bác sĩ chẩn đoán tôi bị viêm dạ dày.",
+      "why": "Bác sĩ **kết luận** tên bệnh 「〜と」 → **診断された**. 「診察」 là việc khám, không đi với 「胃炎だと」; 「看病」 là người nhà chăm sóc; 「管理」 không hợp."
+    },
+    {
+      "id": "g06-t5",
+      "kind": "context",
+      "ref": "g06-w39",
+      "q": "{山登|やまのぼ}りでは{体力|たいりょく}を{使|つか}うから、（　　）な{荷物|にもつ}はできるだけ{持|も}たないほうがいい。",
+      "options": [
+        "余分",
+        "適度",
+        "衛生的",
+        "不規則"
+      ],
+      "answer": 0,
+      "vi": "Leo núi tốn sức nên hạn chế mang đồ thừa càng tốt.",
+      "why": "Đồ không cần thiết → **余分な荷物**. 「適度な荷物」 thì nên mang, trái logic; 「衛生的」「不規則」 không hợp với 荷物."
+    },
+    {
+      "id": "g06-t6",
+      "kind": "formation",
+      "ref": "g06-w44",
+      "q": "{手洗|てあら}いやうがいを{習慣|しゅうかん}にして、{衛生|えいせい}（　　）な{生活|せいかつ}を{心|こころ}がけている。",
+      "options": [
+        "性",
+        "化",
+        "上",
+        "的"
+      ],
+      "answer": 3,
+      "vi": "Tôi tập thói quen rửa tay, súc miệng, cố gắng sống hợp vệ sinh.",
+      "why": "Cần tính từ đuôi な → **衛生的な**. 「衛生上」 có tồn tại nhưng là danh từ / phó từ (衛生上よくない), không đi với な; 「〜性」「〜化」 không ghép được với 衛生 ở đây."
+    },
+    {
+      "id": "g06-t7",
+      "kind": "paraphrase",
+      "ref": "g06-w23",
+      "q": "{今朝|けさ}の{彼|かれ}は、{顔|かお}が[[u:青白かった]]。",
+      "options": [
+        "日に焼けていた",
+        "怒っていた",
+        "顔色が悪かった",
+        "若く見えた"
+      ],
+      "answer": 2,
+      "vi": "Sáng nay mặt anh ấy xanh xao.",
+      "why": "青白い (mặt) = nhợt nhạt, trông yếu ≒ **顔色が悪い**. 「日に焼けていた」 ngược lại (sạm đen); 「怒っていた」 thì mặt đỏ (顔が赤い); 「若く見えた」 không liên quan."
+    },
+    {
+      "id": "g06-t8",
+      "kind": "usage",
+      "ref": "g06-w28",
+      "q": "{診|み}る",
+      "options": [
+        "美術館で有名な画家の絵を診た。",
+        "熱が下がらないので、近くの医者に診てもらった。",
+        "母は入院中の祖父を毎日病院で診ている。",
+        "出かける前に、天気予報を診ておこう。"
+      ],
+      "answer": 1,
+      "vi": "(2) Sốt mãi không hạ nên tôi nhờ bác sĩ gần nhà khám.",
+      "why": "(2) bác sĩ khám → **診る** đúng. (1)(4) xem tranh, xem dự báo → 見る; (3) người nhà chăm người bệnh → 看る／看病している."
+    },
+    {
+      "id": "g06-t9",
+      "kind": "context",
+      "ref": "g06-w37",
+      "q": "{美術館|びじゅつかん}を{二時間|にじかん}{歩|ある}き{回|まわ}ったので、{出口|でぐち}のベンチに（　　）{少|すこ}し{休|やす}んだ。",
+      "options": [
+        "しゃがんで",
+        "はって",
+        "立ち上がって",
+        "腰掛けて"
+      ],
+      "answer": 3,
+      "vi": "Đi khắp bảo tàng hai tiếng nên tôi ngồi xuống ghế băng ở lối ra nghỉ một chút.",
+      "why": "Ngồi lên ghế băng → **腰掛けて**. 「しゃがむ」 là ngồi xổm, không ngồi lên ghế; 「はう」 = bò; 「立ち上がって」 ngược với ‘nghỉ’."
+    },
+    {
+      "id": "g06-t10",
+      "kind": "paraphrase",
+      "ref": "g06-w76",
+      "q": "そんな{無理|むり}な{生活|せいかつ}を{続|つづ}けていたら、[[u:今に]]{体|からだ}を{壊|こわ}すよ。",
+      "options": [
+        "そのうち",
+        "今すぐ",
+        "昔から",
+        "二度と"
+      ],
+      "answer": 0,
+      "vi": "Cứ sống quá sức như vậy thì sớm muộn gì cũng đổ bệnh đấy.",
+      "why": "今に = rồi sẽ, sớm muộn ≒ **そのうち**. Bẫy 「今すぐ」 hiểu theo mặt chữ 今 (ngay bây giờ); 「昔から」 là quá khứ; 「二度と」 đi với phủ định."
+    },
+    {
+      "id": "g06-t11",
+      "kind": "context",
+      "ref": "g06-w51",
+      "q": "{花粉症|かふんしょう}で、{朝|あさ}から（　　）と{鼻水|はなみず}が{止|と}まらない。",
+      "options": [
+        "あくび",
+        "くしゃみ",
+        "しゃっくり",
+        "めまい"
+      ],
+      "answer": 1,
+      "vi": "Bị dị ứng phấn hoa, từ sáng đã hắt hơi và sổ mũi không dứt.",
+      "why": "Dị ứng phấn hoa + 鼻水 → **くしゃみ**. 「あくび」 do buồn ngủ; 「しゃっくり」 là nấc, không liên quan phấn hoa; 「めまい」 đi với 「がする」, không nói 止まらない cùng 鼻水."
+    }
+  ]
+}

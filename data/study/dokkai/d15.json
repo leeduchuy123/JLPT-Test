@@ -1,0 +1,227 @@
+{
+  "id": "d15",
+  "track": "dokkai",
+  "intro": "Bài này luyện dạng tài liệu khó \"đọc thẳng\" nhất trong phần 情報検索: **bảng biểu và danh sách (表・リスト)** — bảng so sánh giá, danh sách khoá học, tin tuyển dụng, bảng giá cước, giờ xe buýt, danh sách học bổng…\n\nĐiểm khác biệt lớn so với văn xuôi: **bạn không cần (và không nên) đọc hết bảng**. Một bảng 6 hàng × 6 cột có tới 36 ô thông tin, nhưng câu hỏi chỉ cần 3–4 ô trong đó. Việc của bạn là: biết mình cần **điều kiện gì**, điều kiện đó nằm ở **cột nào**, rồi **lọc từng hàng** cho đến khi chỉ còn một đáp án.\n\nTrong đề N2, đây là 問題14 情報検索 (tài liệu khoảng 700 字, thường 2 câu hỏi). Câu hỏi luôn có dạng: \"Người A có hoàn cảnh … , muốn … . A nên chọn cái nào / phải trả bao nhiêu / phải làm gì?\". Ba thói quen giúp bạn gần như không mất điểm:\n- **Biến câu hỏi thành danh sách điều kiện** (checklist) trước khi nhìn vào bảng.\n- **Lọc theo điều kiện \"cứng\" trước** (ngày giờ, đối tượng, có/không) để loại nhanh nhiều hàng, rồi mới so giá.\n- **Đọc kỹ chú thích ※ / 備考 / ký hiệu** bên dưới hoặc bên cạnh bảng — đề gần như luôn giấu một ngoại lệ ở đó (phụ phí, 運休, 併用不可, 対象外…).\n\nPhương án nhiễu trong dạng bài này rất \"có hệ thống\": phương án **thoả gần hết điều kiện nhưng thiếu một**, phương án **rẻ nhất trước khi cộng phí phụ**, phương án đúng nếu **nhìn nhầm cột**, và phương án đúng nếu **quên dòng ※**.",
+  "strategy": [
+    {"title": "Bước 1 · Đọc câu hỏi trước, chép ra danh sách điều kiện", "body": "Đừng mở bảng vội. Đọc câu hỏi và tách nó thành từng điều kiện nhỏ, viết ra nháp dạng ✓ list. Ví dụ câu hỏi: 「会社員のリンさんは平日は18時まで働いている。総額6,000円以内で、パソコンもカメラも持っていない。参加できる講座はどれか」 → checklist:\n- ① Thời gian: chỉ **tối ngày thường** hoặc **thứ 7, CN**.\n- ② Tiền: **tổng** (kể cả phí giáo trình, phí thuê) ≤ 6.000 yên.\n- ③ Không có máy tính, không có máy ảnh.\n\nĐể ý những chữ quyết định phạm vi: 「総額」「〜を含めて」 (phải cộng hết), 「いちばん安い」「最も遅い」 (phải so sánh, không chỉ lọc), 「すべて」「いくつ」 (có thể nhiều hơn một). Đọc lướt cả 4 phương án: nếu phương án là tên cửa hàng / khoá học thì bạn chỉ cần kiểm tra **4 hàng đó**, không cần đọc các hàng khác."},
+    {"title": "Bước 2 · Xem tiêu đề, tên cột và chú thích ký hiệu", "body": "Đọc **tiêu đề bảng** (bảng này dành cho ai, áp dụng khi nào: 「東京から発送する場合」「税込」「4月現在」), rồi đọc **hàng tiêu đề cột** (項目). Với mỗi điều kiện trong checklist, ghi bên cạnh: tra ở **cột nào**.\n- Thời gian → cột 曜日・時間 / 発車時刻\n- Tiền → cột 料金 / 価格 **cộng** cột 送料 / 備考 (phí phụ)\n- Đối tượng → cột 対象 / 応募条件\n\nNếu bảng có **ký hiệu** (★, ◎, 代・振…), tìm ngay dòng giải thích ký hiệu (凡例), thường nằm dưới bảng. Một ký hiệu nhỏ có thể làm cả một hàng bị loại."},
+    {"title": "Bước 3 · Lọc theo điều kiện \"cứng\" trước", "body": "Điều kiện cứng là điều kiện **có/không, đúng/sai rõ ràng**: thứ mấy, mấy giờ, đối tượng (学部・大学院, アジア出身), hạn chót, có hàng hay không. Lọc chúng trước vì mỗi lần lọc loại được nhiều hàng mà không phải tính toán.\n\nCách làm: đi **từng hàng**, gặp hàng nào vi phạm một điều kiện thì gạch luôn, ghi lý do ngắn (\"thứ 4 sáng ✗\", \"cần máy ảnh ✗\"). Đến khi còn 1–2 hàng mới chuyển sang so giá hoặc tính toán. Ghi lý do giúp bạn kiểm tra lại nhanh ở Bước 6.\n\nKhi bảng có **cột mô tả bằng chữ** (内容紹介・コメント・備考), điều kiện về nội dung (vd. “muốn xem tranh của hoạ sĩ trẻ người Nhật”) phải dò trong cột đó bằng **từ tương đương**: 若手 = trẻ, 現代 = đương đại, 国内 = trong nước… Còn điều kiện ngày thì đặt ngày của nhân vật vào cột 期間 (「〜まで」「〜から〜」) xem có nằm trong khoảng hay không."},
+    {"title": "Bước 4 · Tính toán cẩn thận: cộng đủ, trừ đúng", "body": "Phần lớn câu hỏi bảng biểu có một phép tính nhỏ. Những chỗ hay sai:\n- **Phí phụ**: 送料, 教材費（別途）, 貸出料「1回300円」× số buổi, オプション.\n- **Giảm giá**: 「〜円引き」「半額」「2割増し」(tăng 20%), giảm giá có điều kiện (chỉ áp dụng cho gói nào, từ cái thứ mấy).\n- **Mốc số**: 以上・以下 (**có** bao gồm mốc), 未満 (**không** bao gồm), 〜まで・以内 (bao gồm). 「90cm以上」 → 90cm tính vào nhóm trên.\n- **Đơn vị**: 「1個につき」「1回につき」「月額」 — nhân đúng số lượng; khứ hồi = 2 lần.\n- **Hai tiêu chí, lấy cái lớn hơn**: ví dụ cước theo kích thước *và* cân nặng.\n\nĐề cố tình đặt phương án nhiễu đúng bằng **kết quả của phép tính sai** (quên giảm giá, quên phí phụ, chọn nhầm cỡ), nên đừng thấy con số mình tính có trong phương án là yên tâm ngay — hãy rà lại từng khoản."},
+    {"title": "Bước 5 · Đọc kỹ ※, 備考 và phần chữ nhỏ", "body": "Dòng ※ và cột 備考 là nơi đề giấu **ngoại lệ**. Những loại ngoại lệ hay gặp:\n- Ngày áp dụng: 「★印は土・日・祝日運休」「祝日を除く」.\n- Đối tượng loại trừ: 「ミニは対象外」「アジア出身者のみ」「往復券は大人のみ」.\n- Kết hợp: 「併用可／併用不可」, 「ただし、授業料減免は除く」 (ngoại lệ của ngoại lệ!).\n- Quy tắc tính: 「大きいほうのサイズで決まります」「2枚まで1点として扱います」.\n- Thủ tục: 「必着」「郵送不可」「7日前までに申し込む」.\n\nMẹo: khi đã lọc xong và còn lại một đáp án \"quá dễ\", hãy dừng 10 giây đọc lại các dòng ※ — rất có thể có một dòng đang loại chính đáp án đó."},
+    {"title": "Bước 6 · Đối chiếu lại với toàn bộ checklist và quản lý thời gian", "body": "Trước khi chọn, đặt đáp án vào checklist ở Bước 1 và đánh dấu **từng điều kiện** một lần nữa. Bốn kiểu bẫy cần loại:\n- **Thiếu một điều kiện**: rẻ nhất, đúng giờ… nhưng cần máy ảnh / cần đi 3 ngày/tuần.\n- **Đúng trước khi cộng phí**: giá niêm yết rẻ nhất nhưng cộng 送料 / 教材費 thì đắt hơn.\n- **Nhầm cột / nhầm hàng**: lấy giờ đến 第1ターミナル thay vì 第2ターミナル, lấy giá vùng 関東 thay vì 関西.\n- **Quên chú thích**: chuyến ★ không chạy Chủ nhật, gói không được giảm giá gia đình.\n\nThời gian: một tài liệu 情報検索 với 2 câu hỏi nên xong trong khoảng **7–8 phút**. Vì bạn chỉ đọc những ô cần thiết nên tốc độ đến từ việc **lập checklist nhanh**, không phải từ việc đọc nhanh cả bảng."}
+  ],
+  "signals": [
+    {"ja": "〜{以上|いじょう}／〜{以下|いか}", "vi": "từ … trở lên / từ … trở xuống (có bao gồm mốc)", "note": "「65{歳|さい}{以上|いじょう}」 → người đúng 65 tuổi cũng được. 「GPA3.0{以上|いじょう}」 → 3.0 đạt, 2.9 không đạt."},
+    {"ja": "〜{未満|みまん}", "vi": "dưới … (không bao gồm mốc)", "note": "「{高|たか}さ90cm{未満|みまん}」 → 90cm **không** thuộc nhóm này. Cặp hay đi với nhau: 「90cm{未満|みまん}／90cm{以上|いじょう}」."},
+    {"ja": "〜{以内|いない}／〜まで", "vi": "trong vòng …, tối đa … (bao gồm mốc)", "note": "「{総額|そうがく}6,000{円|えん}{以内|いない}」「60cmまで／2kgまで」."},
+    {"ja": "{税込|ぜいこみ}／{税抜|ぜいぬき}（{税別|ぜいべつ}）", "vi": "đã gồm thuế / chưa gồm thuế", "note": "Khi hai cửa hàng ghi khác kiểu, phải quy về cùng một kiểu rồi mới so."},
+    {"ja": "{別途|べっと}／〜{込|こ}み", "vi": "tính riêng, trả thêm / đã bao gồm", "note": "「{教材費|きょうざいひ}1,500{円|えん}（{別途|べっと}）」 → phải cộng thêm. 「{材料費|ざいりょうひ}{込|こ}み」 → không cộng nữa."},
+    {"ja": "〜につき", "vi": "mỗi …, tính theo mỗi …", "note": "「1{回|かい}につき300{円|えん}」 × số buổi; 「1{個|こ}につき100{円|えん}{引|び}き」 × số kiện."},
+    {"ja": "〜{引|び}き／{割引|わりびき}／{半額|はんがく}／〜{割増|わりま}し", "vi": "giảm … / giảm giá / nửa giá / tăng thêm …", "note": "「2{割|わり}{増|ま}し」 = tăng 20%. 「500{円|えん}{引|び}き」 = trừ 500 yên."},
+    {"ja": "{在庫|ざいこ}あり／{取|と}り{寄|よ}せ／{納期|のうき}／{即納|そくのう}／{当日発送可|とうじつはっそうか}", "vi": "còn hàng / phải đặt về / thời hạn giao / giao ngay / gửi đi trong ngày", "note": "Dùng khi câu hỏi có điều kiện \"muốn nhận ngay\". 「お{問|と}い{合|あ}わせ」 ở cột tồn kho = chưa chắc có hàng."},
+    {"ja": "{送料無料|そうりょうむりょう}／{送料別|そうりょうべつ}", "vi": "miễn phí vận chuyển / phí vận chuyển tính riêng", "note": "So giá phải là **giá + phí gửi**, không chỉ giá niêm yết."},
+    {"ja": "{必着|ひっちゃく}／{消印有効|けしいんゆうこう}", "vi": "phải đến nơi trước hạn / tính theo dấu bưu điện", "note": "「3月10日{必着|ひっちゃく}」 → giấy phải **tới** trước ngày 10, gửi ngày 10 là trễ."},
+    {"ja": "{対象|たいしょう}／{対象外|たいしょうがい}／〜を{除|のぞ}く／〜のみ", "vi": "đối tượng áp dụng / không áp dụng / ngoại trừ … / chỉ …", "note": "「ミニは{対象外|たいしょうがい}」「{祝日|しゅくじつ}を{除|のぞ}く」「{大人|おとな}のみ」 — điều kiện loại trừ hay nằm ở ※."},
+    {"ja": "{併用可|へいようか}／{併用不可|へいようふか}", "vi": "được dùng kết hợp / không được kết hợp", "note": "Hay gặp với giảm giá và học bổng. Kiểm tra cả câu 「ただし〜は{除|のぞ}く」 đi kèm."},
+    {"ja": "{運休|うんきゅう}／{休館日|きゅうかんび}／{祝日|しゅくじつ}", "vi": "ngừng chạy / ngày đóng cửa / ngày lễ", "note": "「★{印|じるし}の{便|びん}は{土|ど}・{日|にち}・{祝日|しゅくじつ}{運休|うんきゅう}」 — luôn đối chiếu với **thứ trong tuần** của người hỏi."},
+    {"ja": "{持参|じさん}／{貸出|かしだし}あり／{不可|ふか}", "vi": "tự mang theo / có cho mượn (thuê) / không được", "note": "「カメラ{持参|じさん}（スマートフォン{不可|ふか}）」 → không có máy ảnh thì loại."},
+    {"ja": "※／{備考|びこう}／{注|ちゅう}", "vi": "chú thích / ghi chú / lưu ý", "note": "Nơi đặt ngoại lệ. Luôn đọc trước khi chốt đáp án."}
+  ],
+  "passages": {
+    "p1": {
+      "title": "市民センター 春の講座一覧",
+      "kind": "情報検索(表)",
+      "ja": "【みどり{市民|しみん}センター　{春|はる}の{講座|こうざ}{一覧|いちらん}（4月〜6月）】\n\n{講座名|こうざめい}｜{曜日|ようび}・{時間|じかん}｜{回数|かいすう}｜{受講料|じゅこうりょう}｜{定員|ていいん}｜{備考|びこう}\nはじめての{中国語|ちゅうごくご}｜{火|か} 19:00〜20:30｜{全|ぜん}8回｜6,000円｜20名｜{教材費|きょうざいひ}1,500円（{別途|べっと}）\n{写真|しゃしん}{教室|きょうしつ}（{初級|しょきゅう}）｜{土|ど} 10:00〜12:00｜{全|ぜん}6回｜4,800円｜15名｜カメラ{持参|じさん}（スマートフォン{不可|ふか}）\nやさしいヨガ｜{水|すい} 10:00〜11:00｜{全|ぜん}10回｜5,000円｜25名｜65{歳|さい}{以上|いじょう}の{方|かた}は{半額|はんがく}\n{家庭|かてい}{料理|りょうり}{入門|にゅうもん}｜{日|にち} 13:00〜15:30｜{全|ぜん}5回｜7,500円（{材料費|ざいりょうひ}{込|こ}み）｜12名｜エプロン{持参|じさん}\n{文章|ぶんしょう}の{書|か}き{方|かた}｜{木|もく} 19:00〜20:30｜{全|ぜん}6回｜3,600円｜30名｜オンライン{受講|じゅこう}も{可|か}\nパソコン{基礎|きそ}｜{土|ど} 14:00〜16:00｜{全|ぜん}8回｜8,000円｜10名｜パソコン{貸出|かしだし}あり（1回300円）\n\n※お{申|もう}し{込|こ}みは3月10日（{必着|ひっちゃく}）まで。{定員|ていいん}を{超|こ}えた{場合|ばあい}は{抽選|ちゅうせん}となります。\n※{市外|しがい}にお{住|す}まいの{方|かた}は、{受講料|じゅこうりょう}が2{割|わり}{増|ま}しになります。\n※{受講料|じゅこうりょう}は{初回|しょかい}にまとめてお{支払|しはら}いください。",
+      "vi": "[Danh sách các khoá học mùa xuân của Trung tâm Thị dân Midori (tháng 4 – tháng 6)]\n\nTên khoá học ｜ Thứ・giờ ｜ Số buổi ｜ Học phí ｜ Số chỗ ｜ Ghi chú\nTiếng Trung cho người mới bắt đầu ｜ Thứ 3, 19:00–20:30 ｜ 8 buổi ｜ 6.000 yên ｜ 20 người ｜ Phí giáo trình 1.500 yên (tính riêng)\nLớp nhiếp ảnh (sơ cấp) ｜ Thứ 7, 10:00–12:00 ｜ 6 buổi ｜ 4.800 yên ｜ 15 người ｜ Tự mang máy ảnh (không dùng điện thoại thông minh)\nYoga nhẹ nhàng ｜ Thứ 4, 10:00–11:00 ｜ 10 buổi ｜ 5.000 yên ｜ 25 người ｜ Người từ 65 tuổi trở lên được giảm nửa giá\nNhập môn nấu ăn gia đình ｜ Chủ nhật, 13:00–15:30 ｜ 5 buổi ｜ 7.500 yên (đã gồm tiền nguyên liệu) ｜ 12 người ｜ Tự mang tạp dề\nCách viết văn ｜ Thứ 5, 19:00–20:30 ｜ 6 buổi ｜ 3.600 yên ｜ 30 người ｜ Có thể học trực tuyến\nTin học cơ bản ｜ Thứ 7, 14:00–16:00 ｜ 8 buổi ｜ 8.000 yên ｜ 10 người ｜ Có cho thuê máy tính (300 yên/buổi)\n\n※ Hạn đăng ký: ngày 10/3 (đơn phải đến nơi trước hạn). Nếu vượt số chỗ sẽ bốc thăm.\n※ Người sống ngoài thành phố: học phí tăng thêm 20%.\n※ Học phí trả gộp một lần vào buổi đầu tiên."
+    },
+    "p2": {
+      "title": "宅配便料金表",
+      "kind": "情報検索(表)",
+      "ja": "【さくら{運輸|うんゆ}　{宅配便|たくはいびん}{料金表|りょうきんひょう}（{東京|とうきょう}から{発送|はっそう}する{場合|ばあい}・{税込|ぜいこみ}）】\n\nサイズ（3{辺|へん}の{合計|ごうけい}／{重|おも}さ）｜{関東|かんとう}｜{東北|とうほく}・{中部|ちゅうぶ}｜{関西|かんさい}｜{九州|きゅうしゅう}\n60サイズ（60cmまで／2kgまで）｜900円｜1,000円｜1,100円｜1,400円\n80サイズ（80cmまで／5kgまで）｜1,200円｜1,300円｜1,400円｜1,700円\n100サイズ（100cmまで／10kgまで）｜1,500円｜1,600円｜1,700円｜2,000円\n120サイズ（120cmまで／15kgまで）｜1,800円｜1,900円｜2,000円｜2,300円\n\n※サイズは、「3{辺|へん}の{合計|ごうけい}」と「{重|おも}さ」のうち、{大|おお}きいほうのサイズで{決|き}まります。\n\n【{割引|わりびき}・{追加|ついか}{料金|りょうきん}】\n・{営業所|えいぎょうしょ}への{持|も}ち{込|こ}み：1{個|こ}につき100円{引|び}き\n・{同|おな}じあて{先|さき}に2{個|こ}{以上|いじょう}：2{個目|こめ}から1{個|こ}につき100円{引|び}き（{持|も}ち{込|こ}み{割引|わりびき}との{併用|へいよう}{可|か}）\n・クール{便|びん}：60・80サイズは＋300円、100・120サイズは＋500円\n・{配達|はいたつ}{時間帯|じかんたい}の{指定|してい}：{無料|むりょう}（{午前中|ごぜんちゅう}／14〜16時／16〜18時／18〜20時／19〜21時）",
+      "vi": "[Bảng cước chuyển phát tận nhà của Sakura Unyu (khi gửi từ Tokyo, đã gồm thuế)]\n\nCỡ (tổng 3 cạnh / cân nặng) ｜ Kanto ｜ Tohoku・Chubu ｜ Kansai ｜ Kyushu\nCỡ 60 (đến 60cm / đến 2kg) ｜ 900 ｜ 1.000 ｜ 1.100 ｜ 1.400 yên\nCỡ 80 (đến 80cm / đến 5kg) ｜ 1.200 ｜ 1.300 ｜ 1.400 ｜ 1.700 yên\nCỡ 100 (đến 100cm / đến 10kg) ｜ 1.500 ｜ 1.600 ｜ 1.700 ｜ 2.000 yên\nCỡ 120 (đến 120cm / đến 15kg) ｜ 1.800 ｜ 1.900 ｜ 2.000 ｜ 2.300 yên\n\n※ Cỡ được xác định theo cỡ **lớn hơn** trong hai tiêu chí \"tổng 3 cạnh\" và \"cân nặng\".\n\n[Giảm giá・phụ phí]\n・Tự mang đến văn phòng giao dịch: giảm 100 yên mỗi kiện\n・Gửi từ 2 kiện trở lên đến cùng một địa chỉ: từ kiện thứ 2, giảm 100 yên mỗi kiện (được dùng cùng với giảm giá tự mang đến)\n・Hàng lạnh: cỡ 60・80 thêm 300 yên, cỡ 100・120 thêm 500 yên\n・Chỉ định khung giờ giao: miễn phí (buổi sáng / 14–16h / 16–18h / 18–20h / 19–21h)"
+    },
+    "p3": {
+      "title": "アルバイト求人情報",
+      "kind": "情報検索(リスト)",
+      "ja": "【{求人|きゅうじん}{情報|じょうほう}　さくら{駅|えき}{周辺|しゅうへん}のアルバイト（4月{現在|げんざい}）】\n\n① カフェ「ひだまり」　ホールスタッフ\n　・{時給|じきゅう}：1,150円\n　・{時間|じかん}：10:00〜20:00（1日4時間〜）／{週|しゅう}3日{以上|いじょう}\n　・{未経験|みけいけん}{歓迎|かんげい}／{交通費|こうつうひ}：1日500円まで{支給|しきゅう}\n\n② {書店|しょてん}「{本|ほん}の{森|もり}」　レジ・{品出|しなだ}し\n　・{時給|じきゅう}：1,100円\n　・{時間|じかん}：9:00〜18:00（1日5時間〜）／{週|しゅう}3日{以上|いじょう}（{土日|どにち}に{入|はい}れる{方|かた}{歓迎|かんげい}）\n　・{交通費|こうつうひ}：{全額|ぜんがく}{支給|しきゅう}\n\n③ {個別|こべつ}{指導|しどう}{塾|じゅく}「アップ」　{受付|うけつけ}・{事務|じむ}\n　・{時給|じきゅう}：1,200円\n　・{時間|じかん}：{月|げつ}〜{金|きん} 16:00〜21:00（1日3時間〜）／{週|しゅう}2日〜\n　・パソコンの{基本|きほん}{操作|そうさ}ができる{方|かた}／{交通費|こうつうひ}：{全額|ぜんがく}{支給|しきゅう}\n\n④ ホテル「グランさくら」　{朝食|ちょうしょく}{会場|かいじょう}スタッフ\n　・{時給|じきゅう}：1,250円\n　・{時間|じかん}：6:00〜10:00／{週|しゅう}2日〜（{土日|どにち}のみも{可|か}）\n　・{未経験|みけいけん}{可|か}／まかない（{朝食|ちょうしょく}）あり／{交通費|こうつうひ}：{全額|ぜんがく}{支給|しきゅう}\n\n⑤ {引|ひ}っ{越|こ}し{作業|さぎょう}スタッフ\n　・{日給|にっきゅう}：10,000円（8:00〜17:00、{休憩|きゅうけい}1時間）／1日だけでも{可|か}\n　・{体力|たいりょく}に{自信|じしん}のある{方|かた}／{交通費|こうつうひ}：{支給|しきゅう}なし\n\n※{留学生|りゅうがくせい}の{方|かた}は{資格外|しかくがい}{活動|かつどう}{許可|きょか}が{必要|ひつよう}です。{働|はたら}ける{時間|じかん}は{週|しゅう}28時間までです。",
+      "vi": "[Thông tin tuyển dụng — việc làm thêm quanh ga Sakura (tính đến tháng 4)]\n\n① Quán cà phê \"Hidamari\" — nhân viên phục vụ\n・Lương giờ: 1.150 yên\n・Thời gian: 10:00–20:00 (mỗi ngày từ 4 tiếng) / từ 3 ngày/tuần trở lên\n・Chào đón người chưa có kinh nghiệm / Trợ cấp đi lại: tối đa 500 yên/ngày\n\n② Hiệu sách \"Hon no Mori\" — thu ngân・xếp hàng lên kệ\n・Lương giờ: 1.100 yên\n・Thời gian: 9:00–18:00 (mỗi ngày từ 5 tiếng) / từ 3 ngày/tuần trở lên (ưu tiên người làm được thứ 7, CN)\n・Trợ cấp đi lại: chi trả toàn bộ\n\n③ Trung tâm dạy kèm \"Up\" — lễ tân・văn phòng\n・Lương giờ: 1.200 yên\n・Thời gian: thứ 2 – thứ 6, 16:00–21:00 (mỗi ngày từ 3 tiếng) / từ 2 ngày/tuần\n・Người dùng được thao tác máy tính cơ bản / Trợ cấp đi lại: chi trả toàn bộ\n\n④ Khách sạn \"Gran Sakura\" — nhân viên khu ăn sáng\n・Lương giờ: 1.250 yên\n・Thời gian: 6:00–10:00 / từ 2 ngày/tuần (chỉ thứ 7, CN cũng được)\n・Chưa có kinh nghiệm cũng được / có bữa ăn (bữa sáng) / Trợ cấp đi lại: chi trả toàn bộ\n\n⑤ Nhân viên chuyển nhà\n・Lương ngày: 10.000 yên (8:00–17:00, nghỉ 1 tiếng) / làm 1 ngày cũng được\n・Người tự tin về thể lực / Trợ cấp đi lại: không có\n\n※ Du học sinh cần có giấy phép hoạt động ngoài tư cách lưu trú. Thời gian được phép làm tối đa 28 tiếng/tuần."
+    },
+    "p4": {
+      "title": "スマートフォン料金プラン",
+      "kind": "情報検索(表)",
+      "ja": "【スマートフォン{料金|りょうきん}プラン（{月額|げつがく}・{税込|ぜいこみ}）】\n\nプラン{名|めい}｜データ{容量|ようりょう}｜{月額|げつがく}{料金|りょうきん}｜{通話|つうわ}\nミニ｜3GBまで｜1,500円｜30{秒|びょう}20円\nベーシック｜20GBまで｜2,800円｜30{秒|びょう}20円\nラージ｜50GBまで｜4,200円｜5{分|ふん}{以内|いない}の{通話|つうわ}は{無料|むりょう}\nアンリミテッド｜{無制限|むせいげん}｜6,000円｜かけ{放題|ほうだい}（{時間|じかん}{制限|せいげん}なし）\n\n【オプション（{月額|げつがく}）】\n・5{分|ふん}かけ{放題|ほうだい}：500円（ミニ・ベーシックのみ）\n・{完全|かんぜん}かけ{放題|ほうだい}：1,500円（ミニ・ベーシック・ラージ）\n\n【{割引|わりびき}】\n・{家族|かぞく}{割|わり}：{家族|かぞく}で2{回線|かいせん}{以上|いじょう}{契約|けいやく}すると、ミニ{以外|いがい}の{回線|かいせん}は1{回線|かいせん}につき{月|つき}500円{引|び}き\n・{学割|がくわり}：25{歳|さい}{以下|いか}の{方|かた}は、{月|つき}1,000円{引|び}き（ラージ・アンリミテッドのみ）\n\n※データ{容量|ようりょう}を{超|こ}えた{場合|ばあい}、その{月|つき}の{終|お}わりまで{通信|つうしん}{速度|そくど}が{遅|おそ}くなります。",
+      "vi": "[Các gói cước điện thoại thông minh (theo tháng, đã gồm thuế)]\n\nTên gói ｜ Dung lượng dữ liệu ｜ Phí hằng tháng ｜ Gọi điện\nMini ｜ đến 3GB ｜ 1.500 yên ｜ 20 yên/30 giây\nBasic ｜ đến 20GB ｜ 2.800 yên ｜ 20 yên/30 giây\nLarge ｜ đến 50GB ｜ 4.200 yên ｜ Miễn phí các cuộc gọi trong vòng 5 phút\nUnlimited ｜ không giới hạn ｜ 6.000 yên ｜ Gọi thoải mái (không giới hạn thời gian)\n\n[Tuỳ chọn (theo tháng)]\n・Gọi thoải mái 5 phút: 500 yên (chỉ gói Mini・Basic)\n・Gọi thoải mái hoàn toàn: 1.500 yên (gói Mini・Basic・Large)\n\n[Giảm giá]\n・Giảm giá gia đình: khi gia đình ký từ 2 thuê bao trở lên, mỗi thuê bao **không phải gói Mini** được giảm 500 yên/tháng\n・Giảm giá học sinh: người từ 25 tuổi trở xuống được giảm 1.000 yên/tháng (chỉ gói Large・Unlimited)\n\n※ Nếu vượt quá dung lượng dữ liệu, tốc độ mạng sẽ bị chậm lại cho đến hết tháng đó."
+    },
+    "p5": {
+      "title": "空港リムジンバス時刻表",
+      "kind": "情報検索(表)",
+      "ja": "【{中央駅|ちゅうおうえき} → {北空港|きたくうこう}　リムジンバス{時刻表|じこくひょう}】（{所要|しょよう}{時間|じかん}：{約|やく}60{分|ぷん}）\n\n{中央駅|ちゅうおうえき}{発|はつ}｜ホテル{前|まえ}{発|はつ}｜{第|だい}1ターミナル{着|ちゃく}｜{第|だい}2ターミナル{着|ちゃく}\n06:10｜06:20｜07:10｜07:20\n06:40★｜06:50｜07:40｜07:50\n07:15｜—｜08:05｜08:15\n07:50｜08:00｜08:55｜09:05\n08:30★｜08:40｜09:35｜09:45\n09:20｜09:30｜10:25｜10:35\n\n★{印|じるし}の{便|びん}は、{土|ど}・{日|にち}・{祝日|しゅくじつ}は{運休|うんきゅう}します。\n「—」の{便|びん}は、その{停留所|ていりゅうじょ}には{止|と}まりません。\n※{国内線|こくないせん}は{第|だい}1ターミナル、{国際線|こくさいせん}は{第|だい}2ターミナルです。\n※{道路|どうろ}の{状況|じょうきょう}により、{到着|とうちゃく}が{遅|おく}れることがあります。\n\n【{運賃|うんちん}】\n・{片道|かたみち}：{大人|おとな}1,300円／{子|こ}ども（{小学生|しょうがくせい}）650円\n・{往復券|おうふくけん}：2,400円（{大人|おとな}のみ。{購入日|こうにゅうび}から1か月{有効|ゆうこう}）\n※{小学生|しょうがくせい}{未満|みまん}のお{子|こ}さまは、{大人|おとな}1{名|めい}につき1{名|めい}まで{無料|むりょう}です。",
+      "vi": "[Giờ chạy xe buýt limousine Ga Trung tâm → Sân bay Bắc] (thời gian di chuyển: khoảng 60 phút)\n\nXuất phát Ga Trung tâm ｜ Xuất phát trước Khách sạn ｜ Đến Nhà ga số 1 ｜ Đến Nhà ga số 2\n06:10 ｜ 06:20 ｜ 07:10 ｜ 07:20\n06:40★ ｜ 06:50 ｜ 07:40 ｜ 07:50\n07:15 ｜ — ｜ 08:05 ｜ 08:15\n07:50 ｜ 08:00 ｜ 08:55 ｜ 09:05\n08:30★ ｜ 08:40 ｜ 09:35 ｜ 09:45\n09:20 ｜ 09:30 ｜ 10:25 ｜ 10:35\n\nCác chuyến có dấu ★ ngừng chạy vào thứ 7, Chủ nhật và ngày lễ.\nChuyến có dấu \"—\" không dừng ở trạm đó.\n※ Chuyến bay nội địa ở Nhà ga số 1, chuyến bay quốc tế ở Nhà ga số 2.\n※ Tuỳ tình hình đường sá, xe có thể đến muộn.\n\n[Giá vé]\n・Một chiều: người lớn 1.300 yên / trẻ em (học sinh tiểu học) 650 yên\n・Vé khứ hồi: 2.400 yên (chỉ dành cho người lớn; có hiệu lực 1 tháng kể từ ngày mua)\n※ Trẻ chưa đến tuổi tiểu học được miễn phí, mỗi người lớn đi kèm tối đa 1 trẻ."
+    },
+    "p6": {
+      "title": "留学生向け奨学金一覧",
+      "kind": "情報検索(表)",
+      "ja": "【さくら{大学|だいがく}　{留学生|りゅうがくせい}{向|む}け{奨学金|しょうがくきん}{一覧|いちらん}（{国際|こくさい}センター）】\n\n{名称|めいしょう}｜{対象|たいしょう}｜{金額|きんがく}｜{応募|おうぼ}{条件|じょうけん}｜{締切|しめきり}｜{併用|へいよう}\nA {山川|やまかわ}{国際|こくさい}{交流|こうりゅう}{財団|ざいだん}{奨学金|しょうがくきん}｜{学部|がくぶ}2〜4年｜{月額|げつがく}50,000円（1年{間|かん}）｜{前年度|ぜんねんど}GPA3.0{以上|いじょう}・{面接|めんせつ}あり｜4月20日｜{不可|ふか}\nB さくら{大学|だいがく}{留学生|りゅうがくせい}{支援金|しえんきん}｜{学部|がくぶ}・{大学院|だいがくいん}の{全|ぜん}{学年|がくねん}｜{一括|いっかつ}100,000円（1回）｜{家計|かけい}の{状況|じょうきょう}により{選考|せんこう}（{収入|しゅうにゅう}{証明書|しょうめいしょ}が{必要|ひつよう}）｜5月10日｜{可|か}\nC {東和|とうわ}{銀行|ぎんこう}{奨学金|しょうがくきん}｜{大学院生|だいがくいんせい}｜{月額|げつがく}80,000円（2年{間|かん}）｜{研究|けんきゅう}{計画書|けいかくしょ}・{指導|しどう}{教員|きょういん}の{推薦書|すいせんしょ}｜4月15日｜{不可|ふか}\nD {未来|みらい}アジア{奨学金|しょうがくきん}｜{学部|がくぶ}1〜3年のアジア{出身者|しゅっしんしゃ}｜{月額|げつがく}30,000円（1年{間|かん}）｜{日本語|にほんご}の{作文|さくぶん}（2,000{字|じ}）｜5月31日｜{可|か}\nE {授業料|じゅぎょうりょう}{減免|げんめん}｜{全|ぜん}{学年|がくねん}｜{授業料|じゅぎょうりょう}の30％または50％を{免除|めんじょ}（{前期|ぜんき}のみ。{後期|こうき}は{再|さい}{申請|しんせい}）｜GPA2.5{以上|いじょう}｜4月30日｜{可|か}\n\n※「{併用|へいよう}{不可|ふか}」の{奨学金|しょうがくきん}を{受|う}ける{場合|ばあい}、ほかの{奨学金|しょうがくきん}を{同時|どうじ}に{受|う}けることはできません。ただし、E（{授業料|じゅぎょうりょう}{減免|げんめん}）は{除|のぞ}きます。\n※GPAは4.0{満点|まんてん}です。1年{生|せい}は{入学|にゅうがく}{試験|しけん}の{成績|せいせき}で{判断|はんだん}します。\n※{応募|おうぼ}{書類|しょるい}は{締切|しめきり}{日|び}の17時までに{国際|こくさい}センター{窓口|まどぐち}へ{提出|ていしゅつ}してください（{郵送|ゆうそう}{不可|ふか}）。",
+      "vi": "[Danh sách học bổng dành cho du học sinh — Đại học Sakura (Trung tâm Quốc tế)]\n\nTên ｜ Đối tượng ｜ Số tiền ｜ Điều kiện ứng tuyển ｜ Hạn chót ｜ Kết hợp\nA. Học bổng Quỹ Giao lưu Quốc tế Yamakawa ｜ Đại học năm 2–4 ｜ 50.000 yên/tháng (1 năm) ｜ GPA năm trước từ 3.0 trở lên, có phỏng vấn ｜ 20/4 ｜ Không được\nB. Tiền hỗ trợ du học sinh ĐH Sakura ｜ Mọi năm, cả đại học và cao học ｜ 100.000 yên trả một lần ｜ Xét theo hoàn cảnh kinh tế gia đình (cần giấy chứng nhận thu nhập) ｜ 10/5 ｜ Được\nC. Học bổng Ngân hàng Towa ｜ Học viên cao học ｜ 80.000 yên/tháng (2 năm) ｜ Kế hoạch nghiên cứu, thư giới thiệu của giáo viên hướng dẫn ｜ 15/4 ｜ Không được\nD. Học bổng Mirai Asia ｜ Đại học năm 1–3, người xuất thân châu Á ｜ 30.000 yên/tháng (1 năm) ｜ Bài luận tiếng Nhật (2.000 chữ) ｜ 31/5 ｜ Được\nE. Miễn giảm học phí ｜ Mọi năm ｜ Miễn 30% hoặc 50% học phí (chỉ học kỳ trước; học kỳ sau phải đăng ký lại) ｜ GPA từ 2.5 trở lên ｜ 30/4 ｜ Được\n\n※ Nếu nhận học bổng \"không được kết hợp\", bạn không thể đồng thời nhận học bổng khác. Tuy nhiên, E (miễn giảm học phí) là ngoại lệ.\n※ GPA thang điểm 4.0. Sinh viên năm 1 được xét theo kết quả thi đầu vào.\n※ Hồ sơ nộp trực tiếp tại quầy Trung tâm Quốc tế trước 17 giờ ngày hạn chót (không nhận qua bưu điện)."
+    },
+    "p7": {
+      "title": "粗大ごみの出し方",
+      "kind": "情報検索(表・リスト)",
+      "ja": "【みどり{市|し}　{粗大|そだい}ごみ{処理|しょり}{手数料|てすうりょう}（1{点|てん}あたり）】\n\n{品目|ひんもく}｜{手数料|てすうりょう}\nいす（1{人用|にんよう}）｜400円\nソファー（2{人用|にんよう}{以上|いじょう}）｜1,200円\n{自転車|じてんしゃ}｜600円（{子|こ}ども{用|よう}16インチ{以下|いか}は300円）\n{布団|ふとん}（1{枚|まい}）｜400円\n{本棚|ほんだな}（{高|たか}さ90cm{未満|みまん}）｜400円\n{本棚|ほんだな}（{高|たか}さ90cm{以上|いじょう}）｜800円\n{電子|でんし}レンジ｜600円\nテレビ・{冷蔵庫|れいぞうこ}・{洗濯機|せんたくき}・エアコン｜{市|し}では{収集|しゅうしゅう}できません（{家電|かでん}リサイクル{法|ほう}の{対象|たいしょう}です。{購入|こうにゅう}したお{店|みせ}などにご{相談|そうだん}ください）\n\n【{出|だ}し{方|かた}】\n1. {収集日|しゅうしゅうび}の7日{前|まえ}までに、{粗大|そだい}ごみ{受付|うけつけ}センターに{電話|でんわ}またはインターネットで{申|もう}し{込|こ}む。\n2. コンビニやスーパーで「{粗大|そだい}ごみ{処理券|しょりけん}」（200円{券|けん}・400円{券|けん}）を{手数料|てすうりょう}の{金額|きんがく}{分|ぶん}{買|か}う。\n3. {処理券|しょりけん}に{受付|うけつけ}{番号|ばんごう}を{書|か}いて{品物|しなもの}に{貼|は}り、{収集日|しゅうしゅうび}の{朝|あさ}8時30分までに{指定|してい}された{場所|ばしょ}に{出|だ}す。\n\n※ひもでしばって1つにまとめた{布団|ふとん}は、2{枚|まい}まで1{点|てん}として{扱|あつか}います。",
+      "vi": "[Thành phố Midori — Phí xử lý rác cồng kềnh (tính theo mỗi món)]\n\nLoại đồ ｜ Phí\nGhế (1 người ngồi) ｜ 400 yên\nSofa (từ 2 người ngồi trở lên) ｜ 1.200 yên\nXe đạp ｜ 600 yên (xe trẻ em từ 16 inch trở xuống: 300 yên)\nChăn đệm (1 chiếc) ｜ 400 yên\nGiá sách (cao dưới 90cm) ｜ 400 yên\nGiá sách (cao từ 90cm trở lên) ｜ 800 yên\nLò vi sóng ｜ 600 yên\nTivi・tủ lạnh・máy giặt・điều hoà ｜ Thành phố không thu gom (thuộc Luật tái chế đồ điện gia dụng; hãy hỏi cửa hàng nơi đã mua…)\n\n[Cách bỏ rác]\n1. Chậm nhất 7 ngày trước ngày thu gom, đăng ký với Trung tâm tiếp nhận rác cồng kềnh qua điện thoại hoặc internet.\n2. Mua \"phiếu xử lý rác cồng kềnh\" (loại 200 yên và 400 yên) ở cửa hàng tiện lợi hoặc siêu thị, đủ số tiền phí.\n3. Ghi số tiếp nhận lên phiếu, dán vào đồ, rồi đặt ra nơi quy định trước 8 giờ 30 sáng ngày thu gom.\n\n※ Chăn đệm buộc dây gộp thành một bó: tối đa 2 chiếc được tính là 1 món."
+    }
+  },
+  "worked": [
+    {"id": "d15-w1", "kind": "passage", "pass": "p1",
+     "q": "{会社員|かいしゃいん}のリンさん（みどり{市|し}{在住|ざいじゅう}）は、{平日|へいじつ}は18{時|じ}まで{働|はたら}いているので、{平日|へいじつ}の{夜|よる}か{土日|どにち}しか{参加|さんか}できない。{受講料|じゅこうりょう}だけでなく、{教材費|きょうざいひ}などを{含|ふく}めた{総額|そうがく}を6,000{円|えん}{以内|いない}にしたい。パソコンもカメラも{持|も}っていない。リンさんが{申|もう}し{込|こ}める{講座|こうざ}はどれか。",
+     "options": [
+       "はじめての{中国語|ちゅうごくご}",
+       "{写真|しゃしん}{教室|きょうしつ}（{初級|しょきゅう}）",
+       "{家庭|かてい}{料理|りょうり}{入門|にゅうもん}",
+       "{文章|ぶんしょう}の{書|か}き{方|かた}"
+     ],
+     "answer": 3,
+     "vi": "Anh Lin (sống ở thành phố Midori) làm việc đến 18 giờ các ngày thường nên chỉ tham gia được tối ngày thường hoặc thứ 7, CN. Muốn tổng chi phí (cả phí giáo trình…) trong vòng 6.000 yên. Không có máy tính lẫn máy ảnh. Khoá nào anh Lin đăng ký được? → (4) Cách viết văn.",
+     "why": "Chỉ có 「{文章|ぶんしょう}の{書|か}き{方|かた}｜{木|もく} 19:00〜20:30｜3,600円」 thoả cả ba điều kiện: tối thứ 5 sau giờ làm, 3.600 yên ≤ 6.000 yên, không cần mang đồ gì.\n- (1) Tối thứ 3 thì được, nhưng 6.000 + 教材費 1.500 (別途) = **7.500 yên** → vượt 「総額6,000円以内」. Bẫy \"đúng trước khi cộng phí phụ\": nhìn cột 受講料 thấy đúng 6.000 tưởng đạt.\n- (2) Thứ 7, 4.800 yên đều đạt, nhưng 備考 ghi 「カメラ持参（スマートフォン不可）」 mà anh Lin không có máy ảnh → bẫy \"thiếu một điều kiện\".\n- (3) Chủ nhật thì được, nhưng 7.500 yên → vượt ngân sách.\n- (4) **Đúng**.\n(Ngoài ra: ヨガ là sáng thứ 4 → sai giờ; パソコン基礎 8.000 + 300 × 8 = 10.400 yên → quá đắt. Dòng ※ 「市外…2割増し」 không áp dụng vì anh sống trong thành phố.)",
+     "walkthrough": "**① Lập checklist từ câu hỏi** (chưa nhìn bảng):\n- Giờ: tối ngày thường (sau ~18h30) hoặc thứ 7, CN.\n- Tiền: 「教材費などを含めた**総額**」 ≤ 6.000 yên → phải cộng cột 備考.\n- Đồ dùng: **không** có máy tính, máy ảnh.\n- Thêm: 「みどり市在住」 → nhớ để đối chiếu với dòng ※ về người ngoài thành phố.\n\n**② Gắn điều kiện với cột**: giờ → cột 曜日・時間; tiền → cột 受講料 **+** 備考; đồ dùng → 備考. Cột 定員 và 回数 không liên quan (trừ khi phải nhân 「1回300円」).\n\n**③ Lọc điều kiện cứng (giờ) trước**:\n- 中国語 火19:00 ✓ / 写真 土 ✓ / ヨガ 水10:00 ✗ / 料理 日 ✓ / 文章 木19:00 ✓ / パソコン 土 ✓.\n→ Chỉ loại được ヨガ. Chuyển sang điều kiện đồ dùng: 写真 cần camera ✗, パソコン thì có cho thuê nên chưa loại.\n\n**④ Tính tiền cho các hàng còn lại**:\n- 中国語: 6.000 + 1.500 = 7.500 ✗\n- 料理: 7.500 (材料費込み, không cộng thêm) ✗\n- 文章: 3.600 ✓\n- パソコン: 8.000 + 300 × 8 buổi = 10.400 ✗\n\n**⑤ Đọc ※**: hạn 3/10 必着 (không ảnh hưởng lựa chọn), 市外 2割増し (anh Lin ở trong thành phố → không áp dụng).\n\n**⑥ Đối chiếu lại checklist với 文章の書き方**: tối thứ 5 ✓, 3.600 ✓, không cần mang gì ✓ → chọn (4).\n\nĐể ý: 4 phương án được chọn sao cho **mỗi phương án sai trượt đúng một điều kiện khác nhau** (phí phụ, đồ dùng, ngân sách). Đó là cách ra đề điển hình của dạng bảng."},
+    {"id": "d15-w2", "kind": "passage", "pass": "p2",
+     "q": "{山田|やまだ}さんは{東京|とうきょう}から{大阪|おおさか}（{関西|かんさい}）の{実家|じっか}に、{縦|たて}35cm・{横|よこ}25cm・{高|たか}さ15cmで、{重|おも}さが8kgの{段|だん}ボール{箱|ばこ}を1{個|こ}{送|おく}りたい。{箱|はこ}は{近|ちか}くの{営業所|えいぎょうしょ}に{持|も}ち{込|こ}み、{配達|はいたつ}は19〜21{時|じ}を{指定|してい}する。{料金|りょうきん}はいくらになるか。",
+     "options": [
+       "1,300{円|えん}",
+       "1,400{円|えん}",
+       "1,600{円|えん}",
+       "1,700{円|えん}"
+     ],
+     "answer": 2,
+     "vi": "Anh Yamada muốn gửi từ Tokyo về nhà bố mẹ ở Osaka (Kansai) một thùng các-tông dài 35cm, rộng 25cm, cao 15cm, nặng 8kg. Anh tự mang đến văn phòng gần nhà và chỉ định giao lúc 19–21h. Cước là bao nhiêu? → (3) 1.600 yên.",
+     "why": "Tổng 3 cạnh = 35 + 25 + 15 = **75cm** → cỡ 80; nhưng nặng **8kg** → vượt 5kg của cỡ 80, thuộc cỡ 100 (đến 10kg). Theo ※ 「大きいほうのサイズで決まります」 → **cỡ 100**. Cỡ 100 đi 関西 = 1.700 yên; tự mang đến 営業所 −100 yên; chỉ định giờ miễn phí → **1.600 yên**.\n- (1) 1.300 = cỡ 80 (1.400) − 100 → chỉ tính theo kích thước, **quên dòng ※**.\n- (2) 1.400 = cỡ 80, không trừ gì → vừa sai cỡ vừa quên giảm giá.\n- (3) **Đúng**.\n- (4) 1.700 = đúng cỡ nhưng **quên giảm 100 yên** khi tự mang đến.",
+     "walkthrough": "**① Checklist**: điểm đến = 関西; kích thước 35/25/15cm, nặng 8kg; tự mang đến 営業所; chỉ định giờ 19–21; 1 kiện; hàng thường (không phải クール便).\n\n**② Xác định cỡ** — đây là chỗ đề đặt bẫy chính:\n- Theo kích thước: 35 + 25 + 15 = 75cm → ≤ 80cm → cỡ 80.\n- Theo cân nặng: 8kg → cỡ 80 chỉ đến 5kg ✗, cỡ 100 đến 10kg ✓ → cỡ 100.\n- Dòng ※ ngay dưới bảng: lấy **cỡ lớn hơn** → cỡ 100.\nNếu bạn bỏ qua cột 重さ hoặc dòng ※, bạn sẽ ra cỡ 80 và rơi vào (1) hoặc (2).\n\n**③ Tra bảng đúng hàng × đúng cột**: hàng 100サイズ × cột 関西 = 1.700 yên. Cẩn thận đừng lấy nhầm cột 東北・中部 (1.600 — trùng với đáp án đúng nhưng vì lý do sai!).\n\n**④ Áp dụng giảm giá / phụ phí** — đi qua từng dòng 【割引・追加料金】:\n- 持ち込み: có → −100.\n- 2個以上: chỉ 1 kiện → không áp dụng.\n- クール便: không → +0.\n- 時間帯指定: miễn phí → +0.\n→ 1.700 − 100 = **1.600 yên**.\n\n**⑤ Kiểm tra lại**: mỗi phương án sai tương ứng với một lỗi cụ thể (quên ※, quên giảm giá). Khi đáp án là con số, hãy thử hỏi \"phương án này là kết quả của lỗi nào?\" — nếu giải thích được cả 3 phương án sai, bạn gần như chắc chắn đúng."}
+  ],
+  "quiz": [
+    {"id": "d15-q1", "kind": "passage", "pass": "p3",
+     "q": "{大学生|だいがくせい}のチャンさんは、{月曜日|げつようび}から{金曜日|きんようび}まで9{時|じ}から15{時|じ}まで{授業|じゅぎょう}がある。{授業|じゅぎょう}が{終|お}わった{後|あと}、{平日|へいじつ}に{週|しゅう}2日だけ{働|はたら}きたい。{時給|じきゅう}はできるだけ{高|たか}いほうがいい。チャンさんに{合|あ}うアルバイトはどれか。",
+     "options": [
+       "カフェ「ひだまり」",
+       "{個別|こべつ}{指導|しどう}{塾|じゅく}「アップ」",
+       "ホテル「グランさくら」",
+       "{書店|しょてん}「{本|ほん}の{森|もり}」"
+     ],
+     "answer": 1,
+     "vi": "Chan (sinh viên) học từ 9h đến 15h, thứ 2 – thứ 6. Muốn làm sau giờ học, chỉ 2 ngày/tuần vào ngày thường, lương giờ càng cao càng tốt. Việc nào hợp? → (2) Trung tâm dạy kèm \"Up\".",
+     "why": "Checklist: sau 15h ngày thường ／ đúng **2 ngày/tuần** ／ lương giờ cao.\n- (1) Cà phê 10:00〜20:00 có thể làm sau 15h, nhưng yêu cầu 「週3日以上」 → trượt điều kiện số ngày.\n- (2) **Đúng**: 「月〜金 16:00〜21:00」「週2日〜」, 1.200 yên — cao nhất trong các việc còn lại.\n- (3) Khách sạn có lương giờ **cao nhất** (1.250 yên) nhưng giờ làm 6:00〜10:00 trùng giờ học (từ 9h) và không phải \"sau giờ học\" → bẫy \"hấp dẫn nhưng thiếu một điều kiện\".\n- (4) Hiệu sách 9:00〜18:00, 1 ngày từ 5 tiếng: sau 15h chỉ còn 3 tiếng, lại 「週3日以上」 → không được."},
+    {"id": "d15-q2", "kind": "passage", "pass": "p3",
+     "q": "ゴックさんは{土曜日|どようび}と{日曜日|にちようび}の{朝|あさ}6{時|じ}から10{時|じ}までなら{働|はたら}ける。{家|いえ}から{職場|しょくば}までは{電車|でんしゃ}で{片道|かたみち}300{円|えん}かかる。この{時間|じかん}に{働|はたら}ける{仕事|しごと}で1{日|にち}{働|はたら}いた{場合|ばあい}、{交通費|こうつうひ}も{含|ふく}めて{受|う}け{取|と}れる{金額|きんがく}はいくらか。",
+     "options": [
+       "5,600{円|えん}",
+       "5,300{円|えん}",
+       "5,000{円|えん}",
+       "4,600{円|えん}"
+     ],
+     "answer": 0,
+     "vi": "Ngọc làm được từ 6h đến 10h sáng thứ 7 và Chủ nhật. Từ nhà đến chỗ làm đi tàu mất 300 yên một chiều. Nếu làm 1 ngày ở công việc hợp với khung giờ này thì nhận được bao nhiêu, tính cả tiền đi lại? → (1) 5.600 yên.",
+     "why": "Chỉ ④ khách sạn có giờ 6:00〜10:00 và 「土日のみも可」. Lương: 1.250 × 4 tiếng = 5.000 yên. Tiền đi lại 「全額支給」 = khứ hồi 300 × 2 = 600 yên. Tổng **5.600 yên**.\n- (1) **Đúng**.\n- (2) 5.300 = chỉ cộng **một chiều** 300 yên — quên rằng đi làm thì phải đi và về.\n- (3) 5.000 = **quên tiền đi lại** dù tin ghi 「交通費：全額支給」.\n- (4) 4.600 = 1.150 × 4, tức lấy lương giờ của quán cà phê → **nhìn nhầm hàng** (quán cà phê mở từ 10:00, không hợp giờ)."}
+  ],
+  "practice": [
+    {"id": "d15-p1", "kind": "passage", "pass": "p4",
+     "q": "22{歳|さい}の{大学生|だいがくせい}ホアさんは、{一人|ひとり}で{契約|けいやく}する。データは{毎月|まいつき}15GBぐらい{使|つか}い、{電話|でんわ}はほとんどかけない。{通信|つうしん}{速度|そくど}が{遅|おそ}くならずに、できるだけ{安|やす}く{使|つか}いたい。ホアさんが{選|えら}ぶべきプランと{月額|げつがく}{料金|りょうきん}の{組|く}み{合|あ}わせはどれか。",
+     "options": [
+       "ミニ・1,500{円|えん}",
+       "ベーシック・2,800{円|えん}",
+       "ラージ・3,200{円|えん}",
+       "アンリミテッド・5,000{円|えん}"
+     ],
+     "answer": 1,
+     "vi": "Hoa, sinh viên 22 tuổi, ký hợp đồng một mình. Mỗi tháng dùng khoảng 15GB dữ liệu, hầu như không gọi điện. Muốn dùng rẻ nhất mà mạng không bị chậm. Gói và phí tháng nào phù hợp? → (2) Basic – 2.800 yên.",
+     "why": "Cần dung lượng ≥ 15GB (nếu vượt thì ※ 「通信速度が遅くなります」). Không cần tuỳ chọn gọi điện. Một mình → không có 家族割.\n- (1) Mini chỉ 3GB → vượt dung lượng, mạng chậm ✗.\n- (2) **Đúng**: Basic 20GB ≥ 15GB, 2.800 yên.\n- (3) Large 4.200 − 学割 1.000 = 3.200 yên. Phép tính đúng, nhưng vẫn **đắt hơn** Basic. Bẫy: thấy chữ 学割 và \"22 tuổi\" khớp nhau nên vội chọn.\n- (4) Unlimited 6.000 − 1.000 = 5.000 yên → đủ dung lượng nhưng đắt nhất.\nLưu ý: 学割 chỉ áp dụng cho 「ラージ・アンリミテッドのみ」, nên Basic **không** được giảm còn 1.800."},
+    {"id": "d15-p2", "kind": "passage", "pass": "p4",
+     "q": "{田中|たなか}さん{夫婦|ふうふ}（{二人|ふたり}とも40{代|だい}）は、{家族|かぞく}で2{回線|かいせん}{契約|けいやく}する。{夫|おっと}は{毎月|まいつき}30GBぐらい{使|つか}い、{仕事|しごと}で{長|なが}い{電話|でんわ}を{何度|なんど}もかける。{妻|つま}はデータは2GBほどで、{電話|でんわ}は{毎日|まいにち}かけるがどれも3{分|ぷん}{程度|ていど}で{終|お}わる。{二人|ふたり}とも、{通話料|つうわりょう}がかからないようにしたい。{二人|ふたり}の{条件|じょうけん}を{満|み}たすもっとも{安|やす}い{方法|ほうほう}で{契約|けいやく}した{場合|ばあい}、{二人|ふたり}の{月額|げつがく}の{合計|ごうけい}はいくらか。",
+     "options": [
+       "7,700{円|えん}",
+       "7,500{円|えん}",
+       "6,700{円|えん}",
+       "7,200{円|えん}"
+     ],
+     "answer": 3,
+     "vi": "Vợ chồng anh Tanaka (đều ngoài 40) ký 2 thuê bao gia đình. Chồng dùng khoảng 30GB/tháng, gọi điện công việc dài nhiều lần. Vợ dùng khoảng 2GB, ngày nào cũng gọi nhưng mỗi cuộc chỉ khoảng 3 phút. Cả hai đều không muốn mất tiền cước gọi. Nếu ký theo cách rẻ nhất đáp ứng điều kiện của cả hai, tổng phí tháng là bao nhiêu? → (4) 7.200 yên.",
+     "why": "**Chồng** (≥ 30GB, gọi dài không giới hạn): Large + 完全かけ放題 = 4.200 + 1.500 = 5.700 − 家族割 500 = **5.200**; Unlimited = 6.000 − 500 = 5.500 → chọn Large + tuỳ chọn (5.200). 40 tuổi → không có 学割.\n**Vợ** (2GB, cuộc gọi ≤ 5 phút): Mini + 5分かけ放題 = 1.500 + 500 = **2.000**; Mini **không** được 家族割 (「ミニ以外の回線は…」). (Basic + 5 phút − 500 = 2.800 → đắt hơn.)\nTổng: 5.200 + 2.000 = **7.200 yên**.\n- (1) 7.700 = 5.700 + 2.000 → **quên 家族割** cho chồng.\n- (2) 7.500 = 5.500 + 2.000 → chọn Unlimited cho chồng (tưởng \"không giới hạn\" là rẻ nhất cho người gọi nhiều).\n- (3) 6.700 = 5.200 + 1.500 → trừ 家族割 cho cả gói Mini của vợ (quên chữ 「ミニ以外」), hoặc quên tuỳ chọn gọi 5 phút.\n- (4) **Đúng**."},
+    {"id": "d15-p3", "kind": "passage", "pass": "p5",
+     "q": "ソンさんは{日曜日|にちようび}に、{北空港|きたくうこう}を11{時|じ}に{出発|しゅっぱつ}する{国際線|こくさいせん}に{乗|の}る。{航空|こうくう}{会社|がいしゃ}から「{出発|しゅっぱつ}の2{時間|じかん}{前|まえ}までに{空港|くうこう}に{着|つ}いてください」と{言|い}われている。ソンさんは{泊|と}まっているホテルの{前|まえ}からリムジンバスに{乗|の}るつもりだ。{間|ま}に{合|あ}うもっとも{遅|おそ}いバスは、ホテル{前|まえ}を{何時|なんじ}に{出|で}るか。",
+     "options": [
+       "6{時|じ}20{分|ぷん}",
+       "6{時|じ}50{分|ぷん}",
+       "8{時|じ}00{分|ぷん}",
+       "8{時|じ}40{分|ぷん}"
+     ],
+     "answer": 0,
+     "vi": "Song bay chuyến quốc tế cất cánh 11 giờ Chủ nhật từ Sân bay Bắc, được hãng dặn phải có mặt ở sân bay trước giờ bay 2 tiếng. Song định lên xe limousine trước khách sạn. Chuyến muộn nhất kịp giờ rời trước khách sạn lúc mấy giờ? → (1) 6 giờ 20.",
+     "why": "Checklist: **Chủ nhật** ／ chuyến **quốc tế** → ※ 「国際線は第2ターミナル」 ／ phải đến **trước 9:00** ／ lên xe ở **ホテル前**.\nĐi từ chuyến muộn về sớm trong cột 第2ターミナル着:\n- 07:50 (ホテル前 08:00) → T2 09:05 ✗ trễ.\n- 07:15 → T2 08:15 nhưng ホテル前 là 「—」 = **không dừng** ✗.\n- 06:40★ (ホテル前 06:50) → T2 07:50, nhưng ★ = 「土・日・祝日は運休」 ✗.\n- 06:10 (ホテル前 06:20) → T2 07:20 ✓.\n- (1) **Đúng**.\n- (2) 6:50 là chuyến ★ — không chạy Chủ nhật.\n- (3) 8:00 đến **第1**ターミナル lúc 08:55 (trước 9h) nên dễ tưởng kịp, nhưng chuyến quốc tế ở **第2** → 09:05 trễ. Bẫy **nhìn nhầm cột**.\n- (4) 8:40 vừa là chuyến ★ vừa đến quá muộn."},
+    {"id": "d15-p4", "kind": "passage", "pass": "p5",
+     "q": "{大人|おとな}2人と{小学生|しょうがくせい}1人の{家族|かぞく}が、{中央駅|ちゅうおうえき}から{空港|くうこう}までリムジンバスで{行|い}き、10日{後|ご}に{同|おな}じバスで{帰|かえ}ってくる。もっとも{安|やす}くなるように{切符|きっぷ}を{買|か}った{場合|ばあい}、{家族|かぞく}{全員|ぜんいん}の{往復|おうふく}の{運賃|うんちん}はいくらか。",
+     "options": [
+       "6,500{円|えん}",
+       "6,000{円|えん}",
+       "6,100{円|えん}",
+       "3,250{円|えん}"
+     ],
+     "answer": 2,
+     "vi": "Một gia đình 2 người lớn và 1 học sinh tiểu học đi xe limousine từ Ga Trung tâm ra sân bay, 10 ngày sau về bằng cùng tuyến xe. Nếu mua vé sao cho rẻ nhất thì tổng tiền vé khứ hồi của cả nhà là bao nhiêu? → (3) 6.100 yên.",
+     "why": "Người lớn: vé khứ hồi 2.400 yên (có hiệu lực 1 tháng → 10 ngày sau vẫn dùng được), rẻ hơn 2 vé một chiều (2.600). 2 người × 2.400 = 4.800.\nTrẻ em: 往復券 「大人のみ」 → học sinh tiểu học phải mua 2 vé một chiều: 650 × 2 = 1.300.\nTổng: 4.800 + 1.300 = **6.100 yên**.\n- (1) 6.500 = tất cả đều mua vé một chiều (1.300 × 4 + 650 × 2) → **không dùng vé khứ hồi**.\n- (2) 6.000 = tính cho trẻ em vé khứ hồi nửa giá (1.200) → **quên 「大人のみ」**.\n- (3) **Đúng**.\n- (4) 3.250 = chỉ tính **một chiều** cho cả nhà.\n(Dòng ※ miễn phí chỉ áp dụng cho trẻ **chưa** đến tuổi tiểu học — 「小学生未満」 — nên không áp dụng cho bé học sinh tiểu học.)"}
+  ],
+  "test": [
+    {"id": "d15-t1", "kind": "passage", "pass": "p6",
+     "q": "ベトナム{出身|しゅっしん}で{学部|がくぶ}2{年生|ねんせい}のミンさんは、{前年度|ぜんねんど}のGPAが2.8だった。{毎月|まいつき}お{金|かね}を{受|う}け{取|と}れる{奨学金|しょうがくきん}に{応募|おうぼ}したい。ミンさんが{応募|おうぼ}できるものはどれか。",
+     "options": [
+       "A",
+       "AとD",
+       "C",
+       "D"
+     ],
+     "answer": 3,
+     "vi": "Minh, người Việt Nam, sinh viên năm 2, GPA năm trước 2.8. Muốn ứng tuyển học bổng nhận tiền hằng tháng. Minh ứng tuyển được học bổng nào? → (4) D.",
+     "why": "\"Nhận tiền hằng tháng\" = cột 金額 ghi 「月額」 → chỉ A, C, D (B trả **một lần**, E là miễn học phí).\n- A: 学部2〜4年 ✓ nhưng cần 「前年度GPA3.0以上」, Minh 2.8 ✗.\n- C: chỉ dành cho 大学院生 ✗.\n- D: 学部1〜3年, アジア出身 (Việt Nam ✓), chỉ cần bài luận → ✓.\n- (1)(2) sai vì A cần GPA 3.0 — bẫy \"đúng đối tượng nhưng thiếu điều kiện\".\n- (3) C là học bổng lớn nhất nhưng chỉ cho cao học.\n- (4) **Đúng**."},
+    {"id": "d15-t2", "kind": "passage", "pass": "p6",
+     "q": "{大学院|だいがくいん}1{年生|ねんせい}のリーさん（{中国|ちゅうごく}{出身|しゅっしん}、GPA3.5）は、{月額|げつがく}がもっとも{多|おお}い{奨学金|しょうがくきん}を{受|う}けたいと{考|かんが}えている。さらに、{授業料|じゅぎょうりょう}も{少|すこ}しでも{安|やす}くしたい。この{表|ひょう}の{内容|ないよう}から{言|い}えることはどれか。",
+     "options": [
+       "CとEを{同時|どうじ}に{受|う}けることができる。",
+       "CとEの{両方|りょうほう}に{応募|おうぼ}できるが、{受|う}けられるのはどちらか{一|ひと}つだけだ。",
+       "AとCを{同時|どうじ}に{受|う}けると、{月|つき}に130,000{円|えん}になる。",
+       "C、B、Eの{三|みっ}つを{同時|どうじ}に{受|う}けることができる。"
+     ],
+     "answer": 0,
+     "vi": "Lý, học viên cao học năm 1 (người Trung Quốc, GPA 3.5), muốn nhận học bổng có số tiền tháng cao nhất, và muốn học phí rẻ đi dù chỉ một chút. Điều nào có thể nói được từ bảng? → (1) Có thể nhận đồng thời C và E.",
+     "why": "Học bổng tháng cao nhất cho cao học là C (80.000 yên). C là 「併用不可」, nhưng dòng ※ ghi 「**ただし、E（授業料減免）は除きます**」 → C vẫn kết hợp được với E. Lý có GPA 3.5 ≥ 2.5 nên đủ điều kiện E.\n- (1) **Đúng**.\n- (2) Đây là cách hiểu khi **chỉ đọc nửa đầu** dòng ※ mà bỏ qua 「ただし」 — bẫy kinh điển.\n- (3) A chỉ dành cho 学部 (không phải cao học), và cả A, C đều 併用不可.\n- (4) B tuy 「可」 nhưng khi đã nhận C (不可) thì **không** được nhận thêm học bổng khác ngoài E."},
+    {"id": "d15-t3", "kind": "passage", "pass": "p6",
+     "q": "ブラジル{出身|しゅっしん}で{学部|がくぶ}3{年生|ねんせい}のアナさんは、{前年度|ぜんねんど}のGPAが3.2だった。{今日|きょう}は4{月|がつ}25{日|にち}である。アナさんが{今|いま}から{応募|おうぼ}できるものをすべて{選|えら}ぶと、どれになるか。",
+     "options": [
+       "AとE",
+       "BとE",
+       "BとDとE",
+       "Eだけ"
+     ],
+     "answer": 1,
+     "vi": "Ana, người Brazil, sinh viên năm 3, GPA năm trước 3.2. Hôm nay là 25/4. Chọn tất cả những học bổng Ana còn ứng tuyển được từ bây giờ → (2) B và E.",
+     "why": "Hai điều kiện cứng: **đối tượng** và **hạn chót sau 25/4**.\n- A: đối tượng ✓, GPA 3.2 ✓ nhưng hạn 4/20 **đã qua** ✗.\n- B: mọi năm ✓, hạn 5/10 ✓ (xét theo hoàn cảnh gia đình — là điều kiện xét chọn, không cấm ứng tuyển) → ✓.\n- C: chỉ cao học ✗.\n- D: hạn 5/31 ✓, năm 3 ✓, nhưng 「**アジア出身者**」 — Brazil không thuộc châu Á ✗.\n- E: GPA ≥ 2.5 ✓, hạn 4/30 ✓ → ✓.\n- (1) A đã hết hạn — bẫy \"đủ điều kiện nhưng quên ngày\".\n- (2) **Đúng**.\n- (3) D sai vì Ana không phải người châu Á — bẫy bỏ sót chữ trong cột 対象.\n- (4) bỏ sót B."},
+    {"id": "d15-t4", "kind": "passage", "pass": "p7",
+     "q": "{引|ひ}っ{越|こ}しをするキムさんは、2{人用|にんよう}のソファー1つ、{高|たか}さ120cmの{本棚|ほんだな}1つ、ひもでしばって1つにまとめた{布団|ふとん}2{枚|まい}を{粗大|そだい}ごみとして{出|だ}したい。{手数料|てすうりょう}は{全部|ぜんぶ}でいくらか。",
+     "options": [
+       "1,600{円|えん}",
+       "2,000{円|えん}",
+       "2,400{円|えん}",
+       "2,800{円|えん}"
+     ],
+     "answer": 2,
+     "vi": "Kim chuyển nhà, muốn bỏ rác cồng kềnh gồm 1 sofa 2 người ngồi, 1 giá sách cao 120cm và 2 chiếc chăn đệm buộc dây gộp thành một bó. Tổng phí là bao nhiêu? → (3) 2.400 yên.",
+     "why": "- Sofa 2 người: hàng 「ソファー（2人用以上）」 = 1.200.\n- Giá sách 120cm: 「90cm以上」 = 800.\n- Chăn 2 chiếc buộc lại: theo ※ 「2枚まで1点として扱います」 → tính 1 món = 400.\nTổng: 1.200 + 800 + 400 = **2.400 yên**.\n- (1) 1.600 = tính sofa theo giá ghế 1 người (400) → **nhìn nhầm hàng**.\n- (2) 2.000 = tính giá sách theo loại 「90cm未満」 (400) → nhầm mốc 未満／以上.\n- (3) **Đúng**.\n- (4) 2.800 = tính chăn thành 2 món (800) → **quên dòng ※**."},
+    {"id": "d15-t5", "kind": "passage", "pass": "p7",
+     "q": "この{案内|あんない}の{内容|ないよう}と{合|あ}うものはどれか。",
+     "options": [
+       "{処理券|しょりけん}は{手数料|てすうりょう}の{金額|きんがく}{分|ぶん}をコンビニなどで{買|か}い、{受付|うけつけ}{番号|ばんごう}を{書|か}いて{品物|しなもの}に{貼|は}る。",
+       "{収集日|しゅうしゅうび}の{前日|ぜんじつ}までに{受付|うけつけ}センターに{申|もう}し{込|こ}めば、{収集|しゅうしゅう}してもらえる。",
+       "{冷蔵庫|れいぞうこ}は、{処理券|しょりけん}を{貼|は}ればほかの{粗大|そだい}ごみと{一緒|いっしょ}に{出|だ}すことができる。",
+       "{処理券|しょりけん}は、{申|もう}し{込|こ}みをすると{受付|うけつけ}センターから{郵送|ゆうそう}で{届|とど}く。"
+     ],
+     "answer": 0,
+     "vi": "Điều nào khớp với nội dung hướng dẫn? → (1) Mua phiếu xử lý đủ số tiền phí ở cửa hàng tiện lợi…, ghi số tiếp nhận và dán lên đồ.",
+     "why": "Dạng \"内容と合うもの\" với tài liệu có các bước: đối chiếu từng phương án với **đúng bước** tương ứng.\n- (1) **Đúng**: bước 2 「コンビニやスーパーで…手数料の金額分買う」 + bước 3 「処理券に受付番号を書いて品物に貼り」.\n- (2) Bước 1 yêu cầu 「収集日の**7日前**までに」 → ngày hôm trước là quá muộn.\n- (3) Hàng 「テレビ・冷蔵庫・洗濯機・エアコン」: 「市では収集できません」 → phải hỏi cửa hàng.\n- (4) Phiếu phải **tự mua** ở cửa hàng tiện lợi / siêu thị; bảng không hề nói gửi qua bưu điện."}
+  ]
+}

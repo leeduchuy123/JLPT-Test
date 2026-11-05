@@ -1,0 +1,240 @@
+{
+  "id": "d11",
+  "track": "dokkai",
+  "intro": "Từ bài này bắt đầu **第2部**: đọc những văn bản thực dụng gặp hằng ngày — thư công việc (ビジネスレター), email công việc, thông báo dán ở chung cư / công ty (お知らせ・貼り紙), quảng cáo, hướng dẫn. Khác với 評論 ở 第1部, loại văn bản này **không cần hiểu từng chữ từ đầu đến cuối**: rất nhiều câu kính ngữ dài dòng (chào theo mùa, cảm ơn vì đã luôn ủng hộ…) chỉ là “lớp vỏ”. Việc của bạn là biết **vỏ nằm ở đâu để lướt qua**, và **ruột — 本題 — nằm ở đâu để đọc kỹ**.\n\nCâu hỏi về văn bản thực dụng chia làm hai loại, nhận ra ngay khi đọc câu hỏi:\n- **全体をつかむ (bài này)**: 「この文章／メールの目的は何か」, 「①に入るタイトル／件名はどれか」, 「この文章の内容に最も近いものはどれか」 → cần nắm **ai gửi cho ai, để làm gì**.\n- **情報を探し出す (các bài 広告・お知らせ・説明書き)**: hỏi いつ・いくら・どうやって・何が必要か → tìm chi tiết.\n\nBí quyết của bài này: văn bản công việc tiếng Nhật có **khuôn gần như cố định**. Biết khuôn thì biết ngay 本題 nằm sau 「さて」「この度」「つきましては」, còn phần sau 「尚（なお）」 chỉ là thông tin bổ sung. Và phương án nhiễu gần như luôn được làm từ **phần bối cảnh** (đứng trước 本題) hoặc **phần bổ sung** (sau 尚・※) — những chi tiết đúng là có trong bài nhưng **không phải mục đích** của văn bản.",
+  "strategy": [
+    {"title": "Bước 1 · Đọc câu hỏi: đây là câu hỏi “toàn thể”", "body": "Nhìn câu hỏi trước để biết mình phải đọc theo kiểu nào:\n- 「この文章の**目的**は何か」「このメールで**最も伝えたいこと**は何か」 → tìm câu 本題 (yêu cầu / thông báo / xin lỗi chính).\n- 「①に入る**タイトル**／**件名**として最も適切なもの」 → tiêu đề = 本題 tóm lại trong vài chữ.\n- 「この文章の**内容に最も近いもの**」 → vẫn chủ yếu hỏi ý chính, nhưng cũng có thể kiểm tra chi tiết.\n\nVới loại câu này, **không** cần dừng lại ở từng con số, địa chỉ, giờ giấc. Cái cần là động từ chính của văn bản: **頼む (nhờ), 知らせる (báo), 誘う (mời), 謝る (xin lỗi), 礼を言う (cảm ơn), 確認する (xác nhận)**."},
+    {"title": "Bước 2 · Nhìn phần đầu: ai gửi → cho ai, loại văn bản gì", "body": "Phần đầu văn bản luôn có “thẻ căn cước”:\n- **Thư / thông báo**: ngày (右上), người nhận 「〜様」「〜各位」「〜の皆様」, người gửi (tên công ty, chức vụ, tên), có khi có **タイトル** ở giữa.\n- **Email**: 差出人 (người gửi), 宛先 (người nhận), 日時, **件名** (tiêu đề), rồi dòng 「〜様」 và lời chào 「いつもお世話になっております。〇〇の△△です。」\n\nQuan hệ giữa hai bên giúp đoán trước mục đích: ban quản lý → cư dân (thường là thông báo + nhờ hợp tác), công ty → khách hàng (xác nhận đơn, xin lỗi, giới thiệu), công ty → đối tác (nhờ vả, báo thay đổi), phòng tổng vụ → nhân viên (chỉ thị). Để ý cả 「各位」「皆様」 (gửi nhiều người → thường là thông báo chung) so với gửi một người (thường là nhờ / xin lỗi / trả lời)."},
+    {"title": "Bước 3 · Dùng khuôn chung để bỏ qua phần vỏ", "body": "Ba khuôn hay gặp nhất (thứ tự gần như cố định):\n\n**Thư công việc (ビジネスレター)**: 日付 → 宛名 → 差出人 → 「拝啓」+ chào theo mùa (〜の候…お慶び申し上げます) → cảm ơn chung (平素は…) → **「さて、この度〜」 bối cảnh / sự việc** → **「つきましては〜」 yêu cầu chính** → 「尚、〜」 bổ sung → chào kết → 「敬具」 → (「記」 chi tiết 「以上」).\n\n**Thông báo / đề nghị (お知らせ・お願い)**: 日付 → 「〜の皆様」 → người gửi → **タイトル** → bối cảnh → **「〜を行います／〜をお願いします／ご注意ください」** → 【日時】【場所】… → 「尚、〜」 → 問い合わせ先. Thông báo gửi chung thường bỏ bớt lời chào đầu/cuối.\n\n**Email công việc**: 差出人・宛先・件名 → 「〜様」 → 「いつもお世話になっております」 → (cảm ơn việc lần trước) → **「さて、〜」 → câu kết thúc bằng 「〜ください」「〜いただけないでしょうか」「〜いただけますと幸いです」** → chi tiết (・日時 ・場所) → 「なお、〜」 → chữ ký.\n\nNhững phần “chào – cảm ơn – chúc” (拝啓…お慶び申し上げます, 平素は…, いつもお世話になっております, 今後ともよろしく…) có thể đọc lướt trong 2 giây."},
+    {"title": "Bước 4 · Tìm câu 本題 và phân biệt với “bối cảnh”", "body": "Theo khuôn chung, 本題 trải ra hai nấc:\n- **Sau 「さて」「この度」** = **本題の始まり／状況説明** (mở đầu 本題, trình bày tình hình): sự việc làm nền (「〜することとなりました」「〜を行います」). Với văn bản chỉ để báo tin (không có lời nhờ), đây chính là tin chính.\n- **Sau 「つきましては」「それに伴って」「そこで」** = **本題 thật sự (お願い／報告…)**: điều người viết **muốn người đọc làm** (「〜ください」「〜をお願いいたします」「〜いただけますと幸いです」).\n\nVới văn bản không có các từ nối này (thông báo ngắn, email), hãy tìm **câu có động từ hành động hướng tới người đọc**: お願いします・ください・お知らせします・ご案内します・お詫び申し上げます.\n\nCẩn thận: câu đứng trước 本題 thường là **lý do / bối cảnh** (「業務拡大に伴い」「担当者の急な出張が決まり」). Nó giải thích **vì sao**, chứ không phải **mục đích**. Đề rất hay biến lý do thành một phương án sai.\n\nKhi văn bản vừa “báo” vừa “nhờ”, **trọng tâm là lời nhờ** sau つきましては; phần さて／この度 thường chỉ là **前置き** (lời dẫn) để đi tới lời nhờ. Vì vậy:\n- Có phương án gom đủ cả hai (「〜を知らせ、〜を頼んでいる」) → đó là phương án tốt nhất.\n- Các phương án chỉ nói một vế → chọn vế **お願い**. Phương án chỉ nói phần “báo” (vd 「新しい店を開くことを伝えている」 trong khi cả bức thư viết ra để nhờ người nhận đến giúp ngày khai trương) là bẫy **lấy lời dẫn làm mục đích**."},
+    {"title": "Bước 5 · Gạch riêng phần bổ sung: 尚・また・ただし・※", "body": "Mọi thứ sau 「尚／なお」「また」, dòng bắt đầu bằng 「※」「＊」, hay sau 「ただし」 là **thông tin phụ**: lưu ý, ngoại lệ, liên lạc sau, thứ không thay đổi…\n- Với câu hỏi 目的・タイトル: phần này **gần như không bao giờ là đáp án**, nhưng **rất hay là phương án nhiễu** (vd 「尚、電話番号に変更はございません」 → phương án 「電話番号が変わることを知らせている」).\n- Với câu hỏi 内容に合うもの: phần này lại hay được hỏi chi tiết, đặc biệt là **phủ định / ngoại lệ** (変更はございません, 〜は不要です, 〜を除く).\n\nĐọc phần bổ sung, luôn để ý: nó **khẳng định hay phủ định**? Áp dụng cho **ai**?\n\nNgoại lệ cần nhớ: 「**併せて**〜もお願いいたします」 (đồng thời xin… luôn) **không** phải thông tin phụ — nó thêm **yêu cầu chính thứ hai**, nên đáp án 目的 phải chứa cả nó (vd 「{申込書|もうしこみしょ}にご{記入|きにゅう}のうえ、ご{返送|へんそう}ください。{併|あわ}せて、{顔|かお}{写真|しゃしん}のデータもお{送|おく}りください」 → mục đích = gửi lại đơn **và** gửi ảnh)."},
+    {"title": "Bước 6 · So phương án — 5 kiểu bẫy của câu hỏi toàn thể", "body": "Đáp án đúng thường **tóm tắt bằng từ khác** (依頼する → 頼む, 開催する → 行う, ご送付先をご変更ください → 送り先を変えてもらう). Năm kiểu bẫy:\n- **Lấy bối cảnh làm mục đích**: lý do, lời cảm ơn việc lần trước (「先日は〜ありがとうございました」) bị đưa lên thành mục đích.\n- **Lấy thông tin bổ sung**: chi tiết sau 尚・※.\n- **Đảo người / đảo hành động**: ai nhờ ai, ai đi đâu, ai liên lạc cho ai bị tráo; hoặc “thông báo đã quyết” bị đổi thành “hỏi ý kiến”, “mời” đổi thành “báo kết quả”.\n- **Lấy lời dẫn / đúng một nửa**: chỉ nói phần “báo” (さて／この度) mà bỏ lời nhờ (つきましては), hoặc bỏ sót yêu cầu thứ hai sau 「併せて」. Có phương án đủ ý thì chọn nó; nếu không, vế お願い thắng vế “báo”.\n- **Không có trong bài / nói quá**: thêm sự kiện, thêm cảm xúc (「是非参加したい」 khi người viết chỉ mời), thêm 「延期」「中止」 không hề được nhắc.\n\nVới câu hỏi タイトル／件名: tiêu đề phải bao trùm **toàn bộ 本題** — không quá hẹp (chỉ một lưu ý phụ), không sai loại (お知らせ ≠ お願い ≠ お詫び ≠ ご案内)."}
+  ],
+  "signals": [
+    {"ja": "{拝啓|はいけい}　…　{敬具|けいぐ}", "vi": "Kính gửi … Kính thư", "note": "Mở và đóng thư trang trọng. Phần ngay sau 拝啓 là chào theo mùa → lướt qua."},
+    {"ja": "〜の{候|こう}、ますますご{清栄|せいえい}のこととお{慶|よろこ}び{申|もう}し{上|あ}げます", "vi": "Vào tiết…, xin chúc quý vị ngày càng thịnh vượng", "note": "Lời chào theo mùa (初秋の候, 秋冷の候, 残暑の候…). Không mang thông tin."},
+    {"ja": "{平素|へいそ}は{格別|かくべつ}のお{引|ひ}き{立|た}てを{賜|たまわ}り／いつもお{世話|せわ}になっております", "vi": "Xin cảm ơn sự ủng hộ đặc biệt thường ngày / Luôn được quý vị giúp đỡ", "note": "Cảm ơn chung chung → không phải mục đích. Đừng chọn phương án “cảm ơn” chỉ vì thấy câu này."},
+    {"ja": "さて、〜", "vi": "Sau đây, (xin vào việc)…", "note": "Từ chuyển sang 本題. Gặp さて là đọc chậm lại."},
+    {"ja": "この{度|たび}（は）、〜", "vi": "Lần này, nhân dịp này…", "note": "Mở ra sự việc chính: 「この度、本社を移転することとなりました」. Cũng dùng trong cảm ơn / xin lỗi: 「この度はご迷惑をおかけし…」."},
+    {"ja": "つきましては、〜", "vi": "Vì vậy, do đó (xin…)", "note": "Ngay sau là **yêu cầu / đề nghị chính**: 「つきましては、ご出席くださいますようお願い申し上げます」."},
+    {"ja": "〜に{伴|ともな}い（まして）／それに{伴|ともな}い", "vi": "kèm theo…, do…", "note": "Vế trước là nguyên nhân (工事・移転・変更), vế sau là hệ quả được thông báo: 「工事に伴い、断水いたします」."},
+    {"ja": "〜ことと（相）なりました", "vi": "đã được quyết định là…", "note": "Báo một quyết định đã chốt → nội dung thông báo chính."},
+    {"ja": "〜ください／〜くださいますようお{願|ねが}い{申|もう}し{上|あ}げます", "vi": "xin hãy… / kính mong quý vị…", "note": "Câu yêu cầu = mục đích của văn bản dạng お願い."},
+    {"ja": "〜いただけないでしょうか／〜いただけますと{幸|さいわ}いです", "vi": "có thể… giúp được không / nếu được… thì thật quý", "note": "Nhờ vả lịch sự trong email. Thường là câu quan trọng nhất."},
+    {"ja": "〜をお{知|し}らせいたします／ご{案内|あんない}{申|もう}し{上|あ}げます", "vi": "xin thông báo / xin giới thiệu, hướng dẫn", "note": "Văn bản loại thông báo. Tiêu đề thường là 「〜のお知らせ」「〜のご案内」."},
+    {"ja": "〜を{心|こころ}よりお{詫|わ}び{申|もう}し{上|あ}げます", "vi": "thành thật xin lỗi về…", "note": "Văn bản xin lỗi. Thường kèm nguyên nhân và biện pháp khắc phục ngay sau."},
+    {"ja": "{併|あわ}せて〜もお{願|ねが}いいたします", "vi": "đồng thời cũng xin…", "note": "**Không** phải thông tin phụ: thêm một yêu cầu chính thứ hai. Câu hỏi 目的 phải tính cả phần này."},
+    {"ja": "{尚|なお}、〜／また、〜","vi": "Ngoài ra, thêm nữa…", "note": "Thông tin **bổ sung**, không phải mục đích — nhưng hay bị dùng làm phương án nhiễu."},
+    {"ja": "ただし、〜／※〜", "vi": "Tuy nhiên (ngoại lệ)… / Chú ý…", "note": "Điều kiện, ngoại lệ. Chú ý phủ định: 「〜は不要です」「〜に変更はございません」."},
+    {"ja": "{下記|かき}のとおり／{記|き}　…　{以上|いじょう}", "vi": "như dưới đây / (phần chi tiết) … hết", "note": "「記」 mở phần liệt kê chi tiết (日時・場所), 「以上」 đóng lại. Câu hỏi 目的 không cần đọc kỹ phần này."},
+    {"ja": "{件名|けんめい}：〜の{件|けん}／【ご{協力|きょうりょく}のお{願|ねが}い】", "vi": "Tiêu đề: về việc…", "note": "件名 tóm tắt 本題. Khi 件名 bị để trống, hãy tìm câu yêu cầu / thông báo chính rồi thu gọn lại."}
+  ],
+  "passages": {
+    "p1": {
+      "title": "本社事務所移転のご案内",
+      "kind": "ビジネスレター",
+      "ja": "2026{年|ねん}10{月|がつ}1{日|にち}\n\nお{取引先|とりひきさき}{各位|かくい}\n\n{株式会社|かぶしきがいしゃ}サクラ{物産|ぶっさん}\n{代表取締役|だいひょうとりしまりやく}　{山本|やまもと}{健一|けんいち}\n\n【{本社|ほんしゃ}{事務所|じむしょ}{移転|いてん}のご{案内|あんない}】\n\n{拝啓|はいけい}　{秋冷|しゅうれい}の{候|こう}、{貴社|きしゃ}ますますご{清栄|せいえい}のこととお{慶|よろこ}び{申|もう}し{上|あ}げます。{平素|へいそ}は{格別|かくべつ}のお{引|ひ}き{立|た}てを{賜|たまわ}り、{厚|あつ}く{御礼|おんれい}{申|もう}し{上|あ}げます。\n　さて、{弊社|へいしゃ}はこの{度|たび}、{業務|ぎょうむ}{拡大|かくだい}に{伴|ともな}い、{本社|ほんしゃ}{事務所|じむしょ}を{下記|かき}へ{移転|いてん}することとなりました。これを{機|き}に、{社員|しゃいん}{一同|いちどう}、より{一層|いっそう}サービスの{向上|こうじょう}に{努|つと}めてまいります。\n　つきましては、{誠|まこと}に{恐|おそ}れ{入|い}りますが、11{月|がつ}{以降|いこう}の{郵便物|ゆうびんぶつ}・{請求書|せいきゅうしょ}{等|とう}のご{送付先|そうふさき}を{新|しん}{住所|じゅうしょ}へご{変更|へんこう}くださいますよう、お{願|ねが}い{申|もう}し{上|あ}げます。\n　なお、{電話|でんわ}{番号|ばんごう}およびファクス{番号|ばんごう}に{変更|へんこう}はございません。\n　{今後|こんご}とも{変|か}わらぬご{支援|しえん}を{賜|たまわ}りますよう、よろしくお{願|ねが}い{申|もう}し{上|あ}げます。\n{敬具|けいぐ}\n\n{記|き}\n・{新|しん}{住所|じゅうしょ}：〒530-0001　{大阪市|おおさかし}{北区|きたく}{梅田|うめだ}3-2-1　{梅田|うめだ}センタービル12{階|かい}\n・{新|しん}{事務所|じむしょ}での{業務|ぎょうむ}{開始日|かいしび}：2026{年|ねん}11{月|がつ}4{日|か}（{水|すい}）\n※10{月|がつ}31{日|にち}（{土|ど}）までは、{旧|きゅう}{事務所|じむしょ}にて{通常|つうじょう}どおり{業務|ぎょうむ}を{行|おこな}っております。\n{以上|いじょう}",
+      "vi": "Ngày 1 tháng 10 năm 2026\n\nKính gửi Quý đối tác\n\nCông ty cổ phần Sakura Bussan\nGiám đốc đại diện: Yamamoto Ken'ichi\n\n【Thông báo về việc chuyển văn phòng trụ sở chính】\n\nKính gửi Quý công ty. Vào tiết thu se lạnh, xin chúc Quý công ty ngày càng thịnh vượng. Chúng tôi xin chân thành cảm ơn sự ủng hộ đặc biệt mà Quý công ty luôn dành cho chúng tôi.\nNay, do mở rộng hoạt động kinh doanh, công ty chúng tôi sẽ chuyển văn phòng trụ sở chính đến địa chỉ dưới đây. Nhân dịp này, toàn thể nhân viên sẽ nỗ lực hơn nữa để nâng cao chất lượng dịch vụ.\nVì vậy, thật ngại phải làm phiền, nhưng kính mong Quý công ty thay đổi địa chỉ gửi bưu phẩm, hoá đơn… từ tháng 11 trở đi sang địa chỉ mới.\nNgoài ra, số điện thoại và số fax không thay đổi.\nKính mong Quý công ty tiếp tục ủng hộ chúng tôi như trước.\nKính thư\n\n(Chi tiết)\n・Địa chỉ mới: 〒530-0001, Umeda Center Building tầng 12, 3-2-1 Umeda, quận Kita, thành phố Osaka\n・Ngày bắt đầu làm việc tại văn phòng mới: thứ Tư, 4/11/2026\n※ Đến hết thứ Bảy 31/10, chúng tôi vẫn làm việc bình thường tại văn phòng cũ.\nHết"
+    },
+    "p2": {
+      "title": "マンションのお知らせ",
+      "kind": "お知らせ",
+      "ja": "2026{年|ねん}11{月|がつ}10{日|か}\n\nグランハイツ{桜町|さくらまち}　{居住者|きょじゅうしゃ}の{皆様|みなさま}\n\nグランハイツ{桜町|さくらまち}{管理組合|かんりくみあい}\n\n①＿＿＿＿＿＿＿＿＿＿\n\n　{日頃|ひごろ}より{管理組合|かんりくみあい}の{運営|うんえい}にご{協力|きょうりょく}いただき、ありがとうございます。\n　{当|とう}マンションでは、{建物|たてもの}の{老朽化|ろうきゅうか}に{伴|ともな}い、{今年度|こんねんど}、{給水管|きゅうすいかん}の{交換|こうかん}{工事|こうじ}を{進|すす}めております。この{工事|こうじ}の{最終|さいしゅう}{段階|だんかい}として、{下記|かき}の{日程|にってい}で{建物|たてもの}{全体|ぜんたい}の{水道|すいどう}を{止|と}めて{作業|さぎょう}を{行|おこな}います。{作業|さぎょう}{中|ちゅう}は、{台所|だいどころ}・{浴室|よくしつ}・トイレなど、すべての{水道|すいどう}がご{使用|しよう}になれませんので、ご{理解|りかい}とご{協力|きょうりょく}をお{願|ねが}いいたします。\n\n【{日時|にちじ}】11{月|がつ}29{日|にち}（{日|にち}）9:00～15:00（{予定|よてい}）\n※{作業|さぎょう}の{進|すす}み{具合|ぐあい}により、{終了|しゅうりょう}{時刻|じこく}が{前後|ぜんご}する{場合|ばあい}がございます。\n\n　なお、{当日|とうじつ}は{作業員|さぎょういん}が{各階|かくかい}の{廊下|ろうか}を{通行|つうこう}いたします。また、{飲|の}み{水|みず}やトイレ{用|よう}の{水|みず}は、{各|かく}ご{家庭|かてい}で{前日|ぜんじつ}までにご{用意|ようい}くださいますようお{願|ねが}いいたします。\n\nお{問|と}い{合|あ}わせ：{管理|かんり}{事務室|じむしつ}（{平日|へいじつ}9:00～17:00）　{電話|でんわ}03-0000-1234",
+      "vi": "Ngày 10 tháng 11 năm 2026\n\nKính gửi toàn thể cư dân Grand Heights Sakuramachi\n\nBan quản trị Grand Heights Sakuramachi\n\n①＿＿＿＿＿＿\n\nCảm ơn quý cư dân đã luôn hợp tác trong việc vận hành của ban quản trị.\nDo toà nhà đã xuống cấp, trong năm nay chúng tôi đang tiến hành thi công thay ống cấp nước. Ở giai đoạn cuối cùng của công trình, chúng tôi sẽ cắt nước toàn bộ toà nhà để thi công theo lịch dưới đây. Trong thời gian thi công, tất cả vòi nước — bếp, phòng tắm, nhà vệ sinh… — đều không sử dụng được, kính mong quý cư dân thông cảm và hợp tác.\n\n【Thời gian】Chủ nhật 29/11, 9:00–15:00 (dự kiến)\n※ Tuỳ tiến độ thi công, giờ kết thúc có thể sớm hoặc muộn hơn.\n\nNgoài ra, trong ngày thi công, công nhân sẽ đi lại trên hành lang các tầng. Ngoài ra, xin mỗi hộ tự chuẩn bị nước uống và nước dùng cho nhà vệ sinh trước ngày thi công.\n\nLiên hệ: Văn phòng quản lý (ngày thường 9:00–17:00), điện thoại 03-0000-1234"
+    },
+    "p3": {
+      "title": "取引先へのメール",
+      "kind": "ビジネスメール",
+      "ja": "{差出人|さしだしにん}：kato@hikari-design.example.jp\n{宛先|あてさき}：nakamura@aoba-print.example.jp\n{日時|にちじ}：2026{年|ねん}11{月|がつ}5{日|か}　10:12\n{件名|けんめい}：①＿＿＿＿＿＿＿＿＿＿\n\n{青葉|あおば}{印刷|いんさつ}{株式会社|かぶしきがいしゃ}\n{営業部|えいぎょうぶ}　{中村|なかむら}{様|さま}\n\nいつもお{世話|せわ}になっております。\nひかりデザインの{加藤|かとう}です。\n\n{先日|せんじつ}は、{来年|らいねん}のカレンダー{制作|せいさく}の{件|けん}でお{時間|じかん}をいただき、ありがとうございました。\nさて、11{月|がつ}12{日|にち}（{木|もく}）14{時|じ}からお{願|ねが}いしておりましたデザイン{案|あん}の{打|う}ち{合|あ}わせですが、{弊社|へいしゃ}{担当|たんとう}デザイナーの{急|きゅう}な{出張|しゅっちょう}が{決|き}まり、{当日|とうじつ}の{出席|しゅっせき}が{難|むずか}しくなってしまいました。\nこちらからお{願|ねが}いしておきながら{大変|たいへん}{申|もう}し{訳|わけ}ございませんが、{日程|にってい}を{変更|へんこう}していただけないでしょうか。\n{誠|まこと}に{勝手|かって}ながら、{以下|いか}のいずれかで、ご{都合|つごう}のよい{日時|にちじ}をお{知|し}らせいただけますと{幸|さいわ}いです。\n\n・11{月|がつ}16{日|にち}（{月|げつ}）10:00～12:00\n・11{月|がつ}17{日|にち}（{火|か}）15:00～17:00\n・11{月|がつ}18{日|にち}（{水|すい}）{終日|しゅうじつ}\n\nなお、{場所|ばしょ}はこれまでどおり{弊社|へいしゃ}3{階|がい}{会議室|かいぎしつ}を{予定|よてい}しております。\nご{迷惑|めいわく}をおかけいたしますが、どうぞよろしくお{願|ねが}いいたします。\n\n――――――――――\n{株式会社|かぶしきがいしゃ}ひかりデザイン　{企画部|きかくぶ}\n{加藤|かとう}{美穂|みほ}\nTEL：03-0000-4521",
+      "vi": "Người gửi: kato@hikari-design.example.jp\nNgười nhận: nakamura@aoba-print.example.jp\nThời gian: 5/11/2026, 10:12\nTiêu đề: ①＿＿＿＿＿＿\n\nCông ty cổ phần In Aoba\nPhòng kinh doanh, anh Nakamura\n\nCảm ơn anh đã luôn giúp đỡ chúng tôi.\nTôi là Kato của Hikari Design.\n\nHôm trước, xin cảm ơn anh đã dành thời gian cho chúng tôi về việc sản xuất lịch năm sau.\nNay, về buổi họp bàn phương án thiết kế mà chúng tôi đã đề nghị vào 14 giờ thứ Năm 12/11, do nhà thiết kế phụ trách của công ty chúng tôi đột ngột phải đi công tác, nên khó có thể tham dự vào hôm đó.\nRất xin lỗi vì chính chúng tôi đã đề nghị trước, nhưng anh có thể đổi lịch giúp chúng tôi được không?\nThật là tự tiện, nhưng nếu anh có thể cho biết ngày giờ thuận tiện trong số những lựa chọn dưới đây thì chúng tôi rất biết ơn.\n\n・Thứ Hai 16/11, 10:00–12:00\n・Thứ Ba 17/11, 15:00–17:00\n・Thứ Tư 18/11, cả ngày\n\nNgoài ra, địa điểm dự kiến vẫn như trước, là phòng họp tầng 3 của công ty chúng tôi.\nXin lỗi vì đã gây phiền phức, rất mong anh giúp đỡ.\n\n――――――――――\nCông ty cổ phần Hikari Design, Phòng kế hoạch\nKato Miho\nTEL: 03-0000-4521"
+    },
+    "p4": {
+      "title": "定期健康診断の実施について",
+      "kind": "社内文書",
+      "ja": "2026{年|ねん}4{月|がつ}20{日|か}\n{社員|しゃいん}{各位|かくい}\n{総務部|そうむぶ}\n\n【{定期|ていき}{健康|けんこう}{診断|しんだん}の{実施|じっし}について】\n\n　{毎年|まいとし}{実施|じっし}している{定期|ていき}{健康|けんこう}{診断|しんだん}を、{今年|ことし}も{下記|かき}のとおり{行|おこな}います。{法律|ほうりつ}により、{全|ぜん}{社員|しゃいん}の{受診|じゅしん}が{義務|ぎむ}{付|づ}けられておりますので、{必|かなら}ず{受診|じゅしん}してください。\n　{業務|ぎょうむ}の{都合|つごう}で{指定|してい}{日|び}に{受診|じゅしん}できない{場合|ばあい}は、5{月|がつ}8{日|か}（{金|きん}）までに{総務部|そうむぶ}の{田村|たむら}（{内線|ないせん}215）までご{連絡|れんらく}ください。{別|べつ}の{日程|にってい}をご{案内|あんない}します。\n\n{記|き}\n・{日時|にちじ}：5{月|がつ}19{日|にち}（{火|か}）・20{日|か}（{水|すい}）　9:00～12:00\n・{場所|ばしょ}：{本社|ほんしゃ}7{階|かい}　{大|だい}{会議室|かいぎしつ}\n・{対象|たいしょう}：{全|ぜん}{社員|しゃいん}（{契約|けいやく}{社員|しゃいん}・パート{社員|しゃいん}を{含|ふく}む）\n※{前日|ぜんじつ}の{夜|よる}9{時|じ}{以降|いこう}は、{水|みず}{以外|いがい}の{飲食|いんしょく}をしないでください。\n※{個人|こじん}で{人間|にんげん}ドックを{受診|じゅしん}する{予定|よてい}の{方|かた}は、その{結果|けっか}のコピーを{総務部|そうむぶ}に{提出|ていしゅつ}すれば、{本|ほん}{健診|けんしん}の{受診|じゅしん}は{不要|ふよう}です。\n\n　なお、{受診票|じゅしんひょう}は{各|かく}{部署|ぶしょ}の{担当者|たんとうしゃ}を{通|つう}じて、5{月|がつ}11{日|にち}（{月|げつ}）までに{配布|はいふ}します。\n{以上|いじょう}",
+      "vi": "Ngày 20 tháng 4 năm 2026\nGửi toàn thể nhân viên\nPhòng tổng vụ\n\n【Về việc tổ chức khám sức khoẻ định kỳ】\n\nĐợt khám sức khoẻ định kỳ tổ chức hằng năm, năm nay cũng sẽ được thực hiện như dưới đây. Theo luật, toàn bộ nhân viên đều có nghĩa vụ đi khám, vì vậy mọi người nhất định phải đi khám.\nTrường hợp vì lý do công việc mà không thể khám vào ngày chỉ định, xin liên lạc với anh/chị Tamura phòng tổng vụ (số nội bộ 215) trước thứ Sáu 8/5. Chúng tôi sẽ hướng dẫn lịch khác.\n\n(Chi tiết)\n・Thời gian: thứ Ba 19/5 và thứ Tư 20/5, 9:00–12:00\n・Địa điểm: phòng họp lớn, tầng 7 trụ sở chính\n・Đối tượng: toàn bộ nhân viên (bao gồm cả nhân viên hợp đồng và nhân viên bán thời gian)\n※ Từ 9 giờ tối hôm trước, xin đừng ăn uống gì ngoài nước lọc.\n※ Người dự định tự đi khám tổng quát (人間ドック) thì nếu nộp bản sao kết quả cho phòng tổng vụ, sẽ không cần khám đợt này.\n\nNgoài ra, phiếu khám sẽ được phát qua người phụ trách của từng bộ phận trước thứ Hai 11/5.\nHết"
+    },
+    "p5": {
+      "title": "キャリアセンターからのメール",
+      "kind": "メール（お知らせ）",
+      "ja": "{差出人|さしだしにん}：career@tozai-univ.example.ac.jp\n{宛先|あてさき}：{企業|きぎょう}{合同|ごうどう}{説明会|せつめいかい}　{参加|さんか}{登録者|とうろくしゃ}\n{件名|けんめい}：①＿＿＿＿＿＿＿＿＿＿\n\n{企業|きぎょう}{合同|ごうどう}{説明会|せつめいかい}にお{申|もう}し{込|こ}みの{学生|がくせい}の{皆|みな}さん\n\nキャリアセンターです。\n11{月|がつ}21{日|にち}（{土|ど}）に{開催|かいさい}する「{企業|きぎょう}{合同|ごうどう}{説明会|せつめいかい}」について、お{知|し}らせします。\n{当初|とうしょ}、{会場|かいじょう}は1{号館|ごうかん}の{大|だい}{教室|きょうしつ}を{予定|よてい}していましたが、{参加|さんか}{企業|きぎょう}が{予定|よてい}より{大幅|おおはば}に{増|ふ}えたため、より{広|ひろ}い{体育館|たいいくかん}に{変更|へんこう}することになりました。{日時|にちじ}や{受付|うけつけ}{時間|じかん}に{変更|へんこう}はありません。\n{当日|とうじつ}は、{体育館|たいいくかん}{入口|いりぐち}で{学生証|がくせいしょう}を{提示|ていじ}し、{受付|うけつけ}を{済|す}ませてから{入場|にゅうじょう}してください。\nなお、1{号館|ごうかん}にも{案内|あんない}の{係員|かかりいん}を{置|お}きますが、{混雑|こんざつ}を{避|さ}けるため、{直接|ちょくせつ}{体育館|たいいくかん}へお{越|こ}しください。\nまた、{参加|さんか}{企業|きぎょう}の{一覧|いちらん}は、キャリアセンターのウェブサイトで{確認|かくにん}できます。\n\n{東西|とうざい}{大学|だいがく}キャリアセンター（{学生|がくせい}{会館|かいかん}2{階|かい}）",
+      "vi": "Người gửi: career@tozai-univ.example.ac.jp\nNgười nhận: những người đã đăng ký tham gia buổi giới thiệu doanh nghiệp chung\nTiêu đề: ①＿＿＿＿＿＿\n\nGửi các bạn sinh viên đã đăng ký buổi giới thiệu doanh nghiệp chung\n\nĐây là Trung tâm hướng nghiệp.\nChúng tôi xin thông báo về “Buổi giới thiệu doanh nghiệp chung” tổ chức vào thứ Bảy 21/11.\nBan đầu, hội trường dự kiến là giảng đường lớn của toà nhà số 1, nhưng vì số doanh nghiệp tham gia tăng nhiều so với dự kiến, nên đã đổi sang nhà thi đấu rộng hơn. Ngày giờ và giờ tiếp đón không thay đổi.\nHôm đó, các bạn hãy xuất trình thẻ sinh viên ở cửa nhà thi đấu, làm xong thủ tục tiếp đón rồi mới vào.\nNgoài ra, ở toà nhà số 1 cũng sẽ có nhân viên hướng dẫn, nhưng để tránh đông đúc, xin hãy đến thẳng nhà thi đấu.\nNgoài ra, danh sách doanh nghiệp tham gia có thể xem trên website của Trung tâm hướng nghiệp.\n\nTrung tâm hướng nghiệp, Đại học Tozai (tầng 2 hội quán sinh viên)"
+    },
+    "p6": {
+      "title": "お詫びの手紙",
+      "kind": "ビジネスレター",
+      "ja": "2026{年|ねん}8{月|がつ}25{日|にち}\n\n{小林|こばやし}{恵子|けいこ}{様|さま}\n\nレストラン　ラ・ポルタ\n{店長|てんちょう}　{石井|いしい}{誠|まこと}\n\n{拝啓|はいけい}　{残暑|ざんしょ}の{候|こう}、{小林|こばやし}{様|さま}にはますますご{健勝|けんしょう}のこととお{慶|よろこ}び{申|もう}し{上|あ}げます。\n　この{度|たび}は、{当店|とうてん}をご{利用|りよう}いただき、{誠|まこと}にありがとうございました。また、8{月|がつ}18{日|にち}にご{来店|らいてん}の{際|さい}には、ご{予約|よやく}いただいていたお{席|せき}のご{用意|ようい}ができておらず、{長時間|ちょうじかん}お{待|ま}たせしてしまいましたこと、{心|こころ}よりお{詫|わ}び{申|もう}し{上|あ}げます。\n　お{寄|よ}せいただいたご{意見|いけん}を{受|う}けて{確認|かくにん}いたしましたところ、ご{予約|よやく}を{承|うけたまわ}った{際|さい}に、{従業員|じゅうぎょういん}が{日付|ひづけ}を{誤|あやま}って{記録|きろく}していたことが{分|わ}かりました。{現在|げんざい}は、ご{予約|よやく}をお{受|う}けするたびに、{必|かなら}ず{二人|ふたり}で{内容|ないよう}を{確認|かくにん}する{仕組|しく}みに{改|あらた}めております。\n　つきましては、{誠|まこと}に{勝手|かって}ながら、{改|あらた}めておもてなしの{機会|きかい}をいただきたく、お{食事券|しょくじけん}を{同封|どうふう}いたしました。ご{都合|つごう}のよろしい{折|おり}に、ぜひご{利用|りよう}くださいませ。\n　なお、お{食事券|しょくじけん}の{有効|ゆうこう}{期限|きげん}は{本年|ほんねん}12{月|がつ}{末日|まつじつ}となっております。\n　{今後|こんご}とも、どうぞよろしくお{願|ねが}い{申|もう}し{上|あ}げます。\n{敬具|けいぐ}",
+      "vi": "Ngày 25 tháng 8 năm 2026\n\nKính gửi bà Kobayashi Keiko\n\nNhà hàng La Porta\nQuản lý cửa hàng: Ishii Makoto\n\nKính gửi bà. Vào tiết cuối hè còn oi nóng, xin chúc bà ngày càng mạnh khoẻ.\nLần này, xin chân thành cảm ơn bà đã sử dụng dịch vụ của nhà hàng. Đồng thời, khi bà đến nhà hàng ngày 18/8, chúng tôi đã không chuẩn bị sẵn chỗ ngồi mà bà đã đặt trước và để bà phải chờ rất lâu — chúng tôi thành thật xin lỗi về việc đó.\nSau khi nhận được ý kiến của bà, chúng tôi đã kiểm tra lại và biết được rằng lúc nhận đặt chỗ, nhân viên đã ghi nhầm ngày. Hiện nay, chúng tôi đã đổi sang cách làm là mỗi lần nhận đặt chỗ đều nhất định có hai người cùng kiểm tra nội dung.\nVì vậy, thật là tự tiện, nhưng chúng tôi mong có lại cơ hội được phục vụ bà, nên đã gửi kèm phiếu ăn. Khi nào thuận tiện, xin bà nhất định hãy sử dụng.\nNgoài ra, hạn sử dụng của phiếu ăn là đến cuối tháng 12 năm nay.\nRất mong bà tiếp tục ủng hộ chúng tôi.\nKính thư"
+    },
+    "p7": {
+      "title": "町内会からのメール",
+      "kind": "メール（お願い）",
+      "ja": "{件名|けんめい}：【ご{協力|きょうりょく}のお{願|ねが}い】{駅前|えきまえ}{広場|ひろば}に{関|かん}するアンケート\n\nさくら{台|だい}{町内会|ちょうないかい}　{会員|かいいん}の{皆様|みなさま}\n\nいつも{町内会|ちょうないかい}の{活動|かつどう}にご{協力|きょうりょく}いただき、ありがとうございます。\n{副会長|ふくかいちょう}の{松本|まつもと}です。\n\nご{存|ぞん}じのとおり、{駅前|えきまえ}{広場|ひろば}では{来年度|らいねんど}、{市|し}による{整備|せいび}{工事|こうじ}が{予定|よてい}されています。{市|し}からは、{工事|こうじ}の{計画|けいかく}を{立|た}てるにあたり、{地域|ちいき}{住民|じゅうみん}の{意見|いけん}を{参考|さんこう}にしたいとの{申|もう}し{出|で}がありました。\nそこで{町内会|ちょうないかい}では、{広場|ひろば}に{必要|ひつよう}な{設備|せつび}（ベンチ、{屋根|やね}、{自転車|じてんしゃ}{置|お}き{場|ば}など）について{会員|かいいん}の{皆様|みなさま}のご{意見|いけん}を{集|あつ}め、{市|し}に{提出|ていしゅつ}することにいたしました。\nお{手数|てすう}ですが、{下記|かき}のページからアンケートにご{回答|かいとう}ください。{所要|しょよう}{時間|じかん}は5{分|ふん}{程度|ていど}です。\n\n・{回答|かいとう}{期限|きげん}：12{月|がつ}6{日|か}（{日|にち}）\n・{回答|かいとう}ページ：https://sakuradai.example.jp/survey\n※インターネットをご{利用|りよう}にならない{方|かた}は、{回覧板|かいらんばん}に{挟|はさ}んである{回答|かいとう}{用紙|ようし}にご{記入|きにゅう}のうえ、{各|かく}{班|はん}の{班長|はんちょう}にお{渡|わた}しください。\n\nなお、{集|あつ}まったご{意見|いけん}は、{結果|けっか}をまとめて「{町内会|ちょうないかい}だより」1{月|がつ}{号|ごう}でお{知|し}らせする{予定|よてい}です。\n\nさくら{台|だい}{町内会|ちょうないかい}　{副会長|ふくかいちょう}　{松本|まつもと}",
+      "vi": "Tiêu đề: 【Kính mong hợp tác】Khảo sát về quảng trường trước nhà ga\n\nGửi toàn thể hội viên Hội khu phố Sakuradai\n\nCảm ơn mọi người đã luôn hợp tác trong các hoạt động của hội khu phố.\nTôi là Matsumoto, phó hội trưởng.\n\nNhư mọi người đã biết, quảng trường trước nhà ga dự kiến sẽ được thành phố cải tạo vào năm tới. Thành phố đã đề nghị rằng khi lập kế hoạch thi công, họ muốn tham khảo ý kiến của cư dân trong khu vực.\nVì vậy, hội khu phố quyết định thu thập ý kiến của hội viên về những thiết bị cần có ở quảng trường (ghế băng, mái che, chỗ để xe đạp…) rồi nộp cho thành phố.\nXin phiền mọi người trả lời khảo sát từ trang web dưới đây. Thời gian cần khoảng 5 phút.\n\n・Hạn trả lời: Chủ nhật 6/12\n・Trang trả lời: https://sakuradai.example.jp/survey\n※ Ai không dùng Internet, xin điền vào phiếu trả lời kẹp trong bảng thông báo luân chuyển (回覧板) rồi đưa cho tổ trưởng của tổ mình.\n\nNgoài ra, ý kiến thu được sẽ được tổng hợp và thông báo kết quả trên “Bản tin hội khu phố” số tháng 1.\n\nHội khu phố Sakuradai, Phó hội trưởng Matsumoto"
+    }
+  },
+  "worked": [
+    {"id": "d11-w1", "kind": "passage", "pass": "p1",
+     "q": "この{文書|ぶんしょ}の{目的|もくてき}として{最|もっと}も{適切|てきせつ}なものはどれか。",
+     "options": [
+       "{本社|ほんしゃ}{事務所|じむしょ}が{移転|いてん}することを{知|し}らせ、{書類|しょるい}などの{送|おく}り{先|さき}を{新|あたら}しい{住所|じゅうしょ}に{変|か}えてもらうよう{頼|たの}んでいる。",
+       "{業務|ぎょうむ}{拡大|かくだい}を{記念|きねん}して、{新|あたら}しい{事務所|じむしょ}の{見学|けんがく}に{取引先|とりひきさき}を{招待|しょうたい}している。",
+       "{事務所|じむしょ}の{移転|いてん}に{伴|ともな}い、{電話|でんわ}{番号|ばんごう}とファクス{番号|ばんごう}が{変|か}わることを{知|し}らせている。",
+       "10{月|がつ}31{日|にち}までに、{郵便物|ゆうびんぶつ}や{請求書|せいきゅうしょ}を{旧|きゅう}{事務所|じむしょ}へ{送|おく}るよう{頼|たの}んでいる。"
+     ],
+     "answer": 0,
+     "vi": "Mục đích của văn bản là gì? → (1) Thông báo việc chuyển văn phòng trụ sở và nhờ đối tác đổi nơi gửi giấy tờ sang địa chỉ mới.",
+     "why": "本題 có hai tầng: 「さて、弊社はこの度…本社事務所を下記へ移転することとなりました」 (báo) + 「つきましては…ご送付先を新住所へご変更くださいますよう、お願い申し上げます」 (nhờ).\n- (1) **Đúng**: gom đủ cả “báo” và “nhờ”. 「ご送付先をご変更ください」→ 送り先を変えてもらう.\n- (2) **Không có trong bài**: không có lời mời tham quan nào. 「業務拡大」 chỉ là **lý do** chuyển văn phòng.\n- (3) Ngược với câu bổ sung 「なお、電話番号およびファクス番号に変更はございません」 → bẫy **thông tin bổ sung + phủ định**.\n- (4) Bóp méo dòng ※: đến 31/10 công ty **vẫn làm việc ở văn phòng cũ** (thông tin phụ), chứ không hề “nhờ gửi đồ về văn phòng cũ”.",
+     "walkthrough": "**① Đọc câu hỏi**: 「目的」 → câu hỏi toàn thể. Cần tìm động từ chính: báo? nhờ? mời?\n\n**② Thẻ căn cước**: người nhận 「お取引先各位」 (gửi chung mọi đối tác), người gửi là giám đốc công ty → văn bản thông báo chính thức. Tiêu đề 【本社事務所移転のご案内】 đã cho biết chủ đề: chuyển văn phòng.\n\n**③ Lướt phần vỏ**: 「拝啓　秋冷の候…お慶び申し上げます」 (chào mùa) và 「平素は格別のお引き立てを賜り、厚く御礼申し上げます」 (cảm ơn chung) → bỏ qua.\n\n**④ Tìm 本題**:\n- 「**さて**、弊社は**この度**、業務拡大に伴い、本社事務所を下記へ移転することとなりました」 → **sự việc**: chuyển văn phòng. (「業務拡大に伴い」 = lý do.)\n- 「**つきましては**…ご送付先を新住所へご変更くださいますよう、**お願い申し上げます**」 → **yêu cầu**: đổi địa chỉ gửi.\nVậy mục đích = báo + nhờ. Đây là kiểu rất phổ biến: tiêu đề chỉ ghi 「ご案内」, nhưng bên trong có cả một lời nhờ.\n\n**⑤ Gạch phần bổ sung**: 「なお、電話番号…に変更はございません」 và dòng 「※10月31日までは旧事務所にて…」 → thông tin phụ, nhưng chắc chắn sẽ xuất hiện trong phương án nhiễu.\n\n**⑥ Loại trừ**: (2) thêm chuyện không có; (3) đảo “không đổi” thành “đổi”; (4) bóp méo dòng ※. Chỉ (1) chứa đủ hai tầng của 本題."},
+    {"id": "d11-w2", "kind": "passage", "pass": "p2",
+     "q": "この{文書|ぶんしょ}のタイトルとして、①に{入|はい}る{最|もっと}も{適切|てきせつ}なものはどれか。",
+     "options": [
+       "{給水管|きゅうすいかん}{工事|こうじ}{延期|えんき}のお{知|し}らせ",
+       "{工事|こうじ}{作業員|さぎょういん}の{通行|つうこう}についてのお{願|ねが}い",
+       "{給水管|きゅうすいかん}{工事|こうじ}に{伴|ともな}う{断水|だんすい}のお{知|し}らせ",
+       "{飲料水|いんりょうすい}の{配布|はいふ}についてのご{案内|あんない}"
+     ],
+     "answer": 2,
+     "vi": "Tiêu đề phù hợp nhất cho chỗ ① là gì? → (3) Thông báo cắt nước do thi công ống cấp nước.",
+     "why": "本題: 「下記の日程で建物全体の水道を止めて作業を行います。作業中は…すべての水道がご使用になれませんので、ご理解とご協力をお願いいたします」. 「水道を止める・水道が使えない」= **断水**, nguyên nhân là 給水管の交換工事.\n- (1) **Không có trong bài**: không có chuyện hoãn. Dòng ※ chỉ nói giờ kết thúc có thể xê dịch.\n- (2) Lấy từ câu bổ sung sau 「なお」 → tiêu đề **quá hẹp**.\n- (3) **Đúng**: 「〜に伴う」 nối nguyên nhân (工事) với điều được thông báo (断水).\n- (4) **Đảo ý**: ban quản trị không phát nước; ngược lại, nhờ **mỗi hộ tự chuẩn bị** nước (各ご家庭で前日までにご用意ください).",
+     "walkthrough": "**① Đọc câu hỏi**: chọn タイトル → tiêu đề = 本題 thu gọn. Cần tìm “điều chính được thông báo”.\n\n**② Thẻ căn cước**: 管理組合 → 居住者の皆様: thông báo chung cho cư dân. Loại này thường là 「〜のお知らせ」 hoặc 「〜のお願い」.\n\n**③ Bỏ vỏ**: 「日頃より…ありがとうございます」 → lướt.\n\n**④ Tách bối cảnh và 本題**:\n- 「建物の老朽化に伴い、今年度、給水管の交換工事を進めております」 → **bối cảnh** (đã đang làm cả năm, không phải tin mới).\n- 「この工事の最終段階として、下記の日程で建物全体の**水道を止めて**作業を行います」 → **tin chính**: một ngày sẽ cắt nước toàn bộ.\n- 「すべての水道がご使用になれません…ご理解とご協力を**お願いいたします**」 → lời nhờ đi kèm.\nTóm lại bằng một từ N2: **断水** (cắt nước). Không có chữ 断水 nào trong bài — đề N2 hay bắt bạn tự “gọi tên” nội dung như vậy.\n\n**⑤ Phần bổ sung**: ※ (giờ kết thúc có thể xê dịch), 「なお」 (công nhân đi hành lang), 「また」 (tự chuẩn bị nước) → đều là phụ.\n\n**⑥ So phương án**: (2)(4) mỗi cái chỉ nhặt một ý phụ (và (4) còn đảo ý), (1) thêm chuyện 延期 không có. (3) bao trùm cả nguyên nhân lẫn tin chính → đúng.\n\nMẹo: tiêu đề tốt phải trả lời được câu “văn bản này gửi để báo / nhờ **việc gì**?” — không phải “trong văn bản có nhắc đến chuyện gì?”."}
+  ],
+  "quiz": [
+    {"id": "d11-q1", "kind": "passage", "pass": "p3",
+     "q": "このメールの{件名|けんめい}として、①に{入|はい}る{最|もっと}も{適切|てきせつ}なものはどれか。",
+     "options": [
+       "デザイン{案|あん}{送付|そうふ}のお{知|し}らせ",
+       "{打|う}ち{合|あ}わせ{場所|ばしょ}{変更|へんこう}のお{知|し}らせ",
+       "{出張|しゅっちょう}{日程|にってい}についてのご{相談|そうだん}",
+       "{打|う}ち{合|あ}わせ{日程|にってい}{変更|へんこう}のお{願|ねが}い"
+     ],
+     "answer": 3,
+     "vi": "Tiêu đề email phù hợp nhất là gì? → (4) Đề nghị thay đổi lịch họp.",
+     "why": "本題 sau 「さて」: 「…打ち合わせですが、…当日の出席が難しくなってしまいました」 → 「日程を変更していただけないでしょうか」. Đây là **lời nhờ (お願い)** đổi **lịch họp**.\n- (1) Không có chuyện gửi phương án thiết kế.\n- (2) Ngược với câu bổ sung 「なお、場所はこれまでどおり…」 → địa điểm **không đổi**.\n- (3) Chuyến công tác chỉ là **lý do**; người viết không bàn về lịch công tác.\n- (4) **Đúng**: đúng chủ đề (打ち合わせ日程) và đúng loại (お願い)."},
+    {"id": "d11-q2", "kind": "passage", "pass": "p3",
+     "q": "このメールを{読|よ}んだ{中村|なかむら}さんは、まず{何|なに}をしなければならないか。",
+     "options": [
+       "11{月|がつ}12{日|にち}の14{時|じ}に、{予定|よてい}どおりひかりデザインへ{行|い}く。",
+       "{示|しめ}された{日時|にちじ}の{中|なか}から{都合|つごう}のよいものを{選|えら}んで、{加藤|かとう}さんに{知|し}らせる。",
+       "{打|う}ち{合|あ}わせの{新|あたら}しい{場所|ばしょ}を{探|さが}して、{加藤|かとう}さんに{提案|ていあん}する。",
+       "カレンダーのデザイン{案|あん}を、11{月|がつ}16{日|にち}までに{加藤|かとう}さんに{送|おく}る。"
+     ],
+     "answer": 1,
+     "vi": "Đọc email này xong, anh Nakamura trước hết phải làm gì? → (2) Chọn ngày giờ thuận tiện trong số các ngày được đưa ra và báo cho chị Kato.",
+     "why": "Câu yêu cầu: 「以下のいずれかで、ご都合のよい日時をお知らせいただけますと幸いです」. 「いずれか」= một trong các lựa chọn bên dưới.\n- (1) Buổi họp ngày 12 chính là buổi **bị huỷ / cần đổi**.\n- (2) **Đúng**: 「お知らせいただけますと幸いです」→ 知らせる.\n- (3) Địa điểm vẫn như cũ (「場所はこれまでどおり弊社3階会議室」), không cần tìm.\n- (4) Không ai yêu cầu gửi phương án thiết kế; 16/11 chỉ là một ngày ứng viên."},
+    {"id": "d11-q3", "kind": "passage", "pass": "p3",
+     "q": "このメールの{内容|ないよう}と{合|あ}うものはどれか。",
+     "options": [
+       "{日程|にってい}の{変更|へんこう}は、ひかりデザイン{側|がわ}の{事情|じじょう}によるものである。",
+       "{中村|なかむら}さんの{急|きゅう}な{出張|しゅっちょう}のため、{打|う}ち{合|あ}わせができなくなった。",
+       "{変更|へんこう}{後|ご}の{打|う}ち{合|あ}わせは、{青葉|あおば}{印刷|いんさつ}の{会議室|かいぎしつ}で{行|おこな}う{予定|よてい}だ。",
+       "{打|う}ち{合|あ}わせの{候補|こうほ}{日|び}は、すべて{午前中|ごぜんちゅう}である。"
+     ],
+     "answer": 0,
+     "vi": "Điều nào khớp với nội dung email? → (1) Việc đổi lịch là do hoàn cảnh phía Hikari Design.",
+     "why": "「弊社担当デザイナーの急な出張が決まり」 — 弊社 = công ty của người viết (ひかりデザイン). Thêm 「こちらからお願いしておきながら大変申し訳ございません」 cũng cho thấy lỗi ở phía người viết.\n- (1) **Đúng**.\n- (2) **Đảo người**: người đi công tác là nhà thiết kế của **ひかりデザイン**, không phải anh Nakamura. Bẫy hay gặp khi không phân biệt 弊社 (công ty mình) và 貴社／御社 (công ty đối phương).\n- (3) 「弊社3階会議室」 = phòng họp của **ひかりデザイン** → đảo bên.\n- (4) 17/11 là 15:00–17:00 (buổi chiều), 18/11 là 終日 (cả ngày) → sai."}
+  ],
+  "practice": [
+    {"id": "d11-p1", "kind": "passage", "pass": "p4",
+     "q": "この{文書|ぶんしょ}で{最|もっと}も{伝|つた}えたいことは{何|なに}か。",
+     "options": [
+       "{受診票|じゅしんひょう}を、5{月|がつ}11{日|にち}までに{各|かく}{部署|ぶしょ}で{配|くば}ってほしい。",
+       "{指定|してい}された{日|ひ}に{必|かなら}ず{健康|けんこう}{診断|しんだん}を{受|う}け、{受|う}けられない{人|ひと}は{事前|じぜん}に{連絡|れんらく}してほしい。",
+       "{法律|ほうりつ}が{変|か}わり、{今年|ことし}から{全|ぜん}{社員|しゃいん}が{健康|けんこう}{診断|しんだん}を{受|う}けることになった。",
+       "{健康|けんこう}{診断|しんだん}の{代|か}わりに、{個人|こじん}で{人間|にんげん}ドックを{受|う}けてほしい。"
+     ],
+     "answer": 1,
+     "vi": "Điều văn bản muốn truyền đạt nhất là gì? → (2) Nhất định phải khám sức khoẻ vào ngày chỉ định, ai không khám được thì liên lạc trước.",
+     "why": "本題 ở hai câu đầu: 「必ず受診してください」 + 「指定日に受診できない場合は、5月8日までに…ご連絡ください」.\n- (1) Câu sau 「なお」 → thông tin phụ; hơn nữa việc phát phiếu là của **người phụ trách bộ phận**, không phải yêu cầu gửi tới toàn thể nhân viên.\n- (2) **Đúng**: gom đủ hai yêu cầu chính.\n- (3) **Nói quá / sai**: bài nói 「毎年実施している」 và 「法律により…義務付けられております」, không hề nói luật **mới thay đổi năm nay**.\n- (4) Dòng ※ chỉ là **ngoại lệ** cho người đã định đi khám riêng, không phải lời khuyên cho mọi người."},
+    {"id": "d11-p2", "kind": "passage", "pass": "p4",
+     "q": "この{文書|ぶんしょ}の{内容|ないよう}と{合|あ}うものはどれか。",
+     "options": [
+       "パート{社員|しゃいん}は、この{健康|けんこう}{診断|しんだん}を{受|う}ける{必要|ひつよう}はない。",
+       "{健康|けんこう}{診断|しんだん}の{前日|ぜんじつ}は、{夜|よる}9{時|じ}{以降|いこう}{何|なに}も{飲|の}んではいけない。",
+       "{人間|にんげん}ドックの{結果|けっか}のコピーを{出|だ}せば、この{健康|けんこう}{診断|しんだん}を{受|う}けなくてもよい。",
+       "{健康|けんこう}{診断|しんだん}は、5{月|がつ}19{日|にち}と20{日|か}の{両日|りょうじつ}とも{受|う}けなければならない。"
+     ],
+     "answer": 2,
+     "vi": "Điều nào khớp với nội dung văn bản? → (3) Nếu nộp bản sao kết quả khám tổng quát thì không cần khám đợt này.",
+     "why": "Câu hỏi 内容 thường bắt vào dòng ※ và chữ trong ngoặc.\n- (1) 「対象：全社員（契約社員・パート社員を**含む**）」 → nhân viên bán thời gian **cũng phải** khám.\n- (2) 「**水以外の**飲食をしないでください」 → nước lọc **vẫn được** uống. Bẫy bỏ mất phần ngoại lệ.\n- (3) **Đúng**: 「結果のコピーを…提出すれば、本健診の受診は不要です」.\n- (4) Hai ngày là hai **lựa chọn** khám (19日・20日), không phải khám cả hai ngày."},
+    {"id": "d11-p3", "kind": "passage", "pass": "p4",
+     "q": "{仕事|しごと}の{都合|つごう}で、5{月|がつ}19{日|にち}にも20{日|か}にも{受診|じゅしん}できない{社員|しゃいん}は、どうしなければならないか。",
+     "options": [
+       "5{月|がつ}8{日|か}までに、{総務部|そうむぶ}の{田村|たむら}さんに{連絡|れんらく}する。",
+       "5{月|がつ}11{日|にち}までに、{受診票|じゅしんひょう}を{部署|ぶしょ}の{担当者|たんとうしゃ}に{返|かえ}す。",
+       "{別|べつ}の{病院|びょういん}で{健康|けんこう}{診断|しんだん}を{受|う}け、{結果|けっか}を{田村|たむら}さんに{電話|でんわ}で{伝|つた}える。",
+       "{健康|けんこう}{診断|しんだん}の{前日|ぜんじつ}までに、{本社|ほんしゃ}7{階|かい}の{大|だい}{会議室|かいぎしつ}に{行|い}く。"
+     ],
+     "answer": 0,
+     "vi": "Nhân viên không thể khám cả ngày 19 lẫn 20/5 vì công việc thì phải làm gì? → (1) Liên lạc với anh/chị Tamura phòng tổng vụ trước ngày 8/5.",
+     "why": "「業務の都合で指定日に受診できない場合は、5月8日（金）までに総務部の田村（内線215）までご連絡ください。別の日程をご案内します」.\n- (1) **Đúng**.\n- (2) Ngày 11/5 là hạn **phát** phiếu khám (配布), không phải hạn trả lại → lẫn hai mốc ngày.\n- (3) Bài chỉ chấp nhận **bản sao kết quả 人間ドック nộp cho phòng tổng vụ**, không có chuyện báo qua điện thoại; và đây cũng không phải cách xử lý cho người bận ngày khám.\n- (4) Phòng họp lớn là **nơi khám**, không liên quan đến việc báo vắng."},
+    {"id": "d11-p4", "kind": "passage", "pass": "p5",
+     "q": "このメールの{件名|けんめい}として、①に{入|はい}る{最|もっと}も{適切|てきせつ}なものはどれか。",
+     "options": [
+       "{企業|きぎょう}{合同|ごうどう}{説明会|せつめいかい}の{参加|さんか}{申|もう}し{込|こ}みについて",
+       "{企業|きぎょう}{合同|ごうどう}{説明会|せつめいかい}の{日時|にちじ}{延期|えんき}について",
+       "{参加|さんか}{企業|きぎょう}{一覧|いちらん}の{公開|こうかい}について",
+       "{企業|きぎょう}{合同|ごうどう}{説明会|せつめいかい}の{会場|かいじょう}{変更|へんこう}について"
+     ],
+     "answer": 3,
+     "vi": "Tiêu đề email phù hợp nhất là gì? → (4) Về việc thay đổi hội trường buổi giới thiệu doanh nghiệp chung.",
+     "why": "Tin chính: 「当初、会場は1号館の大教室を予定していましたが、…より広い体育館に変更することになりました」.\n- (1) Người nhận là những người **đã đăng ký** (お申し込みの学生の皆さん) → email không kêu gọi đăng ký.\n- (2) 「日時や受付時間に変更はありません」 → không hoãn. Bẫy lấy phần **phủ định** làm nội dung.\n- (3) Câu sau 「また」 → thông tin phụ, tiêu đề quá hẹp.\n- (4) **Đúng**."},
+    {"id": "d11-p5", "kind": "passage", "pass": "p5",
+     "q": "{説明会|せつめいかい}の{当日|とうじつ}、{学生|がくせい}はどうすればよいか。",
+     "options": [
+       "1{号館|ごうかん}で{受付|うけつけ}を{済|す}ませてから、{係員|かかりいん}の{案内|あんない}で{体育館|たいいくかん}へ{行|い}く。",
+       "キャリアセンターで{学生証|がくせいしょう}を{見|み}せ、{会場|かいじょう}を{確認|かくにん}してから{体育館|たいいくかん}へ{行|い}く。",
+       "{直接|ちょくせつ}{体育館|たいいくかん}へ{行|い}き、{入口|いりぐち}で{学生証|がくせいしょう}を{見|み}せて{受付|うけつけ}をする。",
+       "ウェブサイトで{受付|うけつけ}を{済|す}ませ、{参加|さんか}したい{企業|きぎょう}の{一覧|いちらん}を{印刷|いんさつ}して{持|も}っていく。"
+     ],
+     "answer": 2,
+     "vi": "Hôm diễn ra buổi giới thiệu, sinh viên nên làm gì? → (3) Đến thẳng nhà thi đấu, xuất trình thẻ sinh viên ở cửa và làm thủ tục tiếp đón.",
+     "why": "「体育館入口で学生証を提示し、受付を済ませてから入場してください」 + 「混雑を避けるため、直接体育館へお越しください」.\n- (1) Ở toà nhà số 1 chỉ có nhân viên **hướng dẫn** (案内の係員), không có quầy tiếp đón; và người viết còn nhờ **đừng** ghé qua đó.\n- (2) Không có yêu cầu đến Trung tâm hướng nghiệp.\n- (3) **Đúng**: 「提示する」→ 見せる.\n- (4) Website chỉ dùng để **xem** danh sách doanh nghiệp; không có thủ tục tiếp đón online."}
+  ],
+  "test": [
+    {"id": "d11-t1", "kind": "passage", "pass": "p6",
+     "q": "この{手紙|てがみ}の{目的|もくてき}として{最|もっと}も{適切|てきせつ}なものはどれか。",
+     "options": [
+       "{予約|よやく}の{日付|ひづけ}を{間違|まちが}えた{従業員|じゅうぎょういん}について、{小林|こばやし}さんの{意見|いけん}を{聞|き}きたいと{伝|つた}えている。",
+       "{予約|よやく}の{記録|きろく}の{誤|あやま}りで{迷惑|めいわく}をかけたことを{謝|あやま}り、もう{一度|いちど}{店|みせ}に{来|き}てほしいと{伝|つた}えている。",
+       "{予約|よやく}の{新|あたら}しい{仕組|しく}みができたので、これからは{二人|ふたり}で{予約|よやく}するよう{頼|たの}んでいる。",
+       "お{食事券|しょくじけん}の{有効|ゆうこう}{期限|きげん}が、12{月|がつ}{末日|まつじつ}に{変|か}わったことを{知|し}らせている。"
+     ],
+     "answer": 1,
+     "vi": "Mục đích của bức thư là gì? → (2) Xin lỗi vì đã gây phiền phức do ghi nhầm đặt chỗ, và mong khách quay lại nhà hàng.",
+     "why": "Hai câu chủ chốt: 「長時間お待たせしてしまいましたこと、心よりお詫び申し上げます」 (xin lỗi) và 「つきましては…改めておもてなしの機会をいただきたく、お食事券を同封いたしました。…ぜひご利用くださいませ」 (mời quay lại).\n- (1) Ý kiến của khách **đã được nhận** (お寄せいただいたご意見を受けて) — nhà hàng không hỏi thêm ý kiến.\n- (2) **Đúng**: 「おもてなしの機会をいただきたい」 nói cách khác là “muốn khách lại đến”.\n- (3) **Đảo người**: “hai người kiểm tra” là quy trình của **nhân viên nhà hàng**, không phải yêu cầu với khách.\n- (4) Câu sau 「なお」 → phụ; và bài không nói hạn **bị thay đổi**."},
+    {"id": "d11-t2", "kind": "passage", "pass": "p6",
+     "q": "この{手紙|てがみ}の{内容|ないよう}と{合|あ}うものはどれか。",
+     "options": [
+       "{小林|こばやし}さんは{予約|よやく}をせずに{店|みせ}に{行|い}ったため、{長時間|ちょうじかん}{待|ま}つことになった。",
+       "{小林|こばやし}さんは、{店|みせ}に{意見|いけん}を{伝|つた}える{前|まえ}に、お{食事券|しょくじけん}を{受|う}け{取|と}った。",
+       "お{食事券|しょくじけん}は、8{月|がつ}{中|ちゅう}に{使|つか}わなければならない。",
+       "{店|みせ}は、{予約|よやく}を{受|う}けるときの{確認|かくにん}の{方法|ほうほう}を{変|か}えた。"
+     ],
+     "answer": 3,
+     "vi": "Điều nào khớp với nội dung bức thư? → (4) Nhà hàng đã thay đổi cách kiểm tra khi nhận đặt chỗ.",
+     "why": "「現在は、ご予約をお受けするたびに、必ず二人で内容を確認する仕組みに改めております」 — 「改める」= thay đổi cho đúng.\n- (1) Bà Kobayashi **có** đặt chỗ (ご予約いただいていたお席) — lỗi là do nhân viên ghi nhầm ngày.\n- (2) **Đảo thứ tự**: khách gửi ý kiến trước → nhà hàng kiểm tra → rồi mới gửi phiếu ăn kèm thư này.\n- (3) Hạn là 「本年12月末日」.\n- (4) **Đúng**."},
+    {"id": "d11-t3", "kind": "passage", "pass": "p7",
+     "q": "このメールの{目的|もくてき}として{最|もっと}も{適切|てきせつ}なものはどれか。",
+     "options": [
+       "{駅前|えきまえ}{広場|ひろば}の{整備|せいび}{工事|こうじ}の{日程|にってい}を、{会員|かいいん}に{知|し}らせている。",
+       "{駅前|えきまえ}{広場|ひろば}の{工事|こうじ}に{反対|はんたい}する{意見|いけん}を{集|あつ}めて、{市|し}に{提出|ていしゅつ}しようとしている。",
+       "{市|し}に{出|だ}す{意見|いけん}をまとめるため、{会員|かいいん}にアンケートに{答|こた}えてほしいと{頼|たの}んでいる。",
+       "アンケートの{結果|けっか}を、「{町内会|ちょうないかい}だより」で{発表|はっぴょう}したことを{知|し}らせている。"
+     ],
+     "answer": 2,
+     "vi": "Mục đích của email là gì? → (3) Nhờ hội viên trả lời khảo sát để tổng hợp ý kiến nộp cho thành phố.",
+     "why": "Khuôn 「〜。そこで〜。お手数ですが、〜ください」: bối cảnh (thành phố muốn nghe ý kiến) → quyết định của hội (thu thập ý kiến nộp lên) → **lời nhờ**: 「アンケートにご回答ください」. Tiêu đề 【ご協力のお願い】 cũng xác nhận đây là văn bản お願い.\n- (1) Bài chỉ nói 「来年度…予定されています」, không thông báo lịch thi công cụ thể → lấy **bối cảnh** làm mục đích.\n- (2) **Nói sai**: khảo sát hỏi về **thiết bị cần có**, không phải thu thập ý kiến phản đối.\n- (3) **Đúng**.\n- (4) **Sai thì**: kết quả 「お知らせする**予定**です」 (sẽ thông báo trong tương lai), chưa hề công bố."},
+    {"id": "d11-t4", "kind": "passage", "pass": "p7",
+     "q": "インターネットを{使|つか}わない{会員|かいいん}は、どうすればよいか。",
+     "options": [
+       "{回覧板|かいらんばん}に{挟|はさ}んである{用紙|ようし}に{書|か}いて、{班長|はんちょう}に{渡|わた}す。",
+       "{回答|かいとう}{用紙|ようし}に{書|か}いて、12{月|がつ}6{日|か}までに{市役所|しやくしょ}に{提出|ていしゅつ}する。",
+       "「{町内会|ちょうないかい}だより」1{月|がつ}{号|ごう}に{挟|はさ}んである{用紙|ようし}で{答|こた}える。",
+       "{副会長|ふくかいちょう}の{松本|まつもと}さんに、{電話|でんわ}で{意見|いけん}を{伝|つた}える。"
+     ],
+     "answer": 0,
+     "vi": "Hội viên không dùng Internet thì nên làm gì? → (1) Viết vào phiếu kẹp trong 回覧板 rồi đưa cho tổ trưởng.",
+     "why": "Đáp án nằm ở dòng ※: 「インターネットをご利用にならない方は、回覧板に挟んである回答用紙にご記入のうえ、各班の班長にお渡しください」. Câu hỏi về **ngoại lệ** gần như luôn được trả lời ở dòng ※ / ただし.\n- (1) **Đúng**: 「ご記入のうえ…お渡しください」→ 書いて渡す.\n- (2) **Đảo người nhận**: hội khu phố mới là bên tổng hợp rồi nộp lên thành phố; hội viên không nộp thẳng cho 市役所.\n- (3) Bản tin tháng 1 là nơi **công bố kết quả**, quá hạn 6/12 rồi.\n- (4) Không có cách trả lời qua điện thoại trong bài."}
+  ]
+}

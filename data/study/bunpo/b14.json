@@ -1,0 +1,205 @@
+{
+  "id": "b14",
+  "track": "bunpo",
+  "intro": "Bài này gom 6 mẫu cùng nghĩa gốc **“nhưng / mặc dù”** (逆接). Ở N3 bạn đã có 「〜のに」「〜けれど」「〜ても」. Lên N2, đề thi không hỏi “có phải nghĩa nhưng không” nữa, mà hỏi **“nhưng theo kiểu nào?”**. Mỗi mẫu có một “kiểu nhưng” riêng:\n\n- **〜にもかかわらず**: có sự thật A, vậy mà B vẫn xảy ra → người nói **ngạc nhiên** (trang trọng).\n- **〜ものの・〜とはいうものの**: công nhận A là thật, **nhưng điều đáng lẽ đi kèm thì không xảy ra** (mua rồi nhưng chưa mặc…).\n- **〜ながら(も)**: đi với **trạng thái** (biết, nhỏ, trẻ…) → “tuy… nhưng…”, hai vế **cùng chủ ngữ**.\n- **〜つつ(も)**: đi với động từ **suy nghĩ / biết / nói** → “trong lòng nghĩ vậy mà hành động lại khác”.\n- **〜といっても**: “nói là A, nhưng thực tế **khác với hình ảnh** mà chữ A gợi ra” → thường là **không đến mức** như bạn tưởng.\n- **〜からといって**: “chỉ vì A thì **chưa chắc** B” → phủ định suy luận thông thường.\n\nĐiểm then chốt để không mất điểm: **nhìn vế sau**. にもかかわらず・ものの・つつも **không đi với ý chí, mong muốn, mệnh lệnh** của người nói; からといって gần như luôn kết thúc bằng **phủ định từng phần** (〜とは限らない・〜わけではない) hoặc lời khuyên/cấm (〜てはいけない); といっても được theo sau bởi một **thông tin chỉnh lại hình ảnh**, hay gặp nhất là làm nhỏ lại (〜だけだ・〜程度だ・それほど〜ない).",
+  "points": [
+    {
+      "id": "b14-1",
+      "pattern": "〜にもかかわらず",
+      "reading": "〜にもかかわらず",
+      "meaning": "Mặc dù… vậy mà… (không bị ảnh hưởng bởi A — người nói ngạc nhiên)",
+      "structure": ["N ＋ にもかかわらず", "V／い形 普通形 ＋ にもかかわらず", "な形／N ＋ である ＋ にもかかわらず (bỏ だ, thêm である)", "Đầu câu: (それ)にもかかわらず、…"],
+      "explain": "Nghĩa đen: 「かかわる」 = dính líu, bị ảnh hưởng; 「にもかかわらず」 = **“dù có A, vẫn không bị A chi phối”**. Tức là: có một sự thật A (thường là trở ngại hoặc điều kiện bất lợi), lẽ ra nó phải ngăn cản B, **vậy mà B vẫn xảy ra**.\n\nHình dung một bản tin: 「{大雨|おおあめ}にもかかわらず、{会場|かいじょう}には{大勢|おおぜい}の{人|ひと}が{集|あつ}まった」 — mưa to như vậy mà người vẫn đến đông. Người viết đang **ngạc nhiên / bất ngờ** trước sự trái ngược đó.\n\n- Đi với danh từ trực tiếp: 雨にもかかわらず, 平日にもかかわらず, 努力にもかかわらず.\n- Với な形 và câu danh từ: dùng **である** chứ không dùng だ: 不便であるにもかかわらず, 学生であるにもかかわらず.\n- Có thể đứng **đầu câu** như một liên từ: 「〜した。にもかかわらず、…」 = “Đã… Thế nhưng…”.\n- Câu lịch sự cố định trong phát biểu: 「お{忙|いそが}しいにもかかわらず、お{集|あつ}まりいただき…」 = Dù bận rộn mà quý vị vẫn đến… (cảm ơn).",
+      "nuance": "Văn viết, tin tức, phát biểu — **trang trọng** hơn 「のに」. Sắc thái: ngạc nhiên, đôi khi trách móc nhẹ, nhưng khách quan hơn 「のに」 (「のに」 đầy cảm xúc bực bội, tiếc nuối).\n\n**Giới hạn vế sau**: không dùng câu thể hiện **mong muốn, ý chí, mệnh lệnh, nhờ vả, rủ rê** của người nói (〜たい・〜よう・〜てください・〜なさい). Vế sau là **sự việc thực tế** đã/đang xảy ra.",
+      "examples": [
+        {"ja": "{平日|へいじつ}にもかかわらず、{遊園地|ゆうえんち}は{家族連|かぞくづ}れで{混|こ}み{合|あ}っていた。", "vi": "Mặc dù là ngày thường mà khu vui chơi vẫn đông nghẹt các gia đình.", "note": "N ＋ にもかかわらず · người nói bất ngờ"},
+        {"ja": "{何度|なんど}も{注意|ちゅうい}されたにもかかわらず、{彼|かれ}は{同|おな}じミスを{繰|く}り{返|かえ}した。", "vi": "Dù đã bị nhắc nhở nhiều lần, anh ta vẫn lặp lại cùng một lỗi.", "note": "Vた ＋ にもかかわらず · sắc thái phê phán"},
+        {"ja": "この{地域|ちいき}は{交通|こうつう}が{不便|ふべん}であるにもかかわらず、{人口|じんこう}が{増|ふ}え{続|つづ}けている。", "vi": "Mặc dù giao thông bất tiện, dân số khu vực này vẫn tiếp tục tăng.", "note": "な形 ＋ である ＋ にもかかわらず"},
+        {"ja": "{本日|ほんじつ}はお{忙|いそが}しいにもかかわらず、{多|おお}くの{方|かた}にお{越|こ}しいただき、ありがとうございます。", "vi": "Hôm nay dù bận rộn mà rất nhiều quý vị vẫn đến dự, xin chân thành cảm ơn.", "note": "Câu cảm ơn cố định trong phát biểu, buổi lễ"},
+        {"ja": "{十分|じゅうぶん}に{準備|じゅんび}をして{臨|のぞ}んだ。にもかかわらず、{結果|けっか}は{予選|よせん}{敗退|はいたい}だった。", "vi": "Chúng tôi đã chuẩn bị kỹ càng rồi mới bước vào. Thế nhưng kết quả là bị loại ngay vòng loại.", "note": "Dùng đầu câu như liên từ"}
+      ],
+      "compare": [
+        {"with": "〜のに (N4–N3)", "diff": "Nghĩa gần như nhau, nhưng 「のに」 là văn nói, **chở đầy cảm xúc** (bực, tiếc, trách) và có thể bỏ lửng cuối câu (「せっかく来たのに…」). 「にもかかわらず」 cứng, khách quan, hợp tin tức / văn bản, không bỏ lửng."},
+        {"with": "〜にかかわらず／〜にかかわりなく (không có も)", "diff": "Khác hẳn! 「にかかわらず」 = **“bất kể, không phân biệt”**, đi với cặp đối lập hoặc từ chỉ phạm vi: 「{年齢|ねんれい}にかかわらず」「{晴雨|せいう}にかかわらず」. 「に**も**かかわらず」 = “mặc dù… vậy mà”. Có 「も」 hay không làm đổi nghĩa — đề rất hay bẫy chỗ này."}
+      ],
+      "mistakes": [
+        "✗ {雨|あめ}にもかかわらず、{試合|しあい}を{続|つづ}けよう。→ ○ 雨にもかかわらず、試合は続けられた。(vế sau không được là rủ rê / ý chí)",
+        "✗ {不便|ふべん}だにもかかわらず → ○ 不便であるにもかかわらず (な形 phải dùng である)",
+        "✗ {年齢|ねんれい}にもかかわらず、だれでも{参加|さんか}できます。→ ○ 年齢にかかわらず… (nghĩa “bất kể” thì bỏ も)"
+      ],
+      "tip": "Thấy vế trước là **trở ngại** (雨・反対・病気・注意されたのに…) và vế sau là **sự thật đáng ngạc nhiên ở thể た / ている**, câu mang màu tin tức → chọn 「にもかかわらず」. Nếu vế sau có 〜たい・〜よう・〜てください thì loại ngay."
+    },
+    {
+      "id": "b14-2",
+      "pattern": "〜ものの・〜とはいうものの",
+      "reading": "〜ものの・〜とはいうものの",
+      "meaning": "Tuy (đúng là) A, nhưng điều lẽ ra đi kèm với A lại không xảy ra",
+      "structure": ["V／い形 普通形 ＋ ものの", "な形 ＋ な／である ＋ ものの", "N／普通形 ＋ とはいうものの (な形・N có thể bỏ だ)", "Đầu câu: とはいうものの、…"],
+      "explain": "Công thức nhớ: **“A thì đúng là vậy rồi… NHƯNG cái kết quả mà ai cũng nghĩ sẽ đến sau A thì chưa đến.”**\n\n- **〜たものの** (dạng gặp nhiều nhất): đã làm A nhưng không tiến triển như mong đợi. 「{買|か}ったものの{使|つか}っていない」「{始|はじ}めたものの{続|つづ}かない」「{引|ひ}き{受|う}けたものの{自信|じしん}がない」. Cảm giác: **“làm thì làm rồi, mà…”**.\n- **A là sự thật hoặc điều chắc chắn sẽ xảy ra** (kể cả tương lai chắc chắn): 「{来月|らいげつ}{給料|きゅうりょう}は{上|あ}がるものの、…」.\n- **〜とはいうものの**: “**nói là A thì cũng đúng, nhưng…**”. Người nói thừa nhận một nhận định chung (bây giờ là mùa xuân, đang suy thoái, đã thành công…) rồi chỉ ra thực tế vẫn chưa khớp với nhận định đó: 「{春|はる}とはいうものの、まだ{寒|さむ}い」.\n- 「とはいうものの」 còn đứng **đầu câu** như liên từ: “Nói thì nói vậy, nhưng…”.\n\nVế sau thường là: **không xảy ra như dự tính, vẫn còn vấn đề, vẫn còn lo lắng**.",
+      "nuance": "Văn viết, hơi trang trọng; trong hội thoại thường thay bằng 「〜けど」. Sắc thái **bình tĩnh, tự nhìn nhận** (khác 「のに」 đầy bực bội, khác 「にもかかわらず」 đầy ngạc nhiên).\n\n**Giới hạn vế sau**: không dùng câu **nhờ vả, mệnh lệnh, rủ rê** (働きかけ), và cũng tránh câu **ý chí / quyết định** của người nói (✗ 「{申|もう}し{込|こ}んだものの、やめよう」). Vế sau là **tình trạng thực tế**: chưa làm được, vẫn còn do dự, vẫn còn vấn đề. Vế trước phải là **sự thật / điều có tính chắc chắn cao**, không dùng cho giả định (✗ 「もし{雨|あめ}が{降|ふ}るものの」).",
+      "examples": [
+        {"ja": "{免許|めんきょ}は{取|と}ったものの、もう{何年|なんねん}も{運転|うんてん}していない。", "vi": "Bằng lái thì lấy rồi đấy, nhưng đã mấy năm nay tôi chẳng lái xe.", "note": "Vた ＋ ものの · dạng gặp nhiều nhất"},
+        {"ja": "{仕事|しごと}を{引|ひ}き{受|う}けたものの、{一人|ひとり}でやり{遂|と}げられるか{自信|じしん}がない。", "vi": "Tuy đã nhận việc, nhưng tôi không tự tin có làm xong một mình được không.", "note": "Vế sau: vẫn còn lo lắng"},
+        {"ja": "この{辞書|じしょ}は{内容|ないよう}は{充実|じゅうじつ}しているものの、{重|おも}くて{持|も}ち{歩|ある}けない。", "vi": "Cuốn từ điển này nội dung thì phong phú, nhưng nặng quá không mang theo được.", "note": "Công nhận ưu điểm A, rồi nêu hạn chế"},
+        {"ja": "{来月|らいげつ}から{給料|きゅうりょう}は{上|あ}がるものの、{物価|ぶっか}も{上|あ}がるので{生活|せいかつ}は{楽|らく}にならない。", "vi": "Từ tháng sau lương thì tăng đấy, nhưng vật giá cũng tăng nên cuộc sống chẳng dễ thở hơn.", "note": "Tương lai nhưng chắc chắn → dùng được"},
+        {"ja": "{日本語|にほんご}を10{年|ねん}{勉強|べんきょう}したとはいうものの、{敬語|けいご}は{今|いま}でも{苦手|にがて}だ。", "vi": "Nói là đã học tiếng Nhật 10 năm thì cũng đúng, nhưng kính ngữ đến giờ tôi vẫn kém.", "note": "普通形 ＋ とはいうものの"},
+        {"ja": "{貯金|ちょきん}しなければと{思|おも}っている。とはいうものの、セールを{見|み}るとつい{買|か}ってしまう。", "vi": "Tôi biết là phải tiết kiệm. Nói thì nói vậy, chứ thấy giảm giá là lại lỡ mua.", "note": "Đầu câu như liên từ"}
+      ],
+      "compare": [
+        {"with": "〜のに", "diff": "「のに」 = bất mãn, trách móc, tiếc nuối (cảm xúc mạnh), văn nói. 「ものの」 = bình thản thừa nhận “đúng là A, nhưng…”, văn viết."},
+        {"with": "〜にもかかわらず", "diff": "「にもかかわらず」: B **xảy ra bất chấp** trở ngại A → ngạc nhiên. 「ものの」: A đã có, nhưng **kết quả mong đợi không đến** → vế sau thường là “chưa / không / vẫn còn vấn đề”."},
+        {"with": "〜といっても", "diff": "「とはいうものの」: A đúng, nhưng thực tế còn vấn đề. 「といっても」: A đúng, nhưng **mức độ thấp hơn bạn tưởng** (“nói là đi du lịch, chứ chỉ sang tỉnh bên”)."}
+      ],
+      "mistakes": [
+        "✗ {暇|ひま}ものの → ○ 暇なものの／暇であるものの (な形 cần な hoặc である)",
+        "✗ {約束|やくそく}はしたものの、{行|い}ってください。→ vế sau là nhờ vả, không dùng được",
+        "✗ もし{合格|ごうかく}するものの… → ものの không đi với giả định"
+      ],
+      "tip": "Mẫu 「Vた ＋（　　）＋ 〜ない／まだ〜ない／自信がない」 → nghĩ ngay 「ものの」. Thấy nhận định chung kiểu 「{暦|こよみ}の{上|うえ}では春」「{景気|けいき}が{回復|かいふく}した」 trước chỗ trống → 「とはいうものの」."
+    },
+    {
+      "id": "b14-3",
+      "pattern": "〜ながら(も)",
+      "reading": "〜ながら(も)",
+      "meaning": "Tuy… nhưng… (trạng thái A, lẽ ra dẫn đến kết quả khác, vậy mà…)",
+      "structure": ["Vます形 ＋ ながら(も) (chủ yếu động từ trạng thái: 知る・分かる・いる・ある・思う)", "い形 ＋ ながら(も)", "な形 ＋ ながら(も)／な形 ＋ でありながら", "N ＋ ながら(も)／N ＋ でありながら"],
+      "explain": "Bạn đã biết 「ながら」 = “vừa… vừa…” (vừa nghe nhạc vừa học). Ở N2, 「ながら(も)」 còn có nghĩa **“tuy… nhưng”**. Cách phân biệt rất đơn giản: nhìn từ đứng trước.\n\n- Trước là **động từ hành động** (食べる, 歩く, 聞く) → “vừa… vừa” (N4).\n- Trước là **trạng thái**: động từ trạng thái (知っている, 分かっている, ある), tính từ, danh từ → “**tuy… nhưng**” (N2).\n\nÝ nghĩa: “Từ trạng thái A, người ta sẽ đoán ra điều X, **nhưng thực tế khác**”. 「{知|し}っていながら{教|おし}えてくれなかった」 — biết mà (lẽ ra phải nói) lại không nói.\n\n**Cách dùng đặc biệt — “khiêm tốn nhận phần kém trước”**: đi với từ đánh giá thấp (小さい, 狭い, わずか, 微力, 不十分), người nói thừa nhận điểm yếu rồi nêu điểm tích cực: 「{狭|せま}いながらも{楽|たの}しい{我|わ}が{家|や}」 (nhà tuy chật nhưng vui). Các cụm cố định nên thuộc: **残念ながら** (rất tiếc là), **微力ながら** (tuy sức mọn), **わずかながら** (tuy ít ỏi), **失礼ながら** (thứ lỗi cho tôi nói thẳng), **我ながら** (chính mình cũng phải thấy).",
+      "nuance": "Hai vế **cùng một chủ ngữ** (✗ 「{兄|あに}は{背|せ}が{高|たか}いながら、{弟|おとうと}は{低|ひく}い」). Hơi văn viết; 「ながらも」 nhấn mạnh hơn 「ながら」. Vế sau khá tự do — có thể là ý chí khiêm tốn như 「微力ながらお{手伝|てつだ}いします」.",
+      "examples": [
+        {"ja": "{彼|かれ}は{事実|じじつ}を{知|し}っていながら、{何|なに}も{言|い}わなかった。", "vi": "Anh ta biết sự thật mà lại chẳng nói gì.", "note": "Động từ trạng thái 知っている ＋ ながら → “tuy… nhưng”"},
+        {"ja": "このアパートは{古|ふる}いながらも、{日当|ひあ}たりがよくて{気|き}に{入|い}っている。", "vi": "Căn hộ này tuy cũ nhưng nắng chiếu tốt nên tôi rất thích.", "note": "い形 ＋ ながらも"},
+        {"ja": "その{選手|せんしゅ}は{小柄|こがら}ながら、{誰|だれ}よりも{力強|ちからづよ}いプレーを{見|み}せた。", "vi": "Vận động viên đó tuy nhỏ con nhưng đã thể hiện lối chơi mạnh mẽ hơn bất kỳ ai.", "note": "な形 ＋ ながら"},
+        {"ja": "{彼女|かのじょ}は{新人|しんじん}ながら、{大|おお}きなプロジェクトのリーダーを{任|まか}されている。", "vi": "Cô ấy tuy là nhân viên mới nhưng đã được giao làm trưởng một dự án lớn.", "note": "N ＋ ながら"},
+        {"ja": "{悪|わる}いと{分|わ}かっていながらも、つい{夜更|よふ}かしをしてしまう。", "vi": "Tuy biết là không tốt nhưng tôi vẫn cứ thức khuya.", "note": "〜と分かっていながらも — rất hay gặp"},
+        {"ja": "{微力|びりょく}ながら、{地域|ちいき}の{復興|ふっこう}のお{手伝|てつだ}いをさせていただきたいと{思|おも}います。", "vi": "Tuy sức tôi có hạn, nhưng tôi xin được góp phần giúp khôi phục địa phương.", "note": "Cụm khiêm tốn cố định · vế sau là ý chí vẫn được"}
+      ],
+      "compare": [
+        {"with": "〜ながら (vừa… vừa…, N4)", "diff": "Cùng hình thức. Động từ **hành động** + ながら = đồng thời. **Trạng thái** (知っている, い形, N) + ながら(も) = tuy… nhưng. Có 「も」 thì chắc chắn là nghĩa “tuy… nhưng”."},
+        {"with": "〜つつ(も)", "diff": "「つつも」 gần như chỉ đi với động từ **tâm lý / nói** (思う, 知る, 言う) và vế sau là hành động trái với suy nghĩ. 「ながらも」 phạm vi rộng hơn: tính từ, danh từ cũng được (小さいながらも, 子どもながら). 「{小|ちい}さいつつも」 ✗."}
+      ],
+      "mistakes": [
+        "✗ {子|こ}どもでながら → ○ 子どもながら／子どもでありながら",
+        "✗ {私|わたし}は{若|わか}いながら、{父|ちち}は{元気|げんき}だ。→ hai vế phải cùng chủ ngữ",
+        "✗ {知|し}るながら → ○ 知りながら／知っていながら (động từ dùng ます形)"
+      ],
+      "tip": "Trước chỗ trống là **tính từ hoặc danh từ** (狭い, 小柄, 子ども, 新人) và câu có ý “tuy… nhưng” → 「ながら(も)」. Thấy 残念・微力・わずか・我 + （　　） → gần như chắc chắn là 「ながら」."
+    },
+    {
+      "id": "b14-4",
+      "pattern": "〜つつ(も)",
+      "reading": "〜つつ(も)",
+      "meaning": "Tuy nghĩ / biết / nói là… nhưng (hành động lại khác)",
+      "structure": ["Vます形 ＋ つつ(も)", "Hay gặp: 〜と思いつつ(も)・〜と知りつつ(も)・〜と言いつつ(も)・〜と分かりつつ(も)"],
+      "explain": "Hình ảnh: **“đầu nói một đằng, tay làm một nẻo”**. Trong lòng nghĩ A (phải làm / không nên làm), nhưng hành động thực tế lại ngược với A.\n\n「{早|はや}く{寝|ね}なきゃと{思|おも}いつつ、{朝|あさ}までゲームをしてしまった」 — biết là phải ngủ sớm mà vẫn chơi game đến sáng.\n\n- Động từ đứng trước gần như luôn là **động từ chỉ hoạt động tâm lý hoặc lời nói**: 思う, 知る, 分かる, 言う, 感じる, 気にする…\n- Vế sau thường là **việc lỡ làm / không làm được**: 〜てしまう, まだ〜ていない, 〜続けている.\n- Hay đi với các cụm hối lỗi: 「{申|もう}し{訳|わけ}ないと{思|おも}いつつ…」 (biết là phiền mà vẫn…).\n\nLưu ý: 「つつ」 **không có も** còn có nghĩa khác là “vừa… vừa…” (văn viết của ながら, 2課). Khi có **も** → chắc chắn là nghĩa “tuy… nhưng”.",
+      "nuance": "Văn viết, trang trọng hơn 「ながらも」. Hai vế **cùng chủ ngữ**.\n\n**Giới hạn vế sau**: không dùng câu thể hiện **phỏng đoán, mong muốn, ý chí, nhờ vả** của người nói (✗ 〜だろう・〜たい・〜よう・〜てください). Vế sau là hành vi thực tế.",
+      "examples": [
+        {"ja": "{体|からだ}に{悪|わる}いと{知|し}りつつ、なかなかたばこがやめられない。", "vi": "Biết là có hại cho sức khỏe mà mãi vẫn không bỏ được thuốc lá.", "note": "〜と知りつつ"},
+        {"ja": "{返事|へんじ}をしなければと{思|おも}いつつ、もう{一週間|いっしゅうかん}も{経|た}ってしまった。", "vi": "Cứ nghĩ là phải trả lời, vậy mà đã trôi qua cả tuần rồi.", "note": "Vế sau: việc không làm được"},
+        {"ja": "{部長|ぶちょう}は「{残業|ざんぎょう}を{減|へ}らそう」と{言|い}いつつ、{自分|じぶん}は{毎晩|まいばん}{遅|おそ}くまで{会社|かいしゃ}に{残|のこ}っている。", "vi": "Trưởng phòng miệng thì nói “hãy giảm làm thêm giờ”, vậy mà bản thân tối nào cũng ở lại công ty đến khuya.", "note": "〜と言いつつ: nói một đằng làm một nẻo"},
+        {"ja": "{彼女|かのじょ}は{文句|もんく}を{言|い}いつつも、{結局|けっきょく}{最後|さいご}まで{手伝|てつだ}ってくれた。", "vi": "Cô ấy tuy miệng càu nhàu nhưng rốt cuộc vẫn giúp đến cùng.", "note": "Vế sau là việc tích cực cũng được"},
+        {"ja": "{申|もう}し{訳|わけ}ないと{思|おも}いつつも、{締|し}め{切|き}りを{延|の}ばしていただくようお{願|ねが}いした。", "vi": "Tuy thấy rất áy náy, tôi vẫn xin được lùi hạn nộp.", "note": "Văn trang trọng, email công việc"}
+      ],
+      "compare": [
+        {"with": "〜ながら(も)", "diff": "Với động từ tâm lý thì gần như thay được cho nhau (思いながらも ≈ 思いつつも). Nhưng 「つつも」 không đi với tính từ / danh từ, và cứng hơn."},
+        {"with": "〜つつ (2課: vừa… vừa…)／〜つつある (đang dần…)", "diff": "「{景色|けしき}を{楽|たの}しみつつ{歩|ある}く」 = vừa ngắm cảnh vừa đi (đồng thời). 「{増|ふ}えつつある」 = đang tăng dần. Chỉ khi vế trước là suy nghĩ trái với hành động thì mới là nghĩa “tuy… nhưng”."}
+      ],
+      "mistakes": [
+        "✗ {悪|わる}いと{知|し}るつつ → ○ 知りつつ (ます形)",
+        "✗ {早|はや}く{寝|ね}ようと{思|おも}いつつも、{今夜|こんや}は{早|はや}く{寝|ね}よう。→ vế sau là ý chí, không dùng được"
+      ],
+      "tip": "Trước chỗ trống là 「〜と思い／〜と知り／〜と言い」 + vế sau là 「〜てしまう・まだ〜ない」 → 「つつ(も)」. Đề hay đặt 「ものの」 làm nhiễu: 「ものの」 cần thể thường (思ったものの), không đi với ます形."
+    },
+    {
+      "id": "b14-5",
+      "pattern": "〜といっても",
+      "reading": "〜といっても",
+      "meaning": "Nói là A, nhưng thực tế khác với điều người ta hình dung từ A (thường là không đến mức đó)",
+      "structure": ["N ＋ といっても", "普通形 ＋ といっても (な形・N có thể có hoặc không có だ)", "Đầu câu: といっても、…"],
+      "explain": "Khi nghe một từ, người nghe sẽ tưởng tượng ra một hình ảnh: “giám đốc” → công ty lớn; “đi du lịch nước ngoài” → chuyến đi xa, sang trọng. 「といっても」 dùng để **chỉnh hình ảnh đó lại cho đúng thực tế**: “nói là A thì đúng, nhưng thực ra…”.\n\n「{社長|しゃちょう}といっても、{社員|しゃいん}3{人|にん}の{小|ちい}さな{会社|かいしゃ}です」 — Nói là giám đốc, chứ thật ra chỉ là công ty 3 người.\n\n- Hay gặp nhất là **hạ mức độ** (như câu trên). Nhưng cũng có khi thực tế chỉ **khác kiểu** với điều người nghe đoán: 「{兄|あに}といっても、{血|ち}はつながっていない」 (gọi là anh, chứ không cùng huyết thống); 「{日本人|にほんじん}といっても、{海外|かいがい}{育|そだ}ちで{漢字|かんじ}はほとんど{読|よ}めない」 (là người Nhật đấy, nhưng lớn lên ở nước ngoài nên hầu như không đọc được kanji).\n- Vế sau hay có: **〜だけだ, ただ〜, ほんの〜, 〜程度だ, 〜くらいだ, それほど〜ない, 〜ほどではない**.\n- Người Nhật dùng rất nhiều để **khiêm tốn** khi bị khen: 「{料理|りょうり}が{得意|とくい}といっても、{簡単|かんたん}なものしか…」.\n- Đứng đầu câu 「といっても、…」 = “nói vậy chứ…” (bổ sung, chỉnh lại câu vừa nói).",
+      "nuance": "Dùng được cả văn nói lẫn văn viết, trung tính. Vế sau phải là điều **khác với hình ảnh mà A gợi ra** (thường là “không đến mức đó”). Nếu vế sau chỉ xác nhận hoặc phóng to hình ảnh của A thì không dùng được; muốn nói “dù A vẫn ngạc nhiên là B” thì dùng 「にもかかわらず」.",
+      "examples": [
+        {"ja": "{社長|しゃちょう}といっても、{社員|しゃいん}は{私|わたし}を{入|い}れて3{人|にん}だけです。", "vi": "Nói là giám đốc, chứ nhân viên tính cả tôi cũng chỉ có 3 người.", "note": "N ＋ といっても · vế sau: 〜だけ"},
+        {"ja": "{旅行|りょこう}に{行|い}ったといっても、{隣|となり}の{県|けん}に{一泊|いっぱく}しただけだ。", "vi": "Nói là đi du lịch, chứ thật ra chỉ sang tỉnh bên ngủ lại một đêm.", "note": "Vた ＋ といっても"},
+        {"ja": "{英語|えいご}が{話|はな}せるといっても、{日常会話|にちじょうかいわ}{程度|ていど}です。", "vi": "Nói là biết nói tiếng Anh, chứ cũng chỉ ở mức hội thoại hằng ngày thôi.", "note": "Khiêm tốn · vế sau: 〜程度"},
+        {"ja": "{値上|ねあ}げといっても、1{個|こ}につき10{円|えん}ほどなので、それほど{影響|えいきょう}はない。", "vi": "Nói là tăng giá, chứ mỗi cái chỉ khoảng 10 yên nên cũng không ảnh hưởng mấy.", "note": "Vế sau: それほど〜ない"},
+        {"ja": "{休|やす}みといっても、{家|いえ}で{溜|た}まった{家事|かじ}を{片付|かたづ}けるだけだ。", "vi": "Nói là ngày nghỉ, chứ chỉ ở nhà dọn đống việc nhà bị dồn lại.", "note": ""},
+        {"ja": "{在宅勤務|ざいたくきんむ}は{楽|らく}だ。といっても、{自分|じぶん}で{時間|じかん}を{管理|かんり}するのは{意外|いがい}に{難|むずか}しい。", "vi": "Làm việc tại nhà thì nhàn. Nói vậy chứ tự quản lý thời gian lại khó bất ngờ.", "note": "Đầu câu: chỉnh lại câu trước"}
+      ],
+      "compare": [
+        {"with": "〜からといって", "diff": "「といっても」 hạ **mức độ của chính A** (giám đốc nhưng công ty nhỏ). 「からといって」 phủ định **suy luận từ A sang B** (là giám đốc thì chưa chắc giàu)."},
+        {"with": "〜とはいうものの", "diff": "「とはいうものの」: A đúng nhưng **vẫn còn vấn đề / chưa như mong đợi**. 「といっても」: A đúng nhưng **mức độ nhỏ hơn tưởng tượng**."}
+      ],
+      "mistakes": [
+        "✗ {社長|しゃちょう}といっても、とてもお{金持|かねも}ちだ。→ vế sau chỉ xác nhận hình ảnh “giám đốc thì giàu”; といっても cần điều khác với hình ảnh đó (〜だけ・それほど〜ない・実は〜ではない)",
+        "Đừng nhầm với 「〜ても」 giả định: 「{雨|あめ}が{降|ふ}っても{行|い}く」 (dù có mưa vẫn đi) — 「といっても」 không dùng cho giả định."
+      ],
+      "tip": "Nhìn vế sau: có **だけ・ただ・ほんの・程度・くらい・それほど〜ない** → 「といっても」. Hoặc vế sau sửa lại cách hiểu của người nghe (〜ではなく…, 実は…). Đây là mẫu duy nhất trong bài có “hướng chỉnh lại / giảm mức độ”."
+    },
+    {
+      "id": "b14-6",
+      "pattern": "〜からといって",
+      "reading": "〜からといって",
+      "meaning": "Chỉ vì A thì không có nghĩa là B / không nên B",
+      "structure": ["普通形 ＋ からといって (N・な形: 〜だからといって)", "Văn nói: 〜からって", "Đầu câu: だからといって、…"],
+      "explain": "Người ta hay suy luận: “Vì A nên đương nhiên B” (đắt thì chắc tốt; người Nhật thì chắc giỏi kính ngữ). 「からといって」 dùng để **bác bỏ suy luận đó**: “**Chỉ vì A mà cho rằng B thì không đúng**”.\n\nCấu trúc gần như cố định: **A からといって ＋ B（phủ định）**.\n\nVế sau thường là:\n- **Phủ định từng phần**: 〜とは限らない (chưa chắc), 〜わけではない (không hẳn), 〜とは言えない, 〜ことにはならない.\n- **Lời khuyên / cấm**: 〜てはいけない, 〜べきではない, 〜のはよくない, 〜ことはない (không cần phải).\n\n「{高|たか}いからといって、いいものとは{限|かぎ}らない」 — Đắt chưa chắc đã tốt.\n\n「だからといって」 đứng đầu câu = “nhưng dù vậy cũng không có nghĩa là…”, rất hay gặp trong tranh luận.",
+      "nuance": "Dùng cả nói lẫn viết; văn nói rút gọn thành 「からって」. Sắc thái **phản bác, can ngăn**. Vế sau phải có ý phủ định — không dùng với câu khẳng định thường.",
+      "examples": [
+        {"ja": "{値段|ねだん}が{高|たか}いからといって、{品質|ひんしつ}がいいとは{限|かぎ}らない。", "vi": "Giá đắt thì chưa chắc chất lượng đã tốt.", "note": "〜とは限らない"},
+        {"ja": "{日本人|にほんじん}だからといって、{誰|だれ}でも{敬語|けいご}が{正|ただ}しく{使|つか}えるわけではない。", "vi": "Không phải cứ là người Nhật thì ai cũng dùng kính ngữ chuẩn.", "note": "N ＋ だからといって · 〜わけではない"},
+        {"ja": "{一度|いちど}{失敗|しっぱい}したからといって、{諦|あきら}めることはないよ。", "vi": "Chỉ thất bại một lần thôi mà, đâu cần phải bỏ cuộc.", "note": "〜ことはない = không cần"},
+        {"ja": "{若|わか}いからといって、{無理|むり}を{重|かさ}ねてはいけない。", "vi": "Dù còn trẻ cũng không được làm quá sức liên tục.", "note": "〜てはいけない"},
+        {"ja": "{彼|かれ}の{気持|きも}ちはよく{分|わ}かる。だからといって、{嘘|うそ}をついていいことにはならない。", "vi": "Tôi rất hiểu cảm giác của anh ấy. Nhưng như thế không có nghĩa là được phép nói dối.", "note": "だからといって đầu câu"},
+        {"ja": "「{雨|あめ}だからって、{一日中|いちにちじゅう}{家|いえ}にいることないじゃない。」", "vi": "“Trời mưa thôi mà, đâu cần phải ở lì trong nhà cả ngày.”", "note": "Văn nói: からって"}
+      ],
+      "compare": [
+        {"with": "〜といっても", "diff": "「といっても」 = A thì đúng nhưng **mức độ nhỏ**. 「からといって」 = A thì đúng nhưng **không suy ra được B**."},
+        {"with": "〜ても", "diff": "「ても」 là giả định chung (dù có A thì vẫn B), vế sau khẳng định được: 「{高|たか}くても{買|か}う」. 「からといって」 dựa trên **sự thật A** và vế sau phải phủ định."}
+      ],
+      "mistakes": [
+        "✗ {安|やす}いからといって、たくさん{買|か}った。→ ○ 安いからといって、たくさん買う必要はない。(vế sau phải phủ định)",
+        "✗ {学生|がくせい}からといって → ○ 学生だからといって (N cần だ)"
+      ],
+      "tip": "Cuối câu có **とは限らない・わけではない・とは言えない・てはいけない** → gần như chắc chắn chỗ trống là 「からといって」. Ở dạng 並べ替え, 「からといって」 luôn đứng ngay sau mệnh đề lý do (Vた／〜だ)."
+    }
+  ],
+  "summary": [
+    {"pattern": "〜にもかかわらず", "meaning": "mặc dù… vậy mà…", "key": "ngạc nhiên, trang trọng; な形/N + である; vế sau không ý chí"},
+    {"pattern": "〜ものの・〜とはいうものの", "meaning": "tuy A đúng nhưng kết quả mong đợi không đến", "key": "Vたものの〜ない; không giả định, không nhờ vả"},
+    {"pattern": "〜ながら(も)", "meaning": "tuy… nhưng (trạng thái)", "key": "tính từ / N / 知っている + ながら; cùng chủ ngữ; 残念ながら・微力ながら"},
+    {"pattern": "〜つつ(も)", "meaning": "tuy nghĩ/biết… nhưng vẫn làm", "key": "思い・知り・言い + つつも; vế sau không ý chí"},
+    {"pattern": "〜といっても", "meaning": "nói là A nhưng thực tế khác (thường là không đến mức đó)", "key": "vế sau: だけ・程度・それほど〜ない・実は〜ではない"},
+    {"pattern": "〜からといって", "meaning": "chỉ vì A không có nghĩa là B", "key": "vế sau: とは限らない・わけではない・てはいけない"}
+  ],
+  "quiz": [
+    {"id": "b14-q1", "kind": "form", "ref": "b14-1", "q": "{台風|たいふう}が{近|ちか}づいている（　　）、{彼|かれ}は{一人|ひとり}で{釣|つ}りに{出|で}かけていった。", "options": ["にもかかわらず", "からといって", "といっても", "つつも"], "answer": 0, "vi": "Mặc dù bão đang đến gần, anh ấy vẫn một mình đi câu cá.", "why": "Có trở ngại (bão) mà vẫn làm → người nói ngạc nhiên → **にもかかわらず**. 「からといって」 cần vế sau phủ định (とは限らない…); 「といっても」 cần vế sau hạ mức độ (〜だけ); 「つつも」 phải nối với ます形 (近づきつつも) và đi với động từ suy nghĩ."},
+    {"id": "b14-q2", "kind": "form", "ref": "b14-2", "q": "{大学院|だいがくいん}に{進学|しんがく}した（　　）、{研究|けんきゅう}テーマがなかなか{決|き}まらない。", "options": ["からといって", "ものの", "ながらも", "とたん"], "answer": 1, "vi": "Tuy đã học lên cao học, nhưng mãi vẫn chưa chọn được đề tài nghiên cứu.", "why": "「Vた ＋ ものの ＋ 〜ない」: đã làm A nhưng không tiến triển → **ものの**. 「ながらも」 không nối với Vた (phải là ます形); 「からといって」 cần vế sau là phủ định suy luận (〜わけではない); 「とたん」 = vừa… thì ngay lập tức, không hợp với 「なかなか決まらない」."},
+    {"id": "b14-q3", "kind": "form", "ref": "b14-3", "q": "その{店|みせ}は{小|ちい}さい（　　）、{地元|じもと}の{人|ひと}たちにとても{愛|あい}されている。", "options": ["からといって", "といっても", "つつも", "ながらも"], "answer": 3, "vi": "Quán đó tuy nhỏ nhưng được người dân địa phương rất yêu mến.", "why": "い形 + “tuy… nhưng” → **ながらも**. 「つつも」 không đi với tính từ; 「からといって」 cần vế sau phủ định; 「といっても」 cần vế sau hạ mức độ (〜だけ, それほど〜ない), còn ở đây vế sau là đánh giá tích cực."},
+    {"id": "b14-q4", "kind": "form", "ref": "b14-4", "q": "ダイエット{中|ちゅう}だと{思|おも}い（　　）、ついケーキを{注文|ちゅうもん}してしまった。", "options": ["ものの", "からといって", "つつも", "といっても"], "answer": 2, "vi": "Dù vẫn nghĩ mình đang ăn kiêng, tôi lại lỡ gọi bánh ngọt.", "why": "「思い」 là ます形 + vế sau là việc lỡ làm trái với suy nghĩ → **つつも**. Ba mẫu còn lại đều không nối với ます形: phải là 思ったものの, 思うからといって, 思うといっても."},
+    {"id": "b14-q5", "kind": "order", "ref": "b14-6", "q": "{有名|ゆうめい}な ＿＿＿ ＿＿＿ ★ ＿＿＿ とは{限|かぎ}らない。", "options": ["からといって", "仕事ができる", "大学を", "出た"], "order": [2, 3, 0, 1], "answer": 0, "vi": "Tốt nghiệp trường đại học nổi tiếng thì chưa chắc đã làm việc giỏi.", "why": "有名な **大学を 出た からといって 仕事ができる** とは限らない → ★ (ô thứ 3) = 「からといって」. 「有名な」 bổ nghĩa cho 「大学」; 「からといって」 đứng sau mệnh đề lý do 「出た」; 「仕事ができる」 nối với 「とは限らない」."},
+    {"id": "b14-q6", "kind": "form", "ref": "b14-5", "q": "{料理|りょうり}が{得意|とくい}（　　）、{作|つく}れるのはカレーとチャーハンくらいだ。", "options": ["からといって", "といっても", "にもかかわらず", "つつも"], "answer": 1, "vi": "Nói là nấu ăn giỏi, chứ món tôi nấu được cũng chỉ có cà ri với cơm rang.", "why": "Vế sau 「〜くらいだ」 hạ mức độ của “nấu ăn giỏi” → **といっても**. 「得意からといって」「得意にもかかわらず」 sai hình thức (cần 得意だから／得意であるにもかかわらず); 「つつも」 cần ます形 của động từ."},
+    {"id": "b14-q7", "kind": "usage", "ref": "b14-1", "q": "「〜にもかかわらず」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["雨が降っているにもかかわらず、傘を持って行きなさい。", "熱があるにもかかわらず、今日は早く休もう。", "安いにもかかわらず、たくさん買いたい。", "祝日にもかかわらず、駅前はいつもより人が少なかった。"], "answer": 3, "vi": "(4) Mặc dù là ngày lễ mà khu trước ga lại vắng người hơn mọi khi.", "why": "(4) sự thật đáng ngạc nhiên đã xảy ra → đúng. (1) vế sau là mệnh lệnh; (2) vế sau là ý chí 〜よう, và nghĩa cũng không phải “bất chấp”; (3) vế sau là mong muốn 〜たい. 「にもかかわらず」 không đi với ý chí / mệnh lệnh / mong muốn."}
+  ],
+  "practice": [
+    {"id": "b14-p1", "kind": "form", "ref": "b14-1", "q": "{多|おお}くの{住民|じゅうみん}が{反対|はんたい}した（　　）、{工事|こうじ}は{予定|よてい}どおり{始|はじ}められた。", "options": ["といっても", "にもかかわらず", "からといって", "ながらに"], "answer": 1, "vi": "Mặc dù nhiều người dân phản đối, công trình vẫn được khởi công đúng kế hoạch.", "why": "Trở ngại (phản đối) nhưng việc vẫn diễn ra, giọng văn tin tức → **にもかかわらず**. 「といっても」 cần vế sau hạ mức độ; 「からといって」 cần vế sau phủ định; 「ながらに」 là mẫu khác (涙ながらに = trong nước mắt), không nối với Vた."},
+    {"id": "b14-p2", "kind": "form", "ref": "b14-2", "q": "{新|あたら}しいパソコンを{買|か}った（　　）、{設定|せってい}の{仕方|しかた}がわからず、まだ{箱|はこ}から{出|だ}していない。", "options": ["ものの", "からといって", "とたん", "つつ"], "answer": 0, "vi": "Tuy đã mua máy tính mới, nhưng vì không biết cài đặt nên tôi vẫn chưa lấy ra khỏi hộp.", "why": "Đã làm A nhưng không tiến triển (まだ〜ていない) → **ものの**. 「からといって」 cần phủ định suy luận; 「とたん」 = vừa… thì lập tức, không hợp với trạng thái “vẫn chưa”; 「つつ」 cần ます形 (買いつつ)."},
+    {"id": "b14-p3", "kind": "form", "ref": "b14-2", "q": "{暦|こよみ}の{上|うえ}では{春|はる}（　　）、まだまだ{厚|あつ}いコートが{手放|てばな}せない。", "options": ["からといって", "つつも", "とはいうものの", "とたん"], "answer": 2, "vi": "Theo lịch thì đã là mùa xuân, nhưng vẫn chưa thể rời chiếc áo khoác dày.", "why": "Thừa nhận nhận định chung (theo lịch là xuân) nhưng thực tế chưa khớp → **とはいうものの** (N đi thẳng, không cần だ). 「春からといって」 sai hình thức (cần 春だからといって); 「つつも」 cần ます形; 「とたん」 cần Vた."},
+    {"id": "b14-p4", "kind": "form", "ref": "b14-3", "q": "{彼|かれ}は{目|め}が{不自由|ふじゆう}（　　）、{世界中|せかいじゅう}を{一人|ひとり}で{旅|たび}している。", "options": ["ながらも", "つつも", "からといって", "とたんに"], "answer": 0, "vi": "Anh ấy tuy khiếm thị nhưng vẫn một mình đi du lịch khắp thế giới.", "why": "な形 「不自由」 + “tuy… nhưng”, cùng chủ ngữ → **ながらも**. 「つつも」 không đi với tính từ; 「不自由からといって」 sai hình thức và vế sau không phủ định; 「とたんに」 cần Vた."},
+    {"id": "b14-p5", "kind": "form", "ref": "b14-4", "q": "{父|ちち}は「もう{年|とし}だから{無理|むり}はしない」と{言|い}い（　　）、{毎朝|まいあさ}10キロも{走|はし}っている。", "options": ["ものの", "つつ", "からといって", "といっても"], "answer": 1, "vi": "Bố tôi miệng thì nói “già rồi nên không gắng sức đâu”, vậy mà sáng nào cũng chạy tận 10 km.", "why": "「言い」 (ます形) + hành động trái với lời nói → **つつ** (〜と言いつつ). Ba phương án còn lại không nối với ます形: 言ったものの, 言うからといって, 言うといっても."},
+    {"id": "b14-p6", "kind": "form", "ref": "b14-5", "q": "{一人暮|ひとりぐ}らし（　　）、{実家|じっか}から{歩|ある}いて5{分|ふん}のアパートなので、{夕飯|ゆうはん}はほとんど{実家|じっか}で{食|た}べている。", "options": ["つつも", "からといって", "とたんに", "といっても"], "answer": 3, "vi": "Nói là sống một mình, chứ căn hộ cách nhà bố mẹ có 5 phút đi bộ nên bữa tối hầu như tôi đều ăn ở nhà.", "why": "Hình ảnh “sống một mình” bị kéo xuống bằng chi tiết thực tế (gần nhà, ăn ở nhà) → **といっても**. 「つつも」 cần ます形 của động từ; 「からといって」 cần だ (一人暮らしだからといって) và vế sau phủ định; 「とたんに」 cần Vた."},
+    {"id": "b14-p7", "kind": "form", "ref": "b14-6", "q": "セールで{安|やす}い（　　）、{必要|ひつよう}のないものまで{買|か}うのはやめたほうがいい。", "options": ["にもかかわらず", "ものの", "からといって", "といっても"], "answer": 2, "vi": "Chỉ vì đang giảm giá mà mua cả những thứ không cần thì không nên.", "why": "Phủ định suy luận “rẻ thì mua”, vế sau là lời khuyên → **からといって**. 「にもかかわらず」「ものの」 không đi với lời khuyên / 働きかけ ở vế sau; 「といっても」 cần vế sau hạ mức độ của “rẻ” (rẻ chứ chỉ giảm 5%…)."},
+    {"id": "b14-p8", "kind": "order", "ref": "b14-4", "q": "{夜中|よなか}のラーメンは ＿＿＿ ＿＿＿ ★ ＿＿＿ {食|た}べてしまう。", "options": ["つい", "つつも", "体に悪いと", "知り"], "order": [2, 3, 1, 0], "answer": 1, "vi": "Tôi biết mì ramen lúc nửa đêm có hại cho sức khỏe, vậy mà vẫn cứ lỡ ăn.", "why": "夜中のラーメンは **体に悪いと 知り つつも つい** 食べてしまう → ★ (ô thứ 3) = 「つつも」. 「〜と知り」 + 「つつも」 thành khối; 「つい」 bổ nghĩa cho 「食べてしまう」 nên đứng cuối."},
+    {"id": "b14-p9", "kind": "order", "ref": "b14-2", "q": "＿＿＿ ＿＿＿ ★ ＿＿＿、まだニュースが{聞|き}き{取|と}れないことが{多|おお}い。", "options": ["留学して", "とはいうものの", "日本に", "3年になる"], "order": [2, 0, 3, 1], "answer": 3, "vi": "Nói là đã du học Nhật được 3 năm rồi, nhưng tôi vẫn thường không nghe được tin tức.", "why": "**日本に 留学して 3年になる とはいうものの**、まだ… → ★ (ô thứ 3) = 「3年になる」. 「日本に」 nối với 「留学して」; 「Vて + 〜年になる」 = đã được ~ năm kể từ khi; 「とはいうものの」 đứng sau thể thường 「なる」."},
+    {"id": "b14-p10", "kind": "usage", "ref": "b14-5", "q": "「〜といっても」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["毎日運動しているといっても、近所を15分ほど散歩するだけです。", "疲れているといっても、早く寝なさい。", "彼は来るといっても、たぶん来るだろう。", "安いといっても、たくさん買ってしまった。"], "answer": 0, "vi": "(1) Nói là ngày nào cũng tập thể dục, chứ chỉ đi bộ quanh nhà khoảng 15 phút.", "why": "(1) vế sau 「〜だけです」 hạ mức độ của “tập thể dục mỗi ngày” → đúng. (2) vế sau là mệnh lệnh, nghĩa cũng không phải hạ mức độ; (3) vế sau không chỉnh lại hình ảnh, câu vô nghĩa; (4) vế sau không hạ mức độ của “rẻ” — muốn nói “rẻ nên mua nhiều” thì dùng 「安かったので」."},
+    {"id": "b14-p11", "kind": "usage", "ref": "b14-3", "q": "「〜ながら(も)」が「〜けれども」の{意味|いみ}で{正|ただ}しく{使|つか}われているものを{選|えら}びなさい。", "options": ["電車が遅れていながらも、私は会議に間に合った。", "子どもながらも、明日は早く起きよう。", "彼女は事情を知っていながら、私には教えてくれなかった。", "部長ながら、会議に出席してください。"], "answer": 2, "vi": "(3) Cô ấy biết rõ sự tình, vậy mà lại không nói cho tôi.", "why": "(3) động từ trạng thái 「知っている」 + ながら = tuy… nhưng, cùng chủ ngữ → đúng. (1) chủ ngữ hai vế khác nhau (電車 ↔ 私) — 「ながら(も)」 đòi hỏi cùng chủ ngữ; nói 「電車が遅れていたにもかかわらず」; (2) chủ ngữ và ý nghĩa không khớp (ai là trẻ con?), vế sau ý chí kỳ lạ; (4) vế sau là nhờ vả và nghĩa “tuy là trưởng phòng” không hợp."}
+  ],
+  "test": [
+    {"id": "b14-t1", "kind": "form", "ref": "b14-1", "q": "{関係者|かんけいしゃ}の{懸命|けんめい}な{調査|ちょうさ}（　　）、{事故|じこ}の{原因|げんいん}はいまだに{分|わ}かっていない。", "options": ["にもかかわらず", "からといって", "といっても", "つつも"], "answer": 0, "vi": "Mặc dù những người liên quan đã điều tra hết sức, nguyên nhân tai nạn đến nay vẫn chưa rõ.", "why": "N + chỗ trống, “dù có A vẫn không B”, văn tin tức → **にもかかわらず**. 「からといって」 cần だ sau N và vế sau phủ định suy luận; 「といっても」 cần vế sau hạ mức độ; 「つつも」 cần ます形 của động từ."},
+    {"id": "b14-t2", "kind": "form", "ref": "b14-2", "q": "{頭|あたま}では{分|わ}かっている（　　）、なかなか{行動|こうどう}に{移|うつ}せない。", "options": ["からといって", "ものの", "つつ", "からには"], "answer": 1, "vi": "Trong đầu thì hiểu rồi đấy, nhưng mãi vẫn không biến thành hành động được.", "why": "Thừa nhận A (hiểu) nhưng kết quả mong đợi (hành động) không đến → **ものの**. 「つつ」 cần ます形 (分かりつつ); 「からといって」 cần vế sau là phủ định suy luận (〜わけではない); 「からには」 = đã… thì phải… (17課), vế sau phải là quyết tâm / nghĩa vụ, ngược nghĩa với “không làm được”."},
+    {"id": "b14-t3", "kind": "form", "ref": "b14-6", "q": "{一度|いちど}{会|あ}って{話|はな}した（　　）、{相手|あいて}のことを{何|なに}もかも{理解|りかい}できるわけではない。", "options": ["とたん", "にもかかわらず", "つつも", "からといって"], "answer": 3, "vi": "Chỉ gặp và nói chuyện một lần thì không có nghĩa là hiểu hết mọi thứ về đối phương.", "why": "Cuối câu 「〜わけではない」 phủ định suy luận “gặp rồi thì hiểu” → **からといって**. 「とたん」 = vừa… thì lập tức, không hợp với わけではない; 「にもかかわらず」 cần vế sau là sự việc đáng ngạc nhiên; 「つつも」 cần ます形."},
+    {"id": "b14-t4", "kind": "form", "ref": "b14-3", "q": "{彼|かれ}は{若|わか}い（　　）、{部下|ぶか}からの{信頼|しんらい}も{厚|あつ}く、{会社|かいしゃ}を{支|ささ}える{存在|そんざい}になっている。", "options": ["つつも", "からといって", "ながらも", "といっても"], "answer": 2, "vi": "Anh ấy tuy còn trẻ nhưng được cấp dưới tin tưởng, đã trở thành trụ cột của công ty.", "why": "い形 + “tuy… nhưng” (trẻ → lẽ ra chưa được tin tưởng, nhưng thực tế ngược lại), cùng chủ ngữ → **ながらも**. 「つつも」 không đi với tính từ; 「からといって」 cần vế sau phủ định; 「といっても」 cần vế sau hạ mức độ của “trẻ” (trẻ chứ cũng 35 tuổi rồi)."},
+    {"id": "b14-t5", "kind": "order", "ref": "b14-5", "q": "{私|わたし}の{趣味|しゅみ}は{登山|とざん}です。＿＿＿ ＿＿＿ ★ ＿＿＿ {登|のぼ}る{程度|ていど}ですが。", "options": ["低い山に", "登山", "近所の", "といっても"], "order": [1, 3, 2, 0], "answer": 2, "vi": "Sở thích của tôi là leo núi. Nói là leo núi, chứ cũng chỉ ở mức leo mấy ngọn núi thấp gần nhà thôi.", "why": "**登山 といっても 近所の 低い山に** 登る程度ですが → ★ (ô thứ 3) = 「近所の」. 「N + といっても」 thành khối; 「近所の」 bổ nghĩa cho 「低い山」; 「山に」 nối với 「登る」."},
+    {"id": "b14-t6", "kind": "order", "ref": "b14-1", "q": "{私|わたし}が ＿＿＿ ＿＿＿ ★ ＿＿＿ {同|おな}じ{質問|しつもん}をしてきた。", "options": ["彼はまた", "にもかかわらず", "何度も", "説明した"], "order": [2, 3, 1, 0], "answer": 1, "vi": "Mặc dù tôi đã giải thích nhiều lần, anh ta lại hỏi đúng câu hỏi đó.", "why": "私が **何度も 説明した にもかかわらず 彼はまた** 同じ質問をしてきた → ★ (ô thứ 3) = 「にもかかわらず」. 「私が」 là chủ ngữ của 「説明した」; 「彼はまた」 là chủ ngữ của vế sau."},
+    {"id": "b14-t7", "kind": "usage", "ref": "b14-6", "q": "「〜からといって」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["忙しいからといって、食事を抜くのは体によくない。", "雨が降ったからといって、試合は中止になった。", "安いからといって、たくさん買いましょう。", "日本に住んでいるからといって、日本語が上手だ。"], "answer": 0, "vi": "(1) Dù bận đến mấy, bỏ bữa cũng không tốt cho sức khỏe.", "why": "(1) vế sau là lời khuyên phủ định (〜のはよくない) → đúng. (2) vế sau là kết quả khẳng định → chỉ cần 「雨で」「雨が降ったので」; (3) vế sau là rủ rê khẳng định; (4) vế sau khẳng định — phải là 「上手だとは限らない」."},
+    {"id": "b14-t8", "kind": "form", "ref": "b14-4", "q": "{兄|あに}は「{今年|ことし}こそ{禁煙|きんえん}する」と（　　）、もう{何年|なんねん}もたばこを{吸|す}い{続|つづ}けている。", "options": ["言ったからといって", "言うといっても", "言いつつ", "言ったとたん"], "answer": 2, "vi": "Anh tôi miệng nói “năm nay nhất định bỏ thuốc”, vậy mà đã mấy năm nay vẫn hút liên tục.", "why": "Lời nói và hành động trái nhau, vế sau là trạng thái kéo dài → **言いつつ**. 「言ったからといって」 cần vế sau phủ định suy luận; 「言うといっても」 cần vế sau hạ mức độ; 「言ったとたん」 cần một sự việc bất ngờ xảy ra ngay lập tức, không hợp với “mấy năm nay”."}
+  ]
+}

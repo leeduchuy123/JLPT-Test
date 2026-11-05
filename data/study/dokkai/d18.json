@@ -1,0 +1,210 @@
+{
+  "id": "d18",
+  "track": "dokkai",
+  "intro": "Bài này luyện dạng **統合理解** (hiểu tổng hợp) — trong đề JLPT N2 đây là **問題12**: bạn đọc **hai bài ngắn A và B** (mỗi bài khoảng 250–350 字) viết về **cùng một chủ đề**, rồi trả lời **2 câu hỏi**. Cái khó không nằm ở từng bài (mỗi bài đều ngắn, dễ hơn 長文) mà ở chỗ phải **đặt hai bài cạnh nhau**: chúng giống nhau ở đâu, khác nhau ở đâu.\n\nSách chia câu hỏi của dạng này thành hai kiểu — **統合** (gộp) và **比較** (so sánh), trong đó so sánh có hai hướng:\n- **Gộp thông tin (統合する問題)**: A cho biết một phần, B cho biết phần khác về **cùng một đối tượng**; phải ghép hai bên mới mô tả đúng đối tượng đó. Ví dụ: hai người cùng viết về một quán ăn mới — A nhắc giá rẻ và mở đến khuya, B nhắc phải xếp hàng lâu và chỉ nhận tiền mặt → câu 「どのような店か」 cần thông tin của **cả hai**. Bẫy: phương án lấy **đề xuất** của một người (「〜にすべきだ」) như thể đó là sự thật về đối tượng.\n- **So sánh ý kiến (比較する問題)**: so quan điểm của hai người viết — tìm **điểm chung** (「AとBで共通して述べられていることは何か」) hoặc **lập trường của mỗi bên** (「AとBは〜についてどのような立場をとっているか」「Aは〜、Bは〜」). Gạch dưới từ **đánh giá tốt** (ありがたい, うれしい, 貴重だ) và từ **phê phán / đề xuất** (〜は困る, 〜てはどうだろう, 〜べきだ) để biết mỗi bên khen hay chê.\n- **So sánh thông tin (cũng là 比較する問題)**: so dữ kiện giữa hai văn bản — điển hình là một thông báo / email và một thông báo / email **thay đổi**. Tìm mục nào B đã đổi (ngày giờ, địa điểm, quy mô) và mục nào B ghi 「変更ありません」 — mục đó vẫn theo A.\n\nSách cũng nhấn mạnh: **đề dẫn (問題文) chứa thông tin quan trọng** — nó cho biết A, B là loại văn gì (hai ý kiến về cùng một việc, các email trao đổi qua lại, một thông báo và một thông báo thay đổi…). Văn bản có thể là kiểu 評論・エッセイ (第1部) hoặc kiểu 広告・お知らせ (第2部).\n\nCông cụ trung tâm của bài này là **bảng so sánh A ↔ B**: mỗi bên đứng ở đâu (賛成／反対／条件付き), vì sao, thừa nhận điều gì của phía kia, đề xuất gì. Có bảng này, hai câu hỏi gần như tự trả lời. Thời gian hợp lý: **khoảng 10 phút cho một cặp A–B**.",
+  "strategy": [
+    {"title": "Bước 1 · Đọc 問題文 để biết A và B là loại văn gì", "body": "Đừng bỏ qua dòng đề dẫn phía trên bài. Nó cho bạn biết **quan hệ giữa hai bài** trước khi đọc:\n- 「同じテーマについて書かれた文章である」 → hai ý kiến; khả năng cao là **khác lập trường**.\n- 「相談者Aからの相談と、それに対するBとCからの回答」 → đọc lời 相談 để nắm vấn đề, rồi so **lời khuyên** của từng người.\n- 「お知らせ」と「変更のお知らせ」, hoặc tiêu đề email có 【{変更|へんこう}】 → bài sau **đè lên** bài trước ở một số điểm.\n- 「AはXさんからのメール、BはYさんからの返信である」 → đọc theo **thứ tự thời gian**: ai hỏi / đề nghị gì, ai trả lời thế nào. Có khi giữa A và B còn một email bị lược (tiêu đề 「Re: Re:」), phải tự suy ra nội dung của nó từ B.\n\nĐồng thời để ý **người viết** (保護者, 教師, 経営者, 会社員…): lập trường thường gắn với vai trò của họ."},
+    {"title": "Bước 2 · Đọc 2 câu hỏi, xác định dạng: gộp hay so sánh", "body": "Các dạng câu hỏi hay gặp:\n- 「AとBで**共通して**述べられていることは何か」「AとBの**どちらにも**触れられている点は何か」 → tìm ô trong bảng mà **cả hai** cùng có.\n- 「AとBは〜について**どのような立場**をとっているか」 → phương án thường có dạng 「Aは〜、Bは〜」; phải đúng **cả hai nửa**.\n- 「Bの筆者は〜についてどのように考えているか」 → chỉ hỏi một bên, nhưng phương án sai hay **mượn ý của bên kia**.\n- 「〜したい人は、どうすればよいか」「正しいものはどれか」 (với お知らせ／メール) → so **thông tin** A và B: mục nào B đã đổi, mục nào vẫn theo A, rồi ghép thành thông tin cuối cùng.\n\nBiết dạng câu hỏi rồi mới đọc, bạn sẽ biết cần ghi gì vào bảng."},
+    {"title": "Bước 3 · Đọc A: chốt lập trường, lý do, đề xuất", "body": "Đọc A và ghi nhanh **3 ô**:\n- **立場**: 賛成 / 反対 / 条件付き (đồng ý có điều kiện) / 慎重 (thận trọng).\n- **理由**: 1–2 lý do chính.\n- **提案**: đề xuất cụ thể (「〜べきだ」「〜てほしい」「〜てはどうか」).\n\nLập trường thường lộ rõ ở **câu đầu** (「〜に私は賛成だ」) hoặc **câu cuối** (「〜のではないだろうか」「〜てほしい」). Bài ngắn nên tác giả ít vòng vo."},
+    {"title": "Bước 4 · Đọc B: chú ý phần “thừa nhận” và chỗ đảo chiều", "body": "B thường được viết như một **phản hồi** lệch hướng với A. Mẫu quen thuộc:\n\n「〜という声は**理解できる**。〜は私も**同じ**だ。**しかし**、〜」\n\n- Phần **trước しかし** = điều B **thừa nhận** → đây chính là nơi hay chứa **điểm chung** với A.\n- Phần **sau しかし** = lập trường thật của B.\n- Cuối bài, để ý **mức độ**: B phản đối hoàn toàn, hay chỉ muốn có điều kiện (「認めるのであれば、まず〜してからにすべきだ」)? Nhiều phương án sai chỉ khác đáp án ở **độ mạnh** này (全面的に反対 ↔ 条件付き)."},
+    {"title": "Bước 5 · Lập bảng so sánh A ↔ B", "body": "Viết ra nháp một bảng nhỏ, mỗi hàng một tiêu chí:\n- 立場: A ＿＿ ／ B ＿＿\n- 理由: A ＿＿ ／ B ＿＿\n- Thừa nhận điều gì: A ＿＿ ／ B ＿＿\n- Đề xuất: A ＿＿ ／ B ＿＿\n\nRồi đánh dấu:\n- Ô mà **hai bên cùng nói** (dù bằng từ khác nhau) → **共通点**.\n- Ô mà **chỉ một bên nói** → dùng để loại phương án ở câu 共通.\n- Ô mà **hai bên ngược nhau** → 相違点, dùng cho câu 立場.\n\nVới お知らせ: bảng là **mục / A (ban đầu) / B (thay đổi)** — mục nào B ghi 「変更ありません」 thì vẫn theo A."},
+    {"title": "Bước 6 · Loại 4 kiểu bẫy của 統合理解", "body": "- **Chỉ một bên nói**: câu hỏi 共通 nhưng phương án là ý **chỉ có trong A** (hoặc chỉ B). Đây là bẫy số 1.\n- **Đảo A ↔ B**: 「Aは反対し、Bは賛成している」 khi thực tế ngược lại.\n- **Sai độ mạnh**: B chỉ 「慎重」 hay 「条件付き」 mà phương án nói 「全面的に反対」; hoặc A nói 「〜てほしい」 mà phương án nói 「〜義務にすべきだ」.\n- **Dùng thông tin cũ**: với お知らせ, phương án dùng ngày / địa điểm / số tiền của A trong khi B đã thay đổi.\n\nVới câu 「Aは〜、Bは〜」: kiểm tra **từng nửa** riêng rẽ. Chỉ cần một nửa sai là loại."},
+    {"title": "Bước 7 · Phân bổ thời gian (khoảng 10 phút một cặp)", "body": "Gợi ý: **1 phút** đọc đề dẫn và 2 câu hỏi → **3 phút** đọc A, ghi 3 ô → **3 phút** đọc B, ghi 3 ô → **3 phút** so bảng, trả lời 2 câu.\n\nKhông đọc A rồi B rồi lại quay về A nhiều lần: nhờ bảng, bạn chỉ cần quay lại **đúng câu** cần kiểm tra. Với お知らせ, đọc A thật nhanh (chỉ ghi các mục chính), dồn thời gian cho B vì câu hỏi gần như luôn xoay quanh **điểm đã thay đổi**."}
+  ],
+  "signals": [
+    {"ja": "〜に{賛成|さんせい}だ／〜に{反対|はんたい}だ", "vi": "tán thành / phản đối…", "note": "Lập trường nói thẳng. Hay ở câu đầu bài."},
+    {"ja": "〜は{理解|りかい}できる／〜は{分|わ}からないでもない", "vi": "… thì có thể hiểu được / không phải không hiểu", "note": "Thừa nhận một phần ý phía bên kia → thường là **điểm chung** của A và B. Phía sau gần như luôn có しかし."},
+    {"ja": "〜は{否定|ひてい}しない／〜は{認|みと}める", "vi": "không phủ nhận… / thừa nhận…", "note": "「AIが{便利|べんり}な{道具|どうぐ}であることは{否定|ひてい}しない」 — một ô \"thừa nhận\" trong bảng."},
+    {"ja": "〜という{思|おも}い／{気持|きも}ちは{私|わたし}にもある・{同|おな}じだ", "vi": "tâm tư ấy tôi cũng có / cũng vậy", "note": "B nói rõ mình **giống** A ở điểm này → ứng viên số 1 cho câu 共通."},
+    {"ja": "しかし／だが／とはいえ", "vi": "nhưng / tuy vậy", "note": "Ranh giới giữa phần thừa nhận và lập trường thật."},
+    {"ja": "〜のであれば、まず〜すべきだ", "vi": "nếu đã… thì trước hết phải…", "note": "Dấu hiệu **đồng ý có điều kiện** (条件付き), không phải phản đối hoàn toàn."},
+    {"ja": "〜からといって、〜のは{行|ゆ}き{過|す}ぎだ", "vi": "không thể vì… mà… thì là quá đà", "note": "Phản đối một biện pháp cực đoan (vd cấm hẳn)."},
+    {"ja": "〜より(も)、〜のほうが{先|さき}だ", "vi": "… cần làm trước hơn là…", "note": "Đặt thứ tự ưu tiên khác với phía bên kia: không bác bỏ hẳn, mà nói \"chưa phải lúc\"."},
+    {"ja": "〜おそれがある／〜が{心配|しんぱい}だ／{不安|ふあん}", "vi": "có nguy cơ… / lo rằng…", "note": "Mối lo ngại. Nếu cả A và B đều lo cùng một việc → điểm chung."},
+    {"ja": "〜てほしい／〜べきだ／〜べきではないか", "vi": "mong… / nên…", "note": "Ô \"đề xuất\" của bảng. So xem đề xuất của A và B có trùng nhau không."},
+    {"ja": "むしろ", "vi": "ngược lại, đúng hơn là", "note": "「{禁止|きんし}すべきだという{声|こえ}もあるが、むしろ{教|おし}えるべきだ」 — đặt lập trường mình đối diện với ý kiến khác."},
+    {"ja": "{変更|へんこう}します／〜に{伴|ともな}い／{変更|へんこう}ありません", "vi": "xin thay đổi / kéo theo đó / không thay đổi", "note": "Từ khoá của お知らせ thay đổi. Mục 「変更ありません」 → vẫn theo thông báo cũ (A)."},
+    {"ja": "※／ただし／〜の{場合|ばあい}", "vi": "ghi chú / tuy nhiên / trường hợp…", "note": "Điều kiện ngoại lệ trong お知らせ — rất hay được hỏi."},
+    {"ja": "AもBも／{共通|きょうつう}して／どちらにも", "vi": "cả A lẫn B / điểm chung / ở cả hai", "note": "Trong câu hỏi: báo hiệu phải tìm ô **cả hai cùng có**, không phải ô chỉ một bên."}
+  ],
+  "passages": {
+    "p1": {
+      "title": "学校へのスマートフォンの持ち込み",
+      "kind": "統合理解(意見文)",
+      "ja": "A\n　{子|こ}どもが{学校|がっこう}にスマートフォンを{持|も}っていくことに、{私|わたし}は{賛成|さんせい}だ。{共働|ともばたら}きの{家庭|かてい}が{増|ふ}え、{放課後|ほうかご}に{子|こ}どもが{一人|ひとり}で{過|す}ごす{時間|じかん}は{長|なが}くなっている。{地震|じしん}などの{災害|さいがい}が{起|お}きたとき、すぐに{連絡|れんらく}が{取|と}れる{手段|しゅだん}があるかどうかは、{親|おや}にとって{大|おお}きな{安心|あんしん}につながる。{実際|じっさい}、{以前|いぜん}{大|おお}きな{地震|じしん}があった{際|さい}には、{公衆|こうしゅう}{電話|でんわ}に{長|なが}い{列|れつ}ができ、{子|こ}どもの{無事|ぶじ}を{確|たし}かめるのに{何時間|なんじかん}もかかったという{話|はなし}を{聞|き}いた。もちろん、{授業中|じゅぎょうちゅう}に{使|つか}ったり、ゲームに{夢中|むちゅう}になったりするようでは{困|こま}る。だが、それは{登校|とうこう}したら{電源|でんげん}を{切|き}ってかばんにしまうなど、{学校|がっこう}でのルールを{決|き}めれば{防|ふせ}げることだ。{心配|しんぱい}な{点|てん}があるからといって、{持|も}ち{込|こ}みそのものを{禁止|きんし}するのは{行|ゆ}き{過|す}ぎではないだろうか。\n\nB\n　{学校|がっこう}へのスマートフォンの{持|も}ち{込|こ}みを{認|みと}める{動|うご}きが{広|ひろ}がっている。{災害|さいがい}のときの{連絡|れんらく}{手段|しゅだん}として{必要|ひつよう}だという{保護者|ほごしゃ}の{声|こえ}は{理解|りかい}できる。{子|こ}どもの{安全|あんぜん}を{守|まも}りたいという{思|おも}いは、{教師|きょうし}も{同|おな}じである。しかし、{現場|げんば}の{負担|ふたん}も{考|かんが}えてほしい。{校内|こうない}で{紛失|ふんしつ}や{盗難|とうなん}が{起|お}きたとき、その{責任|せきにん}は{誰|だれ}が{負|お}うのか。ルールを{決|き}めても、それを{守|まも}らせ、{違反|いはん}した{子|こ}を{指導|しどう}するのは{教師|きょうし}である。また、{持|も}っている{子|こ}と{持|も}っていない{子|こ}の{差|さ}が{目|め}に{見|み}える{形|かたち}で{表|あらわ}れ、それが{人間|にんげん}{関係|かんけい}のトラブルにつながるおそれもある。{連絡|れんらく}が{目的|もくてき}なら、{通話|つうわ}{機能|きのう}だけの{端末|たんまつ}を{使|つか}うといった{方法|ほうほう}も{考|かんが}えられる。{認|みと}めるのであれば、まず{学校|がっこう}と{家庭|かてい}とで{十分|じゅうぶん}に{話|はな}し{合|あ}い、{管理|かんり}の{方法|ほうほう}を{決|き}めてからにすべきだ。",
+      "vi": "A\nTôi tán thành việc trẻ em mang điện thoại thông minh đến trường. Gia đình cả bố mẹ đều đi làm ngày càng nhiều, thời gian trẻ ở một mình sau giờ học cũng dài ra. Khi xảy ra thiên tai như động đất, việc có hay không một phương tiện để liên lạc ngay lập tức mang lại cho cha mẹ sự yên tâm rất lớn. Thực tế, tôi đã nghe chuyện hồi trước khi có trận động đất lớn, điện thoại công cộng có hàng người xếp dài, phải mất mấy tiếng đồng hồ mới xác nhận được con mình bình an. Dĩ nhiên, nếu trẻ dùng trong giờ học hay mải mê chơi game thì không ổn. Nhưng điều đó có thể ngăn được nếu nhà trường đặt ra quy định, chẳng hạn đến trường thì tắt nguồn và cất vào cặp. Chẳng phải vì có điểm đáng lo mà cấm luôn cả việc mang theo là quá đà sao?\n\nB\nXu hướng cho phép mang điện thoại thông minh đến trường đang lan rộng. Ý kiến của phụ huynh rằng điện thoại cần thiết như một phương tiện liên lạc khi có thiên tai là điều có thể hiểu được. Mong muốn bảo vệ an toàn cho trẻ, giáo viên cũng giống như vậy. Thế nhưng, mong mọi người hãy nghĩ cả đến gánh nặng của những người ở trường. Khi xảy ra mất mát hay trộm cắp trong trường, ai sẽ chịu trách nhiệm? Dù có đặt ra quy định, người bắt trẻ tuân thủ và nhắc nhở trẻ vi phạm vẫn là giáo viên. Ngoài ra, sự chênh lệch giữa trẻ có và trẻ không có điện thoại sẽ lộ ra rõ ràng, và điều đó có nguy cơ dẫn tới rắc rối trong quan hệ bạn bè. Nếu mục đích là liên lạc thì cũng có thể nghĩ đến cách như dùng thiết bị chỉ có chức năng gọi điện. Nếu đã cho phép thì trước hết phải để nhà trường và gia đình bàn bạc kỹ, quyết định cách quản lý rồi mới làm."
+    },
+    "p2": {
+      "title": "夏休みの読書感想文",
+      "kind": "統合理解(意見文)",
+      "ja": "A\n　{毎年|まいとし}、{夏休|なつやす}みの{終|お}わりが{近|ちか}づくと、{我|わ}が{家|や}は{読書|どくしょ}{感想文|かんそうぶん}をめぐって{大騒|おおさわ}ぎになる。{小学|しょうがく}{四年生|よねんせい}の{娘|むすめ}は{本|ほん}を{読|よ}むこと{自体|じたい}は{好|す}きなのだが、「{感想|かんそう}を{原稿|げんこう}{用紙|ようし}{三枚|さんまい}に」と{言|い}われると、{何|なに}を{書|か}けばいいのか{分|わ}からず{泣|な}き{出|だ}してしまう。{結局|けっきょく}、{私|わたし}が{横|よこ}について「どこがおもしろかった？」と{質問|しつもん}しながら{書|か}かせることになり、これでは{誰|だれ}の{感想文|かんそうぶん}か{分|わ}からない。{本|ほん}は{本来|ほんらい}、{楽|たの}しんで{読|よ}むものだ。{書|か}かなければならないと{思|おも}うと、{読書|どくしょ}そのものが{嫌|いや}になってしまうのではないか。{感想文|かんそうぶん}の{宿題|しゅくだい}はやめて、{子|こ}どもには{好|す}きな{本|ほん}を{自由|じゆう}に{読|よ}ませてほしい。\n\nB\n　{読書|どくしょ}{感想文|かんそうぶん}の{宿題|しゅくだい}は{必要|ひつよう}ないという{意見|いけん}を、{最近|さいきん}よく{耳|みみ}にする。{子|こ}どもが{何|なに}を{書|か}けばいいか{分|わ}からず{苦|くる}しんでいるという{話|はなし}は、{私|わたし}も{教師|きょうし}{時代|じだい}に{何度|なんど}も{聞|き}いた。しかし、{本|ほん}を{読|よ}んで{心|こころ}が{動|うご}いたことを{自分|じぶん}の{言葉|ことば}で{表|あらわ}すのは、{大切|たいせつ}な{力|ちから}である。それを{練習|れんしゅう}する{機会|きかい}をなくしてしまうのは{惜|お}しい。{問題|もんだい}は{感想文|かんそうぶん}そのものではなく、{書|か}き{方|かた}を{教|おし}えないまま「{自由|じゆう}に{書|か}きなさい」と{子|こ}どもに{任|まか}せてしまうことにある。{夏休|なつやす}みの{前|まえ}に、{授業|じゅぎょう}で{書|か}き{方|かた}の{例|れい}を{示|しめ}したり、{本|ほん}の{選|えら}び{方|かた}を{一緒|いっしょ}に{考|かんが}えたりすれば、{子|こ}どもの{負担|ふたん}はずっと{軽|かる}くなるはずだ。{宿題|しゅくだい}をなくすより、{学校|がっこう}が{書|か}くまでの{過程|かてい}を{支|ささ}えるべきではないだろうか。",
+      "vi": "A\nNăm nào cũng vậy, cứ gần hết kỳ nghỉ hè là nhà tôi lại náo loạn vì bài cảm nhận sau khi đọc sách. Con gái tôi học lớp bốn, bản thân việc đọc sách thì con thích, nhưng hễ bị bảo “viết cảm nhận ra ba tờ giấy kẻ ô” là con không biết phải viết gì và bật khóc. Rốt cuộc tôi phải ngồi cạnh, vừa hỏi “Con thấy chỗ nào hay?” vừa bắt con viết, thế thì chẳng biết là bài cảm nhận của ai nữa. Sách vốn dĩ là để đọc cho vui. Nghĩ rằng mình phải viết, chẳng phải sẽ làm trẻ ghét luôn cả việc đọc sách sao? Tôi mong bỏ bài tập viết cảm nhận đi, để trẻ được tự do đọc những cuốn sách mình thích.\n\nB\nGần đây tôi hay nghe ý kiến cho rằng bài tập viết cảm nhận sau khi đọc sách là không cần thiết. Chuyện trẻ khổ sở vì không biết viết gì, hồi còn đi dạy tôi cũng nghe không biết bao nhiêu lần. Thế nhưng, diễn đạt bằng lời của chính mình những rung động khi đọc sách là một năng lực quan trọng. Đánh mất cơ hội luyện tập điều đó thì thật đáng tiếc. Vấn đề không nằm ở bản thân bài cảm nhận, mà ở chỗ không dạy cách viết mà cứ phó mặc cho trẻ với câu “Các em cứ viết tự do”. Trước kỳ nghỉ hè, nếu trong giờ học giáo viên đưa ví dụ về cách viết, hay cùng trẻ suy nghĩ cách chọn sách, thì gánh nặng của trẻ hẳn sẽ nhẹ đi nhiều. Chẳng phải thay vì bỏ bài tập, nhà trường nên hỗ trợ cả quá trình cho đến khi trẻ viết được hay sao?"
+    },
+    "p3": {
+      "title": "週休三日制",
+      "kind": "統合理解(意見文)",
+      "ja": "A\n　{私|わたし}の{会社|かいしゃ}では、{去年|きょねん}から{週休|しゅうきゅう}{三日制|みっかせい}を{選|えら}べるようになった。{一日|いちにち}の{勤務|きんむ}{時間|じかん}は{十時間|じゅうじかん}に{延|の}びたが、{週|しゅう}に{四日|よっか}{働|はたら}けばよい。{最初|さいしょ}は{長|なが}い{一日|いちにち}がきつかったものの、すぐに{慣|な}れた。{通勤|つうきん}の{回数|かいすう}が{減|へ}った{分|ぶん}、{体|からだ}もずいぶん{楽|らく}になった。{増|ふ}えた{休日|きゅうじつ}には{資格|しかく}の{勉強|べんきょう}をしたり、{子|こ}どもの{学校|がっこう}{行事|ぎょうじ}に{参加|さんか}したりしている。{仕事|しごと}の{面|めん}でも、{限|かぎ}られた{日数|にっすう}で{成果|せいか}を{出|だ}すために、{無駄|むだ}な{会議|かいぎ}を{減|へ}らすなど、{仕事|しごと}の{進|すす}め{方|かた}を{見直|みなお}すきっかけになった。{休|やす}みが{増|ふ}えれば{生活|せいかつ}にゆとりが{生|う}まれ、それが{仕事|しごと}への{意欲|いよく}にもつながる。{実際|じっさい}、{同僚|どうりょう}の{多|おお}くもこの{働|はたら}き{方|かた}を{選|えら}んでいる。この{制度|せいど}がもっと{多|おお}くの{会社|かいしゃ}に{広|ひろ}がってほしいと{思|おも}う。\n\nB\n　{週休|しゅうきゅう}{三日制|みっかせい}が{話題|わだい}になっているが、{社員|しゃいん}{三十人|さんじゅうにん}ほどの{町工場|まちこうば}を{経営|けいえい}する{立場|たちば}からすると、{簡単|かんたん}な{話|はなし}ではない。うちの{工場|こうじょう}は{取引先|とりひきさき}からの{注文|ちゅうもん}に{合|あ}わせて{毎日|まいにち}{機械|きかい}を{動|うご}かしており、{休|やす}む{人|ひと}が{増|ふ}えれば{納期|のうき}に{間|ま}に{合|あ}わなくなる。{人|ひと}を{増|ふ}やせばいいと{言|い}われるが、{人手|ひとで}{不足|ぶそく}で{求人|きゅうじん}を{出|だ}しても{応募|おうぼ}が{来|こ}ないのが{現状|げんじょう}だ。{一人|ひとり}の{職人|しょくにん}が{何台|なんだい}もの{機械|きかい}を{担当|たんとう}しているので、{代|か}わりの{人|ひと}もいない。もちろん、{社員|しゃいん}にゆとりのある{生活|せいかつ}を{送|おく}ってほしいという{気持|きも}ちは{私|わたし}にもある。だからこそ、{大企業|だいきぎょう}の{成功例|せいこうれい}だけを{見|み}て、どの{会社|かいしゃ}でもすぐにできるかのように{語|かた}るのはやめてほしい。{業種|ぎょうしゅ}や{規模|きぼ}に{合|あ}った{働|はたら}き{方|かた}を、それぞれの{会社|かいしゃ}が{考|かんが}えていくべきだ。",
+      "vi": "A\nỞ công ty tôi, từ năm ngoái nhân viên đã có thể chọn chế độ nghỉ ba ngày một tuần. Thời gian làm việc mỗi ngày kéo dài thành mười tiếng, nhưng chỉ cần làm bốn ngày một tuần. Ban đầu một ngày dài khá vất vả, nhưng tôi quen ngay. Số lần đi làm giảm đi nên cơ thể cũng nhẹ nhõm hơn nhiều. Vào những ngày nghỉ tăng thêm, tôi học lấy chứng chỉ, tham gia các sự kiện ở trường của con. Về mặt công việc, để đạt kết quả trong số ngày có hạn, chúng tôi đã cắt giảm những cuộc họp vô ích…, đây cũng là dịp để xem lại cách tiến hành công việc. Ngày nghỉ tăng thì cuộc sống có thêm thong thả, và điều đó cũng dẫn đến động lực làm việc. Thực tế, nhiều đồng nghiệp của tôi cũng chọn cách làm việc này. Tôi mong chế độ này lan rộng ra nhiều công ty hơn nữa.\n\nB\nChế độ nghỉ ba ngày một tuần đang được bàn tán, nhưng từ vị trí của người điều hành một xưởng nhỏ khoảng ba mươi nhân viên, đó không phải là chuyện đơn giản. Xưởng chúng tôi ngày nào cũng chạy máy theo đơn đặt hàng của đối tác, người nghỉ mà nhiều lên thì sẽ không kịp thời hạn giao hàng. Người ta bảo cứ tuyển thêm người là được, nhưng thực trạng là thiếu nhân lực, đăng tuyển cũng chẳng có ai nộp đơn. Một người thợ phụ trách đến mấy cái máy, nên cũng không có người thay thế. Dĩ nhiên, mong muốn nhân viên có cuộc sống thong thả thì tôi cũng có. Chính vì thế, tôi mong mọi người đừng chỉ nhìn vào ví dụ thành công của các công ty lớn rồi nói như thể công ty nào cũng làm ngay được. Mỗi công ty nên tự suy nghĩ cách làm việc phù hợp với ngành nghề và quy mô của mình."
+    },
+    "p4": {
+      "title": "市民講座のお知らせ",
+      "kind": "統合理解(お知らせ)",
+      "ja": "A\n【みどり{市|し}　{市民|しみん}{講座|こうざ}のご{案内|あんない}】\n「はじめての{家庭|かてい}{菜園|さいえん}」\n・{日時|にちじ}：5{月|がつ}11{日|にち}（{土|ど}）・5{月|がつ}18{日|にち}（{土|ど}）の{全|ぜん}2{回|かい}　10:00～12:00\n・{会場|かいじょう}：{第|だい}1{回|かい}　{市民|しみん}センター2{階|かい}　{第|だい}1{会議室|かいぎしつ}（{講義|こうぎ}）\n　　　　{第|だい}2{回|かい}　{市民|しみん}センター{裏|うら}の{実習畑|じっしゅうばたけ}（{実習|じっしゅう}）\n・{定員|ていいん}：30{名|めい}（{先着順|せんちゃくじゅん}）\n・{参加費|さんかひ}：500{円|えん}（2{回分|かいぶん}・{資料代|しりょうだい}を{含|ふく}む）\n　※お{申|もう}し{込|こ}み{後|ご}1{週間|しゅうかん}{以内|いない}に、{市民|しみん}センター{窓口|まどぐち}でお{支払|しはら}いください。\n・お{申|もう}し{込|こ}み：5{月|がつ}1{日|にち}（{水|すい}）9{時|じ}から、{市民|しみん}センターへお{電話|でんわ}で\n・{持|も}ち{物|もの}：{筆記|ひっき}{用具|ようぐ}（{第|だい}2{回|かい}は{軍手|ぐんて}・{帽子|ぼうし}もお{持|も}ちください）\n・{雨天|うてん}の{場合|ばあい}、{第|だい}2{回|かい}は{第|だい}1{会議室|かいぎしつ}での{講義|こうぎ}に{変更|へんこう}します。\n\nB\n【「はじめての{家庭|かてい}{菜園|さいえん}」{変更|へんこう}のお{知|し}らせ】\n{多|おお}くの{方|かた}にご{関心|かんしん}をお{寄|よ}せいただき、ありがとうございます。{以下|いか}の{点|てん}が{変更|へんこう}になりましたので、お{知|し}らせします。\n・{講師|こうし}の{都合|つごう}により、{第|だい}2{回|かい}の{日程|にってい}を5{月|がつ}18{日|にち}（{土|ど}）から5{月|がつ}25{日|にち}（{土|ど}）に{変更|へんこう}します。{時間|じかん}・{内容|ないよう}は{変|か}わりません。\n・お{申|もう}し{込|こ}みが{多|おお}いため、{定員|ていいん}を30{名|めい}から40{名|めい}に{増|ふ}やします。これに{伴|ともな}い、{第|だい}1{回|かい}の{会場|かいじょう}を{市民|しみん}センター3{階|かい}　{大会議室|だいかいぎしつ}に{変更|へんこう}します。\n・{参加費|さんかひ}、お{申|もう}し{込|こ}み{方法|ほうほう}については{変更|へんこう}ありません。\n・すでにお{申|もう}し{込|こ}みの{方|かた}で、{第|だい}2{回|かい}に{参加|さんか}できなくなった{方|かた}は、5{月|がつ}20{日|にち}までにご{連絡|れんらく}ください。{参加費|さんかひ}のうち250{円|えん}をお{返|かえ}しします。",
+      "vi": "A\n【Thành phố Midori — Thông báo lớp học cho người dân】\n“Trồng rau tại nhà cho người mới bắt đầu”\n- Thời gian: 2 buổi, thứ Bảy 11/5 và thứ Bảy 18/5, 10:00–12:00\n- Địa điểm: Buổi 1 — Phòng họp số 1, tầng 2, Trung tâm thị dân (lý thuyết); Buổi 2 — Ruộng thực hành phía sau Trung tâm thị dân (thực hành)\n- Số chỗ: 30 người (ai đăng ký trước được trước)\n- Phí tham gia: 500 yên (cho 2 buổi, đã gồm tiền tài liệu). ※ Vui lòng thanh toán tại quầy Trung tâm thị dân trong vòng 1 tuần sau khi đăng ký.\n- Đăng ký: từ 9 giờ thứ Tư 1/5, gọi điện đến Trung tâm thị dân\n- Đồ mang theo: dụng cụ ghi chép (buổi 2 xin mang thêm găng tay vải và mũ)\n- Trường hợp trời mưa, buổi 2 sẽ đổi thành buổi lý thuyết tại Phòng họp số 1.\n\nB\n【Thông báo thay đổi lớp “Trồng rau tại nhà cho người mới bắt đầu”】\nCảm ơn quý vị đã quan tâm. Xin thông báo các điểm thay đổi sau đây.\n- Do lịch của giảng viên, buổi 2 đổi từ thứ Bảy 18/5 sang thứ Bảy 25/5. Thời gian và nội dung không đổi.\n- Do số người đăng ký đông, số chỗ tăng từ 30 lên 40 người. Kéo theo đó, địa điểm buổi 1 đổi sang Phòng họp lớn, tầng 3, Trung tâm thị dân.\n- Phí tham gia và cách đăng ký không thay đổi.\n- Những người đã đăng ký nhưng không thể tham gia buổi 2, xin vui lòng liên lạc trước ngày 20/5. Chúng tôi sẽ hoàn lại 250 yên trong số phí tham gia."
+    },
+    "p5": {
+      "title": "文章を書くときのAI",
+      "kind": "統合理解(意見文)",
+      "ja": "A\n　{生成|せいせい}AIを{使|つか}って{作文|さくぶん}やレポートを{書|か}く{生徒|せいと}が{増|ふ}えている。{学校|がっこう}では{使用|しよう}を{禁止|きんし}すべきだという{声|こえ}もあるが、{私|わたし}はむしろ{授業|じゅぎょう}の{中|なか}で{使|つか}い{方|かた}を{教|おし}えるべきだと{考|かんが}えている。{生徒|せいと}たちが{社会|しゃかい}に{出|で}るころには、AIは{調|しら}べものや{文章|ぶんしょう}の{下書|したが}きに{役立|やくだ}つ{道具|どうぐ}として、{当|あ}たり{前|まえ}に{使|つか}われているだろう。{禁止|きんし}したところで、{生徒|せいと}は{家|いえ}で{隠|かく}れて{使|つか}うだけだ。{大切|たいせつ}なのは、AIが{作|つく}った{文章|ぶんしょう}をそのまま{提出|ていしゅつ}するのではなく、{内容|ないよう}が{正|ただ}しいかを{自分|じぶん}で{確|たし}かめ、{自分|じぶん}の{考|かんが}えを{加|くわ}えて{書|か}き{直|なお}すことである。そうした{力|ちから}は、{実際|じっさい}に{使|つか}いながらでなければ{身|み}につかない。{使|つか}わせないことより、{上手|じょうず}に{使|つか}える{人|ひと}を{育|そだ}てることこそが、これからの{教育|きょういく}の{役割|やくわり}ではないだろうか。\n\nB\n　{最近|さいきん}、{学生|がくせい}のレポートを{読|よ}んでいて{気|き}になることがある。{文章|ぶんしょう}はよく{整|ととの}っているのに、どれも{似|に}たような{内容|ないよう}で、{書|か}いた{本人|ほんにん}に{質問|しつもん}すると{答|こた}えられないのだ。おそらくAIに{書|か}かせたものだろう。AIが{便利|べんり}な{道具|どうぐ}であることは{否定|ひてい}しない。しかし、{文章|ぶんしょう}を{書|か}くことは、{考|かんが}えることそのものである。{何|なに}をどう{書|か}くか{迷|まよ}い、{何度|なんど}も{書|か}き{直|なお}す{中|なか}で、{考|かんが}えは{深|ふか}まっていく。その{経験|けいけん}を{十分|じゅうぶん}に{積|つ}まないうちにAIに{頼|たよ}れば、{自分|じぶん}で{考|かんが}える{力|ちから}が{育|そだ}たない。{少|すく}なくとも、{書|か}くことの{基礎|きそ}を{学|まな}ぶ{段階|だんかい}では、AIの{使用|しよう}を{制限|せいげん}すべきだと{思|おも}う。",
+      "vi": "A\nHọc sinh dùng AI tạo sinh để viết bài văn hay báo cáo ngày càng nhiều. Cũng có ý kiến cho rằng nhà trường nên cấm sử dụng, nhưng tôi thì ngược lại, cho rằng nên dạy cách dùng ngay trong giờ học. Đến lúc học sinh ra đời, AI hẳn sẽ được dùng như chuyện đương nhiên, như một công cụ hữu ích để tra cứu hay viết bản nháp. Có cấm thì học sinh cũng chỉ lén dùng ở nhà mà thôi. Điều quan trọng là không nộp nguyên văn bài do AI viết, mà tự mình kiểm tra nội dung có đúng không, thêm suy nghĩ của mình vào và viết lại. Năng lực đó nếu không vừa dùng thực tế vừa học thì không thể có được. Chẳng phải vai trò của giáo dục từ nay về sau, thay vì không cho dùng, chính là đào tạo ra những người biết dùng giỏi hay sao?\n\nB\nGần đây, khi đọc báo cáo của sinh viên, có một điều khiến tôi bận tâm. Văn viết thì rất chỉn chu, nhưng bài nào nội dung cũng na ná nhau, và hỏi chính người viết thì họ không trả lời được. Có lẽ là bài nhờ AI viết. Tôi không phủ nhận AI là một công cụ tiện lợi. Nhưng viết văn chính là suy nghĩ. Chính trong lúc phân vân viết gì, viết thế nào, rồi viết đi viết lại nhiều lần, suy nghĩ mới sâu thêm. Nếu dựa vào AI trước khi tích luỹ đủ trải nghiệm ấy, năng lực tự suy nghĩ sẽ không phát triển. Tôi cho rằng ít nhất ở giai đoạn học những điều cơ bản của việc viết, nên hạn chế việc sử dụng AI."
+    },
+    "p6": {
+      "title": "高齢ドライバーの免許返納",
+      "kind": "統合理解(意見文)",
+      "ja": "A\n　{八十二歳|はちじゅうにさい}になる{父|ちち}が、{今|いま}も{毎日|まいにち}{車|くるま}を{運転|うんてん}している。{最近|さいきん}、{実家|じっか}に{帰|かえ}るたびに、{車|くるま}の{傷|きず}が{増|ふ}えているのが{気|き}になる。{先月|せんげつ}は、スーパーの{駐車場|ちゅうしゃじょう}で{隣|となり}の{車|くるま}にぶつけてしまったという。{本人|ほんにん}は「まだ{大丈夫|だいじょうぶ}だ」と{言|い}うが、{高齢者|こうれいしゃ}がアクセルとブレーキを{踏|ふ}み{間違|まちが}えて{起|お}こした{事故|じこ}のニュースを{見|み}るたびに、{胸|むね}が{苦|くる}しくなる。{事故|じこ}を{起|お}こしてからでは{遅|おそ}いのだ。{家族|かぞく}が{説得|せっとく}しても、{本人|ほんにん}が{納得|なっとく}しなければ{免許|めんきょ}の{返納|へんのう}は{進|すす}まない。それならいっそ、{一定|いってい}の{年齢|ねんれい}になったら{返納|へんのう}を{義務|ぎむ}にしてもいいのではないか。{家族|かぞく}の{心配|しんぱい}を{減|へ}らすためにも、{国|くに}がはっきりした{基準|きじゅん}を{作|つく}ってほしい。\n\nB\n　{高齢|こうれい}ドライバーは{免許|めんきょ}を{返納|へんのう}すべきだという{声|こえ}をよく{聞|き}く。{七十代|ななじゅうだい}の{私|わたし}も、{自分|じぶん}がいつか{事故|じこ}を{起|お}こすのではないかという{不安|ふあん}は{常|つね}に{感|かん}じている。しかし、{私|わたし}の{住|す}む{地域|ちいき}では、バスは{一日|いちにち}に{三本|さんぼん}しかなく、スーパーにも{病院|びょういん}にも{車|くるま}で{二十分|にじゅっぷん}かかる。{車|くるま}がなければ、{買|か}い{物|もの}にも{通院|つういん}にも{行|い}けなくなってしまう。{子|こ}どもたちは{遠|とお}くに{住|す}んでいて、{毎回|まいかい}{送|おく}り{迎|むか}えを{頼|たの}むわけにもいかない。また、{年齢|ねんれい}は{同|おな}じでも、{運転|うんてん}{能力|のうりょく}には{大|おお}きな{個人差|こじんさ}がある。{年齢|ねんれい}だけで{一律|いちりつ}に{判断|はんだん}するのではなく、{運転|うんてん}{能力|のうりょく}を{定期的|ていきてき}に{確|たし}かめる{仕組|しく}みを{作|つく}ることや、{返納|へんのう}した{人|ひと}の{移動|いどう}{手段|しゅだん}を{地域|ちいき}で{整|ととの}えることのほうが{先|さき}ではないだろうか。",
+      "vi": "A\nBố tôi năm nay 82 tuổi mà đến giờ ngày nào cũng vẫn lái xe. Gần đây, mỗi lần về nhà bố mẹ, tôi lại bận tâm vì thấy vết xước trên xe nhiều thêm. Nghe nói tháng trước bố còn va vào xe bên cạnh ở bãi đỗ xe siêu thị. Bản thân bố bảo “vẫn ổn”, nhưng mỗi lần xem tin tức về những vụ tai nạn do người cao tuổi đạp nhầm chân ga với chân phanh, lòng tôi lại thắt lại. Gây tai nạn rồi thì đã muộn. Dù gia đình có thuyết phục, nếu bản thân người đó không chịu thì việc nộp lại bằng lái cũng không tiến triển. Nếu vậy, chẳng phải cứ dứt khoát quy định bắt buộc nộp lại bằng khi đến một độ tuổi nhất định cũng được sao? Cũng là để giảm nỗi lo cho gia đình, tôi mong nhà nước đưa ra một tiêu chuẩn rõ ràng.\n\nB\nTôi hay nghe ý kiến rằng người lái xe cao tuổi nên nộp lại bằng lái. Tôi đã ngoài bảy mươi, cũng luôn cảm thấy bất an rằng một lúc nào đó mình sẽ gây tai nạn. Thế nhưng, ở vùng tôi sống, xe buýt một ngày chỉ có ba chuyến, siêu thị hay bệnh viện đều mất hai mươi phút đi ô tô. Không có xe thì không đi mua sắm, cũng không đi khám bệnh được. Con cái tôi sống ở xa, cũng không thể lần nào cũng nhờ chúng đưa đón. Hơn nữa, dù cùng tuổi, khả năng lái xe của mỗi người cũng khác nhau rất nhiều. Chẳng phải việc cần làm trước là xây dựng cơ chế kiểm tra định kỳ khả năng lái xe, và để địa phương chuẩn bị phương tiện đi lại cho những người đã nộp lại bằng, chứ không phải phán đoán đồng loạt chỉ bằng tuổi tác hay sao?"
+    }
+  },
+  "worked": [
+    {"id": "d18-w1", "kind": "passage", "pass": "p1",
+     "q": "AとBで{共通|きょうつう}して{述|の}べられていることは{何|なに}か。",
+     "options": [
+       "スマートフォンを{持|も}っていない{子|こ}どもが、トラブルに{巻|ま}き{込|こ}まれるおそれがある。",
+       "{災害|さいがい}のときに{子|こ}どもと{連絡|れんらく}が{取|と}れることは、{保護者|ほごしゃ}にとって{大切|たいせつ}だ。",
+       "{学校|がっこう}でのルールを{決|き}めれば、{問題|もんだい}はほとんど{防|ふせ}ぐことができる。",
+       "スマートフォンの{管理|かんり}や{指導|しどう}は、{教師|きょうし}にとって{大|おお}きな{負担|ふたん}になる。"
+     ],
+     "answer": 1,
+     "vi": "Điều được cả A và B cùng nói đến là gì? → (2) Có thể liên lạc với con khi có thiên tai là điều quan trọng đối với phụ huynh.",
+     "why": "A: 「災害が起きたとき、すぐに連絡が取れる手段があるかどうかは、親にとって大きな安心につながる」. B: 「災害のときの連絡手段として必要だという保護者の声は理解できる」 (phần **thừa nhận** trước しかし).\n- (1) chỉ có ở **B** (「持っている子と持っていない子の差…トラブルにつながるおそれ」).\n- (2) **Đúng**: cả hai cùng công nhận.\n- (3) chỉ có ở **A**; B còn phản bác: 「ルールを決めても、それを守らせ…指導するのは教師である」.\n- (4) chỉ có ở **B**.",
+     "walkthrough": "**① Đề dẫn**: hai bài về cùng một chủ đề → hai ý kiến, có thể khác lập trường. Người viết A là **phụ huynh** (「親にとって」), B là **giáo viên** (「教師も同じである」).\n\n**② Câu hỏi**: 「共通して述べられていること」 → tìm ô mà **cả hai** cùng có.\n\n**③ Lập bảng**:\n- 立場: A 賛成 ／ B 条件付き (「認めるのであれば、まず〜してからにすべきだ」)\n- 理由: A liên lạc khi thiên tai, trẻ ở nhà một mình ／ B gánh nặng giáo viên, mất cắp, chênh lệch giữa trẻ\n- Thừa nhận: A 「授業中に使ったり…困る」 ／ B 「保護者の声は**理解できる**」「安全を守りたい思いは教師も**同じ**」\n- Đề xuất: A đặt quy định, không cấm ／ B bàn bạc trước, hoặc dùng máy chỉ gọi điện\n\n**④ Ô trùng nhau**: phần thừa nhận của B (「理解できる」「同じ」) khớp đúng **lý do** của A → đó là điểm chung: liên lạc khi thiên tai quan trọng với phụ huynh.\n\n**⑤ Loại**: ba phương án còn lại đều là ô **chỉ một bên** có. Đây là bẫy số 1 của câu 共通 — mỗi phương án đều \"đúng với bài\", nhưng chỉ đúng với **một** bài.\n\nMẹo: ở câu 共通, hãy tìm ngay những câu có 「理解できる」「同じ」「〜は私にもある」 trong bài thứ hai."},
+    {"id": "d18-w2", "kind": "passage", "pass": "p1",
+     "q": "スマートフォンの{持|も}ち{込|こ}みについて、AとBはどのような{立場|たちば}をとっているか。",
+     "options": [
+       "Aは{持|も}ち{込|こ}みに{賛成|さんせい}しており、Bは{条件|じょうけん}が{整|ととの}えば{認|みと}めてもよいと{考|かんが}えている。",
+       "Aは{持|も}ち{込|こ}みに{賛成|さんせい}しており、Bは{持|も}ち{込|こ}みに{全面的|ぜんめんてき}に{反対|はんたい}している。",
+       "AもBも、{学校|がっこう}でのルールさえ{決|き}めれば{問題|もんだい}はないと{考|かんが}えている。",
+       "Aは{持|も}ち{込|こ}みに{慎重|しんちょう}であり、Bは{積極的|せっきょくてき}に{賛成|さんせい}している。"
+     ],
+     "answer": 0,
+     "vi": "A và B có lập trường thế nào về việc mang điện thoại đến trường? → (1) A tán thành; B cho rằng nếu đủ điều kiện thì có thể cho phép.",
+     "why": "A: câu đầu 「私は賛成だ」, câu cuối 「持ち込みそのものを禁止するのは行き過ぎではないだろうか」. B: câu cuối 「認めるのであれば、まず学校と家庭とで十分に話し合い、管理の方法を決めてからにすべきだ」 → **không cấm**, nhưng đòi điều kiện trước.\n- (1) **Đúng** cả hai nửa.\n- (2) nửa B **sai độ mạnh**: B không 「全面的に反対」; B còn gợi ý cách khác (máy chỉ gọi điện) và nói 「認めるのであれば」.\n- (3) nửa B sai: B nói rõ 「ルールを決めても」 vẫn còn gánh nặng.\n- (4) **đảo A ↔ B**.",
+     "walkthrough": "**① Dạng câu hỏi**: 「AとBはどのような立場か」 → phương án có dạng 「Aは〜、Bは〜」. Kiểm tra **từng nửa** riêng.\n\n**② Lập trường A**: dễ — câu đầu 「賛成だ」. Phần 「もちろん〜困る。だが〜」 chỉ là nhượng bộ, không làm A đổi lập trường. Vậy loại (4) ngay (A 慎重 là sai).\n\n**③ Lập trường B**: cần đọc kỹ **câu cuối**. B kể rất nhiều điểm lo ngại (trách nhiệm, chỉ dẫn, chênh lệch) — dễ khiến ta nghĩ B phản đối. Nhưng câu chốt là 「認めるのであれば、まず〜してからにすべきだ」: **nếu cho phép thì trước hết phải…** → đây là 条件付き, không phải 反対.\n\n**④ So nửa B của các phương án**: (1) 条件が整えば認めてもよい ✓ ／ (2) 全面的に反対 ✗ (quá mạnh) ／ (3) ルールさえ決めれば問題ない ✗ (ngược với 「ルールを決めても」).\n\nBài học: B **nêu nhiều lo ngại** ≠ B **phản đối**. Lập trường cuối cùng nằm ở câu đề xuất cuối bài, và cần để ý từ chỉ mức độ: 〜のであれば, まず, 〜てからにすべきだ."}
+  ],
+  "quiz": [
+    {"id": "d18-q1", "kind": "passage", "pass": "p2",
+     "q": "AとBで{共通|きょうつう}して{述|の}べられていることは{何|なに}か。",
+     "options": [
+       "{読書|どくしょ}{感想文|かんそうぶん}を{書|か}くことで、{子|こ}どもの{文章力|ぶんしょうりょく}が{伸|の}びる。",
+       "{感想文|かんそうぶん}は、{親|おや}が{手伝|てつだ}ってでも{提出|ていしゅつ}させるべきだ。",
+       "{子|こ}どもは、{感想文|かんそうぶん}に{何|なに}を{書|か}けばよいか{分|わ}からずに{苦|くる}しんでいる。",
+       "{感想文|かんそうぶん}の{宿題|しゅくだい}は、なくしたほうがよい。"
+     ],
+     "answer": 2,
+     "vi": "Điều được cả A và B cùng nói đến là gì? → (3) Trẻ khổ sở vì không biết viết gì vào bài cảm nhận.",
+     "why": "A: 「何を書けばいいのか分からず泣き出してしまう」. B: 「子どもが何を書けばいいか分からず苦しんでいるという話は、私も教師時代に何度も聞いた」 (phần thừa nhận trước しかし).\n- (1) gần với ý **B** (「自分の言葉で表すのは、大切な力」); A không nói vậy.\n- (2) **không ai** nói; A còn phàn nàn rằng bố mẹ giúp thì 「誰の感想文か分からない」.\n- (3) **Đúng**.\n- (4) chỉ là ý của **A**; B nói 「宿題をなくすより〜」 → ngược lại."},
+    {"id": "d18-q2", "kind": "passage", "pass": "p2",
+     "q": "{読書|どくしょ}{感想文|かんそうぶん}の{宿題|しゅくだい}について、AとBはどのように{考|かんが}えているか。",
+     "options": [
+       "Aは{宿題|しゅくだい}を{続|つづ}けるべきだと{考|かんが}え、Bはなくすべきだと{考|かんが}えている。",
+       "AもBも、{子|こ}どもに{好|す}きな{本|ほん}を{自由|じゆう}に{読|よ}ませることを{最|もっと}も{重視|じゅうし}している。",
+       "Aは{親|おや}が{手伝|てつだ}えば{問題|もんだい}はないと{考|かんが}え、Bは{学校|がっこう}が{書|か}き{方|かた}を{教|おし}えるべきだと{考|かんが}えている。",
+       "Aは{宿題|しゅくだい}をやめてほしいと{考|かんが}え、Bは{書|か}き{方|かた}を{教|おし}えたうえで{続|つづ}けるべきだと{考|かんが}えている。"
+     ],
+     "answer": 3,
+     "vi": "A và B nghĩ thế nào về bài tập viết cảm nhận? → (4) A muốn bỏ bài tập; B cho rằng nên dạy cách viết rồi tiếp tục giao.",
+     "why": "A, câu cuối: 「感想文の宿題はやめて、子どもには好きな本を自由に読ませてほしい」. B: 「問題は感想文そのものではなく、書き方を教えないまま…任せてしまうことにある」「宿題をなくすより、学校が書くまでの過程を支えるべきではないだろうか」.\n- (1) **đảo A ↔ B**.\n- (2) 「好きな本を自由に」 chỉ là đề xuất của **A**; B coi trọng việc luyện diễn đạt.\n- (3) nửa A sai: A cho rằng bố mẹ giúp thì **có vấn đề** (「これでは誰の感想文か分からない」).\n- (4) **Đúng** cả hai nửa: 「支える」→ 書き方を教えたうえで続ける."}
+  ],
+  "practice": [
+    {"id": "d18-p1", "kind": "passage", "pass": "p3",
+     "q": "AとBのどちらにも{見|み}られる{考|かんが}えはどれか。",
+     "options": [
+       "{週休|しゅうきゅう}{三日制|みっかせい}は、どの{会社|かいしゃ}でもすぐに{導入|どうにゅう}できる。",
+       "{人|ひと}を{増|ふ}やしさえすれば、{週休|しゅうきゅう}{三日制|みっかせい}は{導入|どうにゅう}できる。",
+       "{一日|いちにち}の{勤務|きんむ}{時間|じかん}が{長|なが}くなることが、{週休|しゅうきゅう}{三日制|みっかせい}の{一番|いちばん}の{問題点|もんだいてん}だ。",
+       "{働|はたら}く{人|ひと}がゆとりのある{生活|せいかつ}を{送|おく}れることは、{望|のぞ}ましい。"
+     ],
+     "answer": 3,
+     "vi": "Suy nghĩ nào có ở cả A và B? → (4) Người lao động có cuộc sống thong thả là điều đáng mong muốn.",
+     "why": "A: 「休みが増えれば生活にゆとりが生まれ、それが仕事への意欲にもつながる」. B: 「もちろん、社員にゆとりのある生活を送ってほしいという気持ちは私にもある」 — tín hiệu 「〜は私にもある」.\n- (1) A chỉ mong chế độ 「広がってほしい」; B thì phản đối chính cách nói 「どの会社でもすぐにできるかのように」 → không phải điểm chung.\n- (2) B phủ định: 「人を増やせばいいと言われるが、…応募が来ない」.\n- (3) A nói 「きつかったものの、すぐに慣れた」 → không coi là vấn đề lớn nhất; B không nhắc tới.\n- (4) **Đúng**."},
+    {"id": "d18-p2", "kind": "passage", "pass": "p3",
+     "q": "{週休|しゅうきゅう}{三日制|みっかせい}について、AとBはどのような{立場|たちば}をとっているか。",
+     "options": [
+       "Aは{週休|しゅうきゅう}{三日制|みっかせい}に{反対|はんたい}し、Bは{賛成|さんせい}している。",
+       "Aは{制度|せいど}が{広|ひろ}がることを{望|のぞ}み、Bは{会社|かいしゃ}の{事情|じじょう}によっては{導入|どうにゅう}が{難|むずか}しいと{考|かんが}えている。",
+       "AもBも、{週休|しゅうきゅう}{三日制|みっかせい}は{大企業|だいきぎょう}でしか{成功|せいこう}しないと{考|かんが}えている。",
+       "Aは{条件|じょうけん}{付|つ}きで{賛成|さんせい}し、Bはすぐにでも{導入|どうにゅう}すべきだと{考|かんが}えている。"
+     ],
+     "answer": 1,
+     "vi": "A và B có lập trường thế nào về chế độ nghỉ ba ngày? → (2) A mong chế độ lan rộng; B cho rằng tuỳ hoàn cảnh công ty mà việc áp dụng có thể khó.",
+     "why": "A, câu cuối: 「この制度がもっと多くの会社に広がってほしいと思う」. B: 「簡単な話ではない」「業種や規模に合った働き方を、それぞれの会社が考えていくべきだ」.\n- (1) **đảo A ↔ B**.\n- (2) **Đúng** cả hai nửa.\n- (3) A không nói gì về doanh nghiệp lớn; B chỉ nói đừng lấy ví dụ doanh nghiệp lớn để **khái quát**, không nói 「大企業でしか成功しない」 → nói quá.\n- (4) nửa B ngược hẳn với 「簡単な話ではない」."},
+    {"id": "d18-p3", "kind": "passage", "pass": "p4",
+     "q": "{晴|は}れた{場合|ばあい}、この{講座|こうざ}の{第|だい}2{回|かい}について{正|ただ}しいものはどれか。",
+     "options": [
+       "5{月|がつ}25{日|にち}に{市民|しみん}センター{裏|うら}の{実習畑|じっしゅうばたけ}で{行|おこな}われ、{軍手|ぐんて}と{帽子|ぼうし}が{必要|ひつよう}だ。",
+       "5{月|がつ}18{日|にち}に{市民|しみん}センター{裏|うら}の{実習畑|じっしゅうばたけ}で{行|おこな}われ、{軍手|ぐんて}と{帽子|ぼうし}が{必要|ひつよう}だ。",
+       "5{月|がつ}25{日|にち}に{市民|しみん}センター3{階|かい}の{大会議室|だいかいぎしつ}で{行|おこな}われる。",
+       "5{月|がつ}25{日|にち}に{行|おこな}われるが、{時間|じかん}は{午後|ごご}に{変更|へんこう}される。"
+     ],
+     "answer": 0,
+     "vi": "Nếu trời nắng, điều nào đúng về buổi 2 của lớp học? → (1) Diễn ra ngày 25/5 tại ruộng thực hành sau Trung tâm thị dân, cần găng tay và mũ.",
+     "why": "Ghép A + B: **ngày** — B đổi buổi 2 từ 18/5 sang **25/5**, 「時間・内容は変わりません」 (vẫn 10:00–12:00). **Địa điểm** — B chỉ đổi địa điểm của **buổi 1** (lên 大会議室), buổi 2 vẫn là 「実習畑」 theo A. **Đồ mang** — A: 「第2回は軍手・帽子もお持ちください」.\n- (1) **Đúng**.\n- (2) dùng **ngày cũ** của A (18/5) — bẫy thông tin cũ.\n- (3) nhầm: 大会議室 là địa điểm mới của **buổi 1**; còn nếu mưa thì buổi 2 vào **第1会議室** (theo A), cũng không phải 大会議室.\n- (4) trái với 「時間・内容は変わりません」."},
+    {"id": "d18-p4", "kind": "passage", "pass": "p4",
+     "q": "まだ{申|もう}し{込|こ}んでいない{人|ひと}がこの{講座|こうざ}に{参加|さんか}したい{場合|ばあい}、どうすればよいか。",
+     "options": [
+       "5{月|がつ}1{日|にち}{以降|いこう}に{電話|でんわ}で{申|もう}し{込|こ}み、{当日|とうじつ}、{会場|かいじょう}で500{円|えん}を{払|はら}う。",
+       "{市民|しみん}センターの{窓口|まどぐち}で{申|もう}し{込|こ}み、その{場|ば}で250{円|えん}を{払|はら}う。",
+       "{電話|でんわ}で{申|もう}し{込|こ}み、1{週間|しゅうかん}{以内|いない}に{市民|しみん}センターの{窓口|まどぐち}で500{円|えん}を{払|はら}う。",
+       "{電話|でんわ}で{申|もう}し{込|こ}み、1{週間|しゅうかん}{以内|いない}に{市民|しみん}センターの{窓口|まどぐち}で250{円|えん}を{払|はら}う。"
+     ],
+     "answer": 2,
+     "vi": "Người chưa đăng ký muốn tham gia lớp này thì phải làm thế nào? → (3) Gọi điện đăng ký, rồi trong vòng 1 tuần trả 500 yên tại quầy Trung tâm thị dân.",
+     "why": "B: 「参加費、お申し込み方法については変更ありません」 → vẫn theo A: đăng ký **bằng điện thoại** (「市民センターへお電話で」), phí **500 円**, trả **tại quầy trong 1 tuần** sau khi đăng ký (dòng ※ của A).\n- (1) sai cách trả tiền: A không cho trả 「当日、会場で」.\n- (2) sai cả cách đăng ký lẫn số tiền.\n- (3) **Đúng**.\n- (4) 250 円 là số tiền **hoàn lại** cho người đã đăng ký mà không dự được buổi 2 (B) → áp dụng sai đối tượng."}
+  ],
+  "test": [
+    {"id": "d18-t1", "kind": "passage", "pass": "p5",
+     "q": "AとBのどちらの{文章|ぶんしょう}にも{触|ふ}れられている{点|てん}は{何|なに}か。",
+     "options": [
+       "{学校|がっこう}では、AIの{使用|しよう}を{全面的|ぜんめんてき}に{禁止|きんし}すべきだ。",
+       "AIを{使|つか}うと、{学生|がくせい}の{書|か}く{文章|ぶんしょう}がどれも{似|に}てしまう。",
+       "AIが{作|つく}った{文章|ぶんしょう}は、{内容|ないよう}が{間違|まちが}っていることが{多|おお}い。",
+       "AIが、{役|やく}に{立|た}つ{道具|どうぐ}であること。"
+     ],
+     "answer": 3,
+     "vi": "Điểm được đề cập ở cả hai bài A và B là gì? → (4) AI là một công cụ hữu ích.",
+     "why": "A: 「AIは調べものや文章の下書きに役立つ道具として、当たり前に使われているだろう」 (役立つ道具), và cả bài coi AI là thứ cần học cách dùng giỏi. B: 「AIが便利な道具であることは否定しない」 (phần thừa nhận trước しかし).\n- (1) A **phản đối** việc cấm; B chỉ muốn 「制限」 ở giai đoạn cơ bản → không ai nói cấm toàn diện.\n- (2) chỉ có ở **B** (「どれも似たような内容」).\n- (3) A chỉ nói phải tự kiểm tra nội dung có đúng không; **không ai** nói AI 「間違っていることが多い」 → nói quá.\n- (4) **Đúng**."},
+    {"id": "d18-t2", "kind": "passage", "pass": "p5",
+     "q": "{文章|ぶんしょう}を{書|か}くときのAIの{使用|しよう}について、AとBはどのように{考|かんが}えているか。",
+     "options": [
+       "Aは{授業|じゅぎょう}で{使|つか}い{方|かた}を{教|おし}えるべきだと{考|かんが}え、Bは{基礎|きそ}を{学|まな}ぶ{段階|だんかい}では{使用|しよう}を{制限|せいげん}すべきだと{考|かんが}えている。",
+       "Aは{使用|しよう}を{制限|せいげん}すべきだと{考|かんが}え、Bは{授業|じゅぎょう}で{使|つか}い{方|かた}を{教|おし}えるべきだと{考|かんが}えている。",
+       "AもBも、{生徒|せいと}や{学生|がくせい}にAIを{自由|じゆう}に{使|つか}わせるべきだと{考|かんが}えている。",
+       "Aは{家|いえ}で{使|つか}うことだけを{認|みと}めるべきだと{考|かんが}え、Bは{大学生|だいがくせい}になれば{使|つか}ってもよいと{考|かんが}えている。"
+     ],
+     "answer": 0,
+     "vi": "A và B nghĩ thế nào về việc dùng AI khi viết? → (1) A cho rằng nên dạy cách dùng trong giờ học; B cho rằng ở giai đoạn học cơ bản nên hạn chế dùng.",
+     "why": "A: 「むしろ授業の中で使い方を教えるべきだと考えている」. B, câu cuối: 「少なくとも、書くことの基礎を学ぶ段階では、AIの使用を制限すべきだと思う」.\n- (1) **Đúng** cả hai nửa.\n- (2) **đảo A ↔ B**.\n- (3) A muốn dạy cách dùng **có kiểm tra, viết lại** (không phải dùng tuỳ thích); B muốn hạn chế → sai cả hai.\n- (4) hiểu sai 「家で隠れて使うだけだ」 của A (đó là lý do **không nên cấm**, không phải đề xuất); B không hề nói 「大学生になれば」 — chính B đang phàn nàn về báo cáo của sinh viên đại học."},
+    {"id": "d18-t3", "kind": "passage", "pass": "p6",
+     "q": "AとBで{共通|きょうつう}して{述|の}べられていることは{何|なに}か。",
+     "options": [
+       "{地方|ちほう}では、{車|くるま}がないと{生活|せいかつ}ができない。",
+       "{一定|いってい}の{年齢|ねんれい}になったら、{免許|めんきょ}の{返納|へんのう}を{義務|ぎむ}にすべきだ。",
+       "{高齢者|こうれいしゃ}が{運転|うんてん}することで、{事故|じこ}が{起|お}きるのではないかと{心配|しんぱい}している。",
+       "{運転|うんてん}{能力|のうりょく}を{定期的|ていきてき}に{確|たし}かめる{仕組|しく}みが{必要|ひつよう}だ。"
+     ],
+     "answer": 2,
+     "vi": "Điều được cả A và B cùng nói đến là gì? → (3) Lo rằng người cao tuổi lái xe sẽ gây tai nạn.",
+     "why": "A lo cho bố: 「事故のニュースを見るたびに、胸が苦しくなる」「事故を起こしてからでは遅い」. B lo cho chính mình: 「自分がいつか事故を起こすのではないかという不安は常に感じている」. Người lo khác nhau (con ↔ bản thân), nhưng **nỗi lo** giống nhau.\n- (1) chỉ có ở **B**.\n- (2) chỉ có ở **A**; B phản đối 「年齢だけで一律に判断する」.\n- (3) **Đúng**.\n- (4) chỉ có ở **B**."},
+    {"id": "d18-t4", "kind": "passage", "pass": "p6",
+     "q": "Bは、{高齢者|こうれいしゃ}の{免許|めんきょ}{返納|へんのう}についてどのように{考|かんが}えているか。",
+     "options": [
+       "{自分|じぶん}は{事故|じこ}を{起|お}こす{心配|しんぱい}がないので、{返納|へんのう}する{必要|ひつよう}はない。",
+       "{年齢|ねんれい}で{一律|いちりつ}に{決|き}めるのではなく、{能力|のうりょく}の{確認|かくにん}や{移動|いどう}{手段|しゅだん}の{整備|せいび}を{先|さき}に{進|すす}めるべきだ。",
+       "{家族|かぞく}が{心配|しんぱい}しているのであれば、すぐに{返納|へんのう}すべきだ。",
+       "バスの{本数|ほんすう}が{増|ふ}えれば、{高齢者|こうれいしゃ}は{全員|ぜんいん}{返納|へんのう}すべきだ。"
+     ],
+     "answer": 1,
+     "vi": "B nghĩ thế nào về việc người cao tuổi nộp lại bằng lái? → (2) Không nên quyết định đồng loạt theo tuổi, mà trước hết nên tiến hành kiểm tra năng lực và chuẩn bị phương tiện đi lại.",
+     "why": "B, câu cuối: 「年齢だけで一律に判断するのではなく、運転能力を定期的に確かめる仕組みを作ることや、返納した人の移動手段を地域で整えることのほうが先ではないだろうか」.\n- (1) ngược với 「事故を起こすのではないかという不安は常に感じている」.\n- (2) **Đúng**: 「〜のほうが先」→ 先に進めるべきだ.\n- (3) là hướng suy nghĩ của **A** (gia đình lo lắng) — bẫy mượn ý bên kia.\n- (4) **nói quá**: B chỉ nói chuẩn bị phương tiện đi lại là việc cần làm trước; 「全員返納すべき」 trái với ý B rằng năng lực lái xe mỗi người mỗi khác (個人差)."}
+  ]
+}

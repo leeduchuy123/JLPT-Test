@@ -1,0 +1,200 @@
+{
+  "id": "b04",
+  "track": "bunpo",
+  "intro": "Bài này nói về **phạm vi**: phạm vi bắt đầu từ đâu, trải rộng đến đâu, và đi đến giới hạn nào. Có thể chia 6 mẫu thành ba nhóm:\n\n- **\"Điểm xuất phát / ví dụ đầu tiên\"**: 〜をはじめ(として) (nêu cái tiêu biểu nhất rồi \"và còn nhiều cái khác\"), 〜からして (ngay từ một chi tiết nhỏ đã thế, nên toàn thể chắc chắn cũng thế — thường là **chê**).\n- **\"Trải suốt cả phạm vi\"**: 〜にわたって (trải dài cả một khoảng thời gian / không gian / số lần **rộng lớn**), 〜を通じて・〜を通して (A: suốt cả một thời kỳ; B: **thông qua** một kênh, một người trung gian).\n- **\"Đến tận giới hạn\"**: 〜限り, 〜だけ (làm **hết mức** có thể: できる限り, 力の限り, 好きなだけ, 持てるだけ).\n\nĐiểm then chốt: tất cả các mẫu này đều đứng **sau danh từ** (trừ 限り／だけ có thể sau động từ), nên trong đề phải dựa vào **loại danh từ** đứng trước: tên một thứ tiêu biểu (→ をはじめ), một chi tiết nhỏ + lời chê (→ からして), từ chỉ quy mô lớn (→ にわたって), một thời kỳ hoặc một kênh trung gian (→ を通じて), một động từ khả năng lặp lại (→ だけ).",
+  "points": [
+    {
+      "id": "b04-1",
+      "pattern": "〜をはじめ(として)",
+      "reading": "〜をはじめ(として)",
+      "meaning": "Tiêu biểu là…, đứng đầu là… (và còn nhiều… khác)",
+      "structure": ["N ＋ をはじめ／をはじめとして", "N1 ＋ をはじめとする ＋ N2 (bổ nghĩa danh từ)"],
+      "explain": "Dùng khi muốn **nêu một ví dụ tiêu biểu, nổi bật nhất** trước, rồi nói rằng **ngoài nó ra còn nhiều thứ cùng loại**. Dịch: \"tiêu biểu là A, cùng với…\", \"từ A cho đến…\", \"đứng đầu là A\".\n\nHình dung một đoàn người xếp hàng: A **đứng đầu hàng**, phía sau còn rất nhiều người. 「社長をはじめ、社員全員が〜」 = giám đốc đứng đầu, rồi toàn thể nhân viên…\n\n- Vế sau phải nói về **nhiều thứ** (bao gồm cả A): hay có 多くの・様々な・〜など・全国の・〜たち・皆様・全員.\n- A thường là thứ **nổi tiếng, quan trọng nhất** trong nhóm (người có chức vụ cao nhất, địa danh nổi tiếng nhất, món ăn tiêu biểu nhất).\n- Dạng bổ nghĩa danh từ: 「寿司をはじめとする日本料理」 = các món Nhật, tiêu biểu là sushi.",
+      "nuance": "- Cứng, trang trọng: diễn văn, lời cảm ơn, giới thiệu du lịch, tin tức.\n- Không dùng khi chỉ có **một đối tượng duy nhất** (✗ 私をはじめ、一人で行った).\n- Trong lời cảm ơn / phát biểu: 「〇〇先生をはじめ、皆様に…」 là một khuôn rất hay dùng.",
+      "examples": [
+        {"ja": "{日本|にほん}には{富士山|ふじさん}をはじめ、{美|うつく}しい{山|やま}が{数多|かずおお}くある。", "vi": "Ở Nhật có rất nhiều ngọn núi đẹp, tiêu biểu là núi Phú Sĩ.", "note": "Vế sau: 数多く (nhiều)"},
+        {"ja": "{本日|ほんじつ}は{社長|しゃちょう}をはじめ、{役員|やくいん}{全員|ぜんいん}が{出席|しゅっせき}しております。", "vi": "Hôm nay, đứng đầu là giám đốc, toàn bộ ban lãnh đạo đều có mặt.", "note": "Người có chức vụ cao nhất đứng trước"},
+        {"ja": "{寿司|すし}をはじめとする{日本|にほん}{料理|りょうり}は、{海外|かいがい}でも{人気|にんき}が{高|たか}い。", "vi": "Ẩm thực Nhật, tiêu biểu là sushi, cũng rất được ưa chuộng ở nước ngoài.", "note": "をはじめとする + N"},
+        {"ja": "{東京|とうきょう}をはじめとして、{全国|ぜんこく}の{主要|しゅよう}{都市|とし}で{記念|きねん}イベントが{開催|かいさい}された。", "vi": "Các sự kiện kỷ niệm đã được tổ chức tại những thành phố lớn trên cả nước, mở đầu là Tokyo.", "note": "Văn tin tức"},
+        {"ja": "{田中|たなか}{先生|せんせい}をはじめ、お{世話|せわ}になった{皆様|みなさま}に{心|こころ}よりお{礼|れい}{申|もう}し{上|あ}げます。", "vi": "Tôi xin chân thành cảm ơn thầy Tanaka cùng tất cả mọi người đã giúp đỡ tôi.", "note": "Khuôn lời cảm ơn trang trọng"}
+      ],
+      "compare": [
+        {"with": "〜など", "diff": "「など」 chỉ liệt kê trung tính, đặt **sau** các ví dụ. 「をはじめ」 đặt cái **tiêu biểu nhất lên đầu**, trang trọng hơn. Hai mẫu hay đi cùng nhau: 「AをはじめB、Cなどの + danh từ chung」 (vd 東京をはじめ、大阪、福岡などの大都市). Danh từ chung đứng cuối phải **bao gồm cả A**: nêu 「コアラ」 rồi chỉ nói 「カンガルーなど」 là sai, phải là 「コアラをはじめ、珍しい動物が…」."},
+        {"with": "〜を中心に", "diff": "「を中心に」 = lấy A làm **trung tâm, phần chính** (若者を中心に人気だ: chủ yếu là giới trẻ). 「をはじめ」 = A chỉ là **ví dụ đầu tiên** trong nhiều thứ ngang hàng."},
+        {"with": "〜からして", "diff": "Cả hai đều \"lấy một ví dụ\". 「をはじめ」: ví dụ **tiêu biểu**, vế sau liệt kê nhiều thứ (trung tính / tích cực). 「からして」: ví dụ **nhỏ, không quan trọng**, để suy ra toàn thể (thường là chê)."}
+      ],
+      "mistakes": [
+        "✗ {私|わたし}をはじめ、{一人|ひとり}で{旅行|りょこう}に{行|い}った。→ chỉ có một người; ○ 私は一人で旅行に行った。",
+        "✗ {社長|しゃちょう}をはじめの{社員|しゃいん} → ○ 社長をはじめとする社員 (bổ nghĩa danh từ dùng をはじめとする)"
+      ],
+      "tip": "Vế sau có 「多くの・様々な・〜など・全国の・皆様・全員」 và trước chỗ trống là một danh từ nổi bật → 「をはじめ」. Nếu ngay sau chỗ trống là danh từ → chọn dạng 「をはじめとする」."
+    },
+    {
+      "id": "b04-2",
+      "pattern": "〜からして",
+      "reading": "〜からして",
+      "meaning": "Ngay cả (cái nhỏ như)… đã…, (nên những cái khác thì khỏi phải nói)",
+      "structure": ["N ＋ からして"],
+      "explain": "Lấy **một chi tiết nhỏ, cơ bản** — thứ đáng lẽ không phải là điểm chính (cái tên, cái tiêu đề, giờ xuất phát, cách chào hỏi, quần áo…) — và nói: **\"ngay cả cái đó đã như vậy rồi\"**, nên **toàn thể chắc chắn cũng vậy**.\n\nHình dung: bạn mới nhìn **cái bìa** sách đã thấy chán → chắc chắn nội dung cũng chán. 「この本は表紙からしてつまらなそうだ」.\n\n- Thường dùng để **chê, phê phán**, đánh giá tiêu cực (無理がある・失礼だ・おかしい・怪しい・〜すぎる).\n- Dịch tự nhiên: \"ngay từ… đã…\", \"riêng cái… thôi đã…\".",
+      "nuance": "- Mang sắc thái **đánh giá chủ quan** của người nói, phần lớn là tiêu cực.\n- A là chi tiết **nhỏ / bề ngoài / bước đầu tiên**, không phải phần cốt lõi.\n- Vế sau là **nhận xét, đánh giá** (足りない・子どもっぽい・合わない・違う), không phải mệnh lệnh hay ý chí: ✗「{投|な}げ{方|かた}からして、{練習|れんしゅう}をやり{直|なお}せ」 → ○ 投げ方からして、練習が足りない.\n- Lưu ý một cách dùng khác: 「〜からして」 còn có nghĩa \"**xét từ** (căn cứ)…\" giống 「〜からすると」: 「あの話し方からして、関西の人だろう」 (nghe cách nói thì chắc là người Kansai). Trong bài này ta học nghĩa \"ngay cả… đã…\".",
+      "examples": [
+        {"ja": "あのレストランは、{店員|てんいん}の{態度|たいど}からして{感|かん}じが{悪|わる}い。", "vi": "Nhà hàng đó, ngay từ thái độ của nhân viên đã thấy khó chịu rồi.", "note": "Chi tiết đầu tiên + lời chê"},
+        {"ja": "この{企画|きかく}は、タイトルからしてあまり{面白|おもしろ}くなさそうだ。", "vi": "Bản kế hoạch này, chỉ nhìn tiêu đề thôi đã thấy chẳng thú vị gì.", "note": "タイトル = chi tiết bề ngoài"},
+        {"ja": "{彼|かれ}は{服装|ふくそう}からして、{真面目|まじめ}に{働|はたら}く{気|き}がないように{見|み}える。", "vi": "Riêng cách ăn mặc của anh ta thôi cũng đã thấy không có ý định làm việc nghiêm túc.", "note": ""},
+        {"ja": "うちの{兄弟|きょうだい}はまるで{似|に}ていない。{朝|あさ}{起|お}きる{時間|じかん}からして{違|ちが}う。", "vi": "Anh em nhà tôi chẳng giống nhau chút nào. Ngay cả giờ ngủ dậy đã khác rồi.", "note": "Trường hợp không chê: \"ngay cả cái nhỏ nhất đã khác\""},
+        {"ja": "この{問題|もんだい}は{問|と}いの{文|ぶん}からして{難|むずか}しく、{何|なに}を{聞|き}かれているのかも{分|わ}からない。", "vi": "Bài này ngay câu hỏi đã khó, đến việc người ta hỏi gì tôi cũng không hiểu.", "note": ""}
+      ],
+      "compare": [
+        {"with": "〜をはじめ", "diff": "「をはじめ」: nêu ví dụ **tiêu biểu nhất**, vế sau là \"và nhiều thứ khác\" (trung tính, trang trọng). 「からして」: nêu chi tiết **nhỏ** để suy ra toàn thể, vế sau là **đánh giá** (thường xấu)."},
+        {"with": "〜からすると・〜からすれば", "diff": "「からすると」 = \"xét từ / căn cứ vào A thì (suy đoán)…\" (あの様子からすると、合格したようだ). 「からして」 (nghĩa của bài này) = \"ngay cả A đã như thế\" — nhấn vào việc A là **ví dụ nhỏ**."}
+      ],
+      "mistakes": [
+        "✗ {社長|しゃちょう}からして、{社員|しゃいん}{全員|ぜんいん}が{会議|かいぎ}に{参加|さんか}した。→ chỉ liệt kê, không có đánh giá; ○ 社長をはじめ、社員全員が…",
+        "✗ {名前|なまえ}のからして → ○ 名前からして (N + からして, không có の)"
+      ],
+      "tip": "Câu có **lời chê / đánh giá** (無理だ・失礼だ・怪しい・つまらなそう) và trước chỗ trống là một chi tiết nhỏ (名前・タイトル・表紙・態度・服装・最初の〜) → 「からして」."
+    },
+    {
+      "id": "b04-3",
+      "pattern": "〜にわたって",
+      "reading": "〜にわたって",
+      "meaning": "Suốt…, trải dài khắp… (cả một phạm vi rộng)",
+      "structure": ["N ＋ にわたって／にわたり", "N1 ＋ にわたる／にわたった ＋ N2"],
+      "explain": "「わたる」 (渡る) = vắt ngang, trải qua. 「〜にわたって」 = **trải kín toàn bộ** một phạm vi rộng — từ đầu này đến đầu kia. Hình dung một **tấm thảm trải kín** cả hành lang.\n\nDanh từ phía trước là từ chỉ **quy mô lớn**:\n- **Thời gian**: 10時間・3日間・半年・30年・長期間・〜から〜まで\n- **Không gian**: 広い範囲・全国・県内全域・50キロ\n- **Số lần**: 5回・数回・3度\n- **Lĩnh vực**: 多方面・多岐・全科目\n\nVế sau là việc **diễn ra liên tục / bao trùm** cả phạm vi đó: 続く・行われる・被害が出る・研究する・調査する.",
+      "nuance": "- Văn viết, trang trọng — rất hay gặp trong **tin tức, báo cáo**.\n- **Không** dùng với một điểm thời gian (✗ 3時にわたって) hay một phạm vi hẹp (✗ 机の上にわたって).\n- 「にわたり」 là dạng văn viết của 「にわたって」.\n- Người nói thường muốn nhấn mạnh **\"dài / rộng đến thế\"**.",
+      "examples": [
+        {"ja": "{台風|たいふう}の{影響|えいきょう}で、{関東|かんとう}{地方|ちほう}の{広|ひろ}い{範囲|はんい}にわたって{停電|ていでん}が{発生|はっせい}した。", "vi": "Do ảnh hưởng của bão, mất điện đã xảy ra trên diện rộng khắp vùng Kanto.", "note": "Không gian · bản tin"},
+        {"ja": "{手術|しゅじゅつ}は10{時間|じかん}にわたって{行|おこな}われた。", "vi": "Ca phẫu thuật kéo dài suốt 10 tiếng đồng hồ.", "note": "Thời gian · nhấn mạnh \"lâu đến thế\""},
+        {"ja": "{彼女|かのじょ}は30{年|ねん}にわたり、{地域|ちいき}の{子|こ}どもたちにピアノを{教|おし}えてきた。", "vi": "Suốt 30 năm, bà ấy đã dạy piano cho trẻ em trong vùng.", "note": "にわたり = dạng văn viết"},
+        {"ja": "5{回|かい}にわたる{話|はな}し{合|あ}いの{末|すえ}、{両者|りょうしゃ}はようやく{合意|ごうい}に{達|たっ}した。", "vi": "Sau 5 lần thương lượng, hai bên cuối cùng cũng đã đạt được thoả thuận.", "note": "Số lần · にわたる + N"},
+        {"ja": "この{本|ほん}は、{政治|せいじ}から{文化|ぶんか}まで{多岐|たき}にわたるテーマを{扱|あつか}っている。", "vi": "Cuốn sách này đề cập đến nhiều chủ đề đa dạng, từ chính trị cho đến văn hoá.", "note": "多岐にわたる = trải rộng nhiều lĩnh vực (cụm hay gặp)"}
+      ],
+      "compare": [
+        {"with": "〜を通じて／〜を通して (nghĩa A)", "diff": "「一年を通じて」 = suốt cả một **thời kỳ** (trạng thái không đổi trong suốt thời gian đó). 「にわたって」 dùng được cho cả **không gian, số lần, lĩnh vực**, và nhấn vào **quy mô lớn**."},
+        {"with": "〜にかけて (N3)", "diff": "「AからBにかけて」 = khoảng từ A đến B, ranh giới **mơ hồ** (今夜から明日の朝にかけて雨). 「にわたって」 nhấn mạnh **bao trùm toàn bộ** phạm vi."}
+      ],
+      "mistakes": [
+        "✗ {午後|ごご}3{時|じ}にわたって、{会議|かいぎ}が{始|はじ}まった。→ ○ 午後3時に会議が始まった。(một điểm thời gian)",
+        "✗ {部屋|へや}の{中|なか}にわたって、{本|ほん}が{散|ち}らかっている。→ phạm vi hẹp; ○ 部屋中に本が散らかっている。"
+      ],
+      "tip": "Trước chỗ trống là từ chỉ quy mô (〜時間・〜日間・〜年・全国・広い範囲・〜回・多岐) → 「にわたって」. Ngay sau chỗ trống là danh từ → 「にわたる」."
+    },
+    {
+      "id": "b04-4",
+      "pattern": "〜を通じて・〜を通して",
+      "reading": "〜をつうじて・〜をとおして",
+      "meaning": "A: Suốt (cả thời kỳ)… / B: Thông qua…, qua (một kênh, người trung gian)…",
+      "structure": ["A: N (thời kỳ) ＋ を通じて／を通して", "B: N (kênh, trung gian, hoạt động) ＋ を通じて／を通して", "Dạng bổ nghĩa: 〜を通じての N／〜を通した N"],
+      "explain": "「通る／通じる」 = đi xuyên qua. Hai nghĩa đều xuất phát từ hình ảnh **\"xuyên suốt\"**.\n\n**A. Suốt cả một thời kỳ**\nTrong **toàn bộ** một khoảng thời gian **tương đối dài**, trạng thái B **không đổi**.\n- 「一年を通じて暖かい」 = ấm áp quanh năm.\n- Từ hay đi cùng: 一年・四季・一生／生涯・会期・在学期間・〜時代.\n\n**B. Thông qua (kênh / người trung gian)**\nĐạt được B **bằng cách đi qua** một trung gian: người giới thiệu, phương tiện truyền thông, một hoạt động, một trải nghiệm.\n- 「友人を通じて知り合った」 = quen nhau qua bạn bè.\n- 「経験を通して学ぶ」 = học được qua trải nghiệm.\n- Không dùng cho **công cụ trực tiếp** (dao, kéo, bút…) → dùng 「で」.",
+      "nuance": "- Hai dạng 「通じて」「通して」 phần lớn thay được cho nhau. Sắc thái nhỏ: 「通じて」 hơi cứng hơn, hay dùng cho kênh truyền tin (メディア・ネット・電話); 「通して」 gợi ý **chủ động dùng / trải qua** một quá trình (経験を通して, 活動を通して).\n- Nghĩa A: vế sau là **trạng thái kéo dài**, không phải một việc xảy ra một lần.\n- Không dùng cho khoảng thời gian ngắn (✗ 3時から4時を通じて).",
+      "examples": [
+        {"ja": "この{島|しま}は{一年|いちねん}を{通|つう}じて{暖|あたた}かく、{雪|ゆき}が{降|ふ}ることはほとんどない。", "vi": "Hòn đảo này ấm áp quanh năm, hầu như không bao giờ có tuyết.", "note": "A · 一年を通じて = quanh năm"},
+        {"ja": "{彼|かれ}は{生涯|しょうがい}を{通|つう}じて、{平和|へいわ}のための{活動|かつどう}を{続|つづ}けた。", "vi": "Suốt cả cuộc đời, ông ấy đã không ngừng hoạt động vì hoà bình.", "note": "A · 生涯 = cả đời"},
+        {"ja": "{今回|こんかい}の{展示会|てんじかい}では、{会期|かいき}を{通|とお}して{大|おお}きなトラブルは{一度|いちど}もなかった。", "vi": "Ở hội chợ triển lãm lần này, suốt cả thời gian diễn ra không hề có sự cố lớn nào.", "note": "A · 会期 = thời gian diễn ra sự kiện"},
+        {"ja": "{共通|きょうつう}の{友人|ゆうじん}を{通|つう}じて、{今|いま}の{妻|つま}と{知|し}り{合|あ}った。", "vi": "Tôi quen vợ tôi bây giờ qua một người bạn chung.", "note": "B · người trung gian"},
+        {"ja": "{留学|りゅうがく}{経験|けいけん}を{通|とお}して、{異文化|いぶんか}を{理解|りかい}することの{大切|たいせつ}さを{学|まな}んだ。", "vi": "Qua trải nghiệm du học, tôi đã học được tầm quan trọng của việc thấu hiểu nền văn hoá khác.", "note": "B · trải nghiệm"},
+        {"ja": "{記者|きしゃ}{会見|かいけん}の{様子|ようす}は、インターネットを{通|つう}じて{世界中|せかいじゅう}に{配信|はいしん}された。", "vi": "Toàn cảnh buổi họp báo đã được phát đi khắp thế giới qua internet.", "note": "B · kênh truyền thông"}
+      ],
+      "compare": [
+        {"with": "〜にわたって", "diff": "Nghĩa A gần với 「にわたって」, nhưng 「を通じて」 chỉ dùng cho **thời gian** và nhấn vào trạng thái **không đổi suốt thời kỳ**; 「にわたって」 dùng cả cho không gian, số lần, và nhấn vào **quy mô lớn**."},
+        {"with": "〜で／〜によって", "diff": "「で」 = công cụ, phương tiện **trực tiếp** (はさみで切る, 電車で行く). 「を通じて」 (B) = qua một **trung gian / kênh** (人, メディア, 活動). 「によって」 = phương tiện / nguyên nhân / tác nhân, cứng hơn và không nhất thiết có ý \"đi qua trung gian\"."}
+      ],
+      "mistakes": [
+        "✗ はさみを{通|とお}して{紙|かみ}を{切|き}った。→ ○ はさみで紙を切った。(công cụ trực tiếp)",
+        "✗ 3{時|じ}から4{時|じ}を{通|つう}じて{昼寝|ひるね}をした。→ khoảng thời gian quá ngắn; ○ 3時から4時まで昼寝をした。"
+      ],
+      "tip": "Trước chỗ trống là **thời kỳ dài** (一年・四季・生涯・会期) → nghĩa A. Là **người / kênh / hoạt động trung gian** (友人・テレビ・ネット・ボランティア活動・経験) → nghĩa B. Nếu là dụng cụ cầm tay → không phải mẫu này."
+    },
+    {
+      "id": "b04-5",
+      "pattern": "〜限り",
+      "reading": "〜かぎり",
+      "meaning": "Hết mức có thể…, trong toàn bộ phạm vi… (làm đến giới hạn)",
+      "structure": ["N ＋ の ＋ 限り (力の限り, 声の限り, 命の限り)", "V辞書形／Vている ＋ 限り (できる限り, 許す限り, 覚えている限り)", "〜限りの ＋ N (できる限りの努力)"],
+      "explain": "「限り」 = **giới hạn, đường biên**. Mẫu này nghĩa là **làm hết, dùng hết toàn bộ** những gì nằm trong phạm vi A — **đến tận giới hạn**.\n\nHình dung đổ nước vào cốc **đầy đến tận miệng**: 「力の限り」 = dốc hết sức, 「声の限り」 = gào hết cỡ giọng.\n\n- **できる限り** = hết sức có thể (≈ できるだけ, nhưng cứng hơn).\n- **時間の許す限り** = trong phạm vi thời gian cho phép.\n- **覚えている／知っている限りのこと** = tất cả những gì mình nhớ / biết.\n- Động từ phía trước thường là **dạng khả năng hoặc ている** (できる・許す・覚えている・知っている).",
+      "nuance": "- Hơi cứng, thường dùng khi bày tỏ **quyết tâm, nỗ lực** (phát biểu, email công việc).\n- Cẩn thận phân biệt với các nghĩa khác của 限り (5課): 「〜限り(は)」 = \"**chừng nào còn**…\" (điều kiện: 雨が降らない限り、試合は行う), 「〜限りでは」 = \"**theo phạm vi**… (mà tôi biết)\" (私が知っている限りでは). Ở bài này 限り = **làm đến mức tối đa**, vế sau là hành động dốc sức.",
+      "examples": [
+        {"ja": "{皆様|みなさま}のご{期待|きたい}に{応|こた}えられるよう、できる{限|かぎ}り{努力|どりょく}いたします。", "vi": "Chúng tôi sẽ nỗ lực hết sức có thể để đáp ứng kỳ vọng của quý vị.", "note": "できる限り = hết sức có thể"},
+        {"ja": "{試合|しあい}には{負|ま}けたが、{選手|せんしゅ}たちは{最後|さいご}まで{力|ちから}の{限|かぎ}り{戦|たたか}った。", "vi": "Dù thua trận, các cầu thủ đã chiến đấu hết sức mình đến phút cuối.", "note": "N の限り"},
+        {"ja": "{事故|じこ}について{覚|おぼ}えている{限|かぎ}りのことを{警察|けいさつ}に{話|はな}した。", "vi": "Tôi đã kể cho cảnh sát tất cả những gì mình nhớ về vụ tai nạn.", "note": "Vている + 限りの + N"},
+        {"ja": "{山|やま}で{道|みち}に{迷|まよ}った{彼|かれ}は、{声|こえ}の{限|かぎ}り{助|たす}けを{求|もと}めた。", "vi": "Lạc đường trên núi, anh ấy gào hết sức để kêu cứu.", "note": "声の限り = hết cỡ giọng"},
+        {"ja": "{時間|じかん}の{許|ゆる}す{限|かぎ}り、{皆|みな}さんの{質問|しつもん}にお{答|こた}えします。", "vi": "Trong phạm vi thời gian cho phép, tôi sẽ trả lời câu hỏi của mọi người.", "note": "許す限り · cụm hay gặp"}
+      ],
+      "compare": [
+        {"with": "〜だけ (mẫu 6)", "diff": "Cùng ý \"đến mức tối đa\". 「限り」 cứng hơn, hay đi với 力の・声の・命の・許す. 「だけ」 tự nhiên hơn, hay lặp cùng động từ (持てるだけ持つ) và đi được với たい・欲しい・好きな (「好きな限り」 ✗)."},
+        {"with": "〜限り(は)・〜限りでは (5課)", "diff": "「〜ない限り」 = trừ khi / chừng nào chưa… (điều kiện). 「〜限りでは」 = theo phạm vi hiểu biết. Bài này: 限り + hành động dốc sức (努力する, 戦う, 話す)."}
+      ],
+      "mistakes": [
+        "✗ {力|ちから}{限|かぎ}り{頑張|がんば}る → ○ 力の限り頑張る (danh từ cần の)",
+        "✗ {好|す}きな{限|かぎ}り{食|た}べてください。→ ○ 好きなだけ食べてください。"
+      ],
+      "tip": "Thấy 「力の・声の・命の・時間の許す・できる」 trước chỗ trống, vế sau là hành động dốc sức → 「限り」. Nếu trước chỗ trống là 好きな・欲しい・〜たい → chọn 「だけ」, không phải 限り."
+    },
+    {
+      "id": "b04-6",
+      "pattern": "〜だけ",
+      "reading": "〜だけ",
+      "meaning": "(Làm) hết mức có thể…, bao nhiêu tuỳ thích…",
+      "structure": ["V可能形 (辞書形) ＋ だけ ＋ V (cùng động từ): 持てるだけ持つ", "Vたい／欲しい／好きな／必要な ＋ だけ", "Vるだけ Vた (đã làm hết mức rồi): やるだけやった", "〜だけの ＋ N (持てるだけの荷物)"],
+      "explain": "Đây **không** phải 「だけ」 = \"chỉ\" quen thuộc ở N4–N3. Ở đây 「だけ」 chỉ **mức độ tối đa**: làm **đến hết mức** có thể / muốn / cần.\n\n- 「持てるだけ持つ」 = mang **hết mức mang nổi**.\n- 「好きなだけ取る」 = lấy **bao nhiêu tuỳ thích**.\n- 「泣きたいだけ泣く」 = khóc **cho thoả**.\n- 「必要なだけ使う」 = dùng **đủ lượng cần**.\n\nĐặc điểm dễ nhận ra nhất: **cùng một động từ lặp lại** ở hai bên だけ (食べられるだけ食べる, 貯められるだけ貯める).\n\nDạng 「やるだけやった」「言うだけ言った」 = \"đã làm / nói hết những gì có thể rồi\" — thường đi kèm ý **phần còn lại để cho số phận / người khác quyết định**: 「やるだけやったから、あとは結果を待つだけだ」.",
+      "nuance": "- Văn nói lẫn văn viết, tự nhiên hơn 「限り」.\n- Động từ trước だけ thường là **dạng khả năng** (できる・持てる・食べられる) hoặc các từ chỉ mong muốn / nhu cầu (たい・欲しい・好きな・必要な).\n- Không dùng với động từ xảy ra tức thời, không có \"mức độ\" (✗ 着くだけ着く).\n- 「できるだけ」 ≈ 「できる限り」.",
+      "examples": [
+        {"ja": "{飲|の}み{物|もの}はセルフサービスですので、{飲|の}みたいだけお{飲|の}みください。", "vi": "Đồ uống là tự phục vụ, quý khách muốn uống bao nhiêu cũng được.", "note": "Vたい + だけ + (cùng động từ)"},
+        {"ja": "{地震|じしん}の{後|あと}、{持|も}てるだけの{荷物|にもつ}を{持|も}って{避難所|ひなんじょ}へ{向|む}かった。", "vi": "Sau trận động đất, tôi mang theo hết số hành lý có thể mang được và hướng về nơi sơ tán.", "note": "V可能形 + だけの + N"},
+        {"ja": "やれるだけのことはやった。あとは{結果|けっか}を{待|ま}つだけだ。", "vi": "Những gì làm được tôi đã làm hết rồi. Giờ chỉ còn chờ kết quả thôi.", "note": "だけ thứ hai = \"chỉ\" (nghĩa thường)"},
+        {"ja": "{資料|しりょう}は{必要|ひつよう}なだけコピーして、{会議|かいぎ}で{配|くば}ってください。", "vi": "Hãy photo tài liệu đủ số lượng cần rồi phát trong cuộc họp.", "note": "必要な + だけ"},
+        {"ja": "{泣|な}きたいだけ{泣|な}いたら、{少|すこ}し{気持|きも}ちが{落|お}ち{着|つ}いた。", "vi": "Khóc cho thoả xong, lòng tôi cũng nhẹ đi đôi chút.", "note": "Lặp cùng động từ 泣く"},
+        {"ja": "{貯|た}められるだけ{貯|た}めて、{来年|らいねん}は{世界一周|せかいいっしゅう}{旅行|りょこう}に{行|い}くつもりだ。", "vi": "Tôi định tiết kiệm hết mức có thể để năm sau đi du lịch vòng quanh thế giới.", "note": "V可能形 + だけ + V"}
+      ],
+      "compare": [
+        {"with": "〜限り (mẫu 5)", "diff": "「できるだけ」 ≈ 「できる限り」. Nhưng 「限り」 đi với 力の・声の (N の限り), còn 「だけ」 đi với たい・欲しい・好きな và lặp động từ; 「好きな限り」「力のだけ」 đều ✗."},
+        {"with": "〜だけ = chỉ (N4)", "diff": "「一つだけ」 = chỉ một cái. 「持てるだけ」 = **càng nhiều càng tốt, đến mức tối đa** — gần như ngược nghĩa. Mẹo: thấy động từ dạng khả năng / たい + だけ + cùng động từ → nghĩa \"tối đa\"."}
+      ],
+      "mistakes": [
+        "✗ {好|す}きだけ{取|と}ってください。→ ○ 好きなだけ取ってください。(好き là な形 → 好きな)",
+        "✗ {駅|えき}に{着|つ}くだけ{着|つ}いた。→ động từ tức thời, không có mức độ để \"làm hết mức\""
+      ],
+      "tip": "Cùng một động từ xuất hiện ở hai bên chỗ trống (持てる（　）持つ, 食べられる（　）食べる) → 「だけ」. Trước chỗ trống là 好きな・欲しい・〜たい・必要な → 「だけ」."
+    }
+  ],
+  "summary": [
+    {"pattern": "〜をはじめ(として)", "meaning": "tiêu biểu là… (và nhiều… khác)", "key": "N; vế sau số nhiều; をはじめとする + N; trang trọng"},
+    {"pattern": "〜からして", "meaning": "ngay cả… đã…", "key": "chi tiết nhỏ → suy ra toàn thể; thường là chê"},
+    {"pattern": "〜にわたって", "meaning": "suốt, trải khắp (phạm vi rộng)", "key": "thời gian / không gian / số lần lớn; にわたる + N; tin tức"},
+    {"pattern": "〜を通じて・〜を通して", "meaning": "A: suốt thời kỳ / B: thông qua", "key": "A: 一年・生涯; B: người, kênh, hoạt động trung gian (không phải dụng cụ)"},
+    {"pattern": "〜限り", "meaning": "hết mức, đến giới hạn", "key": "できる限り・力の限り・許す限り; cứng"},
+    {"pattern": "〜だけ", "meaning": "hết mức, bao nhiêu tuỳ thích", "key": "lặp động từ: 持てるだけ持つ; 好きな／たい + だけ"}
+  ],
+  "quiz": [
+    {"id": "b04-q1", "kind": "form", "ref": "b04-1", "q": "この{美術館|びじゅつかん}には、ゴッホの{作品|さくひん}（　　）、{世界的|せかいてき}に{有名|ゆうめい}な{絵画|かいが}が{数多|かずおお}く{展示|てんじ}されている。", "options": ["からして", "をはじめ", "にわたって", "を通じて"], "answer": 1, "vi": "Bảo tàng mỹ thuật này trưng bày rất nhiều bức tranh nổi tiếng thế giới, tiêu biểu là tác phẩm của Van Gogh.", "why": "Nêu ví dụ tiêu biểu + vế sau là \"nhiều bức tranh\" → **をはじめ**. 「からして」 cần vế sau là đánh giá (thường là chê); 「にわたって」 cần danh từ chỉ phạm vi rộng (thời gian, khu vực); 「を通じて」 = qua trung gian / suốt thời kỳ, không hợp."},
+    {"id": "b04-q2", "kind": "form", "ref": "b04-2", "q": "あの{店|みせ}はだめだ。{入口|いりぐち}の{看板|かんばん}（　　）{汚|よご}れていて、{掃除|そうじ}をしている{様子|ようす}がない。", "options": ["をはじめ", "にわたって", "からして", "限り"], "answer": 2, "vi": "Cửa hàng đó tệ lắm. Ngay cả tấm biển ở lối vào đã bẩn, chẳng thấy dọn dẹp gì cả.", "why": "Một chi tiết nhỏ (tấm biển) + lời chê → suy ra cả cửa hàng tệ → **からして**. 「をはじめ」 cần vế sau liệt kê nhiều thứ; 「にわたって」 cần phạm vi rộng; 「看板の限り」 không có nghĩa."},
+    {"id": "b04-q3", "kind": "form", "ref": "b04-3", "q": "{昨日|きのう}の{地震|じしん}では、{県内|けんない}の{広|ひろ}い{範囲|はんい}（　　）{水道|すいどう}が{止|と}まった。", "options": ["を通して", "からして", "をはじめ", "にわたって"], "answer": 3, "vi": "Trong trận động đất hôm qua, nước máy bị cắt trên diện rộng khắp tỉnh.", "why": "「広い範囲」 là phạm vi không gian rộng → **にわたって**. 「を通して」 nghĩa A chỉ dùng cho thời gian, nghĩa B cần kênh trung gian; 「をはじめ」 cần một ví dụ tiêu biểu; 「からして」 cần một chi tiết nhỏ + đánh giá."},
+    {"id": "b04-q4", "kind": "form", "ref": "b04-4", "q": "{彼|かれ}とは、SNS（　　）{知|し}り{合|あ}った。", "options": ["にわたって", "からして", "を通じて", "限り"], "answer": 2, "vi": "Tôi quen anh ấy qua mạng xã hội.", "why": "SNS là **kênh trung gian** → **を通じて** (nghĩa B). 「にわたって」 cần phạm vi rộng; 「からして」 cần lời đánh giá; 「SNS限り」 không có nghĩa."},
+    {"id": "b04-q5", "kind": "form", "ref": "b04-6", "q": "この{袋|ふくろ}に{入|はい}る（　　）、{好|す}きな{野菜|やさい}を{詰|つ}めていいですよ。", "options": ["だけ", "限りに", "にわたって", "からして"], "answer": 0, "vi": "Bạn cứ nhét rau mình thích vào túi này, nhét được bao nhiêu thì nhét.", "why": "\"Đến mức tối đa túi chứa được\" → V辞書形 + **だけ**. 「限りに」 sai dạng (phải là 入る限り, không có に); 「にわたって」「からして」 phải nối với danh từ."},
+    {"id": "b04-q6", "kind": "form", "ref": "b04-5", "q": "{試合|しあい}には{負|ま}けたが、{選手|せんしゅ}たちは{力|ちから}の（　　）{戦|たたか}った。", "options": ["だけ", "をはじめ", "にわたって", "限り"], "answer": 3, "vi": "Dù thua trận nhưng các cầu thủ đã chiến đấu hết sức mình.", "why": "Cụm cố định 「**力の限り**」 = dốc hết sức. 「力のだけ」 sai (だけ không đi sau 「Nの」 theo cách này); 「力のをはじめ」「力のにわたって」 sai cấu trúc."},
+    {"id": "b04-q7", "kind": "order", "ref": "b04-1", "q": "{当社|とうしゃ}は ＿＿＿ ＿＿＿ ★ ＿＿＿ {事業|じぎょう}を{展開|てんかい}している。", "options": ["世界各国で", "する", "アジアを", "はじめと"], "order": [2, 3, 1, 0], "answer": 1, "vi": "Công ty chúng tôi đang triển khai kinh doanh tại nhiều nước trên thế giới, tiêu biểu là châu Á.", "why": "当社は **アジアを はじめと する 世界各国で** 事業を展開している → ★ (ô thứ 3) = 「する」. Ghép khối 「Nをはじめとする + N」: 「アジアを」+「はじめと」+「する」+「世界各国」."}
+  ],
+  "practice": [
+    {"id": "b04-p1", "kind": "form", "ref": "b04-1", "q": "{入学式|にゅうがくしき}には、{学長|がくちょう}（　　）、{多|おお}くの{教職員|きょうしょくいん}が{出席|しゅっせき}した。", "options": ["からして", "にわたって", "をはじめ", "だけ"], "answer": 2, "vi": "Lễ nhập học có sự tham dự của rất nhiều cán bộ, giảng viên, đứng đầu là hiệu trưởng.", "why": "Người có chức vụ cao nhất đứng trước + vế sau 「多くの教職員」 → **をはじめ**. 「からして」 cần lời đánh giá; 「にわたって」 cần phạm vi rộng; 「学長だけ」 = chỉ hiệu trưởng, mâu thuẫn với 「多くの教職員」."},
+    {"id": "b04-p2", "kind": "form", "ref": "b04-1", "q": "{法隆寺|ほうりゅうじ}（　　）{奈良|なら}の{古|ふる}い{寺|てら}を{巡|めぐ}るツアーに{参加|さんか}した。", "options": ["をはじめとする", "からして", "にわたる", "を通じた"], "answer": 0, "vi": "Tôi đã tham gia tour tham quan các ngôi chùa cổ ở Nara, tiêu biểu là chùa Horyuji.", "why": "Ngay sau chỗ trống là danh từ (古い寺) → dạng bổ nghĩa **をはじめとする**. 「からして」 không bổ nghĩa danh từ và cần lời chê; 「にわたる」 cần từ chỉ phạm vi rộng; 「法隆寺を通じた寺」 không có nghĩa."},
+    {"id": "b04-p3", "kind": "form", "ref": "b04-2", "q": "{彼|かれ}の{話|はなし}は{信用|しんよう}できない。{話|はな}しぶり（　　）{大|おお}げさで、{本当|ほんとう}かどうか{怪|あや}しい。", "options": ["をはじめ", "からして", "にわたって", "を通して"], "answer": 1, "vi": "Chuyện anh ta kể không tin được. Ngay cách nói đã khoa trương, chẳng biết có thật hay không.", "why": "Chi tiết nhỏ (cách nói) + lời chê (大げさ・怪しい) → **からして**. 「をはじめ」 cần vế sau liệt kê nhiều thứ; 「にわたって」 cần phạm vi rộng; 「話しぶりを通して」 = qua cách nói (trung gian), không đi với lời chê này."},
+    {"id": "b04-p4", "kind": "form", "ref": "b04-3", "q": "{国際|こくさい}{会議|かいぎ}は{3日間|みっかかん}（　　）{行|おこな}われ、{様々|さまざま}な{意見|いけん}が{出|で}た。", "options": ["からして", "をはじめ", "にわたって", "の最中に"], "answer": 2, "vi": "Hội nghị quốc tế diễn ra suốt 3 ngày, và nhiều ý kiến khác nhau đã được đưa ra.", "why": "「3日間」 là khoảng thời gian → **にわたって**. 「からして」 cần lời đánh giá; 「をはじめ」 cần ví dụ tiêu biểu; 「最中」 dùng cho một hoạt động đang diễn ra dở (会議の最中に), không đi sau một khoảng thời gian như 「3日間の」."},
+    {"id": "b04-p5", "kind": "form", "ref": "b04-3", "q": "{専門家|せんもんか}による{長期間|ちょうきかん}（　　）{調査|ちょうさ}の{結果|けっか}、{事故|じこ}の{原因|げんいん}が{明|あき}らかになった。", "options": ["にわたる", "をはじめとする", "からして", "の限り"], "answer": 0, "vi": "Kết quả cuộc điều tra kéo dài của các chuyên gia đã làm sáng tỏ nguyên nhân vụ tai nạn.", "why": "「長期間」 (khoảng thời gian dài) + danh từ 「調査」 → **にわたる** + N. 「をはじめとする」 cần một ví dụ tiêu biểu; 「からして」 không bổ nghĩa danh từ; 「長期間の限り調査」 sai cấu trúc."},
+    {"id": "b04-p6", "kind": "form", "ref": "b04-4", "q": "この{地域|ちいき}は{一年|いちねん}（　　）{雨|あめ}が{多|おお}く、{湿度|しつど}も{高|たか}い。", "options": ["からして", "を通じて", "をはじめ", "だけ"], "answer": 1, "vi": "Khu vực này quanh năm mưa nhiều, độ ẩm cũng cao.", "why": "Suốt cả thời kỳ (一年), trạng thái không đổi → **を通じて** (nghĩa A). 「からして」 cần một chi tiết nhỏ; 「をはじめ」 cần ví dụ tiêu biểu trong nhiều thứ; 「一年だけ」 = chỉ một năm, sai nghĩa."},
+    {"id": "b04-p7", "kind": "form", "ref": "b04-4", "q": "ボランティア{活動|かつどう}（　　）、{地域|ちいき}の{人々|ひとびと}とのつながりが{深|ふか}まった。", "options": ["にわたって", "からして", "を通して", "限り"], "answer": 2, "vi": "Thông qua hoạt động tình nguyện, mối gắn kết với người dân địa phương đã trở nên sâu sắc hơn.", "why": "Hoạt động là **trung gian** để đạt kết quả → **を通して** (nghĩa B). 「にわたって」 cần từ chỉ quy mô (thời gian, khu vực); 「からして」 cần lời đánh giá; 「活動限り」 sai cấu trúc."},
+    {"id": "b04-p8", "kind": "form", "ref": "b04-6", "q": "{明日|あした}は{休|やす}みだから、{寝|ね}たい（　　）{寝|ね}ようと{思|おも}う。", "options": ["限り", "にわたって", "を通じて", "だけ"], "answer": 3, "vi": "Mai được nghỉ nên tôi định ngủ cho thoả thích.", "why": "Vたい + **だけ** + cùng động từ (寝る) = làm đến mức muốn. 「たい限り」 không dùng; 「にわたって」「を通じて」 phải nối với danh từ."},
+    {"id": "b04-p9", "kind": "form", "ref": "b04-5", "q": "{被災地|ひさいち}の{人々|ひとびと}のために、{私|わたし}たちにできる（　　）の{支援|しえん}をしたい。", "options": ["限り", "からして", "をはじめ", "にわたって"], "answer": 0, "vi": "Chúng tôi muốn hỗ trợ hết mức có thể cho người dân vùng thiên tai.", "why": "「できる**限り**の + N」 = hết mức có thể. 「からして」「をはじめ」「にわたって」 đều phải nối với danh từ, không nối với 「できる」."},
+    {"id": "b04-p10", "kind": "order", "ref": "b04-6", "q": "{無料|むりょう}で{配|くば}られていた ＿＿＿ ＿＿＿ ★ ＿＿＿ {帰|かえ}った。", "options": ["持って", "だけ", "本を", "持てる"], "order": [2, 3, 1, 0], "answer": 1, "vi": "Tôi đã mang về hết số sách được phát miễn phí mà mình có thể mang nổi.", "why": "無料で配られていた **本を 持てる だけ 持って** 帰った → ★ (ô thứ 3) = 「だけ」. 「配られていた」 bổ nghĩa cho danh từ nên 「本を」 đứng đầu; khối 「持てるだけ持って」 lặp cùng động từ."},
+    {"id": "b04-p11", "kind": "order", "ref": "b04-4", "q": "{私|わたし}は ＿＿＿ ＿＿＿ ★ ＿＿＿ を{学|まな}んだ。", "options": ["経験", "大切なこと", "失敗の", "を通して"], "order": [2, 0, 3, 1], "answer": 3, "vi": "Tôi đã học được nhiều điều quan trọng qua những trải nghiệm thất bại.", "why": "私は **失敗の 経験 を通して 大切なこと** を学んだ → ★ (ô thứ 3) = 「を通して」. 「失敗の」 bổ nghĩa cho 「経験」; 「経験を通して」 = qua trải nghiệm (nghĩa B); 「大切なこと」 là tân ngữ đứng trước 「を学んだ」."},
+    {"id": "b04-p12", "kind": "usage", "ref": "b04-3", "q": "「〜にわたって」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["{午後|ごご}3{時|じ}にわたって、{会議|かいぎ}が{始|はじ}まった。", "{机|つくえ}の{上|うえ}にわたって、{本|ほん}が{置|お}いてある。", "{友人|ゆうじん}にわたって、{彼女|かのじょ}と{知|し}り{合|あ}った。", "この{小説|しょうせつ}は、{親子|おやこ}{三代|さんだい}にわたる{家族|かぞく}の{物語|ものがたり}だ。"], "answer": 3, "vi": "(4) Cuốn tiểu thuyết này là câu chuyện của một gia đình trải suốt ba thế hệ.", "why": "(4) 「三代」 là khoảng thời gian dài → にわたる + N → đúng. (1) một điểm thời gian → 3時に; (2) phạm vi hẹp → 机の上に; (3) người trung gian → 友人を通じて."}
+  ],
+  "test": [
+    {"id": "b04-t1", "kind": "form", "ref": "b04-2", "q": "この{映画|えいが}は{最初|さいしょ}の{場面|ばめん}（　　）{退屈|たいくつ}で、{途中|とちゅう}で{寝|ね}てしまった。", "options": ["からして", "にわたって", "をはじめ", "を通じて"], "answer": 0, "vi": "Bộ phim này ngay từ cảnh đầu đã chán, tôi ngủ quên giữa chừng.", "why": "Chi tiết đầu tiên (最初の場面) + lời chê (退屈) → **からして**. 「にわたって」 cần quy mô lớn; 「をはじめ」 cần vế sau liệt kê; 「最初の場面を通じて」 = suốt cảnh đầu / qua cảnh đầu — không hợp với việc suy ra cả bộ phim chán."},
+    {"id": "b04-t2", "kind": "form", "ref": "b04-4", "q": "{彼|かれ}は{高校|こうこう}の3{年間|ねんかん}（　　）、ずっとサッカー{部|ぶ}のキャプテンを{務|つと}めた。", "options": ["をはじめ", "を通して", "からして", "の最中に"], "answer": 1, "vi": "Suốt 3 năm cấp ba, cậu ấy luôn giữ vai trò đội trưởng đội bóng đá.", "why": "Suốt cả thời kỳ (3年間) + 「ずっと」 → **を通して** (nghĩa A). 「をはじめ」 cần ví dụ tiêu biểu; 「からして」 cần lời đánh giá; 「3年間の最中に」 sai — 最中 chỉ dùng cho một hoạt động đang làm dở, không dùng cho một thời kỳ."},
+    {"id": "b04-t3", "kind": "form", "ref": "b04-3", "q": "その{作家|さっか}は、{半世紀|はんせいき}（　　）{作品|さくひん}を{書|か}き{続|つづ}けた。", "options": ["からして", "をはじめ", "限り", "にわたって"], "answer": 3, "vi": "Nhà văn đó đã viết liên tục suốt nửa thế kỷ.", "why": "「半世紀」 = khoảng thời gian rất dài → **にわたって**. 「からして」 cần lời đánh giá; 「をはじめ」 cần ví dụ tiêu biểu; 「半世紀限り」 = chỉ giới hạn trong nửa thế kỷ — không hợp nghĩa."},
+    {"id": "b04-t4", "kind": "form", "ref": "b04-6", "q": "「{遠慮|えんりょ}しないで、{欲|ほ}しい（　　）{持|も}って{行|い}っていいよ。」", "options": ["限り", "にわたって", "だけ", "からして"], "answer": 2, "vi": "\"Đừng ngại, muốn lấy bao nhiêu thì cứ mang đi.\"", "why": "「欲しい + **だけ**」 = bao nhiêu tuỳ thích. 「欲しい限り」 không dùng (限り không đi với 欲しい・好きな・たい); 「にわたって」「からして」 phải nối với danh từ."},
+    {"id": "b04-t5", "kind": "order", "ref": "b04-2", "q": "うちの{父|ちち}は{機械|きかい}が{本当|ほんとう}に{苦手|にがて}だ。 ＿＿＿ ＿＿＿ ★ ＿＿＿ 。", "options": ["からして", "よく分かっていない", "使い方", "携帯電話の"], "order": [3, 2, 0, 1], "answer": 0, "vi": "Bố tôi thật sự kém về máy móc. Ngay cả cách dùng điện thoại di động cũng chưa hiểu rõ.", "why": "**携帯電話の 使い方 からして よく分かっていない** → ★ (ô thứ 3) = 「からして」. 「携帯電話の」 bổ nghĩa 「使い方」; 「Nからして」 + nhận xét tiêu cực ở cuối."},
+    {"id": "b04-t6", "kind": "order", "ref": "b04-1", "q": "{開会式|かいかいしき}には、{開催国|かいさいこく}の ＿＿＿ ＿＿＿ ★ ＿＿＿ が{出席|しゅっせき}した。", "options": ["代表者", "各国の", "はじめ", "首相を"], "order": [3, 2, 1, 0], "answer": 1, "vi": "Lễ khai mạc có sự tham dự của đại diện các nước, đứng đầu là thủ tướng nước chủ nhà.", "why": "開催国の **首相を はじめ 各国の 代表者** が出席した → ★ (ô thứ 3) = 「各国の」. 「開催国の」 cần một danh từ ngay sau → 「首相を」; 「Nを」+「はじめ」 là khối cố định; 「各国の」 bổ nghĩa 「代表者」, và 「代表者」 đứng ngay trước 「が」."},
+    {"id": "b04-t7", "kind": "usage", "ref": "b04-4", "q": "「〜を{通|つう}じて」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["はさみを{通|つう}じて、{紙|かみ}をきれいに{切|き}った。", "3{時|じ}から4{時|じ}を{通|つう}じて、{昼寝|ひるね}をした。", "{雨|あめ}が{降|ふ}ったのを{通|つう}じて、{試合|しあい}が{中止|ちゅうし}になった。", "この{温泉|おんせん}は、{一年|いちねん}を{通|つう}じて{湯|ゆ}の{温度|おんど}がほとんど{変|か}わらない。"], "answer": 3, "vi": "(4) Nhiệt độ nước của suối nước nóng này hầu như không đổi quanh năm.", "why": "(4) suốt cả thời kỳ (一年), trạng thái không đổi → đúng. (1) dụng cụ trực tiếp → はさみで; (2) khoảng thời gian quá ngắn → 3時から4時まで; (3) nguyên nhân → 雨が降ったため／雨で."}
+  ]
+}

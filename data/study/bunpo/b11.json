@@ -1,0 +1,739 @@
+{
+  "id": "b11",
+  "track": "bunpo",
+  "intro": "Cả 5 mẫu trong bài đều có nghĩa chung là **\"không tính đến X\"**, nhưng \"không tính đến\" theo ba kiểu rất khác nhau:\n\n- **Nhóm \"bất kể, không phân biệt\"** (khách quan): 〜を問わず, 〜にかかわらず・〜にかかわりなく. X là một **phạm vi có nhiều trường hợp** (tuổi tác, giới tính, thời tiết, số tiền…) hoặc **một cặp đối lập** (nam nữ, đi hay không đi). Ý: trường hợp nào thì kết quả cũng như nhau. Rất hay gặp trong **tuyển dụng, thông báo, quy định**.\n- **Nhóm \"bất chấp\"** (chủ quan, có phê phán): 〜もかまわず. X là thứ **bình thường người ta phải để ý** (ánh mắt người khác, quần áo bị bẩn, đêm khuya…) mà ai đó **cứ phớt lờ**.\n- **Nhóm \"tạm gác sang một bên\"**: 〜はともかく(として), 〜はさておき. X **chưa bàn tới / không quan trọng bằng**, điều người nói thật sự muốn nói nằm ở **vế sau**.\n\nÔn lại N3: 「〜に関係なく」 (= nhóm 1, văn nói), 「〜を考えないで」 (= nhóm 2), 「〜は別として」 (= nhóm 3).\n\nBẫy lớn nhất của bài: 「〜**に**かかわらず」 (bất kể) khác hẳn 「〜**にも**かかわらず」 (mặc dù — bài 14). Chỉ một chữ 「も」 mà nghĩa đổi hoàn toàn.",
+  "points": [
+    {
+      "id": "b11-1",
+      "pattern": "〜を問わず",
+      "reading": "〜をとわず",
+      "meaning": "Bất kể, không phân biệt (X thế nào cũng như nhau)",
+      "structure": [
+        "N ＋ を問わず",
+        "N (cặp đối lập: 男女・昼夜・内外・有無…) ＋ を問わず",
+        "Dạng kết câu: N は問わない／N は問いません"
+      ],
+      "explain": "「問う」 nghĩa là **hỏi, truy xét, đặt thành điều kiện**. 「〜を問わず」 = \"**không hỏi đến X**\" → X là gì cũng được, ai cũng được, lúc nào cũng được.\n\nHình dung tờ tuyển dụng: 「{年齢|ねんれい}・{経験|けいけん}{不問|ふもん}」 — họ **không hỏi** bạn bao nhiêu tuổi, có kinh nghiệm chưa. Đó chính là tinh thần của 「を問わず」.\n\nDanh từ X phải là từ **chứa nhiều trường hợp bên trong**:\n- Từ chỉ phạm vi / loại: {年齢|ねんれい}, {性別|せいべつ}, {国籍|こくせき}, {天候|てんこう}, {季節|きせつ}, {学歴|がくれき}, {曜日|ようび}, {経験|けいけん}…\n- Cặp từ đối lập ghép lại: {男女|だんじょ} (nam và nữ), {昼夜|ちゅうや} (ngày và đêm), {内外|ないがい} (trong và ngoài), {有無|うむ} (có hay không), {大小|だいしょう}, {晴雨|せいう}.\n\nVế sau là điều **đúng cho mọi trường hợp đó**: ai cũng tham gia được, lúc nào cũng mở cửa, ở đâu cũng được yêu thích…",
+      "nuance": "Văn viết, trang trọng: tuyển dụng, quảng cáo, thông báo, tin tức. Trong hội thoại thường ngày người ta hay nói 「〜に関係なく」 hơn.\n\nX **không được là một giá trị cụ thể** (✗ 20{歳|さい}を問わず, ✗ {雨|あめ}を問わず) mà phải là \"cả dải\" (○ {年齢|ねんれい}を問わず, ○ {天候|てんこう}を問わず). Sách chỉ cho nối với **danh từ**; không nối trực tiếp với động từ.",
+      "examples": [
+        {
+          "ja": "{経験|けいけん}の{有無|うむ}を{問|と}わず、やる{気|き}のある{方|かた}を{募集|ぼしゅう}しています。",
+          "vi": "Chúng tôi tuyển người có nhiệt huyết, không phân biệt đã có kinh nghiệm hay chưa.",
+          "note": "経験の有無 = có hay không có kinh nghiệm · văn tuyển dụng"
+        },
+        {
+          "ja": "この{公園|こうえん}は{季節|きせつ}を{問|と}わず、{多|おお}くの{観光客|かんこうきゃく}でにぎわっている。",
+          "vi": "Công viên này bất kể mùa nào cũng đông nghịt khách du lịch.",
+          "note": "季節 = cả bốn mùa"
+        },
+        {
+          "ja": "{当店|とうてん}は{昼夜|ちゅうや}を{問|と}わず{営業|えいぎょう}しております。",
+          "vi": "Cửa hàng chúng tôi mở cửa cả ngày lẫn đêm.",
+          "note": "Cặp đối lập 昼夜 · thông báo"
+        },
+        {
+          "ja": "スマートフォンの{使|つか}いすぎは、{年齢|ねんれい}を{問|と}わず{目|め}に{悪影響|あくえいきょう}を{与|あた}える。",
+          "vi": "Dùng điện thoại quá nhiều gây hại cho mắt, bất kể ở độ tuổi nào.",
+          "note": "Văn tin tức"
+        },
+        {
+          "ja": "このアニメは{国|くに}の{内外|ないがい}を{問|と}わず{人気|にんき}がある。",
+          "vi": "Bộ anime này được yêu thích cả trong lẫn ngoài nước.",
+          "note": "内外 = trong và ngoài nước"
+        },
+        {
+          "ja": "{応募|おうぼ}{資格|しかく}：{学歴|がくれき}は{問|と}いません。",
+          "vi": "Điều kiện ứng tuyển: không yêu cầu bằng cấp.",
+          "note": "Dạng kết câu 〜は問いません"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜にかかわらず",
+          "diff": "Nghĩa gần như giống nhau, với danh từ chỉ phạm vi thường thay được cho nhau (年齢を問わず ≈ 年齢にかかわらず). Khác ở cách nối: 「にかかわらず」 còn nối được với **cặp động từ / tính từ** (行く行かないにかかわらず) và **〜かどうか** (参加するかどうかにかかわらず); 「を問わず」 chủ yếu chỉ đi với **danh từ**."
+        },
+        {
+          "with": "〜もかまわず",
+          "diff": "「を問わず」 là quy định khách quan, trung tính (\"không phân biệt\"). 「もかまわず」 là **một người cụ thể bất chấp** điều đáng lẽ phải để ý, có sắc thái chê trách: ✗ {周|まわ}りの{目|め}を問わず → ○ 周りの目もかまわず."
+        }
+      ],
+      "mistakes": [
+        "✗ 20{歳|さい}を{問|と}わず{参加|さんか}できます。→ ○ {年齢|ねんれい}を問わず… (X phải là cả một phạm vi, không phải một giá trị)",
+        "✗ {雨|あめ}を{問|と}わず{試合|しあい}を{行|おこな}う。→ ○ {天候|てんこう}を問わず／{晴雨|せいう}を問わず…"
+      ],
+      "tip": "Trước chỗ trống là **từ chỉ phạm vi** (年齢・性別・国籍・天候・季節) hoặc **cặp chữ Hán đối lập** (男女・昼夜・内外・有無) và câu mang màu sắc quảng cáo / tuyển dụng → 「を問わず」."
+    },
+    {
+      "id": "b11-2",
+      "pattern": "〜にかかわりなく・〜にかかわらず",
+      "reading": "〜にかかわりなく・〜にかかわらず",
+      "meaning": "Bất kể, không liên quan đến (X ra sao thì vẫn vậy)",
+      "structure": [
+        "N ＋ にかかわらず／にかかわりなく",
+        "V辞書形 ＋ Vない形 ＋ にかかわらず (行く行かないにかかわらず)",
+        "い形 ＋ い形 (trái nghĩa) ＋ にかかわらず (多い少ないにかかわらず)",
+        "疑問詞〜か／〜かどうか ＋ にかかわらず"
+      ],
+      "explain": "「かかわる」 (関わる) = **liên quan, dính dáng**. 「〜にかかわらず」 = \"**không dính dáng gì đến X**\" → X thay đổi thế nào thì kết quả vẫn y nguyên.\n\nX có thể là:\n- **Danh từ có nhiều mức / nhiều loại**: {距離|きょり}, {金額|きんがく}, {大|おお}きさ, {天候|てんこう}, {結果|けっか}, {年齢|ねんれい}…\n- **Cặp trái nghĩa**: {参加|さんか}する・しない, {好|す}き{嫌|きら}い, {多|おお}い{少|すく}ない, {晴|は}れ・{雨|あめ}.\n- **Câu hỏi lồng**: 〜かどうか, {何|なに}を〜か, {誰|だれ}が〜か.\n\nVí dụ dễ nhớ: 「{参加|さんか}するしないにかかわらず、お{返事|へんじ}ください」 — đi hay không đi **không quan trọng**, việc phải trả lời thì ai cũng như nhau.\n\n「にかかわりなく」 cùng nghĩa, chỉ hơi mềm hơn và ít gặp hơn.",
+      "nuance": "Trang trọng, hay gặp trong thông báo, quy định, hướng dẫn. Khác 「もかまわず」, vế sau **dùng được với yêu cầu / ý chí** (〜てください, 〜ましょう): 「天候にかかわらず、{集合|しゅうごう}してください」 ○.\n\nKhông dùng với **một sự việc cụ thể, đơn lẻ** đã xảy ra: ✗ 「{雨|あめ}が{降|ふ}っているにかかわらず」 — muốn nói \"mặc dù trời đang mưa\" phải dùng 「にもかかわらず」.",
+      "examples": [
+        {
+          "ja": "{結果|けっか}にかかわらず、{挑戦|ちょうせん}したこと{自体|じたい}に{意味|いみ}があると{思|おも}う。",
+          "vi": "Tôi nghĩ dù kết quả thế nào, bản thân việc đã thử sức đã có ý nghĩa rồi.",
+          "note": "N + にかかわらず"
+        },
+        {
+          "ja": "{参加|さんか}するかしないかにかかわらず、{今週中|こんしゅうちゅう}にお{返事|へんじ}をください。",
+          "vi": "Dù có tham gia hay không, xin hãy trả lời trong tuần này.",
+          "note": "Cặp khẳng định–phủ định · vế sau là yêu cầu (dùng được)"
+        },
+        {
+          "ja": "{天候|てんこう}にかかわらず、{試合|しあい}は{予定|よてい}どおり{行|おこな}われます。",
+          "vi": "Bất kể thời tiết, trận đấu sẽ được tổ chức theo đúng kế hoạch.",
+          "note": "Thông báo"
+        },
+        {
+          "ja": "{好|す}きか{嫌|きら}いかにかかわりなく、この{科目|かもく}は{全員|ぜんいん}が{履修|りしゅう}しなければならない。",
+          "vi": "Dù thích hay ghét, môn này ai cũng phải học.",
+          "note": "〜か〜か + にかかわりなく"
+        },
+        {
+          "ja": "ごみの{量|りょう}の{多|おお}い{少|すく}ないにかかわらず、{必|かなら}ず{分別|ぶんべつ}して{出|だ}してください。",
+          "vi": "Dù rác nhiều hay ít, nhất định phải phân loại rồi mới vứt.",
+          "note": "い形 + い形 trái nghĩa"
+        },
+        {
+          "ja": "{年齢|ねんれい}や{性別|せいべつ}にかかわりなく、{誰|だれ}でも{利用|りよう}できるサービスです。",
+          "vi": "Đây là dịch vụ ai cũng dùng được, không phân biệt tuổi tác hay giới tính.",
+          "note": "Thay được bằng を問わず"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜にもかかわらず (14課)",
+          "diff": "**Bẫy số 1.** 「にかかわらず」 = **bất kể** (X thế nào cũng vậy, X là một phạm vi). 「に**も**かかわらず」 = **mặc dù** (X là một sự thật cụ thể, kết quả trái với mong đợi): 「{雨|あめ}**にも**かかわらず、{大勢|おおぜい}の{人|ひと}が{来|き}た」 = Mặc dù mưa, rất đông người vẫn đến."
+        },
+        {
+          "with": "〜を問わず",
+          "diff": "Cùng nghĩa \"không phân biệt\". 「を問わず」 gần như chỉ đi với danh từ; 「にかかわらず」 linh hoạt hơn: nối được với cặp động từ, tính từ, 〜かどうか."
+        },
+        {
+          "with": "〜に関係なく (N3)",
+          "diff": "Nghĩa giống hệt nhưng là cách nói thường ngày. Trong đề, 「にかかわらず」 là phiên bản trang trọng của nó."
+        }
+      ],
+      "mistakes": [
+        "✗ {何度|なんど}も{注意|ちゅうい}したにかかわらず、{彼|かれ}はまた{遅刻|ちこく}した。→ ○ 注意した**にも**かかわらず (một sự thật cụ thể → \"mặc dù\")",
+        "✗ {参加|さんか}するにかかわらず… → ○ 参加する**しない**にかかわらず／参加する**かどうか**にかかわらず (phải có đủ hai phía)"
+      ],
+      "tip": "Trước chỗ trống có **cặp đối lập** (する・しない, 多い少ない, 好き嫌い) hoặc **〜かどうか** → 「にかかわらず」. Nếu trước chỗ trống là **một sự thật cụ thể** và vế sau trái mong đợi → đó là 「にもかかわらず」."
+    },
+    {
+      "id": "b11-3",
+      "pattern": "〜もかまわず",
+      "reading": "〜もかまわず",
+      "meaning": "Bất chấp, chẳng để tâm đến (điều lẽ ra phải để ý)",
+      "structure": [
+        "N ＋ もかまわず",
+        "V普通形 ＋ の ＋ もかまわず",
+        "い形 ＋ の ＋ もかまわず",
+        "な形 ＋ な／である ＋ の ＋ もかまわず",
+        "N ＋ な／である ＋ の ＋ もかまわず"
+      ],
+      "explain": "「かまう」 = **để tâm, bận lòng** (cùng gốc với 「かまいません」 = không sao). 「〜もかまわず」 = \"**đến cả X cũng chẳng để tâm**\".\n\nX là thứ mà **người bình thường sẽ để ý**: {人目|ひとめ} (ánh mắt người khác), {周|まわ}りの{迷惑|めいわく}, quần áo bị bẩn, bị ướt mưa, đang đêm khuya, giá tiền, sức khoẻ của mình… Vậy mà nhân vật trong câu **cứ thế làm**, khiến người nói **ngạc nhiên hoặc khó chịu**.\n\nHình ảnh: một người khóc nức nở giữa ga tàu, chẳng thèm quan tâm ai đang nhìn — đó là 「人目もかまわず{泣|な}く」.\n\nHai cụm cố định rất hay gặp:\n- 「なりふりかまわず」: không màng vẻ ngoài, bất chấp tất cả (để đạt mục đích).\n- 「ところかまわず」: bất kể chỗ nào (cứ thế làm, không nhìn hoàn cảnh).",
+      "nuance": "- Vế sau là **hành động khác thường**, gây ngạc nhiên, thường mang sắc thái **phê phán** (nhưng cũng có khi là cảm phục: bất chấp quần áo bẩn để cứu người).\n- Vế sau **không** được là mong muốn, ý chí, nhờ vả, rủ rê của người nói (✗ 〜てください, ✗ 〜ましょう, ✗ 〜たい).\n- Thường mô tả **người khác** mà người nói quan sát.",
+      "examples": [
+        {
+          "ja": "{彼|かれ}は{服|ふく}が{汚|よご}れるのもかまわず、{泥|どろ}だらけの{子犬|こいぬ}を{抱|だ}き{上|あ}げた。",
+          "vi": "Anh ấy chẳng ngại quần áo bị bẩn, bế xốc chú cún lấm lem bùn đất lên.",
+          "note": "V普通形 + の + もかまわず · sắc thái cảm phục"
+        },
+        {
+          "ja": "{隣|となり}の{部屋|へや}の{人|ひと}は、{夜中|よなか}なのもかまわず{大声|おおごえ}で{電話|でんわ}をしている。",
+          "vi": "Người phòng bên cạnh bất chấp đang nửa đêm, cứ oang oang gọi điện thoại.",
+          "note": "N + な + の + もかまわず · sắc thái khó chịu"
+        },
+        {
+          "ja": "{二人|ふたり}は{人目|ひとめ}もかまわず、{駅|えき}のホームで{抱|だ}き{合|あ}っていた。",
+          "vi": "Hai người họ ôm nhau giữa sân ga, chẳng để ý gì đến ánh mắt người xung quanh.",
+          "note": "N + もかまわず · 人目 = ánh mắt người đời"
+        },
+        {
+          "ja": "{父|ちち}は{医者|いしゃ}に{止|と}められているのもかまわず、{毎晩|まいばん}お{酒|さけ}を{飲|の}んでいる。",
+          "vi": "Bố tôi mặc kệ bác sĩ đã cấm, tối nào cũng uống rượu.",
+          "note": "Người nói lo lắng, phê phán"
+        },
+        {
+          "ja": "{彼女|かのじょ}は{雨|あめ}にぬれるのもかまわず、{駅|えき}まで{走|はし}っていった。",
+          "vi": "Cô ấy bất chấp bị ướt mưa, chạy một mạch ra ga.",
+          "note": ""
+        },
+        {
+          "ja": "{締|し}め{切|き}りに{間|ま}に{合|あ}わせるため、{彼|かれ}はなりふりかまわず{働|はたら}いた。",
+          "vi": "Để kịp hạn chót, anh ấy làm việc bất chấp tất cả, chẳng màng vẻ ngoài.",
+          "note": "Cụm cố định なりふりかまわず"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜を問わず／〜にかかわらず",
+          "diff": "Hai mẫu kia là **quy định trung tính** (\"không phân biệt\" — ai cũng được). 「もかまわず」 là **một người cụ thể phớt lờ** điều nên để ý, kèm cảm xúc của người nói. ✗ 「年齢もかまわず{参加|さんか}できます」."
+        },
+        {
+          "with": "〜ないで／〜ずに",
+          "diff": "「{傘|かさ}を{差|さ}さないで{歩|ある}く」 chỉ mô tả trung tính. 「雨にぬれるのもかまわず歩く」 nhấn mạnh **đáng lẽ phải để ý mà không để ý** → có sự ngạc nhiên."
+        }
+      ],
+      "mistakes": [
+        "✗ {服|ふく}が{汚|よご}れるもかまわず → ○ 汚れる**の**もかまわず (động từ / tính từ phải danh từ hoá bằng の)",
+        "✗ {雨|あめ}にぬれるのもかまわず、{出|で}かけましょう。→ vế sau là rủ rê của người nói, không dùng được.",
+        "✗ {年齢|ねんれい}もかまわず{応募|おうぼ}できます。→ ○ 年齢を問わず… (quy định trung tính)"
+      ],
+      "tip": "Trước chỗ trống là thứ **\"bình thường phải để ý\"** (人目, 迷惑, 汚れる, ぬれる, 夜中, 体調) và vế sau là **hành động gây ngạc nhiên** của người khác → 「(の)もかまわず」. Thấy 「の」 trước chỗ trống thì càng chắc."
+    },
+    {
+      "id": "b11-4",
+      "pattern": "〜はともかく(として)",
+      "reading": "〜はともかく(として)",
+      "meaning": "X thì tạm chưa bàn / X thì không nói, chứ Y thì…",
+      "structure": [
+        "N (＋ trợ từ) ＋ はともかく(として)",
+        "V普通形 (hiện tại)／い形 ＋ の ＋ はともかく",
+        "な形 ＋ な ＋ の／N ＋ な ＋ の ＋ はともかく",
+        "疑問詞〜か／〜かどうか ＋ はともかく"
+      ],
+      "explain": "「ともかく」 = \"dù sao đi nữa\". 「X**は**ともかく、Y」 = \"**X thì tạm khoan nói đến**, còn Y thì…\". Người nói đặt X và Y lên bàn cân và cho rằng **X không quan trọng bằng Y**; điều muốn nhấn mạnh nằm ở **Y**.\n\nHai cách dùng hay gặp:\n- **Đánh giá đối chiếu**: 「この{車|くるま}は、デザインはともかく、{燃費|ねんぴ}がとてもいい」 — thiết kế thì không bàn (có thể không đẹp lắm), nhưng tiết kiệm xăng thì rất tốt. Thường X là điểm **trừ / chưa chắc**, Y là điểm người nói **khẳng định**.\n- **Tạm gác một câu hỏi**: 「{勝|か}てるかどうかはともかく、{全力|ぜんりょく}で{戦|たたか}おう」 — thắng hay không chưa bàn, cứ dốc sức đã. Vế sau thường là ý chí, đề nghị, việc cần làm trước.\n\nMột kiểu nữa: 「{他|ほか}の{人|ひと}はともかく、{君|きみ}だけは…」 = người khác thì không nói, chứ riêng cậu thì…",
+      "nuance": "Dùng được cả văn nói lẫn văn viết; 「ともかくとして」 trang trọng hơn một chút. Vế sau là điều **quan trọng hơn / người nói muốn nhấn mạnh**, thường có 「は」 đối lập ở Y (〜はともかく、Y**は**…). Vế sau **có thể** là ý chí, rủ rê.\n\nĐừng nhầm với 「〜はもちろん」 (X thì đương nhiên rồi, Y **cũng**…): hai mẫu ngược hướng nhau.",
+      "examples": [
+        {
+          "ja": "この{車|くるま}は、デザインはともかく、{燃費|ねんぴ}がとてもいい。",
+          "vi": "Chiếc xe này, thiết kế thì không bàn, nhưng rất tiết kiệm xăng.",
+          "note": "Đánh giá: X (điểm yếu) ↔ Y (điểm mạnh)"
+        },
+        {
+          "ja": "{勝|か}てるかどうかはともかく、{最後|さいご}まで{全力|ぜんりょく}で{戦|たたか}おう。",
+          "vi": "Thắng được hay không thì chưa bàn, cứ dốc toàn lực đến phút cuối nào.",
+          "note": "〜かどうか + はともかく · vế sau là ý chí"
+        },
+        {
+          "ja": "{他|ほか}の{人|ひと}はともかく、{君|きみ}だけはわかってくれると{思|おも}っていたよ。",
+          "vi": "Người khác thì không nói, chứ riêng cậu tớ cứ nghĩ cậu sẽ hiểu cho tớ.",
+          "note": "N + はともかく"
+        },
+        {
+          "ja": "{一人|ひとり}で{旅行|りょこう}するのはともかく、{一人|ひとり}で{海外|かいがい}に{住|す}むのはまだ{不安|ふあん}だ。",
+          "vi": "Đi du lịch một mình thì còn được, chứ sống một mình ở nước ngoài thì tôi vẫn còn lo.",
+          "note": "V普通形 + の + はともかく"
+        },
+        {
+          "ja": "{平日|へいじつ}はともかく、{週末|しゅうまつ}のショッピングモールはいつも{混|こ}んでいる。",
+          "vi": "Ngày thường thì không nói, chứ cuối tuần trung tâm thương mại lúc nào cũng đông.",
+          "note": ""
+        },
+        {
+          "ja": "{値段|ねだん}はともかくとして、まずは{品質|ひんしつ}で{選|えら}びたい。",
+          "vi": "Giá cả thì để sau, trước hết tôi muốn chọn theo chất lượng.",
+          "note": "ともかくとして · hơi trang trọng"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜はさておき",
+          "diff": "Hai mẫu rất gần nhau. 「ともかく」 nghiêng về **đánh giá**: X không quan trọng bằng / kém hơn Y (デザインはともかく、性能はいい). 「さておき」 nghiêng về **thứ tự ưu tiên của câu chuyện**: gác chủ đề X lại, nói cái cơ bản hơn trước (冗談はさておき、本題に入ろう)."
+        },
+        {
+          "with": "〜はもちろん (N3)",
+          "diff": "「Xはもちろん、Y**も**」 = X thì đương nhiên, Y **cũng** vậy (cùng chiều). 「Xはともかく、Y**は**」 = X thì không bàn, Y thì… (đối lập, X bị hạ xuống)."
+        },
+        {
+          "with": "〜は別として (N3)",
+          "diff": "Nghĩa gần như giống 「はともかく」, là cách nói ôn tập của sách."
+        }
+      ],
+      "mistakes": [
+        "✗ この{店|みせ}は{料理|りょうり}はともかく、デザート**も**おいしい。→ ○ 料理**はもちろん**、デザートもおいしい (cả hai đều tốt → もちろん)",
+        "✗ {一人|ひとり}で{行|い}くはともかく → ○ 一人で行く**の**はともかく (động từ cần の)",
+        "✗ {結果|けっか}がともかく → ○ 結果**は**ともかく (luôn là は)"
+      ],
+      "tip": "Câu có dạng **「Xは（　）、Yは＋đánh giá」** với X là điểm yếu / chưa chắc và Y là điểm người nói khẳng định → 「ともかく」. Nếu Y có 「も」 (cùng chiều) → nghĩ đến 「はもちろん」."
+    },
+    {
+      "id": "b11-5",
+      "pattern": "〜はさておき",
+      "reading": "〜はさておき",
+      "meaning": "Gác X sang một bên (để nói điều quan trọng / cơ bản hơn trước)",
+      "structure": [
+        "N (＋ trợ từ) ＋ はさておき",
+        "疑問詞〜か／〜かどうか ＋ はさておき",
+        "Cụm cố định: それはさておき・冗談はさておき・何はさておき"
+      ],
+      "explain": "「さておく」 = \"**đặt nó sang một bên**\" (さて + 置く). 「Xはさておき、Y」 = \"X **cứ để đó đã**, giờ nói Y\". X thường là **chuyện đang được nhắc tới** trong câu chuyện; Y là chuyện **ưu tiên hơn, cơ bản hơn, cần làm trước**.\n\nVì nhấn vào **thứ tự ưu tiên**, vế sau rất hay có 「まず」「とりあえず」「{今|いま}は」「{何|なに}より」.\n\nCụm cố định cực kỳ hay gặp:\n- 「それはさておき」: \"chuyện đó để sau, à mà…\" — **đổi chủ đề** (giống ところで nhưng có ý gác lại chuyện vừa nói).\n- 「{冗談|じょうだん}はさておき」: \"đùa thế thôi, nói nghiêm túc nhé\".\n- 「{何|なに}はさておき」: \"trước hết, bất kể thế nào thì cũng phải…\".",
+      "nuance": "Hơi trang trọng / văn viết, nhưng các cụm cố định (それはさておき, 冗談はさておき) dùng nhiều trong hội thoại, bài phát biểu, blog. Vế sau là điều **được ưu tiên** — thường là hành động, đề nghị, câu hỏi chuyển sang chủ đề chính.",
+      "examples": [
+        {
+          "ja": "{費用|ひよう}の{問題|もんだい}はさておき、まずはこの{計画|けいかく}が{実現|じつげん}できるかどうかを{検討|けんとう}しよう。",
+          "vi": "Vấn đề chi phí cứ để đó đã, trước hết hãy xem xét kế hoạch này có khả thi không.",
+          "note": "Vế sau có まず · thứ tự ưu tiên"
+        },
+        {
+          "ja": "それはさておき、{来週|らいしゅう}の{出張|しゅっちょう}の{件|けん}ですが……。",
+          "vi": "Chuyện đó tạm gác lại nhé, về chuyến công tác tuần sau thì…",
+          "note": "Cụm cố định để đổi chủ đề"
+        },
+        {
+          "ja": "{誰|だれ}が{悪|わる}かったかはさておき、{今|いま}はトラブルを{解決|かいけつ}するのが{先|さき}だ。",
+          "vi": "Ai sai thì để sau, giờ việc cần làm trước là giải quyết sự cố.",
+          "note": "疑問詞〜か + はさておき"
+        },
+        {
+          "ja": "{何|なに}はさておき、みんな{無事|ぶじ}で{本当|ほんとう}によかった。",
+          "vi": "Gì thì gì, mọi người bình an là tốt lắm rồi.",
+          "note": "何はさておき = trước hết, quan trọng nhất là"
+        },
+        {
+          "ja": "{私|わたし}のことはさておき、{君|きみ}の{方|ほう}は{最近|さいきん}どうなの？",
+          "vi": "Chuyện của tớ để sau, còn cậu dạo này thế nào?",
+          "note": "N + のこと + はさておき"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜はともかく(として)",
+          "diff": "Thường thay được cho nhau. Nhưng khi câu là **đánh giá đối chiếu** (見た目は〇〇、味はいい) thì 「ともかく」 tự nhiên hơn; khi câu là **chuyển chủ đề / ưu tiên việc cần làm** (それは〇〇、本題に入ろう) thì 「さておき」 tự nhiên hơn. 「それはさておき」 và 「それはともかく」 đều dùng để chuyển chủ đề; còn 「冗談はさておき」「何はさておき」 là cụm quen dùng với さておき."
+        },
+        {
+          "with": "ところで (N4)",
+          "diff": "「ところで」 đổi chủ đề đơn thuần. 「それはさておき」 đổi chủ đề nhưng ngầm nói \"chuyện vừa rồi chưa xong, tạm gác lại\"."
+        }
+      ],
+      "mistakes": [
+        "✗ {冗談|じょうだん}をさておき → ○ 冗談**は**さておき (luôn là は)",
+        "✗ {料理|りょうり}はさておき、{飲|の}み{物|もの}**も**おいしかった。→ ○ 料理はもちろん、飲み物も… (cùng chiều → もちろん)"
+      ],
+      "tip": "Vế sau có 「まず／とりあえず／今は／本題」 → 「はさておき」. Gặp 「冗談は（　）」「何は（　）」 ở đầu câu → 「さておき」 (riêng 「それは（　）」 thì cả 「さておき」 lẫn 「ともかく」 đều được)."
+    }
+  ],
+  "summary": [
+    {
+      "pattern": "〜を問わず",
+      "meaning": "bất kể, không phân biệt",
+      "key": "N phạm vi (年齢・天候) / cặp 男女・昼夜; tuyển dụng, quảng cáo"
+    },
+    {
+      "pattern": "〜にかかわりなく・〜にかかわらず",
+      "meaning": "bất kể, không liên quan",
+      "key": "N, cặp する・しない, 〜かどうか; ≠ にもかかわらず (mặc dù)"
+    },
+    {
+      "pattern": "〜もかまわず",
+      "meaning": "bất chấp",
+      "key": "thứ lẽ ra phải để ý (人目・迷惑); V/A + のもかまわず; không ý chí"
+    },
+    {
+      "pattern": "〜はともかく(として)",
+      "meaning": "X thì không bàn, Y thì…",
+      "key": "đánh giá: X kém quan trọng hơn Y; ≠ はもちろん"
+    },
+    {
+      "pattern": "〜はさておき",
+      "meaning": "gác X lại",
+      "key": "ưu tiên: まず…; それはさておき, 冗談はさておき"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b11-q1",
+      "kind": "form",
+      "ref": "b11-1",
+      "q": "このアルバイトは{年齢|ねんれい}や{経験|けいけん}（　　）、{誰|だれ}でも{応募|おうぼ}できます。",
+      "options": [
+        "を問わず",
+        "もかまわず",
+        "はさておき",
+        "にもかかわらず"
+      ],
+      "answer": 0,
+      "vi": "Công việc làm thêm này không phân biệt tuổi tác hay kinh nghiệm, ai cũng ứng tuyển được.",
+      "why": "「年齢や経験」 là các phạm vi, vế sau \"ai cũng được\" → **を問わず**. 「もかまわず」 = một người bất chấp điều nên để ý, mang sắc thái chê, không hợp câu tuyển dụng; 「はさておき」 cần 「は」 và vế sau là việc ưu tiên; 「にもかかわらず」 = mặc dù, không hợp nghĩa."
+    },
+    {
+      "id": "b11-q2",
+      "kind": "form",
+      "ref": "b11-2",
+      "q": "{明日|あした}の{説明会|せつめいかい}に{出席|しゅっせき}するかどうか（　　）、{金曜日|きんようび}までに{必|かなら}ずメールで{返信|へんしん}してください。",
+      "options": [
+        "にもかかわらず",
+        "どころか",
+        "にかかわらず",
+        "もかまわず"
+      ],
+      "answer": 2,
+      "vi": "Dù có tham dự buổi giới thiệu ngày mai hay không, xin nhất định trả lời qua email trước thứ Sáu.",
+      "why": "「〜かどうか」 + vế sau áp dụng cho mọi người → **にかかわらず**. 「にもかかわらず」 = mặc dù (cần một sự thật cụ thể); 「どころか」 = chẳng những không… mà còn, không hợp; 「もかまわず」 không đi với 〜かどうか và vế sau không được là yêu cầu."
+    },
+    {
+      "id": "b11-q3",
+      "kind": "form",
+      "ref": "b11-3",
+      "q": "{彼|かれ}は{熱|ねつ}がある（　　）、{雨|あめ}の{中|なか}でサッカーの{練習|れんしゅう}を{続|つづ}けた。",
+      "options": [
+        "のを問わず",
+        "のもかまわず",
+        "にかかわらず",
+        "のはさておき"
+      ],
+      "answer": 1,
+      "vi": "Anh ấy bất chấp đang bị sốt, vẫn tiếp tục tập bóng đá dưới mưa.",
+      "why": "「熱がある」 là điều lẽ ra phải để ý, vế sau là hành động khác thường → **のもかまわず**. 「を問わず」 không nối với động từ + の; 「熱があるにかかわらず」 sai — một sự thật cụ thể phải dùng 「にもかかわらず」; 「のはさておき」 = gác lại để nói chuyện ưu tiên hơn, không hợp."
+    },
+    {
+      "id": "b11-q4",
+      "kind": "form",
+      "ref": "b11-4",
+      "q": "この{店|みせ}のラーメンは、{店員|てんいん}の{態度|たいど}（　　）、{味|あじ}は{確|たし}かだ。",
+      "options": [
+        "はもちろん",
+        "はともかく",
+        "を問わず",
+        "もかまわず"
+      ],
+      "answer": 1,
+      "vi": "Ramen quán này, thái độ nhân viên thì không bàn, chứ hương vị thì đảm bảo.",
+      "why": "X (thái độ — ngầm là điểm trừ) bị hạ xuống, Y 「味は」 là điểm người nói khẳng định → **はともかく**. 「はもちろん」 cần vế sau cùng chiều với 「も」 (味も); 「を問わず」 cần danh từ phạm vi và vế sau \"ai cũng / lúc nào cũng\"; 「もかまわず」 cần một người bất chấp hành động."
+    },
+    {
+      "id": "b11-q5",
+      "kind": "order",
+      "ref": "b11-5",
+      "q": "{誰|だれ}の{責任|せきにん}か ＿＿＿ ＿＿＿ ★ ＿＿＿ {考|かんが}えるのが{先|さき}だ。",
+      "options": [
+        "防ぐ",
+        "はさておき",
+        "方法を",
+        "再発を"
+      ],
+      "order": [
+        1,
+        3,
+        0,
+        2
+      ],
+      "answer": 0,
+      "vi": "Trách nhiệm của ai thì để sau, việc cần làm trước là nghĩ cách ngăn sự cố tái diễn.",
+      "why": "誰の責任か **はさておき 再発を 防ぐ 方法を** 考えるのが先だ → ★ (ô thứ 3) = 「防ぐ」. 「はさておき」 phải đứng ngay sau 「〜か」; 「再発を防ぐ」 bổ nghĩa cho 「方法」; 「方法を」 là tân ngữ của 「考える」. Vế sau 「〜のが先だ」 thể hiện thứ tự ưu tiên điển hình của さておき."
+    },
+    {
+      "id": "b11-q6",
+      "kind": "usage",
+      "ref": "b11-3",
+      "q": "「〜もかまわず」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "このイベントは年齢もかまわず、だれでも参加できます。",
+        "明日は雨が降るのもかまわず、必ず出かけましょう。",
+        "彼女は服がぬれるのもかまわず、川に落ちた子どもを助けに飛び込んだ。",
+        "疲れているのもかまわず、ゆっくり休んでください。"
+      ],
+      "answer": 2,
+      "vi": "(3) Cô ấy bất chấp quần áo bị ướt, lao xuống sông cứu đứa trẻ bị ngã.",
+      "why": "(3) bất chấp điều lẽ ra phải để ý, hành động gây ấn tượng → đúng. (1) quy định trung tính → 年齢を問わず; (2) vế sau là rủ rê của người nói; (4) vô nghĩa — \"bất chấp mệt mà nghỉ ngơi\", và vế sau là nhờ vả."
+    }
+  ],
+  "practice": [
+    {
+      "id": "b11-p1",
+      "kind": "form",
+      "ref": "b11-1",
+      "q": "この{香水|こうすい}は{男女|だんじょ}（　　）{使|つか}えるように{作|つく}られている。",
+      "options": [
+        "もかまわず",
+        "を問わず",
+        "はともかく",
+        "にもかかわらず"
+      ],
+      "answer": 1,
+      "vi": "Loại nước hoa này được làm để cả nam lẫn nữ đều dùng được.",
+      "why": "「男女」 là cặp đối lập, vế sau \"ai cũng dùng được\" → **を問わず**. 「もかまわず」 cần thứ lẽ ra phải để ý; 「はともかく」 cần vế sau đối chiếu với 「は」; 「にもかかわらず」 = mặc dù."
+    },
+    {
+      "id": "b11-p2",
+      "kind": "form",
+      "ref": "b11-2",
+      "q": "{試験|しけん}の{合否|ごうひ}（　　）、{受験者|じゅけんしゃ}{全員|ぜんいん}に{後日|ごじつ}{結果|けっか}が{郵送|ゆうそう}されます。",
+      "options": [
+        "にかかわりなく",
+        "もかまわず",
+        "をさておき",
+        "にもかかわらず"
+      ],
+      "answer": 0,
+      "vi": "Dù đỗ hay trượt, kết quả sẽ được gửi qua bưu điện tới tất cả thí sinh sau đó.",
+      "why": "「合否」 (đỗ / trượt) là cặp đối lập, vế sau áp dụng cho tất cả → **にかかわりなく**. 「もかまわず」 cần hành động bất chấp của một người; 「をさておき」 sai trợ từ (phải là 「は」さておき); 「にもかかわらず」 cần một sự thật cụ thể trái mong đợi."
+    },
+    {
+      "id": "b11-p3",
+      "kind": "form",
+      "ref": "b11-3",
+      "q": "{子|こ}どもたちは{靴|くつ}がびしょびしょになる（　　）、{水|みず}たまりで{夢中|むちゅう}になって{遊|あそ}んでいる。",
+      "options": [
+        "を問わず",
+        "にかかわらず",
+        "はさておき",
+        "のもかまわず"
+      ],
+      "answer": 3,
+      "vi": "Bọn trẻ chẳng để ý giày ướt sũng, mải mê nghịch ở vũng nước.",
+      "why": "Giày bị ướt là điều lẽ ra phải để ý, vế sau là hành động của người khác mà người nói quan sát → **のもかまわず**. 「を問わず」 không nối với động từ; 「なるにかかわらず」 thiếu cặp đối lập; 「はさておき」 không nối trực tiếp với động từ thể từ điển như vậy và không hợp nghĩa."
+    },
+    {
+      "id": "b11-p4",
+      "kind": "form",
+      "ref": "b11-4",
+      "q": "{上手|じょうず}か{下手|へた}か（　　）、{人前|ひとまえ}で{話|はな}す{経験|けいけん}をたくさん{積|つ}むことが{大切|たいせつ}だ。",
+      "options": [
+        "もかまわず",
+        "にもかかわらず",
+        "はともかく",
+        "どころか"
+      ],
+      "answer": 2,
+      "vi": "Nói giỏi hay dở thì chưa bàn, điều quan trọng là tích luỹ thật nhiều kinh nghiệm nói trước đám đông.",
+      "why": "Tạm gác câu hỏi 「上手か下手か」 để nhấn mạnh điều quan trọng hơn → **はともかく**. 「もかまわず」 không đi với 〜か〜か; 「にもかかわらず」 = mặc dù, cần sự thật cụ thể; 「どころか」 = chẳng những không… mà ngược lại, không hợp."
+    },
+    {
+      "id": "b11-p5",
+      "kind": "form",
+      "ref": "b11-5",
+      "q": "{前置|まえお}きは（　　）、さっそく{本題|ほんだい}に{入|はい}りましょう。",
+      "options": [
+        "問わず",
+        "さておき",
+        "かまわず",
+        "かかわらず"
+      ],
+      "answer": 1,
+      "vi": "Lời mở đầu xin gác lại, chúng ta vào ngay vấn đề chính thôi.",
+      "why": "Gác chuyện phụ, chuyển sang việc ưu tiên (本題) → **さておき**. 「問わず」 cần 「を」; 「かまわず」 cần 「も」; 「かかわらず」 cần 「に」 — cả ba đều sai trợ từ với 「は」 và sai nghĩa."
+    },
+    {
+      "id": "b11-p6",
+      "kind": "form",
+      "ref": "b11-2",
+      "q": "{雨|あめ}が{降|ふ}る{降|ふ}らない（　　）、{運動会|うんどうかい}は{体育館|たいいくかん}で{行|おこな}います。",
+      "options": [
+        "もかまわず",
+        "にかかわらず",
+        "はさておき",
+        "にもかかわらず"
+      ],
+      "answer": 1,
+      "vi": "Dù trời có mưa hay không, hội thao sẽ được tổ chức trong nhà thi đấu.",
+      "why": "Cặp 「降る降らない」 → **にかかわらず**. 「もかまわず」 cần の và một người bất chấp; 「はさておき」 không đi với cặp động từ như vậy; 「にもかかわらず」 = mặc dù, cần một sự thật đã xác định."
+    },
+    {
+      "id": "b11-p7",
+      "kind": "usage",
+      "ref": "b11-1",
+      "q": "「〜を{問|と}わず」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "20歳を問わず、お酒を飲んではいけません。",
+        "母は周りの目を問わず、大声で歌い出した。",
+        "彼は熱があるのを問わず、会社に来た。",
+        "この病院は、曜日を問わず診療を行っています。"
+      ],
+      "answer": 3,
+      "vi": "(4) Bệnh viện này khám chữa bệnh tất cả các ngày trong tuần.",
+      "why": "(4) 「曜日」 là phạm vi (thứ Hai… Chủ nhật), vế sau đúng cho mọi ngày → đúng. (1) 「20歳」 là một giá trị cụ thể; (2) bất chấp ánh mắt người khác → 周りの目もかまわず; (3) bất chấp sốt → 熱があるのもかまわず／熱があるにもかかわらず."
+    },
+    {
+      "id": "b11-p8",
+      "kind": "order",
+      "ref": "b11-3",
+      "q": "{彼|かれ}は ＿＿＿ ＿＿＿ ★ ＿＿＿ {話|はな}し{続|つづ}けた。",
+      "options": [
+        "もかまわず",
+        "大きな声で",
+        "周りの",
+        "迷惑そうな顔"
+      ],
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answer": 0,
+      "vi": "Anh ta chẳng thèm để ý vẻ mặt khó chịu của mọi người xung quanh, cứ nói tiếp thật to.",
+      "why": "彼は **周りの 迷惑そうな顔 もかまわず 大きな声で** 話し続けた → ★ = 「もかまわず」. 「周りの」 bổ nghĩa cho 「迷惑そうな顔」; 「もかまわず」 đứng ngay sau danh từ; 「大きな声で」 bổ nghĩa cho 「話し続けた」."
+    },
+    {
+      "id": "b11-p9",
+      "kind": "form",
+      "ref": "b11-4",
+      "q": "{英語|えいご}でメールを{書|か}く（　　）、{電話|でんわ}で{話|はな}すのはまだ{自信|じしん}がない。",
+      "options": [
+        "のもかまわず",
+        "にかかわらず",
+        "のはともかく",
+        "を問わず"
+      ],
+      "answer": 2,
+      "vi": "Viết email bằng tiếng Anh thì còn được, chứ nói chuyện điện thoại thì tôi vẫn chưa tự tin.",
+      "why": "Đối chiếu X (viết email — không thành vấn đề) với Y (nói điện thoại — điều muốn nói) → **のはともかく**. 「のもかまわず」 = bất chấp, không hợp; 「書くにかかわらず」 thiếu cặp đối lập; 「を問わず」 không nối với động từ."
+    },
+    {
+      "id": "b11-p10",
+      "kind": "order",
+      "ref": "b11-5",
+      "q": "{旅行先|りょこうさき}をどこにするか ＿＿＿ ＿＿＿ ★ ＿＿＿ {先|さき}に{決|き}めよう。",
+      "options": [
+        "休みを",
+        "日程を",
+        "はさておき",
+        "取れる"
+      ],
+      "order": [
+        2,
+        0,
+        3,
+        1
+      ],
+      "answer": 3,
+      "vi": "Đi đâu thì để sau, trước hết hãy chốt những ngày có thể xin nghỉ đã.",
+      "why": "旅行先をどこにするか **はさておき 休みを 取れる 日程を** 先に決めよう → ★ (ô thứ 3) = 「取れる」. 「はさておき」 đứng ngay sau 「〜か」; 「休みを取れる」 bổ nghĩa cho 「日程」; 「日程を」 là tân ngữ của 「決める」; 「先に」 thể hiện thứ tự ưu tiên điển hình của さておき."
+    },
+    {
+      "id": "b11-p11",
+      "kind": "form",
+      "ref": "b11-2",
+      "q": "{彼|かれ}は{何度|なんど}も{注意|ちゅうい}された（　　）、また{同|おな}じミスを{繰|く}り{返|かえ}した。",
+      "options": [
+        "にかかわらず",
+        "にもかかわらず",
+        "を問わず",
+        "はさておき"
+      ],
+      "answer": 1,
+      "vi": "Mặc dù đã bị nhắc nhở nhiều lần, anh ta vẫn lặp lại cùng một lỗi.",
+      "why": "「何度も注意された」 là **một sự thật cụ thể**, vế sau trái mong đợi → **にもかかわらず** (mặc dù). Đây là câu để phân biệt: 「にかかわらず」 (bất kể) cần phạm vi / cặp đối lập; 「を問わず」 cần danh từ phạm vi; 「はさておき」 = gác lại, không hợp."
+    }
+  ],
+  "test": [
+    {
+      "id": "b11-t1",
+      "kind": "form",
+      "ref": "b11-1",
+      "q": "{当社|とうしゃ}では{国籍|こくせき}（　　）、{多様|たよう}な{人材|じんざい}を{積極的|せっきょくてき}に{採用|さいよう}しています。",
+      "options": [
+        "もかまわず",
+        "をさておき",
+        "を問わず",
+        "にもかかわらず"
+      ],
+      "answer": 2,
+      "vi": "Công ty chúng tôi tích cực tuyển dụng nhân tài đa dạng, không phân biệt quốc tịch.",
+      "why": "「国籍」 là phạm vi, câu tuyển dụng → **を問わず**. 「もかまわず」 mang sắc thái bất chấp, chê trách; 「をさておき」 sai trợ từ; 「にもかかわらず」 = mặc dù."
+    },
+    {
+      "id": "b11-t2",
+      "kind": "form",
+      "ref": "b11-2",
+      "q": "{購入|こうにゅう}{金額|きんがく}の{多|おお}い{少|すく}ない（　　）、ポイントは{一律|いちりつ}5%{還元|かんげん}されます。",
+      "options": [
+        "にかかわらず",
+        "はともかく",
+        "もかまわず",
+        "にもかかわらず"
+      ],
+      "answer": 0,
+      "vi": "Bất kể số tiền mua nhiều hay ít, điểm thưởng đều được hoàn đồng loạt 5%.",
+      "why": "Cặp 「多い少ない」 + 「一律」 (như nhau) → **にかかわらず**. 「はともかく」 cần vế sau đối chiếu, nhấn mạnh Y; 「もかまわず」 cần một người bất chấp; 「にもかかわらず」 = mặc dù, cần một sự thật cụ thể."
+    },
+    {
+      "id": "b11-t3",
+      "kind": "form",
+      "ref": "b11-3",
+      "q": "{祖母|そぼ}は{腰|こし}が{痛|いた}い（　　）、{毎朝|まいあさ}{畑|はたけ}{仕事|しごと}に{出|で}かけていく。",
+      "options": [
+        "を問わず",
+        "にかかわりなく",
+        "のはさておき",
+        "のもかまわず"
+      ],
+      "answer": 3,
+      "vi": "Bà tôi mặc kệ đau lưng, sáng nào cũng ra đồng làm việc.",
+      "why": "Đau lưng là điều lẽ ra phải để ý, vế sau là hành động của người khác khiến người nói lo → **のもかまわず**. 「を問わず」 không nối với tính từ; 「痛いにかかわりなく」 thiếu cặp đối lập; 「のはさておき」 = gác lại một chủ đề để nói chuyện ưu tiên, không hợp."
+    },
+    {
+      "id": "b11-t4",
+      "kind": "form",
+      "ref": "b11-4",
+      "q": "{成功|せいこう}するかどうか（　　）、{一度|いちど}{挑戦|ちょうせん}してみる{価値|かち}は{十分|じゅうぶん}にある。",
+      "options": [
+        "もかまわず",
+        "はともかく",
+        "にもかかわらず",
+        "どころか"
+      ],
+      "answer": 1,
+      "vi": "Thành công hay không thì chưa bàn, việc thử sức một lần là hoàn toàn đáng giá.",
+      "why": "Tạm gác câu hỏi 「成功するかどうか」 để khẳng định điều quan trọng hơn → **はともかく**. 「もかまわず」 không đi với 〜かどうか; 「にもかかわらず」 cần sự thật cụ thể; 「どころか」 = chẳng những không… mà ngược lại, không hợp."
+    },
+    {
+      "id": "b11-t5",
+      "kind": "usage",
+      "ref": "b11-5",
+      "q": "「〜はさておき」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "彼は熱があるのはさておき、会社に来た。",
+        "このサービスは年齢はさておき、だれでも利用できます。",
+        "料理はさておき、デザートもおいしかった。",
+        "それはさておき、昨日の会議の結果はどうなりましたか。"
+      ],
+      "answer": 3,
+      "vi": "(4) Chuyện đó tạm gác lại, kết quả cuộc họp hôm qua thế nào rồi?",
+      "why": "(4) cụm cố định 「それはさておき」 để chuyển sang chủ đề chính → đúng. (1) bất chấp sốt → 熱があるのもかまわず／熱があるにもかかわらず; (2) quy định trung tính → 年齢を問わず; (3) hai thứ cùng tốt → 料理はもちろん、デザートも."
+    },
+    {
+      "id": "b11-t6",
+      "kind": "order",
+      "ref": "b11-2",
+      "q": "{参加費|さんかひ}は ＿＿＿ ＿＿＿ ★ ＿＿＿ です。",
+      "options": [
+        "一人",
+        "3000円",
+        "年齢",
+        "にかかわらず"
+      ],
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answer": 0,
+      "vi": "Phí tham gia là 3000 yên một người, bất kể tuổi tác.",
+      "why": "参加費は **年齢 にかかわらず 一人 3000円** です → ★ = 「一人」. 「にかかわらず」 đứng ngay sau danh từ 「年齢」; 「一人3000円」 là cụm số tiền đứng trước 「です」."
+    },
+    {
+      "id": "b11-t7",
+      "kind": "order",
+      "ref": "b11-4",
+      "q": "{味|あじ}は ＿＿＿ ＿＿＿ ★ ＿＿＿ {売|う}れている。",
+      "options": [
+        "若者に",
+        "かわいいので",
+        "ともかく",
+        "デザインが"
+      ],
+      "order": [
+        2,
+        3,
+        1,
+        0
+      ],
+      "answer": 1,
+      "vi": "Hương vị thì không bàn, nhưng vì thiết kế dễ thương nên nó bán rất chạy với giới trẻ.",
+      "why": "味は **ともかく デザインが かわいいので 若者に** 売れている → ★ = 「かわいいので」. 「ともかく」 đứng ngay sau 「味は」; 「デザインがかわいいので」 là lý do; 「若者に売れている」 = bán chạy với giới trẻ."
+    }
+  ]
+}

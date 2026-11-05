@@ -1,0 +1,2662 @@
+{
+ "id": "g34",
+ "track": "goi",
+ "intro": "Bài này mở đầu chương 語形成 (cấu tạo từ) — dạng bài 問題3 của đề N2. Chủ đề: **ghép hai từ thành một từ mới**. Sách chia làm 3 nhóm:\n\n- **Động từ ghép mà V2 (phần sau) quyết định nghĩa**: 〜かける, 〜合う, 〜直す, 〜上がる, 〜出す, 〜回る, 〜込む. Chỉ cần thuộc nghĩa của V2 là đoán được cả loạt: 読み直す, 書き直す, 考え直す… đều là \"làm lại\".\n- **Động từ ghép mà V1 (phần trước) đứng đầu**: 取り〜, 受け〜, あて〜, 組み〜, 追い〜, 振り〜, 差し〜, 通り〜, 乗り〜, 見〜, 引き〜, 引っ〜, 打ち〜, すれ〜. Nhóm này mỗi từ có nghĩa riêng, nên học **kèm tân ngữ / trợ từ** (予約を取り消す, 前の車に追い付く, 困難を乗り越える).\n- **Danh từ ghép với hậu tố**: 〜遣い, 〜沿い, 〜扱い, 〜明け, 〜済み, 〜連れ, 〜違い, 〜たて, 〜おき, 〜ぶり, 〜つき.\n\nCách làm câu 語形成: (1) xem chỗ trống ở **trước** hay **sau**; (2) xác định ý nghĩa cần điền — \"làm lại\" → 直す, \"qua lại với nhau\" → 合う, \"vào trong / sâu, mải\" → 込む, \"ra ngoài / bắt đầu đột ngột\" → 出す, \"khắp nơi\" → 回る, \"xong\" → 上がる; (3) kiểm tra **trợ từ** đi kèm (に追い付く nhưng を追い越す).\n\nLưu ý âm đục khi ghép: 連れ → **づれ** (家族連れ), 遣い → **づかい** (言葉遣い), 沿い → **ぞい** (川沿い), 済み → **ずみ** (使用済み).",
+ "sections": [
+  {
+   "title": "〜かける",
+   "title_vi": "hướng lời nói / hành động về phía người khác",
+   "words": [
+    {
+     "id": "g34-w1",
+     "w": "話しかける",
+     "r": "はなしかける",
+     "hv": "THOẠI",
+     "pos": "自動",
+     "vi": "bắt chuyện, nói với ai",
+     "key": true,
+     "ex": {
+      "ja": "{駅|えき}で{外国人|がいこくじん}に{英語|えいご}で{話|はな}しかけられた。",
+      "vi": "Ở ga tôi bị một người nước ngoài bắt chuyện bằng tiếng Anh."
+     },
+     "col": [
+      "人に話しかける"
+     ]
+    },
+    {
+     "id": "g34-w2",
+     "w": "笑いかける",
+     "r": "わらいかける",
+     "hv": "TIẾU",
+     "pos": "自動",
+     "vi": "cười với ai",
+     "key": true,
+     "ex": {
+      "ja": "{赤|あか}ちゃんがこちらを{見|み}て{笑|わら}いかけてきた。",
+      "vi": "Em bé nhìn về phía tôi rồi cười với tôi."
+     }
+    },
+    {
+     "id": "g34-w3",
+     "w": "問いかける",
+     "r": "といかける",
+     "hv": "VẤN",
+     "pos": "他動",
+     "vi": "đặt câu hỏi (cho ai, cho xã hội)",
+     "key": true,
+     "ex": {
+      "ja": "この{映画|えいが}は「{家族|かぞく}とは{何|なに}か」を{観客|かんきゃく}に{問|と}いかけている。",
+      "vi": "Bộ phim này đặt ra cho khán giả câu hỏi 'gia đình là gì'."
+     },
+     "note": "Văn viết; hay dùng theo nghĩa đặt vấn đề để mọi người suy nghĩ. Danh từ: 問いかけ."
+    },
+    {
+     "id": "g34-w4",
+     "w": "訴えかける",
+     "r": "うったえかける",
+     "hv": "TỐ",
+     "pos": "自動",
+     "vi": "kêu gọi, tác động tới (tình cảm, lý trí của người khác)",
+     "key": true,
+     "ex": {
+      "ja": "{彼|かれ}の{演説|えんぜつ}は{若者|わかもの}の{心|こころ}に{訴|うった}えかけるものだった。",
+      "vi": "Bài diễn thuyết của anh ấy chạm tới trái tim giới trẻ."
+     },
+     "col": [
+      "心に訴えかける",
+      "世論に訴えかける"
+     ]
+    },
+    {
+     "id": "g34-w5",
+     "w": "ほほえみかける",
+     "r": "ほほえみかける",
+     "hv": "",
+     "pos": "自動",
+     "vi": "mỉm cười (dịu dàng) với ai",
+     "key": true,
+     "ex": {
+      "ja": "{店員|てんいん}がやさしくほほえみかけてくれた。",
+      "vi": "Cô nhân viên mỉm cười dịu dàng với tôi."
+     },
+     "note": "ほほえむ (微笑む) = mỉm cười nhẹ, không thành tiếng; 笑う có thể là cười to."
+    }
+   ]
+  },
+  {
+   "title": "〜合う",
+   "title_vi": "làm qua lại với nhau, lẫn nhau",
+   "words": [
+    {
+     "id": "g34-w6",
+     "w": "話し合う",
+     "r": "はなしあう",
+     "hv": "THOẠI HỢP",
+     "pos": "自動",
+     "vi": "bàn bạc, thảo luận với nhau",
+     "key": true,
+     "ex": {
+      "ja": "{旅行|りょこう}の{行き先|いきさき}を{家族|かぞく}で{話|はな}し{合|あ}った。",
+      "vi": "Cả nhà đã bàn với nhau xem đi du lịch ở đâu."
+     },
+     "col": [
+      "話し合いで決める"
+     ]
+    },
+    {
+     "id": "g34-w7",
+     "w": "殺し合う",
+     "r": "ころしあう",
+     "hv": "SÁT HỢP",
+     "pos": "自動",
+     "vi": "giết hại lẫn nhau",
+     "key": true,
+     "ex": {
+      "ja": "{戦争|せんそう}は{人間|にんげん}{同士|どうし}が{殺|ころ}し{合|あ}う{悲劇|ひげき}だ。",
+      "vi": "Chiến tranh là bi kịch con người giết hại lẫn nhau."
+     }
+    },
+    {
+     "id": "g34-w8",
+     "w": "見つめ合う",
+     "r": "みつめあう",
+     "hv": "KIẾN HỢP",
+     "pos": "自動",
+     "vi": "nhìn chăm chú vào nhau",
+     "key": true,
+     "ex": {
+      "ja": "{二人|ふたり}は{何|なに}も{言|い}わずに{見|み}つめ{合|あ}っていた。",
+      "vi": "Hai người im lặng nhìn nhau."
+     }
+    },
+    {
+     "id": "g34-w9",
+     "w": "助け合う",
+     "r": "たすけあう",
+     "hv": "TRỢ HỢP",
+     "pos": "自動",
+     "vi": "giúp đỡ lẫn nhau",
+     "key": true,
+     "ex": {
+      "ja": "{災害|さいがい}のときこそ{近所|きんじょ}で{助|たす}け{合|あ}うことが{大切|たいせつ}だ。",
+      "vi": "Chính lúc thiên tai, hàng xóm giúp đỡ lẫn nhau là điều quan trọng."
+     },
+     "col": [
+      "助け合いの精神"
+     ]
+    },
+    {
+     "id": "g34-w10",
+     "w": "言い合う",
+     "r": "いいあう",
+     "hv": "NGÔN HỢP",
+     "pos": "自動",
+     "vi": "cãi nhau; cùng nói ra với nhau",
+     "key": true,
+     "ex": {
+      "ja": "{兄弟|きょうだい}が{小|ちい}さなことで{言|い}い{合|あ}っている。",
+      "vi": "Hai anh em đang cãi nhau vì chuyện nhỏ."
+     },
+     "note": "Hai nghĩa: (1) cãi cọ — 言い合いになる (thành ra cãi nhau); (2) cùng nói ra — 意見を言い合う."
+    },
+    {
+     "id": "g34-w11",
+     "w": "ほほえみ合う",
+     "r": "ほほえみあう",
+     "hv": "HỢP",
+     "pos": "自動",
+     "vi": "mỉm cười với nhau",
+     "key": true,
+     "ex": {
+      "ja": "{久|ひさ}しぶりに{会|あ}った{二人|ふたり}はほほえみ{合|あ}った。",
+      "vi": "Lâu ngày gặp lại, hai người mỉm cười với nhau."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜直す",
+   "title_vi": "làm lại lần nữa (để sửa, cho tốt hơn)",
+   "words": [
+    {
+     "id": "g34-w12",
+     "w": "考え直す",
+     "r": "かんがえなおす",
+     "hv": "KHẢO TRỰC",
+     "pos": "他動",
+     "vi": "suy nghĩ lại, xem xét lại",
+     "key": true,
+     "ex": {
+      "ja": "{会社|かいしゃ}を{辞|や}めるのは、もう{一度|いちど}{考|かんが}え{直|なお}したほうがいい。",
+      "vi": "Chuyện nghỉ việc, cậu nên suy nghĩ lại một lần nữa."
+     }
+    },
+    {
+     "id": "g34-w13",
+     "w": "建て直す",
+     "r": "たてなおす",
+     "hv": "KIẾN TRỰC",
+     "pos": "他動",
+     "vi": "xây lại; vực dậy, tái thiết",
+     "key": true,
+     "ex": {
+      "ja": "{古|ふる}くなった{家|いえ}を{建|た}て{直|なお}すことにした。",
+      "vi": "Chúng tôi quyết định xây lại ngôi nhà đã cũ."
+     },
+     "note": "Nghĩa bóng (vực dậy) thường viết 立て直す: 会社を立て直す, 気持ちを立て直す."
+    },
+    {
+     "id": "g34-w14",
+     "w": "読み直す",
+     "r": "よみなおす",
+     "hv": "ĐỘC TRỰC",
+     "pos": "他動",
+     "vi": "đọc lại",
+     "key": true,
+     "ex": {
+      "ja": "{送信|そうしん}する{前|まえ}にメールを{読|よ}み{直|なお}した。",
+      "vi": "Tôi đọc lại email trước khi gửi."
+     }
+    },
+    {
+     "id": "g34-w15",
+     "w": "温め直す",
+     "r": "あたためなおす",
+     "hv": "ÔN TRỰC",
+     "pos": "他動",
+     "vi": "hâm nóng lại",
+     "key": true,
+     "ex": {
+      "ja": "{冷|さ}めたスープを{電子|でんし}レンジで{温|あたた}め{直|なお}した。",
+      "vi": "Tôi hâm lại bát súp nguội bằng lò vi sóng."
+     }
+    },
+    {
+     "id": "g34-w16",
+     "w": "見直す",
+     "r": "みなおす",
+     "hv": "KIẾN TRỰC",
+     "pos": "他動",
+     "vi": "xem lại, rà soát; nhìn nhận lại (đánh giá cao hơn)",
+     "key": true,
+     "col": [
+      "計画を見直す",
+      "制度の見直し"
+     ],
+     "senses": [
+      {
+       "vi": "xem lại, kiểm tra lại; điều chỉnh lại (kế hoạch, chế độ)",
+       "ex": {
+        "ja": "{答案|とうあん}を{出|だ}す{前|まえ}に{必|かなら}ず{見直|みなお}しなさい。",
+        "vi": "Trước khi nộp bài nhất định phải xem lại."
+       }
+      },
+      {
+       "vi": "nhìn nhận lại, thấy ai tốt hơn mình tưởng",
+       "ex": {
+        "ja": "{困|こま}ったときに{助|たす}けてくれて、{彼|かれ}を{見直|みなお}した。",
+        "vi": "Anh ấy giúp tôi lúc khó khăn, tôi đã nhìn anh ấy bằng con mắt khác."
+       }
+      }
+     ]
+    },
+    {
+     "id": "g34-w17",
+     "w": "書き直す",
+     "r": "かきなおす",
+     "hv": "THƯ TRỰC",
+     "pos": "他動",
+     "vi": "viết lại",
+     "key": true,
+     "ex": {
+      "ja": "{字|じ}が{汚|きたな}かったので、{手紙|てがみ}を{書|か}き{直|なお}した。",
+      "vi": "Chữ xấu quá nên tôi viết lại lá thư."
+     }
+    },
+    {
+     "id": "g34-w18",
+     "w": "見つめ直す",
+     "r": "みつめなおす",
+     "hv": "KIẾN TRỰC",
+     "pos": "他動",
+     "vi": "nhìn nhận lại một cách nghiêm túc (bản thân, cuộc sống)",
+     "key": true,
+     "ex": {
+      "ja": "{病気|びょうき}をきっかけに、{自分|じぶん}の{生活|せいかつ}を{見|み}つめ{直|なお}した。",
+      "vi": "Nhân lần bị bệnh, tôi đã nhìn lại lối sống của mình."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜上がる",
+   "title_vi": "(việc) làm xong, hoàn thành — tự động từ",
+   "words": [
+    {
+     "id": "g34-w19",
+     "w": "書き上がる",
+     "r": "かきあがる",
+     "hv": "THƯ THƯỢNG",
+     "pos": "自動",
+     "vi": "viết xong",
+     "key": true,
+     "ex": {
+      "ja": "{徹夜|てつや}して、やっと{論文|ろんぶん}が{書|か}き{上|あ}がった。",
+      "vi": "Thức trắng đêm, cuối cùng luận văn cũng viết xong."
+     },
+     "rel": "他動: 書き上げる"
+    },
+    {
+     "id": "g34-w20",
+     "w": "出来上がる",
+     "r": "できあがる",
+     "hv": "XUẤT LAI THƯỢNG",
+     "pos": "自動",
+     "vi": "làm xong, hoàn thành",
+     "key": true,
+     "ex": {
+      "ja": "{注文|ちゅうもん}したケーキが{出来上|できあ}がったと{連絡|れんらく}があった。",
+      "vi": "Tiệm báo là chiếc bánh tôi đặt đã làm xong."
+     },
+     "col": [
+      "出来上がり"
+     ]
+    },
+    {
+     "id": "g34-w21",
+     "w": "編み上がる",
+     "r": "あみあがる",
+     "hv": "BIÊN THƯỢNG",
+     "pos": "自動",
+     "vi": "đan xong",
+     "key": true,
+     "ex": {
+      "ja": "{母|はは}が{編|あ}んでいたセーターがようやく{編|あ}み{上|あ}がった。",
+      "vi": "Chiếc áo len mẹ đan cuối cùng cũng xong."
+     }
+    },
+    {
+     "id": "g34-w22",
+     "w": "焼き上がる",
+     "r": "やきあがる",
+     "hv": "THIÊU THƯỢNG",
+     "pos": "自動",
+     "vi": "nướng xong, nướng chín",
+     "key": true,
+     "ex": {
+      "ja": "パンが{焼|や}き{上|あ}がると、{部屋|へや}{中|じゅう}にいい{香|かお}りが{広|ひろ}がった。",
+      "vi": "Bánh mì nướng xong, mùi thơm lan khắp phòng."
+     }
+    },
+    {
+     "id": "g34-w23",
+     "w": "炊き上がる",
+     "r": "たきあがる",
+     "hv": "XUY THƯỢNG",
+     "pos": "自動",
+     "vi": "(cơm) nấu xong, chín",
+     "key": true,
+     "ex": {
+      "ja": "ご{飯|はん}が{炊|た}き{上|あ}がるまで、あと{十分|じゅっぷん}ある。",
+      "vi": "Còn 10 phút nữa cơm mới chín."
+     },
+     "note": "炊く chỉ dùng cho nấu cơm (ご飯を炊く)."
+    },
+    {
+     "id": "g34-w24",
+     "w": "ゆで上がる",
+     "r": "ゆであがる",
+     "hv": "THƯỢNG",
+     "pos": "自動",
+     "vi": "luộc xong, chín",
+     "key": true,
+     "ex": {
+      "ja": "パスタがゆで{上|あ}がったら、すぐソースと{混|ま}ぜる。",
+      "vi": "Mì Ý luộc chín là trộn ngay với sốt."
+     },
+     "note": "ゆでる (茹でる) = luộc."
+    }
+   ]
+  },
+  {
+   "title": "〜出す（1）",
+   "title_vi": "ra ngoài, lấy ra (hướng từ trong ra ngoài)",
+   "words": [
+    {
+     "id": "g34-w25",
+     "w": "呼び出す",
+     "r": "よびだす",
+     "hv": "HÔ XUẤT",
+     "pos": "他動",
+     "vi": "gọi ra, gọi đến (để gặp)",
+     "key": true,
+     "ex": {
+      "ja": "{放課後|ほうかご}、{先生|せんせい}に{職員室|しょくいんしつ}へ{呼|よ}び{出|だ}された。",
+      "vi": "Sau giờ học, tôi bị thầy gọi lên phòng giáo viên."
+     },
+     "col": [
+      "呼び出し音"
+     ]
+    },
+    {
+     "id": "g34-w26",
+     "w": "連れ出す",
+     "r": "つれだす",
+     "hv": "LIÊN XUẤT",
+     "pos": "他動",
+     "vi": "dẫn ra ngoài, kéo ai đi ra",
+     "key": true,
+     "ex": {
+      "ja": "{家|いえ}にこもっていた{弟|おとうと}を{散歩|さんぽ}に{連|つ}れ{出|だ}した。",
+      "vi": "Tôi kéo đứa em suốt ngày ru rú trong nhà ra ngoài đi dạo."
+     }
+    },
+    {
+     "id": "g34-w27",
+     "w": "貸し出す",
+     "r": "かしだす",
+     "hv": "THẢI XUẤT",
+     "pos": "他動",
+     "vi": "cho mượn (mang ra ngoài)",
+     "key": true,
+     "ex": {
+      "ja": "この{図書館|としょかん}では{一人|ひとり}{五冊|ごさつ}まで{本|ほん}を{貸|か}し{出|だ}している。",
+      "vi": "Thư viện này cho mượn tối đa 5 cuốn mỗi người."
+     },
+     "col": [
+      "貸し出し中"
+     ]
+    },
+    {
+     "id": "g34-w28",
+     "w": "持ち出す",
+     "r": "もちだす",
+     "hv": "TRÌ XUẤT",
+     "pos": "他動",
+     "vi": "mang ra ngoài; đưa (chuyện) ra",
+     "key": true,
+     "ex": {
+      "ja": "{会社|かいしゃ}の{資料|しりょう}を{外|そと}に{持|も}ち{出|だ}してはいけない。",
+      "vi": "Không được mang tài liệu của công ty ra ngoài."
+     },
+     "note": "Nghĩa 2: 話を持ち出す = đưa chuyện ra nói. ↔ 持ち込む (mang vào)."
+    },
+    {
+     "id": "g34-w29",
+     "w": "抜き出す",
+     "r": "ぬきだす",
+     "hv": "BẠT XUẤT",
+     "pos": "他動",
+     "vi": "rút ra, trích ra",
+     "key": true,
+     "ex": {
+      "ja": "{文章|ぶんしょう}の{中|なか}から{大事|だいじ}な{言葉|ことば}を{抜|ぬ}き{出|だ}してください。",
+      "vi": "Hãy trích ra những từ quan trọng trong đoạn văn."
+     }
+    },
+    {
+     "id": "g34-w30",
+     "w": "飛び出す",
+     "r": "とびだす",
+     "hv": "PHI XUẤT",
+     "pos": "自動",
+     "vi": "lao ra, chạy vụt ra",
+     "key": true,
+     "ex": {
+      "ja": "{子|こ}どもが{急|きゅう}に{道路|どうろ}に{飛|と}び{出|だ}してきた。",
+      "vi": "Một đứa trẻ bất ngờ lao ra đường."
+     }
+    },
+    {
+     "id": "g34-w31",
+     "w": "逃げ出す",
+     "r": "にげだす",
+     "hv": "ĐÀO XUẤT",
+     "pos": "自動",
+     "vi": "bỏ chạy, trốn ra",
+     "key": true,
+     "ex": {
+      "ja": "{犬|いぬ}が{庭|にわ}から{逃|に}げ{出|だ}してしまった。",
+      "vi": "Con chó đã trốn ra khỏi vườn mất rồi."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜出す（2）",
+   "title_vi": "bắt đầu (đột ngột) làm gì",
+   "words": [
+    {
+     "id": "g34-w32",
+     "w": "歩き出す",
+     "r": "あるきだす",
+     "hv": "BỘ XUẤT",
+     "pos": "自動",
+     "vi": "bắt đầu bước đi",
+     "key": true,
+     "ex": {
+      "ja": "{娘|むすめ}は{一歳|いっさい}で{歩|ある}き{出|だ}した。",
+      "vi": "Con gái tôi biết đi lúc một tuổi."
+     }
+    },
+    {
+     "id": "g34-w33",
+     "w": "泣き出す",
+     "r": "なきだす",
+     "hv": "KHẤP XUẤT",
+     "pos": "自動",
+     "vi": "bật khóc",
+     "key": true,
+     "ex": {
+      "ja": "{叱|しか}られた{子|こ}どもが{急|きゅう}に{泣|な}き{出|だ}した。",
+      "vi": "Đứa bé bị mắng bỗng bật khóc."
+     }
+    },
+    {
+     "id": "g34-w34",
+     "w": "怒り出す",
+     "r": "おこりだす",
+     "hv": "NỘ XUẤT",
+     "pos": "自動",
+     "vi": "nổi giận (bất chợt)",
+     "key": true,
+     "ex": {
+      "ja": "{冗談|じょうだん}のつもりだったのに、{彼|かれ}は{怒|おこ}り{出|だ}した。",
+      "vi": "Tôi chỉ định đùa thôi vậy mà anh ấy nổi giận."
+     }
+    },
+    {
+     "id": "g34-w35",
+     "w": "歌い出す",
+     "r": "うたいだす",
+     "hv": "CA XUẤT",
+     "pos": "自動",
+     "vi": "cất tiếng hát",
+     "key": true,
+     "ex": {
+      "ja": "{音楽|おんがく}が{流|なが}れると、みんな{一緒|いっしょ}に{歌|うた}い{出|だ}した。",
+      "vi": "Nhạc vừa vang lên là mọi người cùng cất tiếng hát."
+     }
+    },
+    {
+     "id": "g34-w36",
+     "w": "言い出す",
+     "r": "いいだす",
+     "hv": "NGÔN XUẤT",
+     "pos": "他動",
+     "vi": "nói ra, mở lời (đề xuất trước tiên)",
+     "key": true,
+     "ex": {
+      "ja": "{旅行|りょこう}に{行|い}こうと{言|い}い{出|だ}したのは{妻|つま}だ。",
+      "vi": "Người đầu tiên rủ đi du lịch là vợ tôi."
+     },
+     "note": "Hay dùng để nói ai là người khơi ra: 言い出した人, 言い出しにくい (khó mở lời)."
+    },
+    {
+     "id": "g34-w37",
+     "w": "話し出す",
+     "r": "はなしだす",
+     "hv": "THOẠI XUẤT",
+     "pos": "自動",
+     "vi": "bắt đầu nói",
+     "key": true,
+     "ex": {
+      "ja": "しばらく{黙|だま}っていた{彼女|かのじょ}が、{静|しず}かに{話|はな}し{出|だ}した。",
+      "vi": "Cô ấy im lặng một lúc rồi chậm rãi bắt đầu nói."
+     }
+    },
+    {
+     "id": "g34-w38",
+     "w": "痛み出す",
+     "r": "いたみだす",
+     "hv": "THỐNG XUẤT",
+     "pos": "自動",
+     "vi": "bắt đầu đau",
+     "key": true,
+     "ex": {
+      "ja": "{雨|あめ}の{日|ひ}は{古|ふる}い{傷|きず}が{痛|いた}み{出|だ}す。",
+      "vi": "Ngày mưa vết thương cũ lại bắt đầu đau."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜回る",
+   "title_vi": "đi khắp nơi, vòng quanh",
+   "words": [
+    {
+     "id": "g34-w39",
+     "w": "歩き回る",
+     "r": "あるきまわる",
+     "hv": "BỘ HỒI",
+     "pos": "自動",
+     "vi": "đi lại khắp nơi",
+     "key": true,
+     "ex": {
+      "ja": "{一日中|いちにちじゅう}{町|まち}を{歩|ある}き{回|まわ}って{足|あし}が{痛|いた}い。",
+      "vi": "Đi bộ khắp phố cả ngày nên đau chân."
+     }
+    },
+    {
+     "id": "g34-w40",
+     "w": "見回る",
+     "r": "みまわる",
+     "hv": "KIẾN HỒI",
+     "pos": "他動",
+     "vi": "đi tuần, đi kiểm tra một vòng",
+     "key": true,
+     "ex": {
+      "ja": "{警備員|けいびいん}が{夜|よる}のビルを{見回|みまわ}っている。",
+      "vi": "Nhân viên bảo vệ đang đi tuần trong tòa nhà ban đêm."
+     },
+     "note": "Khác 見回す (đứng tại chỗ nhìn quanh). 見回り = việc đi tuần."
+    },
+    {
+     "id": "g34-w41",
+     "w": "走り回る",
+     "r": "はしりまわる",
+     "hv": "TẨU HỒI",
+     "pos": "自動",
+     "vi": "chạy khắp nơi; chạy ngược chạy xuôi",
+     "key": true,
+     "ex": {
+      "ja": "{子|こ}どもたちが{公園|こうえん}を{走|はし}り{回|まわ}っている。",
+      "vi": "Lũ trẻ đang chạy nhảy khắp công viên."
+     }
+    },
+    {
+     "id": "g34-w42",
+     "w": "捜し回る",
+     "r": "さがしまわる",
+     "hv": "SƯU HỒI",
+     "pos": "他動",
+     "vi": "đi tìm khắp nơi",
+     "key": true,
+     "ex": {
+      "ja": "なくした{鍵|かぎ}を{家|いえ}{中|じゅう}{捜|さが}し{回|まわ}った。",
+      "vi": "Tôi lục tìm chiếc chìa khóa bị mất khắp nhà."
+     }
+    },
+    {
+     "id": "g34-w43",
+     "w": "遊び回る",
+     "r": "あそびまわる",
+     "hv": "DU HỒI",
+     "pos": "自動",
+     "vi": "rong chơi khắp nơi",
+     "key": true,
+     "ex": {
+      "ja": "{夏休|なつやす}みは{勉強|べんきょう}もせずに{遊|あそ}び{回|まわ}っていた。",
+      "vi": "Kỳ nghỉ hè tôi chẳng học hành gì, chỉ rong chơi."
+     }
+    },
+    {
+     "id": "g34-w44",
+     "w": "逃げ回る",
+     "r": "にげまわる",
+     "hv": "ĐÀO HỒI",
+     "pos": "自動",
+     "vi": "chạy trốn khắp nơi; lẩn tránh",
+     "key": true,
+     "ex": {
+      "ja": "{犯人|はんにん}は{一年|いちねん}も{全国|ぜんこく}を{逃|に}げ{回|まわ}っていた。",
+      "vi": "Tên tội phạm đã trốn chạy khắp cả nước suốt một năm."
+     }
+    },
+    {
+     "id": "g34-w45",
+     "w": "飛び回る",
+     "r": "とびまわる",
+     "hv": "PHI HỒI",
+     "pos": "自動",
+     "vi": "bay lượn khắp nơi; bôn ba khắp nơi",
+     "key": true,
+     "ex": {
+      "ja": "{社長|しゃちょう}は{仕事|しごと}で{世界|せかい}{中|じゅう}を{飛|と}び{回|まわ}っている。",
+      "vi": "Giám đốc bay khắp thế giới vì công việc."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜込む（1）",
+   "title_vi": "vào trong",
+   "words": [
+    {
+     "id": "g34-w46",
+     "w": "乗り込む",
+     "r": "のりこむ",
+     "hv": "THỪA",
+     "pos": "自動",
+     "vi": "lên (xe, tàu); kéo vào (nơi nào đó)",
+     "key": true,
+     "ex": {
+      "ja": "{全員|ぜんいん}がバスに{乗|の}り{込|こ}むと、すぐに{出発|しゅっぱつ}した。",
+      "vi": "Mọi người vừa lên xe buýt là xe xuất phát ngay."
+     }
+    },
+    {
+     "id": "g34-w47",
+     "w": "飛び込む",
+     "r": "とびこむ",
+     "hv": "PHI",
+     "pos": "自動",
+     "vi": "nhảy vào, lao vào",
+     "key": true,
+     "ex": {
+      "ja": "{子|こ}どもたちは{川|かわ}に{飛|と}び{込|こ}んで{遊|あそ}んでいる。",
+      "vi": "Bọn trẻ nhảy xuống sông chơi đùa."
+     },
+     "note": "Nghĩa bóng: 新しい世界に飛び込む (lao vào một thế giới mới)."
+    },
+    {
+     "id": "g34-w48",
+     "w": "混ぜ込む",
+     "r": "まぜこむ",
+     "hv": "HỖN",
+     "pos": "他動",
+     "vi": "trộn vào",
+     "key": true,
+     "ex": {
+      "ja": "ご{飯|はん}に{細|こま}かく{切|き}った{野菜|やさい}を{混|ま}ぜ{込|こ}む。",
+      "vi": "Trộn rau thái nhỏ vào cơm."
+     }
+    },
+    {
+     "id": "g34-w49",
+     "w": "持ち込む",
+     "r": "もちこむ",
+     "hv": "TRÌ",
+     "pos": "他動",
+     "vi": "mang vào",
+     "key": true,
+     "ex": {
+      "ja": "{会場|かいじょう}に{飲|の}み{物|もの}を{持|も}ち{込|こ}まないでください。",
+      "vi": "Xin đừng mang đồ uống vào hội trường."
+     },
+     "col": [
+      "持ち込み禁止"
+     ]
+    },
+    {
+     "id": "g34-w50",
+     "w": "染み込む",
+     "r": "しみこむ",
+     "hv": "NHIỄM",
+     "pos": "自動",
+     "vi": "ngấm vào, thấm vào",
+     "key": true,
+     "ex": {
+      "ja": "{一晩|ひとばん}おくと、{大根|だいこん}に{味|あじ}がよく{染|し}み{込|こ}む。",
+      "vi": "Để qua một đêm, củ cải sẽ ngấm gia vị."
+     }
+    },
+    {
+     "id": "g34-w51",
+     "w": "駆け込む",
+     "r": "かけこむ",
+     "hv": "KHU",
+     "pos": "自動",
+     "vi": "chạy vội vào",
+     "key": true,
+     "ex": {
+      "ja": "{発車|はっしゃ}{直前|ちょくぜん}の{電車|でんしゃ}に{駆|か}け{込|こ}んだ。",
+      "vi": "Tôi chạy vội lên chuyến tàu sắp chạy."
+     },
+     "col": [
+      "駆け込み乗車"
+     ]
+    },
+    {
+     "id": "g34-w52",
+     "w": "詰め込む",
+     "r": "つめこむ",
+     "hv": "CẬT",
+     "pos": "他動",
+     "vi": "nhồi nhét vào",
+     "key": true,
+     "ex": {
+      "ja": "{旅行|りょこう}かばんに{服|ふく}を{詰|つ}め{込|こ}んだ。",
+      "vi": "Tôi nhồi quần áo vào va li."
+     },
+     "note": "Nghĩa bóng: 知識を詰め込む (nhồi nhét kiến thức), 詰め込み教育."
+    }
+   ]
+  },
+  {
+   "title": "〜込む（2）",
+   "title_vi": "(trạng thái) sâu, hoàn toàn, mải mê kéo dài",
+   "words": [
+    {
+     "id": "g34-w53",
+     "w": "信じ込む",
+     "r": "しんじこむ",
+     "hv": "TÍN",
+     "pos": "他動",
+     "vi": "tin chắc, tin sái cổ",
+     "key": true,
+     "ex": {
+      "ja": "{弟|おとうと}は{私|わたし}の{冗談|じょうだん}を{本当|ほんとう}だと{信|しん}じ{込|こ}んでしまった。",
+      "vi": "Em tôi tin sái cổ lời đùa của tôi là thật."
+     }
+    },
+    {
+     "id": "g34-w54",
+     "w": "思い込む",
+     "r": "おもいこむ",
+     "hv": "TƯ",
+     "pos": "他動",
+     "vi": "đinh ninh, yên trí (thường là sai)",
+     "key": true,
+     "ex": {
+      "ja": "{会議|かいぎ}は{明日|あした}だと{思|おも}い{込|こ}んでいたが、{今日|きょう}だった。",
+      "vi": "Tôi cứ đinh ninh cuộc họp là ngày mai, hóa ra là hôm nay."
+     },
+     "col": [
+      "思い込みが激しい"
+     ]
+    },
+    {
+     "id": "g34-w55",
+     "w": "黙り込む",
+     "r": "だまりこむ",
+     "hv": "MẶC",
+     "pos": "自動",
+     "vi": "im bặt, im lặng hẳn",
+     "key": true,
+     "ex": {
+      "ja": "{痛|いた}いところを{突|つ}かれて、{彼|かれ}は{黙|だま}り{込|こ}んだ。",
+      "vi": "Bị nói trúng chỗ yếu, anh ta im bặt."
+     }
+    },
+    {
+     "id": "g34-w56",
+     "w": "落ち込む",
+     "r": "おちこむ",
+     "hv": "LẠC",
+     "pos": "自動",
+     "vi": "chán nản, suy sụp; (số liệu) sụt giảm",
+     "key": true,
+     "ex": {
+      "ja": "{試験|しけん}に{落|お}ちて{落|お}ち{込|こ}んでいる{友達|ともだち}を{励|はげ}ました。",
+      "vi": "Tôi động viên người bạn đang buồn vì thi trượt."
+     },
+     "note": "Nghĩa 2: 売り上げが落ち込む (doanh thu sụt giảm)."
+    },
+    {
+     "id": "g34-w57",
+     "w": "眠り込む",
+     "r": "ねむりこむ",
+     "hv": "MIÊN",
+     "pos": "自動",
+     "vi": "ngủ say, ngủ thiếp đi",
+     "key": true,
+     "ex": {
+      "ja": "{疲|つか}れていたのか、{電車|でんしゃ}の{中|なか}でぐっすり{眠|ねむ}り{込|こ}んでしまった。",
+      "vi": "Chắc vì mệt nên tôi ngủ thiếp đi trên tàu."
+     }
+    },
+    {
+     "id": "g34-w58",
+     "w": "話し込む",
+     "r": "はなしこむ",
+     "hv": "THOẠI",
+     "pos": "自動",
+     "vi": "mải nói chuyện, nói chuyện say sưa",
+     "key": true,
+     "ex": {
+      "ja": "{友達|ともだち}と{話|はな}し{込|こ}んで、{終電|しゅうでん}を{逃|のが}した。",
+      "vi": "Mải nói chuyện với bạn, tôi lỡ mất chuyến tàu cuối."
+     }
+    }
+   ]
+  },
+  {
+   "title": "取り〜",
+   "title_vi": "nhấn mạnh hành động (bằng tay, dứt khoát)",
+   "words": [
+    {
+     "id": "g34-w59",
+     "w": "取り入れる",
+     "r": "とりいれる",
+     "hv": "THỦ NHẬP",
+     "pos": "他動",
+     "vi": "tiếp thu, đưa vào áp dụng",
+     "key": true,
+     "ex": {
+      "ja": "{社員|しゃいん}の{意見|いけん}を{新|あたら}しい{制度|せいど}に{取|と}り{入|い}れた。",
+      "vi": "Ý kiến của nhân viên đã được đưa vào chế độ mới."
+     },
+     "col": [
+      "やり方を取り入れる",
+      "考えを取り入れる"
+     ]
+    },
+    {
+     "id": "g34-w60",
+     "w": "取り替える",
+     "r": "とりかえる",
+     "hv": "THỦ THẾ",
+     "pos": "他動",
+     "vi": "thay, đổi (cái cũ lấy cái mới)",
+     "key": true,
+     "ex": {
+      "ja": "{切|き}れた{電球|でんきゅう}を{新|あたら}しいのに{取|と}り{替|か}えた。",
+      "vi": "Tôi thay bóng đèn cháy bằng cái mới."
+     }
+    },
+    {
+     "id": "g34-w61",
+     "w": "取り消す",
+     "r": "とりけす",
+     "hv": "THỦ TIÊU",
+     "pos": "他動",
+     "vi": "hủy bỏ, rút lại",
+     "key": true,
+     "ex": {
+      "ja": "{急用|きゅうよう}ができて、ホテルの{予約|よやく}を{取|と}り{消|け}した。",
+      "vi": "Có việc gấp nên tôi hủy đặt phòng khách sạn."
+     },
+     "col": [
+      "予約を取り消す",
+      "発言を取り消す"
+     ],
+     "rel": "≒ キャンセルする"
+    },
+    {
+     "id": "g34-w62",
+     "w": "取り上げる",
+     "r": "とりあげる",
+     "hv": "THỦ THƯỢNG",
+     "pos": "他動",
+     "vi": "đưa ra bàn, đưa tin; tịch thu",
+     "key": true,
+     "senses": [
+      {
+       "vi": "đưa ra bàn luận, đưa tin",
+       "ex": {
+        "ja": "その{事件|じけん}はテレビで{大|おお}きく{取|と}り{上|あ}げられた。",
+        "vi": "Vụ việc đó được truyền hình đưa tin rầm rộ."
+       }
+      },
+      {
+       "vi": "tịch thu, lấy đi",
+       "ex": {
+        "ja": "{授業中|じゅぎょうちゅう}にゲームをしていたら、{先生|せんせい}に{取|と}り{上|あ}げられた。",
+        "vi": "Chơi game trong giờ học nên bị thầy tịch thu."
+       }
+      }
+     ]
+    },
+    {
+     "id": "g34-w63",
+     "w": "取り出す",
+     "r": "とりだす",
+     "hv": "THỦ XUẤT",
+     "pos": "他動",
+     "vi": "lấy ra",
+     "key": true,
+     "ex": {
+      "ja": "{彼|かれ}はかばんから{一枚|いちまい}の{写真|しゃしん}を{取|と}り{出|だ}した。",
+      "vi": "Anh ấy lấy từ trong cặp ra một tấm ảnh."
+     }
+    }
+   ]
+  },
+  {
+   "title": "受け〜",
+   "title_vi": "đón nhận (từ người khác)",
+   "words": [
+    {
+     "id": "g34-w64",
+     "w": "受け入れる",
+     "r": "うけいれる",
+     "hv": "THỤ NHẬP",
+     "pos": "他動",
+     "vi": "tiếp nhận, chấp nhận",
+     "key": true,
+     "ex": {
+      "ja": "この{町|まち}は{毎年|まいとし}{多|おお}くの{留学生|りゅうがくせい}を{受|う}け{入|い}れている。",
+      "vi": "Thị trấn này mỗi năm tiếp nhận nhiều du học sinh."
+     },
+     "col": [
+      "提案を受け入れる",
+      "受け入れ態勢"
+     ]
+    },
+    {
+     "id": "g34-w65",
+     "w": "受け持つ",
+     "r": "うけもつ",
+     "hv": "THỤ TRÌ",
+     "pos": "他動",
+     "vi": "phụ trách, đảm nhận (lớp học, công việc)",
+     "key": true,
+     "ex": {
+      "ja": "{山田|やまだ}{先生|せんせい}は{三年|さんねん}{二組|にくみ}を{受|う}け{持|も}っている。",
+      "vi": "Thầy Yamada chủ nhiệm lớp 3-2."
+     },
+     "col": [
+      "受け持ちの先生"
+     ],
+     "rel": "≒ 担当する"
+    },
+    {
+     "id": "g34-w66",
+     "w": "受け取る",
+     "r": "うけとる",
+     "hv": "THỤ THỦ",
+     "pos": "他動",
+     "vi": "nhận (đồ, tiền); hiểu (ý người khác) theo kiểu…",
+     "key": true,
+     "ex": {
+      "ja": "{宅配便|たくはいびん}の{荷物|にもつ}を{受|う}け{取|と}った。",
+      "vi": "Tôi đã nhận gói hàng chuyển phát."
+     },
+     "note": "Nghĩa 2: 冗談を本気に受け取る (tưởng lời đùa là thật)."
+    }
+   ]
+  },
+  {
+   "title": "あて〜",
+   "title_vi": "khớp, áp vào",
+   "words": [
+    {
+     "id": "g34-w67",
+     "w": "あてはまる",
+     "r": "あてはまる",
+     "hv": "ĐƯƠNG",
+     "pos": "自動",
+     "vi": "khớp, phù hợp với (điều kiện)",
+     "key": true,
+     "ex": {
+      "ja": "{次|つぎ}の{条件|じょうけん}にあてはまる{人|ひと}は{手|て}を{挙|あ}げてください。",
+      "vi": "Ai thỏa điều kiện sau xin giơ tay."
+     },
+     "note": "Kanji: 当てはまる. Dạng: 〜に当てはまる."
+    },
+    {
+     "id": "g34-w68",
+     "w": "あてはめる",
+     "r": "あてはめる",
+     "hv": "ĐƯƠNG",
+     "pos": "他動",
+     "vi": "áp dụng, áp vào",
+     "key": true,
+     "ex": {
+      "ja": "{外国|がいこく}のやり{方|かた}をそのまま{日本|にほん}にあてはめるのは{難|むずか}しい。",
+      "vi": "Áp nguyên cách làm của nước ngoài vào Nhật Bản là điều khó."
+     },
+     "note": "AをBに当てはめる (他動) ↔ AがBに当てはまる (自動)."
+    }
+   ]
+  },
+  {
+   "title": "組み〜",
+   "title_vi": "ráp, kết hợp",
+   "words": [
+    {
+     "id": "g34-w69",
+     "w": "組み立てる",
+     "r": "くみたてる",
+     "hv": "TỔ LẬP",
+     "pos": "他動",
+     "vi": "lắp ráp",
+     "key": true,
+     "ex": {
+      "ja": "{説明書|せつめいしょ}を{見|み}ながら{棚|たな}を{組|く}み{立|た}てた。",
+      "vi": "Tôi vừa xem hướng dẫn vừa lắp cái kệ."
+     },
+     "col": [
+      "組み立て式の家具"
+     ]
+    },
+    {
+     "id": "g34-w70",
+     "w": "組み合わせる",
+     "r": "くみあわせる",
+     "hv": "TỔ HỢP",
+     "pos": "他動",
+     "vi": "kết hợp, phối với nhau",
+     "key": true,
+     "ex": {
+      "ja": "{青|あお}いシャツに{白|しろ}いズボンを{組|く}み{合|あ}わせた。",
+      "vi": "Tôi phối áo sơ mi xanh với quần trắng."
+     },
+     "col": [
+      "組み合わせ"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "追い〜",
+   "title_vi": "đuổi",
+   "words": [
+    {
+     "id": "g34-w71",
+     "w": "追いかける",
+     "r": "おいかける",
+     "hv": "TRUY",
+     "pos": "他動",
+     "vi": "đuổi theo",
+     "key": true,
+     "ex": {
+      "ja": "{警官|けいかん}が{逃|に}げる{男|おとこ}を{追|お}いかけた。",
+      "vi": "Cảnh sát đuổi theo người đàn ông đang chạy trốn."
+     },
+     "note": "Nghĩa bóng: 夢を追いかける (theo đuổi ước mơ)."
+    },
+    {
+     "id": "g34-w72",
+     "w": "追い越す",
+     "r": "おいこす",
+     "hv": "TRUY VIỆT",
+     "pos": "他動",
+     "vi": "vượt (lên trước)",
+     "key": true,
+     "ex": {
+      "ja": "トラックが{私|わたし}の{車|くるま}を{追|お}い{越|こ}していった。",
+      "vi": "Chiếc xe tải vượt lên trước xe tôi."
+     },
+     "col": [
+      "追い越し禁止"
+     ]
+    },
+    {
+     "id": "g34-w73",
+     "w": "追い付く",
+     "r": "おいつく",
+     "hv": "TRUY PHÓ",
+     "pos": "自動",
+     "vi": "đuổi kịp, theo kịp",
+     "key": true,
+     "ex": {
+      "ja": "{走|はし}って、{先|さき}に{出|で}た{友達|ともだち}に{追|お}い{付|つ}いた。",
+      "vi": "Tôi chạy và đuổi kịp người bạn đã đi trước."
+     },
+     "note": "〜**に**追い付く (bắt kịp, ngang bằng) — khác 〜**を**追い越す (vượt lên trước)."
+    },
+    {
+     "id": "g34-w74",
+     "w": "追い出す",
+     "r": "おいだす",
+     "hv": "TRUY XUẤT",
+     "pos": "他動",
+     "vi": "đuổi ra",
+     "key": true,
+     "ex": {
+      "ja": "{台所|だいどころ}に{入|はい}ってきた{猫|ねこ}を{追|お}い{出|だ}した。",
+      "vi": "Tôi đuổi con mèo chui vào bếp ra ngoài."
+     }
+    }
+   ]
+  },
+  {
+   "title": "振り〜",
+   "title_vi": "quay (người, đầu)",
+   "words": [
+    {
+     "id": "g34-w75",
+     "w": "振り返る",
+     "r": "ふりかえる",
+     "hv": "CHẤN PHẢN",
+     "pos": "自・他動",
+     "vi": "ngoảnh lại; nhìn lại (quá khứ)",
+     "key": true,
+     "senses": [
+      {
+       "vi": "ngoảnh lại phía sau",
+       "ex": {
+        "ja": "{名前|なまえ}を{呼|よ}ばれて{振|ふ}り{返|かえ}った。",
+        "vi": "Nghe gọi tên, tôi ngoảnh lại."
+       }
+      },
+      {
+       "vi": "nhìn lại, hồi tưởng",
+       "ex": {
+        "ja": "この{一年|いちねん}を{振|ふ}り{返|かえ}ると、いろいろなことがあった。",
+        "vi": "Nhìn lại một năm qua, đã có rất nhiều chuyện."
+       }
+      }
+     ]
+    },
+    {
+     "id": "g34-w76",
+     "w": "振り向く",
+     "r": "ふりむく",
+     "hv": "CHẤN HƯỚNG",
+     "pos": "自動",
+     "vi": "quay đầu lại, ngoảnh mặt về phía",
+     "key": true,
+     "ex": {
+      "ja": "{後|うし}ろから{肩|かた}をたたかれて{振|ふ}り{向|む}いた。",
+      "vi": "Bị vỗ vai từ phía sau, tôi quay đầu lại."
+     },
+     "note": "振り向く chỉ là động tác quay người/đầu; nghĩa 'nhìn lại quá khứ' chỉ dùng 振り返る."
+    }
+   ]
+  },
+  {
+   "title": "差し〜",
+   "title_vi": "đưa ra / trừ đi",
+   "words": [
+    {
+     "id": "g34-w77",
+     "w": "差し出す",
+     "r": "さしだす",
+     "hv": "SAI XUẤT",
+     "pos": "他動",
+     "vi": "chìa ra, đưa ra; nộp, gửi",
+     "key": true,
+     "ex": {
+      "ja": "{彼|かれ}は{笑顔|えがお}で{右手|みぎて}を{差|さ}し{出|だ}した。",
+      "vi": "Anh ấy tươi cười chìa tay phải ra."
+     },
+     "col": [
+      "書類を差し出す",
+      "差出人 (người gửi)"
+     ]
+    },
+    {
+     "id": "g34-w78",
+     "w": "差し引く",
+     "r": "さしひく",
+     "hv": "SAI DẪN",
+     "pos": "他動",
+     "vi": "khấu trừ, trừ đi",
+     "key": true,
+     "ex": {
+      "ja": "{給料|きゅうりょう}から{税金|ぜいきん}が{差|さ}し{引|ひ}かれる。",
+      "vi": "Tiền thuế bị trừ vào lương."
+     },
+     "col": [
+      "差し引き"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "通り〜",
+   "title_vi": "đi qua",
+   "words": [
+    {
+     "id": "g34-w79",
+     "w": "通りかかる",
+     "r": "とおりかかる",
+     "hv": "THÔNG",
+     "pos": "自動",
+     "vi": "tình cờ đi ngang qua",
+     "key": true,
+     "ex": {
+      "ja": "{事故|じこ}の{現場|げんば}に{偶然|ぐうぜん}{通|とお}りかかった。",
+      "vi": "Tôi tình cờ đi ngang qua hiện trường vụ tai nạn."
+     }
+    },
+    {
+     "id": "g34-w80",
+     "w": "通り過ぎる",
+     "r": "とおりすぎる",
+     "hv": "THÔNG QUÁ",
+     "pos": "自動",
+     "vi": "đi quá, đi qua (không dừng lại)",
+     "key": true,
+     "ex": {
+      "ja": "{話|はなし}に{夢中|むちゅう}で、{降|お}りる{駅|えき}を{通|とお}り{過|す}ぎてしまった。",
+      "vi": "Mải nói chuyện nên tôi đi quá ga cần xuống."
+     },
+     "note": "台風が通り過ぎる = bão đi qua."
+    }
+   ]
+  },
+  {
+   "title": "乗り〜",
+   "title_vi": "đi xe / vượt",
+   "words": [
+    {
+     "id": "g34-w81",
+     "w": "乗り遅れる",
+     "r": "のりおくれる",
+     "hv": "THỪA TRÌ",
+     "pos": "自動",
+     "vi": "lỡ (xe, tàu); tụt hậu",
+     "key": true,
+     "ex": {
+      "ja": "{寝坊|ねぼう}して{始発|しはつ}の{電車|でんしゃ}に{乗|の}り{遅|おく}れた。",
+      "vi": "Ngủ quên nên tôi lỡ chuyến tàu đầu tiên."
+     },
+     "note": "Nghĩa bóng: 時代に乗り遅れる (tụt hậu với thời đại)."
+    },
+    {
+     "id": "g34-w82",
+     "w": "乗り越す",
+     "r": "のりこす",
+     "hv": "THỪA VIỆT",
+     "pos": "他動",
+     "vi": "đi quá ga (định xuống)",
+     "key": true,
+     "ex": {
+      "ja": "{居眠|いねむ}りをして{二駅|ふたえき}も{乗|の}り{越|こ}してしまった。",
+      "vi": "Ngủ gật nên tôi đi quá những hai ga."
+     },
+     "col": [
+      "乗り越し料金"
+     ]
+    },
+    {
+     "id": "g34-w83",
+     "w": "乗り越える",
+     "r": "のりこえる",
+     "hv": "THỪA VIỆT",
+     "pos": "他動",
+     "vi": "vượt qua (khó khăn); trèo qua",
+     "key": true,
+     "ex": {
+      "ja": "{家族|かぞく}の{支|ささ}えで{病気|びょうき}を{乗|の}り{越|こ}えることができた。",
+      "vi": "Nhờ gia đình nâng đỡ tôi đã vượt qua được bệnh tật."
+     },
+     "note": "Bẫy: 乗り越す (đi quá ga) ≠ 乗り越える (vượt qua khó khăn)."
+    }
+   ]
+  },
+  {
+   "title": "見〜",
+   "title_vi": "nhìn",
+   "words": [
+    {
+     "id": "g34-w84",
+     "w": "見かける",
+     "r": "みかける",
+     "hv": "KIẾN",
+     "pos": "他動",
+     "vi": "bắt gặp, tình cờ thấy",
+     "key": true,
+     "ex": {
+      "ja": "{最近|さいきん}、{駅前|えきまえ}でよく{外国人|がいこくじん}{観光客|かんこうきゃく}を{見|み}かける。",
+      "vi": "Dạo này tôi hay bắt gặp khách du lịch nước ngoài trước ga."
+     }
+    },
+    {
+     "id": "g34-w85",
+     "w": "見習う",
+     "r": "みならう",
+     "hv": "KIẾN TẬP",
+     "pos": "他動",
+     "vi": "học theo, noi gương",
+     "key": true,
+     "ex": {
+      "ja": "{先輩|せんぱい}の{仕事|しごと}のやり{方|かた}を{見習|みなら}いたい。",
+      "vi": "Tôi muốn học theo cách làm việc của đàn anh."
+     },
+     "col": [
+      "見習い (người học việc)"
+     ]
+    },
+    {
+     "id": "g34-w86",
+     "w": "見送る",
+     "r": "みおくる",
+     "hv": "KIẾN TỐNG",
+     "pos": "他動",
+     "vi": "tiễn; gác lại, tạm hoãn",
+     "key": true,
+     "senses": [
+      {
+       "vi": "tiễn",
+       "ex": {
+        "ja": "{空港|くうこう}まで{留学|りゅうがく}する{娘|むすめ}を{見送|みおく}りに{行|い}った。",
+        "vi": "Tôi ra sân bay tiễn con gái đi du học."
+       }
+      },
+      {
+       "vi": "bỏ qua, tạm hoãn (kế hoạch)",
+       "ex": {
+        "ja": "{予算|よさん}が{足|た}りず、{計画|けいかく}は{見送|みおく}られた。",
+        "vi": "Vì thiếu ngân sách, kế hoạch đã bị gác lại."
+       }
+      }
+     ]
+    },
+    {
+     "id": "g34-w87",
+     "w": "見つめる",
+     "r": "みつめる",
+     "hv": "KIẾN",
+     "pos": "他動",
+     "vi": "nhìn chằm chằm, nhìn chăm chú",
+     "key": true,
+     "ex": {
+      "ja": "{彼女|かのじょ}は{窓|まど}の{外|そと}をじっと{見|み}つめていた。",
+      "vi": "Cô ấy cứ nhìn chăm chú ra ngoài cửa sổ."
+     }
+    },
+    {
+     "id": "g34-w88",
+     "w": "見慣れた",
+     "r": "みなれた",
+     "hv": "KIẾN QUÁN",
+     "pos": "連体",
+     "vi": "quen mắt, đã nhìn quen",
+     "key": true,
+     "ex": {
+      "ja": "{久|ひさ}しぶりに{帰|かえ}ると、{見慣|みな}れた{景色|けしき}がずいぶん{変|か}わっていた。",
+      "vi": "Lâu ngày mới về, cảnh vật quen thuộc đã thay đổi nhiều."
+     },
+     "note": "Gốc là 見慣れる (nhìn quen). Hay dùng 見慣れた＋N và 見慣れない＋N (lạ mắt)."
+    }
+   ]
+  },
+  {
+   "title": "引き〜",
+   "title_vi": "kéo / nhận về",
+   "words": [
+    {
+     "id": "g34-w89",
+     "w": "引き受ける",
+     "r": "ひきうける",
+     "hv": "DẪN THỤ",
+     "pos": "他動",
+     "vi": "nhận làm, đảm nhận",
+     "key": true,
+     "ex": {
+      "ja": "{忙|いそが}しかったが、{友人|ゆうじん}の{頼|たの}みなので{通訳|つうやく}を{引|ひ}き{受|う}けた。",
+      "vi": "Tuy bận nhưng vì bạn nhờ nên tôi nhận làm phiên dịch."
+     }
+    },
+    {
+     "id": "g34-w90",
+     "w": "引き返す",
+     "r": "ひきかえす",
+     "hv": "DẪN PHẢN",
+     "pos": "自動",
+     "vi": "quay trở lại (giữa đường)",
+     "key": true,
+     "ex": {
+      "ja": "{忘|わす}れ{物|もの}に{気|き}づいて、{途中|とちゅう}で{家|いえ}に{引|ひ}き{返|かえ}した。",
+      "vi": "Nhận ra để quên đồ, tôi quay về nhà giữa chừng."
+     }
+    },
+    {
+     "id": "g34-w91",
+     "w": "引き取る",
+     "r": "ひきとる",
+     "hv": "DẪN THỦ",
+     "pos": "他動",
+     "vi": "nhận về (đồ gửi, người); nhận nuôi",
+     "key": true,
+     "ex": {
+      "ja": "{修理|しゅうり}に{出|だ}したパソコンを{店|みせ}に{引|ひ}き{取|と}りに{行|い}った。",
+      "vi": "Tôi đến cửa hàng nhận lại chiếc máy tính đã gửi sửa."
+     },
+     "note": "Cũng dùng: 子どもを引き取って育てる (nhận nuôi)."
+    },
+    {
+     "id": "g34-w92",
+     "w": "引き止める",
+     "r": "ひきとめる",
+     "hv": "DẪN CHỈ",
+     "pos": "他動",
+     "vi": "níu giữ, giữ lại (người định đi)",
+     "key": true,
+     "ex": {
+      "ja": "{帰|かえ}ろうとする{客|きゃく}を{引|ひ}き{止|と}めて、お{茶|ちゃ}を{出|だ}した。",
+      "vi": "Tôi giữ người khách định về lại và mời trà."
+     }
+    },
+    {
+     "id": "g34-w93",
+     "w": "引き出す",
+     "r": "ひきだす",
+     "hv": "DẪN XUẤT",
+     "pos": "他動",
+     "vi": "rút (tiền); khơi dậy, phát huy",
+     "key": true,
+     "ex": {
+      "ja": "ATMで{生活費|せいかつひ}を{引|ひ}き{出|だ}した。",
+      "vi": "Tôi rút tiền sinh hoạt ở cây ATM."
+     },
+     "note": "Nghĩa 2: 才能を引き出す (khơi dậy tài năng)."
+    }
+   ]
+  },
+  {
+   "title": "引っ〜",
+   "title_vi": "dạng nhấn mạnh của 引き〜 (văn nói)",
+   "words": [
+    {
+     "id": "g34-w94",
+     "w": "引っかける",
+     "r": "ひっかける",
+     "hv": "DẪN",
+     "pos": "他動",
+     "vi": "móc vào, vướng vào; lừa",
+     "key": true,
+     "ex": {
+      "ja": "{足|あし}をコードに{引|ひ}っかけて{転|ころ}びそうになった。",
+      "vi": "Chân vướng vào dây điện, tôi suýt ngã."
+     }
+    },
+    {
+     "id": "g34-w95",
+     "w": "引っかかる",
+     "r": "ひっかかる",
+     "hv": "DẪN",
+     "pos": "自動",
+     "vi": "bị mắc, vướng; mắc lừa; thấy cấn, khúc mắc",
+     "key": true,
+     "ex": {
+      "ja": "{風|かぜ}で{飛|と}んだ{帽子|ぼうし}が{木|き}の{枝|えだ}に{引|ひ}っかかった。",
+      "vi": "Chiếc mũ bị gió thổi bay mắc trên cành cây."
+     },
+     "note": "Nghĩa bóng: 詐欺に引っかかる (mắc lừa); 彼の言葉が引っかかる (lời anh ta làm mình thấy cấn)."
+    },
+    {
+     "id": "g34-w96",
+     "w": "引っかく",
+     "r": "ひっかく",
+     "hv": "DẪN",
+     "pos": "他動",
+     "vi": "cào",
+     "key": true,
+     "ex": {
+      "ja": "{猫|ねこ}に{手|て}を{引|ひ}っかかれた。",
+      "vi": "Tôi bị mèo cào vào tay."
+     }
+    },
+    {
+     "id": "g34-w97",
+     "w": "引っ込む",
+     "r": "ひっこむ",
+     "hv": "DẪN",
+     "pos": "自動",
+     "vi": "rút vào trong, lui vào",
+     "key": true,
+     "ex": {
+      "ja": "{客|きゃく}が{来|く}ると、{店長|てんちょう}は{奥|おく}に{引|ひ}っ{込|こ}んでしまった。",
+      "vi": "Khách vừa đến, chủ tiệm đã lui vào trong."
+     },
+     "note": "引っ込み思案 = rụt rè, nhút nhát."
+    },
+    {
+     "id": "g34-w98",
+     "w": "引っ張る",
+     "r": "ひっぱる",
+     "hv": "DẪN TRƯƠNG",
+     "pos": "他動",
+     "vi": "kéo; dẫn dắt (tập thể)",
+     "key": true,
+     "ex": {
+      "ja": "キャプテンとしてチームを{引|ひ}っ{張|ぱ}っていきたい。",
+      "vi": "Với vai trò đội trưởng, tôi muốn dẫn dắt cả đội."
+     },
+     "note": "Nghĩa đen: 袖を引っ張る (kéo tay áo)."
+    }
+   ]
+  },
+  {
+   "title": "打ち〜",
+   "title_vi": "nhấn mạnh hành động",
+   "words": [
+    {
+     "id": "g34-w99",
+     "w": "打ち消す",
+     "r": "うちけす",
+     "hv": "ĐẢ TIÊU",
+     "pos": "他動",
+     "vi": "phủ nhận, bác bỏ",
+     "key": true,
+     "ex": {
+      "ja": "{社長|しゃちょう}は{辞任|じにん}のうわさを{強|つよ}く{打|う}ち{消|け}した。",
+      "vi": "Giám đốc kịch liệt bác bỏ tin đồn từ chức."
+     },
+     "rel": "≒ 否定する"
+    },
+    {
+     "id": "g34-w100",
+     "w": "打ち合わせる",
+     "r": "うちあわせる",
+     "hv": "ĐẢ HỢP",
+     "pos": "他動",
+     "vi": "bàn bạc trước, thống nhất trước",
+     "key": true,
+     "ex": {
+      "ja": "{会議|かいぎ}の{進|すす}め{方|かた}を{前|まえ}もって{打|う}ち{合|あ}わせておいた。",
+      "vi": "Chúng tôi đã thống nhất trước cách tiến hành cuộc họp."
+     },
+     "col": [
+      "打ち合わせ (buổi họp bàn)"
+     ],
+     "note": "話し合う = bàn bạc nói chung; 打ち合わせる = bàn trước để chuẩn bị cho việc sắp làm."
+    }
+   ]
+  },
+  {
+   "title": "すれ〜",
+   "title_vi": "lướt qua",
+   "words": [
+    {
+     "id": "g34-w101",
+     "w": "すれ違う",
+     "r": "すれちがう",
+     "hv": "VI",
+     "pos": "自動",
+     "vi": "đi lướt qua nhau; lệch nhau, không gặp nhau",
+     "key": true,
+     "ex": {
+      "ja": "{駅|えき}の{階段|かいだん}で{昔|むかし}の{恋人|こいびと}とすれ{違|ちが}った。",
+      "vi": "Tôi đi lướt qua người yêu cũ ở cầu thang nhà ga."
+     },
+     "note": "Nghĩa bóng: 二人の気持ちがすれ違う (tình cảm hai người lệch nhau). Kanji: 擦れ違う."
+    }
+   ]
+  },
+  {
+   "title": "〜遣い",
+   "title_vi": "cách dùng (lời, màu, tiền…)",
+   "words": [
+    {
+     "id": "g34-w102",
+     "w": "言葉遣い",
+     "r": "ことばづかい",
+     "hv": "NGÔN DIỆP KHIỂN",
+     "pos": "名",
+     "vi": "cách ăn nói, cách dùng từ",
+     "key": true,
+     "ex": {
+      "ja": "{目上|めうえ}の{人|ひと}と{話|はな}すときは{言葉遣|ことばづか}いに{気|き}をつけよう。",
+      "vi": "Khi nói chuyện với người trên hãy chú ý cách ăn nói."
+     }
+    },
+    {
+     "id": "g34-w103",
+     "w": "色遣い",
+     "r": "いろづかい",
+     "hv": "SẮC KHIỂN",
+     "pos": "名",
+     "vi": "cách dùng màu, phối màu",
+     "key": true,
+     "ex": {
+      "ja": "この{画家|がか}の{絵|え}は{色遣|いろづか}いがとても{明|あか}るい。",
+      "vi": "Tranh của họa sĩ này dùng màu rất tươi sáng."
+     }
+    },
+    {
+     "id": "g34-w104",
+     "w": "金遣い",
+     "r": "かねづかい",
+     "hv": "KIM KHIỂN",
+     "pos": "名",
+     "vi": "cách tiêu tiền",
+     "key": true,
+     "ex": {
+      "ja": "{金遣|かねづか}いが{荒|あら}くて、{給料|きゅうりょう}がすぐなくなる。",
+      "vi": "Tiêu tiền hoang phí nên lương hết ngay."
+     },
+     "col": [
+      "金遣いが荒い"
+     ],
+     "note": "Hay đi với 荒い: 金遣いが荒い = tiêu tiền hoang phí. Muốn nói \"chú ý cách tiêu tiền\" thì dùng お金の使い方に気をつける; sách coi 「金遣いに気をつける」 là không tự nhiên."
+    }
+   ]
+  },
+  {
+   "title": "〜沿い",
+   "title_vi": "dọc theo",
+   "words": [
+    {
+     "id": "g34-w105",
+     "w": "道沿い",
+     "r": "みちぞい",
+     "hv": "ĐẠO DUYÊN",
+     "pos": "名",
+     "vi": "dọc đường",
+     "key": true,
+     "ex": {
+      "ja": "{道沿|みちぞ}いにコンビニやレストランが{並|なら}んでいる。",
+      "vi": "Dọc đường có cửa hàng tiện lợi và nhà hàng nối nhau."
+     }
+    },
+    {
+     "id": "g34-w106",
+     "w": "川沿い",
+     "r": "かわぞい",
+     "hv": "XUYÊN DUYÊN",
+     "pos": "名",
+     "vi": "dọc bờ sông",
+     "key": true,
+     "ex": {
+      "ja": "{毎朝|まいあさ}{川沿|かわぞ}いの{道|みち}を{散歩|さんぽ}している。",
+      "vi": "Sáng nào tôi cũng đi dạo con đường dọc bờ sông."
+     }
+    },
+    {
+     "id": "g34-w107",
+     "w": "海岸沿い",
+     "r": "かいがんぞい",
+     "hv": "HẢI NGẠN DUYÊN",
+     "pos": "名",
+     "vi": "dọc bờ biển",
+     "key": true,
+     "ex": {
+      "ja": "{海岸沿|かいがんぞ}いにホテルが{建|た}ち{並|なら}んでいる。",
+      "vi": "Khách sạn mọc san sát dọc bờ biển."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜扱い",
+   "title_vi": "đối xử như…, coi như…",
+   "words": [
+    {
+     "id": "g34-w108",
+     "w": "子供扱い",
+     "r": "こどもあつかい",
+     "hv": "TỬ CUNG TRÁP",
+     "pos": "名・他動",
+     "vi": "đối xử như trẻ con",
+     "key": true,
+     "ex": {
+      "ja": "もう{大人|おとな}なのに、{兄|あに}はいつも{私|わたし}を{子供扱|こどもあつか}いする。",
+      "vi": "Tôi đã lớn rồi vậy mà anh trai lúc nào cũng coi tôi như trẻ con."
+     }
+    },
+    {
+     "id": "g34-w109",
+     "w": "犯人扱い",
+     "r": "はんにんあつかい",
+     "hv": "PHẠM NHÂN TRÁP",
+     "pos": "名・他動",
+     "vi": "coi như thủ phạm",
+     "key": true,
+     "ex": {
+      "ja": "{証拠|しょうこ}もないのに{犯人扱|はんにんあつか}いされて{腹|はら}が{立|た}った。",
+      "vi": "Không có chứng cứ mà bị coi như thủ phạm nên tôi tức lắm."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜明け",
+   "title_vi": "ngay sau khi (một khoảng thời gian) kết thúc",
+   "words": [
+    {
+     "id": "g34-w110",
+     "w": "週明け",
+     "r": "しゅうあけ",
+     "hv": "CHU MINH",
+     "pos": "名",
+     "vi": "đầu tuần sau (ngay sau cuối tuần)",
+     "key": true,
+     "ex": {
+      "ja": "{書類|しょるい}は{週明|しゅうあ}けに{提出|ていしゅつ}します。",
+      "vi": "Hồ sơ tôi sẽ nộp vào đầu tuần sau."
+     }
+    },
+    {
+     "id": "g34-w111",
+     "w": "夜明け",
+     "r": "よあけ",
+     "hv": "DẠ MINH",
+     "pos": "名",
+     "vi": "rạng sáng, bình minh",
+     "key": true,
+     "ex": {
+      "ja": "{夜明|よあ}け{前|まえ}に{山|やま}に{登|のぼ}り{始|はじ}めた。",
+      "vi": "Chúng tôi bắt đầu leo núi trước lúc rạng sáng."
+     }
+    },
+    {
+     "id": "g34-w112",
+     "w": "休み明け",
+     "r": "やすみあけ",
+     "hv": "HƯU MINH",
+     "pos": "名",
+     "vi": "ngay sau kỳ nghỉ",
+     "key": true,
+     "ex": {
+      "ja": "{休|やす}み{明|あ}けは{仕事|しごと}がたまっていて{大変|たいへん}だ。",
+      "vi": "Sau kỳ nghỉ, việc dồn lại nên vất vả lắm."
+     },
+     "col": [
+      "夏休み明け",
+      "連休明け"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "〜済み",
+   "title_vi": "đã (làm) xong",
+   "words": [
+    {
+     "id": "g34-w113",
+     "w": "使用済み",
+     "r": "しようずみ",
+     "hv": "SỬ DỤNG TẾ",
+     "pos": "名",
+     "vi": "đã qua sử dụng",
+     "key": true,
+     "ex": {
+      "ja": "{使用済|しようず}みの{切手|きって}を{集|あつ}めている。",
+      "vi": "Tôi sưu tầm tem đã qua sử dụng."
+     }
+    },
+    {
+     "id": "g34-w114",
+     "w": "登録済み",
+     "r": "とうろくずみ",
+     "hv": "ĐĂNG LỤC TẾ",
+     "pos": "名",
+     "vi": "đã đăng ký",
+     "key": true,
+     "ex": {
+      "ja": "{登録済|とうろくず}みの{方|かた}は、こちらからログインしてください。",
+      "vi": "Quý khách đã đăng ký xin đăng nhập tại đây."
+     }
+    },
+    {
+     "id": "g34-w115",
+     "w": "解決済み",
+     "r": "かいけつずみ",
+     "hv": "GIẢI QUYẾT TẾ",
+     "pos": "名",
+     "vi": "đã giải quyết",
+     "key": true,
+     "ex": {
+      "ja": "その{問題|もんだい}はすでに{解決済|かいけつず}みです。",
+      "vi": "Vấn đề đó đã được giải quyết rồi."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜連れ",
+   "title_vi": "đi cùng, dẫn theo",
+   "words": [
+    {
+     "id": "g34-w116",
+     "w": "家族連れ",
+     "r": "かぞくづれ",
+     "hv": "GIA TỘC LIÊN",
+     "pos": "名",
+     "vi": "(người) đi cùng cả gia đình",
+     "key": true,
+     "ex": {
+      "ja": "{日曜日|にちようび}の{動物園|どうぶつえん}は{家族連|かぞくづ}れでにぎわっていた。",
+      "vi": "Sở thú ngày chủ nhật đông nghịt các gia đình."
+     }
+    },
+    {
+     "id": "g34-w117",
+     "w": "子供連れ",
+     "r": "こどもづれ",
+     "hv": "TỬ CUNG LIÊN",
+     "pos": "名",
+     "vi": "dẫn theo con nhỏ",
+     "key": true,
+     "ex": {
+      "ja": "{子供連|こどもづ}れでも{入|はい}りやすいレストランを{探|さが}している。",
+      "vi": "Tôi đang tìm nhà hàng dễ vào kể cả khi dẫn theo con nhỏ."
+     }
+    },
+    {
+     "id": "g34-w118",
+     "w": "三人連れ",
+     "r": "さんにんづれ",
+     "hv": "TAM NHÂN LIÊN",
+     "pos": "名",
+     "vi": "nhóm ba người đi cùng nhau",
+     "key": true,
+     "ex": {
+      "ja": "{三人連|さんにんづ}れの{客|きゃく}が{店|みせ}に{入|はい}ってきた。",
+      "vi": "Một nhóm ba vị khách bước vào tiệm."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜違い",
+   "title_vi": "khác (色違い) / nhầm (人違い, 計算違い)",
+   "words": [
+    {
+     "id": "g34-w119",
+     "w": "色違い",
+     "r": "いろちがい",
+     "hv": "SẮC VI",
+     "pos": "名",
+     "vi": "khác màu (cùng kiểu dáng)",
+     "key": true,
+     "ex": {
+      "ja": "{姉|あね}と{色違|いろちが}いのセーターを{買|か}った。",
+      "vi": "Tôi mua chiếc áo len cùng kiểu khác màu với chị gái."
+     }
+    },
+    {
+     "id": "g34-w120",
+     "w": "人違い",
+     "r": "ひとちがい",
+     "hv": "NHÂN VI",
+     "pos": "名",
+     "vi": "nhận nhầm người",
+     "key": true,
+     "ex": {
+      "ja": "{声|こえ}をかけたら{人違|ひとちが}いで、{恥|は}ずかしかった。",
+      "vi": "Tôi gọi người ta thì hóa ra nhận nhầm người, ngượng quá."
+     }
+    },
+    {
+     "id": "g34-w121",
+     "w": "計算違い",
+     "r": "けいさんちがい",
+     "hv": "KẾ TOÁN VI",
+     "pos": "名",
+     "vi": "tính nhầm; tính toán sai (dự tính)",
+     "key": true,
+     "ex": {
+      "ja": "{計算違|けいさんちが}いで、お{金|かね}が{足|た}りなくなった。",
+      "vi": "Vì tính nhầm nên bị thiếu tiền."
+     },
+     "rel": "≒ 計算ミス・計算間違い"
+    }
+   ]
+  },
+  {
+   "title": "〜たて",
+   "title_vi": "vừa mới … xong (Vます + たて)",
+   "words": [
+    {
+     "id": "g34-w122",
+     "w": "焼きたて",
+     "r": "やきたて",
+     "hv": "THIÊU",
+     "pos": "名",
+     "vi": "vừa mới nướng xong",
+     "key": true,
+     "ex": {
+      "ja": "{焼|や}きたてのパンはやっぱりおいしい。",
+      "vi": "Bánh mì vừa nướng xong quả là ngon."
+     }
+    },
+    {
+     "id": "g34-w123",
+     "w": "出来たて",
+     "r": "できたて",
+     "hv": "XUẤT LAI",
+     "pos": "名",
+     "vi": "vừa mới làm xong (nóng hổi)",
+     "key": true,
+     "ex": {
+      "ja": "{出来|でき}たての{料理|りょうり}を{冷|さ}めないうちに{食|た}べてください。",
+      "vi": "Hãy ăn món vừa nấu xong khi còn nóng."
+     }
+    },
+    {
+     "id": "g34-w124",
+     "w": "とれたて",
+     "r": "とれたて",
+     "hv": "",
+     "pos": "名",
+     "vi": "vừa mới thu hoạch / đánh bắt",
+     "key": true,
+     "ex": {
+      "ja": "とれたての{魚|さかな}を{刺身|さしみ}にした。",
+      "vi": "Tôi làm sashimi từ cá vừa đánh bắt."
+     },
+     "note": "Chỉ ghép với một số động từ: 焼きたて, 出来たて, 生まれたて, 炊きたて, ペンキ塗りたて."
+    }
+   ]
+  },
+  {
+   "title": "〜おき",
+   "title_vi": "cách (mỗi) …, cứ cách …",
+   "words": [
+    {
+     "id": "g34-w125",
+     "w": "二メートルおき",
+     "r": "にメートルおき",
+     "hv": "NHỊ",
+     "pos": "名",
+     "vi": "cứ cách 2 mét",
+     "key": true,
+     "ex": {
+      "ja": "{道|みち}の{両側|りょうがわ}に{二|に}メートルおきに{花|はな}が{植|う}えてある。",
+      "vi": "Hai bên đường cứ cách 2 mét lại trồng hoa."
+     }
+    },
+    {
+     "id": "g34-w126",
+     "w": "一日おき",
+     "r": "いちにちおき",
+     "hv": "NHẤT NHẬT",
+     "pos": "名",
+     "vi": "cách một ngày (ngày có ngày không)",
+     "key": true,
+     "ex": {
+      "ja": "この{薬|くすり}は{一日|いちにち}おきに{飲|の}んでください。",
+      "vi": "Thuốc này hãy uống cách ngày."
+     },
+     "note": "一日おき = ngày có ngày không (thứ 2, 4, 6…). 毎日 = ngày nào cũng."
+    },
+    {
+     "id": "g34-w127",
+     "w": "一つおき",
+     "r": "ひとつおき",
+     "hv": "NHẤT",
+     "pos": "名",
+     "vi": "cách một (cái)",
+     "key": true,
+     "ex": {
+      "ja": "{席|せき}を{一|ひと}つおきに{空|あ}けて{座|すわ}ってください。",
+      "vi": "Xin ngồi cách một ghế."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜ぶり",
+   "title_vi": "cách, dáng vẻ làm việc gì",
+   "words": [
+    {
+     "id": "g34-w128",
+     "w": "仕事ぶり",
+     "r": "しごとぶり",
+     "hv": "SĨ SỰ",
+     "pos": "名",
+     "vi": "cách làm việc, tác phong làm việc",
+     "key": true,
+     "ex": {
+      "ja": "{新|あたら}しく{入|はい}った{田中|たなか}さんの{仕事|しごと}ぶりは{評判|ひょうばん}がいい。",
+      "vi": "Anh Tanaka mới vào được khen về tác phong làm việc."
+     }
+    },
+    {
+     "id": "g34-w129",
+     "w": "話しぶり",
+     "r": "はなしぶり",
+     "hv": "THOẠI",
+     "pos": "名",
+     "vi": "cách nói chuyện, giọng điệu",
+     "key": true,
+     "ex": {
+      "ja": "その{話|はな}しぶりから、{彼|かれ}が{怒|おこ}っていることがわかった。",
+      "vi": "Qua giọng điệu đó, tôi biết anh ấy đang giận."
+     }
+    },
+    {
+     "id": "g34-w130",
+     "w": "暮らしぶり",
+     "r": "くらしぶり",
+     "hv": "MỘ",
+     "pos": "名",
+     "vi": "cách sống, đời sống",
+     "key": true,
+     "ex": {
+      "ja": "この{博物館|はくぶつかん}では{昔|むかし}の{人々|ひとびと}の{暮|く}らしぶりがわかる。",
+      "vi": "Ở bảo tàng này có thể biết được đời sống của người xưa."
+     },
+     "note": "Khác 〜ぶり chỉ thời gian: 三年ぶり (sau 3 năm mới…)."
+    }
+   ]
+  },
+  {
+   "title": "〜つき",
+   "title_vi": "dáng vẻ, vẻ bề ngoài của (mắt, mặt, người)",
+   "words": [
+    {
+     "id": "g34-w131",
+     "w": "目つき",
+     "r": "めつき",
+     "hv": "MỤC",
+     "pos": "名",
+     "vi": "ánh mắt, cái nhìn",
+     "key": true,
+     "ex": {
+      "ja": "{男|おとこ}は{鋭|するど}い{目|め}つきでこちらをにらんだ。",
+      "vi": "Người đàn ông lườm về phía này bằng ánh mắt sắc lẹm."
+     }
+    },
+    {
+     "id": "g34-w132",
+     "w": "顔つき",
+     "r": "かおつき",
+     "hv": "NHAN",
+     "pos": "名",
+     "vi": "nét mặt, vẻ mặt",
+     "key": true,
+     "ex": {
+      "ja": "{試合|しあい}{前|まえ}の{選手|せんしゅ}たちは{真剣|しんけん}な{顔|かお}つきをしていた。",
+      "vi": "Các cầu thủ trước trận đấu mang vẻ mặt nghiêm túc."
+     }
+    },
+    {
+     "id": "g34-w133",
+     "w": "体つき",
+     "r": "からだつき",
+     "hv": "THỂ",
+     "pos": "名",
+     "vi": "vóc dáng, thể hình",
+     "key": true,
+     "ex": {
+      "ja": "{兄|あに}は{水泳|すいえい}をしているので、がっしりした{体|からだ}つきだ。",
+      "vi": "Anh tôi bơi lội nên có vóc dáng vạm vỡ."
+     },
+     "note": "〜つき hay đi với tính từ mô tả: 鋭い目つき, 不安そうな顔つき, やせた体つき."
+    }
+   ]
+  }
+ ],
+ "focus": [
+  {
+   "title": "Động từ ghép V1ます + V2: thuộc nghĩa của V2 là đoán được cả loạt",
+   "body": "- **〜かける**: hướng hành động về phía người khác — 話しかける, 笑いかける, 問いかける. (Nghĩa khác ở N3: làm dở dang — 読みかけの本.)\n- **〜合う**: hai bên làm qua lại — 話し合う, 助け合う, 見つめ合う. Chủ ngữ phải là **từ hai người trở lên** (AとBが / 二人は).\n- **〜直す**: làm lại để sửa, cho tốt hơn — 考え直す, 書き直す, 読み直す, 温め直す.\n- **〜上がる** (自) / **〜上げる** (他): làm xong, thành phẩm — 出来上がる, 焼き上がる, 書き上げる.\n- **〜出す**: (1) ra ngoài — 持ち出す, 飛び出す; (2) bắt đầu đột ngột — 泣き出す, 降り出す.\n- **〜回る**: khắp nơi — 歩き回る, 捜し回る, 走り回る.\n- **〜込む**: (1) vào trong — 持ち込む, 乗り込む; (2) sâu, hoàn toàn, mải mê — 思い込む, 話し込む, 落ち込む.\n\n✗ もう{一度|いちど}{作文|さくぶん}を{書|か}き{出|だ}した。 → ○ {書|か}き{直|なお}した (viết lại)\n✗ {彼|かれ}は{一人|ひとり}で{話|はな}し{合|あ}った。 → ○ {二人|ふたり}は{話|はな}し{合|あ}った (〜合う cần hai bên)"
+  },
+  {
+   "title": "〜込む: 'vào trong' hay 'sâu, mải mê'?",
+   "body": "Hỏi: có **không gian bên trong** (xe, phòng, túi, nước…) không?\n- Có → nghĩa (1) **vào trong**: バスに乗り込む, 会場に持ち込む, かばんに詰め込む, 店に駆け込む, 味が染み込む. Thường đi với **に** chỉ đích.\n- Không → nghĩa (2) **trạng thái sâu, kéo dài, không thoát ra được**: 思い込む (đinh ninh), 信じ込む (tin sái cổ), 黙り込む (im bặt), 落ち込む (suy sụp), 眠り込む (ngủ say), 話し込む (mải nói chuyện).\n\nCặp dễ nhầm:\n- 話し合う (bàn để đi tới kết luận) ↔ 話し込む (mải tán chuyện quên giờ). ✗ {会議|かいぎ}で{予算|よさん}について{話|はな}し{込|こ}んだ → ○ {話|はな}し{合|あ}った.\n- 思い込む (tin chắc điều sai) ↔ 思い出す (nhớ ra) ↔ 思いつく (chợt nảy ra ý). ✗ いいアイデアを{思|おも}い{込|こ}んだ → ○ {思|おも}いついた.\n- 持ち込む (mang **vào**) ↔ 持ち出す (mang **ra**). {機内|きない}に{持|も}ち{込|こ}む ／ {会社|かいしゃ}から{持|も}ち{出|だ}す."
+  },
+  {
+   "title": "〜出す (bắt đầu) khác 〜始める thế nào?",
+   "body": "Cả hai đều là 'bắt đầu', nhưng:\n- **〜出す**: bắt đầu **đột ngột, ngoài ý muốn** — hay đi với 急に, 突然, いきなり. Không dùng cho việc mình **lên kế hoạch** bắt đầu.\n- **〜始める**: bắt đầu nói chung, dùng được cả với ý chí, kế hoạch.\n\n○ {急|きゅう}に{雨|あめ}が{降|ふ}り{出|だ}した。 ○ {赤|あか}ちゃんが{突然|とつぜん}{泣|な}き{出|だ}した。\n✗ {来月|らいげつ}から{日記|にっき}を{書|か}き{出|だ}すつもりだ。 → ○ {書|か}き{始|はじ}める\n✗ {皆|みな}さん、{食|た}べ{出|だ}してください。 → ○ {食|た}べ{始|はじ}めてください\n\nRiêng **言い出す** mang nghĩa 'là người mở lời, đề xuất trước': {留学|りゅうがく}したいと{言|い}い{出|だ}した."
+  },
+  {
+   "title": "Các cặp V1〜 hay bị đánh tráo trong đề",
+   "body": "- **乗り越す** (đi quá ga) ↔ **乗り越える** (vượt qua khó khăn). {駅|えき}を{乗|の}り{越|こ}す ／ {困難|こんなん}を{乗|の}り{越|こ}える.\n- **追い越す** (〜**を**: vượt lên trước) ↔ **追い付く** (〜**に**: đuổi kịp, ngang bằng) ↔ **追いかける** (〜を: đuổi theo).\n- **振り返る** (quay lại; nhìn lại quá khứ) ↔ **振り向く** (chỉ quay đầu). ✗ {学生時代|がくせいじだい}を{振|ふ}り{向|む}く → ○ {振|ふ}り{返|かえ}る.\n- **通りかかる** (tình cờ đi ngang, thường rồi dừng/ gặp chuyện) ↔ **通り過ぎる** (đi quá, không dừng).\n- **見回る** (đi tuần một vòng) ↔ 見回す (đứng nhìn quanh).\n- **受け取る** (nhận đồ người khác đưa) ↔ **引き取る** (đến nhận về đồ của mình, nhận nuôi) ↔ **受け入れる** (chấp nhận, tiếp nhận người / ý kiến).\n- **取り消す** (hủy: 予約, 発言) ↔ **打ち消す** (phủ nhận: うわさ, 疑い).\n- **話し合う** (bàn bạc nói chung) ↔ **打ち合わせる** (bàn trước để chuẩn bị công việc).\n\nMẹo: nhìn **tân ngữ và trợ từ** trong câu — đó là chìa khóa để loại phương án."
+  },
+  {
+   "title": "Danh từ ghép với hậu tố: 〜明け・〜済み・〜たて・〜おき・〜ぶり・〜つき…",
+   "body": "- **〜明け** = ngay sau khi một khoảng thời gian kết thúc: 週明け, 休み明け, 夜明け (đêm kết thúc).\n- **〜済み (ずみ)** = đã làm xong: 使用済み, 登録済み, 解決済み, 支払い済み.\n- **〜たて** = vừa mới làm xong, còn mới: 焼きたて, 出来たて, とれたて. Khác 〜かけ (làm dở): 食べかけ.\n- **〜おき** = cách quãng: 一日おき (ngày có ngày không), 2メートルおき. Khác 〜ごと: 一日ごと (mỗi ngày một lần).\n- **〜ぶり** = cách thức, dáng vẻ: 仕事ぶり, 話しぶり, 暮らしぶり. Khác 〜ぶり thời gian: 五年ぶり (sau 5 năm).\n- **〜つき** = vẻ bề ngoài: 目つき, 顔つき, 体つき (đi với 鋭い, 真剣な, がっしりした…).\n- **〜連れ (づれ)** = dẫn theo: 家族連れ, 子供連れ. **〜沿い (ぞい)** = dọc theo: 川沿い, 道沿い.\n- **〜扱い** = đối xử như: 子供扱い, 犯人扱い (thường mang ý bất mãn). **〜遣い (づかい)** = cách dùng: 言葉遣い, 金遣い.\n- **〜違い**: 色違い (khác màu cùng kiểu) nhưng 人違い, 計算違い (nhầm).\n\n✗ {一日|いちにち}おきに{三回|さんかい}{薬|くすり}を{飲|の}む (muốn nói mỗi ngày 3 lần) → ○ {一日|いちにち}に{三回|さんかい}\n✗ {焼|や}きかけのパンを{買|か}った (muốn nói vừa nướng) → ○ {焼|や}きたて"
+  }
+ ],
+ "quiz": [
+  {
+   "id": "g34-q1",
+   "kind": "formation",
+   "ref": "g34-w12",
+   "q": "{一度|いちど}{決|き}めたことだが、もう{一度|いちど}{考|かんが}え（　　）みることにした。",
+   "options": [
+    "直して",
+    "出して",
+    "込んで",
+    "回って"
+   ],
+   "answer": 0,
+   "vi": "Dù là việc đã quyết, tôi quyết định thử suy nghĩ lại một lần nữa.",
+   "why": "「もう一度」 + làm lại → **考え直す**. 考え出す = nghĩ ra (ý tưởng mới), không hợp với 'việc đã quyết'; 考え込む = trầm ngâm suy nghĩ mãi, không đi với 〜てみる 'thử'; 考え回る không phải từ."
+  },
+  {
+   "id": "g34-q2",
+   "kind": "formation",
+   "ref": "g34-w58",
+   "q": "{喫茶店|きっさてん}で{友人|ゆうじん}とつい{話|はな}し（　　）しまい、{気|き}がついたら{三時間|さんじかん}もたっていた。",
+   "options": [
+    "合って",
+    "込んで",
+    "かけて",
+    "上がって"
+   ],
+   "answer": 1,
+   "vi": "Ở quán cà phê, tôi lỡ mải nói chuyện với bạn, đến khi nhận ra thì đã ba tiếng trôi qua.",
+   "why": "「つい」「気がついたら三時間」 = mải mê quên giờ → **話し込む**. 話し合う = bàn bạc để đi đến kết luận, không phải chuyện 'lỡ' (〜てしまう) quên giờ; 話しかける = bắt chuyện (một lần, một chiều); 話し上がる không tồn tại."
+  },
+  {
+   "id": "g34-q3",
+   "kind": "formation",
+   "ref": "g34-w33",
+   "q": "{注射|ちゅうしゃ}の{針|はり}を{見|み}たとたん、{弟|おとうと}は{大声|おおごえ}で{泣|な}き（　　）。",
+   "options": [
+    "回った",
+    "直した",
+    "込んだ",
+    "出した"
+   ],
+   "answer": 3,
+   "vi": "Vừa nhìn thấy kim tiêm, em trai tôi bật khóc to.",
+   "why": "「〜たとたん」 = đột ngột bắt đầu → **泣き出す**. 泣き回る không dùng; 泣き直す (khóc lại) vô nghĩa; 泣き込む không phải từ thông dụng."
+  },
+  {
+   "id": "g34-q4",
+   "kind": "formation",
+   "ref": "g34-w83",
+   "q": "チーム{全員|ぜんいん}で{力|ちから}を{合|あ}わせて、{困難|こんなん}を{乗|の}り（　　）。",
+   "options": [
+    "越した",
+    "遅れた",
+    "越えた",
+    "込んだ"
+   ],
+   "answer": 2,
+   "vi": "Cả đội đồng lòng hợp sức vượt qua khó khăn.",
+   "why": "困難を〜 → **乗り越える** (vượt qua khó khăn). 乗り越す = đi quá ga, không dùng với 困難; 乗り遅れる = lỡ xe, tân ngữ phải là phương tiện (〜に); 乗り込む = lên xe / tiến vào nơi nào."
+  },
+  {
+   "id": "g34-q5",
+   "kind": "formation",
+   "ref": "g34-w61",
+   "q": "{急|きゅう}な{出張|しゅっちょう}が{入|はい}ったので、レストランの{予約|よやく}を（　　）{消|け}した。",
+   "options": [
+    "打ち",
+    "取り",
+    "差し",
+    "引き"
+   ],
+   "answer": 1,
+   "vi": "Vì có chuyến công tác đột xuất nên tôi đã hủy đặt bàn nhà hàng.",
+   "why": "予約を〜 → **取り消す** (hủy). 打ち消す = phủ nhận (うわさ, 疑い), không dùng với đặt chỗ; 差し消す・引き消す không phải từ."
+  },
+  {
+   "id": "g34-q6",
+   "kind": "formation",
+   "ref": "g34-w108",
+   "q": "もう{二十歳|はたち}なのに、{親|おや}はいつまでも{私|わたし}を{子供|こども}（　　）する。",
+   "options": [
+    "連れ",
+    "済み",
+    "ぶり",
+    "扱い"
+   ],
+   "answer": 3,
+   "vi": "Tôi đã 20 tuổi rồi vậy mà bố mẹ cứ mãi coi tôi như trẻ con.",
+   "why": "私を〜する = đối xử với tôi như… → **子供扱い**. 子供連れ = dẫn theo con (không đi với 私を〜する); 子供済み・子供ぶり không phải từ."
+  },
+  {
+   "id": "g34-q7",
+   "kind": "formation",
+   "ref": "g34-w122",
+   "q": "この{店|みせ}では{毎朝|まいあさ}、{焼|や}き（　　）のパンが{買|か}える。",
+   "options": [
+    "たて",
+    "ぶり",
+    "おき",
+    "つき"
+   ],
+   "answer": 0,
+   "vi": "Ở tiệm này sáng nào cũng mua được bánh mì vừa nướng xong.",
+   "why": "Vます + **たて** = vừa mới làm xong → 焼きたてのパン. 焼きぶり (cách nướng) không đi với 'mua được'; 焼きおき, 焼きつき không phải nghĩa này."
+  },
+  {
+   "id": "g34-q8",
+   "kind": "context",
+   "ref": "g34-w54",
+   "q": "{彼|かれ}は{自分|じぶん}が{一番|いちばん}{正|ただ}しいと（　　）いて、{人|ひと}の{意見|いけん}を{聞|き}こうとしない。",
+   "options": [
+    "{思|おも}い{出|だ}して",
+    "{思|おも}いついて",
+    "{思|おも}い{込|こ}んで",
+    "{思|おも}い{切|き}って"
+   ],
+   "answer": 2,
+   "vi": "Anh ta đinh ninh mình đúng nhất nên chẳng chịu nghe ý kiến người khác.",
+   "why": "〜と思い込む = đinh ninh (một cách cố chấp) → hợp với 'không chịu nghe ai'. 思い出す = nhớ ra chuyện cũ; 思いつく = chợt nảy ra ý; 思い切る = quyết tâm, dứt khoát — đều không đi với 「自分が正しいと〜ている」."
+  },
+  {
+   "id": "g34-q9",
+   "kind": "paraphrase",
+   "ref": "g34-w89",
+   "q": "{部長|ぶちょう}に{頼|たの}まれて、{新人|しんじん}の{教育|きょういく}を[[u:{引|ひ}き{受|う}けた]]。",
+   "options": [
+    "{断|ことわ}った",
+    "{担当|たんとう}することにした",
+    "{見直|みなお}した",
+    "{手伝|てつだ}ってもらった"
+   ],
+   "answer": 1,
+   "vi": "Được trưởng phòng nhờ, tôi đã nhận phụ trách việc đào tạo nhân viên mới.",
+   "why": "引き受ける = nhận làm, đảm nhận ≒ **担当することにした**. 断った là nghĩa ngược lại; 見直した = xem lại; 手伝ってもらった = được người khác giúp — sai chủ thể."
+  },
+  {
+   "id": "g34-q10",
+   "kind": "formation",
+   "ref": "g34-w110",
+   "q": "{今週|こんしゅう}は{忙|いそが}しいので、{打|う}ち{合|あ}わせは{週|しゅう}（　　）にしましょう。",
+   "options": [
+    "済み",
+    "沿い",
+    "違い",
+    "明け"
+   ],
+   "answer": 3,
+   "vi": "Tuần này bận nên buổi họp bàn hãy để đầu tuần sau.",
+   "why": "**週明け** = đầu tuần sau (ngay sau cuối tuần). 週済み, 週沿い, 週違い đều không phải từ."
+  }
+ ],
+ "practice": [
+  {
+   "id": "g34-p1",
+   "kind": "formation",
+   "ref": "g34-w9",
+   "q": "{地震|じしん}のあと、{住民|じゅうみん}たちは{互|たが}いに{助|たす}け（　　）{町|まち}を{立|た}て{直|なお}した。",
+   "options": [
+    "込んで",
+    "合って",
+    "出して",
+    "回って"
+   ],
+   "answer": 1,
+   "vi": "Sau trận động đất, người dân giúp đỡ lẫn nhau để vực dậy thị trấn.",
+   "why": "「互いに」 = lẫn nhau → **〜合う**: 助け合う. 助け込む không có; 助け出す = cứu ra (khỏi nơi nguy hiểm) không đi với 互いに; 助け回る không dùng."
+  },
+  {
+   "id": "g34-p2",
+   "kind": "formation",
+   "ref": "g34-w42",
+   "q": "{財布|さいふ}をなくして、{駅|えき}の{周|まわ}りを{一時間|いちじかん}も{捜|さが}し（　　）。",
+   "options": [
+    "回った",
+    "込んだ",
+    "上がった",
+    "合った"
+   ],
+   "answer": 0,
+   "vi": "Mất ví, tôi lùng tìm khắp quanh nhà ga cả tiếng đồng hồ.",
+   "why": "「駅の周りを」「一時間も」 = tìm khắp nơi → **捜し回る**. 捜し込む・捜し上がる không phải từ; 捜し合う (tìm nhau) cần hai bên tìm nhau, không hợp với 'mất ví'."
+  },
+  {
+   "id": "g34-p3",
+   "kind": "formation",
+   "ref": "g34-w20",
+   "q": "{注文|ちゅうもん}していた{名刺|めいし}が{出来|でき}（　　）ので、{取|と}りに{来|き}てくださいと{連絡|れんらく}があった。",
+   "options": [
+    "直した",
+    "込んだ",
+    "出した",
+    "上がった"
+   ],
+   "answer": 3,
+   "vi": "Tôi được báo là danh thiếp đã đặt làm xong rồi, mời đến lấy.",
+   "why": "名刺が〜 (tự động từ, làm xong) → **出来上がる**. 出来直す, 出来込む, 出来出す đều không tồn tại."
+  },
+  {
+   "id": "g34-p4",
+   "kind": "formation",
+   "ref": "g34-w49",
+   "q": "{試験|しけん}{会場|かいじょう}に{辞書|じしょ}を{持|も}ち（　　）ことは{禁止|きんし}されている。",
+   "options": [
+    "出す",
+    "合う",
+    "込む",
+    "回る"
+   ],
+   "answer": 2,
+   "vi": "Việc mang từ điển vào phòng thi bị cấm.",
+   "why": "会場**に** (đích, vào trong) → **持ち込む**. 持ち出す = mang **ra** (〜から); 持ち合う (cùng góp) và 持ち回る (mang đi khắp nơi) không hợp nghĩa."
+  },
+  {
+   "id": "g34-p5",
+   "kind": "formation",
+   "ref": "g34-w75",
+   "q": "{卒業式|そつぎょうしき}で、{三年間|さんねんかん}の{学校|がっこう}{生活|せいかつ}を（　　）{返|かえ}った。",
+   "options": [
+    "振り",
+    "引き",
+    "取り",
+    "見"
+   ],
+   "answer": 0,
+   "vi": "Ở lễ tốt nghiệp, tôi nhìn lại ba năm đời học sinh.",
+   "why": "Nhìn lại quá khứ → **振り返る**. 引き返す (quay lại giữa đường) và 取り返す (lấy lại) chia ở dạng 〜返した, không phải 返った, và nghĩa không hợp; 見返る hầu như không dùng (見返す = trả đũa / xem lại)."
+  },
+  {
+   "id": "g34-p6",
+   "kind": "formation",
+   "ref": "g34-w73",
+   "q": "{先|さき}に{出発|しゅっぱつ}した{兄|あに}に、{途中|とちゅう}でやっと{追|お}い（　　）。",
+   "options": [
+    "越した",
+    "出した",
+    "付いた",
+    "かけた"
+   ],
+   "answer": 2,
+   "vi": "Giữa đường tôi mới đuổi kịp anh trai đã xuất phát trước.",
+   "why": "Trợ từ **に** + 'cuối cùng cũng…' → **追い付く** (đuổi kịp). 追い越す, 追い出す, 追いかける đều là tha động từ đi với **を** (兄を追い越した…), nên không hợp với 兄に."
+  },
+  {
+   "id": "g34-p7",
+   "kind": "paraphrase",
+   "ref": "g34-w86",
+   "q": "{景気|けいき}が{悪|わる}いので、{今年|ことし}は{社員|しゃいん}{旅行|りょこう}を[[u:{見送|みおく}る]]ことになった。",
+   "options": [
+    "{実施|じっし}する",
+    "{楽|たの}しむ",
+    "{計画|けいかく}する",
+    "{見合|みあ}わせる"
+   ],
+   "answer": 3,
+   "vi": "Vì kinh tế khó khăn nên năm nay chuyến du lịch công ty sẽ tạm hoãn.",
+   "why": "Ở đây 見送る = gác lại, tạm không làm ≒ **見合わせる**. 実施する là nghĩa ngược lại; 楽しむ, 計画する không hợp với lý do 'kinh tế khó khăn'."
+  },
+  {
+   "id": "g34-p8",
+   "kind": "formation",
+   "ref": "g34-w100",
+   "q": "{来週|らいしゅう}のイベントについて、{担当者|たんとうしゃ}と（　　）{合|あ}わせをした。",
+   "options": [
+    "打ち",
+    "組み",
+    "取り",
+    "見"
+   ],
+   "answer": 0,
+   "vi": "Tôi đã họp bàn với người phụ trách về sự kiện tuần sau.",
+   "why": "Bàn trước công việc → **打ち合わせ**. 組み合わせ = sự kết hợp, không 'làm' với ai; 取り合わせ = sự phối hợp (món ăn, màu); 見合わせ = sự hoãn lại / nhìn nhau — không hợp 'với người phụ trách'."
+  },
+  {
+   "id": "g34-p9",
+   "kind": "formation",
+   "ref": "g34-w104",
+   "q": "{彼|かれ}は{金|かね}（　　）が{荒|あら}く、{給料日|きゅうりょうび}の{前|まえ}にはいつもお{金|かね}がない。",
+   "options": [
+    "扱い",
+    "遣い",
+    "違い",
+    "つき"
+   ],
+   "answer": 1,
+   "vi": "Anh ta tiêu tiền hoang phí, trước ngày lương lúc nào cũng hết tiền.",
+   "why": "**金遣いが荒い** = tiêu tiền hoang phí (cụm cố định). 金扱い, 金違い, 金つき không phải từ."
+  },
+  {
+   "id": "g34-p10",
+   "kind": "formation",
+   "ref": "g34-w126",
+   "q": "{庭|にわ}の{花|はな}には{一日|いちにち}（　　）に{水|みず}をやれば{十分|じゅうぶん}だ。",
+   "options": [
+    "ぶり",
+    "明け",
+    "おき",
+    "済み"
+   ],
+   "answer": 2,
+   "vi": "Hoa trong vườn chỉ cần tưới cách ngày là đủ.",
+   "why": "Tần suất 'cách một ngày' → **一日おき**. 一日ぶり = sau một ngày mới… (một lần), không diễn tả tần suất 'là đủ'; 一日明け, 一日済み không dùng."
+  },
+  {
+   "id": "g34-p11",
+   "kind": "formation",
+   "ref": "g34-w132",
+   "q": "{結果|けっか}を{待|ま}つ{彼女|かのじょ}は、{不安|ふあん}そうな{顔|かお}（　　）をしていた。",
+   "options": [
+    "ぶり",
+    "遣い",
+    "連れ",
+    "つき"
+   ],
+   "answer": 3,
+   "vi": "Cô ấy chờ kết quả với vẻ mặt đầy lo lắng.",
+   "why": "〜そうな + **顔つき** = vẻ mặt. 顔ぶり không phải từ (顔ぶれ = thành phần người tham gia); 顔遣い, 顔連れ không tồn tại."
+  },
+  {
+   "id": "g34-p12",
+   "kind": "context",
+   "ref": "g34-w95",
+   "q": "{大丈夫|だいじょうぶ}だと{言|い}われたが、{彼|かれ}のその{一言|ひとこと}がどうも{心|こころ}に（　　）。",
+   "options": [
+    "{引|ひ}っ{張|ぱ}る",
+    "{引|ひ}っかかる",
+    "{引|ひ}っ{込|こ}む",
+    "{引|ひ}っかく"
+   ],
+   "answer": 1,
+   "vi": "Dù được bảo là không sao, nhưng câu nói đó của anh ấy cứ làm tôi thấy cấn trong lòng.",
+   "why": "心に**引っかかる** = thấy vướng mắc, cấn cấn. 引っ張る = kéo / dẫn dắt; 引っ込む = rút vào trong; 引っかく = cào — đều không đi với 心に theo nghĩa này."
+  },
+  {
+   "id": "g34-p13",
+   "kind": "context",
+   "ref": "g34-w79",
+   "q": "{道|みち}に{迷|まよ}って{困|こま}っていたら、ちょうど{近所|きんじょ}の{人|ひと}が（　　）、{案内|あんない}してくれた。",
+   "options": [
+    "{通|とお}り{過|す}ぎて",
+    "{追|お}い{越|こ}して",
+    "{通|とお}りかかって",
+    "{乗|の}り{越|こ}して"
+   ],
+   "answer": 2,
+   "vi": "Đang lạc đường không biết làm sao thì vừa may có người hàng xóm đi ngang qua và chỉ đường cho tôi.",
+   "why": "Tình cờ đi ngang rồi giúp → **通りかかる**. 通り過ぎる = đi qua luôn không dừng, mâu thuẫn với 'chỉ đường'; 追い越す = vượt lên trước; 乗り越す = đi quá ga."
+  },
+  {
+   "id": "g34-p14",
+   "kind": "paraphrase",
+   "ref": "g34-w119",
+   "q": "{友達|ともだち}と[[u:{色違|いろちが}いの]]かばんを{買|か}った。",
+   "options": [
+    "{色|いろ}だけが{違|ちが}う{同|おな}じデザインの",
+    "{色|いろ}を{間違|まちが}えた",
+    "{全|まった}く{違|ちが}う{種類|しゅるい}の",
+    "{色|いろ}も{形|かたち}も{同|おな}じ"
+   ],
+   "answer": 0,
+   "vi": "Tôi mua chiếc cặp cùng kiểu khác màu với bạn.",
+   "why": "色違い = cùng kiểu, chỉ khác màu → phương án 1. 色を間違えた nhầm với nghĩa 'nhầm' của 人違い; 'khác hoàn toàn chủng loại' và 'giống cả màu lẫn dáng' đều sai."
+  }
+ ],
+ "test": [
+  {
+   "id": "g34-t1",
+   "kind": "formation",
+   "ref": "g34-w36",
+   "q": "{留学|りゅうがく}したいと{言|い}い（　　）のは、{親|おや}ではなく{娘|むすめ}のほうだった。",
+   "options": [
+    "合った",
+    "込んだ",
+    "出した",
+    "回った"
+   ],
+   "answer": 2,
+   "vi": "Người mở lời muốn đi du học không phải bố mẹ mà chính là con gái.",
+   "why": "Người đầu tiên nói ra, đề xuất → **言い出す**. 言い合う cần hai bên (cãi nhau / cùng nói); 言い込む không dùng; 言い回る không phải từ thông dụng (言いふらす mới là 'đi rêu rao')."
+  },
+  {
+   "id": "g34-t2",
+   "kind": "formation",
+   "ref": "g34-w55",
+   "q": "{理由|りゆう}を{聞|き}かれると、{彼|かれ}は{下|した}を{向|む}いて{黙|だま}り（　　）しまった。",
+   "options": [
+    "込んで",
+    "出して",
+    "合って",
+    "直して"
+   ],
+   "answer": 0,
+   "vi": "Bị hỏi lý do, anh ấy cúi gằm mặt im bặt.",
+   "why": "Im lặng hẳn, không nói gì nữa → **黙り込む**. 黙り出す, 黙り直す không tồn tại; 黙り合う (cùng im lặng) cần hai bên, không hợp chủ ngữ 彼."
+  },
+  {
+   "id": "g34-t3",
+   "kind": "formation",
+   "ref": "g34-w15",
+   "q": "{冷|さ}めてしまったカレーを{温|あたた}め（　　）{食|た}べた。",
+   "options": [
+    "上がって",
+    "込んで",
+    "回って",
+    "直して"
+   ],
+   "answer": 3,
+   "vi": "Tôi hâm nóng lại món cà ri đã nguội rồi ăn.",
+   "why": "Đã nguội → hâm lại → **温め直す**. 温め上がる, 温め回る không phải từ; 温め込む không dùng."
+  },
+  {
+   "id": "g34-t4",
+   "kind": "formation",
+   "ref": "g34-w82",
+   "q": "{電車|でんしゃ}で{寝|ね}てしまい、{降|お}りる{駅|えき}を{乗|の}り（　　）しまった。",
+   "options": [
+    "遅れて",
+    "越して",
+    "越えて",
+    "込んで"
+   ],
+   "answer": 1,
+   "vi": "Ngủ quên trên tàu nên tôi đi quá ga cần xuống.",
+   "why": "駅を〜 (đi quá ga) → **乗り越す**. 乗り越える = vượt qua khó khăn / trèo qua, không dùng với 駅; 乗り遅れる đi với 〜に (電車に乗り遅れる); 乗り込む = lên xe."
+  },
+  {
+   "id": "g34-t5",
+   "kind": "formation",
+   "ref": "g34-w78",
+   "q": "{売上|うりあげ}から{経費|けいひ}を（　　）{引|ひ}くと、{利益|りえき}はほとんど{残|のこ}らない。",
+   "options": [
+    "取り",
+    "差し",
+    "打ち",
+    "受け"
+   ],
+   "answer": 1,
+   "vi": "Lấy doanh thu trừ đi chi phí thì lợi nhuận gần như chẳng còn.",
+   "why": "AからBを〜 = trừ đi → **差し引く**. 取引 chỉ là danh từ 'giao dịch' (取引する), không chia 取り引くと; 打ち引く, 受け引く không tồn tại."
+  },
+  {
+   "id": "g34-t6",
+   "kind": "formation",
+   "ref": "g34-w107",
+   "q": "{海岸|かいがん}（　　）を{走|はし}るドライブコースは{景色|けしき}がすばらしい。",
+   "options": [
+    "連れ",
+    "つき",
+    "沿い",
+    "明け"
+   ],
+   "answer": 2,
+   "vi": "Cung đường lái xe chạy dọc bờ biển có phong cảnh tuyệt đẹp.",
+   "why": "Dọc theo bờ biển → **海岸沿い**. 〜連れ (dẫn theo người), 〜つき (vẻ bề ngoài), 〜明け (sau một khoảng thời gian) đều không ghép với 海岸."
+  },
+  {
+   "id": "g34-t7",
+   "kind": "formation",
+   "ref": "g34-w116",
+   "q": "{連休|れんきゅう}の{遊園地|ゆうえんち}は{家族|かぞく}（　　）で{混雑|こんざつ}していた。",
+   "options": [
+    "遣い",
+    "連れ",
+    "扱い",
+    "ぶり"
+   ],
+   "answer": 1,
+   "vi": "Công viên giải trí dịp nghỉ dài ngày đông nghẹt các gia đình.",
+   "why": "Người đi cùng cả nhà → **家族連れ** (かぞくづれ). 家族扱い = đối xử như người nhà, không 'làm đông' nơi nào; 家族遣い, 家族ぶり không phải từ."
+  },
+  {
+   "id": "g34-t8",
+   "kind": "formation",
+   "ref": "g34-w113",
+   "q": "{使用|しよう}（　　）の{紙|かみ}の{裏|うら}をメモに{使|つか}っている。",
+   "options": [
+    "明け",
+    "違い",
+    "たて",
+    "済み"
+   ],
+   "answer": 3,
+   "vi": "Tôi dùng mặt sau của giấy đã qua sử dụng để ghi chú.",
+   "why": "Đã dùng rồi → **使用済み**. 〜たて ghép với Vます (焼きたて), không ghép với danh từ Hán 使用; 使用明け, 使用違い không tồn tại."
+  },
+  {
+   "id": "g34-t9",
+   "kind": "context",
+   "ref": "g34-w64",
+   "q": "{話|はな}し{合|あ}いの{結果|けっか}、{会社|かいしゃ}は{社員|しゃいん}の{要求|ようきゅう}を{一部|いちぶ}（　　）ことにした。",
+   "options": [
+    "{受|う}け{取|と}る",
+    "{受|う}け{持|も}つ",
+    "{受|う}け{入|い}れる",
+    "{引|ひ}き{取|と}る"
+   ],
+   "answer": 2,
+   "vi": "Sau khi thương lượng, công ty quyết định chấp nhận một phần yêu cầu của nhân viên.",
+   "why": "要求を**受け入れる** = chấp nhận yêu cầu. 受け取る = nhận (đồ vật, tiền), 'nhận yêu cầu' chỉ là nhận được chứ chưa chấp nhận; 受け持つ = phụ trách (lớp, việc); 引き取る = nhận về (đồ, người)."
+  },
+  {
+   "id": "g34-t10",
+   "kind": "paraphrase",
+   "ref": "g34-w56",
+   "q": "{第一|だいいち}{志望|しぼう}の{会社|かいしゃ}に{落|お}ちて、{兄|あに}はひどく[[u:{落|お}ち{込|こ}んで]]いる。",
+   "options": [
+    "がっかりして",
+    "{怒|おこ}って",
+    "{困|こま}って",
+    "{急|いそ}いで"
+   ],
+   "answer": 0,
+   "vi": "Trượt công ty nguyện vọng một, anh tôi đang vô cùng suy sụp.",
+   "why": "落ち込む (về tâm trạng) = buồn chán, suy sụp ≒ **がっかりする**. 怒る = giận; 困る = khó xử; 急ぐ = vội — đều không phải nghĩa của 落ち込む."
+  },
+  {
+   "id": "g34-t11",
+   "kind": "formation",
+   "ref": "g34-w128",
+   "q": "{店長|てんちょう}は{新人|しんじん}アルバイトの{仕事|しごと}（　　）を{見|み}て、{安心|あんしん}したようだ。",
+   "options": [
+    "ぶり",
+    "つき",
+    "遣い",
+    "違い"
+   ],
+   "answer": 0,
+   "vi": "Cửa hàng trưởng có vẻ yên tâm khi thấy cách làm việc của cậu nhân viên làm thêm mới.",
+   "why": "Cách làm việc → **仕事ぶり**. 〜つき ghép với bộ phận cơ thể (目つき, 顔つき); 仕事遣い không có; 仕事違い không phải từ (nhầm việc là 仕事の間違い)."
+  }
+ ]
+}

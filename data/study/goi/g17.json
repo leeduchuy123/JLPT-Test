@@ -1,0 +1,2112 @@
+{
+  "id": "g17",
+  "track": "goi",
+  "intro": "Bài này gom từ vựng **tin thời sự**: chính trị, pháp luật và lịch sử. Đây là nhóm từ Hán – Nhật (漢語) dày đặc nhất của N2, nhưng tin vui là phần lớn có âm Hán Việt **gần như trùng** với tiếng Việt: 政策 = chính sách, 外交 = ngoại giao, 独立 = độc lập, 革命 = cách mạng, 憲法 = hiến pháp. Hãy tận dụng điều đó để đoán nghĩa, rồi dồn sức vào **cách đọc** (đề 問題1・2 hay hỏi) và **động từ đi kèm**.\n\n- **Chính trị**: ai làm gì — 首相・大臣・首脳 が 演説する／会談する／交渉する／合意する; chính phủ 予算案を作成する, 課題に取り組む, 条約を結ぶ, 制度を見直す／改める. Ở 国会: 与党 ↔ 野党, 政策を議論する, 選挙で投票する.\n- **Pháp luật**: 法律を定める, 憲法を改正する, 被害を訴える, 法廷で争う, 裁判で証言する.\n- **Lịch sử**: 国家が統一される, 国が栄える ↔ 滅びる, 独立・革命・植民地・支配, 権力を握る, 庶民の文化が発展する.\n\nBẫy lớn nhất của bài: hậu tố **〜相 (しょう, bộ trưởng = người)** và **〜省 (しょう, bộ = cơ quan)** đọc giống hệt nhau (財務相 = 財務省 = ざいむしょう); cặp **与党 (よとう) ↔ 野党 (やとう)**; và ba phó từ **一切・どうせ・ほぼ**.",
+  "sections": [
+    {
+      "title": "政治",
+      "title_vi": "Chính trị",
+      "words": [
+        {
+          "id": "g17-w1",
+          "w": "演説",
+          "r": "えんぜつ",
+          "hv": "DIỄN THUYẾT",
+          "pos": "名・自動",
+          "vi": "diễn thuyết, phát biểu trước công chúng",
+          "key": true,
+          "ex": {
+            "ja": "{首相|しゅしょう}は{国連|こくれん}{総会|そうかい}で{環境|かんきょう}{問題|もんだい}について{演説|えんぜつ}した。",
+            "vi": "Thủ tướng đã phát biểu về vấn đề môi trường tại Đại hội đồng Liên Hợp Quốc."
+          },
+          "col": [
+            "演説する",
+            "街頭演説",
+            "演説会"
+          ],
+          "note": "Đọc えん**ぜつ** (説 biến âm thành ぜつ), không phải えんせつ. Khác スピーチ ở mức trang trọng: 演説 thường mang tính chính trị, trước đám đông."
+        },
+        {
+          "id": "g17-w2",
+          "w": "内閣総理大臣",
+          "r": "ないかくそうりだいじん",
+          "hv": "NỘI CÁC TỔNG LÝ ĐẠI THẦN",
+          "pos": "名",
+          "vi": "Thủ tướng (tên gọi chính thức)",
+          "key": true,
+          "ex": {
+            "ja": "{内閣|ないかく}{総理|そうり}{大臣|だいじん}は{国会|こっかい}の{議決|ぎけつ}で{選|えら}ばれる。",
+            "vi": "Thủ tướng được chọn bằng biểu quyết của Quốc hội."
+          },
+          "rel": "≒ 首相・総理",
+          "note": "内閣 = nội các (chính phủ gồm thủ tướng và các bộ trưởng)."
+        },
+        {
+          "id": "g17-w3",
+          "w": "首相",
+          "r": "しゅしょう",
+          "hv": "THỦ TƯỚNG",
+          "pos": "名",
+          "vi": "thủ tướng",
+          "key": true,
+          "ex": {
+            "ja": "{首相|しゅしょう}は{記者|きしゃ}{会見|かいけん}で{新|あたら}しい{経済|けいざい}{対策|たいさく}を{発表|はっぴょう}した。",
+            "vi": "Thủ tướng công bố biện pháp kinh tế mới trong buổi họp báo."
+          },
+          "rel": "≒ 内閣総理大臣・総理",
+          "note": "Dùng cả cho thủ tướng nước khác: イギリスの首相."
+        },
+        {
+          "id": "g17-w4",
+          "w": "大統領",
+          "r": "だいとうりょう",
+          "hv": "ĐẠI THỐNG LĨNH",
+          "pos": "名",
+          "vi": "tổng thống",
+          "key": true,
+          "ex": {
+            "ja": "{大統領|だいとうりょう}{選挙|せんきょ}は{四年|よねん}に{一度|いちど}{行|おこな}われる。",
+            "vi": "Bầu cử tổng thống được tổ chức bốn năm một lần."
+          },
+          "note": "Đọc だい**とう**りょう. 領 (りょう) như trong 領土 (lãnh thổ)."
+        },
+        {
+          "id": "g17-w5",
+          "w": "外相",
+          "r": "がいしょう",
+          "hv": "NGOẠI TƯỚNG",
+          "pos": "名",
+          "vi": "bộ trưởng ngoại giao",
+          "key": true,
+          "ex": {
+            "ja": "{日中|にっちゅう}{外相|がいしょう}{会談|かいだん}が{北京|ぺきん}で{開|ひら}かれた。",
+            "vi": "Hội đàm ngoại trưởng Nhật – Trung đã được tổ chức tại Bắc Kinh."
+          },
+          "rel": "≒ 外務大臣",
+          "note": "〜相 (しょう) = cách gọi ngắn của 〜大臣, rất hay dùng trên báo vì tiết kiệm chữ."
+        },
+        {
+          "id": "g17-w6",
+          "w": "財務相",
+          "r": "ざいむしょう",
+          "hv": "TÀI VỤ TƯỚNG",
+          "pos": "名",
+          "vi": "bộ trưởng tài chính",
+          "key": true,
+          "ex": {
+            "ja": "{財務相|ざいむしょう}は{消費税|しょうひぜい}の{引|ひ}き{上|あ}げについて{慎重|しんちょう}な{考|かんが}えを{示|しめ}した。",
+            "vi": "Bộ trưởng Tài chính bày tỏ quan điểm thận trọng về việc tăng thuế tiêu dùng."
+          },
+          "rel": "≒ 財務大臣",
+          "note": "Đọc giống hệt 財務省 (Bộ Tài chính — cơ quan). 相 = người, 省 = cơ quan."
+        },
+        {
+          "id": "g17-w7",
+          "w": "大臣",
+          "r": "だいじん",
+          "hv": "ĐẠI THẦN",
+          "pos": "名",
+          "vi": "bộ trưởng",
+          "key": true,
+          "ex": {
+            "ja": "{新|あたら}しい{内閣|ないかく}で、{女性|じょせい}の{大臣|だいじん}が{五人|ごにん}{誕生|たんじょう}した。",
+            "vi": "Trong nội các mới có năm nữ bộ trưởng."
+          },
+          "col": [
+            "〜大臣",
+            "大臣に就任する"
+          ]
+        },
+        {
+          "id": "g17-w8",
+          "w": "首脳",
+          "r": "しゅのう",
+          "hv": "THỦ NÃO",
+          "pos": "名",
+          "vi": "nguyên thủ, lãnh đạo cấp cao nhất (của quốc gia, tổ chức)",
+          "key": true,
+          "ex": {
+            "ja": "{主要国|しゅようこく}の{首脳|しゅのう}が{集|あつ}まり、{世界|せかい}{経済|けいざい}について{話|はな}し{合|あ}った。",
+            "vi": "Lãnh đạo các nước lớn đã họp lại để bàn về kinh tế thế giới."
+          },
+          "col": [
+            "首脳会談",
+            "首脳会議",
+            "首脳陣"
+          ],
+          "note": "首 (đầu) + 脳 (não) = \"bộ não đứng đầu\". Không phải tên chức vụ cụ thể mà là cách gọi chung những người đứng đầu."
+        },
+        {
+          "id": "g17-w9",
+          "w": "交渉",
+          "r": "こうしょう",
+          "hv": "GIAO THIỆP",
+          "pos": "名・自他動",
+          "vi": "đàm phán, thương lượng",
+          "key": true,
+          "ex": {
+            "ja": "{家賃|やちん}を{少|すこ}し{下|さ}げてもらえるよう、{大家|おおや}さんと{交渉|こうしょう}した。",
+            "vi": "Tôi đã thương lượng với chủ nhà để được giảm tiền nhà một chút."
+          },
+          "col": [
+            "〜と交渉する",
+            "交渉がまとまる",
+            "交渉が決裂する",
+            "値段を交渉する"
+          ],
+          "rel": "≒ 話し合い・掛け合う",
+          "note": "Nghĩa N2 là **đàm phán để đạt điều kiện**. (Nghĩa \"giao thiệp, quan hệ\" của tiếng Việt chỉ còn trong 「交渉がない」 = không có quan hệ.)"
+        },
+        {
+          "id": "g17-w10",
+          "w": "会談",
+          "r": "かいだん",
+          "hv": "HỘI ĐÀM",
+          "pos": "名・自動",
+          "vi": "hội đàm, gặp gỡ trao đổi (giữa nhân vật quan trọng)",
+          "key": true,
+          "ex": {
+            "ja": "{両国|りょうこく}の{首相|しゅしょう}は{一時間|いちじかん}にわたって{会談|かいだん}した。",
+            "vi": "Thủ tướng hai nước đã hội đàm suốt một tiếng đồng hồ."
+          },
+          "col": [
+            "首脳会談",
+            "会談を行う",
+            "〜と会談する"
+          ],
+          "note": "Khác 会議 (hội nghị, nhiều người, có chương trình) và 会話 (nói chuyện thường). Cẩn thận: 階段 (かいだん, cầu thang) cùng âm."
+        },
+        {
+          "id": "g17-w11",
+          "w": "合意",
+          "r": "ごうい",
+          "hv": "HỢP Ý",
+          "pos": "名・自動",
+          "vi": "thống nhất ý kiến, đạt được thoả thuận",
+          "key": true,
+          "ex": {
+            "ja": "{長|なが}い{話|はな}し{合|あ}いの{末|すえ}、{両社|りょうしゃ}は{合併|がっぺい}に{合意|ごうい}した。",
+            "vi": "Sau thời gian dài bàn bạc, hai công ty đã đồng ý sáp nhập."
+          },
+          "col": [
+            "合意に達する／至る",
+            "合意を得る",
+            "〜に合意する"
+          ],
+          "rel": "≒ 意見が一致する",
+          "note": "Dùng giữa **hai bên trở lên** sau thương lượng. Một người tán thành ý kiến người khác → 賛成・同意, không dùng 合意."
+        },
+        {
+          "id": "g17-w12",
+          "w": "援助",
+          "r": "えんじょ",
+          "hv": "VIỆN TRỢ",
+          "pos": "名・他動",
+          "vi": "viện trợ, hỗ trợ (tiền, vật chất)",
+          "key": true,
+          "ex": {
+            "ja": "{地震|じしん}の{被災国|ひさいこく}に{各国|かっこく}から{食料|しょくりょう}の{援助|えんじょ}が{届|とど}いた。",
+            "vi": "Viện trợ lương thực từ các nước đã đến với quốc gia bị động đất."
+          },
+          "col": [
+            "援助活動",
+            "経済援助",
+            "援助を受ける"
+          ],
+          "note": "Thường là bên mạnh giúp bên yếu bằng tiền/vật. Giúp người đang gặp nạn trực tiếp → 救助 (cứu hộ)."
+        },
+        {
+          "id": "g17-w13",
+          "w": "活動",
+          "r": "かつどう",
+          "hv": "HOẠT ĐỘNG",
+          "pos": "名・自動",
+          "vi": "hoạt động",
+          "ex": {
+            "ja": "{大学|だいがく}{時代|じだい}はボランティア{活動|かつどう}に{参加|さんか}していた。",
+            "vi": "Thời đại học tôi tham gia hoạt động tình nguyện."
+          },
+          "col": [
+            "援助活動",
+            "選挙活動",
+            "就職活動 (就活)"
+          ],
+          "key": true
+        },
+        {
+          "id": "g17-w14",
+          "w": "国際連合",
+          "r": "こくさいれんごう",
+          "hv": "QUỐC TẾ LIÊN HỢP",
+          "pos": "名",
+          "vi": "Liên Hợp Quốc",
+          "key": true,
+          "ex": {
+            "ja": "{国際|こくさい}{連合|れんごう}は{一九四五年|せんきゅうひゃくよんじゅうごねん}に{設立|せつりつ}された。",
+            "vi": "Liên Hợp Quốc được thành lập năm 1945."
+          },
+          "rel": "≒ 国連"
+        },
+        {
+          "id": "g17-w15",
+          "w": "国連",
+          "r": "こくれん",
+          "hv": "QUỐC LIÊN",
+          "pos": "名",
+          "vi": "Liên Hợp Quốc (gọi tắt)",
+          "key": true,
+          "ex": {
+            "ja": "{将来|しょうらい}は{国連|こくれん}の{職員|しょくいん}として{働|はたら}きたい。",
+            "vi": "Sau này tôi muốn làm nhân viên Liên Hợp Quốc."
+          },
+          "note": "Cách viết tắt kiểu Nhật: lấy chữ đầu của mỗi phần (国際 + 連合 → 国連). Tương tự 特急 (特別急行)."
+        },
+        {
+          "id": "g17-w16",
+          "w": "財務省",
+          "r": "ざいむしょう",
+          "hv": "TÀI VỤ TỈNH",
+          "pos": "名",
+          "vi": "Bộ Tài chính",
+          "key": true,
+          "ex": {
+            "ja": "{財務省|ざいむしょう}は{来年度|らいねんど}の{予算|よさん}の{概要|がいよう}をまとめた。",
+            "vi": "Bộ Tài chính đã tổng hợp khái quát ngân sách năm tới."
+          },
+          "note": "〜省 (しょう) = bộ (cơ quan). 省 ở đây không đọc せい (như 反省)."
+        },
+        {
+          "id": "g17-w17",
+          "w": "次年度",
+          "r": "じねんど",
+          "hv": "THỨ NIÊN ĐỘ",
+          "pos": "名",
+          "vi": "năm tài khoá tới",
+          "key": true,
+          "ex": {
+            "ja": "この{計画|けいかく}は{次年度|じねんど}から{実施|じっし}される{予定|よてい}だ。",
+            "vi": "Kế hoạch này dự kiến được thực hiện từ năm tài khoá tới."
+          },
+          "rel": "≒ 来年度・翌年度",
+          "note": "年度 = năm tài khoá (ở Nhật từ tháng 4 đến tháng 3). 次 đọc じ ở đây (không phải つぎ)."
+        },
+        {
+          "id": "g17-w18",
+          "w": "予算案",
+          "r": "よさんあん",
+          "hv": "DỰ TOÁN ÁN",
+          "pos": "名",
+          "vi": "dự thảo ngân sách",
+          "key": true,
+          "ex": {
+            "ja": "{政府|せいふ}の{予算案|よさんあん}は{国会|こっかい}で{審議|しんぎ}される。",
+            "vi": "Dự thảo ngân sách của chính phủ được Quốc hội thẩm định."
+          },
+          "col": [
+            "予算案を作成する",
+            "予算案が可決される"
+          ],
+          "note": "〜案 = dự thảo, phương án chưa được thông qua: 改正案, 法案, 提案."
+        },
+        {
+          "id": "g17-w19",
+          "w": "作成",
+          "r": "さくせい",
+          "hv": "TÁC THÀNH",
+          "pos": "名・他動",
+          "vi": "soạn thảo, lập (văn bản, kế hoạch)",
+          "ex": {
+            "ja": "{会議|かいぎ}までに{報告書|ほうこくしょ}を{作成|さくせい}しておいてください。",
+            "vi": "Hãy soạn xong báo cáo trước cuộc họp."
+          },
+          "col": [
+            "書類を作成する",
+            "計画を作成する"
+          ],
+          "note": "Dùng cho **giấy tờ, kế hoạch, danh sách**. Đồ vật → 製作・製造."
+        },
+        {
+          "id": "g17-w20",
+          "w": "政府",
+          "r": "せいふ",
+          "hv": "CHÍNH PHỦ",
+          "pos": "名",
+          "vi": "chính phủ",
+          "ex": {
+            "ja": "{政府|せいふ}は{物価|ぶっか}{高|だか}への{対策|たいさく}を{急|いそ}いでいる。",
+            "vi": "Chính phủ đang gấp rút đưa ra biện pháp đối phó với giá cả tăng cao."
+          },
+          "key": true
+        },
+        {
+          "id": "g17-w21",
+          "w": "財政",
+          "r": "ざいせい",
+          "hv": "TÀI CHÍNH",
+          "pos": "名",
+          "vi": "tài chính (của nhà nước, tổ chức)",
+          "key": true,
+          "ex": {
+            "ja": "{市|し}の{財政|ざいせい}が{苦|くる}しく、{図書館|としょかん}の{開館|かいかん}{時間|じかん}が{短|みじか}くなった。",
+            "vi": "Tài chính thành phố khó khăn nên giờ mở cửa thư viện bị rút ngắn."
+          },
+          "col": [
+            "財政的な",
+            "財政赤字",
+            "財政難"
+          ],
+          "note": "財政 = thu chi của nhà nước / địa phương. 金融 = hoạt động tiền tệ, ngân hàng. Tiếng Việt đều có thể dịch \"tài chính\" nên dễ lẫn."
+        },
+        {
+          "id": "g17-w22",
+          "w": "課題",
+          "r": "かだい",
+          "hv": "KHÓA ĐỀ",
+          "pos": "名",
+          "vi": "vấn đề cần giải quyết, nhiệm vụ; bài tập (được giao)",
+          "key": true,
+          "ex": {
+            "ja": "{少子化|しょうしか}は{日本|にほん}が{抱|かか}える{大|おお}きな{課題|かだい}の{一|ひと}つだ。",
+            "vi": "Tỷ lệ sinh giảm là một trong những vấn đề lớn Nhật Bản đang phải đối mặt."
+          },
+          "col": [
+            "課題に取り組む",
+            "課題を抱える",
+            "今後の課題",
+            "夏休みの課題"
+          ],
+          "note": "Khác 問題: 課題 nhấn mạnh **việc phải làm / phải vượt qua** (mang tính hướng tới giải pháp)."
+        },
+        {
+          "id": "g17-w23",
+          "w": "取り組む",
+          "r": "とりくむ",
+          "hv": "THỦ TỔ",
+          "pos": "自動",
+          "vi": "dồn sức giải quyết, nỗ lực thực hiện (vấn đề, công việc)",
+          "key": true,
+          "ex": {
+            "ja": "この{町|まち}は{住民|じゅうみん}と{一緒|いっしょ}にごみの{削減|さくげん}に{取|と}り{組|く}んでいる。",
+            "vi": "Thị trấn này đang cùng người dân nỗ lực giảm rác."
+          },
+          "col": [
+            "〜に取り組む",
+            "真剣に取り組む",
+            "問題に取り組む"
+          ],
+          "note": "Trợ từ **に**: 課題に取り組む. Hình ảnh gốc: hai đô vật 相撲 \"vật nhau\" — tức là xắn tay đối mặt với vấn đề."
+        },
+        {
+          "id": "g17-w24",
+          "w": "取り組み",
+          "r": "とりくみ",
+          "hv": "THỦ TỔ",
+          "pos": "名",
+          "vi": "nỗ lực, sáng kiến, hoạt động (nhằm giải quyết vấn đề)",
+          "key": true,
+          "ex": {
+            "ja": "{企業|きぎょう}の{環境|かんきょう}への{取|と}り{組|く}みが{評価|ひょうか}されている。",
+            "vi": "Các hoạt động vì môi trường của doanh nghiệp đang được đánh giá cao."
+          }
+        },
+        {
+          "id": "g17-w25",
+          "w": "条約",
+          "r": "じょうやく",
+          "hv": "ĐIỀU ƯỚC",
+          "pos": "名",
+          "vi": "hiệp ước, điều ước (giữa các quốc gia)",
+          "key": true,
+          "ex": {
+            "ja": "{二|ふた}つの{国|くに}は{戦争|せんそう}を{終|お}わらせるために{条約|じょうやく}を{結|むす}んだ。",
+            "vi": "Hai nước đã ký hiệp ước để chấm dứt chiến tranh."
+          },
+          "col": [
+            "条約を結ぶ",
+            "平和条約",
+            "条約に調印する"
+          ],
+          "note": "Động từ đi kèm: 条約・契約を**結ぶ** (ký kết)."
+        },
+        {
+          "id": "g17-w26",
+          "w": "結ぶ",
+          "r": "むすぶ",
+          "hv": "KẾT",
+          "pos": "他動",
+          "vi": "buộc, nối; ký kết (hiệp ước, hợp đồng)",
+          "ex": {
+            "ja": "{会社|かいしゃ}は{海外|かいがい}の{大学|だいがく}と{協定|きょうてい}を{結|むす}んだ。",
+            "vi": "Công ty đã ký thoả thuận hợp tác với một trường đại học nước ngoài."
+          },
+          "col": [
+            "条約を結ぶ",
+            "契約を結ぶ",
+            "AとBを結ぶ"
+          ]
+        },
+        {
+          "id": "g17-w27",
+          "w": "制度",
+          "r": "せいど",
+          "hv": "CHẾ ĐỘ",
+          "pos": "名",
+          "vi": "chế độ, hệ thống quy định",
+          "key": true,
+          "ex": {
+            "ja": "{育児|いくじ}{休暇|きゅうか}の{制度|せいど}があっても、{利用|りよう}しにくい{職場|しょくば}も{多|おお}い。",
+            "vi": "Dù có chế độ nghỉ chăm con, vẫn nhiều nơi làm việc khó sử dụng chế độ đó."
+          },
+          "col": [
+            "制度を見直す",
+            "制度を設ける",
+            "年金制度"
+          ]
+        },
+        {
+          "id": "g17-w28",
+          "w": "見直す",
+          "r": "みなおす",
+          "hv": "KIẾN TRỰC",
+          "pos": "他動",
+          "vi": "xem xét lại (để sửa); nhìn nhận lại (đánh giá tốt hơn)",
+          "key": true,
+          "senses": [
+            {
+              "vi": "rà soát lại để sửa đổi, cải tiến",
+              "ex": {
+                "ja": "{利用者|りようしゃ}の{意見|いけん}を{受|う}けて、バスの{時刻表|じこくひょう}を{見直|みなお}した。",
+                "vi": "Tiếp thu ý kiến người dùng, lịch chạy xe buýt đã được xem xét điều chỉnh lại."
+              }
+            },
+            {
+              "vi": "nhìn nhận lại (thấy người/vật tốt hơn mình nghĩ)",
+              "ex": {
+                "ja": "{困|こま}っている{人|ひと}を{助|たす}ける{姿|すがた}を{見|み}て、{彼|かれ}を{見直|みなお}した。",
+                "vi": "Thấy anh ấy giúp người gặp khó khăn, tôi đã nhìn anh ấy bằng con mắt khác."
+              }
+            }
+          ],
+          "col": [
+            "制度を見直す",
+            "計画を見直す",
+            "見直し"
+          ],
+          "rel": "≒ 再検討する"
+        },
+        {
+          "id": "g17-w29",
+          "w": "改める",
+          "r": "あらためる",
+          "hv": "CẢI",
+          "pos": "他動",
+          "vi": "thay đổi, sửa đổi (cho đúng / tốt hơn)",
+          "key": true,
+          "ex": {
+            "ja": "{遅刻|ちこく}が{多|おお}いと{注意|ちゅうい}されて、{生活|せいかつ}{習慣|しゅうかん}を{改|あらた}めることにした。",
+            "vi": "Bị nhắc nhở vì hay đi muộn, tôi quyết định sửa lại thói quen sinh hoạt."
+          },
+          "col": [
+            "規則を改める",
+            "態度を改める",
+            "日を改める"
+          ],
+          "note": "「日を改めて伺います」 = hôm khác tôi sẽ đến (đổi sang ngày khác). Phó từ 改めて = một lần nữa, lại (改めてお礼を申し上げます)."
+        }
+      ]
+    },
+    {
+      "title": "国会",
+      "title_vi": "Quốc hội",
+      "words": [
+        {
+          "id": "g17-w30",
+          "w": "国会",
+          "r": "こっかい",
+          "hv": "QUỐC HỘI",
+          "pos": "名",
+          "vi": "quốc hội",
+          "key": true,
+          "ex": {
+            "ja": "{国会|こっかい}では{来年度|らいねんど}の{予算|よさん}をめぐる{審議|しんぎ}が{続|つづ}いている。",
+            "vi": "Ở Quốc hội, các phiên thẩm định xoay quanh ngân sách năm tới đang tiếp diễn."
+          },
+          "col": [
+            "国会議員",
+            "国会を開く"
+          ],
+          "note": "Đọc こっかい (có っ)."
+        },
+        {
+          "id": "g17-w31",
+          "w": "野党",
+          "r": "やとう",
+          "hv": "DÃ ĐẢNG",
+          "pos": "名",
+          "vi": "đảng đối lập",
+          "key": true,
+          "ex": {
+            "ja": "{野党|やとう}は{政府|せいふ}の{説明|せつめい}が{不十分|ふじゅうぶん}だと{反発|はんぱつ}した。",
+            "vi": "Phe đối lập phản đối rằng lời giải thích của chính phủ là chưa đầy đủ."
+          },
+          "rel": "↔ 与党",
+          "note": "野 = đồng nội, ngoài triều đình → \"đảng ở ngoài (không cầm quyền)\"."
+        },
+        {
+          "id": "g17-w32",
+          "w": "与党",
+          "r": "よとう",
+          "hv": "DỮ ĐẢNG",
+          "pos": "名",
+          "vi": "đảng cầm quyền",
+          "key": true,
+          "ex": {
+            "ja": "{与党|よとう}は{法案|ほうあん}を{今月中|こんげつちゅう}に{成立|せいりつ}させたい{考|かんが}えだ。",
+            "vi": "Đảng cầm quyền muốn thông qua dự luật trong tháng này."
+          },
+          "rel": "↔ 野党",
+          "note": "与 = 与える / tham dự (関与) → \"đảng tham gia chính quyền\". Mẹo: **よ**とう = ở **trong** (yo), **や**とう = ở **ngoài đồng** (野)."
+        },
+        {
+          "id": "g17-w33",
+          "w": "批判",
+          "r": "ひはん",
+          "hv": "PHÊ PHÁN",
+          "pos": "名・他動",
+          "vi": "phê phán, chỉ trích",
+          "ex": {
+            "ja": "{大臣|だいじん}の{発言|はつげん}は{多|おお}くの{国民|こくみん}から{批判|ひはん}を{浴|あ}びた。",
+            "vi": "Phát ngôn của bộ trưởng đã hứng chịu sự chỉ trích của nhiều người dân."
+          },
+          "col": [
+            "批判を浴びる",
+            "批判的な",
+            "厳しく批判する"
+          ],
+          "rel": "≒ 非難 (mạnh hơn, mang tính lên án)",
+          "note": "批判 = chỉ ra điểm sai, có lập luận; 非難 = lên án, trách móc nặng nề. Lời khen không bao giờ là 批判."
+        },
+        {
+          "id": "g17-w34",
+          "w": "政策",
+          "r": "せいさく",
+          "hv": "CHÍNH SÁCH",
+          "pos": "名",
+          "vi": "chính sách",
+          "key": true,
+          "ex": {
+            "ja": "{新|あたら}しい{市長|しちょう}は{子育|こそだ}て{支援|しえん}を{重視|じゅうし}した{政策|せいさく}を{打|う}ち{出|だ}した。",
+            "vi": "Tân thị trưởng đưa ra chính sách chú trọng hỗ trợ nuôi con."
+          },
+          "col": [
+            "政策を打ち出す",
+            "外交政策",
+            "経済政策"
+          ],
+          "note": "Cùng âm せいさく: 製作 (chế tác), 制作 (sáng tác). Trong tin chính trị → 政策."
+        },
+        {
+          "id": "g17-w35",
+          "w": "議論",
+          "r": "ぎろん",
+          "hv": "NGHỊ LUẬN",
+          "pos": "名・他動",
+          "vi": "tranh luận, bàn luận (đưa ra ý kiến, lập luận)",
+          "key": true,
+          "ex": {
+            "ja": "{制服|せいふく}を{廃止|はいし}するかどうか、{生徒|せいと}たちが{議論|ぎろん}した。",
+            "vi": "Học sinh đã tranh luận xem có nên bỏ đồng phục hay không."
+          },
+          "col": [
+            "議論を交わす",
+            "議論が分かれる",
+            "〜について議論する"
+          ],
+          "note": "Trao đổi ý kiến một cách lý lẽ, có thể bất đồng. Cãi nhau cảm xúc → 口論・けんか."
+        },
+        {
+          "id": "g17-w36",
+          "w": "外交",
+          "r": "がいこう",
+          "hv": "NGOẠI GIAO",
+          "pos": "名",
+          "vi": "ngoại giao",
+          "key": true,
+          "ex": {
+            "ja": "{資源|しげん}の{少|すく}ない{国|くに}にとって、{外交|がいこう}は{特|とく}に{重要|じゅうよう}だ。",
+            "vi": "Với quốc gia ít tài nguyên, ngoại giao đặc biệt quan trọng."
+          },
+          "col": [
+            "外交政策",
+            "外交官",
+            "外交関係"
+          ]
+        },
+        {
+          "id": "g17-w37",
+          "w": "公共",
+          "r": "こうきょう",
+          "hv": "CÔNG CỘNG",
+          "pos": "名",
+          "vi": "công cộng, công (thuộc về xã hội)",
+          "key": true,
+          "ex": {
+            "ja": "{公共|こうきょう}の{場|ば}では、{周|まわ}りの{人|ひと}に{迷惑|めいわく}をかけないようにしよう。",
+            "vi": "Ở nơi công cộng, hãy cố gắng không làm phiền người xung quanh."
+          },
+          "col": [
+            "公共政策",
+            "公共施設",
+            "公共交通機関",
+            "公共料金"
+          ]
+        },
+        {
+          "id": "g17-w38",
+          "w": "選挙",
+          "r": "せんきょ",
+          "hv": "TUYỂN CỬ",
+          "pos": "名・他動",
+          "vi": "bầu cử",
+          "key": true,
+          "ex": {
+            "ja": "{今回|こんかい}の{選挙|せんきょ}では、{若者|わかもの}の{投票率|とうひょうりつ}が{上|あ}がった。",
+            "vi": "Ở cuộc bầu cử lần này, tỷ lệ đi bầu của người trẻ đã tăng."
+          },
+          "col": [
+            "選挙に出る",
+            "選挙活動",
+            "選挙で選ぶ"
+          ]
+        },
+        {
+          "id": "g17-w39",
+          "w": "投票",
+          "r": "とうひょう",
+          "hv": "ĐẦU PHIẾU",
+          "pos": "名・自動",
+          "vi": "bỏ phiếu",
+          "key": true,
+          "ex": {
+            "ja": "{仕事|しごと}で{当日|とうじつ}{行|い}けないので、{期日前|きじつまえ}{投票|とうひょう}を{済|す}ませた。",
+            "vi": "Hôm bầu cử bận việc không đi được nên tôi đã bỏ phiếu sớm."
+          },
+          "col": [
+            "投票に行く",
+            "投票率",
+            "国民投票"
+          ],
+          "note": "投 = ném (投げる), 票 = lá phiếu → \"ném phiếu\" vào thùng."
+        }
+      ]
+    },
+    {
+      "title": "法律",
+      "title_vi": "Pháp luật",
+      "words": [
+        {
+          "id": "g17-w40",
+          "w": "法律",
+          "r": "ほうりつ",
+          "hv": "PHÁP LUẬT",
+          "pos": "名",
+          "vi": "pháp luật, luật",
+          "ex": {
+            "ja": "{二十歳|はたち}{未満|みまん}の{飲酒|いんしゅ}は{法律|ほうりつ}で{禁止|きんし}されている。",
+            "vi": "Uống rượu dưới 20 tuổi bị pháp luật cấm."
+          }
+        },
+        {
+          "id": "g17-w41",
+          "w": "定める",
+          "r": "さだめる",
+          "hv": "ĐỊNH",
+          "pos": "他動",
+          "vi": "quy định, đặt ra (luật, quy tắc, mục tiêu)",
+          "key": true,
+          "ex": {
+            "ja": "{会社|かいしゃ}は{社員|しゃいん}の{服装|ふくそう}について{細|こま}かいルールを{定|さだ}めた。",
+            "vi": "Công ty đã đặt ra quy định chi tiết về trang phục của nhân viên."
+          },
+          "col": [
+            "法律で定める",
+            "目標を定める",
+            "狙いを定める"
+          ],
+          "note": "Văn viết. Hay gặp ở bị động: 「法律で定められている」 (được pháp luật quy định)."
+        },
+        {
+          "id": "g17-w42",
+          "w": "憲法",
+          "r": "けんぽう",
+          "hv": "HIẾN PHÁP",
+          "pos": "名",
+          "vi": "hiến pháp",
+          "key": true,
+          "ex": {
+            "ja": "{日本国|にほんこく}{憲法|けんぽう}は{一九四七年|せんきゅうひゃくよんじゅうななねん}に{施行|しこう}された。",
+            "vi": "Hiến pháp Nhật Bản có hiệu lực từ năm 1947."
+          },
+          "note": "Đọc けん**ぽう** (法 biến âm ぽう sau ん). Tương tự: 方法 (ほうほう) nhưng 文法 (ぶんぽう)."
+        },
+        {
+          "id": "g17-w43",
+          "w": "改正",
+          "r": "かいせい",
+          "hv": "CẢI CHÍNH",
+          "pos": "名・他動",
+          "vi": "sửa đổi (luật, quy định)",
+          "key": true,
+          "ex": {
+            "ja": "{法律|ほうりつ}が{改正|かいせい}され、{育児|いくじ}{休業|きゅうぎょう}が{取|と}りやすくなった。",
+            "vi": "Luật được sửa đổi nên việc nghỉ chăm con trở nên dễ dàng hơn."
+          },
+          "col": [
+            "憲法を改正する",
+            "法改正",
+            "改正案"
+          ],
+          "note": "Đối tượng là **luật, quy chế, giá cước chính thức**. Sửa lỗi chính tả → 訂正 (ていせい); \"cải chính\" tin đồn → 訂正 chứ không phải 改正."
+        },
+        {
+          "id": "g17-w44",
+          "w": "住民",
+          "r": "じゅうみん",
+          "hv": "TRÚ DÂN",
+          "pos": "名",
+          "vi": "cư dân, người dân (sống ở khu vực đó)",
+          "key": true,
+          "ex": {
+            "ja": "{新|あたら}しい{道路|どうろ}の{計画|けいかく}について、{住民|じゅうみん}{説明会|せつめいかい}が{開|ひら}かれた。",
+            "vi": "Buổi giải thích cho cư dân về kế hoạch con đường mới đã được tổ chức."
+          },
+          "col": [
+            "住民団体",
+            "住民票",
+            "地域住民"
+          ]
+        },
+        {
+          "id": "g17-w45",
+          "w": "団体",
+          "r": "だんたい",
+          "hv": "ĐOÀN THỂ",
+          "pos": "名",
+          "vi": "đoàn thể, tổ chức, nhóm (có tổ chức)",
+          "key": true,
+          "ex": {
+            "ja": "{動物|どうぶつ}{保護|ほご}{団体|だんたい}が{捨|す}て{犬|いぬ}の{飼|か}い{主|ぬし}を{探|さが}している。",
+            "vi": "Tổ chức bảo vệ động vật đang tìm chủ nuôi cho những chú chó bị bỏ rơi."
+          },
+          "col": [
+            "住民団体",
+            "市民団体",
+            "団体旅行",
+            "地方公共団体"
+          ]
+        },
+        {
+          "id": "g17-w46",
+          "w": "被害",
+          "r": "ひがい",
+          "hv": "BỊ HẠI",
+          "pos": "名",
+          "vi": "thiệt hại",
+          "ex": {
+            "ja": "{工場|こうじょう}の{騒音|そうおん}による{被害|ひがい}が{続|つづ}いている。",
+            "vi": "Thiệt hại do tiếng ồn từ nhà máy vẫn tiếp diễn."
+          },
+          "col": [
+            "被害を受ける",
+            "被害を訴える",
+            "被害者"
+          ]
+        },
+        {
+          "id": "g17-w47",
+          "w": "訴える",
+          "r": "うったえる",
+          "hv": "TỐ",
+          "pos": "他動",
+          "vi": "kiện; than phiền, kêu (đau); kêu gọi",
+          "key": true,
+          "senses": [
+            {
+              "vi": "kiện (ra toà), tố cáo",
+              "ex": {
+                "ja": "{彼|かれ}は{会社|かいしゃ}を{不当|ふとう}{解雇|かいこ}で{訴|うった}えた。",
+                "vi": "Anh ấy đã kiện công ty vì sa thải trái luật."
+              }
+            },
+            {
+              "vi": "nói ra, than (đau, khó khăn) để người khác biết",
+              "ex": {
+                "ja": "{患者|かんじゃ}は{朝|あさ}から{激|はげ}しい{頭痛|ずつう}を{訴|うった}えている。",
+                "vi": "Bệnh nhân kêu đau đầu dữ dội từ sáng."
+              }
+            },
+            {
+              "vi": "kêu gọi, hướng tới (lý trí, cảm xúc)",
+              "ex": {
+                "ja": "{候補者|こうほしゃ}は{若者|わかもの}に{投票|とうひょう}を{訴|うった}えた。",
+                "vi": "Ứng viên kêu gọi người trẻ đi bỏ phiếu."
+              }
+            }
+          ],
+          "col": [
+            "裁判所に訴える",
+            "被害を訴える",
+            "痛みを訴える",
+            "心に訴える"
+          ]
+        },
+        {
+          "id": "g17-w48",
+          "w": "法廷",
+          "r": "ほうてい",
+          "hv": "PHÁP ĐÌNH",
+          "pos": "名",
+          "vi": "toà án (phòng xử án)",
+          "key": true,
+          "ex": {
+            "ja": "{双方|そうほう}の{主張|しゅちょう}は{法廷|ほうてい}で{真|ま}っ{向|こう}から{対立|たいりつ}した。",
+            "vi": "Lập luận của hai bên đối lập gay gắt tại toà."
+          },
+          "col": [
+            "法廷で争う",
+            "法廷に立つ"
+          ],
+          "rel": "≒ 裁判所 (toà án — cơ quan)"
+        },
+        {
+          "id": "g17-w49",
+          "w": "争う",
+          "r": "あらそう",
+          "hv": "TRANH",
+          "pos": "他動",
+          "vi": "tranh giành, tranh chấp, cạnh tranh",
+          "ex": {
+            "ja": "{二|ふた}つのチームが{優勝|ゆうしょう}を{争|あらそ}っている。",
+            "vi": "Hai đội đang tranh chức vô địch."
+          },
+          "col": [
+            "法廷で争う",
+            "優勝を争う",
+            "一刻を争う"
+          ],
+          "note": "「一刻を争う」 = cực kỳ gấp, từng giây từng phút đều quý."
+        },
+        {
+          "id": "g17-w50",
+          "w": "裁判",
+          "r": "さいばん",
+          "hv": "TÀI PHÁN",
+          "pos": "名・他動",
+          "vi": "xét xử, phiên toà, vụ kiện",
+          "key": true,
+          "ex": {
+            "ja": "{裁判|さいばん}の{結果|けっか}、{被告|ひこく}は{無罪|むざい}となった。",
+            "vi": "Kết quả phiên toà, bị cáo được tuyên vô tội."
+          },
+          "col": [
+            "裁判を起こす",
+            "裁判所",
+            "裁判官",
+            "裁判員"
+          ],
+          "note": "裁 (TÀI, cắt / phân xử) — đừng nhầm với 栽 (trồng, 栽培) và 載 (đăng, 記載)."
+        },
+        {
+          "id": "g17-w51",
+          "w": "証言",
+          "r": "しょうげん",
+          "hv": "CHỨNG NGÔN",
+          "pos": "名・他動",
+          "vi": "làm chứng, lời khai (của nhân chứng)",
+          "key": true,
+          "ex": {
+            "ja": "{目撃者|もくげきしゃ}の{証言|しょうげん}によって、{犯人|はんにん}が{特定|とくてい}された。",
+            "vi": "Nhờ lời khai của nhân chứng mà thủ phạm đã được xác định."
+          },
+          "col": [
+            "裁判で証言する",
+            "証言台",
+            "証人"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "歴史",
+      "title_vi": "Lịch sử",
+      "words": [
+        {
+          "id": "g17-w52",
+          "w": "世紀",
+          "r": "せいき",
+          "hv": "THẾ KỶ",
+          "pos": "名",
+          "vi": "thế kỷ",
+          "ex": {
+            "ja": "この{寺|てら}は{八世紀|はっせいき}に{建|た}てられたと{言|い}われている。",
+            "vi": "Ngôi chùa này được cho là xây vào thế kỷ thứ tám."
+          },
+          "col": [
+            "〜世紀",
+            "半世紀",
+            "世紀末"
+          ],
+          "key": true
+        },
+        {
+          "id": "g17-w53",
+          "w": "国家",
+          "r": "こっか",
+          "hv": "QUỐC GIA",
+          "pos": "名",
+          "vi": "quốc gia, nhà nước",
+          "key": true,
+          "ex": {
+            "ja": "{国家|こっか}{試験|しけん}に{合格|ごうかく}して、{看護師|かんごし}になった。",
+            "vi": "Tôi đã đỗ kỳ thi quốc gia và trở thành điều dưỡng."
+          },
+          "col": [
+            "国家試験",
+            "国家を統一する",
+            "独立国家"
+          ],
+          "note": "Đọc こっか — cùng âm với 国歌 (quốc ca). 国 là từ thường; 国家 nhấn vào **bộ máy nhà nước**."
+        },
+        {
+          "id": "g17-w54",
+          "w": "統一",
+          "r": "とういつ",
+          "hv": "THỐNG NHẤT",
+          "pos": "名・他動",
+          "vi": "thống nhất, gộp làm một; đồng bộ hoá",
+          "key": true,
+          "ex": {
+            "ja": "{資料|しりょう}の{書式|しょしき}を{部署|ぶしょ}ごとにバラバラにせず、{統一|とういつ}しよう。",
+            "vi": "Đừng để định dạng tài liệu mỗi phòng một kiểu, hãy thống nhất lại."
+          },
+          "col": [
+            "国家を統一する",
+            "統一感",
+            "意見を統一する"
+          ],
+          "rel": "≒ まとめる・一つにする"
+        },
+        {
+          "id": "g17-w55",
+          "w": "栄える",
+          "r": "さかえる",
+          "hv": "VINH",
+          "pos": "自動",
+          "vi": "hưng thịnh, phồn vinh, sầm uất",
+          "key": true,
+          "ex": {
+            "ja": "この{港町|みなとまち}は{江戸|えど}{時代|じだい}、{貿易|ぼうえき}で{大|おお}いに{栄|さか}えた。",
+            "vi": "Thị trấn cảng này thời Edo rất phồn vinh nhờ buôn bán."
+          },
+          "rel": "↔ 滅びる・衰える",
+          "note": "Danh từ: 繁栄 (はんえい)."
+        },
+        {
+          "id": "g17-w56",
+          "w": "滅びる",
+          "r": "ほろびる",
+          "hv": "DIỆT",
+          "pos": "自動",
+          "vi": "diệt vong, bị diệt",
+          "key": true,
+          "ex": {
+            "ja": "{恐竜|きょうりゅう}はおよそ{六千六百万年前|ろくせんろっぴゃくまんねんまえ}に{滅|ほろ}びたとされる。",
+            "vi": "Khủng long được cho là đã diệt vong khoảng 66 triệu năm trước."
+          },
+          "col": [
+            "国が滅びる",
+            "滅ぼす (tha động từ)"
+          ],
+          "rel": "↔ 栄える",
+          "note": "Tha động từ: 滅ぼす (tiêu diệt). Đừng nhầm chữ 滅 (diệt) với 減 (giảm)."
+        },
+        {
+          "id": "g17-w57",
+          "w": "独立",
+          "r": "どくりつ",
+          "hv": "ĐỘC LẬP",
+          "pos": "名・自動",
+          "vi": "độc lập; tự lập, ra riêng",
+          "key": true,
+          "ex": {
+            "ja": "{十年|じゅうねん}{修業|しゅぎょう}してから、{独立|どくりつ}して{自分|じぶん}の{店|みせ}を{持|も}った。",
+            "vi": "Sau mười năm học nghề, anh ấy tách ra và mở cửa hàng riêng."
+          },
+          "col": [
+            "〜から独立する",
+            "独立国",
+            "独立心"
+          ],
+          "note": "Dùng cho cả **quốc gia** lẫn **cá nhân** (con cái ra ở riêng, nhân viên ra mở công ty)."
+        },
+        {
+          "id": "g17-w58",
+          "w": "混乱",
+          "r": "こんらん",
+          "hv": "HỖN LOẠN",
+          "pos": "名・自動",
+          "vi": "hỗn loạn, rối ren; rối trí",
+          "key": true,
+          "ex": {
+            "ja": "{急|きゅう}に{予定|よてい}が{変|か}わって、{頭|あたま}が{混乱|こんらん}している。",
+            "vi": "Lịch thay đổi đột ngột nên đầu óc tôi đang rối tung."
+          },
+          "col": [
+            "社会が混乱する",
+            "混乱を招く",
+            "大混乱"
+          ]
+        },
+        {
+          "id": "g17-w59",
+          "w": "革命",
+          "r": "かくめい",
+          "hv": "CÁCH MỆNH",
+          "pos": "名",
+          "vi": "cách mạng",
+          "key": true,
+          "ex": {
+            "ja": "スマートフォンは{人々|ひとびと}の{生活|せいかつ}に{革命|かくめい}を{起|お}こした。",
+            "vi": "Điện thoại thông minh đã tạo ra cuộc cách mạng trong đời sống con người."
+          },
+          "col": [
+            "革命が起きる",
+            "産業革命",
+            "革命的な"
+          ]
+        },
+        {
+          "id": "g17-w60",
+          "w": "植民地",
+          "r": "しょくみんち",
+          "hv": "THỰC DÂN ĐỊA",
+          "pos": "名",
+          "vi": "thuộc địa",
+          "key": true,
+          "ex": {
+            "ja": "その{国|くに}は{長|なが}い{間|あいだ}{植民地|しょくみんち}だったため、{今|いま}も{複数|ふくすう}の{言語|げんご}が{話|はな}されている。",
+            "vi": "Vì từng là thuộc địa trong thời gian dài, đất nước đó đến nay vẫn nói nhiều thứ tiếng."
+          },
+          "note": "植 = trồng, cấy (植える) → \"đất cấy người vào\"."
+        },
+        {
+          "id": "g17-w61",
+          "w": "支配",
+          "r": "しはい",
+          "hv": "CHI PHỐI",
+          "pos": "名・他動",
+          "vi": "cai trị, thống trị; chi phối",
+          "key": true,
+          "ex": {
+            "ja": "{人|ひと}は{時|とき}に{感情|かんじょう}に{支配|しはい}されて{判断|はんだん}を{誤|あやま}る。",
+            "vi": "Con người đôi khi bị cảm xúc chi phối mà phán đoán sai."
+          },
+          "col": [
+            "〜に支配される",
+            "支配者",
+            "支配的な"
+          ],
+          "note": "Nghĩa mạnh: **nắm quyền điều khiển** người/đất/vật khác. Quản lý thông thường (tiền, sổ sách) → 管理."
+        },
+        {
+          "id": "g17-w62",
+          "w": "偉大",
+          "r": "いだい",
+          "hv": "VĨ ĐẠI",
+          "pos": "な形",
+          "vi": "vĩ đại",
+          "key": true,
+          "ex": {
+            "ja": "{病気|びょうき}になって{初|はじ}めて、{母|はは}の{偉大|いだい}さがわかった。",
+            "vi": "Phải đến khi ốm tôi mới hiểu mẹ vĩ đại thế nào."
+          },
+          "col": [
+            "偉大な人物",
+            "偉大な業績"
+          ],
+          "note": "偉 = 偉い (えらい)."
+        },
+        {
+          "id": "g17-w63",
+          "w": "人物",
+          "r": "じんぶつ",
+          "hv": "NHÂN VẬT",
+          "pos": "名",
+          "vi": "nhân vật, con người (về phẩm chất)",
+          "key": true,
+          "ex": {
+            "ja": "{歴史上|れきしじょう}の{人物|じんぶつ}で、{一番|いちばん}{尊敬|そんけい}しているのは{誰|だれ}ですか。",
+            "vi": "Trong các nhân vật lịch sử, bạn kính trọng ai nhất?"
+          },
+          "col": [
+            "歴史上の人物",
+            "危険人物",
+            "登場人物"
+          ]
+        },
+        {
+          "id": "g17-w64",
+          "w": "英雄",
+          "r": "えいゆう",
+          "hv": "ANH HÙNG",
+          "pos": "名",
+          "vi": "anh hùng",
+          "key": true,
+          "ex": {
+            "ja": "{決勝|けっしょう}ゴールを{決|き}めた{選手|せんしゅ}は、{町|まち}の{英雄|えいゆう}になった。",
+            "vi": "Cầu thủ ghi bàn quyết định đã trở thành người hùng của thị trấn."
+          }
+        },
+        {
+          "id": "g17-w65",
+          "w": "現れる",
+          "r": "あらわれる",
+          "hv": "HIỆN",
+          "pos": "自動",
+          "vi": "xuất hiện, hiện ra",
+          "ex": {
+            "ja": "{霧|きり}の{中|なか}から{突然|とつぜん}{大|おお}きな{船|ふね}が{現|あらわ}れた。",
+            "vi": "Từ trong sương mù, một con tàu lớn bất ngờ hiện ra."
+          },
+          "note": "Phân biệt chữ: 現れる (hiện ra, xuất hiện) / 表れる (biểu lộ ra: 気持ちが顔に表れる)."
+        },
+        {
+          "id": "g17-w66",
+          "w": "権力",
+          "r": "けんりょく",
+          "hv": "QUYỀN LỰC",
+          "pos": "名",
+          "vi": "quyền lực",
+          "key": true,
+          "ex": {
+            "ja": "{権力|けんりょく}を{持|も}つ{人|ひと}ほど、{自分|じぶん}に{厳|きび}しくあるべきだ。",
+            "vi": "Người càng có quyền lực càng nên nghiêm khắc với bản thân."
+          },
+          "col": [
+            "権力を握る",
+            "権力者",
+            "権力争い"
+          ],
+          "note": "Khác 権利 (けんり, quyền lợi — ai cũng có)."
+        },
+        {
+          "id": "g17-w67",
+          "w": "握る",
+          "r": "にぎる",
+          "hv": "ÁC",
+          "pos": "他動",
+          "vi": "nắm, cầm chặt; nắm giữ (quyền, bí mật)",
+          "key": true,
+          "ex": {
+            "ja": "{試合|しあい}の{鍵|かぎ}を{握|にぎ}っているのは、{新人|しんじん}の{田中|たなか}{選手|せんしゅ}だ。",
+            "vi": "Người nắm chìa khoá trận đấu là tân binh Tanaka."
+          },
+          "col": [
+            "権力を握る",
+            "鍵を握る",
+            "手を握る",
+            "秘密を握る"
+          ]
+        },
+        {
+          "id": "g17-w68",
+          "w": "貴族",
+          "r": "きぞく",
+          "hv": "QUÝ TỘC",
+          "pos": "名",
+          "vi": "quý tộc",
+          "key": true,
+          "ex": {
+            "ja": "{平安|へいあん}{時代|じだい}には{貴族|きぞく}が{政治|せいじ}の{中心|ちゅうしん}にいた。",
+            "vi": "Thời Heian, quý tộc là trung tâm của chính trị."
+          }
+        },
+        {
+          "id": "g17-w69",
+          "w": "武士",
+          "r": "ぶし",
+          "hv": "VŨ SĨ",
+          "pos": "名",
+          "vi": "võ sĩ (samurai)",
+          "key": true,
+          "ex": {
+            "ja": "{武士|ぶし}の{時代|じだい}は{七百年|ななひゃくねん}ほど{続|つづ}いた。",
+            "vi": "Thời đại võ sĩ kéo dài khoảng 700 năm."
+          },
+          "rel": "≒ 侍 (さむらい)"
+        },
+        {
+          "id": "g17-w70",
+          "w": "天皇",
+          "r": "てんのう",
+          "hv": "THIÊN HOÀNG",
+          "pos": "名",
+          "vi": "Thiên hoàng (Nhật hoàng)",
+          "key": true,
+          "ex": {
+            "ja": "{天皇|てんのう}は{日本|にほん}{国民|こくみん}{統合|とうごう}の{象徴|しょうちょう}とされている。",
+            "vi": "Thiên hoàng được coi là biểu tượng cho sự đoàn kết của nhân dân Nhật Bản."
+          },
+          "note": "Đọc てん**のう** (biến âm đặc biệt: てん + おう → てんのう), không phải てんおう."
+        },
+        {
+          "id": "g17-w71",
+          "w": "新大陸",
+          "r": "しんたいりく",
+          "hv": "TÂN ĐẠI LỤC",
+          "pos": "名",
+          "vi": "tân thế giới, lục địa mới (châu Mỹ)",
+          "key": true,
+          "ex": {
+            "ja": "{新大陸|しんたいりく}の{発見|はっけん}は、ヨーロッパの{歴史|れきし}を{大|おお}きく{変|か}えた。",
+            "vi": "Việc phát hiện ra Tân Thế Giới đã làm thay đổi lớn lịch sử châu Âu."
+          },
+          "note": "大陸 đọc たいりく (không phải だいりく)."
+        },
+        {
+          "id": "g17-w72",
+          "w": "発見",
+          "r": "はっけん",
+          "hv": "PHÁT KIẾN",
+          "pos": "名・他動",
+          "vi": "phát hiện, tìm ra",
+          "ex": {
+            "ja": "{古|ふる}い{井戸|いど}の{底|そこ}から{千年前|せんねんまえ}の{土器|どき}が{発見|はっけん}された。",
+            "vi": "Đồ gốm từ nghìn năm trước được phát hiện dưới đáy một chiếc giếng cổ."
+          },
+          "note": "発見 = tìm thấy thứ **đã có sẵn** nhưng chưa ai biết. Tạo ra cái mới → 発明.",
+          "key": true
+        },
+        {
+          "id": "g17-w73",
+          "w": "庶民",
+          "r": "しょみん",
+          "hv": "THỨ DÂN",
+          "pos": "名",
+          "vi": "dân thường, thường dân",
+          "key": true,
+          "ex": {
+            "ja": "この{店|みせ}は{庶民|しょみん}でも{気軽|きがる}に{入|はい}れる{値段|ねだん}だ。",
+            "vi": "Quán này có giá mà người bình thường cũng thoải mái vào được."
+          },
+          "col": [
+            "庶民の文化",
+            "庶民的な"
+          ],
+          "note": "庶民的 = bình dân, giản dị (庶民的な店). Đọc しょみん, không kéo dài."
+        },
+        {
+          "id": "g17-w74",
+          "w": "文化",
+          "r": "ぶんか",
+          "hv": "VĂN HOÁ",
+          "pos": "名",
+          "vi": "văn hoá",
+          "ex": {
+            "ja": "{留学|りゅうがく}して、{食|しょく}{文化|ぶんか}の{違|ちが}いに{驚|おどろ}いた。",
+            "vi": "Đi du học tôi ngạc nhiên vì khác biệt văn hoá ẩm thực."
+          }
+        },
+        {
+          "id": "g17-w75",
+          "w": "発展",
+          "r": "はってん",
+          "hv": "PHÁT TRIỂN",
+          "pos": "名・自動",
+          "vi": "phát triển (mở rộng, lớn mạnh)",
+          "key": true,
+          "ex": {
+            "ja": "{鉄道|てつどう}が{通|とお}ってから、この{町|まち}は{急速|きゅうそく}に{発展|はってん}した。",
+            "vi": "Từ khi có đường sắt, thị trấn này phát triển nhanh chóng."
+          },
+          "col": [
+            "経済が発展する",
+            "発展途上国",
+            "文化の発展"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "語形成",
+      "title_vi": "Từ ghép, tiền tố, hậu tố",
+      "words": [
+        {
+          "id": "g17-w76",
+          "w": "外務大臣",
+          "r": "がいむだいじん",
+          "hv": "NGOẠI VỤ ĐẠI THẦN",
+          "pos": "名",
+          "vi": "bộ trưởng ngoại giao",
+          "ex": {
+            "ja": "{外務|がいむ}{大臣|だいじん}が{来週|らいしゅう}ヨーロッパを{訪問|ほうもん}する。",
+            "vi": "Bộ trưởng Ngoại giao sẽ thăm châu Âu vào tuần tới."
+          },
+          "rel": "≒ 外相",
+          "key": true
+        },
+        {
+          "id": "g17-w77",
+          "w": "農水相",
+          "r": "のうすいしょう",
+          "hv": "NÔNG THỦY TƯỚNG",
+          "pos": "名",
+          "vi": "bộ trưởng Nông Lâm Thuỷ sản (gọi tắt)",
+          "ex": {
+            "ja": "{農水相|のうすいしょう}は{米|こめ}の{価格|かかく}{対策|たいさく}について{説明|せつめい}した。",
+            "vi": "Bộ trưởng Nông Lâm Thuỷ sản đã giải thích về biện pháp bình ổn giá gạo."
+          },
+          "note": "Tên đầy đủ: 農林水産大臣 → rút gọn 農水相.",
+          "key": true
+        },
+        {
+          "id": "g17-w78",
+          "w": "選挙活動",
+          "r": "せんきょかつどう",
+          "hv": "TUYỂN CỬ HOẠT ĐỘNG",
+          "pos": "名",
+          "vi": "hoạt động tranh cử, vận động bầu cử",
+          "ex": {
+            "ja": "{候補者|こうほしゃ}たちは{朝|あさ}から{選挙|せんきょ}{活動|かつどう}に{走|はし}り{回|まわ}っている。",
+            "vi": "Các ứng viên chạy khắp nơi vận động tranh cử từ sáng."
+          },
+          "key": true
+        },
+        {
+          "id": "g17-w79",
+          "w": "欧州連合",
+          "r": "おうしゅうれんごう",
+          "hv": "ÂU CHÂU LIÊN HỢP",
+          "pos": "名",
+          "vi": "Liên minh châu Âu (EU)",
+          "ex": {
+            "ja": "{欧州|おうしゅう}{連合|れんごう}の{加盟国|かめいこく}の{間|あいだ}では、{同|おな}じ{通貨|つうか}が{使|つか}われている。",
+            "vi": "Giữa các nước thành viên Liên minh châu Âu, cùng một đồng tiền được sử dụng."
+          },
+          "note": "〜連合 = liên minh: 国際連合, 欧州連合. 欧州 = châu Âu (欧 = Âu).",
+          "key": true
+        },
+        {
+          "id": "g17-w80",
+          "w": "外務省",
+          "r": "がいむしょう",
+          "hv": "NGOẠI VỤ TỈNH",
+          "pos": "名",
+          "vi": "Bộ Ngoại giao",
+          "ex": {
+            "ja": "{海外|かいがい}{旅行|りょこう}の{前|まえ}に、{外務省|がいむしょう}の{安全|あんぜん}{情報|じょうほう}を{確認|かくにん}しよう。",
+            "vi": "Trước khi đi du lịch nước ngoài, hãy kiểm tra thông tin an toàn của Bộ Ngoại giao."
+          },
+          "key": true
+        },
+        {
+          "id": "g17-w81",
+          "w": "文部科学省",
+          "r": "もんぶかがくしょう",
+          "hv": "VĂN BỘ KHOA HỌC TỈNH",
+          "pos": "名",
+          "vi": "Bộ Giáo dục, Văn hoá, Thể thao, Khoa học và Công nghệ (MEXT)",
+          "ex": {
+            "ja": "{教科書|きょうかしょ}の{内容|ないよう}は{文部|もんぶ}{科学省|かがくしょう}が{検定|けんてい}している。",
+            "vi": "Nội dung sách giáo khoa do Bộ Giáo dục kiểm định."
+          },
+          "note": "Đọc **もん**ぶ (文 đọc もん như 文句). Gọi tắt: 文科省 (もんかしょう).",
+          "key": true
+        },
+        {
+          "id": "g17-w82",
+          "w": "今年度",
+          "r": "こんねんど",
+          "hv": "KIM NIÊN ĐỘ",
+          "pos": "名",
+          "vi": "năm tài khoá này",
+          "ex": {
+            "ja": "{今年度|こんねんど}の{売|う}り{上|あ}げ{目標|もくひょう}はすでに{達成|たっせい}した。",
+            "vi": "Mục tiêu doanh thu năm tài khoá này đã đạt được rồi."
+          },
+          "note": "Đọc こんねんど (không phải ことしど). 〜年度: 次年度・来年度・前年度・今年度.",
+          "key": true
+        },
+        {
+          "id": "g17-w83",
+          "w": "改正案",
+          "r": "かいせいあん",
+          "hv": "CẢI CHÍNH ÁN",
+          "pos": "名",
+          "vi": "dự thảo sửa đổi",
+          "ex": {
+            "ja": "{法律|ほうりつ}の{改正案|かいせいあん}が{国会|こっかい}に{提出|ていしゅつ}された。",
+            "vi": "Dự thảo sửa đổi luật đã được trình lên Quốc hội."
+          },
+          "key": true
+        },
+        {
+          "id": "g17-w91",
+          "w": "外交政策",
+          "r": "がいこうせいさく",
+          "hv": "NGOẠI GIAO CHÍNH SÁCH",
+          "pos": "名",
+          "vi": "chính sách đối ngoại",
+          "key": true,
+          "ex": {
+            "ja": "{新|あたら}しい{首相|しゅしょう}は、{近隣|きんりん}{諸国|しょこく}との{関係|かんけい}を{重視|じゅうし}する{外交|がいこう}{政策|せいさく}を{打|う}ち{出|だ}した。",
+            "vi": "Tân thủ tướng đưa ra chính sách đối ngoại coi trọng quan hệ với các nước láng giềng."
+          },
+          "note": "〜政策: 外交政策, 経済政策, 少子化政策… (chính sách về lĩnh vực …)."
+        },
+        {
+          "id": "g17-w84",
+          "w": "経済政策",
+          "r": "けいざいせいさく",
+          "hv": "KINH TẾ CHÍNH SÁCH",
+          "pos": "名",
+          "vi": "chính sách kinh tế",
+          "ex": {
+            "ja": "{新政権|しんせいけん}の{経済|けいざい}{政策|せいさく}に{注目|ちゅうもく}が{集|あつ}まっている。",
+            "vi": "Chính sách kinh tế của chính quyền mới đang thu hút sự chú ý."
+          }
+        },
+        {
+          "id": "g17-w85",
+          "w": "地方公共団体",
+          "r": "ちほうこうきょうだんたい",
+          "hv": "ĐỊA PHƯƠNG CÔNG CỘNG ĐOÀN THỂ",
+          "pos": "名",
+          "vi": "chính quyền địa phương (tỉnh, thành phố, thị trấn…)",
+          "ex": {
+            "ja": "{地方|ちほう}{公共|こうきょう}{団体|だんたい}は{住民|じゅうみん}の{生活|せいかつ}に{身近|みぢか}なサービスを{提供|ていきょう}する。",
+            "vi": "Chính quyền địa phương cung cấp các dịch vụ gần gũi với đời sống người dân."
+          },
+          "rel": "≒ 自治体",
+          "key": true
+        },
+        {
+          "id": "g17-w86",
+          "w": "半世紀",
+          "r": "はんせいき",
+          "hv": "BÁN THẾ KỶ",
+          "pos": "名",
+          "vi": "nửa thế kỷ (50 năm)",
+          "ex": {
+            "ja": "この{店|みせ}は{半世紀|はんせいき}{以上|いじょう}{同|おな}じ{味|あじ}を{守|まも}り{続|つづ}けている。",
+            "vi": "Quán này đã giữ nguyên hương vị hơn nửa thế kỷ."
+          }
+        },
+        {
+          "id": "g17-w87",
+          "w": "新時代",
+          "r": "しんじだい",
+          "hv": "TÂN THỜI ĐẠI",
+          "pos": "名",
+          "vi": "thời đại mới",
+          "ex": {
+            "ja": "{電気|でんき}{自動車|じどうしゃ}の{普及|ふきゅう}で、{車|くるま}{社会|しゃかい}は{新時代|しんじだい}を{迎|むか}えた。",
+            "vi": "Với sự phổ biến của ô tô điện, xã hội xe hơi đã bước sang thời đại mới."
+          },
+          "note": "新〜 (しん): 新大陸, 新時代, 新製品, 新記録, 新学期.",
+          "key": true
+        }
+      ]
+    },
+    {
+      "title": "例文の副詞",
+      "title_vi": "Phó từ trong câu ví dụ",
+      "words": [
+        {
+          "id": "g17-w88",
+          "w": "一切",
+          "r": "いっさい",
+          "hv": "NHẤT THIẾT",
+          "pos": "副・名",
+          "vi": "hoàn toàn không (+ phủ định); toàn bộ, tất cả",
+          "key": true,
+          "senses": [
+            {
+              "vi": "(+ phủ định) tuyệt nhiên không, hoàn toàn không",
+              "ex": {
+                "ja": "この{件|けん}について、{会社|かいしゃ}は{一切|いっさい}コメントしていない。",
+                "vi": "Về vụ việc này công ty hoàn toàn không đưa ra bình luận nào."
+              }
+            },
+            {
+              "vi": "(danh từ) toàn bộ, mọi thứ",
+              "ex": {
+                "ja": "{引|ひ}っ{越|こ}しの{準備|じゅんび}は{一切|いっさい}{業者|ぎょうしゃ}に{任|まか}せた。",
+                "vi": "Toàn bộ việc chuẩn bị chuyển nhà tôi giao hết cho công ty dịch vụ."
+              }
+            }
+          ],
+          "rel": "≒ まったく〜ない・全然〜ない",
+          "note": "Đọc いっ**さい** — 切 ở đây đọc さい, khác với 大切 (たい**せつ**). Văn trang trọng, hay gặp trong thông báo: 「返品は一切お受けできません」."
+        },
+        {
+          "id": "g17-w89",
+          "w": "どうせ",
+          "r": "どうせ",
+          "hv": "",
+          "pos": "副",
+          "vi": "đằng nào thì cũng; dù sao (với thái độ buông xuôi, chán nản)",
+          "key": true,
+          "ex": {
+            "ja": "どうせ{何|なに}を{言|い}っても{聞|き}いてくれないんだから、もう{黙|だま}っていよう。",
+            "vi": "Đằng nào nói gì họ cũng chẳng nghe, thôi im lặng cho xong."
+          },
+          "rel": "≒ どっちみち・いずれにしても",
+          "note": "Mang sắc thái **tiêu cực, cam chịu** (\"kết quả đã định sẵn rồi\"). Thể khẳng định tích cực: 「どうせやるなら、楽しくやろう」 (đằng nào cũng làm thì làm cho vui) — vẫn mang ý \"đằng nào cũng vậy\"."
+        },
+        {
+          "id": "g17-w90",
+          "w": "ほぼ",
+          "r": "ほぼ",
+          "hv": "",
+          "pos": "副",
+          "vi": "gần như, hầu như, xấp xỉ",
+          "key": true,
+          "ex": {
+            "ja": "{新|あたら}しい{駅|えき}の{工事|こうじ}はほぼ{終|お}わり、{来月|らいげつ}{開業|かいぎょう}する{予定|よてい}だ。",
+            "vi": "Công trình nhà ga mới gần như đã xong, dự kiến tháng sau đi vào hoạt động."
+          },
+          "rel": "≒ だいたい・ほとんど",
+          "note": "Văn viết hơn だいたい. Đi với con số / mức độ hoàn thành: ほぼ同じ, ほぼ半分, ほぼ完成."
+        }
+      ]
+    }
+  ],
+  "focus": [
+    {
+      "title": "〜大臣・〜相 (người) vs 〜省 (cơ quan); 首相・首脳・大統領",
+      "body": "**Quy tắc vàng**: 相 và 省 đều đọc **しょう**, nên nghe không phân biệt được — phải nhìn nghĩa trong câu.\n- **〜相** = **bộ trưởng** (một con người) — cách gọi tắt của 〜大臣 trên báo: 外相 (= 外務大臣), 財務相, 農水相. Đi với hành động của người: 演説する, 会談する, 発言する.\n- **〜省** = **bộ** (cơ quan): 外務省, 財務省, 文部科学省. Đi với hoạt động của tổ chức: 発表する, 予算案を作成する, 許可を出す.\n- 首相 (しゅしょう) chính là 内閣総理大臣 = thủ tướng.\n\nVí dụ:\n- 「**外相**はアメリカの国務長官と会談した」 (người → hội đàm)\n- 「**外務省**は渡航情報を更新した」 (cơ quan → cập nhật thông tin)\n\n**Ba từ chỉ lãnh đạo**:\n- **首相**: thủ tướng (đứng đầu chính phủ nước có nội các: Nhật, Anh…).\n- **大統領**: tổng thống (Mỹ, Pháp, Hàn…).\n- **首脳**: từ **chung** cho người đứng đầu quốc gia/tổ chức, bất kể chức danh — 首脳会談 = hội nghị thượng đỉnh."
+    },
+    {
+      "title": "Đàm phán ra sao: 交渉・会談・議論・合意",
+      "body": "Đây là **trình tự** của một cuộc thương lượng — nhớ theo thứ tự sẽ không nhầm:\n\n1. **会談 (かいだん)**: các nhân vật quan trọng **gặp mặt và nói chuyện** chính thức. 「首脳が会談する」. Không nhất thiết có điều kiện phải đạt.\n2. **交渉 (こうしょう)**: **thương lượng điều kiện**, mỗi bên muốn có lợi cho mình. 「賃金をめぐって会社と交渉する」. Kết quả: 交渉がまとまる (thành) / 交渉が決裂する (đổ vỡ).\n3. **議論 (ぎろん)**: **tranh luận, đưa lý lẽ** về một vấn đề, có thể nhiều người, không nhất thiết hai phe. 「国会で議論する」「議論が分かれる」.\n4. **合意 (ごうい)**: kết quả — **hai bên thống nhất**. 「合意に達する／至る」「〜に合意する」.\n\nBẫy thường gặp:\n- Một người đồng ý với ý kiến người khác → **賛成・同意**, không dùng 合意: ✗「私は先生の意見に合意した」.\n- 合意 là chuyện giữa các bên **ngang hàng** đã thương lượng, không dùng cho sự cho phép của cha mẹ → **同意・許可**."
+    },
+    {
+      "title": "Sửa đổi: 見直す・改める・改正する・定める",
+      "body": "- **定める (さだめる)**: **đặt ra** lần đầu (luật, quy tắc, mục tiêu). 「法律で定める」.\n- **見直す (みなおす)**: **xem lại** để tìm chỗ cần sửa — nhấn vào quá trình rà soát. 「制度を見直す」「計画の見直し」. ≒ 再検討する.\n- **改める (あらためる)**: **thay đổi cho đúng / tốt hơn** — nhấn vào kết quả là đã khác đi. Dùng cả cho thói quen, thái độ: 「態度を改める」.\n- **改正 (かいせい)**: sửa đổi **luật, quy định chính thức** (văn bản pháp lý). 「憲法を改正する」「改正案」.\n- (Thêm) **訂正 (ていせい)**: sửa **lỗi sai** (chữ, số liệu, phát ngôn). 「誤りを訂正する」.\n\nChuỗi tự nhiên: 法律を**定める** → 数年後に**見直す** → 問題点を**改める** → 国会で法律を**改正する**.\n\nNghĩa thứ hai của 見直す hay ra đề 用法: 「彼を見直した」 = nhìn nhận lại, thấy anh ta tốt hơn mình nghĩ."
+    },
+    {
+      "title": "Ở toà: 訴える・争う・裁判・証言・法廷",
+      "body": "Một vụ kiện diễn ra theo các bước:\n- **訴える**: **khởi kiện** (住民団体が会社を訴える). Lưu ý 訴える còn nghĩa **kêu, than** (痛みを訴える) và **kêu gọi** (平和を訴える) — đề 用法 và 言い換え rất hay hỏi.\n- **裁判 (さいばん)**: phiên xử, vụ kiện. 裁判を起こす (khởi kiện), 裁判所 (toà án — cơ quan), 裁判官 (thẩm phán).\n- **法廷 (ほうてい)**: **phòng xử án** — nơi diễn ra phiên toà. 法廷で**争う** (tranh chấp tại toà).\n- **証言 (しょうげん)**: nhân chứng **khai** những gì mình đã thấy/biết. 「裁判で証言する」. Lời nói thường ngày, bài phát biểu không phải 証言.\n- **被害 (ひがい)**: thiệt hại → 被害を訴える; người bị hại 被害者 ↔ người gây hại 加害者.\n\nBẫy đọc: 証言 しょう**げん** vs 削減 さく**げん**; 裁 (tài) vs 栽 (trồng) vs 載 (đăng)."
+    },
+    {
+      "title": "Lịch sử: thịnh – suy – thống nhất – độc lập",
+      "body": "Các động từ lịch sử đi theo cặp, học theo **vòng đời một đất nước**:\n- 国家が**統一される** (được thống nhất) → 国が**栄える** (hưng thịnh) → 社会が**混乱する** (hỗn loạn) → 国が**滅びる** (diệt vong).\n- 植民地として**支配される** (bị cai trị như thuộc địa) ↔ 本国から**独立する** (giành độc lập).\n- 革命が**起きる／起こる** · 権力を**握る** · 偉大な人物が**現れる** · 新大陸が**発見される** · 庶民の文化が**発展する**.\n\nPhân biệt:\n- **栄える** (tự động từ, hưng thịnh) ↔ **滅びる** (tự) / **滅ぼす** (tha, tiêu diệt).\n- **発見** (tìm ra thứ có sẵn: 新大陸の発見) vs **発明** (tạo ra thứ mới: 電話の発明).\n- **支配** (cai trị, thống trị — quyền lực mạnh) vs **管理** (quản lý thông thường).\n- **独立** dùng cả cho cá nhân: 親から独立する (ra ở riêng), 会社を辞めて独立する (ra làm riêng)."
+    },
+    {
+      "title": "Phó từ: 一切・どうせ・ほぼ",
+      "body": "- **一切 (いっさい)**: \"**tuyệt nhiên không**\" — luôn đi với **phủ định** khi là phó từ. Cứng hơn 全然, hay gặp trong thông báo, phát ngôn chính thức: 「当社は今回の事故とは一切関係ありません」「写真撮影は一切禁止です」. Còn là danh từ \"toàn bộ\": 「一切を任せる」.\n- **どうせ**: \"**đằng nào cũng**…\" — người nói cho rằng kết quả đã định sẵn, nên có giọng **cam chịu, chán nản** hoặc \"thôi thì\". 「どうせ負けるに決まっている」「どうせ行くなら早く行こう」. Thay được bằng どっちみち／いずれにしても.\n- **ほぼ**: \"**gần như**\" — mức độ ~90%. 「ほぼ完成した」「ほぼ同じ大きさ」. Thay được bằng だいたい／ほとんど.\n\nMẹo làm bài: thấy cuối câu **phủ định mạnh** (〜ない、〜ません、禁止) → 一切; thấy giọng **buông xuôi** (〜に決まっている、〜しても無駄) → どうせ; thấy **kết quả gần hoàn tất / số liệu** → ほぼ."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "g17-q1",
+      "kind": "read",
+      "ref": "g17-w25",
+      "q": "{両国|りょうこく}は{三年|さんねん}の{交渉|こうしょう}を{経|へ}て、{平和|へいわ}[[u:条約]]を{結|むす}んだ。",
+      "options": [
+        "じょやく",
+        "じょうやく",
+        "ちょうやく",
+        "じょうよく"
+      ],
+      "answer": 1,
+      "vi": "Sau ba năm đàm phán, hai nước đã ký hiệp ước hoà bình.",
+      "why": "条 đọc **じょう** (âm dài, như 条件 じょうけん), 約 đọc **やく** (約束) → **じょうやく**. じょやく thiếu âm dài; ちょうやく sai phụ âm đầu (ちょう là 長・町); じょうよく sai âm của 約."
+    },
+    {
+      "id": "g17-q2",
+      "kind": "write",
+      "ref": "g17-w38",
+      "q": "{来月|らいげつ}、{新|あたら}しい{市長|しちょう}を{選|えら}ぶ[[u:せんきょ]]が{行|おこな}われる。",
+      "options": [
+        "選拠",
+        "撰挙",
+        "先挙",
+        "選挙"
+      ],
+      "answer": 3,
+      "vi": "Tháng sau sẽ diễn ra cuộc bầu cử chọn thị trưởng mới.",
+      "why": "せんきょ = **選挙** (選 chọn + 挙 nêu lên, như 挙手 giơ tay). 拠 (cứ, 根拠 こんきょ) cùng âm きょ nhưng sai chữ; 撰 là chữ cổ ít dùng; 先 đọc せん nhưng nghĩa \"trước\"."
+    },
+    {
+      "id": "g17-q3",
+      "kind": "context",
+      "ref": "g17-w67",
+      "q": "クーデターによって、{軍|ぐん}が{国|くに}の{権力|けんりょく}を（　　）。",
+      "options": [
+        "握った",
+        "結んだ",
+        "定めた",
+        "訴えた"
+      ],
+      "answer": 0,
+      "vi": "Bằng cuộc đảo chính, quân đội đã nắm quyền lực của đất nước.",
+      "why": "Cụm cố định **権力を握る** (nắm quyền lực). 結ぶ đi với 条約・契約; 定める đi với 法律・規則; 訴える đi với 被害・痛み hoặc người bị kiện — không đi với 権力."
+    },
+    {
+      "id": "g17-q4",
+      "kind": "formation",
+      "ref": "g17-w6",
+      "q": "{財務|ざいむ}（　　）は{今日|きょう}、アメリカの{財務|ざいむ}{長官|ちょうかん}と{電話|でんわ}で{会談|かいだん}した。",
+      "options": [
+        "省",
+        "庁",
+        "相",
+        "局"
+      ],
+      "answer": 2,
+      "vi": "Hôm nay Bộ trưởng Tài chính đã hội đàm qua điện thoại với Bộ trưởng Tài chính Mỹ.",
+      "why": "Người hội đàm qua điện thoại phải là **một con người** → 財務**相** (bộ trưởng tài chính, cách gọi tắt của 財務大臣 trên báo). 財務省 là cơ quan, không thể \"nói điện thoại\" — đây chính là bẫy cùng âm しょう. 庁 (cục: 気象庁) và 局 (vụ, ban) đều là cơ quan."
+    },
+    {
+      "id": "g17-q5",
+      "kind": "paraphrase",
+      "ref": "g17-w11",
+      "q": "{労使|ろうし}の{話|はな}し{合|あ}いは、{深夜|しんや}になってようやく[[u:合意]]に{達|たっ}した。",
+      "options": [
+        "意見が一致した",
+        "意見が対立した",
+        "会議が終わった",
+        "結論を先に延ばした"
+      ],
+      "answer": 0,
+      "vi": "Cuộc thương lượng giữa chủ và người lao động mãi đến khuya mới đạt được thoả thuận.",
+      "why": "合意に達する = hai bên thống nhất ý kiến → **意見が一致した**. 意見が対立した là ngược nghĩa; 会議が終わった — cuộc họp có thể kết thúc mà không thoả thuận; 結論を先に延ばした = hoãn kết luận, cũng ngược nghĩa."
+    },
+    {
+      "id": "g17-q6",
+      "kind": "context",
+      "ref": "g17-w88",
+      "q": "{当店|とうてん}では、{不良品|ふりょうひん}{以外|いがい}の{返品|へんぴん}は（　　）お{受|う}けしておりません。",
+      "options": [
+        "ほぼ",
+        "一切",
+        "どうせ",
+        "ついに"
+      ],
+      "answer": 1,
+      "vi": "Cửa hàng chúng tôi tuyệt đối không nhận trả hàng, ngoại trừ hàng lỗi.",
+      "why": "Thông báo trang trọng + phủ định mạnh (〜ておりません) → **一切**. ほぼ = gần như (không hợp với lời từ chối dứt khoát); どうせ mang giọng chán nản, không dùng trong thông báo; ついに = cuối cùng thì (sau một quá trình)."
+    },
+    {
+      "id": "g17-q7",
+      "kind": "usage",
+      "ref": "g17-w33",
+      "q": "{批判|ひはん}",
+      "options": [
+        "{先生|せんせい}は{私|わたし}の{作文|さくぶん}を[[u:批判]]して、とても{上手|じょうず}だとほめてくれた。",
+        "{夕食|ゆうしょく}のメニューを{家族|かぞく}で[[u:批判]]して{決|き}めた。",
+        "{父|ちち}は{毎朝|まいあさ}{新聞|しんぶん}を[[u:批判]]してから{出勤|しゅっきん}する。",
+        "{野党|やとう}は、{政府|せいふ}の{対応|たいおう}が{遅|おそ}すぎると[[u:批判]]した。"
+      ],
+      "answer": 3,
+      "vi": "(4) Phe đối lập chỉ trích rằng chính phủ phản ứng quá chậm.",
+      "why": "批判 = chỉ ra điểm sai, phê phán → (4) đúng. (1) khen ngợi thì phải là 評価・ほめる, mâu thuẫn với 批判; (2) bàn bạc để quyết định → 相談; (3) đọc báo → 読む. (3) là bẫy vì 批評 (phê bình) có thể dùng với tác phẩm, nhưng đọc báo mỗi sáng thì không."
+    },
+    {
+      "id": "g17-q8",
+      "kind": "context",
+      "ref": "g17-w56",
+      "q": "{栄華|えいが}を{誇|ほこ}ったその{王国|おうこく}も、{内乱|ないらん}が{続|つづ}き、{十二世紀|じゅうにせいき}に（　　）。",
+      "options": [
+        "栄えた",
+        "独立した",
+        "滅びた",
+        "統一された"
+      ],
+      "answer": 2,
+      "vi": "Vương quốc từng huy hoàng ấy cũng vì nội loạn kéo dài mà diệt vong vào thế kỷ 12.",
+      "why": "「〜を誇った…も」 (từng huy hoàng… vậy mà cũng) + 内乱が続き → kết cục xấu → **滅びた**. 栄えた ngược nghĩa với mạch \"も\"; 独立した và 統一された là kết quả tích cực, không hợp với nội loạn kéo dài."
+    },
+    {
+      "id": "g17-q9",
+      "kind": "paraphrase",
+      "ref": "g17-w89",
+      "q": "[[u:どうせ]]{間|ま}に{合|あ}わないのだから、{急|いそ}いでも{仕方|しかた}がない。",
+      "options": [
+        "もしかしたら",
+        "どっちみち",
+        "せっかく",
+        "まさか"
+      ],
+      "answer": 1,
+      "vi": "Đằng nào cũng không kịp, có vội cũng vô ích.",
+      "why": "どうせ = kết quả đã định, làm gì cũng vậy → **どっちみち**. もしかしたら = biết đâu (chỉ khả năng, không chắc); せっかく = đã cất công (tiếc công sức); まさか = lẽ nào (không tin là xảy ra)."
+    }
+  ],
+  "practice": [
+    {
+      "id": "g17-p1",
+      "kind": "read",
+      "ref": "g17-w73",
+      "q": "{江戸|えど}{時代|じだい}の[[u:庶民]]の{暮|く}らしを{紹介|しょうかい}する{展示|てんじ}が{人気|にんき}だ。",
+      "options": [
+        "しょうみん",
+        "じょみん",
+        "しょみん",
+        "しゅみん"
+      ],
+      "answer": 2,
+      "vi": "Triển lãm giới thiệu đời sống thường dân thời Edo đang được ưa chuộng.",
+      "why": "庶 đọc **しょ** (âm ngắn) + 民 **みん** → **しょみん**. しょうみん kéo dài sai; じょみん sai âm đục; しゅみん sai nguyên âm (しゅ là 主・手)."
+    },
+    {
+      "id": "g17-p2",
+      "kind": "read",
+      "ref": "g17-w42",
+      "q": "[[u:憲法]]を{改正|かいせい}するには{国民|こくみん}{投票|とうひょう}が{必要|ひつよう}だ。",
+      "options": [
+        "けんぽう",
+        "けんほう",
+        "けんぼう",
+        "かんぽう"
+      ],
+      "answer": 0,
+      "vi": "Muốn sửa đổi hiến pháp thì cần trưng cầu dân ý.",
+      "why": "憲 けん + 法 ほう → sau ん biến âm thành **ぽう** → **けんぽう** (giống 文法 ぶんぽう). けんほう không biến âm; けんぼう biến âm sai (thành đục); かんぽう là 漢方 (Đông y)."
+    },
+    {
+      "id": "g17-p3",
+      "kind": "write",
+      "ref": "g17-w60",
+      "q": "その{国|くに}は{百年|ひゃくねん}{以上|いじょう}ヨーロッパの[[u:しょくみんち]]だった。",
+      "options": [
+        "職民地",
+        "食民地",
+        "植眠地",
+        "植民地"
+      ],
+      "answer": 3,
+      "vi": "Đất nước đó từng là thuộc địa của châu Âu hơn một trăm năm.",
+      "why": "しょくみんち = **植民地** (植 = trồng, cấy → \"đất cấy dân vào\"). 職 (nghề) và 食 (ăn) cùng âm しょく nhưng sai nghĩa; 眠 (ngủ) chỉ giống nét với 民."
+    },
+    {
+      "id": "g17-p4",
+      "kind": "write",
+      "ref": "g17-w62",
+      "q": "{彼|かれ}は{国|くに}の{歴史|れきし}に{名|な}を{残|のこ}す[[u:いだい]]な{指導者|しどうしゃ}だった。",
+      "options": [
+        "違大",
+        "偉大",
+        "緯大",
+        "衛大"
+      ],
+      "answer": 1,
+      "vi": "Ông ấy là một nhà lãnh đạo vĩ đại để lại tên tuổi trong lịch sử đất nước.",
+      "why": "いだい = **偉大** (偉 = 偉い, vĩ đại). 違 (khác, 違う) và 緯 (vĩ tuyến, 緯度) có cùng phần 韋 nên trông giống và cũng đọc い; 衛 đọc えい (衛生)."
+    },
+    {
+      "id": "g17-p5",
+      "kind": "context",
+      "ref": "g17-w35",
+      "q": "{新|あたら}しい{税制|ぜいせい}をめぐって、{国会|こっかい}で{激|はげ}しい（　　）が{交|か}わされた。",
+      "options": [
+        "演説",
+        "証言",
+        "投票",
+        "議論"
+      ],
+      "answer": 3,
+      "vi": "Xoay quanh chế độ thuế mới, những cuộc tranh luận gay gắt đã diễn ra tại Quốc hội.",
+      "why": "「〜が交わされる」 cần hành động **hai chiều**, và 激しい → **議論** (議論を交わす). 演説 là một người nói trước đám đông, không \"trao đổi\"; 証言 diễn ra ở toà; 投票 không thể \"gay gắt\" hay \"trao đổi\"."
+    },
+    {
+      "id": "g17-p6",
+      "kind": "context",
+      "ref": "g17-w23",
+      "q": "{市|し}は{子育|こそだ}て{支援|しえん}に{積極的|せっきょくてき}に（　　）いる。",
+      "options": [
+        "結んで",
+        "握って",
+        "取り組んで",
+        "定めて"
+      ],
+      "answer": 2,
+      "vi": "Thành phố đang tích cực dồn sức cho việc hỗ trợ nuôi con.",
+      "why": "「〜に積極的に**取り組む**」 = tích cực nỗ lực giải quyết. 結ぶ, 握る, 定める đều là tha động từ cần を và không đi với 〜に + 積極的に theo nghĩa này."
+    },
+    {
+      "id": "g17-p7",
+      "kind": "context",
+      "ref": "g17-w57",
+      "q": "その{島|しま}は{住民|じゅうみん}{投票|とうひょう}の{結果|けっか}、{二十年前|にじゅうねんまえ}に{本国|ほんこく}から（　　）した。",
+      "options": [
+        "独立",
+        "支配",
+        "混乱",
+        "発見"
+      ],
+      "answer": 0,
+      "vi": "Theo kết quả trưng cầu dân ý, hòn đảo đó đã tách ra độc lập khỏi chính quốc từ hai mươi năm trước.",
+      "why": "「〜から**独立**する」 = độc lập khỏi… Trợ từ から chỉ hợp với 独立. 支配する cần を (島を支配する); 混乱する không đi với 本国から; 発見する là tha động từ, và hòn đảo không \"phát hiện\" ra gì."
+    },
+    {
+      "id": "g17-p8",
+      "kind": "paraphrase",
+      "ref": "g17-w29",
+      "q": "{社長|しゃちょう}は、{時代|じだい}に{合|あ}わなくなった{規則|きそく}を[[u:改める]]と{述|の}べた。",
+      "options": [
+        "守る",
+        "変える",
+        "なくす",
+        "説明する"
+      ],
+      "answer": 1,
+      "vi": "Giám đốc tuyên bố sẽ sửa đổi những quy định không còn hợp thời.",
+      "why": "改める = thay đổi cho tốt hơn → **変える**. 守る ngược nghĩa; なくす = bãi bỏ hẳn (改める là sửa, chưa chắc bỏ) — bẫy gần nghĩa; 説明する không liên quan."
+    },
+    {
+      "id": "g17-p9",
+      "kind": "paraphrase",
+      "ref": "g17-w10",
+      "q": "{両国|りょうこく}の{首脳|しゅのう}が{東京|とうきょう}で[[u:会談]]した。",
+      "options": [
+        "競争した",
+        "会って式典に出た",
+        "契約を結んだ",
+        "会って話し合った"
+      ],
+      "answer": 3,
+      "vi": "Lãnh đạo hai nước đã hội đàm tại Tokyo.",
+      "why": "会談 = gặp mặt và trao đổi chính thức → **会って話し合った**. 会って式典に出た thiếu yếu tố \"nói chuyện\"; 契約を結んだ là kết quả có thể có, không phải nghĩa của 会談; 競争した không liên quan."
+    },
+    {
+      "id": "g17-p10",
+      "kind": "formation",
+      "ref": "g17-w79",
+      "q": "フランスやドイツは{欧州|おうしゅう}（　　）の{加盟国|かめいこく}だ。",
+      "options": [
+        "連合",
+        "連盟",
+        "連携",
+        "連絡"
+      ],
+      "answer": 0,
+      "vi": "Pháp và Đức là nước thành viên của Liên minh châu Âu.",
+      "why": "Tên tổ chức cố định: **欧州連合** (EU), giống 国際連合. 連盟 có trong 国際連盟 (Hội Quốc Liên, trước Thế chiến II) nhưng không ghép với 欧州; 連携 = phối hợp; 連絡 = liên lạc — không phải tên tổ chức."
+    },
+    {
+      "id": "g17-p11",
+      "kind": "usage",
+      "ref": "g17-w61",
+      "q": "{支配|しはい}",
+      "options": [
+        "{会議|かいぎ}の{司会|しかい}を[[u:支配]]してもらえませんか。",
+        "{母|はは}が{家計|かけい}を[[u:支配]]していて、{毎月|まいつき}{家計簿|かけいぼ}をつけている。",
+        "その{地域|ちいき}は{長|なが}い{間|あいだ}、{外国|がいこく}の{軍|ぐん}に[[u:支配]]されていた。",
+        "{店長|てんちょう}が{新店|しんてん}の{開店|かいてん}{準備|じゅんび}を[[u:支配]]した。"
+      ],
+      "answer": 2,
+      "vi": "(3) Khu vực đó trong thời gian dài đã bị quân đội nước ngoài cai trị.",
+      "why": "支配 = nắm quyền cai trị, thống trị → (3) đúng. (1) đảm nhận vai trò → 担当・引き受ける; (2) quản lý tiền nhà → 管理 (支配 quá mạnh, nghe như \"thống trị\"); (4) chỉ huy chuẩn bị → 指揮・担当."
+    },
+    {
+      "id": "g17-p12",
+      "kind": "usage",
+      "ref": "g17-w51",
+      "q": "{証言|しょうげん}",
+      "options": [
+        "{彼|かれ}は{友人|ゆうじん}の{結婚式|けっこんしき}で{心|こころ}のこもった[[u:証言]]をした。",
+        "{事故|じこ}を{目撃|もくげき}した{人|ひと}が、{警察|けいさつ}で{当時|とうじ}の{様子|ようす}を[[u:証言]]した。",
+        "{社長|しゃちょう}は{新年|しんねん}の[[u:証言]]で{今年|ことし}の{目標|もくひょう}を{語|かた}った。",
+        "{医者|いしゃ}は{患者|かんじゃ}に{薬|くすり}の{飲|の}み{方|かた}を[[u:証言]]した。"
+      ],
+      "answer": 1,
+      "vi": "(2) Người chứng kiến vụ tai nạn đã khai lại tình hình lúc đó với cảnh sát.",
+      "why": "証言 = nhân chứng kể lại điều mình đã thấy, để làm bằng chứng → (2) đúng. (1) phát biểu chúc mừng → スピーチ; (3) lời chào đầu năm → 挨拶; (4) giải thích cách uống thuốc → 説明."
+    },
+    {
+      "id": "g17-p13",
+      "kind": "context",
+      "ref": "g17-w90",
+      "q": "{工事|こうじ}は{予定|よてい}{通|どお}り{進|すす}み、{新|あたら}しい{橋|はし}は（　　）{完成|かんせい}した。",
+      "options": [
+        "ほぼ",
+        "一切",
+        "どうせ",
+        "決して"
+      ],
+      "answer": 0,
+      "vi": "Công trình tiến triển đúng kế hoạch và cây cầu mới gần như đã hoàn thành.",
+      "why": "Mức độ gần hoàn tất → **ほぼ**完成した. 一切 và 決して cần phủ định ở cuối câu; どうせ mang giọng cam chịu, không hợp với câu tin tức tích cực."
+    }
+  ],
+  "test": [
+    {
+      "id": "g17-t1",
+      "kind": "read",
+      "ref": "g17-w32",
+      "q": "{選挙|せんきょ}の{結果|けっか}、[[u:与党]]が{過半数|かはんすう}を{失|うしな}った。",
+      "options": [
+        "やとう",
+        "ようとう",
+        "よどう",
+        "よとう"
+      ],
+      "answer": 3,
+      "vi": "Kết quả bầu cử, đảng cầm quyền đã mất thế đa số.",
+      "why": "与 **よ** + 党 **とう** → **よとう** (đảng cầm quyền). やとう là 野党 (đảng đối lập) — bẫy đối nghĩa; ようとう kéo dài sai; よどう biến âm đục sai."
+    },
+    {
+      "id": "g17-t2",
+      "kind": "read",
+      "ref": "g17-w58",
+      "q": "{突然|とつぜん}の{停電|ていでん}で、{駅|えき}は{大|だい}[[u:混乱]]した。",
+      "options": [
+        "こんさん",
+        "こんらん",
+        "こうらん",
+        "ごんらん"
+      ],
+      "answer": 1,
+      "vi": "Do mất điện đột ngột, nhà ga rơi vào hỗn loạn nghiêm trọng.",
+      "why": "混 **こん** + 乱 **らん** (乱暴 らんぼう) → **こんらん**. こんさん sai âm của 乱; こうらん sai âm của 混; ごんらん không có biến âm đục ở đầu từ."
+    },
+    {
+      "id": "g17-t3",
+      "kind": "write",
+      "ref": "g17-w9",
+      "q": "{来年|らいねん}の{給料|きゅうりょう}について、{上司|じょうし}と[[u:こうしょう]]した。",
+      "options": [
+        "交渉",
+        "交捗",
+        "効渉",
+        "交歩"
+      ],
+      "answer": 0,
+      "vi": "Tôi đã thương lượng với cấp trên về lương năm sau.",
+      "why": "こうしょう = **交渉** (交 qua lại + 渉 băng qua, liên quan). 捗 (ちょく, 進捗) và 歩 (ほ) trông gần giống 渉; 効 (こう, hiệu quả) cùng âm nhưng sai nghĩa."
+    },
+    {
+      "id": "g17-t4",
+      "kind": "write",
+      "ref": "g17-w50",
+      "q": "その{事件|じけん}の[[u:さいばん]]は{来月|らいげつ}から{始|はじ}まる。",
+      "options": [
+        "栽判",
+        "載判",
+        "裁判",
+        "裁版"
+      ],
+      "answer": 2,
+      "vi": "Phiên toà xét xử vụ án đó sẽ bắt đầu từ tháng sau.",
+      "why": "さいばん = **裁判** (裁 = phân xử, có bộ 衣 áo). 栽 (trồng cây, 栽培) có bộ 木; 載 (đăng tải, 記載) có bộ 車 — ba chữ rất giống nhau; 版 (bản in) đọc はん/ばん nhưng sai nghĩa."
+    },
+    {
+      "id": "g17-t5",
+      "kind": "context",
+      "ref": "g17-w39",
+      "q": "{日本|にほん}では{十八歳|じゅうはっさい}になると、{選挙|せんきょ}で（　　）できるようになる。",
+      "options": [
+        "演説",
+        "投票",
+        "批判",
+        "統一"
+      ],
+      "answer": 1,
+      "vi": "Ở Nhật, đủ 18 tuổi là có thể bỏ phiếu trong các cuộc bầu cử.",
+      "why": "Quyền của cử tri khi đủ tuổi → **投票** (bỏ phiếu). 演説 là việc của ứng viên; 批判 không gắn với độ tuổi; 統一 vô nghĩa trong câu."
+    },
+    {
+      "id": "g17-t6",
+      "kind": "context",
+      "ref": "g17-w41",
+      "q": "{国民|こくみん}の{基本的|きほんてき}な{権利|けんり}と{義務|ぎむ}は、{憲法|けんぽう}で（　　）いる。",
+      "options": [
+        "結ばれて",
+        "握られて",
+        "訴えられて",
+        "定められて"
+      ],
+      "answer": 3,
+      "vi": "Quyền và nghĩa vụ cơ bản của công dân được quy định trong hiến pháp.",
+      "why": "「〜で**定められている**」 = được quy định bởi (luật, hiến pháp). 結ばれる dùng cho 条約・契約; 握られる dùng cho 権力・秘密; 訴えられる = bị kiện — đều không hợp với 権利と義務."
+    },
+    {
+      "id": "g17-t7",
+      "kind": "paraphrase",
+      "ref": "g17-w88",
+      "q": "その{件|けん}について、{私|わたし}は[[u:一切]]{知|し}りません。",
+      "options": [
+        "まったく",
+        "あまり",
+        "たいして",
+        "めったに"
+      ],
+      "answer": 0,
+      "vi": "Về chuyện đó tôi hoàn toàn không biết gì.",
+      "why": "一切〜ない = hoàn toàn không → **まったく**. あまり〜ない = không… lắm; たいして〜ない = không đến mức; めったに〜ない = hiếm khi (tần suất). Ba phương án sau đều là phủ định **một phần**."
+    },
+    {
+      "id": "g17-t8",
+      "kind": "paraphrase",
+      "ref": "g17-w55",
+      "q": "この{町|まち}は{昔|むかし}、{港町|みなとまち}として[[u:栄えた]]。",
+      "options": [
+        "作られた",
+        "有名になった",
+        "にぎわって豊かになった",
+        "人口が減った"
+      ],
+      "answer": 2,
+      "vi": "Thị trấn này ngày xưa từng phồn thịnh với vai trò là thị trấn cảng.",
+      "why": "栄える = sầm uất, phồn vinh → **にぎわって豊かになった**. 有名になった là bẫy: thị trấn thịnh vượng thường nổi tiếng, nhưng nghĩa gốc là giàu có, đông vui; 作られた = được lập ra; 人口が減った là ngược nghĩa (suy tàn)."
+    },
+    {
+      "id": "g17-t9",
+      "kind": "formation",
+      "ref": "g17-w87",
+      "q": "AIの{普及|ふきゅう}によって、{人類|じんるい}は（　　）{時代|じだい}を{迎|むか}えようとしている。",
+      "options": [
+        "真",
+        "親",
+        "進",
+        "新"
+      ],
+      "answer": 3,
+      "vi": "Nhờ sự phổ biến của AI, loài người sắp bước vào một thời đại mới.",
+      "why": "Bốn chữ đều đọc **しん**, chỉ **新時代** (thời đại mới) là từ có nghĩa. 真 = thật (真実); 親 = thân (親友); 進 = tiến (進歩) — không ghép với 時代."
+    },
+    {
+      "id": "g17-t10",
+      "kind": "usage",
+      "ref": "g17-w1",
+      "q": "{演説|えんぜつ}",
+      "options": [
+        "{彼|かれ}は{友達|ともだち}と{電話|でんわ}で{一時間|いちじかん}も[[u:演説]]した。",
+        "{候補者|こうほしゃ}は{駅前|えきまえ}に{集|あつ}まった{人々|ひとびと}に{向|む}かって[[u:演説]]した。",
+        "{授業|じゅぎょう}の{前|まえ}に、{教科書|きょうかしょ}を{声|こえ}に{出|だ}して[[u:演説]]した。",
+        "{学芸会|がくげいかい}の{劇|げき}で、{王様|おうさま}の{役|やく}を[[u:演説]]することになった。"
+      ],
+      "answer": 1,
+      "vi": "(2) Ứng viên đã diễn thuyết trước đám đông tập trung ở trước nhà ga.",
+      "why": "演説 = trình bày quan điểm trước đông người → (2) đúng. (1) nói chuyện điện thoại → 話した・しゃべった; (3) đọc to sách → 音読した; (4) đóng vai → 演じる (cùng chữ 演 nên dễ nhầm)."
+    },
+    {
+      "id": "g17-t11",
+      "kind": "usage",
+      "ref": "g17-w28",
+      "q": "{見直|みなお}す",
+      "options": [
+        "{事故|じこ}が{続|つづ}いたため、{会社|かいしゃ}は{安全|あんぜん}{管理|かんり}の{方法|ほうほう}を[[u:見直す]]ことにした。",
+        "{久|ひさ}しぶりに{会|あ}った{友人|ゆうじん}を、{駅|えき}まで[[u:見直し]]に{行|い}った。",
+        "{山|やま}の{上|うえ}から{町|まち}{全体|ぜんたい}を[[u:見直した]]。",
+        "{夜空|よぞら}を[[u:見直す]]と、たくさんの{星|ほし}が{光|ひか}っていた。"
+      ],
+      "answer": 0,
+      "vi": "(1) Vì tai nạn liên tiếp xảy ra, công ty quyết định xem xét lại phương pháp quản lý an toàn.",
+      "why": "見直す = rà soát lại để cải thiện → (1) đúng. (2) tiễn bạn → 見送り; (3) nhìn bao quát từ trên cao → 見下ろした・見渡した; (4) ngước nhìn → 見上げる. Cả bốn đều là 見〜 nên phải nhớ nghĩa riêng của 直す (sửa)."
+    }
+  ]
+}

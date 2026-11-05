@@ -1,0 +1,216 @@
+{
+  "id": "b43",
+  "track": "bunpo",
+  "intro": "Bài này là phần thứ 4 của chuỗi **\"giữ nguyên điểm nhìn\" (視点を動かさない)**. Trong một đoạn văn tiếng Nhật, người viết luôn đứng ở một chỗ cố định — thường là **chính mình** hoặc **người gần mình nhất** — và mọi hành động \"cho / nhận\" đều được kể **từ chỗ đứng đó**. Ba động từ trợ giúp 〜てあげる・〜てもらう・〜てくれる chính là chiếc la bàn chỉ hướng của hành động.\n\n- **〜てあげる**: phía mình → làm cho người khác.\n- **〜てくれる**: người khác → làm cho phía mình (chủ ngữ là người làm).\n- **〜てもらう**: phía mình **được** người khác làm cho (chủ ngữ là người nhận).\n\nNăm điểm cần nắm:\n1. Chọn **người gần với người viết hơn** làm trung tâm (chủ ngữ của もらう, người nhận của くれる).\n2. Việc có lợi, đáng biết ơn → てもらう／てくれる; việc gây phiền → **bị động (受身)**.\n3. Thêm てくれる／てもらう để cho biết hành động **hướng về mình**, dù câu không ghi 「私に」.\n4. てもらう và てくれる có **chủ ngữ khác nhau**; trong văn chủ ngữ hay bị lược, phải đoán qua trợ từ và mạch văn.\n5. Kết hợp với thể sai khiến: 〜させてもらう／〜させてくれる (được cho phép làm), 聞かせてくれる (kể cho nghe), và 〜てもらえる.\n\nNgười Việt hay gặp khó vì tiếng Việt chỉ có một chữ **\"cho\"** dùng cho mọi hướng (\"anh ấy dạy cho tôi\", \"tôi dạy cho anh ấy\"), và nhiều khi bỏ luôn chữ \"cho\". Tiếng Nhật thì **bắt buộc** phải chọn đúng hướng — chọn sai là câu sai hoặc nghe rất lạnh lùng. Trong đề 問題9 (điền đoạn văn), dạng này xuất hiện rất thường xuyên.",
+  "points": [
+    {
+      "id": "b43-1",
+      "pattern": "視点の置き方 ― 心理的に近い人の側に立つ",
+      "reading": "してんのおきかた",
+      "meaning": "Đặt điểm nhìn ở người gần người viết hơn; chọn あげる／くれる／もらう theo hướng đó",
+      "structure": [
+        "Thang độ gần: 私 ＞ gia đình, bạn bè, người trong nhóm ＞ người cùng địa phương ＞ người xa lạ, người nổi tiếng",
+        "[người gần] は [người xa] に V てもらう",
+        "[người xa] が [người gần] に V てくれる",
+        "[người gần] が [người xa] に V てあげる",
+        "✗ [người xa] は [người gần] に V てあげる"
+      ],
+      "explain": "Khi trong câu có **hai người** (một người làm, một người nhận), người viết phải tự hỏi: **ai gần mình hơn về mặt tâm lý?** Người đó là \"phía mình\", và câu phải được kể **từ phía người đó**.\n\nHãy hình dung một chiếc thang: **tôi ＞ em họ của tôi ＞ thị trưởng thành phố tôi đang sống ＞ tổng thống Mỹ**. Ai đứng cao hơn trên thang thì là \"phía mình\".\n\n- Em họ được thị trưởng giới thiệu việc: em họ gần hơn → ○ 「いとこは市長に仕事を紹介してもらった」 hoặc ○ 「市長がいとこに仕事を紹介してくれた」.\n- ✗ 「市長はいとこに紹介してあげた」: câu này kể từ phía thị trưởng, như thể người viết là người nhà của thị trưởng — điểm nhìn bị đảo ngược.\n\nQuy tắc rút gọn:\n- **てあげる**: người **làm** là phía mình.\n- **てくれる**: người **nhận** là phía mình (người làm là người ngoài).\n- **てもらう**: chủ ngữ = người **nhận** = phía mình.\n\nVì vậy, khi người ngoài làm gì cho người nhà mình, **không bao giờ dùng てあげる** — chỉ dùng てくれる hoặc (người nhà)はてもらう.",
+      "nuance": "- \"Gần\" ở đây là gần **về tâm lý**, không phải về vị trí: người trong công ty mình gần hơn khách hàng, trường mình gần hơn trường khác, địa phương mình gần hơn người nước ngoài.\n- Trong cả đoạn văn, điểm nhìn nên **giữ nguyên** ở một người (thường là người viết). Đổi qua đổi lại sẽ làm đoạn văn rời rạc — đây chính là điều 問題9 kiểm tra.\n- 〜てあげる nói về việc mình làm cho **người trên** nghe như ban ơn → dùng khiêm nhường ngữ (お〜する) hoặc không nói ra.",
+      "examples": [
+        {"ja": "{姉|あね}は{近所|きんじょ}の{人|ひと}に{車|くるま}で{駅|えき}まで{送|おく}ってもらった。", "vi": "Chị tôi được người hàng xóm chở bằng xe hơi ra tận ga.", "note": "姉 (người nhà) gần hơn 近所の人 → 姉 làm chủ ngữ + てもらう"},
+        {"ja": "{近所|きんじょ}の{人|ひと}が{姉|あね}を{車|くるま}で{駅|えき}まで{送|おく}ってくれた。", "vi": "Người hàng xóm đã chở chị tôi ra ga.", "note": "Cùng sự việc, đổi sang くれる: người nhận (姉) là phía mình"},
+        {"ja": "うちの{課長|かちょう}は、{取引先|とりひきさき}の{社長|しゃちょう}に{工場|こうじょう}を{案内|あんない}してもらった。", "vi": "Trưởng phòng công ty tôi đã được giám đốc bên đối tác dẫn đi tham quan nhà máy.", "note": "Người trong công ty mình (うちの課長) gần hơn người công ty khác"},
+        {"ja": "{地元|じもと}の{高校|こうこう}が、{来日|らいにち}した{有名|ゆうめい}な{選手|せんしゅ}に{指導|しどう}してもらったそうだ。", "vi": "Nghe nói trường cấp ba ở quê tôi đã được một vận động viên nổi tiếng sang Nhật huấn luyện cho.", "note": "地元 (quê mình) gần hơn người nổi tiếng nước ngoài"},
+        {"ja": "{私|わたし}は{道|みち}に{迷|まよ}っている{観光客|かんこうきゃく}に{地図|ちず}を{描|か}いてあげた。", "vi": "Tôi đã vẽ bản đồ cho một du khách đang bị lạc đường.", "note": "てあげる: người làm (私) là phía mình"},
+        {"ja": "{有名|ゆうめい}な{作家|さっか}が、{父|ちち}の{本|ほん}にサインを{書|か}いてくれた。", "vi": "Một nhà văn nổi tiếng đã ký tặng vào cuốn sách của bố tôi.", "note": "Người nổi tiếng → người nhà mình: てくれる (không phải てあげる)"}
+      ],
+      "compare": [
+        {"with": "〜ていただく・〜てくださる・〜てさしあげる", "diff": "Là dạng kính ngữ / khiêm nhường của もらう・くれる・あげる. **Hướng** giống hệt, chỉ thêm độ lịch sự. Quy tắc điểm nhìn áp dụng y nguyên: ✗ 「先生は母に教えてさしあげた」."},
+        {"with": "Câu trung tính không có 授受 (市長がいとこに仕事を紹介した)", "diff": "Câu trung tính không sai ngữ pháp, nhưng mất đi điểm nhìn và lòng biết ơn — giống như bản tin khách quan. Trong bài văn kể chuyện của chính mình, người Nhật gần như luôn thêm てくれる／てもらう."}
+      ],
+      "mistakes": [
+        "✗ {有名|ゆうめい}な{作家|さっか}は{父|ちち}にサインを{書|か}いてあげた。→ ○ 有名な作家が父にサインを書いてくれた。／○ 父は有名な作家にサインを書いてもらった。",
+        "✗ {先生|せんせい}は{私|わたし}に{作文|さくぶん}を{直|なお}してもらった。(thầy được tôi sửa?) → ○ 私は先生に作文を直していただいた。／○ 先生が作文を直してくださった。",
+        "✗ {社長|しゃちょう}がうちの{息子|むすこ}に{仕事|しごと}を{紹介|しょうかい}してあげた。→ ○ 紹介してくださった (người nhận là con mình)"
+      ],
+      "tip": "Trong 問題9, trước tiên xác định **\"phía mình\"** là ai (người viết, gia đình, công ty, trường, địa phương của người viết). Rồi: người ngoài là chủ ngữ và người nhận là phía mình → **くれる**; phía mình là chủ ngữ và là người nhận → **もらう**; phía mình làm cho người ngoài → **あげる**."
+    },
+    {
+      "id": "b43-2",
+      "pattern": "「〜てもらう・〜てくれる」と「〜られる(受身)」",
+      "reading": "〜てもらう・〜てくれる と 〜られる(うけみ)",
+      "meaning": "Việc có lợi, vui → てもらう／てくれる; việc gây phiền, khó chịu → bị động",
+      "structure": [
+        "快 (có lợi, biết ơn): A は B に V てもらう／B が A に V てくれる",
+        "不快 (phiền, thiệt): A は B に V られる",
+        "Bị động với tự động từ (chỉ dùng cho phiền): 雨に降られる・赤ちゃんに泣かれる・隣の人に騒がれる"
+      ],
+      "explain": "Cùng một hành động do người khác làm hướng về mình, tiếng Nhật có **hai cách kể** tùy theo **cảm xúc** của người nhận:\n\n- Thấy **vui, có lợi, biết ơn** → 〜てもらう／〜てくれる. 「姉に写真を撮ってもらった」 = nhờ chị chụp ảnh cho (mình thích).\n- Thấy **phiền, bị thiệt, khó chịu** → bị động 〜られる. 「寝ている顔を姉に写真に撮られた」 = bị chị chụp lén lúc đang ngủ (mình không muốn).\n\nĐiểm khác với tiếng Việt: tiếng Việt có cặp **\"được\" / \"bị\"**, nghe rất giống quy tắc này. Nhưng **\"được\" không dịch thành bị động** trong trường hợp ai đó làm ơn cho mình! \"Được bạn giúp chuyển nhà\" → 友達に手伝ってもらった, **không** phải 友達に手伝われた (nghe như bị bạn xen vào việc nhà mình). Hãy nhớ: **\"được ai làm cho\" = てもらう; \"bị ai làm\" = られる**.\n\nCó những bị động **trung tính** (呼ばれる, 選ばれる, 招待される, 褒められる, 発表される) — đó là bị động thường, không mang nghĩa phiền. Bài này chỉ nói đến những hành động mang tính **giúp đỡ / phục vụ** (手伝う, 直す, 掃除する, 教える, 送る…): với các động từ này, dùng bị động gần như luôn có nghĩa **\"tôi không muốn\"**.",
+      "nuance": "- Bị động với **tự động từ** (降る, 泣く, 来る, 死ぬ, 騒ぐ) luôn là bị động gây phiền: 「夜中に客に来られて困った」.\n- Trong văn viết, chữ quanh chỗ trống thường cho biết cảm xúc: 助かった, おかげで, うれしい, ありがたい ↔ 困った, 腹が立った, 〜てしまった, 眠れなかった.",
+      "examples": [
+        {"ja": "{友達|ともだち}に{引|ひ}っ{越|こ}しを{手伝|てつだ}ってもらって、{本当|ほんとう}に{助|たす}かった。", "vi": "Được bạn phụ chuyển nhà, tôi đỡ được rất nhiều.", "note": "快: 助かった"},
+        {"ja": "{留守|るす}の{間|あいだ}に、{母|はは}に{日記|にっき}を{読|よ}まれてしまった。", "vi": "Trong lúc tôi đi vắng, tôi bị mẹ đọc mất cuốn nhật ký.", "note": "不快: bị động + てしまった"},
+        {"ja": "{先輩|せんぱい}に{企画書|きかくしょ}の{間違|まちが}いを{指摘|してき}してもらったおかげで、{会議|かいぎ}で{恥|はじ}をかかずに{済|す}んだ。", "vi": "Nhờ được đàn anh chỉ ra lỗi trong bản kế hoạch, tôi đã không bị bẽ mặt trong cuộc họp.", "note": "快: おかげで"},
+        {"ja": "{会議|かいぎ}の{最中|さいちゅう}に、{部長|ぶちょう}にみんなの{前|まえ}でミスを{指摘|してき}された。", "vi": "Giữa cuộc họp, tôi bị trưởng phòng chỉ ra lỗi trước mặt mọi người.", "note": "Cùng động từ 指摘する, cảm xúc ngược lại → bị động"},
+        {"ja": "{隣|となり}のおばあさんが、{毎朝|まいあさ}うちの{前|まえ}の{道|みち}まで{掃除|そうじ}してくれる。", "vi": "Bà cụ nhà bên mỗi sáng đều quét dọn giúp cả đoạn đường trước nhà tôi.", "note": "快: てくれる"},
+        {"ja": "{夜中|よなか}に{隣|となり}の{犬|いぬ}に{吠|ほ}えられて、{一晩中|ひとばんじゅう}{眠|ねむ}れなかった。", "vi": "Bị con chó nhà bên sủa giữa đêm, tôi mất ngủ cả đêm.", "note": "Bị động của tự động từ 吠える → luôn là phiền"}
+      ],
+      "compare": [
+        {"with": "Bị động trung tính (〜に選ばれる・〜に招待される)", "diff": "「代表に選ばれた」「パーティーに招待された」 không mang nghĩa phiền. Chỉ những hành động **phục vụ / giúp đỡ** mới phải phân biệt てもらう (vui) ↔ 受身 (phiền)."},
+        {"with": "〜させられる (使役受身)", "diff": "「させられる」 = **bị bắt** làm (người nhận tự làm, không muốn). 「られる」 = **bị người khác làm** lên mình. 「掃除させられた」 (bị bắt dọn) ≠ 「掃除された」 (bị người ta dọn mất)."}
+      ],
+      "mistakes": [
+        "✗ {先生|せんせい}に{作文|さくぶん}を{直|なお}されて、とてもうれしかった。→ ○ 先生に作文を直していただいて、… (việc có lợi → ていただく)",
+        "✗ {夜遅|よるおそ}く{友達|ともだち}に{来|き}てもらって、{困|こま}った。→ ○ 友達に来られて困った。",
+        "✗ {友達|ともだち}に{引|ひ}っ{越|こ}しを{手伝|てつだ}われた。(dịch máy từ \"được bạn giúp\") → ○ 手伝ってもらった"
+      ],
+      "tip": "Đọc phần **ngay sau chỗ trống**: có 助かった・おかげで・うれしい・ありがたい → chọn てもらう／てくれる; có 困った・腹が立つ・〜てしまった・眠れない・迷惑 → chọn bị động."
+    },
+    {
+      "id": "b43-3",
+      "pattern": "「〜てくれる・〜てもらう」で動作の相手を表す",
+      "reading": "〜てくれる・〜てもらう で どうさのあいてをあらわす",
+      "meaning": "Thêm てくれる／てもらう để cho biết hành động hướng về mình (\"cho tôi / cho chúng tôi\")",
+      "structure": [
+        "[người khác] が V た N → không rõ làm cho ai (trung tính)",
+        "[người khác] が V てくれた N → làm cho tôi / chúng tôi",
+        "(私が) [người khác] に V てもらった N → tôi được người đó làm cho"
+      ],
+      "explain": "So sánh hai câu:\n- 「田中さんが教えた歌は、アメリカの民謡だそうだ」 — bài hát anh Tanaka **đã dạy (cho ai đó)**. Không biết anh ấy dạy cho ai.\n- 「田中さんが教えてくれた歌は、…」 — bài hát anh Tanaka **dạy cho chúng tôi**.\n\nTiếng Nhật thường **không viết** 「私に」「私たちに」. Thông tin \"cho tôi\" được gói hết vào てくれる／てもらう. Bỏ nó đi thì câu trở thành lời kể khách quan, người đọc không biết hành động có liên quan đến người viết hay không.\n\nTiếng Việt cũng vậy, nhưng nhẹ hơn: \"bức thư Hanako viết\" ↔ \"bức thư Hanako viết cho tôi\". Người Việt hay quên chữ \"cho tôi\" khi nói tiếng Nhật vì trong tiếng Việt bỏ đi vẫn tự nhiên. Trong tiếng Nhật, nhất là trong **thư cảm ơn, bài văn kể về người giúp mình**, thiếu てくれる nghe **lạnh lùng, vô ơn**.",
+      "nuance": "- Câu trung tính (V た N) vẫn đúng ngữ pháp, nên khi làm đề phải dựa vào **mạch văn**: nếu người viết là người hưởng lợi, đáp án là dạng có てくれる.\n- Với người trên, dùng てくださる／ていただく: 「先生が紹介してくださった本」.",
+      "examples": [
+        {"ja": "{祖母|そぼ}が{編|あ}んでくれたセーターを、{今|いま}でも{大切|たいせつ}に{着|き}ている。", "vi": "Chiếc áo len bà đan cho tôi, đến giờ tôi vẫn mặc giữ gìn cẩn thận.", "note": "編んでくれた = đan cho tôi; không cần 「私に」"},
+        {"ja": "{駅員|えきいん}さんが{乗|の}り{換|か}えの{方法|ほうほう}を{丁寧|ていねい}に{説明|せつめい}してくれた。", "vi": "Anh nhân viên nhà ga đã giải thích cho tôi rất cẩn thận cách đổi tàu.", "note": ""},
+        {"ja": "{先生|せんせい}が{紹介|しょうかい}してくださった{本|ほん}を{読|よ}んで、{考|かんが}え{方|かた}が{変|か}わった。", "vi": "Đọc cuốn sách thầy giới thiệu cho, cách suy nghĩ của tôi đã thay đổi.", "note": "Kính ngữ của てくれる"},
+        {"ja": "{彼女|かのじょ}が{送|おく}ってくれた{写真|しゃしん}を{見|み}て、{旅行|りょこう}の{思|おも}い{出|で}がよみがえった。", "vi": "Nhìn những tấm ảnh cô ấy gửi cho, kỷ niệm chuyến đi ùa về.", "note": ""},
+        {"ja": "{差出人|さしだしにん}の{書|か}いていない{手紙|てがみ}が{届|とど}いた。{誰|だれ}が{書|か}いたのだろう。", "vi": "Một lá thư không ghi người gửi được chuyển đến. Không biết ai đã viết nhỉ.", "note": "Không biết người viết → câu trung tính 書いた là hợp"},
+        {"ja": "{皆様|みなさま}に{集|あつ}めていただいた{募金|ぼきん}は、{被災地|ひさいち}の{学校|がっこう}に{送|おく}られました。", "vi": "Số tiền quyên góp mà quý vị đã gom giúp đã được gửi đến các trường học ở vùng bị thiên tai.", "note": "ていただいた: người nói (ban tổ chức) là người nhận ơn"}
+      ],
+      "compare": [
+        {"with": "V た N (trung tính)", "diff": "「田中さんが作った料理」 = món anh Tanaka nấu (khách quan). 「田中さんが作ってくれた料理」 = món anh Tanaka nấu **cho tôi** — có cảm xúc biết ơn, có người nhận."}
+      ],
+      "mistakes": [
+        "✗ (thư cảm ơn) {先日|せんじつ}は{皆様|みなさま}が{開|ひら}いた{送別会|そうべつかい}、ありがとうございました。→ ○ 開いてくださった送別会",
+        "✗ {鈴木|すずき}さんが{貸|か}した{傘|かさ}を{返|かえ}すのを{忘|わす}れていた。(傘 Suzuki cho tôi mượn) → ○ 鈴木さんが貸してくれた傘"
+      ],
+      "tip": "Trong 問題9 có hai phương án chỉ khác nhau ở てくれた và dạng trung tính / dạng ngược hướng: nếu người viết là người được hưởng hành động đó (dù câu không có 「私に」) → chọn **てくれた**."
+    },
+    {
+      "id": "b43-4",
+      "pattern": "「〜てもらう」と「〜てくれる」― 主語の違い",
+      "reading": "〜てもらう と 〜てくれる ― しゅごのちがい",
+      "meaning": "てもらう: chủ ngữ là người nhận; てくれる: chủ ngữ là người làm — nhận ra qua trợ từ và mạch văn",
+      "structure": [
+        "(私は) B に V てもらう — B に = người làm",
+        "B が／は (私に) V てくれる — B が／は = người làm",
+        "V てもらってから〜 / V てもらったら〜 → người làm việc tiếp theo là \"tôi / chúng ta\""
+      ],
+      "explain": "「兄が宿題を手伝ってくれた」 và 「兄に宿題を手伝ってもらった」 **cùng một sự việc**: anh trai giúp tôi làm bài. Khác nhau ở **chủ ngữ**:\n- **てくれる**: chủ ngữ là **người làm** (兄が). Câu kể \"anh trai đã làm gì\".\n- **てもらう**: chủ ngữ là **người nhận** (私は, thường bị lược). Câu kể \"tôi đã nhận được gì\"; người làm đi với **に**.\n\nKhó ở chỗ: trong văn tiếng Nhật **chủ ngữ hay bị lược**. Ví dụ: 「事務室に行けば、書き方を教えてくれます。教えてもらってから書くといいですよ」 — câu 1 chủ ngữ ẩn là *nhân viên văn phòng* (教えてくれる), câu 2 chủ ngữ ẩn là *chúng ta* (教えてもらって, rồi chính chúng ta 書く).\n\nCách đoán khi chủ ngữ bị lược:\n- Có **[người]に** → てもらう. Có **[người]が** → てくれる.\n- Không có tên người: hỏi **\"ai làm hành động tiếp theo trong câu?\"** Nếu là mình (〜てもらってから書く, 〜てもらったら治った) → もらう.",
+      "nuance": "- 〜てもらう còn hàm ý **mình chủ động nhờ** (頼んで〜てもらう). 〜てくれる nhấn vào **thiện ý của người kia** (có khi họ tự làm mà mình không nhờ).\n- Dạng nhờ vả: 〜てもらえませんか (tôi có thể được… không) ／ 〜てくれませんか (anh có thể làm… cho tôi không) — cũng khác chủ ngữ y như vậy.",
+      "examples": [
+        {"ja": "{窓口|まどぐち}で{聞|き}けば、{必要|ひつよう}な{書類|しょるい}を{教|おし}えてくれますよ。", "vi": "Nếu hỏi ở quầy, họ sẽ chỉ cho bạn những giấy tờ cần thiết.", "note": "Chủ ngữ ẩn = nhân viên quầy → くれる"},
+        {"ja": "{窓口|まどぐち}の{人|ひと}に{必要|ひつよう}な{書類|しょるい}を{教|おし}えてもらってから、{申請|しんせい}してください。", "vi": "Hãy nhờ nhân viên quầy chỉ cho các giấy tờ cần thiết rồi hãy nộp đơn.", "note": "〜に + もらって; người 申請する là chính mình"},
+        {"ja": "{兄|あに}が{宿題|しゅくだい}を{手伝|てつだ}ってくれたので、{早|はや}く{終|お}わった。", "vi": "Anh trai giúp tôi làm bài tập nên xong sớm.", "note": "兄が → くれた"},
+        {"ja": "{兄|あに}に{宿題|しゅくだい}を{手伝|てつだ}ってもらったので、{早|はや}く{終|お}わった。", "vi": "Tôi được anh trai giúp làm bài tập nên xong sớm.", "note": "兄に → もらった (cùng nghĩa, đổi trợ từ)"},
+        {"ja": "エアコンの{修理|しゅうり}を{業者|ぎょうしゃ}に{頼|たの}んで、{来週|らいしゅう}{来|き}てもらうことになった。", "vi": "Tôi đã nhờ thợ sửa điều hoà, và họ sẽ đến vào tuần sau.", "note": "頼んで〜てもらう: mình chủ động nhờ"},
+        {"ja": "{医者|いしゃ}に{診|み}てもらったら、ただの{疲|つか}れだと{言|い}われた。", "vi": "Đi khám bác sĩ thì được nói là chỉ do mệt mỏi thôi.", "note": "Chủ ngữ ẩn (私) xuyên suốt câu"}
+      ],
+      "compare": [
+        {"with": "〜ていただく ↔ 〜てくださる", "diff": "Dạng kính ngữ, quan hệ chủ ngữ y như もらう ↔ くれる: 「先生に教えていただいた」 ＝ 「先生が教えてくださった」."},
+        {"with": "〜てもらえませんか ↔ 〜てくれませんか", "diff": "Nghĩa nhờ vả giống nhau. もらえませんか lịch sự hơn một chút vì chủ ngữ là mình (\"tôi có thể được…\")."}
+      ],
+      "mistakes": [
+        "✗ {兄|あに}に{宿題|しゅくだい}を{手伝|てつだ}ってくれた。→ ○ 兄に…手伝ってもらった／○ 兄が…手伝ってくれた",
+        "✗ {田中|たなか}さんが{駅|えき}まで{迎|むか}えに{来|き}てもらった。→ ○ 田中さんが…来てくれた／○ 田中さんに…来てもらった"
+      ],
+      "tip": "Nhìn **trợ từ đứng sau người làm**: 〜に → もらう; 〜が／〜は → くれる. Nếu không có tên người, xem ai làm hành động **phía sau** chỗ trống."
+    },
+    {
+      "id": "b43-5",
+      "pattern": "「〜させてもらう・〜させてくれる」「〜てもらえる」",
+      "reading": "〜させてもらう・〜させてくれる・〜てもらえる",
+      "meaning": "Được (ai) cho phép làm / (ai) cho mình làm; kể cho nghe; có thể được (ai) làm cho",
+      "structure": [
+        "(私は) A に V(さ)せてもらう = tôi được A cho phép làm V",
+        "A が (私に／私を) V(さ)せてくれる = A cho tôi làm V",
+        "聞かせてくれる／見せてくれる = kể cho nghe / cho xem",
+        "V(さ)せていただく = khiêm nhường: tôi xin phép làm",
+        "V てもらえる = có thể được (ai) làm cho"
+      ],
+      "explain": "Ghép thể **sai khiến** (させる = cho phép / để cho) với 授受 thì **người làm hành động là chính mình**, còn người kia chỉ **cho phép**.\n\n- 「父は私を留学させてくれた」 = Bố **cho** tôi đi du học (người đi là tôi).\n- 「店長に早く帰らせてもらった」 = Tôi **được** cửa hàng trưởng cho về sớm (người về là tôi).\n\nSo sánh với dạng thường: 「店長に早く帰ってもらった」 = tôi nhờ **cửa hàng trưởng về sớm** — nghĩa hoàn toàn khác!\n\nCâu hỏi then chốt: **ai là người làm hành động?** Người kia làm → てもらう／てくれる. Mình làm, người kia cho phép → させてもらう／させてくれる.\n\nHai dạng hay gặp trong văn:\n- 「聞かせてくれる」: 聞かせる = cho (ai) nghe → **kể cho nghe**. 「祖父がよく昔の話を聞かせてくれた」. Khác 「話を聞いてくれた」 = lắng nghe mình nói.\n- 「〜てもらえる」 (khả năng của てもらう): \"có thể được người ta làm cho\" → 「お客さんにありがとうと言ってもらえる仕事」 = công việc được khách nói lời cảm ơn.",
+      "nuance": "- 〜させていただく là khiêm nhường ngữ rất hay dùng trong phát biểu, thông báo: 「本日は休業させていただきます」.\n- 〜させられる (bị bắt làm) có hướng cảm xúc ngược lại — xem lại điểm 2.",
+      "examples": [
+        {"ja": "{両親|りょうしん}は、{反対|はんたい}せずに{私|わたし}を{留学|りゅうがく}させてくれた。", "vi": "Bố mẹ đã không phản đối mà cho tôi đi du học.", "note": "Người đi du học là tôi → させてくれた"},
+        {"ja": "{熱|ねつ}があったので、{店長|てんちょう}にお{願|ねが}いして{早|はや}く{帰|かえ}らせてもらった。", "vi": "Vì bị sốt, tôi xin cửa hàng trưởng và được cho về sớm.", "note": "≠ 帰ってもらった (nhờ cửa hàng trưởng về)"},
+        {"ja": "{祖父|そふ}は{夏休|なつやす}みになると、{若|わか}いころの{話|はなし}をよく{聞|き}かせてくれた。", "vi": "Cứ đến kỳ nghỉ hè là ông lại kể cho tôi nghe chuyện thời trẻ.", "note": "聞かせてくれる = kể cho nghe"},
+        {"ja": "この{仕事|しごと}のいいところは、お{客|きゃく}さんに「ありがとう」と{言|い}ってもらえることだ。", "vi": "Điểm hay của công việc này là được khách hàng nói lời cảm ơn.", "note": "てもらえる = có thể được"},
+        {"ja": "{恐|おそ}れ{入|い}りますが、{明日|あした}は{休|やす}ませていただけないでしょうか。", "vi": "Thật ngại quá, ngày mai cho phép tôi nghỉ được không ạ?", "note": "Xin phép lịch sự: させていただけないでしょうか"},
+        {"ja": "{初|はじ}めてのゼミで、{教授|きょうじゅ}が{私|わたし}に{発表|はっぴょう}させてくださった。", "vi": "Ở buổi seminar đầu tiên, giáo sư đã cho tôi được trình bày.", "note": "Kính ngữ của させてくれる"}
+      ],
+      "compare": [
+        {"with": "〜てもらう", "diff": "「てもらう」: **người kia** làm. 「させてもらう」: **mình** làm, người kia cho phép."},
+        {"with": "〜させられる", "diff": "「させてもらう」 = được cho phép (mình muốn). 「させられる」 = bị bắt (mình không muốn). 「毎日残業させられる」 ↔ 「今日は早く帰らせてもらった」."}
+      ],
+      "mistakes": [
+        "✗ (muốn nói được về sớm) {店長|てんちょう}に{早|はや}く{帰|かえ}ってもらった。→ ○ 早く帰らせてもらった",
+        "✗ {父|ちち}は{私|わたし}を{留学|りゅうがく}してくれた。→ ○ 父は私を留学させてくれた",
+        "Lưu ý: 「祖父が話を聞いてくれた」 (ông lắng nghe tôi) ≠ 「祖父が話を聞かせてくれた」 (ông kể cho tôi nghe)."
+      ],
+      "tip": "Trong đề, nếu thấy các phương án kiểu 「答えてくれた／答えさせてくれた」「言ってもらえる／言わせてもらえる」, hãy xác định **ai thực hiện động từ**. Người kia làm → không có させ; mình làm → có させ."
+    }
+  ],
+  "summary": [
+    {"pattern": "視点の置き方", "meaning": "kể từ phía người gần người viết", "key": "người ngoài → phía mình: くれる／(phía mình)はもらう; không dùng あげる"},
+    {"pattern": "てもらう・てくれる ↔ 受身", "meaning": "được (vui) ↔ bị (phiền)", "key": "助かった・おかげで → てもらう; 困った・〜てしまった → られる"},
+    {"pattern": "V てくれた N", "meaning": "N (ai đó) làm cho tôi", "key": "không cần 「私に」; thiếu てくれる → lạnh lùng, không rõ người nhận"},
+    {"pattern": "てもらう ↔ てくれる", "meaning": "khác chủ ngữ", "key": "người làm + に → もらう; người làm + が → くれる"},
+    {"pattern": "させてもらう・させてくれる・てもらえる", "meaning": "được cho phép làm; kể cho nghe; có thể được", "key": "ai thực hiện động từ? mình → させ"}
+  ],
+  "quiz": [
+    {"id": "b43-q1", "kind": "form", "ref": "b43-1", "q": "{有名|ゆうめい}な{料理人|りょうりにん}が、{私|わたし}たちのクラスに{特別|とくべつ}にケーキの{作|つく}り{方|かた}を（　　）。", "options": ["教えてあげた", "教えてもらった", "教えてくれた", "教えられた"], "answer": 2, "vi": "Một đầu bếp nổi tiếng đã đặc biệt dạy cho lớp chúng tôi cách làm bánh.", "why": "Chủ ngữ 料理人が là **người ngoài**, người nhận 私たち là phía mình → **教えてくれた**. 「教えてあげた」 kể từ phía người đầu bếp — sai điểm nhìn. 「教えてもらった」 cần chủ ngữ là người nhận (私たちは料理人に…). 「教えられた」 với chủ ngữ 料理人が nghĩa là \"đầu bếp được dạy\" — sai nghĩa."},
+    {"id": "b43-q2", "kind": "form", "ref": "b43-2", "q": "{満員|まんいん}{電車|でんしゃ}で{知|し}らない{人|ひと}に{足|あし}を（　　）、{一日中|いちにちじゅう}{痛|いた}かった。", "options": ["踏んでもらって", "踏まれて", "踏んでくれて", "踏ませて"], "answer": 1, "vi": "Trên chuyến tàu chật cứng, tôi bị một người lạ giẫm vào chân, đau cả ngày.", "why": "Bị giẫm chân là việc **gây phiền** (đau cả ngày) → bị động **踏まれて**. 「踏んでもらって」「踏んでくれて」 biến việc bị giẫm thành ơn huệ — vô lý. 「踏ませて」 = cho người ta giẫm (sai khiến) — sai nghĩa."},
+    {"id": "b43-q3", "kind": "form", "ref": "b43-3", "q": "「かわいい{人形|にんぎょう}だね。どこで{買|か}ったの？」\n「{買|か}ったんじゃないの。{祖母|そぼ}が{誕生日|たんじょうび}に（　　）んだ。」", "options": ["作ってくれた", "作ってあげた", "作ってもらった", "作られた"], "answer": 0, "vi": "\"Búp bê dễ thương nhỉ. Mua ở đâu thế?\" — \"Không phải mua đâu. Bà làm tặng tớ nhân sinh nhật đấy.\"", "why": "Người làm là bà (祖母が), người nhận là người nói → **作ってくれた**. 「作ってあげた」 = bà làm cho người khác — không hợp với việc người nói đang giữ búp bê. 「作ってもらった」 cần 「祖母に」, không đi với 「祖母が」. 「作られた」 là bị động, chủ ngữ 祖母が không hợp."},
+    {"id": "b43-q4", "kind": "form", "ref": "b43-4", "q": "{引|ひ}っ{越|こ}しの{日|ひ}は、{大学|だいがく}の{友人|ゆうじん}{三人|さんにん}に（　　）ので、{半日|はんにち}で{片付|かたづ}いた。", "options": ["手伝ってくれた", "手伝ってあげた", "手伝われた", "手伝ってもらった"], "answer": 3, "vi": "Hôm chuyển nhà, tôi được ba người bạn đại học giúp nên chỉ nửa ngày là xong.", "why": "Người làm đi với **に** (友人三人に) → chủ ngữ ẩn là \"tôi\" → **手伝ってもらった**. 「手伝ってくれた」 cần 「友人三人が」. 「手伝ってあげた」 sai hướng. 「手伝われた」 là bị động gây phiền, trái với kết quả tốt (半日で片付いた)."},
+    {"id": "b43-q5", "kind": "form", "ref": "b43-5", "q": "{会社|かいしゃ}を{辞|や}めて{大学院|だいがくいん}に{進|すす}みたいと{言|い}ったとき、{両親|りょうしん}は{何|なに}も{言|い}わずに{私|わたし}を（　　）。", "options": ["行かせてくれた", "行ってくれた", "行かせてもらった", "行かされた"], "answer": 0, "vi": "Khi tôi nói muốn nghỉ việc để học cao học, bố mẹ không nói gì mà để tôi đi.", "why": "Người đi học là **tôi**, bố mẹ chỉ cho phép; chủ ngữ là 両親は → **行かせてくれた**. 「行ってくれた」 = bố mẹ đi (thay tôi) — sai nghĩa. 「行かせてもらった」 cần chủ ngữ là tôi (私は両親に…). 「行かされた」 = bị bắt đi — trái với 何も言わずに (không phản đối)."},
+    {"id": "b43-q6", "kind": "usage", "ref": "b43-1", "q": "「〜てあげる・〜てもらう・〜てくれる」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["ノーベル賞を受賞した教授が、うちの弟に数学を教えてあげた。", "隣のおじいさんが、うちの子に竹とんぼの作り方を教えてくれた。", "私は友達に誕生日のプレゼントを買ってくれた。", "母は私の作ったケーキを食べて、「おいしい」と言ってあげた。"], "answer": 1, "vi": "(2) Ông cụ nhà bên đã dạy con tôi cách làm chong chóng tre.", "why": "(2) người ngoài (隣のおじいさん) → con mình: てくれた ○. (1) người ngoài làm cho em trai mình mà dùng てあげた — sai điểm nhìn, phải là 教えてくれた. (3) chủ ngữ 私は + てくれた — sai, phải là 買ってあげた (tôi mua cho bạn) hoặc 友達が買ってくれた. (4) mẹ nói với tôi → 言ってくれた, không phải あげた."}
+  ],
+  "passages": {
+    "p1": {
+      "title": "二本の傘",
+      "kind": "随筆",
+      "ja": "{先月|せんげつ}、{駅|えき}を{出|で}たところで{急|きゅう}に{雨|あめ}が{降|ふ}り{出|だ}した。{傘|かさ}を{持|も}っていなかったわたしが{困|こま}っていると、{隣|となり}にいた{年配|ねんぱい}の{女性|じょせい}が「よかったら{使|つか}ってください」と{言|い}って、{自分|じぶん}の{折|お}りたたみ{傘|がさ}を（　1　）。{返|かえ}さなくていいと{言|い}われたが、{名前|なまえ}も{聞|き}けなかったことがずっと{気|き}になっていた。\n\nところが{先週|せんしゅう}、{同|おな}じ{駅|えき}でその{女性|じょせい}を{見|み}かけた。お{礼|れい}を{言|い}って{傘|かさ}を{返|かえ}そうとすると、{女性|じょせい}は{笑|わら}って「{実|じつ}はあの{傘|かさ}も、{昔|むかし}ある{学生|がくせい}さんに（　2　）ものなんですよ」と{話|はな}してくれた。{何年|なんねん}も{前|まえ}、{雨|あめ}の{中|なか}で{困|こま}っていたときに、{見知|みし}らぬ{学生|がくせい}が{差|さ}し{出|だ}してくれたのだという。\n\nその{話|はなし}を{聞|き}いて、わたしは{少|すこ}し{恥|は}ずかしくなった。これまで{困|こま}っている{人|ひと}を{見|み}ても、{急|きゅう}に{声|こえ}をかけたら{迷惑|めいわく}がられるのではないかと{思|おも}って、{何|なに}もしないことが{多|おお}かったからだ。{実際|じっさい}、{混|こ}んだ{電車|でんしゃ}で{席|せき}を{譲|ゆず}ろうとして、{相手|あいて}に（　3　）{経験|けいけん}もある。\n\nそれでも、あの{日|ひ}わたしが{一本|いっぽん}の{傘|かさ}に{救|すく}われたのは{事実|じじつ}だ。{今|いま}、わたしのかばんには{傘|かさ}が{二本|にほん}{入|はい}っている。いつか{誰|だれ}かに{使|つか}って（　4　）{日|ひ}が{来|く}るかもしれないと{思|おも}うと、{雨|あめ}の{日|ひ}が{少|すこ}し{楽|たの}しみになった。",
+      "vi": "Tháng trước, vừa ra khỏi ga thì trời đột nhiên đổ mưa. Tôi không mang ô và đang lúng túng thì một người phụ nữ lớn tuổi đứng bên cạnh nói \"Nếu được thì cô cứ dùng đi\" rồi cho tôi mượn chiếc ô gấp của bà. Bà bảo không cần trả lại, nhưng tôi cứ day dứt mãi vì đến tên bà cũng chưa kịp hỏi.\n\nVậy mà tuần trước, tôi bắt gặp bà ở chính nhà ga đó. Khi tôi cảm ơn và định trả ô, bà cười và kể: \"Thật ra chiếc ô ấy cũng là thứ ngày xưa tôi được một cậu sinh viên nhường cho đấy.\" Nhiều năm trước, khi bà đang khốn đốn giữa trời mưa, một cậu sinh viên lạ mặt đã đưa ô cho bà.\n\nNghe câu chuyện ấy, tôi thấy hơi xấu hổ. Bởi từ trước đến giờ, dù thấy người gặp khó khăn, tôi thường chẳng làm gì vì nghĩ rằng tự dưng bắt chuyện thì có khi lại bị coi là phiền. Thực tế tôi cũng từng có lần định nhường ghế trên tàu đông người thì bị đối phương nhăn mặt khó chịu.\n\nDù vậy, việc hôm đó tôi được một chiếc ô cứu nguy là sự thật. Giờ trong túi tôi luôn có hai chiếc ô. Nghĩ rằng biết đâu một ngày nào đó sẽ có người dùng đến nó, tôi bỗng thấy những ngày mưa có chút gì đáng mong chờ."
+    },
+    "p2": {
+      "title": "ホストファミリーへの手紙",
+      "kind": "手紙",
+      "ja": "ホワイト{家|け}の{皆様|みなさま}\n\n{寒|さむ}い{日|ひ}が{続|つづ}いていますが、{皆様|みなさま}お{元気|げんき}でいらっしゃいますか。{日本|にほん}に{帰|かえ}ってから、もう{一|いっ}か{月|げつ}が{経|た}ちました。\n\n{滞在中|たいざいちゅう}は{本当|ほんとう}にお{世話|せわ}になりました。{毎朝|まいあさ}お{母|かあ}さんが（　1　）お{弁当|べんとう}は、いつもクラスの{友達|ともだち}にうらやましがられていました。{週末|しゅうまつ}には、わたしからお{願|ねが}いして、お{父|とう}さんの{畑仕事|はたけしごと}を（　2　）。{土|つち}に{触|ふ}れるのは{初|はじ}めてでしたが、{野菜|やさい}を{育|そだ}てる{大変|たいへん}さがよくわかり、{貴重|きちょう}な{経験|けいけん}になりました。\n\n{楽|たの}しいことばかりではありませんでした。ある{夕方|ゆうがた}、{散歩|さんぽ}の{途中|とちゅう}で{大|おお}きな{犬|いぬ}に（　3　）、{怖|こわ}くて{泣|な}いてしまいました。{家|いえ}に{帰|かえ}っても{落|お}ち{込|こ}んでいたわたしに、エマさんが「{明日|あした}は{一緒|いっしょ}に{行|い}こう」と（　4　）{言葉|ことば}は、{今|いま}もよく{覚|おぼ}えています。あの{一言|ひとこと}のおかげで、{次|つぎ}の{日|ひ}も{外|そと}に{出|で}ることができました。\n\n{日本|にほん}の{家族|かぞく}にも、{皆様|みなさま}のことをよく{話|はな}しています。いつか{日本|にほん}へいらっしゃることがあれば、{今度|こんど}はわたしが{町|まち}をご{案内|あんない}したいと{思|おも}います。\n\nどうぞお{体|からだ}に{気|き}をつけてお{過|す}ごしください。\n\n{二月|にがつ}{十日|とおか}\n{佐藤|さとう}{美咲|みさき}",
+      "vi": "Kính gửi gia đình White,\n\nTrời vẫn tiếp tục lạnh, mọi người có khoẻ không ạ? Từ khi về Nhật đến nay đã một tháng rồi.\n\nCảm ơn cả nhà đã chăm sóc con rất chu đáo trong thời gian con ở đó. Hộp cơm trưa mẹ làm cho con mỗi sáng lúc nào cũng khiến bạn bè trong lớp ghen tị. Cuối tuần, chính con xin và được cho phụ bố làm việc ngoài ruộng. Đó là lần đầu con được chạm tay vào đất; con đã hiểu ra trồng rau vất vả thế nào, và đó là một trải nghiệm quý giá.\n\nKhông phải chuyện gì cũng vui. Có một buổi chiều, đang đi dạo thì con bị một con chó to đuổi, sợ quá nên con đã khóc. Về đến nhà con vẫn còn buồn rũ, và câu Emma nói với con: \"Mai mình đi cùng nhau nhé\", đến giờ con vẫn nhớ rõ. Nhờ câu nói ấy mà hôm sau con lại dám ra ngoài.\n\nCon cũng hay kể về mọi người cho gia đình bên Nhật nghe. Nếu một ngày nào đó cả nhà sang Nhật, lần này con muốn được dẫn mọi người đi thăm thành phố.\n\nMong mọi người giữ gìn sức khoẻ.\n\nNgày 10 tháng 2\nSato Misaki"
+    }
+  },
+  "practice": [
+    {"id": "b43-p1", "kind": "passage", "ref": "b43-1", "pass": "p1", "q": "（　1　）に{入|はい}るものはどれか。", "options": ["貸してもらった", "貸された", "貸してくれた", "貸してあげた"], "answer": 2, "vi": "… một người phụ nữ lớn tuổi đứng bên cạnh … rồi cho tôi mượn chiếc ô gấp của bà.", "why": "Chủ ngữ là 女性が (người ngoài), người nhận là người viết → **貸してくれた**. 「貸してもらった」 cần chủ ngữ là người nhận và người cho đi với に (わたしは女性に…). 「貸された」 với chủ ngữ 女性が nghĩa là \"bà ấy được cho mượn\" — ngược nghĩa. 「貸してあげた」 kể từ phía người phụ nữ, như thể người viết là người cho — sai điểm nhìn."},
+    {"id": "b43-p2", "kind": "passage", "ref": "b43-4", "pass": "p1", "q": "（　2　）に{入|はい}るものはどれか。", "options": ["譲ってくれた", "譲ってもらった", "譲ってあげた", "譲らせた"], "answer": 1, "vi": "\"Thật ra chiếc ô ấy cũng là thứ ngày xưa tôi được một cậu sinh viên nhường cho đấy.\"", "why": "Trong lời của bà, người nhận là bà (chủ ngữ ẩn), người cho đi với **に** (学生さんに) → **譲ってもらった**. 「譲ってくれた」 phải đi với 「学生さんが」. 「譲ってあげた」 = bà nhường cho sinh viên — trái với câu sau (sinh viên đưa ô cho bà). 「譲らせた」 = bắt sinh viên nhường — sai nghĩa."},
+    {"id": "b43-p3", "kind": "passage", "ref": "b43-2", "pass": "p1", "q": "（　3　）に{入|はい}るものはどれか。", "options": ["嫌な顔をしてもらった", "嫌な顔をしてくれた", "嫌な顔をさせてもらった", "嫌な顔をされた"], "answer": 3, "vi": "Thực tế tôi cũng từng có lần định nhường ghế trên tàu đông người thì bị đối phương nhăn mặt khó chịu.", "why": "Bị người khác nhăn mặt là việc **khó chịu**, ăn khớp với 「迷惑がられる」 ngay trước → bị động **嫌な顔をされた**. 「してもらった」「してくれた」 biến cái nhăn mặt thành ơn huệ — vô lý. 「させてもらった」 = được cho phép tự mình nhăn mặt — sai nghĩa."},
+    {"id": "b43-p4", "kind": "passage", "ref": "b43-5", "pass": "p1", "q": "（　4　）に{入|はい}るものはどれか。", "options": ["使ってくれる", "使ってあげる", "使わせられる", "使ってもらえる"], "answer": 3, "vi": "Nghĩ rằng biết đâu một ngày nào đó sẽ có người dùng đến nó (tôi có thể đưa cho ai đó dùng), tôi bỗng thấy những ngày mưa đáng mong chờ.", "why": "Chủ ngữ ẩn là người viết, người dùng ô đi với **に** (誰かに) → dạng もらう, ở thể khả năng vì là chuyện \"có thể\" trong tương lai → **使ってもらえる**. 「使ってくれる」 phải đi với 「誰かが」. 「使ってあげる」 = tôi dùng giúp ai đó — vô nghĩa. 「使わせられる」 = bị bắt cho dùng — sai nghĩa và sai cảm xúc."},
+    {"id": "b43-p5", "kind": "form", "ref": "b43-1", "q": "{地元|じもと}のプロ{選手|せんしゅ}が{小学校|しょうがっこう}を{訪|おとず}れ、{息子|むすこ}たちにボールの{蹴|け}り{方|かた}を（　　）そうだ。", "options": ["教えてあげた", "教えてくれた", "教えてもらった", "教わった"], "answer": 1, "vi": "Nghe nói một cầu thủ chuyên nghiệp ở địa phương đã đến trường tiểu học và dạy cho con trai tôi cùng các bạn cách sút bóng.", "why": "Người ngoài (プロ選手) làm cho con mình (息子たち) → **教えてくれた**. 「教えてあげた」 đặt điểm nhìn ở cầu thủ — sai. 「教えてもらった」「教わった」 đều có chủ ngữ là người học, nhưng chủ ngữ ở đây là 選手が."},
+    {"id": "b43-p6", "kind": "form", "ref": "b43-2", "q": "{静|しず}かな{図書館|としょかん}で、{隣|となり}の{席|せき}の{人|ひと}にずっと{独|ひと}り{言|ごと}を（　　）、{勉強|べんきょう}に{集中|しゅうちゅう}できなかった。", "options": ["言ってもらって", "言ってくれて", "言われて", "言わせて"], "answer": 2, "vi": "Trong thư viện yên tĩnh, tôi bị người ngồi bên cạnh lẩm bẩm một mình suốt, không tập trung học được.", "why": "Việc gây phiền (集中できなかった) → bị động **言われて**. 「言ってもらって」「言ってくれて」 là cách nói biết ơn, mâu thuẫn với kết quả xấu. 「言わせて」 = để người ta nói (sai khiến), không hợp."},
+    {"id": "b43-p7", "kind": "form", "ref": "b43-3", "q": "{入院|にゅういん}していたとき、クラスのみんなが（　　）{千羽鶴|せんばづる}を{見|み}て、{思|おも}わず{涙|なみだ}が{出|で}た。", "options": ["折ってあげた", "折ってもらった", "折らせた", "折ってくれた"], "answer": 3, "vi": "Khi nằm viện, nhìn chuỗi nghìn con hạc giấy cả lớp gấp cho mình, tôi bất giác rơi nước mắt.", "why": "Cả lớp (みんなが) gấp hạc **cho người viết** → **折ってくれた**. 「折ってあげた」 = cả lớp gấp cho người khác — mâu thuẫn với việc người viết xúc động. 「折ってもらった」 không đi với 「みんなが」. 「折らせた」 = bắt cả lớp gấp — sai nghĩa."},
+    {"id": "b43-p8", "kind": "form", "ref": "b43-4", "q": "{先週|せんしゅう}パソコンが{動|うご}かなくなったが、{機械|きかい}に{詳|くわ}しい{同僚|どうりょう}に（　　）、すぐに{直|なお}った。", "options": ["見てくれたら", "見てあげたら", "見てもらったら", "見られたら"], "answer": 2, "vi": "Tuần trước máy tính bị đơ, nhưng nhờ đồng nghiệp rành máy móc xem giúp thì sửa được ngay.", "why": "Người làm đi với **に** (同僚に) → **見てもらったら**. 「見てくれたら」 cần 「同僚が」. 「見てあげたら」 sai hướng. 「見られたら」 là bị động (bị nhìn thấy) — không hợp nghĩa \"được xem giúp\"."},
+    {"id": "b43-p9", "kind": "form", "ref": "b43-5", "q": "{朝|あさ}から{熱|ねつ}があったので、{課長|かちょう}にお{願|ねが}いして{午後|ごご}は{早退|そうたい}（　　）。", "options": ["させてもらった", "してもらった", "してくれた", "させられた"], "answer": 0, "vi": "Vì bị sốt từ sáng, tôi xin trưởng phòng và được cho về sớm buổi chiều.", "why": "Người về sớm là **tôi**, trưởng phòng chỉ cho phép → **させてもらった**. 「してもらった」 = nhờ trưởng phòng về sớm — sai nghĩa. 「してくれた」 = trưởng phòng về sớm cho tôi — sai nghĩa. 「させられた」 = bị bắt về sớm — trái với 「お願いして」."},
+    {"id": "b43-p10", "kind": "order", "ref": "b43-4", "q": "「{申込書|もうしこみしょ}の{書|か}き{方|かた}がわからなければ、{受付|うけつけ}の ＿＿＿ ＿＿＿ ★ ＿＿＿ いいですよ。」", "options": ["もらってから", "書けば", "人に", "教えて"], "order": [2, 3, 0, 1], "answer": 0, "vi": "\"Nếu không biết cách điền đơn, bạn cứ nhờ người ở quầy lễ tân chỉ cho rồi hãy viết là được.\"", "why": "受付の **人に 教えて もらってから 書けば** いいですよ → ★ (ô thứ 3) = 「もらってから」. Người làm đi với に → もらう; người viết đơn (書く) là chính người nghe, nên 「もらってから書けば」 nối tự nhiên."},
+    {"id": "b43-p11", "kind": "order", "ref": "b43-3", "q": "{近所|きんじょ}のパン{屋|や}さんは、{閉店|へいてん}{間際|まぎわ}に{行|い}くと ＿＿＿ ＿＿＿ ★ ＿＿＿ 。", "options": ["くれる", "おまけして", "売れ残った", "パンを"], "order": [2, 3, 1, 0], "answer": 1, "vi": "Tiệm bánh mì gần nhà, cứ đến gần giờ đóng cửa là họ cho thêm (tặng kèm) bánh mì còn thừa.", "why": "**売れ残った パンを おまけして くれる** → ★ = 「おまけして」. 「売れ残った」 bổ nghĩa cho 「パン」; 「〜てくれる」 đứng cuối vì người làm là tiệm bánh (người ngoài), người nhận là người viết."},
+    {"id": "b43-p12", "kind": "usage", "ref": "b43-2", "q": "{受身|うけみ}、または「〜てもらう・〜てくれる」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["駅で困っていたら、知らない人に傘を貸されて助かった。", "先輩に何度もレポートを書き直してもらって、本当に迷惑だった。", "夜中に上の階の人に大きな音で音楽をかけられて、眠れなかった。", "友達が引っ越しを手伝ってもらったので、早く終わった。"], "answer": 2, "vi": "(3) Giữa đêm bị người tầng trên mở nhạc to, tôi không ngủ được.", "why": "(3) việc gây phiền → bị động 「かけられて」 ○. (1) được giúp (助かった) mà dùng bị động 「貸されて」 — phải là 貸してもらって. (2) 「てもらって」 là biết ơn nhưng vế sau lại là 「迷惑だった」 — mâu thuẫn; nếu thấy phiền thì 書き直させられて. (4) 「友達が」 + 「てもらった」 sai chủ ngữ — phải là 友達が手伝ってくれた／友達に手伝ってもらった."}
+  ],
+  "test": [
+    {"id": "b43-t1", "kind": "passage", "ref": "b43-3", "pass": "p2", "q": "（　1　）に{入|はい}るものはどれか。", "options": ["作ってくださった", "作っていただいた", "作ってさしあげた", "作らせた"], "answer": 0, "vi": "Hộp cơm trưa mẹ làm cho con mỗi sáng lúc nào cũng khiến bạn bè trong lớp ghen tị.", "why": "Chủ ngữ là お母さんが (người làm), người nhận là người viết → dạng kính ngữ của てくれる: **作ってくださった**. 「作っていただいた」 cần 「お母さんに」, không đi với が. 「作ってさしあげた」 = (mẹ) làm cho người khác — sai hướng. 「作らせた」 = bắt mẹ làm — sai nghĩa và thất lễ."},
+    {"id": "b43-t2", "kind": "passage", "ref": "b43-5", "pass": "p2", "q": "（　2　）に{入|はい}るものはどれか。", "options": ["手伝っていただきました", "手伝ってくださいました", "手伝わせていただきました", "手伝わされました"], "answer": 2, "vi": "Cuối tuần, chính con xin và được cho phụ bố làm việc ngoài ruộng.", "why": "Người phụ việc là **người viết**, bố chỉ cho phép; có 「わたしからお願いして」 → **手伝わせていただきました** (khiêm nhường của させてもらう). 「手伝っていただきました」「手伝ってくださいました」 = bố giúp người viết — nhưng đây là việc ruộng của chính bố, vô lý. 「手伝わされました」 = bị bắt phụ — trái với 「お願いして」 và 「貴重な経験」."},
+    {"id": "b43-t3", "kind": "passage", "ref": "b43-2", "pass": "p2", "q": "（　3　）に{入|はい}るものはどれか。", "options": ["追いかけてもらって", "追いかけてくれて", "追いかけさせて", "追いかけられて"], "answer": 3, "vi": "Có một buổi chiều, đang đi dạo thì con bị một con chó to đuổi, sợ quá nên con đã khóc.", "why": "Bị chó đuổi là việc **đáng sợ, phiền** (怖くて泣いてしまいました) → bị động **追いかけられて**. 「追いかけてもらって」「追いかけてくれて」 là cách nói biết ơn — vô lý. 「追いかけさせて」 = cho chó đuổi (sai khiến) — sai nghĩa."},
+    {"id": "b43-t4", "kind": "passage", "ref": "b43-3", "pass": "p2", "q": "（　4　）に{入|はい}るものはどれか。", "options": ["言ってくれた", "言ってもらった", "言ってあげた", "言わせた"], "answer": 0, "vi": "… câu Emma nói với con: \"Mai mình đi cùng nhau nhé\", đến giờ con vẫn nhớ rõ.", "why": "Chủ ngữ là エマさんが, người nhận là người viết (わたしに) → **言ってくれた**. 「言ってもらった」 không đi với 「エマさんが」. 「言ってあげた」 kể từ phía Emma — sai điểm nhìn (người viết là phía mình). 「言わせた」 = bắt Emma nói — sai nghĩa."},
+    {"id": "b43-t5", "kind": "form", "ref": "b43-1", "q": "わが{社|しゃ}の{新製品|しんせいひん}を、{人気|にんき}タレントがテレビで（　　）おかげで、{注文|ちゅうもん}が{急増|きゅうぞう}した。", "options": ["紹介してあげた", "紹介してもらった", "紹介された", "紹介してくれた"], "answer": 3, "vi": "Nhờ một người nổi tiếng giới thiệu sản phẩm mới của công ty chúng tôi trên tivi, đơn đặt hàng đã tăng vọt.", "why": "Người ngoài (タレントが) làm việc có lợi cho phía mình (わが社) → **紹介してくれた**. 「紹介してあげた」 đặt điểm nhìn ở người nổi tiếng — sai. 「紹介してもらった」 không đi với 「タレントが」. 「紹介された」 với chủ ngữ タレントが và tân ngữ を — sai cấu trúc."},
+    {"id": "b43-t6", "kind": "usage", "ref": "b43-4", "q": "「〜てくれる」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["私は先輩にノートを貸してくれた。", "先週の会議で部長が説明してくれた資料を、もう一度読み返している。", "私は困っている後輩の相談に乗ってくれた。", "店員をいくら呼んでも来てくれたので、腹が立った。"], "answer": 1, "vi": "(2) Tôi đang đọc lại tài liệu mà trưởng phòng đã giải thích cho chúng tôi trong cuộc họp tuần trước.", "why": "(2) trưởng phòng (người làm) giải thích cho phía mình → てくれた ○. (1) chủ ngữ 私は + 先輩に + くれた — sai; phải là 貸してもらった. (3) tôi giúp hậu bối → 乗ってあげた. (4) 「いくら呼んでも」 và 「腹が立った」 đòi hỏi phủ định 来てくれなかった; 「来てくれた」 mâu thuẫn."},
+    {"id": "b43-t7", "kind": "order", "ref": "b43-5", "q": "{祖父|そふ}は、{夏休|なつやす}みに{遊|あそ}びに{行|い}くと ＿＿＿ ＿＿＿ ★ ＿＿＿ 。", "options": ["苦労話を", "くれた", "聞かせて", "若いころの"], "order": [3, 0, 2, 1], "answer": 2, "vi": "Mỗi khi tôi đến chơi vào kỳ nghỉ hè, ông lại kể cho tôi nghe những chuyện vất vả thời trẻ.", "why": "**若いころの 苦労話を 聞かせて くれた** → ★ = 「聞かせて」. 聞かせる = cho nghe → 聞かせてくれる = kể cho (tôi) nghe; 「若いころの」 bổ nghĩa cho 「苦労話」."},
+    {"id": "b43-t8", "kind": "order", "ref": "b43-4", "q": "{先輩|せんぱい}に ＿＿＿ ＿＿＿ ★ ＿＿＿ 、{発表|はっぴょう}はうまくいった。", "options": ["おかげで", "もらった", "資料を", "チェックして"], "order": [2, 3, 1, 0], "answer": 1, "vi": "Nhờ được đàn anh kiểm tra tài liệu giúp nên buổi thuyết trình đã suôn sẻ.", "why": "先輩に **資料を チェックして もらった おかげで** → ★ = 「もらった」. 「先輩に」 (người làm + に) → phải là てもらう, không thể là てくれる; 「おかげで」 nối sau thể た."}
+  ]
+}

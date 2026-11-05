@@ -1,0 +1,2161 @@
+{
+  "id": "g04",
+  "track": "goi",
+  "intro": "Bài 食生活 (ăn uống) gom từ vựng quanh **bữa ăn**: động tác ăn, rượu bia và tiệc, nguyên liệu, vị, món Nhật / món Tây và đi ăn ngoài.\n\nĐiểm then chốt của bài:\n- **Động từ chỉ cách ăn rất cụ thể**: かじる (gặm), しゃぶる (mút), 含む (ngậm), つまむ (nhón), 味わう (thưởng thức). Đề N2 hay hỏi 用法 (chọn câu dùng đúng) với nhóm này — hãy nhớ bằng **hình ảnh động tác**.\n- **Từ chỉ vị và cảm giác**: さっぱり ↔ しつこい・くどい, 塩辛い = しょっぱい, 胃にもたれる (nặng bụng). Nhiều từ có **nghĩa thứ hai về tính cách / lời nói** (しつこい người, くどい lời) — rất hay ra đề.\n- **Tính từ đánh giá**: ぜいたく ↔ 粗末, 貴重, 新鮮, 天然.\n- **Hậu tố**: 〜会 (buổi tiệc), 〜産 (sản xuất tại), 〜料 (chất / nguyên liệu dùng làm…), 〜風 (theo kiểu…).\n- 4 phó từ trong 例文: よほど, 改めて, しきりに, いくら〜ても.\n\nMẹo học: đọc to cả **cụm** (食欲がない, 酔いをさます, 行列に並ぶ, 胃にもたれる) chứ đừng học từ đơn lẻ — đề 文脈規定 gần như luôn kiểm tra từ đi với trợ từ / động từ nào.",
+  "sections": [
+    {
+      "title": "食べる",
+      "title_vi": "Ăn — động tác và cảm giác khi ăn",
+      "words": [
+        {
+          "id": "g04-w1",
+          "w": "飯",
+          "r": "めし",
+          "hv": "PHẠN",
+          "pos": "名",
+          "vi": "cơm; bữa ăn (văn nói, giọng nam, suồng sã)",
+          "key": true,
+          "ex": {
+            "ja": "{腹|はら}が{減|へ}ったなあ。{早|はや}く{飯|めし}にしようぜ。",
+            "vi": "Đói bụng quá. Ăn cơm sớm đi."
+          },
+          "col": [
+            "飯を食う",
+            "昼飯（ひるめし）",
+            "晩飯（ばんめし）",
+            "朝飯前（dễ như ăn cháo）"
+          ],
+          "rel": "≒ ご飯（lịch sự hơn）",
+          "note": "Bản thô của 「ご飯」. Nam giới dùng với bạn bè; trong công việc hay với người trên luôn dùng 「ご飯」「食事」. Thành ngữ 「{朝飯前|あさめしまえ}」 = việc dễ ợt."
+        },
+        {
+          "id": "g04-w2",
+          "w": "食う",
+          "r": "くう",
+          "hv": "THỰC",
+          "pos": "他動",
+          "vi": "ăn (thô); tốn, ngốn (thời gian, nhiên liệu…)",
+          "key": true,
+          "senses": [
+            {
+              "vi": "ăn (văn nói thô, giọng nam)",
+              "ex": {
+                "ja": "{昨日|きのう}は{忙|いそが}しくて、{何|なに}も{食|く}う{暇|ひま}がなかった。",
+                "vi": "Hôm qua bận quá, chẳng có thời gian mà ăn."
+              }
+            },
+            {
+              "vi": "tốn, ngốn (thời gian, xăng, tiền)",
+              "ex": {
+                "ja": "この{車|くるま}は{大|おお}きいから、ガソリンを{食|く}う。",
+                "vi": "Xe này to nên ngốn xăng."
+              }
+            }
+          ],
+          "col": [
+            "飯を食う",
+            "時間を食う",
+            "ガソリンを食う",
+            "虫に食われる（bị muỗi đốt / mọt ăn）"
+          ],
+          "rel": "≒ 食べる",
+          "note": "Nghĩa 2 (tốn) dùng cả trong văn viết trung tính: 「{手間|てま}を{食|く}う」 = tốn công."
+        },
+        {
+          "id": "g04-w3",
+          "w": "かじる",
+          "r": "かじる",
+          "hv": "",
+          "pos": "他動",
+          "vi": "gặm, cắn (bằng răng cửa); học qua loa, biết sơ sơ",
+          "key": true,
+          "senses": [
+            {
+              "vi": "gặm, cắn từng miếng",
+              "ex": {
+                "ja": "{弟|おとうと}は{歩|ある}きながらトーストをかじっている。",
+                "vi": "Thằng em vừa đi vừa gặm bánh mì nướng."
+              }
+            },
+            {
+              "vi": "học / biết qua loa một chút",
+              "ex": {
+                "ja": "{学生|がくせい}のころ、フランス{語|ご}を{少|すこ}しかじったことがある。",
+                "vi": "Hồi sinh viên tôi có học lõm bõm chút tiếng Pháp."
+              }
+            }
+          ],
+          "col": [
+            "リンゴをかじる",
+            "親のすねをかじる（ăn bám bố mẹ）",
+            "少しかじる"
+          ],
+          "note": "Hình ảnh: con sóc gặm hạt — cắn bằng răng cửa, từng miếng nhỏ. Kanji 齧る hầu như không dùng."
+        },
+        {
+          "id": "g04-w4",
+          "w": "含む",
+          "r": "ふくむ",
+          "hv": "HÀM",
+          "pos": "他動",
+          "vi": "ngậm (trong miệng); bao gồm, chứa",
+          "key": true,
+          "senses": [
+            {
+              "vi": "ngậm trong miệng (chưa nuốt)",
+              "ex": {
+                "ja": "{薬|くすり}を{飲|の}むときは、まず{水|みず}を{少|すこ}し{口|くち}に{含|ふく}んでください。",
+                "vi": "Khi uống thuốc, trước tiên hãy ngậm một chút nước trong miệng."
+              }
+            },
+            {
+              "vi": "bao gồm, chứa (thành phần)",
+              "ex": {
+                "ja": "この{料金|りょうきん}には{朝食|ちょうしょく}{代|だい}も{含|ふく}まれています。",
+                "vi": "Giá này đã bao gồm cả tiền bữa sáng."
+              }
+            }
+          ],
+          "col": [
+            "口に含む",
+            "〜を含めて（kể cả）",
+            "ビタミンを多く含む",
+            "税を含む"
+          ],
+          "rel": "≒ 入っている（nghĩa 2）",
+          "note": "Nghĩa 2 chỉ dùng cho **thành phần nằm bên trong** một tổng thể (giá gồm thuế, thực phẩm chứa vitamin). Không dùng cho sức chứa người: ✗ この部屋は50人含む → ○ 50人入る／収容できる."
+        },
+        {
+          "id": "g04-w5",
+          "w": "しゃぶる",
+          "r": "しゃぶる",
+          "hv": "",
+          "pos": "他動",
+          "vi": "mút, ngậm mút (kẹo, ngón tay…)",
+          "key": true,
+          "ex": {
+            "ja": "{赤|あか}ちゃんが{自分|じぶん}の{指|ゆび}をしゃぶりながら{寝|ね}ている。",
+            "vi": "Em bé vừa mút ngón tay vừa ngủ."
+          },
+          "col": [
+            "あめをしゃぶる",
+            "指をしゃぶる",
+            "骨をしゃぶる"
+          ],
+          "rel": "≒ なめる（liếm）",
+          "note": "Khác 「なめる」 (liếm bằng đầu lưỡi): しゃぶる là cho cả vật vào miệng rồi mút. Món lẩu しゃぶしゃぶ không liên quan nghĩa này (là tiếng nhúng thịt)."
+        },
+        {
+          "id": "g04-w6",
+          "w": "味わう",
+          "r": "あじわう",
+          "hv": "VỊ",
+          "pos": "他動",
+          "vi": "thưởng thức (hương vị); nếm trải (cảm xúc, kinh nghiệm)",
+          "key": true,
+          "senses": [
+            {
+              "vi": "thưởng thức món ăn chậm rãi",
+              "ex": {
+                "ja": "せっかくの{料理|りょうり}だから、ゆっくり{味|あじ}わって{食|た}べよう。",
+                "vi": "Món ngon thế này, mình ăn chậm mà thưởng thức nhé."
+              }
+            },
+            {
+              "vi": "nếm trải, trải qua (cảm xúc)",
+              "ex": {
+                "ja": "{初|はじ}めての{海外|かいがい}{生活|せいかつ}で、{孤独|こどく}を{味|あじ}わった。",
+                "vi": "Lần đầu sống ở nước ngoài, tôi đã nếm trải nỗi cô đơn."
+              }
+            }
+          ],
+          "col": [
+            "料理を味わう",
+            "雰囲気を味わう",
+            "喜び／悲しみを味わう",
+            "苦労を味わう"
+          ],
+          "note": "Không chỉ là 「食べる」 mà là **ăn có ý thức để cảm nhận vị**. Nghĩa 2 rất hay gặp trong đề đọc hiểu."
+        },
+        {
+          "id": "g04-w7",
+          "w": "香り",
+          "r": "かおり",
+          "hv": "HƯƠNG",
+          "pos": "名",
+          "vi": "hương thơm, mùi thơm",
+          "key": true,
+          "ex": {
+            "ja": "{朝|あさ}、コーヒーの{香|かお}りで{目|め}が{覚|さ}めた。",
+            "vi": "Buổi sáng tôi thức dậy vì mùi thơm cà phê."
+          },
+          "col": [
+            "香りをかぐ",
+            "香りがする",
+            "香りが漂う",
+            "いい香り"
+          ],
+          "rel": "≒ 匂い（mùi nói chung）↔ 臭い（mùi hôi）",
+          "note": "「香り」 chỉ dùng cho mùi **dễ chịu, thanh** (hoa, trà, cà phê, nước hoa). Mùi khó chịu thì dùng 「{臭|にお}い」. Xem phần Focus."
+        },
+        {
+          "id": "g04-w8",
+          "w": "嗅ぐ",
+          "r": "かぐ",
+          "hv": "KHỨU",
+          "pos": "他動",
+          "vi": "ngửi (chủ động đưa mũi lại ngửi)",
+          "key": true,
+          "ex": {
+            "ja": "{牛乳|ぎゅうにゅう}が{古|ふる}くないか、{匂|にお}いをかいで{確|たし}かめた。",
+            "vi": "Tôi ngửi thử để xem sữa có bị cũ không."
+          },
+          "col": [
+            "匂いをかぐ",
+            "香りをかぐ"
+          ],
+          "note": "Thường viết bằng hiragana 「かぐ」. Đây là hành động **có chủ ý**; còn mùi tự bay tới thì nói 「匂いがする」."
+        },
+        {
+          "id": "g04-w9",
+          "w": "食欲",
+          "r": "しょくよく",
+          "hv": "THỰC DỤC",
+          "pos": "名",
+          "vi": "cảm giác thèm ăn, sự ngon miệng",
+          "key": true,
+          "ex": {
+            "ja": "{風邪|かぜ}をひいて{三日|みっか}ほど{食欲|しょくよく}がなかったが、やっと{戻|もど}ってきた。",
+            "vi": "Bị cảm, mấy ngày liền chẳng muốn ăn gì, giờ mới thấy ngon miệng trở lại."
+          },
+          "col": [
+            "食欲がない／ある",
+            "食欲が出る／わく",
+            "食欲旺盛（おうせい）",
+            "食欲の秋",
+            "食欲をそそる（kích thích vị giác）"
+          ],
+          "note": "Không nói 「食欲が{少|すく}ない」 mà nói 「食欲がない／あまりない」."
+        },
+        {
+          "id": "g04-w10",
+          "w": "湯飲み",
+          "r": "ゆのみ",
+          "hv": "THANG ẨM",
+          "pos": "名",
+          "vi": "chén uống trà (kiểu Nhật, không quai)",
+          "key": true,
+          "ex": {
+            "ja": "{祖父|そふ}は{毎朝|まいあさ}、{大|おお}きな{湯飲|ゆの}みでお{茶|ちゃ}を{飲|の}む。",
+            "vi": "Ông tôi sáng nào cũng uống trà bằng cái chén to."
+          },
+          "col": [
+            "湯飲みでお茶を飲む",
+            "湯飲み茶わん"
+          ],
+          "rel": "↔ カップ・マグカップ（có quai）"
+        },
+        {
+          "id": "g04-w11",
+          "w": "お盆",
+          "r": "おぼん",
+          "hv": "BỒN",
+          "pos": "名",
+          "vi": "cái khay (bưng đồ ăn); lễ Obon (tháng 8)",
+          "key": true,
+          "senses": [
+            {
+              "vi": "cái khay",
+              "ex": {
+                "ja": "{店員|てんいん}がお{盆|ぼん}にグラスを{五|いつ}つ{載|の}せて{運|はこ}んできた。",
+                "vi": "Nhân viên bưng năm cái ly trên khay mang tới."
+              }
+            },
+            {
+              "vi": "lễ Obon — dịp về quê thăm mộ tổ tiên",
+              "ex": {
+                "ja": "お{盆|ぼん}{休|やす}みには{毎年|まいとし}{実家|じっか}に{帰|かえ}る。",
+                "vi": "Kỳ nghỉ Obon năm nào tôi cũng về quê."
+              }
+            }
+          ],
+          "col": [
+            "お盆で運ぶ",
+            "お盆に載せる",
+            "お盆休み"
+          ]
+        },
+        {
+          "id": "g04-w12",
+          "w": "栄養",
+          "r": "えいよう",
+          "hv": "VINH DƯỠNG",
+          "pos": "名",
+          "vi": "dinh dưỡng",
+          "key": true,
+          "ex": {
+            "ja": "{一人|ひとり}{暮|ぐ}らしを{始|はじ}めてから、{栄養|えいよう}が{偏|かたよ}りがちだ。",
+            "vi": "Từ khi sống một mình, chế độ dinh dưỡng của tôi hay bị lệch."
+          },
+          "col": [
+            "栄養を取る",
+            "栄養がある",
+            "栄養が偏る",
+            "栄養バランス",
+            "栄養不足",
+            "栄養士"
+          ],
+          "note": "Động từ đi kèm là 「取る」 (栄養を取る), không phải 「食べる」. Chú ý đọc えいよう (2 âm dài), không phải えよう."
+        },
+        {
+          "id": "g04-w13",
+          "w": "消化",
+          "r": "しょうか",
+          "hv": "TIÊU HOÁ",
+          "pos": "名・他動",
+          "vi": "tiêu hoá; giải quyết hết (lượng việc)",
+          "key": true,
+          "senses": [
+            {
+              "vi": "tiêu hoá thức ăn",
+              "ex": {
+                "ja": "おかゆは{消化|しょうか}がいいので、{病気|びょうき}のときに{向|む}いている。",
+                "vi": "Cháo dễ tiêu nên hợp khi ốm."
+              }
+            },
+            {
+              "vi": "giải quyết hết, hoàn thành (lượng việc, kế hoạch, ngày phép)",
+              "ex": {
+                "ja": "{今月|こんげつ}の{予定|よてい}をなんとか{全部|ぜんぶ}{消化|しょうか}できた。",
+                "vi": "Cuối cùng cũng giải quyết hết lịch trình tháng này."
+              }
+            }
+          ],
+          "col": [
+            "消化がいい／悪い",
+            "消化不良",
+            "消化器",
+            "有給を消化する"
+          ],
+          "note": "Dễ nhầm với đồng âm 「{消火|しょうか}」 (dập lửa): 消**化** = biến đổi (tiêu hoá), 消**火** = lửa (消火器 = bình cứu hoả)."
+        },
+        {
+          "id": "g04-w14",
+          "w": "もたれる",
+          "r": "もたれる",
+          "hv": "",
+          "pos": "自動",
+          "vi": "(thức ăn) nặng bụng, khó tiêu; tựa, dựa vào",
+          "key": true,
+          "senses": [
+            {
+              "vi": "nặng bụng, đầy bụng khó tiêu",
+              "ex": {
+                "ja": "{夜中|よなか}にラーメンを{食|た}べたら、{朝|あさ}まで{胃|い}がもたれていた。",
+                "vi": "Nửa đêm ăn mì xong, đến sáng vẫn thấy nặng bụng."
+              }
+            },
+            {
+              "vi": "tựa, dựa người vào (xem thêm bài 健康)",
+              "ex": {
+                "ja": "{疲|つか}れて{電車|でんしゃ}のドアにもたれて{立|た}っていた。",
+                "vi": "Mệt quá, tôi đứng tựa vào cửa tàu."
+              }
+            }
+          ],
+          "col": [
+            "胃がもたれる",
+            "食事が胃にもたれる",
+            "壁にもたれる"
+          ],
+          "rel": "≒ 寄りかかる（nghĩa 2）",
+          "note": "Hình ảnh chung của hai nghĩa: **có cái gì đó đè nặng lên** — đồ ăn dầu mỡ đè lên dạ dày, người dựa nặng lên tường."
+        }
+      ]
+    },
+    {
+      "title": "お酒",
+      "title_vi": "Rượu bia và tiệc tùng",
+      "words": [
+        {
+          "id": "g04-w15",
+          "w": "宴会",
+          "r": "えんかい",
+          "hv": "YẾN HỘI",
+          "pos": "名",
+          "vi": "tiệc (có rượu, đông người)",
+          "key": true,
+          "ex": {
+            "ja": "{旅館|りょかん}の{広間|ひろま}で、{社員|しゃいん}{旅行|りょこう}の{宴会|えんかい}が{開|ひら}かれた。",
+            "vi": "Buổi tiệc của chuyến du lịch công ty được tổ chức ở sảnh lớn của nhà trọ."
+          },
+          "col": [
+            "宴会を開く",
+            "宴会場",
+            "宴会に出る"
+          ],
+          "rel": "≒ パーティー・飲み会",
+          "note": "「飲み会」 là tiệc nhậu thân mật; 「宴会」 nghe trang trọng hơn, thường có chỗ ngồi, món ăn, phát biểu."
+        },
+        {
+          "id": "g04-w16",
+          "w": "歓迎会",
+          "r": "かんげいかい",
+          "hv": "HOAN NGHÊNH HỘI",
+          "pos": "名",
+          "vi": "tiệc chào mừng (người mới)",
+          "key": true,
+          "ex": {
+            "ja": "{新|あたら}しく{入|はい}った{社員|しゃいん}のために、{来週|らいしゅう}{歓迎会|かんげいかい}をします。",
+            "vi": "Tuần sau sẽ có tiệc chào mừng nhân viên mới."
+          },
+          "col": [
+            "歓迎会を開く",
+            "新入生歓迎会"
+          ],
+          "rel": "↔ 送別会"
+        },
+        {
+          "id": "g04-w17",
+          "w": "送別会",
+          "r": "そうべつかい",
+          "hv": "TỐNG BIỆT HỘI",
+          "pos": "名",
+          "vi": "tiệc chia tay, tiệc tiễn",
+          "key": true,
+          "ex": {
+            "ja": "{転勤|てんきん}する{先輩|せんぱい}の{送別会|そうべつかい}で、みんなで{花束|はなたば}を{渡|わた}した。",
+            "vi": "Tại tiệc chia tay anh tiền bối chuyển công tác, mọi người cùng tặng hoa."
+          },
+          "col": [
+            "送別会を開く"
+          ],
+          "rel": "↔ 歓迎会"
+        },
+        {
+          "id": "g04-w18",
+          "w": "注ぐ",
+          "r": "つぐ",
+          "hv": "CHÚ",
+          "pos": "他動",
+          "vi": "rót (vào ly, chén)",
+          "key": true,
+          "ex": {
+            "ja": "{日本|にほん}の{飲|の}み{会|かい}では、{自分|じぶん}のグラスより{先|さき}に{相手|あいて}のグラスにつぐのが{礼儀|れいぎ}だ。",
+            "vi": "Ở tiệc nhậu Nhật, rót vào ly người khác trước ly mình là phép lịch sự."
+          },
+          "col": [
+            "ビールをつぐ",
+            "お茶をつぐ",
+            "お酌をする（rót rượu mời）"
+          ],
+          "rel": "≒ 入れる",
+          "note": "Sách ghi cạnh nhau 「つぐ・注ぐ(そそぐ)」: cùng chữ 注ぐ nhưng hai cách đọc. つぐ = rót vào ly, chén (văn nói, thường ngày); そそぐ = rót, đổ vào (trang trọng hơn), còn nghĩa chảy vào, dồn sức — xem từ 注ぐ(そそぐ) ngay dưới."
+        },
+        {
+          "id": "g04-w75",
+          "w": "注ぐ",
+          "r": "そそぐ",
+          "hv": "CHÚ",
+          "pos": "他動・自動",
+          "vi": "rót, đổ (chất lỏng) vào; chảy vào (sông → biển); dồn (sức lực, tâm huyết)",
+          "key": true,
+          "ex": {
+            "ja": "{店員|てんいん}はワインをゆっくりとグラスに{注|そそ}いだ。",
+            "vi": "Nhân viên từ từ rót rượu vang vào ly."
+          },
+          "col": [
+            "グラスに注ぐ",
+            "川が海に注ぐ",
+            "力を注ぐ",
+            "愛情を注ぐ"
+          ],
+          "rel": "≒ つぐ (rót — văn nói)",
+          "note": "Khi rót đồ uống, つぐ thông dụng hơn trong hội thoại; そそぐ nghe trang trọng, văn viết. Nghĩa bóng (力を注ぐ = dồn sức vào) chỉ dùng そそぐ."
+        },
+        {
+          "id": "g04-w19",
+          "w": "勧める",
+          "r": "すすめる",
+          "hv": "KHUYẾN",
+          "pos": "他動",
+          "vi": "mời (ăn uống); khuyên, khuyến khích",
+          "key": true,
+          "ex": {
+            "ja": "{医者|いしゃ}に{勧|すす}められて、{毎朝|まいあさ}{三十分|さんじゅっぷん}{歩|ある}くことにした。",
+            "vi": "Được bác sĩ khuyên, tôi quyết định mỗi sáng đi bộ 30 phút."
+          },
+          "col": [
+            "お酒を勧める",
+            "入会を勧める",
+            "勧めに従う"
+          ],
+          "note": "Ba chữ cùng đọc すすめる: 「勧める」 = khuyên / mời làm gì; 「薦める」 = tiến cử, giới thiệu (người, sách, sản phẩm); 「進める」 = xúc tiến, đẩy tới (công việc, kim đồng hồ)."
+        },
+        {
+          "id": "g04-w20",
+          "w": "冷やす",
+          "r": "ひやす",
+          "hv": "LÃNH",
+          "pos": "他動",
+          "vi": "làm lạnh, ướp lạnh",
+          "key": true,
+          "ex": {
+            "ja": "スイカを{井戸|いど}の{水|みず}で{冷|ひ}やしておいた。",
+            "vi": "Tôi đã ngâm dưa hấu vào nước giếng cho mát."
+          },
+          "col": [
+            "ビールを冷やす",
+            "頭を冷やす（bình tĩnh lại）",
+            "肝を冷やす（hết hồn）"
+          ],
+          "rel": "↔ 温める",
+          "note": "Tự động từ là 「冷える」 (bị / trở nên lạnh): ビールが冷えている."
+        },
+        {
+          "id": "g04-w21",
+          "w": "温める",
+          "r": "あたためる",
+          "hv": "ÔN",
+          "pos": "他動",
+          "vi": "hâm nóng, làm ấm",
+          "key": false,
+          "ex": {
+            "ja": "{冬|ふゆ}は{日本酒|にほんしゅ}を{温|あたた}めて{飲|の}むのが{好|す}きだ。",
+            "vi": "Mùa đông tôi thích hâm nóng rượu sake rồi uống."
+          },
+          "rel": "↔ 冷やす",
+          "note": "「温める」 dùng cho đồ ăn, thức uống, cơ thể (スープを温める). Làm ấm không khí, căn phòng thì viết 「暖める」 (部屋を暖める)."
+        },
+        {
+          "id": "g04-w22",
+          "w": "酔う",
+          "r": "よう",
+          "hv": "TUÝ",
+          "pos": "自動",
+          "vi": "say (rượu); say xe, say sóng; say mê",
+          "key": true,
+          "senses": [
+            {
+              "vi": "say rượu",
+              "ex": {
+                "ja": "{彼|かれ}はビール{一杯|いっぱい}で{顔|かお}が{赤|あか}くなるほど{酔|よ}いやすい。",
+                "vi": "Anh ấy dễ say đến mức chỉ một cốc bia là mặt đỏ."
+              }
+            },
+            {
+              "vi": "say tàu xe",
+              "ex": {
+                "ja": "バスの{中|なか}で{本|ほん}を{読|よ}むと{酔|よ}ってしまう。",
+                "vi": "Đọc sách trên xe buýt là tôi bị say xe."
+              }
+            }
+          ],
+          "col": [
+            "お酒に酔う",
+            "車に酔う",
+            "酔いやすい",
+            "自分の言葉に酔う"
+          ]
+        },
+        {
+          "id": "g04-w23",
+          "w": "頭痛",
+          "r": "ずつう",
+          "hv": "ĐẦU THỐNG",
+          "pos": "名",
+          "vi": "đau đầu",
+          "key": true,
+          "ex": {
+            "ja": "{飲|の}みすぎた{翌朝|よくあさ}は、ひどい{頭痛|ずつう}がする。",
+            "vi": "Sáng hôm sau khi uống quá chén là đau đầu kinh khủng."
+          },
+          "col": [
+            "頭痛がする",
+            "頭痛薬",
+            "頭痛の種（mối lo đau đầu）"
+          ],
+          "note": "Đọc là **ず**つう (không phải あたまつう / とうつう). Đi với 「する」: 頭痛がする."
+        },
+        {
+          "id": "g04-w24",
+          "w": "吐き気",
+          "r": "はきけ",
+          "hv": "THỔ KHÍ",
+          "pos": "名",
+          "vi": "cảm giác buồn nôn",
+          "key": true,
+          "ex": {
+            "ja": "{船|ふね}が{揺|ゆ}れて、だんだん{吐|は}き{気|け}がしてきた。",
+            "vi": "Tàu lắc nên tôi bắt đầu thấy buồn nôn."
+          },
+          "col": [
+            "吐き気がする",
+            "吐き気を催す（もよおす）"
+          ],
+          "note": "「気」 ở đây đọc là **け** (như 寒気 さむけ), không đọc き."
+        },
+        {
+          "id": "g04-w25",
+          "w": "吐く",
+          "r": "はく",
+          "hv": "THỔ",
+          "pos": "他動",
+          "vi": "nôn, ói; thở ra; nhổ",
+          "key": true,
+          "senses": [
+            {
+              "vi": "nôn ra",
+              "ex": {
+                "ja": "{子|こ}どもが{夜中|よなか}に{熱|ねつ}を{出|だ}して{吐|は}いてしまった。",
+                "vi": "Đứa nhỏ nửa đêm sốt rồi nôn."
+              }
+            },
+            {
+              "vi": "thở ra",
+              "ex": {
+                "ja": "{大|おお}きく{息|いき}を{吸|す}って、ゆっくり{吐|は}いてください。",
+                "vi": "Hãy hít sâu rồi thở ra từ từ."
+              }
+            }
+          ],
+          "col": [
+            "息を吐く",
+            "弱音を吐く（than vãn, kêu khổ）",
+            "つばを吐く"
+          ]
+        },
+        {
+          "id": "g04-w26",
+          "w": "めまい",
+          "r": "めまい",
+          "hv": "",
+          "pos": "名",
+          "vi": "chóng mặt, hoa mắt",
+          "key": true,
+          "ex": {
+            "ja": "{急|きゅう}に{立|た}ち{上|あ}がったら、めまいがしてふらふらした。",
+            "vi": "Đứng bật dậy cái là chóng mặt, loạng choạng."
+          },
+          "col": [
+            "めまいがする",
+            "めまいを起こす"
+          ],
+          "note": "Kanji 目眩・眩暈 ít dùng. Đi với 「がする」 giống 頭痛・吐き気."
+        },
+        {
+          "id": "g04-w27",
+          "w": "意識",
+          "r": "いしき",
+          "hv": "Ý THỨC",
+          "pos": "名・他動",
+          "vi": "ý thức, sự tỉnh táo; để ý, ý thức về",
+          "key": true,
+          "senses": [
+            {
+              "vi": "tri giác, sự tỉnh táo",
+              "ex": {
+                "ja": "{事故|じこ}にあった{男性|だんせい}は、{病院|びょういん}で{意識|いしき}を{取|と}り{戻|もど}した。",
+                "vi": "Người đàn ông gặp tai nạn đã tỉnh lại ở bệnh viện."
+              }
+            },
+            {
+              "vi": "ý thức về, để ý tới (する)",
+              "ex": {
+                "ja": "{最近|さいきん}は{健康|けんこう}を{意識|いしき}して{野菜|やさい}を{多|おお}めに{食|た}べている。",
+                "vi": "Dạo này tôi có ý thức về sức khoẻ nên ăn nhiều rau hơn."
+              }
+            }
+          ],
+          "col": [
+            "意識を失う",
+            "意識が戻る／意識を取り戻す",
+            "意識がはっきりしている",
+            "意識する",
+            "問題意識"
+          ],
+          "rel": "≒ 気を失う（意識を失う）"
+        },
+        {
+          "id": "g04-w28",
+          "w": "失う",
+          "r": "うしなう",
+          "hv": "THẤT",
+          "pos": "他動",
+          "vi": "mất, đánh mất",
+          "key": true,
+          "ex": {
+            "ja": "{仕事|しごと}を{失|うしな}って{初|はじ}めて、{健康|けんこう}のありがたさに{気|き}づいた。",
+            "vi": "Mất việc rồi tôi mới nhận ra sức khoẻ quý giá thế nào."
+          },
+          "col": [
+            "意識を失う",
+            "自信を失う",
+            "信用を失う",
+            "命を失う"
+          ],
+          "rel": "≒ なくす",
+          "note": "「失う」 trang trọng hơn 「なくす」 và hợp với thứ trừu tượng (信用, 自信, 意識). Đồ vật nhỏ bị mất thì hay dùng 「なくす」."
+        },
+        {
+          "id": "g04-w29",
+          "w": "酔い",
+          "r": "よい",
+          "hv": "TUÝ",
+          "pos": "名",
+          "vi": "cơn say",
+          "key": true,
+          "ex": {
+            "ja": "{夜風|よかぜ}に{当|あ}たって{歩|ある}いているうちに、{酔|よ}いが{少|すこ}しさめてきた。",
+            "vi": "Đi bộ hứng gió đêm một lúc, cơn say dịu bớt."
+          },
+          "col": [
+            "酔いがさめる",
+            "酔いをさます",
+            "酔いが回る（ngấm rượu）",
+            "二日酔い（say xỉn hôm sau）",
+            "車酔い・船酔い"
+          ]
+        },
+        {
+          "id": "g04-w30",
+          "w": "覚ます・覚める",
+          "r": "さます・さめる",
+          "hv": "GIÁC",
+          "pos": "他動・自動",
+          "vi": "làm tỉnh (酔いをさます) / tỉnh ra (酔いがさめる; 目が覚める)",
+          "key": true,
+          "ex": {
+            "ja": "{帰|かえ}る{前|まえ}に、コンビニで{水|みず}を{買|か}って{酔|よ}いをさました。",
+            "vi": "Trước khi về, tôi mua nước ở cửa hàng tiện lợi để giã rượu cho tỉnh."
+          },
+          "col": [
+            "酔いをさます／酔いがさめる",
+            "目を覚ます／目が覚める",
+            "夢から覚める"
+          ],
+          "note": "Cùng âm 「冷ます・冷める」 = làm nguội / nguội đi (スープが冷める, 熱が冷める). Mẹo: tỉnh táo (đầu óc) → 覚; nhiệt độ → 冷. Với 酔い có thể viết 「醒ます」, nhưng đề N2 thường viết bằng hiragana."
+        },
+        {
+          "id": "g04-w31",
+          "w": "酔っ払い",
+          "r": "よっぱらい",
+          "hv": "TUÝ PHẤT",
+          "pos": "名",
+          "vi": "kẻ say rượu, người say xỉn",
+          "key": true,
+          "ex": {
+            "ja": "{終電|しゅうでん}には{酔|よ}っ{払|ぱら}いが{多|おお}くて、{少|すこ}し{怖|こわ}い。",
+            "vi": "Chuyến tàu cuối nhiều người say xỉn nên hơi sợ."
+          },
+          "col": [
+            "酔っ払う（say khướt）"
+          ],
+          "note": "Động từ gốc 「酔っ払う」 mang nghĩa say mèm, mạnh hơn 「酔う」."
+        },
+        {
+          "id": "g04-w32",
+          "w": "刺身",
+          "r": "さしみ",
+          "hv": "THÍCH THÂN",
+          "pos": "名",
+          "vi": "sashimi (cá sống thái lát)",
+          "key": true,
+          "ex": {
+            "ja": "{港町|みなとまち}の{食堂|しょくどう}で{食|た}べた{刺身|さしみ}は、{驚|おどろ}くほど{新鮮|しんせん}だった。",
+            "vi": "Món sashimi ăn ở quán cơm thị trấn cảng tươi đến kinh ngạc."
+          },
+          "col": [
+            "刺身をつまむ",
+            "刺身にしょう油をつける"
+          ],
+          "note": "Đọc さしみ dù chữ 身 thường đọc み/しん."
+        },
+        {
+          "id": "g04-w33",
+          "w": "つまむ",
+          "r": "つまむ",
+          "hv": "",
+          "pos": "他動",
+          "vi": "nhón, gắp (bằng đầu ngón tay / đũa); ăn nhẹ, nhắm",
+          "key": true,
+          "ex": {
+            "ja": "{夕食|ゆうしょく}の{前|まえ}に、テーブルのお{菓子|かし}をちょっとつまんでしまった。",
+            "vi": "Trước bữa tối tôi lỡ bốc nhón chút bánh kẹo trên bàn."
+          },
+          "col": [
+            "おつまみ（đồ nhắm）",
+            "鼻をつまむ（bịt mũi）",
+            "つまみ食い（ăn vụng）"
+          ],
+          "note": "Hình ảnh: hai đầu ngón tay kẹp một vật nhỏ. Kanji 摘む (đọc つまむ / つむ). 「おつまみ」 = đồ nhắm khi uống rượu."
+        }
+      ]
+    },
+    {
+      "title": "材料",
+      "title_vi": "Nguyên liệu và gia vị",
+      "words": [
+        {
+          "id": "g04-w34",
+          "w": "ぜいたく",
+          "r": "ぜいたく",
+          "hv": "CHUẾ TRẠCH",
+          "pos": "な形・名",
+          "vi": "xa xỉ, sang; phung phí",
+          "key": true,
+          "ex": {
+            "ja": "{誕生日|たんじょうび}くらいは、ちょっとぜいたくな{食事|しょくじ}をしよう。",
+            "vi": "Ít nhất vào sinh nhật thì ăn một bữa sang một chút."
+          },
+          "col": [
+            "ぜいたくな材料",
+            "ぜいたくをする",
+            "ぜいたくを言う（đòi hỏi quá đáng）",
+            "ぜいたく品"
+          ],
+          "rel": "↔ 質素・粗末",
+          "note": "Kanji 贅沢, thường viết hiragana. 「ぜいたくを言うな」 = đừng có đòi hỏi (khi đã có là tốt rồi)."
+        },
+        {
+          "id": "g04-w35",
+          "w": "粗末",
+          "r": "そまつ",
+          "hv": "THÔ MẠT",
+          "pos": "な形",
+          "vi": "sơ sài, đạm bạc, kém chất lượng; (粗末にする) coi rẻ, phung phí",
+          "key": true,
+          "senses": [
+            {
+              "vi": "sơ sài, đạm bạc",
+              "ex": {
+                "ja": "{戦後|せんご}は{粗末|そまつ}な{食事|しょくじ}しかできなかったと{祖母|そぼ}が{話|はな}していた。",
+                "vi": "Bà kể thời sau chiến tranh chỉ có những bữa ăn đạm bạc."
+              }
+            },
+            {
+              "vi": "粗末にする: đối xử không trân trọng, lãng phí",
+              "ex": {
+                "ja": "{食|た}べ{物|もの}を{粗末|そまつ}にすると、もったいないお{化|ば}けが{出|で}るよ。",
+                "vi": "Phí phạm đồ ăn là ma ‘phí của’ hiện ra đấy (lời doạ trẻ con)."
+              }
+            }
+          ],
+          "col": [
+            "粗末な食事",
+            "粗末にする",
+            "お粗末さまでした（khiêm tốn sau khi mời ăn）"
+          ],
+          "rel": "↔ ぜいたく・立派"
+        },
+        {
+          "id": "g04-w36",
+          "w": "質",
+          "r": "しつ",
+          "hv": "CHẤT",
+          "pos": "名",
+          "vi": "chất lượng, phẩm chất",
+          "key": true,
+          "ex": {
+            "ja": "この{店|みせ}は{値段|ねだん}は{安|やす}いが、{材料|ざいりょう}の{質|しつ}がいい。",
+            "vi": "Quán này giá rẻ nhưng nguyên liệu chất lượng tốt."
+          },
+          "col": [
+            "質がいい／悪い",
+            "質が高い",
+            "質より量",
+            "品質"
+          ],
+          "rel": "↔ 量"
+        },
+        {
+          "id": "g04-w37",
+          "w": "貴重",
+          "r": "きちょう",
+          "hv": "QUÝ TRỌNG",
+          "pos": "な形",
+          "vi": "quý giá, quý hiếm",
+          "key": true,
+          "ex": {
+            "ja": "{砂漠|さばく}の{国|くに}では、{真水|まみず}は{何|なに}よりも{貴重|きちょう}だ。",
+            "vi": "Ở xứ sa mạc, nước ngọt quý hơn bất cứ thứ gì."
+          },
+          "col": [
+            "貴重な体験",
+            "貴重品",
+            "貴重な時間"
+          ],
+          "rel": "≒ 大切・大事",
+          "note": "Nhấn vào **hiếm, khó có được** nên quý. Không dùng để nói giá tiền đắt: ✗ 貴重な値段 → ○ 高価な."
+        },
+        {
+          "id": "g04-w38",
+          "w": "新鮮",
+          "r": "しんせん",
+          "hv": "TÂN TIÊN",
+          "pos": "な形",
+          "vi": "tươi (thực phẩm); mới mẻ",
+          "key": true,
+          "ex": {
+            "ja": "{朝市|あさいち}では、{採|と}れたての{新鮮|しんせん}な{野菜|やさい}が{安|やす}く{買|か}える。",
+            "vi": "Ở chợ sáng có thể mua rau tươi vừa hái với giá rẻ."
+          },
+          "col": [
+            "新鮮な魚／野菜",
+            "新鮮な驚き",
+            "新鮮に感じる"
+          ],
+          "note": "Nghĩa 2: 「{毎日|まいにち}が{新鮮|しんせん}だ」 = ngày nào cũng mới mẻ."
+        },
+        {
+          "id": "g04-w39",
+          "w": "天然",
+          "r": "てんねん",
+          "hv": "THIÊN NHIÊN",
+          "pos": "名",
+          "vi": "tự nhiên, thiên nhiên (không do người nuôi / chế tạo)",
+          "key": true,
+          "ex": {
+            "ja": "この{店|みせ}のうなぎは{養殖|ようしょく}ではなく{天然|てんねん}のものだそうだ。",
+            "vi": "Nghe nói lươn của quán này là lươn tự nhiên chứ không phải nuôi."
+          },
+          "col": [
+            "天然の",
+            "天然もの",
+            "天然資源",
+            "天然ガス"
+          ],
+          "rel": "↔ 養殖（nuôi）・人工（nhân tạo）",
+          "note": "「天然」 = **không có bàn tay con người** (cá đánh bắt, đá quý tự nhiên). 「自然」 = thiên nhiên nói chung (núi rừng) hoặc phó từ ‘một cách tự nhiên’. ✗ 天然を守る → ○ 自然を守る."
+        },
+        {
+          "id": "g04-w40",
+          "w": "日本産",
+          "r": "にほんさん",
+          "hv": "NHẬT BẢN SẢN",
+          "pos": "名",
+          "vi": "sản xuất / nuôi trồng tại Nhật",
+          "key": true,
+          "ex": {
+            "ja": "{値段|ねだん}は{少|すこ}し{高|たか}いが、{日本産|にほんさん}の{米|こめ}を{選|えら}んでいる。",
+            "vi": "Giá có hơi cao nhưng tôi chọn gạo trồng ở Nhật."
+          },
+          "col": [
+            "日本産の牛肉",
+            "〜産（xem 語形成）"
+          ],
+          "rel": "≒ 国産"
+        },
+        {
+          "id": "g04-w41",
+          "w": "原産",
+          "r": "げんさん",
+          "hv": "NGUYÊN SẢN",
+          "pos": "名",
+          "vi": "nơi xuất xứ gốc (của giống cây, con vật)",
+          "key": true,
+          "ex": {
+            "ja": "ジャガイモは{南米|なんべい}が{原産|げんさん}だが、{今|いま}では{世界中|せかいじゅう}で{作|つく}られている。",
+            "vi": "Khoai tây có nguồn gốc ở Nam Mỹ, nhưng nay được trồng khắp thế giới."
+          },
+          "col": [
+            "〜が原産だ",
+            "〜原産の",
+            "原産地",
+            "原産国"
+          ],
+          "note": "「原産」 = nơi **giống loài đó ra đời** từ đầu; 「〜産」 = nơi **lô hàng này** được sản xuất. Cà chua 南米原産 nhưng có thể là 日本産."
+        },
+        {
+          "id": "g04-w42",
+          "w": "調味料",
+          "r": "ちょうみりょう",
+          "hv": "ĐIỀU VỊ LIỆU",
+          "pos": "名",
+          "vi": "gia vị (để nêm)",
+          "key": true,
+          "ex": {
+            "ja": "{塩|しお}、{砂糖|さとう}、{酢|す}などの{調味料|ちょうみりょう}は、{入|い}れる{順番|じゅんばん}も{大切|たいせつ}だ。",
+            "vi": "Các gia vị như muối, đường, giấm thì thứ tự cho vào cũng quan trọng."
+          },
+          "col": [
+            "調味料を入れる／加える",
+            "化学調味料"
+          ],
+          "note": "Gồm 調(điều chỉnh)+味(vị)+料(chất dùng để…). Xem hậu tố 〜料 ở 語形成."
+        },
+        {
+          "id": "g04-w43",
+          "w": "酢",
+          "r": "す",
+          "hv": "TẠC",
+          "pos": "名",
+          "vi": "giấm",
+          "key": true,
+          "ex": {
+            "ja": "{暑|あつ}い{日|ひ}は、{酢|す}を{使|つか}った{料理|りょうり}がさっぱりしておいしい。",
+            "vi": "Ngày nóng, món dùng giấm ăn thanh và ngon."
+          },
+          "col": [
+            "酢の物（món trộn giấm）",
+            "お酢"
+          ]
+        },
+        {
+          "id": "g04-w44",
+          "w": "しょう油",
+          "r": "しょうゆ",
+          "hv": "TƯƠNG DU",
+          "pos": "名",
+          "vi": "nước tương, xì dầu",
+          "key": true,
+          "ex": {
+            "ja": "{刺身|さしみ}にしょう{油|ゆ}をつけすぎると、{魚|さかな}の{味|あじ}がわからなくなる。",
+            "vi": "Chấm sashimi nhiều xì dầu quá thì không cảm nhận được vị cá."
+          },
+          "col": [
+            "しょう油をかける／つける"
+          ],
+          "note": "Kanji đầy đủ 醤油; báo chí, sách giáo khoa hay viết 「しょう油」."
+        },
+        {
+          "id": "g04-w45",
+          "w": "こしょう",
+          "r": "こしょう",
+          "hv": "HỒ TIÊU",
+          "pos": "名",
+          "vi": "hạt tiêu",
+          "key": true,
+          "ex": {
+            "ja": "スープの{味|あじ}が{物足|ものた}りないときは、こしょうを{少|すこ}し{振|ふ}るといい。",
+            "vi": "Khi súp vị còn nhạt nhẽo, rắc chút tiêu vào là được."
+          },
+          "col": [
+            "塩こしょう",
+            "こしょうを振る／かける"
+          ],
+          "note": "Kanji 胡椒, thường viết hiragana."
+        }
+      ]
+    },
+    {
+      "title": "味",
+      "title_vi": "Vị và khẩu vị",
+      "words": [
+        {
+          "id": "g04-w46",
+          "w": "塩辛い",
+          "r": "しおからい",
+          "hv": "DIÊM TÂN",
+          "pos": "い形",
+          "vi": "mặn",
+          "key": true,
+          "ex": {
+            "ja": "{海|うみ}の{水|みず}が{口|くち}に{入|はい}って、とても{塩辛|しおから}かった。",
+            "vi": "Nước biển vào miệng, mặn chát."
+          },
+          "rel": "≒ しょっぱい",
+          "note": "「辛い」 một mình = cay; 「塩辛い」 = mặn. Hai từ này người Việt hay lẫn."
+        },
+        {
+          "id": "g04-w47",
+          "w": "しょっぱい",
+          "r": "しょっぱい",
+          "hv": "",
+          "pos": "い形",
+          "vi": "mặn (văn nói)",
+          "key": true,
+          "ex": {
+            "ja": "このポテトチップス、ちょっとしょっぱすぎない？",
+            "vi": "Bim bim khoai tây này hơi mặn quá nhỉ?"
+          },
+          "rel": "≒ 塩辛い",
+          "note": "Văn nói, phổ biến ở vùng Kanto. Văn viết dùng 「塩辛い」「塩分が多い」."
+        },
+        {
+          "id": "g04-w48",
+          "w": "酸っぱい",
+          "r": "すっぱい",
+          "hv": "TOAN",
+          "pos": "い形",
+          "vi": "chua",
+          "key": true,
+          "ex": {
+            "ja": "{冷蔵庫|れいぞうこ}に{入|い}れ{忘|わす}れた{牛乳|ぎゅうにゅう}が{酸|す}っぱくなっていた。",
+            "vi": "Sữa quên cho vào tủ lạnh đã bị chua."
+          },
+          "col": [
+            "酸っぱいにおい",
+            "口を酸っぱくして言う（nói đi nói lại đến mỏi miệng）"
+          ]
+        },
+        {
+          "id": "g04-w49",
+          "w": "さっぱり",
+          "r": "さっぱり",
+          "hv": "",
+          "pos": "副・する",
+          "vi": "(vị) thanh, nhẹ; (cảm giác) sảng khoái; (tính) thoải mái, dứt khoát; (+ない) hoàn toàn không",
+          "key": true,
+          "senses": [
+            {
+              "vi": "vị thanh, không ngấy",
+              "ex": {
+                "ja": "{夏|なつ}はレモンをかけた{冷|つめ}たいそばが、さっぱりしていて{食|た}べやすい。",
+                "vi": "Mùa hè, mì soba lạnh vắt chanh ăn thanh, dễ ăn."
+              }
+            },
+            {
+              "vi": "sảng khoái, nhẹ người",
+              "ex": {
+                "ja": "シャワーを{浴|あ}びて、さっぱりした。",
+                "vi": "Tắm xong thấy sảng khoái."
+              }
+            },
+            {
+              "vi": "さっぱり〜ない: hoàn toàn không",
+              "ex": {
+                "ja": "{専門|せんもん}{用語|ようご}ばかりで、{説明|せつめい}がさっぱりわからなかった。",
+                "vi": "Toàn thuật ngữ chuyên môn nên tôi chẳng hiểu gì cả."
+              }
+            }
+          ],
+          "col": [
+            "さっぱりした味",
+            "さっぱりした性格",
+            "さっぱりわからない"
+          ],
+          "rel": "≒ あっさり ↔ しつこい・くどい・こってり"
+        },
+        {
+          "id": "g04-w50",
+          "w": "しつこい",
+          "r": "しつこい",
+          "hv": "",
+          "pos": "い形",
+          "vi": "(vị) đậm, ngấy, nhiều dầu mỡ; (người, hành động) dai dẳng, lằng nhằng",
+          "key": true,
+          "senses": [
+            {
+              "vi": "vị ngấy, đậm quá",
+              "ex": {
+                "ja": "このスープは{脂|あぶら}が{多|おお}くて、{私|わたし}にはしつこい。",
+                "vi": "Món súp này nhiều mỡ, với tôi thì ngấy quá."
+              }
+            },
+            {
+              "vi": "dai dẳng, lì lợm (gây khó chịu)",
+              "ex": {
+                "ja": "{断|ことわ}ったのに、しつこく{電話|でんわ}をかけてくる{営業|えいぎょう}がいる。",
+                "vi": "Đã từ chối rồi mà vẫn có tay bán hàng gọi điện dai dẳng."
+              }
+            }
+          ],
+          "col": [
+            "しつこい味",
+            "しつこい人",
+            "しつこく聞く",
+            "しつこい汚れ／風邪"
+          ],
+          "rel": "↔ さっぱり・あっさり"
+        },
+        {
+          "id": "g04-w51",
+          "w": "くどい",
+          "r": "くどい",
+          "hv": "",
+          "pos": "い形",
+          "vi": "(vị) đậm đặc, ngấy; (lời nói) dài dòng, lải nhải",
+          "key": true,
+          "senses": [
+            {
+              "vi": "vị quá đậm, ngấy",
+              "ex": {
+                "ja": "{砂糖|さとう}を{入|い}れすぎて、くどい{甘|あま}さになってしまった。",
+                "vi": "Cho nhiều đường quá nên vị ngọt thành ra gắt, ngấy."
+              }
+            },
+            {
+              "vi": "nói đi nói lại, dài dòng",
+              "ex": {
+                "ja": "{父|ちち}の{説教|せっきょう}は{同|おな}じ{話|はなし}の{繰|く}り{返|かえ}しで、くどい。",
+                "vi": "Bài giảng đạo lý của bố toàn lặp đi lặp lại một chuyện, dài dòng."
+              }
+            }
+          ],
+          "col": [
+            "くどい味",
+            "くどい説明",
+            "くどくど（言う）"
+          ],
+          "rel": "≒ しつこい ↔ さっぱり・簡潔",
+          "note": "Khác しつこい: くどい (nghĩa 2) chủ yếu nói về **lời nói / cách diễn đạt lặp lại**; しつこい nói về **hành động bám riết**."
+        },
+        {
+          "id": "g04-w52",
+          "w": "好み",
+          "r": "このみ",
+          "hv": "HẢO",
+          "pos": "名",
+          "vi": "sở thích, khẩu vị",
+          "key": true,
+          "ex": {
+            "ja": "{辛|から}さはお{好|この}みで{選|えら}べます。",
+            "vi": "Độ cay quý khách có thể chọn tuỳ khẩu vị."
+          },
+          "col": [
+            "好みの味",
+            "好みに合う",
+            "お好みで",
+            "好みがうるさい（khó tính）"
+          ]
+        },
+        {
+          "id": "g04-w53",
+          "w": "苦手",
+          "r": "にがて",
+          "hv": "KHỔ THỦ",
+          "pos": "な形・名",
+          "vi": "không hợp, không ưa; yếu, kém (về…)",
+          "key": true,
+          "ex": {
+            "ja": "パクチーの{香|かお}りがどうしても{苦手|にがて}で、いつも{抜|ぬ}いてもらう。",
+            "vi": "Tôi thật sự không chịu nổi mùi rau mùi nên lúc nào cũng nhờ bỏ ra."
+          },
+          "col": [
+            "苦手な味",
+            "苦手な科目",
+            "人前で話すのが苦手だ"
+          ],
+          "rel": "↔ 得意・好物",
+          "note": "Với đồ ăn, 「苦手」 = **không thích / không ăn được** (nhẹ nhàng hơn 「嫌い」). Với kỹ năng = kém (↔ 得意). Dễ nhầm với 「下手」: 下手 là người khác nhận xét kỹ năng kém; 苦手 là bản thân thấy khó, không thoải mái."
+        },
+        {
+          "id": "g04-w54",
+          "w": "好き好き",
+          "r": "すきずき",
+          "hv": "HẢO HẢO",
+          "pos": "名",
+          "vi": "mỗi người một sở thích, tuỳ người",
+          "key": true,
+          "ex": {
+            "ja": "{目玉焼|めだまや}きにソースをかけるかしょう{油|ゆ}をかけるかは、{好|す}き{好|ず}きだ。",
+            "vi": "Trứng ốp la chấm sốt hay xì dầu là tuỳ sở thích mỗi người."
+          },
+          "col": [
+            "〜は好き好きだ",
+            "蓼（たで）食う虫も好き好き（mỗi người một sở thích, kể cả thứ lạ）"
+          ],
+          "rel": "≒ 人それぞれ・人によって違う"
+        },
+        {
+          "id": "g04-w55",
+          "w": "好き嫌い",
+          "r": "すききらい",
+          "hv": "HẢO HIỀM",
+          "pos": "名",
+          "vi": "kén ăn, sự thích và ghét",
+          "key": true,
+          "ex": {
+            "ja": "{好|す}き{嫌|きら}いをしないで、{何|なん}でも{食|た}べなさい。",
+            "vi": "Đừng kén chọn, cái gì cũng ăn đi con."
+          },
+          "col": [
+            "好き嫌いがある／ない",
+            "好き嫌いが激しい",
+            "好き嫌いをする"
+          ],
+          "note": "Đừng lẫn với 「好き好き」: 好き嫌い = **một người** có món thích món ghét (kén ăn); 好き好き = **mỗi người** một kiểu."
+        }
+      ]
+    },
+    {
+      "title": "食事の種類",
+      "title_vi": "Kiểu món ăn",
+      "words": [
+        {
+          "id": "g04-w56",
+          "w": "和食",
+          "r": "わしょく",
+          "hv": "HOÀ THỰC",
+          "pos": "名",
+          "vi": "món Nhật, ẩm thực Nhật",
+          "key": true,
+          "ex": {
+            "ja": "{和食|わしょく}はユネスコの{無形|むけい}{文化|ぶんか}{遺産|いさん}に{登録|とうろく}されている。",
+            "vi": "Ẩm thực Nhật đã được UNESCO công nhận là di sản văn hoá phi vật thể."
+          },
+          "rel": "≒ 日本料理 ↔ 洋食",
+          "note": "和 = Nhật (和服, 和室, 和英辞典)."
+        },
+        {
+          "id": "g04-w57",
+          "w": "洋食",
+          "r": "ようしょく",
+          "hv": "DƯƠNG THỰC",
+          "pos": "名",
+          "vi": "món Tây (kiểu Âu đã Nhật hoá)",
+          "key": true,
+          "ex": {
+            "ja": "オムライスやハンバーグは、{日本|にほん}で{生|う}まれた{洋食|ようしょく}だ。",
+            "vi": "Cơm trứng omurice hay hamburg steak là món Tây ra đời ở Nhật."
+          },
+          "rel": "↔ 和食",
+          "note": "洋 = phương Tây (洋服, 洋室). 「洋食」 thường chỉ món Âu đã biến tấu theo khẩu vị Nhật."
+        },
+        {
+          "id": "g04-w58",
+          "w": "和風",
+          "r": "わふう",
+          "hv": "HOÀ PHONG",
+          "pos": "名",
+          "vi": "kiểu Nhật, phong cách Nhật",
+          "key": true,
+          "ex": {
+            "ja": "{大根|だいこん}おろしとしょう{油|ゆ}で{和風|わふう}に{仕上|しあ}げたパスタが{人気|にんき}だ。",
+            "vi": "Món mì Ý làm theo kiểu Nhật với củ cải mài và xì dầu đang được ưa chuộng."
+          },
+          "col": [
+            "和風の味付け",
+            "和風ドレッシング",
+            "和風の部屋"
+          ],
+          "rel": "↔ 洋風"
+        },
+        {
+          "id": "g04-w59",
+          "w": "洋風",
+          "r": "ようふう",
+          "hv": "DƯƠNG PHONG",
+          "pos": "名",
+          "vi": "kiểu Tây, phong cách Âu",
+          "key": true,
+          "ex": {
+            "ja": "{祖母|そぼ}の{家|いえ}は、{古|ふる}いけれど{洋風|ようふう}のおしゃれな{建物|たてもの}だ。",
+            "vi": "Nhà bà tôi tuy cũ nhưng là ngôi nhà kiểu Tây rất đẹp."
+          },
+          "rel": "↔ 和風"
+        },
+        {
+          "id": "g04-w60",
+          "w": "味付け",
+          "r": "あじつけ",
+          "hv": "VỊ PHÓ",
+          "pos": "名・する",
+          "vi": "việc nêm nếm, cách nêm vị",
+          "key": true,
+          "ex": {
+            "ja": "{母|はは}の{味付|あじつ}けは{薄|うす}めだが、{素材|そざい}の{味|あじ}がよくわかる。",
+            "vi": "Mẹ tôi nêm nhạt nhưng cảm được rõ vị nguyên liệu."
+          },
+          "col": [
+            "味付けが濃い／薄い",
+            "しょう油で味付けする",
+            "和風の味付け"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "外食",
+      "title_vi": "Đi ăn ngoài",
+      "words": [
+        {
+          "id": "g04-w61",
+          "w": "外食",
+          "r": "がいしょく",
+          "hv": "NGOẠI THỰC",
+          "pos": "名・する",
+          "vi": "ăn ngoài (nhà hàng, quán)",
+          "key": false,
+          "ex": {
+            "ja": "{外食|がいしょく}が{続|つづ}くと、どうしても{野菜|やさい}が{不足|ふそく}する。",
+            "vi": "Ăn ngoài liên tục thì kiểu gì cũng thiếu rau."
+          },
+          "rel": "↔ 自炊（tự nấu）"
+        },
+        {
+          "id": "g04-w62",
+          "w": "行列",
+          "r": "ぎょうれつ",
+          "hv": "HÀNH LIỆT",
+          "pos": "名・する",
+          "vi": "hàng người xếp dài",
+          "key": true,
+          "ex": {
+            "ja": "{開店|かいてん}{前|まえ}から、{店|みせ}の{前|まえ}に{長|なが}い{行列|ぎょうれつ}ができていた。",
+            "vi": "Từ trước giờ mở cửa, trước quán đã có một hàng dài."
+          },
+          "col": [
+            "行列に並ぶ",
+            "行列ができる",
+            "行列のできる店"
+          ],
+          "rel": "≒ 列",
+          "note": "Đọc **ぎょう**れつ (行 = ぎょう như 行事, 行儀). Động từ: 「行列に並ぶ」 — không nói 行列に立つ."
+        },
+        {
+          "id": "g04-w63",
+          "w": "注文",
+          "r": "ちゅうもん",
+          "hv": "CHÚ VĂN",
+          "pos": "名・他動",
+          "vi": "gọi món, đặt hàng; yêu cầu",
+          "key": true,
+          "ex": {
+            "ja": "{料理|りょうり}を{注文|ちゅうもん}してから{三十分|さんじゅっぷん}たつのに、まだ{来|こ}ない。",
+            "vi": "Gọi món đã 30 phút rồi mà vẫn chưa ra."
+          },
+          "col": [
+            "注文を取る（nhận order）",
+            "注文が多い（nhiều yêu cầu, khó tính）",
+            "ネットで注文する"
+          ]
+        },
+        {
+          "id": "g04-w64",
+          "w": "追加",
+          "r": "ついか",
+          "hv": "TRUY GIA",
+          "pos": "名・他動",
+          "vi": "thêm vào, bổ sung (thêm cái chưa có vào cái đã có)",
+          "key": true,
+          "ex": {
+            "ja": "{足|た}りなかったので、{餃子|ぎょうざ}を{一皿|ひとさら}{追加|ついか}した。",
+            "vi": "Không đủ nên tôi gọi thêm một đĩa sủi cảo."
+          },
+          "col": [
+            "注文を追加する",
+            "追加料金",
+            "追加注文"
+          ],
+          "rel": "≒ 付け加える",
+          "note": "「追加」 = **mình chủ động thêm** vào danh sách / đơn đã có. Khác 「増加」 (số lượng tự tăng lên), 「添加」 (thêm chất phụ gia), 「参加」 (tham gia)."
+        }
+      ]
+    },
+    {
+      "title": "語形成",
+      "title_vi": "Ghép từ: 〜会・〜産・〜料・〜風",
+      "words": [
+        {
+          "id": "g04-w65",
+          "w": "新年会",
+          "r": "しんねんかい",
+          "hv": "TÂN NIÊN HỘI",
+          "pos": "名",
+          "vi": "tiệc mừng năm mới (đầu tháng 1)",
+          "key": true,
+          "ex": {
+            "ja": "{一月|いちがつ}の{第一|だいいち}{金曜日|きんようび}に、{部署|ぶしょ}の{新年会|しんねんかい}がある。",
+            "vi": "Thứ sáu đầu tiên của tháng 1 có tiệc tân niên của phòng."
+          },
+          "col": [
+            "〜会: 歓迎会・送別会・新年会・忘年会・同窓会"
+          ],
+          "note": "Hậu tố 〜会（かい）= buổi họp / tiệc nhằm mục đích…"
+        },
+        {
+          "id": "g04-w66",
+          "w": "外国産",
+          "r": "がいこくさん",
+          "hv": "NGOẠI QUỐC SẢN",
+          "pos": "名",
+          "vi": "sản xuất ở nước ngoài, hàng ngoại",
+          "key": false,
+          "ex": {
+            "ja": "{最近|さいきん}は{外国産|がいこくさん}の{牛肉|ぎゅうにく}もずいぶん{質|しつ}が{上|あ}がった。",
+            "vi": "Gần đây thịt bò ngoại cũng tăng chất lượng hẳn."
+          },
+          "rel": "↔ 国産",
+          "note": "〜産（さん）: nơi nuôi trồng / khai thác (nông sản, thuỷ sản, thịt)."
+        },
+        {
+          "id": "g04-w67",
+          "w": "北海道産",
+          "r": "ほっかいどうさん",
+          "hv": "BẮC HẢI ĐẠO SẢN",
+          "pos": "名",
+          "vi": "sản xuất tại Hokkaido",
+          "key": false,
+          "ex": {
+            "ja": "このケーキには{北海道産|ほっかいどうさん}の{生|なま}クリームが{使|つか}われている。",
+            "vi": "Bánh này dùng kem tươi Hokkaido."
+          },
+          "note": "Đồ **chế tạo** (máy móc, quần áo) dùng 〜製: 日本製のカメラ, 中国製のシャツ; **nông sản / thực phẩm** dùng 〜産: 日本産の米."
+        },
+        {
+          "id": "g04-w68",
+          "w": "保存料",
+          "r": "ほぞんりょう",
+          "hv": "BẢO TỒN LIỆU",
+          "pos": "名",
+          "vi": "chất bảo quản",
+          "key": true,
+          "ex": {
+            "ja": "{保存料|ほぞんりょう}を{使|つか}っていないパンなので、{二日|ふつか}{以内|いない}にお{召|め}し{上|あ}がりください。",
+            "vi": "Bánh mì không dùng chất bảo quản nên xin dùng trong vòng 2 ngày."
+          },
+          "col": [
+            "〜料（chất dùng để…）: 調味料・保存料・香料・着色料・原料・燃料"
+          ],
+          "note": "〜料 có hai nghĩa lớn: (1) **chất, vật liệu** dùng để…: 調味料, 保存料, 原料, 燃料; (2) **phí, tiền**: 入場料, 授業料, 送料. Đề hay đặt hai nghĩa này cạnh nhau."
+        },
+        {
+          "id": "g04-w69",
+          "w": "中華風",
+          "r": "ちゅうかふう",
+          "hv": "TRUNG HOA PHONG",
+          "pos": "名",
+          "vi": "kiểu Trung Hoa",
+          "key": true,
+          "ex": {
+            "ja": "{残|のこ}った{野菜|やさい}をごま{油|あぶら}で{炒|いた}めて、{中華風|ちゅうかふう}のスープにした。",
+            "vi": "Tôi xào rau thừa với dầu mè rồi nấu thành canh kiểu Trung Hoa."
+          },
+          "col": [
+            "〜風: 和風・洋風・中華風・現代風・ヨーロッパ風"
+          ],
+          "note": "〜風（ふう）= **theo phong cách, mang dáng vẻ** của… (không phải là thật sự của nơi đó)."
+        },
+        {
+          "id": "g04-w70",
+          "w": "現代風",
+          "r": "げんだいふう",
+          "hv": "HIỆN ĐẠI PHONG",
+          "pos": "名",
+          "vi": "kiểu hiện đại, phong cách thời nay",
+          "key": true,
+          "ex": {
+            "ja": "{昔話|むかしばなし}を{現代風|げんだいふう}にアレンジした{劇|げき}が{話題|わだい}になっている。",
+            "vi": "Vở kịch chuyển thể truyện cổ tích theo kiểu hiện đại đang gây chú ý."
+          },
+          "rel": "≒ 今風（いまふう）"
+        }
+      ]
+    },
+    {
+      "title": "例文の副詞",
+      "title_vi": "Phó từ trong câu ví dụ",
+      "words": [
+        {
+          "id": "g04-w71",
+          "w": "よほど",
+          "r": "よほど",
+          "hv": "",
+          "pos": "副",
+          "vi": "hẳn là rất…, ắt hẳn là…lắm (suy đoán mức độ cao); khá là",
+          "key": true,
+          "ex": {
+            "ja": "あんなに{急|いそ}いで{帰|かえ}ったなんて、よほど{大事|だいじ}な{用事|ようじ}があったのだろう。",
+            "vi": "Về vội như thế, hẳn là có việc rất quan trọng."
+          },
+          "col": [
+            "よほど〜のだろう",
+            "よほどのこと（chuyện hệ trọng lắm）",
+            "よっぽど（văn nói）"
+          ],
+          "rel": "≒ かなり・相当",
+          "note": "Hay đi với **suy đoán** (〜のだろう／〜らしい／〜に違いない): nhìn một biểu hiện khác thường rồi đoán mức độ nguyên nhân rất cao. Kanji 余程, thường viết hiragana."
+        },
+        {
+          "id": "g04-w72",
+          "w": "改めて",
+          "r": "あらためて",
+          "hv": "CẢI",
+          "pos": "副",
+          "vi": "lại lần nữa (vào dịp khác, chính thức hơn); một lần nữa (nhận ra)",
+          "key": true,
+          "senses": [
+            {
+              "vi": "để dịp khác, làm lại một cách đàng hoàng",
+              "ex": {
+                "ja": "{詳|くわ}しいことは、{後日|ごじつ}{改|あらた}めてご{連絡|れんらく}いたします。",
+                "vi": "Chi tiết xin được liên lạc lại vào hôm khác."
+              }
+            },
+            {
+              "vi": "một lần nữa (cảm nhận sâu hơn)",
+              "ex": {
+                "ja": "{災害|さいがい}の{映像|えいぞう}を{見|み}て、{水|みず}の{大切|たいせつ}さを{改|あらた}めて{感|かん}じた。",
+                "vi": "Xem hình ảnh thảm hoạ, tôi một lần nữa thấm thía tầm quan trọng của nước."
+              }
+            }
+          ],
+          "col": [
+            "改めて連絡する／伺う",
+            "改めて感じる／思う",
+            "改めて乾杯する"
+          ],
+          "rel": "≒ もう一度・別の機会に"
+        },
+        {
+          "id": "g04-w73",
+          "w": "しきりに",
+          "r": "しきりに",
+          "hv": "TẦN",
+          "pos": "副",
+          "vi": "liên tục, cứ…mãi, rối rít (lặp lại nhiều lần)",
+          "key": true,
+          "ex": {
+            "ja": "{面接|めんせつ}の{前|まえ}、{彼|かれ}はしきりに{時計|とけい}を{見|み}ていた。",
+            "vi": "Trước buổi phỏng vấn, anh ấy cứ liên tục nhìn đồng hồ."
+          },
+          "col": [
+            "しきりに勧める",
+            "しきりに謝る",
+            "しきりに首をかしげる"
+          ],
+          "rel": "≒ 何度も・頻繁に",
+          "note": "Kanji 頻りに (頻 = TẦN như 頻繁). Nhấn mạnh **cùng một hành động lặp đi lặp lại** trong thời gian ngắn."
+        },
+        {
+          "id": "g04-w74",
+          "w": "いくら〜ても",
+          "r": "いくら〜ても",
+          "hv": "",
+          "pos": "副",
+          "vi": "dù… bao nhiêu đi nữa, dù… đến đâu cũng",
+          "key": true,
+          "ex": {
+            "ja": "いくら{体|からだ}にいいと{言|い}われても、{苦|にが}い{野菜|やさい}は{食|た}べたくない。",
+            "vi": "Dù có bảo tốt cho sức khoẻ đến đâu thì tôi cũng không muốn ăn rau đắng."
+          },
+          "col": [
+            "いくら〜ても／でも",
+            "いくら何でも（dù gì thì cũng…quá đáng）"
+          ],
+          "rel": "≒ どんなに〜ても",
+          "note": "Bắt buộc có 「〜ても／でも」 phía sau. 「いくら何でも、それはひどい」 = dù sao đi nữa thì thế cũng quá đáng."
+        }
+      ]
+    }
+  ],
+  "focus": [
+    {
+      "title": "Ăn kiểu gì? 食う・かじる・しゃぶる・含む・つまむ・味わう",
+      "body": "Đề 用法 hay đánh vào nhóm này. Đừng dịch hết thành ‘ăn’ — hãy hình dung **bộ phận nào làm việc**:\n\n- **かじる**: răng cửa cắn từng miếng (リンゴ, せんべい, パン). Nghĩa bóng: 「{少|すこ}しかじった」 = học sơ sơ.\n- **しゃぶる**: cả vật trong miệng, mút (あめ, 指, 骨).\n- **含む**: giữ trong miệng, **chưa nuốt** (水を口に含む). Nghĩa khác: bao gồm.\n- **つまむ**: hai đầu ngón tay / đũa kẹp vật nhỏ; ăn nhẹ (おつまみ).\n- **味わう**: ăn chậm để cảm nhận vị; nếm trải cảm xúc.\n- **食う**: ‘ăn’ thô; nghĩa bóng ‘ngốn’ (時間を食う).\n\nKiểm tra nhanh: ✗ スープをつまむ (chất lỏng không nhón được) · ✗ あめをかじって{溶|と}かす (muốn tan thì phải しゃぶる / なめる) · ○ {一口|ひとくち}かじっただけで{甘|あま}さがわかった."
+    },
+    {
+      "title": "Mùi: 香り・匂い・臭い và かぐ／〜がする",
+      "body": "- **香り（かおり）**: mùi thơm thanh, tinh tế — hoa, trà, cà phê, nước hoa, gỗ. Văn hơi đẹp, trang nhã.\n- **匂い（におい）**: mùi nói chung, thường là dễ chịu (料理の匂い).\n- **臭い（におい）**: mùi khó chịu, hôi (ゴミの臭い). Tính từ 「{臭|くさ}い」 = hôi.\n\nĐộng từ:\n- 「〜の香り／匂い**がする**」: mùi tự bay đến mũi mình.\n- 「〜の香り／匂い**をかぐ**」: mình chủ động đưa mũi lại ngửi.\n\nVí dụ: 「{台所|だいどころ}からカレーの{匂|にお}いがする」 (tự ngửi thấy) ↔ 「{花|はな}に{顔|かお}を{近|ちか}づけて{香|かお}りをかいだ」 (cố ý ngửi).\n\nBẫy đề: ✗ ゴミの香り → ○ ゴミの臭い."
+    },
+    {
+      "title": "Vị nhẹ hay nặng: さっぱり・あっさり ↔ しつこい・くどい・こってり — và nghĩa thứ hai",
+      "body": "Trục vị: **さっぱり／あっさり** (thanh, ít dầu, dễ ăn) ↔ **こってり** (béo, đậm) → quá mức thành **しつこい／くどい** (ngấy, gây khó chịu).\n\nĐiểm hay ra đề là **nghĩa mở rộng sang con người**:\n- さっぱりした{性格|せいかく}: tính xuề xoà, không để bụng (khen).\n- しつこい{人|ひと}: người bám riết, dai dẳng (chê) — しつこく{誘|さそ}う, しつこい{汚|よご}れ (vết bẩn cứng đầu), しつこい{風邪|かぜ}.\n- くどい{説明|せつめい}: giải thích dài dòng, lặp lại (chê) — くどくど{言|い}う.\n- さっぱり＋phủ định: hoàn toàn không — さっぱりわからない, {客|きゃく}がさっぱり{来|こ}ない.\n\nCòn vị mặn: 塩辛い (văn viết) = しょっぱい (văn nói). Nhớ 「辛い」 đứng một mình là **cay**."
+    },
+    {
+      "title": "Hậu tố của bài: 〜会・〜産・〜料・〜風",
+      "body": "- **〜会（かい）**: buổi tiệc / họp vì mục đích gì — 歓迎会, 送別会, 新年会, 忘年会, 同窓会, 説明会.\n- **〜産（さん）**: nơi **nuôi trồng / khai thác** (thực phẩm, nông thuỷ sản) — 日本産, 外国産, 北海道産, 国産. So với **〜製（せい）**: nơi **chế tạo** đồ công nghiệp — 日本製のカメラ. ✗ 日本製の米 → ○ 日本産の米.\n- **〜料（りょう）**: (1) chất / nguyên liệu dùng để… — 調味料, 保存料, 香料, 原料, 燃料; (2) tiền phí — 入場料, 授業料, 送料, 手数料.\n- **〜風（ふう）**: theo kiểu, mang phong cách — 和風, 洋風, 中華風, 現代風, ヨーロッパ風. So với **〜式（しき）**: kiểu / phương thức (cấu tạo) — 和式トイレ, 日本式経営; **〜的（てき）**: có tính chất — 日本的な考え方.\n\nMẹo đề 語形成: đọc danh từ sau chỗ trống. Đồ ăn có nguồn gốc → 産; vị / phong cách trang trí → 風; chất cho vào thực phẩm → 料."
+    },
+    {
+      "title": "ぜいたく・粗末・貴重 — đánh giá đồ ăn và đồ vật",
+      "body": "- **ぜいたく**: tốn kém hơn mức cần, sang trọng. Có thể khen nhẹ (ぜいたくな{時間|じかん} = khoảng thời gian xa xỉ đáng giá) hoặc chê (ぜいたくを{言|い}う = đòi hỏi quá).\n- **粗末**: sơ sài, kém (粗末な{服|ふく}); **粗末にする** = không trân trọng, lãng phí (お{金|かね}を粗末にする). Đối lập: ぜいたく / 大切にする.\n- **貴重**: quý vì **hiếm, khó có lại** (貴重な{経験|けいけん}, 貴重品). ≒ 大切・大事. Không dùng cho giá tiền (→ 高価).\n- **新鮮**: tươi; mới mẻ (新鮮な{気持|きも}ち).\n- **天然**: không qua tay người (↔ 養殖, 人工). Không thay được cho 「自然」 khi nói ‘thiên nhiên, môi trường’."
+    },
+    {
+      "title": "4 phó từ: よほど・改めて・しきりに・いくら〜ても",
+      "body": "- **よほど**: thấy một biểu hiện khác thường → đoán nguyên nhân **ở mức rất cao**. 「{一日|いちにち}{中|じゅう}{寝|ね}ていたなんて、よほど{疲|つか}れていたんだね」. Hay đi với のだろう／らしい.\n- **改めて**: (1) ‘để dịp khác, làm lại đàng hoàng’ — 改めて{伺|うかが}います; (2) ‘một lần nữa (thấm thía hơn)’ — 改めて{感謝|かんしゃ}する.\n- **しきりに**: **một hành động lặp đi lặp lại liên tục** trong thời gian ngắn — しきりに{謝|あやま}る, しきりに{咳|せき}をする.\n- **いくら〜ても**: dù mức độ cao đến đâu thì kết quả vẫn vậy — いくら{呼|よ}んでも{返事|へんじ}がない. Phải có 〜ても／でも.\n\nBẫy: 「しきりに」 không dùng cho tần suất dài hạn kiểu ‘hay, thường’: ✗ {毎年|まいとし}しきりに{旅行|りょこう}する → ○ よく旅行する."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "g04-q1",
+      "kind": "read",
+      "ref": "g04-w12",
+      "q": "この{料理|りょうり}は[[u:栄養]]のバランスがとてもいい。",
+      "options": [
+        "えいよう",
+        "えよう",
+        "えいよ",
+        "えいおう"
+      ],
+      "answer": 0,
+      "vi": "Món này cân bằng dinh dưỡng rất tốt.",
+      "why": "**えいよう**: cả 栄(えい) và 養(よう) đều là âm dài. 「えよう」「えいよ」 thiếu trường âm; 「えいおう」 sai âm của 養."
+    },
+    {
+      "id": "g04-q2",
+      "kind": "write",
+      "ref": "g04-w13",
+      "q": "{胃|い}の{調子|ちょうし}が{悪|わる}いときは、[[u:しょうか]]のいいものを{食|た}べたほうがいい。",
+      "options": [
+        "消火",
+        "消化",
+        "焼化",
+        "昇化"
+      ],
+      "answer": 1,
+      "vi": "Khi dạ dày không khoẻ thì nên ăn đồ dễ tiêu.",
+      "why": "Tiêu hoá = **消化** (化 = biến đổi). 「消火」 = dập lửa (đồng âm, bẫy chính); 「焼化」「昇化」 không phải từ (昇華 しょうか = thăng hoa viết khác)."
+    },
+    {
+      "id": "g04-q3",
+      "kind": "context",
+      "ref": "g04-w9",
+      "q": "{夏|なつ}バテで（　　）がなく、{冷|つめ}たいそうめんしか{食|た}べられない。",
+      "options": [
+        "好み",
+        "栄養",
+        "味付け",
+        "食欲"
+      ],
+      "answer": 3,
+      "vi": "Bị mệt vì nóng nên chẳng thấy thèm ăn, chỉ ăn được mì somen lạnh.",
+      "why": "「〜がない」 + không muốn ăn → **食欲がない**. 「好みがない」 không tự nhiên; 「栄養がない」 là thức ăn thiếu chất, không phải trạng thái người; 「味付けがない」 nói về món ăn."
+    },
+    {
+      "id": "g04-q4",
+      "kind": "context",
+      "ref": "g04-w14",
+      "q": "ゆうべ{揚|あ}げ{物|もの}を{食|た}べすぎて、{今朝|けさ}もまだ{胃|い}が（　　）いる。",
+      "options": [
+        "しゃぶって",
+        "もたれて",
+        "かじって",
+        "含んで"
+      ],
+      "answer": 1,
+      "vi": "Tối qua ăn đồ chiên nhiều quá nên sáng nay dạ dày vẫn còn nặng.",
+      "why": "Cụm cố định **胃がもたれる** = nặng bụng, khó tiêu. 「しゃぶる」「かじる」「含む」 là động tác của miệng, chủ ngữ không thể là 胃."
+    },
+    {
+      "id": "g04-q5",
+      "kind": "paraphrase",
+      "ref": "g04-w73",
+      "q": "{店員|てんいん}が[[u:しきりに]]{新|あたら}しい{商品|しょうひん}を{勧|すす}めてきた。",
+      "options": [
+        "突然",
+        "何度も",
+        "少しだけ",
+        "静かに"
+      ],
+      "answer": 1,
+      "vi": "Nhân viên cứ liên tục mời mua sản phẩm mới.",
+      "why": "しきりに = lặp đi lặp lại liên tục ≒ **何度も**. 「突然」 = bất ngờ (một lần); 「少しだけ」「静かに」 trái với sắc thái dồn dập."
+    },
+    {
+      "id": "g04-q6",
+      "kind": "formation",
+      "ref": "g04-w58",
+      "q": "この{店|みせ}のハンバーグは{大根|だいこん}おろしとしょう{油|ゆ}をかけた{和|わ}（　　）の{味付|あじつ}けだ。",
+      "options": [
+        "製",
+        "的",
+        "風",
+        "式"
+      ],
+      "answer": 2,
+      "vi": "Hamburg steak của quán này nêm kiểu Nhật, rưới củ cải mài và xì dầu.",
+      "why": "Phong cách vị → **和風**. 「和製」 = do Nhật làm ra (和製英語); 「和的」 không dùng; 「和式」 = kiểu Nhật về cấu tạo / phương thức (和式トイレ), không dùng cho vị."
+    },
+    {
+      "id": "g04-q7",
+      "kind": "read",
+      "ref": "g04-w31",
+      "q": "{駅|えき}の{前|まえ}で[[u:酔っ払い]]が{大声|おおごえ}で{歌|うた}っていた。",
+      "options": [
+        "すいっぱらい",
+        "よいはらい",
+        "よっぱらい",
+        "よっばらい"
+      ],
+      "answer": 2,
+      "vi": "Trước ga có một gã say rượu đang hát ầm ĩ.",
+      "why": "**よっぱらい**: 酔(よ) + っ + 払(ぱら)い (払 biến âm thành ぱら sau っ). 「すい」 là âm On của 酔 (麻酔); 「よいはらい」 thiếu biến âm; 「よっばらい」 sai ば/ぱ."
+    },
+    {
+      "id": "g04-q8",
+      "kind": "usage",
+      "ref": "g04-w50",
+      "q": "しつこい",
+      "options": [
+        "このスープはあっさりしていて、しつこくておいしい。",
+        "朝からしつこい雨で、窓の外が明るい。",
+        "一度断ったのに、彼はしつこく食事に誘ってくる。",
+        "彼女はしつこい性格で、何でもすぐ忘れてしまう。"
+      ],
+      "answer": 2,
+      "vi": "(3) Đã từ chối một lần rồi mà anh ta cứ dai dẳng rủ đi ăn.",
+      "why": "(3) しつこい = bám riết, dai dẳng → đúng. (1) mâu thuẫn: あっさり (thanh) ↔ しつこい (ngấy); (2) 「明るい」 mâu thuẫn với mưa dai dẳng; (4) しつこい là không buông bỏ, trái với ‘quên ngay’ (→ さっぱりした性格)."
+    },
+    {
+      "id": "g04-q9",
+      "kind": "context",
+      "ref": "g04-w55",
+      "q": "うちの{息子|むすこ}は（　　）が{激|はげ}しくて、{野菜|やさい}をほとんど{食|た}べない。",
+      "options": [
+        "好き嫌い",
+        "好き好き",
+        "好み",
+        "苦手"
+      ],
+      "answer": 0,
+      "vi": "Con trai tôi kén ăn kinh khủng, hầu như không ăn rau.",
+      "why": "「〜が激しい」 + không ăn rau → **好き嫌いが激しい** (kén ăn). 「好き好き」 = mỗi người một kiểu, không đi với 激しい; 「好みが激しい」 không nói; 「苦手が激しい」 sai (苦手 là tính từ な)."
+    }
+  ],
+  "practice": [
+    {
+      "id": "g04-p1",
+      "kind": "read",
+      "ref": "g04-w32",
+      "q": "{漁港|ぎょこう}の{近|ちか}くの{店|みせ}で、[[u:刺身]]の{定食|ていしょく}を{注文|ちゅうもん}した。",
+      "options": [
+        "さしみ",
+        "しみ",
+        "さしん",
+        "ししん"
+      ],
+      "answer": 0,
+      "vi": "Ở quán gần cảng cá, tôi gọi suất cơm sashimi.",
+      "why": "**さしみ** (刺 = さ(す), 身 = み). 「しみ」 thiếu âm; 「さしん」「ししん」 dùng âm On của 身 (しん) không đúng với từ này."
+    },
+    {
+      "id": "g04-p2",
+      "kind": "write",
+      "ref": "g04-w7",
+      "q": "{窓|まど}を{開|あ}けると、{庭|にわ}の{花|はな}のいい[[u:かおり]]がした。",
+      "options": [
+        "季り",
+        "番り",
+        "香り",
+        "秀り"
+      ],
+      "answer": 2,
+      "vi": "Mở cửa sổ ra là ngửi thấy mùi hoa thơm ngoài vườn.",
+      "why": "**香り** (HƯƠNG). Ba chữ còn lại có hình dạng gần giống (đều có 禾 hoặc phần trên tương tự) nhưng không đọc かおり: 季 = mùa, 番 = số thứ tự, 秀 = ưu tú."
+    },
+    {
+      "id": "g04-p3",
+      "kind": "context",
+      "ref": "g04-w6",
+      "q": "{旅行|りょこう}{先|さき}では、その{土地|とち}の{料理|りょうり}をゆっくり（　　）のが{一番|いちばん}の{楽|たの}しみだ。",
+      "options": [
+        "つまむ",
+        "味わう",
+        "しゃぶる",
+        "含む"
+      ],
+      "answer": 1,
+      "vi": "Khi đi du lịch, thú vui lớn nhất là thong thả thưởng thức món ăn địa phương.",
+      "why": "Ăn chậm để cảm nhận vị = **味わう**. 「つまむ」 = nhón ăn chút ít, mâu thuẫn với ゆっくり thưởng thức cả bữa; 「しゃぶる」 = mút; 「含む」 = ngậm trong miệng."
+    },
+    {
+      "id": "g04-p4",
+      "kind": "context",
+      "ref": "g04-w18",
+      "q": "{上司|じょうし}のグラスが{空|あ}いていたので、{急|いそ}いでビールを（　　）。",
+      "options": [
+        "ついだ",
+        "つまんだ",
+        "冷やした",
+        "酔った"
+      ],
+      "answer": 0,
+      "vi": "Thấy ly của sếp đã cạn nên tôi vội rót bia.",
+      "why": "Ly trống → rót đầy = **ついだ** (注ぐ). 「つまんだ」 = nhón bằng đầu ngón tay, không dùng cho chất lỏng; 「冷やした」 = ướp lạnh, không liên quan tới việc ly đã cạn; 「酔った」 là tự động từ, không nhận 「ビールを」."
+    },
+    {
+      "id": "g04-p5",
+      "kind": "paraphrase",
+      "ref": "g04-w71",
+      "q": "あのおとなしい{部長|ぶちょう}が{怒|おこ}るなんて、[[u:よほど]]{腹|はら}が{立|た}ったのだろう。",
+      "options": [
+        "たまに",
+        "少し",
+        "結局",
+        "かなり"
+      ],
+      "answer": 3,
+      "vi": "Ông trưởng phòng hiền lành thế mà nổi giận, hẳn là đã rất bực.",
+      "why": "よほど = mức độ rất cao (suy đoán) ≒ **かなり**. 「少し」 ngược nghĩa; 「たまに」 nói tần suất; 「結局」 = rốt cuộc."
+    },
+    {
+      "id": "g04-p6",
+      "kind": "formation",
+      "ref": "g04-w66",
+      "q": "スーパーで{売|う}られているサーモンは、ノルウェー（　　）のものが{多|おお}い。",
+      "options": [
+        "製",
+        "産",
+        "出",
+        "生"
+      ],
+      "answer": 1,
+      "vi": "Cá hồi bán ở siêu thị phần lớn là cá Na Uy.",
+      "why": "Thuỷ sản / thực phẩm có nơi nuôi, đánh bắt → **〜産**. 「〜製」 dùng cho hàng chế tạo (ノルウェー製のセーター); 「〜出」「〜生」 không làm hậu tố xuất xứ như vậy (〜出身 mới dùng cho người)."
+    },
+    {
+      "id": "g04-p7",
+      "kind": "usage",
+      "ref": "g04-w37",
+      "q": "{貴重|きちょう}",
+      "options": [
+        "彼は貴重な性格で、誰にでも親切だ。",
+        "これは祖父が戦地から送った手紙で、家族にとって貴重なものだ。",
+        "今朝は貴重に雨が降っていた。",
+        "あの店では貴重な値段の時計しか売っていない。"
+      ],
+      "answer": 1,
+      "vi": "(2) Đây là lá thư ông gửi về từ chiến trường, là vật quý giá với gia đình.",
+      "why": "(2) vật hiếm, không thể có lại → **貴重** đúng. (1) tính cách → 親切な・穏やかな; (3) 貴重 không dùng như phó từ, ý là 珍しく; (4) giá đắt → 高価な."
+    },
+    {
+      "id": "g04-p8",
+      "kind": "paraphrase",
+      "ref": "g04-w54",
+      "q": "カレーに{卵|たまご}をのせるかどうかは[[u:好き好きだ]]。",
+      "options": [
+        "みんなが好きだ",
+        "体にいい",
+        "人によって違う",
+        "昔から決まっている"
+      ],
+      "answer": 2,
+      "vi": "Cà ri có cho thêm trứng hay không là tuỳ sở thích mỗi người.",
+      "why": "好き好き = mỗi người một sở thích ≒ **人によって違う**. 「みんなが好きだ」 hiểu nhầm theo mặt chữ 好き; hai phương án còn lại không liên quan."
+    },
+    {
+      "id": "g04-p9",
+      "kind": "context",
+      "ref": "g04-w27",
+      "q": "{階段|かいだん}から{落|お}ちて{頭|あたま}を{打|う}った{男性|だんせい}は、しばらく（　　）を{失|うしな}っていた。",
+      "options": [
+        "気分",
+        "意識",
+        "機嫌",
+        "調子"
+      ],
+      "answer": 1,
+      "vi": "Người đàn ông ngã cầu thang đập đầu đã bất tỉnh một lúc.",
+      "why": "Bất tỉnh = **意識を失う**. 「気分」「機嫌」「調子」 đều không đi với 失う (nói 気分が悪い, 機嫌を損ねる, 調子を崩す)."
+    },
+    {
+      "id": "g04-p10",
+      "kind": "context",
+      "ref": "g04-w29",
+      "q": "{冷|つめ}たい{水|みず}を{何杯|なんばい}も{飲|の}んで、なんとか（　　）をさました。",
+      "options": [
+        "吐き気",
+        "めまい",
+        "頭痛",
+        "酔い"
+      ],
+      "answer": 3,
+      "vi": "Uống mấy cốc nước lạnh, cuối cùng cũng tỉnh rượu được phần nào.",
+      "why": "Cụm cố định **酔いをさます**. 「吐き気」「めまい」「頭痛」 đều đi với 「がする」, không đi với 「をさます」 (muốn hết thì nói 治まる)."
+    },
+    {
+      "id": "g04-p11",
+      "kind": "write",
+      "ref": "g04-w62",
+      "q": "{人気|にんき}のパン{屋|や}の{前|まえ}には、{朝|あさ}から[[u:ぎょうれつ]]ができている。",
+      "options": [
+        "行例",
+        "業列",
+        "行列",
+        "形列"
+      ],
+      "answer": 2,
+      "vi": "Trước tiệm bánh mì nổi tiếng, từ sáng đã có hàng dài người xếp.",
+      "why": "**行列** (hàng + hàng lối). 「行例」 nhầm 列 với 例 (ví dụ) — hai chữ rất giống nhau; 「業列」「形列」 thay sai chữ đầu (cũng đọc ぎょう／けい)."
+    },
+    {
+      "id": "g04-p12",
+      "kind": "usage",
+      "ref": "g04-w33",
+      "q": "つまむ",
+      "options": [
+        "スープが熱いので、スプーンでつまんで飲んだ。",
+        "重い段ボールを両手でつまんで運んだ。",
+        "のどが渇いたので、ジュースを一気につまんだ。",
+        "お茶を飲みながら、ピーナッツを少しつまんだ。"
+      ],
+      "answer": 3,
+      "vi": "(4) Vừa uống trà tôi vừa nhón ăn chút đậu phộng.",
+      "why": "(4) vật nhỏ, nhón ăn chút ít → **つまむ** đúng. (1) chất lỏng phải すくう; (2) vật nặng bằng hai tay → 抱える／持ち上げる; (3) đồ uống → 飲み干した."
+    },
+    {
+      "id": "g04-p13",
+      "kind": "paraphrase",
+      "ref": "g04-w49",
+      "q": "{暑|あつ}い{日|ひ}には、[[u:さっぱりした]]{料理|りょうり}が{食|た}べたくなる。",
+      "options": [
+        "あっさりした",
+        "こってりした",
+        "甘い",
+        "温かい"
+      ],
+      "answer": 0,
+      "vi": "Ngày nóng lại muốn ăn món thanh mát.",
+      "why": "さっぱり (vị) ≒ **あっさり**: nhẹ, ít dầu mỡ. 「こってり」 là trái nghĩa (béo, đậm); 「甘い」「温かい」 nói vị / nhiệt độ khác hẳn."
+    }
+  ],
+  "test": [
+    {
+      "id": "g04-t1",
+      "kind": "read",
+      "ref": "g04-w42",
+      "q": "{料理|りょうり}は[[u:調味料]]を{入|い}れる{順番|じゅんばん}で{味|あじ}が{変|か}わる。",
+      "options": [
+        "しょうみりょう",
+        "ちょうみりょう",
+        "ちょうみりょ",
+        "ちょみりょう"
+      ],
+      "answer": 1,
+      "vi": "Thứ tự cho gia vị vào làm thay đổi vị món ăn.",
+      "why": "**ちょうみりょう**: 調(ちょう) có trường âm, 料(りょう) cũng có. 「しょう」 nhầm với 消・小; hai phương án còn lại thiếu trường âm."
+    },
+    {
+      "id": "g04-t2",
+      "kind": "read",
+      "ref": "g04-w41",
+      "q": "トマトは{南米|なんべい}が[[u:原産]]だと{言|い}われている。",
+      "options": [
+        "げんざん",
+        "はらさん",
+        "げんせい",
+        "げんさん"
+      ],
+      "answer": 3,
+      "vi": "Người ta nói cà chua có nguồn gốc từ Nam Mỹ.",
+      "why": "**げんさん**: 産 đọc さん, không biến âm thành ざん. 「はら」 là âm Kun của 原 (野原); 「げんせい」 là cách đọc của 原生 (nguyên sinh)."
+    },
+    {
+      "id": "g04-t3",
+      "kind": "write",
+      "ref": "g04-w35",
+      "q": "{食|た}べ{物|もの}を[[u:そまつ]]にしてはいけないと、{祖母|そぼ}によく{言|い}われた。",
+      "options": [
+        "祖末",
+        "粗未",
+        "組末",
+        "粗末"
+      ],
+      "answer": 3,
+      "vi": "Bà thường dặn không được phí phạm đồ ăn.",
+      "why": "**粗末** (粗 = thô, có bộ 米 gạo). 「祖」 (bộ 示, tổ tiên) và 「組」 (bộ 糸) cùng phần bên phải 且 nên dễ nhầm; 「未」 khác 「末」 ở nét ngang dài ngắn."
+    },
+    {
+      "id": "g04-t4",
+      "kind": "context",
+      "ref": "g04-w64",
+      "q": "ピザが{足|た}りなかったので、もう{一枚|いちまい}（　　）で{注文|ちゅうもん}した。",
+      "options": [
+        "増加",
+        "参加",
+        "追加",
+        "添加"
+      ],
+      "answer": 2,
+      "vi": "Pizza không đủ nên tôi gọi thêm một cái nữa.",
+      "why": "Mình chủ động thêm vào đơn đã gọi → **追加**. 「増加」 = số lượng tăng (人口が増加する), không dùng cho hành động gọi thêm; 「参加」 = tham gia; 「添加」 = thêm phụ gia (食品添加物)."
+    },
+    {
+      "id": "g04-t5",
+      "kind": "context",
+      "ref": "g04-w19",
+      "q": "{医者|いしゃ}に（　　）、お{酒|さけ}の{量|りょう}を{減|へ}らすことにした。",
+      "options": [
+        "誘われて",
+        "勧められて",
+        "招かれて",
+        "迎えられて"
+      ],
+      "answer": 1,
+      "vi": "Được bác sĩ khuyên nên tôi quyết định giảm lượng rượu.",
+      "why": "Bác sĩ khuyên một việc tốt cho mình → **勧められて**. 「誘われて」 = được rủ cùng làm (đi chơi, đi nhậu), không hợp với ‘giảm rượu’; 「招かれて」 = được mời đến (tiệc, nhà); 「迎えられて」 = được đón."
+    },
+    {
+      "id": "g04-t6",
+      "kind": "formation",
+      "ref": "g04-w68",
+      "q": "{当店|とうてん}のジャムは、{着色|ちゃくしょく}（　　）や{保存|ほぞん}（　　）を{一切|いっさい}{使|つか}っていません。",
+      "options": [
+        "品",
+        "物",
+        "料",
+        "材"
+      ],
+      "answer": 2,
+      "vi": "Mứt của tiệm chúng tôi hoàn toàn không dùng phẩm màu hay chất bảo quản.",
+      "why": "Chất cho vào thực phẩm để làm gì → **〜料**: 着色料 (phẩm màu), 保存料 (chất bảo quản). 「〜品」 = sản phẩm (食品); 「〜物」 = vật (添加物 thì có nhưng 保存物 không); 「〜材」 = vật liệu (建材, 食材)."
+    },
+    {
+      "id": "g04-t7",
+      "kind": "paraphrase",
+      "ref": "g04-w72",
+      "q": "{本日|ほんじつ}はお{忙|いそが}しいようですので、[[u:改めて]]お{電話|でんわ}いたします。",
+      "options": [
+        "後日もう一度",
+        "すぐに",
+        "今度こそ必ず",
+        "初めて"
+      ],
+      "answer": 0,
+      "vi": "Hôm nay có vẻ anh/chị đang bận, tôi xin gọi lại vào hôm khác.",
+      "why": "改めて = để dịp khác làm lại ≒ **後日もう一度**. 「すぐに」 trái với ‘vì đang bận’; 「今度こそ必ず」 thêm sắc thái quyết tâm sau thất bại; 「初めて」 sai nghĩa."
+    },
+    {
+      "id": "g04-t8",
+      "kind": "usage",
+      "ref": "g04-w51",
+      "q": "くどい",
+      "options": [
+        "新鮮でくどい野菜をたくさん買ってきた。",
+        "彼の説明はくどくて、短くてわかりやすかった。",
+        "同じ注意を何度も繰り返す先生の話はくどい。",
+        "このお茶はくどい香りがして、とても上品だ。"
+      ],
+      "answer": 2,
+      "vi": "(3) Bài nói của thầy giáo lặp đi lặp lại cùng một lời nhắc thật dài dòng.",
+      "why": "(3) lặp đi lặp lại → **くどい** đúng. (1) くどい là đánh giá tiêu cực, không đi với 新鮮 của rau; (2) mâu thuẫn: くどい ↔ 短くてわかりやすい; (4) 上品 (thanh tao) mâu thuẫn với くどい."
+    },
+    {
+      "id": "g04-t9",
+      "kind": "paraphrase",
+      "ref": "g04-w53",
+      "q": "{私|わたし}は{辛|から}い{料理|りょうり}が[[u:苦手だ]]。",
+      "options": [
+        "作るのが下手だ",
+        "あまり好きではない",
+        "大好きだ",
+        "食べたことがない"
+      ],
+      "answer": 1,
+      "vi": "Tôi không hợp với món cay.",
+      "why": "Với đồ ăn, 苦手 = không ưa, không ăn được ≒ **あまり好きではない**. Bẫy: 「作るのが下手だ」 — 苦手 có nghĩa ‘kém’ với kỹ năng, nhưng câu này không nói tới việc nấu; 「大好きだ」 trái nghĩa; 「食べたことがない」 không suy ra được."
+    },
+    {
+      "id": "g04-t10",
+      "kind": "usage",
+      "ref": "g04-w39",
+      "q": "{天然|てんねん}",
+      "options": [
+        "この店では、養殖ではなく天然の鯛を使っている。",
+        "留学して半年で、天然に日本語が話せるようになった。",
+        "天然を守るために、町の人たちが山に木を植えた。",
+        "晴れていたのに、天然雨が降り出した。"
+      ],
+      "answer": 0,
+      "vi": "(1) Quán này dùng cá tráp tự nhiên chứ không phải cá nuôi.",
+      "why": "(1) 天然 ↔ 養殖 → đúng. (2) phó từ ‘một cách tự nhiên’ → 自然に; (3) thiên nhiên / môi trường → 自然を守る; (4) ‘bỗng nhiên’ → 突然."
+    },
+    {
+      "id": "g04-t11",
+      "kind": "context",
+      "ref": "g04-w3",
+      "q": "{子|こ}どもは{皮|かわ}をむかないまま、リンゴを{丸|まる}ごと（　　）いる。",
+      "options": [
+        "かじって",
+        "しゃぶって",
+        "つまんで",
+        "注いで"
+      ],
+      "answer": 0,
+      "vi": "Đứa trẻ đang gặm nguyên quả táo, không gọt vỏ.",
+      "why": "Cắn từng miếng bằng răng một vật cứng, to → **かじる**. 「しゃぶる」 = mút (kẹo, ngón tay), không hợp với nguyên quả táo; 「つまむ」 = nhón vật nhỏ bằng ngón tay; 「注ぐ」 dùng cho chất lỏng."
+    }
+  ]
+}

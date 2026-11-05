@@ -1,0 +1,4439 @@
+{
+ "id": "g36",
+ "track": "goi",
+ "intro": "Bài này dạy **hậu tố Hán tự** (接尾語): một chữ Hán gắn **sau** danh từ để tạo từ mới. Chỉ cần thuộc chữ cuối là đoán được nghĩa cả từ, và đây chính là dạng 語形成 trong đề N2: 「{入場|にゅうじょう}（　　）」 → chọn 料.\n\nSách chia 43 hậu tố thành 10 nhóm:\n- **Nghề nghiệp**: 〜者・〜家・〜士・〜員・〜官・〜師・〜業\n- **Tiền**: 〜料・〜代・〜費・〜金\n- **Nơi chốn**: 〜地・〜場・〜所・〜署・〜街\n- **Máy móc, dụng cụ**: 〜機・〜器・〜具・〜計\n- **Đặc điểm người / vật**: 〜風・〜用・〜式・〜製・〜産\n- **Tâm lý, năng lực**: 〜心・〜感・〜力\n- **Phương pháp, chế độ**: 〜制・〜法\n- **Giấy tờ**: 〜状・〜証・〜届・〜帳・〜版\n- **So sánh, thống kê**: 〜別・〜差・〜量・〜率・〜度\n- **Đổi từ loại**: 〜的 (→ な形)・〜化 (→ する動詞)・〜性 (→ danh từ)\n\nĐiểm then chốt khi thi:\n- Nhiều hậu tố **cùng nghĩa lớn** (tiền, người, nơi chốn) nhưng mỗi từ chỉ đi với **một** hậu tố cố định → học theo cụm, đừng đoán theo nghĩa tiếng Việt.\n- Chú ý **cách đọc**: 〜場 thường là **じょう** (駐車場), 〜所 là しょ hoặc **じょ** (研究所・保健所), 〜街 là **がい**, 〜届 là **とどけ**, 出生届 là **しゅっしょう**とどけ.\n- Từ đồng âm / gần âm dễ bẫy: 使用料 ↔ 使用量 (cùng đọc しようりょう: phí ↔ lượng); 案内所 (あんないしょ, quầy) ↔ 案内状 (あんないじょう, thư mời).",
+ "sections": [
+  {
+   "title": "〜者",
+   "title_vi": "người làm… / người chuyên về… (nghề nghiệp, 〜しゃ)",
+   "words": [
+    {
+     "id": "g36-w1",
+     "w": "研究者",
+     "r": "けんきゅうしゃ",
+     "hv": "NGHIÊN CỨU GIẢ",
+     "pos": "名",
+     "vi": "nhà nghiên cứu",
+     "key": false,
+     "ex": {
+      "ja": "{兄|あに}は{大学|だいがく}で{脳|のう}の{研究者|けんきゅうしゃ}をしている。",
+      "vi": "Anh tôi là nhà nghiên cứu về não ở trường đại học."
+     },
+     "note": "研究者 = người làm nghiên cứu nói chung (tư cách cá nhân). 研究員 = nhân viên nghiên cứu thuộc một viện / công ty."
+    },
+    {
+     "id": "g36-w2",
+     "w": "技術者",
+     "r": "ぎじゅつしゃ",
+     "hv": "KỸ THUẬT GIẢ",
+     "pos": "名",
+     "vi": "kỹ sư, người làm kỹ thuật",
+     "key": false,
+     "ex": {
+      "ja": "{工場|こうじょう}では{技術者|ぎじゅつしゃ}が{足|た}りない。",
+      "vi": "Nhà máy đang thiếu người làm kỹ thuật."
+     },
+     "rel": "≒ エンジニア"
+    },
+    {
+     "id": "g36-w3",
+     "w": "労働者",
+     "r": "ろうどうしゃ",
+     "hv": "LAO ĐỘNG GIẢ",
+     "pos": "名",
+     "vi": "người lao động",
+     "key": false,
+     "ex": {
+      "ja": "{外国人|がいこくじん}{労働者|ろうどうしゃ}が{年々|ねんねん}{増|ふ}えている。",
+      "vi": "Lao động nước ngoài tăng lên hằng năm."
+     }
+    },
+    {
+     "id": "g36-w4",
+     "w": "科学者",
+     "r": "かがくしゃ",
+     "hv": "KHOA HỌC GIẢ",
+     "pos": "名",
+     "vi": "nhà khoa học",
+     "key": true,
+     "ex": {
+      "ja": "{将来|しょうらい}は{科学者|かがくしゃ}になって{薬|くすり}を{作|つく}りたい。",
+      "vi": "Sau này tôi muốn thành nhà khoa học và làm ra thuốc."
+     }
+    },
+    {
+     "id": "g36-w5",
+     "w": "編集者",
+     "r": "へんしゅうしゃ",
+     "hv": "BIÊN TẬP GIẢ",
+     "pos": "名",
+     "vi": "biên tập viên (sách, báo, tạp chí)",
+     "key": true,
+     "ex": {
+      "ja": "{原稿|げんこう}は{編集者|へんしゅうしゃ}のチェックを{受|う}けてから{印刷|いんさつ}される。",
+      "vi": "Bản thảo được biên tập viên kiểm tra rồi mới in."
+     },
+     "note": "Không nói ✗編集家 / ✗編集員 trong nghĩa nghề nghiệp này."
+    }
+   ]
+  },
+  {
+   "title": "〜家",
+   "title_vi": "nhà… (người có chuyên môn / sáng tác, 〜か)",
+   "words": [
+    {
+     "id": "g36-w6",
+     "w": "政治家",
+     "r": "せいじか",
+     "hv": "CHÍNH TRỊ GIA",
+     "pos": "名",
+     "vi": "chính trị gia",
+     "key": false,
+     "ex": {
+      "ja": "{国民|こくみん}の{声|こえ}を{聞|き}かない{政治家|せいじか}は{信用|しんよう}できない。",
+      "vi": "Không thể tin chính trị gia không lắng nghe tiếng nói của dân."
+     }
+    },
+    {
+     "id": "g36-w7",
+     "w": "小説家",
+     "r": "しょうせつか",
+     "hv": "TIỂU THUYẾT GIA",
+     "pos": "名",
+     "vi": "tiểu thuyết gia, nhà văn",
+     "key": false,
+     "ex": {
+      "ja": "{彼女|かのじょ}は{会社|かいしゃ}を{辞|や}めて{小説家|しょうせつか}になった。",
+      "vi": "Cô ấy bỏ việc công ty để trở thành nhà văn."
+     },
+     "rel": "≒ 作家"
+    },
+    {
+     "id": "g36-w8",
+     "w": "芸術家",
+     "r": "げいじゅつか",
+     "hv": "NGHỆ THUẬT GIA",
+     "pos": "名",
+     "vi": "nghệ sĩ (hội hoạ, điêu khắc…)",
+     "key": false,
+     "ex": {
+      "ja": "この{町|まち}には{若|わか}い{芸術家|げいじゅつか}が{多|おお}く{住|す}んでいる。",
+      "vi": "Thị trấn này có nhiều nghệ sĩ trẻ sinh sống."
+     }
+    },
+    {
+     "id": "g36-w9",
+     "w": "写真家",
+     "r": "しゃしんか",
+     "hv": "TẢ CHÂN GIA",
+     "pos": "名",
+     "vi": "nhiếp ảnh gia",
+     "key": false,
+     "ex": {
+      "ja": "{有名|ゆうめい}な{写真家|しゃしんか}の{展覧会|てんらんかい}に{行|い}った。",
+      "vi": "Tôi đã đi xem triển lãm của một nhiếp ảnh gia nổi tiếng."
+     },
+     "rel": "≒ カメラマン"
+    },
+    {
+     "id": "g36-w10",
+     "w": "作曲家",
+     "r": "さっきょくか",
+     "hv": "TÁC KHÚC GIA",
+     "pos": "名",
+     "vi": "nhà soạn nhạc",
+     "key": false,
+     "ex": {
+      "ja": "{映画|えいが}の{音楽|おんがく}は{若手|わかて}の{作曲家|さっきょくか}が{担当|たんとう}した。",
+      "vi": "Nhạc phim do một nhà soạn nhạc trẻ phụ trách."
+     }
+    },
+    {
+     "id": "g36-w11",
+     "w": "音楽家",
+     "r": "おんがくか",
+     "hv": "ÂM NHẠC GIA",
+     "pos": "名",
+     "vi": "nhạc sĩ, nhà âm nhạc",
+     "key": false,
+     "ex": {
+      "ja": "{祖父|そふ}は{有名|ゆうめい}な{音楽家|おんがくか}だった。",
+      "vi": "Ông tôi từng là một nhạc sĩ nổi tiếng."
+     }
+    },
+    {
+     "id": "g36-w12",
+     "w": "建築家",
+     "r": "けんちくか",
+     "hv": "KIẾN TRÚC GIA",
+     "pos": "名",
+     "vi": "kiến trúc sư (người thiết kế, mang tính sáng tác)",
+     "key": true,
+     "ex": {
+      "ja": "この{美術館|びじゅつかん}は{世界的|せかいてき}な{建築家|けんちくか}が{設計|せっけい}した。",
+      "vi": "Bảo tàng này do một kiến trúc sư tầm cỡ thế giới thiết kế."
+     },
+     "note": "建築家 nhấn mạnh tính sáng tạo, danh tiếng; 建築士 là **chức danh có bằng cấp** (一級建築士)."
+    },
+    {
+     "id": "g36-w13",
+     "w": "専門家",
+     "r": "せんもんか",
+     "hv": "CHUYÊN MÔN GIA",
+     "pos": "名",
+     "vi": "chuyên gia",
+     "key": true,
+     "ex": {
+      "ja": "{法律|ほうりつ}のことは{専門家|せんもんか}に{相談|そうだん}したほうがいい。",
+      "vi": "Chuyện luật pháp nên hỏi ý kiến chuyên gia."
+     },
+     "col": [
+      "〜の専門家",
+      "専門家の意見"
+     ]
+    },
+    {
+     "id": "g36-w14",
+     "w": "評論家",
+     "r": "ひょうろんか",
+     "hv": "BÌNH LUẬN GIA",
+     "pos": "名",
+     "vi": "nhà phê bình, nhà bình luận",
+     "key": true,
+     "ex": {
+      "ja": "{映画|えいが}{評論家|ひょうろんか}の{意見|いけん}は{厳|きび}しかった。",
+      "vi": "Ý kiến của nhà phê bình điện ảnh khá khắt khe."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜士",
+   "title_vi": "người có bằng cấp / chứng chỉ nghề (〜し)",
+   "words": [
+    {
+     "id": "g36-w15",
+     "w": "運転士",
+     "r": "うんてんし",
+     "hv": "VẬN CHUYỂN SĨ",
+     "pos": "名",
+     "vi": "người lái (tàu điện, tàu hoả)",
+     "key": false,
+     "ex": {
+      "ja": "{電車|でんしゃ}の{運転士|うんてんし}は{安全|あんぜん}を{第一|だいいち}に{考|かんが}える。",
+      "vi": "Người lái tàu điện đặt an toàn lên hàng đầu."
+     },
+     "note": "Lái tàu điện → 運転士; lái taxi, xe buýt → 運転手(うんてんしゅ)."
+    },
+    {
+     "id": "g36-w16",
+     "w": "建築士",
+     "r": "けんちくし",
+     "hv": "KIẾN TRÚC SĨ",
+     "pos": "名",
+     "vi": "kiến trúc sư (có chứng chỉ hành nghề)",
+     "key": true,
+     "ex": {
+      "ja": "{家|いえ}を{建|た}てる{前|まえ}に{建築士|けんちくし}と{打|う}ち{合|あ}わせをした。",
+      "vi": "Trước khi xây nhà, tôi đã bàn bạc với kiến trúc sư."
+     },
+     "col": [
+      "一級建築士"
+     ]
+    },
+    {
+     "id": "g36-w17",
+     "w": "弁護士",
+     "r": "べんごし",
+     "hv": "BIỆN HỘ SĨ",
+     "pos": "名",
+     "vi": "luật sư",
+     "key": true,
+     "ex": {
+      "ja": "{問題|もんだい}が{起|お}きたら{弁護士|べんごし}に{頼|たの}むつもりだ。",
+      "vi": "Nếu có chuyện, tôi định nhờ luật sư."
+     }
+    },
+    {
+     "id": "g36-w18",
+     "w": "会計士",
+     "r": "かいけいし",
+     "hv": "HỘI KẾ SĨ",
+     "pos": "名",
+     "vi": "kế toán viên (công chứng)",
+     "key": true,
+     "ex": {
+      "ja": "{会計士|かいけいし}が{会社|かいしゃ}の{帳簿|ちょうぼ}を{調|しら}べた。",
+      "vi": "Kế toán viên đã kiểm tra sổ sách công ty."
+     },
+     "col": [
+      "公認会計士"
+     ]
+    },
+    {
+     "id": "g36-w19",
+     "w": "宇宙飛行士",
+     "r": "うちゅうひこうし",
+     "hv": "VŨ TRỤ PHI HÀNH SĨ",
+     "pos": "名",
+     "vi": "phi hành gia",
+     "key": true,
+     "ex": {
+      "ja": "{子|こ}どものころ、{宇宙飛行士|うちゅうひこうし}になるのが{夢|ゆめ}だった。",
+      "vi": "Hồi nhỏ, ước mơ của tôi là làm phi hành gia."
+     }
+    },
+    {
+     "id": "g36-w20",
+     "w": "消防士",
+     "r": "しょうぼうし",
+     "hv": "TIÊU PHÒNG SĨ",
+     "pos": "名",
+     "vi": "lính cứu hoả",
+     "key": true,
+     "ex": {
+      "ja": "{消防士|しょうぼうし}が{燃|も}える{家|いえ}から{子|こ}どもを{助|たす}け{出|だ}した。",
+      "vi": "Lính cứu hoả cứu đứa bé ra khỏi căn nhà đang cháy."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜員",
+   "title_vi": "nhân viên / thành viên của một tổ chức (〜いん)",
+   "words": [
+    {
+     "id": "g36-w21",
+     "w": "研究員",
+     "r": "けんきゅういん",
+     "hv": "NGHIÊN CỨU VIÊN",
+     "pos": "名",
+     "vi": "nghiên cứu viên (thuộc viện, công ty)",
+     "key": false,
+     "ex": {
+      "ja": "{製薬会社|せいやくがいしゃ}の{研究員|けんきゅういん}として{働|はたら}いている。",
+      "vi": "Tôi đang làm nghiên cứu viên ở một công ty dược."
+     }
+    },
+    {
+     "id": "g36-w22",
+     "w": "公務員",
+     "r": "こうむいん",
+     "hv": "CÔNG VỤ VIÊN",
+     "pos": "名",
+     "vi": "công chức, viên chức nhà nước",
+     "key": false,
+     "ex": {
+      "ja": "{安定|あんてい}しているので{公務員|こうむいん}を{希望|きぼう}する{学生|がくせい}が{多|おお}い。",
+      "vi": "Vì ổn định nên nhiều sinh viên muốn làm công chức."
+     }
+    },
+    {
+     "id": "g36-w23",
+     "w": "銀行員",
+     "r": "ぎんこういん",
+     "hv": "NGÂN HÀNG VIÊN",
+     "pos": "名",
+     "vi": "nhân viên ngân hàng",
+     "key": false,
+     "ex": {
+      "ja": "{父|ちち}は{三十年|さんじゅうねん}{銀行員|ぎんこういん}として{勤|つと}めた。",
+      "vi": "Bố tôi làm nhân viên ngân hàng suốt 30 năm."
+     }
+    },
+    {
+     "id": "g36-w24",
+     "w": "会社員",
+     "r": "かいしゃいん",
+     "hv": "HỘI XÃ VIÊN",
+     "pos": "名",
+     "vi": "nhân viên công ty",
+     "key": false,
+     "ex": {
+      "ja": "{普通|ふつう}の{会社員|かいしゃいん}でも{家|いえ}は{買|か}える。",
+      "vi": "Dù là nhân viên công ty bình thường vẫn mua được nhà."
+     },
+     "rel": "≒ サラリーマン"
+    },
+    {
+     "id": "g36-w25",
+     "w": "警備員",
+     "r": "けいびいん",
+     "hv": "CẢNH BỊ VIÊN",
+     "pos": "名",
+     "vi": "nhân viên bảo vệ",
+     "key": true,
+     "ex": {
+      "ja": "{夜|よる}は{警備員|けいびいん}がビルの{中|なか}を{見回|みまわ}っている。",
+      "vi": "Ban đêm nhân viên bảo vệ đi tuần trong toà nhà."
+     },
+     "rel": "≒ ガードマン"
+    }
+   ]
+  },
+  {
+   "title": "〜官",
+   "title_vi": "quan chức, người làm việc nhà nước có quyền hạn (〜かん)",
+   "words": [
+    {
+     "id": "g36-w26",
+     "w": "警察官",
+     "r": "けいさつかん",
+     "hv": "CẢNH SÁT QUAN",
+     "pos": "名",
+     "vi": "cảnh sát viên",
+     "key": false,
+     "ex": {
+      "ja": "{交差点|こうさてん}に{警察官|けいさつかん}が{立|た}っている。",
+      "vi": "Có cảnh sát đứng ở ngã tư."
+     },
+     "rel": "≒ 警官・おまわりさん"
+    },
+    {
+     "id": "g36-w27",
+     "w": "試験官",
+     "r": "しけんかん",
+     "hv": "THÍ NGHIỆM QUAN",
+     "pos": "名",
+     "vi": "giám thị, giám khảo (kỳ thi)",
+     "key": false,
+     "ex": {
+      "ja": "{試験官|しけんかん}の{指示|しじ}に{従|したが}って{問題用紙|もんだいようし}を{開|ひら}いた。",
+      "vi": "Theo hướng dẫn của giám thị, tôi mở đề thi."
+     }
+    },
+    {
+     "id": "g36-w28",
+     "w": "裁判官",
+     "r": "さいばんかん",
+     "hv": "TÀI PHÁN QUAN",
+     "pos": "名",
+     "vi": "thẩm phán",
+     "key": true,
+     "ex": {
+      "ja": "{裁判官|さいばんかん}は{冷静|れいせい}に{判決|はんけつ}を{言|い}い{渡|わた}した。",
+      "vi": "Thẩm phán bình tĩnh tuyên án."
+     }
+    },
+    {
+     "id": "g36-w29",
+     "w": "外交官",
+     "r": "がいこうかん",
+     "hv": "NGOẠI GIAO QUAN",
+     "pos": "名",
+     "vi": "nhà ngoại giao",
+     "key": true,
+     "ex": {
+      "ja": "{語学|ごがく}を{生|い}かして{外交官|がいこうかん}になりたい。",
+      "vi": "Tôi muốn tận dụng khả năng ngoại ngữ để làm nhà ngoại giao."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜師",
+   "title_vi": "người có tay nghề / kỹ năng chuyên môn (〜し)",
+   "words": [
+    {
+     "id": "g36-w30",
+     "w": "調理師",
+     "r": "ちょうりし",
+     "hv": "ĐIỀU LÝ SƯ",
+     "pos": "名",
+     "vi": "đầu bếp (có chứng chỉ)",
+     "key": false,
+     "ex": {
+      "ja": "{専門学校|せんもんがっこう}で{調理師|ちょうりし}の{資格|しかく}を{取|と}った。",
+      "vi": "Tôi lấy chứng chỉ đầu bếp ở trường dạy nghề."
+     }
+    },
+    {
+     "id": "g36-w31",
+     "w": "手品師",
+     "r": "てじなし",
+     "hv": "THỦ PHẨM SƯ",
+     "pos": "名",
+     "vi": "ảo thuật gia",
+     "key": true,
+     "ex": {
+      "ja": "{手品師|てじなし}が{帽子|ぼうし}からハトを{出|だ}した。",
+      "vi": "Ảo thuật gia lôi ra một con bồ câu từ trong mũ."
+     },
+     "rel": "≒ マジシャン"
+    },
+    {
+     "id": "g36-w32",
+     "w": "美容師",
+     "r": "びようし",
+     "hv": "MỸ DUNG SƯ",
+     "pos": "名",
+     "vi": "thợ làm tóc",
+     "key": true,
+     "ex": {
+      "ja": "{行|い}きつけの{美容院|びよういん}の{美容師|びようし}に{髪|かみ}を{切|き}ってもらう。",
+      "vi": "Tôi nhờ thợ làm tóc ở tiệm quen cắt tóc."
+     }
+    },
+    {
+     "id": "g36-w33",
+     "w": "看護師",
+     "r": "かんごし",
+     "hv": "KHÁN HỘ SƯ",
+     "pos": "名",
+     "vi": "y tá, điều dưỡng",
+     "key": true,
+     "ex": {
+      "ja": "{看護師|かんごし}が{夜中|よなか}も{患者|かんじゃ}の{様子|ようす}を{見|み}に{来|く}る。",
+      "vi": "Y tá đến xem tình trạng bệnh nhân cả lúc nửa đêm."
+     },
+     "note": "Ngày xưa là 看護婦 (nữ); nay dùng chung 看護師 cho cả nam lẫn nữ."
+    }
+   ]
+  },
+  {
+   "title": "〜業",
+   "title_vi": "ngành, nghề kinh doanh (〜ぎょう)",
+   "words": [
+    {
+     "id": "g36-w34",
+     "w": "自由業",
+     "r": "じゆうぎょう",
+     "hv": "TỰ DO NGHIỆP",
+     "pos": "名",
+     "vi": "nghề tự do (không thuộc công ty)",
+     "key": false,
+     "ex": {
+      "ja": "{作家|さっか}やデザイナーなどの{自由業|じゆうぎょう}は{収入|しゅうにゅう}が{不安定|ふあんてい}だ。",
+      "vi": "Nghề tự do như nhà văn, nhà thiết kế có thu nhập bấp bênh."
+     },
+     "rel": "≒ フリーランス"
+    },
+    {
+     "id": "g36-w35",
+     "w": "サービス業",
+     "r": "サービスぎょう",
+     "hv": "NGHIỆP",
+     "pos": "名",
+     "vi": "ngành dịch vụ",
+     "key": false,
+     "ex": {
+      "ja": "サービス{業|ぎょう}では{笑顔|えがお}が{大切|たいせつ}だ。",
+      "vi": "Trong ngành dịch vụ, nụ cười rất quan trọng."
+     }
+    },
+    {
+     "id": "g36-w36",
+     "w": "観光業",
+     "r": "かんこうぎょう",
+     "hv": "QUAN QUANG NGHIỆP",
+     "pos": "名",
+     "vi": "ngành du lịch",
+     "key": false,
+     "ex": {
+      "ja": "この{島|しま}の{経済|けいざい}は{観光業|かんこうぎょう}に{頼|たよ}っている。",
+      "vi": "Kinh tế hòn đảo này dựa vào ngành du lịch."
+     }
+    },
+    {
+     "id": "g36-w37",
+     "w": "印刷業",
+     "r": "いんさつぎょう",
+     "hv": "ẤN LOÁT NGHIỆP",
+     "pos": "名",
+     "vi": "ngành in ấn",
+     "key": false,
+     "ex": {
+      "ja": "{電子書籍|でんししょせき}の{普及|ふきゅう}で{印刷業|いんさつぎょう}は{苦|くる}しんでいる。",
+      "vi": "Vì sách điện tử phổ biến, ngành in đang gặp khó."
+     }
+    },
+    {
+     "id": "g36-w38",
+     "w": "広告業",
+     "r": "こうこくぎょう",
+     "hv": "QUẢNG CÁO NGHIỆP",
+     "pos": "名",
+     "vi": "ngành quảng cáo",
+     "key": false,
+     "ex": {
+      "ja": "{広告業|こうこくぎょう}は{忙|いそが}しいが{面白|おもしろ}い{仕事|しごと}だ。",
+      "vi": "Ngành quảng cáo bận rộn nhưng là công việc thú vị."
+     }
+    },
+    {
+     "id": "g36-w39",
+     "w": "建設業",
+     "r": "けんせつぎょう",
+     "hv": "KIẾN THIẾT NGHIỆP",
+     "pos": "名",
+     "vi": "ngành xây dựng",
+     "key": true,
+     "ex": {
+      "ja": "{建設業|けんせつぎょう}では{人手不足|ひとでぶそく}が{深刻|しんこく}だ。",
+      "vi": "Ngành xây dựng thiếu nhân lực nghiêm trọng."
+     }
+    },
+    {
+     "id": "g36-w40",
+     "w": "自営業",
+     "r": "じえいぎょう",
+     "hv": "TỰ DOANH NGHIỆP",
+     "pos": "名",
+     "vi": "tự kinh doanh (mở tiệm, cửa hàng riêng)",
+     "key": true,
+     "ex": {
+      "ja": "{両親|りょうしん}は{自営業|じえいぎょう}で{パン屋|ぱんや}を{営|いとな}んでいる。",
+      "vi": "Bố mẹ tôi tự kinh doanh, mở một tiệm bánh mì."
+     },
+     "note": "自営業 = tự làm chủ cơ sở kinh doanh của mình; 自由業 = nghề tự do (viết lách, thiết kế…)."
+    },
+    {
+     "id": "g36-w41",
+     "w": "製造業",
+     "r": "せいぞうぎょう",
+     "hv": "CHẾ TẠO NGHIỆP",
+     "pos": "名",
+     "vi": "ngành sản xuất, chế tạo",
+     "key": true,
+     "ex": {
+      "ja": "この{地域|ちいき}は{自動車|じどうしゃ}などの{製造業|せいぞうぎょう}が{盛|さか}んだ。",
+      "vi": "Khu vực này phát triển ngành sản xuất như ô tô."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜料",
+   "title_vi": "phí, tiền trả cho việc sử dụng / dịch vụ (〜りょう)",
+   "words": [
+    {
+     "id": "g36-w42",
+     "w": "入場料",
+     "r": "にゅうじょうりょう",
+     "hv": "NHẬP TRƯỜNG LIỆU",
+     "pos": "名",
+     "vi": "phí vào cửa",
+     "key": false,
+     "ex": {
+      "ja": "{美術館|びじゅつかん}の{入場料|にゅうじょうりょう}は{学生|がくせい}なら{半額|はんがく}だ。",
+      "vi": "Phí vào bảo tàng mỹ thuật thì sinh viên được nửa giá."
+     }
+    },
+    {
+     "id": "g36-w43",
+     "w": "授業料",
+     "r": "じゅぎょうりょう",
+     "hv": "THỤ NGHIỆP LIỆU",
+     "pos": "名",
+     "vi": "học phí",
+     "key": false,
+     "ex": {
+      "ja": "アルバイトで{授業料|じゅぎょうりょう}を{払|はら}っている。",
+      "vi": "Tôi trả học phí bằng tiền làm thêm."
+     },
+     "rel": "≒ 学費"
+    },
+    {
+     "id": "g36-w44",
+     "w": "使用料",
+     "r": "しようりょう",
+     "hv": "SỬ DỤNG LIỆU",
+     "pos": "名",
+     "vi": "phí sử dụng",
+     "key": false,
+     "ex": {
+      "ja": "{会議室|かいぎしつ}の{使用料|しようりょう}は{一時間|いちじかん}千円です。",
+      "vi": "Phí sử dụng phòng họp là 1000 yên một giờ."
+     }
+    },
+    {
+     "id": "g36-w45",
+     "w": "利用料",
+     "r": "りようりょう",
+     "hv": "LỢI DỤNG LIỆU",
+     "pos": "名",
+     "vi": "phí sử dụng (dịch vụ)",
+     "key": false,
+     "ex": {
+      "ja": "このサービスは{月々|つきづき}の{利用料|りようりょう}がかかる。",
+      "vi": "Dịch vụ này tốn phí sử dụng hằng tháng."
+     }
+    },
+    {
+     "id": "g36-w46",
+     "w": "保険料",
+     "r": "ほけんりょう",
+     "hv": "BẢO HIỂM LIỆU",
+     "pos": "名",
+     "vi": "phí bảo hiểm",
+     "key": false,
+     "ex": {
+      "ja": "{年|とし}を{取|と}ると{保険料|ほけんりょう}が{上|あ}がる。",
+      "vi": "Có tuổi thì phí bảo hiểm tăng."
+     }
+    },
+    {
+     "id": "g36-w47",
+     "w": "宿泊料",
+     "r": "しゅくはくりょう",
+     "hv": "TÚC BẠC LIỆU",
+     "pos": "名",
+     "vi": "tiền phòng, phí lưu trú",
+     "key": true,
+     "ex": {
+      "ja": "{宿泊料|しゅくはくりょう}には{朝食代|ちょうしょくだい}も{含|ふく}まれている。",
+      "vi": "Tiền phòng đã bao gồm cả tiền ăn sáng."
+     }
+    },
+    {
+     "id": "g36-w48",
+     "w": "手数料",
+     "r": "てすうりょう",
+     "hv": "THỦ SỐ LIỆU",
+     "pos": "名",
+     "vi": "phí thủ tục, phí giao dịch",
+     "key": true,
+     "ex": {
+      "ja": "{時間外|じかんがい}にお{金|かね}を{下|お}ろすと{手数料|てすうりょう}がかかる。",
+      "vi": "Rút tiền ngoài giờ thì mất phí giao dịch."
+     },
+     "col": [
+      "手数料がかかる",
+      "振込手数料"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "〜代",
+   "title_vi": "tiền trả cho một thứ cụ thể (〜だい)",
+   "words": [
+    {
+     "id": "g36-w49",
+     "w": "食事代",
+     "r": "しょくじだい",
+     "hv": "THỰC SỰ ĐẠI",
+     "pos": "名",
+     "vi": "tiền ăn",
+     "key": false,
+     "ex": {
+      "ja": "{食事代|しょくじだい}は{割|わ}り{勘|かん}にしよう。",
+      "vi": "Tiền ăn mình chia đều nhé."
+     }
+    },
+    {
+     "id": "g36-w50",
+     "w": "部屋代",
+     "r": "へやだい",
+     "hv": "BỘ ỐC ĐẠI",
+     "pos": "名",
+     "vi": "tiền phòng (thuê phòng)",
+     "key": false,
+     "ex": {
+      "ja": "{東京|とうきょう}は{部屋代|へやだい}が{高|たか}くて{大変|たいへん}だ。",
+      "vi": "Ở Tokyo tiền phòng đắt nên vất vả lắm."
+     },
+     "rel": "≒ 家賃(やちん)"
+    },
+    {
+     "id": "g36-w51",
+     "w": "タクシー代",
+     "r": "タクシーだい",
+     "hv": "ĐẠI",
+     "pos": "名",
+     "vi": "tiền taxi",
+     "key": false,
+     "ex": {
+      "ja": "{終電|しゅうでん}を{逃|のが}して、タクシー{代|だい}が{三千円|さんぜんえん}かかった。",
+      "vi": "Lỡ chuyến tàu cuối nên tốn 3000 yên tiền taxi."
+     }
+    },
+    {
+     "id": "g36-w52",
+     "w": "バイト代",
+     "r": "バイトだい",
+     "hv": "ĐẠI",
+     "pos": "名",
+     "vi": "tiền làm thêm",
+     "key": false,
+     "ex": {
+      "ja": "バイト{代|だい}で{新|あたら}しいパソコンを{買|か}った。",
+      "vi": "Tôi mua máy tính mới bằng tiền làm thêm."
+     }
+    },
+    {
+     "id": "g36-w53",
+     "w": "電話代",
+     "r": "でんわだい",
+     "hv": "ĐIỆN THOẠI ĐẠI",
+     "pos": "名",
+     "vi": "tiền điện thoại",
+     "key": false,
+     "ex": {
+      "ja": "{海外|かいがい}に{電話|でんわ}したら{電話代|でんわだい}が{高|たか}くなった。",
+      "vi": "Gọi ra nước ngoài nên tiền điện thoại tăng vọt."
+     }
+    },
+    {
+     "id": "g36-w54",
+     "w": "ガス代",
+     "r": "ガスだい",
+     "hv": "ĐẠI",
+     "pos": "名",
+     "vi": "tiền ga",
+     "key": false,
+     "ex": {
+      "ja": "{冬|ふゆ}はお{風呂|ふろ}をよく{使|つか}うのでガス{代|だい}が{上|あ}がる。",
+      "vi": "Mùa đông dùng bồn tắm nhiều nên tiền ga tăng."
+     }
+    },
+    {
+     "id": "g36-w55",
+     "w": "修理代",
+     "r": "しゅうりだい",
+     "hv": "TU LÝ ĐẠI",
+     "pos": "名",
+     "vi": "tiền sửa chữa",
+     "key": false,
+     "ex": {
+      "ja": "{車|くるま}の{修理代|しゅうりだい}が{思|おも}ったより{高|たか}かった。",
+      "vi": "Tiền sửa xe đắt hơn tôi nghĩ."
+     }
+    },
+    {
+     "id": "g36-w56",
+     "w": "電気代",
+     "r": "でんきだい",
+     "hv": "ĐIỆN KHÍ ĐẠI",
+     "pos": "名",
+     "vi": "tiền điện",
+     "key": false,
+     "ex": {
+      "ja": "エアコンをつけっぱなしにして{電気代|でんきだい}が{倍|ばい}になった。",
+      "vi": "Để điều hoà chạy suốt nên tiền điện tăng gấp đôi."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜費",
+   "title_vi": "chi phí, khoản chi cho một mục đích (〜ひ)",
+   "words": [
+    {
+     "id": "g36-w57",
+     "w": "生活費",
+     "r": "せいかつひ",
+     "hv": "SINH HOẠT PHÍ",
+     "pos": "名",
+     "vi": "chi phí sinh hoạt",
+     "key": false,
+     "ex": {
+      "ja": "{一人暮|ひとりぐ}らしの{生活費|せいかつひ}は{月|つき}にいくらぐらいですか。",
+      "vi": "Chi phí sinh hoạt khi sống một mình khoảng bao nhiêu một tháng?"
+     }
+    },
+    {
+     "id": "g36-w58",
+     "w": "交通費",
+     "r": "こうつうひ",
+     "hv": "GIAO THÔNG PHÍ",
+     "pos": "名",
+     "vi": "chi phí đi lại",
+     "key": false,
+     "ex": {
+      "ja": "{面接|めんせつ}の{交通費|こうつうひ}は{会社|かいしゃ}が{出|だ}してくれる。",
+      "vi": "Công ty chi trả tiền đi lại khi đi phỏng vấn."
+     }
+    },
+    {
+     "id": "g36-w59",
+     "w": "製作費",
+     "r": "せいさくひ",
+     "hv": "CHẾ TÁC PHÍ",
+     "pos": "名",
+     "vi": "chi phí sản xuất (phim, chương trình…)",
+     "key": false,
+     "ex": {
+      "ja": "この{映画|えいが}の{製作費|せいさくひ}は{百億円|ひゃくおくえん}を{超|こ}える。",
+      "vi": "Kinh phí làm bộ phim này vượt 10 tỷ yên."
+     }
+    },
+    {
+     "id": "g36-w60",
+     "w": "宣伝費",
+     "r": "せんでんひ",
+     "hv": "TUYÊN TRUYỀN PHÍ",
+     "pos": "名",
+     "vi": "chi phí quảng cáo",
+     "key": true,
+     "ex": {
+      "ja": "{新商品|しんしょうひん}の{宣伝費|せんでんひ}を{増|ふ}やすことになった。",
+      "vi": "Đã quyết định tăng chi phí quảng cáo cho sản phẩm mới."
+     }
+    },
+    {
+     "id": "g36-w61",
+     "w": "交際費",
+     "r": "こうさいひ",
+     "hv": "GIAO TẾ PHÍ",
+     "pos": "名",
+     "vi": "chi phí giao tế (tiếp khách, quan hệ)",
+     "key": true,
+     "ex": {
+      "ja": "{接待|せったい}が{多|おお}く、{交際費|こうさいひ}がかさむ。",
+      "vi": "Tiếp khách nhiều nên chi phí giao tế đội lên."
+     }
+    },
+    {
+     "id": "g36-w62",
+     "w": "光熱費",
+     "r": "こうねつひ",
+     "hv": "QUANG NHIỆT PHÍ",
+     "pos": "名",
+     "vi": "tiền điện, ga, nước (chi phí năng lượng)",
+     "key": true,
+     "ex": {
+      "ja": "{家賃|やちん}とは{別|べつ}に{光熱費|こうねつひ}が{月|つき}一万円ほどかかる。",
+      "vi": "Ngoài tiền nhà còn tốn khoảng 1 vạn yên tiền điện ga mỗi tháng."
+     },
+     "note": "光熱費 = 電気代 + ガス代 (+ 水道代) gộp lại."
+    }
+   ]
+  },
+  {
+   "title": "〜金",
+   "title_vi": "khoản tiền (nộp, gửi, quyên góp…) (〜きん)",
+   "words": [
+    {
+     "id": "g36-w63",
+     "w": "入会金",
+     "r": "にゅうかいきん",
+     "hv": "NHẬP HỘI KIM",
+     "pos": "名",
+     "vi": "phí gia nhập (hội, câu lạc bộ, phòng gym)",
+     "key": false,
+     "ex": {
+      "ja": "{今月中|こんげつちゅう}に{申|もう}し{込|こ}めば{入会金|にゅうかいきん}が{無料|むりょう}になる。",
+      "vi": "Đăng ký trong tháng này thì được miễn phí gia nhập."
+     }
+    },
+    {
+     "id": "g36-w64",
+     "w": "入学金",
+     "r": "にゅうがくきん",
+     "hv": "NHẬP HỌC KIM",
+     "pos": "名",
+     "vi": "phí nhập học",
+     "key": false,
+     "ex": {
+      "ja": "{合格|ごうかく}したら{一週間|いっしゅうかん}以内に{入学金|にゅうがくきん}を{払|はら}う。",
+      "vi": "Đỗ rồi thì phải đóng phí nhập học trong vòng một tuần."
+     }
+    },
+    {
+     "id": "g36-w65",
+     "w": "寄付金",
+     "r": "きふきん",
+     "hv": "KÝ PHÓ KIM",
+     "pos": "名",
+     "vi": "tiền quyên góp",
+     "key": true,
+     "ex": {
+      "ja": "{集|あつ}まった{寄付金|きふきん}は{被災地|ひさいち}に{送|おく}られる。",
+      "vi": "Tiền quyên góp được sẽ gửi tới vùng bị thiên tai."
+     }
+    },
+    {
+     "id": "g36-w66",
+     "w": "奨学金",
+     "r": "しょうがくきん",
+     "hv": "TƯỞNG HỌC KIM",
+     "pos": "名",
+     "vi": "học bổng",
+     "key": true,
+     "ex": {
+      "ja": "{奨学金|しょうがくきん}をもらって{留学|りゅうがく}した。",
+      "vi": "Tôi nhận học bổng và đi du học."
+     },
+     "col": [
+      "奨学金を受ける",
+      "奨学金を返す"
+     ]
+    },
+    {
+     "id": "g36-w67",
+     "w": "保証金",
+     "r": "ほしょうきん",
+     "hv": "BẢO CHỨNG KIM",
+     "pos": "名",
+     "vi": "tiền đặt cọc, tiền bảo đảm",
+     "key": true,
+     "ex": {
+      "ja": "{部屋|へや}を{借|か}りるとき{保証金|ほしょうきん}を{預|あず}けた。",
+      "vi": "Khi thuê phòng tôi đã gửi tiền đặt cọc."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜地",
+   "title_vi": "vùng, nơi (địa điểm theo chức năng) (〜ち)",
+   "words": [
+    {
+     "id": "g36-w68",
+     "w": "観光地",
+     "r": "かんこうち",
+     "hv": "QUAN QUANG ĐỊA",
+     "pos": "名",
+     "vi": "điểm du lịch",
+     "key": false,
+     "ex": {
+      "ja": "{連休|れんきゅう}はどこの{観光地|かんこうち}も{混|こ}んでいる。",
+      "vi": "Kỳ nghỉ dài thì điểm du lịch nào cũng đông."
+     }
+    },
+    {
+     "id": "g36-w69",
+     "w": "出身地",
+     "r": "しゅっしんち",
+     "hv": "XUẤT THÂN ĐỊA",
+     "pos": "名",
+     "vi": "quê quán, nơi xuất thân",
+     "key": false,
+     "ex": {
+      "ja": "{自己紹介|じこしょうかい}で{名前|なまえ}と{出身地|しゅっしんち}を{言|い}った。",
+      "vi": "Khi tự giới thiệu, tôi nói tên và quê quán."
+     }
+    },
+    {
+     "id": "g36-w70",
+     "w": "住宅地",
+     "r": "じゅうたくち",
+     "hv": "TRÚ TRẠCH ĐỊA",
+     "pos": "名",
+     "vi": "khu dân cư",
+     "key": false,
+     "ex": {
+      "ja": "{駅|えき}の{北側|きたがわ}は{静|しず}かな{住宅地|じゅうたくち}だ。",
+      "vi": "Phía bắc ga là khu dân cư yên tĩnh."
+     },
+     "note": "住宅地 = vùng đất để ở; 住宅街 = khu phố toàn nhà ở (cảm giác dãy phố)."
+    },
+    {
+     "id": "g36-w71",
+     "w": "目的地",
+     "r": "もくてきち",
+     "hv": "MỤC ĐÍCH ĐỊA",
+     "pos": "名",
+     "vi": "điểm đến",
+     "key": false,
+     "ex": {
+      "ja": "カーナビに{目的地|もくてきち}を{入力|にゅうりょく}する。",
+      "vi": "Nhập điểm đến vào máy dẫn đường."
+     }
+    },
+    {
+     "id": "g36-w72",
+     "w": "生産地",
+     "r": "せいさんち",
+     "hv": "SINH SẢN ĐỊA",
+     "pos": "名",
+     "vi": "nơi sản xuất",
+     "key": false,
+     "ex": {
+      "ja": "{野菜|やさい}の{袋|ふくろ}には{生産地|せいさんち}が{書|か}いてある。",
+      "vi": "Trên túi rau có ghi nơi sản xuất."
+     },
+     "rel": "≒ 産地"
+    },
+    {
+     "id": "g36-w73",
+     "w": "勤務地",
+     "r": "きんむち",
+     "hv": "CẦN VỤ ĐỊA",
+     "pos": "名",
+     "vi": "nơi làm việc (địa điểm làm việc)",
+     "key": false,
+     "ex": {
+      "ja": "{勤務地|きんむち}は{本人|ほんにん}の{希望|きぼう}を{考慮|こうりょ}して{決|き}める。",
+      "vi": "Nơi làm việc sẽ được quyết định có xét nguyện vọng của bản thân."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜場",
+   "title_vi": "nơi, bãi, sân để làm việc gì (〜じょう)",
+   "words": [
+    {
+     "id": "g36-w74",
+     "w": "駐車場",
+     "r": "ちゅうしゃじょう",
+     "hv": "TRÚ XA TRƯỜNG",
+     "pos": "名",
+     "vi": "bãi đỗ xe",
+     "key": false,
+     "ex": {
+      "ja": "{店|みせ}の{裏|うら}に{無料|むりょう}の{駐車場|ちゅうしゃじょう}がある。",
+      "vi": "Sau cửa hàng có bãi đỗ xe miễn phí."
+     }
+    },
+    {
+     "id": "g36-w75",
+     "w": "結婚式場",
+     "r": "けっこんしきじょう",
+     "hv": "KẾT HÔN THỨC TRƯỜNG",
+     "pos": "名",
+     "vi": "hội trường tổ chức cưới",
+     "key": false,
+     "ex": {
+      "ja": "{一年前|いちねんまえ}に{結婚式場|けっこんしきじょう}を{予約|よやく}した。",
+      "vi": "Tôi đã đặt hội trường cưới từ một năm trước."
+     }
+    },
+    {
+     "id": "g36-w76",
+     "w": "練習場",
+     "r": "れんしゅうじょう",
+     "hv": "LUYỆN TẬP TRƯỜNG",
+     "pos": "名",
+     "vi": "sân tập, nơi luyện tập",
+     "key": false,
+     "ex": {
+      "ja": "{週末|しゅうまつ}はゴルフの{練習場|れんしゅうじょう}に{通|かよ}っている。",
+      "vi": "Cuối tuần tôi hay ra sân tập golf."
+     }
+    },
+    {
+     "id": "g36-w77",
+     "w": "運動場",
+     "r": "うんどうじょう",
+     "hv": "VẬN ĐỘNG TRƯỜNG",
+     "pos": "名",
+     "vi": "sân vận động, sân thể thao (trường học)",
+     "key": false,
+     "ex": {
+      "ja": "{昼休|ひるやす}みに{運動場|うんどうじょう}でサッカーをした。",
+      "vi": "Giờ nghỉ trưa chúng tôi đá bóng ở sân thể thao."
+     },
+     "rel": "≒ グラウンド"
+    },
+    {
+     "id": "g36-w78",
+     "w": "スキー場",
+     "r": "スキーじょう",
+     "hv": "TRƯỜNG",
+     "pos": "名",
+     "vi": "khu trượt tuyết",
+     "key": false,
+     "ex": {
+      "ja": "{冬休|ふゆやす}みに{家族|かぞく}でスキー{場|じょう}へ{行|い}った。",
+      "vi": "Nghỉ đông cả nhà tôi đi khu trượt tuyết."
+     }
+    },
+    {
+     "id": "g36-w79",
+     "w": "ゴルフ場",
+     "r": "ゴルフじょう",
+     "hv": "TRƯỜNG",
+     "pos": "名",
+     "vi": "sân golf",
+     "key": false,
+     "ex": {
+      "ja": "{山|やま}を{切|き}り{開|ひら}いてゴルフ{場|じょう}が{作|つく}られた。",
+      "vi": "Người ta phá núi để làm sân golf."
+     }
+    },
+    {
+     "id": "g36-w80",
+     "w": "海水浴場",
+     "r": "かいすいよくじょう",
+     "hv": "HẢI THUỶ DỤC TRƯỜNG",
+     "pos": "名",
+     "vi": "bãi tắm biển",
+     "key": true,
+     "ex": {
+      "ja": "{夏|なつ}になると{海水浴場|かいすいよくじょう}は{人|ひと}でいっぱいだ。",
+      "vi": "Hè đến là bãi tắm biển chật kín người."
+     }
+    },
+    {
+     "id": "g36-w81",
+     "w": "競技場",
+     "r": "きょうぎじょう",
+     "hv": "CẠNH KỸ TRƯỜNG",
+     "pos": "名",
+     "vi": "sân thi đấu, sân vận động",
+     "key": true,
+     "ex": {
+      "ja": "{陸上|りくじょう}{競技場|きょうぎじょう}で{大会|たいかい}が{開|ひら}かれる。",
+      "vi": "Giải đấu được tổ chức ở sân điền kinh."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜所",
+   "title_vi": "cơ sở, văn phòng, nơi làm việc của một tổ chức (〜しょ／〜じょ)",
+   "words": [
+    {
+     "id": "g36-w82",
+     "w": "研究所",
+     "r": "けんきゅうじょ",
+     "hv": "NGHIÊN CỨU SỞ",
+     "pos": "名",
+     "vi": "viện nghiên cứu",
+     "key": false,
+     "ex": {
+      "ja": "{卒業後|そつぎょうご}は{国|くに}の{研究所|けんきゅうじょ}で{働|はたら}く。",
+      "vi": "Sau khi tốt nghiệp tôi sẽ làm ở viện nghiên cứu nhà nước."
+     },
+     "note": "Cũng đọc けんきゅうしょ."
+    },
+    {
+     "id": "g36-w83",
+     "w": "案内所",
+     "r": "あんないしょ",
+     "hv": "ÁN NỘI SỞ",
+     "pos": "名",
+     "vi": "quầy / phòng hướng dẫn, thông tin",
+     "key": false,
+     "ex": {
+      "ja": "{駅|えき}の{観光|かんこう}{案内所|あんないしょ}で{地図|ちず}をもらった。",
+      "vi": "Tôi lấy bản đồ ở quầy hướng dẫn du lịch tại ga."
+     },
+     "note": "Sách ghi あんないしょ; cũng hay nghe あんないじょ."
+    },
+    {
+     "id": "g36-w84",
+     "w": "事務所",
+     "r": "じむしょ",
+     "hv": "SỰ VỤ SỞ",
+     "pos": "名",
+     "vi": "văn phòng",
+     "key": false,
+     "ex": {
+      "ja": "{弁護士|べんごし}の{事務所|じむしょ}はこのビルの{三階|さんがい}だ。",
+      "vi": "Văn phòng luật sư ở tầng 3 toà nhà này."
+     }
+    },
+    {
+     "id": "g36-w85",
+     "w": "保育所",
+     "r": "ほいくしょ",
+     "hv": "BẢO DỤC SỞ",
+     "pos": "名",
+     "vi": "nhà trẻ",
+     "key": true,
+     "ex": {
+      "ja": "{朝|あさ}、{子|こ}どもを{保育所|ほいくしょ}に{預|あず}けてから{出勤|しゅっきん}する。",
+      "vi": "Buổi sáng tôi gửi con ở nhà trẻ rồi mới đi làm."
+     },
+     "rel": "≒ 保育園"
+    },
+    {
+     "id": "g36-w86",
+     "w": "裁判所",
+     "r": "さいばんしょ",
+     "hv": "TÀI PHÁN SỞ",
+     "pos": "名",
+     "vi": "toà án",
+     "key": true,
+     "ex": {
+      "ja": "{事件|じけん}は{裁判所|さいばんしょ}で{争|あらそ}われることになった。",
+      "vi": "Vụ việc sẽ được đưa ra toà án."
+     }
+    },
+    {
+     "id": "g36-w87",
+     "w": "保健所",
+     "r": "ほけんじょ",
+     "hv": "BẢO KIỆN SỞ",
+     "pos": "名",
+     "vi": "trung tâm y tế công cộng (phòng y tế)",
+     "key": true,
+     "ex": {
+      "ja": "{食中毒|しょくちゅうどく}が{出|で}た{店|みせ}に{保健所|ほけんじょ}が{調査|ちょうさ}に{入|はい}った。",
+      "vi": "Trung tâm y tế đã vào điều tra cửa hàng xảy ra ngộ độc thực phẩm."
+     }
+    },
+    {
+     "id": "g36-w88",
+     "w": "撮影所",
+     "r": "さつえいじょ",
+     "hv": "TOÁT ẢNH SỞ",
+     "pos": "名",
+     "vi": "trường quay",
+     "key": true,
+     "ex": {
+      "ja": "{京都|きょうと}には{古|ふる}い{映画|えいが}の{撮影所|さつえいじょ}がある。",
+      "vi": "Kyoto có một trường quay phim lâu đời."
+     }
+    },
+    {
+     "id": "g36-w89",
+     "w": "洗面所",
+     "r": "せんめんじょ",
+     "hv": "TẨY DIỆN SỞ",
+     "pos": "名",
+     "vi": "chỗ rửa mặt, phòng vệ sinh",
+     "key": true,
+     "ex": {
+      "ja": "{洗面所|せんめんじょ}で{手|て}を{洗|あら}ってから{食事|しょくじ}をする。",
+      "vi": "Rửa tay ở bồn rửa mặt rồi mới ăn."
+     },
+     "note": "Trong nhà ga, nhà hàng còn là cách nói lịch sự của \"toilet\"."
+    },
+    {
+     "id": "g36-w90",
+     "w": "発電所",
+     "r": "はつでんしょ",
+     "hv": "PHÁT ĐIỆN SỞ",
+     "pos": "名",
+     "vi": "nhà máy điện",
+     "key": true,
+     "ex": {
+      "ja": "{海|うみ}の{近|ちか}くに{新|あたら}しい{発電所|はつでんしょ}ができた。",
+      "vi": "Gần biển mới có một nhà máy điện."
+     },
+     "col": [
+      "原子力発電所",
+      "風力発電所"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "〜署",
+   "title_vi": "cơ quan công quyền (cảnh sát, cứu hoả, thuế) (〜しょ)",
+   "words": [
+    {
+     "id": "g36-w91",
+     "w": "警察署",
+     "r": "けいさつしょ",
+     "hv": "CẢNH SÁT THỰ",
+     "pos": "名",
+     "vi": "đồn cảnh sát (cấp quận)",
+     "key": false,
+     "ex": {
+      "ja": "{落|お}とし{物|もの}を{警察署|けいさつしょ}に{取|と}りに{行|い}った。",
+      "vi": "Tôi đến đồn cảnh sát để nhận lại đồ đánh rơi."
+     },
+     "note": "交番 = bốt cảnh sát nhỏ; 警察署 = đồn lớn quản lý cả khu vực."
+    },
+    {
+     "id": "g36-w92",
+     "w": "消防署",
+     "r": "しょうぼうしょ",
+     "hv": "TIÊU PHÒNG THỰ",
+     "pos": "名",
+     "vi": "trạm cứu hoả, sở phòng cháy",
+     "key": true,
+     "ex": {
+      "ja": "{消防署|しょうぼうしょ}で{防災訓練|ぼうさいくんれん}が{行|おこな}われた。",
+      "vi": "Đã có buổi diễn tập phòng chống thiên tai ở trạm cứu hoả."
+     }
+    },
+    {
+     "id": "g36-w93",
+     "w": "税務署",
+     "r": "ぜいむしょ",
+     "hv": "THUẾ VỤ THỰ",
+     "pos": "名",
+     "vi": "cơ quan thuế, chi cục thuế",
+     "key": true,
+     "ex": {
+      "ja": "{確定申告|かくていしんこく}の{書類|しょるい}を{税務署|ぜいむしょ}に{出|だ}した。",
+      "vi": "Tôi đã nộp hồ sơ quyết toán thuế cho cơ quan thuế."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜街",
+   "title_vi": "khu phố tập trung một loại (〜がい)",
+   "words": [
+    {
+     "id": "g36-w94",
+     "w": "住宅街",
+     "r": "じゅうたくがい",
+     "hv": "TRÚ TRẠCH NHAI",
+     "pos": "名",
+     "vi": "khu phố dân cư",
+     "key": true,
+     "ex": {
+      "ja": "{夜|よる}の{住宅街|じゅうたくがい}はとても{静|しず}かだ。",
+      "vi": "Khu phố dân cư ban đêm rất yên tĩnh."
+     }
+    },
+    {
+     "id": "g36-w95",
+     "w": "温泉街",
+     "r": "おんせんがい",
+     "hv": "ÔN TUYỀN NHAI",
+     "pos": "名",
+     "vi": "phố suối nước nóng",
+     "key": true,
+     "ex": {
+      "ja": "{浴衣|ゆかた}を{着|き}て{温泉街|おんせんがい}を{散歩|さんぽ}した。",
+      "vi": "Tôi mặc yukata đi dạo phố suối nước nóng."
+     }
+    },
+    {
+     "id": "g36-w96",
+     "w": "ビジネス街",
+     "r": "ビジネスがい",
+     "hv": "NHAI",
+     "pos": "名",
+     "vi": "khu thương mại, khu văn phòng",
+     "key": true,
+     "ex": {
+      "ja": "{昼時|ひるどき}のビジネス{街|がい}は{会社員|かいしゃいん}であふれる。",
+      "vi": "Khu văn phòng giờ trưa đầy ắp nhân viên công sở."
+     }
+    },
+    {
+     "id": "g36-w97",
+     "w": "ショッピング街",
+     "r": "ショッピングがい",
+     "hv": "NHAI",
+     "pos": "名",
+     "vi": "phố mua sắm",
+     "key": true,
+     "ex": {
+      "ja": "{駅前|えきまえ}のショッピング{街|がい}は{週末|しゅうまつ}になるとにぎわう。",
+      "vi": "Phố mua sắm trước ga cứ cuối tuần là nhộn nhịp."
+     }
+    },
+    {
+     "id": "g36-w98",
+     "w": "商店街",
+     "r": "しょうてんがい",
+     "hv": "THƯƠNG ĐIẾM NHAI",
+     "pos": "名",
+     "vi": "phố buôn bán, dãy cửa hàng",
+     "key": true,
+     "ex": {
+      "ja": "{大型店|おおがたてん}ができて{商店街|しょうてんがい}の{客|きゃく}が{減|へ}った。",
+      "vi": "Có siêu thị lớn mọc lên nên khách ở phố buôn bán giảm."
+     }
+    },
+    {
+     "id": "g36-w99",
+     "w": "オフィス街",
+     "r": "オフィスがい",
+     "hv": "NHAI",
+     "pos": "名",
+     "vi": "khu văn phòng",
+     "key": true,
+     "ex": {
+      "ja": "{週末|しゅうまつ}のオフィス{街|がい}は{人|ひと}が{少|すく}ない。",
+      "vi": "Khu văn phòng cuối tuần vắng người."
+     }
+    },
+    {
+     "id": "g36-w100",
+     "w": "官庁街",
+     "r": "かんちょうがい",
+     "hv": "QUAN SẢNH NHAI",
+     "pos": "名",
+     "vi": "khu các cơ quan chính phủ",
+     "key": true,
+     "ex": {
+      "ja": "{霞が関|かすみがせき}は{日本|にほん}を{代表|だいひょう}する{官庁街|かんちょうがい}だ。",
+      "vi": "Kasumigaseki là khu cơ quan chính phủ tiêu biểu của Nhật."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜機",
+   "title_vi": "máy móc (có động cơ, cơ cấu phức tạp) (〜き)",
+   "words": [
+    {
+     "id": "g36-w101",
+     "w": "洗濯機",
+     "r": "せんたくき",
+     "hv": "TẨY TRẠC CƠ",
+     "pos": "名",
+     "vi": "máy giặt",
+     "key": false,
+     "ex": {
+      "ja": "{洗濯機|せんたくき}が{壊|こわ}れて{手|て}で{洗|あら}った。",
+      "vi": "Máy giặt hỏng nên tôi giặt bằng tay."
+     }
+    },
+    {
+     "id": "g36-w102",
+     "w": "掃除機",
+     "r": "そうじき",
+     "hv": "TẢO TRỪ CƠ",
+     "pos": "名",
+     "vi": "máy hút bụi",
+     "key": false,
+     "ex": {
+      "ja": "{毎朝|まいあさ}{掃除機|そうじき}をかける。",
+      "vi": "Sáng nào tôi cũng hút bụi."
+     },
+     "col": [
+      "掃除機をかける"
+     ]
+    },
+    {
+     "id": "g36-w103",
+     "w": "計算機",
+     "r": "けいさんき",
+     "hv": "KẾ TOÁN CƠ",
+     "pos": "名",
+     "vi": "máy tính (bỏ túi)",
+     "key": false,
+     "ex": {
+      "ja": "{試験|しけん}では{計算機|けいさんき}を{使|つか}ってもいい。",
+      "vi": "Trong kỳ thi được phép dùng máy tính."
+     }
+    },
+    {
+     "id": "g36-w104",
+     "w": "コピー機",
+     "r": "コピーき",
+     "hv": "CƠ",
+     "pos": "名",
+     "vi": "máy photocopy",
+     "key": false,
+     "ex": {
+      "ja": "コピー{機|き}の{紙|かみ}が{詰|つ}まってしまった。",
+      "vi": "Giấy trong máy photo bị kẹt rồi."
+     }
+    },
+    {
+     "id": "g36-w105",
+     "w": "印刷機",
+     "r": "いんさつき",
+     "hv": "ẤN LOÁT CƠ",
+     "pos": "名",
+     "vi": "máy in (khổ lớn, công nghiệp)",
+     "key": false,
+     "ex": {
+      "ja": "{工場|こうじょう}の{印刷機|いんさつき}が{一日中|いちにちじゅう}{動|うご}いている。",
+      "vi": "Máy in trong xưởng chạy suốt cả ngày."
+     }
+    },
+    {
+     "id": "g36-w106",
+     "w": "自動販売機",
+     "r": "じどうはんばいき",
+     "hv": "TỰ ĐỘNG PHIẾN MẠI CƠ",
+     "pos": "名",
+     "vi": "máy bán hàng tự động",
+     "key": false,
+     "ex": {
+      "ja": "{駅|えき}の{自動販売機|じどうはんばいき}で{水|みず}を{買|か}った。",
+      "vi": "Tôi mua nước ở máy bán hàng tự động tại ga."
+     },
+     "rel": "略: 自販機(じはんき)"
+    },
+    {
+     "id": "g36-w107",
+     "w": "ゲーム機",
+     "r": "ゲームき",
+     "hv": "CƠ",
+     "pos": "名",
+     "vi": "máy chơi game",
+     "key": false,
+     "ex": {
+      "ja": "{誕生日|たんじょうび}に{新|あたら}しいゲーム{機|き}をもらった。",
+      "vi": "Sinh nhật tôi được tặng máy chơi game mới."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜器",
+   "title_vi": "dụng cụ, thiết bị (nhỏ, cầm tay, hoặc bình chứa) (〜き)",
+   "words": [
+    {
+     "id": "g36-w108",
+     "w": "受話器",
+     "r": "じゅわき",
+     "hv": "THỤ THOẠI KHÍ",
+     "pos": "名",
+     "vi": "ống nghe điện thoại",
+     "key": true,
+     "ex": {
+      "ja": "{受話器|じゅわき}を{取|と}ると{知|し}らない{声|こえ}が{聞|き}こえた。",
+      "vi": "Nhấc ống nghe lên thì nghe thấy một giọng lạ."
+     }
+    },
+    {
+     "id": "g36-w109",
+     "w": "注射器",
+     "r": "ちゅうしゃき",
+     "hv": "CHÚ XẠ KHÍ",
+     "pos": "名",
+     "vi": "ống tiêm",
+     "key": true,
+     "ex": {
+      "ja": "{使|つか}い{終|お}わった{注射器|ちゅうしゃき}は{専用|せんよう}の{箱|はこ}に{捨|す}てる。",
+      "vi": "Ống tiêm dùng xong phải bỏ vào hộp chuyên dụng."
+     }
+    },
+    {
+     "id": "g36-w110",
+     "w": "洗面器",
+     "r": "せんめんき",
+     "hv": "TẨY DIỆN KHÍ",
+     "pos": "名",
+     "vi": "chậu rửa mặt",
+     "key": true,
+     "ex": {
+      "ja": "{洗面器|せんめんき}にお{湯|ゆ}を{入|い}れて{顔|かお}を{洗|あら}う。",
+      "vi": "Cho nước nóng vào chậu rồi rửa mặt."
+     }
+    },
+    {
+     "id": "g36-w111",
+     "w": "湯沸かし器",
+     "r": "ゆわかしき",
+     "hv": "THANG PHÍ KHÍ",
+     "pos": "名",
+     "vi": "bình / máy đun nước nóng",
+     "key": true,
+     "ex": {
+      "ja": "{台所|だいどころ}の{湯沸|ゆわ}かし{器|き}を{新|あたら}しくした。",
+      "vi": "Tôi đã thay máy đun nước nóng trong bếp."
+     }
+    },
+    {
+     "id": "g36-w112",
+     "w": "消火器",
+     "r": "しょうかき",
+     "hv": "TIÊU HOẢ KHÍ",
+     "pos": "名",
+     "vi": "bình chữa cháy",
+     "key": true,
+     "ex": {
+      "ja": "{各階|かくかい}に{消火器|しょうかき}が{置|お}いてある。",
+      "vi": "Mỗi tầng đều có đặt bình chữa cháy."
+     }
+    },
+    {
+     "id": "g36-w113",
+     "w": "充電器",
+     "r": "じゅうでんき",
+     "hv": "SUNG ĐIỆN KHÍ",
+     "pos": "名",
+     "vi": "bộ sạc",
+     "key": true,
+     "ex": {
+      "ja": "スマホの{充電器|じゅうでんき}を{家|いえ}に{忘|わす}れてきた。",
+      "vi": "Tôi để quên cục sạc điện thoại ở nhà."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜具",
+   "title_vi": "đồ dùng, dụng cụ (cho một hoạt động) (〜ぐ)",
+   "words": [
+    {
+     "id": "g36-w114",
+     "w": "釣り具",
+     "r": "つりぐ",
+     "hv": "ĐIẾU CỤ",
+     "pos": "名",
+     "vi": "đồ câu cá",
+     "key": true,
+     "ex": {
+      "ja": "{父|ちち}の{趣味|しゅみ}は{釣|つ}り{具|ぐ}を{集|あつ}めることだ。",
+      "vi": "Sở thích của bố tôi là sưu tầm đồ câu cá."
+     }
+    },
+    {
+     "id": "g36-w115",
+     "w": "洗面具",
+     "r": "せんめんぐ",
+     "hv": "TẨY DIỆN CỤ",
+     "pos": "名",
+     "vi": "đồ dùng vệ sinh cá nhân (bàn chải, khăn…)",
+     "key": true,
+     "ex": {
+      "ja": "{旅行|りょこう}のときは{洗面具|せんめんぐ}を{小|ちい}さい{袋|ふくろ}にまとめる。",
+      "vi": "Khi đi du lịch tôi gom đồ vệ sinh cá nhân vào một túi nhỏ."
+     }
+    },
+    {
+     "id": "g36-w116",
+     "w": "筆記具",
+     "r": "ひっきぐ",
+     "hv": "BÚT KÝ CỤ",
+     "pos": "名",
+     "vi": "dụng cụ viết (bút…)",
+     "key": true,
+     "ex": {
+      "ja": "{試験|しけん}には{筆記具|ひっきぐ}と{受験票|じゅけんひょう}を{持|も}ってくること。",
+      "vi": "Đi thi phải mang dụng cụ viết và phiếu dự thi."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜計",
+   "title_vi": "dụng cụ đo (〜けい)",
+   "words": [
+    {
+     "id": "g36-w117",
+     "w": "温度計",
+     "r": "おんどけい",
+     "hv": "ÔN ĐỘ KẾ",
+     "pos": "名",
+     "vi": "nhiệt kế (đo nhiệt độ phòng, không khí)",
+     "key": false,
+     "ex": {
+      "ja": "{温度計|おんどけい}を{見|み}ると{部屋|へや}は{三十度|さんじゅうど}もあった。",
+      "vi": "Nhìn nhiệt kế thì phòng lên tới 30 độ."
+     }
+    },
+    {
+     "id": "g36-w118",
+     "w": "体重計",
+     "r": "たいじゅうけい",
+     "hv": "THỂ TRỌNG KẾ",
+     "pos": "名",
+     "vi": "cân sức khoẻ",
+     "key": false,
+     "ex": {
+      "ja": "{正月|しょうがつ}{明|あ}けに{体重計|たいじゅうけい}に{乗|の}るのが{怖|こわ}い。",
+      "vi": "Sau Tết tôi sợ bước lên cân."
+     }
+    },
+    {
+     "id": "g36-w119",
+     "w": "体温計",
+     "r": "たいおんけい",
+     "hv": "THỂ ÔN KẾ",
+     "pos": "名",
+     "vi": "nhiệt kế (đo thân nhiệt)",
+     "key": false,
+     "ex": {
+      "ja": "{熱|ねつ}っぽいので{体温計|たいおんけい}で{測|はか}った。",
+      "vi": "Thấy hơi sốt nên tôi đo bằng nhiệt kế."
+     }
+    },
+    {
+     "id": "g36-w120",
+     "w": "血圧計",
+     "r": "けつあつけい",
+     "hv": "HUYẾT ÁP KẾ",
+     "pos": "名",
+     "vi": "máy đo huyết áp",
+     "key": true,
+     "ex": {
+      "ja": "{祖母|そぼ}は{毎朝|まいあさ}{血圧計|けつあつけい}で{血圧|けつあつ}を{測|はか}る。",
+      "vi": "Sáng nào bà tôi cũng đo huyết áp bằng máy."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜風",
+   "title_vi": "kiểu…, phong cách…, trông như… (〜ふう)",
+   "words": [
+    {
+     "id": "g36-w121",
+     "w": "日本風",
+     "r": "にほんふう",
+     "hv": "NHẬT BẢN PHONG",
+     "pos": "名",
+     "vi": "kiểu Nhật",
+     "key": false,
+     "ex": {
+      "ja": "{日本風|にほんふう}の{庭|にわ}がある{家|いえ}に{住|す}みたい。",
+      "vi": "Tôi muốn sống trong ngôi nhà có vườn kiểu Nhật."
+     }
+    },
+    {
+     "id": "g36-w122",
+     "w": "アジア風",
+     "r": "アジアふう",
+     "hv": "PHONG",
+     "pos": "名",
+     "vi": "kiểu châu Á",
+     "key": false,
+     "ex": {
+      "ja": "{部屋|へや}をアジア{風|ふう}の{家具|かぐ}でまとめた。",
+      "vi": "Tôi bày phòng toàn bằng đồ nội thất kiểu châu Á."
+     }
+    },
+    {
+     "id": "g36-w123",
+     "w": "昔風",
+     "r": "むかしふう",
+     "hv": "TÍCH PHONG",
+     "pos": "名・な形",
+     "vi": "kiểu ngày xưa, cổ điển",
+     "key": false,
+     "ex": {
+      "ja": "{祖父|そふ}は{考|かんが}え{方|かた}が{昔風|むかしふう}だ。",
+      "vi": "Ông tôi có lối suy nghĩ kiểu xưa."
+     }
+    },
+    {
+     "id": "g36-w124",
+     "w": "サラリーマン風",
+     "r": "サラリーマンふう",
+     "hv": "PHONG",
+     "pos": "名",
+     "vi": "trông như nhân viên công sở",
+     "key": false,
+     "ex": {
+      "ja": "サラリーマン{風|ふう}の{男|おとこ}が{店|みせ}に{入|はい}ってきた。",
+      "vi": "Một người đàn ông trông như dân công sở bước vào quán."
+     },
+     "note": "〜風 sau danh từ chỉ người = \"trông có vẻ là…\" (dùng nhiều trong tin tức: 学生風の男)."
+    },
+    {
+     "id": "g36-w125",
+     "w": "中華風",
+     "r": "ちゅうかふう",
+     "hv": "TRUNG HOA PHONG",
+     "pos": "名",
+     "vi": "kiểu Trung Hoa",
+     "key": true,
+     "ex": {
+      "ja": "{今夜|こんや}は{中華風|ちゅうかふう}のスープを{作|つく}ろう。",
+      "vi": "Tối nay mình nấu canh kiểu Trung Hoa nhé."
+     }
+    },
+    {
+     "id": "g36-w126",
+     "w": "現代風",
+     "r": "げんだいふう",
+     "hv": "HIỆN ĐẠI PHONG",
+     "pos": "名・な形",
+     "vi": "kiểu hiện đại",
+     "key": true,
+     "ex": {
+      "ja": "{古|ふる}い{民家|みんか}を{現代風|げんだいふう}に{改装|かいそう}した。",
+      "vi": "Ngôi nhà dân cũ được cải tạo theo kiểu hiện đại."
+     }
+    },
+    {
+     "id": "g36-w127",
+     "w": "西洋風",
+     "r": "せいようふう",
+     "hv": "TÂY DƯƠNG PHONG",
+     "pos": "名",
+     "vi": "kiểu phương Tây",
+     "key": true,
+     "ex": {
+      "ja": "{明治時代|めいじじだい}には{西洋風|せいようふう}の{建物|たてもの}が{増|ふ}えた。",
+      "vi": "Thời Minh Trị, các toà nhà kiểu Tây tăng lên."
+     },
+     "rel": "≒ 洋風"
+    }
+   ]
+  },
+  {
+   "title": "〜用",
+   "title_vi": "dùng cho…, dành cho… (〜よう)",
+   "words": [
+    {
+     "id": "g36-w128",
+     "w": "家庭用",
+     "r": "かていよう",
+     "hv": "GIA ĐÌNH DỤNG",
+     "pos": "名",
+     "vi": "dùng trong gia đình",
+     "key": false,
+     "ex": {
+      "ja": "これは{業務用|ぎょうむよう}ではなく{家庭用|かていよう}のミシンです。",
+      "vi": "Đây là máy may dùng trong gia đình chứ không phải loại công nghiệp."
+     }
+    },
+    {
+     "id": "g36-w129",
+     "w": "通勤用",
+     "r": "つうきんよう",
+     "hv": "THÔNG CẦN DỤNG",
+     "pos": "名",
+     "vi": "dùng để đi làm",
+     "key": false,
+     "ex": {
+      "ja": "{通勤用|つうきんよう}に{軽|かる}い{自転車|じてんしゃ}を{買|か}った。",
+      "vi": "Tôi mua một chiếc xe đạp nhẹ để đi làm."
+     }
+    },
+    {
+     "id": "g36-w130",
+     "w": "女性用",
+     "r": "じょせいよう",
+     "hv": "NỮ TÍNH DỤNG",
+     "pos": "名",
+     "vi": "dành cho nữ",
+     "key": false,
+     "ex": {
+      "ja": "{女性用|じょせいよう}のトイレは{二階|にかい}にあります。",
+      "vi": "Nhà vệ sinh nữ ở tầng hai."
+     }
+    },
+    {
+     "id": "g36-w131",
+     "w": "男性用",
+     "r": "だんせいよう",
+     "hv": "NAM TÍNH DỤNG",
+     "pos": "名",
+     "vi": "dành cho nam",
+     "key": false,
+     "ex": {
+      "ja": "{男性用|だんせいよう}の{化粧品|けしょうひん}も{売|う}れている。",
+      "vi": "Mỹ phẩm dành cho nam cũng bán chạy."
+     }
+    },
+    {
+     "id": "g36-w132",
+     "w": "子供用",
+     "r": "こどもよう",
+     "hv": "TỬ CUNG DỤNG",
+     "pos": "名",
+     "vi": "dành cho trẻ em",
+     "key": false,
+     "ex": {
+      "ja": "{子供用|こどもよう}のいすを{用意|ようい}してもらえますか。",
+      "vi": "Có thể chuẩn bị giúp tôi ghế cho trẻ em không?"
+     }
+    },
+    {
+     "id": "g36-w133",
+     "w": "医療用",
+     "r": "いりょうよう",
+     "hv": "Y LIỆU DỤNG",
+     "pos": "名",
+     "vi": "dùng trong y tế",
+     "key": true,
+     "ex": {
+      "ja": "{医療用|いりょうよう}のマスクが{不足|ふそく}している。",
+      "vi": "Khẩu trang y tế đang thiếu."
+     }
+    },
+    {
+     "id": "g36-w134",
+     "w": "携帯用",
+     "r": "けいたいよう",
+     "hv": "HUỀ ĐỚI DỤNG",
+     "pos": "名",
+     "vi": "loại mang theo người, bỏ túi",
+     "key": true,
+     "ex": {
+      "ja": "{携帯用|けいたいよう}の{歯|は}ブラシをかばんに{入|い}れている。",
+      "vi": "Tôi để bàn chải đánh răng loại mang theo trong cặp."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜式",
+   "title_vi": "kiểu, phương thức (cách hoạt động / cách làm) (〜しき)",
+   "words": [
+    {
+     "id": "g36-w135",
+     "w": "移動式",
+     "r": "いどうしき",
+     "hv": "DI ĐỘNG THỨC",
+     "pos": "名",
+     "vi": "kiểu di động, có thể di chuyển",
+     "key": false,
+     "ex": {
+      "ja": "{移動式|いどうしき}の{本棚|ほんだな}なので{掃除|そうじ}が{楽|らく}だ。",
+      "vi": "Giá sách loại di động nên dọn dẹp rất dễ."
+     }
+    },
+    {
+     "id": "g36-w136",
+     "w": "最新式",
+     "r": "さいしんしき",
+     "hv": "TỐI TÂN THỨC",
+     "pos": "名",
+     "vi": "kiểu mới nhất",
+     "key": false,
+     "ex": {
+      "ja": "{工場|こうじょう}に{最新式|さいしんしき}の{機械|きかい}が{入|はい}った。",
+      "vi": "Nhà máy đã nhập máy móc kiểu mới nhất."
+     }
+    },
+    {
+     "id": "g36-w137",
+     "w": "日本式",
+     "r": "にほんしき",
+     "hv": "NHẬT BẢN THỨC",
+     "pos": "名",
+     "vi": "kiểu Nhật (cách làm, phương thức)",
+     "key": false,
+     "ex": {
+      "ja": "{日本式|にほんしき}の{経営|けいえい}を{学|まな}びに{来|き}た。",
+      "vi": "Tôi đến để học phương thức quản lý kiểu Nhật."
+     },
+     "note": "日本風 = **vẻ ngoài, phong cách** kiểu Nhật (日本風の庭); 日本式 = **cách thức, hệ thống** kiểu Nhật (日本式の経営, 日本式トイレ)."
+    },
+    {
+     "id": "g36-w138",
+     "w": "選択式",
+     "r": "せんたくしき",
+     "hv": "TUYỂN TRẠCH THỨC",
+     "pos": "名",
+     "vi": "dạng trắc nghiệm (chọn đáp án)",
+     "key": false,
+     "ex": {
+      "ja": "JLPTの{問題|もんだい}はすべて{選択式|せんたくしき}だ。",
+      "vi": "Đề JLPT hoàn toàn là dạng trắc nghiệm."
+     },
+     "rel": "↔ 記述式"
+    },
+    {
+     "id": "g36-w139",
+     "w": "英国式",
+     "r": "えいこくしき",
+     "hv": "ANH QUỐC THỨC",
+     "pos": "名",
+     "vi": "kiểu Anh",
+     "key": true,
+     "ex": {
+      "ja": "このホテルでは{英国式|えいこくしき}のアフタヌーンティーが{楽|たの}しめる。",
+      "vi": "Ở khách sạn này có thể thưởng thức trà chiều kiểu Anh."
+     }
+    },
+    {
+     "id": "g36-w140",
+     "w": "組み立て式",
+     "r": "くみたてしき",
+     "hv": "TỔ LẬP THỨC",
+     "pos": "名",
+     "vi": "kiểu lắp ráp (tự lắp)",
+     "key": true,
+     "ex": {
+      "ja": "{組|く}み{立|た}て{式|しき}の{机|つくえ}なので{運|はこ}びやすい。",
+      "vi": "Bàn kiểu tự lắp ráp nên dễ vận chuyển."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜製",
+   "title_vi": "làm bằng (chất liệu) / sản xuất bởi (nước, công ty) (〜せい)",
+   "words": [
+    {
+     "id": "g36-w141",
+     "w": "ガラス製",
+     "r": "ガラスせい",
+     "hv": "CHẾ",
+     "pos": "名",
+     "vi": "làm bằng thuỷ tinh",
+     "key": false,
+     "ex": {
+      "ja": "ガラス{製|せい}のコップは{割|わ}れやすい。",
+      "vi": "Cốc thuỷ tinh dễ vỡ."
+     }
+    },
+    {
+     "id": "g36-w142",
+     "w": "革製",
+     "r": "かわせい",
+     "hv": "CÁCH CHẾ",
+     "pos": "名",
+     "vi": "làm bằng da",
+     "key": false,
+     "ex": {
+      "ja": "{革製|かわせい}のかばんは{長|なが}く{使|つか}える。",
+      "vi": "Túi da dùng được lâu."
+     }
+    },
+    {
+     "id": "g36-w143",
+     "w": "プラスチック製",
+     "r": "プラスチックせい",
+     "hv": "CHẾ",
+     "pos": "名",
+     "vi": "làm bằng nhựa",
+     "key": true,
+     "ex": {
+      "ja": "プラスチック{製|せい}のストローを{減|へ}らす{店|みせ}が{増|ふ}えた。",
+      "vi": "Ngày càng nhiều quán giảm dùng ống hút nhựa."
+     }
+    },
+    {
+     "id": "g36-w144",
+     "w": "金属製",
+     "r": "きんぞくせい",
+     "hv": "KIM THUỘC CHẾ",
+     "pos": "名",
+     "vi": "làm bằng kim loại",
+     "key": true,
+     "ex": {
+      "ja": "{金属製|きんぞくせい}の{食器|しょっき}は{電子|でんし}レンジに{入|い}れないでください。",
+      "vi": "Đừng cho bát đĩa kim loại vào lò vi sóng."
+     }
+    },
+    {
+     "id": "g36-w145",
+     "w": "アメリカ製",
+     "r": "アメリカせい",
+     "hv": "CHẾ",
+     "pos": "名",
+     "vi": "hàng Mỹ, sản xuất tại Mỹ",
+     "key": false,
+     "ex": {
+      "ja": "この{車|くるま}はアメリカ{製|せい}だ。",
+      "vi": "Chiếc xe này là hàng Mỹ."
+     }
+    },
+    {
+     "id": "g36-w146",
+     "w": "中国製",
+     "r": "ちゅうごくせい",
+     "hv": "TRUNG QUỐC CHẾ",
+     "pos": "名",
+     "vi": "hàng Trung Quốc, sản xuất tại Trung Quốc",
+     "key": false,
+     "ex": {
+      "ja": "{最近|さいきん}は{中国製|ちゅうごくせい}のスマホも{人気|にんき}がある。",
+      "vi": "Gần đây điện thoại sản xuất tại Trung Quốc cũng được ưa chuộng."
+     }
+    },
+    {
+     "id": "g36-w147",
+     "w": "〇〇社製",
+     "r": "〇〇しゃせい",
+     "hv": "XÃ CHẾ",
+     "pos": "名",
+     "vi": "do công ty … sản xuất",
+     "key": false,
+     "ex": {
+      "ja": "うちのパソコンはA{社製|しゃせい}だ。",
+      "vi": "Máy tính nhà tôi do công ty A sản xuất."
+     },
+     "note": "〜製 cho **sản phẩm công nghiệp** (máy móc, đồ dùng). Nông sản, thực phẩm theo vùng → 〜産."
+    }
+   ]
+  },
+  {
+   "title": "〜産",
+   "title_vi": "sản xuất / thu hoạch tại (nông sản, thực phẩm) (〜さん)",
+   "words": [
+    {
+     "id": "g36-w148",
+     "w": "北海道産",
+     "r": "ほっかいどうさん",
+     "hv": "BẮC HẢI ĐẠO SẢN",
+     "pos": "名",
+     "vi": "sản vật Hokkaido",
+     "key": false,
+     "ex": {
+      "ja": "{北海道産|ほっかいどうさん}のじゃがいもはおいしい。",
+      "vi": "Khoai tây Hokkaido rất ngon."
+     }
+    },
+    {
+     "id": "g36-w149",
+     "w": "アメリカ産",
+     "r": "アメリカさん",
+     "hv": "SẢN",
+     "pos": "名",
+     "vi": "(nông sản, thịt…) của Mỹ",
+     "key": false,
+     "ex": {
+      "ja": "スーパーでアメリカ{産|さん}の{牛肉|ぎゅうにく}が{安|やす}く{売|う}られていた。",
+      "vi": "Ở siêu thị đang bán rẻ thịt bò Mỹ."
+     },
+     "note": "✗アメリカ産の車 → ○アメリカ製の車; ✗アメリカ製の牛肉 → ○アメリカ産の牛肉."
+    }
+   ]
+  },
+  {
+   "title": "〜心",
+   "title_vi": "lòng…, tâm lý… (động lực bên trong) (〜しん)",
+   "words": [
+    {
+     "id": "g36-w150",
+     "w": "競争心",
+     "r": "きょうそうしん",
+     "hv": "CẠNH TRANH TÂM",
+     "pos": "名",
+     "vi": "tinh thần cạnh tranh, ý muốn hơn người",
+     "key": false,
+     "ex": {
+      "ja": "{兄弟|きょうだい}がいると{自然|しぜん}に{競争心|きょうそうしん}が{生|う}まれる。",
+      "vi": "Có anh em thì tự nhiên nảy sinh tinh thần ganh đua."
+     }
+    },
+    {
+     "id": "g36-w151",
+     "w": "恐怖心",
+     "r": "きょうふしん",
+     "hv": "KHỦNG BỐ TÂM",
+     "pos": "名",
+     "vi": "nỗi sợ hãi, tâm lý sợ",
+     "key": false,
+     "ex": {
+      "ja": "{事故|じこ}のあと、{車|くるま}に{乗|の}ることに{恐怖心|きょうふしん}を{感|かん}じる。",
+      "vi": "Sau tai nạn, tôi thấy sợ khi đi ô tô."
+     }
+    },
+    {
+     "id": "g36-w152",
+     "w": "独立心",
+     "r": "どくりつしん",
+     "hv": "ĐỘC LẬP TÂM",
+     "pos": "名",
+     "vi": "tinh thần tự lập",
+     "key": true,
+     "ex": {
+      "ja": "{留学|りゅうがく}して{独立心|どくりつしん}が{強|つよ}くなった。",
+      "vi": "Đi du học, tinh thần tự lập của tôi mạnh lên."
+     }
+    },
+    {
+     "id": "g36-w153",
+     "w": "好奇心",
+     "r": "こうきしん",
+     "hv": "HIẾU KỲ TÂM",
+     "pos": "名",
+     "vi": "tính tò mò, lòng hiếu kỳ",
+     "key": true,
+     "ex": {
+      "ja": "{子|こ}どもは{好奇心|こうきしん}が{強|つよ}く、{何|なん}でも{触|さわ}りたがる。",
+      "vi": "Trẻ con tò mò nên cái gì cũng muốn sờ."
+     },
+     "col": [
+      "好奇心が強い",
+      "好奇心旺盛(おうせい)"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "〜感",
+   "title_vi": "cảm giác…, cảm thấy… (〜かん)",
+   "words": [
+    {
+     "id": "g36-w154",
+     "w": "安心感",
+     "r": "あんしんかん",
+     "hv": "AN TÂM CẢM",
+     "pos": "名",
+     "vi": "cảm giác yên tâm",
+     "key": false,
+     "ex": {
+      "ja": "{家族|かぞく}がそばにいるだけで{安心感|あんしんかん}がある。",
+      "vi": "Chỉ cần gia đình ở bên là đã thấy yên tâm."
+     }
+    },
+    {
+     "id": "g36-w155",
+     "w": "存在感",
+     "r": "そんざいかん",
+     "hv": "TỒN TẠI CẢM",
+     "pos": "名",
+     "vi": "sự hiện diện, sức nặng (gây ấn tượng)",
+     "key": false,
+     "ex": {
+      "ja": "{彼|かれ}は{脇役|わきやく}なのに{存在感|そんざいかん}がある。",
+      "vi": "Anh ấy chỉ đóng vai phụ mà vẫn rất nổi bật."
+     }
+    },
+    {
+     "id": "g36-w156",
+     "w": "満足感",
+     "r": "まんぞくかん",
+     "hv": "MÃN TÚC CẢM",
+     "pos": "名",
+     "vi": "cảm giác thoả mãn",
+     "key": false,
+     "ex": {
+      "ja": "{山頂|さんちょう}に{着|つ}いたときの{満足感|まんぞくかん}は{忘|わす}れられない。",
+      "vi": "Không quên được cảm giác mãn nguyện khi lên tới đỉnh núi."
+     }
+    },
+    {
+     "id": "g36-w157",
+     "w": "不安感",
+     "r": "ふあんかん",
+     "hv": "BẤT AN CẢM",
+     "pos": "名",
+     "vi": "cảm giác bất an",
+     "key": false,
+     "ex": {
+      "ja": "{一人|ひとり}で{夜道|よみち}を{歩|ある}くと{不安感|ふあんかん}が{強|つよ}まる。",
+      "vi": "Đi đường đêm một mình thì cảm giác bất an tăng lên."
+     }
+    },
+    {
+     "id": "g36-w158",
+     "w": "責任感",
+     "r": "せきにんかん",
+     "hv": "TRÁCH NHIỆM CẢM",
+     "pos": "名",
+     "vi": "tinh thần trách nhiệm",
+     "key": false,
+     "ex": {
+      "ja": "{彼女|かのじょ}は{責任感|せきにんかん}が{強|つよ}く、{仕事|しごと}を{最後|さいご}までやる。",
+      "vi": "Cô ấy có trách nhiệm cao, làm việc đến cùng."
+     }
+    },
+    {
+     "id": "g36-w159",
+     "w": "緊張感",
+     "r": "きんちょうかん",
+     "hv": "KHẨN TRƯƠNG CẢM",
+     "pos": "名",
+     "vi": "cảm giác căng thẳng, sự căng thẳng",
+     "key": true,
+     "ex": {
+      "ja": "{決勝戦|けっしょうせん}の{会場|かいじょう}は{緊張感|きんちょうかん}に{包|つつ}まれていた。",
+      "vi": "Hội trường trận chung kết bao trùm bầu không khí căng thẳng."
+     }
+    },
+    {
+     "id": "g36-w160",
+     "w": "危機感",
+     "r": "ききかん",
+     "hv": "NGUY CƠ CẢM",
+     "pos": "名",
+     "vi": "cảm giác nguy cơ, ý thức khủng hoảng",
+     "key": true,
+     "ex": {
+      "ja": "{売|う}り{上|あ}げの{低下|ていか}に{社長|しゃちょう}は{危機感|ききかん}を{持|も}っている。",
+      "vi": "Giám đốc cảm thấy nguy cơ trước việc doanh thu sụt giảm."
+     },
+     "col": [
+      "危機感を持つ・抱く"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "〜力",
+   "title_vi": "năng lực, sức… (〜りょく)",
+   "words": [
+    {
+     "id": "g36-w161",
+     "w": "表現力",
+     "r": "ひょうげんりょく",
+     "hv": "BIỂU HIỆN LỰC",
+     "pos": "名",
+     "vi": "khả năng diễn đạt",
+     "key": false,
+     "ex": {
+      "ja": "{作文|さくぶん}を{書|か}くと{表現力|ひょうげんりょく}が{身|み}につく。",
+      "vi": "Viết văn giúp có được khả năng diễn đạt."
+     }
+    },
+    {
+     "id": "g36-w162",
+     "w": "集中力",
+     "r": "しゅうちゅうりょく",
+     "hv": "TẬP TRUNG LỰC",
+     "pos": "名",
+     "vi": "khả năng tập trung",
+     "key": false,
+     "ex": {
+      "ja": "{寝不足|ねぶそく}だと{集中力|しゅうちゅうりょく}が{続|つづ}かない。",
+      "vi": "Thiếu ngủ thì không tập trung được lâu."
+     }
+    },
+    {
+     "id": "g36-w163",
+     "w": "判断力",
+     "r": "はんだんりょく",
+     "hv": "PHÁN ĐOÁN LỰC",
+     "pos": "名",
+     "vi": "khả năng phán đoán",
+     "key": false,
+     "ex": {
+      "ja": "リーダーには{素早|すばや}い{判断力|はんだんりょく}が{求|もと}められる。",
+      "vi": "Người lãnh đạo cần khả năng phán đoán nhanh."
+     }
+    },
+    {
+     "id": "g36-w164",
+     "w": "影響力",
+     "r": "えいきょうりょく",
+     "hv": "ẢNH HƯỞNG LỰC",
+     "pos": "名",
+     "vi": "sức ảnh hưởng",
+     "key": false,
+     "ex": {
+      "ja": "SNSは{若者|わかもの}に{大|おお}きな{影響力|えいきょうりょく}を{持|も}つ。",
+      "vi": "Mạng xã hội có sức ảnh hưởng lớn với giới trẻ."
+     }
+    },
+    {
+     "id": "g36-w165",
+     "w": "想像力",
+     "r": "そうぞうりょく",
+     "hv": "TƯỞNG TƯỢNG LỰC",
+     "pos": "名",
+     "vi": "trí tưởng tượng",
+     "key": false,
+     "ex": {
+      "ja": "{絵本|えほん}は{子|こ}どもの{想像力|そうぞうりょく}を{育|そだ}てる。",
+      "vi": "Sách tranh nuôi dưỡng trí tưởng tượng của trẻ."
+     }
+    },
+    {
+     "id": "g36-w166",
+     "w": "生命力",
+     "r": "せいめいりょく",
+     "hv": "SINH MỆNH LỰC",
+     "pos": "名",
+     "vi": "sức sống",
+     "key": true,
+     "ex": {
+      "ja": "コンクリートの{間|あいだ}に{咲|さ}く{花|はな}に{生命力|せいめいりょく}を{感|かん}じた。",
+      "vi": "Tôi cảm nhận được sức sống ở bông hoa nở giữa kẽ bê tông."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜制",
+   "title_vi": "chế độ, hệ thống (〜せい)",
+   "words": [
+    {
+     "id": "g36-w167",
+     "w": "会員制",
+     "r": "かいいんせい",
+     "hv": "HỘI VIÊN CHẾ",
+     "pos": "名",
+     "vi": "chế độ hội viên (chỉ hội viên được dùng)",
+     "key": false,
+     "ex": {
+      "ja": "このジムは{会員制|かいいんせい}なので{見学|けんがく}しかできない。",
+      "vi": "Phòng gym này theo chế độ hội viên nên chỉ được tham quan."
+     }
+    },
+    {
+     "id": "g36-w168",
+     "w": "予約制",
+     "r": "よやくせい",
+     "hv": "DƯ ƯỚC CHẾ",
+     "pos": "名",
+     "vi": "chế độ đặt trước",
+     "key": false,
+     "ex": {
+      "ja": "{診察|しんさつ}は{完全|かんぜん}{予約制|よやくせい}です。",
+      "vi": "Khám bệnh hoàn toàn theo hình thức đặt lịch trước."
+     }
+    },
+    {
+     "id": "g36-w169",
+     "w": "少人数制",
+     "r": "しょうにんずうせい",
+     "hv": "THIỂU NHÂN SỐ CHẾ",
+     "pos": "名",
+     "vi": "chế độ lớp ít người",
+     "key": false,
+     "ex": {
+      "ja": "{少人数制|しょうにんずうせい}のクラスなので{質問|しつもん}しやすい。",
+      "vi": "Lớp học ít người nên dễ đặt câu hỏi."
+     }
+    },
+    {
+     "id": "g36-w170",
+     "w": "天皇制",
+     "r": "てんのうせい",
+     "hv": "THIÊN HOÀNG CHẾ",
+     "pos": "名",
+     "vi": "chế độ Thiên hoàng",
+     "key": true,
+     "ex": {
+      "ja": "{天皇制|てんのうせい}の{歴史|れきし}について{発表|はっぴょう}した。",
+      "vi": "Tôi đã thuyết trình về lịch sử chế độ Thiên hoàng."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜法",
+   "title_vi": "phương pháp, cách… / luật… (〜ほう)",
+   "words": [
+    {
+     "id": "g36-w171",
+     "w": "学習法",
+     "r": "がくしゅうほう",
+     "hv": "HỌC TẬP PHÁP",
+     "pos": "名",
+     "vi": "phương pháp học",
+     "key": false,
+     "ex": {
+      "ja": "{自分|じぶん}に{合|あ}った{学習法|がくしゅうほう}を{見|み}つけることが{大切|たいせつ}だ。",
+      "vi": "Quan trọng là tìm ra phương pháp học hợp với mình."
+     }
+    },
+    {
+     "id": "g36-w172",
+     "w": "使用法",
+     "r": "しようほう",
+     "hv": "SỬ DỤNG PHÁP",
+     "pos": "名",
+     "vi": "cách sử dụng",
+     "key": false,
+     "ex": {
+      "ja": "{薬|くすり}の{使用法|しようほう}をよく{読|よ}んでから{飲|の}んでください。",
+      "vi": "Hãy đọc kỹ cách dùng thuốc trước khi uống."
+     },
+     "rel": "≒ 使い方"
+    },
+    {
+     "id": "g36-w173",
+     "w": "利用法",
+     "r": "りようほう",
+     "hv": "LỢI DỤNG PHÁP",
+     "pos": "名",
+     "vi": "cách tận dụng, cách sử dụng",
+     "key": false,
+     "ex": {
+      "ja": "{余|あま}った{野菜|やさい}の{上手|じょうず}な{利用法|りようほう}を{紹介|しょうかい}します。",
+      "vi": "Xin giới thiệu cách tận dụng khéo rau thừa."
+     }
+    },
+    {
+     "id": "g36-w174",
+     "w": "解決法",
+     "r": "かいけつほう",
+     "hv": "GIẢI QUYẾT PHÁP",
+     "pos": "名",
+     "vi": "cách giải quyết",
+     "key": false,
+     "ex": {
+      "ja": "{専門家|せんもんか}に{聞|き}いても{解決法|かいけつほう}が{見|み}つからなかった。",
+      "vi": "Hỏi chuyên gia rồi mà vẫn không tìm ra cách giải quyết."
+     }
+    },
+    {
+     "id": "g36-w175",
+     "w": "予防法",
+     "r": "よぼうほう",
+     "hv": "DỰ PHÒNG PHÁP",
+     "pos": "名",
+     "vi": "cách phòng ngừa",
+     "key": true,
+     "ex": {
+      "ja": "かぜの{予防法|よぼうほう}といえば、まず{手洗|てあら}いだ。",
+      "vi": "Nói đến cách phòng cảm cúm thì trước hết là rửa tay."
+     }
+    },
+    {
+     "id": "g36-w176",
+     "w": "活用法",
+     "r": "かつようほう",
+     "hv": "HOẠT DỤNG PHÁP",
+     "pos": "名",
+     "vi": "cách vận dụng, cách tận dụng hiệu quả",
+     "key": true,
+     "ex": {
+      "ja": "{図書館|としょかん}の{上手|じょうず}な{活用法|かつようほう}を{教|おし}えてもらった。",
+      "vi": "Tôi được chỉ cách tận dụng thư viện hiệu quả."
+     }
+    },
+    {
+     "id": "g36-w177",
+     "w": "労働法",
+     "r": "ろうどうほう",
+     "hv": "LAO ĐỘNG PHÁP",
+     "pos": "名",
+     "vi": "luật lao động",
+     "key": false,
+     "ex": {
+      "ja": "{会社|かいしゃ}は{労働法|ろうどうほう}を{守|まも}らなければならない。",
+      "vi": "Công ty phải tuân thủ luật lao động."
+     },
+     "note": "Ở đây 〜法 = **luật** (法律), không phải \"phương pháp\". Cùng nhóm: 国際法, 少年法, 憲法."
+    },
+    {
+     "id": "g36-w178",
+     "w": "国際法",
+     "r": "こくさいほう",
+     "hv": "QUỐC TẾ PHÁP",
+     "pos": "名",
+     "vi": "luật quốc tế",
+     "key": false,
+     "ex": {
+      "ja": "その{行為|こうい}は{国際法|こくさいほう}に{違反|いはん}している。",
+      "vi": "Hành vi đó vi phạm luật quốc tế."
+     }
+    },
+    {
+     "id": "g36-w179",
+     "w": "少年法",
+     "r": "しょうねんほう",
+     "hv": "THIẾU NIÊN PHÁP",
+     "pos": "名",
+     "vi": "luật (xử lý) người chưa thành niên",
+     "key": false,
+     "ex": {
+      "ja": "{少年法|しょうねんほう}の{改正|かいせい}が{議論|ぎろん}されている。",
+      "vi": "Việc sửa đổi luật người chưa thành niên đang được tranh luận."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜状",
+   "title_vi": "thư, giấy (văn bản gửi đi) (〜じょう)",
+   "words": [
+    {
+     "id": "g36-w180",
+     "w": "招待状",
+     "r": "しょうたいじょう",
+     "hv": "CHIÊU ĐÃI TRẠNG",
+     "pos": "名",
+     "vi": "thiệp mời, thư mời",
+     "key": false,
+     "ex": {
+      "ja": "{友人|ゆうじん}から{結婚式|けっこんしき}の{招待状|しょうたいじょう}が{届|とど}いた。",
+      "vi": "Tôi nhận được thiệp mời cưới từ bạn."
+     }
+    },
+    {
+     "id": "g36-w181",
+     "w": "紹介状",
+     "r": "しょうかいじょう",
+     "hv": "THIỆU GIỚI TRẠNG",
+     "pos": "名",
+     "vi": "thư giới thiệu",
+     "key": false,
+     "ex": {
+      "ja": "{大|おお}きい{病院|びょういん}に{行|い}くには{紹介状|しょうかいじょう}が{必要|ひつよう}だ。",
+      "vi": "Muốn khám ở bệnh viện lớn thì cần giấy giới thiệu."
+     }
+    },
+    {
+     "id": "g36-w182",
+     "w": "案内状",
+     "r": "あんないじょう",
+     "hv": "ÁN NỘI TRẠNG",
+     "pos": "名",
+     "vi": "thư thông báo, giấy mời (sự kiện)",
+     "key": false,
+     "ex": {
+      "ja": "{展示会|てんじかい}の{案内状|あんないじょう}をお{客様|きゃくさま}に{送|おく}った。",
+      "vi": "Chúng tôi đã gửi thư mời triển lãm cho khách hàng."
+     },
+     "note": "案内所(じょ/しょ) = quầy hướng dẫn (nơi chốn); 案内状(じょう) = thư mời / thông báo (giấy)."
+    },
+    {
+     "id": "g36-w183",
+     "w": "お礼状",
+     "r": "おれいじょう",
+     "hv": "LỄ TRẠNG",
+     "pos": "名",
+     "vi": "thư cảm ơn",
+     "key": false,
+     "ex": {
+      "ja": "お{世話|せわ}になった{先生|せんせい}にお{礼状|れいじょう}を{書|か}いた。",
+      "vi": "Tôi viết thư cảm ơn thầy đã giúp đỡ mình."
+     }
+    },
+    {
+     "id": "g36-w184",
+     "w": "年賀状",
+     "r": "ねんがじょう",
+     "hv": "NIÊN HẠ TRẠNG",
+     "pos": "名",
+     "vi": "thiệp chúc Tết",
+     "key": true,
+     "ex": {
+      "ja": "{最近|さいきん}は{年賀状|ねんがじょう}の{代|か}わりにメールを{送|おく}る{人|ひと}が{多|おお}い。",
+      "vi": "Gần đây nhiều người gửi email thay cho thiệp chúc Tết."
+     }
+    },
+    {
+     "id": "g36-w185",
+     "w": "挑戦状",
+     "r": "ちょうせんじょう",
+     "hv": "KHIÊU CHIẾN TRẠNG",
+     "pos": "名",
+     "vi": "thư thách đấu, lời thách thức",
+     "key": true,
+     "ex": {
+      "ja": "ライバルの{店|みせ}に{挑戦状|ちょうせんじょう}を{送|おく}るような{新商品|しんしょうひん}だ。",
+      "vi": "Đó là sản phẩm mới như lời thách thức gửi tới cửa hàng đối thủ."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜証",
+   "title_vi": "thẻ, giấy chứng nhận (〜しょう)",
+   "words": [
+    {
+     "id": "g36-w186",
+     "w": "会員証",
+     "r": "かいいんしょう",
+     "hv": "HỘI VIÊN CHỨNG",
+     "pos": "名",
+     "vi": "thẻ hội viên",
+     "key": true,
+     "ex": {
+      "ja": "{入|はい}るときに{受付|うけつけ}で{会員証|かいいんしょう}を{見|み}せてください。",
+      "vi": "Khi vào xin xuất trình thẻ hội viên ở quầy lễ tân."
+     }
+    },
+    {
+     "id": "g36-w187",
+     "w": "学生証",
+     "r": "がくせいしょう",
+     "hv": "HỌC SINH CHỨNG",
+     "pos": "名",
+     "vi": "thẻ sinh viên",
+     "key": true,
+     "ex": {
+      "ja": "{学生証|がくせいしょう}を{見|み}せると{入館料|にゅうかんりょう}が{安|やす}くなる。",
+      "vi": "Xuất trình thẻ sinh viên thì phí vào cửa rẻ hơn."
+     }
+    },
+    {
+     "id": "g36-w188",
+     "w": "免許証",
+     "r": "めんきょしょう",
+     "hv": "MIỄN HỨA CHỨNG",
+     "pos": "名",
+     "vi": "giấy phép (thường là bằng lái xe)",
+     "key": true,
+     "ex": {
+      "ja": "{運転|うんてん}するときは{免許証|めんきょしょう}を{持|も}っていること。",
+      "vi": "Khi lái xe phải mang theo bằng lái."
+     }
+    },
+    {
+     "id": "g36-w189",
+     "w": "許可証",
+     "r": "きょかしょう",
+     "hv": "HỨA KHẢ CHỨNG",
+     "pos": "名",
+     "vi": "giấy phép, giấy cho phép",
+     "key": true,
+     "ex": {
+      "ja": "{工事|こうじ}の{車|くるま}には{駐車|ちゅうしゃ}{許可証|きょかしょう}が{必要|ひつよう}だ。",
+      "vi": "Xe công trình cần có giấy phép đỗ xe."
+     }
+    },
+    {
+     "id": "g36-w190",
+     "w": "身分証",
+     "r": "みぶんしょう",
+     "hv": "THÂN PHẬN CHỨNG",
+     "pos": "名",
+     "vi": "giấy tờ tuỳ thân",
+     "key": true,
+     "ex": {
+      "ja": "{口座|こうざ}を{作|つく}るには{身分証|みぶんしょう}が{要|い}る。",
+      "vi": "Mở tài khoản cần giấy tờ tuỳ thân."
+     },
+     "col": [
+      "身分証明書"
+     ]
+    },
+    {
+     "id": "g36-w191",
+     "w": "登録証",
+     "r": "とうろくしょう",
+     "hv": "ĐĂNG LỤC CHỨNG",
+     "pos": "名",
+     "vi": "giấy chứng nhận đăng ký",
+     "key": true,
+     "ex": {
+      "ja": "{登録証|とうろくしょう}は{再発行|さいはっこう}に{時間|じかん}がかかる。",
+      "vi": "Giấy chứng nhận đăng ký cấp lại mất thời gian."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜届",
+   "title_vi": "đơn, tờ khai nộp cho cơ quan (〜とどけ)",
+   "words": [
+    {
+     "id": "g36-w192",
+     "w": "離婚届",
+     "r": "りこんとどけ",
+     "hv": "LY HÔN GIỚI",
+     "pos": "名",
+     "vi": "đơn ly hôn",
+     "key": false,
+     "ex": {
+      "ja": "{二人|ふたり}は{話|はな}し{合|あ}って{離婚届|りこんとどけ}を{出|だ}した。",
+      "vi": "Hai người bàn bạc rồi nộp đơn ly hôn."
+     }
+    },
+    {
+     "id": "g36-w193",
+     "w": "死亡届",
+     "r": "しぼうとどけ",
+     "hv": "TỬ VONG GIỚI",
+     "pos": "名",
+     "vi": "giấy khai tử",
+     "key": false,
+     "ex": {
+      "ja": "{死亡届|しぼうとどけ}は{七日|なのか}以内に{出|だ}さなければならない。",
+      "vi": "Giấy khai tử phải nộp trong vòng 7 ngày."
+     }
+    },
+    {
+     "id": "g36-w194",
+     "w": "被害届",
+     "r": "ひがいとどけ",
+     "hv": "BỊ HẠI GIỚI",
+     "pos": "名",
+     "vi": "đơn trình báo thiệt hại (với cảnh sát)",
+     "key": true,
+     "ex": {
+      "ja": "{財布|さいふ}を{盗|ぬす}まれたので{警察|けいさつ}に{被害届|ひがいとどけ}を{出|だ}した。",
+      "vi": "Bị trộm ví nên tôi đã trình báo với cảnh sát."
+     }
+    },
+    {
+     "id": "g36-w195",
+     "w": "出生届",
+     "r": "しゅっしょうとどけ",
+     "hv": "XUẤT SINH GIỚI",
+     "pos": "名",
+     "vi": "giấy khai sinh",
+     "key": true,
+     "ex": {
+      "ja": "{赤|あか}ちゃんが{生|う}まれたら{二週間|にしゅうかん}以内に{出生届|しゅっしょうとどけ}を{出|だ}す。",
+      "vi": "Em bé sinh ra thì nộp giấy khai sinh trong vòng 2 tuần."
+     },
+     "note": "Đọc しゅっ**しょう**とどけ (cũng nghe しゅっせい), bẫy đọc hay gặp."
+    },
+    {
+     "id": "g36-w196",
+     "w": "変更届",
+     "r": "へんこうとどけ",
+     "hv": "BIẾN CANH GIỚI",
+     "pos": "名",
+     "vi": "đơn báo thay đổi",
+     "key": true,
+     "ex": {
+      "ja": "{住所|じゅうしょ}が{変|か}わったら{変更届|へんこうとどけ}を{出|だ}してください。",
+      "vi": "Nếu đổi địa chỉ, hãy nộp đơn báo thay đổi."
+     }
+    },
+    {
+     "id": "g36-w197",
+     "w": "退職届",
+     "r": "たいしょくとどけ",
+     "hv": "THOÁI CHỨC GIỚI",
+     "pos": "名",
+     "vi": "đơn xin nghỉ việc",
+     "key": true,
+     "ex": {
+      "ja": "{上司|じょうし}に{退職届|たいしょくとどけ}を{渡|わた}した。",
+      "vi": "Tôi đã đưa đơn nghỉ việc cho cấp trên."
+     },
+     "rel": "≒ 辞表"
+    }
+   ]
+  },
+  {
+   "title": "〜帳",
+   "title_vi": "sổ, cuốn sổ ghi chép (〜ちょう)",
+   "words": [
+    {
+     "id": "g36-w198",
+     "w": "日記帳",
+     "r": "にっきちょう",
+     "hv": "NHẬT KÝ TRƯỚNG",
+     "pos": "名",
+     "vi": "sổ nhật ký",
+     "key": false,
+     "ex": {
+      "ja": "{新|あたら}しい{日記帳|にっきちょう}に{最初|さいしょ}の{一行|いちぎょう}を{書|か}いた。",
+      "vi": "Tôi viết dòng đầu tiên vào cuốn nhật ký mới."
+     }
+    },
+    {
+     "id": "g36-w199",
+     "w": "メモ帳",
+     "r": "メモちょう",
+     "hv": "TRƯỚNG",
+     "pos": "名",
+     "vi": "sổ ghi chú",
+     "key": false,
+     "ex": {
+      "ja": "{電話|でんわ}の{横|よこ}にメモ{帳|ちょう}を{置|お}いておく。",
+      "vi": "Để sẵn sổ ghi chú cạnh điện thoại."
+     }
+    },
+    {
+     "id": "g36-w200",
+     "w": "電話帳",
+     "r": "でんわちょう",
+     "hv": "ĐIỆN THOẠI TRƯỚNG",
+     "pos": "名",
+     "vi": "danh bạ điện thoại",
+     "key": false,
+     "ex": {
+      "ja": "スマホの{電話帳|でんわちょう}から{番号|ばんごう}を{消|け}した。",
+      "vi": "Tôi xoá số khỏi danh bạ điện thoại."
+     }
+    },
+    {
+     "id": "g36-w201",
+     "w": "地図帳",
+     "r": "ちずちょう",
+     "hv": "ĐỊA ĐỒ TRƯỚNG",
+     "pos": "名",
+     "vi": "tập bản đồ",
+     "key": false,
+     "ex": {
+      "ja": "{地図帳|ちずちょう}で{旅行先|りょこうさき}の{位置|いち}を{確|たし}かめた。",
+      "vi": "Tôi xem tập bản đồ để xác định vị trí nơi sẽ du lịch."
+     }
+    },
+    {
+     "id": "g36-w202",
+     "w": "スケジュール帳",
+     "r": "スケジュールちょう",
+     "hv": "TRƯỚNG",
+     "pos": "名",
+     "vi": "sổ lịch trình",
+     "key": false,
+     "ex": {
+      "ja": "{会議|かいぎ}の{予定|よてい}をスケジュール{帳|ちょう}に{書|か}き{込|こ}んだ。",
+      "vi": "Tôi ghi lịch họp vào sổ lịch trình."
+     },
+     "rel": "≒ 手帳"
+    },
+    {
+     "id": "g36-w203",
+     "w": "アドレス帳",
+     "r": "アドレスちょう",
+     "hv": "TRƯỚNG",
+     "pos": "名",
+     "vi": "sổ địa chỉ (danh bạ email)",
+     "key": true,
+     "ex": {
+      "ja": "{新|あたら}しい{取引先|とりひきさき}をアドレス{帳|ちょう}に{登録|とうろく}した。",
+      "vi": "Tôi lưu đối tác mới vào sổ địa chỉ."
+     }
+    },
+    {
+     "id": "g36-w204",
+     "w": "小遣い帳",
+     "r": "こづかいちょう",
+     "hv": "TIỂU KHIỂN TRƯỚNG",
+     "pos": "名",
+     "vi": "sổ ghi chi tiêu tiền tiêu vặt",
+     "key": true,
+     "ex": {
+      "ja": "{子|こ}どもに{小遣|こづか}い{帳|ちょう}をつけさせている。",
+      "vi": "Tôi bắt con ghi sổ chi tiêu tiền tiêu vặt."
+     },
+     "col": [
+      "小遣い帳をつける"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "〜版",
+   "title_vi": "phiên bản, ấn bản (〜ばん)",
+   "words": [
+    {
+     "id": "g36-w205",
+     "w": "日本語版",
+     "r": "にほんごばん",
+     "hv": "NHẬT BẢN NGỮ BẢN",
+     "pos": "名",
+     "vi": "bản tiếng Nhật",
+     "key": false,
+     "ex": {
+      "ja": "このゲームの{日本語版|にほんごばん}が{来月|らいげつ}{発売|はつばい}される。",
+      "vi": "Bản tiếng Nhật của trò chơi này sẽ phát hành tháng sau."
+     }
+    },
+    {
+     "id": "g36-w206",
+     "w": "英語版",
+     "r": "えいごばん",
+     "hv": "ANH NGỮ BẢN",
+     "pos": "名",
+     "vi": "bản tiếng Anh",
+     "key": false,
+     "ex": {
+      "ja": "ホームページの{英語版|えいごばん}も{作|つく}った。",
+      "vi": "Chúng tôi cũng làm bản tiếng Anh cho trang web."
+     }
+    },
+    {
+     "id": "g36-w207",
+     "w": "最新版",
+     "r": "さいしんばん",
+     "hv": "TỐI TÂN BẢN",
+     "pos": "名",
+     "vi": "phiên bản mới nhất",
+     "key": false,
+     "ex": {
+      "ja": "アプリを{最新版|さいしんばん}に{更新|こうしん}してください。",
+      "vi": "Hãy cập nhật ứng dụng lên phiên bản mới nhất."
+     }
+    },
+    {
+     "id": "g36-w208",
+     "w": "カラー版",
+     "r": "カラーばん",
+     "hv": "BẢN",
+     "pos": "名",
+     "vi": "bản in màu",
+     "key": false,
+     "ex": {
+      "ja": "{図鑑|ずかん}はカラー{版|ばん}のほうが{分|わ}かりやすい。",
+      "vi": "Sách tranh tra cứu thì bản màu dễ hiểu hơn."
+     }
+    },
+    {
+     "id": "g36-w209",
+     "w": "保存版",
+     "r": "ほぞんばん",
+     "hv": "BẢO TỒN BẢN",
+     "pos": "名",
+     "vi": "ấn bản nên lưu giữ (bản đặc biệt)",
+     "key": false,
+     "ex": {
+      "ja": "{今月号|こんげつごう}は{料理|りょうり}レシピの{保存版|ほぞんばん}だ。",
+      "vi": "Số tháng này là bản công thức nấu ăn đáng lưu giữ."
+     }
+    },
+    {
+     "id": "g36-w210",
+     "w": "限定版",
+     "r": "げんていばん",
+     "hv": "HẠN ĐỊNH BẢN",
+     "pos": "名",
+     "vi": "phiên bản giới hạn",
+     "key": true,
+     "ex": {
+      "ja": "{限定版|げんていばん}は{発売|はつばい}{当日|とうじつ}に{売|う}り{切|き}れた。",
+      "vi": "Bản giới hạn đã bán hết ngay trong ngày phát hành."
+     }
+    },
+    {
+     "id": "g36-w211",
+     "w": "改訂版",
+     "r": "かいていばん",
+     "hv": "CẢI ĐÍNH BẢN",
+     "pos": "名",
+     "vi": "bản sửa đổi, bản tái bản có chỉnh sửa",
+     "key": true,
+     "ex": {
+      "ja": "{教科書|きょうかしょ}の{改訂版|かいていばん}が{出|で}た。",
+      "vi": "Bản sửa đổi của sách giáo khoa đã ra."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜別",
+   "title_vi": "chia theo…, phân theo… (〜べつ)",
+   "words": [
+    {
+     "id": "g36-w212",
+     "w": "男女別",
+     "r": "だんじょべつ",
+     "hv": "NAM NỮ BIỆT",
+     "pos": "名",
+     "vi": "phân theo nam nữ",
+     "key": false,
+     "ex": {
+      "ja": "{更衣室|こういしつ}は{男女別|だんじょべつ}になっている。",
+      "vi": "Phòng thay đồ được chia riêng nam nữ."
+     }
+    },
+    {
+     "id": "g36-w213",
+     "w": "種類別",
+     "r": "しゅるいべつ",
+     "hv": "CHỦNG LOẠI BIỆT",
+     "pos": "名",
+     "vi": "phân theo chủng loại",
+     "key": false,
+     "ex": {
+      "ja": "ごみは{種類別|しゅるいべつ}に{分|わ}けて{出|だ}してください。",
+      "vi": "Hãy phân loại rác theo từng loại rồi mới vứt."
+     }
+    },
+    {
+     "id": "g36-w214",
+     "w": "地域別",
+     "r": "ちいきべつ",
+     "hv": "ĐỊA VỰC BIỆT",
+     "pos": "名",
+     "vi": "theo khu vực",
+     "key": false,
+     "ex": {
+      "ja": "{地域別|ちいきべつ}の{人口|じんこう}をグラフにまとめた。",
+      "vi": "Tôi tổng hợp dân số theo khu vực thành biểu đồ."
+     }
+    },
+    {
+     "id": "g36-w215",
+     "w": "年齢別",
+     "r": "ねんれいべつ",
+     "hv": "NIÊN LINH BIỆT",
+     "pos": "名",
+     "vi": "theo độ tuổi",
+     "key": false,
+     "ex": {
+      "ja": "{年齢別|ねんれいべつ}にクラスを{分|わ}ける。",
+      "vi": "Chia lớp theo độ tuổi."
+     }
+    },
+    {
+     "id": "g36-w216",
+     "w": "職業別",
+     "r": "しょくぎょうべつ",
+     "hv": "CHỨC NGHIỆP BIỆT",
+     "pos": "名",
+     "vi": "theo nghề nghiệp",
+     "key": false,
+     "ex": {
+      "ja": "{職業別|しょくぎょうべつ}の{平均|へいきん}{年収|ねんしゅう}を{調|しら}べた。",
+      "vi": "Tôi tra thu nhập trung bình theo nghề nghiệp."
+     }
+    },
+    {
+     "id": "g36-w217",
+     "w": "産業別",
+     "r": "さんぎょうべつ",
+     "hv": "SẢN NGHIỆP BIỆT",
+     "pos": "名",
+     "vi": "theo ngành công nghiệp",
+     "key": true,
+     "ex": {
+      "ja": "{産業別|さんぎょうべつ}に{見|み}ると、{製造業|せいぞうぎょう}の{伸|の}びが{大|おお}きい。",
+      "vi": "Xét theo ngành thì ngành chế tạo tăng mạnh."
+     }
+    },
+    {
+     "id": "g36-w218",
+     "w": "年代別",
+     "r": "ねんだいべつ",
+     "hv": "NIÊN ĐẠI BIỆT",
+     "pos": "名",
+     "vi": "theo lứa tuổi / theo thập niên",
+     "key": true,
+     "ex": {
+      "ja": "{年代別|ねんだいべつ}の{人気|にんき}{曲|きょく}ランキングを{見|み}た。",
+      "vi": "Tôi xem bảng xếp hạng bài hát được yêu thích theo lứa tuổi."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜差",
+   "title_vi": "chênh lệch, khoảng cách về… (〜さ)",
+   "words": [
+    {
+     "id": "g36-w219",
+     "w": "男女差",
+     "r": "だんじょさ",
+     "hv": "NAM NỮ SAI",
+     "pos": "名",
+     "vi": "chênh lệch nam nữ",
+     "key": false,
+     "ex": {
+      "ja": "{給料|きゅうりょう}の{男女差|だんじょさ}をなくすべきだ。",
+      "vi": "Nên xoá bỏ chênh lệch lương giữa nam và nữ."
+     }
+    },
+    {
+     "id": "g36-w220",
+     "w": "気温差",
+     "r": "きおんさ",
+     "hv": "KHÍ ÔN SAI",
+     "pos": "名",
+     "vi": "chênh lệch nhiệt độ",
+     "key": false,
+     "ex": {
+      "ja": "{朝|あさ}と{昼|ひる}の{気温差|きおんさ}が{大|おお}きくてかぜをひいた。",
+      "vi": "Nhiệt độ sáng và trưa chênh nhau nhiều nên tôi bị cảm."
+     }
+    },
+    {
+     "id": "g36-w221",
+     "w": "身長差",
+     "r": "しんちょうさ",
+     "hv": "THÂN TRƯỜNG SAI",
+     "pos": "名",
+     "vi": "chênh lệch chiều cao",
+     "key": false,
+     "ex": {
+      "ja": "{二人|ふたり}は{三十|さんじゅう}センチの{身長差|しんちょうさ}がある。",
+      "vi": "Hai người chênh nhau 30 cm chiều cao."
+     }
+    },
+    {
+     "id": "g36-w222",
+     "w": "実力差",
+     "r": "じつりょくさ",
+     "hv": "THỰC LỰC SAI",
+     "pos": "名",
+     "vi": "chênh lệch thực lực",
+     "key": false,
+     "ex": {
+      "ja": "{両|りょう}チームの{実力差|じつりょくさ}は{明|あき}らかだった。",
+      "vi": "Chênh lệch thực lực giữa hai đội là rõ ràng."
+     }
+    },
+    {
+     "id": "g36-w223",
+     "w": "地域差",
+     "r": "ちいきさ",
+     "hv": "ĐỊA VỰC SAI",
+     "pos": "名",
+     "vi": "chênh lệch giữa các vùng",
+     "key": false,
+     "ex": {
+      "ja": "{医療|いりょう}サービスには{地域差|ちいきさ}がある。",
+      "vi": "Dịch vụ y tế có sự chênh lệch giữa các vùng."
+     }
+    },
+    {
+     "id": "g36-w224",
+     "w": "個人差",
+     "r": "こじんさ",
+     "hv": "CÁ NHÂN SAI",
+     "pos": "名",
+     "vi": "khác biệt cá nhân (tuỳ người)",
+     "key": false,
+     "ex": {
+      "ja": "{薬|くすり}の{効|き}き{目|め}には{個人差|こじんさ}がある。",
+      "vi": "Hiệu quả của thuốc tuỳ người."
+     }
+    },
+    {
+     "id": "g36-w225",
+     "w": "年齢差",
+     "r": "ねんれいさ",
+     "hv": "NIÊN LINH SAI",
+     "pos": "名",
+     "vi": "chênh lệch tuổi tác",
+     "key": false,
+     "ex": {
+      "ja": "{二人|ふたり}は{十歳|じゅっさい}の{年齢差|ねんれいさ}を{気|き}にしていない。",
+      "vi": "Hai người không bận tâm chuyện chênh nhau 10 tuổi."
+     },
+     "rel": "≒ 年の差"
+    },
+    {
+     "id": "g36-w226",
+     "w": "能力差",
+     "r": "のうりょくさ",
+     "hv": "NĂNG LỰC SAI",
+     "pos": "名",
+     "vi": "chênh lệch năng lực",
+     "key": false,
+     "ex": {
+      "ja": "{同|おな}じクラスでも{能力差|のうりょくさ}は{大|おお}きい。",
+      "vi": "Dù cùng lớp, chênh lệch năng lực vẫn lớn."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜量",
+   "title_vi": "lượng… (con số về số lượng) (〜りょう)",
+   "words": [
+    {
+     "id": "g36-w227",
+     "w": "使用量",
+     "r": "しようりょう",
+     "hv": "SỬ DỤNG LƯỢNG",
+     "pos": "名",
+     "vi": "lượng sử dụng",
+     "key": false,
+     "ex": {
+      "ja": "{夏|なつ}は{電気|でんき}の{使用量|しようりょう}が{増|ふ}える。",
+      "vi": "Mùa hè lượng điện tiêu thụ tăng."
+     },
+     "note": "Đồng âm với 使用料 (phí sử dụng)! 〜量 = **bao nhiêu** (lượng); 〜料 = **bao nhiêu tiền**."
+    },
+    {
+     "id": "g36-w228",
+     "w": "生産量",
+     "r": "せいさんりょう",
+     "hv": "SINH SẢN LƯỢNG",
+     "pos": "名",
+     "vi": "sản lượng",
+     "key": true,
+     "ex": {
+      "ja": "{米|こめ}の{生産量|せいさんりょう}は{年々|ねんねん}{減|へ}っている。",
+      "vi": "Sản lượng gạo giảm dần qua từng năm."
+     }
+    },
+    {
+     "id": "g36-w229",
+     "w": "収穫量",
+     "r": "しゅうかくりょう",
+     "hv": "THU HOẠCH LƯỢNG",
+     "pos": "名",
+     "vi": "sản lượng thu hoạch",
+     "key": true,
+     "ex": {
+      "ja": "{台風|たいふう}の{影響|えいきょう}でりんごの{収穫量|しゅうかくりょう}が{落|お}ちた。",
+      "vi": "Do ảnh hưởng của bão, sản lượng táo thu hoạch giảm."
+     }
+    },
+    {
+     "id": "g36-w230",
+     "w": "降水量",
+     "r": "こうすいりょう",
+     "hv": "GIÁNG THUỶ LƯỢNG",
+     "pos": "名",
+     "vi": "lượng mưa",
+     "key": true,
+     "ex": {
+      "ja": "{今年|ことし}の{六月|ろくがつ}は{降水量|こうすいりょう}が{例年|れいねん}より{少|すく}ない。",
+      "vi": "Tháng 6 năm nay lượng mưa ít hơn mọi năm."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜率",
+   "title_vi": "tỉ lệ… (phần trăm) (〜りつ)",
+   "words": [
+    {
+     "id": "g36-w231",
+     "w": "死亡率",
+     "r": "しぼうりつ",
+     "hv": "TỬ VONG SUẤT",
+     "pos": "名",
+     "vi": "tỉ lệ tử vong",
+     "key": false,
+     "ex": {
+      "ja": "{医療|いりょう}の{進歩|しんぽ}で{乳児|にゅうじ}の{死亡率|しぼうりつ}が{下|さ}がった。",
+      "vi": "Nhờ y học tiến bộ, tỉ lệ tử vong ở trẻ sơ sinh giảm."
+     }
+    },
+    {
+     "id": "g36-w232",
+     "w": "成功率",
+     "r": "せいこうりつ",
+     "hv": "THÀNH CÔNG SUẤT",
+     "pos": "名",
+     "vi": "tỉ lệ thành công",
+     "key": false,
+     "ex": {
+      "ja": "この{手術|しゅじゅつ}の{成功率|せいこうりつ}は{九十|きゅうじゅう}パーセント{以上|いじょう}だ。",
+      "vi": "Tỉ lệ thành công của ca phẫu thuật này trên 90%."
+     }
+    },
+    {
+     "id": "g36-w233",
+     "w": "合格率",
+     "r": "ごうかくりつ",
+     "hv": "HỢP CÁCH SUẤT",
+     "pos": "名",
+     "vi": "tỉ lệ đỗ",
+     "key": false,
+     "ex": {
+      "ja": "この{資格|しかく}{試験|しけん}の{合格率|ごうかくりつ}は{低|ひく}い。",
+      "vi": "Kỳ thi chứng chỉ này có tỉ lệ đỗ thấp."
+     }
+    },
+    {
+     "id": "g36-w234",
+     "w": "失業率",
+     "r": "しつぎょうりつ",
+     "hv": "THẤT NGHIỆP SUẤT",
+     "pos": "名",
+     "vi": "tỉ lệ thất nghiệp",
+     "key": true,
+     "ex": {
+      "ja": "{景気|けいき}が{悪|わる}くなり{失業率|しつぎょうりつ}が{上昇|じょうしょう}した。",
+      "vi": "Kinh tế xấu đi nên tỉ lệ thất nghiệp tăng."
+     }
+    },
+    {
+     "id": "g36-w235",
+     "w": "普及率",
+     "r": "ふきゅうりつ",
+     "hv": "PHỔ CẬP SUẤT",
+     "pos": "名",
+     "vi": "tỉ lệ phổ cập",
+     "key": true,
+     "ex": {
+      "ja": "スマホの{普及率|ふきゅうりつ}は{九割|きゅうわり}を{超|こ}えた。",
+      "vi": "Tỉ lệ phổ cập điện thoại thông minh đã vượt 90%."
+     }
+    },
+    {
+     "id": "g36-w236",
+     "w": "進学率",
+     "r": "しんがくりつ",
+     "hv": "TIẾN HỌC SUẤT",
+     "pos": "名",
+     "vi": "tỉ lệ học lên (cấp trên)",
+     "key": true,
+     "ex": {
+      "ja": "{大学|だいがく}への{進学率|しんがくりつ}が{過去|かこ}{最高|さいこう}になった。",
+      "vi": "Tỉ lệ học lên đại học đạt mức cao nhất từ trước tới nay."
+     }
+    },
+    {
+     "id": "g36-w237",
+     "w": "競争率",
+     "r": "きょうそうりつ",
+     "hv": "CẠNH TRANH SUẤT",
+     "pos": "名",
+     "vi": "tỉ lệ chọi",
+     "key": true,
+     "ex": {
+      "ja": "{人気|にんき}の{学部|がくぶ}は{競争率|きょうそうりつ}が{十倍|じゅうばい}にもなる。",
+      "vi": "Khoa được ưa chuộng có tỉ lệ chọi lên tới 1 chọi 10."
+     },
+     "note": "競争率 tính bằng \"倍\" (lần), còn 合格率 tính bằng %."
+    }
+   ]
+  },
+  {
+   "title": "〜度",
+   "title_vi": "mức độ… (〜ど)",
+   "words": [
+    {
+     "id": "g36-w238",
+     "w": "満足度",
+     "r": "まんぞくど",
+     "hv": "MÃN TÚC ĐỘ",
+     "pos": "名",
+     "vi": "mức độ hài lòng",
+     "key": false,
+     "ex": {
+      "ja": "{客|きゃく}の{満足度|まんぞくど}を{調|しら}べるアンケートを{行|おこな}った。",
+      "vi": "Chúng tôi làm khảo sát để tìm hiểu mức độ hài lòng của khách."
+     }
+    },
+    {
+     "id": "g36-w239",
+     "w": "完成度",
+     "r": "かんせいど",
+     "hv": "HOÀN THÀNH ĐỘ",
+     "pos": "名",
+     "vi": "độ hoàn thiện",
+     "key": false,
+     "ex": {
+      "ja": "{初|はじ}めての{作品|さくひん}とは{思|おも}えない{完成度|かんせいど}だ。",
+      "vi": "Độ hoàn thiện không giống tác phẩm đầu tay chút nào."
+     }
+    },
+    {
+     "id": "g36-w240",
+     "w": "自由度",
+     "r": "じゆうど",
+     "hv": "TỰ DO ĐỘ",
+     "pos": "名",
+     "vi": "mức độ tự do",
+     "key": false,
+     "ex": {
+      "ja": "このゲームは{自由度|じゆうど}が{高|たか}い。",
+      "vi": "Trò chơi này có độ tự do cao."
+     }
+    },
+    {
+     "id": "g36-w241",
+     "w": "理解度",
+     "r": "りかいど",
+     "hv": "LÝ GIẢI ĐỘ",
+     "pos": "名",
+     "vi": "mức độ hiểu bài",
+     "key": false,
+     "ex": {
+      "ja": "{小|しょう}テストで{学生|がくせい}の{理解度|りかいど}を{確|たし}かめる。",
+      "vi": "Kiểm tra mức độ hiểu bài của sinh viên bằng bài kiểm tra ngắn."
+     }
+    },
+    {
+     "id": "g36-w242",
+     "w": "信用度",
+     "r": "しんようど",
+     "hv": "TÍN DỤNG ĐỘ",
+     "pos": "名",
+     "vi": "mức độ tín nhiệm, độ uy tín",
+     "key": true,
+     "ex": {
+      "ja": "{情報|じょうほう}の{信用度|しんようど}を{確|たし}かめてから{記事|きじ}にする。",
+      "vi": "Kiểm tra độ tin cậy của thông tin rồi mới viết bài."
+     }
+    },
+    {
+     "id": "g36-w243",
+     "w": "優先度",
+     "r": "ゆうせんど",
+     "hv": "ƯU TIÊN ĐỘ",
+     "pos": "名",
+     "vi": "mức độ ưu tiên",
+     "key": true,
+     "ex": {
+      "ja": "{優先度|ゆうせんど}の{高|たか}い{仕事|しごと}から{片付|かたづ}けよう。",
+      "vi": "Hãy giải quyết việc có độ ưu tiên cao trước."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜的",
+   "title_vi": "mang tính…, về mặt… (biến danh từ thành な形容詞) (〜てき)",
+   "words": [
+    {
+     "id": "g36-w244",
+     "w": "基本的",
+     "r": "きほんてき",
+     "hv": "CƠ BẢN ĐÍCH",
+     "pos": "な形",
+     "vi": "cơ bản",
+     "key": false,
+     "ex": {
+      "ja": "{基本的|きほんてき}なルールを{守|まも}ってください。",
+      "vi": "Hãy tuân thủ những quy tắc cơ bản."
+     },
+     "col": [
+      "基本的に (về cơ bản)"
+     ]
+    },
+    {
+     "id": "g36-w245",
+     "w": "一般的",
+     "r": "いっぱんてき",
+     "hv": "NHẤT BAN ĐÍCH",
+     "pos": "な形",
+     "vi": "thông thường, phổ biến",
+     "key": false,
+     "ex": {
+      "ja": "{日本|にほん}では{靴|くつ}を{脱|ぬ}いで{家|いえ}に{上|あ}がるのが{一般的|いっぱんてき}だ。",
+      "vi": "Ở Nhật, cởi giày rồi mới vào nhà là chuyện thông thường."
+     }
+    },
+    {
+     "id": "g36-w246",
+     "w": "社会的",
+     "r": "しゃかいてき",
+     "hv": "XÃ HỘI ĐÍCH",
+     "pos": "な形",
+     "vi": "mang tính xã hội",
+     "key": false,
+     "ex": {
+      "ja": "{企業|きぎょう}には{社会的|しゃかいてき}な{責任|せきにん}がある。",
+      "vi": "Doanh nghiệp có trách nhiệm xã hội."
+     }
+    },
+    {
+     "id": "g36-w247",
+     "w": "経済的",
+     "r": "けいざいてき",
+     "hv": "KINH TẾ ĐÍCH",
+     "pos": "な形",
+     "vi": "về kinh tế; tiết kiệm",
+     "key": false,
+     "ex": {
+      "ja": "{自炊|じすい}は{外食|がいしょく}より{経済的|けいざいてき}だ。",
+      "vi": "Tự nấu ăn tiết kiệm hơn ăn ngoài."
+     },
+     "note": "Hai nghĩa: \"về mặt kinh tế\" (経済的な理由) và \"tiết kiệm, đỡ tốn\"."
+    },
+    {
+     "id": "g36-w248",
+     "w": "国際的",
+     "r": "こくさいてき",
+     "hv": "QUỐC TẾ ĐÍCH",
+     "pos": "な形",
+     "vi": "mang tính quốc tế",
+     "key": false,
+     "ex": {
+      "ja": "{彼|かれ}は{国際的|こくさいてき}に{有名|ゆうめい}なピアニストだ。",
+      "vi": "Anh ấy là nghệ sĩ piano nổi tiếng trên thế giới."
+     }
+    },
+    {
+     "id": "g36-w249",
+     "w": "効果的",
+     "r": "こうかてき",
+     "hv": "HIỆU QUẢ ĐÍCH",
+     "pos": "な形",
+     "vi": "hiệu quả",
+     "key": false,
+     "ex": {
+      "ja": "{単語|たんご}は{例文|れいぶん}と{一緒|いっしょ}に{覚|おぼ}えると{効果的|こうかてき}だ。",
+      "vi": "Học từ vựng cùng câu ví dụ thì hiệu quả."
+     }
+    },
+    {
+     "id": "g36-w250",
+     "w": "精神的",
+     "r": "せいしんてき",
+     "hv": "TINH THẦN ĐÍCH",
+     "pos": "な形",
+     "vi": "về mặt tinh thần",
+     "key": false,
+     "ex": {
+      "ja": "{引|ひ}っ{越|こ}しが{続|つづ}いて{精神的|せいしんてき}に{疲|つか}れた。",
+      "vi": "Chuyển nhà liên tục nên tôi mệt mỏi về tinh thần."
+     },
+     "rel": "↔ 肉体的"
+    },
+    {
+     "id": "g36-w251",
+     "w": "協力的",
+     "r": "きょうりょくてき",
+     "hv": "HIỆP LỰC ĐÍCH",
+     "pos": "な形",
+     "vi": "hợp tác, sẵn lòng giúp",
+     "key": false,
+     "ex": {
+      "ja": "{近所|きんじょ}の{人|ひと}たちはとても{協力的|きょうりょくてき}だった。",
+      "vi": "Hàng xóm rất sẵn lòng hợp tác."
+     }
+    },
+    {
+     "id": "g36-w252",
+     "w": "具体的",
+     "r": "ぐたいてき",
+     "hv": "CỤ THỂ ĐÍCH",
+     "pos": "な形",
+     "vi": "cụ thể",
+     "key": true,
+     "ex": {
+      "ja": "もう{少|すこ}し{具体的|ぐたいてき}に{説明|せつめい}してください。",
+      "vi": "Xin giải thích cụ thể hơn một chút."
+     },
+     "rel": "↔ 抽象的"
+    }
+   ]
+  },
+  {
+   "title": "〜化",
+   "title_vi": "trở nên…, …hoá (danh từ + する = động từ) (〜か)",
+   "words": [
+    {
+     "id": "g36-w253",
+     "w": "工業化",
+     "r": "こうぎょうか",
+     "hv": "CÔNG NGHIỆP HOÁ",
+     "pos": "名・自動",
+     "vi": "công nghiệp hoá",
+     "key": false,
+     "ex": {
+      "ja": "{工業化|こうぎょうか}が{進|すす}んで{空気|くうき}が{汚|よご}れた。",
+      "vi": "Công nghiệp hoá tiến triển làm không khí ô nhiễm."
+     }
+    },
+    {
+     "id": "g36-w254",
+     "w": "自由化",
+     "r": "じゆうか",
+     "hv": "TỰ DO HOÁ",
+     "pos": "名・他動",
+     "vi": "tự do hoá",
+     "key": false,
+     "ex": {
+      "ja": "{電力|でんりょく}の{自由化|じゆうか}で{会社|かいしゃ}を{選|えら}べるようになった。",
+      "vi": "Nhờ tự do hoá ngành điện, người dân có thể chọn công ty."
+     }
+    },
+    {
+     "id": "g36-w255",
+     "w": "国際化",
+     "r": "こくさいか",
+     "hv": "QUỐC TẾ HOÁ",
+     "pos": "名・自動",
+     "vi": "quốc tế hoá",
+     "key": false,
+     "ex": {
+      "ja": "{大学|だいがく}の{国際化|こくさいか}が{進|すす}んでいる。",
+      "vi": "Quá trình quốc tế hoá các trường đại học đang tiến triển."
+     }
+    },
+    {
+     "id": "g36-w256",
+     "w": "映画化",
+     "r": "えいがか",
+     "hv": "ÁNH HOẠ HOÁ",
+     "pos": "名・他動",
+     "vi": "chuyển thể thành phim",
+     "key": false,
+     "ex": {
+      "ja": "{人気|にんき}{漫画|まんが}が{映画化|えいがか}された。",
+      "vi": "Bộ truyện tranh nổi tiếng đã được chuyển thể thành phim."
+     }
+    },
+    {
+     "id": "g36-w257",
+     "w": "深刻化",
+     "r": "しんこくか",
+     "hv": "THÂM KHẮC HOÁ",
+     "pos": "名・自動",
+     "vi": "trở nên nghiêm trọng",
+     "key": false,
+     "ex": {
+      "ja": "{水不足|みずぶそく}が{深刻化|しんこくか}している。",
+      "vi": "Tình trạng thiếu nước đang ngày càng nghiêm trọng."
+     }
+    },
+    {
+     "id": "g36-w258",
+     "w": "表面化",
+     "r": "ひょうめんか",
+     "hv": "BIỂU DIỆN HOÁ",
+     "pos": "名・自動",
+     "vi": "lộ ra, nổi lên bề mặt (vấn đề ẩn)",
+     "key": true,
+     "ex": {
+      "ja": "{会社|かいしゃ}の{不正|ふせい}が{表面化|ひょうめんか}した。",
+      "vi": "Sai phạm của công ty đã bị lộ ra."
+     }
+    },
+    {
+     "id": "g36-w259",
+     "w": "実用化",
+     "r": "じつようか",
+     "hv": "THỰC DỤNG HOÁ",
+     "pos": "名・他動",
+     "vi": "đưa vào sử dụng thực tế",
+     "key": true,
+     "ex": {
+      "ja": "{空|そら}を{飛|と}ぶ{車|くるま}の{実用化|じつようか}はまだ{先|さき}だ。",
+      "vi": "Việc đưa ô tô bay vào sử dụng thực tế còn xa."
+     }
+    },
+    {
+     "id": "g36-w260",
+     "w": "温暖化",
+     "r": "おんだんか",
+     "hv": "ÔN NOÃN HOÁ",
+     "pos": "名・自動",
+     "vi": "(sự) ấm lên",
+     "key": true,
+     "ex": {
+      "ja": "{地球|ちきゅう}{温暖化|おんだんか}で{海面|かいめん}が{上昇|じょうしょう}している。",
+      "vi": "Do Trái Đất ấm lên, mực nước biển đang dâng."
+     }
+    },
+    {
+     "id": "g36-w261",
+     "w": "高齢化",
+     "r": "こうれいか",
+     "hv": "CAO LINH HOÁ",
+     "pos": "名・自動",
+     "vi": "già hoá (dân số)",
+     "key": true,
+     "ex": {
+      "ja": "{日本|にほん}は{世界|せかい}でも{高齢化|こうれいか}が{進|すす}んだ{国|くに}だ。",
+      "vi": "Nhật là một trong những nước già hoá dân số nhanh nhất thế giới."
+     },
+     "col": [
+      "少子高齢化"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "〜性",
+   "title_vi": "tính…, khả năng… (danh từ trừu tượng) (〜せい)",
+   "words": [
+    {
+     "id": "g36-w262",
+     "w": "可能性",
+     "r": "かのうせい",
+     "hv": "KHẢ NĂNG TÍNH",
+     "pos": "名",
+     "vi": "khả năng (có thể xảy ra)",
+     "key": false,
+     "ex": {
+      "ja": "{明日|あした}は{雪|ゆき}が{降|ふ}る{可能性|かのうせい}がある。",
+      "vi": "Ngày mai có khả năng tuyết rơi."
+     },
+     "col": [
+      "可能性がある・高い"
+     ]
+    },
+    {
+     "id": "g36-w263",
+     "w": "重要性",
+     "r": "じゅうようせい",
+     "hv": "TRỌNG YẾU TÍNH",
+     "pos": "名",
+     "vi": "tầm quan trọng",
+     "key": false,
+     "ex": {
+      "ja": "{病気|びょうき}をして{健康|けんこう}の{重要性|じゅうようせい}に{気|き}づいた。",
+      "vi": "Bị ốm rồi tôi mới nhận ra tầm quan trọng của sức khoẻ."
+     }
+    },
+    {
+     "id": "g36-w264",
+     "w": "必要性",
+     "r": "ひつようせい",
+     "hv": "TẤT YẾU TÍNH",
+     "pos": "名",
+     "vi": "sự cần thiết",
+     "key": false,
+     "ex": {
+      "ja": "{会議|かいぎ}で{新|あたら}しいシステムの{必要性|ひつようせい}を{訴|うった}えた。",
+      "vi": "Tôi đã nhấn mạnh sự cần thiết của hệ thống mới trong cuộc họp."
+     }
+    },
+    {
+     "id": "g36-w265",
+     "w": "生産性",
+     "r": "せいさんせい",
+     "hv": "SINH SẢN TÍNH",
+     "pos": "名",
+     "vi": "năng suất",
+     "key": false,
+     "ex": {
+      "ja": "{残業|ざんぎょう}を{減|へ}らして{生産性|せいさんせい}を{上|あ}げたい。",
+      "vi": "Muốn giảm làm thêm giờ mà vẫn nâng năng suất."
+     }
+    },
+    {
+     "id": "g36-w266",
+     "w": "信頼性",
+     "r": "しんらいせい",
+     "hv": "TÍN LẠI TÍNH",
+     "pos": "名",
+     "vi": "độ tin cậy",
+     "key": false,
+     "ex": {
+      "ja": "この{調査|ちょうさ}は{人数|にんずう}が{少|すく}なく、{信頼性|しんらいせい}に{欠|か}ける。",
+      "vi": "Cuộc khảo sát này ít người nên thiếu độ tin cậy."
+     }
+    },
+    {
+     "id": "g36-w267",
+     "w": "安定性",
+     "r": "あんていせい",
+     "hv": "AN ĐỊNH TÍNH",
+     "pos": "名",
+     "vi": "tính ổn định",
+     "key": false,
+     "ex": {
+      "ja": "{仕事|しごと}を{選|えら}ぶとき{安定性|あんていせい}を{重視|じゅうし}する。",
+      "vi": "Khi chọn việc, tôi coi trọng tính ổn định."
+     }
+    },
+    {
+     "id": "g36-w268",
+     "w": "危険性",
+     "r": "きけんせい",
+     "hv": "NGUY HIỂM TÍNH",
+     "pos": "名",
+     "vi": "mức nguy hiểm, nguy cơ",
+     "key": true,
+     "ex": {
+      "ja": "{大雨|おおあめ}で{川|かわ}があふれる{危険性|きけんせい}が{高|たか}まっている。",
+      "vi": "Mưa lớn làm nguy cơ sông tràn bờ tăng cao."
+     }
+    },
+    {
+     "id": "g36-w269",
+     "w": "安全性",
+     "r": "あんぜんせい",
+     "hv": "AN TOÀN TÍNH",
+     "pos": "名",
+     "vi": "tính an toàn",
+     "key": true,
+     "ex": {
+      "ja": "{新|あたら}しい{薬|くすり}の{安全性|あんぜんせい}を{確認|かくにん}する。",
+      "vi": "Kiểm tra tính an toàn của thuốc mới."
+     }
+    },
+    {
+     "id": "g36-w270",
+     "w": "具体性",
+     "r": "ぐたいせい",
+     "hv": "CỤ THỂ TÍNH",
+     "pos": "名",
+     "vi": "tính cụ thể",
+     "key": true,
+     "ex": {
+      "ja": "{君|きみ}の{計画|けいかく}は{具体性|ぐたいせい}に{欠|か}けている。",
+      "vi": "Kế hoạch của cậu thiếu tính cụ thể."
+     },
+     "note": "具体的 (な形) dùng để bổ nghĩa: 具体的な例. 具体性 (名) dùng như danh từ: 具体性がある／ない／に欠ける."
+    }
+   ]
+  }
+ ],
+ "focus": [
+  {
+   "title": "Người làm nghề: 〜者・〜家・〜士・〜員・〜官・〜師",
+   "body": "Mỗi hậu tố mang một \"màu\" riêng:\n\n- **〜者(しゃ)**: người làm việc gì đó nói chung — 研究者, 技術者, 労働者, 科学者, 編集者.\n- **〜家(か)**: người có chuyên môn, **sáng tác, theo đuổi** một lĩnh vực — 小説家, 作曲家, 政治家, 専門家, 評論家.\n- **〜士(し)**: nghề cần **bằng cấp / kỳ thi quốc gia** — 弁護士, 会計士, 建築士, 消防士, 宇宙飛行士.\n- **〜員(いん)**: **thành viên / nhân viên** của một tổ chức — 会社員, 銀行員, 公務員, 警備員, 研究員.\n- **〜官(かん)**: người của **nhà nước** có quyền hạn — 警察官, 裁判官, 外交官, 試験官.\n- **〜師(し)**: người có **tay nghề, kỹ thuật** phục vụ người khác — 看護師, 美容師, 調理師, 手品師.\n\nCùng gốc nhưng khác nghĩa: 研究者 (nhà nghiên cứu) / 研究員 (nhân viên viện nghiên cứu); 建築家 (kiến trúc sư sáng tác, nổi tiếng) / 建築士 (chức danh có chứng chỉ).\n\n- ✗弁護家 → ○**弁護士**\n- ✗看護員 → ○**看護師**\n- ✗外交員 (= người chào hàng) → ○**外交官** (nhà ngoại giao)\n- ✗警察員 → ○**警察官**"
+  },
+  {
+   "title": "Tiền: 〜料・〜代・〜費・〜金 (và 〜賃)",
+   "body": "- **〜料(りょう)**: phí trả để **được dùng / được hưởng dịch vụ**, giá thường do bên cung cấp định sẵn — 入場料, 授業料, 使用料, 保険料, 手数料, 宿泊料.\n- **〜代(だい)**: tiền trả cho **một món hàng / dịch vụ cụ thể** trong đời sống, văn nói nhiều — 食事代, 電気代, 電話代, タクシー代, バイト代 (tiền công nhận về), 部屋代.\n- **〜費(ひ)**: **chi phí** cho một mục đích, thường là tổng các khoản chi (văn viết, kế toán) — 生活費, 交通費, 宣伝費, 交際費, 光熱費, 製作費.\n- **〜金(きん)**: **một khoản tiền** nộp / nhận / gửi — 入学金, 入会金, 寄付金, 奨学金, 保証金.\n- Thêm: **〜賃(ちん)**: tiền **thuê / công** — 家賃 (tiền nhà), 運賃 (cước vận chuyển), 電車賃, 手間賃.\n\nMột số từ đi được hai hậu tố (修理代／修理費, 宿泊料／宿泊費) nhưng nhiều từ chỉ có một:\n- ✗手数代 → ○**手数料**\n- ✗バイト料 → ○**バイト代**\n- ✗光熱代 → ○**光熱費**\n- ✗奨学料 → ○**奨学金**\n\nCặp đáng nhớ: 保険**料** = phí bảo hiểm mình đóng hằng tháng ↔ 保険**金** = tiền bảo hiểm công ty chi trả khi có sự cố."
+  },
+  {
+   "title": "Nơi chốn: 〜地・〜場・〜所・〜署・〜街",
+   "body": "- **〜地(ち)**: **vùng, địa điểm** theo chức năng (rộng, mang tính địa lý) — 観光地, 出身地, 目的地, 生産地, 住宅地, 勤務地.\n- **〜場(じょう)**: **bãi, sân, hội trường** — không gian để hoạt động — 駐車場, 運動場, 競技場, 海水浴場, 結婚式場, スキー場. Đọc **じょう**.\n- **〜所(しょ／じょ)**: **cơ sở, văn phòng** có người làm việc bên trong — 事務所, 研究所, 裁判所, 保健所, 発電所, 洗面所.\n- **〜署(しょ)**: chỉ dùng cho vài **cơ quan công quyền**: 警察署, 消防署, 税務署.\n- **〜街(がい)**: **dãy phố** tập trung một loại — 商店街, 住宅街, 温泉街, オフィス街, 官庁街.\n\n- ✗消防所 → ○**消防署**\n- ✗駐車所 → ○**駐車場**\n- ✗発電場 → ○**発電所**\n- ✗観光場 → ○**観光地**\n\n住宅**地** (vùng đất để ở) và 住宅**街** (khu phố nhà ở) gần nghĩa; nhưng 商店街 không nói ✗商店地."
+  },
+  {
+   "title": "Máy và dụng cụ: 〜機・〜器・〜具・〜計",
+   "body": "- **〜機(き)**: **máy** có động cơ / cơ cấu phức tạp, tự chạy — 洗濯機, 掃除機, 自動販売機, コピー機, 印刷機.\n- **〜器(き)**: **thiết bị nhỏ, đồ chứa**, cầm tay được — 受話器, 注射器, 消火器, 充電器, 湯沸かし器, 洗面器.\n- **〜具(ぐ)**: **đồ dùng** cho một hoạt động (thường là cả bộ) — 釣り具, 筆記具, 洗面具 (+ 家具, 文房具, 雨具).\n- **〜計(けい)**: dụng cụ **đo** — 温度計, 体温計, 体重計, 血圧計.\n\nCùng gốc 洗面: 洗面**器** (cái chậu), 洗面**具** (bộ đồ vệ sinh: bàn chải, khăn…), 洗面**所** (chỗ rửa mặt).\n\n- ✗消火機 → ○**消火器**\n- ✗洗濯器 → ○**洗濯機**\n- ✗体温器 → ○**体温計**"
+  },
+  {
+   "title": "Tâm lý & thống kê: 〜心・〜感・〜力 / 〜別・〜差・〜量・〜率・〜度",
+   "body": "**〜心・〜感・〜力**\n- **〜心(しん)**: lòng, động lực **bên trong** con người — 好奇心, 競争心, 独立心, 恐怖心.\n- **〜感(かん)**: **cảm giác** cảm nhận được — 安心感, 満足感, 緊張感, 責任感, 危機感, 存在感.\n- **〜力(りょく)**: **năng lực, sức** — 集中力, 判断力, 想像力, 影響力, 表現力, 生命力.\n- ✗好奇感 → ○好奇心; ✗安心心 → ○安心感; ✗集中感 → ○集中力 (集中 + 力 = khả năng tập trung).\n\n**Thống kê**: câu hỏi hay có con số, hãy nhìn **đơn vị**:\n- **〜量(りょう)**: lượng (kg, mm, tấn…) — 降水量, 生産量, 使用量.\n- **〜率(りつ)**: tỉ lệ (%, lần) — 合格率, 失業率, 普及率, 競争率 (10倍).\n- **〜度(ど)**: mức độ (đánh giá cao / thấp) — 満足度, 理解度, 優先度, 完成度.\n- **〜差(さ)**: chênh lệch giữa hai bên — 気温差, 男女差, 個人差.\n- **〜別(べつ)**: chia theo nhóm (đi với に／の) — 年齢別に, 地域別の.\n- ✗降水率 → ○**降水量** (mm); ✗合格度 → ○**合格率**; ✗年代差にまとめる → ○**年代別に**まとめる."
+  },
+  {
+   "title": "〜的・〜化・〜性: đổi từ loại",
+   "body": "Ba hậu tố này quyết định **từ loại** của từ mới, nên trong đề hãy nhìn chữ đứng **sau chỗ trống**:\n\n- **〜的** → **な形容詞**: 具体的**な**例, 効果的**に**覚える, 一般的**だ**.\n- **〜化** → **danh từ + する** (\"trở nên…, …hoá\"): 高齢化**が進む**, 映画化**される**, 深刻化**している**.\n- **〜性** → **danh từ** (tính chất, khả năng): 可能性**がある**, 安全性**を確認する**, 具体性**に欠ける**.\n\nCùng gốc 具体:\n- ✗具体性な説明 → ○**具体的な**説明\n- ✗具体的に欠ける → ○**具体性に欠ける**\n- ✗計画を具体性する → ○計画を**具体化する**\n\nMẹo: thấy な／に phía sau → 的; thấy が進む／される／する → 化; thấy がある／が高い／を〜する (làm tân ngữ) → 性."
+  }
+ ],
+ "quiz": [
+  {
+   "id": "g36-q1",
+   "kind": "formation",
+   "ref": "g36-w48",
+   "q": "{他|た}の{銀行|ぎんこう}に{振|ふ}り{込|こ}むと、{手数|てすう}（　　）が{三百円|さんびゃくえん}かかる。",
+   "options": [
+    "料",
+    "代",
+    "費",
+    "金"
+   ],
+   "answer": 0,
+   "vi": "Chuyển khoản sang ngân hàng khác thì mất phí giao dịch 300 yên.",
+   "why": "手数 + **料** = 手数料 (phí thủ tục) — từ cố định. 手数代・手数費・手数金 đều không tồn tại."
+  },
+  {
+   "id": "g36-q2",
+   "kind": "formation",
+   "ref": "g36-w52",
+   "q": "{今月|こんげつ}のバイト（　　）で{新|あたら}しい{靴|くつ}を{買|か}うつもりだ。",
+   "options": [
+    "証",
+    "費",
+    "代",
+    "金"
+   ],
+   "answer": 2,
+   "vi": "Tôi định mua đôi giày mới bằng tiền làm thêm tháng này.",
+   "why": "Tiền công làm thêm nhận về → バイト**代** (văn nói, cách nói cố định). バイト費 sai vì 〜費 là chi phí bỏ ra; バイト金 không có; バイト証 (thẻ) không phải tiền. (Văn bản kế toán đôi khi viết アルバイト料, nhưng trong hội thoại thường ngày luôn nói バイト代.)"
+  },
+  {
+   "id": "g36-q3",
+   "kind": "formation",
+   "ref": "g36-w62",
+   "q": "{一人暮|ひとりぐ}らしを{始|はじ}めて、{毎月|まいつき}の{光熱|こうねつ}（　　）が{気|き}になるようになった。",
+   "options": [
+    "料",
+    "代",
+    "金",
+    "費"
+   ],
+   "answer": 3,
+   "vi": "Bắt đầu sống một mình, tôi để ý đến tiền điện ga hằng tháng.",
+   "why": "光熱 + **費** = 光熱費 (tổng chi phí điện, ga, nước). 光熱料・光熱代・光熱金 không dùng — 光熱 chỉ đi với 費."
+  },
+  {
+   "id": "g36-q4",
+   "kind": "formation",
+   "ref": "g36-w17",
+   "q": "{交通事故|こうつうじこ}の{問題|もんだい}を{弁護|べんご}（　　）に{相談|そうだん}した。",
+   "options": [
+    "士",
+    "師",
+    "官",
+    "家"
+   ],
+   "answer": 0,
+   "vi": "Tôi đã hỏi ý kiến luật sư về vụ tai nạn giao thông.",
+   "why": "Luật sư là nghề có kỳ thi quốc gia → 弁護**士**. 弁護師・弁護官・弁護家 đều không phải từ."
+  },
+  {
+   "id": "g36-q5",
+   "kind": "formation",
+   "ref": "g36-w32",
+   "q": "{姉|あね}は{美容|びよう}（　　）として{駅前|えきまえ}の{店|みせ}で{髪|かみ}を{切|き}っている。",
+   "options": [
+    "士",
+    "官",
+    "師",
+    "員"
+   ],
+   "answer": 2,
+   "vi": "Chị tôi làm thợ làm tóc, cắt tóc ở tiệm trước ga.",
+   "why": "Nghề dùng tay nghề phục vụ khách → 美容**師**. 美容士・美容官・美容員 đều không dùng (官 = quan chức nhà nước, 員 = nhân viên tổ chức)."
+  },
+  {
+   "id": "g36-q6",
+   "kind": "formation",
+   "ref": "g36-w29",
+   "q": "{語学|ごがく}を{生|い}かして、{将来|しょうらい}は{外交|がいこう}（　　）として{海外|かいがい}の{大使館|たいしかん}で{働|はたら}きたい。",
+   "options": [
+    "士",
+    "官",
+    "師",
+    "署"
+   ],
+   "answer": 1,
+   "vi": "Tôi muốn tận dụng ngoại ngữ, sau này làm nhà ngoại giao ở đại sứ quán nước ngoài.",
+   "why": "Người làm việc cho nhà nước, đại diện quốc gia → 外交**官**. 外交士・外交師 không có; 外交署 sai vì 〜署 là cơ quan, không phải người."
+  },
+  {
+   "id": "g36-q7",
+   "kind": "formation",
+   "ref": "g36-w153",
+   "q": "{子|こ}どもは{好奇|こうき}（　　）が{強|つよ}いので、{何|なん}でも{触|さわ}ってみたがる。",
+   "options": [
+    "感",
+    "心",
+    "力",
+    "性"
+   ],
+   "answer": 1,
+   "vi": "Trẻ con rất tò mò nên cái gì cũng muốn sờ thử.",
+   "why": "Động lực bên trong muốn biết → 好奇**心**. 好奇感・好奇力・好奇性 không phải từ."
+  },
+  {
+   "id": "g36-q8",
+   "kind": "formation",
+   "ref": "g36-w92",
+   "q": "{火事|かじ}を{見|み}つけたら、すぐに{近|ちか}くの{消防|しょうぼう}（　　）に{知|し}らせてください。",
+   "options": [
+    "署",
+    "所",
+    "場",
+    "街"
+   ],
+   "answer": 0,
+   "vi": "Nếu phát hiện cháy, hãy báo ngay cho trạm cứu hoả gần nhất.",
+   "why": "Cơ quan công quyền 消防 → 消防**署** (giống 警察署, 税務署). 消防所 là cách viết sai thường gặp; 消防場・消防街 không có."
+  },
+  {
+   "id": "g36-q9",
+   "kind": "context",
+   "ref": "g36-w232",
+   "q": "{医療|いりょう}の{進歩|しんぽ}により、この{手術|しゅじゅつ}の（　　）は{九十|きゅうじゅう}パーセントを{超|こ}えた。",
+   "options": [
+    "完成度",
+    "安心感",
+    "成功率",
+    "生産量"
+   ],
+   "answer": 2,
+   "vi": "Nhờ tiến bộ y học, tỉ lệ thành công của ca phẫu thuật này đã vượt 90%.",
+   "why": "Con số % về kết quả phẫu thuật → **成功率** (tỉ lệ thành công). 完成度 = độ hoàn thiện của tác phẩm; 安心感 = cảm giác yên tâm, không đo bằng %; 生産量 = sản lượng, không dùng cho phẫu thuật."
+  },
+  {
+   "id": "g36-q10",
+   "kind": "paraphrase",
+   "ref": "g36-w270",
+   "q": "{君|きみ}の{企画|きかく}は{面白|おもしろ}いが、[[u:{具体性|ぐたいせい}に{欠|か}ける]]。",
+   "options": [
+    "具体的すぎる",
+    "具体的な例が多い",
+    "具体的で分かりやすい",
+    "具体的ではない"
+   ],
+   "answer": 3,
+   "vi": "Kế hoạch của cậu thú vị nhưng thiếu tính cụ thể.",
+   "why": "〜に欠ける = thiếu → 具体性に欠ける = **không cụ thể**. (1) quá cụ thể, (2) nhiều ví dụ cụ thể, (3) cụ thể dễ hiểu đều là nghĩa ngược lại."
+  }
+ ],
+ "practice": [
+  {
+   "id": "g36-p1",
+   "kind": "formation",
+   "ref": "g36-w46",
+   "q": "{私|わたし}は{毎月|まいつき}{一万円|いちまんえん}の{保険|ほけん}（　　）を{払|はら}っている。",
+   "options": [
+    "証",
+    "料",
+    "費",
+    "状"
+   ],
+   "answer": 1,
+   "vi": "Mỗi tháng tôi đóng 1 vạn yên phí bảo hiểm.",
+   "why": "Khoản phí mình đóng định kỳ → 保険**料**. 保険証 là thẻ bảo hiểm (không \"trả\" được); 保険費 không dùng; 保険状 không có. (Lưu ý: 保険金 = tiền bảo hiểm công ty chi trả.)"
+  },
+  {
+   "id": "g36-p2",
+   "kind": "formation",
+   "ref": "g36-w66",
+   "q": "{家|いえ}が{貧|まず}しかったので、{奨学|しょうがく}（　　）をもらって{大学|だいがく}に{通|かよ}った。",
+   "options": [
+    "料",
+    "代",
+    "金",
+    "費"
+   ],
+   "answer": 2,
+   "vi": "Nhà nghèo nên tôi nhận học bổng để đi học đại học.",
+   "why": "Khoản tiền được cấp → 奨学**金**. 奨学料・奨学代・奨学費 không tồn tại."
+  },
+  {
+   "id": "g36-p3",
+   "kind": "formation",
+   "ref": "g36-w80",
+   "q": "{夏休|なつやす}みになると、この{海水浴|かいすいよく}（　　）は{家族連|かぞくづ}れでいっぱいになる。",
+   "options": [
+    "場",
+    "所",
+    "地",
+    "街"
+   ],
+   "answer": 0,
+   "vi": "Cứ nghỉ hè là bãi tắm biển này chật kín các gia đình.",
+   "why": "Không gian để tắm biển → 海水浴**場** (じょう). 海水浴所・海水浴地・海水浴街 đều không dùng."
+  },
+  {
+   "id": "g36-p4",
+   "kind": "formation",
+   "ref": "g36-w90",
+   "q": "{川|かわ}の{上流|じょうりゅう}に{大|おお}きな{水力|すいりょく}{発電|はつでん}（　　）が{建設|けんせつ}された。",
+   "options": [
+    "場",
+    "署",
+    "地",
+    "所"
+   ],
+   "answer": 3,
+   "vi": "Một nhà máy thuỷ điện lớn đã được xây ở thượng nguồn sông.",
+   "why": "Cơ sở có người làm việc bên trong → 発電**所** (しょ). 発電場 sai; 発電署 sai (署 chỉ dùng cho 警察・消防・税務); 発電地 không có."
+  },
+  {
+   "id": "g36-p5",
+   "kind": "formation",
+   "ref": "g36-w93",
+   "q": "{確定申告|かくていしんこく}の{書類|しょるい}は{三月|さんがつ}{十五日|じゅうごにち}までに{税務|ぜいむ}（　　）に{出|だ}してください。",
+   "options": [
+    "所",
+    "署",
+    "場",
+    "街"
+   ],
+   "answer": 1,
+   "vi": "Hãy nộp hồ sơ quyết toán thuế cho cơ quan thuế trước ngày 15/3.",
+   "why": "Cơ quan công quyền về thuế → 税務**署**. 税務所 là lỗi viết hay gặp; 税務場・税務街 không có."
+  },
+  {
+   "id": "g36-p6",
+   "kind": "formation",
+   "ref": "g36-w112",
+   "q": "{火|ひ}が{小|ちい}さいうちに{消火|しょうか}（　　）で{消|け}し{止|と}めた。",
+   "options": [
+    "機",
+    "具",
+    "器",
+    "計"
+   ],
+   "answer": 2,
+   "vi": "Khi lửa còn nhỏ, tôi đã dập tắt bằng bình chữa cháy.",
+   "why": "Thiết bị nhỏ cầm tay → 消火**器**. 消火機 không dùng (機 là máy chạy động cơ); 消火具 không có; 消火計 sai vì 〜計 là dụng cụ đo."
+  },
+  {
+   "id": "g36-p7",
+   "kind": "formation",
+   "ref": "g36-w119",
+   "q": "{熱|ねつ}があるかもしれないので、{体温|たいおん}（　　）で{測|はか}ってみた。",
+   "options": [
+    "器",
+    "機",
+    "度",
+    "計"
+   ],
+   "answer": 3,
+   "vi": "Có thể bị sốt nên tôi thử đo bằng nhiệt kế.",
+   "why": "Dụng cụ đo → 体温**計**. 体温器・体温機 không có; 体温度 không phải từ (chỉ có 温度)."
+  },
+  {
+   "id": "g36-p8",
+   "kind": "formation",
+   "ref": "g36-w125",
+   "q": "{今日|きょう}は{野菜|やさい}を{中華|ちゅうか}（　　）の{味付|あじつ}けで{炒|いた}めてみよう。",
+   "options": [
+    "製",
+    "産",
+    "風",
+    "用"
+   ],
+   "answer": 2,
+   "vi": "Hôm nay thử xào rau theo vị kiểu Trung Hoa xem.",
+   "why": "\"Theo phong cách, hương vị\" → 中華**風**. 中華製 = hàng do Trung Quốc chế tạo; 中華産 không dùng; 中華用 = dùng cho món Hoa (không hợp với 味付け)."
+  },
+  {
+   "id": "g36-p9",
+   "kind": "formation",
+   "ref": "g36-w148",
+   "q": "このメロンは{北海道|ほっかいどう}（　　）で、とても{甘|あま}い。",
+   "options": [
+    "製",
+    "産",
+    "風",
+    "式"
+   ],
+   "answer": 1,
+   "vi": "Quả dưa lưới này là sản vật Hokkaido, rất ngọt.",
+   "why": "Nông sản theo vùng → 北海道**産**. 〜製 dùng cho hàng công nghiệp; 北海道風 = theo kiểu Hokkaido (món ăn, không phải nguồn gốc trái cây); 北海道式 = phương thức kiểu Hokkaido."
+  },
+  {
+   "id": "g36-p10",
+   "kind": "formation",
+   "ref": "g36-w144",
+   "q": "{子|こ}どもが{使|つか}うので、{割|わ}れない{金属|きんぞく}（　　）のコップを{買|か}った。",
+   "options": [
+    "産",
+    "用",
+    "式",
+    "製"
+   ],
+   "answer": 3,
+   "vi": "Vì trẻ con dùng nên tôi mua cốc bằng kim loại không vỡ.",
+   "why": "Chất liệu làm ra đồ vật → 金属**製**. 金属産 không có; 金属用 = dùng cho kim loại (vd 金属用の接着剤), không hợp với コップ; 金属式 không dùng."
+  },
+  {
+   "id": "g36-p11",
+   "kind": "formation",
+   "ref": "g36-w160",
+   "q": "{売|う}り{上|あ}げが{三年|さんねん}{続|つづ}けて{下|さ}がり、{社員|しゃいん}は{強|つよ}い{危機|きき}（　　）を{持|も}っている。",
+   "options": [
+    "心",
+    "感",
+    "力",
+    "性"
+   ],
+   "answer": 1,
+   "vi": "Doanh thu giảm 3 năm liền, nhân viên cảm thấy nguy cơ rất rõ.",
+   "why": "Cảm giác nhận thấy nguy hiểm → 危機**感** (危機感を持つ). 危機心・危機力・危機性 không phải từ."
+  },
+  {
+   "id": "g36-p12",
+   "kind": "formation",
+   "ref": "g36-w234",
+   "q": "{景気|けいき}の{悪化|あっか}で、{失業|しつぎょう}（　　）が{五|ご}パーセントまで{上|あ}がった。",
+   "options": [
+    "率",
+    "度",
+    "差",
+    "量"
+   ],
+   "answer": 0,
+   "vi": "Do kinh tế xấu đi, tỉ lệ thất nghiệp đã tăng lên 5%.",
+   "why": "Con số % → 失業**率**. 失業度 (mức độ) không dùng; 失業差 (chênh lệch) không có; 失業量 không dùng — thất nghiệp đo bằng tỉ lệ, không phải \"lượng\"."
+  },
+  {
+   "id": "g36-p13",
+   "kind": "context",
+   "ref": "g36-w261",
+   "q": "{少子|しょうし}（　　）が{進|すす}み、{介護|かいご}の{仕事|しごと}をする{人|ひと}が{足|た}りなくなっている。",
+   "options": [
+    "高齢化",
+    "温暖化",
+    "国際化",
+    "表面化"
+   ],
+   "answer": 0,
+   "vi": "Ít trẻ em và già hoá dân số tiến triển nên thiếu người làm công việc chăm sóc người già.",
+   "why": "少子 + **高齢化** = 少子高齢化 (ít con, dân số già) — liên quan trực tiếp đến 介護. 温暖化 là chuyện khí hậu; 国際化 không liên quan việc thiếu người chăm sóc; 表面化 = (vấn đề) lộ ra, không đi sau 少子."
+  },
+  {
+   "id": "g36-p14",
+   "kind": "paraphrase",
+   "ref": "g36-w258",
+   "q": "{長年|ながねん}{隠|かく}されていた{会社|かいしゃ}の{問題|もんだい}が、ついに[[u:{表面化|ひょうめんか}した]]。",
+   "options": [
+    "深刻になった",
+    "解決された",
+    "人に知られるようになった",
+    "複雑になった"
+   ],
+   "answer": 2,
+   "vi": "Vấn đề của công ty bị che giấu nhiều năm cuối cùng đã lộ ra.",
+   "why": "表面化する = điều ẩn giấu nổi lên bề mặt → **mọi người biết đến**. 深刻になった = 深刻化; 解決された = được giải quyết; 複雑になった = trở nên phức tạp — đều khác nghĩa."
+  }
+ ],
+ "test": [
+  {
+   "id": "g36-t1",
+   "kind": "formation",
+   "ref": "g36-w184",
+   "q": "{今年|ことし}は{忙|いそが}しくて、まだ{年賀|ねんが}（　　）を{一枚|いちまい}も{書|か}いていない。",
+   "options": [
+    "状",
+    "証",
+    "届",
+    "帳"
+   ],
+   "answer": 0,
+   "vi": "Năm nay bận quá, tôi chưa viết tấm thiệp chúc Tết nào.",
+   "why": "Thư / thiệp gửi đi → 年賀**状**. 年賀証 (thẻ chứng nhận), 年賀届 (đơn nộp), 年賀帳 (sổ) đều không có."
+  },
+  {
+   "id": "g36-t2",
+   "kind": "formation",
+   "ref": "g36-w188",
+   "q": "{警察官|けいさつかん}に「{運転|うんてん}{免許|めんきょ}（　　）を{見|み}せてください」と{言|い}われた。",
+   "options": [
+    "状",
+    "届",
+    "証",
+    "帳"
+   ],
+   "answer": 2,
+   "vi": "Tôi bị cảnh sát bảo: \"Xin cho xem bằng lái xe\".",
+   "why": "Thẻ chứng nhận mang theo người → 運転免許**証**. 免許状 chỉ dùng cho loại giấy như 教員免許状, không đi với 運転; 免許届・免許帳 không có."
+  },
+  {
+   "id": "g36-t3",
+   "kind": "formation",
+   "ref": "g36-w197",
+   "q": "{来月|らいげつ}{会社|かいしゃ}を{辞|や}めるので、{上司|じょうし}に{退職|たいしょく}（　　）を{出|だ}した。",
+   "options": [
+    "状",
+    "証",
+    "帳",
+    "届"
+   ],
+   "answer": 3,
+   "vi": "Tháng sau nghỉ việc nên tôi đã nộp đơn xin nghỉ cho cấp trên.",
+   "why": "Đơn nộp để báo cáo → 退職**届**(とどけ). 退職状・退職証・退職帳 đều không dùng."
+  },
+  {
+   "id": "g36-t4",
+   "kind": "formation",
+   "ref": "g36-w204",
+   "q": "{無駄遣|むだづか}いを{減|へ}らすために、{小遣|こづか}い（　　）をつけ{始|はじ}めた。",
+   "options": [
+    "帳",
+    "版",
+    "証",
+    "届"
+   ],
+   "answer": 0,
+   "vi": "Để bớt tiêu hoang, tôi bắt đầu ghi sổ chi tiêu tiền tiêu vặt.",
+   "why": "Sổ ghi chép, đi với つける → 小遣い**帳**. 小遣い版・小遣い証・小遣い届 không có."
+  },
+  {
+   "id": "g36-t5",
+   "kind": "formation",
+   "ref": "g36-w210",
+   "q": "{千枚|せんまい}しか{作|つく}られなかった{限定|げんてい}（　　）のCDは、{発売日|はつばいび}に{売|う}り{切|き}れた。",
+   "options": [
+    "製",
+    "版",
+    "用",
+    "式"
+   ],
+   "answer": 1,
+   "vi": "Đĩa CD bản giới hạn chỉ làm 1000 chiếc đã bán hết ngay ngày phát hành.",
+   "why": "Phiên bản / ấn bản → 限定**版**. 限定製・限定用・限定式 không phải từ."
+  },
+  {
+   "id": "g36-t6",
+   "kind": "formation",
+   "ref": "g36-w218",
+   "q": "アンケートの{結果|けっか}を{年代|ねんだい}（　　）にまとめると、{若者|わかもの}の{意見|いけん}がよく{分|わ}かる。",
+   "options": [
+    "差",
+    "別",
+    "度",
+    "率"
+   ],
+   "answer": 1,
+   "vi": "Tổng hợp kết quả khảo sát theo lứa tuổi thì thấy rõ ý kiến của giới trẻ.",
+   "why": "Chia theo nhóm + に → 年代**別**に. 年代差 (chênh lệch thế hệ) không đi với 〜にまとめる; 年代度・年代率 không có."
+  },
+  {
+   "id": "g36-t7",
+   "kind": "formation",
+   "ref": "g36-w230",
+   "q": "{今月|こんげつ}の{降水|こうすい}（　　）は{平年|へいねん}の{半分|はんぶん}しかなかった。",
+   "options": [
+    "度",
+    "率",
+    "量",
+    "差"
+   ],
+   "answer": 2,
+   "vi": "Lượng mưa tháng này chỉ bằng một nửa mọi năm.",
+   "why": "Lượng mưa (mm) → 降水**量**. 降水度 không có; 降水率 không dùng (chỉ có 降水確率 = xác suất mưa); 降水差 không có."
+  },
+  {
+   "id": "g36-t8",
+   "kind": "formation",
+   "ref": "g36-w243",
+   "q": "{安全|あんぜん}{対策|たいさく}は{他|ほか}のどの{仕事|しごと}よりも{優先|ゆうせん}（　　）が{高|たか}い。",
+   "options": [
+    "量",
+    "差",
+    "率",
+    "度"
+   ],
+   "answer": 3,
+   "vi": "Biện pháp an toàn có độ ưu tiên cao hơn mọi việc khác.",
+   "why": "Mức độ (cao / thấp) → 優先**度**. 優先量・優先差・優先率 không phải từ."
+  },
+  {
+   "id": "g36-t9",
+   "kind": "formation",
+   "ref": "g36-w260",
+   "q": "{地球|ちきゅう}{温暖|おんだん}（　　）の{影響|えいきょう}で、{夏|なつ}の{暑|あつ}さが{年々|ねんねん}{厳|きび}しくなっている。",
+   "options": [
+    "性",
+    "的",
+    "化",
+    "感"
+   ],
+   "answer": 2,
+   "vi": "Do ảnh hưởng của Trái Đất ấm lên, cái nóng mùa hè năm nào cũng khắc nghiệt hơn.",
+   "why": "\"Trở nên ấm\" (quá trình) → 温暖**化**. 温暖性・温暖的・温暖感 không dùng."
+  },
+  {
+   "id": "g36-t10",
+   "kind": "formation",
+   "ref": "g36-w269",
+   "q": "{輸入|ゆにゅう}{食品|しょくひん}の{安全|あんぜん}（　　）について、{消費者|しょうひしゃ}の{関心|かんしん}が{高|たか}まっている。",
+   "options": [
+    "的",
+    "化",
+    "感",
+    "性"
+   ],
+   "answer": 3,
+   "vi": "Người tiêu dùng ngày càng quan tâm tới tính an toàn của thực phẩm nhập khẩu.",
+   "why": "Danh từ chỉ tính chất (đứng trước について) → 安全**性**. 安全的 không dùng (an toàn đã là な形: 安全な); 安全化 không phải từ thông dụng; 安全感 không dùng (phải là 安心感)."
+  },
+  {
+   "id": "g36-t11",
+   "kind": "context",
+   "ref": "g36-w252",
+   "q": "{分|わ}かりにくいので、もっと（　　）な{例|れい}を{挙|あ}げて{説明|せつめい}してください。",
+   "options": [
+    "具体的",
+    "具体性",
+    "具体化",
+    "具体感"
+   ],
+   "answer": 0,
+   "vi": "Khó hiểu quá, xin hãy đưa ví dụ cụ thể hơn để giải thích.",
+   "why": "Chỗ trống đứng trước **な** + danh từ → cần な形容詞 → **具体的**. 具体性・具体化 là danh từ, không đi với な; 具体感 không phải từ."
+  },
+  {
+   "id": "g36-t12",
+   "kind": "paraphrase",
+   "ref": "g36-w167",
+   "q": "このレストランは[[u:{会員制|かいいんせい}]]だ。",
+   "options": [
+    "会員でなければ利用できない",
+    "会員になると割引がある",
+    "会員が経営している",
+    "会員を募集している"
+   ],
+   "answer": 0,
+   "vi": "Nhà hàng này theo chế độ hội viên.",
+   "why": "会員制 = chế độ **chỉ hội viên mới được dùng**. (2) có giảm giá cho hội viên — vẫn cho người ngoài vào; (3) do hội viên điều hành; (4) đang tuyển hội viên — đều không phải nghĩa của 会員制."
+  }
+ ]
+}

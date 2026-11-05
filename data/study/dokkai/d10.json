@@ -1,0 +1,359 @@
+{
+  "id": "d10",
+  "track": "dokkai",
+  "intro": "Câu hỏi ví dụ có dạng 「〜の{例|れい}として{最|もっと}も{適当|てきとう}なものはどれか」「{筆者|ひっしゃ}の{考|かんが}えに{合|あ}う{行動|こうどう}の例はどれか」「〜にあたるものはどれか」. Điểm làm dạng này **khác hẳn** các dạng trước: **bốn phương án (thường) đều KHÔNG có trong bài**. Đề đưa ra những tình huống mới (đan khăn, mở quán, mua quà…) và bạn phải phán đoán tình huống nào **cùng bản chất** với ý tác giả.\n\nVì vậy, thói quen \"tìm câu trong bài giống phương án\" ở dạng này **vô dụng, thậm chí có hại**: phương án mượn nhiều từ của bài nhất thường lại là bẫy. Việc cần làm là:\n- Biến câu trừu tượng của tác giả (thường là phần gạch chân) thành một **danh sách điều kiện** rõ ràng.\n- Dùng **ví dụ có sẵn trong bài** (sau 「たとえば」) làm \"mẫu\" để hiểu điều kiện đó trông thế nào trong thực tế.\n- Đem từng phương án **đối chiếu với đủ mọi điều kiện** — chỉ một phương án thoả hết.\n\nCâu hỏi biến thể cũng hay gặp: 「この{例|れい}は、どのようなことを{示|しめ}すために{挙|あ}げられているか」 — chiều ngược lại: cho ví dụ, hỏi ý khái quát mà nó minh hoạ. Ngoài ra có dạng 「{筆者|ひっしゃ}が〜を示すために挙げている例はどれか」: lúc này đáp án **là một ví dụ có trong bài** (được nói lại bằng lời khác), nên quay về cách tìm câu tương ứng trong bài như các dạng trước.",
+  "strategy": [
+    {
+      "title": "Bước 1 — Xác định: ví dụ của CÁI GÌ?",
+      "body": "Đọc câu hỏi và gạch chân điều cần tìm ví dụ:\n\n- 「[[u:〜]]の{例|れい}として」 → ví dụ cho **phần gạch chân**.\n- 「{筆者|ひっしゃ}の{考|かんが}えに{合|あ}う{行動|こうどう}の例」「筆者の考えに{従|したが}った行動」 → ví dụ cho **chủ trương** của tác giả (thường ở đoạn cuối, câu có 〜べきだ／大切なのは〜／〜のではないだろうか).\n- 「筆者が{問題|もんだい}だと考えている例」 → ví dụ cho **điều tác giả phê phán** — chú ý chiều ngược lại!\n\nNếu không có gạch chân, đọc cả bài để tìm **ý chính** — đó là thứ cần minh hoạ."
+    },
+    {
+      "title": "Bước 2 — Biến câu trừu tượng thành danh sách điều kiện",
+      "body": "Câu khái quát của tác giả thường gói **2–3 điều kiện**. Tách chúng ra, viết thành checklist.\n\nVí dụ: 「{苦労|くろう}したという{記憶|きおく}が、ものの{価値|かち}を{引|ひ}き{上|あ}げている」\n- ☐ Điều kiện 1: **chính mình** đã bỏ công sức / vất vả.\n- ☐ Điều kiện 2: vì thế mình đánh giá vật đó **cao hơn giá trị thực** của nó.\n\nKhi tách, nhớ giải mã từ chỉ thị (こうした〜, その〜) và những từ được nói lại (言い換え) ở các câu xung quanh — chúng giúp điều kiện cụ thể hơn."
+    },
+    {
+      "title": "Bước 3 — Dùng ví dụ của bài làm \"mẫu\"",
+      "body": "Bài viết thường đã có sẵn 1–2 ví dụ (sau 「たとえば」「{実際|じっさい}」, hoặc một câu chuyện tác giả kể), và một câu **tổng kết** (「このように」「つまり」「こうした」). Hãy so sánh:\n\n- Ví dụ của bài có những **yếu tố nào**? (Ai làm? Làm gì? Kết quả ra sao?)\n- Câu tổng kết gom các ví dụ lại thành ý gì?\n\nĐáp án đúng sẽ có **cùng cấu trúc** với ví dụ trong bài nhưng **khác bề mặt** (khác chủ đề, khác đồ vật). Ví dụ trong bài là tự lắp kệ → đáp án có thể là tự đan khăn: khác đồ, cùng cấu trúc \"tự làm vất vả → quý hơn\".\n\nKhông cần hiểu trọn vẹn phần gạch chân ngay từ đầu: nếu câu khái quát khó hiểu, hãy đọc ví dụ trong bài trước — ví dụ thường làm rõ nghĩa của câu khái quát, rồi bạn quay lại dựng checklist."
+    },
+    {
+      "title": "Bước 4 — Đối chiếu từng phương án, cảnh giác 4 kiểu bẫy",
+      "body": "Đặt từng phương án lên checklist ở Bước 2, đánh dấu ✔ / ✘ cho **từng điều kiện**. Chỉ chọn phương án được ✔ hết. Các kiểu bẫy:\n\n- **(a) Giống từ, khác bản chất**: phương án dùng lại từ của bài (棚, 料理, 地図…) nhưng tình huống không khớp điều kiện. Đây là bẫy phổ biến nhất.\n- **(b) Thoả một nửa**: đúng điều kiện 1 nhưng thiếu điều kiện 2 (ví dụ: có người vất vả nhưng là **người khác** vất vả).\n- **(c) Ví dụ của vế đối lập**: minh hoạ đúng cái mà tác giả **phê phán** (hành động theo lối nghĩ cũ, \"số đông\", \"trung bình\"…).\n- **(d) Đi quá xa**: tác giả nói \"không cần hoàn hảo\" thì phương án \"không cần chuẩn bị gì cả\" là cực đoan → sai.\n\nVới câu hỏi \"hành động theo ý tác giả\", hãy tự hỏi: **nếu tác giả đọc phương án này, ông/bà ấy có gật đầu không?**"
+    }
+  ],
+  "signals": [
+    {
+      "ja": "たとえば／例えば",
+      "vi": "ví dụ như",
+      "note": "Dấu hiệu rõ nhất: sau nó là ví dụ, **trước nó** (hoặc câu tổng kết sau đó) là ý khái quát mà ví dụ minh hoạ."
+    },
+    {
+      "ja": "〜など",
+      "vi": "… v.v.",
+      "note": "Liệt kê vài ví dụ tiêu biểu. 「{洗濯機|せんたくき}や{掃除機|そうじき}など」"
+    },
+    {
+      "ja": "〜といった",
+      "vi": "như là…",
+      "note": "Liệt kê ví dụ trước danh từ khái quát: 「ベビーカーや{車|くるま}いすといった〜」"
+    },
+    {
+      "ja": "〜のような／〜のように",
+      "vi": "như…, giống như…",
+      "note": "Đưa ví dụ hoặc so sánh. 「{字幕|じまく}のような{工夫|くふう}」"
+    },
+    {
+      "ja": "{実際|じっさい}(に)／{現|げん}に",
+      "vi": "thực tế là / trên thực tế",
+      "note": "Dẫn ra một trường hợp có thật để chứng minh ý vừa nói."
+    },
+    {
+      "ja": "{具体的|ぐたいてき}には",
+      "vi": "cụ thể là",
+      "note": "Chuyển từ ý trừu tượng sang chi tiết cụ thể."
+    },
+    {
+      "ja": "〜がその(よい){例|れい}だ",
+      "vi": "… là ví dụ (điển hình) cho điều đó",
+      "note": "Ví dụ đặt sau ý khái quát, kết thúc bằng câu này."
+    },
+    {
+      "ja": "〜の{場合|ばあい}",
+      "vi": "trường hợp của…",
+      "note": "「{料理|りょうり}の場合も{同|おな}じだ」 → một ví dụ nữa cùng cấu trúc."
+    },
+    {
+      "ja": "〜でも{同|おな}じことが{言|い}える",
+      "vi": "với … cũng có thể nói như vậy",
+      "note": "Báo hiệu ví dụ thứ hai **cùng cấu trúc** với ví dụ thứ nhất — rất có ích để rút ra \"mẫu\"."
+    },
+    {
+      "ja": "{仮|かり}に〜とする／〜としよう",
+      "vi": "giả sử…",
+      "note": "Ví dụ giả định do tác giả dựng lên để giải thích."
+    },
+    {
+      "ja": "このように／こうした〜／こういう〜",
+      "vi": "như vậy / những … như thế",
+      "note": "Câu **tổng kết** gom các ví dụ trước đó → đây là ý khái quát cần dựng checklist."
+    },
+    {
+      "ja": "つまり／{要|よう}するに",
+      "vi": "tức là / tóm lại",
+      "note": "Sau ví dụ, tác giả rút ra ý chung. Câu này thường là \"đề bài\" của câu hỏi ví dụ."
+    },
+    {
+      "ja": "{一方|いっぽう}／それに{対|たい}して",
+      "vi": "mặt khác / ngược lại",
+      "note": "Đưa ra ví dụ **đối lập**. Đừng nhầm ví dụ của vế bị phê phán với ví dụ của ý tác giả."
+    },
+    {
+      "ja": "〜をはじめ(として)",
+      "vi": "tiêu biểu là…, trước hết là…",
+      "note": "Nêu một ví dụ đại diện rồi mở rộng ra những cái khác."
+    }
+  ],
+  "passages": {
+    "p1": {
+      "title": "手間をかけたものの価値",
+      "kind": "エッセイ",
+      "ja": "人は、{自分|じぶん}が{手間|てま}をかけたものに、{実際|じっさい}{以上|いじょう}の{価値|かち}を{感|かん}じるらしい。{完成品|かんせいひん}の{家具|かぐ}より、{説明書|せつめいしょ}を見ながら自分で{組|く}み{立|た}てた{棚|たな}のほうに{愛着|あいちゃく}がわく。少しくらいゆがんでいても、{捨|す}てる{気|き}にはなれない。{料理|りょうり}でも{同|おな}じことが言える。店で買った{総菜|そうざい}よりも、時間をかけて自分で作った料理のほうが、{味|あじ}はともかく「おいしい」と感じられるものだ。[[u1:{苦労|くろう}したという{記憶|きおく}が、ものの{価値|かち}を{引|ひ}き{上|あ}げている]]のである。",
+      "vi": "Có vẻ như con người cảm thấy những thứ mình bỏ công sức vào có giá trị hơn thực tế. So với đồ nội thất làm sẵn, ta gắn bó với chiếc kệ tự mình vừa xem hướng dẫn vừa lắp hơn. Dù nó có hơi cong vẹo một chút, ta cũng chẳng nỡ vứt đi. Với món ăn cũng có thể nói như vậy. So với đồ ăn sẵn mua ở cửa hàng, món tự mình mất thời gian nấu — khoan bàn đến hương vị — vẫn khiến ta thấy \"ngon\" hơn. ①Chính ký ức rằng mình đã vất vả đang nâng giá trị của món đồ lên."
+    },
+    "p2": {
+      "title": "計画は育てるもの",
+      "kind": "評論",
+      "ja": "{新|あたら}しいことを{始|はじ}めるとき、まず{細|こま}かい{計画|けいかく}を{立|た}てなければ{気|き}が{済|す}まない人がいる。{準備|じゅんび}は{確|たし}かに{大切|たいせつ}だ。しかし、始める前に{考|かんが}えられることには{限|かぎ}りがある。{実際|じっさい}にやってみて{初|はじ}めてわかる{問題|もんだい}のほうが、はるかに多いのだ。\n\n{完璧|かんぺき}な計画を作ろうとすればするほど、始める日は{遠|とお}のく。そして、時間をかけて作った計画ほど、人はそれを{変|か}えることをためらうようになる。{現実|げんじつ}に合わなくなった計画を{守|まも}り{続|つづ}けるのは、{地図|ちず}が{古|ふる}いと知りながら、その地図どおりに{歩|ある}こうとするようなものだ。\n\n大切なのは、{七割|ななわり}ほどの{見通|みとお}しが立ったら{動|うご}き{出|だ}し、うまくいかない{部分|ぶぶん}を見つけたら、そのつど計画を{書|か}き{直|なお}すことだ。[[u1:{計画|けいかく}とは、{守|まも}るものではなく、{育|そだ}てるものなのである]]。",
+      "vi": "Khi bắt đầu một việc mới, có những người phải lập kế hoạch chi tiết trước thì mới yên lòng. Chuẩn bị quả thật là quan trọng. Nhưng những gì có thể nghĩ tới trước khi bắt đầu thì có giới hạn. Những vấn đề chỉ khi bắt tay làm thật mới biết được còn nhiều hơn gấp bội.\n\nCàng cố lập một kế hoạch hoàn hảo thì ngày bắt đầu càng lùi xa. Hơn nữa, kế hoạch càng tốn nhiều thời gian soạn ra thì người ta càng ngần ngại thay đổi nó. Cứ khư khư giữ một kế hoạch không còn hợp với thực tế, chẳng khác gì biết bản đồ đã cũ mà vẫn cố đi đúng theo bản đồ đó.\n\nĐiều quan trọng là khi đã nhìn ra được khoảng bảy phần thì hãy bắt đầu hành động, và mỗi khi phát hiện chỗ nào không suôn sẻ thì viết lại kế hoạch ngay lúc đó. ①Kế hoạch không phải thứ để giữ khư khư, mà là thứ để nuôi lớn."
+    },
+    "p3": {
+      "title": "一人のための工夫",
+      "kind": "解説",
+      "ja": "{歩道|ほどう}と{車道|しゃどう}の{段差|だんさ}をなくす{工事|こうじ}は、もともと{車|くるま}いすを{使|つか}う人のために始められたものだった。ところが、段差がなくなって{助|たす}かったのは、車いすの{利用者|りようしゃ}だけではなかった。ベビーカーを{押|お}す{親|おや}、{重|おも}いスーツケースを{引|ひ}く{旅行者|りょこうしゃ}、{自転車|じてんしゃ}で{荷物|にもつ}を{運|はこ}ぶ{配達員|はいたついん}。多くの人が、その{恩恵|おんけい}を{受|う}けることになったのである。\n\nこのように、ある{特定|とくてい}の人の{不便|ふべん}を{解消|かいしょう}するために{生|う}まれた{工夫|くふう}が、{結果|けっか}として多くの人の{暮|く}らしを{楽|らく}にすることは{珍|めずら}しくない。たとえば、テレビの{字幕|じまく}は、{耳|みみ}の{不自由|ふじゆう}な人のために{広|ひろ}まったものだが、今では音を出せない{電車|でんしゃ}の中や、{騒|さわ}がしい店の中で{動画|どうが}を見る人たちにも{欠|か}かせないものになっている。\n\nここで大事なのは、こうした工夫の多くが、{最初|さいしょ}から「みんなのため」を{目指|めざ}したものではなかったという点だ。「{平均的|へいきんてき}な利用者」を{想定|そうてい}して作られた{製品|せいひん}は、たいてい{誰|だれ}にとっても「まあまあ」の使いやすさにとどまる。むしろ、[[u1:{困|こま}っている{一人|ひとり}の{声|こえ}に{真剣|しんけん}に{耳|みみ}を{傾|かたむ}けたとき]]にこそ、多くの人に{届|とど}く工夫が生まれるのではないだろうか。",
+      "vi": "Công trình xoá bỏ bậc chênh giữa vỉa hè và lòng đường vốn được bắt đầu vì những người dùng xe lăn. Thế nhưng, người được lợi khi bậc chênh biến mất không chỉ có người dùng xe lăn. Những bậc cha mẹ đẩy xe nôi, du khách kéo va li nặng, nhân viên giao hàng chở đồ bằng xe đạp. Rất nhiều người đã được hưởng lợi từ đó.\n\nNhư vậy, chuyện một cải tiến ra đời để giải quyết sự bất tiện của một nhóm người cụ thể, rốt cuộc lại làm cuộc sống của nhiều người dễ dàng hơn, không phải là hiếm. Ví dụ, phụ đề truyền hình được phổ biến vì người khiếm thính, nhưng giờ đây đã trở thành thứ không thể thiếu với cả những người xem video trên tàu điện, nơi không thể bật tiếng, hay trong quán xá ồn ào.\n\nĐiều quan trọng ở đây là phần lớn những cải tiến như thế ngay từ đầu không hề nhắm tới \"vì mọi người\". Những sản phẩm được làm ra với giả định về một \"người dùng trung bình\" thường chỉ dừng ở mức dễ dùng \"tàm tạm\" với tất cả mọi người. Ngược lại, chẳng phải chính ①khi ta nghiêm túc lắng nghe tiếng nói của một người đang gặp khó khăn, thì mới ra đời những cải tiến chạm tới được nhiều người hay sao?"
+    },
+    "p4": {
+      "title": "わかったつもり",
+      "kind": "評論",
+      "ja": "ニュースで聞いた{言葉|ことば}や、{何度|なんど}も{目|め}にしたことのある{仕組|しく}みについて、{私|わたし}たちは「{知|し}っている」と{感|かん}じやすい。ところが、いざ人に{説明|せつめい}しようとすると、言葉に{詰|つ}まってしまうことがある。たとえば、{毎日|まいにち}{使|つか}っているファスナーがどうして{閉|し}まるのか、{正確|せいかく}に説明できる人はそう多くないだろう。[[u1:{名前|なまえ}を{知|し}っていることや、{見慣|みな}れていることを、{理解|りかい}していることと{取|と}り{違|ちが}えている]]のである。\n\nこうした「わかったつもり」は、{決|けっ}して{悪|わる}いことばかりではない。{身|み}の{回|まわ}りのすべてを理解しようとしていたら、{生活|せいかつ}が{成|な}り{立|た}たないからだ。{問題|もんだい}は、{本当|ほんとう}は理解していないのに、そのことに{気|き}づかないまま{判断|はんだん}を{下|くだ}してしまう{場合|ばあい}である。仕組みを知らないまま新しい{制度|せいど}に{賛成|さんせい}したり{反対|はんたい}したりすれば、{思|おも}わぬ{結果|けっか}を{招|まね}くこともある。\n\n{自分|じぶん}がどこまでわかっているかを{確|たし}かめるいちばん{簡単|かんたん}な{方法|ほうほう}は、[[u2:子どもに{話|はな}すつもりで{説明|せつめい}してみること]]だ。{専門|せんもん}{用語|ようご}を使わずに説明しようとすると、自分の理解のどこに{穴|あな}があるのかが、はっきりと見えてくる。",
+      "vi": "Với những từ ngữ nghe trên thời sự hay những cơ chế đã thấy nhiều lần, chúng ta dễ cảm thấy mình \"biết\". Thế nhưng, đến khi thực sự định giải thích cho người khác thì lại có lúc cứng họng. Chẳng hạn, có lẽ không nhiều người giải thích chính xác được vì sao chiếc khoá kéo mình dùng hằng ngày lại kéo kín được. ①Ta đang nhầm việc biết tên gọi hay việc đã quen mắt với việc hiểu.\n\nKiểu \"tưởng là mình hiểu\" như thế không hẳn toàn là điều xấu. Bởi nếu cố hiểu hết mọi thứ quanh mình thì cuộc sống sẽ không vận hành được. Vấn đề là trường hợp thật ra không hiểu mà không nhận ra điều đó, rồi cứ thế đưa ra phán đoán. Nếu không biết cơ chế mà vẫn tán thành hay phản đối một chế độ mới, có khi sẽ dẫn đến kết quả không ngờ.\n\nCách đơn giản nhất để kiểm tra xem mình hiểu tới đâu là ②thử giải thích như thể đang nói cho một đứa trẻ nghe. Khi cố giải thích mà không dùng thuật ngữ chuyên môn, ta sẽ thấy rõ hiểu biết của mình hổng ở chỗ nào."
+    },
+    "p5": {
+      "title": "手帳の空白",
+      "kind": "エッセイ",
+      "ja": "{手帳|てちょう}がびっしりと{予定|よてい}で{埋|う}まっていると、{充実|じゅうじつ}した{毎日|まいにち}を{送|おく}っているような{気|き}がする。{私|わたし}もかつては、{空|あ}いている時間を見つけては予定を入れていた。ところが、そうした{生活|せいかつ}を{続|つづ}けているうちに、{友人|ゆうじん}から{急|きゅう}な{相談|そうだん}を{受|う}けても「{来週|らいしゅう}なら」としか{答|こた}えられない{自分|じぶん}に{気|き}がついた。\n\n予定のない時間は、何も{生|う}み{出|だ}さない{無駄|むだ}な時間だと{思|おも}われがちだ。しかし、それは[[u1:{思|おも}いがけない{出来事|できごと}を{受|う}け{止|と}めるための{場所|ばしょ}]]でもある。{体調|たいちょう}を{崩|くず}した{家族|かぞく}の{世話|せわ}をする。ふと{興味|きょうみ}を{持|も}った{展示会|てんじかい}に{足|あし}を{運|はこ}ぶ。そうしたことができるのは、あらかじめ空けておいた時間があるからだ。\n\n今では、私は{一週間|いっしゅうかん}のうち{半日|はんにち}だけ、手帳に何も書かない日を作っている。その半日に何をするかは、{当日|とうじつ}まで{決|き}めない。",
+      "vi": "Khi cuốn sổ tay kín đặc lịch hẹn, ta có cảm giác mình đang sống những ngày thật trọn vẹn. Tôi ngày trước cũng vậy, cứ thấy chỗ trống là xếp lịch vào. Thế nhưng, sống như thế được một thời gian, tôi nhận ra mình là người mà dù bạn bè có chuyện gấp cần tâm sự cũng chỉ trả lời được: \"Tuần sau thì được.\"\n\nThời gian không có lịch hẹn thường bị coi là thời gian lãng phí, chẳng tạo ra được gì. Nhưng đó cũng là ①chỗ trống để đón nhận những chuyện bất ngờ. Chăm sóc người nhà bị ốm. Bỗng thấy hứng thú với một buổi triển lãm và ghé qua xem. Làm được những việc như thế là nhờ có khoảng thời gian đã để trống từ trước.\n\nGiờ đây, mỗi tuần tôi dành ra nửa ngày không ghi gì vào sổ. Nửa ngày đó làm gì, tôi để đến đúng hôm đó mới quyết định."
+    },
+    "p6": {
+      "title": "新人の「なぜ」",
+      "kind": "評論",
+      "ja": "{長|なが}く{同|おな}じ{職場|しょくば}にいると、{仕事|しごと}のやり{方|かた}に{疑問|ぎもん}を{持|も}たなくなる。{毎朝|まいあさ}同じ{書類|しょるい}に{三回|さんかい}も{印鑑|いんかん}を{押|お}す。{誰|だれ}も読まない{報告書|ほうこくしょ}を、{毎月|まいつき}{欠|か}かさず作る。{最初|さいしょ}は{不思議|ふしぎ}に{思|おも}ったはずのことも、{続|つづ}けているうちに「そういうもの」になってしまうのだ。\n\nそんな職場に新しく{入|はい}ってきた人は、しばしば{素朴|そぼく}な{質問|しつもん}をする。「これは何のためにやっているんですか」。ベテランにとっては、{答|こた}えに{困|こま}る質問であると{同時|どうじ}に、少し{耳|みみ}の{痛|いた}い質問でもある。しかし、[[u1:こうした{問|と}い]]こそが、{組織|そしき}にとっては{貴重|きちょう}なのだ。{慣|な}れた人の目には{映|うつ}らなくなった{無駄|むだ}を、{新人|しんじん}の目はまだ見ることができるからである。\n\nもちろん、新人の疑問がいつも{正|ただ}しいとは{限|かぎ}らない。{一見|いっけん}無駄に見える{手順|てじゅん}にも、{過去|かこ}の{失敗|しっぱい}から{生|う}まれた{大切|たいせつ}な{理由|りゆう}がある{場合|ばあい}もある。大切なのは、問われた{側|がわ}が「{昔|むかし}からこうだから」で{片|かた}づけず、その理由を{説明|せつめい}できるかどうかを{確|たし}かめてみることだろう。",
+      "vi": "Ở cùng một nơi làm việc lâu, người ta không còn thắc mắc về cách làm việc nữa. Mỗi sáng đóng dấu ba lần lên cùng một tờ giấy. Tháng nào cũng đều đặn làm bản báo cáo mà chẳng ai đọc. Những việc lúc đầu hẳn đã thấy kỳ lạ, làm mãi rồi cũng thành \"chuyện vốn dĩ là thế\".\n\nNgười mới vào một nơi làm việc như vậy thường đặt những câu hỏi rất ngây ngô: \"Việc này làm để làm gì vậy ạ?\" Với người lâu năm, đó vừa là câu hỏi khó trả lời, vừa là câu hỏi hơi khó nghe. Thế nhưng, chính ①những câu hỏi như vậy mới quý giá đối với tổ chức. Bởi đôi mắt của người mới vẫn còn nhìn thấy những sự lãng phí mà mắt người đã quen không còn nhận ra.\n\nTất nhiên, thắc mắc của người mới không phải lúc nào cũng đúng. Có những quy trình thoạt nhìn tưởng thừa nhưng lại có lý do quan trọng ra đời từ thất bại trong quá khứ. Điều quan trọng có lẽ là người bị hỏi đừng gạt đi bằng câu \"xưa nay vẫn thế\", mà hãy thử kiểm tra xem mình có giải thích được lý do đó hay không."
+    },
+    "p7": {
+      "title": "贈り物の価値",
+      "kind": "エッセイ",
+      "ja": "{贈|おく}り{物|もの}を{選|えら}ぶとき、{私|わたし}たちはつい{値段|ねだん}や{流行|りゅうこう}を{気|き}にしてしまう。しかし、{受|う}け{取|と}った{側|がわ}の心に{長|なが}く{残|のこ}るのは、{高価|こうか}な{品物|しなもの}よりも、[[u1:{自分|じぶん}のことをよく見ていてくれたと{感|かん}じられる{贈|おく}り{物|もの}]]ではないだろうか。{以前|いぜん}、{仕事|しごと}で{疲|つか}れていた{時期|じき}に、{同僚|どうりょう}が小さな{入浴剤|にゅうよくざい}をくれたことがある。値段にすれば{数百円|すうひゃくえん}のものだが、私の{顔色|かおいろ}に{気|き}づいてくれたことが何よりうれしかった。贈り物の{価値|かち}は、品物そのものよりも、{相手|あいて}を{思|おも}って選んだ時間の中にあるのだと思う。",
+      "vi": "Khi chọn quà, chúng ta hay bất giác để ý đến giá tiền hay xu hướng thịnh hành. Nhưng điều đọng lại lâu trong lòng người nhận, chẳng phải là ①món quà khiến họ cảm thấy người tặng đã để ý đến mình, hơn là một món đồ đắt tiền hay sao? Trước đây, vào thời gian tôi mệt mỏi vì công việc, một đồng nghiệp đã tặng tôi một gói muối tắm nhỏ. Tính ra chỉ vài trăm yên, nhưng việc người ấy nhận ra sắc mặt của tôi khiến tôi vui hơn bất cứ điều gì. Tôi nghĩ giá trị của món quà nằm trong khoảng thời gian chọn quà với tấm lòng nghĩ về người kia, hơn là ở bản thân món đồ."
+    }
+  },
+  "worked": [
+    {
+      "id": "d10-w1",
+      "kind": "passage",
+      "pass": "p1",
+      "q": "[[u1:{苦労|くろう}したという{記憶|きおく}が、ものの{価値|かち}を{引|ひ}き{上|あ}げている]]の{例|れい}として、{最|もっと}も{適当|てきとう}なものはどれか。",
+      "options": [
+        "{有名|ゆうめい}な{画家|がか}の{絵|え}は、{高|たか}い{値段|ねだん}がついているので{価値|かち}があると{感|かん}じる。",
+        "{何度|なんど}も{失敗|しっぱい}しながら{自分|じぶん}で{編|あ}んだマフラーは、{形|かたち}が{悪|わる}くても{大切|たいせつ}に{使|つか}い{続|つづ}けている。",
+        "{友人|ゆうじん}に作ってもらった{料理|りょうり}は、店の料理よりおいしく感じる。",
+        "{苦労|くろう}して{組|く}み{立|た}てた{棚|たな}が{壊|こわ}れたので、新しい{完成品|かんせいひん}の棚を買った。"
+      ],
+      "answer": 1,
+      "vi": "Hỏi: Ví dụ phù hợp nhất cho \"①ký ức mình đã vất vả nâng giá trị món đồ lên\" là gì? → Đáp án: Chiếc khăn tự mình đan, dù thất bại nhiều lần và hình dáng xấu, vẫn được trân trọng dùng mãi.",
+      "why": "Checklist: (1) **chính mình** bỏ công sức, (2) vì thế đánh giá cao hơn giá trị thực (dù không hoàn hảo vẫn quý). Phương án 2: tự đan, thất bại nhiều lần ✔; 「{形|かたち}が{悪|わる}くても{大切|たいせつ}に」 = 「少しくらいゆがんでいても、{捨|す}てる{気|き}にはなれない」 ✔.\n- (1) Giá trị đến từ **giá tiền, danh tiếng**, không phải công sức của mình → ✘ điều kiện 1.\n- (3) Bẫy \"giống từ\" (料理) + \"thoả một nửa\": người vất vả là **bạn**, không phải mình.\n- (4) Bẫy \"giống từ\" (苦労, 組み立てた棚) nhưng hành động ngược lại: vứt bỏ, mua đồ làm sẵn → ✘ điều kiện 2.",
+      "walkthrough": "**① Ví dụ của cái gì?** Của phần gạch chân — câu tổng kết của cả đoạn, kết bằng 「〜のである」.\n\n**② Dựng checklist.** 「苦労したという記憶」 = mình đã vất vả (điều kiện 1). 「ものの価値を引き上げている」 = giá trị cảm nhận cao hơn thực tế — câu đầu bài nói rõ: 「実際以上の価値を感じる」 (điều kiện 2).\n\n**③ Xem ví dụ mẫu trong bài.** Bài có **hai** ví dụ cùng cấu trúc, nối bằng 「料理でも同じことが言える」:\n- Tự lắp kệ → hơi cong vẫn không nỡ vứt.\n- Tự nấu → \"khoan bàn hương vị\" vẫn thấy ngon.\nMẫu chung: **[tự tay làm, tốn công] → [sản phẩm không hoàn hảo] → [vẫn quý hơn đồ có sẵn]**.\n\n**④ Đối chiếu** (ĐK1: chính mình vất vả / ĐK2: quý hơn giá trị thực).\n- (1) bức tranh nổi tiếng: ĐK1 ✘ / ĐK2 ✘ (đắt thật nên quý — không phải \"hơn thực tế\")\n- (2) tự đan khăn: ĐK1 ✔ / ĐK2 ✔ → **đáp án**\n- (3) bạn nấu cho: ĐK1 ✘ / ĐK2 ✔\n- (4) kệ hỏng, mua mới: ĐK1 ✔ / ĐK2 ✘\n\n**Bài học:** phương án 3 và 4 mượn nhiều từ của bài nhất (料理, 苦労, 組み立てた棚) — và đều sai. Phương án đúng (khăn đan) **không dùng một chữ nào** của ví dụ trong bài, nhưng **cùng cấu trúc**."
+    },
+    {
+      "id": "d10-w2",
+      "kind": "passage",
+      "pass": "p2",
+      "q": "{筆者|ひっしゃ}の{考|かんが}えに{合|あ}う{行動|こうどう}の{例|れい}として、{最|もっと}も{適当|てきとう}なものはどれか。",
+      "options": [
+        "{引|ひ}っ{越|こ}しの{前|まえ}に、新しい{町|まち}のことを{一年|いちねん}かけて{詳|くわ}しく{調|しら}べ、すべての{予定|よてい}を{決|き}めておく。",
+        "{計画|けいかく}を{立|た}てても{役|やく}に{立|た}たないので、何も決めずに{思|おも}いついたときに{行動|こうどう}する。",
+        "店を{開|ひら}くとき、まず{週末|しゅうまつ}だけ小さく{営業|えいぎょう}してみて、{客|きゃく}の{反応|はんのう}を見ながらメニューや{営業|えいぎょう}{時間|じかん}を{変|か}えていく。",
+        "{旅行|りょこう}の{途中|とちゅう}で雨が{降|ふ}っても、立てた予定は変えずに{最後|さいご}まで予定どおりに{回|まわ}る。"
+      ],
+      "answer": 2,
+      "vi": "Hỏi: Ví dụ hành động phù hợp nhất với suy nghĩ của tác giả là gì? → Đáp án: Khi mở quán, trước hết thử bán nhỏ vào cuối tuần, rồi vừa xem phản ứng của khách vừa thay đổi thực đơn và giờ mở cửa.",
+      "why": "Chủ trương của tác giả ở đoạn cuối (「大切なのは〜」): (1) có khoảng 七割 viễn cảnh thì **bắt đầu hành động**, (2) thấy chỗ chưa ổn thì **sửa kế hoạch ngay**. Phương án 3: bắt đầu nhỏ ✔, sửa dựa trên phản ứng thực tế ✔.\n- (1) Ví dụ của vế **bị phê phán**: mất cả năm lập kế hoạch hoàn hảo → 「始める日は{遠|とお}のく」.\n- (2) Đi quá xa: tác giả vẫn nói 「{準備|じゅんび}は{確|たし}かに{大切|たいせつ}だ」, không bảo bỏ kế hoạch.\n- (4) Đúng hình ảnh tác giả phê phán: 「現実に合わなくなった計画を守り続ける」 (trời mưa = thực tế thay đổi).",
+      "walkthrough": "**① Ví dụ của cái gì?** 「筆者の考え」 → phải tìm **chủ trương**. Tín hiệu: 「**大切なのは**、〜ことだ」 ở đoạn 3 và câu kết 「計画とは、守るものではなく、育てるものなのである」.\n\n**② Dựng checklist.**\n- ĐK1: không đợi hoàn hảo — 「七割ほどの見通しが立ったら動き出し」.\n- ĐK2: vừa làm vừa sửa — 「うまくいかない部分を見つけたら、そのつど計画を書き直す」.\n- Lưu ý giới hạn: vẫn **có** chuẩn bị (「準備は確かに大切だ」) → không phải \"vô kế hoạch\".\n\n**③ Xác định vế bị phê phán (để nhận ra bẫy c).** Đoạn 2 phê phán hai thứ: cố làm kế hoạch hoàn hảo (→ chậm bắt đầu) và giữ khư khư kế hoạch lỗi thời (→ ví như đi theo bản đồ cũ).\n\n**④ Đối chiếu.**\n- (1) Một năm điều tra, quyết định hết: ✘ ĐK1 — đúng kiểu \"kế hoạch hoàn hảo\" bị phê phán.\n- (2) Không quyết gì cả: ✘ giới hạn — cực đoan, đi quá xa ý tác giả.\n- (3) Bán thử cuối tuần (bắt đầu khi chưa hoàn hảo ✔) + sửa thực đơn theo phản ứng (✔) → **đáp án**.\n- (4) Mưa vẫn đi đúng lịch: ✘ ĐK2 — đúng kiểu \"giữ kế hoạch không hợp thực tế\".\n\n**Bài học:** với câu hỏi \"hành động theo ý tác giả\", hai phương án sai thường là **hai thái cực**: một bên là lối nghĩ tác giả phê phán, một bên là phiên bản cực đoan của ý tác giả. Đáp án nằm ở **giữa**, đúng mức độ tác giả nói."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "d10-q1",
+      "kind": "passage",
+      "pass": "p3",
+      "q": "{筆者|ひっしゃ}が{述|の}べている「ある{特定|とくてい}の人の{不便|ふべん}を{解消|かいしょう}するために{生|う}まれた{工夫|くふう}が、{結果|けっか}として多くの人の{暮|く}らしを{楽|らく}にする」{例|れい}として、{最|もっと}も{適当|てきとう}なものはどれか。",
+      "options": [
+        "{高齢者|こうれいしゃ}{向|む}けに作られた{文字|もじ}の大きなスマートフォンが、{若|わか}い人にはあまり{売|う}れなかった。",
+        "目の{不自由|ふじゆう}な人のために作られた{音声|おんせい}{読|よ}み{上|あ}げ{機能|きのう}が、{料理|りょうり}{中|ちゅう}で手が{離|はな}せない人にも使われるようになった。",
+        "多くの人が使いやすいように、{駅|えき}の{券売機|けんばいき}の{画面|がめん}が大きくなった。",
+        "{車|くるま}いすの{利用者|りようしゃ}のために、駅に{専用|せんよう}のエレベーターが作られた。"
+      ],
+      "answer": 1,
+      "vi": "Hỏi: Ví dụ phù hợp nhất cho điều tác giả nói — \"cải tiến ra đời để giải quyết bất tiện của một nhóm người cụ thể, rốt cuộc làm cuộc sống nhiều người dễ hơn\" — là gì? → Đáp án: Chức năng đọc to văn bản làm cho người khiếm thị nay cũng được người đang nấu ăn, không rảnh tay, sử dụng.",
+      "why": "Checklist: (1) ban đầu làm cho **một nhóm cụ thể**, (2) **kết quả** là **nhiều người khác** cũng được lợi. Mẫu trong bài: bỏ bậc chênh (vì xe lăn → xe nôi, va li…), phụ đề (vì người khiếm thính → người xem video trên tàu). Phương án 2: vì người khiếm thị ✔ → người đang nấu ăn cũng dùng ✔.\n- (1) Ngược lại: không lan ra người khác → ✘ ĐK2.\n- (3) Ngay từ đầu đã nhắm \"nhiều người\" → ✘ ĐK1 (đây chính là kiểu 「最初から『みんなのため』」 tác giả phân biệt).\n- (4) Bẫy \"giống từ\" (車いす, 駅): chỉ dừng ở nhóm cụ thể, không có ĐK2."
+    },
+    {
+      "id": "d10-q2",
+      "kind": "passage",
+      "pass": "p3",
+      "q": "[[u1:{困|こま}っている{一人|ひとり}の{声|こえ}に{真剣|しんけん}に{耳|みみ}を{傾|かたむ}けたとき]]とあるが、{筆者|ひっしゃ}の{考|かんが}えに{合|あ}う{製品|せいひん}づくりの{例|れい}として、{最|もっと}も{適当|てきとう}なものはどれか。",
+      "options": [
+        "{利用者|りようしゃ}{千人|せんにん}にアンケートをとり、{最|もっと}も多かった{意見|いけん}をもとに製品を{改良|かいりょう}する。",
+        "{若者|わかもの}に{人気|にんき}のある{商品|しょうひん}のデザインをまねて、新しい商品を作る。",
+        "「みんなが使える」ことを{目標|もくひょう}に、どの{年代|ねんだい}にも合う{標準的|ひょうじゅんてき}なサイズのはさみを作る。",
+        "{指|ゆび}の力が{弱|よわ}い一人の利用者の{悩|なや}みを{詳|くわ}しく聞き、{軽|かる}い力で{切|き}れるはさみを{開発|かいはつ}する。"
+      ],
+      "answer": 3,
+      "vi": "Hỏi: Ví dụ cách làm sản phẩm phù hợp nhất với suy nghĩ của tác giả (\"①nghiêm túc lắng nghe tiếng nói của một người đang gặp khó khăn\") là gì? → Đáp án: Lắng nghe kỹ nỗi khổ của một người dùng có ngón tay yếu, rồi phát triển loại kéo cắt được chỉ với lực nhẹ.",
+      "why": "Checklist từ phần gạch chân: (1) xuất phát từ **một người cụ thể**, (2) người đó đang **gặp khó khăn**, (3) **lắng nghe nghiêm túc** để giải quyết. Phương án 4 thoả cả ba.\n- (1) Ví dụ của vế đối lập: lấy ý kiến số đông ≈ 「{平均的|へいきんてき}な利用者を{想定|そうてい}」 → kết quả chỉ 「まあまあ」.\n- (2) Bắt chước thiết kế đang hot: không liên quan tới người gặp khó khăn.\n- (3) Bẫy (c): 「みんなが使える」「標準的」 chính là lối làm 「最初から『みんなのため』」 mà tác giả cho là chỉ được 「まあまあ」."
+    },
+    {
+      "id": "d10-q3",
+      "kind": "passage",
+      "pass": "p3",
+      "q": "この{文章|ぶんしょう}で、「テレビの{字幕|じまく}」の{例|れい}は、どのようなことを{示|しめ}すために{挙|あ}げられているか。",
+      "options": [
+        "{特定|とくてい}の人のために生まれた{工夫|くふう}が、ほかの多くの人にも{役立|やくだ}つようになるということ",
+        "{耳|みみ}の{不自由|ふじゆう}な人のための工夫は、まだ{十分|じゅうぶん}に{広|ひろ}まっていないということ",
+        "{電車|でんしゃ}の中で音を出して{動画|どうが}を見るのは、{迷惑|めいわく}だということ",
+        "{最初|さいしょ}からみんなのために作られたものは、使いやすいということ"
+      ],
+      "answer": 0,
+      "vi": "Hỏi: Trong bài, ví dụ \"phụ đề truyền hình\" được đưa ra để minh hoạ điều gì? → Đáp án: Một cải tiến ra đời vì một nhóm người cụ thể sẽ trở nên hữu ích cho cả nhiều người khác.",
+      "why": "Câu hỏi chiều ngược: cho ví dụ, tìm ý khái quát. Ví dụ phụ đề đứng sau 「**たとえば**」, và ngay trước 「たとえば」 là câu tổng kết bắt đầu bằng 「**このように**、ある特定の人の不便を解消するために生まれた工夫が、結果として多くの人の暮らしを楽にすることは珍しくない」 → phương án 1.\n- (2) Ngược với bài: phụ đề đã 「広まった」 và 「欠かせないもの」.\n- (3) Bài không bàn chuyện phép lịch sự trên tàu; 「音を出せない電車の中」 chỉ là bối cảnh.\n- (4) Ngược với ý tác giả: đồ làm 「最初から『みんなのため』」 chỉ 「まあまあ」."
+    }
+  ],
+  "practice": [
+    {
+      "id": "d10-p1",
+      "kind": "passage",
+      "pass": "p4",
+      "q": "[[u1:{名前|なまえ}を{知|し}っていることや、{見慣|みな}れていることを、{理解|りかい}していることと{取|と}り{違|ちが}えている]]の{例|れい}として、{最|もっと}も{適当|てきとう}なものはどれか。",
+      "options": [
+        "「{円高|えんだか}」という{言葉|ことば}をよく聞くので{意味|いみ}がわかっているつもりだったが、{友人|ゆうじん}に{聞|き}かれて{説明|せつめい}できなかった。",
+        "新しく{習|なら}った{漢字|かんじ}を、{何度|なんど}も書いて{覚|おぼ}えた。",
+        "{料理|りょうり}の作り{方|かた}を知らなかったので、本を読んで作ってみた。",
+        "{自転車|じてんしゃ}の{仕組|しく}みはわからないが、{毎日|まいにち}{問題|もんだい}なく{乗|の}っている。"
+      ],
+      "answer": 0,
+      "vi": "Hỏi: Ví dụ phù hợp nhất cho \"①nhầm việc biết tên gọi hay đã quen mắt với việc hiểu\" là gì? → Đáp án: Vì hay nghe từ \"đồng yên tăng giá\" nên tưởng mình hiểu nghĩa, nhưng khi bạn hỏi thì không giải thích được.",
+      "why": "Checklist: (1) biết tên / quen mắt, (2) **tưởng là mình hiểu**, (3) thực ra không hiểu (lộ ra khi phải giải thích). Mẫu trong bài: khoá kéo dùng hằng ngày nhưng không giải thích được. Phương án 1: hay nghe từ 円高 ✔, 「わかっているつもり」 ✔, không giải thích được ✔.\n- (2) Học và nhớ chữ: không có sự \"tưởng hiểu\".\n- (3) Tự biết mình không biết, rồi đi học → ✘ ĐK2.\n- (4) Bẫy tinh vi: giống ví dụ khoá kéo về bề mặt (đồ dùng hằng ngày, không hiểu cơ chế), nhưng người này **biết rõ** mình không hiểu (「仕組みはわからないが」) → không có sự 「取り違え」 (nhầm lẫn). ✘ ĐK2."
+    },
+    {
+      "id": "d10-p2",
+      "kind": "passage",
+      "pass": "p4",
+      "q": "{筆者|ひっしゃ}が{問題|もんだい}だと{考|かんが}えている{例|れい}として、{最|もっと}も{適当|てきとう}なものはどれか。",
+      "options": [
+        "{電子|でんし}レンジがなぜ{食|た}べ{物|もの}を{温|あたた}められるのか知らないまま、{毎日|まいにち}{使|つか}っている。",
+        "{薬|くすり}が{効|き}く{仕組|しく}みがよくわからないので、{医者|いしゃ}に{詳|くわ}しく{質問|しつもん}した。",
+        "{内容|ないよう}をよく知らない{税|ぜい}の{制度|せいど}について、ニュースの{見出|みだ}しだけを見て「{良|よ}い制度だ」と{友人|ゆうじん}に{勧|すす}めた。",
+        "{専門家|せんもんか}の{説明|せつめい}を聞いても{理解|りかい}できなかったので、{判断|はんだん}を{保留|ほりゅう}した。"
+      ],
+      "answer": 2,
+      "vi": "Hỏi: Ví dụ phù hợp nhất cho điều tác giả coi là vấn đề là gì? → Đáp án: Chỉ xem tiêu đề tin tức về một chính sách thuế mình không nắm rõ, rồi khuyên bạn bè rằng \"đó là chính sách tốt\".",
+      "why": "Câu hỏi nhắm vào 「**問題は**、本当は理解していないのに、そのことに{気|き}づかないまま判断を{下|くだ}してしまう場合である」 và ví dụ đi kèm: 「仕組みを知らないまま新しい制度に{賛成|さんせい}したり{反対|はんたい}したり」. Checklist: (1) không thật sự hiểu, (2) không nhận ra, (3) **đưa ra phán đoán**. Phương án 3 ✔✔✔.\n- (1) Bẫy \"vế không phải vấn đề\": dùng đồ mà không hiểu cơ chế là chuyện tác giả **chấp nhận** (「悪いことばかりではない…生活が成り立たない」). Không có phán đoán nào.\n- (2) Tự biết mình không hiểu và đi hỏi → hành động tốt.\n- (4) Biết mình không hiểu nên **không** phán đoán → ngược với vấn đề."
+    },
+    {
+      "id": "d10-p3",
+      "kind": "passage",
+      "pass": "p4",
+      "q": "[[u2:子どもに{話|はな}すつもりで{説明|せつめい}してみること]]とあるが、{筆者|ひっしゃ}の{考|かんが}えに{合|あ}う{行動|こうどう}の{例|れい}として、{最|もっと}も{適当|てきとう}なものはどれか。",
+      "options": [
+        "{会議|かいぎ}の{前|まえ}に、{難|むずか}しい{専門|せんもん}{用語|ようご}をたくさん{調|しら}べて{資料|しりょう}に{書|か}き{込|こ}んでおく。",
+        "わからない{言葉|ことば}があったら、すぐに子どもに{意味|いみ}を聞いてみる。",
+        "本を読んだあと、{大事|だいじ}な{部分|ぶぶん}をそのままノートに{書|か}き{写|うつ}す。",
+        "{試験|しけん}{勉強|べんきょう}で、{習|なら}った{内容|ないよう}を専門用語を使わずに{家族|かぞく}に説明してみる。"
+      ],
+      "answer": 3,
+      "vi": "Hỏi: Ví dụ hành động phù hợp nhất với suy nghĩ của tác giả (\"②thử giải thích như thể đang nói cho một đứa trẻ\") là gì? → Đáp án: Khi ôn thi, thử giải thích nội dung đã học cho người nhà mà không dùng thuật ngữ chuyên môn.",
+      "why": "「子どもに話すつもりで」 là cách nói hình ảnh; câu sau giải mã nó: 「専門用語を使わずに説明しようとすると、自分の理解のどこに{穴|あな}があるのかが…見えてくる」. Checklist: (1) **tự mình giải thích** cho người khác, (2) **không dùng thuật ngữ**, (3) mục đích: kiểm tra mình hiểu tới đâu. Phương án 4 ✔✔✔ — người nghe là gia đình, không nhất thiết là trẻ con; cái cốt lõi là cách giải thích.\n- (1) Ngược lại: thêm thật nhiều thuật ngữ.\n- (2) Bẫy \"giống từ\" (子ども): hỏi trẻ con, không phải giải thích cho ai.\n- (3) Chép nguyên văn: không có bước giải thích bằng lời của mình."
+    },
+    {
+      "id": "d10-p4",
+      "kind": "passage",
+      "pass": "p5",
+      "q": "[[u1:{思|おも}いがけない{出来事|できごと}を{受|う}け{止|と}めるための{場所|ばしょ}]]を{生|い}かした{例|れい}として、{最|もっと}も{適当|てきとう}なものはどれか。",
+      "options": [
+        "{毎週|まいしゅう}{土曜日|どようび}の{午後|ごご}はジムに{通|かよ}うと{決|き}めて、{手帳|てちょう}に書いておく。",
+        "{空|あ}けておいた{日曜日|にちようび}に、{急|きゅう}に{訪|たず}ねてきた{古|ふる}い{友人|ゆうじん}とゆっくり話をした。",
+        "{予定|よてい}のない日は、家で{一日中|いちにちじゅう}{寝|ね}て{過|す}ごすことにしている。",
+        "急な{仕事|しごと}が{入|はい}ったので、友人との{約束|やくそく}を{断|ことわ}った。"
+      ],
+      "answer": 1,
+      "vi": "Hỏi: Ví dụ phù hợp nhất cho việc tận dụng \"①chỗ trống để đón nhận những chuyện bất ngờ\" là gì? → Đáp án: Vào ngày Chủ nhật đã để trống, thong thả trò chuyện với người bạn cũ bất chợt ghé thăm.",
+      "why": "Checklist: (1) thời gian đã **để trống từ trước** (「あらかじめ{空|あ}けておいた時間」), (2) có **chuyện bất ngờ** xảy ra, (3) nhờ chỗ trống mà **đón nhận được**. Mẫu trong bài: chăm người nhà ốm, bỗng thích triển lãm thì ghé xem. Phương án 2 ✔✔✔.\n- (1) Lịch cố định đã quyết trước → không phải chỗ trống, không có bất ngờ.\n- (3) Bẫy: đây là hình ảnh 「何も{生|う}み{出|だ}さない{無駄|むだ}な時間」 mà tác giả muốn phản bác; không có chuyện bất ngờ nào được đón nhận. Hơn nữa tác giả 「当日まで決めない」, còn người này đã quyết là ngủ.\n- (4) Ngược lại: không có chỗ trống nên phải từ chối — giống tình trạng cũ của tác giả."
+    },
+    {
+      "id": "d10-p5",
+      "kind": "passage",
+      "pass": "p5",
+      "q": "{筆者|ひっしゃ}が、かつての{自分|じぶん}の{生活|せいかつ}の{問題点|もんだいてん}を{示|しめ}すために{挙|あ}げている{例|れい}はどれか。",
+      "options": [
+        "{手帳|てちょう}を家に{忘|わす}れて、{予定|よてい}がわからなくなったこと",
+        "予定を入れすぎて、{体調|たいちょう}を{崩|くず}してしまったこと",
+        "{友人|ゆうじん}の{急|きゅう}な{相談|そうだん}に、すぐには{応|おう}じられなかったこと",
+        "{興味|きょうみ}のある{展示会|てんじかい}に{行|い}く時間がなかったこと"
+      ],
+      "answer": 2,
+      "vi": "Hỏi: Ví dụ mà tác giả đưa ra để chỉ vấn đề của lối sống trước đây của mình là gì? → Đáp án: Việc không thể đáp ứng ngay khi bạn bè có chuyện gấp cần tâm sự.",
+      "why": "Đoạn 1: 「そうした生活を{続|つづ}けているうちに、友人から急な相談を{受|う}けても『{来週|らいしゅう}なら』としか{答|こた}えられない自分に{気|き}がついた」 → 「来週なら」 = không giúp ngay được → phương án 3 (言い換え).\n- (1) Quên sổ tay: không có trong bài.\n- (2) 「体調を崩した」 có trong bài nhưng là **người nhà** bị ốm, và thuộc ví dụ **tích cực** ở đoạn 2 — bẫy \"giống từ\".\n- (4) Triển lãm cũng là ví dụ ở đoạn 2 cho lợi ích của chỗ trống, không phải vấn đề tác giả gặp trong quá khứ."
+    }
+  ],
+  "test": [
+    {
+      "id": "d10-t1",
+      "kind": "passage",
+      "pass": "p6",
+      "q": "[[u1:こうした{問|と}い]]の{例|れい}として、{最|もっと}も{適当|てきとう}なものはどれか。",
+      "options": [
+        "「{先輩|せんぱい}、この{書類|しょるい}の{書|か}き{方|かた}を{教|おし}えていただけますか」",
+        "「この{会議|かいぎ}の{資料|しりょう}、{毎回|まいかい}{紙|かみ}で{配|くば}っていますが、データで{送|おく}るのではいけないんですか」",
+        "「この{仕事|しごと}が{終|お}わったら、{帰|かえ}ってもいいですか」",
+        "「どうして{私|わたし}の{企画|きかく}は{採用|さいよう}されなかったんですか」"
+      ],
+      "answer": 1,
+      "vi": "Hỏi: Ví dụ phù hợp nhất cho \"①những câu hỏi như vậy\" là gì? → Đáp án: \"Tài liệu cuộc họp này lần nào cũng phát bằng giấy, gửi bằng file không được sao ạ?\"",
+      "why": "「こうした問い」 chỉ về câu trước: câu hỏi ngây ngô của người mới 「これは何のためにやっているんですか」. Câu sau cho thêm điều kiện: nó giúp nhìn ra 「{慣|な}れた人の目には{映|うつ}らなくなった{無駄|むだ}」. Checklist: (1) đặt nghi vấn về **mục đích / sự cần thiết** của một cách làm, (2) cách làm đó là **thói quen lâu nay** của nơi làm việc. Phương án 2 ✔✔ (cùng cấu trúc với ví dụ đóng dấu ba lần, báo cáo không ai đọc).\n- (1) Hỏi **cách làm**, không nghi vấn **lý do** của nó.\n- (3) Câu hỏi xin phép, không liên quan.\n- (4) Bẫy: có 「どうして」 nhưng là thắc mắc về chuyện của bản thân, không phải về thói quen thừa của tổ chức."
+    },
+    {
+      "id": "d10-t2",
+      "kind": "passage",
+      "pass": "p6",
+      "q": "{筆者|ひっしゃ}の{考|かんが}えに{合|あ}う{行動|こうどう}の{例|れい}として、{最|もっと}も{適当|てきとう}なものはどれか。",
+      "options": [
+        "{新人|しんじん}に{疑問|ぎもん}を言われたが、{昔|むかし}から{続|つづ}いているやり{方|かた}なので、そのまま続けるように{指示|しじ}した。",
+        "新人の{意見|いけん}はいつも{正|ただ}しいので、{指摘|してき}された{手順|てじゅん}はすぐにすべてやめた。",
+        "新人に手順の{目的|もくてき}を聞かれたので、その手順が{必要|ひつよう}な{理由|りゆう}を{自分|じぶん}で{調|しら}べ{直|なお}し、{説明|せつめい}できなかった{部分|ぶぶん}は{見直|みなお}した。",
+        "新人が疑問を{持|も}たないように、{最初|さいしょ}に{仕事|しごと}のやり方を{細|こま}かく説明しておいた。"
+      ],
+      "answer": 2,
+      "vi": "Hỏi: Ví dụ hành động phù hợp nhất với suy nghĩ của tác giả là gì? → Đáp án: Được người mới hỏi mục đích của một quy trình, tự mình tìm hiểu lại lý do cần quy trình đó và xem xét lại những phần không giải thích được.",
+      "why": "Chủ trương ở câu cuối (「**大切なのは**〜」): người bị hỏi (1) **không gạt đi** bằng 「昔からこうだから」, (2) **kiểm tra xem mình có giải thích được lý do không**. Kèm giới hạn: 「新人の疑問がいつも正しいとは{限|かぎ}らない」. Phương án 3 ✔✔, và \"xem lại phần không giải thích được\" hợp với ý: phần nào có lý do thì giữ.\n- (1) Ví dụ của vế bị phê phán: chính là 「昔からこうだから」で{片|かた}づける.\n- (2) Đi quá xa: trái với 「いつも正しいとは限らない」; bỏ hết có thể bỏ cả quy trình có lý do từ thất bại cũ.\n- (4) Ngăn người mới đặt câu hỏi → triệt tiêu chính thứ tác giả cho là 「{貴重|きちょう}」."
+    },
+    {
+      "id": "d10-t3",
+      "kind": "passage",
+      "pass": "p7",
+      "q": "[[u1:{自分|じぶん}のことをよく見ていてくれたと{感|かん}じられる{贈|おく}り{物|もの}]]の{例|れい}として、{最|もっと}も{適当|てきとう}なものはどれか。",
+      "options": [
+        "{有名|ゆうめい}な店の{高級|こうきゅう}なお{菓子|かし}を、{取引先|とりひきさき}に贈る。",
+        "{今年|ことし}いちばん{流行|りゅうこう}している{品物|しなもの}を、{友人|ゆうじん}の{誕生日|たんじょうび}に贈る。",
+        "何を贈ればいいかわからないので、{本人|ほんにん}に{欲|ほ}しいものを聞いて、それを贈る。",
+        "{最近|さいきん}よく{眠|ねむ}れないと話していた母に、{肌|はだ}ざわりのいい{枕|まくら}カバーを贈る。"
+      ],
+      "answer": 3,
+      "vi": "Hỏi: Ví dụ phù hợp nhất cho \"①món quà khiến người nhận cảm thấy người tặng đã để ý đến mình\" là gì? → Đáp án: Tặng mẹ — người gần đây hay kể là khó ngủ — một chiếc vỏ gối mềm mại dễ chịu.",
+      "why": "Mẫu trong bài: đồng nghiệp **nhận ra** tác giả mệt (「{顔色|かおいろ}に{気|き}づいてくれた」) → chọn món hợp với tình trạng đó (muối tắm). Checklist: (1) người tặng **tự quan sát** được tình trạng / nhu cầu của người nhận, (2) chọn quà **hợp với điều đó**, (3) giá trị không nằm ở giá tiền / xu hướng. Phương án 4 ✔✔✔.\n- (1) Chọn theo **giá và danh tiếng** — đúng thứ tác giả nói 「つい値段や流行を気にしてしまう」.\n- (2) Chọn theo **xu hướng** → cùng vế bị phê phán.\n- (3) Bẫy \"thoả một nửa\": có nghĩ cho người nhận, nhưng không phải tự **để ý thấy**; người nhận sẽ không có cảm giác 「よく見ていてくれた」."
+    },
+    {
+      "id": "d10-t4",
+      "kind": "passage",
+      "pass": "p7",
+      "q": "{筆者|ひっしゃ}が{挙|あ}げている{同僚|どうりょう}の{入浴剤|にゅうよくざい}の話は、どのようなことの{例|れい}か。",
+      "options": [
+        "{安|やす}い{品物|しなもの}でも、{相手|あいて}の{様子|ようす}に{気|き}づいて{選|えら}んだものは{心|こころ}に{残|のこ}るということ",
+        "{疲|つか}れているときには、入浴剤がいちばんよい{贈|おく}り{物|もの}だということ",
+        "同僚に贈り物をするときは、{値段|ねだん}を{数百円|すうひゃくえん}にすべきだということ",
+        "{仕事|しごと}で疲れているときは、同僚に{助|たす}けを{求|もと}めるべきだということ"
+      ],
+      "answer": 0,
+      "vi": "Hỏi: Câu chuyện gói muối tắm của người đồng nghiệp mà tác giả kể là ví dụ cho điều gì? → Đáp án: Dù là món đồ rẻ, nếu được chọn nhờ để ý tới tình trạng của người kia thì vẫn đọng lại trong lòng.",
+      "why": "Câu chuyện nằm giữa ý khái quát phía trước (quà khiến người nhận thấy 「よく見ていてくれた」 còn đọng lại hơn đồ đắt) và câu đúc kết phía sau (「贈り物の{価値|かち}は…相手を思って選んだ時間の中にある」). Chi tiết then chốt: 「値段にすれば数百円」 + 「私の{顔色|かおいろ}に気づいてくれた」 → phương án 1.\n- (2) Khái quát sai hướng: bài không nói muối tắm là món quà tốt nhất — đó chỉ là chi tiết bề mặt.\n- (3) Biến chi tiết giá tiền thành quy tắc 「すべきだ」 — bài không nói.\n- (4) Không liên quan: đồng nghiệp tự nhận ra, tác giả không hề nhờ giúp."
+    }
+  ]
+}

@@ -1,0 +1,2151 @@
+{
+  "id": "g16",
+  "track": "goi",
+  "intro": "Bài này là **từ vựng báo chí kinh tế** — loại từ bạn sẽ gặp liên tục trong tin tức, bài đọc 読解 và câu hỏi 文脈規定. Chia làm hai mảng:\n\n- **Kinh tế (経済)**: tình hình chung (景気・不景気・危機), giá cả (物価・価格・値上がり), doanh nghiệp (経営・取引・赤字／黒字), tiền của cá nhân (収入・預金・貯蓄・ローン・利子) và nghĩa vụ với nhà nước (納税・税を納める・負担).\n- **Sản xuất (産業)**: công nghiệp (輸送・供給・製造・部品・資源・需要) và nông nghiệp (耕す・種をまく・作物・出荷).\n\nCách học hiệu quả nhất là học theo **cụm động từ đi kèm** chứ không học từ lẻ: 景気が**回復する**, コストを**削減する**, 物価が**上昇する**, 黒字に**転じる**, 義務を**負う**, 税金を**納める**, 負担を**強いる**, 需要が**高まる**. Đề N2 rất hay hỏi đúng cặp danh từ – động từ này.\n\nĐiểm dễ mất điểm: phân biệt **預金・貯金・貯蓄**, **物価・価格・料金**, **値上がり (tự) ↔ 値上げ (tha)**, **製造・製作**, và cặp đối **需要 ↔ 供給**, **赤字 ↔ 黒字**, **収入 ↔ 支出**.",
+  "sections": [
+    {
+      "title": "経済",
+      "title_vi": "Kinh tế",
+      "words": [
+        {
+          "id": "g16-w1",
+          "w": "経済危機",
+          "r": "けいざいきき",
+          "hv": "KINH TẾ NGUY CƠ",
+          "pos": "名",
+          "vi": "khủng hoảng kinh tế",
+          "key": true,
+          "ex": {
+            "ja": "{世界的|せかいてき}な{経済危機|けいざいきき}の{影響|えいきょう}で、{多|おお}くの{中小企業|ちゅうしょうきぎょう}が{倒産|とうさん}した。",
+            "vi": "Do ảnh hưởng của cuộc khủng hoảng kinh tế toàn cầu, nhiều doanh nghiệp vừa và nhỏ đã phá sản."
+          },
+          "col": [
+            "経済危機が起こる",
+            "経済危機に陥る",
+            "経済危機を乗り越える"
+          ],
+          "note": "危機 (きき) = tình thế nguy hiểm, bước ngoặt xấu. Đừng đọc nhầm thành きけん (危険)."
+        },
+        {
+          "id": "g16-w2",
+          "w": "金融危機",
+          "r": "きんゆうきき",
+          "hv": "KIM DUNG NGUY CƠ",
+          "pos": "名",
+          "vi": "khủng hoảng tài chính (ngân hàng, tín dụng)",
+          "key": true,
+          "ex": {
+            "ja": "{大手|おおて}{銀行|ぎんこう}の{破綻|はたん}をきっかけに{金融危機|きんゆうきき}が{広|ひろ}がった。",
+            "vi": "Cuộc khủng hoảng tài chính lan rộng bắt nguồn từ sự sụp đổ của một ngân hàng lớn."
+          },
+          "col": [
+            "金融機関",
+            "金融政策",
+            "金融市場"
+          ],
+          "note": "金融 = sự lưu thông tiền vốn (cho vay, gửi tiền, ngân hàng). 金融機関 = tổ chức tài chính (ngân hàng, công ty bảo hiểm…)."
+        },
+        {
+          "id": "g16-w3",
+          "w": "不景気",
+          "r": "ふけいき",
+          "hv": "BẤT CẢNH KHÍ",
+          "pos": "名・な形",
+          "vi": "suy thoái, kinh tế ảm đạm, làm ăn khó khăn",
+          "key": true,
+          "ex": {
+            "ja": "{不景気|ふけいき}が{続|つづ}いて、ボーナスが{出|で}ない{会社|かいしゃ}も{多|おお}い。",
+            "vi": "Kinh tế suy thoái kéo dài nên có nhiều công ty không phát thưởng."
+          },
+          "col": [
+            "不景気が続く",
+            "不景気な話"
+          ],
+          "rel": "≒ 不況 ↔ 好景気",
+          "note": "不況 (ふきょう) là từ báo chí cứng hơn; 不景気 dùng cả trong hội thoại. 「不景気な顔」 = mặt ủ rũ (nghĩa bóng)."
+        },
+        {
+          "id": "g16-w4",
+          "w": "景気",
+          "r": "けいき",
+          "hv": "CẢNH KHÍ",
+          "pos": "名",
+          "vi": "tình hình kinh tế, tình hình làm ăn",
+          "key": true,
+          "ex": {
+            "ja": "{景気|けいき}が{良|よ}くなれば、{給料|きゅうりょう}も{上|あ}がるはずだ。",
+            "vi": "Nếu kinh tế khởi sắc thì lương cũng sẽ tăng."
+          },
+          "col": [
+            "景気がいい／悪い",
+            "景気が回復する",
+            "景気対策",
+            "景気が冷え込む"
+          ],
+          "note": "Nghĩa đen là \"không khí làm ăn\". Không dùng cho một cá nhân: nói 「店の景気」「日本の景気」, không nói 「私の景気」."
+        },
+        {
+          "id": "g16-w5",
+          "w": "回復",
+          "r": "かいふく",
+          "hv": "HỒI PHỤC",
+          "pos": "名・自他動",
+          "vi": "hồi phục, khôi phục (trở lại trạng thái tốt như cũ)",
+          "key": true,
+          "ex": {
+            "ja": "{観光客|かんこうきゃく}が{戻|もど}り、{地域|ちいき}の{景気|けいき}は{少|すこ}しずつ{回復|かいふく}している。",
+            "vi": "Du khách đã quay lại, kinh tế địa phương đang dần hồi phục."
+          },
+          "col": [
+            "景気回復",
+            "体力が回復する",
+            "信頼を回復する",
+            "天気が回復する"
+          ],
+          "rel": "≒ 元に戻る・持ち直す ↔ 悪化",
+          "note": "Hình ảnh: **đi xuống rồi quay về chỗ cũ**. Khác 向上 (tốt lên hơn trước) và 上昇 (con số đi lên)."
+        },
+        {
+          "id": "g16-w6",
+          "w": "コスト",
+          "r": "こすと",
+          "hv": "",
+          "pos": "名",
+          "vi": "chi phí",
+          "key": true,
+          "ex": {
+            "ja": "{材料|ざいりょう}を{見直|みなお}して、{製品|せいひん}のコストを{下|さ}げた。",
+            "vi": "Xem xét lại nguyên liệu để hạ chi phí sản phẩm."
+          },
+          "col": [
+            "コストがかかる",
+            "コストを削減する",
+            "コストを抑える",
+            "低コスト"
+          ],
+          "rel": "≒ 費用"
+        },
+        {
+          "id": "g16-w7",
+          "w": "削減",
+          "r": "さくげん",
+          "hv": "TƯỚC GIẢM",
+          "pos": "名・他動",
+          "vi": "cắt giảm (số lượng, chi phí, nhân sự)",
+          "key": true,
+          "ex": {
+            "ja": "{電気代|でんきだい}を{削減|さくげん}するため、{使|つか}っていない{部屋|へや}の{照明|しょうめい}は{消|け}すことにした。",
+            "vi": "Để cắt giảm tiền điện, chúng tôi quyết định tắt đèn ở những phòng không dùng."
+          },
+          "col": [
+            "コスト削減",
+            "人員削減",
+            "予算を削減する",
+            "CO2の削減目標"
+          ],
+          "rel": "≒ 減らす ↔ 増加・増額",
+          "note": "削 = gọt (削る けずる). Hình dung **gọt bớt** phần thừa. Đối tượng là thứ đếm/đo được và **chủ động** giảm, không dùng cho việc tự giảm (人口が減少する, không nói 人口が削減する)."
+        },
+        {
+          "id": "g16-w8",
+          "w": "物価",
+          "r": "ぶっか",
+          "hv": "VẬT GIÁ",
+          "pos": "名",
+          "vi": "vật giá, mặt bằng giá cả nói chung",
+          "key": true,
+          "ex": {
+            "ja": "{東京|とうきょう}は{物価|ぶっか}が{高|たか}いので、{生活費|せいかつひ}がかかる。",
+            "vi": "Tokyo vật giá đắt đỏ nên tốn nhiều chi phí sinh hoạt."
+          },
+          "col": [
+            "物価が上がる／上昇する",
+            "物価が高い／安い",
+            "物価高"
+          ],
+          "note": "Đọc ぶっか (có っ), không phải ぶつか. Chỉ **mức giá chung** của cả xã hội, không dùng cho một món hàng: ✗ このパンの物価."
+        },
+        {
+          "id": "g16-w9",
+          "w": "価格",
+          "r": "かかく",
+          "hv": "GIÁ CÁCH",
+          "pos": "名",
+          "vi": "giá (của một mặt hàng, sản phẩm cụ thể)",
+          "key": true,
+          "ex": {
+            "ja": "{新|あたら}しいスマートフォンの{販売|はんばい}{価格|かかく}が{発表|はっぴょう}された。",
+            "vi": "Giá bán của mẫu điện thoại mới đã được công bố."
+          },
+          "col": [
+            "価格が上昇する",
+            "販売価格",
+            "価格競争",
+            "価格を設定する"
+          ],
+          "rel": "≒ 値段 (văn nói)"
+        },
+        {
+          "id": "g16-w10",
+          "w": "上昇",
+          "r": "じょうしょう",
+          "hv": "THƯỢNG THĂNG",
+          "pos": "名・自動",
+          "vi": "tăng lên, đi lên (giá, nhiệt độ, tỉ lệ…)",
+          "key": true,
+          "ex": {
+            "ja": "{今年|ことし}の{夏|なつ}は{気温|きおん}が{上昇|じょうしょう}し、{各地|かくち}で{三十五度|さんじゅうごど}を{超|こ}えた。",
+            "vi": "Hè năm nay nhiệt độ tăng, nhiều nơi vượt quá 35 độ."
+          },
+          "col": [
+            "物価が上昇する",
+            "上昇傾向",
+            "急上昇"
+          ],
+          "rel": "↔ 下降・低下",
+          "note": "Dùng cho **con số / mức độ** đi lên. Kỹ năng, chất lượng tốt lên → 向上, không dùng 上昇."
+        },
+        {
+          "id": "g16-w11",
+          "w": "値上がり",
+          "r": "ねあがり",
+          "hv": "TRỊ THƯỢNG",
+          "pos": "名・自動",
+          "vi": "(giá) tăng lên",
+          "key": true,
+          "ex": {
+            "ja": "{天候|てんこう}{不順|ふじゅん}で{野菜|やさい}が{値上|ねあ}がりしている。",
+            "vi": "Do thời tiết thất thường, rau củ đang tăng giá."
+          },
+          "col": [
+            "値上がりする",
+            "土地の値上がり"
+          ],
+          "rel": "↔ 値下がり",
+          "note": "**Tự động từ**: giá tự tăng do thị trường. Người bán chủ động tăng giá → 値上げ (xem phần 語形成)."
+        },
+        {
+          "id": "g16-w12",
+          "w": "値下がり",
+          "r": "ねさがり",
+          "hv": "TRỊ HẠ",
+          "pos": "名・自動",
+          "vi": "(giá) giảm xuống",
+          "key": true,
+          "ex": {
+            "ja": "{原油|げんゆ}が{値下|ねさ}がりして、ガソリン{代|だい}が{少|すこ}し{安|やす}くなった。",
+            "vi": "Dầu thô giảm giá nên tiền xăng rẻ đi một chút."
+          },
+          "rel": "↔ 値上がり"
+        },
+        {
+          "id": "g16-w13",
+          "w": "経営",
+          "r": "けいえい",
+          "hv": "KINH DOANH",
+          "pos": "名・他動",
+          "vi": "kinh doanh, điều hành (công ty, cửa hàng)",
+          "ex": {
+            "ja": "{祖父|そふ}は{駅前|えきまえ}で{小|ちい}さな{旅館|りょかん}を{経営|けいえい}している。",
+            "vi": "Ông tôi đang kinh doanh một nhà trọ nhỏ trước nhà ga."
+          },
+          "col": [
+            "店を経営する",
+            "経営者",
+            "経営が苦しい",
+            "経営方針"
+          ],
+          "note": "営 đọc えい (営業 えいぎょう). 経営 = làm chủ, điều hành cả doanh nghiệp; 営業 = hoạt động bán hàng / mở cửa kinh doanh."
+        },
+        {
+          "id": "g16-w14",
+          "w": "転じる",
+          "r": "てんじる",
+          "hv": "CHUYỂN",
+          "pos": "自他動",
+          "vi": "chuyển sang, đổi sang (trạng thái, hướng khác)",
+          "key": true,
+          "ex": {
+            "ja": "{輸出|ゆしゅつ}が{伸|の}びて、{貿易|ぼうえき}{収支|しゅうし}は{黒字|くろじ}に{転|てん}じた。",
+            "vi": "Xuất khẩu tăng nên cán cân thương mại đã chuyển sang thặng dư."
+          },
+          "col": [
+            "黒字に転じる",
+            "増加に転じる",
+            "攻勢に転じる",
+            "話題を転じる"
+          ],
+          "rel": "≒ 変わる",
+          "note": "Mẫu cố định: **A から B に転じる**. Văn viết, hay gặp trong tin kinh tế. Dạng cổ hơn: 転ずる."
+        },
+        {
+          "id": "g16-w15",
+          "w": "赤字",
+          "r": "あかじ",
+          "hv": "XÍCH TỰ",
+          "pos": "名",
+          "vi": "thâm hụt, lỗ",
+          "key": true,
+          "ex": {
+            "ja": "{客|きゃく}が{減|へ}って、{店|みせ}は三か{月|げつ}{連続|れんぞく}で{赤字|あかじ}だ。",
+            "vi": "Khách giảm, cửa hàng lỗ ba tháng liền."
+          },
+          "col": [
+            "赤字になる",
+            "赤字を出す",
+            "赤字経営",
+            "赤字が続く"
+          ],
+          "rel": "↔ 黒字",
+          "note": "Mẹo: trong sổ sách xưa, số âm được ghi bằng **mực đỏ** (赤) → lỗ."
+        },
+        {
+          "id": "g16-w16",
+          "w": "黒字",
+          "r": "くろじ",
+          "hv": "HẮC TỰ",
+          "pos": "名",
+          "vi": "có lãi, thặng dư",
+          "key": true,
+          "ex": {
+            "ja": "{新|あたら}しい{社長|しゃちょう}のもとで、{会社|かいしゃ}は{五年|ごねん}ぶりに{黒字|くろじ}になった。",
+            "vi": "Dưới thời giám đốc mới, công ty có lãi trở lại sau 5 năm."
+          },
+          "col": [
+            "黒字になる",
+            "黒字に転じる",
+            "黒字化"
+          ],
+          "rel": "↔ 赤字"
+        },
+        {
+          "id": "g16-w17",
+          "w": "企業",
+          "r": "きぎょう",
+          "hv": "XÍ NGHIỆP",
+          "pos": "名",
+          "vi": "doanh nghiệp, công ty",
+          "ex": {
+            "ja": "{最近|さいきん}は{外国|がいこく}{企業|きぎょう}で{働|はたら}きたいという{学生|がくせい}が{増|ふ}えている。",
+            "vi": "Gần đây số sinh viên muốn làm việc cho doanh nghiệp nước ngoài đang tăng."
+          },
+          "col": [
+            "大企業",
+            "中小企業",
+            "外国企業",
+            "企業家"
+          ],
+          "note": "企業家 (きぎょうか) = doanh nhân lập nghiệp. 会社 là từ thường ngày; 企業 dùng trong văn bản, tin tức."
+        },
+        {
+          "id": "g16-w18",
+          "w": "取引",
+          "r": "とりひき",
+          "hv": "THỦ DẪN",
+          "pos": "名・自動",
+          "vi": "giao dịch, làm ăn mua bán",
+          "key": true,
+          "ex": {
+            "ja": "{当社|とうしゃ}は{二十年|にじゅうねん}{以上|いじょう}、あの{商社|しょうしゃ}と{取引|とりひき}がある。",
+            "vi": "Công ty chúng tôi đã có quan hệ giao dịch với công ty thương mại đó hơn 20 năm."
+          },
+          "col": [
+            "〜と取引する",
+            "取引がある",
+            "株の取引",
+            "取引を中止する"
+          ],
+          "note": "Viết không có り ở giữa: 取引 (nhưng đọc とりひき). Nghĩa bóng: thoả thuận đổi chác (裏取引 = giao dịch ngầm)."
+        },
+        {
+          "id": "g16-w19",
+          "w": "取引先",
+          "r": "とりひきさき",
+          "hv": "THỦ DẪN TIÊN",
+          "pos": "名",
+          "vi": "đối tác giao dịch, khách hàng (doanh nghiệp)",
+          "key": true,
+          "ex": {
+            "ja": "{年末|ねんまつ}は{取引先|とりひきさき}への{挨拶|あいさつ}{回|まわ}りで{忙|いそが}しい。",
+            "vi": "Cuối năm bận rộn đi chào hỏi các đối tác."
+          },
+          "rel": "≒ 得意先"
+        },
+        {
+          "id": "g16-w20",
+          "w": "株式",
+          "r": "かぶしき",
+          "hv": "CHU THỨC",
+          "pos": "名",
+          "vi": "cổ phiếu, cổ phần",
+          "key": true,
+          "ex": {
+            "ja": "{退職金|たいしょくきん}の{一部|いちぶ}を{株式|かぶしき}で{運用|うんよう}している。",
+            "vi": "Tôi đầu tư một phần tiền trợ cấp nghỉ việc vào cổ phiếu."
+          },
+          "col": [
+            "株式会社",
+            "株式市場",
+            "株式に投資する"
+          ],
+          "rel": "≒ 株 (かぶ)"
+        },
+        {
+          "id": "g16-w21",
+          "w": "投資",
+          "r": "とうし",
+          "hv": "ĐẦU TƯ",
+          "pos": "名・自他動",
+          "vi": "đầu tư",
+          "key": true,
+          "ex": {
+            "ja": "{自分|じぶん}の{将来|しょうらい}のために、{語学|ごがく}の{勉強|べんきょう}に{投資|とうし}するつもりだ。",
+            "vi": "Tôi định đầu tư vào việc học ngoại ngữ cho tương lai của bản thân."
+          },
+          "col": [
+            "〜に投資する",
+            "投資家",
+            "設備投資"
+          ],
+          "note": "Trợ từ: **N に投資する** (đầu tư vào N)."
+        },
+        {
+          "id": "g16-w22",
+          "w": "収入",
+          "r": "しゅうにゅう",
+          "hv": "THU NHẬP",
+          "pos": "名",
+          "vi": "thu nhập",
+          "key": true,
+          "ex": {
+            "ja": "{副業|ふくぎょう}を{始|はじ}めて、{毎月|まいつき}の{収入|しゅうにゅう}が{増|ふ}えた。",
+            "vi": "Bắt đầu làm thêm nghề phụ nên thu nhập hằng tháng tăng lên."
+          },
+          "col": [
+            "収入が増える／減る",
+            "収入源",
+            "年収"
+          ],
+          "rel": "↔ 支出"
+        },
+        {
+          "id": "g16-w23",
+          "w": "給料",
+          "r": "きゅうりょう",
+          "hv": "CẤP LIỆU",
+          "pos": "名",
+          "vi": "tiền lương",
+          "ex": {
+            "ja": "{給料|きゅうりょう}{日|び}の{前|まえ}はいつもお{金|かね}が{足|た}りない。",
+            "vi": "Trước ngày lĩnh lương lúc nào cũng thiếu tiền."
+          },
+          "rel": "≒ 給与 (văn viết)",
+          "key": true
+        },
+        {
+          "id": "g16-w24",
+          "w": "料金",
+          "r": "りょうきん",
+          "hv": "LIỆU KIM",
+          "pos": "名",
+          "vi": "phí, cước (trả cho dịch vụ, việc sử dụng)",
+          "ex": {
+            "ja": "{来月|らいげつ}から{電気|でんき}{料金|りょうきん}が{値上|ねあ}げされる。",
+            "vi": "Từ tháng sau giá điện sẽ tăng."
+          },
+          "col": [
+            "電気料金",
+            "料金を支払う",
+            "入場料金"
+          ],
+          "key": true
+        },
+        {
+          "id": "g16-w25",
+          "w": "支払う",
+          "r": "しはらう",
+          "hv": "CHI PHẤT",
+          "pos": "他動",
+          "vi": "chi trả, thanh toán",
+          "key": true,
+          "ex": {
+            "ja": "{家賃|やちん}は{毎月|まいつき}{二十五日|にじゅうごにち}までに{支払|しはら}ってください。",
+            "vi": "Tiền nhà xin hãy thanh toán trước ngày 25 hằng tháng."
+          },
+          "rel": "≒ 払う"
+        },
+        {
+          "id": "g16-w26",
+          "w": "支払い",
+          "r": "しはらい",
+          "hv": "CHI PHẤT",
+          "pos": "名",
+          "vi": "sự thanh toán, khoản phải trả",
+          "key": true,
+          "ex": {
+            "ja": "お{支払|しはら}いは{現金|げんきん}とカードのどちらになさいますか。",
+            "vi": "Quý khách thanh toán bằng tiền mặt hay thẻ ạ?"
+          },
+          "col": [
+            "支払い方法",
+            "支払いを済ませる",
+            "支払い期限"
+          ],
+          "note": "Danh từ viết 支払い, nhưng trong văn bản hành chính hay bỏ い: 支払期限."
+        },
+        {
+          "id": "g16-w27",
+          "w": "預金",
+          "r": "よきん",
+          "hv": "DỰ KIM",
+          "pos": "名・他動",
+          "vi": "tiền gửi (ngân hàng); gửi tiền vào ngân hàng",
+          "key": true,
+          "ex": {
+            "ja": "ボーナスの{半分|はんぶん}を{銀行|ぎんこう}に{預金|よきん}した。",
+            "vi": "Tôi gửi một nửa tiền thưởng vào ngân hàng."
+          },
+          "col": [
+            "銀行に預金する",
+            "預金口座",
+            "預金を下ろす"
+          ],
+          "note": "預 = 預ける (gửi giữ). Xem phần focus 預金・貯金・貯蓄."
+        },
+        {
+          "id": "g16-w28",
+          "w": "貯金",
+          "r": "ちょきん",
+          "hv": "TRỮ KIM",
+          "pos": "名・自動",
+          "vi": "tiền để dành; để dành tiền",
+          "key": true,
+          "ex": {
+            "ja": "{旅行|りょこう}のために、{毎日|まいにち}{少|すこ}しずつ{貯金|ちょきん}している。",
+            "vi": "Tôi để dành từng chút mỗi ngày để đi du lịch."
+          },
+          "col": [
+            "貯金箱",
+            "郵便局に貯金する",
+            "貯金がある"
+          ]
+        },
+        {
+          "id": "g16-w29",
+          "w": "貯蓄",
+          "r": "ちょちく",
+          "hv": "TRỮ SÚC",
+          "pos": "名・他動",
+          "vi": "tích lũy, tiết kiệm (tài sản, nói chung)",
+          "key": true,
+          "ex": {
+            "ja": "{日本人|にほんじん}は{昔|むかし}から{貯蓄|ちょちく}を{好|この}む{傾向|けいこう}があると{言|い}われる。",
+            "vi": "Người ta nói người Nhật từ xưa đã có xu hướng thích tích lũy tiết kiệm."
+          },
+          "col": [
+            "貯蓄率",
+            "貯蓄に回す",
+            "老後の貯蓄"
+          ],
+          "note": "Từ cứng, dùng trong kinh tế học, báo chí."
+        },
+        {
+          "id": "g16-w30",
+          "w": "口座",
+          "r": "こうざ",
+          "hv": "KHẨU TỌA",
+          "pos": "名",
+          "vi": "tài khoản (ngân hàng, chứng khoán)",
+          "key": true,
+          "ex": {
+            "ja": "アルバイトの{給料|きゅうりょう}は{銀行|ぎんこう}{口座|こうざ}に{振|ふ}り{込|こ}まれる。",
+            "vi": "Lương làm thêm được chuyển khoản vào tài khoản ngân hàng."
+          },
+          "col": [
+            "口座を開く／作る",
+            "銀行口座",
+            "口座番号",
+            "口座振替"
+          ],
+          "note": "Đọc こうざ. Đừng nhầm với 講座 (こうざ, khoá học) — cùng âm khác chữ."
+        },
+        {
+          "id": "g16-w31",
+          "w": "現金",
+          "r": "げんきん",
+          "hv": "HIỆN KIM",
+          "pos": "名",
+          "vi": "tiền mặt",
+          "ex": {
+            "ja": "この{店|みせ}は{現金|げんきん}しか{使|つか}えないので{注意|ちゅうい}してください。",
+            "vi": "Cửa hàng này chỉ nhận tiền mặt, xin lưu ý."
+          },
+          "note": "「現金な人」 = người thực dụng, thấy lợi là thay đổi thái độ (nghĩa bóng).",
+          "key": true
+        },
+        {
+          "id": "g16-w32",
+          "w": "引き出す",
+          "r": "ひきだす",
+          "hv": "DẪN XUẤT",
+          "pos": "他動",
+          "vi": "rút (tiền); kéo ra; khơi gợi ra",
+          "key": true,
+          "senses": [
+            {
+              "vi": "rút tiền (từ tài khoản)",
+              "ex": {
+                "ja": "コンビニのATMで{一万円|いちまんえん}{引|ひ}き{出|だ}した。",
+                "vi": "Tôi rút 10.000 yên ở cây ATM trong cửa hàng tiện lợi."
+              }
+            },
+            {
+              "vi": "khơi gợi, phát huy (khả năng, câu trả lời)",
+              "ex": {
+                "ja": "{良|よ}いコーチは{選手|せんしゅ}の{力|ちから}を{最大限|さいだいげん}に{引|ひ}き{出|だ}す。",
+                "vi": "Huấn luyện viên giỏi khơi dậy tối đa sức mạnh của vận động viên."
+              }
+            }
+          ],
+          "rel": "≒ 下ろす (rút tiền) ↔ 預ける・預け入れる",
+          "note": "Danh từ: 引き出し = ngăn kéo; cũng là \"việc rút tiền\"."
+        },
+        {
+          "id": "g16-w33",
+          "w": "返済",
+          "r": "へんさい",
+          "hv": "PHẢN TẾ",
+          "pos": "名・他動",
+          "vi": "trả nợ, hoàn trả (tiền đã vay)",
+          "key": true,
+          "ex": {
+            "ja": "{奨学金|しょうがくきん}の{返済|へんさい}が{終|お}わるまで、あと{十年|じゅうねん}かかる。",
+            "vi": "Còn 10 năm nữa mới trả xong khoản vay học bổng."
+          },
+          "col": [
+            "借金を返済する",
+            "ローンの返済",
+            "返済期限"
+          ],
+          "note": "Chỉ dùng cho **tiền vay**. Trả sách → 返却; trả lời → 返信・返事; trả hàng → 返品."
+        },
+        {
+          "id": "g16-w34",
+          "w": "借金",
+          "r": "しゃっきん",
+          "hv": "TÁ KIM",
+          "pos": "名・自動",
+          "vi": "khoản nợ; vay tiền",
+          "key": true,
+          "ex": {
+            "ja": "{友人|ゆうじん}に{借金|しゃっきん}を{頼|たの}まれて{困|こま}っている。",
+            "vi": "Tôi đang khó xử vì bị bạn nhờ cho vay tiền."
+          },
+          "col": [
+            "借金をする",
+            "借金を返す／返済する",
+            "借金がある"
+          ],
+          "note": "Đọc しゃっきん (借 = しゃく + 金 → しゃっきん, biến âm)."
+        },
+        {
+          "id": "g16-w35",
+          "w": "ローン",
+          "r": "ろーん",
+          "hv": "",
+          "pos": "名",
+          "vi": "khoản vay (thường trả góp dài hạn)",
+          "key": true,
+          "ex": {
+            "ja": "{三十年|さんじゅうねん}のローンを{組|く}んで{家|いえ}を{買|か}った。",
+            "vi": "Tôi vay trả góp 30 năm để mua nhà."
+          },
+          "col": [
+            "住宅ローン",
+            "ローンを組む",
+            "ローンを返済する"
+          ],
+          "note": "Động từ đi kèm đặc trưng: ローンを**組む** (lập khoản vay)."
+        },
+        {
+          "id": "g16-w36",
+          "w": "定期預金",
+          "r": "ていきよきん",
+          "hv": "ĐỊNH KỲ DỰ KIM",
+          "pos": "名",
+          "vi": "tiền gửi có kỳ hạn",
+          "key": true,
+          "ex": {
+            "ja": "{定期預金|ていきよきん}は{満期|まんき}になるまで{自由|じゆう}に{引|ひ}き{出|だ}せない。",
+            "vi": "Tiền gửi có kỳ hạn không rút tự do được cho đến khi đáo hạn."
+          },
+          "rel": "↔ 普通預金"
+        },
+        {
+          "id": "g16-w37",
+          "w": "利子",
+          "r": "りし",
+          "hv": "LỢI TỬ",
+          "pos": "名",
+          "vi": "tiền lãi",
+          "key": true,
+          "ex": {
+            "ja": "{今|いま}は{銀行|ぎんこう}に{預|あず}けても、{利子|りし}はほとんど{付|つ}かない。",
+            "vi": "Bây giờ gửi ngân hàng cũng gần như không có lãi."
+          },
+          "col": [
+            "利子が付く",
+            "利子を払う",
+            "無利子"
+          ],
+          "rel": "≒ 利息"
+        },
+        {
+          "id": "g16-w38",
+          "w": "利息",
+          "r": "りそく",
+          "hv": "LỢI TỨC",
+          "pos": "名",
+          "vi": "tiền lãi",
+          "key": true,
+          "ex": {
+            "ja": "カードで{分割|ぶんかつ}{払|ばら}いにすると、{利息|りそく}がかかる。",
+            "vi": "Trả góp bằng thẻ thì sẽ mất tiền lãi."
+          },
+          "col": [
+            "利息が付く",
+            "利息がかかる"
+          ],
+          "rel": "≒ 利子",
+          "note": "利子 và 利息 gần như đồng nghĩa. 利子 nghe hơi \"phía người vay trả\", 利息 nghe hơi \"phía người cho vay nhận\" nhưng trong đề N2 thay được cho nhau. Khác hẳn 利益 (りえき, lợi nhuận)."
+        },
+        {
+          "id": "g16-w39",
+          "w": "資産",
+          "r": "しさん",
+          "hv": "TƯ SẢN",
+          "pos": "名",
+          "vi": "tài sản (tiền, nhà đất, cổ phiếu…)",
+          "key": true,
+          "ex": {
+            "ja": "{彼|かれ}は{不動産|ふどうさん}に{投資|とうし}して{資産|しさん}を{大|おお}きく{増|ふ}やした。",
+            "vi": "Anh ấy đầu tư bất động sản và tăng tài sản lên rất nhiều."
+          },
+          "col": [
+            "資産を増やす",
+            "資産家",
+            "資産運用"
+          ],
+          "note": "Đừng nhầm 資産 (しさん, tài sản) với 資源 (しげん, tài nguyên) và 財産 (ざいさん, của cải — từ đời thường hơn)."
+        },
+        {
+          "id": "g16-w40",
+          "w": "納税",
+          "r": "のうぜい",
+          "hv": "NẠP THUẾ",
+          "pos": "名・自動",
+          "vi": "nộp thuế",
+          "key": true,
+          "ex": {
+            "ja": "{納税|のうぜい}は{国民|こくみん}の{三大|さんだい}{義務|ぎむ}の{一|ひと}つだ。",
+            "vi": "Nộp thuế là một trong ba nghĩa vụ lớn của công dân."
+          },
+          "col": [
+            "納税の義務",
+            "納税者",
+            "納税期限"
+          ],
+          "note": "納 đọc のう ở đây (納税・納品), đọc おさ(める) khi là động từ."
+        },
+        {
+          "id": "g16-w41",
+          "w": "義務",
+          "r": "ぎむ",
+          "hv": "NGHĨA VỤ",
+          "pos": "名",
+          "vi": "nghĩa vụ",
+          "ex": {
+            "ja": "{親|おや}には{子|こ}どもに{教育|きょういく}を{受|う}けさせる{義務|ぎむ}がある。",
+            "vi": "Cha mẹ có nghĩa vụ cho con được đi học."
+          },
+          "col": [
+            "義務を負う",
+            "義務を果たす",
+            "義務教育",
+            "義務付ける"
+          ],
+          "rel": "↔ 権利"
+        },
+        {
+          "id": "g16-w42",
+          "w": "負う",
+          "r": "おう",
+          "hv": "PHỤ",
+          "pos": "他動",
+          "vi": "gánh, chịu (trách nhiệm, nghĩa vụ); bị (thương)",
+          "key": true,
+          "senses": [
+            {
+              "vi": "gánh (trách nhiệm, nghĩa vụ, nợ)",
+              "ex": {
+                "ja": "{社長|しゃちょう}は{事故|じこ}の{責任|せきにん}を{負|お}って{辞任|じにん}した。",
+                "vi": "Giám đốc nhận trách nhiệm về vụ tai nạn và từ chức."
+              }
+            },
+            {
+              "vi": "bị (thương)",
+              "ex": {
+                "ja": "{転|ころ}んで{足|あし}に{軽|かる}いけがを{負|お}った。",
+                "vi": "Tôi bị ngã và bị thương nhẹ ở chân."
+              }
+            }
+          ],
+          "col": [
+            "責任を負う",
+            "義務を負う",
+            "けがを負う",
+            "負担を負う"
+          ],
+          "note": "Chủ ngữ là **người chịu**. Nếu là người/việc **gây ra** gánh nặng cho người khác → 負担をかける／強いる."
+        },
+        {
+          "id": "g16-w43",
+          "w": "納める",
+          "r": "おさめる",
+          "hv": "NẠP",
+          "pos": "他動",
+          "vi": "nộp (thuế, học phí, phí cho cơ quan)",
+          "key": true,
+          "ex": {
+            "ja": "{授業料|じゅぎょうりょう}は{四月|しがつ}{末|まつ}までに{納|おさ}めなければならない。",
+            "vi": "Học phí phải nộp trước cuối tháng Tư."
+          },
+          "col": [
+            "税金を納める",
+            "会費を納める"
+          ],
+          "rel": "≒ 払う (văn nói)",
+          "note": "Cùng âm おさめる: 収める (thu được: 成功を収める), 治める (cai trị: 国を治める), 修める (tu dưỡng: 学問を修める). Tiền nộp cho cơ quan → **納める**."
+        },
+        {
+          "id": "g16-w44",
+          "w": "税金",
+          "r": "ぜいきん",
+          "hv": "THUẾ KIM",
+          "pos": "名",
+          "vi": "tiền thuế",
+          "key": true,
+          "ex": {
+            "ja": "{集|あつ}めた{税金|ぜいきん}の{使|つか}い{道|みち}をもっと{公開|こうかい}すべきだ。",
+            "vi": "Nên công khai hơn việc tiền thuế thu được dùng vào đâu."
+          },
+          "col": [
+            "税金を納める",
+            "税金がかかる"
+          ]
+        },
+        {
+          "id": "g16-w45",
+          "w": "税",
+          "r": "ぜい",
+          "hv": "THUẾ",
+          "pos": "名",
+          "vi": "thuế",
+          "ex": {
+            "ja": "この{値段|ねだん}は{税|ぜい}{込|こ}みですか。",
+            "vi": "Giá này đã gồm thuế chưa?"
+          },
+          "col": [
+            "消費税",
+            "税込み／税抜き",
+            "所得税"
+          ],
+          "key": true
+        },
+        {
+          "id": "g16-w46",
+          "w": "負担",
+          "r": "ふたん",
+          "hv": "PHỤ ĐẢM",
+          "pos": "名・他動",
+          "vi": "gánh nặng; gánh chịu (chi phí, công việc)",
+          "key": true,
+          "ex": {
+            "ja": "{交通費|こうつうひ}は{会社|かいしゃ}が{負担|ふたん}します。",
+            "vi": "Chi phí đi lại do công ty chi trả."
+          },
+          "col": [
+            "負担をかける",
+            "負担を強いる",
+            "負担が大きい",
+            "費用を負担する",
+            "負担を軽くする"
+          ],
+          "note": "Hai cách dùng: (1) **danh từ \"gánh nặng\"**: 親に負担をかける; (2) **động từ \"đứng ra chịu\"**: 送料はお客様の負担となります."
+        },
+        {
+          "id": "g16-w47",
+          "w": "強いる",
+          "r": "しいる",
+          "hv": "CƯỜNG",
+          "pos": "他動",
+          "vi": "ép buộc, bắt (ai) phải chịu / phải làm",
+          "key": true,
+          "ex": {
+            "ja": "{長時間|ちょうじかん}{労働|ろうどう}を{社員|しゃいん}に{強|し}いる{会社|かいしゃ}は{問題|もんだい}だ。",
+            "vi": "Công ty bắt nhân viên làm việc nhiều giờ là có vấn đề."
+          },
+          "col": [
+            "負担を強いる",
+            "犠牲を強いる",
+            "我慢を強いられる"
+          ],
+          "note": "Đọc **しいる**, không phải つよいる. Rất hay dùng ở thể bị động 「〜を強いられる」 (bị buộc phải…)."
+        }
+      ]
+    },
+    {
+      "title": "産業",
+      "title_vi": "Công nghiệp và nông nghiệp",
+      "words": [
+        {
+          "id": "g16-w48",
+          "w": "工業",
+          "r": "こうぎょう",
+          "hv": "CÔNG NGHIỆP",
+          "pos": "名",
+          "vi": "công nghiệp (chế tạo)",
+          "ex": {
+            "ja": "この{地域|ちいき}は{昔|むかし}から{工業|こうぎょう}が{盛|さか}んだ。",
+            "vi": "Vùng này từ xưa công nghiệp đã phát triển."
+          },
+          "col": [
+            "工業地帯",
+            "工業製品"
+          ]
+        },
+        {
+          "id": "g16-w49",
+          "w": "輸送",
+          "r": "ゆそう",
+          "hv": "THÂU TỐNG",
+          "pos": "名・他動",
+          "vi": "vận chuyển, vận tải (người, hàng với khối lượng lớn)",
+          "ex": {
+            "ja": "{大雪|おおゆき}のため、トラックによる{輸送|ゆそう}が{止|と}まっている。",
+            "vi": "Do tuyết lớn, việc vận chuyển bằng xe tải đang bị ngưng."
+          },
+          "col": [
+            "貨物を輸送する",
+            "輸送費",
+            "大量輸送"
+          ],
+          "rel": "≒ 運ぶ・運送",
+          "note": "輸 = chuyển đi (輸入・輸出). 輸送 nói về **phương tiện quy mô lớn** (tàu, máy bay, xe tải). Gửi đồ cá nhân → 送る."
+        },
+        {
+          "id": "g16-w50",
+          "w": "原油",
+          "r": "げんゆ",
+          "hv": "NGUYÊN DU",
+          "pos": "名",
+          "vi": "dầu thô",
+          "ex": {
+            "ja": "{原油|げんゆ}{価格|かかく}が{上|あ}がると、{様々|さまざま}な{商品|しょうひん}が{値上|ねあ}がりする。",
+            "vi": "Giá dầu thô tăng thì nhiều loại hàng hoá cũng tăng giá."
+          }
+        },
+        {
+          "id": "g16-w51",
+          "w": "石油",
+          "r": "せきゆ",
+          "hv": "THẠCH DU",
+          "pos": "名",
+          "vi": "dầu mỏ",
+          "ex": {
+            "ja": "{日本|にほん}は{石油|せきゆ}のほとんどを{輸入|ゆにゅう}に{頼|たよ}っている。",
+            "vi": "Nhật Bản phụ thuộc gần như toàn bộ vào nhập khẩu dầu mỏ."
+          },
+          "key": true
+        },
+        {
+          "id": "g16-w52",
+          "w": "天然ガス",
+          "r": "てんねんがす",
+          "hv": "THIÊN NHIÊN",
+          "pos": "名",
+          "vi": "khí thiên nhiên",
+          "key": true,
+          "ex": {
+            "ja": "{天然|てんねん}ガスは{専用|せんよう}の{船|ふね}で{液体|えきたい}にして{運|はこ}ばれる。",
+            "vi": "Khí thiên nhiên được hoá lỏng và chở bằng tàu chuyên dụng."
+          }
+        },
+        {
+          "id": "g16-w53",
+          "w": "発電所",
+          "r": "はつでんしょ",
+          "hv": "PHÁT ĐIỆN SỞ",
+          "pos": "名",
+          "vi": "nhà máy điện",
+          "key": true,
+          "ex": {
+            "ja": "{海|うみ}の{近|ちか}くに{新|あたら}しい{発電所|はつでんしょ}が{建設|けんせつ}された。",
+            "vi": "Một nhà máy điện mới đã được xây gần biển."
+          },
+          "col": [
+            "火力発電所",
+            "原子力発電所",
+            "太陽光発電"
+          ],
+          "note": "所 đọc しょ (không phải じょ hay ところ) trong từ này."
+        },
+        {
+          "id": "g16-w54",
+          "w": "電力",
+          "r": "でんりょく",
+          "hv": "ĐIỆN LỰC",
+          "pos": "名",
+          "vi": "điện năng, điện",
+          "key": true,
+          "ex": {
+            "ja": "{夏|なつ}の{午後|ごご}は{電力|でんりょく}の{使用量|しようりょう}が{最|もっと}も{多|おお}い。",
+            "vi": "Chiều mùa hè là lúc lượng điện tiêu thụ nhiều nhất."
+          },
+          "col": [
+            "電力を供給する",
+            "電力不足",
+            "電力会社"
+          ]
+        },
+        {
+          "id": "g16-w55",
+          "w": "安定",
+          "r": "あんてい",
+          "hv": "AN ĐỊNH",
+          "pos": "名・自動・な形",
+          "vi": "ổn định",
+          "ex": {
+            "ja": "{安定|あんてい}した{収入|しゅうにゅう}がほしくて、{公務員|こうむいん}を{目指|めざ}している。",
+            "vi": "Muốn có thu nhập ổn định nên tôi đang nhắm làm công chức."
+          },
+          "col": [
+            "安定した電力",
+            "生活が安定する",
+            "情緒が安定している"
+          ],
+          "rel": "↔ 不安定"
+        },
+        {
+          "id": "g16-w56",
+          "w": "供給",
+          "r": "きょうきゅう",
+          "hv": "CUNG CẤP",
+          "pos": "名・他動",
+          "vi": "cung cấp, cung ứng (cho xã hội, thị trường)",
+          "key": true,
+          "ex": {
+            "ja": "{地震|じしん}の{後|あと}、{被災地|ひさいち}への{水|みず}の{供給|きょうきゅう}が{急|いそ}がれた。",
+            "vi": "Sau động đất, việc cung cấp nước cho vùng bị nạn được gấp rút tiến hành."
+          },
+          "col": [
+            "電力を供給する",
+            "供給が不足する",
+            "需要と供給"
+          ],
+          "rel": "↔ 需要",
+          "note": "供給 là **bên đưa ra** (người bán, nhà máy); 需要 là **bên cần** (người mua). Mẹo: 給 trong 給料 — \"cấp cho\"."
+        },
+        {
+          "id": "g16-w57",
+          "w": "製造",
+          "r": "せいぞう",
+          "hv": "CHẾ TẠO",
+          "pos": "名・他動",
+          "vi": "chế tạo, sản xuất (hàng loạt, bằng máy móc)",
+          "key": true,
+          "ex": {
+            "ja": "この{工場|こうじょう}では{一日|いちにち}に{一万本|いちまんぼん}のペットボトル{飲料|いんりょう}を{製造|せいぞう}している。",
+            "vi": "Nhà máy này mỗi ngày sản xuất 10.000 chai nước giải khát."
+          },
+          "col": [
+            "製造業",
+            "製造技術",
+            "製造元",
+            "製造年月日"
+          ]
+        },
+        {
+          "id": "g16-w58",
+          "w": "技術",
+          "r": "ぎじゅつ",
+          "hv": "KỸ THUẬT",
+          "pos": "名",
+          "vi": "kỹ thuật, công nghệ",
+          "ex": {
+            "ja": "{日本|にほん}の{職人|しょくにん}の{技術|ぎじゅつ}は{世界|せかい}でも{高|たか}く{評価|ひょうか}されている。",
+            "vi": "Kỹ thuật của thợ thủ công Nhật được đánh giá cao trên thế giới."
+          }
+        },
+        {
+          "id": "g16-w59",
+          "w": "向上",
+          "r": "こうじょう",
+          "hv": "HƯỚNG THƯỢNG",
+          "pos": "名・自動",
+          "vi": "nâng cao, tiến bộ (năng lực, chất lượng)",
+          "key": true,
+          "ex": {
+            "ja": "{毎日|まいにち}{練習|れんしゅう}したおかげで、{日本語|にほんご}の{会話力|かいわりょく}が{向上|こうじょう}した。",
+            "vi": "Nhờ luyện tập mỗi ngày mà khả năng hội thoại tiếng Nhật đã tiến bộ."
+          },
+          "col": [
+            "技術が向上する",
+            "品質の向上",
+            "向上心"
+          ],
+          "rel": "↔ 低下",
+          "note": "Dùng cho **chất lượng, năng lực** tốt lên. Con số (giá, nhiệt độ) tăng → 上昇."
+        },
+        {
+          "id": "g16-w60",
+          "w": "大手",
+          "r": "おおて",
+          "hv": "ĐẠI THỦ",
+          "pos": "名",
+          "vi": "(doanh nghiệp) lớn, hàng đầu trong ngành",
+          "key": true,
+          "ex": {
+            "ja": "{彼女|かのじょ}は{大手|おおて}{広告|こうこく}{会社|かいしゃ}から{内定|ないてい}をもらった。",
+            "vi": "Cô ấy nhận được thư mời làm việc từ một công ty quảng cáo lớn."
+          },
+          "col": [
+            "大手企業",
+            "大手メーカー",
+            "業界大手"
+          ],
+          "note": "Đọc おおて (訓読み), không phải だいしゅ. Nghĩa là **quy mô lớn**, không đơn thuần là \"nổi tiếng\"."
+        },
+        {
+          "id": "g16-w61",
+          "w": "メーカー",
+          "r": "めーかー",
+          "hv": "",
+          "pos": "名",
+          "vi": "nhà sản xuất, hãng sản xuất",
+          "key": true,
+          "ex": {
+            "ja": "このカメラはどこのメーカーの{製品|せいひん}ですか。",
+            "vi": "Chiếc máy ảnh này là sản phẩm của hãng nào?"
+          },
+          "col": [
+            "自動車メーカー",
+            "電機メーカー",
+            "大手メーカー"
+          ]
+        },
+        {
+          "id": "g16-w62",
+          "w": "部品",
+          "r": "ぶひん",
+          "hv": "BỘ PHẨM",
+          "pos": "名",
+          "vi": "linh kiện, phụ tùng",
+          "key": true,
+          "ex": {
+            "ja": "{部品|ぶひん}が{一|ひと}つ{足|た}りなくて、{組|く}み{立|た}てられない。",
+            "vi": "Thiếu một linh kiện nên không lắp ráp được."
+          },
+          "col": [
+            "部品を交換する",
+            "自動車部品"
+          ]
+        },
+        {
+          "id": "g16-w63",
+          "w": "製作",
+          "r": "せいさく",
+          "hv": "CHẾ TÁC",
+          "pos": "名・他動",
+          "vi": "chế tác, làm ra (vật phẩm, máy móc, phim ảnh)",
+          "key": true,
+          "ex": {
+            "ja": "この{映画|えいが}は{製作|せいさく}に{三年|さんねん}かかったそうだ。",
+            "vi": "Nghe nói bộ phim này mất ba năm để làm."
+          },
+          "col": [
+            "部品を製作する",
+            "映画製作",
+            "製作費"
+          ],
+          "note": "Cùng âm せいさく: 制作 (sáng tác tác phẩm nghệ thuật: 番組制作). 製作 thiên về **làm ra đồ vật cụ thể** (có chữ 製 như 製品). Xem focus."
+        },
+        {
+          "id": "g16-w64",
+          "w": "資源",
+          "r": "しげん",
+          "hv": "TƯ NGUYÊN",
+          "pos": "名",
+          "vi": "tài nguyên",
+          "key": true,
+          "ex": {
+            "ja": "{資源|しげん}の{少|すく}ない{国|くに}は、{人材|じんざい}{育成|いくせい}に{力|ちから}を{入|い}れるべきだ。",
+            "vi": "Nước ít tài nguyên nên dồn sức đào tạo nhân lực."
+          },
+          "col": [
+            "天然資源",
+            "エネルギー資源",
+            "資源ごみ",
+            "資源に恵まれる"
+          ]
+        },
+        {
+          "id": "g16-w65",
+          "w": "需要",
+          "r": "じゅよう",
+          "hv": "NHU YẾU",
+          "pos": "名",
+          "vi": "nhu cầu (của thị trường)",
+          "key": true,
+          "ex": {
+            "ja": "{在宅|ざいたく}{勤務|きんむ}が{広|ひろ}まり、パソコンの{需要|じゅよう}が{伸|の}びた。",
+            "vi": "Làm việc tại nhà phổ biến nên nhu cầu máy tính tăng."
+          },
+          "col": [
+            "需要が高まる",
+            "需要が伸びる",
+            "需要と供給"
+          ],
+          "rel": "↔ 供給",
+          "note": "Đọc じゅよう (じゅ ngắn). Phân biệt: 重要 (じゅうよう, quan trọng), 必要 (ひつよう, cần thiết). 需要 chỉ dùng cho **nhu cầu của thị trường / xã hội**, không dùng cho mong muốn của một người."
+        },
+        {
+          "id": "g16-w66",
+          "w": "高まる",
+          "r": "たかまる",
+          "hv": "CAO",
+          "pos": "自動",
+          "vi": "tăng cao, dâng lên (mức độ, cảm xúc, quan tâm)",
+          "ex": {
+            "ja": "{試合|しあい}が{近|ちか}づくにつれて、{選手|せんしゅ}たちの{緊張|きんちょう}が{高|たか}まってきた。",
+            "vi": "Trận đấu càng đến gần, sự căng thẳng của các cầu thủ càng dâng cao."
+          },
+          "col": [
+            "需要が高まる",
+            "関心が高まる",
+            "期待が高まる"
+          ],
+          "rel": "tha động từ: 高める"
+        },
+        {
+          "id": "g16-w67",
+          "w": "農業",
+          "r": "のうぎょう",
+          "hv": "NÔNG NGHIỆP",
+          "pos": "名",
+          "vi": "nông nghiệp",
+          "key": true,
+          "ex": {
+            "ja": "{若|わか}い{人|ひと}が{都会|とかい}へ{出|で}て、{農業|のうぎょう}の{担|にな}い{手|て}が{減|へ}っている。",
+            "vi": "Người trẻ ra thành phố nên lực lượng làm nông nghiệp đang giảm."
+          }
+        },
+        {
+          "id": "g16-w68",
+          "w": "農作業",
+          "r": "のうさぎょう",
+          "hv": "NÔNG TÁC NGHIỆP",
+          "pos": "名",
+          "vi": "công việc đồng áng",
+          "key": true,
+          "ex": {
+            "ja": "{週末|しゅうまつ}は{実家|じっか}に{帰|かえ}って{農作業|のうさぎょう}を{手伝|てつだ}っている。",
+            "vi": "Cuối tuần tôi về quê phụ việc đồng áng."
+          }
+        },
+        {
+          "id": "g16-w69",
+          "w": "田",
+          "r": "た",
+          "hv": "ĐIỀN",
+          "pos": "名",
+          "vi": "ruộng (lúa nước)",
+          "ex": {
+            "ja": "{田|た}に{水|みず}が{張|は}られて、{田植|たう}えの{季節|きせつ}になった。",
+            "vi": "Ruộng đã được dẫn nước vào, đến mùa cấy rồi."
+          },
+          "rel": "≒ 田んぼ (văn nói)",
+          "key": true
+        },
+        {
+          "id": "g16-w70",
+          "w": "畑",
+          "r": "はたけ",
+          "hv": "",
+          "pos": "名",
+          "vi": "ruộng cạn, vườn rau, rẫy",
+          "ex": {
+            "ja": "{祖母|そぼ}は{家|いえ}の{裏|うら}の{畑|はたけ}でトマトを{作|つく}っている。",
+            "vi": "Bà tôi trồng cà chua ở mảnh vườn sau nhà."
+          },
+          "note": "畑 là chữ do Nhật tự tạo (国字) nên không có âm Hán Việt. 田 = ruộng có nước, 畑 = ruộng khô (火 + 田).",
+          "key": true
+        },
+        {
+          "id": "g16-w71",
+          "w": "耕す",
+          "r": "たがやす",
+          "hv": "CANH",
+          "pos": "他動",
+          "vi": "cày, xới (đất)",
+          "key": true,
+          "ex": {
+            "ja": "{機械|きかい}を{使|つか}えば、{広|ひろ}い{畑|はたけ}も{短時間|たんじかん}で{耕|たがや}せる。",
+            "vi": "Dùng máy thì ruộng rộng cũng cày xong trong thời gian ngắn."
+          },
+          "col": [
+            "土を耕す",
+            "畑を耕す"
+          ],
+          "note": "耕 = CANH trong \"canh tác\" (耕作 こうさく)."
+        },
+        {
+          "id": "g16-w72",
+          "w": "種",
+          "r": "たね",
+          "hv": "CHỦNG",
+          "pos": "名",
+          "vi": "hạt giống; nguồn gốc, mầm (nghĩa bóng)",
+          "key": true,
+          "ex": {
+            "ja": "ひまわりの{種|たね}は{春|はる}にまくと、{夏|なつ}に{花|はな}が{咲|さ}く。",
+            "vi": "Hạt hướng dương gieo vào mùa xuân thì mùa hè sẽ nở hoa."
+          },
+          "col": [
+            "種をまく",
+            "悩みの種",
+            "話の種"
+          ],
+          "note": "Nghĩa bóng: 悩みの種 = nguồn cơn phiền muộn; 話の種 = đề tài để nói chuyện."
+        },
+        {
+          "id": "g16-w73",
+          "w": "まく",
+          "r": "まく",
+          "hv": "",
+          "pos": "他動",
+          "vi": "gieo (hạt); rải, rắc",
+          "key": true,
+          "ex": {
+            "ja": "{雨|あめ}が{降|ふ}る{前|まえ}に、{畑|はたけ}に{種|たね}をまいておこう。",
+            "vi": "Gieo hạt xuống ruộng trước khi trời mưa nào."
+          },
+          "col": [
+            "種をまく",
+            "水をまく"
+          ],
+          "note": "Gieo hạt viết 蒔く (ít dùng, thường viết かな); rải nước, rắc → 撒く. Đều đọc まく."
+        },
+        {
+          "id": "g16-w74",
+          "w": "作物",
+          "r": "さくもつ",
+          "hv": "TÁC VẬT",
+          "pos": "名",
+          "vi": "cây trồng, hoa màu, nông sản",
+          "key": true,
+          "ex": {
+            "ja": "{今年|ことし}は{雨|あめ}が{少|すく}なく、{作物|さくもつ}の{育|そだ}ちが{悪|わる}い。",
+            "vi": "Năm nay ít mưa nên hoa màu kém phát triển."
+          },
+          "col": [
+            "作物を育てる",
+            "農作物"
+          ],
+          "note": "Đọc **さくもつ** (không phải さくぶつ). 作品 (さくひん) mới là tác phẩm."
+        },
+        {
+          "id": "g16-w75",
+          "w": "出荷",
+          "r": "しゅっか",
+          "hv": "XUẤT HÀ",
+          "pos": "名・他動",
+          "vi": "xuất hàng, chuyển hàng đi bán (ra thị trường)",
+          "key": true,
+          "ex": {
+            "ja": "{収穫|しゅうかく}したいちごは、その{日|ひ}のうちに{出荷|しゅっか}される。",
+            "vi": "Dâu thu hoạch xong được chuyển đi bán ngay trong ngày."
+          },
+          "col": [
+            "市場へ出荷する",
+            "出荷量",
+            "出荷停止"
+          ],
+          "rel": "↔ 入荷 (hàng về)",
+          "note": "荷 = hàng hoá (荷物). Dùng cho nông sản, hàng hoá từ **nơi sản xuất** đi."
+        },
+        {
+          "id": "g16-w76",
+          "w": "市場",
+          "r": "しじょう",
+          "hv": "THỊ TRƯỜNG",
+          "pos": "名",
+          "vi": "thị trường; (いちば) chợ đầu mối",
+          "ex": {
+            "ja": "{国内|こくない}{市場|しじょう}が{小|ちい}さくなり、{海外|かいがい}に{進出|しんしゅつ}する{企業|きぎょう}が{増|ふ}えた。",
+            "vi": "Thị trường trong nước thu hẹp nên doanh nghiệp vươn ra nước ngoài tăng lên."
+          },
+          "note": "しじょう = thị trường (khái niệm kinh tế: 株式市場); いちば = chợ (nơi có thật: 魚市場 うおいちば).",
+          "key": true
+        }
+      ]
+    },
+    {
+      "title": "語形成",
+      "title_vi": "Từ ghép, tiền tố, hậu tố",
+      "words": [
+        {
+          "id": "g16-w77",
+          "w": "〜危機",
+          "r": "きき",
+          "hv": "NGUY CƠ",
+          "pos": "接尾",
+          "vi": "khủng hoảng …, nguy cơ …",
+          "key": true,
+          "ex": {
+            "ja": "{食糧|しょくりょう}{危機|きき}を{防|ふせ}ぐため、{各国|かっこく}が{協力|きょうりょく}している。",
+            "vi": "Các nước đang hợp tác để ngăn chặn khủng hoảng lương thực."
+          },
+          "col": [
+            "経済危機",
+            "金融危機",
+            "食糧危機",
+            "危機感",
+            "危機を脱する"
+          ]
+        },
+        {
+          "id": "g16-w78",
+          "w": "値上げ",
+          "r": "ねあげ",
+          "hv": "TRỊ THƯỢNG",
+          "pos": "名・他動",
+          "vi": "tăng giá (chủ động nâng giá)",
+          "key": true,
+          "ex": {
+            "ja": "{鉄道|てつどう}{会社|がいしゃ}は{来年|らいねん}{運賃|うんちん}を{値上|ねあ}げすると{発表|はっぴょう}した。",
+            "vi": "Công ty đường sắt thông báo sẽ tăng giá vé vào năm sau."
+          },
+          "col": [
+            "料金を値上げする",
+            "値上げに踏み切る"
+          ],
+          "rel": "↔ 値下げ · ≒ 値上がり (tự động từ)"
+        },
+        {
+          "id": "g16-w79",
+          "w": "得意先",
+          "r": "とくいさき",
+          "hv": "ĐẮC Ý TIÊN",
+          "pos": "名",
+          "vi": "khách hàng quen, mối hàng thường xuyên",
+          "key": true,
+          "ex": {
+            "ja": "{営業|えいぎょう}の{仕事|しごと}は、{得意先|とくいさき}との{信頼|しんらい}{関係|かんけい}が{大切|たいせつ}だ。",
+            "vi": "Công việc kinh doanh thì quan hệ tin cậy với khách hàng quen là quan trọng."
+          },
+          "rel": "≒ 取引先・顧客",
+          "note": "〜先 = \"nơi, phía bên kia\" của một hành động: 取引先 (nơi giao dịch), 得意先, 勤め先 (nơi làm việc), 連絡先 (nơi liên lạc), 行き先 (nơi đến)."
+        },
+        {
+          "id": "g16-w80",
+          "w": "普通預金",
+          "r": "ふつうよきん",
+          "hv": "PHỔ THÔNG DỰ KIM",
+          "pos": "名",
+          "vi": "tiền gửi không kỳ hạn (rút lúc nào cũng được)",
+          "ex": {
+            "ja": "{給料|きゅうりょう}は{普通|ふつう}{預金|よきん}の{口座|こうざ}に{振|ふ}り{込|こ}まれる。",
+            "vi": "Lương được chuyển vào tài khoản tiền gửi không kỳ hạn."
+          },
+          "rel": "↔ 定期預金"
+        },
+        {
+          "id": "g16-w81",
+          "w": "電機メーカー",
+          "r": "でんきめーかー",
+          "hv": "ĐIỆN CƠ",
+          "pos": "名",
+          "vi": "hãng sản xuất thiết bị điện",
+          "ex": {
+            "ja": "{大手|おおて}{電機|でんき}メーカーが{新|あたら}しい{冷蔵庫|れいぞうこ}を{発売|はつばい}した。",
+            "vi": "Một hãng điện máy lớn đã tung ra mẫu tủ lạnh mới."
+          },
+          "note": "電機 (máy điện) ≠ 電気 (điện). Cùng đọc でんき.",
+          "key": true
+        },
+        {
+          "id": "g16-w82",
+          "w": "天然資源",
+          "r": "てんねんしげん",
+          "hv": "THIÊN NHIÊN TƯ NGUYÊN",
+          "pos": "名",
+          "vi": "tài nguyên thiên nhiên",
+          "key": true,
+          "ex": {
+            "ja": "その{国|くに}は{天然|てんねん}{資源|しげん}に{恵|めぐ}まれ、{輸出|ゆしゅつ}で{豊|ゆた}かになった。",
+            "vi": "Đất nước đó giàu tài nguyên thiên nhiên và trở nên giàu có nhờ xuất khẩu."
+          },
+          "col": [
+            "天然資源に恵まれる"
+          ]
+        },
+        {
+          "id": "g16-w83",
+          "w": "エネルギー資源",
+          "r": "えねるぎーしげん",
+          "hv": "TƯ NGUYÊN",
+          "pos": "名",
+          "vi": "tài nguyên năng lượng",
+          "ex": {
+            "ja": "{石炭|せきたん}や{石油|せきゆ}などのエネルギー{資源|しげん}には{限|かぎ}りがある。",
+            "vi": "Các nguồn tài nguyên năng lượng như than đá, dầu mỏ là có hạn."
+          },
+          "key": true
+        }
+      ]
+    },
+    {
+      "title": "例文の副詞",
+      "title_vi": "Phó từ trong câu ví dụ",
+      "words": [
+        {
+          "id": "g16-w84",
+          "w": "いったん",
+          "r": "いったん",
+          "hv": "NHẤT ĐÁN",
+          "pos": "副",
+          "vi": "tạm (làm một lần rồi…); một khi đã…",
+          "key": true,
+          "senses": [
+            {
+              "vi": "tạm thời, trước hết một lần (rồi sau đó khác đi)",
+              "ex": {
+                "ja": "{雨|あめ}がひどいので、いったん{家|いえ}に{戻|もど}って{傘|かさ}を{取|と}ってくる。",
+                "vi": "Mưa to quá, tôi tạm quay về nhà lấy ô đã."
+              }
+            },
+            {
+              "vi": "(いったん〜と／たら) một khi đã… thì…",
+              "ex": {
+                "ja": "いったん{始|はじ}めたことは、{最後|さいご}までやり{遂|と}げたい。",
+                "vi": "Việc một khi đã bắt đầu thì tôi muốn làm đến cùng."
+              }
+            }
+          ],
+          "rel": "≒ ひとまず・一度",
+          "note": "Kanji 一旦 nhưng thường viết かな. Hay đi với cấu trúc \"tạm A, nhưng rồi B\": 「いったん下がったが、また上がった」."
+        },
+        {
+          "id": "g16-w85",
+          "w": "恐らく",
+          "r": "おそらく",
+          "hv": "KHỦNG",
+          "pos": "副",
+          "vi": "có lẽ, e rằng (phán đoán, thường đi với だろう)",
+          "key": true,
+          "ex": {
+            "ja": "この{渋滞|じゅうたい}では、{恐|おそ}らく{会議|かいぎ}には{間|ま}に{合|あ}わないだろう。",
+            "vi": "Tắc đường thế này thì e là không kịp cuộc họp mất."
+          },
+          "rel": "≒ たぶん (văn nói)",
+          "note": "Cuối câu gần như luôn có **だろう／でしょう／と思われる**. Văn trang trọng hơn たぶん."
+        },
+        {
+          "id": "g16-w86",
+          "w": "なんと",
+          "r": "なんと",
+          "hv": "",
+          "pos": "副",
+          "vi": "thật không ngờ, đến tận (ngạc nhiên trước con số / sự thật)",
+          "key": true,
+          "ex": {
+            "ja": "{宝|たから}くじが{当|あ}たって、なんと{一億円|いちおくえん}もらえることになった。",
+            "vi": "Trúng xổ số, không ngờ được tận một trăm triệu yên."
+          },
+          "note": "Đặt trước điều gây **bất ngờ**, thường kèm も hoặc con số lớn/nhỏ bất thường. Khác 「なんと言っても」 (dù gì đi nữa)."
+        },
+        {
+          "id": "g16-w87",
+          "w": "主に",
+          "r": "おもに",
+          "hv": "CHỦ",
+          "pos": "副",
+          "vi": "chủ yếu",
+          "key": true,
+          "ex": {
+            "ja": "この{店|みせ}の{客|きゃく}は{主|おも}に{近|ちか}くの{大学生|だいがくせい}だ。",
+            "vi": "Khách của quán này chủ yếu là sinh viên gần đây."
+          },
+          "rel": "≒ 主として"
+        },
+        {
+          "id": "g16-w88",
+          "w": "決して",
+          "r": "けっして",
+          "hv": "QUYẾT",
+          "pos": "副",
+          "vi": "tuyệt đối không, không hề (+ phủ định)",
+          "key": true,
+          "ex": {
+            "ja": "あの{日|ひ}のことは{決|けっ}して{忘|わす}れません。",
+            "vi": "Ngày hôm đó tôi sẽ không bao giờ quên."
+          },
+          "note": "Luôn đi với **phủ định**: 決して〜ない／〜てはいけない. ✗ 決して行きます."
+        },
+        {
+          "id": "g16-w89",
+          "w": "いきなり",
+          "r": "いきなり",
+          "hv": "",
+          "pos": "副",
+          "vi": "đột ngột, bất thình lình, chẳng chuẩn bị gì",
+          "key": true,
+          "ex": {
+            "ja": "{練習|れんしゅう}もしないで、いきなり{本番|ほんばん}に{出|で}るのは{無理|むり}だ。",
+            "vi": "Chẳng tập gì mà nhảy luôn vào biểu diễn thật thì không được đâu."
+          },
+          "rel": "≒ 突然・急に",
+          "note": "Sắc thái: bỏ qua các bước lẽ ra phải có trước. 「いきなり殴られた」 = bị đấm bất thình lình."
+        }
+      ]
+    }
+  ],
+  "focus": [
+    {
+      "title": "Phân biệt 預金・貯金・貯蓄 (gửi tiền, để dành)",
+      "body": "Cả ba đều liên quan tới \"để dành tiền\", nhưng khác ở **nơi giữ** và **văn phong**.\n\n- **預金 (よきん)**: tiền **gửi ở ngân hàng**. Chữ 預 = 預ける (gửi cho người khác giữ). Là thuật ngữ ngân hàng: 普通預金, 定期預金, 預金口座. 「銀行に預金する」.\n- **貯金 (ちょきん)**: **để dành tiền** — từ đời thường nhất. Vốn chỉ tiền gửi bưu điện (郵便局に貯金する), nay dùng chung chung: 貯金箱 (heo đất), 「毎月一万円ずつ貯金している」.\n- **貯蓄 (ちょちく)**: **tích lũy tài sản** nói chung (tiền gửi + bảo hiểm + chứng khoán…). Từ cứng, dùng trong kinh tế, thống kê: 貯蓄率, 「収入の一部を貯蓄に回す」.\n\nMẹo nhớ bằng chữ Hán: 預 = **gửi** (người khác giữ hộ) · 貯 = 貯める **dồn lại** · 蓄 = 蓄える **tích trữ lâu dài**.\n\nRút tiền ra: 預金を**引き出す／下ろす**. Ngược lại: お金を**預ける／預け入れる**."
+    },
+    {
+      "title": "Giá cả: 物価・価格・値段・料金",
+      "body": "- **物価 (ぶっか)**: mặt bằng giá **của cả xã hội** — 「東京は物価が高い」. Không dùng cho một món hàng.\n- **価格 (かかく)**: giá **của một sản phẩm** cụ thể, văn viết / kinh tế — 「販売価格」「価格競争」「原油価格」.\n- **値段 (ねだん)**: như 価格 nhưng **văn nói** — 「このシャツの値段はいくら？」.\n- **料金 (りょうきん)**: tiền trả cho **dịch vụ / việc sử dụng** — 電気料金, 入場料金, タクシー料金. Hàng hoá mang về thì không gọi là 料金.\n\nĐộng từ đi kèm: 物価・価格が**上昇する／上がる**; 料金を**支払う**; 料金を**値上げする**.\n\nVí dụ phân biệt:\n- 「給料は上がらないのに、**物価**ばかり上がる」 (giá cả nói chung)\n- 「野菜の**価格**が上昇している」 (giá một loại hàng)\n- 「水道**料金**を払い忘れた」 (phí dịch vụ)"
+    },
+    {
+      "title": "値上がり (tự) ↔ 値上げ (tha) — và 上昇・向上・回復",
+      "body": "**Cặp tự / tha động từ** — đề rất hay bẫy:\n- **値上がり／値下がり (自)**: giá **tự** lên/xuống do thị trường. 「ガソリンが値上がりした」.\n- **値上げ／値下げ (他)**: người bán **chủ động** nâng/hạ giá. 「店がコーヒーを値上げした」「料金が値上げされた」.\nMẹo: 〜**がり** (từ 上がる, tự động) ↔ 〜**げ** (từ 上げる, tha động).\n\n**Ba từ \"đi lên\"** dễ nhầm:\n- **上昇**: **con số** đi lên (物価・気温・株価・支持率が上昇する).\n- **向上**: **chất lượng / năng lực** tốt hơn trước (技術・学力・品質が向上する).\n- **回復**: **trở lại** trạng thái tốt sau khi xấu đi (景気・体力・天気が回復する).\n\nVí dụ: 「景気が**回復**し、株価が**上昇**、技術も**向上**した」 — mỗi chỗ chỉ có một từ hợp."
+    },
+    {
+      "title": "製造・製作・生産 — \"sản xuất\" kiểu nào?",
+      "body": "- **製造 (せいぞう)**: chế tạo **hàng loạt bằng máy móc** trong nhà máy, sản phẩm công nghiệp. 「自動車を製造する」「製造業」「製造年月日」.\n- **製作 (せいさく)**: **làm ra một vật cụ thể** (máy móc, đồ dùng, phim, mô hình), thường theo đơn đặt hàng hoặc theo dự án. 「部品を製作する」「映画を製作する」「看板の製作」.\n- **生産 (せいさん)**: khái niệm kinh tế rộng nhất, gồm cả nông nghiệp — 「米の生産量」「大量生産」.\n- (Thêm) **作成 (さくせい)**: soạn **tài liệu, văn bản** — 「資料を作成する」. Không dùng 製作 cho tài liệu.\n- (Thêm) **制作 (せいさく)**: sáng tác **tác phẩm nghệ thuật** — 「番組制作」「絵画の制作」.\n\nMẹo: có chữ **製** (製品) → đồ vật vật chất; 製**造** → \"tạo\" ra nhiều; 製**作** → \"tác\" ra từng cái."
+    },
+    {
+      "title": "Cụm động từ với nghĩa vụ, thuế và gánh nặng",
+      "body": "Đề N2 rất thích hỏi **động từ nào đi với danh từ nào**:\n\n- 義務・責任を **負う** (gánh, chủ ngữ = người chịu) · 義務を **果たす** (hoàn thành)\n- 税金・授業料を **納める** (nộp cho cơ quan) — không dùng 収める／治める\n- 料金・代金を **支払う** (thanh toán)\n- 借金・ローンを **返済する** · ローンを **組む**\n- 負担を **かける** (gây phiền / gánh nặng cho người khác, trung tính, văn nói)\n- 負担・犠牲を **強いる** (ép người khác phải chịu, sắc thái tiêu cực mạnh, văn viết) — hay ở bị động: 「我慢を強いられる」\n- 費用を **負担する** (đứng ra chịu chi phí)\n\nSo sánh chủ ngữ:\n- 「親に負担を**かけたくない**」 — tôi (gây ra) → người khác chịu.\n- 「国民は納税の義務を**負う**」 — người dân (tự gánh).\n- 「増税は家計に重い負担を**強いる**」 — việc tăng thuế (ép) → hộ gia đình."
+    },
+    {
+      "title": "語形成: 〜危機・〜先・〜預金・〜メーカー・〜資源・値〜",
+      "body": "- **〜危機** (khủng hoảng): 経済危機, 金融危機, 食糧危機, エネルギー危機. Cũng có 危機感 (cảm giác nguy cơ).\n- **値〜** (giá): 値上がり／値下がり (自), 値上げ／値下げ (他), 値段, 値引き (giảm giá trực tiếp).\n- **〜先** (nơi, phía đối tác): 取引先, 得意先, 勤め先, 連絡先, 行き先, 旅先. Đọc **さき**.\n- **〜預金**: 定期預金 (có kỳ hạn) ↔ 普通預金 (không kỳ hạn).\n- **〜メーカー**: 自動車メーカー, 電機メーカー, 大手メーカー. **大手〜** = (công ty) lớn: 大手企業, 大手銀行.\n- **〜資源**: 天然資源, エネルギー資源, 水資源, 観光資源, 人的資源.\n\nTrong đề 語形成, hãy để ý: 〜先 (取引先) chứ không phải 〜者 / 〜社 / 〜元; 定**期**預金 chứ không phải 定時 / 定例."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "g16-q1",
+      "kind": "read",
+      "ref": "g16-w7",
+      "q": "{人件費|じんけんひ}を[[u:削減]]するため、{残業|ざんぎょう}が{原則|げんそく}{禁止|きんし}になった。",
+      "options": [
+        "さくげん",
+        "しょうげん",
+        "さっけん",
+        "そくげん"
+      ],
+      "answer": 0,
+      "vi": "Để cắt giảm chi phí nhân sự, làm thêm giờ về nguyên tắc đã bị cấm.",
+      "why": "削 đọc **さく** (削除 さくじょ), 減 đọc **げん** (減少) → **さくげん**. しょうげん là 証言 (lời khai) — bẫy cùng vần げん; さっけん không tồn tại (không có biến âm っ); そくげん sai vì 削 không có âm そく."
+    },
+    {
+      "id": "g16-q2",
+      "kind": "write",
+      "ref": "g16-w27",
+      "q": "{毎月|まいつき}、{給料|きゅうりょう}の{一部|いちぶ}を[[u:よきん]]している。",
+      "options": [
+        "予金",
+        "余金",
+        "預金",
+        "預銀"
+      ],
+      "answer": 2,
+      "vi": "Hằng tháng tôi gửi tiết kiệm một phần tiền lương.",
+      "why": "よきん = **預金** (預ける = gửi giữ + 金). 予 cũng đọc よ nhưng nghĩa \"trước\" (予定); 余 đọc よ nhưng nghĩa \"thừa\" (余る); 預銀 — 銀 đọc ぎん, không phải きん."
+    },
+    {
+      "id": "g16-q3",
+      "kind": "context",
+      "ref": "g16-w10",
+      "q": "{円安|えんやす}の{影響|えいきょう}で、{輸入|ゆにゅう}{食品|しょくひん}の{価格|かかく}が（　　）している。",
+      "options": [
+        "向上",
+        "上昇",
+        "進歩",
+        "発展"
+      ],
+      "answer": 1,
+      "vi": "Do ảnh hưởng của đồng yên yếu, giá thực phẩm nhập khẩu đang tăng.",
+      "why": "Giá cả (con số) đi lên → **上昇**. 向上 dùng cho năng lực, chất lượng (技術が向上); 進歩 = tiến bộ (技術・科学が進歩する), không dùng cho giá; 発展 = phát triển (都市・産業), cũng không dùng cho giá."
+    },
+    {
+      "id": "g16-q4",
+      "kind": "paraphrase",
+      "ref": "g16-w14",
+      "q": "{新製品|しんせいひん}がよく{売|う}れて、{会社|かいしゃ}の{経営|けいえい}は{黒字|くろじ}に[[u:転じた]]。",
+      "options": [
+        "戻った",
+        "続いた",
+        "止まった",
+        "変わった"
+      ],
+      "answer": 3,
+      "vi": "Sản phẩm mới bán chạy nên tình hình kinh doanh của công ty đã chuyển sang có lãi.",
+      "why": "転じる = chuyển sang trạng thái khác → **変わった**. 戻った = quay lại (chỉ đúng nếu trước kia từng có lãi, câu không nói vậy); 続いた = tiếp diễn; 止まった = dừng lại — đều không mang nghĩa \"chuyển\"."
+    },
+    {
+      "id": "g16-q5",
+      "kind": "formation",
+      "ref": "g16-w36",
+      "q": "{満期|まんき}まで{引|ひ}き{出|だ}せない（　　）{預金|よきん}は、{普通|ふつう}{預金|よきん}より{金利|きんり}が{高|たか}い。",
+      "options": [
+        "定時",
+        "定例",
+        "定期",
+        "定量"
+      ],
+      "answer": 2,
+      "vi": "Tiền gửi có kỳ hạn, loại không rút được trước khi đáo hạn, có lãi suất cao hơn tiền gửi thường.",
+      "why": "**定期預金** = tiền gửi có kỳ hạn (定期 = định kỳ, có thời hạn). 定時 = giờ cố định (定時に退社する); 定例 = thường lệ (定例会議); 定量 = định lượng. Không ghép được với 預金."
+    },
+    {
+      "id": "g16-q6",
+      "kind": "context",
+      "ref": "g16-w56",
+      "q": "{寒波|かんぱ}で{電力|でんりょく}の{使用量|しようりょう}が{急増|きゅうぞう}し、（　　）が{追|お}いつかなくなった。",
+      "options": [
+        "供給",
+        "需要",
+        "輸送",
+        "出荷"
+      ],
+      "answer": 0,
+      "vi": "Do đợt rét, lượng điện dùng tăng vọt và nguồn cung không theo kịp.",
+      "why": "Nhu cầu tăng vọt → bên **cung** không kịp: **供給**が追いつかない. 需要 chính là thứ đang tăng nên \"nhu cầu không theo kịp\" vô lý; 輸送 (vận chuyển) và 出荷 (xuất hàng) không dùng cho điện."
+    },
+    {
+      "id": "g16-q7",
+      "kind": "usage",
+      "ref": "g16-w29",
+      "q": "{貯蓄|ちょちく}",
+      "options": [
+        "{銀行|ぎんこう}で{古|ふる}いお{札|さつ}を[[u:貯蓄]]してもらった。",
+        "{倉庫|そうこ}に{米|こめ}を{一年分|いちねんぶん}[[u:貯蓄]]してある。",
+        "この{料理|りょうり}は{冷蔵庫|れいぞうこ}で{三日|みっか}ほど[[u:貯蓄]]できる。",
+        "{老後|ろうご}に{備|そな}えて、{若|わか}いうちから[[u:貯蓄]]をしておくべきだ。"
+      ],
+      "answer": 3,
+      "vi": "(4) Để chuẩn bị cho tuổi già, nên tích lũy tiết kiệm từ khi còn trẻ.",
+      "why": "貯蓄 = tích lũy **tiền / tài sản** → (4) đúng. (1) đổi tiền → 両替; (2) trữ gạo, hàng hoá → 貯蔵・備蓄; (3) bảo quản đồ ăn → 保存. Bẫy: 貯 làm ta nghĩ \"trữ\" bất cứ thứ gì, nhưng 貯蓄 chỉ dùng cho tiền."
+    },
+    {
+      "id": "g16-q8",
+      "kind": "context",
+      "ref": "g16-w47",
+      "q": "{急|きゅう}な{増税|ぞうぜい}は、{収入|しゅうにゅう}の{少|すく}ない{家庭|かてい}に{重|おも}い{負担|ふたん}を（　　）ことになる。",
+      "options": [
+        "負う",
+        "納める",
+        "強いる",
+        "支払う"
+      ],
+      "answer": 2,
+      "vi": "Việc tăng thuế đột ngột sẽ buộc các gia đình thu nhập thấp phải chịu gánh nặng lớn.",
+      "why": "Chủ ngữ là 増税 (thứ **gây ra**), 家庭に (người chịu) → 負担を**強いる** (ép phải chịu). 負う thì chủ ngữ phải là người tự gánh (家庭が負担を負う), không đi với 家庭に; 納める dùng cho thuế, phí; 支払う dùng cho tiền, không đi với 負担."
+    },
+    {
+      "id": "g16-q9",
+      "kind": "paraphrase",
+      "ref": "g16-w84",
+      "q": "{議論|ぎろん}が{長引|ながび}いたので、[[u:いったん]]{休憩|きゅうけい}を{取|と}ることにした。",
+      "options": [
+        "すぐに",
+        "ひとまず",
+        "いきなり",
+        "やっと"
+      ],
+      "answer": 1,
+      "vi": "Cuộc thảo luận kéo dài nên chúng tôi quyết định tạm nghỉ giải lao.",
+      "why": "いったん = tạm thời làm một việc trước rồi tính tiếp → **ひとまず**. すぐに = ngay lập tức (không có ý \"tạm\"); いきなり = đột ngột không báo trước; やっと = cuối cùng thì (sau chờ đợi)."
+    }
+  ],
+  "practice": [
+    {
+      "id": "g16-p1",
+      "kind": "read",
+      "ref": "g16-w29",
+      "q": "{将来|しょうらい}に{備|そな}えて、[[u:貯蓄]]を{増|ふ}やしたい。",
+      "options": [
+        "ちょちく",
+        "ちょうちく",
+        "ちょしゅく",
+        "ちょぞう"
+      ],
+      "answer": 0,
+      "vi": "Tôi muốn tăng tiền tích lũy để chuẩn bị cho tương lai.",
+      "why": "貯 **ちょ** (âm ngắn) + 蓄 **ちく** (蓄積 ちくせき) → **ちょちく**. ちょうちく kéo dài âm sai; ちょしゅく sai âm của 蓄; ちょぞう là 貯蔵 (trữ hàng hoá)."
+    },
+    {
+      "id": "g16-p2",
+      "kind": "read",
+      "ref": "g16-w38",
+      "q": "ローンの[[u:利息]]だけで、{毎月|まいつき}{二万円|にまんえん}もかかる。",
+      "options": [
+        "りえき",
+        "りそく",
+        "りいき",
+        "りしょく"
+      ],
+      "answer": 1,
+      "vi": "Chỉ riêng tiền lãi khoản vay đã tốn tới 20.000 yên mỗi tháng.",
+      "why": "息 đọc **そく** trong từ Hán (休息 きゅうそく, 消息 しょうそく) → **りそく**. りえき là 利益 (lợi nhuận) — bẫy nghĩa gần; りいき, りしょく không tồn tại."
+    },
+    {
+      "id": "g16-p3",
+      "kind": "write",
+      "ref": "g16-w49",
+      "q": "{原油|げんゆ}は{大型|おおがた}タンカーで[[u:ゆそう]]される。",
+      "options": [
+        "輸走",
+        "諭送",
+        "論送",
+        "輸送"
+      ],
+      "answer": 3,
+      "vi": "Dầu thô được vận chuyển bằng tàu chở dầu cỡ lớn.",
+      "why": "**輸送** = 輸 (chuyển đi, như 輸入・輸出) + 送 (gửi). 輸走 — 走 là chạy; 諭 (khuyên bảo, 教諭) và 論 (luận) chỉ giống nét bên phải của 輸."
+    },
+    {
+      "id": "g16-p4",
+      "kind": "write",
+      "ref": "g16-w71",
+      "q": "{春|はる}になったら{畑|はたけ}を[[u:たがやして]]、{種|たね}をまこう。",
+      "options": [
+        "耗して",
+        "拓して",
+        "耕して",
+        "研して"
+      ],
+      "answer": 2,
+      "vi": "Đến mùa xuân thì cày ruộng rồi gieo hạt nào.",
+      "why": "たがやす = **耕す** (CANH trong canh tác). 耗 (hao mòn, 消耗) cùng bộ 耒 nên trông giống; 拓 (khai thác, 開拓) và 研 (mài, 研究) đều không đọc たがや."
+    },
+    {
+      "id": "g16-p5",
+      "kind": "context",
+      "ref": "g16-w75",
+      "q": "{台風|たいふう}の{被害|ひがい}で、りんごの（　　）が{例年|れいねん}より{大幅|おおはば}に{遅|おく}れている。",
+      "options": [
+        "製作",
+        "投資",
+        "需要",
+        "出荷"
+      ],
+      "answer": 3,
+      "vi": "Do thiệt hại từ bão, việc xuất bán táo bị chậm hơn nhiều so với mọi năm.",
+      "why": "Nông sản được chuyển từ vườn ra thị trường → **出荷**. 製作 dùng cho đồ vật, phim; 投資 không hợp với táo; 需要 (nhu cầu) không \"bị chậm\" vì bão."
+    },
+    {
+      "id": "g16-p6",
+      "kind": "context",
+      "ref": "g16-w13",
+      "q": "{父|ちち}は{会社|かいしゃ}を{辞|や}めて、{今|いま}は{小|ちい}さなカフェを（　　）している。",
+      "options": [
+        "投資",
+        "経営",
+        "取引",
+        "製造"
+      ],
+      "answer": 1,
+      "vi": "Bố tôi nghỉ việc ở công ty, giờ đang kinh doanh một quán cà phê nhỏ.",
+      "why": "Làm chủ, điều hành cửa hàng → カフェを**経営**する. 投資 cần trợ từ に (カフェに投資する); 取引 là giao dịch với đối tác (〜と取引する); 製造 là chế tạo hàng, không dùng cho quán."
+    },
+    {
+      "id": "g16-p7",
+      "kind": "paraphrase",
+      "ref": "g16-w32",
+      "q": "{旅行|りょこう}の{前|まえ}に、ATMで{現金|げんきん}を[[u:引き出した]]。",
+      "options": [
+        "下ろした",
+        "預けた",
+        "払い込んだ",
+        "貯めた"
+      ],
+      "answer": 0,
+      "vi": "Trước chuyến du lịch, tôi rút tiền mặt ở ATM.",
+      "why": "Rút tiền từ tài khoản = お金を**下ろす**. 預けた là ngược lại (gửi vào); 払い込んだ = nộp tiền vào (để thanh toán); 貯めた = để dành."
+    },
+    {
+      "id": "g16-p8",
+      "kind": "paraphrase",
+      "ref": "g16-w16",
+      "q": "{今期|こんき}、{会社|かいしゃ}は{久|ひさ}しぶりに[[u:黒字]]になった。",
+      "options": [
+        "資金が足りなくなった",
+        "借金がなくなった",
+        "利益が出た",
+        "給料が上がった"
+      ],
+      "answer": 2,
+      "vi": "Kỳ này công ty đã có lãi lần đầu sau một thời gian dài.",
+      "why": "黒字 = thu lớn hơn chi → **利益が出た**. 資金が足りなくなった gần với 赤字 (ngược nghĩa); 借金がなくなった và 給料が上がった có thể là hệ quả nhưng không phải nghĩa của 黒字."
+    },
+    {
+      "id": "g16-p9",
+      "kind": "formation",
+      "ref": "g16-w79",
+      "q": "{営業部|えいぎょうぶ}の{山田|やまだ}さんは、{毎日|まいにち}{得意|とくい}（　　）を{回|まわ}っている。",
+      "options": [
+        "元",
+        "先",
+        "場",
+        "者"
+      ],
+      "answer": 1,
+      "vi": "Anh Yamada phòng kinh doanh ngày nào cũng đi một vòng các khách hàng quen.",
+      "why": "**得意先** = khách hàng quen; 〜先 = phía đối tác, nơi đến (取引先・連絡先). 得意元, 得意場 không tồn tại; 得意者 không dùng."
+    },
+    {
+      "id": "g16-p10",
+      "kind": "usage",
+      "ref": "g16-w65",
+      "q": "{需要|じゅよう}",
+      "options": [
+        "この{仕事|しごと}には{英語|えいご}の{能力|のうりょく}が[[u:需要]]だ。",
+        "{子|こ}どもの[[u:需要]]を{聞|き}いて、おもちゃを{買|か}ってあげた。",
+        "{今日|きょう}の{会議|かいぎ}では[[u:需要]]な{点|てん}だけ{話|はな}そう。",
+        "{高齢化|こうれいか}が{進|すす}み、{介護|かいご}サービスの[[u:需要]]が{高|たか}まっている。"
+      ],
+      "answer": 3,
+      "vi": "(4) Dân số già hoá, nhu cầu về dịch vụ chăm sóc đang tăng cao.",
+      "why": "需要 = nhu cầu **của thị trường / xã hội** → (4) đúng. (1) cần thiết → 必要; (2) mong muốn của một người → 要求・希望; (3) quan trọng → 重要 (じゅうよう, dễ nhầm với じゅよう). 需要 cũng không phải な形容詞."
+    },
+    {
+      "id": "g16-p11",
+      "kind": "usage",
+      "ref": "g16-w33",
+      "q": "{返済|へんさい}",
+      "options": [
+        "{住宅|じゅうたく}ローンの[[u:返済]]が{来年|らいねん}やっと{終|お}わる。",
+        "{借|か}りた{本|ほん}を{図書館|としょかん}に[[u:返済]]した。",
+        "{友人|ゆうじん}のメールにすぐ[[u:返済]]した。",
+        "サイズが{合|あ}わないので、{服|ふく}を{店|みせ}に[[u:返済]]した。"
+      ],
+      "answer": 0,
+      "vi": "(1) Năm sau cuối cùng cũng trả xong khoản vay mua nhà.",
+      "why": "返済 chỉ dùng cho **tiền vay** → (1) đúng. (2) trả sách → 返却; (3) trả lời thư → 返信; (4) trả lại hàng → 返品. Cả bốn đều có 返 nên rất dễ nhầm."
+    },
+    {
+      "id": "g16-p12",
+      "kind": "context",
+      "ref": "g16-w42",
+      "q": "{事故|じこ}を{起|お}こした{運転手|うんてんしゅ}は、{損害|そんがい}を{賠償|ばいしょう}する{責任|せきにん}を（　　）。",
+      "options": [
+        "納める",
+        "強いる",
+        "負う",
+        "かける"
+      ],
+      "answer": 2,
+      "vi": "Người lái xe gây tai nạn phải chịu trách nhiệm bồi thường thiệt hại.",
+      "why": "責任・義務 + **負う** (người lái xe tự gánh). 納める dùng cho tiền thuế, phí; 強いる cần có người bị ép (〜に〜を強いる); 「責任をかける」 không phải cụm từ đúng (chỉ nói 負担・迷惑をかける)."
+    },
+    {
+      "id": "g16-p13",
+      "kind": "context",
+      "ref": "g16-w85",
+      "q": "{空|そら}がこんなに{暗|くら}いから、{午後|ごご}は（　　）{雨|あめ}になるだろう。",
+      "options": [
+        "決して",
+        "いったん",
+        "なんと",
+        "恐らく"
+      ],
+      "answer": 3,
+      "vi": "Trời tối thế này, có lẽ chiều sẽ mưa.",
+      "why": "Cuối câu là だろう (phỏng đoán) → **恐らく**. 決して cần phủ định; いったん = tạm thời (không hợp với dự đoán thời tiết); なんと dùng khi kể điều bất ngờ đã biết, không đi với だろう."
+    }
+  ],
+  "test": [
+    {
+      "id": "g16-t1",
+      "kind": "read",
+      "ref": "g16-w65",
+      "q": "{夏|なつ}になると、エアコンの[[u:需要]]が{一気|いっき}に{高|たか}まる。",
+      "options": [
+        "じゅうよう",
+        "しゅよう",
+        "じゅよう",
+        "じゅよ"
+      ],
+      "answer": 2,
+      "vi": "Hễ đến hè là nhu cầu máy điều hoà tăng vọt.",
+      "why": "需 **じゅ** (ngắn) + 要 **よう** → **じゅよう**. じゅうよう = 重要 (quan trọng); しゅよう = 主要 (chủ yếu); じゅよ thiếu う ở 要."
+    },
+    {
+      "id": "g16-t2",
+      "kind": "read",
+      "ref": "g16-w75",
+      "q": "{今年|ことし}{最初|さいしょ}のみかんが{市場|しじょう}へ[[u:出荷]]された。",
+      "options": [
+        "しゅっか",
+        "しゅつに",
+        "でに",
+        "しゅっが"
+      ],
+      "answer": 0,
+      "vi": "Mẻ quýt đầu tiên của năm đã được chuyển ra chợ đầu mối.",
+      "why": "出 しゅつ + 荷 **か** (音読み) → biến âm **しゅっか**. しゅつに, でに dùng âm 訓 に của 荷 (荷物 にもつ) — sai trong từ Hán ghép; しゅっが sai vì không có biến âm đục が."
+    },
+    {
+      "id": "g16-t3",
+      "kind": "write",
+      "ref": "g16-w7",
+      "q": "{政府|せいふ}は{温室|おんしつ}{効果|こうか}ガスの{排出|はいしゅつ}を{半分|はんぶん}に[[u:さくげん]]する{目標|もくひょう}を{立|た}てた。",
+      "options": [
+        "削滅",
+        "索減",
+        "作減",
+        "削減"
+      ],
+      "answer": 3,
+      "vi": "Chính phủ đặt mục tiêu cắt giảm một nửa lượng khí thải nhà kính.",
+      "why": "**削減** = 削 (gọt) + 減 (giảm). 削滅 — 滅 (diệt, 滅びる) trông rất giống 減; 索 (tìm kiếm, 検索) và 作 đều đọc さく nhưng sai nghĩa."
+    },
+    {
+      "id": "g16-t4",
+      "kind": "write",
+      "ref": "g16-w62",
+      "q": "この{工場|こうじょう}では{自動車|じどうしゃ}の[[u:ぶひん]]を{作|つく}っている。",
+      "options": [
+        "部晶",
+        "部品",
+        "分品",
+        "武品"
+      ],
+      "answer": 1,
+      "vi": "Nhà máy này làm linh kiện ô tô.",
+      "why": "**部品** = bộ phận + phẩm (hàng). 晶 (tinh thể, 結晶) trông giống 品; 分 và 武 cũng có âm ぶ nhưng không ghép thành từ này."
+    },
+    {
+      "id": "g16-t5",
+      "kind": "context",
+      "ref": "g16-w21",
+      "q": "{将来|しょうらい}{成長|せいちょう}しそうなIT{企業|きぎょう}の{株|かぶ}に（　　）している。",
+      "options": [
+        "投資",
+        "預金",
+        "貯金",
+        "返済"
+      ],
+      "answer": 0,
+      "vi": "Tôi đang đầu tư vào cổ phiếu của các công ty IT có triển vọng phát triển.",
+      "why": "株に + **投資する** (đầu tư vào cổ phiếu). 預金・貯金 là gửi / để dành tiền (ở ngân hàng), không dùng với 株に; 返済 là trả nợ."
+    },
+    {
+      "id": "g16-t6",
+      "kind": "context",
+      "ref": "g16-w55",
+      "q": "{発電所|はつでんしょ}の{役目|やくめ}は、（　　）した{電力|でんりょく}を{家庭|かてい}や{工場|こうじょう}に{送|おく}ることだ。",
+      "options": [
+        "向上",
+        "上昇",
+        "安定",
+        "回復"
+      ],
+      "answer": 2,
+      "vi": "Nhiệm vụ của nhà máy điện là đưa nguồn điện ổn định tới gia đình và nhà máy.",
+      "why": "**安定した**電力 = điện ổn định. 向上した電力, 上昇した電力 không tự nhiên (điện không \"tiến bộ\", con số cũng không được nêu); 回復した電力 chỉ dùng khi điện bị mất rồi có lại."
+    },
+    {
+      "id": "g16-t7",
+      "kind": "paraphrase",
+      "ref": "g16-w60",
+      "q": "{兄|あに}は[[u:大手]]の{電機|でんき}メーカーに{勤|つと}めている。",
+      "options": [
+        "古くからある",
+        "海外の",
+        "有名な",
+        "規模が大きい"
+      ],
+      "answer": 3,
+      "vi": "Anh trai tôi làm việc cho một hãng điện máy lớn.",
+      "why": "大手 = doanh nghiệp **quy mô lớn** trong ngành → **規模が大きい**. 有名な là bẫy: công ty lớn thường nổi tiếng nhưng nghĩa của 大手 là quy mô; 古くからある (lâu đời) và 海外の (nước ngoài) không liên quan."
+    },
+    {
+      "id": "g16-t8",
+      "kind": "paraphrase",
+      "ref": "g16-w11",
+      "q": "{最近|さいきん}、{卵|たまご}が[[u:値上がりして]]いる。",
+      "options": [
+        "安くなって",
+        "高くなって",
+        "少なくなって",
+        "売れなくなって"
+      ],
+      "answer": 1,
+      "vi": "Gần đây trứng đang tăng giá.",
+      "why": "値上がり = giá tăng → **高くなって**. 安くなって là 値下がり (ngược nghĩa); 少なくなって (khan hiếm) có thể là nguyên nhân chứ không phải nghĩa; 売れなくなって không liên quan đến giá."
+    },
+    {
+      "id": "g16-t9",
+      "kind": "formation",
+      "ref": "g16-w83",
+      "q": "この{国|くに}は{石油|せきゆ}や{天然|てんねん}ガスなど、エネルギー（　　）が{豊富|ほうふ}だ。",
+      "options": [
+        "材料",
+        "原料",
+        "資源",
+        "物質"
+      ],
+      "answer": 2,
+      "vi": "Đất nước này giàu tài nguyên năng lượng như dầu mỏ và khí thiên nhiên.",
+      "why": "**エネルギー資源** = tài nguyên năng lượng (từ ghép cố định). 材料 / 原料 là vật liệu, nguyên liệu để làm ra sản phẩm cụ thể (パンの材料); 物質 là vật chất (有害物質), không ghép với エネルギー."
+    },
+    {
+      "id": "g16-t10",
+      "kind": "usage",
+      "ref": "g16-w63",
+      "q": "{製作|せいさく}",
+      "options": [
+        "{学生|がくせい}たちが{文化祭|ぶんかさい}で{上映|じょうえい}する{短編|たんぺん}{映画|えいが}を[[u:製作]]した。",
+        "{毎朝|まいあさ}、{家族|かぞく}のお{弁当|べんとう}を[[u:製作]]している。",
+        "{会議|かいぎ}の{前|まえ}に{資料|しりょう}を[[u:製作]]しておいてください。",
+        "{彼|かれ}は{三十歳|さんじゅっさい}で{新|あたら}しい{会社|かいしゃ}を[[u:製作]]した。"
+      ],
+      "answer": 0,
+      "vi": "(1) Các sinh viên đã làm một bộ phim ngắn để chiếu ở lễ hội trường.",
+      "why": "製作 = làm ra vật phẩm, phim → (1) đúng. (2) làm cơm hộp → 作る; (3) soạn tài liệu → 作成; (4) lập công ty → 設立."
+    },
+    {
+      "id": "g16-t11",
+      "kind": "usage",
+      "ref": "g16-w14",
+      "q": "{転|てん}じる",
+      "options": [
+        "{次|つぎ}の{角|かど}を{右|みぎ}に[[u:転じて]]、まっすぐ{行|い}ってください。",
+        "{子|こ}どもが{公園|こうえん}で[[u:転じて]]、ひざをけがした。",
+        "{電車|でんしゃ}が{遅|おく}れたので、タクシーに[[u:転じた]]。",
+        "{長|なが}く{減|へ}り{続|つづ}けていた{売|う}り{上|あ}げが、{増加|ぞうか}に[[u:転じた]]。"
+      ],
+      "answer": 3,
+      "vi": "(4) Doanh thu vốn giảm liên tục bấy lâu đã chuyển sang tăng.",
+      "why": "転じる = chuyển sang **trạng thái / xu hướng** khác (減少→増加に転じる) → (4) đúng. (1) rẽ ở góc phố → 曲がって; (2) ngã → 転んで (cùng chữ 転 nhưng khác từ); (3) đổi sang đi taxi → タクシーに乗り換えた / タクシーにした."
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 /* ---------- Gộp hai bản tiến độ (đồng bộ nhiều thiết bị) ----------
    Hàm thuần, không dùng DOM, nên chạy được cả trong Node để test.
-   - stats / srs / gcards (thẻ ngữ pháp) / notes / inProgress: mỗi mục giữ bản sửa sau cùng; mục đã xoá (meta.del) chỉ sống lại
+   - stats / srs / gcards (thẻ ngữ pháp) / notes / inProgress / study: mỗi mục giữ bản sửa sau cùng; mục đã xoá (meta.del) chỉ sống lại
      nếu được sửa sau lúc xoá.
    - history: hợp theo id, bỏ bài đã xoá, giữ HISTORY_CAP bài mới nhất.
    - daily: mỗi thiết bị một bộ đếm riêng (by[device]) → lấy bản lớn nhất của từng thiết bị rồi cộng lại,
@@ -20,6 +20,7 @@ const timeOf = {
   gcards: (c) => c.u || Math.max(c.last || 0, c.added || 0),
   notes: (_, id, meta) => meta.noteAt[id] || 0,
   inProgress: (s) => s.updatedAt || s.createdAt || s.startedAt || 0,
+  study: (s) => s.u || s.at || 0, // tiến độ học N2: activityId -> {done, c, n, best, at, u}
 };
 const COLLS = Object.keys(timeOf);
 

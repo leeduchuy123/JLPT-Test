@@ -1,0 +1,4378 @@
+{
+ "id": "g35",
+ "track": "goi",
+ "intro": "Bài này dạy **tiền tố Hán tự** (接頭語): một chữ Hán đứng trước từ để thêm nghĩa. Dạng đề 語形成 thường cho 「（　　）完成」 và bắt chọn đúng chữ đứng trước. Sách chia làm 3 nhóm:\n\n- **Các chữ nghĩa gần nhau** (dễ nhầm nhất): 非・不・無・未 (phủ định), 総・全 / 各・諸 (tất cả / từng), 現・今 (hiện tại), 前・元 (trước đây), 真・正 (đúng, ngay), 逆・反 (ngược), 別・異 (khác).\n- **Chữ mang nghĩa tính từ**: 大・小, 高・低, 長・短, 多・少, 重・軽, 悪・好, 新・旧・古, 急.\n- **Các chữ khác**: 両・片, 初・再, 主・副, 同, 最, 超, 名, 半, 生.\n\nBa mẹo then chốt khi làm bài:\n- **Học theo cụm cố định**: tiền tố không ghép tự do — 非常識 nhưng ✗不常識, 無責任 nhưng ✗不責任. Gặp từ nào hãy nhớ cả cụm.\n- **Nhìn nghĩa của câu**: \"chưa (nhưng sau sẽ)\" → 未; \"không có\" → 無; \"ngay trước\" → 前; \"từng là\" → 元; \"lần đầu\" → 初; \"lại\" → 再.\n- **Cách đọc**: 大 (おお／だい), 長 (なが／ちょう), 不 (ふ／ぶ) là những chỗ đề 読み hay bẫy. Phần lớn tiền tố trong bài đọc âm Hán (音読み): 総(そう), 諸(しょ), 真 lại đọc **ま**, 元 đọc **もと**, 生 đọc **なま**, 古 đọc **ふる**, 片 đọc **かた**, 初 đọc **はつ**.",
+ "sections": [
+  {
+   "title": "非〜",
+   "title_vi": "phi-: không thuộc loại / không phải (phủ định một tính chất, phạm trù)",
+   "words": [
+    {
+     "id": "g35-w1",
+     "w": "非常識",
+     "r": "ひじょうしき",
+     "hv": "PHI THƯỜNG THỨC",
+     "pos": "名・な形",
+     "vi": "thiếu ý thức thông thường, trái lẽ thường, vô duyên",
+     "key": false,
+     "ex": {
+      "ja": "{夜中|よなか}に{大声|おおごえ}で{電話|でんわ}するなんて{非常識|ひじょうしき}だ。",
+      "vi": "Nửa đêm mà gọi điện oang oang thì thật là thiếu ý thức."
+     },
+     "rel": "↔ 常識的"
+    },
+    {
+     "id": "g35-w2",
+     "w": "非公式",
+     "r": "ひこうしき",
+     "hv": "PHI CÔNG THỨC",
+     "pos": "名・な形",
+     "vi": "không chính thức",
+     "key": true,
+     "ex": {
+      "ja": "{両国|りょうこく}の{首相|しゅしょう}が{非公式|ひこうしき}に{会談|かいだん}した。",
+      "vi": "Thủ tướng hai nước đã hội đàm không chính thức."
+     },
+     "rel": "↔ 公式"
+    },
+    {
+     "id": "g35-w3",
+     "w": "非公開",
+     "r": "ひこうかい",
+     "hv": "PHI CÔNG KHAI",
+     "pos": "名",
+     "vi": "không công khai, kín (không cho người ngoài xem/dự)",
+     "key": true,
+     "ex": {
+      "ja": "この{会議|かいぎ}は{非公開|ひこうかい}で{行|おこな}われる。",
+      "vi": "Cuộc họp này được tiến hành kín."
+     },
+     "note": "未公開 = CHƯA công bố (sau này có thể công bố). 非公開 = chủ trương KHÔNG công khai."
+    },
+    {
+     "id": "g35-w4",
+     "w": "非課税",
+     "r": "ひかぜい",
+     "hv": "PHI KHÓA THUẾ",
+     "pos": "名",
+     "vi": "không chịu thuế, miễn thuế",
+     "key": true,
+     "ex": {
+      "ja": "この{手当|てあて}は{非課税|ひかぜい}なので、{税金|ぜいきん}はかからない。",
+      "vi": "Khoản trợ cấp này không chịu thuế nên không bị đánh thuế."
+     }
+    }
+   ]
+  },
+  {
+   "title": "不〜（ふ）",
+   "title_vi": "bất-: không, chẳng (phủ định tính chất / trạng thái)",
+   "words": [
+    {
+     "id": "g35-w5",
+     "w": "不真面目",
+     "r": "ふまじめ",
+     "hv": "BẤT CHÂN DIỆN MỤC",
+     "pos": "な形",
+     "vi": "không nghiêm túc, cẩu thả",
+     "key": false,
+     "ex": {
+      "ja": "{授業中|じゅぎょうちゅう}に{寝|ね}てばかりいる{不真面目|ふまじめ}な{学生|がくせい}。",
+      "vi": "Một sinh viên không nghiêm túc, suốt ngày ngủ trong giờ học."
+     }
+    },
+    {
+     "id": "g35-w6",
+     "w": "不注意",
+     "r": "ふちゅうい",
+     "hv": "BẤT CHÚ Ý",
+     "pos": "名・な形",
+     "vi": "bất cẩn, sơ ý",
+     "key": false,
+     "ex": {
+      "ja": "{運転手|うんてんしゅ}の{不注意|ふちゅうい}で{事故|じこ}が{起|お}きた。",
+      "vi": "Tai nạn xảy ra do sự bất cẩn của tài xế."
+     }
+    },
+    {
+     "id": "g35-w7",
+     "w": "不景気",
+     "r": "ふけいき",
+     "hv": "BẤT CẢNH KHÍ",
+     "pos": "名・な形",
+     "vi": "kinh tế suy thoái, làm ăn ế ẩm",
+     "key": false,
+     "ex": {
+      "ja": "{不景気|ふけいき}で{店|みせ}の{客|きゃく}が{減|へ}った。",
+      "vi": "Vì kinh tế suy thoái nên khách của cửa hàng giảm."
+     },
+     "rel": "↔ 好景気"
+    },
+    {
+     "id": "g35-w8",
+     "w": "不完全",
+     "r": "ふかんぜん",
+     "hv": "BẤT HOÀN TOÀN",
+     "pos": "名・な形",
+     "vi": "không hoàn chỉnh, chưa trọn vẹn",
+     "key": false,
+     "ex": {
+      "ja": "{不完全|ふかんぜん}なデータでは{正|ただ}しい{結論|けつろん}は{出|だ}せない。",
+      "vi": "Với dữ liệu không đầy đủ thì không thể đưa ra kết luận đúng."
+     }
+    },
+    {
+     "id": "g35-w9",
+     "w": "不健康",
+     "r": "ふけんこう",
+     "hv": "BẤT KIỆN KHANG",
+     "pos": "名・な形",
+     "vi": "không lành mạnh, có hại cho sức khỏe",
+     "key": false,
+     "ex": {
+      "ja": "{毎晩|まいばん}{夜更|よふ}かしするのは{不健康|ふけんこう}だ。",
+      "vi": "Đêm nào cũng thức khuya là không lành mạnh."
+     }
+    },
+    {
+     "id": "g35-w10",
+     "w": "不自然",
+     "r": "ふしぜん",
+     "hv": "BẤT TỰ NHIÊN",
+     "pos": "名・な形",
+     "vi": "không tự nhiên, gượng gạo",
+     "key": false,
+     "ex": {
+      "ja": "{彼|かれ}の{笑顔|えがお}はどこか{不自然|ふしぜん}だった。",
+      "vi": "Nụ cười của anh ấy có gì đó gượng gạo."
+     }
+    },
+    {
+     "id": "g35-w11",
+     "w": "不得意",
+     "r": "ふとくい",
+     "hv": "BẤT ĐẮC Ý",
+     "pos": "名・な形",
+     "vi": "kém, không giỏi (môn, việc gì)",
+     "key": false,
+     "ex": {
+      "ja": "{数学|すうがく}は{昔|むかし}から{不得意|ふとくい}だ。",
+      "vi": "Từ xưa tôi đã kém môn toán."
+     },
+     "rel": "≒ 苦手　↔ 得意"
+    },
+    {
+     "id": "g35-w12",
+     "w": "不規則",
+     "r": "ふきそく",
+     "hv": "BẤT QUY TẮC",
+     "pos": "名・な形",
+     "vi": "không đều đặn, thất thường",
+     "key": false,
+     "ex": {
+      "ja": "{不規則|ふきそく}な{生活|せいかつ}を{続|つづ}けると{体|からだ}を{壊|こわ}す。",
+      "vi": "Cứ sống thất thường thì sẽ hại sức khỏe."
+     }
+    },
+    {
+     "id": "g35-w13",
+     "w": "不可能",
+     "r": "ふかのう",
+     "hv": "BẤT KHẢ NĂNG",
+     "pos": "名・な形",
+     "vi": "không thể (làm được)",
+     "key": true,
+     "ex": {
+      "ja": "{一日|いちにち}でこの{仕事|しごと}を{終|お}えるのは{不可能|ふかのう}だ。",
+      "vi": "Làm xong việc này trong một ngày là không thể."
+     },
+     "rel": "↔ 可能"
+    }
+   ]
+  },
+  {
+   "title": "不〜（ぶ）",
+   "title_vi": "bất- đọc ぶ (ngoại lệ cần thuộc)",
+   "words": [
+    {
+     "id": "g35-w14",
+     "w": "不器用",
+     "r": "ぶきよう",
+     "hv": "BẤT KHÍ DỤNG",
+     "pos": "名・な形",
+     "vi": "vụng về (tay chân; hoặc không khéo cư xử)",
+     "key": true,
+     "ex": {
+      "ja": "{私|わたし}は{不器用|ぶきよう}で、ボタン{付|つ}けも{苦手|にがて}だ。",
+      "vi": "Tôi vụng về, đến đơm cúc áo cũng kém."
+     },
+     "rel": "↔ 器用(きよう)",
+     "note": "Đọc **ぶ**きよう, không phải ふきよう. Còn dùng cho tính cách: 不器用な人 = người không khéo léo trong giao tiếp / sống vụng."
+    },
+    {
+     "id": "g35-w15",
+     "w": "不気味",
+     "r": "ぶきみ",
+     "hv": "BẤT KHÍ VỊ",
+     "pos": "名・な形",
+     "vi": "rùng rợn, gai người (đáng sợ một cách khó tả)",
+     "key": true,
+     "ex": {
+      "ja": "{夜|よる}の{学校|がっこう}は{静|しず}かすぎて{不気味|ぶきみ}だ。",
+      "vi": "Trường học ban đêm yên tĩnh quá đến rợn người."
+     },
+     "note": "Đọc **ぶ**きみ."
+    },
+    {
+     "id": "g35-w16",
+     "w": "不作法",
+     "r": "ぶさほう",
+     "hv": "BẤT TÁC PHÁP",
+     "pos": "名・な形",
+     "vi": "vô phép, bất lịch sự",
+     "key": true,
+     "ex": {
+      "ja": "{食事中|しょくじちゅう}にスマホばかり{見|み}るのは{不作法|ぶさほう}だ。",
+      "vi": "Trong bữa ăn mà cứ nhìn điện thoại là vô phép."
+     },
+     "rel": "≒ 無作法(ぶさほう)",
+     "note": "Đọc **ぶ**さほう. Cũng viết 無作法 (đọc vẫn là ぶさほう)."
+    }
+   ]
+  },
+  {
+   "title": "無〜",
+   "title_vi": "vô-: không có (cái N đó)",
+   "words": [
+    {
+     "id": "g35-w17",
+     "w": "無意識",
+     "r": "むいしき",
+     "hv": "VÔ Ý THỨC",
+     "pos": "名・な形",
+     "vi": "vô thức, không ý thức được",
+     "key": false,
+     "ex": {
+      "ja": "{緊張|きんちょう}すると{無意識|むいしき}に{髪|かみ}を{触|さわ}ってしまう。",
+      "vi": "Hễ căng thẳng là tôi vô thức đưa tay sờ tóc."
+     }
+    },
+    {
+     "id": "g35-w18",
+     "w": "無関係",
+     "r": "むかんけい",
+     "hv": "VÔ QUAN HỆ",
+     "pos": "名・な形",
+     "vi": "không liên quan",
+     "key": false,
+     "ex": {
+      "ja": "その{事件|じけん}と{彼|かれ}は{無関係|むかんけい}だ。",
+      "vi": "Anh ấy không liên quan gì tới vụ việc đó."
+     }
+    },
+    {
+     "id": "g35-w19",
+     "w": "無関心",
+     "r": "むかんしん",
+     "hv": "VÔ QUAN TÂM",
+     "pos": "名・な形",
+     "vi": "thờ ơ, không quan tâm",
+     "key": false,
+     "ex": {
+      "ja": "{若者|わかもの}の{政治|せいじ}への{無関心|むかんしん}が{問題|もんだい}になっている。",
+      "vi": "Sự thờ ơ với chính trị của giới trẻ đang trở thành vấn đề."
+     }
+    },
+    {
+     "id": "g35-w20",
+     "w": "無計画",
+     "r": "むけいかく",
+     "hv": "VÔ KẾ HOẠCH",
+     "pos": "名・な形",
+     "vi": "không có kế hoạch, tùy hứng",
+     "key": false,
+     "ex": {
+      "ja": "{無計画|むけいかく}にお{金|かね}を{使|つか}って、{月末|げつまつ}に{困|こま}った。",
+      "vi": "Tiêu tiền không có kế hoạch nên cuối tháng bị chật vật."
+     }
+    },
+    {
+     "id": "g35-w21",
+     "w": "無責任",
+     "r": "むせきにん",
+     "hv": "VÔ TRÁCH NHIỆM",
+     "pos": "名・な形",
+     "vi": "vô trách nhiệm",
+     "key": false,
+     "ex": {
+      "ja": "{途中|とちゅう}で{仕事|しごと}を{投|な}げ{出|だ}すなんて{無責任|むせきにん}だ。",
+      "vi": "Bỏ ngang công việc giữa chừng thì thật vô trách nhiệm."
+     }
+    },
+    {
+     "id": "g35-w22",
+     "w": "無表情",
+     "r": "むひょうじょう",
+     "hv": "VÔ BIỂU TÌNH",
+     "pos": "名・な形",
+     "vi": "mặt không biểu cảm, lạnh tanh",
+     "key": false,
+     "ex": {
+      "ja": "{彼女|かのじょ}は{無表情|むひょうじょう}のまま{話|はなし}を{聞|き}いていた。",
+      "vi": "Cô ấy nghe chuyện với gương mặt không chút biểu cảm."
+     }
+    },
+    {
+     "id": "g35-w23",
+     "w": "無気力",
+     "r": "むきりょく",
+     "hv": "VÔ KHÍ LỰC",
+     "pos": "名・な形",
+     "vi": "uể oải, mất hết ý chí / động lực",
+     "key": true,
+     "ex": {
+      "ja": "{失恋|しつれん}してから、{彼|かれ}は{何|なに}をするにも{無気力|むきりょく}だ。",
+      "vi": "Từ khi thất tình, làm gì anh ấy cũng uể oải."
+     }
+    },
+    {
+     "id": "g35-w24",
+     "w": "無許可",
+     "r": "むきょか",
+     "hv": "VÔ HỨA KHẢ",
+     "pos": "名",
+     "vi": "không có giấy phép, không xin phép",
+     "key": true,
+     "ex": {
+      "ja": "{無許可|むきょか}で{道路|どうろ}に{店|みせ}を{出|だ}してはいけない。",
+      "vi": "Không được bày quán ra đường khi chưa có giấy phép."
+     },
+     "note": "不許可 = (cơ quan) quyết định KHÔNG cho phép; 無許可 = làm mà không có phép."
+    },
+    {
+     "id": "g35-w25",
+     "w": "無反応",
+     "r": "むはんのう",
+     "hv": "VÔ PHẢN ỨNG",
+     "pos": "名・な形",
+     "vi": "không phản ứng",
+     "key": true,
+     "ex": {
+      "ja": "{何度|なんど}{呼|よ}んでも{無反応|むはんのう}で、{心配|しんぱい}になった。",
+      "vi": "Gọi mấy lần cũng không phản ứng nên tôi đâm lo."
+     }
+    }
+   ]
+  },
+  {
+   "title": "未〜",
+   "title_vi": "vị-: chưa (rồi sau sẽ…)",
+   "words": [
+    {
+     "id": "g35-w26",
+     "w": "未確認",
+     "r": "みかくにん",
+     "hv": "VỊ XÁC NHẬN",
+     "pos": "名",
+     "vi": "chưa được xác nhận",
+     "key": false,
+     "ex": {
+      "ja": "{未確認|みかくにん}の{情報|じょうほう}をSNSで{広|ひろ}めないでください。",
+      "vi": "Đừng lan truyền thông tin chưa được xác nhận trên mạng xã hội."
+     },
+     "col": [
+      "未確認飛行物体 (UFO)"
+     ]
+    },
+    {
+     "id": "g35-w27",
+     "w": "未解決",
+     "r": "みかいけつ",
+     "hv": "VỊ GIẢI QUYẾT",
+     "pos": "名",
+     "vi": "chưa được giải quyết",
+     "key": false,
+     "ex": {
+      "ja": "その{事件|じけん}は{今|いま}も{未解決|みかいけつ}のままだ。",
+      "vi": "Vụ án đó đến nay vẫn chưa được giải quyết."
+     }
+    },
+    {
+     "id": "g35-w28",
+     "w": "未経験",
+     "r": "みけいけん",
+     "hv": "VỊ KINH NGHIỆM",
+     "pos": "名",
+     "vi": "chưa có kinh nghiệm",
+     "key": false,
+     "ex": {
+      "ja": "{未経験|みけいけん}の{方|かた}も{歓迎|かんげい}します。",
+      "vi": "Chào đón cả những người chưa có kinh nghiệm."
+     },
+     "note": "Rất hay gặp trong tin tuyển dụng: 未経験者歓迎."
+    },
+    {
+     "id": "g35-w29",
+     "w": "未開発",
+     "r": "みかいはつ",
+     "hv": "VỊ KHAI PHÁT",
+     "pos": "名",
+     "vi": "chưa được khai thác / phát triển",
+     "key": false,
+     "ex": {
+      "ja": "この{地域|ちいき}には{未開発|みかいはつ}の{土地|とち}が{多|おお}く{残|のこ}っている。",
+      "vi": "Vùng này còn nhiều đất chưa được khai thác."
+     }
+    },
+    {
+     "id": "g35-w30",
+     "w": "未発表",
+     "r": "みはっぴょう",
+     "hv": "VỊ PHÁT BIỂU",
+     "pos": "名",
+     "vi": "chưa công bố",
+     "key": true,
+     "ex": {
+      "ja": "{作家|さっか}の{未発表|みはっぴょう}の{作品|さくひん}が{見|み}つかった。",
+      "vi": "Người ta tìm thấy tác phẩm chưa công bố của nhà văn."
+     }
+    },
+    {
+     "id": "g35-w31",
+     "w": "未完成",
+     "r": "みかんせい",
+     "hv": "VỊ HOÀN THÀNH",
+     "pos": "名",
+     "vi": "chưa hoàn thành, dang dở",
+     "key": true,
+     "ex": {
+      "ja": "{画家|がか}が{亡|な}くなったため、この{絵|え}は{未完成|みかんせい}だ。",
+      "vi": "Vì họa sĩ qua đời nên bức tranh này còn dang dở."
+     },
+     "note": "不完全 = không hoàn chỉnh (có khiếm khuyết); 未完成 = chưa làm xong."
+    }
+   ]
+  },
+  {
+   "title": "総〜",
+   "title_vi": "tổng-: cộng tất cả lại thành một",
+   "words": [
+    {
+     "id": "g35-w32",
+     "w": "総人数",
+     "r": "そうにんずう",
+     "hv": "TỔNG NHÂN SỐ",
+     "pos": "名",
+     "vi": "tổng số người",
+     "key": false,
+     "ex": {
+      "ja": "{参加者|さんかしゃ}の{総人数|そうにんずう}は{百人|ひゃくにん}を{超|こ}えた。",
+      "vi": "Tổng số người tham gia đã vượt 100 người."
+     }
+    },
+    {
+     "id": "g35-w33",
+     "w": "総人口",
+     "r": "そうじんこう",
+     "hv": "TỔNG NHÂN KHẨU",
+     "pos": "名",
+     "vi": "tổng dân số",
+     "key": false,
+     "ex": {
+      "ja": "{日本|にほん}の{総人口|そうじんこう}は{減|へ}り{続|つづ}けている。",
+      "vi": "Tổng dân số Nhật Bản tiếp tục giảm."
+     }
+    },
+    {
+     "id": "g35-w34",
+     "w": "総面積",
+     "r": "そうめんせき",
+     "hv": "TỔNG DIỆN TÍCH",
+     "pos": "名",
+     "vi": "tổng diện tích",
+     "key": false,
+     "ex": {
+      "ja": "この{島|しま}の{総面積|そうめんせき}は{東京都|とうきょうと}の{半分|はんぶん}ほどだ。",
+      "vi": "Tổng diện tích hòn đảo này bằng khoảng một nửa Tokyo."
+     }
+    },
+    {
+     "id": "g35-w35",
+     "w": "総復習",
+     "r": "そうふくしゅう",
+     "hv": "TỔNG PHỤC TẬP",
+     "pos": "名・他動",
+     "vi": "ôn tập tổng hợp (toàn bộ)",
+     "key": false,
+     "ex": {
+      "ja": "{試験|しけん}の{前|まえ}に{一年分|いちねんぶん}の{総復習|そうふくしゅう}をする。",
+      "vi": "Trước kỳ thi, tôi ôn tập tổng hợp kiến thức cả năm."
+     }
+    },
+    {
+     "id": "g35-w36",
+     "w": "総選挙",
+     "r": "そうせんきょ",
+     "hv": "TỔNG TUYỂN CỬ",
+     "pos": "名",
+     "vi": "tổng tuyển cử",
+     "key": false,
+     "ex": {
+      "ja": "{来月|らいげつ}、{衆議院|しゅうぎいん}の{総選挙|そうせんきょ}が{行|おこな}われる。",
+      "vi": "Tháng sau sẽ diễn ra tổng tuyển cử Hạ viện."
+     }
+    },
+    {
+     "id": "g35-w37",
+     "w": "総収入",
+     "r": "そうしゅうにゅう",
+     "hv": "TỔNG THU NHẬP",
+     "pos": "名",
+     "vi": "tổng thu nhập",
+     "key": false,
+     "ex": {
+      "ja": "{副業|ふくぎょう}を{含|ふく}めた{総収入|そうしゅうにゅう}を{申告|しんこく}する。",
+      "vi": "Khai báo tổng thu nhập kể cả nghề tay trái."
+     }
+    }
+   ]
+  },
+  {
+   "title": "全〜",
+   "title_vi": "toàn-: toàn bộ, tất cả (không sót)",
+   "words": [
+    {
+     "id": "g35-w38",
+     "w": "全世界",
+     "r": "ぜんせかい",
+     "hv": "TOÀN THẾ GIỚI",
+     "pos": "名",
+     "vi": "toàn thế giới",
+     "key": false,
+     "ex": {
+      "ja": "その{映画|えいが}は{全世界|ぜんせかい}で{同時|どうじ}に{公開|こうかい}された。",
+      "vi": "Bộ phim đó được công chiếu đồng thời trên toàn thế giới."
+     }
+    },
+    {
+     "id": "g35-w39",
+     "w": "全国民",
+     "r": "ぜんこくみん",
+     "hv": "TOÀN QUỐC DÂN",
+     "pos": "名",
+     "vi": "toàn dân, toàn thể quốc dân",
+     "key": false,
+     "ex": {
+      "ja": "{全国民|ぜんこくみん}に{給付金|きゅうふきん}が{支給|しきゅう}された。",
+      "vi": "Tiền trợ cấp đã được phát cho toàn dân."
+     }
+    },
+    {
+     "id": "g35-w40",
+     "w": "全試合",
+     "r": "ぜんしあい",
+     "hv": "TOÀN THÍ HỢP",
+     "pos": "名",
+     "vi": "tất cả các trận đấu",
+     "key": false,
+     "ex": {
+      "ja": "{彼|かれ}は{今季|こんき}の{全試合|ぜんしあい}に{出場|しゅつじょう}した。",
+      "vi": "Anh ấy ra sân trong tất cả các trận mùa này."
+     }
+    },
+    {
+     "id": "g35-w41",
+     "w": "全自動",
+     "r": "ぜんじどう",
+     "hv": "TOÀN TỰ ĐỘNG",
+     "pos": "名",
+     "vi": "hoàn toàn tự động",
+     "key": false,
+     "ex": {
+      "ja": "{全自動|ぜんじどう}の{洗濯機|せんたくき}は{乾燥|かんそう}までしてくれる。",
+      "vi": "Máy giặt hoàn toàn tự động làm cả khâu sấy."
+     }
+    },
+    {
+     "id": "g35-w42",
+     "w": "全財産",
+     "r": "ぜんざいさん",
+     "hv": "TOÀN TÀI SẢN",
+     "pos": "名",
+     "vi": "toàn bộ tài sản",
+     "key": false,
+     "ex": {
+      "ja": "{彼|かれ}は{全財産|ぜんざいさん}を{病院|びょういん}に{寄付|きふ}した。",
+      "vi": "Ông ấy đã quyên toàn bộ tài sản cho bệnh viện."
+     }
+    },
+    {
+     "id": "g35-w43",
+     "w": "全科目",
+     "r": "ぜんかもく",
+     "hv": "TOÀN KHOA MỤC",
+     "pos": "名",
+     "vi": "tất cả các môn",
+     "key": true,
+     "ex": {
+      "ja": "{全科目|ぜんかもく}で{合格点|ごうかくてん}を{取|と}らないと{卒業|そつぎょう}できない。",
+      "vi": "Phải đạt điểm đỗ ở tất cả các môn mới được tốt nghiệp."
+     }
+    }
+   ]
+  },
+  {
+   "title": "各〜",
+   "title_vi": "các-: mỗi, từng (xét riêng từng cái một)",
+   "words": [
+    {
+     "id": "g35-w44",
+     "w": "各学校",
+     "r": "かくがっこう",
+     "hv": "CÁC HỌC HIỆU",
+     "pos": "名",
+     "vi": "mỗi trường, từng trường",
+     "key": false,
+     "ex": {
+      "ja": "{各学校|かくがっこう}から{代表|だいひょう}が{一人|ひとり}ずつ{参加|さんか}する。",
+      "vi": "Mỗi trường cử một đại diện tham gia."
+     }
+    },
+    {
+     "id": "g35-w45",
+     "w": "各地域",
+     "r": "かくちいき",
+     "hv": "CÁC ĐỊA VỰC",
+     "pos": "名",
+     "vi": "từng vùng, các địa phương",
+     "key": false,
+     "ex": {
+      "ja": "{各地域|かくちいき}の{特色|とくしょく}を{生|い}かした{祭|まつ}りが{開|ひら}かれる。",
+      "vi": "Các lễ hội phát huy nét đặc sắc của từng vùng được tổ chức."
+     }
+    },
+    {
+     "id": "g35-w46",
+     "w": "各家庭",
+     "r": "かくかてい",
+     "hv": "CÁC GIA ĐÌNH",
+     "pos": "名",
+     "vi": "từng gia đình, mỗi hộ",
+     "key": false,
+     "ex": {
+      "ja": "{市|し}は{各家庭|かくかてい}にごみの{分|わ}け{方|かた}の{案内|あんない}を{配|くば}った。",
+      "vi": "Thành phố phát hướng dẫn phân loại rác tới từng hộ gia đình."
+     }
+    },
+    {
+     "id": "g35-w47",
+     "w": "各都市",
+     "r": "かくとし",
+     "hv": "CÁC ĐÔ THỊ",
+     "pos": "名",
+     "vi": "các thành phố, từng thành phố",
+     "key": false,
+     "ex": {
+      "ja": "{世界|せかい}の{各都市|かくとし}で{記念|きねん}イベントが{行|おこな}われた。",
+      "vi": "Sự kiện kỷ niệm được tổ chức tại các thành phố trên thế giới."
+     }
+    },
+    {
+     "id": "g35-w48",
+     "w": "各方面",
+     "r": "かくほうめん",
+     "hv": "CÁC PHƯƠNG DIỆN",
+     "pos": "名",
+     "vi": "các giới, các phía, nhiều nơi",
+     "key": true,
+     "ex": {
+      "ja": "その{発言|はつげん}は{各方面|かくほうめん}から{批判|ひはん}を{浴|あ}びた。",
+      "vi": "Phát ngôn đó hứng chỉ trích từ nhiều phía."
+     },
+     "col": [
+      "各方面から批判を浴びる",
+      "各方面に連絡する"
+     ]
+    },
+    {
+     "id": "g35-w49",
+     "w": "各分野",
+     "r": "かくぶんや",
+     "hv": "CÁC PHÂN DÃ",
+     "pos": "名",
+     "vi": "các lĩnh vực, từng lĩnh vực",
+     "key": true,
+     "ex": {
+      "ja": "{各分野|かくぶんや}の{専門家|せんもんか}が{集|あつ}まって{議論|ぎろん}した。",
+      "vi": "Chuyên gia các lĩnh vực tập hợp lại để thảo luận."
+     }
+    }
+   ]
+  },
+  {
+   "title": "諸〜",
+   "title_vi": "chư-: các, nhiều (văn viết, trang trọng)",
+   "words": [
+    {
+     "id": "g35-w50",
+     "w": "諸外国",
+     "r": "しょがいこく",
+     "hv": "CHƯ NGOẠI QUỐC",
+     "pos": "名",
+     "vi": "các nước ngoài",
+     "key": false,
+     "ex": {
+      "ja": "{日本|にほん}の{制度|せいど}を{諸外国|しょがいこく}と{比較|ひかく}する。",
+      "vi": "So sánh chế độ của Nhật với các nước khác."
+     }
+    },
+    {
+     "id": "g35-w51",
+     "w": "諸条件",
+     "r": "しょじょうけん",
+     "hv": "CHƯ ĐIỀU KIỆN",
+     "pos": "名",
+     "vi": "các điều kiện",
+     "key": false,
+     "ex": {
+      "ja": "{給料|きゅうりょう}などの{諸条件|しょじょうけん}を{確認|かくにん}してから{契約|けいやく}する。",
+      "vi": "Xác nhận các điều kiện như lương bổng rồi mới ký hợp đồng."
+     }
+    },
+    {
+     "id": "g35-w52",
+     "w": "諸問題",
+     "r": "しょもんだい",
+     "hv": "CHƯ VẤN ĐỀ",
+     "pos": "名",
+     "vi": "các vấn đề",
+     "key": false,
+     "ex": {
+      "ja": "{高齢化|こうれいか}に{伴|ともな}う{諸問題|しょもんだい}について{話|はな}し{合|あ}う。",
+      "vi": "Bàn về các vấn đề đi kèm già hóa dân số."
+     }
+    },
+    {
+     "id": "g35-w53",
+     "w": "諸費用",
+     "r": "しょひよう",
+     "hv": "CHƯ PHÍ DỤNG",
+     "pos": "名",
+     "vi": "các khoản chi phí",
+     "key": false,
+     "ex": {
+      "ja": "{家|いえ}を{買|か}うときは{税金|ぜいきん}などの{諸費用|しょひよう}もかかる。",
+      "vi": "Khi mua nhà còn mất các khoản phí như thuế."
+     }
+    },
+    {
+     "id": "g35-w54",
+     "w": "諸事情",
+     "r": "しょじじょう",
+     "hv": "CHƯ SỰ TÌNH",
+     "pos": "名",
+     "vi": "nhiều lý do / hoàn cảnh (không nói cụ thể)",
+     "key": true,
+     "ex": {
+      "ja": "{諸事情|しょじじょう}により、{本日|ほんじつ}は{休業|きゅうぎょう}いたします。",
+      "vi": "Vì một số lý do, hôm nay cửa hàng xin nghỉ."
+     },
+     "note": "Cách nói tránh nêu lý do cụ thể, rất hay gặp trong thông báo: 諸事情により〜."
+    }
+   ]
+  },
+  {
+   "title": "現〜",
+   "title_vi": "hiện-: hiện tại, đương nhiệm",
+   "words": [
+    {
+     "id": "g35-w55",
+     "w": "現住所",
+     "r": "げんじゅうしょ",
+     "hv": "HIỆN TRÚ SỞ",
+     "pos": "名",
+     "vi": "địa chỉ hiện tại",
+     "key": false,
+     "ex": {
+      "ja": "{申込書|もうしこみしょ}に{現住所|げんじゅうしょ}を{書|か}いてください。",
+      "vi": "Hãy ghi địa chỉ hiện tại vào đơn đăng ký."
+     }
+    },
+    {
+     "id": "g35-w56",
+     "w": "現市長",
+     "r": "げんしちょう",
+     "hv": "HIỆN THỊ TRƯỞNG",
+     "pos": "名",
+     "vi": "thị trưởng đương nhiệm",
+     "key": false,
+     "ex": {
+      "ja": "{選挙|せんきょ}で{現市長|げんしちょう}が{再選|さいせん}された。",
+      "vi": "Thị trưởng đương nhiệm đã tái đắc cử."
+     }
+    },
+    {
+     "id": "g35-w57",
+     "w": "現段階",
+     "r": "げんだんかい",
+     "hv": "HIỆN GIAI ĐOẠN",
+     "pos": "名",
+     "vi": "giai đoạn hiện nay",
+     "key": true,
+     "ex": {
+      "ja": "{現段階|げんだんかい}では{事故|じこ}の{原因|げんいん}はわかっていない。",
+      "vi": "Ở giai đoạn hiện tại vẫn chưa rõ nguyên nhân tai nạn."
+     }
+    },
+    {
+     "id": "g35-w58",
+     "w": "現時点",
+     "r": "げんじてん",
+     "hv": "HIỆN THỜI ĐIỂM",
+     "pos": "名",
+     "vi": "thời điểm hiện tại",
+     "key": true,
+     "ex": {
+      "ja": "{現時点|げんじてん}で{申込者|もうしこみしゃ}は{五十人|ごじゅうにん}です。",
+      "vi": "Tính đến thời điểm hiện tại có 50 người đăng ký."
+     }
+    }
+   ]
+  },
+  {
+   "title": "今〜",
+   "title_vi": "kim- (こん): … này, … hiện tại",
+   "words": [
+    {
+     "id": "g35-w59",
+     "w": "今年度",
+     "r": "こんねんど",
+     "hv": "KIM NIÊN ĐỘ",
+     "pos": "名",
+     "vi": "năm tài chính / năm học này",
+     "key": true,
+     "ex": {
+      "ja": "{今年度|こんねんど}の{予算|よさん}はもう{使|つか}い{切|き}った。",
+      "vi": "Ngân sách năm nay đã dùng hết rồi."
+     }
+    },
+    {
+     "id": "g35-w60",
+     "w": "今学期",
+     "r": "こんがっき",
+     "hv": "KIM HỌC KỲ",
+     "pos": "名",
+     "vi": "học kỳ này",
+     "key": true,
+     "ex": {
+      "ja": "{今学期|こんがっき}から{新|あたら}しい{先生|せんせい}が{担任|たんにん}になった。",
+      "vi": "Từ học kỳ này có giáo viên mới làm chủ nhiệm."
+     }
+    },
+    {
+     "id": "g35-w61",
+     "w": "今世紀",
+     "r": "こんせいき",
+     "hv": "KIM THẾ KỶ",
+     "pos": "名",
+     "vi": "thế kỷ này",
+     "key": true,
+     "ex": {
+      "ja": "これは{今世紀|こんせいき}{最大|さいだい}の{発見|はっけん}だと{言|い}われている。",
+      "vi": "Người ta cho rằng đây là phát hiện lớn nhất thế kỷ này."
+     }
+    },
+    {
+     "id": "g35-w62",
+     "w": "今シーズン",
+     "r": "こんシーズン",
+     "hv": "KIM",
+     "pos": "名",
+     "vi": "mùa (giải, du lịch…) này",
+     "key": true,
+     "ex": {
+      "ja": "{今|こん}シーズン{初|はつ}の{雪|ゆき}が{降|ふ}った。",
+      "vi": "Trận tuyết đầu tiên của mùa này đã rơi."
+     }
+    }
+   ]
+  },
+  {
+   "title": "前〜",
+   "title_vi": "tiền- (ぜん): người / kỳ ngay trước (tiền nhiệm)",
+   "words": [
+    {
+     "id": "g35-w63",
+     "w": "前大統領",
+     "r": "ぜんだいとうりょう",
+     "hv": "TIỀN ĐẠI THỐNG LĨNH",
+     "pos": "名",
+     "vi": "cựu tổng thống (người ngay trước tổng thống hiện tại)",
+     "key": false,
+     "ex": {
+      "ja": "{前大統領|ぜんだいとうりょう}が{新大統領|しんだいとうりょう}の{就任式|しゅうにんしき}に{出席|しゅっせき}した。",
+      "vi": "Tổng thống tiền nhiệm đã dự lễ nhậm chức của tân tổng thống."
+     }
+    },
+    {
+     "id": "g35-w64",
+     "w": "前首相",
+     "r": "ぜんしゅしょう",
+     "hv": "TIỀN THỦ TƯỚNG",
+     "pos": "名",
+     "vi": "thủ tướng tiền nhiệm",
+     "key": false,
+     "ex": {
+      "ja": "{新首相|しんしゅしょう}は{前首相|ぜんしゅしょう}の{政策|せいさく}を{引|ひ}き{継|つ}いだ。",
+      "vi": "Tân thủ tướng kế thừa chính sách của thủ tướng tiền nhiệm."
+     }
+    },
+    {
+     "id": "g35-w65",
+     "w": "前社長",
+     "r": "ぜんしゃちょう",
+     "hv": "TIỀN XÃ TRƯỞNG",
+     "pos": "名",
+     "vi": "giám đốc tiền nhiệm",
+     "key": false,
+     "ex": {
+      "ja": "{前社長|ぜんしゃちょう}は{今|いま}、{会長|かいちょう}を{務|つと}めている。",
+      "vi": "Giám đốc tiền nhiệm hiện giữ chức chủ tịch."
+     }
+    },
+    {
+     "id": "g35-w66",
+     "w": "前会長",
+     "r": "ぜんかいちょう",
+     "hv": "TIỀN HỘI TRƯỞNG",
+     "pos": "名",
+     "vi": "chủ tịch (hội) tiền nhiệm",
+     "key": false,
+     "ex": {
+      "ja": "{前会長|ぜんかいちょう}の{時代|じだい}に{会員|かいいん}が{倍|ばい}に{増|ふ}えた。",
+      "vi": "Thời chủ tịch tiền nhiệm, số hội viên tăng gấp đôi."
+     }
+    },
+    {
+     "id": "g35-w67",
+     "w": "前年度",
+     "r": "ぜんねんど",
+     "hv": "TIỀN NIÊN ĐỘ",
+     "pos": "名",
+     "vi": "năm (tài chính) trước",
+     "key": false,
+     "ex": {
+      "ja": "{売上|うりあげ}は{前年度|ぜんねんど}より{一割|いちわり}{増|ふ}えた。",
+      "vi": "Doanh thu tăng 10% so với năm trước."
+     }
+    }
+   ]
+  },
+  {
+   "title": "元〜",
+   "title_vi": "nguyên- (もと): cựu, trước đây từng là",
+   "words": [
+    {
+     "id": "g35-w68",
+     "w": "元大統領",
+     "r": "もとだいとうりょう",
+     "hv": "NGUYÊN ĐẠI THỐNG LĨNH",
+     "pos": "名",
+     "vi": "cựu tổng thống (đã từng là, không nhất thiết ngay trước)",
+     "key": false,
+     "ex": {
+      "ja": "{元大統領|もとだいとうりょう}が{回顧録|かいころく}を{出版|しゅっぱん}した。",
+      "vi": "Một cựu tổng thống đã xuất bản hồi ký."
+     }
+    },
+    {
+     "id": "g35-w69",
+     "w": "元首相",
+     "r": "もとしゅしょう",
+     "hv": "NGUYÊN THỦ TƯỚNG",
+     "pos": "名",
+     "vi": "cựu thủ tướng",
+     "key": false,
+     "ex": {
+      "ja": "{元首相|もとしゅしょう}が{九十歳|きゅうじゅっさい}で{亡|な}くなった。",
+      "vi": "Một cựu thủ tướng đã qua đời ở tuổi 90."
+     }
+    },
+    {
+     "id": "g35-w70",
+     "w": "元歌手",
+     "r": "もとかしゅ",
+     "hv": "NGUYÊN CA THỦ",
+     "pos": "名",
+     "vi": "cựu ca sĩ (trước đây là ca sĩ)",
+     "key": false,
+     "ex": {
+      "ja": "{元歌手|もとかしゅ}の{彼女|かのじょ}は{今|いま}、カフェを{経営|けいえい}している。",
+      "vi": "Cô ấy từng là ca sĩ, giờ đang kinh doanh quán cà phê."
+     }
+    },
+    {
+     "id": "g35-w71",
+     "w": "元スポーツ選手",
+     "r": "もとスポーツせんしゅ",
+     "hv": "NGUYÊN TUYỂN THỦ",
+     "pos": "名",
+     "vi": "cựu vận động viên",
+     "key": false,
+     "ex": {
+      "ja": "{元|もと}スポーツ{選手|せんしゅ}がテレビで{試合|しあい}を{解説|かいせつ}している。",
+      "vi": "Một cựu vận động viên đang bình luận trận đấu trên TV."
+     }
+    },
+    {
+     "id": "g35-w72",
+     "w": "元夫",
+     "r": "もとおっと",
+     "hv": "NGUYÊN PHU",
+     "pos": "名",
+     "vi": "chồng cũ",
+     "key": false,
+     "ex": {
+      "ja": "{元夫|もとおっと}とは{離婚|りこん}した{後|あと}も{連絡|れんらく}を{取|と}っている。",
+      "vi": "Sau khi ly hôn tôi vẫn giữ liên lạc với chồng cũ."
+     }
+    },
+    {
+     "id": "g35-w73",
+     "w": "元妻",
+     "r": "もとつま",
+     "hv": "NGUYÊN THÊ",
+     "pos": "名",
+     "vi": "vợ cũ",
+     "key": false,
+     "ex": {
+      "ja": "{彼|かれ}は{元妻|もとつま}に{子|こ}どもの{養育費|よういくひ}を{払|はら}っている。",
+      "vi": "Anh ấy trả tiền nuôi con cho vợ cũ."
+     }
+    }
+   ]
+  },
+  {
+   "title": "真〜",
+   "title_vi": "chân- (ま): đúng, ngay, hoàn toàn (nhấn mạnh)",
+   "words": [
+    {
+     "id": "g35-w74",
+     "w": "真新しい",
+     "r": "まあたらしい",
+     "hv": "CHÂN TÂN",
+     "pos": "い形",
+     "vi": "mới tinh",
+     "key": false,
+     "ex": {
+      "ja": "{真新|まあたら}しい{制服|せいふく}を{着|き}て{入学式|にゅうがくしき}に{行|い}く。",
+      "vi": "Mặc bộ đồng phục mới tinh đi dự lễ nhập học."
+     }
+    },
+    {
+     "id": "g35-w75",
+     "w": "真夜中",
+     "r": "まよなか",
+     "hv": "CHÂN DẠ TRUNG",
+     "pos": "名",
+     "vi": "nửa đêm, giữa đêm khuya",
+     "key": false,
+     "ex": {
+      "ja": "{真夜中|まよなか}に{電話|でんわ}が{鳴|な}って{目|め}が{覚|さ}めた。",
+      "vi": "Nửa đêm chuông điện thoại reo làm tôi tỉnh giấc."
+     }
+    },
+    {
+     "id": "g35-w76",
+     "w": "真正面",
+     "r": "ましょうめん",
+     "hv": "CHÂN CHÍNH DIỆN",
+     "pos": "名",
+     "vi": "ngay chính diện",
+     "key": false,
+     "ex": {
+      "ja": "{駅|えき}の{真正面|ましょうめん}に{新|あたら}しいホテルができた。",
+      "vi": "Ngay chính diện nhà ga mới mọc lên một khách sạn."
+     }
+    },
+    {
+     "id": "g35-w77",
+     "w": "真後ろ",
+     "r": "まうしろ",
+     "hv": "CHÂN HẬU",
+     "pos": "名",
+     "vi": "ngay phía sau",
+     "key": false,
+     "ex": {
+      "ja": "{映画館|えいがかん}で{真後|まうし}ろの{人|ひと}がずっと{話|はな}していた。",
+      "vi": "Ở rạp chiếu phim, người ngồi ngay sau lưng nói chuyện suốt."
+     }
+    },
+    {
+     "id": "g35-w78",
+     "w": "真下",
+     "r": "ました",
+     "hv": "CHÂN HẠ",
+     "pos": "名",
+     "vi": "ngay bên dưới",
+     "key": false,
+     "ex": {
+      "ja": "{橋|はし}の{真下|ました}で{雨宿|あまやど}りをした。",
+      "vi": "Tôi trú mưa ngay dưới gầm cầu."
+     }
+    },
+    {
+     "id": "g35-w79",
+     "w": "真上",
+     "r": "まうえ",
+     "hv": "CHÂN THƯỢNG",
+     "pos": "名",
+     "vi": "ngay bên trên, ngay trên đầu",
+     "key": false,
+     "ex": {
+      "ja": "{正午|しょうご}には{太陽|たいよう}がほぼ{真上|まうえ}に{来|く}る。",
+      "vi": "Giữa trưa mặt trời gần như ở ngay trên đỉnh đầu."
+     }
+    },
+    {
+     "id": "g35-w80",
+     "w": "真四角",
+     "r": "ましかく",
+     "hv": "CHÂN TỨ GIÁC",
+     "pos": "名・な形",
+     "vi": "vuông vức",
+     "key": false,
+     "ex": {
+      "ja": "{紙|かみ}を{真四角|ましかく}に{切|き}って{折|お}り{紙|がみ}を{作|つく}る。",
+      "vi": "Cắt giấy thành hình vuông vức để gấp origami."
+     }
+    },
+    {
+     "id": "g35-w81",
+     "w": "真向かい",
+     "r": "まむかい",
+     "hv": "CHÂN HƯỚNG",
+     "pos": "名",
+     "vi": "ngay đối diện",
+     "key": true,
+     "ex": {
+      "ja": "{私|わたし}の{家|いえ}の{真向|まむ}かいにコンビニがある。",
+      "vi": "Ngay đối diện nhà tôi có cửa hàng tiện lợi."
+     }
+    }
+   ]
+  },
+  {
+   "title": "正〜",
+   "title_vi": "chính- (せい): đúng chuẩn, chính thức, hoàn toàn",
+   "words": [
+    {
+     "id": "g35-w82",
+     "w": "正反対",
+     "r": "せいはんたい",
+     "hv": "CHÍNH PHẢN ĐỐI",
+     "pos": "名・な形",
+     "vi": "hoàn toàn trái ngược",
+     "key": false,
+     "ex": {
+      "ja": "{兄|あに}と{私|わたし}は{性格|せいかく}が{正反対|せいはんたい}だ。",
+      "vi": "Anh trai tôi và tôi tính cách trái ngược hoàn toàn."
+     }
+    },
+    {
+     "id": "g35-w83",
+     "w": "正三角形",
+     "r": "せいさんかっけい",
+     "hv": "CHÍNH TAM GIÁC HÌNH",
+     "pos": "名",
+     "vi": "tam giác đều",
+     "key": false,
+     "ex": {
+      "ja": "{正三角形|せいさんかっけい}の{角|かく}はすべて60{度|ど}だ。",
+      "vi": "Các góc của tam giác đều đều bằng 60 độ."
+     }
+    },
+    {
+     "id": "g35-w84",
+     "w": "正五角形",
+     "r": "せいごかっけい",
+     "hv": "CHÍNH NGŨ GIÁC HÌNH",
+     "pos": "名",
+     "vi": "ngũ giác đều",
+     "key": false,
+     "ex": {
+      "ja": "サッカーボールには{正五角形|せいごかっけい}の{模様|もよう}がある。",
+      "vi": "Quả bóng đá có họa tiết hình ngũ giác đều."
+     }
+    },
+    {
+     "id": "g35-w85",
+     "w": "正社員",
+     "r": "せいしゃいん",
+     "hv": "CHÍNH XÃ VIÊN",
+     "pos": "名",
+     "vi": "nhân viên chính thức",
+     "key": false,
+     "ex": {
+      "ja": "{三年|さんねん}{働|はたら}いて、ようやく{正社員|せいしゃいん}になれた。",
+      "vi": "Làm 3 năm, cuối cùng tôi cũng thành nhân viên chính thức."
+     },
+     "rel": "↔ 契約社員・派遣社員・アルバイト"
+    },
+    {
+     "id": "g35-w86",
+     "w": "正比例",
+     "r": "せいひれい",
+     "hv": "CHÍNH TỈ LỆ",
+     "pos": "名・自動",
+     "vi": "tỉ lệ thuận",
+     "key": true,
+     "ex": {
+      "ja": "{走|はし}る{距離|きょり}は{時間|じかん}に{正比例|せいひれい}する。",
+      "vi": "Quãng đường chạy tỉ lệ thuận với thời gian."
+     },
+     "rel": "↔ 反比例"
+    }
+   ]
+  },
+  {
+   "title": "逆〜",
+   "title_vi": "nghịch- (ぎゃく): ngược lại (chiều, thứ tự, kết quả)",
+   "words": [
+    {
+     "id": "g35-w87",
+     "w": "逆方向",
+     "r": "ぎゃくほうこう",
+     "hv": "NGHỊCH PHƯƠNG HƯỚNG",
+     "pos": "名",
+     "vi": "hướng ngược lại",
+     "key": false,
+     "ex": {
+      "ja": "{急|いそ}いでいて{逆方向|ぎゃくほうこう}の{電車|でんしゃ}に{乗|の}ってしまった。",
+      "vi": "Vội quá nên tôi lên nhầm tàu đi chiều ngược lại."
+     }
+    },
+    {
+     "id": "g35-w88",
+     "w": "逆輸入",
+     "r": "ぎゃくゆにゅう",
+     "hv": "NGHỊCH THÂU NHẬP",
+     "pos": "名・他動",
+     "vi": "nhập khẩu ngược (hàng của nước mình sản xuất/bán ở nước ngoài rồi nhập về)",
+     "key": false,
+     "ex": {
+      "ja": "{海外|かいがい}{工場|こうじょう}で{作|つく}った{日本車|にほんしゃ}を{逆輸入|ぎゃくゆにゅう}する。",
+      "vi": "Nhập ngược về những chiếc xe Nhật sản xuất ở nhà máy nước ngoài."
+     }
+    },
+    {
+     "id": "g35-w89",
+     "w": "逆コース",
+     "r": "ぎゃくコース",
+     "hv": "NGHỊCH",
+     "pos": "名",
+     "vi": "lộ trình ngược lại",
+     "key": false,
+     "ex": {
+      "ja": "いつもと{逆|ぎゃく}コースで{散歩|さんぽ}してみた。",
+      "vi": "Tôi thử đi dạo theo lộ trình ngược với mọi khi."
+     }
+    },
+    {
+     "id": "g35-w90",
+     "w": "逆効果",
+     "r": "ぎゃくこうか",
+     "hv": "NGHỊCH HIỆU QUẢ",
+     "pos": "名",
+     "vi": "phản tác dụng",
+     "key": false,
+     "ex": {
+      "ja": "{厳|きび}しく{叱|しか}りすぎると{逆効果|ぎゃくこうか}になる。",
+      "vi": "Mắng quá gắt thì sẽ phản tác dụng."
+     }
+    }
+   ]
+  },
+  {
+   "title": "反〜",
+   "title_vi": "phản- (はん): chống lại, đối nghịch",
+   "words": [
+    {
+     "id": "g35-w91",
+     "w": "反時計回り",
+     "r": "はんとけいまわり",
+     "hv": "PHẢN THỜI KẾ HỒI",
+     "pos": "名",
+     "vi": "ngược chiều kim đồng hồ",
+     "key": true,
+     "ex": {
+      "ja": "ねじを{反時計回|はんとけいまわ}りに{回|まわ}すと{緩|ゆる}む。",
+      "vi": "Vặn ốc ngược chiều kim đồng hồ thì ốc lỏng ra."
+     },
+     "rel": "↔ 時計回り"
+    },
+    {
+     "id": "g35-w92",
+     "w": "反社会的",
+     "r": "はんしゃかいてき",
+     "hv": "PHẢN XÃ HỘI ĐÍCH",
+     "pos": "な形",
+     "vi": "phản xã hội, chống đối xã hội",
+     "key": true,
+     "ex": {
+      "ja": "{反社会的|はんしゃかいてき}な{団体|だんたい}との{取引|とりひき}は{禁止|きんし}されている。",
+      "vi": "Giao dịch với các tổ chức phản xã hội bị cấm."
+     }
+    },
+    {
+     "id": "g35-w93",
+     "w": "反比例",
+     "r": "はんぴれい",
+     "hv": "PHẢN TỈ LỆ",
+     "pos": "名・自動",
+     "vi": "tỉ lệ nghịch",
+     "key": true,
+     "ex": {
+      "ja": "{速度|そくど}を{上|あ}げるほど、かかる{時間|じかん}は{反比例|はんぴれい}して{短|みじか}くなる。",
+      "vi": "Tốc độ càng tăng thì thời gian cần tỉ lệ nghịch mà rút ngắn lại."
+     },
+     "note": "Đọc はん**ぴ**れい (bán âm đục)."
+    }
+   ]
+  },
+  {
+   "title": "別〜",
+   "title_vi": "biệt- (べつ): khác, riêng (cái khác cùng loại)",
+   "words": [
+    {
+     "id": "g35-w94",
+     "w": "別方向",
+     "r": "べつほうこう",
+     "hv": "BIỆT PHƯƠNG HƯỚNG",
+     "pos": "名",
+     "vi": "hướng khác",
+     "key": false,
+     "ex": {
+      "ja": "{駅|えき}を{出|で}ると、{二人|ふたり}は{別方向|べつほうこう}に{歩|ある}き{出|だ}した。",
+      "vi": "Ra khỏi ga, hai người bước đi theo hai hướng khác nhau."
+     }
+    },
+    {
+     "id": "g35-w95",
+     "w": "別問題",
+     "r": "べつもんだい",
+     "hv": "BIỆT VẤN ĐỀ",
+     "pos": "名",
+     "vi": "chuyện khác, vấn đề riêng",
+     "key": false,
+     "ex": {
+      "ja": "{好|す}きかどうかと{向|む}いているかどうかは{別問題|べつもんだい}だ。",
+      "vi": "Thích hay không và có hợp hay không là hai chuyện khác nhau."
+     }
+    },
+    {
+     "id": "g35-w96",
+     "w": "別行動",
+     "r": "べつこうどう",
+     "hv": "BIỆT HÀNH ĐỘNG",
+     "pos": "名・自動",
+     "vi": "đi riêng, hoạt động riêng (tách khỏi nhóm)",
+     "key": false,
+     "ex": {
+      "ja": "{午後|ごご}は{別行動|べつこうどう}にして、{夜|よる}ホテルで{会|あ}おう。",
+      "vi": "Chiều thì đi riêng, tối gặp nhau ở khách sạn nhé."
+     }
+    },
+    {
+     "id": "g35-w97",
+     "w": "別世界",
+     "r": "べっせかい",
+     "hv": "BIỆT THẾ GIỚI",
+     "pos": "名",
+     "vi": "một thế giới khác hẳn",
+     "key": false,
+     "ex": {
+      "ja": "{山頂|さんちょう}から{見|み}る{景色|けしき}はまるで{別世界|べっせかい}だった。",
+      "vi": "Phong cảnh nhìn từ đỉnh núi cứ như một thế giới khác."
+     },
+     "note": "Đọc **べっ**せかい (âm ngắt)."
+    }
+   ]
+  },
+  {
+   "title": "異〜",
+   "title_vi": "dị- (い): khác loại, khác hẳn (so với cái của mình)",
+   "words": [
+    {
+     "id": "g35-w98",
+     "w": "異分野",
+     "r": "いぶんや",
+     "hv": "DỊ PHÂN DÃ",
+     "pos": "名",
+     "vi": "lĩnh vực khác",
+     "key": false,
+     "ex": {
+      "ja": "{異分野|いぶんや}の{研究者|けんきゅうしゃ}と{協力|きょうりょく}して{新薬|しんやく}を{作|つく}る。",
+      "vi": "Hợp tác với nhà nghiên cứu ngành khác để tạo ra thuốc mới."
+     }
+    },
+    {
+     "id": "g35-w99",
+     "w": "異文化",
+     "r": "いぶんか",
+     "hv": "DỊ VĂN HÓA",
+     "pos": "名",
+     "vi": "văn hóa khác (văn hóa nước ngoài)",
+     "key": false,
+     "ex": {
+      "ja": "{留学|りゅうがく}して{初|はじ}めて{異文化|いぶんか}に{触|ふ}れた。",
+      "vi": "Đi du học tôi mới lần đầu tiếp xúc với văn hóa khác."
+     },
+     "col": [
+      "異文化交流",
+      "異文化理解"
+     ]
+    },
+    {
+     "id": "g35-w100",
+     "w": "異民族",
+     "r": "いみんぞく",
+     "hv": "DỊ DÂN TỘC",
+     "pos": "名",
+     "vi": "dân tộc khác",
+     "key": true,
+     "ex": {
+      "ja": "この{国|くに}は{昔|むかし}、{異民族|いみんぞく}に{支配|しはい}されていた。",
+      "vi": "Đất nước này xưa kia từng bị dân tộc khác cai trị."
+     }
+    },
+    {
+     "id": "g35-w101",
+     "w": "異業種",
+     "r": "いぎょうしゅ",
+     "hv": "DỊ NGHIỆP CHỦNG",
+     "pos": "名",
+     "vi": "ngành nghề khác",
+     "key": true,
+     "ex": {
+      "ja": "{異業種|いぎょうしゅ}{交流会|こうりゅうかい}で{人脈|じんみゃく}を{広|ひろ}げる。",
+      "vi": "Mở rộng quan hệ ở buổi giao lưu liên ngành."
+     }
+    }
+   ]
+  },
+  {
+   "title": "大〜（おお）",
+   "title_vi": "đại- đọc おお: to, lớn, rất (thường + từ thuần Nhật)",
+   "words": [
+    {
+     "id": "g35-w102",
+     "w": "大地震",
+     "r": "おおじしん",
+     "hv": "ĐẠI ĐỊA CHẤN",
+     "pos": "名",
+     "vi": "trận động đất lớn",
+     "key": false,
+     "ex": {
+      "ja": "{大地震|おおじしん}に{備|そな}えて{水|みず}を{買|か}っておく。",
+      "vi": "Mua sẵn nước để phòng động đất lớn."
+     },
+     "note": "Ngoại lệ: 地震 là từ Hán nhưng sách đọc おおじしん (cũng nghe だいじしん)."
+    },
+    {
+     "id": "g35-w103",
+     "w": "大掃除",
+     "r": "おおそうじ",
+     "hv": "ĐẠI TẢO TRỪ",
+     "pos": "名・他動",
+     "vi": "tổng vệ sinh",
+     "key": false,
+     "ex": {
+      "ja": "{年末|ねんまつ}に{家族|かぞく}で{大掃除|おおそうじ}をする。",
+      "vi": "Cuối năm cả nhà tổng vệ sinh."
+     },
+     "note": "Ngoại lệ: 掃除 là từ Hán nhưng đọc おお."
+    },
+    {
+     "id": "g35-w104",
+     "w": "大けが",
+     "r": "おおけが",
+     "hv": "ĐẠI",
+     "pos": "名",
+     "vi": "vết thương nặng, bị thương nặng",
+     "key": false,
+     "ex": {
+      "ja": "{階段|かいだん}から{落|お}ちて{大|おお}けがをした。",
+      "vi": "Ngã cầu thang bị thương nặng."
+     },
+     "col": [
+      "大けがをする"
+     ]
+    },
+    {
+     "id": "g35-w105",
+     "w": "大雨",
+     "r": "おおあめ",
+     "hv": "ĐẠI VŨ",
+     "pos": "名",
+     "vi": "mưa to",
+     "key": false,
+     "ex": {
+      "ja": "{大雨|おおあめ}で{電車|でんしゃ}が{止|と}まった。",
+      "vi": "Tàu dừng chạy vì mưa to."
+     },
+     "rel": "↔ 小雨(こさめ)"
+    },
+    {
+     "id": "g35-w106",
+     "w": "大人数",
+     "r": "おおにんずう",
+     "hv": "ĐẠI NHÂN SỐ",
+     "pos": "名",
+     "vi": "đông người",
+     "key": false,
+     "ex": {
+      "ja": "{大人数|おおにんずう}で{入|はい}れる{店|みせ}を{探|さが}している。",
+      "vi": "Đang tìm quán vào được với đông người."
+     },
+     "rel": "≒ 多人数　↔ 少人数",
+     "note": "Ngoại lệ: đọc おお."
+    },
+    {
+     "id": "g35-w107",
+     "w": "大騒ぎ",
+     "r": "おおさわぎ",
+     "hv": "ĐẠI TAO",
+     "pos": "名・自動",
+     "vi": "náo loạn, làm ầm lên",
+     "key": false,
+     "ex": {
+      "ja": "{財布|さいふ}がないと{大騒|おおさわ}ぎしたら、かばんの{中|なか}にあった。",
+      "vi": "Làm ầm lên là mất ví, hóa ra nó ở trong cặp."
+     }
+    },
+    {
+     "id": "g35-w108",
+     "w": "大違い",
+     "r": "おおちがい",
+     "hv": "ĐẠI VI",
+     "pos": "名",
+     "vi": "khác một trời một vực",
+     "key": false,
+     "ex": {
+      "ja": "{話|はなし}に{聞|き}くのと{実際|じっさい}に{見|み}るのとでは{大違|おおちが}いだ。",
+      "vi": "Nghe kể với tận mắt thấy khác nhau một trời một vực."
+     }
+    },
+    {
+     "id": "g35-w109",
+     "w": "大急ぎ",
+     "r": "おおいそぎ",
+     "hv": "ĐẠI CẤP",
+     "pos": "名",
+     "vi": "hết sức vội vã",
+     "key": false,
+     "ex": {
+      "ja": "{寝坊|ねぼう}して{大急|おおいそ}ぎで{家|いえ}を{出|で}た。",
+      "vi": "Ngủ quên nên tôi cuống cuồng ra khỏi nhà."
+     }
+    },
+    {
+     "id": "g35-w110",
+     "w": "大忙し",
+     "r": "おおいそがし",
+     "hv": "ĐẠI MANG",
+     "pos": "名・な形",
+     "vi": "bận tối mắt tối mũi",
+     "key": false,
+     "ex": {
+      "ja": "{年末|ねんまつ}はどの{店|みせ}も{大忙|おおいそが}しだ。",
+      "vi": "Cuối năm cửa hàng nào cũng bận tối mắt."
+     }
+    }
+   ]
+  },
+  {
+   "title": "大〜（だい）",
+   "title_vi": "đại- đọc だい: lớn, rất (thường + từ Hán)",
+   "words": [
+    {
+     "id": "g35-w111",
+     "w": "大家族",
+     "r": "だいかぞく",
+     "hv": "ĐẠI GIA TỘC",
+     "pos": "名",
+     "vi": "đại gia đình (nhiều thành viên)",
+     "key": false,
+     "ex": {
+      "ja": "{祖父母|そふぼ}も{一緒|いっしょ}に{暮|く}らす{大家族|だいかぞく}で{育|そだ}った。",
+      "vi": "Tôi lớn lên trong một đại gia đình sống cùng cả ông bà."
+     }
+    },
+    {
+     "id": "g35-w112",
+     "w": "大問題",
+     "r": "だいもんだい",
+     "hv": "ĐẠI VẤN ĐỀ",
+     "pos": "名",
+     "vi": "vấn đề lớn, chuyện nghiêm trọng",
+     "key": false,
+     "ex": {
+      "ja": "{小|ちい}さなミスが{大問題|だいもんだい}に{発展|はってん}した。",
+      "vi": "Một lỗi nhỏ đã phát triển thành vấn đề lớn."
+     }
+    },
+    {
+     "id": "g35-w113",
+     "w": "大部分",
+     "r": "だいぶぶん",
+     "hv": "ĐẠI BỘ PHẬN",
+     "pos": "名・副",
+     "vi": "phần lớn",
+     "key": false,
+     "ex": {
+      "ja": "{参加者|さんかしゃ}の{大部分|だいぶぶん}は{学生|がくせい}だった。",
+      "vi": "Phần lớn người tham gia là sinh viên."
+     }
+    },
+    {
+     "id": "g35-w114",
+     "w": "大画面",
+     "r": "だいがめん",
+     "hv": "ĐẠI HỌA DIỆN",
+     "pos": "名",
+     "vi": "màn hình lớn",
+     "key": false,
+     "ex": {
+      "ja": "{大画面|だいがめん}のテレビでサッカーを{見|み}る。",
+      "vi": "Xem bóng đá trên TV màn hình lớn."
+     }
+    },
+    {
+     "id": "g35-w115",
+     "w": "大成功",
+     "r": "だいせいこう",
+     "hv": "ĐẠI THÀNH CÔNG",
+     "pos": "名・自動",
+     "vi": "thành công lớn",
+     "key": false,
+     "ex": {
+      "ja": "{文化祭|ぶんかさい}は{大成功|だいせいこう}に{終|お}わった。",
+      "vi": "Lễ hội văn hóa kết thúc thành công rực rỡ."
+     }
+    },
+    {
+     "id": "g35-w116",
+     "w": "大満足",
+     "r": "だいまんぞく",
+     "hv": "ĐẠI MÃN TÚC",
+     "pos": "名・な形",
+     "vi": "cực kỳ hài lòng",
+     "key": false,
+     "ex": {
+      "ja": "{料理|りょうり}もサービスもよくて{大満足|だいまんぞく}だ。",
+      "vi": "Món ăn lẫn phục vụ đều tốt, cực kỳ hài lòng."
+     }
+    },
+    {
+     "id": "g35-w117",
+     "w": "大人気",
+     "r": "だいにんき",
+     "hv": "ĐẠI NHÂN KHÍ",
+     "pos": "名・な形",
+     "vi": "rất được ưa chuộng",
+     "key": false,
+     "ex": {
+      "ja": "このパンは{子|こ}どもたちに{大人気|だいにんき}だ。",
+      "vi": "Loại bánh mì này rất được bọn trẻ yêu thích."
+     },
+     "note": "Bẫy đọc: 大人気ない = おとなげない (trẻ con, không ra dáng người lớn)."
+    },
+    {
+     "id": "g35-w118",
+     "w": "大流行",
+     "r": "だいりゅうこう",
+     "hv": "ĐẠI LƯU HÀNH",
+     "pos": "名・自動",
+     "vi": "thịnh hành rầm rộ; (bệnh) bùng phát lớn",
+     "key": false,
+     "ex": {
+      "ja": "その{歌|うた}は{若者|わかもの}の{間|あいだ}で{大流行|だいりゅうこう}した。",
+      "vi": "Bài hát đó cực kỳ thịnh hành trong giới trẻ."
+     }
+    },
+    {
+     "id": "g35-w119",
+     "w": "大活躍",
+     "r": "だいかつやく",
+     "hv": "ĐẠI HOẠT DƯỢC",
+     "pos": "名・自動",
+     "vi": "hoạt động xuất sắc, tỏa sáng rực rỡ",
+     "key": false,
+     "ex": {
+      "ja": "{彼|かれ}は{決勝|けっしょう}で{二点|にてん}を{決|き}める{大活躍|だいかつやく}だった。",
+      "vi": "Anh ấy tỏa sáng rực rỡ, ghi hai bàn ở trận chung kết."
+     }
+    }
+   ]
+  },
+  {
+   "title": "小〜",
+   "title_vi": "tiểu- (こ): nhỏ; hơi, một chút",
+   "words": [
+    {
+     "id": "g35-w120",
+     "w": "小部屋",
+     "r": "こべや",
+     "hv": "TIỂU BỘ ỐC",
+     "pos": "名",
+     "vi": "phòng nhỏ",
+     "key": false,
+     "ex": {
+      "ja": "{奥|おく}の{小部屋|こべや}を{物置|ものおき}にしている。",
+      "vi": "Tôi dùng căn phòng nhỏ phía trong làm kho."
+     }
+    },
+    {
+     "id": "g35-w121",
+     "w": "小箱",
+     "r": "こばこ",
+     "hv": "TIỂU TƯƠNG",
+     "pos": "名",
+     "vi": "hộp nhỏ",
+     "key": false,
+     "ex": {
+      "ja": "{指輪|ゆびわ}を{小箱|こばこ}に{入|い}れて{渡|わた}した。",
+      "vi": "Tôi bỏ chiếc nhẫn vào hộp nhỏ rồi trao."
+     }
+    },
+    {
+     "id": "g35-w122",
+     "w": "小窓",
+     "r": "こまど",
+     "hv": "TIỂU SONG",
+     "pos": "名",
+     "vi": "cửa sổ nhỏ",
+     "key": false,
+     "ex": {
+      "ja": "{台所|だいどころ}の{小窓|こまど}から{朝日|あさひ}が{差|さ}し{込|こ}む。",
+      "vi": "Nắng sớm rọi vào qua ô cửa sổ nhỏ của bếp."
+     }
+    },
+    {
+     "id": "g35-w123",
+     "w": "小皿",
+     "r": "こざら",
+     "hv": "TIỂU MÃNH",
+     "pos": "名",
+     "vi": "đĩa nhỏ",
+     "key": false,
+     "ex": {
+      "ja": "{料理|りょうり}を{小皿|こざら}に{取|と}り{分|わ}ける。",
+      "vi": "Chia thức ăn ra đĩa nhỏ."
+     }
+    },
+    {
+     "id": "g35-w124",
+     "w": "小石",
+     "r": "こいし",
+     "hv": "TIỂU THẠCH",
+     "pos": "名",
+     "vi": "hòn sỏi, đá nhỏ",
+     "key": false,
+     "ex": {
+      "ja": "{靴|くつ}の{中|なか}に{小石|こいし}が{入|はい}った。",
+      "vi": "Có viên sỏi lọt vào giày."
+     }
+    },
+    {
+     "id": "g35-w125",
+     "w": "小鳥",
+     "r": "ことり",
+     "hv": "TIỂU ĐIỂU",
+     "pos": "名",
+     "vi": "chim nhỏ",
+     "key": false,
+     "ex": {
+      "ja": "{朝|あさ}、{庭|にわ}で{小鳥|ことり}が{鳴|な}いている。",
+      "vi": "Buổi sáng, chim nhỏ hót ngoài vườn."
+     }
+    },
+    {
+     "id": "g35-w126",
+     "w": "小枝",
+     "r": "こえだ",
+     "hv": "TIỂU CHI",
+     "pos": "名",
+     "vi": "cành nhỏ",
+     "key": false,
+     "ex": {
+      "ja": "{小枝|こえだ}を{集|あつ}めてたき{火|び}をした。",
+      "vi": "Gom cành nhỏ lại để đốt lửa."
+     }
+    },
+    {
+     "id": "g35-w127",
+     "w": "小太り",
+     "r": "こぶとり",
+     "hv": "TIỂU THÁI",
+     "pos": "名・な形",
+     "vi": "hơi mập, mũm mĩm",
+     "key": false,
+     "ex": {
+      "ja": "{犯人|はんにん}は{小太|こぶと}りの{中年|ちゅうねん}{男性|だんせい}だという。",
+      "vi": "Nghe nói thủ phạm là một người đàn ông trung niên hơi mập."
+     },
+     "note": "Ở đây 小 = \"hơi, một chút\" chứ không phải \"nhỏ\". 太り → ぶとり (âm đục)."
+    }
+   ]
+  },
+  {
+   "title": "高〜",
+   "title_vi": "cao- (こう): cao, mức độ cao",
+   "words": [
+    {
+     "id": "g35-w128",
+     "w": "高収入",
+     "r": "こうしゅうにゅう",
+     "hv": "CAO THU NHẬP",
+     "pos": "名",
+     "vi": "thu nhập cao",
+     "key": false,
+     "ex": {
+      "ja": "{高収入|こうしゅうにゅう}でも{休|やす}みがない{仕事|しごと}は{嫌|いや}だ。",
+      "vi": "Dù thu nhập cao nhưng không có ngày nghỉ thì tôi không thích."
+     }
+    },
+    {
+     "id": "g35-w129",
+     "w": "高学歴",
+     "r": "こうがくれき",
+     "hv": "CAO HỌC LỊCH",
+     "pos": "名",
+     "vi": "học vấn cao, bằng cấp cao",
+     "key": true,
+     "ex": {
+      "ja": "{高学歴|こうがくれき}だからといって{仕事|しごと}ができるとは{限|かぎ}らない。",
+      "vi": "Không phải cứ học vấn cao là làm việc giỏi."
+     }
+    },
+    {
+     "id": "g35-w130",
+     "w": "高血圧",
+     "r": "こうけつあつ",
+     "hv": "CAO HUYẾT ÁP",
+     "pos": "名",
+     "vi": "huyết áp cao",
+     "key": true,
+     "ex": {
+      "ja": "{塩分|えんぶん}の{取|と}りすぎは{高血圧|こうけつあつ}の{原因|げんいん}になる。",
+      "vi": "Ăn quá nhiều muối là nguyên nhân gây cao huyết áp."
+     },
+     "rel": "↔ 低血圧"
+    },
+    {
+     "id": "g35-w131",
+     "w": "高カロリー",
+     "r": "こうカロリー",
+     "hv": "CAO",
+     "pos": "名・な形",
+     "vi": "nhiều calo",
+     "key": true,
+     "ex": {
+      "ja": "{揚|あ}げ{物|もの}は{高|こう}カロリーなので{控|ひか}えている。",
+      "vi": "Đồ chiên nhiều calo nên tôi đang hạn chế."
+     }
+    },
+    {
+     "id": "g35-w132",
+     "w": "高性能",
+     "r": "こうせいのう",
+     "hv": "CAO TÍNH NĂNG",
+     "pos": "名・な形",
+     "vi": "tính năng cao, hiệu suất cao",
+     "key": true,
+     "ex": {
+      "ja": "{高性能|こうせいのう}なカメラで{星|ほし}を{撮影|さつえい}する。",
+      "vi": "Chụp sao bằng máy ảnh hiệu năng cao."
+     }
+    },
+    {
+     "id": "g35-w133",
+     "w": "高機能",
+     "r": "こうきのう",
+     "hv": "CAO CƠ NĂNG",
+     "pos": "名・な形",
+     "vi": "nhiều chức năng cao cấp",
+     "key": true,
+     "ex": {
+      "ja": "このスマホは{高機能|こうきのう}すぎて{使|つか}いこなせない。",
+      "vi": "Chiếc điện thoại này nhiều chức năng quá, tôi không dùng hết nổi."
+     }
+    }
+   ]
+  },
+  {
+   "title": "低〜",
+   "title_vi": "đê- (てい): thấp",
+   "words": [
+    {
+     "id": "g35-w134",
+     "w": "低レベル",
+     "r": "ていレベル",
+     "hv": "ĐÊ",
+     "pos": "名・な形",
+     "vi": "trình độ thấp, tầm thường",
+     "key": false,
+     "ex": {
+      "ja": "そんな{低|てい}レベルな{言|い}い{争|あらそ}いはやめよう。",
+      "vi": "Thôi đừng cãi nhau kiểu tầm thường như vậy nữa."
+     }
+    },
+    {
+     "id": "g35-w135",
+     "w": "低価格",
+     "r": "ていかかく",
+     "hv": "ĐÊ GIÁ CÁCH",
+     "pos": "名",
+     "vi": "giá thấp, giá rẻ",
+     "key": false,
+     "ex": {
+      "ja": "この{店|みせ}は{低価格|ていかかく}なのに{品質|ひんしつ}がいい。",
+      "vi": "Cửa hàng này giá rẻ mà chất lượng tốt."
+     }
+    },
+    {
+     "id": "g35-w136",
+     "w": "低血圧",
+     "r": "ていけつあつ",
+     "hv": "ĐÊ HUYẾT ÁP",
+     "pos": "名",
+     "vi": "huyết áp thấp",
+     "key": true,
+     "ex": {
+      "ja": "{低血圧|ていけつあつ}で{朝|あさ}{起|お}きるのがつらい。",
+      "vi": "Bị huyết áp thấp nên buổi sáng dậy rất khổ."
+     }
+    },
+    {
+     "id": "g35-w137",
+     "w": "低カロリー",
+     "r": "ていカロリー",
+     "hv": "ĐÊ",
+     "pos": "名・な形",
+     "vi": "ít calo",
+     "key": true,
+     "ex": {
+      "ja": "ダイエット{中|ちゅう}なので{低|てい}カロリーのおやつを{選|えら}ぶ。",
+      "vi": "Đang ăn kiêng nên tôi chọn đồ ăn vặt ít calo."
+     }
+    }
+   ]
+  },
+  {
+   "title": "長〜（なが）",
+   "title_vi": "trường- đọc なが: lâu, dài (+ từ thuần Nhật)",
+   "words": [
+    {
+     "id": "g35-w138",
+     "w": "長持ち",
+     "r": "ながもち",
+     "hv": "TRƯỜNG TRÌ",
+     "pos": "名・自動",
+     "vi": "bền, dùng / giữ được lâu",
+     "key": false,
+     "ex": {
+      "ja": "この{電池|でんち}は{長持|ながも}ちする。",
+      "vi": "Cục pin này dùng được lâu."
+     }
+    },
+    {
+     "id": "g35-w139",
+     "w": "長続き",
+     "r": "ながつづき",
+     "hv": "TRƯỜNG TỤC",
+     "pos": "名・自動",
+     "vi": "duy trì được lâu (việc làm, thói quen, quan hệ)",
+     "key": false,
+     "ex": {
+      "ja": "{弟|おとうと}は{何|なに}をやっても{長続|ながつづ}きしない。",
+      "vi": "Em trai tôi làm gì cũng không bền."
+     }
+    },
+    {
+     "id": "g35-w140",
+     "w": "長電話",
+     "r": "ながでんわ",
+     "hv": "TRƯỜNG ĐIỆN THOẠI",
+     "pos": "名・自動",
+     "vi": "nói chuyện điện thoại lâu",
+     "key": false,
+     "ex": {
+      "ja": "{友達|ともだち}と{二時間|にじかん}も{長電話|ながでんわ}してしまった。",
+      "vi": "Lỡ buôn điện thoại với bạn tận hai tiếng."
+     }
+    },
+    {
+     "id": "g35-w141",
+     "w": "長旅",
+     "r": "ながたび",
+     "hv": "TRƯỜNG LỮ",
+     "pos": "名",
+     "vi": "chuyến đi dài ngày",
+     "key": false,
+     "ex": {
+      "ja": "{長旅|ながたび}でお{疲|つか}れでしょう。",
+      "vi": "Đi đường xa chắc anh mệt lắm."
+     }
+    },
+    {
+     "id": "g35-w142",
+     "w": "長そで",
+     "r": "ながそで",
+     "hv": "TRƯỜNG TỤ",
+     "pos": "名",
+     "vi": "áo tay dài",
+     "key": false,
+     "ex": {
+      "ja": "{朝晩|あさばん}は{寒|さむ}いので{長|なが}そでを{着|き}る。",
+      "vi": "Sáng tối lạnh nên tôi mặc áo dài tay."
+     },
+     "rel": "↔ 半そで"
+    }
+   ]
+  },
+  {
+   "title": "長〜（ちょう）",
+   "title_vi": "trường- đọc ちょう: dài (+ từ Hán)",
+   "words": [
+    {
+     "id": "g35-w143",
+     "w": "長距離",
+     "r": "ちょうきょり",
+     "hv": "TRƯỜNG CỰ LY",
+     "pos": "名",
+     "vi": "đường dài, cự ly dài",
+     "key": false,
+     "ex": {
+      "ja": "{長距離|ちょうきょり}バスで{大阪|おおさか}まで{行|い}く。",
+      "vi": "Đi xe buýt đường dài tới Osaka."
+     }
+    },
+    {
+     "id": "g35-w144",
+     "w": "長期間",
+     "r": "ちょうきかん",
+     "hv": "TRƯỜNG KỲ GIAN",
+     "pos": "名",
+     "vi": "thời gian dài",
+     "key": false,
+     "ex": {
+      "ja": "{長期間|ちょうきかん}{家|いえ}を{空|あ}けるので、{新聞|しんぶん}を{止|と}めた。",
+      "vi": "Vì vắng nhà lâu nên tôi tạm ngưng nhận báo."
+     }
+    },
+    {
+     "id": "g35-w145",
+     "w": "長時間",
+     "r": "ちょうじかん",
+     "hv": "TRƯỜNG THỜI GIAN",
+     "pos": "名",
+     "vi": "nhiều giờ liền",
+     "key": false,
+     "ex": {
+      "ja": "{長時間|ちょうじかん}パソコンを{使|つか}うと{目|め}が{疲|つか}れる。",
+      "vi": "Dùng máy tính nhiều giờ liền thì mỏi mắt."
+     }
+    }
+   ]
+  },
+  {
+   "title": "短〜",
+   "title_vi": "đoản- (たん): ngắn",
+   "words": [
+    {
+     "id": "g35-w146",
+     "w": "短距離",
+     "r": "たんきょり",
+     "hv": "ĐOẢN CỰ LY",
+     "pos": "名",
+     "vi": "cự ly ngắn",
+     "key": false,
+     "ex": {
+      "ja": "{短距離|たんきょり}なら{速|はや}いが、マラソンは{苦手|にがて}だ。",
+      "vi": "Cự ly ngắn thì tôi chạy nhanh, nhưng marathon thì kém."
+     }
+    },
+    {
+     "id": "g35-w147",
+     "w": "短期間",
+     "r": "たんきかん",
+     "hv": "ĐOẢN KỲ GIAN",
+     "pos": "名",
+     "vi": "thời gian ngắn",
+     "key": false,
+     "ex": {
+      "ja": "{彼|かれ}は{短期間|たんきかん}で{日本語|にほんご}が{上達|じょうたつ}した。",
+      "vi": "Anh ấy tiến bộ tiếng Nhật trong thời gian ngắn."
+     }
+    },
+    {
+     "id": "g35-w148",
+     "w": "短時間",
+     "r": "たんじかん",
+     "hv": "ĐOẢN THỜI GIAN",
+     "pos": "名",
+     "vi": "thời gian ngắn (vài giờ)",
+     "key": false,
+     "ex": {
+      "ja": "{短時間|たんじかん}で{働|はたら}けるアルバイトを{探|さが}している。",
+      "vi": "Tôi đang tìm việc làm thêm có thể làm ít giờ."
+     }
+    }
+   ]
+  },
+  {
+   "title": "多〜",
+   "title_vi": "đa- (た): nhiều",
+   "words": [
+    {
+     "id": "g35-w149",
+     "w": "多目的",
+     "r": "たもくてき",
+     "hv": "ĐA MỤC ĐÍCH",
+     "pos": "名",
+     "vi": "đa mục đích",
+     "key": false,
+     "ex": {
+      "ja": "{多目的|たもくてき}ホールでコンサートが{開|ひら}かれる。",
+      "vi": "Buổi hòa nhạc được tổ chức tại hội trường đa năng."
+     }
+    },
+    {
+     "id": "g35-w150",
+     "w": "多趣味",
+     "r": "たしゅみ",
+     "hv": "ĐA THÚ VỊ",
+     "pos": "名・な形",
+     "vi": "nhiều sở thích",
+     "key": false,
+     "ex": {
+      "ja": "{父|ちち}は{多趣味|たしゅみ}で、{週末|しゅうまつ}はいつも{忙|いそが}しい。",
+      "vi": "Bố tôi nhiều sở thích nên cuối tuần lúc nào cũng bận."
+     }
+    },
+    {
+     "id": "g35-w151",
+     "w": "多人数",
+     "r": "たにんずう",
+     "hv": "ĐA NHÂN SỐ",
+     "pos": "名",
+     "vi": "đông người",
+     "key": false,
+     "ex": {
+      "ja": "{多人数|たにんずう}で{遊|あそ}べるゲームを{買|か}った。",
+      "vi": "Tôi mua một trò chơi nhiều người chơi được."
+     },
+     "rel": "≒ 大人数(おおにんずう)　↔ 少人数"
+    },
+    {
+     "id": "g35-w152",
+     "w": "多方面",
+     "r": "たほうめん",
+     "hv": "ĐA PHƯƠNG DIỆN",
+     "pos": "名",
+     "vi": "nhiều lĩnh vực, nhiều mặt",
+     "key": true,
+     "ex": {
+      "ja": "{彼女|かのじょ}は{歌手|かしゅ}としても{作家|さっか}としても{多方面|たほうめん}で{活躍|かつやく}している。",
+      "vi": "Cô ấy hoạt động trên nhiều lĩnh vực, cả ca sĩ lẫn nhà văn."
+     },
+     "note": "多方面 = MỘT người/vật trải ra nhiều lĩnh vực; 各方面 = (ý kiến, phản ứng) đến từ các phía."
+    },
+    {
+     "id": "g35-w153",
+     "w": "多量",
+     "r": "たりょう",
+     "hv": "ĐA LƯỢNG",
+     "pos": "名・な形",
+     "vi": "lượng lớn",
+     "key": true,
+     "ex": {
+      "ja": "{事故|じこ}で{出血|しゅっけつ}{多量|たりょう}の{危険|きけん}な{状態|じょうたい}だ。",
+      "vi": "Do tai nạn, đang trong tình trạng nguy hiểm vì mất nhiều máu."
+     },
+     "rel": "≒ 大量　↔ 少量"
+    },
+    {
+     "id": "g35-w154",
+     "w": "多国籍",
+     "r": "たこくせき",
+     "hv": "ĐA QUỐC TỊCH",
+     "pos": "名",
+     "vi": "đa quốc gia, nhiều quốc tịch",
+     "key": true,
+     "ex": {
+      "ja": "{多国籍|たこくせき}{企業|きぎょう}で{働|はたら}いている。",
+      "vi": "Tôi đang làm cho một công ty đa quốc gia."
+     }
+    },
+    {
+     "id": "g35-w155",
+     "w": "多用途",
+     "r": "たようと",
+     "hv": "ĐA DỤNG ĐỒ",
+     "pos": "名",
+     "vi": "nhiều công dụng, đa năng",
+     "key": true,
+     "ex": {
+      "ja": "このナイフは{多用途|たようと}で{便利|べんり}だ。",
+      "vi": "Con dao này đa năng, rất tiện."
+     }
+    }
+   ]
+  },
+  {
+   "title": "少〜",
+   "title_vi": "thiểu- (しょう): ít",
+   "words": [
+    {
+     "id": "g35-w156",
+     "w": "少人数",
+     "r": "しょうにんずう",
+     "hv": "THIỂU NHÂN SỐ",
+     "pos": "名",
+     "vi": "ít người",
+     "key": false,
+     "ex": {
+      "ja": "{少人数|しょうにんずう}のクラスで{丁寧|ていねい}に{教|おし}える。",
+      "vi": "Dạy kỹ trong lớp ít học viên."
+     }
+    },
+    {
+     "id": "g35-w157",
+     "w": "少量",
+     "r": "しょうりょう",
+     "hv": "THIỂU LƯỢNG",
+     "pos": "名",
+     "vi": "lượng nhỏ, một ít",
+     "key": true,
+     "ex": {
+      "ja": "{塩|しお}を{少量|しょうりょう}{加|くわ}える。",
+      "vi": "Cho thêm một ít muối."
+     }
+    }
+   ]
+  },
+  {
+   "title": "重〜",
+   "title_vi": "trọng- (じゅう): nặng",
+   "words": [
+    {
+     "id": "g35-w158",
+     "w": "重労働",
+     "r": "じゅうろうどう",
+     "hv": "TRỌNG LAO ĐỘNG",
+     "pos": "名",
+     "vi": "lao động nặng nhọc",
+     "key": true,
+     "ex": {
+      "ja": "{介護|かいご}は{体力|たいりょく}を{使|つか}う{重労働|じゅうろうどう}だ。",
+      "vi": "Chăm sóc người già là công việc nặng nhọc, tốn sức."
+     }
+    },
+    {
+     "id": "g35-w159",
+     "w": "重工業",
+     "r": "じゅうこうぎょう",
+     "hv": "TRỌNG CÔNG NGHIỆP",
+     "pos": "名",
+     "vi": "công nghiệp nặng",
+     "key": true,
+     "ex": {
+      "ja": "この{町|まち}は{造船|ぞうせん}などの{重工業|じゅうこうぎょう}で{栄|さか}えた。",
+      "vi": "Thị trấn này phát triển nhờ công nghiệp nặng như đóng tàu."
+     }
+    },
+    {
+     "id": "g35-w160",
+     "w": "重金属",
+     "r": "じゅうきんぞく",
+     "hv": "TRỌNG KIM THUỘC",
+     "pos": "名",
+     "vi": "kim loại nặng",
+     "key": true,
+     "ex": {
+      "ja": "{川|かわ}の{水|みず}から{重金属|じゅうきんぞく}が{検出|けんしゅつ}された。",
+      "vi": "Đã phát hiện kim loại nặng trong nước sông."
+     }
+    }
+   ]
+  },
+  {
+   "title": "軽〜",
+   "title_vi": "khinh- (けい): nhẹ, loại nhỏ",
+   "words": [
+    {
+     "id": "g35-w161",
+     "w": "軽自動車",
+     "r": "けいじどうしゃ",
+     "hv": "KHINH TỰ ĐỘNG XA",
+     "pos": "名",
+     "vi": "xe ô tô cỡ nhỏ (kei car)",
+     "key": false,
+     "ex": {
+      "ja": "{軽自動車|けいじどうしゃ}は{税金|ぜいきん}が{安|やす}い。",
+      "vi": "Xe ô tô cỡ nhỏ có thuế rẻ."
+     }
+    },
+    {
+     "id": "g35-w162",
+     "w": "軽音楽",
+     "r": "けいおんがく",
+     "hv": "KHINH ÂM NHẠC",
+     "pos": "名",
+     "vi": "nhạc nhẹ (pop, rock… đối lập nhạc cổ điển)",
+     "key": false,
+     "ex": {
+      "ja": "{大学|だいがく}で{軽音楽部|けいおんがくぶ}に{入|はい}った。",
+      "vi": "Ở đại học tôi vào câu lạc bộ nhạc nhẹ."
+     }
+    },
+    {
+     "id": "g35-w163",
+     "w": "軽工業",
+     "r": "けいこうぎょう",
+     "hv": "KHINH CÔNG NGHIỆP",
+     "pos": "名",
+     "vi": "công nghiệp nhẹ",
+     "key": true,
+     "ex": {
+      "ja": "この{国|くに}では{繊維|せんい}などの{軽工業|けいこうぎょう}が{盛|さか}んだ。",
+      "vi": "Ở nước này công nghiệp nhẹ như dệt may rất phát triển."
+     }
+    },
+    {
+     "id": "g35-w164",
+     "w": "軽金属",
+     "r": "けいきんぞく",
+     "hv": "KHINH KIM THUỘC",
+     "pos": "名",
+     "vi": "kim loại nhẹ",
+     "key": true,
+     "ex": {
+      "ja": "アルミニウムは{代表的|だいひょうてき}な{軽金属|けいきんぞく}だ。",
+      "vi": "Nhôm là kim loại nhẹ tiêu biểu."
+     }
+    },
+    {
+     "id": "g35-w165",
+     "w": "軽犯罪",
+     "r": "けいはんざい",
+     "hv": "KHINH PHẠM TỘI",
+     "pos": "名",
+     "vi": "tội nhẹ, vi phạm nhỏ",
+     "key": true,
+     "ex": {
+      "ja": "{公園|こうえん}の{壁|かべ}への{落書|らくが}きは{軽犯罪|けいはんざい}にあたる。",
+      "vi": "Vẽ bậy lên tường công viên là tội nhẹ."
+     }
+    }
+   ]
+  },
+  {
+   "title": "悪〜",
+   "title_vi": "ác- (あく): xấu, tệ",
+   "words": [
+    {
+     "id": "g35-w166",
+     "w": "悪趣味",
+     "r": "あくしゅみ",
+     "hv": "ÁC THÚ VỊ",
+     "pos": "名・な形",
+     "vi": "gu tệ, thiếu tế nhị, khó coi",
+     "key": false,
+     "ex": {
+      "ja": "{人|ひと}の{失敗|しっぱい}を{笑|わら}うなんて{悪趣味|あくしゅみ}だ。",
+      "vi": "Cười nhạo thất bại của người khác thật là kém duyên."
+     }
+    },
+    {
+     "id": "g35-w167",
+     "w": "悪条件",
+     "r": "あくじょうけん",
+     "hv": "ÁC ĐIỀU KIỆN",
+     "pos": "名",
+     "vi": "điều kiện xấu, bất lợi",
+     "key": false,
+     "ex": {
+      "ja": "{雨|あめ}と{風|かぜ}という{悪条件|あくじょうけん}の{中|なか}で{試合|しあい}が{行|おこな}われた。",
+      "vi": "Trận đấu diễn ra trong điều kiện bất lợi là mưa và gió."
+     },
+     "rel": "↔ 好条件"
+    },
+    {
+     "id": "g35-w168",
+     "w": "悪影響",
+     "r": "あくえいきょう",
+     "hv": "ÁC ẢNH HƯỞNG",
+     "pos": "名",
+     "vi": "ảnh hưởng xấu",
+     "key": false,
+     "ex": {
+      "ja": "{睡眠|すいみん}{不足|ぶそく}は{勉強|べんきょう}にも{悪影響|あくえいきょう}を{与|あた}える。",
+      "vi": "Thiếu ngủ cũng gây ảnh hưởng xấu tới việc học."
+     },
+     "col": [
+      "悪影響を与える／及ぼす"
+     ]
+    },
+    {
+     "id": "g35-w169",
+     "w": "悪天候",
+     "r": "あくてんこう",
+     "hv": "ÁC THIÊN HẬU",
+     "pos": "名",
+     "vi": "thời tiết xấu",
+     "key": false,
+     "ex": {
+      "ja": "{悪天候|あくてんこう}のため、{飛行機|ひこうき}が{欠航|けっこう}した。",
+      "vi": "Do thời tiết xấu, chuyến bay bị hủy."
+     }
+    }
+   ]
+  },
+  {
+   "title": "好〜",
+   "title_vi": "hảo- (こう): tốt, thuận lợi",
+   "words": [
+    {
+     "id": "g35-w170",
+     "w": "好成績",
+     "r": "こうせいせき",
+     "hv": "HẢO THÀNH TÍCH",
+     "pos": "名",
+     "vi": "thành tích tốt",
+     "key": false,
+     "ex": {
+      "ja": "{練習|れんしゅう}の{成果|せいか}が{出|で}て{好成績|こうせいせき}を{収|おさ}めた。",
+      "vi": "Thành quả luyện tập đã thể hiện, đạt thành tích tốt."
+     }
+    },
+    {
+     "id": "g35-w171",
+     "w": "好都合",
+     "r": "こうつごう",
+     "hv": "HẢO ĐÔ HỢP",
+     "pos": "名・な形",
+     "vi": "thuận tiện, vừa đúng ý",
+     "key": false,
+     "ex": {
+      "ja": "{会議|かいぎ}が{延期|えんき}になったのは、{私|わたし}には{好都合|こうつごう}だった。",
+      "vi": "Cuộc họp bị hoãn lại hóa ra thuận lợi cho tôi."
+     },
+     "rel": "↔ 不都合"
+    },
+    {
+     "id": "g35-w172",
+     "w": "好青年",
+     "r": "こうせいねん",
+     "hv": "HẢO THANH NIÊN",
+     "pos": "名",
+     "vi": "chàng trai tốt, thanh niên đứng đắn",
+     "key": false,
+     "ex": {
+      "ja": "{娘|むすめ}の{恋人|こいびと}は{礼儀正|れいぎただ}しい{好青年|こうせいねん}だった。",
+      "vi": "Người yêu của con gái tôi là một chàng trai lễ phép, đứng đắn."
+     }
+    },
+    {
+     "id": "g35-w173",
+     "w": "好条件",
+     "r": "こうじょうけん",
+     "hv": "HẢO ĐIỀU KIỆN",
+     "pos": "名",
+     "vi": "điều kiện tốt",
+     "key": false,
+     "ex": {
+      "ja": "{給料|きゅうりょう}も{休日|きゅうじつ}も{多|おお}い{好条件|こうじょうけん}の{求人|きゅうじん}だ。",
+      "vi": "Đây là tin tuyển dụng điều kiện tốt, lương cao, nghỉ nhiều."
+     }
+    },
+    {
+     "id": "g35-w174",
+     "w": "好景気",
+     "r": "こうけいき",
+     "hv": "HẢO CẢNH KHÍ",
+     "pos": "名",
+     "vi": "kinh tế thịnh vượng",
+     "key": false,
+     "ex": {
+      "ja": "{好景気|こうけいき}で{新車|しんしゃ}がよく{売|う}れている。",
+      "vi": "Kinh tế thịnh vượng nên xe mới bán rất chạy."
+     },
+     "rel": "↔ 不景気"
+    },
+    {
+     "id": "g35-w175",
+     "w": "好印象",
+     "r": "こういんしょう",
+     "hv": "HẢO ẤN TƯỢNG",
+     "pos": "名",
+     "vi": "ấn tượng tốt",
+     "key": true,
+     "ex": {
+      "ja": "{明|あか}るいあいさつは{面接官|めんせつかん}に{好印象|こういんしょう}を{与|あた}える。",
+      "vi": "Lời chào tươi tắn tạo ấn tượng tốt với người phỏng vấn."
+     }
+    },
+    {
+     "id": "g35-w176",
+     "w": "好対照",
+     "r": "こうたいしょう",
+     "hv": "HẢO ĐỐI CHIẾU",
+     "pos": "名",
+     "vi": "sự tương phản rõ nét",
+     "key": true,
+     "ex": {
+      "ja": "{静|しず}かな{兄|あに}とにぎやかな{弟|おとうと}は{好対照|こうたいしょう}だ。",
+      "vi": "Người anh trầm lặng và cậu em sôi nổi là hai hình ảnh tương phản rõ rệt."
+     },
+     "note": "好 ở đây không phải \"tốt\" về mặt giá trị mà là \"rõ ràng, đẹp mắt\": hai thứ đặt cạnh nhau tương phản thú vị."
+    }
+   ]
+  },
+  {
+   "title": "新〜",
+   "title_vi": "tân- (しん): mới",
+   "words": [
+    {
+     "id": "g35-w177",
+     "w": "新発売",
+     "r": "しんはつばい",
+     "hv": "TÂN PHÁT MẠI",
+     "pos": "名",
+     "vi": "mới bán ra",
+     "key": false,
+     "ex": {
+      "ja": "{新発売|しんはつばい}のお{菓子|かし}を{買|か}ってみた。",
+      "vi": "Tôi mua thử loại bánh kẹo mới ra."
+     }
+    },
+    {
+     "id": "g35-w178",
+     "w": "新技術",
+     "r": "しんぎじゅつ",
+     "hv": "TÂN KỸ THUẬT",
+     "pos": "名",
+     "vi": "công nghệ mới",
+     "key": false,
+     "ex": {
+      "ja": "{新技術|しんぎじゅつ}で{電池|でんち}が{小|ちい}さくなった。",
+      "vi": "Nhờ công nghệ mới, pin đã nhỏ gọn hơn."
+     }
+    },
+    {
+     "id": "g35-w179",
+     "w": "新政府",
+     "r": "しんせいふ",
+     "hv": "TÂN CHÍNH PHỦ",
+     "pos": "名",
+     "vi": "chính phủ mới",
+     "key": false,
+     "ex": {
+      "ja": "{選挙|せんきょ}の{後|あと}、{新政府|しんせいふ}が{発足|ほっそく}した。",
+      "vi": "Sau bầu cử, chính phủ mới được thành lập."
+     }
+    },
+    {
+     "id": "g35-w180",
+     "w": "新記録",
+     "r": "しんきろく",
+     "hv": "TÂN KÝ LỤC",
+     "pos": "名",
+     "vi": "kỷ lục mới",
+     "key": false,
+     "ex": {
+      "ja": "{彼|かれ}は{日本|にほん}{新記録|しんきろく}を{出|だ}した。",
+      "vi": "Anh ấy lập kỷ lục mới của Nhật."
+     }
+    },
+    {
+     "id": "g35-w181",
+     "w": "新学期",
+     "r": "しんがっき",
+     "hv": "TÂN HỌC KỲ",
+     "pos": "名",
+     "vi": "học kỳ mới",
+     "key": true,
+     "ex": {
+      "ja": "{新学期|しんがっき}が{始|はじ}まって、{教室|きょうしつ}がにぎやかになった。",
+      "vi": "Học kỳ mới bắt đầu, lớp học lại nhộn nhịp."
+     }
+    },
+    {
+     "id": "g35-w182",
+     "w": "新年度",
+     "r": "しんねんど",
+     "hv": "TÂN NIÊN ĐỘ",
+     "pos": "名",
+     "vi": "năm tài chính / năm học mới",
+     "key": true,
+     "ex": {
+      "ja": "{新年度|しんねんど}から{新|あたら}しい{制度|せいど}が{始|はじ}まる。",
+      "vi": "Từ năm tài chính mới sẽ bắt đầu chế độ mới."
+     },
+     "note": "Ở Nhật năm tài chính/năm học bắt đầu từ tháng 4."
+    },
+    {
+     "id": "g35-w183",
+     "w": "新商品",
+     "r": "しんしょうひん",
+     "hv": "TÂN THƯƠNG PHẨM",
+     "pos": "名",
+     "vi": "sản phẩm (hàng) mới",
+     "key": true,
+     "ex": {
+      "ja": "{毎月|まいつき}、コンビニに{新商品|しんしょうひん}が{並|なら}ぶ。",
+      "vi": "Tháng nào cửa hàng tiện lợi cũng bày hàng mới."
+     }
+    },
+    {
+     "id": "g35-w184",
+     "w": "新製品",
+     "r": "しんせいひん",
+     "hv": "TÂN CHẾ PHẨM",
+     "pos": "名",
+     "vi": "sản phẩm mới (do nhà sản xuất làm ra)",
+     "key": true,
+     "ex": {
+      "ja": "{来月|らいげつ}、{新製品|しんせいひん}の{発表会|はっぴょうかい}が{開|ひら}かれる。",
+      "vi": "Tháng sau sẽ có buổi ra mắt sản phẩm mới."
+     }
+    },
+    {
+     "id": "g35-w185",
+     "w": "新体制",
+     "r": "しんたいせい",
+     "hv": "TÂN THỂ CHẾ",
+     "pos": "名",
+     "vi": "bộ máy / cơ cấu mới",
+     "key": true,
+     "ex": {
+      "ja": "{社長|しゃちょう}が{代|か}わり、{会社|かいしゃ}は{新体制|しんたいせい}でスタートした。",
+      "vi": "Giám đốc thay đổi, công ty khởi đầu với bộ máy mới."
+     },
+     "rel": "↔ 旧体制"
+    }
+   ]
+  },
+  {
+   "title": "旧〜",
+   "title_vi": "cựu- (きゅう): cũ, trước đây (chế độ, tên gọi đã thay)",
+   "words": [
+    {
+     "id": "g35-w186",
+     "w": "旧正月",
+     "r": "きゅうしょうがつ",
+     "hv": "CỰU CHÍNH NGUYỆT",
+     "pos": "名",
+     "vi": "Tết âm lịch",
+     "key": false,
+     "ex": {
+      "ja": "ベトナムでは{旧正月|きゅうしょうがつ}に{家族|かぞく}が{集|あつ}まる。",
+      "vi": "Ở Việt Nam, cả nhà quây quần vào dịp Tết âm lịch."
+     }
+    },
+    {
+     "id": "g35-w187",
+     "w": "旧体制",
+     "r": "きゅうたいせい",
+     "hv": "CỰU THỂ CHẾ",
+     "pos": "名",
+     "vi": "chế độ cũ, cơ cấu cũ",
+     "key": true,
+     "ex": {
+      "ja": "{改革|かいかく}によって{旧体制|きゅうたいせい}が{崩|くず}れた。",
+      "vi": "Nhờ cải cách, chế độ cũ đã sụp đổ."
+     }
+    },
+    {
+     "id": "g35-w188",
+     "w": "旧市街",
+     "r": "きゅうしがい",
+     "hv": "CỰU THỊ NHAI",
+     "pos": "名",
+     "vi": "khu phố cổ",
+     "key": true,
+     "ex": {
+      "ja": "{旧市街|きゅうしがい}には{古|ふる}い{建物|たてもの}が{多|おお}く{残|のこ}っている。",
+      "vi": "Khu phố cổ còn giữ lại nhiều tòa nhà xưa."
+     }
+    },
+    {
+     "id": "g35-w189",
+     "w": "旧姓",
+     "r": "きゅうせい",
+     "hv": "CỰU TÍNH",
+     "pos": "名",
+     "vi": "họ cũ (trước khi kết hôn)",
+     "key": true,
+     "ex": {
+      "ja": "{結婚|けっこん}{後|ご}も{職場|しょくば}では{旧姓|きゅうせい}を{使|つか}っている。",
+      "vi": "Sau khi cưới tôi vẫn dùng họ cũ ở chỗ làm."
+     }
+    }
+   ]
+  },
+  {
+   "title": "古〜",
+   "title_vi": "cổ- (ふる): cũ (đồ vật đã dùng, lâu năm)",
+   "words": [
+    {
+     "id": "g35-w190",
+     "w": "古新聞",
+     "r": "ふるしんぶん",
+     "hv": "CỔ TÂN VĂN",
+     "pos": "名",
+     "vi": "báo cũ",
+     "key": false,
+     "ex": {
+      "ja": "{古新聞|ふるしんぶん}をまとめて{資源|しげん}ごみに{出|だ}す。",
+      "vi": "Gom báo cũ lại để bỏ vào rác tái chế."
+     }
+    },
+    {
+     "id": "g35-w191",
+     "w": "古時計",
+     "r": "ふるどけい",
+     "hv": "CỔ THỜI KẾ",
+     "pos": "名",
+     "vi": "đồng hồ cũ",
+     "key": false,
+     "ex": {
+      "ja": "{祖父|そふ}の{古時計|ふるどけい}は{今|いま}も{動|うご}いている。",
+      "vi": "Chiếc đồng hồ cũ của ông tôi đến giờ vẫn chạy."
+     },
+     "note": "時計 → どけい (âm đục khi ghép)."
+    },
+    {
+     "id": "g35-w192",
+     "w": "古本",
+     "r": "ふるほん",
+     "hv": "CỔ BẢN",
+     "pos": "名",
+     "vi": "sách cũ",
+     "key": false,
+     "ex": {
+      "ja": "{古本屋|ふるほんや}で{珍|めずら}しい{本|ほん}を{見|み}つけた。",
+      "vi": "Tôi tìm được cuốn sách hiếm ở hiệu sách cũ."
+     }
+    }
+   ]
+  },
+  {
+   "title": "急〜",
+   "title_vi": "cấp- (きゅう): đột ngột, gấp, dốc",
+   "words": [
+    {
+     "id": "g35-w193",
+     "w": "急成長",
+     "r": "きゅうせいちょう",
+     "hv": "CẤP THÀNH TRƯỞNG",
+     "pos": "名・自動",
+     "vi": "tăng trưởng nhanh",
+     "key": false,
+     "ex": {
+      "ja": "その{会社|かいしゃ}はネット{通販|つうはん}で{急成長|きゅうせいちょう}した。",
+      "vi": "Công ty đó tăng trưởng vọt nhờ bán hàng qua mạng."
+     }
+    },
+    {
+     "id": "g35-w194",
+     "w": "急展開",
+     "r": "きゅうてんかい",
+     "hv": "CẤP TRIỂN KHAI",
+     "pos": "名・自動",
+     "vi": "diễn biến đột ngột, chuyển biến nhanh",
+     "key": true,
+     "ex": {
+      "ja": "{犯人|はんにん}の{自首|じしゅ}で{事件|じけん}は{急展開|きゅうてんかい}した。",
+      "vi": "Thủ phạm ra đầu thú khiến vụ án chuyển biến đột ngột."
+     }
+    },
+    {
+     "id": "g35-w195",
+     "w": "急上昇",
+     "r": "きゅうじょうしょう",
+     "hv": "CẤP THƯỢNG THĂNG",
+     "pos": "名・自動",
+     "vi": "tăng vọt",
+     "key": true,
+     "ex": {
+      "ja": "{昼|ひる}から{気温|きおん}が{急上昇|きゅうじょうしょう}した。",
+      "vi": "Từ trưa nhiệt độ tăng vọt."
+     },
+     "rel": "↔ 急降下"
+    },
+    {
+     "id": "g35-w196",
+     "w": "急接近",
+     "r": "きゅうせっきん",
+     "hv": "CẤP TIẾP CẬN",
+     "pos": "名・自動",
+     "vi": "tiến lại gần nhanh; (quan hệ) thân lên nhanh",
+     "key": true,
+     "ex": {
+      "ja": "{台風|たいふう}が{九州|きゅうしゅう}に{急接近|きゅうせっきん}している。",
+      "vi": "Bão đang tiến nhanh vào Kyushu."
+     }
+    },
+    {
+     "id": "g35-w197",
+     "w": "急ブレーキ",
+     "r": "きゅうブレーキ",
+     "hv": "CẤP",
+     "pos": "名",
+     "vi": "phanh gấp",
+     "key": true,
+     "ex": {
+      "ja": "{子|こ}どもが{飛|と}び{出|だ}してきて、{急|きゅう}ブレーキをかけた。",
+      "vi": "Một đứa trẻ lao ra nên tôi phanh gấp."
+     },
+     "col": [
+      "急ブレーキをかける"
+     ]
+    },
+    {
+     "id": "g35-w198",
+     "w": "急カーブ",
+     "r": "きゅうカーブ",
+     "hv": "CẤP",
+     "pos": "名",
+     "vi": "khúc cua gắt",
+     "key": true,
+     "ex": {
+      "ja": "この{先|さき}に{急|きゅう}カーブがあるので{注意|ちゅうい}してください。",
+      "vi": "Phía trước có khúc cua gắt, xin chú ý."
+     }
+    },
+    {
+     "id": "g35-w199",
+     "w": "急テンポ",
+     "r": "きゅうテンポ",
+     "hv": "CẤP",
+     "pos": "名",
+     "vi": "nhịp độ nhanh, dồn dập",
+     "key": true,
+     "ex": {
+      "ja": "{急|きゅう}テンポの{曲|きょく}に{合|あ}わせて{踊|おど}る。",
+      "vi": "Nhảy theo bản nhạc nhịp nhanh."
+     }
+    }
+   ]
+  },
+  {
+   "title": "両〜",
+   "title_vi": "lưỡng- (りょう): cả hai",
+   "words": [
+    {
+     "id": "g35-w200",
+     "w": "両手",
+     "r": "りょうて",
+     "hv": "LƯỠNG THỦ",
+     "pos": "名",
+     "vi": "hai tay",
+     "key": false,
+     "ex": {
+      "ja": "{両手|りょうて}に{荷物|にもつ}を{持|も}っている。",
+      "vi": "Hai tay xách đầy đồ."
+     }
+    },
+    {
+     "id": "g35-w201",
+     "w": "両足",
+     "r": "りょうあし",
+     "hv": "LƯỠNG TÚC",
+     "pos": "名",
+     "vi": "hai chân",
+     "key": false,
+     "ex": {
+      "ja": "{長|なが}く{座|すわ}っていたら{両足|りょうあし}がしびれた。",
+      "vi": "Ngồi lâu nên hai chân tê rần."
+     }
+    },
+    {
+     "id": "g35-w202",
+     "w": "両目",
+     "r": "りょうめ",
+     "hv": "LƯỠNG MỤC",
+     "pos": "名",
+     "vi": "hai mắt",
+     "key": false,
+     "ex": {
+      "ja": "{両目|りょうめ}を{閉|と}じて{深呼吸|しんこきゅう}する。",
+      "vi": "Nhắm hai mắt lại và hít thở sâu."
+     }
+    },
+    {
+     "id": "g35-w203",
+     "w": "両耳",
+     "r": "りょうみみ",
+     "hv": "LƯỠNG NHĨ",
+     "pos": "名",
+     "vi": "hai tai",
+     "key": false,
+     "ex": {
+      "ja": "{大|おお}きな{音|おと}に{思|おも}わず{両耳|りょうみみ}をふさいだ。",
+      "vi": "Tiếng động lớn khiến tôi bất giác bịt cả hai tai."
+     }
+    },
+    {
+     "id": "g35-w204",
+     "w": "両方向",
+     "r": "りょうほうこう",
+     "hv": "LƯỠNG PHƯƠNG HƯỚNG",
+     "pos": "名",
+     "vi": "cả hai chiều",
+     "key": false,
+     "ex": {
+      "ja": "{高速道路|こうそくどうろ}は{両方向|りょうほうこう}とも{渋滞|じゅうたい}している。",
+      "vi": "Đường cao tốc tắc cả hai chiều."
+     }
+    },
+    {
+     "id": "g35-w205",
+     "w": "両チーム",
+     "r": "りょうチーム",
+     "hv": "LƯỠNG",
+     "pos": "名",
+     "vi": "cả hai đội",
+     "key": false,
+     "ex": {
+      "ja": "{両|りょう}チームとも{一歩|いっぽ}も{譲|ゆず}らなかった。",
+      "vi": "Cả hai đội không nhường nhau một bước."
+     }
+    },
+    {
+     "id": "g35-w206",
+     "w": "両ひざ",
+     "r": "りょうひざ",
+     "hv": "LƯỠNG TẤT",
+     "pos": "名",
+     "vi": "hai đầu gối",
+     "key": true,
+     "ex": {
+      "ja": "{転|ころ}んで{両|りょう}ひざをすりむいた。",
+      "vi": "Bị ngã trầy cả hai đầu gối."
+     }
+    },
+    {
+     "id": "g35-w207",
+     "w": "両わき",
+     "r": "りょうわき",
+     "hv": "LƯỠNG HIẾP",
+     "pos": "名",
+     "vi": "hai bên (hai nách; hai bên lề)",
+     "key": true,
+     "ex": {
+      "ja": "{道|みち}の{両|りょう}わきに{桜|さくら}が{咲|さ}いている。",
+      "vi": "Hoa anh đào nở hai bên đường."
+     }
+    }
+   ]
+  },
+  {
+   "title": "片〜",
+   "title_vi": "phiến- (かた): một bên (trong một cặp)",
+   "words": [
+    {
+     "id": "g35-w208",
+     "w": "片手",
+     "r": "かたて",
+     "hv": "PHIẾN THỦ",
+     "pos": "名",
+     "vi": "một tay",
+     "key": false,
+     "ex": {
+      "ja": "{片手|かたて}でスマホを{操作|そうさ}する。",
+      "vi": "Thao tác điện thoại bằng một tay."
+     }
+    },
+    {
+     "id": "g35-w209",
+     "w": "片足",
+     "r": "かたあし",
+     "hv": "PHIẾN TÚC",
+     "pos": "名",
+     "vi": "một chân",
+     "key": false,
+     "ex": {
+      "ja": "{片足|かたあし}で{立|た}ってバランスを{取|と}る。",
+      "vi": "Đứng một chân giữ thăng bằng."
+     }
+    },
+    {
+     "id": "g35-w210",
+     "w": "片目",
+     "r": "かため",
+     "hv": "PHIẾN MỤC",
+     "pos": "名",
+     "vi": "một mắt",
+     "key": false,
+     "ex": {
+      "ja": "{片目|かため}をつぶってウインクした。",
+      "vi": "Nhắm một mắt để nháy mắt."
+     }
+    },
+    {
+     "id": "g35-w211",
+     "w": "片耳",
+     "r": "かたみみ",
+     "hv": "PHIẾN NHĨ",
+     "pos": "名",
+     "vi": "một tai",
+     "key": false,
+     "ex": {
+      "ja": "{片耳|かたみみ}だけイヤホンをして{歩|ある}く。",
+      "vi": "Đi bộ với tai nghe chỉ đeo một bên."
+     }
+    },
+    {
+     "id": "g35-w212",
+     "w": "片ひざ",
+     "r": "かたひざ",
+     "hv": "PHIẾN TẤT",
+     "pos": "名",
+     "vi": "một đầu gối",
+     "key": true,
+     "ex": {
+      "ja": "{彼|かれ}は{片|かた}ひざをついてプロポーズした。",
+      "vi": "Anh ấy quỳ một gối cầu hôn."
+     },
+     "col": [
+      "片ひざをつく"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "初〜",
+   "title_vi": "sơ- (はつ): lần đầu tiên",
+   "words": [
+    {
+     "id": "g35-w213",
+     "w": "初登場",
+     "r": "はつとうじょう",
+     "hv": "SƠ ĐĂNG TRƯỜNG",
+     "pos": "名・自動",
+     "vi": "lần đầu xuất hiện",
+     "key": false,
+     "ex": {
+      "ja": "{新|あたら}しいキャラクターが{第二話|だいにわ}で{初登場|はつとうじょう}する。",
+      "vi": "Nhân vật mới lần đầu xuất hiện ở tập 2."
+     }
+    },
+    {
+     "id": "g35-w214",
+     "w": "初体験",
+     "r": "はつたいけん",
+     "hv": "SƠ THỂ NGHIỆM",
+     "pos": "名",
+     "vi": "trải nghiệm lần đầu",
+     "key": false,
+     "ex": {
+      "ja": "スキーは{今日|きょう}が{初体験|はつたいけん}だ。",
+      "vi": "Trượt tuyết thì hôm nay là lần đầu."
+     }
+    },
+    {
+     "id": "g35-w215",
+     "w": "初優勝",
+     "r": "はつゆうしょう",
+     "hv": "SƠ ƯU THẮNG",
+     "pos": "名・自動",
+     "vi": "lần đầu vô địch",
+     "key": true,
+     "ex": {
+      "ja": "{地元|じもと}のチームが{初優勝|はつゆうしょう}を{果|は}たした。",
+      "vi": "Đội bóng địa phương lần đầu tiên giành chức vô địch."
+     }
+    },
+    {
+     "id": "g35-w216",
+     "w": "初出場",
+     "r": "はつしゅつじょう",
+     "hv": "SƠ XUẤT TRƯỜNG",
+     "pos": "名・自動",
+     "vi": "lần đầu tham dự (thi đấu)",
+     "key": true,
+     "ex": {
+      "ja": "この{高校|こうこう}は{今年|ことし}、{全国|ぜんこく}{大会|たいかい}に{初出場|はつしゅつじょう}する。",
+      "vi": "Năm nay trường cấp ba này lần đầu tham dự giải toàn quốc."
+     }
+    },
+    {
+     "id": "g35-w217",
+     "w": "初公開",
+     "r": "はつこうかい",
+     "hv": "SƠ CÔNG KHAI",
+     "pos": "名・他動",
+     "vi": "lần đầu công khai, ra mắt lần đầu",
+     "key": true,
+     "ex": {
+      "ja": "{画家|がか}の{未発表|みはっぴょう}の{作品|さくひん}が{初公開|はつこうかい}される。",
+      "vi": "Tác phẩm chưa công bố của họa sĩ lần đầu được trưng bày."
+     }
+    },
+    {
+     "id": "g35-w218",
+     "w": "初舞台",
+     "r": "はつぶたい",
+     "hv": "SƠ VŨ ĐÀI",
+     "pos": "名",
+     "vi": "lần đầu lên sân khấu",
+     "key": true,
+     "ex": {
+      "ja": "{彼女|かのじょ}は{五歳|ごさい}で{初舞台|はつぶたい}を{踏|ふ}んだ。",
+      "vi": "Cô ấy lần đầu lên sân khấu năm 5 tuổi."
+     },
+     "col": [
+      "初舞台を踏む"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "再〜",
+   "title_vi": "tái- (さい): lại, lần nữa",
+   "words": [
+    {
+     "id": "g35-w219",
+     "w": "再開発",
+     "r": "さいかいはつ",
+     "hv": "TÁI KHAI PHÁT",
+     "pos": "名・他動",
+     "vi": "tái phát triển, quy hoạch lại (đô thị)",
+     "key": false,
+     "ex": {
+      "ja": "{駅前|えきまえ}の{再開発|さいかいはつ}が{進|すす}んでいる。",
+      "vi": "Việc quy hoạch lại khu trước ga đang được xúc tiến."
+     }
+    },
+    {
+     "id": "g35-w220",
+     "w": "再就職",
+     "r": "さいしゅうしょく",
+     "hv": "TÁI TỰU CHỨC",
+     "pos": "名・自動",
+     "vi": "đi làm lại, tìm được việc mới",
+     "key": false,
+     "ex": {
+      "ja": "{定年|ていねん}{後|ご}、{地元|じもと}の{会社|かいしゃ}に{再就職|さいしゅうしょく}した。",
+      "vi": "Sau khi về hưu, ông ấy đi làm lại ở công ty địa phương."
+     }
+    },
+    {
+     "id": "g35-w221",
+     "w": "再利用",
+     "r": "さいりよう",
+     "hv": "TÁI LỢI DỤNG",
+     "pos": "名・他動",
+     "vi": "tái sử dụng",
+     "key": false,
+     "ex": {
+      "ja": "ペットボトルを{再利用|さいりよう}して{植木鉢|うえきばち}を{作|つく}る。",
+      "vi": "Tái sử dụng chai nhựa để làm chậu cây."
+     }
+    },
+    {
+     "id": "g35-w222",
+     "w": "再出発",
+     "r": "さいしゅっぱつ",
+     "hv": "TÁI XUẤT PHÁT",
+     "pos": "名・自動",
+     "vi": "khởi đầu lại",
+     "key": false,
+     "ex": {
+      "ja": "{失敗|しっぱい}から{学|まな}んで{再出発|さいしゅっぱつ}する。",
+      "vi": "Rút kinh nghiệm từ thất bại để làm lại từ đầu."
+     }
+    },
+    {
+     "id": "g35-w223",
+     "w": "再放送",
+     "r": "さいほうそう",
+     "hv": "TÁI PHÓNG TỐNG",
+     "pos": "名・他動",
+     "vi": "phát lại (chương trình)",
+     "key": false,
+     "ex": {
+      "ja": "{昔|むかし}のドラマが{再放送|さいほうそう}されている。",
+      "vi": "Bộ phim truyền hình ngày xưa đang được phát lại."
+     }
+    },
+    {
+     "id": "g35-w224",
+     "w": "再確認",
+     "r": "さいかくにん",
+     "hv": "TÁI XÁC NHẬN",
+     "pos": "名・他動",
+     "vi": "xác nhận lại",
+     "key": false,
+     "ex": {
+      "ja": "{出発|しゅっぱつ}{前|まえ}に{予約|よやく}を{再確認|さいかくにん}した。",
+      "vi": "Trước khi đi tôi xác nhận lại đặt chỗ."
+     }
+    },
+    {
+     "id": "g35-w225",
+     "w": "再発見",
+     "r": "さいはっけん",
+     "hv": "TÁI PHÁT KIẾN",
+     "pos": "名・他動",
+     "vi": "phát hiện lại (giá trị vốn có)",
+     "key": false,
+     "ex": {
+      "ja": "{旅|たび}に{出|で}て、{故郷|こきょう}のよさを{再発見|さいはっけん}した。",
+      "vi": "Đi xa rồi tôi mới nhận ra lại cái hay của quê hương."
+     }
+    }
+   ]
+  },
+  {
+   "title": "主〜",
+   "title_vi": "chủ- (しゅ): chính, chủ yếu",
+   "words": [
+    {
+     "id": "g35-w226",
+     "w": "主原料",
+     "r": "しゅげんりょう",
+     "hv": "CHỦ NGUYÊN LIỆU",
+     "pos": "名",
+     "vi": "nguyên liệu chính",
+     "key": true,
+     "ex": {
+      "ja": "みその{主原料|しゅげんりょう}は{大豆|だいず}だ。",
+      "vi": "Nguyên liệu chính của miso là đậu nành."
+     }
+    },
+    {
+     "id": "g35-w227",
+     "w": "主成分",
+     "r": "しゅせいぶん",
+     "hv": "CHỦ THÀNH PHẦN",
+     "pos": "名",
+     "vi": "thành phần chính",
+     "key": true,
+     "ex": {
+      "ja": "この{薬|くすり}の{主成分|しゅせいぶん}は{植物|しょくぶつ}から{取|と}れる。",
+      "vi": "Thành phần chính của thuốc này chiết xuất từ thực vật."
+     }
+    },
+    {
+     "id": "g35-w228",
+     "w": "主産地",
+     "r": "しゅさんち",
+     "hv": "CHỦ SẢN ĐỊA",
+     "pos": "名",
+     "vi": "vùng sản xuất chính",
+     "key": true,
+     "ex": {
+      "ja": "{青森県|あおもりけん}はりんごの{主産地|しゅさんち}だ。",
+      "vi": "Tỉnh Aomori là vùng sản xuất táo chính."
+     }
+    }
+   ]
+  },
+  {
+   "title": "副〜",
+   "title_vi": "phó- (ふく): phụ, thứ yếu, kèm theo",
+   "words": [
+    {
+     "id": "g35-w229",
+     "w": "副社長",
+     "r": "ふくしゃちょう",
+     "hv": "PHÓ XÃ TRƯỞNG",
+     "pos": "名",
+     "vi": "phó giám đốc",
+     "key": false,
+     "ex": {
+      "ja": "{副社長|ふくしゃちょう}が{社長|しゃちょう}の{代|か}わりに{挨拶|あいさつ}した。",
+      "vi": "Phó giám đốc phát biểu thay giám đốc."
+     }
+    },
+    {
+     "id": "g35-w230",
+     "w": "副収入",
+     "r": "ふくしゅうにゅう",
+     "hv": "PHÓ THU NHẬP",
+     "pos": "名",
+     "vi": "thu nhập phụ",
+     "key": false,
+     "ex": {
+      "ja": "{週末|しゅうまつ}のアルバイトで{副収入|ふくしゅうにゅう}を{得|え}ている。",
+      "vi": "Tôi có thêm thu nhập phụ nhờ làm thêm cuối tuần."
+     }
+    },
+    {
+     "id": "g35-w231",
+     "w": "副作用",
+     "r": "ふくさよう",
+     "hv": "PHÓ TÁC DỤNG",
+     "pos": "名",
+     "vi": "tác dụng phụ",
+     "key": true,
+     "ex": {
+      "ja": "この{薬|くすり}には{眠|ねむ}くなる{副作用|ふくさよう}がある。",
+      "vi": "Thuốc này có tác dụng phụ gây buồn ngủ."
+     }
+    },
+    {
+     "id": "g35-w232",
+     "w": "副都心",
+     "r": "ふくとしん",
+     "hv": "PHÓ ĐÔ TÂM",
+     "pos": "名",
+     "vi": "trung tâm phụ của thủ đô",
+     "key": true,
+     "ex": {
+      "ja": "{新宿|しんじゅく}は{東京|とうきょう}の{副都心|ふくとしん}の{一|ひと}つだ。",
+      "vi": "Shinjuku là một trong những trung tâm phụ của Tokyo."
+     }
+    }
+   ]
+  },
+  {
+   "title": "同〜",
+   "title_vi": "đồng- (どう): cùng, giống",
+   "words": [
+    {
+     "id": "g35-w233",
+     "w": "同年齢",
+     "r": "どうねんれい",
+     "hv": "ĐỒNG NIÊN LINH",
+     "pos": "名",
+     "vi": "cùng tuổi",
+     "key": false,
+     "ex": {
+      "ja": "{息子|むすこ}は{同年齢|どうねんれい}の{子|こ}より{背|せ}が{高|たか}い。",
+      "vi": "Con trai tôi cao hơn những đứa cùng tuổi."
+     }
+    },
+    {
+     "id": "g35-w234",
+     "w": "同価格",
+     "r": "どうかかく",
+     "hv": "ĐỒNG GIÁ CÁCH",
+     "pos": "名",
+     "vi": "cùng giá",
+     "key": false,
+     "ex": {
+      "ja": "{同価格|どうかかく}なら、{性能|せいのう}がいいほうを{選|えら}ぶ。",
+      "vi": "Nếu cùng giá thì tôi chọn cái tính năng tốt hơn."
+     }
+    },
+    {
+     "id": "g35-w235",
+     "w": "同程度",
+     "r": "どうていど",
+     "hv": "ĐỒNG TRÌNH ĐỘ",
+     "pos": "名",
+     "vi": "mức độ tương đương",
+     "key": true,
+     "ex": {
+      "ja": "{今年|ことし}の{売上|うりあげ}は{去年|きょねん}と{同程度|どうていど}だ。",
+      "vi": "Doanh thu năm nay tương đương năm ngoái."
+     }
+    },
+    {
+     "id": "g35-w236",
+     "w": "同世代",
+     "r": "どうせだい",
+     "hv": "ĐỒNG THẾ ĐẠI",
+     "pos": "名",
+     "vi": "cùng thế hệ",
+     "key": true,
+     "ex": {
+      "ja": "{同世代|どうせだい}の{友人|ゆうじん}と{話|はな}すと{気|き}が{楽|らく}だ。",
+      "vi": "Nói chuyện với bạn cùng thế hệ thấy thoải mái."
+     }
+    },
+    {
+     "id": "g35-w237",
+     "w": "同業者",
+     "r": "どうぎょうしゃ",
+     "hv": "ĐỒNG NGHIỆP GIẢ",
+     "pos": "名",
+     "vi": "người / công ty cùng ngành",
+     "key": true,
+     "ex": {
+      "ja": "{同業者|どうぎょうしゃ}との{競争|きょうそう}が{激|はげ}しくなった。",
+      "vi": "Cạnh tranh với các đơn vị cùng ngành ngày càng gay gắt."
+     },
+     "note": "Khác 同僚(どうりょう) = đồng nghiệp cùng công ty. 同業者 = người làm cùng ngành nghề (thường là đối thủ)."
+    }
+   ]
+  },
+  {
+   "title": "最〜",
+   "title_vi": "tối- (さい): nhất",
+   "words": [
+    {
+     "id": "g35-w238",
+     "w": "最重要",
+     "r": "さいじゅうよう",
+     "hv": "TỐI TRỌNG YẾU",
+     "pos": "名・な形",
+     "vi": "quan trọng nhất",
+     "key": false,
+     "ex": {
+      "ja": "{安全|あんぜん}の{確保|かくほ}が{最重要|さいじゅうよう}の{課題|かだい}だ。",
+      "vi": "Đảm bảo an toàn là nhiệm vụ quan trọng nhất."
+     }
+    },
+    {
+     "id": "g35-w239",
+     "w": "最前列",
+     "r": "さいぜんれつ",
+     "hv": "TỐI TIỀN LIỆT",
+     "pos": "名",
+     "vi": "hàng đầu tiên",
+     "key": true,
+     "ex": {
+      "ja": "コンサートで{最前列|さいぜんれつ}の{席|せき}が{取|と}れた。",
+      "vi": "Tôi giành được ghế hàng đầu ở buổi hòa nhạc."
+     }
+    },
+    {
+     "id": "g35-w240",
+     "w": "最優先",
+     "r": "さいゆうせん",
+     "hv": "TỐI ƯU TIÊN",
+     "pos": "名・他動",
+     "vi": "ưu tiên hàng đầu",
+     "key": true,
+     "ex": {
+      "ja": "{今|いま}は{体|からだ}を{治|なお}すことを{最優先|さいゆうせん}にしてください。",
+      "vi": "Bây giờ hãy ưu tiên hàng đầu cho việc chữa bệnh."
+     }
+    },
+    {
+     "id": "g35-w241",
+     "w": "最有力",
+     "r": "さいゆうりょく",
+     "hv": "TỐI HỮU LỰC",
+     "pos": "名・な形",
+     "vi": "sáng giá nhất, có khả năng nhất",
+     "key": true,
+     "ex": {
+      "ja": "{彼|かれ}は{次期|じき}{社長|しゃちょう}の{最有力|さいゆうりょく}{候補|こうほ}だ。",
+      "vi": "Anh ấy là ứng viên sáng giá nhất cho ghế giám đốc tới."
+     }
+    }
+   ]
+  },
+  {
+   "title": "超〜",
+   "title_vi": "siêu- (ちょう): vượt mức, cực kỳ",
+   "words": [
+    {
+     "id": "g35-w242",
+     "w": "超高級",
+     "r": "ちょうこうきゅう",
+     "hv": "SIÊU CAO CẤP",
+     "pos": "名・な形",
+     "vi": "siêu cao cấp",
+     "key": false,
+     "ex": {
+      "ja": "{一度|いちど}は{超高級|ちょうこうきゅう}ホテルに{泊|と}まってみたい。",
+      "vi": "Tôi muốn một lần được ở khách sạn siêu sang."
+     }
+    },
+    {
+     "id": "g35-w243",
+     "w": "超満員",
+     "r": "ちょうまんいん",
+     "hv": "SIÊU MÃN VIÊN",
+     "pos": "名",
+     "vi": "chật kín, đông nghẹt",
+     "key": false,
+     "ex": {
+      "ja": "{朝|あさ}の{電車|でんしゃ}は{超満員|ちょうまんいん}だ。",
+      "vi": "Tàu buổi sáng đông nghẹt người."
+     }
+    },
+    {
+     "id": "g35-w244",
+     "w": "超一流",
+     "r": "ちょういちりゅう",
+     "hv": "SIÊU NHẤT LƯU",
+     "pos": "名",
+     "vi": "hàng đỉnh cao, siêu hạng",
+     "key": true,
+     "ex": {
+      "ja": "この{店|みせ}の{料理|りょうり}は{超一流|ちょういちりゅう}のシェフが{作|つく}っている。",
+      "vi": "Món ăn ở quán này do đầu bếp hàng đỉnh cao nấu."
+     }
+    },
+    {
+     "id": "g35-w245",
+     "w": "超小型",
+     "r": "ちょうこがた",
+     "hv": "SIÊU TIỂU HÌNH",
+     "pos": "名",
+     "vi": "siêu nhỏ gọn",
+     "key": true,
+     "ex": {
+      "ja": "{超小型|ちょうこがた}のカメラをかばんに{付|つ}けている。",
+      "vi": "Tôi gắn một chiếc camera siêu nhỏ lên túi."
+     }
+    },
+    {
+     "id": "g35-w246",
+     "w": "超大型",
+     "r": "ちょうおおがた",
+     "hv": "SIÊU ĐẠI HÌNH",
+     "pos": "名",
+     "vi": "siêu lớn, cỡ cực đại",
+     "key": true,
+     "ex": {
+      "ja": "{超大型|ちょうおおがた}の{台風|たいふう}が{近|ちか}づいている。",
+      "vi": "Một cơn bão siêu lớn đang tiến đến."
+     },
+     "note": "大型 = おおがた, 小型 = こがた."
+    },
+    {
+     "id": "g35-w247",
+     "w": "超高層ビル",
+     "r": "ちょうこうそうビル",
+     "hv": "SIÊU CAO TẦNG",
+     "pos": "名",
+     "vi": "tòa nhà chọc trời",
+     "key": true,
+     "ex": {
+      "ja": "{都心|としん}には{超高層|ちょうこうそう}ビルが{立|た}ち{並|なら}んでいる。",
+      "vi": "Ở trung tâm thành phố các tòa nhà chọc trời mọc san sát."
+     }
+    },
+    {
+     "id": "g35-w248",
+     "w": "超大作",
+     "r": "ちょうたいさく",
+     "hv": "SIÊU ĐẠI TÁC",
+     "pos": "名",
+     "vi": "siêu phẩm quy mô lớn",
+     "key": true,
+     "ex": {
+      "ja": "{百億円|ひゃくおくえん}をかけた{超大作|ちょうたいさく}{映画|えいが}が{公開|こうかい}された。",
+      "vi": "Bộ phim siêu phẩm tốn 10 tỉ yên đã được công chiếu."
+     },
+     "note": "大作 đọc **たい**さく."
+    }
+   ]
+  },
+  {
+   "title": "名〜",
+   "title_vi": "danh- (めい): nổi tiếng, xuất sắc",
+   "words": [
+    {
+     "id": "g35-w249",
+     "w": "名女優",
+     "r": "めいじょゆう",
+     "hv": "DANH NỮ ƯU",
+     "pos": "名",
+     "vi": "nữ diễn viên tài danh",
+     "key": false,
+     "ex": {
+      "ja": "{彼女|かのじょ}は{日本|にほん}を{代表|だいひょう}する{名女優|めいじょゆう}だ。",
+      "vi": "Bà ấy là nữ diễn viên tài danh tiêu biểu của Nhật."
+     }
+    },
+    {
+     "id": "g35-w250",
+     "w": "名選手",
+     "r": "めいせんしゅ",
+     "hv": "DANH TUYỂN THỦ",
+     "pos": "名",
+     "vi": "cầu thủ / vận động viên xuất sắc",
+     "key": false,
+     "ex": {
+      "ja": "{名選手|めいせんしゅ}が{必|かなら}ずしも{名監督|めいかんとく}になれるわけではない。",
+      "vi": "Cầu thủ giỏi chưa chắc đã thành huấn luyện viên giỏi."
+     }
+    },
+    {
+     "id": "g35-w251",
+     "w": "名場面",
+     "r": "めいばめん",
+     "hv": "DANH TRƯỜNG DIỆN",
+     "pos": "名",
+     "vi": "cảnh để đời, cảnh kinh điển",
+     "key": true,
+     "ex": {
+      "ja": "{年末|ねんまつ}にドラマの{名場面|めいばめん}を{集|あつ}めた{番組|ばんぐみ}がある。",
+      "vi": "Cuối năm có chương trình tổng hợp những cảnh kinh điển của phim truyền hình."
+     }
+    },
+    {
+     "id": "g35-w252",
+     "w": "名勝負",
+     "r": "めいしょうぶ",
+     "hv": "DANH THẮNG PHỤ",
+     "pos": "名",
+     "vi": "trận đấu để đời",
+     "key": true,
+     "ex": {
+      "ja": "{二人|ふたり}の{決勝戦|けっしょうせん}は{歴史|れきし}に{残|のこ}る{名勝負|めいしょうぶ}だった。",
+      "vi": "Trận chung kết của hai người là trận đấu đi vào lịch sử."
+     }
+    },
+    {
+     "id": "g35-w253",
+     "w": "名曲",
+     "r": "めいきょく",
+     "hv": "DANH KHÚC",
+     "pos": "名",
+     "vi": "bản nhạc nổi tiếng, kinh điển",
+     "key": true,
+     "ex": {
+      "ja": "この{歌|うた}は{時代|じだい}を{超|こ}えて{愛|あい}される{名曲|めいきょく}だ。",
+      "vi": "Bài hát này là ca khúc kinh điển được yêu mến vượt thời gian."
+     }
+    },
+    {
+     "id": "g35-w254",
+     "w": "名演技",
+     "r": "めいえんぎ",
+     "hv": "DANH DIỄN KỸ",
+     "pos": "名",
+     "vi": "diễn xuất xuất sắc",
+     "key": true,
+     "ex": {
+      "ja": "{主役|しゅやく}の{名演技|めいえんぎ}に{観客|かんきゃく}は{涙|なみだ}を{流|なが}した。",
+      "vi": "Khán giả rơi nước mắt trước diễn xuất xuất sắc của vai chính."
+     }
+    },
+    {
+     "id": "g35-w255",
+     "w": "名セリフ",
+     "r": "めいセリフ",
+     "hv": "DANH",
+     "pos": "名",
+     "vi": "câu thoại nổi tiếng",
+     "key": true,
+     "ex": {
+      "ja": "あの{映画|えいが}の{名|めい}セリフは{今|いま}でも{覚|おぼ}えている。",
+      "vi": "Câu thoại nổi tiếng của bộ phim đó tôi vẫn còn nhớ."
+     }
+    }
+   ]
+  },
+  {
+   "title": "半〜",
+   "title_vi": "bán- (はん): một nửa; chưa trọn",
+   "words": [
+    {
+     "id": "g35-w256",
+     "w": "半ズボン",
+     "r": "はんズボン",
+     "hv": "BÁN",
+     "pos": "名",
+     "vi": "quần đùi, quần lửng",
+     "key": false,
+     "ex": {
+      "ja": "{夏|なつ}は{毎日|まいにち}{半|はん}ズボンで{過|す}ごす。",
+      "vi": "Mùa hè ngày nào tôi cũng mặc quần đùi."
+     }
+    },
+    {
+     "id": "g35-w257",
+     "w": "半世紀",
+     "r": "はんせいき",
+     "hv": "BÁN THẾ KỶ",
+     "pos": "名",
+     "vi": "nửa thế kỷ",
+     "key": true,
+     "ex": {
+      "ja": "この{店|みせ}は{半世紀|はんせいき}{以上|いじょう}{続|つづ}いている。",
+      "vi": "Quán này đã tồn tại hơn nửa thế kỷ."
+     }
+    },
+    {
+     "id": "g35-w258",
+     "w": "半そで",
+     "r": "はんそで",
+     "hv": "BÁN TỤ",
+     "pos": "名",
+     "vi": "áo cộc tay",
+     "key": true,
+     "ex": {
+      "ja": "{暑|あつ}いので{半|はん}そでのシャツを{着|き}た。",
+      "vi": "Nóng nên tôi mặc áo sơ mi cộc tay."
+     },
+     "rel": "↔ 長そで"
+    },
+    {
+     "id": "g35-w259",
+     "w": "半透明",
+     "r": "はんとうめい",
+     "hv": "BÁN THẤU MINH",
+     "pos": "名・な形",
+     "vi": "nửa trong suốt, mờ đục",
+     "key": true,
+     "ex": {
+      "ja": "ごみは{半透明|はんとうめい}の{袋|ふくろ}に{入|い}れて{出|だ}してください。",
+      "vi": "Hãy cho rác vào túi nửa trong suốt rồi đem bỏ."
+     }
+    },
+    {
+     "id": "g35-w260",
+     "w": "半永久的",
+     "r": "はんえいきゅうてき",
+     "hv": "BÁN VĨNH CỬU ĐÍCH",
+     "pos": "な形",
+     "vi": "gần như vĩnh viễn",
+     "key": true,
+     "ex": {
+      "ja": "この{電球|でんきゅう}は{半永久的|はんえいきゅうてき}に{使|つか}える。",
+      "vi": "Bóng đèn này dùng được gần như mãi mãi."
+     }
+    }
+   ]
+  },
+  {
+   "title": "生〜",
+   "title_vi": "sinh- (なま): trực tiếp, tại chỗ (không qua ghi hình)",
+   "words": [
+    {
+     "id": "g35-w261",
+     "w": "生放送",
+     "r": "なまほうそう",
+     "hv": "SINH PHÓNG TỐNG",
+     "pos": "名",
+     "vi": "phát sóng trực tiếp",
+     "key": false,
+     "ex": {
+      "ja": "{生放送|なまほうそう}なので、{言|い}い{間違|まちが}えても{直|なお}せない。",
+      "vi": "Vì phát trực tiếp nên nói nhầm cũng không sửa được."
+     },
+     "rel": "↔ 録画放送"
+    },
+    {
+     "id": "g35-w262",
+     "w": "生演奏",
+     "r": "なまえんそう",
+     "hv": "SINH DIỄN TẤU",
+     "pos": "名",
+     "vi": "biểu diễn nhạc sống",
+     "key": true,
+     "ex": {
+      "ja": "レストランでピアノの{生演奏|なまえんそう}を{聞|き}いた。",
+      "vi": "Tôi nghe đàn piano biểu diễn trực tiếp ở nhà hàng."
+     }
+    },
+    {
+     "id": "g35-w263",
+     "w": "生出演",
+     "r": "なましゅつえん",
+     "hv": "SINH XUẤT DIỄN",
+     "pos": "名・自動",
+     "vi": "xuất hiện trực tiếp (trên sóng)",
+     "key": true,
+     "ex": {
+      "ja": "{人気|にんき}{歌手|かしゅ}が{朝|あさ}の{番組|ばんぐみ}に{生出演|なましゅつえん}した。",
+      "vi": "Ca sĩ nổi tiếng xuất hiện trực tiếp trong chương trình buổi sáng."
+     }
+    }
+   ]
+  }
+ ],
+ "focus": [
+  {
+   "title": "不・無・非・未 — bốn chữ phủ định chọn thế nào?",
+   "body": "Cả bốn đều dịch là \"không / chưa\", nhưng mỗi chữ có hình ảnh riêng:\n\n- **不(ふ)** = \"không, chẳng\" — phủ định một **tính chất / trạng thái**, kết quả thường là な形: 不注意な, 不自然な, 不規則な, 不健康な, 不可能だ. Một số từ đọc **ぶ**: **不器用(ぶきよう)・不気味(ぶきみ)・不作法(ぶさほう)** (+ 不用心 ぶようじん) — phải thuộc lòng.\n- **無(む)** = \"không có N\" — đứng trước **danh từ** chỉ thứ lẽ ra phải có: 無責任 (không có trách nhiệm), 無関心, 無計画, 無表情, 無気力, 無許可.\n- **非(ひ)** = \"không thuộc loại / phi-\" — tách khỏi một **phạm trù, chuẩn mực**: 非常識, 非公式, 非公開, 非課税. Hay gặp trong văn bản hành chính.\n- **未(み)** = \"**chưa**\" — việc sẽ/có thể xảy ra nhưng đến giờ chưa: 未完成, 未解決, 未確認, 未経験, 未発表, 未開発. Thường đi với danh từ chỉ hành động.\n\nCặp dễ nhầm:\n- ✗ 不責任 → ○ **無責任** (\"không có\" trách nhiệm).\n- ✗ 無常識 → ○ **非常識**.\n- ✗ 不完成 → ○ **未完成** (chưa làm xong); còn **不完全** = không hoàn hảo, có thiếu sót.\n- 非公開 (chủ trương không công khai) ≠ 未公開 (chưa công bố, sau này có thể công bố).\n- 無許可 (làm mà không xin phép) ≠ 不許可 (bị từ chối cấp phép).\n\nMẹo: thử dịch câu — nếu dịch được \"**chưa**\" → 未; \"**không có**\" → 無; \"**không đúng chuẩn, phi-**\" → 非; còn lại tính chất xấu đi → 不."
+  },
+  {
+   "title": "Thời gian: 現・今・前・元・旧・新・古",
+   "body": "- **現(げん)** = hiện tại, **đương nhiệm**: 現市長, 現住所, 現段階, 現時点 — văn viết.\n- **今(こん)** = \"… này\" gắn với đơn vị thời gian: 今年度, 今学期, 今世紀, 今シーズン. (✗ 今段階 → ○ 現段階.)\n- **前(ぜん)** = người/kỳ **ngay trước** cái hiện tại: 前首相 = thủ tướng tiền nhiệm (người vừa rời ghế), 前年度 = năm ngay trước.\n- **元(もと)** = **trước đây từng là** (không cần ngay trước): 元首相 = bất kỳ ai từng làm thủ tướng; 元歌手 = trước làm ca sĩ, giờ làm nghề khác; 元夫・元妻 = chồng/vợ cũ.\n- **旧(きゅう)** = cái **cũ đã được thay thế** bởi cái mới (chế độ, tên gọi, lịch): 旧体制, 旧姓, 旧市街, 旧正月 ↔ **新(しん)**: 新体制, 新学期, 新年度.\n- **古(ふる)** = đồ vật **cũ vì dùng lâu**: 古新聞, 古本, 古時計.\n\nVí dụ: Ông A làm thủ tướng 2010–2012, ông B 2012–2020, nay là ông C. Thì B là **前首相**, còn A và B đều là **元首相**.\n- ✗ 前歌手 → ○ **元歌手** (前 chỉ dùng cho chức vụ có người kế nhiệm).\n- ✗ 古姓 → ○ **旧姓**;  ✗ 旧新聞 → ○ **古新聞**."
+  },
+  {
+   "title": "総・全・各・諸 và 両・片",
+   "body": "- **総(そう)** = **cộng gộp** tất cả thành một con số / một tổng thể: 総人口, 総面積, 総収入, 総人数, 総選挙, 総復習 (ôn lại toàn bộ một lượt).\n- **全(ぜん)** = **toàn bộ, không sót cái nào**: 全世界, 全国民, 全試合, 全科目, 全財産, 全自動 (tự động hoàn toàn).\n- **各(かく)** = **mỗi, từng** cái một (nhìn riêng từng cái): 各学校から一人ずつ, 各家庭に配る, 各方面, 各分野.\n- **諸(しょ)** = **các, nhiều** (gộp nhiều thứ khác nhau, văn viết): 諸外国, 諸問題, 諸条件, 諸費用, 諸事情.\n\nPhân biệt: 「総人口」 là một con số; 「全国民」 là tất cả mọi người; 「各家庭」 là từng nhà một; 「諸外国」 là các nước (nói chung).\n- Con số thống kê (dân số, diện tích, thu nhập) → đề chọn **総**: 総人口, 総面積, 総収入. 全 nhấn mạnh \"mọi thành viên, không sót\": 全国民, 全試合.\n- 各方面 = các phía (phản ứng đến từ nhiều nơi) — 多方面 = một người hoạt động ở nhiều lĩnh vực.\n\n**両(りょう)** = cả hai: 両手, 両目, 両チーム, 両方向. **片(かた)** = một bên trong cặp: 片手, 片目, 片足, 片ひざ. Lưu ý 両 đọc âm Hán, 片 đọc âm Nhật かた."
+  },
+  {
+   "title": "真・正 / 逆・反 / 別・異",
+   "body": "- **真(ま)** + vị trí, thời gian, màu, tính từ = \"**đúng ngay, hoàn toàn**\": 真上, 真下, 真後ろ, 真正面, 真向かい, 真夜中, 真四角, 真新しい (+ 真っ白, 真っ赤 có thêm っ).\n- **正(せい)** = \"**đúng chuẩn, chính quy**\": 正三角形 (tam giác đều), 正社員, 正比例, 正反対.\n  ✗ 正夜中 → ○ 真夜中;  \"trái ngược hoàn toàn\" → **正反対** (văn nói đôi khi nghe 真反対(まはんたい), nhưng đề và văn viết dùng 正反対).\n\n- **逆(ぎゃく)** = **đảo chiều** (hướng, thứ tự, kết quả): 逆方向, 逆コース, 逆輸入, 逆効果 (phản tác dụng).\n- **反(はん)** = **đối nghịch, chống lại**: 反時計回り, 反社会的, 反比例. ✗ 反効果 → ○ **逆効果**;  tỉ lệ nghịch → **反比例** (逆比例 hiếm dùng, sách và đề dùng 反比例).\n\n- **別(べつ)** = **cái khác, tách riêng** (cùng loại nhưng không phải cái này): 別問題, 別行動, 別方向, 別世界(べっせかい).\n- **異(い)** = **khác loại, khác hẳn** với bên mình: 異文化, 異民族, 異業種, 異分野. ✗ 別文化 → ○ 異文化.\n\nRiêng **好対照(こうたいしょう)**: hai thứ đặt cạnh nhau tương phản rõ rệt — 好 không có nghĩa \"tốt\"."
+  },
+  {
+   "title": "Cách đọc 大・長・小 và nhóm tính từ",
+   "body": "**大**: quy tắc chung — **おお + từ thuần Nhật**, **だい + từ Hán**:\n- おお: 大雨, 大けが, 大騒ぎ, 大違い, 大急ぎ, 大忙し (từ gốc Nhật).\n- だい: 大家族, 大問題, 大部分, 大成功, 大満足, 大人気, 大流行, 大活躍 (từ Hán).\n- **Ngoại lệ phải thuộc**: 大地震(おおじしん), 大掃除(おおそうじ), 大人数(おおにんずう), 大型(おおがた) — từ Hán nhưng đọc おお.\n\n**長**: なが + từ thuần Nhật (長持ち, 長続き, 長旅, 長そで, 長電話), ちょう + từ Hán (長距離, 長期間, 長時間). **短** luôn たん: 短距離, 短期間.\n**小(こ)**: 小部屋, 小皿, 小鳥… và nghĩa \"hơi\": 小太り (hơi mập). Âm sau thường bị đục: こ**ざ**ら, こ**ば**こ, こ**ぶ**とり.\n\nNhóm còn lại đều đọc âm Hán: 高(こう)／低(てい), 多(た)／少(しょう), 重(じゅう)／軽(けい), 好(こう)／悪(あく), 新(しん)／旧(きゅう), 急(きゅう).\n- 多人数 ≒ 大人数 (đông người) ↔ 少人数. ✗ 小人数 (nếu thấy thì sai chữ).\n- 好 ↔ 悪 / 不: 好景気 ↔ 不景気, 好条件 ↔ 悪条件, 好都合 ↔ 不都合."
+  },
+  {
+   "title": "初・再・最・超・名・半・生・主・副・同 — mỗi chữ một nghĩa rõ",
+   "body": "- **初(はつ)** = lần đầu: 初優勝, 初出場, 初舞台, 初公開. ↔ **再(さい)** = lại lần nữa: 再放送, 再利用, 再確認, 再就職, 再開発.\n- **最(さい)** = nhất (so sánh trong nhóm): 最前列, 最優先, 最重要, 最有力.\n- **超(ちょう)** = vượt quá mức thường, cực kỳ: 超満員, 超一流, 超高層ビル, 超小型, 超大作(ちょう**たい**さく).\n- **名(めい)** = nổi tiếng, xuất sắc: 名曲, 名場面, 名勝負, 名演技, 名女優.\n- **半(はん)** = một nửa / chưa trọn: 半そで, 半ズボン, 半世紀, 半透明, 半永久的.\n- **生(なま)** = trực tiếp, không qua ghi hình: 生放送, 生演奏, 生出演.\n- **主(しゅ)** = chính ↔ **副(ふく)** = phụ: 主原料, 主成分, 主産地 ↔ 副作用, 副収入, 副社長, 副都心.\n- **同(どう)** = cùng: 同世代, 同年齢, 同程度, 同業者.\n\nCặp dễ nhầm:\n- ✗ 最満員 → ○ **超満員** (満員 đã là mức tối đa, chỉ có thể \"vượt\").\n- ✗ 超前列 → ○ **最前列** (最 = vị trí nhất trong một dãy).\n- ✗ 逆作用 → ○ **副作用** (tác dụng ngoài ý muốn của thuốc).\n- Lần đầu vô địch → **初優勝**; phát lại chương trình → **再放送**."
+  }
+ ],
+ "quiz": [
+  {
+   "id": "g35-q1",
+   "kind": "formation",
+   "ref": "g35-w31",
+   "q": "この{小説|しょうせつ}は{作家|さっか}が{亡|な}くなったため、（　　）{完成|かんせい}のまま{出版|しゅっぱん}された。",
+   "options": [
+    "不",
+    "無",
+    "非",
+    "未"
+   ],
+   "answer": 3,
+   "vi": "Vì tác giả qua đời nên cuốn tiểu thuyết này được xuất bản trong tình trạng còn dang dở.",
+   "why": "\"Chưa viết xong\" → **未完成** (未 = chưa). 不: không có từ 不完成 (chỉ có 不完全 = không hoàn chỉnh); 無: ✗無完成; 非: ✗非完成."
+  },
+  {
+   "id": "g35-q2",
+   "kind": "formation",
+   "ref": "g35-w21",
+   "q": "{引|ひ}き{受|う}けた{仕事|しごと}を{途中|とちゅう}で{投|な}げ{出|だ}すなんて、（　　）{責任|せきにん}だ。",
+   "options": [
+    "無",
+    "不",
+    "非",
+    "未"
+   ],
+   "answer": 0,
+   "vi": "Bỏ ngang công việc đã nhận giữa chừng thì thật là vô trách nhiệm.",
+   "why": "\"Không có trách nhiệm\" → **無責任** (無 = không có N). 不責任・非責任・未責任 đều không phải từ tiếng Nhật."
+  },
+  {
+   "id": "g35-q3",
+   "kind": "formation",
+   "ref": "g35-w4",
+   "q": "この{手当|てあて}は（　　）{課税|かぜい}なので、{税金|ぜいきん}を{払|はら}う{必要|ひつよう}はない。",
+   "options": [
+    "未",
+    "非",
+    "無",
+    "反"
+   ],
+   "answer": 1,
+   "vi": "Khoản trợ cấp này không chịu thuế nên không cần đóng thuế.",
+   "why": "Thuật ngữ thuế là **非課税** (không thuộc diện đánh thuế). 未課税 = chưa đánh thuế (sau sẽ đánh) — không hợp với \"không cần đóng\"; ✗無課税 (muốn nói \"không có thuế\" thì dùng 無税); ✗反課税 không phải từ."
+  },
+  {
+   "id": "g35-q4",
+   "kind": "read",
+   "ref": "g35-w14",
+   "q": "{私|わたし}は{手先|てさき}が[[u:不器用]]で、{細|こま}かい{作業|さぎょう}が{苦手|にがて}だ。",
+   "options": [
+    "ふきよう",
+    "ぶきよう",
+    "ふきよ",
+    "ぶきょう"
+   ],
+   "answer": 1,
+   "vi": "Tay chân tôi vụng về nên kém các việc tỉ mỉ.",
+   "why": "不器用 đọc **ぶきよう** — một trong ba từ 不 đọc ぶ (不器用・不気味・不作法). ふきよう: sai âm 不; ふきよ・ぶきょう: 器用 là きよう (き + よう), không phải きょう hay きよ."
+  },
+  {
+   "id": "g35-q5",
+   "kind": "formation",
+   "ref": "g35-w70",
+   "q": "（　　）{歌手|かしゅ}の{彼女|かのじょ}は、{今|いま}は{料理|りょうり}{研究家|けんきゅうか}として{活躍|かつやく}している。",
+   "options": [
+    "前",
+    "旧",
+    "元",
+    "現"
+   ],
+   "answer": 2,
+   "vi": "Cô ấy từng là ca sĩ, giờ đang hoạt động với tư cách nhà nghiên cứu ẩm thực.",
+   "why": "\"Trước đây từng là ca sĩ, giờ làm nghề khác\" → **元歌手**. 前 chỉ dùng cho chức vụ có người kế nhiệm (前社長, 前首相), ca sĩ không có \"người tiền nhiệm\"; 旧 dùng cho chế độ/tên gọi cũ (旧体制, 旧姓); 現歌手 = ca sĩ hiện tại — mâu thuẫn với \"giờ là nhà nghiên cứu ẩm thực\"."
+  },
+  {
+   "id": "g35-q6",
+   "kind": "formation",
+   "ref": "g35-w196",
+   "q": "{大型|おおがた}の{台風|たいふう}が{九州|きゅうしゅう}に（　　）{接近|せっきん}しているので、{注意|ちゅうい}が{必要|ひつよう}だ。",
+   "options": [
+    "急",
+    "超",
+    "高",
+    "真"
+   ],
+   "answer": 0,
+   "vi": "Cơn bão lớn đang tiến nhanh vào Kyushu nên cần chú ý.",
+   "why": "**急接近** = tiến lại gần nhanh, đột ngột. ✗超接近, ✗高接近, ✗真接近 đều không phải từ. (Lưu ý: 台風が最接近する = \"bão đến điểm gần nhất\" là cách nói có thật trong bản tin thời tiết, nên đề sẽ không cho 最 làm phương án nhiễu ở đây.)"
+  },
+  {
+   "id": "g35-q7",
+   "kind": "formation",
+   "ref": "g35-w231",
+   "q": "この{薬|くすり}には、{飲|の}むと{眠|ねむ}くなるという（　　）{作用|さよう}がある。",
+   "options": [
+    "逆",
+    "別",
+    "再",
+    "副"
+   ],
+   "answer": 3,
+   "vi": "Thuốc này có tác dụng phụ là uống vào thì buồn ngủ.",
+   "why": "\"Tác dụng ngoài ý muốn đi kèm\" → **副作用**. 逆作用 (tác dụng ngược) không phải cách nói thông thường về thuốc; 別作用・再作用 không phải từ."
+  },
+  {
+   "id": "g35-q8",
+   "kind": "context",
+   "ref": "g35-w82",
+   "q": "{兄|あに}はにぎやかで{話好|はなしず}きだが、{弟|おとうと}は{無口|むくち}で、{二人|ふたり}の{性格|せいかく}は（　　）だ。",
+   "options": [
+    "逆効果",
+    "正反対",
+    "別世界",
+    "反比例"
+   ],
+   "answer": 1,
+   "vi": "Anh trai thì sôi nổi, thích nói chuyện, còn em trai ít nói — tính cách hai người trái ngược hoàn toàn.",
+   "why": "Hai tính cách đối lập → **正反対**. 逆効果 = phản tác dụng (kết quả của hành động); 別世界 = thế giới khác (cảnh vật, môi trường); 反比例 = tỉ lệ nghịch (quan hệ giữa hai đại lượng)."
+  },
+  {
+   "id": "g35-q9",
+   "kind": "formation",
+   "ref": "g35-w9",
+   "q": "{夜更|よふ}かしや{外食|がいしょく}ばかりの（　　）{健康|けんこう}な{生活|せいかつ}を{改|あらた}めたい。",
+   "options": [
+    "非",
+    "無",
+    "不",
+    "未"
+   ],
+   "answer": 2,
+   "vi": "Tôi muốn thay đổi lối sống không lành mạnh toàn thức khuya và ăn ngoài.",
+   "why": "Phủ định tính chất \"lành mạnh\" (健康な) → **不健康な**. 非健康・無健康・未健康 không phải từ."
+  },
+  {
+   "id": "g35-q10",
+   "kind": "paraphrase",
+   "ref": "g35-w54",
+   "q": "[[u:諸事情により]]、{本日|ほんじつ}は{臨時|りんじ}{休業|きゅうぎょう}いたします。",
+   "options": [
+    "いろいろな理由で",
+    "急な病気で",
+    "天気が悪いため",
+    "従業員が足りないため"
+   ],
+   "answer": 0,
+   "vi": "Vì một số lý do, hôm nay cửa hàng tạm nghỉ.",
+   "why": "諸 = \"các, nhiều\"; 諸事情 = nhiều hoàn cảnh/lý do (không nói cụ thể) ≒ **いろいろな理由で**. Ba phương án kia đều nêu một lý do cụ thể, trong khi 諸事情 cố ý không nói rõ lý do nào."
+  }
+ ],
+ "practice": [
+  {
+   "id": "g35-p1",
+   "kind": "formation",
+   "ref": "g35-w35",
+   "q": "{試験|しけん}の{前|まえ}に、{一年間|いちねんかん}に{習|なら}ったことを（　　）{復習|ふくしゅう}する。",
+   "options": [
+    "全",
+    "各",
+    "総",
+    "諸"
+   ],
+   "answer": 2,
+   "vi": "Trước kỳ thi, tôi ôn tập tổng hợp toàn bộ những gì đã học trong một năm.",
+   "why": "\"Ôn lại tất cả một lượt\" → **総復習**. 全復習 không phải từ (全 đi với danh từ chỉ phạm vi: 全世界, 全科目); 各復習 (ôn từng cái) và 諸復習 không dùng."
+  },
+  {
+   "id": "g35-p2",
+   "kind": "formation",
+   "ref": "g35-w50",
+   "q": "{日本|にほん}の{教育|きょういく}{制度|せいど}を（　　）{外国|がいこく}と{比較|ひかく}してみよう。",
+   "options": [
+    "諸",
+    "各",
+    "全",
+    "総"
+   ],
+   "answer": 0,
+   "vi": "Hãy thử so sánh chế độ giáo dục của Nhật với các nước khác.",
+   "why": "\"Các nước ngoài\" (nói chung, văn viết) → **諸外国**. 各外国・全外国・総外国 không phải từ; muốn nói \"từng nước\" phải dùng 各国(かっこく)."
+  },
+  {
+   "id": "g35-p3",
+   "kind": "formation",
+   "ref": "g35-w41",
+   "q": "この{洗濯機|せんたくき}はボタンを{押|お}すだけで{乾燥|かんそう}まで{終|お}わる（　　）{自動|じどう}タイプだ。",
+   "options": [
+    "超",
+    "総",
+    "諸",
+    "全"
+   ],
+   "answer": 3,
+   "vi": "Chiếc máy giặt này là loại hoàn toàn tự động, chỉ cần bấm nút là xong cả khâu sấy.",
+   "why": "\"Tự động hoàn toàn\" → **全自動**. 超自動・総自動・諸自動 không phải từ (総 = cộng gộp con số; 諸 = các; 超 không ghép với 自動)."
+  },
+  {
+   "id": "g35-p4",
+   "kind": "formation",
+   "ref": "g35-w230",
+   "q": "{会社員|かいしゃいん}の{田中|たなか}さんは、{週末|しゅうまつ}のアルバイトで（　　）{収入|しゅうにゅう}を{得|え}ている。",
+   "options": [
+    "主",
+    "副",
+    "再",
+    "逆"
+   ],
+   "answer": 1,
+   "vi": "Anh Tanaka là nhân viên công ty, có thêm thu nhập phụ nhờ làm thêm cuối tuần.",
+   "why": "Làm thêm cuối tuần ngoài công việc chính → **副収入** (thu nhập phụ). 主収入 = thu nhập chính — trái nghĩa với \"làm thêm cuối tuần\"; 再収入・逆収入 không phải từ."
+  },
+  {
+   "id": "g35-p5",
+   "kind": "formation",
+   "ref": "g35-w243",
+   "q": "{花火|はなび}{大会|たいかい}の{日|ひ}は、{駅|えき}も{電車|でんしゃ}も（　　）{満員|まんいん}だった。",
+   "options": [
+    "最",
+    "大",
+    "超",
+    "真"
+   ],
+   "answer": 2,
+   "vi": "Ngày lễ hội pháo hoa, cả nhà ga lẫn tàu đều đông nghẹt.",
+   "why": "\"Đầy quá mức\" → **超満員**. 満員 đã là \"đầy\", nên không thể \"nhất\" (✗最満員); ✗大満員, ✗真満員 cũng không phải từ."
+  },
+  {
+   "id": "g35-p6",
+   "kind": "formation",
+   "ref": "g35-w76",
+   "q": "{駅|えき}の（　　）{正面|しょうめん}に、{新|あたら}しいホテルが{建|た}った。",
+   "options": [
+    "正",
+    "最",
+    "直",
+    "真"
+   ],
+   "answer": 3,
+   "vi": "Ngay chính diện nhà ga, một khách sạn mới đã được xây.",
+   "why": "真 + từ chỉ vị trí = \"ngay đúng\": **真正面** (ましょうめん). ✗正正面 (lặp chữ, không có); ✗最正面; ✗直正面 — đều không phải từ."
+  },
+  {
+   "id": "g35-p7",
+   "kind": "read",
+   "ref": "g35-w117",
+   "q": "このキャラクターは{子|こ}どもたちに[[u:大人気]]だ。",
+   "options": [
+    "おおにんき",
+    "だいにんき",
+    "おとなげ",
+    "たいにんき"
+   ],
+   "answer": 1,
+   "vi": "Nhân vật này rất được bọn trẻ yêu thích.",
+   "why": "人気 là từ Hán → 大 đọc **だい**: だいにんき. おおにんき: sai (おお dùng với từ thuần Nhật như 大雨); おとなげ: là cách đọc trong 大人気ない (trẻ con), không hợp với 〜だ ở đây; たいにんき: sai âm."
+  },
+  {
+   "id": "g35-p8",
+   "kind": "formation",
+   "ref": "g35-w189",
+   "q": "{彼女|かのじょ}は{結婚|けっこん}した{後|あと}も、{仕事|しごと}では（　　）{姓|せい}の「{鈴木|すずき}」を{使|つか}っている。",
+   "options": [
+    "旧",
+    "古",
+    "元",
+    "前"
+   ],
+   "answer": 0,
+   "vi": "Sau khi kết hôn, ở chỗ làm cô ấy vẫn dùng họ cũ là \"Suzuki\".",
+   "why": "Họ cũ đã được thay bằng họ mới → **旧姓**. 古 dùng cho đồ vật cũ vì dùng lâu (古本); ✗元姓, ✗前姓 không phải từ."
+  },
+  {
+   "id": "g35-p9",
+   "kind": "formation",
+   "ref": "g35-w235",
+   "q": "{今年|ことし}の{売上|うりあげ}は、{去年|きょねん}とほぼ（　　）{程度|ていど}だった。",
+   "options": [
+    "両",
+    "半",
+    "同",
+    "別"
+   ],
+   "answer": 2,
+   "vi": "Doanh thu năm nay gần như tương đương năm ngoái.",
+   "why": "\"Mức độ giống nhau\" → **同程度**. 両程度・半程度・別程度 không phải từ."
+  },
+  {
+   "id": "g35-p10",
+   "kind": "context",
+   "ref": "g35-w138",
+   "q": "この{電池|でんち}はとても（　　）するので、{一年|いちねん}に{一度|いちど}{交換|こうかん}すれば{十分|じゅうぶん}だ。",
+   "options": [
+    "長続き",
+    "長電話",
+    "長旅",
+    "長持ち"
+   ],
+   "answer": 3,
+   "vi": "Cục pin này dùng rất bền, mỗi năm thay một lần là đủ.",
+   "why": "Đồ vật dùng được lâu → **長持ちする**. 長続き dùng cho việc làm, thói quen, quan hệ (仕事が長続きしない); 長電話・長旅 là danh từ chỉ cuộc gọi / chuyến đi dài, không hợp nghĩa."
+  },
+  {
+   "id": "g35-p11",
+   "kind": "formation",
+   "ref": "g35-w143",
+   "q": "{夜|よる}の（　　）{距離|きょり}バスに{乗|の}って、{朝|あさ}{大阪|おおさか}に{着|つ}いた。",
+   "options": [
+    "多",
+    "長",
+    "高",
+    "大"
+   ],
+   "answer": 1,
+   "vi": "Tôi đi xe buýt đường dài chạy đêm và đến Osaka vào buổi sáng.",
+   "why": "Xe chạy quãng đường xa → **長距離**(ちょうきょり)バス. 多距離・高距離・大距離 không phải từ."
+  },
+  {
+   "id": "g35-p12",
+   "kind": "paraphrase",
+   "ref": "g35-w57",
+   "q": "この{計画|けいかく}が{成功|せいこう}するかどうかは、[[u:現段階では]]まだわからない。",
+   "options": [
+    "最終的には",
+    "将来的には",
+    "今の時点では",
+    "以前から"
+   ],
+   "answer": 2,
+   "vi": "Kế hoạch này có thành công hay không thì ở giai đoạn hiện tại vẫn chưa biết.",
+   "why": "現段階 = giai đoạn hiện nay ≒ **今の時点では**. 最終的には = rốt cuộc; 将来的には = về lâu dài; 以前から = từ trước — đều sai mốc thời gian."
+  },
+  {
+   "id": "g35-p13",
+   "kind": "formation",
+   "ref": "g35-w167",
+   "q": "{試合|しあい}は{強|つよ}い{雨|あめ}と{風|かぜ}という（　　）{条件|じょうけん}の{中|なか}で{行|おこな}われた。",
+   "options": [
+    "不",
+    "低",
+    "無",
+    "悪"
+   ],
+   "answer": 3,
+   "vi": "Trận đấu diễn ra trong điều kiện bất lợi là mưa to và gió mạnh.",
+   "why": "Điều kiện xấu, bất lợi → **悪条件** (↔ 好条件). 無条件 có tồn tại nhưng nghĩa là \"vô điều kiện\", không hợp; ✗不条件, ✗低条件 không phải từ."
+  },
+  {
+   "id": "g35-p14",
+   "kind": "formation",
+   "ref": "g35-w176",
+   "q": "{物静|ものしず}かな{姉|あね}と{活発|かっぱつ}な{妹|いもうと}は（　　）{対照|たいしょう}で、{見|み}ていて{面白|おもしろ}い。",
+   "options": [
+    "好",
+    "正",
+    "反",
+    "逆"
+   ],
+   "answer": 0,
+   "vi": "Người chị trầm lặng và cô em hoạt bát tương phản rõ rệt, nhìn rất thú vị.",
+   "why": "Hai thứ tương phản rõ nét → **好対照**. ✗正対照, ✗反対照, ✗逆対照 đều không phải từ (dễ bị nhầm với 正反対)."
+  },
+  {
+   "id": "g35-p15",
+   "kind": "formation",
+   "ref": "g35-w210",
+   "q": "ウインクとは、（　　）{目|め}をつぶって{相手|あいて}に{合図|あいず}をすることだ。",
+   "options": [
+    "両",
+    "片",
+    "半",
+    "一"
+   ],
+   "answer": 1,
+   "vi": "Nháy mắt là nhắm một mắt để ra hiệu cho người kia.",
+   "why": "Một trong hai mắt → **片目**(かため). 両目 = cả hai mắt (nhắm cả hai thì không phải ウインク); ✗半目 (chỉ có 半目 = mắt hé, đọc はんめ, không dùng ở đây); 一目(ひとめ) = nhìn thoáng qua, khác nghĩa."
+  }
+ ],
+ "test": [
+  {
+   "id": "g35-t1",
+   "kind": "formation",
+   "ref": "g35-w1",
+   "q": "{電車|でんしゃ}の{中|なか}で{大声|おおごえ}で{電話|でんわ}するのは（　　）{常識|じょうしき}だ。",
+   "options": [
+    "不",
+    "無",
+    "非",
+    "未"
+   ],
+   "answer": 2,
+   "vi": "Gọi điện thoại oang oang trên tàu là thiếu ý thức.",
+   "why": "Đi ngược lẽ thường → **非常識**. 不常識・無常識・未常識 không phải từ chuẩn."
+  },
+  {
+   "id": "g35-t2",
+   "kind": "formation",
+   "ref": "g35-w23",
+   "q": "{失恋|しつれん}して{以来|いらい}、{彼|かれ}は{何|なに}に{対|たい}しても（　　）{気力|きりょく}だ。",
+   "options": [
+    "未",
+    "非",
+    "不",
+    "無"
+   ],
+   "answer": 3,
+   "vi": "Từ khi thất tình, anh ấy uể oải, chẳng còn chút sức sống với việc gì.",
+   "why": "\"Không có sức lực, ý chí\" → **無気力** (無 = không có N). 未気力・非気力・不気力 không phải từ."
+  },
+  {
+   "id": "g35-t3",
+   "kind": "formation",
+   "ref": "g35-w57",
+   "q": "（　　）{段階|だんかい}では、{事故|じこ}の{原因|げんいん}はまだわかっていない。",
+   "options": [
+    "今",
+    "当",
+    "現",
+    "元"
+   ],
+   "answer": 2,
+   "vi": "Ở giai đoạn hiện tại, nguyên nhân tai nạn vẫn chưa được làm rõ.",
+   "why": "**現段階** = giai đoạn hiện nay. 今 chỉ đi với đơn vị thời gian (今年度, 今学期, 今世紀) — ✗今段階; ✗当段階 không dùng; 元 = trước đây từng là — ✗元段階."
+  },
+  {
+   "id": "g35-t4",
+   "kind": "formation",
+   "ref": "g35-w90",
+   "q": "{厳|きび}しく{叱|しか}りすぎると、かえって（　　）{効果|こうか}になることがある。",
+   "options": [
+    "反",
+    "逆",
+    "非",
+    "無"
+   ],
+   "answer": 1,
+   "vi": "Mắng quá nghiêm khắc đôi khi lại phản tác dụng.",
+   "why": "\"Kết quả ngược với mong muốn\" → **逆効果**. ✗反効果 (反 dùng với 反比例, 反社会的); ✗非効果; 無効果 không phải cách nói chuẩn (nói 効果がない／無効)."
+  },
+  {
+   "id": "g35-t5",
+   "kind": "formation",
+   "ref": "g35-w171",
+   "q": "{準備|じゅんび}が{遅|おく}れていたので、{会議|かいぎ}が{延期|えんき}になったのは{私|わたし}たちには（　　）{都合|つごう}だった。",
+   "options": [
+    "好",
+    "良",
+    "不",
+    "便"
+   ],
+   "answer": 0,
+   "vi": "Vì đang chậm chuẩn bị nên việc cuộc họp bị hoãn lại hóa ra thuận lợi cho chúng tôi.",
+   "why": "Hoãn họp giúp người đang chậm chuẩn bị → thuận lợi → **好都合**. 不都合 = bất tiện — ngược nghĩa với ngữ cảnh; ✗良都合, ✗便都合 không phải từ."
+  },
+  {
+   "id": "g35-t6",
+   "kind": "read",
+   "ref": "g35-w261",
+   "q": "この{番組|ばんぐみ}は[[u:生放送]]なので、{失敗|しっぱい}しても{撮|と}り{直|なお}すことができない。",
+   "options": [
+    "せいほうそう",
+    "なまほうそう",
+    "しょうほうそう",
+    "いきほうそう"
+   ],
+   "answer": 1,
+   "vi": "Chương trình này phát sóng trực tiếp nên dù có sai sót cũng không quay lại được.",
+   "why": "生 với nghĩa \"trực tiếp\" đọc **なま**: なまほうそう (như 生演奏, 生出演). せい・しょう・いき là các cách đọc khác của 生 (生活, 一生, 生きる), không dùng trong từ này."
+  },
+  {
+   "id": "g35-t7",
+   "kind": "formation",
+   "ref": "g35-w228",
+   "q": "{青森県|あおもりけん}は、りんごの（　　）{産地|さんち}として{知|し}られている。",
+   "options": [
+    "副",
+    "正",
+    "元",
+    "主"
+   ],
+   "answer": 3,
+   "vi": "Tỉnh Aomori được biết đến là vùng sản xuất táo chính.",
+   "why": "Vùng sản xuất chủ yếu → **主産地**. ✗副産地 (副 chỉ có 副産物 = sản phẩm phụ); ✗正産地; 元 = trước đây (✗元産地)."
+  },
+  {
+   "id": "g35-t8",
+   "kind": "context",
+   "ref": "g35-w219",
+   "q": "{駅前|えきまえ}の（　　）が{進|すす}み、{古|ふる}い{商店街|しょうてんがい}が{高|たか}いビルに{変|か}わった。",
+   "options": [
+    "再利用",
+    "再開発",
+    "再発見",
+    "再出発"
+   ],
+   "answer": 1,
+   "vi": "Việc quy hoạch lại khu trước ga được xúc tiến, khu phố buôn bán cũ đã biến thành những tòa nhà cao.",
+   "why": "Quy hoạch, xây lại một khu đô thị → **再開発**. 再利用 = tái sử dụng đồ vật; 再発見 = phát hiện lại giá trị; 再出発 = làm lại từ đầu (con người, tổ chức) — đều không hợp với \"khu trước ga thay đổi\"."
+  },
+  {
+   "id": "g35-t9",
+   "kind": "formation",
+   "ref": "g35-w154",
+   "q": "この{店|みせ}では、さまざまな{国|くに}の{料理|りょうり}が{楽|たの}しめる（　　）{国籍|こくせき}{料理|りょうり}を{出|だ}している。",
+   "options": [
+    "多",
+    "諸",
+    "各",
+    "異"
+   ],
+   "answer": 0,
+   "vi": "Quán này phục vụ ẩm thực đa quốc gia, có thể thưởng thức món của nhiều nước.",
+   "why": "Nhiều quốc tịch → **多国籍** (多国籍企業, 多国籍料理). ✗諸国籍, ✗各国籍, ✗異国籍 không phải từ (chỉ có 異国 = nước ngoài)."
+  },
+  {
+   "id": "g35-t10",
+   "kind": "paraphrase",
+   "ref": "g35-w150",
+   "q": "{父|ちち}は[[u:多趣味]]で、{週末|しゅうまつ}はいつも{何|なに}かをしに{出|で}かけている。",
+   "options": [
+    "趣味にお金をかける",
+    "一つの趣味に熱中している",
+    "趣味がたくさんある",
+    "趣味が変わっている"
+   ],
+   "answer": 2,
+   "vi": "Bố tôi có nhiều sở thích nên cuối tuần lúc nào cũng ra ngoài làm gì đó.",
+   "why": "多 = nhiều → 多趣味 = **趣味がたくさんある**. 趣味にお金をかける = chi nhiều tiền cho sở thích (nói về tiền); 一つの趣味に熱中している = ngược lại (chỉ một sở thích); 趣味が変わっている = sở thích kỳ lạ."
+  },
+  {
+   "id": "g35-t11",
+   "kind": "formation",
+   "ref": "g35-w193",
+   "q": "その{会社|かいしゃ}はネット{販売|はんばい}で（　　）{成長|せいちょう}し、わずか{数年|すうねん}で{大企業|だいきぎょう}になった。",
+   "options": [
+    "超",
+    "最",
+    "早",
+    "急"
+   ],
+   "answer": 3,
+   "vi": "Công ty đó tăng trưởng vọt nhờ bán hàng qua mạng, chỉ vài năm đã thành doanh nghiệp lớn.",
+   "why": "Tăng trưởng nhanh, đột ngột → **急成長**. ✗超成長, ✗最成長, ✗早成長 không phải từ."
+  },
+  {
+   "id": "g35-t12",
+   "kind": "formation",
+   "ref": "g35-w259",
+   "q": "ごみは{中身|なかみ}が{見|み}える（　　）{透明|とうめい}の{袋|ふくろ}に{入|い}れて{出|だ}してください。",
+   "options": [
+    "半",
+    "不",
+    "無",
+    "非"
+   ],
+   "answer": 0,
+   "vi": "Hãy cho rác vào túi nửa trong suốt nhìn thấy được bên trong rồi đem bỏ.",
+   "why": "\"Nhìn thấy được bên trong\" → **半透明** (nửa trong suốt). 不透明 = đục, không nhìn xuyên qua — mâu thuẫn với 中身が見える; ✗無透明, ✗非透明 không phải từ."
+  }
+ ]
+}

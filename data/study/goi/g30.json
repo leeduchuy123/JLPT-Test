@@ -1,0 +1,357 @@
+{
+  "id": "g30",
+  "track": "goi",
+  "intro": "Bài cuối của chương phó từ có 49 từ, chia làm 3 phần:\n\n- **Phó từ nghĩa gần nhau** — học theo **cụm**, vì đề N2 thích đặt các từ trong cùng cụm làm phương án nhiễu: cuối cùng (いよいよ・とうとう・ついに・ようやく・結局), vô ý (うっかり・思わず・つい・ふと), ngoài dự đoán (案外・意外に・思いのほか・結構), tạm / đành (一応・とりあえず・やむをえず), trái lại / huống hồ / thà (かえって・まして・むしろ), cố ý / cất công (わざと・わざわざ・せっかく), số lượng (たった・ほんの・わずか・およそ・ほぼ・せいぜい・せめて), và vài cặp khác (どうせ・決まって, 早速・至急, いきなり・突如, 次第に・徐々に).\n- **Phó từ dạng 「漢字＋に」**: 主に, 既に, 単に, 常に, まさに.\n- **Phó từ khác**: あいにく, あくまで, 改めて, 思い切って, 思い切り, 中でも, 半ば.\n\nVới mỗi cụm, câu hỏi then chốt là: **điểm khác nhau nằm ở đâu?** — kết quả tốt hay xấu (ようやく chỉ cho điều mong đợi), có chủ ý hay không (わざと ↔ うっかり), giới hạn trên hay dưới (せいぜい ↔ せめて), đi với danh từ hay động từ (ほんの + N). Phần focus bên dưới so sánh từng cụm bằng cặp ✗/○.",
+  "sections": [
+    {
+      "title": "意味の近い副詞①　いよいよ・とうとう・ついに・ようやく・結局",
+      "title_vi": "Cuối cùng thì…",
+      "words": [
+        {"id": "g30-w1", "w": "いよいよ", "r": "いよいよ", "hv": "", "pos": "副", "vi": "sắp sửa, cuối cùng (thời khắc được chờ đợi) đã đến; càng lúc càng", "key": true,
+         "ex": {"ja": "{長|なが}い{準備|じゅんび}{期間|きかん}を{経|へ}て、いよいよ{明日|あした}{新店舗|しんてんぽ}がオープンする。", "vi": "Sau thời gian chuẩn bị dài, cuối cùng ngày mai cửa hàng mới sẽ khai trương."},
+         "col": ["いよいよ明日だ", "いよいよ始まる", "いよいよ激しくなる"],
+         "senses": [
+           {"vi": "thời khắc được chờ đợi sắp đến / vừa đến", "ex": {"ja": "いよいよ{次|つぎ}は{私|わたし}の{発表|はっぴょう}の{番|ばん}だ。", "vi": "Sắp tới lượt tôi thuyết trình rồi."}},
+           {"vi": "càng lúc càng (mức độ tăng dần)", "ex": {"ja": "{夜|よる}になって、{風|かぜ}はいよいよ{強|つよ}くなった。", "vi": "Về đêm, gió càng lúc càng mạnh."}}
+         ],
+         "note": "Trọng tâm là **thời điểm sắp tới / vừa bắt đầu** (いよいよ明日, いよいよ始まる), hơi hồi hộp. Ít dùng để báo kết quả đã đạt được: ✗ いよいよ{合格|ごうかく}した → ○ ようやく／ついに合格した."},
+        {"id": "g30-w2", "w": "とうとう", "r": "とうとう", "hv": "", "pos": "副", "vi": "rốt cuộc, cuối cùng (sau một quá trình dài, đi đến kết quả đã đoán trước) — tốt hoặc xấu", "key": true,
+         "ex": {"ja": "{三年|さんねん}かけて{書|か}いた{小説|しょうせつ}が、とうとう{完成|かんせい}した。", "vi": "Cuốn tiểu thuyết viết suốt ba năm rốt cuộc đã hoàn thành."},
+         "col": ["とうとう〜した", "とうとう〜なかった"], "rel": "≒ ついに",
+         "note": "Dùng được cho kết quả **tốt lẫn xấu** (とうとう{病気|びょうき}になった) và cả phủ định: 「{彼|かれ}はとうとう{来|こ}なかった」 = rốt cuộc anh ấy đã không đến. Văn nói nhiều hơn ついに."},
+        {"id": "g30-w3", "w": "ついに", "r": "ついに", "hv": "TOẠI", "pos": "副", "vi": "cuối cùng, rốt cuộc (kết quả lớn, đáng chú ý)", "key": true,
+         "ex": {"ja": "{何度|なんど}も{失敗|しっぱい}してきたロケットの{打|う}ち{上|あ}げが、ついに{成功|せいこう}した。", "vi": "Vụ phóng tên lửa thất bại bao lần cuối cùng đã thành công."},
+         "col": ["ついに〜した", "ついに〜なかった"], "rel": "≒ とうとう",
+         "note": "Chữ Hán 遂に. Gần như đồng nghĩa とうとう, nhưng trang trọng hơn, hay dùng cho **sự kiện lớn** (tin tức, lịch sử). Cũng đi được với phủ định: ついに{見|み}つからなかった."},
+        {"id": "g30-w4", "w": "ようやく", "r": "ようやく", "hv": "", "pos": "副", "vi": "cuối cùng thì (điều mong đợi) cũng…; mãi mới, vừa kịp", "key": true,
+         "ex": {"ja": "{長|なが}い{冬|ふゆ}が{終|お}わり、ようやく{桜|さくら}が{咲|さ}き{始|はじ}めた。", "vi": "Mùa đông dài đã qua, cuối cùng hoa anh đào cũng bắt đầu nở."},
+         "col": ["ようやく〜できた", "ようやく間に合う"], "rel": "≒ やっと",
+         "note": "Chỉ dùng cho kết quả **mong đợi** sau khi chờ đợi / vất vả. ✗ ようやく{病気|びょうき}が{悪化|あっか}した → ○ とうとう. ✗ ようやく{来|こ}なかった → ○ とうとう／結局 来なかった. Nghĩa phụ: \"vừa kịp\" (ようやく{終電|しゅうでん}に{間|ま}に{合|あ}った)."},
+        {"id": "g30-w5", "w": "結局", "r": "けっきょく", "hv": "KẾT CỤC", "pos": "副・名", "vi": "rốt cuộc, kết cục (sau nhiều cân nhắc, diễn biến)", "key": true,
+         "ex": {"ja": "{旅行先|りょこうさき}をあれこれ{迷|まよ}ったが、{結局|けっきょく}{去年|きょねん}と{同|おな}じ{温泉|おんせん}にした。", "vi": "Phân vân mãi nơi đi du lịch, rốt cuộc tôi lại chọn khu suối nước nóng như năm ngoái."},
+         "col": ["結局〜ことになった", "結局のところ"],
+         "note": "Nhấn vào **kết luận cuối cùng sau quá trình lưỡng lự / nhiều diễn biến** — thường khác với dự định ban đầu hoặc quay về điểm xuất phát. Đọc けっきょく. Đừng nhầm với 結構 (けっこう, khá là)."}
+      ]
+    },
+    {
+      "title": "意味の近い副詞②　うっかり・思わず・つい・ふと",
+      "title_vi": "Vô ý, bất giác, chợt",
+      "words": [
+        {"id": "g30-w6", "w": "うっかり", "r": "うっかり", "hv": "", "pos": "副・自動", "vi": "lơ đễnh, sơ ý (nên mắc lỗi)", "key": true,
+         "ex": {"ja": "うっかりして、{電車|でんしゃ}の{網棚|あみだな}に{荷物|にもつ}を{置|お}き{忘|わす}れた。", "vi": "Sơ ý, tôi để quên hành lý trên giá tàu."},
+         "col": ["うっかり忘れる", "うっかりミス", "うっかりする"],
+         "note": "Do **không chú ý** nên làm hỏng việc (quên, làm vỡ, nói lỡ). Kết quả là **lỗi**. Không dùng cho phản xạ cảm xúc (→ 思わず)."},
+        {"id": "g30-w7", "w": "思わず", "r": "おもわず", "hv": "TƯ", "pos": "副", "vi": "bất giác, không kìm được (phản xạ tức thời)", "key": true,
+         "ex": {"ja": "{映画|えいが}の{最後|さいご}の{場面|ばめん}で、{思|おも}わず{涙|なみだ}がこぼれた。", "vi": "Đến cảnh cuối phim, nước mắt bất giác rơi xuống."},
+         "col": ["思わず笑う", "思わず叫ぶ", "思わず声を出す"],
+         "note": "Phản ứng **tức thời trước một kích thích** (giật mình, cảm động, buồn cười) — không kịp suy nghĩ. Hay đi với 叫ぶ, 笑う, 涙が出る, 声を上げる."},
+        {"id": "g30-w8", "w": "つい", "r": "つい", "hv": "", "pos": "副", "vi": "lỡ, buột (biết là không nên mà vẫn làm); (+ thời gian) mới… thôi", "key": true,
+         "ex": {"ja": "{安|やす}かったので、つい{必要|ひつよう}のない{物|もの}まで{買|か}ってしまった。", "vi": "Vì rẻ nên tôi lỡ mua cả những thứ không cần."},
+         "col": ["つい〜てしまう", "ついうっかり", "つい先日", "ついさっき"],
+         "senses": [
+           {"vi": "lỡ, buột (do thói quen / cám dỗ, dù biết không nên)", "ex": {"ja": "{夜|よる}は{早|はや}く{寝|ね}ようと{思|おも}っても、ついスマホを{見|み}てしまう。", "vi": "Tối định đi ngủ sớm mà cứ lỡ cầm điện thoại xem."}},
+           {"vi": "(つい + 先日／さっき…) mới… thôi, vừa mới", "ex": {"ja": "{彼|かれ}とはつい{先日|せんじつ}{駅|えき}で{会|あ}ったばかりだ。", "vi": "Tôi vừa mới gặp anh ấy ở ga hôm trước thôi."}}
+         ],
+         "note": "Hầu như luôn đi với **〜てしまう**. Khác うっかり: うっかり = không để ý; つい = **biết mà vẫn không kìm được** (thói quen, ham muốn)."},
+        {"id": "g30-w9", "w": "ふと", "r": "ふと", "hv": "", "pos": "副", "vi": "chợt, bất chợt (không có lý do rõ)", "key": true,
+         "ex": {"ja": "{夜中|よなか}にふと{目|め}が{覚|さ}めて、{窓|まど}の{外|そと}を{見|み}た。", "vi": "Nửa đêm tôi chợt tỉnh giấc rồi nhìn ra ngoài cửa sổ."},
+         "col": ["ふと思い出す", "ふと気づく", "ふと見る", "ふと思いつく"],
+         "note": "Thường đi với hành vi **nhận thức** nhẹ: 思う, 思い出す, 気づく, 見る, 目が覚める. Không mang ý lỗi (khác うっかり) hay cảm xúc mạnh (khác 思わず)."}
+      ]
+    },
+    {
+      "title": "意味の近い副詞③　案外・意外（に／と）・思いのほか・結構",
+      "title_vi": "Ngoài dự đoán",
+      "words": [
+        {"id": "g30-w10", "w": "案外", "r": "あんがい", "hv": "ÁN NGOẠI", "pos": "副・な形", "vi": "không ngờ, hoá ra (khác với dự tính)", "key": true,
+         "ex": {"ja": "{難|むずか}しそうに{見|み}えた{問題|もんだい}が、{案外|あんがい}{簡単|かんたん}に{解|と}けた。", "vi": "Bài toán trông có vẻ khó, hoá ra giải được khá dễ dàng."},
+         "col": ["案外簡単だ", "案外早く", "案外な結果"], "rel": "≒ 意外に・思ったより",
+         "note": "Kết quả **lệch khỏi dự đoán** một chút (thường dự đoán xấu → thực tế tốt hơn). Sắc thái nhẹ hơn 意外に, văn nói."},
+        {"id": "g30-w11", "w": "意外（に／と）", "r": "いがい（に／と）", "hv": "Ý NGOẠI", "pos": "副・な形", "vi": "bất ngờ, ngoài sức tưởng tượng", "key": true,
+         "ex": {"ja": "{怖|こわ}そうな{先輩|せんぱい}だったが、{話|はな}してみると{意外|いがい}と{優|やさ}しかった。", "vi": "Anh khoá trên trông có vẻ đáng sợ, nhưng nói chuyện rồi mới thấy bất ngờ là rất hiền."},
+         "col": ["意外に〜", "意外と〜", "意外な結果", "意外にも"],
+         "note": "Mức \"ngạc nhiên\" mạnh hơn 案外 một chút. な形: 意外な{事実|じじつ} (sự thật bất ngờ). 意外と là văn nói. Đừng nhầm 以外(いがい) = ngoài ra."},
+        {"id": "g30-w12", "w": "思いのほか", "r": "おもいのほか", "hv": "TƯ", "pos": "副", "vi": "hơn (khác) hẳn mình nghĩ (văn viết)", "key": true,
+         "ex": {"ja": "{引|ひ}っ{越|こ}しの{作業|さぎょう}は{思|おも}いのほか{早|はや}く{終|お}わった。", "vi": "Việc chuyển nhà xong sớm hơn hẳn tôi nghĩ."},
+         "rel": "≒ 案外・意外に", "note": "Văn viết, hơi văn chương. Chữ Hán 思いの外. Nghĩa đen: \"nằm ngoài suy nghĩ\"."},
+        {"id": "g30-w13", "w": "結構", "r": "けっこう", "hv": "KẾT CẤU", "pos": "副・な形", "vi": "khá là (hơn mong đợi); (な形) tốt, đủ rồi", "key": true,
+         "ex": {"ja": "この{店|みせ}のラーメン、{安|やす}いのに{結構|けっこう}おいしいね。", "vi": "Mì ramen quán này rẻ mà khá là ngon nhỉ."},
+         "col": ["結構おいしい", "結構です", "結構な品"],
+         "senses": [
+           {"vi": "(副) khá là, hơn mình nghĩ", "ex": {"ja": "{初|はじ}めての{山登|やまのぼ}りだったが、{結構|けっこう}{楽|たの}しめた。", "vi": "Lần đầu leo núi mà tôi khá là thích."}},
+           {"vi": "(な形) tốt, tuyệt (lịch sự)", "ex": {"ja": "{結構|けっこう}なお{品|しな}をいただき、ありがとうございます。", "vi": "Cảm ơn anh đã tặng món quà quý."}},
+           {"vi": "「結構です」 = được rồi / không cần đâu (từ chối hoặc đồng ý tuỳ ngữ cảnh)", "ex": {"ja": "「お{茶|ちゃ}のおかわりはいかがですか。」「いえ、もう{結構|けっこう}です。」", "vi": "\"Anh dùng thêm trà nhé?\" — \"Thôi, đủ rồi ạ.\""}}
+         ],
+         "note": "Phó từ 結構 = mức độ **cao hơn mong đợi** (gần なかなか). Vì mang ý đánh giá nên không dùng để khen người trên. Đừng nhầm với 結局 (rốt cuộc)."}
+      ]
+    },
+    {
+      "title": "意味の近い副詞④　一応・とりあえず・やむをえず",
+      "title_vi": "Tạm, trước mắt, bất đắc dĩ",
+      "words": [
+        {"id": "g30-w14", "w": "一応", "r": "いちおう", "hv": "NHẤT ỨNG", "pos": "副", "vi": "cứ… cho chắc; tạm, ở mức tạm đủ", "key": true,
+         "ex": {"ja": "{大丈夫|だいじょうぶ}だとは{思|おも}うが、{一応|いちおう}{傘|かさ}を{持|も}っていこう。", "vi": "Chắc là không sao, nhưng cứ mang ô theo cho chắc."},
+         "col": ["一応確認する", "一応できた", "一応〜ておく"], "rel": "≒ 念のため",
+         "senses": [
+           {"vi": "cứ làm cho chắc (dù có thể không cần)", "ex": {"ja": "{一応|いちおう}、{出発|しゅっぱつ}{前|まえ}にもう{一度|いちど}{電話|でんわ}で{確認|かくにん}しておきます。", "vi": "Để cho chắc, trước khi đi tôi sẽ gọi điện xác nhận lại lần nữa."}},
+           {"vi": "tạm (ở mức tối thiểu, chưa hoàn hảo)", "ex": {"ja": "{企画書|きかくしょ}は{一応|いちおう}できたが、まだ{直|なお}すところが{多|おお}い。", "vi": "Bản kế hoạch tạm xong rồi nhưng còn nhiều chỗ phải sửa."}}
+         ],
+         "note": "Nghĩa (1) ≒ **念のため**; nghĩa (2) = xong ở mức tạm được. Khiêm tốn: 「一応、{弁護士|べんごし}です」 = tôi cũng là luật sư (nói nhún)."},
+        {"id": "g30-w15", "w": "とりあえず", "r": "とりあえず", "hv": "", "pos": "副", "vi": "trước mắt, trước hết (làm việc cần trước, phần còn lại tính sau)", "key": true,
+         "ex": {"ja": "{詳|くわ}しいことは{後|あと}で{話|はな}すから、とりあえず{中|なか}に{入|はい}って。", "vi": "Chuyện chi tiết để sau nói, trước hết vào trong đã."},
+         "col": ["とりあえず〜する", "とりあえずビール"], "rel": "≒ ひとまず",
+         "note": "Chữ Hán 取り敢えず. Làm **ngay việc cấp bách / bước đầu** khi chưa có thời gian lo hết. Câu quen thuộc ở quán nhậu: 「とりあえずビール」."},
+        {"id": "g30-w16", "w": "やむをえず", "r": "やむをえず", "hv": "CHỈ ĐẮC", "pos": "副", "vi": "bất đắc dĩ, đành phải (không còn cách nào khác)", "key": true,
+         "ex": {"ja": "{台風|たいふう}が{近|ちか}づいているため、やむをえず{旅行|りょこう}を{中止|ちゅうし}した。", "vi": "Vì bão đang đến gần nên đành phải huỷ chuyến du lịch."},
+         "col": ["やむをえず〜する", "やむをえない事情", "やむをえない場合"], "rel": "≒ 仕方なく",
+         "note": "Chữ Hán 止むを得ず. Nguyên nhân là **hoàn cảnh bên ngoài** buộc phải làm điều mình không muốn. Văn trang trọng hơn 仕方なく."}
+      ]
+    },
+    {
+      "title": "意味の近い副詞⑤　かえって・まして・むしろ",
+      "title_vi": "Trái lại, huống hồ, thà",
+      "words": [
+        {"id": "g30-w17", "w": "かえって", "r": "かえって", "hv": "PHẢN", "pos": "副", "vi": "ngược lại, trái lại (kết quả trái với mong đợi)", "key": true,
+         "ex": {"ja": "{近道|ちかみち}をしようとしたら{道|みち}に{迷|まよ}って、かえって{時間|じかん}がかかった。", "vi": "Định đi đường tắt thì bị lạc, ngược lại còn mất thời gian hơn."},
+         "col": ["かえって〜なる", "かえって迷惑だ"],
+         "note": "Chữ Hán 却って (ít dùng). Cấu trúc: **làm A để được kết quả tốt → kết quả ngược lại**. Phải có \"kỳ vọng\" bị đảo ngược."},
+        {"id": "g30-w18", "w": "まして", "r": "まして", "hv": "HUỐNG", "pos": "副", "vi": "huống chi, huống hồ", "key": true,
+         "ex": {"ja": "{日本人|にほんじん}でも{読|よ}めない{漢字|かんじ}だ。まして{初心者|しょしんしゃ}に{読|よ}めるわけがない。", "vi": "Chữ Hán mà người Nhật còn không đọc được. Huống hồ người mới học thì làm sao đọc được."},
+         "col": ["AでもXない。ましてBは〜", "まして〜はずがない／わけがない"], "rel": "≒ なおさら",
+         "note": "Chữ Hán 況して. Khung: **Aでも〜。まして B は（なおさら）〜** — trường hợp A đã thế thì B (dễ / khó hơn) càng thế. Thường kết bằng 〜はずがない／わけがない／なおさらだ."},
+        {"id": "g30-w19", "w": "むしろ", "r": "むしろ", "hv": "", "pos": "副", "vi": "thà… còn hơn, đúng hơn là (khi so sánh hai bên)", "key": true,
+         "ex": {"ja": "{彼|かれ}は{厳|きび}しいというより、むしろ{正直|しょうじき}なだけだ。", "vi": "Anh ấy không hẳn là nghiêm khắc, đúng hơn là chỉ thẳng thắn thôi."},
+         "col": ["AよりむしろB", "〜というよりむしろ〜", "むしろ〜ほうがいい"],
+         "note": "Chữ Hán 寧ろ. Đặt hai thứ cạnh nhau rồi **nghiêng về phía B**. Hay đi với 「Aより」「Aというより」. Khác かえって (kết quả trái kỳ vọng)."}
+      ]
+    },
+    {
+      "title": "意味の近い副詞⑥　わざと・わざわざ・せっかく",
+      "title_vi": "Cố ý, cất công",
+      "words": [
+        {"id": "g30-w20", "w": "わざと", "r": "わざと", "hv": "", "pos": "副", "vi": "cố ý, cố tình", "key": true,
+         "ex": {"ja": "{子|こ}どもとの{将棋|しょうぎ}で、{父|ちち}はわざと{負|ま}けてあげた。", "vi": "Chơi cờ với con, bố tôi cố tình thua cho con vui."},
+         "col": ["わざと負ける", "わざと〜ふりをする"], "rel": "≒ 故意に　↔ うっかり",
+         "note": "Làm điều **không nên / không bình thường** một cách có chủ ý. Thường nghĩa xấu hoặc trung tính (わざと{遅|おく}れる). Không dùng để cảm ơn (→ わざわざ)."},
+        {"id": "g30-w21", "w": "わざわざ", "r": "わざわざ", "hv": "", "pos": "副", "vi": "cất công, mất công (làm việc vốn không bắt buộc)", "key": true,
+         "ex": {"ja": "{遠|とお}いところをわざわざお{越|こ}しいただき、ありがとうございます。", "vi": "Cảm ơn anh đã cất công từ xa đến đây."},
+         "col": ["わざわざ〜てくれる", "わざわざ〜のに"],
+         "note": "Bỏ thêm công sức, thời gian **dù không cần làm**. Hay dùng để **cảm ơn** (わざわざすみません) hoặc phàn nàn (わざわざ{行|い}ったのに{休|やす}みだった). ✗ わざわざ{負|ま}けた (cố tình) → ○ わざと."},
+        {"id": "g30-w22", "w": "せっかく", "r": "せっかく", "hv": "", "pos": "副", "vi": "đã cất công / khó có dịp… (thế mà / nên)", "key": true,
+         "ex": {"ja": "せっかく{京都|きょうと}まで{来|き}たのだから、お{寺|てら}をいくつか{回|まわ}ってみよう。", "vi": "Đã cất công đến tận Kyoto rồi thì đi thăm vài ngôi chùa thôi."},
+         "col": ["せっかく〜のに", "せっかく〜のだから", "せっかくの〜", "せっかくですが"],
+         "senses": [
+           {"vi": "せっかく〜のに: đã cất công / có dịp hiếm mà lại… (tiếc)", "ex": {"ja": "せっかく{早起|はやお}きしたのに、{電車|でんしゃ}が{止|と}まっていた。", "vi": "Đã cất công dậy sớm thế mà tàu lại ngừng chạy."}},
+           {"vi": "せっかく〜から: đã có dịp thì tận dụng", "ex": {"ja": "せっかくの{休|やす}みだから、{家|いえ}でゆっくりしよう。", "vi": "Hiếm khi được nghỉ nên ở nhà thư thả thôi."}}
+         ],
+         "note": "Luôn có **vế sau**: tiếc nuối (〜のに) hoặc tận dụng (〜から／〜のだから). 「せっかくですが…」 = từ chối lịch sự lời mời. Danh từ: せっかくの + N."}
+      ]
+    },
+    {
+      "title": "意味の近い副詞⑦　たった・ほんの・わずか・およそ・ほぼ・せいぜい・せめて",
+      "title_vi": "Số lượng: ít, khoảng, tối đa, tối thiểu",
+      "words": [
+        {"id": "g30-w23", "w": "たった", "r": "たった", "hv": "", "pos": "副", "vi": "chỉ, vỏn vẹn (nhấn mạnh số ít)", "key": true,
+         "ex": {"ja": "{彼女|かのじょ}はこの{分厚|ぶあつ}い{本|ほん}をたった{一晩|ひとばん}で{読|よ}み{終|お}えた。", "vi": "Cô ấy đọc xong cuốn sách dày này chỉ trong một đêm."},
+         "col": ["たった一人", "たった〜だけ", "たった今"], "rel": "≒ わずか",
+         "note": "Đi với **từ chỉ số lượng** (たった三日, たった百円). Văn nói. 「たった今」 = vừa mới (lúc nãy)."},
+        {"id": "g30-w24", "w": "ほんの", "r": "ほんの", "hv": "", "pos": "連体", "vi": "chỉ một chút, chỉ là… (khiêm tốn)", "key": true,
+         "ex": {"ja": "ほんの{気持|きも}ちですが、どうぞお{受|う}け{取|と}りください。", "vi": "Chỉ là chút lòng thành, xin anh nhận cho."},
+         "col": ["ほんの少し", "ほんの気持ち", "ほんの数分"],
+         "note": "Là **連体詞**: chỉ đứng trước **danh từ / từ chỉ số lượng** (ほんの少し, ほんの一部). ✗ ほんの{安|やす}い / ✗ ほんの{食|た}べた."},
+        {"id": "g30-w25", "w": "わずか（に）", "r": "わずか（に）", "hv": "", "pos": "副・な形", "vi": "chỉ, ít ỏi (văn viết); わずかに = một chút, khẽ", "key": true,
+         "ex": {"ja": "{合格|ごうかく}{点|てん}にわずか{二点|にてん}{足|た}りなかった。", "vi": "Chỉ thiếu có hai điểm là đạt điểm đỗ."},
+         "col": ["わずか〜で", "わずかな差", "わずかに残る"],
+         "note": "Chữ Hán 僅か. わずか + số lượng ≒ たった (văn viết hơn). わずかに + động từ / tính từ = mức thay đổi rất nhỏ (わずかに{右|みぎ}に{傾|かたむ}く)."},
+        {"id": "g30-w26", "w": "およそ", "r": "およそ", "hv": "", "pos": "副・名", "vi": "khoảng, ước chừng; (với phủ định, văn viết) hoàn toàn", "key": true,
+         "ex": {"ja": "この{寺|てら}が{建|た}てられたのは、およそ{八百年|はっぴゃくねん}{前|まえ}のことだ。", "vi": "Ngôi chùa này được xây cách đây khoảng tám trăm năm."},
+         "col": ["およそ〜ぐらい", "およその見当", "およそ〜ない"], "rel": "≒ 約・だいたい",
+         "note": "Ước lượng **con số** (≒ 約). Danh từ: およその{金額|きんがく} (số tiền ước chừng). Văn viết: およそ{意味|いみ}がない = hoàn toàn vô nghĩa. Khác ほぼ: およそ + số lượng; ほぼ + trạng thái gần hoàn tất."},
+        {"id": "g30-w27", "w": "ほぼ", "r": "ほぼ", "hv": "", "pos": "副", "vi": "gần như, hầu như", "key": true,
+         "ex": {"ja": "{二人|ふたり}の{意見|いけん}はほぼ{同|おな}じだった。", "vi": "Ý kiến của hai người gần như giống nhau."},
+         "col": ["ほぼ完成", "ほぼ同じ", "ほぼ全員"], "rel": "≒ だいたい・おおむね",
+         "note": "Chữ Hán 略. **Gần đạt mức trọn vẹn** (完成, 同じ, 全員, 終わる). ✗ およそ{完成|かんせい}した → ○ ほぼ完成した."},
+        {"id": "g30-w28", "w": "せいぜい", "r": "せいぜい", "hv": "", "pos": "副", "vi": "cùng lắm, tối đa (cũng không hơn được)", "key": true,
+         "ex": {"ja": "{家|いえ}で{料理|りょうり}をするといっても、せいぜい{目玉焼|めだまや}きぐらいだ。", "vi": "Nói là nấu ăn ở nhà chứ cùng lắm cũng chỉ rán quả trứng."},
+         "col": ["せいぜい〜ぐらい／程度だ", "せいぜい頑張って"],
+         "note": "Đặt **giới hạn trên** (\"không thể hơn được\"), giọng hơi coi nhẹ. 「せいぜい{頑張|がんば}ってください」 = cố hết sức nhé (đôi khi mỉa). ↔ せめて (giới hạn dưới, mong muốn)."},
+        {"id": "g30-w29", "w": "せめて", "r": "せめて", "hv": "", "pos": "副", "vi": "ít ra thì, ít nhất (mong muốn mức tối thiểu)", "key": true,
+         "ex": {"ja": "{忙|いそが}しくても、せめて{週末|しゅうまつ}ぐらいは{家族|かぞく}と{過|す}ごしたい。", "vi": "Dù bận đến mấy, ít ra cuối tuần tôi cũng muốn ở bên gia đình."},
+         "col": ["せめて〜たい／てほしい", "せめて〜だけでも", "せめてもの〜"],
+         "note": "Đi với **mong muốn / yêu cầu** (〜たい, 〜てほしい, 〜てください, 〜べきだ): không được hết thì **ít nhất** cũng mức này. ✗ せいぜい{一日|いちにち}だけでも{休|やす}みたい → ○ せめて."}
+      ]
+    },
+    {
+      "title": "意味の近い副詞⑧　どうせ・決まって・早速・至急・いきなり・突如・次第に・徐々に",
+      "title_vi": "Thái độ, thói quen, tốc độ",
+      "words": [
+        {"id": "g30-w30", "w": "どうせ", "r": "どうせ", "hv": "", "pos": "副", "vi": "đằng nào cũng, dù sao thì (kết quả đã định — thường buông xuôi)", "key": true, "rel": "≒ どっちみち・どのみち；（どうせ〜のだから）≒ 必ず",
+         "ex": {"ja": "どうせ{何|なに}を{言|い}っても{聞|き}いてくれないのだから、もう{何|なに}も{言|い}わない。", "vi": "Đằng nào nói gì cũng không nghe, nên tôi chẳng nói nữa."},
+         "col": ["どうせ〜のだから", "どうせ〜なら", "どうせ私なんか"],
+         "senses": [
+           {"vi": "đằng nào cũng (chán nản, buông xuôi)", "ex": {"ja": "どうせ{間|ま}に{合|あ}わないから、{急|いそ}いでも{無駄|むだ}だ。", "vi": "Đằng nào cũng không kịp, có vội cũng vô ích."}},
+           {"vi": "どうせ〜なら: đã đằng nào cũng làm thì (làm cho ra trò)", "ex": {"ja": "どうせやるなら、{楽|たの}しくやろう。", "vi": "Đằng nào cũng phải làm thì làm cho vui."}}
+         ],
+         "note": "Người nói cho rằng **kết quả đã định sẵn**, không thay đổi được. Thường kèm 〜のだから／〜なら, và có giọng tự ti, bất mãn (どうせ私なんか…). Khi câu nói \"kiểu gì cũng sẽ…\" (どうせ{汚|よご}れる, どうせ{遅刻|ちこく}する), どうせ gần nghĩa với **必ず / どっちみち** — đề 言い換え hay hỏi cặp này."},
+        {"id": "g30-w31", "w": "決まって", "r": "きまって", "hv": "QUYẾT", "pos": "副", "vi": "lần nào cũng, hễ… là (thói quen lặp lại)", "key": true,
+         "ex": {"ja": "{父|ちち}はお{酒|さけ}を{飲|の}むと、{決|き}まって{昔|むかし}の{話|はなし}を{始|はじ}める。", "vi": "Bố tôi hễ uống rượu là y như rằng bắt đầu kể chuyện ngày xưa."},
+         "col": ["〜と決まって", "決まって〜する"], "rel": "≒ いつも必ず",
+         "note": "Mô tả **quy luật / thói quen** (hễ A thì B). Không dùng cho ý chí, lời hứa một lần: ✗ {明日|あした}は{決|き}まって{行|い}きます → ○ 必ず行きます."},
+        {"id": "g30-w32", "w": "早速", "r": "さっそく", "hv": "TẢO TỐC", "pos": "副", "vi": "ngay, liền (bắt tay vào làm ngay khi có dịp)", "key": true,
+         "ex": {"ja": "{新|あたら}しいレシピを{教|おし}えてもらったので、{早速|さっそく}{今晩|こんばん}{作|つく}ってみた。", "vi": "Được chỉ công thức mới nên tối nay tôi làm thử ngay."},
+         "col": ["早速〜てみる", "早速ですが", "早速のご返事"],
+         "note": "Sắc thái **hào hứng, nhanh nhẹn** đón nhận việc gì đó. 「早速ですが、本題に入ります」 = xin vào thẳng vấn đề. Khác 至急 (khẩn cấp)."},
+        {"id": "g30-w33", "w": "至急", "r": "しきゅう", "hv": "CHÍ CẤP", "pos": "副・名", "vi": "khẩn, gấp", "key": true,
+         "ex": {"ja": "{書類|しょるい}に{不備|ふび}がありましたので、{至急|しきゅう}ご{連絡|れんらく}ください。", "vi": "Hồ sơ có thiếu sót, xin vui lòng liên lạc gấp."},
+         "col": ["至急〜てください", "至急の用事", "大至急"], "rel": "≒ 大急ぎで",
+         "note": "Dùng trong công việc khi **yêu cầu** làm gấp vì tình huống cấp bách. 「大至急」 = cực gấp. Không hợp với sắc thái hào hứng thử ngay (→ 早速)."},
+        {"id": "g30-w34", "w": "いきなり", "r": "いきなり", "hv": "", "pos": "副", "vi": "bất thình lình, đột ngột; ngay (bỏ qua bước chuẩn bị)", "key": true,
+         "ex": {"ja": "{知|し}らない{人|ひと}にいきなり{名前|なまえ}を{呼|よ}ばれて{驚|おどろ}いた。", "vi": "Bị người lạ bất thình lình gọi tên, tôi giật mình."},
+         "col": ["いきなり〜する", "いきなり本番"], "rel": "≒ 突然",
+         "note": "Văn nói. Hai sắc thái: (1) **đột ngột**, không báo trước; (2) **bỏ qua bước thông thường**: 「{準備|じゅんび}{運動|うんどう}なしでいきなり{走|はし}る」."},
+        {"id": "g30-w35", "w": "突如", "r": "とつじょ", "hv": "ĐỘT NHƯ", "pos": "副", "vi": "đột nhiên (văn viết)", "key": true,
+         "ex": {"ja": "{静|しず}かだった{海|うみ}に、{突如|とつじょ}{大|おお}きな{波|なみ}が{押|お}し{寄|よ}せた。", "vi": "Mặt biển đang lặng thì đột nhiên những con sóng lớn ập vào."},
+         "col": ["突如として", "突如現れる"], "rel": "≒ 突然",
+         "note": "Văn viết (tin tức, tiểu thuyết) của 突然. Đọc とつじょ (bẫy: とつぜん là 突然)."},
+        {"id": "g30-w36", "w": "次第に", "r": "しだいに", "hv": "THỨ ĐỆ", "pos": "副", "vi": "dần dần", "key": true,
+         "ex": {"ja": "{日|ひ}が{沈|しず}むと、{気温|きおん}は{次第|しだい}に{下|さ}がっていった。", "vi": "Mặt trời lặn, nhiệt độ dần dần hạ xuống."},
+         "col": ["次第に〜なる", "次第に〜ていく"], "rel": "≒ だんだん",
+         "note": "Thay đổi **tự nhiên** theo thời gian, hay đi với 〜なる／〜ていく／〜てくる. Không đi với hành động một lần, tức thời."},
+        {"id": "g30-w37", "w": "徐々に", "r": "じょじょに", "hv": "TỪ", "pos": "副", "vi": "từ từ, dần dần (từng chút một)", "key": true,
+         "ex": {"ja": "リハビリを{続|つづ}けて、{足|あし}の{感覚|かんかく}が{徐々|じょじょ}に{戻|もど}ってきた。", "vi": "Kiên trì tập phục hồi, cảm giác ở chân từ từ quay trở lại."},
+         "col": ["徐々に増える", "徐々にスピードを上げる"], "rel": "≒ 少しずつ",
+         "note": "Nhấn **tốc độ chậm, từng bước nhỏ**; dùng được cả cho hành động có chủ ý (徐々に{慣|な}らす, 徐々にスピードを{上|あ}げる). 次第に thiên về thay đổi tự nhiên."}
+      ]
+    },
+    {
+      "title": "「漢字＋に」の形の副詞",
+      "title_vi": "Phó từ dạng Hán tự + に",
+      "words": [
+        {"id": "g30-w38", "w": "主に", "r": "おもに", "hv": "CHỦ", "pos": "副", "vi": "chủ yếu", "key": true,
+         "ex": {"ja": "この{会社|かいしゃ}は{主|おも}に{子|こ}ども{向|む}けのおもちゃを{作|つく}っている。", "vi": "Công ty này chủ yếu sản xuất đồ chơi dành cho trẻ em."},
+         "rel": "≒ 主として", "note": "Đọc **おもに** (không phải しゅに). Chỉ phần **chiếm đa số / trọng tâm**."},
+        {"id": "g30-w39", "w": "既に", "r": "すでに", "hv": "KÝ", "pos": "副", "vi": "đã (rồi)", "key": true,
+         "ex": {"ja": "{会場|かいじょう}に{着|つ}いたときには、{既|すで}に{式|しき}が{始|はじ}まっていた。", "vi": "Lúc tôi đến hội trường thì buổi lễ đã bắt đầu rồi."},
+         "rel": "≒ もう", "note": "Văn viết của もう (nghĩa \"đã\"). Thường đi với 〜ていた／〜た. Không dùng cho \"sắp\" (✗ 既に始まります)."},
+        {"id": "g30-w40", "w": "単に", "r": "たんに", "hv": "ĐƠN", "pos": "副", "vi": "chỉ đơn thuần, chỉ là", "key": true,
+         "ex": {"ja": "{彼|かれ}が{機嫌|きげん}が{悪|わる}いのは、{単|たん}に{疲|つか}れているからだと{思|おも}う。", "vi": "Tôi nghĩ anh ấy cáu kỉnh chỉ đơn giản là vì mệt."},
+         "col": ["単に〜だけ", "単に〜にすぎない", "単に〜だけでなく"],
+         "note": "Hay đi với **〜だけ／〜にすぎない**. 「単に〜だけでなく」 = không chỉ đơn thuần là… mà còn."},
+        {"id": "g30-w41", "w": "常に", "r": "つねに", "hv": "THƯỜNG", "pos": "副", "vi": "luôn luôn, lúc nào cũng", "key": true,
+         "ex": {"ja": "{医師|いし}は{常|つね}に{患者|かんじゃ}の{立場|たちば}に{立|た}って{考|かんが}えるべきだ。", "vi": "Bác sĩ luôn phải đứng ở vị trí bệnh nhân để suy nghĩ."},
+         "rel": "≒ いつも", "note": "Văn viết của いつも. Đọc つねに (bẫy: じょうに)."},
+        {"id": "g30-w42", "w": "まさに", "r": "まさに", "hv": "CHÍNH", "pos": "副", "vi": "chính là, đúng là; (まさに〜ようとする) đúng lúc sắp", "key": true,
+         "ex": {"ja": "{彼|かれ}の{活躍|かつやく}は、まさにチームの{救世主|きゅうせいしゅ}と{呼|よ}ぶにふさわしい。", "vi": "Màn thể hiện của anh ấy đúng là xứng đáng được gọi là vị cứu tinh của đội."},
+         "col": ["まさに〜だ", "まさに〜ようとしている", "まさにその時"],
+         "senses": [
+           {"vi": "chính là, đúng là (khẳng định mạnh)", "ex": {"ja": "{山頂|さんちょう}からの{眺|なが}めは、まさに{絶景|ぜっけい}だった。", "vi": "Quang cảnh từ đỉnh núi đúng là tuyệt cảnh."}},
+           {"vi": "まさに〜ようとする: đúng vào lúc sắp…", "ex": {"ja": "ドアがまさに{閉|し}まろうとしたとき、{彼|かれ}が{電車|でんしゃ}に{飛|と}び{乗|の}ってきた。", "vi": "Đúng lúc cửa sắp đóng thì anh ấy nhảy lên tàu."}}
+         ],
+         "note": "Chữ Hán 正に. Dùng để **khẳng định không sai một li**. Đừng nhầm với まさか (lẽ nào) ở bài 2."}
+      ]
+    },
+    {
+      "title": "その他の副詞",
+      "title_vi": "Phó từ khác",
+      "words": [
+        {"id": "g30-w43", "w": "あいにく", "r": "あいにく", "hv": "SINH TĂNG", "pos": "副・な形", "vi": "không may, tiếc là (không như mong muốn)", "key": true,
+         "ex": {"ja": "{楽|たの}しみにしていた{遠足|えんそく}は、あいにくの{雨|あめ}で{中止|ちゅうし}になった。", "vi": "Chuyến dã ngoại mong chờ đã bị huỷ vì cơn mưa không may."},
+         "col": ["あいにくの雨", "あいにくですが", "あいにく〜ております"], "rel": "≒ 残念ながら・折悪しく",
+         "note": "Chữ Hán 生憎. Rất hay dùng khi **từ chối / báo tin không vui một cách lịch sự** với khách: 「あいにく{本日|ほんじつ}は{満席|まんせき}でございます」."},
+        {"id": "g30-w44", "w": "あくまで", "r": "あくまで", "hv": "BÃO", "pos": "副", "vi": "đến cùng; (あくまで〜だ) chỉ là… thôi", "key": true,
+         "ex": {"ja": "これはあくまで{私|わたし}{個人|こじん}の{意見|いけん}です。", "vi": "Đây chỉ là ý kiến cá nhân tôi thôi."},
+         "col": ["あくまで〜する", "あくまで〜にすぎない", "あくまでも"],
+         "senses": [
+           {"vi": "đến cùng, kiên quyết không đổi", "ex": {"ja": "{彼|かれ}は{周囲|しゅうい}に{反対|はんたい}されても、あくまで{自分|じぶん}のやり{方|かた}を{通|とお}した。", "vi": "Dù bị mọi người phản đối, anh ấy vẫn kiên quyết theo cách của mình đến cùng."}},
+           {"vi": "chỉ là… (giới hạn phạm vi, rào đón)", "ex": {"ja": "この{数字|すうじ}はあくまで{目安|めやす}なので、{参考|さんこう}{程度|ていど}にしてください。", "vi": "Con số này chỉ là mức tham khảo thôi, xin chỉ dùng để tham khảo."}}
+         ],
+         "note": "Chữ Hán 飽くまで. Nghĩa (2) rất hay gặp trong công việc để **rào trước**: 「あくまで{予定|よてい}です」 = chỉ là dự kiến thôi."},
+        {"id": "g30-w45", "w": "改めて", "r": "あらためて", "hv": "CẢI", "pos": "副", "vi": "(để) dịp khác, lại lần nữa; (nhận ra) một lần nữa, thấm thía", "key": true,
+         "ex": {"ja": "{詳|くわ}しいことは、{後日|ごじつ}{改|あらた}めてご{連絡|れんらく}いたします。", "vi": "Chi tiết, hôm khác chúng tôi sẽ liên lạc lại."},
+         "col": ["改めて連絡する", "改めて〜を感じる", "改めまして"],
+         "senses": [
+           {"vi": "lại, vào dịp khác (làm lại lần nữa)", "ex": {"ja": "{今日|きょう}は{時間|じかん}がないので、{改|あらた}めて{伺|うかが}います。", "vi": "Hôm nay không có thời gian, hôm khác tôi xin đến lại."}},
+           {"vi": "một lần nữa (nhận thức lại sâu sắc)", "ex": {"ja": "{病気|びょうき}になって、{改|あらた}めて{健康|けんこう}のありがたさを{知|し}った。", "vi": "Bị ốm mới một lần nữa thấm thía giá trị của sức khoẻ."}}
+         ],
+         "note": "Động từ gốc 改める (đổi mới, sửa). 「改めまして、{田中|たなか}です」 = xin giới thiệu lại, tôi là Tanaka."},
+        {"id": "g30-w46", "w": "思い切って", "r": "おもいきって", "hv": "TƯ THIẾT", "pos": "副", "vi": "mạnh dạn, dứt khoát (vượt qua do dự)", "key": true,
+         "ex": {"ja": "{迷|まよ}っていたが、{思|おも}い{切|き}って{会社|かいしゃ}を{辞|や}め、{留学|りゅうがく}することにした。", "vi": "Tôi đã do dự, nhưng rồi mạnh dạn nghỉ việc để đi du học."},
+         "col": ["思い切って〜する", "思い切った決断"],
+         "note": "Trước đó phải có **do dự, lo lắng**; 思い切って = gạt bỏ do dự để quyết làm. Khác 思い切り (làm hết mức)."},
+        {"id": "g30-w47", "w": "思い切り・思いっ切り", "r": "おもいきり・おもいっきり", "hv": "TƯ THIẾT", "pos": "副・名", "vi": "hết sức, thoả thích", "key": true,
+         "ex": {"ja": "{試験|しけん}が{終|お}わったら、{思|おも}いっ{切|き}り{遊|あそ}びたい。", "vi": "Thi xong tôi muốn chơi cho thoả thích."},
+         "col": ["思い切り泣く", "思い切り遊ぶ", "思い切りがいい"],
+         "note": "Làm **với toàn bộ sức lực / không kìm nén** (泣く, 笑う, 遊ぶ, 蹴る). 思いっ切り là văn nói. Danh từ: 思い切りがいい = dứt khoát. ✗ 思い切って{泣|な}いた → ○ 思い切り泣いた."},
+        {"id": "g30-w48", "w": "中でも", "r": "なかでも", "hv": "TRUNG", "pos": "副", "vi": "trong số đó, đặc biệt là", "key": true,
+         "ex": {"ja": "{日本|にほん}{料理|りょうり}はどれも{好|す}きだが、{中|なか}でもすしが{一番|いちばん}{好|す}きだ。", "vi": "Món Nhật nào tôi cũng thích, nhưng trong số đó thích sushi nhất."},
+         "col": ["中でも〜が一番", "中でも特に"], "rel": "≒ とりわけ・特に",
+         "note": "Phía trước phải có **một tập hợp** (どれも, いろいろな〜, 多くの〜), rồi 中でも chọn ra một cái nổi bật."},
+        {"id": "g30-w49", "w": "半ば", "r": "なかば", "hv": "BÁN", "pos": "副・名", "vi": "một nửa, phần nào, gần như (≒ ほぼ); (名) giữa chừng, khoảng giữa", "key": true, "rel": "≒ ほぼ（副）",
+         "ex": {"ja": "{半|なか}ば{冗談|じょうだん}で{言|い}ったのに、{彼|かれ}は{本気|ほんき}にしてしまった。", "vi": "Tôi nói nửa đùa thôi mà anh ấy lại tưởng thật."},
+         "col": ["半ばあきらめる", "三月半ば", "話の半ばで"],
+         "senses": [
+           {"vi": "(副) phần nào, một nửa", "ex": {"ja": "{試合|しあい}{終了|しゅうりょう}{直前|ちょくぜん}、{観客|かんきゃく}は{半|なか}ば{勝利|しょうり}をあきらめていた。", "vi": "Ngay trước khi trận đấu kết thúc, khán giả đã gần như bỏ hy vọng chiến thắng."}},
+           {"vi": "(名) giữa chừng, khoảng giữa", "ex": {"ja": "{来月|らいげつ}{半|なか}ばには{結果|けっか}が{出|で}る{予定|よてい}だ。", "vi": "Dự kiến khoảng giữa tháng sau sẽ có kết quả."}}
+         ],
+         "note": "Đọc **なかば** (bẫy: はんば). Phó từ nghĩa \"phần nào, gần như\" (≒ **ほぼ**: 半ば{完成|かんせい}した ≈ ほぼ完成した), hay đi với あきらめる, 冗談, 完成, 強制的に."}
+      ]
+    }
+  ],
+  "focus": [
+    {"title": "\"Cuối cùng\": いよいよ・とうとう・ついに・ようやく・結局",
+     "body": "- **いよいよ**: thời khắc chờ đợi **sắp đến / vừa bắt đầu**. ○ いよいよ{明日|あした}は{本番|ほんばん}だ.\n- **とうとう・ついに**: sau quá trình dài, **kết quả cuối cùng** (tốt hoặc xấu, cả phủ định). ついに trang trọng hơn.\n- **ようやく** (≒ やっと): điều **mong muốn** cuối cùng cũng thành (sau chờ đợi, vất vả).\n- **結局**: sau lưỡng lự / nhiều diễn biến, **kết luận** là… (thường khác dự định).\n\nCặp ✗/○:\n- ✗ ようやく{病状|びょうじょう}が{悪化|あっか}した → ○ とうとう／ついに悪化した (kết quả xấu).\n- ✗ ようやく{彼|かれ}は{来|こ}なかった → ○ とうとう／結局 来なかった.\n- ✗ いよいよ{試験|しけん}に{合格|ごうかく}した → ○ ようやく／ついに合格した.\n- ✗ とうとう{来週|らいしゅう}{引|ひ}っ{越|こ}す (sự kiện tương lai được chờ đợi) → ○ いよいよ来週引っ越す.\n\nMẹo: tương lai gần → いよいよ; kết quả xấu / phủ định → とうとう・ついに・結局; kết quả mong đợi → ようやく (hoặc とうとう・ついに)."},
+    {"title": "Vô ý: うっかり・思わず・つい・ふと",
+     "body": "- **うっかり**: **không chú ý** → mắc lỗi. ○ うっかり{約束|やくそく}を{忘|わす}れた.\n- **思わず**: **phản xạ** trước kích thích, không kịp nghĩ. ○ {思|おも}わず「{痛|いた}い！」と{叫|さけ}んだ.\n- **つい**: **biết là không nên** nhưng không kìm được (thói quen, cám dỗ), thường 〜てしまう. ○ つい{食|た}べ{過|す}ぎてしまう.\n- **ふと**: **chợt** nghĩ / nhìn / nhận ra, không lý do. ○ ふと{空|そら}を{見上|みあ}げた.\n\nCặp ✗/○:\n- ✗ {熱|あつ}いやかんに{触|さわ}って、うっかり{叫|さけ}んだ → ○ 思わず叫んだ.\n- ✗ {散歩|さんぽ}中、うっかり{昔|むかし}の{友達|ともだち}を{思|おも}い{出|だ}した → ○ ふと思い出した.\n- ✗ {毎晩|まいばん}、ふと{夜更|よふ}かしをしてしまう → ○ つい夜更かしをしてしまう.\n- ↔ **わざと** (cố ý) là đối nghĩa của うっかり."},
+    {"title": "Ngoài dự đoán & tạm / đành: 案外・意外に・思いのほか・結構 ／ 一応・とりあえず・やむをえず",
+     "body": "**Ngoài dự đoán** — cả bốn đều ≒ 思ったより, khác ở văn phong:\n- **案外** (nhẹ, văn nói), **意外に／意外と** (ngạc nhiên rõ hơn), **思いのほか** (văn viết), **結構** (khá là — nhấn mức độ cao hơn mong đợi).\n- Bẫy: ✗ {結構|けっこう}、{彼|かれ}は{来|こ}なかった → ○ {結局|けっきょく}、彼は来なかった (けっこう ≠ けっきょく).\n\n**Tạm / đành**:\n- **一応**: cứ làm **cho chắc** (≒ 念のため) hoặc làm xong **ở mức tạm**. ○ 一応{確認|かくにん}しておく.\n- **とりあえず**: **trước mắt** làm việc cần nhất, phần còn lại tính sau. ○ とりあえず{応急|おうきゅう}{処置|しょち}をする.\n- **やむをえず**: hoàn cảnh **bắt buộc**, đành làm điều không muốn. ○ {雪|ゆき}でやむをえず{引|ひ}き{返|かえ}した.\n- ✗ {楽|たの}しかったので、やむをえずもう{一泊|いっぱく}した → ○ 思い切って／せっかくだから もう一泊した."},
+    {"title": "Cố ý & so sánh: わざと・わざわざ・せっかく ／ かえって・まして・むしろ",
+     "body": "- **わざと**: **cố tình** làm điều không nên. ○ わざと{負|ま}ける.\n- **わざわざ**: **cất công** làm điều không bắt buộc (cảm ơn / phàn nàn). ○ わざわざ{届|とど}けてくれてありがとう.\n- **せっかく**: đã cất công / dịp hiếm → **〜のに** (tiếc) hoặc **〜から** (tận dụng).\n- ✗ わざと{来|き}てくださってありがとう → ○ わざわざ. ✗ わざわざ{嘘|うそ}をついた (ý \"cố tình\") → ○ わざと.\n\n- **かえって**: làm để tốt hơn → **kết quả ngược**. ○ {薬|くすり}を{飲|の}んだら、かえって{気分|きぶん}が{悪|わる}くなった.\n- **まして**: A còn thế → **huống chi B**. ○ {大人|おとな}でも{難|むずか}しい。まして{子|こ}どもには{無理|むり}だ.\n- **むしろ**: so hai bên, **nghiêng về B**. ○ {都会|とかい}よりむしろ{田舎|いなか}に{住|す}みたい.\n- ✗ {大人|おとな}でも{重|おも}いのだから、むしろ{子|こ}どもには{持|も}てない → ○ まして.\n- ✗ {東京|とうきょう}より、かえって{京都|きょうと}に{住|す}みたい → ○ むしろ."},
+    {"title": "Số lượng: たった・ほんの・わずか ／ およそ・ほぼ ／ せいぜい ↔ せめて",
+     "body": "**Ít**:\n- **たった** + số lượng (văn nói): たった{三日|みっか}.\n- **わずか** + số lượng (văn viết); **わずかに** + động từ = thay đổi nhỏ.\n- **ほんの** + **danh từ** (連体詞): ほんの{少|すこ}し, ほんの{一部|いちぶ}. ✗ ほんの{小|ちい}さい → ○ ほんの少し小さい ／ ○ ちょっと小さい.\n\n**Khoảng / gần như**:\n- **およそ** + **con số** ước lượng: およそ{千人|せんにん}.\n- **ほぼ** + **trạng thái gần trọn**: ほぼ{完成|かんせい}, ほぼ{同|おな}じ, ほぼ{全員|ぜんいん}. ✗ およそ完成した → ○ ほぼ完成した.\n\n**Giới hạn**:\n- **せいぜい**: giới hạn **trên** — \"cùng lắm\". ○ {参加者|さんかしゃ}はせいぜい{二十人|にじゅうにん}だろう.\n- **せめて**: giới hạn **dưới** của mong muốn — \"ít ra\" + たい／てほしい. ○ せめて{一言|ひとこと}{謝|あやま}ってほしい.\n- ✗ せいぜい{一日|いちにち}だけでも{休|やす}みたい → ○ せめて. ✗ {集|あつ}まるのはせめて{十人|じゅうにん}ぐらいだ → ○ せいぜい."},
+    {"title": "Các cặp còn lại & phó từ khác",
+     "body": "- **どうせ** (kết quả đã định, buông xuôi; \"kiểu gì cũng…\" ≒ 必ず／どっちみち) ↔ **決まって** (hễ A là B, quy luật). ✗ {明日|あした}は決まって{行|い}きます → ○ 必ず行きます.\n- **早速** (hào hứng làm ngay) ↔ **至急** (khẩn cấp, yêu cầu). ○ {至急|しきゅう}{折|お}り{返|かえ}しお{電話|でんわ}ください. ○ {届|とど}いた{本|ほん}を{早速|さっそく}{読|よ}んだ.\n- **いきなり** (văn nói) ≒ **突如** (văn viết) ≒ 突然.\n- **次第に** (thay đổi tự nhiên) ≒ **徐々に** (từng chút, dùng cả cho hành động có chủ ý). ✗ いきなり{少|すこ}しずつ{増|ふ}える → ○ 徐々に増える.\n- **漢字＋に**: 主に (chủ yếu), 既に (đã), 単に (chỉ — 〜だけ／にすぎない), 常に (luôn), まさに (chính là).\n- **思い切って** (vượt do dự để quyết) ↔ **思い切り** (hết sức). ✗ 思い切って{泣|な}いた → ○ 思い切り泣いた. ✗ 思い切り{告白|こくはく}した (nếu ý là \"lấy hết can đảm\") → ○ 思い切って告白した.\n- **あいにく** (không may — lịch sự), **あくまで** (đến cùng / chỉ là), **改めて** (dịp khác / một lần nữa), **中でも** (trong số đó), **半ば** (nửa, phần nào, gần như — ≒ ほぼ)."}
+  ],
+  "quiz": [
+    {"id": "g30-q1", "kind": "context", "ref": "g30-w4", "q": "{三回|さんかい}{目|め}の{挑戦|ちょうせん}で、（　　）{運転|うんてん}{免許|めんきょ}が{取|と}れた。", "options": ["いよいよ", "かえって", "ようやく", "せめて"], "answer": 2, "vi": "Đến lần thi thứ ba, cuối cùng tôi cũng lấy được bằng lái.", "why": "Điều mong đợi thành hiện thực sau nhiều lần cố gắng → **ようやく**. いよいよ dùng cho thời khắc sắp đến, không báo kết quả đạt được; かえって = kết quả ngược kỳ vọng; せめて = ít ra (đi với mong muốn)."},
+    {"id": "g30-q2", "kind": "context", "ref": "g30-w7", "q": "{後|うし}ろから{急|きゅう}に{肩|かた}をたたかれて、（　　）{大声|おおごえ}を{出|だ}してしまった。", "options": ["早速", "思わず", "わざと", "ふと"], "answer": 1, "vi": "Bị vỗ vai bất ngờ từ phía sau, tôi bất giác hét lên.", "why": "Phản xạ tức thời trước kích thích → **思わず**. 早速 = hào hứng làm ngay (có chủ ý); わざと = cố ý, mâu thuẫn với てしまった; ふと dùng cho suy nghĩ / ánh nhìn chợt đến, không dùng cho tiếng hét do giật mình."},
+    {"id": "g30-q3", "kind": "context", "ref": "g30-w21", "q": "{雨|あめ}の{中|なか}、（　　）{駅|えき}まで{迎|むか}えに{来|き}てくれて、ありがとう。", "options": ["わざと", "やむをえず", "あいにく", "わざわざ"], "answer": 3, "vi": "Cảm ơn cậu đã cất công ra tận ga đón tớ giữa trời mưa.", "why": "Cảm ơn ai đó đã bỏ công làm việc không bắt buộc → **わざわざ**. わざと = cố tình (nghĩa xấu); やむをえず = bất đắc dĩ — cảm ơn kiểu đó là thất lễ; あいにく = không may, không hợp lời cảm ơn."},
+    {"id": "g30-q4", "kind": "paraphrase", "ref": "g30-w23", "q": "{彼|かれ}はこの{難|むずか}しい{仕事|しごと}を[[u:たった]]{三日|みっか}で{終|お}わらせた。", "options": ["わずか", "およそ", "せめて", "少なくとも"], "answer": 0, "vi": "Anh ấy hoàn thành công việc khó này chỉ trong vỏn vẹn ba ngày.", "why": "たった + số lượng = **わずか** + số lượng (chỉ, nhấn mạnh ít). およそ = khoảng (ước lượng, không nhấn ít); せめて = ít ra (mong muốn); 少なくとも = ít nhất (giới hạn dưới) — đều khác nghĩa."},
+    {"id": "g30-q5", "kind": "context", "ref": "g30-w29", "q": "{全部|ぜんぶ}は{無理|むり}でも、（　　）{半分|はんぶん}ぐらいは{今日中|きょうじゅう}に{終|お}わらせたい。", "options": ["せいぜい", "ほぼ", "せめて", "たった"], "answer": 2, "vi": "Không làm hết được thì ít ra tôi cũng muốn xong một nửa trong hôm nay.", "why": "Mong muốn mức tối thiểu (〜たい) → **せめて**. せいぜい = cùng lắm (giới hạn trên), không đi với mong muốn tối thiểu; ほぼ = gần như (trạng thái gần trọn) — trùng ý với ぐらい; たった = chỉ có (nhấn ít, mang ý chê) — mâu thuẫn với mong muốn \"ít ra\"."},
+    {"id": "g30-q6", "kind": "context", "ref": "g30-w17", "q": "{親切|しんせつ}のつもりで{手伝|てつだ}ったのに、（　　）{迷惑|めいわく}をかけてしまった。", "options": ["まして", "かえって", "早速", "あくまで"], "answer": 1, "vi": "Định giúp vì tốt bụng, ngược lại lại gây phiền cho người ta.", "why": "Làm để giúp → kết quả ngược kỳ vọng → **かえって**. まして = huống chi (cần trường hợp A đi trước); 早速 = làm ngay (hào hứng); あくまで = đến cùng / chỉ là — không diễn tả kết quả trái mong đợi."},
+    {"id": "g30-q7", "kind": "usage", "ref": "g30-w30", "q": "どうせ", "options": ["どうせ明日は晴れたので、洗濯をした。", "彼はどうせ毎朝六時に起きて散歩をする。", "どうせ、本日はご来店ありがとうございました。", "どうせ間に合わないのだから、慌てても仕方がない。"], "answer": 3, "vi": "(4) Đằng nào cũng không kịp, cuống lên cũng chẳng ích gì.", "why": "どうせ = kết quả đã định, không đổi được → thường 〜のだから → (4) đúng. (1) trình bày sự thật quá khứ → 幸い; (2) thói quen → いつも／決まって; (3) lời cảm ơn khách → không dùng どうせ (nghe như bực bội)."},
+    {"id": "g30-q8", "kind": "context", "ref": "g30-w36", "q": "{日|ひ}が{暮|く}れて、{辺|あた}りは（　　）{暗|くら}くなっていった。", "options": ["次第に", "いきなり", "至急", "既に"], "answer": 0, "vi": "Mặt trời lặn, xung quanh dần dần tối đi.", "why": "Thay đổi tự nhiên, từ từ + 〜ていった → **次第に**. いきなり = đột ngột, mâu thuẫn với 〜ていった (diễn tiến dần); 至急 = khẩn cấp (yêu cầu); 既に = đã rồi — không đi với quá trình đang diễn ra 〜ていった."},
+    {"id": "g30-q9", "kind": "paraphrase", "ref": "g30-w43", "q": "[[u:あいにく]]{本日|ほんじつ}は{定休日|ていきゅうび}でございます。", "options": ["幸いにも", "久しぶりに", "いつものように", "残念ながら"], "answer": 3, "vi": "Thật tiếc, hôm nay là ngày nghỉ định kỳ của cửa hàng.", "why": "あいにく = **残念ながら** (không may, tiếc là). 幸いにも = may mắn thay (ngược nghĩa); 久しぶりに = lâu lắm mới; いつものように = như mọi khi — đều không mang ý tiếc nuối."},
+    {"id": "g30-q10", "kind": "context", "ref": "g30-w45", "q": "{詳|くわ}しい{日程|にってい}が{決|き}まりましたら、（　　）ご{連絡|れんらく}いたします。", "options": ["思わず", "改めて", "半ば", "あくまで"], "answer": 1, "vi": "Khi lịch trình chi tiết được quyết định, chúng tôi sẽ liên lạc lại.", "why": "Liên lạc lại vào dịp khác → **改めて**. 思わず = bất giác (không chủ ý) — không hợp với lời hứa liên lạc; 半ば = một nửa; あくまで = đến cùng / chỉ là."}
+  ],
+  "practice": [
+    {"id": "g30-p1", "kind": "read", "ref": "g30-w37", "q": "{薬|くすり}が{効|き}いてきて、{痛|いた}みが[[u:徐々に]]{治|おさ}まった。", "options": ["じょうじょうに", "じょじょに", "よよに", "しょしょに"], "answer": 1, "vi": "Thuốc bắt đầu có tác dụng, cơn đau từ từ dịu đi.", "why": "徐々に = **じょじょに** (徐 = じょ, 々 lặp lại). じょうじょうに kéo dài sai; よよに・しょしょに không có cách đọc đó."},
+    {"id": "g30-p2", "kind": "read", "ref": "g30-w35", "q": "[[u:突如]]{停電|ていでん}が{起|お}き、{店内|てんない}は{真|ま}っ{暗|くら}になった。", "options": ["とつじょ", "とつにょ", "とつぜん", "とうじょ"], "answer": 0, "vi": "Đột nhiên mất điện, trong cửa hàng tối om.", "why": "突如 = **とつじょ**. とつぜん là cách đọc của 突然 (chữ khác) — bẫy nghĩa giống; とつにょ đọc 如 sai (如 = じょ／にょ, nhưng trong 突如 là じょ); とうじょ thừa trường âm."},
+    {"id": "g30-p3", "kind": "write", "ref": "g30-w33", "q": "{会議|かいぎ}が{始|はじ}まるので、[[u:しきゅう]]{本社|ほんしゃ}に{戻|もど}ってください。", "options": ["支給", "志急", "至急", "至球"], "answer": 2, "vi": "Cuộc họp sắp bắt đầu, anh hãy quay về trụ sở gấp.", "why": "しきゅう (gấp) = **至急** (CHÍ CẤP). 支給 cũng đọc しきゅう nhưng nghĩa là cấp phát (給料を支給する) — không hợp với 戻ってください; 志急・至球 không phải từ."},
+    {"id": "g30-p4", "kind": "context", "ref": "g30-w8", "q": "ダイエット{中|ちゅう}なのに、{甘|あま}いものを{見|み}ると（　　）{手|て}が{出|で}てしまう。", "options": ["ふと", "思い切って", "つい", "早速"], "answer": 2, "vi": "Đang ăn kiêng mà cứ thấy đồ ngọt là lại lỡ đưa tay ra.", "why": "Biết là không nên (ダイエット中) nhưng không kìm được + 〜てしまう → **つい**. ふと = chợt (nghĩ, nhìn), không mang ý \"biết mà vẫn làm\"; 思い切って = mạnh dạn quyết định — mâu thuẫn với てしまう; 早速 = hào hứng làm ngay (có chủ ý, tích cực)."},
+    {"id": "g30-p5", "kind": "context", "ref": "g30-w2", "q": "{駅|えき}で{一時間|いちじかん}も{待|ま}ったが、{彼女|かのじょ}は（　　）{来|こ}なかった。", "options": ["ようやく", "いよいよ", "次第に", "とうとう"], "answer": 3, "vi": "Tôi đợi ở ga cả tiếng đồng hồ nhưng rốt cuộc cô ấy đã không đến.", "why": "Sau thời gian dài, kết quả cuối cùng là phủ định → **とうとう〜なかった**. ようやく chỉ dùng cho điều mong đợi thành hiện thực, không đi với phủ định; いよいよ = thời khắc sắp đến; 次第に = dần dần (thay đổi liên tục)."},
+    {"id": "g30-p6", "kind": "context", "ref": "g30-w18", "q": "{大人|おとな}が{二人|ふたり}がかりでも{動|うご}かせない{石|いし}なのだから、（　　）{子|こ}ども{一人|ひとり}では{無理|むり}だ。", "options": ["まして", "むしろ", "かえって", "せっかく"], "answer": 0, "vi": "Hòn đá mà hai người lớn hợp sức còn không xê dịch được, huống hồ một đứa trẻ thì làm sao nổi.", "why": "Khung \"A còn không được → huống chi B\" → **まして**. むしろ dùng khi so sánh và chọn B (AよりむしろB); かえって = kết quả ngược kỳ vọng; せっかく = đã cất công — không có nghĩa \"huống chi\"."},
+    {"id": "g30-p7", "kind": "context", "ref": "g30-w1", "q": "{半年|はんとし}かけて{準備|じゅんび}してきたコンサートが、（　　）{明日|あした}に{迫|せま}った。", "options": ["結局", "いよいよ", "かえって", "ほぼ"], "answer": 1, "vi": "Buổi hoà nhạc chuẩn bị suốt nửa năm, giờ chỉ còn ngày mai thôi.", "why": "Thời khắc chờ đợi đã đến sát (明日に迫った) → **いよいよ**. 結局 = kết luận sau lưỡng lự, không dùng cho mốc thời gian sắp tới; かえって = ngược kỳ vọng; ほぼ = gần như (mức độ hoàn tất)."},
+    {"id": "g30-p8", "kind": "paraphrase", "ref": "g30-w10", "q": "{心配|しんぱい}していたが、{面接|めんせつ}は[[u:案外]]うまくいった。", "options": ["やはり", "予想どおり", "思ったより", "とても"], "answer": 2, "vi": "Tôi đã lo lắng, nhưng buổi phỏng vấn hoá ra suôn sẻ hơn tôi nghĩ.", "why": "案外 = khác dự đoán → **思ったより**. やはり・予想どおり = đúng như dự đoán (ngược nghĩa); とても = rất (chỉ mức độ, không có ý \"ngoài dự đoán\")."},
+    {"id": "g30-p9", "kind": "paraphrase", "ref": "g30-w14", "q": "{明日|あした}は{晴|は}れの{予報|よほう}だが、[[u:一応]]{傘|かさ}を{持|も}っていこう。", "options": ["必ず", "念のため", "久しぶりに", "急いで"], "answer": 1, "vi": "Mai dự báo nắng, nhưng cứ mang ô cho chắc.", "why": "一応 (ở đây) = **念のため** (cho chắc, phòng khi). 必ず = nhất định (quá mạnh, mâu thuẫn với dự báo nắng); 久しぶりに = lâu rồi mới; 急いで = vội vàng."},
+    {"id": "g30-p10", "kind": "usage", "ref": "g30-w22", "q": "せっかく", "options": ["せっかく駅に着いたら、電車が出たところだった。", "彼はせっかく遅刻するので、みんな困っている。", "昨日、せっかく大きな地震が起きた。", "せっかくの休みなのに、一日中雨だった。"], "answer": 3, "vi": "(4) Hiếm hoi mới được nghỉ mà cả ngày trời mưa.", "why": "せっかく = dịp hiếm / đã cất công + 〜のに (tiếc) → (4) đúng. (1) \"đúng lúc\" → ちょうど; (2) thói quen xấu → いつも／しょっちゅう; (3) sự việc xấu ngoài ý muốn → 突然."},
+    {"id": "g30-p11", "kind": "usage", "ref": "g30-w34", "q": "いきなり", "options": ["準備運動もせずに、いきなりプールに飛び込むのは危ない。", "書類に不備があったので、いきなりご連絡ください。", "体重がいきなり少しずつ減っている。", "彼はいきなり毎朝ジョギングを続けている。"], "answer": 0, "vi": "(1) Không khởi động mà nhảy ngay xuống hồ bơi thì nguy hiểm.", "why": "いきなり = bỏ qua bước chuẩn bị / đột ngột → (1) đúng. (2) yêu cầu khẩn → 至急; (3) mâu thuẫn với 少しずつ → 徐々に; (4) thói quen lặp lại → 毎朝欠かさず."},
+    {"id": "g30-p12", "kind": "context", "ref": "g30-w38", "q": "この{工場|こうじょう}では、（　　）{自動車|じどうしゃ}の{部品|ぶひん}を{作|つく}っているが、{一部|いちぶ}{家電|かでん}の{部品|ぶひん}も{作|つく}っている。", "options": ["ふと", "せめて", "主に", "まさに"], "answer": 2, "vi": "Nhà máy này chủ yếu sản xuất linh kiện ô tô, nhưng cũng làm một phần linh kiện đồ điện gia dụng.", "why": "Phần chiếm đa số (bên cạnh 一部…も) → **主に**. ふと = chợt (nhận thức); せめて = ít ra (mong muốn); まさに = chính là (khẳng định tuyệt đối) — mâu thuẫn với vế \"cũng làm cái khác\"."},
+    {"id": "g30-p13", "kind": "context", "ref": "g30-w47", "q": "{試合|しあい}に{負|ま}けて{悔|くや}しかったので、{家|いえ}に{帰|かえ}ってから（　　）{泣|な}いた。", "options": ["思い切って", "思い切り", "決まって", "あくまで"], "answer": 1, "vi": "Thua trận ấm ức quá nên về đến nhà tôi khóc cho thoả.", "why": "Làm hết mức, không kìm nén → **思い切り**. 思い切って = vượt qua do dự để quyết làm — khóc không cần \"lấy can đảm\"; 決まって = lần nào cũng (quy luật), không hợp với một sự việc; あくまで = đến cùng / chỉ là."},
+    {"id": "g30-p14", "kind": "context", "ref": "g30-w19", "q": "{夏|なつ}の{暑|あつ}さより、（　　）{冬|ふゆ}の{寒|さむ}さのほうが{苦手|にがて}だ。", "options": ["まして", "せっかく", "至急", "むしろ"], "answer": 3, "vi": "So với cái nóng mùa hè, tôi thà nói là sợ cái lạnh mùa đông hơn.", "why": "So sánh hai bên rồi nghiêng về B (AよりむしろB) → **むしろ**. まして = huống chi (A còn… thì B càng…), không dùng trong khung 「Aより〜のほうが」; せっかく = đã cất công; 至急 = gấp."},
+    {"id": "g30-p15", "kind": "context", "ref": "g30-w28", "q": "{仕事|しごと}が{忙|いそが}しくて、{本|ほん}を{読|よ}めるのは（　　）{月|つき}に{一冊|いっさつ}ぐらいだ。", "options": ["せいぜい", "せめて", "いよいよ", "改めて"], "answer": 0, "vi": "Công việc bận rộn, cùng lắm mỗi tháng tôi chỉ đọc được một cuốn sách.", "why": "Giới hạn trên, \"không hơn được\" → **せいぜい**. せめて cần đi với mong muốn (〜たい／てほしい), không dùng để mô tả thực tế; いよいよ = thời khắc sắp đến; 改めて = lại lần nữa."}
+  ],
+  "test": [
+    {"id": "g30-t1", "kind": "read", "ref": "g30-w39", "q": "{電話|でんわ}したときには、{彼|かれ}は[[u:既に]]{家|いえ}を{出|で}ていた。", "options": ["きに", "とうに", "すでに", "もはやに"], "answer": 2, "vi": "Lúc tôi gọi điện thì anh ấy đã ra khỏi nhà rồi.", "why": "既に = **すでに** (訓読み). きに dùng âm Hán き — sai; とうに là một phó từ khác (疾うに, từ lâu rồi), không phải cách đọc của 既に; もはやに không tồn tại."},
+    {"id": "g30-t2", "kind": "write", "ref": "g30-w40", "q": "それは{実力|じつりょく}ではなく、[[u:たんに]]{運|うん}がよかっただけだ。", "options": ["単に", "短に", "端に", "担に"], "answer": 0, "vi": "Đó không phải thực lực mà chỉ đơn thuần là may mắn thôi.", "why": "たんに = **単に** (ĐƠN — đơn thuần). 短 (ĐOẢN, ngắn), 端 (ĐOAN, mép), 担 (ĐẢM, gánh) đều đọc たん nhưng không tạo phó từ 「〜に」 nghĩa \"chỉ\"."},
+    {"id": "g30-t3", "kind": "context", "ref": "g30-w9", "q": "{電車|でんしゃ}の{窓|まど}から{景色|けしき}を{眺|なが}めていたら、（　　）{子|こ}どものころのことを{思|おも}い{出|だ}した。", "options": ["うっかり", "ふと", "わざと", "やむをえず"], "answer": 1, "vi": "Đang ngắm cảnh từ cửa sổ tàu, tôi chợt nhớ lại thời thơ ấu.", "why": "Ý nghĩ chợt đến, không lý do → **ふと**. うっかり dẫn đến lỗi (quên, làm vỡ), nhớ lại không phải lỗi; わざと = cố ý; やむをえず = bất đắc dĩ."},
+    {"id": "g30-t4", "kind": "context", "ref": "g30-w16", "q": "{大雪|おおゆき}で{電車|でんしゃ}が{止|と}まったので、（　　）{駅前|えきまえ}のホテルに{泊|と}まった。", "options": ["せっかく", "思い切り", "案外", "やむをえず"], "answer": 3, "vi": "Vì tuyết lớn làm tàu ngừng chạy nên tôi đành phải ngủ lại khách sạn trước ga.", "why": "Hoàn cảnh bắt buộc, đành làm điều không định → **やむをえず**. せっかく cần vế 〜のに／から với ý \"đã cất công\"; 思い切り = hết sức (泣く, 遊ぶ); 案外 = ngoài dự đoán, bổ nghĩa cho mức độ / kết quả, không cho quyết định ở lại."},
+    {"id": "g30-t5", "kind": "context", "ref": "g30-w32", "q": "{友人|ゆうじん}においしいと{聞|き}いたパン{屋|や}に、（　　）{次|つぎ}の{日|ひ}{行|い}ってみた。", "options": ["早速", "至急", "突如", "半ば"], "answer": 0, "vi": "Nghe bạn nói tiệm bánh mì đó ngon, ngay hôm sau tôi đã đi thử.", "why": "Hào hứng làm ngay khi có thông tin + 〜てみた → **早速**. 至急 dùng cho việc khẩn cấp, yêu cầu công việc — đi mua bánh mì không phải việc gấp; 突如 = đột nhiên (văn viết, sự kiện bất ngờ); 半ば = một nửa."},
+    {"id": "g30-t6", "kind": "paraphrase", "ref": "g30-w27", "q": "{新|あたら}しい{図書館|としょかん}の{工事|こうじ}は[[u:ほぼ]]{終|お}わった。", "options": ["少しだけ", "だいたい", "まったく", "もうすぐ"], "answer": 1, "vi": "Công trình thư viện mới gần như đã xong.", "why": "ほぼ = **だいたい** (gần như trọn vẹn). 少しだけ = chỉ một chút (ngược nghĩa); まったく〜た không tạo nghĩa \"gần như\"; もうすぐ dùng cho tương lai (もうすぐ終わる), không đi với 終わった."},
+    {"id": "g30-t7", "kind": "paraphrase", "ref": "g30-w31", "q": "{祖父|そふ}は{雨|あめ}が{降|ふ}る{前|まえ}になると、[[u:決まって]]{膝|ひざ}が{痛|いた}くなるそうだ。", "options": ["ときどき", "急に", "少しずつ", "いつも必ず"], "answer": 3, "vi": "Nghe nói ông tôi cứ hễ trời sắp mưa là y như rằng đau đầu gối.", "why": "決まって = hễ A là B, lần nào cũng → **いつも必ず**. ときどき = thỉnh thoảng (không phải lần nào); 急に = đột nhiên; 少しずつ = từng chút — đều không mang nghĩa \"lần nào cũng\"."},
+    {"id": "g30-t8", "kind": "usage", "ref": "g30-w13", "q": "{結構|けっこう}", "options": ["明日の会議には結構出席してください。", "待っていたが、結構彼は来なかった。", "この辞書は古いけど、結構役に立つ。", "結構雨が降ったら、試合は中止だ。"], "answer": 2, "vi": "(3) Cuốn từ điển này cũ nhưng khá là hữu ích.", "why": "Phó từ 結構 = khá là (hơn mong đợi) → (3) đúng. (1) yêu cầu → 必ず; (2) rốt cuộc không đến → **結局** (けっきょく, bẫy âm gần); (4) giả định → もし／万一."},
+    {"id": "g30-t9", "kind": "usage", "ref": "g30-w44", "q": "あくまで", "options": ["これはあくまで私個人の意見で、会社の考えではありません。", "あくまで駅に着いたら、電話してください。", "彼はあくまで一度も遅刻したことがない。", "あくまでの雨で、運動会が中止になった。"], "answer": 0, "vi": "(1) Đây chỉ là ý kiến cá nhân tôi, không phải quan điểm của công ty.", "why": "あくまで = chỉ là (giới hạn, rào đón) → (1) đúng. (2) thời điểm → 駅に着いたら (không cần phó từ) / すぐに; (3) nhấn mạnh phủ định → 今まで一度も; (4) \"cơn mưa không may\" → **あいにくの雨** (bẫy âm đầu あ〜)."},
+    {"id": "g30-t10", "kind": "context", "ref": "g30-w20", "q": "{弟|おとうと}は{勉強|べんきょう}したくないので、（　　）{教科書|きょうかしょ}を{学校|がっこう}に{置|お}いてきた。", "options": ["あいにく", "うっかり", "わざと", "せっかく"], "answer": 2, "vi": "Em tôi không muốn học nên cố tình để sách giáo khoa lại ở trường.", "why": "Có lý do \"không muốn học\" → hành động **cố ý** → **わざと**. うっかり = sơ ý — mâu thuẫn với lý do có chủ đích ở vế trước; あいにく = không may (không dùng cho hành động có chủ ý); せっかく cần vế 〜のに／から."},
+    {"id": "g30-t11", "kind": "context", "ref": "g30-w42", "q": "{家|いえ}を{出|で}ようとした（　　）その{時|とき}、{玄関|げんかん}の{電話|でんわ}が{鳴|な}った。", "options": ["単に", "まさに", "常に", "主に"], "answer": 1, "vi": "Đúng vào lúc tôi định ra khỏi nhà thì điện thoại ở cửa reo.", "why": "Nhấn mạnh \"đúng ngay thời điểm đó\" → **まさに**その時. 単に = chỉ đơn thuần; 常に = luôn luôn (không đi với một thời điểm cụ thể); 主に = chủ yếu."},
+    {"id": "g30-t12", "kind": "context", "ref": "g30-w48", "q": "{日本|にほん}の{四季|しき}はどれも{美|うつく}しいが、（　　）{秋|あき}の{紅葉|こうよう}は{見事|みごと}だ。", "options": ["中でも", "半ば", "あくまで", "改めて"], "answer": 0, "vi": "Bốn mùa ở Nhật mùa nào cũng đẹp, nhưng trong số đó lá đỏ mùa thu là tuyệt nhất.", "why": "Từ một tập hợp (どれも) chọn ra cái nổi bật → **中でも**. 半ば = một nửa / phần nào; あくまで = đến cùng / chỉ là; 改めて = lại lần nữa — không có nghĩa chọn lọc."}
+  ]
+}

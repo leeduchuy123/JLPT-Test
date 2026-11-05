@@ -1,0 +1,749 @@
+{
+  "id": "b25",
+  "track": "bunpo",
+  "intro": "Bài này gom các mẫu diễn tả một thứ **mạnh đến mức không kìm được**. Chia làm hai nhóm, và đây chính là chìa khoá của cả bài:\n\n- **Nhóm 1 – CẢM XÚC / CẢM GIÁC trào dâng**: 〜てしかたがない・〜てしょうがない・〜てたまらない, 〜てならない. Nói về **trạng thái trong lòng / trong cơ thể** (vui quá, lo quá, ngứa quá, cứ có cảm giác…). Dịch: “… quá đi mất”, “… không chịu nổi”.\n- **Nhóm 2 – KHÔNG THỂ KHÔNG LÀM**: 〜ないではいられない・〜ずにはいられない, 〜ないわけにはいかない, 〜ざるを得ない. Nói về **hành động** mà mình bị đẩy vào. Điểm khác nhau nằm ở **lực đẩy đến từ đâu**:\n  - từ **bên trong** (cảm xúc, bản năng) → ずにはいられない (không nhịn được mà…);\n  - từ **bên ngoài – đạo lý, quan hệ, trách nhiệm** → ないわけにはいかない (không thể không…, vì lẽ thường);\n  - từ **hoàn cảnh dồn ép, hết lựa chọn** → ざるを得ない (đành phải…).\n\nQuy tắc chung cần nhớ: chủ thể thường là **người nói**. Nếu chủ ngữ là một người thứ ba cụ thể (anh ấy, mẹ tôi…) thì nhóm 1 và ずにはいられない phải thêm **〜ようだ・〜らしい・〜そうだ**. Và cẩn thận bẫy chia động từ: **する → せずに / せざる**.",
+  "points": [
+    {
+      "id": "b25-1",
+      "pattern": "〜てしかたがない・〜てしょうがない・〜てたまらない",
+      "reading": "〜てしかたがない・〜てしょうがない・〜てたまらない",
+      "meaning": "… quá đi mất, … không chịu nổi (cảm xúc, mong muốn, cảm giác cơ thể rất mạnh)",
+      "structure": [
+        "Vて形 ＋ しかたがない／しょうがない／たまらない",
+        "い形 −くて ＋ しかたがない／しょうがない／たまらない",
+        "な形 −で ＋ しかたがない／しょうがない／たまらない",
+        "Biến thể: 〜てしかたない・〜てしようがない (bỏ が)"
+      ],
+      "explain": "Hiểu theo nghĩa đen là nhớ ngay:\n- **しかたがない** = “không có cách nào”, **しょうがない** là dạng văn nói của nó.\n- **たまらない**（{堪|たま}らない）= “không chịu đựng nổi”.\n\nĐặt sau thể て của một từ chỉ cảm xúc → “**[cảm xúc] đến mức không biết làm sao / không chịu nổi**”. Tiếng Việt: “vui quá trời”, “buồn ngủ muốn chết”, “lo ơi là lo”.\n\nĐi được với:\n- **cảm xúc**: うれしい, {寂|さび}しい, {悔|くや}しい, {心配|しんぱい}だ, {不安|ふあん}だ, {楽|たの}しみだ…\n- **mong muốn**: 〜たい, {欲|ほ}しい (欲しくてたまらない, {会|あ}いたくてしかたがない)\n- **cảm giác cơ thể**: {痛|いた}い, かゆい, {眠|ねむ}い, {暑|あつ}い, お{腹|なか}がすく…\n- động từ chỉ trạng thái tâm lý như **{気|き}になる** (気になってしかたがない = cứ thấp thỏm mãi).\n\nBa cái gần như cùng nghĩa. **たまらない** mạnh, đặc biệt hay dùng cho **cảm giác của cơ thể** (暑くてたまらない, かゆくてたまらない). **しょうがない** thân mật, văn nói nhất.",
+      "nuance": "- Đây là **cảm xúc chủ quan của người nói** (hoặc của người nghe trong câu hỏi). Với người thứ ba cụ thể phải nói gián tiếp: 〜てたまらないようだ／らしい／そうだ, trong văn nói cũng gặp 〜がって ＋ しかたがない (lúc này tân ngữ đi với **を**: 犬を{欲|ほ}しがってしかたがない — ✗ 犬が欲しがって). Trong đề, phương án có ようだ・らしい gần như luôn là lựa chọn an toàn.\n- Từ đứng trước phải là **cảm xúc/cảm giác**, không phải tính chất khách quan của đồ vật: ✗ このビルは{高|たか}くてたまらない.\n- Đừng nhầm với 「〜てもしかたがない」 = có làm cũng vô ích: 「{今|いま}さら{後悔|こうかい}してもしかたがない」.\n- 「たまらない」 đứng một mình còn có nghĩa khen “ngon / tuyệt không cưỡng nổi”: 「この{香|かお}り、たまらない！」.",
+      "examples": [
+        {
+          "ja": "{彼女|かのじょ}から{返事|へんじ}が{来|こ}ないので、{気|き}になってしかたがない。",
+          "vi": "Mãi chưa thấy cô ấy trả lời nên tôi cứ thấp thỏm không yên.",
+          "note": "気になる + てしかたがない"
+        },
+        {
+          "ja": "{花粉症|かふんしょう}の{季節|きせつ}は、{目|め}がかゆくてたまらない。",
+          "vi": "Mùa dị ứng phấn hoa, mắt tôi ngứa không chịu nổi.",
+          "note": "Cảm giác cơ thể → hợp với たまらない"
+        },
+        {
+          "ja": "{来月|らいげつ}の{旅行|りょこう}が{楽|たの}しみでしょうがない。",
+          "vi": "Tôi mong chuyến du lịch tháng sau quá đi mất.",
+          "note": "楽しみ(だ) → で ＋ しょうがない"
+        },
+        {
+          "ja": "{昨夜|ゆうべ}ほとんど{寝|ね}ていないので、{午後|ごご}の{会議|かいぎ}は{眠|ねむ}くてしかたがなかった。",
+          "vi": "Tối qua gần như không ngủ nên cuộc họp buổi chiều tôi buồn ngủ kinh khủng.",
+          "note": "Quá khứ: 〜てしかたがなかった"
+        },
+        {
+          "ja": "{弟|おとうと}は{一人暮|ひとりぐ}らしを{始|はじ}めたばかりで、{寂|さび}しくてたまらないようだ。",
+          "vi": "Em trai tôi mới bắt đầu sống một mình nên có vẻ buồn tủi lắm.",
+          "note": "Ngôi 3 → thêm ようだ"
+        },
+        {
+          "ja": "{息子|むすこ}は{友達|ともだち}が{飼|か}っている{犬|いぬ}を{見|み}てから、{犬|いぬ}を{欲|ほ}しがってしょうがない。",
+          "vi": "Từ khi thấy con chó bạn nuôi, con trai tôi cứ đòi có chó suốt.",
+          "note": "Ngôi 3 dùng 〜がって"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜てならない (25課-2)",
+          "diff": "「てならない」 hợp nhất với **động từ tự phát** (気がする・思える・感じられる・思い出される) và cứng hơn. 「てたまらない」 thường **không** đi với 気がする／思える (✗ 気がしてたまらない) nhưng rất hợp cảm giác cơ thể. 「てしかたがない」 thì đi được với cả hai loại."
+        },
+        {
+          "with": "〜ずにはいられない (25課-3)",
+          "diff": "Nhóm này nói **cảm xúc** (trạng thái). 「ずにはいられない」 nói **hành động** bật ra vì cảm xúc. 「{笑|わら}いたくてたまらない」 = buồn cười muốn chết (đang nhịn); 「{笑|わら}わずにはいられない」 = không nhịn được, bật cười."
+        },
+        {
+          "with": "しかたがない (N3: hết cách)",
+          "diff": "Đứng riêng 「しかたがない」 = đành chịu, không còn cách nào (「{雨|あめ}だからしかたがない」). Chỉ khi đứng **sau thể て của từ cảm xúc** mới thành “… quá”."
+        }
+      ],
+      "mistakes": [
+        "✗ {田中|たなか}さんは{寂|さび}しくてたまらない。→ ○ 田中さんは寂しくてたまらないようだ／らしい。",
+        "✗ この{建物|たてもの}は{古|ふる}くてしかたがない。→ 「古い」 là tính chất khách quan, không phải cảm xúc. Nói thẳng: ○ この建物はとても古い。",
+        "✗ {心配|しんぱい}くてしょうがない → ○ 心配でしょうがない (な形 dùng で)"
+      ],
+      "tip": "Chỗ trống đứng sau 「〜くて／〜で／〜て」 của từ cảm xúc / cảm giác → しかたがない・しょうがない・たまらない. Nếu chủ ngữ là người thứ ba → chọn phương án có 「ようだ・らしい・そうだ」."
+    },
+    {
+      "id": "b25-2",
+      "pattern": "〜てならない",
+      "reading": "〜てならない",
+      "meaning": "Cứ… mãi, không sao kìm được (cảm giác / ý nghĩ tự nhiên trào lên)",
+      "structure": [
+        "Vて形 ＋ ならない",
+        "い形 −くて ＋ ならない",
+        "な形 −で ＋ ならない",
+        "Hay đi với động từ tự phát: 気がする・思える・感じられる・思い出される・悔やまれる・案じられる"
+      ],
+      "explain": "「ならない」 ở đây hiểu là “**không thể ngăn lại được**” (như どうにもならない). Mẫu này diễn tả một cảm giác hay ý nghĩ **tự nó trào lên**, mình không cố ý nghĩ thế nhưng cứ lởn vởn trong đầu, xua không đi.\n\nHình ảnh: bạn ra khỏi nhà rồi mà cứ có cảm giác quên tắt bếp — đó chính là 「{火|ひ}を{消|け}し{忘|わす}れたような{気|き}がしてならない」.\n\nĐặc trưng nhất của てならない là đi với **động từ tự phát** (自発動詞): {気|き}がする, {思|おも}える, {感|かん}じられる, {思|おも}い{出|だ}される, {悔|く}やまれる, {案|あん}じられる. Ngoài ra đi với từ chỉ cảm xúc và cả cảm giác cơ thể của người nói, như {心配|しんぱい}だ, {残念|ざんねん}だ, {不安|ふあん}だ, {悔|くや}しい.\n\nĐa số là **cảm xúc tiêu cực**: lo âu, tiếc nuối, nghi ngờ, buồn.",
+      "nuance": "- Cứng và “văn” hơn てたまらない／てしょうがない; hay gặp trong văn viết, lời kể nghiêm túc.\n- Dùng được cả với cảm giác cơ thể ({足|あし}が{痛|いた}くてならない), nhưng trong hội thoại thường ngày người ta hay nói てたまらない／てしょうがない hơn.\n- Chủ thể là người nói; người thứ ba cụ thể → thêm ようだ・らしい.\n- Đừng nhầm với **〜てはならない** (= cấm, không được): 「{嘘|うそ}をついてはならない」. Có 「は」 là nghĩa cấm!",
+      "examples": [
+        {
+          "ja": "{今回|こんかい}の{人事|じんじ}には、{何|なに}か{裏|うら}があるような{気|き}がしてならない。",
+          "vi": "Tôi cứ có cảm giác đợt điều động nhân sự lần này có uẩn khúc gì đó.",
+          "note": "気がしてならない — kết hợp tiêu biểu nhất"
+        },
+        {
+          "ja": "{明日|あした}{手術|しゅじゅつ}を{受|う}ける{父|ちち}のことが{心配|しんぱい}でならない。",
+          "vi": "Tôi lo cho bố — người mai phải phẫu thuật — không sao yên được.",
+          "note": "な形 + で + ならない"
+        },
+        {
+          "ja": "あと{一点|いってん}で{合格|ごうかく}だったと{思|おも}うと、{悔|くや}しくてならない。",
+          "vi": "Nghĩ đến chuyện chỉ thiếu một điểm là đỗ, tôi tiếc hùi hụi không nguôi.",
+          "note": "い形 −くて ＋ ならない"
+        },
+        {
+          "ja": "{田舎|いなか}で{一人|ひとり}で{暮|く}らす{母|はは}の{体|からだ}が{案|あん}じられてならない。",
+          "vi": "Tôi cứ canh cánh lo cho sức khoẻ của mẹ sống một mình ở quê.",
+          "note": "案じられる (tự phát) = thấy lo"
+        },
+        {
+          "ja": "{彼|かれ}の{話|はなし}は、どうも{作|つく}り{話|ばなし}のように{思|おも}えてならない。",
+          "vi": "Câu chuyện của anh ta, sao tôi cứ thấy như là bịa ra.",
+          "note": "思える + てならない"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜てたまらない／〜てしかたがない",
+          "diff": "Cùng là “cảm xúc mạnh”. てならない: cứng hơn, hợp với **ý nghĩ tự đến** (気がする・思える). てたまらない: khẩu ngữ hơn, hợp **cảm giác cơ thể**; thường không đi với 気がする／思える. てしかたがない: dùng rộng nhất."
+        },
+        {
+          "with": "〜てはならない",
+          "diff": "「〜てはならない」 = **không được làm** (cấm, văn viết): 「{約束|やくそく}を{破|やぶ}ってはならない」. 「〜てならない」 không có は = cảm xúc không kìm được. Một chữ は đổi hẳn nghĩa."
+        }
+      ],
+      "mistakes": [
+        "✗ {彼|かれ}が{犯人|はんにん}のような{気|き}がしてたまらない。→ ○ 気がしてならない (気がする hợp với てならない)",
+        "✗ {試合|しあい}に{負|ま}けて{残念|ざんねん}くてならない。→ ○ 残念でならない",
+        "✗ {忘|わす}れてはならない (= không được quên) dùng với nghĩa “cứ nhớ mãi” → ○ {思|おも}い{出|だ}されてならない"
+      ],
+      "tip": "Thấy 「気がして」「思えて」「感じられて」「思い出されて」「悔やまれて」 ngay trước chỗ trống → ならない là đáp án an toàn nhất."
+    },
+    {
+      "id": "b25-3",
+      "pattern": "〜ないではいられない・〜ずにはいられない",
+      "reading": "〜ないではいられない・〜ずにはいられない",
+      "meaning": "Không thể không…, không nhịn được mà… (hành động bật ra vì cảm xúc)",
+      "structure": [
+        "Vない形 ＋ ではいられない（{待|ま}たないではいられない）",
+        "Vない形 (bỏ ない) ＋ ずにはいられない（{待|ま}たずにはいられない）",
+        "Ngoại lệ: する → **せずには**いられない (✗ しずには)",
+        "くる → こずにはいられない"
+      ],
+      "explain": "Nghĩa đen: “ở trạng thái **không làm V** thì **không chịu được**” → thế là V **tự bật ra**, ý chí không cản nổi.\n\nLực đẩy ở đây đến **từ bên trong**: cảm xúc, bản năng, tò mò, thương cảm. Ví dụ:\n- thấy cảnh cảm động → không cầm được nước mắt;\n- nghe chuyện bất công → không thể không lên tiếng;\n- thấy món mới → không thử thì không chịu được.\n\nĐiểm then chốt: nhóm てたまらない／てならない nói **trạng thái cảm xúc**, còn mẫu này nói **hành động hoặc phản ứng cảm xúc bật ra** của con người. Động từ phía trước là thứ con người làm / phản ứng: {言|い}う, {笑|わら}う, {泣|な}く, {買|か}う, {確|たし}かめる, {応援|おうえん}する, {声|こえ}をかける, và cả {感動|かんどう}する, {笑顔|えがお}になる, {涙|なみだ}を{流|なが}す…\n\n- **ずには**: cứng, thiên văn viết.\n- **ないでは**: mềm hơn, văn nói.\nNghĩa hai dạng như nhau.",
+      "nuance": "- Chủ thể là người nói. Người thứ ba cụ thể → 〜ずにはいられないようだ／らしい／そうだ. (Với chủ ngữ khái quát như 「だれもが」 thì dùng được trực tiếp.)\n- **Không dùng** cho nghĩa vụ, quy định, hoàn cảnh bắt buộc — đó là việc của ないわけにはいかない / ざるを得ない / なければならない.\n- Không dùng cho hiện tượng tự nhiên, sự vật (✗ {雨|あめ}が{降|ふ}らずにはいられない), cũng không dùng với cảm giác tự phát kiểu 気がする (✗ {気|き}がしないではいられない → ○ 気がしてならない).",
+      "examples": [
+        {
+          "ja": "あまりにも{美|うつく}しい{夕日|ゆうひ}だったので、{写真|しゃしん}を{撮|と}らずにはいられなかった。",
+          "vi": "Hoàng hôn đẹp quá nên tôi không thể không chụp ảnh.",
+          "note": "撮る → 撮らずには"
+        },
+        {
+          "ja": "その{記事|きじ}を{読|よ}んで、{一言|ひとこと}{意見|いけん}を{言|い}わないではいられなかった。",
+          "vi": "Đọc bài báo đó, tôi không nhịn được mà phải nói một lời.",
+          "note": "ないでは: văn nói hơn"
+        },
+        {
+          "ja": "{落|お}とし{物|もの}を{見|み}つけると、{持|も}ち{主|ぬし}を{探|さが}さずにはいられない{性格|せいかく}だ。",
+          "vi": "Tôi là kiểu người hễ nhặt được đồ rơi là không thể không đi tìm chủ.",
+          "note": "Dùng bổ nghĩa danh từ: 〜ずにはいられない性格"
+        },
+        {
+          "ja": "{家|いえ}を{出|で}た{後|あと}も、{鍵|かぎ}をかけたかどうか{確|たし}かめずにはいられない。",
+          "vi": "Ra khỏi nhà rồi tôi vẫn không thể không kiểm tra xem đã khoá cửa chưa.",
+          "note": "Thói quen do lo lắng"
+        },
+        {
+          "ja": "{兄|あに}は{新|あたら}しいゲーム{機|き}が{出|で}ると、{試|ため}さずにはいられないらしい。",
+          "vi": "Anh trai tôi hễ có máy chơi game mới ra là có vẻ không thử thì không chịu được.",
+          "note": "Ngôi 3 → らしい"
+        },
+        {
+          "ja": "{被災地|ひさいち}の{様子|ようす}をテレビで{見|み}て、{何|なに}か{支援|しえん}せずにはいられなかった。",
+          "vi": "Xem cảnh vùng thiên tai trên tivi, tôi không thể không làm gì đó để giúp đỡ.",
+          "note": "する → せずには"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜ないわけにはいかない (25課-4)",
+          "diff": "「ずにはいられない」: lực từ **bên trong** (cảm xúc) — muốn làm đến mức không nhịn được. 「ないわけにはいかない」: lực từ **bên ngoài** (đạo lý, quan hệ) — có khi không muốn nhưng phải làm."
+        },
+        {
+          "with": "〜ざるを得ない (25課-5)",
+          "diff": "「ざるを得ない」 = bị hoàn cảnh dồn, **đành phải**, trái với mong muốn. 「ずにはいられない」 không có cảm giác miễn cưỡng."
+        },
+        {
+          "with": "〜てたまらない",
+          "diff": "てたまらない = cảm xúc (trạng thái). ずにはいられない = hành động (bật ra do cảm xúc)."
+        }
+      ],
+      "mistakes": [
+        "✗ {締|し}め{切|き}りが{明日|あした}なので、{今夜|こんや}は{徹夜|てつや}せずにはいられない。→ hoàn cảnh bắt buộc, không phải cảm xúc → ○ 徹夜せざるを得ない",
+        "✗ しずにはいられない → ○ せずにはいられない",
+        "✗ {母|はは}はその{話|はなし}を{聞|き}くと、{泣|な}かずにはいられない。→ ○ 泣かずにはいられないようだ (ngôi 3)"
+      ],
+      "tip": "Câu có “lý do cảm xúc” (あまりに〜て, 〜を見ると, 〜を聞いて) + một hành động bột phát → ずにはいられない. Đề hay bẫy chia động từ: kiểm tra する→せず, くる→こず."
+    },
+    {
+      "id": "b25-4",
+      "pattern": "〜ないわけに(は)いかない",
+      "reading": "〜ないわけに(は)いかない",
+      "meaning": "Không thể không…, buộc phải… (vì lẽ thường, nghĩa vụ, quan hệ, tình thế)",
+      "structure": [
+        "Vない形 ＋ わけに(は)いかない",
+        "Quá khứ: 〜ないわけにはいかなかった",
+        "(liên hệ 18課: V辞書形 ＋ わけにはいかない = không thể làm)"
+      ],
+      "explain": "「わけにはいかない」 = “**không có lý nào làm vậy được**” — xét theo đạo lý xã hội, lương tâm, hoàn cảnh. Ghép với thể ない thành **phủ định kép**: “không làm thì không được” = **phải làm**.\n\nLý do đến **từ bên ngoài**: lẽ thường xã hội, nghĩa tình, trách nhiệm, lời hứa, vị trí của mình. Thường trước đó có câu lý do kiểu 〜だから／〜なので／〜以上／〜として.\n\nVí dụ: “Vì là đám cưới của sếp nên dù bận cũng không thể không đi”, “Vì là trưởng nhóm nên không thể không xin lỗi khách”.\n\nSắc thái: có khi **không muốn lắm**, nhưng **biết rằng mình phải làm** — nếu không làm sẽ thất lễ, vô trách nhiệm.\n\nNhớ cặp với 18課:\n- {帰|かえ}る**わけにはいかない** = không thể về (vì còn việc, vì mọi người còn ở lại).\n- {帰|かえ}ら**ないわけにはいかない** = không thể không về = phải về.",
+      "nuance": "- Chủ ngữ thường là **người nói** (và thường không xuất hiện trong câu); ít dùng với người thứ ba cụ thể.\n- Động từ phải là **hành động có ý chí** (✗ {雨|あめ}が{降|ふ}らないわけにはいかない).\n- Không dùng cho hành động bật ra vì cảm xúc (→ ずにはいられない).\n- Dùng được cả văn nói lẫn văn viết; nghe “chừng mực” hơn ざるを得ない.\n- Quy định chung ai cũng phải theo (mang hộ chiếu khi ra nước ngoài, nộp thuế…) mà không có hoàn cảnh / nghĩa tình riêng → nói **〜なければならない**, không dùng ないわけにはいかない.",
+      "examples": [
+        {
+          "ja": "{明日|あした}の{式|しき}では{私|わたし}が{司会|しかい}を{務|つと}めるので、{熱|ねつ}があっても{行|い}かないわけにはいかない。",
+          "vi": "Ngày mai tôi làm MC buổi lễ nên dù có sốt cũng không thể không đi.",
+          "note": "Lý do: trách nhiệm"
+        },
+        {
+          "ja": "{取引先|とりひきさき}の{部長|ぶちょう}に{勧|すす}められたお{酒|さけ}なので、{飲|の}まないわけにはいかなかった。",
+          "vi": "Rượu do trưởng phòng bên đối tác mời nên tôi không thể không uống.",
+          "note": "Lý do: phép lịch sự, quan hệ"
+        },
+        {
+          "ja": "{部下|ぶか}のミスとはいえ、{責任者|せきにんしゃ}として{謝|あやま}らないわけにはいかない。",
+          "vi": "Dù là lỗi của cấp dưới, với tư cách người phụ trách tôi không thể không xin lỗi.",
+          "note": "〜として: vị trí, vai trò"
+        },
+        {
+          "ja": "{保育園|ほいくえん}から{電話|でんわ}があったので、{会議中|かいぎちゅう}でも{迎|むか}えに{行|い}かないわけにいかなかった。",
+          "vi": "Nhà trẻ gọi điện nên dù đang họp tôi vẫn phải đi đón con.",
+          "note": "Có thể lược は: ないわけにいかない"
+        },
+        {
+          "ja": "{一度|いちど}{引|ひ}き{受|う}けた{以上|いじょう}、{期限|きげん}までに{仕上|しあ}げないわけにはいかない。",
+          "vi": "Một khi đã nhận lời thì không thể không hoàn thành đúng hạn.",
+          "note": "〜以上 + ないわけにはいかない"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜わけにはいかない (18課)",
+          "diff": "Khẳng định → “không thể làm”: 「みんな{残業|ざんぎょう}しているのに、{自分|じぶん}だけ{帰|かえ}るわけにはいかない」. Phủ định → “phải làm”: 「{親|おや}が{入院|にゅういん}したので、{国|くに}へ{帰|かえ}らないわけにはいかない」. Đọc kỹ có ない hay không."
+        },
+        {
+          "with": "〜ざるを得ない (25課-5)",
+          "diff": "Nhiều câu thay được cho nhau. ないわけにはいかない nhấn **đạo lý / quan hệ / trách nhiệm**; ざるを得ない nhấn **hết lựa chọn, đành phải, trái ý muốn**, cứng hơn."
+        },
+        {
+          "with": "〜ずにはいられない (25課-3)",
+          "diff": "ずにはいられない = lực **bên trong** (cảm xúc); ないわけにはいかない = lực **bên ngoài** (lẽ thường)."
+        }
+      ],
+      "mistakes": [
+        "✗ {悲|かな}しい{映画|えいが}を{見|み}て、{泣|な}かないわけにはいかなかった。→ ○ 泣かずにはいられなかった (cảm xúc)",
+        "✗ {明日|あした}は{雨|あめ}が{降|ふ}らないわけにはいかない。→ động từ không ý chí, không dùng được.",
+        "Nhầm khẳng định/phủ định: muốn nói “không thể nghỉ” mà viết 「{休|やす}まないわけにはいかない」 (= phải nghỉ!) → ○ 休むわけにはいかない"
+      ],
+      "tip": "Trước chỗ trống có lý do kiểu nghĩa vụ / quan hệ / đã nhận lời (〜だから, 〜以上, 〜として, 〜の頼みなので) → ないわけにはいかない. Luôn dịch thử “không thể không…” để kiểm tra phủ định kép có hợp lý không."
+    },
+    {
+      "id": "b25-5",
+      "pattern": "〜ざるを得ない",
+      "reading": "〜ざるをえない",
+      "meaning": "Đành phải…, buộc phải… (không muốn nhưng không còn cách nào khác)",
+      "structure": [
+        "Vない形 (bỏ ない) ＋ ざるを得ない（{行|い}かざるを得ない）",
+        "Ngoại lệ: する → **せざるを得ない** (✗ しざる)",
+        "くる → こざるを得ない",
+        "Đọc: 得ない = えない"
+      ],
+      "explain": "「ざる」 là dạng phủ định cổ (= ない), 「{得|え}ない」 = không thể. Ghép lại: “**không thể không làm**” → **đành phải làm**.\n\nCảm giác cốt lõi: người nói **không muốn**, nhưng **hoàn cảnh dồn vào chân tường**, chẳng còn lựa chọn nào khác. Hình ảnh: lỡ chuyến tàu cuối, ví thì mỏng, nhưng vẫn phải gọi taxi.\n\nHai cách dùng chính:\n- **Hành động bất đắc dĩ**: 「{終電|しゅうでん}を{逃|のが}して、タクシーで{帰|かえ}らざるを得なかった」.\n- **Phán đoán buộc phải thừa nhận**: 「{認|みと}めざるを得ない」「{言|い}わざるを得ない」「{疑|うたが}わざるを得ない」 — dữ kiện rõ ràng đến mức không thể kết luận khác, dù không muốn.\n\nHay đi với lý do “dồn ép”: 〜ため, 〜以上, これだけ〜では, 〜しか{方法|ほうほう}がない.",
+      "nuance": "- Văn phong khá cứng: tin tức, văn bản, lời nói nghiêm túc. Văn nói thân mật hay dùng 「〜しかない」.\n- Chủ ngữ thường là người nói (thường không xuất hiện). Có thể nói về tổ chức / tình huống: 「{中止|ちゅうし}せざるを得ない{状況|じょうきょう}」. Người thứ ba cụ thể thường đi với そうだ／らしい.\n- **Không dùng** cho việc mình muốn làm, hay hành động bật ra vì cảm xúc.",
+      "examples": [
+        {
+          "ja": "{終電|しゅうでん}に{乗|の}り{遅|おく}れて、タクシーで{帰|かえ}らざるを得なかった。",
+          "vi": "Lỡ chuyến tàu cuối nên tôi đành phải về bằng taxi.",
+          "note": "Hành động bất đắc dĩ"
+        },
+        {
+          "ja": "{大雪|おおゆき}の{影響|えいきょう}で、{明日|あした}のイベントは{中止|ちゅうし}せざるを得ない。",
+          "vi": "Do ảnh hưởng của tuyết lớn, sự kiện ngày mai buộc phải huỷ.",
+          "note": "する → せざる"
+        },
+        {
+          "ja": "{彼|かれ}の{作品|さくひん}は{好|す}きではないが、{技術|ぎじゅつ}の{高|たか}さは{認|みと}めざるを得ない。",
+          "vi": "Tôi không thích tác phẩm của anh ta, nhưng phải thừa nhận tay nghề rất cao.",
+          "note": "Phán đoán: 認めざるを得ない"
+        },
+        {
+          "ja": "ここまで{説明|せつめい}がころころ{変|か}わると、{何|なに}か{隠|かく}しているのではないかと{疑|うたが}わざるを得ない。",
+          "vi": "Lời giải thích thay đổi xoành xoạch thế này thì không thể không nghi là đang che giấu điều gì.",
+          "note": "疑わざるを得ない"
+        },
+        {
+          "ja": "{親|おや}の{介護|かいご}のため、{彼女|かのじょ}は{仕事|しごと}を{辞|や}めざるを得なかったそうだ。",
+          "vi": "Nghe nói vì phải chăm sóc bố mẹ, cô ấy đành phải nghỉ việc.",
+          "note": "Ngôi 3 → そうだ"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜しかない (23課)",
+          "diff": "Nghĩa gần như nhau (chỉ còn cách…). 「しかない」 trung tính, văn nói; 「ざるを得ない」 cứng hơn và nhấn mạnh **trái với ý muốn**."
+        },
+        {
+          "with": "〜ないわけにはいかない",
+          "diff": "ないわけにはいかない: vì **đạo lý / quan hệ** nên không thể không làm. ざるを得ない: vì **hoàn cảnh dồn ép, hết đường** nên đành làm."
+        },
+        {
+          "with": "〜ずにはいられない",
+          "diff": "Ngược hẳn về cảm xúc: ずにはいられない = **muốn** làm đến mức không nhịn được; ざるを得ない = **không muốn** nhưng phải làm."
+        }
+      ],
+      "mistakes": [
+        "✗ {変更|へんこう}しざるを得ない → ○ 変更せざるを得ない",
+        "✗ {大好|だいす}きなケーキなので、{食|た}べざるを得ない。→ việc mình muốn, không bất đắc dĩ → ○ 食べずにはいられない",
+        "✗ 「得ない」 đọc là うない → ○ えない (ざるをえない)"
+      ],
+      "tip": "Có cụm “dồn ép” (〜ため, 〜以上, これだけ〜ては, 〜しかない) + hành động trái ý muốn → ざるを得ない. Câu hỏi chia động từ rất hay ra: nhớ **せざる** cho する."
+    }
+  ],
+  "summary": [
+    {
+      "pattern": "〜てしかたがない・〜てしょうがない・〜てたまらない",
+      "meaning": "… quá, không chịu nổi",
+      "key": "cảm xúc / mong muốn / cảm giác cơ thể; ngôi 3 + ようだ・らしい"
+    },
+    {
+      "pattern": "〜てならない",
+      "meaning": "cứ… mãi, không kìm được",
+      "key": "気がする・思える・思い出される; cảm xúc tiêu cực; cứng hơn"
+    },
+    {
+      "pattern": "〜ないではいられない・〜ずにはいられない",
+      "meaning": "không nhịn được mà…",
+      "key": "HÀNH ĐỘNG do cảm xúc (lực bên trong); する→せずに"
+    },
+    {
+      "pattern": "〜ないわけに(は)いかない",
+      "meaning": "không thể không…",
+      "key": "đạo lý, quan hệ, trách nhiệm (lực bên ngoài)"
+    },
+    {
+      "pattern": "〜ざるを得ない",
+      "meaning": "đành phải…",
+      "key": "hết lựa chọn, trái ý muốn; する→せざる; 認めざるを得ない"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b25-q1",
+      "kind": "form",
+      "ref": "b25-1",
+      "q": "{娘|むすめ}は{来週|らいしゅう}の{遠足|えんそく}が{楽|たの}しみで（　　）。{毎日|まいにち}カレンダーを{見|み}ては{日|ひ}にちを{数|かぞ}えている。",
+      "options": [
+        "たまらない",
+        "たまらないようだ",
+        "たまらずにはいられない",
+        "たまらないわけにはいかない"
+      ],
+      "answer": 1,
+      "vi": "Con gái tôi có vẻ mong chuyến dã ngoại tuần sau lắm. Ngày nào cũng nhìn lịch đếm từng ngày.",
+      "why": "Chủ ngữ là người thứ ba (娘) nên phải nói gián tiếp → **たまらないようだ**. Phương án 1 chỉ dùng cho cảm xúc của chính người nói. Phương án 3 và 4 ghép sai: 「たまらない」 không đi tiếp với ずにはいられない hay ないわけにはいかない."
+    },
+    {
+      "id": "b25-q2",
+      "kind": "form",
+      "ref": "b25-2",
+      "q": "{駅|えき}を{出|で}てから、ずっと{誰|だれ}かに{後|あと}をつけられているような{気|き}が（　　）。",
+      "options": [
+        "しないではいられない",
+        "せざるを得ない",
+        "してならない",
+        "しないわけにはいかない"
+      ],
+      "answer": 2,
+      "vi": "Từ lúc ra khỏi ga, tôi cứ có cảm giác ai đó đang bám theo mình.",
+      "why": "「気がする」 là cảm giác tự phát → **気がしてならない**. 「ないではいられない」 nói hành động / phản ứng bật ra, không dùng với cảm giác tự phát như 気がする (và 「気がしない」 còn ngược nghĩa); 「せざるを得ない」 = đành phải làm; 「ないわけにはいかない」 = nghĩa vụ — 「気がする」 không phải hành động nên cả ba đều sai."
+    },
+    {
+      "id": "b25-q3",
+      "kind": "form",
+      "ref": "b25-3",
+      "q": "{弟|おとうと}の{話|はなし}があまりにおかしくて、{電車|でんしゃ}の{中|なか}なのに{笑|わら}わ（　　）。",
+      "options": [
+        "ずにはいられなかった",
+        "ないわけにはいかなかった",
+        "ざるを得なかった",
+        "なくてならなかった"
+      ],
+      "answer": 0,
+      "vi": "Chuyện thằng em kể buồn cười quá, dù đang trên tàu tôi vẫn không nhịn được cười.",
+      "why": "「あまりにおかしくて」 là lý do cảm xúc → hành động bật ra → **ずにはいられなかった**. 「ないわけにはいかなかった」 (nghĩa vụ) và 「ざるを得なかった」 (bị ép) không hợp vì chẳng ai bắt phải cười; 「なくてならなかった」 không phải mẫu đúng (笑わなくて + ならない không mang nghĩa này)."
+    },
+    {
+      "id": "b25-q4",
+      "kind": "form",
+      "ref": "b25-4",
+      "q": "{自分|じぶん}から{言|い}い{出|だ}した{企画|きかく}なので、どんなに{大変|たいへん}でも{最後|さいご}までやら（　　）。",
+      "options": [
+        "ずにはいられない",
+        "なくてたまらない",
+        "ないものか",
+        "ないわけにはいかない"
+      ],
+      "answer": 3,
+      "vi": "Vì là dự án do chính tôi đề xuất nên dù vất vả thế nào cũng không thể không làm đến cùng.",
+      "why": "Lý do là trách nhiệm (tự mình đề xuất) → **ないわけにはいかない**. 「ずにはいられない」 là hành động bột phát do cảm xúc; 「なくてたまらない」 sai nghĩa; 「ないものか」 (26課) là mong ước “giá mà…”, không hợp."
+    },
+    {
+      "id": "b25-q5",
+      "kind": "form",
+      "ref": "b25-5",
+      "q": "{参加者|さんかしゃ}が{予定|よてい}の{半分|はんぶん}も{集|あつ}まらないので、ツアーは{中止|ちゅうし}（　　）。",
+      "options": [
+        "しざるを得ない",
+        "せざるを得ない",
+        "せずにはいられない",
+        "さざるを得ない"
+      ],
+      "answer": 1,
+      "vi": "Người tham gia không được một nửa dự kiến nên chuyến tour đành phải huỷ.",
+      "why": "する → **せざるを得ない** (ngoại lệ). 「しざる」「さざる」 sai chia động từ. 「せずにはいられない」 đúng ngữ pháp nhưng là hành động do cảm xúc, trong khi ở đây là bị hoàn cảnh ép."
+    },
+    {
+      "id": "b25-q6",
+      "kind": "usage",
+      "ref": "b25-3",
+      "q": "「〜ずにはいられない」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "{会社|かいしゃ}の{規則|きそく}なので、{毎朝|まいあさ}{制服|せいふく}を{着|き}ずにはいられない。",
+        "{兄|あに}は{合格|ごうかく}の{知|し}らせを{聞|き}いて、{喜|よろこ}ばずにはいられない。",
+        "{困|こま}っている{人|ひと}を{見|み}ると、{声|こえ}をかけずにはいられない{性格|せいかく}だ。",
+        "{明日|あした}{試験|しけん}があるので、{今夜|こんや}は{勉強|べんきょう}せずにはいられない。"
+      ],
+      "answer": 2,
+      "vi": "(3) Tôi là kiểu người hễ thấy ai gặp khó khăn là không thể không hỏi han.",
+      "why": "(3) hành động bật ra vì lòng thương → đúng. (1) lý do là quy định → 着なければならない. (2) chủ ngữ ngôi 3 (兄) mà không có ようだ・らしい. (4) lý do là hoàn cảnh bắt buộc → 勉強しなければならない."
+    }
+  ],
+  "practice": [
+    {
+      "id": "b25-p1",
+      "kind": "form",
+      "ref": "b25-1",
+      "q": "{新|あたら}しいパソコンが{欲|ほ}しくて（　　）が、{今月|こんげつ}は{出費|しゅっぴ}が{多|おお}くて{買|か}えない。",
+      "options": [
+        "しょうがない",
+        "いられない",
+        "ならないわけにはいかない",
+        "買わざるを得ない"
+      ],
+      "answer": 0,
+      "vi": "Tôi thèm cái máy tính mới quá trời, nhưng tháng này chi tiêu nhiều nên không mua được.",
+      "why": "「欲しくて」 + mong muốn mãnh liệt → **しょうがない**. 「いられない」 phải đi với ないでは／ずには; 「ならないわけにはいかない」 không phải mẫu có nghĩa; 「買わざるを得ない」 (đành phải mua) mâu thuẫn với vế sau 「買えない」."
+    },
+    {
+      "id": "b25-p2",
+      "kind": "form",
+      "ref": "b25-2",
+      "q": "{彼|かれ}の{説明|せつめい}は{一応|いちおう}{筋|すじ}が{通|とお}っているが、どこか{嘘|うそ}のように{思|おも}えて（　　）。",
+      "options": [
+        "いられない",
+        "いかない",
+        "得ない",
+        "ならない"
+      ],
+      "answer": 3,
+      "vi": "Lời giải thích của anh ta nghe thì cũng có lý, nhưng tôi cứ thấy có gì đó như là nói dối.",
+      "why": "「思える」 là động từ tự phát → **思えてならない**. 「いられない」「いかない」「得ない」 phải đi với ずには／ないわけには／ざるを, không nối trực tiếp sau thể て."
+    },
+    {
+      "id": "b25-p3",
+      "kind": "form",
+      "ref": "b25-3",
+      "q": "SNSの{通知|つうち}が{来|く}ると、{仕事中|しごとちゅう}でもつい{確認|かくにん}し（　　）。",
+      "options": [
+        "ないわけにはいかない",
+        "ないではいられない",
+        "ざるを得ない",
+        "なくてしょうがない"
+      ],
+      "answer": 1,
+      "vi": "Hễ có thông báo mạng xã hội là dù đang làm việc tôi cũng không nhịn được mà xem ngay.",
+      "why": "「つい」 (lỡ, bất giác) cho thấy hành động bột phát → **ないではいられない**. 「ないわけにはいかない」 = nghĩa vụ — không ai bắt phải xem; 「確認しざるを得ない」 vừa sai chia (phải là せざる) vừa sai nghĩa; 「なくてしょうがない」 không có nghĩa phù hợp."
+    },
+    {
+      "id": "b25-p4",
+      "kind": "form",
+      "ref": "b25-4",
+      "q": "うちの{職場|しょくば}には、{旅行|りょこう}に{行|い}ったら{同僚|どうりょう}にお{土産|みやげ}を{買|か}ってこ（　　）{雰囲気|ふんいき}がある。",
+      "options": [
+        "ずにはいられない",
+        "てならない",
+        "ないわけにはいかない",
+        "なくてたまらない"
+      ],
+      "answer": 2,
+      "vi": "Ở chỗ làm của tôi có bầu không khí là đi du lịch thì không thể không mua quà về cho đồng nghiệp.",
+      "why": "Lý do là **không khí / lệ thường ở công ty** (lực bên ngoài) → **ないわけにはいかない**. 「こずにはいられない」 nghĩa là muốn mua đến mức không nhịn được — không hợp với 「雰囲気がある」; 「こてならない」 sai chia; 「なくてたまらない」 sai nghĩa."
+    },
+    {
+      "id": "b25-p5",
+      "kind": "form",
+      "ref": "b25-5",
+      "q": "{台風|たいふう}で{電車|でんしゃ}が{止|と}まってしまったので、{駅|えき}から{家|いえ}まで{歩|ある}いて{帰|かえ}ら（　　）。",
+      "options": [
+        "ざるを得なかった",
+        "ずにはいられなかった",
+        "ないではならなかった",
+        "なくてたまらなかった"
+      ],
+      "answer": 0,
+      "vi": "Tàu ngừng chạy vì bão nên tôi đành phải đi bộ từ ga về nhà.",
+      "why": "Hoàn cảnh dồn ép (tàu ngừng) → **ざるを得なかった**. 「ずにはいられなかった」 = muốn đi bộ đến mức không nhịn được — vô lý; 「ないではならなかった」 không phải mẫu đúng; 「なくてたまらなかった」 sai nghĩa."
+    },
+    {
+      "id": "b25-p6",
+      "kind": "form",
+      "ref": "b25-5",
+      "q": "{予算|よさん}が{大幅|おおはば}に{削|けず}られたため、{計画|けいかく}の{一部|いちぶ}を{変更|へんこう}（　　）。",
+      "options": [
+        "しざるを得ない",
+        "さざるを得ない",
+        "するざるを得ない",
+        "せざるを得ない"
+      ],
+      "answer": 3,
+      "vi": "Do ngân sách bị cắt giảm mạnh, chúng tôi buộc phải thay đổi một phần kế hoạch.",
+      "why": "Động từ する chia ngoại lệ → **せざるを得ない**. Ba phương án còn lại đều sai cách chia."
+    },
+    {
+      "id": "b25-p7",
+      "kind": "usage",
+      "ref": "b25-1",
+      "q": "「〜てたまらない」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "{彼|かれ}は{合格|ごうかく}の{知|し}らせを{聞|き}いて、うれしくてたまらない。",
+        "{来週|らいしゅう}{国|くに}へ{帰|かえ}れるので、{待|ま}ってたまらない。",
+        "{決勝|けっしょう}で{負|ま}けて、{悔|くや}しくてたまらなかった。",
+        "{熱|ねつ}があるが、{仕事|しごと}なので{会社|かいしゃ}へ{行|い}ってたまらない。"
+      ],
+      "answer": 2,
+      "vi": "(3) Thua ở trận chung kết, tôi tức tối không chịu nổi.",
+      "why": "(3) cảm xúc của chính người nói → đúng. (1) chủ ngữ ngôi 3 (彼) → cần うれしくてたまらないようだ. (2) 「待つ」 là hành động, không phải cảm xúc → 待ち遠しくてたまらない. (4) lý do nghĩa vụ → 行かないわけにはいかない."
+    },
+    {
+      "id": "b25-p8",
+      "kind": "order",
+      "ref": "b25-3",
+      "q": "{面白|おもしろ}い{本|ほん}を{読|よ}み{始|はじ}めると、{夜中|よなか}になっても ＿＿＿ ＿＿＿ ★ ＿＿＿ {性格|せいかく}だ。",
+      "options": [
+        "には",
+        "いられない",
+        "{最後|さいご}まで",
+        "{読|よ}まず"
+      ],
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answer": 0,
+      "vi": "Tôi là kiểu người hễ bắt đầu đọc một cuốn sách hay là dù đến nửa đêm cũng không thể không đọc đến hết.",
+      "why": "夜中になっても **最後まで 読まず には いられない** 性格だ → ★ (ô thứ 3) = 「には」. Ghép khối 「読まず＋には＋いられない」 trước, 「最後まで」 bổ nghĩa cho 「読む」 nên đứng đầu."
+    },
+    {
+      "id": "b25-p9",
+      "kind": "order",
+      "ref": "b25-4",
+      "q": "お{世話|せわ}になった{恩師|おんし}からの{頼|たの}みなので、{忙|いそが}しくても ＿＿＿ ＿＿＿ ★ ＿＿＿ 。",
+      "options": [
+        "いかない",
+        "は",
+        "{引|ひ}き{受|う}けない",
+        "わけに"
+      ],
+      "order": [
+        2,
+        3,
+        1,
+        0
+      ],
+      "answer": 1,
+      "vi": "Vì là lời nhờ của người thầy đã giúp đỡ mình nên dù bận tôi cũng không thể không nhận lời.",
+      "why": "忙しくても **引き受けない わけに は いかない** → ★ = 「は」. Thứ tự cố định: Vない ＋ わけに ＋ は ＋ いかない."
+    },
+    {
+      "id": "b25-p10",
+      "kind": "form",
+      "ref": "b25-1",
+      "q": "{試験中|しけんちゅう}、{隣|となり}の{席|せき}の{人|ひと}の{咳|せき}が{気|き}になって（　　）、{問題|もんだい}に{集中|しゅうちゅう}できなかった。",
+      "options": [
+        "いられず",
+        "いかず",
+        "得ず",
+        "しかたがなく"
+      ],
+      "answer": 3,
+      "vi": "Trong giờ thi, tiếng ho của người ngồi bên cạnh làm tôi bứt rứt quá, không tập trung làm bài được.",
+      "why": "「気になる」 + cảm giác khó chịu kéo dài → **気になってしかたがなく** (dạng nối câu của しかたがない). 「いられず」「いかず」「得ず」 không nối trực tiếp sau thể て."
+    },
+    {
+      "id": "b25-p11",
+      "kind": "usage",
+      "ref": "b25-5",
+      "q": "「〜ざるを{得|え}ない」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "{大好|だいす}きな{歌手|かしゅ}のコンサートなので、{行|い}かざるを{得|え}ない。",
+        "{誰|だれ}も{手伝|てつだ}ってくれないので、{一人|ひとり}でやらざるを{得|え}ない。",
+        "{子|こ}どもの{寝顔|ねがお}を{見|み}ると、{笑顔|えがお}にならざるを{得|え}ない。",
+        "{休|やす}みの{日|ひ}は、いつも{好|す}きな{音楽|おんがく}を{聞|き}かざるを{得|え}ない。"
+      ],
+      "answer": 1,
+      "vi": "(2) Chẳng ai giúp nên tôi đành phải làm một mình.",
+      "why": "(2) không còn lựa chọn, trái ý muốn → đúng. (1) việc mình rất muốn, không bất đắc dĩ. (3) phản ứng tự nhiên do cảm xúc → 笑顔にならずにはいられない. (4) sở thích, thói quen vui vẻ → không có sự ép buộc."
+    },
+    {
+      "id": "b25-p12",
+      "kind": "form",
+      "ref": "b25-4",
+      "q": "{取引先|とりひきさき}の{社長|しゃちょう}から{直接|ちょくせつ}{招待|しょうたい}されたパーティーなので、{本当|ほんとう}は{面倒|めんどう}でも（　　）。",
+      "options": [
+        "出席せずにはいられない",
+        "欠席せざるを得ない",
+        "出席しないわけにはいかない",
+        "出席してならない"
+      ],
+      "answer": 2,
+      "vi": "Vì là bữa tiệc do giám đốc bên đối tác trực tiếp mời nên dù thật lòng thấy phiền cũng không thể không tham dự.",
+      "why": "Lý do quan hệ, phép lịch sự + 「面倒でも」 (không muốn) → **出席しないわけにはいかない**. 「出席せずにはいられない」 = muốn đi đến mức không nhịn được — mâu thuẫn với 面倒; 「欠席せざるを得ない」 ngược nghĩa (đành vắng mặt); 「出席してならない」 không phải mẫu đúng."
+    }
+  ],
+  "test": [
+    {
+      "id": "b25-t1",
+      "kind": "form",
+      "ref": "b25-1",
+      "q": "{今日|きょう}は{朝|あさ}から{頭|あたま}が{重|おも}くて、{人|ひと}と{話|はな}すのも{面倒|めんどう}（　　）しかたがなかった。",
+      "options": [
+        "に",
+        "くて",
+        "で",
+        "だから"
+      ],
+      "answer": 2,
+      "vi": "Hôm nay từ sáng đầu đã nặng trĩu, đến nói chuyện với người khác cũng thấy phiền kinh khủng.",
+      "why": "な形 面倒だ → **面倒で** ＋ しかたがない. 「くて」 dành cho い形; 「に」「だから」 không nối được với しかたがない theo nghĩa này."
+    },
+    {
+      "id": "b25-t2",
+      "kind": "form",
+      "ref": "b25-2",
+      "q": "あの{時|とき}もっと{強|つよ}く{止|と}めていれば、{事故|じこ}は{防|ふせ}げたのではないかと{悔|く}やまれて（　　）。",
+      "options": [
+        "ならない",
+        "いられない",
+        "いかない",
+        "得ない"
+      ],
+      "answer": 0,
+      "vi": "Tôi cứ day dứt mãi rằng giá như lúc đó mình ngăn mạnh hơn thì đã tránh được tai nạn.",
+      "why": "「悔やまれる」 là động từ tự phát (cảm giác hối tiếc tự trào lên) → **悔やまれてならない**. Ba phương án kia không nối trực tiếp sau thể て."
+    },
+    {
+      "id": "b25-t3",
+      "kind": "form",
+      "ref": "b25-3",
+      "q": "その{映画|えいが}の{結末|けつまつ}があまりにひどくて{腹|はら}が{立|た}ったので、{見終|みお}わってすぐ{友達|ともだち}に{文句|もんく}を{言|い}わ（　　）。",
+      "options": [
+        "ないわけにはいかなかった",
+        "なくてならなかった",
+        "なくてたまらなかった",
+        "ずにはいられなかった"
+      ],
+      "answer": 3,
+      "vi": "Cái kết của bộ phim tệ quá làm tôi bực mình, xem xong là không nhịn được phải than ngay với bạn.",
+      "why": "Lý do cảm xúc (腹が立った) → hành động bột phát → **ずにはいられなかった**. 「ないわけにはいかなかった」 = vì nghĩa vụ — chẳng có nghĩa vụ phải than phiền; 「なくてならなかった」「なくてたまらなかった」 không mang nghĩa “không thể không làm”."
+    },
+    {
+      "id": "b25-t4",
+      "kind": "form",
+      "ref": "b25-5",
+      "q": "{本当|ほんとう}は{行|い}きたくないが、{社長|しゃちょう}{直々|じきじき}の{命令|めいれい}となれば{行|い}か（　　）。",
+      "options": [
+        "ずにはいられない",
+        "ざるを得ない",
+        "ないではいられない",
+        "なくてしょうがない"
+      ],
+      "answer": 1,
+      "vi": "Thật lòng tôi không muốn đi, nhưng đã là lệnh trực tiếp của giám đốc thì đành phải đi.",
+      "why": "「行きたくないが」 + mệnh lệnh không thể từ chối → **ざるを得ない**. 「ずにはいられない」「ないではいられない」 = muốn đi đến mức không nhịn được — mâu thuẫn với 行きたくない; 「なくてしょうがない」 sai nghĩa."
+    },
+    {
+      "id": "b25-t5",
+      "kind": "order",
+      "ref": "b25-5",
+      "q": "{原料費|げんりょうひ}の{値上|ねあ}がりを{受|う}けて、A{社|しゃ}は{来月|らいげつ}から ＿＿＿ ＿＿＿ ★ ＿＿＿ と{発表|はっぴょう}した。",
+      "options": [
+        "ざるを{得|え}ない",
+        "{上|あ}げ",
+        "{商品|しょうひん}の",
+        "{価格|かかく}を"
+      ],
+      "order": [
+        2,
+        3,
+        1,
+        0
+      ],
+      "answer": 1,
+      "vi": "Trước việc chi phí nguyên liệu tăng, công ty A thông báo từ tháng sau buộc phải tăng giá sản phẩm.",
+      "why": "来月から **商品の 価格を 上げ ざるを得ない** と発表した → ★ = 「上げ」. 「商品の」 bổ nghĩa cho 「価格」, 「価格を」 là tân ngữ của 「上げる」, rồi 「上げ＋ざるを得ない」."
+    },
+    {
+      "id": "b25-t6",
+      "kind": "order",
+      "ref": "b25-1",
+      "q": "{合格|ごうかく}の{通知|つうち}を{見|み}た{妹|いもうと}は、＿＿＿ ＿＿＿ ★ ＿＿＿ 、{何度|なんど}も{跳|と}び{跳|は}ねていた。",
+      "options": [
+        "らしく",
+        "よほど",
+        "たまらない",
+        "うれしくて"
+      ],
+      "order": [
+        1,
+        3,
+        2,
+        0
+      ],
+      "answer": 2,
+      "vi": "Em gái tôi xem thông báo đỗ xong, chắc là mừng quá nên nhảy cẫng lên mãi.",
+      "why": "妹は **よほど うれしくて たまらない らしく**、何度も跳び跳ねていた → ★ = 「たまらない」. Chủ ngữ ngôi 3 nên cần 「らしく」 ở cuối; 「よほど」 (hẳn là rất…) là trạng từ đứng đầu cụm."
+    },
+    {
+      "id": "b25-t7",
+      "kind": "usage",
+      "ref": "b25-4",
+      "q": "「〜ないわけにはいかない」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "{明日|あした}は{休日|きゅうじつ}で{何|なん}の{予定|よてい}もないので、{早|はや}く{起|お}きないわけにはいかない。",
+        "{田中|たなか}さんの{冗談|じょうだん}がおかしくて、{笑|わら}わないわけにはいかなかった。",
+        "{天気|てんき}{予報|よほう}によると、{明日|あした}は{雨|あめ}が{降|ふ}らないわけにはいかない。",
+        "{先生|せんせい}が{作|つく}ってくださった{料理|りょうり}なので、{苦手|にがて}でも{食|た}べないわけにはいかない。"
+      ],
+      "answer": 3,
+      "vi": "(4) Vì là món thầy tự tay nấu nên dù không thích tôi cũng không thể không ăn.",
+      "why": "(4) lý do phép lịch sự, quan hệ → đúng. (1) không có lý do nào bắt phải dậy sớm — mâu thuẫn. (2) phản ứng cảm xúc → 笑わずにはいられなかった. (3) 「雨が降る」 không phải hành động có ý chí."
+    }
+  ]
+}

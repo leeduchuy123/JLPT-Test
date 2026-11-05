@@ -1,0 +1,1926 @@
+{
+  "id": "g12",
+  "track": "goi",
+  "intro": "Bài này là từ vựng **báo chí, truyền hình, quảng cáo** — chủ đề cực kỳ hay gặp trong đọc hiểu N2 (các bài bình luận về truyền thông, tin giả, quảng cáo...).\n\nHãy hình dung **dây chuyền làm tin**: {記者|きしゃ}／ジャーナリスト が {取材|しゅざい}する → {情報|じょうほう}を{入手|にゅうしゅ}する → {記事|きじ}を{書|か}く → {新聞|しんぶん}に{載|の}る／テレビで{報道|ほうどう}する → {世間|せけん}の{注目|ちゅうもく}を{浴|あ}びる・{話題|わだい}に{上|のぼ}る. Phía truyền hình: {番組|ばんぐみ}を{制作|せいさく}する → {撮影|さつえい}する → {放送|ほうそう}する.\n\nBa điểm hay mất điểm:\n- **Cặp tự/tha động từ**: 載る／載せる, 流れる／流す, (費用が) 掛かる.\n- **Tính từ đánh giá nội dung**: 詳しい・詳細 ↔ 大まか, 正確 ↔ でたらめ, 適切 ↔ 不適切, 興味深い, 衝撃的.\n- **Bạn giả Hán Việt**: 「{宣伝|せんでん}」 chủ yếu là **quảng cáo, PR** cho sản phẩm (không chỉ \"tuyên truyền\" chính trị); 「{番組|ばんぐみ}」 = **chương trình** TV/radio; 「{一面|いちめん}」 = **trang nhất** của báo.\n\nCuối bài: 語形成 (不〜・〜深い・〜的・〜番組・〜費・〜人) và 5 phó từ 近々・案外・自ら・そのまま・じっくり.",
+  "sections": [
+    {
+      "title": "新聞・雑誌",
+      "title_vi": "Báo, tạp chí",
+      "words": [
+        {
+          "id": "g12-w1",
+          "w": "報道",
+          "r": "ほうどう",
+          "hv": "BÁO ĐẠO",
+          "pos": "名・他動",
+          "vi": "đưa tin, thông tin báo chí",
+          "key": true,
+          "ex": {
+            "ja": "{地震|じしん}の{被害|ひがい}の{様子|ようす}が、{各局|かくきょく}で{一日中|いちにちじゅう}{報道|ほうどう}された。",
+            "vi": "Tình hình thiệt hại do động đất được các đài đưa tin suốt cả ngày."
+          },
+          "col": [
+            "ニュースを報道する",
+            "報道機関",
+            "報道番組",
+            "報道の自由"
+          ],
+          "note": "報道 = **nội dung tin tức** (báo, TV, mạng đều dùng). 放送 = **phát sóng** (chỉ TV/radio, cả phim, ca nhạc)."
+        },
+        {
+          "id": "g12-w2",
+          "w": "マスコミ",
+          "r": "ますこみ",
+          "hv": "",
+          "pos": "名",
+          "vi": "giới truyền thông đại chúng, báo giới",
+          "key": true,
+          "ex": {
+            "ja": "{事件|じけん}の{現場|げんば}には、{朝|あさ}から{大勢|おおぜい}のマスコミが{集|あつ}まっていた。",
+            "vi": "Từ sáng đã có rất đông phóng viên báo đài tập trung ở hiện trường vụ án."
+          },
+          "col": [
+            "マスコミ関係",
+            "マスコミに取り上げられる"
+          ],
+          "note": "Viết tắt của mass communication. Thường chỉ **những người/tổ chức làm báo, đài**."
+        },
+        {
+          "id": "g12-w3",
+          "w": "メディア",
+          "r": "めでぃあ",
+          "hv": "",
+          "pos": "名",
+          "vi": "phương tiện truyền thông (báo, TV, Internet...)",
+          "key": true,
+          "ex": {
+            "ja": "{若者|わかもの}は{新聞|しんぶん}よりSNSなどのネットメディアでニュースを{知|し}ることが{多|おお}い。",
+            "vi": "Giới trẻ thường biết tin qua truyền thông mạng như SNS hơn là báo giấy."
+          },
+          "col": [
+            "マスメディア",
+            "ソーシャルメディア",
+            "メディアに出る"
+          ],
+          "note": "メディア nhấn vào **kênh, phương tiện**; マスコミ nhấn vào **giới làm báo**."
+        },
+        {
+          "id": "g12-w4",
+          "w": "記事",
+          "r": "きじ",
+          "hv": "KÝ SỰ",
+          "pos": "名",
+          "vi": "bài báo, bài viết (trên báo, tạp chí, web)",
+          "key": true,
+          "ex": {
+            "ja": "{健康|けんこう}に{関|かん}する{記事|きじ}を{読|よ}んで、{朝食|ちょうしょく}を{見直|みなお}すことにした。",
+            "vi": "Đọc một bài báo về sức khoẻ, tôi quyết định xem lại bữa sáng của mình."
+          },
+          "col": [
+            "記事を書く",
+            "記事が載る",
+            "新聞記事",
+            "特集記事"
+          ]
+        },
+        {
+          "id": "g12-w5",
+          "w": "載る",
+          "r": "のる",
+          "hv": "TẢI",
+          "pos": "自動",
+          "vi": "được đăng (trên báo, tạp chí, sách)",
+          "key": false,
+          "ex": {
+            "ja": "{姉|あね}の{写真|しゃしん}が{旅行|りょこう}{雑誌|ざっし}の{表紙|ひょうし}に{載|の}った。",
+            "vi": "Ảnh của chị tôi được đăng trên bìa một tạp chí du lịch."
+          },
+          "col": [
+            "新聞に載る",
+            "辞書に載っている"
+          ],
+          "rel": "他動: 載せる",
+          "note": "Đồng âm 乗る (lên xe). Đăng trên báo/sách/web dùng chữ **載**."
+        },
+        {
+          "id": "g12-w6",
+          "w": "タイトル",
+          "r": "たいとる",
+          "hv": "",
+          "pos": "名",
+          "vi": "tiêu đề, tên (bài, sách, phim); danh hiệu (thể thao)",
+          "key": true,
+          "ex": {
+            "ja": "{記事|きじ}のタイトルが{面白|おもしろ}かったので、{思|おも}わずクリックしてしまった。",
+            "vi": "Tiêu đề bài báo thú vị nên tôi bất giác bấm vào xem."
+          },
+          "rel": "≒ 題名・見出し"
+        },
+        {
+          "id": "g12-w7",
+          "w": "朝刊",
+          "r": "ちょうかん",
+          "hv": "TRIỀU SAN",
+          "pos": "名",
+          "vi": "báo buổi sáng",
+          "key": true,
+          "ex": {
+            "ja": "{父|ちち}は{毎朝|まいあさ}、コーヒーを{飲|の}みながら{朝刊|ちょうかん}を{隅々|すみずみ}まで{読|よ}む。",
+            "vi": "Mỗi sáng bố tôi vừa uống cà phê vừa đọc kỹ từng góc tờ báo sáng."
+          },
+          "col": [
+            "朝刊を取る",
+            "朝刊に載る"
+          ],
+          "rel": "↔ 夕刊",
+          "note": "「新聞を取る」 = đặt báo dài hạn."
+        },
+        {
+          "id": "g12-w8",
+          "w": "夕刊",
+          "r": "ゆうかん",
+          "hv": "TỊCH SAN",
+          "pos": "名",
+          "vi": "báo buổi chiều",
+          "key": true,
+          "ex": {
+            "ja": "{最近|さいきん}は{夕刊|ゆうかん}の{発行|はっこう}をやめる{新聞社|しんぶんしゃ}が{増|ふ}えている。",
+            "vi": "Gần đây ngày càng nhiều tòa báo ngừng phát hành báo chiều."
+          },
+          "rel": "↔ 朝刊"
+        },
+        {
+          "id": "g12-w9",
+          "w": "ジャーナリスト",
+          "r": "じゃーなりすと",
+          "hv": "",
+          "pos": "名",
+          "vi": "nhà báo",
+          "key": true,
+          "ex": {
+            "ja": "{彼女|かのじょ}はフリーのジャーナリストとして、{世界|せかい}の{紛争|ふんそう}{地域|ちいき}を{取材|しゅざい}している。",
+            "vi": "Cô ấy là nhà báo tự do, tác nghiệp ở các vùng xung đột trên thế giới."
+          },
+          "rel": "≒ 記者"
+        },
+        {
+          "id": "g12-w10",
+          "w": "取材",
+          "r": "しゅざい",
+          "hv": "THỦ TÀI",
+          "pos": "名・他動",
+          "vi": "lấy tin, tác nghiệp, phỏng vấn thu thập tư liệu",
+          "key": true,
+          "ex": {
+            "ja": "{地元|じもと}のテレビ{局|きょく}が、{私|わたし}たちの{店|みせ}を{取材|しゅざい}しに{来|き}た。",
+            "vi": "Đài truyền hình địa phương đã đến lấy tin về cửa hàng của chúng tôi."
+          },
+          "col": [
+            "事件を取材する",
+            "取材を受ける",
+            "取材班"
+          ],
+          "note": "Đừng nhầm 主催 (しゅさい, đứng ra tổ chức)."
+        },
+        {
+          "id": "g12-w11",
+          "w": "記者",
+          "r": "きしゃ",
+          "hv": "KÝ GIẢ",
+          "pos": "名",
+          "vi": "phóng viên",
+          "key": true,
+          "ex": {
+            "ja": "{記者|きしゃ}{会見|かいけん}で、{大臣|だいじん}は{記者|きしゃ}たちの{質問|しつもん}に{答|こた}えた。",
+            "vi": "Tại buổi họp báo, bộ trưởng đã trả lời câu hỏi của các phóng viên."
+          },
+          "col": [
+            "新聞記者",
+            "記者会見",
+            "記者クラブ"
+          ],
+          "note": "Đồng âm 汽車 (tàu hỏa hơi nước)."
+        },
+        {
+          "id": "g12-w12",
+          "w": "情報",
+          "r": "じょうほう",
+          "hv": "TÌNH BÁO",
+          "pos": "名",
+          "vi": "thông tin",
+          "key": true,
+          "ex": {
+            "ja": "ネットの{情報|じょうほう}は{便利|べんり}だが、{全部|ぜんぶ}を{信|しん}じてはいけない。",
+            "vi": "Thông tin trên mạng tiện lợi nhưng không được tin tất cả."
+          },
+          "col": [
+            "情報を入手する",
+            "情報を流す",
+            "個人情報",
+            "情報源"
+          ],
+          "note": "Bạn giả: không phải \"tình báo\" (gián điệp → 諜報・スパイ)."
+        },
+        {
+          "id": "g12-w13",
+          "w": "入手",
+          "r": "にゅうしゅ",
+          "hv": "NHẬP THỦ",
+          "pos": "名・他動",
+          "vi": "có được, lấy được, thu được (tin, tài liệu, vé hiếm...)",
+          "key": true,
+          "ex": {
+            "ja": "{発売|はつばい}{日|び}に{並|なら}んで、{人気|にんき}ゲームを{入手|にゅうしゅ}した。",
+            "vi": "Tôi xếp hàng ngày phát hành và đã mua được trò chơi đang hot."
+          },
+          "col": [
+            "情報を入手する",
+            "入手困難",
+            "入手方法"
+          ],
+          "rel": "≒ 手に入れる",
+          "note": "Văn viết, hay đi với 情報・資料・チケット. Hàm ý có được thứ **không dễ lấy**."
+        },
+        {
+          "id": "g12-w14",
+          "w": "発行",
+          "r": "はっこう",
+          "hv": "PHÁT HÀNH",
+          "pos": "名・他動",
+          "vi": "phát hành, xuất bản (báo, tạp chí); cấp (giấy tờ, thẻ)",
+          "key": true,
+          "ex": {
+            "ja": "{市役所|しやくしょ}で{住民票|じゅうみんひょう}を{発行|はっこう}してもらった。",
+            "vi": "Tôi được ủy ban thành phố cấp giấy xác nhận cư trú."
+          },
+          "col": [
+            "雑誌を発行する",
+            "証明書を発行する",
+            "発行部数"
+          ],
+          "note": "Dùng cả cho giấy tờ: パスポート・領収書・チケットを発行する."
+        },
+        {
+          "id": "g12-w15",
+          "w": "話題",
+          "r": "わだい",
+          "hv": "THOẠI ĐỀ",
+          "pos": "名",
+          "vi": "đề tài (câu chuyện), chủ đề được bàn tán",
+          "key": true,
+          "ex": {
+            "ja": "{駅前|えきまえ}にできたカフェが、SNSで{話題|わだい}になっている。",
+            "vi": "Quán cà phê mới mở trước ga đang được bàn tán trên mạng xã hội."
+          },
+          "col": [
+            "話題に上る",
+            "話題になる",
+            "話題を変える",
+            "話題作"
+          ],
+          "note": "「話題に上る」 (のぼる) = được nhắc tới, trở thành chủ đề."
+        },
+        {
+          "id": "g12-w16",
+          "w": "世間",
+          "r": "せけん",
+          "hv": "THẾ GIAN",
+          "pos": "名",
+          "vi": "xã hội, thiên hạ, người đời",
+          "key": true,
+          "ex": {
+            "ja": "{彼|かれ}は{世間|せけん}の{目|め}を{気|き}にせず、{自分|じぶん}の{好|す}きな{生|い}き{方|かた}をしている。",
+            "vi": "Anh ấy không bận tâm ánh mắt người đời, sống theo cách mình thích."
+          },
+          "col": [
+            "世間の注目",
+            "世間知らず",
+            "世間話",
+            "世間体"
+          ],
+          "note": "世間 = những người xung quanh mình, dư luận; mang sắc thái **đánh giá của người khác**."
+        },
+        {
+          "id": "g12-w17",
+          "w": "注目",
+          "r": "ちゅうもく",
+          "hv": "CHÚ MỤC",
+          "pos": "名・自他動",
+          "vi": "chú ý, sự quan tâm",
+          "key": true,
+          "ex": {
+            "ja": "{十六歳|じゅうろくさい}の{選手|せんしゅ}が{金|きん}メダルを{取|と}り、{世界|せかい}の{注目|ちゅうもく}を{浴|あ}びた。",
+            "vi": "Vận động viên 16 tuổi giành huy chương vàng và nhận được sự chú ý của cả thế giới."
+          },
+          "col": [
+            "注目を浴びる",
+            "注目を集める",
+            "注目に値する",
+            "〜に注目する"
+          ],
+          "note": "「注目を**浴びる**」 = được dồn sự chú ý (như tắm trong ánh đèn)."
+        },
+        {
+          "id": "g12-w18",
+          "w": "見出し",
+          "r": "みだし",
+          "hv": "KIẾN XUẤT",
+          "pos": "名",
+          "vi": "tít báo, tiêu đề lớn; mục từ (trong từ điển)",
+          "key": true,
+          "ex": {
+            "ja": "{忙|いそが}しい{朝|あさ}は、{新聞|しんぶん}の{見出|みだ}しだけ{読|よ}んで{家|いえ}を{出|で}る。",
+            "vi": "Những sáng bận rộn, tôi chỉ đọc tít báo rồi ra khỏi nhà."
+          },
+          "col": [
+            "大きな見出し",
+            "見出し語"
+          ],
+          "rel": "≒ タイトル"
+        },
+        {
+          "id": "g12-w19",
+          "w": "一面",
+          "r": "いちめん",
+          "hv": "NHẤT DIỆN",
+          "pos": "名",
+          "vi": "trang nhất (báo); một mặt (của sự việc); khắp cả (một vùng)",
+          "key": true,
+          "ex": {
+            "ja": "{優勝|ゆうしょう}のニュースは、{翌日|よくじつ}の{新聞|しんぶん}の{一面|いちめん}を{飾|かざ}った。",
+            "vi": "Tin vô địch đã lên trang nhất các báo ngày hôm sau."
+          },
+          "col": [
+            "一面トップ",
+            "一面に載る",
+            "意外な一面",
+            "一面の雪"
+          ],
+          "senses": [
+            {
+              "vi": "một mặt, khía cạnh",
+              "ex": {
+                "ja": "いつも{厳|きび}しい{部長|ぶちょう}の{優|やさ}しい{一面|いちめん}を{見|み}た。",
+                "vi": "Tôi đã thấy một mặt dịu dàng của vị trưởng phòng luôn nghiêm khắc."
+              }
+            },
+            {
+              "vi": "khắp cả, phủ kín",
+              "ex": {
+                "ja": "{朝|あさ}{起|お}きると、{外|そと}は{一面|いちめん}の{雪景色|ゆきげしき}だった。",
+                "vi": "Sáng thức dậy, bên ngoài phủ kín tuyết trắng."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g12-w20",
+          "w": "総合欄",
+          "r": "そうごうらん",
+          "hv": "TỔNG HỢP LAN",
+          "pos": "名",
+          "vi": "chuyên mục tổng hợp (tin chính các lĩnh vực)",
+          "key": true,
+          "ex": {
+            "ja": "{時間|じかん}がないときは、{総合欄|そうごうらん}を{読|よ}めば{大体|だいたい}のニュースがわかる。",
+            "vi": "Khi không có thời gian, đọc mục tổng hợp là nắm được phần lớn tin tức."
+          },
+          "note": "〜欄 (らん) = chuyên mục, ô/cột: 投書欄, 記入欄 (ô điền)."
+        },
+        {
+          "id": "g12-w21",
+          "w": "政治欄",
+          "r": "せいじらん",
+          "hv": "CHÍNH TRỊ LAN",
+          "pos": "名",
+          "vi": "chuyên mục chính trị",
+          "key": true,
+          "ex": {
+            "ja": "{選挙|せんきょ}が{近|ちか}づき、{政治欄|せいじらん}の{記事|きじ}が{増|ふ}えてきた。",
+            "vi": "Bầu cử đến gần nên bài trong mục chính trị cũng nhiều lên."
+          }
+        },
+        {
+          "id": "g12-w22",
+          "w": "国際欄",
+          "r": "こくさいらん",
+          "hv": "QUỐC TẾ LAN",
+          "pos": "名",
+          "vi": "chuyên mục quốc tế",
+          "key": true,
+          "ex": {
+            "ja": "{国際欄|こくさいらん}にベトナムの{経済|けいざい}{成長|せいちょう}についての{記事|きじ}が{載|の}っていた。",
+            "vi": "Ở mục quốc tế có bài về tăng trưởng kinh tế của Việt Nam."
+          }
+        }
+      ]
+    },
+    {
+      "title": "内容を伝える",
+      "title_vi": "Đánh giá nội dung (bài báo, thông tin)",
+      "words": [
+        {
+          "id": "g12-w23",
+          "w": "内容",
+          "r": "ないよう",
+          "hv": "NỘI DUNG",
+          "pos": "名",
+          "vi": "nội dung",
+          "key": true,
+          "ex": {
+            "ja": "{契約書|けいやくしょ}の{内容|ないよう}をよく{確認|かくにん}してからサインしてください。",
+            "vi": "Hãy kiểm tra kỹ nội dung hợp đồng rồi mới ký."
+          },
+          "col": [
+            "内容を伝える",
+            "内容が濃い",
+            "内容のない話"
+          ]
+        },
+        {
+          "id": "g12-w24",
+          "w": "主な",
+          "r": "おもな",
+          "hv": "CHỦ",
+          "pos": "連体",
+          "vi": "chính, chủ yếu",
+          "key": true,
+          "ex": {
+            "ja": "{今日|きょう}の{主|おも}なニュースをお{伝|つた}えします。",
+            "vi": "Xin điểm lại các tin chính trong ngày hôm nay."
+          },
+          "col": [
+            "主な原因",
+            "主な内容",
+            "主に（副）"
+          ],
+          "note": "Chỉ dùng trước danh từ (✗このニュースは主だ). Phó từ: 主に = chủ yếu."
+        },
+        {
+          "id": "g12-w25",
+          "w": "適切",
+          "r": "てきせつ",
+          "hv": "THÍCH THIẾT",
+          "pos": "な形",
+          "vi": "thích hợp, đúng mực, phù hợp",
+          "key": true,
+          "ex": {
+            "ja": "{熱中症|ねっちゅうしょう}の{人|ひと}には、すぐに{適切|てきせつ}な{処置|しょち}をする{必要|ひつよう}がある。",
+            "vi": "Với người bị say nắng cần xử lý thích hợp ngay lập tức."
+          },
+          "col": [
+            "適切な判断",
+            "適切な表現",
+            "適切に対応する"
+          ],
+          "rel": "≒ 妥当・適当 ↔ 不適切"
+        },
+        {
+          "id": "g12-w26",
+          "w": "不適切",
+          "r": "ふてきせつ",
+          "hv": "BẤT THÍCH THIẾT",
+          "pos": "な形",
+          "vi": "không thích hợp, không đúng mực",
+          "key": true,
+          "ex": {
+            "ja": "{大臣|だいじん}の{不適切|ふてきせつ}な{発言|はつげん}が{大|おお}きな{問題|もんだい}になった。",
+            "vi": "Phát ngôn không đúng mực của bộ trưởng đã trở thành vấn đề lớn."
+          },
+          "col": [
+            "不適切な発言",
+            "不適切な表現"
+          ]
+        },
+        {
+          "id": "g12-w27",
+          "w": "興味深い",
+          "r": "きょうみぶかい",
+          "hv": "HỨNG VỊ THÂM",
+          "pos": "い形",
+          "vi": "rất thú vị, đáng quan tâm (gợi tò mò, kích thích suy nghĩ)",
+          "key": true,
+          "ex": {
+            "ja": "{動物|どうぶつ}にも{感情|かんじょう}があるという{研究|けんきゅう}{結果|けっか}は、とても{興味深|きょうみぶか}い。",
+            "vi": "Kết quả nghiên cứu cho rằng động vật cũng có cảm xúc thật đáng quan tâm."
+          },
+          "col": [
+            "興味深い話",
+            "興味深い結果"
+          ],
+          "rel": "≒ 面白い",
+          "note": "面白い thiên về **vui, buồn cười**; 興味深い là thú vị **về mặt trí tuệ**. Thường dùng cho câu chuyện, kết quả, sự việc (興味深い話・結果・データ); không nói 「〜を興味深くする」."
+        },
+        {
+          "id": "g12-w28",
+          "w": "詳しい",
+          "r": "くわしい",
+          "hv": "TƯỜNG",
+          "pos": "い形",
+          "vi": "chi tiết, tỉ mỉ; (người) am hiểu, rành",
+          "key": true,
+          "ex": {
+            "ja": "{詳|くわ}しいことは、ホームページをご{覧|らん}ください。",
+            "vi": "Chi tiết xin xem trên trang chủ."
+          },
+          "col": [
+            "詳しい説明",
+            "〜に詳しい人"
+          ],
+          "rel": "≒ 詳細 ↔ 大まか",
+          "note": "「〜に詳しい」 = rành về …: 彼は歴史に詳しい. 詳細 không dùng cho người."
+        },
+        {
+          "id": "g12-w29",
+          "w": "詳細",
+          "r": "しょうさい",
+          "hv": "TƯỜNG TẾ",
+          "pos": "名・な形",
+          "vi": "chi tiết, cụ thể (văn viết)",
+          "key": true,
+          "ex": {
+            "ja": "{事故|じこ}の{詳細|しょうさい}については、{現在|げんざい}{調査|ちょうさ}{中|ちゅう}です。",
+            "vi": "Về chi tiết vụ tai nạn, hiện vẫn đang điều tra."
+          },
+          "col": [
+            "詳細な説明",
+            "詳細は後日",
+            "詳細に記録する"
+          ],
+          "rel": "≒ 詳しい ↔ 大まか",
+          "note": "Chỉ dùng cho **thông tin, nội dung**, không dùng cho tính cách hay vật nhỏ (vải mịn, mưa phùn → 細かい)."
+        },
+        {
+          "id": "g12-w30",
+          "w": "大まか",
+          "r": "おおまか",
+          "hv": "ĐẠI",
+          "pos": "な形",
+          "vi": "đại khái, sơ lược, khái quát",
+          "key": true,
+          "ex": {
+            "ja": "{細|こま}かい{数字|すうじ}はあとで{確認|かくにん}するとして、まず{大|おお}まかな{予算|よさん}を{教|おし}えてください。",
+            "vi": "Số liệu chi tiết để sau kiểm tra, trước hết cho tôi biết ngân sách sơ bộ."
+          },
+          "col": [
+            "大まかな流れ",
+            "大まかに言うと"
+          ],
+          "rel": "≒ おおざっぱ ↔ 詳しい・詳細",
+          "note": "大まか trung tính (khái quát). おおざっぱ hơi chê (cẩu thả)."
+        },
+        {
+          "id": "g12-w31",
+          "w": "正確",
+          "r": "せいかく",
+          "hv": "CHÍNH XÁC",
+          "pos": "名・な形",
+          "vi": "chính xác",
+          "key": true,
+          "ex": {
+            "ja": "{災害|さいがい}のときこそ、{正確|せいかく}な{情報|じょうほう}を{素早|すばや}く{伝|つた}えることが{大切|たいせつ}だ。",
+            "vi": "Chính lúc thảm họa mới cần truyền đi thông tin chính xác thật nhanh."
+          },
+          "col": [
+            "正確な情報",
+            "正確に伝える",
+            "正確さ"
+          ],
+          "rel": "↔ でたらめ・不正確",
+          "note": "Đồng âm 性格 (tính cách)."
+        },
+        {
+          "id": "g12-w32",
+          "w": "でたらめ",
+          "r": "でたらめ",
+          "hv": "",
+          "pos": "名・な形",
+          "vi": "bịa đặt, vô căn cứ, linh tinh, bừa bãi",
+          "key": true,
+          "ex": {
+            "ja": "その{噂|うわさ}は{全|まった}くのでたらめだったことがわかった。",
+            "vi": "Hóa ra tin đồn đó hoàn toàn bịa đặt."
+          },
+          "col": [
+            "でたらめを言う",
+            "でたらめな記事",
+            "でたらめに答える"
+          ],
+          "rel": "≒ いいかげん ↔ 正確"
+        },
+        {
+          "id": "g12-w33",
+          "w": "衝撃的",
+          "r": "しょうげきてき",
+          "hv": "XUNG KÍCH ĐÍCH",
+          "pos": "な形",
+          "vi": "gây sốc, chấn động",
+          "key": true,
+          "ex": {
+            "ja": "{人気|にんき}{歌手|かしゅ}の{突然|とつぜん}の{引退|いんたい}は、ファンにとって{衝撃的|しょうげきてき}なニュースだった。",
+            "vi": "Việc ca sĩ nổi tiếng đột ngột giải nghệ là tin gây sốc với người hâm mộ."
+          },
+          "col": [
+            "衝撃的な事件",
+            "衝撃的な映像"
+          ],
+          "rel": "≒ ショッキング"
+        },
+        {
+          "id": "g12-w34",
+          "w": "ショッキング",
+          "r": "しょっきんぐ",
+          "hv": "",
+          "pos": "な形",
+          "vi": "gây sốc",
+          "key": true,
+          "ex": {
+            "ja": "ニュースでショッキングな{映像|えいぞう}が{流|なが}れる{前|まえ}には、{注意|ちゅうい}の{言葉|ことば}がある。",
+            "vi": "Trước khi phát những hình ảnh gây sốc trên bản tin đều có lời cảnh báo."
+          },
+          "rel": "≒ 衝撃的"
+        }
+      ]
+    },
+    {
+      "title": "テレビ・ラジオ",
+      "title_vi": "Truyền hình, phát thanh",
+      "words": [
+        {
+          "id": "g12-w35",
+          "w": "番組",
+          "r": "ばんぐみ",
+          "hv": "PHIÊN TỔ",
+          "pos": "名",
+          "vi": "chương trình (TV, radio)",
+          "key": true,
+          "ex": {
+            "ja": "{子|こ}どもの{頃|ころ}、{土曜日|どようび}の{夜|よる}の{番組|ばんぐみ}を{楽|たの}しみにしていた。",
+            "vi": "Hồi nhỏ tôi rất mong chờ chương trình tối thứ Bảy."
+          },
+          "col": [
+            "番組を見る",
+            "番組表",
+            "生番組",
+            "番組に出演する"
+          ]
+        },
+        {
+          "id": "g12-w36",
+          "w": "放送",
+          "r": "ほうそう",
+          "hv": "PHÓNG TỐNG",
+          "pos": "名・他動",
+          "vi": "phát sóng; thông báo qua loa",
+          "key": true,
+          "ex": {
+            "ja": "その{試合|しあい}は{全国|ぜんこく}に{生|なま}で{放送|ほうそう}される。",
+            "vi": "Trận đấu đó sẽ được truyền hình trực tiếp toàn quốc."
+          },
+          "col": [
+            "番組を放送する",
+            "生放送",
+            "放送局",
+            "校内放送"
+          ]
+        },
+        {
+          "id": "g12-w37",
+          "w": "再放送",
+          "r": "さいほうそう",
+          "hv": "TÁI PHÓNG TỐNG",
+          "pos": "名・他動",
+          "vi": "phát lại",
+          "key": true,
+          "ex": {
+            "ja": "{見逃|みのが}したドラマが{来週|らいしゅう}{再放送|さいほうそう}されるそうだ。",
+            "vi": "Nghe nói bộ phim truyền hình tôi bỏ lỡ sẽ được phát lại tuần sau."
+          }
+        },
+        {
+          "id": "g12-w38",
+          "w": "制作",
+          "r": "せいさく",
+          "hv": "CHẾ TÁC",
+          "pos": "名・他動",
+          "vi": "sản xuất (chương trình, phim, tác phẩm nghệ thuật)",
+          "key": true,
+          "ex": {
+            "ja": "このアニメは{制作|せいさく}に{五年|ごねん}もかかったそうだ。",
+            "vi": "Nghe nói bộ phim hoạt hình này mất tới năm năm để sản xuất."
+          },
+          "col": [
+            "番組を制作する",
+            "制作費",
+            "制作会社"
+          ],
+          "note": "制作 = tác phẩm **nghệ thuật, nội dung** (番組・映画・絵). 製作／製造 = **máy móc, hàng hoá** (部品・家具). Đề hay bẫy cặp này."
+        },
+        {
+          "id": "g12-w39",
+          "w": "撮影",
+          "r": "さつえい",
+          "hv": "TOÁT ẢNH",
+          "pos": "名・他動",
+          "vi": "quay phim, chụp ảnh",
+          "key": true,
+          "ex": {
+            "ja": "{館内|かんない}での{写真|しゃしん}{撮影|さつえい}はご{遠慮|えんりょ}ください。",
+            "vi": "Xin vui lòng không chụp ảnh trong bảo tàng."
+          },
+          "col": [
+            "番組を撮影する",
+            "撮影禁止",
+            "撮影現場",
+            "ロケ撮影"
+          ]
+        },
+        {
+          "id": "g12-w40",
+          "w": "流れる",
+          "r": "ながれる",
+          "hv": "LƯU",
+          "pos": "自動",
+          "vi": "(tin, nhạc, quảng cáo...) được phát ra, lan truyền; chảy",
+          "key": true,
+          "ex": {
+            "ja": "{店内|てんない}には{静|しず}かなピアノの{曲|きょく}が{流|なが}れていた。",
+            "vi": "Trong quán đang phát một bản piano nhẹ nhàng."
+          },
+          "col": [
+            "CMが流れる",
+            "ニュースが流れる",
+            "噂が流れる"
+          ],
+          "rel": "他動: 流す"
+        },
+        {
+          "id": "g12-w41",
+          "w": "流す",
+          "r": "ながす",
+          "hv": "LƯU",
+          "pos": "他動",
+          "vi": "phát (tin, nhạc, quảng cáo); tung (tin đồn); xả (nước)",
+          "key": true,
+          "ex": {
+            "ja": "テレビ{局|きょく}は{台風|たいふう}の{情報|じょうほう}を{画面|がめん}の{下|した}に{流|なが}し{続|つづ}けた。",
+            "vi": "Đài truyền hình liên tục chạy thông tin về bão ở cuối màn hình."
+          },
+          "col": [
+            "CMを流す",
+            "情報を流す",
+            "デマを流す"
+          ],
+          "rel": "自動: 流れる"
+        },
+        {
+          "id": "g12-w42",
+          "w": "宣伝",
+          "r": "せんでん",
+          "hv": "TUYÊN TRUYỀN",
+          "pos": "名・他動",
+          "vi": "quảng cáo, quảng bá, PR (cho sản phẩm, sự kiện)",
+          "key": true,
+          "ex": {
+            "ja": "{新|あたら}しい{店|みせ}をSNSで{宣伝|せんでん}したら、{初日|しょにち}から{客|きゃく}がたくさん{来|き}た。",
+            "vi": "Quảng bá cửa hàng mới trên mạng xã hội thì ngay ngày đầu đã có nhiều khách."
+          },
+          "col": [
+            "商品を宣伝する",
+            "宣伝効果",
+            "宣伝費",
+            "宣伝カー"
+          ],
+          "rel": "≒ 広告・PR",
+          "note": "**Bạn giả**: chủ yếu là quảng cáo thương mại. 宣伝 = **hành động** quảng bá; 広告 = **sản phẩm** quảng cáo (tờ rơi, banner, mẩu quảng cáo trên báo)."
+        },
+        {
+          "id": "g12-w43",
+          "w": "コマーシャル",
+          "r": "こまーしゃる",
+          "hv": "",
+          "pos": "名",
+          "vi": "quảng cáo trên TV/radio (CM)",
+          "key": true,
+          "ex": {
+            "ja": "ドラマのいいところでコマーシャルが{入|はい}って、がっかりした。",
+            "vi": "Đang đến đoạn hay của phim thì chen quảng cáo vào, thật thất vọng."
+          },
+          "col": [
+            "CM",
+            "コマーシャルが流れる",
+            "コマーシャルに出る"
+          ]
+        },
+        {
+          "id": "g12-w44",
+          "w": "広告",
+          "r": "こうこく",
+          "hv": "QUẢNG CÁO",
+          "pos": "名・他動",
+          "vi": "quảng cáo (mẩu, tờ, bảng quảng cáo)",
+          "key": false,
+          "ex": {
+            "ja": "{電車|でんしゃ}の{中|なか}の{広告|こうこく}を{見|み}て、{英会話|えいかいわ}{教室|きょうしつ}に{申|もう}し{込|こ}んだ。",
+            "vi": "Thấy quảng cáo trên tàu, tôi đã đăng ký lớp hội thoại tiếng Anh."
+          },
+          "col": [
+            "新聞広告",
+            "広告を出す",
+            "広告代理店"
+          ]
+        },
+        {
+          "id": "g12-w45",
+          "w": "映像",
+          "r": "えいぞう",
+          "hv": "ÁNH TƯỢNG",
+          "pos": "名",
+          "vi": "hình ảnh (động), video, thước phim",
+          "key": true,
+          "ex": {
+            "ja": "{防犯|ぼうはん}カメラの{映像|えいぞう}から、{犯人|はんにん}の{顔|かお}がわかった。",
+            "vi": "Từ hình ảnh camera an ninh đã nhận ra mặt thủ phạm."
+          },
+          "col": [
+            "映像が流れる",
+            "映像を撮る",
+            "映像作品"
+          ],
+          "rel": "↔ 音声"
+        },
+        {
+          "id": "g12-w46",
+          "w": "音声",
+          "r": "おんせい",
+          "hv": "ÂM THANH",
+          "pos": "名",
+          "vi": "âm thanh, tiếng (của TV, giọng nói thu lại)",
+          "key": true,
+          "ex": {
+            "ja": "{音声|おんせい}が{小|ちい}さくて、{出演者|しゅつえんしゃ}の{話|はなし}がよく{聞|き}こえない。",
+            "vi": "Âm thanh nhỏ quá nên không nghe rõ người trên sóng nói gì."
+          },
+          "col": [
+            "音声ガイド",
+            "音声入力",
+            "音声が途切れる"
+          ],
+          "rel": "↔ 映像",
+          "note": "音声 chỉ âm thanh **phát qua thiết bị, giọng nói**. Tiếng động nói chung → 音."
+        },
+        {
+          "id": "g12-w47",
+          "w": "宣伝費",
+          "r": "せんでんひ",
+          "hv": "TUYÊN TRUYỀN PHÍ",
+          "pos": "名",
+          "vi": "chi phí quảng cáo",
+          "key": true,
+          "ex": {
+            "ja": "{有名|ゆうめい}な{俳優|はいゆう}を{使|つか}うと、{宣伝費|せんでんひ}が{高|たか}く{掛|か}かる。",
+            "vi": "Dùng diễn viên nổi tiếng thì chi phí quảng cáo tốn kém."
+          },
+          "col": [
+            "宣伝費が掛かる",
+            "宣伝費を削る"
+          ],
+          "note": "Chi phí thường đi với 「が掛かる」 (tốn): 宣伝費が掛かる; tha động từ: 宣伝にお金を掛ける."
+        },
+        {
+          "id": "g12-w48",
+          "w": "広告費",
+          "r": "こうこくひ",
+          "hv": "QUẢNG CÁO PHÍ",
+          "pos": "名",
+          "vi": "chi phí quảng cáo (tiền mua chỗ đăng quảng cáo)",
+          "key": true,
+          "ex": {
+            "ja": "{最近|さいきん}は、テレビよりネットにかける{広告費|こうこくひ}のほうが{多|おお}い。",
+            "vi": "Gần đây chi phí quảng cáo dành cho mạng nhiều hơn cho TV."
+          }
+        },
+        {
+          "id": "g12-w49",
+          "w": "有名人",
+          "r": "ゆうめいじん",
+          "hv": "HỮU DANH NHÂN",
+          "pos": "名",
+          "vi": "người nổi tiếng",
+          "key": true,
+          "ex": {
+            "ja": "このレストランには、よく{有名人|ゆうめいじん}が{来|く}るらしい。",
+            "vi": "Nghe nói nhà hàng này hay có người nổi tiếng ghé."
+          },
+          "rel": "≒ 著名人",
+          "note": "〜人 đọc 「じん」 ở đây (有名人・著名人・芸能人・社会人)."
+        },
+        {
+          "id": "g12-w50",
+          "w": "インタビュー",
+          "r": "いんたびゅー",
+          "hv": "",
+          "pos": "名・自他動",
+          "vi": "phỏng vấn (báo chí)",
+          "key": true,
+          "ex": {
+            "ja": "{試合|しあい}{後|ご}のインタビューで、{監督|かんとく}は{選手|せんしゅ}たちに{感謝|かんしゃ}した。",
+            "vi": "Trong buổi phỏng vấn sau trận, huấn luyện viên đã cảm ơn các cầu thủ."
+          },
+          "col": [
+            "インタビューを受ける",
+            "インタビューに答える"
+          ],
+          "note": "Phỏng vấn xin việc / tuyển sinh → 面接, không dùng インタビュー."
+        },
+        {
+          "id": "g12-w51",
+          "w": "旅番組",
+          "r": "たびばんぐみ",
+          "hv": "LỮ PHIÊN TỔ",
+          "pos": "名",
+          "vi": "chương trình du lịch",
+          "key": true,
+          "ex": {
+            "ja": "{旅番組|たびばんぐみ}で{紹介|しょうかい}された{温泉|おんせん}に、{今年|ことし}の{夏|なつ}{行|い}ってみたい。",
+            "vi": "Mùa hè này tôi muốn đến khu suối nước nóng được giới thiệu trong chương trình du lịch."
+          }
+        },
+        {
+          "id": "g12-w52",
+          "w": "娯楽番組",
+          "r": "ごらくばんぐみ",
+          "hv": "NGU LẠC PHIÊN TỔ",
+          "pos": "名",
+          "vi": "chương trình giải trí",
+          "key": true,
+          "ex": {
+            "ja": "{仕事|しごと}で{疲|つか}れた{日|ひ}は、{何|なに}も{考|かんが}えずに{娯楽番組|ごらくばんぐみ}を{見|み}る。",
+            "vi": "Những hôm mệt vì công việc, tôi xem chương trình giải trí mà không nghĩ gì."
+          },
+          "note": "娯楽 (ごらく) = giải trí, tiêu khiển: 娯楽施設, 娯楽映画."
+        },
+        {
+          "id": "g12-w53",
+          "w": "クイズ番組",
+          "r": "くいずばんぐみ",
+          "hv": "",
+          "pos": "名",
+          "vi": "chương trình đố vui, gameshow hỏi đáp",
+          "key": true,
+          "ex": {
+            "ja": "{家族|かぞく}みんなでクイズ{番組|ばんぐみ}を{見|み}ながら、{答|こた}えを{競|きそ}い{合|あ}った。",
+            "vi": "Cả nhà vừa xem chương trình đố vui vừa thi nhau trả lời."
+          }
+        },
+        {
+          "id": "g12-w54",
+          "w": "ドラマ",
+          "r": "どらま",
+          "hv": "",
+          "pos": "名",
+          "vi": "phim truyền hình, phim bộ",
+          "key": true,
+          "ex": {
+            "ja": "{人気|にんき}{漫画|まんが}がドラマ{化|か}されて、{来月|らいげつ}から{放送|ほうそう}が{始|はじ}まる。",
+            "vi": "Bộ truyện tranh nổi tiếng được chuyển thể thành phim truyền hình, sẽ bắt đầu phát sóng từ tháng sau."
+          },
+          "col": [
+            "連続ドラマ",
+            "ドラマ化",
+            "ドラマに出演する"
+          ]
+        },
+        {
+          "id": "g12-w55",
+          "w": "人気",
+          "r": "にんき",
+          "hv": "NHÂN KHÍ",
+          "pos": "名",
+          "vi": "được yêu thích, sự hâm mộ",
+          "key": true,
+          "ex": {
+            "ja": "この{番組|ばんぐみ}は{若者|わかもの}に{人気|にんき}があり、{十年|じゅうねん}も{続|つづ}いている。",
+            "vi": "Chương trình này được giới trẻ yêu thích và đã kéo dài suốt mười năm."
+          },
+          "col": [
+            "人気がある",
+            "人気番組",
+            "人気者",
+            "人気が出る"
+          ],
+          "note": "人気 (にんき) = được ưa chuộng; 人気 (ひとけ) = có bóng người (人気のない道)."
+        },
+        {
+          "id": "g12-w56",
+          "w": "くだらない",
+          "r": "くだらない",
+          "hv": "",
+          "pos": "い形",
+          "vi": "vớ vẩn, nhảm nhí, vô bổ",
+          "key": true,
+          "ex": {
+            "ja": "くだらないことで{言|い}い{争|あらそ}うのは、もうやめよう。",
+            "vi": "Thôi đừng cãi nhau vì những chuyện vớ vẩn nữa."
+          },
+          "col": [
+            "くだらない番組",
+            "くだらない冗談"
+          ],
+          "rel": "≒ ばかばかしい・つまらない",
+          "note": "Kanji 下らない (ít dùng). Nhấn vào **không có giá trị**, hơi khinh."
+        },
+        {
+          "id": "g12-w57",
+          "w": "評判",
+          "r": "ひょうばん",
+          "hv": "BÌNH PHÁN",
+          "pos": "名",
+          "vi": "tiếng tăm, lời đồn đánh giá, danh tiếng (cái người ta nói về mình)",
+          "key": true,
+          "ex": {
+            "ja": "あの{歯医者|はいしゃ}は、{痛|いた}くないと{評判|ひょうばん}だ。",
+            "vi": "Nha sĩ đó nổi tiếng là chữa không đau."
+          },
+          "col": [
+            "評判がいい／悪い",
+            "〜と評判だ",
+            "評判になる"
+          ],
+          "note": "評判 = **lời bàn tán của mọi người**. 評価 = sự **đánh giá** (có thể từ một người, có tiêu chí)."
+        }
+      ]
+    },
+    {
+      "title": "語形成",
+      "title_vi": "Tạo từ: tiền tố, hậu tố",
+      "words": [
+        {
+          "id": "g12-w58",
+          "w": "不〜",
+          "r": "ふ〜",
+          "hv": "BẤT",
+          "pos": "接頭",
+          "vi": "không …, bất … (phủ định tính chất)",
+          "key": true,
+          "ex": {
+            "ja": "{夜|よる}{遅|おそ}くまで{起|お}きている{不規則|ふきそく}な{生活|せいかつ}を{見直|みなお}したい。",
+            "vi": "Tôi muốn xem lại lối sống thất thường thức khuya của mình."
+          },
+          "col": [
+            "不適切",
+            "不適当",
+            "不可能",
+            "不正確",
+            "不規則",
+            "不便"
+          ]
+        },
+        {
+          "id": "g12-w59",
+          "w": "不適当",
+          "r": "ふてきとう",
+          "hv": "BẤT THÍCH ĐƯƠNG",
+          "pos": "な形",
+          "vi": "không thích đáng, không phù hợp",
+          "key": true,
+          "ex": {
+            "ja": "この{部屋|へや}は{狭|せま}すぎて、{会議|かいぎ}には{不適当|ふてきとう}だ。",
+            "vi": "Căn phòng này quá chật, không phù hợp để họp."
+          }
+        },
+        {
+          "id": "g12-w60",
+          "w": "不可能",
+          "r": "ふかのう",
+          "hv": "BẤT KHẢ NĂNG",
+          "pos": "名・な形",
+          "vi": "không thể, bất khả thi",
+          "key": true,
+          "ex": {
+            "ja": "{一日|いちにち}でこの{仕事|しごと}を{全部|ぜんぶ}{終|お}わらせるのは{不可能|ふかのう}だ。",
+            "vi": "Hoàn thành toàn bộ công việc này trong một ngày là điều không thể."
+          },
+          "rel": "↔ 可能"
+        },
+        {
+          "id": "g12-w61",
+          "w": "〜深い",
+          "r": "〜ぶかい",
+          "hv": "THÂM",
+          "pos": "接尾",
+          "vi": "rất …, đầy … (mức độ sâu sắc)",
+          "key": true,
+          "ex": {
+            "ja": "{彼|かれ}は{用心深|ようじんぶか}い{性格|せいかく}で、{家|いえ}を{出|で}る{前|まえ}に{何度|なんど}も{鍵|かぎ}を{確|たし}かめる。",
+            "vi": "Anh ấy tính rất cẩn thận, trước khi ra khỏi nhà kiểm tra khóa nhiều lần."
+          },
+          "col": [
+            "興味深い",
+            "意義深い",
+            "用心深い",
+            "思慮深い",
+            "欲深い"
+          ],
+          "note": "Đọc 「ぶかい」 (biến âm). N + 深い."
+        },
+        {
+          "id": "g12-w62",
+          "w": "意義深い",
+          "r": "いぎぶかい",
+          "hv": "Ý NGHĨA THÂM",
+          "pos": "い形",
+          "vi": "đầy ý nghĩa",
+          "key": true,
+          "ex": {
+            "ja": "{被災地|ひさいち}でのボランティアは、{私|わたし}にとって{意義深|いぎぶか}い{経験|けいけん}になった。",
+            "vi": "Làm tình nguyện ở vùng thiên tai đã trở thành trải nghiệm đầy ý nghĩa với tôi."
+          }
+        },
+        {
+          "id": "g12-w63",
+          "w": "〜的",
+          "r": "〜てき",
+          "hv": "ĐÍCH",
+          "pos": "接尾",
+          "vi": "mang tính …, có tính chất … (biến danh từ thành な形)",
+          "key": true,
+          "ex": {
+            "ja": "{具体的|ぐたいてき}な{例|れい}を{挙|あ}げて{説明|せつめい}してください。",
+            "vi": "Hãy giải thích bằng ví dụ cụ thể."
+          },
+          "col": [
+            "衝撃的",
+            "魅力的",
+            "本格的",
+            "具体的",
+            "一般的"
+          ]
+        },
+        {
+          "id": "g12-w64",
+          "w": "魅力的",
+          "r": "みりょくてき",
+          "hv": "MỊ LỰC ĐÍCH",
+          "pos": "な形",
+          "vi": "hấp dẫn, quyến rũ",
+          "key": true,
+          "ex": {
+            "ja": "{給料|きゅうりょう}も{休|やす}みも{多|おお}いなんて、{魅力的|みりょくてき}な{求人|きゅうじん}だ。",
+            "vi": "Vừa lương cao vừa nhiều ngày nghỉ, đúng là một tin tuyển dụng hấp dẫn."
+          }
+        },
+        {
+          "id": "g12-w65",
+          "w": "本格的",
+          "r": "ほんかくてき",
+          "hv": "BẢN CÁCH ĐÍCH",
+          "pos": "な形",
+          "vi": "chính thức, thực thụ, đúng kiểu (chuẩn mực); thực sự bắt đầu",
+          "key": true,
+          "ex": {
+            "ja": "{梅雨|つゆ}が{明|あ}けて、{本格的|ほんかくてき}な{夏|なつ}がやってきた。",
+            "vi": "Hết mùa mưa, mùa hè thực sự đã đến."
+          },
+          "col": [
+            "本格的な料理",
+            "本格的に始める",
+            "本格化"
+          ]
+        },
+        {
+          "id": "g12-w66",
+          "w": "〜番組",
+          "r": "〜ばんぐみ",
+          "hv": "PHIÊN TỔ",
+          "pos": "接尾",
+          "vi": "chương trình …",
+          "key": true,
+          "ex": {
+            "ja": "{料理|りょうり}{番組|ばんぐみ}を{見|み}ながらメモを{取|と}る。",
+            "vi": "Tôi vừa xem chương trình nấu ăn vừa ghi chép."
+          },
+          "col": [
+            "クイズ番組",
+            "深夜番組",
+            "スポーツ番組",
+            "報道番組",
+            "料理番組"
+          ]
+        },
+        {
+          "id": "g12-w67",
+          "w": "深夜番組",
+          "r": "しんやばんぐみ",
+          "hv": "THÂM DẠ PHIÊN TỔ",
+          "pos": "名",
+          "vi": "chương trình đêm khuya",
+          "key": true,
+          "ex": {
+            "ja": "{深夜番組|しんやばんぐみ}を{見|み}ていたら、{気|き}づくと{朝|あさ}の{三時|さんじ}だった。",
+            "vi": "Mải xem chương trình đêm khuya, nhận ra thì đã ba giờ sáng."
+          }
+        },
+        {
+          "id": "g12-w68",
+          "w": "スポーツ番組",
+          "r": "すぽーつばんぐみ",
+          "hv": "",
+          "pos": "名",
+          "vi": "chương trình thể thao",
+          "key": false,
+          "ex": {
+            "ja": "{父|ちち}は{夕食|ゆうしょく}の{後|あと}、いつもスポーツ{番組|ばんぐみ}を{見|み}ている。",
+            "vi": "Sau bữa tối, bố tôi lúc nào cũng xem chương trình thể thao."
+          }
+        },
+        {
+          "id": "g12-w69",
+          "w": "〜費",
+          "r": "〜ひ",
+          "hv": "PHÍ",
+          "pos": "接尾",
+          "vi": "chi phí …, tiền …",
+          "key": true,
+          "ex": {
+            "ja": "{物価|ぶっか}が{上|あ}がって、{毎月|まいつき}の{生活費|せいかつひ}が{苦|くる}しくなった。",
+            "vi": "Vật giá tăng nên chi phí sinh hoạt hằng tháng trở nên chật vật."
+          },
+          "col": [
+            "宣伝費",
+            "制作費",
+            "生活費",
+            "交通費",
+            "食費"
+          ],
+          "note": "So với 〜料 (phí dịch vụ: 入場料・手数料) và 〜代 (tiền trả cho món cụ thể: 電気代・バス代)."
+        },
+        {
+          "id": "g12-w70",
+          "w": "制作費",
+          "r": "せいさくひ",
+          "hv": "CHẾ TÁC PHÍ",
+          "pos": "名",
+          "vi": "chi phí sản xuất (phim, chương trình)",
+          "key": true,
+          "ex": {
+            "ja": "この{映画|えいが}は{制作費|せいさくひ}が{少|すく}なかったが、{大|おお}ヒットした。",
+            "vi": "Bộ phim này kinh phí sản xuất ít nhưng lại thành công vang dội."
+          }
+        },
+        {
+          "id": "g12-w71",
+          "w": "〜人",
+          "r": "〜じん",
+          "hv": "NHÂN",
+          "pos": "接尾",
+          "vi": "người … (thuộc nhóm, có tính chất …)",
+          "key": true,
+          "ex": {
+            "ja": "{大学|だいがく}を{卒業|そつぎょう}して、{来月|らいげつ}からいよいよ{社会人|しゃかいじん}だ。",
+            "vi": "Tốt nghiệp đại học, từ tháng sau tôi chính thức là người đi làm."
+          },
+          "col": [
+            "有名人",
+            "著名人",
+            "芸能人",
+            "社会人",
+            "日本人"
+          ],
+          "note": "Cùng chữ 人 nhưng 〜にん: 病人・犯人・料理人・管理人. Phải học thuộc từng từ."
+        },
+        {
+          "id": "g12-w72",
+          "w": "著名人",
+          "r": "ちょめいじん",
+          "hv": "TRỨ DANH NHÂN",
+          "pos": "名",
+          "vi": "người nổi danh, nhân vật có tiếng (văn viết)",
+          "key": true,
+          "ex": {
+            "ja": "{講演会|こうえんかい}には、{各界|かっかい}の{著名人|ちょめいじん}が{招|まね}かれた。",
+            "vi": "Các nhân vật có tiếng thuộc nhiều lĩnh vực được mời đến buổi diễn thuyết."
+          },
+          "rel": "≒ 有名人"
+        }
+      ]
+    },
+    {
+      "title": "副詞",
+      "title_vi": "Phó từ (trong 例文)",
+      "words": [
+        {
+          "id": "g12-w73",
+          "w": "近々",
+          "r": "ちかぢか",
+          "hv": "CẬN",
+          "pos": "副",
+          "vi": "sắp tới, trong thời gian gần đây (tương lai gần)",
+          "key": true,
+          "ex": {
+            "ja": "{近々|ちかぢか}、{新|あたら}しい{社長|しゃちょう}が{発表|はっぴょう}されるらしい。",
+            "vi": "Nghe nói sắp tới sẽ công bố giám đốc mới."
+          },
+          "rel": "≒ 近いうちに・もうすぐ",
+          "note": "Chỉ dùng cho **tương lai**. ✗近々雨が降った. Đọc ちかぢか (cũng có きんきん trong văn trang trọng)."
+        },
+        {
+          "id": "g12-w74",
+          "w": "案外",
+          "r": "あんがい",
+          "hv": "ÁN NGOẠI",
+          "pos": "副・な形",
+          "vi": "không ngờ là, hóa ra (khác với dự đoán)",
+          "key": true,
+          "ex": {
+            "ja": "{怖|こわ}そうな{先生|せんせい}だと{思|おも}っていたが、{話|はな}してみると{案外|あんがい}{優|やさ}しかった。",
+            "vi": "Tưởng thầy đáng sợ, nhưng nói chuyện rồi mới thấy hóa ra thầy hiền."
+          },
+          "rel": "≒ 意外に・思ったより",
+          "note": "Nghĩa đen: ngoài (外) dự tính (案)."
+        },
+        {
+          "id": "g12-w75",
+          "w": "自ら",
+          "r": "みずから",
+          "hv": "TỰ",
+          "pos": "副・名",
+          "vi": "tự mình, chính mình (người có vị trí cao tự tay làm)",
+          "key": true,
+          "ex": {
+            "ja": "{社長|しゃちょう}{自|みずか}らが{店頭|てんとう}に{立|た}ち、{新商品|しんしょうひん}を{紹介|しょうかい}した。",
+            "vi": "Đích thân giám đốc ra đứng quầy giới thiệu sản phẩm mới."
+          },
+          "rel": "≒ 自分で・自身",
+          "note": "Văn viết, trang trọng hơn 自分で. Nhấn mạnh **không nhờ người khác**."
+        },
+        {
+          "id": "g12-w76",
+          "w": "そのまま",
+          "r": "そのまま",
+          "hv": "",
+          "pos": "副・名",
+          "vi": "cứ như thế, giữ nguyên; y nguyên, ngay sau đó",
+          "key": true,
+          "ex": {
+            "ja": "{書類|しょるい}は{確認|かくにん}が{終|お}わるまで、そのまま{机|つくえ}の{上|うえ}に{置|お}いておいてください。",
+            "vi": "Cho đến khi kiểm tra xong, hãy để giấy tờ nguyên trên bàn."
+          },
+          "col": [
+            "そのままにする",
+            "そのまま使う",
+            "そのまま寝る"
+          ],
+          "note": "Hai nghĩa: (1) giữ nguyên trạng thái; (2) không làm gì thêm mà làm tiếp luôn (帰ってそのまま寝た)."
+        },
+        {
+          "id": "g12-w77",
+          "w": "じっくり",
+          "r": "じっくり",
+          "hv": "",
+          "pos": "副",
+          "vi": "kỹ lưỡng, từ tốn, thong thả (dành nhiều thời gian)",
+          "key": true,
+          "ex": {
+            "ja": "{大切|たいせつ}なことなので、{一晩|ひとばん}じっくり{考|かんが}えてから{答|こた}えます。",
+            "vi": "Đây là việc quan trọng nên tôi sẽ suy nghĩ kỹ một đêm rồi trả lời."
+          },
+          "col": [
+            "じっくり考える",
+            "じっくり煮込む",
+            "じっくり話し合う"
+          ],
+          "rel": "≒ ゆっくり・時間をかけて",
+          "note": "Khác じっと (đứng yên, không động đậy)."
+        }
+      ]
+    }
+  ],
+  "focus": [
+    {
+      "title": "Dây chuyền làm tin: 取材 → 入手 → 記事 → 載る／報道 → 注目",
+      "body": "- **記者／ジャーナリスト** đi **取材する** (lấy tin, phỏng vấn) → **情報を入手する** (có được thông tin, thường là khó lấy).\n- Viết thành **記事** → **新聞に載る** (được đăng). Tờ báo thì **発行する** (phát hành): 朝刊・夕刊.\n- **報道する** = đưa tin (nội dung tin, mọi phương tiện). **放送する** = phát sóng (chỉ TV/radio, cả phim, ca nhạc).\n- Kết quả: **話題になる／話題に上る**, **世間の注目を浴びる／集める**.\n- Người ta đọc **見出し** (tít) ở **一面** (trang nhất), rồi tới các **〜欄** (総合欄・政治欄・国際欄).\n\nCâu nhớ: 「{記者|きしゃ}が{取材|しゅざい}して{入手|にゅうしゅ}した{情報|じょうほう}が{記事|きじ}として{一面|いちめん}に{載|の}り、{世間|せけん}の{注目|ちゅうもく}を{浴|あ}びた」."
+    },
+    {
+      "title": "宣伝・広告・コマーシャル + chi phí 〜費 が掛かる",
+      "body": "- **宣伝**: hành động **quảng bá** (cả quảng cáo lẫn truyền miệng, PR): 「{新商品|しんしょうひん}を{宣伝|せんでん}する」. Bạn giả: trong đời thường gần như luôn là quảng cáo thương mại, không phải \"tuyên truyền\" chính trị.\n- **広告**: **mẩu quảng cáo** cụ thể (trên báo, tàu, web): 「{広告|こうこく}を{出|だ}す」.\n- **コマーシャル (CM)**: quảng cáo **trên TV/radio**: 「CMが{流|なが}れる／を{流|なが}す」.\n- Chi phí: **宣伝費・広告費・制作費** 「が**掛かる**」 (tốn). 〜費 dùng cho khoản chi lớn, mang tính kế toán; nhỏ lẻ thì 〜代 (バス代) hay 〜料 (入場料).\n\nLưu ý cách dùng sai hay gặp: ✗「{世間|せけん}の{宣伝|せんでん}を{集|あつ}める」 → ○ 注目を集める; ✗「事件の宣伝」 → ○ 事件の報道."
+    },
+    {
+      "title": "Tính từ đánh giá nội dung: 詳しい／詳細 ↔ 大まか, 正確 ↔ でたらめ, 適切 ↔ 不適切",
+      "body": "- **詳しい** (い形): chi tiết; còn dùng cho người: 「{歴史|れきし}に{詳|くわ}しい」 (rành lịch sử).\n- **詳細** (名・な形): chi tiết — văn viết, chỉ dùng cho **thông tin**: 「{詳細|しょうさい}は{後日|ごじつ}お{知|し}らせします」.\n- **大まか** (な形): sơ lược, khái quát — 「{大|おお}まかな{流|なが}れ」. ↔ 詳しい／詳細.\n- **正確** ↔ **でたらめ** (bịa đặt, vô căn cứ — 「でたらめを{言|い}う」).\n- **適切** ↔ **不適切**: phù hợp với hoàn cảnh — 「{不適切|ふてきせつ}な{発言|はつげん}」.\n- **興味深い**: thú vị về mặt trí tuệ, đáng suy ngẫm (≠ buồn cười). **衝撃的／ショッキング**: gây sốc.\n\nMẹo: đề 文脈規定 hay đặt hai vế đối lập — 「{細|こま}かいことは{後|あと}で、まず（大まか）な…」, 「{噂|うわさ}ではなく（正確）な{情報|じょうほう}を」."
+    },
+    {
+      "title": "Cặp tự/tha động từ trong truyền thông: 載る／載せる・流れる／流す",
+      "body": "- [bài, ảnh] **が** 新聞に **載る** ↔ [tòa báo] が 記事 **を** **載せる**.\n- [CM, tin, nhạc] **が** **流れる** ↔ [đài] が CM **を** **流す**. Cũng dùng cho tin đồn: 噂が流れる／デマを流す.\n- 番組 **を** 放送する・制作する・撮影する (tha động từ, chủ thể là đài/nhà sản xuất). Bị động: 番組が放送される.\n- 費用 **が** 掛かる (tự) ↔ 費用 **を** 掛ける (tha): 「{広告|こうこく}にお{金|かね}を{掛|か}ける」.\n- 話題 **に** 上る (được nhắc tới); 注目 **を** 浴びる (được chú ý).\n\nChú ý chữ Hán: 載る (đăng) ≠ 乗る (lên xe); 上る (のぼる) trong 話題に上る ≠ 登る (leo núi)."
+    },
+    {
+      "title": "語形成: 不〜・〜深い・〜的・〜番組・〜費・〜人",
+      "body": "- **不〜** (ふ): phủ định tính chất — 不適切, 不適当, 不可能, 不正確, 不便. So sánh với tiền tố khác: **非〜** (非常識, 非公式), **無〜** (無責任, 無関係), **未〜** (未完成, 未成年). Đề hay hỏi: 適切 → **不**適切 (không phải 非適切).\n- **〜深い** (ぶかい): 興味深い, 意義深い, 用心深い.\n- **〜的** (てき): 衝撃的, 魅力的, 本格的 → dùng như な形 (衝撃的な事件, 本格的に始める).\n- **〜番組**: クイズ番組, 深夜番組, 旅番組, 娯楽番組.\n- **〜費** (ひ): 宣伝費, 制作費, 広告費, 生活費.\n- **〜人**: **じん** trong 有名人, 著名人, 芸能人, 社会人; nhưng **にん** trong 病人, 犯人, 管理人. Phải học từng từ."
+    },
+    {
+      "title": "Năm phó từ: 近々・案外・自ら・そのまま・じっくり",
+      "body": "- **近々** (ちかぢか): **sắp tới** — chỉ tương lai: 「{近々|ちかぢか}{引|ひ}っ{越|こ}す{予定|よてい}だ」.\n- **案外**: **không ngờ là** (kết quả khác dự đoán) ≒ 意外に・思ったより: 「{案外|あんがい}{簡単|かんたん}だった」.\n- **自ら** (みずから): **tự mình, đích thân** — văn viết, hay dùng với người có địa vị: 「{社長|しゃちょう}{自|みずか}ら」.\n- **そのまま**: **giữ nguyên / cứ thế làm luôn** — 「{情報|じょうほう}をそのまま{書|か}き{写|うつ}す」 (chép y nguyên), 「{帰|かえ}ってそのまま{寝|ね}た」.\n- **じっくり**: **kỹ lưỡng, từ tốn** — 「じっくり{考|かんが}える」, 「{時間|じかん}をかけてじっくり{撮影|さつえい}する」. Khác じっと (bất động)."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "g12-q1",
+      "kind": "read",
+      "ref": "g12-w10",
+      "q": "{雑誌|ざっし}の{記者|きしゃ}が、{町|まち}の{古|ふる}い{商店街|しょうてんがい}を[[u:取材]]しに{来|き}た。",
+      "options": [
+        "しゅさい",
+        "しゅざい",
+        "とりざい",
+        "しゅうざい"
+      ],
+      "answer": 1,
+      "vi": "Phóng viên tạp chí đã đến lấy tin về khu phố mua sắm cổ của thị trấn.",
+      "why": "取材 = **しゅざい** (取 しゅ, 材 ざい — có âm đục). 「しゅさい」 là 主催 (tổ chức); 「とりざい」 trộn kun-on; 「しゅうざい」 thừa trường âm."
+    },
+    {
+      "id": "g12-q2",
+      "kind": "write",
+      "ref": "g12-w1",
+      "q": "{大統領|だいとうりょう}の{来日|らいにち}は、{各国|かっこく}のメディアで{大|おお}きく[[u:ほうどう]]された。",
+      "options": [
+        "放道",
+        "報導",
+        "報道",
+        "法道"
+      ],
+      "answer": 2,
+      "vi": "Chuyến thăm Nhật của tổng thống được truyền thông các nước đưa tin rầm rộ.",
+      "why": "Đưa tin = **報道** (報 = báo, 道 = nói ra). 「放」 là chữ của 放送 — bẫy hay gặp; 「報導」「法道」 không phải từ."
+    },
+    {
+      "id": "g12-q3",
+      "kind": "context",
+      "ref": "g12-w5",
+      "q": "{先週|せんしゅう}の{町内|ちょうない}マラソン{大会|たいかい}の{記事|きじ}が、{今朝|けさ}の{新聞|しんぶん}に（　　）いた。",
+      "options": [
+        "流れて",
+        "掛かって",
+        "上って",
+        "載って"
+      ],
+      "answer": 3,
+      "vi": "Bài viết về giải marathon của khu phố tuần trước đã được đăng trên báo sáng nay.",
+      "why": "Bài viết được đăng trên báo → 「新聞に**載る**」. 「流れる」 dùng cho tin/CM phát trên TV, radio; 「掛かる」 = tốn (chi phí); 「上る」 đi với 話題に (話題に上る), không đi với 新聞に."
+    },
+    {
+      "id": "g12-q4",
+      "kind": "context",
+      "ref": "g12-w30",
+      "q": "{細|こま}かい{点|てん}はあとで{資料|しりょう}を{配|くば}るので、まず{計画|けいかく}の（　　）な{流|なが}れだけ{説明|せつめい}します。",
+      "options": [
+        "大まか",
+        "詳細",
+        "衝撃的",
+        "不適切"
+      ],
+      "answer": 0,
+      "vi": "Các điểm nhỏ lát nữa sẽ phát tài liệu, nên trước tiên tôi chỉ giải thích sơ lược tiến trình kế hoạch.",
+      "why": "Đối lập với 細かい点はあとで → nói **khái quát** trước → **大まか**. 「詳細」 trái nghĩa với ngữ cảnh; 「衝撃的」「不適切」 không hợp với 流れを説明する."
+    },
+    {
+      "id": "g12-q5",
+      "kind": "paraphrase",
+      "ref": "g12-w74",
+      "q": "{難|むずか}しいと{聞|き}いていた{試験|しけん}だったが、{受|う}けてみたら[[u:案外]]{簡単|かんたん}だった。",
+      "options": [
+        "やはり",
+        "思ったより",
+        "予想どおり",
+        "ずいぶん"
+      ],
+      "answer": 1,
+      "vi": "Nghe nói bài thi khó, nhưng thi thử rồi mới thấy hóa ra dễ.",
+      "why": "案外 = khác với dự đoán → ≒ **思ったより**. 「やはり」「予想どおり」 = đúng như dự đoán (trái nghĩa); 「ずいぶん」 chỉ mức độ (khá là), mất ý \"ngoài dự đoán\"."
+    },
+    {
+      "id": "g12-q6",
+      "kind": "usage",
+      "ref": "g12-w57",
+      "q": "{評判|ひょうばん}",
+      "options": [
+        "先生に作文の評判をしてもらい、間違いを直した。",
+        "駅前に新しくできたパン屋は、おいしいと評判だ。",
+        "審査員がこの映画に百点満点中八十点の評判を付けた。",
+        "彼は来年の市長選挙に評判するつもりだ。"
+      ],
+      "answer": 1,
+      "vi": "(2) Tiệm bánh mì mới mở trước ga nổi tiếng là ngon.",
+      "why": "(2) 〜と評判だ = được mọi người khen/đồn là … → đúng. (1) sửa bài → 添削／チェック. (3) cho điểm → 点数／評価を付けた. (4) ứng cử → 立候補する."
+    },
+    {
+      "id": "g12-q7",
+      "kind": "context",
+      "ref": "g12-w77",
+      "q": "{転職|てんしょく}は{人生|じんせい}の{大|おお}きな{決断|けつだん}だから、{家族|かぞく}とも（　　）{話|はな}し{合|あ}ってから{決|き}めたい。",
+      "options": [
+        "じっくり",
+        "そのまま",
+        "近々",
+        "自ら"
+      ],
+      "answer": 0,
+      "vi": "Chuyển việc là quyết định lớn của đời nên tôi muốn bàn kỹ với gia đình rồi mới quyết.",
+      "why": "Bàn bạc kỹ lưỡng, dành thời gian → **じっくり**. 「そのまま話し合う」 không có nghĩa \"kỹ\"; 「近々」 = sắp tới (thời điểm), không bổ nghĩa cách bàn; 「自ら」 = tự mình — mâu thuẫn với 家族とも."
+    },
+    {
+      "id": "g12-q8",
+      "kind": "formation",
+      "ref": "g12-w58",
+      "q": "{子|こ}ども{向|む}けの{番組|ばんぐみ}で、この{言葉|ことば}を{使|つか}うのは（　　）{適切|てきせつ}だ。",
+      "options": [
+        "無",
+        "非",
+        "未",
+        "不"
+      ],
+      "answer": 3,
+      "vi": "Dùng từ này trong chương trình dành cho trẻ em là không thích hợp.",
+      "why": "Phủ định của 適切 là **不適切**. 「無〜」 (無関係), 「非〜」 (非常識), 「未〜」 (未完成) đều là tiền tố phủ định nhưng không kết hợp với 適切."
+    },
+    {
+      "id": "g12-q9",
+      "kind": "context",
+      "ref": "g12-w39",
+      "q": "この{映画|えいが}は、{北海道|ほっかいどう}の{雪|ゆき}の{中|なか}で{三か月|さんかげつ}かけて（　　）された。",
+      "options": [
+        "発行",
+        "放送",
+        "撮影",
+        "取材"
+      ],
+      "answer": 2,
+      "vi": "Bộ phim này được quay trong tuyết ở Hokkaido suốt ba tháng.",
+      "why": "Quay phim tại chỗ → **撮影**. 「放送」 là phát sóng (không cần ở trong tuyết 3 tháng); 「発行」 dùng cho báo, giấy tờ; 「取材」 là lấy tin, phim không \"được lấy tin\"."
+    }
+  ],
+  "practice": [
+    {
+      "id": "g12-p1",
+      "kind": "read",
+      "ref": "g12-w16",
+      "q": "{大人|おとな}になって、{自分|じぶん}がいかに[[u:世間]]{知|し}らずだったかがわかった。",
+      "options": [
+        "せかん",
+        "よのま",
+        "せけん",
+        "せいかん"
+      ],
+      "answer": 2,
+      "vi": "Lớn lên rồi tôi mới hiểu mình từng ngây ngô, không biết sự đời đến mức nào.",
+      "why": "世間 = **せけん** (間 đọc けん như 人間 にんげん). 「せかん」 đọc 間 theo かん — sai; 「よのま」 kun-yomi ghép bừa; 「せいかん」 thừa trường âm."
+    },
+    {
+      "id": "g12-p2",
+      "kind": "read",
+      "ref": "g12-w45",
+      "q": "{事故|じこ}の{瞬間|しゅんかん}の[[u:映像]]が、{何度|なんど}もニュースで{流|なが}された。",
+      "options": [
+        "えいそう",
+        "えいぞう",
+        "いんぞう",
+        "えいぞ"
+      ],
+      "answer": 1,
+      "vi": "Hình ảnh khoảnh khắc xảy ra tai nạn được phát đi phát lại trên bản tin.",
+      "why": "映像 = **えいぞう** (像 đọc ぞう, có âm đục như 想像 そうぞう). 「えいそう」 thiếu âm đục; 「いんぞう」 nhầm 映 với 印; 「えいぞ」 thiếu trường âm."
+    },
+    {
+      "id": "g12-p3",
+      "kind": "write",
+      "ref": "g12-w42",
+      "q": "{新|あたら}しいゲームを{発売|はつばい}{前|まえ}から{大々的|だいだいてき}に[[u:せんでん]]している。",
+      "options": [
+        "宣伝",
+        "宣転",
+        "専伝",
+        "宣云"
+      ],
+      "answer": 0,
+      "vi": "Trò chơi mới được quảng bá rầm rộ từ trước ngày phát hành.",
+      "why": "Quảng bá = **宣伝** (宣 = tuyên bố, 伝 = truyền). 「宣転」 nhầm 伝 với 転 (cùng phần 云); 「専伝」 sai chữ đầu; 「宣云」 thiếu bộ 亻."
+    },
+    {
+      "id": "g12-p4",
+      "kind": "write",
+      "ref": "g12-w35",
+      "q": "{祖母|そぼ}は{毎週|まいしゅう}、{演歌|えんか}の[[u:ばんぐみ]]を{楽|たの}しみにしている。",
+      "options": [
+        "番祖",
+        "板組",
+        "番組",
+        "番級"
+      ],
+      "answer": 2,
+      "vi": "Tuần nào bà tôi cũng mong chờ chương trình nhạc enka.",
+      "why": "Chương trình = **番組** (番 = lượt, 組 = nhóm, bộ 糸). 「祖」 (tổ tiên) và 「級」 (cấp) nhìn hơi giống; 「板」 cùng âm ばん nhưng sai."
+    },
+    {
+      "id": "g12-p5",
+      "kind": "context",
+      "ref": "g12-w13",
+      "q": "その{記者|きしゃ}は{独自|どくじ}のルートで、{事件|じけん}に{関|かん}する{重要|じゅうよう}な{資料|しりょう}を（　　）した。",
+      "options": [
+        "発行",
+        "放送",
+        "制作",
+        "入手"
+      ],
+      "answer": 3,
+      "vi": "Phóng viên đó đã lấy được tài liệu quan trọng liên quan đến vụ án qua kênh riêng.",
+      "why": "Có được thứ khó lấy (tài liệu) → **入手**. 「発行」 = phát hành; 「放送」 = phát sóng; 「制作」 = sản xuất tác phẩm — phóng viên không \"sản xuất\" tài liệu vụ án."
+    },
+    {
+      "id": "g12-p6",
+      "kind": "context",
+      "ref": "g12-w14",
+      "q": "その{出版社|しゅっぱんしゃ}は、{地域|ちいき}のお{店|みせ}を{紹介|しょうかい}する{情報誌|じょうほうし}を{年|ねん}に{四回|よんかい}（　　）している。",
+      "options": [
+        "報道",
+        "発行",
+        "撮影",
+        "入手"
+      ],
+      "answer": 1,
+      "vi": "Nhà xuất bản đó phát hành tạp chí thông tin giới thiệu các cửa hàng địa phương bốn lần mỗi năm.",
+      "why": "Xuất bản ấn phẩm định kỳ → **発行**. 「報道」 dùng cho tin tức; 「撮影」 = chụp, quay; 「入手」 = có được (người nhận, không phải nhà xuất bản)."
+    },
+    {
+      "id": "g12-p7",
+      "kind": "context",
+      "ref": "g12-w41",
+      "q": "{駅|えき}では、{電車|でんしゃ}の{遅|おく}れを{知|し}らせるアナウンスを{何度|なんど}も（　　）いた。",
+      "options": [
+        "載せて",
+        "浴びて",
+        "流して",
+        "取って"
+      ],
+      "answer": 2,
+      "vi": "Ở nhà ga, người ta phát đi phát lại thông báo tàu bị trễ.",
+      "why": "Phát thông báo qua loa → 「アナウンスを**流す**」. 「載せる」 dùng cho báo, tạp chí; 「浴びる」 đi với 注目・シャワー; 「取る」 đi với 新聞を取る (đặt báo), 連絡を取る — không đi với アナウンス."
+    },
+    {
+      "id": "g12-p8",
+      "kind": "paraphrase",
+      "ref": "g12-w32",
+      "q": "ネットで{見|み}たその{話|はなし}は、[[u:でたらめ]]だった。",
+      "options": [
+        "根拠のないもの",
+        "古い情報",
+        "難しい内容",
+        "秘密の話"
+      ],
+      "answer": 0,
+      "vi": "Câu chuyện tôi thấy trên mạng hóa ra là bịa đặt.",
+      "why": "でたらめ = vô căn cứ, bịa → **根拠のないもの** (thứ không có cơ sở). 「古い情報」 có thể vẫn đúng; 「難しい内容」「秘密の話」 không liên quan đến tính thật/giả."
+    },
+    {
+      "id": "g12-p9",
+      "kind": "paraphrase",
+      "ref": "g12-w75",
+      "q": "この{会社|かいしゃ}では、{社長|しゃちょう}が[[u:自ら]]{新入社員|しんにゅうしゃいん}の{面接|めんせつ}をする。",
+      "options": [
+        "急いで",
+        "自分で",
+        "初めて",
+        "毎年"
+      ],
+      "answer": 1,
+      "vi": "Ở công ty này, giám đốc đích thân phỏng vấn nhân viên mới.",
+      "why": "自ら = tự mình, đích thân → ≒ **自分で**. 「急いで」 = vội; 「初めて」 = lần đầu; 「毎年」 = hằng năm — không mang nghĩa \"tự tay\"."
+    },
+    {
+      "id": "g12-p10",
+      "kind": "usage",
+      "ref": "g12-w29",
+      "q": "{詳細|しょうさい}",
+      "options": [
+        "このシャツは生地が詳細で、肌触りがとてもいい。",
+        "彼女は詳細な性格で、仕事のミスがほとんどない。",
+        "事故の詳細については、明日の記者会見で発表される。",
+        "朝から詳細な雨が降り続いている。"
+      ],
+      "answer": 2,
+      "vi": "(3) Chi tiết về vụ tai nạn sẽ được công bố trong cuộc họp báo ngày mai.",
+      "why": "(3) 詳細 = chi tiết của **thông tin** → đúng. (1) vải mịn → 細かくて／滑らかで. (2) tính cẩn thận → 几帳面な. (4) mưa phùn → 細かい雨."
+    },
+    {
+      "id": "g12-p11",
+      "kind": "formation",
+      "ref": "g12-w69",
+      "q": "このドラマは{海外|かいがい}での{撮影|さつえい}が{多|おお}く、{制作|せいさく}（　　）が{普通|ふつう}の{二倍|にばい}{掛|か}かったそうだ。",
+      "options": [
+        "値",
+        "税",
+        "金",
+        "費"
+      ],
+      "answer": 3,
+      "vi": "Bộ phim này quay ở nước ngoài nhiều nên nghe nói kinh phí sản xuất tốn gấp đôi bình thường.",
+      "why": "Chi phí lớn mang tính dự án → 制作**費** (như 宣伝費・生活費・交通費). 「制作値」「制作税」「制作金」 đều không phải từ. Nhớ thêm: 〜料 là phí dịch vụ (入場料), 〜代 là tiền cho món cụ thể (電気代)."
+    },
+    {
+      "id": "g12-p12",
+      "kind": "context",
+      "ref": "g12-w76",
+      "q": "{疲|つか}れていたので、{家|いえ}に{帰|かえ}ると{着替|きが}えもせずに（　　）{寝|ね}てしまった。",
+      "options": [
+        "じっくり",
+        "近々",
+        "そのまま",
+        "案外"
+      ],
+      "answer": 2,
+      "vi": "Mệt quá nên về đến nhà là tôi cứ thế ngủ luôn, chẳng thay đồ.",
+      "why": "Không làm gì thêm, cứ thế làm tiếp → **そのまま**. 「じっくり寝る」 không hợp với tình huống mệt lăn ra ngủ; 「近々」 chỉ tương lai; 「案外」 = không ngờ (cần sự trái dự đoán)."
+    },
+    {
+      "id": "g12-p13",
+      "kind": "usage",
+      "ref": "g12-w56",
+      "q": "くだらない",
+      "options": [
+        "この店の料理は安くてくだらないので、よく来る。",
+        "風邪がくだらなくて、なかなか治らない。",
+        "新しいスマホは値段がくだらないから、すぐに売り切れた。",
+        "くだらない冗談ばかり言っていないで、早く仕事をしなさい。"
+      ],
+      "answer": 3,
+      "vi": "(4) Đừng nói toàn chuyện đùa nhảm nữa, mau làm việc đi.",
+      "why": "(4) くだらない = nhảm nhí, vô bổ → đúng. (1) khen món ăn → おいしい. (2) cảm nặng → ひどくて. (3) giá phải chăng → 手ごろだ."
+    }
+  ],
+  "test": [
+    {
+      "id": "g12-t1",
+      "kind": "read",
+      "ref": "g12-w7",
+      "q": "{今日|きょう}の[[u:朝刊]]に、{新|あたら}しい{駅|えき}の{計画|けいかく}が{載|の}っていた。",
+      "options": [
+        "ちょうかん",
+        "あさかん",
+        "ちょうけん",
+        "ちょうがん"
+      ],
+      "answer": 0,
+      "vi": "Báo sáng nay có đăng kế hoạch nhà ga mới.",
+      "why": "朝刊 = **ちょうかん** (朝 on-yomi ちょう như 朝食; 刊 かん như 週刊). 「あさかん」 trộn kun-on; 「ちょうけん」 nhầm 刊 với 券／件; 「ちょうがん」 thừa âm đục."
+    },
+    {
+      "id": "g12-t2",
+      "kind": "read",
+      "ref": "g12-w57",
+      "q": "あの{旅館|りょかん}は{料理|りょうり}がおいしいと[[u:評判]]だ。",
+      "options": [
+        "ひょうはん",
+        "へいばん",
+        "ひょうばん",
+        "ひょうぱん"
+      ],
+      "answer": 2,
+      "vi": "Nhà trọ đó nổi tiếng là đồ ăn ngon.",
+      "why": "評判 = **ひょうばん** (判 đọc ばん với âm đục ở đây; còn 判断 là はんだん). 「ひょうはん」「ひょうぱん」 sai biến âm; 「へいばん」 nhầm 評 với 平."
+    },
+    {
+      "id": "g12-t3",
+      "kind": "write",
+      "ref": "g12-w39",
+      "q": "スタジオでの[[u:さつえい]]は、{朝|あさ}{八時|はちじ}から{始|はじ}まる。",
+      "options": [
+        "撮映",
+        "撮影",
+        "最影",
+        "撤影"
+      ],
+      "answer": 1,
+      "vi": "Buổi quay ở trường quay bắt đầu từ 8 giờ sáng.",
+      "why": "Quay, chụp = **撮影** (撮 = chụp, 影 = bóng hình). 「映」 cũng là えい và có nghĩa chiếu — bẫy hay gặp; 「最」「撤」 nhìn giống 撮 nhưng sai."
+    },
+    {
+      "id": "g12-t4",
+      "kind": "write",
+      "ref": "g12-w4",
+      "q": "{留学生|りゅうがくせい}の{生活|せいかつ}についての[[u:きじ]]を{読|よ}んだ。",
+      "options": [
+        "紀事",
+        "記字",
+        "規事",
+        "記事"
+      ],
+      "answer": 3,
+      "vi": "Tôi đã đọc một bài báo về cuộc sống của du học sinh.",
+      "why": "Bài báo = **記事** (記 = ghi chép, 事 = việc). 「紀」「規」 cùng âm き nhưng sai; 「記字」 sai chữ thứ hai."
+    },
+    {
+      "id": "g12-t5",
+      "kind": "context",
+      "ref": "g12-w17",
+      "q": "{日本|にほん}の{研究者|けんきゅうしゃ}が{開発|かいはつ}した{新|あたら}しい{治療法|ちりょうほう}が、{世界|せかい}の{医師|いし}たちの（　　）を{浴|あ}びている。",
+      "options": [
+        "話題",
+        "宣伝",
+        "注目",
+        "評判"
+      ],
+      "answer": 2,
+      "vi": "Phương pháp điều trị mới do nhà nghiên cứu Nhật phát triển đang nhận được sự chú ý của các bác sĩ trên thế giới.",
+      "why": "Cụm cố định 「**注目**を浴びる」. 「話題」 đi với になる／に上る; 「評判」 đi với がいい／になる; 「宣伝を浴びる」 không tồn tại."
+    },
+    {
+      "id": "g12-t6",
+      "kind": "context",
+      "ref": "g12-w1",
+      "q": "その{政治家|せいじか}の{発言|はつげん}は、{翌日|よくじつ}の{新聞|しんぶん}{各紙|かくし}で{大|おお}きく（　　）された。",
+      "options": [
+        "報道",
+        "放送",
+        "取材",
+        "撮影"
+      ],
+      "answer": 0,
+      "vi": "Phát ngôn của chính trị gia đó được các báo ngày hôm sau đưa tin rầm rộ.",
+      "why": "Báo chí đưa tin → **報道**. 「放送」 chỉ dùng cho TV/radio, không dùng cho 新聞; 「取材された」 = bị lấy tin (hành động trước khi viết), không đi với 新聞各紙で大きく; 「撮影」 = quay chụp."
+    },
+    {
+      "id": "g12-t7",
+      "kind": "paraphrase",
+      "ref": "g12-w27",
+      "q": "{講演|こうえん}で{聞|き}いた、{昔|むかし}の{人|ひと}の{暮|く}らしについての{話|はなし}は[[u:興味深かった]]。",
+      "options": [
+        "少し難しかった",
+        "とても面白かった",
+        "退屈だった",
+        "長すぎた"
+      ],
+      "answer": 1,
+      "vi": "Câu chuyện về đời sống người xưa mà tôi nghe trong buổi diễn thuyết rất thú vị.",
+      "why": "興味深い = gợi tò mò, rất thú vị → ≒ **とても面白かった**. 「退屈だった」 trái nghĩa; 「少し難しかった」「長すぎた」 là đánh giá khác, không phải nghĩa của từ."
+    },
+    {
+      "id": "g12-t8",
+      "kind": "formation",
+      "ref": "g12-w61",
+      "q": "{卒業式|そつぎょうしき}で{恩師|おんし}の{言葉|ことば}を{聞|き}き、{意義|いぎ}（　　）{一日|いちにち}になった。",
+      "options": [
+        "高い",
+        "深い",
+        "強い",
+        "多い"
+      ],
+      "answer": 1,
+      "vi": "Được nghe lời thầy cũ trong lễ tốt nghiệp, đó trở thành một ngày đầy ý nghĩa.",
+      "why": "Từ ghép cố định **意義深い** (〜深い = đầy …, cùng nhóm 興味深い). 「意義高い」「意義強い」「意義多い」 không phải từ."
+    },
+    {
+      "id": "g12-t9",
+      "kind": "usage",
+      "ref": "g12-w38",
+      "q": "{制作|せいさく}",
+      "options": [
+        "この工場では、自動車の部品を一日に一万個制作している。",
+        "パスポートを制作するために、証明写真を撮った。",
+        "雨が降りそうなので、旅行の計画を制作し直した。",
+        "この番組の制作には、二年以上の時間がかかった。"
+      ],
+      "answer": 3,
+      "vi": "(4) Việc sản xuất chương trình này mất hơn hai năm.",
+      "why": "(4) 制作 = sản xuất **tác phẩm, chương trình** → đúng. (1) linh kiện máy → 製造している／生産している. (2) làm hộ chiếu → 申請する／作る. (3) lập lại kế hoạch → 立て直した."
+    },
+    {
+      "id": "g12-t10",
+      "kind": "context",
+      "ref": "g12-w25",
+      "q": "{急病人|きゅうびょうにん}が{出|で}たときは、{慌|あわ}てずに（　　）な{処置|しょち}をすることが{大切|たいせつ}だ。",
+      "options": [
+        "適切",
+        "大まか",
+        "でたらめ",
+        "衝撃的"
+      ],
+      "answer": 0,
+      "vi": "Khi có người bị bệnh đột ngột, điều quan trọng là bình tĩnh xử lý thích hợp.",
+      "why": "Xử lý đúng mực, phù hợp → **適切な処置**. 「大まか」 (sơ sài), 「でたらめ」 (bừa bãi) trái với \"quan trọng\"; 「衝撃的な処置」 vô nghĩa."
+    },
+    {
+      "id": "g12-t11",
+      "kind": "usage",
+      "ref": "g12-w73",
+      "q": "{近々|ちかぢか}",
+      "options": [
+        "近々、子どもの頃によく遊んだ公園に行ってみた。",
+        "近々、新しい支店を大阪に開く予定です。",
+        "私の家は近々で、駅まで歩いて五分だ。",
+        "近々大雨が降ったので、川の水が増えている。"
+      ],
+      "answer": 1,
+      "vi": "(2) Sắp tới chúng tôi dự định mở chi nhánh mới ở Osaka.",
+      "why": "近々 chỉ **tương lai gần** → (2) đi với 予定です, đúng. (1) và (4) là quá khứ → 先日／最近. (3) gần về khoảng cách → 近くて."
+    }
+  ]
+}

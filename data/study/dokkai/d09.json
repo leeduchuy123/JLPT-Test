@@ -1,0 +1,364 @@
+{
+  "id": "d09",
+  "track": "dokkai",
+  "intro": "Câu hỏi lý do — 「〜とあるが、なぜか」「〜のはなぜか」「筆者が〜と考えるのはどうしてか」 — có mặt trong gần như mọi đề 読解 N2, từ 短文, 中文 đến 長文. Tin tốt: đây là dạng có **bản đồ rõ nhất**, vì câu trả lời gần như luôn nằm **sát phần gạch chân**: ngay trong câu đó, câu ngay trước hoặc câu ngay sau.\n\nCó hai tình huống, và bài này dạy cách xử lý cả hai:\n- **Có tín hiệu lý do trực tiếp**: から, ので, ため, だから, そのため, なぜなら〜からだ, 〜のは〜からだ, 〜のだ… → chỉ cần biết tín hiệu **chỉ về phía nào** (trước hay sau) là tìm ra lý do.\n- **Không có tín hiệu**: tác giả giải thích bằng cách **nói lại bằng từ khác** (言い換え), dùng **từ chỉ thị** (それ, こうした, その) hoặc **đặt hai vế đối lập** (対比). Lúc này bạn phải nối các câu lại thành chuỗi \"A = B = C\" cho đến khi gặp lý do.\n\nĐiểm then chốt để không mất điểm: phương án sai trong câu hỏi lý do thường **đúng với nội dung bài** nhưng **không phải lý do của chính điều được hỏi** — nó là lý do của việc khác, là kết quả, hoặc chỉ là bối cảnh. Vì vậy đáp án phải vượt qua phép thử: \"**[phương án] → だから → [phần gạch chân]**\" — ghép lại phải trôi chảy và đúng với logic của tác giả.",
+  "strategy": [
+    {
+      "title": "Bước 1 — Xác định chính xác điều cần giải thích",
+      "body": "Đọc câu hỏi trước, rồi đọc kỹ phần gạch chân. Tự viết lại trong đầu thành một câu hỏi tiếng Việt thật cụ thể: **\"Tại sao X?\"** — X là gì?\n\n- Để ý **chủ ngữ**: ai làm, ai nghĩ? (筆者 hay người khác?)\n- Để ý **phủ định và mức độ**: 「〜なくなった」「〜ほど〜ない」「むしろ」「かえって」. \"Tại sao trẻ ít mơ ước **hơn**\" khác hẳn \"tại sao trẻ có ước mơ\".\n- Nếu phần gạch chân có **từ chỉ thị** (それ, そんなに) hoặc **cách nói hình ảnh**, giải mã nó trước — không biết X là gì thì không thể tìm lý do của X.\n\nVí dụ: 「[[u:{彼|かれ}らは{難|むずか}しい{問題|もんだい}を{避|さ}けた]]とあるが、なぜか」 → \"Tại sao **nhóm trẻ được khen thông minh** lại **chọn bài dễ, né bài khó**?\""
+    },
+    {
+      "title": "Bước 2 — Quét tín hiệu lý do: câu gạch chân và hai câu kề bên",
+      "body": "Lý do gần như luôn nằm trong vùng **[câu trước] – [câu gạch chân] – [câu sau]**. Quét vùng này tìm tín hiệu, và nhớ **tín hiệu chỉ hướng**:\n\n- Câu gạch chân **mở đầu** bằng 「だから／そのため／それで／したがって」 → lý do ở **câu (hoặc đoạn) ngay trước**.\n- Trong câu gạch chân có 「〜から／〜ので／〜ため／〜せいで／〜おかげで」, hoặc chỉ là **thể て／で** nối hai vế (「{雪|ゆき}で{電車|でんしゃ}が{止|と}まった」「{疲|つか}れて{眠|ねむ}れなかった」) → lý do ở **nửa trước của chính câu đó**.\n- Câu gạch chân có khung 「〜のは、〜からだ／〜ためだ」 → lý do ở **nửa sau**, sau 「のは」.\n- Câu **ngay sau** mở đầu bằng 「なぜなら／というのは／というのも」 hoặc kết thúc bằng 「〜からだ／〜ためだ／〜のだ」 → lý do ở **câu sau**.\n\nCảnh giác: tìm thấy tín hiệu chưa phải là xong. Phần lý do đó thường lại chứa từ chỉ thị hoặc từ ngữ trừu tượng (「その{判断|はんだん}」「それを{恐|おそ}れた」) → phải lùi lại một câu nữa để biết nó chỉ cái gì."
+    },
+    {
+      "title": "Bước 3 — Không có tín hiệu: lần theo 言い換え・指示語・対比",
+      "body": "Khi quanh phần gạch chân **không có** から／ので／だから…, đừng hoảng. Tác giả vẫn giải thích, chỉ là bằng cách khác:\n\n- **言い換え (nói lại)**: tìm chỗ từ khoá của phần gạch chân được nói lại bằng từ khác. 「{待|ま}つ{時間|じかん}」 → 「{想像|そうぞう}し、{考|かんが}えを{巡|めぐ}らせた」 → 「{関係|かんけい}を{育|そだ}てる時間」. Câu nói lại cuối cùng thường chính là lý do.\n- **指示語 (từ chỉ thị)**: 「こうした{理由|りゆう}による」「それを恐れた」 → それ／こうした chỉ về đâu, lý do nằm ở đó.\n- **対比 (đối lập)**: nếu tác giả phê phán A, thì lý do để chọn B thường là **điểm yếu của A**. Ví dụ: tác giả muốn \"thử chờ đợi\" vì thời đại \"có ngay mọi thứ\" làm mất đi điều gì đó.\n\nCách làm thực tế: gạch nối các câu thành chuỗi **X = A = B**, đến khi gặp một câu trả lời được \"vì sao\" thì dừng."
+    },
+    {
+      "title": "Bước 4 — Phép thử 「だから」 và loại bẫy",
+      "body": "Ghép từng phương án vào khuôn: **\"[phương án], だから [phần gạch chân]\"**. Đọc lên mà logic đứt gãy → loại. Sau đó kiểm tra 5 kiểu bẫy hay gặp:\n\n- **(a) Lý do của việc khác**: câu đúng với bài, nhưng giải thích cho một chi tiết khác, không phải X.\n- **(b) Đảo nhân quả**: phương án là **kết quả** của X, không phải nguyên nhân.\n- **(c) Chỉ là bối cảnh / một nửa**: nêu tình huống chung (\"thời đại nhiều thông tin\") mà thiếu mắt xích quyết định.\n- **(d) Phóng đại / không có trong bài**: 「すべて」「必ず」「〜しかない」, hoặc thêm thông tin bài không nói (giá rẻ, thô lỗ…).\n- **(e) Ý kiến tác giả phản bác**: bài nhắc tới quan điểm của người khác (「〜と{考|かんが}える人もいる」) rồi bác bỏ — phương án dùng quan điểm đó là sai.\n\nMẹo: đáp án đúng **hầu như không bao giờ chép nguyên văn** câu trong bài; nó **nói lại** (言い換え) ý của câu lý do. Phương án giống từng chữ với bài nhưng lệch một chi tiết thường là bẫy."
+    }
+  ],
+  "signals": [
+    {
+      "ja": "〜から／〜ので／〜て・〜で",
+      "vi": "vì…, nên…",
+      "note": "Lý do nằm ở **phần trước** tín hiệu, trong cùng câu. 「{雨|あめ}が{降|ふ}ったので、{中止|ちゅうし}になった」. Thể て／で cũng có thể chỉ lý do, dễ bị bỏ sót: 「{風邪|かぜ}で{休|やす}んだ」「{説明|せつめい}が{長|なが}くて{眠|ねむ}くなった」."
+    },
+    {
+      "ja": "〜ため(に)",
+      "vi": "do…, vì… (văn viết)",
+      "note": "Cẩn thận hai nghĩa: **V ý chí (辞書形) + ため** = **mục đích** \"để…\" (「{合格|ごうかく}するため{勉強|べんきょう}する」); còn **Vた／Vている／Vない／形容詞／Nの + ため**, và cả V辞書形 của động từ không ý chí, = **lý do** (「{事故|じこ}のため{遅|おく}れた」「{人数|にんずう}が{足|た}りないため{中止|ちゅうし}する」)."
+    },
+    {
+      "ja": "〜せいで／〜おかげで",
+      "vi": "tại vì… (xấu) / nhờ có… (tốt)",
+      "note": "Lý do kèm đánh giá. 「おかげで{道|みち}に{迷|まよ}うことはなくなった」"
+    },
+    {
+      "ja": "だから／それで／そのため",
+      "vi": "vì thế, cho nên",
+      "note": "Đứng **đầu câu** → lý do là **câu / đoạn ngay trước**. Đây là tín hiệu hay gặp nhất."
+    },
+    {
+      "ja": "したがって／ゆえに",
+      "vi": "do đó, bởi vậy (văn viết, logic)",
+      "note": "Giống だから nhưng trang trọng; hay gặp trong 評論. Lý do ở trước."
+    },
+    {
+      "ja": "なぜなら(ば)〜からだ",
+      "vi": "bởi vì… là vì…",
+      "note": "Lý do đến **sau**. Thường là câu ngay sau câu gạch chân."
+    },
+    {
+      "ja": "というのは／というのも〜からだ",
+      "vi": "sở dĩ nói vậy là vì…",
+      "note": "Văn tuỳ bút, giọng kể. Lý do ở câu sau."
+    },
+    {
+      "ja": "〜のは、〜からだ／〜ためだ",
+      "vi": "sở dĩ… là vì…",
+      "note": "Câu chẻ: phần trước のは = kết quả, phần sau = lý do. 「{手書|てが}きにこだわるのは、〜からである」"
+    },
+    {
+      "ja": "〜からこそ",
+      "vi": "chính vì… nên mới…",
+      "note": "Nhấn mạnh lý do — tác giả coi đây là lý do quan trọng nhất. Dễ thành đáp án."
+    },
+    {
+      "ja": "〜のだ／〜のである／〜わけだ (cuối câu)",
+      "vi": "là vì… / thế nên mới…",
+      "note": "Câu kết thúc bằng のだ thường **giải thích** câu trước hoặc **đúc kết** lý do. 「それを{恐|おそ}れたのだ」"
+    },
+    {
+      "ja": "〜ことから／〜ところから",
+      "vi": "từ việc… (suy ra / căn cứ)",
+      "note": "Nêu căn cứ dẫn tới một nhận định hay một cái tên. 「{形|かたち}が{似|に}ていることから、そう{呼|よ}ばれる」"
+    },
+    {
+      "ja": "〜によって／〜により",
+      "vi": "do…, bởi… (nguyên nhân, văn viết)",
+      "note": "「{機械|きかい}の{登場|とうじょう}によって{基準|きじゅん}が{上|あ}がった」"
+    },
+    {
+      "ja": "〜以上(は)／〜からには",
+      "vi": "một khi đã… thì…",
+      "note": "Lý do mang tính tiền đề → vế sau là nghĩa vụ / quyết tâm."
+    },
+    {
+      "ja": "その理由は〜ことにある／〜は〜による",
+      "vi": "lý do nằm ở chỗ… / là do…",
+      "note": "Tác giả nêu thẳng lý do, thường kèm 「一つは〜、もう一つは〜」 → câu hỏi có thể hỏi \"một trong các lý do\"."
+    },
+    {
+      "ja": "その結果／〜結果",
+      "vi": "kết quả là…",
+      "note": "Hướng **ngược lại**: đi từ nguyên nhân sang kết quả. Phần đứng **trước** その結果 mới là lý do — đừng chọn nhầm phần sau."
+    }
+  ],
+  "passages": {
+    "p1": {
+      "title": "手書きのメモ",
+      "kind": "エッセイ",
+      "ja": "{会議|かいぎ}の{内容|ないよう}はパソコンで{記録|きろく}すれば{十分|じゅうぶん}だ、と言う人は多い。{確|たし}かに、{打|う}ち{込|こ}んだ{文字|もじ}は{後|あと}から{検索|けんさく}でき、{共有|きょうゆう}も{簡単|かんたん}だ。それでも{私|わたし}は、{大事|だいじ}な{打|う}ち{合|あ}わせには{必|かなら}ずノートとペンを{持|も}っていく。\n\n手で書くとなると、{話|はなし}の{全部|ぜんぶ}を{書|か}き{取|と}ることはできない。そのため、{相手|あいて}の話を聞きながら、何が{重要|じゅうよう}で何を{捨|す}ててよいかを、その{場|ば}で{判断|はんだん}し{続|つづ}けなければならない。つまり、{手書|てが}きのメモは記録であると{同時|どうじ}に、{考|かんが}えた{跡|あと}でもあるのだ。[[u1:{私|わたし}が{手書|てが}きにこだわる]]のは、{後|あと}で{見返|みかえ}したとき、そのときの{自分|じぶん}の{判断|はんだん}まで{思|おも}い{出|だ}せるからである。",
+      "vi": "Nhiều người nói rằng nội dung cuộc họp chỉ cần ghi lại bằng máy tính là đủ. Quả thật, chữ đã gõ vào thì về sau có thể tìm kiếm, chia sẻ cũng dễ dàng. Dù vậy, với những buổi trao đổi quan trọng, tôi luôn mang theo sổ và bút.\n\nKhi viết bằng tay thì không thể chép lại toàn bộ câu chuyện. Vì vậy, vừa nghe đối phương nói, tôi vừa phải liên tục phán đoán ngay tại chỗ điều gì quan trọng, điều gì có thể bỏ qua. Nói cách khác, ghi chép viết tay vừa là bản ghi, đồng thời cũng là dấu vết của quá trình suy nghĩ. ①Sở dĩ tôi kiên trì viết tay là vì khi xem lại về sau, tôi có thể nhớ ra cả những phán đoán của chính mình lúc đó."
+    },
+    "p2": {
+      "title": "待つ時間",
+      "kind": "エッセイ",
+      "ja": "インターネットで{注文|ちゅうもん}した{品物|しなもの}が{翌日|よくじつ}に{届|とど}くのが{当|あ}たり{前|まえ}になり、{私|わたし}たちはすっかり{待|ま}つことが{苦手|にがて}になった。{画面|がめん}の{読|よ}み{込|こ}みに{数秒|すうびょう}かかるだけでいらいらしてしまう人も{少|すく}なくないだろう。\n\nしかし、{昔|むかし}の人にとって、待つ時間は{必|かなら}ずしも{退屈|たいくつ}なものではなかったようだ。{遠|とお}くに{住|す}む人に{手紙|てがみ}を出せば、{返事|へんじ}が来るまで{何日|なんにち}もかかる。その{間|あいだ}、人は{相手|あいて}がどんな{顔|かお}でそれを読むのかを{想像|そうぞう}し、{次|つぎ}に何を書こうかと{考|かんが}えを{巡|めぐ}らせた。返事を待つ{日々|ひび}は、相手との{関係|かんけい}をゆっくりと{育|そだ}てる時間でもあったのである。\n\n何でもすぐに手に{入|はい}る{時代|じだい}に{生|い}きる私たちも、[[u1:待つことの{価値|かち}を{見直|みなお}してみてはどうだろうか]]。",
+      "vi": "Việc món hàng đặt qua mạng hôm sau đã tới nơi trở thành chuyện đương nhiên, và chúng ta đã hoàn toàn trở nên kém kiên nhẫn trong việc chờ đợi. Hẳn không ít người chỉ cần màn hình tải mất vài giây là đã bực bội.\n\nThế nhưng, với người xưa, thời gian chờ đợi dường như không hẳn là thứ nhàm chán. Gửi thư cho người ở xa thì phải mất nhiều ngày mới có hồi âm. Trong khoảng thời gian đó, người ta tưởng tượng xem đối phương sẽ đọc thư với vẻ mặt thế nào, và nghĩ ngợi xem lần tới sẽ viết gì. Những ngày chờ thư hồi âm cũng chính là khoảng thời gian chầm chậm vun đắp mối quan hệ với người kia.\n\nChúng ta, những người sống trong thời đại cái gì cũng có ngay, ①sao không thử nhìn nhận lại giá trị của việc chờ đợi?"
+    },
+    "p3": {
+      "title": "町の小さな書店",
+      "kind": "解説",
+      "ja": "{駅前|えきまえ}の小さな{書店|しょてん}が、ここ{数年|すうねん}、{若|わか}い{客|きゃく}でにぎわっている。店の{広|ひろ}さは{大型|おおがた}書店の{十分|じゅうぶん}の一ほどで、{置|お}いてある本の{数|かず}も{決|けっ}して多くない。{欲|ほ}しい本が{決|き}まっているなら、ネットで{注文|ちゅうもん}したほうがずっと早いはずだ。それなのに、なぜ人はわざわざこの店に{足|あし}を{運|はこ}ぶのだろうか。\n\n{店主|てんしゅ}に話を聞くと、[[u1:「うちは{売|う}れる本を{置|お}かないようにしているんです」]]という{意外|いがい}な{答|こた}えが{返|かえ}ってきた。{話題|わだい}の{新刊|しんかん}やベストセラーは、どこの店でもネットでも{簡単|かんたん}に手に{入|はい}る。そうした本を{並|なら}べても、大きな店にはかなわない。だから、店主{自身|じしん}が読んで{面白|おもしろ}いと{思|おも}った本、あまり{知|し}られていないが{長|なが}く{読|よ}み{継|つ}がれてほしい本だけを{選|えら}んで{棚|たな}に並べているのだという。\n\n客の{一人|ひとり}である{大学生|だいがくせい}は「ここに来ると、{自分|じぶん}では{絶対|ぜったい}に選ばない本に{出会|であ}える」と話す。ネットの書店では、{過去|かこ}に買った本をもとに「おすすめ」が{表示|ひょうじ}される。{便利|べんり}ではあるが、それは{結局|けっきょく}、[[u2:{自分|じぶん}の{好|この}みの{範囲|はんい}から出られない]]ということでもある。[[u3:この店の{棚|たな}が{若|わか}い人を{引|ひ}きつける]]のは、そこに自分の知らない{世界|せかい}への{入|い}り{口|ぐち}があるからだろう。\n\n本を{探|さが}す{手段|しゅだん}が{増|ふ}えた今、書店に{求|もと}められているのは、{品|しな}ぞろえの多さではなく、選ぶ目なのかもしれない。",
+      "vi": "Mấy năm gần đây, một hiệu sách nhỏ trước nhà ga luôn đông khách trẻ. Diện tích cửa hàng chỉ khoảng một phần mười hiệu sách lớn, số sách bày bán cũng chẳng nhiều nhặn gì. Nếu đã biết mình muốn quyển nào thì đặt qua mạng hẳn nhanh hơn nhiều. Vậy mà tại sao người ta vẫn cất công tìm tới cửa hàng này?\n\nKhi hỏi chủ tiệm, tôi nhận được một câu trả lời bất ngờ: ①\"Tiệm tôi cố ý không bày những cuốn bán chạy.\" Sách mới đang được bàn tán hay sách best-seller thì ở tiệm nào, trên mạng nào cũng mua được dễ dàng. Có bày những cuốn đó ra thì cũng không địch nổi các hiệu sách lớn. Vì thế, nghe nói chủ tiệm chỉ chọn bày lên kệ những cuốn chính ông đọc thấy hay, những cuốn ít người biết nhưng ông mong sẽ được đọc truyền lại lâu dài.\n\nMột vị khách là sinh viên đại học kể: \"Đến đây là gặp được những cuốn sách mà tự mình chắc chắn sẽ không bao giờ chọn.\" Ở hiệu sách trên mạng, mục \"gợi ý\" được hiển thị dựa trên những cuốn mình đã mua trước đây. Tiện thì có tiện, nhưng rốt cuộc điều đó cũng có nghĩa là ②mình không thoát ra khỏi phạm vi sở thích của bản thân. ③Kệ sách của tiệm này thu hút người trẻ, có lẽ là vì ở đó có cánh cửa dẫn tới một thế giới mà mình chưa biết.\n\nTrong thời buổi có nhiều cách tìm sách như hiện nay, có lẽ điều người ta cần ở một hiệu sách không phải là số lượng đầu sách phong phú, mà là con mắt chọn sách."
+    },
+    "p4": {
+      "title": "ほめ方の落とし穴",
+      "kind": "評論",
+      "ja": "子どもをほめて{育|そだ}てよう、とよく言われる。しかし、ほめさえすればよいというわけではない。\n\nある{研究|けんきゅう}では、テストで{良|よ}い{点|てん}を{取|と}った子どもたちを二つのグループに{分|わ}け、{一方|いっぽう}には「{頭|あたま}がいいね」と、もう一方には「よく{頑張|がんば}ったね」と{声|こえ}をかけた。その{後|あと}、{難|むずか}しい{問題|もんだい}と{易|やさ}しい問題のどちらに{挑戦|ちょうせん}したいかを{選|えら}ばせたところ、「頭がいい」とほめられた子どもの多くが易しい問題を選んだという。[[u1:{彼|かれ}らは{難|むずか}しい{問題|もんだい}を{避|さ}けた]]のである。難しい問題に{失敗|しっぱい}すれば、「頭がいい」という{評価|ひょうか}を{失|うしな}ってしまう。それを{恐|おそ}れたのだと{考|かんが}えられる。\n\n一方、{努力|どりょく}をほめられた子どもたちは、難しい問題に{進|すす}んで{取|と}り{組|く}んだ。うまくいかなくても、それは努力が{足|た}りなかっただけで、{自分|じぶん}の{価値|かち}が{下|さ}がるわけではない。だから、失敗を恐れずに{済|す}んだのだろう。\n\nつまり、{能力|のうりょく}をほめることは、子どもに「{期待|きたい}を{裏切|うらぎ}ってはいけない」という{重荷|おもに}を{負|お}わせることにもなりかねない。[[u2:{大人|おとな}が{注目|ちゅうもく}すべきなのは{結果|けっか}よりも{過程|かてい}だ]]と言われるのは、こうした{理由|りゆう}による。",
+      "vi": "Người ta hay nói: hãy nuôi dạy con bằng lời khen. Nhưng không phải cứ khen là được.\n\nTrong một nghiên cứu, những đứa trẻ đạt điểm cao trong bài kiểm tra được chia làm hai nhóm: một nhóm được khen \"Con thông minh quá\", nhóm kia được khen \"Con đã cố gắng nhiều đấy\". Sau đó, khi cho các em chọn muốn thử sức với bài khó hay bài dễ, nghe nói phần lớn những em được khen \"thông minh\" đã chọn bài dễ. ①Các em đã né tránh bài khó. Nếu làm hỏng bài khó, các em sẽ đánh mất lời đánh giá \"thông minh\". Có thể cho rằng các em đã sợ điều đó.\n\nNgược lại, những em được khen về sự cố gắng thì chủ động lao vào bài khó. Dù không làm được thì cũng chỉ là do cố gắng chưa đủ, chứ giá trị của bản thân không vì thế mà giảm đi. Vì vậy, có lẽ các em đã không phải sợ thất bại.\n\nNói cách khác, khen năng lực có thể khiến đứa trẻ phải gánh một gánh nặng mang tên \"không được phụ lòng kỳ vọng\". Người ta nói rằng ②điều người lớn nên chú ý là quá trình hơn là kết quả, chính là vì lý do như vậy."
+    },
+    "p5": {
+      "title": "道に迷う旅",
+      "kind": "エッセイ",
+      "ja": "{旅先|たびさき}でスマートフォンの{地図|ちず}を{開|ひら}けば、{目的地|もくてきち}までの{最短|さいたん}ルートがすぐに{示|しめ}される。おかげで道に{迷|まよ}うことはほとんどなくなった。ところが、{便利|べんり}になったはずの{旅|たび}を、{以前|いぜん}ほど{楽|たの}しいと{感|かん}じなくなったという{声|こえ}も聞く。\n\n{考|かんが}えてみれば、{私|わたし}の{記憶|きおく}に{残|のこ}っている旅の{場面|ばめん}は、{予定|よてい}どおりに{進|すす}んだときのものではない。{曲|ま}がる{角|かど}を{間違|まちが}えて、{地元|じもと}の人しか{通|とお}らないような{細|ほそ}い{路地|ろじ}に{入|はい}り{込|こ}んだこと。道を{尋|たず}ねた店の{主人|しゅじん}が、{頼|たの}みもしないのに{近|ちか}くの{古|ふる}い{寺|てら}まで{案内|あんない}してくれたこと。どれも、[[u1:{地図|ちず}の{上|うえ}では「{失敗|しっぱい}」にあたる]]{出来事|できごと}だ。\n\n最短ルートは、目的地{以外|いがい}のものをすべて「{寄|よ}り{道|みち}」として{切|き}り{捨|す}てる。迷わずに{済|す}むということは、{偶然|ぐうぜん}の{出会|であ}いの{機会|きかい}を{自|みずか}ら{手放|てばな}しているということでもあるのだ。私は{次|つぎ}の旅では、[[u2:あえて{地図|ちず}を{閉|と}じて{歩|ある}いてみよう]]と{思|おも}う。",
+      "vi": "Khi đi du lịch, chỉ cần mở bản đồ trên điện thoại là lộ trình ngắn nhất tới đích hiện ra ngay. Nhờ vậy mà gần như không còn chuyện lạc đường. Thế nhưng, tôi cũng nghe có người nói rằng những chuyến đi đáng lẽ đã tiện lợi hơn lại không còn thấy vui như trước nữa.\n\nNghĩ lại thì, những khoảnh khắc du lịch còn đọng lại trong ký ức tôi không phải là những lúc mọi thứ diễn ra đúng kế hoạch. Đó là lần rẽ nhầm góc phố và lạc vào một con hẻm nhỏ chỉ dân địa phương mới đi qua. Là lần ông chủ quán mà tôi hỏi đường, dù tôi chẳng hề nhờ, đã dẫn tôi tới tận ngôi chùa cổ gần đó. Tất cả đều là những chuyện ①mà trên bản đồ thì được tính là \"thất bại\".\n\nLộ trình ngắn nhất gạt bỏ mọi thứ ngoài đích đến như là \"đường vòng\". Không phải lạc đường cũng đồng nghĩa với việc chính mình đang tự buông bỏ cơ hội của những cuộc gặp gỡ tình cờ. Trong chuyến đi tới, tôi định ②thử cố ý gập bản đồ lại mà bước đi."
+    },
+    "p6": {
+      "title": "家電と家事の時間",
+      "kind": "評論",
+      "ja": "{洗濯機|せんたくき}や{掃除機|そうじき}、{食器|しょっき}{洗|あら}い{機|き}など、{家事|かじ}を{助|たす}ける{機械|きかい}はこの{数十年|すうじゅうねん}で{驚|おどろ}くほど{進歩|しんぽ}した。{当然|とうぜん}、家事にかける時間は大きく{減|へ}ったはずだと{思|おも}われるだろう。ところが、いくつかの{調査|ちょうさ}によると、{家庭|かてい}で家事に{費|つい}やされる時間は、[[u1:{期待|きたい}されたほどには{短|みじか}くなっていない]]という。\n\nその{理由|りゆう}の一つは、機械の{登場|とうじょう}によって「きれい」の{基準|きじゅん}そのものが{上|あ}がったことにある。洗濯が{手洗|てあら}いだった時代には、{服|ふく}は{何日|なんにち}か{着|き}てから洗うのが{普通|ふつう}だった。ところが、ボタン一つで洗えるようになると、{一度|いちど}着ただけで洗うことが{当|あ}たり{前|まえ}になった。掃除も{同様|どうよう}で、{楽|らく}になった{分|ぶん}だけ{回数|かいすう}が{増|ふ}えたのである。\n\nもう一つは、機械が{引|ひ}き{受|う}けてくれない{仕事|しごと}が、かえって{目立|めだ}つようになったことだ。{献立|こんだて}を{考|かんが}える、{足|た}りない{日用品|にちようひん}に{気|き}づいて買っておく、{家族|かぞく}の{予定|よてい}を{調整|ちょうせい}する。こうした「{名前|なまえ}のない家事」は、どんなに機械が進歩しても人の{頭|あたま}が{担|にな}うしかない。\n\n家事を{本当|ほんとう}に減らしたいなら、[[u2:新しい{機械|きかい}を{買|か}う{前|まえ}に、{自分|じぶん}たちがどこまでの「きれい」を{求|もと}めるのかを、{家族|かぞく}で{話|はな}し{合|あ}ってみる{必要|ひつよう}がある]]のかもしれない。",
+      "vi": "Máy giặt, máy hút bụi, máy rửa bát… những chiếc máy hỗ trợ việc nhà đã tiến bộ đến kinh ngạc trong vài chục năm qua. Hẳn ai cũng nghĩ thời gian dành cho việc nhà đương nhiên đã giảm đi rất nhiều. Thế nhưng, theo một số khảo sát, thời gian các gia đình bỏ ra cho việc nhà ①không ngắn đi được như kỳ vọng.\n\nMột trong những lý do là chính tiêu chuẩn \"sạch sẽ\" đã được nâng lên do sự xuất hiện của máy móc. Thời còn giặt tay, quần áo mặc vài ngày rồi mới giặt là chuyện bình thường. Nhưng khi chỉ cần một nút bấm là giặt được, thì mặc một lần là giặt đã trở thành lẽ đương nhiên. Việc dọn dẹp cũng vậy: nhẹ nhàng hơn bao nhiêu thì số lần dọn tăng lên bấy nhiêu.\n\nLý do còn lại là những công việc mà máy móc không đảm nhận được lại càng trở nên nổi bật. Nghĩ thực đơn, để ý thấy đồ dùng hằng ngày sắp hết để mua sẵn, sắp xếp lịch trình của cả nhà. Những \"việc nhà không tên\" như thế, dù máy móc có tiến bộ đến đâu thì cũng chỉ có đầu óc con người gánh vác.\n\nNếu thật sự muốn giảm việc nhà, có lẽ ②trước khi mua máy mới, cả nhà cần thử bàn với nhau xem mình đòi hỏi \"sạch sẽ\" đến mức nào."
+    },
+    "p7": {
+      "title": "会議で黙る若手",
+      "kind": "評論",
+      "ja": "{若手|わかて}{社員|しゃいん}は{会議|かいぎ}で{意見|いけん}を言わない、と{嘆|なげ}く{管理職|かんりしょく}は多い。やる{気|き}がないのだ、と{考|かんが}える人もいるようだ。しかし、{私|わたし}が若手の社員たちに話を聞いてみると、{事情|じじょう}は少し{違|ちが}っていた。\n\n{彼|かれ}らの多くは、意見がないわけではない。ただ、「{完成|かんせい}した意見」でなければ口に出してはいけないと{思|おも}い{込|こ}んでいるのである。{学校|がっこう}では、{正|ただ}しい{答|こた}えを言えばほめられ、{間違|まちが}えれば{笑|わら}われる。そうした{経験|けいけん}を{重|かさ}ねてきた人にとって、まだ{形|かたち}になっていない考えを{人前|ひとまえ}で話すことは、大きな{危険|きけん}を{伴|ともな}う{行為|こうい}なのだ。\n\nある{会社|かいしゃ}では、会議の{最初|さいしょ}の{十分間|じゅっぷんかん}を「{思|おも}いつきの時間」と{決|き}め、どんなに{不完全|ふかんぜん}な意見でも{批判|ひはん}しないというルールを作った。すると、それまでほとんど{発言|はつげん}しなかった若手が、{次々|つぎつぎ}に口を{開|ひら}くようになったそうだ。\n\n[[u1:{若手|わかて}が{黙|だま}っているのは、{能力|のうりょく}や{意欲|いよく}の{問題|もんだい}ではない]]。黙らせているのは、むしろ{周|まわ}りの{空気|くうき}のほうなのかもしれない。",
+      "vi": "Có nhiều cấp quản lý than phiền rằng nhân viên trẻ không chịu phát biểu ý kiến trong cuộc họp. Hình như cũng có người cho rằng đó là do họ thiếu nhiệt huyết. Thế nhưng, khi tôi thử nói chuyện với các nhân viên trẻ, sự tình lại hơi khác.\n\nPhần lớn họ không phải là không có ý kiến. Chỉ là họ đinh ninh rằng nếu không phải \"ý kiến hoàn chỉnh\" thì không được nói ra. Ở trường, nói đúng đáp án thì được khen, nói sai thì bị cười. Với những người đã trải qua nhiều lần như thế, việc nói trước mặt người khác một suy nghĩ còn chưa thành hình là một hành động đi kèm rủi ro lớn.\n\nỞ một công ty nọ, người ta quy định mười phút đầu cuộc họp là \"giờ nghĩ gì nói nấy\" và đặt ra luật không phê phán bất kỳ ý kiến nào dù chưa hoàn chỉnh đến đâu. Nghe nói sau đó, những nhân viên trẻ trước giờ hầu như không phát biểu đã lần lượt lên tiếng.\n\n①Việc người trẻ im lặng không phải là vấn đề năng lực hay ý chí. Có lẽ thứ khiến họ im lặng, ngược lại, chính là bầu không khí xung quanh."
+    }
+  },
+  "worked": [
+    {
+      "id": "d09-w1",
+      "kind": "passage",
+      "pass": "p1",
+      "q": "[[u1:{私|わたし}が{手書|てが}きにこだわる]]とあるが、なぜか。",
+      "options": [
+        "パソコンで{記録|きろく}した{文字|もじ}は、{後|あと}から{検索|けんさく}したり{共有|きょうゆう}したりすることができないから",
+        "手で書けば、{相手|あいて}の{話|はなし}を{全部|ぜんぶ}{正確|せいかく}に{書|か}き{取|と}ることができるから",
+        "手書きのメモを{見返|みかえ}すと、話を聞きながら何を{重要|じゅうよう}だと{判断|はんだん}したかがわかるから",
+        "{大事|だいじ}な{打|う}ち{合|あ}わせでパソコンを使うのは、相手に{失礼|しつれい}だと{考|かんが}えているから"
+      ],
+      "answer": 2,
+      "vi": "Hỏi: Tác giả viết \"①tôi kiên trì viết tay\" — tại sao? → Đáp án: Vì khi xem lại ghi chép viết tay, có thể biết lúc vừa nghe vừa ghi mình đã phán đoán điều gì là quan trọng.",
+      "why": "Câu gạch chân có khung 「〜のは、〜からである」: lý do là 「{後|あと}で{見返|みかえ}したとき、そのときの{自分|じぶん}の{判断|はんだん}まで{思|おも}い{出|だ}せるから」. 「判断」 ở đây là việc 「何が{重要|じゅうよう}で何を{捨|す}ててよいかを、その{場|ば}で判断」 ở câu trước → phương án 3 nói lại đúng ý này.\n- (1) Ngược với bài: bài nói chữ gõ máy 「後から{検索|けんさく}でき、{共有|きょうゆう}も{簡単|かんたん}だ」.\n- (2) Ngược với bài: 「話の{全部|ぜんぶ}を{書|か}き{取|と}ることはできない」.\n- (4) Bài không hề nói dùng máy tính là thất lễ — thông tin bịa thêm.",
+      "walkthrough": "**① Đọc câu hỏi → xác định X.** X = \"tôi (tác giả) kiên trì viết tay\". Câu hỏi: vì sao tác giả không dùng máy tính mà cứ viết tay?\n\n**② Quét tín hiệu.** Ngay trong câu gạch chân có khung 「〜**のは**、〜**からである**」 → lý do nằm ở nửa sau: 「後で見返したとき、そのときの自分の判断まで思い出せる」. Đã tìm thấy tín hiệu — nhưng **chưa xong**.\n\n**③ Giải mã từ trừu tượng.** 「そのときの自分の判断」 là phán đoán gì? Lùi lại hai câu: 「何が重要で何を捨ててよいかを、その場で判断し続けなければならない」. Câu 「つまり、手書きのメモは…考えた跡でもある」 là 言い換え của cùng ý đó. Vậy chuỗi là: viết tay → không chép hết được → phải chọn lọc → ghi chép = dấu vết suy nghĩ → xem lại nhớ được phán đoán.\n\n**④ Phép thử だから.**\n- 「手書きのメモを見返すと、何を重要だと判断したかがわかる。**だから** 手書きにこだわる」 → trôi chảy. ✔\n- Phương án 1 và 2 dùng đúng từ trong bài (検索, 共有, 全部, 書き取る) nhưng **lật ngược** nội dung — kiểu bẫy \"giống chữ, sai ý\".\n- Phương án 4 là bẫy (d): thêm thông tin không có trong bài.\n\n**Bài học:** tín hiệu から chỉ cho bạn **chỗ**; còn **nội dung** lý do thường phải đọc thêm câu trước để hiểu."
+    },
+    {
+      "id": "d09-w2",
+      "kind": "passage",
+      "pass": "p2",
+      "q": "{筆者|ひっしゃ}が[[u1:{待|ま}つことの{価値|かち}を{見直|みなお}してみてはどうだろうか]]と{述|の}べているのはなぜか。",
+      "options": [
+        "待つことが{苦手|にがて}な人は、{仕事|しごと}でも{失敗|しっぱい}しやすいと{考|かんが}えているから",
+        "{手紙|てがみ}は{電子|でんし}メールより{丁寧|ていねい}で、{相手|あいて}に{気持|きも}ちが{伝|つた}わりやすいから",
+        "インターネットで{注文|ちゅうもん}した{品物|しなもの}は、急いで{受|う}け{取|と}る{必要|ひつよう}がないから",
+        "待つ{間|あいだ}に相手のことを{想像|そうぞう}したり考えたりすることで、人との{関係|かんけい}が{深|ふか}まることもあるから"
+      ],
+      "answer": 3,
+      "vi": "Hỏi: Vì sao tác giả nói \"①sao không thử nhìn nhận lại giá trị của việc chờ đợi?\" → Đáp án: Vì trong lúc chờ, ta tưởng tượng và suy nghĩ về người kia, nhờ đó mối quan hệ có thể trở nên sâu sắc hơn.",
+      "why": "Quanh câu gạch chân không có から／ので. Lý do nằm ở đoạn 2, qua chuỗi 言い換え: 「{待|ま}つ時間は…{退屈|たいくつ}なものではなかった」 → 「相手がどんな{顔|かお}でそれを読むのかを{想像|そうぞう}し…{考|かんが}えを{巡|めぐ}らせた」 → 「相手との{関係|かんけい}をゆっくりと{育|そだ}てる時間でもあった」. Phương án 4 nói lại chính chuỗi này.\n- (1) Bài không nói gì về công việc.\n- (2) Bài không so sánh thư tay với email; 「手紙」 chỉ là ví dụ cho thời gian chờ.\n- (3) Lấy chi tiết 「インターネットで注文した品物」 ở đoạn 1 (bối cảnh) rồi bịa thêm kết luận.",
+      "walkthrough": "**① Xác định X.** X = \"tác giả đề nghị nhìn lại giá trị của việc chờ đợi\". Câu hỏi thực chất là: **theo tác giả, chờ đợi có giá trị gì?**\n\n**② Quét tín hiệu.** Câu gạch chân và câu trước nó không có から, ので, だから, なぜなら. → Chuyển sang Bước 3.\n\n**③ Lần theo cấu trúc.**\n- **対比**: đoạn 1 = hiện tại (đồ tới ngay hôm sau, chờ vài giây đã bực) ↔ đoạn 2 = người xưa (chờ không hề nhàm chán). Câu kết mở đầu bằng 「何でもすぐに手に入る時代に生きる私たちも」 → tác giả đang kéo bài học của **vế người xưa** về cho hiện tại.\n- **言い換え**: trong đoạn 2, \"thời gian chờ\" được nói lại hai lần: 「想像し…考えを巡らせた」 và 「関係をゆっくりと育てる時間」. Câu kết đoạn bằng 「〜のである」 — dấu hiệu tác giả đang **đúc kết** ý.\n- Chuỗi hoàn chỉnh: chờ đợi = thời gian tưởng tượng, suy nghĩ về người kia = thời gian vun đắp quan hệ → **vì thế** nên nhìn lại giá trị của nó.\n\n**④ Thử và loại.** Ghép 「待つ間に相手を想像し…関係が深まる。**だから** 待つことの価値を見直そう」 → hợp logic. ✔ Các phương án 1–3 đều \"nghe có lý\" nhưng không có câu nào trong bài làm chỗ dựa. Phương án 3 là bẫy điển hình: lấy **chi tiết bối cảnh** ở đoạn đầu làm lý do.\n\n**Bài học:** không có tín hiệu thì lý do thường là **câu đúc kết (〜のである／〜のだ) của đoạn giải thích**, được nối với phần gạch chân bằng quan hệ đối lập hoặc nói lại."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "d09-q1",
+      "kind": "passage",
+      "pass": "p3",
+      "q": "[[u1:「うちは{売|う}れる本を{置|お}かないようにしているんです」]]とあるが、それはなぜか。",
+      "options": [
+        "売れる本は{値段|ねだん}が{高|たか}く、小さな店では{仕入|しい}れることができないから",
+        "{店主|てんしゅ}は、ベストセラーの本はつまらないと{考|かんが}えているから",
+        "{話題|わだい}の本はどこでも手に{入|はい}るため、{並|なら}べても{大型|おおがた}{書店|しょてん}には{勝|か}てないから",
+        "{若|わか}い{客|きゃく}は、話題の{新刊|しんかん}やベストセラーに{興味|きょうみ}を{持|も}っていないから"
+      ],
+      "answer": 2,
+      "vi": "Hỏi: \"①Tiệm tôi cố ý không bày sách bán chạy\" — vì sao? → Đáp án: Vì sách đang hot ở đâu cũng mua được, có bày ra cũng không thắng nổi hiệu sách lớn.",
+      "why": "Ngay sau phần gạch chân: 「{話題|わだい}の{新刊|しんかん}やベストセラーは、どこの店でもネットでも{簡単|かんたん}に手に入る。そうした本を並べても、大きな店にはかなわない。**だから**、…」 → だから chỉ về hai câu trước nó = lý do. Phương án 3 nói lại 「かなわない」 thành 「勝てない」.\n- (1) Giá sách, chuyện nhập hàng: bài không nhắc.\n- (2) Phóng đại: chủ tiệm chọn sách mình thấy hay, nhưng không hề nói best-seller là chán.\n- (4) Bài không nói khách trẻ không quan tâm đến sách mới."
+    },
+    {
+      "id": "d09-q2",
+      "kind": "passage",
+      "pass": "p3",
+      "q": "[[u2:{自分|じぶん}の{好|この}みの{範囲|はんい}から出られない]]とあるが、なぜそう言えるのか。",
+      "options": [
+        "おすすめには、ネットの{書店|しょてん}が売りたい本が{優先|ゆうせん}して{表示|ひょうじ}されるから",
+        "ネットでは、本の{中身|なかみ}を{確|たし}かめてから買うことができないから",
+        "ネットの書店には、あまり{知|し}られていない本が{置|お}かれていないから",
+        "おすすめは、その人が{過去|かこ}に買った本を{手|て}がかりに{選|えら}ばれているから"
+      ],
+      "answer": 3,
+      "vi": "Hỏi: Vì sao có thể nói \"②không thoát ra khỏi phạm vi sở thích của bản thân\"? → Đáp án: Vì mục gợi ý được chọn dựa trên những cuốn người đó đã mua trước đây.",
+      "why": "Phần gạch chân nằm trong câu 「{便利|べんり}ではあるが、**それは**{結局|けっきょく}、〜ということでもある」. 指示語 「それ」 chỉ câu ngay trước: 「{過去|かこ}に買った本をもとに『おすすめ』が{表示|ひょうじ}される」. Gợi ý dựa trên sách cũ → chỉ toàn sách giống gu cũ → không thoát khỏi sở thích. Phương án 4 nói lại 「もとに」 thành 「手がかりに」.\n- (1) \"Sách nhà sách muốn bán\" — nghe hợp lý ngoài đời nhưng bài không nói.\n- (2) Chuyện không xem được nội dung: không có trong bài.\n- (3) Bài không nói hiệu sách mạng không có sách ít người biết; vấn đề là **cách gợi ý**, không phải kho sách."
+    },
+    {
+      "id": "d09-q3",
+      "kind": "passage",
+      "pass": "p3",
+      "q": "[[u3:この店の{棚|たな}が{若|わか}い人を{引|ひ}きつける]]のはなぜだと{筆者|ひっしゃ}は{考|かんが}えているか。",
+      "options": [
+        "{自分|じぶん}の{好|この}みの{範囲|はんい}を{超|こ}えた本と{出会|であ}うことができるから",
+        "店の本が少ないので、{短|みじか}い時間ですべての棚を見ることができるから",
+        "ネットでは見つからない{古|ふる}い本が、{安|やす}く{売|う}られているから",
+        "{店主|てんしゅ}が、それぞれの{客|きゃく}の好みに合わせて本を{選|えら}んでくれるから"
+      ],
+      "answer": 0,
+      "vi": "Hỏi: Theo tác giả, vì sao kệ sách của tiệm này thu hút người trẻ? → Đáp án: Vì ở đó có thể gặp những cuốn sách vượt ra ngoài phạm vi sở thích của bản thân.",
+      "why": "Khung 「〜のは、〜からだろう」: lý do = 「そこに{自分|じぶん}の{知|し}らない{世界|せかい}への{入|い}り{口|ぐち}がある」. Đây là cách nói hình ảnh → giải mã bằng 言い換え: lời sinh viên 「自分では{絶対|ぜったい}に選ばない本に出会える」 và đối lập với gợi ý trên mạng (「好みの範囲から出られない」). Vậy \"cửa vào thế giới chưa biết\" = gặp sách ngoài gu của mình → phương án 1.\n- (2) Bài có nói 「本の{数|かず}も{決|けっ}して多くない」 nhưng không coi đó là lý do — bẫy \"chi tiết đúng, sai vai trò\".\n- (3) Sách cũ, giá rẻ: không có trong bài.\n- (4) Ngược lại: chọn theo sở thích từng khách chính là kiểu \"gợi ý\" của hiệu sách mạng mà tác giả đặt đối lập. Chủ tiệm chọn theo con mắt **của ông**."
+    }
+  ],
+  "practice": [
+    {
+      "id": "d09-p1",
+      "kind": "passage",
+      "pass": "p4",
+      "q": "[[u1:{彼|かれ}らは{難|むずか}しい{問題|もんだい}を{避|さ}けた]]とあるが、なぜか。",
+      "options": [
+        "{易|やさ}しい問題のほうが{良|よ}い{点|てん}を{取|と}って、もっとほめてもらえると{思|おも}ったから",
+        "難しい問題に{失敗|しっぱい}すると、「{頭|あたま}がいい」という{評価|ひょうか}がなくなると{心配|しんぱい}したから",
+        "「頭がいい」と言われて{満足|まんぞく}し、それ{以上|いじょう}{努力|どりょく}する{必要|ひつよう}を{感|かん}じなかったから",
+        "難しい問題を{解|と}くだけの{能力|のうりょく}が、{実際|じっさい}には{足|た}りなかったから"
+      ],
+      "answer": 1,
+      "vi": "Hỏi: \"①Các em đã né bài khó\" — vì sao? → Đáp án: Vì các em lo rằng nếu làm hỏng bài khó thì sẽ mất lời đánh giá \"thông minh\".",
+      "why": "Không có から ngay trong câu, nhưng hai câu **ngay sau** giải thích: 「難しい問題に失敗すれば、『頭がいい』という評価を{失|うしな}ってしまう。**それを{恐|おそ}れたのだ**と{考|かんが}えられる」. 「〜のだ」 cuối câu = giải thích lý do; 「それ」 = mất lời đánh giá. Phương án 2 nói lại 「恐れた」 thành 「心配した」.\n- (1) \"Muốn được khen thêm\": bài không nói — động cơ là **sợ mất**, không phải **muốn thêm**.\n- (3) \"Thoả mãn, không cần cố\": suy diễn nghe hợp lý nhưng bài không có.\n- (4) Bài không nói các em kém năng lực; các em đều là trẻ đạt điểm cao."
+    },
+    {
+      "id": "d09-p2",
+      "kind": "passage",
+      "pass": "p4",
+      "q": "{努力|どりょく}をほめられた子どもたちが、{難|むずか}しい{問題|もんだい}に{取|と}り{組|く}むことができたのはなぜか。",
+      "options": [
+        "努力をほめられたことで、{自分|じぶん}は{頭|あたま}がいいと{自信|じしん}を{持|も}てたから",
+        "難しい問題のほうが、努力したことを{大人|おとな}に{認|みと}めてもらいやすいから",
+        "努力すれば、どんな問題でも{必|かなら}ず{解|と}けると{信|しん}じていたから",
+        "{失敗|しっぱい}しても、それで自分の{価値|かち}が{下|さ}がるとは{考|かんが}えずに{済|す}んだから"
+      ],
+      "answer": 3,
+      "vi": "Hỏi: Vì sao những em được khen về sự cố gắng có thể thử sức với bài khó? → Đáp án: Vì dù thất bại, các em cũng không phải nghĩ rằng giá trị của mình vì thế mà giảm đi.",
+      "why": "Đoạn 3: 「うまくいかなくても、それは努力が{足|た}りなかっただけで、自分の価値が下がるわけではない。**だから**、失敗を{恐|おそ}れずに済んだのだろう」 → だから chỉ về câu trước. Phương án 4 khớp.\n- (1) Trộn lẫn hai nhóm: \"tự tin vì thông minh\" là chuyện của nhóm được khen năng lực.\n- (2) Bài không nói bài khó giúp được công nhận dễ hơn.\n- (3) Bẫy phóng đại (d): 「どんな問題でも必ず解ける」. Bài nói ngược lại — các em chấp nhận 「うまくいかなくても」."
+    },
+    {
+      "id": "d09-p3",
+      "kind": "passage",
+      "pass": "p4",
+      "q": "[[u2:{大人|おとな}が{注目|ちゅうもく}すべきなのは{結果|けっか}よりも{過程|かてい}だ]]と言われるのはなぜか。",
+      "options": [
+        "結果をほめても、子どもは大人の{言葉|ことば}を{信|しん}じないから",
+        "結果より過程のほうが、大人にとって{評価|ひょうか}しやすいから",
+        "{能力|のうりょく}をほめられた子どもは、{期待|きたい}を{裏切|うらぎ}るまいとして{挑戦|ちょうせん}を{避|さ}けるようになりかねないから",
+        "{努力|どりょく}をほめれば、子どもは{必|かなら}ずテストで{良|よ}い{点|てん}を{取|と}れるようになるから"
+      ],
+      "answer": 2,
+      "vi": "Hỏi: Vì sao người ta nói \"②điều người lớn nên chú ý là quá trình hơn là kết quả\"? → Đáp án: Vì trẻ được khen năng lực có thể trở nên né tránh thử thách để khỏi phụ lòng kỳ vọng.",
+      "why": "Câu gạch chân kết thúc bằng 「〜と言われるのは、**こうした{理由|りゆう}による**」 → 指示語 「こうした」 chỉ về nội dung ngay trước: 「能力をほめることは…『期待を裏切ってはいけない』という{重荷|おもに}を{負|お}わせることにもなりかねない」, kèm kết quả nghiên cứu (nhóm được khen thông minh né bài khó). Phương án 3 gói đúng cả hai.\n- (1) \"Trẻ không tin lời người lớn\": không có trong bài.\n- (2) \"Dễ đánh giá\": lý do từ góc độ người lớn, bài không nói.\n- (4) Bẫy phóng đại 「必ず」; bài không hứa hẹn điểm cao."
+    },
+    {
+      "id": "d09-p4",
+      "kind": "passage",
+      "pass": "p5",
+      "q": "[[u1:{地図|ちず}の{上|うえ}では「{失敗|しっぱい}」にあたる]]とあるが、なぜそう言えるのか。",
+      "options": [
+        "どれも、{予定|よてい}していた{道順|みちじゅん}から{外|はず}れて{起|お}きた{出来事|できごと}だから",
+        "どれも、{地元|じもと}の人に{迷惑|めいわく}をかけてしまった出来事だから",
+        "どれも、{結局|けっきょく}{目的地|もくてきち}にたどり着けなかった出来事だから",
+        "どれも、後から{思|おも}い{出|だ}すと{楽|たの}しくなかった出来事だから"
+      ],
+      "answer": 0,
+      "vi": "Hỏi: Vì sao có thể nói \"①trên bản đồ thì được tính là thất bại\"? → Đáp án: Vì tất cả đều là chuyện xảy ra khi đã đi chệch khỏi lộ trình dự định.",
+      "why": "Không có tín hiệu lý do → lần theo 言い換え và 対比. Đầu đoạn 2: kỷ niệm 「予定どおりに{進|すす}んだときのものではない」; các ví dụ là 「{角|かど}を{間違|まちが}えて…{路地|ろじ}に{入|はい}り{込|こ}んだ」, được dẫn đi chùa dù không nhờ. Đoạn 3 nói thẳng góc nhìn của bản đồ: 「最短ルートは、目的地以外のものをすべて『{寄|よ}り{道|みち}』として{切|き}り{捨|す}てる」. Vậy với bản đồ, mọi thứ chệch khỏi lộ trình = thất bại → phương án 1.\n- (2) Ngược lại: ông chủ quán tự nguyện dẫn đường, không có chuyện làm phiền.\n- (3) Bài không nói không tới được đích.\n- (4) Ngược với bài: đó là những kỷ niệm **còn đọng lại** — tức là đáng nhớ."
+    },
+    {
+      "id": "d09-p5",
+      "kind": "passage",
+      "pass": "p5",
+      "q": "{筆者|ひっしゃ}が[[u2:あえて{地図|ちず}を{閉|と}じて{歩|ある}いてみよう]]と{思|おも}うのはなぜか。",
+      "options": [
+        "スマートフォンの地図は、{細|ほそ}い{路地|ろじ}までは{正確|せいかく}に{示|しめ}してくれないから",
+        "地図を見ながら歩くと、{周|まわ}りの人に道を{尋|たず}ねにくくなるから",
+        "{最短|さいたん}ルートで早く{着|つ}けば、より多くの{場所|ばしょ}を見て{回|まわ}れるから",
+        "{迷|まよ}わずに{済|す}む{旅|たび}は、{偶然|ぐうぜん}の{出会|であ}いの{機会|きかい}を自分から{捨|す}てることになるから"
+      ],
+      "answer": 3,
+      "vi": "Hỏi: Vì sao tác giả định \"②thử cố ý gập bản đồ lại mà bước đi\"? → Đáp án: Vì một chuyến đi không phải lạc đường đồng nghĩa với việc tự mình vứt bỏ cơ hội gặp gỡ tình cờ.",
+      "why": "Câu ngay trước phần gạch chân là câu đúc kết bằng 「〜のだ」: 「迷わずに済むということは、偶然の出会いの機会を{自|みずか}ら{手放|てばな}しているということでもある**のだ**」. Đây là lý do; 「あえて」 (cố ý) cho thấy tác giả chủ động chọn điều ngược với số đông. Phương án 4 nói lại 「自ら手放す」 thành 「自分から捨てる」.\n- (1) Độ chính xác của bản đồ: bài không nói.\n- (2) Nghe hợp lý (ví dụ hỏi đường ông chủ quán), nhưng bài không nêu đây là lý do.\n- (3) Ngược với ý tác giả: tác giả phê phán chính lộ trình ngắn nhất."
+    }
+  ],
+  "test": [
+    {
+      "id": "d09-t1",
+      "kind": "passage",
+      "pass": "p6",
+      "q": "[[u1:{期待|きたい}されたほどには{短|みじか}くなっていない]]とあるが、その{理由|りゆう}として{筆者|ひっしゃ}が{挙|あ}げているものの一つはどれか。",
+      "options": [
+        "新しい{家電|かでん}は{使|つか}い{方|かた}が{複雑|ふくざつ}で、{慣|な}れるまでに時間がかかるから",
+        "家電の{値段|ねだん}が{高|たか}く、多くの{家庭|かてい}がまだ手で{家事|かじ}をしているから",
+        "{楽|らく}にできるようになった{分|ぶん}、{洗濯|せんたく}や{掃除|そうじ}をする{回数|かいすう}が{増|ふ}えたから",
+        "{家族|かぞく}が家事を{手伝|てつだ}わなくなり、{一人|ひとり}の{負担|ふたん}が大きくなったから"
+      ],
+      "answer": 2,
+      "vi": "Hỏi: Một trong những lý do tác giả nêu cho việc \"①không ngắn đi được như kỳ vọng\" là gì? → Đáp án: Vì làm được nhẹ nhàng hơn bao nhiêu thì số lần giặt giũ, dọn dẹp lại tăng bấy nhiêu.",
+      "why": "Đoạn 2 mở đầu bằng tín hiệu 「**その理由の一つは**、〜ことにある」 và đoạn 3 là 「**もう一つは**、〜ことだ」 → bài có hai lý do. Lý do thứ nhất: tiêu chuẩn \"sạch\" tăng lên, cụ thể 「一度{着|き}ただけで{洗|あら}うことが{当|あ}たり{前|まえ}になった」「楽になった分だけ回数が増えた」 → phương án 3.\n- (1) Máy phức tạp, khó dùng: không có trong bài.\n- (2) Bài nói máy móc **đã phổ biến và tiến bộ**, không nói mọi người vẫn làm tay.\n- (4) Chuyện gia đình không phụ giúp: bài không nói (lý do thứ hai là \"việc nhà không tên\", không phải chuyện chia việc)."
+    },
+    {
+      "id": "d09-t2",
+      "kind": "passage",
+      "pass": "p6",
+      "q": "{筆者|ひっしゃ}が[[u2:新しい{機械|きかい}を{買|か}う{前|まえ}に、…{家族|かぞく}で{話|はな}し{合|あ}ってみる{必要|ひつよう}がある]]と{考|かんが}えるのはなぜか。",
+      "options": [
+        "{家事|かじ}の時間が{減|へ}らないのは、機械の{性能|せいのう}よりも、{求|もと}める「きれい」の{水準|すいじゅん}が{高|たか}くなったことが{関係|かんけい}しているから",
+        "「{名前|なまえ}のない家事」は、家族の{誰|だれ}か{一人|ひとり}が{担当|たんとう}すべきものだから",
+        "新しい機械を買っても、すぐにもっと新しい機械が出てしまうから",
+        "家族で話し合えば、機械に{頼|たよ}らずにすべての家事を{分担|ぶんたん}できるから"
+      ],
+      "answer": 0,
+      "vi": "Hỏi: Vì sao tác giả cho rằng \"②trước khi mua máy mới, cả nhà cần bàn xem mình đòi hỏi sạch đến mức nào\"? → Đáp án: Vì việc nhà không giảm có liên quan đến chuyện mức \"sạch\" mà ta đòi hỏi đã cao lên, hơn là đến tính năng của máy.",
+      "why": "Câu kết không có tín hiệu lý do → nối với nội dung trước bằng 言い換え: 「どこまでの『きれい』を求めるのか」 lặp lại đúng từ khoá của lý do thứ nhất: 「『きれい』の{基準|きじゅん}そのものが{上|あ}がった」. Logic: nguyên nhân là tiêu chuẩn tăng → mua thêm máy không giải quyết được → phải xem lại tiêu chuẩn. Phương án 1 đúng chuỗi này.\n- (2) Bài nói việc nhà không tên 「人の{頭|あたま}が{担|にな}うしかない」, không nói phải giao cho một người.\n- (3) Chuyện máy mới ra liên tục: không có.\n- (4) Bẫy phóng đại 「すべて」 và 「機械に頼らずに」 — tác giả không phản đối máy móc."
+    },
+    {
+      "id": "d09-t3",
+      "kind": "passage",
+      "pass": "p7",
+      "q": "{若手|わかて}{社員|しゃいん}の多くが{会議|かいぎ}で{意見|いけん}を言わないのはなぜだと{筆者|ひっしゃ}は{考|かんが}えているか。",
+      "options": [
+        "{仕事|しごと}に{対|たい}するやる{気|き}がなく、会議に{興味|きょうみ}がないから",
+        "会議の時間が{短|みじか}く、{発言|はつげん}する{機会|きかい}がほとんどないから",
+        "自分の意見が{正|ただ}しいかどうかを、{事前|じぜん}に{確|たし}かめる時間がないから",
+        "まだまとまっていない{考|かんが}えを口にするのは、{危|あぶ}ないことだと{思|おも}っているから"
+      ],
+      "answer": 3,
+      "vi": "Hỏi: Theo tác giả, vì sao nhiều nhân viên trẻ không phát biểu trong cuộc họp? → Đáp án: Vì họ nghĩ rằng nói ra một suy nghĩ chưa thành hình là việc nguy hiểm.",
+      "why": "Đoạn 2: 「ただ、『{完成|かんせい}した意見』でなければ口に出してはいけないと{思|おも}い{込|こ}んでいる**のである**」 và 「まだ{形|かたち}になっていない考えを{人前|ひとまえ}で話すことは、大きな{危険|きけん}を{伴|ともな}う{行為|こうい}**なのだ**」 — hai câu 〜のだ giải thích lý do. Phương án 4 nói lại 「形になっていない」→「まとまっていない」, 「危険」→「危ない」.\n- (1) Bẫy (e): đây là quan điểm của một số quản lý (「と考える人もいるようだ」) mà tác giả **bác bỏ** bằng 「しかし…事情は少し{違|ちが}っていた」.\n- (2) Bài không nói cuộc họp ngắn.\n- (3) Lệch ý: vấn đề không phải thiếu thời gian kiểm tra, mà là niềm tin \"chưa hoàn chỉnh thì không được nói\"."
+    },
+    {
+      "id": "d09-t4",
+      "kind": "passage",
+      "pass": "p7",
+      "q": "{筆者|ひっしゃ}が[[u1:{若手|わかて}が{黙|だま}っているのは、{能力|のうりょく}や{意欲|いよく}の{問題|もんだい}ではない]]と言えるのはなぜか。",
+      "options": [
+        "若手の{社員|しゃいん}たちは、{管理職|かんりしょく}よりも多くの{知識|ちしき}を{持|も}っているから",
+        "{不完全|ふかんぜん}な{意見|いけん}も{批判|ひはん}しないと{決|き}めたら、若手が{次々|つぎつぎ}に{発言|はつげん}するようになった{会社|かいしゃ}があるから",
+        "{学校|がっこう}で{正|ただ}しい{答|こた}えを言う{訓練|くんれん}を{受|う}けてきたので、能力は{十分|じゅうぶん}にあるから",
+        "若手社員{自身|じしん}が、やる{気|き}はあると管理職に{説明|せつめい}しているから"
+      ],
+      "answer": 1,
+      "vi": "Hỏi: Vì sao tác giả có thể nói \"①việc người trẻ im lặng không phải là vấn đề năng lực hay ý chí\"? → Đáp án: Vì có công ty, khi quy định không phê phán ý kiến chưa hoàn chỉnh, thì nhân viên trẻ đã lần lượt phát biểu.",
+      "why": "Đây là câu hỏi về **căn cứ** cho kết luận. Câu gạch chân ở đoạn cuối không có tín hiệu; căn cứ nằm ở đoạn 3 ngay trước: chỉ cần đổi **luật lệ / bầu không khí** (không phê phán) là 「それまでほとんど発言しなかった若手が、次々に口を{開|ひら}くようになった」. Người trẻ không đổi năng lực hay ý chí trong 10 phút — chỉ môi trường thay đổi → nên vấn đề không nằm ở họ. Phương án 2 đúng.\n- (1) So sánh kiến thức với quản lý: không có.\n- (3) Lấy chi tiết 「学校」 nhưng bóp méo: trường học trong bài là nguồn gốc của **nỗi sợ**, không phải bằng chứng năng lực.\n- (4) Bài không nói người trẻ giải thích với quản lý; tác giả là người đi hỏi chuyện."
+    }
+  ]
+}

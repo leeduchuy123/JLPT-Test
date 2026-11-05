@@ -1,0 +1,290 @@
+{
+  "id": "d05",
+  "track": "dokkai",
+  "intro": "Trong phần 評論・エッセイ của đề N2, câu hỏi xuất hiện nhiều nhất là 「この{文章|ぶんしょう}で{筆者|ひっしゃ}が{最|もっと}も{言|い}いたいことは{何|なに}か」 (Điều tác giả muốn nói nhất là gì?). Bài này dạy cách trả lời câu đó **một cách có hệ thống** thay vì đọc cảm tính.\n\nÝ kiến của tác giả gần như luôn nằm ở những câu có **主張表現** — các đuôi câu cho biết \"đây là ý của tôi\": 〜と{思|おも}う, 〜べきだ, 〜なければならない, 〜てはいけない, 〜のではないか, 〜だろう… Nên việc đầu tiên là **săn các đuôi câu này** và gạch chân chúng.\n\nNhưng không phải câu nào có 「と思う」 cũng là ý chính. Có ba cái bẫy:\n- **Ý của người khác / của xã hội** mà tác giả nêu ra để phản bác: 「〜と{言|い}う{人|ひと}もいる」「〜と{言|い}われている」.\n- **Câu nhượng bộ**: 「{確|たし}かに〜だろう」「もちろん〜」 — tác giả thừa nhận một phần, rồi **しかし** mới nói ý thật.\n- **Ví dụ, trải nghiệm cá nhân**: chỉ là bằng chứng cho ý chính, không phải bản thân ý chính.\n\nNgoài ra, đề hay hỏi 「筆者は〜をどう{考|かんが}えているか」 — tức là tác giả **đánh giá cao hay thấp** điều gì. Hãy để ý các từ đánh giá: 「〜にすぎない」「{単|たん}なる〜」「〜だけ」 (đánh giá thấp) ↔ 「〜こそ」「{大切|たいせつ}だ」「{欠|か}かせない」 (đánh giá cao).\n\nKỹ năng này kết hợp trực tiếp với [対比] (d01) và [疑問提示文] (d04): ý của tác giả thường là **vế được bênh vực** trong phép đối lập, và là **câu trả lời** cho câu hỏi tác giả tự đặt ra.",
+  "strategy": [
+    {
+      "title": "Bước 1 · Đọc lướt, tìm từ khoá để đoán chủ đề",
+      "body": "Đọc nhanh cả bài một lượt, để ý những danh từ **lặp lại nhiều lần** (vd: 翻訳アプリ, 外国語, 学ぶ). Chủ đề = \"tác giả đang bàn về cái gì?\". Chưa cần hiểu hết từng câu.\n\nMẹo: câu đầu bài thường nêu **hiện tượng / ý kiến phổ biến** (最近〜が増えている, 〜と言う人も多い). Đây thường là \"điểm xuất phát\" mà tác giả sẽ đồng ý hoặc phản bác — **chưa phải** ý của tác giả."
+    },
+    {
+      "title": "Bước 2 · Gạch chân mọi câu có 主張表現",
+      "body": "Quét **đuôi câu** (tiếng Nhật đặt ý kiến ở cuối câu!). Gạch chân các câu kết thúc bằng:\n- Mạnh: 〜べきだ, 〜なければならない, 〜てはいけない, 〜必要がある, 〜ことが大切だ\n- Vừa: 〜と思う, 〜と考える, 〜のだ / 〜のである (khẳng định kết luận)\n- Mềm (nhưng vẫn là ý kiến!): 〜のではないか, 〜のではないだろうか, 〜ではないか, 〜はしないか, 〜だろう, 〜てはどうだろうか, 〜のかもしれない (ở câu kết)\n\nNgười Việt hay bỏ sót nhóm **mềm**: 「〜のではないだろうか」 nhìn như câu hỏi nhưng thực chất là **\"tôi cho rằng…\"**. Đây là cách người Nhật nói ý kiến một cách khiêm tốn."
+    },
+    {
+      "title": "Bước 3 · Phân loại: ý của AI? câu đó đóng vai trò gì?",
+      "body": "Với mỗi câu vừa gạch, hỏi hai câu:\n\n**(a) Của ai?**\n- 「〜と言う人もいる」「〜と言われている」「〜という声もある」「〜とされる」 → ý **người khác**, thường bị tác giả phản bác.\n- Câu có chủ ngữ ẩn là tác giả + 主張表現 → ý **tác giả**.\n\n**(b) Vai trò?**\n- 「確かに / もちろん / 〜かもしれない(が) / 〜のはわかる」 **theo sau là しかし・だが・ただ** → **nhượng bộ**: tác giả thừa nhận nhưng đây KHÔNG phải ý chính.\n  (Còn 「〜のかもしれない」 đứng ở **câu kết**, không có しかし theo sau, thì là chủ trương nói mềm — vẫn là ý tác giả.)\n- Ngay sau 「しかし / だが / ただ / けれども」 → thường là **ý chính**.\n\nCông thức kinh điển: **[ý phổ biến] → 確かに [nhượng bộ] → しかし [ý tác giả] → [lý do, ví dụ] → [kết luận nhắc lại ý tác giả]**."
+    },
+    {
+      "title": "Bước 4 · Đọc 評価: tác giả đánh giá cao / thấp cái gì",
+      "body": "Đề hay có hai thứ được so sánh (A ↔ B). Tìm từ đánh giá gắn vào từng vế:\n- **Đánh giá thấp**: 〜にすぎない, 単なる〜, 〜だけだ, 〜ばかり, 〜てしまう, もったいない, 〜とは言えない\n- **Đánh giá cao**: 〜こそ, 〜てこそ, 大切だ, 重要だ, 欠かせない, 価値がある, 意味がある\n\nVí dụ: 「機械が訳すのは表面の意味**にすぎない**」 → tác giả đánh giá thấp dịch máy (về mặt hiểu sâu). 「不便だ**からこそ**〜」 → tác giả đánh giá cao cái \"bất tiện\".\n\nTác giả đứng ở vế nào thì ý chính là vế đó."
+    },
+    {
+      "title": "Bước 5 · Tóm ý chính thành MỘT câu",
+      "body": "Ý chính thường nằm ở **đoạn cuối** (kiểu 尾括型), đôi khi ở đầu và được nhắc lại ở cuối (双括型). Gộp các câu ý kiến lại và tự viết một câu ngắn trong đầu, theo khuôn:\n- \"X không chỉ là A, mà quan trọng là B\"\n- \"Dù A có mặt tốt, nhưng nên B\"\n- \"Cần B (vì C)\"\n\nNếu bạn tóm được câu này **trước khi** đọc phương án, bạn sẽ ít bị phương án nhiễu kéo đi."
+    },
+    {
+      "title": "Bước 6 · So với phương án, loại theo 5 kiểu bẫy",
+      "body": "Phương án sai trong câu 「最も言いたいこと」 hầu như rơi vào một trong các kiểu:\n- **Ý nhượng bộ**: đúng với bài nhưng là phần 確かに〜, không phải ý chính.\n- **Ý của người khác**: lấy từ câu 「〜と言う人もいる」.\n- **Chỉ là chi tiết / ví dụ**: đúng nhưng quá hẹp, không phải điều tác giả \"muốn nói nhất\".\n- **Nói quá**: thêm 必ず, いつも, すべて, 〜は不要だ, 〜するな… trong khi tác giả nói mềm.\n- **Ngược ý / sai quan hệ nhân quả**: ghép các từ trong bài nhưng nối sai.\n\nPhương án đúng thường **diễn đạt lại** (言い換え) ý chính bằng từ khác, ít khi chép nguyên văn."
+    }
+  ],
+  "signals": [
+    {"ja": "〜と{思|おも}う／〜と{考|かんが}える", "vi": "tôi nghĩ / tôi cho rằng", "note": "Dạng ý kiến cơ bản nhất. 「〜と思われる」 = \"có vẻ như / người ta cho rằng\", khách quan hơn một chút nhưng vẫn thường là ý tác giả."},
+    {"ja": "〜べきだ／〜べきではない", "vi": "nên / không nên (mạnh, mang tính chuẩn mực)", "note": "Rất hay là câu chủ trương chính. 「〜べきではないだろうか」 = \"chẳng phải nên… sao\" → vẫn là \"nên\"."},
+    {"ja": "〜なければならない／〜{必要|ひつよう}がある", "vi": "phải / cần phải", "note": "「〜ことが{求|もと}められる」 cũng cùng nhóm."},
+    {"ja": "〜てはいけない／〜てはならない", "vi": "không được", "note": "Thường dùng để đặt giới hạn: 「もちろん〜てはいけない。だが…」 → giới hạn đi kèm ý chính."},
+    {"ja": "〜のではないか／〜のではないだろうか", "vi": "chẳng phải là… sao (= tôi cho rằng…)", "note": "Hình thức là câu hỏi nhưng ý là **khẳng định mềm**. 「{雑談|ざつだん}にも{意味|いみ}があるのではないか」 = tôi cho rằng tán gẫu cũng có ý nghĩa. Lưu ý: cùng hình thức này cũng có thể là **câu hỏi nêu vấn đề** (d04) khi đứng ở đầu bài và phần sau mới bàn; ở cuối đoạn / cuối bài thì gần như luôn là chủ trương."},
+    {"ja": "〜ではないか／〜じゃないか", "vi": "chẳng phải là… đó sao (phản vấn)", "note": "「〜だけではないか」 = \"chẳng phải chỉ là… sao\" → phê phán."},
+    {"ja": "〜はしないか／〜ことになりはしないか", "vi": "liệu có… không (lo ngại)", "note": "Diễn tả **lo ngại** của tác giả: 「大事なものを{失|うしな}うことになりはしないか」 = tôi e rằng sẽ đánh mất điều quan trọng."},
+    {"ja": "〜だろう／〜であろう", "vi": "có lẽ / chắc là", "note": "Phỏng đoán của tác giả. Đi với 確かに thì là nhượng bộ: 「確かに機械のほうが早いだろう」."},
+    {"ja": "〜ことが{大切|たいせつ}だ／{重要|じゅうよう}だ／{欠|か}かせない", "vi": "điều quan trọng là… / không thể thiếu", "note": "Đánh giá cao. 「大切なのは〜ことだ」 gần như luôn là ý chính."},
+    {"ja": "〜こそ／〜てこそ／〜からこそ", "vi": "chính… mới… / chính vì… mà…", "note": "Nhấn mạnh điều tác giả đánh giá cao: 「{失敗|しっぱい}してこそ{学|まな}べる」."},
+    {"ja": "〜にすぎない／{単|たん}なる〜／〜だけだ", "vi": "chỉ là… mà thôi", "note": "Đánh giá **thấp**: 「それは{単|たん}なる{記録|きろく}にすぎない」."},
+    {"ja": "〜わけではない／〜とは{限|かぎ}らない／〜とは{言|い}えない", "vi": "không hẳn là / chưa chắc / không thể nói là", "note": "Phủ định một phần → tác giả **không cực đoan**. Phương án nói tuyệt đối (すべて悪い) sẽ sai."},
+    {"ja": "〜てはどうだろうか／〜てみてはどうか", "vi": "thử… xem sao", "note": "Đề nghị — thường ở đoạn cuối, chính là ý tác giả muốn người đọc làm."},
+    {"ja": "{確|たし}かに〜。しかし〜／もちろん〜。だが〜", "vi": "đúng là… nhưng…", "note": "Khuôn **nhượng bộ → chủ trương**. Ý chính nằm sau しかし／だが."},
+    {"ja": "〜と{言|い}う{人|ひと}もいる／〜と{言|い}われる／〜という{声|こえ}もある", "vi": "có người nói / người ta nói", "note": "**Không phải** ý tác giả. Thường là ý kiến mà tác giả sắp phản bác."}
+  ],
+  "passages": {
+    "p1": {
+      "title": "翻訳アプリと外国語学習",
+      "kind": "評論",
+      "ja": "{最近|さいきん}は{翻訳|ほんやく}アプリの{性能|せいのう}が{驚|おどろ}くほど{上|あ}がり、{海外|かいがい}{旅行|りょこう}で{言葉|ことば}に{困|こま}ることはほとんどなくなった。そのため、「もう{外国語|がいこくご}を{苦労|くろう}して{学|まな}ぶ{必要|ひつよう}はない」と{言|い}う人も{少|すく}なくない。\n\n{確|たし}かに、{情報|じょうほう}を{正確|せいかく}にやり{取|と}りするだけなら、{機械|きかい}に{任|まか}せたほうが早いし、{間違|まちが}いも少ないだろう。{仕事|しごと}の{書類|しょるい}を読むような{場面|ばめん}では、私{自身|じしん}もよく{利用|りよう}している。\n\nしかし、外国語を学ぶ{意味|いみ}は、情報を{交換|こうかん}することだけにあるのだろうか。たとえば、どの{言語|げんご}にも、{日本語|にほんご}にどうしても{訳|やく}せない言葉がある。そうした言葉に{出会|であ}い、「なぜこの人たちはこういう言い{方|かた}をするのだろう」と{考|かんが}えるとき、私たちは{相手|あいて}の{文化|ぶんか}や{物|もの}の{見方|みかた}に少しずつ{近|ちか}づいていく。うまく言えずにもどかしい{思|おも}いをしながら、それでも{何|なん}とか{伝|つた}えようとする{経験|けいけん}も、相手の{立場|たちば}を{想像|そうぞう}する{力|ちから}を{育|そだ}ててくれる。\n\n機械が訳してくれるのは、言葉の{表面|ひょうめん}の意味にすぎない。その{奥|おく}にある考え方まで{理解|りかい}したいと思うなら、{遠回|とおまわ}りに見えても{自分|じぶん}で言葉を学ぶべきではないだろうか。{便利|べんり}な{道具|どうぐ}があるからこそ、学ぶことの{価値|かち}を{改|あらた}めて考えたいと思う。",
+      "vi": "Gần đây hiệu năng của các ứng dụng dịch đã tăng lên đến mức đáng kinh ngạc, khi đi du lịch nước ngoài hầu như không còn gặp khó khăn về ngôn ngữ nữa. Vì vậy, không ít người nói rằng: “Không cần phải vất vả học ngoại ngữ nữa.”\n\nĐúng là nếu chỉ để trao đổi thông tin một cách chính xác thì giao cho máy sẽ nhanh hơn, và có lẽ cũng ít sai sót hơn. Trong những tình huống như đọc tài liệu công việc, bản thân tôi cũng thường xuyên sử dụng.\n\nThế nhưng, ý nghĩa của việc học ngoại ngữ chỉ nằm ở việc trao đổi thông tin thôi sao? Chẳng hạn, ngôn ngữ nào cũng có những từ không sao dịch được sang tiếng Nhật. Khi bắt gặp những từ như vậy và suy nghĩ “Tại sao những người này lại nói theo cách như thế nhỉ?”, chúng ta dần dần tiến gần hơn tới văn hoá và cách nhìn sự vật của đối phương. Trải nghiệm vừa bứt rứt vì không nói được trôi chảy, vừa cố gắng bằng mọi cách truyền đạt cho được, cũng nuôi dưỡng khả năng tưởng tượng đến lập trường của người khác.\n\nThứ mà máy dịch cho chúng ta chỉ là nghĩa bề mặt của từ ngữ mà thôi. Nếu muốn hiểu cả lối suy nghĩ nằm sâu bên trong đó, chẳng phải dù có vẻ đi đường vòng, chúng ta vẫn nên tự mình học ngôn ngữ hay sao? Chính vì có công cụ tiện lợi, tôi muốn suy nghĩ lại một lần nữa về giá trị của việc học."
+    },
+    "p2": {
+      "title": "口コミで店を選ぶ",
+      "kind": "エッセイ",
+      "ja": "知らない{町|まち}で{食事|しょくじ}をするとき、スマートフォンで{口|くち}コミの{点数|てんすう}を{調|しら}べてから{店|みせ}を{選|えら}ぶ人が多い。{失敗|しっぱい}したくない{気持|きも}ちはよくわかる。しかし、点数の高い店ばかり{回|まわ}るのは、{他人|たにん}が決めた{正解|せいかい}をなぞっているだけではないか。{先日|せんじつ}、{出張|しゅっちょう}{先|さき}で{地図|ちず}も見ずに{歩|ある}き、{古|ふる}びた{食堂|しょくどう}にふらりと入った。{味|あじ}は{期待|きたい}{以上|いじょう}でもなかったが、{店主|てんしゅ}と{交|か}わした{何気|なにげ}ない{会話|かいわ}は今でも{覚|おぼ}えている。自分で選んで、ときには{外|はず}れる。そうした小さな{冒険|ぼうけん}があってこそ、{旅|たび}は自分だけのものになるのだと思う。",
+      "vi": "Khi ăn uống ở một thị trấn lạ, nhiều người tra điểm đánh giá trên điện thoại rồi mới chọn quán. Tôi rất hiểu tâm lý không muốn thất bại. Nhưng chỉ đi vòng quanh những quán có điểm cao, chẳng phải là chỉ đang lần theo “đáp án đúng” do người khác quyết định thôi sao? Hôm trước, ở nơi đi công tác, tôi đi bộ mà không xem bản đồ và tạt ngang vào một quán ăn cũ kỹ. Vị món ăn cũng không hơn mong đợi, nhưng cuộc trò chuyện bâng quơ với chủ quán thì đến giờ tôi vẫn còn nhớ. Tự mình chọn, và đôi khi chọn trượt. Tôi nghĩ chính nhờ có những cuộc phiêu lưu nho nhỏ như thế mà chuyến đi mới trở thành của riêng mình."
+    },
+    "p3": {
+      "title": "雑談は無駄か",
+      "kind": "評論",
+      "ja": "{在宅|ざいたく}{勤務|きんむ}が{広|ひろ}がり、{職場|しょくば}での{雑談|ざつだん}が{減|へ}った。{用件|ようけん}だけを{伝|つた}え{合|あ}えばよいので{効率的|こうりつてき}だと{歓迎|かんげい}する{声|こえ}もある。{実際|じっさい}、{会議|かいぎ}の時間が{短|みじか}くなり、自分の{作業|さぎょう}に{集中|しゅうちゅう}できるようになったという{調査|ちょうさ}{結果|けっか}もあるそうだ。\n\nだが、雑談は{本当|ほんとう}に「{無駄|むだ}な時間」なのだろうか。私が{以前|いぜん}{勤|つと}めていた{会社|かいしゃ}では、大きな{失敗|しっぱい}の多くが、{担当者|たんとうしゃ}が一人で問題を{抱|かか}え{込|こ}んだことから{起|お}きていた。{逆|ぎゃく}に、{廊下|ろうか}での{立|た}ち{話|ばなし}の中で「{実|じつ}はちょっと{困|こま}っていて」という{一言|ひとこと}が出て、早めに{手|て}が{打|う}てたことは{数|かぞ}えきれない。{正式|せいしき}な{報告|ほうこく}の場では言いにくいことも、{気軽|きがる}な{会話|かいわ}の中でなら{口|くち}にしやすい。雑談は、問題が小さいうちに{表|おもて}に出てくる{通|とお}り{道|みち}の{役割|やくわり}を{果|は}たしていたのである。\n\nもちろん、雑談を{義務|ぎむ}にすればよいというわけではない。話したくない人に{無理|むり}に話させれば、かえって{負担|ふたん}になるだけだ。{大切|たいせつ}なのは、いつでも気軽に{声|こえ}をかけられる{雰囲気|ふんいき}を、{意識|いしき}して作っておくことだろう。オンラインでも、会議の前の{数分|すうふん}を{自由|じゆう}な会話に使うといった{工夫|くふう}はできるはずだ。効率だけを{基準|きじゅん}に職場の時間を{測|はか}っていると、[[u:{目|め}に見えない{大事|だいじ}なものを{失|うしな}うことになりはしないか]]。",
+      "vi": "Làm việc tại nhà lan rộng, những cuộc tán gẫu ở nơi làm việc đã giảm đi. Cũng có ý kiến hoan nghênh vì chỉ cần truyền đạt cho nhau đúng việc cần thiết nên hiệu quả. Thực tế, nghe nói còn có kết quả khảo sát cho thấy thời gian họp đã ngắn lại và mọi người có thể tập trung vào công việc của mình hơn.\n\nNhưng tán gẫu có thật sự là “thời gian vô ích” không? Ở công ty tôi từng làm trước đây, phần lớn những thất bại lớn đều bắt nguồn từ việc người phụ trách ôm một mình vấn đề. Ngược lại, có vô số lần trong lúc đứng nói chuyện ngoài hành lang, một câu “Thật ra tôi đang hơi gặp khó…” được thốt ra, nhờ đó mà xử lý được sớm. Những điều khó nói ở buổi báo cáo chính thức thì trong cuộc trò chuyện thoải mái lại dễ nói ra hơn. Tán gẫu đã đóng vai trò là con đường để vấn đề lộ ra khi nó còn nhỏ.\n\nTất nhiên, không phải cứ biến tán gẫu thành nghĩa vụ là được. Nếu bắt người không muốn nói phải nói, điều đó chỉ thành gánh nặng mà thôi. Điều quan trọng có lẽ là chủ động tạo sẵn một bầu không khí mà lúc nào cũng có thể thoải mái bắt chuyện. Ngay cả trực tuyến, chắc chắn cũng có thể có những cách làm như dành vài phút trước cuộc họp để trò chuyện tự do. Nếu cứ đo thời gian ở nơi làm việc chỉ bằng thước đo hiệu quả, liệu chúng ta có đánh mất những thứ quan trọng không nhìn thấy được hay không?"
+    },
+    "p4": {
+      "title": "子どもの「なぜ」",
+      "kind": "エッセイ",
+      "ja": "子どもに「どうして{空|そら}は{青|あお}いの？」と聞かれると、{大人|おとな}はつい{正|ただ}しい{答|こた}えを{急|いそ}いで教えようとする。{最近|さいきん}はスマートフォンで{調|しら}べればすぐにわかるので、なおさらだ。しかし、すぐに答えを{与|あた}えてしまうと、子どもは「わからないことは{誰|だれ}かに聞けばいい」と{覚|おぼ}えるだけかもしれない。答えを知ること{自体|じたい}よりも、自分で{考|かんが}えてみる時間のほうが、ずっと{価値|かち}があるのではないか。「あなたはどう思う？」と聞き{返|かえ}し、たとえ{見当違|けんとうちが}いの答えでも{面白|おもしろ}がって聞いてやる。そういう大人の{態度|たいど}こそが、子どもの考える{力|ちから}を{伸|の}ばすのだと思う。",
+      "vi": "Khi bị trẻ con hỏi “Tại sao bầu trời lại màu xanh?”, người lớn thường vội vàng muốn dạy ngay câu trả lời đúng. Gần đây chỉ cần tra trên điện thoại là biết ngay nên lại càng như vậy. Thế nhưng, nếu đưa ngay câu trả lời, có lẽ đứa trẻ chỉ học được rằng “điều gì không biết thì cứ hỏi ai đó là được”. Chẳng phải thời gian tự mình thử suy nghĩ có giá trị hơn nhiều so với bản thân việc biết câu trả lời hay sao? Hỏi lại “Thế con nghĩ sao?”, và dù là câu trả lời trật lất cũng thích thú lắng nghe. Tôi nghĩ chính thái độ như vậy của người lớn mới phát triển được năng lực suy nghĩ của trẻ."
+    },
+    "p5": {
+      "title": "要約で「読んだ」ことにしていいのか",
+      "kind": "評論",
+      "ja": "{忙|いそが}しい人のために、{話題|わだい}の本の{内容|ないよう}を{十分|じっぷん}ほどで{紹介|しょうかい}する{要約|ようやく}サービスが{人気|にんき}を{集|あつ}めている。一冊を{読|よ}み{通|とお}す時間がない人でも、{重要|じゅうよう}な{点|てん}だけを{効率|こうりつ}よく知ることができるというわけだ。\n\n私はこうしたサービスを{否定|ひてい}するつもりはない。{仕事|しごと}に{必要|ひつよう}な{知識|ちしき}を{短時間|たんじかん}で集めたいときには、{確|たし}かに{役|やく}に{立|た}つ。どの本を読むか{選|えら}ぶための{手|て}がかりにもなるだろう。\n\nただ、要約で本を「読んだ」ことにしてしまうのは、少しもったいない気がする。本を読むという{行為|こうい}は、{結論|けつろん}を受け取ることだけではない。{筆者|ひっしゃ}がどんな{疑問|ぎもん}から{出発|しゅっぱつ}し、どんな{回|まわ}り{道|みち}をして結論にたどり着いたのか。その{道|みち}のりを一緒にたどる中で、{読者|どくしゃ}は自分の{考|かんが}えと{比|くら}べたり、ときには{反発|はんぱつ}したりする。そうした心の{動|うご}きは、要約された{数行|すうぎょう}からは{決|けっ}して生まれない。\n\n{小説|しょうせつ}ならなおさらだ。あらすじを知っていても、{登場|とうじょう}{人物|じんぶつ}と同じ時間を{過|す}ごしたことにはならない。むしろ、{結末|けつまつ}を知っていることで、ページをめくる楽しみが{失|うしな}われてしまうこともある。\n\n{情報|じょうほう}を{得|え}るための{読書|どくしょ}と、考えるための読書。その二つを{区別|くべつ}し、少なくとも{後者|こうしゃ}については、時間をかけて一冊と{付|つ}き{合|あ}うべきではないだろうか。",
+      "vi": "Dịch vụ tóm tắt giới thiệu nội dung những cuốn sách đang được bàn tán trong khoảng mười phút, dành cho người bận rộn, đang được ưa chuộng. Ý là ngay cả người không có thời gian đọc hết một cuốn cũng có thể biết được những điểm quan trọng một cách hiệu quả.\n\nTôi không có ý phủ nhận những dịch vụ như vậy. Khi muốn thu thập kiến thức cần cho công việc trong thời gian ngắn thì đúng là chúng có ích. Có lẽ chúng còn là manh mối để chọn xem nên đọc cuốn nào.\n\nChỉ có điều, nếu coi đọc bản tóm tắt là đã “đọc” cuốn sách thì tôi thấy hơi phí. Hành vi đọc sách không chỉ là tiếp nhận kết luận. Tác giả đã xuất phát từ nghi vấn nào, đi qua những đường vòng nào để đến được kết luận? Trong khi cùng lần theo chặng đường đó, người đọc so sánh với suy nghĩ của chính mình, có khi còn phản đối. Những chuyển động trong lòng như thế tuyệt đối không thể nảy sinh từ vài dòng tóm tắt.\n\nVới tiểu thuyết thì càng như vậy. Dù biết cốt truyện, điều đó không có nghĩa là đã trải qua cùng khoảng thời gian với các nhân vật. Trái lại, việc biết trước kết cục có khi còn làm mất đi niềm vui lật từng trang sách.\n\nĐọc sách để lấy thông tin, và đọc sách để suy nghĩ. Chẳng phải chúng ta nên phân biệt hai loại đó, và ít nhất với loại sau thì nên dành thời gian gắn bó với trọn một cuốn sách hay sao?"
+    },
+    "p6": {
+      "title": "ボランティアと自己満足",
+      "kind": "エッセイ",
+      "ja": "「ボランティアなんて、{結局|けっきょく}は{自己|じこ}{満足|まんぞく}だ」という{声|こえ}を聞くことがある。人に{感謝|かんしゃ}されたい、{就職|しゅうしょく}の{面接|めんせつ}で話せる{経験|けいけん}がほしい。そうした{動機|どうき}で{参加|さんか}する人がいるのは{事実|じじつ}だろう。しかし、{被災地|ひさいち}で{泥|どろ}をかき出してもらった人にとって、{手伝|てつだ}った人の心の中がどうであったかは、それほど{重要|じゅうよう}ではない。動機が{純粋|じゅんすい}かどうかを問題にして何もしないでいるよりは、まず{動|うご}いてみるほうがよほど{意味|いみ}がある。もちろん、{相手|あいて}の{迷惑|めいわく}になるような{身勝手|みがって}な{行動|こうどう}をしてはいけない。だが、それさえ{守|まも}れば、「自分のため」という{気持|きも}ちが少し{混|ま}じっていても、{恥|は}じる{必要|ひつよう}はないのではないか。",
+      "vi": "Đôi khi tôi nghe thấy ý kiến “Tình nguyện gì chứ, rốt cuộc cũng chỉ là tự thoả mãn bản thân.” Muốn được người khác cảm ơn, muốn có trải nghiệm để kể trong buổi phỏng vấn xin việc. Việc có những người tham gia với động cơ như vậy có lẽ là sự thật. Nhưng đối với người ở vùng bị thiên tai được giúp xúc bùn ra, trong lòng người giúp mình nghĩ gì không quan trọng đến thế. So với việc cứ đặt vấn đề động cơ có trong sáng hay không rồi không làm gì cả, thì thử hành động trước còn có ý nghĩa hơn nhiều. Tất nhiên, không được có những hành động ích kỷ gây phiền cho người khác. Nhưng chỉ cần giữ được điều đó, thì dù có lẫn một chút tâm lý “vì bản thân”, chẳng phải cũng không cần phải xấu hổ sao?"
+    },
+    "p7": {
+      "title": "「普通」という物差し",
+      "kind": "評論",
+      "ja": "「{普通|ふつう}はこうするものだ」という言い方を、私たちは{日常的|にちじょうてき}によく使う。{服装|ふくそう}や{言葉遣|ことばづか}い、{働|はたら}き{方|かた}や{家族|かぞく}の{形|かたち}まで、「普通」は{至|いた}るところで{判断|はんだん}の{基準|きじゅん}になっている。\n\n{確|たし}かに、多くの人が{共有|きょうゆう}している「普通」があるおかげで、{社会|しゃかい}はある{程度|ていど}スムーズに{動|うご}いている。{初|はじ}めて会った人とでも、お{互|たが}いに{相手|あいて}の{行動|こうどう}をある程度{予想|よそう}できるからだ。その{意味|いみ}で、「普通」という{感覚|かんかく}がすべて悪いわけではない。\n\n問題は、「普通」が、ある{時代|じだい}のある場所での{多数派|たすうは}の{習慣|しゅうかん}にすぎないことを、私たちがつい{忘|わす}れてしまう点にある。{三十年|さんじゅうねん}{前|まえ}の「普通の{家庭|かてい}」と今のそれとでは、ずいぶん{姿|すがた}が{違|ちが}う。にもかかわらず、自分が{慣|な}れ{親|した}しんだ「普通」を{唯一|ゆいいつ}の正しい形のように{思|おも}い{込|こ}み、そこから{外|はず}れた人を「{変|か}わった人」と{見|み}なしてしまう。そのとき「普通」は、{単|たん}なる{目安|めやす}から、{他人|たにん}を{縛|しば}る{物差|ものさ}しへと{変|か}わってしまうのである。\n\n「普通は」と言いたくなったら、一度{立|た}ち{止|ど}まって、それが{誰|だれ}にとっての「普通」なのかを{考|かんが}えてみてはどうだろうか。自分の基準が{絶対|ぜったい}ではないと知ることは、他人の生き方を{尊重|そんちょう}する{第一歩|だいいっぽ}になるはずだ。",
+      "vi": "Chúng ta thường xuyên dùng cách nói “Bình thường thì người ta làm thế này.” Từ trang phục, cách ăn nói cho đến cách làm việc và hình thức gia đình, “bình thường” trở thành tiêu chuẩn phán đoán ở khắp mọi nơi.\n\nĐúng là nhờ có cái “bình thường” mà nhiều người cùng chia sẻ, xã hội vận hành trơn tru ở một mức độ nào đó. Bởi vì ngay cả với người mới gặp lần đầu, chúng ta cũng có thể dự đoán được hành động của nhau ở một mức độ nào đó. Theo nghĩa đó, không phải cảm giác “bình thường” là hoàn toàn xấu.\n\nVấn đề nằm ở chỗ chúng ta hay quên mất rằng “bình thường” chỉ là tập quán của số đông ở một nơi nào đó, trong một thời đại nào đó mà thôi. “Gia đình bình thường” của ba mươi năm trước và của bây giờ có hình dáng khác nhau rất nhiều. Ấy vậy mà chúng ta lại đinh ninh cái “bình thường” mình đã quen thuộc là hình mẫu đúng duy nhất, và coi những người lệch khỏi nó là “người kỳ quặc”. Khi đó, “bình thường” từ một mốc tham khảo đơn thuần đã biến thành cây thước trói buộc người khác.\n\nKhi muốn nói “bình thường thì…”, sao ta không thử dừng lại một lần và nghĩ xem đó là cái “bình thường” đối với ai? Biết rằng tiêu chuẩn của mình không phải là tuyệt đối hẳn sẽ là bước đầu tiên để tôn trọng cách sống của người khác."
+    },
+    "p8": {
+      "title": "休むのも仕事のうち",
+      "kind": "エッセイ",
+      "ja": "「{休|やす}むのも{仕事|しごと}のうち」とよく言われる。しかし{実際|じっさい}には、休みの日にもメールを{確認|かくにん}しなければ{落|お}ち{着|つ}かないという人が多いのではないか。休むことに{罪悪感|ざいあくかん}を{覚|おぼ}えるのは、{休息|きゅうそく}を「働けなかった時間」としてしか見ていないからだろう。だが、{疲|つか}れた{頭|あたま}でいくら{机|つくえ}に{向|む}かっても、よい{考|かんが}えは{浮|う}かばない。しっかり休んだ{翌日|よくじつ}に、何日も{悩|なや}んでいた問題があっさり{解決|かいけつ}した{経験|けいけん}は、{誰|だれ}にでもあるはずだ。休息は仕事から{逃|に}げることではなく、次の仕事のための{準備|じゅんび}なのだ。そう考えれば、もっと{堂々|どうどう}と休んでいいと私は思う。",
+      "vi": "Người ta hay nói “Nghỉ ngơi cũng là một phần của công việc.” Nhưng trên thực tế, chẳng phải có nhiều người ngay cả ngày nghỉ mà không kiểm tra email thì không yên tâm hay sao? Cảm thấy tội lỗi khi nghỉ có lẽ là vì chúng ta chỉ nhìn sự nghỉ ngơi như “khoảng thời gian không làm việc được”. Nhưng với cái đầu mệt mỏi thì có ngồi vào bàn bao lâu đi nữa cũng không nảy ra ý hay. Ai cũng hẳn từng có trải nghiệm: ngày hôm sau khi nghỉ ngơi đầy đủ, vấn đề đã trăn trở mấy ngày bỗng được giải quyết dễ dàng. Nghỉ ngơi không phải là trốn tránh công việc mà là sự chuẩn bị cho công việc tiếp theo. Nghĩ như vậy thì tôi cho rằng chúng ta có thể nghỉ ngơi đường hoàng hơn."
+    }
+  },
+  "worked": [
+    {
+      "id": "d05-w1", "kind": "passage", "pass": "p1",
+      "q": "この{文章|ぶんしょう}で{筆者|ひっしゃ}が{最|もっと}も{言|い}いたいことは{何|なに}か。",
+      "options": [
+        "{翻訳|ほんやく}アプリは{間違|まちが}いが多いので、{仕事|しごと}では使わないほうがいい。",
+        "{外国語|がいこくご}を自分で{学|まな}ぶことは、{相手|あいて}の{考|かんが}え{方|かた}や{文化|ぶんか}を{理解|りかい}することにつながる。",
+        "{情報|じょうほう}を{正確|せいかく}にやり{取|と}りするためには、外国語を自分で学ばなければならない。",
+        "{日本語|にほんご}に{訳|やく}せない{言葉|ことば}を{覚|おぼ}えれば、外国語がうまく話せるようになる。"
+      ],
+      "answer": 1,
+      "vi": "Điều tác giả muốn nói nhất: Tự mình học ngoại ngữ sẽ dẫn đến việc hiểu được lối suy nghĩ và văn hoá của đối phương.",
+      "why": "Câu chủ trương: 「その奥にある考え方まで理解したいと思うなら、…自分で言葉を学ぶ**べきではないだろうか**」 (đoạn 4), cùng lý do ở đoạn 3: 「相手の文化や物の見方に少しずつ近づいていく」 → phương án 2 là cách nói lại ý này.\n- (1) Ngược bài: tác giả nói máy 「間違いも少ないだろう」 và chính tác giả dùng cho công việc.\n- (3) Đây là chỗ tác giả **nhượng bộ**: để trao đổi thông tin thì máy tốt hơn (確かに…). Phương án nói ngược lại.\n- (4) Ghép từ trong bài (訳せない言葉) nhưng sai quan hệ: từ không dịch được giúp hiểu văn hoá, không phải giúp \"nói giỏi\".",
+      "walkthrough": "**① Đọc câu hỏi**: 「最も言いたいこと」 → cần tìm câu chủ trương chính, không phải chi tiết.\n\n**② Từ khoá & chủ đề**: 翻訳アプリ, 外国語, 学ぶ lặp lại nhiều lần → chủ đề: \"Có app dịch rồi, có còn cần học ngoại ngữ không?\"\n\n**③ Gạch các đuôi câu 主張表現 và phân loại**:\n- Đoạn 1: 「もう外国語を苦労して学ぶ必要はない」と**言う人も少なくない** → ý **người khác** (bẫy).\n- Đoạn 2: **確かに**…機械に任せたほうが早いし、間違いも少ない**だろう** → **nhượng bộ**: tác giả thừa nhận máy giỏi việc trao đổi thông tin.\n- Đoạn 3: **しかし**、外国語を学ぶ意味は、情報を交換することだけにある**のだろうか** → câu hỏi nêu vấn đề (d04); câu trả lời ngầm: \"Không, còn ý nghĩa khác\". Ý nghĩa khác đó = 相手の文化や物の見方に近づく, 相手の立場を想像する力.\n- Đoạn 4: 表面の意味**にすぎない** (đánh giá thấp dịch máy về chiều sâu) → 自分で言葉を学ぶ**べきではないだろうか** (chủ trương, dạng mềm) → 学ぶことの価値を改めて考えたい**と思う**.\n\n**④ Đánh giá (評価)**: A = dịch máy → \"chỉ nghĩa bề mặt\" (thấp, về mặt hiểu sâu). B = tự học → \"tiến gần văn hoá, hiểu lập trường người khác\" (cao). Tác giả đứng phía B.\n\n**⑤ Tóm một câu**: \"Dù app dịch tiện cho trao đổi thông tin, muốn hiểu sâu lối nghĩ của người khác thì vẫn nên tự học ngôn ngữ.\"\n\n**⑥ Đối chiếu**: Chỉ phương án 2 khớp với câu tóm. Phương án 3 là bẫy \"lấy ngược phần nhượng bộ\"; phương án 1 là \"ngược bài\"; phương án 4 là \"ghép từ sai quan hệ\"."
+    },
+    {
+      "id": "d05-w2", "kind": "passage", "pass": "p2",
+      "q": "{筆者|ひっしゃ}は、{口|くち}コミの{点数|てんすう}で{店|みせ}を{選|えら}ぶことについてどう{考|かんが}えているか。",
+      "options": [
+        "{失敗|しっぱい}しないための{方法|ほうほう}として、最もすぐれている。",
+        "点数が高い店は、{実際|じっさい}には{味|あじ}がよくないことが多い。",
+        "{他人|たにん}の{評価|ひょうか}に{従|したが}っているだけで、自分の{旅|たび}の楽しみが生まれにくい。",
+        "{出張|しゅっちょう}のときは{便利|べんり}だが、{旅行|りょこう}のときは使うべきではない。"
+      ],
+      "answer": 2,
+      "vi": "Tác giả cho rằng chọn quán theo điểm đánh giá chỉ là làm theo đánh giá của người khác, khó tạo ra niềm vui riêng của chuyến đi.",
+      "why": "Câu đánh giá: 「点数の高い店ばかり回るのは、他人が決めた正解をなぞっている**だけではないか**」 (đánh giá thấp), và câu kết 「そうした小さな冒険があっ**てこそ**、旅は自分だけのものになる」 (đánh giá cao việc tự chọn) → phương án 3.\n- (1) Tác giả chỉ nói 「失敗したくない気持ちはよくわかる」 (nhượng bộ, hiểu tâm lý), không hề khen là \"tốt nhất\".\n- (2) Bài không nói quán điểm cao thì dở; quán dở/không hơn mong đợi là quán tác giả **tự chọn**.\n- (4) Bài không phân biệt công tác ↔ du lịch; chi tiết 出張 chỉ là bối cảnh ví dụ.",
+      "walkthrough": "**① Đọc câu hỏi**: 「〜についてどう考えているか」 → câu hỏi **評価**: tác giả coi việc chọn quán theo điểm là tốt hay không tốt, vì sao.\n\n**② Tìm hai vế đối lập**: A = 口コミの点数で選ぶ ↔ B = 地図も見ずに歩き…自分で選んで、ときには外れる.\n\n**③ Gắn từ đánh giá vào từng vế**:\n- A: 「〜**ばかり**回る」 (chỉ toàn…, sắc thái tiêu cực) + 「〜をなぞっている**だけではないか**」 (chẳng phải chỉ là… sao → phê phán).\n- B: 「小さな冒険があっ**てこそ**」 + 「自分だけのもの」 (đánh giá cao).\n\n**④ Câu nhượng bộ**: 「失敗したくない気持ちはよくわかる」 → tác giả hiểu lý do, nhưng ngay sau đó là **しかし**. Phương án 1 lợi dụng câu này để gài bẫy.\n\n**⑤ Chi tiết gây nhiễu**: Món ăn ở quán cũ 「期待以上でもなかった」 — không ngon lắm, nhưng tác giả vẫn coi trải nghiệm đó có giá trị. Đây là chứng cứ rằng giá trị không nằm ở \"ngon/dở\" mà ở \"tự mình chọn\". Phương án 2 bám sai vào chuyện vị ngon.\n\n**⑥ Kết luận**: A bị đánh giá là \"chỉ đi theo đáp án của người khác\" → không làm chuyến đi thành của riêng mình → phương án 3."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "d05-q1", "kind": "passage", "pass": "p3",
+      "q": "{筆者|ひっしゃ}によると、{雑談|ざつだん}にはどのような{役割|やくわり}があるか。",
+      "options": [
+        "{会議|かいぎ}の時間を{短|みじか}くし、{作業|さぎょう}に{集中|しゅうちゅう}できるようにする役割",
+        "{正式|せいしき}な{報告|ほうこく}の場で、問題をわかりやすく{説明|せつめい}する役割",
+        "小さな問題を、大きくなる前に{周|まわ}りに知らせるきっかけになる役割",
+        "話したくない人にも、{会話|かいわ}の{練習|れんしゅう}をさせる役割"
+      ],
+      "answer": 2,
+      "vi": "Theo tác giả, tán gẫu có vai trò là cơ hội để báo cho người xung quanh biết những vấn đề nhỏ trước khi chúng trở nên lớn.",
+      "why": "Câu kết đoạn 2: 「雑談は、問題が小さいうちに表に出てくる通り道の役割を果たしていた**のである**」 (〜のである = kết luận của tác giả) → phương án 3 nói lại ý này.\n- (1) Đây là tác dụng của việc **giảm** tán gẫu (kết quả khảo sát ở đoạn 1), không phải của tán gẫu.\n- (2) Ngược: tác giả nói chính vì là trò chuyện **không chính thức** nên mới dễ nói ra; buổi báo cáo chính thức thì 「言いにくい」.\n- (4) Tác giả nói bắt người không muốn nói phải nói thì 「かえって負担になるだけだ」 → phản đối."
+    },
+    {
+      "id": "d05-q2", "kind": "passage", "pass": "p3",
+      "q": "「[[u:{目|め}に見えない{大事|だいじ}なものを{失|うしな}うことになりはしないか]]」とあるが、どういう{意味|いみ}か。",
+      "options": [
+        "{効率|こうりつ}を{重視|じゅうし}しすぎると、{雑談|ざつだん}がもたらす大切なものを失ってしまうおそれがある。",
+        "効率を重視すれば、目に見えない{無駄|むだ}な時間を{減|へ}らすことができる。",
+        "雑談をすると、{仕事|しごと}に{必要|ひつよう}な時間が見えなくなってしまう。",
+        "雑談がなくなっても、大事なものを失うことはないだろう。"
+      ],
+      "answer": 0,
+      "vi": "Ý nghĩa: Nếu quá coi trọng hiệu quả, có nguy cơ đánh mất những điều quý giá mà tán gẫu mang lại.",
+      "why": "「〜はしないか」 là 主張表現 diễn tả **lo ngại** (\"tôi e rằng sẽ…\"), không phải câu hỏi thật. Vế trước 「効率だけを基準に職場の時間を測っていると」 = nếu chỉ dùng hiệu quả làm thước đo. \"Thứ quan trọng không nhìn thấy\" = tác dụng của tán gẫu đã nói ở đoạn 2 → phương án 1.\n- (2) Hiểu sai thành lợi ích của hiệu quả; tác giả đang cảnh báo, không khen.\n- (3) Ghép từ 見えない sai chỗ: không có ý \"tán gẫu làm mất thời gian\".\n- (4) Đọc 〜はしないか như phủ định → ngược nghĩa. Đây là bẫy kinh điển với người mới học."
+    },
+    {
+      "id": "d05-q3", "kind": "passage", "pass": "p3",
+      "q": "この{文章|ぶんしょう}で{筆者|ひっしゃ}が{最|もっと}も{言|い}いたいことは{何|なに}か。",
+      "options": [
+        "{在宅|ざいたく}{勤務|きんむ}は{効率|こうりつ}が悪いので、なるべく{会社|かいしゃ}に{出勤|しゅっきん}するべきだ。",
+        "{職場|しょくば}の{雑談|ざつだん}は、すべての{社員|しゃいん}の{義務|ぎむ}にしなければならない。",
+        "オンライン{会議|かいぎ}では、{最初|さいしょ}の{数分|すうふん}を{必|かなら}ず{自由|じゆう}な会話に使うべきだ。",
+        "雑談には問題を早く見つける{働|はたら}きがあるので、{気軽|きがる}に話せる{雰囲気|ふんいき}を作ることが{大切|たいせつ}だ。"
+      ],
+      "answer": 3,
+      "vi": "Điều tác giả muốn nói nhất: Tán gẫu có tác dụng phát hiện vấn đề sớm, nên việc tạo bầu không khí có thể nói chuyện thoải mái là quan trọng.",
+      "why": "Ghép hai câu chủ trương: lý do ở đoạn 2 (通り道の役割) + 「**大切なのは**、いつでも気軽に声をかけられる雰囲気を、意識して作っておくことだろう」 → phương án 4.\n- (1) Bài không phản đối làm việc tại nhà, cũng không đề nghị đi làm ở công ty.\n- (2) Ngược: 「雑談を義務にすればよいという**わけではない**」.\n- (3) Chỉ là **ví dụ** về cách làm (〜といった工夫), lại thêm 「必ず」 → nói quá. Câu ví dụ không phải điều tác giả \"muốn nói nhất\"."
+    }
+  ],
+  "practice": [
+    {
+      "id": "d05-p1", "kind": "passage", "pass": "p4",
+      "q": "この{文章|ぶんしょう}で{筆者|ひっしゃ}が{最|もっと}も{言|い}いたいことは{何|なに}か。",
+      "options": [
+        "子どもの{質問|しつもん}には、スマートフォンで{調|しら}べて{正|ただ}しく{答|こた}えるべきだ。",
+        "子どもに質問されたら、すぐに答えず、自分で{考|かんが}えさせることが{大切|たいせつ}だ。",
+        "子どもが{間違|まちが}った答えを言ったら、すぐに{直|なお}してあげなければならない。",
+        "{大人|おとな}はわからないことを子どもに聞かれても、気にする{必要|ひつよう}はない。"
+      ],
+      "answer": 1,
+      "vi": "Điều tác giả muốn nói nhất: Khi bị trẻ hỏi, đừng trả lời ngay mà nên để trẻ tự suy nghĩ.",
+      "why": "Hai câu chủ trương: 「自分で考えてみる時間のほうが、ずっと価値がある**のではないか**」 và 「そういう大人の態度**こそが**、子どもの考える力を伸ばす**のだと思う**」. 「そういう態度」 = hỏi lại 「あなたはどう思う？」 và thích thú lắng nghe → phương án 2.\n- (1) Đây là việc người lớn \"hay làm\" (つい〜), tác giả đang phê phán nó.\n- (3) Ngược: tác giả bảo dù câu trả lời 「見当違い」 cũng 「面白がって聞いてやる」, không sửa ngay.\n- (4) Bài không bàn chuyện người lớn không biết câu trả lời."
+    },
+    {
+      "id": "d05-p2", "kind": "passage", "pass": "p5",
+      "q": "{筆者|ひっしゃ}は{要約|ようやく}サービスについてどう{考|かんが}えているか。",
+      "options": [
+        "本の{内容|ないよう}を{正確|せいかく}に{伝|つた}えられないので、{利用|りよう}するべきではない。",
+        "{小説|しょうせつ}を読む前に使えば、ページをめくる楽しみが{増|ふ}える。",
+        "{情報|じょうほう}を{集|あつ}めたり本を{選|えら}んだりするには{役|やく}に{立|た}つが、それで{読書|どくしょ}の{代|か}わりにはならない。",
+        "{忙|いそが}しい人は、どんな本でも要約で読むほうが{効率的|こうりつてき}だ。"
+      ],
+      "answer": 2,
+      "vi": "Tác giả cho rằng dịch vụ tóm tắt có ích cho việc thu thập thông tin hay chọn sách, nhưng không thể thay thế cho việc đọc sách.",
+      "why": "Đoạn 2 là nhượng bộ: 「否定するつもりはない」「確かに役に立つ」「手がかりにもなるだろう」. Đoạn 3 là ý chính sau 「ただ」: 「要約で本を『読んだ』ことにしてしまうのは、少しもったいない」 → đánh giá **hai mặt** → phương án 3.\n- (1) Nói quá: tác giả 「否定するつもりはない」; lý do cũng sai (bài không nói tóm tắt thiếu chính xác).\n- (2) Ngược: biết trước kết cục thì 「ページをめくる楽しみが失われてしまう」.\n- (4) 「どんな本でも」 trái với ý phân biệt hai loại đọc ở đoạn cuối."
+    },
+    {
+      "id": "d05-p3", "kind": "passage", "pass": "p5",
+      "q": "この{文章|ぶんしょう}で{筆者|ひっしゃ}が{最|もっと}も{言|い}いたいことは{何|なに}か。",
+      "options": [
+        "{考|かんが}えるための{読書|どくしょ}では、{筆者|ひっしゃ}の考えの{道|みち}のりをたどりながら、時間をかけて読むことが{大切|たいせつ}だ。",
+        "本を読むときは、{結論|けつろん}を早く知るために、まず{要約|ようやく}を読んでおくべきだ。",
+        "{小説|しょうせつ}はあらすじを知ってから読んだほうが、{深|ふか}く{理解|りかい}できる。",
+        "読書は{情報|じょうほう}を{得|え}るためのものなので、{効率|こうりつ}よく読むことが{重要|じゅうよう}だ。"
+      ],
+      "answer": 0,
+      "vi": "Điều tác giả muốn nói nhất: Với việc đọc để suy nghĩ, điều quan trọng là dành thời gian đọc, lần theo chặng đường tư duy của tác giả.",
+      "why": "Câu cuối: 「少なくとも後者については、時間をかけて一冊と付き合う**べきではないだろうか**」, 後者 = 考えるための読書. Lý do ở đoạn 3: 「その道のりを一緒にたどる中で…」 → phương án 1.\n- (2) Ngược: tác giả cho rằng đọc sách 「結論を受け取ることだけではない」.\n- (3) Ngược với đoạn 4 (biết kết cục làm mất niềm vui).\n- (4) Chỉ nói một nửa: tác giả chia ra hai loại đọc; câu này phủ nhận loại thứ hai mà tác giả coi trọng."
+    },
+    {
+      "id": "d05-p4", "kind": "passage", "pass": "p6",
+      "q": "「ボランティアなんて、{結局|けっきょく}は{自己|じこ}{満足|まんぞく}だ」という{意見|いけん}について、{筆者|ひっしゃ}はどう{考|かんが}えているか。",
+      "options": [
+        "自己満足のために{参加|さんか}する人が多いので、その意見は正しいと考えている。",
+        "{純粋|じゅんすい}な{気持|きも}ちで参加する人だけがボランティアをするべきだと考えている。",
+        "{就職|しゅうしょく}のためにボランティアをするのは、{恥|は}ずかしいことだと考えている。",
+        "{動機|どうき}に自己満足が{混|ま}じっていても、{相手|あいて}の{役|やく}に{立|た}つなら{意味|いみ}があると考えている。"
+      ],
+      "answer": 3,
+      "vi": "Tác giả cho rằng dù động cơ có lẫn sự tự thoả mãn, nếu giúp ích được cho người khác thì vẫn có ý nghĩa.",
+      "why": "Câu mở đầu là ý **người khác** (〜という声を聞くことがある). Tác giả nhượng bộ (そうした動機で参加する人がいるのは事実だろう) rồi phản bác sau 「しかし」: 被災地の人にとって心の中は重要ではない, 「まず動いてみるほうがよほど意味がある」, và kết: 「恥じる必要はない**のではないか**」 → phương án 4.\n- (1) Lấy câu nhượng bộ (〜は事実だろう) rồi kết luận ngược.\n- (2) Ngược: tác giả phê phán việc 「動機が純粋かどうかを問題にして何もしない」.\n- (3) Ngược với câu kết 「恥じる必要はない」."
+    },
+    {
+      "id": "d05-p5", "kind": "passage", "pass": "p6",
+      "q": "{筆者|ひっしゃ}がボランティアをする人に{求|もと}めていることは何か。",
+      "options": [
+        "{参加|さんか}する前に、自分の{動機|どうき}が{純粋|じゅんすい}かどうかよく{考|かんが}えること",
+        "{面接|めんせつ}で話せるような、{特別|とくべつ}な{経験|けいけん}をすること",
+        "{相手|あいて}に{迷惑|めいわく}をかけるような{身勝手|みがって}な{行動|こうどう}をしないこと",
+        "{手伝|てつだ}った相手から{感謝|かんしゃ}の言葉をもらうこと"
+      ],
+      "answer": 2,
+      "vi": "Điều tác giả yêu cầu ở người làm tình nguyện: không có hành động ích kỷ gây phiền cho người khác.",
+      "why": "主張表現 「〜**てはいけない**」 xuất hiện đúng một lần: 「相手の迷惑になるような身勝手な行動をしてはいけない」, và câu sau 「それさえ守れば」 cho thấy đây là **điều kiện duy nhất** tác giả đặt ra → phương án 3.\n- (1) Ngược: tác giả cho rằng xét động cơ có trong sáng không rồi không làm gì là vô nghĩa.\n- (2)(4) Đây là ví dụ về **động cơ** của một số người (感謝されたい, 面接で話せる経験), tác giả không yêu cầu điều đó."
+    }
+  ],
+  "test": [
+    {
+      "id": "d05-t1", "kind": "passage", "pass": "p7",
+      "q": "{筆者|ひっしゃ}によると、「{普通|ふつう}」という{感覚|かんかく}にはどのようなよい{点|てん}があるか。",
+      "options": [
+        "{時代|じだい}が{変|か}わっても、変わらない正しい{基準|きじゅん}を{与|あた}えてくれる点",
+        "お{互|たが}いの{行動|こうどう}を{予想|よそう}しやすくし、{社会|しゃかい}を{円滑|えんかつ}にしている点",
+        "{少数派|しょうすうは}の人の{習慣|しゅうかん}を{守|まも}ることができる点",
+        "{変|か}わった人を{見分|みわ}けることができる点"
+      ],
+      "answer": 1,
+      "vi": "Theo tác giả, mặt tốt của cảm giác “bình thường” là giúp dễ dự đoán hành động của nhau, làm cho xã hội vận hành trơn tru.",
+      "why": "Đoạn 2 (nhượng bộ 「確かに」): 「社会はある程度スムーズに動いている。…お互いに相手の行動をある程度予想できるからだ」 → phương án 2 (スムーズ → 円滑 là 言い換え).\n- (1) Ngược đoạn 3: 「普通」 thay đổi theo thời đại (30 năm trước khác bây giờ).\n- (3) Ngược: 「普通」 là tập quán của **đa số** (多数派).\n- (4) Việc coi người khác là 「変わった人」 chính là mặt **xấu** mà tác giả phê phán."
+    },
+    {
+      "id": "d05-t2", "kind": "passage", "pass": "p7",
+      "q": "{筆者|ひっしゃ}は、「{普通|ふつう}」がどのようなときに問題になると{考|かんが}えているか。",
+      "options": [
+        "{多数派|たすうは}の{習慣|しゅうかん}にすぎないものを、{唯一|ゆいいつ}の正しい{形|かたち}だと{思|おも}い{込|こ}んで{他人|たにん}に{当|あ}てはめるとき",
+        "{三十年|さんじゅうねん}前の「普通」を、今の人たちが{忘|わす}れてしまったとき",
+        "{初|はじ}めて会った人の{行動|こうどう}が{予想|よそう}できないとき",
+        "多くの人が同じ「普通」を{共有|きょうゆう}しているとき"
+      ],
+      "answer": 0,
+      "vi": "Tác giả cho rằng “bình thường” trở thành vấn đề khi người ta đinh ninh thứ chỉ là tập quán của số đông là hình mẫu đúng duy nhất và áp đặt lên người khác.",
+      "why": "Đoạn 3 mở bằng 「**問題は**、…多数派の習慣**にすぎない**ことを、私たちがつい忘れてしまう点にある」, rồi 「唯一の正しい形のように思い込み、そこから外れた人を『変わった人』と見なしてしまう。そのとき…他人を縛る物差しへと変わってしまう」 → phương án 1.\n- (2) Ghép từ sai: thứ bị quên là \"tính tương đối của 普通\", không phải \"cái 普通 của 30 năm trước\".\n- (3) Đây là tình huống **không có** 普通 chung, ngược với điều bài nói.\n- (4) Việc cùng chia sẻ 普通 lại là mặt tốt (đoạn 2)."
+    },
+    {
+      "id": "d05-t3", "kind": "passage", "pass": "p7",
+      "q": "この{文章|ぶんしょう}で{筆者|ひっしゃ}が{最|もっと}も{言|い}いたいことは{何|なに}か。",
+      "options": [
+        "「{普通|ふつう}」という考え方は{社会|しゃかい}に{害|がい}を{与|あた}えるので、使うのをやめるべきだ。",
+        "{時代|じだい}に合わせて、新しい「普通」を早く作らなければならない。",
+        "「普通」は{相対的|そうたいてき}なものだと{意識|いしき}することで、{他人|たにん}の生き方を{尊重|そんちょう}できるようになる。",
+        "「{変|か}わった人」と言われないように、{多数派|たすうは}の{習慣|しゅうかん}に{従|したが}ったほうがよい。"
+      ],
+      "answer": 2,
+      "vi": "Điều tác giả muốn nói nhất: Ý thức rằng “bình thường” là tương đối sẽ giúp ta tôn trọng cách sống của người khác.",
+      "why": "Đoạn cuối: 「それが誰にとっての『普通』なのかを考え**てみてはどうだろうか**」 (đề nghị) + 「自分の基準が絶対ではないと知ることは、他人の生き方を尊重する第一歩になる**はずだ**」 → phương án 3 (絶対ではない → 相対的 là 言い換え).\n- (1) Nói quá: tác giả nói rõ 「すべて悪い**わけではない**」.\n- (2) Bài không đề nghị tạo 普通 mới.\n- (4) Ngược hẳn: tác giả phê phán việc dùng 普通 để trói buộc người khác."
+    },
+    {
+      "id": "d05-t4", "kind": "passage", "pass": "p8",
+      "q": "{筆者|ひっしゃ}の{考|かんが}えに合うものはどれか。",
+      "options": [
+        "休みの日でも、メールは{確認|かくにん}しておかなければならない。",
+        "{疲|つか}れているときこそ、{机|つくえ}に{向|む}かって問題を考えるべきだ。",
+        "{休息|きゅうそく}は{働|はたら}けなかった時間なので、{短|みじか}いほうがよい。",
+        "休むことは次の{仕事|しごと}の{準備|じゅんび}になるので、{罪悪感|ざいあくかん}を持たずに休んでよい。"
+      ],
+      "answer": 3,
+      "vi": "Phù hợp với suy nghĩ của tác giả: Nghỉ ngơi là sự chuẩn bị cho công việc tiếp theo, nên có thể nghỉ mà không cảm thấy tội lỗi.",
+      "why": "Câu khẳng định 「休息は仕事から逃げることではなく、次の仕事のための準備**なのだ**」 + câu kết 「もっと堂々と休んでいい**と私は思う**」 → phương án 4.\n- (1) Đây là thói quen của \"nhiều người\" mà tác giả nêu ra để phê phán (〜人が多いのではないか).\n- (2) Ngược: 「疲れた頭でいくら机に向かっても、よい考えは浮かばない」.\n- (3) 「働けなかった時間」 là cách nhìn sai mà tác giả chỉ ra là nguyên nhân của cảm giác tội lỗi, không phải ý tác giả."
+    }
+  ]
+}

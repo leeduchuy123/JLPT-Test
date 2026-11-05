@@ -7,6 +7,7 @@ Mục tiêu: tổng ôn N3 trong ~2 tháng bằng cách **làm đề → sai ở
 ## Tính năng
 | Trang | Nội dung |
 |---|---|
+| **Học N2** | Lộ trình học theo bộ 新完全マスター N2 (文法 48 bài · 語彙 37 bài · 読解 19 bài). Mỗi tuần: T2 課 · T3 課 · T4 練習 (2 bài) · T5 課 · T6 課 · T7 練習 · CN まとめ問題 (4 bài). Bài học: giải thích tiếng Việt chi tiết từng mẫu / từ / kỹ năng, 4–6 ví dụ, phân biệt mẫu dễ nhầm, lỗi hay gặp, mẹo làm đề, furigana bật/tắt, che nghĩa để tự kiểm tra, kiểm tra nhanh cuối bài. 練習 chữa ngay từng câu; まとめ問題 làm hết rồi nộp (có đồng hồ gợi ý), làm lại câu sai |
 | **Hôm nay** | Đếm ngược ngày thi, mục tiêu câu/ngày, bài đang làm dở, câu đến hạn ôn, dạng bài yếu nhất, kết quả gần đây |
 | **Thi thử** | *Strict* (có giờ, tự nộp khi hết giờ): đề đầy đủ 3 phần (30 + 70 + 40 phút) hoặc từng phần. *Normal* (không giờ, thoát/làm tiếp bất cứ lúc nào): từng phần. Nguồn đề: 45 bộ đề thật từ các trang luyện thi, hoặc đề ngẫu nhiên ghép đúng tỉ lệ 問題 của JLPT N3 (ưu tiên câu chưa làm / hay sai) |
 | **Luyện nhanh** | Chọn dạng bài (問題1–7, nghe), 10/20/30 câu hoặc 1–3 đoạn đọc; chữa ngay từng câu; phím 1–4 và Enter |
@@ -41,6 +42,18 @@ scripts/build_bank.py     # gộp crawl/raw → data/ (lọc trùng, gắn giả
 scripts/explain/          # chia lô & kiểm tra giải thích (crawl/explain/out/*.json)
 crawl/                    # dữ liệu thô + cache (không deploy)
 ```
+
+### Khoá học N2 (`#/study`)
+```
+scripts/study/courses.json   # khung khoá học: danh sách bài theo mục lục 3 cuốn 新完全マスター N2
+scripts/study/GUIDE.md       # schema + tiêu chuẩn nội dung bài học
+scripts/study/validate.py    # kiểm tra một / mọi file bài
+scripts/study/build_index.py # → data/study/index.json (bài chưa có / còn lỗi hiện "đang soạn")
+data/study/<track>/<id>.json # nội dung bài (bunpo/bXX, goi/gXX, dokkai/dXX)
+js/study.js, js/pages/study.js, css/study.css
+```
+Sách chỉ dùng để xác định danh mục kiến thức từng bài; giải thích, ví dụ, bài tập, đoạn đọc đều do AI viết mới.
+Tiến độ học lưu ở `state.study` (đồng bộ / xuất file như các dữ liệu khác), ngày bắt đầu lộ trình ở `settings.study.plans`.
 
 ## Chạy local
 ```bash

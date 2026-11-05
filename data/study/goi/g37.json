@@ -1,0 +1,1473 @@
+{
+ "id": "g37",
+ "track": "goi",
+ "intro": "Bài cuối chương 語形成: từ **một tính từ** có thể đẻ ra động từ và danh từ. Thuộc quy tắc này, bạn sẽ đoán được nghĩa của rất nhiều từ mới mà không cần tra.\n\n- **Tính từ → động từ cảm xúc 〜しむ／〜む**: 悲しい → 悲しむ, 苦しい → 苦しむ, 惜しい → 惜しむ, 痛い → 痛む, 悔しい → 悔やむ, 涼しい → 涼む… Tính từ nói cảm xúc **của chính mình** ngay lúc đó; động từ mô tả cảm xúc như **một hành động** (dùng được cho người thứ ba, có tân ngữ: 別れを惜しむ, 友の死を悲しむ).\n- **Tính từ → cặp động từ biến đổi 〜まる (tự) ／〜める (tha)**: 高い → 高まる／高める, 深い → 深まる／深める… 〜まる đi với **が**, 〜める đi với **を**. Riêng 広い có hai cặp: 広まる／広める (lan truyền) và 広がる／広げる (mở rộng, trải ra).\n- **Tính từ → danh từ 〜さ**: gắn được với **hầu hết** tính từ, chỉ **mức độ** đo được (高さ, 寂しさ, 正確さ).\n- **Tính từ → danh từ 〜み**: chỉ gắn với **một số** tính từ, chỉ **cảm nhận, tính chất** (甘み, 痛み, 重み, 強み…).\n\nTrong đề 語形成, bạn sẽ gặp: chọn 〜さ hay 〜み, chọn 〜まる hay 〜める (nhìn trợ từ が／を), và chọn đúng chữ Hán (温める／暖める, 早める／速める).",
+ "sections": [
+  {
+   "title": "〜しむ／〜む",
+   "title_vi": "động từ chỉ cảm xúc, cảm giác (tạo từ tính từ)",
+   "words": [
+    {
+     "id": "g37-w1",
+     "w": "悲しむ",
+     "r": "かなしむ",
+     "hv": "BI",
+     "pos": "他動",
+     "vi": "đau buồn, thương tiếc (← 悲しい)",
+     "key": true,
+     "ex": {
+      "ja": "{祖父|そふ}の{死|し}を{家族|かぞく}みんなが{悲|かな}しんだ。",
+      "vi": "Cả gia đình đau buồn trước sự ra đi của ông."
+     },
+     "note": "悲しい chỉ cảm xúc của chính người nói; muốn tả người khác buồn thì dùng 悲しむ / 悲しんでいる."
+    },
+    {
+     "id": "g37-w2",
+     "w": "苦しむ",
+     "r": "くるしむ",
+     "hv": "KHỔ",
+     "pos": "自動",
+     "vi": "đau khổ, khổ sở; chật vật (← 苦しい)",
+     "key": true,
+     "ex": {
+      "ja": "{多|おお}くの{家庭|かてい}が{物価|ぶっか}の{上昇|じょうしょう}に{苦|くる}しんでいる。",
+      "vi": "Nhiều gia đình đang khổ sở vì giá cả tăng."
+     },
+     "col": [
+      "病気に苦しむ",
+      "理解に苦しむ (khó mà hiểu nổi)"
+     ]
+    },
+    {
+     "id": "g37-w3",
+     "w": "親しむ",
+     "r": "したしむ",
+     "hv": "THÂN",
+     "pos": "自動",
+     "vi": "gần gũi, làm quen, thân thuộc với (← 親しい)",
+     "key": true,
+     "ex": {
+      "ja": "{子|こ}どものころから{自然|しぜん}に{親|した}しんで{育|そだ}った。",
+      "vi": "Tôi lớn lên gần gũi với thiên nhiên từ nhỏ."
+     },
+     "col": [
+      "自然に親しむ",
+      "音楽に親しむ"
+     ]
+    },
+    {
+     "id": "g37-w4",
+     "w": "怪しむ",
+     "r": "あやしむ",
+     "hv": "QUÁI",
+     "pos": "他動",
+     "vi": "nghi ngờ, ngờ vực (← 怪しい)",
+     "key": true,
+     "ex": {
+      "ja": "{近所|きんじょ}の{人|ひと}は、{毎晩|まいばん}{遅|おそ}く{帰|かえ}る{男|おとこ}を{怪|あや}しんでいた。",
+      "vi": "Hàng xóm vẫn nghi ngờ người đàn ông tối nào cũng về khuya."
+     },
+     "rel": "≒ 疑う"
+    },
+    {
+     "id": "g37-w5",
+     "w": "惜しむ",
+     "r": "おしむ",
+     "hv": "TÍCH",
+     "pos": "他動",
+     "vi": "tiếc nuối; tiếc (không chịu bỏ ra) (← 惜しい)",
+     "key": true,
+     "col": [
+      "別れを惜しむ",
+      "時間を惜しむ",
+      "協力を惜しまない"
+     ],
+     "senses": [
+      {
+       "vi": "tiếc nuối (chia tay, mất mát)",
+       "ex": {
+        "ja": "{多|おお}くのファンが{歌手|かしゅ}の{引退|いんたい}を{惜|お}しんだ。",
+        "vi": "Rất nhiều người hâm mộ tiếc nuối việc ca sĩ giải nghệ."
+       }
+      },
+      {
+       "vi": "tiếc, không nỡ bỏ ra — hay dùng 〜を惜しまない (không tiếc…)",
+       "ex": {
+        "ja": "{夢|ゆめ}のためなら{努力|どりょく}を{惜|お}しまない。",
+        "vi": "Vì ước mơ, tôi không tiếc công sức."
+       }
+      }
+     ]
+    },
+    {
+     "id": "g37-w6",
+     "w": "痛む",
+     "r": "いたむ",
+     "hv": "THỐNG",
+     "pos": "自動",
+     "vi": "đau (thân thể); đau lòng (← 痛い)",
+     "key": true,
+     "senses": [
+      {
+       "vi": "đau (bộ phận cơ thể)",
+       "ex": {
+        "ja": "{寒|さむ}くなると{膝|ひざ}が{痛|いた}む。",
+        "vi": "Trời lạnh là đầu gối tôi đau."
+       }
+      },
+      {
+       "vi": "đau lòng, xót xa (心が痛む・胸が痛む)",
+       "ex": {
+        "ja": "{事故|じこ}のニュースを{聞|き}くたびに{胸|むね}が{痛|いた}む。",
+        "vi": "Mỗi lần nghe tin tai nạn tôi lại thấy xót xa."
+       }
+      }
+     ]
+    },
+    {
+     "id": "g37-w7",
+     "w": "憎む",
+     "r": "にくむ",
+     "hv": "TĂNG",
+     "pos": "他動",
+     "vi": "căm ghét, căm hận (← 憎い)",
+     "key": true,
+     "ex": {
+      "ja": "{彼|かれ}は{家族|かぞく}を{傷|きず}つけた{犯人|はんにん}を{今|いま}も{憎|にく}んでいる。",
+      "vi": "Anh ấy đến giờ vẫn căm hận kẻ đã làm hại gia đình mình."
+     },
+     "note": "Thành ngữ: 罪を憎んで人を憎まず (ghét tội chứ đừng ghét người)."
+    },
+    {
+     "id": "g37-w8",
+     "w": "うらやむ",
+     "r": "うらやむ",
+     "hv": "",
+     "pos": "他動",
+     "vi": "ghen tị, thèm muốn (cái người khác có) (← うらやましい)",
+     "key": true,
+     "ex": {
+      "ja": "{兄|あに}はいつも{私|わたし}の{自由|じゆう}な{生活|せいかつ}をうらやんでいる。",
+      "vi": "Anh tôi lúc nào cũng ghen tị với cuộc sống tự do của tôi."
+     },
+     "note": "Kanji: 羨む. Khác ねたむ (ghen ghét, có ác ý)."
+    },
+    {
+     "id": "g37-w9",
+     "w": "悔やむ",
+     "r": "くやむ",
+     "hv": "HỐI",
+     "pos": "他動",
+     "vi": "hối tiếc, ân hận (← 悔しい)",
+     "key": true,
+     "ex": {
+      "ja": "あのとき{本当|ほんとう}のことを{言|い}わなかったのを、{今|いま}でも{悔|く}やんでいる。",
+      "vi": "Đến giờ tôi vẫn ân hận vì lúc đó đã không nói thật."
+     },
+     "rel": "≒ 後悔する",
+     "note": "悔しい = cay cú, ấm ức (vì thua, bị thiệt); 悔やむ = hối hận về việc đã xảy ra. お悔やみ = lời chia buồn."
+    },
+    {
+     "id": "g37-w10",
+     "w": "涼む",
+     "r": "すずむ",
+     "hv": "LƯƠNG",
+     "pos": "自動",
+     "vi": "hóng mát (← 涼しい)",
+     "key": true,
+     "ex": {
+      "ja": "{仕事|しごと}の{後|あと}、{川辺|かわべ}で{夜風|よかぜ}に{当|あ}たって{涼|すず}んだ。",
+      "vi": "Tan làm, tôi ra bờ sông hóng gió đêm cho mát."
+     }
+    }
+   ]
+  },
+  {
+   "title": "〜まる／〜める",
+   "title_vi": "động từ chỉ sự biến đổi: 〜まる (tự động từ, が) ／〜める (tha động từ, を)",
+   "words": [
+    {
+     "id": "g37-w11",
+     "w": "温まる／温める",
+     "r": "あたたまる／あたためる",
+     "hv": "ÔN",
+     "pos": "自動／他動",
+     "vi": "(vật, cơ thể, lòng người) ấm lên ／ làm ấm, hâm nóng",
+     "key": true,
+     "col": [
+      "料理を温める",
+      "卵を温める",
+      "心が温まる話"
+     ],
+     "note": "温 dùng cho đồ vật, cơ thể, tình cảm (đối lập 冷たい). 暖 dùng cho không khí, phòng, thời tiết (đối lập 寒い).",
+     "senses": [
+      {
+       "vi": "温まる: ấm lên",
+       "ex": {
+        "ja": "{熱|あつ}いスープを{飲|の}んで{体|からだ}が{温|あたた}まった。",
+        "vi": "Uống bát súp nóng, người tôi ấm lên."
+       }
+      },
+      {
+       "vi": "温める: hâm nóng, ủ ấm",
+       "ex": {
+        "ja": "{冷|つめ}たくなったご{飯|はん}を{電子|でんし}レンジで{温|あたた}める。",
+        "vi": "Hâm cơm nguội bằng lò vi sóng."
+       }
+      }
+     ]
+    },
+    {
+     "id": "g37-w12",
+     "w": "暖まる／暖める",
+     "r": "あたたまる／あたためる",
+     "hv": "NOÃN",
+     "pos": "自動／他動",
+     "vi": "(phòng, không khí) ấm lên ／ sưởi ấm",
+     "key": true,
+     "col": [
+      "部屋を暖める",
+      "空気が暖まる"
+     ],
+     "senses": [
+      {
+       "vi": "暖まる: ấm lên",
+       "ex": {
+        "ja": "ストーブをつけたので、{部屋|へや}がすっかり{暖|あたた}まった。",
+        "vi": "Bật lò sưởi nên căn phòng đã ấm hẳn."
+       }
+      },
+      {
+       "vi": "暖める: sưởi ấm",
+       "ex": {
+        "ja": "{帰|かえ}る{前|まえ}にエアコンで{部屋|へや}を{暖|あたた}めておいた。",
+        "vi": "Tôi đã bật điều hòa sưởi ấm phòng trước khi về."
+       }
+      }
+     ]
+    },
+    {
+     "id": "g37-w13",
+     "w": "早まる／早める",
+     "r": "はやまる／はやめる",
+     "hv": "TẢO",
+     "pos": "自動／他動",
+     "vi": "(thời điểm) sớm lên ／ đẩy sớm lên",
+     "key": true,
+     "col": [
+      "予定を早める",
+      "回復を早める"
+     ],
+     "note": "早まる còn có nghĩa 'hấp tấp': 早まったことをするな (đừng làm gì dại dột).",
+     "senses": [
+      {
+       "vi": "早まる: (thời gian, lịch) sớm lên",
+       "ex": {
+        "ja": "{会議|かいぎ}の{時間|じかん}が{一時間|いちじかん}{早|はや}まった。",
+        "vi": "Giờ họp được dời sớm lên một tiếng."
+       }
+      },
+      {
+       "vi": "早める: làm cho sớm hơn",
+       "ex": {
+        "ja": "{台風|たいふう}が{来|く}るので、{出発|しゅっぱつ}を{一日|いちにち}{早|はや}めた。",
+        "vi": "Vì bão đến nên chúng tôi xuất phát sớm hơn một ngày."
+       }
+      }
+     ]
+    },
+    {
+     "id": "g37-w14",
+     "w": "速まる／速める",
+     "r": "はやまる／はやめる",
+     "hv": "TỐC",
+     "pos": "自動／他動",
+     "vi": "(tốc độ) nhanh lên ／ tăng tốc",
+     "key": true,
+     "col": [
+      "スピードを速める",
+      "テンポを速める",
+      "速度を速める"
+     ],
+     "note": "早 = **thời điểm** (sớm); 速 = **tốc độ** (nhanh).",
+     "senses": [
+      {
+       "vi": "速まる: nhanh lên",
+       "ex": {
+        "ja": "{緊張|きんちょう}で{心臓|しんぞう}の{鼓動|こどう}が{速|はや}まった。",
+        "vi": "Vì căng thẳng mà tim tôi đập nhanh hơn."
+       }
+      },
+      {
+       "vi": "速める: tăng tốc",
+       "ex": {
+        "ja": "{遅|おく}れそうなので{足|あし}を{速|はや}めた。",
+        "vi": "Sợ trễ nên tôi rảo bước nhanh hơn."
+       }
+      }
+     ]
+    },
+    {
+     "id": "g37-w15",
+     "w": "強まる／強める",
+     "r": "つよまる／つよめる",
+     "hv": "CƯỜNG",
+     "pos": "自動／他動",
+     "vi": "mạnh lên ／ tăng cường, làm mạnh thêm",
+     "key": true,
+     "col": [
+      "疑いを強める",
+      "関係を強める",
+      "批判が強まる"
+     ],
+     "senses": [
+      {
+       "vi": "強まる: mạnh lên",
+       "ex": {
+        "ja": "{夜|よる}になって{雨|あめ}がさらに{強|つよ}まった。",
+        "vi": "Về đêm mưa càng nặng hạt."
+       }
+      },
+      {
+       "vi": "強める: tăng cường",
+       "ex": {
+        "ja": "{警察|けいさつ}は{駅|えき}の{警備|けいび}を{強|つよ}めている。",
+        "vi": "Cảnh sát đang tăng cường an ninh ở nhà ga."
+       }
+      }
+     ]
+    },
+    {
+     "id": "g37-w16",
+     "w": "弱まる／弱める",
+     "r": "よわまる／よわめる",
+     "hv": "NHƯỢC",
+     "pos": "自動／他動",
+     "vi": "yếu đi ／ làm yếu đi, giảm",
+     "key": true,
+     "col": [
+      "効果が弱まる",
+      "働きを弱める",
+      "力を弱める"
+     ],
+     "senses": [
+      {
+       "vi": "弱まる: yếu đi",
+       "ex": {
+        "ja": "{台風|たいふう}の{勢|いきお}いが{少|すこ}しずつ{弱|よわ}まってきた。",
+        "vi": "Sức mạnh cơn bão đang yếu dần."
+       }
+      },
+      {
+       "vi": "弱める: làm yếu, hạ (lửa)",
+       "ex": {
+        "ja": "{火|ひ}を{弱|よわ}めて{十分|じゅっぷん}{煮|に}る。",
+        "vi": "Hạ nhỏ lửa rồi ninh 10 phút."
+       }
+      }
+     ]
+    },
+    {
+     "id": "g37-w17",
+     "w": "薄まる／薄める",
+     "r": "うすまる／うすめる",
+     "hv": "BẠC",
+     "pos": "自動／他動",
+     "vi": "(vị, màu, nồng độ) nhạt đi ／ pha loãng",
+     "key": true,
+     "col": [
+      "スープを薄める",
+      "洗剤を薄める",
+      "色が薄まる"
+     ],
+     "senses": [
+      {
+       "vi": "薄まる: nhạt đi",
+       "ex": {
+        "ja": "{何度|なんど}も{洗|あら}ううちに、シャツの{色|いろ}が{薄|うす}まってきた。",
+        "vi": "Giặt nhiều lần, màu áo sơ mi nhạt dần."
+       }
+      },
+      {
+       "vi": "薄める: pha loãng",
+       "ex": {
+        "ja": "この{洗剤|せんざい}は{水|みず}で{十倍|じゅうばい}に{薄|うす}めて{使|つか}う。",
+        "vi": "Loại nước tẩy này pha loãng 10 lần với nước rồi dùng."
+       }
+      }
+     ]
+    },
+    {
+     "id": "g37-w18",
+     "w": "固まる／固める",
+     "r": "かたまる／かためる",
+     "hv": "CỐ",
+     "pos": "自動／他動",
+     "vi": "đông cứng, ổn định ／ làm cứng; củng cố, quyết (ý)",
+     "key": true,
+     "col": [
+      "方針を固める",
+      "気持ちが固まる",
+      "ゼリーが固まる"
+     ],
+     "senses": [
+      {
+       "vi": "固まる: đông cứng; (ý, kế hoạch) được chốt",
+       "ex": {
+        "ja": "{接着剤|せっちゃくざい}が{固|かた}まるまで{触|さわ}らないでください。",
+        "vi": "Đừng chạm vào cho đến khi keo khô cứng."
+       }
+      },
+      {
+       "vi": "固める: củng cố, quyết định chắc",
+       "ex": {
+        "ja": "{彼|かれ}は{会社|かいしゃ}を{辞|や}める{決心|けっしん}を{固|かた}めた。",
+        "vi": "Anh ấy đã hạ quyết tâm nghỉ việc."
+       }
+      }
+     ]
+    },
+    {
+     "id": "g37-w19",
+     "w": "丸まる／丸める",
+     "r": "まるまる／まるめる",
+     "hv": "HOÀN",
+     "pos": "自動／他動",
+     "vi": "cuộn tròn lại ／ vo tròn, khom (lưng)",
+     "key": true,
+     "col": [
+      "背中を丸める",
+      "体を丸める",
+      "ポスターを丸める"
+     ],
+     "senses": [
+      {
+       "vi": "丸まる: cuộn tròn",
+       "ex": {
+        "ja": "{猫|ねこ}がこたつの{中|なか}で{丸|まる}まって{寝|ね}ている。",
+        "vi": "Con mèo cuộn tròn ngủ trong bàn sưởi."
+       }
+      },
+      {
+       "vi": "丸める: vo, cuộn, khom",
+       "ex": {
+        "ja": "{寒|さむ}さで{背中|せなか}を{丸|まる}めて{歩|ある}いた。",
+        "vi": "Vì lạnh, tôi khom lưng mà đi."
+       }
+      }
+     ]
+    },
+    {
+     "id": "g37-w20",
+     "w": "静まる／静める",
+     "r": "しずまる／しずめる",
+     "hv": "TĨNH",
+     "pos": "自動／他動",
+     "vi": "lắng xuống, yên lặng ／ làm cho yên, trấn tĩnh",
+     "key": true,
+     "col": [
+      "会場を静める",
+      "怒りを静める",
+      "心が静まる"
+     ],
+     "senses": [
+      {
+       "vi": "静まる: yên lặng, lắng xuống",
+       "ex": {
+        "ja": "{先生|せんせい}が{入|はい}ってくると、{教室|きょうしつ}がしんと{静|しず}まった。",
+        "vi": "Thầy vừa bước vào, cả lớp im phăng phắc."
+       }
+      },
+      {
+       "vi": "静める: trấn tĩnh, làm dịu",
+       "ex": {
+        "ja": "{深呼吸|しんこきゅう}をして{気持|きも}ちを{静|しず}めた。",
+        "vi": "Tôi hít thở sâu để trấn tĩnh lại."
+       }
+      }
+     ]
+    },
+    {
+     "id": "g37-w21",
+     "w": "深まる／深める",
+     "r": "ふかまる／ふかめる",
+     "hv": "THÂM",
+     "pos": "自動／他動",
+     "vi": "sâu sắc thêm ／ làm sâu sắc thêm",
+     "key": true,
+     "col": [
+      "理解を深める",
+      "知識を深める",
+      "議論が深まる"
+     ],
+     "senses": [
+      {
+       "vi": "深まる: sâu thêm (mùa, quan hệ, hiểu biết)",
+       "ex": {
+        "ja": "{秋|あき}が{深|ふか}まって、{木々|きぎ}が{赤|あか}く{色|いろ}づいてきた。",
+        "vi": "Thu đã về sâu, cây cối bắt đầu nhuộm đỏ."
+       }
+      },
+      {
+       "vi": "深める: làm sâu sắc thêm",
+       "ex": {
+        "ja": "{留学生|りゅうがくせい}との{交流|こうりゅう}を{深|ふか}めたい。",
+        "vi": "Tôi muốn giao lưu sâu hơn với du học sinh."
+       }
+      }
+     ]
+    },
+    {
+     "id": "g37-w22",
+     "w": "高まる／高める",
+     "r": "たかまる／たかめる",
+     "hv": "CAO",
+     "pos": "自動／他動",
+     "vi": "dâng cao, tăng lên ／ nâng cao",
+     "key": true,
+     "col": [
+      "関心が高まる",
+      "期待が高まる",
+      "必要性が高まる",
+      "集中力を高める"
+     ],
+     "senses": [
+      {
+       "vi": "高まる: tăng lên (quan tâm, kỳ vọng, nhu cầu)",
+       "ex": {
+        "ja": "{環境|かんきょう}{問題|もんだい}への{関心|かんしん}が{高|たか}まっている。",
+        "vi": "Mối quan tâm tới vấn đề môi trường đang tăng lên."
+       }
+      },
+      {
+       "vi": "高める: nâng cao",
+       "ex": {
+        "ja": "{品質|ひんしつ}を{高|たか}めるために{新|あたら}しい{機械|きかい}を{入|い}れた。",
+        "vi": "Để nâng cao chất lượng, chúng tôi đã đưa máy mới vào."
+       }
+      }
+     ]
+    },
+    {
+     "id": "g37-w23",
+     "w": "広まる／広める",
+     "r": "ひろまる／ひろめる",
+     "hv": "QUẢNG",
+     "pos": "自動／他動",
+     "vi": "(thông tin, tư tưởng) lan truyền ／ truyền bá, phổ biến",
+     "key": true,
+     "col": [
+      "うわさが広まる",
+      "評判が広まる",
+      "技術を広める",
+      "宗教を広める"
+     ],
+     "senses": [
+      {
+       "vi": "広まる: lan ra",
+       "ex": {
+        "ja": "そのうわさはあっという{間|ま}に{学校|がっこう}{中|じゅう}に{広|ひろ}まった。",
+        "vi": "Tin đồn đó loáng cái đã lan khắp trường."
+       }
+      },
+      {
+       "vi": "広める: truyền bá",
+       "ex": {
+        "ja": "{彼|かれ}は{日本|にほん}の{伝統|でんとう}{料理|りょうり}を{海外|かいがい}に{広|ひろ}めた。",
+        "vi": "Ông ấy đã đưa món ăn truyền thống Nhật ra nước ngoài."
+       }
+      }
+     ]
+    },
+    {
+     "id": "g37-w24",
+     "w": "広がる／広げる",
+     "r": "ひろがる／ひろげる",
+     "hv": "QUẢNG",
+     "pos": "自動／他動",
+     "vi": "(không gian, phạm vi) trải ra, mở rộng ／ mở ra, trải ra, nới rộng",
+     "key": true,
+     "col": [
+      "差が広がる",
+      "景色が広がる",
+      "範囲を広げる",
+      "両手を広げる"
+     ],
+     "note": "広がる／広げる = mở rộng về **không gian, phạm vi** (差, 範囲, 地図, 両手). 広まる／広める = **lan truyền** thông tin, ảnh hưởng. ✗ 地図を広める → ○ 地図を広げる.",
+     "senses": [
+      {
+       "vi": "広がる: trải rộng ra trước mắt; lan rộng",
+       "ex": {
+        "ja": "{窓|まど}を{開|あ}けると、{青|あお}い{海|うみ}が{広|ひろ}がっていた。",
+        "vi": "Mở cửa sổ ra là biển xanh trải rộng trước mắt."
+       }
+      },
+      {
+       "vi": "広げる: mở, trải, nới rộng",
+       "ex": {
+        "ja": "{地図|ちず}を{机|つくえ}の{上|うえ}に{広|ひろ}げた。",
+        "vi": "Tôi trải tấm bản đồ lên bàn."
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "〜さ",
+   "title_vi": "danh từ chỉ mức độ (gắn được với hầu hết tính từ)",
+   "words": [
+    {
+     "id": "g37-w25",
+     "w": "寂しさ",
+     "r": "さびしさ",
+     "hv": "TỊCH",
+     "pos": "名",
+     "vi": "nỗi cô đơn, sự buồn tẻ",
+     "key": true,
+     "ex": {
+      "ja": "{一人暮|ひとりぐ}らしの{寂|さび}しさにもだいぶ{慣|な}れた。",
+      "vi": "Tôi đã khá quen với nỗi cô đơn khi sống một mình."
+     }
+    },
+    {
+     "id": "g37-w26",
+     "w": "ありがたさ",
+     "r": "ありがたさ",
+     "hv": "",
+     "pos": "名",
+     "vi": "sự đáng quý, điều đáng biết ơn",
+     "key": true,
+     "ex": {
+      "ja": "{病気|びょうき}になって{初|はじ}めて{健康|けんこう}のありがたさがわかった。",
+      "vi": "Đến khi ốm tôi mới hiểu sức khỏe đáng quý thế nào."
+     },
+     "note": "Cũng nói **ありがたみ** với nghĩa gần như nhau (親のありがたみ, お金のありがたみ) — sách chấp nhận cả hai dạng."
+    },
+    {
+     "id": "g37-w27",
+     "w": "正確さ",
+     "r": "せいかくさ",
+     "hv": "CHÍNH XÁC",
+     "pos": "名",
+     "vi": "độ chính xác",
+     "key": true,
+     "ex": {
+      "ja": "{天気|てんき}{予報|よほう}の{正確|せいかく}さは{年々|ねんねん}{上|あ}がっている。",
+      "vi": "Độ chính xác của dự báo thời tiết tăng lên qua từng năm."
+     },
+     "note": "Tính từ な cũng thêm さ được: 正確さ, 静かさ, 便利さ, 大切さ."
+    }
+   ]
+  },
+  {
+   "title": "〜み",
+   "title_vi": "danh từ chỉ cảm nhận, tính chất (chỉ một số tính từ)",
+   "words": [
+    {
+     "id": "g37-w28",
+     "w": "楽しみ",
+     "r": "たのしみ",
+     "hv": "LẠC",
+     "pos": "名",
+     "vi": "niềm vui, thú vui; điều mong chờ",
+     "key": true,
+     "ex": {
+      "ja": "{週末|しゅうまつ}に{孫|まご}と{遊|あそ}ぶのが{祖母|そぼ}の{楽|たの}しみだ。",
+      "vi": "Chơi với cháu vào cuối tuần là niềm vui của bà tôi."
+     },
+     "col": [
+      "〜を楽しみにする",
+      "楽しみだ (mong chờ)"
+     ]
+    },
+    {
+     "id": "g37-w29",
+     "w": "悲しみ",
+     "r": "かなしみ",
+     "hv": "BI",
+     "pos": "名",
+     "vi": "nỗi buồn, nỗi đau thương",
+     "key": true,
+     "ex": {
+      "ja": "{彼女|かのじょ}は{悲|かな}しみを{乗|の}り{越|こ}えて、また{歌|うた}い{始|はじ}めた。",
+      "vi": "Cô ấy vượt qua nỗi đau và lại bắt đầu ca hát."
+     }
+    },
+    {
+     "id": "g37-w30",
+     "w": "苦しみ",
+     "r": "くるしみ",
+     "hv": "KHỔ",
+     "pos": "名",
+     "vi": "nỗi khổ, sự đau đớn",
+     "key": true,
+     "ex": {
+      "ja": "{長|なが}い{苦|くる}しみの{末|すえ}に、ついに{新薬|しんやく}が{完成|かんせい}した。",
+      "vi": "Sau bao gian khổ, cuối cùng loại thuốc mới đã hoàn thành."
+     }
+    },
+    {
+     "id": "g37-w31",
+     "w": "面白み",
+     "r": "おもしろみ",
+     "hv": "DIỆN BẠCH",
+     "pos": "名",
+     "vi": "nét thú vị, sự hấp dẫn",
+     "key": true,
+     "ex": {
+      "ja": "{彼|かれ}の{話|はなし}はわかりやすいが、{面白|おもしろ}みに{欠|か}ける。",
+      "vi": "Câu chuyện của anh ấy dễ hiểu nhưng thiếu sức hấp dẫn."
+     },
+     "col": [
+      "面白みがない",
+      "面白みに欠ける"
+     ]
+    },
+    {
+     "id": "g37-w32",
+     "w": "親しみ",
+     "r": "したしみ",
+     "hv": "THÂN",
+     "pos": "名",
+     "vi": "cảm giác gần gũi, thân thiện",
+     "key": true,
+     "ex": {
+      "ja": "{社長|しゃちょう}は{誰|だれ}にでも{気軽|きがる}に{声|こえ}をかけるので、{親|した}しみを{感|かん}じる。",
+      "vi": "Giám đốc hay bắt chuyện thoải mái với mọi người nên ai cũng thấy gần gũi."
+     },
+     "col": [
+      "親しみを感じる",
+      "親しみやすい"
+     ]
+    },
+    {
+     "id": "g37-w33",
+     "w": "温かみ",
+     "r": "あたたかみ",
+     "hv": "ÔN",
+     "pos": "名",
+     "vi": "sự ấm áp (tình người, chất liệu)",
+     "key": true,
+     "ex": {
+      "ja": "{手書|てが}きの{手紙|てがみ}には{温|あたた}かみがある。",
+      "vi": "Thư viết tay có sự ấm áp riêng."
+     },
+     "col": [
+      "温かみのある声"
+     ]
+    },
+    {
+     "id": "g37-w34",
+     "w": "痛み",
+     "r": "いたみ",
+     "hv": "THỐNG",
+     "pos": "名",
+     "vi": "cơn đau",
+     "key": true,
+     "ex": {
+      "ja": "{薬|くすり}を{飲|の}んだら、{歯|は}の{痛|いた}みがおさまった。",
+      "vi": "Uống thuốc xong cơn đau răng đã dịu đi."
+     },
+     "col": [
+      "痛みを感じる",
+      "痛み止め (thuốc giảm đau)"
+     ]
+    },
+    {
+     "id": "g37-w35",
+     "w": "かゆみ",
+     "r": "かゆみ",
+     "hv": "",
+     "pos": "名",
+     "vi": "cơn ngứa",
+     "key": true,
+     "ex": {
+      "ja": "{蚊|か}に{刺|さ}されたところのかゆみが{止|と}まらない。",
+      "vi": "Chỗ muỗi đốt ngứa mãi không thôi."
+     },
+     "col": [
+      "かゆみ止め"
+     ],
+     "note": "かゆい (痒い) = ngứa."
+    },
+    {
+     "id": "g37-w36",
+     "w": "うまみ",
+     "r": "うまみ",
+     "hv": "",
+     "pos": "名",
+     "vi": "vị umami, vị ngon ngọt; cái lợi",
+     "key": true,
+     "ex": {
+      "ja": "{昆布|こんぶ}からうまみが{出|で}て、スープがおいしくなる。",
+      "vi": "Tảo kombu tiết ra vị ngọt umami khiến nước dùng ngon hơn."
+     },
+     "note": "Nghĩa bóng: うまみのある仕事 (công việc béo bở)."
+    },
+    {
+     "id": "g37-w37",
+     "w": "甘み",
+     "r": "あまみ",
+     "hv": "CAM",
+     "pos": "名",
+     "vi": "vị ngọt",
+     "key": true,
+     "ex": {
+      "ja": "このトマトは{甘|あま}みが{強|つよ}くて、{果物|くだもの}のようだ。",
+      "vi": "Quả cà chua này ngọt đậm như trái cây."
+     }
+    },
+    {
+     "id": "g37-w38",
+     "w": "辛み",
+     "r": "からみ",
+     "hv": "TÂN",
+     "pos": "名",
+     "vi": "vị cay",
+     "key": true,
+     "ex": {
+      "ja": "{辛|から}みが{苦手|にがて}な{人|ひと}は、{唐辛子|とうがらし}を{少|すく}なめにしてください。",
+      "vi": "Ai không ăn được cay thì cho ít ớt thôi."
+     }
+    },
+    {
+     "id": "g37-w39",
+     "w": "苦み",
+     "r": "にがみ",
+     "hv": "KHỔ",
+     "pos": "名",
+     "vi": "vị đắng",
+     "key": true,
+     "ex": {
+      "ja": "ビールの{苦|にが}みが{好|す}きになったのは{大人|おとな}になってからだ。",
+      "vi": "Tôi bắt đầu thích vị đắng của bia khi đã trưởng thành."
+     }
+    },
+    {
+     "id": "g37-w40",
+     "w": "厚み",
+     "r": "あつみ",
+     "hv": "HẬU",
+     "pos": "名",
+     "vi": "độ dày; chiều sâu (nội dung)",
+     "key": true,
+     "ex": {
+      "ja": "{肉|にく}は{二|に}センチぐらいの{厚|あつ}みに{切|き}ってください。",
+      "vi": "Hãy thái thịt dày khoảng 2 cm."
+     },
+     "note": "Nghĩa bóng: 厚みのある内容 (nội dung có chiều sâu)."
+    },
+    {
+     "id": "g37-w41",
+     "w": "丸み",
+     "r": "まるみ",
+     "hv": "HOÀN",
+     "pos": "名",
+     "vi": "độ tròn, nét bo tròn",
+     "key": true,
+     "ex": {
+      "ja": "{丸|まる}みのあるデザインのいすは{子|こ}ども{部屋|べや}に{合|あ}う。",
+      "vi": "Ghế thiết kế bo tròn hợp với phòng trẻ em."
+     }
+    },
+    {
+     "id": "g37-w42",
+     "w": "重み",
+     "r": "おもみ",
+     "hv": "TRỌNG",
+     "pos": "名",
+     "vi": "sức nặng, tầm quan trọng (của lời nói, trách nhiệm…)",
+     "key": true,
+     "ex": {
+      "ja": "{一票|いっぴょう}の{重|おも}みを{考|かんが}えて{選挙|せんきょ}に{行|い}こう。",
+      "vi": "Hãy nghĩ đến sức nặng của một lá phiếu và đi bầu cử."
+     }
+    },
+    {
+     "id": "g37-w43",
+     "w": "深み",
+     "r": "ふかみ",
+     "hv": "THÂM",
+     "pos": "名",
+     "vi": "chiều sâu (hương vị, nội dung, tính cách)",
+     "key": true,
+     "ex": {
+      "ja": "{年|とし}を{重|かさ}ねて、{彼|かれ}の{演技|えんぎ}には{深|ふか}みが{出|で}てきた。",
+      "vi": "Càng có tuổi, diễn xuất của anh ấy càng có chiều sâu."
+     }
+    },
+    {
+     "id": "g37-w44",
+     "w": "強み",
+     "r": "つよみ",
+     "hv": "CƯỜNG",
+     "pos": "名",
+     "vi": "điểm mạnh, thế mạnh",
+     "key": true,
+     "ex": {
+      "ja": "{三|さん}か{国語|こくご}が{話|はな}せるのが{彼女|かのじょ}の{強|つよ}みだ。",
+      "vi": "Nói được ba thứ tiếng là thế mạnh của cô ấy."
+     },
+     "col": [
+      "強みを生かす"
+     ],
+     "rel": "↔ 弱み"
+    },
+    {
+     "id": "g37-w45",
+     "w": "弱み",
+     "r": "よわみ",
+     "hv": "NHƯỢC",
+     "pos": "名",
+     "vi": "điểm yếu (bị người khác nắm thóp, lợi dụng)",
+     "key": true,
+     "ex": {
+      "ja": "{人|ひと}の{弱|よわ}みにつけこむのは{卑怯|ひきょう}だ。",
+      "vi": "Lợi dụng điểm yếu của người khác là hèn hạ."
+     },
+     "col": [
+      "弱みを握る",
+      "弱みにつけこむ",
+      "弱みを見せる"
+     ],
+     "note": "弱み = điểm yếu để người khác lợi dụng; 弱点 = điểm yếu nói chung (kỹ thuật, năng lực)."
+    }
+   ]
+  }
+ ],
+ "focus": [
+  {
+   "title": "〜さ hay 〜み?",
+   "body": "- **〜さ**: gắn được với **hầu hết** tính từ い và な; chỉ **mức độ, kích thước** — thứ đo được, khách quan: 高さ, 長さ, 重さ (5キロ), 深さ (10メートル), 寂しさ, 正確さ, 便利さ.\n- **〜み**: chỉ gắn với **một số** tính từ cố định; chỉ **cảm nhận chủ quan, tính chất, sắc thái**: 甘み, 苦み, 辛み, うまみ (vị); 痛み, かゆみ (cảm giác cơ thể); 楽しみ, 悲しみ, 苦しみ, 親しみ, 温かみ, 面白み (cảm xúc); 厚み, 丸み, 重み, 深み, 強み, 弱み (tính chất).\n\nTừ có cả hai dạng — nghĩa khác nhau:\n- {重|おも}さ = khối lượng (この{荷物|にもつ}の{重|おも}さは5キロ) ／ {重|おも}み = sức nặng ý nghĩa ({言葉|ことば}の{重|おも}み, {責任|せきにん}の{重|おも}み).\n- {深|ふか}さ = độ sâu đo được ／ {深|ふか}み = chiều sâu tính chất ({味|あじ}に{深|ふか}みがある).\n- {強|つよ}さ = sức mạnh ／ {強|つよ}み = thế mạnh, lợi thế (就職で強みになる).\n- {楽|たの}しさ = sự vui (đang trải qua) ／ {楽|たの}しみ = thú vui, điều mong chờ (明日が楽しみだ).\n- {弱|よわ}さ = sự yếu (意志の弱さ = ý chí yếu) ／ {弱|よわ}み = điểm yếu bị người khác nắm (弱みを握られる). ✗ 意志の弱み.\n- {甘|あま}さ = độ ngọt; còn dùng nghĩa bóng (考えの甘さ = suy nghĩ ngây thơ) ／ {甘|あま}み = chỉ nói về **vị** ngọt.\n- {温|あたた}かさ = độ ấm, sự ấm áp của con người (人の温かさ) ／ {温|あたた}かみ = cảm giác ấm áp toát ra từ đồ vật, lời nói (温かみのある色).\n- {親|した}しさ = mức độ thân (thân đến đâu) ／ {親|した}しみ = cảm giác gần gũi (親しみを感じる).\n- ありがたさ ≒ ありがたみ: trường hợp hiếm mà hai dạng gần như cùng nghĩa.\n\n✗ このプールの{深|ふか}みは2メートルだ → ○ {深|ふか}さ\n✗ {一人暮|ひとりぐ}らしの{寂|さび}しみ → ○ {寂|さび}しさ (寂しい không có dạng 〜み)\n✗ {来週|らいしゅう}の{旅行|りょこう}が{楽|たの}しさだ → ○ {楽|たの}しみだ"
+  },
+  {
+   "title": "〜まる (tự) ／〜める (tha): nhìn trợ từ が hay を",
+   "body": "Quy tắc: **N が 〜まる** (tự nó thay đổi) ／ **N を 〜める** (ai đó làm cho thay đổi).\n\n- {関心|かんしん}**が**{高|たか}まる ／ {集中力|しゅうちゅうりょく}**を**{高|たか}める\n- {理解|りかい}**が**{深|ふか}まる ／ {理解|りかい}**を**{深|ふか}める\n- {会場|かいじょう}**が**{静|しず}まる ／ {気持|きも}ち**を**{静|しず}める\n- {方針|ほうしん}**が**{固|かた}まる ／ {決心|けっしん}**を**{固|かた}める\n\nCác cặp trong bài: 温まる／温める, 暖まる／暖める, 早まる／早める, 速まる／速める, 強まる／強める, 弱まる／弱める, 薄まる／薄める, 固まる／固める, 丸まる／丸める, 静まる／静める, 深まる／深める, 高まる／高める, 広まる／広める. Ngoại lệ: **広がる／広げる** (〜がる／〜げる).\n\n✗ {期待|きたい}が{高|たか}めている → ○ {期待|きたい}が{高|たか}まっている\n✗ {火|ひ}が{弱|よわ}めて{煮|に}る → ○ {火|ひ}を{弱|よわ}めて{煮|に}る"
+  },
+  {
+   "title": "Chọn chữ Hán: 温／暖, 早／速, 広まる／広がる",
+   "body": "- **温める** (ÔN): đồ ăn, thân thể, tình cảm — đối lập với 冷たい. スープを温める, 心温まる話.\n- **暖める** (NOÃN): không khí, căn phòng, thời tiết — đối lập với 寒い. 部屋を暖める, 暖かい冬.\n- **早める** (TẢO): **thời điểm** sớm hơn — 予定・出発・帰国を早める.\n- **速める** (TỐC): **tốc độ** nhanh hơn — スピード・足・テンポを速める.\n- **広まる／広める**: lan truyền **thông tin, tư tưởng, kỹ thuật** trong xã hội — うわさ・評判・宗教・技術.\n- **広がる／広げる**: mở rộng **không gian, phạm vi, khoảng cách** — 地図・両手・範囲・差・景色.\n\n✗ {歩|ある}くスピードを{早|はや}める → ○ {速|はや}める\n✗ {会議|かいぎ}の{開始|かいし}を{速|はや}める → ○ {早|はや}める\n✗ {両手|りょうて}を{広|ひろ}める → ○ {広|ひろ}げる"
+  },
+  {
+   "title": "Động từ cảm xúc 〜しむ／〜む (và 〜がる)",
+   "body": "Tính từ cảm xúc (悲しい, 苦しい, 惜しい…) chỉ diễn tả cảm xúc **của chính người nói**. Muốn mô tả cảm xúc như **một hành động** (có đối tượng, dùng cho người khác) thì đổi thành động từ:\n\n- 悲しい → **悲しむ**: {友|とも}の{死|し}を{悲|かな}しむ\n- 苦しい → **苦しむ**: {病気|びょうき}に{苦|くる}しむ\n- 惜しい → **惜しむ**: {別|わか}れを{惜|お}しむ／{努力|どりょく}を{惜|お}しまない\n- 痛い → **痛む**: {膝|ひざ}が{痛|いた}む／{胸|むね}が{痛|いた}む\n- 悔しい → **悔やむ**: {失敗|しっぱい}を{悔|く}やむ\n- うらやましい → **うらやむ**, 憎い → **憎む**, 怪しい → **怪しむ**, 親しい → **親しむ**, 涼しい → **涼む**\n\nMột cách khác (N3) là **〜がる**: {寂|さび}しがる, {痛|いた}がる, うらやましがる — nhấn vào việc **biểu lộ ra ngoài** (thể hiện qua lời nói, nét mặt). 〜しむ／〜む trang trọng hơn và có thể mang nghĩa riêng (惜しむ = không nỡ bỏ ra, 親しむ = làm quen).\n\n✗ {彼女|かのじょ}は{悲|かな}しい。(nói về người khác) → ○ {彼女|かのじょ}は{悲|かな}しんでいる／{悲|かな}しそうだ\n✗ {彼|かれ}は{協力|きょうりょく}を{惜|お}しくない → ○ {協力|きょうりょく}を{惜|お}しまない"
+  }
+ ],
+ "quiz": [
+  {
+   "id": "g37-q1",
+   "kind": "formation",
+   "ref": "g37-w25",
+   "q": "{家族|かぞく}と{離|はな}れて{暮|く}らす{寂|さび}し（　　）は、{経験|けいけん}した{人|ひと}にしかわからない。",
+   "options": [
+    "み",
+    "さ",
+    "まり",
+    "がり"
+   ],
+   "answer": 1,
+   "vi": "Nỗi cô đơn khi sống xa gia đình chỉ người từng trải mới hiểu.",
+   "why": "寂しい chỉ có dạng danh từ **寂しさ**. 寂しみ không tồn tại (〜み chỉ gắn với một số tính từ); 寂しまり không có; 寂しがり chỉ dùng trong 寂しがり屋 (người hay thấy cô đơn), không làm chủ ngữ 'nỗi cô đơn'."
+  },
+  {
+   "id": "g37-q2",
+   "kind": "formation",
+   "ref": "g37-w44",
+   "q": "{三|さん}か{国語|こくご}を{話|はな}せることは、{就職|しゅうしょく}{活動|かつどう}で{大|おお}きな{強|つよ}（　　）になる。",
+   "options": [
+    "さ",
+    "まり",
+    "み",
+    "め"
+   ],
+   "answer": 2,
+   "vi": "Nói được ba thứ tiếng sẽ là lợi thế lớn khi đi xin việc.",
+   "why": "Lợi thế, thế mạnh → **強み**. 強さ = sức mạnh (thể lực, tinh thần), không dùng cho 'lợi thế khi xin việc'; 強まり (sự mạnh lên) và 強め (hơi mạnh) không hợp nghĩa."
+  },
+  {
+   "id": "g37-q3",
+   "kind": "formation",
+   "ref": "g37-w22",
+   "q": "オリンピックが{近|ちか}づき、{国民|こくみん}の{期待|きたい}が{高|たか}（　　）いる。",
+   "options": [
+    "めて",
+    "くて",
+    "んで",
+    "まって"
+   ],
+   "answer": 3,
+   "vi": "Thế vận hội đến gần, kỳ vọng của người dân đang dâng cao.",
+   "why": "期待**が** + tự động từ → **高まっている**. 高めている là tha động từ, cần を (期待を高める); 高くている sai ngữ pháp; 高んで không tồn tại."
+  },
+  {
+   "id": "g37-q4",
+   "kind": "formation",
+   "ref": "g37-w21",
+   "q": "{留学生|りゅうがくせい}との{交流|こうりゅう}を{通|つう}じて、{異文化|いぶんか}への{理解|りかい}を{深|ふか}（　　）。",
+   "options": [
+    "まった",
+    "みた",
+    "めた",
+    "くした"
+   ],
+   "answer": 2,
+   "vi": "Thông qua giao lưu với du học sinh, tôi đã hiểu sâu hơn về văn hóa khác.",
+   "why": "理解**を** + tha động từ → **深めた**. 深まった là tự động từ (理解が深まった); 深みた không tồn tại; 深くした về ngữ pháp được nhưng với 理解 người Nhật dùng cụm cố định 理解を深める — trong đề 語形成 đáp án là 〜める."
+  },
+  {
+   "id": "g37-q5",
+   "kind": "formation",
+   "ref": "g37-w42",
+   "q": "この{荷物|にもつ}は{重|おも}（　　）が{十|じゅう}キロ{以上|いじょう}ある。",
+   "options": [
+    "み",
+    "さ",
+    "まり",
+    "め"
+   ],
+   "answer": 1,
+   "vi": "Kiện hàng này nặng hơn 10 kg.",
+   "why": "Khối lượng **đo được** (10 kg) → **重さ**. 重み = sức nặng về ý nghĩa (言葉の重み), không đi với con số; 重まり không tồn tại; 重め = hơi nặng (tính từ), không làm chủ ngữ với が〜ある."
+  },
+  {
+   "id": "g37-q6",
+   "kind": "context",
+   "ref": "g37-w5",
+   "q": "{留学|りゅうがく}する{親友|しんゆう}と、{空港|くうこう}でいつまでも{別|わか}れを（　　）。",
+   "options": [
+    "{惜|お}しんだ",
+    "{怪|あや}しんだ",
+    "{憎|にく}んだ",
+    "{悔|く}やんだ"
+   ],
+   "answer": 0,
+   "vi": "Ở sân bay, tôi và người bạn thân sắp đi du học cứ lưu luyến mãi không nỡ chia tay.",
+   "why": "**別れを惜しむ** = lưu luyến khi chia tay (cụm cố định). 怪しむ = nghi ngờ; 憎む = căm ghét; 悔やむ = hối hận — không đi với 別れ trong ngữ cảnh này."
+  },
+  {
+   "id": "g37-q7",
+   "kind": "write",
+   "ref": "g37-w11",
+   "q": "{冷|さ}めたコーヒーを{電子|でんし}レンジで[[u:あたためた]]。",
+   "options": [
+    "温めた",
+    "暖めた",
+    "熱めた",
+    "厚めた"
+   ],
+   "answer": 0,
+   "vi": "Tôi hâm lại cà phê nguội bằng lò vi sóng.",
+   "why": "Đồ uống, đồ ăn → **温める** (ÔN). 暖める dùng cho không khí, căn phòng; 熱める, 厚める không phải từ."
+  },
+  {
+   "id": "g37-q8",
+   "kind": "formation",
+   "ref": "g37-w28",
+   "q": "{毎晩|まいばん}{寝|ね}る{前|まえ}に{好|す}きな{小説|しょうせつ}を{読|よ}むのが{私|わたし}の{楽|たの}し（　　）だ。",
+   "options": [
+    "さ",
+    "め",
+    "がり",
+    "み"
+   ],
+   "answer": 3,
+   "vi": "Đọc cuốn tiểu thuyết yêu thích mỗi tối trước khi ngủ là thú vui của tôi.",
+   "why": "Thú vui → **楽しみ**. 楽しさ = mức độ vui (旅の楽しさ), không dùng cho 'thú vui của tôi là…'; 楽しめ, 楽しがり không phải danh từ."
+  },
+  {
+   "id": "g37-q9",
+   "kind": "paraphrase",
+   "ref": "g37-w9",
+   "q": "{彼|かれ}は{若|わか}いころ{勉強|べんきょう}しなかったことを[[u:{悔|く}やんで]]いる。",
+   "options": [
+    "{後悔|こうかい}して",
+    "{自慢|じまん}して",
+    "{喜|よろこ}んで",
+    "{忘|わす}れて"
+   ],
+   "answer": 0,
+   "vi": "Anh ấy hối hận vì hồi trẻ đã không học hành.",
+   "why": "悔やむ = hối tiếc, ân hận ≒ **後悔する**. 自慢する = khoe khoang; 喜ぶ = vui mừng; 忘れる = quên — đều không phải nghĩa của 悔やむ."
+  },
+  {
+   "id": "g37-q10",
+   "kind": "formation",
+   "ref": "g37-w20",
+   "q": "{大臣|だいじん}が{話|はな}し{始|はじ}めると、{会場|かいじょう}はすっと{静|しず}（　　）。",
+   "options": [
+    "めた",
+    "かった",
+    "まった",
+    "んだ"
+   ],
+   "answer": 2,
+   "vi": "Bộ trưởng vừa bắt đầu nói, cả hội trường lập tức lặng xuống.",
+   "why": "会場**は** (tự nó yên lặng) → tự động từ **静まった**. 静めた là tha động từ (会場を静める); 静か là tính từ な nên không có 静かった; 静んだ không tồn tại."
+  }
+ ],
+ "practice": [
+  {
+   "id": "g37-p1",
+   "kind": "formation",
+   "ref": "g37-w14",
+   "q": "{電車|でんしゃ}に{遅|おく}れそうだったので、{歩|ある}く{速度|そくど}を{速|はや}（　　）。",
+   "options": [
+    "まった",
+    "めた",
+    "んだ",
+    "みた"
+   ],
+   "answer": 1,
+   "vi": "Sợ lỡ tàu nên tôi tăng tốc độ đi bộ.",
+   "why": "速度**を** → tha động từ **速めた**. 速まった là tự động từ (速度が速まった); 速んだ, 速みた không tồn tại."
+  },
+  {
+   "id": "g37-p2",
+   "kind": "write",
+   "ref": "g37-w13",
+   "q": "{台風|たいふう}が{近|ちか}づいているので、{帰|かえ}りの{予定|よてい}を[[u:はやめる]]ことにした。",
+   "options": [
+    "速める",
+    "急める",
+    "迅める",
+    "早める"
+   ],
+   "answer": 3,
+   "vi": "Vì bão đang đến gần nên tôi quyết định về sớm hơn dự định.",
+   "why": "予定 = **thời điểm** → **早める**. 速める dùng cho tốc độ (スピードを速める); 急める, 迅める không phải từ."
+  },
+  {
+   "id": "g37-p3",
+   "kind": "formation",
+   "ref": "g37-w16",
+   "q": "{夕方|ゆうがた}になって、{風|かぜ}がだいぶ{弱|よわ}（　　）きた。",
+   "options": [
+    "めて",
+    "みて",
+    "まって",
+    "さで"
+   ],
+   "answer": 2,
+   "vi": "Về chiều, gió đã yếu đi nhiều.",
+   "why": "風**が** (tự yếu đi) + 〜てきた → **弱まってきた**. 弱めて là tha động từ, cần を; 弱みて, 弱さで không tạo thành động từ."
+  },
+  {
+   "id": "g37-p4",
+   "kind": "formation",
+   "ref": "g37-w45",
+   "q": "{相手|あいて}の{弱|よわ}（　　）を{握|にぎ}って{脅|おど}すなんて、{許|ゆる}せない。",
+   "options": [
+    "さ",
+    "み",
+    "まり",
+    "め"
+   ],
+   "answer": 1,
+   "vi": "Nắm thóp điểm yếu của người khác để đe dọa thì không thể tha thứ.",
+   "why": "**弱みを握る** = nắm thóp (cụm cố định). 弱さ = sự yếu đuối nói chung, không 'nắm' được; 弱まり (sự yếu đi), 弱め (hơi yếu) không hợp."
+  },
+  {
+   "id": "g37-p5",
+   "kind": "formation",
+   "ref": "g37-w27",
+   "q": "{翻訳|ほんやく}の{仕事|しごと}では、{速|はや}さより{正確|せいかく}（　　）が{求|もと}められる。",
+   "options": [
+    "み",
+    "め",
+    "さ",
+    "まり"
+   ],
+   "answer": 2,
+   "vi": "Trong công việc dịch thuật, độ chính xác được đòi hỏi hơn tốc độ.",
+   "why": "正確 (tính từ な) → danh từ mức độ **正確さ**. 正確み, 正確め, 正確まり đều không tồn tại — 〜み và 〜まる không gắn với tính từ な Hán ngữ."
+  },
+  {
+   "id": "g37-p6",
+   "kind": "context",
+   "ref": "g37-w3",
+   "q": "{子|こ}どもには{小|ちい}さいころから{本|ほん}に（　　）ほしいと{思|おも}い、{毎晩|まいばん}{読|よ}み{聞|き}かせをしている。",
+   "options": [
+    "{親|した}しんで",
+    "{怪|あや}しんで",
+    "{苦|くる}しんで",
+    "{惜|お}しんで"
+   ],
+   "answer": 0,
+   "vi": "Muốn con gần gũi với sách từ nhỏ, tối nào tôi cũng đọc sách cho con nghe.",
+   "why": "**本に親しむ** = gần gũi, quen thuộc với sách. 怪しむ = nghi ngờ; 苦しむ = khổ sở; 惜しむ = tiếc — đều không hợp với mong muốn của cha mẹ."
+  },
+  {
+   "id": "g37-p7",
+   "kind": "context",
+   "ref": "g37-w8",
+   "q": "{隣|となり}の{家|いえ}の{新車|しんしゃ}をずっと（　　）いた{父|ちち}が、とうとう{自分|じぶん}も{車|くるま}を{買|か}い{替|か}えた。",
+   "options": [
+    "{悔|く}やんで",
+    "{涼|すず}んで",
+    "うらやんで",
+    "{痛|いた}んで"
+   ],
+   "answer": 2,
+   "vi": "Bố tôi vốn thèm thuồng chiếc xe mới nhà bên, cuối cùng cũng đổi xe.",
+   "why": "Thèm muốn thứ người khác có → **うらやむ**. 悔やむ = hối hận về việc mình đã làm; 涼む = hóng mát (自動, không có を); 痛む = đau (自動)."
+  },
+  {
+   "id": "g37-p8",
+   "kind": "formation",
+   "ref": "g37-w18",
+   "q": "{何度|なんど}も{話|はな}し{合|あ}って、ようやく{会社|かいしゃ}の{方針|ほうしん}が{固|かた}（　　）。",
+   "options": [
+    "めた",
+    "まった",
+    "くした",
+    "みた"
+   ],
+   "answer": 1,
+   "vi": "Sau nhiều lần bàn bạc, cuối cùng phương châm của công ty cũng đã được chốt.",
+   "why": "方針**が** → tự động từ **固まった**. 固めた, 固くした là tha động từ (cần を); 固みた không tồn tại."
+  },
+  {
+   "id": "g37-p9",
+   "kind": "formation",
+   "ref": "g37-w23",
+   "q": "SNSのおかげで、その{店|みせ}の{評判|ひょうばん}はすぐに{広|ひろ}（　　）。",
+   "options": [
+    "めた",
+    "げた",
+    "まった",
+    "さった"
+   ],
+   "answer": 2,
+   "vi": "Nhờ mạng xã hội, tiếng tăm của quán đó lan ra rất nhanh.",
+   "why": "評判**は／が** (tự lan ra) → **広まった**. 広めた, 広げた là tha động từ, cần を; 広さった không tồn tại."
+  },
+  {
+   "id": "g37-p10",
+   "kind": "formation",
+   "ref": "g37-w24",
+   "q": "{机|つくえ}の{上|うえ}に{地図|ちず}を{広|ひろ}（　　）、{旅行|りょこう}のルートを{確認|かくにん}した。",
+   "options": [
+    "めて",
+    "まって",
+    "がって",
+    "げて"
+   ],
+   "answer": 3,
+   "vi": "Tôi trải bản đồ lên bàn và kiểm tra lộ trình chuyến đi.",
+   "why": "Trải tấm bản đồ (không gian) + を → **広げて**. 広めて = truyền bá (thông tin), không dùng với 地図; 広まって, 広がって là tự động từ, không đi với を."
+  },
+  {
+   "id": "g37-p11",
+   "kind": "formation",
+   "ref": "g37-w34",
+   "q": "この{薬|くすり}を{飲|の}めば、{頭|あたま}の{痛|いた}（　　）はすぐにおさまるでしょう。",
+   "options": [
+    "み",
+    "め",
+    "まり",
+    "がり"
+   ],
+   "answer": 0,
+   "vi": "Uống thuốc này thì cơn đau đầu sẽ dịu ngay.",
+   "why": "Cơn đau (cảm giác cơ thể) + おさまる → **痛み**. 痛め, 痛まり không phải danh từ; 痛がり = người hay kêu đau, không 'dịu đi' được."
+  },
+  {
+   "id": "g37-p12",
+   "kind": "paraphrase",
+   "ref": "g37-w4",
+   "q": "{夜中|よなか}に{店|みせ}の{前|まえ}をうろうろしている{男|おとこ}を、{警備員|けいびいん}が[[u:{怪|あや}しんだ]]。",
+   "options": [
+    "{疑|うたが}わしく{思|おも}った",
+    "うらやましく{思|おも}った",
+    "{懐|なつ}かしく{思|おも}った",
+    "{気|き}の{毒|どく}に{思|おも}った"
+   ],
+   "answer": 0,
+   "vi": "Nhân viên bảo vệ nghi ngờ người đàn ông lảng vảng trước cửa hàng lúc nửa đêm.",
+   "why": "怪しむ = thấy đáng ngờ ≒ **疑わしく思う**. うらやましい = ghen tị; 懐かしい = hoài niệm; 気の毒 = thương hại — không phải nghĩa của 怪しむ."
+  },
+  {
+   "id": "g37-p13",
+   "kind": "formation",
+   "ref": "g37-w26",
+   "q": "{一人暮|ひとりぐ}らしを{始|はじ}めて、{親|おや}のありがた（　　）がよくわかった。",
+   "options": [
+    "がり",
+    "まり",
+    "め",
+    "さ"
+   ],
+   "answer": 3,
+   "vi": "Bắt đầu sống một mình, tôi mới thấm thía công ơn của bố mẹ.",
+   "why": "Danh từ của ありがたい → **ありがたさ** (ありがたみ cũng đúng, nhưng không có trong phương án). ありがたがり không phải danh từ dùng được ở đây (chỉ có động từ ありがたがる = tỏ ra biết ơn); ありがたまり, ありがため không tồn tại."
+  }
+ ],
+ "test": [
+  {
+   "id": "g37-t1",
+   "kind": "formation",
+   "ref": "g37-w1",
+   "q": "{祖母|そぼ}が{亡|な}くなり、{家族|かぞく}はみんな{深|ふか}く{悲|かな}し（　　）だ。",
+   "options": [
+    "ん",
+    "み",
+    "さ",
+    "がっ"
+   ],
+   "answer": 0,
+   "vi": "Bà mất, cả gia đình vô cùng đau buồn.",
+   "why": "Phó từ 深く + động từ quá khứ → **悲しんだ**. 悲しみだ, 悲しさだ là danh từ + だ, không đi với phó từ 深く bổ nghĩa cho động từ; 悲しがっだ sai ngữ pháp (phải là 悲しがった)."
+  },
+  {
+   "id": "g37-t2",
+   "kind": "formation",
+   "ref": "g37-w2",
+   "q": "{世界|せかい}には、{今|いま}も{水不足|みずぶそく}に{苦|くる}し（　　）でいる{地域|ちいき}が{多|おお}い。",
+   "options": [
+    "み",
+    "め",
+    "ん",
+    "さ"
+   ],
+   "answer": 2,
+   "vi": "Trên thế giới đến nay vẫn có nhiều vùng đang khổ sở vì thiếu nước.",
+   "why": "〜に苦しむ → 〜ている = **苦しんでいる**. 苦しみでいる, 苦しさでいる (danh từ + でいる) không tự nhiên; 苦しめでいる sai ngữ pháp."
+  },
+  {
+   "id": "g37-t3",
+   "kind": "formation",
+   "ref": "g37-w17",
+   "q": "このジュースは{濃|こ}いので、{水|みず}で{薄|うす}（　　）{飲|の}んでください。",
+   "options": [
+    "まって",
+    "くて",
+    "めて",
+    "んで"
+   ],
+   "answer": 2,
+   "vi": "Nước ép này đặc nên hãy pha loãng với nước rồi uống.",
+   "why": "Người uống pha loãng (tha động từ) → **薄めて**. 薄まって là tự động từ (ジュースが薄まる); 薄くて không nối được với 水で〜飲む theo nghĩa 'pha'; 薄んで không tồn tại."
+  },
+  {
+   "id": "g37-t4",
+   "kind": "formation",
+   "ref": "g37-w19",
+   "q": "{寒|さむ}さのあまり、{彼|かれ}は{背中|せなか}を{丸|まる}（　　）{歩|ある}いていた。",
+   "options": [
+    "めて",
+    "まって",
+    "みて",
+    "くて"
+   ],
+   "answer": 0,
+   "vi": "Lạnh quá nên anh ấy khom lưng mà đi.",
+   "why": "背中**を** → tha động từ **丸めて**. 丸まって là tự động từ (背中が丸まる); 丸みて, 丸くて không đi với を theo cách này."
+  },
+  {
+   "id": "g37-t5",
+   "kind": "write",
+   "ref": "g37-w12",
+   "q": "{帰宅|きたく}する{前|まえ}に、エアコンで{部屋|へや}を[[u:あたためて]]おいた。",
+   "options": [
+    "温めて",
+    "暖めて",
+    "熱めて",
+    "厚めて"
+   ],
+   "answer": 1,
+   "vi": "Trước khi về nhà, tôi đã bật điều hòa sưởi ấm căn phòng.",
+   "why": "Căn phòng, không khí → **暖める** (NOÃN, đối lập 寒い). 温める dùng cho đồ ăn, thân thể; 熱める, 厚める không phải từ."
+  },
+  {
+   "id": "g37-t6",
+   "kind": "formation",
+   "ref": "g37-w28",
+   "q": "{来月|らいげつ}{生|う}まれる{初孫|はつまご}に{会|あ}えるのが、{今|いま}から{楽|たの}し（　　）だ。",
+   "options": [
+    "さ",
+    "まり",
+    "め",
+    "み"
+   ],
+   "answer": 3,
+   "vi": "Tôi đã háo hức mong được gặp đứa cháu đầu lòng sắp chào đời tháng sau.",
+   "why": "Mong chờ điều sắp tới → **楽しみだ**. 楽しさだ không diễn tả sự mong chờ; 楽しまり, 楽しめ không phải danh từ."
+  },
+  {
+   "id": "g37-t7",
+   "kind": "formation",
+   "ref": "g37-w15",
+   "q": "{夕方|ゆうがた}から{雨|あめ}が{強|つよ}（　　）きたので、{早|はや}めに{帰|かえ}ることにした。",
+   "options": [
+    "めて",
+    "くて",
+    "まって",
+    "んで"
+   ],
+   "answer": 2,
+   "vi": "Từ chiều mưa nặng hạt dần nên tôi quyết định về sớm.",
+   "why": "雨**が** (tự mạnh lên) + 〜てきた → **強まってきた**. 強めて là tha động từ (cần を); 強くてきた sai ngữ pháp; 強んで không tồn tại."
+  },
+  {
+   "id": "g37-t8",
+   "kind": "context",
+   "ref": "g37-w5",
+   "q": "{彼|かれ}は{夢|ゆめ}を{実現|じつげん}するためなら、どんな{努力|どりょく}も（　　）。",
+   "options": [
+    "{惜|お}しまない",
+    "{悔|く}やまない",
+    "{怪|あや}しまない",
+    "{親|した}しまない"
+   ],
+   "answer": 0,
+   "vi": "Để thực hiện ước mơ, anh ấy không tiếc bất cứ nỗ lực nào.",
+   "why": "**努力を惜しまない** = không tiếc công sức (cụm cố định). 悔やまない = không hối hận; 怪しまない = không nghi ngờ; 親しまない = không gần gũi — không hợp với 努力."
+  },
+  {
+   "id": "g37-t9",
+   "kind": "paraphrase",
+   "ref": "g37-w32",
+   "q": "{新|あたら}しく{来|き}た{先生|せんせい}は[[u:{親|した}しみやすい]]{人|ひと}だ。",
+   "options": [
+    "{厳|きび}しい",
+    "{気軽|きがる}に{話|はな}しかけられる",
+    "{頭|あたま}がいい",
+    "{真面目|まじめ}な"
+   ],
+   "answer": 1,
+   "vi": "Thầy giáo mới là người dễ gần.",
+   "why": "親しみやすい = dễ gần, thân thiện ≒ **気軽に話しかけられる**. 厳しい gần như ngược nghĩa; 頭がいい, 真面目な nói về trí tuệ, tính cách khác."
+  },
+  {
+   "id": "g37-t10",
+   "kind": "context",
+   "ref": "g37-w10",
+   "q": "{暑|あつ}い{日|ひ}は、{仕事|しごと}{帰|がえ}りに{公園|こうえん}のベンチで{少|すこ}し（　　）から{家|いえ}に{帰|かえ}る。",
+   "options": [
+    "{痛|いた}んで",
+    "{親|した}しんで",
+    "{苦|くる}しんで",
+    "{涼|すず}んで"
+   ],
+   "answer": 3,
+   "vi": "Những ngày nóng, tan làm tôi ngồi ghế đá công viên hóng mát một chút rồi mới về nhà.",
+   "why": "Ngày nóng, ngồi ghế công viên → **涼む** (hóng mát). 痛む = đau; 親しむ cần đối tượng (〜に親しむ); 苦しむ = khổ sở — không hợp ngữ cảnh nghỉ ngơi."
+  },
+  {
+   "id": "g37-t11",
+   "kind": "context",
+   "ref": "g37-w6",
+   "q": "{戦争|せんそう}で{家|いえ}を{失|うしな}った{子|こ}どもたちの{写真|しゃしん}を{見|み}て、{胸|むね}が（　　）。",
+   "options": [
+    "{悔|く}やんだ",
+    "{痛|いた}んだ",
+    "{惜|お}しんだ",
+    "{憎|にく}んだ"
+   ],
+   "answer": 1,
+   "vi": "Nhìn ảnh những đứa trẻ mất nhà vì chiến tranh, tôi thấy xót xa trong lòng.",
+   "why": "**胸が痛む** = đau lòng, xót xa. 悔やむ, 惜しむ, 憎む đều là tha động từ cần tân ngữ (〜を), không dùng với 胸が."
+  }
+ ]
+}

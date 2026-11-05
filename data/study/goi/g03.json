@@ -1,0 +1,1852 @@
+{
+  "id": "g03",
+  "track": "goi",
+  "intro": "Bài này nói về **cảm xúc và hành động của mình đối với người khác** — yêu, ghét, ghen tị, kính trọng, an ủi, mắng mỏ, xin lỗi, làm lành… và cả chuyện yêu đương.\n\nĐiểm đặc biệt: sách nhóm từ theo **trợ từ** đi kèm, đây chính là chìa khoá làm bài:\n\n- **〔人〕を V**: うらやむ, 尊敬する, 敬う, 疑う, 恐れる, 憎む, 恨む, 嫌う, 嫌がる, 慰める, けなす, ののしる, にらむ, 避ける — người là **đối tượng** của động từ.\n- **〔人〕に V**: 敬意を持つ, あこがれる, 恩を感じる, 失望する, 助言する, 忠告する, 言いつける, 皮肉を言う, 不平を言う, 自慢する — người là **đích hướng tới**.\n- **〔人〕が Adj**: うらやましい, 憎い, 憎らしい, 哀れ, 気の毒 — tính từ cảm xúc, 「私は彼が うらやましい」.\n- **〜と思う**: 申し訳ない, 済まない, ありがたい.\n\nTiếp theo là **phép lịch sự (礼儀)**: エチケット, 作法, 敬語, 態度, 姿勢, 服装, みっともない… và **tình yêu (恋愛)**: もてる, 理想, 偶然, 見かける, 冷める, 振る, 失恋.\n\n語形成: **〜がる, 〜らしい, 〜つける, 〜める, 〜的**. Phó từ: **まさに, 思い切って, ようやく, いつの間にか**.",
+  "sections": [
+    {
+      "title": "感情 ①〔人〕を〜",
+      "title_vi": "Cảm xúc: 〔người〕を + động từ",
+      "words": [
+        {
+          "id": "g03-w1",
+          "w": "うらやむ",
+          "r": "うらやむ",
+          "hv": "(羨) TIỆN",
+          "pos": "他動",
+          "vi": "ghen tị, thèm muốn (cái người khác có)",
+          "key": true,
+          "ex": {
+            "ja": "{人|ひと}をうらやんでばかりいないで、{自分|じぶん}にできることを{考|かんが}えよう。",
+            "vi": "Đừng chỉ ghen tị với người khác, hãy nghĩ xem mình làm được gì."
+          },
+          "col": [
+            "人の成功をうらやむ",
+            "人もうらやむ仲 (cặp đôi ai cũng ngưỡng mộ)"
+          ],
+          "rel": "cf. うらやましい・妬む(ねたむ)",
+          "note": "うらやむ = muốn được như người ta (chưa hẳn xấu). 妬む(ねたむ) = ghen ghét, muốn người ta mất cái đó (xấu hơn)."
+        },
+        {
+          "id": "g03-w2",
+          "w": "尊敬",
+          "r": "そんけい",
+          "hv": "TÔN KÍNH",
+          "pos": "名・他動",
+          "vi": "kính trọng, ngưỡng mộ",
+          "key": true,
+          "ex": {
+            "ja": "{私|わたし}が{一番|いちばん}{尊敬|そんけい}しているのは、{苦労|くろう}して{私|わたし}を{育|そだ}ててくれた{母|はは}だ。",
+            "vi": "Người tôi kính trọng nhất là mẹ — người đã vất vả nuôi tôi khôn lớn."
+          },
+          "col": [
+            "〜を尊敬する",
+            "尊敬語",
+            "尊敬の念"
+          ],
+          "rel": "≒ 敬う"
+        },
+        {
+          "id": "g03-w3",
+          "w": "敬う",
+          "r": "うやまう",
+          "hv": "KÍNH",
+          "pos": "他動",
+          "vi": "kính trọng, tôn kính (người già, tổ tiên, thần phật)",
+          "key": true,
+          "ex": {
+            "ja": "この{町|まち}には、お{年寄|としよ}りを{敬|うやま}う{伝統|でんとう}が{今|いま}も{残|のこ}っている。",
+            "vi": "Ở thị trấn này, truyền thống kính trọng người già vẫn còn đến ngày nay."
+          },
+          "col": [
+            "老人を敬う",
+            "神を敬う"
+          ],
+          "rel": "≒ 尊敬する",
+          "note": "敬う hơi cổ điển, hay dùng cho **người già, tổ tiên, thần thánh**. 尊敬する dùng rộng hơn (cả người cùng thời có tài)."
+        },
+        {
+          "id": "g03-w4",
+          "w": "疑う",
+          "r": "うたがう",
+          "hv": "NGHI",
+          "pos": "他動",
+          "vi": "nghi ngờ; ngờ rằng",
+          "key": true,
+          "ex": {
+            "ja": "{警察|けいさつ}は{最初|さいしょ}から{彼|かれ}の{話|はなし}を{疑|うたが}っていた。",
+            "vi": "Cảnh sát ngay từ đầu đã nghi ngờ lời khai của anh ta."
+          },
+          "col": [
+            "人を疑う",
+            "自分の目を疑う (không tin vào mắt mình)",
+            "疑い (danh từ)"
+          ],
+          "rel": "↔ 信じる",
+          "note": "「目を疑う」 = ngạc nhiên đến không tin nổi. 疑う còn = \"nghi là…\" (病気を疑う = nghi bị bệnh)."
+        },
+        {
+          "id": "g03-w5",
+          "w": "恐れる",
+          "r": "おそれる",
+          "hv": "KHỦNG",
+          "pos": "他動",
+          "vi": "sợ, e sợ, lo sợ",
+          "key": true,
+          "ex": {
+            "ja": "{失敗|しっぱい}を{恐|おそ}れていては、{何|なに}も{始|はじ}められない。",
+            "vi": "Cứ sợ thất bại thì chẳng bắt đầu được việc gì."
+          },
+          "col": [
+            "失敗を恐れる",
+            "〜を恐れずに"
+          ],
+          "rel": "≒ 怖がる",
+          "note": "Văn viết, trang trọng hơn 怖がる. Danh từ: 恐れ (〜おそれがある = có nguy cơ — ngữ pháp N2)."
+        },
+        {
+          "id": "g03-w6",
+          "w": "憎む",
+          "r": "にくむ",
+          "hv": "TĂNG",
+          "pos": "他動",
+          "vi": "căm ghét, căm thù",
+          "key": true,
+          "ex": {
+            "ja": "{戦争|せんそう}で{家族|かぞく}を{失|うしな}った{彼|かれ}は、{今|いま}でも{戦争|せんそう}を{憎|にく}んでいる。",
+            "vi": "Mất gia đình vì chiến tranh, đến giờ ông ấy vẫn căm ghét chiến tranh."
+          },
+          "col": [
+            "罪を憎む",
+            "憎しみ (lòng căm thù)"
+          ],
+          "note": "Ghét **mạnh, sâu sắc**, có thể hướng tới cả sự vật trừu tượng (不正, 戦争). Câu nổi tiếng: 罪を憎んで人を憎まず."
+        },
+        {
+          "id": "g03-w7",
+          "w": "恨む",
+          "r": "うらむ",
+          "hv": "HẬN",
+          "pos": "他動",
+          "vi": "oán hận, hận (vì bị đối xử tệ)",
+          "key": true,
+          "ex": {
+            "ja": "{彼女|かのじょ}は{自分|じぶん}を{裏切|うらぎ}った{友人|ゆうじん}を{長|なが}い{間|あいだ}{恨|うら}んでいた。",
+            "vi": "Cô ấy đã oán hận người bạn phản bội mình suốt một thời gian dài."
+          },
+          "col": [
+            "人を恨む",
+            "恨み (mối hận)"
+          ],
+          "note": "Điểm khác 憎む: 恨む luôn có **nguyên nhân là mình bị hại** (bị lừa, bị phản bội) và cảm giác kéo dài."
+        },
+        {
+          "id": "g03-w8",
+          "w": "嫌う",
+          "r": "きらう",
+          "hv": "HIỀM",
+          "pos": "他動",
+          "vi": "ghét, không ưa",
+          "key": true,
+          "ex": {
+            "ja": "{彼|かれ}は{嘘|うそ}を{何|なに}よりも{嫌|きら}う{人|ひと}だ。",
+            "vi": "Anh ấy là người ghét nói dối hơn bất cứ điều gì."
+          },
+          "col": [
+            "人に嫌われる",
+            "嫌いだ (tính từ)"
+          ],
+          "note": "Văn viết hơn 嫌いだ. Thể bị động 「みんなに嫌われる」 = bị mọi người ghét — rất hay gặp."
+        },
+        {
+          "id": "g03-w9",
+          "w": "嫌がる",
+          "r": "いやがる",
+          "hv": "HIỀM",
+          "pos": "他動",
+          "vi": "tỏ ra ghét, tỏ vẻ không muốn (người thứ ba)",
+          "key": true,
+          "ex": {
+            "ja": "{猫|ねこ}はお{風呂|ふろ}を{嫌|いや}がって、{逃|に}げ{回|まわ}った。",
+            "vi": "Con mèo không chịu tắm, chạy trốn khắp nơi."
+          },
+          "col": [
+            "嫌がることをする",
+            "嫌がらせ (sự quấy rối)"
+          ],
+          "note": "〜がる = biểu hiện ra ngoài → dùng cho **người khác / con vật** (彼は嫌がる), không dùng cho chính mình ở hiện tại (✗ 私は嫌がる → ○ 私は嫌だ). Đọc **いや**がる, không phải きらがる."
+        }
+      ]
+    },
+    {
+      "title": "感情 ②〔人〕に〜",
+      "title_vi": "Cảm xúc: 〔người〕に + …",
+      "words": [
+        {
+          "id": "g03-w10",
+          "w": "敬意",
+          "r": "けいい",
+          "hv": "KÍNH Ý",
+          "pos": "名",
+          "vi": "lòng kính trọng, sự tôn trọng",
+          "key": true,
+          "ex": {
+            "ja": "{長年|ながねん}{地域|ちいき}のために{働|はたら}いてきた{彼|かれ}に、{敬意|けいい}を{払|はら}いたい。",
+            "vi": "Tôi muốn bày tỏ lòng kính trọng với ông ấy — người đã làm việc vì cộng đồng nhiều năm."
+          },
+          "col": [
+            "敬意を払う",
+            "敬意を持つ",
+            "敬意を表する"
+          ],
+          "note": "Động từ đi kèm đặc biệt: **払う** (敬意を払う = bày tỏ sự kính trọng), giống 注意を払う."
+        },
+        {
+          "id": "g03-w11",
+          "w": "あこがれる",
+          "r": "あこがれる",
+          "hv": "(憧) SUNG",
+          "pos": "自動",
+          "vi": "ngưỡng mộ, mơ ước (được như / có được)",
+          "key": true,
+          "ex": {
+            "ja": "{子|こ}どものころからパイロットにあこがれていた。",
+            "vi": "Từ nhỏ tôi đã mơ ước trở thành phi công."
+          },
+          "col": [
+            "〜にあこがれる",
+            "あこがれの人／職業",
+            "都会の生活にあこがれる"
+          ],
+          "note": "Trợ từ **に** (không phải を). Hướng tới thứ **ở xa, mình chưa có** và thấy đẹp đẽ. Khác うらやむ: うらやむ có chút ghen; あこがれる thuần ngưỡng mộ."
+        },
+        {
+          "id": "g03-w12",
+          "w": "恩",
+          "r": "おん",
+          "hv": "ÂN",
+          "pos": "名",
+          "vi": "ơn, ân huệ",
+          "key": true,
+          "ex": {
+            "ja": "{困|こま}っていたときに{助|たす}けてくれた{先輩|せんぱい}には、{一生|いっしょう}{恩|おん}を{感|かん}じている。",
+            "vi": "Tôi mang ơn suốt đời người đàn anh đã giúp tôi lúc khó khăn."
+          },
+          "col": [
+            "恩を感じる",
+            "恩返し (báo ơn)",
+            "恩人 (ân nhân)",
+            "恩を仇で返す (lấy oán trả ơn)"
+          ]
+        },
+        {
+          "id": "g03-w13",
+          "w": "失望",
+          "r": "しつぼう",
+          "hv": "THẤT VỌNG",
+          "pos": "名・自動",
+          "vi": "thất vọng",
+          "key": true,
+          "ex": {
+            "ja": "{国民|こくみん}は{約束|やくそく}を{守|まも}らない{政治家|せいじか}たちに{失望|しつぼう}している。",
+            "vi": "Người dân thất vọng về những chính trị gia không giữ lời hứa."
+          },
+          "col": [
+            "〜に失望する",
+            "失望させる"
+          ],
+          "rel": "≒ がっかりする",
+          "note": "Văn viết của がっかりする. Đọc しつ**ぼう** (望 = ぼう, như 希望)."
+        }
+      ]
+    },
+    {
+      "title": "感情 ③〔人〕が〜・④〜と思う",
+      "title_vi": "Tính từ cảm xúc & 〜と思う",
+      "words": [
+        {
+          "id": "g03-w14",
+          "w": "うらやましい",
+          "r": "うらやましい",
+          "hv": "(羨) TIỆN",
+          "pos": "い形",
+          "vi": "đáng ghen tị, thật thích (ước gì mình cũng được như vậy)",
+          "key": true,
+          "ex": {
+            "ja": "{毎年|まいとし}{海外|かいがい}{旅行|りょこう}に{行|い}ける{友人|ゆうじん}がうらやましい。",
+            "vi": "Tôi ghen tị với người bạn năm nào cũng được đi du lịch nước ngoài."
+          },
+          "col": [
+            "〜がうらやましい"
+          ],
+          "note": "Mẫu: **(私は) 人／こと が うらやましい**. Đáp lại chuyện vui của bạn: 「いいなあ、うらやましい！」 (Sướng thế, ghen tị quá!)."
+        },
+        {
+          "id": "g03-w15",
+          "w": "憎い",
+          "r": "にくい",
+          "hv": "TĂNG",
+          "pos": "い形",
+          "vi": "đáng ghét, đáng căm",
+          "key": true,
+          "ex": {
+            "ja": "{家族|かぞく}を{傷|きず}つけた{犯人|はんにん}が{憎|にく}い。",
+            "vi": "Tôi căm ghét kẻ đã làm hại gia đình mình."
+          },
+          "note": "Đừng nhầm với hậu tố 〜にくい (khó làm: 読みにくい). Cách nói đặc biệt: 「憎いことを言うね」 = nói câu nghe \"đáng ghét\" mà hay (khen khéo)."
+        },
+        {
+          "id": "g03-w16",
+          "w": "憎らしい",
+          "r": "にくらしい",
+          "hv": "TĂNG",
+          "pos": "い形",
+          "vi": "đáng ghét, dễ ghét (thấy bực mình — nhẹ hơn 憎い)",
+          "key": true,
+          "ex": {
+            "ja": "{弟|おとうと}は{憎|にく}らしいことばかり{言|い}うが、{本当|ほんとう}は{優|やさ}しい。",
+            "vi": "Thằng em toàn nói những câu dễ ghét nhưng thật ra rất tốt bụng."
+          },
+          "rel": "↔ かわいらしい",
+          "note": "Thường dùng với thái độ, lời nói của trẻ con hoặc người thân — có khi nửa đùa. 憎い mạnh và nghiêm trọng hơn."
+        },
+        {
+          "id": "g03-w17",
+          "w": "哀れ",
+          "r": "あわれ",
+          "hv": "AI",
+          "pos": "名・な形",
+          "vi": "đáng thương, tội nghiệp, thảm thương",
+          "key": true,
+          "ex": {
+            "ja": "{雨|あめ}にぬれて{震|ふる}えている{子犬|こいぬ}の{姿|すがた}が{哀|あわ}れだった。",
+            "vi": "Hình ảnh chú chó con ướt mưa run rẩy trông thật tội nghiệp."
+          },
+          "col": [
+            "哀れな姿",
+            "哀れに思う"
+          ],
+          "rel": "≒ かわいそう",
+          "note": "Văn viết. Có lúc mang sắc thái **thương hại, coi thường** (哀れな男 = gã đáng thương hại). Với người mình kính trọng nên dùng 気の毒."
+        },
+        {
+          "id": "g03-w18",
+          "w": "気の毒",
+          "r": "きのどく",
+          "hv": "KHÍ ĐỘC",
+          "pos": "名・な形",
+          "vi": "tội nghiệp, đáng thương (thông cảm với nỗi bất hạnh của người khác)",
+          "key": true,
+          "ex": {
+            "ja": "{旅行|りょこう}の{初日|しょにち}に{財布|さいふ}を{盗|ぬす}まれたなんて、お{気|き}の{毒|どく}に。",
+            "vi": "Ngay ngày đầu chuyến du lịch đã bị lấy cắp ví, thật tội cho anh."
+          },
+          "col": [
+            "お気の毒に／お気の毒です",
+            "気の毒に思う"
+          ],
+          "note": "Câu chia buồn lịch sự: 「お気の毒に」. 毒 = độc, nhưng nghĩa ở đây là \"lòng mình bị đau\" khi thấy người khác gặp chuyện."
+        },
+        {
+          "id": "g03-w19",
+          "w": "申し訳ない",
+          "r": "もうしわけない",
+          "hv": "THÂN DỊCH",
+          "pos": "い形",
+          "vi": "thật có lỗi, áy náy (xin lỗi trang trọng)",
+          "key": true,
+          "ex": {
+            "ja": "{忙|いそが}しいところ{何度|なんど}もお{願|ねが}いして、{本当|ほんとう}に{申|もう}し{訳|わけ}ないと{思|おも}っています。",
+            "vi": "Làm phiền anh nhiều lần lúc đang bận, tôi thật sự thấy áy náy."
+          },
+          "col": [
+            "申し訳ありません",
+            "申し訳なく思う"
+          ],
+          "rel": "≒ 済まない",
+          "note": "Nghĩa đen: \"không có lời nào để biện minh\". Lịch sự hơn すみません."
+        },
+        {
+          "id": "g03-w20",
+          "w": "済まない",
+          "r": "すまない",
+          "hv": "TẾ",
+          "pos": "い形",
+          "vi": "có lỗi, áy náy (thân mật, nam giới hay dùng)",
+          "key": true,
+          "ex": {
+            "ja": "{約束|やくそく}を{忘|わす}れて{済|す}まなかった。{次|つぎ}は{気|き}をつけるよ。",
+            "vi": "Xin lỗi vì đã quên hẹn. Lần sau tôi sẽ chú ý."
+          },
+          "rel": "≒ 申し訳ない",
+          "note": "Dạng lịch sự chính là すみません. Đây cũng là gốc của すみません."
+        },
+        {
+          "id": "g03-w21",
+          "w": "ありがたい",
+          "r": "ありがたい",
+          "hv": "(有難) HỮU NAN",
+          "pos": "い形",
+          "vi": "đáng quý, biết ơn, may quá",
+          "key": true,
+          "ex": {
+            "ja": "{引|ひ}っ{越|こ}しを{手伝|てつだ}ってもらえるなんて、{本当|ほんとう}にありがたい。",
+            "vi": "Được giúp chuyển nhà thì thật quý hoá quá."
+          },
+          "col": [
+            "ありがたく思う",
+            "ありがたいことに"
+          ],
+          "note": "Nghĩa gốc: \"khó mà có được\" (有り難い) → quý → biết ơn. Đây là gốc của ありがとう."
+        }
+      ]
+    },
+    {
+      "title": "行動",
+      "title_vi": "Hành động đối với người khác",
+      "words": [
+        {
+          "id": "g03-w22",
+          "w": "慰める",
+          "r": "なぐさめる",
+          "hv": "ÚY",
+          "pos": "他動",
+          "vi": "an ủi, vỗ về",
+          "key": true,
+          "ex": {
+            "ja": "{試合|しあい}に{負|ま}けて{泣|な}いている{後輩|こうはい}を、{先輩|せんぱい}たちが{慰|なぐさ}めた。",
+            "vi": "Các đàn anh an ủi đàn em đang khóc vì thua trận."
+          },
+          "col": [
+            "人を慰める",
+            "慰めの言葉"
+          ],
+          "rel": "≒ 励ます (động viên — hướng tới tương lai)",
+          "note": "慰める = làm dịu **nỗi buồn đã có**; 励ます(はげます) = cổ vũ **cố gắng tiếp**."
+        },
+        {
+          "id": "g03-w23",
+          "w": "けなす",
+          "r": "けなす",
+          "hv": "(貶) BIẾM",
+          "pos": "他動",
+          "vi": "chê bai, dè bỉu",
+          "key": true,
+          "ex": {
+            "ja": "{人|ひと}の{作品|さくひん}をけなすのは{簡単|かんたん}だが、{自分|じぶん}で{作|つく}るのは{難|むずか}しい。",
+            "vi": "Chê bai tác phẩm người khác thì dễ, tự mình làm ra mới khó."
+          },
+          "rel": "↔ ほめる",
+          "note": "Nói xấu về **năng lực, sản phẩm** của ai đó. Ngược nghĩa trực tiếp với ほめる."
+        },
+        {
+          "id": "g03-w24",
+          "w": "ののしる",
+          "r": "ののしる",
+          "hv": "(罵) MẠ",
+          "pos": "他動",
+          "vi": "chửi rủa, mắng nhiếc (lời lẽ thô tục, lớn tiếng)",
+          "key": true,
+          "ex": {
+            "ja": "{試合|しあい}に{負|ま}けた{選手|せんしゅ}をののしるファンの{態度|たいど}は{許|ゆる}せない。",
+            "vi": "Không thể chấp nhận thái độ của những cổ động viên chửi rủa cầu thủ thua trận."
+          },
+          "note": "Mạnh hơn けなす nhiều: dùng **lời lẽ xúc phạm** trực tiếp vào người."
+        },
+        {
+          "id": "g03-w25",
+          "w": "にらむ",
+          "r": "にらむ",
+          "hv": "(睨) NGHỄ",
+          "pos": "他動",
+          "vi": "lườm, trừng mắt nhìn; nhắm, đoán (nghi ai đó)",
+          "key": true,
+          "ex": {
+            "ja": "{授業中|じゅぎょうちゅう}に{話|はな}していたら、{先生|せんせい}にじろりとにらまれた。",
+            "vi": "Đang nói chuyện trong giờ thì bị thầy lườm cho một cái."
+          },
+          "col": [
+            "人をにらむ",
+            "犯人だとにらむ"
+          ],
+          "note": "Nghĩa 2: 「警察は彼が犯人だとにらんでいる」 = cảnh sát nghi (đoán chắc) anh ta là thủ phạm."
+        },
+        {
+          "id": "g03-w26",
+          "w": "避ける",
+          "r": "さける",
+          "hv": "TỊ",
+          "pos": "他動",
+          "vi": "tránh, né tránh",
+          "key": true,
+          "ex": {
+            "ja": "{混雑|こんざつ}を{避|さ}けるために、{朝早|あさはや}く{家|いえ}を{出|で}た。",
+            "vi": "Để tránh đông đúc, tôi ra khỏi nhà từ sáng sớm."
+          },
+          "col": [
+            "人を避ける",
+            "混雑を避ける",
+            "危険を避ける"
+          ],
+          "note": "Đọc **さける** (không phải よける — よける cũng viết 避ける nhưng là né vật cụ thể bằng thân thể: 水たまりをよける)."
+        }
+      ]
+    },
+    {
+      "title": "行動 ―〔人〕に言う",
+      "title_vi": "Hành động bằng lời nói",
+      "words": [
+        {
+          "id": "g03-w27",
+          "w": "助言",
+          "r": "じょげん",
+          "hv": "TRỢ NGÔN",
+          "pos": "名・自動",
+          "vi": "lời khuyên, góp ý",
+          "key": true,
+          "ex": {
+            "ja": "{先輩|せんぱい}の{助言|じょげん}のおかげで、{面接|めんせつ}がうまくいった。",
+            "vi": "Nhờ lời khuyên của đàn anh mà buổi phỏng vấn suôn sẻ."
+          },
+          "col": [
+            "助言する",
+            "助言を求める",
+            "助言に従う"
+          ],
+          "rel": "≒ アドバイス"
+        },
+        {
+          "id": "g03-w28",
+          "w": "忠告",
+          "r": "ちゅうこく",
+          "hv": "TRUNG CÁO",
+          "pos": "名・自動",
+          "vi": "lời khuyên răn, cảnh báo (chỉ ra điều sai để sửa)",
+          "key": true,
+          "ex": {
+            "ja": "{医者|いしゃ}の{忠告|ちゅうこく}を{無視|むし}して、{父|ちち}はお{酒|さけ}を{飲|の}み{続|つづ}けている。",
+            "vi": "Phớt lờ lời khuyên răn của bác sĩ, bố tôi vẫn tiếp tục uống rượu."
+          },
+          "col": [
+            "忠告する",
+            "忠告を聞く／無視する"
+          ],
+          "rel": "≒ 注意",
+          "note": "助言 = gợi ý cách làm tốt hơn (trung tính). 忠告 = khuyên **đừng làm** điều sai / nguy hiểm (nghiêm hơn)."
+        },
+        {
+          "id": "g03-w29",
+          "w": "言いつける",
+          "r": "いいつける",
+          "hv": "NGÔN",
+          "pos": "他動",
+          "vi": "sai bảo, dặn (người dưới); mách, méc (với người trên)",
+          "key": true,
+          "ex": {
+            "ja": "{弟|おとうと}にいたずらしたら、すぐに{母|はは}に{言|い}いつけられた。",
+            "vi": "Trêu em trai một tí là bị nó mách mẹ ngay."
+          },
+          "senses": [
+            {
+              "vi": "sai bảo, ra lệnh (người trên → người dưới)",
+              "ex": {
+                "ja": "{母|はは}に{言|い}いつけられて、{牛乳|ぎゅうにゅう}を{買|か}いに{行|い}った。",
+                "vi": "Bị mẹ sai, tôi đi mua sữa."
+              }
+            },
+            {
+              "vi": "mách, méc (việc xấu của ai đó với người trên)",
+              "ex": {
+                "ja": "{先生|せんせい}に{言|い}いつけるぞ！",
+                "vi": "Tao mách cô đấy!"
+              }
+            }
+          ]
+        },
+        {
+          "id": "g03-w30",
+          "w": "皮肉",
+          "r": "ひにく",
+          "hv": "BÌ NHỤC",
+          "pos": "名・な形",
+          "vi": "lời mỉa mai, châm biếm; trớ trêu",
+          "key": true,
+          "ex": {
+            "ja": "{遅刻|ちこく}した{私|わたし}に、{課長|かちょう}は「ずいぶん{早|はや}いね」と{皮肉|ひにく}を{言|い}った。",
+            "vi": "Tôi đến muộn, trưởng ban mỉa mai: \"Đến sớm gớm nhỉ.\""
+          },
+          "col": [
+            "皮肉を言う",
+            "皮肉にも (trớ trêu thay)",
+            "皮肉な結果"
+          ],
+          "note": "Nghĩa đen \"da và thịt\" → nói chạm vào da thịt người ta. 「皮肉にも」 = trớ trêu thay (kết quả ngược với mong muốn)."
+        },
+        {
+          "id": "g03-w31",
+          "w": "ぶつぶつ",
+          "r": "ぶつぶつ",
+          "hv": "",
+          "pos": "副",
+          "vi": "lầm bầm, càu nhàu (nói nhỏ, phàn nàn)",
+          "key": true,
+          "ex": {
+            "ja": "{父|ちち}は{新聞|しんぶん}を{読|よ}みながら、{何|なに}かぶつぶつ{言|い}っている。",
+            "vi": "Bố vừa đọc báo vừa lầm bầm gì đó."
+          },
+          "col": [
+            "ぶつぶつ(と)文句／不平を言う"
+          ],
+          "note": "Cũng chỉ những nốt nhỏ nổi trên da (顔にぶつぶつができる)."
+        },
+        {
+          "id": "g03-w32",
+          "w": "不平",
+          "r": "ふへい",
+          "hv": "BẤT BÌNH",
+          "pos": "名",
+          "vi": "sự bất mãn, lời phàn nàn",
+          "key": true,
+          "ex": {
+            "ja": "{彼|かれ}は{仕事|しごと}が{多|おお}すぎると、いつも{不平|ふへい}を{言|い}っている。",
+            "vi": "Anh ta lúc nào cũng phàn nàn là việc quá nhiều."
+          },
+          "col": [
+            "不平を言う",
+            "不平不満"
+          ],
+          "rel": "≒ 文句・不満"
+        },
+        {
+          "id": "g03-w33",
+          "w": "自慢",
+          "r": "じまん",
+          "hv": "TỰ MẠN",
+          "pos": "名・他動",
+          "vi": "khoe khoang, tự hào",
+          "key": true,
+          "ex": {
+            "ja": "{彼|かれ}は{会|あ}うたびに{新|あたら}しい{車|くるま}を{自慢|じまん}する。",
+            "vi": "Lần nào gặp anh ta cũng khoe chiếc xe mới."
+          },
+          "col": [
+            "〜を自慢する",
+            "自慢話",
+            "自慢の息子／料理"
+          ],
+          "note": "Danh từ ghép 「自慢の〜」 = niềm tự hào (tích cực): 自慢の料理 = món tủ. Đừng nhầm 我慢 (chịu đựng) — chỉ khác một chữ."
+        }
+      ]
+    },
+    {
+      "title": "行動 ― その他",
+      "title_vi": "Hành động khác",
+      "words": [
+        {
+          "id": "g03-w34",
+          "w": "怒鳴る",
+          "r": "どなる",
+          "hv": "NỘ MINH",
+          "pos": "自動",
+          "vi": "quát tháo, la hét (vì giận)",
+          "key": true,
+          "ex": {
+            "ja": "{父|ちち}は{門限|もんげん}を{破|やぶ}った{私|わたし}を{大声|おおごえ}で{怒鳴|どな}った。",
+            "vi": "Bố quát tôi ầm lên vì về nhà quá giờ quy định."
+          },
+          "col": [
+            "子どもを／に怒鳴る",
+            "怒鳴り声"
+          ],
+          "note": "Đọc đặc biệt **どなる** (怒 = ど, 鳴 = な)."
+        },
+        {
+          "id": "g03-w35",
+          "w": "隠す",
+          "r": "かくす",
+          "hv": "ẨN",
+          "pos": "他動",
+          "vi": "giấu, che giấu",
+          "key": true,
+          "ex": {
+            "ja": "{彼女|かのじょ}は{本当|ほんとう}の{気持|きも}ちを{隠|かく}して、{笑顔|えがお}で{別|わか}れを{告|つ}げた。",
+            "vi": "Cô ấy giấu đi cảm xúc thật, mỉm cười nói lời chia tay."
+          },
+          "col": [
+            "秘密を隠す",
+            "顔を隠す"
+          ],
+          "rel": "自: 隠れる (trốn, ẩn)"
+        },
+        {
+          "id": "g03-w36",
+          "w": "広める",
+          "r": "ひろめる",
+          "hv": "QUẢNG",
+          "pos": "他動",
+          "vi": "truyền bá, lan truyền (tin đồn, kiến thức, văn hoá)",
+          "key": true,
+          "ex": {
+            "ja": "{根拠|こんきょ}のないうわさを{広|ひろ}めるのはやめてください。",
+            "vi": "Xin đừng lan truyền những tin đồn vô căn cứ."
+          },
+          "col": [
+            "うわさを広める",
+            "日本文化を広める",
+            "知識を広める"
+          ],
+          "rel": "自: 広まる",
+          "note": "Khác 広げる (mở rộng, trải ra về không gian: 地図を広げる, 道を広げる). 広める = làm cho **nhiều người biết đến**."
+        },
+        {
+          "id": "g03-w37",
+          "w": "誤解",
+          "r": "ごかい",
+          "hv": "NGỘ GIẢI",
+          "pos": "名・他動",
+          "vi": "hiểu lầm, hiểu nhầm",
+          "key": true,
+          "ex": {
+            "ja": "{言葉|ことば}が{足|た}りなかったせいで、{彼|かれ}に{誤解|ごかい}されてしまった。",
+            "vi": "Vì nói chưa đủ ý nên tôi đã bị anh ấy hiểu lầm."
+          },
+          "col": [
+            "誤解を解く",
+            "誤解が解ける",
+            "誤解を招く (gây hiểu lầm)"
+          ],
+          "rel": "≒ 勘違い"
+        },
+        {
+          "id": "g03-w38",
+          "w": "解く",
+          "r": "とく",
+          "hv": "GIẢI",
+          "pos": "他動",
+          "vi": "giải (đề); gỡ (dây); xoá bỏ (hiểu lầm)",
+          "key": true,
+          "ex": {
+            "ja": "{丁寧|ていねい}に{説明|せつめい}して、ようやく{母|はは}の{誤解|ごかい}を{解|と}いた。",
+            "vi": "Giải thích cẩn thận, cuối cùng tôi cũng xoá được hiểu lầm của mẹ."
+          },
+          "col": [
+            "誤解を解く",
+            "問題を解く",
+            "ひもを解く"
+          ],
+          "rel": "自: 解ける"
+        },
+        {
+          "id": "g03-w39",
+          "w": "解ける",
+          "r": "とける",
+          "hv": "GIẢI",
+          "pos": "自動",
+          "vi": "được giải; (hiểu lầm) được xoá bỏ; (dây) tuột ra",
+          "key": true,
+          "ex": {
+            "ja": "{話|はな}し{合|あ}いの{結果|けっか}、{二人|ふたり}の{誤解|ごかい}は{解|と}けた。",
+            "vi": "Sau khi nói chuyện, hiểu lầm giữa hai người đã được hoá giải."
+          },
+          "col": [
+            "誤解が解ける",
+            "靴のひもが解ける",
+            "緊張が解ける"
+          ],
+          "rel": "他: 解く",
+          "note": "Đừng nhầm 溶ける (tan chảy: 氷が溶ける) — cùng đọc とける."
+        },
+        {
+          "id": "g03-w40",
+          "w": "仲直り",
+          "r": "なかなおり",
+          "hv": "TRỌNG TRỰC",
+          "pos": "名・自動",
+          "vi": "làm lành, làm hoà",
+          "key": true,
+          "ex": {
+            "ja": "{昨日|きのう}けんかした{友達|ともだち}と、{今日|きょう}はもう{仲直|なかなお}りした。",
+            "vi": "Hôm qua cãi nhau với bạn mà hôm nay đã làm lành rồi."
+          },
+          "col": [
+            "〜と仲直りする"
+          ],
+          "note": "仲 (quan hệ) + 直る (được sửa lại) = quan hệ được hàn gắn. Trợ từ: 〔人〕**と**仲直りする."
+        }
+      ]
+    },
+    {
+      "title": "礼儀",
+      "title_vi": "Phép lịch sự",
+      "words": [
+        {
+          "id": "g03-w41",
+          "w": "エチケット",
+          "r": "えちけっと",
+          "hv": "",
+          "pos": "名",
+          "vi": "phép lịch sự, phép xã giao (etiquette)",
+          "key": true,
+          "ex": {
+            "ja": "{電車|でんしゃ}の{中|なか}で{大声|おおごえ}で{電話|でんわ}するのは、エチケット{違反|いはん}だ。",
+            "vi": "Nói điện thoại to trên tàu là vi phạm phép lịch sự."
+          },
+          "col": [
+            "エチケットを守る",
+            "エチケット違反"
+          ],
+          "rel": "≒ マナー"
+        },
+        {
+          "id": "g03-w42",
+          "w": "作法",
+          "r": "さほう",
+          "hv": "TÁC PHÁP",
+          "pos": "名",
+          "vi": "lễ nghi, phép tắc (cách làm đúng theo truyền thống)",
+          "key": true,
+          "ex": {
+            "ja": "{茶道|さどう}には、お{茶|ちゃ}の{飲|の}み{方|かた}にも{細|こま}かい{作法|さほう}がある。",
+            "vi": "Trong trà đạo, ngay cả cách uống trà cũng có những phép tắc tỉ mỉ."
+          },
+          "col": [
+            "作法を守る",
+            "礼儀作法",
+            "食事の作法"
+          ],
+          "note": "Đọc **さほう** (作 = さ như 作業 さぎょう; không phải さくほう)."
+        },
+        {
+          "id": "g03-w43",
+          "w": "敬語",
+          "r": "けいご",
+          "hv": "KÍNH NGỮ",
+          "pos": "名",
+          "vi": "kính ngữ",
+          "key": true,
+          "ex": {
+            "ja": "アルバイトを{始|はじ}めてから、{正|ただ}しい{敬語|けいご}を{使|つか}えるようになった。",
+            "vi": "Từ khi đi làm thêm, tôi đã dùng được kính ngữ đúng cách."
+          },
+          "col": [
+            "敬語を使う",
+            "尊敬語・謙譲語・丁寧語"
+          ]
+        },
+        {
+          "id": "g03-w44",
+          "w": "反抗的",
+          "r": "はんこうてき",
+          "hv": "PHẢN KHÁNG ĐÍCH",
+          "pos": "な形",
+          "vi": "chống đối, ương bướng",
+          "key": true,
+          "ex": {
+            "ja": "{中学生|ちゅうがくせい}になった{息子|むすこ}は、{最近|さいきん}{親|おや}に{反抗的|はんこうてき}な{態度|たいど}を{取|と}る。",
+            "vi": "Cậu con trai lên cấp hai dạo này hay có thái độ chống đối bố mẹ."
+          },
+          "col": [
+            "反抗的な態度",
+            "反抗期 (tuổi nổi loạn)",
+            "反抗する"
+          ]
+        },
+        {
+          "id": "g03-w45",
+          "w": "態度",
+          "r": "たいど",
+          "hv": "THÁI ĐỘ",
+          "pos": "名",
+          "vi": "thái độ",
+          "key": true,
+          "ex": {
+            "ja": "{店員|てんいん}の{態度|たいど}が{悪|わる}かったので、もうあの{店|みせ}には{行|い}かない。",
+            "vi": "Thái độ của nhân viên tệ quá nên tôi không đến quán đó nữa."
+          },
+          "col": [
+            "態度を取る",
+            "態度が大きい (kênh kiệu)",
+            "態度を改める"
+          ],
+          "note": "Động từ đi kèm: 態度を**取る**. 「態度が大きい」 = thái độ ngạo mạn."
+        },
+        {
+          "id": "g03-w46",
+          "w": "道徳",
+          "r": "どうとく",
+          "hv": "ĐẠO ĐỨC",
+          "pos": "名",
+          "vi": "đạo đức",
+          "key": true,
+          "ex": {
+            "ja": "{小学校|しょうがっこう}では、{道徳|どうとく}の{授業|じゅぎょう}で{思|おも}いやりの{大切|たいせつ}さを{学|まな}ぶ。",
+            "vi": "Ở tiểu học, học sinh học về tầm quan trọng của sự quan tâm người khác trong giờ đạo đức."
+          },
+          "col": [
+            "道徳を重視する",
+            "道徳的",
+            "道徳心"
+          ]
+        },
+        {
+          "id": "g03-w47",
+          "w": "重視",
+          "r": "じゅうし",
+          "hv": "TRỌNG THỊ",
+          "pos": "名・他動",
+          "vi": "coi trọng, chú trọng",
+          "key": true,
+          "ex": {
+            "ja": "この{会社|かいしゃ}は{学歴|がくれき}よりも{実力|じつりょく}を{重視|じゅうし}している。",
+            "vi": "Công ty này coi trọng năng lực thực tế hơn bằng cấp."
+          },
+          "rel": "↔ 軽視(けいし)",
+          "note": "Đọc **じゅう**し (không phải ちょうし). Hay đi với 〜より〜を重視する."
+        },
+        {
+          "id": "g03-w48",
+          "w": "姿勢",
+          "r": "しせい",
+          "hv": "TƯ THẾ",
+          "pos": "名",
+          "vi": "tư thế (ngồi, đứng); thái độ, lập trường",
+          "key": true,
+          "ex": {
+            "ja": "{悪|わる}い{姿勢|しせい}でパソコンを{使|つか}い{続|つづ}けると、{肩|かた}がこる。",
+            "vi": "Dùng máy tính lâu với tư thế xấu sẽ bị mỏi vai."
+          },
+          "col": [
+            "姿勢がいい／悪い",
+            "姿勢を正す",
+            "前向きな姿勢"
+          ],
+          "note": "Nghĩa 2 (trừu tượng): 「学ぶ姿勢」「前向きな姿勢」 = thái độ, tinh thần đối với việc gì."
+        },
+        {
+          "id": "g03-w49",
+          "w": "みっともない",
+          "r": "みっともない",
+          "hv": "",
+          "pos": "い形",
+          "vi": "khó coi, xấu hổ, mất thể diện",
+          "key": true,
+          "ex": {
+            "ja": "そんなしわだらけのシャツで{出|で}かけるなんて、みっともないよ。",
+            "vi": "Mặc cái áo nhàu nhĩ thế mà đi ra ngoài thì khó coi lắm."
+          },
+          "rel": "≒ 見苦しい・格好悪い",
+          "note": "Nhìn từ **ánh mắt người khác**: trông xấu, đáng xấu hổ. Hay dùng khi nhắc nhở."
+        },
+        {
+          "id": "g03-w50",
+          "w": "服装",
+          "r": "ふくそう",
+          "hv": "PHỤC TRANG",
+          "pos": "名",
+          "vi": "trang phục, cách ăn mặc",
+          "key": true,
+          "ex": {
+            "ja": "パーティーの{招待状|しょうたいじょう}に「{服装|ふくそう}は{自由|じゆう}」と{書|か}いてあった。",
+            "vi": "Trong thiệp mời dự tiệc có ghi \"trang phục tự do\"."
+          },
+          "col": [
+            "きちんとした服装",
+            "服装が乱れる"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "恋愛",
+      "title_vi": "Tình yêu",
+      "words": [
+        {
+          "id": "g03-w51",
+          "w": "もてる",
+          "r": "もてる",
+          "hv": "",
+          "pos": "自動",
+          "vi": "được (người khác giới) yêu thích, đắt khách",
+          "key": true,
+          "ex": {
+            "ja": "{兄|あに}は{学生|がくせい}{時代|じだい}、{女性|じょせい}にとてももてたそうだ。",
+            "vi": "Nghe nói hồi sinh viên anh tôi được con gái mê lắm."
+          },
+          "col": [
+            "〔人〕にもてる",
+            "もてる男"
+          ],
+          "note": "Trợ từ **に** chỉ người thích mình: 女性にもてる. Viết hiragana (gốc 持てる)."
+        },
+        {
+          "id": "g03-w52",
+          "w": "理想",
+          "r": "りそう",
+          "hv": "LÝ TƯỞNG",
+          "pos": "名",
+          "vi": "lý tưởng; mẫu hình mong muốn",
+          "key": true,
+          "ex": {
+            "ja": "{理想|りそう}の{相手|あいて}は、{一緒|いっしょ}にいて{気楽|きらく}な{人|ひと}です。",
+            "vi": "Người lý tưởng của tôi là người ở bên thấy thoải mái."
+          },
+          "col": [
+            "理想のタイプ",
+            "理想と現実",
+            "理想が高い (kén chọn)"
+          ],
+          "rel": "↔ 現実",
+          "note": "「理想が高い」 = tiêu chuẩn cao, kén chọn."
+        },
+        {
+          "id": "g03-w53",
+          "w": "偶然",
+          "r": "ぐうぜん",
+          "hv": "NGẪU NHIÊN",
+          "pos": "名・副・な形",
+          "vi": "tình cờ, ngẫu nhiên",
+          "key": true,
+          "ex": {
+            "ja": "{旅行先|りょこうさき}のホテルで、{偶然|ぐうぜん}{会社|かいしゃ}の{同僚|どうりょう}に{会|あ}った。",
+            "vi": "Ở khách sạn nơi đi du lịch, tôi tình cờ gặp đồng nghiệp."
+          },
+          "col": [
+            "偶然(に)会う",
+            "偶然の一致"
+          ],
+          "rel": "≒ たまたま　↔ 必然"
+        },
+        {
+          "id": "g03-w54",
+          "w": "見かける",
+          "r": "みかける",
+          "hv": "KIẾN",
+          "pos": "他動",
+          "vi": "bắt gặp, thấy (tình cờ, thoáng qua)",
+          "key": true,
+          "ex": {
+            "ja": "{最近|さいきん}、{駅前|えきまえ}でよく{外国人|がいこくじん}{観光客|かんこうきゃく}を{見|み}かける。",
+            "vi": "Dạo này tôi hay bắt gặp khách du lịch nước ngoài trước nhà ga."
+          },
+          "note": "Thấy **mà không chủ ý**, không nói chuyện. Khác 見つける (tìm thấy) và 会う (gặp, có giao tiếp). Danh từ 見かけ (g02) = vẻ ngoài — khác nghĩa."
+        },
+        {
+          "id": "g03-w55",
+          "w": "冷める",
+          "r": "さめる",
+          "hv": "LÃNH",
+          "pos": "自動",
+          "vi": "nguội đi; (tình cảm, hứng thú) phai nhạt",
+          "key": true,
+          "ex": {
+            "ja": "{付|つ}き{合|あ}って{三年|さんねん}たつと、{愛|あい}が{冷|さ}めてしまうこともある。",
+            "vi": "Yêu nhau ba năm, cũng có khi tình cảm phai nhạt đi."
+          },
+          "col": [
+            "料理が冷める",
+            "愛が冷める",
+            "興奮が冷める"
+          ],
+          "rel": "他: 冷ます",
+          "note": "Bẫy: **冷める** (đồ nóng nguội đi) ↔ **冷える** (trở nên lạnh: 体が冷える, ビールが冷える) ↔ **覚める** (tỉnh: 目が覚める). Cùng đọc さめる nhưng 覚める là tỉnh giấc."
+        },
+        {
+          "id": "g03-w56",
+          "w": "振る",
+          "r": "ふる",
+          "hv": "CHẤN",
+          "pos": "他動",
+          "vi": "vẫy, lắc; đá, từ chối (người yêu)",
+          "key": true,
+          "ex": {
+            "ja": "{勇気|ゆうき}を{出|だ}して{告白|こくはく}したのに、あっさり{振|ふ}られてしまった。",
+            "vi": "Lấy hết can đảm tỏ tình vậy mà bị từ chối thẳng thừng."
+          },
+          "col": [
+            "恋人を振る",
+            "振られる",
+            "手を振る"
+          ],
+          "note": "Trong chuyện tình cảm hay dùng **bị động**: 振られる = bị đá. Nghĩa gốc: vẫy tay (手を振る), lắc (瓶を振る)."
+        },
+        {
+          "id": "g03-w57",
+          "w": "失恋",
+          "r": "しつれん",
+          "hv": "THẤT LUYẾN",
+          "pos": "名・自動",
+          "vi": "thất tình",
+          "key": true,
+          "ex": {
+            "ja": "{失恋|しつれん}した{友人|ゆうじん}を{慰|なぐさ}めるために、{一晩中|ひとばんじゅう}{話|はなし}を{聞|き}いた。",
+            "vi": "Để an ủi người bạn thất tình, tôi đã nghe cậu ấy tâm sự suốt đêm."
+          },
+          "note": "恋 = luyến (yêu), đọc れん trong 恋愛, 失恋."
+        }
+      ]
+    },
+    {
+      "title": "語形成",
+      "title_vi": "Cấu tạo từ: 〜がる・〜らしい・〜つける・〜める・〜的",
+      "words": [
+        {
+          "id": "g03-w58",
+          "w": "寒がる",
+          "r": "さむがる",
+          "hv": "HÀN",
+          "pos": "自動",
+          "vi": "(người khác) tỏ ra lạnh, kêu lạnh",
+          "key": false,
+          "ex": {
+            "ja": "{少|すこ}し{涼|すず}しくなっただけで、{妹|いもうと}はもう{寒|さむ}がっている。",
+            "vi": "Trời mới hơi mát một chút mà em gái tôi đã kêu lạnh rồi."
+          },
+          "note": "〜がる dùng cho người khác (biểu hiện ra ngoài). Danh từ: 寒がり = người hay lạnh, sợ lạnh; 暑がり = người hay nóng."
+        },
+        {
+          "id": "g03-w59",
+          "w": "欲しがる",
+          "r": "ほしがる",
+          "hv": "DỤC",
+          "pos": "他動",
+          "vi": "(người khác) tỏ ra muốn có, đòi",
+          "key": false,
+          "ex": {
+            "ja": "{子|こ}どもが{友達|ともだち}と{同|おな}じゲームを{欲|ほ}しがっている。",
+            "vi": "Con tôi đang đòi có trò chơi giống của bạn."
+          },
+          "note": "Đổi trợ từ: 私は ゲーム**が**欲しい → 子どもは ゲーム**を**欲しがる."
+        },
+        {
+          "id": "g03-w60",
+          "w": "かわいらしい",
+          "r": "かわいらしい",
+          "hv": "",
+          "pos": "い形",
+          "vi": "dễ thương, đáng yêu (nhỏ nhắn, xinh xắn)",
+          "key": false,
+          "ex": {
+            "ja": "{窓辺|まどべ}にかわいらしい{花|はな}が{飾|かざ}ってある。",
+            "vi": "Bên cửa sổ có cắm những bông hoa xinh xắn."
+          },
+          "rel": "↔ 憎らしい"
+        },
+        {
+          "id": "g03-w61",
+          "w": "結びつける",
+          "r": "むすびつける",
+          "hv": "KẾT",
+          "pos": "他動",
+          "vi": "buộc vào; gắn kết, liên hệ (A với B)",
+          "key": true,
+          "ex": {
+            "ja": "{留学|りゅうがく}の{経験|けいけん}を{将来|しょうらい}の{仕事|しごと}に{結|むす}びつけたい。",
+            "vi": "Tôi muốn gắn kinh nghiệm du học với công việc sau này."
+          },
+          "col": [
+            "AをBに結びつける",
+            "AとBを結びつける"
+          ],
+          "rel": "自: 結びつく"
+        },
+        {
+          "id": "g03-w62",
+          "w": "強める",
+          "r": "つよめる",
+          "hv": "CƯỜNG",
+          "pos": "他動",
+          "vi": "làm mạnh lên, tăng cường",
+          "key": false,
+          "ex": {
+            "ja": "{台風|たいふう}の{接近|せっきん}を{受|う}けて、{市|し}は{警戒|けいかい}を{強|つよ}めている。",
+            "vi": "Trước việc bão đang đến gần, thành phố đang tăng cường cảnh giác."
+          },
+          "rel": "自: 強まる　↔ 弱める"
+        },
+        {
+          "id": "g03-w63",
+          "w": "高める",
+          "r": "たかめる",
+          "hv": "CAO",
+          "pos": "他動",
+          "vi": "nâng cao",
+          "key": false,
+          "ex": {
+            "ja": "{社員|しゃいん}の{意識|いしき}を{高|たか}めるために{研修|けんしゅう}を{行|おこな}う。",
+            "vi": "Tổ chức đào tạo để nâng cao ý thức của nhân viên."
+          },
+          "rel": "自: 高まる"
+        },
+        {
+          "id": "g03-w64",
+          "w": "道徳的",
+          "r": "どうとくてき",
+          "hv": "ĐẠO ĐỨC ĐÍCH",
+          "pos": "な形",
+          "vi": "về mặt đạo đức, hợp đạo đức",
+          "key": true,
+          "ex": {
+            "ja": "{法律|ほうりつ}{違反|いはん}ではなくても、{道徳的|どうとくてき}に{問題|もんだい}がある{行為|こうい}だ。",
+            "vi": "Dù không vi phạm pháp luật nhưng đó là hành vi có vấn đề về mặt đạo đức."
+          }
+        },
+        {
+          "id": "g03-w65",
+          "w": "理想的",
+          "r": "りそうてき",
+          "hv": "LÝ TƯỞNG ĐÍCH",
+          "pos": "な形",
+          "vi": "lý tưởng, hoàn hảo",
+          "key": true,
+          "ex": {
+            "ja": "{駅|えき}に{近|ちか}くて{静|しず}かなこの{部屋|へや}は、{私|わたし}にとって{理想的|りそうてき}だ。",
+            "vi": "Căn phòng gần ga mà yên tĩnh này là lý tưởng với tôi."
+          },
+          "col": [
+            "理想的な環境"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "副詞",
+      "title_vi": "Phó từ trong câu ví dụ",
+      "words": [
+        {
+          "id": "g03-w66",
+          "w": "まさに",
+          "r": "まさに",
+          "hv": "(正に) CHÍNH",
+          "pos": "副",
+          "vi": "đúng là, chính là (khẳng định mạnh)",
+          "key": true,
+          "ex": {
+            "ja": "{彼|かれ}の{演奏|えんそう}は、まさに{天才|てんさい}と{呼|よ}ぶにふさわしかった。",
+            "vi": "Màn trình diễn của anh ấy đúng là xứng đáng được gọi là thiên tài."
+          },
+          "col": [
+            "まさに〜だ",
+            "まさにその時"
+          ],
+          "rel": "≒ 本当に・確かに",
+          "note": "Dùng để khẳng định \"chính xác là như vậy\". Không dùng cho giả định / tương lai không chắc chắn."
+        },
+        {
+          "id": "g03-w67",
+          "w": "思い切って",
+          "r": "おもいきって",
+          "hv": "TƯ THIẾT",
+          "pos": "副",
+          "vi": "mạnh dạn, liều (sau khi do dự, quyết tâm làm)",
+          "key": true,
+          "ex": {
+            "ja": "{長|なが}い{間|あいだ}{迷|まよ}ったが、{思|おも}い{切|き}って{会社|かいしゃ}を{辞|や}めて{留学|りゅうがく}することにした。",
+            "vi": "Phân vân mãi, cuối cùng tôi mạnh dạn nghỉ việc đi du học."
+          },
+          "rel": "≒ 勇気を出して",
+          "note": "Ngầm hiểu **trước đó đã do dự**. Động từ 思い切る = dứt khoát; 思い切り = (làm) hết sức, thoả thích."
+        },
+        {
+          "id": "g03-w68",
+          "w": "ようやく",
+          "r": "ようやく",
+          "hv": "(漸く) TIỆM",
+          "pos": "副",
+          "vi": "mãi mới, cuối cùng cũng (sau thời gian dài chờ đợi, cố gắng)",
+          "key": true,
+          "ex": {
+            "ja": "{三か月|さんかげつ}{続|つづ}いた{工事|こうじ}が、ようやく{終|お}わった。",
+            "vi": "Công trình kéo dài ba tháng cuối cùng cũng xong."
+          },
+          "rel": "≒ やっと",
+          "note": "Văn viết hơn やっと một chút. Đi với kết quả **mong đợi** đã đạt được."
+        },
+        {
+          "id": "g03-w69",
+          "w": "いつの間にか",
+          "r": "いつのまにか",
+          "hv": "GIAN",
+          "pos": "副",
+          "vi": "lúc nào không hay, tự lúc nào",
+          "key": true,
+          "ex": {
+            "ja": "{話|はなし}に{夢中|むちゅう}になっていたら、いつの{間|ま}にか{夜|よる}の{十二時|じゅうにじ}を{過|す}ぎていた。",
+            "vi": "Mải nói chuyện, đã quá mười hai giờ đêm lúc nào không hay."
+          },
+          "note": "Thay đổi xảy ra mà **mình không nhận ra**. Khác ようやく (mình chờ đợi, ý thức được thời gian)."
+        }
+      ]
+    }
+  ],
+  "focus": [
+    {
+      "title": "Trợ từ quyết định: 〔人〕を／に／が",
+      "body": "Bài này là ví dụ điển hình cho việc **học động từ kèm trợ từ**:\n\n- **を** (người là đối tượng chịu tác động): {先輩|せんぱい}**を**{尊敬|そんけい}する, {友人|ゆうじん}**を**うらやむ, {彼|かれ}**を**{疑|うたが}う, {後輩|こうはい}**を**{慰|なぐさ}める, {人|ひと}**を**{避|さ}ける.\n- **に** (người là đích hướng tới): {歌手|かしゅ}**に**あこがれる, {先生|せんせい}**に**{恩|おん}を{感|かん}じる, {政治|せいじ}**に**{失望|しつぼう}する, {部下|ぶか}**に**{忠告|ちゅうこく}する, {女性|じょせい}**に**もてる.\n- **が** (tính từ cảm xúc — chủ thể cảm nhận là 私): 私は{彼|かれ}**が**うらやましい／{憎|にく}らしい.\n- **と**: {友達|ともだち}**と**{仲直|なかなお}りする.\n\nCặp hay bị bẫy: **うらやむ (を)** — **うらやましい (が)** — **あこがれる (に)**. Trong đề 文脈規定, nhìn trợ từ trước chỗ trống là loại được 1–2 phương án."
+    },
+    {
+      "title": "Bốn cấp độ \"ghét\": 嫌う・嫌がる・憎む・恨む",
+      "body": "- **嫌う(きらう)**: ghét, không ưa — mức bình thường, văn viết của 嫌いだ. 「{彼|かれ}は{嘘|うそ}を{嫌|きら}う」.\n- **嫌がる(いやがる)**: **tỏ ra** không muốn (thể hiện bằng hành động) — dùng cho người khác/con vật. 「{子|こ}どもが{歯医者|はいしゃ}を{嫌|いや}がる」.\n- **憎む(にくむ)**: căm ghét **mạnh, sâu**, có thể hướng tới cả điều trừu tượng: 「{戦争|せんそう}を{憎|にく}む」「{不正|ふせい}を{憎|にく}む」.\n- **恨む(うらむ)**: oán hận **vì bị người đó làm hại**, ôm trong lòng lâu dài: 「{裏切|うらぎ}った{友|とも}を{恨|うら}む」.\n\nMẹo: câu có lý do \"bị phản bội / bị lừa / bị đối xử tệ\" → 恨む. Câu nói về \"cái ác, chiến tranh, tội lỗi\" → 憎む. Câu mô tả trẻ con / con vật không chịu làm gì → 嫌がる.\n\nTính từ tương ứng: 憎い (căm ghét, mạnh) > 憎らしい (dễ ghét, có thể nửa đùa)."
+    },
+    {
+      "title": "Lời nói đối với người khác: 助言・忠告・言いつける・皮肉・不平・けなす・ののしる・怒鳴る",
+      "body": "Xếp theo mức độ từ \"tốt\" đến \"xấu\":\n\n- **助言(じょげん)** — khuyên, gợi ý (≒ アドバイス). Thiện ý, trung tính.\n- **忠告(ちゅうこく)** — khuyên răn, cảnh báo điều sai/nguy hiểm. Thiện ý nhưng nghiêm.\n- **言いつける** — (1) sai bảo người dưới; (2) mách lẻo với người trên.\n- **皮肉(ひにく)を言う** — nói mỉa, nói ngược ý (\"đến sớm gớm nhỉ\" với người đến muộn).\n- **不平(ふへい)を言う／ぶつぶつ言う** — phàn nàn, càu nhàu.\n- **けなす** — chê bai năng lực, sản phẩm (↔ ほめる).\n- **ののしる** — chửi rủa bằng lời thô tục.\n- **怒鳴る(どなる)** — quát tháo to tiếng (nhấn vào **âm lượng** vì giận).\n\nĐề 言い換え hay hỏi: 助言 ≒ **アドバイス**, 忠告 ≒ **注意**, 不平 ≒ **文句／不満**."
+    },
+    {
+      "title": "Cặp tự – tha động từ trong bài: 解く／解ける・広める／広まる・隠す／隠れる",
+      "body": "- {誤解|ごかい}**を解く** (tôi xoá hiểu lầm — có chủ ý) ↔ {誤解|ごかい}**が解ける** (hiểu lầm được xoá — kết quả).\n- うわさ**を広める** (lan truyền tin đồn) ↔ うわさ**が広まる** (tin đồn lan ra).\n- {秘密|ひみつ}**を隠す** (giấu bí mật) ↔ {子|こ}どもが{木|き}の{後|うし}ろに**隠れる** (trốn).\n- 関心**を高める** ↔ 関心**が高まる**; 警戒**を強める** ↔ 警戒**が強まる**.\n\nQuy tắc nhỏ dễ nhớ: tính từ + **める** = tha động từ (làm cho…), tính từ + **まる** = tự động từ (trở nên…): 広い→広める／広まる, 高い→高める／高まる, 強い→強める／強まる, 深い→深める／深まる.\n\nBẫy đồng âm: 解ける／溶ける (tan), 冷める／覚める (tỉnh) — xem kanji và ngữ cảnh."
+    },
+    {
+      "title": "語形成: 〜がる・〜らしい・〜つける・〜的",
+      "body": "- **〜がる**: gốc tính từ cảm xúc + がる = (người khác) **tỏ ra** …: 嫌がる, 寒がる, 欲しがる, 怖がる, 恥ずかしがる. Không dùng cho chính mình ở hiện tại. Trợ từ đổi が → を: 私は犬**が**怖い／弟は犬**を**怖がる.\n- **〜らしい** (hậu tố tạo tính từ): 憎らしい, かわいらしい, わざとらしい (giả tạo), 馬鹿らしい (vớ vẩn). Khác 〜らしい ngữ pháp (\"có vẻ là / đúng chất\").\n- **Vます + つける**: gắn vào, làm thành thói quen hoặc hướng mạnh tới đối tượng: 言いつける (sai bảo/mách), 結びつける (buộc, gắn kết), 押しつける (ép), 見つける, 呼びつける (gọi tới).\n- **〜める**: xem mục tự–tha (広める, 強める, 高める).\n- **〜的**: 反抗的, 道徳的, 理想的 — tính từ な \"mang tính…\"."
+    },
+    {
+      "title": "Bốn phó từ: まさに・思い切って・ようやく・いつの間にか",
+      "body": "- **まさに** = \"chính xác là, đúng là\" — khẳng định mạnh một nhận định: 「まさに{理想|りそう}の{家|いえ}だ」. Không dùng cho phỏng đoán (✗ まさに雨が降るかもしれない).\n- **思い切って** = sau khi **do dự**, mạnh dạn làm: 「{思|おも}い{切|き}って{告白|こくはく}した」. Ngầm có \"lấy hết can đảm\".\n- **ようやく** ≒ やっと = \"mãi mới\" — mình **chờ đợi, cố gắng** rồi mới đạt được: 「ようやく{春|はる}が{来|き}た」.\n- **いつの間にか** = \"lúc nào không hay\" — thay đổi diễn ra mà **mình không để ý**: 「いつの{間|ま}にか{眠|ねむ}っていた」.\n\nPhân biệt ようやく và いつの間にか: cùng nói về một thay đổi, nhưng ようやく = **ý thức rõ** thời gian chờ; いつの間にか = **không nhận ra**."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "g03-q1",
+      "kind": "read",
+      "ref": "g03-w3",
+      "q": "{目上|めうえ}の{人|ひと}を[[u:敬う]]{気持|きも}ちを{忘|わす}れてはいけない。",
+      "options": [
+        "うらやむ",
+        "うやまう",
+        "けいう",
+        "いやまう"
+      ],
+      "answer": 1,
+      "vi": "Không được quên lòng kính trọng người trên.",
+      "why": "敬う = **うやまう**. うらやむ là 羨む (ghen tị) — âm na ná nên dễ nhầm; けいう đọc âm Hán — động từ không đọc thế; いやまう không tồn tại."
+    },
+    {
+      "id": "g03-q2",
+      "kind": "write",
+      "ref": "g03-w22",
+      "q": "{試験|しけん}に{落|お}ちた{友人|ゆうじん}を[[u:なぐさめる]]{言葉|ことば}が{見|み}つからなかった。",
+      "options": [
+        "慰める",
+        "尉める",
+        "癒める",
+        "惑める"
+      ],
+      "answer": 0,
+      "vi": "Tôi không tìm được lời nào để an ủi người bạn thi trượt.",
+      "why": "なぐさめる = **慰める** (尉 + bộ 心 tâm ở dưới). 尉 thiếu bộ tâm (chỉ có trong 大尉); 癒 đọc いやす (chữa lành); 惑 đọc まどう (bối rối)."
+    },
+    {
+      "id": "g03-q3",
+      "kind": "context",
+      "ref": "g03-w11",
+      "q": "{子|こ}どものころから、{宇宙|うちゅう}{飛行士|ひこうし}に（　　）いた。",
+      "options": [
+        "うらやんで",
+        "敬って",
+        "あこがれて",
+        "恐れて"
+      ],
+      "answer": 2,
+      "vi": "Từ nhỏ tôi đã mơ ước trở thành phi hành gia.",
+      "why": "Trợ từ **に** + mơ ước → **あこがれて**. うらやむ, 敬う, 恐れる đều đi với **を** (〜をうらやむ／敬う／恐れる), nên không hợp với 「宇宙飛行士に」."
+    },
+    {
+      "id": "g03-q4",
+      "kind": "context",
+      "ref": "g03-w18",
+      "q": "{旅行|りょこう}の{初日|しょにち}に{財布|さいふ}を{盗|ぬす}まれたそうで、{本当|ほんとう}にお（　　）です。",
+      "options": [
+        "気の毒",
+        "哀れ",
+        "申し訳ない",
+        "ありがたい"
+      ],
+      "answer": 0,
+      "vi": "Nghe nói anh bị lấy cắp ví ngay ngày đầu chuyến đi, thật là tội quá.",
+      "why": "Câu chia buồn lịch sự cố định: **お気の毒です**. 哀れ không đi với お và có sắc thái thương hại; 申し訳ない là xin lỗi (mình có lỗi); ありがたい là biết ơn — ngược hoàn cảnh."
+    },
+    {
+      "id": "g03-q5",
+      "kind": "paraphrase",
+      "ref": "g03-w27",
+      "q": "{先輩|せんぱい}の[[u:助言]]のおかげで、{試験|しけん}に{合格|ごうかく}できた。",
+      "options": [
+        "皮肉",
+        "不平",
+        "アドバイス",
+        "自慢"
+      ],
+      "answer": 2,
+      "vi": "Nhờ lời khuyên của đàn anh mà tôi đã thi đỗ.",
+      "why": "助言 = **アドバイス** (lời khuyên). 皮肉 = lời mỉa mai; 不平 = lời phàn nàn; 自慢 = khoe khoang — không thể giúp mình thi đỗ."
+    },
+    {
+      "id": "g03-q6",
+      "kind": "context",
+      "ref": "g03-w39",
+      "q": "{何度|なんど}も{話|はな}し{合|あ}って、ようやく{二人|ふたり}の{間|あいだ}の{誤解|ごかい}が（　　）。",
+      "options": [
+        "解いた",
+        "解けた",
+        "隠れた",
+        "冷めた"
+      ],
+      "answer": 1,
+      "vi": "Nói chuyện nhiều lần, cuối cùng hiểu lầm giữa hai người cũng được xoá bỏ.",
+      "why": "Trợ từ **が** → cần tự động từ: 誤解が**解けた**. 解いた là tha động từ (phải là 誤解を解いた); 隠れた = trốn, ẩn; 冷めた dùng cho đồ ăn, tình cảm — không đi với 誤解."
+    },
+    {
+      "id": "g03-q7",
+      "kind": "formation",
+      "ref": "g03-w9",
+      "q": "{妹|いもうと}は{注射|ちゅうしゃ}を{嫌|いや}（　　）、なかなか{病院|びょういん}に{行|い}こうとしない。",
+      "options": [
+        "がって",
+        "らしくて",
+        "っぽくて",
+        "めて"
+      ],
+      "answer": 0,
+      "vi": "Em gái tôi sợ tiêm nên mãi không chịu đi bệnh viện.",
+      "why": "Người khác **tỏ ra** không muốn + trợ từ を → 嫌**がって**. 嫌らしい (dâm đãng, khó chịu) không đi với を theo nghĩa này; 嫌っぽい, 嫌める không phải từ."
+    },
+    {
+      "id": "g03-q8",
+      "kind": "formation",
+      "ref": "g03-w63",
+      "q": "{環境|かんきょう}{問題|もんだい}への{関心|かんしん}を{高|たか}（　　）ために、{市|し}はイベントを{開|ひら}いた。",
+      "options": [
+        "まる",
+        "がる",
+        "める",
+        "らしい"
+      ],
+      "answer": 2,
+      "vi": "Thành phố tổ chức sự kiện để nâng cao sự quan tâm đến vấn đề môi trường.",
+      "why": "関心**を** + tha động từ → 高**める** (nâng cao). 高まる là tự động từ (関心が高まる); 高がる, 高らしい không tồn tại."
+    },
+    {
+      "id": "g03-q9",
+      "kind": "usage",
+      "ref": "g03-w33",
+      "q": "{自慢|じまん}",
+      "options": [
+        "寒さを自慢して、朝まで外で待ち続けた。",
+        "先生に自慢を持って話しかけた。",
+        "自慢ですが、少し手伝っていただけませんか。",
+        "彼は会うたびに、息子が有名な大学に入ったことを自慢する。"
+      ],
+      "answer": 3,
+      "vi": "(4) Lần nào gặp ông ấy cũng khoe chuyện con trai vào được trường đại học danh tiếng.",
+      "why": "自慢する = khoe → (4) đúng. (1) chịu lạnh → 我慢して (chỉ khác một chữ); (2) tự tin → 自信を持って; (3) mở lời nhờ vả → 恐縮ですが／申し訳ないのですが."
+    },
+    {
+      "id": "g03-q10",
+      "kind": "context",
+      "ref": "g03-w69",
+      "q": "{本|ほん}に{夢中|むちゅう}になっていたら、（　　）{外|そと}が{暗|くら}くなっていた。",
+      "options": [
+        "思い切って",
+        "まさに",
+        "ようやく",
+        "いつの間にか"
+      ],
+      "answer": 3,
+      "vi": "Mải mê đọc sách, trời bên ngoài đã tối lúc nào không hay.",
+      "why": "Mải mê nên **không nhận ra** thay đổi → **いつの間にか**. ようやく dùng khi mình chờ đợi điều đó (không hợp với 夢中); 思い切って cần hành động có quyết tâm; まさに dùng để khẳng định, không chỉ thời gian."
+    }
+  ],
+  "practice": [
+    {
+      "id": "g03-p1",
+      "kind": "read",
+      "ref": "g03-w12",
+      "q": "お{世話|せわ}になった{先生|せんせい}には、{今|いま}でも[[u:恩]]を{感|かん}じている。",
+      "options": [
+        "おん",
+        "いん",
+        "えん",
+        "おう"
+      ],
+      "answer": 0,
+      "vi": "Đến giờ tôi vẫn mang ơn thầy giáo đã giúp đỡ mình.",
+      "why": "恩 = **おん** (恩人, 恩返し). いん là 因／印; えん là 円／縁; おう là 王／応 — chữ khác."
+    },
+    {
+      "id": "g03-p2",
+      "kind": "read",
+      "ref": "g03-w57",
+      "q": "[[u:失恋]]して{落|お}ち{込|こ}んでいる{友人|ゆうじん}を、{食事|しょくじ}に{誘|さそ}った。",
+      "options": [
+        "しつあい",
+        "しつれん",
+        "しづれん",
+        "しっこい"
+      ],
+      "answer": 1,
+      "vi": "Tôi rủ người bạn đang buồn vì thất tình đi ăn.",
+      "why": "失恋 = **しつれん** (恋 = れん như 恋愛). しつあい nhầm 恋 với 愛; しづれん thêm âm đục; しっこい dùng 訓 こい — sai."
+    },
+    {
+      "id": "g03-p3",
+      "kind": "read",
+      "ref": "g03-w42",
+      "q": "{茶道|さどう}には{細|こま}かい[[u:作法]]がたくさんある。",
+      "options": [
+        "さくほう",
+        "さっぽう",
+        "さほう",
+        "さぼう"
+      ],
+      "answer": 2,
+      "vi": "Trà đạo có rất nhiều phép tắc tỉ mỉ.",
+      "why": "作法 = **さほう** (作 = さ, như 作業 さぎょう). さくほう là cách đọc 作 thường gặp (作品) nhưng sai trong từ này; さっぽう・さぼう không tồn tại."
+    },
+    {
+      "id": "g03-p4",
+      "kind": "write",
+      "ref": "g03-w48",
+      "q": "{長時間|ちょうじかん}{悪|わる}い[[u:しせい]]で{座|すわ}っていると、{腰|こし}が{痛|いた}くなる。",
+      "options": [
+        "資勢",
+        "姿製",
+        "視勢",
+        "姿勢"
+      ],
+      "answer": 3,
+      "vi": "Ngồi lâu với tư thế xấu sẽ bị đau lưng.",
+      "why": "しせい = **姿勢** (姿 = dáng, 勢 = thế). 資 (vốn), 視 (nhìn) cùng âm し nhưng sai nghĩa; 製 (chế tạo) cùng âm せい nhưng sai."
+    },
+    {
+      "id": "g03-p5",
+      "kind": "write",
+      "ref": "g03-w4",
+      "q": "{私|わたし}は{彼|かれ}の{話|はなし}を{少|すこ}しも[[u:うたがわ]]なかった。",
+      "options": [
+        "疑わ",
+        "凝わ",
+        "擬わ",
+        "議わ"
+      ],
+      "answer": 0,
+      "vi": "Tôi chẳng hề nghi ngờ lời anh ấy chút nào.",
+      "why": "うたがう = **疑う**. 凝 (đông lại, 凝る), 擬 (mô phỏng, 模擬) có phần 疑 nhưng thêm bộ; 議 (bàn luận) chỉ giống âm ぎ — đều sai."
+    },
+    {
+      "id": "g03-p6",
+      "kind": "context",
+      "ref": "g03-w26",
+      "q": "けんかをしてから、{彼|かれ}は{私|わたし}を（　　）いるようで、{目|め}も{合|あ}わせてくれない。",
+      "options": [
+        "慰めて",
+        "避けて",
+        "敬って",
+        "ののしって"
+      ],
+      "answer": 1,
+      "vi": "Từ hôm cãi nhau, anh ấy có vẻ đang tránh mặt tôi, đến nhìn cũng không nhìn.",
+      "why": "Không nhìn mặt → **避けて** (né tránh). 慰めて (an ủi) và 敬って (kính trọng) là hành động tích cực, mâu thuẫn; ののしって (chửi rủa) là hành động chủ động hướng vào tôi, không hợp với \"không nhìn mặt\"."
+    },
+    {
+      "id": "g03-p7",
+      "kind": "context",
+      "ref": "g03-w34",
+      "q": "{電車|でんしゃ}の{中|なか}で{騒|さわ}いでいた{子|こ}どもたちに、{知|し}らない{男性|だんせい}が「うるさい！」と（　　）。",
+      "options": [
+        "にらんだ",
+        "けなした",
+        "怒鳴った",
+        "言いつけた"
+      ],
+      "answer": 2,
+      "vi": "Một người đàn ông lạ quát lũ trẻ đang làm ồn trên tàu: \"Ồn ào quá!\"",
+      "why": "Lời nói to vì giận trong 「」と → **怒鳴った**. にらむ là nhìn bằng mắt, không đi với lời nói 「」と; けなす là chê bai năng lực; 言いつける là sai bảo / mách — không phải quát."
+    },
+    {
+      "id": "g03-p8",
+      "kind": "context",
+      "ref": "g03-w49",
+      "q": "{人前|ひとまえ}で{大声|おおごえ}を{出|だ}して{泣|な}くなんて（　　）から、やめなさい。",
+      "options": [
+        "ありがたい",
+        "うらやましい",
+        "申し訳ない",
+        "みっともない"
+      ],
+      "answer": 3,
+      "vi": "Khóc to trước mặt mọi người thì khó coi lắm, thôi đi.",
+      "why": "Bị người khác nhìn thấy, thấy xấu hổ → **みっともない**. ありがたい (biết ơn), うらやましい (ghen tị), 申し訳ない (áy náy) không phải lý do để bảo \"thôi đi\"."
+    },
+    {
+      "id": "g03-p9",
+      "kind": "context",
+      "ref": "g03-w51",
+      "q": "{彼|かれ}は{優|やさ}しくておもしろいので、{女性|じょせい}にとても（　　）。",
+      "options": [
+        "振る",
+        "あこがれる",
+        "もてる",
+        "見かける"
+      ],
+      "answer": 2,
+      "vi": "Anh ấy hiền và vui tính nên rất được phụ nữ yêu thích.",
+      "why": "Lý do \"hiền, vui tính\" → được người khác thích → 女性に**もてる**. 女性にあこがれる = anh ấy ngưỡng mộ phụ nữ — không khớp lý do; 振る (đá người yêu) và 見かける (bắt gặp) đi với を chứ không đi với 「女性に」."
+    },
+    {
+      "id": "g03-p10",
+      "kind": "paraphrase",
+      "ref": "g03-w28",
+      "q": "{医者|いしゃ}の[[u:忠告]]を{聞|き}かずに、{父|ちち}はタバコを{吸|す}い{続|つづ}けている。",
+      "options": [
+        "自慢",
+        "注意",
+        "皮肉",
+        "不平"
+      ],
+      "answer": 1,
+      "vi": "Bất chấp lời khuyên răn của bác sĩ, bố tôi vẫn tiếp tục hút thuốc.",
+      "why": "忠告 ≒ **注意** (nhắc nhở, khuyên đừng làm điều có hại). 自慢 = khoe; 皮肉 = mỉa mai; 不平 = phàn nàn — bác sĩ không nói những điều đó để bảo bố bỏ thuốc."
+    },
+    {
+      "id": "g03-p11",
+      "kind": "paraphrase",
+      "ref": "g03-w68",
+      "q": "{三年|さんねん}かかって、[[u:ようやく]]{論文|ろんぶん}を{書|か}き{上|あ}げた。",
+      "options": [
+        "やっと",
+        "いきなり",
+        "思い切って",
+        "まさに"
+      ],
+      "answer": 0,
+      "vi": "Mất ba năm, cuối cùng tôi cũng viết xong luận văn.",
+      "why": "ようやく = **やっと** (mãi mới). いきなり = đột nhiên (ngược với \"mất ba năm\"); 思い切って = mạnh dạn (nói về quyết tâm, không về thời gian); まさに = đúng là."
+    },
+    {
+      "id": "g03-p12",
+      "kind": "formation",
+      "ref": "g03-w61",
+      "q": "{二|ふた}つの{事件|じけん}を{結|むす}び（　　）{証拠|しょうこ}は、まだ{見|み}つかっていない。",
+      "options": [
+        "かける",
+        "つける",
+        "こむ",
+        "だす"
+      ],
+      "answer": 1,
+      "vi": "Vẫn chưa tìm ra chứng cứ liên kết hai vụ án.",
+      "why": "Gắn kết A với B → 結び**つける**. 結びかける, 結びこむ, 結びだす không phải từ thông dụng."
+    },
+    {
+      "id": "g03-p13",
+      "kind": "formation",
+      "ref": "g03-w44",
+      "q": "{彼女|かのじょ}は{最近|さいきん}、{親|おや}に{対|たい}して{反抗|はんこう}（　　）な{態度|たいど}を{取|と}っている。",
+      "options": [
+        "性",
+        "化",
+        "感",
+        "的"
+      ],
+      "answer": 3,
+      "vi": "Dạo này cô bé có thái độ chống đối bố mẹ.",
+      "why": "N + **的** + な + N → 反抗的な態度. 〜性・〜感 tạo danh từ (không đi với な ở đây); 〜化 = \"hoá\" — 反抗化 không phải từ."
+    },
+    {
+      "id": "g03-p14",
+      "kind": "usage",
+      "ref": "g03-w55",
+      "q": "{冷|さ}める",
+      "options": [
+        "冷蔵庫に入れて、ビールをよく冷めておいた。",
+        "今朝はずいぶん冷めていて、コートが必要だ。",
+        "夢から冷めたら、もう昼の十二時だった。",
+        "熱いうちに食べないと、スープが冷めてしまうよ。"
+      ],
+      "answer": 3,
+      "vi": "(4) Không ăn lúc còn nóng thì súp nguội mất đấy.",
+      "why": "冷める = đồ nóng **nguội đi** (tự động từ) → (4) đúng. (1) làm lạnh bia (tha động từ) → 冷やしておいた; (2) trời lạnh → 冷えていて／寒くて; (3) tỉnh giấc → 覚めたら (cùng đọc さめる, khác chữ)."
+    },
+    {
+      "id": "g03-p15",
+      "kind": "usage",
+      "ref": "g03-w30",
+      "q": "{皮肉|ひにく}",
+      "options": [
+        "遅刻した私に、彼は「ずいぶん早いね」と皮肉を言った。",
+        "皮肉を込めて、母に感謝の手紙を書いた。",
+        "この肉は皮肉が多くて、少し硬い。",
+        "皮肉にも、友人が手伝ってくれたので仕事が早く終わった。"
+      ],
+      "answer": 0,
+      "vi": "(1) Tôi đến muộn, anh ấy mỉa mai: \"Đến sớm gớm nhỉ.\"",
+      "why": "皮肉 = nói ngược ý để châm chọc → (1) đúng. (2) thư cảm ơn → 心を込めて; (3) 皮肉 không còn nghĩa đen \"da thịt\" trong món ăn; (4) 皮肉にも chỉ dùng cho kết quả **trái ngược mong muốn** — việc xong sớm nhờ bạn giúp là may mắn → 幸いにも."
+    }
+  ],
+  "test": [
+    {
+      "id": "g03-t1",
+      "kind": "read",
+      "ref": "g03-w6",
+      "q": "{戦争|せんそう}を[[u:憎む]]{気持|きも}ちは、{誰|だれ}の{心|こころ}にもあるはずだ。",
+      "options": [
+        "にくむ",
+        "うらむ",
+        "いむ",
+        "ぞうむ"
+      ],
+      "answer": 0,
+      "vi": "Lòng căm ghét chiến tranh hẳn là ai cũng có.",
+      "why": "憎む = **にくむ**. うらむ là 恨む (oán hận) — nghĩa gần nên dễ nhầm; いむ là 忌む (kiêng kỵ); ぞうむ đọc 憎 theo âm Hán ぞう (憎悪) — động từ không đọc thế."
+    },
+    {
+      "id": "g03-t2",
+      "kind": "read",
+      "ref": "g03-w46",
+      "q": "{子|こ}どもに[[u:道徳]]を{教|おし}えるのは、{家庭|かてい}の{役割|やくわり}でもある。",
+      "options": [
+        "どうどく",
+        "どうとく",
+        "みちとく",
+        "とうとく"
+      ],
+      "answer": 1,
+      "vi": "Dạy đạo đức cho con trẻ cũng là vai trò của gia đình.",
+      "why": "道徳 = **どうとく** (徳 = とく, không đục). どうどく thêm âm đục sai; みちとく dùng 訓 みち — sai; とうとく là 尊く (quý báu)."
+    },
+    {
+      "id": "g03-t3",
+      "kind": "write",
+      "ref": "g03-w53",
+      "q": "{駅|えき}で[[u:ぐうぜん]]、{高校|こうこう}{時代|じだい}の{友人|ゆうじん}に{会|あ}った。",
+      "options": [
+        "遇然",
+        "隅然",
+        "偶然",
+        "寓然"
+      ],
+      "answer": 2,
+      "vi": "Tôi tình cờ gặp bạn thời cấp ba ở nhà ga.",
+      "why": "ぐうぜん = **偶然** (bộ nhân 亻 + 禺). 遇 (bộ 辶, như 待遇), 隅 (bộ 阝, góc: 隅っこ), 寓 (bộ 宀) đều có phần 禺 và đọc ぐう — bẫy giống hình."
+    },
+    {
+      "id": "g03-t4",
+      "kind": "write",
+      "ref": "g03-w35",
+      "q": "{彼|かれ}は{何|なに}か{大切|たいせつ}なことを[[u:かくして]]いるようだ。",
+      "options": [
+        "穏して",
+        "陰して",
+        "覆して",
+        "隠して"
+      ],
+      "answer": 3,
+      "vi": "Hình như anh ấy đang giấu điều gì đó quan trọng.",
+      "why": "かくす = **隠す** (bộ 阝). 穏 (bộ 禾, おだやか) giống phần bên phải — bẫy hình; 陰 (かげ, bóng râm) cùng bộ 阝 nhưng khác chữ; 覆 đọc くつがえす／おおう."
+    },
+    {
+      "id": "g03-t5",
+      "kind": "context",
+      "ref": "g03-w47",
+      "q": "この{会社|かいしゃ}は{学歴|がくれき}よりも{人柄|ひとがら}を（　　）して{社員|しゃいん}を{採用|さいよう}している。",
+      "options": [
+        "重視",
+        "尊敬",
+        "失望",
+        "自慢"
+      ],
+      "answer": 0,
+      "vi": "Công ty này tuyển nhân viên coi trọng nhân cách hơn bằng cấp.",
+      "why": "Mẫu 「AよりBを**重視**する」 = coi trọng B hơn A. 尊敬 dùng cho người (人柄を尊敬する có nhưng không hợp với \"khi tuyển dụng\"); 失望 đi với に; 自慢 = khoe — không hợp."
+    },
+    {
+      "id": "g03-t6",
+      "kind": "context",
+      "ref": "g03-w19",
+      "q": "{私|わたし}のミスで{皆|みな}さんにご{迷惑|めいわく}をおかけしてしまい、（　　）と{思|おも}っております。",
+      "options": [
+        "ありがたい",
+        "申し訳ない",
+        "うらやましい",
+        "憎らしい"
+      ],
+      "answer": 1,
+      "vi": "Vì lỗi của tôi mà gây phiền hà cho mọi người, tôi thật sự thấy có lỗi.",
+      "why": "Lỗi của mình gây phiền cho người khác → **申し訳ない**. ありがたい là biết ơn (khi được giúp); うらやましい là ghen tị; 憎らしい là thấy người khác đáng ghét — đều không hợp."
+    },
+    {
+      "id": "g03-t7",
+      "kind": "context",
+      "ref": "g03-w56",
+      "q": "{三年|さんねん}{付|つ}き{合|あ}った{恋人|こいびと}に（　　）、{彼|かれ}はひどく{落|お}ち{込|こ}んでいる。",
+      "options": [
+        "もてて",
+        "冷めて",
+        "見かけて",
+        "振られて"
+      ],
+      "answer": 3,
+      "vi": "Bị người yêu ba năm đá, anh ấy đang suy sụp nặng.",
+      "why": "Bị người yêu chia tay → buồn → 恋人に**振られて** (bị động). もてる là được yêu thích (không gây buồn); 冷めて không đi với 恋人に (phải là 気持ちが冷めて); 見かけて = bắt gặp — không phải lý do suy sụp."
+    },
+    {
+      "id": "g03-t8",
+      "kind": "paraphrase",
+      "ref": "g03-w67",
+      "q": "[[u:思い切って]]{社長|しゃちょう}に{自分|じぶん}の{企画|きかく}を{提案|ていあん}してみた。",
+      "options": [
+        "何も考えずに",
+        "迷った末に勇気を出して",
+        "仕方なく",
+        "いつの間にか"
+      ],
+      "answer": 1,
+      "vi": "Tôi đã mạnh dạn đề xuất kế hoạch của mình với giám đốc.",
+      "why": "思い切って = sau khi do dự, lấy can đảm làm → **迷った末に勇気を出して**. 何も考えずに là ngược lại (không do dự); 仕方なく = miễn cưỡng (không có quyết tâm); いつの間にか = lúc nào không hay."
+    },
+    {
+      "id": "g03-t9",
+      "kind": "paraphrase",
+      "ref": "g03-w32",
+      "q": "{彼|かれ}は{給料|きゅうりょう}が{安|やす}いと、いつも[[u:不平を言って]]いる。",
+      "options": [
+        "文句を言って",
+        "冗談を言って",
+        "お礼を言って",
+        "うそを言って"
+      ],
+      "answer": 0,
+      "vi": "Anh ta lúc nào cũng phàn nàn là lương thấp.",
+      "why": "不平を言う ≒ **文句を言う** (phàn nàn). 冗談 = nói đùa; お礼 = cảm ơn; うそ = nói dối — không cùng nghĩa."
+    },
+    {
+      "id": "g03-t10",
+      "kind": "usage",
+      "ref": "g03-w1",
+      "q": "うらやむ",
+      "options": [
+        "初めての海外旅行をうらやんで、毎日準備をしている。",
+        "子どもが病気になってしまい、母親はとてもうらやんでいる。",
+        "彼は兄の成功をうらやんで、自分も努力し始めた。",
+        "先生に助けていただいて、心からうらやんでいます。"
+      ],
+      "answer": 2,
+      "vi": "(3) Ghen tị với thành công của anh trai, cậu ấy cũng bắt đầu nỗ lực.",
+      "why": "うらやむ = ghen tị với **cái người khác có** → (3) đúng. (1) mong chờ chuyến đi của mình → 楽しみにして; (2) lo cho con → 心配して; (4) được giúp → 感謝して."
+    },
+    {
+      "id": "g03-t11",
+      "kind": "usage",
+      "ref": "g03-w66",
+      "q": "まさに",
+      "options": [
+        "まさに雨が降るかもしれないので、傘を持っていこう。",
+        "明日はまさに早く起きるつもりだ。",
+        "まさに遅刻しても、先生は怒らないだろう。",
+        "彼の演奏は、まさに天才と呼ぶにふさわしいものだった。"
+      ],
+      "answer": 3,
+      "vi": "(4) Màn trình diễn của anh ấy quả thật xứng đáng được gọi là thiên tài.",
+      "why": "まさに = khẳng định \"đúng là, chính là\" → (4) đúng. (1) phỏng đoán → もしかしたら; (2) quyết tâm → 必ず; (3) giả định → たとえ〜ても."
+    }
+  ]
+}

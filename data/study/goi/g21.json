@@ -1,0 +1,1852 @@
+{
+  "id": "g21",
+  "track": "goi",
+  "intro": "Bài này gom các từ **chỉ thời gian và không gian** — những từ nhỏ nhưng có mặt trong hầu hết mọi câu đọc hiểu và thông báo.\n\n- **Trước sau – thời gian trôi qua** (前後・時間の経過): タイミング, チャンスをつかむ／逃す／生かす, 一時中断, いつでも・いつまでも・そのうち・いずれ, 前後・事前・かつて・以前・以来・従来・今後・過去・日ごろ, 時間を過ごす, 月日がたつ・経過する, 一定の周期…\n- **Khung giờ, khung ngày** (時間帯): 上旬・初旬・中旬・下旬・月末; 早朝・明け方・日中・夕暮れ時・夜中・深夜.\n- **Vị trí – nơi chốn** (位置・場所): 元の位置, 配置, 空間, スペース, 所々, 枠, 〜方面へ向かう, 周辺, 範囲に渡る, 〜に沿って.\n\nPhần 語形成: **〜通り(どおり), 〜中(ちゅう), 〜過ぎ, 〜時(どき), 〜方面**. Phó từ: **一斉に, 極めて, はるか, かつて, 常に**.\n\nĐiểm then chốt khi thi: (1) phân biệt nhóm phó từ thời gian **いつでも／いつまでも／そのうち／いずれ／かつて**; (2) **以前 ↔ 以来**, **事前**, **前後** (= khoảng); (3) cách đọc: 下旬(げ), 初旬(しょ), 日中(にっちゅう), 月日(つきひ), 一斉(いっせい), 従来(じゅうらい), 所々(ところどころ); (4) âm đục khi ghép: 予定**どおり**, 夕暮れ**どき**.",
+  "sections": [
+    {
+      "title": "前後・時間の経過など",
+      "title_vi": "Trước sau, thời gian trôi qua",
+      "words": [
+        {
+          "id": "g21-w1",
+          "w": "タイミング",
+          "r": "たいみんぐ",
+          "hv": "",
+          "pos": "名",
+          "vi": "thời điểm (làm gì đó), đúng lúc",
+          "key": true,
+          "ex": {
+            "ja": "{話|はな}しかけようとしたら{電話|でんわ}が{鳴|な}って、タイミングを{逃|のが}してしまった。",
+            "vi": "Định bắt chuyện thì điện thoại reo, thế là lỡ mất thời điểm."
+          },
+          "col": [
+            "タイミングがいい／悪い",
+            "タイミングを逃す",
+            "タイミングを見計らう"
+          ],
+          "note": "タイミング = **thời điểm thích hợp để hành động** (gần nghĩa 時機). チャンス = **cơ hội** có lợi. 「タイミングが悪い」 = đúng lúc không may (vừa đến thì xe chạy mất…)."
+        },
+        {
+          "id": "g21-w2",
+          "w": "チャンス",
+          "r": "ちゃんす",
+          "hv": "",
+          "pos": "名",
+          "vi": "cơ hội, dịp may",
+          "key": true,
+          "ex": {
+            "ja": "{海外|かいがい}で{働|はたら}けるチャンスがあれば、ぜひ{挑戦|ちょうせん}したい。",
+            "vi": "Nếu có cơ hội làm việc ở nước ngoài, tôi rất muốn thử sức."
+          },
+          "col": [
+            "チャンスをつかむ／逃す",
+            "チャンスを与える／生かす",
+            "絶好のチャンス"
+          ],
+          "rel": "≒ 機会・好機"
+        },
+        {
+          "id": "g21-w3",
+          "w": "つかむ",
+          "r": "つかむ",
+          "hv": "",
+          "pos": "他動",
+          "vi": "nắm lấy, chộp lấy (vật; cơ hội; tấm lòng, nội dung)",
+          "key": true,
+          "ex": {
+            "ja": "{彼|かれ}はオーディションで{主役|しゅやく}のチャンスをつかんだ。",
+            "vi": "Anh ấy đã nắm lấy cơ hội đóng vai chính ở buổi thử vai."
+          },
+          "col": [
+            "チャンスをつかむ",
+            "腕をつかむ",
+            "要点をつかむ",
+            "心をつかむ"
+          ],
+          "rel": "↔ 逃す",
+          "note": "Viết 掴む. Nghĩa bóng hay gặp: 話の要点をつかむ (nắm ý chính), 客の心をつかむ (chiếm được lòng khách)."
+        },
+        {
+          "id": "g21-w4",
+          "w": "逃す",
+          "r": "のがす",
+          "hv": "ĐÀO",
+          "pos": "他動",
+          "vi": "bỏ lỡ, để vuột mất (cơ hội, thời điểm)",
+          "key": true,
+          "ex": {
+            "ja": "{迷|まよ}っているうちに、{安|やす}く{買|か}えるチャンスを{逃|のが}してしまった。",
+            "vi": "Trong lúc còn phân vân, tôi đã để vuột mất cơ hội mua giá rẻ."
+          },
+          "col": [
+            "チャンスを逃す",
+            "タイミングを逃す",
+            "優勝を逃す",
+            "見逃す・聞き逃す"
+          ],
+          "rel": "↔ つかむ",
+          "note": "Đọc **のがす** (bỏ lỡ). Cùng chữ 逃げる(にげる) = chạy trốn, 逃がす(にがす) = thả cho chạy. 見逃す = bỏ sót khi xem / bỏ qua."
+        },
+        {
+          "id": "g21-w5",
+          "w": "失う",
+          "r": "うしなう",
+          "hv": "THẤT",
+          "pos": "他動",
+          "vi": "mất, đánh mất",
+          "key": false,
+          "ex": {
+            "ja": "{一度|いちど}{失|うしな}った{信用|しんよう}を{取|と}り{戻|もど}すのは{難|むずか}しい。",
+            "vi": "Lấy lại lòng tin một khi đã đánh mất là rất khó."
+          },
+          "col": [
+            "チャンスを失う",
+            "自信を失う",
+            "命を失う",
+            "気を失う (ngất)"
+          ]
+        },
+        {
+          "id": "g21-w6",
+          "w": "与える",
+          "r": "あたえる",
+          "hv": "DỮ",
+          "pos": "他動",
+          "vi": "cho, trao (cơ hội, quyền); gây ra (ảnh hưởng, thiệt hại)",
+          "key": true,
+          "ex": {
+            "ja": "{監督|かんとく}は{若|わか}い{選手|せんしゅ}にも{試合|しあい}に{出|で}るチャンスを{与|あた}えた。",
+            "vi": "Huấn luyện viên cũng trao cho các cầu thủ trẻ cơ hội ra sân."
+          },
+          "col": [
+            "チャンスを与える",
+            "影響を与える",
+            "被害を与える",
+            "印象を与える"
+          ],
+          "note": "Văn viết của あげる/やる, chủ yếu với tân ngữ **trừu tượng** (機会, 影響, 印象, 損害, 賞). 「悪い印象を与える」 = gây ấn tượng xấu."
+        },
+        {
+          "id": "g21-w7",
+          "w": "生かす",
+          "r": "いかす",
+          "hv": "SINH",
+          "pos": "他動",
+          "vi": "tận dụng, phát huy (kinh nghiệm, ưu điểm, cơ hội)",
+          "key": true,
+          "ex": {
+            "ja": "{料理人|りょうりにん}は{素材|そざい}の{味|あじ}を{生|い}かした{料理|りょうり}を{作|つく}った。",
+            "vi": "Đầu bếp đã nấu món ăn phát huy hương vị của nguyên liệu."
+          },
+          "col": [
+            "経験を生かす",
+            "チャンスを生かす",
+            "特技を生かす",
+            "素材を生かす"
+          ],
+          "rel": "≒ 活用する",
+          "note": "Đọc **いかす**. Tân ngữ là **thứ có giá trị sẵn có** (経験, 能力, 長所, チャンス) → đem dùng cho có ích. Nghĩa gốc: để sống (魚を生かしておく)."
+        },
+        {
+          "id": "g21-w8",
+          "w": "一時中断",
+          "r": "いちじちゅうだん",
+          "hv": "NHẤT THỜI TRUNG ĐOẠN",
+          "pos": "名・他動",
+          "vi": "tạm ngừng, tạm gián đoạn (rồi sẽ tiếp tục)",
+          "key": true,
+          "ex": {
+            "ja": "{停電|ていでん}のため、{工場|こうじょう}の{作業|さぎょう}は{一時|いちじ}{中断|ちゅうだん}された。",
+            "vi": "Do mất điện, công việc ở nhà máy đã tạm ngừng."
+          },
+          "col": [
+            "試合を中断する",
+            "一時中断する",
+            "中断を余儀なくされる"
+          ],
+          "rel": "≒ 一時停止",
+          "note": "一時(いちじ) = tạm thời; 中断 = ngắt giữa chừng **rồi sẽ tiếp tục** (khác 中止 = huỷ hẳn). Bẫy đọc: 一時 = いちじ (không phải ひととき trong nghĩa này)."
+        },
+        {
+          "id": "g21-w9",
+          "w": "いつでも",
+          "r": "いつでも",
+          "hv": "",
+          "pos": "副",
+          "vi": "bất cứ lúc nào",
+          "key": true,
+          "ex": {
+            "ja": "{分|わ}からないことがあったら、いつでも{聞|き}いてくださいね。",
+            "vi": "Có gì không hiểu thì cứ hỏi tôi bất cứ lúc nào nhé."
+          },
+          "col": [
+            "いつでもどうぞ",
+            "いつでも使える"
+          ],
+          "note": "= lúc nào cũng được (thời điểm tuỳ ý). Khác いつまでも (mãi mãi, kéo dài)."
+        },
+        {
+          "id": "g21-w10",
+          "w": "いつまでも",
+          "r": "いつまでも",
+          "hv": "",
+          "pos": "副",
+          "vi": "mãi mãi, mãi (không thay đổi, không kết thúc)",
+          "key": true,
+          "ex": {
+            "ja": "おばあちゃん、いつまでも{元気|げんき}でいてね。",
+            "vi": "Bà ơi, bà mãi khoẻ mạnh nhé."
+          },
+          "col": [
+            "いつまでも忘れない",
+            "いつまでも続く",
+            "いつまでも〜ている (mãi cứ…)"
+          ],
+          "note": "Nhấn vào **sự kéo dài**. Cũng dùng phàn nàn: 「いつまでも{寝|ね}ていないで{起|お}きなさい」 = đừng có ngủ mãi thế."
+        },
+        {
+          "id": "g21-w11",
+          "w": "そのうち",
+          "r": "そのうち",
+          "hv": "",
+          "pos": "副",
+          "vi": "chẳng bao lâu nữa, ít hôm nữa",
+          "key": true,
+          "ex": {
+            "ja": "{今|いま}は{慣|な}れなくても、そのうち{仕事|しごと}が{楽|たの}しくなるよ。",
+            "vi": "Bây giờ chưa quen chứ ít lâu nữa công việc sẽ vui thôi."
+          },
+          "col": [
+            "そのうち〜だろう",
+            "そのうちまた会おう"
+          ],
+          "rel": "≒ 近いうちに・やがて",
+          "note": "Tương lai **gần, không xác định rõ** (vài ngày đến vài tháng). Văn nói. いずれ thì xa hơn và trang trọng hơn."
+        },
+        {
+          "id": "g21-w12",
+          "w": "いずれ",
+          "r": "いずれ",
+          "hv": "",
+          "pos": "副",
+          "vi": "rồi sẽ có lúc, sớm muộn gì; (いずれも) cái nào cũng",
+          "key": true,
+          "ex": {
+            "ja": "{本当|ほんとう}のことは、いずれみんなに{知|し}られるだろう。",
+            "vi": "Sự thật thì sớm muộn gì mọi người cũng sẽ biết."
+          },
+          "col": [
+            "いずれ分かる",
+            "いずれまた",
+            "いずれにしても",
+            "いずれも"
+          ],
+          "rel": "≒ いつか・そのうち",
+          "note": "Ba cách dùng: (1) \"sớm muộn gì\" (tương lai không rõ); (2) 「いずれにしても」 = dù sao đi nữa; (3) 「いずれも」 = cái nào cũng (văn viết của どれも)."
+        },
+        {
+          "id": "g21-w13",
+          "w": "前後",
+          "r": "ぜんご",
+          "hv": "TIỀN HẬU",
+          "pos": "名・接尾",
+          "vi": "khoảng, chừng (sau số lượng); trước và sau",
+          "key": true,
+          "ex": {
+            "ja": "{会場|かいじょう}には{二十歳|はたち}{前後|ぜんご}の{若者|わかもの}が{多|おお}く{集|あつ}まっていた。",
+            "vi": "Ở hội trường có nhiều thanh niên khoảng hai mươi tuổi."
+          },
+          "col": [
+            "一時間前後",
+            "三十歳前後",
+            "前後を見る",
+            "話が前後する (lộn xộn thứ tự)"
+          ],
+          "rel": "≒ 〜ぐらい・〜程度",
+          "note": "Sau **con số** = khoảng (có thể hơn hoặc kém một chút): 一万円前後. Một mình = trước và sau (前後をよく見て道を渡る)."
+        },
+        {
+          "id": "g21-w14",
+          "w": "事前",
+          "r": "じぜん",
+          "hv": "SỰ TIỀN",
+          "pos": "名",
+          "vi": "(làm) trước, từ trước (khi sự việc diễn ra)",
+          "key": true,
+          "ex": {
+            "ja": "{見学|けんがく}を{希望|きぼう}される{方|かた}は、{事前|じぜん}にお{申|もう}し{込|こ}みください。",
+            "vi": "Ai muốn tham quan xin vui lòng đăng ký trước."
+          },
+          "col": [
+            "事前に連絡する",
+            "事前の準備",
+            "事前予約",
+            "事前調査"
+          ],
+          "rel": "↔ 事後(じご)",
+          "note": "事前に = **trước khi việc đó xảy ra** (chuẩn bị, báo trước, đăng ký). Khác 以前 = trước đây (quá khứ nói chung)."
+        },
+        {
+          "id": "g21-w15",
+          "w": "かつて",
+          "r": "かつて",
+          "hv": "",
+          "pos": "副",
+          "vi": "đã từng, ngày xưa (một thời quá khứ, nay đã khác)",
+          "key": true,
+          "ex": {
+            "ja": "この{静|しず}かな{村|むら}は、かつて{金|きん}が{採|と}れることで{栄|さか}えていた。",
+            "vi": "Ngôi làng yên tĩnh này ngày xưa từng thịnh vượng nhờ khai thác được vàng."
+          },
+          "col": [
+            "かつての〜",
+            "かつてない (chưa từng có)"
+          ],
+          "rel": "≒ 以前・昔",
+          "note": "Văn viết. Hàm ý **bây giờ không còn như vậy**. 「かつてない大雨」 = trận mưa lớn chưa từng có."
+        },
+        {
+          "id": "g21-w16",
+          "w": "以前",
+          "r": "いぜん",
+          "hv": "DĨ TIỀN",
+          "pos": "名・副",
+          "vi": "trước đây; trước (một mốc)",
+          "key": true,
+          "ex": {
+            "ja": "{以前|いぜん}この{会社|かいしゃ}で{働|はたら}いていたので、{社内|しゃない}のことはよく{知|し}っている。",
+            "vi": "Trước đây tôi từng làm ở công ty này nên rất rõ chuyện trong công ty."
+          },
+          "col": [
+            "以前は〜",
+            "〇年以前",
+            "以前より"
+          ],
+          "rel": "↔ 以後・以降",
+          "note": "Sau mốc thời gian: 「明治以前」 = trước thời Minh Trị. Một mình = trước đây (≒ 前に, かつて). Đừng nhầm với 依然(いぜん) = vẫn như cũ."
+        },
+        {
+          "id": "g21-w17",
+          "w": "以来",
+          "r": "いらい",
+          "hv": "DĨ LAI",
+          "pos": "名",
+          "vi": "kể từ (đó đến nay)",
+          "key": true,
+          "ex": {
+            "ja": "{大学|だいがく}を{卒業|そつぎょう}して{以来|いらい}、{彼|かれ}とは{一度|いちど}も{会|あ}っていない。",
+            "vi": "Kể từ khi tốt nghiệp đại học, tôi chưa gặp lại anh ấy lần nào."
+          },
+          "col": [
+            "〜て以来",
+            "N以来",
+            "それ以来"
+          ],
+          "rel": "≒ 〜てから(ずっと)",
+          "note": "Cấu trúc **Vて以来／N以来**, vế sau là **trạng thái kéo dài đến bây giờ** (ずっと〜ている, 〜ていない). Không dùng cho tương lai hay việc xảy ra một lần."
+        },
+        {
+          "id": "g21-w18",
+          "w": "従来",
+          "r": "じゅうらい",
+          "hv": "TÙNG LAI",
+          "pos": "名・副",
+          "vi": "(cách làm) từ trước đến nay, truyền thống, vốn có",
+          "key": true,
+          "ex": {
+            "ja": "{新|あたら}しいエンジンは、{従来|じゅうらい}のものより{燃費|ねんぴ}が{三割|さんわり}よい。",
+            "vi": "Động cơ mới tiết kiệm nhiên liệu hơn ba mươi phần trăm so với loại trước đây."
+          },
+          "col": [
+            "従来の方法",
+            "従来の考え方",
+            "従来通り",
+            "従来型"
+          ],
+          "rel": "≒ これまで",
+          "note": "Đọc **じゅうらい** (従 = じゅう). Dùng khi so sánh **cái cũ vẫn dùng đến nay** với cái mới. Bẫy đọc với 将来(しょうらい) = tương lai."
+        },
+        {
+          "id": "g21-w19",
+          "w": "今後",
+          "r": "こんご",
+          "hv": "KIM HẬU",
+          "pos": "名・副",
+          "vi": "từ nay về sau, sau này",
+          "key": true,
+          "ex": {
+            "ja": "{今後|こんご}とも、どうぞよろしくお{願|ねが}いいたします。",
+            "vi": "Từ nay về sau, rất mong tiếp tục được giúp đỡ."
+          },
+          "col": [
+            "今後の予定",
+            "今後とも",
+            "今後の課題"
+          ],
+          "rel": "≒ これから",
+          "note": "Văn viết, trang trọng của これから. 「今後ともよろしく」 là câu xã giao cố định."
+        },
+        {
+          "id": "g21-w20",
+          "w": "実施",
+          "r": "じっし",
+          "hv": "THỰC THI",
+          "pos": "名・他動",
+          "vi": "thực thi, tiến hành (kế hoạch, kỳ thi, khảo sát, chế độ)",
+          "key": true,
+          "ex": {
+            "ja": "{市|し}は{来月|らいげつ}、{住民|じゅうみん}を{対象|たいしょう}にアンケート{調査|ちょうさ}を{実施|じっし}する。",
+            "vi": "Thành phố sẽ tiến hành khảo sát bằng phiếu hỏi đối với cư dân vào tháng sau."
+          },
+          "col": [
+            "試験を実施する",
+            "調査を実施する",
+            "実施期間"
+          ],
+          "rel": "≒ 行う",
+          "note": "Văn viết của 行う, dùng cho **việc đã lên kế hoạch** do tổ chức thực hiện. Đọc じ**っ**し."
+        },
+        {
+          "id": "g21-w21",
+          "w": "過去",
+          "r": "かこ",
+          "hv": "QUÁ KHỨ",
+          "pos": "名",
+          "vi": "quá khứ",
+          "key": true,
+          "ex": {
+            "ja": "{過去|かこ}の{失敗|しっぱい}から{学|まな}ぶことは{多|おお}い。",
+            "vi": "Có nhiều điều để học từ những thất bại trong quá khứ."
+          },
+          "col": [
+            "過去の出来事",
+            "過去最高",
+            "過去を振り返る"
+          ],
+          "rel": "↔ 未来・将来",
+          "note": "「過去最高／過去最多」 = cao nhất / nhiều nhất từ trước đến nay — rất hay gặp trong tin tức."
+        },
+        {
+          "id": "g21-w22",
+          "w": "日ごろ",
+          "r": "ひごろ",
+          "hv": "NHẬT",
+          "pos": "名・副",
+          "vi": "thường ngày, ngày thường",
+          "key": true,
+          "ex": {
+            "ja": "{日|ひ}ごろからよく{歩|ある}くようにしているので、{山登|やまのぼ}りも{平気|へいき}だ。",
+            "vi": "Thường ngày tôi chịu khó đi bộ nên leo núi cũng chẳng sao."
+          },
+          "col": [
+            "日ごろから",
+            "日ごろの努力",
+            "日ごろの感謝"
+          ],
+          "rel": "≒ ふだん・常日ごろ",
+          "note": "Viết 日頃. Hay đi với 〜から: 日ごろから気をつける (luôn chú ý hằng ngày). 「日ごろの感謝を込めて」 = với lòng biết ơn thường ngày."
+        },
+        {
+          "id": "g21-w23",
+          "w": "過ごす",
+          "r": "すごす",
+          "hv": "QUÁ",
+          "pos": "他動",
+          "vi": "trải qua, sống (một quãng thời gian)",
+          "key": true,
+          "ex": {
+            "ja": "{夏休|なつやす}みは{田舎|いなか}の{祖父母|そふぼ}の{家|いえ}で{過|す}ごした。",
+            "vi": "Kỳ nghỉ hè tôi đã sống ở nhà ông bà dưới quê."
+          },
+          "col": [
+            "時間を過ごす",
+            "休日を過ごす",
+            "楽しく過ごす",
+            "お元気でお過ごしください"
+          ],
+          "note": "Tân ngữ là **khoảng thời gian** (休日, 一日, 老後). Đừng nhầm với 過ぎる (vượt quá, trôi qua — tự động từ)."
+        },
+        {
+          "id": "g21-w24",
+          "w": "月日",
+          "r": "つきひ",
+          "hv": "NGUYỆT NHẬT",
+          "pos": "名",
+          "vi": "ngày tháng, thời gian",
+          "key": true,
+          "ex": {
+            "ja": "{日本|にほん}に{来|き}てから、あっという{間|ま}に{三年|さんねん}の{月日|つきひ}が{流|なが}れた。",
+            "vi": "Từ khi đến Nhật, ba năm trời trôi qua trong chớp mắt."
+          },
+          "col": [
+            "月日がたつ",
+            "月日が流れる"
+          ],
+          "rel": "≒ 年月・歳月",
+          "note": "Đọc **つきひ**. Đọc がっぴ thì nghĩa là \"ngày tháng\" ghi trên giấy tờ (生年月日 = ngày tháng năm sinh). 月日 chỉ **một quãng thời gian dài** đã trôi qua, đi với たつ／経過する／流れる; không dùng để hỏi hay ghi ngày cụ thể (✗ 今日の月日 → ○ 今日は何月何日)."
+        },
+        {
+          "id": "g21-w25",
+          "w": "たつ",
+          "r": "たつ",
+          "hv": "KINH",
+          "pos": "自動",
+          "vi": "(thời gian) trôi qua",
+          "key": true,
+          "ex": {
+            "ja": "{引|ひ}っ{越|こ}してから{半年|はんとし}たったが、まだ{近所|きんじょ}の{人|ひと}の{名前|なまえ}を{覚|おぼ}えていない。",
+            "vi": "Chuyển nhà đã nửa năm mà tôi vẫn chưa nhớ tên hàng xóm."
+          },
+          "col": [
+            "月日がたつ",
+            "時間がたつ",
+            "〜年たつ"
+          ],
+          "rel": "≒ 経過する・過ぎる",
+          "note": "Viết 経つ. Chủ ngữ luôn là **thời gian**."
+        },
+        {
+          "id": "g21-w26",
+          "w": "経過",
+          "r": "けいか",
+          "hv": "KINH QUÁ",
+          "pos": "名・自動",
+          "vi": "(thời gian) trôi qua; diễn biến, tiến triển",
+          "key": true,
+          "ex": {
+            "ja": "{手術|しゅじゅつ}の{後|あと}の{経過|けいか}は{順調|じゅんちょう}だと{医者|いしゃ}に{言|い}われた。",
+            "vi": "Bác sĩ nói diễn biến sau phẫu thuật rất thuận lợi."
+          },
+          "col": [
+            "時間が経過する",
+            "経過を見る",
+            "経過が順調だ",
+            "途中経過"
+          ],
+          "note": "Hai nghĩa: (1) văn viết của 経つ (三年が経過した); (2) **diễn biến** của bệnh, sự việc (病状の経過, 試合の途中経過). Không dùng cho đi qua địa điểm (→ 通過)."
+        },
+        {
+          "id": "g21-w27",
+          "w": "一定",
+          "r": "いってい",
+          "hv": "NHẤT ĐỊNH",
+          "pos": "名・自動",
+          "vi": "nhất định, cố định, không đổi; ở mức nào đó",
+          "key": true,
+          "ex": {
+            "ja": "この{部屋|へや}は{温度|おんど}と{湿度|しつど}が{一年中|いちねんじゅう}{一定|いってい}に{保|たも}たれている。",
+            "vi": "Phòng này được giữ nhiệt độ và độ ẩm ổn định quanh năm."
+          },
+          "col": [
+            "一定の温度",
+            "一定の間隔",
+            "一定の条件",
+            "一定する"
+          ],
+          "note": "Không phải \"nhất định (chắc chắn)\" như tiếng Việt (→ 必ず／きっと). 一定 = **không thay đổi** (一定の速さ) hoặc **một mức nhất định** (一定の成果, 一定の収入)."
+        },
+        {
+          "id": "g21-w28",
+          "w": "周期",
+          "r": "しゅうき",
+          "hv": "CHU KỲ",
+          "pos": "名",
+          "vi": "chu kỳ",
+          "key": true,
+          "ex": {
+            "ja": "この{彗星|すいせい}は{約|やく}{七十六年|ななじゅうろくねん}の{周期|しゅうき}で{地球|ちきゅう}に{近|ちか}づく。",
+            "vi": "Sao chổi này cứ chu kỳ khoảng 76 năm lại đến gần Trái Đất."
+          },
+          "col": [
+            "一定の周期",
+            "周期的に",
+            "〜年周期"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "時間帯",
+      "title_vi": "Khung thời gian trong tháng và trong ngày",
+      "words": [
+        {
+          "id": "g21-w29",
+          "w": "上旬",
+          "r": "じょうじゅん",
+          "hv": "THƯỢNG TUẦN",
+          "pos": "名",
+          "vi": "thượng tuần (ngày 1–10 trong tháng)",
+          "key": true,
+          "ex": {
+            "ja": "{新|あたら}しいアルバムは{来月|らいげつ}{上旬|じょうじゅん}に{発売|はつばい}される{予定|よてい}だ。",
+            "vi": "Album mới dự kiến phát hành vào thượng tuần tháng sau."
+          },
+          "rel": "≒ 初旬",
+          "note": "旬(じゅん) = khoảng 10 ngày. Tháng chia 3: 上旬 (1–10), 中旬 (11–20), 下旬 (21–cuối)."
+        },
+        {
+          "id": "g21-w30",
+          "w": "初旬",
+          "r": "しょじゅん",
+          "hv": "SƠ TUẦN",
+          "pos": "名",
+          "vi": "đầu tháng (≒ thượng tuần)",
+          "key": true,
+          "ex": {
+            "ja": "この{地方|ちほう}では、{四月|しがつ}{初旬|しょじゅん}に{桜|さくら}が{咲|さ}き{始|はじ}める。",
+            "vi": "Ở vùng này hoa anh đào bắt đầu nở vào đầu tháng Tư."
+          },
+          "rel": "≒ 上旬",
+          "note": "Đọc **しょ**じゅん. Nghĩa giống 上旬, sắc thái hơi văn chương hơn."
+        },
+        {
+          "id": "g21-w31",
+          "w": "中旬",
+          "r": "ちゅうじゅん",
+          "hv": "TRUNG TUẦN",
+          "pos": "名",
+          "vi": "trung tuần (ngày 11–20)",
+          "key": true,
+          "ex": {
+            "ja": "{工事|こうじ}は{十月|じゅうがつ}{中旬|ちゅうじゅん}までに{終|お}わる{見込|みこ}みだ。",
+            "vi": "Công trình dự kiến xong trước trung tuần tháng Mười."
+          }
+        },
+        {
+          "id": "g21-w32",
+          "w": "下旬",
+          "r": "げじゅん",
+          "hv": "HẠ TUẦN",
+          "pos": "名",
+          "vi": "hạ tuần (ngày 21–cuối tháng)",
+          "key": true,
+          "ex": {
+            "ja": "{毎年|まいとし}{十二月|じゅうにがつ}{下旬|げじゅん}になると、{町|まち}は{年末|ねんまつ}の{買|か}い{物|もの}{客|きゃく}でにぎわう。",
+            "vi": "Hằng năm cứ đến hạ tuần tháng Mười Hai, phố xá lại tấp nập khách mua sắm cuối năm."
+          },
+          "note": "Đọc **げ**じゅん (下 = げ như 下車, 下旬). Bẫy: かじゅん／しもじゅん."
+        },
+        {
+          "id": "g21-w33",
+          "w": "月末",
+          "r": "げつまつ",
+          "hv": "NGUYỆT MẠT",
+          "pos": "名",
+          "vi": "cuối tháng",
+          "key": true,
+          "ex": {
+            "ja": "{家賃|やちん}は{毎月|まいつき}{月末|げつまつ}までに{振|ふ}り{込|こ}んでください。",
+            "vi": "Tiền nhà hãy chuyển khoản trước cuối tháng hằng tháng."
+          },
+          "col": [
+            "月末払い",
+            "月末締め"
+          ],
+          "rel": "↔ 月初め(つきはじめ)",
+          "note": "Đọc **げつ**まつ. 年末(ねんまつ) = cuối năm, 週末 = cuối tuần, 期末 = cuối kỳ."
+        },
+        {
+          "id": "g21-w34",
+          "w": "早朝",
+          "r": "そうちょう",
+          "hv": "TẢO TRIÊU",
+          "pos": "名",
+          "vi": "sáng sớm (khoảng 5–6 giờ)",
+          "key": true,
+          "ex": {
+            "ja": "{早朝|そうちょう}の{公園|こうえん}は{人|ひと}が{少|すく}なく、{空気|くうき}も{澄|す}んでいる。",
+            "vi": "Công viên lúc sáng sớm vắng người, không khí lại trong lành."
+          },
+          "col": [
+            "早朝に出発する",
+            "早朝割引"
+          ],
+          "note": "Đọc そう**ちょう** (朝 = ちょう như 朝食)."
+        },
+        {
+          "id": "g21-w35",
+          "w": "明け方",
+          "r": "あけがた",
+          "hv": "MINH PHƯƠNG",
+          "pos": "名",
+          "vi": "rạng sáng, lúc trời hửng sáng",
+          "key": true,
+          "ex": {
+            "ja": "{明|あ}け{方|がた}まで{友達|ともだち}と{話|はな}していて、ほとんど{寝|ね}ていない。",
+            "vi": "Tôi nói chuyện với bạn đến tận rạng sáng nên gần như không ngủ."
+          },
+          "rel": "≒ 夜明け",
+          "note": "夜が明ける = trời sáng → 明け方. Đối với 夕方 (chiều tối). Âm đục: あけ**が**た."
+        },
+        {
+          "id": "g21-w36",
+          "w": "正午",
+          "r": "しょうご",
+          "hv": "CHÍNH NGỌ",
+          "pos": "名",
+          "vi": "12 giờ trưa, chính ngọ",
+          "key": false,
+          "ex": {
+            "ja": "{式|しき}は{正午|しょうご}ちょうどに{始|はじ}まります。",
+            "vi": "Buổi lễ bắt đầu đúng 12 giờ trưa."
+          },
+          "col": [
+            "正午過ぎ",
+            "正午前"
+          ],
+          "note": "午前 / 午後 lấy 正午 làm mốc."
+        },
+        {
+          "id": "g21-w37",
+          "w": "日中",
+          "r": "にっちゅう",
+          "hv": "NHẬT TRUNG",
+          "pos": "名",
+          "vi": "ban ngày (khoảng thời gian có mặt trời)",
+          "key": true,
+          "ex": {
+            "ja": "{日中|にっちゅう}は{暖|あたた}かいが、{朝晩|あさばん}は{冷|ひ}えるので{上着|うわぎ}が{必要|ひつよう}だ。",
+            "vi": "Ban ngày thì ấm nhưng sáng tối lạnh nên cần áo khoác."
+          },
+          "col": [
+            "日中の気温",
+            "日中は留守にしている"
+          ],
+          "rel": "≒ 昼間",
+          "note": "Đọc **にっちゅう**. Đừng nhầm với 日中(にっちゅう) trong 日中関係 = Nhật – Trung (cùng chữ, cùng âm, khác nghĩa — nhìn ngữ cảnh). Chú ý: 日中 chỉ **những giờ có mặt trời** (≒ 昼間), không phải **一日中** (suốt cả ngày, từ sáng đến tối) — ✗ 朝から夜まで日中勉強する → ○ 一日中勉強する."
+        },
+        {
+          "id": "g21-w38",
+          "w": "夜中",
+          "r": "よなか",
+          "hv": "DẠ TRUNG",
+          "pos": "名",
+          "vi": "nửa đêm, giữa đêm",
+          "key": true,
+          "ex": {
+            "ja": "{夜中|よなか}に{目|め}が{覚|さ}めて、それから{眠|ねむ}れなくなった。",
+            "vi": "Nửa đêm tôi tỉnh giấc, rồi từ đó không ngủ lại được."
+          },
+          "rel": "≒ 深夜・真夜中",
+          "note": "夜中 (văn nói, đời thường) ≒ 深夜 (văn viết, dịch vụ: 深夜料金, 深夜バス). 真夜中 = đúng nửa đêm."
+        },
+        {
+          "id": "g21-w39",
+          "w": "深夜",
+          "r": "しんや",
+          "hv": "THÂM DẠ",
+          "pos": "名",
+          "vi": "đêm khuya",
+          "key": false,
+          "ex": {
+            "ja": "{深夜|しんや}にタクシーに{乗|の}ると、{料金|りょうきん}が{割|わり}{増|まし}になる。",
+            "vi": "Đi taxi vào đêm khuya thì giá cước cao hơn."
+          },
+          "col": [
+            "深夜料金",
+            "深夜番組",
+            "深夜営業"
+          ]
+        },
+        {
+          "id": "g21-w40",
+          "w": "夕方",
+          "r": "ゆうがた",
+          "hv": "TỊCH PHƯƠNG",
+          "pos": "名",
+          "vi": "chiều tối, chập tối",
+          "key": false,
+          "ex": {
+            "ja": "{夕方|ゆうがた}になると、{駅前|えきまえ}は{帰宅|きたく}する{人|ひと}で{混|こ}み{合|あ}う。",
+            "vi": "Đến chiều tối, trước ga đông nghịt người đi làm về."
+          }
+        }
+      ]
+    },
+    {
+      "title": "位置・場所",
+      "title_vi": "Vị trí, nơi chốn",
+      "words": [
+        {
+          "id": "g21-w41",
+          "w": "元",
+          "r": "もと",
+          "hv": "NGUYÊN",
+          "pos": "名",
+          "vi": "(trạng thái, chỗ) ban đầu, như cũ; trước đây (元〜 = cựu)",
+          "key": true,
+          "ex": {
+            "ja": "{使|つか}った{道具|どうぐ}は、{必|かなら}ず{元|もと}の{場所|ばしょ}に{戻|もど}してください。",
+            "vi": "Dụng cụ đã dùng xong nhất định phải để lại chỗ cũ."
+          },
+          "col": [
+            "元の位置に戻す",
+            "元に戻る",
+            "元の生活",
+            "元社長 (cựu giám đốc)"
+          ],
+          "note": "「元に戻る／戻す」 = trở lại như cũ. Tiền tố 元〜 = cựu: 元首相, 元カレ. Cùng âm: 基(もと) = nền tảng (〜を基に), 下(もと) = dưới (先生の下で)."
+        },
+        {
+          "id": "g21-w42",
+          "w": "位置",
+          "r": "いち",
+          "hv": "VỊ TRÍ",
+          "pos": "名・自動",
+          "vi": "vị trí; nằm ở (vị trí)",
+          "key": true,
+          "ex": {
+            "ja": "{日本|にほん}はアジアの{東|ひがし}の{端|はし}に{位置|いち}している。",
+            "vi": "Nhật Bản nằm ở rìa phía đông châu Á."
+          },
+          "col": [
+            "元の位置",
+            "位置を確かめる",
+            "〜に位置する",
+            "位置情報"
+          ],
+          "note": "Dùng làm động từ: 「〜に位置する」 = nằm ở (văn viết, địa lý)."
+        },
+        {
+          "id": "g21-w43",
+          "w": "配置",
+          "r": "はいち",
+          "hv": "PHỐI TRÍ",
+          "pos": "名・他動",
+          "vi": "bố trí, sắp đặt (đồ đạc, người vào vị trí)",
+          "key": true,
+          "ex": {
+            "ja": "{机|つくえ}の{配置|はいち}を{変|か}えたら、{部屋|へや}が{広|ひろ}く{感|かん}じられるようになった。",
+            "vi": "Thay đổi cách bố trí bàn thì căn phòng trông rộng ra."
+          },
+          "col": [
+            "家具の配置",
+            "人員を配置する",
+            "配置転換 (điều chuyển)"
+          ],
+          "note": "Dùng cho cả **người**: 警備員を配置する (bố trí bảo vệ). 配置転換 = điều chuyển nhân sự sang bộ phận khác."
+        },
+        {
+          "id": "g21-w44",
+          "w": "空間",
+          "r": "くうかん",
+          "hv": "KHÔNG GIAN",
+          "pos": "名",
+          "vi": "không gian",
+          "key": true,
+          "ex": {
+            "ja": "このカフェは{天井|てんじょう}が{高|たか}く、ゆったりとした{空間|くうかん}が{魅力|みりょく}だ。",
+            "vi": "Quán cà phê này trần cao, điểm hấp dẫn là không gian thoáng đãng."
+          },
+          "col": [
+            "快適な空間",
+            "生活空間",
+            "宇宙空間"
+          ],
+          "rel": "cf. スペース",
+          "note": "空間 thiên về **không gian như một môi trường** (ấm cúng, thoải mái…). スペース thiên về **chỗ trống để đặt đồ** (駐車スペース)."
+        },
+        {
+          "id": "g21-w45",
+          "w": "スペース",
+          "r": "すぺーす",
+          "hv": "",
+          "pos": "名",
+          "vi": "chỗ trống, khoảng trống (để đặt, để dùng)",
+          "key": true,
+          "ex": {
+            "ja": "{冷蔵庫|れいぞうこ}がいっぱいで、ケーキを{入|い}れるスペースがない。",
+            "vi": "Tủ lạnh đầy, không còn chỗ để cho bánh vào."
+          },
+          "col": [
+            "スペースがある／ない",
+            "駐車スペース",
+            "スペースを空ける"
+          ],
+          "rel": "≒ 場所・余地"
+        },
+        {
+          "id": "g21-w46",
+          "w": "所々",
+          "r": "ところどころ",
+          "hv": "SỞ",
+          "pos": "名・副",
+          "vi": "chỗ này chỗ kia, rải rác vài chỗ",
+          "key": true,
+          "ex": {
+            "ja": "{古|ふる}い{本|ほん}なので、ページが{所々|ところどころ}{破|やぶ}れている。",
+            "vi": "Sách cũ nên trang bị rách vài chỗ."
+          },
+          "col": [
+            "所々に",
+            "所々破れている"
+          ],
+          "rel": "≒ あちこち・部分的に",
+          "note": "Đọc **ところどころ** (không phải しょしょ). Nghĩa: **không phải toàn bộ**, chỉ một số chỗ rải rác."
+        },
+        {
+          "id": "g21-w47",
+          "w": "枠",
+          "r": "わく",
+          "hv": "KHUNG",
+          "pos": "名",
+          "vi": "khung, viền; giới hạn, khuôn khổ",
+          "key": true,
+          "ex": {
+            "ja": "{申込書|もうしこみしょ}の{太|ふと}い{枠|わく}の{中|なか}だけ{記入|きにゅう}してください。",
+            "vi": "Xin chỉ điền vào bên trong khung viền đậm của đơn đăng ký."
+          },
+          "col": [
+            "枠の中",
+            "窓枠",
+            "予算の枠",
+            "枠にとらわれない (không bị gò bó)"
+          ],
+          "note": "Nghĩa bóng: 予算の枠 (trong phạm vi ngân sách), 「常識の枠にとらわれない発想」 = cách nghĩ không bị đóng khung bởi lối mòn."
+        },
+        {
+          "id": "g21-w48",
+          "w": "向かう",
+          "r": "むかう",
+          "hv": "HƯỚNG",
+          "pos": "自動",
+          "vi": "hướng về, đi về phía; đối diện",
+          "key": true,
+          "ex": {
+            "ja": "{事故|じこ}の{知|し}らせを{受|う}けて、{警察|けいさつ}がすぐ{現場|げんば}に{向|む}かった。",
+            "vi": "Nhận tin báo tai nạn, cảnh sát lập tức đến hiện trường."
+          },
+          "col": [
+            "〜へ向かう",
+            "机に向かう (ngồi vào bàn học)",
+            "回復に向かう"
+          ],
+          "note": "Nghĩa bóng: 病気が回復に向かう (bệnh đang chuyển biến tốt). 「机に向かう」 = ngồi vào bàn học / làm việc."
+        },
+        {
+          "id": "g21-w49",
+          "w": "周辺",
+          "r": "しゅうへん",
+          "hv": "CHU BIÊN",
+          "pos": "名",
+          "vi": "khu vực xung quanh, vùng lân cận",
+          "key": true,
+          "ex": {
+            "ja": "{駅|えき}の{周辺|しゅうへん}には{飲食店|いんしょくてん}が{多|おお}く{集|あつ}まっている。",
+            "vi": "Khu vực quanh nhà ga tập trung nhiều quán ăn."
+          },
+          "col": [
+            "駅の周辺",
+            "周辺地域",
+            "周辺住民"
+          ],
+          "rel": "≒ 周り・付近",
+          "note": "周辺 = **khu vực bao quanh một điểm** (地名 + 周辺). 周囲 (g01) thì còn chỉ những người xung quanh."
+        },
+        {
+          "id": "g21-w50",
+          "w": "並ぶ",
+          "r": "ならぶ",
+          "hv": "TỊNH",
+          "pos": "自動",
+          "vi": "xếp hàng, nằm thành dãy; sánh ngang",
+          "key": true,
+          "ex": {
+            "ja": "{人気|にんき}のラーメン{屋|や}の{前|まえ}に、たくさんの{人|ひと}が{並|なら}んでいる。",
+            "vi": "Trước quán ramen nổi tiếng có rất nhiều người đang xếp hàng."
+          },
+          "col": [
+            "店が並ぶ",
+            "一列に並ぶ",
+            "〜に並ぶ者がいない (không ai sánh bằng)"
+          ],
+          "rel": "他動: 並べる"
+        },
+        {
+          "id": "g21-w51",
+          "w": "範囲",
+          "r": "はんい",
+          "hv": "PHẠM VI",
+          "pos": "名",
+          "vi": "phạm vi",
+          "key": true,
+          "ex": {
+            "ja": "{試験|しけん}の{範囲|はんい}は{教科書|きょうかしょ}の{三十|さんじゅう}ページまでです。",
+            "vi": "Phạm vi thi đến trang 30 sách giáo khoa."
+          },
+          "col": [
+            "広い範囲",
+            "試験範囲",
+            "〜の範囲内で",
+            "範囲に渡る"
+          ]
+        },
+        {
+          "id": "g21-w52",
+          "w": "渡る",
+          "r": "わたる",
+          "hv": "ĐỘ",
+          "pos": "自動",
+          "vi": "(〜に渡る) trải dài, kéo dài khắp (phạm vi, thời gian); băng qua",
+          "key": false,
+          "ex": {
+            "ja": "{大雨|おおあめ}の{被害|ひがい}は{県内|けんない}の{広|ひろ}い{範囲|はんい}に{渡|わた}った。",
+            "vi": "Thiệt hại do mưa lớn trải rộng khắp tỉnh."
+          },
+          "col": [
+            "広い範囲に渡る",
+            "長時間に渡る",
+            "〜にわたって"
+          ],
+          "note": "Nghĩa gốc: băng qua (道を渡る). Với phạm vi / thời gian: 「三日間にわたって」 = suốt ba ngày (thường viết hiragana にわたって)."
+        },
+        {
+          "id": "g21-w53",
+          "w": "沿う",
+          "r": "そう",
+          "hv": "DUYÊN",
+          "pos": "自動",
+          "vi": "(〜に沿って) dọc theo; theo đúng (ý muốn, kế hoạch)",
+          "key": true,
+          "ex": {
+            "ja": "{線路|せんろ}に{沿|そ}って{歩|ある}いていくと、{小|ちい}さな{駅|えき}が{見|み}えてきた。",
+            "vi": "Đi bộ dọc theo đường ray thì thấy một nhà ga nhỏ hiện ra."
+          },
+          "col": [
+            "川に沿って",
+            "道に沿って",
+            "希望に沿う",
+            "方針に沿って"
+          ],
+          "note": "Nghĩa bóng: 「ご希望に沿えず申し訳ありません」 = xin lỗi vì không đáp ứng được mong muốn của quý khách. Đọc **そう**."
+        }
+      ]
+    },
+    {
+      "title": "語形成",
+      "title_vi": "Cấu tạo từ: 〜通り・〜中・〜過ぎ・〜時・〜方面",
+      "words": [
+        {
+          "id": "g21-w54",
+          "w": "従来通り",
+          "r": "じゅうらいどおり",
+          "hv": "TÙNG LAI THÔNG",
+          "pos": "名・副",
+          "vi": "như từ trước đến nay",
+          "key": true,
+          "ex": {
+            "ja": "{新|あたら}しい{店長|てんちょう}になっても、{営業|えいぎょう}{時間|じかん}は{従来|じゅうらい}{通|どお}りです。",
+            "vi": "Dù có cửa hàng trưởng mới, giờ mở cửa vẫn như trước đây."
+          },
+          "note": "N + 通り(**どおり**, đục) = đúng như N: 従来通り, 予想通り, 予定通り, 計画通り, 指示通り. Còn Vた／Vる + とおり (không đục): 言ったとおり."
+        },
+        {
+          "id": "g21-w55",
+          "w": "予想通り",
+          "r": "よそうどおり",
+          "hv": "DỰ TƯỞNG THÔNG",
+          "pos": "名・副",
+          "vi": "đúng như dự đoán",
+          "key": true,
+          "ex": {
+            "ja": "{予想|よそう}{通|どお}り、{連休|れんきゅう}の{高速|こうそく}{道路|どうろ}は{大渋滞|だいじゅうたい}だった。",
+            "vi": "Đúng như dự đoán, đường cao tốc ngày nghỉ dài tắc nghẽn khủng khiếp."
+          },
+          "rel": "↔ 予想外・意外"
+        },
+        {
+          "id": "g21-w56",
+          "w": "予定通り",
+          "r": "よていどおり",
+          "hv": "DỰ ĐỊNH THÔNG",
+          "pos": "名・副",
+          "vi": "đúng như dự định, theo kế hoạch",
+          "key": true,
+          "ex": {
+            "ja": "{飛行機|ひこうき}は{予定|よてい}{通|どお}りに{成田|なりた}に{到着|とうちゃく}した。",
+            "vi": "Máy bay đã đến Narita đúng như lịch trình."
+          }
+        },
+        {
+          "id": "g21-w57",
+          "w": "期間中",
+          "r": "きかんちゅう",
+          "hv": "KỲ GIAN TRUNG",
+          "pos": "名",
+          "vi": "trong thời gian (đã định)",
+          "key": true,
+          "ex": {
+            "ja": "キャンペーン{期間中|きかんちゅう}は、{全品|ぜんぴん}{二割|にわり}{引|び}きになります。",
+            "vi": "Trong thời gian khuyến mãi, tất cả sản phẩm giảm 20%."
+          },
+          "col": [
+            "セール期間中",
+            "研修期間中"
+          ],
+          "note": "N + 中(**ちゅう**) = đang trong lúc…: 期間中, 授業中, 会議中, 工事中, 営業中. (Còn 〜中(じゅう) = suốt, khắp: 一日中, 世界中.)"
+        },
+        {
+          "id": "g21-w58",
+          "w": "授業中",
+          "r": "じゅぎょうちゅう",
+          "hv": "THỤ NGHIỆP TRUNG",
+          "pos": "名",
+          "vi": "trong giờ học",
+          "key": false,
+          "ex": {
+            "ja": "{授業中|じゅぎょうちゅう}に{居眠|いねむ}りをして、{先生|せんせい}に{注意|ちゅうい}された。",
+            "vi": "Ngủ gật trong giờ học, tôi bị thầy nhắc nhở."
+          }
+        },
+        {
+          "id": "g21-w59",
+          "w": "正午過ぎ",
+          "r": "しょうごすぎ",
+          "hv": "CHÍNH NGỌ QUÁ",
+          "pos": "名",
+          "vi": "quá trưa (hơn 12 giờ một chút)",
+          "key": true,
+          "ex": {
+            "ja": "{会議|かいぎ}が{長引|ながび}いて、{終|お}わったのは{正午|しょうご}{過|す}ぎだった。",
+            "vi": "Cuộc họp kéo dài, lúc xong đã quá trưa."
+          },
+          "col": [
+            "八時過ぎ",
+            "二十歳過ぎ"
+          ],
+          "note": "Thời điểm / tuổi + 過ぎ = **vừa quá** mốc đó một chút: 八時過ぎ (hơn 8 giờ), 三十過ぎ (ngoài 30)."
+        },
+        {
+          "id": "g21-w60",
+          "w": "八時過ぎ",
+          "r": "はちじすぎ",
+          "hv": "BÁT THỜI QUÁ",
+          "pos": "名",
+          "vi": "hơn tám giờ",
+          "key": false,
+          "ex": {
+            "ja": "{毎朝|まいあさ}{八時|はちじ}{過|す}ぎの{電車|でんしゃ}で{会社|かいしゃ}に{行|い}く。",
+            "vi": "Sáng nào tôi cũng đi làm bằng chuyến tàu hơn tám giờ."
+          }
+        },
+        {
+          "id": "g21-w61",
+          "w": "夕暮れ時",
+          "r": "ゆうぐれどき",
+          "hv": "TỊCH MỘ THỜI",
+          "pos": "名",
+          "vi": "lúc chạng vạng, hoàng hôn",
+          "key": true,
+          "ex": {
+            "ja": "{夕暮|ゆうぐ}れ{時|どき}の{海|うみ}は、{空|そら}がオレンジ{色|いろ}に{染|そ}まって{美|うつく}しい。",
+            "vi": "Biển lúc hoàng hôn, bầu trời nhuộm màu cam thật đẹp."
+          },
+          "note": "N／Vます + 時(**どき**, đục) = lúc, mùa: 夕暮れ時, 梅雨時, 昼時, 食事時. Mang sắc thái \"thời điểm đặc trưng\"."
+        },
+        {
+          "id": "g21-w62",
+          "w": "梅雨時",
+          "r": "つゆどき",
+          "hv": "MAI VŨ THỜI",
+          "pos": "名",
+          "vi": "mùa mưa (tháng 6–7 ở Nhật)",
+          "key": false,
+          "ex": {
+            "ja": "{梅雨時|つゆどき}は{洗濯物|せんたくもの}がなかなか{乾|かわ}かない。",
+            "vi": "Mùa mưa quần áo giặt mãi không khô."
+          },
+          "note": "梅雨 đọc đặc biệt つゆ (cũng đọc ばいう)."
+        },
+        {
+          "id": "g21-w63",
+          "w": "東京方面",
+          "r": "とうきょうほうめん",
+          "hv": "ĐÔNG KINH PHƯƠNG DIỆN",
+          "pos": "名",
+          "vi": "hướng Tokyo, phía Tokyo",
+          "key": true,
+          "ex": {
+            "ja": "{東京|とうきょう}{方面|ほうめん}へお{越|こ}しの{方|かた}は、{二番|にばん}ホームの{電車|でんしゃ}をご{利用|りよう}ください。",
+            "vi": "Quý khách đi hướng Tokyo xin vui lòng dùng tàu ở sân ga số 2."
+          },
+          "col": [
+            "〜方面へ向かう",
+            "〜方面行き"
+          ],
+          "note": "地名 + 方面 = **hướng / khu vực đó**: 東京方面, 都心方面, 大阪方面. Nghĩa khác: lĩnh vực (医学の方面)."
+        },
+        {
+          "id": "g21-w64",
+          "w": "都心方面",
+          "r": "としんほうめん",
+          "hv": "ĐÔ TÂM PHƯƠNG DIỆN",
+          "pos": "名",
+          "vi": "hướng trung tâm thành phố",
+          "key": true,
+          "ex": {
+            "ja": "{朝|あさ}の{都心|としん}{方面|ほうめん}の{電車|でんしゃ}は、いつも{満員|まんいん}だ。",
+            "vi": "Tàu hướng vào trung tâm buổi sáng lúc nào cũng chật cứng."
+          },
+          "note": "都心 = trung tâm đô thị (đặc biệt là Tokyo)."
+        }
+      ]
+    },
+    {
+      "title": "副詞など",
+      "title_vi": "Phó từ trong câu ví dụ",
+      "words": [
+        {
+          "id": "g21-w65",
+          "w": "一斉に",
+          "r": "いっせいに",
+          "hv": "NHẤT TỀ",
+          "pos": "副",
+          "vi": "đồng loạt, cùng một lúc",
+          "key": true,
+          "ex": {
+            "ja": "ゴールが{決|き}まった{瞬間|しゅんかん}、{観客|かんきゃく}が{一斉|いっせい}に{立|た}ち{上|あ}がった。",
+            "vi": "Ngay khoảnh khắc bàn thắng được ghi, khán giả đồng loạt đứng bật dậy."
+          },
+          "col": [
+            "一斉に始める",
+            "一斉に走り出す",
+            "一斉送信"
+          ],
+          "rel": "≒ 同時に・一度に",
+          "note": "Đọc **いっせい** (một chữ 一 + 斉). Nhấn vào **nhiều người / vật làm cùng một lúc**."
+        },
+        {
+          "id": "g21-w66",
+          "w": "極めて",
+          "r": "きわめて",
+          "hv": "CỰC",
+          "pos": "副",
+          "vi": "cực kỳ, vô cùng",
+          "key": true,
+          "ex": {
+            "ja": "この{病気|びょうき}が{子|こ}どもにうつる{可能性|かのうせい}は{極|きわ}めて{低|ひく}い。",
+            "vi": "Khả năng bệnh này lây sang trẻ em là cực kỳ thấp."
+          },
+          "col": [
+            "極めて重要",
+            "極めて難しい",
+            "極めてまれ"
+          ],
+          "rel": "≒ 非常に・大変",
+          "note": "Văn viết, trang trọng của とても／非常に. Gốc động từ 極める (lên đến đỉnh)."
+        },
+        {
+          "id": "g21-w67",
+          "w": "はるか",
+          "r": "はるか",
+          "hv": "DAO",
+          "pos": "副・な形",
+          "vi": "(xa) tít, xa xôi; hơn hẳn, vượt xa",
+          "key": true,
+          "ex": {
+            "ja": "{実際|じっさい}の{富士山|ふじさん}は、{写真|しゃしん}で{見|み}るよりはるかに{大|おお}きかった。",
+            "vi": "Núi Phú Sĩ thật lớn hơn hẳn so với nhìn trong ảnh."
+          },
+          "col": [
+            "はるか昔",
+            "はるか遠く",
+            "〜よりはるかに"
+          ],
+          "senses": [
+            {
+              "vi": "xa tít (khoảng cách, thời gian)",
+              "ex": {
+                "ja": "はるか{遠|とお}くに{島|しま}の{影|かげ}が{見|み}える。",
+                "vi": "Xa tít đằng kia thấy bóng một hòn đảo."
+              }
+            },
+            {
+              "vi": "(〜よりはるかに) hơn hẳn, vượt xa",
+              "ex": {
+                "ja": "{新|あたら}しい{道|みち}を{使|つか}えば、{前|まえ}よりはるかに{早|はや}く{着|つ}く。",
+                "vi": "Đi đường mới thì đến nhanh hơn hẳn trước kia."
+              }
+            }
+          ],
+          "note": "Viết 遥か. Khi so sánh: 「AはBよりはるかに〜」 nhấn **sự chênh lệch lớn**."
+        },
+        {
+          "id": "g21-w68",
+          "w": "常に",
+          "r": "つねに",
+          "hv": "THƯỜNG",
+          "pos": "副",
+          "vi": "luôn luôn, lúc nào cũng",
+          "key": true,
+          "ex": {
+            "ja": "{運転|うんてん}{中|ちゅう}は{常|つね}に{周|まわ}りの{安全|あんぜん}を{確認|かくにん}しなければならない。",
+            "vi": "Khi lái xe phải luôn luôn để ý sự an toàn xung quanh."
+          },
+          "col": [
+            "常に〜ている",
+            "常に気をつける"
+          ],
+          "rel": "≒ いつも・絶えず",
+          "note": "Văn viết của いつも. Đọc **つねに** (không phải じょうに)."
+        }
+      ]
+    }
+  ],
+  "focus": [
+    {
+      "title": "Phó từ thời gian: いつでも・いつまでも・そのうち・いずれ・かつて",
+      "body": "- **いつでも** = **bất cứ lúc nào** (thời điểm tuỳ ý): 「いつでも{電話|でんわ}してください」.\n- **いつまでも** = **mãi mãi, mãi** (kéo dài): 「いつまでも{忘|わす}れません」「いつまでも{遊|あそ}んでいないで{勉強|べんきょう}しなさい」.\n- **そのうち** = ít lâu nữa (tương lai gần, văn nói): 「そのうち{慣|な}れるよ」.\n- **いずれ** = sớm muộn gì, rồi có lúc (tương lai không rõ, trang trọng hơn): 「いずれ{分|わ}かる{日|ひ}が{来|く}る」; 「いずれにしても」 = dù sao đi nữa.\n- **かつて** = **ngày xưa đã từng** (quá khứ, nay đã khác): 「かつてここは{海|うみ}だった」; 「かつてない」 = chưa từng có.\n\nMẹo: vế sau là **mệnh lệnh / lời mời** → いつでも; có **状態の継続** (元気で, 忘れない) → いつまでも; có **だろう／〜ようになる** (tương lai) → そのうち／いずれ; có **〜た (quá khứ)** → かつて."
+    },
+    {
+      "title": "以前・以来・事前・前後・今後・従来",
+      "body": "- **以前**: trước đây / trước mốc: 「以前{住|す}んでいた{町|まち}」「明治以前」.\n- **以来**: **kể từ khi… đến nay**, vế sau là trạng thái kéo dài: 「{結婚|けっこん}して以来、ずっとこの{町|まち}に{住|す}んでいる」. ✗ 「来年以来」 (không dùng cho tương lai).\n- **事前に**: **trước khi việc đó diễn ra** (chuẩn bị, báo trước): 「事前に{予約|よやく}が{必要|ひつよう}です」.\n- **前後**: sau con số = **khoảng**: 「三十分前後」「二十歳前後」; một mình = trước sau.\n- **今後**: từ nay về sau (≒ これから): 「今後の{予定|よてい}」.\n- **従来**: cách làm **xưa nay vẫn dùng** (so với cái mới): 「従来の{方法|ほうほう}」「従来通り」.\n- **過去**: quá khứ — 「過去最高」.\n\nĐộng từ thời gian trôi: **時間が たつ／経過する** (tự động từ, chủ ngữ là thời gian); **時間を 過ごす** (tha động từ, người trải qua). ✗ 「楽しい休日が経過した」 → ○ 「楽しい休日を過ごした」."
+    },
+    {
+      "title": "Khung thời gian: 上旬・中旬・下旬 / 早朝 → 深夜",
+      "body": "**Trong tháng** (旬 = 10 ngày):\n- **上旬／初旬** (ngày 1–10) — đọc じょうじゅん／**しょ**じゅん\n- **中旬** (11–20) — ちゅうじゅん\n- **下旬** (21–cuối) — **げ**じゅん\n- **月末** (vài ngày cuối tháng) — **げつ**まつ\n\n**Trong ngày**:\n- **深夜・夜中** (0 giờ) → **明け方** (trời hửng sáng) → **早朝** (5–6 giờ) → **日中** (ban ngày, có mặt trời) → **正午** (12 giờ) → **夕方** → **夕暮れ時** (17–18 giờ, chạng vạng) → **夜** → **深夜・夜中**.\n\nPhân biệt: **夜中** (văn nói) / **深夜** (văn viết, dịch vụ: 深夜料金, 深夜営業). **日中** = 昼間 (những giờ có mặt trời), khác **正午** (đúng 12 giờ) và khác **一日中** (suốt cả ngày). Bẫy đọc: 日中 = **にっちゅう**, 明け方 = あけ**が**た, 夕暮れ時 = ゆうぐれ**ど**き."
+    },
+    {
+      "title": "Cơ hội và thời điểm: チャンス・タイミング + động từ",
+      "body": "- **チャンスを つかむ** (nắm lấy) ↔ **逃す／失う** (bỏ lỡ / đánh mất).\n- **チャンスを 与える** (trao cho ai cơ hội) → người nhận **生かす** (tận dụng).\n- **タイミングが いい／悪い**, **タイミングを 逃す／見計らう** (canh thời điểm).\n- **一時中断する**: tạm ngừng rồi sẽ tiếp tục (試合, 放送, 工事). Khác **中止** = huỷ hẳn.\n\nVí dụ chuỗi: 「{監督|かんとく}が{新人|しんじん}にチャンスを**与え**、{彼|かれ}はそのチャンスを**生かして**レギュラーの{座|ざ}を**つかんだ**」.\n\nBẫy 用法: 生かす dùng cho **thứ có giá trị sẵn có** (経験, 能力, 特技, 素材) để phát huy nó. Không dùng với nghĩa \"tốn (thời gian)\" (→ かける) hay \"nuôi dạy\" (→ 育てる)."
+    },
+    {
+      "title": "Vị trí – nơi chốn: 位置・配置・空間・スペース・範囲・周辺・枠 / 沿う・渡る・向かう",
+      "body": "- **位置**: điểm nằm ở đâu (元の位置, 〜に位置する). **配置**: cách **sắp xếp nhiều thứ / người** (家具の配置, 人員配置).\n- **空間**: không gian như một môi trường (快適な空間). **スペース**: chỗ trống để đặt, dùng (駐車スペース, 置くスペースがない).\n- **範囲**: phạm vi (試験範囲, 広い範囲). **周辺**: khu vực quanh một điểm (駅周辺). **枠**: khung viền / giới hạn (枠の中に書く, 予算の枠).\n- **所々**: rải rác vài chỗ (≒ あちこち, 部分的に — không phải toàn bộ).\n- **〜に沿って**: dọc theo (川／道に沿って); nghĩa bóng: theo đúng (方針に沿って, 希望に沿う).\n- **〜に渡る／にわたって**: trải khắp phạm vi / suốt thời gian (広い範囲に渡る, 三日間にわたって).\n- **〜へ向かう**: đi về hướng (東京方面へ向かう); nghĩa bóng: 回復に向かう.\n- **元**: như cũ — 元に戻す／元の位置に戻す."
+    },
+    {
+      "title": "語形成 (〜通り・〜中・〜過ぎ・〜時・〜方面) và phó từ 一斉に・極めて・はるか・常に",
+      "body": "- **N + 通り(どおり)**: đúng như — 従来通り, 予想通り, 予定通り. (Vる／Vた + とおり không đục: 言われたとおり.)\n- **N + 中(ちゅう)**: đang trong lúc — 期間中, 授業中, 会議中. (〜中(じゅう) = suốt/khắp: 一年中, 世界中.)\n- **thời điểm + 過ぎ**: vừa quá — 正午過ぎ, 八時過ぎ, 三十過ぎ.\n- **N + 時(どき)**: lúc, mùa đặc trưng — 夕暮れ時, 梅雨時, 昼時.\n- **地名 + 方面**: hướng / khu vực — 東京方面, 都心方面.\n\nPhó từ (văn viết):\n- **一斉に** = đồng loạt (nhiều người cùng lúc).\n- **極めて** = cực kỳ (≒ 非常に).\n- **はるか(に)** = xa tít / hơn hẳn (〜よりはるかに).\n- **常に** = luôn luôn (≒ いつも).\n- **かつて** = ngày xưa từng."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "g21-q1",
+      "kind": "read",
+      "ref": "g21-w18",
+      "q": "{新|あたら}しい{薬|くすり}は、[[u:従来]]の{薬|くすり}より{副作用|ふくさよう}が{少|すく}ない。",
+      "options": [
+        "じゅらい",
+        "じゅうらい",
+        "しょうらい",
+        "じゅうれい"
+      ],
+      "answer": 1,
+      "vi": "Thuốc mới ít tác dụng phụ hơn thuốc trước đây.",
+      "why": "従来 = **じゅうらい** (従 = じゅう, 来 = らい). じゅらい thiếu trường âm; しょうらい là 将来 (tương lai) — bẫy cùng vần; じゅうれい sai âm 来."
+    },
+    {
+      "id": "g21-q2",
+      "kind": "write",
+      "ref": "g21-w32",
+      "q": "{引|ひ}っ{越|こ}しは{三月|さんがつ}[[u:げじゅん]]になりそうだ。",
+      "options": [
+        "下順",
+        "夏旬",
+        "下句",
+        "下旬"
+      ],
+      "answer": 3,
+      "vi": "Việc chuyển nhà có lẽ sẽ vào hạ tuần tháng Ba.",
+      "why": "げじゅん = **下旬** (旬 = khoảng mười ngày). 順 (thuận, thứ tự) cùng âm じゅん nhưng sai; 夏 đọc か／なつ, không phải げ; 句 (câu) giống hình 旬 — bẫy."
+    },
+    {
+      "id": "g21-q3",
+      "kind": "context",
+      "ref": "g21-w4",
+      "q": "{迷|まよ}っているうちに、せっかくの{留学|りゅうがく}のチャンスを（　　）しまった。",
+      "options": [
+        "逃して",
+        "与えて",
+        "生かして",
+        "つかんで"
+      ],
+      "answer": 0,
+      "vi": "Trong lúc còn phân vân, tôi đã để vuột mất cơ hội du học quý giá.",
+      "why": "「迷っているうちに〜てしまった」 → kết quả đáng tiếc → **逃す** (bỏ lỡ). 生かす・つかむ là kết quả tốt — không hợp với てしまった hối tiếc; 与える là trao cơ hội cho người khác."
+    },
+    {
+      "id": "g21-q4",
+      "kind": "context",
+      "ref": "g21-w14",
+      "q": "{工場|こうじょう}{見学|けんがく}を{希望|きぼう}する{場合|ばあい}は、{必|かなら}ず（　　）に{申|もう}し{込|こ}んでください。",
+      "options": [
+        "以前",
+        "以来",
+        "事前",
+        "従来"
+      ],
+      "answer": 2,
+      "vi": "Trường hợp muốn tham quan nhà máy, nhất định phải đăng ký trước.",
+      "why": "Đăng ký **trước khi** việc tham quan diễn ra → **事前に**. 以前に = trước đây (quá khứ chung), không dùng cho yêu cầu; 以来 = kể từ; 従来 = xưa nay — không đi với 申し込む theo nghĩa này."
+    },
+    {
+      "id": "g21-q5",
+      "kind": "paraphrase",
+      "ref": "g21-w12",
+      "q": "{今|いま}は{話|はな}せないが、[[u:いずれ]]{本当|ほんとう}のことを{話|はな}すつもりだ。",
+      "options": [
+        "すぐに",
+        "もう",
+        "いつか",
+        "いつでも"
+      ],
+      "answer": 2,
+      "vi": "Giờ thì chưa nói được, nhưng rồi sẽ có lúc tôi nói ra sự thật.",
+      "why": "いずれ = một lúc nào đó trong tương lai ≒ **いつか**. すぐに = ngay lập tức (mâu thuẫn với 今は話せない); もう = đã rồi; いつでも = bất cứ lúc nào (không phải tương lai không xác định)."
+    },
+    {
+      "id": "g21-q6",
+      "kind": "formation",
+      "ref": "g21-w56",
+      "q": "{台風|たいふう}の{影響|えいきょう}が{心配|しんぱい}されたが、{運動会|うんどうかい}は{予定|よてい}（　　）{行|おこな}われた。",
+      "options": [
+        "通り",
+        "過ぎ",
+        "方面",
+        "時"
+      ],
+      "answer": 0,
+      "vi": "Người ta đã lo ảnh hưởng của bão, nhưng hội thao vẫn được tổ chức đúng như dự định.",
+      "why": "N + **通り(どおり)** = đúng như N → 予定通り. 予定過ぎ không có; 予定方面 không có nghĩa; 予定時 không phải từ ghép (〜時 đi với 夕暮れ, 梅雨…)."
+    },
+    {
+      "id": "g21-q7",
+      "kind": "usage",
+      "ref": "g21-w53",
+      "q": "{沿|そ}う",
+      "options": [
+        "分からないところを先生に沿って質問した。",
+        "駅に沿って十分ほど歩くと、図書館がある。",
+        "毎晩、机に沿って三時間勉強している。",
+        "川に沿って、桜の木がずっと植えられている。"
+      ],
+      "answer": 3,
+      "vi": "(4) Dọc theo bờ sông, cây anh đào được trồng suốt một dải dài.",
+      "why": "〜に沿って = **dọc theo** một vật dài (川, 道, 線路) → (4) đúng. (1) hỏi thầy → 先生に質問した; (2) từ ga đi bộ → 駅から; (3) ngồi vào bàn → 机に向かって."
+    },
+    {
+      "id": "g21-q8",
+      "kind": "context",
+      "ref": "g21-w37",
+      "q": "この{時期|じき}は（　　）は{半袖|はんそで}でもいいくらい{暖|あたた}かいが、{朝晩|あさばん}はかなり{冷|ひ}える。",
+      "options": [
+        "深夜",
+        "日中",
+        "早朝",
+        "夜中"
+      ],
+      "answer": 1,
+      "vi": "Thời gian này ban ngày ấm đến mức mặc áo cộc tay cũng được, nhưng sáng tối khá lạnh.",
+      "why": "Đối lập với 朝晩 (sáng và tối) và \"ấm\" → **日中** (ban ngày). 深夜・夜中 là đêm, 早朝 là sáng sớm — đều thuộc phần \"朝晩\" lạnh."
+    },
+    {
+      "id": "g21-q9",
+      "kind": "paraphrase",
+      "ref": "g21-w15",
+      "q": "この{辺|あた}りには、[[u:かつて]]{大|おお}きな{製鉄所|せいてつじょ}があった。",
+      "options": [
+        "以前",
+        "今後",
+        "今でも",
+        "最近"
+      ],
+      "answer": 0,
+      "vi": "Vùng này ngày xưa từng có một nhà máy luyện thép lớn.",
+      "why": "かつて = trước đây đã từng ≒ **以前**. 今後 = từ nay về sau (tương lai); 今でも = đến giờ vẫn (mâu thuẫn với ý \"nay không còn\"); 最近 = gần đây — không có sắc thái \"ngày xưa\"."
+    },
+    {
+      "id": "g21-q10",
+      "kind": "read",
+      "ref": "g21-w49",
+      "q": "{空港|くうこう}の[[u:周辺]]には{大|おお}きなホテルがいくつもある。",
+      "options": [
+        "しゅへん",
+        "しゅうべん",
+        "しゅうへん",
+        "しゅうへい"
+      ],
+      "answer": 2,
+      "vi": "Xung quanh sân bay có nhiều khách sạn lớn.",
+      "why": "周辺 = **しゅうへん** (周 = しゅう, 辺 = へん). しゅへん thiếu trường âm; しゅうべん đục sai; しゅうへい sai âm 辺."
+    }
+  ],
+  "practice": [
+    {
+      "id": "g21-p1",
+      "kind": "read",
+      "ref": "g21-w51",
+      "q": "{今度|こんど}の{試験|しけん}は[[u:範囲]]が{広|ひろ}いので、{早|はや}めに{勉強|べんきょう}を{始|はじ}めよう。",
+      "options": [
+        "はんかい",
+        "ばんい",
+        "はんえ",
+        "はんい"
+      ],
+      "answer": 3,
+      "vi": "Kỳ thi lần này phạm vi rộng nên hãy bắt đầu học sớm.",
+      "why": "範囲 = **はんい** (範 = はん, 囲 = い như 周囲). はんかい sai âm 囲; ばんい đục sai; はんえ không tồn tại."
+    },
+    {
+      "id": "g21-p2",
+      "kind": "read",
+      "ref": "g21-w34",
+      "q": "{明日|あした}は[[u:早朝]]に{出発|しゅっぱつ}するので、{今夜|こんや}は{早|はや}く{寝|ね}ます。",
+      "options": [
+        "そうちょう",
+        "はやちょう",
+        "さっちょう",
+        "そうあさ"
+      ],
+      "answer": 0,
+      "vi": "Mai xuất phát lúc sáng sớm nên tối nay tôi đi ngủ sớm.",
+      "why": "早朝 = **そうちょう** (cả hai chữ đọc âm Hán). はやちょう trộn âm 訓 はや; そうあさ trộn âm 訓 あさ; さっちょう sai âm 早 (さっ chỉ có trong 早速)."
+    },
+    {
+      "id": "g21-p3",
+      "kind": "write",
+      "ref": "g21-w43",
+      "q": "{店|みせ}の{商品|しょうひん}の[[u:はいち]]を{変|か}えたら、{売|う}り{上|あ}げが{伸|の}びた。",
+      "options": [
+        "配値",
+        "敗置",
+        "配置",
+        "配地"
+      ],
+      "answer": 2,
+      "vi": "Thay đổi cách bố trí hàng hoá trong cửa hàng thì doanh thu tăng lên.",
+      "why": "はいち = **配置** (配 = phân phối, 置 = đặt). 値 (giá trị) giống hình 置 và cùng âm ち; 敗 (bại) cùng âm はい nhưng sai nghĩa; 地 (đất) cùng âm ち — sai."
+    },
+    {
+      "id": "g21-p4",
+      "kind": "write",
+      "ref": "g21-w28",
+      "q": "この{地域|ちいき}では、{大|おお}きな{地震|じしん}がほぼ{一定|いってい}の[[u:しゅうき]]で{起|お}きている。",
+      "options": [
+        "周記",
+        "周期",
+        "週期",
+        "集期"
+      ],
+      "answer": 1,
+      "vi": "Ở khu vực này, động đất lớn xảy ra theo một chu kỳ gần như nhất định.",
+      "why": "しゅうき (chu kỳ) = **周期** (周 = vòng, 期 = kỳ). 記 (ký) sai chữ sau; 週 (tuần) và 集 (tập) cùng âm しゅう nhưng không dùng trong từ này."
+    },
+    {
+      "id": "g21-p5",
+      "kind": "context",
+      "ref": "g21-w26",
+      "q": "{手術|しゅじゅつ}から{一|いっ}か{月|げつ}が（　　）し、{父|ちち}はやっと{歩|ある}けるようになった。",
+      "options": [
+        "過去",
+        "経過",
+        "過ごし",
+        "実施"
+      ],
+      "answer": 1,
+      "vi": "Một tháng đã trôi qua kể từ ca phẫu thuật, bố tôi cuối cùng đã đi lại được.",
+      "why": "Thời gian trôi qua (chủ ngữ 一か月が) → **経過する**. 過去 là danh từ \"quá khứ\", không có 過去する; 過ごす là tha động từ (〜を過ごす), không đi với が; 実施 là tiến hành kế hoạch."
+    },
+    {
+      "id": "g21-p6",
+      "kind": "context",
+      "ref": "g21-w8",
+      "q": "{激|はげ}しい{雨|あめ}のため、{試合|しあい}は（　　）されたが、{三十分後|さんじゅっぷんご}に{再開|さいかい}された。",
+      "options": [
+        "実施",
+        "経過",
+        "一定",
+        "一時中断"
+      ],
+      "answer": 3,
+      "vi": "Do mưa to nên trận đấu tạm dừng, nhưng 30 phút sau đã được tiếp tục.",
+      "why": "Ngừng giữa chừng **rồi tiếp tục lại** (再開) → **一時中断**. 実施される = được tiến hành — không cần 再開; 経過・一定 không dùng ở thể bị động với 試合 như vậy."
+    },
+    {
+      "id": "g21-p7",
+      "kind": "context",
+      "ref": "g21-w45",
+      "q": "{部屋|へや}が{狭|せま}くて、{新|あたら}しい{本棚|ほんだな}を{置|お}く（　　）がない。",
+      "options": [
+        "スペース",
+        "タイミング",
+        "チャンス",
+        "範囲"
+      ],
+      "answer": 0,
+      "vi": "Phòng chật, không có chỗ để đặt kệ sách mới.",
+      "why": "Chỗ trống để **đặt đồ** → **スペース**. タイミング・チャンス là thời điểm / cơ hội, không liên quan chật hẹp; 範囲 là phạm vi (試験範囲), không dùng cho chỗ đặt đồ."
+    },
+    {
+      "id": "g21-p8",
+      "kind": "context",
+      "ref": "g21-w48",
+      "q": "{大型|おおがた}の{台風|たいふう}は、{現在|げんざい}、{九州|きゅうしゅう}から{関東|かんとう}{方面|ほうめん}へ（　　）いる。",
+      "options": [
+        "渡って",
+        "沿って",
+        "向かって",
+        "並んで"
+      ],
+      "answer": 2,
+      "vi": "Cơn bão lớn hiện đang di chuyển từ Kyushu về phía Kanto.",
+      "why": "「〜方面へ」 + di chuyển hướng tới → **向かう**. 渡る = băng qua (đường, sông) hoặc 〜に渡る (trải rộng) — không đi với 方面へ; 沿う cần 「〜に沿って」; 並ぶ = xếp hàng."
+    },
+    {
+      "id": "g21-p9",
+      "kind": "paraphrase",
+      "ref": "g21-w22",
+      "q": "[[u:日ごろ]]から{非常食|ひじょうしょく}を{用意|ようい}しておくことが{大切|たいせつ}だ。",
+      "options": [
+        "たまに",
+        "ときどき",
+        "いずれ",
+        "ふだん"
+      ],
+      "answer": 3,
+      "vi": "Việc chuẩn bị sẵn đồ ăn khẩn cấp ngay từ thường ngày là rất quan trọng.",
+      "why": "日ごろ = thường ngày ≒ **ふだん**. たまに・ときどき = thỉnh thoảng (tần suất thấp, khác nghĩa); いずれ = rồi sẽ có lúc (tương lai)."
+    },
+    {
+      "id": "g21-p10",
+      "kind": "paraphrase",
+      "ref": "g21-w46",
+      "q": "{古|ふる}い{家|いえ}なので、{壁|かべ}のペンキが[[u:所々]]はがれている。",
+      "options": [
+        "あちこち",
+        "すべて",
+        "一か所だけ",
+        "ほとんど"
+      ],
+      "answer": 0,
+      "vi": "Nhà cũ nên sơn tường bong tróc chỗ này chỗ kia.",
+      "why": "所々 = rải rác vài chỗ ≒ **あちこち**. すべて／ほとんど = toàn bộ / gần hết (quá nhiều); 一か所だけ = chỉ một chỗ (quá ít)."
+    },
+    {
+      "id": "g21-p11",
+      "kind": "formation",
+      "ref": "g21-w61",
+      "q": "{夕暮|ゆうぐ}れ（　　）になると、{商店街|しょうてんがい}は{買|か}い{物|もの}{客|きゃく}でにぎわい{始|はじ}める。",
+      "options": [
+        "中",
+        "過ぎ",
+        "時",
+        "方面"
+      ],
+      "answer": 2,
+      "vi": "Đến lúc chạng vạng, khu phố mua sắm bắt đầu đông vui khách mua hàng.",
+      "why": "**夕暮れ時(どき)** = lúc chạng vạng (〜時 = thời điểm đặc trưng). 夕暮れ中・夕暮れ過ぎ・夕暮れ方面 không phải từ dùng được."
+    },
+    {
+      "id": "g21-p12",
+      "kind": "formation",
+      "ref": "g21-w64",
+      "q": "{朝|あさ}のこの{時間|じかん}は、{都心|としん}（　　）へ{行|い}く{電車|でんしゃ}がとても{混|こ}む。",
+      "options": [
+        "通り",
+        "方面",
+        "過ぎ",
+        "時"
+      ],
+      "answer": 1,
+      "vi": "Giờ này buổi sáng, tàu đi hướng trung tâm thành phố rất đông.",
+      "why": "Địa danh + **方面** = hướng đó → 都心方面へ行く. 都心通り có thể là tên một con phố nhưng không đi với 「へ行く電車」 theo nghĩa hướng; 都心過ぎ・都心時 không có nghĩa."
+    },
+    {
+      "id": "g21-p13",
+      "kind": "usage",
+      "ref": "g21-w27",
+      "q": "{一定|いってい}",
+      "options": [
+        "明日は一定に九時に駅に集まってください。",
+        "この問題は難しくて、一定にわからない。",
+        "旅行の一定は来週までに決めます。",
+        "この倉庫の中は、一年中一定の温度に保たれている。"
+      ],
+      "answer": 3,
+      "vi": "(4) Bên trong nhà kho này được giữ ở một nhiệt độ ổn định quanh năm.",
+      "why": "一定 = **không đổi, cố định** → (4) 一定の温度 đúng. (1) \"nhất định phải\" → 必ず (bẫy nghĩa tiếng Việt \"nhất định\"); (2) hoàn toàn không hiểu → 全く; (3) lịch trình → 予定."
+    },
+    {
+      "id": "g21-p14",
+      "kind": "usage",
+      "ref": "g21-w7",
+      "q": "{生|い}かす",
+      "options": [
+        "彼女は留学の経験を生かして、通訳の仕事をしている。",
+        "料理に時間を生かしすぎて、約束に遅れた。",
+        "子どもを大切に生かすのが親の役目だ。",
+        "暗かったので、電気を生かしたまま寝てしまった。"
+      ],
+      "answer": 0,
+      "vi": "(1) Cô ấy tận dụng kinh nghiệm du học để làm công việc phiên dịch.",
+      "why": "生かす = **tận dụng thứ có giá trị sẵn có** (経験, 能力) → (1) đúng. (2) tốn thời gian → かけすぎて; (3) nuôi dạy con → 育てる; (4) để đèn sáng → つけたまま."
+    }
+  ],
+  "test": [
+    {
+      "id": "g21-t1",
+      "kind": "read",
+      "ref": "g21-w65",
+      "q": "スタートの{合図|あいず}で、{選手|せんしゅ}たちは[[u:一斉に]]{走|はし}り{出|だ}した。",
+      "options": [
+        "いちせいに",
+        "いっさいに",
+        "いっせいに",
+        "ひとせいに"
+      ],
+      "answer": 2,
+      "vi": "Với hiệu lệnh xuất phát, các vận động viên đồng loạt lao đi.",
+      "why": "一斉に = **いっせいに** (一 + 斉 = いっせい, âm ngắt). いちせい không có âm ngắt; いっさい là 一切 (hoàn toàn) — từ khác; ひとせい trộn âm 訓 ひと."
+    },
+    {
+      "id": "g21-t2",
+      "kind": "read",
+      "ref": "g21-w47",
+      "q": "{名前|なまえ}は{下|した}の[[u:枠]]の{中|なか}に{書|か}いてください。",
+      "options": [
+        "わく",
+        "ふち",
+        "かこ",
+        "まど"
+      ],
+      "answer": 0,
+      "vi": "Hãy viết tên vào trong khung bên dưới.",
+      "why": "枠 = **わく** (khung). ふち là 縁 (viền, mép); かこ gợi 囲む (bao quanh); まど là 窓 (cửa sổ, cũng có 窓枠) — đều là từ khác chữ."
+    },
+    {
+      "id": "g21-t3",
+      "kind": "write",
+      "ref": "g21-w33",
+      "q": "{給料|きゅうりょう}は{毎月|まいつき}[[u:げつまつ]]に{振|ふ}り{込|こ}まれる。",
+      "options": [
+        "月未",
+        "月抹",
+        "期末",
+        "月末"
+      ],
+      "answer": 3,
+      "vi": "Lương được chuyển khoản vào cuối mỗi tháng.",
+      "why": "げつまつ = **月末** (末 = cuối). 未 (VỊ, chưa) giống hình — bẫy kinh điển; 抹 (xoá) cùng âm まつ nhưng sai; 期末 có thật nhưng đọc きまつ (cuối kỳ)."
+    },
+    {
+      "id": "g21-t4",
+      "kind": "write",
+      "ref": "g21-w20",
+      "q": "{今年|ことし}から、{全|ぜん}{社員|しゃいん}を{対象|たいしょう}に{健康|けんこう}{診断|しんだん}を[[u:じっし]]する。",
+      "options": [
+        "実旅",
+        "実施",
+        "実始",
+        "日施"
+      ],
+      "answer": 1,
+      "vi": "Từ năm nay sẽ tiến hành khám sức khoẻ cho toàn bộ nhân viên.",
+      "why": "じっし = **実施** (施 = thi hành). 旅 (lữ) giống hình 施 — bẫy; 始 (bắt đầu) đọc し nhưng sai từ; 日 cùng âm じつ nhưng sai."
+    },
+    {
+      "id": "g21-t5",
+      "kind": "context",
+      "ref": "g21-w17",
+      "q": "{日本|にほん}に{来|き}て（　　）、{毎年|まいとし}{富士山|ふじさん}に{登|のぼ}っている。",
+      "options": [
+        "以前",
+        "前後",
+        "事前",
+        "以来"
+      ],
+      "answer": 3,
+      "vi": "Kể từ khi đến Nhật, năm nào tôi cũng leo núi Phú Sĩ.",
+      "why": "Vて + **以来** + việc lặp lại kéo dài đến nay (毎年〜ている). Vて以前・Vて前後・Vて事前 đều không phải cấu trúc đúng (以前 đi sau N hoặc Vる: 来る以前)."
+    },
+    {
+      "id": "g21-t6",
+      "kind": "context",
+      "ref": "g21-w13",
+      "q": "{検査|けんさ}の{結果|けっか}は、だいたい{一週間|いっしゅうかん}（　　）で{出|で}るそうだ。",
+      "options": [
+        "前後",
+        "以来",
+        "以前",
+        "事前"
+      ],
+      "answer": 0,
+      "vi": "Nghe nói kết quả xét nghiệm sẽ có trong khoảng một tuần.",
+      "why": "Con số + **前後** = khoảng (hợp với だいたい). 一週間以来 = kể từ một tuần (không hợp với tương lai 出る); 一週間以前 = trước một tuần; 事前 không đi sau con số."
+    },
+    {
+      "id": "g21-t7",
+      "kind": "paraphrase",
+      "ref": "g21-w66",
+      "q": "この{仕事|しごと}を{一人|ひとり}で{一日|いちにち}で{終|お}わらせるのは[[u:極めて]]{難|むずか}しい。",
+      "options": [
+        "わりと",
+        "非常に",
+        "少し",
+        "意外に"
+      ],
+      "answer": 1,
+      "vi": "Hoàn thành công việc này một mình trong một ngày là cực kỳ khó.",
+      "why": "極めて = cực kỳ ≒ **非常に**. わりと = tương đối; 少し = hơi — đều yếu hơn nhiều; 意外に = không ngờ là (thêm ý ngạc nhiên)."
+    },
+    {
+      "id": "g21-t8",
+      "kind": "paraphrase",
+      "ref": "g21-w68",
+      "q": "{彼|かれ}は[[u:常に]]{手帳|てちょう}を{持|も}ち{歩|ある}いている。",
+      "options": [
+        "ときどき",
+        "たまに",
+        "いつも",
+        "そのうち"
+      ],
+      "answer": 2,
+      "vi": "Anh ấy luôn mang theo sổ tay bên mình.",
+      "why": "常に = **いつも** (luôn luôn). ときどき・たまに = thỉnh thoảng (tần suất thấp hơn hẳn); そのうち = ít lâu nữa (tương lai)."
+    },
+    {
+      "id": "g21-t9",
+      "kind": "formation",
+      "ref": "g21-w60",
+      "q": "{昨日|きのう}は{寝坊|ねぼう}して、{八時|はちじ}（　　）にやっと{家|いえ}を{出|で}た。",
+      "options": [
+        "過ぎ",
+        "通り",
+        "中",
+        "方面"
+      ],
+      "answer": 0,
+      "vi": "Hôm qua tôi ngủ quên, hơn tám giờ mới ra khỏi nhà được.",
+      "why": "Giờ + **過ぎ** = vừa quá mốc giờ đó → 八時過ぎ (hợp với 寝坊して, やっと). 八時通り = đúng tám giờ như hẹn (hiếm, và mâu thuẫn với ngủ quên); 八時中・八時方面 không có nghĩa."
+    },
+    {
+      "id": "g21-t10",
+      "kind": "usage",
+      "ref": "g21-w10",
+      "q": "いつまでも",
+      "options": [
+        "何か困ったことがあれば、いつまでも電話してください。",
+        "今は分からなくても、いつまでも分かるようになるでしょう。",
+        "この公園は、いつまでも小さな池だったそうだ。",
+        "結婚しても、いつまでも仲のいい夫婦でいたい。"
+      ],
+      "answer": 3,
+      "vi": "(4) Dù đã kết hôn, tôi vẫn muốn mãi là một cặp vợ chồng hoà thuận.",
+      "why": "いつまでも = **mãi mãi** (trạng thái kéo dài không đổi) → (4) đúng. (1) bất cứ lúc nào → いつでも; (2) rồi sẽ hiểu → いずれ／そのうち; (3) ngày xưa từng là → かつて."
+    },
+    {
+      "id": "g21-t11",
+      "kind": "usage",
+      "ref": "g21-w26",
+      "q": "{経過|けいか}",
+      "options": [
+        "この電車は次の駅を経過して、終点に向かいます。",
+        "事故が起きてから、もう十年が経過した。",
+        "家族と一緒に楽しい休日を経過した。",
+        "一生懸命勉強して、入学試験に経過した。"
+      ],
+      "answer": 1,
+      "vi": "(2) Từ khi tai nạn xảy ra đã mười năm trôi qua.",
+      "why": "経過 = **thời gian trôi qua** (chủ ngữ là thời gian) → (2) đúng. (1) chạy qua ga không dừng → 通過して; (3) trải qua ngày nghỉ → 過ごした; (4) thi đỗ → 合格した."
+    }
+  ]
+}

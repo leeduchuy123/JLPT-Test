@@ -2,6 +2,7 @@
 import { esc, pct, daysBetween, fmtDate, fmtDuration } from '../util.js';
 import * as store from '../store.js';
 import { SECTIONS, TYPES, PAPERS, bankStats, typeLabel, getQ } from '../data.js';
+import { loadIndex, trackStatus, TRACK_SHORT } from '../study.js';
 
 export async function render(app) {
   const s = store.get();
@@ -29,6 +30,9 @@ export async function render(app) {
   const goal = set.dailyGoal || 20;
   const goalPct = Math.min(100, pct(today.answered, goal));
 
+  let studyCard = '';
+  try { studyCard = studyTodayHTML(await loadIndex()); } catch { /* khoá N2 chưa có dữ liệu */ }
+
   app.innerHTML = `
     <div class="row between mb">
       <div>
@@ -53,6 +57,8 @@ export async function render(app) {
           <a class="btn btn-primary btn-sm" href="#/test/run/${esc(ss.id)}">Tiếp tục</a>
         </div>`).join('')}
     </div>` : ''}
+
+    ${studyCard}
 
     <div class="grid mt">
       <a class="card" href="#/review">
@@ -103,4 +109,24 @@ function sessionProgress(ss) {
   for (const p of ss.papers) { total += p.qids.length; done += Object.keys(p.answers).length; }
   const paper = PAPERS.find(p => p.id === ss.papers[ss.paperIdx]?.id);
   return `${done}/${total} câu · đang ở phần ${esc(paper?.jp || '')}`;
+}
+
+/** Thẻ "Học N2 hôm nay": buổi tiếp theo của từng track đã đặt lịch (hoặc đã bắt đầu học). */
+function studyTodayHTML(idx) {
+  const rows = [];
+  for (const t of idx.tracks) {
+    const st = trackStatus(t);
+    if (!st.start && !st.done) continue;
+    const n = st.next;
+    const href = n ? (n.type === 'L' ? `#/study/lesson/${t.id}/${n.units[0].id}` : `#/study/do/${encodeURIComponent(n.id)}`) : `#/study?t=${t.id}`;
+    rows.push(`<div class="row between">
+      <div><b>${esc(TRACK_SHORT[t.id])}</b> · ${n ? `${esc(n.label)} <span class="muted jp">${esc(n.type === 'L' ? n.units[0].title : n.title)}</span>` : 'đã xong toàn bộ 🎉'}
+        <div class="small muted">${st.done}/${st.total} buổi${st.behind ? ` · <span class="pill warn">chậm ${st.behind} buổi</span>` : ''}${st.today && st.today !== n ? ` · lịch hôm nay: ${esc(st.today.label)}` : ''}</div></div>
+      ${n && n.ready ? `<a class="btn btn-primary btn-sm" href="${href}">${n.type === 'L' ? 'Học' : 'Làm bài'}</a>` : ''}
+    </div>`);
+  }
+  return `<div class="card study-today mt" style="border-color:var(--accent)">
+    <div class="card-title"><h2>📚 Học N2 hôm nay</h2><a class="small" href="#/study">Lộ trình →</a></div>
+    ${rows.length ? rows.join('') : '<p class="muted" style="margin:0">Lộ trình N2 theo bộ 新完全マスター (ngữ pháp · từ vựng · đọc hiểu): mỗi tuần 4 bài + 2 buổi 練習 + 1 まとめ問題. <a href="#/study">Đặt lịch học →</a></p>'}
+  </div>`;
 }

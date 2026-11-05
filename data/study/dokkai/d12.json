@@ -1,0 +1,240 @@
+{
+  "id": "d12",
+  "track": "dokkai",
+  "intro": "Bài này mở đầu dạng **情報を探し出す (tìm thông tin)** — trong đề N2 chính là 問題14 情報検索. Văn bản là **quảng cáo (広告)**: phiếu giảm giá (クーポン), tờ rơi siêu thị (チラシ), quảng cáo tuyển người / tuyển học viên (募集), chiến dịch khuyến mãi (キャンペーン), bảng giá vé…\n\nĐiểm khác hẳn với 評論: bạn **không đọc từ đầu đến cuối**. Câu hỏi luôn là một tình huống cụ thể — 「〜したい。どうすればよいか」「〜できるのはどれか」「全部でいくらか」 — và bạn chỉ cần **tìm đúng vài dòng** chứa câu trả lời, rồi đối chiếu thật kỹ.\n\nHai điều quan trọng nhất:\n- **Chữ to là để thu hút, chữ nhỏ mới là luật chơi.** Giá rẻ, “miễn phí”, “50%” được in to; còn điều kiện — 「〜に限ります」「〜のみ」「お一人様1回限り」「※〜は対象外」「ただし〜」 — được in nhỏ ở dưới. Đáp án và phương án nhiễu gần như luôn xoay quanh những dòng chữ nhỏ này.\n- **Mỗi phương án là một “người thử”**: một ngày, một giờ, một món, một cách đăng ký. Bạn phải kiểm tra phương án đó qua **tất cả** điều kiện; chỉ cần vướng một điều kiện là loại. Đáp án đúng là phương án duy nhất “qua được hết”.",
+  "strategy": [
+    {"title": "Bước 1 · Đọc câu hỏi và cả 4 phương án trước", "body": "Trước khi nhìn quảng cáo, hãy xác định:\n- **Tình huống của mình là gì?** (vd: “học sinh lớp 11, 17 tuổi”, “đi vào thứ Bảy lúc 18 giờ”, “lần đầu đến”) → gạch chân những dữ kiện này, chúng chính là thứ sẽ va vào điều kiện.\n- **Cần tìm loại thông tin nào?** いつ (ngày / giờ / hạn chót), いくら (giá), どうやって (đăng ký bằng gì, ở đâu), 誰が (ai đủ điều kiện), 何を (món nào, gói nào).\n- **4 phương án khác nhau ở điểm nào?** Nếu chúng chỉ khác nhau ở ngày và cách đăng ký, thì bạn chỉ cần tìm trong bài hai thứ đó. Đây là cách tiết kiệm thời gian nhất.\n\nRồi biến câu hỏi thành **từ khoá để dò** trong bài:\n- hỏi いくら → dò con số, 「円」「¥」「料金」「〜引き」;\n- hỏi 申し込む・連絡する → dò 「申し込み」「お電話」「ご連絡ください」「申込フォーム」;\n- hỏi いつまで → dò 「締め切り」「期限」「〜まで」「前日」.\nĐáp án thường diễn đạt lại, nên dò theo **ý** của từ khoá chứ không chỉ dò đúng mặt chữ."},
+    {"title": "Bước 2 · Dùng hiểu biết về loại quảng cáo để biết thông tin nằm đâu", "body": "Mỗi loại quảng cáo có bộ mục gần như cố định:\n- **クーポン**: 有効期限 (hạn dùng), 通常価格 → クーポン価格 / 割引価格, 対象商品・メニュー, ご利用条件 (lần đầu? mấy lần? ngày nào?), cách dùng (提示・予約時に伝える).\n- **セールのチラシ**: 期間 (mấy ngày), 時間限定 (khung giờ), 数量限定 / お一人様〇点限り, 会員限定 (ポイント〇倍), 税込・税抜.\n- **募集広告** (tuyển học viên, tình nguyện viên, nhân viên): タイトル (〇〇募集), 対象・応募資格, 日時, 場所, 定員, 費用 (参加費・月謝・時給), 申し込み締め切り, 申し込み方法, 持ち物, 連絡先.\n- **キャンペーン**: 期間, 特典 (無料・半額・〜円引き), 条件, 対象外.\n\nThứ tự các mục có thể thay đổi, nhưng **tên mục (【 】, ・, ＜ ＞)** thì luôn có. Hãy nhảy thẳng tới mục cần."},
+    {"title": "Bước 3 · Chữ to thu hút — chữ nhỏ quyết định", "body": "Phần chữ to (tiêu đề, giá, “0円！”, “半額！”) cho biết **lợi ích**. Nhưng lợi ích đó chỉ áp dụng khi thoả **điều kiện**, và điều kiện nằm ở:\n- dòng bắt đầu bằng **※・＊**, phần **（ ）** trong ngoặc;\n- các cụm **〜に限ります／〜限定／〜のみ** (chỉ…), **〜は対象外／〜を除く** (không áp dụng cho…), **ただし〜** (tuy nhiên…), **〜との併用はできません** (không dùng chung), **お一人様〜限り** (mỗi người chỉ…), **別途〜** (tính thêm).\n\nKhi đọc mỗi dòng chữ nhỏ, hãy tự hỏi: **nó loại ai ra?** Ví dụ 「土日祝はBメニューのみ」 loại người đi cuối tuần mà chọn menu A; 「ご来店後のお申し出では適用できません」 loại người đến rồi mới nói.\n\nNgoài cỡ chữ, mắt nên dừng ở mọi chỗ được **làm nổi**: tiêu đề, tên mục / 見出し, chữ đậm, chữ gạch chân, mũi tên và số thứ tự (ステップ1 → 2 → 3), khung viền (枠・囲み). Người làm quảng cáo đặt ở đó những thứ muốn mọi người thấy — kể cả những lưu ý quan trọng."},
+    {"title": "Bước 4 · Kiểm tra từng phương án qua danh sách điều kiện", "body": "Lập nhanh một danh sách điều kiện, rồi cho từng phương án “đi qua”:\n- **Thời gian**: ngày có nằm trong 期間 không? Thứ mấy — có trùng **定休日 / 休館日** không (kể cả ngày lễ)? Giờ có nằm trong khung 「〜時まで」「〜時以降」 không?\n- **Đối tượng**: tuổi, lần đầu hay không, hội viên hay không, đã từng là học viên chưa.\n- **Số lượng**: 「1回限り」「1枚で2セットまで」「お一人様1パック限り」「1台につき1台まで」.\n- **Cách thức**: điện thoại / web / đến tận nơi; **trước** (事前・前日まで・予約の際に) hay **tại chỗ**.\n- **Phạm vi**: ưu đãi áp dụng cho món nào, gói nào, khoản tiền nào.\n\nMẹo về mốc thời gian: 「〜まで」 và 「〜以降」 **bao gồm** ngày đó; 「〜以内」 tính từ ngày mốc; 「前日まで」 = trễ nhất là hôm trước; 「〜時まで（入館は〜時まで）」 có hai mốc khác nhau."},
+    {"title": "Bước 5 · Câu hỏi tính tiền: viết ra từng khoản", "body": "Câu 「全部でいくらか」 rất hay gặp. Đừng tính nhẩm — ghi ra:\n- Mỗi người / mỗi món thuộc **loại giá** nào (一般・学生・シニア, 当日・前売り, 通常・セール)?\n- Giảm giá là **〜円引き** (trừ một số tiền), **〜％引き** (trừ phần trăm), **半額** (một nửa) hay **よりどり〇点で〇円** (đồng giá theo nhóm — phần lẻ tính giá thường)?\n- Ưu đãi áp dụng cho khoản nào và **không** áp dụng cho khoản nào (vd 授業料 được giảm nhưng 教材費 thì 「キャンペーン対象外」)?\n- Có khoản **別途** (tính thêm) không? Giá là **税込** hay **税抜**?\n\nCác phương án sai thường chính là kết quả của việc **quên một điều kiện** (quên giảm giờ tối, quên phần lẻ, tính nhầm em nhỏ phải trả tiền…). Vì vậy nếu kết quả của bạn không có trong phương án, hãy kiểm tra lại điều kiện chứ đừng chọn số gần nhất."},
+    {"title": "Bước 6 · Năm kiểu bẫy của quảng cáo", "body": "- **Lẫn mục**: quảng cáo có hai phần (vd 朝市 sáng sớm ↔ セール cả ngày; 体験レッスン ↔ 入会; 説明会 ↔ 本番), phương án lấy điều kiện của phần này gán cho phần kia.\n- **Lệch một ngày / một giờ**: hạn 7 ngày tính sai, 「前日18時まで」 bị đổi thành giờ mở cửa 21 giờ, ngày cuối của 期間 bị vượt qua một ngày.\n- **Quên ngoại lệ**: 定休日 rơi vào ngày lễ, 「※〜は対象外」, 「〜のみ」.\n- **Sai cách thức**: đăng ký bằng điện thoại trong khi bài chỉ cho web; nói tại chỗ trong khi phải nói khi đặt chỗ; đến thẳng trong khi phải gọi trước.\n- **Đảo bên / đảo đối tượng**: điều kiện dành cho học sinh cấp 2 bị gán cho học sinh cấp 3; việc của cửa hàng bị gán cho khách.\n\nĐáp án đúng thường **diễn đạt lại** bằng từ khác (提示する → 見せる, 支給 → 出る, 〜に限る → 〜だけ) — đừng chỉ dò chữ giống nhau."}
+  ],
+  "signals": [
+    {"ja": "{有効|ゆうこう}{期限|きげん}／{期間|きかん}／{会期|かいき}", "vi": "hạn sử dụng / thời gian (khuyến mãi) / thời gian triển lãm", "note": "Luôn kiểm tra cả ngày bắt đầu lẫn ngày kết thúc, và thứ trong tuần."},
+    {"ja": "〜{限定|げんてい}／〜に{限|かぎ}ります", "vi": "chỉ dành cho…", "note": "「初めてのお客様限定」「体験レッスンを受けた方に限ります」 → ai không thuộc nhóm này bị loại."},
+    {"ja": "〜のみ", "vi": "chỉ…", "note": "「土日祝はBメニューのみ」: vào ngày đó các lựa chọn khác **không** dùng được."},
+    {"ja": "お{一人様|ひとりさま}〇{点|てん}{限|かぎ}り／1{回|かい}{限|かぎ}り", "vi": "mỗi người chỉ… / chỉ một lần", "note": "Giới hạn số lượng — bẫy hay gặp ở câu tính tiền."},
+    {"ja": "〜は{対象外|たいしょうがい}です／〜を{除|のぞ}く", "vi": "… không thuộc đối tượng áp dụng / trừ…", "note": "「教材費はキャンペーンの対象外」 → khoản đó vẫn trả đủ."},
+    {"ja": "〜との{併用|へいよう}はできません", "vi": "không được dùng chung với…", "note": "Không cộng dồn hai ưu đãi."},
+    {"ja": "{別途|べっと}〜（{円|えん}）", "vi": "tính riêng thêm…", "note": "「リサイクル料金が別途かかります」 → khoản này nằm ngoài giá đã ghi."},
+    {"ja": "{税込|ぜいこみ}／{税抜|ぜいぬき}", "vi": "đã gồm thuế / chưa gồm thuế", "note": "Câu hỏi tính tiền có thể hỏi số tiền thực trả."},
+    {"ja": "〜{円|えん}{引|び}き／〜％{引|び}き／{半額|はんがく}", "vi": "giảm … yên / giảm …% / nửa giá", "note": "Xem giảm giá áp dụng cho khoản nào, có áp dụng cho mọi đối tượng không."},
+    {"ja": "よりどり〇{点|てん}で〇{円|えん}", "vi": "chọn tuỳ ý … món đồng giá … yên", "note": "Phần lẻ ngoài nhóm thường tính theo giá thường — ghi rõ trong ngoặc."},
+    {"ja": "〜まで／〜{以降|いこう}／〜{以内|いない}", "vi": "đến hết… / từ… trở đi / trong vòng…", "note": "まで và 以降 **bao gồm** mốc. 「7日以内」 tính từ ngày mốc."},
+    {"ja": "{前日|ぜんじつ}までに／{事前|じぜん}{予約|よやく}が{必要|ひつよう}", "vi": "trước ngày hôm trước / cần đặt trước", "note": "Loại các phương án “đến thẳng”, “đăng ký tại chỗ”."},
+    {"ja": "{先着|せんちゃく}〇{名|めい}／{定員|ていいん}", "vi": "… người đến trước / số lượng tối đa", "note": "Hết chỗ là đóng, kể cả khi chưa tới hạn chót."},
+    {"ja": "{必須|ひっす}／〜{可|か}／〜{不可|ふか}", "vi": "bắt buộc / được phép / không được", "note": "「説明会への参加は必須」「高校生不可」 — điều kiện cứng."},
+    {"ja": "{歓迎|かんげい}／{優遇|ゆうぐう}", "vi": "hoan nghênh / ưu tiên", "note": "Trong tin tuyển dụng: **không phải** điều kiện bắt buộc. Người không có vẫn ứng tuyển được."},
+    {"ja": "{支給|しきゅう}／{貸与|たいよ}", "vi": "chi trả, cấp / cho mượn", "note": "「交通費支給（1日800円まで）」「制服貸与」 — xem kèm giới hạn trong ngoặc."},
+    {"ja": "{定休日|ていきゅうび}／{休館日|きゅうかんび}", "vi": "ngày nghỉ cố định / ngày bảo tàng đóng cửa", "note": "Chú ý ngoại lệ: 「祝日の場合も休業」「祝日は開館し、翌日休館」."}
+  ],
+  "passages": {
+    "p1": {
+      "title": "ヘアサロンのクーポン",
+      "kind": "情報検索（クーポン）",
+      "ja": "ヘアサロン　ルミエール\n【{初|はじ}めてのお{客様|きゃくさま}{限定|げんてい}】{秋|あき}のご{来店|らいてん}{応援|おうえん}クーポン\n\n{有効|ゆうこう}{期限|きげん}：2026{年|ねん}10{月|がつ}1{日|ついたち}（{木|もく}）～11{月|がつ}15{日|にち}（{日|にち}）\n\nAメニュー　カット\n　{通常|つうじょう}4,400{円|えん}　→　クーポン{価格|かかく}3,300{円|えん}\nBメニュー　カット＋カラー\n　{通常|つうじょう}9,800{円|えん}　→　クーポン{価格|かかく}6,800{円|えん}\n（{価格|かかく}はすべて{税込|ぜいこみ}）\n\n＜ご{利用|りよう}{条件|じょうけん}＞\n・{当店|とうてん}のご{利用|りよう}が{初|はじ}めての{方|かた}に{限|かぎ}ります。\n・ご{予約|よやく}の{際|さい}に「{秋|あき}のクーポン{利用|りよう}」とお{伝|つた}えください（WEB{予約|よやく}の{場合|ばあい}は、クーポン{欄|らん}にチェックを{入|い}れてください）。ご{来店|らいてん}{後|ご}のお{申|もう}し{出|で}では{適用|てきよう}できません。\n・{土曜|どよう}・{日曜|にちよう}・{祝日|しゅくじつ}は、Bメニューのみご{利用|りよう}いただけます。\n・{肩|かた}より{長|なが}い{髪|かみ}の{方|かた}は、Bメニューのみ{別途|べっと}1,100{円|えん}いただきます。\n・{他|ほか}の{割引|わりびき}サービスとの{併用|へいよう}はできません。お{一人様|ひとりさま}1{回|かい}{限|かぎ}り{有効|ゆうこう}です。\n※{毎週|まいしゅう}{火曜日|かようび}は{定休日|ていきゅうび}です（{祝日|しゅくじつ}の{場合|ばあい}も{休業|きゅうぎょう}いたします）。\n\nご{予約|よやく}：{電話|でんわ}0120-000-123（10:00～19:00）／WEB{予約|よやく}（24{時間|じかん}{受付|うけつけ}）",
+      "vi": "Salon tóc Lumière\n【Chỉ dành cho khách lần đầu】Phiếu ưu đãi mùa thu chào đón quý khách\n\nHạn sử dụng: thứ Năm 1/10/2026 – Chủ nhật 15/11\n\nMenu A: Cắt tóc\n  Giá thường 4.400 yên → giá phiếu 3.300 yên\nMenu B: Cắt + nhuộm\n  Giá thường 9.800 yên → giá phiếu 6.800 yên\n(Tất cả giá đã gồm thuế)\n\n<Điều kiện sử dụng>\n・Chỉ dành cho khách sử dụng dịch vụ của tiệm lần đầu.\n・Khi đặt chỗ, xin nói “dùng phiếu mùa thu” (nếu đặt qua web, xin đánh dấu vào ô phiếu ưu đãi). Nếu đến tiệm rồi mới đề nghị thì không áp dụng được.\n・Thứ Bảy, Chủ nhật và ngày lễ chỉ dùng được cho menu B.\n・Khách có tóc dài quá vai: riêng menu B tính thêm 1.100 yên.\n・Không dùng chung với các dịch vụ giảm giá khác. Mỗi khách chỉ dùng được một lần.\n※ Thứ Ba hằng tuần là ngày nghỉ cố định (kể cả khi trùng ngày lễ cũng nghỉ).\n\nĐặt chỗ: điện thoại 0120-000-123 (10:00–19:00) / đặt qua web (nhận 24 giờ)"
+    },
+    "p2": {
+      "title": "市民マラソンのボランティア募集",
+      "kind": "情報検索（募集広告）",
+      "ja": "{第|だい}15{回|かい}　みなと{市民|しみん}マラソン\n{大会|たいかい}ボランティア{大|だい}{募集|ぼしゅう}！\nランナーの{皆|みな}さんを、{一緒|いっしょ}に{支|ささ}えてみませんか。\n\n【{活動日|かつどうび}】2027{年|ねん}2{月|がつ}21{日|にち}（{日|にち}）7:00～14:00（{担当|たんとう}により{異|こと}なります）\n【{活動|かつどう}{内容|ないよう}】{給水所|きゅうすいじょ}での{水|みず}の{手渡|てわた}し、コース{沿道|えんどう}での{誘導|ゆうどう}、ゴール{付近|ふきん}での{記録証|きろくしょう}の{配布|はいふ}など\n【{募集|ぼしゅう}{人数|にんずう}】300{名|めい}（{先着|せんちゃく}{順|じゅん}）\n【{対象|たいしょう}】{高校生|こうこうせい}{以上|いじょう}の{方|かた}（{中学生|ちゅうがくせい}は、{保護者|ほごしゃ}と{一緒|いっしょ}に{参加|さんか}する{場合|ばあい}のみ{可|か}）\n　※18{歳|さい}{未満|みまん}の{方|かた}は、{保護者|ほごしゃ}の{同意書|どういしょ}が{必要|ひつよう}です。\n【{事前|じぜん}{説明会|せつめいかい}】2027{年|ねん}2{月|がつ}7{日|か}（{日|にち}）10:00～11:30　みなと{市民|しみん}{会館|かいかん}\n　※{活動|かつどう}には、{説明会|せつめいかい}への{参加|さんか}が{必須|ひっす}です。7{日|か}のご{都合|つごう}が{悪|わる}い{方|かた}は、2{月|がつ}14{日|か}（{日|にち}）に{同|おな}じ{内容|ないよう}の{説明会|せつめいかい}をオンラインで{行|おこな}いますので、そちらにご{参加|さんか}ください。\n【{特典|とくてん}】{大会|たいかい}オリジナルTシャツ、{昼食|ちゅうしょく}（お{弁当|べんとう}）\n　※{交通費|こうつうひ}は{支給|しきゅう}されません。\n【{申|もう}し{込|こ}み{方法|ほうほう}】{大会|たいかい}ウェブサイトの{申込|もうしこみ}フォームから、2027{年|ねん}1{月|がつ}15{日|にち}（{金|きん}）までにお{申|もう}し{込|こ}みください。グループ（5{名|めい}まで）でのお{申|もう}し{込|こ}みもできます。\n【お{問|と}い{合|あ}わせ】みなと{市民|しみん}マラソン{実行|じっこう}{委員会|いいんかい}　ボランティア{係|がかり}\n　{電話|でんわ}045-000-7788（{平日|へいじつ}9:00～17:00）",
+      "vi": "Giải Minato Shimin Marathon lần thứ 15\nĐại tuyển tình nguyện viên cho giải chạy!\nBạn có muốn cùng chúng tôi hỗ trợ các vận động viên không?\n\n【Ngày hoạt động】Chủ nhật 21/2/2027, 7:00–14:00 (khác nhau tuỳ nhiệm vụ)\n【Nội dung】Đưa nước ở trạm tiếp nước, hướng dẫn dọc đường chạy, phát giấy chứng nhận thành tích gần đích…\n【Số lượng】300 người (theo thứ tự đăng ký trước)\n【Đối tượng】Từ học sinh cấp 3 trở lên (học sinh cấp 2 chỉ được tham gia khi đi cùng phụ huynh)\n  ※ Người dưới 18 tuổi cần giấy đồng ý của phụ huynh.\n【Buổi hướng dẫn trước】Chủ nhật 7/2/2027, 10:00–11:30, Hội quán thị dân Minato\n  ※ Bắt buộc phải tham gia buổi hướng dẫn mới được hoạt động. Ai bận ngày 7 thì vào Chủ nhật 14/2 sẽ có buổi hướng dẫn cùng nội dung tổ chức trực tuyến, xin hãy tham gia buổi đó.\n【Quà】Áo T-shirt riêng của giải, bữa trưa (cơm hộp)\n  ※ Không chi trả tiền đi lại.\n【Cách đăng ký】Đăng ký qua mẫu đơn trên website của giải, trước thứ Sáu 15/1/2027. Có thể đăng ký theo nhóm (tối đa 5 người).\n【Liên hệ】Ban tổ chức Minato Shimin Marathon, bộ phận tình nguyện viên\n  Điện thoại 045-000-7788 (ngày thường 9:00–17:00)"
+    },
+    "p3": {
+      "title": "スーパーのチラシ",
+      "kind": "情報検索（チラシ）",
+      "ja": "フレッシュマート{青葉|あおば}{店|てん}\n★{週末|しゅうまつ}{限定|げんてい}　{大|だい}{感謝|かんしゃ}セール★\n11{月|がつ}14{日|か}（{土|ど}）・15{日|にち}（{日|にち}）の2{日間|かかん}\n\n【{朝市|あさいち}】{各日|かくじつ}9:00～11:00{限定|げんてい}\n・たまご（10{個|こ}{入|い}り）　{通常|つうじょう}248{円|えん}　→　98{円|えん}（お{一人様|ひとりさま}1パック{限|かぎ}り）\n・{国産|こくさん}キャベツ（1{玉|たま}）　{通常|つうじょう}198{円|えん}　→　100{円|えん}\n\n【2{日間|かかん}{通|とお}して】\n・お{肉|にく}{全品|ぜんぴん}　{表示|ひょうじ}{価格|かかく}より20％{引|び}き\n・お{米|こめ}（5kg）　{通常|つうじょう}2,380{円|えん}　→　1,980{円|えん}\n・ペットボトル{飲料|いんりょう}（2L）　よりどり3{本|ぼん}で300{円|えん}\n　（3{本|ぼん}に{満|み}たない{分|ぶん}は、1{本|ぽん}128{円|えん}）\n\n【ポイント】\n・{期間|きかん}{中|ちゅう}、アオバカード{会員|かいいん}{様|さま}はポイント5{倍|ばい}！\n　※たばこ・お{酒|さけ}・セール{品|ひん}は、ポイント5{倍|ばい}の{対象外|たいしょうがい}です（{通常|つうじょう}のポイントは{付|つ}きます）。\n\n※{価格|かかく}はすべて{税込|ぜいこみ}です。\n※チラシの{商品|しょうひん}は{数|かず}に{限|かぎ}りがございます。{売|う}り{切|き}れの{際|さい}はご{容赦|ようしゃ}ください。",
+      "vi": "Fresh Mart chi nhánh Aoba\n★ Chỉ cuối tuần: Đại hạ giá tri ân ★\nHai ngày thứ Bảy 14/11 và Chủ nhật 15/11\n\n【Chợ sáng】Chỉ từ 9:00 đến 11:00 mỗi ngày\n・Trứng (hộp 10 quả): giá thường 248 yên → 98 yên (mỗi khách chỉ 1 hộp)\n・Bắp cải trong nước (1 cây): giá thường 198 yên → 100 yên\n\n【Suốt cả hai ngày】\n・Tất cả các loại thịt: giảm 20% so với giá niêm yết\n・Gạo (5 kg): giá thường 2.380 yên → 1.980 yên\n・Nước đóng chai (2L): chọn tuỳ ý 3 chai giá 300 yên\n  (Phần không đủ 3 chai: 128 yên/chai)\n\n【Điểm thưởng】\n・Trong thời gian khuyến mãi, hội viên thẻ Aoba được nhân 5 điểm!\n  ※ Thuốc lá, rượu bia và hàng giảm giá không được nhân 5 điểm (vẫn được tích điểm thường).\n\n※ Tất cả giá đã gồm thuế.\n※ Hàng trong tờ rơi có số lượng hạn chế. Mong quý khách thông cảm nếu hết hàng."
+    },
+    "p4": {
+      "title": "英会話スクールの入会キャンペーン",
+      "kind": "情報検索（キャンペーン）",
+      "ja": "{駅前|えきまえ}{英会話|えいかいわ}スクール「ワールドトーク」\n{春|はる}の{入会|にゅうかい}キャンペーン　{入会金|にゅうかいきん}0{円|えん}！\n\nキャンペーン{期間|きかん}{中|ちゅう}にお{申|もう}し{込|こ}みの{方|かた}は、{入会金|にゅうかいきん}11,000{円|えん}が{無料|むりょう}になります。\nさらに、6か{月|げつ}コースをお{選|えら}びの{方|かた}は、{最初|さいしょ}の{月|つき}の{授業料|じゅぎょうりょう}が{半額|はんがく}に！\n\n【キャンペーン{期間|きかん}】2027{年|ねん}3{月|がつ}1{日|ついたち}（{月|げつ}）～4{月|がつ}10{日|か}（{土|ど}）\n　※お{申|もう}し{込|こ}み{日|び}で{判断|はんだん}します。\n\n【コースと{授業料|じゅぎょうりょう}（{月額|げつがく}・{税込|ぜいこみ}）】\n・グループレッスン（{週|しゅう}1{回|かい}・50{分|ぷん}）……… 8,800{円|えん}\n・グループレッスン（{週|しゅう}2{回|かい}・50{分|ぷん}）……… 15,400{円|えん}\n・マンツーマンレッスン（{週|しゅう}1{回|かい}・40{分|ぷん}）… 16,500{円|えん}\n※{授業料|じゅぎょうりょう}は{毎月|まいつき}のお{支払|しはら}いです。\n※{教材費|きょうざいひ}4,400{円|えん}（{入会|にゅうかい}{時|じ}のみ）は、キャンペーンの{対象外|たいしょうがい}です。\n\n【{入会金|にゅうかいきん}{無料|むりょう}の{条件|じょうけん}】\n・{無料|むりょう}{体験|たいけん}レッスンを{受|う}けた{方|かた}に{限|かぎ}ります。\n・{体験|たいけん}レッスンを{受|う}けた{日|ひ}から7{日|か}{以内|いない}にお{申|もう}し{込|こ}みください。\n・{以前|いぜん}、{当|とう}スクールに{在籍|ざいせき}していた{方|かた}は{対象外|たいしょうがい}となります。\n\n【{無料|むりょう}{体験|たいけん}レッスン】（30{分|ぷん}・お{一人様|ひとりさま}1{回|かい}{限|かぎ}り）\nお{電話|でんわ}またはウェブサイトからご{予約|よやく}ください。\nご{予約|よやく}は、ご{希望|きぼう}{日|び}の{前日|ぜんじつ}18{時|じ}までにお{願|ねが}いいたします。\n\nワールドトーク{駅前|えきまえ}{校|こう}　{電話|でんわ}03-0000-6655\n{受付|うけつけ}{時間|じかん}：11:00～21:00（{日曜|にちよう}{定休|ていきゅう}）",
+      "vi": "Trường Anh ngữ giao tiếp trước ga “World Talk”\nChiến dịch nhập học mùa xuân — Phí nhập học 0 yên!\n\nNgười đăng ký trong thời gian khuyến mãi sẽ được miễn phí nhập học 11.000 yên.\nHơn nữa, người chọn khoá 6 tháng sẽ được giảm nửa học phí tháng đầu tiên!\n\n【Thời gian khuyến mãi】thứ Hai 1/3/2027 – thứ Bảy 10/4\n  ※ Xét theo ngày đăng ký.\n\n【Khoá học và học phí (theo tháng, đã gồm thuế)】\n・Lớp nhóm (1 buổi/tuần, 50 phút): 8.800 yên\n・Lớp nhóm (2 buổi/tuần, 50 phút): 15.400 yên\n・Lớp 1 kèm 1 (1 buổi/tuần, 40 phút): 16.500 yên\n※ Học phí trả theo từng tháng.\n※ Phí giáo trình 4.400 yên (chỉ khi nhập học) không thuộc diện khuyến mãi.\n\n【Điều kiện miễn phí nhập học】\n・Chỉ dành cho người đã học thử miễn phí.\n・Xin đăng ký trong vòng 7 ngày kể từ ngày học thử.\n・Người trước đây từng theo học tại trường không thuộc diện áp dụng.\n\n【Học thử miễn phí】(30 phút, mỗi người chỉ một lần)\nXin đặt lịch qua điện thoại hoặc website.\nXin đặt lịch trước 18 giờ ngày hôm trước ngày mong muốn.\n\nWorld Talk cơ sở trước ga, điện thoại 03-0000-6655\nGiờ tiếp nhận: 11:00–21:00 (nghỉ Chủ nhật)"
+    },
+    "p5": {
+      "title": "家電量販店の下取りキャンペーン",
+      "kind": "情報検索（キャンペーン）",
+      "ja": "でんきのマルヤマ\n{買|か}い{替|か}え{応援|おうえん}！{下取|したど}りキャンペーン\n{期間|きかん}：2026{年|ねん}6{月|がつ}1{日|ついたち}（{月|げつ}）～6{月|がつ}30{日|にち}（{火|か}）\n\nキャンペーン{対象|たいしょう}の{新|しん}{製品|せいひん}をお{買|か}い{上|あ}げの{際|さい}、ご{不要|ふよう}になった{同|おな}じ{種類|しゅるい}の{製品|せいひん}を{下取|したど}りに{出|だ}していただくと、{下取|したど}り{金額|きんがく}をお{買|か}い{上|あ}げ{金額|きんがく}から{差|さ}し{引|ひ}きます。\n\n【{下取|したど}り{金額|きんがく}（1{台|だい}あたり）】\n・{冷蔵庫|れいぞうこ}……… 5,000{円|えん}（お{買|か}い{上|あ}げ{金額|きんがく}が10{万|まん}{円|えん}{以上|いじょう}の{場合|ばあい}は10,000{円|えん}）\n・{洗濯機|せんたくき}……… 3,000{円|えん}\n・エアコン…… 3,000{円|えん}\n・テレビ……… 2,000{円|えん}（32{型|がた}{以上|いじょう}に{限|かぎ}ります）\n\n【ご{注意|ちゅうい}】\n・{下取|したど}りは、お{買|か}い{上|あ}げ1{台|だい}につき1{台|だい}までとさせていただきます。\n・{古|ふる}い{製品|せいひん}や、{壊|こわ}れて{動|うご}かない{製品|せいひん}も{下取|したど}りいたします。ただし、{部品|ぶひん}が{足|た}りないものはお{受|う}けできません。\n・{冷蔵庫|れいぞうこ}・{洗濯機|せんたくき}・エアコンは、{新|しん}{製品|せいひん}の{配送|はいそう}{時|じ}にご{自宅|じたく}で{引|ひ}き{取|と}ります。テレビは{店頭|てんとう}へお{持|も}ちください。\n・{下取|したど}りの{際|さい}は、{別途|べっと}リサイクル{料金|りょうきん}がかかります。\n・チラシに「{対象外|たいしょうがい}」と{書|か}かれたセール{品|ひん}は、キャンペーンの{対象|たいしょう}になりません。",
+      "vi": "Điện máy Maruyama\nỦng hộ đổi đồ mới! Chiến dịch thu cũ đổi mới\nThời gian: thứ Hai 1/6/2026 – thứ Ba 30/6\n\nKhi quý khách mua sản phẩm mới thuộc diện khuyến mãi, nếu mang sản phẩm cùng loại không còn dùng đến để chúng tôi thu lại, số tiền thu cũ sẽ được trừ vào số tiền mua hàng.\n\n【Số tiền thu cũ (mỗi chiếc)】\n・Tủ lạnh: 5.000 yên (nếu số tiền mua từ 100.000 yên trở lên thì 10.000 yên)\n・Máy giặt: 3.000 yên\n・Điều hoà: 3.000 yên\n・Tivi: 2.000 yên (chỉ loại từ 32 inch trở lên)\n\n【Lưu ý】\n・Mỗi chiếc mua mới chỉ thu cũ tối đa một chiếc.\n・Chúng tôi thu cả sản phẩm cũ lâu năm hay hỏng không chạy được. Tuy nhiên, không nhận sản phẩm bị thiếu linh kiện.\n・Tủ lạnh, máy giặt, điều hoà sẽ được thu tại nhà khi giao sản phẩm mới. Tivi xin mang đến cửa hàng.\n・Khi thu cũ, phí tái chế được tính riêng.\n・Hàng giảm giá có ghi “không áp dụng” trên tờ rơi không thuộc diện khuyến mãi."
+    },
+    "p6": {
+      "title": "美術館の特別展",
+      "kind": "情報検索（案内・料金表）",
+      "ja": "みなと{市立|しりつ}{美術館|びじゅつかん}　{特別展|とくべつてん}\n「{北欧|ほくおう}のデザイン　―　{暮|く}らしの100{年|ねん}」\n\n【{会期|かいき}】2026{年|ねん}7{月|がつ}11{日|にち}（{土|ど}）～9{月|がつ}6{日|か}（{日|にち}）\n【{開館|かいかん}{時間|じかん}】9:30～17:00（{入館|にゅうかん}は16:30まで）\n　※{金曜日|きんようび}・{土曜日|どようび}は20:00まで{開館|かいかん}（{入館|にゅうかん}は19:30まで）\n【{休館日|きゅうかんび}】{月曜日|げつようび}\n　※ただし、7{月|がつ}20{日|か}（{月|げつ}・{祝|しゅく}）は{開館|かいかん}し、{翌|よく}21{日|にち}（{火|か}）を{休館|きゅうかん}とします。また、8{月|がつ}10{日|か}（{月|げつ}）はお{盆|ぼん}{期間|きかん}のため{臨時|りんじ}{開館|かいかん}します。\n\n【{観覧料|かんらんりょう}】　　　　　　{当日|とうじつ}　／　{前売|まえう}り・{団体|だんたい}（20{名|めい}{以上|いじょう}）\n・{一般|いっぱん}　　　　　　　1,600{円|えん}　／　1,400{円|えん}\n・{大学生|だいがくせい}・{高校生|こうこうせい}　　1,000{円|えん}　／　800{円|えん}\n・{中学生|ちゅうがくせい}{以下|いか}　　　　{無料|むりょう}\n※65{歳|さい}{以上|いじょう}の{方|かた}は、{当日|とうじつ}{券|けん}が1,200{円|えん}になります（{年齢|ねんれい}のわかるものをご{提示|ていじ}ください）。\n※{障害者|しょうがいしゃ}{手帳|てちょう}をお{持|も}ちの{方|かた}と、{付|つ}き{添|そ}いの{方|かた}1{名|めい}は{無料|むりょう}です。\n※{前売|まえう}り{券|けん}は7{月|がつ}10{日|か}（{金|きん}）まで、{美術館|びじゅつかん}{受付|うけつけ}およびコンビニエンスストアで{販売|はんばい}します。\n\n【{夜間|やかん}{割引|わりびき}】{金曜日|きんようび}・{土曜日|どようび}の17:00{以降|いこう}に{入館|にゅうかん}される{方|かた}は、{当日|とうじつ}{料金|りょうきん}から200{円|えん}{引|び}きになります（{一般|いっぱん}・{大学生|だいがくせい}・{高校生|こうこうせい}のみ）。",
+      "vi": "Bảo tàng mỹ thuật thành phố Minato — Triển lãm đặc biệt\n“Thiết kế Bắc Âu — 100 năm đời sống”\n\n【Thời gian triển lãm】thứ Bảy 11/7/2026 – Chủ nhật 6/9\n【Giờ mở cửa】9:30–17:00 (vào cửa đến 16:30)\n  ※ Thứ Sáu và thứ Bảy mở đến 20:00 (vào cửa đến 19:30)\n【Ngày đóng cửa】Thứ Hai\n  ※ Tuy nhiên, ngày 20/7 (thứ Hai, ngày lễ) vẫn mở cửa và đóng cửa vào ngày hôm sau 21/7 (thứ Ba). Ngoài ra, ngày 10/8 (thứ Hai) mở cửa đặc biệt vì là dịp lễ Obon.\n\n【Giá vé】           Mua tại chỗ / Mua trước · Đoàn (từ 20 người)\n・Người lớn:          1.600 yên / 1.400 yên\n・Sinh viên, HS cấp 3: 1.000 yên / 800 yên\n・Từ HS cấp 2 trở xuống: miễn phí\n※ Người từ 65 tuổi trở lên: vé mua tại chỗ là 1.200 yên (xin xuất trình giấy tờ cho biết tuổi).\n※ Người có sổ người khuyết tật và 1 người đi kèm được miễn phí.\n※ Vé mua trước bán đến thứ Sáu 10/7 tại quầy bảo tàng và cửa hàng tiện lợi.\n\n【Giảm giá buổi tối】Người vào cửa từ 17:00 trở đi vào thứ Sáu, thứ Bảy được giảm 200 yên so với giá vé tại chỗ (chỉ áp dụng cho người lớn, sinh viên, học sinh cấp 3)."
+    },
+    "p7": {
+      "title": "カフェのアルバイト募集",
+      "kind": "情報検索（求人広告）",
+      "ja": "カフェ・ド・モリ　スタッフ{募集|ぼしゅう}！\n\n【{仕事|しごと}{内容|ないよう}】ホールスタッフ（{注文|ちゅうもん}・{配膳|はいぜん}・レジ）、キッチン{補助|ほじょ}\n【{時給|じきゅう}】1,150{円|えん}～（{研修|けんしゅう}{期間|きかん}の2か{月間|げつかん}は1,100{円|えん}）\n　※{土日祝|どにちしゅく}は{時給|じきゅう}＋50{円|えん}／22{時|じ}{以降|いこう}は{時給|じきゅう}25％{増|ま}し\n【{勤務|きんむ}{時間|じかん}】7:00～23:00の{間|あいだ}で、1{日|にち}4{時間|じかん}{以上|いじょう}・{週|しゅう}2{日|か}{以上|いじょう}\n【{応募|おうぼ}{資格|しかく}】18{歳|さい}{以上|いじょう}（{高校生|こうこうせい}{不可|ふか}）。{未経験|みけいけん}の{方|かた}も{歓迎|かんげい}します。\n　※{土曜|どよう}・{日曜|にちよう}のどちらか1{日|にち}{以上|いじょう}{勤務|きんむ}できる{方|かた}は{優遇|ゆうぐう}します。\n【{待遇|たいぐう}】{交通費|こうつうひ}{支給|しきゅう}（1{日|にち}800{円|えん}まで）、まかないあり（1{食|しょく}300{円|えん}）、{制服|せいふく}{貸与|たいよ}\n【{応募|おうぼ}{方法|ほうほう}】まずはお{電話|でんわ}でご{連絡|れんらく}ください。{面接|めんせつ}{日|び}をお{伝|つた}えします。{面接|めんせつ}の{際|さい}は、{写真|しゃしん}{付|つ}きの{履歴書|りれきしょ}をお{持|も}ちください（{面接|めんせつ}は{店舗|てんぽ}で{行|おこな}います）。\n【{連絡先|れんらくさき}】カフェ・ド・モリ　{採用|さいよう}{担当|たんとう}：{森|もり}\n　{電話|でんわ}03-0000-3344（{受付|うけつけ}14:00～17:00）",
+      "vi": "Café de Mori tuyển nhân viên!\n\n【Công việc】Nhân viên phục vụ sảnh (nhận order, bưng món, thu ngân), phụ bếp\n【Lương giờ】Từ 1.150 yên (trong 2 tháng đào tạo: 1.100 yên)\n  ※ Thứ Bảy, Chủ nhật, ngày lễ: +50 yên/giờ; sau 22 giờ: tăng 25% lương giờ\n【Thời gian làm việc】Trong khoảng 7:00–23:00, từ 4 tiếng/ngày trở lên, từ 2 ngày/tuần trở lên\n【Điều kiện ứng tuyển】Từ 18 tuổi trở lên (không nhận học sinh cấp 3). Hoan nghênh cả người chưa có kinh nghiệm.\n  ※ Ưu tiên người làm được ít nhất một ngày thứ Bảy hoặc Chủ nhật.\n【Đãi ngộ】Trả tiền đi lại (tối đa 800 yên/ngày), có suất ăn nhân viên (300 yên/suất), cho mượn đồng phục\n【Cách ứng tuyển】Trước hết xin hãy gọi điện liên lạc. Chúng tôi sẽ báo ngày phỏng vấn. Khi phỏng vấn, xin mang theo sơ yếu lý lịch có dán ảnh (phỏng vấn tại cửa hàng).\n【Liên hệ】Café de Mori, phụ trách tuyển dụng: Mori\n  Điện thoại 03-0000-3344 (nhận cuộc gọi 14:00–17:00)"
+    }
+  },
+  "worked": [
+    {"id": "d12-w1", "kind": "passage", "pass": "p1",
+     "q": "このクーポンを{使|つか}うことができるのは、どの{人|ひと}か。",
+     "options": [
+       "{去年|きょねん}このサロンでカットをしてもらい、10{月|がつ}10{日|か}（{土|ど}）にBメニューを{予約|よやく}する{人|ひと}。",
+       "{初|はじ}めて{来店|らいてん}する{人|ひと}で、11{月|がつ}3{日|か}（{火|か}・{祝|しゅく}）のAメニューを{電話|でんわ}で{予約|よやく}する{人|ひと}。",
+       "{初|はじ}めて{来店|らいてん}する{人|ひと}で、ウェブでクーポン{欄|らん}にチェックを{入|い}れて、10{月|がつ}21{日|にち}（{水|すい}）のAメニューを{予約|よやく}する{人|ひと}。",
+       "{初|はじ}めて{来店|らいてん}する{人|ひと}で、10{月|がつ}18{日|にち}（{日|にち}）のAメニューを{予約|よやく}し、{来店|らいてん}したときにクーポンのことを{伝|つた}える{人|ひと}。"
+     ],
+     "answer": 2,
+     "vi": "Ai có thể dùng phiếu này? → (3) Người lần đầu đến, đặt qua web có đánh dấu ô phiếu, đặt menu A vào thứ Tư 21/10.",
+     "why": "Điều kiện: lần đầu ／ nói khi **đặt chỗ** (web: đánh dấu ô) ／ thứ Bảy·CN·lễ chỉ menu B ／ thứ Ba nghỉ (kể cả ngày lễ) ／ trong hạn 1/10–15/11.\n- (1) Đã từng cắt ở đây → vướng 「当店のご利用が初めての方に限ります」.\n- (2) 3/11 là **thứ Ba** → ngày nghỉ, 「祝日の場合も休業いたします」. (Thêm nữa, ngày lễ chỉ dùng được menu B.)\n- (3) **Đúng**: lần đầu, đánh dấu ô khi đặt web, thứ Tư (ngày thường → menu A được), trong hạn.\n- (4) Chủ nhật chỉ dùng menu B, và nói lúc đến tiệm thì 「ご来店後のお申し出では適用できません」 → vướng hai điều kiện.",
+     "walkthrough": "**① Đọc câu hỏi và phương án**: 「使うことができるのはどの人か」 → mỗi phương án là một “người thử”. So 4 phương án, chúng khác nhau ở: **lần đầu hay không**, **ngày (thứ mấy)**, **menu A/B**, **lúc nào báo dùng phiếu** (khi đặt / khi đến). Vậy chỉ cần tìm 4 loại điều kiện này.\n\n**② Phần chữ to**: giá A 3.300 yên, B 6.800 yên, hạn 1/10–15/11. Tất cả ngày trong phương án đều nằm trong hạn → điều kiện “hạn” không loại ai. Bỏ qua.\n\n**③ Phần chữ nhỏ (＜ご利用条件＞ và ※)** — lập danh sách:\n- 初めての方に**限ります** → loại người đã từng đến.\n- ご**予約の際**に伝える (web: チェック) / **来店後**は不可.\n- 土・日・祝は**Bメニューのみ**.\n- ※火曜定休, **祝日の場合も休業**.\n(Dòng 「肩より長い髪…別途1,100円」 và 「併用はできません」 không liên quan đến 4 phương án → không cần dừng lại.)\n\n**④ Cho từng người đi qua danh sách**:\n- (1) ✗ ngay ở điều kiện đầu tiên.\n- (2) Cần tra thứ: 11/3 là 火曜日 → ✗. Đây là bẫy “ngày lễ”: nhiều người nghĩ ngày lễ thì mở cửa, nhưng dòng ※ đã nói rõ ngay cả ngày lễ cũng nghỉ.\n- (3) lần đầu ✓, báo khi đặt (web) ✓, thứ Tư → menu A được ✓, không phải thứ Ba ✓ → **qua hết**.\n- (4) Chủ nhật + menu A ✗, báo lúc đến ✗.\n\n**⑤ Kết luận**: (3). Để ý cách đề làm nhiễu: mỗi phương án sai chỉ vướng **đúng một hai dòng chữ nhỏ** — nếu chỉ đọc phần chữ to, cả 4 phương án đều có vẻ đúng."},
+    {"id": "d12-w2", "kind": "passage", "pass": "p2",
+     "q": "{高校|こうこう}2{年生|ねんせい}（17{歳|さい}）のリンさんは、このボランティアに{参加|さんか}したい。2{月|がつ}7{日|か}は{学校|がっこう}の{行事|ぎょうじ}があり、{説明会|せつめいかい}に{行|い}けない。リンさんがしなければならないことはどれか。",
+     "options": [
+       "1{月|がつ}15{日|にち}までに{電話|でんわ}で{申|もう}し{込|こ}み、2{月|がつ}14{日|か}のオンライン{説明会|せつめいかい}に{参加|さんか}する。",
+       "1{月|がつ}15{日|にち}までにウェブサイトから{申|もう}し{込|こ}み、{保護者|ほごしゃ}の{同意書|どういしょ}を{用意|ようい}して、2{月|がつ}14{日|か}のオンライン{説明会|せつめいかい}に{参加|さんか}する。",
+       "1{月|がつ}15{日|にち}までにウェブサイトから{申|もう}し{込|こ}み、2{月|がつ}7{日|か}の{説明会|せつめいかい}を{欠席|けっせき}することを{実行|じっこう}{委員会|いいんかい}に{連絡|れんらく}する。",
+       "{保護者|ほごしゃ}と{一緒|いっしょ}に{参加|さんか}することを{条件|じょうけん}に、{大会|たいかい}{当日|とうじつ}に{会場|かいじょう}で{申|もう}し{込|こ}む。"
+     ],
+     "answer": 1,
+     "vi": "Lin, học sinh lớp 11 (17 tuổi), muốn tham gia. Ngày 7/2 có sự kiện ở trường nên không đi buổi hướng dẫn được. Lin phải làm gì? → (2) Đăng ký qua website trước 15/1, chuẩn bị giấy đồng ý của phụ huynh và tham gia buổi hướng dẫn online ngày 14/2.",
+     "why": "Ba điều kiện áp vào Lin: cách đăng ký = **web form trước 15/1**; dưới 18 tuổi → **cần giấy đồng ý của phụ huynh**; buổi hướng dẫn **bắt buộc** → vắng ngày 7 thì dự buổi **online 14/2**.\n- (1) Sai cách thức: điện thoại chỉ là số **hỏi đáp** (お問い合わせ); đăng ký phải qua 「ウェブサイトの申込フォーム」. Còn thiếu giấy đồng ý.\n- (2) **Đúng**: thoả cả ba điều kiện.\n- (3) Chỉ báo vắng là chưa đủ: 「説明会への参加が必須」 → phải dự buổi thay thế.\n- (4) 「保護者と一緒に参加する場合のみ可」 là điều kiện dành cho **học sinh cấp 2**, Lin là cấp 3 → **đảo đối tượng**; và không có đăng ký tại chỗ ngày thi.",
+     "walkthrough": "**① Đọc câu hỏi — gạch dữ kiện của nhân vật**: 高校2年生, **17歳**, **2月7日に行けない**. Mỗi dữ kiện sẽ va vào một điều kiện trong quảng cáo: “17 tuổi” → điều kiện tuổi; “không đi ngày 7” → điều kiện buổi hướng dẫn. “Học sinh cấp 3” → điều kiện đối tượng.\n\n**② So 4 phương án**: chúng khác nhau ở **cách đăng ký** (điện thoại / web / tại chỗ), **giấy đồng ý**, và **cách xử lý buổi hướng dẫn**. → Cần tìm các mục 【申し込み方法】【対象】【事前説明会】.\n\n**③ Tìm từng mục**:\n- 【対象】高校生以上 → Lin đủ điều kiện. Phần trong ngoặc 「中学生は保護者と一緒に参加する場合のみ可」 là cho **cấp 2**, không phải Lin.\n- Dòng ※ dưới 【対象】: 「**18歳未満**の方は、保護者の**同意書が必要**」 → Lin 17 tuổi → cần.\n- 【事前説明会】 + dòng ※: 「参加が**必須**」, 「7日のご都合が悪い方は、2月14日…オンライン…にご参加ください」 → Lin phải dự ngày 14.\n- 【申し込み方法】: 「ウェブサイトの申込フォームから、1月15日までに」 → chỉ có web.\n\n**④ Loại trừ**: (1) sai cách đăng ký, (3) thiếu buổi hướng dẫn thay thế, (4) dùng điều kiện của nhóm khác. Chỉ (2) thoả cả ba.\n\n**⑤ Bài học**: trong quảng cáo tuyển, điều kiện thường xếp **tầng**: điều kiện chung (高校生以上) → ngoại lệ trong ngoặc (中学生は…) → lưu ý ※ (18歳未満は…). Đọc kỹ từng tầng xem nó áp vào **ai**. Ngoài ra, số điện thoại ở cuối là để **hỏi** (お問い合わせ), không phải để **đăng ký** — một bẫy “sai cách thức” rất quen thuộc."}
+  ],
+  "quiz": [
+    {"id": "d12-q1", "kind": "passage", "pass": "p3",
+     "q": "11{月|がつ}15{日|にち}（{日|にち}）の{午後|ごご}2{時|じ}に{店|みせ}に{行|い}った{人|ひと}ができることはどれか。",
+     "options": [
+       "たまご（10{個|こ}{入|い}り）を98{円|えん}で1パック{買|か}う。",
+       "キャベツを1{玉|たま}100{円|えん}で{買|か}う。",
+       "アオバカードでお{酒|さけ}を{買|か}って、ポイントを5{倍|ばい}もらう。",
+       "2Lのペットボトル{飲料|いんりょう}を、3{本|ぼん}300{円|えん}で{買|か}う。"
+     ],
+     "answer": 3,
+     "vi": "Người đến cửa hàng lúc 2 giờ chiều Chủ nhật 15/11 có thể làm gì? → (4) Mua 3 chai nước 2L giá 300 yên.",
+     "why": "Tờ rơi có **hai phần**: 【朝市】 chỉ 9:00–11:00, và 【2日間通して】 cả ngày.\n- (1)(2) Trứng và bắp cải thuộc **朝市** → 14 giờ đã hết khung giờ → bẫy **lẫn mục**.\n- (3) 「お酒…はポイント5倍の対象外」 → chỉ được điểm thường.\n- (4) **Đúng**: nước đóng chai thuộc phần 「2日間通して」, dùng được cả ngày 15."},
+    {"id": "d12-q2", "kind": "passage", "pass": "p3",
+     "q": "11{月|がつ}14{日|か}（{土|ど}）の{朝|あさ}10{時|じ}に、たまご1パック、キャベツ2{玉|たま}、2Lのペットボトル{飲料|いんりょう}4{本|ほん}を{買|か}った。{全部|ぜんぶ}でいくらか。",
+     "options": [
+       "810{円|えん}",
+       "726{円|えん}",
+       "698{円|えん}",
+       "876{円|えん}"
+     ],
+     "answer": 1,
+     "vi": "Lúc 10 giờ sáng thứ Bảy 14/11, mua 1 hộp trứng, 2 cây bắp cải, 4 chai nước 2L. Tổng cộng bao nhiêu? → (2) 726 yên.",
+     "why": "10 giờ nằm trong 朝市 (9:00–11:00), nên trứng và bắp cải được giá rẻ.\n- Trứng: 98 yên (1 hộp, đúng giới hạn).\n- Bắp cải: 100 × 2 = 200 yên.\n- Nước: 3 chai = 300 yên + 1 chai lẻ 「3本に満たない分は1本128円」 = 128 yên → 428 yên.\n- Tổng: 98 + 200 + 428 = **726 yên** → (2).\nCác số sai đến từ việc quên một điều kiện: (1) 810 = tính cả 4 chai giá 128; (3) 698 = coi chai thứ 4 cũng 100 yên; (4) 876 = tính trứng theo giá thường 248."},
+    {"id": "d12-q3", "kind": "passage", "pass": "p3",
+     "q": "ポイントについて、{正|ただ}しいものはどれか。",
+     "options": [
+       "アオバカード{会員|かいいん}がセール{品|ひん}ではないお{菓子|かし}を{買|か}うと、ポイントが5{倍|ばい}になる。",
+       "アオバカードの{会員|かいいん}でなくても、{期間|きかん}{中|ちゅう}はポイントが5{倍|ばい}になる。",
+       "セールのお{肉|にく}を{買|か}うと、ポイントは{全|まった}く{付|つ}かない。",
+       "アオバカード{会員|かいいん}がお{酒|さけ}を{買|か}うと、ポイントが5{倍|ばい}になる。"
+     ],
+     "answer": 0,
+     "vi": "Điều nào đúng về điểm thưởng? → (1) Hội viên thẻ Aoba mua bánh kẹo không phải hàng giảm giá thì được nhân 5 điểm.",
+     "why": "「期間中、アオバカード会員様はポイント5倍」 + ※「たばこ・お酒・セール品は、ポイント5倍の対象外です（通常のポイントは付きます）」.\n- (1) **Đúng**: là hội viên, và bánh kẹo không thuộc nhóm bị loại trừ.\n- (2) Ưu đãi chỉ dành cho **会員様**.\n- (3) Sai phần trong ngoặc: hàng giảm giá **vẫn được điểm thường**, chỉ không được nhân 5.\n- (4) Rượu bia nằm trong danh sách 対象外."}
+  ],
+  "practice": [
+    {"id": "d12-p1", "kind": "passage", "pass": "p4",
+     "q": "{入会金|にゅうかいきん}が{無料|むりょう}になるのは、どの{人|ひと}か。",
+     "options": [
+       "3{月|がつ}20{日|か}に{体験|たいけん}レッスンを{受|う}け、3{月|がつ}30{日|にち}に{入会|にゅうかい}を{申|もう}し{込|こ}んだ{人|ひと}。",
+       "4{月|がつ}8{日|か}に{体験|たいけん}レッスンを{受|う}け、4{月|がつ}12{日|にち}に{入会|にゅうかい}を{申|もう}し{込|こ}んだ{人|ひと}。",
+       "2{年|ねん}{前|まえ}までこのスクールに{通|かよ}っていて、3{月|がつ}5{日|か}に{体験|たいけん}レッスンを{受|う}け、その{日|ひ}に{申|もう}し{込|こ}んだ{人|ひと}。",
+       "3{月|がつ}25{日|にち}に{体験|たいけん}レッスンを{受|う}け、3{月|がつ}31{日|にち}に{入会|にゅうかい}を{申|もう}し{込|こ}んだ{人|ひと}。"
+     ],
+     "answer": 3,
+     "vi": "Ai được miễn phí nhập học? → (4) Người học thử ngày 25/3 và đăng ký nhập học ngày 31/3.",
+     "why": "Bốn điều kiện: đăng ký trong **3/1–4/10** (xét theo ngày đăng ký) ／ đã **học thử** ／ đăng ký **trong 7 ngày** từ ngày học thử ／ **chưa từng** là học viên.\n- (1) 20/3 → 30/3 là **10 ngày** → quá hạn 7 ngày.\n- (2) Ngày đăng ký 12/4 **quá** ngày cuối chiến dịch 10/4 (「お申し込み日で判断します」).\n- (3) 「以前、当スクールに在籍していた方は対象外」.\n- (4) **Đúng**: 25/3 → 31/3 là 6 ngày, trong thời gian chiến dịch."},
+    {"id": "d12-p2", "kind": "passage", "pass": "p4",
+     "q": "キャンペーン{期間|きかん}{中|ちゅう}に、{入会金|にゅうかいきん}{無料|むりょう}の{条件|じょうけん}を{満|み}たして、グループレッスン（{週|しゅう}1{回|かい}）の6か{月|げつ}コースに{入会|にゅうかい}する。{入会|にゅうかい}{時|じ}に{払|はら}う{金額|きんがく}（{教材費|きょうざいひ}と{最初|さいしょ}の{月|つき}の{授業料|じゅぎょうりょう}）は、{全部|ぜんぶ}でいくらか。",
+     "options": [
+       "8,800{円|えん}",
+       "13,200{円|えん}",
+       "4,400{円|えん}",
+       "19,800{円|えん}"
+     ],
+     "answer": 0,
+     "vi": "Thoả điều kiện miễn phí nhập học và vào khoá 6 tháng lớp nhóm 1 buổi/tuần trong thời gian chiến dịch. Số tiền trả khi nhập học (phí giáo trình + học phí tháng đầu) là bao nhiêu? → (1) 8.800 yên.",
+     "why": "Tính từng khoản:\n- 入会金: 0 yên (thoả điều kiện).\n- 教材費: 4.400 yên — 「キャンペーンの**対象外**」 → trả đủ.\n- Học phí tháng đầu: 8.800 yên, khoá 6 tháng → 「最初の月の授業料が**半額**」 → 4.400 yên.\n- Tổng: 4.400 + 4.400 = **8.800 yên** → (1).\nSai: (2) 13.200 = quên giảm nửa học phí; (3) 4.400 = tưởng giáo trình cũng miễn phí; (4) 19.800 = 11.000 + 8.800, vừa tính phí nhập học, vừa quên giảm nửa học phí và quên phí giáo trình. Để ý (1) trùng đúng con số học phí 8.800 yên — đáp án đúng đôi khi “trông như” một con số trong bài, nên phải tính ra chứ đừng đoán."},
+    {"id": "d12-p3", "kind": "passage", "pass": "p4",
+     "q": "4{月|がつ}3{日|か}（{土|ど}）に{体験|たいけん}レッスンを{受|う}けたい。いつまでに{予約|よやく}しなければならないか。",
+     "options": [
+       "4{月|がつ}3{日|か}（{土|ど}）の11{時|じ}まで",
+       "4{月|がつ}2{日|か}（{金|きん}）の21{時|じ}まで",
+       "4{月|がつ}2{日|か}（{金|きん}）の18{時|じ}まで",
+       "3{月|がつ}27{日|にち}（{土|ど}）まで"
+     ],
+     "answer": 2,
+     "vi": "Muốn học thử vào thứ Bảy 3/4. Phải đặt trước khi nào? → (3) Trước 18 giờ thứ Sáu 2/4.",
+     "why": "「ご予約は、ご希望日の**前日18時まで**にお願いいたします」 → ngày mong muốn 3/4 → hôm trước là 2/4, trễ nhất 18 giờ.\n- (1) Đặt trong ngày là không được; 11 giờ là giờ **bắt đầu tiếp nhận**.\n- (2) 21 giờ là giờ **kết thúc tiếp nhận điện thoại** (受付時間), không phải hạn đặt lịch → bẫy lẫn hai mốc giờ.\n- (3) **Đúng**.\n- (4) “7 ngày” là điều kiện **đăng ký nhập học sau khi học thử**, không phải hạn đặt học thử → bẫy lẫn mục."},
+    {"id": "d12-p4", "kind": "passage", "pass": "p5",
+     "q": "キャンペーン{中|ちゅう}に、12{万|まん}{円|えん}の{冷蔵庫|れいぞうこ}（キャンペーン{対象|たいしょう}）を{買|か}い、20{年|ねん}{前|まえ}に{買|か}った{古|ふる}い{冷蔵庫|れいぞうこ}を{下取|したど}りに{出|だ}す。{古|ふる}い{冷蔵庫|れいぞうこ}は{今|いま}も{問題|もんだい}なく{動|うご}く。リサイクル{料金|りょうきん}を{除|のぞ}くと、{支払|しはら}う{金額|きんがく}はいくらか。",
+     "options": [
+       "115,000{円|えん}",
+       "110,000{円|えん}",
+       "120,000{円|えん}",
+       "105,000{円|えん}"
+     ],
+     "answer": 1,
+     "vi": "Trong thời gian khuyến mãi, mua tủ lạnh 120.000 yên (thuộc diện áp dụng) và thu cũ chiếc tủ lạnh mua 20 năm trước, vẫn chạy tốt. Không tính phí tái chế, số tiền phải trả là bao nhiêu? → (2) 110.000 yên.",
+     "why": "「冷蔵庫…5,000円（お買い上げ金額が**10万円以上**の場合は**10,000円**）」 → mua 120.000 yên → được trừ 10.000 yên. 「古い製品…も下取りいたします」 → tủ 20 năm vẫn được nhận.\n- 120.000 − 10.000 = **110.000 yên** → (2).\n- (1) 115.000 = chỉ trừ 5.000 yên → bỏ sót phần trong ngoặc.\n- (3) 120.000 = tưởng đồ quá cũ không được thu → ngược với phần ご注意.\n- (4) 105.000 = cộng cả 5.000 lẫn 10.000 → hiểu sai, hai mức là **lựa chọn**, không cộng dồn."},
+    {"id": "d12-p5", "kind": "passage", "pass": "p5",
+     "q": "{下取|したど}りについて、{正|ただ}しいものはどれか。",
+     "options": [
+       "{新|あたら}しいエアコンを1{台|だい}{買|か}うとき、{古|ふる}いエアコンを2{台|だい}{下取|したど}りに{出|だ}すことはできない。",
+       "{古|ふる}いテレビは、{新|あたら}しいテレビを{配送|はいそう}するときに、{家|いえ}で{引|ひ}き{取|と}ってもらえる。",
+       "{壊|こわ}れて{動|うご}かない{洗濯機|せんたくき}は、{下取|したど}りに{出|だ}すことができない。",
+       "25{型|がた}の{古|ふる}いテレビを{店|みせ}に{持|も}っていけば、2,000{円|えん}{引|び}きになる。"
+     ],
+     "answer": 0,
+     "vi": "Điều nào đúng về việc thu cũ? → (1) Khi mua 1 chiếc điều hoà mới thì không thể đem 2 chiếc điều hoà cũ đi thu.",
+     "why": "- (1) **Đúng**: 「下取りは、お買い上げ1台につき1台まで」.\n- (2) Chỉ tủ lạnh, máy giặt, điều hoà được thu tại nhà; 「テレビは**店頭へお持ちください**」 → bẫy **sai cách thức**.\n- (3) 「壊れて動かない製品も下取りいたします」 — chỉ đồ **thiếu linh kiện** mới bị từ chối (ただし…).\n- (4) 「32型以上に限ります」 → 25 inch không được."}
+  ],
+  "test": [
+    {"id": "d12-t1", "kind": "passage", "pass": "p6",
+     "q": "8{月|がつ}の{土曜日|どようび}の18{時|じ}に、{父|ちち}（45{歳|さい}）、{母|はは}（43{歳|さい}）、{大学生|だいがくせい}の{姉|あね}、{中学生|ちゅうがくせい}の{弟|おとうと}の4{人|にん}で{美術館|びじゅつかん}に{行|い}き、{当日|とうじつ}{券|けん}を{買|か}う。{全部|ぜんぶ}でいくらか。",
+     "options": [
+       "3,600{円|えん}",
+       "4,200{円|えん}",
+       "3,800{円|えん}",
+       "4,400{円|えん}"
+     ],
+     "answer": 0,
+     "vi": "Vào 18 giờ một ngày thứ Bảy tháng 8, bố (45 tuổi), mẹ (43 tuổi), chị gái là sinh viên, em trai học cấp 2 — 4 người đi bảo tàng và mua vé tại chỗ. Tổng cộng bao nhiêu? → (1) 3.600 yên.",
+     "why": "Thứ Bảy mở đến 20:00 (vào cửa đến 19:30) → 18 giờ vẫn vào được, và vì là **thứ Bảy sau 17:00** nên được 【夜間割引】 −200 yên cho 一般・大学生・高校生.\n- Bố: 1.600 − 200 = 1.400; mẹ: 1.400; chị (sinh viên): 1.000 − 200 = 800; em (cấp 2): **miễn phí**.\n- Tổng: 1.400 + 1.400 + 800 = **3.600 yên** → (1).\n- (2) 4.200 = quên giảm giá buổi tối.\n- (3) 3.800 = chỉ giảm cho người lớn, quên sinh viên cũng được giảm.\n- (4) 4.400 = tính em trai như học sinh cấp 3 (800 yên)."},
+    {"id": "d12-t2", "kind": "passage", "pass": "p6",
+     "q": "この{案内|あんない}の{内容|ないよう}と{合|あ}うものはどれか。",
+     "options": [
+       "8{月|がつ}10{日|か}（{月|げつ}）は{休館日|きゅうかんび}なので、{入館|にゅうかん}できない。",
+       "7{月|がつ}21{日|にち}（{火|か}）は、{通常|つうじょう}どおり{開館|かいかん}している。",
+       "70{歳|さい}の{祖母|そぼ}は、{前売|まえう}り{券|けん}を{買|か}うより{当日|とうじつ}{券|けん}を{買|か}うほうが{安|やす}い。",
+       "{金曜日|きんようび}なら、19{時|じ}30{分|ぷん}に{入館|にゅうかん}して20{時|じ}30{分|ぷん}まで{見|み}ることができる。"
+     ],
+     "answer": 2,
+     "vi": "Điều nào khớp với nội dung thông báo? → (3) Bà 70 tuổi mua vé tại chỗ rẻ hơn mua vé trước.",
+     "why": "- (1) Dòng ※ dưới 【休館日】: 「8月10日（月）は…臨時開館します」 → **mở cửa**. Bẫy quên ngoại lệ.\n- (2) 「7月20日（月・祝）は開館し、翌21日（火）を休館とします」 → 21/7 **đóng cửa**.\n- (3) **Đúng**: người từ 65 tuổi, vé tại chỗ 1.200 yên; vé mua trước loại 一般 là 1.400 yên → tại chỗ rẻ hơn. (Ưu đãi người cao tuổi chỉ ghi cho 当日券.)\n- (4) Thứ Sáu mở **đến 20:00**; 19:30 là giờ vào cửa cuối cùng, không thể xem đến 20:30."},
+    {"id": "d12-t3", "kind": "passage", "pass": "p7",
+     "q": "この{店|みせ}で{働|はたら}きたい{人|ひと}は、まずどうすればよいか。",
+     "options": [
+       "{写真|しゃしん}{付|つ}きの{履歴書|りれきしょ}を、{店|みせ}に{郵送|ゆうそう}する。",
+       "14{時|じ}から17{時|じ}の{間|あいだ}に、{店|みせ}に{電話|でんわ}をかける。",
+       "{履歴書|りれきしょ}を{持|も}って{店|みせ}に{行|い}き、その{場|ば}で{面接|めんせつ}を{受|う}ける。",
+       "{店|みせ}のウェブサイトの{応募|おうぼ}フォームから{申|もう}し{込|こ}む。"
+     ],
+     "answer": 1,
+     "vi": "Người muốn làm ở quán này trước hết nên làm gì? → (2) Gọi điện cho quán trong khoảng 14 giờ đến 17 giờ.",
+     "why": "【応募方法】「**まずは**お電話でご連絡ください。面接日をお伝えします」 + 【連絡先】「受付14:00～17:00」.\n- (1) Sơ yếu lý lịch là để **mang theo khi phỏng vấn** (面接の際は…お持ちください), không gửi bưu điện.\n- (2) **Đúng**.\n- (3) Sai thứ tự: phải gọi trước, quán mới báo ngày phỏng vấn.\n- (4) Quảng cáo không có website hay form ứng tuyển."},
+    {"id": "d12-t4", "kind": "passage", "pass": "p7",
+     "q": "この{求人|きゅうじん}{広告|こうこく}の{内容|ないよう}と{合|あ}うものはどれか。",
+     "options": [
+       "{高校生|こうこうせい}でも、{週|しゅう}2{日|か}{以上|いじょう}{働|はたら}けるなら{応募|おうぼ}できる。",
+       "{仕事|しごと}の{経験|けいけん}がない{人|ひと}は、{研修|けんしゅう}{期間|きかん}が2か{月|げつ}より{長|なが}くなる。",
+       "1{日|にち}3{時間|じかん}だけなら、{週|しゅう}5{日|か}{働|はたら}くことができる。",
+       "{交通費|こうつうひ}は{出|で}るが、1{日|にち}800{円|えん}が{上限|じょうげん}である。"
+     ],
+     "answer": 3,
+     "vi": "Điều nào khớp với nội dung tin tuyển dụng? → (4) Có trả tiền đi lại nhưng tối đa 800 yên/ngày.",
+     "why": "- (1) 「18歳以上（**高校生不可**）」 → điều kiện cứng, không phụ thuộc số ngày làm.\n- (2) Không có trong bài: 研修期間 cố định 2 tháng; 「未経験の方も歓迎」 chỉ là hoan nghênh người chưa có kinh nghiệm.\n- (3) 「1日**4時間以上**・週2日以上」 → cần thoả **cả hai**; 3 tiếng/ngày là không đạt dù làm 5 ngày.\n- (4) **Đúng**: 「交通費支給（1日800円まで）」 — 支給 → 出る, まで → 上限."}
+  ]
+}

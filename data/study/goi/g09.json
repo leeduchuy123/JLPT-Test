@@ -1,0 +1,1995 @@
+{
+  "id": "g09",
+  "track": "goi",
+  "intro": "Bài này là từ vựng **thiên nhiên** bạn gặp khi đi du lịch: địa hình, thời tiết, phong cảnh và bốn mùa. Bốn nhóm:\n\n- **地形**: đất liền (列島・半島・岬・丘・盆地・平野・谷・滝・森林・砂漠) và biển (沖・岸・湾). Học kèm tính từ miêu tả: なだらか (thoai thoải) ↔ 険しい (hiểm trở).\n- **天気**: 温暖, 高気圧, あらし, 霧, 快晴, 夕立.\n- **風景**: 眺める・見上げる・見下ろす, 地平線／水平線, 日が沈む・暮れる, 真っ暗.\n- **四季**: 梅雨が明ける, 蒸し暑い, 日差しがまぶしい, 紅葉, 稲を刈る, 初雪, 吹雪, 凍える.\n\nĐiểm then chốt khi thi:\n- **Collocation** (連語) là trọng tâm: 地下水が**わく**, 果実が**実る**, 稲を**刈る**, 汗を**かく**, 吹雪に**遭う**, 梅雨が**明ける**. Hãy học cả cụm, không học từ lẻ.\n- Tiền tố / hậu tố: **〜上げる** (見上げる・持ち上げる・取り上げる), **真っ〜** (真っ暗・真っ白…), **新〜** (新年度・新製品), **初〜** (初雪・初優勝).\n- Phó từ: ぼんやり (lơ đãng, mờ ảo), はるかに (xa, hơn hẳn), 一段と (hơn hẳn trước), 決まって (lần nào cũng).",
+  "sections": [
+    {
+      "title": "地形 ― 陸",
+      "title_vi": "Địa hình: đất liền",
+      "words": [
+        {
+          "id": "g09-w1",
+          "w": "地形",
+          "r": "ちけい",
+          "hv": "ĐỊA HÌNH",
+          "pos": "名",
+          "vi": "địa hình",
+          "ex": {
+            "ja": "この{辺|あた}りは{山|やま}が{多|おお}く、{地形|ちけい}が{複雑|ふくざつ}だ。",
+            "vi": "Vùng này nhiều núi, địa hình phức tạp."
+          }
+        },
+        {
+          "id": "g09-w2",
+          "w": "陸",
+          "r": "りく",
+          "hv": "LỤC",
+          "pos": "名",
+          "vi": "đất liền, lục địa",
+          "key": true,
+          "ex": {
+            "ja": "{長|なが}い{船旅|ふなたび}を{終|お}えて、{久|ひさ}しぶりに{陸|りく}に{上|あ}がった。",
+            "vi": "Kết thúc chuyến đi biển dài, lâu lắm mới lên lại đất liền."
+          },
+          "col": [
+            "陸地",
+            "陸上競技",
+            "大陸",
+            "上陸（台風が上陸する）"
+          ],
+          "rel": "↔ 海"
+        },
+        {
+          "id": "g09-w3",
+          "w": "日本列島",
+          "r": "にほんれっとう",
+          "hv": "NHẬT BẢN LIỆT ĐẢO",
+          "pos": "名",
+          "vi": "quần đảo Nhật Bản",
+          "key": true,
+          "ex": {
+            "ja": "{日本列島|にほんれっとう}は{南北|なんぼく}に{細長|ほそなが}く、{地域|ちいき}によって{気候|きこう}が{大|おお}きく{違|ちが}う。",
+            "vi": "Quần đảo Nhật Bản dài và hẹp theo hướng Bắc–Nam nên khí hậu khác nhau nhiều tùy vùng."
+          },
+          "note": "列島 = chuỗi đảo xếp thành hàng (列 = hàng). 諸島（しょとう）= nhóm đảo nói chung."
+        },
+        {
+          "id": "g09-w4",
+          "w": "南北",
+          "r": "なんぼく",
+          "hv": "NAM BẮC",
+          "pos": "名",
+          "vi": "nam bắc",
+          "ex": {
+            "ja": "この{国|くに}は{南北|なんぼく}に{長|なが}い。",
+            "vi": "Đất nước này trải dài theo hướng Bắc–Nam."
+          },
+          "note": "Tiếng Nhật nói **南北** (nam trước), 東西 (đông trước)."
+        },
+        {
+          "id": "g09-w5",
+          "w": "半島",
+          "r": "はんとう",
+          "hv": "BÁN ĐẢO",
+          "pos": "名",
+          "vi": "bán đảo",
+          "key": true,
+          "ex": {
+            "ja": "{週末|しゅうまつ}は{車|くるま}で{伊豆|いず}{半島|はんとう}を{一周|いっしゅう}した。",
+            "vi": "Cuối tuần tôi lái xe một vòng bán đảo Izu."
+          }
+        },
+        {
+          "id": "g09-w6",
+          "w": "岬",
+          "r": "みさき",
+          "hv": "GIÁP",
+          "pos": "名",
+          "vi": "mũi đất (nhô ra biển)",
+          "key": true,
+          "ex": {
+            "ja": "{岬|みさき}の{先|さき}に{立|た}つ{白|しろ}い{灯台|とうだい}が、この{町|まち}のシンボルだ。",
+            "vi": "Ngọn hải đăng trắng ở đầu mũi đất là biểu tượng của thị trấn này."
+          },
+          "note": "Là **phần đầu nhọn** đất nhô ra biển; 半島 là cả **khối** đất lớn nhô ra."
+        },
+        {
+          "id": "g09-w7",
+          "w": "なだらか",
+          "r": "なだらか",
+          "hv": "",
+          "pos": "な形",
+          "vi": "thoai thoải (dốc); êm, trôi chảy",
+          "key": true,
+          "ex": {
+            "ja": "{牧場|ぼくじょう}には、なだらかな{丘|おか}がどこまでも{続|つづ}いていた。",
+            "vi": "Ở nông trại, những ngọn đồi thoai thoải nối dài bất tận."
+          },
+          "col": [
+            "なだらかな坂",
+            "なだらかな丘",
+            "なだらかな曲線"
+          ],
+          "rel": "↔ 険しい・急な"
+        },
+        {
+          "id": "g09-w8",
+          "w": "丘",
+          "r": "おか",
+          "hv": "KHÂU",
+          "pos": "名",
+          "vi": "ngọn đồi",
+          "key": true,
+          "ex": {
+            "ja": "{丘|おか}の{上|うえ}の{公園|こうえん}から、{港|みなと}の{夜景|やけい}がよく{見|み}える。",
+            "vi": "Từ công viên trên đồi có thể ngắm rõ cảnh đêm của bến cảng."
+          },
+          "note": "Thấp hơn và thoải hơn 山."
+        },
+        {
+          "id": "g09-w9",
+          "w": "険しい",
+          "r": "けわしい",
+          "hv": "HIỂM",
+          "pos": "い形",
+          "vi": "dốc đứng, hiểm trở; (nét mặt) nghiêm nghị; (con đường phía trước) gian nan",
+          "key": true,
+          "senses": [
+            {
+              "vi": "dốc đứng, hiểm trở",
+              "ex": {
+                "ja": "{頂上|ちょうじょう}{近|ちか}くは{岩|いわ}だらけの{険|けわ}しい{道|みち}が{続|つづ}く。",
+                "vi": "Gần đỉnh là con đường hiểm trở toàn đá."
+              }
+            },
+            {
+              "vi": "(nét mặt) căng thẳng, nghiêm nghị",
+              "ex": {
+                "ja": "{報告|ほうこく}を{聞|き}いた{部長|ぶちょう}は、{険|けわ}しい{顔|かお}になった。",
+                "vi": "Nghe báo cáo xong, trưởng phòng mặt mày nghiêm lại."
+              }
+            }
+          ],
+          "col": [
+            "険しい山",
+            "険しい表情",
+            "前途は険しい（con đường phía trước gian nan）"
+          ],
+          "rel": "≒ 急な ↔ なだらか",
+          "note": "Khác **厳しい**（きびしい: nghiêm khắc, khắc nghiệt — 厳しい先生, 寒さが厳しい). Địa hình dốc, hiểm → luôn là 険しい."
+        },
+        {
+          "id": "g09-w10",
+          "w": "頂上",
+          "r": "ちょうじょう",
+          "hv": "ĐỈNH THƯỢNG",
+          "pos": "名",
+          "vi": "đỉnh (núi)",
+          "key": true,
+          "ex": {
+            "ja": "{夜中|よなか}に{登|のぼ}り{始|はじ}めて、{頂上|ちょうじょう}で{日|ひ}の{出|で}を{見|み}た。",
+            "vi": "Bắt đầu leo từ nửa đêm và ngắm mặt trời mọc trên đỉnh núi."
+          },
+          "rel": "≒ 山頂 ↔ ふもと"
+        },
+        {
+          "id": "g09-w11",
+          "w": "ふもと",
+          "r": "ふもと",
+          "hv": "LỘC",
+          "pos": "名",
+          "vi": "chân núi",
+          "key": true,
+          "ex": {
+            "ja": "{山|やま}のふもとに{小|ちい}さな{温泉|おんせん}{旅館|りょかん}がある。",
+            "vi": "Dưới chân núi có một nhà trọ suối nước nóng nhỏ."
+          },
+          "rel": "↔ 頂上",
+          "note": "Kanji: 麓 (thường viết hiragana)."
+        },
+        {
+          "id": "g09-w12",
+          "w": "盆地",
+          "r": "ぼんち",
+          "hv": "BỒN ĐỊA",
+          "pos": "名",
+          "vi": "lòng chảo (vùng đất trũng có núi bao quanh)",
+          "key": true,
+          "ex": {
+            "ja": "{盆地|ぼんち}は{風|かぜ}が{通|とお}りにくいので、{夏|なつ}は{暑|あつ}く{冬|ふゆ}は{寒|さむ}い。",
+            "vi": "Vùng lòng chảo ít gió lùa nên mùa hè nóng, mùa đông lạnh."
+          },
+          "note": "盆 = cái khay → hình dung **cái khay** có vành núi bao quanh. Kyoto, Nara là các 盆地 nổi tiếng."
+        },
+        {
+          "id": "g09-w13",
+          "w": "平野",
+          "r": "へいや",
+          "hv": "BÌNH DÃ",
+          "pos": "名",
+          "vi": "đồng bằng",
+          "key": true,
+          "ex": {
+            "ja": "{広|ひろ}い{平野|へいや}には{田|た}んぼがどこまでも{広|ひろ}がっている。",
+            "vi": "Trên đồng bằng rộng lớn, ruộng lúa trải dài tít tắp."
+          },
+          "col": [
+            "関東平野"
+          ]
+        },
+        {
+          "id": "g09-w14",
+          "w": "谷",
+          "r": "たに",
+          "hv": "CỐC",
+          "pos": "名",
+          "vi": "thung lũng, khe núi",
+          "key": true,
+          "ex": {
+            "ja": "{吊|つ}り{橋|ばし}の{上|うえ}から{深|ふか}い{谷|たに}を{見下|みお}ろすと、{足|あし}がすくんだ。",
+            "vi": "Nhìn xuống thung lũng sâu từ trên cầu treo, tôi run cả chân."
+          },
+          "rel": "↔ 山・峰"
+        },
+        {
+          "id": "g09-w15",
+          "w": "滝",
+          "r": "たき",
+          "hv": "LANG",
+          "pos": "名",
+          "vi": "thác nước",
+          "key": true,
+          "ex": {
+            "ja": "{雨|あめ}の{翌日|よくじつ}は{水|みず}の{量|りょう}が{増|ふ}えて、{滝|たき}の{音|おと}がいっそう{大|おお}きくなる。",
+            "vi": "Ngày sau cơn mưa nước nhiều hơn, tiếng thác càng lớn."
+          },
+          "col": [
+            "滝が流れ落ちる",
+            "滝のような汗（mồ hôi như tắm）"
+          ]
+        },
+        {
+          "id": "g09-w16",
+          "w": "流れ落ちる",
+          "r": "ながれおちる",
+          "hv": "LƯU LẠC",
+          "pos": "自動",
+          "vi": "chảy xuống, đổ xuống",
+          "ex": {
+            "ja": "{額|ひたい}から{汗|あせ}が{流|なが}れ{落|お}ちた。",
+            "vi": "Mồ hôi chảy ròng ròng từ trán xuống."
+          }
+        },
+        {
+          "id": "g09-w17",
+          "w": "湖",
+          "r": "みずうみ",
+          "hv": "HỒ",
+          "pos": "名",
+          "vi": "hồ (lớn, tự nhiên)",
+          "key": true,
+          "ex": {
+            "ja": "{風|かぜ}のない{朝|あさ}は、{湖|みずうみ}の{水面|すいめん}に{山|やま}がくっきりと{映|うつ}る。",
+            "vi": "Buổi sáng không gió, núi in bóng rõ nét trên mặt hồ."
+          },
+          "note": "Hồ nhỏ / ao → 池（いけ）; đầm lầy → 沼（ぬま）. 湖 trong từ ghép đọc こ: 琵琶湖（びわこ）."
+        },
+        {
+          "id": "g09-w18",
+          "w": "地下水",
+          "r": "ちかすい",
+          "hv": "ĐỊA HẠ THỦY",
+          "pos": "名",
+          "vi": "nước ngầm",
+          "key": true,
+          "ex": {
+            "ja": "この{町|まち}の{水道|すいどう}は、{山|やま}の{地下水|ちかすい}を{使|つか}っているのでおいしい。",
+            "vi": "Nước máy ở thị trấn này dùng nước ngầm từ núi nên rất ngon."
+          },
+          "col": [
+            "地下水がわく",
+            "地下水をくみ上げる"
+          ]
+        },
+        {
+          "id": "g09-w19",
+          "w": "わく",
+          "r": "わく",
+          "hv": "DŨNG",
+          "pos": "自動",
+          "vi": "(nước, suối) phun lên, trào ra từ dưới đất; (cảm xúc) trào dâng",
+          "key": true,
+          "senses": [
+            {
+              "vi": "(nước) phun lên, trào lên từ lòng đất",
+              "ex": {
+                "ja": "この{温泉|おんせん}は、{千年|せんねん}{以上|いじょう}{前|まえ}から{湧|わ}き{続|つづ}けている。",
+                "vi": "Suối nước nóng này đã phun lên liên tục từ hơn một ngàn năm trước."
+              }
+            },
+            {
+              "vi": "(cảm xúc, hứng thú, ý tưởng) nảy sinh, trào dâng",
+              "ex": {
+                "ja": "{実際|じっさい}に{現地|げんち}を{訪|おとず}れて、{歴史|れきし}への{興味|きょうみ}が{湧|わ}いてきた。",
+                "vi": "Thực sự đến tận nơi, tôi bắt đầu thấy hứng thú với lịch sử."
+              }
+            }
+          ],
+          "col": [
+            "地下水・温泉がわく",
+            "興味がわく",
+            "勇気がわく"
+          ],
+          "note": "Kanji: 湧く. Đồng âm 沸く（わく）= (nước) sôi: お湯が沸く."
+        },
+        {
+          "id": "g09-w20",
+          "w": "薄暗い",
+          "r": "うすぐらい",
+          "hv": "BẠC ÁM",
+          "pos": "い形",
+          "vi": "tối mờ mờ, lờ mờ",
+          "key": true,
+          "ex": {
+            "ja": "{夕方|ゆうがた}{五時|ごじ}を{過|す}ぎると、{冬|ふゆ}の{空|そら}はもう{薄暗|うすぐら}くなる。",
+            "vi": "Qua 5 giờ chiều, bầu trời mùa đông đã tối mờ mờ."
+          },
+          "col": [
+            "薄暗い森",
+            "薄暗い部屋"
+          ],
+          "note": "薄〜 = hơi, nhạt: 薄暗い (hơi tối), 薄明るい (hơi sáng). Tối hẳn → 真っ暗."
+        },
+        {
+          "id": "g09-w21",
+          "w": "森林",
+          "r": "しんりん",
+          "hv": "SÂM LÂM",
+          "pos": "名",
+          "vi": "rừng (rậm, rộng lớn)",
+          "key": true,
+          "ex": {
+            "ja": "{日本|にほん}は{国土|こくど}の{約|やく}三{分|ぶん}の二が{森林|しんりん}に{覆|おお}われている。",
+            "vi": "Khoảng hai phần ba lãnh thổ Nhật được rừng bao phủ."
+          },
+          "col": [
+            "森林浴（tắm rừng）",
+            "森林破壊"
+          ],
+          "note": "Trang trọng, quy mô lớn hơn 森・林."
+        },
+        {
+          "id": "g09-w22",
+          "w": "砂",
+          "r": "すな",
+          "hv": "SA",
+          "pos": "名",
+          "vi": "cát",
+          "key": true,
+          "ex": {
+            "ja": "{子|こ}どもたちは{浜辺|はまべ}で{砂|すな}の{城|しろ}を{作|つく}って{遊|あそ}んでいる。",
+            "vi": "Bọn trẻ đang chơi xây lâu đài cát trên bãi biển."
+          },
+          "col": [
+            "砂浜",
+            "砂ぼこり"
+          ]
+        },
+        {
+          "id": "g09-w23",
+          "w": "泥",
+          "r": "どろ",
+          "hv": "NÊ",
+          "pos": "名",
+          "vi": "bùn",
+          "key": true,
+          "ex": {
+            "ja": "{田植|たう}えの{体験|たいけん}で、{子|こ}どもたちは{泥|どろ}だらけになった。",
+            "vi": "Trải nghiệm cấy lúa khiến bọn trẻ lấm lem bùn đất."
+          },
+          "col": [
+            "泥だらけ",
+            "泥棒（どろぼう: kẻ trộm）"
+          ]
+        },
+        {
+          "id": "g09-w24",
+          "w": "地盤",
+          "r": "じばん",
+          "hv": "ĐỊA BÀN",
+          "pos": "名",
+          "vi": "nền đất; (chính trị) địa bàn, cơ sở ủng hộ",
+          "key": true,
+          "ex": {
+            "ja": "{大|おお}きな{地震|じしん}の{後|あと}、{海|うみ}に{近|ちか}い{地域|ちいき}では{地盤|じばん}が{沈|しず}んだ。",
+            "vi": "Sau trận động đất lớn, nền đất ở khu vực gần biển bị lún."
+          },
+          "col": [
+            "地盤が弱い・軟らかい",
+            "地盤沈下"
+          ]
+        },
+        {
+          "id": "g09-w25",
+          "w": "砂漠",
+          "r": "さばく",
+          "hv": "SA MẠC",
+          "pos": "名",
+          "vi": "sa mạc",
+          "key": true,
+          "ex": {
+            "ja": "{砂漠|さばく}では{昼|ひる}と{夜|よる}の{気温|きおん}の{差|さ}が{非常|ひじょう}に{大|おお}きい。",
+            "vi": "Ở sa mạc, chênh lệch nhiệt độ ngày và đêm rất lớn."
+          },
+          "col": [
+            "砂漠化（sa mạc hóa）"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "地形 ― 海",
+      "title_vi": "Địa hình: biển",
+      "words": [
+        {
+          "id": "g09-w26",
+          "w": "沖",
+          "r": "おき",
+          "hv": "XUNG",
+          "pos": "名",
+          "vi": "ngoài khơi (vùng biển xa bờ)",
+          "key": true,
+          "ex": {
+            "ja": "{地震|じしん}の{震源|しんげん}は{東北|とうほく}{地方|ちほう}の{沖|おき}だった。",
+            "vi": "Tâm chấn động đất nằm ngoài khơi vùng Tohoku."
+          },
+          "col": [
+            "沖に出る",
+            "〜沖",
+            "沖合（おきあい）"
+          ],
+          "rel": "↔ 岸"
+        },
+        {
+          "id": "g09-w27",
+          "w": "岸",
+          "r": "きし",
+          "hv": "NGẠN",
+          "pos": "名",
+          "vi": "bờ (sông, biển, hồ)",
+          "key": true,
+          "ex": {
+            "ja": "{向|む}こう{岸|ぎし}まで{泳|およ}いで{渡|わた}るのは、{思|おも}ったより{大変|たいへん}だった。",
+            "vi": "Bơi sang bờ bên kia vất vả hơn tôi nghĩ."
+          },
+          "col": [
+            "岸に戻る",
+            "川岸（かわぎし）",
+            "海岸",
+            "向こう岸"
+          ],
+          "rel": "↔ 沖",
+          "note": "Trong từ ghép biến âm thành **ぎし**: 川岸, 向こう岸."
+        },
+        {
+          "id": "g09-w28",
+          "w": "湾",
+          "r": "わん",
+          "hv": "LOAN",
+          "pos": "名",
+          "vi": "vịnh",
+          "key": true,
+          "ex": {
+            "ja": "{湾|わん}の{中|なか}は{波|なみ}が{穏|おだ}やかなので、{昔|むかし}から{漁業|ぎょぎょう}が{盛|さか}んだ。",
+            "vi": "Trong vịnh sóng êm nên từ xưa nghề cá đã phát triển."
+          },
+          "col": [
+            "東京湾",
+            "湾内",
+            "港湾"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "天気",
+      "title_vi": "Thời tiết",
+      "words": [
+        {
+          "id": "g09-w29",
+          "w": "温暖",
+          "r": "おんだん",
+          "hv": "ÔN NOÃN",
+          "pos": "な形",
+          "vi": "ấm áp, ôn hòa (khí hậu)",
+          "key": true,
+          "ex": {
+            "ja": "{地球|ちきゅう}{温暖化|おんだんか}の{影響|えいきょう}で、{桜|さくら}の{開花|かいか}が{年々|ねんねん}{早|はや}くなっている。",
+            "vi": "Do ảnh hưởng của sự nóng lên toàn cầu, hoa anh đào nở sớm hơn mỗi năm."
+          },
+          "col": [
+            "温暖な気候",
+            "温暖化"
+          ],
+          "rel": "↔ 寒冷（かんれい）",
+          "note": "Dùng cho **khí hậu, vùng đất** (văn viết). Cảm giác ấm trong ngày → 暖かい."
+        },
+        {
+          "id": "g09-w30",
+          "w": "高気圧",
+          "r": "こうきあつ",
+          "hv": "CAO KHÍ ÁP",
+          "pos": "名",
+          "vi": "áp cao",
+          "key": true,
+          "ex": {
+            "ja": "{明日|あした}は{高気圧|こうきあつ}に{覆|おお}われて、{全国的|ぜんこくてき}に{晴|は}れるでしょう。",
+            "vi": "Ngày mai bị áp cao bao phủ, trời sẽ nắng trên cả nước."
+          },
+          "rel": "↔ 低気圧",
+          "note": "高気圧 → trời **nắng**; 低気圧 → trời **mưa**, có thể thành bão. Câu dự báo thời tiết hay gặp."
+        },
+        {
+          "id": "g09-w31",
+          "w": "あらし",
+          "r": "あらし",
+          "hv": "LAM",
+          "pos": "名",
+          "vi": "bão tố, giông bão (mưa to gió lớn)",
+          "key": true,
+          "ex": {
+            "ja": "{夜中|よなか}にあらしが{来|き}て、{庭|にわ}の{木|き}が{倒|たお}れてしまった。",
+            "vi": "Nửa đêm có giông bão, cây trong vườn bị đổ."
+          },
+          "col": [
+            "あらしが吹く",
+            "あらしが過ぎる",
+            "嵐の前の静けさ"
+          ],
+          "note": "Kanji: 嵐. 台風 là bão nhiệt đới (thuật ngữ khí tượng); あらし là cách nói chung cho mưa gió dữ dội."
+        },
+        {
+          "id": "g09-w32",
+          "w": "霧",
+          "r": "きり",
+          "hv": "VỤ",
+          "pos": "名",
+          "vi": "sương mù",
+          "key": true,
+          "ex": {
+            "ja": "{濃|こ}い{霧|きり}のため、{高速|こうそく}{道路|どうろ}の{一部|いちぶ}が{通行止|つうこうど}めになった。",
+            "vi": "Do sương mù dày đặc, một đoạn đường cao tốc bị cấm lưu thông."
+          },
+          "col": [
+            "霧が出る・かかる",
+            "霧が晴れる",
+            "霧雨"
+          ],
+          "note": "霧 = sương mù trong không khí; 霜 = sương muối đọng trên mặt đất (冬); 露（つゆ）= giọt sương."
+        },
+        {
+          "id": "g09-w33",
+          "w": "快晴",
+          "r": "かいせい",
+          "hv": "KHOÁI TÌNH",
+          "pos": "名",
+          "vi": "trời quang đãng, nắng đẹp không một gợn mây",
+          "key": true,
+          "ex": {
+            "ja": "{運動会|うんどうかい}の{日|ひ}は、{雲|くも}{一|ひと}つない{快晴|かいせい}だった。",
+            "vi": "Ngày hội thể thao trời quang không một gợn mây."
+          },
+          "note": "Mức cao nhất của 晴れ (gần như không có mây)."
+        },
+        {
+          "id": "g09-w34",
+          "w": "夕立",
+          "r": "ゆうだち",
+          "hv": "TỊCH LẬP",
+          "pos": "名",
+          "vi": "mưa rào buổi chiều (mùa hè, đến nhanh tạnh nhanh)",
+          "key": true,
+          "ex": {
+            "ja": "{夏|なつ}の{午後|ごご}は{夕立|ゆうだち}が{多|おお}いので、{折|お}りたたみの{傘|かさ}を{持|も}ち{歩|ある}いている。",
+            "vi": "Chiều hè hay có mưa rào nên tôi luôn mang theo ô gấp."
+          },
+          "col": [
+            "夕立になる",
+            "夕立に遭う"
+          ],
+          "rel": "≒ にわか雨",
+          "note": "Mưa rào bất chợt vào **chiều mùa hè**, thường kèm sấm. にわか雨 thì bất kỳ giờ, mùa nào."
+        }
+      ]
+    },
+    {
+      "title": "風景",
+      "title_vi": "Phong cảnh",
+      "words": [
+        {
+          "id": "g09-w35",
+          "w": "眺める",
+          "r": "ながめる",
+          "hv": "THIẾU",
+          "pos": "他動",
+          "vi": "ngắm nhìn (cảnh vật ở xa, một cách thong thả)",
+          "key": true,
+          "ex": {
+            "ja": "{縁側|えんがわ}に{座|すわ}って、{祖父|そふ}と{庭|にわ}の{雪|ゆき}を{眺|なが}めた。",
+            "vi": "Tôi ngồi ở hiên nhà ngắm tuyết trong vườn cùng ông."
+          },
+          "col": [
+            "景色を眺める",
+            "ぼんやり眺める"
+          ],
+          "note": "眺める = nhìn **toàn cảnh, thong thả, lâu**. Nhìn kỹ chữ nhỏ → 読む・見る; nhìn chằm chằm một điểm → 見つめる. Tình cờ nhìn thấy ai đó ở xa → 「{見|み}かける」, không phải 眺める (✗ {駅|えき}で{先生|せんせい}を{眺|なが}めた → ○ {見|み}かけた)."
+        },
+        {
+          "id": "g09-w36",
+          "w": "眺め",
+          "r": "ながめ",
+          "hv": "THIẾU",
+          "pos": "名",
+          "vi": "tầm nhìn, cảnh nhìn ra",
+          "key": true,
+          "ex": {
+            "ja": "{最上階|さいじょうかい}のレストランは{眺|なが}めがよく、{夜景|やけい}が{一望|いちぼう}できる。",
+            "vi": "Nhà hàng ở tầng trên cùng có tầm nhìn đẹp, ngắm trọn cảnh đêm."
+          },
+          "col": [
+            "眺めがいい",
+            "すばらしい眺め"
+          ],
+          "rel": "≒ 景色・見晴らし"
+        },
+        {
+          "id": "g09-w37",
+          "w": "見上げる",
+          "r": "みあげる",
+          "hv": "KIẾN THƯỢNG",
+          "pos": "他動",
+          "vi": "ngước nhìn lên",
+          "key": true,
+          "ex": {
+            "ja": "{夜空|よぞら}を{見上|みあ}げると、{満天|まんてん}の{星|ほし}が{輝|かがや}いていた。",
+            "vi": "Ngước lên bầu trời đêm, cả bầu trời đầy sao lấp lánh."
+          },
+          "rel": "↔ 見下ろす",
+          "note": "見上げた〜 còn có nghĩa “đáng khâm phục”: 「{見上|みあ}げた{心|こころ}がけだ」."
+        },
+        {
+          "id": "g09-w38",
+          "w": "見下ろす",
+          "r": "みおろす",
+          "hv": "KIẾN HẠ",
+          "pos": "他動",
+          "vi": "nhìn xuống (từ chỗ cao)",
+          "key": true,
+          "ex": {
+            "ja": "{展望台|てんぼうだい}から{見下|みお}ろすと、{車|くるま}がおもちゃのように{小|ちい}さく{見|み}えた。",
+            "vi": "Nhìn xuống từ đài quan sát, ô tô trông nhỏ như đồ chơi."
+          },
+          "rel": "↔ 見上げる",
+          "note": "Khác **見下す**（みくだす）= coi thường người khác."
+        },
+        {
+          "id": "g09-w39",
+          "w": "地平線",
+          "r": "ちへいせん",
+          "hv": "ĐỊA BÌNH TUYẾN",
+          "pos": "名",
+          "vi": "đường chân trời (trên đất liền)",
+          "key": true,
+          "ex": {
+            "ja": "{草原|そうげん}の{向|む}こうの{地平線|ちへいせん}から、{朝日|あさひ}がゆっくり{昇|のぼ}ってきた。",
+            "vi": "Mặt trời buổi sáng từ từ nhô lên từ đường chân trời bên kia thảo nguyên."
+          }
+        },
+        {
+          "id": "g09-w40",
+          "w": "水平線",
+          "r": "すいへいせん",
+          "hv": "THỦY BÌNH TUYẾN",
+          "pos": "名",
+          "vi": "đường chân trời (trên biển)",
+          "key": true,
+          "ex": {
+            "ja": "{水平線|すいへいせん}の{上|うえ}に、{小|ちい}さな{船|ふね}の{影|かげ}が{見|み}えた。",
+            "vi": "Trên đường chân trời ngoài biển thấp thoáng bóng một con thuyền nhỏ."
+          },
+          "note": "Biển → **水平線**; đất liền (đồng cỏ, sa mạc) → **地平線**."
+        },
+        {
+          "id": "g09-w41",
+          "w": "沈む",
+          "r": "しずむ",
+          "hv": "TRẦM",
+          "pos": "自動",
+          "vi": "chìm; (mặt trời) lặn; (tâm trạng) buồn, chùng xuống",
+          "key": true,
+          "senses": [
+            {
+              "vi": "chìm xuống; (mặt trời, mặt trăng) lặn",
+              "ex": {
+                "ja": "{夕日|ゆうひ}が{山|やま}の{向|む}こうに{沈|しず}むと、{急|きゅう}に{寒|さむ}くなった。",
+                "vi": "Mặt trời vừa lặn sau núi thì trời trở lạnh hẳn."
+              }
+            },
+            {
+              "vi": "(tâm trạng) buồn bã, chùng xuống",
+              "ex": {
+                "ja": "{試験|しけん}に{落|お}ちて、{気持|きも}ちが{沈|しず}んでいる。",
+                "vi": "Thi trượt nên tâm trạng tôi đang chùng xuống."
+              }
+            }
+          ],
+          "col": [
+            "日が沈む",
+            "船が沈む",
+            "気分が沈む"
+          ],
+          "rel": "↔ 昇る（日が昇る）・浮かぶ"
+        },
+        {
+          "id": "g09-w42",
+          "w": "暮れる",
+          "r": "くれる",
+          "hv": "MỘ",
+          "pos": "自動",
+          "vi": "(ngày) tối dần, hết ngày; (năm) sắp hết",
+          "key": true,
+          "ex": {
+            "ja": "{日|ひ}が{暮|く}れる{前|まえ}に{山|やま}を{下|お}りないと{危|あぶ}ない。",
+            "vi": "Phải xuống núi trước khi trời tối, không thì nguy hiểm."
+          },
+          "col": [
+            "日が暮れる",
+            "年が暮れる",
+            "途方に暮れる（bế tắc, không biết làm sao）"
+          ],
+          "rel": "↔ 明ける（夜が明ける）",
+          "note": "Chủ ngữ là **日・年** (ngày, năm), không phải 太陽: không nói 「夕日が暮れる」. Mặt trời → 沈む."
+        },
+        {
+          "id": "g09-w43",
+          "w": "真っ暗",
+          "r": "まっくら",
+          "hv": "CHÂN ÁM",
+          "pos": "な形・名",
+          "vi": "tối om, tối đen như mực",
+          "key": true,
+          "ex": {
+            "ja": "{台風|たいふう}で{停電|ていでん}し、{家|いえ}の{中|なか}が{真|ま}っ{暗|くら}になった。",
+            "vi": "Bão làm mất điện, trong nhà tối om."
+          },
+          "note": "暗 đọc **くら** (biến âm của くらい). Nghĩa bóng: 「{目|め}の{前|まえ}が{真|ま}っ{暗|くら}になる」 = tuyệt vọng."
+        }
+      ]
+    },
+    {
+      "title": "四季",
+      "title_vi": "Bốn mùa",
+      "words": [
+        {
+          "id": "g09-w44",
+          "w": "新年度",
+          "r": "しんねんど",
+          "hv": "TÂN NIÊN ĐỘ",
+          "pos": "名",
+          "vi": "năm tài chính / năm học mới (ở Nhật bắt đầu tháng 4)",
+          "key": true,
+          "ex": {
+            "ja": "{新年度|しんねんど}から、{市|し}の{図書館|としょかん}の{開館|かいかん}{時間|じかん}が{延|の}びる。",
+            "vi": "Từ năm tài chính mới, giờ mở cửa thư viện thành phố sẽ kéo dài."
+          }
+        },
+        {
+          "id": "g09-w45",
+          "w": "新学期",
+          "r": "しんがっき",
+          "hv": "TÂN HỌC KỲ",
+          "pos": "名",
+          "vi": "học kỳ mới",
+          "key": true,
+          "ex": {
+            "ja": "{新学期|しんがっき}が{始|はじ}まる{前|まえ}に、{文房具|ぶんぼうぐ}をそろえておこう。",
+            "vi": "Hãy chuẩn bị đủ văn phòng phẩm trước khi học kỳ mới bắt đầu."
+          }
+        },
+        {
+          "id": "g09-w46",
+          "w": "シーズン",
+          "r": "しーずん",
+          "hv": "",
+          "pos": "名",
+          "vi": "mùa (thời điểm thích hợp cho hoạt động gì)",
+          "key": true,
+          "ex": {
+            "ja": "スキーのシーズンになると、この{村|むら}の{人口|じんこう}は{倍|ばい}になる。",
+            "vi": "Đến mùa trượt tuyết, dân số làng này tăng gấp đôi."
+          },
+          "col": [
+            "花見のシーズン",
+            "シーズンオフ（mùa vắng khách）"
+          ]
+        },
+        {
+          "id": "g09-w47",
+          "w": "梅雨",
+          "r": "つゆ",
+          "hv": "MAI VŨ",
+          "pos": "名",
+          "vi": "mùa mưa (tháng 6–7 ở Nhật)",
+          "key": true,
+          "ex": {
+            "ja": "{梅雨|つゆ}の{間|あいだ}は{洗濯物|せんたくもの}が{乾|かわ}かなくて{困|こま}る。",
+            "vi": "Trong mùa mưa quần áo phơi không khô, thật phiền."
+          },
+          "col": [
+            "梅雨入り",
+            "梅雨明け",
+            "梅雨が明ける"
+          ],
+          "note": "Đọc **つゆ** (cũng đọc ばいう trong văn khí tượng: 梅雨前線 ばいうぜんせん). Đây là cách đọc đặc biệt (熟字訓)."
+        },
+        {
+          "id": "g09-w48",
+          "w": "明ける",
+          "r": "あける",
+          "hv": "MINH",
+          "pos": "自動",
+          "vi": "(đêm) sáng ra; (năm mới) bắt đầu; (mùa mưa, thời kỳ) kết thúc",
+          "key": true,
+          "ex": {
+            "ja": "{夜|よ}が{明|あ}けるまで、{友達|ともだち}と{話|はな}し{続|つづ}けた。",
+            "vi": "Tôi nói chuyện với bạn mãi đến khi trời sáng."
+          },
+          "col": [
+            "夜が明ける",
+            "年が明ける",
+            "梅雨が明ける",
+            "休み明け"
+          ],
+          "rel": "↔ 暮れる",
+          "note": "Hình ảnh chung: **một giai đoạn kết thúc, sang giai đoạn mới** (đêm → ngày, năm cũ → năm mới, mùa mưa → hè). Mở cửa là **開ける**, không phải 明ける."
+        },
+        {
+          "id": "g09-w49",
+          "w": "湿度",
+          "r": "しつど",
+          "hv": "THẤP ĐỘ",
+          "pos": "名",
+          "vi": "độ ẩm",
+          "key": true,
+          "ex": {
+            "ja": "{湿度|しつど}が{低|ひく}い{冬|ふゆ}は、{肌|はだ}や{喉|のど}が{乾燥|かんそう}しやすい。",
+            "vi": "Mùa đông độ ẩm thấp nên da và họng dễ bị khô."
+          },
+          "col": [
+            "湿度が高い",
+            "湿気（しっけ）"
+          ]
+        },
+        {
+          "id": "g09-w50",
+          "w": "蒸し暑い",
+          "r": "むしあつい",
+          "hv": "CHƯNG THỬ",
+          "pos": "い形",
+          "vi": "oi bức, nóng ẩm",
+          "key": true,
+          "ex": {
+            "ja": "{風|かぜ}もなく{蒸|む}し{暑|あつ}い{夜|よる}で、なかなか{眠|ねむ}れなかった。",
+            "vi": "Đêm oi bức không chút gió, mãi không ngủ được."
+          },
+          "note": "蒸す = hấp → nóng **như trong nồi hấp** (nóng + ẩm). Khác 暑苦しい (nóng ngột ngạt, cũng dùng cho người/quần áo trông nóng nực)."
+        },
+        {
+          "id": "g09-w51",
+          "w": "日差し",
+          "r": "ひざし",
+          "hv": "NHẬT SAI",
+          "pos": "名",
+          "vi": "ánh nắng (chiếu xuống)",
+          "key": true,
+          "ex": {
+            "ja": "{夏|なつ}の{強|つよ}い{日差|ひざ}しから{肌|はだ}を{守|まも}るため、{日焼|ひや}け{止|ど}めを{塗|ぬ}る。",
+            "vi": "Tôi bôi kem chống nắng để bảo vệ da khỏi ánh nắng gay gắt mùa hè."
+          },
+          "col": [
+            "日差しが強い",
+            "日差しがまぶしい",
+            "春の日差し"
+          ]
+        },
+        {
+          "id": "g09-w52",
+          "w": "まぶしい",
+          "r": "まぶしい",
+          "hv": "",
+          "pos": "い形",
+          "vi": "chói, chói mắt; rực rỡ (nụ cười, tuổi trẻ)",
+          "key": true,
+          "ex": {
+            "ja": "トンネルを{抜|ぬ}けると、{雪|ゆき}に{反射|はんしゃ}した{光|ひかり}がまぶしかった。",
+            "vi": "Ra khỏi đường hầm, ánh sáng phản chiếu từ tuyết chói chang."
+          },
+          "col": [
+            "まぶしい日差し",
+            "まぶしい笑顔"
+          ],
+          "note": "Kanji: 眩しい. Ánh sáng **mạnh đến mức khó mở mắt**; 明るい chỉ là sáng sủa."
+        },
+        {
+          "id": "g09-w53",
+          "w": "かく",
+          "r": "かく",
+          "hv": "",
+          "pos": "他動",
+          "vi": "(汗を) đổ mồ hôi; (恥を) bị bẽ mặt; (いびきを) ngáy",
+          "key": true,
+          "ex": {
+            "ja": "{少|すこ}し{歩|ある}いただけで、{背中|せなか}にびっしょり{汗|あせ}をかいた。",
+            "vi": "Chỉ đi bộ một chút mà lưng ướt đẫm mồ hôi."
+          },
+          "col": [
+            "汗をかく",
+            "恥をかく",
+            "いびきをかく"
+          ],
+          "note": "Không phải 書く (viết) hay 描く (vẽ). Kanji 掻く (thường viết hiragana). Không nói 「汗を出す」."
+        },
+        {
+          "id": "g09-w54",
+          "w": "紅葉",
+          "r": "こうよう・もみじ",
+          "hv": "HỒNG DIỆP",
+          "pos": "名・自動",
+          "vi": "lá đỏ mùa thu; (もみじ) cây phong",
+          "key": true,
+          "ex": {
+            "ja": "{十一月|じゅういちがつ}になると、{寺|てら}の{庭|にわ}の{紅葉|こうよう}を{見|み}に{大勢|おおぜい}の{人|ひと}が{訪|おとず}れる。",
+            "vi": "Đến tháng 11, rất đông người đến ngắm lá đỏ trong vườn chùa."
+          },
+          "col": [
+            "紅葉狩り（もみじがり: đi ngắm lá đỏ）",
+            "紅葉する（lá chuyển màu）"
+          ],
+          "note": "**こうよう** = hiện tượng lá đổi màu (dùng được với する); **もみじ** = lá phong / cây phong, cách nói văn vẻ."
+        },
+        {
+          "id": "g09-w55",
+          "w": "果実",
+          "r": "かじつ",
+          "hv": "QUẢ THỰC",
+          "pos": "名",
+          "vi": "quả, trái (cách nói trang trọng, khoa học)",
+          "key": true,
+          "ex": {
+            "ja": "このジュースには、{果実|かじつ}が{三十|さんじゅう}パーセント{含|ふく}まれている。",
+            "vi": "Nước ép này chứa 30% thịt quả."
+          },
+          "col": [
+            "果実が実る",
+            "果実酒"
+          ],
+          "rel": "≒ 果物（くだもの）・実（み）"
+        },
+        {
+          "id": "g09-w56",
+          "w": "実る",
+          "r": "みのる",
+          "hv": "THỰC",
+          "pos": "自動",
+          "vi": "(cây) ra quả, kết trái; (nỗ lực) đơm hoa kết trái",
+          "key": true,
+          "senses": [
+            {
+              "vi": "(cây, lúa) ra quả, chín",
+              "ex": {
+                "ja": "{秋|あき}になると、{庭|にわ}の{柿|かき}の{木|き}にたくさんの{実|み}が{実|みの}る。",
+                "vi": "Đến mùa thu, cây hồng trong vườn trĩu quả."
+              }
+            },
+            {
+              "vi": "(nỗ lực, tình yêu) có kết quả",
+              "ex": {
+                "ja": "{三年間|さんねんかん}の{努力|どりょく}が{実|みの}り、ついに{資格|しかく}を{取|と}ることができた。",
+                "vi": "Nỗ lực ba năm đã đơm hoa kết trái, cuối cùng tôi đã lấy được chứng chỉ."
+              }
+            }
+          ],
+          "col": [
+            "果実が実る",
+            "稲が実る",
+            "努力が実る",
+            "恋が実る"
+          ]
+        },
+        {
+          "id": "g09-w57",
+          "w": "稲",
+          "r": "いね",
+          "hv": "ĐẠO",
+          "pos": "名",
+          "vi": "cây lúa",
+          "key": true,
+          "ex": {
+            "ja": "{黄金色|こがねいろ}に{実|みの}った{稲|いね}が、{風|かぜ}に{揺|ゆ}れている。",
+            "vi": "Những cây lúa chín vàng óng đang đung đưa trong gió."
+          },
+          "note": "Cây lúa = 稲, hạt thóc/gạo chưa nấu = 米, cơm = ご飯. Đừng nhầm với 縄 (dây thừng)."
+        },
+        {
+          "id": "g09-w58",
+          "w": "刈る",
+          "r": "かる",
+          "hv": "NGẢI",
+          "pos": "他動",
+          "vi": "gặt, cắt (cỏ, lúa, tóc — cắt hàng loạt sát gốc)",
+          "key": true,
+          "ex": {
+            "ja": "{週末|しゅうまつ}は{庭|にわ}の{草|くさ}を{刈|か}るのに{半日|はんにち}かかった。",
+            "vi": "Cuối tuần cắt cỏ trong vườn mất nửa ngày."
+          },
+          "col": [
+            "稲を刈る",
+            "草を刈る",
+            "髪を短く刈る",
+            "稲刈り"
+          ],
+          "note": "Đồng âm: 狩る（かる）= săn bắt (紅葉狩り là “săn” lá đỏ = đi ngắm lá đỏ)."
+        },
+        {
+          "id": "g09-w59",
+          "w": "初雪",
+          "r": "はつゆき",
+          "hv": "SƠ TUYẾT",
+          "pos": "名",
+          "vi": "trận tuyết đầu mùa",
+          "key": true,
+          "ex": {
+            "ja": "{今年|ことし}の{初雪|はつゆき}は、{例年|れいねん}より{十日|とおか}ほど{早|はや}かった。",
+            "vi": "Tuyết đầu mùa năm nay đến sớm hơn mọi năm khoảng mười ngày."
+          },
+          "col": [
+            "初雪が降る"
+          ]
+        },
+        {
+          "id": "g09-w60",
+          "w": "初霜",
+          "r": "はつしも",
+          "hv": "SƠ SƯƠNG",
+          "pos": "名",
+          "vi": "sương muối đầu mùa",
+          "key": true,
+          "ex": {
+            "ja": "{初霜|はつしも}が{降|お}りる{前|まえ}に、{畑|はたけ}の{野菜|やさい}を{収穫|しゅうかく}しておいた。",
+            "vi": "Tôi đã thu hoạch rau ngoài vườn trước khi sương muối đầu mùa xuống."
+          },
+          "col": [
+            "霜が降りる"
+          ],
+          "note": "Động từ đi với 霜 là **降りる**（おりる）, không phải 降る（ふる）như tuyết."
+        },
+        {
+          "id": "g09-w61",
+          "w": "吹雪",
+          "r": "ふぶき",
+          "hv": "XUY TUYẾT",
+          "pos": "名",
+          "vi": "bão tuyết",
+          "key": true,
+          "ex": {
+            "ja": "{激|はげ}しい{吹雪|ふぶき}で{前|まえ}が{見|み}えず、{車|くるま}を{止|と}めるしかなかった。",
+            "vi": "Bão tuyết dữ dội đến mức không nhìn thấy phía trước, đành phải dừng xe."
+          },
+          "col": [
+            "吹雪に遭う",
+            "桜吹雪（hoa anh đào rơi như tuyết）"
+          ],
+          "note": "Cách đọc đặc biệt **ふぶき** (熟字訓)."
+        },
+        {
+          "id": "g09-w62",
+          "w": "遭う",
+          "r": "あう",
+          "hv": "TAO",
+          "pos": "自動",
+          "vi": "gặp phải (điều không may: tai nạn, thời tiết xấu)",
+          "ex": {
+            "ja": "{旅行|りょこう}{中|ちゅう}にひったくりに{遭|あ}って、{財布|さいふ}を{取|と}られた。",
+            "vi": "Trong chuyến đi tôi bị cướp giật, mất ví."
+          },
+          "col": [
+            "吹雪に遭う",
+            "事故に遭う",
+            "ひどい目に遭う"
+          ],
+          "note": "Gặp **người** → 会う; gặp **chuyện xấu** → 遭う."
+        },
+        {
+          "id": "g09-w63",
+          "w": "凍える",
+          "r": "こごえる",
+          "hv": "ĐÔNG",
+          "pos": "自動",
+          "vi": "(cơ thể) cóng, tê cóng vì lạnh",
+          "key": true,
+          "ex": {
+            "ja": "{雪山|ゆきやま}で{道|みち}に{迷|まよ}い、{凍|こご}えながら{一晩|ひとばん}を{過|す}ごした。",
+            "vi": "Lạc đường trên núi tuyết, tôi trải qua một đêm trong cái lạnh tê cóng."
+          },
+          "note": "Chủ ngữ là **người / cơ thể** (手足が凍える). Nước, thực phẩm đông cứng lại → **凍る**（こおる）／凍らせる. Cùng chữ 凍 nhưng khác cách đọc."
+        }
+      ]
+    },
+    {
+      "title": "語形成",
+      "title_vi": "Cấu tạo từ: tiền tố, hậu tố",
+      "words": [
+        {
+          "id": "g09-w64",
+          "w": "〜上げる",
+          "r": "〜あげる",
+          "hv": "THƯỢNG",
+          "pos": "接尾",
+          "vi": "(hướng) lên trên; … xong, hoàn tất",
+          "key": true,
+          "ex": {
+            "ja": "{一晩|ひとばん}でレポートを{書|か}き{上|あ}げた。",
+            "vi": "Tôi viết xong bản báo cáo chỉ trong một đêm."
+          },
+          "col": [
+            "見上げる",
+            "持ち上げる",
+            "取り上げる",
+            "書き上げる",
+            "仕上げる"
+          ]
+        },
+        {
+          "id": "g09-w65",
+          "w": "持ち上げる",
+          "r": "もちあげる",
+          "hv": "TRÌ THƯỢNG",
+          "pos": "他動",
+          "vi": "nhấc lên; tâng bốc",
+          "key": true,
+          "ex": {
+            "ja": "このソファーは{重|おも}くて、{二人|ふたり}でも{持|も}ち{上|あ}げられない。",
+            "vi": "Cái sofa này nặng, hai người cũng không nhấc lên nổi."
+          },
+          "note": "Nghĩa bóng: 「{部下|ぶか}に{持|も}ち{上|あ}げられて{気分|きぶん}がいい」 = được cấp dưới tâng bốc nên vui."
+        },
+        {
+          "id": "g09-w66",
+          "w": "取り上げる",
+          "r": "とりあげる",
+          "hv": "THỦ THƯỢNG",
+          "pos": "他動",
+          "vi": "đưa ra (bàn), đề cập; tịch thu",
+          "key": true,
+          "senses": [
+            {
+              "vi": "đưa ra bàn, đề cập, đưa tin",
+              "ex": {
+                "ja": "{地元|じもと}の{小|ちい}さなパン{屋|や}が、テレビ{番組|ばんぐみ}で{取|と}り{上|あ}げられた。",
+                "vi": "Tiệm bánh mì nhỏ ở địa phương đã được đưa lên một chương trình TV."
+              }
+            },
+            {
+              "vi": "tịch thu, lấy đi",
+              "ex": {
+                "ja": "{授業|じゅぎょう}{中|ちゅう}にゲームをしていたら、{先生|せんせい}に{取|と}り{上|あ}げられた。",
+                "vi": "Chơi game trong giờ học nên bị thầy tịch thu."
+              }
+            }
+          ],
+          "col": [
+            "話題に取り上げる",
+            "問題を取り上げる"
+          ]
+        },
+        {
+          "id": "g09-w67",
+          "w": "真っ〜",
+          "r": "まっ〜",
+          "hv": "CHÂN",
+          "pos": "接頭",
+          "vi": "hoàn toàn, thật sự (nhấn mạnh màu sắc, trạng thái)",
+          "key": true,
+          "ex": {
+            "ja": "{発表|はっぴょう}の{途中|とちゅう}で{内容|ないよう}を{忘|わす}れ、{頭|あたま}が{真|ま}っ{白|しろ}になった。",
+            "vi": "Giữa bài thuyết trình quên mất nội dung, đầu óc trống rỗng."
+          },
+          "col": [
+            "真っ暗",
+            "真っ黒",
+            "真っ白",
+            "真っ赤",
+            "真っ青",
+            "真っ先",
+            "真ん中",
+            "真夏"
+          ]
+        },
+        {
+          "id": "g09-w68",
+          "w": "真っ黒",
+          "r": "まっくろ",
+          "hv": "CHÂN HẮC",
+          "pos": "な形・名",
+          "vi": "đen thui, đen kịt",
+          "ex": {
+            "ja": "{夏休|なつやす}みの{間|あいだ}、{毎日|まいにち}{海|うみ}で{遊|あそ}んで{真|ま}っ{黒|くろ}に{日焼|ひや}けした。",
+            "vi": "Cả kỳ nghỉ hè ngày nào cũng chơi ở biển nên da cháy nắng đen thui."
+          }
+        },
+        {
+          "id": "g09-w69",
+          "w": "真っ白",
+          "r": "まっしろ",
+          "hv": "CHÂN BẠCH",
+          "pos": "な形・名",
+          "vi": "trắng tinh; (đầu óc) trống rỗng",
+          "ex": {
+            "ja": "{朝|あさ}{起|お}きると、{外|そと}は{一面|いちめん}{真|ま}っ{白|しろ}な{雪景色|ゆきげしき}だった。",
+            "vi": "Sáng thức dậy, bên ngoài là cả một vùng tuyết trắng xóa."
+          }
+        },
+        {
+          "id": "g09-w70",
+          "w": "真っ赤",
+          "r": "まっか",
+          "hv": "CHÂN XÍCH",
+          "pos": "な形・名",
+          "vi": "đỏ rực, đỏ ửng",
+          "ex": {
+            "ja": "{褒|ほ}められた{妹|いもうと}は、{恥|は}ずかしそうに{顔|かお}を{真|ま}っ{赤|か}にした。",
+            "vi": "Được khen, em gái tôi đỏ bừng mặt vì ngượng."
+          },
+          "note": "Đọc đặc biệt **まっか** (không phải まっあか)."
+        },
+        {
+          "id": "g09-w71",
+          "w": "真っ青",
+          "r": "まっさお",
+          "hv": "CHÂN THANH",
+          "pos": "な形・名",
+          "vi": "xanh thẳm; (mặt) tái xanh, tái mét",
+          "ex": {
+            "ja": "{財布|さいふ}がないことに{気|き}づいて、{彼|かれ}は{真|ま}っ{青|さお}になった。",
+            "vi": "Phát hiện mất ví, anh ấy mặt cắt không còn giọt máu."
+          },
+          "note": "Đọc đặc biệt **まっさお**. Cũng dùng cho bầu trời, biển xanh thẳm."
+        },
+        {
+          "id": "g09-w72",
+          "w": "新〜",
+          "r": "しん〜",
+          "hv": "TÂN",
+          "pos": "接頭",
+          "vi": "mới …",
+          "key": true,
+          "ex": {
+            "ja": "{新|しん}{社長|しゃちょう}の{方針|ほうしん}で、{会社|かいしゃ}の{雰囲気|ふんいき}が{大|おお}きく{変|か}わった。",
+            "vi": "Với đường lối của tân giám đốc, bầu không khí công ty thay đổi hẳn."
+          },
+          "col": [
+            "新年度",
+            "新学期",
+            "新製品",
+            "新記録",
+            "新入社員",
+            "新番組"
+          ]
+        },
+        {
+          "id": "g09-w73",
+          "w": "新製品",
+          "r": "しんせいひん",
+          "hv": "TÂN CHẾ PHẨM",
+          "pos": "名",
+          "vi": "sản phẩm mới",
+          "key": true,
+          "ex": {
+            "ja": "{発表会|はっぴょうかい}では、{来月|らいげつ}{発売|はつばい}される{新製品|しんせいひん}が{紹介|しょうかい}された。",
+            "vi": "Tại buổi ra mắt, sản phẩm mới sẽ được bán vào tháng sau đã được giới thiệu."
+          }
+        },
+        {
+          "id": "g09-w74",
+          "w": "初〜",
+          "r": "はつ〜",
+          "hv": "SƠ",
+          "pos": "接頭",
+          "vi": "đầu tiên, lần đầu …",
+          "key": true,
+          "ex": {
+            "ja": "{二人|ふたり}の{初|はつ}デートは{水族館|すいぞくかん}だった。",
+            "vi": "Buổi hẹn hò đầu tiên của hai người là ở thủy cung."
+          },
+          "col": [
+            "初雪",
+            "初霜",
+            "初出場",
+            "初優勝",
+            "初恋",
+            "初詣（はつもうで）"
+          ],
+          "note": "初〜 (はつ) = lần đầu tiên **trong đời / trong năm / trong mùa**. 新〜 (しん) = mới (thay cho cái cũ)."
+        },
+        {
+          "id": "g09-w75",
+          "w": "初出場",
+          "r": "はつしゅつじょう",
+          "hv": "SƠ XUẤT TRƯỜNG",
+          "pos": "名・自動",
+          "vi": "lần đầu tham dự (giải đấu)",
+          "key": true,
+          "ex": {
+            "ja": "{初出場|はつしゅつじょう}のチームが{準決勝|じゅんけっしょう}まで{勝|か}ち{進|すす}み、{話題|わだい}になった。",
+            "vi": "Đội lần đầu tham dự đã thắng vào đến bán kết, trở thành đề tài bàn tán."
+          }
+        },
+        {
+          "id": "g09-w76",
+          "w": "初優勝",
+          "r": "はつゆうしょう",
+          "hv": "SƠ ƯU THẮNG",
+          "pos": "名・自動",
+          "vi": "lần đầu vô địch",
+          "key": true,
+          "ex": {
+            "ja": "{創部|そうぶ}{五十年|ごじゅうねん}{目|め}にして、ついに{悲願|ひがん}の{初優勝|はつゆうしょう}を{果|は}たした。",
+            "vi": "Ở năm thứ 50 kể từ khi thành lập câu lạc bộ, cuối cùng đội đã giành chức vô địch đầu tiên hằng mong ước."
+          }
+        }
+      ]
+    },
+    {
+      "title": "例文の副詞",
+      "title_vi": "Phó từ trong câu ví dụ",
+      "words": [
+        {
+          "id": "g09-w77",
+          "w": "ぼんやり",
+          "r": "ぼんやり",
+          "hv": "",
+          "pos": "副・自動",
+          "vi": "lơ đãng, thẫn thờ; mờ ảo, lờ mờ",
+          "key": true,
+          "senses": [
+            {
+              "vi": "thẫn thờ, không nghĩ gì, lơ đãng",
+              "ex": {
+                "ja": "{窓|まど}の{外|そと}をぼんやり{見|み}ていたら、{降|お}りる{駅|えき}を{過|す}ぎてしまった。",
+                "vi": "Mải thẫn thờ nhìn ra cửa sổ nên tôi đi quá ga cần xuống."
+              }
+            },
+            {
+              "vi": "mờ ảo, không rõ nét",
+              "ex": {
+                "ja": "{霧|きり}の{向|む}こうに、{山|やま}の{形|かたち}がぼんやりと{見|み}えた。",
+                "vi": "Phía bên kia màn sương thấp thoáng mờ ảo hình dáng ngọn núi."
+              }
+            }
+          ],
+          "rel": "≒ ぼうっと ↔ はっきり"
+        },
+        {
+          "id": "g09-w78",
+          "w": "はるか",
+          "r": "はるか",
+          "hv": "",
+          "pos": "副・な形",
+          "vi": "xa xăm; (はるかに) hơn hẳn, vượt xa",
+          "key": true,
+          "senses": [
+            {
+              "vi": "xa xôi (không gian, thời gian)",
+              "ex": {
+                "ja": "はるか{遠|とお}くに、{雪|ゆき}をかぶった{山々|やまやま}が{見|み}える。",
+                "vi": "Xa tít đằng kia thấy những dãy núi phủ tuyết."
+              }
+            },
+            {
+              "vi": "はるかに + so sánh: hơn hẳn, hơn rất nhiều",
+              "ex": {
+                "ja": "{実際|じっさい}にやってみると、{想像|そうぞう}よりはるかに{難|むずか}しかった。",
+                "vi": "Làm thử thật mới thấy khó hơn tưởng tượng rất nhiều."
+              }
+            }
+          ],
+          "rel": "≒ ずっと",
+          "note": "Kanji: 遥か. はるかに đi với **so sánh** (〜より), nghĩa như ずっと nhưng văn vẻ hơn."
+        },
+        {
+          "id": "g09-w79",
+          "w": "一段と",
+          "r": "いちだんと",
+          "hv": "NHẤT ĐOẠN",
+          "pos": "副",
+          "vi": "hơn hẳn (so với trước), càng thêm",
+          "key": true,
+          "ex": {
+            "ja": "{髪|かみ}を{短|みじか}くしたら、{一段|いちだん}と{若|わか}く{見|み}えるようになった。",
+            "vi": "Cắt tóc ngắn xong trông trẻ ra hẳn."
+          },
+          "rel": "≒ いっそう・ますます",
+          "note": "So sánh **với trạng thái trước đó của chính nó** (đã … rồi, nay còn hơn nữa)."
+        },
+        {
+          "id": "g09-w80",
+          "w": "決まって",
+          "r": "きまって",
+          "hv": "QUYẾT",
+          "pos": "副",
+          "vi": "lần nào cũng, bao giờ cũng (cứ hễ … là …)",
+          "key": true,
+          "ex": {
+            "ja": "{祖父|そふ}は{酒|さけ}を{飲|の}むと、{決|き}まって{若|わか}い{頃|ころ}の{話|はなし}を{始|はじ}める。",
+            "vi": "Ông tôi cứ uống rượu vào là y như rằng bắt đầu kể chuyện hồi trẻ."
+          },
+          "rel": "≒ いつも必ず",
+          "note": "Hay đi với **〜と／〜たびに／〜ときは** ở vế trước: điều kiện A xảy ra thì B **luôn** xảy ra (thói quen, quy luật)."
+        }
+      ]
+    }
+  ],
+  "focus": [
+    {
+      "title": "Vẽ bản đồ địa hình trong đầu",
+      "body": "Hãy hình dung một chuyến đi từ biển lên núi:\n\n- Ngoài **沖**（おき, ngoài khơi）→ thuyền vào **湾**（わん, vịnh）→ cập **岸**（きし, bờ）.\n- Đất nhô ra biển: cả khối lớn là **半島**, phần mũi nhọn là **岬**.\n- Trong đất liền: **平野** (đồng bằng rộng) → **盆地** (lòng chảo có núi bao quanh) → **丘** (đồi thấp, thường なだらか) → **山**.\n- Trên núi: **ふもと** (chân núi) → leo con đường **険しい** → **頂上** (đỉnh). Giữa hai núi là **谷**, nơi có **滝** đổ xuống.\n- Đường chân trời: trên biển là **水平線**, trên đất liền là **地平線**.\n\nCặp đối: 沖↔岸, 頂上↔ふもと, なだらか↔険しい, 山↔谷."
+    },
+    {
+      "title": "Collocation thiên nhiên — học cả cụm",
+      "body": "Dạng bài 用法 và 文脈規定 rất hay hỏi động từ đi kèm:\n\n- 地下水・温泉が **わく** (phun lên) — không dùng 出る cho nghĩa văn vẻ này\n- 果実・稲が **実る**; 努力が **実る**\n- 稲・草を **刈る** (cắt sát gốc hàng loạt)\n- 汗を **かく** (không phải 出す)\n- 霧が **出る／かかる**, 霜が **降りる**（おりる）, 雪が **降る**（ふる）\n- 夕立・吹雪・事故に **遭う**\n- 日が **沈む** (mặt trời lặn) ／ 日が **暮れる** (trời tối) ／ 夜が **明ける**\n- 梅雨が **明ける** (hết mùa mưa) ／ 梅雨に **入る** (vào mùa mưa)\n- 手足が **凍える** (người cóng) ／ 水が **凍る** (nước đóng băng)"
+    },
+    {
+      "title": "暮れる・沈む・明ける — mặt trời và thời gian",
+      "body": "- **沈む**: chủ ngữ là **太陽・夕日・月** (vật thể) → lặn xuống: 「{夕日|ゆうひ}が{海|うみ}に{沈|しず}む」.\n- **暮れる**: chủ ngữ là **日・年** (khoảng thời gian) → kết thúc, tối: 「{日|ひ}が{暮|く}れる」「{年|とし}が{暮|く}れる」. ✗ 夕日が暮れる.\n- **明ける**: **夜・年・梅雨** kết thúc, giai đoạn mới bắt đầu: 「{夜|よ}が{明|あ}ける」「{年|とし}が{明|あ}ける」「{梅雨|つゆ}が{明|あ}ける」.\n\nMẹo: 暮れる và 明ける là cặp **thời gian** (日・年・夜); 沈む và 昇る là cặp **vật thể** (太陽・月).\n\nThành ngữ: 途方に暮れる = bế tắc, không biết làm sao; 明けましておめでとう = chúc mừng năm mới (năm mới đã “mở ra”)."
+    },
+    {
+      "title": "〜上げる: ba nghĩa",
+      "body": "**(1) Hướng lên trên** (nghĩa gốc): **見上げる** (ngước nhìn lên), **持ち上げる** (nhấc lên), 打ち上げる (bắn lên: 花火を打ち上げる).\n\n**(2) Hoàn thành trọn vẹn**: 書き上げる (viết xong), 仕上げる (hoàn thiện), 作り上げる (tạo dựng nên), 育て上げる (nuôi khôn lớn).\n\n**(3) Nghĩa riêng của từ ghép**: **取り上げる** = (a) đưa ra bàn / đưa tin (問題を取り上げる, 新聞に取り上げられる); (b) tịch thu (携帯を取り上げる). 持ち上げる còn có nghĩa “tâng bốc”.\n\nĐối lập của 見上げる là **見下ろす** (nhìn xuống), không phải 見下げる (hiếm, nghĩa coi thường)."
+    },
+    {
+      "title": "真っ〜・新〜・初〜",
+      "body": "**真っ〜** (nhấn mạnh “hoàn toàn”) — chú ý cách đọc:\n- 真っ暗（まっくら）, 真っ黒（まっくろ）, 真っ白（まっしろ）\n- **真っ赤（まっか）**, **真っ青（まっさお）** — biến âm đặc biệt, hay bị hỏi\n- 真っ先（まっさき: đầu tiên nhất）, 真ん中（まんなか）, 真夏（まなつ）, 真冬（まふゆ） — có khi là ま／まん.\n\n**新〜（しん）** = **mới**, thay cho cái cũ: 新年度, 新学期, 新製品, 新記録, 新入生.\n**初〜（はつ）** = **lần đầu tiên**: 初雪, 初霜 (đầu mùa), 初出場, 初優勝 (lần đầu trong lịch sử của đội/người đó), 初恋.\nMẹo: hỏi “có phải **lần đầu tiên** không?” → 初; hỏi “có phải **cái mới thay cái cũ** không?” → 新. Ví dụ 新記録 (kỷ lục mới, thay kỷ lục cũ) nhưng 初優勝 (lần đầu vô địch)."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "g09-q1",
+      "kind": "read",
+      "ref": "g09-w10",
+      "q": "{朝|あさ}六{時|じ}に{出発|しゅっぱつ}して、{昼前|ひるまえ}に[[u:頂上]]に{着|つ}いた。",
+      "options": [
+        "ちょうじょう",
+        "ちょじょう",
+        "ちょうぞう",
+        "てんじょう"
+      ],
+      "answer": 0,
+      "vi": "Xuất phát lúc 6 giờ sáng, gần trưa thì lên đến đỉnh.",
+      "why": "頂 (ちょう) + 上 (じょう) → **ちょうじょう**. 「ちょじょう」 thiếu trường âm; 「ちょうぞう」 là 彫像 (tượng điêu khắc); 「てんじょう」 là 天井 (trần nhà) — dễ nhầm vì cũng là “phía trên”."
+    },
+    {
+      "id": "g09-q2",
+      "kind": "read",
+      "ref": "g09-w49",
+      "q": "{今日|きょう}は[[u:湿度]]が{高|たか}く、{洗濯物|せんたくもの}がなかなか{乾|かわ}かない。",
+      "options": [
+        "しめど",
+        "しつど",
+        "しっと",
+        "しつと"
+      ],
+      "answer": 1,
+      "vi": "Hôm nay độ ẩm cao nên quần áo phơi mãi không khô.",
+      "why": "湿 (しつ) + 度 (ど) → **しつど**. 「しめど」 lấy âm Nhật của 湿る (しめる); 「しっと」 là 嫉妬 (ghen tị); 「しつと」 sai âm 度."
+    },
+    {
+      "id": "g09-q3",
+      "kind": "write",
+      "ref": "g09-w32",
+      "q": "{山|やま}の{上|うえ}は[[u:きり]]が{濃|こ}くて、{前|まえ}がほとんど{見|み}えなかった。",
+      "options": [
+        "霜",
+        "露",
+        "霧",
+        "雲"
+      ],
+      "answer": 2,
+      "vi": "Trên núi sương mù dày đặc, gần như không thấy gì phía trước.",
+      "why": "きり = **霧** (sương mù). Ba chữ còn lại đều có bộ 雨 nhưng đọc khác: 「霜」 = しも (sương muối), 「露」 = つゆ (giọt sương), 「雲」 = くも (mây)."
+    },
+    {
+      "id": "g09-q4",
+      "kind": "context",
+      "ref": "g09-w41",
+      "q": "{西|にし}の{空|そら}を{赤|あか}く{染|そ}めながら、{夕日|ゆうひ}がゆっくりと{海|うみ}に（　　）いく。",
+      "options": [
+        "沈んで",
+        "暮れて",
+        "明けて",
+        "降りて"
+      ],
+      "answer": 0,
+      "vi": "Nhuộm đỏ bầu trời phía Tây, mặt trời chiều từ từ lặn xuống biển.",
+      "why": "Chủ ngữ là **夕日** (vật thể) → **沈む**. 「暮れる」 chủ ngữ phải là 日・年 (thời gian), không nói 「夕日が暮れる」; 「明ける」 là trời sáng — ngược nghĩa; 「降りる」 dùng cho người xuống xe, sương muối (霜が降りる)."
+    },
+    {
+      "id": "g09-q5",
+      "kind": "context",
+      "ref": "g09-w58",
+      "q": "{秋|あき}になると、{田|た}んぼでは{農家|のうか}の{人|ひと}たちが{実|みの}った{稲|いね}を（　　）。",
+      "options": [
+        "摘む",
+        "掘る",
+        "刈る",
+        "削る"
+      ],
+      "answer": 2,
+      "vi": "Đến mùa thu, trên ruộng người nông dân gặt lúa đã chín.",
+      "why": "Cắt lúa, cỏ hàng loạt sát gốc → **刈る** (稲刈り). 「摘む」 = hái bằng đầu ngón tay (茶・花を摘む); 「掘る」 = đào (khoai, đất); 「削る」 = gọt, bào mỏng bề mặt (木・鉛筆を削る), không dùng cho lúa."
+    },
+    {
+      "id": "g09-q6",
+      "kind": "paraphrase",
+      "ref": "g09-w80",
+      "q": "{父|ちち}は{日曜日|にちようび}になると、[[u:決まって]]{釣|つ}りに{出|で}かける。",
+      "options": [
+        "たまに",
+        "いつも必ず",
+        "急に",
+        "しかたなく"
+      ],
+      "answer": 1,
+      "vi": "Cứ đến Chủ nhật là bố tôi lại đi câu cá.",
+      "why": "決まって = lần nào cũng → **いつも必ず**. 「たまに」 = thỉnh thoảng — ngược nghĩa; 「急に」 = đột nhiên; 「しかたなく」 = bất đắc dĩ."
+    },
+    {
+      "id": "g09-q7",
+      "kind": "formation",
+      "ref": "g09-w72",
+      "q": "この{会社|かいしゃ}は{毎年|まいとし}{春|はる}に（　　）{製品|せいひん}を{発表|はっぴょう}している。",
+      "options": [
+        "初",
+        "真",
+        "再",
+        "新"
+      ],
+      "answer": 3,
+      "vi": "Công ty này mỗi năm đều công bố sản phẩm mới vào mùa xuân.",
+      "why": "Sản phẩm **mới** (thay sản phẩm cũ) → **新製品**. 「初」 = lần đầu tiên (初雪), không ghép với 製品; 「真」 = hoàn toàn (真っ白); 「再」 = lại (再放送), không có 再製品."
+    },
+    {
+      "id": "g09-q8",
+      "kind": "paraphrase",
+      "ref": "g09-w36",
+      "q": "この{部屋|へや}は[[u:眺めがいい]]。",
+      "options": [
+        "景色がよく見える",
+        "日当たりがいい",
+        "広くて明るい",
+        "静かで落ち着く"
+      ],
+      "answer": 0,
+      "vi": "Căn phòng này có tầm nhìn đẹp.",
+      "why": "眺め = cảnh nhìn ra từ chỗ đó → **景色がよく見える**. 「日当たりがいい」 = nhiều nắng; 「広くて明るい」「静かで落ち着く」 nói về bản thân căn phòng, không phải cảnh nhìn ra."
+    },
+    {
+      "id": "g09-q9",
+      "kind": "usage",
+      "ref": "g09-w48",
+      "q": "{明|あ}ける",
+      "options": [
+        "暑いので、窓を少し明けて風を入れた。",
+        "日が明けて、空がだんだん暗くなってきた。",
+        "部屋が暗いので、電気を明けて本を読んだ。",
+        "夜が明けると、庭で鳥が鳴き始めた。"
+      ],
+      "answer": 3,
+      "vi": "(4) Trời vừa sáng, chim trong vườn bắt đầu hót.",
+      "why": "(4) 夜が明ける = trời sáng → đúng. (1) mở cửa sổ là **開ける**; (2) trời tối dần là **日が暮れる** (明ける nghĩa ngược lại); (3) bật đèn là **つける**."
+    }
+  ],
+  "practice": [
+    {
+      "id": "g09-p1",
+      "kind": "read",
+      "ref": "g09-w61",
+      "q": "[[u:吹雪]]のため、{山|やま}へ{向|む}かう{道路|どうろ}は{通行止|つうこうど}めになった。",
+      "options": [
+        "ふぶき",
+        "ふきゆき",
+        "すいせつ",
+        "ふゆき"
+      ],
+      "answer": 0,
+      "vi": "Do bão tuyết, con đường lên núi bị cấm lưu thông.",
+      "why": "吹雪 là cách đọc đặc biệt (熟字訓) → **ふぶき**. 「ふきゆき」 ghép âm Nhật từng chữ; 「すいせつ」 ghép âm Hán; 「ふゆき」 nhầm với 冬 — đều sai."
+    },
+    {
+      "id": "g09-p2",
+      "kind": "read",
+      "ref": "g09-w25",
+      "q": "いつかラクダに{乗|の}って、[[u:砂漠]]を{旅|たび}してみたい。",
+      "options": [
+        "さぼく",
+        "さばく",
+        "すなばく",
+        "しゃばく"
+      ],
+      "answer": 1,
+      "vi": "Một ngày nào đó tôi muốn cưỡi lạc đà du hành qua sa mạc.",
+      "why": "砂 (さ) + 漠 (ばく) → **さばく**. 「さぼく」 sai âm 漠; 「すなばく」 lấy âm Nhật của 砂 (すな); 「しゃばく」 sai âm 砂 (しゃ là âm trong 土砂 どしゃ)."
+    },
+    {
+      "id": "g09-p3",
+      "kind": "read",
+      "ref": "g09-w29",
+      "q": "この{地方|ちほう}は{一年中|いちねんじゅう}[[u:温暖]]で、{冬|ふゆ}でも{雪|ゆき}はめったに{降|ふ}らない。",
+      "options": [
+        "おんたん",
+        "おんなん",
+        "うんだん",
+        "おんだん"
+      ],
+      "answer": 3,
+      "vi": "Vùng này ấm áp quanh năm, mùa đông cũng hiếm khi có tuyết.",
+      "why": "温 (おん) + 暖 (だん) → **おんだん** (như 暖房 だんぼう). 「おんたん」 thiếu âm đục; 「おんなん」 sai âm 暖; 「うんだん」 sai âm 温."
+    },
+    {
+      "id": "g09-p4",
+      "kind": "write",
+      "ref": "g09-w6",
+      "q": "[[u:みさき]]の{先|さき}に、{白|しろ}い{灯台|とうだい}が{立|た}っている。",
+      "options": [
+        "峡",
+        "岬",
+        "峠",
+        "岸"
+      ],
+      "answer": 1,
+      "vi": "Ở đầu mũi đất có một ngọn hải đăng trắng.",
+      "why": "みさき = **岬** (mũi đất nhô ra biển). 「峡」 đọc きょう (海峡: eo biển), không đọc みさき; 「峠」 = とうげ (đèo); 「岸」 = きし (bờ)."
+    },
+    {
+      "id": "g09-p5",
+      "kind": "write",
+      "ref": "g09-w63",
+      "q": "{真冬|まふゆ}の{夜|よる}、{屋外|おくがい}で一{時間|じかん}も{待|ま}たされて、{体|からだ}の{芯|しん}まで[[u:こごえた]]。",
+      "options": [
+        "冷えた",
+        "寒えた",
+        "凍えた",
+        "氷えた"
+      ],
+      "answer": 2,
+      "vi": "Đêm giữa mùa đông, bị bắt chờ ngoài trời cả tiếng đồng hồ, tôi lạnh cóng tới tận xương.",
+      "why": "こごえる = **凍える**. 「冷えた」 đọc ひえた (lạnh đi) — nghĩa gần nhưng sai cách đọc; 「寒えた」「氷えた」 không tồn tại (寒い, 氷 không có dạng động từ này)."
+    },
+    {
+      "id": "g09-p6",
+      "kind": "context",
+      "ref": "g09-w13",
+      "q": "{関東|かんとう}（　　）には、{日本|にほん}の{人口|じんこう}のおよそ三{分|ぶん}の一が{住|す}んでいる。",
+      "options": [
+        "平野",
+        "盆地",
+        "半島",
+        "列島"
+      ],
+      "answer": 0,
+      "vi": "Ở đồng bằng Kanto có khoảng một phần ba dân số Nhật Bản sinh sống.",
+      "why": "Vùng đất bằng rộng lớn, đông dân → **関東平野**. 「盆地」 là vùng trũng có núi bao quanh (京都盆地), không dùng cho Kanto; 「半島」 là đất nhô ra biển; 「列島」 là chuỗi đảo (日本列島)."
+    },
+    {
+      "id": "g09-p7",
+      "kind": "context",
+      "ref": "g09-w9",
+      "q": "{頂上|ちょうじょう}{付近|ふきん}は{岩|いわ}が{多|おお}く、{道|みち}が{非常|ひじょう}に（　　）。",
+      "options": [
+        "重い",
+        "険しい",
+        "激しい",
+        "鋭い"
+      ],
+      "answer": 1,
+      "vi": "Gần đỉnh núi nhiều đá, đường đi rất hiểm trở.",
+      "why": "Địa hình dốc, nhiều đá, khó đi → **険しい** (険しい山道). 「重い」 = nặng (đồ vật, bệnh, trách nhiệm) — không miêu tả con đường; 「激しい」 = dữ dội (mưa, cạnh tranh); 「鋭い」 = sắc nhọn (dao, ánh mắt)."
+    },
+    {
+      "id": "g09-p8",
+      "kind": "context",
+      "ref": "g09-w19",
+      "q": "{庭|にわ}を{深|ふか}く{掘|ほ}ってみたら、{温|あたた}かいお{湯|ゆ}が（　　）きた。",
+      "options": [
+        "わいて",
+        "溶けて",
+        "沈んで",
+        "浮いて"
+      ],
+      "answer": 0,
+      "vi": "Thử đào sâu trong vườn thì nước nóng phun lên.",
+      "why": "Nước trào lên **từ dưới lòng đất** → **わいて**きた (湧く). 「溶けて」 = tan ra (băng, đường) — お湯 không “tan”; 「沈んで」 = chìm xuống — ngược hướng; 「浮いて」 = nổi lên trên mặt nước, chủ ngữ là vật."
+    },
+    {
+      "id": "g09-p9",
+      "kind": "context",
+      "ref": "g09-w52",
+      "q": "{雪|ゆき}に{太陽|たいよう}の{光|ひかり}が{反射|はんしゃ}して、{目|め}を{開|あ}けていられないほど（　　）。",
+      "options": [
+        "暑苦しい",
+        "まぶしい",
+        "鮮やかだ",
+        "蒸し暑い"
+      ],
+      "answer": 1,
+      "vi": "Ánh mặt trời phản chiếu trên tuyết chói đến mức không mở mắt nổi.",
+      "why": "Ánh sáng mạnh làm khó mở mắt → **まぶしい**. 「暑苦しい」「蒸し暑い」 nói về nhiệt độ, không hợp với tuyết; 「鮮やかだ」 = (màu sắc) rực rỡ, tươi — không gây khó mở mắt."
+    },
+    {
+      "id": "g09-p10",
+      "kind": "paraphrase",
+      "ref": "g09-w78",
+      "q": "{実際|じっさい}に{見|み}た{富士山|ふじさん}は、{写真|しゃしん}より[[u:はるかに]]{大|おお}きかった。",
+      "options": [
+        "少し",
+        "やはり",
+        "ずっと",
+        "意外に"
+      ],
+      "answer": 2,
+      "vi": "Núi Phú Sĩ nhìn tận mắt to hơn trong ảnh rất nhiều.",
+      "why": "はるかに + so sánh = hơn rất nhiều → **ずっと**. 「少し」 = một chút — ngược mức độ; 「やはり」 = quả nhiên; 「意外に」 = không ngờ (có sắc thái bất ngờ, không nói mức độ chênh lệch)."
+    },
+    {
+      "id": "g09-p11",
+      "kind": "paraphrase",
+      "ref": "g09-w34",
+      "q": "{帰|かえ}り{道|みち}で[[u:夕立]]に{遭|あ}い、ずぶぬれになった。",
+      "options": [
+        "一日中降り続く弱い雨",
+        "夜明け前の濃い霧",
+        "冬の冷たいみぞれ",
+        "夏の午後に急に降る激しい雨"
+      ],
+      "answer": 3,
+      "vi": "Trên đường về tôi gặp cơn mưa rào chiều và ướt như chuột lột.",
+      "why": "夕立 = mưa rào dữ dội, bất chợt vào **chiều hè** → phương án 4. 「一日中降り続く弱い雨」 giống mưa dầm (梅雨); 「夜明け前の濃い霧」 là sương mù; 「冬の冷たいみぞれ」 là mưa tuyết."
+    },
+    {
+      "id": "g09-p12",
+      "kind": "formation",
+      "ref": "g09-w67",
+      "q": "{大勢|おおぜい}の{前|まえ}で{名前|なまえ}を{呼|よ}ばれ、{彼女|かのじょ}は{恥|は}ずかしさで{顔|かお}が（　　）{赤|か}になった。",
+      "options": [
+        "真っ",
+        "真",
+        "最",
+        "超"
+      ],
+      "answer": 0,
+      "vi": "Bị gọi tên trước đông người, cô ấy đỏ bừng mặt vì ngượng.",
+      "why": "Đọc まっか → viết **真っ赤**. 「真赤」 thiếu っ (không phải cách viết chuẩn); 「最」 = nhất (最高); 「超」 = siêu (超高速) — không ghép với 赤 để đọc か."
+    },
+    {
+      "id": "g09-p13",
+      "kind": "usage",
+      "ref": "g09-w41",
+      "q": "{沈|しず}む",
+      "options": [
+        "セールで値段が沈んで、ずいぶん買いやすくなった。",
+        "階段を沈んで、地下の駐車場へ向かった。",
+        "嵐で大きな船が沈み、多くの荷物が失われた。",
+        "薬を飲んだら、熱がすっと沈んで楽になった。"
+      ],
+      "answer": 2,
+      "vi": "(3) Con tàu lớn bị chìm trong giông bão, rất nhiều hàng hóa bị mất.",
+      "why": "(3) 船が沈む = tàu chìm → đúng. (1) giá giảm là **下がる**; (2) đi xuống cầu thang là **下りる**; (4) hạ sốt là **熱が下がる**. 沈む là chìm xuống dưới mặt nước / (mặt trời) lặn / (tâm trạng) chùng xuống."
+    },
+    {
+      "id": "g09-p14",
+      "kind": "usage",
+      "ref": "g09-w38",
+      "q": "{見下|みお}ろす",
+      "options": [
+        "夜空にかかる満月を、しばらく見下ろしていた。",
+        "提出する前に、答えを何度も見下ろした。",
+        "子どもが転ばないように、後ろから見下ろしていた。",
+        "山の上のホテルから、港の夜景を見下ろした。"
+      ],
+      "answer": 3,
+      "vi": "(4) Từ khách sạn trên núi, tôi nhìn xuống cảnh đêm của bến cảng.",
+      "why": "(4) nhìn từ chỗ cao xuống → đúng. (1) mặt trăng ở trên → phải **見上げる**; (2) xem lại bài là **見直す**; (3) dõi theo để bảo vệ là **見守る**."
+    }
+  ],
+  "test": [
+    {
+      "id": "g09-t1",
+      "kind": "read",
+      "ref": "g09-w27",
+      "q": "ボートを[[u:岸]]に{寄|よ}せて、{荷物|にもつ}を{降|お}ろした。",
+      "options": [
+        "きし",
+        "がけ",
+        "はま",
+        "ぎし"
+      ],
+      "answer": 0,
+      "vi": "Tôi cho thuyền cập bờ rồi dỡ hành lý xuống.",
+      "why": "岸 đứng một mình đọc **きし**. 「ぎし」 là dạng biến âm chỉ xuất hiện trong từ ghép (川岸 かわぎし); 「がけ」 là 崖 (vách đá); 「はま」 là 浜 (bãi biển)."
+    },
+    {
+      "id": "g09-t2",
+      "kind": "read",
+      "ref": "g09-w55",
+      "q": "この{地域|ちいき}では、さまざまな[[u:果実]]が{栽培|さいばい}されている。",
+      "options": [
+        "くだもの",
+        "かじつ",
+        "かしつ",
+        "かみ"
+      ],
+      "answer": 1,
+      "vi": "Ở vùng này người ta trồng nhiều loại trái cây khác nhau.",
+      "why": "果 (か) + 実 (じつ) → **かじつ**. 「くだもの」 là cách đọc của 果物 (chữ khác); 「かしつ」 là 過失 (lỗi) — sai âm đục; 「かみ」 là cách đọc sai ghép 実 (み)."
+    },
+    {
+      "id": "g09-t3",
+      "kind": "read",
+      "ref": "g09-w54",
+      "q": "{山|やま}の[[u:紅葉]]が、ちょうど{見頃|みごろ}を{迎|むか}えている。",
+      "options": [
+        "こうよう",
+        "べにば",
+        "こうは",
+        "くれは"
+      ],
+      "answer": 0,
+      "vi": "Lá đỏ trên núi đang vào đúng lúc đẹp nhất.",
+      "why": "紅葉 đọc **こうよう** (cũng đọc もみじ, nhưng không có trong lựa chọn). 「べにば」 ghép âm Nhật 紅 (べに) + 葉 (は) biến âm — không tồn tại; 「こうは」 sai âm 葉 (よう); 「くれは」 không phải cách đọc."
+    },
+    {
+      "id": "g09-t4",
+      "kind": "write",
+      "ref": "g09-w23",
+      "q": "{雨|あめ}の{後|あと}の{山道|やまみち}を{歩|ある}いたら、{靴|くつ}が[[u:どろ]]だらけになった。",
+      "options": [
+        "沼",
+        "汚",
+        "泥",
+        "土"
+      ],
+      "answer": 2,
+      "vi": "Đi trên đường núi sau mưa, giày lấm đầy bùn.",
+      "why": "どろ = **泥** (bùn). 「沼」 = ぬま (đầm lầy); 「汚」 = きたな(い)／よご(れ) (bẩn); 「土」 = つち (đất) — chữ gần nghĩa (nước, đất, bẩn) nhưng sai cách đọc."
+    },
+    {
+      "id": "g09-t5",
+      "kind": "write",
+      "ref": "g09-w36",
+      "q": "ホテルの{窓|まど}からの[[u:ながめ]]は、{想像|そうぞう}{以上|いじょう}にすばらしかった。",
+      "options": [
+        "挑め",
+        "跳め",
+        "眠め",
+        "眺め"
+      ],
+      "answer": 3,
+      "vi": "Cảnh nhìn ra từ cửa sổ khách sạn đẹp hơn cả tưởng tượng.",
+      "why": "ながめ = **眺め** (bộ 目 = mắt + 兆). 「挑め」 (bộ 扌: 挑む いどむ = thách thức), 「跳め」 (bộ 足: 跳ぶ とぶ = nhảy) có cùng phần 兆 nên dễ nhầm; 「眠め」 dùng 眠 (ねむ: ngủ)."
+    },
+    {
+      "id": "g09-t6",
+      "kind": "context",
+      "ref": "g09-w42",
+      "q": "{冬|ふゆ}は{日|ひ}が（　　）のが{早|はや}いので、{子|こ}どもたちは四{時|じ}{過|す}ぎには{家|いえ}に{帰|かえ}る。",
+      "options": [
+        "暮れる",
+        "明ける",
+        "降りる",
+        "終わる"
+      ],
+      "answer": 0,
+      "vi": "Mùa đông trời tối sớm nên bọn trẻ về nhà ngay sau 4 giờ.",
+      "why": "日が暮れる = trời tối → **暮れる**. 「明ける」 = trời sáng — ngược nghĩa và chủ ngữ thường là 夜; 「降りる」 không đi với 日; 「日が終わる」 không phải cách nói tự nhiên (phải là 一日が終わる và không gắn với “sớm tối”)."
+    },
+    {
+      "id": "g09-t7",
+      "kind": "context",
+      "ref": "g09-w30",
+      "q": "{日本|にほん}{付近|ふきん}は{大|おお}きな（　　）に{覆|おお}われ、{明日|あした}は{全国的|ぜんこくてき}に{晴|は}れるでしょう。",
+      "options": [
+        "低気圧",
+        "台風",
+        "高気圧",
+        "前線"
+      ],
+      "answer": 2,
+      "vi": "Khu vực quanh Nhật Bản bị một vùng áp cao lớn bao phủ, ngày mai trời sẽ nắng trên cả nước.",
+      "why": "Bị bao phủ → trời **nắng** → **高気圧**. 「低気圧」「台風」「前線」 đều mang mây và mưa, mâu thuẫn với 晴れる."
+    },
+    {
+      "id": "g09-t8",
+      "kind": "context",
+      "ref": "g09-w50",
+      "q": "{梅雨|つゆ}の{時期|じき}は{湿度|しつど}が{高|たか}いので、{気温|きおん}がそれほど{高|たか}くなくても（　　）。",
+      "options": [
+        "肌寒い",
+        "蒸し暑い",
+        "まぶしい",
+        "涼しい"
+      ],
+      "answer": 1,
+      "vi": "Mùa mưa độ ẩm cao nên dù nhiệt độ không cao lắm vẫn thấy oi bức.",
+      "why": "Độ ẩm cao + nóng → **蒸し暑い**. 「肌寒い」「涼しい」 là cảm giác lạnh/mát — ngược với ý câu (湿度が高い → khó chịu); 「まぶしい」 nói về ánh sáng, không liên quan độ ẩm."
+    },
+    {
+      "id": "g09-t9",
+      "kind": "paraphrase",
+      "ref": "g09-w77",
+      "q": "{休日|きゅうじつ}は{何|なに}もしないで、[[u:ぼんやり]]{過|す}ごすのが{好|す}きだ。",
+      "options": [
+        "忙しく",
+        "友達と楽しく",
+        "早起きして",
+        "特に何も考えずに"
+      ],
+      "answer": 3,
+      "vi": "Ngày nghỉ tôi thích không làm gì, cứ thảnh thơi thẫn thờ cho qua ngày.",
+      "why": "ぼんやり = đầu óc trống rỗng, không nghĩ gì → **特に何も考えずに**. 「忙しく」 ngược nghĩa; 「友達と楽しく」「早起きして」 thêm thông tin không có trong từ gốc."
+    },
+    {
+      "id": "g09-t10",
+      "kind": "paraphrase",
+      "ref": "g09-w66",
+      "q": "その{事件|じけん}は、{多|おお}くの{新聞|しんぶん}で[[u:取り上げられた]]。",
+      "options": [
+        "批判された",
+        "話題として扱われた",
+        "隠された",
+        "訂正された"
+      ],
+      "answer": 1,
+      "vi": "Vụ việc đó đã được nhiều tờ báo đưa tin.",
+      "why": "取り上げる (báo chí) = đưa ra làm đề tài, đưa tin → **話題として扱われた**. 「批判された」 là đánh giá tiêu cực — 取り上げる không mang sắc thái này; 「隠された」 ngược nghĩa; 「訂正された」 = được đính chính."
+    },
+    {
+      "id": "g09-t11",
+      "kind": "usage",
+      "ref": "g09-w56",
+      "q": "{実|みの}る",
+      "options": [
+        "秋になって、山の木の葉が赤く実ってきた。",
+        "春になり、庭のチューリップがきれいに実った。",
+        "毎日続けてきた努力が実って、ついに試験に合格した。",
+        "子どもたちは、この十年で大きく実った。"
+      ],
+      "answer": 2,
+      "vi": "(3) Nỗ lực bền bỉ mỗi ngày đã có kết quả, cuối cùng tôi đã thi đỗ.",
+      "why": "(3) 努力が実る = nỗ lực có kết quả → đúng. (1) lá đổi màu là **色づく・紅葉する**; (2) hoa nở là **咲く** (hoa không “kết trái”); (4) trẻ lớn lên là **育つ・成長する**."
+    },
+    {
+      "id": "g09-t12",
+      "kind": "formation",
+      "ref": "g09-w64",
+      "q": "{首|くび}が{痛|いた}くなるほど{高|たか}いビルを{見|み}（　　）。",
+      "options": [
+        "下ろした",
+        "渡した",
+        "上げた",
+        "送った"
+      ],
+      "answer": 2,
+      "vi": "Tôi ngước nhìn tòa nhà cao đến mức mỏi cả cổ.",
+      "why": "Tòa nhà rất cao, phải ngước lên đến mỏi cổ → **見上げた**. 「見下ろした」 = nhìn xuống — mâu thuẫn với “cao đến mỏi cổ”; 「見渡した」 = nhìn bao quát xung quanh; 「見送った」 = tiễn."
+    }
+  ]
+}

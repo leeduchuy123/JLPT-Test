@@ -1,0 +1,207 @@
+{
+  "id": "b22",
+  "track": "bunpo",
+  "intro": "Cả 6 mẫu trong bài đều là **phỏng đoán** (\"chắc là…\"). Để chọn đúng trong đề, hãy hỏi 3 câu:\n\n1. **Kết quả tốt hay xấu?** 〜かねない và 〜おそれがある **chỉ dùng cho điều xấu**.\n2. **Căn cứ ở đâu?** 〜とみえる dựa vào **dấu hiệu nhìn thấy** ở người/vật khác; 〜に違いない có **căn cứ** và tin gần như chắc chắn; 〜にきまっている dựa vào **cảm tính, định kiến** (\"ai cũng biết\").\n3. **Văn phong?** 〜おそれがある, 〜に相違ない, 〜まい／〜ではあるまいか là **văn viết, trang trọng** (tin tức, bài luận); 〜にきまっている là **văn nói**.\n\nThang độ chắc chắn (tham khảo): 〜ではあるまいか (đưa ra ý kiến nhẹ nhàng) < 〜とみえる < 〜に違いない ≈ 〜にきまっている. Còn 〜まい là phỏng đoán **phủ định** (= ないだろう).",
+  "points": [
+    {
+      "id": "b22-1",
+      "pattern": "〜とみえる",
+      "reading": "〜とみえる",
+      "meaning": "Có vẻ là… / nhìn thế thì chắc là… (suy từ dấu hiệu quan sát được)",
+      "structure": ["普通形 ＋ とみえる (な形・N: 〜だとみえる)", "〜とみえて、〜 (nối câu)", "Hay đi cặp: 〜ところを見ると、〜とみえる"],
+      "explain": "Người nói **thấy một dấu hiệu cụ thể** (dáng vẻ, hành động, tình trạng của người/vật khác) rồi suy ra: \"**nhìn thế thì chắc là…**\". Gốc: 〜と{見|み}える = \"trông như là…\".\n\nKhuôn điển hình: **[dấu hiệu] → [suy luận] とみえる**.\n- 「{部屋|へや}の{電気|でんき}が{消|き}えている。もう{寝|ね}たとみえる」 — Đèn phòng tắt rồi. Chắc là ngủ rồi.\n- 「{何度|なんど}もおかわりしているところを{見|み}ると、よほどおなかが{空|す}いていたとみえる」 — Thấy ăn thêm mấy bát, chắc là đói lắm.\n\nDạng **〜とみえて** nối câu: [suy đoán] とみえて、[sự việc nhìn thấy tiếp theo]:\n- 「よほど{疲|つか}れていたとみえて、{彼|かれ}は{座|すわ}るとすぐに{眠|ねむ}ってしまった」 — Chắc là mệt lắm, anh ấy vừa ngồi xuống đã ngủ ngay.\n\nNghĩa gần 「〜らしい」「〜ようだ」, nhưng nghe **cứng hơn, kiểu văn kể chuyện / văn viết**, và luôn có **căn cứ quan sát** đi kèm.",
+      "nuance": "- Dùng để suy đoán về **người khác, con vật, sự vật** — không dùng cho bản thân (✗ 「{私|わたし}は{疲|つか}れているとみえる」).\n- Người suy đoán (người nói) **không xuất hiện** trong câu.\n- Không dùng cho thông tin **nghe được** (tin tức, lời người khác) → dùng 「らしい」「そうだ」.\n- Văn viết / kể chuyện; trong hội thoại thường nói 「〜みたいだ」「〜らしい」.",
+      "examples": [
+        {"ja": "{隣|となり}の{家|いえ}は{何日|なんにち}も{雨戸|あまど}が{閉|し}まったままだ。{家族|かぞく}で{旅行|りょこう}にでも{出|で}かけたとみえる。", "vi": "Nhà bên mấy ngày nay cửa chớp vẫn đóng im. Chắc là cả nhà đi du lịch đâu đó.", "note": "Dấu hiệu → suy luận"},
+        {"ja": "{子|こ}どもたちは{何度|なんど}もおかわりをしている。よほどおなかが{空|す}いていたとみえる。", "vi": "Bọn trẻ ăn thêm hết bát này đến bát khác. Chắc là đói lắm rồi.", "note": "よほど〜とみえる: cụm hay gặp"},
+        {"ja": "{彼|かれ}はテストを{見|み}てにこにこしている。いい{点|てん}が{取|と}れたとみえる。", "vi": "Cậu ấy nhìn bài kiểm tra mà cười tủm tỉm. Chắc là được điểm cao.", "note": ""},
+        {"ja": "{犬|いぬ}が{玄関|げんかん}の{前|まえ}から{離|はな}れない。{飼|か}い{主|ぬし}の{帰|かえ}りが{待|ま}ち{遠|どお}しいとみえる。", "vi": "Con chó cứ quanh quẩn trước cửa không rời. Có vẻ nó đang mong chủ về lắm.", "note": "Suy đoán về con vật · い形 + とみえる"},
+        {"ja": "この{店|みせ}はいつ{来|き}ても{客|きゃく}がいない。あまり{人気|にんき}がないとみえる。", "vi": "Lúc nào đến quán này cũng không có khách. Có vẻ không được ưa chuộng lắm.", "note": "Vない + とみえる"},
+        {"ja": "{店長|てんちょう}は{相当|そうとう}{急|いそ}いでいたとみえて、{上着|うわぎ}を{忘|わす}れて{出|で}ていった。", "vi": "Có lẽ quản lý vội lắm, nên đã ra ngoài mà quên cả áo khoác.", "note": "〜とみえて: suy đoán + sự việc nhìn thấy"}
+      ],
+      "compare": [
+        {"with": "〜らしい／〜ようだ (N3)", "diff": "「らしい」 có thể là **tin nghe được** (天気予報によると雨らしい). 「ようだ」 là cảm nhận chung. 「とみえる」 = suy luận từ **dấu hiệu nhìn thấy**, giọng văn viết, chỉ nói về người/vật khác."},
+        {"with": "〜そうだ (様態)", "diff": "「おいしそう」「雨が降りそう」 = ấn tượng tức thì từ vẻ bề ngoài. 「とみえる」 = suy ra một **tình trạng / sự việc** phía sau dấu hiệu (お腹が空いていたとみえる)."},
+        {"with": "〜ところを見ると (N2)", "diff": "「ところを見ると」 nêu **căn cứ**, 「とみえる」 nêu **kết luận**. Hai mẫu hay đi chung một câu."}
+      ],
+      "mistakes": [
+        "✗ {私|わたし}はかなり{疲|つか}れているとみえる。→ nói về bản thân: ○ かなり疲れているようだ。",
+        "✗ ニュースによると、{来年|らいねん}{電気代|でんきだい}が{上|あ}がるとみえる。→ thông tin nghe được: ○ 上がるそうだ／上がるらしい。"
+      ],
+      "tip": "Câu có **căn cứ quan sát** (〜ところを見ると, 〜ている, 何度も, いつも) + chỗ trống cuối câu là suy đoán về **người khác / con vật** → 「とみえる」. Có 「〜とみえて、」 giữa câu → vế trước là suy đoán, vế sau là việc nhìn thấy."
+    },
+    {
+      "id": "b22-2",
+      "pattern": "〜かねない",
+      "reading": "〜かねない",
+      "meaning": "Có thể dẫn tới (điều xấu) / không chừng sẽ…",
+      "structure": ["Vます形 ＋ かねない", "Vます形 ＋ かねません (lịch sự)"],
+      "explain": "かねない = \"**rất có khả năng xảy ra** (điều xấu)\". Người nói nhìn **tình trạng hiện tại / một hành động cụ thể** rồi cảnh báo: \"cứ thế này thì có thể…\".\n\n- 「スピードを{出|だ}しすぎると、{事故|じこ}を{起|お}こしかねない」 — Chạy quá tốc độ thì có thể gây tai nạn.\n- 「あの{人|ひと}なら、そんな{嘘|うそ}も{言|い}いかねない」 — Người đó thì không chừng cũng nói dối kiểu đó (đánh giá con người).\n\nCách nhớ: 「かねる」 = \"khó mà làm, không thể\" (「{賛成|さんせい}しかねる」 = khó mà tán thành). Vậy 「かね**ない**」 = \"**không khó** để xảy ra\" → dễ xảy ra lắm. Hai mẫu này **nghĩa gần như ngược nhau**, hay bị gài trong đề!\n\nĐặc điểm:\n- Chỉ dùng cho **kết quả tiêu cực**.\n- **Nguyên nhân** thường được nói rõ ngay trong câu: 〜と, 〜ば, 〜たら, 〜ては, このままでは, あの人なら.",
+      "nuance": "- Văn nói lẫn văn viết; là **phán đoán chủ quan**, mang giọng lo lắng, cảnh báo.\n- ✗ Không dùng cho kết quả tốt (✗ 合格しかねない).\n- Không nối trực tiếp với danh từ (✗ 事故かねない) — phải có động từ: 事故になりかねない, 事故につながりかねない.\n- Lịch sự: 〜かねません (không phải かねないです trong văn trang trọng).",
+      "examples": [
+        {"ja": "{寝不足|ねぶそく}のまま{運転|うんてん}すると、{大|おお}きな{事故|じこ}につながりかねない。", "vi": "Thiếu ngủ mà vẫn lái xe thì có thể dẫn tới tai nạn lớn.", "note": "Nguyên nhân 〜と + kết quả xấu"},
+        {"ja": "そんな{言|い}い{方|かた}をしたら、{相手|あいて}に{誤解|ごかい}されかねないよ。", "vi": "Nói kiểu đó thì có khi bị người ta hiểu lầm đấy.", "note": "Vます (bị động) + かねない"},
+        {"ja": "このまま{赤字|あかじ}が{続|つづ}けば、{会社|かいしゃ}は{倒産|とうさん}しかねない。", "vi": "Cứ lỗ mãi thế này thì công ty có thể phá sản.", "note": "このまま〜ば"},
+        {"ja": "{彼|かれ}は{気|き}が{短|みじか}いから、また{客|きゃく}とトラブルを{起|お}こしかねない。", "vi": "Anh ta nóng tính, không chừng lại gây chuyện với khách nữa.", "note": "Đánh giá tính cách con người"},
+        {"ja": "ちょっとした{不注意|ふちゅうい}が、{取|と}り{返|かえ}しのつかないミスを{招|まね}きかねません。", "vi": "Một chút bất cẩn nhỏ cũng có thể gây ra sai lầm không thể cứu vãn.", "note": "Dạng lịch sự かねません"},
+        {"ja": "{子|こ}どもに{何|なん}でも{買|か}い{与|あた}えていると、{我慢|がまん}のできない{子|こ}になりかねない。", "vi": "Cái gì cũng mua cho con thì có thể khiến con thành đứa không biết kiềm chế.", "note": "〜になりかねない"}
+      ],
+      "compare": [
+        {"with": "〜おそれがある", "diff": "Cả hai = nguy cơ điều xấu. 「おそれがある」 **khách quan, trang trọng** (tin tức, dự báo, cảnh báo sản phẩm), nối được với N の, dùng tốt cho hiện tượng tự nhiên. 「かねない」 **chủ quan** hơn, nguyên nhân thường nêu rõ, hay dùng cho hành động / tính cách con người."},
+        {"with": "〜かねる (N2)", "diff": "「〜かねる」 = khó mà / không thể làm (thường là lời từ chối lịch sự): その件はお答えしかねます. 「かねない」 = có thể xảy ra (điều xấu). Đừng nhầm!"},
+        {"with": "〜かもしれない (N4)", "diff": "Trung tính, dùng cho cả tốt lẫn xấu. 「かねない」 chỉ cho điều xấu, có ý cảnh báo."}
+      ],
+      "mistakes": [
+        "✗ {頑張|がんば}れば{合格|ごうかく}しかねない。→ ○ 合格できるかもしれない。(kết quả tốt)",
+        "✗ {事故|じこ}を{起|お}こすかねない → ○ 起こしかねない (Vます)",
+        "✗ (từ chối lịch sự) その{件|けん}についてはお{答|こた}えしかねない。→ ○ お答えしかねます。"
+      ],
+      "tip": "Câu cảnh báo: **〜と／〜ば／〜ては／このままでは** + kết quả xấu (事故, 病気, 誤解, 倒産) + chỗ trống sau Vます → 「かねない」. Nếu là bản tin / thông báo chính thức và trước chỗ trống là N の hoặc V辞書形 → 「おそれがある」."
+    },
+    {
+      "id": "b22-3",
+      "pattern": "〜おそれがある",
+      "reading": "〜おそれがある",
+      "meaning": "E rằng / có nguy cơ (điều xấu xảy ra) — trang trọng",
+      "structure": ["N ＋ の ＋ おそれがある", "V辞書形／Vない形 ＋ おそれがある", "〜おそれはない (không có nguy cơ)", "〜おそれのある ＋ N"],
+      "explain": "{恐|おそ}れ = nỗi lo sợ. 〜おそれがある = \"**có nguy cơ** (một điều xấu) xảy ra\". Đây là kiểu nói **khách quan, trang trọng** — giọng của bản tin, dự báo thời tiết, thông báo chính thức, nhãn cảnh báo sản phẩm, văn bản pháp luật.\n\n- 「{台風|たいふう}の{接近|せっきん}により、{大雨|おおあめ}のおそれがあります」 — Do bão đến gần, có nguy cơ mưa lớn.\n- 「この{薬|くすり}は{眠|ねむ}くなるおそれがあるので、{運転|うんてん}{前|まえ}には{飲|の}まないでください」.\n\nCác dạng cần nhớ:\n- **N + のおそれ**: 大雨のおそれ, 絶滅のおそれ, 感染のおそれ.\n- **〜おそれのある + N**: 「{絶滅|ぜつめつ}のおそれのある{動物|どうぶつ}」 = động vật có nguy cơ tuyệt chủng.\n- **〜おそれはない**: 「この{地震|じしん}による{津波|つなみ}のおそれはありません」 — câu quen thuộc trong tin động đất ở Nhật.",
+      "nuance": "- Cứng, văn viết / tin tức. Trong hội thoại thân mật thường nói 「〜かもしれない」 hoặc 「〜かねない」.\n- Chỉ dùng cho điều **xấu**.\n- Chủ thể có thể là **thiên nhiên, hiện tượng** (bão, mưa, động đất, dịch bệnh) — điểm mà かねない ít dùng.",
+      "examples": [
+        {"ja": "{明日|あした}の{朝|あさ}にかけて、{関東|かんとう}{地方|ちほう}では{強風|きょうふう}のおそれがあります。", "vi": "Từ nay đến sáng mai, vùng Kanto có nguy cơ gió mạnh.", "note": "N のおそれ · dự báo thời tiết"},
+        {"ja": "{大地震|おおじしん}の{際|さい}、この{地域|ちいき}は{地盤|じばん}が{液状化|えきじょうか}するおそれがある。", "vi": "Khi có động đất lớn, khu vực này có nguy cơ hóa lỏng nền đất.", "note": "V辞書形 + おそれがある"},
+        {"ja": "{同|おな}じパスワードを{使|つか}い{回|まわ}すと、{個人|こじん}{情報|じょうほう}が{盗|ぬす}まれるおそれがあります。", "vi": "Dùng đi dùng lại một mật khẩu thì có nguy cơ bị đánh cắp thông tin cá nhân.", "note": "Thông báo, hướng dẫn"},
+        {"ja": "{今回|こんかい}の{地震|じしん}による{津波|つなみ}のおそれはありません。", "vi": "Trận động đất lần này không có nguy cơ gây sóng thần.", "note": "〜おそれはない"},
+        {"ja": "{期限|きげん}までに{申請|しんせい}しないと、{補助金|ほじょきん}が{受|う}け{取|と}れないおそれがある。", "vi": "Nếu không nộp đơn trước hạn thì có nguy cơ không nhận được tiền trợ cấp.", "note": "Vない + おそれがある"},
+        {"ja": "この{森|もり}には、{絶滅|ぜつめつ}のおそれのある{植物|しょくぶつ}が{数多|かずおお}く{生|は}えている。", "vi": "Khu rừng này có rất nhiều loài thực vật có nguy cơ tuyệt chủng.", "note": "〜おそれのある + N"}
+      ],
+      "compare": [
+        {"with": "〜かねない", "diff": "「かねない」: chủ quan, nguyên nhân rõ, hơi văn nói, nối Vます, không đi trực tiếp với N. 「おそれがある」: khách quan, trang trọng, nối N の／V辞書形／Vない, hợp tin tức và hiện tượng tự nhiên."},
+        {"with": "〜{恐|おそ}れる (động từ)", "diff": "「失敗を恐れる」 = sợ thất bại — động từ chỉ cảm xúc của chủ thể. 「〜おそれがある」 = có nguy cơ — đánh giá khả năng."}
+      ],
+      "mistakes": [
+        "✗ {大雨|おおあめ}がおそれがある → ○ 大雨のおそれがある (N + の)",
+        "✗ {明日|あした}は{晴|は}れるおそれがあります。→ chỉ dùng cho điều xấu: ○ 晴れる見込みです。"
+      ],
+      "tip": "Văn phong **tin tức / thông báo** (〜により, 〜ます, 〜ため, 注意を呼びかける) + điều xấu → 「おそれがある」. Trước chỗ trống là **danh từ** → chỉ có thể là 「のおそれがある」, không phải かねない."
+    },
+    {
+      "id": "b22-4",
+      "pattern": "〜まい／〜ではあるまいか",
+      "reading": "〜まい／〜ではあるまいか",
+      "meaning": "〜まい: chắc là không… ／ 〜ではあるまいか: phải chăng là… (văn viết)",
+      "structure": ["V辞書形 ＋ まい (Nhóm II, III còn có: Vない形 bỏ ない ＋ まい: 食べまい; する → するまい／すまい; 来る → くるまい／こまい)", "い形: 〜く ＋ あるまい ／ な形・N: 〜である ＋ まい (thường gặp: 〜ではあるまい)", "V／い形 普通形 ＋ の ＋ ではあるまいか", "な形・N: 〜な ＋ の ＋ ではあるまいか／N ＋ ではあるまいか"],
+      "explain": "Hai mẫu **văn viết, hơi cổ**. まい là dạng **phủ định của phỏng đoán**: **まい = ないだろう**.\n\n**1. 〜まい: \"chắc là không…\"**\n- 「この{雨|あめ}では、{今日|きょう}は{誰|だれ}も{来|く}るまい」 = この雨では、今日は誰も来ないだろう.\n- 「あれだけ{確認|かくにん}したのだから、{間違|まちが}いはあるまい」 — Đã kiểm tra kỹ đến thế thì chắc không có sai sót.\n- Hay gặp: 「〜ことはあるまい」 (chắc không đến mức…), 「〜まいと{思|おも}う」.\n\n**2. 〜ではあるまいか: \"phải chăng là…, chẳng phải là… sao\"** = 〜ではないだろうか. Người viết nêu **suy đoán / ý kiến của mình**, nhưng dưới dạng câu hỏi tu từ để nghe **khiêm tốn, mềm mỏng** — rất hay gặp ở câu kết của bài luận, xã luận, bài 読解.\n- 「{若者|わかもの}の{読書|どくしょ}{離|ばな}れの{原因|げんいん}は、スマートフォンの{普及|ふきゅう}ではあるまいか」 — Phải chăng nguyên nhân giới trẻ xa rời sách là sự phổ cập của điện thoại thông minh?\n- Với động từ / tính từ cần 「の」: 「〜のではあるまいか」.\n\nLưu ý: 「まい」 ở bài 24 còn có nghĩa **ý chí phủ định** (\"quyết không…\": 二度と行くまい). Bài này chỉ học nghĩa **phỏng đoán**: chủ ngữ là người khác / sự vật → gần như chắc là phỏng đoán.",
+      "nuance": "- **Văn viết**, trang trọng; khi nói chuyện dùng 「〜ないだろう」「〜んじゃないかな」.\n- Không gắn với **thể lịch sự** (✗ 来ますまい) hay **thể quá khứ** (✗ 来たまい). Muốn đoán việc quá khứ → 「〜たのではあるまいか」.\n- Với nghĩa phỏng đoán, chủ ngữ thường **không phải ngôi thứ nhất** (nếu là 私 thì thường là nghĩa ý chí ở 24課).\n- Trong 読解, câu có 「ではあるまいか」 thường chính là **ý kiến chủ đạo của tác giả**.",
+      "examples": [
+        {"ja": "あれほど{念入|ねんい}りに{準備|じゅんび}したのだから、{失敗|しっぱい}することはあるまい。", "vi": "Đã chuẩn bị kỹ lưỡng đến thế thì chắc không thất bại đâu.", "note": "〜ことはあるまい"},
+        {"ja": "この{程度|ていど}の{雨|あめ}なら、{試合|しあい}が{中止|ちゅうし}になることはあるまい。", "vi": "Mưa cỡ này thì chắc trận đấu không bị hủy.", "note": ""},
+        {"ja": "{彼|かれ}の{性格|せいかく}からして、{自分|じぶん}から{謝|あやま}りに{来|く}ることはあるまい。", "vi": "Xét tính cách của anh ta thì chắc không đời nào tự đến xin lỗi.", "note": "Chủ ngữ ngôi thứ ba → phỏng đoán"},
+        {"ja": "{若者|わかもの}が{政治|せいじ}に{関心|かんしん}を{持|も}たないのは、{自分|じぶん}の{声|こえ}が{届|とど}かないと{感|かん}じているからではあるまいか。", "vi": "Phải chăng giới trẻ không quan tâm chính trị là vì họ cảm thấy tiếng nói của mình không được lắng nghe?", "note": "〜からではあるまいか: đoán nguyên nhân"},
+        {"ja": "{便利|べんり}さばかりを{追|お}い{求|もと}めた{結果|けっか}、{私|わたし}たちは{大切|たいせつ}なものを{失|うしな}ったのではあるまいか。", "vi": "Phải chăng vì chỉ mải chạy theo sự tiện lợi mà chúng ta đã đánh mất điều quý giá?", "note": "Vた + のではあるまいか: đoán việc đã qua"},
+        {"ja": "{子|こ}どもにとって{本当|ほんとう}に{必要|ひつよう}なのは、{高価|こうか}なおもちゃではなく、{親|おや}と{過|す}ごす{時間|じかん}ではあるまいか。", "vi": "Điều trẻ em thực sự cần, phải chăng không phải đồ chơi đắt tiền mà là thời gian bên cha mẹ?", "note": "N + ではあるまいか · câu kết bài luận"}
+      ],
+      "compare": [
+        {"with": "〜ないだろう／〜ではないだろうか", "diff": "Nghĩa giống hệt: まい = ないだろう, ではあるまいか = ではないだろうか. Bản まい cứng hơn, chỉ gặp trong văn viết."},
+        {"with": "〜まい (ý chí, 24課)", "diff": "「二度と嘘はつくまい」 = (tôi) quyết không bao giờ nói dối nữa — chủ ngữ là người nói, thể hiện quyết tâm. Bài này: 「彼は来るまい」 = chắc anh ấy không đến — phỏng đoán."}
+      ],
+      "mistakes": [
+        "✗ {彼|かれ}は{来|き}たまい。→ ○ 来なかっただろう／来なかったのではあるまいか (まい không đi với thể quá khứ)",
+        "✗ {簡単|かんたん}まい → ○ 簡単ではあるまい",
+        "✗ {失|うしな}ったではあるまいか → ○ 失ったのではあるまいか (động từ cần の)"
+      ],
+      "tip": "Bài luận / xã luận kết bằng chỗ trống mang ý \"phải chăng\" → 「(の)ではあるまいか」. Câu có căn cứ (〜のだから, この程度なら, 〜からして) + phỏng đoán phủ định → 「(ことは)あるまい」."
+    },
+    {
+      "id": "b22-5",
+      "pattern": "〜に違いない・〜に相違ない",
+      "reading": "〜にちがいない・〜にそういない",
+      "meaning": "Chắc chắn là… / nhất định là… (phỏng đoán có căn cứ, rất tự tin)",
+      "structure": ["V／い形 普通形 ＋ に違いない／に相違ない", "な形・N ＋ (である) ＋ に違いない (bỏ だ)", "普通形 ＋ から ＋ に違いない (chắc chắn là vì…)"],
+      "explain": "Người nói có **căn cứ** và tin gần như chắc chắn: \"**chắc chắn là…, nhất định là…**\".\n\nThang độ chắc chắn để định vị: かもしれない (có thể) < だろう (chắc là) < はずだ (theo lý thì phải) ≈ **に違いない** (chắc chắn, có căn cứ + niềm tin mạnh).\n\n- 「あんなに{練習|れんしゅう}したんだから、{彼女|かのじょ}は{合格|ごうかく}するに{違|ちが}いない」 — Luyện tập nhiều đến thế, chắc chắn cô ấy sẽ đỗ.\n- 「に{相違|そうい}ない」: nghĩa y hệt nhưng **rất cứng** — văn viết, tiểu thuyết trinh thám, phát biểu chính thức: 「{犯人|はんにん}はこの{中|なか}にいるに{相違|そうい}ない」.\n- 「〜から**に違いない**」: đoán **nguyên nhân**: 「{彼|かれ}が{怒|おこ}ったのは、{私|わたし}の{言葉|ことば}が{失礼|しつれい}だったからに{違|ちが}いない」.\n- Nối với な形・N: **bỏ だ** (元気に違いない, 本物に違いない) hoặc dùng である (本物であるに相違ない).",
+      "nuance": "- Là **phán đoán của người nói** nhưng có căn cứ (thường nêu trong câu: 〜のだから, 〜を見ると, あんなに〜).\n- Không dùng cho điều người nói **đã biết chắc là sự thật** (khi đó nói thẳng 「〜だ」).\n- 「に違いない」 dùng cả văn nói lẫn văn viết; 「に相違ない」 chỉ văn viết / rất trang trọng.",
+      "examples": [
+        {"ja": "{部屋|へや}の{明|あ}かりがついているから、{兄|あに}はもう{帰|かえ}っているに{違|ちが}いない。", "vi": "Đèn phòng đang sáng, chắc chắn anh tôi đã về rồi.", "note": "Căn cứ 〜から + kết luận"},
+        {"ja": "こんなに{行列|ぎょうれつ}ができているのだから、この{店|みせ}のラーメンはおいしいに{違|ちが}いない。", "vi": "Xếp hàng dài thế này thì mì ở quán này chắc chắn ngon.", "note": "い形 + に違いない"},
+        {"ja": "{彼女|かのじょ}の{驚|おどろ}いた{顔|かお}を{見|み}ると、そのことは{本当|ほんとう}に{知|し}らなかったに{違|ちが}いない。", "vi": "Nhìn vẻ mặt ngạc nhiên của cô ấy, chắc chắn cô ấy thật sự không biết chuyện đó.", "note": "〜を見ると + に違いない"},
+        {"ja": "この{筆跡|ひっせき}は、{亡|な}くなった{父|ちち}のものに{相違|そうい}ない。", "vi": "Nét chữ này chắc chắn là của người cha đã khuất.", "note": "N + に相違ない · văn viết"},
+        {"ja": "{彼|かれ}が{急|きゅう}に{会社|かいしゃ}を{辞|や}めたのは、{何|なに}か{深|ふか}い{事情|じじょう}があったからに{違|ちが}いない。", "vi": "Anh ấy đột ngột nghỉ việc chắc chắn là vì có uẩn khúc gì sâu xa.", "note": "〜からに違いない: đoán nguyên nhân"},
+        {"ja": "{調査|ちょうさ}の{結果|けっか}、この{絵|え}は17{世紀|せいき}の{作品|さくひん}であるに{相違|そうい}ないと{判断|はんだん}された。", "vi": "Kết quả điều tra đã kết luận bức tranh này chắc chắn là tác phẩm thế kỷ 17.", "note": "N である + に相違ない"}
+      ],
+      "compare": [
+        {"with": "〜はずだ (N3)", "diff": "「はずだ」 = suy luận **logic** từ dữ kiện (\"theo lý thì phải…\"), có thể đối chiếu với thực tế (〜はずなのに来ない). 「に違いない」 cũng dựa vào **căn cứ**, nhưng nhấn vào **niềm tin chắc chắn** của người nói (\"nhất định là…\"); không dùng kiểu 〜に違いないのに."},
+        {"with": "〜にきまっている", "diff": "「にきまっている」 = văn nói, chủ quan, không cần căn cứ, giọng \"còn phải hỏi\". 「に違いない」 có căn cứ, dùng được cả văn viết."}
+      ],
+      "mistakes": [
+        "✗ {彼|かれ}は{元気|げんき}だに{違|ちが}いない → ○ 元気に違いない (bỏ だ)",
+        "✗ (việc của chính mình, đã biết rõ) {私|わたし}は{昨日|きのう}{東京|とうきょう}へ{行|い}ったに{違|ちが}いない。→ ○ 昨日東京へ行った。"
+      ],
+      "tip": "Chỗ trống cuối câu, có **căn cứ rõ** (〜のだから, 〜を見ると, あんなに〜) + kết luận chắc chắn → 「に違いない」. Văn phong trang trọng (判断された, である) → 「に相違ない」."
+    },
+    {
+      "id": "b22-6",
+      "pattern": "〜にきまっている",
+      "reading": "〜にきまっている",
+      "meaning": "Chắc chắn là… / dĩ nhiên là… (khẳng định chủ quan, văn nói)",
+      "structure": ["V／い形 普通形 ＋ にきまっている", "な形・N ＋ にきまっている (bỏ だ)", "Văn nói: 〜に決まってる／〜に決まってるじゃない"],
+      "explain": "{決|き}まる = được quyết định. 〜に決まっている = \"**đã được định sẵn là…**\" → người nói khẳng định **rất mạnh, theo cảm tính**: \"chắc chắn rồi, còn phải hỏi\".\n\n- 「こんな{時間|じかん}にかかってくる{電話|でんわ}なんて、セールスに{決|き}まっている」 — Điện thoại gọi giờ này thì chắc chắn là chào hàng.\n- 「そんなの、{無理|むり}に{決|き}まってるじゃない」 — Chuyện đó thì dĩ nhiên là không được rồi còn gì.\n\nKhác với に違いない (có căn cứ), にきまっている thường dựa vào **định kiến, kinh nghiệm, trực giác** — giọng \"ai nghĩ cũng vậy thôi\". Hay dùng khi **phản bác, cãi lại**, hoặc đoán chắc **hậu quả**: 「{親|おや}の{車|くるま}を{勝手|かって}に{使|つか}ったら、{叱|しか}られるに{決|き}まっている」.",
+      "nuance": "- **Văn nói** (thường rút gọn 〜に決まってる).\n- Sắc thái **chủ quan, đôi khi áp đặt** → không hợp báo cáo, văn bản trang trọng (dùng 〜に違いない／〜に相違ない).\n- Dùng được cho cả điều tốt lẫn xấu.",
+      "examples": [
+        {"ja": "{一晩|ひとばん}で100ページのレポートなんて、{書|か}けないにきまっているよ。", "vi": "Một đêm mà viết báo cáo 100 trang thì dĩ nhiên là không thể rồi.", "note": "Vない + にきまっている"},
+        {"ja": "こんなに{安|やす}いブランドバッグは、{偽物|にせもの}にきまっている。", "vi": "Túi hàng hiệu mà rẻ thế này thì chắc chắn là hàng giả.", "note": "N + にきまっている"},
+        {"ja": "「どっちのチームが{勝|か}つと{思|おも}う？」「そりゃ、うちのチームにきまってるじゃない。」", "vi": "\"Cậu nghĩ đội nào thắng?\" \"Thì dĩ nhiên là đội mình rồi còn gì.\"", "note": "Hội thoại · 〜に決まってるじゃない"},
+        {"ja": "{宿題|しゅくだい}をやらずにゲームばかりしていたら、{母|はは}に{叱|しか}られるにきまっている。", "vi": "Không làm bài tập mà chỉ chơi game thì chắc chắn bị mẹ mắng.", "note": "Đoán chắc hậu quả"},
+        {"ja": "{誰|だれ}だって、{褒|ほ}められたらうれしいにきまっています。", "vi": "Ai mà chẳng vui khi được khen.", "note": "い形 + にきまっている"},
+        {"ja": "{傘|かさ}も{持|も}たずにこんな{大雨|おおあめ}の{中|なか}を{出|で}かけたら、{風邪|かぜ}をひくにきまっている。", "vi": "Không mang ô mà ra ngoài giữa trời mưa to thế này thì chắc chắn cảm lạnh.", "note": ""}
+      ],
+      "compare": [
+        {"with": "〜に違いない", "diff": "「に違いない」: có căn cứ, dùng được văn viết. 「にきまっている」: chủ quan, trực giác \"ai cũng biết\", văn nói, hay dùng khi cãi lại."},
+        {"with": "〜ことになっている (N3)", "diff": "「ことになっている」 = theo quy định / dự định đã được quyết (会議は9時からということになっている). Khác hẳn: không phải phỏng đoán."}
+      ],
+      "mistakes": [
+        "✗ (báo cáo) {調査|ちょうさ}の{結果|けっか}、{原因|げんいん}は{老朽化|ろうきゅうか}にきまっている。→ ○ 老朽化に相違ない／老朽化であると考えられる。",
+        "✗ {無理|むり}だにきまっている → ○ 無理にきまっている (bỏ だ)"
+      ],
+      "tip": "Câu **hội thoại thân mật**, giọng cãi lại (そんなの, そりゃ, 〜じゃない, 〜よ) + khẳng định chắc nịch → 「にきまっている」. Văn trang trọng → loại にきまっている."
+    }
+  ],
+  "summary": [
+    {"pattern": "〜とみえる", "meaning": "nhìn thế thì chắc là…", "key": "căn cứ quan sát; về người/vật khác; 〜とみえて、"},
+    {"pattern": "〜かねない", "meaning": "có thể dẫn tới (xấu)", "key": "Vます; chủ quan, cảnh báo; ≠ かねる"},
+    {"pattern": "〜おそれがある", "meaning": "có nguy cơ (xấu)", "key": "Nの／V辞書形／Vない; tin tức, trang trọng; おそれのある N"},
+    {"pattern": "〜まい／〜ではあるまいか", "meaning": "chắc là không… / phải chăng là…", "key": "văn viết; まい=ないだろう; のではあるまいか = ý kiến tác giả"},
+    {"pattern": "〜に違いない・〜に相違ない", "meaning": "chắc chắn là…", "key": "có căn cứ; な形・N bỏ だ; 相違ない cứng; 〜からに違いない"},
+    {"pattern": "〜にきまっている", "meaning": "dĩ nhiên là…", "key": "văn nói, chủ quan; 〜に決まってるじゃない"}
+  ],
+  "quiz": [
+    {"id": "b22-q1", "kind": "form", "ref": "b22-1", "q": "{弟|おとうと}は{夕飯|ゆうはん}も{食|た}べずに{部屋|へや}にこもって{勉強|べんきょう}している。{明日|あした}の{試験|しけん}がよほど{心配|しんぱい}だ（　　）。", "options": ["とみえる", "おそれがある", "かねない", "まい"], "answer": 0, "vi": "Em trai tôi bỏ cả cơm tối, nhốt mình trong phòng học bài. Chắc là lo lắng cho bài thi ngày mai lắm.", "why": "Dấu hiệu quan sát (bỏ cơm, nhốt mình học) → suy đoán về người khác → **とみえる** (な形 + だとみえる). 「心配だおそれがある」 sai dạng (phải 心配のおそれ, và chỉ dùng cho nguy cơ); 「かねない」 cần Vます; 「まい」 không nối sau 〜だ."},
+    {"id": "b22-q2", "kind": "form", "ref": "b22-2", "q": "{睡眠|すいみん}{不足|ぶそく}のまま{運転|うんてん}すると、{居眠|いねむ}りをして{事故|じこ}を{起|お}こし（　　）。", "options": ["にきまっている", "かねない", "とみえる", "ではあるまいか"], "answer": 1, "vi": "Thiếu ngủ mà lái xe thì có thể ngủ gật và gây tai nạn.", "why": "Vます (起こし) + cảnh báo kết quả xấu → **かねない**. Ba phương án còn lại đều phải nối với thể thường (起こす), không nối với Vます."},
+    {"id": "b22-q3", "kind": "form", "ref": "b22-3", "q": "{気象庁|きしょうちょう}によると、{今夜|こんや}から{明日|あした}にかけて、{沿岸部|えんがんぶ}では{高潮|たかしお}の（　　）とのことです。", "options": ["おそれがある", "かねない", "に違いない", "にきまっている"], "answer": 0, "vi": "Theo Cục Khí tượng, từ đêm nay đến ngày mai, vùng ven biển có nguy cơ triều cường.", "why": "Bản tin chính thức + N の + điều xấu → **おそれがある**. 「かねない」 không đi với N の; 「に違いない」「にきまっている」 không đứng sau 「の」, và cũng là phán đoán chủ quan, không hợp giọng dự báo."},
+    {"id": "b22-q4", "kind": "form", "ref": "b22-4", "q": "これだけ{証拠|しょうこ}がそろっているのだから、{彼|かれ}も{言|い}い{逃|のが}れはできる（　　）。", "options": ["とみえる", "にきまっている", "かねない", "まい"], "answer": 3, "vi": "Bằng chứng đầy đủ thế này thì chắc anh ta cũng không chối được.", "why": "Căn cứ (証拠がそろっている) + phỏng đoán phủ định → **まい** (= できないだろう). 「できるとみえる」「できるにきまっている」 nghĩa ngược (chắc là chối được), mâu thuẫn với căn cứ; 「かねない」 phải nối Vます (できかねない), không nối 「できる」."},
+    {"id": "b22-q5", "kind": "form", "ref": "b22-5", "q": "あんなにうれしそうな{顔|かお}をしているのだから、{面接|めんせつ}はうまくいった（　　）。", "options": ["おそれがある", "かねない", "に違いない", "ではあるまいか"], "answer": 2, "vi": "Mặt mũi hớn hở thế kia thì chắc chắn buổi phỏng vấn suôn sẻ rồi.", "why": "Căn cứ (のだから) + kết luận chắc chắn, chuyện tốt → **に違いない**. 「おそれがある」「かねない」 chỉ cho điều xấu (và かねない cần Vます); 「ではあるまいか」 sau động từ phải có 「の」 (うまくいったのではあるまいか)."},
+    {"id": "b22-q6", "kind": "form", "ref": "b22-6", "q": "「この{服|ふく}、{私|わたし}に{似合|にあ}うかな。」「そんな{派手|はで}な{色|いろ}、{似合|にあ}わない（　　）じゃない。」", "options": ["とみえる", "にきまってる", "おそれがある", "ではあるまい"], "answer": 1, "vi": "\"Bộ này hợp với tớ không nhỉ?\" \"Màu lòe loẹt thế thì dĩ nhiên là không hợp rồi còn gì.\"", "why": "Hội thoại thân mật, giọng khẳng định chắc nịch (〜じゃない) → **にきまってる**. 「とみえる」 cần dấu hiệu quan sát và là văn viết; 「おそれがある」 là văn trang trọng; 「ではあるまい」 không đứng sau Vない và không đi với じゃない."},
+    {"id": "b22-q7", "kind": "order", "ref": "b22-4", "q": "{問題|もんだい}の{本当|ほんとう}の{原因|げんいん}は、＿＿＿ ＿＿＿ ★ ＿＿＿。", "options": ["まいか", "教育制度", "ではある", "そのもの"], "order": [1, 3, 2, 0], "answer": 2, "vi": "Phải chăng nguyên nhân thực sự của vấn đề nằm ở chính chế độ giáo dục?", "why": "原因は **教育制度 そのもの ではある まいか** → ★ (ô thứ 3) = 「ではある」. 「N + そのもの」 = chính bản thân N; khuôn N ではあるまいか bị tách thành 「ではある」+「まいか」."}
+  ],
+  "practice": [
+    {"id": "b22-p1", "kind": "form", "ref": "b22-1", "q": "{犯人|はんにん}は{相当|そうとう}{慌|あわ}てていた（　　）、{現場|げんば}に{自分|じぶん}の{財布|さいふ}を{落|お}としていった。", "options": ["とみえて", "おそれがあって", "かねなくて", "にきまっていて"], "answer": 0, "vi": "Có vẻ hung thủ đã rất hoảng loạn, nên đã đánh rơi cả ví của mình tại hiện trường.", "why": "Suy đoán + sự việc quan sát được ở vế sau → **とみえて** (nối câu). 「おそれがあって」 = có nguy cơ, sai nghĩa; 「かねなくて」 không dùng; 「にきまっていて」 không dùng ở dạng nối câu này."},
+    {"id": "b22-p2", "kind": "form", "ref": "b22-2", "q": "{上司|じょうし}の{前|まえ}でそんな{冗談|じょうだん}を{言|い}ったら、{失礼|しつれい}だと{思|おも}われ（　　）よ。", "options": ["かねる", "かねない", "かねて", "かねなかった"], "answer": 1, "vi": "Nói đùa kiểu đó trước mặt sếp thì có khi bị cho là thất lễ đấy.", "why": "Giả định (〜たら) + cảnh báo điều xấu có thể xảy ra → **かねない**. 「かねる」 = khó mà / không thể làm (ý chí của người nói), nghĩa ngược; 「かねて」 không kết câu được ở đây; 「かねなかった」 là quá khứ, không hợp với giả định tương lai 〜たら."},
+    {"id": "b22-p3", "kind": "form", "ref": "b22-3", "q": "この{製品|せいひん}は、{高温|こうおん}の{場所|ばしょ}に{置|お}くと{発火|はっか}する（　　）ので、{車内|しゃない}に{放置|ほうち}しないでください。", "options": ["にきまっている", "とみえる", "おそれがある", "まい"], "answer": 2, "vi": "Sản phẩm này có nguy cơ bốc cháy nếu để ở nơi nhiệt độ cao, vì vậy xin đừng để trong xe.", "why": "Nhãn cảnh báo sản phẩm, văn trang trọng + điều xấu → **おそれがある**. 「にきまっている」 là văn nói chủ quan, không hợp văn bản cảnh báo; 「とみえる」 cần dấu hiệu quan sát về người/vật cụ thể; 「まい」 là phủ định, nghĩa ngược (chắc không bốc cháy)."},
+    {"id": "b22-p4", "kind": "form", "ref": "b22-4", "q": "{彼|かれ}ほどの{実力|じつりょく}があれば、{予選|よせん}で{負|ま}けることはある（　　）。", "options": ["かねない", "おそれがある", "に違いない", "まい"], "answer": 3, "vi": "Thực lực như anh ấy thì chắc không có chuyện thua ở vòng loại.", "why": "Căn cứ (彼ほどの実力) + phỏng đoán phủ định 「〜ことはあるまい」 → **まい**. 「あるに違いない」 nghĩa ngược với căn cứ; 「あるかねない」 sai dạng (cần ありかねない); 「おそれがある」 không hợp khi đã nói thực lực mạnh."},
+    {"id": "b22-p5", "kind": "form", "ref": "b22-5", "q": "この{手紙|てがみ}の{字|じ}は{間違|まちが}いなく{祖母|そぼ}の{字|じ}だ。{祖母|そぼ}が{若|わか}い{頃|ころ}に{書|か}いたもの（　　）。", "options": ["のおそれがある", "とみえて", "に相違ない", "かねない"], "answer": 2, "vi": "Nét chữ trong lá thư này chắc chắn là của bà. Đây hẳn là thứ bà viết hồi còn trẻ.", "why": "Căn cứ rõ (間違いなく祖母の字) + kết luận chắc chắn sau N → **に相違ない**. 「のおそれがある」 chỉ cho điều xấu; 「とみえて」 là dạng nối câu, không kết câu; 「かねない」 cần Vます."},
+    {"id": "b22-p6", "kind": "form", "ref": "b22-6", "q": "{一夜漬|いちやづ}けで{合格|ごうかく}できるほど、この{試験|しけん}は{甘|あま}くないよ。{落|お}ちる（　　）。", "options": ["かねない", "にきまってる", "ではあるまいか", "とみえる"], "answer": 1, "vi": "Kỳ thi này không dễ đến mức học dồn một đêm mà đỗ đâu. Chắc chắn trượt.", "why": "Hội thoại thân mật (〜よ), khẳng định chắc nịch → **にきまってる**. 「落ちるかねない」 sai dạng (cần 落ちかねない); 「落ちるではあるまいか」 thiếu の và là văn viết; 「とみえる」 cần dấu hiệu quan sát, văn viết."},
+    {"id": "b22-p7", "kind": "usage", "ref": "b22-1", "q": "「〜とみえる」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["{天気|てんき}{予報|よほう}によると、{明日|あした}は{雪|ゆき}が{降|ふ}るとみえる。", "{私|わたし}は{最近|さいきん}、{疲|つか}れがたまっているとみえる。", "{店|みせ}の{前|まえ}に{長|なが}い{列|れつ}ができている。{何|なに}か{安売|やすう}りをしているとみえる。", "{彼|かれ}は{明日|あした}{来|く}るとみえるので、{部屋|へや}を{掃除|そうじ}しよう。"], "answer": 2, "vi": "(3) Trước cửa hàng có hàng dài người xếp. Chắc là đang bán giảm giá gì đó.", "why": "(3) dấu hiệu quan sát được → suy đoán → đúng. (1) thông tin nghe được → 「降るそうだ」; (2) nói về bản thân → 「たまっているようだ」; (4) không có căn cứ quan sát và dùng làm lý do cho ý chí của mình → 「来るそうなので」."},
+    {"id": "b22-p8", "kind": "order", "ref": "b22-2", "q": "{一度|いちど}の{小|ちい}さな ＿＿＿ ＿＿＿ ★ ＿＿＿ ので、{十分|じゅうぶん}{注意|ちゅうい}してください。", "options": ["失い", "ミスが", "会社の信用を", "かねない"], "order": [1, 2, 0, 3], "answer": 0, "vi": "Chỉ một lỗi nhỏ thôi cũng có thể làm mất uy tín của công ty, vì vậy hãy hết sức cẩn thận.", "why": "一度の小さな **ミスが 会社の信用を 失い かねない** ので → ★ (ô thứ 3) = 「失い」. 「小さな」 bổ nghĩa cho 「ミス」; 「Vます (失い) + かねない」."},
+    {"id": "b22-p9", "kind": "form", "ref": "b22-4", "q": "{少子化|しょうしか}の{背景|はいけい}には、{若|わか}い{世代|せだい}の{経済的|けいざいてき}な{不安|ふあん}があるの（　　）。", "options": ["にきまっている", "とみえる", "かねない", "ではあるまいか"], "answer": 3, "vi": "Phải chăng đằng sau tình trạng giảm sinh là nỗi bất an kinh tế của thế hệ trẻ?", "why": "Văn nghị luận, tác giả đưa ra ý kiến mềm mỏng, đứng sau 「の」 → **ではあるまいか**. 「のにきまっている」「のとみえる」「のかねない」 đều sai cấu trúc; にきまっている còn là văn nói."},
+    {"id": "b22-p10", "kind": "order", "ref": "b22-5", "q": "{何度|なんど}{電話|でんわ}しても{出|で}ないところを{見|み}ると、＿＿＿ ＿＿＿ ★ ＿＿＿。", "options": ["まだ", "違いない", "会議中", "に"], "order": [0, 2, 3, 1], "answer": 3, "vi": "Gọi mấy lần vẫn không nghe máy, chắc chắn là vẫn đang họp.", "why": "ところを見ると、**まだ 会議中 に 違いない** → ★ (ô thứ 3) = 「に」. N (会議中) + に違いない; 「まだ」 đứng trước danh từ trạng thái."},
+    {"id": "b22-p11", "kind": "form", "ref": "b22-2", "q": "このまま{森林|しんりん}の{伐採|ばっさい}が{続|つづ}けば、{多|おお}くの{動物|どうぶつ}が{住|す}む{場所|ばしょ}を{失|うしな}い（　　）。", "options": ["おそれがある", "かねない", "とみえる", "にきまっている"], "answer": 1, "vi": "Nếu cứ tiếp tục chặt phá rừng thế này, nhiều loài động vật có thể mất nơi sinh sống.", "why": "このまま〜ば + kết quả xấu + Vます (失い) → **かねない**. 「おそれがある」 nghĩa hợp nhưng phải nối với V辞書形 (失うおそれがある), không nối Vます; 「とみえる」「にきまっている」 cũng cần thể thường."}
+  ],
+  "test": [
+    {"id": "b22-t1", "kind": "form", "ref": "b22-3", "q": "{警察|けいさつ}は、{同様|どうよう}の{詐欺|さぎ}の{被害|ひがい}が{広|ひろ}がる（　　）として、{高齢者|こうれいしゃ}に{注意|ちゅうい}を{呼|よ}びかけている。", "options": ["かねない", "おそれがある", "にきまっている", "まい"], "answer": 1, "vi": "Cảnh sát đang kêu gọi người cao tuổi cảnh giác vì có nguy cơ thiệt hại do các vụ lừa đảo tương tự lan rộng.", "why": "Giọng tin tức (警察は〜として呼びかけている) + V辞書形 + điều xấu → **おそれがある**. 「広がるかねない」 sai dạng (cần 広がりかねない); 「にきまっている」 là văn nói chủ quan; 「まい」 = chắc không lan rộng, mâu thuẫn với việc kêu gọi cảnh giác."},
+    {"id": "b22-t2", "kind": "form", "ref": "b22-1", "q": "{部長|ぶちょう}は{朝|あさ}からずっと{鼻歌|はなうた}を{歌|うた}っている。{週末|しゅうまつ}のゴルフでよほどいいスコアが{出|で}た（　　）。", "options": ["おそれがある", "かねない", "ではあるまい", "とみえる"], "answer": 3, "vi": "Trưởng phòng từ sáng cứ ngân nga hát. Chắc là cuối tuần chơi golf được điểm rất tốt.", "why": "Dấu hiệu quan sát (鼻歌を歌っている) → suy đoán về người khác → **とみえる** (よほど〜とみえる). 「おそれがある」「かねない」 chỉ cho điều xấu (かねない còn cần Vます); 「出たではあるまい」 sai dạng (thiếu の) và nghĩa phủ định, mâu thuẫn với dấu hiệu."},
+    {"id": "b22-t3", "kind": "form", "ref": "b22-6", "q": "{中学生|ちゅうがくせい}が{一人|ひとり}で{海外|かいがい}{旅行|りょこう}なんて、{親|おや}が{許|ゆる}さない（　　）でしょう。", "options": ["かねない", "にきまってる", "とみえる", "まい"], "answer": 1, "vi": "Học sinh cấp hai mà đi du lịch nước ngoài một mình thì bố mẹ dĩ nhiên không cho phép rồi.", "why": "Hội thoại, giọng khẳng định \"còn phải hỏi\" + Vない → **にきまってる**. 「許さないかねない」 sai dạng (かねない cần Vます); 「とみえる」 cần dấu hiệu quan sát và không đi với でしょう; 「許さないまい」 sai — まい không nối sau Vない."},
+    {"id": "b22-t4", "kind": "form", "ref": "b22-4", "q": "{誰|だれ}も{見|み}ていないのだから、{少|すこ}しぐらいルールを{破|やぶ}ってもわかる（　　）と{思|おも}ったのが{間違|まちが}いだった。", "options": ["まい", "かねない", "に違いない", "とみえる"], "answer": 0, "vi": "Tôi đã sai khi nghĩ rằng không ai nhìn thấy thì phá luật một chút chắc cũng không bị phát hiện.", "why": "Căn cứ (誰も見ていない) + phỏng đoán phủ định → **わかるまい** (= わからないだろう). 「わかるに違いない」 nghĩa ngược với căn cứ; 「わかるかねない」 sai dạng; 「とみえる」 cần dấu hiệu quan sát về người khác."},
+    {"id": "b22-t5", "kind": "form", "ref": "b22-5", "q": "{現場|げんば}に{残|のこ}された{指紋|しもん}から{判断|はんだん}して、この{男|おとこ}が{犯人|はんにん}である（　　）。", "options": ["にきまってる", "とみえて", "に相違ない", "かねない"], "answer": 2, "vi": "Xét từ dấu vân tay để lại tại hiện trường, gã đàn ông này chắc chắn là hung thủ.", "why": "Căn cứ khách quan (指紋から判断して) + văn phong trang trọng (である) → **に相違ない**. 「にきまってる」 là văn nói, không hợp với である; 「とみえて」 là dạng nối câu; 「かねない」 cần Vます và chỉ dùng cho nguy cơ."},
+    {"id": "b22-t6", "kind": "order", "ref": "b22-3", "q": "この{古|ふる}い{建物|たてもの}は、{大|おお}きな ＿＿＿ ＿＿＿ ★ ＿＿＿ {補強|ほきょう}{工事|こうじ}が{進|すす}められている。", "options": ["倒壊の", "おそれがある", "地震で", "ため"], "order": [2, 0, 1, 3], "answer": 1, "vi": "Tòa nhà cũ này có nguy cơ sụp đổ khi có động đất lớn, nên đang được thi công gia cố.", "why": "大きな **地震で 倒壊の おそれがある ため** 補強工事が… → ★ (ô thứ 3) = 「おそれがある」. 「大きな」 bổ nghĩa cho 「地震」; 「Nの + おそれがある」 + 「ため」 (lý do)."},
+    {"id": "b22-t7", "kind": "usage", "ref": "b22-2", "q": "「〜かねない」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["{甘|あま}いものばかり{食|た}べていると、{病気|びょうき}になりかねない。", "{彼|かれ}は{真面目|まじめ}だから、きっと{成功|せいこう}しかねない。", "{明日|あした}は{大雪|おおゆき}のかねない。", "その{件|けん}については、{私|わたし}からはお{答|こた}えしかねない。"], "answer": 0, "vi": "(1) Cứ ăn toàn đồ ngọt thì có thể sinh bệnh.", "why": "(1) nguyên nhân + kết quả xấu, Vます + かねない → đúng. (2) kết quả tốt → 「成功するに違いない」; (3) không nối với N の → 「大雪のおそれがある」; (4) từ chối lịch sự → 「お答えしかねます」 (かねる)."},
+    {"id": "b22-t8", "kind": "order", "ref": "b22-5", "q": "{時間|じかん}に{正確|せいかく}な{彼|かれ}がこんなに{遅|おく}れるのは、＿＿＿ ＿＿＿ ★ ＿＿＿。", "options": ["からに", "違いない", "何か", "トラブルがあった"], "order": [2, 3, 0, 1], "answer": 0, "vi": "Người đúng giờ như anh ấy mà trễ thế này, chắc chắn là vì đã gặp sự cố gì đó.", "why": "遅れるのは、**何か トラブルがあった からに 違いない** → ★ (ô thứ 3) = 「からに」. Khuôn 「〜のは、〜からに違いない」 dùng để đoán nguyên nhân."}
+  ]
+}

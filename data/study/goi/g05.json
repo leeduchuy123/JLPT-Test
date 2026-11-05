@@ -1,0 +1,2027 @@
+{
+  "id": "g05",
+  "track": "goi",
+  "intro": "Bài 家事 (việc nhà) là bài của **động từ cụ thể**: may vá, lau dọn, giặt phơi, nấu nướng, chăm con. Phần lớn là những việc bạn làm mỗi ngày nhưng thường chỉ nói bằng vài động từ chung chung (する, 作る, きれいにする) — đề N2 thì đòi đúng từ: 掃く hay 拭く? 煮る hay ゆでる? 溶く hay 溶かす?\n\nĐiểm then chốt của bài:\n- **Cặp tự động từ / tha động từ**: 散らかる／散らかす, 煮える／煮る, 焦げる／焦がす, 溶ける／溶かす, こぼれる／こぼす, 汚れる／汚す. Chỗ trống đi sau 「が」 hay 「を」 sẽ quyết định đáp án.\n- **Động từ nấu ăn**: ゆでる, 蒸す, 揚げる, いる, 炊く, 熱する, 加熱する — mỗi cách dùng nhiệt khác nhau.\n- **Giặt giũ và quần áo**: 干す, 乾かす, 畳む, 裏返す, 縮む, しわを伸ばす, つるす, 編む, 縫う, 柄・模様.\n- **Chăm trẻ**: 抱く／だっこする, 背負う／おんぶする, なでる, 構う, 暴れる.\n- **Ghép từ**: 〜模様, 〜返す, 〜上がる, 〜立て và 4 phó từ: せめて, かえって, あらかじめ, ぐっと.\n\nMẹo học: mỗi động từ hãy gắn với **một dụng cụ hoặc một vật**: ほうきで掃く, ぞうきんを絞る, ハンガーにつるす, ご飯を炊く, 卵を溶く. Nhớ cụm là nhớ luôn cách dùng.",
+  "sections": [
+    {
+      "title": "家事・衣服",
+      "title_vi": "Việc nhà · Quần áo, may vá",
+      "words": [
+        {
+          "id": "g05-w1",
+          "w": "家事",
+          "r": "かじ",
+          "hv": "GIA SỰ",
+          "pos": "名",
+          "vi": "việc nhà (nấu nướng, giặt giũ, dọn dẹp…)",
+          "key": true,
+          "ex": {
+            "ja": "{共働|ともばたら}きなので、{家事|かじ}は{夫婦|ふうふ}で{分担|ぶんたん}している。",
+            "vi": "Hai vợ chồng cùng đi làm nên chia nhau việc nhà."
+          },
+          "col": [
+            "家事が得意だ",
+            "家事を分担する",
+            "家事代行サービス",
+            "家事と育児"
+          ],
+          "note": "Đồng âm 「{火事|かじ}」 = hoả hoạn. Phân biệt: 家事 = việc **trong nhà**; 炊事 = riêng việc **bếp núc**."
+        },
+        {
+          "id": "g05-w2",
+          "w": "衣服",
+          "r": "いふく",
+          "hv": "Y PHỤC",
+          "pos": "名",
+          "vi": "quần áo, y phục (văn viết)",
+          "key": true,
+          "ex": {
+            "ja": "{避難所|ひなんじょ}では、{食料|しょくりょう}だけでなく{衣服|いふく}も{不足|ふそく}していた。",
+            "vi": "Ở nơi sơ tán, không chỉ thiếu lương thực mà cả quần áo."
+          },
+          "rel": "≒ 服・衣類（いるい）",
+          "note": "Văn nói dùng 「服」; 「衣服」 hay gặp trong văn bản, tin tức, hướng dẫn."
+        },
+        {
+          "id": "g05-w69",
+          "w": "毛糸",
+          "r": "けいと",
+          "hv": "MAO MỊCH",
+          "pos": "名",
+          "vi": "len, sợi len (để đan)",
+          "key": true,
+          "ex": {
+            "ja": "{母|はは}は{赤|あか}い{毛糸|けいと}で{手袋|てぶくろ}を{編|あ}んでくれた。",
+            "vi": "Mẹ đã đan cho tôi đôi găng tay bằng len đỏ."
+          },
+          "col": [
+            "毛糸で編む",
+            "毛糸の帽子",
+            "毛糸玉"
+          ],
+          "note": "Đọc **けいと** (毛 = け, 糸 = いと). Đi với động từ 「編む」 (đan), không phải 「縫う」."
+        },
+        {
+          "id": "g05-w3",
+          "w": "編む",
+          "r": "あむ",
+          "hv": "BIÊN",
+          "pos": "他動",
+          "vi": "đan (len); biên soạn (sách)",
+          "key": true,
+          "ex": {
+            "ja": "{冬|ふゆ}になる{前|まえ}に、{毛糸|けいと}で{孫|まご}のマフラーを{編|あ}んでいる。",
+            "vi": "Trước khi vào đông, tôi đang đan khăn len cho cháu."
+          },
+          "col": [
+            "セーターを編む",
+            "毛糸で編む",
+            "編み物",
+            "三つ編み（tóc tết ba）"
+          ],
+          "note": "Nghĩa văn viết: 「{辞書|じしょ}を{編|あ}む」 = biên soạn từ điển (編集 = biên tập)."
+        },
+        {
+          "id": "g05-w70",
+          "w": "ミシン",
+          "r": "みしん",
+          "hv": "",
+          "pos": "名",
+          "vi": "máy khâu, máy may",
+          "key": true,
+          "ex": {
+            "ja": "{祖母|そぼ}は{古|ふる}いミシンで{孫|まご}のスカートを{縫|ぬ}った。",
+            "vi": "Bà đã may chiếc váy cho cháu bằng chiếc máy khâu cũ."
+          },
+          "col": [
+            "ミシンで縫う",
+            "ミシンをかける"
+          ],
+          "note": "Từ tiếng Anh (sewing) machine rút gọn thành ミシン — không phải 'machine' nói chung (máy móc = 機械／マシン)."
+        },
+        {
+          "id": "g05-w4",
+          "w": "縫う",
+          "r": "ぬう",
+          "hv": "PHÙNG",
+          "pos": "他動",
+          "vi": "may, khâu; khâu vết thương; luồn lách",
+          "key": true,
+          "ex": {
+            "ja": "{取|と}れかけたボタンを{針|はり}と{糸|いと}で{縫|ぬ}いつけた。",
+            "vi": "Tôi lấy kim chỉ khâu lại cái cúc sắp đứt."
+          },
+          "col": [
+            "ミシンで縫う",
+            "傷口を縫う",
+            "人ごみを縫うように歩く（len lỏi qua đám đông）",
+            "縫い物"
+          ],
+          "note": "編む = dùng **que đan** tạo vải từ sợi len; 縫う = dùng **kim chỉ / máy may** nối các mảnh vải."
+        },
+        {
+          "id": "g05-w5",
+          "w": "柄",
+          "r": "がら",
+          "hv": "BÍNH",
+          "pos": "名",
+          "vi": "hoa văn, họa tiết (trên vải); tầm vóc, tính nết",
+          "key": true,
+          "ex": {
+            "ja": "{派手|はで}な{柄|がら}のシャツは、{会社|かいしゃ}には{着|き}ていけない。",
+            "vi": "Áo sơ mi hoạ tiết sặc sỡ thì không mặc đi làm được."
+          },
+          "col": [
+            "花柄",
+            "柄物",
+            "人柄（nhân cách）",
+            "柄が悪い（thô lỗ, côn đồ）",
+            "大柄・小柄（to con / nhỏ người）"
+          ],
+          "rel": "≒ 模様",
+          "note": "Cùng chữ đọc 「え」 = cán, chuôi (傘の柄). 「柄」 thiên về hoa văn **trên vải, quần áo**; 「模様」 rộng hơn (cả vết, hình trên đá, kính…)."
+        },
+        {
+          "id": "g05-w6",
+          "w": "模様",
+          "r": "もよう",
+          "hv": "MÔ DẠNG",
+          "pos": "名",
+          "vi": "hoa văn, hình vẽ trang trí; tình hình, dáng vẻ",
+          "key": true,
+          "senses": [
+            {
+              "vi": "hoa văn, họa tiết",
+              "ex": {
+                "ja": "{窓|まど}ガラスに{氷|こおり}で{不思議|ふしぎ}な{模様|もよう}ができていた。",
+                "vi": "Trên kính cửa sổ, băng đã tạo thành những hoa văn kỳ lạ."
+              }
+            },
+            {
+              "vi": "tình hình, tình trạng (tin tức)",
+              "ex": {
+                "ja": "{事故|じこ}の{影響|えいきょう}で、{電車|でんしゃ}は{一時間|いちじかん}ほど{遅|おく}れる{模様|もよう}です。",
+                "vi": "Do ảnh hưởng của sự cố, tàu có vẻ sẽ trễ khoảng một tiếng."
+              }
+            }
+          ],
+          "col": [
+            "模様をつける",
+            "しま模様・水玉模様・花模様",
+            "空模様（tình hình trời）",
+            "模様替え（thay đổi bày trí phòng）"
+          ],
+          "rel": "≒ 柄"
+        },
+        {
+          "id": "g05-w7",
+          "w": "しま模様",
+          "r": "しまもよう",
+          "hv": "MÔ DẠNG",
+          "pos": "名",
+          "vi": "hoa văn kẻ sọc",
+          "key": true,
+          "ex": {
+            "ja": "{白|しろ}と{紺|こん}のしま{模様|もよう}のシャツは、{夏|なつ}らしくて{涼|すず}しそうだ。",
+            "vi": "Áo sơ mi sọc trắng xanh đậm trông rất mùa hè, mát mẻ."
+          },
+          "col": [
+            "横じま・縦じま",
+            "しま模様のスカート"
+          ],
+          "note": "しま = 縞 (sọc). Ngựa vằn = シマウマ."
+        }
+      ]
+    },
+    {
+      "title": "掃除",
+      "title_vi": "Dọn dẹp, lau chùi",
+      "words": [
+        {
+          "id": "g05-w8",
+          "w": "散らかる",
+          "r": "ちらかる",
+          "hv": "TÁN",
+          "pos": "自動",
+          "vi": "(đồ đạc) bừa bộn, vương vãi",
+          "key": true,
+          "ex": {
+            "ja": "{引|ひ}っ{越|こ}したばかりで、{部屋|へや}には{段|だん}ボールが{散|ち}らかっている。",
+            "vi": "Mới chuyển nhà nên trong phòng thùng các-tông vương vãi khắp nơi."
+          },
+          "col": [
+            "部屋が散らかる",
+            "ごみが散らかる",
+            "散らかった机"
+          ],
+          "rel": "↔ 片付く ／ 他動: 散らかす",
+          "note": "「ごみが散らかる」 (tự động từ, trạng thái) ↔ 「{子|こ}どもがおもちゃを{散|ち}らかす」 (tha động từ, ai đó bày ra)."
+        },
+        {
+          "id": "g05-w9",
+          "w": "家具",
+          "r": "かぐ",
+          "hv": "GIA CỤ",
+          "pos": "名",
+          "vi": "đồ đạc trong nhà (bàn, tủ, giường…)",
+          "key": true,
+          "ex": {
+            "ja": "{地震|じしん}に{備|そな}えて、{背|せ}の{高|たか}い{家具|かぐ}は{壁|かべ}に{固定|こてい}しておこう。",
+            "vi": "Để phòng động đất, hãy cố định đồ đạc cao vào tường."
+          },
+          "col": [
+            "家具を置く／動かす",
+            "家具付きの部屋",
+            "家具店"
+          ]
+        },
+        {
+          "id": "g05-w10",
+          "w": "どける",
+          "r": "どける",
+          "hv": "",
+          "pos": "他動",
+          "vi": "dời ra chỗ khác, dẹp sang bên (cho khỏi vướng)",
+          "key": true,
+          "ex": {
+            "ja": "ソファの{下|した}を{掃除|そうじ}したいから、ちょっとソファをどけてくれる？",
+            "vi": "Mình muốn lau dưới sofa, dời cái sofa sang bên giúp mình được không?"
+          },
+          "col": [
+            "荷物をどける",
+            "車をどける"
+          ],
+          "rel": "≒ どかす ／ 自動: どく（tránh ra）",
+          "note": "Mục đích là **dọn chỗ** — không quan trọng mang đi đâu. Tự động từ 「どく」: 「ちょっとどいて！」 = tránh ra chút!"
+        },
+        {
+          "id": "g05-w11",
+          "w": "ほこり",
+          "r": "ほこり",
+          "hv": "",
+          "pos": "名",
+          "vi": "bụi",
+          "key": true,
+          "ex": {
+            "ja": "{長|なが}い{間|あいだ}{使|つか}っていなかったピアノに、ほこりがたまっていた。",
+            "vi": "Cây đàn piano lâu ngày không dùng bị bám đầy bụi."
+          },
+          "col": [
+            "ほこりを払う",
+            "ほこりがたまる",
+            "ほこりがたつ",
+            "ほこりっぽい"
+          ],
+          "note": "Kanji 埃. Đồng âm 「{誇|ほこ}り」 = niềm tự hào. Trong đề thường viết hiragana."
+        },
+        {
+          "id": "g05-w12",
+          "w": "払う",
+          "r": "はらう",
+          "hv": "PHẤT",
+          "pos": "他動",
+          "vi": "phủi (bụi, tuyết); trả (tiền); dành (sự chú ý)",
+          "key": false,
+          "senses": [
+            {
+              "vi": "phủi đi",
+              "ex": {
+                "ja": "{家|いえ}に{入|はい}る{前|まえ}に、コートについた{雪|ゆき}を{払|はら}った。",
+                "vi": "Trước khi vào nhà, tôi phủi tuyết bám trên áo khoác."
+              }
+            },
+            {
+              "vi": "dành, chú ý (注意を払う)",
+              "ex": {
+                "ja": "{薬|くすり}の{量|りょう}には{十分|じゅうぶん}{注意|ちゅうい}を{払|はら}ってください。",
+                "vi": "Hãy hết sức chú ý đến liều lượng thuốc."
+              }
+            }
+          ],
+          "col": [
+            "ほこりを払う",
+            "お金を払う",
+            "注意を払う"
+          ]
+        },
+        {
+          "id": "g05-w13",
+          "w": "ほうき",
+          "r": "ほうき",
+          "hv": "",
+          "pos": "名",
+          "vi": "cái chổi",
+          "key": true,
+          "ex": {
+            "ja": "{毎朝|まいあさ}、{店|みせ}の{前|まえ}をほうきで{掃|は}くのが{私|わたし}の{仕事|しごと}だ。",
+            "vi": "Mỗi sáng, lấy chổi quét trước cửa hàng là việc của tôi."
+          },
+          "col": [
+            "ほうきで掃く",
+            "ほうきとちりとり（chổi và hốt rác）"
+          ],
+          "note": "Kanji 箒. Cặp với 「ちりとり」 (cái hốt rác)."
+        },
+        {
+          "id": "g05-w14",
+          "w": "掃く",
+          "r": "はく",
+          "hv": "TẢO",
+          "pos": "他動",
+          "vi": "quét (bằng chổi)",
+          "key": true,
+          "ex": {
+            "ja": "{秋|あき}は{庭|にわ}の{落|お}ち{葉|ば}を{掃|は}いても{掃|は}いても、すぐにまた{落|お}ちてくる。",
+            "vi": "Mùa thu, lá trong vườn quét mãi quét mãi vẫn rụng tiếp."
+          },
+          "col": [
+            "ほうきで掃く",
+            "落ち葉を掃く",
+            "床を掃く"
+          ],
+          "note": "Ba động từ đọc はく: 掃く (quét), 吐く (nôn, thở ra), 履く (mang giày, mặc quần). 掃 = 掃除 (TẢO)."
+        },
+        {
+          "id": "g05-w15",
+          "w": "ふきん",
+          "r": "ふきん",
+          "hv": "",
+          "pos": "名",
+          "vi": "khăn lau bát, lau bàn ăn (khăn bếp sạch)",
+          "key": true,
+          "ex": {
+            "ja": "{洗|あら}ったお{皿|さら}は、{清潔|せいけつ}なふきんで{拭|ふ}いてから{棚|たな}にしまう。",
+            "vi": "Đĩa rửa xong lau bằng khăn bếp sạch rồi mới cất lên kệ."
+          },
+          "rel": "↔ ぞうきん（giẻ lau sàn）",
+          "note": "Kanji 布巾. ふきん dùng cho **bàn ăn, bát đĩa** (sạch); ぞうきん dùng cho **sàn, cửa** (bẩn). Đừng lẫn!"
+        },
+        {
+          "id": "g05-w16",
+          "w": "拭く",
+          "r": "ふく",
+          "hv": "THỨC",
+          "pos": "他動",
+          "vi": "lau, chùi (bằng khăn)",
+          "key": true,
+          "ex": {
+            "ja": "{汗|あせ}をタオルで{拭|ふ}きながら、{坂道|さかみち}を{上|のぼ}った。",
+            "vi": "Vừa lấy khăn lau mồ hôi vừa leo dốc."
+          },
+          "col": [
+            "机をふく",
+            "涙をふく",
+            "ふき掃除"
+          ],
+          "note": "掃く = quét bằng chổi (rác, bụi khô); 拭く = lau bằng vải (nước, vết bẩn)."
+        },
+        {
+          "id": "g05-w17",
+          "w": "ぞうきん",
+          "r": "ぞうきん",
+          "hv": "",
+          "pos": "名",
+          "vi": "giẻ lau (sàn, cửa)",
+          "key": true,
+          "ex": {
+            "ja": "{日本|にほん}の{小学校|しょうがっこう}では、{子|こ}どもたちがぞうきんで{廊下|ろうか}を{拭|ふ}く。",
+            "vi": "Ở trường tiểu học Nhật, học sinh tự lau hành lang bằng giẻ."
+          },
+          "col": [
+            "ぞうきんを絞る",
+            "ぞうきんがけ（lau sàn bằng giẻ）"
+          ],
+          "note": "Kanji 雑巾."
+        },
+        {
+          "id": "g05-w18",
+          "w": "絞る",
+          "r": "しぼる",
+          "hv": "GIẢO",
+          "pos": "他動",
+          "vi": "vắt (khăn, quả); thu hẹp, khoanh vùng; vặn nhỏ (âm lượng)",
+          "key": true,
+          "senses": [
+            {
+              "vi": "vắt cho ra nước",
+              "ex": {
+                "ja": "レモンを{絞|しぼ}って、{焼|や}き{魚|ざかな}にかけた。",
+                "vi": "Vắt chanh rưới lên cá nướng."
+              }
+            },
+            {
+              "vi": "thu hẹp, chọn lọc",
+              "ex": {
+                "ja": "{候補|こうほ}を{三人|さんにん}に{絞|しぼ}ってから、{面接|めんせつ}をする。",
+                "vi": "Thu hẹp còn ba ứng viên rồi mới phỏng vấn."
+              }
+            }
+          ],
+          "col": [
+            "ぞうきんを絞る",
+            "レモンを絞る",
+            "対象を絞る",
+            "音量を絞る",
+            "知恵を絞る（vắt óc suy nghĩ）"
+          ]
+        },
+        {
+          "id": "g05-w19",
+          "w": "ぴかぴか",
+          "r": "ぴかぴか",
+          "hv": "",
+          "pos": "副・な形",
+          "vi": "sáng bóng, bóng loáng; mới toanh",
+          "key": true,
+          "ex": {
+            "ja": "{年末|ねんまつ}の{大掃除|おおそうじ}で、{台所|だいどころ}のシンクをぴかぴかに{磨|みが}いた。",
+            "vi": "Đợt tổng vệ sinh cuối năm, tôi đánh bồn rửa bếp sáng bóng."
+          },
+          "col": [
+            "ぴかぴかに光る／磨く",
+            "ぴかぴかの一年生（học sinh lớp 1 mới toanh）"
+          ],
+          "note": "Từ tượng hình. Dùng 「ぴかぴかに＋động từ」 hoặc 「ぴかぴかの＋danh từ」."
+        },
+        {
+          "id": "g05-w20",
+          "w": "整理",
+          "r": "せいり",
+          "hv": "CHỈNH LÝ",
+          "pos": "名・他動",
+          "vi": "sắp xếp gọn gàng, phân loại; (bỏ bớt) tinh giản",
+          "key": true,
+          "ex": {
+            "ja": "{引|ひ}き{出|だ}しの{中|なか}を{整理|せいり}したら、なくしたと{思|おも}っていた{鍵|かぎ}が{出|で}てきた。",
+            "vi": "Dọn lại ngăn kéo thì tìm ra chiếc chìa khoá tưởng đã mất."
+          },
+          "col": [
+            "本棚を整理する",
+            "書類を整理する",
+            "考えを整理する",
+            "整理整頓",
+            "交通整理（điều tiết giao thông）"
+          ],
+          "note": "Ý cốt lõi: **sắp xếp lại cho có trật tự, bỏ cái thừa**. Không dùng cho người xếp hàng (✗ 一列に整理する → ○ 並ぶ) hay bảo dưỡng máy móc (→ 整備)."
+        }
+      ]
+    },
+    {
+      "title": "洗濯",
+      "title_vi": "Giặt giũ",
+      "words": [
+        {
+          "id": "g05-w21",
+          "w": "洗濯物",
+          "r": "せんたくもの",
+          "hv": "TẨY TRẠC VẬT",
+          "pos": "名",
+          "vi": "đồ giặt, quần áo (cần / vừa) giặt",
+          "key": false,
+          "ex": {
+            "ja": "{急|きゅう}に{雨|あめ}が{降|ふ}ってきたので、{慌|あわ}てて{洗濯物|せんたくもの}を{取|と}り{込|こ}んだ。",
+            "vi": "Trời bỗng đổ mưa nên tôi vội rút quần áo vào."
+          },
+          "col": [
+            "洗濯物を干す／取り込む／畳む"
+          ]
+        },
+        {
+          "id": "g05-w22",
+          "w": "裏返す",
+          "r": "うらがえす",
+          "hv": "LÝ PHẢN",
+          "pos": "他動",
+          "vi": "lộn trái, lật mặt sau lên",
+          "key": true,
+          "ex": {
+            "ja": "プリントのTシャツは、{裏返|うらがえ}してから{洗|あら}うと{絵|え}が{長持|ながも}ちする。",
+            "vi": "Áo phông có in hình nên lộn trái ra rồi giặt thì hình bền hơn."
+          },
+          "col": [
+            "服を裏返す",
+            "カードを裏返す"
+          ],
+          "rel": "≒ ひっくり返す（lật ngược）",
+          "note": "裏 (mặt trái, mặt sau) + 返す (lật). Xem 〜返す ở phần 語形成."
+        },
+        {
+          "id": "g05-w23",
+          "w": "干す",
+          "r": "ほす",
+          "hv": "CAN",
+          "pos": "他動",
+          "vi": "phơi (cho khô)",
+          "key": true,
+          "ex": {
+            "ja": "{天気|てんき}がいいので、{布団|ふとん}をベランダに{干|ほ}した。",
+            "vi": "Trời đẹp nên tôi phơi chăn đệm ngoài ban công."
+          },
+          "col": [
+            "洗濯物を干す",
+            "布団を干す",
+            "干物（cá khô）",
+            "部屋干し"
+          ],
+          "rel": "≒ 乾かす",
+          "note": "干す = **đem ra phơi** (nắng, gió). 乾かす = làm cho khô bằng **cách nào cũng được** (máy sấy, quạt, phơi)."
+        },
+        {
+          "id": "g05-w24",
+          "w": "乾かす",
+          "r": "かわかす",
+          "hv": "CAN",
+          "pos": "他動",
+          "vi": "làm khô, sấy khô",
+          "key": true,
+          "ex": {
+            "ja": "{髪|かみ}をよく{乾|かわ}かさないで{寝|ね}ると、{風邪|かぜ}をひくよ。",
+            "vi": "Không sấy khô tóc mà đi ngủ là cảm đấy."
+          },
+          "col": [
+            "髪を乾かす",
+            "ドライヤーで乾かす"
+          ],
+          "rel": "自動: 乾く（khô）"
+        },
+        {
+          "id": "g05-w25",
+          "w": "畳む",
+          "r": "たたむ",
+          "hv": "ĐIỆP",
+          "pos": "他動",
+          "vi": "gấp (quần áo, ô, chăn); đóng cửa (dẹp tiệm)",
+          "key": true,
+          "ex": {
+            "ja": "{乾|かわ}いた{洗濯物|せんたくもの}を{畳|たた}んで、たんすにしまった。",
+            "vi": "Gấp đồ đã khô rồi cất vào tủ."
+          },
+          "col": [
+            "服を畳む",
+            "傘を畳む",
+            "布団を畳む",
+            "店を畳む（đóng cửa tiệm vĩnh viễn）"
+          ]
+        },
+        {
+          "id": "g05-w26",
+          "w": "縮む",
+          "r": "ちぢむ",
+          "hv": "SÚC",
+          "pos": "自動",
+          "vi": "co lại, rút lại",
+          "key": true,
+          "ex": {
+            "ja": "ウールのセーターを{熱|あつ}いお{湯|ゆ}で{洗|あら}ったら、{子|こ}ども{用|よう}のサイズに{縮|ちぢ}んでしまった。",
+            "vi": "Giặt áo len bằng nước nóng, nó co lại cỡ đồ trẻ con."
+          },
+          "col": [
+            "服が縮む",
+            "差が縮む",
+            "寿命が縮む（tổn thọ）"
+          ],
+          "rel": "↔ 伸びる ／ 他動: 縮める",
+          "note": "「{寿命|じゅみょう}が{縮|ちぢ}む{思|おも}いだった」 = sợ đến tổn thọ."
+        },
+        {
+          "id": "g05-w27",
+          "w": "しわ",
+          "r": "しわ",
+          "hv": "",
+          "pos": "名",
+          "vi": "nếp nhăn (vải, da)",
+          "key": true,
+          "ex": {
+            "ja": "{面接|めんせつ}の{前|まえ}に、スーツのしわをアイロンで{伸|の}ばしておいた。",
+            "vi": "Trước buổi phỏng vấn, tôi là phẳng các nếp nhăn trên bộ vest."
+          },
+          "col": [
+            "しわを伸ばす",
+            "しわになる",
+            "しわが寄る",
+            "眉間にしわを寄せる（nhíu mày）"
+          ],
+          "note": "Kanji 皺 hầu như không dùng."
+        },
+        {
+          "id": "g05-w28",
+          "w": "伸ばす",
+          "r": "のばす",
+          "hv": "THÂN",
+          "pos": "他動",
+          "vi": "duỗi, kéo thẳng, làm phẳng; để dài (tóc); phát triển (năng lực)",
+          "key": true,
+          "ex": {
+            "ja": "{長時間|ちょうじかん}{座|すわ}っていたので、{立|た}ち{上|あ}がって{背中|せなか}を{伸|の}ばした。",
+            "vi": "Ngồi lâu quá nên tôi đứng dậy duỗi lưng."
+          },
+          "col": [
+            "しわを伸ばす",
+            "髪を伸ばす",
+            "手を伸ばす",
+            "才能を伸ばす"
+          ],
+          "rel": "↔ 縮める ／ 自動: 伸びる",
+          "note": "Đồng âm 「{延|の}ばす」 = kéo dài **thời gian / khoảng cách** (出発を延ばす, 線路を延ばす). 伸ばす = làm cho **thẳng ra, dài ra** về chiều dài, khả năng."
+        },
+        {
+          "id": "g05-w29",
+          "w": "つるす",
+          "r": "つるす",
+          "hv": "",
+          "pos": "他動",
+          "vi": "treo lủng lẳng (từ trên xuống)",
+          "key": true,
+          "ex": {
+            "ja": "{洗|あら}ったシャツは、ハンガーにつるして{干|ほ}すとしわになりにくい。",
+            "vi": "Áo sơ mi giặt xong treo lên móc mà phơi thì ít nhăn."
+          },
+          "col": [
+            "ハンガーにつるす",
+            "風鈴をつるす",
+            "てるてる坊主をつるす"
+          ],
+          "rel": "≒ 掛ける・下げる",
+          "note": "Kanji 吊るす. Hình ảnh: vật **lơ lửng**, chỉ được giữ ở một điểm phía trên."
+        }
+      ]
+    },
+    {
+      "title": "炊事",
+      "title_vi": "Nấu nướng, bếp núc",
+      "words": [
+        {
+          "id": "g05-w30",
+          "w": "炊事",
+          "r": "すいじ",
+          "hv": "XUY SỰ",
+          "pos": "名・する",
+          "vi": "việc bếp núc, nấu nướng",
+          "key": true,
+          "ex": {
+            "ja": "キャンプ{場|じょう}には、{炊事|すいじ}ができる{共同|きょうどう}の{流|なが}しがある。",
+            "vi": "Khu cắm trại có bồn rửa dùng chung để nấu nướng."
+          },
+          "col": [
+            "炊事場",
+            "炊事・洗濯・掃除"
+          ],
+          "note": "炊 (XUY) = nấu (炊く). Hẹp hơn 家事."
+        },
+        {
+          "id": "g05-w31",
+          "w": "献立",
+          "r": "こんだて",
+          "hv": "HIẾN LẬP",
+          "pos": "名",
+          "vi": "thực đơn (các món của một bữa / nhiều bữa)",
+          "key": true,
+          "ex": {
+            "ja": "{冷蔵庫|れいぞうこ}にあるものを{見|み}ながら、{夕飯|ゆうはん}の{献立|こんだて}を{考|かんが}える。",
+            "vi": "Vừa nhìn đồ trong tủ lạnh vừa nghĩ thực đơn bữa tối."
+          },
+          "col": [
+            "献立を決める／考える",
+            "給食の献立表"
+          ],
+          "rel": "≒ メニュー",
+          "note": "Đọc đặc biệt: 献 đọc **こん** (không phải けん), 立 đọc **だて**. 「メニュー」 ở nhà hàng là danh sách món để chọn; 「献立」 là các món **đã lên kế hoạch** cho bữa ăn."
+        },
+        {
+          "id": "g05-w32",
+          "w": "ゆでる",
+          "r": "ゆでる",
+          "hv": "",
+          "pos": "他動",
+          "vi": "luộc (trong nhiều nước sôi, rồi vớt ra)",
+          "key": true,
+          "ex": {
+            "ja": "パスタは{塩|しお}を{入|い}れたお{湯|ゆ}で{八分|はっぷん}ほどゆでてください。",
+            "vi": "Mì Ý luộc khoảng 8 phút trong nước có muối."
+          },
+          "col": [
+            "卵をゆでる",
+            "ゆで卵",
+            "ほうれん草をゆでる"
+          ],
+          "note": "Kanji 茹でる. Khác 煮る: ゆでる xong là **bỏ nước đi**; 煮る thì nước dùng có vị và **ăn cùng**."
+        },
+        {
+          "id": "g05-w33",
+          "w": "蒸す",
+          "r": "むす",
+          "hv": "CHƯNG",
+          "pos": "他動・自動",
+          "vi": "hấp (bằng hơi nước); (thời tiết) oi, nồng",
+          "key": true,
+          "ex": {
+            "ja": "{肉|にく}まんは、{電子|でんし}レンジより{蒸|む}し{器|き}で{蒸|む}したほうがふっくらする。",
+            "vi": "Bánh bao hấp bằng xửng thì xốp hơn là quay lò vi sóng."
+          },
+          "col": [
+            "蒸し器",
+            "茶わん蒸し",
+            "蒸し暑い（oi bức）",
+            "今日は蒸すね（hôm nay oi quá）"
+          ]
+        },
+        {
+          "id": "g05-w34",
+          "w": "揚げる",
+          "r": "あげる",
+          "hv": "DƯƠNG",
+          "pos": "他動",
+          "vi": "chiên ngập dầu, rán",
+          "key": true,
+          "ex": {
+            "ja": "{天|てん}ぷらは{油|あぶら}の{温度|おんど}が{低|ひく}いと、からっと{揚|あ}がらない。",
+            "vi": "Tempura mà dầu không đủ nóng thì chiên không giòn được."
+          },
+          "col": [
+            "天ぷらを揚げる",
+            "揚げ物",
+            "から揚げ",
+            "（自動）揚がる"
+          ],
+          "note": "揚げる = nhiều dầu, ngập; 焼く = nướng / áp chảo ít dầu; 炒める = xào."
+        },
+        {
+          "id": "g05-w35",
+          "w": "いる",
+          "r": "いる",
+          "hv": "",
+          "pos": "他動",
+          "vi": "rang (không dầu, đảo trên chảo khô)",
+          "key": true,
+          "ex": {
+            "ja": "ごまを{軽|かる}くいると、{香|かお}りがぐっとよくなる。",
+            "vi": "Rang sơ hạt mè thì mùi thơm hơn hẳn."
+          },
+          "col": [
+            "ごまをいる",
+            "豆をいる",
+            "いり卵（trứng bác）",
+            "いりたてのコーヒー豆"
+          ],
+          "note": "Kanji 炒る・煎る. Chia động từ nhóm 1: いります／いって (khác 居る)."
+        },
+        {
+          "id": "g05-w36",
+          "w": "炊く",
+          "r": "たく",
+          "hv": "XUY",
+          "pos": "他動",
+          "vi": "nấu (cơm), thổi cơm",
+          "key": true,
+          "ex": {
+            "ja": "{新米|しんまい}は{水|みず}を{少|すく}なめにして{炊|た}くとおいしい。",
+            "vi": "Gạo mới nấu ít nước một chút thì ngon."
+          },
+          "col": [
+            "ご飯を炊く",
+            "炊きたて",
+            "炊飯器（すいはんき）"
+          ],
+          "note": "Ở Kanto 炊く gần như chỉ dùng cho **cơm**; vùng Kansai còn dùng cho món hầm (大根を炊く)."
+        },
+        {
+          "id": "g05-w37",
+          "w": "熱する",
+          "r": "ねっする",
+          "hv": "NHIỆT",
+          "pos": "他動・自動",
+          "vi": "làm nóng, đun nóng; (người) nhiệt tình, hăng lên",
+          "key": true,
+          "ex": {
+            "ja": "フライパンを{十分|じゅうぶん}に{熱|ねっ}してから{卵|たまご}を{入|い}れる。",
+            "vi": "Làm nóng chảo thật kỹ rồi mới cho trứng vào."
+          },
+          "col": [
+            "フライパンを熱する",
+            "熱した油",
+            "熱しやすく冷めやすい（cả thèm chóng chán）"
+          ],
+          "rel": "≒ 加熱する ↔ 冷やす"
+        },
+        {
+          "id": "g05-w38",
+          "w": "加熱",
+          "r": "かねつ",
+          "hv": "GIA NHIỆT",
+          "pos": "名・他動",
+          "vi": "gia nhiệt, đun nấu chín",
+          "key": true,
+          "ex": {
+            "ja": "この{冷凍|れいとう}ギョーザは、{電子|でんし}レンジで{三分|さんぷん}{加熱|かねつ}すれば{食|た}べられる。",
+            "vi": "Sủi cảo đông lạnh này chỉ cần quay lò vi sóng 3 phút là ăn được."
+          },
+          "col": [
+            "十分に加熱する",
+            "加熱処理",
+            "加熱調理"
+          ],
+          "rel": "↔ 冷却",
+          "note": "Văn hướng dẫn, bao bì thực phẩm rất hay dùng. Đừng nhầm 「{過熱|かねつ}」 (quá nóng; quá khích — 過熱する報道)."
+        },
+        {
+          "id": "g05-w39",
+          "w": "煮る・煮える",
+          "r": "にる・にえる",
+          "hv": "CHỬ",
+          "pos": "他動・自動",
+          "vi": "ninh, kho, nấu trong nước có gia vị / (món) chín, nhừ",
+          "key": true,
+          "ex": {
+            "ja": "{大根|だいこん}が{柔|やわ}らかく{煮|に}えたら、{火|ひ}を{止|と}めて{味|あじ}をしみ{込|こ}ませる。",
+            "vi": "Khi củ cải đã nấu chín mềm thì tắt bếp cho thấm vị."
+          },
+          "col": [
+            "魚を煮る",
+            "煮物",
+            "よく煮える",
+            "煮ても焼いても食えない（hết cách đối phó）"
+          ],
+          "note": "煮る (tha, を) ↔ 煮える (tự, が). Thành ngữ 「{業|ごう}を{煮|に}やす」 = sốt ruột, bực mình."
+        },
+        {
+          "id": "g05-w40",
+          "w": "焦がす・焦げる",
+          "r": "こがす・こげる",
+          "hv": "TIÊU",
+          "pos": "他動・自動",
+          "vi": "làm cháy, khê / bị cháy, khê",
+          "key": true,
+          "ex": {
+            "ja": "{電話|でんわ}に{出|で}ている{間|あいだ}に、なべのカレーを{焦|こ}がしてしまった。",
+            "vi": "Trong lúc nghe điện thoại, tôi để nồi cà ri bị khê."
+          },
+          "col": [
+            "パンが焦げる",
+            "焦げ目をつける",
+            "焦げ臭い（mùi khét）",
+            "胸を焦がす（thầm yêu tha thiết）"
+          ],
+          "note": "Cùng chữ 焦 trong 「{焦|あせ}る」 (sốt ruột). Mẹo: lửa (灬 ở dưới) làm cháy."
+        },
+        {
+          "id": "g05-w41",
+          "w": "溶く",
+          "r": "とく",
+          "hv": "DUNG",
+          "pos": "他動",
+          "vi": "hoà (bột, chất) vào nước; đánh tan (trứng)",
+          "key": true,
+          "ex": {
+            "ja": "{卵|たまご}を{二個|にこ}ボウルに{割|わ}って、よく{溶|と}いておく。",
+            "vi": "Đập hai quả trứng vào bát, đánh tan sẵn."
+          },
+          "col": [
+            "卵を溶く",
+            "小麦粉を水で溶く",
+            "溶き卵",
+            "絵の具を溶く"
+          ],
+          "note": "溶く = **dùng chất lỏng** + khuấy cho đều, hoà lẫn. Xem Focus phân biệt 溶く・溶かす・溶ける."
+        },
+        {
+          "id": "g05-w42",
+          "w": "溶かす・溶ける",
+          "r": "とかす・とける",
+          "hv": "DUNG",
+          "pos": "他動・自動",
+          "vi": "làm tan, nung chảy / tan, chảy ra",
+          "key": true,
+          "ex": {
+            "ja": "{弱火|よわび}でバターを{溶|と}かしてから、{小麦粉|こむぎこ}を{加|くわ}える。",
+            "vi": "Làm chảy bơ ở lửa nhỏ rồi cho bột mì vào."
+          },
+          "col": [
+            "チョコレートを溶かす",
+            "砂糖が溶ける",
+            "雪が溶ける（解ける cũng được）"
+          ],
+          "note": "Chất rắn **chuyển sang lỏng** (do nhiệt) hoặc **tan hết vào nước**. Với tuyết / băng có thể viết 「{解|と}ける」."
+        },
+        {
+          "id": "g05-w43",
+          "w": "出来上がる",
+          "r": "できあがる",
+          "hv": "XUẤT LAI THƯỢNG",
+          "pos": "自動",
+          "vi": "làm xong, hoàn thành (sản phẩm)",
+          "key": true,
+          "ex": {
+            "ja": "あと{五分|ごふん}でカレーが{出来上|できあ}がるから、お{皿|さら}を{出|だ}しておいて。",
+            "vi": "Năm phút nữa cà ri xong, con lấy đĩa ra sẵn đi."
+          },
+          "col": [
+            "料理が出来上がる",
+            "出来上がり",
+            "作品が出来上がる"
+          ],
+          "rel": "≒ 完成する・仕上がる",
+          "note": "Nhấn vào **sự ra đời** của sản phẩm (từ không có → có)."
+        },
+        {
+          "id": "g05-w44",
+          "w": "仕上がる",
+          "r": "しあがる",
+          "hv": "SĨ THƯỢNG",
+          "pos": "自動",
+          "vi": "hoàn tất (công đoạn cuối, chất lượng hoàn thiện)",
+          "key": true,
+          "ex": {
+            "ja": "{修理|しゅうり}に{出|だ}した{靴|くつ}が、{新品|しんぴん}のようにきれいに{仕上|しあ}がった。",
+            "vi": "Đôi giày mang đi sửa đã hoàn thiện đẹp như mới."
+          },
+          "col": [
+            "きれいに仕上がる",
+            "仕上がり（độ hoàn thiện）",
+            "（他動）仕上げる"
+          ],
+          "rel": "≒ 出来上がる",
+          "note": "仕上がる thiên về **chất lượng ở công đoạn cuối** — hay đi với 「きれいに／いい感じに／思い通りに」. 出来上がる chỉ nói ‘xong rồi’."
+        },
+        {
+          "id": "g05-w45",
+          "w": "出来立て",
+          "r": "できたて",
+          "hv": "XUẤT LAI LẬP",
+          "pos": "名",
+          "vi": "vừa mới làm xong (còn nóng hổi)",
+          "key": true,
+          "ex": {
+            "ja": "{出来|でき}{立|た}てのお{豆腐|とうふ}は、{何|なに}もつけなくても{甘|あま}くておいしい。",
+            "vi": "Đậu phụ vừa làm xong, không chấm gì cũng ngọt và ngon."
+          },
+          "col": [
+            "出来立ての料理",
+            "できたてほやほや（mới toanh, nóng hổi）"
+          ],
+          "rel": "≒ 作ったばかり"
+        }
+      ]
+    },
+    {
+      "title": "その他",
+      "title_vi": "Khác: cất giữ, bảo quản",
+      "words": [
+        {
+          "id": "g05-w46",
+          "w": "倉庫",
+          "r": "そうこ",
+          "hv": "THƯƠNG KHỐ",
+          "pos": "名",
+          "vi": "nhà kho",
+          "key": true,
+          "ex": {
+            "ja": "{季節|きせつ}{外|はず}れの{商品|しょうひん}は、{郊外|こうがい}の{倉庫|そうこ}に{保管|ほかん}している。",
+            "vi": "Hàng trái mùa được cất giữ ở kho ngoại thành."
+          },
+          "col": [
+            "倉庫にしまう",
+            "物流倉庫"
+          ],
+          "rel": "≒ 物置（kho nhỏ trong nhà）・蔵"
+        },
+        {
+          "id": "g05-w47",
+          "w": "瓶",
+          "r": "びん",
+          "hv": "BÌNH",
+          "pos": "名",
+          "vi": "chai, lọ (thuỷ tinh)",
+          "key": true,
+          "ex": {
+            "ja": "{空|あ}き{瓶|びん}は{燃|も}えないごみの{日|ひ}に{出|だ}してください。",
+            "vi": "Chai lọ rỗng xin bỏ vào ngày rác không cháy."
+          },
+          "col": [
+            "空き瓶",
+            "瓶ビール",
+            "ジャムの瓶",
+            "花瓶（かびん）"
+          ]
+        },
+        {
+          "id": "g05-w48",
+          "w": "栓",
+          "r": "せん",
+          "hv": "THUYÊN",
+          "pos": "名",
+          "vi": "nút, nắp (chai); vòi",
+          "key": true,
+          "ex": {
+            "ja": "{飲|の}みかけのワインは、{栓|せん}をして{冷蔵庫|れいぞうこ}に{入|い}れておこう。",
+            "vi": "Rượu vang uống dở thì đậy nút lại cho vào tủ lạnh."
+          },
+          "col": [
+            "栓をする",
+            "栓を抜く",
+            "栓抜き（cái mở nắp）",
+            "ガスの元栓",
+            "消火栓",
+            "耳栓"
+          ]
+        },
+        {
+          "id": "g05-w49",
+          "w": "かび",
+          "r": "かび",
+          "hv": "",
+          "pos": "名",
+          "vi": "nấm mốc",
+          "key": true,
+          "ex": {
+            "ja": "{梅雨|つゆ}の{時期|じき}は、{押|お}し{入|い}れにかびが{生|は}えやすい。",
+            "vi": "Mùa mưa, tủ âm tường rất dễ bị mốc."
+          },
+          "col": [
+            "かびが生える",
+            "かび臭い（mùi mốc）"
+          ],
+          "note": "Kanji 黴. Cụm chuẩn hay ra đề là 「かびが生える」; văn nói cũng gặp 「かびができる」. Tính từ: かび臭い (mùi mốc)."
+        },
+        {
+          "id": "g05-w50",
+          "w": "生える",
+          "r": "はえる",
+          "hv": "SINH",
+          "pos": "自動",
+          "vi": "mọc (cỏ, râu, răng, mốc)",
+          "key": false,
+          "ex": {
+            "ja": "しばらく{留守|るす}にしていたら、{庭|にわ}に{雑草|ざっそう}がたくさん{生|は}えていた。",
+            "vi": "Đi vắng một thời gian, vườn đã mọc đầy cỏ dại."
+          },
+          "col": [
+            "草が生える",
+            "ひげが生える",
+            "歯が生える",
+            "かびが生える"
+          ]
+        },
+        {
+          "id": "g05-w51",
+          "w": "腐る",
+          "r": "くさる",
+          "hv": "HỦ",
+          "pos": "自動",
+          "vi": "thối, ôi, hỏng (thực phẩm); mục (gỗ); nản lòng",
+          "key": true,
+          "senses": [
+            {
+              "vi": "thối, ôi thiu",
+              "ex": {
+                "ja": "{夏|なつ}は{生|なま}ものがすぐ{腐|くさ}るので、{作|つく}り{置|お}きは{冷蔵庫|れいぞうこ}へ。",
+                "vi": "Mùa hè đồ tươi sống rất nhanh hỏng nên đồ nấu sẵn phải cho vào tủ lạnh."
+              }
+            },
+            {
+              "vi": "nản, chán chường (tinh thần)",
+              "ex": {
+                "ja": "{一度|いちど}{失敗|しっぱい}したくらいで{腐|くさ}るなよ。",
+                "vi": "Mới thất bại một lần mà nản thế à."
+              }
+            }
+          ],
+          "col": [
+            "魚が腐る",
+            "腐った木",
+            "腐っても鯛（đồ tốt dù cũ vẫn giá trị）"
+          ],
+          "note": "Kim loại không 腐る mà 「さびる」 (gỉ)."
+        }
+      ]
+    },
+    {
+      "title": "子供",
+      "title_vi": "Chăm sóc trẻ nhỏ",
+      "words": [
+        {
+          "id": "g05-w52",
+          "w": "着せる",
+          "r": "きせる",
+          "hv": "TRƯỚC",
+          "pos": "他動",
+          "vi": "mặc (quần áo) cho người khác",
+          "key": true,
+          "ex": {
+            "ja": "{寒|さむ}いから、{子|こ}どもにもう{一枚|いちまい}{上着|うわぎ}を{着|き}せてあげて。",
+            "vi": "Lạnh đấy, mặc thêm cho bé một lớp áo nữa đi."
+          },
+          "col": [
+            "服を着せる",
+            "罪を着せる（đổ tội cho người khác）",
+            "恩を着せる（kể ơn）"
+          ],
+          "rel": "↔ 脱がせる ／ cf. 着る（tự mặc）"
+        },
+        {
+          "id": "g05-w53",
+          "w": "なでる",
+          "r": "なでる",
+          "hv": "",
+          "pos": "他動",
+          "vi": "xoa, vuốt ve (nhẹ nhàng)",
+          "key": true,
+          "ex": {
+            "ja": "{泣|な}いている{妹|いもうと}の{背中|せなか}を、{兄|あに}がそっとなでていた。",
+            "vi": "Anh trai khẽ xoa lưng cho cô em đang khóc."
+          },
+          "col": [
+            "頭をなでる",
+            "胸をなで下ろす（thở phào nhẹ nhõm）"
+          ],
+          "note": "Kanji 撫でる. 「ほっと{胸|むね}をなで{下|お}ろす」 là quán ngữ rất hay gặp."
+        },
+        {
+          "id": "g05-w54",
+          "w": "抱く",
+          "r": "だく",
+          "hv": "BÃO",
+          "pos": "他動",
+          "vi": "bế, ôm (trong vòng tay)",
+          "key": true,
+          "ex": {
+            "ja": "{生|う}まれたばかりの{赤|あか}ちゃんを{初|はじ}めて{抱|だ}いたとき、その{軽|かる}さに{驚|おどろ}いた。",
+            "vi": "Lần đầu bế em bé mới sinh, tôi ngạc nhiên vì bé nhẹ quá."
+          },
+          "col": [
+            "赤ちゃんを抱く",
+            "抱きしめる（ôm chặt）",
+            "抱き上げる（bế bổng lên）"
+          ],
+          "rel": "≒ だっこする",
+          "note": "Cùng chữ đọc 「いだく」 (văn viết) = ôm ấp trong lòng: 「{夢|ゆめ}を{抱|いだ}く」「{疑問|ぎもん}を{抱|いだ}く」."
+        },
+        {
+          "id": "g05-w55",
+          "w": "だっこ",
+          "r": "だっこ",
+          "hv": "",
+          "pos": "名・他動",
+          "vi": "bế (cách nói với / về trẻ nhỏ)",
+          "key": true,
+          "ex": {
+            "ja": "{歩|ある}き{疲|つか}れた{娘|むすめ}が「パパ、だっこして」と{手|て}を{伸|の}ばしてきた。",
+            "vi": "Con gái đi mỏi chân, giơ tay lên đòi: ‘Bố ơi, bế con’."
+          },
+          "col": [
+            "だっこする",
+            "だっこひも（địu trước ngực）"
+          ],
+          "rel": "≒ 抱く",
+          "note": "Bế **phía trước ngực**, mặt đối mặt."
+        },
+        {
+          "id": "g05-w56",
+          "w": "背負う",
+          "r": "せおう",
+          "hv": "BỐI PHỤ",
+          "pos": "他動",
+          "vi": "cõng, đeo trên lưng; gánh vác (trách nhiệm, nợ)",
+          "key": true,
+          "senses": [
+            {
+              "vi": "đeo, cõng trên lưng",
+              "ex": {
+                "ja": "{小学生|しょうがくせい}がランドセルを{背負|せお}って{坂|さか}を{上|のぼ}っていく。",
+                "vi": "Cậu học sinh tiểu học đeo cặp trên lưng đi lên dốc."
+              }
+            },
+            {
+              "vi": "gánh vác",
+              "ex": {
+                "ja": "{彼|かれ}は{若|わか}くして{家族|かぞく}の{生活|せいかつ}を{背負|せお}うことになった。",
+                "vi": "Còn trẻ mà anh ấy đã phải gánh vác cuộc sống cả gia đình."
+              }
+            }
+          ],
+          "col": [
+            "荷物を背負う",
+            "借金を背負う",
+            "責任を背負う"
+          ],
+          "rel": "≒ おんぶする（nghĩa 1, với trẻ em）"
+        },
+        {
+          "id": "g05-w57",
+          "w": "おんぶ",
+          "r": "おんぶ",
+          "hv": "",
+          "pos": "名・他動",
+          "vi": "cõng (trẻ con) trên lưng",
+          "key": true,
+          "ex": {
+            "ja": "{祖父|そふ}は{昔|むかし}、{足|あし}をけがした{私|わたし}をおんぶして{家|いえ}まで{帰|かえ}ってくれた。",
+            "vi": "Ngày xưa khi tôi bị đau chân, ông đã cõng tôi về tận nhà."
+          },
+          "col": [
+            "おんぶする",
+            "おんぶにだっこ（dựa dẫm hoàn toàn vào người khác）"
+          ],
+          "rel": "≒ 背負う",
+          "note": "Quán ngữ 「おんぶにだっこ」 = ỷ lại người khác mọi thứ (vừa được cõng vừa được bế)."
+        },
+        {
+          "id": "g05-w58",
+          "w": "構う",
+          "r": "かまう",
+          "hv": "CẤU",
+          "pos": "自他動",
+          "vi": "(〜に／を構う) quan tâm, chăm, chơi đùa với; (構わない) không sao, không bận tâm",
+          "key": true,
+          "senses": [
+            {
+              "vi": "để ý, chăm sóc, chơi với",
+              "ex": {
+                "ja": "{仕事|しごと}が{忙|いそが}しくて、{最近|さいきん}{子|こ}どもを{構|かま}ってやれない。",
+                "vi": "Công việc bận quá, dạo này chẳng chơi với con được."
+              }
+            },
+            {
+              "vi": "(phủ định) không sao, không màng",
+              "ex": {
+                "ja": "{窓側|まどがわ}の{席|せき}でも{構|かま}いませんか。",
+                "vi": "Ghế cạnh cửa sổ cũng được chứ ạ?"
+              }
+            }
+          ],
+          "col": [
+            "子どもに／を構う",
+            "構わない",
+            "〜も構わず（bất chấp）",
+            "お構いなく（xin đừng bận tâm）"
+          ],
+          "note": "Khi khách đến nhà, câu lịch sự 「どうぞお{構|かま}いなく」 = xin đừng bày vẽ."
+        },
+        {
+          "id": "g05-w59",
+          "w": "暴れる",
+          "r": "あばれる",
+          "hv": "BẠO",
+          "pos": "自動",
+          "vi": "quậy phá, vùng vẫy, nổi loạn",
+          "key": true,
+          "ex": {
+            "ja": "{注射|ちゅうしゃ}を{嫌|いや}がって{暴|あば}れる{子|こ}どもを、{母親|ははおや}が{必死|ひっし}に{押|お}さえていた。",
+            "vi": "Người mẹ ra sức giữ đứa con đang giãy giụa vì sợ tiêm."
+          },
+          "col": [
+            "子どもが暴れる",
+            "酔って暴れる",
+            "暴れ回る"
+          ]
+        },
+        {
+          "id": "g05-w60",
+          "w": "こぼす・こぼれる",
+          "r": "こぼす・こぼれる",
+          "hv": "",
+          "pos": "他動・自動",
+          "vi": "làm đổ, làm rơi vãi; than thở (愚痴を) / bị đổ, tràn ra",
+          "key": true,
+          "senses": [
+            {
+              "vi": "làm đổ / bị tràn ra",
+              "ex": {
+                "ja": "{電車|でんしゃ}が{揺|ゆ}れて、コーヒーを{服|ふく}にこぼしてしまった。",
+                "vi": "Tàu lắc, tôi làm đổ cà phê lên áo."
+              }
+            },
+            {
+              "vi": "(愚痴を)こぼす: than vãn",
+              "ex": {
+                "ja": "{父|ちち}は{酔|よ}うと{会社|かいしゃ}の{愚痴|ぐち}をこぼす。",
+                "vi": "Bố cứ say là than thở chuyện công ty."
+              }
+            }
+          ],
+          "col": [
+            "ご飯をこぼす",
+            "涙がこぼれる",
+            "愚痴をこぼす",
+            "笑みがこぼれる（nụ cười nở trên môi）"
+          ],
+          "note": "こぼす (を) ↔ こぼれる (が). Kanji 零す／零れる hiếm dùng."
+        },
+        {
+          "id": "g05-w61",
+          "w": "汚す・汚れる",
+          "r": "よごす・よごれる",
+          "hv": "Ô",
+          "pos": "他動・自動",
+          "vi": "làm bẩn / bị bẩn",
+          "key": true,
+          "ex": {
+            "ja": "{公園|こうえん}で{遊|あそ}んでいた{息子|むすこ}が、{買|か}ったばかりの{服|ふく}を{泥|どろ}で{汚|よご}してしまった。",
+            "vi": "Thằng con chơi ở công viên đã làm bẩn bộ quần áo vừa mới mua vì dính bùn."
+          },
+          "col": [
+            "服を汚す",
+            "手が汚れる",
+            "汚れが落ちる",
+            "汚れ物"
+          ],
+          "rel": "↔ きれいにする",
+          "note": "Cùng chữ 汚 trong 「{汚|きたな}い」. 汚す (を) ↔ 汚れる (が)."
+        }
+      ]
+    },
+    {
+      "title": "語形成",
+      "title_vi": "Ghép từ: 〜模様・〜返す・〜上がる・〜立て",
+      "words": [
+        {
+          "id": "g05-w62",
+          "w": "水玉模様",
+          "r": "みずたまもよう",
+          "hv": "THUỶ NGỌC MÔ DẠNG",
+          "pos": "名",
+          "vi": "hoa văn chấm bi",
+          "key": true,
+          "ex": {
+            "ja": "{赤地|あかじ}に{白|しろ}の{水玉|みずたま}{模様|もよう}のワンピースが{目|め}を{引|ひ}いた。",
+            "vi": "Chiếc váy nền đỏ chấm bi trắng nổi bật."
+          },
+          "col": [
+            "〜模様: しま模様・水玉模様・花模様・チェック模様"
+          ],
+          "note": "水玉 = giọt nước tròn → chấm bi."
+        },
+        {
+          "id": "g05-w63",
+          "w": "引っ繰り返す",
+          "r": "ひっくりかえす",
+          "hv": "DẪN SÀO PHẢN",
+          "pos": "他動",
+          "vi": "lật ngược, làm đổ nhào; đảo ngược (kết quả); lục tung",
+          "key": true,
+          "senses": [
+            {
+              "vi": "lật úp, làm đổ",
+              "ex": {
+                "ja": "{猫|ねこ}がテーブルに{飛|と}び{乗|の}って、{花瓶|かびん}を{引|ひ}っ{繰|く}り{返|かえ}した。",
+                "vi": "Con mèo nhảy lên bàn làm đổ nhào lọ hoa."
+              }
+            },
+            {
+              "vi": "đảo ngược tình thế",
+              "ex": {
+                "ja": "{最後|さいご}の{一点|いってん}で{試合|しあい}を{引|ひ}っ{繰|く}り{返|かえ}した。",
+                "vi": "Lật ngược thế trận nhờ một điểm cuối cùng."
+              }
+            }
+          ],
+          "col": [
+            "コップを引っ繰り返す",
+            "部屋中を引っ繰り返して探す（lục tung cả phòng）",
+            "（自動）引っ繰り返る"
+          ],
+          "note": "Thường viết 「ひっくり返す」. 〜返す = lật lại, đảo lại; xem Focus."
+        },
+        {
+          "id": "g05-w64",
+          "w": "焼き立て",
+          "r": "やきたて",
+          "hv": "THIÊU LẬP",
+          "pos": "名",
+          "vi": "vừa mới nướng xong",
+          "key": false,
+          "ex": {
+            "ja": "{焼|や}き{立|た}てのクロワッサンの{香|かお}りが、{通|とお}りまで{広|ひろ}がっていた。",
+            "vi": "Mùi bánh sừng bò vừa nướng lan ra tận ngoài đường."
+          },
+          "col": [
+            "〜立て: 出来立て・焼き立て・炊き立て・取れ立て・塗り立て（sơn còn ướt）"
+          ],
+          "note": "Vます + 立て = **vừa mới V xong**, còn nguyên độ tươi mới."
+        }
+      ]
+    },
+    {
+      "title": "例文の副詞",
+      "title_vi": "Phó từ trong câu ví dụ",
+      "words": [
+        {
+          "id": "g05-w65",
+          "w": "せめて",
+          "r": "せめて",
+          "hv": "",
+          "pos": "副",
+          "vi": "ít nhất thì, tối thiểu là (mong mức thấp nhất)",
+          "key": true,
+          "ex": {
+            "ja": "{毎日|まいにち}は{無理|むり}でも、せめて{週末|しゅうまつ}くらいは{料理|りょうり}をしたい。",
+            "vi": "Mỗi ngày thì không được, nhưng ít nhất cuối tuần tôi muốn tự nấu ăn."
+          },
+          "col": [
+            "せめて〜だけでも",
+            "せめて〜くらいは",
+            "せめてもの（〜）"
+          ],
+          "rel": "≒ 少なくとも",
+          "note": "Đi với **mong muốn / ý chí / yêu cầu** (〜たい, 〜てほしい, 〜てください, 〜べきだ). Sắc thái: cái lớn không được thì **chấp nhận mức tối thiểu**."
+        },
+        {
+          "id": "g05-w66",
+          "w": "かえって",
+          "r": "かえって",
+          "hv": "",
+          "pos": "副",
+          "vi": "trái lại, ngược lại (kết quả trái với dự tính)",
+          "key": true,
+          "ex": {
+            "ja": "{近道|ちかみち}をしようとしたら、{道|みち}に{迷|まよ}ってかえって{時間|じかん}がかかった。",
+            "vi": "Định đi đường tắt, ai ngờ lạc đường, thế là lại mất nhiều thời gian hơn."
+          },
+          "col": [
+            "かえって逆効果だ",
+            "かえって迷惑だ"
+          ],
+          "rel": "≒ 逆に・むしろ",
+          "note": "Công thức: **làm A để được kết quả tốt → kết quả lại tệ hơn** (hoặc ngược với dự đoán). Kanji 却って, thường viết hiragana."
+        },
+        {
+          "id": "g05-w67",
+          "w": "あらかじめ",
+          "r": "あらかじめ",
+          "hv": "",
+          "pos": "副",
+          "vi": "trước, sẵn (từ trước khi việc xảy ra)",
+          "key": true,
+          "ex": {
+            "ja": "{当日|とうじつ}は{混雑|こんざつ}が{予想|よそう}されるので、あらかじめチケットをお{買|か}い{求|もと}めください。",
+            "vi": "Hôm đó dự kiến đông nên xin quý khách mua vé từ trước."
+          },
+          "col": [
+            "あらかじめ準備する／連絡する",
+            "あらかじめご了承ください"
+          ],
+          "rel": "≒ 前もって・事前に",
+          "note": "Văn trang trọng, hay gặp trong thông báo. Kanji 予め."
+        },
+        {
+          "id": "g05-w68",
+          "w": "ぐっと",
+          "r": "ぐっと",
+          "hv": "",
+          "pos": "副",
+          "vi": "hẳn lên, rõ rệt (thay đổi mạnh); (dùng sức) mạnh, một hơi; (cảm xúc) nghẹn lại",
+          "key": true,
+          "senses": [
+            {
+              "vi": "khác hẳn, rõ rệt",
+              "ex": {
+                "ja": "カーテンを{明|あか}るい{色|いろ}に{変|か}えたら、{部屋|へや}の{雰囲気|ふんいき}がぐっとよくなった。",
+                "vi": "Đổi rèm sang màu sáng, không khí căn phòng đẹp hẳn lên."
+              }
+            },
+            {
+              "vi": "dồn sức, kìm nén",
+              "ex": {
+                "ja": "{言|い}い{返|かえ}したかったが、ぐっとこらえた。",
+                "vi": "Muốn cãi lại lắm nhưng tôi đã cố nén lại."
+              }
+            }
+          ],
+          "col": [
+            "ぐっとよくなる",
+            "ぐっと冷え込む",
+            "ぐっとこらえる",
+            "ぐっとくる（xúc động）"
+          ],
+          "rel": "≒ ずっと・一段と（nghĩa 1）"
+        }
+      ]
+    }
+  ],
+  "focus": [
+    {
+      "title": "Cặp tự / tha động từ của bài — nhìn trợ từ là chọn được",
+      "body": "Quy tắc: **〜が + tự động từ** (sự việc tự xảy ra), **〜を + tha động từ** (ai đó làm).\n\n- 散らかる（が）↔ 散らかす（を）: 部屋が散らかる / 子どもがおもちゃを散らかす\n- 煮える ↔ 煮る: 大根が煮える / 大根を煮る\n- 焦げる ↔ 焦がす: パンが焦げた / パンを焦がした\n- 溶ける ↔ 溶かす: 氷が溶ける / バターを溶かす\n- こぼれる ↔ こぼす: 水がこぼれた / 水をこぼした\n- 汚れる ↔ 汚す: 服が汚れた / 服を汚した\n- 乾く ↔ 乾かす, 縮む ↔ 縮める, 伸びる ↔ 伸ばす, 仕上がる ↔ 仕上げる, 出来上がる ↔ (作る)\n\nMẹo đề: chủ ngữ là **người** và có 「を」 → tha động từ; chỉ có 「が」 với **đồ vật** → tự động từ. Tha động từ + 「てしまう」 thường diễn tả **lỡ tay**: 「シャツを焦がしてしまった」 = tôi lỡ làm cháy áo (khi là)."
+    },
+    {
+      "title": "Cách dùng nhiệt: 煮る・ゆでる・蒸す・揚げる・いる・炊く・焼く・炒める",
+      "body": "- **ゆでる**: luộc trong nhiều nước sôi, xong **đổ nước đi** (パスタ, 卵, 野菜).\n- **煮る**: nấu trong nước dùng có gia vị, **ăn cùng nước** (煮物, 煮魚, kho / ninh).\n- **蒸す**: hấp bằng **hơi nước** (肉まん, 茶わん蒸し).\n- **揚げる**: chiên **ngập dầu** (天ぷら, から揚げ).\n- **炒める**: xào ít dầu, đảo liên tục.\n- **いる (炒る・煎る)**: rang **không dầu** (ごま, 豆, コーヒー豆).\n- **焼く**: nướng, áp chảo (魚を焼く, パンを焼く).\n- **炊く**: nấu cơm (ご飯を炊く).\n\nCòn **熱する／加熱する** là ‘làm nóng / đun’ nói chung: 熱する hay đi với dụng cụ (フライパンを熱する), 加熱する hay gặp trên bao bì, hướng dẫn (レンジで2分加熱)."
+    },
+    {
+      "title": "溶く・溶かす・溶ける — ba anh em cùng chữ 溶",
+      "body": "- **溶く** (tha): cho chất bột / sệt **vào chất lỏng rồi khuấy** cho hoà đều; hoặc **đánh tan trứng**. 小麦粉を水で溶く・卵を溶く・絵の具を溶く.\n- **溶かす** (tha): làm cho chất rắn **chảy ra** (nhiệt) hoặc **tan hẳn** vào nước. バターを溶かす・砂糖をお湯に溶かす・鉄を溶かす.\n- **溶ける** (tự): chất rắn chảy ra / tan. アイスが溶ける・塩が水に溶ける.\n\nPhân biệt nhanh: kết quả là **hỗn hợp sệt / trứng đánh** → 溶く. Kết quả là **chất rắn biến mất / thành lỏng** → 溶かす・溶ける.\n\n✗ 卵を溶かす (trứng không ‘chảy’) → ○ 卵を溶く. ✗ チョコを溶いて型に流す → ○ チョコを溶かして…"
+    },
+    {
+      "title": "Lau dọn: 掃く・拭く・払う・絞る / ふきん vs ぞうきん / 片付ける vs 整理",
+      "body": "- **掃く**: quét bằng **ほうき** (rác, lá, bụi trên sàn).\n- **拭く**: lau bằng **vải / khăn** (nước, vết bẩn trên bàn, kính).\n- **払う**: phủi nhẹ (ほこり, 雪, ごみ) cho rơi xuống.\n- **絞る**: vắt khăn / giẻ cho ráo nước trước khi lau.\n- **ふきん** = khăn bếp sạch (bàn ăn, bát đĩa) ↔ **ぞうきん** = giẻ lau sàn, cửa.\n\n**片付ける** = cất đồ về chỗ, dọn cho gọn (rộng nhất). **整理する** = sắp xếp lại **có hệ thống**, phân loại, bỏ bớt thứ thừa (書類を整理する, 考えを整理する). **整頓** = xếp ngay ngắn (整理整頓). Đồ vật dời đi cho khỏi vướng → **どける**."
+    },
+    {
+      "title": "Ghép từ: 〜模様・〜返す・〜上がる・〜立て",
+      "body": "- **〜模様**: kiểu hoa văn — しま模様, 水玉模様, 花模様. Nghĩa mở rộng ‘tình hình’: 空模様, 雨模様.\n- **〜返す**: (1) **lật lại** — 裏返す (lộn trái), 引っ繰り返す (lật úp, đảo ngược); (2) **làm lại / đáp lại** — 読み返す, 言い返す, 見返す, 繰り返す.\n- **〜上がる**: (1) **hoàn thành** — 出来上がる, 仕上がる, 焼き上がる, 書き上がる; (2) **lên trên** — 立ち上がる, 飛び上がる (bài 健康).\n- **〜立て**: Vます + 立て = **vừa mới V xong** — 出来立て, 焼き立て, 炊き立て, 取れ立て, 塗り立て (ペンキ塗り立て = sơn còn ướt).\n\nSo sánh: 「出来上がり」 = trạng thái / thời điểm xong (出来上がりまで30分); 「出来立て」 = **vừa mới** xong nên còn nóng, tươi (出来立てのパン)."
+    },
+    {
+      "title": "4 phó từ: せめて・かえって・あらかじめ・ぐっと",
+      "body": "- **せめて**: mong **ít nhất** đạt mức tối thiểu. Vế sau là mong muốn / yêu cầu: 「せめて{一言|ひとこと}{連絡|れんらく}してほしかった」.\n- **かえって**: làm điều tưởng tốt nhưng **kết quả ngược lại**: 「{親切|しんせつ}のつもりが、かえって{迷惑|めいわく}をかけた」.\n- **あらかじめ**: **làm trước** khi việc chính xảy ra ≒ 前もって・事前に: 「あらかじめ{予約|よやく}が{必要|ひつよう}です」.\n- **ぐっと**: thay đổi **rõ rệt, một bậc** (ぐっと{寒|さむ}くなる, ぐっとおいしくなる); dồn sức / kìm nén (ぐっとこらえる).\n\nBẫy: 「せめて」 không đi với câu kể sự thật quá khứ trung tính: ✗ せめて{三時間|さんじかん}{寝|ね}た → ○ せめて三時間は寝たい／少なくとも三時間は寝た."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "g05-q1",
+      "kind": "read",
+      "ref": "g05-w31",
+      "q": "{日曜日|にちようび}に{一週間分|いっしゅうかんぶん}の[[u:献立]]をまとめて{考|かんが}える。",
+      "options": [
+        "けんりつ",
+        "こんだて",
+        "こんりつ",
+        "けんだて"
+      ],
+      "answer": 1,
+      "vi": "Chủ nhật tôi nghĩ thực đơn cho cả tuần một lượt.",
+      "why": "**こんだて** là cách đọc đặc biệt: 献 = こん, 立 = だて. 「けん」 là âm thường gặp của 献 (献血), nên 「けんりつ」「けんだて」 là bẫy; 「こんりつ」 đọc 立 theo âm On (りつ) sai."
+    },
+    {
+      "id": "g05-q2",
+      "kind": "write",
+      "ref": "g05-w26",
+      "q": "お{湯|ゆ}で{洗|あら}ったら、お{気|き}に{入|い}りのセーターが[[u:ちぢんで]]しまった。",
+      "options": [
+        "細んで",
+        "縦んで",
+        "縮んで",
+        "絞んで"
+      ],
+      "answer": 2,
+      "vi": "Giặt bằng nước nóng, chiếc áo len yêu thích bị co lại.",
+      "why": "Co lại = **縮む** (SÚC, bộ 糸). 「細」「縦」「絞」 cũng có bộ 糸 nên dễ nhầm hình, nhưng không đọc ちぢ (細い ほそい, 縦 たて, 絞る しぼる)."
+    },
+    {
+      "id": "g05-q3",
+      "kind": "context",
+      "ref": "g05-w40",
+      "q": "{話|はなし}に{夢中|むちゅう}になっていたら、フライパンの{魚|さかな}が{真|ま}っ{黒|くろ}に（　　）しまった。",
+      "options": [
+        "溶けて",
+        "焦げて",
+        "煮えて",
+        "腐って"
+      ],
+      "answer": 1,
+      "vi": "Mải nói chuyện, cá trong chảo đã cháy đen.",
+      "why": "「真っ黒に」 + 魚が (tự động từ) → **焦げて**. 「溶けて」 = chảy ra; 「煮えて」 = chín trong nước (không thành đen trên chảo); 「腐って」 = thối, không liên quan đến nấu."
+    },
+    {
+      "id": "g05-q4",
+      "kind": "context",
+      "ref": "g05-w8",
+      "q": "{子|こ}どもたちが{遊|あそ}んだあとの{部屋|へや}は、おもちゃが（　　）いて{足|あし}の{踏|ふ}み{場|ば}もない。",
+      "options": [
+        "暴れて",
+        "畳んで",
+        "こぼして",
+        "散らかって"
+      ],
+      "answer": 3,
+      "vi": "Phòng sau khi bọn trẻ chơi xong, đồ chơi vương vãi không còn chỗ đặt chân.",
+      "why": "「おもちゃが」 + trạng thái bừa bộn → tự động từ **散らかって**. 「暴れる」 chủ ngữ phải là người / con vật; 「畳む」「こぼす」 là tha động từ, cần 「を」 và nghĩa không hợp."
+    },
+    {
+      "id": "g05-q5",
+      "kind": "paraphrase",
+      "ref": "g05-w67",
+      "q": "{参加|さんか}を{希望|きぼう}する{方|かた}は、[[u:あらかじめ]]お{申|もう}し{込|こ}みください。",
+      "options": [
+        "事前に",
+        "必ず",
+        "直接",
+        "あとで"
+      ],
+      "answer": 0,
+      "vi": "Những ai muốn tham gia xin đăng ký trước.",
+      "why": "あらかじめ ≒ **事前に**／前もって. 「必ず」 = nhất định (không có nghĩa ‘trước’); 「直接」 = trực tiếp; 「あとで」 trái nghĩa."
+    },
+    {
+      "id": "g05-q6",
+      "kind": "formation",
+      "ref": "g05-w64",
+      "q": "このパン{屋|や}では、{毎朝|まいあさ}7{時|じ}に{焼|や}き（　　）のパンが{店頭|てんとう}に{並|なら}ぶ。",
+      "options": [
+        "付け",
+        "返し",
+        "立て",
+        "出し"
+      ],
+      "answer": 2,
+      "vi": "Ở tiệm bánh này, 7 giờ sáng mỗi ngày bánh mì vừa nướng xong được bày ra quầy.",
+      "why": "‘Vừa mới nướng’ → **焼き立て**. 「焼き付け」 = in / rửa ảnh, khắc sâu (目に焼き付ける), không nói về bánh; 「焼き返し」「焼き出し」 không dùng. (Lưu ý: 「焼き上がり」 = thời điểm nướng xong — 焼き上がりは7時です — khác 焼き立て = vừa mới nướng.)"
+    },
+    {
+      "id": "g05-q7",
+      "kind": "read",
+      "ref": "g05-w48",
+      "q": "{父|ちち}は{慣|な}れた{手|て}つきでワインの[[u:栓]]を{抜|ぬ}いた。",
+      "options": [
+        "ぜん",
+        "しん",
+        "かん",
+        "せん"
+      ],
+      "answer": 3,
+      "vi": "Bố mở nút chai rượu vang bằng động tác thành thạo.",
+      "why": "栓 đọc **せん** (栓抜き, 消火栓). 「ぜん」 là biến âm sai; 「しん」 nhầm với 芯; 「かん」 nhầm với 缶 (lon)."
+    },
+    {
+      "id": "g05-q8",
+      "kind": "usage",
+      "ref": "g05-w58",
+      "q": "{構|かま}う",
+      "options": [
+        "雨が降っても構って、予定どおり出かけます。",
+        "この荷物を構って、二階まで運んでください。",
+        "仕事が忙しくて、子どもに構ってやる時間がない。",
+        "彼は構う性格で、細かいことによく気がつく。"
+      ],
+      "answer": 2,
+      "vi": "(3) Bận việc quá nên không có thời gian chơi với con.",
+      "why": "(3) 子どもに構う = để ý, chơi với trẻ → đúng. (1) ‘bất chấp mưa’ phải là 「構わず」 (phủ định); (2) mang vác → 持って; (4) không có 「構う性格」, ý là 気配りができる／細かい性格."
+    },
+    {
+      "id": "g05-q9",
+      "kind": "context",
+      "ref": "g05-w18",
+      "q": "ぞうきんをよく（　　）から{床|ゆか}を{拭|ふ}かないと、{床|ゆか}が{水|みず}びたしになる。",
+      "options": [
+        "縫って",
+        "裏返して",
+        "畳んで",
+        "絞って"
+      ],
+      "answer": 3,
+      "vi": "Nếu không vắt kỹ giẻ rồi mới lau thì sàn sẽ ngập nước.",
+      "why": "Nước nhiều → phải **絞る** (vắt). 「縫う」 = khâu; 「裏返す」「畳む」 không làm giẻ bớt nước."
+    }
+  ],
+  "practice": [
+    {
+      "id": "g05-p1",
+      "kind": "read",
+      "ref": "g05-w30",
+      "q": "この{寮|りょう}には{各階|かくかい}に[[u:炊事]]{場|ば}がある。",
+      "options": [
+        "すいじ",
+        "たきじ",
+        "すいごと",
+        "すいし"
+      ],
+      "answer": 0,
+      "vi": "Ký túc xá này mỗi tầng đều có khu nấu ăn.",
+      "why": "**すいじ** (炊 = すい, 事 = じ). 「たき」 là âm Kun của 炊く; 「ごと」 là âm Kun của 事 (仕事); 「すいし」 thiếu dấu dakuten."
+    },
+    {
+      "id": "g05-p2",
+      "kind": "write",
+      "ref": "g05-w14",
+      "q": "{玄関|げんかん}の{前|まえ}の{落|お}ち{葉|ば}を、ほうきで[[u:はいた]]。",
+      "options": [
+        "吐いた",
+        "履いた",
+        "婦いた",
+        "掃いた"
+      ],
+      "answer": 3,
+      "vi": "Tôi lấy chổi quét lá rụng trước cửa.",
+      "why": "Quét = **掃く** (bộ 扌 tay + 帚 chổi). 「吐く」 = nôn, thở ra; 「履く」 = mang giày; 「婦」 (phụ nữ) chỉ giống hình phần bên phải, không phải động từ."
+    },
+    {
+      "id": "g05-p3",
+      "kind": "context",
+      "ref": "g05-w38",
+      "q": "{豚肉|ぶたにく}は{中|なか}までしっかり（　　）してから{食|た}べてください。",
+      "options": [
+        "加熱",
+        "過熱",
+        "熱中",
+        "発熱"
+      ],
+      "answer": 0,
+      "vi": "Thịt lợn phải nấu chín kỹ đến tận bên trong rồi mới ăn.",
+      "why": "Đun cho chín → **加熱**. 「過熱」 = quá nóng (không mong muốn); 「熱中」 = say mê; 「発熱」 = sốt / toả nhiệt."
+    },
+    {
+      "id": "g05-p4",
+      "kind": "context",
+      "ref": "g05-w41",
+      "q": "{小麦粉|こむぎこ}を{冷|つめ}たい{水|みず}で（　　）、{天|てん}ぷらの{衣|ころも}を{作|つく}る。",
+      "options": [
+        "溶けて",
+        "溶いて",
+        "蒸して",
+        "揚げて"
+      ],
+      "answer": 1,
+      "vi": "Hoà bột mì với nước lạnh để làm bột áo tempura.",
+      "why": "Bột + nước, khuấy thành hỗn hợp → **溶いて** (tha động từ, có 「を」). 「溶けて」 là tự động từ, không nhận 「小麦粉を」; 「蒸して」「揚げて」 là cách làm chín, không tạo ra bột áo."
+    },
+    {
+      "id": "g05-p5",
+      "kind": "paraphrase",
+      "ref": "g05-w65",
+      "q": "{全部|ぜんぶ}は{無理|むり}でも、[[u:せめて]]{半分|はんぶん}は{今日中|きょうじゅう}に{終|お}わらせたい。",
+      "options": [
+        "ぜひ",
+        "少なくとも",
+        "たった",
+        "ちょうど"
+      ],
+      "answer": 1,
+      "vi": "Hết thì không thể, nhưng ít nhất một nửa tôi muốn xong trong hôm nay.",
+      "why": "せめて = mức tối thiểu ≒ **少なくとも**. 「ぜひ」 nhấn mong muốn mạnh nhưng mất ý ‘tối thiểu’; 「たった」 = chỉ vỏn vẹn (chê ít); 「ちょうど」 = vừa đúng."
+    },
+    {
+      "id": "g05-p6",
+      "kind": "formation",
+      "ref": "g05-w44",
+      "q": "{仕立|した}て{屋|や}に{頼|たの}んでいたスーツが、{思|おも}ったよりきれいに{仕|し}（　　）。",
+      "options": [
+        "返した",
+        "込んだ",
+        "上がった",
+        "掛けた"
+      ],
+      "answer": 2,
+      "vi": "Bộ vest đặt ở tiệm may đã hoàn thiện đẹp hơn tôi nghĩ.",
+      "why": "「スーツが」 + tự động từ ‘hoàn thiện’ → **仕上がった**. 「仕返す」 = trả đũa; 「仕込む」 = chuẩn bị / dạy dỗ; 「仕掛ける」 = giăng bẫy / bắt đầu — đều là tha động từ, không hợp với 「スーツが」."
+    },
+    {
+      "id": "g05-p7",
+      "kind": "usage",
+      "ref": "g05-w51",
+      "q": "{腐|くさ}る",
+      "options": [
+        "長く使ったので、スマホの電池が腐ってしまった。",
+        "雨に濡れたままにしていたら、鉄のなべが腐って赤くなった。",
+        "冷凍庫から出しておいたら、アイスクリームが腐って液体になった。",
+        "夏は生ものがすぐ腐るので、作り置きは冷蔵庫に入れよう。"
+      ],
+      "answer": 3,
+      "vi": "(4) Mùa hè đồ tươi sống nhanh hỏng nên đồ nấu sẵn hãy cho vào tủ lạnh.",
+      "why": "(4) thực phẩm bị ôi thiu → **腐る** đúng. (1) pin chai → 劣化した／切れた; (2) kim loại gỉ → さびた; (3) kem chảy → 溶けた."
+    },
+    {
+      "id": "g05-p8",
+      "kind": "paraphrase",
+      "ref": "g05-w66",
+      "q": "{薬|くすり}を{飲|の}んだら、[[u:かえって]]{具合|ぐあい}が{悪|わる}くなった。",
+      "options": [
+        "やはり",
+        "すぐに",
+        "逆に",
+        "少しずつ"
+      ],
+      "answer": 2,
+      "vi": "Uống thuốc vào, ai ngờ người lại mệt hơn.",
+      "why": "かえって = kết quả trái với mong đợi ≒ **逆に**. 「やはり」 = đúng như dự đoán (ngược sắc thái); 「すぐに」「少しずつ」 chỉ tốc độ."
+    },
+    {
+      "id": "g05-p9",
+      "kind": "context",
+      "ref": "g05-w56",
+      "q": "{登山|とざん}では{重|おも}いリュックを（　　）{何時間|なんじかん}も{歩|ある}くので、{肩|かた}が{痛|いた}くなる。",
+      "options": [
+        "背負って",
+        "抱いて",
+        "つるして",
+        "着せて"
+      ],
+      "answer": 0,
+      "vi": "Leo núi phải đeo ba lô nặng đi hàng giờ liền nên đau vai.",
+      "why": "Ba lô đeo trên lưng → **背負って**. 「抱く」 = ôm trước ngực (người, em bé), không dùng cho ba lô; 「つるす」 = treo lơ lửng; 「着せる」 = mặc cho người khác."
+    },
+    {
+      "id": "g05-p10",
+      "kind": "context",
+      "ref": "g05-w59",
+      "q": "{注射|ちゅうしゃ}が{嫌|きら}いな{弟|おとうと}は、{病院|びょういん}で{泣|な}いて（　　）、{看護師|かんごし}さんを{困|こま}らせた。",
+      "options": [
+        "散らかって",
+        "暴れて",
+        "構って",
+        "こぼれて"
+      ],
+      "answer": 1,
+      "vi": "Thằng em ghét tiêm, khóc lóc giãy giụa ở bệnh viện làm chị y tá khổ sở.",
+      "why": "Người + vùng vẫy, quậy → **暴れて**. 「散らかる」「こぼれる」 có chủ ngữ là đồ vật; 「構う」 = quan tâm, không hợp nghĩa."
+    },
+    {
+      "id": "g05-p11",
+      "kind": "write",
+      "ref": "g05-w25",
+      "q": "{乾|かわ}いた{洗濯物|せんたくもの}を[[u:たたんで]]、たんすにしまった。",
+      "options": [
+        "重んで",
+        "畳んで",
+        "量んで",
+        "置んで"
+      ],
+      "answer": 1,
+      "vi": "Tôi gấp quần áo đã khô rồi cất vào tủ.",
+      "why": "Gấp = **畳む** (cũng là chữ 畳 たたみ của chiếu tatami). 「重」「量」「置」 có nét gần giống nhưng không đọc たた (重ねる, 量る, 置く)."
+    },
+    {
+      "id": "g05-p12",
+      "kind": "usage",
+      "ref": "g05-w28",
+      "q": "{伸|の}ばす",
+      "options": [
+        "アイロンをかけて、シャツのしわを伸ばした。",
+        "雨のため、出発を一週間伸ばすことになった。",
+        "一年で子どもの背がずいぶん伸ばした。",
+        "洗ったら、Tシャツが小さく伸ばしてしまった。"
+      ],
+      "answer": 0,
+      "vi": "(1) Tôi là áo để làm phẳng nếp nhăn.",
+      "why": "(1) しわを伸ばす → đúng. (2) kéo dài **thời gian** phải viết 「延ばす」; (3) chủ ngữ 背が → tự động từ 「伸びた」; (4) nhỏ lại → 縮んで."
+    },
+    {
+      "id": "g05-p13",
+      "kind": "paraphrase",
+      "ref": "g05-w68",
+      "q": "{塩|しお}をひとつまみ{加|くわ}えるだけで、{味|あじ}が[[u:ぐっと]]よくなる。",
+      "options": [
+        "だんだん",
+        "少し",
+        "やっと",
+        "ずいぶん"
+      ],
+      "answer": 3,
+      "vi": "Chỉ thêm một nhúm muối là vị ngon hẳn lên.",
+      "why": "ぐっと = thay đổi rõ rệt ≒ **ずいぶん**. 「少し」 ngược mức độ; 「だんだん」 = từ từ (ぐっと là thay đổi một bước rõ ràng); 「やっと」 = cuối cùng thì."
+    }
+  ],
+  "test": [
+    {
+      "id": "g05-t1",
+      "kind": "read",
+      "ref": "g05-w46",
+      "q": "{使|つか}わなくなった{家具|かぐ}は、しばらく[[u:倉庫]]に{入|い}れておこう。",
+      "options": [
+        "そうご",
+        "くらこ",
+        "そうこ",
+        "しょうこ"
+      ],
+      "answer": 2,
+      "vi": "Đồ đạc không dùng nữa thì tạm cho vào kho.",
+      "why": "**そうこ**: 倉 = そう, 庫 = こ (không biến âm). 「くら」 là âm Kun của 倉 (蔵); 「しょうこ」 nhầm với 証拠."
+    },
+    {
+      "id": "g05-t2",
+      "kind": "read",
+      "ref": "g05-w4",
+      "q": "ボタンが{取|と}れたので、{自分|じぶん}で[[u:縫って]]つけた。",
+      "options": [
+        "ぬって",
+        "あんで",
+        "むって",
+        "ゆって"
+      ],
+      "answer": 0,
+      "vi": "Cúc bị đứt nên tôi tự khâu lại.",
+      "why": "縫う đọc **ぬう**. 「あんで」 là cách đọc của 編んで (đan) — từ cùng chủ đề dễ lẫn; 「むって」「ゆって」 không phải cách đọc của 縫."
+    },
+    {
+      "id": "g05-t3",
+      "kind": "write",
+      "ref": "g05-w23",
+      "q": "{晴|は}れた{日|ひ}は{布団|ふとん}をベランダに[[u:ほして]]から{出|で}かける。",
+      "options": [
+        "干して",
+        "千して",
+        "于して",
+        "汗して"
+      ],
+      "answer": 0,
+      "vi": "Ngày nắng, tôi phơi chăn ngoài ban công rồi mới ra ngoài.",
+      "why": "Phơi = **干す**. 「千」 (nghìn) và 「于」 khác 干 ở nét trên cùng; 「汗」 (mồ hôi) chứa 干 nhưng là chữ khác."
+    },
+    {
+      "id": "g05-t4",
+      "kind": "context",
+      "ref": "g05-w22",
+      "q": "{色落|いろお}ちを{防|ふせ}ぐため、ジーンズは（　　）から{洗濯機|せんたくき}に{入|い}れている。",
+      "options": [
+        "伸ばして",
+        "畳んで",
+        "縮めて",
+        "裏返して"
+      ],
+      "answer": 3,
+      "vi": "Để tránh phai màu, tôi lộn trái quần jeans rồi mới cho vào máy giặt.",
+      "why": "Lộn mặt trong ra ngoài để bảo vệ mặt vải → **裏返して**. 「伸ばして」「縮めて」 thay đổi kích thước; 「畳んで」 gấp lại không giúp chống phai và người ta không gấp đồ trước khi giặt."
+    },
+    {
+      "id": "g05-t5",
+      "kind": "context",
+      "ref": "g05-w60",
+      "q": "{地震|じしん}で{揺|ゆ}れて、コップの{水|みず}が（　　）、テーブルがびしょびしょになった。",
+      "options": [
+        "こぼして",
+        "汚して",
+        "こぼれて",
+        "溶かして"
+      ],
+      "answer": 2,
+      "vi": "Động đất rung lắc, nước trong cốc tràn ra làm bàn ướt sũng.",
+      "why": "Chủ ngữ 「水が」 + tự động từ → **こぼれて**. 「こぼして」「汚して」「溶かして」 đều là tha động từ, cần ai đó 〜を làm."
+    },
+    {
+      "id": "g05-t6",
+      "kind": "formation",
+      "ref": "g05-w63",
+      "q": "{慌|あわ}てて{立|た}ち{上|あ}がったら、コップを{引|ひ}っ{繰|く}り（　　）しまい、ジュースが{床|ゆか}に{広|ひろ}がった。",
+      "options": [
+        "返して",
+        "上がって",
+        "立てて",
+        "出して"
+      ],
+      "answer": 0,
+      "vi": "Vội đứng dậy, tôi làm đổ nhào cái cốc, nước ép tràn ra sàn.",
+      "why": "Lật úp / làm đổ → **引っ繰り返す**. Các ghép còn lại không tồn tại (引っ繰り上がる…); 〜上がる, 〜立て là hậu tố khác của bài."
+    },
+    {
+      "id": "g05-t7",
+      "kind": "paraphrase",
+      "ref": "g05-w20",
+      "q": "{引|ひ}っ{越|こ}しの{前|まえ}に、{本棚|ほんだな}の{本|ほん}を[[u:整理した]]。",
+      "options": [
+        "全部捨てた",
+        "きちんと分けて並べ直した",
+        "数を数えた",
+        "友達に貸した"
+      ],
+      "answer": 1,
+      "vi": "Trước khi chuyển nhà, tôi sắp xếp lại sách trên giá.",
+      "why": "整理する = phân loại, sắp xếp lại cho có trật tự ≒ **きちんと分けて並べ直した**. 整理 có thể bao gồm bỏ bớt, nhưng không phải 「全部捨てた」; 「数えた」「貸した」 không phải nghĩa của 整理."
+    },
+    {
+      "id": "g05-t8",
+      "kind": "usage",
+      "ref": "g05-w44",
+      "q": "{仕上|しあ}がる",
+      "options": [
+        "エレベーターで5階まで仕上がった。",
+        "締め切りの前日に、ようやく卒業論文が仕上がった。",
+        "物価が仕上がって、生活が苦しくなった。",
+        "大学を仕上がって、すぐ就職した。"
+      ],
+      "answer": 1,
+      "vi": "(2) Ngay trước hạn chót một ngày, luận văn tốt nghiệp cuối cùng cũng hoàn thành.",
+      "why": "(2) sản phẩm / tác phẩm hoàn tất → **仕上がる** đúng. (1) lên tầng → 上がった; (3) giá tăng → 上がって; (4) tốt nghiệp → 卒業して."
+    },
+    {
+      "id": "g05-t9",
+      "kind": "context",
+      "ref": "g05-w49",
+      "q": "{梅雨|つゆ}の{時期|じき}は、お{風呂場|ふろば}に（　　）が{生|は}えやすいので、よく{換気|かんき}しよう。",
+      "options": [
+        "しわ",
+        "ほこり",
+        "栓",
+        "かび"
+      ],
+      "answer": 3,
+      "vi": "Mùa mưa phòng tắm dễ bị mốc, hãy thông gió thường xuyên.",
+      "why": "Ẩm thấp + 「生える」 → **かび**. 「ほこり」 thì 「たまる」, không 生える; 「しわ」 thì 「寄る／できる」; 「栓」 không liên quan."
+    },
+    {
+      "id": "g05-t10",
+      "kind": "paraphrase",
+      "ref": "g05-w45",
+      "q": "{屋台|やたい}で[[u:出来立て]]のたこ{焼|や}きを{買|か}った。",
+      "options": [
+        "手作りの",
+        "冷めた",
+        "注文した",
+        "作ったばかりの"
+      ],
+      "answer": 3,
+      "vi": "Tôi mua takoyaki vừa làm xong ở quầy hàng rong.",
+      "why": "出来立て ≒ **作ったばかりの**. 「手作りの」 = làm bằng tay (không nói thời điểm); 「冷めた」 trái nghĩa; 「注文した」 không liên quan."
+    },
+    {
+      "id": "g05-t11",
+      "kind": "context",
+      "ref": "g05-w57",
+      "q": "{歩|ある}き{疲|つか}れた{娘|むすめ}を{背中|せなか}に（　　）、{駅|えき}から{家|いえ}まで{帰|かえ}った。",
+      "options": [
+        "だっこして",
+        "おんぶして",
+        "着せて",
+        "なでて"
+      ],
+      "answer": 1,
+      "vi": "Tôi cõng đứa con gái đi mỏi chân từ ga về nhà.",
+      "why": "「背中に」 → cõng trên lưng = **おんぶして**. 「だっこ」 là bế phía trước, mâu thuẫn với 背中; 「着せる」「なでる」 không hợp nghĩa."
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "id": "b07",
+  "track": "bunpo",
+  "intro": "Năm mẫu của bài đều gắn với một **đối tượng / chủ đề** (N), nhưng mỗi mẫu cho biết người ta **làm gì** với đối tượng đó. Cách nhớ tốt nhất là nhìn **động từ ở vế sau**:\n\n- **〜に関して**: \"về…\" (bản trang trọng của について) → vế sau là **tìm hiểu / truyền đạt thông tin**: 調べる・説明する・質問する・発表する.\n- **〜をめぐって**: \"xoay quanh…\" → vế sau là **tranh cãi, đối đầu, đồn đại** giữa **nhiều người**: 争う・議論する・対立する・意見が分かれる.\n- **〜にかけては**: \"về khoản… thì\" → vế sau là **đánh giá năng lực cao nhất**: 誰にも負けない・右に出る者はいない.\n- **〜に対して**: (A) \"đối với…\" → vế sau là **hành động / thái độ / cảm xúc hướng thẳng vào** đối tượng; (B) \"trái lại với…\" → **so sánh đối lập** hai sự việc.\n- **〜にこたえて**: \"đáp lại…\" → đi với **期待・要望・声援・アンコール**, vế sau là **hành động để đáp ứng** điều đó.\n\nĐề N2 hay đặt các mẫu này cạnh nhau làm phương án nhiễu, nên chỉ cần thuộc \"động từ đi kèm\" là loại được 2–3 phương án ngay. Lưu ý thêm dạng bổ nghĩa danh từ: 「に関する N」「をめぐる N」「に対する N」「にこたえる N」.",
+  "points": [
+    {
+      "id": "b07-1",
+      "pattern": "〜に関して",
+      "reading": "〜にかんして",
+      "meaning": "Về…, liên quan đến… (trang trọng hơn 〜について)",
+      "structure": ["N ＋ に関して(は)", "N ＋ に関する ＋ N", "Dạng lịch sự: 〜に関しまして(は)"],
+      "explain": "Nghĩa cơ bản giống 「〜について」: nêu **chủ đề** mà mình tìm hiểu hoặc nói tới. Nhưng 「に関して」 **cứng và trang trọng hơn**, hay xuất hiện trong báo cáo, thông báo, email công việc, tin tức.\n\n- **Vế sau**: **thường** (sách ghi 「多い」, không phải bắt buộc) là động từ **thu thập / truyền đạt thông tin**: 調べる・調査する・研究する・説明する・質問する・報告する・発表する・話し合う・意見を述べる. Cũng gặp vế sau chỉ hiểu biết / mối quan tâm về chủ đề: 詳しい・興味がない・関心が高い.\n- **〜に関する N**: bổ nghĩa cho danh từ: 「{環境|かんきょう}に{関|かん}する{法律|ほうりつ}」 (luật liên quan đến môi trường), 「{個人|こじん}{情報|じょうほう}に{関|かん}するお{問|と}い{合|あ}わせ」.\n- **〜に関しては**: nêu chủ đề để đối chiếu: 「{値段|ねだん}に{関|かん}しては{問題|もんだい}ないが…」 (riêng về giá thì không vấn đề gì, nhưng…).\n\nĐiểm khác tinh tế với について (sách có lưu ý): 「関」 = **liên quan**, nên に関して hợp với **một chủ đề rộng, kể cả những thứ xung quanh nó** (sự cố, chính sách, vấn đề môi trường…), chứ không hợp với câu hỏi về **một thông tin đơn giản có câu trả lời ngay** như tuổi, quốc tịch, tên.",
+      "nuance": "Văn viết, công việc, trang trọng (sách ghi 硬い言い方). Trong hội thoại thân mật nghe hơi cứng → dùng 「〜について」「〜のこと」. Không dùng cho thông tin cá nhân đơn giản: ✗ 「お{名前|なまえ}に{関|かん}して{教|おし}えてください」.",
+      "examples": [
+        {"ja": "{新|あたら}しいごみの{出|だ}し{方|かた}に{関|かん}して、{市役所|しやくしょ}で{説明会|せつめいかい}が{開|ひら}かれる。", "vi": "Sẽ có buổi giải thích tại toà thị chính về cách đổ rác mới.", "note": "Vế sau: truyền đạt thông tin (説明会)"},
+        {"ja": "この{件|けん}に{関|かん}しましては、{担当者|たんとうしゃ}から{改|あらた}めてご{連絡|れんらく}いたします。", "vi": "Về việc này, người phụ trách sẽ liên lạc lại với quý khách.", "note": "に関しましては · email / điện thoại công việc"},
+        {"ja": "{日本|にほん}の{伝統|でんとう}{文化|ぶんか}に{関|かん}する{本|ほん}を{何冊|なんさつ}か{読|よ}んでみた。", "vi": "Tôi đã thử đọc vài cuốn sách liên quan đến văn hoá truyền thống Nhật Bản.", "note": "に関する + N"},
+        {"ja": "{個人|こじん}{情報|じょうほう}の{取|と}り{扱|あつか}いに{関|かん}するご{質問|しつもん}は、こちらの{窓口|まどぐち}までお{問|と}い{合|あ}わせください。", "vi": "Mọi câu hỏi liên quan đến việc xử lý thông tin cá nhân, xin vui lòng liên hệ quầy này.", "note": ""},
+        {"ja": "{地球|ちきゅう}{温暖化|おんだんか}に{関|かん}して、{各国|かっこく}の{研究者|けんきゅうしゃ}が{意見|いけん}を{交|か}わした。", "vi": "Các nhà nghiên cứu từ nhiều nước đã trao đổi ý kiến về vấn đề trái đất nóng lên.", "note": "Chủ đề rộng"},
+        {"ja": "{彼|かれ}はコンピューターに{関|かん}しては{詳|くわ}しいが、{料理|りょうり}のことはまったくわからない。", "vi": "Anh ấy rành về máy tính, nhưng chuyện nấu ăn thì chẳng biết gì cả.", "note": "に関しては = riêng về… (đối chiếu)"}
+      ],
+      "compare": [
+        {"with": "〜について (N3)", "diff": "Nghĩa giống nhau. 「について」 dùng mọi nơi, kể cả thông tin đơn giản (年齢について聞く). 「に関して」 trang trọng, hợp chủ đề rộng / phức tạp."},
+        {"with": "〜をめぐって", "diff": "「に関して」 chỉ là **chủ đề** của việc tìm hiểu / nói. 「をめぐって」 là chủ đề của **tranh cãi, đối đầu** giữa nhiều bên. 「歴史に関してレポートを書く」 ○ — 「歴史をめぐってレポートを書く」 ✗."},
+        {"with": "〜に対して", "diff": "「に対して」 = **hướng hành động / thái độ thẳng vào** đối tượng (質問に対して答える, 先生に対して失礼だ). 「に関して」 chỉ nói \"về chủ đề\"."}
+      ],
+      "mistakes": [
+        "✗ すみません、ご{年齢|ねんれい}に{関|かん}して{教|おし}えていただけますか。→ ○ ご年齢を教えていただけますか／年齢について (thông tin đơn giản)",
+        "✗ {環境|かんきょう}に{関|かん}して{問題|もんだい}が{深刻|しんこく}だ。→ ○ 環境に関する問題が深刻だ。(bổ nghĩa danh từ phải dùng に関する)"
+      ],
+      "tip": "Vế sau là 調べる・説明する・質問・発表・報告・研究・アンケート… và câu có màu trang trọng → 「に関して」. Chỗ trống đứng ngay trước một danh từ (〜（　）調査) → chọn dạng 「に関する」."
+    },
+    {
+      "id": "b07-2",
+      "pattern": "〜をめぐって",
+      "reading": "〜をめぐって",
+      "meaning": "Xoay quanh… (tranh cãi, đối lập, đồn đại về…)",
+      "structure": ["N ＋ をめぐって(は)", "N ＋ をめぐる ＋ N", "Văn viết: 〜をめぐり"],
+      "explain": "「{巡|めぐ}る」 = đi vòng quanh. Hình dung **một vật ở giữa** và **nhiều người đứng xung quanh** giành giật, cãi nhau, bàn tán về nó. N chính là cái \"tâm\" đó.\n\n- **Vế sau**: động từ chỉ **tranh luận, đối đầu, cạnh tranh, dư luận**: 争う・対立する・議論する・もめる・意見が分かれる・競い合う・揺れる・うわさが流れる・さまざまな憶測が飛び交う.\n- **Chủ thể** thường là **số nhiều** (hai bên, nhiều người, dư luận, quốc hội…), vì phải có nhiều người mới tranh cãi được.\n- **〜をめぐる N**: 「{遺産|いさん}をめぐるトラブル」「{領土|りょうど}をめぐる{問題|もんだい}」.\n\nVí dụ: 「{新|あたら}しい{空港|くうこう}の{建設|けんせつ}をめぐって、{賛成派|さんせいは}と{反対派|はんたいは}が{対立|たいりつ}している」 — Xoay quanh việc xây sân bay mới, phe ủng hộ và phe phản đối đang đối đầu.",
+      "nuance": "Trang trọng, rất hay gặp trong tin tức, báo chí (sách ghi 硬い言い方). Không dùng với các động từ tìm hiểu / truyền đạt đơn thuần của một người (✗ 〜をめぐって調べる・説明する・レポートを書く) — những trường hợp đó dùng 「に関して」「について」.",
+      "examples": [
+        {"ja": "{会社|かいしゃ}の{経営|けいえい}{方針|ほうしん}をめぐって、{社長|しゃちょう}と{副社長|ふくしゃちょう}が{対立|たいりつ}している。", "vi": "Xoay quanh phương châm kinh doanh của công ty, giám đốc và phó giám đốc đang đối đầu nhau.", "note": "Hai bên đối lập"},
+        {"ja": "{新|あたら}しいダムの{建設|けんせつ}をめぐって、{住民|じゅうみん}の{意見|いけん}が{二|ふた}つに{分|わ}かれている。", "vi": "Về việc xây đập mới, ý kiến người dân đang chia làm hai.", "note": "意見が分かれる"},
+        {"ja": "オリンピックの{開催地|かいさいち}をめぐって、{複数|ふくすう}の{都市|とし}が{激|はげ}しく{競|きそ}い{合|あ}った。", "vi": "Nhiều thành phố đã cạnh tranh gay gắt để giành quyền đăng cai Olympic.", "note": "競い合う · cạnh tranh"},
+        {"ja": "その{事件|じけん}をめぐっては、ネット{上|じょう}でさまざまな{憶測|おくそく}が{飛|と}び{交|か}っている。", "vi": "Xung quanh vụ việc đó, trên mạng đang lan truyền đủ loại suy đoán.", "note": "をめぐっては · dư luận, đồn đoán"},
+        {"ja": "{新商品|しんしょうひん}の{価格|かかく}をめぐって、{会議|かいぎ}は{夜|よる}{遅|おそ}くまでもめた。", "vi": "Cuộc họp tranh cãi đến tận khuya về giá của sản phẩm mới.", "note": "もめる = cãi cọ, lục đục"},
+        {"ja": "{一|ひと}つの{部長|ぶちょう}ポストをめぐる{争|あらそ}いは、{社内|しゃない}を{二分|にぶん}するほどだった。", "vi": "Cuộc tranh giành một chiếc ghế trưởng phòng căng thẳng đến mức chia rẽ cả công ty làm hai.", "note": "をめぐる + N"}
+      ],
+      "compare": [
+        {"with": "〜に関して／〜について", "diff": "「に関して」: chủ đề để **tìm hiểu, nói, viết** — một người cũng làm được. 「をめぐって」: chủ đề gây **tranh chấp, bàn tán** — cần nhiều bên."},
+        {"with": "〜に対して", "diff": "「に対して」: một chủ thể **phản ứng thẳng vào** đối tượng (市の決定に対して反対する). 「をめぐって」: nhiều bên **cãi nhau xoay quanh** đối tượng (市の決定をめぐって議論が起きる)."}
+      ],
+      "mistakes": [
+        "✗ {日本|にほん}の{歴史|れきし}をめぐって、レポートを{書|か}いた。→ ○ 日本の歴史について／に関して、レポートを書いた。",
+        "✗ {遺産|いさん}をめぐって{争|あらそ}い → ○ 遺産をめぐる争い (bổ nghĩa danh từ dùng をめぐる)"
+      ],
+      "tip": "Vế sau có 争う・対立・議論・論争・もめる・意見が分かれる・うわさ・憶測 → chọn 「をめぐって」. Trợ từ đứng trước luôn là 「を」 — nếu đề cho mảnh 「を」 riêng lẻ trong 並べ替え thì ghép ngay 「を＋めぐって」."
+    },
+    {
+      "id": "b07-3",
+      "pattern": "〜にかけては",
+      "reading": "〜にかけては",
+      "meaning": "Về khoản… thì (giỏi nhất, không ai bằng)",
+      "structure": ["N ＋ にかけては", "Vこと ＋ にかけては"],
+      "explain": "Dùng để **khoe / khen một năng lực đặc biệt**: \"riêng về khoản N thì (người đó) là số một\". N là một **kỹ năng, khả năng, sở trường**: 料理の腕・足の速さ・記憶力・計算・歌・〜ことにかけては.\n\n- **Vế sau**: hầu như cố định là đánh giá **cao nhất**: 誰にも負けない・右に出る者はいない・一番だ・自信がある・プロ顔負けだ・天才的だ.\n- Thường gặp cấu trúc đối lập: \"cái khác thì kém, nhưng **riêng khoản này thì** không ai bằng\" — 「{勉強|べんきょう}は{苦手|にがて}だが、{絵|え}にかけては…」.\n\nNhớ bằng câu: 「{料理|りょうり}の{腕|うで}にかけては、{母|はは}の{右|みぎ}に{出|で}る{者|もの}はいない」 — Về tay nghề nấu nướng thì không ai hơn được mẹ tôi (右に出る = đứng trên, giỏi hơn).",
+      "nuance": "Văn nói lẫn văn viết đều dùng, mang sắc thái **tự hào / khen ngợi**. **Không** dùng cho đánh giá thấp hay điểm yếu (✗ 料理にかけては下手だ), cũng không dùng cho sự việc khách quan không liên quan đến năng lực (✗ 天気にかけては…).",
+      "examples": [
+        {"ja": "{足|あし}の{速|はや}さにかけては、クラスの{誰|だれ}にも{負|ま}けない。", "vi": "Về khoản chạy nhanh thì tôi không thua ai trong lớp.", "note": "誰にも負けない (cụm cố định)"},
+        {"ja": "{料理|りょうり}の{腕|うで}にかけては、{母|はは}の{右|みぎ}に{出|で}る{者|もの}はいない。", "vi": "Về tay nghề nấu ăn thì không ai giỏi hơn mẹ tôi.", "note": "右に出る者はいない = không ai hơn"},
+        {"ja": "{彼|かれ}は{数学|すうがく}にかけては{天才的|てんさいてき}だが、ほかの{科目|かもく}はさっぱりだ。", "vi": "Cậu ấy về môn toán thì là thiên tài, nhưng các môn khác thì chịu.", "note": "Đối lập: riêng khoản này giỏi"},
+        {"ja": "{人|ひと}の{顔|かお}と{名前|なまえ}を{覚|おぼ}えることにかけては、{自信|じしん}があります。", "vi": "Về khoản nhớ mặt và tên người khác thì tôi rất tự tin.", "note": "Vこと + にかけては · câu phỏng vấn xin việc"},
+        {"ja": "{細|こま}かい{作業|さぎょう}の{正確|せいかく}さにかけては、この{工場|こうじょう}の{職人|しょくにん}たちが{日本一|にほんいち}だと{言|い}われている。", "vi": "Về độ chính xác trong những công việc tỉ mỉ, người ta nói các thợ thủ công ở xưởng này là số một Nhật Bản.", "note": ""},
+        {"ja": "うちの{犬|いぬ}は{頭|あたま}は{良|よ}くないが、{食|た}べ{物|もの}を{見|み}つけることにかけてはプロ{顔負|かおま}けだ。", "vi": "Con chó nhà tôi không thông minh lắm, nhưng về khoản tìm đồ ăn thì đến dân chuyên cũng phải chào thua.", "note": "顔負け = khiến người khác phải chịu thua"}
+      ],
+      "compare": [
+        {"with": "〜にかけて (N3: thời gian / nơi chốn)", "diff": "「{夜|よる}から{朝|あさ}にかけて」 = trong khoảng từ… đến… (phạm vi thời gian / không gian). 「にかけては」 ở bài này = về khoản năng lực. Nhìn chữ đi trước: từ chỉ thời gian / nơi → にかけて; từ chỉ kỹ năng → にかけては."},
+        {"with": "〜に関しては", "diff": "「に関しては」 chỉ nêu chủ đề trung tính, vế sau tốt xấu gì cũng được. 「にかけては」 **bắt buộc** vế sau là đánh giá năng lực cao nhất."}
+      ],
+      "mistakes": [
+        "✗ {歌|うた}にかけては、{私|わたし}はまったく{自信|じしん}がない。→ ○ 歌に関しては／歌は、私はまったく自信がない。(にかけては không đi với điểm yếu)",
+        "✗ {英語|えいご}を{話|はな}すにかけては → ○ 英語を話すことにかけては (động từ cần こと)"
+      ],
+      "tip": "Vế sau có 「誰にも負けない」「右に出る者はいない」「自信がある」「一番」 → gần như chắc chắn là 「にかけては」. Ngược lại, thấy vế sau chê bai → loại ngay にかけては."
+    },
+    {
+      "id": "b07-4",
+      "pattern": "〜に対して",
+      "reading": "〜にたいして",
+      "meaning": "(A) Đối với…, hướng về…; (B) Trái lại với…, ngược lại thì…",
+      "structure": ["(A) N ＋ に対して(は)／に対しても", "(A) N ＋ に対する ＋ N", "(B) N ＋ に対して (兄に対して、弟は…)", "(B) V普通形 ／ い形普通形 ＋ のに対して", "(B) な形 ＋ な／である ＋ のに対して", "(B) N ＋ な／である ＋ のに対して"],
+      "explain": "「対」 = đối diện. Có hai cách dùng khác nhau hẳn, đề N2 ra cả hai:\n\n- **A. Đối tượng mà hành động / thái độ / cảm xúc hướng thẳng tới**: N là người, tổ chức, ý kiến, vấn đề; vế sau là **phản ứng trực tiếp** với N: 反対する・抗議する・答える・優しい・厳しい・失礼だ・不満を持つ・責任がある. Hình dung một **mũi tên** bắn thẳng từ chủ thể vào N.\n  「{市|し}の{決定|けってい}に{対|たい}して、{住民|じゅうみん}が{抗議|こうぎ}した」 — Người dân phản đối quyết định của thành phố.\n- **B. So sánh đối lập**: đặt hai sự việc **cạnh nhau** để làm nổi bật **sự khác biệt rõ ràng**: \"A thì…, trái lại B thì…\". Dạng nối: **普通形 + の + に対して**, hoặc **N + に対して** khi so hai người / vật (「{去年|きょねん}に{対|たい}して、{今年|ことし}は…」).\n  「{兄|あに}が{社交的|しゃこうてき}なのに{対|たい}して、{弟|おとうと}は{内気|うちき}だ」 — Anh thì hoà đồng, trái lại em thì nhút nhát.\n\nNhận diện nhanh: trước に対して là **〜の** (danh từ hoá cả mệnh đề) → là B. Trước là **danh từ** → thường là A, nhưng nếu vế sau mô tả **một đối tượng khác có đặc điểm trái ngược** (〜は…) thì vẫn là B.",
+      "nuance": "A dùng cả văn nói và văn viết; dạng bổ nghĩa danh từ là 「〜に対する N」 (✗ 〜に対してN). B mang tính khách quan, hay gặp trong báo cáo số liệu, bài luận (「〜のに対し、〜」 là dạng văn viết). Ở nghĩa B, hai vế phải là **hai đối tượng khác nhau** có đặc điểm trái ngược, vế sau thường dùng 「は」 để đối chiếu.",
+      "examples": [
+        {"ja": "{部下|ぶか}の{質問|しつもん}に{対|たい}して、{課長|かちょう}は{一|ひと}つ{一|ひと}つ{丁寧|ていねい}に{答|こた}えてくれた。", "vi": "Trước các câu hỏi của cấp dưới, trưởng nhóm đã trả lời cẩn thận từng câu một.", "note": "A: hành động hướng vào đối tượng"},
+        {"ja": "{市|し}の{突然|とつぜん}の{決定|けってい}に{対|たい}して、{多|おお}くの{市民|しみん}が{反対|はんたい}の{声|こえ}を{上|あ}げた。", "vi": "Đối với quyết định đột ngột của thành phố, nhiều người dân đã lên tiếng phản đối.", "note": "A: phản ứng"},
+        {"ja": "{子|こ}どもに{対|たい}する{親|おや}の{期待|きたい}が{大|おお}きすぎると、{子|こ}どもは{疲|つか}れてしまう。", "vi": "Nếu kỳ vọng của bố mẹ đối với con cái quá lớn, đứa trẻ sẽ kiệt sức.", "note": "A: に対する + N (cảm xúc)"},
+        {"ja": "{彼|かれ}は{動物|どうぶつ}に{対|たい}しては{優|やさ}しいのに、{人|ひと}に{対|たい}しては{冷|つめ}たい。", "vi": "Anh ta đối với động vật thì dịu dàng, vậy mà đối với con người lại lạnh lùng.", "note": "A: に対しては (thái độ)"},
+        {"ja": "{姉|あね}がにぎやかな{性格|せいかく}なのに{対|たい}して、{妹|いもうと}はおとなしくて{口数|くちかず}が{少|すく}ない。", "vi": "Chị thì tính sôi nổi, trái lại em thì trầm lặng, ít nói.", "note": "B: N な + のに対して"},
+        {"ja": "{都市部|としぶ}の{人口|じんこう}が{増|ふ}えているのに{対|たい}し、{地方|ちほう}では{減少|げんしょう}が{続|つづ}いている。", "vi": "Trong khi dân số ở thành thị đang tăng, ở các địa phương lại tiếp tục giảm.", "note": "B: のに対し (văn viết) · số liệu"}
+      ],
+      "compare": [
+        {"with": "〜に関して", "diff": "「に関して」 = **về chủ đề** (để tìm hiểu, nói). 「に対して」 = **hướng thẳng vào đối tượng** (phản đối, trả lời, tỏ thái độ). 「事故に関して調べる」 vs 「事故の被害者に対して謝罪する」."},
+        {"with": "〜にとって (19課)", "diff": "「にとって」 = **từ góc độ / lập trường của** N mà đánh giá (私にとって大切だ). 「に対して」 = **thái độ hướng tới** N (私に対して優しい). ✗ 私に対して大切だ."},
+        {"with": "〜一方(で) (nghĩa đối lập)", "diff": "「一方で」 cũng đối chiếu hai mặt, nhưng có thể là **hai mặt của cùng một đối tượng**. 「のに対して」 (B) thường so sánh **hai đối tượng khác nhau**."}
+      ],
+      "mistakes": [
+        "✗ {兄|あに}は{背|せ}が{高|たか}いに{対|たい}して、{弟|おとうと}は{低|ひく}い。→ ○ 兄は背が高いのに対して、… (nghĩa B cần 「の」)",
+        "✗ {先生|せんせい}に{対|たい}して{態度|たいど}が{問題|もんだい}になった。→ ○ 先生に対する態度が問題になった。(bổ nghĩa danh từ dùng に対する)",
+        "✗ この{本|ほん}は{私|わたし}に{対|たい}して{大切|たいせつ}だ。→ ○ 私にとって大切だ。"
+      ],
+      "tip": "Hai vế mô tả **hai đối tượng trái ngược**, có 「は」 ở vế sau → 「のに対して」. N + chỗ trống + 反対・抗議・不満・答える・失礼・厳しい → 「に対して」. Chỗ trống đứng trước danh từ → 「に対する」."
+    },
+    {
+      "id": "b07-5",
+      "pattern": "〜にこたえて",
+      "reading": "〜にこたえて",
+      "meaning": "Đáp lại, đáp ứng (kỳ vọng, yêu cầu, sự cổ vũ…)",
+      "structure": ["N ＋ にこたえて (応えて)", "N ＋ にこたえる ＋ N", "Văn viết: 〜にこたえ"],
+      "explain": "「{応|こた}える」 = **đáp lại** một điều người khác mong muốn ở mình (khác với 答える = trả lời câu hỏi). Người khác **mong / yêu cầu / cổ vũ**, và chủ thể **hành động để không phụ lòng** họ.\n\n- **N** chỉ giới hạn trong một nhóm từ: 期待・要望・希望・要求・ニーズ・声援・アンコール・信頼・声 (市民の声).\n- **Vế sau**: một **hành động cụ thể** để đáp ứng: 開発する・延長する・演奏する・優勝する・〜ことにした.\n\nVí dụ: 「{利用者|りようしゃ}の{要望|ようぼう}にこたえて、{図書館|としょかん}は{夜|よる}9{時|じ}まで{開館|かいかん}することになった」 — Đáp lại yêu cầu của người dùng, thư viện quyết định mở cửa đến 9 giờ tối.\n\nHình ảnh dễ nhớ: buổi hoà nhạc kết thúc, khán giả vỗ tay đòi \"アンコール!\" → ca sĩ quay lại hát thêm. Đó chính là 「アンコールにこたえて」.",
+      "nuance": "Trang trọng vừa phải, hay gặp trong tin tức, thông cáo của doanh nghiệp, lời phát biểu. Vì vế sau là hành động có chủ ý, mẫu này không dùng với kết quả tự nhiên hay sự thay đổi tự động (✗ 台風にこたえて休校になった). Bài tập của sách cũng loại vế sau kiểu 「〜ができた」「〜が明るい」: hãy để vế sau là **việc chủ thể làm** (市はバスの本数を増やした), không phải một sự việc tự xảy ra. Viết bằng kanji là 応えて.",
+      "examples": [
+        {"ja": "{鳴|な}りやまない{拍手|はくしゅ}とアンコールにこたえて、{指揮者|しきしゃ}はもう{一曲|いっきょく}{演奏|えんそう}した。", "vi": "Đáp lại tràng vỗ tay không dứt và tiếng gọi \"encore\", nhạc trưởng đã chỉ huy thêm một bản nữa.", "note": "アンコールにこたえて"},
+        {"ja": "{利用者|りようしゃ}の{要望|ようぼう}にこたえて、{図書館|としょかん}は{夜|よる}9{時|じ}まで{開館|かいかん}することになった。", "vi": "Đáp ứng yêu cầu của người dùng, thư viện quyết định mở cửa đến 9 giờ tối.", "note": "要望にこたえて"},
+        {"ja": "{健康|けんこう}{志向|しこう}の{消費者|しょうひしゃ}のニーズにこたえて、{低|てい}カロリーの{新商品|しんしょうひん}を{開発|かいはつ}した。", "vi": "Đáp ứng nhu cầu của người tiêu dùng quan tâm đến sức khoẻ, chúng tôi đã phát triển sản phẩm mới ít calo.", "note": "ニーズにこたえて · thông cáo doanh nghiệp"},
+        {"ja": "{両親|りょうしん}の{期待|きたい}にこたえようと、{彼|かれ}は{毎晩|まいばん}{遅|おそ}くまで{勉強|べんきょう}した。", "vi": "Để không phụ kỳ vọng của bố mẹ, cậu ấy đã học đến khuya mỗi tối.", "note": "期待にこたえようと (biến thể ý chí)"},
+        {"ja": "{地元|じもと}の{声|こえ}にこたえる{形|かたち}で、{市|し}はバスの{本数|ほんすう}を{増|ふ}やした。", "vi": "Đáp lại tiếng nói của người dân địa phương, thành phố đã tăng số chuyến xe buýt.", "note": "にこたえる + N (形で)"},
+        {"ja": "チームはサポーターの{熱|あつ}い{声援|せいえん}にこたえ、{見事|みごと}{逆転|ぎゃくてん}{勝利|しょうり}を{収|おさ}めた。", "vi": "Đáp lại sự cổ vũ nhiệt tình của cổ động viên, đội bóng đã giành chiến thắng ngược dòng ngoạn mục.", "note": "にこたえ (văn viết)"}
+      ],
+      "compare": [
+        {"with": "〜に応じて (9課)", "diff": "「に応じて」 = **thay đổi tuỳ theo** N (年齢に応じて料金が変わる) hoặc chấp nhận yêu cầu. 「にこたえて」 = **cố gắng đáp ứng** mong muốn của người khác, có sắc thái \"không phụ lòng\"; N chỉ là 期待・要望・声援…"},
+        {"with": "〜に対して", "diff": "「質問に対して答える」 = trả lời câu hỏi (phản ứng hướng vào đối tượng). 「期待にこたえる」 = đáp ứng sự mong đợi. Với 期待・要望・声援 → dùng にこたえて."}
+      ],
+      "mistakes": [
+        "✗ {台風|たいふう}の{接近|せっきん}にこたえて、{学校|がっこう}が{休校|きゅうこう}になった。→ ○ 台風の接近に伴って／により、休校になった。(台風 không phải \"mong muốn\" của ai)",
+        "✗ {年齢|ねんれい}にこたえて、{料金|りょうきん}が{変|か}わる。→ ○ 年齢に応じて、料金が変わる。",
+        "✗ {期待|きたい}にこたえて{結果|けっか} → ○ 期待にこたえる結果 (bổ nghĩa danh từ)"
+      ],
+      "tip": "Ngay trước chỗ trống là 期待・要望・希望・ニーズ・声援・アンコール・信頼 → chọn 「にこたえて」 (hoặc 「にこたえる」 nếu sau đó là danh từ). Đây là mẫu dễ ăn điểm nhất bài."
+    }
+  ],
+  "summary": [
+    {"pattern": "〜に関して", "meaning": "về… (trang trọng)", "key": "vế sau: 調べる・説明・質問・発表; に関する N"},
+    {"pattern": "〜をめぐって", "meaning": "xoay quanh… (tranh cãi)", "key": "vế sau: 争う・対立・議論・うわさ; nhiều bên; をめぐる N"},
+    {"pattern": "〜にかけては", "meaning": "về khoản… thì nhất", "key": "năng lực; 誰にも負けない・右に出る者はいない; không chê"},
+    {"pattern": "〜に対して", "meaning": "(A) đối với… (B) trái lại…", "key": "A: thái độ / hành động hướng vào N, に対する N; B: 普通形 + のに対して"},
+    {"pattern": "〜にこたえて", "meaning": "đáp lại, đáp ứng…", "key": "期待・要望・ニーズ・声援・アンコール + hành động"}
+  ],
+  "quiz": [
+    {"id": "b07-q1", "kind": "form", "ref": "b07-1", "q": "{新|あたら}しいウイルス（　　）{研究|けんきゅう}が、{世界|せかい}{各地|かくち}で{進|すす}められている。", "options": ["に関する", "にかけては", "にこたえる", "に対して"], "answer": 0, "vi": "Các nghiên cứu liên quan đến loại virus mới đang được tiến hành ở khắp nơi trên thế giới.", "why": "Chỗ trống đứng ngay trước danh từ 「研究」 và mang nghĩa \"về\" → **に関する**. 「にかけては」 dùng cho năng lực; 「にこたえる」 chỉ đi với 期待・要望…; 「に対して」 không bổ nghĩa trực tiếp cho danh từ (phải là 「に対する」)."},
+    {"id": "b07-q2", "kind": "form", "ref": "b07-2", "q": "{駅前|えきまえ}の{再開発|さいかいはつ}（　　）、{市|し}と{住民|じゅうみん}の{間|あいだ}で{激|はげ}しい{議論|ぎろん}が{続|つづ}いている。", "options": ["にかけては", "をめぐって", "にこたえて", "に限らず"], "answer": 1, "vi": "Xoay quanh việc tái quy hoạch khu trước ga, cuộc tranh luận gay gắt giữa thành phố và người dân vẫn đang tiếp diễn.", "why": "Hai bên (市と住民) + 激しい議論 → **をめぐって**. 「にかけては」 cần vế sau đánh giá năng lực; 「にこたえて」 cần 期待・要望…; 「に限らず」 (không chỉ…) cần vế sau mở rộng phạm vi."},
+    {"id": "b07-q3", "kind": "form", "ref": "b07-3", "q": "{記憶力|きおくりょく}（　　）、{彼|かれ}の{右|みぎ}に{出|で}る{者|もの}はいない。", "options": ["にこたえて", "をめぐって", "に対して", "にかけては"], "answer": 3, "vi": "Về khoản trí nhớ thì không ai hơn được anh ấy.", "why": "Năng lực (記憶力) + 「右に出る者はいない」 → **にかけては**. 「にこたえて」 cần 期待・要望; 「をめぐって」 cần vế sau là tranh cãi; 「に対して」 cần thái độ / hành động hướng vào đối tượng."},
+    {"id": "b07-q4", "kind": "form", "ref": "b07-4", "q": "{兄|あに}が{外|そと}で{体|からだ}を{動|うご}かすのが{好|す}きな（　　）、{弟|おとうと}は{家|いえ}で{本|ほん}を{読|よ}むのが{好|す}きだ。", "options": ["のに対して", "に対して", "のに関して", "をめぐって"], "answer": 0, "vi": "Anh trai thích vận động ngoài trời, trái lại em trai thích ở nhà đọc sách.", "why": "Hai người với sở thích trái ngược → nghĩa B **のに対して** (な + のに対して). 「好きなに対して」 thiếu 「の」; 「のに関して」 = về chủ đề, không có nghĩa đối lập; 「をめぐって」 không nối với 「好きな」."},
+    {"id": "b07-q5", "kind": "form", "ref": "b07-5", "q": "{多|おお}くの{利用者|りようしゃ}の{要望|ようぼう}（　　）、このカフェではコンセント{付|つ}きの{席|せき}を{増|ふ}やした。", "options": ["に関して", "にかけては", "にこたえて", "をめぐって"], "answer": 2, "vi": "Đáp ứng yêu cầu của nhiều khách hàng, quán cà phê này đã tăng thêm chỗ ngồi có ổ cắm điện.", "why": "「要望」 + hành động đáp ứng (席を増やした) → **にこたえて**. 「に関して」 cần vế sau là tìm hiểu / truyền đạt thông tin; 「にかけては」 dùng cho năng lực; 「をめぐって」 cần vế sau là tranh cãi."},
+    {"id": "b07-q6", "kind": "order", "ref": "b07-4", "q": "{政府|せいふ}の ＿＿＿ ＿＿＿ ★ ＿＿＿ {日|ひ}に{日|ひ}に{強|つよ}まっている。", "options": ["批判が", "対する", "新しい", "政策に"], "order": [2, 3, 1, 0], "answer": 1, "vi": "Những lời chỉ trích đối với chính sách mới của chính phủ ngày càng mạnh mẽ.", "why": "政府の **新しい 政策に 対する 批判が** 日に日に強まっている → ★ (ô thứ 3) = 「対する」. 「に対する」 + danh từ 「批判」; 「新しい」 bổ nghĩa cho 「政策」."},
+    {"id": "b07-q7", "kind": "usage", "ref": "b07-2", "q": "「〜をめぐって」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["日本の歴史をめぐって、レポートを書いた。", "彼は料理をめぐって、だれにも負けない。", "お客様の要望をめぐって、営業時間を延長した。", "新しい空港の建設をめぐって、賛成派と反対派が対立している。"], "answer": 3, "vi": "(4) Xoay quanh việc xây sân bay mới, phe ủng hộ và phe phản đối đang đối đầu nhau.", "why": "(4): hai phe + 対立 → đúng. (1) viết báo cáo là truyền đạt thông tin → 「について／に関して」. (2) năng lực → 「にかけては」. (3) đáp ứng yêu cầu → 「にこたえて」."}
+  ],
+  "practice": [
+    {"id": "b07-p1", "kind": "form", "ref": "b07-1", "q": "この{件|けん}（　　）、{後日|ごじつ}{担当者|たんとうしゃ}から{改|あらた}めてご{説明|せつめい}いたします。", "options": ["にかけましては", "に関しましては", "にこたえまして", "をめぐりましては"], "answer": 1, "vi": "Về việc này, ngày sau người phụ trách sẽ giải thích lại với quý khách.", "why": "Vế sau là truyền đạt thông tin (説明), văn công việc → **に関しましては**. 「にかけましては」 dùng cho năng lực; 「にこたえまして」 cần 期待・要望…; 「をめぐりましては」 cần vế sau là tranh cãi, đối lập."},
+    {"id": "b07-p2", "kind": "usage", "ref": "b07-1", "q": "「〜に{関|かん}して」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["すみません、お名前に関して教えていただけますか。", "ファンの期待に関して、選手たちは全力でプレーした。", "今回のシステム障害に関して、詳しい調査結果をご報告します。", "兄が背が高いのに関して、弟は背が低い。"], "answer": 2, "vi": "(3) Chúng tôi xin báo cáo kết quả điều tra chi tiết về sự cố hệ thống lần này.", "why": "(3): chủ đề + truyền đạt thông tin (報告) → đúng. (1) tên là thông tin đơn giản, chỉ cần 「お名前を教えて」. (2) đáp lại kỳ vọng → 「期待にこたえて」. (4) đối lập hai người → 「のに対して」."},
+    {"id": "b07-p3", "kind": "form", "ref": "b07-2", "q": "{審判|しんぱん}の{判定|はんてい}（　　）{論争|ろんそう}は、{試合|しあい}が{終|お}わった{後|あと}も{収|おさ}まらなかった。", "options": ["をめぐる", "にかけての", "にこたえる", "をめぐって"], "answer": 0, "vi": "Cuộc tranh cãi xoay quanh phán quyết của trọng tài vẫn chưa lắng xuống ngay cả sau khi trận đấu kết thúc.", "why": "Chỗ trống đứng trước danh từ 「論争」 → dạng bổ nghĩa **をめぐる**. 「をめぐって論争は」 sai vì 「をめぐって」 không bổ nghĩa trực tiếp cho danh từ; 「にかけての」 chỉ phạm vi thời gian / không gian; 「にこたえる」 cần 期待・要望."},
+    {"id": "b07-p4", "kind": "form", "ref": "b07-3", "q": "{歌|うた}は{苦手|にがて}だが、ダンス（　　）{誰|だれ}にも{負|ま}けない{自信|じしん}がある。", "options": ["に対して", "にかけては", "をめぐって", "にこたえて"], "answer": 1, "vi": "Hát thì tôi kém, nhưng về khoản nhảy thì tôi tự tin không thua ai.", "why": "Đối lập \"cái khác kém, riêng khoản này giỏi\" + 「誰にも負けない」 → **にかけては**. 「に対して」 là thái độ hướng vào đối tượng; 「をめぐって」 cần tranh cãi; 「にこたえて」 cần 期待・要望."},
+    {"id": "b07-p5", "kind": "form", "ref": "b07-4", "q": "{住民|じゅうみん}からの{度重|たびかさ}なる{苦情|くじょう}（　　）、{工事|こうじ}{会社|かいしゃ}は{誠意|せいい}ある{対応|たいおう}をしなかった。", "options": ["に対して", "にかけては", "に限らず", "に関する"], "answer": 0, "vi": "Trước những lời phàn nàn liên tiếp của người dân, công ty xây dựng đã không có cách xử lý thành ý.", "why": "Hành động (対応する) hướng thẳng vào đối tượng 「苦情」 → **に対して** (nghĩa A). 「にかけては」 dùng cho năng lực; 「に限らず」 = không chỉ…, không hợp nghĩa; 「に関する」 phải đứng trước danh từ, không đứng trước dấu phẩy."},
+    {"id": "b07-p6", "kind": "form", "ref": "b07-4", "q": "{昨年|さくねん}は{輸出|ゆしゅつ}が{大|おお}きく{伸|の}びた（　　）、{輸入|ゆにゅう}は{前年|ぜんねん}より{減少|げんしょう}した。", "options": ["ばかりか", "に関して", "のに対して", "に対して"], "answer": 2, "vi": "Năm ngoái xuất khẩu tăng mạnh, trái lại nhập khẩu lại giảm so với năm trước.", "why": "Hai số liệu trái chiều (伸びた ↔ 減少した), vế sau có 「は」 đối chiếu → **のに対して** (nghĩa B). 「伸びたに対して」 thiếu 「の」; 「ばかりか」 cần hai vế cùng chiều và vế sau có 「も」; 「に関して」 không nối trực tiếp với động từ và không có nghĩa đối lập."},
+    {"id": "b07-p7", "kind": "form", "ref": "b07-5", "q": "{選手|せんしゅ}たちは{監督|かんとく}の{期待|きたい}（　　）、チーム{創設|そうせつ}{以来|いらい}の{初優勝|はつゆうしょう}を{果|は}たした。", "options": ["に対して", "にこたえて", "をめぐって", "にかけては"], "answer": 1, "vi": "Đáp lại kỳ vọng của huấn luyện viên, các cầu thủ đã giành chức vô địch đầu tiên kể từ khi đội được thành lập.", "why": "「期待」 + hành động đáp ứng (優勝を果たした) → **にこたえて**. 「期待に対して」 chỉ là hướng thái độ vào kỳ vọng, không có nghĩa \"đáp ứng\"; 「をめぐって」 cần tranh cãi; 「にかけては」 cần năng lực."},
+    {"id": "b07-p8", "kind": "order", "ref": "b07-3", "q": "{仕事|しごと}の{正確|せいかく}さ ＿＿＿ ＿＿＿ ★ ＿＿＿ いないだろう。", "options": ["者は", "にかけては", "彼の", "右に出る"], "order": [1, 2, 3, 0], "answer": 3, "vi": "Về độ chính xác trong công việc thì chắc không ai hơn được anh ấy.", "why": "仕事の正確さ **にかけては 彼の 右に出る 者は** いないだろう → ★ (ô thứ 3) = 「右に出る」. Cụm cố định 「〜の右に出る者はいない」."},
+    {"id": "b07-p9", "kind": "order", "ref": "b07-5", "q": "{市民|しみん}の ＿＿＿ ＿＿＿ ★ ＿＿＿ {新|あら}たに{整備|せいび}された。", "options": ["形で", "声に", "公園が", "こたえる"], "order": [1, 3, 0, 2], "answer": 0, "vi": "Đáp lại tiếng nói của người dân, công viên đã được chỉnh trang mới.", "why": "市民の **声に こたえる 形で 公園が** 新たに整備された → ★ (ô thứ 3) = 「形で」. 「にこたえる」 + danh từ 「形」 (〜にこたえる形で = theo hướng đáp ứng…)."},
+    {"id": "b07-p10", "kind": "usage", "ref": "b07-5", "q": "「〜にこたえて」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["台風の接近にこたえて、学校は休校になった。", "年齢にこたえて、入場料が変わる。", "被災地の現状にこたえて、詳しく調べた。", "社員の要望にこたえて、会社は社内に保育施設を設けた。"], "answer": 3, "vi": "(4) Đáp ứng nguyện vọng của nhân viên, công ty đã xây dựng cơ sở giữ trẻ bên trong.", "why": "(4): 要望 + hành động có chủ ý của chủ thể (会社は〜を設けた) → đúng. (1) 台風 không phải mong muốn của ai → 「に伴って／により」. (2) thay đổi tuỳ theo → 「年齢に応じて」. (3) tìm hiểu thông tin → 「現状に関して／について」."},
+    {"id": "b07-p11", "kind": "form", "ref": "b07-2", "q": "{国際|こくさい}{会議|かいぎ}では、{漁業|ぎょぎょう}の{権利|けんり}（　　）{各国|かっこく}の{主張|しゅちょう}が{激|はげ}しくぶつかり{合|あ}った。", "options": ["にかけては", "にこたえて", "に限り", "をめぐって"], "answer": 3, "vi": "Tại hội nghị quốc tế, quan điểm của các nước đã va chạm gay gắt xoay quanh quyền đánh bắt cá.", "why": "Nhiều bên (各国) + 主張がぶつかり合う → **をめぐって**. 「にかけては」 cần năng lực; 「にこたえて」 cần 期待・要望; 「に限り」 = chỉ riêng (ưu đãi)."}
+  ],
+  "test": [
+    {"id": "b07-t1", "kind": "form", "ref": "b07-1", "q": "{子|こ}どものスマートフォン{利用|りよう}（　　）{調査|ちょうさ}の{結果|けっか}が{発表|はっぴょう}された。", "options": ["に対して", "をめぐって", "に関する", "にかけての"], "answer": 2, "vi": "Kết quả cuộc khảo sát về việc trẻ em sử dụng điện thoại thông minh đã được công bố.", "why": "Chỗ trống bổ nghĩa cho danh từ 「調査」, nghĩa \"về\" → **に関する**. 「に対して」「をめぐって」 không bổ nghĩa trực tiếp cho danh từ (và 調査 không phải tranh cãi); 「にかけての」 chỉ phạm vi thời gian / không gian."},
+    {"id": "b07-t2", "kind": "form", "ref": "b07-4", "q": "{突然|とつぜん}の{運賃|うんちん}{値上|ねあ}げ（　　）、{利用者|りようしゃ}から{不満|ふまん}の{声|こえ}が{上|あ}がっている。", "options": ["にかけては", "に対して", "にこたえて", "に限って"], "answer": 1, "vi": "Trước việc tăng giá vé đột ngột, người sử dụng đang lên tiếng bất bình.", "why": "Thái độ / phản ứng (不満の声) hướng thẳng vào 「値上げ」 → **に対して**. 「にかけては」 cần năng lực; 「にこたえて」 cần 期待・要望 (値上げ không phải mong muốn); 「に限って」 = đúng lúc đó lại…, không hợp."},
+    {"id": "b07-t3", "kind": "form", "ref": "b07-3", "q": "{彼女|かのじょ}は{普段|ふだん}おとなしいが、{将棋|しょうぎ}（　　）{大人|おとな}も{顔負|かおま}けの{強|つよ}さだ。", "options": ["をめぐって", "に対して", "にこたえて", "にかけては"], "answer": 3, "vi": "Cô bé bình thường hiền lành, nhưng về khoản cờ shogi thì mạnh đến mức người lớn cũng phải chào thua.", "why": "Riêng một năng lực + đánh giá rất cao (大人も顔負け) → **にかけては**. 「をめぐって」 cần tranh cãi; 「に対して」 cần thái độ hướng vào đối tượng; 「にこたえて」 cần 期待・要望."},
+    {"id": "b07-t4", "kind": "form", "ref": "b07-5", "q": "{視聴者|しちょうしゃ}からの{多|おお}くのリクエスト（　　）、その{番組|ばんぐみ}は{再放送|さいほうそう}されることになった。", "options": ["にこたえて", "に関して", "をめぐって", "にかけては"], "answer": 0, "vi": "Đáp ứng nhiều yêu cầu từ khán giả, chương trình đó sẽ được phát sóng lại.", "why": "「リクエスト」 (= 要望) + hành động đáp ứng (再放送) → **にこたえて**. 「に関して」 cần vế sau là tìm hiểu / truyền đạt; 「をめぐって」 cần tranh cãi; 「にかけては」 cần năng lực."},
+    {"id": "b07-t5", "kind": "order", "ref": "b07-2", "q": "{新|あたら}しい{法案|ほうあん} ＿＿＿ ＿＿＿ ★ ＿＿＿ {真|ま}っ{二|ぷた}つに{分|わ}かれた。", "options": ["意見は", "を", "国会の", "めぐって"], "order": [1, 3, 2, 0], "answer": 2, "vi": "Xoay quanh dự luật mới, ý kiến trong quốc hội đã chia làm hai phe rõ rệt.", "why": "新しい法案 **を めぐって 国会の 意見は** 真っ二つに分かれた → ★ (ô thứ 3) = 「国会の」. 「を」 + 「めぐって」 ghép thành mẫu; 「国会の」 bổ nghĩa cho 「意見」."},
+    {"id": "b07-t6", "kind": "order", "ref": "b07-4", "q": "{都市部|としぶ}では ＿＿＿ ＿＿＿ ★ ＿＿＿ {減|へ}り{続|つづ}けている。", "options": ["農村では", "対して", "人口が増えている", "のに"], "order": [2, 3, 1, 0], "answer": 1, "vi": "Trong khi dân số ở thành thị đang tăng thì ở nông thôn lại liên tục giảm.", "why": "都市部では **人口が増えている のに 対して 農村では** 減り続けている → ★ (ô thứ 3) = 「対して」. Nghĩa B: 普通形 + 「の」 + 「に対して」, vế sau đối chiếu bằng 「は」."},
+    {"id": "b07-t7", "kind": "usage", "ref": "b07-3", "q": "「〜にかけては」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["足の速さにかけては、クラスでだれにも負けない。", "料理にかけては、私はまったく自信がない。", "夏休みにかけては、毎日プールに通った。", "市の計画にかけては、住民が強く反対している。"], "answer": 0, "vi": "(1) Về khoản chạy nhanh thì tôi không thua ai trong lớp.", "why": "(1): năng lực + 「だれにも負けない」 → đúng. (2) にかけては không dùng cho điểm yếu → 「料理に関しては／料理は」. (3) phạm vi thời gian phải là 「〜から〜にかけて」, và không thêm は như vậy. (4) phản đối hướng vào đối tượng → 「計画に対して」."}
+  ]
+}

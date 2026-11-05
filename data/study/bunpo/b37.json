@@ -1,0 +1,249 @@
+{
+  "id": "b37",
+  "track": "bunpo",
+  "intro": "Từ bài này ta bước sang **第3部 文章の文法** — ngữ pháp ở cấp **đoạn văn**, đúng dạng **問題9 文章の文法** của đề N2: một bài văn 300–500 字 có 4–5 chỗ trống, phải đọc cả câu (thậm chí cả đoạn) mới chọn được.\n\nBài 1 dạy một nguyên tắc rất đơn giản nhưng hay bị bỏ quên: **đầu câu và cuối câu phải khớp nhau** (呼応 — \"gọi – đáp\"). Câu tiếng Nhật dài, chủ ngữ ở đầu, vị ngữ tận cuối; viết (hoặc đọc) đến cuối là dễ quên mình đã mở đầu bằng gì. Có ba nhóm \"đầu gọi – đuôi đáp\":\n\n- **Chủ ngữ ↔ vị ngữ**: 「私の夢は」 thì đuôi phải là 「〜ことだ」, không phải 「〜たい」.\n- **Khuôn đầu câu ↔ đuôi cố định**: 「なぜなら／というのは」 → 「〜からだ」; 「〜のは」 → 「〜からだ／ためだ」; 「〜かというと」 → 「そうではない」; 「〜には」 → 「〜がいる／が必要だ」.\n- **Phó từ ↔ đuôi câu**: 「決して」 → 〜ない, 「恐らく」 → 〜だろう, 「まるで」 → 〜ようだ, 「次第に」 → 〜なる…\n\nMẹo làm 問題9: khi gặp chỗ trống ở **cuối câu**, đừng chỉ đọc mấy chữ ngay trước nó — hãy **quay lại đầu câu** tìm chủ ngữ, khuôn mở đầu hoặc phó từ. Chính chúng đã \"đặt hàng\" cái đuôi đúng.",
+  "points": [
+    {
+      "id": "b37-1",
+      "pattern": "主語と述語の対応",
+      "reading": "しゅごとじゅつごのたいおう",
+      "meaning": "Chủ ngữ và vị ngữ phải khớp nhau (nhất là chủ ngữ danh từ trừu tượng → vị ngữ danh từ)",
+      "structure": ["N は／が ＋ … ＋ N だ　(何は何だ)", "N は／が ＋ … ＋ い形／な形　(何はどうだ)", "N は／が ＋ … ＋ V　(何がどうする)", "N に（は） ＋ N が ＋ ある／いる　(何がある)", "夢・目的・目標・問題・原因・特徴・仕事 は ＋ 〜ことだ／〜点だ／〜ことにある"],
+      "explain": "Mọi câu tiếng Nhật đều thuộc một trong bốn khung: **何は何だ** (A là B), **何はどうだ** (A thế nào), **何がどうする** (A làm gì / xảy ra gì), **何がある・いる** (có A). Câu dài đến đâu thì bộ khung vẫn chỉ là hai đầu đó.\n\n**Cách kiểm tra nhanh**: bỏ hết phần giữa, chỉ ghép **chủ ngữ + vị ngữ** rồi đọc thử.\n- 「私の夢は、いつかパリで料理の勉強をしたい」 → 「夢は…したい」: giấc mơ thì không \"muốn\" được → ✗.\n- Sửa: 「私の夢は、いつかパリで料理の勉強を**することだ**」 → 「夢は…ことだ」 (giấc mơ là việc…) → ○.\n\nBẫy lớn nhất là khi chủ ngữ là **danh từ trừu tượng**: 夢・目標・目的・仕事・役目・趣味・問題・特徴・原因・理由・意味… Những chủ ngữ này thuộc khung **何は何だ**, nên vị ngữ phải là **danh từ + だ**: 〜ことだ, 〜点だ, 〜ところだ, N だ, hoặc 〜ことにある (nằm ở chỗ…).\n\nHình ảnh dễ nhớ: chủ ngữ là cái **nắp hộp**, vị ngữ là cái **hộp** — phải cùng \"cỡ\". Nắp danh từ thì hộp danh từ.",
+      "nuance": "Trong văn viết, 「理由は〜からだ」 và 「原因は〜ためだ」 vẫn được chấp nhận (からだ／ためだ cũng là dạng \"danh từ hoá\" lý do). Cái không được là đuôi **động từ / tính từ trần** hay đuôi **ý chí, mong muốn** (〜たい, 〜よう, 〜てください) sau chủ ngữ trừu tượng. Ngoài ra, khi câu có cấu trúc 「AはBが〜」 (象は鼻が長い), chủ ngữ thật của vị ngữ là B — hãy ghép B với vị ngữ để kiểm tra.",
+      "examples": [
+        {"ja": "わたしの{夢|ゆめ}は、いつか{自分|じぶん}の{店|みせ}を{持|も}つことだ。", "vi": "Giấc mơ của tôi là một ngày nào đó có cửa hàng của riêng mình.", "note": "夢は〜ことだ (何は何だ)"},
+        {"ja": "この{町|まち}の{特徴|とくちょう}は、{古|ふる}い{建物|たてもの}が{今|いま}も{多|おお}く{残|のこ}っている{点|てん}だ。", "vi": "Đặc điểm của thị trấn này là đến nay vẫn còn lại nhiều công trình cổ.", "note": "特徴は〜点だ"},
+        {"ja": "{今回|こんかい}の{失敗|しっぱい}の{原因|げんいん}は、{準備|じゅんび}{不足|ぶそく}にあった。", "vi": "Nguyên nhân của thất bại lần này nằm ở việc chuẩn bị không đầy đủ.", "note": "原因は〜にある (nằm ở…)"},
+        {"ja": "{兄|あに}の{仕事|しごと}は、{空港|くうこう}で{飛行機|ひこうき}の{整備|せいび}をすることです。", "vi": "Công việc của anh tôi là bảo dưỡng máy bay ở sân bay.", "note": "仕事は〜ことです"},
+        {"ja": "{駅前|えきまえ}にできた{新|あたら}しいカフェは、{若|わか}い{人|ひと}たちに{人気|にんき}がある。", "vi": "Quán cà phê mới mở trước ga được giới trẻ rất ưa chuộng.", "note": "何はどうだ — chủ ngữ cụ thể, vị ngữ tính chất"},
+        {"ja": "{昨日|きのう}の{会議|かいぎ}では、{新|あたら}しい{計画|けいかく}について{活発|かっぱつ}な{意見|いけん}が{交|か}わされた。", "vi": "Trong cuộc họp hôm qua, nhiều ý kiến sôi nổi về kế hoạch mới đã được trao đổi.", "note": "何がどうする — 意見が交わされた (bị động)"}
+      ],
+      "compare": [
+        {"with": "「AはBが〜」(象は鼻が長い)", "diff": "「は」 nêu chủ đề, 「が」 nêu chủ ngữ thật của vị ngữ. 「この町は夜景が美しい」: cái \"đẹp\" là 夜景, không phải 町. Khi kiểm tra khớp chủ–vị, ghép 「が」 với vị ngữ."},
+        {"with": "〜のは〜からだ (b37-2)", "diff": "Cũng là khung 「何は何だ」: 「〜のは」 biến cả mệnh đề thành danh từ, nên đuôi cũng phải là danh từ hoá: 〜からだ／〜ためだ."}
+      ],
+      "mistakes": [
+        "✗ わたしの{目標|もくひょう}は、{今年|ことし}N2に{合格|ごうかく}したい。→ ○ わたしの目標は、今年N2に合格することだ。",
+        "✗ この{問題|もんだい}の{難|むずか}しいところは、{答|こた}えが{一|ひと}つではない。→ ○ …答えが一つではないところだ／点だ。",
+        "✗ {火事|かじ}の{原因|げんいん}は、たばこの{火|ひ}を{消|け}し{忘|わす}れた。→ ○ 火事の原因は、たばこの火の消し忘れだった。"
+      ],
+      "tip": "Chỗ trống ở cuối câu mà đầu câu là **danh từ trừu tượng + は** (夢は・目的は・問題は・特徴は・役目は) → chọn phương án kết thúc bằng **〜ことだ／〜点だ／〜ことにある**; loại ngay các đuôi 〜たい, 〜ている, 〜よう."
+    },
+    {
+      "id": "b37-2",
+      "pattern": "なぜなら・というのは〜からだ／〜のは〜からだ・ためだ",
+      "reading": "なぜなら・というのは〜からだ／〜のは〜からだ・ためだ",
+      "meaning": "Câu nêu lý do: mở đầu bằng \"bởi vì / sở dĩ…\" thì đuôi phải là \"…là vì\" (〜からだ／〜ためだ)",
+      "structure": ["(Câu kết quả。) なぜなら／というのは／なぜかというと ＋ 〜からだ（〜ためだ）", "〜のは ＋ 〜からだ／〜ためだ", "〜のは ＋ N のためだ／N のせいだ／N のおかげだ", "〜のは ＋ 〜からだろう／〜ためかもしれない (đoán lý do)"],
+      "explain": "Có hai khuôn nêu lý do, cả hai đều **khoá cứng đuôi câu**:\n\n**① なぜなら・というのは・なぜかというと + 〜からだ**\nCâu trước nói **kết quả / quyết định**, câu sau mở bằng từ \"bởi vì\" rồi giải thích. Đã mở bằng なぜなら thì phải đóng bằng **からだ** (hoặc ためだ) — giống như mở ngoặc thì phải đóng ngoặc.\n「私は車を買うのをやめた。**というのは**、駐車場代が思った以上に高い**からだ**。」\n\n**② 〜のは + 〜からだ／ためだ** (câu tách — 分裂文)\nĐưa **kết quả** lên đầu làm chủ đề, dồn **lý do** xuống cuối để nhấn mạnh: \"Sở dĩ A là vì B\". 「のは」 đã biến A thành danh từ (khung 何は何だ), nên đuôi phải là **からだ／ためだ** (hoặc のせいだ, のおかげだ).\n「この店にいつも行列ができる**のは**、値段のわりに量が多い**からだ**。」\n\nKhi người viết chỉ **đoán** lý do, đuôi thành 〜からだろう, 〜ためかもしれない, 〜からではないか.",
+      "nuance": "- 「なぜなら」 cứng, văn viết; 「というのは」 mềm hơn, dùng cả khi nói; 「なぜかというと」 thiên về văn nói, giải thích.\n- 「ためだ」 trang trọng hơn 「からだ」, hợp với tin tức, báo cáo nguyên nhân.\n- Không có dạng 「〜のでだ」: ✗ 〜のは、〜のでだ.\n- 「のせいだ」 (lỗi tại, nghĩa xấu) / 「のおかげだ」 (nhờ, nghĩa tốt) chỉ nối với danh từ hoặc mệnh đề + の.",
+      "examples": [
+        {"ja": "{最近|さいきん}、{自転車|じてんしゃ}で{通勤|つうきん}する{人|ひと}が{増|ふ}えている。なぜなら、{健康|けんこう}にもよく、{交通費|こうつうひ}も{節約|せつやく}できるからだ。", "vi": "Gần đây số người đi làm bằng xe đạp đang tăng. Bởi vì vừa tốt cho sức khoẻ, vừa tiết kiệm được tiền đi lại.", "note": "なぜなら … からだ"},
+        {"ja": "{私|わたし}は{大学院|だいがくいん}への{進学|しんがく}をあきらめた。というのは、{家|いえ}の{事情|じじょう}で{早|はや}く{働|はたら}く{必要|ひつよう}があったからだ。", "vi": "Tôi đã từ bỏ việc học lên cao học. Là vì hoàn cảnh gia đình buộc tôi phải sớm đi làm.", "note": "というのは … からだ"},
+        {"ja": "{今年|ことし}、{野菜|やさい}の{値段|ねだん}が{高|たか}いのは、{夏|なつ}に{雨|あめ}が{少|すく}なかったためである。", "vi": "Năm nay rau đắt là do mùa hè ít mưa.", "note": "〜のは〜ためである (văn viết, tin tức)"},
+        {"ja": "{彼|かれ}がどんなときも{冷静|れいせい}でいられるのは、{多|おお}くの{失敗|しっぱい}を{経験|けいけん}してきたからだろう。", "vi": "Anh ấy lúc nào cũng điềm tĩnh được có lẽ là vì đã trải qua nhiều thất bại.", "note": "đoán lý do → からだろう"},
+        {"ja": "{試合|しあい}に{勝|か}てたのは、{最後|さいご}まで{応援|おうえん}してくださった{皆|みな}さんのおかげです。", "vi": "Chúng tôi thắng được trận đấu là nhờ mọi người đã cổ vũ đến phút cuối.", "note": "〜のは〜のおかげだ"},
+        {"ja": "なぜこの{仕事|しごと}を{選|えら}んだかというと、{人|ひと}の{役|やく}に{立|た}っていると{実感|じっかん}できるからです。", "vi": "Tại sao tôi chọn công việc này ư? Là vì tôi cảm nhận được mình đang có ích cho người khác.", "note": "なぜ〜かというと … からだ"}
+      ],
+      "compare": [
+        {"with": "〜から、〜 (câu thường)", "diff": "「雨だから、行かない」: lý do trước, kết quả sau, đuôi tự do. 「行かないのは、雨だからだ」: kết quả lên đầu, lý do xuống cuối và **bắt buộc** đuôi からだ. Hai câu cùng nghĩa nhưng khuôn khác."},
+        {"with": "〜ので", "diff": "「ので」 chỉ dùng giữa câu (雨なので行かない). Không bao giờ đứng ở đuôi câu tách: ✗ 「〜のは、雨なのでだ」."}
+      ],
+      "mistakes": [
+        "✗ 私は{日本|にほん}に{残|のこ}ることにした。なぜなら、日本の{生活|せいかつ}が{好|す}きだ。→ ○ …好きだからだ。",
+        "✗ {遅刻|ちこく}したのは、{電車|でんしゃ}が{止|と}まった。→ ○ 遅刻したのは、電車が止まったからだ／ためだ。",
+        "✗ 遅刻したのは、電車が止まったのでだ。→ ○ …止まったからだ。"
+      ],
+      "tip": "Trong 問題9, thấy **なぜなら／というのは** ở đầu câu, hoặc **〜のは** ở đầu câu mà phần sau là lý do → chọn phương án có đuôi **からだ／ためだ／からだろう**. Phương án kết thúc bằng động từ trần hay 〜ので gần như chắc chắn sai."
+    },
+    {
+      "id": "b37-3",
+      "pattern": "〜かというと、〜ない",
+      "reading": "〜かというと、〜ない",
+      "meaning": "Nếu hỏi rằng có phải… không thì — không hẳn vậy (tự đặt câu hỏi rồi phủ định)",
+      "structure": ["普通形 ＋ かというと／かといえば ＋ そうではない／そんなことはない", "普通形 ＋ かというと ＋ 必ずしも〜とは限らない／〜わけではない", "(phân biệt) 疑問詞(なぜ・どうして・何) ＋ 〜かというと ＋ 〜からだ／〜ことだ"],
+      "explain": "Người viết **tự đặt ra câu hỏi** mà người đọc có thể đang nghĩ trong đầu, rồi **bác bỏ ngay**: \"Vậy có phải là A không? — Không phải vậy.\"\n\n「日本の夏はどこでも蒸し暑い**かというと**、**そんなことはない**。北海道の夏はかなり涼しい。」\n= Có phải mùa hè ở Nhật chỗ nào cũng nóng ẩm không? Không hề. Mùa hè ở Hokkaido khá mát mẻ.\n\nKhuôn này dùng để **sửa một suy nghĩ đơn giản, một định kiến** — nên rất hay xuất hiện trong văn nghị luận, đúng chất liệu 問題9. Phía sau thường có câu nêu sự thật: 「中には〜もある」「〜場合もある」.\n\n**Phân biệt quan trọng**: nếu trước 「かというと」 có **từ để hỏi** (なぜ, どうして, 何) thì đó là câu **giải thích**, đuôi là 〜からだ (b37-2). Không có từ để hỏi → câu **phủ định**, đuôi là そうではない.",
+      "nuance": "Văn viết, nghị luận. 「かといえば」 cùng nghĩa, hơi cứng hơn. Đuôi phủ định hay gặp: そうではない／そうでもない／そんなことはない／必ずしもそうとは限らない／〜わけではない／そう簡単ではない. Vế sau **không** khẳng định lại điều vừa hỏi.",
+      "examples": [
+        {"ja": "{値段|ねだん}が{高|たか}ければ{品質|ひんしつ}もいいかというと、{必|かなら}ずしもそうではない。", "vi": "Có phải cứ đắt là chất lượng tốt không? Không hẳn như vậy.", "note": "〜かというと、必ずしもそうではない"},
+        {"ja": "{日本人|にほんじん}なら{誰|だれ}でも{敬語|けいご}が{上手|じょうず}に{使|つか}えるかというと、そんなことはない。", "vi": "Có phải người Nhật ai cũng dùng kính ngữ giỏi không? Không hề.", "note": "phá định kiến"},
+        {"ja": "{彼|かれ}は{毎日|まいにち}{遅|おそ}くまで{残業|ざんぎょう}している。では、{仕事|しごと}が{好|す}きかというと、そうでもないらしい。", "vi": "Anh ấy ngày nào cũng làm thêm đến khuya. Vậy có phải anh ấy thích công việc không? Hình như cũng không hẳn.", "note": "では + 〜かというと"},
+        {"ja": "{留学|りゅうがく}すれば{自然|しぜん}に{話|はな}せるようになるかといえば、そう{簡単|かんたん}ではない。", "vi": "Có phải cứ đi du học là tự nhiên nói được không? Không đơn giản như vậy.", "note": "かといえば = かというと"},
+        {"ja": "なぜこの{方法|ほうほう}を{選|えら}んだかというと、{費用|ひよう}が{一番|いちばん}{安|やす}かったからだ。", "vi": "Tại sao chọn cách này ư? Là vì chi phí rẻ nhất.", "note": "có từ để hỏi (なぜ) → giải thích, đuôi からだ"}
+      ],
+      "compare": [
+        {"with": "なぜ〜かというと、〜からだ", "diff": "Có từ để hỏi → câu trả lời lý do, đuôi からだ. Không có từ để hỏi → câu hỏi \"có phải… không\" và đuôi **phủ định**."},
+        {"with": "〜からといって、〜わけではない", "diff": "\"Chỉ vì… không có nghĩa là…\". Cũng là bác bỏ suy diễn, nhưng nêu lý do trước: 「高いからといって、品質がいいわけではない」. 「〜かというと」 thì đặt cả suy diễn thành câu hỏi."}
+      ],
+      "mistakes": [
+        "✗ お{金|かね}があれば{幸|しあわ}せかというと、{幸|しあわ}せだ。→ ○ …かというと、そうとは限らない。(khuôn này dùng để phủ định)",
+        "✗ なぜ{遅|おく}れたかというと、{道|みち}が{混|こ}んでいた。→ ○ …道が混んでいたからだ。"
+      ],
+      "tip": "「普通形 + かというと、（　　）」 mà không có từ để hỏi → chọn đáp án **phủ định**: そうではない／そんなことはない／とは限らない／わけではない. Có なぜ／どうして → chọn 〜からだ."
+    },
+    {
+      "id": "b37-4",
+      "pattern": "〜には ＋ 〜がいる・ある／〜には ＋ 〜が必要だ・かかる",
+      "reading": "〜には ＋ 〜がいる・ある／〜には ＋ 〜がひつようだ・かかる",
+      "meaning": "Ở/trong (nhóm, nơi)… có…; Để làm… thì cần…",
+      "structure": ["N(nơi chốn／nhóm người) ＋ には ＋ N が いる／ある／多い／少ない／見られる", "〜の中には ＋ 〜人もいる／〜ものもある", "V辞書形 ＋ には ＋ N が 必要だ／かかる／便利だ／いい", "V辞書形 ＋ には ＋ 〜なければならない／〜しかない"],
+      "explain": "「〜には」 ở đầu câu cũng là một \"đơn đặt hàng\" cho đuôi câu. Nó có hai nghĩa, và mỗi nghĩa đòi một kiểu đuôi:\n\n**① N + には = \"ở / trong (phạm vi)…\"** → đuôi là **tồn tại**: 〜がいる／ある／多い／少ない／見られる.\n「説明会の参加者**の中には**、海外から来た人**もいた**。」\nBẫy: viết thành 「…参加者の中には、全員が熱心に質問した」 → đầu 「中には」 không có đuôi tồn tại (và 全員 mâu thuẫn với \"trong số\") → ✗.\n\n**② V辞書形 + には = \"để làm…\" (mục đích)** → đuôi là **điều kiện cần**: 〜が必要だ／〜がかかる／〜なければならない／〜しかない／〜がいい.\n「この問題を根本から解決する**には**、専門家の知恵が**必要だ**。」\nBẫy: 「…解決するには、明日専門家に相談しよう」 → đuôi ý chí ✗.\n\nNói gọn: **chốn/nhóm + には → có ai/cái gì**; **động từ + には → cần gì**.",
+      "nuance": "「V + には」 là câu nói về **điều kiện chung** để đạt mục đích, nên vế sau không phải là một hành động cụ thể đã xảy ra (✗ 「駅に行くには、昨日タクシーに乗った」), cũng không phải lời rủ rê / ý chí (✗ 〜よう、〜ましょう). Muốn nói ý chí thì dùng 「〜ために、〜しよう」.",
+      "examples": [
+        {"ja": "{参加者|さんかしゃ}の{中|なか}には、{遠|とお}く{北海道|ほっかいどう}から{来|き}た{人|ひと}もいた。", "vi": "Trong số người tham gia có cả người từ tận Hokkaido đến.", "note": "〜の中には 〜人もいる"},
+        {"ja": "この{地域|ちいき}には、{江戸|えど}{時代|じだい}の{町並|まちな}みが{今|いま}も{見|み}られる。", "vi": "Ở khu vực này đến nay vẫn còn thấy được những dãy phố thời Edo.", "note": "N には 〜が見られる"},
+        {"ja": "{最近|さいきん}の{若者|わかもの}には、{車|くるま}を{持|も}たない{人|ひと}が{多|おお}い。", "vi": "Trong giới trẻ gần đây có nhiều người không sở hữu ô tô.", "note": "N には 〜が多い"},
+        {"ja": "{日本|にほん}で{車|くるま}を{運転|うんてん}するには、{日本|にほん}の{免許|めんきょ}か{国際|こくさい}{免許|めんきょ}が{必要|ひつよう}だ。", "vi": "Để lái xe ở Nhật cần có bằng lái Nhật hoặc bằng lái quốc tế.", "note": "V辞書形 + には 〜が必要だ"},
+        {"ja": "この{論文|ろんぶん}を{完成|かんせい}させるには、あと{半年|はんとし}はかかるだろう。", "vi": "Để hoàn thành luận văn này chắc còn mất ít nhất nửa năm nữa.", "note": "V + には 〜かかる"},
+        {"ja": "{失|うしな}った{信頼|しんらい}を{取|と}り{戻|もど}すには、{一|ひと}つ{一|ひと}つの{約束|やくそく}を{守|まも}っていくしかない。", "vi": "Để lấy lại lòng tin đã mất, chỉ còn cách giữ từng lời hứa một.", "note": "V + には 〜しかない"}
+      ],
+      "compare": [
+        {"with": "〜ために(は)", "diff": "「ために」 cũng là mục đích nhưng vế sau tự do hơn, có thể là ý chí: 「合格するために、毎日勉強しよう」 ○. 「合格するには」 thì đuôi phải là điều kiện cần: 「合格するには、毎日の勉強が必要だ」."},
+        {"with": "V辞書形 ＋ のに", "diff": "「のに」 mục đích hẹp hơn, hay đi với 使う・必要だ・便利だ・かかる: 「この箱は引っ越しに便利だ」「家を建てるのに3000万円かかった」. 「には」 dùng được cả với ý \"phải… mới được\"."}
+      ],
+      "mistakes": [
+        "✗ このクラスの{学生|がくせい}の{中|なか}には、{全員|ぜんいん}が{試験|しけん}に{合格|ごうかく}した。→ ○ …学生の中には、満点を取った人もいた。",
+        "✗ この{仕事|しごと}を{今日中|きょうじゅう}に{終|お}わらせるには、{徹夜|てつや}しよう。→ ○ …終わらせるには、徹夜するしかない。"
+      ],
+      "tip": "Đầu câu 「N には／〜の中には」 → tìm đáp án có **〜もいる／〜もある／〜が見られる**. Đầu câu 「V辞書形 + には」 → tìm **必要だ／かかる／なければならない／しかない**. Đáp án có ý chí (〜よう) hoặc kể một việc đã xảy ra → loại."
+    },
+    {
+      "id": "b37-5",
+      "pattern": "副詞の呼応①：否定（全く・たいして・めったに・決して・必ずしも…〜ない）",
+      "reading": "ふくしのこおう①：ひてい（まったく・たいして・めったに・けっして・かならずしも…〜ない）",
+      "meaning": "Những phó từ đứng đầu câu đòi đuôi phủ định",
+      "structure": ["全く／少しも／ちっとも ＋ 〜ない (hoàn toàn không)", "たいして／それほど ＋ 〜ない (không… lắm)", "めったに ＋ 〜ない (hiếm khi)", "決して ＋ 〜ない (tuyệt đối không)", "なにも ＋ 〜ことはない／〜なくてもいい (đâu cần phải…)", "必ずしも ＋ 〜とは限らない／〜わけではない (không hẳn là)"],
+      "explain": "Trong tiếng Việt, \"không\" đứng trước động từ nên ta biết ngay câu phủ định. Tiếng Nhật thì 「ない」 nằm **tận cuối câu** — vì vậy người Nhật đặt một **phó từ báo trước** ở đầu: nghe 「決して」 là biết chắc cuối câu sẽ có 「ない」.\n\nNghĩa từng phó từ:\n- **全く・少しも・ちっとも 〜ない**: hoàn toàn không (ちっとも là văn nói).\n- **たいして・それほど 〜ない**: không… mấy (mức độ thấp hơn mong đợi). 「引っ越しにはたいしてお金はかからなかった」.\n- **めったに 〜ない**: hiếm khi (tần suất). 「この地方で雪が積もることはめったにない」.\n- **決して 〜ない**: tuyệt đối không — mang **ý chí, lời hứa, lời khuyên mạnh**. 「このことは決して忘れません」.\n- **なにも 〜ことはない**: \"đâu cần phải… đến thế\" (khuyên đừng phản ứng quá mức). 「なにもそこまで謝ることはないよ」.\n- **必ずしも 〜とは限らない／わけではない**: **phủ định một phần** — \"không phải lúc nào cũng…\". 「専門家の意見が必ずしも正しいとは限らない」.",
+      "nuance": "「全く」 còn dùng được với câu khẳng định mang nghĩa xấu / nhấn mạnh (「全く困ったものだ」「全く同じだ」), nhưng 「少しも・ちっとも・決して・めったに・たいして」 thì **chỉ** đi với phủ định. 「必ずしも」 là phủ định một phần (có khi đúng, có khi không), khác hẳn 「全く〜ない」 (không bao giờ đúng).",
+      "examples": [
+        {"ja": "{彼|かれ}が{会社|かいしゃ}を{辞|や}めるなんて、{全|まった}く{知|し}らなかった。", "vi": "Tôi hoàn toàn không biết chuyện anh ấy nghỉ việc.", "note": "全く〜ない"},
+        {"ja": "{評判|ひょうばん}のレストランに{行|い}ってみたが、たいしておいしくなかった。", "vi": "Tôi đã thử đến nhà hàng nổi tiếng đó, nhưng chẳng ngon lắm.", "note": "たいして〜ない (thấp hơn kỳ vọng)"},
+        {"ja": "{父|ちち}は{無口|むくち}で、{自分|じぶん}の{気持|きも}ちをめったに{口|くち}にしない。", "vi": "Bố tôi ít nói, hiếm khi nói ra cảm xúc của mình.", "note": "めったに〜ない (tần suất)"},
+        {"ja": "ここで{見|み}たことは、{決|けっ}して{誰|だれ}にも{話|はな}さないでください。", "vi": "Những gì thấy ở đây, tuyệt đối đừng kể với ai.", "note": "決して〜ないでください (yêu cầu mạnh)"},
+        {"ja": "{一度|いちど}{失敗|しっぱい}したくらいで、なにもそんなに{落|お}ち{込|こ}むことはないよ。", "vi": "Mới thất bại có một lần, đâu cần phải suy sụp đến thế.", "note": "なにも〜ことはない"},
+        {"ja": "{有名|ゆうめい}な{大学|だいがく}を{出|で}た{人|ひと}が、{必|かなら}ずしも{仕事|しごと}ができるとは{限|かぎ}らない。", "vi": "Người tốt nghiệp đại học danh tiếng chưa chắc đã làm việc giỏi.", "note": "必ずしも〜とは限らない (phủ định một phần)"}
+      ],
+      "compare": [
+        {"with": "あまり〜ない", "diff": "「あまり」 và 「たいして」 gần nghĩa. 「たいして」 thêm sắc thái \"không đáng kể, không như người ta nói\", hay đi với 〜ほど／評判ほど."},
+        {"with": "全く〜ない ↔ 必ずしも〜ない", "diff": "「全く正しくない」 = sai hoàn toàn. 「必ずしも正しいとは限らない」 = có khi đúng có khi sai. Đề hay bẫy bằng nghĩa của cả câu."}
+      ],
+      "mistakes": [
+        "✗ こんなにきれいな{夕日|ゆうひ}はめったに{見|み}られる。→ ○ …めったに見られない。",
+        "✗ {約束|やくそく}は{決|けっ}して{忘|わす}れる。→ ○ 約束は決して忘れない。",
+        "✗ {試験|しけん}はたいして{難|むずか}しかった。→ ○ 試験はたいして難しくなかった。"
+      ],
+      "tip": "Đọc phó từ trước, **đoán đuôi trước** rồi mới nhìn phương án. Thấy 決して／めったに／たいして／少しも ở đầu câu mà phương án nào không có 「ない」 → loại ngay. 「必ずしも」 → tìm 「とは限らない／わけではない」."
+    },
+    {
+      "id": "b37-6",
+      "pattern": "副詞の呼応②：推量（どうやら・もしかしたら・恐らく・まさか・きっと）",
+      "reading": "ふくしのこおう②：すいりょう（どうやら・もしかしたら・おそらく・まさか・きっと）",
+      "meaning": "Phó từ phỏng đoán đi với đuôi phỏng đoán tương ứng",
+      "structure": ["どうも／どうやら ＋ 〜ようだ／〜らしい (hình như, dựa vào dấu hiệu)", "もしかしたら／もしかすると ＋ 〜かもしれない (biết đâu, khả năng thấp)", "恐らく／多分 ＋ 〜だろう／〜でしょう (có lẽ)", "まさか ＋ 〜ないだろう／〜はずがない／〜とは思わなかった (lẽ nào, không thể tin)", "きっと ＋ 〜だろう／〜に違いない／〜はずだ (chắc chắn)"],
+      "explain": "Mỗi phó từ phỏng đoán có \"bạn đời\" riêng ở cuối câu. Hãy xếp chúng theo **độ chắc chắn**:\n\n- **もしかしたら … かもしれない** (~30%): biết đâu, có khả năng. 「もしかしたら、今夜は雪になるかもしれない」.\n- **どうも／どうやら … ようだ／らしい**: \"hình như\" — đoán dựa trên **dấu hiệu nhìn thấy / nghe thấy**. 「道が濡れている。どうやら夜中に雨が降ったようだ」.\n- **恐らく … だろう** (~70%): có lẽ — văn viết, hơi trang trọng. 「恐らく今回の選挙は接戦になるだろう」.\n- **きっと … に違いない／だろう／はずだ** (~90%): chắc chắn là — niềm tin mạnh.\n- **まさか … ないだろう／はずがない／とは思わなかった**: \"lẽ nào lại…\" — điều người nói **không thể tin / không muốn tin**. Đi với phủ định hoặc sự ngạc nhiên.\n\nCách nhớ: もしかしたら ít chắc → かもしれない (cũng ít chắc); きっと rất chắc → に違いない (cũng rất chắc). Độ chắc của đầu và đuôi phải **cùng mức**.",
+      "nuance": "Không ghép lệch mức: ✗ 「もしかしたら〜に違いない」, ✗ 「きっと〜かもしれない」 (nghe mâu thuẫn). 「どうやら」 không đi với 「に違いない」 hay 「だろう」 mà đi với 「ようだ／らしい」. 「まさか」 đứng một mình trong hội thoại cũng có nghĩa \"Không lẽ nào!\".",
+      "examples": [
+        {"ja": "{窓|まど}が{開|あ}いている。どうやら{誰|だれ}かが{部屋|へや}に{入|はい}ったようだ。", "vi": "Cửa sổ đang mở. Hình như có ai đó đã vào phòng.", "note": "どうやら〜ようだ (dựa vào dấu hiệu)"},
+        {"ja": "もしかすると、この{計画|けいかく}は{来年|らいねん}まで{延期|えんき}されるかもしれない。", "vi": "Biết đâu kế hoạch này sẽ bị hoãn đến sang năm.", "note": "もしかすると〜かもしれない"},
+        {"ja": "この{調子|ちょうし}では、{恐|おそ}らく{工事|こうじ}は{予定|よてい}{通|どお}りには{終|お}わらないだろう。", "vi": "Cứ đà này thì có lẽ công trình sẽ không xong đúng kế hoạch.", "note": "恐らく〜だろう"},
+        {"ja": "まさかあの{真面目|まじめ}な{田中|たなか}さんが{嘘|うそ}をつくとは{思|おも}わなかった。", "vi": "Tôi không ngờ anh Tanaka nghiêm túc như vậy lại nói dối.", "note": "まさか〜とは思わなかった"},
+        {"ja": "あれだけ{練習|れんしゅう}したのだから、{彼女|かのじょ}はきっと{合格|ごうかく}するに{違|ちが}いない。", "vi": "Đã luyện tập nhiều như thế, chắc chắn cô ấy sẽ đỗ.", "note": "きっと〜に違いない"},
+        {"ja": "{電話|でんわ}に{出|で}ないところを{見|み}ると、{彼|かれ}はどうも{忙|いそが}しいらしい。", "vi": "Thấy anh ấy không nghe máy, hình như là đang bận.", "note": "どうも〜らしい"}
+      ],
+      "compare": [
+        {"with": "まさか ↔ きっと", "diff": "Ngược nhau: 「きっと来る」 = tin chắc sẽ đến; 「まさか来ることはないだろう」 = lẽ nào lại đến (chắc chắn không đến đâu); 「まさか来るとは思わなかった」 = không ngờ lại đến."},
+        {"with": "どうも (b37-6) ↔ どうも (cảm ơn)", "diff": "「どうも」 phỏng đoán đi với ようだ／らしい, và còn nghĩa \"chẳng hiểu sao\" (どうもうまくいかない). Đừng lẫn với 「どうもありがとう」."}
+      ],
+      "mistakes": [
+        "✗ まさか{彼|かれ}が{来|く}るだろう。→ ○ まさか彼が来ることはないだろう／まさか彼が来るとは思わなかった。",
+        "✗ どうやら{雨|あめ}が{降|ふ}るに{違|ちが}いない。→ ○ どうやら雨が降るようだ／降りそうだ。",
+        "✗ もしかしたら{合格|ごうかく}するに{違|ちが}いない。→ ○ もしかしたら合格するかもしれない。"
+      ],
+      "tip": "Khi 4 phương án là 4 phó từ, nhìn **đuôi câu**: ようだ／らしい → どうやら; かもしれない → もしかしたら; に違いない → きっと; ないだろう／とは思わなかった → まさか; だろう (văn viết) → 恐らく."
+    },
+    {
+      "id": "b37-7",
+      "pattern": "副詞の呼応③：様態・変化・疑問・完了（まるで・今にも・次第に・いったい・果たして・すでに）",
+      "reading": "ふくしのこおう③：ようたい・へんか・ぎもん・かんりょう（まるで・いまにも・しだいに・いったい・はたして・すでに）",
+      "meaning": "Phó từ so sánh, biến đổi, nghi vấn, hoàn thành và đuôi câu tương ứng",
+      "structure": ["まるで ＋ 〜ようだ／〜みたいだ／〜かのようだ (cứ như thể)", "今にも ＋ Vます ＋ そうだ (sắp sửa… đến nơi)", "一段と／ますます／次第に／徐々に ＋ 〜なる／〜ていく／〜てくる (biến đổi)", "いったい ＋ 〜のか／〜だろう(か) (rốt cuộc là…?)", "果たして ＋ 〜だろうか (liệu có thật là… không)", "すでに／もう ＋ 〜ている／〜た (đã… rồi)"],
+      "explain": "Năm nhóm phó từ cuối cùng của bài:\n\n- **様態 (so sánh, hình dung)**: 「まるで」 → 〜ようだ／みたいだ. \"Cứ như là\": 「彼は何でも知っていて、まるで歩く辞書のようだ」. 「今にも」 → **Vます + そうだ** (sắp sửa, ngay trước mắt): 「今にも崩れそうな古い橋」.\n- **変化 (biến đổi)**: 「一段と」 (hơn hẳn một bậc), 「ますます」 (càng ngày càng), 「次第に・徐々に」 (dần dần) → đuôi phải là **động từ biến đổi**: 〜くなる／〜になる／〜ていく／〜てくる／増える・減る. 「町の人口は次第に減っていった」.\n- **疑問 (nghi vấn)**: 「いったい」 → 〜のか／〜だろう(か): \"rốt cuộc là…\" kèm bực bội, ngạc nhiên. 「果たして」 → 〜だろうか: \"liệu có thật… không\" — người viết **nghi ngờ**, rất hay gặp trong văn nghị luận.\n- **完了 (hoàn thành)**: 「すでに・もう」 → 〜ている／〜た: 「申し込みはすでに締め切られている」.",
+      "nuance": "「今にも〜そうだ」 là **そうだ dạng thái** (nối Vます: 降りそうだ), không phải そうだ truyền đạt (降るそうだ = nghe nói sẽ mưa). 「果たして」 thường đặt câu hỏi mang ý \"chắc là không\" (反語), ví dụ 「果たしてそれが正しいと言えるだろうか」 ≈ khó mà nói là đúng. 「すでに」 trang trọng hơn 「もう」.",
+      "examples": [
+        {"ja": "{彼女|かのじょ}は{日本語|にほんご}が{上手|じょうず}で、まるで{日本人|にほんじん}のように{話|はな}す。", "vi": "Cô ấy giỏi tiếng Nhật, nói cứ như người Nhật vậy.", "note": "まるで〜のように"},
+        {"ja": "{空|そら}が{真|ま}っ{暗|くら}になって、{今|いま}にも{雨|あめ}が{降|ふ}り{出|だ}しそうだ。", "vi": "Trời tối sầm lại, mưa như sắp trút xuống đến nơi.", "note": "今にも + Vます + そうだ"},
+        {"ja": "{新|あたら}しい{監督|かんとく}が{来|き}てから、チームは{一段|いちだん}と{強|つよ}くなった。", "vi": "Từ khi huấn luyện viên mới đến, đội mạnh lên hẳn một bậc.", "note": "一段と〜くなる"},
+        {"ja": "{薬|くすり}を{変|か}えてから、{祖父|そふ}の{症状|しょうじょう}は{徐々|じょじょ}に{良|よ}くなってきた。", "vi": "Từ khi đổi thuốc, triệu chứng của ông tôi dần dần đỡ hơn.", "note": "徐々に〜てくる"},
+        {"ja": "こんな{時間|じかん}まで、いったいどこで{何|なに}をしていたのか。", "vi": "Đến giờ này, rốt cuộc con đã ở đâu làm gì vậy hả?", "note": "いったい〜のか (bực bội)"},
+        {"ja": "{便利|べんり}になったのはいいが、{果|は}たしてそれで{人々|ひとびと}は{幸|しあわ}せになったのだろうか。", "vi": "Tiện lợi hơn thì tốt, nhưng liệu nhờ thế mà con người có hạnh phúc hơn không?", "note": "果たして〜だろうか (nghi ngờ)"}
+      ],
+      "compare": [
+        {"with": "今にも〜そうだ ↔ 〜そうだ (伝聞)", "diff": "「今にも降りそうだ」 = nhìn trời thấy sắp mưa (Vます). 「天気予報によると、雨が降るそうだ」 = nghe nói (普通形). 「今にも」 chỉ đi với loại thứ nhất."},
+        {"with": "いったい ↔ 果たして", "diff": "「いったい」 hỏi thông tin (ai, gì, đâu, tại sao) với cảm xúc mạnh: 「いったい誰がやったのか」. 「果たして」 hỏi có/không với sự nghi ngờ: 「果たして間に合うだろうか」."}
+      ],
+      "mistakes": [
+        "✗ {彼|かれ}の{部屋|へや}はまるで{倉庫|そうこ}だろう。→ ○ 彼の部屋はまるで倉庫のようだ。",
+        "✗ {今|いま}にも{雨|あめ}が{降|ふ}るそうだ。→ ○ 今にも雨が降りそうだ。",
+        "✗ {秋|あき}になって、{次第|しだい}に{寒|さむ}い。→ ○ …次第に寒くなってきた。"
+      ],
+      "tip": "Phó từ biến đổi (次第に・徐々に・ますます・一段と) → đuôi phải có **なる／ていく／てくる**. 「果たして」 ở đầu câu → đuôi **〜だろうか**. Trong 問題9, câu có 「果たして」 thường là chỗ tác giả **đặt vấn đề nghi ngờ**, câu sau sẽ nêu ý kiến thật."
+    }
+  ],
+  "summary": [
+    {"pattern": "主語と述語の対応", "meaning": "chủ ngữ khớp vị ngữ", "key": "夢・目的・特徴・原因は → 〜ことだ／〜点だ／〜にある"},
+    {"pattern": "なぜなら・というのは〜からだ／〜のは〜からだ・ためだ", "meaning": "câu lý do", "key": "đầu \"bởi vì / sở dĩ\" → đuôi からだ・ためだ (không 〜ので)"},
+    {"pattern": "〜かというと、〜ない", "meaning": "có phải… không? — không hẳn", "key": "không có từ hỏi → そうではない／とは限らない"},
+    {"pattern": "〜には ＋ がいる・ある／が必要だ", "meaning": "trong… có…／để… cần…", "key": "N には → tồn tại; V には → điều kiện cần (không ý chí)"},
+    {"pattern": "副詞＋否定", "meaning": "phó từ đòi ない", "key": "全く・少しも・たいして・めったに・決して・なにも〜ことはない・必ずしも〜とは限らない"},
+    {"pattern": "副詞＋推量", "meaning": "phó từ phỏng đoán", "key": "どうやら→ようだ, もしかしたら→かもしれない, 恐らく→だろう, まさか→ないだろう, きっと→に違いない"},
+    {"pattern": "副詞＋様態・変化・疑問・完了", "meaning": "so sánh / biến đổi / hỏi / xong", "key": "まるで→ようだ, 今にも→Vますそうだ, 次第に→なる, 果たして→だろうか, すでに→ている"}
+  ],
+  "passages": {
+    "p1": {
+      "title": "小さな町に住んで",
+      "kind": "エッセイ",
+      "ja": "　{三年前|さんねんまえ}、{私|わたし}は{東京|とうきょう}の{会社|かいしゃ}を{辞|や}めて、{海|うみ}の{近|ちか}くの{小|ちい}さな{町|まち}に{引|ひ}っ{越|こ}した。{周|まわ}りの{人|ひと}には「もったいない」と{言|い}われたが、{後悔|こうかい}はしていない。この{町|まち}を{選|えら}んだ{一番|いちばん}の{理由|りゆう}は、{毎朝|まいあさ}、{海沿|うみぞ}いの{道|みち}を{散歩|さんぽ}（　1　）。\n　もちろん、{田舎|いなか}の{生活|せいかつ}がいいことばかりかというと、（　2　）。{店|みせ}は{夜|よる}{八時|はちじ}には{閉|し}まってしまうし、{車|くるま}がなければ{病院|びょういん}へ{行|い}くのも{大変|たいへん}だ。{都会|とかい}で{当|あ}たり{前|まえ}だった{便利|べんり}さをここで{手|て}に{入|い}れるには、（　3　）。\n　それでも{私|わたし}がこの{町|まち}を{離|はな}れようと{思|おも}わないのは、ここの{人|ひと}たちの{温|あたた}かさに{何度|なんど}も{助|たす}けられてきた（　4　）。{引|ひ}っ{越|こ}してきたばかりのころ、{近所|きんじょ}のおばあさんが、とれたての{野菜|やさい}を{持|も}って{訪|たず}ねてきてくれた。{知|し}り{合|あ}いが{一人|ひとり}もいなかった{私|わたし}にとって、それがどれほどうれしかったかわからない。",
+      "vi": "Ba năm trước, tôi nghỉ việc ở một công ty tại Tokyo và chuyển đến một thị trấn nhỏ gần biển. Mọi người xung quanh bảo \"phí quá\", nhưng tôi không hối hận. Lý do lớn nhất khiến tôi chọn thị trấn này là mỗi sáng có thể đi dạo trên con đường ven biển.\n\nDĩ nhiên, nếu hỏi cuộc sống ở quê có toàn điều tốt không thì không hẳn như vậy. Cửa hàng đóng cửa lúc tám giờ tối, không có ô tô thì đến bệnh viện cũng vất vả. Muốn có được ở đây sự tiện lợi vốn là điều đương nhiên ở thành phố thì tốn khá nhiều công sức và tiền bạc.\n\nDù vậy, sở dĩ tôi không nghĩ đến chuyện rời thị trấn này là vì tôi đã nhiều lần được sự ấm áp của người dân nơi đây giúp đỡ. Hồi mới chuyển đến, một bà cụ hàng xóm đã mang rau vừa hái đến thăm tôi. Với tôi khi ấy, chẳng quen biết một ai, điều đó vui biết nhường nào."
+    },
+    "p2": {
+      "title": "手書きの年賀状",
+      "kind": "コラム",
+      "ja": "　{年末|ねんまつ}になると、{毎年|まいとし}{少|すこ}しずつ{年賀状|ねんがじょう}の{枚数|まいすう}が{減|へ}っていく。メールやSNSで{新年|しんねん}のあいさつを{済|す}ませる{人|ひと}が{増|ふ}えたからだ。{私|わたし}の{友人|ゆうじん}（　1　）、「もう{年賀状|ねんがじょう}はやめた」と{宣言|せんげん}した{人|ひと}も{何人|なんにん}かいる。\n　{確|たし}かに、{一枚|いちまい}{一枚|いちまい}{手|て}で{書|か}くのは{時間|じかん}がかかる。{忙|いそが}しい{年末|ねんまつ}に、（　2　）そんな{手間|てま}をかける{価値|かち}があるのだろうか。そう{思|おも}って、{私|わたし}も{一度|いちど}は{年賀状|ねんがじょう}をやめようとした。\n　ところが{昨年|さくねん}、{中学|ちゅうがく}{時代|じだい}の{恩師|おんし}から{一枚|いちまい}の{年賀状|ねんがじょう}が{届|とど}いた。{少|すこ}し{震|ふる}えた{文字|もじ}で「{元気|げんき}にしていますか」と{書|か}かれていた。それを{読|よ}んだとき、{先生|せんせい}の{声|こえ}がまるですぐそばから（　3　）。{画面|がめん}の{文字|もじ}では、こうはいかないだろう。\n　{年賀状|ねんがじょう}を{書|か}く{本当|ほんとう}の{意味|いみ}は、{相手|あいて}の{顔|かお}を{思|おも}い{浮|う}かべながら、{一年|いちねん}に{一度|いちど}、その{人|ひと}のためだけに{時間|じかん}を（　4　）。{今年|ことし}も{私|わたし}は、ペンを{手|て}に{取|と}るつもりだ。",
+      "vi": "Cứ đến cuối năm, số thiệp mừng năm mới lại giảm đi một chút. Đó là vì ngày càng nhiều người chúc Tết qua email hay mạng xã hội. Trong số bạn bè của tôi, cũng có vài người đã tuyên bố \"Tôi bỏ thiệp năm mới rồi\".\n\nĐúng là viết tay từng tấm một thì mất thời gian. Vào dịp cuối năm bận rộn, liệu có đáng bỏ công sức như vậy không? Nghĩ thế, tôi cũng đã từng định bỏ gửi thiệp.\n\nThế nhưng năm ngoái, tôi nhận được một tấm thiệp từ thầy giáo cũ thời cấp hai. Trên đó, bằng nét chữ hơi run, thầy viết: \"Em có khoẻ không?\". Khi đọc dòng ấy, tôi cảm thấy giọng thầy như vang lên ngay bên cạnh. Chữ trên màn hình thì chắc không làm được như vậy.\n\nÝ nghĩa thật sự của việc viết thiệp năm mới nằm ở chỗ: vừa hình dung gương mặt người nhận, vừa dành thời gian chỉ cho riêng người đó, mỗi năm một lần. Năm nay tôi cũng định cầm bút lên."
+    }
+  },
+  "quiz": [
+    {"id": "b37-q1", "kind": "form", "ref": "b37-1", "q": "この{研究|けんきゅう}の{目的|もくてき}は、{高齢者|こうれいしゃ}が{安心|あんしん}して{暮|く}らせる{町|まち}づくりの{方法|ほうほう}を（　　）。", "options": ["探りたいと思う", "探ることである", "探っている", "探ってみよう"], "answer": 1, "vi": "Mục đích của nghiên cứu này là tìm ra cách xây dựng đô thị nơi người cao tuổi có thể sống an tâm.", "why": "Chủ ngữ là danh từ trừu tượng 「目的は」 → vị ngữ phải là danh từ: **探ることである**. (1) 「目的は…探りたいと思う」: mục đích không \"muốn\" được; (3) 「目的は…探っている」: mục đích không \"đang tìm\"; (4) đuôi rủ rê/ý chí, không khớp chủ ngữ."},
+    {"id": "b37-q2", "kind": "form", "ref": "b37-2", "q": "{彼|かれ}が{会社|かいしゃ}を{辞|や}めたのは、{家族|かぞく}との{時間|じかん}をもっと{大切|たいせつ}にしたいと{考|かんが}えた（　　）。", "options": ["ので", "からといって", "からだ", "ことにした"], "answer": 2, "vi": "Anh ấy nghỉ việc là vì muốn trân trọng thời gian bên gia đình hơn.", "why": "Khuôn 「〜のは〜からだ」 (sở dĩ… là vì…) → **からだ**. (1) 「ので」 không đứng ở đuôi câu tách; (2) 「からといって」 cần vế sau phủ định; (4) 「辞めたのは…ことにした」 không khớp chủ–vị."},
+    {"id": "b37-q3", "kind": "form", "ref": "b37-3", "q": "{有名|ゆうめい}な{大学|だいがく}を{出|で}れば{必|かなら}ず{成功|せいこう}するかというと、（　　）。", "options": ["そうとは限らない", "成功するはずだ", "そうするしかない", "成功したからだ"], "answer": 0, "vi": "Có phải cứ tốt nghiệp đại học danh tiếng là chắc chắn thành công không? Chưa chắc như vậy.", "why": "「〜かというと」 không có từ để hỏi → đuôi **phủ định / bác bỏ**: そうとは限らない. (2) khẳng định lại điều vừa hỏi — sai chức năng khuôn; (3) không liên quan; (4) 「からだ」 chỉ dùng khi có từ hỏi (なぜ〜かというと)."},
+    {"id": "b37-q4", "kind": "form", "ref": "b37-4", "q": "この{山|やま}に{冬|ふゆ}に{登|のぼ}るには、（　　）。", "options": ["去年、友達と一緒に登った", "頂上から海がよく見えた", "明日、みんなで登ろう", "しっかりした装備と経験が必要だ"], "answer": 3, "vi": "Để leo ngọn núi này vào mùa đông thì cần trang bị đầy đủ và kinh nghiệm.", "why": "「V辞書形 + には」 = để làm… → đuôi là **điều kiện cần**: 必要だ. (1)(2) kể việc đã xảy ra, không khớp nghĩa mục đích; (3) đuôi rủ rê/ý chí — không đi với 「〜には」."},
+    {"id": "b37-q5", "kind": "form", "ref": "b37-5", "q": "{話題|わだい}の{映画|えいが}を{見|み}に{行|い}ったが、{評判|ひょうばん}ほど（　　）{面白|おもしろ}くなかった。", "options": ["まるで", "たいして", "めったに", "まさか"], "answer": 1, "vi": "Tôi đã đi xem bộ phim đang gây sốt, nhưng chẳng hay lắm như lời đồn.", "why": "「評判ほど…面白くなかった」 = không hay bằng kỳ vọng → **たいして〜ない**. (1) まるで cần 〜ようだ; (3) めったに chỉ tần suất (hiếm khi), không chỉ mức độ của một lần xem; (4) まさか cần 〜ないだろう／とは思わなかった, không dùng để kể lại cảm nhận."},
+    {"id": "b37-q6", "kind": "form", "ref": "b37-6", "q": "あの{二人|ふたり}は{最近|さいきん}いつも{一緒|いっしょ}にいる。（　　）{付|つ}き{合|あ}っているようだ。", "options": ["どうやら", "果たして", "決して", "めったに"], "answer": 0, "vi": "Hai người đó dạo này lúc nào cũng đi cùng nhau. Hình như họ đang hẹn hò.", "why": "Đuôi 「ようだ」 + đoán dựa vào dấu hiệu (lúc nào cũng đi cùng) → **どうやら**. (2) 果たして cần 〜だろうか; (3) 決して cần phủ định; (4) めったに cần phủ định (めったに〜ない = hiếm khi), không đi với 「付き合っているようだ」."},
+    {"id": "b37-q7", "kind": "usage", "ref": "b37-7", "q": "「{今|いま}にも」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["天気予報によると、今にも雨が降るそうだ。", "彼は今にも結婚していない。", "空が暗くなって、今にも雨が降り出しそうだ。", "会議は今にも終わったようだ。"], "answer": 2, "vi": "(3) Trời tối sầm lại, mưa như sắp trút xuống đến nơi.", "why": "(3) 「今にも + Vます + そうだ」 (dạng thái, nhìn thấy sắp xảy ra) → đúng. (1) 「降るそうだ」 là truyền đạt (nghe nói), không đi với 今にも; (2) đuôi phủ định, sai nghĩa; (4) đuôi quá khứ 「終わった」 — 今にも chỉ việc **sắp** xảy ra."}
+  ],
+  "practice": [
+    {"id": "b37-p1", "kind": "form", "ref": "b37-1", "q": "{私|わたし}の{仕事|しごと}は、{海外|かいがい}から{来|き}たお{客|きゃく}さまに{工場|こうじょう}の{中|なか}を（　　）。", "options": ["案内したいです", "案内しています", "案内することです", "案内してください"], "answer": 2, "vi": "Công việc của tôi là hướng dẫn khách đến từ nước ngoài đi tham quan bên trong nhà máy.", "why": "「仕事は」 → vị ngữ danh từ: **案内することです**. (1) 「仕事は…したい」 sai; (2) 「仕事は…しています」: ghép chủ–vị thành \"công việc đang hướng dẫn\" — sai (phải nói 「私は…案内しています」); (4) nhờ vả, không khớp."},
+    {"id": "b37-p2", "kind": "form", "ref": "b37-2", "q": "{私|わたし}は{毎朝|まいあさ}{一時間|いちじかん}{歩|ある}いて{会社|かいしゃ}に{行|い}く。というのは、{満員|まんいん}{電車|でんしゃ}がどうしても{苦手|にがて}（　　）。", "options": ["なので", "だろうか", "にしている", "だからだ"], "answer": 3, "vi": "Mỗi sáng tôi đi bộ một tiếng đến công ty. Là vì tôi thật sự không chịu được tàu chật cứng.", "why": "Mở bằng 「というのは」 → đóng bằng **からだ**: 苦手だからだ. (1) 「なので」 bỏ lửng, không đóng câu lý do; (2) câu hỏi, không phải lý do; (3) 「苦手にしている」 sai nghĩa và không có からだ."},
+    {"id": "b37-p3", "kind": "form", "ref": "b37-4", "q": "{今回|こんかい}の{調査|ちょうさ}{結果|けっか}には、（　　）。", "options": ["専門家が詳しく分析した", "いくつか気になる点が見られる", "来月発表する予定だ", "多くの市民が協力してくれた"], "answer": 1, "vi": "Trong kết quả khảo sát lần này có thể thấy một vài điểm đáng lưu ý.", "why": "「N には」 (trong phạm vi…) → đuôi **tồn tại**: 〜が見られる. (1) 「結果には専門家が分析した」 — chủ–vị không khớp (phải là 結果を分析した); (3) 「結果には…予定だ」 sai khung; (4) người dân hợp tác với **cuộc khảo sát**, không phải với \"kết quả\"."},
+    {"id": "b37-p4", "kind": "form", "ref": "b37-5", "q": "{彼|かれ}は{約束|やくそく}を（　　）{破|やぶ}らない{人|ひと}だから、{信|しん}じて{待|ま}っていよう。", "options": ["決して", "たいして", "どうやら", "まさか"], "answer": 0, "vi": "Anh ấy là người tuyệt đối không thất hứa, nên hãy tin và chờ thôi.", "why": "Phủ định mạnh, nói về tính cách đáng tin → **決して〜ない**. (2) たいして = không… lắm (\"không thất hứa lắm\" vô nghĩa); (3) どうやら cần 〜ようだ; (4) まさか dùng cho điều không thể tin, cần 〜ないだろう, không bổ nghĩa cho 「破らない人」."},
+    {"id": "b37-p5", "kind": "form", "ref": "b37-6", "q": "あれだけ{毎日|まいにち}{練習|れんしゅう}していたのだから、{彼女|かのじょ}は（　　）{明日|あした}の{試合|しあい}で{実力|じつりょく}を{出|だ}せるに{違|ちが}いない。", "options": ["もしかしたら", "まるで", "果たして", "きっと"], "answer": 3, "vi": "Đã luyện tập mỗi ngày như thế, chắc chắn ngày mai cô ấy sẽ phát huy được thực lực trong trận đấu.", "why": "Đuôi 「に違いない」 (rất chắc) → **きっと**. (1) もしかしたら độ chắc thấp, đi với かもしれない — lệch mức; (2) まるで cần ようだ; (3) 果たして cần 〜だろうか."},
+    {"id": "b37-p6", "kind": "form", "ref": "b37-7", "q": "{気温|きおん}が{下|さ}がるにつれて、{山|やま}の{木々|きぎ}は（　　）{赤|あか}や{黄色|きいろ}に{色|いろ}づいていった。", "options": ["すでに", "次第に", "今にも", "いったい"], "answer": 1, "vi": "Nhiệt độ càng giảm, cây cối trên núi càng dần dần chuyển sang đỏ và vàng.", "why": "Đuôi 「色づいていった」 là biến đổi dần (〜ていく) → **次第に**. (1) すでに = đã rồi, mâu thuẫn với quá trình 「〜ていった」; (3) 今にも cần Vます＋そうだ; (4) いったい cần câu hỏi."},
+    {"id": "b37-p7", "kind": "order", "ref": "b37-2", "q": "{試合|しあい}に{負|ま}けた ＿＿＿ ★ ＿＿＿ ＿＿＿ だ。", "options": ["から", "練習が", "のは", "足りなかった"], "order": [2, 1, 3, 0], "answer": 1, "vi": "Chúng tôi thua trận là vì luyện tập chưa đủ.", "why": "試合に負けた **のは 練習が 足りなかった から** だ → ★ (ô thứ 2) = 「練習が」. Khuôn 「〜のは〜からだ」: 「のは」 bám ngay sau 「負けた」, 「から」 đứng ngay trước 「だ」."},
+    {"id": "b37-p8", "kind": "order", "ref": "b37-7", "q": "{彼|かれ}の{話|はなし}は ＿＿＿ ＿＿＿ ★ ＿＿＿ {聞|き}こえた。", "options": ["自分の目で", "かのように", "まるで", "見てきた"], "order": [2, 0, 3, 1], "answer": 3, "vi": "Câu chuyện của anh ta nghe cứ như thể anh ta đã tận mắt chứng kiến.", "why": "彼の話は **まるで 自分の目で 見てきた かのように** 聞こえた → ★ = 「見てきた」. 「まるで」 đứng đầu, 「かのように」 khép lại ngay trước động từ 「聞こえた」."},
+    {"id": "b37-p9", "kind": "passage", "ref": "b37-1", "pass": "p1", "q": "（　1　）に{入|はい}るものはどれか。", "options": ["できることだ", "したいと思っている", "している", "できるようにした"], "answer": 0, "vi": "Lý do lớn nhất khiến tôi chọn thị trấn này là mỗi sáng có thể đi dạo trên con đường ven biển.", "why": "Chủ ngữ 「一番の理由は」 → vị ngữ danh từ: 散歩**できることだ**. (2) 「理由は…したいと思っている」, (3) 「理由は…している」, (4) 「理由は…できるようにした」 đều ghép chủ–vị không thành câu."},
+    {"id": "b37-p10", "kind": "passage", "ref": "b37-3", "pass": "p1", "q": "（　2　）に{入|はい}るものはどれか。", "options": ["いいことばかりだ", "必ずしもそうではない", "そう思うしかない", "そう思ったからだ"], "answer": 1, "vi": "Dĩ nhiên, nếu hỏi cuộc sống ở quê có toàn điều tốt không thì không hẳn như vậy.", "why": "「〜ばかりかというと」 (không có từ để hỏi) → đuôi **bác bỏ**: 必ずしもそうではない; câu sau cũng liệt kê bất tiện (cửa hàng đóng sớm, đi viện vất vả). (1) khẳng định lại — mâu thuẫn với câu sau; (3) không ăn khớp; (4) 「からだ」 chỉ dùng khi có なぜ."},
+    {"id": "b37-p11", "kind": "passage", "ref": "b37-4", "pass": "p1", "q": "（　3　）に{入|はい}るものはどれか。", "options": ["近所の人に頼んでみた", "去年、車を買った", "それなりの手間と費用がかかる", "便利な生活を送りたい"], "answer": 2, "vi": "Muốn có được ở đây sự tiện lợi vốn là điều đương nhiên ở thành phố thì tốn khá nhiều công sức và tiền bạc.", "why": "「手に入れるには」 (V辞書形 + には = để…) → đuôi điều kiện cần: **手間と費用がかかる**. (1)(2) kể một việc cụ thể đã xảy ra — không khớp với 「〜には」; (4) mong muốn, không phải điều kiện."},
+    {"id": "b37-p12", "kind": "passage", "ref": "b37-2", "pass": "p1", "q": "（　4　）に{入|はい}るものはどれか。", "options": ["ことにした", "ためにある", "わけにはいかない", "からだ"], "answer": 3, "vi": "Dù vậy, sở dĩ tôi không nghĩ đến chuyện rời thị trấn này là vì tôi đã nhiều lần được sự ấm áp của người dân nơi đây giúp đỡ.", "why": "Đầu câu 「〜と思わないのは」 → khuôn 「〜のは〜からだ」: **からだ**. (1) 「思わないのは…ことにした」 không khớp; (2) 「ためにある」 = tồn tại để…, sai nghĩa; (3) 「わけにはいかない」 = không thể làm, không phải lý do."}
+  ],
+  "test": [
+    {"id": "b37-t1", "kind": "passage", "ref": "b37-4", "pass": "p2", "q": "（　1　）に{入|はい}るものはどれか。", "options": ["にとっては", "の中には", "として", "に対して"], "answer": 1, "vi": "Trong số bạn bè của tôi, cũng có vài người đã tuyên bố \"Tôi bỏ thiệp năm mới rồi\".", "why": "Đuôi câu là 「〜人も何人かいる」 (tồn tại) → đầu câu phải là 「**の中には**」. (1) 「友人にとっては」 = đối với bạn tôi — cần đánh giá, không đi với 「人もいる」; (3) 「友人として」 = với tư cách bạn — sai nghĩa; (4) 「友人に対して」 = đối với bạn (hướng hành động) — không khớp."},
+    {"id": "b37-t2", "kind": "passage", "ref": "b37-7", "pass": "p2", "q": "（　2　）に{入|はい}るものはどれか。", "options": ["きっと", "決して", "果たして", "まるで"], "answer": 2, "vi": "Vào dịp cuối năm bận rộn, liệu có đáng bỏ công sức như vậy không?", "why": "Đuôi 「〜価値があるのだろうか」 = câu hỏi nghi ngờ → **果たして**. (1) きっと đi với に違いない／だろう (khẳng định), không đi với câu hỏi; (2) 決して cần phủ định; (4) まるで cần ようだ."},
+    {"id": "b37-t3", "kind": "passage", "ref": "b37-7", "pass": "p2", "q": "（　3　）に{入|はい}るものはどれか。", "options": ["聞こえてくるに違いない", "聞こえてくるそうだ", "聞こえてくるはずがない", "聞こえてくるようだった"], "answer": 3, "vi": "Khi đọc dòng ấy, tôi cảm thấy giọng thầy như vang lên ngay bên cạnh.", "why": "Có 「まるで」 phía trước → đuôi **〜ようだ** (kể chuyện quá khứ: ようだった). (1) に違いない là phỏng đoán chắc chắn, không hợp với まるで; (2) 「そうだ」 truyền đạt (nghe nói) — sai; (3) 「はずがない」 phủ định, mâu thuẫn với cảm xúc của đoạn."},
+    {"id": "b37-t4", "kind": "passage", "ref": "b37-1", "pass": "p2", "q": "（　4　）に{入|はい}るものはどれか。", "options": ["使いたいと思う", "使ってほしい", "使うことにある", "使っているからだ"], "answer": 2, "vi": "Ý nghĩa thật sự của việc viết thiệp năm mới nằm ở chỗ dành thời gian chỉ cho riêng người đó, mỗi năm một lần.", "why": "Chủ ngữ 「本当の意味は」 (danh từ trừu tượng) → vị ngữ **〜ことにある** (nằm ở chỗ…). (1)(2) đuôi mong muốn — \"ý nghĩa muốn…\" vô nghĩa; (4) 「からだ」 là lý do, mà 「意味」 không phải lý do."},
+    {"id": "b37-t5", "kind": "form", "ref": "b37-5", "q": "この{地方|ちほう}は{冬|ふゆ}でも{暖|あたた}かく、{雪|ゆき}が{積|つ}もることは（　　）。", "options": ["めったにない", "たいしてある", "必ずしもある", "少しもあった"], "answer": 0, "vi": "Vùng này mùa đông cũng ấm, hiếm khi có tuyết đọng.", "why": "Tần suất thấp → **めったにない**. Các phương án còn lại đều ghép phó từ phủ định (たいして・必ずしも・少しも) với đuôi khẳng định → sai hô ứng."},
+    {"id": "b37-t6", "kind": "form", "ref": "b37-6", "q": "（　　）あの{真面目|まじめ}な{山田|やまだ}さんが、{会社|かいしゃ}のお{金|かね}を{使|つか}い{込|こ}んでいたとは{思|おも}わなかった。", "options": ["きっと", "どうやら", "まさか", "恐らく"], "answer": 2, "vi": "Tôi không ngờ anh Yamada nghiêm túc như thế lại biển thủ tiền công ty.", "why": "Đuôi 「〜とは思わなかった」 (không ngờ, không thể tin) → **まさか**. (1) きっと (tin chắc) mâu thuẫn với \"không ngờ\"; (2) どうやら cần ようだ／らしい; (4) 恐らく cần だろう."},
+    {"id": "b37-t7", "kind": "usage", "ref": "b37-4", "q": "「〜には」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["駅に行くには、昨日タクシーに乗った。", "このクラスの学生には、全員日本人だ。", "試験に合格するには、毎日勉強しよう。", "日本語を教えるには、文法の深い知識が必要だ。"], "answer": 3, "vi": "(4) Để dạy tiếng Nhật cần có kiến thức sâu về ngữ pháp.", "why": "(4) 「V辞書形 + には」 + điều kiện cần (必要だ) → đúng. (1) kể việc cụ thể đã xảy ra; (2) 「学生には」 cần đuôi tồn tại (〜がいる), muốn nói \"tất cả là người Nhật\" thì dùng 「学生は全員日本人だ」; (3) đuôi ý chí 〜よう — phải là 「勉強しなければならない」."},
+    {"id": "b37-t8", "kind": "order", "ref": "b37-3", "q": "{外国語|がいこくご}は ＿＿＿ ＿＿＿ ★ ＿＿＿、{決|けっ}してそんなことはない。", "options": ["かというと", "上達しない", "若いうちに", "始めないと"], "order": [2, 3, 1, 0], "answer": 1, "vi": "Có phải ngoại ngữ không bắt đầu từ khi còn trẻ thì không giỏi lên được không? Hoàn toàn không phải vậy.", "why": "外国語は **若いうちに 始めないと 上達しない かというと**、決してそんなことはない → ★ = 「上達しない」. 「かというと」 đứng cuối, ngay trước câu bác bỏ."}
+  ]
+}

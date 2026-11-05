@@ -6,6 +6,7 @@ import { loadBank, bankAliases, getQ } from './data.js';
 
 const pages = {
   '/': () => import('./pages/home.js'),
+  '/study': () => import('./pages/study.js'),
   '/test': () => import('./pages/test.js'),
   '/drill': () => import('./pages/drill.js'),
   '/review': () => import('./pages/review.js'),

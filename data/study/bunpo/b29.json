@@ -1,0 +1,406 @@
+{
+  "id": "b29",
+  "track": "bunpo",
+  "intro": "Tiếng Nhật hiện đại vẫn giữ lại vài **mảnh ngữ pháp cổ (文語)** bên trong các mẫu N2. Chỉ cần biết 5 mảnh này tương đương với gì trong tiếng Nhật thường, bạn sẽ hiểu ngay cả một loạt mẫu:\n\n- **〜ず (ざる)** = 〜ない → もかまわず (không màng), を問わず (không xét), にかかわらず (không liên quan), ずじまい, ずにはいられない, ざるを得ない.\n- **べし → べき** = 〜なければならない / nên → べきだ, べきではない.\n- **まい** = phủ định của 〜う／よう: (1) 〜ないだろう (chắc không) (2) 〜ないようにしよう (quyết không).\n- **つつ** = 〜ながら → つつ (vừa… vừa), つつある (đang dần), つつ(も) (tuy… nhưng).\n- **せよ** = しろ (mệnh lệnh của する) → にせよ = にしろ.\n\n**Cách chia — đề 問題7 rất hay bẫy ở đây:**\n- ず／ざる: Vない形 + ず (行かず, 食べず) — riêng **する → せず／せざる**, 来る → こず／こざる.\n- べき: V辞書形 + べき — **する → するべき／すべき**. Phủ định là 「〜べきではない」, không phải 「〜ないべき」.\n- まい: động từ nhóm I: V辞書形 + まい (行くまい); nhóm II: 食べるまい／食べまい; する → するまい／すまい; 来る → くるまい／こまい.\n- つつ: Vます形 + つつ (考えつつ, しつつ).\n\nMẹo đọc nhanh: khi gặp mẫu lạ có ず, hãy **thay ず bằng ないで** rồi dịch nghĩa đen: 「人目もかまわず」 = 人目もかまわないで = chẳng màng ánh mắt người khác. Phần lớn các mẫu ở đây đã học ở 2, 11, 14, 15, 20, 22–25課 — mỗi mục ghi \"xem …課\"; bài này giúp bạn thấy chúng là **một họ**.",
+  "points": [
+    {
+      "id": "b29-1",
+      "pattern": "〜もかまわず",
+      "reading": "〜もかまわず",
+      "meaning": "Chẳng màng đến, bất chấp (điều người bình thường sẽ để ý)",
+      "structure": ["N ＋ もかまわず", "V普通形 ＋ の ＋ もかまわず"],
+      "explain": "「かまう」 = để tâm, bận tâm (気にする); 「かまわず」 = 「かまわないで」 → **chẳng màng tới** (xem 11課).\n\nN là thứ mà **người bình thường sẽ để ý**: 人目 (ánh mắt người khác), 周り, 服が汚れること, 雨, 夜中であること, 値段. Chủ thể **gạt hết sang một bên** để làm việc mình muốn.\n\nVới động từ phải danh từ hoá: 「服が汚れる**の**もかまわず」.",
+      "nuance": "Thường mô tả **người khác** với giọng ngạc nhiên hoặc phê phán (nói chuyện to trên tàu, khóc giữa đường). Cũng dùng được với hành động đáng khen (lao vào cứu người, mặc kệ ướt).",
+      "examples": [
+        {"ja": "{彼女|かのじょ}は{人目|ひとめ}もかまわず、{駅|えき}のホームで{大声|おおごえ}で{泣|な}いた。", "vi": "Cô ấy chẳng màng ánh mắt người xung quanh, khóc to giữa sân ga.", "note": "人目もかまわず = cụm rất hay gặp"},
+        {"ja": "{子|こ}どもたちは{服|ふく}が{汚|よご}れるのもかまわず、{泥|どろ}の{中|なか}で{遊|あそ}んでいる。", "vi": "Bọn trẻ mặc kệ quần áo lấm bẩn, cứ nghịch trong bùn.", "note": "V + のもかまわず"},
+        {"ja": "{隣|となり}の{人|ひと}は{夜中|よなか}なのもかまわず、{大|おお}きな{音|おと}で{音楽|おんがく}を{流|なが}している。", "vi": "Người hàng xóm chẳng màng là đang nửa đêm, cứ mở nhạc to.", "note": "N + なのもかまわず · phê phán"},
+        {"ja": "{母|はは}は{雨|あめ}に{濡|ぬ}れるのもかまわず、{駅|えき}まで{傘|かさ}を{届|とど}けに{来|き}てくれた。", "vi": "Mẹ chẳng ngại bị ướt mưa, mang ô ra tận ga cho tôi.", "note": "Hành động đáng quý"},
+        {"ja": "{彼|かれ}は{値段|ねだん}もかまわず、{気|き}に{入|い}った{服|ふく}を{次々|つぎつぎ}とかごに{入|い}れた。", "vi": "Anh ấy chẳng thèm nhìn giá, cứ thấy áo nào ưng là bỏ vào giỏ.", "note": ""}
+      ],
+      "compare": [
+        {"with": "〜を問わず (trong bài này)", "diff": "「を問わず」 = **không phân biệt** (điều kiện khách quan: 年齢を問わず募集). 「もかまわず」 = một **người** bất chấp thứ đáng để ý."},
+        {"with": "〜にもかかわらず (trong bài này)", "diff": "「にもかかわらず」 = dù có sự thật A mà B (ngược kỳ vọng). 「もかまわず」 nhấn vào **thái độ mặc kệ** của chủ thể."}
+      ],
+      "mistakes": [
+        "✗ {服|ふく}が{汚|よご}れるもかまわず → ○ 汚れるのもかまわず (động từ cần の)",
+        "✗ {年齢|ねんれい}もかまわず、{誰|だれ}でも{応募|おうぼ}できます。→ ○ 年齢を問わず (điều kiện khách quan)"
+      ],
+      "tip": "Trước chỗ trống là 人目・周り・〜のも và chủ ngữ là một người làm điều \"không ai làm\" → 「もかまわず」."
+    },
+    {
+      "id": "b29-2",
+      "pattern": "〜を問わず",
+      "reading": "〜をとわず",
+      "meaning": "Không phân biệt, bất kể (A là loại nào)",
+      "structure": ["N ＋ を問わず", "N ＋ は問わない (dạng kết câu)"],
+      "explain": "「{問|と}う」 = hỏi, xét đến (責任を問う = truy cứu trách nhiệm). 「問わず」 = 「問わないで」 → **không xét đến** A là gì (xem 11課).\n\nDanh từ đứng trước là thứ **có nhiều loại / hai mặt đối lập**: 男女, 年齢, 昼夜, 国籍, 経験の有無, 国内外, 季節, 晴雨, プロ・アマ. Nghĩa: **loại nào cũng được, như nhau cả**.\n\nRất hay gặp trong **tuyển dụng, quảng cáo, thông báo**: 「経験は問いません」 = không yêu cầu kinh nghiệm.",
+      "nuance": "Văn viết, khách quan. Thường đi thẳng với danh từ; với động từ đối lập thì 「にかかわらず」 tự nhiên hơn.",
+      "examples": [
+        {"ja": "この{仕事|しごと}は{経験|けいけん}の{有無|うむ}を{問|と}わず、{誰|だれ}でも{応募|おうぼ}できます。", "vi": "Công việc này ai cũng ứng tuyển được, không phân biệt có kinh nghiệm hay không.", "note": "有無 = có hay không"},
+        {"ja": "この{公園|こうえん}は{季節|きせつ}を{問|と}わず、{多|おお}くの{家族連|かぞくづ}れでにぎわう。", "vi": "Công viên này mùa nào cũng đông các gia đình dẫn con đến chơi.", "note": ""},
+        {"ja": "{男女|だんじょ}を{問|と}わず、{育児|いくじ}{休暇|きゅうか}を{取|と}る{社員|しゃいん}が{増|ふ}えている。", "vi": "Không phân biệt nam nữ, số nhân viên nghỉ phép chăm con đang tăng.", "note": ""},
+        {"ja": "この{工場|こうじょう}は{昼夜|ちゅうや}を{問|と}わず{稼働|かどう}している。", "vi": "Nhà máy này hoạt động bất kể ngày đêm.", "note": "昼夜を問わず = cụm cố định"},
+        {"ja": "{当社|とうしゃ}では、{国籍|こくせき}は{問|と}いません。{意欲|いよく}のある{方|かた}を{歓迎|かんげい}します。", "vi": "Công ty chúng tôi không yêu cầu quốc tịch. Hoan nghênh những ai có nhiệt huyết.", "note": "Dạng kết câu 〜は問いません"}
+      ],
+      "compare": [
+        {"with": "〜にかかわらず (trong bài này)", "diff": "Gần như đồng nghĩa. 「にかかわらず」 đi được với **cặp động từ / tính từ đối lập** (行く行かないにかかわらず, 多い少ないにかかわらず); 「を問わず」 chủ yếu đi với **danh từ**."},
+        {"with": "〜もかまわず (trong bài này)", "diff": "Xem mục 「もかまわず」: điều kiện khách quan ↔ thái độ bất chấp của một người."}
+      ],
+      "mistakes": [
+        "✗ {年齢|ねんれい}に{問|と}わず → ○ 年齢を問わず (trợ từ を)",
+        "✗ {彼|かれ}は{人目|ひとめ}を{問|と}わず{泣|な}いた。→ ○ 人目もかまわず"
+      ],
+      "tip": "Văn tuyển dụng / thông báo + danh từ 男女・年齢・経験・国籍・昼夜 → 「を問わず」."
+    },
+    {
+      "id": "b29-3",
+      "pattern": "〜にかかわらず",
+      "reading": "〜にかかわらず",
+      "meaning": "Bất kể, không liên quan đến (A thế nào thì B cũng vậy)",
+      "structure": ["N ＋ にかかわらず", "V辞書形 ＋ Vない形 ＋ にかかわらず", "いA ＋ いA(反対) ＋ にかかわらず (多い少ないにかかわらず)", "疑問詞 ＋ 〜か ＋ にかかわらず (どうなるかにかかわらず, 何を選ぶかにかかわらず)"],
+      "explain": "「かかわる」 = liên quan, dính dáng (命にかかわる = liên quan đến tính mạng). 「かかわらず」 = 「関係なく」 → **không phụ thuộc vào A** (xem 11課).\n\nHai kiểu phía trước:\n- **Danh từ có nhiều trường hợp**: 天候, 年齢, 距離, 重さ, 結果, 経験.\n- **Cặp đối lập**: 参加する・しない → 「参加するしないにかかわらず」, 好き嫌い, 多い少ない, 経験のあるなし.\n\nVế sau: một quy định / sự việc **như nhau trong mọi trường hợp**.",
+      "nuance": "Khách quan, văn thông báo. **Cẩn thận**: thêm 「も」 thành 「にもかかわらず」 là nghĩa khác hẳn (dù… mà vẫn).",
+      "examples": [
+        {"ja": "{参加|さんか}するしないにかかわらず、{必|かなら}ず{返信|へんしん}してください。", "vi": "Dù tham gia hay không, xin hãy nhớ trả lời.", "note": "Cặp đối lập"},
+        {"ja": "{天候|てんこう}にかかわらず、{大会|たいかい}は{予定|よてい}どおり{行|おこな}います。", "vi": "Bất kể thời tiết, giải đấu vẫn diễn ra theo kế hoạch.", "note": "N + にかかわらず"},
+        {"ja": "{料金|りょうきん}は{距離|きょり}にかかわらず、{一律|いちりつ}300{円|えん}です。", "vi": "Giá vé đồng loạt 300 yên, không phụ thuộc quãng đường.", "note": "一律 = đồng loạt"},
+        {"ja": "{経験|けいけん}のあるなしにかかわらず、{全員|ぜんいん}に{研修|けんしゅう}を{受|う}けていただきます。", "vi": "Bất kể có kinh nghiệm hay không, tất cả mọi người đều phải tham gia đào tạo.", "note": "あるなし = có hay không"},
+        {"ja": "{好|す}き{嫌|きら}いにかかわらず、{出|だ}された{料理|りょうり}は{残|のこ}さず{食|た}べるように{言|い}われて{育|そだ}った。", "vi": "Tôi lớn lên với lời dặn: bất kể thích hay ghét, món nào dọn ra cũng phải ăn hết.", "note": ""},
+        {"ja": "{結果|けっか}がどうなるかにかかわらず、{挑戦|ちょうせん}したこと{自体|じたい}に{意味|いみ}がある。", "vi": "Bất kể kết quả ra sao, bản thân việc đã thử sức đã có ý nghĩa rồi.", "note": "疑問詞〜か ＋ にかかわらず"}
+      ],
+      "compare": [
+        {"with": "〜にもかかわらず (trong bài này)", "diff": "「にかかわらず」 = **không liên quan** (mọi trường hợp như nhau). 「にもかかわらず」 = **dù có** A (một sự thật) **mà vẫn** B (ngược kỳ vọng)."},
+        {"with": "〜を問わず (trong bài này)", "diff": "Xem mục 「を問わず」."}
+      ],
+      "mistakes": [
+        "✗ {雨|あめ}が{降|ふ}るにかかわらず、{試合|しあい}を{行|おこな}う。→ ○ 雨が降る降らないにかかわらず／雨天にかかわらず (cần cặp đối lập hoặc danh từ)",
+        "✗ {休日|きゅうじつ}にかかわらず、{来|き}てくださってありがとう。→ ○ 休日にもかかわらず (một sự thật cụ thể)"
+      ],
+      "tip": "Trước chỗ trống là **cặp đối lập** (する・しない／多い少ない／あるなし) → 「にかかわらず」, không có も."
+    },
+    {
+      "id": "b29-4",
+      "pattern": "〜にもかかわらず",
+      "reading": "〜にもかかわらず",
+      "meaning": "Dù (có sự thật) A mà vẫn B (ngược với điều đáng lẽ xảy ra)",
+      "structure": ["V・いA 普通形 ＋ にもかかわらず", "N／なA ＋ (である) ＋ にもかかわらず"],
+      "explain": "「にかかわらず」 + 「も」 = \"**ngay cả khi có** A, cũng không bị A chi phối\" → **dù A mà vẫn B** (xem 14課).\n\nA là một **sự thật đã có** (trời mưa to, đang sốt, đã nhắc nhiều lần, là ngày nghỉ), đáng lẽ dẫn tới kết quả X, nhưng thực tế là B **ngược lại**. Người nói thể hiện **ngạc nhiên, khâm phục, hoặc bất mãn**.\n\n- 「大雨にもかかわらず、会場は見物客でいっぱいだった」 — mưa to (đáng lẽ vắng) mà vẫn đông.\n- 「何度も注意したにもかかわらず、同じミスが繰り返された」 — bất mãn.",
+      "nuance": "Văn viết, trang trọng (bản tin, thư cảm ơn). Vế sau là **sự thật**, không phải ý chí / mệnh lệnh / rủ rê (giống 〜のに).",
+      "examples": [
+        {"ja": "{大雨|おおあめ}にもかかわらず、{花火|はなび}{大会|たいかい}の{会場|かいじょう}は{見物客|けんぶつきゃく}でいっぱいだった。", "vi": "Mặc dù mưa to, khu vực bắn pháo hoa vẫn chật kín người xem.", "note": "N + にもかかわらず"},
+        {"ja": "{彼|かれ}は{熱|ねつ}があるにもかかわらず、{最後|さいご}まで{仕事|しごと}を{続|つづ}けた。", "vi": "Dù đang sốt, anh ấy vẫn làm việc đến cùng.", "note": "Khâm phục"},
+        {"ja": "{何度|なんど}も{注意|ちゅうい}したにもかかわらず、{同|おな}じミスが{繰|く}り{返|かえ}された。", "vi": "Dù đã nhắc nhở nhiều lần, lỗi tương tự vẫn lặp lại.", "note": "Bất mãn"},
+        {"ja": "{休日|きゅうじつ}であるにもかかわらず、{窓口|まどぐち}を{開|あ}けてくださり、ありがとうございました。", "vi": "Xin cảm ơn vì dù là ngày nghỉ, quý vị vẫn mở quầy tiếp nhận cho chúng tôi.", "note": "N + である + にもかかわらず · thư cảm ơn"},
+        {"ja": "{十分|じゅうぶん}な{証拠|しょうこ}があるにもかかわらず、{容疑者|ようぎしゃ}は{罪|つみ}を{認|みと}めようとしない。", "vi": "Dù có đầy đủ bằng chứng, nghi phạm vẫn không chịu nhận tội.", "note": "Văn tin tức"}
+      ],
+      "compare": [
+        {"with": "〜のに", "diff": "Nghĩa gần giống; 「のに」 là văn nói, mang **cảm xúc** tiếc / trách mạnh hơn. 「にもかかわらず」 trang trọng, khách quan."},
+        {"with": "〜にかかわらず (trong bài này)", "diff": "Chỉ khác chữ 「も」 nhưng nghĩa khác: xem mục 「にかかわらず」."}
+      ],
+      "mistakes": [
+        "✗ {雨|あめ}にもかかわらず、{出|で}かけましょう。→ vế sau là rủ rê, không dùng được → ○ 雨でも出かけましょう",
+        "✗ {年齢|ねんれい}にもかかわらず{参加|さんか}できます。→ ○ 年齢にかかわらず (không phân biệt)"
+      ],
+      "tip": "Vế trước là **một sự thật cụ thể** (thường thể た hoặc である) và vế sau là **kết quả bất ngờ** đã xảy ra → 「にもかかわらず」."
+    },
+    {
+      "id": "b29-5",
+      "pattern": "〜ずじまいだ",
+      "reading": "〜ずじまいだ",
+      "meaning": "Rốt cuộc đã không làm được (dù định làm) — tiếc nuối",
+      "structure": ["Vない形 ＋ ずじまいだ／ずじまいで／ずじまいに終わる", "する → せずじまい"],
+      "explain": "Ghép từ 「ず」 (không) + 「しまい」 (= kết thúc: 店じまい = đóng cửa tiệm, おしまい = hết rồi). Nghĩa đen: \"**đến lúc kết thúc mà vẫn không**…\" (xem 20課).\n\nNgười nói đã **định / muốn / có cơ hội** làm gì đó, nhưng thời gian trôi qua, **rốt cuộc không làm được** — và thấy **tiếc**. Hay đi với 結局, とうとう, ついに, 〜のに.\n\nCách chia: 行く → 行か**ず**じまい, 聞ける → 聞け**ず**じまい, する → **せず**じまい.",
+      "nuance": "Chỉ dùng cho việc **đã qua** (thường 〜ずじまいだった). Không dùng cho tương lai hay cho thứ mình chưa từng định làm.",
+      "examples": [
+        {"ja": "{夏休|なつやす}みは{課題|かだい}に{追|お}われて、{一度|いちど}も{海|うみ}に{行|い}かずじまいだった。", "vi": "Kỳ nghỉ hè bị bài tập đuổi theo, rốt cuộc chẳng đi biển được lần nào.", "note": ""},
+        {"ja": "{京都|きょうと}に4{年|ねん}も{住|す}んでいたのに、あの{有名|ゆうめい}なお{寺|てら}には{結局|けっきょく}{行|い}かずじまいだった。", "vi": "Sống ở Kyoto những 4 năm vậy mà rốt cuộc vẫn không đến ngôi chùa nổi tiếng ấy.", "note": "〜のに… 結局 · tiếc"},
+        {"ja": "{買|か}った{本|ほん}を{読|よ}まずじまいで、{本棚|ほんだな}に{並|なら}べたままだ。", "vi": "Sách mua về rồi không đọc, cứ để nguyên trên giá.", "note": "ずじまいで (nối câu)"},
+        {"ja": "{彼女|かのじょ}の{本当|ほんとう}の{気持|きも}ちは、とうとう{聞|き}けずじまいだった。", "vi": "Cuối cùng tôi vẫn không hỏi được tâm tư thật của cô ấy.", "note": "Khả năng 聞ける → 聞けずじまい"},
+        {"ja": "{送別会|そうべつかい}が{急|きゅう}に{中止|ちゅうし}になり、{先輩|せんぱい}にお{礼|れい}も{言|い}わずじまいになってしまった。", "vi": "Tiệc chia tay bị huỷ đột ngột nên rốt cuộc tôi chưa kịp nói lời cảm ơn đàn anh.", "note": "ずじまいになる"}
+      ],
+      "compare": [
+        {"with": "〜ないままだ", "diff": "「ないまま」 trung tính, chỉ nói trạng thái \"vẫn chưa\" (có thể tiếp diễn). 「ずじまい」 = cơ hội **đã khép lại**, kèm tiếc nuối."},
+        {"with": "〜きり (xem 20課)", "diff": "「行ったきり帰らない」 = làm A **rồi từ đó không** B nữa. 「ずじまい」 = **chưa bao giờ** làm được A."}
+      ],
+      "mistakes": [
+        "✗ {何|なに}もしずじまいだった。→ ○ 何もせずじまいだった (する → せず)",
+        "✗ {明日|あした}の{旅行|りょこう}は{行|い}かずじまいだ。→ chỉ dùng cho việc đã qua."
+      ],
+      "tip": "Có 「結局／とうとう」 + việc đã muốn làm + kết quả không làm được (quá khứ) → 「ずじまいだった」."
+    },
+    {
+      "id": "b29-6",
+      "pattern": "〜ずにはいられない",
+      "reading": "〜ずにはいられない",
+      "meaning": "Không thể không…, không kìm được mà phải… (do cảm xúc)",
+      "structure": ["Vない形 ＋ ずにはいられない", "する → せずにはいられない"],
+      "explain": "Phân tích từng mảnh: 「ず」 (không) + 「に」 (ở trạng thái) + 「は」 + 「いられない」 (không thể ở) → \"**không thể ở yên trong trạng thái không làm** A\" → cảm xúc quá mạnh nên **không kìm được mà làm** (xem 25課).\n\n- 「ラストシーンで泣かずにはいられなかった」 — không thể không khóc.\n- 「困っている人を見ると、声をかけずにはいられない」.\n\nĐồng nghĩa 「〜ないではいられない」 (văn nói hơn). Chủ ngữ là **người nói**; nói về người khác thì thêm 〜ようだ／らしい.",
+      "nuance": "Động lực là **cảm xúc / sinh lý bên trong** (buồn cười, thương, tò mò, bực), không phải áp lực bên ngoài.",
+      "examples": [
+        {"ja": "その{映画|えいが}のラストシーンを{見|み}て、{泣|な}かずにはいられなかった。", "vi": "Xem cảnh cuối bộ phim đó, tôi không thể nào không khóc.", "note": ""},
+        {"ja": "{困|こま}っている{人|ひと}を{見|み}ると、{声|こえ}をかけずにはいられない。", "vi": "Thấy ai gặp khó khăn là tôi không thể không hỏi han.", "note": "Tính cách"},
+        {"ja": "{彼|かれ}の{失礼|しつれい}な{態度|たいど}には、ひと{言|こと}{注意|ちゅうい}せずにはいられなかった。", "vi": "Trước thái độ vô lễ của anh ta, tôi không nhịn được mà phải nhắc một câu.", "note": "する → せずにはいられない"},
+        {"ja": "{新|あたら}しいゲームが{出|で}ると、{弟|おとうと}は{買|か}わずにはいられないようだ。", "vi": "Hễ có game mới ra là em trai tôi dường như không thể không mua.", "note": "Người khác → 〜ようだ"},
+        {"ja": "あまりに{面白|おもしろ}い{話|はなし}で、{会議中|かいぎちゅう}なのに{笑|わら}わずにはいられなかった。", "vi": "Câu chuyện buồn cười quá nên dù đang họp tôi cũng không nhịn được cười.", "note": ""}
+      ],
+      "compare": [
+        {"with": "〜ざるを得ない (trong bài này)", "diff": "「ざるを得ない」 = **hoàn cảnh bên ngoài** ép buộc, mình không muốn mà phải làm. 「ずにはいられない」 = **cảm xúc bên trong** thôi thúc."},
+        {"with": "〜てたまらない (xem 25課)", "diff": "「てたまらない」 = cảm giác (嬉しい・眠い) mạnh không chịu nổi. 「ずにはいられない」 = không kìm được **hành động**."}
+      ],
+      "mistakes": [
+        "✗ {注意|ちゅうい}しずにはいられない → ○ 注意せずにはいられない",
+        "✗ {会社|かいしゃ}の{規則|きそく}なので、{残業|ざんぎょう}せずにはいられない。→ ○ 残業せざるを得ない (áp lực bên ngoài)"
+      ],
+      "tip": "Vế trước là kích thích cảm xúc (感動的な・面白い・失礼な・困っている人を見て) → 「ずにはいられない」. Vế trước là lý do khách quan (規則・命令・台風) → 「ざるを得ない」."
+    },
+    {
+      "id": "b29-7",
+      "pattern": "〜ざるを得ない",
+      "reading": "〜ざるをえない",
+      "meaning": "Buộc phải, đành phải (không muốn nhưng không còn cách nào khác)",
+      "structure": ["Vない形 ＋ ざるを得ない", "する → せざるを得ない", "来る → こざるを得ない"],
+      "explain": "「ざる」 là dạng đứng trước danh từ (連体形) của 「ず」 = 「ない」; 「〜を得ない」 = không thể đạt được. → \"**không thể đạt được việc không làm**\" → **buộc phải làm** (xem 25課).\n\nVế trước thường có **lý do khách quan** (台風, 命令, 人手不足, 証拠) khiến người nói **dù không muốn** cũng phải làm.\n\nCòn một cách dùng hay gặp trong bài đọc: **buộc phải nói / thừa nhận** — 「失敗だったと言わざるを得ない」, 「認めざるを得ない」: người nói đưa ra nhận định một cách miễn cưỡng nhưng chắc chắn.",
+      "nuance": "Văn viết, cứng. Mang sắc thái **miễn cưỡng**. Cách chia là bẫy thường gặp: する → **せざる**, không phải しざる.",
+      "examples": [
+        {"ja": "{台風|たいふう}が{近|ちか}づいているので、{旅行|りょこう}は{中止|ちゅうし}せざるを{得|え}ない。", "vi": "Vì bão đang đến gần nên đành phải huỷ chuyến du lịch.", "note": "する → せざる"},
+        {"ja": "{上司|じょうし}の{命令|めいれい}なら、{気|き}が{進|すす}まなくても{行|い}かざるを{得|え}ない。", "vi": "Nếu là lệnh của cấp trên thì dù không muốn cũng phải đi.", "note": "気が進まない = không hứng thú"},
+        {"ja": "これだけ{証拠|しょうこ}がそろっていては、{彼|かれ}も{罪|つみ}を{認|みと}めざるを{得|え}ないだろう。", "vi": "Bằng chứng đầy đủ thế này thì anh ta cũng buộc phải nhận tội thôi.", "note": "認めざるを得ない"},
+        {"ja": "{残念|ざんねん}ながら、{今回|こんかい}の{計画|けいかく}は{失敗|しっぱい}だったと{言|い}わざるを{得|え}ない。", "vi": "Thật đáng tiếc, nhưng phải nói rằng kế hoạch lần này đã thất bại.", "note": "Nhận định miễn cưỡng"},
+        {"ja": "{人手|ひとで}が{足|た}りず、{休日|きゅうじつ}も{出勤|しゅっきん}せざるを{得|え}なかった。", "vi": "Do thiếu người nên ngay cả ngày nghỉ tôi cũng phải đi làm.", "note": "Quá khứ: ざるを得なかった"}
+      ],
+      "compare": [
+        {"with": "〜ずにはいられない (trong bài này)", "diff": "Xem mục 「ずにはいられない」: cảm xúc bên trong ↔ hoàn cảnh bên ngoài."},
+        {"with": "〜ないわけにはいかない (xem 25課)・〜しかない (xem 23課)", "diff": "「ないわけにはいかない」 = vì **lẽ thường, nghĩa vụ xã hội** mà không thể không làm. 「しかない」 = văn nói, \"chỉ còn cách\". 「ざるを得ない」 cứng nhất, nhấn vào **sự bất đắc dĩ**."}
+      ],
+      "mistakes": [
+        "✗ {中止|ちゅうし}しざるを{得|え}ない → ○ 中止せざるを得ない",
+        "✗ {行|い}かないざるを{得|え}ない → ○ 行かざるを得ない (ざる thay cho ない)"
+      ],
+      "tip": "Kiểm tra cách chia trước: 「〜ざる」 phải gắn với **ない形 bỏ ない** (行か・食べ・せ・こ). Phương án 「しざる」「来ざる(きざる)」 luôn sai."
+    },
+    {
+      "id": "b29-8",
+      "pattern": "〜べきだ・〜べきではない",
+      "reading": "〜べきだ・〜べきではない",
+      "meaning": "Nên (đó là điều đúng đắn) / Không nên",
+      "structure": ["V辞書形 ＋ べきだ／べきではない", "する → するべき／すべき", "V辞書形 ＋ べき ＋ N", "〜べきだった (lẽ ra nên)"],
+      "explain": "Gốc là trợ động từ cổ 「べし」 (phải, lẽ đương nhiên); 「べき」 là dạng đứng trước danh từ của nó (xem 23課).\n\n「〜べきだ」 = người nói cho rằng đó là **điều đúng đắn, hợp lẽ phải / đạo lý** — một **ý kiến mạnh**: 「約束は守るべきだ」.\n「〜べきではない」 = **không nên** (về mặt đạo lý).\n\n- Đứng trước danh từ: 「やるべきこと」 (việc cần làm), 「守るべきルール」.\n- 「〜べきだった」 = **lẽ ra nên** (hối tiếc): 「もっと早く相談すべきだった」.",
+      "nuance": "Là **phán đoán chủ quan** của người nói về đúng/sai. Với **luật lệ, quy định** dùng 「なければならない／てはいけない」; với lời khuyên nhẹ dùng 「たほうがいい」. Nói thẳng với người trên dễ bị coi là áp đặt.",
+      "examples": [
+        {"ja": "{一度|いちど}した{約束|やくそく}は、{必|かなら}ず{守|まも}るべきだ。", "vi": "Lời hứa đã hứa thì nhất định nên giữ.", "note": ""},
+        {"ja": "{他人|たにん}のプライバシーにむやみに{立|た}ち{入|い}るべきではない。", "vi": "Không nên tuỳ tiện xâm phạm đời tư người khác.", "note": "Phủ định: べきではない"},
+        {"ja": "{若|わか}いうちに、いろいろな{経験|けいけん}をすべきだと{思|おも}う。", "vi": "Tôi nghĩ khi còn trẻ nên trải nghiệm nhiều thứ.", "note": "する → すべき"},
+        {"ja": "{会議|かいぎ}の{前|まえ}に{確認|かくにん}すべきことを、リストにまとめておいた。", "vi": "Tôi đã lập sẵn danh sách những việc cần xác nhận trước cuộc họp.", "note": "べき + N"},
+        {"ja": "あの{時|とき}、{正直|しょうじき}に{話|はな}すべきだった。", "vi": "Lúc đó lẽ ra tôi nên nói thật.", "note": "べきだった = hối tiếc"}
+      ],
+      "compare": [
+        {"with": "〜なければならない", "diff": "「なければならない」 = nghĩa vụ, quy định, điều kiện bắt buộc (khách quan). 「べきだ」 = đúng về **đạo lý** theo ý người nói."},
+        {"with": "〜ものだ (xem 23課)", "diff": "「ものだ」 = **lẽ thường, bản chất** (人の話は最後まで聞くものだ — giọng dạy bảo nhẹ). 「べきだ」 = **ý kiến** mạnh, trực tiếp."}
+      ],
+      "mistakes": [
+        "✗ そんなことは{言|い}わないべきだ。→ ○ 言うべきではない",
+        "✗ この{道路|どうろ}は{時速|じそく}40キロ{以下|いか}で{走|はし}るべきだ (quy định luật) → ○ 走らなければならない"
+      ],
+      "tip": "Phương án 「〜ないべき」 luôn sai. Thấy 「する」 trước chỗ trống thì 「すべき」 và 「するべき」 đều đúng."
+    },
+    {
+      "id": "b29-9",
+      "pattern": "〜まい・〜ではあるまいか",
+      "reading": "〜まい・〜ではあるまいか",
+      "meaning": "Chắc là không… (= ないだろう) / Chẳng phải là… sao (= ではないだろうか)",
+      "structure": ["V辞書形 ＋ まい (nhóm II: Vない形 ＋ まい cũng được)", "する → するまい／すまい, 来る → くるまい／こまい", "N・なA ＋ ではあるまい", "普通形 ＋ のではあるまいか"],
+      "explain": "「まい」 là **phủ định của 〜う／よう**. Vì 〜う／よう có hai nghĩa (suy đoán và ý chí), 「まい」 cũng có hai nghĩa. Mục này là **phủ định của suy đoán** = 「〜ないだろう」 (xem 22課):\n\n- 「この雨では、明日の試合は行われまい」 = chắc trận đấu ngày mai không diễn ra.\n- 「〜ことはあるまい」 = chắc không đến mức….\n\n「〜のではあるまいか」 = 「〜のではないだろうか」 — nghe như phủ định nhưng thực ra người nói **đoán là CÓ** (\"chẳng phải là… sao / e rằng…\"). Hay gặp trong bài luận, xã luận.\n\nQuán ngữ: 「子どもではあるまいし」 = có phải trẻ con đâu (mà…).",
+      "nuance": "Văn viết, hơi cổ. Trong hội thoại thường ngày dùng 「ないだろう」「のではないか」.",
+      "examples": [
+        {"ja": "この{雨|あめ}では、{明日|あした}の{試合|しあい}は{行|おこな}われまい。", "vi": "Mưa thế này thì chắc trận đấu ngày mai không diễn ra đâu.", "note": "= 行われないだろう"},
+        {"ja": "{彼|かれ}ほどの{実力|じつりょく}があれば、{試験|しけん}に{落|お}ちることはあるまい。", "vi": "Có thực lực như anh ấy thì chắc không đến nỗi trượt.", "note": "〜ことはあるまい"},
+        {"ja": "{子|こ}どもではあるまいし、{自分|じぶん}のことは{自分|じぶん}でしなさい。", "vi": "Có phải trẻ con đâu, việc của mình thì tự làm đi.", "note": "Quán ngữ 〜ではあるまいし"},
+        {"ja": "{値上|ねあ}げがこれ{以上|いじょう}{続|つづ}けば、{客離|きゃくばな}れが{進|すす}むのではあるまいか。", "vi": "Nếu việc tăng giá cứ tiếp diễn hơn nữa, e rằng khách hàng sẽ ngày càng bỏ đi.", "note": "Đoán là CÓ (khách sẽ bỏ đi)"},
+        {"ja": "{彼|かれ}が{急|きゅう}に{会社|かいしゃ}を{辞|や}めたのは、{何|なに}か{別|べつ}の{理由|りゆう}があったからではあるまいか。", "vi": "Việc anh ấy đột ngột nghỉ việc, chẳng phải là vì có lý do nào khác sao?", "note": "Suy đoán trong văn viết"}
+      ],
+      "compare": [
+        {"with": "〜まい (ý chí) (trong bài này)", "diff": "Chủ ngữ là **người nói + động từ ý chí** (二度と行くまい) → \"quyết không\". Chủ ngữ là **người khác / sự vật** (試合は行われまい) → \"chắc không\"."},
+        {"with": "〜に違いない (xem 22課)", "diff": "「に違いない」 = khẳng định chắc chắn. 「のではあるまいか」 = đoán là có nhưng **nói mềm**, dè dặt."}
+      ],
+      "mistakes": [
+        "Hiểu sai: 「失敗するのではあるまいか」 ✗ = chắc sẽ không thất bại → ○ = e là sẽ thất bại mất.",
+        "✗ {彼|かれ}は{来|こ}ないまい。→ ○ 彼は来るまい／来まい (まい đã mang nghĩa phủ định)"
+      ],
+      "tip": "Đọc 「まい」 = 「ないだろう」 và 「ではあるまいか」 = 「ではないだろうか」 rồi dịch lại câu — đáp án sẽ rõ ngay."
+    },
+    {
+      "id": "b29-10",
+      "pattern": "〜まい (意志)",
+      "reading": "〜まい",
+      "meaning": "Quyết không…, nhất định không… (= ないようにしよう)",
+      "structure": ["V辞書形 ＋ まい (nhóm II: Vない形 ＋ まい cũng được)", "〜まいと思う／〜まいと決める／〜まいとする", "Vよう か V辞書形 まいか (phân vân)"],
+      "explain": "Đây là nghĩa thứ hai của 「まい」: **phủ định của ý chí 〜よう** = 「〜ないようにしよう」 (xem 24課).\n\n- 「もう二度と行くまい」 = nhất định không bao giờ đi nữa.\n- 「〜まいと思う／決める」 = quyết tâm không….\n- 「〜まいとする」 = **cố gắng để không**…: 「泣くまいと唇をかんだ」 = cắn môi cố không khóc.\n- 「〜ようか〜まいか」 = phân vân làm hay không: 「行こうか行くまいか迷う」.\n\nHay đi với 「二度と」「もう」「決して」.",
+      "nuance": "Văn viết, giọng **quyết tâm mạnh**. Chủ ngữ là người nói (hoặc nhân vật được kể với 〜まいと…). Cách chia giống 「まい」 suy đoán: 五段 dùng thể từ điển (繰り返すまい).",
+      "examples": [
+        {"ja": "{試験|しけん}の{前|まえ}の{晩|ばん}の{徹夜|てつや}は、もう{二度|にど}とするまい。", "vi": "Thức trắng đêm trước hôm thi — tôi quyết không bao giờ làm thế lần nữa.", "note": "二度と〜まい"},
+        {"ja": "{彼女|かのじょ}は{人前|ひとまえ}では{泣|な}くまいと、{唇|くちびる}をかみしめた。", "vi": "Cô ấy cắn chặt môi, cố không khóc trước mặt mọi người.", "note": "〜まいと = cố không"},
+        {"ja": "{父|ちち}に{心配|しんぱい}をかけまいと、{病気|びょうき}のことはずっと{黙|だま}っていた。", "vi": "Để không làm bố lo, tôi giấu chuyện bệnh suốt.", "note": "Nhóm II: かけまい"},
+        {"ja": "{同|おな}じ{失敗|しっぱい}は{繰|く}り{返|かえ}すまいと{決|き}め、{毎日|まいにち}{記録|きろく}をつけている。", "vi": "Quyết không lặp lại thất bại cũ, ngày nào tôi cũng ghi chép lại.", "note": "〜まいと決める"},
+        {"ja": "パーティーに{行|い}こうか{行|い}くまいか、まだ{迷|まよ}っている。", "vi": "Tôi vẫn đang phân vân có nên đi dự tiệc hay không.", "note": "〜ようか〜まいか"}
+      ],
+      "compare": [
+        {"with": "〜まい (suy đoán) (trong bài này)", "diff": "Xem mục trên: phân biệt bằng **chủ ngữ và loại động từ**."},
+        {"with": "〜ないつもりだ／〜ないようにする", "diff": "Nghĩa giống, nhưng là văn thường. 「まい」 cứng, quyết liệt hơn."}
+      ],
+      "mistakes": [
+        "✗ もう{二度|にど}と{行|い}かないまい。→ ○ 行くまい",
+        "✗ {繰|く}り{返|かえ}さまい → ○ 繰り返すまい (nhóm I dùng thể từ điển)"
+      ],
+      "tip": "Có 「二度と／もう」 + chỗ trống + 「と思う／と決めた」 → 「〜まい」. Chú ý chọn đúng dạng chia (行くまい, しまい／すまい, こまい)."
+    },
+    {
+      "id": "b29-11",
+      "pattern": "〜つつ",
+      "reading": "〜つつ",
+      "meaning": "Vừa… vừa… (= ながら, văn viết)",
+      "structure": ["Vます形 ＋ つつ"],
+      "explain": "「つつ」 là trợ từ cổ, ngày nay = 「〜ながら」 nhưng **trang trọng, văn chương hơn** (xem 2課). Hai hành động **cùng một chủ ngữ** diễn ra song song.\n\nHay đi với động từ **suy nghĩ, cảm nhận, cân nhắc**: 考えつつ, 思いつつ, 楽しみつつ, 眺めつつ, 意見を聞きつつ, 〜を大切にしつつ.\n\nTrong bài phát biểu / văn bản: 「皆様のご意見を伺いつつ、進めてまいります」 = Chúng tôi sẽ vừa lắng nghe ý kiến của quý vị vừa tiến hành.",
+      "nuance": "Văn viết, phát biểu. Hiếm dùng cho hành động thường ngày kiểu \"vừa ăn vừa xem TV\" (nghe quá trang trọng).",
+      "examples": [
+        {"ja": "{両親|りょうしん}と{相談|そうだん}しつつ、{大学|だいがく}の{専攻|せんこう}を{決|き}めた。", "vi": "Tôi vừa bàn bạc với bố mẹ vừa chọn chuyên ngành đại học.", "note": ""},
+        {"ja": "{美|うつく}しい{景色|けしき}を{眺|なが}めつつ、{山道|やまみち}をゆっくり{歩|ある}いた。", "vi": "Vừa ngắm cảnh đẹp, tôi vừa thong thả đi trên đường núi.", "note": "Văn kể chuyện"},
+        {"ja": "{社員|しゃいん}の{意見|いけん}を{聞|き}きつつ、{新|あたら}しい{制度|せいど}を{作|つく}っていきたい。", "vi": "Tôi muốn vừa lắng nghe ý kiến nhân viên vừa xây dựng chế độ mới.", "note": "Phát biểu"},
+        {"ja": "{家族|かぞく}との{時間|じかん}を{大切|たいせつ}にしつつ、{仕事|しごと}でも{結果|けっか}を{出|だ}したい。", "vi": "Tôi muốn vừa trân trọng thời gian bên gia đình vừa đạt kết quả trong công việc.", "note": "する → しつつ"}
+      ],
+      "compare": [
+        {"with": "〜ながら", "diff": "Nghĩa như nhau; 「ながら」 dùng mọi nơi, 「つつ」 chỉ hợp văn viết / phát biểu."},
+        {"with": "〜つつ(も) (trong bài này)", "diff": "Nếu hai vế **mâu thuẫn** (biết là xấu mà vẫn làm) → nghĩa \"tuy… nhưng\"."}
+      ],
+      "mistakes": [
+        "✗ {考|かんが}えるつつ → ○ 考えつつ (Vます形)",
+        "✗ {母|はは}が{料理|りょうり}をしつつ、{私|わたし}はテレビを{見|み}た。→ hai chủ ngữ khác nhau → ○ 母が料理をしている間、…"
+      ],
+      "tip": "「つつ」 luôn gắn với **ます形 bỏ ます**. Phương án 「〜るつつ」「〜てつつ」 luôn sai."
+    },
+    {
+      "id": "b29-12",
+      "pattern": "〜つつある",
+      "reading": "〜つつある",
+      "meaning": "Đang dần dần… (một biến đổi đang tiến triển)",
+      "structure": ["Vます形 ＋ つつある"],
+      "explain": "「つつ」 (đang diễn ra) + 「ある」 (tồn tại) → một **sự thay đổi đang trên đường tiến triển**, chưa hoàn tất (xem 2課). Hình ảnh: một mũi tên đang trượt dần về một hướng.\n\nĐộng từ phải là **động từ biến đổi**: 増える, 減る, 変わる, 回復する, 広がる, 進む, 失われる, 〜になる, 治る, 消える (dần).\n\n- 「景気は回復しつつある」 = kinh tế đang dần phục hồi.\n- 「伝統文化が失われつつある」 = văn hoá truyền thống đang dần mai một.",
+      "nuance": "Văn viết, tin tức, báo cáo. Không dùng cho hành động thường (✗ 手紙を書きつつある — đó là 書いている), thói quen, hay thay đổi **tức thời** (✗ 電気がぱっと消えつつある).",
+      "examples": [
+        {"ja": "{景気|けいき}は{少|すこ}しずつ{回復|かいふく}しつつある。", "vi": "Kinh tế đang dần dần phục hồi.", "note": "Tin tức"},
+        {"ja": "{地方|ちほう}の{伝統|でんとう}{文化|ぶんか}が{失|うしな}われつつある。", "vi": "Văn hoá truyền thống ở các địa phương đang dần bị mai một.", "note": "Bị động + つつある"},
+        {"ja": "{日|ひ}に{日|ひ}に{暖|あたた}かくなりつつあり、{桜|さくら}のつぼみも{膨|ふく}らんできた。", "vi": "Trời mỗi ngày một ấm dần, nụ hoa anh đào cũng đã căng lên.", "note": "〜になりつつある"},
+        {"ja": "{紙|かみ}の{本|ほん}より{電子|でんし}{書籍|しょせき}を{選|えら}ぶ{人|ひと}が{増|ふ}えつつある。", "vi": "Số người chọn sách điện tử thay vì sách giấy đang tăng dần.", "note": ""},
+        {"ja": "{手術|しゅじゅつ}の{後|あと}、{祖父|そふ}の{体力|たいりょく}は{順調|じゅんちょう}に{戻|もど}りつつあるそうだ。", "vi": "Nghe nói sau ca mổ, thể lực của ông tôi đang hồi phục dần thuận lợi.", "note": ""}
+      ],
+      "compare": [
+        {"with": "〜ている", "diff": "「ている」 = đang làm (hành động) hoặc trạng thái kết quả. 「つつある」 chỉ dùng cho **quá trình biến đổi đang diễn ra**."},
+        {"with": "〜一方だ (xem 2課)", "diff": "「一方だ」 = cứ thế **ngày càng** (một chiều, thường là xấu). 「つつある」 trung tính, chỉ mô tả quá trình."}
+      ],
+      "mistakes": [
+        "✗ {今|いま}、{友達|ともだち}に{手紙|てがみ}を{書|か}きつつある。→ ○ 書いている",
+        "✗ {増|ふ}えるつつある → ○ 増えつつある"
+      ],
+      "tip": "Động từ trước chỗ trống là **động từ biến đổi** + có 「少しずつ・徐々に・次第に・年々」 → 「つつある」."
+    },
+    {
+      "id": "b29-13",
+      "pattern": "〜つつ(も)",
+      "reading": "〜つつ(も)",
+      "meaning": "Tuy (biết / nghĩ) A, nhưng vẫn B (= けれども・ながらも)",
+      "structure": ["Vます形 ＋ つつ(も)"],
+      "explain": "Cùng chữ 「つつ」, nhưng khi hai vế **mâu thuẫn** nhau thì nghĩa chuyển thành **\"tuy… nhưng\"** (xem 14課). Thêm 「も」 để nhấn mạnh sự trái ngược.\n\nĐộng từ trước thường là **nhận thức / lời nói**: 知る, 思う, 分かる, 言う, 気にする, 感じる:\n- 「体に悪いと知りつつ、つい飲んでしまう」 — biết là có hại mà vẫn uống.\n- 「早く返事をしなければと思いつつも、…」.\n\nVế sau hay có 「〜てしまう」, giọng **tự thú, hối hận**.",
+      "nuance": "Văn viết. **Cùng chủ ngữ** ở hai vế. Không dùng cho sự vật / thiên nhiên làm chủ ngữ (✗ 雨が降りつつも…).",
+      "examples": [
+        {"ja": "{体|からだ}に{悪|わる}いと{知|し}りつつ、{毎晩|まいばん}お{酒|さけ}を{飲|の}んでしまう。", "vi": "Biết là có hại cho sức khoẻ mà tối nào tôi cũng uống rượu.", "note": "知りつつ = biết mà vẫn"},
+        {"ja": "{早|はや}く{返事|へんじ}をしなければと{思|おも}いつつも、{忙|いそが}しくて{一週間|いっしゅうかん}も{経|た}ってしまった。", "vi": "Tuy nghĩ phải trả lời sớm nhưng vì bận mà đã trôi qua những một tuần.", "note": "思いつつも + てしまった"},
+        {"ja": "{危険|きけん}だと{分|わ}かりつつも、{彼|かれ}は{一人|ひとり}で{冬山|ふゆやま}に{登|のぼ}った。", "vi": "Dù biết là nguy hiểm, anh ấy vẫn một mình leo núi mùa đông.", "note": ""},
+        {"ja": "{弟|おとうと}は「もう{食|た}べられない」と{言|い}いつつ、デザートまで{全部|ぜんぶ}{食|た}べた。", "vi": "Em tôi miệng nói \"no rồi, không ăn nổi nữa\" mà ăn sạch cả món tráng miệng.", "note": "言いつつ = miệng nói vậy mà"},
+        {"ja": "{部長|ぶちょう}の{方針|ほうしん}に{疑問|ぎもん}を{感|かん}じつつも、{会議|かいぎ}では{何|なに}も{言|い}えなかった。", "vi": "Tuy thấy nghi ngờ phương châm của trưởng phòng, nhưng trong cuộc họp tôi chẳng nói được gì.", "note": ""}
+      ],
+      "compare": [
+        {"with": "〜つつ (=ながら) (trong bài này)", "diff": "Hai vế **song song, không mâu thuẫn** → \"vừa… vừa\". Hai vế **trái nhau** → \"tuy… nhưng\" (thường có も)."},
+        {"with": "〜ながら(も) (xem 14課)", "diff": "Nghĩa giống; 「ながらも」 còn đi được với tính từ / danh từ (狭いながらも, 子どもながらも), 「つつも」 chỉ đi với động từ."}
+      ],
+      "mistakes": [
+        "✗ {悪|わる}いと{知|し}るつつも → ○ 知りつつも",
+        "✗ {雨|あめ}が{降|ふ}りつつも、{試合|しあい}は{続|つづ}いた。→ ○ 雨が降っているにもかかわらず (chủ ngữ là thiên nhiên, hai chủ ngữ khác nhau)"
+      ],
+      "tip": "Trước chỗ trống là 「〜と知り／〜と思い／〜と分かり」, sau là hành động trái ngược (〜てしまう) → 「つつ(も)」."
+    },
+    {
+      "id": "b29-14",
+      "pattern": "〜にせよ",
+      "reading": "〜にせよ",
+      "meaning": "Dù là A đi nữa / dù A hay B (= にしろ・にしても, văn viết)",
+      "structure": ["普通形 ＋ にせよ (N・なA thường bỏ だ; có thể dùng である: 何であるにせよ)", "AにせよBにせよ", "いずれにせよ (dù sao đi nữa)"],
+      "explain": "「せよ」 là **mệnh lệnh cổ của する** (= しろ). Vì vậy 「にせよ」 = 「にしろ」 = 「にしても」 (xem 15課 và b28) — chỉ là **phiên bản trang trọng nhất**.\n\n- 「冗談だったにせよ、人前で言うべきではなかった」 = dù chỉ là đùa đi nữa, cũng không nên nói trước mặt mọi người.\n- 「賛成にせよ反対にせよ」 = dù tán thành hay phản đối.\n- 「**いずれにせよ**」 = dù thế nào đi nữa — cụm cực hay gặp trong văn bản, email công việc.\n\nCùng gốc 「せよ」 bạn còn thấy trong đề thi, biển báo: 「次の問いに答えよ」 (Hãy trả lời câu hỏi sau).",
+      "nuance": "Văn viết, trang trọng: にしても < にしろ < にせよ. Vế sau thường là ý kiến, phán đoán, yêu cầu (べきだ, なければならない, ください).",
+      "examples": [
+        {"ja": "{冗談|じょうだん}だったにせよ、{人前|ひとまえ}で{言|い}うべきことではなかった。", "vi": "Dù chỉ là đùa đi nữa, đó cũng không phải chuyện nên nói trước mặt mọi người.", "note": "= 冗談だったにしても"},
+        {"ja": "{理由|りゆう}が{何|なん}であるにせよ、{暴力|ぼうりょく}は{決|けっ}して{許|ゆる}されない。", "vi": "Dù lý do là gì đi nữa, bạo lực tuyệt đối không được chấp nhận.", "note": "Từ để hỏi + であるにせよ"},
+        {"ja": "{賛成|さんせい}にせよ{反対|はんたい}にせよ、{自分|じぶん}の{意見|いけん}をはっきり{述|の}べてください。", "vi": "Dù tán thành hay phản đối, hãy trình bày rõ ý kiến của mình.", "note": "AにせよBにせよ"},
+        {"ja": "いずれにせよ、{明日|あした}までに{結論|けつろん}を{出|だ}さなければならない。", "vi": "Dù thế nào đi nữa, đến mai cũng phải đưa ra kết luận.", "note": "いずれにせよ"},
+        {"ja": "たとえ{小|ちい}さなミスにせよ、{放|ほう}っておけば{大|おお}きな{事故|じこ}につながりかねない。", "vi": "Dù chỉ là lỗi nhỏ, nếu bỏ mặc thì có thể dẫn đến tai nạn lớn.", "note": "たとえ〜にせよ"}
+      ],
+      "compare": [
+        {"with": "〜にしても・〜にしろ (xem b28, 15課)", "diff": "Cùng nghĩa, khác độ trang trọng."},
+        {"with": "〜にしては (xem b28)", "diff": "「にしては」 = so với A thì bất ngờ. Đừng nhầm vì cùng mở đầu bằng 「にし／にせ」."}
+      ],
+      "mistakes": [
+        "✗ {雨|あめ}だにせよ → ○ 雨にせよ (N đi thẳng)",
+        "✗ {学生|がくせい}にせよ、よく{勉強|べんきょう}しているね (ý: so với học sinh) → ○ 学生にしては"
+      ],
+      "tip": "Câu có 「たとえ／何・誰・どんな」 hoặc cặp 「AにせよBにせよ」, hay đầu câu 「いずれに（　）」 → 「せよ」."
+    }
+  ],
+  "summary": [
+    {"pattern": "〜もかまわず", "meaning": "chẳng màng, bất chấp", "key": "かまわず = かまわないで; 人目もかまわず; V + のも"},
+    {"pattern": "〜を問わず", "meaning": "không phân biệt", "key": "問わず = 問わないで; 男女・年齢・昼夜"},
+    {"pattern": "〜にかかわらず", "meaning": "bất kể", "key": "cặp đối lập: するしない・多い少ない"},
+    {"pattern": "〜にもかかわらず", "meaning": "dù A mà vẫn B", "key": "sự thật + kết quả bất ngờ; không ý chí"},
+    {"pattern": "〜ずじまいだ", "meaning": "rốt cuộc không làm được", "key": "quá khứ, tiếc; する → せずじまい"},
+    {"pattern": "〜ずにはいられない", "meaning": "không kìm được mà phải", "key": "cảm xúc bên trong; せずにはいられない"},
+    {"pattern": "〜ざるを得ない", "meaning": "buộc phải, đành phải", "key": "ざる = ない; hoàn cảnh ép; せざるを得ない"},
+    {"pattern": "〜べきだ・〜べきではない", "meaning": "nên / không nên", "key": "べし; すべき; không có 〜ないべき"},
+    {"pattern": "〜まい・〜ではあるまいか", "meaning": "chắc không / chẳng phải là… sao", "key": "= ないだろう / ではないだろうか (đoán là CÓ)"},
+    {"pattern": "〜まい (意志)", "meaning": "quyết không", "key": "二度と〜まい; 〜まいと; 〜ようか〜まいか"},
+    {"pattern": "〜つつ", "meaning": "vừa… vừa (văn viết)", "key": "Vます + つつ = ながら; cùng chủ ngữ"},
+    {"pattern": "〜つつある", "meaning": "đang dần dần", "key": "động từ biến đổi; ≠ ている"},
+    {"pattern": "〜つつ(も)", "meaning": "tuy… nhưng", "key": "知りつつ・思いつつも + てしまう"},
+    {"pattern": "〜にせよ", "meaning": "dù là A", "key": "せよ = しろ; いずれにせよ; AにせよBにせよ"}
+  ],
+  "quiz": [
+    {"id": "b29-q1", "kind": "form", "ref": "b29-2", "q": "このマラソン{大会|たいかい}は、{年齢|ねんれい}や{性別|せいべつ}（　　）、どなたでも{参加|さんか}できます。", "options": ["もかまわず", "にもかかわらず", "を問わず", "ずじまいで"], "answer": 2, "vi": "Giải marathon này ai cũng có thể tham gia, không phân biệt tuổi tác hay giới tính.", "why": "Thông báo, danh từ có nhiều loại (年齢・性別), nghĩa \"không phân biệt\" → **を問わず**. 「もかまわず」 = một người bất chấp điều đáng để ý; 「にもかかわらず」 cần một sự thật cụ thể + kết quả bất ngờ; 「ずじまいで」 phải nối với Vない形."},
+    {"id": "b29-q2", "kind": "form", "ref": "b29-4", "q": "{平日|へいじつ}の{朝|あさ}である（　　）、{会場|かいじょう}の{前|まえ}には{長|なが}い{列|れつ}ができていた。", "options": ["にもかかわらず", "を問わず", "にかかわらず", "つつある"], "answer": 0, "vi": "Dù là sáng ngày thường, trước hội trường đã có một hàng dài người xếp hàng.", "why": "Một sự thật cụ thể (sáng ngày thường — đáng lẽ vắng) + kết quả bất ngờ → **にもかかわらず**. 「にかかわらず」 = bất kể (cần N nhiều trường hợp / cặp đối lập), không hợp với 「である」; 「を問わず」 cần danh từ trực tiếp; 「つつある」 cần Vます."},
+    {"id": "b29-q3", "kind": "form", "ref": "b29-5", "q": "{旅行中|りょこうちゅう}はずっと{天気|てんき}が{悪|わる}く、{楽|たの}しみにしていた{富士山|ふじさん}は{結局|けっきょく}{見|み}られ（　　）だった。", "options": ["まい", "ざるを得ない", "つつ", "ずじまい"], "answer": 3, "vi": "Suốt chuyến đi trời xấu, rốt cuộc tôi không được ngắm núi Phú Sĩ mà mình hằng mong.", "why": "「結局」 + việc mong muốn không thực hiện được + quá khứ, tiếc nuối → **ずじまい**(だった). 「まいだった」「ざるを得ないだった」 sai cấu trúc; 「つつだった」 không tồn tại."},
+    {"id": "b29-q4", "kind": "form", "ref": "b29-7", "q": "{部品|ぶひん}が{届|とど}かない{以上|いじょう}、{工場|こうじょう}の{生産|せいさん}を{一時|いちじ}{停止|ていし}（　　）。", "options": ["しざるを得ない", "せざるを得ない", "さざるを得ない", "しないざるを得ない"], "answer": 1, "vi": "Một khi linh kiện không về, nhà máy buộc phải tạm dừng sản xuất.", "why": "Lý do khách quan (linh kiện không về) → buộc phải → ざるを得ない. Với 「する」, dạng cổ là **せざる** → 「停止せざるを得ない」. 「しざる」「さざる」 là chia sai; 「しないざる」 thừa ない vì ざる đã là phủ định."},
+    {"id": "b29-q5", "kind": "form", "ref": "b29-12", "q": "{地球|ちきゅう}の{平均|へいきん}{気温|きおん}は、{年々|ねんねん}{上昇|じょうしょう}し（　　）。", "options": ["つつも", "ずにはいられない", "つつある", "まい"], "answer": 2, "vi": "Nhiệt độ trung bình của Trái Đất đang tăng dần qua từng năm.", "why": "Động từ biến đổi 「上昇する」 + 「年々」 → quá trình đang tiến triển → **つつある**. 「つつも」 cần vế sau trái ngược; 「ずにはいられない」 cần Vない形 (上昇せず) và là cảm xúc; 「上昇しまい」 sai cách chia và sai nghĩa."},
+    {"id": "b29-q6", "kind": "form", "ref": "b29-10", "q": "あんなに{失礼|しつれい}な{店|みせ}には、もう{二度|にど}と{行|い}く（　　）と{心|こころ}に{決|き}めた。", "options": ["べきだ", "ずじまい", "ざるを得ない", "まい"], "answer": 3, "vi": "Tôi tự nhủ sẽ không bao giờ đến cái quán vô lễ đến thế nữa.", "why": "「二度と」 (luôn đi với phủ định) + quyết tâm của người nói (と心に決めた) → **まい** (= 行かないようにしよう). 「べきだ」 là khẳng định, mâu thuẫn với 二度と; 「ずじまい」「ざるを得ない」 cần Vない形 (行か), không nối với 「行く」."},
+    {"id": "b29-q7", "kind": "order", "ref": "b29-6", "q": "{彼|かれ}の{話|はなし}が ＿＿＿ ＿＿＿ ★ ＿＿＿ 。", "options": ["笑わずには", "面白くて", "いられなかった", "あまりに"], "order": [3, 1, 0, 2], "answer": 0, "vi": "Câu chuyện của anh ấy buồn cười quá nên tôi không nhịn được cười.", "why": "彼の話が **あまりに 面白くて 笑わずには いられなかった** → ★ (ô thứ 3) = 「笑わずには」. 「あまりに」 bổ nghĩa cho 「面白くて」 (lý do); khối 「笑わずにはいられなかった」 đứng cuối."}
+  ],
+  "practice": [
+    {"id": "b29-p1", "kind": "form", "ref": "b29-1", "q": "{彼|かれ}は{服|ふく}がぬれるの（　　）、{川|かわ}に{落|お}ちた{子犬|こいぬ}を{助|たす}けに{飛|と}び{込|こ}んだ。", "options": ["を問わず", "もかまわず", "にかかわらず", "をめぐって"], "answer": 1, "vi": "Anh ấy chẳng màng quần áo bị ướt, lao xuống cứu chú cún bị rơi xuống sông.", "why": "Một người **mặc kệ** điều đáng để ý (bị ướt) để hành động → **もかまわず** (V + のもかまわず). 「を問わず」「にかかわらず」 = không phân biệt (điều kiện khách quan), không mô tả thái độ của một người; 「をめぐって」 = xoay quanh tranh cãi."},
+    {"id": "b29-p2", "kind": "form", "ref": "b29-3", "q": "{当店|とうてん}の{配送|はいそう}{料金|りょうきん}は、{荷物|にもつ}の{大|おお}きさ（　　）、{全国|ぜんこく}{一律|いちりつ}500{円|えん}です。", "options": ["に応じて", "もかまわず", "つつも", "にかかわらず"], "answer": 3, "vi": "Phí giao hàng của cửa hàng chúng tôi đồng loạt 500 yên trên toàn quốc, bất kể kích thước hàng.", "why": "Mọi trường hợp như nhau (một mức giá 「一律」) → **にかかわらず**. 「に応じて」 = thay đổi tương ứng với kích thước — mâu thuẫn với 「一律」; 「もかまわず」 cần một người bất chấp điều gì; 「つつも」 cần Vます."},
+    {"id": "b29-p3", "kind": "form", "ref": "b29-8", "q": "{他人|たにん}の{手紙|てがみ}を{勝手|かって}に{読|よ}む（　　）。", "options": ["べきではない", "ないべきだ", "まいではない", "ざるを得ない"], "answer": 0, "vi": "Không nên tự ý đọc thư của người khác.", "why": "Nhận định đạo lý \"không nên\" → **べきではない**. 「ないべきだ」 là dạng sai (không phủ định trước べき); 「まいではない」 không tồn tại; 「ざるを得ない」 phải nối với ない形 (読まざる) và nghĩa \"buộc phải\" trái ý câu."},
+    {"id": "b29-p4", "kind": "form", "ref": "b29-9", "q": "このまま{何|なに}も{対策|たいさく}をとらなければ、{問題|もんだい}はさらに{深刻|しんこく}になるのでは（　　）。", "options": ["あるべきか", "ありつつある", "あるまいか", "あらずじまいだ"], "answer": 2, "vi": "Nếu cứ thế này mà không có biện pháp gì, e rằng vấn đề sẽ càng nghiêm trọng hơn.", "why": "Khuôn suy đoán văn viết 「〜のでは**あるまいか**」 = 〜のではないだろうか. 「あるべきか」 = có nên không (sai nghĩa); 「ありつつある」 không dùng với ある; 「あらずじまい」 sai."},
+    {"id": "b29-p5", "kind": "form", "ref": "b29-11", "q": "{窓|まど}の{外|そと}の{雪景色|ゆきげしき}を{眺|なが}め（　　）、{温|あたた}かいコーヒーをゆっくり{味|あじ}わった。", "options": ["ずじまいで", "まいと", "つつある", "つつ"], "answer": 3, "vi": "Vừa ngắm cảnh tuyết ngoài cửa sổ, tôi vừa thong thả thưởng thức ly cà phê nóng.", "why": "Hai hành động song song, cùng chủ ngữ, văn viết → **つつ** (= ながら). 「眺めずじまいで」 = rốt cuộc không ngắm được — trái nghĩa; 「眺めまいと」 = cố không ngắm — vô lý; 「つつある」 là kết câu, không nối tiếp vế sau và chỉ dùng cho biến đổi."},
+    {"id": "b29-p6", "kind": "form", "ref": "b29-13", "q": "{早|はや}く{寝|ね}なければと{思|おも}い（　　）、ついスマートフォンを{見|み}てしまう。", "options": ["つつある", "つつも", "まいか", "ずには"], "answer": 1, "vi": "Tuy biết phải ngủ sớm mà tôi cứ vô thức xem điện thoại.", "why": "「〜と思い」 + hành động trái ngược (ついてしまう) → **つつも** (tuy… nhưng). 「つつある」 = đang dần biến đổi; 「思いまいか」 sai chia (phải là 思うまいか) và sai nghĩa; 「思いずには」 sai chia (phải là 思わずには)."},
+    {"id": "b29-p7", "kind": "form", "ref": "b29-14", "q": "{参加|さんか}できるかどうかはまだ{分|わ}かりませんが、いずれに（　　）、{明日|あした}までにご{連絡|れんらく}します。", "options": ["しては", "しつつ", "せよ", "すべき"], "answer": 2, "vi": "Tôi chưa biết có tham gia được hay không, nhưng dù thế nào thì đến mai tôi sẽ liên lạc.", "why": "Cụm cố định **いずれにせよ** = dù sao đi nữa (せよ = しろ). 「いずれにしては」 không tồn tại (にしては = so với); 「いずれにしつつ」「いずれにすべき」 vô nghĩa."},
+    {"id": "b29-p8", "kind": "order", "ref": "b29-7", "q": "これだけ{証拠|しょうこ}がそろえば、＿＿＿ ＿＿＿ ★ ＿＿＿ だろう。", "options": ["認め", "彼も", "ざるを得ない", "罪を"], "order": [1, 3, 0, 2], "answer": 0, "vi": "Bằng chứng đầy đủ thế này thì anh ta cũng buộc phải nhận tội thôi.", "why": "これだけ証拠がそろえば、**彼も 罪を 認め ざるを得ない** だろう → ★ (ô thứ 3) = 「認め」. 「ざるを得ない」 gắn với ない形 「認め」; 「罪を」 là tân ngữ của 「認める」."},
+    {"id": "b29-p9", "kind": "usage", "ref": "b29-4", "q": "「〜にもかかわらず」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["雨にもかかわらず、明日は予定どおり出かけましょう。", "年齢にもかかわらず、誰でも参加できます。", "行くにもかかわらず行かないにもかかわらず、連絡してください。", "彼は何度も失敗したにもかかわらず、決して諦めなかった。"], "answer": 3, "vi": "(4) Dù thất bại bao nhiêu lần, anh ấy tuyệt đối không bỏ cuộc.", "why": "(4) sự thật (thất bại nhiều lần) + kết quả bất ngờ đã xảy ra → đúng. (1) vế sau là rủ rê; (2) nghĩa \"không phân biệt\" → 年齢にかかわらず／を問わず; (3) cặp đối lập → 行く行かないにかかわらず."},
+    {"id": "b29-p10", "kind": "form", "ref": "b29-6", "q": "{息子|むすこ}の{危|あぶ}なっかしい{運転|うんてん}を{見|み}ていると、つい{口|くち}を{出|だ}さ（　　）。", "options": ["ずじまいだ", "まいと思う", "ずにはいられない", "つつある"], "answer": 2, "vi": "Cứ nhìn con trai lái xe chênh vênh là tôi không nhịn được mà phải lên tiếng.", "why": "Cảm xúc (lo lắng khi nhìn) thôi thúc hành động → **ずにはいられない**. 「ずじまいだ」 chỉ dùng cho việc đã qua và mang nghĩa \"rốt cuộc không làm\"; 「出さまい」 sai chia (nhóm I phải là 出すまい); 「出さつつある」 sai chia."},
+    {"id": "b29-p11", "kind": "form", "ref": "b29-9", "q": "あれだけ{練習|れんしゅう}したのだから、{本番|ほんばん}で{大|おお}きく{失敗|しっぱい}することはある（　　）。", "options": ["べきだ", "まい", "ずじまいだ", "つつある"], "answer": 1, "vi": "Đã luyện tập nhiều đến thế thì chắc không đến mức thất bại lớn trong buổi diễn chính đâu.", "why": "Suy đoán phủ định 「〜ことはあるまい」 = 〜ことはないだろう → **まい**. 「あるべきだ」 = nên có thất bại (vô lý); 「あるずじまい」「ありつつある」 sai chia và sai nghĩa."},
+    {"id": "b29-p12", "kind": "order", "ref": "b29-12", "q": "{昔|むかし}ながらの ＿＿＿ ＿＿＿ ★ ＿＿＿ 。", "options": ["失われ", "つつある", "手作業の", "技術が"], "order": [2, 3, 0, 1], "answer": 0, "vi": "Những kỹ thuật làm thủ công truyền thống đang dần bị mai một.", "why": "昔ながらの **手作業の 技術が 失われ つつある** → ★ (ô thứ 3) = 「失われ」. 「つつある」 gắn với ます形 của bị động 「失われる」 → 「失われつつある」."}
+  ],
+  "test": [
+    {"id": "b29-t1", "kind": "form", "ref": "b29-1", "q": "{隣|となり}の{席|せき}の{男性|だんせい}は、{周|まわ}りの{迷惑|めいわく}（　　）、{電車|でんしゃ}の{中|なか}で{大声|おおごえ}で{電話|でんわ}をしていた。", "options": ["を問わず", "にかかわらず", "つつも", "もかまわず"], "answer": 3, "vi": "Người đàn ông ngồi cạnh chẳng màng làm phiền mọi người, cứ nói điện thoại oang oang trên tàu.", "why": "Một người **bất chấp** điều đáng để ý (làm phiền người khác), giọng phê phán → **もかまわず**. 「を問わず」「にかかわらず」 nói điều kiện khách quan \"không phân biệt\", không mô tả thái độ mặc kệ; 「迷惑つつも」 sai (つつ cần Vます)."},
+    {"id": "b29-t2", "kind": "form", "ref": "b29-5", "q": "{仕事|しごと}が{忙|いそが}しくて、{夏休|なつやす}みは{結局|けっきょく}{何|なに}も（　　）{終|お}わってしまった。", "options": ["しずじまいで", "せずじまいで", "しないずじまいで", "すずじまいで"], "answer": 1, "vi": "Công việc bận rộn nên kỳ nghỉ hè rốt cuộc đã trôi qua mà chẳng làm được gì.", "why": "「する」 + ず → **せず**, nên 「せずじまいで」. 「しず」「すず」 là chia sai; 「しないずじまい」 thừa ない vì ず đã là phủ định."},
+    {"id": "b29-t3", "kind": "form", "ref": "b29-8", "q": "{自分|じぶん}が{間違|まちが}っていたと{分|わ}かったら、すぐに{謝罪|しゃざい}（　　）だ。", "options": ["すべき", "せざる", "しつつ", "しまい"], "answer": 0, "vi": "Nếu biết mình đã sai thì nên xin lỗi ngay.", "why": "Nhận định đạo lý \"nên\" + だ → **すべきだ** (する → すべき). 「せざるだ」 sai (phải là せざるを得ない); 「しつつだ」 không tồn tại; 「しまいだ」 không phải cách kết câu của まい."},
+    {"id": "b29-t4", "kind": "form", "ref": "b29-13", "q": "{彼|かれ}は「{絶対|ぜったい}に{秘密|ひみつ}にする」と{言|い}い（　　）、{次|つぎ}の{日|ひ}にはもうみんなに{話|はな}していた。", "options": ["つつある", "ずにはいられず", "つつも", "まいと"], "answer": 2, "vi": "Anh ta miệng nói \"nhất định giữ bí mật\", vậy mà hôm sau đã kể với mọi người rồi.", "why": "Lời nói và hành động **trái ngược** → **つつも** (tuy… nhưng). 「言いつつある」 sai (つつある cho biến đổi, kết câu); 「言いずには」「言いまいと」 sai chia (phải là 言わずには／言うまいと)."},
+    {"id": "b29-t5", "kind": "order", "ref": "b29-9", "q": "{少子化|しょうしか}の{原因|げんいん}は、{子育|こそだ}ての ＿＿＿ ＿＿＿ ★ ＿＿＿ か。", "options": ["負担の", "あるまい", "大きさにあるのでは", "経済的な"], "order": [3, 0, 2, 1], "answer": 2, "vi": "Nguyên nhân của tình trạng ít sinh con, chẳng phải nằm ở gánh nặng kinh tế lớn của việc nuôi con sao?", "why": "子育ての **経済的な 負担の 大きさにあるのでは あるまい** か → ★ (ô thứ 3) = 「大きさにあるのでは」. Khuôn 「〜のではあるまいか」: 「のでは」 đứng ngay trước 「あるまい」, rồi 「か」."},
+    {"id": "b29-t6", "kind": "form", "ref": "b29-14", "q": "{理由|りゆう}が{何|なん}である（　　）、{無断|むだん}で{会社|かいしゃ}を{休|やす}むのはよくない。", "options": ["にせよ", "にもかかわらず", "まいか", "つつも"], "answer": 0, "vi": "Dù lý do là gì đi nữa, nghỉ làm không xin phép là không tốt.", "why": "Từ để hỏi 「何」 + nhượng bộ → **にせよ** (= にしても). 「にもかかわらず」 cần một sự thật cụ thể, không đi với từ để hỏi; 「であるまいか」 là câu hỏi suy đoán, không nối vế sau; 「であるつつも」 sai."},
+    {"id": "b29-t7", "kind": "usage", "ref": "b29-12", "q": "「〜つつある」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["今、友達に手紙を書きつつある。", "スイッチを押すと、電気がぱっと消えつつある。", "毎朝、駅まで歩きつつある。", "町の人口は少しずつ減りつつある。"], "answer": 3, "vi": "(4) Dân số thị trấn đang giảm dần từng chút một.", "why": "(4) động từ biến đổi + quá trình đang tiến triển → đúng. (1) hành động đang làm → 書いている; (2) thay đổi tức thời → 消えた; (3) thói quen → 歩いている."},
+    {"id": "b29-t8", "kind": "order", "ref": "b29-10", "q": "{母|はは}に ＿＿＿ ＿＿＿ ★ ＿＿＿ 、{病気|びょうき}のことはずっと{黙|だま}っていた。", "options": ["まいと", "心配を", "思って", "かけ"], "order": [1, 3, 0, 2], "answer": 0, "vi": "Nghĩ rằng không muốn làm mẹ lo, tôi đã giấu chuyện bệnh suốt.", "why": "母に **心配を かけ まいと 思って**、病気のことはずっと黙っていた → ★ (ô thứ 3) = 「まいと」. 「心配をかける」 là cụm cố định; 「まい」 gắn vào gốc nhóm II 「かけ」 (かけまい = quyết không gây ra); 「〜まいと思って」 nối sang vế sau 「黙っていた」."}
+  ]
+}

@@ -1,0 +1,2072 @@
+{
+  "id": "g19",
+  "track": "goi",
+  "intro": "Bài này là từ vựng của **bài báo khoa học, tin tức công nghệ và quảng cáo sản phẩm** — loại văn bản rất hay gặp trong phần 読解 N2. Từ vựng chia 3 mảng:\n\n- **Khoa học – phát minh** (開発／発明): 進歩, 発想, 生み出す, 費やす, 業績, ノーベル賞を受賞する…\n- **Sản xuất – sản phẩm** (生産／製品): 導入, 設備を点検する, 効率, 手間が掛かる, 組み立てる, 消費者のニーズ, 性能, 長持ち, 不良品を交換・返品する, 通信網が発達する, 普及する…\n- **Công nghệ sinh học** (バイオテクノロジー): 遺伝(子), 受け継ぐ, 遺伝子組み換え, 品種改良, 進化↔退化, 標本を収集する, 細菌に感染する…\n\nPhần 語形成 có 6 \"khuôn\": **新〜, 〜者, 組み〜, 高〜, 〜的, 〜性**. Cuối bài là 5 phó từ: **めざましい, 次々, 意外と, もはや, ますます**.\n\nĐiểm then chốt khi thi: (1) phân biệt nhóm \"phát triển\": **開発・発明・進歩・発達・普及・進化** (mỗi từ đi với chủ ngữ khác nhau); (2) cách đọc dễ sai: 費やす(つい), 年月(ねんげつ), 作物(さくもつ), 業績(ぎょう), 標本(ひょうほん), 収集(しゅうしゅう); (3) cặp đối **進化↔退化, 生産↔消費**.",
+  "sections": [
+    {
+      "title": "科学・技術：開発／発明",
+      "title_vi": "Khoa học, kỹ thuật: phát triển / phát minh",
+      "words": [
+        {
+          "id": "g19-w1",
+          "w": "開発",
+          "r": "かいはつ",
+          "hv": "KHAI PHÁT",
+          "pos": "名・他動",
+          "vi": "phát triển, nghiên cứu chế tạo (sản phẩm, công nghệ mới); khai thác (đất đai, tài nguyên)",
+          "key": true,
+          "ex": {
+            "ja": "この{会社|かいしゃ}は{五年|ごねん}かけて、{充電|じゅうでん}の{速|はや}い{電池|でんち}を{開発|かいはつ}した。",
+            "vi": "Công ty này mất năm năm để phát triển loại pin sạc nhanh."
+          },
+          "col": [
+            "新薬を開発する",
+            "開発に成功する",
+            "開発途上国",
+            "土地の開発"
+          ],
+          "note": "開発 = bỏ công sức **nghiên cứu, cải tiến dần** cho đến khi làm ra được thứ dùng được (sản phẩm, phần mềm, thuốc). Còn có nghĩa khai phá vùng đất, tài nguyên (宅地開発, 資源開発). Khác 発明 ở chỗ 発明 là \"lần đầu tiên trên đời nghĩ ra\"."
+        },
+        {
+          "id": "g19-w2",
+          "w": "発明",
+          "r": "はつめい",
+          "hv": "PHÁT MINH",
+          "pos": "名・他動",
+          "vi": "phát minh (tạo ra thứ trước đó chưa từng có)",
+          "key": true,
+          "ex": {
+            "ja": "{電話|でんわ}が{発明|はつめい}されたのは{十九世紀|じゅうきゅうせいき}のことだ。",
+            "vi": "Điện thoại được phát minh vào thế kỷ 19."
+          },
+          "col": [
+            "電球を発明する",
+            "大発明",
+            "発明家",
+            "発明品"
+          ],
+          "rel": "cf. 発見(はっけん)",
+          "note": "発明 = **tạo ra** thứ chưa có (máy móc, công cụ). 発見 = **tìm ra** thứ vốn đã tồn tại nhưng chưa ai biết (新しい星を発見する, 法則を発見する). Bẫy kinh điển: ✗ 新しい星を発明した."
+        },
+        {
+          "id": "g19-w3",
+          "w": "進歩",
+          "r": "しんぽ",
+          "hv": "TIẾN BỘ",
+          "pos": "名・自動",
+          "vi": "tiến bộ, tiến triển (khoa học, kỹ thuật, kỹ năng ngày càng tốt hơn)",
+          "key": true,
+          "ex": {
+            "ja": "{医学|いがく}の{進歩|しんぽ}によって、{多|おお}くの{病気|びょうき}が{治|なお}るようになった。",
+            "vi": "Nhờ sự tiến bộ của y học, nhiều bệnh đã chữa được."
+          },
+          "col": [
+            "科学が進歩する",
+            "技術の進歩",
+            "進歩的な考え"
+          ],
+          "rel": "↔ 退歩(たいほ)",
+          "note": "Dùng cho thứ **tiến lên phía trước, tốt hơn**: 科学, 技術, 文明, trình độ của người (日本語が進歩した — được, nhưng tự nhiên hơn là 上達した). Không dùng cho sinh vật tiến hoá (→ 進化)."
+        },
+        {
+          "id": "g19-w4",
+          "w": "科学",
+          "r": "かがく",
+          "hv": "KHOA HỌC",
+          "pos": "名",
+          "vi": "khoa học",
+          "key": true,
+          "ex": {
+            "ja": "{科学|かがく}の{力|ちから}だけでは{説明|せつめい}できない{現象|げんしょう}もある。",
+            "vi": "Cũng có những hiện tượng không thể giải thích chỉ bằng sức mạnh của khoa học."
+          },
+          "col": [
+            "自然科学",
+            "科学技術",
+            "科学的な根拠"
+          ],
+          "note": "Đồng âm khác chữ: 化学(かがく) = **hoá học**. Để phân biệt khi nói, người Nhật hay gọi 化学 là ばけがく."
+        },
+        {
+          "id": "g19-w5",
+          "w": "テクノロジー",
+          "r": "てくのろじー",
+          "hv": "",
+          "pos": "名",
+          "vi": "công nghệ, kỹ thuật (technology)",
+          "key": true,
+          "ex": {
+            "ja": "{最新|さいしん}のテクノロジーを{使|つか}えば、{遠|とお}くの{患者|かんじゃ}も{診察|しんさつ}できる。",
+            "vi": "Dùng công nghệ mới nhất thì có thể khám cả cho bệnh nhân ở xa."
+          },
+          "col": [
+            "最新のテクノロジー",
+            "バイオテクノロジー",
+            "情報テクノロジー(IT)"
+          ],
+          "rel": "≒ 科学技術"
+        },
+        {
+          "id": "g19-w6",
+          "w": "ノーベル賞",
+          "r": "のーべるしょう",
+          "hv": "THƯỞNG",
+          "pos": "名",
+          "vi": "giải Nobel",
+          "key": true,
+          "ex": {
+            "ja": "その{研究者|けんきゅうしゃ}は{新|あたら}しい{素材|そざい}の{研究|けんきゅう}でノーベル{賞|しょう}を{受賞|じゅしょう}した。",
+            "vi": "Nhà nghiên cứu ấy được trao giải Nobel nhờ công trình về vật liệu mới."
+          },
+          "col": [
+            "ノーベル賞を受賞する／取る",
+            "ノーベル賞候補"
+          ],
+          "note": "賞(しょう) = giải thưởng: 一等賞, 賞金 (tiền thưởng), 賞品 (phần thưởng hiện vật)."
+        },
+        {
+          "id": "g19-w7",
+          "w": "受賞",
+          "r": "じゅしょう",
+          "hv": "THỤ THƯỞNG",
+          "pos": "名・他動",
+          "vi": "nhận giải thưởng, đoạt giải",
+          "key": true,
+          "ex": {
+            "ja": "{初|はじ}めて{書|か}いた{小説|しょうせつ}が{新人賞|しんじんしょう}を{受賞|じゅしょう}した。",
+            "vi": "Cuốn tiểu thuyết đầu tay của tôi đã đoạt giải Tác giả mới."
+          },
+          "col": [
+            "〜賞を受賞する",
+            "受賞者",
+            "受賞作品"
+          ],
+          "rel": "≒ 賞を取る",
+          "note": "Văn viết, tin tức: 受賞する; văn nói: 賞を取る／もらう. Đừng nhầm với 授賞(じゅしょう) = **trao** giải (授賞式 = lễ trao giải) — cùng âm, khác chữ 受 (nhận) / 授 (trao)."
+        },
+        {
+          "id": "g19-w8",
+          "w": "取る",
+          "r": "とる",
+          "hv": "THỦ",
+          "pos": "他動",
+          "vi": "(賞を〜) đoạt, giành (giải thưởng)",
+          "key": false,
+          "ex": {
+            "ja": "{弟|おとうと}は{作文|さくぶん}コンクールで{一等賞|いっとうしょう}を{取|と}った。",
+            "vi": "Em trai tôi giành giải nhất cuộc thi viết văn."
+          },
+          "col": [
+            "賞を取る",
+            "一位を取る",
+            "資格を取る"
+          ]
+        },
+        {
+          "id": "g19-w9",
+          "w": "発想",
+          "r": "はっそう",
+          "hv": "PHÁT TƯỞNG",
+          "pos": "名・他動",
+          "vi": "ý tưởng, cách nghĩ, lối tư duy (cách nảy ra ý)",
+          "key": true,
+          "ex": {
+            "ja": "{子|こ}どもの{自由|じゆう}な{発想|はっそう}には、{大人|おとな}も{驚|おどろ}かされる。",
+            "vi": "Lối nghĩ tự do của trẻ con khiến cả người lớn cũng phải ngạc nhiên."
+          },
+          "col": [
+            "豊かな発想",
+            "発想を転換する",
+            "新しい発想",
+            "発想力"
+          ],
+          "rel": "≒ アイデア",
+          "note": "発想 nhấn vào **cách nghĩ ra** (góc nhìn, lối tư duy). 「発想の転換」= thay đổi cách nghĩ, nhìn vấn đề từ góc khác. 豊かな発想 = trí tưởng tượng phong phú."
+        },
+        {
+          "id": "g19-w10",
+          "w": "新商品",
+          "r": "しんしょうひん",
+          "hv": "TÂN THƯƠNG PHẨM",
+          "pos": "名",
+          "vi": "sản phẩm mới (hàng mới bán ra)",
+          "key": true,
+          "ex": {
+            "ja": "コンビニでは{毎週|まいしゅう}のように{新商品|しんしょうひん}が{発売|はつばい}される。",
+            "vi": "Ở cửa hàng tiện lợi, gần như tuần nào cũng có sản phẩm mới bán ra."
+          },
+          "col": [
+            "新商品を発売する",
+            "新商品の開発"
+          ],
+          "note": "商品 = hàng hoá (nhìn từ góc **bán hàng**). Xem phần 語形成 新〜."
+        },
+        {
+          "id": "g19-w11",
+          "w": "生み出す",
+          "r": "うみだす",
+          "hv": "SINH XUẤT",
+          "pos": "他動",
+          "vi": "tạo ra, sản sinh ra (cái mới: ý tưởng, tác phẩm, giá trị)",
+          "key": true,
+          "ex": {
+            "ja": "{小|ちい}さな{町工場|まちこうば}が、{世界|せかい}に{誇|ほこ}れる{技術|ぎじゅつ}を{生|う}み{出|だ}した。",
+            "vi": "Một xưởng nhỏ trong phố đã tạo ra công nghệ đáng tự hào với cả thế giới."
+          },
+          "col": [
+            "アイデアを生み出す",
+            "利益を生み出す",
+            "名作を生み出す"
+          ],
+          "rel": "≒ 作り出す",
+          "note": "Dùng cho thứ **trước đó chưa có**, thường trừu tượng (アイデア, 価値, 雇用). Viết 生み (sinh), không viết 産み."
+        },
+        {
+          "id": "g19-w12",
+          "w": "年月",
+          "r": "ねんげつ",
+          "hv": "NIÊN NGUYỆT",
+          "pos": "名",
+          "vi": "năm tháng, thời gian dài",
+          "key": true,
+          "ex": {
+            "ja": "この{橋|はし}は{完成|かんせい}までに{二十年|にじゅうねん}という{長|なが}い{年月|ねんげつ}がかかった。",
+            "vi": "Cây cầu này mất một thời gian dài tới hai mươi năm mới hoàn thành."
+          },
+          "col": [
+            "長い年月",
+            "年月をかける",
+            "年月が流れる"
+          ],
+          "rel": "≒ 歳月(さいげつ)",
+          "note": "Đọc **ねんげつ** (月 = げつ). Còn đọc としつき (văn chương). Gần nghĩa 月日(つきひ) ở bài g21."
+        },
+        {
+          "id": "g19-w13",
+          "w": "費やす",
+          "r": "ついやす",
+          "hv": "PHÍ",
+          "pos": "他動",
+          "vi": "tiêu tốn, bỏ ra (thời gian, tiền, công sức)",
+          "key": true,
+          "ex": {
+            "ja": "{彼|かれ}は{給料|きゅうりょう}のほとんどを{趣味|しゅみ}の{写真|しゃしん}に{費|つい}やしている。",
+            "vi": "Anh ấy bỏ ra gần hết tiền lương cho thú chụp ảnh."
+          },
+          "col": [
+            "時間を費やす",
+            "年月を費やす",
+            "多額の費用を費やす"
+          ],
+          "note": "Đọc **ついやす** — bẫy đọc rất hay ra (không phải ひやす = 冷やす làm lạnh, ふやす = 増やす tăng). Nghĩa: dùng **một lượng lớn** thời gian/tiền cho một việc. Văn viết hơn 使う."
+        },
+        {
+          "id": "g19-w14",
+          "w": "偉大",
+          "r": "いだい",
+          "hv": "VĨ ĐẠI",
+          "pos": "な形",
+          "vi": "vĩ đại",
+          "key": false,
+          "ex": {
+            "ja": "{偉大|いだい}な{音楽家|おんがくか}の{作品|さくひん}は、{何百年|なんびゃくねん}たっても{愛|あい}される。",
+            "vi": "Tác phẩm của nhạc sĩ vĩ đại được yêu mến dù đã trải qua hàng trăm năm."
+          },
+          "col": [
+            "偉大な人物",
+            "偉大な業績"
+          ],
+          "note": "偉い(えらい) = giỏi, có địa vị; 偉大 trang trọng hơn, dùng cho người / thành tựu lớn lao."
+        },
+        {
+          "id": "g19-w15",
+          "w": "科学者",
+          "r": "かがくしゃ",
+          "hv": "KHOA HỌC GIẢ",
+          "pos": "名",
+          "vi": "nhà khoa học",
+          "key": true,
+          "ex": {
+            "ja": "{多|おお}くの{科学者|かがくしゃ}が{地球|ちきゅう}{温暖化|おんだんか}の{影響|えいきょう}を{心配|しんぱい}している。",
+            "vi": "Nhiều nhà khoa học lo ngại về ảnh hưởng của sự nóng lên toàn cầu."
+          },
+          "note": "〜者(しゃ) = người làm nghề / người ở vị trí… : 研究者, 技術者, 消費者, 参加者. Xem 語形成."
+        },
+        {
+          "id": "g19-w16",
+          "w": "業績",
+          "r": "ぎょうせき",
+          "hv": "NGHIỆP TÍCH",
+          "pos": "名",
+          "vi": "thành tựu, thành tích (công trình nghiên cứu); kết quả kinh doanh",
+          "key": true,
+          "ex": {
+            "ja": "{新製品|しんせいひん}がよく{売|う}れて、{会社|かいしゃ}の{業績|ぎょうせき}が{回復|かいふく}した。",
+            "vi": "Sản phẩm mới bán chạy, kết quả kinh doanh của công ty đã phục hồi."
+          },
+          "col": [
+            "業績を残す",
+            "業績を上げる",
+            "業績が悪化する",
+            "業績不振"
+          ],
+          "note": "Hai nghĩa: (1) thành tựu để lại của nhà khoa học, nghệ sĩ (偉大な業績を残す); (2) **kết quả kinh doanh** của công ty (業績が伸びる／悪化する) — nghĩa (2) gặp rất nhiều trong tin kinh tế. 成績 là thành tích học tập / thi đấu của cá nhân."
+        },
+        {
+          "id": "g19-w17",
+          "w": "多数",
+          "r": "たすう",
+          "hv": "ĐA SỐ",
+          "pos": "名",
+          "vi": "nhiều, số đông; đa số",
+          "key": false,
+          "ex": {
+            "ja": "{説明会|せつめいかい}には{予想|よそう}を{超|こ}える{多数|たすう}の{学生|がくせい}が{参加|さんか}した。",
+            "vi": "Số đông sinh viên vượt dự kiến đã tham gia buổi giới thiệu."
+          },
+          "col": [
+            "多数の〜",
+            "多数決",
+            "賛成多数"
+          ],
+          "rel": "↔ 少数",
+          "note": "多数決 = biểu quyết theo đa số. Xem thêm 大多数 ở bài g20."
+        }
+      ]
+    },
+    {
+      "title": "科学・技術：生産／製品",
+      "title_vi": "Khoa học, kỹ thuật: sản xuất / sản phẩm",
+      "words": [
+        {
+          "id": "g19-w18",
+          "w": "生産",
+          "r": "せいさん",
+          "hv": "SINH SẢN",
+          "pos": "名・他動",
+          "vi": "sản xuất (hàng loạt)",
+          "key": true,
+          "ex": {
+            "ja": "この{工場|こうじょう}では{一日|いちにち}に{千台|せんだい}の{自転車|じてんしゃ}を{生産|せいさん}している。",
+            "vi": "Nhà máy này mỗi ngày sản xuất một nghìn chiếc xe đạp."
+          },
+          "col": [
+            "製品を生産する",
+            "大量生産",
+            "国内生産",
+            "生産地"
+          ],
+          "rel": "↔ 消費",
+          "note": "Không phải \"sinh đẻ\" như Hán Việt gợi ý (sinh đẻ là 出産). 生産 dùng cho cả công nghiệp lẫn nông nghiệp (米の生産)."
+        },
+        {
+          "id": "g19-w19",
+          "w": "製品",
+          "r": "せいひん",
+          "hv": "CHẾ PHẨM",
+          "pos": "名",
+          "vi": "sản phẩm (hàng chế tạo ra)",
+          "key": true,
+          "ex": {
+            "ja": "{日本|にほん}の{電気|でんき}{製品|せいひん}は{品質|ひんしつ}がいいと{言|い}われている。",
+            "vi": "Người ta nói đồ điện của Nhật chất lượng tốt."
+          },
+          "col": [
+            "新製品",
+            "電気製品",
+            "乳製品",
+            "製品化"
+          ],
+          "rel": "cf. 商品",
+          "note": "製品 = thứ được **làm ra** (góc nhìn nhà sản xuất). 商品 = thứ được **bày bán** (góc nhìn cửa hàng). Rau quả tự nhiên là 商品 nhưng không phải 製品."
+        },
+        {
+          "id": "g19-w20",
+          "w": "生産量",
+          "r": "せいさんりょう",
+          "hv": "SINH SẢN LƯỢNG",
+          "pos": "名",
+          "vi": "sản lượng",
+          "key": true,
+          "ex": {
+            "ja": "{天候|てんこう}が{悪|わる}かったため、{今年|ことし}の{米|こめ}の{生産量|せいさんりょう}は{減|へ}った。",
+            "vi": "Do thời tiết xấu nên sản lượng lúa năm nay giảm."
+          },
+          "col": [
+            "生産量を増やす／減らす",
+            "生産量が多い"
+          ],
+          "note": "〜量 = lượng: 消費量, 使用量, 降水量."
+        },
+        {
+          "id": "g19-w21",
+          "w": "システム",
+          "r": "しすてむ",
+          "hv": "",
+          "pos": "名",
+          "vi": "hệ thống; cơ chế, cách tổ chức",
+          "key": true,
+          "ex": {
+            "ja": "{予約|よやく}システムに{不具合|ふぐあい}が{起|お}き、{受付|うけつけ}が{一時|いちじ}{止|と}まった。",
+            "vi": "Hệ thống đặt chỗ gặp trục trặc nên việc tiếp nhận tạm dừng."
+          },
+          "col": [
+            "システムを導入する",
+            "システム障害",
+            "社会のシステム"
+          ]
+        },
+        {
+          "id": "g19-w22",
+          "w": "導入",
+          "r": "どうにゅう",
+          "hv": "ĐẠO NHẬP",
+          "pos": "名・他動",
+          "vi": "đưa vào áp dụng (hệ thống, thiết bị, chế độ mới)",
+          "key": true,
+          "ex": {
+            "ja": "{当社|とうしゃ}では{来年|らいねん}から{在宅|ざいたく}{勤務|きんむ}の{制度|せいど}を{導入|どうにゅう}する。",
+            "vi": "Công ty chúng tôi sẽ áp dụng chế độ làm việc tại nhà từ năm sau."
+          },
+          "col": [
+            "システムを導入する",
+            "制度を導入する",
+            "最新設備の導入",
+            "導入部 (phần mở đầu)"
+          ],
+          "rel": "≒ 取り入れる",
+          "note": "Chủ ngữ là tổ chức (công ty, trường, nhà nước), tân ngữ là **thứ mới mang từ ngoài vào để dùng**. Không dùng cho người đi vào nơi nào (✗ 部屋に導入する)."
+        },
+        {
+          "id": "g19-w23",
+          "w": "設備",
+          "r": "せつび",
+          "hv": "THIẾT BỊ",
+          "pos": "名",
+          "vi": "thiết bị, trang thiết bị, cơ sở vật chất",
+          "key": true,
+          "ex": {
+            "ja": "このホテルは{古|ふる}いが、{設備|せつび}はすべて{新|あたら}しくなっている。",
+            "vi": "Khách sạn này cũ nhưng trang thiết bị đều đã được làm mới."
+          },
+          "col": [
+            "設備を点検する",
+            "設備が整う",
+            "設備投資",
+            "安全設備"
+          ],
+          "note": "設備 = những thứ **lắp đặt cố định** ở một nơi (máy móc nhà máy, điều hoà, thang máy...). 機械 là cái máy riêng lẻ; 道具 là dụng cụ cầm tay."
+        },
+        {
+          "id": "g19-w24",
+          "w": "点検",
+          "r": "てんけん",
+          "hv": "ĐIỂM KIỂM",
+          "pos": "名・他動",
+          "vi": "kiểm tra (định kỳ, từng điểm xem có hỏng hóc không)",
+          "key": true,
+          "ex": {
+            "ja": "{長距離|ちょうきょり}を{走|はし}る{前|まえ}に、{車|くるま}のタイヤを{点検|てんけん}しておこう。",
+            "vi": "Trước khi chạy đường dài, hãy kiểm tra lốp xe trước đã."
+          },
+          "col": [
+            "設備を点検する",
+            "定期点検",
+            "安全点検"
+          ],
+          "rel": "≒ チェックする",
+          "note": "点検 = soát từng chỗ xem **máy móc, thiết bị có hoạt động bình thường, an toàn không**. Khám sức khoẻ là 検査／健診, kiểm tra kiến thức là テスト — không dùng 点検."
+        },
+        {
+          "id": "g19-w25",
+          "w": "チェック",
+          "r": "ちぇっく",
+          "hv": "",
+          "pos": "名・他動",
+          "vi": "kiểm tra, rà soát; đánh dấu",
+          "key": true,
+          "ex": {
+            "ja": "{提出|ていしゅつ}する{前|まえ}に、{誤字|ごじ}がないかもう{一度|いちど}チェックしてください。",
+            "vi": "Trước khi nộp, hãy kiểm tra lại một lần nữa xem có lỗi chính tả không."
+          },
+          "col": [
+            "チェックする",
+            "チェックを入れる (đánh dấu ✓)",
+            "チェックリスト"
+          ],
+          "note": "Phạm vi rộng hơn 点検: dùng được cho văn bản, thông tin, đồ đạc..."
+        },
+        {
+          "id": "g19-w26",
+          "w": "備える",
+          "r": "そなえる",
+          "hv": "BỊ",
+          "pos": "他動",
+          "vi": "trang bị, có sẵn (thiết bị, năng lực); chuẩn bị, phòng bị (cho tình huống)",
+          "key": false,
+          "ex": {
+            "ja": "この{建物|たてもの}は{地震|じしん}に{備|そな}えて、{最新|さいしん}の{設備|せつび}を{備|そな}えている。",
+            "vi": "Toà nhà này được trang bị thiết bị mới nhất để phòng động đất."
+          },
+          "col": [
+            "設備を備える",
+            "地震に備える",
+            "試験に備える"
+          ],
+          "senses": [
+            {
+              "vi": "trang bị, có sẵn (AをNに備える / Aを備えている)",
+              "ex": {
+                "ja": "{全部|ぜんぶ}の{教室|きょうしつ}にプロジェクターが{備|そな}えてある。",
+                "vi": "Tất cả các phòng học đều được trang bị máy chiếu."
+              }
+            },
+            {
+              "vi": "chuẩn bị trước cho (Nに備える)",
+              "ex": {
+                "ja": "{台風|たいふう}に{備|そな}えて、{水|みず}と{食料|しょくりょう}を{買|か}っておいた。",
+                "vi": "Tôi đã mua sẵn nước và đồ ăn để phòng bão."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g19-w27",
+          "w": "作業",
+          "r": "さぎょう",
+          "hv": "TÁC NGHIỆP",
+          "pos": "名・自動",
+          "vi": "công việc (lao động cụ thể bằng tay / máy), thao tác",
+          "key": false,
+          "ex": {
+            "ja": "{雨|あめ}が{強|つよ}くなったので、{外|そと}での{作業|さぎょう}は{中止|ちゅうし}になった。",
+            "vi": "Mưa to lên nên công việc ngoài trời bị huỷ."
+          },
+          "col": [
+            "作業をする",
+            "作業員",
+            "作業服",
+            "単純作業"
+          ],
+          "note": "Đọc **さぎょう** (作 = さ), không phải さくぎょう."
+        },
+        {
+          "id": "g19-w28",
+          "w": "効率",
+          "r": "こうりつ",
+          "hv": "HIỆU SUẤT",
+          "pos": "名",
+          "vi": "hiệu suất, hiệu quả (làm được nhiều với ít thời gian/công sức)",
+          "key": true,
+          "ex": {
+            "ja": "{朝|あさ}のほうが{頭|あたま}がすっきりしていて、{勉強|べんきょう}の{効率|こうりつ}がいい。",
+            "vi": "Buổi sáng đầu óc tỉnh táo hơn nên học hiệu quả hơn."
+          },
+          "col": [
+            "効率が上がる／下がる",
+            "効率がいい／悪い",
+            "効率的な方法",
+            "作業効率"
+          ],
+          "note": "効率 = tỉ lệ **kết quả / công sức bỏ ra**. Khác 効果(こうか) = tác dụng, hiệu quả (薬の効果). 「効率がいい方法」= cách làm nhanh, ít tốn sức."
+        },
+        {
+          "id": "g19-w29",
+          "w": "手間",
+          "r": "てま",
+          "hv": "THỦ GIAN",
+          "pos": "名",
+          "vi": "công sức, thời gian và công phu bỏ ra (để làm gì)",
+          "key": true,
+          "ex": {
+            "ja": "{手作|てづく}りのパンは{手間|てま}がかかるけれど、{味|あじ}は{格別|かくべつ}だ。",
+            "vi": "Bánh mì tự làm tốn công nhưng hương vị thì khỏi chê."
+          },
+          "col": [
+            "手間が掛かる",
+            "手間を掛ける",
+            "手間を省く",
+            "お手間を取らせる"
+          ],
+          "note": "Gần như luôn đi với **掛かる／掛ける／省く**. 「手間を省く」= bớt công đoạn. 「お手間を取らせてすみません」= xin lỗi đã làm phiền anh mất công."
+        },
+        {
+          "id": "g19-w30",
+          "w": "部品",
+          "r": "ぶひん",
+          "hv": "BỘ PHẨM",
+          "pos": "名",
+          "vi": "linh kiện, phụ tùng",
+          "key": false,
+          "ex": {
+            "ja": "{古|ふる}い{機械|きかい}なので、{交換|こうかん}する{部品|ぶひん}がもう{売|う}っていない。",
+            "vi": "Máy đã cũ nên linh kiện để thay không còn bán nữa."
+          },
+          "col": [
+            "部品を組み立てる",
+            "自動車部品"
+          ]
+        },
+        {
+          "id": "g19-w31",
+          "w": "組み立てる",
+          "r": "くみたてる",
+          "hv": "TỔ LẬP",
+          "pos": "他動",
+          "vi": "lắp ráp; xây dựng, sắp xếp (lý luận, kế hoạch)",
+          "key": true,
+          "ex": {
+            "ja": "{説明書|せつめいしょ}を{見|み}ながら、{買|か}ってきた{棚|たな}を{組|く}み{立|た}てた。",
+            "vi": "Tôi vừa xem hướng dẫn vừa lắp ráp cái kệ mới mua về."
+          },
+          "col": [
+            "部品を組み立てる",
+            "家具を組み立てる",
+            "話を組み立てる",
+            "組み立て工場"
+          ],
+          "note": "Nghĩa bóng: 論理を組み立てる (dựng lập luận), 計画を組み立てる. Danh từ: 組み立て (組み立て式の家具 = đồ nội thất lắp ghép)."
+        },
+        {
+          "id": "g19-w32",
+          "w": "消費",
+          "r": "しょうひ",
+          "hv": "TIÊU PHÍ",
+          "pos": "名・他動",
+          "vi": "tiêu thụ, tiêu dùng (năng lượng, hàng hoá, thời gian)",
+          "key": true,
+          "ex": {
+            "ja": "{新|あたら}しい{冷蔵庫|れいぞうこ}は{古|ふる}いものより{電気|でんき}の{消費|しょうひ}が{少|すく}ない。",
+            "vi": "Tủ lạnh mới tiêu thụ ít điện hơn tủ cũ."
+          },
+          "col": [
+            "エネルギーを消費する",
+            "消費量",
+            "消費税",
+            "個人消費"
+          ],
+          "rel": "↔ 生産",
+          "note": "Tiếng Việt \"tiêu phí\" mang nghĩa lãng phí, nhưng 消費 trung tính = **dùng hết, tiêu thụ**. Lãng phí là 浪費(ろうひ)／無駄遣い."
+        },
+        {
+          "id": "g19-w33",
+          "w": "消費者",
+          "r": "しょうひしゃ",
+          "hv": "TIÊU PHÍ GIẢ",
+          "pos": "名",
+          "vi": "người tiêu dùng",
+          "key": true,
+          "ex": {
+            "ja": "{食品|しょくひん}の{値上|ねあ}げが{続|つづ}き、{消費者|しょうひしゃ}の{生活|せいかつ}は{苦|くる}しくなっている。",
+            "vi": "Giá thực phẩm liên tục tăng, cuộc sống của người tiêu dùng ngày càng khó khăn."
+          },
+          "col": [
+            "消費者のニーズ",
+            "消費者センター"
+          ],
+          "rel": "↔ 生産者"
+        },
+        {
+          "id": "g19-w34",
+          "w": "ニーズ",
+          "r": "にーず",
+          "hv": "",
+          "pos": "名",
+          "vi": "nhu cầu, mong muốn (của khách hàng, xã hội)",
+          "key": true,
+          "ex": {
+            "ja": "{高齢者|こうれいしゃ}のニーズに{合|あ}わせて、{文字|もじ}の{大|おお}きいスマホが{作|つく}られた。",
+            "vi": "Điện thoại chữ to đã được làm ra để phù hợp với nhu cầu của người cao tuổi."
+          },
+          "col": [
+            "ニーズに合う／応える",
+            "ニーズが高まる",
+            "顧客のニーズ"
+          ],
+          "rel": "≒ 需要・要望",
+          "note": "Đi với **合う・応える(こたえる)・つかむ**. 需要(じゅよう) thiên về kinh tế (cầu ↔ 供給 cung); ニーズ là mong muốn cụ thể của người dùng."
+        },
+        {
+          "id": "g19-w35",
+          "w": "丈夫",
+          "r": "じょうぶ",
+          "hv": "TRƯỢNG PHU",
+          "pos": "な形",
+          "vi": "bền, chắc chắn (đồ vật); khoẻ mạnh (cơ thể)",
+          "key": true,
+          "ex": {
+            "ja": "このかばんは{丈夫|じょうぶ}で、{十年|じゅうねん}{使|つか}っても{壊|こわ}れない。",
+            "vi": "Cái cặp này rất bền, dùng mười năm cũng không hỏng."
+          },
+          "col": [
+            "丈夫な生地",
+            "体が丈夫だ",
+            "丈夫に育つ"
+          ],
+          "rel": "≒ 頑丈(がんじょう)",
+          "note": "Không phải \"trượng phu\" (người chồng)! 大丈夫 cũng từ đây ra. Cho người: 丈夫な体 = cơ thể khoẻ, ít ốm."
+        },
+        {
+          "id": "g19-w36",
+          "w": "性能",
+          "r": "せいのう",
+          "hv": "TÍNH NĂNG",
+          "pos": "名",
+          "vi": "tính năng, hiệu năng (khả năng hoạt động của máy móc)",
+          "key": true,
+          "ex": {
+            "ja": "{値段|ねだん}は{高|たか}いが、このカメラは{性能|せいのう}が{抜群|ばつぐん}だ。",
+            "vi": "Giá thì đắt nhưng hiệu năng của chiếc máy ảnh này thì tuyệt vời."
+          },
+          "col": [
+            "性能がいい",
+            "性能を上げる",
+            "高性能"
+          ],
+          "note": "性能 = máy **làm tốt đến mức nào** (tốc độ, độ nét...). 機能(きのう) = máy **làm được những gì** (chức năng: chụp ảnh, quay phim...). 「機能が多い」 vs 「性能が高い」."
+        },
+        {
+          "id": "g19-w37",
+          "w": "長持ち",
+          "r": "ながもち",
+          "hv": "TRƯỜNG TRÌ",
+          "pos": "名・自動",
+          "vi": "bền lâu, dùng được lâu; giữ được lâu (đồ ăn, hoa)",
+          "key": true,
+          "ex": {
+            "ja": "{冷蔵庫|れいぞうこ}に{入|い}れておけば、この{野菜|やさい}は{長持|ながも}ちする。",
+            "vi": "Cho vào tủ lạnh thì loại rau này để được lâu."
+          },
+          "col": [
+            "長持ちする",
+            "電池が長持ちする",
+            "花を長持ちさせる"
+          ],
+          "note": "Đọc **ながもち** (訓). Dùng cho **đồ vật, thực phẩm** — không dùng cho người sống lâu (→ 長生き)."
+        },
+        {
+          "id": "g19-w38",
+          "w": "高性能",
+          "r": "こうせいのう",
+          "hv": "CAO TÍNH NĂNG",
+          "pos": "名・な形",
+          "vi": "hiệu năng cao",
+          "key": true,
+          "ex": {
+            "ja": "{高性能|こうせいのう}なパソコンなら、{動画|どうが}の{編集|へんしゅう}もすぐ{終|お}わる。",
+            "vi": "Nếu là máy tính hiệu năng cao thì chỉnh sửa video cũng xong ngay."
+          },
+          "col": [
+            "高性能のカメラ",
+            "高性能な機械"
+          ],
+          "note": "Xem 語形成 高〜."
+        },
+        {
+          "id": "g19-w39",
+          "w": "不良品",
+          "r": "ふりょうひん",
+          "hv": "BẤT LƯƠNG PHẨM",
+          "pos": "名",
+          "vi": "hàng lỗi, sản phẩm bị lỗi",
+          "key": true,
+          "ex": {
+            "ja": "{届|とど}いたイヤホンが{不良品|ふりょうひん}で、{片方|かたほう}から{音|おと}が{出|で}なかった。",
+            "vi": "Tai nghe giao tới là hàng lỗi, một bên không phát ra tiếng."
+          },
+          "col": [
+            "不良品を交換する",
+            "不良品が出る"
+          ],
+          "note": "不良 = kém, không đạt (成績不良, 体調不良); 不良 một mình còn chỉ \"thanh niên hư\"."
+        },
+        {
+          "id": "g19-w40",
+          "w": "交換",
+          "r": "こうかん",
+          "hv": "GIAO HOÁN",
+          "pos": "名・他動",
+          "vi": "đổi, thay (lấy cái khác); trao đổi (qua lại)",
+          "key": true,
+          "ex": {
+            "ja": "{電球|でんきゅう}が{切|き}れたので、{新|あたら}しいものと{交換|こうかん}した。",
+            "vi": "Bóng đèn cháy nên tôi đã thay bằng cái mới."
+          },
+          "col": [
+            "不良品を交換する",
+            "部品を交換する",
+            "意見交換",
+            "連絡先を交換する",
+            "交換留学"
+          ],
+          "rel": "≒ 取り替える",
+          "note": "Ở cửa hàng: 交換 = đổi lấy **món hàng khác** (vẫn có hàng); 返品 = trả hàng lấy **tiền** lại. Nghĩa trao đổi: 名刺を交換する (trao danh thiếp), 意見交換."
+        },
+        {
+          "id": "g19-w41",
+          "w": "返品",
+          "r": "へんぴん",
+          "hv": "PHẢN PHẨM",
+          "pos": "名・他動",
+          "vi": "trả lại hàng (đã mua)",
+          "key": true,
+          "ex": {
+            "ja": "セール{品|ひん}は{返品|へんぴん}できませんので、ご{注意|ちゅうい}ください。",
+            "vi": "Hàng giảm giá không thể trả lại, xin quý khách lưu ý."
+          },
+          "col": [
+            "返品する",
+            "返品を受け付ける",
+            "返品・交換"
+          ],
+          "note": "返品 → nhận lại tiền (返金). Âm đục: へん**ぴ**ん."
+        },
+        {
+          "id": "g19-w42",
+          "w": "通信網",
+          "r": "つうしんもう",
+          "hv": "THÔNG TÍN VÕNG",
+          "pos": "名",
+          "vi": "mạng lưới thông tin liên lạc",
+          "key": true,
+          "ex": {
+            "ja": "{山奥|やまおく}の{村|むら}にも{通信網|つうしんもう}が{整|ととの}い、インターネットが{使|つか}えるようになった。",
+            "vi": "Ngay cả làng sâu trong núi cũng đã có mạng lưới viễn thông, dùng được Internet."
+          },
+          "col": [
+            "通信網が発達する",
+            "交通網",
+            "鉄道網"
+          ],
+          "note": "〜網(もう) = mạng lưới (網 = あみ, cái lưới): 交通網, 道路網, 情報網."
+        },
+        {
+          "id": "g19-w43",
+          "w": "発達",
+          "r": "はったつ",
+          "hv": "PHÁT ĐẠT",
+          "pos": "名・自動",
+          "vi": "phát triển (tự lớn mạnh dần lên mức cao hơn)",
+          "key": true,
+          "ex": {
+            "ja": "{交通|こうつう}が{発達|はったつ}して、{地方|ちほう}への{旅行|りょこう}が{便利|べんり}になった。",
+            "vi": "Giao thông phát triển nên du lịch về các vùng trở nên thuận tiện."
+          },
+          "col": [
+            "通信網が発達する",
+            "子どもの発達",
+            "台風が発達する",
+            "筋肉が発達する"
+          ],
+          "note": "Dùng cho thứ **tự lớn lên, hoàn thiện dần**: giao thông, mạng lưới, cơ thể – trí tuệ trẻ em, cơ bắp, bão (台風が発達する = bão mạnh lên). Không dùng cho trình độ cá nhân (✗ 英語が発達した → 上達した) và không mang nghĩa \"làm ăn phát đạt, giàu có\" như trong tiếng Việt."
+        },
+        {
+          "id": "g19-w44",
+          "w": "携帯電話",
+          "r": "けいたいでんわ",
+          "hv": "HUỀ ĐỚI ĐIỆN THOẠI",
+          "pos": "名",
+          "vi": "điện thoại di động",
+          "key": true,
+          "ex": {
+            "ja": "{電車|でんしゃ}の{中|なか}では{携帯|けいたい}{電話|でんわ}での{通話|つうわ}はご{遠慮|えんりょ}ください。",
+            "vi": "Xin vui lòng không gọi điện thoại di động trên tàu."
+          },
+          "col": [
+            "携帯(電話)を持つ",
+            "携帯電話の普及"
+          ],
+          "note": "携帯(けいたい) = mang theo người (携帯する). Văn nói rút gọn: 携帯／ケータイ. Hiện nay hay nói スマホ."
+        },
+        {
+          "id": "g19-w45",
+          "w": "普及",
+          "r": "ふきゅう",
+          "hv": "PHỔ CẬP",
+          "pos": "名・自動",
+          "vi": "phổ biến rộng rãi, lan rộng (đến đông đảo mọi người)",
+          "key": true,
+          "ex": {
+            "ja": "{電子|でんし}マネーが{普及|ふきゅう}して、{現金|げんきん}を{持|も}ち{歩|ある}く{人|ひと}が{減|へ}った。",
+            "vi": "Tiền điện tử phổ biến rộng rãi nên số người mang theo tiền mặt giảm đi."
+          },
+          "col": [
+            "携帯電話が普及する",
+            "普及率",
+            "普及が進む"
+          ],
+          "note": "普及 = **lan ra đến tay nhiều người** (đồ dùng, công nghệ, tư tưởng). Không phải \"tiến bộ\": 携帯電話が普及した = điện thoại di động đã trở nên phổ biến. 普及率 = tỉ lệ phổ cập."
+        }
+      ]
+    },
+    {
+      "title": "バイオテクノロジー",
+      "title_vi": "Công nghệ sinh học",
+      "words": [
+        {
+          "id": "g19-w46",
+          "w": "バイオテクノロジー",
+          "r": "ばいおてくのろじー",
+          "hv": "",
+          "pos": "名",
+          "vi": "công nghệ sinh học",
+          "key": false,
+          "ex": {
+            "ja": "バイオテクノロジーは{農業|のうぎょう}や{医療|いりょう}の{分野|ぶんや}で{注目|ちゅうもく}されている。",
+            "vi": "Công nghệ sinh học đang được chú ý trong lĩnh vực nông nghiệp và y tế."
+          }
+        },
+        {
+          "id": "g19-w47",
+          "w": "遺伝",
+          "r": "いでん",
+          "hv": "DI TRUYỀN",
+          "pos": "名・自動",
+          "vi": "di truyền",
+          "key": true,
+          "ex": {
+            "ja": "{背|せ}の{高|たか}さはある{程度|ていど}{遺伝|いでん}すると{言|い}われている。",
+            "vi": "Người ta nói chiều cao di truyền ở một mức độ nào đó."
+          },
+          "col": [
+            "親から子へ遺伝する",
+            "遺伝的な病気",
+            "隔世遺伝 (di truyền cách đời)"
+          ],
+          "note": "Đọc い**で**ん (có âm đục), không phải いてん (移転 = chuyển địa điểm)."
+        },
+        {
+          "id": "g19-w48",
+          "w": "遺伝子",
+          "r": "いでんし",
+          "hv": "DI TRUYỀN TỬ",
+          "pos": "名",
+          "vi": "gen",
+          "key": true,
+          "ex": {
+            "ja": "{研究|けんきゅう}チームは{病気|びょうき}の{原因|げんいん}となる{遺伝子|いでんし}を{突|つ}き{止|と}めた。",
+            "vi": "Nhóm nghiên cứu đã xác định được gen gây ra căn bệnh."
+          },
+          "col": [
+            "遺伝子を受け継ぐ",
+            "遺伝子組み換え",
+            "遺伝子検査"
+          ],
+          "rel": "≒ DNA"
+        },
+        {
+          "id": "g19-w49",
+          "w": "受け継ぐ",
+          "r": "うけつぐ",
+          "hv": "THỤ KẾ",
+          "pos": "他動",
+          "vi": "kế thừa, thừa hưởng, nối nghiệp",
+          "key": true,
+          "ex": {
+            "ja": "{兄|あに}は{父|ちち}から{受|う}け{継|つ}いだ{店|みせ}を{大切|たいせつ}に{守|まも}っている。",
+            "vi": "Anh tôi gìn giữ cẩn thận cửa hàng thừa kế từ bố."
+          },
+          "col": [
+            "遺伝子を受け継ぐ",
+            "伝統を受け継ぐ",
+            "家業を受け継ぐ"
+          ],
+          "rel": "≒ 継承する",
+          "note": "Dùng cho thứ được **truyền từ thế hệ trước sang**: gen, tính cách, truyền thống, cửa hàng, ý chí. Tài sản theo pháp luật thì dùng 相続する."
+        },
+        {
+          "id": "g19-w50",
+          "w": "遺伝子組み換え",
+          "r": "いでんしくみかえ",
+          "hv": "DI TRUYỀN TỬ TỔ HOÁN",
+          "pos": "名",
+          "vi": "biến đổi gen",
+          "key": true,
+          "ex": {
+            "ja": "この{豆腐|とうふ}には{遺伝子|いでんし}{組|く}み{換|か}え{大豆|だいず}は{使|つか}われていない。",
+            "vi": "Đậu phụ này không dùng đậu nành biến đổi gen."
+          },
+          "col": [
+            "遺伝子組み換え作物",
+            "遺伝子組み換え食品"
+          ],
+          "note": "組み換える = sắp xếp lại, tổ hợp lại. Trên bao bì thực phẩm Nhật hay ghi 「遺伝子組み換えでない」."
+        },
+        {
+          "id": "g19-w51",
+          "w": "作物",
+          "r": "さくもつ",
+          "hv": "TÁC VẬT",
+          "pos": "名",
+          "vi": "cây trồng, hoa màu, nông sản",
+          "key": false,
+          "ex": {
+            "ja": "{今年|ことし}は{雨|あめ}が{少|すく}なく、{作物|さくもつ}の{育|そだ}ちが{悪|わる}い。",
+            "vi": "Năm nay ít mưa nên hoa màu kém phát triển."
+          },
+          "col": [
+            "作物を育てる",
+            "農作物"
+          ],
+          "note": "Đọc **さくもつ** (物 = もつ, như 荷物). Bẫy: さくぶつ／さくもの."
+        },
+        {
+          "id": "g19-w52",
+          "w": "人工的",
+          "r": "じんこうてき",
+          "hv": "NHÂN CÔNG ĐÍCH",
+          "pos": "な形",
+          "vi": "nhân tạo, do con người làm ra",
+          "key": true,
+          "ex": {
+            "ja": "この{湖|みずうみ}は{発電|はつでん}のために{人工的|じんこうてき}に{作|つく}られたものだ。",
+            "vi": "Hồ này được tạo ra một cách nhân tạo để phát điện."
+          },
+          "col": [
+            "人工的に作る",
+            "人工的な色",
+            "人工衛星",
+            "人工知能(AI)"
+          ],
+          "rel": "↔ 自然",
+          "note": "人工 = nhân tạo (không phải \"nhân công\" = người làm thuê). Xem 語形成 〜的."
+        },
+        {
+          "id": "g19-w53",
+          "w": "品種",
+          "r": "ひんしゅ",
+          "hv": "PHẨM CHỦNG",
+          "pos": "名",
+          "vi": "giống (cây trồng, vật nuôi)",
+          "key": false,
+          "ex": {
+            "ja": "この{店|みせ}では{十種類|じっしゅるい}以上の{品種|ひんしゅ}のりんごを{売|う}っている。",
+            "vi": "Cửa hàng này bán hơn mười giống táo."
+          },
+          "col": [
+            "新しい品種",
+            "品種改良"
+          ],
+          "note": "Chỉ dùng cho **cây trồng, động vật**. Loại hàng hoá thì dùng 種類 hoặc 品目. Đọc ひん**しゅ**."
+        },
+        {
+          "id": "g19-w54",
+          "w": "改良",
+          "r": "かいりょう",
+          "hv": "CẢI LƯƠNG",
+          "pos": "名・他動",
+          "vi": "cải tiến, cải thiện (làm cho sản phẩm, giống… tốt hơn)",
+          "key": true,
+          "ex": {
+            "ja": "{利用者|りようしゃ}の{声|こえ}をもとに、アプリを{改良|かいりょう}した。",
+            "vi": "Dựa trên ý kiến người dùng, chúng tôi đã cải tiến ứng dụng."
+          },
+          "col": [
+            "品種を改良する",
+            "改良を重ねる",
+            "改良型"
+          ],
+          "rel": "cf. 改善(かいぜん)",
+          "note": "改良 = sửa **vật cụ thể** (máy, sản phẩm, giống cây) cho tốt hơn. 改善 = cải thiện **tình trạng, vấn đề** (待遇を改善する, 関係が改善する). ✗ 病気が改良する."
+        },
+        {
+          "id": "g19-w55",
+          "w": "品種改良",
+          "r": "ひんしゅかいりょう",
+          "hv": "PHẨM CHỦNG CẢI LƯƠNG",
+          "pos": "名・他動",
+          "vi": "cải tạo giống, lai tạo giống",
+          "key": true,
+          "ex": {
+            "ja": "{品種|ひんしゅ}{改良|かいりょう}によって、{寒|さむ}さに{強|つよ}い{米|こめ}が{生|う}まれた。",
+            "vi": "Nhờ lai tạo giống mà đã ra đời loại lúa chịu lạnh tốt."
+          },
+          "col": [
+            "品種改良する",
+            "品種改良を重ねる"
+          ]
+        },
+        {
+          "id": "g19-w56",
+          "w": "安全性",
+          "r": "あんぜんせい",
+          "hv": "AN TOÀN TÍNH",
+          "pos": "名",
+          "vi": "tính an toàn, độ an toàn",
+          "key": true,
+          "ex": {
+            "ja": "{新|あたら}しい{薬|くすり}は、{安全性|あんぜんせい}が{確認|かくにん}されてから{発売|はつばい}される。",
+            "vi": "Thuốc mới chỉ được bán ra sau khi đã xác nhận độ an toàn."
+          },
+          "col": [
+            "安全性を確かめる",
+            "安全性が高い",
+            "安全性に問題がある"
+          ],
+          "rel": "↔ 危険性",
+          "note": "Xem 語形成 〜性."
+        },
+        {
+          "id": "g19-w57",
+          "w": "確かめる",
+          "r": "たしかめる",
+          "hv": "XÁC",
+          "pos": "他動",
+          "vi": "xác nhận, kiểm tra lại cho chắc",
+          "key": false,
+          "ex": {
+            "ja": "{出|で}かける{前|まえ}に、{窓|まど}が{閉|し}まっているか{確|たし}かめた。",
+            "vi": "Trước khi ra ngoài, tôi đã kiểm tra cho chắc cửa sổ đã đóng chưa."
+          },
+          "col": [
+            "安全性を確かめる",
+            "自分の目で確かめる"
+          ],
+          "rel": "≒ 確認する"
+        },
+        {
+          "id": "g19-w58",
+          "w": "生物",
+          "r": "せいぶつ",
+          "hv": "SINH VẬT",
+          "pos": "名",
+          "vi": "sinh vật",
+          "key": true,
+          "ex": {
+            "ja": "{深|ふか}い{海|うみ}の{底|そこ}にも、さまざまな{生物|せいぶつ}が{暮|く}らしている。",
+            "vi": "Ngay cả dưới đáy biển sâu cũng có nhiều loài sinh vật sinh sống."
+          },
+          "col": [
+            "生物が進化する",
+            "海の生物",
+            "生物学"
+          ],
+          "note": "Đọc **せいぶつ**. Viết giống 生物(なまもの) = đồ tươi sống (cá sống, bánh kem…) — 「生物ですのでお早めにお召し上がりください」."
+        },
+        {
+          "id": "g19-w59",
+          "w": "進化",
+          "r": "しんか",
+          "hv": "TIẾN HOÁ",
+          "pos": "名・自動",
+          "vi": "tiến hoá; (nghĩa rộng) phát triển, trở nên tân tiến hơn",
+          "key": true,
+          "ex": {
+            "ja": "{人間|にんげん}は{長|なが}い{時間|じかん}をかけて{猿|さる}に{似|に}た{動物|どうぶつ}から{進化|しんか}した。",
+            "vi": "Loài người đã tiến hoá trong thời gian dài từ loài động vật giống khỉ."
+          },
+          "col": [
+            "生物が進化する",
+            "進化論",
+            "スマホの進化"
+          ],
+          "rel": "↔ 退化",
+          "note": "Nghĩa gốc là sinh vật tiến hoá qua nhiều thế hệ. Văn nói/quảng cáo dùng nghĩa bóng: 「さらに進化した新モデル」."
+        },
+        {
+          "id": "g19-w60",
+          "w": "退化",
+          "r": "たいか",
+          "hv": "THOÁI HOÁ",
+          "pos": "名・自動",
+          "vi": "thoái hoá (cơ quan teo đi vì không dùng)",
+          "key": true,
+          "ex": {
+            "ja": "{暗|くら}い{洞窟|どうくつ}に{住|す}む{魚|さかな}は、{目|め}が{退化|たいか}していることが{多|おお}い。",
+            "vi": "Cá sống trong hang tối thường bị thoái hoá mắt."
+          },
+          "col": [
+            "機能が退化する",
+            "退化した器官"
+          ],
+          "rel": "↔ 進化",
+          "note": "Không có nghĩa \"đạo đức suy đồi\" như \"thoái hoá\" tiếng Việt (→ 堕落). Chỉ cơ quan, chức năng **yếu đi, nhỏ đi** vì không dùng."
+        },
+        {
+          "id": "g19-w61",
+          "w": "収集",
+          "r": "しゅうしゅう",
+          "hv": "THU TẬP",
+          "pos": "名・他動",
+          "vi": "thu thập, sưu tập; thu gom (rác)",
+          "key": true,
+          "ex": {
+            "ja": "{祖父|そふ}の{趣味|しゅみ}は{古|ふる}い{切手|きって}の{収集|しゅうしゅう}だ。",
+            "vi": "Sở thích của ông tôi là sưu tập tem cũ."
+          },
+          "col": [
+            "標本を収集する",
+            "情報を収集する",
+            "ごみの収集",
+            "収集家"
+          ],
+          "note": "Đọc **しゅうしゅう** (cả hai đều dài). Gần âm: 修正(しゅうせい), 収入. 情報収集 = thu thập thông tin; ごみ収集日 = ngày thu gom rác."
+        },
+        {
+          "id": "g19-w62",
+          "w": "サンプル",
+          "r": "さんぷる",
+          "hv": "",
+          "pos": "名",
+          "vi": "mẫu (vật mẫu, hàng mẫu, mẫu xét nghiệm)",
+          "key": true,
+          "ex": {
+            "ja": "{化粧品|けしょうひん}の{売り場|うりば}で{新商品|しんしょうひん}のサンプルをもらった。",
+            "vi": "Tôi được tặng hàng mẫu của sản phẩm mới ở quầy mỹ phẩm."
+          },
+          "col": [
+            "サンプルを収集する",
+            "無料サンプル",
+            "食品サンプル"
+          ],
+          "rel": "≒ 見本・標本"
+        },
+        {
+          "id": "g19-w63",
+          "w": "標本",
+          "r": "ひょうほん",
+          "hv": "TIÊU BẢN",
+          "pos": "名",
+          "vi": "tiêu bản, mẫu vật (động thực vật, khoáng vật dùng để nghiên cứu)",
+          "key": true,
+          "ex": {
+            "ja": "{博物館|はくぶつかん}には{珍|めずら}しい{蝶|ちょう}の{標本|ひょうほん}が{並|なら}んでいた。",
+            "vi": "Trong bảo tàng bày những tiêu bản bướm quý hiếm."
+          },
+          "col": [
+            "昆虫の標本",
+            "標本を作る"
+          ],
+          "note": "Đọc ひょう**ほん** (không đục). 見本(みほん) = hàng mẫu, mẫu để xem; 標本 = mẫu vật khoa học."
+        },
+        {
+          "id": "g19-w64",
+          "w": "感染",
+          "r": "かんせん",
+          "hv": "CẢM NHIỄM",
+          "pos": "名・自動",
+          "vi": "lây nhiễm, nhiễm (bệnh, virus)",
+          "key": true,
+          "ex": {
+            "ja": "インフルエンザに{感染|かんせん}しないよう、こまめに{手|て}を{洗|あら}いましょう。",
+            "vi": "Hãy rửa tay thường xuyên để không bị nhiễm cúm."
+          },
+          "col": [
+            "ウイルスに感染する",
+            "感染が広がる",
+            "感染症",
+            "感染者"
+          ],
+          "note": "Cấu trúc **Nに感染する** (nhiễm cái gì). Bệnh lây từ người sang người: うつる／うつす (văn nói). 感染 dùng cả cho virus máy tính."
+        },
+        {
+          "id": "g19-w65",
+          "w": "菌",
+          "r": "きん",
+          "hv": "KHUẨN",
+          "pos": "名",
+          "vi": "vi khuẩn, nấm (vi sinh vật)",
+          "key": true,
+          "ex": {
+            "ja": "まな{板|いた}は{熱|あつ}いお{湯|ゆ}をかけて{菌|きん}を{殺|ころ}すといい。",
+            "vi": "Thớt nên dội nước nóng để diệt khuẩn."
+          },
+          "col": [
+            "菌が増える",
+            "殺菌",
+            "除菌",
+            "乳酸菌"
+          ],
+          "note": "殺菌 = diệt khuẩn, 除菌 = khử khuẩn, 抗菌 = kháng khuẩn — hay thấy trên bao bì."
+        },
+        {
+          "id": "g19-w66",
+          "w": "細菌",
+          "r": "さいきん",
+          "hv": "TẾ KHUẨN",
+          "pos": "名",
+          "vi": "vi khuẩn",
+          "key": true,
+          "ex": {
+            "ja": "{傷口|きずぐち}から{細菌|さいきん}が{入|はい}ると、{化膿|かのう}することがある。",
+            "vi": "Nếu vi khuẩn xâm nhập qua vết thương thì có thể bị mưng mủ."
+          },
+          "col": [
+            "細菌に感染する",
+            "細菌が繁殖する"
+          ],
+          "note": "Cùng âm với 最近(さいきん) = gần đây. Nhìn ngữ cảnh (感染, 繁殖) để chọn chữ."
+        }
+      ]
+    },
+    {
+      "title": "語形成",
+      "title_vi": "Cấu tạo từ: 新〜・〜者・組み〜・高〜・〜的・〜性",
+      "words": [
+        {
+          "id": "g19-w67",
+          "w": "新製品",
+          "r": "しんせいひん",
+          "hv": "TÂN CHẾ PHẨM",
+          "pos": "名",
+          "vi": "sản phẩm mới (mới chế tạo)",
+          "key": true,
+          "ex": {
+            "ja": "{来月|らいげつ}{発売|はつばい}される{新製品|しんせいひん}の{発表会|はっぴょうかい}が{開|ひら}かれた。",
+            "vi": "Buổi ra mắt sản phẩm mới sẽ bán vào tháng sau đã được tổ chức."
+          },
+          "col": [
+            "新製品の開発",
+            "新製品を発表する"
+          ],
+          "note": "新〜 (しん) + danh từ Hán: 新商品, 新製品, 新記録, 新学期, 新入社員."
+        },
+        {
+          "id": "g19-w68",
+          "w": "組み込む",
+          "r": "くみこむ",
+          "hv": "TỔ NHẬP",
+          "pos": "他動",
+          "vi": "lắp vào, cài vào, đưa vào (làm thành một phần của tổng thể)",
+          "key": true,
+          "ex": {
+            "ja": "この{冷蔵庫|れいぞうこ}にはカメラが{組|く}み{込|こ}まれていて、{中身|なかみ}をスマホで{確認|かくにん}できる。",
+            "vi": "Tủ lạnh này được gắn sẵn camera, có thể kiểm tra đồ bên trong bằng điện thoại."
+          },
+          "col": [
+            "機能を組み込む",
+            "予定に組み込む",
+            "日程に組み込む"
+          ],
+          "note": "組み〜 = lắp ghép: 組み立てる (lắp thành), 組み込む (lắp **vào trong**), 組み合わせる (kết hợp), 組み換える (sắp xếp lại). Nghĩa bóng: 旅行の日程に見学を組み込む."
+        },
+        {
+          "id": "g19-w69",
+          "w": "高機能",
+          "r": "こうきのう",
+          "hv": "CAO CƠ NĂNG",
+          "pos": "名・な形",
+          "vi": "nhiều chức năng cao cấp",
+          "key": true,
+          "ex": {
+            "ja": "{高機能|こうきのう}な{炊飯器|すいはんき}は、パンやケーキまで{作|つく}れる。",
+            "vi": "Nồi cơm điện đa năng cao cấp làm được cả bánh mì lẫn bánh ngọt."
+          },
+          "col": [
+            "高機能のスマホ"
+          ],
+          "note": "高〜 (こう) + danh từ chỉ mức: 高性能, 高機能, 高品質, 高収入, 高学歴, 高血圧."
+        },
+        {
+          "id": "g19-w70",
+          "w": "科学的",
+          "r": "かがくてき",
+          "hv": "KHOA HỌC ĐÍCH",
+          "pos": "な形",
+          "vi": "mang tính khoa học, theo cách khoa học",
+          "key": true,
+          "ex": {
+            "ja": "その{健康法|けんこうほう}が{効|き}くという{科学的|かがくてき}な{根拠|こんきょ}はない。",
+            "vi": "Không có căn cứ khoa học nào cho thấy phương pháp dưỡng sinh đó hiệu quả."
+          },
+          "col": [
+            "科学的な根拠",
+            "科学的に証明する"
+          ],
+          "rel": "↔ 非科学的"
+        },
+        {
+          "id": "g19-w71",
+          "w": "技術的",
+          "r": "ぎじゅつてき",
+          "hv": "KỸ THUẬT ĐÍCH",
+          "pos": "な形",
+          "vi": "về mặt kỹ thuật",
+          "key": true,
+          "ex": {
+            "ja": "{計画|けいかく}は{技術的|ぎじゅつてき}には{可能|かのう}だが、{費用|ひよう}がかかりすぎる。",
+            "vi": "Kế hoạch về mặt kỹ thuật thì khả thi nhưng tốn kém quá."
+          },
+          "col": [
+            "技術的な問題",
+            "技術的に難しい"
+          ],
+          "note": "〜的に + tính từ/động từ = \"về mặt…\": 技術的に難しい, 経済的に苦しい, 時間的に無理だ."
+        },
+        {
+          "id": "g19-w72",
+          "w": "危険性",
+          "r": "きけんせい",
+          "hv": "NGUY HIỂM TÍNH",
+          "pos": "名",
+          "vi": "tính nguy hiểm, nguy cơ",
+          "key": true,
+          "ex": {
+            "ja": "この{地域|ちいき}は{大雨|おおあめ}のとき、{土砂崩|どしゃくず}れの{危険性|きけんせい}が{高|たか}い。",
+            "vi": "Khu vực này khi mưa lớn có nguy cơ sạt lở đất cao."
+          },
+          "col": [
+            "危険性が高い",
+            "〜する危険性がある"
+          ],
+          "rel": "↔ 安全性",
+          "note": "〜性 = tính chất, khả năng: 安全性, 危険性, 可能性, 重要性, 必要性, 社会性."
+        }
+      ]
+    },
+    {
+      "title": "副詞など",
+      "title_vi": "Phó từ trong câu ví dụ",
+      "words": [
+        {
+          "id": "g19-w73",
+          "w": "めざましい",
+          "r": "めざましい",
+          "hv": "MỤC GIÁC",
+          "pos": "い形",
+          "vi": "đáng kinh ngạc, vượt bậc (tiến bộ nhanh đến mức ai cũng chú ý)",
+          "key": true,
+          "ex": {
+            "ja": "この{国|くに}の{経済|けいざい}はここ{十年|じゅうねん}でめざましく{発展|はってん}した。",
+            "vi": "Kinh tế nước này đã phát triển vượt bậc trong mười năm qua."
+          },
+          "col": [
+            "めざましい進歩",
+            "めざましく発展する",
+            "めざましい活躍"
+          ],
+          "note": "Viết 目覚ましい. Gần như chỉ dùng cho **sự tiến bộ, phát triển, hoạt động tích cực**. Đừng nhầm với 目覚まし時計 (đồng hồ báo thức)."
+        },
+        {
+          "id": "g19-w74",
+          "w": "次々",
+          "r": "つぎつぎ",
+          "hv": "THỨ",
+          "pos": "副",
+          "vi": "liên tiếp, lần lượt cái này đến cái khác",
+          "key": true,
+          "ex": {
+            "ja": "{開店|かいてん}と{同時|どうじ}に、お{客|きゃく}さんが{次々|つぎつぎ}に{入|はい}ってきた。",
+            "vi": "Cửa hàng vừa mở là khách lần lượt kéo vào."
+          },
+          "col": [
+            "次々に／と",
+            "次々に生み出す"
+          ],
+          "rel": "≒ 続々(ぞくぞく)・相次いで",
+          "note": "Diễn tả **nhiều sự việc cùng loại xảy ra nối tiếp nhanh**. Đi với 次々に hoặc 次々と."
+        },
+        {
+          "id": "g19-w75",
+          "w": "意外と",
+          "r": "いがいと",
+          "hv": "Ý NGOẠI",
+          "pos": "副",
+          "vi": "không ngờ là, hoá ra lại… (khác với dự đoán)",
+          "key": true,
+          "ex": {
+            "ja": "{難|むずか}しそうに{見|み}えたが、やってみたら{意外|いがい}と{簡単|かんたん}だった。",
+            "vi": "Trông có vẻ khó, nhưng thử làm thì hoá ra lại dễ."
+          },
+          "col": [
+            "意外と簡単",
+            "意外に"
+          ],
+          "rel": "≒ 意外に・思ったより・案外",
+          "note": "意外 = ngoài dự đoán. 意外と (văn nói) = 意外に. 「意外な結果」(な形). Khác やはり (đúng như dự đoán) — nghĩa ngược nhau."
+        },
+        {
+          "id": "g19-w76",
+          "w": "もはや",
+          "r": "もはや",
+          "hv": "",
+          "pos": "副",
+          "vi": "đã đến mức… rồi, không còn… nữa (tình hình đã thay đổi, không quay lại được)",
+          "key": true,
+          "ex": {
+            "ja": "スマホはもはや{生活|せいかつ}に{欠|か}かせない{道具|どうぐ}になった。",
+            "vi": "Điện thoại thông minh giờ đã trở thành công cụ không thể thiếu trong cuộc sống."
+          },
+          "col": [
+            "もはや〜ではない",
+            "もはや手遅れだ"
+          ],
+          "rel": "≒ もう・今となっては",
+          "note": "Văn viết, sắc thái mạnh hơn もう: nhấn rằng **tình hình đã đi quá một ngưỡng**. Hay đi với 〜ではない／〜ない／手遅れだ."
+        },
+        {
+          "id": "g19-w77",
+          "w": "ますます",
+          "r": "ますます",
+          "hv": "",
+          "pos": "副",
+          "vi": "càng ngày càng, ngày một… hơn",
+          "key": true,
+          "ex": {
+            "ja": "{説明|せつめい}を{聞|き}いたら、ますます{分|わ}からなくなった。",
+            "vi": "Nghe giải thích xong lại càng không hiểu hơn."
+          },
+          "col": [
+            "ますます〜なる",
+            "ますます増える"
+          ],
+          "rel": "≒ いっそう・さらに",
+          "note": "Mức độ **vốn đã có lại tăng thêm**. Hay đi với 〜なる／増える／高まる. Viết 益々."
+        }
+      ]
+    }
+  ],
+  "focus": [
+    {
+      "title": "開発・発明・発見 — \"làm ra\" hay \"tìm ra\"?",
+      "body": "- **発明(はつめい)**: nghĩ ra và tạo ra thứ **chưa từng tồn tại** — 電話, 電球, ダイナマイト. 「エジソンは{電球|でんきゅう}を発明した」.\n- **発見(はっけん)**: tìm ra thứ **vốn đã có** nhưng chưa ai biết — 新しい星, 法則, 遺跡, ウイルス. 「{新種|しんしゅ}の{魚|さかな}を発見した」.\n- **開発(かいはつ)**: nghiên cứu, cải tiến **trong thời gian dài** để làm ra sản phẩm/công nghệ dùng được — 新薬, ソフト, 電池; còn là khai thác đất đai, tài nguyên (宅地開発).\n- **生み出す(うみだす)**: \"sinh ra\" cái mới, thường trừu tượng — アイデア, 利益, 名作.\n\nMẹo: có **thứ tự nhiên** (星, 法則, 病原菌) → 発見. Có **công ty / nhóm nghiên cứu + nhiều năm** → 開発. Có **nhân vật lịch sử + lần đầu tiên** → 発明."
+    },
+    {
+      "title": "進歩・発達・普及・進化 — bốn kiểu \"phát triển\"",
+      "body": "Bốn từ đều dịch được là \"phát triển\", nhưng **chủ ngữ** khác nhau:\n\n- **進歩**: khoa học, kỹ thuật, y học, văn minh **tiến lên, giỏi hơn**. 「{医療|いりょう}技術が進歩する」.\n- **発達**: thứ **tự lớn dần, hoàn thiện dần** — giao thông, mạng lưới, cơ thể – trí não trẻ em, cơ bắp, bão. 「{交通網|こうつうもう}が発達する」「{台風|たいふう}が発達する」.\n- **普及**: thứ gì đó **lan rộng đến nhiều người** — điện thoại, Internet, tư tưởng. 「スマホが普及する」. Câu hỏi về \"tỉ lệ người dùng\" → 普及.\n- **進化**: sinh vật **tiến hoá** qua nhiều thế hệ (↔ **退化**). Nghĩa bóng trong quảng cáo: 「進化した{新|しん}モデル」.\n\nNgoài ra: 上達 = kỹ năng của **một người** tiến bộ (ピアノが上達した); 発展 = xã hội, kinh tế, thành phố phát triển (町が発展する).\n\nVí dụ phân biệt: 「携帯電話の技術は**進歩**し、通信網も**発達**した。その結果、携帯電話は世界中に**普及**した」."
+    },
+    {
+      "title": "Sản phẩm và chuyện mua bán: 製品・商品・部品・不良品 / 交換・返品 / 性能・機能・効率",
+      "body": "- **製品** (làm ra, góc nhà sản xuất) ↔ **商品** (bày bán, góc cửa hàng) ↔ **部品** (linh kiện để lắp thành 製品) ↔ **作物** (cây trồng, hoa màu).\n- Hàng lỗi (**不良品**) thì có hai cách xử lý: **交換** (đổi lấy cái khác cùng loại) hoặc **返品** (trả hàng, lấy lại tiền).\n- **性能** = máy chạy **tốt đến đâu** (性能がいい／高性能). **機能** = máy **có những chức năng gì** (機能が多い／高機能). **効率** = kết quả so với công sức (作業の効率が上がる). **効果** = tác dụng (薬の効果).\n- **手間** = công sức, công đoạn: 手間が**掛かる**／手間を**掛ける**／手間を**省く**.\n- **長持ち** (đồ dùng bền lâu, thực phẩm để lâu) ≠ **長生き** (người sống lâu). **丈夫** = chắc, bền (đồ vật) / khoẻ (người).\n\nTrong 文脈規定, đọc kỹ **động từ đi kèm**: 〜が上がる (効率/性能), 〜が掛かる (手間/時間), 〜を備える (設備), 〜に合う (ニーズ)."
+    },
+    {
+      "title": "語形成: 新〜・〜者・組み〜・高〜・〜的・〜性",
+      "body": "- **新〜(しん)** + danh từ Hán: 新商品, 新製品, 新記録, 新学期, 新入生. (Khác 新しい〜: 新しい{家|いえ}, không nói 新家.)\n- **〜者(しゃ)**: người làm/ở vị trí: 科学者, 消費者, 研究者, 技術者, 参加者, 責任者. (〜家(か) nghiêng về chuyên gia, nghệ sĩ: 作家, 専門家; 〜員(いん) là thành viên tổ chức: 会社員.)\n- **組み〜(くみ)**: lắp ghép: 組み立てる (lắp ráp), 組み込む (lắp vào trong), 組み合わせる (phối hợp), 組み換える (tổ hợp lại).\n- **高〜(こう)**: mức cao: 高性能, 高機能, 高品質, 高収入, 高気圧. Đối: 低〜(てい): 低価格, 低カロリー.\n- **〜的(てき)**: tạo な形 \"mang tính…, về mặt…\": 人工的, 科学的, 技術的, 経済的. Dùng 〜的な + N, 〜的に + V/A.\n- **〜性(せい)**: tạo danh từ \"tính chất, khả năng\": 安全性, 危険性, 可能性, 必要性, 重要性.\n\nPhân biệt 〜的 / 〜性: 「安全な{車|くるま}」「車の**安全性**が高い」 nhưng không nói 安全的. Còn 「**科学的**な{方法|ほうほう}」 thì không nói 科学性な方法. Mẹo: sau chỗ trống là **が／を／は** → cần danh từ → 〜性; sau chỗ trống là **な／に** → 〜的."
+    },
+    {
+      "title": "Năm phó từ: めざましい・次々・意外と・もはや・ますます",
+      "body": "- **めざましい／めざましく**: tiến bộ **vượt bậc, gây chú ý** — 「めざましく{進歩|しんぽ}する」「めざましい{活躍|かつやく}」. Chỉ dùng cho chuyện tích cực.\n- **次々(に／と)**: **nhiều cái nối tiếp nhau** — 「アイデアが次々に{浮|う}かぶ」 ≒ 続々と.\n- **意外と**: **khác với dự đoán** — 「意外と{安|やす}かった」 ≒ 思ったより, 案外. Ngược với やはり／案の定.\n- **もはや**: tình hình **đã qua ngưỡng, không còn như trước** — 「もはや{手遅|ておく}れだ」「もはや{夢|ゆめ}ではない」. Trang trọng hơn もう.\n- **ますます**: mức độ **ngày càng tăng** — 「ますます{便利|べんり}になる」 ≒ いっそう, さらに.\n\nMẹo 言い換え: もはや ≒ **もう**; ますます ≒ **いっそう／さらに**; 次々に ≒ **続けて／相次いで**; 意外と ≒ **思ったより**."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "g19-q1",
+      "kind": "read",
+      "ref": "g19-w13",
+      "q": "{新|あたら}しい{薬|くすり}の{開発|かいはつ}に、{彼|かれ}は{十年|じゅうねん}を[[u:費やした]]。",
+      "options": [
+        "ついやした",
+        "ひやした",
+        "ふやした",
+        "ことやした"
+      ],
+      "answer": 0,
+      "vi": "Anh ấy đã bỏ ra mười năm cho việc phát triển loại thuốc mới.",
+      "why": "費やす = **ついやす** (tiêu tốn thời gian, tiền). ひやした là 冷やした (làm lạnh), ふやした là 増やした (tăng lên) — đều là từ có thật nhưng khác chữ, khác nghĩa; ことやした không tồn tại."
+    },
+    {
+      "id": "g19-q2",
+      "kind": "write",
+      "ref": "g19-w36",
+      "q": "このノートパソコンは{軽|かる}くて[[u:せいのう]]もいいので、{学生|がくせい}に{人気|にんき}がある。",
+      "options": [
+        "生能",
+        "性能",
+        "製能",
+        "性農"
+      ],
+      "answer": 1,
+      "vi": "Chiếc máy tính xách tay này nhẹ mà hiệu năng cũng tốt nên được sinh viên ưa chuộng.",
+      "why": "せいのう = **性能** (TÍNH NĂNG: 性 = tính chất, 能 = năng lực). 生 (sinh) và 製 (chế) cùng âm せい nhưng sai chữ; 農 (nông) là chữ khác hẳn nghĩa."
+    },
+    {
+      "id": "g19-q3",
+      "kind": "context",
+      "ref": "g19-w29",
+      "q": "{手作|てづく}りのみそは（　　）がかかるが、{店|みせ}で{買|か}うものよりずっとおいしい。",
+      "options": [
+        "効率",
+        "性能",
+        "手間",
+        "設備"
+      ],
+      "answer": 2,
+      "vi": "Tương miso tự làm thì tốn công, nhưng ngon hơn hẳn đồ mua ở cửa hàng.",
+      "why": "「〜がかかる」 + đồ tự làm → **手間がかかる** (tốn công). 効率 đi với 上がる／いい, không đi với かかる; 性能 là của máy móc; 設備 là thiết bị lắp đặt, không \"かかる\"."
+    },
+    {
+      "id": "g19-q4",
+      "kind": "context",
+      "ref": "g19-w45",
+      "q": "スマートフォンが{広|ひろ}く（　　）し、{今|いま}では{小学生|しょうがくせい}でも{持|も}っている。",
+      "options": [
+        "進化",
+        "発明",
+        "導入",
+        "普及"
+      ],
+      "answer": 3,
+      "vi": "Điện thoại thông minh đã phổ biến rộng rãi, giờ đến học sinh tiểu học cũng có.",
+      "why": "\"Lan rộng tới cả học sinh tiểu học\" → **普及** (phổ biến đến nhiều người). 進化 = trở nên tân tiến hơn, không nói về số người dùng; 発明 và 導入 là động từ cần tân ngữ を (〜を発明する／導入する), không dùng 「スマホが〜する」 với 広く."
+    },
+    {
+      "id": "g19-q5",
+      "kind": "paraphrase",
+      "ref": "g19-w37",
+      "q": "この{電池|でんち}は{値段|ねだん}は{高|たか}いが、[[u:長持ちする]]。",
+      "options": [
+        "長く使える",
+        "すぐ充電できる",
+        "どこでも買える",
+        "形が細長い"
+      ],
+      "answer": 0,
+      "vi": "Cục pin này giá đắt nhưng dùng được lâu.",
+      "why": "長持ちする = dùng được lâu, bền → **長く使える**. すぐ充電できる là sạc nhanh; どこでも買える là dễ mua; 形が細長い là hình dáng dài — bẫy từ chữ 長."
+    },
+    {
+      "id": "g19-q6",
+      "kind": "formation",
+      "ref": "g19-w70",
+      "q": "{血液型|けつえきがた}で{性格|せいかく}が{決|き}まるという{説|せつ}は、{科学|かがく}（　　）には{証明|しょうめい}されていない。",
+      "options": [
+        "性",
+        "的",
+        "者",
+        "式"
+      ],
+      "answer": 1,
+      "vi": "Thuyết cho rằng nhóm máu quyết định tính cách chưa được chứng minh về mặt khoa học.",
+      "why": "Sau chỗ trống là 「には＋động từ」 → cần dạng \"về mặt…\" → **科学的に(は)**. 科学性 là danh từ \"tính khoa học\", không đứng trước に証明される như trạng từ; 科学者 là nhà khoa học (người) — câu sẽ thành \"bởi nhà khoa học\" phải dùng によって; 科学式 không phải từ."
+    },
+    {
+      "id": "g19-q7",
+      "kind": "usage",
+      "ref": "g19-w22",
+      "q": "{導入|どうにゅう}",
+      "options": [
+        "スープの味が薄かったので、塩を少し導入した。",
+        "かぜの菌が体の中に導入して、熱が出た。",
+        "工場に新しい機械を導入して、生産量が二倍になった。",
+        "春から弟が近くの大学に導入することになった。"
+      ],
+      "answer": 2,
+      "vi": "(3) Nhà máy đưa vào sử dụng máy móc mới, sản lượng tăng gấp đôi.",
+      "why": "導入 = tổ chức **đưa thiết bị / hệ thống / chế độ mới vào sử dụng** → (3) đúng. (1) cho thêm muối → 塩を加えた／入れた; (2) vi khuẩn xâm nhập → 侵入して／入って; (4) vào đại học → 入学する."
+    },
+    {
+      "id": "g19-q8",
+      "kind": "context",
+      "ref": "g19-w60",
+      "q": "ダチョウの{羽|はね}は、{飛|と}ぶ{必要|ひつよう}がなくなって（　　）したと{考|かんが}えられている。",
+      "options": [
+        "進歩",
+        "改良",
+        "発達",
+        "退化"
+      ],
+      "answer": 3,
+      "vi": "Người ta cho rằng cánh của đà điểu đã thoái hoá vì không còn cần bay.",
+      "why": "Cơ quan **không dùng đến nên yếu đi** → **退化**. 進歩 và 発達 là theo hướng tốt lên — ngược nghĩa; 改良 cần con người chủ động cải tiến (品種を改良する), không dùng cho tiến hoá tự nhiên."
+    },
+    {
+      "id": "g19-q9",
+      "kind": "paraphrase",
+      "ref": "g19-w76",
+      "q": "ここまで{病気|びょうき}が{進|すす}んでしまっては、[[u:もはや]]{手術|しゅじゅつ}しても{治|なお}らないだろう。",
+      "options": [
+        "まだ",
+        "もう",
+        "やっと",
+        "いつか"
+      ],
+      "answer": 1,
+      "vi": "Bệnh đã tiến triển đến mức này thì giờ có phẫu thuật cũng không khỏi được nữa.",
+      "why": "もはや = tình hình đã qua ngưỡng ≒ **もう**. まだ = vẫn còn (ngược nghĩa); やっと = cuối cùng thì (sau chờ đợi); いつか = một lúc nào đó."
+    },
+    {
+      "id": "g19-q10",
+      "kind": "read",
+      "ref": "g19-w48",
+      "q": "{親|おや}から[[u:遺伝子]]を{受|う}け{継|つ}ぐので、{子|こ}は{親|おや}に{似|に}る。",
+      "options": [
+        "いてんし",
+        "ゆいでんし",
+        "いでんし",
+        "いでんじ"
+      ],
+      "answer": 2,
+      "vi": "Vì thừa hưởng gen từ bố mẹ nên con cái giống bố mẹ.",
+      "why": "遺伝子 = **いでんし** (伝 đục: でん; 子 = し). いてんし thiếu âm đục (いてん = 移転); ゆいでんし lấy âm ゆい của 遺言(ゆいごん) — sai; いでんじ sai âm cuối."
+    }
+  ],
+  "practice": [
+    {
+      "id": "g19-p1",
+      "kind": "read",
+      "ref": "g19-w16",
+      "q": "{今年|ことし}は{円安|えんやす}の{影響|えいきょう}で、{輸出|ゆしゅつ}{企業|きぎょう}の[[u:業績]]がよかった。",
+      "options": [
+        "ごうせき",
+        "ぎょうさい",
+        "ごうさい",
+        "ぎょうせき"
+      ],
+      "answer": 3,
+      "vi": "Năm nay do ảnh hưởng của đồng yên yếu, kết quả kinh doanh của các doanh nghiệp xuất khẩu tốt.",
+      "why": "業績 = **ぎょうせき** (業 = ぎょう như 授業, 績 = せき như 成績). ごう là âm hiếm của 業 (自業自得); さい là âm sai của 績."
+    },
+    {
+      "id": "g19-p2",
+      "kind": "read",
+      "ref": "g19-w63",
+      "q": "{夏休|なつやす}みの{宿題|しゅくだい}で、{昆虫|こんちゅう}の[[u:標本]]を{作|つく}った。",
+      "options": [
+        "ひょうほん",
+        "ひょほん",
+        "ひょうぼん",
+        "しょうほん"
+      ],
+      "answer": 0,
+      "vi": "Tôi đã làm tiêu bản côn trùng cho bài tập nghỉ hè.",
+      "why": "標本 = **ひょうほん** (標 kéo dài ひょう, 本 không đục). ひょほん thiếu trường âm; ひょうぼん đục sai; しょうほん đọc sai 標."
+    },
+    {
+      "id": "g19-p3",
+      "kind": "write",
+      "ref": "g19-w40",
+      "q": "{二年|にねん}に{一度|いちど}、エアコンのフィルターを[[u:こうかん]]している。",
+      "options": [
+        "交感",
+        "交換",
+        "公換",
+        "効換"
+      ],
+      "answer": 1,
+      "vi": "Cứ hai năm tôi thay lọc điều hoà một lần.",
+      "why": "こうかん (thay, đổi) = **交換** (換 = đổi, như 換気). 交感 là \"giao cảm\" (交感神経) — có thật nhưng nghĩa khác; 公 và 効 sai chữ đầu."
+    },
+    {
+      "id": "g19-p4",
+      "kind": "write",
+      "ref": "g19-w64",
+      "q": "{人|ひと}が{多|おお}く{集|あつ}まる{場所|ばしょ}では、ウイルスに[[u:かんせん]]しやすい。",
+      "options": [
+        "感線",
+        "汗染",
+        "感染",
+        "感洗"
+      ],
+      "answer": 2,
+      "vi": "Ở nơi đông người tụ tập thì dễ bị nhiễm virus.",
+      "why": "かんせん (lây nhiễm) = **感染** (染 = nhuộm, thấm, như 染める). 線 (đường), 洗 (rửa) giống phần bên trái hoặc cùng âm; 汗 (mồ hôi) giống bộ 氵 — đều sai."
+    },
+    {
+      "id": "g19-p5",
+      "kind": "context",
+      "ref": "g19-w32",
+      "q": "{夏|なつ}はエアコンを{一日中|いちにちじゅう}つけるので、{家庭|かてい}の{電気|でんき}の（　　）{量|りょう}が{増|ふ}える。",
+      "options": [
+        "生産",
+        "消費",
+        "普及",
+        "導入"
+      ],
+      "answer": 1,
+      "vi": "Mùa hè bật điều hoà cả ngày nên lượng điện tiêu thụ của các hộ gia đình tăng.",
+      "why": "Gia đình **dùng** điện → **消費量** (lượng tiêu thụ). 生産量 là lượng sản xuất — gia đình không sản xuất điện; 普及量・導入量 không phải từ dùng cho điện."
+    },
+    {
+      "id": "g19-p6",
+      "kind": "context",
+      "ref": "g19-w9",
+      "q": "この{人気|にんき}のおもちゃは、{小学生|しょうがくせい}の{自由|じゆう}な（　　）から{生|う}まれたそうだ。",
+      "options": [
+        "業績",
+        "性能",
+        "効率",
+        "発想"
+      ],
+      "answer": 3,
+      "vi": "Nghe nói món đồ chơi được ưa chuộng này ra đời từ ý tưởng tự do của một học sinh tiểu học.",
+      "why": "「自由な〜から生まれた」 → cách nghĩ, ý tưởng → **発想**. 業績 là thành tựu đã đạt được, không phải nguồn gốc ý tưởng; 性能・効率 là của máy móc / công việc, không \"tự do\"."
+    },
+    {
+      "id": "g19-p7",
+      "kind": "context",
+      "ref": "g19-w41",
+      "q": "サイズが{合|あ}わなかったので、{買|か}った{店|みせ}で（　　）して、{代金|だいきん}を{返|かえ}してもらった。",
+      "options": [
+        "返品",
+        "交換",
+        "点検",
+        "収集"
+      ],
+      "answer": 0,
+      "vi": "Vì không vừa cỡ nên tôi đã trả hàng ở cửa hàng đã mua và được hoàn lại tiền.",
+      "why": "Nhận lại **tiền** → **返品** (trả hàng). 交換 là đổi lấy món khác — không được trả tiền; 点検 là kiểm tra máy móc; 収集 là thu thập, sưu tầm."
+    },
+    {
+      "id": "g19-p8",
+      "kind": "context",
+      "ref": "g19-w24",
+      "q": "このビルのエレベーターは、{月|つき}に{一度|いちど}{専門|せんもん}の{業者|ぎょうしゃ}が（　　）している。",
+      "options": [
+        "組み立て",
+        "消費",
+        "点検",
+        "生産"
+      ],
+      "answer": 2,
+      "vi": "Thang máy của toà nhà này mỗi tháng được công ty chuyên môn kiểm tra một lần.",
+      "why": "Thiết bị đang dùng, định kỳ hàng tháng → **点検** (kiểm tra an toàn). 組み立て là lắp ráp (chỉ làm một lần lúc đầu); 消費 là tiêu thụ; 生産 là sản xuất — đều không hợp với 「月に一度」 cho thang máy có sẵn."
+    },
+    {
+      "id": "g19-p9",
+      "kind": "paraphrase",
+      "ref": "g19-w74",
+      "q": "{会議|かいぎ}では、{新|あたら}しいアイデアが[[u:次々に]]{出|で}された。",
+      "options": [
+        "ときどき",
+        "少しずつ",
+        "やっと",
+        "続けて"
+      ],
+      "answer": 3,
+      "vi": "Trong cuộc họp, các ý tưởng mới lần lượt được đưa ra liên tiếp.",
+      "why": "次々に = nhiều cái nối tiếp nhau ≒ **続けて**. ときどき = thỉnh thoảng (thưa); 少しずつ = từng chút một (chậm); やっと = cuối cùng thì — đều khác sắc thái \"liên tiếp, dồn dập\"."
+    },
+    {
+      "id": "g19-p10",
+      "kind": "paraphrase",
+      "ref": "g19-w75",
+      "q": "{初|はじ}めての{料理|りょうり}だったが、[[u:意外と]]うまくできた。",
+      "options": [
+        "やはり",
+        "思っていたより",
+        "予想どおり",
+        "とても"
+      ],
+      "answer": 1,
+      "vi": "Lần đầu nấu món đó, nhưng không ngờ làm khá ngon.",
+      "why": "意外と = khác với dự đoán ≒ **思っていたより**. やはり và 予想どおり = đúng như dự đoán — ngược nghĩa; とても chỉ là \"rất\", mất ý \"không ngờ\"."
+    },
+    {
+      "id": "g19-p11",
+      "kind": "formation",
+      "ref": "g19-w69",
+      "q": "（　　）{機能|きのう}の{炊飯器|すいはんき}は{便利|べんり}だが、{使|つか}い{方|かた}が{少|すこ}し{複雑|ふくざつ}だ。",
+      "options": [
+        "高",
+        "上",
+        "強",
+        "優"
+      ],
+      "answer": 0,
+      "vi": "Nồi cơm điện đa năng cao cấp thì tiện nhưng cách dùng hơi phức tạp.",
+      "why": "Tiền tố đúng là **高〜**: 高機能, 高性能, 高品質. 上機能・強機能・優機能 không phải từ (上〜 có trong 上半期, 強〜 trong 強風...)."
+    },
+    {
+      "id": "g19-p12",
+      "kind": "formation",
+      "ref": "g19-w56",
+      "q": "{新|あたら}しいワクチンの{安全|あんぜん}（　　）について、{専門家|せんもんか}が{説明|せつめい}した。",
+      "options": [
+        "的",
+        "者",
+        "性",
+        "力"
+      ],
+      "answer": 2,
+      "vi": "Các chuyên gia đã giải thích về độ an toàn của vắc-xin mới.",
+      "why": "Sau chỗ trống là 「について」 → cần danh từ \"tính chất\" → **安全性**. 安全的 không dùng (an toàn đã là な形); 安全者 không phải từ; 安全力 không tồn tại."
+    },
+    {
+      "id": "g19-p13",
+      "kind": "usage",
+      "ref": "g19-w43",
+      "q": "{発達|はったつ}",
+      "options": [
+        "毎日練習したので、彼女はピアノがずいぶん発達した。",
+        "その会社は十年かけて新しい薬を発達した。",
+        "給料が発達したので、新しい車を買った。",
+        "鉄道網が発達して、地方の町にも行きやすくなった。"
+      ],
+      "answer": 3,
+      "vi": "(4) Mạng lưới đường sắt phát triển nên đi đến các thị trấn ở địa phương cũng dễ hơn.",
+      "why": "発達 = thứ **tự lớn dần, hoàn thiện dần** (giao thông, mạng lưới) → (4) đúng. (1) kỹ năng cá nhân → 上達した; (2) làm ra thuốc mới → 開発した (発達 là tự động từ, không có を); (3) lương tăng → 上がった."
+    },
+    {
+      "id": "g19-p14",
+      "kind": "usage",
+      "ref": "g19-w13",
+      "q": "{費|つい}やす",
+      "options": [
+        "彼は論文を完成させるのに三年を費やした。",
+        "毎朝、牛乳を一本費やしている。",
+        "ダイエットをして、体重を五キロ費やした。",
+        "使わなくなった古い家具を費やした。"
+      ],
+      "answer": 0,
+      "vi": "(1) Anh ấy đã bỏ ra ba năm để hoàn thành luận văn.",
+      "why": "費やす = bỏ ra **một lượng lớn thời gian / tiền / công sức** cho việc gì → (1) đúng. (2) uống sữa → 飲んでいる; (3) giảm cân → 減らした; (4) vứt bỏ đồ cũ → 処分した／捨てた."
+    }
+  ],
+  "test": [
+    {
+      "id": "g19-t1",
+      "kind": "read",
+      "ref": "g19-w61",
+      "q": "{記事|きじ}を{書|か}く{前|まえ}に、まず{必要|ひつよう}な{情報|じょうほう}を[[u:収集]]する。",
+      "options": [
+        "しゅうじゅう",
+        "しゅしゅう",
+        "しゅうしゅう",
+        "しゅうしょう"
+      ],
+      "answer": 2,
+      "vi": "Trước khi viết bài, trước hết tôi thu thập thông tin cần thiết.",
+      "why": "収集 = **しゅうしゅう** (収 = しゅう như 収入, 集 = しゅう như 集合). しゅうじゅう đục sai; しゅしゅう thiếu trường âm; しゅうしょう đọc sai 集."
+    },
+    {
+      "id": "g19-t2",
+      "kind": "read",
+      "ref": "g19-w51",
+      "q": "{雨|あめ}が{降|ふ}らない{日|ひ}が{続|つづ}き、{畑|はたけ}の[[u:作物]]が{枯|か}れてしまった。",
+      "options": [
+        "さくもつ",
+        "さくぶつ",
+        "さくもの",
+        "さぎもつ"
+      ],
+      "answer": 0,
+      "vi": "Nhiều ngày liền không mưa nên hoa màu ngoài ruộng đã chết khô.",
+      "why": "作物 = **さくもつ** (物 đọc もつ như 荷物・貨物). さくぶつ lấy âm ぶつ (như 動物) — sai ở từ này; さくもの dùng âm 訓 — sai; さぎもつ trộn với 作業(さぎょう)."
+    },
+    {
+      "id": "g19-t3",
+      "kind": "write",
+      "ref": "g19-w23",
+      "q": "この{病院|びょういん}は{建物|たてもの}は{古|ふる}いが、{医療|いりょう}[[u:せつび]]は{最新|さいしん}のものだ。",
+      "options": [
+        "説備",
+        "設美",
+        "接備",
+        "設備"
+      ],
+      "answer": 3,
+      "vi": "Bệnh viện này toà nhà cũ nhưng trang thiết bị y tế thì mới nhất.",
+      "why": "せつび = **設備** (設 = thiết lập, 備 = chuẩn bị, trang bị). 説 (thuyết) và 接 (tiếp) cùng âm せつ nhưng sai; 美 (mỹ) sai chữ sau."
+    },
+    {
+      "id": "g19-t4",
+      "kind": "write",
+      "ref": "g19-w39",
+      "q": "{工場|こうじょう}では、[[u:ふりょうひん]]が{出|で}ないように{何度|なんど}も{検査|けんさ}をしている。",
+      "options": [
+        "不量品",
+        "不良品",
+        "負良品",
+        "不料品"
+      ],
+      "answer": 1,
+      "vi": "Ở nhà máy, người ta kiểm tra nhiều lần để không có hàng lỗi.",
+      "why": "ふりょうひん = **不良品** (不良 = không tốt). 量 (lượng) và 料 (liệu) cùng âm りょう nhưng sai nghĩa; 負 (phụ, thua) sai chữ đầu."
+    },
+    {
+      "id": "g19-t5",
+      "kind": "context",
+      "ref": "g19-w49",
+      "q": "{祖父|そふ}が{始|はじ}めたそば{屋|や}を{父|ちち}が（　　）、{今|いま}は{私|わたし}が{三代目|さんだいめ}として{店|みせ}に{立|た}っている。",
+      "options": [
+        "受け入れ",
+        "取り入れ",
+        "受け継ぎ",
+        "生み出し"
+      ],
+      "answer": 2,
+      "vi": "Bố tôi đã kế thừa quán soba do ông tôi mở, giờ tôi là đời thứ ba đứng quán.",
+      "why": "Nhận lại từ **thế hệ trước** và tiếp tục → **受け継ぐ**. 受け入れる = chấp nhận, tiếp nhận (ý kiến, người); 取り入れる = tiếp thu, áp dụng (cái mới từ ngoài); 生み出す = tạo ra cái mới — không hợp với quán ông đã mở."
+    },
+    {
+      "id": "g19-t6",
+      "kind": "context",
+      "ref": "g19-w28",
+      "q": "{作業|さぎょう}の{手順|てじゅん}を{見直|みなお}したら、（　　）が{上|あ}がって{残業|ざんぎょう}がほとんどなくなった。",
+      "options": [
+        "効率",
+        "手間",
+        "年月",
+        "業績"
+      ],
+      "answer": 0,
+      "vi": "Xem lại quy trình làm việc thì hiệu suất tăng, gần như không còn làm thêm giờ.",
+      "why": "Cải tiến quy trình → làm nhanh hơn, ít tốn sức → **効率が上がる**. 手間 đi với かかる／省く (手間が上がる không nói); 年月 là năm tháng; 業績が上がる là kết quả kinh doanh tăng — không trực tiếp dẫn tới \"hết làm thêm giờ\"."
+    },
+    {
+      "id": "g19-t7",
+      "kind": "paraphrase",
+      "ref": "g19-w45",
+      "q": "この{地域|ちいき}では、{太陽光|たいようこう}{発電|はつでん}が[[u:普及している]]。",
+      "options": [
+        "研究されている",
+        "禁止されている",
+        "発明されたばかりだ",
+        "広く使われている"
+      ],
+      "answer": 3,
+      "vi": "Ở khu vực này, điện mặt trời đang được dùng phổ biến.",
+      "why": "普及している = đã lan rộng, nhiều người dùng → **広く使われている**. 研究されている = còn đang nghiên cứu; 禁止されている = bị cấm (ngược ý); 発明されたばかり = vừa mới phát minh, chưa phổ biến."
+    },
+    {
+      "id": "g19-t8",
+      "kind": "paraphrase",
+      "ref": "g19-w77",
+      "q": "{家電|かでん}{製品|せいひん}は、[[u:ますます]]{使|つか}いやすくなっている。",
+      "options": [
+        "すでに",
+        "いっそう",
+        "少しは",
+        "わりと"
+      ],
+      "answer": 1,
+      "vi": "Đồ điện gia dụng ngày càng dễ sử dụng hơn.",
+      "why": "ますます = mức độ ngày càng tăng ≒ **いっそう**. すでに = đã (rồi) — không có ý tăng dần; 少しは = ít nhiều; わりと = tương đối — đều mất nghĩa \"càng ngày càng\"."
+    },
+    {
+      "id": "g19-t9",
+      "kind": "formation",
+      "ref": "g19-w31",
+      "q": "{通販|つうはん}で{買|か}った{机|つくえ}は、{自分|じぶん}で（　　）{立|た}てなければならない。",
+      "options": [
+        "取り",
+        "打ち",
+        "組み",
+        "引き"
+      ],
+      "answer": 2,
+      "vi": "Cái bàn mua qua mạng phải tự mình lắp ráp.",
+      "why": "Lắp ráp đồ nội thất → **組み立てる**. 取り立てる = đòi nợ, thu (tiền); 打ち立てる = lập (kỷ lục, lý thuyết); 引き立てる = làm nổi bật, nâng đỡ."
+    },
+    {
+      "id": "g19-t10",
+      "kind": "usage",
+      "ref": "g19-w29",
+      "q": "{手間|てま}",
+      "options": [
+        "駅まで歩くと手間がかかるので、バスに乗ろう。",
+        "重い荷物を持ったので、手間が痛くなった。",
+        "彼は手間を振りながら、駅のほうへ歩いていった。",
+        "この料理は手間がかかるが、家族が喜ぶのでよく作る。"
+      ],
+      "answer": 3,
+      "vi": "(4) Món này tốn công nhưng cả nhà thích nên tôi hay nấu.",
+      "why": "手間 = **công sức, công đoạn** bỏ ra để làm việc gì → (4) đúng. (1) quãng đường đi bộ tốn → 時間がかかる; (2) đau tay → 手首／腕が痛い; (3) vẫy tay → 手を振る."
+    },
+    {
+      "id": "g19-t11",
+      "kind": "usage",
+      "ref": "g19-w54",
+      "q": "{改良|かいりょう}",
+      "options": [
+        "エンジンを改良して、燃費を二割よくした。",
+        "薬を飲んで寝たら、病気がすっかり改良した。",
+        "話し合いのおかげで、二人の関係が改良した。",
+        "雨がやんで、午後から天気が改良した。"
+      ],
+      "answer": 0,
+      "vi": "(1) Cải tiến động cơ, hiệu suất nhiên liệu đã tốt lên hai mươi phần trăm.",
+      "why": "改良 = con người **sửa một vật cụ thể** (máy, sản phẩm, giống) cho tốt hơn → (1) đúng. (2) khỏi bệnh → 治った／回復した; (3) quan hệ tốt lên → 改善した／よくなった; (4) trời đẹp lại → 回復した."
+    }
+  ]
+}

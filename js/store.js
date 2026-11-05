@@ -26,6 +26,7 @@ const DEFAULTS = () => ({
   gcards: {},    // mã mẫu ngữ pháp -> thẻ SRS (như srs, thêm u)
   notes: {},     // qid -> text
   inProgress: {},// sessionId -> session
+  study: {},     // học N2: activityId -> {done, c, n, best, at, wrong, u}
   daily: {},     // 'YYYY-MM-DD' -> {answered, correct, secs, by: {deviceId: {a, c, s}}}
   meta: normMeta(), // epoch, del ('coll/id' -> lúc xoá), noteAt (qid -> lúc sửa), settingsAt
 });
@@ -187,6 +188,26 @@ export function addHistory(entry) {
 export function getHistory(id) { return state.history.find(h => h.id === id) || null; }
 export function deleteHistory(id) { state.history = state.history.filter(h => h.id !== id); tomb('history', id); commit(); }
 
+/* ----- học N2 (lộ trình 新完全マスター) ----- */
+export const studyOf = (id) => state.study[id] || null;
+export const studyAll = () => state.study;
+/** Ghi kết quả một buổi học / luyện / kiểm tra. result: {c, n, wrong} (bỏ trống = chỉ đánh dấu đã học). */
+export function setStudy(id, result = {}) {
+  const now = Date.now();
+  const prev = state.study[id] || {};
+  const next = { ...prev, done: 1, at: now, u: now };
+  if (result.n) {
+    next.c = result.c; next.n = result.n; next.wrong = result.wrong || [];
+    const p = result.c / result.n;
+    if (!prev.best || p >= prev.best) next.best = Math.round(p * 1000) / 1000;
+    next.tries = (prev.tries || 0) + 1;
+  }
+  state.study[id] = next;
+  commit();
+  return next;
+}
+export function clearStudy(id) { delete state.study[id]; tomb('study', id); commit(); }
+
 /* ----- aggregates ----- */
 export function streak() {
   let n = 0; let day = startOfDay();
@@ -254,6 +275,7 @@ export function summarize(obj) {
     gcards: n(obj.gcards),
     notes: n(obj.notes),
     tests: (obj.history || []).length,
+    study: n(obj.study),
     days: Object.values(obj.daily || {}).filter(d => d && d.answered > 0).length,
     exportedAt: obj.exportedAt || 0,
   };

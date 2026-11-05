@@ -1,0 +1,1240 @@
+{
+  "id": "g23",
+  "track": "goi",
+  "intro": "Bài 2 của chương \"từ nhiều nghĩa\" tiếp tục với 15 động từ: 積む, 解く, 溶く, 捕らえる・とらえる, 握る, にらむ, 跳ねる, はまる, 膨らむ, ふさがる, ぶつかる, 振る, 触れる, 招く, 寄せる.\n\nPhần lớn là động từ chỉ **động tác của tay hoặc va chạm vật lý** (chất đồ, cởi dây, nắm, vẫy, chạm, đâm vào…). Từ hình ảnh cụ thể đó, tiếng Nhật mở rộng sang rất nhiều nghĩa trừu tượng mà đề N2 hay hỏi:\n- 経験を積む (tích luỹ kinh nghiệm), 誤解を解く (giải toả hiểu lầm), 心をとらえる (thu hút lòng người), 実権を握る (nắm quyền),\n- 犯人とにらむ (nghi là thủ phạm), ゲームにはまる (nghiện game), 期待が膨らむ (kỳ vọng lớn dần), 予定がふさがる (lịch kín),\n- 壁にぶつかる (gặp bế tắc), 恋人に振られる (bị người yêu đá), 法律に触れる (vi phạm pháp luật), 誤解を招く (gây hiểu lầm), 関心を寄せる (dành sự quan tâm).\n\nCách học: nhớ **hình ảnh gốc** của từng động từ (ghi trong phần ghi chú và mục \"Điểm cần chú ý\"), học theo **cụm danh từ + trợ từ + động từ**, và để ý các cặp **tự / tha động từ** (積む／積もる, ふさがる／ふさぐ, はまる／はめる, ぶつかる／ぶつける…) cũng như các nghĩa thường ở **bị động** (車にはねられる, 恋人に振られる, 意見が寄せられる).",
+  "sections": [
+    {
+      "title": "積む〜はまる",
+      "title_vi": "Nhóm 1: 積む・解く・溶く・捕らえる・握る・にらむ・跳ねる・はまる",
+      "words": [
+        {
+          "id": "g23-w1",
+          "w": "積む",
+          "r": "つむ",
+          "hv": "TÍCH",
+          "pos": "他動",
+          "vi": "chất, xếp chồng; chất (hàng) lên xe, tàu; tích luỹ (kinh nghiệm, luyện tập)",
+          "key": true,
+          "senses": [
+            {
+              "vi": "chất đống, xếp chồng lên nhau — 箱・本・木材・野菜を積む",
+              "ex": {
+                "ja": "{倉庫|そうこ}には{段|だん}ボール{箱|ばこ}が{天井|てんじょう}まで{積|つ}まれている。",
+                "vi": "Trong kho, thùng các-tông được chất cao đến tận trần."
+              }
+            },
+            {
+              "vi": "chất (hàng) lên phương tiện — 〔荷物〕を車・トラック・船・自転車に積む",
+              "ex": {
+                "ja": "{旅行|りょこう}の{荷物|にもつ}を{車|くるま}のトランクに{積|つ}んで、{朝|あさ}{早|はや}く{出発|しゅっぱつ}した。",
+                "vi": "Chất hành lý du lịch vào cốp xe rồi xuất phát từ sáng sớm."
+              }
+            },
+            {
+              "vi": "tích luỹ, tích góp (kinh nghiệm, luyện tập, rèn luyện) — 経験・練習・トレーニング・修業を積む",
+              "ex": {
+                "ja": "{彼|かれ}は{地方|ちほう}の{病院|びょういん}で{経験|けいけん}を{積|つ}んでから、{大学|だいがく}{病院|びょういん}に{移|うつ}った。",
+                "vi": "Anh ấy tích luỹ kinh nghiệm ở bệnh viện địa phương rồi mới chuyển lên bệnh viện đại học."
+              }
+            }
+          ],
+          "col": [
+            "箱を積む",
+            "荷物を積む",
+            "トラックに積む",
+            "経験を積む",
+            "練習を積む",
+            "積み重ねる"
+          ],
+          "rel": "自動: 積もる (雪が積もる)",
+          "note": "**Hình ảnh gốc: đặt thứ này chồng lên thứ kia, từng lớp một.** Chồng đồ → chất đồ lên xe → chồng kinh nghiệm qua năm tháng.\n- Phân biệt: 積む (tha, người làm) ↔ 積もる (tự, tuyết / bụi tự đọng lại: {雪|ゆき}が積もる, ほこりが積もる).\n- 積み重ねる = chồng chất, tích luỹ dần (努力を積み重ねる).\n- 積む dùng cho **đồ vật, hàng hoá**; cho **người** lên xe là 乗せる (✗ 車に友達を積む → ○ 車に友達を乗せる)."
+        },
+        {
+          "id": "g23-w2",
+          "w": "解く",
+          "r": "とく",
+          "hv": "GIẢI",
+          "pos": "他動",
+          "vi": "cởi, tháo (dây, gói); giải (bài, câu đố); xoá bỏ, giải toả (hiểu lầm, nghi ngờ, căng thẳng)",
+          "key": true,
+          "senses": [
+            {
+              "vi": "cởi, tháo (thứ đang buộc, đang gói) — ひも・縄・包み・荷物・帯・包帯を解く",
+              "ex": {
+                "ja": "{誕生日|たんじょうび}プレゼントのリボンを、{娘|むすめ}はわくわくしながら{解|と}いた。",
+                "vi": "Con gái tôi háo hức tháo dải ruy băng của món quà sinh nhật."
+              }
+            },
+            {
+              "vi": "giải (bài toán, câu đố, bí ẩn) — 問題・なぞ・パズルを解く",
+              "ex": {
+                "ja": "{名探偵|めいたんてい}が{最後|さいご}に{事件|じけん}のなぞを{解|と}く{場面|ばめん}が{好|す}きだ。",
+                "vi": "Tôi thích cảnh vị thám tử lừng danh cuối cùng giải được bí ẩn vụ án."
+              }
+            },
+            {
+              "vi": "xoá bỏ, giải toả (hiểu lầm, nghi ngờ, căng thẳng, cảnh giác) — 誤解・疑い・緊張・警戒を解く",
+              "ex": {
+                "ja": "{面接官|めんせつかん}の{冗談|じょうだん}が、{私|わたし}の{緊張|きんちょう}を{解|と}いてくれた。",
+                "vi": "Câu đùa của người phỏng vấn đã giúp tôi hết căng thẳng."
+              }
+            }
+          ],
+          "col": [
+            "ひもを解く",
+            "荷物を解く",
+            "問題を解く",
+            "なぞを解く",
+            "誤解を解く",
+            "緊張を解く"
+          ],
+          "rel": "自動: 解ける (問題が解ける・誤解が解ける)　cf. 溶く",
+          "note": "**Hình ảnh gốc: gỡ cái đang bị buộc chặt, rối, đóng kín cho nó mở ra.** Gỡ nút dây → gỡ \"nút thắt\" của bài toán → gỡ khối hiểu lầm, căng thẳng trong lòng.\n- Âm Hán: カイ (解決, 理解).\n- Đồng âm khác chữ: 溶く (hoà tan — xem từ sau), 説く (とく, thuyết giảng)."
+        },
+        {
+          "id": "g23-w3",
+          "w": "溶く",
+          "r": "とく",
+          "hv": "DUNG",
+          "pos": "他動",
+          "vi": "hoà, đánh tan (bột, trứng, sơn… với chất lỏng)",
+          "key": true,
+          "ex": {
+            "ja": "{卵|たまご}をよく{溶|と}いてから、フライパンに{流|なが}し{入|い}れる。",
+            "vi": "Đánh tan trứng thật kỹ rồi đổ vào chảo."
+          },
+          "col": [
+            "卵を溶く",
+            "小麦粉を水で溶く",
+            "絵の具を溶く",
+            "みそを溶く"
+          ],
+          "rel": "自動: 溶ける　cf. 溶かす・解く",
+          "note": "**Hình ảnh: cho bột / chất đặc vào chất lỏng rồi khuấy cho hoà đều.** Sách xếp chung với 解く vì cùng âm とく.\n- So sánh: 溶く nhấn vào việc **khuấy trộn thành hỗn hợp lỏng** (bột, trứng, sơn, miso); 溶かす = **làm tan chảy** (鉄を溶かす, バターを溶かす).\n- Đá tự tan là 溶ける (tự động từ), không phải 溶く."
+        },
+        {
+          "id": "g23-w4",
+          "w": "捕らえる・とらえる",
+          "r": "とらえる",
+          "hv": "BỘ",
+          "pos": "他動",
+          "vi": "bắt (người, con vật); thu hút (lòng người); nắm bắt (đặc điểm, sự thay đổi); nhìn nhận (A là B)",
+          "key": true,
+          "senses": [
+            {
+              "vi": "bắt, tóm (kẻ chạy trốn, con vật) — 犯人・魚・小鳥を捕らえる",
+              "ex": {
+                "ja": "{逃|に}げ{出|だ}したサルは、{三日|みっか}{後|ご}に{動物園|どうぶつえん}の{職員|しょくいん}に{捕|と}らえられた。",
+                "vi": "Con khỉ trốn ra ngoài đã bị nhân viên sở thú bắt lại sau ba ngày."
+              }
+            },
+            {
+              "vi": "thu hút, níu giữ (lòng người) — 心をとらえる",
+              "ex": {
+                "ja": "{彼|かれ}の{素直|すなお}な{歌詞|かし}は、{多|おお}くの{十代|じゅうだい}の{心|こころ}をとらえた。",
+                "vi": "Lời bài hát chân thành của anh ấy đã chinh phục trái tim rất nhiều bạn tuổi teen."
+              }
+            },
+            {
+              "vi": "nắm bắt chính xác (đặc điểm, sự thay đổi, tình hình, ý nghĩa) — 特徴・変化・状況・意味をとらえる",
+              "ex": {
+                "ja": "{市場|しじょう}の{変化|へんか}を{素早|すばや}くとらえた{企業|きぎょう}が{生|い}き{残|のこ}る。",
+                "vi": "Doanh nghiệp nắm bắt nhanh sự thay đổi của thị trường mới là doanh nghiệp tồn tại."
+              }
+            },
+            {
+              "vi": "nhìn nhận, coi (A) là (B) — AをBととらえる",
+              "ex": {
+                "ja": "{彼女|かのじょ}は{転勤|てんきん}を、{新|あたら}しいことを{学|まな}ぶいい{機会|きかい}ととらえている。",
+                "vi": "Cô ấy coi việc chuyển công tác là cơ hội tốt để học điều mới."
+              }
+            }
+          ],
+          "col": [
+            "犯人を捕らえる",
+            "心をとらえる",
+            "特徴をとらえる",
+            "変化をとらえる",
+            "チャンスととらえる"
+          ],
+          "rel": "≒ 捕まえる（1）　≒ 受け止める・考える（4）",
+          "note": "**Hình ảnh gốc: tóm lấy và giữ chặt thứ đang chuyển động, dễ vuột mất.** Bắt kẻ chạy trốn → \"bắt\" trái tim người xem → bắt được đặc điểm, sự thay đổi đang trôi qua → \"bắt\" sự việc theo một cách hiểu nhất định.\n- Nghĩa (1) viết 捕らえる; nghĩa trừu tượng (2)–(4) thường viết hiragana とらえる (hoặc 捉える).\n- Văn nói thường dùng 捕まえる cho nghĩa (1)."
+        },
+        {
+          "id": "g23-w5",
+          "w": "握る",
+          "r": "にぎる",
+          "hv": "ÁC",
+          "pos": "他動",
+          "vi": "nắm, siết (trong tay); cầm (dụng cụ, tay lái); nắm (quyền, tiền, yếu tố then chốt); nắm (bí mật, điểm yếu của ai)",
+          "key": true,
+          "senses": [
+            {
+              "vi": "nắm chặt trong lòng bàn tay — 手・手首・ロープ・つり革を握る",
+              "ex": {
+                "ja": "{電車|でんしゃ}が{揺|ゆ}れるので、つり{革|かわ}をしっかり{握|にぎ}った。",
+                "vi": "Tàu rung lắc nên tôi nắm chặt tay vịn."
+              }
+            },
+            {
+              "vi": "cầm (dụng cụ để sử dụng), cầm lái — ハンドル・マイク・ペン・包丁を握る",
+              "ex": {
+                "ja": "{父|ちち}は{普段|ふだん}{無口|むくち}だが、マイクを{握|にぎ}ると{何曲|なんきょく}も{歌|うた}う。",
+                "vi": "Bố tôi bình thường ít nói, nhưng cầm micro lên là hát liền mấy bài."
+              }
+            },
+            {
+              "vi": "nắm (quyền lực, tiền bạc, yếu tố then chốt) — 権力・実権・財布・かぎを握る",
+              "ex": {
+                "ja": "{事件|じけん}の{解決|かいけつ}のかぎを{握|にぎ}っているのは、{一人|ひとり}の{目撃者|もくげきしゃ}だ。",
+                "vi": "Người nắm chìa khoá để phá vụ án là một nhân chứng."
+              }
+            },
+            {
+              "vi": "nắm được (bí mật, điểm yếu, chứng cứ của người khác) — 弱み・秘密・証拠を握る",
+              "ex": {
+                "ja": "{記者|きしゃ}は{大臣|だいじん}の{不正|ふせい}の{証拠|しょうこ}を{握|にぎ}っているらしい。",
+                "vi": "Hình như nhà báo đang nắm trong tay bằng chứng sai phạm của bộ trưởng."
+              }
+            }
+          ],
+          "col": [
+            "手を握る",
+            "ハンドルを握る",
+            "権力を握る",
+            "財布を握る",
+            "かぎを握る",
+            "弱みを握る"
+          ],
+          "rel": "名: おにぎり (cơm nắm)",
+          "note": "**Hình ảnh gốc: khép các ngón tay lại, giữ chặt thứ gì đó trong lòng bàn tay.** Nắm vật → cầm dụng cụ để điều khiển → nắm quyền \"điều khiển\" (tiền, quyền lực) → nắm điểm yếu để khống chế người khác.\n- 財布を握る = nắm quyền chi tiêu trong nhà; 〜のかぎを握る = nắm yếu tố then chốt.\n- Đeo găng tay là 手袋を**はめる**, đeo kính là 眼鏡を**かける** — không dùng 握る.\n- Bắt tội phạm là 捕らえる／捕まえる, nắm bắt đặc điểm là とらえる — không dùng 握る (✗ 犯人が警官に握られた)."
+        },
+        {
+          "id": "g23-w6",
+          "w": "にらむ",
+          "r": "にらむ",
+          "hv": "",
+          "pos": "他動",
+          "vi": "lườm, trừng mắt; nhìn chằm chằm, xem xét kỹ; đoán chừng, nghi (là)",
+          "key": true,
+          "senses": [
+            {
+              "vi": "lườm, trừng mắt nhìn (vì giận) — 〔人〕・こっちをにらむ",
+              "ex": {
+                "ja": "{電車|でんしゃ}の{中|なか}で{大声|おおごえ}で{話|はな}していたら、{隣|となり}の{人|ひと}ににらまれた。",
+                "vi": "Nói to trên tàu nên tôi bị người bên cạnh lườm."
+              }
+            },
+            {
+              "vi": "nhìn chằm chằm, xem xét kỹ (để suy nghĩ, phán đoán) — データ・書類・試験問題・鏡・盤をにらむ",
+              "ex": {
+                "ja": "{将棋|しょうぎ}の{名人|めいじん}は、{盤|ばん}をにらんだまま{一時間|いちじかん}も{動|うご}かなかった。",
+                "vi": "Kỳ thủ shogi nhìn chằm chằm vào bàn cờ suốt một tiếng không nhúc nhích."
+              }
+            },
+            {
+              "vi": "đoán chừng, nghi (ai là thủ phạm, việc gì sẽ xảy ra) — AをBとにらむ／〜とにらんでいる",
+              "ex": {
+                "ja": "{専門家|せんもんか}は、{来年|らいねん}には{景気|けいき}が{回復|かいふく}するとにらんでいる。",
+                "vi": "Giới chuyên gia đoán rằng sang năm kinh tế sẽ hồi phục."
+              }
+            }
+          ],
+          "col": [
+            "相手をにらむ",
+            "データをにらむ",
+            "犯人とにらむ",
+            "〜とにらんでいる"
+          ],
+          "rel": "≒ 見当をつける・推測する（3）",
+          "note": "**Hình ảnh gốc: nhìn chằm chằm, sắc lạnh vào một điểm.** Ánh mắt giận dữ (1) → ánh mắt tập trung soi xét (2) → \"nhìn thấu\" mà đi đến phán đoán (3).\n- Nghĩa (3) hay gặp trong tin tức: {警察|けいさつ}は〜を{犯人|はんにん}とにらんで{捜査|そうさ}している.\n- Kanji 睨む ít dùng, thường viết hiragana."
+        },
+        {
+          "id": "g23-w7",
+          "w": "跳ねる",
+          "r": "はねる",
+          "hv": "KHIÊU",
+          "pos": "自動",
+          "vi": "nhảy, nảy lên; (nước, bùn, dầu) bắn tóe; (tóc) vểnh lên; (はねる) xe đâm phải người",
+          "key": true,
+          "senses": [
+            {
+              "vi": "nhảy, bật lên, nảy (con vật, bóng) — ウサギ・魚・カエル・ボールが跳ねる",
+              "ex": {
+                "ja": "{雨上|あめあ}がりの{田|た}んぼで、カエルがぴょんぴょん{跳|は}ねている。",
+                "vi": "Trên ruộng sau cơn mưa, ếch nhảy tưng tưng."
+              }
+            },
+            {
+              "vi": "bắn tóe ra (chất lỏng) — 泥・油・水がはねる",
+              "ex": {
+                "ja": "{天|てん}ぷらを{揚|あ}げていたら、{油|あぶら}がはねて{手|て}にやけどをした。",
+                "vi": "Đang chiên tempura thì dầu bắn lên làm tôi bị bỏng tay."
+              }
+            },
+            {
+              "vi": "(tóc, râu) vểnh lên, chĩa ra — 髪・ひげがはねる",
+              "ex": {
+                "ja": "{寝|ね}ぐせで{後|うし}ろの{髪|かみ}がはねていて、なかなか{直|なお}らない。",
+                "vi": "Tóc phía sau vểnh lên vì nằm ngủ, mãi không vào nếp."
+              }
+            },
+            {
+              "vi": "(xe) tông, đâm phải (người, con vật) — 〔人・動物〕が車にはねられる (chữ: 撥ねる, tha động từ)",
+              "ex": {
+                "ja": "{夜道|よみち}に{飛|と}び{出|だ}した{犬|いぬ}が、バイクにはねられてしまった。",
+                "vi": "Con chó lao ra đường tối đã bị xe máy tông phải."
+              }
+            }
+          ],
+          "col": [
+            "魚が跳ねる",
+            "ボールが跳ねる",
+            "泥がはねる",
+            "油がはねる",
+            "髪がはねる",
+            "車にはねられる"
+          ],
+          "rel": "cf. 跳ぶ (nhảy)",
+          "note": "**Hình ảnh gốc: bật mạnh lên / văng ra khỏi chỗ cũ.** Con vật bật lên → giọt nước, bùn văng lên → sợi tóc bật ra khỏi nếp → xe \"hất văng\" người.\n- Nghĩa (4) viết 撥ねる (tha động từ: 車が人をはねる) và gần như luôn ở **bị động** trong tin tai nạn: 〔人〕が車にはねられる.\n- Hai xe va nhau là ぶつかる; xe đâm người đi bộ là はねる.\n- Nghĩa (2)–(4) thường viết hiragana."
+        },
+        {
+          "id": "g23-w8",
+          "w": "はまる",
+          "r": "はまる",
+          "hv": "",
+          "pos": "自動",
+          "vi": "vừa khít, lọt vào (chỗ); sa vào, mắc kẹt (bẫy, tắc đường); mê, nghiện; rập khuôn (型にはまる)",
+          "key": true,
+          "senses": [
+            {
+              "vi": "vừa khít, lắp vừa vào (chỗ trống) — ボタン・指輪・ふた・ねじ・ピースがはまる",
+              "ex": {
+                "ja": "{最後|さいご}のピースがぴったりはまって、パズルが{完成|かんせい}した。",
+                "vi": "Mảnh ghép cuối cùng vừa khít vào chỗ, bức tranh ghép đã hoàn thành."
+              }
+            },
+            {
+              "vi": "rơi vào, sa vào (chỗ khó thoát) — 渋滞・わな・溝・深みにはまる",
+              "ex": {
+                "ja": "{雪道|ゆきみち}でタイヤが{溝|みぞ}にはまって、{車|くるま}が{動|うご}かなくなった。",
+                "vi": "Trên đường tuyết, bánh xe sa xuống rãnh làm xe không chạy được nữa."
+              }
+            },
+            {
+              "vi": "mê mẩn, nghiện (một sở thích) — ゲーム・ドラマ・映画・〜にはまる",
+              "ex": {
+                "ja": "{最近|さいきん}、{韓国|かんこく}ドラマにはまっていて、{毎晩|まいばん}{見|み}てしまう。",
+                "vi": "Dạo này tôi nghiện phim Hàn, tối nào cũng xem."
+              }
+            },
+            {
+              "vi": "rập khuôn, theo lối mòn — 型・パターンにはまる (型にはまった〜)",
+              "ex": {
+                "ja": "{型|かた}にはまった{挨拶|あいさつ}より、{自分|じぶん}の{言葉|ことば}で{話|はな}したほうが{気持|きも}ちが{伝|つた}わる。",
+                "vi": "Nói bằng lời của chính mình sẽ truyền tải được tình cảm hơn là những lời chào rập khuôn."
+              }
+            }
+          ],
+          "col": [
+            "ふたがはまる",
+            "渋滞にはまる",
+            "わなにはまる",
+            "ゲームにはまる",
+            "型にはまる"
+          ],
+          "rel": "他動: はめる (指輪をはめる・手袋をはめる)",
+          "note": "**Hình ảnh gốc: lọt khít vào một chỗ lõm, rồi khó ra lại.** Lọt vừa chỗ (1) → lọt vào chỗ khó thoát (2) → lọt vào sở thích không dứt ra được (3) → lọt vào khuôn có sẵn (4).\n- Nghĩa (3) là văn nói, rất phổ biến.\n- 型にはまる mang nghĩa chê (thiếu sáng tạo).\n- Tha động từ はめる: 指輪をはめる (đeo nhẫn), 手袋をはめる (đeo găng tay)."
+        }
+      ]
+    },
+    {
+      "title": "膨らむ〜寄せる",
+      "title_vi": "Nhóm 2: 膨らむ・ふさがる・ぶつかる・振る・触れる・招く・寄せる",
+      "words": [
+        {
+          "id": "g23-w9",
+          "w": "膨らむ",
+          "r": "ふくらむ",
+          "hv": "BÀNH",
+          "pos": "自動",
+          "vi": "phồng lên, căng ra; (kỳ vọng, tưởng tượng) lớn dần; (chi phí, nợ) phình ra",
+          "key": true,
+          "senses": [
+            {
+              "vi": "phồng, căng lên (thể tích to ra) — 風船・パン・おなか・財布・つぼみが膨らむ",
+              "ex": {
+                "ja": "オーブンの{中|なか}で、パンの{生地|きじ}が{少|すこ}しずつ{膨|ふく}らんできた。",
+                "vi": "Trong lò nướng, bột bánh mì đang phồng lên từng chút."
+              }
+            },
+            {
+              "vi": "(kỳ vọng, ước mơ, tưởng tượng) lớn dần, tràn đầy — 期待・夢・想像・イメージが膨らむ",
+              "ex": {
+                "ja": "{初|はじ}めての{海外|かいがい}{旅行|りょこう}を{前|まえ}に、{期待|きたい}で{胸|むね}が{膨|ふく}らむ。",
+                "vi": "Trước chuyến đi nước ngoài đầu tiên, lòng tôi tràn đầy háo hức."
+              }
+            },
+            {
+              "vi": "(tiền, chi phí, nợ) tăng phình lên (vượt dự kiến) — 予算・費用・借金・赤字が膨らむ",
+              "ex": {
+                "ja": "{工事|こうじ}が{遅|おく}れたため、{建設|けんせつ}{費用|ひよう}が{当初|とうしょ}の{倍|ばい}に{膨|ふく}らんだ。",
+                "vi": "Do công trình bị chậm nên chi phí xây dựng đã phình lên gấp đôi so với ban đầu."
+              }
+            }
+          ],
+          "col": [
+            "風船が膨らむ",
+            "つぼみが膨らむ",
+            "期待が膨らむ",
+            "夢が膨らむ",
+            "費用が膨らむ",
+            "借金が膨らむ"
+          ],
+          "rel": "他動: 膨らませる・膨らます　↔ しぼむ（1）　≒ 増える（3）",
+          "note": "**Hình ảnh gốc: bên trong căng lên làm thể tích to ra.** Quả bóng căng hơi → lòng \"căng\" niềm mong đợi → con số tiền căng phình.\n- Nghĩa (2) thường **tích cực** (háo hức); nghĩa (3) thường **tiêu cực** (vượt dự kiến).\n- Ngược nghĩa: しぼむ (xẹp), 縮む (co lại).\n- Tha động từ: 風船を膨らませる, 想像を膨らませる."
+        },
+        {
+          "id": "g23-w10",
+          "w": "ふさがる",
+          "r": "ふさがる",
+          "hv": "",
+          "pos": "自動",
+          "vi": "bị chắn, bị tắc; (lỗ, vết thương) liền lại, khép lại; (tay, chỗ, phòng, lịch) đang bận, đã kín",
+          "key": true,
+          "senses": [
+            {
+              "vi": "bị chắn, bị tắc (lối đi, đường ống) — 道・通路・入口・血管がふさがる",
+              "ex": {
+                "ja": "{大雪|おおゆき}で{山道|やまみち}がふさがり、{村|むら}は{孤立|こりつ}した。",
+                "vi": "Tuyết rơi dày chắn đường núi, ngôi làng bị cô lập."
+              }
+            },
+            {
+              "vi": "(lỗ, khe, vết thương) khép lại, liền — 穴・すき間・傷がふさがる",
+              "ex": {
+                "ja": "{壁|かべ}の{小|ちい}さな{穴|あな}は、{修理|しゅうり}してもらってきれいにふさがった。",
+                "vi": "Lỗ nhỏ trên tường đã được sửa và bít lại gọn gàng."
+              }
+            },
+            {
+              "vi": "(tay, chỗ ngồi, phòng, lịch) đang có người / có việc, không còn trống — 手・席・部屋・予定がふさがる",
+              "ex": {
+                "ja": "{申|もう}し{訳|わけ}ありませんが、{来週|らいしゅう}は{予定|よてい}がふさがっております。",
+                "vi": "Thành thật xin lỗi, tuần sau lịch của tôi đã kín rồi ạ."
+              }
+            }
+          ],
+          "col": [
+            "道がふさがる",
+            "穴がふさがる",
+            "傷がふさがる",
+            "手がふさがる",
+            "席がふさがる",
+            "予定がふさがる"
+          ],
+          "rel": "他動: ふさぐ (耳をふさぐ・道をふさぐ)　↔ 空く（3）",
+          "note": "**Hình ảnh gốc: một khoảng trống / lối mở bị lấp kín lại.** Lối đi bị lấp (1) → lỗ, vết thương được lấp (2) → tay, chỗ, thời gian bị \"lấp\" bởi việc khác nên không còn trống (3).\n- Nghĩa (3) đối lập với 空く(あく): {席|せき}が空いている ↔ 席がふさがっている.\n- Tha động từ ふさぐ: {両手|りょうて}で{耳|みみ}をふさぐ, {車|くるま}が{道|みち}をふさぐ.\n- \"Có việc đột xuất\" là 用事が**できる**, không phải ふさがる."
+        },
+        {
+          "id": "g23-w11",
+          "w": "ぶつかる",
+          "r": "ぶつかる",
+          "hv": "",
+          "pos": "自動",
+          "vi": "va, đụng; (đi tiếp thì) gặp (đường lớn, sông); trùng (lịch); gặp phải (khó khăn); xung đột (ý kiến)",
+          "key": true,
+          "senses": [
+            {
+              "vi": "va, đụng, tông vào nhau — 車と車が・〔もの〕が〔人・もの〕にぶつかる",
+              "ex": {
+                "ja": "{前|まえ}を{見|み}ずに{歩|ある}いていて、{電柱|でんちゅう}にぶつかってしまった。",
+                "vi": "Đi mà không nhìn phía trước nên tôi đâm sầm vào cột điện."
+              }
+            },
+            {
+              "vi": "(đi tiếp thì) gặp, đụng phải (đường, sông) — 大通り・T字路・川にぶつかる",
+              "ex": {
+                "ja": "この{道|みち}を{北|きた}へ{行|い}くと{川|かわ}にぶつかるので、そこを{右|みぎ}に{曲|ま}がってください。",
+                "vi": "Đi theo đường này về phía bắc sẽ gặp con sông, đến đó thì rẽ phải."
+              }
+            },
+            {
+              "vi": "trùng (ngày giờ, lịch) — 予定・日程・〜と〜がぶつかる",
+              "ex": {
+                "ja": "{友人|ゆうじん}の{結婚式|けっこんしき}と{出張|しゅっちょう}がぶつかって、{出席|しゅっせき}できなかった。",
+                "vi": "Đám cưới bạn trùng với chuyến công tác nên tôi không dự được."
+              }
+            },
+            {
+              "vi": "gặp phải, vấp phải (khó khăn, bế tắc) — 困難・問題・疑問・壁にぶつかる",
+              "ex": {
+                "ja": "{日本語|にほんご}の{勉強|べんきょう}で{壁|かべ}にぶつかったときは、{少|すこ}し{休|やす}むのもいい。",
+                "vi": "Khi học tiếng Nhật mà gặp bế tắc thì nghỉ ngơi một chút cũng tốt."
+              }
+            },
+            {
+              "vi": "xung đột, bất đồng (ý kiến); đối đầu (với ai) — 意見がぶつかる・〔人〕とぶつかる",
+              "ex": {
+                "ja": "{進学|しんがく}のことで、{父|ちち}とはよく{意見|いけん}がぶつかった。",
+                "vi": "Chuyện học lên, tôi và bố hay bất đồng ý kiến."
+              }
+            }
+          ],
+          "col": [
+            "車がぶつかる",
+            "大通りにぶつかる",
+            "日程がぶつかる",
+            "壁にぶつかる",
+            "困難にぶつかる",
+            "意見がぶつかる"
+          ],
+          "rel": "他動: ぶつける　≒ 衝突する（1, 5）・重なる（3）",
+          "note": "**Hình ảnh gốc: thứ đang di chuyển đâm thẳng vào một vật khác.** Va chạm vật lý (1) → con đường mình đi \"đâm\" vào đường khác (2) → hai lịch \"đâm\" vào cùng một ngày (3) → mình đâm vào bức tường khó khăn (4) → hai ý kiến đâm vào nhau (5).\n- ぶつかる là va **mạnh**; chạm nhẹ là 触れる.\n- Tha động từ ぶつける: {車|くるま}をぶつける (đâm xe vào đâu), {怒|いか}りをぶつける (trút giận).\n- Nghĩa (1) là **vật (thường cứng) va mạnh vào vật khác**; chất lỏng văng vào người là はねる (✗ 油が手にぶつかる → ○ 油が手にはねる)."
+        },
+        {
+          "id": "g23-w12",
+          "w": "振る",
+          "r": "ふる",
+          "hv": "CHẤN",
+          "pos": "他動",
+          "vi": "vẫy, lắc; rắc (gia vị); từ chối (tình cảm), đá (người yêu); đánh (số, phiên âm), phân (vai)",
+          "key": true,
+          "senses": [
+            {
+              "vi": "vẫy, lắc, vung — 手・首・旗・しっぽ・バットを振る",
+              "ex": {
+                "ja": "{駅|えき}のホームで、{子|こ}どもたちが{電車|でんしゃ}に{向|む}かって{手|て}を{振|ふ}っている。",
+                "vi": "Ở sân ga, bọn trẻ đang vẫy tay về phía đoàn tàu."
+              }
+            },
+            {
+              "vi": "rắc (bột, gia vị) lên — 塩・こしょう・ごまを振る",
+              "ex": {
+                "ja": "{焼|や}く{前|まえ}に、{肉|にく}に{塩|しお}とこしょうを{軽|かる}く{振|ふ}っておく。",
+                "vi": "Trước khi nướng, rắc nhẹ muối tiêu lên thịt."
+              }
+            },
+            {
+              "vi": "từ chối (lời tỏ tình), đá (người yêu) — 〔人〕を振る／〔人〕に振られる",
+              "ex": {
+                "ja": "{三年|さんねん}{付|つ}き{合|あ}った{恋人|こいびと}に{振|ふ}られて、{弟|おとうと}はすっかり{落|お}ち{込|こ}んでいる。",
+                "vi": "Bị người yêu ba năm đá, em trai tôi suy sụp hẳn."
+              }
+            },
+            {
+              "vi": "gán, đánh (số thứ tự, phiên âm); phân (vai, việc) — 番号・ふりがな・読みがな・役を振る",
+              "ex": {
+                "ja": "{会議|かいぎ}の{資料|しりょう}には、ページ{番号|ばんごう}を{振|ふ}っておいてください。",
+                "vi": "Hãy đánh số trang cho tài liệu cuộc họp."
+              }
+            }
+          ],
+          "col": [
+            "手を振る",
+            "首を横に振る",
+            "塩を振る",
+            "恋人に振られる",
+            "番号を振る",
+            "ふりがなを振る"
+          ],
+          "note": "**Hình ảnh gốc: cầm một thứ và đưa qua đưa lại / hất nhẹ ra.** Vẫy tay (1) → lắc lọ cho muối rơi ra (2) → \"hất\" người theo đuổi ra (3) → \"rải\" số, phiên âm, vai trò lên từng chỗ (4).\n- 首を縦に振る = gật đầu (đồng ý); 首を横に振る = lắc đầu (từ chối).\n- ふりがな chính là \"chữ được 振る lên\" trên đầu kanji."
+        },
+        {
+          "id": "g23-w13",
+          "w": "触れる",
+          "r": "ふれる",
+          "hv": "XÚC",
+          "pos": "自動・他動",
+          "vi": "chạm; tiếp xúc (không khí, ánh sáng); được tiếp xúc, cảm nhận (văn hoá, lòng tốt); đề cập; vi phạm (luật); lọt vào (mắt, tai)",
+          "key": true,
+          "senses": [
+            {
+              "vi": "chạm (nhẹ) vào — 〔もの〕に手を触れる／〜が〜に触れる",
+              "ex": {
+                "ja": "{赤|あか}ちゃんの{小|ちい}さな{手|て}に、そっと{触|ふ}れてみた。",
+                "vi": "Tôi khẽ chạm vào bàn tay bé xíu của em bé."
+              }
+            },
+            {
+              "vi": "tiếp xúc với (không khí, ánh sáng, nhiệt) — 空気・光・熱に触れる",
+              "ex": {
+                "ja": "この{薬|くすり}は{光|ひかり}に{触|ふ}れると{変化|へんか}するので、{暗|くら}い{所|ところ}に{保管|ほかん}してください。",
+                "vi": "Thuốc này gặp ánh sáng sẽ bị biến đổi nên hãy bảo quản ở nơi tối."
+              }
+            },
+            {
+              "vi": "được tiếp xúc, trải nghiệm, cảm nhận (văn hoá, nghệ thuật, lòng tốt) — 文化・芸術・魅力・優しさに触れる",
+              "ex": {
+                "ja": "ホームステイで、{現地|げんち}の{人々|ひとびと}の{温|あたた}かさに{触|ふ}れることができた。",
+                "vi": "Nhờ homestay mà tôi được cảm nhận sự ấm áp của người dân bản xứ."
+              }
+            },
+            {
+              "vi": "đề cập, nhắc đến (chủ đề, vấn đề) — 話題・問題・点に触れる",
+              "ex": {
+                "ja": "{社長|しゃちょう}はスピーチの{中|なか}で、{来年|らいねん}の{計画|けいかく}にも{少|すこ}し{触|ふ}れた。",
+                "vi": "Trong bài phát biểu, giám đốc cũng có nhắc qua về kế hoạch năm sau."
+              }
+            },
+            {
+              "vi": "vi phạm, phạm vào (pháp luật, quy định) — 法・法律・規則に触れる",
+              "ex": {
+                "ja": "{他人|たにん}の{写真|しゃしん}を{勝手|かって}に{使|つか}うと、{法律|ほうりつ}に{触|ふ}れる{場合|ばあい}がある。",
+                "vi": "Tự ý sử dụng ảnh của người khác có trường hợp sẽ vi phạm pháp luật."
+              }
+            },
+            {
+              "vi": "lọt vào (mắt, tai người khác) — 人目・目・耳に触れる",
+              "ex": {
+                "ja": "このポスターは{多|おお}くの{人|ひと}の{目|め}に{触|ふ}れるよう、{駅|えき}の{入口|いりぐち}に{貼|は}った。",
+                "vi": "Tấm áp phích này được dán ở lối vào nhà ga để nhiều người nhìn thấy."
+              }
+            }
+          ],
+          "col": [
+            "手を触れる",
+            "空気に触れる",
+            "文化に触れる",
+            "話題に触れる",
+            "法律に触れる",
+            "人目に触れる"
+          ],
+          "rel": "≒ 接する（2, 3）・言及する（4）・違反する（5）",
+          "note": "**Hình ảnh gốc: chạm nhẹ vào bề mặt (không nắm, không ấn mạnh).** Tay chạm (1) → vật chạm không khí (2) → bản thân \"chạm\" vào văn hoá, lòng tốt (3) → câu chuyện \"chạm\" đến chủ đề — chỉ lướt qua (4) → hành vi \"chạm\" vào ranh giới pháp luật (5) → vật \"chạm\" vào ánh mắt (6).\n- Gần như luôn dùng **〜に触れる**; riêng nghĩa (1) có thêm 〔もの〕に手を触れる.\n- Nghĩa (4): 触れる = nhắc qua, khác 説明する (giải thích kỹ). 触れない = né, không nhắc đến."
+        },
+        {
+          "id": "g23-w14",
+          "w": "招く",
+          "r": "まねく",
+          "hv": "CHIÊU",
+          "pos": "他動",
+          "vi": "mời (đến nhà, đến dự); gây ra, chuốc lấy (kết quả xấu)",
+          "key": true,
+          "senses": [
+            {
+              "vi": "mời (ai đến nhà, tiệc, sự kiện; mời làm diễn giả) — 〔人〕を家・食事・パーティー・式に招く",
+              "ex": {
+                "ja": "{新居|しんきょ}に{同僚|どうりょう}を{招|まね}いて、{手料理|てりょうり}をふるまった。",
+                "vi": "Tôi mời đồng nghiệp đến nhà mới và đãi họ những món tự nấu."
+              }
+            },
+            {
+              "vi": "gây ra, dẫn đến (điều không mong muốn) — 誤解・混乱・事故・危険・不信を招く",
+              "ex": {
+                "ja": "{社長|しゃちょう}の{不用意|ふようい}な{発言|はつげん}が、{客|きゃく}の{不信|ふしん}を{招|まね}いた。",
+                "vi": "Phát ngôn thiếu cẩn trọng của giám đốc đã khiến khách hàng mất lòng tin."
+              }
+            }
+          ],
+          "col": [
+            "家に招く",
+            "パーティーに招く",
+            "講師として招く",
+            "誤解を招く",
+            "混乱を招く",
+            "事故を招く"
+          ],
+          "rel": "≒ 招待する（1）・引き起こす（2）",
+          "note": "**Hình ảnh gốc: vẫy tay gọi một thứ đến chỗ mình.** Gọi khách đến (1) → vô tình \"gọi\" điều xấu đến (2).\n- Nghĩa (2) gần như luôn đi với kết quả **xấu** (誤解, 混乱, 不信, 失敗).\n- Cụm hay gặp trong văn bản: 誤解を招くような{表現|ひょうげん} (cách nói dễ gây hiểu lầm).\n- 招き猫 = mèo vẫy (gọi khách, gọi tài lộc)."
+        },
+        {
+          "id": "g23-w15",
+          "w": "寄せる",
+          "r": "よせる",
+          "hv": "KÝ",
+          "pos": "他動",
+          "vi": "đưa sát, dồn vào (một phía); gửi đến (ý kiến, thư); dành (sự quan tâm, kỳ vọng, tin tưởng)",
+          "key": true,
+          "senses": [
+            {
+              "vi": "đưa sát, dồn vào (một phía, một chỗ) — 〔車・机〕を端・片側・中央・一か所に寄せる",
+              "ex": {
+                "ja": "{掃除|そうじ}をするので、{机|つくえ}を{部屋|へや}の{隅|すみ}に{寄|よ}せてください。",
+                "vi": "Sắp dọn dẹp nên hãy dồn bàn vào góc phòng."
+              }
+            },
+            {
+              "vi": "gửi đến (ý kiến, tin tức, lời phàn nàn — cho đài, báo, công ty) — 意見・感想・便り・情報・苦情を寄せる",
+              "ex": {
+                "ja": "{新製品|しんせいひん}について、{利用者|りようしゃ}から{多|おお}くの{感想|かんそう}が{寄|よ}せられた。",
+                "vi": "Về sản phẩm mới, rất nhiều cảm nhận đã được người dùng gửi đến."
+              }
+            },
+            {
+              "vi": "dành, hướng (tình cảm, sự quan tâm, kỳ vọng) về — 関心・期待・信頼・思いを寄せる",
+              "ex": {
+                "ja": "{町|まち}の{人々|ひとびと}は、{地元|じもと}{出身|しゅっしん}の{選手|せんしゅ}に{大|おお}きな{期待|きたい}を{寄|よ}せている。",
+                "vi": "Người dân thị trấn đặt kỳ vọng lớn vào vận động viên quê nhà."
+              }
+            }
+          ],
+          "col": [
+            "車を端に寄せる",
+            "机を寄せる",
+            "意見を寄せる",
+            "苦情が寄せられる",
+            "関心を寄せる",
+            "期待を寄せる",
+            "思いを寄せる"
+          ],
+          "rel": "自動: 寄る (端に寄る・店に寄る)",
+          "note": "**Hình ảnh gốc: kéo / đưa một thứ lại gần một điểm.** Đẩy đồ vật lại gần một phía (1) → ý kiến, thư từ được \"đưa lại gần\" nơi nhận (2) → lòng mình \"hướng lại gần\" ai, cái gì (3).\n- Nghĩa (2) hay ở **bị động / kính ngữ**: 〜が寄せられる, ご{意見|いけん}をお寄せください.\n- 思いを寄せる = thầm thương ai.\n- 寄せる ≠ giao hàng (→ 届ける), ≠ để quên (→ 忘れる)."
+        }
+      ]
+    }
+  ],
+  "focus": [
+    {
+      "title": "Hình ảnh gốc của 15 động từ — nhớ một, đoán được mười",
+      "body": "- **積む**: chồng lớp này lên lớp kia → chất đống / chất lên xe / tích luỹ kinh nghiệm.\n- **解く**: gỡ cái đang buộc → cởi dây / giải bài / giải toả hiểu lầm, căng thẳng.\n- **溶く**: khuấy bột vào nước → đánh trứng, hoà bột, pha màu.\n- **捕らえる**: tóm thứ đang chạy → bắt kẻ trốn / thu hút lòng người / nắm bắt đặc điểm / coi A là B.\n- **握る**: siết trong lòng bàn tay → nắm tay / cầm lái / nắm quyền / nắm thóp.\n- **にらむ**: nhìn sắc vào một điểm → lườm / soi xét / đoán chừng.\n- **跳ねる**: bật văng lên → cá nhảy / dầu bắn / tóc vểnh / xe tông người.\n- **はまる**: lọt khít vào chỗ lõm → vừa khít / sa vào kẹt xe / nghiện / rập khuôn.\n- **膨らむ**: căng phồng từ bên trong → bóng phồng / kỳ vọng lớn dần / chi phí phình.\n- **ふさがる**: chỗ trống bị lấp → đường bị chắn / vết thương liền / lịch kín.\n- **ぶつかる**: đâm thẳng vào → va chạm / gặp đường lớn / trùng lịch / gặp khó khăn / bất đồng.\n- **振る**: đưa qua đưa lại, hất ra → vẫy tay / rắc muối / đá người yêu / đánh số.\n- **触れる**: chạm nhẹ bề mặt → chạm / tiếp xúc không khí / cảm nhận văn hoá / nhắc qua / phạm luật / lọt vào mắt.\n- **招く**: vẫy gọi lại gần → mời khách / chuốc lấy hậu quả.\n- **寄せる**: đưa lại gần một điểm → dồn sang một phía / gửi ý kiến / dành sự quan tâm.\n\nKhi gặp cách dùng lạ, hãy áp hình ảnh gốc: ví dụ 「{予定|よてい}がふさがる」 = khoảng thời gian trống bị lấp kín → lịch đã kín."
+    },
+    {
+      "title": "Ba kiểu \"nắm\": つかむ・握る・捕らえる",
+      "body": "Cả ba đều dịch là \"nắm, bắt\" nhưng hình ảnh khác nhau (つかむ ở bài trước g22):\n\n- **つかむ** = **chộp lấy** (động tác vươn tay tóm): {腕|うで}をつかむ, チャンスをつかむ, コツをつかむ, {心|こころ}をつかむ.\n- **握る** = **siết giữ** trong lòng bàn tay (trạng thái đang giữ, kiểm soát): ハンドルを握る, {権力|けんりょく}を握る, {財布|さいふ}を握る, {弱|よわ}みを握る.\n- **捕らえる** = **bắt giữ thứ đang chạy trốn / đang chuyển động**: {犯人|はんにん}を捕らえる, {変化|へんか}をとらえる, {特徴|とくちょう}をとらえる.\n\nMẹo:\n- Đối tượng là **quyền, tiền, bí mật** (giữ lâu để điều khiển) → 握る.\n- Đối tượng là **cơ hội, mẹo, ý chính** (vừa tóm được) → つかむ.\n- Đối tượng là **thứ di động, thay đổi** (kẻ trốn, sự thay đổi, đặc điểm) → 捕らえる.\n- **心**: 心をつかむ và 心をとらえる đều đúng (chiếm được / thu hút lòng người)."
+    },
+    {
+      "title": "Mạnh hay nhẹ: 触れる・ぶつかる・はねる",
+      "body": "Ba động từ chỉ sự tiếp xúc, khác nhau ở **lực**:\n\n- **触れる** = chạm **nhẹ** (そっと触れる). Nghĩa trừu tượng cũng \"nhẹ\": {話題|わだい}に触れる (nhắc qua), {文化|ぶんか}に触れる (được tiếp xúc).\n- **ぶつかる** = va **mạnh**, đâm thẳng. Nghĩa trừu tượng cũng \"đối đầu\": {壁|かべ}にぶつかる (gặp bế tắc), {意見|いけん}がぶつかる (xung đột).\n- **はねる** (撥ねる) = xe **hất văng** người: {歩行者|ほこうしゃ}が{車|くるま}にはねられる.\n\nCùng danh từ 問題 nhưng nghĩa khác hẳn:\n- {問題|もんだい}に**触れる** = đề cập (nhắc) đến vấn đề.\n- 問題に**ぶつかる** = gặp phải vấn đề, vấp phải khó khăn.\n\nBẫy 用法: 「そっとぶつかった」 — そっと (nhẹ nhàng) mâu thuẫn với ぶつかる → phải là 触れた."
+    },
+    {
+      "title": "Tự / tha động từ và bị động hay gặp",
+      "body": "**Cặp tự (〜が) / tha (〜を):**\n- 積もる / **積む**: {雪|ゆき}が積もる／{荷物|にもつ}を積む.\n- 解ける / **解く**: {誤解|ごかい}が解ける／誤解を解く.\n- 溶ける / **溶く**・溶かす: {氷|こおり}が溶ける／{卵|たまご}を溶く／{鉄|てつ}を溶かす.\n- **はまる** / はめる: ふたがはまる／{指輪|ゆびわ}をはめる.\n- **膨らむ** / 膨らませる: {風船|ふうせん}が膨らむ／風船を膨らませる.\n- **ふさがる** / ふさぐ: {道|みち}がふさがる／{耳|みみ}をふさぐ.\n- **ぶつかる** / ぶつける: {車|くるま}がぶつかる／車をぶつける.\n- 寄る / **寄せる**: {端|はし}に寄る／車を端に寄せる.\n\n**Nghĩa thường ở bị động:**\n- 車に**はねられる** (bị xe tông).\n- 恋人に**振られる** (bị người yêu đá).\n- 意見・苦情が**寄せられる** (được gửi đến).\n- 犯人が**捕らえられる** (bị bắt).\n- 弱みを**握られる** (bị nắm thóp).\n- にらまれる (bị lườm)."
+    },
+    {
+      "title": "Đồng âm とく: 解く・溶く・説く — và 溶く／溶ける／溶かす",
+      "body": "- **解く** (GIẢI): gỡ cái đang buộc / rối → ひもを解く, {問題|もんだい}を解く, {誤解|ごかい}を解く.\n- **溶く** (DUNG): khuấy bột / trứng / sơn vào chất lỏng → {卵|たまご}を溶く, {小麦粉|こむぎこ}を{水|みず}で溶く, {絵|え}の{具|ぐ}を溶く.\n- **説く** (THUYẾT): giảng giải, thuyết phục → {平和|へいわ}の{大切|たいせつ}さを説く (văn viết).\n\nNhóm \"tan\":\n- **溶ける** (tự): tự tan — アイスが溶ける, {砂糖|さとう}が{水|みず}に溶ける.\n- **溶かす** (tha): làm tan chảy — バターを溶かす, {鉄|てつ}を溶かす.\n- **溶く** (tha): khuấy cho hoà thành dung dịch — 卵を溶く.\n\nBẫy: ✗ アイスが溶いてしまった → ○ 溶けてしまった; ✗ {誤解|ごかい}を溶く → ○ 解く."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "g23-q1",
+      "kind": "context",
+      "ref": "g23-w1",
+      "q": "{一流|いちりゅう}の{料理人|りょうりにん}になるには、{長|なが}い{修業|しゅぎょう}を（　　）ことが{必要|ひつよう}だ。",
+      "options": [
+        "握る",
+        "寄せる",
+        "積む",
+        "解く"
+      ],
+      "answer": 2,
+      "vi": "Muốn trở thành đầu bếp hàng đầu thì cần trải qua (tích luỹ) quá trình rèn luyện lâu dài.",
+      "why": "経験・練習・修業を**積む** = tích luỹ. 握る = nắm (quyền, tay lái) — 修業を握る không có; 寄せる = dồn sát / gửi / dành (quan tâm) — không đi với 修業; 解く = cởi, giải — ngược với \"tích luỹ\"."
+    },
+    {
+      "id": "g23-q2",
+      "kind": "usage",
+      "ref": "g23-w2",
+      "q": "{解|と}く",
+      "options": [
+        "ていねいに事情を説明して、ようやく母の誤解を解くことができた。",
+        "暑いので、エアコンを解いてください。",
+        "電話番号を忘れたので、手帳を解いて確認した。",
+        "風邪がなかなか解かないので、病院へ行った。"
+      ],
+      "answer": 0,
+      "vi": "(1) Giải thích cặn kẽ sự tình, cuối cùng tôi cũng giải toả được hiểu lầm của mẹ.",
+      "why": "(1) đúng: 誤解・疑いを解く = xoá bỏ hiểu lầm. (2) bật điều hoà → つけて; (3) mở sổ tay → {開|ひら}いて; (4) cảm không khỏi → {治|なお}らない. 解く là gỡ cái đang buộc / rối, không phải mở thiết bị hay khỏi bệnh."
+    },
+    {
+      "id": "g23-q3",
+      "kind": "usage",
+      "ref": "g23-w8",
+      "q": "はまる",
+      "options": [
+        "このかばんは物がたくさんはまるので便利だ。",
+        "会議が長引いて、約束の時間にはまらなかった。",
+        "毎朝六時の電車にはまって通勤している。",
+        "友達に勧められたパン作りにすっかりはまって、週末は朝から焼いている。"
+      ],
+      "answer": 3,
+      "vi": "(4) Tôi mê mẩn việc làm bánh mì mà bạn giới thiệu, cuối tuần cứ từ sáng là nướng bánh.",
+      "why": "(4) đúng: 〜にはまる = mê, nghiện (sở thích). (1) đựng được nhiều → {入|はい}る (はまる là lọt **khít** một chỗ, không phải \"chứa nhiều\"); (2) kịp giờ → {間|ま}に{合|あ}わなかった; (3) đi tàu → 乗って."
+    },
+    {
+      "id": "g23-q4",
+      "kind": "context",
+      "ref": "g23-w11",
+      "q": "{娘|むすめ}の{運動会|うんどうかい}と{大事|だいじ}な{会議|かいぎ}が{同|おな}じ{日|ひ}に（　　）しまい、どちらに{行|い}くか{迷|まよ}っている。",
+      "options": [
+        "ふさがって",
+        "ぶつかって",
+        "はまって",
+        "膨らんで"
+      ],
+      "answer": 1,
+      "vi": "Hội thao của con gái và cuộc họp quan trọng lại trùng ngày, tôi đang phân vân không biết đi bên nào.",
+      "why": "Hai sự kiện rơi vào cùng ngày → 〜と〜が**ぶつかる** (trùng). ふさがる dùng cho \"lịch của **một người** đã kín\" (予定がふさがっている), không dùng cho hai việc trùng nhau; はまる = lọt khít / sa vào; 膨らむ = phồng lên — không hợp."
+    },
+    {
+      "id": "g23-q5",
+      "kind": "paraphrase",
+      "ref": "g23-w13",
+      "q": "{首相|しゅしょう}は{記者|きしゃ}{会見|かいけん}で、{増税|ぞうぜい}の{問題|もんだい}には[[u:触れなかった]]。",
+      "options": [
+        "反対しなかった",
+        "決めなかった",
+        "気づかなかった",
+        "話さなかった"
+      ],
+      "answer": 3,
+      "vi": "Trong buổi họp báo, thủ tướng đã không đề cập đến vấn đề tăng thuế.",
+      "why": "問題・話題に触れる = đề cập đến ≒ **話す**; 触れなかった ≒ 話さなかった. 反対しなかった = không phản đối; 決めなかった = không quyết định; 気づかなかった = không nhận ra — đều không phải nghĩa \"nhắc đến\"."
+    },
+    {
+      "id": "g23-q6",
+      "kind": "usage",
+      "ref": "g23-w14",
+      "q": "{招|まね}く",
+      "options": [
+        "道に迷ったので、通りかかった人に駅を招いた。",
+        "確認を怠ったことが、大きな事故を招いた。",
+        "彼は毎朝犬を招いて公園を散歩する。",
+        "店員は客から代金を招いた。"
+      ],
+      "answer": 1,
+      "vi": "(2) Việc lơ là kiểm tra đã dẫn đến một tai nạn lớn.",
+      "why": "(2) đúng: 事故・誤解・混乱を招く = gây ra (kết quả xấu). (1) hỏi đường → {尋|たず}ねた; (3) dắt chó → {連|つ}れて; (4) nhận tiền → {受|う}け{取|と}った."
+    },
+    {
+      "id": "g23-q7",
+      "kind": "context",
+      "ref": "g23-w15",
+      "q": "{後|うし}ろから{救急車|きゅうきゅうしゃ}が{来|き}たので、{車|くるま}を{道|みち}の{左側|ひだりがわ}に（　　）{止|と}まった。",
+      "options": [
+        "寄せて",
+        "積んで",
+        "振って",
+        "招いて"
+      ],
+      "answer": 0,
+      "vi": "Xe cứu thương đến từ phía sau nên tôi tấp xe sát lề trái rồi dừng lại.",
+      "why": "車を端・片側に**寄せる** = tấp xe vào một phía. 積む = chất hàng lên xe (〜を車に積む), không phải di chuyển xe; 振る = vẫy, lắc; 招く = mời / gây ra — không hợp."
+    },
+    {
+      "id": "g23-q8",
+      "kind": "usage",
+      "ref": "g23-w12",
+      "q": "{振|ふ}る",
+      "options": [
+        "天気がいいので、布団を外に振った。",
+        "彼は大きな声で私の名前を振った。",
+        "子ども向けの本なので、すべての漢字に読みがなを振った。",
+        "スープが熱すぎるので、少し振ってから飲んだ。"
+      ],
+      "answer": 2,
+      "vi": "(3) Vì là sách cho trẻ em nên tôi đã ghi phiên âm cho tất cả chữ Hán.",
+      "why": "(3) đúng: ふりがな・読みがな・番号を振る = ghi, đánh (phiên âm, số). (1) phơi chăn → {干|ほ}した; (2) gọi tên → {呼|よ}んだ; (4) để nguội → {冷|さ}ましてから."
+    },
+    {
+      "id": "g23-q9",
+      "kind": "read",
+      "ref": "g23-w9",
+      "q": "{春|はる}になり、{桜|さくら}のつぼみが[[u:膨らんで]]きた。",
+      "options": [
+        "ふさがんで",
+        "ほころんで",
+        "ふくらんで",
+        "はらんで"
+      ],
+      "answer": 2,
+      "vi": "Xuân đến, nụ hoa anh đào đã căng phồng lên.",
+      "why": "膨らむ = **ふくらむ**. ほころぶ (綻ぶ) = hé nở — từ khác, cũng hay đi với つぼみ nên dễ nhầm; はらむ (孕む) = mang thai, chứa đựng — từ khác; ふさがむ không tồn tại (ふさがる là \"bị tắc\")."
+    },
+    {
+      "id": "g23-q10",
+      "kind": "usage",
+      "ref": "g23-w6",
+      "q": "にらむ",
+      "options": [
+        "警察は、事件の夜に現場近くにいた男が何か知っているとにらんでいる。",
+        "初めて会った人には、にらんで挨拶するのが礼儀だ。",
+        "毎晩寝る前に、好きな音楽をにらんでいる。",
+        "このラーメンは、にらむほど辛い。"
+      ],
+      "answer": 0,
+      "vi": "(1) Cảnh sát đoán rằng người đàn ông có mặt gần hiện trường đêm xảy ra vụ án biết điều gì đó.",
+      "why": "(1) đúng: 〜とにらむ = đoán chừng, nghi. (2) lườm khi chào là thất lễ → {笑顔|えがお}で挨拶する; (3) nghe nhạc → {聴|き}いている; (4) cay đến chảy nước mắt → {涙|なみだ}が{出|で}るほど."
+    }
+  ],
+  "practice": [
+    {
+      "id": "g23-p1",
+      "kind": "context",
+      "ref": "g23-w3",
+      "q": "{絵|え}の{具|ぐ}を{水|みず}で（　　）、{画用紙|がようし}に{空|そら}の{色|いろ}を{塗|ぬ}った。",
+      "options": [
+        "解いて",
+        "溶いて",
+        "積んで",
+        "振って"
+      ],
+      "answer": 1,
+      "vi": "Tôi pha màu vẽ với nước rồi tô màu bầu trời lên giấy vẽ.",
+      "why": "Khuấy màu vẽ vào nước cho hoà → 絵の具を**溶く**. 解く (cùng âm とく) = cởi, giải — không dùng cho chất lỏng; 積む = chất đống; 振る = vẫy, rắc — 絵の具を水で振る không có nghĩa."
+    },
+    {
+      "id": "g23-p2",
+      "kind": "usage",
+      "ref": "g23-w4",
+      "q": "とらえる",
+      "options": [
+        "新しいシャツが体によくとらえて、着心地がいい。",
+        "宿題をとらえるのを忘れて、先生に叱られた。",
+        "寒いので、ストーブの前で手をとらえた。",
+        "彼は病気を、人生を見つめ直すいい機会ととらえた。"
+      ],
+      "answer": 3,
+      "vi": "(4) Anh ấy coi trận ốm là dịp tốt để nhìn lại cuộc đời.",
+      "why": "(4) đúng: AをBととらえる = nhìn nhận A là B. (1) áo vừa người → {合|あ}って／なじんで; (2) nộp bài → {出|だ}す／{提出|ていしゅつ}する; (3) hơ tay → {温|あたた}めた."
+    },
+    {
+      "id": "g23-p3",
+      "kind": "paraphrase",
+      "ref": "g23-w5",
+      "q": "この{国|くに}では、{軍|ぐん}が{政治|せいじ}の{実権|じっけん}を[[u:握って]]いる。",
+      "options": [
+        "持って",
+        "失って",
+        "批判して",
+        "分けて"
+      ],
+      "answer": 0,
+      "vi": "Ở nước này, quân đội đang nắm thực quyền chính trị.",
+      "why": "実権・権力を握る = nắm quyền ≒ **持っている** (và kiểm soát). 失う ngược nghĩa; 批判する = phê phán; 分ける = chia sẻ — đều không phải \"nắm giữ\"."
+    },
+    {
+      "id": "g23-p4",
+      "kind": "usage",
+      "ref": "g23-w5",
+      "q": "{握|にぎ}る",
+      "options": [
+        "新しい眼鏡を握ったら、よく見えるようになった。",
+        "冬は手袋を握らないと、手が冷たくなる。",
+        "祖父は八十歳を過ぎた今も、毎日包丁を握って店に立っている。",
+        "授業の内容をノートに握っておいた。"
+      ],
+      "answer": 2,
+      "vi": "(3) Ông tôi đã ngoài tám mươi mà ngày nào vẫn cầm dao đứng bếp ở quán.",
+      "why": "(3) đúng: 包丁・ハンドル・マイクを握る = cầm (dụng cụ để làm việc). (1) đeo kính → かけたら; (2) đeo găng tay → はめないと; (4) ghi vào vở → {書|か}いて／まとめて."
+    },
+    {
+      "id": "g23-p5",
+      "kind": "context",
+      "ref": "g23-w7",
+      "q": "フライパンに{水|みず}が{残|のこ}っていたので、{油|あぶら}が（　　）{危|あぶ}なかった。",
+      "options": [
+        "はねて",
+        "ふさがって",
+        "膨らんで",
+        "はまって"
+      ],
+      "answer": 0,
+      "vi": "Trong chảo còn đọng nước nên dầu bắn tung tóe, thật nguy hiểm.",
+      "why": "油・水・泥が**はねる** = bắn tóe. ふさがる = bị chắn, bị lấp; 膨らむ = phồng lên — dầu không \"phồng\"; はまる = lọt khít / sa vào — không hợp."
+    },
+    {
+      "id": "g23-p6",
+      "kind": "usage",
+      "ref": "g23-w10",
+      "q": "ふさがる",
+      "options": [
+        "暑くて汗がふさがらない。",
+        "テレビの音がふさがっているので、もっと大きくしてください。",
+        "あいにく会議室は午後まですべてふさがっている。",
+        "あの店はいつも十時にふさがるので、早めに行こう。"
+      ],
+      "answer": 2,
+      "vi": "(3) Rất tiếc, các phòng họp đều đã có người dùng cho đến chiều.",
+      "why": "(3) đúng: 部屋・席・予定がふさがる = đã có người dùng, không còn trống. (1) mồ hôi không ngừng → {止|と}まらない; (2) âm thanh nhỏ → 小さい; (4) cửa hàng đóng cửa → {閉|し}まる (ふさがる không có nghĩa \"đóng cửa hàng\")."
+    },
+    {
+      "id": "g23-p7",
+      "kind": "context",
+      "ref": "g23-w6",
+      "q": "{部長|ぶちょう}は{売上|うりあげ}のグラフを（　　）、{来月|らいげつ}の{戦略|せんりゃく}を{考|かんが}えている。",
+      "options": [
+        "触れながら",
+        "招きながら",
+        "解きながら",
+        "にらみながら"
+      ],
+      "answer": 3,
+      "vi": "Trưởng phòng vừa nhìn chằm chằm vào biểu đồ doanh thu vừa suy nghĩ chiến lược cho tháng sau.",
+      "why": "データ・書類・グラフを**にらむ** = nhìn chăm chú để phân tích. 触れる phải dùng に (グラフに触れる), không đi với を ở đây; 招く = mời / gây ra; 解く = giải (bài) — グラフを解く không nói."
+    },
+    {
+      "id": "g23-p8",
+      "kind": "usage",
+      "ref": "g23-w7",
+      "q": "はねる",
+      "options": [
+        "寝坊して、急いで朝ご飯をはねてきた。",
+        "横断歩道を渡っていた男性が、信号を無視した車にはねられた。",
+        "電車の窓から、外の景色をはねていた。",
+        "暑いので、窓を大きくはねておいた。"
+      ],
+      "answer": 1,
+      "vi": "(2) Người đàn ông đang qua đường ở vạch kẻ đã bị một chiếc xe vượt đèn đỏ tông phải.",
+      "why": "(2) đúng: 〔人〕が車にはねられる = bị xe tông. (1) ăn vội → かきこんで／食べて; (3) ngắm cảnh → {眺|なが}めて; (4) mở cửa sổ → {開|あ}けて."
+    },
+    {
+      "id": "g23-p9",
+      "kind": "paraphrase",
+      "ref": "g23-w8",
+      "q": "{帰|かえ}りの{高速|こうそく}{道路|どうろ}で{渋滞|じゅうたい}に[[u:はまって]]、{三時間|さんじかん}もかかった。",
+      "options": [
+        "慣れて",
+        "気づいて",
+        "迷って",
+        "巻き込まれて"
+      ],
+      "answer": 3,
+      "vi": "Trên đường cao tốc lúc về bị kẹt xe nên mất những ba tiếng.",
+      "why": "渋滞にはまる = sa vào, bị kẹt trong dòng xe ≒ **巻き込まれる**. 慣れる = quen; 気づく = nhận ra; 迷う = lạc đường — không phải nghĩa \"bị mắc kẹt\"."
+    },
+    {
+      "id": "g23-p10",
+      "kind": "usage",
+      "ref": "g23-w9",
+      "q": "{膨|ふく}らむ",
+      "options": [
+        "円安で、海外から買う材料の費用が予想以上に膨らんでいる。",
+        "この服は洗ったら膨らんで、小さくなってしまった。",
+        "日本に来てから、日本語が少しずつ膨らんできた。",
+        "風が膨らんで、木がたくさん倒れた。"
+      ],
+      "answer": 0,
+      "vi": "(1) Do đồng yên mất giá, chi phí nguyên liệu nhập từ nước ngoài đang phình lên quá dự kiến.",
+      "why": "(1) đúng: 費用・借金・赤字が膨らむ = tăng phình. (2) áo co lại → {縮|ちぢ}んで (ngược nghĩa với 膨らむ); (3) tiếng Nhật tiến bộ → {上達|じょうたつ}して; (4) gió mạnh lên → {強|つよ}まって."
+    },
+    {
+      "id": "g23-p11",
+      "kind": "context",
+      "ref": "g23-w4",
+      "q": "この{記事|きじ}は、{若者|わかもの}の{意識|いしき}の{変化|へんか}を{的確|てきかく}に（　　）いる。",
+      "options": [
+        "握って",
+        "とらえて",
+        "寄せて",
+        "積んで"
+      ],
+      "answer": 1,
+      "vi": "Bài báo này nắm bắt chính xác sự thay đổi trong ý thức của giới trẻ.",
+      "why": "変化・特徴・状況を**とらえる** = nắm bắt chính xác. 握る đi với quyền, tiền, bí mật — 変化を握る không nói; 寄せる đi với 関心・期待・意見; 積む đi với 経験・練習."
+    },
+    {
+      "id": "g23-p12",
+      "kind": "usage",
+      "ref": "g23-w15",
+      "q": "{寄|よ}せる",
+      "options": [
+        "母は毎朝、庭の花に水を寄せている。",
+        "この店では、買った商品を家まで寄せてくれる。",
+        "番組には、視聴者から多くの応援のメッセージが寄せられた。",
+        "電車に傘を寄せたまま降りてしまった。"
+      ],
+      "answer": 2,
+      "vi": "(3) Chương trình đã nhận được rất nhiều tin nhắn cổ vũ từ khán giả.",
+      "why": "(3) đúng: 意見・感想・メッセージが寄せられる = được gửi đến. (1) tưới hoa → 水をやっている; (2) giao hàng tận nhà → {届|とど}けて／{配達|はいたつ}して; (4) để quên ô → {忘|わす}れた／{置|お}いた."
+    },
+    {
+      "id": "g23-p13",
+      "kind": "write",
+      "ref": "g23-w5",
+      "q": "{子|こ}どもは{怖|こわ}がって、{私|わたし}の{手|て}を{強|つよ}く[[u:にぎった]]。",
+      "options": [
+        "握った",
+        "掘った",
+        "渥った",
+        "捉った"
+      ],
+      "answer": 0,
+      "vi": "Đứa bé sợ hãi nắm chặt tay tôi.",
+      "why": "にぎる = **握る** (ÁC, bộ tay 扌). 掘る (ほる, đào) cũng bộ 扌 và giống hình — bẫy; 渥 có cùng phần bên phải nhưng bộ thuỷ 氵, không phải động từ; 捉 dùng trong 捉える (とらえる), không đọc にぎる."
+    },
+    {
+      "id": "g23-p14",
+      "kind": "usage",
+      "ref": "g23-w13",
+      "q": "{触|ふ}れる",
+      "options": [
+        "この電車は、次の駅に触れずに終点まで行く。",
+        "シャツにアイロンを触れてから出かけた。",
+        "夜中にピアノを弾くのは、近所の迷惑に触れる。",
+        "未成年に酒を売ることは、法律に触れる行為だ。"
+      ],
+      "answer": 3,
+      "vi": "(4) Bán rượu cho người chưa thành niên là hành vi vi phạm pháp luật.",
+      "why": "(4) đúng: 法律・規則に触れる = vi phạm. (1) tàu không dừng → {止|と}まらずに／{停車|ていしゃ}せずに; (2) là áo → アイロンをかけて; (3) làm phiền hàng xóm → 迷惑に**なる**／迷惑をかける."
+    }
+  ],
+  "test": [
+    {
+      "id": "g23-t1",
+      "kind": "usage",
+      "ref": "g23-w1",
+      "q": "{積|つ}む",
+      "options": [
+        "引っ越しの荷物を全部トラックに積むのに、二時間もかかった。",
+        "寒いので、もう一枚セーターを積んで出かけた。",
+        "壁にカレンダーを積んだ。",
+        "友達に電話を積んだが、出なかった。"
+      ],
+      "answer": 0,
+      "vi": "(1) Chất hết đồ chuyển nhà lên xe tải mất những hai tiếng.",
+      "why": "(1) đúng: 〔荷物〕をトラックに積む = chất hàng lên xe. (2) mặc thêm áo → {着|き}て／{重|かさ}ねて{着|き}て; (3) treo lịch → {掛|か}けた／{貼|は}った; (4) gọi điện → かけた."
+    },
+    {
+      "id": "g23-t2",
+      "kind": "context",
+      "ref": "g23-w2",
+      "q": "{何日|なんにち}も{考|かんが}えて、ついにこの{数学|すうがく}の{難問|なんもん}を（　　）。",
+      "options": [
+        "溶いた",
+        "握った",
+        "解いた",
+        "振った"
+      ],
+      "answer": 2,
+      "vi": "Nghĩ suốt mấy ngày, cuối cùng tôi đã giải được bài toán khó này.",
+      "why": "問題・なぞを**解く** = giải. 溶く cùng âm とく nhưng là hoà tan (卵を溶く) — bẫy chữ; 握る = nắm; 振る = vẫy, rắc — không đi với 問題."
+    },
+    {
+      "id": "g23-t3",
+      "kind": "paraphrase",
+      "ref": "g23-w6",
+      "q": "{専門家|せんもんか}は、この{地域|ちいき}で{大|おお}きな{地震|じしん}が{起|お}きる{可能性|かのうせい}が{高|たか}いと[[u:にらんで]]いる。",
+      "options": [
+        "怒って",
+        "推測して",
+        "心配して",
+        "発表して"
+      ],
+      "answer": 1,
+      "vi": "Giới chuyên gia đoán rằng khả năng xảy ra động đất lớn ở khu vực này là cao.",
+      "why": "〜とにらむ = đoán chừng ≒ **推測する**. 怒る = giận — là nghĩa \"lườm\" nhưng không đi với 〜と; 心配する = lo lắng — にらむ không chứa cảm xúc lo; 発表する = công bố — にらむ chỉ là phán đoán trong đầu."
+    },
+    {
+      "id": "g23-t4",
+      "kind": "usage",
+      "ref": "g23-w11",
+      "q": "ぶつかる",
+      "options": [
+        "二人の意見はいつもぶつかって、仲がいい。",
+        "毎朝、駅で同じ電車にぶつかる。",
+        "赤ちゃんの手が、私のほおにそっとぶつかった。",
+        "新しい事業は、始めてすぐに資金不足という問題にぶつかった。"
+      ],
+      "answer": 3,
+      "vi": "(4) Dự án kinh doanh mới vừa bắt đầu đã vấp phải vấn đề thiếu vốn.",
+      "why": "(4) đúng: 問題・困難・壁にぶつかる = gặp phải khó khăn. (1) ý kiến \"xung đột\" mà \"thân thiết\" là mâu thuẫn → 意見が{一致|いっち}して／{合|あ}って; (2) đi tàu → 乗る; (3) そっと (nhẹ nhàng) không đi với ぶつかる → 触れた."
+    },
+    {
+      "id": "g23-t5",
+      "kind": "context",
+      "ref": "g23-w13",
+      "q": "{留学|りゅうがく}{中|ちゅう}は、できるだけ{多|おお}くの{現地|げんち}の{文化|ぶんか}に（　　）ようにした。",
+      "options": [
+        "ぶつかる",
+        "触れる",
+        "寄せる",
+        "招く"
+      ],
+      "answer": 1,
+      "vi": "Trong thời gian du học, tôi cố gắng tiếp xúc với càng nhiều nét văn hoá bản địa càng tốt.",
+      "why": "文化・芸術に**触れる** = được tiếp xúc, trải nghiệm. ぶつかる = va vào, gặp khó khăn — 文化にぶつかる không nói (phải là 文化の壁にぶつかる); 寄せる/招く là tha động từ cần を (関心を寄せる, 〜を招く), 文化に寄せる・文化に招く không có nghĩa."
+    },
+    {
+      "id": "g23-t6",
+      "kind": "usage",
+      "ref": "g23-w3",
+      "q": "{溶|と}く",
+      "options": [
+        "片栗粉を少量の水で溶いてから、スープに加えるととろみがつく。",
+        "暑さで、冷凍庫のアイスが溶いてしまった。",
+        "長い間の誤解を、やっと溶くことができた。",
+        "鉄を高温で溶いて、型に流し込む。"
+      ],
+      "answer": 0,
+      "vi": "(1) Hoà bột năng với một ít nước rồi cho vào súp thì súp sẽ sánh lại.",
+      "why": "(1) đúng: 粉を水で溶く = hoà bột vào nước. (2) kem tự tan → 溶けて (tự động từ); (3) giải toả hiểu lầm → 解く (khác chữ); (4) nung chảy sắt → 溶かして."
+    },
+    {
+      "id": "g23-t7",
+      "kind": "paraphrase",
+      "ref": "g23-w15",
+      "q": "{多|おお}くの{研究者|けんきゅうしゃ}が、この{新|あたら}しい{技術|ぎじゅつ}に{関心|かんしん}を[[u:寄せて]]いる。",
+      "options": [
+        "なくして",
+        "隠して",
+        "送って",
+        "持って"
+      ],
+      "answer": 3,
+      "vi": "Nhiều nhà nghiên cứu đang quan tâm đến công nghệ mới này.",
+      "why": "関心を寄せる = dành sự quan tâm ≒ **関心を持つ**. 送る là bẫy: 寄せる có nghĩa \"gửi\" (意見を寄せる) nhưng 関心を送る không nói; なくす = mất (ngược nghĩa); 隠す = che giấu."
+    },
+    {
+      "id": "g23-t8",
+      "kind": "usage",
+      "ref": "g23-w10",
+      "q": "ふさがる",
+      "options": [
+        "このパンは、中にクリームがふさがっていておいしい。",
+        "急に用事がふさがったので、パーティーに行けなくなった。",
+        "落ちてきた岩で、トンネルの入口がふさがってしまった。",
+        "長い髪が目にふさがって、前が見えない。"
+      ],
+      "answer": 2,
+      "vi": "(3) Do đá lăn xuống, lối vào đường hầm đã bị chắn kín.",
+      "why": "(3) đúng: 入口・道・通路がふさがる = bị chắn. (1) có kem bên trong → {詰|つ}まって／{入|はい}って; (2) có việc đột xuất → 用事が**できた** (ふさがる chỉ dùng cho lịch đã kín: 予定がふさがっている); (4) tóc che mắt → かかって."
+    },
+    {
+      "id": "g23-t9",
+      "kind": "context",
+      "ref": "g23-w5",
+      "q": "{今回|こんかい}の{選挙|せんきょ}の{結果|けっか}のかぎを（　　）のは、{若|わか}い{世代|せだい}の{投票|とうひょう}だ。",
+      "options": [
+        "握っている",
+        "寄せている",
+        "触れている",
+        "積んでいる"
+      ],
+      "answer": 0,
+      "vi": "Yếu tố then chốt quyết định kết quả cuộc bầu cử lần này là lá phiếu của thế hệ trẻ.",
+      "why": "〜のかぎを**握る** = nắm yếu tố then chốt (cụm cố định). 寄せる đi với 関心・期待; 触れる cần に (かぎに触れる = chạm chìa khoá — nghĩa đen, không hợp); 積む đi với 経験・荷物."
+    },
+    {
+      "id": "g23-t10",
+      "kind": "usage",
+      "ref": "g23-w14",
+      "q": "{招|まね}く",
+      "options": [
+        "大雨が招いて、川があふれた。",
+        "創立記念のパーティーに、地元の市長を招いてあいさつをしてもらった。",
+        "郵便局で荷物を招いた。",
+        "毎朝、母が私を七時に招いてくれる。"
+      ],
+      "answer": 1,
+      "vi": "(2) Chúng tôi đã mời ông thị trưởng địa phương đến tiệc kỷ niệm thành lập và phát biểu.",
+      "why": "(2) đúng: 〔人〕をパーティーに招く = mời. (1) mưa lớn kéo dài → {降|ふ}り{続|つづ}いて (招く là tha động từ, cần tân ngữ: 大雨が{洪水|こうずい}を招いた); (3) gửi bưu kiện → {出|だ}した／{送|おく}った; (4) đánh thức → {起|お}こして."
+    },
+    {
+      "id": "g23-t11",
+      "kind": "context",
+      "ref": "g23-w12",
+      "q": "{一緒|いっしょ}に{行|い}こうと{誘|さそ}ったが、{彼女|かのじょ}は{黙|だま}って{首|くび}を{横|よこ}に（　　）。",
+      "options": [
+        "握った",
+        "寄せた",
+        "ぶつけた",
+        "振った"
+      ],
+      "answer": 3,
+      "vi": "Tôi rủ cô ấy đi cùng nhưng cô ấy chỉ im lặng lắc đầu.",
+      "why": "首を横に**振る** = lắc đầu (từ chối); 首を縦に振る = gật đầu. 握る = nắm trong tay — không dùng với 首; 寄せる = đưa sát vào — 首を横に寄せる không phải cách nói; ぶつける = đâm vào — sai nghĩa."
+    }
+  ]
+}

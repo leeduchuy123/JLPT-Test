@@ -1,0 +1,224 @@
+{
+  "id": "b38",
+  "track": "bunpo",
+  "intro": "Tiếng Việt gần như không chia thì: \"tôi đi\", \"tôi đã đi\", \"tôi sẽ đi\" chỉ cần thêm một chữ, thậm chí bỏ luôn cũng hiểu. Tiếng Nhật thì **mỗi động từ phải chọn một dạng**: 「〜る」 (非過去 — không quá khứ), 「〜た」 (quá khứ / hoàn thành), 「〜ている」, 「〜ていた」. Đây là chỗ người Việt hay sai nhất khi viết, và là dạng bẫy quen thuộc của **問題9**: bốn phương án là **cùng một động từ ở bốn dạng** (書く／書いた／書いている／書いていた).\n\nBài này đi theo ba tầng:\n- **Nghĩa của từng dạng**: る形 lúc là tương lai, lúc là hiện tại (tuỳ loại động từ); た形 không chỉ là quá khứ; 〜ている có tới 5 cách dùng.\n- **Thì trong câu phức**: trong mệnh đề phụ (〜とき・〜場合・〜際…), る/た **không** tính theo lúc nói, mà theo **trước hay sau mệnh đề chính** (thì tương đối).\n- **Thì trong đoạn văn**: chuyện kể quá khứ thì sự kiện dùng 〜た, bối cảnh dùng 〜ていた; xu hướng đến hiện tại dùng 〜ている.\n\nKhi gặp câu hỏi chọn thì, hãy tự hỏi lần lượt: ① Đoạn văn đang đứng ở **thời điểm nào** (quá khứ hay hiện tại)? ② Đây là **sự kiện** hay **trạng thái / bối cảnh**? ③ Việc này xảy ra **trước hay sau** việc ở mệnh đề chính?",
+  "points": [
+    {
+      "id": "b38-1",
+      "pattern": "動詞の現在形（〜る）の用法",
+      "reading": "どうしのげんざいけい（〜る）のようほう",
+      "meaning": "Thể る: tương lai (động từ hành động), hiện tại (động từ trạng thái, cảm giác, tuyên bố), chân lý / thói quen",
+      "structure": ["動き動詞 (行く・食べる・卒業する…) の る形 → tương lai / thói quen", "状態動詞 (ある・いる・できる・要る・わかる・可能形) の る形 → hiện tại", "感覚 (痛む・かゆい・頭痛がする) → cảm giác ngay lúc này", "宣言 (誓う・約束する・同意する・お願いする) の ます形 → nói ra chính là hành động", "真理・習慣：太陽は東から昇る／父は毎朝6時に起きる"],
+      "explain": "Gọi là 現在形 nhưng thật ra る形 là **\"không quá khứ\"** (非過去). Nó chỉ tương lai hay hiện tại là **do loại động từ** quyết định:\n\n- **Động từ hành động** (動き: 行く, 書く, 卒業する, 降る…) ở る形 = **tương lai** hoặc **thói quen**. 「来週、引っ越す」 = tuần sau sẽ chuyển nhà. Muốn nói \"đang\" thì phải dùng **〜ている**.\n- **Động từ trạng thái** (ある, いる, できる, わかる, 要る, dạng khả năng 話せる…) ở る形 = **hiện tại**. 「兄は中国語ができる」 = bây giờ biết tiếng Trung.\n- **Cảm giác** (痛む, しびれる, めまいがする): る形 = cảm giác **ngay lúc này**. 「手術の傷がまだ痛む」.\n- **Tuyên bố** (誓います, 約束します, 同意します, お願いします, 宣言します): **nói ra chính là làm** — lời nói = hành động (vì vậy không dùng た).\n- **Chân lý, quy luật, thói quen**: 「水は100度で沸騰する」「地球は一日に一回自転する」.\n\nTính từ và danh từ + だ ở dạng hiện tại thì đơn giản: chỉ hiện tại hoặc điều không gắn với thời gian.",
+      "nuance": "Bẫy lớn nhất: dùng る形 của động từ hành động để nói việc **đang diễn ra trước mắt**. 「見て、子どもが遊ぶ」 ✗ → 「遊んでいる」. Ngược lại, động từ trạng thái ある／いる không thêm ている: ✗ 「お金がありている」. Trong đoạn văn kể chuyện, る形 của động từ hành động còn được dùng để nói việc **sắp làm** so với mốc kể (xem b38-4).",
+      "examples": [
+        {"ja": "{来月|らいげつ}から{大阪|おおさか}{支店|してん}に{転勤|てんきん}する。", "vi": "Từ tháng sau tôi sẽ chuyển công tác đến chi nhánh Osaka.", "note": "động từ hành động → tương lai"},
+        {"ja": "{姉|あね}は{三|さん}か{国語|こくご}が{話|はな}せる。", "vi": "Chị tôi nói được ba thứ tiếng.", "note": "dạng khả năng = trạng thái → hiện tại"},
+        {"ja": "さっきから{奥歯|おくば}がずきずき{痛|いた}む。", "vi": "Từ nãy răng hàm cứ đau nhói.", "note": "cảm giác → hiện tại"},
+        {"ja": "{上記|じょうき}の{規約|きやく}をよく{読|よ}み、その{内容|ないよう}に{同意|どうい}します。", "vi": "Tôi đã đọc kỹ điều khoản trên và đồng ý với nội dung đó.", "note": "tuyên bố: nói ra = hành động (ô đánh dấu trên web)"},
+        {"ja": "{水|みず}は{一気圧|いちきあつ}のもとでは100{度|ど}で{沸騰|ふっとう}する。", "vi": "Ở áp suất một atmosphere, nước sôi ở 100 độ.", "note": "chân lý"},
+        {"ja": "{父|ちち}は{毎朝|まいあさ}6{時|じ}に{起|お}きて、{犬|いぬ}の{散歩|さんぽ}に{行|い}く。", "vi": "Bố tôi sáng nào cũng dậy lúc 6 giờ và dắt chó đi dạo.", "note": "thói quen"}
+      ],
+      "compare": [
+        {"with": "〜ている (b38-3)", "diff": "Động từ hành động: 「書く」 = sẽ viết / thường viết; 「書いている」 = đang viết. Động từ trạng thái (ある・いる・できる) thì る形 đã là hiện tại, không cần ている."},
+        {"with": "〜た (b38-2)", "diff": "Với động từ tuyên bố, dùng る形 (約束します) chứ không dùng た, vì lời nói và hành động xảy ra cùng lúc."}
+      ],
+      "mistakes": [
+        "✗ {見|み}て、{子|こ}どもたちが{公園|こうえん}で{遊|あそ}ぶ。→ ○ …公園で遊んでいる。(đang diễn ra trước mắt)",
+        "✗ {明日|あした}は{雨|あめ}が{降|ふ}った。→ ○ 明日は雨が降る(だろう)。",
+        "✗ {私|わたし}は{今|いま}{日本語|にほんご}ができている。→ ○ 私は今日本語ができる。(できる là trạng thái)"
+      ],
+      "tip": "Thấy động từ ở る形 trong phương án, hỏi ngay: **hành động hay trạng thái?** Hành động + bối cảnh \"đang, ngay trước mắt\" → loại る形, chọn 〜ている. Trạng thái (ある・できる・わかる) + \"bây giờ\" → る形 là đúng."
+    },
+    {
+      "id": "b38-2",
+      "pattern": "動詞の過去形（〜た）の用法",
+      "reading": "どうしのかこけい（〜た）のようほう",
+      "meaning": "Thể た: quá khứ, quá khứ kéo đến hiện tại, kết quả hoàn thành, hoàn thành trong tương lai, hình dạng, trạng thái sinh lý / phát hiện",
+      "structure": ["過去：先週〜した", "現在につながる過去：さっきからずっとここにいた", "完了の結果 (trạng thái bây giờ)：最近太った／背が伸びた", "未来完了：あした〜た人は… (việc đã xong trước một mốc tương lai)", "形状・状態 (bổ nghĩa danh từ)：丸い形をした建物／青い目をした猫", "生理状態・発見・想起：おなかがすいた／あ、あった！／明日は会議だったね"],
+      "explain": "「た」 không chỉ là \"quá khứ\". Nghĩa gốc của nó là **\"đã hoàn thành\"**, nên dùng được cả khi chuyện xảy ra trong tương lai hoặc trạng thái đang có bây giờ.\n\n- **Quá khứ**: 「先週、大学時代の先輩が遊びに来た」.\n- **Quá khứ kéo đến hiện tại**: 「なんだ、ここにいたのか。ずっと探していたよ」 — hoá ra (từ nãy đến giờ) cậu ở đây.\n- **Kết quả của việc đã hoàn thành** (nói về trạng thái hiện tại): 「この一年でずいぶん髪が伸びた」 = tóc dài ra nhiều (bây giờ đang dài). Tiếng Việt cũng nói \"dài **ra** rồi\".\n- **Hoàn thành trong tương lai**: 「明日、八時までに来なかった人は置いていきます」 — ai (đến lúc đó) chưa đến thì sẽ bị bỏ lại. Việc \"không đến kịp\" được xác định **trước** việc xuất phát.\n- **Hình dạng, đặc điểm** (chỉ khi bổ nghĩa danh từ): 「星の形をしたクッキー」「長い髪をした女の子」.\n- **Trạng thái sinh lý, phát hiện, nhớ ra**: 「ああ、のどが渇いた」「あ、鍵、ここにあった！」「明日は会議があったね」 — dù sự việc thuộc hiện tại / tương lai, người nói dùng た vì vừa **nhận ra** nó.",
+      "nuance": "Cách dùng \"hình dạng\" chỉ xuất hiện trong cụm bổ nghĩa danh từ: 「星の形をしたクッキー」 ○, nhưng ở cuối câu phải nói 「このクッキーは星の形をしている」 (〜ている). Cách dùng \"phát hiện\" mang sắc thái hội thoại, cảm thán.",
+      "examples": [
+        {"ja": "{先月|せんげつ}、{久|ひさ}しぶりに{実家|じっか}へ{帰|かえ}った。", "vi": "Tháng trước tôi về quê sau một thời gian dài.", "note": "quá khứ"},
+        {"ja": "{朝|あさ}から{何|なに}も{食|た}べていないので、おなかがすいた。", "vi": "Từ sáng chưa ăn gì nên đói bụng rồi.", "note": "trạng thái sinh lý hiện tại"},
+        {"ja": "しばらく{会|あ}わないうちに、{甥|おい}はずいぶん{背|せ}が{伸|の}びた。", "vi": "Mới không gặp một thời gian mà thằng cháu đã cao lên nhiều.", "note": "kết quả hoàn thành → trạng thái bây giờ"},
+        {"ja": "{明日|あした}、{会場|かいじょう}に{早|はや}く{着|つ}いた{人|ひと}は、{椅子|いす}を{並|なら}べておいてください。", "vi": "Ngày mai ai đến hội trường sớm thì xếp ghế giúp nhé.", "note": "hoàn thành trong tương lai: đến nơi trước rồi mới xếp ghế"},
+        {"ja": "{駅前|えきまえ}に、{三角|さんかく}の{形|かたち}をしたビルが{建|た}っている。", "vi": "Trước ga có một toà nhà hình tam giác.", "note": "hình dạng (bổ nghĩa danh từ)"},
+        {"ja": "あ、{探|さが}していた{鍵|かぎ}、こんなところにあった！", "vi": "A, cái chìa khoá đang tìm, hoá ra ở chỗ này!", "note": "phát hiện"}
+      ],
+      "compare": [
+        {"with": "〜た ↔ 〜ている (hoàn thành)", "diff": "「田中さんはもう来た」: nhấn vào việc đến đã xảy ra. 「田中さんはもう来ている」: nhấn vào trạng thái **đang có mặt** ở đây."},
+        {"with": "Vた ＋ N ↔ Vている ＋ N", "diff": "「ハートの形をしたチョコ」「ハートの形をしているチョコ」 đều được. Nhưng cuối câu chỉ nói 「〜形をしている」, không nói 「〜形をした。」 để mô tả hình dạng."}
+      ],
+      "mistakes": [
+        "✗ ハートの{形|かたち}をするチョコレートをもらった。→ ○ ハートの形をしたチョコレート (hoặc 形をしている)",
+        "✗ {最近|さいきん}、{少|すこ}し{太|ふと}る。→ ○ 最近、少し太った。(kết quả đã thay đổi)",
+        "✗ {寝坊|ねぼう}する{人|ひと}は、{後|あと}から{一人|ひとり}で{来|き}てください。→ ○ 寝坊した人は… (việc ngủ quên xảy ra trước việc tự đến)"
+      ],
+      "tip": "Câu nói về **tương lai** mà mệnh đề bổ nghĩa người (〜人は) chỉ việc phải xong **trước** hành động chính → chọn 〜た (遅れた人は, 着いた人は, 終わった人から)."
+    },
+    {
+      "id": "b38-3",
+      "pattern": "「〜ている」の用法",
+      "reading": "「〜ている」のようほう",
+      "meaning": "〜ている: đang diễn ra; kết quả còn lưu lại; hình dạng; đã hoàn thành tại một mốc; kinh nghiệm / hồ sơ",
+      "structure": ["動作・事態の継続：〜ている (đang…, xu hướng đang tiếp diễn)", "結果の存続：消えている・開いている・結婚している", "形状・様子：曲がっている・とがっている・似ている", "完了 (tại một mốc)：〜たときにはもう〜ていた／〜年後には〜ているだろう", "経験・記録：〜年前に〜ている (ghi nhận từ góc nhìn hiện tại)"],
+      "explain": "「〜ている」 có nghĩa gì phụ thuộc vào **loại động từ**:\n\n- **Động từ kéo dài** (読む, 走る, 減る, 増える): 〜ている = **đang** diễn ra. 「この町では年々商店が減っている」 — xu hướng đang tiếp diễn.\n- **Động từ tức thời** (消える, 開く, 死ぬ, 結婚する, 来る): 〜ている = **kết quả còn lưu lại**. 「時計が止まっている」 = (đã dừng) và giờ vẫn dừng, chứ không phải \"đang dừng dần\".\n- **Hình dạng, đặc điểm** (曲がる, とがる, 似る, すぐれる): luôn dùng 〜ている. 「このはさみは先がとがっている」.\n- **Hoàn thành tại một mốc**: 「店に着いたときには、パンはもう**売り切れていた**」 — tính đến mốc tôi đến, việc bán hết đã xong. Mốc tương lai: 「来年の今ごろは、新しい家に**住んでいるだろう**」.\n- **Kinh nghiệm, hồ sơ**: 「この橋は過去にも二度、大雨で流されている」 — một việc trong quá khứ được nhìn như **một dòng trong hồ sơ** hiện tại. Rất hay gặp trong tin tức, tiểu sử: 「この作家は若いころ二度大きな賞を受けている」.",
+      "nuance": "Bẫy kinh điển trong câu kể quá khứ: 「着いたとき、会議はもう**始まった**」 ✗ — phải là 「始まっていた」, vì cần nói trạng thái \"đã bắt đầu rồi\" **tại mốc** lúc tôi đến. Cũng đừng nhầm 〜ている (tự động từ: 窓が開いている) với 〜てある (tha động từ, có người cố ý làm: 窓が開けてある).",
+      "examples": [
+        {"ja": "{世界|せかい}の{人口|じんこう}は{今|いま}も{増|ふ}え{続|つづ}けている。", "vi": "Dân số thế giới hiện vẫn đang tiếp tục tăng.", "note": "継続 — xu hướng"},
+        {"ja": "{部屋|へや}の{電気|でんき}が{消|き}えている。もう{寝|ね}たのだろう。", "vi": "Đèn phòng đã tắt. Chắc là ngủ rồi.", "note": "結果の存続"},
+        {"ja": "この{道|みち}は、{橋|はし}を{渡|わた}った{先|さき}で{右|みぎ}に{大|おお}きく{曲|ま}がっている。", "vi": "Con đường này qua cầu thì rẽ cong mạnh sang phải.", "note": "形状"},
+        {"ja": "{私|わたし}が{会場|かいじょう}に{着|つ}いたとき、{式|しき}はもう{始|はじ}まっていた。", "vi": "Khi tôi đến hội trường thì buổi lễ đã bắt đầu rồi.", "note": "完了 tại mốc quá khứ → ていた"},
+        {"ja": "10{年後|ねんご}には、この{町|まち}にも{新幹線|しんかんせん}が{通|とお}っているだろう。", "vi": "Mười năm sau chắc thị trấn này cũng đã có tàu Shinkansen chạy qua.", "note": "完了 tại mốc tương lai"},
+        {"ja": "この{作家|さっか}は、{若|わか}いころに{二度|にど}、{大|おお}きな{文学賞|ぶんがくしょう}を{受|う}けている。", "vi": "Nhà văn này hồi trẻ đã hai lần nhận giải văn học lớn.", "note": "経験・記録"}
+      ],
+      "compare": [
+        {"with": "〜ている ↔ 〜てある", "diff": "「ドアが開いている」: chỉ mô tả trạng thái (tự động từ). 「ドアが開けてある」: có người đã cố ý mở (tha động từ), thường vì một mục đích."},
+        {"with": "〜ていた ↔ 〜た (kể chuyện)", "diff": "「着いたとき、始まった」 = vừa đến thì bắt đầu (hai việc nối tiếp). 「着いたとき、始まっていた」 = đến nơi thì đã bắt đầu từ trước rồi."}
+      ],
+      "mistakes": [
+        "✗ {私|わたし}が{着|つ}いたとき、{会議|かいぎ}はもう{始|はじ}まった。→ ○ …会議はもう始まっていた。",
+        "✗ {彼|かれ}は{父親|ちちおや}によく{似|に}る。→ ○ 彼は父親によく似ている。",
+        "✗ {窓|まど}が{開|あ}けている。→ ○ 窓が開いている／窓が開けてある。"
+      ],
+      "tip": "Có 「もう」 + mốc thời gian (〜たとき、〜たときには) trong câu kể quá khứ → gần như chắc chắn chọn **〜ていた**. Tin tức, tiểu sử nói \"trước đây đã từng…\" như một dữ kiện → **〜ている**."
+    },
+    {
+      "id": "b38-4",
+      "pattern": "複文の時制（1）〜る／〜たとき・場合・際",
+      "reading": "ふくぶんのじせい（1）〜る／〜たとき・ばあい・さい",
+      "meaning": "Thì của mệnh đề phụ (〜とき・〜場合・〜際) do thứ tự trước/sau với mệnh đề chính quyết định, không phải thời điểm nói",
+      "structure": ["(việc trong mệnh đề phụ xảy ra TRƯỚC mệnh đề chính) Vた ＋ とき／場合／際、〜", "(việc trong mệnh đề phụ xảy ra SAU mệnh đề chính) V辞書形 ＋ とき／場合／際、〜", "(đồng thời) V辞書形／Vている ＋ とき、〜", "Áp dụng cả cho mệnh đề bổ nghĩa danh từ：〜た人は／〜る人は"],
+      "explain": "Câu phức gồm **câu chính** (主の文) và **câu con** nằm bên trong (中の文): 「私は［子どもが熱を出した］ときは、仕事を休む」.\n\nQuy tắc vàng: thì của câu con **không** tính theo lúc nói, mà theo **quan hệ trước – sau với câu chính**:\n- Câu con xảy ra **trước** → **た**: 「来月ソウルへ**行った**とき、有名な市場を回る」. Chuyện tương lai, nhưng phải **đến Seoul rồi** mới đi chợ → 行った.\n- Câu con xảy ra **sau** → **る**: 「子どものころ、私が**出かける**とき、母はいつも帽子をかぶせてくれた」. Chuyện quá khứ, nhưng mẹ đội mũ cho tôi **trước khi** tôi ra ngoài → 出かける.\n- **Đồng thời** → る (hoặc ている): 「坂道を**走る**とき、息が苦しくなる」.\n\nCặp ví dụ nên thuộc lòng:\n- 「国へ**帰る**とき、空港でお土産を買った」 — mua ở sân bay **bên này**, trước khi về.\n- 「国へ**帰った**とき、家族にお土産を渡した」 — về đến nhà rồi mới đưa quà.\n\nCùng quy tắc với 〜場合, 〜際 và mệnh đề bổ nghĩa danh từ: 「予約を**キャンセルした**場合、料金の半額がかかる」 (huỷ trước, bị tính phí sau).",
+      "nuance": "Người Việt hay \"dịch thì\" từ tiếng Việt: nghĩ chuyện tương lai → る, chuyện quá khứ → た. Đó chính là bẫy. Hãy vẽ một trục thời gian nhỏ: việc nào ở bên trái (trước)? Việc trước dùng た, việc sau dùng る — bất kể câu chính ở thì nào.",
+      "examples": [
+        {"ja": "{来週|らいしゅう}{京都|きょうと}へ{行|い}ったとき、{大学|だいがく}{時代|じだい}の{友人|ゆうじん}に{会|あ}うつもりだ。", "vi": "Tuần sau khi đến Kyoto, tôi định gặp người bạn thời đại học.", "note": "chuyện tương lai nhưng 行った: đến nơi rồi mới gặp"},
+        {"ja": "{昨日|きのう}{家|いえ}を{出|で}るとき、{母|はは}に{傘|かさ}を{持|も}っていくように{言|い}われた。", "vi": "Hôm qua lúc sắp ra khỏi nhà, tôi bị mẹ dặn mang ô theo.", "note": "chuyện quá khứ nhưng 出る: bị dặn trước khi ra"},
+        {"ja": "{国|くに}へ{帰|かえ}るとき、{空港|くうこう}で{家族|かぞく}へのお{土産|みやげ}を{買|か}った。", "vi": "Lúc về nước, tôi mua quà cho gia đình ở sân bay.", "note": "mua trước khi về → 帰る"},
+        {"ja": "{国|くに}へ{帰|かえ}ったとき、{家族|かぞく}にお{土産|みやげ}を{渡|わた}した。", "vi": "Khi về đến nước, tôi đưa quà cho gia đình.", "note": "về rồi mới đưa → 帰った"},
+        {"ja": "{注文|ちゅうもん}した{商品|しょうひん}が{一週間|いっしゅうかん}たっても{届|とど}かなかった{場合|ばあい}は、こちらへご{連絡|れんらく}ください。", "vi": "Trường hợp sau một tuần hàng đã đặt vẫn chưa đến, xin liên hệ với chúng tôi.", "note": "場合 + た: việc 'không đến' xác định trước, rồi mới liên hệ"},
+        {"ja": "{面接|めんせつ}{会場|かいじょう}に{入|はい}る{際|さい}、ドアを{三回|さんかい}ノックした。", "vi": "Khi bước vào phòng phỏng vấn, tôi gõ cửa ba lần.", "note": "gõ cửa trước khi vào → 入る際"}
+      ],
+      "compare": [
+        {"with": "〜たら", "diff": "「〜たら」 luôn có nghĩa \"sau khi A\": 「京都へ行ったら、友人に会う」. Nhưng 「〜たら、〜た」 thường mang nghĩa **phát hiện** (開けたら、猫がいた), không phải kể trình tự trung tính như 「〜たとき」."},
+        {"with": "〜る前に／〜た後で (b38-5)", "diff": "「前に」「後で」 có dạng cố định (luôn る / luôn た). 「とき」 thì phải tự xét trước – sau nên dễ sai hơn."}
+      ],
+      "mistakes": [
+        "✗ {来年|らいねん}{日本|にほん}へ{行|い}くとき、{富士山|ふじさん}に{登|のぼ}りたい。→ ○ 日本へ行ったとき、… (leo núi khi đã ở Nhật)",
+        "✗ {毎晩|まいばん}{寝|ね}たとき、{歯|は}を{磨|みが}く。→ ○ 寝るとき／寝る前に (đánh răng trước khi ngủ)",
+        "✗ {友達|ともだち}の{家|いえ}へ{行|い}ったとき、{途中|とちゅう}で{花|はな}を{買|か}った。→ ○ 友達の家へ行くとき、途中で… (mua trên đường, trước khi đến)"
+      ],
+      "tip": "Bốn phương án là 「〜る／〜た」 của cùng động từ trước 「とき・場合・際」 → bỏ qua thì của câu chính, chỉ hỏi: **việc này xong trước hay sau việc chính?** Trước → た; sau hoặc đồng thời → る. Từ khoá giúp đoán: 途中で, 空港で (nơi xuất phát) → る; 着いて, 帰ってから → た."
+    },
+    {
+      "id": "b38-5",
+      "pattern": "複文の時制（2）〜前に・〜後で・〜と・〜間",
+      "reading": "ふくぶんのじせい（2）〜まえに・〜あとで・〜と・〜あいだ",
+      "meaning": "Các khuôn \"khoá thì\": 前に luôn る, 後で luôn た, 〜と (phát hiện) luôn る, 〜間 đồng thời",
+      "structure": ["V辞書形 ＋ 前に (luôn る, kể cả chuyện quá khứ)", "Vた形 ＋ 後で／後(あと)／てから (luôn た, kể cả chuyện tương lai)", "V辞書形 ＋ と、〜た／〜ていた (phát hiện trong chuyện quá khứ: 〜ると…)", "Vている／Vていた ＋ 間(あいだ)／間に (đồng thời)", "Đồng thời, cả hai đều được：この車を買う／買ったとき、銀行でローンを組んだ"],
+      "explain": "Không phải lúc nào cũng phải suy nghĩ trước – sau. Có những khuôn mà **thì đã bị khoá sẵn**:\n\n- **〜る前に**: luôn る. ✗ 寝た前に — dù là chuyện tối qua: 「昨夜は寝る前に資料を確認した」.\n- **〜た後で／〜た後／〜てから**: luôn た. ✗ 食べる後で — dù là chuyện ngày mai: 「会議が終わった後で相談しよう」.\n- **〜と、〜た** (phát hiện, chuyện xảy ra ngay sau): trước 「と」 **luôn là る**, kể cả trong chuyện quá khứ: 「家に帰ると、玄関に知らない靴があった」. ✗ 帰ったと.\n- **〜間(に)**: hai việc **cùng một khoảng thời gian** → 〜ている間／〜ていた間. 「私が料理をしている間、夫は子どもをお風呂に入れていた」. Cả 「している間」 lẫn 「していた間」 đều được.\n\nKhi hai việc **đồng thời** hoặc có thể nhìn theo hai cách, cả る và た đều có thể đúng: 「この車を買う／買ったとき、銀行でローンを組んだ」 (買う = trong quá trình mua; 買った = lúc mua xong). Đề thi sẽ không bẫy ở những câu như vậy, mà ở **khuôn khoá thì**.",
+      "nuance": "「〜と」 kể chuyện quá khứ là văn viết / văn kể chuyện, vế sau là việc người nói **phát hiện / thấy** (〜があった, 〜ていた) chứ không phải hành động có chủ ý của chính mình. 「〜間」: suốt cả khoảng; 「〜間に」: tại một lúc nào đó trong khoảng (đi với việc tức thời: 留守の間に泥棒に入られた).",
+      "examples": [
+        {"ja": "{昨夜|さくや}は{寝|ね}る{前|まえ}に、{明日|あした}の{資料|しりょう}をもう{一度|いちど}{確認|かくにん}した。", "vi": "Tối qua trước khi ngủ, tôi đã kiểm tra lại tài liệu cho ngày mai một lần nữa.", "note": "chuyện quá khứ vẫn 寝る前に"},
+        {"ja": "{会議|かいぎ}が{終|お}わった{後|あと}で、{部長|ぶちょう}に{相談|そうだん}するつもりだ。", "vi": "Sau khi cuộc họp kết thúc, tôi định bàn với trưởng phòng.", "note": "chuyện tương lai vẫn 終わった後で"},
+        {"ja": "{家|いえ}に{帰|かえ}ると、{玄関|げんかん}に{見|み}たことのない{靴|くつ}があった。", "vi": "Về đến nhà thì thấy ở cửa có một đôi giày lạ.", "note": "〜ると、〜た: phát hiện"},
+        {"ja": "{私|わたし}が{料理|りょうり}をしている{間|あいだ}、{夫|おっと}は{子|こ}どもをお{風呂|ふろ}に{入|い}れていた。", "vi": "Trong lúc tôi nấu ăn thì chồng tôi tắm cho con.", "note": "〜ている間 (đồng thời)"},
+        {"ja": "{旅行|りょこう}で{留守|るす}にしていた{間|あいだ}に、{庭|にわ}の{花|はな}がすっかり{咲|さ}いていた。", "vi": "Trong lúc đi du lịch vắng nhà, hoa trong vườn đã nở rộ.", "note": "〜ていた間に"},
+        {"ja": "{重|おも}い{荷物|にもつ}を{持|も}ち{上|あ}げるとき、{腰|こし}を{痛|いた}めてしまった。", "vi": "Lúc nhấc đồ nặng lên, tôi bị đau lưng.", "note": "đồng thời → る"}
+      ],
+      "compare": [
+        {"with": "〜てから ↔ 〜た後で", "diff": "Cùng nghĩa \"sau khi\". 「てから」 nhấn thứ tự (làm A xong rồi mới B), 「た後で」 trung tính hơn. Cả hai đều khoá thì: luôn ở dạng \"đã xong\"."},
+        {"with": "〜と ↔ 〜たら (phát hiện)", "diff": "「家に帰ると／帰ったら、靴があった」 đều được. Nhưng trước 「と」 luôn là る, còn 「たら」 luôn là た — đề hay bẫy bằng 「帰ったと」 hoặc 「帰るたら」."}
+      ],
+      "mistakes": [
+        "✗ {日本|にほん}に{来|き}た{前|まえ}に、{少|すこ}し{日本語|にほんご}を{勉強|べんきょう}した。→ ○ 日本に来る前に…",
+        "✗ {卒業|そつぎょう}する{後|あと}で、{留学|りゅうがく}するつもりだ。→ ○ 卒業した後で…",
+        "✗ ドアを{開|あ}けたと、{猫|ねこ}が{飛|と}び{出|だ}してきた。→ ○ ドアを開けると、…"
+      ],
+      "tip": "Thấy 「前に」「後で」「と、〜た」 ngay sau chỗ trống → đáp án gần như tự động: 前に ← る, 後で ← た, と ← る. Đây là câu \"ăn điểm\" nhanh trong 問題9, đừng suy nghĩ quá."
+    },
+    {
+      "id": "b38-6",
+      "pattern": "文章の中の時制（〜た・〜ていた・〜ている）",
+      "reading": "ぶんしょうのなかのじせい（〜た・〜ていた・〜ている）",
+      "meaning": "Trong đoạn văn: chuyện kể quá khứ — sự kiện dùng 〜た, bối cảnh/trạng thái dùng 〜ていた; nhìn lại từ hiện tại dùng る形; xu hướng đến nay dùng 〜ている",
+      "structure": ["Sự kiện nối tiếp (chuyện quá khứ)：〜た。〜た。", "Bối cảnh, trạng thái, thói quen lúc đó：〜ていた", "Bổ nghĩa danh từ trong chuyện quá khứ：当時飼っていた犬／荒れていた庭", "Nhìn lại từ hiện tại：今思うと、〜た(ような)気がする／〜と思う", "Bài viết về hiện trạng：〜ている (増えている・注目を集めている) ／ sự kiện mới：〜た (乗り出した)"],
+      "explain": "Trong 問題9, đoạn văn thường là **hồi ký / tuỳ bút** (kể chuyện quá khứ) hoặc **bài báo, bình luận** (nói về hiện trạng). Mỗi loại có \"nhịp thì\" riêng.\n\n**① Chuyện kể quá khứ**: hình dung như quay phim.\n- **Sự kiện** — những việc làm câu chuyện tiến lên — dùng **〜た**: 「ある日、弟が大きな魚を捕まえた」.\n- **Phông nền** — trạng thái, việc đang diễn ra sẵn, thói quen thời đó — dùng **〜ていた**: 「家の近くには小さな川が流れていた」「その日も私は縁側で本を読んでいた」.\n- Mệnh đề bổ nghĩa danh từ trong chuyện cũ cũng thường dùng 〜ていた: 「当時住んでいたアパート」.\n\n**② Người viết quay về hiện tại** để nhận xét: dùng る形 cho động từ cảm nghĩ: 「今思えば、あの一年が私を変えた**ような気がする**」 (気がする là cảm giác **bây giờ**; việc \"thay đổi\" thì đã xảy ra nên 変えた).\n\n**③ Bài báo / bình luận về hiện trạng**: xu hướng đang tiếp diễn → **〜ている** (増えている, 遅れている, 注目を集めている); một bước đi mới vừa xảy ra → **〜た** (対策に乗り出した).",
+      "nuance": "Văn kể chuyện tiếng Nhật đôi khi chen る形 vào giữa chuỗi た để tạo cảm giác \"đang tận mắt chứng kiến\" (臨場感), nhưng trong đề thi, hãy bám theo nguyên tắc sự kiện → た, phông nền → ていた. Dấu hiệu phông nền: 当時, そのころ, いつも, 毎日, ずっと, もう (+ mốc), 〜ていると.",
+      "examples": [
+        {"ja": "{子|こ}どものころ、{家|いえ}の{裏|うら}には{小|ちい}さな{川|かわ}が{流|なが}れていた。", "vi": "Hồi nhỏ, sau nhà tôi có một con sông nhỏ chảy qua.", "note": "phông nền → ていた"},
+        {"ja": "ある{夏|なつ}の{日|ひ}、その{川|かわ}で{弟|おとうと}が{大|おお}きな{魚|さかな}を{捕|つか}まえた。", "vi": "Một ngày hè nọ, em trai tôi bắt được một con cá to ở con sông đó.", "note": "sự kiện → た"},
+        {"ja": "{当時|とうじ}{住|す}んでいたアパートは、{駅|えき}から{歩|ある}いて30{分|ぷん}もかかった。", "vi": "Căn hộ tôi ở hồi đó đi bộ từ ga mất tới 30 phút.", "note": "当時 + ていた (bổ nghĩa danh từ)"},
+        {"ja": "{今|いま}{思|おも}えば、あの{一年|いちねん}が{私|わたし}の{人生|じんせい}を{変|か}えたような{気|き}がする。", "vi": "Giờ nghĩ lại, tôi có cảm giác chính năm đó đã thay đổi cuộc đời mình.", "note": "nhìn lại từ hiện tại: 変えた + 気がする"},
+        {"ja": "ここ{数年|すうねん}、この{町|まち}を{訪|おとず}れる{外国人|がいこくじん}{観光客|かんこうきゃく}が{増|ふ}え{続|つづ}けている。", "vi": "Mấy năm gần đây, khách du lịch nước ngoài đến thị trấn này tiếp tục tăng.", "note": "xu hướng đến nay → ている"},
+        {"ja": "そこで{市|し}は、{今年|ことし}から{観光|かんこう}マナーの{啓発|けいはつ}に{乗|の}り{出|だ}した。", "vi": "Vì vậy, từ năm nay thành phố đã bắt tay vào tuyên truyền ý thức du lịch.", "note": "bước đi mới → た"}
+      ],
+      "compare": [
+        {"with": "〜ていた ↔ 〜た", "diff": "「部屋に入ると、弟はゲームをしていた」: em đang chơi sẵn khi tôi vào (phông nền). 「部屋に入ると、弟はゲームをやめた」: em dừng chơi ngay khi tôi vào (sự kiện)."},
+        {"with": "〜ている ↔ 〜ていた", "diff": "「祖母は一人で暮らしている」 = đến giờ vẫn sống một mình. 「祖母は当時一人で暮らしていた」 = hồi đó sống một mình (giờ thì không nói tới)."}
+      ],
+      "mistakes": [
+        "✗ {私|わたし}が{部屋|へや}に{入|はい}ると、{弟|おとうと}はゲームをした。→ ○ …弟はゲームをしていた。(việc đang diễn ra sẵn)",
+        "✗ {当時|とうじ}{飼|か}っている{犬|いぬ}は、とても{賢|かしこ}かった。→ ○ 当時飼っていた犬は…",
+        "✗ {今|いま}{振|ふ}り{返|かえ}ると、あの{経験|けいけん}が{役|やく}に{立|た}ったような{気|き}がした。→ ○ …気がする。(cảm giác của bây giờ)"
+      ],
+      "tip": "Gặp chỗ trống chọn thì trong 問題9: ① khoanh các từ chỉ thời gian của đoạn (当時, そのころ, 今, 最近, ここ数年); ② hỏi \"đây là sự kiện hay phông nền?\"; ③ câu có 「今振り返ると／今思えば」 → động từ cảm nghĩ ở る形, việc được nhớ lại ở た."
+    }
+  ],
+  "summary": [
+    {"pattern": "〜る (現在形)", "meaning": "tương lai / hiện tại / chân lý", "key": "hành động → tương lai; trạng thái・cảm giác → hiện tại; 誓います = tuyên bố"},
+    {"pattern": "〜た (過去形)", "meaning": "quá khứ / hoàn thành", "key": "髪が伸びた (kết quả), 来なかった人は (tương lai), 星の形をした N, あ、あった！"},
+    {"pattern": "〜ている", "meaning": "đang / kết quả / hình dạng / đã xong / hồ sơ", "key": "着いたときもう始まっていた; 過去にも二度流されている"},
+    {"pattern": "〜る／〜たとき・場合・際", "meaning": "thì tương đối", "key": "trước câu chính → た; sau / đồng thời → る"},
+    {"pattern": "〜前に・〜後で・〜と・〜間", "meaning": "khuôn khoá thì", "key": "る前に, た後で, ると〜た (phát hiện), ている間"},
+    {"pattern": "文章の中の時制", "meaning": "thì trong đoạn văn", "key": "sự kiện → た; phông nền → ていた; nhìn lại → 気がする; hiện trạng → ている"}
+  ],
+  "passages": {
+    "p1": {
+      "title": "初めての一人旅",
+      "kind": "エッセイ",
+      "ja": "　{高校|こうこう}{二年|にねん}の{夏|なつ}、{私|わたし}は{初|はじ}めて{一人|ひとり}で{旅|たび}に{出|で}た。{行|い}き{先|さき}は、{祖母|そぼ}が{当時|とうじ}{一人|ひとり}で（　1　）{山|やま}あいの{小|ちい}さな{村|むら}だった。\n　{朝早|あさはや}く{家|いえ}を{出|で}るとき、{母|はは}は{心配|しんぱい}そうな{顔|かお}で「{着|つ}いたら{必|かなら}ず{電話|でんわ}しなさい」と{何度|なんど}も{言|い}った。{電車|でんしゃ}とバスを{乗|の}り{継|つ}いで、{村|むら}に{着|つ}いたのは{夕方|ゆうがた}だった。バスを（　2　）と、{祖母|そぼ}がもう{停留所|ていりゅうじょ}で（　3　）。{手|て}を{振|ふ}る{祖母|そぼ}の{姿|すがた}を{見|み}て、{急|きゅう}に{体|からだ}から{力|ちから}が{抜|ぬ}けたのを{覚|おぼ}えている。{祖母|そぼ}の{家|いえ}では、{私|わたし}の{好物|こうぶつ}ばかりが{食卓|しょくたく}に{並|なら}んでいた。\n　{村|むら}で{過|す}ごした{一週間|いっしゅうかん}は、{毎日|まいにち}が{発見|はっけん}の{連続|れんぞく}だった。スマートフォンもほとんどつながらない{場所|ばしょ}だったが、{不思議|ふしぎ}と{退屈|たいくつ}することはなかった。{川|かわ}で{泳|およ}ぎ、{畑|はたけ}で{野菜|やさい}をとり、{夜|よる}は{満天|まんてん}の{星|ほし}を{眺|なが}めた。{今|いま}{振|ふ}り{返|かえ}ると、あの{夏|なつ}、{私|わたし}は{少|すこ}しだけ{大人|おとな}に（　4　）ような{気|き}がする。",
+      "vi": "Mùa hè năm lớp 11, lần đầu tiên tôi đi du lịch một mình. Nơi tôi đến là một ngôi làng nhỏ trong thung lũng, nơi bà tôi hồi đó đang sống một mình.\n\nSáng sớm lúc tôi ra khỏi nhà, mẹ với vẻ mặt lo lắng dặn đi dặn lại: \"Đến nơi nhớ gọi điện ngay nhé\". Đổi tàu rồi đổi xe buýt, đến làng thì đã chiều tối. Vừa xuống xe buýt, tôi đã thấy bà đứng đợi sẵn ở bến. Tôi vẫn nhớ, nhìn thấy bà vẫy tay, tự nhiên người tôi như nhẹ bẫng đi. Ở nhà bà, trên bàn ăn bày toàn những món tôi thích.\n\nMột tuần ở làng, ngày nào cũng là một chuỗi khám phá. Đó là nơi điện thoại hầu như không có sóng, vậy mà lạ thay tôi chẳng hề thấy chán. Tôi bơi ở sông, hái rau ngoài ruộng, đêm thì ngắm bầu trời đầy sao. Giờ nhìn lại, tôi có cảm giác mùa hè năm ấy mình đã trưởng thành thêm được một chút."
+    },
+    "p2": {
+      "title": "増える空き家",
+      "kind": "コラム",
+      "ja": "　{全国|ぜんこく}で{空|あ}き{家|や}が{年々|ねんねん}（　1　）。{国|くに}の{調査|ちょうさ}では、およそ{七軒|ななけん}に{一軒|いっけん}が{空|あ}き{家|や}だという。{持|も}ち{主|ぬし}が（　2　）{後|あと}、{子|こ}どもたちはすでに{都会|とかい}で{暮|く}らしていて、{誰|だれ}も{管理|かんり}しないまま{放置|ほうち}されるケースが{多|おお}い。\n　{家|いえ}というものは、{人|ひと}が{住|す}まないで（　3　）{間|あいだ}に、{驚|おどろ}くほど{早|はや}く{傷|いた}んでいく。そのまま{放|ほう}っておけば、{地震|じしん}や{台風|たいふう}で{倒|たお}れる{危険|きけん}があるし、ごみが{捨|す}てられたり、{火事|かじ}の{原因|げんいん}になったりすることもある。\n　こうした{状況|じょうきょう}を{受|う}けて、{私|わたし}の{住|す}む{市|し}では、{昨年|さくねん}から{空|あ}き{家|や}を{若|わか}い{世代|せだい}に{安|やす}く{貸|か}し{出|だ}す{取|と}り{組|く}みを{始|はじ}めた。{古|ふる}い{家|いえ}を{自分|じぶん}たちで{修理|しゅうり}して（　4　）{若|わか}い{夫婦|ふうふ}は、「{家|いえ}は{古|ふる}くても、ここでの{暮|く}らしはとても{気|き}に{入|い}っています」と{話|はな}す。{空|あ}き{家|や}を「{問題|もんだい}」ではなく「{資源|しげん}」として{生|い}かせるかどうか、{町|まち}の{知恵|ちえ}が{試|ため}されている。",
+      "vi": "Trên cả nước, nhà bỏ trống đang tăng lên qua từng năm. Theo khảo sát của nhà nước, cứ khoảng bảy căn thì có một căn bỏ trống. Có nhiều trường hợp sau khi chủ nhà qua đời, con cái đã sống ở thành phố từ lâu, nên ngôi nhà bị bỏ mặc không ai quản lý.\n\nNgôi nhà, trong khoảng thời gian không có người ở, xuống cấp nhanh đến bất ngờ. Nếu cứ để nguyên như thế, nhà có nguy cơ sập khi động đất hay bão, lại có thể bị vứt rác vào hoặc trở thành nguyên nhân gây hoả hoạn.\n\nTrước tình hình đó, thành phố nơi tôi sống từ năm ngoái đã bắt đầu chương trình cho thế hệ trẻ thuê nhà bỏ trống với giá rẻ. Một cặp vợ chồng trẻ đang sống trong căn nhà cũ do chính họ tự sửa sang cho biết: \"Nhà tuy cũ nhưng chúng tôi rất thích cuộc sống ở đây\". Liệu có biến được nhà bỏ trống từ một \"vấn đề\" thành một \"nguồn tài nguyên\" hay không — trí tuệ của thành phố đang được thử thách."
+    }
+  },
+  "quiz": [
+    {"id": "b38-q1", "kind": "form", "ref": "b38-1", "q": "{見|み}て、{窓|まど}の{外|そと}で{雪|ゆき}がちらちら（　　）よ。", "options": ["降る", "降った", "降っている", "降っていた"], "answer": 2, "vi": "Nhìn kìa, ngoài cửa sổ tuyết đang rơi lất phất đấy.", "why": "Việc **đang diễn ra trước mắt** (見て) với động từ hành động → **降っている**. (1) 「降る」 = sẽ rơi / thường rơi; (2) 「降った」 = đã rơi xong, không hợp với ちらちら đang rơi; (4) 「降っていた」 = lúc trước đã đang rơi, mâu thuẫn với 見て."},
+    {"id": "b38-q2", "kind": "form", "ref": "b38-2", "q": "あ、なくしたと{思|おも}っていた{財布|さいふ}、こんなところに（　　）！", "options": ["いた", "あった", "あっている", "あるだろう"], "answer": 1, "vi": "A, cái ví tưởng đã mất, hoá ra ở chỗ này!", "why": "Cách dùng **phát hiện** của た: dù ví đang ở đây (hiện tại), người nói vừa nhận ra nên dùng **あった**. (1) 「いた」 dùng cho người / động vật, không dùng cho cái ví; (3) 「ある」 không thêm ている; (4) phỏng đoán, mâu thuẫn với việc đang nhìn thấy."},
+    {"id": "b38-q3", "kind": "form", "ref": "b38-3", "q": "{友達|ともだち}の{家|いえ}に{着|つ}いたときには、パーティーはもう（　　）。", "options": ["終わる", "終わっている", "終わっていく", "終わっていた"], "answer": 3, "vi": "Khi tôi đến nhà bạn thì bữa tiệc đã kết thúc rồi.", "why": "Mốc quá khứ (着いたときには) + もう → trạng thái đã hoàn thành tại mốc đó → **終わっていた**. (1) 「終わる」 = sẽ kết thúc; (2) 「終わっている」 là hiện tại, lệch với câu kể quá khứ; (3) 「終わっていく」 = đang dần kết thúc, mâu thuẫn với もう."},
+    {"id": "b38-q4", "kind": "form", "ref": "b38-4", "q": "{来年|らいねん}の{夏|なつ}、{北海道|ほっかいどう}へ（　　）とき、{有名|ゆうめい}なラーメン{屋|や}に{行|い}ってみたい。", "options": ["行った", "行く", "行っている", "行こう"], "answer": 0, "vi": "Mùa hè năm sau khi đến Hokkaido, tôi muốn thử đến quán ramen nổi tiếng.", "why": "Phải **đến Hokkaido trước** rồi mới đi quán ramen → câu con xảy ra trước câu chính → **行った**, dù là chuyện tương lai. (2) 「行くとき」 = lúc trên đường đi (chưa đến); (3) 「行っているとき」 không tự nhiên với chuyến đi; (4) thể ý chí không đứng trước 「とき」."},
+    {"id": "b38-q5", "kind": "form", "ref": "b38-5", "q": "{子|こ}どものころ、{夜|よる}（　　）{前|まえ}に、{祖母|そぼ}がよく{昔話|むかしばなし}をしてくれた。", "options": ["寝た", "寝ていた", "寝る", "寝ている"], "answer": 2, "vi": "Hồi nhỏ, trước khi ngủ, bà thường kể chuyện cổ tích cho tôi.", "why": "「前に」 luôn đi với **V辞書形** → **寝る**前に, kể cả chuyện quá khứ. (1)(2)(4) đều sai khuôn: 「〜た前に」「〜ていた前に」「〜ている前に」 không tồn tại."},
+    {"id": "b38-q6", "kind": "form", "ref": "b38-6", "q": "{昨日|きのう}の{夜|よる}、{部屋|へや}のドアを{開|あ}けると、{弟|おとうと}は{机|つくえ}に{向|む}かって{黙|だま}って{宿題|しゅくだい}を（　　）。", "options": ["する", "していた", "した", "している"], "answer": 1, "vi": "Tối qua tôi mở cửa phòng thì thấy em trai đang ngồi vào bàn lặng lẽ làm bài tập.", "why": "Chuyện tối qua, 「〜ると」 + việc **đang diễn ra sẵn** khi tôi mở cửa (phông nền) → **していた**. (1) tương lai; (3) 「した」 = làm xong ngay khi tôi mở cửa — vô lý; (4) 「している」 lệch với câu kể quá khứ (昨日の夜)."},
+    {"id": "b38-q7", "kind": "usage", "ref": "b38-2", "q": "「〜た」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["明日は雨が降った。", "寝た前に歯を磨いた。", "彼女は青い目をした猫を飼っている。", "今、子どもたちは庭で遊んだ。"], "answer": 2, "vi": "(3) Cô ấy nuôi một con mèo mắt xanh.", "why": "(3) 「青い目をした猫」: た chỉ **hình dạng, đặc điểm** khi bổ nghĩa danh từ → đúng. (1) 明日 (tương lai) không đi với た; (2) 「前に」 phải là 寝る前に; (4) 「今」 + đang chơi → 遊んでいる."}
+  ],
+  "practice": [
+    {"id": "b38-p1", "kind": "form", "ref": "b38-1", "q": "すみません、{今|いま}も{頭|あたま}がずきずき（　　）ので、{少|すこ}し{休|やす}ませていただけますか。", "options": ["痛む", "痛んだ", "痛んでいた", "痛もう"], "answer": 0, "vi": "Xin lỗi, đến giờ đầu tôi vẫn đau nhói, cho tôi nghỉ một chút được không ạ?", "why": "Động từ **cảm giác** ở る形 = cảm giác **ngay lúc này** (今も) → **痛む**. (2)(3) dạng quá khứ mâu thuẫn với 「今も」; (4) thể ý chí — vô nghĩa với 痛む."},
+    {"id": "b38-p2", "kind": "form", "ref": "b38-2", "q": "{明日|あした}の{試験|しけん}では、{問題|もんだい}を{全部|ぜんぶ}{解|と}き（　　）{人|ひと}から、{教室|きょうしつ}を{出|で}てもかまいません。", "options": ["終わる", "終わろう", "終わりそうな", "終わった"], "answer": 3, "vi": "Trong bài thi ngày mai, ai làm xong hết các câu thì có thể ra khỏi phòng.", "why": "Hoàn thành trong tương lai: làm xong **trước** rồi mới được ra → **終わった**人から. (1) 「終わる人」 = người sẽ làm xong (chưa xong) — không hợp điều kiện cho ra; (2) thể ý chí không bổ nghĩa danh từ; (3) 「終わりそうな人」 = người sắp xong (chưa xong) — sai điều kiện."},
+    {"id": "b38-p3", "kind": "form", "ref": "b38-3", "q": "{見|み}て、{会議室|かいぎしつ}の{窓|まど}が{開|あ}いて（　　）。{誰|だれ}か{閉|し}め{忘|わす}れたのかな。", "options": ["ある", "いる", "いた", "おく"], "answer": 1, "vi": "Nhìn kìa, cửa sổ phòng họp đang mở. Chắc ai đó quên đóng.", "why": "「開く」 là tự động từ tức thời → 〜ている = **kết quả còn lưu lại**: 開いて**いる**. (1) 「〜てある」 chỉ đi với tha động từ (開けてある); (3) 「開いていた」 lệch với 見て (đang nhìn thấy bây giờ); (4) 「〜ておく」 cần tha động từ và ý chí."},
+    {"id": "b38-p4", "kind": "form", "ref": "b38-4", "q": "{友達|ともだち}の{家|いえ}へ（　　）とき、{途中|とちゅう}のケーキ{屋|や}でお{土産|みやげ}を{買|か}った。", "options": ["行った", "行っている", "行く", "行こう"], "answer": 2, "vi": "Lúc đi đến nhà bạn, tôi mua quà ở tiệm bánh trên đường.", "why": "「途中」 = mua **trước khi đến** → câu con xảy ra sau câu chính → **行く**とき. (1) 「行ったとき」 = khi đã đến nhà bạn, mâu thuẫn với 途中; (2) không tự nhiên; (4) thể ý chí không đứng trước 「とき」."},
+    {"id": "b38-p5", "kind": "form", "ref": "b38-5", "q": "{会議|かいぎ}の{資料|しりょう}は、{内容|ないよう}を{部長|ぶちょう}に（　　）{後|あと}で、{全員|ぜんいん}に{配|くば}ってください。", "options": ["確認してもらった", "確認してもらう", "確認してもらっている", "確認してもらおう"], "answer": 0, "vi": "Tài liệu họp thì sau khi nhờ trưởng phòng kiểm tra nội dung, hãy phát cho mọi người.", "why": "「後で」 luôn đi với **Vた** → **確認してもらった**後で, dù là việc tương lai. (2) 「〜る後で」 sai khuôn; (3) 「〜ている後で」 không tồn tại; (4) thể ý chí không đứng trước 「後で」."},
+    {"id": "b38-p6", "kind": "form", "ref": "b38-6", "q": "{私|わたし}が{小学生|しょうがくせい}のころ{家|いえ}で{飼|か}って（　　）{犬|いぬ}は、とても{賢|かしこ}かった。", "options": ["いく", "ある", "いる", "いた"], "answer": 3, "vi": "Con chó nhà tôi nuôi hồi tôi học tiểu học rất thông minh.", "why": "Mệnh đề bổ nghĩa danh từ trong chuyện quá khứ (小学生のころ), trạng thái kéo dài thời đó → 飼って**いた**. (3) 「飼っている」 = đến giờ vẫn nuôi, lệch với のころ và 賢かった; (1)(2) sai nghĩa / sai ngữ pháp (飼ってある không dùng cho con vật)."},
+    {"id": "b38-p7", "kind": "order", "ref": "b38-4", "q": "{来月|らいげつ} ＿＿＿ ＿＿＿ ★ ＿＿＿ に{行|い}くつもりだ。", "options": ["ときに", "取引先へあいさつ", "出張した", "大阪へ"], "order": [3, 2, 0, 1], "answer": 0, "vi": "Tháng sau khi đi công tác Osaka, tôi định đến chào hỏi đối tác.", "why": "来月 **大阪へ 出張した ときに 取引先へあいさつ** に行くつもりだ → ★ = 「ときに」. Chuyện tương lai nhưng phải đến Osaka rồi mới đi chào → 「出張した」 + 「ときに」; 「あいさつ」 + 「に行く」 (đi để chào)."},
+    {"id": "b38-p8", "kind": "order", "ref": "b38-3", "q": "{私|わたし}が ＿＿＿ ＿＿＿ ★ ＿＿＿ いた。", "options": ["もう始まって", "式は", "会場に", "着いたときには"], "order": [2, 3, 1, 0], "answer": 1, "vi": "Khi tôi đến hội trường thì buổi lễ đã bắt đầu rồi.", "why": "私が **会場に 着いたときには 式は もう始まって** いた → ★ = 「式は」. Mốc quá khứ 「着いたときには」 + 「もう〜ていた」 (đã hoàn thành tại mốc); 「もう始まって」 phải đứng ngay trước 「いた」."},
+    {"id": "b38-p9", "kind": "passage", "ref": "b38-6", "pass": "p1", "q": "（　1　）に{入|はい}るものはどれか。", "options": ["暮らす", "暮らした", "暮らしている", "暮らしていた"], "answer": 3, "vi": "Nơi tôi đến là một ngôi làng nhỏ trong thung lũng, nơi bà tôi hồi đó đang sống một mình.", "why": "「当時」 + trạng thái kéo dài trong chuyện quá khứ, bổ nghĩa cho 村 → **暮らしていた**. (1) 「暮らす」 = sẽ sống / sống (chung chung); (2) 「暮らした」 = đã sống (xong một giai đoạn), không diễn tả \"đang sống vào lúc đó\"; (3) 「暮らしている」 = hiện tại vẫn sống, mâu thuẫn với 当時."},
+    {"id": "b38-p10", "kind": "passage", "ref": "b38-5", "pass": "p1", "q": "（　2　）に{入|はい}るものはどれか。", "options": ["降りる", "降りた", "降りている", "降りていた"], "answer": 0, "vi": "Vừa xuống xe buýt, tôi đã thấy bà đứng đợi sẵn ở bến.", "why": "Khuôn phát hiện 「〜と、〜ていた」: trước 「と」 luôn là **V辞書形** → **降りる**と, kể cả trong chuyện quá khứ. (2) 「降りたと」 sai ngữ pháp; (3)(4) 「降りていると／降りていたと」 = trong lúc đang xuống, không hợp nghĩa."},
+    {"id": "b38-p11", "kind": "passage", "ref": "b38-3", "pass": "p1", "q": "（　3　）に{入|はい}るものはどれか。", "options": ["待つ", "待った", "待っていた", "待っている"], "answer": 2, "vi": "Vừa xuống xe buýt, tôi đã thấy bà đứng đợi sẵn ở bến.", "why": "「もう」 + việc đang diễn ra sẵn khi tôi xuống xe, trong chuyện quá khứ → **待っていた**. (1) tương lai; (2) 「もう待った」 = đã đợi xong — vô lý; (4) 「待っている」 lệch thì với câu kể quá khứ."},
+    {"id": "b38-p12", "kind": "passage", "ref": "b38-6", "pass": "p1", "q": "（　4　）に{入|はい}るものはどれか。", "options": ["なる", "なった", "なっている", "なっていく"], "answer": 1, "vi": "Giờ nhìn lại, tôi có cảm giác mùa hè năm ấy mình đã trưởng thành thêm được một chút.", "why": "「あの夏」 → việc \"trưởng thành\" đã xảy ra trong quá khứ → **なった**; còn 「気がする」 là cảm giác bây giờ (今振り返ると). (1)(4) chỉ tương lai / quá trình sắp tới, mâu thuẫn với あの夏; (3) 「なっている」 = trạng thái hiện tại, không gắn với mùa hè năm ấy."}
+  ],
+  "test": [
+    {"id": "b38-t1", "kind": "passage", "ref": "b38-3", "pass": "p2", "q": "（　1　）に{入|はい}るものはどれか。", "options": ["増えた", "増えている", "増えていた", "増えるだろう"], "answer": 1, "vi": "Trên cả nước, nhà bỏ trống đang tăng lên qua từng năm.", "why": "「年々」 + bài viết về **hiện trạng** → xu hướng đang tiếp diễn → **増えている**. (1) 「増えた」 = đã tăng (một lần, xong), không hợp với 年々; (3) 「増えていた」 đặt xu hướng vào quá khứ, lệch với số liệu hiện tại ở câu sau; (4) phỏng đoán tương lai, trong khi đây là sự thật đang diễn ra."},
+    {"id": "b38-t2", "kind": "passage", "ref": "b38-5", "pass": "p2", "q": "（　2　）に{入|はい}るものはどれか。", "options": ["亡くなる", "亡くなろう", "亡くなった", "亡くなっている"], "answer": 2, "vi": "Có nhiều trường hợp sau khi chủ nhà qua đời, con cái đã sống ở thành phố từ lâu…", "why": "「後」 luôn đi với **Vた** → **亡くなった**後. (1) 「〜る後」 sai khuôn; (2) thể ý chí không dùng ở đây; (4) 「〜ている後」 không tồn tại."},
+    {"id": "b38-t3", "kind": "passage", "ref": "b38-5", "pass": "p2", "q": "（　3　）に{入|はい}るものはどれか。", "options": ["いた", "いく", "いよう", "いる"], "answer": 3, "vi": "Ngôi nhà, trong khoảng thời gian không có người ở, xuống cấp nhanh đến bất ngờ.", "why": "「〜間に」 chỉ khoảng thời gian **đồng thời** với câu chính; câu chính là nhận định chung ở hiện tại (傷んでいく) → 住まないで**いる**間に. (1) 「いた」 đặt vào quá khứ, lệch với câu chính; (2) 「住まないでいく」 sai nghĩa; (3) thể ý chí không đứng trước 「間に」."},
+    {"id": "b38-t4", "kind": "passage", "ref": "b38-6", "pass": "p2", "q": "（　4　）に{入|はい}るものはどれか。", "options": ["住んでいる", "住む", "住んだ", "住んでいた"], "answer": 0, "vi": "Một cặp vợ chồng trẻ đang sống trong căn nhà cũ do chính họ tự sửa sang cho biết…", "why": "Cặp vợ chồng **hiện vẫn đang sống** ở đó (lời họ nói: ここでの暮らしは気に入っています) → **住んでいる**. (2) 「住む」 = sẽ sống, chưa sống; (3) 「住んだ」 = đã sống (xong); (4) 「住んでいた」 = trước đây sống, giờ không — mâu thuẫn với lời kể."},
+    {"id": "b38-t5", "kind": "form", "ref": "b38-1", "q": "（{電話|でんわ}で）では、{明日|あした}の{午後|ごご}3{時|じ}にそちらへ{伺|うかが}います。どうぞよろしく（　　）。", "options": ["お願いします", "お願いしました", "お願いしています", "お願いしていました"], "answer": 0, "vi": "(Qua điện thoại) Vậy chiều mai 3 giờ tôi sẽ đến chỗ anh. Rất mong được giúp đỡ.", "why": "Động từ **tuyên bố / thỉnh cầu**: nói ra chính là hành động → る形 **お願いします**. (2) 「お願いしました」 = đã nhờ trước đó (báo cáo), không phải lời chào kết thúc; (3)(4) mô tả trạng thái / thói quen, không dùng làm lời nhờ cậy."},
+    {"id": "b38-t6", "kind": "form", "ref": "b38-3", "q": "この{選手|せんしゅ}は、{五年前|ごねんまえ}にも{一度|いちど}、{同|おな}じ{大会|たいかい}で{優勝|ゆうしょう}（　　）。{今年|ことし}は{二度目|にどめ}の{優勝|ゆうしょう}を{狙|ねら}う。", "options": ["する", "している", "しよう", "していく"], "answer": 1, "vi": "Tuyển thủ này năm năm trước cũng đã từng vô địch giải này một lần. Năm nay anh nhắm tới chức vô địch thứ hai.", "why": "Việc trong quá khứ được nêu như **một dòng hồ sơ** quan trọng cho hiện tại (kinh nghiệm, thành tích) → **している**. (1) tương lai / thói quen; (3) thể ý chí; (4) 「優勝していく」 = sẽ tiếp tục vô địch, mâu thuẫn với 五年前."},
+    {"id": "b38-t7", "kind": "usage", "ref": "b38-4", "q": "{時制|じせい}の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["来年日本へ行くとき、京都のお寺を見て回りたい。", "駅に着くと、電車はもう出た。", "昨日寝たとき、電気を消し忘れないようにした。", "海外へ出発するとき、空港で旅行保険に入った。"], "answer": 3, "vi": "(4) Lúc lên đường ra nước ngoài, tôi đã mua bảo hiểm du lịch ở sân bay.", "why": "(4) mua bảo hiểm **trước khi** xuất phát → 出発するとき ○. (1) đi chùa ở Kyoto khi đã ở Nhật → 行ったとき; (2) trạng thái đã xảy ra tại mốc → もう出ていた; (3) cẩn thận tắt đèn trước khi ngủ → 寝るとき／寝る前に."},
+    {"id": "b38-t8", "kind": "order", "ref": "b38-5", "q": "{借|か}りた{本|ほん}を ＿＿＿ ＿＿＿ ★ ＿＿＿ を{確|たし}かめてください。", "options": ["前に", "ページが", "返す", "汚れていないか"], "order": [2, 0, 1, 3], "answer": 1, "vi": "Trước khi trả sách đã mượn, hãy kiểm tra xem các trang có bị bẩn không.", "why": "借りた本を **返す 前に ページが 汚れていないか** を確かめてください → ★ = 「ページが」. 「前に」 đi với V辞書形 「返す」; 「〜ないか」 + 「を確かめる」."}
+  ]
+}

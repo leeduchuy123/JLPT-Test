@@ -1,0 +1,171 @@
+{
+  "id": "b03",
+  "track": "bunpo",
+  "intro": "Bài này gom 5 mẫu đều có nghĩa gốc là **\"sau khi…\"**, nhưng mỗi mẫu nhấn vào một khía cạnh khác nhau của mối quan hệ trước–sau:\n\n- **\"Phải sau A thì mới B\"**: 〜てはじめて (A xong rồi mới lần đầu nhận ra / đạt được B — vế sau khẳng định), 〜てからでないと・〜てからでなければ (chưa A thì không thể B — vế sau **phủ định**).\n- **\"A xong thì làm B\"**: 〜上(で) (làm A cẩn thận như một bước chuẩn bị, rồi mới quyết định / làm B), 〜次第 (A vừa xong là **lập tức** làm B — lời hứa, thông báo).\n- **\"Từ khi A đến nay\"**: 〜て以来・〜てこのかた (từ mốc A trong quá khứ, trạng thái B kéo dài đến hiện tại).\n\nĐiểm then chốt: hãy nhìn **vế sau**. Ý chí / hứa hẹn ở tương lai → 次第, 上で. Nhận ra / thay đổi trạng thái → てはじめて. Phủ định / không thể → てからでないと. Trạng thái kéo dài đến nay (ずっと, 一度も〜ない) → て以来.",
+  "points": [
+    {
+      "id": "b03-1",
+      "pattern": "〜てはじめて",
+      "reading": "〜てはじめて",
+      "meaning": "Phải đến khi… thì mới (lần đầu tiên nhận ra / có được)…",
+      "structure": ["Vて形 ＋ はじめて", "N ＋ があってはじめて (phải có N thì mới…)"],
+      "explain": "Dịch sát: \"làm A rồi **mới lần đầu tiên** B\". Hàm ý quan trọng: **trước khi A, B chưa từng có** — chưa biết, chưa nhận ra, chưa làm được. Chỉ khi trải qua A thì B mới xuất hiện.\n\nCâu kinh điển để nhớ: 「失ってはじめて、大切さが分かる」 — **mất rồi mới biết quý**.\n\nVế sau thường là:\n- **Nhận ra / hiểu ra**: 分かる・気づく・知る・実感する・身にしみる\n- **Trạng thái mới xuất hiện**: 〜ようになる・〜くなる・興味を持つ\n- **Việc gì đó trở nên khả thi**: できる・可能になる・成り立つ (thường với 「Nがあってはじめて」: phải có N thì mới…)",
+      "nuance": "- Vế sau **không** phải ý chí, mời rủ, mệnh lệnh của người nói (✗ 〜てはじめて、勉強しよう).\n- Có sắc thái cảm khái, \"giác ngộ\" — người nói thấm thía điều mình trước đây không hiểu.\n- Đừng nhầm với trạng từ 「はじめて（初めて）」 = lần đầu: 「はじめて日本に来た」 (lần đầu đến Nhật) ≠ 「日本に来てはじめて、〜」 (đến Nhật rồi mới…).",
+      "examples": [
+        {"ja": "{一人暮|ひとりぐ}らしをしてはじめて、{家事|かじ}がどれほど{大変|たいへん}かを{知|し}った。", "vi": "Phải sống một mình rồi tôi mới biết việc nhà vất vả đến mức nào.", "note": "Vế sau: nhận ra (知った)"},
+        {"ja": "{病気|びょうき}になってはじめて、{健康|けんこう}のありがたさに{気|き}づいた。", "vi": "Phải đến khi đổ bệnh tôi mới nhận ra sức khoẻ quý giá đến đâu.", "note": "Vế sau: 気づく"},
+        {"ja": "{親|おや}になってはじめて、{両親|りょうしん}の{苦労|くろう}が{身|み}にしみて{分|わ}かった。", "vi": "Làm cha mẹ rồi tôi mới thấm thía nỗi vất vả của bố mẹ mình.", "note": "身にしみる = thấm thía"},
+        {"ja": "{自分|じぶん}で{使|つか}ってみてはじめて、この{製品|せいひん}の{便利|べんり}さが{分|わ}かるはずです。", "vi": "Phải tự mình dùng thử thì mới thấy được sự tiện lợi của sản phẩm này.", "note": "Vてみてはじめて: hay gặp trong quảng cáo"},
+        {"ja": "{多|おお}くの{人|ひと}の{協力|きょうりょく}があってはじめて、このイベントは{成功|せいこう}した。", "vi": "Phải có sự hợp tác của rất nhiều người thì sự kiện này mới thành công được.", "note": "Nがあってはじめて = nhờ có N mới…"}
+      ],
+      "compare": [
+        {"with": "〜てから", "diff": "「てから」 chỉ nói thứ tự trung tính (A rồi B). 「てはじめて」 nhấn mạnh **trước A thì B chưa từng có**, mang cảm giác \"giờ mới hiểu ra\"."},
+        {"with": "〜てからでないと (mẫu 5)", "diff": "Hai mẫu là hai mặt của một ý. 「経験してはじめて分かる」 (khẳng định: trải qua mới hiểu) ≈ 「経験してからでないと分からない」 (phủ định: chưa trải qua thì không hiểu)."}
+      ],
+      "mistakes": [
+        "✗ {日本|にほん}に{来|き}てはじめて、{毎日|まいにち}{日本語|にほんご}を{勉強|べんきょう}しよう。→ vế sau là ý chí; ○ 日本に来てから、毎日日本語を勉強しよう。",
+        "✗ {大学|だいがく}に{入|はい}ってはじめて、{二年|にねん}が{過|す}ぎた。→ chỉ là khoảng thời gian, không phải \"mới nhận ra\"; ○ 大学に入ってから二年が過ぎた。"
+      ],
+      "tip": "Vế sau có 「分かる・気づく・知る・実感する・〜ようになった」 và bối cảnh \"trải nghiệm thực tế rồi mới biết\" → chọn 「てはじめて」. Nếu vế sau là 〜よう・〜てください → loại."
+    },
+    {
+      "id": "b03-2",
+      "pattern": "〜上(で)",
+      "reading": "〜うえ(で)",
+      "meaning": "Sau khi (làm kỹ) … rồi mới…, trên cơ sở đã…",
+      "structure": ["Vた形 ＋ 上(で)", "N ＋ の ＋ 上(で)", "(ご／お)N ＋ の上、〜 (văn thông báo: ご確認の上、ご記入の上)"],
+      "explain": "Nghĩa đen: \"**ở trên** (cơ sở) việc đã làm A\". Tức là: làm A **trước, như một bước chuẩn bị / bước kiểm tra cần thiết**, rồi **dựa vào kết quả đó** mới làm B.\n\nHình dung bậc thang: bước A (xem xét, bàn bạc, xác nhận) là bậc dưới, đứng **lên trên** nó rồi mới bước tiếp B (quyết định, ký, nộp, trả lời).\n\n- Vế trước hay là hành động **thận trọng**: よく考える・相談する・話し合う・確認する・検討する・理解する・比較する.\n- Vế sau là **hành động có ý chí** của cùng chủ ngữ: 決める・申し込む・サインする・返事をする・〜てください.\n- Dạng 「ご〜の上、〜ください」 rất hay gặp trên giấy tờ, thông báo: 「内容をご確認の上、ご署名ください」 = hãy xác nhận nội dung rồi ký.",
+      "nuance": "- Cứng và thận trọng hơn 「てから」.\n- Hai vế **cùng chủ ngữ**.\n- **Không** dùng khi chỉ là thứ tự tự nhiên, thói quen, không có ý \"chuẩn bị, cân nhắc\": ✗ 「朝起きた上で、顔を洗う」.\n- Dạng 「N上」 (bỏ で, 「ご記入の上」) trang trọng hơn 「上で」.",
+      "examples": [
+        {"ja": "{両親|りょうしん}とよく{話|はな}し{合|あ}った{上|うえ}で、{留学|りゅうがく}することを{決|き}めた。", "vi": "Sau khi bàn bạc kỹ với bố mẹ, tôi đã quyết định đi du học.", "note": "Vた + 上で · vế sau là quyết định"},
+        {"ja": "{内容|ないよう}をご{確認|かくにん}の{上|うえ}、こちらにご{署名|しょめい}ください。", "vi": "Xin quý khách xác nhận nội dung rồi ký vào đây.", "note": "ご〜の上 · văn giấy tờ"},
+        {"ja": "{何社|なんしゃ}かの{見積|みつ}もりを{比較|ひかく}した{上|うえ}で、{業者|ぎょうしゃ}を{選|えら}ぶつもりだ。", "vi": "Tôi định so sánh báo giá của vài công ty rồi mới chọn nhà thầu.", "note": ""},
+        {"ja": "{一度|いちど}{社内|しゃない}で{検討|けんとう}した{上|うえ}で、{改|あらた}めてご{連絡|れんらく}いたします。", "vi": "Chúng tôi sẽ thảo luận nội bộ một lần rồi sẽ liên lạc lại với quý vị.", "note": "Email công việc"},
+        {"ja": "{契約|けいやく}の{内容|ないよう}を{十分|じゅうぶん}{理解|りかい}した{上|うえ}で、サインするべきだ。", "vi": "Nên hiểu rõ nội dung hợp đồng rồi hẵng ký.", "note": "Lời khuyên: phải A trước"}
+      ],
+      "compare": [
+        {"with": "〜てから", "diff": "「てから」 = thứ tự trung tính, dùng cho mọi việc (帰ってから、ご飯を食べる). 「上で」 = A là **bước chuẩn bị/cân nhắc cần thiết** cho B."},
+        {"with": "〜次第", "diff": "「次第」 = A **vừa xảy ra là lập tức** B (nhấn vào tốc độ). 「上で」 = làm A **cẩn thận** rồi dựa vào đó làm B (nhấn vào sự thận trọng)."},
+        {"with": "V辞書形 ＋ 上で／〜上に (6課)", "diff": "「日本で生活する上で大切なこと」 (V辞書形 + 上で) = \"**trong việc** sống ở Nhật\" — nghĩa khác. 「〜上(に)」 (6課) = \"không những… mà còn\". Chỉ **Vた／Nの + 上で** mới là \"sau khi\"."}
+      ],
+      "mistakes": [
+        "✗ {朝|あさ}{起|お}きた{上|うえ}で、{歯|は}を{磨|みが}く。→ ○ 朝起きてから、歯を磨く。(thói quen, không có ý chuẩn bị)",
+        "✗ よく{考|かんが}えた{上|うえ}に、{決|き}めます。→ ○ よく考えた上で、決めます。(上に = hơn nữa)"
+      ],
+      "tip": "Vế trước có 「相談・検討・確認・話し合う・考える」, vế sau là quyết định / hành động → 「上で」. Văn thông báo 「ご〜の（　）、〜ください」 → điền 「上」."
+    },
+    {
+      "id": "b03-3",
+      "pattern": "〜次第",
+      "reading": "〜しだい",
+      "meaning": "Ngay khi… (xong) thì sẽ… ngay",
+      "structure": ["Vます形 (bỏ ます) ＋ 次第", "N (danh từ gốc する) ＋ 次第 (到着次第, 決定次第)"],
+      "explain": "Nghĩa: **A vừa xảy ra (vừa xong) thì lập tức làm B**. A là việc **chắc chắn sẽ xảy ra** trong tương lai (kết quả có, hàng về, mưa tạnh, người về), và B là việc người nói **hứa / định / đề nghị** làm ngay sau đó.\n\nĐây là mẫu \"ruột\" của email công việc và thông báo:\n- 「詳細が決まり次第、ご連絡いたします」 — Ngay khi chi tiết được quyết định, chúng tôi sẽ liên lạc.\n- 「到着次第、お電話ください」 — Đến nơi thì gọi điện cho tôi ngay nhé.\n\nCách nhớ: 次第 = \"**có… là… liền**\" — giống \"có kết quả là báo ngay\".",
+      "nuance": "- Cứng, lịch sự (văn công việc). Hội thoại thường nói 「〜たらすぐ」.\n- Vế sau là **ý chí, hứa hẹn, yêu cầu** hướng tới tương lai. **Không** dùng để kể chuyện đã xảy ra, cũng không dùng khi vế sau là hiện tượng tự nhiên ngoài ý muốn: ✗ 「家に着き次第、雨が降り出した」.\n- Đừng nhầm với 「N次第だ／N次第で」 (9課) = \"tuỳ thuộc vào N\": 「結果次第で決める」.",
+      "examples": [
+        {"ja": "{詳|くわ}しい{日程|にってい}が{決|き}まり{次第|しだい}、{皆様|みなさま}にお{知|し}らせします。", "vi": "Ngay khi lịch trình chi tiết được quyết định, chúng tôi sẽ thông báo tới mọi người.", "note": "決まる → 決まり + 次第"},
+        {"ja": "{商品|しょうひん}が{入荷|にゅうか}し{次第|しだい}、ご{自宅|じたく}までお{届|とど}けいたします。", "vi": "Ngay khi hàng về, chúng tôi sẽ giao đến tận nhà quý khách.", "note": "入荷する → 入荷し + 次第"},
+        {"ja": "{雨|あめ}が{止|や}み{次第|しだい}、{試合|しあい}を{再開|さいかい}します。", "vi": "Mưa tạnh là trận đấu sẽ được tiếp tục ngay.", "note": "A là việc chắc chắn sẽ xảy ra"},
+        {"ja": "{空港|くうこう}に{到着|とうちゃく}{次第|しだい}、{電話|でんわ}をください。", "vi": "Đến sân bay là gọi điện cho tôi ngay nhé.", "note": "N (到着) + 次第 · vế sau là yêu cầu"},
+        {"ja": "{資料|しりょう}がそろい{次第|しだい}、{会議|かいぎ}を{始|はじ}めます。", "vi": "Tài liệu đủ là chúng ta bắt đầu họp ngay.", "note": "そろう → そろい + 次第"}
+      ],
+      "compare": [
+        {"with": "〜たとたん (1課)", "diff": "Ngược hẳn nhau: 「たとたん」 = việc **đã xảy ra**, vế sau **bất ngờ, không có ý chí**. 「次第」 = việc **sẽ xảy ra**, vế sau là **ý chí, kế hoạch**."},
+        {"with": "〜たらすぐ", "diff": "Nghĩa giống nhưng là văn nói và dùng được cả cho quá khứ (着いたらすぐ電話した). 「次第」 chỉ dùng cho tương lai, văn trang trọng."},
+        {"with": "N次第だ (9課)", "diff": "「天気次第だ」 = tuỳ thuộc vào thời tiết. Phân biệt bằng dạng nối: **Vます形 + 次第** = ngay khi; **N + 次第だ／次第で** = tuỳ vào."}
+      ],
+      "mistakes": [
+        "✗ {駅|えき}に{着|つ}き{次第|しだい}、{急|きゅう}に{雨|あめ}が{降|ふ}り{出|だ}した。→ ○ 駅に着いたとたん、雨が降り出した。(chuyện đã xảy ra, ngoài ý muốn)",
+        "✗ {着|つ}く{次第|しだい} → ○ 着き次第 (Vます形)"
+      ],
+      "tip": "Bối cảnh email / thông báo + vế sau là 「ご連絡します・お知らせします・〜てください」 ở tương lai → 「次第」. Nếu vế sau ở quá khứ (〜た) → loại 「次第」 ngay."
+    },
+    {
+      "id": "b03-4",
+      "pattern": "〜て以来・〜てこのかた",
+      "reading": "〜ていらい・〜てこのかた",
+      "meaning": "Kể từ khi… đến nay (vẫn luôn…)",
+      "structure": ["Vて形 ＋ 以来／このかた", "N ＋ 以来 (卒業以来, あの日以来, それ以来)", "生まれてこのかた (từ khi sinh ra đến giờ)"],
+      "explain": "Lấy một **mốc trong quá khứ** (A), rồi nói rằng **từ đó đến tận bây giờ**, trạng thái B **vẫn tiếp diễn**. Hình dung một đường thẳng kéo từ điểm A đến \"hôm nay\".\n\n- Vế sau là **trạng thái kéo dài đến hiện tại**: 〜ている・〜続けている・ずっと〜・一度も〜ない・〜ていない・〜なくなった.\n- Mốc A thường là sự kiện để lại dấu ấn: tốt nghiệp, chuyển nhà, gặp tai nạn, sang Nhật, một lần gặp gỡ…\n- 「〜てこのかた」 cùng nghĩa nhưng **rất cứng, văn chương**, nhấn mạnh khoảng thời gian dài. Hay gặp nhất là cụm 「生まれてこのかた」.",
+      "nuance": "- Chỉ dùng cho **quá khứ → hiện tại**. Không dùng cho tương lai (✗ 来年卒業して以来).\n- Không dùng khi vế sau là **một việc xảy ra một lần** (✗ 来日して以来、京都へ一度行った).\n- Mốc quá khứ quá gần (hôm qua, vài tiếng trước) nghe không tự nhiên.\n- 「以来」 văn nói lẫn văn viết; 「このかた」 hầu như chỉ văn viết.",
+      "examples": [
+        {"ja": "{大学|だいがく}を{卒業|そつぎょう}して{以来|いらい}、{彼|かれ}とは{一度|いちど}も{会|あ}っていない。", "vi": "Từ khi tốt nghiệp đại học đến nay, tôi chưa gặp lại anh ấy lần nào.", "note": "Vế sau: 一度も〜ていない"},
+        {"ja": "この{町|まち}に{引|ひ}っ{越|こ}してきて{以来|いらい}、{毎朝|まいあさ}{川沿|かわぞ}いを{散歩|さんぽ}している。", "vi": "Kể từ khi chuyển đến thị trấn này, sáng nào tôi cũng đi dạo dọc bờ sông.", "note": "Thói quen kéo dài đến nay"},
+        {"ja": "あの{事故|じこ}{以来|いらい}、{父|ちち}は{車|くるま}を{運転|うんてん}しなくなった。", "vi": "Từ sau vụ tai nạn đó, bố tôi không lái xe nữa.", "note": "N + 以来 · 〜なくなった"},
+        {"ja": "{入社|にゅうしゃ}{以来|いらい}、{彼女|かのじょ}はずっと{海外|かいがい}{営業|えいぎょう}を{担当|たんとう}している。", "vi": "Từ khi vào công ty, cô ấy luôn phụ trách mảng kinh doanh quốc tế.", "note": "N (入社) + 以来"},
+        {"ja": "{生|う}まれてこのかた、{大|おお}きな{病気|びょうき}は{一度|いちど}もしたことがない。", "vi": "Từ khi sinh ra đến giờ, tôi chưa từng mắc bệnh nặng lần nào.", "note": "このかた · cụm cố định, văn cứng"}
+      ],
+      "compare": [
+        {"with": "〜てから", "diff": "「てから」 chỉ là \"sau khi\", vế sau có thể là một việc (日本に来てから、京都へ行った). 「て以来」 bắt buộc vế sau là **trạng thái kéo dài đến nay**."},
+        {"with": "〜以降", "diff": "「以降」 = \"từ… trở đi\", dùng được cả tương lai (来月以降) và không nhất thiết là trạng thái liên tục. 「以来」 chỉ quá khứ → hiện tại."}
+      ],
+      "mistakes": [
+        "✗ {日本|にほん}に{来|き}て{以来|いらい}、{一度|いちど}{京都|きょうと}へ{行|い}った。→ ○ 日本に来てから、一度京都へ行った。/ ○ 日本に来て以来、何度も京都へ行っている。",
+        "✗ {来年|らいねん}{卒業|そつぎょう}して{以来|いらい}、{海外|かいがい}で{働|はたら}くつもりだ。→ ○ 来年卒業したら／卒業後は、… (以来 không dùng cho tương lai)"
+      ],
+      "tip": "Vế sau có 「ずっと・一度も〜ない・〜続けている・〜なくなった」 → 「て以来」. Nếu câu có mốc tương lai (来年・今度) hoặc vế sau là việc xảy ra một lần → loại."
+    },
+    {
+      "id": "b03-5",
+      "pattern": "〜てからでないと・〜てからでなければ",
+      "reading": "〜てからでないと・〜てからでなければ",
+      "meaning": "Nếu chưa… (trước) thì không thể…",
+      "structure": ["Vて形 ＋ からでないと ＋ (vế phủ định)", "Vて形 ＋ からでなければ ＋ (vế phủ định)"],
+      "explain": "Nghĩa: **A là điều kiện bắt buộc phải làm trước**; nếu A chưa xong thì B **không thể / không được** xảy ra. Hình dung cánh cửa bị khoá: phải có chìa khoá A thì mới mở được B.\n\nPhân tích: 「〜てから」 (sau khi A) + 「でないと」 (nếu không phải là) → \"nếu không phải là sau khi A thì…\" → **chưa A thì không B**.\n\nVế sau **luôn mang nghĩa phủ định / bất khả**: 〜できない・〜られない・無理だ・難しい・分からない・〜てはいけない・〜ないでください.\nTrong hội thoại có thể bỏ lửng vế sau: 「上司に確認してからでないと…」 (ngụ ý: thì tôi không trả lời được).",
+      "nuance": "- 「でないと」 tự nhiên trong văn nói; 「でなければ」 hơi cứng hơn, hay dùng trong văn bản, quy định.\n- Vế sau **không** được là khẳng định: ✗ 「予約してからでないと、入れます」.\n- Thường dùng để nói về **quy định, điều kiện, lời khuyên thận trọng**.",
+      "examples": [
+        {"ja": "{部長|ぶちょう}の{許可|きょか}をもらってからでないと、この{資料|しりょう}は{社外|しゃがい}に{出|だ}せません。", "vi": "Nếu chưa có sự cho phép của trưởng phòng thì không được mang tài liệu này ra ngoài công ty.", "note": "Quy định công ty"},
+        {"ja": "{実物|じつぶつ}を{見|み}てからでないと、{買|か}うかどうか{決|き}められない。", "vi": "Chưa xem tận mắt hàng thật thì tôi không quyết được có mua hay không.", "note": "Vế sau: 〜られない"},
+        {"ja": "{熱|ねつ}が{完全|かんぜん}に{下|さ}がってからでなければ、{登校|とうこう}してはいけません。", "vi": "Nếu chưa hạ sốt hoàn toàn thì không được đến trường.", "note": "でなければ + 〜てはいけない"},
+        {"ja": "{手|て}を{洗|あら}ってからでないと、おやつは{食|た}べちゃだめよ。", "vi": "Chưa rửa tay thì không được ăn bánh đâu nhé.", "note": "Văn nói (mẹ nói với con)"},
+        {"ja": "{全員|ぜんいん}の{意見|いけん}を{聞|き}いてからでないと、{何|なん}とも{言|い}えません。", "vi": "Chưa nghe ý kiến của mọi người thì tôi không thể nói gì được.", "note": "何とも言えない = không thể nói gì"}
+      ],
+      "compare": [
+        {"with": "〜てはじめて (mẫu 1)", "diff": "Cùng ý \"phải A rồi mới B\": 「てはじめて」 + vế **khẳng định** (分かった); 「てからでないと」 + vế **phủ định** (分からない)."},
+        {"with": "〜ないことには (15課)", "diff": "「〜ないことには」 cũng là \"nếu không A thì không B\" nhưng A ở **thể phủ định** (実際に見ないことには分からない), không có ý \"thứ tự trước–sau\" rõ như 「てからでないと」."}
+      ],
+      "mistakes": [
+        "✗ {予約|よやく}してからでないと、{入|はい}れます。→ ○ 予約してからでないと、入れません。(vế sau phải phủ định)",
+        "✗ {予約|よやく}したからでないと → ○ 予約してからでないと (Vて形 + から)"
+      ],
+      "tip": "Chỗ trống sau Vて + vế sau phủ định (〜できない・〜ません・無理だ・〜てはいけない) → 「からでないと／からでなければ」. Nếu vế sau khẳng định (分かった・できるようになった) → nghĩ đến 「てはじめて」."
+    }
+  ],
+  "summary": [
+    {"pattern": "〜てはじめて", "meaning": "phải… rồi mới (nhận ra)", "key": "Vて; vế sau: 分かる・気づく・〜ようになる; không ý chí"},
+    {"pattern": "〜上(で)", "meaning": "sau khi (cân nhắc kỹ) … rồi mới…", "key": "Vた／Nの; A là bước chuẩn bị; ご〜の上、〜ください"},
+    {"pattern": "〜次第", "meaning": "ngay khi… thì sẽ…", "key": "Vます形／N(する); tương lai; vế sau hứa hẹn, yêu cầu"},
+    {"pattern": "〜て以来・〜てこのかた", "meaning": "kể từ khi… đến nay", "key": "quá khứ → nay; vế sau trạng thái kéo dài"},
+    {"pattern": "〜てからでないと・〜てからでなければ", "meaning": "chưa… thì không thể…", "key": "Vて; vế sau phủ định"}
+  ],
+  "quiz": [
+    {"id": "b03-q1", "kind": "form", "ref": "b03-1", "q": "{海外|かいがい}で{暮|く}らして（　　）、{日本|にほん}の{治安|ちあん}の{良|よ}さに{気|き}づいた。", "options": ["以来", "はじめて", "からでないと", "次第"], "answer": 1, "vi": "Phải sống ở nước ngoài rồi tôi mới nhận ra an ninh ở Nhật tốt đến mức nào.", "why": "Trải nghiệm rồi mới **nhận ra** (気づいた) → **てはじめて**. 「て以来」 cần vế sau là trạng thái kéo dài, 「気づいた」 là việc xảy ra một lần; 「てからでないと」 cần vế sau phủ định; 「次第」 phải nối với Vます形 (暮らし次第) và vế sau là ý chí ở tương lai."},
+    {"id": "b03-q2", "kind": "form", "ref": "b03-2", "q": "{家族|かぞく}とよく{相談|そうだん}した（　　）、{転職|てんしょく}するかどうか{決|き}めたいと{思|おも}います。", "options": ["上で", "次第", "とたん", "以来"], "answer": 0, "vi": "Tôi muốn bàn bạc kỹ với gia đình rồi mới quyết định có chuyển việc hay không.", "why": "Bàn bạc kỹ (bước chuẩn bị) rồi mới quyết định → Vた + **上で**. 「次第」 nối với ます形 (相談し次第), không nối với Vた; 「たとたん」 không đi với vế sau là ý chí (決めたい); 「以来」 phải là 「相談して以来」 và vế sau là trạng thái kéo dài."},
+    {"id": "b03-q3", "kind": "form", "ref": "b03-3", "q": "{検査|けんさ}の{結果|けっか}が{出|で}（　　）、すぐにお{知|し}らせします。", "options": ["て以来", "次第", "てはじめて", "てからでないと"], "answer": 1, "vi": "Ngay khi có kết quả xét nghiệm, chúng tôi sẽ thông báo ngay.", "why": "Ngay khi A (kết quả có) → hứa làm B ở tương lai, có 「すぐに」 → **次第**. 「て以来」 chỉ quá khứ → nay; 「てはじめて」 không đi với vế sau là ý chí; 「てからでないと」 cần vế sau phủ định (お知らせできません), ở đây vế sau là khẳng định."},
+    {"id": "b03-q4", "kind": "form", "ref": "b03-4", "q": "この{町|まち}に{引|ひ}っ{越|こ}して（　　）、もう10{年|ねん}{近|ちか}く{同|おな}じ{店|みせ}で{髪|かみ}を{切|き}ってもらっている。", "options": ["からでないと", "次第", "以来", "はじめて"], "answer": 2, "vi": "Từ khi chuyển đến thị trấn này, đã gần 10 năm tôi cắt tóc ở cùng một tiệm.", "why": "Mốc quá khứ (chuyển nhà) → trạng thái kéo dài đến nay (〜てもらっている) → **以来**. 「からでないと」 cần vế sau phủ định; 「次第」 nối với ます形 và dùng cho tương lai; 「てはじめて」 cần vế sau là \"mới nhận ra / mới có\", không phải thói quen kéo dài."},
+    {"id": "b03-q5", "kind": "form", "ref": "b03-5", "q": "このアプリは、{会員|かいいん}{登録|とうろく}をして（　　）{利用|りよう}できません。", "options": ["以来", "はじめて", "上で", "からでないと"], "answer": 3, "vi": "Nếu chưa đăng ký thành viên thì không thể sử dụng ứng dụng này.", "why": "Vế sau phủ định (利用できません), A là điều kiện bắt buộc → **からでないと**. 「てはじめて」 đi với vế sau khẳng định (はじめて利用できる); 「以来」 cần trạng thái kéo dài; 「上で」 phải nối với Vた (登録した上で)."},
+    {"id": "b03-q6", "kind": "order", "ref": "b03-1", "q": "{自分|じぶん}が{上司|じょうし}の{立場|たちば}に ＿＿＿ ＿＿＿ ★ ＿＿＿ {分|わ}かった。", "options": ["難しさが", "なって", "部下を育てる", "はじめて"], "order": [1, 3, 2, 0], "answer": 2, "vi": "Phải ở vào vị trí cấp trên rồi tôi mới hiểu việc đào tạo cấp dưới khó khăn thế nào.", "why": "上司の立場に **なって はじめて 部下を育てる 難しさが** 分かった → ★ (ô thứ 3) = 「部下を育てる」. 「立場になる」 → 「なって」 + 「はじめて」; 「部下を育てる」 bổ nghĩa cho 「難しさ」, và 「難しさが」 là chủ ngữ của 「分かった」."}
+  ],
+  "practice": [
+    {"id": "b03-p1", "kind": "form", "ref": "b03-1", "q": "{自分|じぶん}で{店|みせ}を{経営|けいえい}して（　　）、お{金|かね}を{稼|かせ}ぐことの{大変|たいへん}さを{知|し}った。", "options": ["次第", "はじめて", "からでないと", "上で"], "answer": 1, "vi": "Phải tự mình kinh doanh cửa hàng rồi tôi mới biết kiếm tiền vất vả đến mức nào.", "why": "Trải nghiệm rồi mới **biết ra** → **てはじめて**. 「次第」 nối với ます形 (経営し次第); 「からでないと」 cần vế sau phủ định; 「上で」 nối với Vた (経営した上で) và vế sau là hành động có chủ ý, không phải \"nhận ra\"."},
+    {"id": "b03-p2", "kind": "form", "ref": "b03-2", "q": "お{申|もう}し{込|こ}みの{際|さい}は、{利用|りよう}{規約|きやく}をお{読|よ}みになった（　　）、{同意|どうい}ボタンを{押|お}してください。", "options": ["上で", "とたん", "以来", "次第"], "answer": 0, "vi": "Khi đăng ký, xin vui lòng đọc điều khoản sử dụng rồi nhấn nút đồng ý.", "why": "Đọc kỹ (bước cần thiết) rồi mới hành động → Vた + **上で**. 「たとたん」 không đi với yêu cầu 〜てください; 「以来」 phải là Vて + 以来 và chỉ trạng thái kéo dài; 「次第」 nối với ます形 (お読みになり次第) — không nối với Vた."},
+    {"id": "b03-p3", "kind": "form", "ref": "b03-2", "q": "{必要|ひつよう}{事項|じこう}をご{記入|きにゅう}（　　）、{受付|うけつけ}までお{持|も}ちください。", "options": ["のうちに", "の上", "以来", "してはじめて"], "answer": 1, "vi": "Xin vui lòng điền các mục cần thiết rồi mang đến quầy tiếp tân.", "why": "Mẫu thông báo 「ご〜**の上**、〜ください」. 「のうちに」 = nhân lúc còn…, không hợp; 「以来」 chỉ quá khứ → nay; 「してはじめて」 không đi với vế sau là yêu cầu (〜ください), và cũng không khớp với lối nói thông báo 「ご〜の上」."},
+    {"id": "b03-p4", "kind": "form", "ref": "b03-3", "q": "{工事|こうじ}が（　　）、{道路|どうろ}の{通行止|つうこうど}めは{解除|かいじょ}されます。", "options": ["終わって以来", "終わり次第", "終わったとたん", "終わってからでないと"], "answer": 1, "vi": "Ngay khi công trình kết thúc, lệnh cấm lưu thông trên đường sẽ được dỡ bỏ.", "why": "Việc chắc chắn sẽ xảy ra trong tương lai → ngay sau đó làm B (thông báo) → **終わり次第**. 「て以来」 không dùng cho tương lai; 「たとたん」 dùng cho chuyện đã xảy ra, bất ngờ; 「からでないと」 cần vế sau phủ định (解除されません)."},
+    {"id": "b03-p5", "kind": "form", "ref": "b03-3", "q": "{電車|でんしゃ}が{駅|えき}に（　　）、{大勢|おおぜい}の{乗客|じょうきゃく}が{一斉|いっせい}に{降|お}りてきた。", "options": ["着き次第", "着いた上で", "着いたとたん", "着いてからでないと"], "answer": 2, "vi": "Tàu vừa đến ga thì rất đông hành khách đồng loạt bước xuống.", "why": "Việc **đã xảy ra** mà người nói quan sát thấy → **着いたとたん**. 「次第」 chỉ dùng cho tương lai với vế sau là ý chí, không dùng để kể chuyện đã xảy ra — đây là bẫy hay gặp. 「上で」 cần hành động chuẩn bị có chủ ý; 「からでないと」 cần vế sau phủ định."},
+    {"id": "b03-p6", "kind": "form", "ref": "b03-4", "q": "{彼|かれ}はマラソンを{始|はじ}めて（　　）、{毎朝|まいあさ}5キロ{走|はし}るのを{一日|いちにち}も{欠|か}かしたことがない。", "options": ["上で", "はじめて", "次第", "以来"], "answer": 3, "vi": "Từ khi bắt đầu chạy marathon, anh ấy chưa bỏ buổi chạy 5 km buổi sáng nào.", "why": "Mốc quá khứ → trạng thái kéo dài đến nay (一日も欠かしたことがない) → **以来**. 「上で」「次第」 sai dạng nối (phải là 始めた上で／始め次第) và không hợp nghĩa; 「てはじめて」 = mới nhận ra / mới có, không hợp với thói quen kéo dài."},
+    {"id": "b03-p7", "kind": "form", "ref": "b03-5", "q": "{医師|いし}の{診察|しんさつ}を{受|う}けて（　　）、どの{薬|くすり}が{合|あ}うかは{判断|はんだん}できない。", "options": ["からでないと", "以来", "はじめて", "上で"], "answer": 0, "vi": "Nếu chưa được bác sĩ khám thì không thể phán đoán loại thuốc nào phù hợp.", "why": "Vế sau phủ định (判断できない), A là điều kiện bắt buộc → **からでないと**. 「以来」 cần trạng thái kéo dài; 「てはじめて」 cần vế sau khẳng định (はじめて判断できる); 「上で」 phải nối với Vた."},
+    {"id": "b03-p8", "kind": "order", "ref": "b03-2", "q": "{新|あたら}しいシステムは、{現場|げんば}の ＿＿＿ ＿＿＿ ★ ＿＿＿ {導入|どうにゅう}すべきだ。", "options": ["上で", "聞いた", "意見を", "十分に"], "order": [2, 3, 1, 0], "answer": 1, "vi": "Hệ thống mới nên được đưa vào sau khi đã lắng nghe đầy đủ ý kiến của bộ phận hiện trường.", "why": "現場の **意見を 十分に 聞いた 上で** 導入すべきだ → ★ (ô thứ 3) = 「聞いた」. 「の」 cần danh từ ngay sau (意見を); trạng từ 「十分に」 đứng trước động từ; 「上で」 nối với Vた 「聞いた」."},
+    {"id": "b03-p9", "kind": "order", "ref": "b03-4", "q": "{祖父|そふ}は{若|わか}いころ ＿＿＿ ＿＿＿ ★ ＿＿＿ 、{一度|いちど}も{東京|とうきょう}に{行|い}ったことがないそうだ。", "options": ["きて", "以来", "故郷に", "戻って"], "order": [2, 3, 0, 1], "answer": 0, "vi": "Nghe nói từ khi trở về quê hồi còn trẻ, ông tôi chưa đi Tokyo lần nào.", "why": "若いころ **故郷に 戻って きて 以来**、… → ★ (ô thứ 3) = 「きて」. 「戻ってくる」 → Vて形 「戻ってきて」 + 「以来」; vế sau 「一度も〜ない」 xác nhận nghĩa \"từ đó đến nay\"."},
+    {"id": "b03-p10", "kind": "usage", "ref": "b03-3", "q": "「{次第|しだい}」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["{駅|えき}に{着|つ}き{次第|しだい}、{急|きゅう}に{雨|あめ}が{降|ふ}り{出|だ}した。", "{子|こ}どもが{生|う}まれ{次第|しだい}、ずっと{忙|いそが}しい{毎日|まいにち}だ。", "{結果|けっか}が{分|わ}かり{次第|しだい}、すぐにご{連絡|れんらく}いたします。", "よく{考|かんが}え{次第|しだい}、どちらにするか{決|き}めた。"], "answer": 2, "vi": "(3) Ngay khi biết kết quả, chúng tôi sẽ liên lạc ngay.", "why": "(3) A sẽ xảy ra trong tương lai + vế sau là lời hứa → đúng. (1) chuyện đã xảy ra, ngoài ý muốn → 着いたとたん; (2) trạng thái kéo dài từ quá khứ → 生まれて以来; (4) cân nhắc kỹ rồi quyết định → よく考えた上で."},
+    {"id": "b03-p11", "kind": "usage", "ref": "b03-1", "q": "「〜てはじめて」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["{日本|にほん}に{来|き}てはじめて、{毎日|まいにち}{日本語|にほんご}を{勉強|べんきょう}しよう。", "{大学|だいがく}に{入|はい}ってはじめて、もう{二年|にねん}が{過|す}ぎた。", "{雨|あめ}が{止|や}んではじめて、{出|で}かけてください。", "{自分|じぶん}で{料理|りょうり}を{作|つく}ってみてはじめて、{母|はは}の{料理|りょうり}のおいしさが{分|わ}かった。"], "answer": 3, "vi": "(4) Phải tự mình nấu ăn rồi tôi mới hiểu món mẹ nấu ngon thế nào.", "why": "(4) trải nghiệm rồi mới nhận ra → đúng. (1) vế sau là ý chí (〜しよう) → 来てから; (2) chỉ là khoảng thời gian trôi qua → 入ってから; (3) vế sau là yêu cầu → 止んでから／止み次第."}
+  ],
+  "test": [
+    {"id": "b03-t1", "kind": "form", "ref": "b03-5", "q": "{現物|げんぶつ}を{確|たし}かめて（　　）、{代金|だいきん}はお{支払|しはら}いできません。", "options": ["以来", "からでなければ", "はじめて", "次第"], "answer": 1, "vi": "Nếu chưa kiểm tra hàng thật thì tôi không thể thanh toán tiền.", "why": "Vế sau phủ định (お支払いできません) → **からでなければ**. 「以来」 cần trạng thái kéo dài đến nay; 「てはじめて」 cần vế sau khẳng định; 「次第」 phải nối với ます形 (確かめ次第)."},
+    {"id": "b03-t2", "kind": "form", "ref": "b03-4", "q": "{社会人|しゃかいじん}になって（　　）、{学生|がくせい}{時代|じだい}の{友人|ゆうじん}とはすっかり{疎遠|そえん}になっている。", "options": ["からでないと", "次第", "以来", "上で"], "answer": 2, "vi": "Từ khi đi làm, tôi đã hoàn toàn xa cách với bạn bè thời sinh viên.", "why": "Mốc quá khứ → trạng thái kéo dài đến nay (疎遠になっている) → **以来**. 「からでないと」 cần vế sau phủ định; 「次第」「上で」 sai dạng nối (なり次第／なった上で) và không hợp nghĩa."},
+    {"id": "b03-t3", "kind": "form", "ref": "b03-3", "q": "{担当者|たんとうしゃ}が（　　）、{折|お}り{返|かえ}しお{電話|でんわ}させます。", "options": ["戻ったとたん", "戻って以来", "戻ってはじめて", "戻り次第"], "answer": 3, "vi": "Ngay khi người phụ trách quay lại, tôi sẽ bảo anh ấy gọi lại cho quý khách.", "why": "Câu điện thoại công việc, hứa làm ngay ở tương lai → **戻り次第**. 「たとたん」 dùng cho chuyện đã xảy ra, vế sau không phải ý chí; 「て以来」 chỉ quá khứ → nay; 「てはじめて」 không đi với vế sau là ý chí của người nói (〜させます)."},
+    {"id": "b03-t4", "kind": "form", "ref": "b03-2", "q": "{十分|じゅうぶん}に{検討|けんとう}（　　）、この{計画|けいかく}を{実行|じっこう}するかどうか{決|き}めます。", "options": ["した上で", "して以来", "したとたん", "してはじめて"], "answer": 0, "vi": "Chúng tôi sẽ xem xét kỹ lưỡng rồi mới quyết định có thực hiện kế hoạch này hay không.", "why": "Cân nhắc kỹ (bước chuẩn bị) → quyết định → **した上で**. 「して以来」 chỉ quá khứ → nay; 「したとたん」 không đi với ý chí (決めます); 「してはじめて」 cũng không đi với vế sau là ý chí."},
+    {"id": "b03-t5", "kind": "order", "ref": "b03-3", "q": "{新|あたら}しい{住所|じゅうしょ}が ＿＿＿ ＿＿＿ ★ ＿＿＿ します。", "options": ["お知らせ", "メールで", "決まり", "次第"], "order": [2, 3, 1, 0], "answer": 1, "vi": "Ngay khi địa chỉ mới được quyết định, tôi sẽ thông báo qua email.", "why": "新しい住所が **決まり 次第 メールで お知らせ** します → ★ (ô thứ 3) = 「メールで」. 「決まり」 (ます形) + 「次第」; 「お知らせ」 phải đứng ngay trước 「します」 (お〜する: khiêm nhường ngữ), và 「メールで」 bổ nghĩa cho động từ đó."},
+    {"id": "b03-t6", "kind": "order", "ref": "b03-5", "q": "この{書類|しょるい}は ＿＿＿ ＿＿＿ ★ ＿＿＿ {受|う}け{付|つ}けられません。", "options": ["なければ", "印鑑を", "からで", "押して"], "order": [1, 3, 2, 0], "answer": 2, "vi": "Hồ sơ này nếu chưa đóng dấu thì không thể tiếp nhận.", "why": "この書類は **印鑑を 押して からで なければ** 受け付けられません → ★ (ô thứ 3) = 「からで」. Ghép khối 「Vて + からで + なければ」 trước; 「印鑑を押す」 = đóng dấu."},
+    {"id": "b03-t7", "kind": "usage", "ref": "b03-4", "q": "「〜て{以来|いらい}」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["{去年|きょねん}の{夏|なつ}に{一度|いちど}{会|あ}って{以来|いらい}、{彼|かれ}からは{何|なん}の{連絡|れんらく}もない。", "{来年|らいねん}{大学|だいがく}を{卒業|そつぎょう}して{以来|いらい}、{海外|かいがい}で{働|はたら}くつもりだ。", "{日本|にほん}に{来|き}て{以来|いらい}、{一度|いちど}{京都|きょうと}に{行|い}った。", "ボタンを{押|お}して{以来|いらい}、すぐにドアが{開|ひら}いた。"], "answer": 0, "vi": "(1) Từ khi gặp nhau một lần vào mùa hè năm ngoái, anh ấy không hề liên lạc gì.", "why": "(1) mốc quá khứ → trạng thái kéo dài đến nay (何の連絡もない) → đúng. (2) tương lai → 卒業したら; (3) việc xảy ra một lần → 来てから; (4) phản ứng tức thì → 押したとたん／押すと."}
+  ]
+}

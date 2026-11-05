@@ -1,0 +1,1912 @@
+{
+  "id": "g11",
+  "track": "goi",
+  "intro": "Bài này là **từ vựng công việc**: từ lúc ôm ước mơ, đi xin việc, vào công ty, làm việc hằng ngày, đến chuyện kiếm tiền, điều hành công ty và công đoàn. Đây là chủ đề **xuất hiện dày đặc** trong cả phần từ vựng lẫn đọc hiểu N2.\n\nBa cụm cần nắm chắc:\n- **Vào nghề**: 目指す → 就職活動 → 研修 → 入社 → 就任 (nhậm chức). Phía công ty: 募集する → 雇う.\n- **Tiền**: 稼ぐ (kiếm bằng sức lao động) / もうける・もうかる (lời, lãi) / 月給・ボーナス / 株. Thất bại: 損害・つぶれる・破産・失業.\n- **Làm việc**: 怠ける ↔ 熱中する, 張り切る, 案を思いつく・提案する, 依頼する ↔ 引き受ける, 指示する.\n\nCẩn thận vài **bạn giả Hán Việt**: 「{依頼|いらい}」 = **nhờ, đặt yêu cầu** (không phải \"ỷ lại\"), 「{出張|しゅっちょう}」 = **đi công tác**, 「{重役|じゅうやく}」 = **ban lãnh đạo cấp cao** (giám đốc điều hành, thành viên HĐQT).\n\nCuối bài: 語形成 (〜界・一流〜・引き〜・〜方針・〜職・〜士) và 4 phó từ せっせと・必ずしも・万一・早速.",
+  "sections": [
+    {
+      "title": "就職",
+      "title_vi": "Tìm việc, vào nghề",
+      "words": [
+        {
+          "id": "g11-w1",
+          "w": "芸能界",
+          "r": "げいのうかい",
+          "hv": "NGHỆ NĂNG GIỚI",
+          "pos": "名",
+          "vi": "giới giải trí, showbiz",
+          "key": true,
+          "ex": {
+            "ja": "{彼女|かのじょ}は{十五歳|じゅうごさい}で{芸能界|げいのうかい}にデビューした。",
+            "vi": "Cô ấy ra mắt giới giải trí năm 15 tuổi."
+          },
+          "col": [
+            "芸能界に入る",
+            "芸能界を引退する",
+            "芸能人"
+          ]
+        },
+        {
+          "id": "g11-w2",
+          "w": "目指す",
+          "r": "めざす",
+          "hv": "MỤC CHỈ",
+          "pos": "他動",
+          "vi": "nhắm tới, hướng tới (mục tiêu)",
+          "key": true,
+          "ex": {
+            "ja": "{弟|おとうと}はプロのサッカー{選手|せんしゅ}を{目指|めざ}して、{毎日|まいにち}{練習|れんしゅう}している。",
+            "vi": "Em trai tôi tập luyện mỗi ngày, nhắm tới việc trở thành cầu thủ bóng đá chuyên nghiệp."
+          },
+          "col": [
+            "優勝を目指す",
+            "合格を目指す",
+            "頂上を目指す",
+            "〜を目指して"
+          ]
+        },
+        {
+          "id": "g11-w3",
+          "w": "抱く",
+          "r": "いだく",
+          "hv": "BÃO",
+          "pos": "他動",
+          "vi": "ôm ấp, nuôi (ước mơ, hy vọng, nghi ngờ, cảm xúc)",
+          "key": true,
+          "ex": {
+            "ja": "{多|おお}くの{若者|わかもの}が{都会|とかい}での{生活|せいかつ}に{憧|あこが}れを{抱|いだ}いている。",
+            "vi": "Nhiều người trẻ ôm ấp khát khao về cuộc sống ở thành phố."
+          },
+          "col": [
+            "夢を抱く",
+            "希望を抱く",
+            "疑問を抱く",
+            "不安を抱く"
+          ],
+          "rel": "≒ 持つ",
+          "note": "Với vật cụ thể (ôm em bé) thường đọc 「だく」: 赤ちゃんを抱く. Với cảm xúc, ước mơ đọc 「いだく」 (văn viết)."
+        },
+        {
+          "id": "g11-w4",
+          "w": "追いかける",
+          "r": "おいかける",
+          "hv": "TRUY",
+          "pos": "他動",
+          "vi": "đuổi theo; theo đuổi (ước mơ)",
+          "key": true,
+          "ex": {
+            "ja": "{三十歳|さんじゅっさい}を{過|す}ぎても、{彼|かれ}は{歌手|かしゅ}になる{夢|ゆめ}を{追|お}いかけている。",
+            "vi": "Đã quá 30 tuổi mà anh ấy vẫn theo đuổi giấc mơ làm ca sĩ."
+          },
+          "col": [
+            "夢を追いかける",
+            "犯人を追いかける",
+            "流行を追いかける"
+          ],
+          "rel": "≒ 追う"
+        },
+        {
+          "id": "g11-w5",
+          "w": "あきらめる",
+          "r": "あきらめる",
+          "hv": "",
+          "pos": "他動",
+          "vi": "từ bỏ, bỏ cuộc, đành chịu",
+          "key": true,
+          "ex": {
+            "ja": "{家庭|かてい}の{事情|じじょう}で、{留学|りゅうがく}をあきらめざるを{得|え}なかった。",
+            "vi": "Vì hoàn cảnh gia đình, tôi buộc phải từ bỏ việc du học."
+          },
+          "col": [
+            "夢をあきらめる",
+            "最後まであきらめない"
+          ],
+          "rel": "≒ 断念する",
+          "note": "Kanji 諦める (ít dùng trong đề)."
+        },
+        {
+          "id": "g11-w6",
+          "w": "就職活動",
+          "r": "しゅうしょくかつどう",
+          "hv": "TỰU CHỨC HOẠT ĐỘNG",
+          "pos": "名",
+          "vi": "hoạt động tìm việc (của sinh viên sắp ra trường)",
+          "key": true,
+          "ex": {
+            "ja": "{三年生|さんねんせい}の{冬|ふゆ}から{就職活動|しゅうしょくかつどう}を{始|はじ}める{学生|がくせい}が{多|おお}い。",
+            "vi": "Nhiều sinh viên bắt đầu tìm việc từ mùa đông năm ba."
+          },
+          "col": [
+            "就活",
+            "就職活動をする",
+            "就職説明会"
+          ],
+          "note": "Nói tắt: 就活 (しゅうかつ)."
+        },
+        {
+          "id": "g11-w7",
+          "w": "希望",
+          "r": "きぼう",
+          "hv": "HI VỌNG",
+          "pos": "名・他動",
+          "vi": "nguyện vọng, mong muốn; hy vọng",
+          "key": true,
+          "ex": {
+            "ja": "{面接|めんせつ}で{希望|きぼう}の{勤務地|きんむち}を{聞|き}かれた。",
+            "vi": "Trong buổi phỏng vấn, tôi được hỏi nơi làm việc mong muốn."
+          },
+          "col": [
+            "希望を出す",
+            "希望に沿う",
+            "第一希望",
+            "希望者"
+          ]
+        },
+        {
+          "id": "g11-w8",
+          "w": "あてはまる",
+          "r": "あてはまる",
+          "hv": "",
+          "pos": "自動",
+          "vi": "phù hợp, khớp với (điều kiện, tiêu chí); đúng với",
+          "key": true,
+          "ex": {
+            "ja": "{次|つぎ}の{項目|こうもく}のうち、{自分|じぶん}にあてはまるものに{丸|まる}をつけてください。",
+            "vi": "Trong các mục sau, hãy khoanh tròn những mục đúng với bản thân bạn."
+          },
+          "col": [
+            "条件にあてはまる",
+            "〜にもあてはまる"
+          ],
+          "rel": "他動: あてはめる",
+          "note": "Kanji 当てはまる. Cấu trúc: [người/vật] が [điều kiện, quy tắc, nhận xét] に あてはまる. Không dùng cho quần áo vừa người (→ 合う／入る) hay số tiền vừa khớp (→ ちょうど〜だ／足りる)."
+        },
+        {
+          "id": "g11-w9",
+          "w": "張り切る",
+          "r": "はりきる",
+          "hv": "TRƯƠNG THIẾT",
+          "pos": "自動",
+          "vi": "hăng hái, phấn chấn, đầy nhiệt huyết",
+          "key": true,
+          "ex": {
+            "ja": "{初|はじ}めての{発表会|はっぴょうかい}なので、{娘|むすめ}は{朝|あさ}から{張|は}り{切|き}っている。",
+            "vi": "Vì là buổi biểu diễn đầu tiên nên con gái tôi hăng hái từ sáng sớm."
+          },
+          "col": [
+            "張り切って働く",
+            "張り切りすぎる"
+          ],
+          "note": "Hình ảnh: dây đàn căng hết cỡ. Thường ở dạng 張り切っている / 張り切って〜."
+        },
+        {
+          "id": "g11-w10",
+          "w": "研修",
+          "r": "けんしゅう",
+          "hv": "NGHIÊN TU",
+          "pos": "名・他動",
+          "vi": "đào tạo, tập huấn (trong công việc)",
+          "key": true,
+          "ex": {
+            "ja": "{新入社員|しんにゅうしゃいん}は{最初|さいしょ}の{一か月|いっかげつ}、{本社|ほんしゃ}で{研修|けんしゅう}を{受|う}ける。",
+            "vi": "Nhân viên mới được đào tạo một tháng đầu ở trụ sở chính."
+          },
+          "col": [
+            "研修を受ける",
+            "新人研修",
+            "研修生",
+            "海外研修"
+          ]
+        },
+        {
+          "id": "g11-w11",
+          "w": "一流企業",
+          "r": "いちりゅうきぎょう",
+          "hv": "NHẤT LƯU XÍ NGHIỆP",
+          "pos": "名",
+          "vi": "doanh nghiệp hàng đầu",
+          "key": true,
+          "ex": {
+            "ja": "{一流企業|いちりゅうきぎょう}に{入|はい}れば{安心|あんしん}だという{時代|じだい}は{終|お}わった。",
+            "vi": "Thời mà cứ vào được công ty hàng đầu là yên tâm đã qua rồi."
+          },
+          "col": [
+            "一流企業に入社する"
+          ]
+        },
+        {
+          "id": "g11-w12",
+          "w": "入社",
+          "r": "にゅうしゃ",
+          "hv": "NHẬP XÃ",
+          "pos": "名・自動",
+          "vi": "vào làm ở công ty",
+          "key": true,
+          "ex": {
+            "ja": "{入社|にゅうしゃ}して{三年|さんねん}で、{初|はじ}めて{大|おお}きな{仕事|しごと}を{任|まか}された。",
+            "vi": "Vào công ty được ba năm, lần đầu tiên tôi được giao một việc lớn."
+          },
+          "col": [
+            "〜に入社する",
+            "入社式",
+            "入社試験"
+          ],
+          "rel": "↔ 退社"
+        },
+        {
+          "id": "g11-w13",
+          "w": "月給",
+          "r": "げっきゅう",
+          "hv": "NGUYỆT CẤP",
+          "pos": "名",
+          "vi": "lương tháng",
+          "key": true,
+          "ex": {
+            "ja": "{月給|げっきゅう}の{半分|はんぶん}{近|ちか}くが{家賃|やちん}に{消|き}えてしまう。",
+            "vi": "Gần một nửa lương tháng biến mất vào tiền thuê nhà."
+          },
+          "col": [
+            "月給をもらう",
+            "月給制"
+          ],
+          "rel": "≒ 給料 ・ 時給 (lương giờ)・年収 (thu nhập năm)"
+        },
+        {
+          "id": "g11-w14",
+          "w": "ボーナス",
+          "r": "ぼーなす",
+          "hv": "",
+          "pos": "名",
+          "vi": "tiền thưởng (thường hai lần/năm ở Nhật)",
+          "key": true,
+          "ex": {
+            "ja": "{今年|ことし}は{業績|ぎょうせき}がよかったので、{冬|ふゆ}のボーナスが{出|で}た。",
+            "vi": "Năm nay kết quả kinh doanh tốt nên có thưởng mùa đông."
+          },
+          "col": [
+            "ボーナスが出る",
+            "ボーナスをもらう"
+          ],
+          "rel": "≒ 賞与"
+        }
+      ]
+    },
+    {
+      "title": "仕事",
+      "title_vi": "Làm việc",
+      "words": [
+        {
+          "id": "g11-w15",
+          "w": "怠ける",
+          "r": "なまける",
+          "hv": "ĐÃI",
+          "pos": "自他動",
+          "vi": "lười biếng, lơ là (công việc, học hành)",
+          "key": true,
+          "ex": {
+            "ja": "{夏休|なつやす}みに{勉強|べんきょう}を{怠|なま}けていたら、{成績|せいせき}が{一気|いっき}に{下|さ}がった。",
+            "vi": "Kỳ nghỉ hè lười học nên điểm tụt hẳn."
+          },
+          "col": [
+            "仕事を怠ける",
+            "怠け者"
+          ],
+          "rel": "↔ 熱中する・励む",
+          "note": "Cùng chữ 怠 nhưng 「怠る」 (おこたる) là văn viết, = sao nhãng nghĩa vụ: 注意を怠る."
+        },
+        {
+          "id": "g11-w16",
+          "w": "熱中",
+          "r": "ねっちゅう",
+          "hv": "NHIỆT TRUNG",
+          "pos": "名・自動",
+          "vi": "say mê, mải mê, chìm đắm vào",
+          "key": true,
+          "ex": {
+            "ja": "{息子|むすこ}はゲームに{熱中|ねっちゅう}していて、{呼|よ}んでも{返事|へんじ}をしない。",
+            "vi": "Con trai tôi mải mê chơi game, gọi cũng không trả lời."
+          },
+          "col": [
+            "〜に熱中する",
+            "熱中症"
+          ],
+          "rel": "≒ 夢中になる",
+          "note": "熱中 là động từ (〜に熱中する), không phải tính từ: ✗熱中な人 → ○熱心な人. 熱中症 = say nắng, sốc nhiệt."
+        },
+        {
+          "id": "g11-w17",
+          "w": "出張",
+          "r": "しゅっちょう",
+          "hv": "XUẤT TRƯƠNG",
+          "pos": "名・自動",
+          "vi": "đi công tác",
+          "key": true,
+          "ex": {
+            "ja": "{来週|らいしゅう}、{取引先|とりひきさき}との{打|う}ち{合|あ}わせで{福岡|ふくおか}へ{出張|しゅっちょう}する。",
+            "vi": "Tuần sau tôi đi công tác Fukuoka để họp với đối tác."
+          },
+          "col": [
+            "海外出張",
+            "出張先",
+            "日帰り出張"
+          ],
+          "note": "Đừng nhầm 主張 (しゅちょう, chủ trương/khẳng định)."
+        },
+        {
+          "id": "g11-w18",
+          "w": "休暇",
+          "r": "きゅうか",
+          "hv": "HƯU HẠ",
+          "pos": "名",
+          "vi": "kỳ nghỉ (phép)",
+          "key": true,
+          "ex": {
+            "ja": "{夏|なつ}に{一週間|いっしゅうかん}の{休暇|きゅうか}を{取|と}って、{家族|かぞく}で{沖縄|おきなわ}へ{行|い}った。",
+            "vi": "Mùa hè tôi xin nghỉ phép một tuần và cả nhà đi Okinawa."
+          },
+          "col": [
+            "休暇を取る",
+            "有給休暇",
+            "育児休暇"
+          ]
+        },
+        {
+          "id": "g11-w19",
+          "w": "申請",
+          "r": "しんせい",
+          "hv": "THÂN THỈNH",
+          "pos": "名・他動",
+          "vi": "nộp đơn xin, đăng ký (với cơ quan, tổ chức)",
+          "key": true,
+          "ex": {
+            "ja": "ビザの{更新|こうしん}を{申請|しんせい}するには、{在職|ざいしょく}{証明書|しょうめいしょ}が{必要|ひつよう}だ。",
+            "vi": "Để xin gia hạn visa cần có giấy xác nhận đang làm việc."
+          },
+          "col": [
+            "休暇を申請する",
+            "申請書",
+            "ビザを申請する"
+          ],
+          "rel": "≒ 申し込む",
+          "note": "申請 hướng tới **cơ quan có thẩm quyền cho phép** (công ty, nhà nước). Đăng ký lớp học, sự kiện thường dùng 申し込む."
+        },
+        {
+          "id": "g11-w20",
+          "w": "案",
+          "r": "あん",
+          "hv": "ÁN",
+          "pos": "名",
+          "vi": "phương án, đề xuất, ý tưởng",
+          "key": true,
+          "ex": {
+            "ja": "{誰|だれ}かいい{案|あん}はありませんか。",
+            "vi": "Có ai có ý tưởng hay không?"
+          },
+          "col": [
+            "案を出す",
+            "いい案が浮かぶ",
+            "改善案"
+          ],
+          "rel": "≒ アイデア"
+        },
+        {
+          "id": "g11-w21",
+          "w": "思いつく",
+          "r": "おもいつく",
+          "hv": "TƯ",
+          "pos": "他動",
+          "vi": "nảy ra (ý), chợt nghĩ ra",
+          "key": true,
+          "ex": {
+            "ja": "シャワーを{浴|あ}びているときに、{新商品|しんしょうひん}の{名前|なまえ}を{思|おも}いついた。",
+            "vi": "Lúc đang tắm, tôi chợt nghĩ ra tên cho sản phẩm mới."
+          },
+          "col": [
+            "案を思いつく",
+            "思いつき"
+          ],
+          "rel": "≒ 浮かぶ",
+          "note": "思いつき = ý nghĩ chợt đến (đôi khi chê: thiếu cân nhắc)."
+        },
+        {
+          "id": "g11-w22",
+          "w": "提案",
+          "r": "ていあん",
+          "hv": "ĐỀ ÁN",
+          "pos": "名・他動",
+          "vi": "đề xuất, đề nghị",
+          "key": true,
+          "ex": {
+            "ja": "{会議|かいぎ}で、{在宅|ざいたく}{勤務|きんむ}を{増|ふ}やすことを{提案|ていあん}した。",
+            "vi": "Trong cuộc họp, tôi đã đề xuất tăng thêm làm việc tại nhà."
+          },
+          "col": [
+            "提案を受け入れる",
+            "提案書",
+            "企画を提案する"
+          ]
+        },
+        {
+          "id": "g11-w23",
+          "w": "慌ただしい",
+          "r": "あわただしい",
+          "hv": "HOẢNG",
+          "pos": "い形",
+          "vi": "tất bật, vội vã, rối rít (không yên lúc nào)",
+          "key": true,
+          "ex": {
+            "ja": "{年末|ねんまつ}は{慌|あわ}ただしくて、ゆっくり{休|やす}む{暇|ひま}もない。",
+            "vi": "Cuối năm tất bật, chẳng có lúc nào nghỉ ngơi thong thả."
+          },
+          "col": [
+            "慌ただしい一日",
+            "慌ただしく出かける"
+          ],
+          "rel": "≒ 忙しくて落ち着かない",
+          "note": "Liên quan 慌てる (cuống). 忙しい chỉ nói nhiều việc; 慌ただしい nhấn mạnh **không khí gấp gáp, không yên**."
+        },
+        {
+          "id": "g11-w24",
+          "w": "能率",
+          "r": "のうりつ",
+          "hv": "NĂNG SUẤT",
+          "pos": "名",
+          "vi": "năng suất, hiệu suất (làm việc)",
+          "key": true,
+          "ex": {
+            "ja": "{睡眠|すいみん}が{足|た}りないと、{仕事|しごと}の{能率|のうりつ}が{落|お}ちる。",
+            "vi": "Thiếu ngủ thì năng suất làm việc giảm."
+          },
+          "col": [
+            "能率が上がる／下がる",
+            "能率的",
+            "非能率"
+          ],
+          "rel": "≒ 効率"
+        },
+        {
+          "id": "g11-w25",
+          "w": "依頼",
+          "r": "いらい",
+          "hv": "Ỷ LẠI",
+          "pos": "名・他動",
+          "vi": "nhờ, yêu cầu, ủy thác (một công việc cho ai)",
+          "key": true,
+          "ex": {
+            "ja": "{専門|せんもん}の{業者|ぎょうしゃ}に{古|ふる}い{家|いえ}の{調査|ちょうさ}を{依頼|いらい}した。",
+            "vi": "Tôi đã nhờ một công ty chuyên môn khảo sát căn nhà cũ."
+          },
+          "col": [
+            "仕事を依頼する",
+            "弁護士に依頼する",
+            "依頼を受ける／断る",
+            "依頼人"
+          ],
+          "rel": "↔ 引き受ける",
+          "note": "**Bạn giả!** Không phải \"ỷ lại\" của tiếng Việt (dựa dẫm → 頼る・依存する)."
+        },
+        {
+          "id": "g11-w26",
+          "w": "引き受ける",
+          "r": "ひきうける",
+          "hv": "DẪN THỤ",
+          "pos": "他動",
+          "vi": "nhận lời làm, đảm nhận (việc người khác nhờ)",
+          "key": true,
+          "ex": {
+            "ja": "{忙|いそが}しい{時期|じき}だったが、{先輩|せんぱい}の{頼|たの}みなので{引|ひ}き{受|う}けることにした。",
+            "vi": "Đang thời kỳ bận nhưng vì là đàn anh nhờ nên tôi quyết định nhận."
+          },
+          "col": [
+            "仕事を引き受ける",
+            "役を引き受ける",
+            "快く引き受ける"
+          ],
+          "rel": "↔ 断る",
+          "note": "受ける = nhận (thi, phỏng vấn, đào tạo); 引き受ける = **nhận trách nhiệm làm** một việc."
+        },
+        {
+          "id": "g11-w27",
+          "w": "失業",
+          "r": "しつぎょう",
+          "hv": "THẤT NGHIỆP",
+          "pos": "名・自動",
+          "vi": "thất nghiệp, mất việc",
+          "key": true,
+          "ex": {
+            "ja": "{工場|こうじょう}が{閉鎖|へいさ}され、{多|おお}くの{人|ひと}が{失業|しつぎょう}した。",
+            "vi": "Nhà máy đóng cửa và nhiều người đã mất việc."
+          },
+          "col": [
+            "失業率",
+            "失業者",
+            "失業保険"
+          ]
+        },
+        {
+          "id": "g11-w28",
+          "w": "稼ぐ",
+          "r": "かせぐ",
+          "hv": "GIÁ",
+          "pos": "他動",
+          "vi": "kiếm (tiền) bằng sức lao động; tranh thủ (thời gian, điểm)",
+          "key": true,
+          "ex": {
+            "ja": "{留学|りゅうがく}の{費用|ひよう}は、{自分|じぶん}でアルバイトをして{稼|かせ}いだ。",
+            "vi": "Chi phí du học tôi tự đi làm thêm kiếm được."
+          },
+          "col": [
+            "お金を稼ぐ",
+            "生活費を稼ぐ",
+            "時間を稼ぐ",
+            "共稼ぎ"
+          ],
+          "note": "Nhấn mạnh **công sức làm việc**. Lời từ buôn bán, đầu tư → もうける."
+        },
+        {
+          "id": "g11-w29",
+          "w": "株",
+          "r": "かぶ",
+          "hv": "CHU",
+          "pos": "名",
+          "vi": "cổ phiếu; gốc cây",
+          "key": true,
+          "ex": {
+            "ja": "{父|ちち}は{退職|たいしょく}{後|ご}、{少|すこ}しずつ{株|かぶ}を{買|か}っている。",
+            "vi": "Sau khi nghỉ hưu, bố tôi mua cổ phiếu từng chút một."
+          },
+          "col": [
+            "株を買う／売る",
+            "株価",
+            "株式会社",
+            "株主"
+          ]
+        },
+        {
+          "id": "g11-w30",
+          "w": "もうける",
+          "r": "もうける",
+          "hv": "TRỮ",
+          "pos": "他動",
+          "vi": "kiếm lời, lãi (từ buôn bán, đầu tư)",
+          "key": true,
+          "ex": {
+            "ja": "{彼|かれ}は{中古車|ちゅうこしゃ}を{安|やす}く{買|か}って{高|たか}く{売|う}り、{大金|たいきん}をもうけた。",
+            "vi": "Anh ta mua xe cũ giá rẻ rồi bán giá cao, lãi được một khoản lớn."
+          },
+          "col": [
+            "お金をもうける",
+            "大もうけ",
+            "金もうけ"
+          ],
+          "rel": "↔ 損をする",
+          "note": "Kanji 儲ける. Tha động từ: [người] が お金 を もうける. Đừng nhầm 設ける (もうける, thiết lập: 席を設ける)."
+        },
+        {
+          "id": "g11-w31",
+          "w": "もうかる",
+          "r": "もうかる",
+          "hv": "TRỮ",
+          "pos": "自動",
+          "vi": "có lời, sinh lãi, làm ăn được",
+          "key": true,
+          "ex": {
+            "ja": "{駅前|えきまえ}のパン{屋|や}は、いつも{行列|ぎょうれつ}ができていて、かなりもうかっているらしい。",
+            "vi": "Tiệm bánh trước ga lúc nào cũng xếp hàng, nghe nói làm ăn lãi lắm."
+          },
+          "col": [
+            "商売がもうかる",
+            "もうかる仕事"
+          ],
+          "note": "Tự động từ: [việc kinh doanh / tiền] が もうかる. ✗お金をもうかる."
+        },
+        {
+          "id": "g11-w32",
+          "w": "破産",
+          "r": "はさん",
+          "hv": "PHÁ SẢN",
+          "pos": "名・自動",
+          "vi": "phá sản (người hoặc công ty không trả được nợ)",
+          "key": true,
+          "ex": {
+            "ja": "{借金|しゃっきん}が{返|かえ}せなくなり、その{会社|かいしゃ}は{破産|はさん}した。",
+            "vi": "Không trả được nợ nên công ty đó đã phá sản."
+          },
+          "col": [
+            "自己破産",
+            "破産宣告"
+          ],
+          "rel": "≒ 倒産 (dùng cho công ty)",
+          "note": "倒産 chỉ dùng cho công ty; 破産 dùng cho cả cá nhân."
+        }
+      ]
+    },
+    {
+      "title": "経営",
+      "title_vi": "Điều hành doanh nghiệp",
+      "words": [
+        {
+          "id": "g11-w33",
+          "w": "経営",
+          "r": "けいえい",
+          "hv": "KINH DOANH",
+          "pos": "名・他動",
+          "vi": "điều hành, kinh doanh (một công ty, cửa hàng)",
+          "key": true,
+          "ex": {
+            "ja": "{祖父|そふ}は{六十年|ろくじゅうねん}{以上|いじょう}、{小|ちい}さな{旅館|りょかん}を{経営|けいえい}してきた。",
+            "vi": "Ông tôi đã kinh doanh một nhà trọ nhỏ suốt hơn 60 năm."
+          },
+          "col": [
+            "会社を経営する",
+            "経営者",
+            "経営が苦しい",
+            "経営難"
+          ]
+        },
+        {
+          "id": "g11-w34",
+          "w": "資本金",
+          "r": "しほんきん",
+          "hv": "TƯ BẢN KIM",
+          "pos": "名",
+          "vi": "vốn điều lệ, vốn đầu tư ban đầu",
+          "key": true,
+          "ex": {
+            "ja": "{友人|ゆうじん}{三人|さんにん}で{資本金|しほんきん}を{出|だ}し{合|あ}って、{会社|かいしゃ}を{作|つく}った。",
+            "vi": "Ba người bạn cùng góp vốn để lập công ty."
+          },
+          "col": [
+            "資本金を集める",
+            "資本"
+          ]
+        },
+        {
+          "id": "g11-w35",
+          "w": "募集",
+          "r": "ぼしゅう",
+          "hv": "MỘ TẬP",
+          "pos": "名・他動",
+          "vi": "tuyển, chiêu mộ (người, ý kiến, tác phẩm)",
+          "key": true,
+          "ex": {
+            "ja": "この{店|みせ}では{週末|しゅうまつ}に{働|はたら}けるスタッフを{募集|ぼしゅう}している。",
+            "vi": "Cửa hàng này đang tuyển nhân viên làm được cuối tuần."
+          },
+          "col": [
+            "社員を募集する",
+            "募集中",
+            "募集要項",
+            "作品を募集する"
+          ],
+          "rel": "≒ 募る"
+        },
+        {
+          "id": "g11-w36",
+          "w": "雇う",
+          "r": "やとう",
+          "hv": "CỐ",
+          "pos": "他動",
+          "vi": "thuê (người làm), tuyển dụng",
+          "key": true,
+          "ex": {
+            "ja": "{人手|ひとで}が{足|た}りないので、{年末|ねんまつ}だけアルバイトを{雇|やと}うことにした。",
+            "vi": "Thiếu người nên chúng tôi quyết định thuê người làm thêm riêng dịp cuối năm."
+          },
+          "col": [
+            "人を雇う",
+            "雇い主",
+            "雇用"
+          ],
+          "note": "Chỉ dùng với **người**. Thuê nhà/xe → 借りる・レンタルする."
+        },
+        {
+          "id": "g11-w37",
+          "w": "経営方針",
+          "r": "けいえいほうしん",
+          "hv": "KINH DOANH PHƯƠNG CHÂM",
+          "pos": "名",
+          "vi": "phương châm / định hướng kinh doanh",
+          "key": true,
+          "ex": {
+            "ja": "{新|あたら}しい{社長|しゃちょう}は「{社員|しゃいん}の{健康|けんこう}が{第一|だいいち}」という{経営方針|けいえいほうしん}を{打|う}ち{出|だ}した。",
+            "vi": "Giám đốc mới đưa ra phương châm kinh doanh \"sức khoẻ nhân viên là trên hết\"."
+          },
+          "col": [
+            "経営方針を決める",
+            "経営方針を打ち出す"
+          ]
+        },
+        {
+          "id": "g11-w38",
+          "w": "損害",
+          "r": "そんがい",
+          "hv": "TỔN HẠI",
+          "pos": "名",
+          "vi": "thiệt hại (vật chất, tiền bạc)",
+          "key": true,
+          "ex": {
+            "ja": "{工場|こうじょう}の{火事|かじ}で、{会社|かいしゃ}は{数億円|すうおくえん}の{損害|そんがい}を{受|う}けた。",
+            "vi": "Do vụ cháy nhà máy, công ty chịu thiệt hại hàng trăm triệu yên."
+          },
+          "col": [
+            "損害を出す",
+            "損害を受ける",
+            "損害賠償"
+          ],
+          "rel": "≒ 被害 ↔ 利益",
+          "note": "Danh từ về **tổn thất lớn, có thể tính bằng tiền**. Không làm động từ (✗損害する). Thiệt thòi nhỏ hằng ngày → 損 (損をする)."
+        },
+        {
+          "id": "g11-w39",
+          "w": "つぶれる",
+          "r": "つぶれる",
+          "hv": "HỘI",
+          "pos": "自動",
+          "vi": "(công ty, cửa hàng) sập tiệm, phá sản; bị đè bẹp; (kế hoạch, thời gian) bị hỏng",
+          "key": true,
+          "ex": {
+            "ja": "{近所|きんじょ}に{大|おお}きなスーパーができて、{古|ふる}い{八百屋|やおや}がつぶれてしまった。",
+            "vi": "Một siêu thị lớn mở gần đó nên tiệm rau cũ đã sập tiệm."
+          },
+          "col": [
+            "会社がつぶれる",
+            "箱がつぶれる",
+            "予定がつぶれる"
+          ],
+          "rel": "他動: つぶす",
+          "note": "Kanji 潰れる. Văn nói của 倒産する. Tha động từ là つぶす (箱をつぶす, 時間をつぶす = giết thời gian).",
+          "senses": [
+            {
+              "vi": "bị đè bẹp",
+              "ex": {
+                "ja": "{袋|ふくろ}の{下|した}のほうに{入|い}れた{卵|たまご}がつぶれていた。",
+                "vi": "Mấy quả trứng để dưới đáy túi đã bị bẹp."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g11-w40",
+          "w": "就任",
+          "r": "しゅうにん",
+          "hv": "TỰU NHIỆM",
+          "pos": "名・自動",
+          "vi": "nhậm chức, nhận chức vụ",
+          "key": true,
+          "ex": {
+            "ja": "{山田|やまだ}{氏|し}が{四月|しがつ}{一日|ついたち}{付|づ}けで{社長|しゃちょう}に{就任|しゅうにん}した。",
+            "vi": "Ông Yamada đã nhậm chức giám đốc kể từ ngày 1 tháng 4."
+          },
+          "col": [
+            "社長に就任する",
+            "就任式",
+            "就任のあいさつ"
+          ],
+          "rel": "↔ 辞任・退任"
+        },
+        {
+          "id": "g11-w41",
+          "w": "管理職",
+          "r": "かんりしょく",
+          "hv": "QUẢN LÝ CHỨC",
+          "pos": "名",
+          "vi": "chức vụ quản lý (trưởng phòng, trưởng ban...)",
+          "key": true,
+          "ex": {
+            "ja": "{管理職|かんりしょく}になってから、{自分|じぶん}の{仕事|しごと}より{部下|ぶか}の{指導|しどう}が{増|ふ}えた。",
+            "vi": "Từ khi lên chức quản lý, việc hướng dẫn cấp dưới nhiều hơn việc của chính mình."
+          }
+        },
+        {
+          "id": "g11-w42",
+          "w": "重役",
+          "r": "じゅうやく",
+          "hv": "TRỌNG DỊCH",
+          "pos": "名",
+          "vi": "lãnh đạo cấp cao, thành viên ban giám đốc / HĐQT",
+          "key": true,
+          "ex": {
+            "ja": "{新製品|しんせいひん}の{計画|けいかく}は、{重役|じゅうやく}{会議|かいぎ}で{承認|しょうにん}された。",
+            "vi": "Kế hoạch sản phẩm mới đã được thông qua tại cuộc họp ban lãnh đạo."
+          },
+          "col": [
+            "重役会議",
+            "重役になる"
+          ],
+          "rel": "≒ 役員"
+        },
+        {
+          "id": "g11-w43",
+          "w": "副社長",
+          "r": "ふくしゃちょう",
+          "hv": "PHÓ XÃ TRƯỞNG",
+          "pos": "名",
+          "vi": "phó giám đốc (phó chủ tịch công ty)",
+          "key": false,
+          "ex": {
+            "ja": "{社長|しゃちょう}が{入院|にゅういん}している{間|あいだ}、{副社長|ふくしゃちょう}が{代|か}わりを{務|つと}める。",
+            "vi": "Trong thời gian giám đốc nằm viện, phó giám đốc sẽ thay thế."
+          }
+        },
+        {
+          "id": "g11-w44",
+          "w": "指示",
+          "r": "しじ",
+          "hv": "CHỈ THỊ",
+          "pos": "名・他動",
+          "vi": "chỉ thị, hướng dẫn (cách làm cụ thể)",
+          "key": true,
+          "ex": {
+            "ja": "{店長|てんちょう}の{指示|しじ}に{従|したが}って、{商品|しょうひん}の{並|なら}べ{方|かた}を{変|か}えた。",
+            "vi": "Theo chỉ thị của cửa hàng trưởng, tôi đã thay đổi cách bày hàng."
+          },
+          "col": [
+            "指示を出す",
+            "指示に従う",
+            "指示を受ける",
+            "指示通り"
+          ],
+          "note": "Đồng âm 支持 (しじ, ủng hộ). 指示 có chữ 指 (ngón tay chỉ)."
+        },
+        {
+          "id": "g11-w45",
+          "w": "才能",
+          "r": "さいのう",
+          "hv": "TÀI NĂNG",
+          "pos": "名",
+          "vi": "tài năng, năng khiếu",
+          "key": true,
+          "ex": {
+            "ja": "{彼|かれ}は{子|こ}どもの{頃|ころ}から{音楽|おんがく}の{才能|さいのう}を{発揮|はっき}していた。",
+            "vi": "Từ nhỏ anh ấy đã bộc lộ tài năng âm nhạc."
+          },
+          "col": [
+            "才能がある",
+            "才能を伸ばす",
+            "才能を認める"
+          ]
+        },
+        {
+          "id": "g11-w46",
+          "w": "認める",
+          "r": "みとめる",
+          "hv": "NHẬN",
+          "pos": "他動",
+          "vi": "công nhận, đánh giá; thừa nhận; cho phép",
+          "key": true,
+          "ex": {
+            "ja": "{何年|なんねん}も{努力|どりょく}を{続|つづ}けて、やっと{周|まわ}りに{実力|じつりょく}を{認|みと}められた。",
+            "vi": "Kiên trì nỗ lực nhiều năm, cuối cùng thực lực của tôi cũng được mọi người công nhận."
+          },
+          "col": [
+            "才能を認める",
+            "ミスを認める",
+            "外出を認める"
+          ],
+          "senses": [
+            {
+              "vi": "thừa nhận (lỗi, sự thật)",
+              "ex": {
+                "ja": "{運転手|うんてんしゅ}は{信号|しんごう}{無視|むし}を{認|みと}めた。",
+                "vi": "Tài xế đã thừa nhận vượt đèn đỏ."
+              }
+            },
+            {
+              "vi": "cho phép",
+              "ex": {
+                "ja": "この{寮|りょう}では、{夜|よる}十一{時|じ}{以降|いこう}の{外出|がいしゅつ}は{認|みと}められていない。",
+                "vi": "Ký túc xá này không cho phép ra ngoài sau 11 giờ đêm."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "労働運動",
+      "title_vi": "Phong trào lao động",
+      "words": [
+        {
+          "id": "g11-w47",
+          "w": "労働組合",
+          "r": "ろうどうくみあい",
+          "hv": "LAO ĐỘNG TỔ HỢP",
+          "pos": "名",
+          "vi": "công đoàn",
+          "key": true,
+          "ex": {
+            "ja": "{労働組合|ろうどうくみあい}が{会社|かいしゃ}に{賃上|ちんあ}げを{求|もと}めている。",
+            "vi": "Công đoàn đang yêu cầu công ty tăng lương."
+          },
+          "col": [
+            "労働組合を作る",
+            "組合員"
+          ],
+          "note": "組合 đọc 「くみあい」 (thuần Nhật), không phải そごう."
+        },
+        {
+          "id": "g11-w48",
+          "w": "組織",
+          "r": "そしき",
+          "hv": "TỔ CHỨC",
+          "pos": "名・他動",
+          "vi": "tổ chức (đoàn thể); thành lập, tổ chức thành nhóm",
+          "key": true,
+          "ex": {
+            "ja": "{会社|かいしゃ}は{一|ひと}つの{組織|そしき}だから、{個人|こじん}の{都合|つごう}だけでは{動|うご}けない。",
+            "vi": "Công ty là một tổ chức nên không thể hành động chỉ theo ý riêng cá nhân."
+          },
+          "col": [
+            "組合を組織する",
+            "組織的",
+            "組織に属する"
+          ],
+          "note": "Tổ chức **sự kiện** (tiệc, hội thảo) không dùng 組織 → 開く・開催する・主催する."
+        },
+        {
+          "id": "g11-w49",
+          "w": "労働条件",
+          "r": "ろうどうじょうけん",
+          "hv": "LAO ĐỘNG ĐIỀU KIỆN",
+          "pos": "名",
+          "vi": "điều kiện lao động (giờ làm, lương, nghỉ phép)",
+          "key": true,
+          "ex": {
+            "ja": "{給料|きゅうりょう}は{高|たか}いが、{労働条件|ろうどうじょうけん}が{厳|きび}しくて{辞|や}める{人|ひと}が{多|おお}い。",
+            "vi": "Lương cao nhưng điều kiện lao động khắc nghiệt nên nhiều người nghỉ."
+          }
+        },
+        {
+          "id": "g11-w50",
+          "w": "改善",
+          "r": "かいぜん",
+          "hv": "CẢI THIỆN",
+          "pos": "名・他動",
+          "vi": "cải thiện, cải tiến (cái chưa tốt cho tốt lên)",
+          "key": true,
+          "ex": {
+            "ja": "{利用者|りようしゃ}の{意見|いけん}をもとに、サービスを{改善|かいぜん}した。",
+            "vi": "Dựa trên ý kiến người dùng, chúng tôi đã cải thiện dịch vụ."
+          },
+          "col": [
+            "改善を求める",
+            "体質改善",
+            "改善策"
+          ],
+          "rel": "↔ 改悪",
+          "note": "Tiền đề: hiện trạng **có vấn đề**. Không dùng cho việc làm mới hoàn toàn."
+        },
+        {
+          "id": "g11-w51",
+          "w": "要求",
+          "r": "ようきゅう",
+          "hv": "YÊU CẦU",
+          "pos": "名・他動",
+          "vi": "đòi hỏi, yêu cầu (một cách mạnh mẽ, coi là quyền lợi)",
+          "key": true,
+          "ex": {
+            "ja": "{乗客|じょうきゃく}たちは{鉄道|てつどう}{会社|かいしゃ}に{運賃|うんちん}の{返金|へんきん}を{要求|ようきゅう}した。",
+            "vi": "Hành khách đòi công ty đường sắt hoàn lại tiền vé."
+          },
+          "col": [
+            "要求を受け入れる",
+            "要求に応じる",
+            "賃上げ要求"
+          ],
+          "note": "Mạnh hơn 依頼 (nhờ) và 要望 (mong muốn)."
+        },
+        {
+          "id": "g11-w52",
+          "w": "利害",
+          "r": "りがい",
+          "hv": "LỢI HẠI",
+          "pos": "名",
+          "vi": "lợi ích (được và mất), quyền lợi",
+          "key": true,
+          "ex": {
+            "ja": "{国|くに}によって{利害|りがい}が{異|こと}なるため、{交渉|こうしょう}はなかなか{進|すす}まない。",
+            "vi": "Vì lợi ích mỗi nước khác nhau nên đàm phán mãi không tiến triển."
+          },
+          "col": [
+            "利害が対立する",
+            "利害関係",
+            "利害が一致する"
+          ]
+        },
+        {
+          "id": "g11-w53",
+          "w": "対立",
+          "r": "たいりつ",
+          "hv": "ĐỐI LẬP",
+          "pos": "名・自動",
+          "vi": "đối lập, xung đột, bất đồng (giữa hai bên)",
+          "key": true,
+          "ex": {
+            "ja": "{新|あたら}しい{道路|どうろ}の{計画|けいかく}をめぐって、{住民|じゅうみん}と{市|し}が{対立|たいりつ}している。",
+            "vi": "Quanh kế hoạch con đường mới, cư dân và thành phố đang xung đột."
+          },
+          "col": [
+            "意見が対立する",
+            "利害が対立する",
+            "対立候補"
+          ]
+        },
+        {
+          "id": "g11-w54",
+          "w": "弁護士",
+          "r": "べんごし",
+          "hv": "BIỆN HỘ SĨ",
+          "pos": "名",
+          "vi": "luật sư",
+          "key": true,
+          "ex": {
+            "ja": "{契約|けいやく}のトラブルについて、{弁護士|べんごし}に{相談|そうだん}することにした。",
+            "vi": "Về rắc rối hợp đồng, tôi quyết định tham khảo ý kiến luật sư."
+          },
+          "col": [
+            "弁護士に依頼する",
+            "弁護士事務所"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "語形成",
+      "title_vi": "Tạo từ: tiền tố, hậu tố",
+      "words": [
+        {
+          "id": "g11-w55",
+          "w": "〜界",
+          "r": "〜かい",
+          "hv": "GIỚI",
+          "pos": "接尾",
+          "vi": "giới …, lĩnh vực / ngành …",
+          "key": true,
+          "ex": {
+            "ja": "{彼|かれ}の{発明|はつめい}は{医学界|いがくかい}に{大|おお}きな{影響|えいきょう}を{与|あた}えた。",
+            "vi": "Phát minh của ông ấy đã ảnh hưởng lớn đến giới y học."
+          },
+          "col": [
+            "芸能界",
+            "金融界",
+            "経済界",
+            "政界",
+            "自然界"
+          ]
+        },
+        {
+          "id": "g11-w56",
+          "w": "金融界",
+          "r": "きんゆうかい",
+          "hv": "KIM DUNG GIỚI",
+          "pos": "名",
+          "vi": "giới tài chính (ngân hàng, chứng khoán...)",
+          "key": true,
+          "ex": {
+            "ja": "{金利|きんり}の{引|ひ}き{上|あ}げは、{金融界|きんゆうかい}にとって{大|おお}きなニュースだ。",
+            "vi": "Việc tăng lãi suất là tin lớn đối với giới tài chính."
+          }
+        },
+        {
+          "id": "g11-w57",
+          "w": "一流〜",
+          "r": "いちりゅう〜",
+          "hv": "NHẤT LƯU",
+          "pos": "接頭",
+          "vi": "hàng đầu, hạng nhất …",
+          "key": true,
+          "ex": {
+            "ja": "{一流|いちりゅう}ホテルのシェフが{作|つく}った{料理|りょうり}を{食|た}べてみたい。",
+            "vi": "Tôi muốn thử món ăn do đầu bếp khách sạn hàng đầu nấu."
+          },
+          "col": [
+            "一流企業",
+            "一流校",
+            "一流大学",
+            "一流選手"
+          ],
+          "rel": "↔ 二流・三流"
+        },
+        {
+          "id": "g11-w58",
+          "w": "一流校",
+          "r": "いちりゅうこう",
+          "hv": "NHẤT LƯU HIỆU",
+          "pos": "名",
+          "vi": "trường hàng đầu, trường danh tiếng",
+          "key": true,
+          "ex": {
+            "ja": "{一流校|いちりゅうこう}を{出|で}ても、{社会|しゃかい}で{成功|せいこう}できるとは{限|かぎ}らない。",
+            "vi": "Dù tốt nghiệp trường danh tiếng cũng chưa chắc thành công ngoài xã hội."
+          }
+        },
+        {
+          "id": "g11-w59",
+          "w": "一流大学",
+          "r": "いちりゅうだいがく",
+          "hv": "NHẤT LƯU ĐẠI HỌC",
+          "pos": "名",
+          "vi": "đại học hàng đầu",
+          "key": false,
+          "ex": {
+            "ja": "{親|おや}は{私|わたし}を{一流大学|いちりゅうだいがく}に{入|い}れたがっていた。",
+            "vi": "Bố mẹ muốn cho tôi vào một trường đại học hàng đầu."
+          }
+        },
+        {
+          "id": "g11-w60",
+          "w": "引き〜",
+          "r": "ひき〜",
+          "hv": "DẪN",
+          "pos": "接頭",
+          "vi": "(tiền tố động từ) nhấn mạnh hành động kéo về phía mình / nhận lấy / lôi ra",
+          "key": true,
+          "ex": {
+            "ja": "{面接官|めんせつかん}は{質問|しつもん}を{重|かさ}ねて、{彼|かれ}の{本音|ほんね}を{引|ひ}き{出|だ}した。",
+            "vi": "Người phỏng vấn hỏi dồn và đã khai thác được suy nghĩ thật của anh ta."
+          },
+          "col": [
+            "引き受ける",
+            "引き出す",
+            "引き止める",
+            "引き下げる",
+            "引き返す"
+          ]
+        },
+        {
+          "id": "g11-w61",
+          "w": "引き出す",
+          "r": "ひきだす",
+          "hv": "DẪN XUẤT",
+          "pos": "他動",
+          "vi": "rút (tiền); khai thác, phát huy (khả năng); lôi ra",
+          "key": true,
+          "ex": {
+            "ja": "いい{先生|せんせい}は{生徒|せいと}の{才能|さいのう}を{上手|じょうず}に{引|ひ}き{出|だ}す。",
+            "vi": "Giáo viên giỏi biết khéo léo khơi dậy tài năng của học sinh."
+          },
+          "col": [
+            "お金を引き出す",
+            "才能を引き出す",
+            "情報を引き出す"
+          ],
+          "senses": [
+            {
+              "vi": "rút tiền",
+              "ex": {
+                "ja": "コンビニのATMで{現金|げんきん}を{引|ひ}き{出|だ}した。",
+                "vi": "Tôi rút tiền mặt ở cây ATM trong cửa hàng tiện lợi."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g11-w62",
+          "w": "〜方針",
+          "r": "〜ほうしん",
+          "hv": "PHƯƠNG CHÂM",
+          "pos": "接尾",
+          "vi": "phương châm, đường lối …",
+          "key": true,
+          "ex": {
+            "ja": "{政府|せいふ}は{来年度|らいねんど}から{子育|こそだ}て{支援|しえん}を{強化|きょうか}する{方針|ほうしん}だ。",
+            "vi": "Chính phủ có chủ trương tăng cường hỗ trợ nuôi con từ năm tài chính tới."
+          },
+          "col": [
+            "経営方針",
+            "教育方針",
+            "基本方針",
+            "〜する方針だ"
+          ]
+        },
+        {
+          "id": "g11-w63",
+          "w": "教育方針",
+          "r": "きょういくほうしん",
+          "hv": "GIÁO DỤC PHƯƠNG CHÂM",
+          "pos": "名",
+          "vi": "phương châm giáo dục",
+          "key": false,
+          "ex": {
+            "ja": "この{学校|がっこう}は「{自分|じぶん}で{考|かんが}える{力|ちから}を{育|そだ}てる」という{教育方針|きょういくほうしん}を{掲|かか}げている。",
+            "vi": "Trường này đề ra phương châm giáo dục \"nuôi dưỡng khả năng tự suy nghĩ\"."
+          }
+        },
+        {
+          "id": "g11-w64",
+          "w": "〜職",
+          "r": "〜しょく",
+          "hv": "CHỨC",
+          "pos": "接尾",
+          "vi": "nghề …, vị trí công việc …",
+          "key": true,
+          "ex": {
+            "ja": "{営業職|えいぎょうしょく}から{事務職|じむしょく}に{移|うつ}りたいと{上司|じょうし}に{相談|そうだん}した。",
+            "vi": "Tôi đã bàn với cấp trên về việc muốn chuyển từ vị trí kinh doanh sang văn phòng."
+          },
+          "col": [
+            "管理職",
+            "専門職",
+            "技術職",
+            "営業職",
+            "職に就く"
+          ],
+          "note": "Động từ đi kèm: 職に就く (nhận chức/vào nghề), 職を失う (mất việc)."
+        },
+        {
+          "id": "g11-w65",
+          "w": "専門職",
+          "r": "せんもんしょく",
+          "hv": "CHUYÊN MÔN CHỨC",
+          "pos": "名",
+          "vi": "nghề chuyên môn (cần chứng chỉ, kiến thức chuyên sâu)",
+          "key": false,
+          "ex": {
+            "ja": "{看護師|かんごし}や{薬剤師|やくざいし}などの{専門職|せんもんしょく}は、{資格|しかく}がないと{働|はたら}けない。",
+            "vi": "Các nghề chuyên môn như y tá, dược sĩ không thể làm nếu không có chứng chỉ."
+          }
+        },
+        {
+          "id": "g11-w66",
+          "w": "技術職",
+          "r": "ぎじゅつしょく",
+          "hv": "KỸ THUẬT CHỨC",
+          "pos": "名",
+          "vi": "vị trí kỹ thuật",
+          "key": false,
+          "ex": {
+            "ja": "{工学部|こうがくぶ}を{出|で}て、{自動車|じどうしゃ}メーカーの{技術職|ぎじゅつしょく}に{就|つ}いた。",
+            "vi": "Tốt nghiệp khoa Kỹ thuật, tôi làm vị trí kỹ thuật ở một hãng ô tô."
+          }
+        },
+        {
+          "id": "g11-w67",
+          "w": "〜士",
+          "r": "〜し",
+          "hv": "SĨ",
+          "pos": "接尾",
+          "vi": "người có chứng chỉ / chuyên gia … (nghề cần thi lấy bằng)",
+          "key": true,
+          "ex": {
+            "ja": "{税理士|ぜいりし}の{資格|しかく}を{取|と}るために、{仕事|しごと}の{後|あと}で{勉強|べんきょう}している。",
+            "vi": "Tôi học sau giờ làm để lấy chứng chỉ chuyên viên thuế."
+          },
+          "col": [
+            "弁護士",
+            "会計士",
+            "税理士",
+            "栄養士",
+            "保育士"
+          ],
+          "note": "So sánh: 〜師 (医師・教師・看護師, nghề có kỹ thuật/dạy dỗ), 〜家 (作家・画家, người sáng tác/chuyên gia), 〜者 (研究者・技術者)."
+        },
+        {
+          "id": "g11-w68",
+          "w": "会計士",
+          "r": "かいけいし",
+          "hv": "HỘI KẾ SĨ",
+          "pos": "名",
+          "vi": "kế toán viên công chứng, kiểm toán viên",
+          "key": true,
+          "ex": {
+            "ja": "{会社|かいしゃ}の{決算|けっさん}は、{外部|がいぶ}の{会計士|かいけいし}にチェックしてもらう。",
+            "vi": "Báo cáo quyết toán của công ty được kiểm toán viên bên ngoài kiểm tra."
+          },
+          "col": [
+            "公認会計士"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "副詞",
+      "title_vi": "Phó từ (trong 例文)",
+      "words": [
+        {
+          "id": "g11-w69",
+          "w": "せっせと",
+          "r": "せっせと",
+          "hv": "",
+          "pos": "副",
+          "vi": "cần mẫn, chăm chỉ không ngừng tay",
+          "key": true,
+          "ex": {
+            "ja": "{祖母|そぼ}は{孫|まご}のために、せっせとセーターを{編|あ}んでいる。",
+            "vi": "Bà tôi cần mẫn đan áo len cho cháu."
+          },
+          "col": [
+            "せっせと働く",
+            "せっせと貯金する"
+          ],
+          "rel": "≒ こつこつ",
+          "note": "Hình ảnh: tay chân không ngơi, làm đi làm lại. Dùng cho hành động có ý chí (làm, tiết kiệm, mang vác...)."
+        },
+        {
+          "id": "g11-w70",
+          "w": "必ずしも",
+          "r": "かならずしも",
+          "hv": "TẤT",
+          "pos": "副",
+          "vi": "(không) nhất thiết, (không) hẳn là — luôn đi với phủ định",
+          "key": true,
+          "ex": {
+            "ja": "{値段|ねだん}が{高|たか}い{物|もの}が{必|かなら}ずしも{質|しつ}がいいとは{限|かぎ}らない。",
+            "vi": "Đồ đắt chưa hẳn đã có chất lượng tốt."
+          },
+          "col": [
+            "必ずしも〜とは限らない",
+            "必ずしも〜わけではない",
+            "必ずしも〜ない"
+          ],
+          "note": "Phủ định một phần: \"không phải lúc nào cũng\". Khác 必ず (luôn luôn, chắc chắn)."
+        },
+        {
+          "id": "g11-w71",
+          "w": "万一",
+          "r": "まんいち",
+          "hv": "VẠN NHẤT",
+          "pos": "副・名",
+          "vi": "lỡ như, nhỡ mà (khả năng rất thấp, thường là chuyện xấu)",
+          "key": true,
+          "ex": {
+            "ja": "{万一|まんいち}{電車|でんしゃ}が{止|と}まった{場合|ばあい}に{備|そな}えて、{早|はや}めに{家|いえ}を{出|で}た。",
+            "vi": "Để phòng lỡ tàu ngừng chạy, tôi ra khỏi nhà sớm."
+          },
+          "col": [
+            "万一の場合",
+            "万一〜たら",
+            "万一に備える"
+          ],
+          "rel": "≒ もしも・万が一",
+          "note": "Một phần vạn → khả năng cực thấp. Đi với 〜たら／〜場合／〜ても."
+        },
+        {
+          "id": "g11-w72",
+          "w": "早速",
+          "r": "さっそく",
+          "hv": "TẢO TỐC",
+          "pos": "副",
+          "vi": "ngay lập tức, liền (bắt tay vào việc vừa nhận / vừa nghĩ ra)",
+          "key": true,
+          "ex": {
+            "ja": "{新|あたら}しいレシピを{教|おし}えてもらったので、{早速|さっそく}{今夜|こんや}{作|つく}ってみよう。",
+            "vi": "Được chỉ công thức mới nên tối nay làm thử ngay thôi."
+          },
+          "col": [
+            "早速ですが…",
+            "早速取りかかる"
+          ],
+          "rel": "≒ すぐに",
+          "note": "Dùng cho **hành động có chủ ý** của con người, không dùng cho hiện tượng tự nhiên (✗早速雨が降った). 「早速ですが」 = mở đầu vào việc chính trong email/cuộc họp."
+        }
+      ]
+    }
+  ],
+  "focus": [
+    {
+      "title": "稼ぐ・もうける・もうかる — ba cách \"kiếm tiền\"",
+      "body": "- **稼ぐ** (他動): kiếm bằng **sức lao động, thời gian** — 「アルバイトで{学費|がくひ}を{稼|かせ}ぐ」. Còn nghĩa bóng: 時間を稼ぐ (câu giờ), 点を稼ぐ (ghi điểm).\n- **もうける** (他動): **lời, lãi** từ buôn bán, đầu tư — 「{株|かぶ}で{百万円|ひゃくまんえん}もうけた」. [người] が [tiền] を もうける.\n- **もうかる** (自動): [việc làm ăn / tiền] **có lời** — 「この{商売|しょうばい}はもうかる」. ✗「お金をもうかる」.\n\nCâu nhớ: 「{汗|あせ}をかいて**稼ぐ**、{頭|あたま}を{使|つか}って**もうける**、{商売|しょうばい}が**もうかる**」.\n\nNgược lại: 損をする (lỗ), 損害を出す (gây thiệt hại lớn), つぶれる (sập tiệm), 破産する (phá sản), 失業する (mất việc)."
+    },
+    {
+      "title": "依頼する ↔ 引き受ける; 指示・提案・要求・申請",
+      "body": "Năm động từ \"đưa ra yêu cầu\" khác nhau ở **quan hệ giữa hai bên**:\n- **依頼する**: nhờ / ủy thác cho người khác làm (thường kèm trả công): 弁護士に依頼する, 翻訳を依頼する. Bên kia **引き受ける** (nhận lời) hoặc 断る (từ chối). Đừng hiểu là \"ỷ lại\"!\n- **指示する**: cấp trên **ra lệnh, hướng dẫn cụ thể** cho cấp dưới: 部下に指示する, 指示に従う.\n- **提案する**: **đề xuất** ý tưởng để mọi người cân nhắc: 会議で提案する. Trước đó là 案を思いつく.\n- **要求する**: **đòi** như quyền lợi, giọng mạnh: 労働組合が賃上げを要求する.\n- **申請する**: **nộp đơn** xin phép cơ quan có thẩm quyền: 休暇／ビザを申請する.\n\nMẹo: nhìn chủ ngữ và đối tượng — cấp trên→cấp dưới: 指示; người dân/nhân viên→cơ quan: 申請; công đoàn→công ty: 要求; khách hàng→chuyên gia: 依頼."
+    },
+    {
+      "title": "Vào công ty và lên chức: 募集・雇う・入社・就任",
+      "body": "- Phía công ty: **募集する** (đăng tuyển) → **雇う** (thuê, chỉ dùng với người) → **研修** (đào tạo).\n- Phía người lao động: **就職活動** → **入社する** (vào công ty) → ... → **就任する** (nhậm chức: 社長に就任する).\n- Chức vụ: **管理職** (cấp quản lý nói chung), **重役** (ban lãnh đạo cấp cao — HĐQT, giám đốc điều hành), 社長・副社長.\n\nPhân biệt 就職 / 入社 / 就任:\n- 就職: có được việc làm (nói chung) — 「{銀行|ぎんこう}に{就職|しゅうしょく}する」.\n- 入社: bước vào **một công ty cụ thể** — 「{入社式|にゅうしゃしき}」.\n- 就任: nhận **một chức vụ** — chỉ dùng với chức danh: 会長・社長・大臣・監督に就任する."
+    },
+    {
+      "title": "Thái độ làm việc: 張り切る・熱中する・怠ける・慌ただしい",
+      "body": "- **張り切る**: hăng hái **trước/đang lúc** làm việc mới — 「{新人|しんじん}が{張|は}り{切|き}って{働|はたら}いている」.\n- **熱中する**: **mải mê** đến quên xung quanh — 「〜に熱中する」 ≒ 夢中になる. Không phải tính từ: ✗熱中な人 → ○熱心な人.\n- **怠ける**: **lười**, không làm việc đáng làm ↔ 熱中する. 怠け者 = kẻ lười.\n- **慌ただしい**: (một ngày, thời kỳ) **tất bật, không yên** — 「慌ただしい{年末|ねんまつ}」. Khác 忙しい ở chỗ nhấn vào cảm giác gấp gáp, xáo động.\n- **能率**: năng suất — 「{能率|のうりつ}が{上|あ}がる」. Gần nghĩa 効率."
+    },
+    {
+      "title": "語形成: 〜界・一流〜・引き〜・〜方針・〜職・〜士",
+      "body": "- **〜界** (giới): 芸能界, 金融界, 経済界, 政界 (せいかい — chú ý không phải 政治界).\n- **一流〜** (hàng đầu): 一流企業, 一流校, 一流ホテル. ↔ 二流・三流.\n- **引き〜**: 引き受ける (nhận lời làm), 引き出す (rút tiền; khai thác khả năng), 引き止める (níu giữ), 引き返す (quay lại).\n- **〜方針** (phương châm): 経営方針, 教育方針; mẫu câu tin tức 「〜する方針だ」 = có chủ trương làm ….\n- **〜職** (vị trí, nghề): 管理職, 専門職, 技術職, 営業職. Động từ: 職に就く.\n- **〜士** (người có chứng chỉ): 弁護士, 会計士, 税理士, 保育士.\n  So với 〜師: 医師, 教師, 看護師, 美容師 — cũng là nghề, nhưng **chữ khác**. Đề 語形成 rất hay bẫy 士 / 師: 弁護**士** chứ không phải 弁護師."
+    },
+    {
+      "title": "Bốn phó từ: せっせと・必ずしも・万一・早速",
+      "body": "- **せっせと**: chăm chỉ, cần mẫn **không ngơi tay** — 「せっせと{貯金|ちょきん}する」.\n- **必ずしも〜ない**: **không hẳn, không nhất thiết** (phủ định một phần). Khung cố định: 「必ずしも〜とは{限|かぎ}らない／〜わけではない」.\n- **万一**: **lỡ như** (khả năng cực nhỏ, thường xấu) — 「万一の{場合|ばあい}」, 「万一〜たら」. ≒ もしも.\n- **早速**: **liền, ngay** bắt tay vào việc — 「{早速|さっそく}{試|ため}してみる」. Chỉ dùng cho hành động có chủ ý.\n\nMẹo phân biệt nhanh: vế sau có 〜とは限らない → 必ずしも; có 〜たら／場合 + chuyện xấu → 万一; người vừa nhận/nghĩ ra cái gì rồi làm luôn → 早速."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "g11-q1",
+      "kind": "read",
+      "ref": "g11-w15",
+      "q": "{彼|かれ}は{上司|じょうし}がいないと、すぐ{仕事|しごと}を[[u:怠ける]]。",
+      "options": [
+        "おこたける",
+        "なまける",
+        "なげける",
+        "だらける"
+      ],
+      "answer": 1,
+      "vi": "Hễ cấp trên vắng mặt là anh ta lười việc ngay.",
+      "why": "怠ける = **なまける**. 「おこたける」 trộn với 怠る (おこたる) — không tồn tại; 「なげける」 không có (嘆く = なげく); 「だらける」 là từ thật (uể oải) nhưng không viết bằng chữ 怠."
+    },
+    {
+      "id": "g11-q2",
+      "kind": "write",
+      "ref": "g11-w17",
+      "q": "{来月|らいげつ}、{新|あたら}しい{工場|こうじょう}の{見学|けんがく}のため、ベトナムへ[[u:しゅっちょう]]する。",
+      "options": [
+        "出張",
+        "主張",
+        "出帳",
+        "出長"
+      ],
+      "answer": 0,
+      "vi": "Tháng sau tôi đi công tác Việt Nam để tham quan nhà máy mới.",
+      "why": "Đi công tác = **出張** (張 = căng ra, mở rộng ra ngoài). 「主張」 (しゅちょう) = chủ trương, khẳng định; 「出帳」「出長」 không phải từ."
+    },
+    {
+      "id": "g11-q3",
+      "kind": "context",
+      "ref": "g11-w8",
+      "q": "{駅|えき}から{近|ちか}くて{家賃|やちん}が{安|やす}いという{条件|じょうけん}に（　　）{部屋|へや}は、なかなか{見|み}つからない。",
+      "options": [
+        "引き受ける",
+        "張り切る",
+        "あてはまる",
+        "思いつく"
+      ],
+      "answer": 2,
+      "vi": "Căn phòng phù hợp với điều kiện gần ga và tiền thuê rẻ thì mãi không tìm được.",
+      "why": "「条件に**あてはまる**」 = khớp với điều kiện. 「引き受ける」 = nhận làm việc; 「張り切る」 = hăng hái; 「思いつく」 = nảy ra ý — không cái nào đi với 条件に."
+    },
+    {
+      "id": "g11-q4",
+      "kind": "context",
+      "ref": "g11-w28",
+      "q": "{来年|らいねん}の{学費|がくひ}を（　　）ために、{夏休|なつやす}みは{毎日|まいにち}アルバイトをした。",
+      "options": [
+        "もうかる",
+        "雇う",
+        "つぶれる",
+        "稼ぐ"
+      ],
+      "answer": 3,
+      "vi": "Để kiếm học phí năm sau, kỳ nghỉ hè ngày nào tôi cũng đi làm thêm.",
+      "why": "Kiếm tiền bằng sức lao động → **稼ぐ** (学費を稼ぐ). 「もうかる」 là tự động từ, không nhận を; 「雇う」 = thuê người; 「つぶれる」 = sập tiệm."
+    },
+    {
+      "id": "g11-q5",
+      "kind": "paraphrase",
+      "ref": "g11-w3",
+      "q": "{子|こ}どもの{頃|ころ}、{私|わたし}は{宇宙|うちゅう}{飛行士|ひこうし}になるという{夢|ゆめ}を[[u:抱いて]]いた。",
+      "options": [
+        "かなえて",
+        "持って",
+        "あきらめて",
+        "話して"
+      ],
+      "answer": 1,
+      "vi": "Hồi nhỏ, tôi ôm ước mơ trở thành phi hành gia.",
+      "why": "夢を抱く = nuôi ước mơ → ≒ **持っていた**. 「かなえて」 = đã thực hiện được (khác nghĩa); 「あきらめて」 trái nghĩa; 「話して」 chỉ là kể ra."
+    },
+    {
+      "id": "g11-q6",
+      "kind": "usage",
+      "ref": "g11-w25",
+      "q": "{依頼|いらい}",
+      "options": [
+        "彼は何でも親に依頼していて、なかなか自立できない。",
+        "台風に依頼して、多くの家が壊れた。",
+        "引っ越しの荷物の運搬を、専門の業者に依頼した。",
+        "このチームは、エースの力に依頼しすぎている。"
+      ],
+      "answer": 2,
+      "vi": "(3) Tôi đã thuê công ty chuyên nghiệp vận chuyển đồ khi chuyển nhà.",
+      "why": "(3) 依頼する = nhờ/thuê người làm một việc → đúng. (1) và (4) là bẫy Hán Việt \"ỷ lại\" → phải là 頼って／頼りすぎている. (2) nguyên nhân → 台風によって."
+    },
+    {
+      "id": "g11-q7",
+      "kind": "context",
+      "ref": "g11-w72",
+      "q": "{部長|ぶちょう}に{企画|きかく}が{通|とお}ったと{聞|き}いて、（　　）{準備|じゅんび}に{取|と}りかかった。",
+      "options": [
+        "早速",
+        "万一",
+        "必ずしも",
+        "めったに"
+      ],
+      "answer": 0,
+      "vi": "Nghe tin kế hoạch đã được trưởng phòng duyệt, tôi liền bắt tay vào chuẩn bị.",
+      "why": "Vừa nhận tin rồi bắt tay làm ngay → **早速**. 「万一」 cần câu giả định (〜たら); 「必ずしも」「めったに」 cần phủ định."
+    },
+    {
+      "id": "g11-q8",
+      "kind": "formation",
+      "ref": "g11-w64",
+      "q": "{大学|だいがく}で{学|まな}んだ{知識|ちしき}を{生|い}かして、{専門|せんもん}（　　）に{就|つ}きたい。",
+      "options": [
+        "家",
+        "性",
+        "職",
+        "界"
+      ],
+      "answer": 2,
+      "vi": "Tôi muốn tận dụng kiến thức học ở đại học để làm một nghề chuyên môn.",
+      "why": "「〜に就く」 đi với nghề/vị trí → 専門**職**に就く. 「専門家」 là người (chuyên gia) — nói 専門家になる chứ không 専門家に就く; 「専門性」 = tính chuyên môn; 「専門界」 không phải từ (giới → 〜界 đi với lĩnh vực: 芸能界, 金融界)."
+    },
+    {
+      "id": "g11-q9",
+      "kind": "paraphrase",
+      "ref": "g11-w23",
+      "q": "{引|ひ}っ{越|こ}しと{入社|にゅうしゃ}{準備|じゅんび}が{重|かさ}なって、[[u:慌ただしい]]{一週間|いっしゅうかん}だった。",
+      "options": [
+        "退屈な",
+        "のんびりした",
+        "疲れ切った",
+        "忙しくて落ち着かない"
+      ],
+      "answer": 3,
+      "vi": "Chuyển nhà trùng với chuẩn bị vào công ty nên một tuần thật tất bật.",
+      "why": "慌ただしい = bận rộn, xáo động không yên → **忙しくて落ち着かない**. 「退屈な」「のんびりした」 trái nghĩa; 「疲れ切った」 là kết quả có thể xảy ra nhưng không phải nghĩa của từ."
+    }
+  ],
+  "practice": [
+    {
+      "id": "g11-p1",
+      "kind": "read",
+      "ref": "g11-w28",
+      "q": "{兄|あに}は{昼|ひる}も{夜|よる}も{働|はたら}いて、{生活費|せいかつひ}を[[u:稼いで]]いる。",
+      "options": [
+        "かついで",
+        "かせいで",
+        "かぜいで",
+        "もうけいで"
+      ],
+      "answer": 1,
+      "vi": "Anh tôi làm cả ngày lẫn đêm để kiếm tiền sinh hoạt.",
+      "why": "稼ぐ = **かせぐ** → 稼いで. 「かついで」 là 担いで (vác); 「かぜいで」 sai âm đục; 「もうけいで」 không tồn tại."
+    },
+    {
+      "id": "g11-p2",
+      "kind": "read",
+      "ref": "g11-w36",
+      "q": "その{店|みせ}は{留学生|りゅうがくせい}を{三人|さんにん}[[u:雇って]]いる。",
+      "options": [
+        "やどって",
+        "こって",
+        "やとって",
+        "かかって"
+      ],
+      "answer": 2,
+      "vi": "Cửa hàng đó đang thuê ba du học sinh.",
+      "why": "雇う = **やとう** → 雇って. 「やどって」 là 宿って (trú ngụ) — gần âm, dễ nhầm; 「こって」 lấy âm on こ; 「かかって」 không liên quan."
+    },
+    {
+      "id": "g11-p3",
+      "kind": "write",
+      "ref": "g11-w33",
+      "q": "{叔父|おじ}は{駅前|えきまえ}で{小|ちい}さな{居酒屋|いざかや}を[[u:けいえい]]している。",
+      "options": [
+        "計営",
+        "径営",
+        "経栄",
+        "経営"
+      ],
+      "answer": 3,
+      "vi": "Chú tôi đang kinh doanh một quán nhậu nhỏ trước ga.",
+      "why": "Kinh doanh, điều hành = **経営** (経 = trải qua, quản lý; 営 = doanh). 「計」「径」 cùng âm けい; 「栄」 (えい) giống 営 ở phần trên — đều sai."
+    },
+    {
+      "id": "g11-p4",
+      "kind": "write",
+      "ref": "g11-w35",
+      "q": "{市|し}では、{来年|らいねん}のお{祭|まつ}りのボランティアを[[u:ぼしゅう]]している。",
+      "options": [
+        "募集",
+        "暮集",
+        "慕集",
+        "墓集"
+      ],
+      "answer": 0,
+      "vi": "Thành phố đang tuyển tình nguyện viên cho lễ hội năm sau.",
+      "why": "Tuyển, chiêu mộ = **募集** (募 có bộ 力 = dùng sức kêu gọi). 暮 (bộ 日, chiều tối), 慕 (bộ 心, ngưỡng mộ), 墓 (bộ 土, mộ) cùng phần trên 莫 — bẫy chữ hình giống."
+    },
+    {
+      "id": "g11-p5",
+      "kind": "context",
+      "ref": "g11-w9",
+      "q": "{初|はじ}めてリーダーを{任|まか}された{彼女|かのじょ}は、{朝|あさ}{早|はや}くから（　　）{準備|じゅんび}をしている。",
+      "options": [
+        "怠けて",
+        "張り切って",
+        "引き受けて",
+        "あきらめて"
+      ],
+      "answer": 1,
+      "vi": "Lần đầu được giao làm trưởng nhóm, cô ấy hăng hái chuẩn bị từ sáng sớm.",
+      "why": "Tâm thế hăng hái khi được giao việc mới → **張り切って**. 「怠けて」 trái nghĩa (lười thì không dậy sớm chuẩn bị); 「引き受けて準備をする」 sai vì 引き受ける cần tân ngữ là việc được nhờ; 「あきらめて」 (từ bỏ) mâu thuẫn với việc dậy sớm chuẩn bị."
+    },
+    {
+      "id": "g11-p6",
+      "kind": "context",
+      "ref": "g11-w19",
+      "q": "{来月|らいげつ}{結婚式|けっこんしき}があるので、{会社|かいしゃ}に{五日間|いつかかん}の{休暇|きゅうか}を（　　）した。",
+      "options": [
+        "募集",
+        "依頼",
+        "提案",
+        "申請"
+      ],
+      "answer": 3,
+      "vi": "Tháng sau có đám cưới nên tôi đã nộp đơn xin công ty nghỉ phép năm ngày.",
+      "why": "Xin phép công ty cho nghỉ → **申請** (休暇を申請する). 「募集」 = công ty tuyển người/ý kiến, không phải người lao động xin nghỉ; 「依頼」 = nhờ người khác làm việc gì; 「提案」 = đề xuất ý tưởng — đều không hợp với 休暇."
+    },
+    {
+      "id": "g11-p7",
+      "kind": "context",
+      "ref": "g11-w53",
+      "q": "{新|あたら}しいダムの{建設|けんせつ}をめぐって、{地元|じもと}の{住民|じゅうみん}と{国|くに}の{意見|いけん}が（　　）している。",
+      "options": [
+        "組織",
+        "対立",
+        "改善",
+        "指示"
+      ],
+      "answer": 1,
+      "vi": "Xung quanh việc xây đập mới, ý kiến của cư dân địa phương và nhà nước đang đối lập nhau.",
+      "why": "Hai bên ý kiến trái ngược → 「意見が**対立**する」. 「組織する」 = thành lập tổ chức; 「改善する」 = cải thiện; 「指示する」 = chỉ thị — không đi với 意見が〜している theo nghĩa này."
+    },
+    {
+      "id": "g11-p8",
+      "kind": "paraphrase",
+      "ref": "g11-w26",
+      "q": "{誰|だれ}もやりたがらない{仕事|しごと}だったが、{彼女|かのじょ}が[[u:引き受けて]]くれた。",
+      "options": [
+        "断って",
+        "頼んで",
+        "やると言って",
+        "手伝わせて"
+      ],
+      "answer": 2,
+      "vi": "Đó là việc không ai muốn làm nhưng cô ấy đã nhận lời làm giúp.",
+      "why": "引き受ける = nhận lời đảm nhận → **やると言ってくれた**. 「断る」 trái nghĩa; 「頼む」 là phía nhờ (依頼); 「手伝わせる」 = bắt người khác giúp."
+    },
+    {
+      "id": "g11-p9",
+      "kind": "paraphrase",
+      "ref": "g11-w71",
+      "q": "[[u:万一]]{火事|かじ}が{起|お}きたら、エレベーターは{使|つか}わずに{階段|かいだん}で{逃|に}げてください。",
+      "options": [
+        "もしも",
+        "必ず",
+        "すぐに",
+        "ついに"
+      ],
+      "answer": 0,
+      "vi": "Lỡ như có hỏa hoạn, đừng dùng thang máy mà hãy chạy thoát bằng cầu thang bộ.",
+      "why": "万一〜たら = lỡ như → ≒ **もしも**. 「必ず」 = chắc chắn (vô lý với hỏa hoạn); 「すぐに」 = ngay; 「ついに」 = cuối cùng."
+    },
+    {
+      "id": "g11-p10",
+      "kind": "usage",
+      "ref": "g11-w39",
+      "q": "つぶれる",
+      "options": [
+        "不景気が続き、昔からあった駅前の本屋がつぶれてしまった。",
+        "駅前に新しいカフェがつぶれたので、行ってみよう。",
+        "引っ越しのとき、段ボール箱を全部つぶれてしまった。",
+        "彼は入学試験につぶれて、もう一年勉強することになった。"
+      ],
+      "answer": 0,
+      "vi": "(1) Suy thoái kéo dài, hiệu sách lâu đời trước ga đã sập tiệm.",
+      "why": "(1) cửa hàng đóng cửa vì làm ăn thua lỗ → đúng. (2) mở cửa → できた／オープンした. (3) cần tha động từ: 箱をつぶしてしまった. (4) trượt thi → 落ちて."
+    },
+    {
+      "id": "g11-p11",
+      "kind": "formation",
+      "ref": "g11-w67",
+      "q": "{将来|しょうらい}は{会計|かいけい}（　　）として、{企業|きぎょう}のお{金|かね}の{流|なが}れをチェックする{仕事|しごと}がしたい。",
+      "options": [
+        "師",
+        "者",
+        "士",
+        "家"
+      ],
+      "answer": 2,
+      "vi": "Sau này tôi muốn làm kiểm toán viên, kiểm tra dòng tiền của doanh nghiệp.",
+      "why": "Nghề có chứng chỉ quốc gia → **会計士** (cùng nhóm 弁護士・税理士). 「会計師」 là từ tiếng Trung, không dùng trong tiếng Nhật; 「会計者」「会計家」 không tồn tại."
+    },
+    {
+      "id": "g11-p12",
+      "kind": "context",
+      "ref": "g11-w70",
+      "q": "{有名|ゆうめい}な{大学|だいがく}を{出|で}た{人|ひと}が、（　　）{仕事|しごと}ができるとは{限|かぎ}らない。",
+      "options": [
+        "早速",
+        "必ずしも",
+        "せっせと",
+        "万一"
+      ],
+      "answer": 1,
+      "vi": "Người tốt nghiệp đại học danh tiếng chưa hẳn đã làm việc giỏi.",
+      "why": "Khung cố định 「**必ずしも**〜とは限らない」. 「早速」 = ngay lập tức; 「せっせと」 = cần mẫn (hành động); 「万一」 cần giả định 〜たら."
+    },
+    {
+      "id": "g11-p13",
+      "kind": "usage",
+      "ref": "g11-w16",
+      "q": "{熱中|ねっちゅう}",
+      "options": [
+        "彼は何事にも熱中な性格で、みんなに好かれている。",
+        "暖房をつけすぎて、部屋が熱中している。",
+        "風邪をひいて、二日間熱中が下がらない。",
+        "弟は新しいゲームに熱中していて、夕飯の時間にも気づかなかった。"
+      ],
+      "answer": 3,
+      "vi": "(4) Em trai tôi mải mê trò game mới, đến cả giờ ăn tối cũng không để ý.",
+      "why": "(4) 〜に熱中する = mải mê → đúng. (1) 熱中 không phải tính từ → 熱心な. (2) phòng nóng → 暑くなっている. (3) sốt → 熱が下がらない."
+    }
+  ],
+  "test": [
+    {
+      "id": "g11-t1",
+      "kind": "read",
+      "ref": "g11-w25",
+      "q": "{取引先|とりひきさき}から{新製品|しんせいひん}の{見積|みつ}もりの[[u:依頼]]があった。",
+      "options": [
+        "いれい",
+        "えらい",
+        "いだい",
+        "いらい"
+      ],
+      "answer": 3,
+      "vi": "Đối tác đã gửi yêu cầu báo giá cho sản phẩm mới.",
+      "why": "依頼 = **いらい** (依 い, 頼 らい). 「いれい」 nhầm với 依 + 例; 「えらい」 (偉い) chỉ trùng âm; 「いだい」 (偉大) cũng là từ khác."
+    },
+    {
+      "id": "g11-t2",
+      "kind": "read",
+      "ref": "g11-w45",
+      "q": "{部長|ぶちょう}は{若手|わかて}{社員|しゃいん}の[[u:才能]]を{見抜|みぬ}くのがうまい。",
+      "options": [
+        "さいのう",
+        "ざいのう",
+        "さいの",
+        "さいどう"
+      ],
+      "answer": 0,
+      "vi": "Trưởng phòng rất giỏi nhìn ra tài năng của nhân viên trẻ.",
+      "why": "才能 = **さいのう**. 「ざいのう」 sai âm đục (dễ nhầm với 財 ざい); 「さいの」 thiếu trường âm; 「さいどう」 nhầm 能 với 動."
+    },
+    {
+      "id": "g11-t3",
+      "kind": "write",
+      "ref": "g11-w32",
+      "q": "{事業|じぎょう}に{失敗|しっぱい}した{彼|かれ}は、{多額|たがく}の{借金|しゃっきん}を{抱|かか}えて[[u:はさん]]した。",
+      "options": [
+        "波産",
+        "破算",
+        "破産",
+        "派産"
+      ],
+      "answer": 2,
+      "vi": "Thất bại trong kinh doanh, anh ta ôm khoản nợ lớn và phá sản.",
+      "why": "Phá sản = **破産** (破 = phá, 産 = tài sản). 「破算」 (ご破算 = xoá sạch tính lại) khác nghĩa; 「波」「派」 cùng phần 皮/氵 nhưng sai."
+    },
+    {
+      "id": "g11-t4",
+      "kind": "write",
+      "ref": "g11-w29",
+      "q": "{退職金|たいしょくきん}の{一部|いちぶ}で[[u:かぶ]]を{買|か}ってみた。",
+      "options": [
+        "珠",
+        "株",
+        "殊",
+        "朱"
+      ],
+      "answer": 1,
+      "vi": "Tôi thử mua cổ phiếu bằng một phần tiền thôi việc.",
+      "why": "Cổ phiếu = **株** (bộ 木 + 朱). 「珠」 (bộ 玉, viên ngọc), 「殊」 (bộ 歹, đặc biệt), 「朱」 (màu đỏ son) đều có phần 朱 nên dễ nhầm."
+    },
+    {
+      "id": "g11-t5",
+      "kind": "context",
+      "ref": "g11-w24",
+      "q": "{一時間|いちじかん}に{一度|いちど}{短|みじか}い{休憩|きゅうけい}を{入|い}れたほうが、かえって{仕事|しごと}の（　　）が{上|あ}がる。",
+      "options": [
+        "才能",
+        "方針",
+        "条件",
+        "能率"
+      ],
+      "answer": 3,
+      "vi": "Cứ mỗi giờ nghỉ ngắn một lần thì năng suất làm việc lại tăng lên.",
+      "why": "「仕事の**能率**が上がる」 = năng suất tăng. 「才能」 không \"tăng\" nhờ nghỉ giải lao; 「方針」 = phương châm; 「条件が上がる」 không tự nhiên."
+    },
+    {
+      "id": "g11-t6",
+      "kind": "context",
+      "ref": "g11-w44",
+      "q": "{新人|しんじん}のうちは、{先輩|せんぱい}の（　　）に{従|したが}って{作業|さぎょう}を{進|すす}めてください。",
+      "options": [
+        "利害",
+        "指示",
+        "損害",
+        "才能"
+      ],
+      "answer": 1,
+      "vi": "Khi còn là người mới, hãy làm việc theo hướng dẫn của đàn anh.",
+      "why": "「**指示**に従う」 = làm theo chỉ thị/hướng dẫn. 「利害」 = lợi ích; 「損害」 = thiệt hại; 「才能に従う」 vô nghĩa."
+    },
+    {
+      "id": "g11-t7",
+      "kind": "paraphrase",
+      "ref": "g11-w5",
+      "q": "{怪我|けが}のため、{彼|かれ}はオリンピックに{出場|しゅつじょう}する{夢|ゆめ}を[[u:あきらめた]]。",
+      "options": [
+        "実現した",
+        "追いかけた",
+        "断念した",
+        "思い出した"
+      ],
+      "answer": 2,
+      "vi": "Vì chấn thương, anh ấy đã từ bỏ ước mơ tham dự Olympic.",
+      "why": "あきらめる = từ bỏ → ≒ **断念した** (văn viết). 「実現した」 trái nghĩa; 「追いかけた」 = theo đuổi (trái nghĩa); 「思い出した」 = nhớ lại."
+    },
+    {
+      "id": "g11-t8",
+      "kind": "formation",
+      "ref": "g11-w55",
+      "q": "{彼女|かのじょ}は{高校生|こうこうせい}のときに{街|まち}でスカウトされ、{芸能|げいのう}（　　）に{入|はい}った。",
+      "options": [
+        "界",
+        "職",
+        "部",
+        "社"
+      ],
+      "answer": 0,
+      "vi": "Cô ấy được phát hiện trên phố khi còn học cấp 3 và bước chân vào giới giải trí.",
+      "why": "Thế giới một ngành nghề → **〜界**: 芸能界に入る. 「芸能職」「芸能部」「芸能社」 không phải từ (có 芸能事務所 nhưng không có 芸能社)."
+    },
+    {
+      "id": "g11-t9",
+      "kind": "usage",
+      "ref": "g11-w31",
+      "q": "もうかる",
+      "options": [
+        "毎日アルバイトをして、学費をもうかった。",
+        "子どもに新しいおもちゃをもうかってあげた。",
+        "駅前のラーメン屋はいつも行列ができていて、かなりもうかっているようだ。",
+        "彼は大学を出てすぐ、自分で会社をもうかった。"
+      ],
+      "answer": 2,
+      "vi": "(3) Quán mì trước ga lúc nào cũng xếp hàng, có vẻ lãi lắm.",
+      "why": "(3) [cửa hàng] がもうかる = làm ăn có lời → đúng. (1) もうかる là tự động từ, không nhận を; kiếm bằng sức lao động → 稼いだ. (2) mua cho → 買ってあげた. (4) lập công ty → 作った／起こした."
+    },
+    {
+      "id": "g11-t10",
+      "kind": "context",
+      "ref": "g11-w36",
+      "q": "{注文|ちゅうもん}が{急|きゅう}に{増|ふ}えて{人手|ひとで}が{足|た}りないので、パートを{二人|ふたり}（　　）ことにした。",
+      "options": [
+        "稼ぐ",
+        "認める",
+        "引き出す",
+        "雇う"
+      ],
+      "answer": 3,
+      "vi": "Đơn hàng tăng đột ngột, thiếu người nên chúng tôi quyết định thuê thêm hai nhân viên bán thời gian.",
+      "why": "Thuê người làm → **雇う**. 「稼ぐ」 = kiếm tiền; 「認める」 = công nhận; 「引き出す」 = rút ra, khai thác — không hợp với パートを二人."
+    },
+    {
+      "id": "g11-t11",
+      "kind": "usage",
+      "ref": "g11-w69",
+      "q": "せっせと",
+      "options": [
+        "冬に備えて、リスがせっせと木の実を巣に運んでいる。",
+        "その知らせを聞いて、彼はせっせと驚いた。",
+        "朝からせっせと雨が降り続いている。",
+        "彼は会議中、せっせと座ったまま何も言わなかった。"
+      ],
+      "answer": 0,
+      "vi": "(1) Chuẩn bị cho mùa đông, con sóc cần mẫn tha hạt về tổ.",
+      "why": "(1) hành động lặp lại cần mẫn → đúng. (2) ngạc nhiên không phải hành động chăm chỉ → とても驚いた. (3) mưa là hiện tượng tự nhiên → しとしと／ずっと. (4) ngồi im không làm gì mâu thuẫn với せっせと → じっと."
+    }
+  ]
+}

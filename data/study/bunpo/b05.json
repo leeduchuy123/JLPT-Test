@@ -1,0 +1,153 @@
+{
+  "id": "b05",
+  "track": "bunpo",
+  "intro": "Cả bài xoay quanh động từ 「{限|かぎ}る」 = **giới hạn, khoanh vùng**. Bốn mẫu trông gần giống nhau, nhưng mỗi mẫu khoanh vùng một thứ khác:\n\n- **〜に限り**: khoanh vùng **đối tượng được hưởng ngoại lệ** → \"chỉ riêng… (mới được)\". Văn thông báo, quảng cáo.\n- **〜限り(は)**: khoanh vùng **thời gian một trạng thái còn kéo dài** → \"chừng nào còn… thì…\". Dạng phủ định 「〜ない限り」 = \"trừ khi…, nếu không… thì (sẽ không)…\".\n- **〜限りでは**: khoanh vùng **phạm vi thông tin mình có** → \"theo những gì tôi biết / thấy / điều tra được thì…\".\n- **〜に限って**: khoanh vùng **một lần / một người đặc biệt** → \"đúng hôm đó lại…\", \"đúng lúc… thì lại (xui)…\", \"riêng người đó thì chắc chắn không…\".\n\nMẹo phân biệt nhanh khi làm đề: nhìn **cái đứng trước** và **cái đứng sau** chỗ trống.\n- Trước là **danh từ chỉ người / dịp**, sau là **ưu đãi, cho phép** → に限り.\n- Trước là **trạng thái / thể ない**, sau là kết quả kéo theo → 限り.\n- Trước là **見る・聞く・知る・調べる** → 限りでは.\n- Trước là **danh từ chỉ ngày / lúc / người**, sau là chuyện **bất thường, xui xẻo, hoặc はずがない** → に限って.",
+  "points": [
+    {
+      "id": "b05-1",
+      "pattern": "〜に限り",
+      "reading": "〜にかぎり",
+      "meaning": "Chỉ riêng… (mới được hưởng ngoại lệ, ưu đãi)",
+      "structure": ["N ＋ に限り", "(thường gặp: 〜の方に限り・〜場合に限り・本日に限り・先着〜名様に限り)"],
+      "explain": "Đây là cách nói **cứng, trang trọng** của 「〜だけは特別に」. Người ta vạch ra một nhóm nhỏ (một loại khách, một ngày, một trường hợp) và nói rằng **chỉ nhóm đó** được đối xử khác với quy tắc chung.\n\nHình dung tấm biển trước cửa hàng: 「{学生|がくせい}の{方|かた}に{限|かぎ}り、10%{割引|わりびき}」 — Chỉ riêng học sinh sinh viên được giảm 10%. Mọi người khác: giá bình thường.\n\n- **Vế sau**: thường là quyền lợi, sự cho phép, một ngoại lệ được chấp nhận (無料になります・ご利用いただけます・認めます・受け付けます).\n- **N + 場合に限り**: \"chỉ trong trường hợp…\" — hay gặp trong quy định, điều khoản: 「{診断書|しんだんしょ}がある{場合|ばあい}に{限|かぎ}り、{返金|へんきん}に{応|おう}じます」.\n- Dịch tự nhiên: \"chỉ dành cho…\", \"chỉ áp dụng với…\", \"riêng…\".",
+      "nuance": "Văn viết, thông báo, quảng cáo, quy định — rất ít dùng trong chuyện trò thân mật (khi nói chuyện thì dùng 「〜だけ」). Theo sách, vế sau **thường không phải câu phủ định** và **không phải câu kêu gọi / nhờ vả** người nghe: không viết 「会員に限り、入れません」, mà sẽ viết 「会員以外の方は入れません」 hoặc 「会員に限り、入れます」.",
+      "examples": [
+        {"ja": "ご{来店|らいてん}のお{客様|きゃくさま}に{限|かぎ}り、コーヒーを一{杯|ぱい}{無料|むりょう}でサービスいたします。", "vi": "Chỉ dành cho quý khách đến cửa hàng, chúng tôi tặng miễn phí một ly cà phê.", "note": "N の方／お客様に限り · vế sau là ưu đãi"},
+        {"ja": "{学生証|がくせいしょう}をお{持|も}ちの{方|かた}に{限|かぎ}り、{入館料|にゅうかんりょう}が{半額|はんがく}になります。", "vi": "Chỉ những ai có thẻ sinh viên mới được giảm nửa giá vé vào bảo tàng.", "note": ""},
+        {"ja": "{医師|いし}の{診断書|しんだんしょ}がある{場合|ばあい}に{限|かぎ}り、{追試験|ついしけん}を{受|う}けることができる。", "vi": "Chỉ trong trường hợp có giấy chẩn đoán của bác sĩ mới được thi lại.", "note": "場合に限り · văn quy định"},
+        {"ja": "{本日|ほんじつ}に{限|かぎ}り、{全品|ぜんぴん}{送料|そうりょう}{無料|むりょう}でお{届|とど}けします。", "vi": "Chỉ riêng hôm nay, toàn bộ sản phẩm được giao miễn phí.", "note": "本日に限り = chỉ hôm nay (quảng cáo)"},
+        {"ja": "{先着|せんちゃく}50{名様|めいさま}に{限|かぎ}り、{記念品|きねんひん}を{差|さ}し{上|あ}げます。", "vi": "Chỉ 50 vị khách đến sớm nhất mới được tặng quà lưu niệm.", "note": "先着〜名様に限り (cụm rất hay gặp)"},
+        {"ja": "{緊急|きんきゅう}の{場合|ばあい}に{限|かぎ}り、この{非常口|ひじょうぐち}を{使用|しよう}できます。", "vi": "Chỉ trong trường hợp khẩn cấp mới được sử dụng cửa thoát hiểm này.", "note": "Vế sau là sự cho phép"}
+      ],
+      "compare": [
+        {"with": "〜だけ", "diff": "Nghĩa gần như nhau, nhưng 「だけ」 dùng mọi nơi, còn 「に限り」 là văn thông báo / quy định, mang sắc thái **ưu đãi, ngoại lệ chính thức**."},
+        {"with": "〜に限って", "diff": "「に限って」 không mang nghĩa \"ưu đãi\", mà là \"đúng lần đó **lại khác thường / lại xui**\" hoặc \"riêng người đó thì **chắc chắn không**\". Trong biển báo, quảng cáo → luôn nghĩ tới 「に限り」."},
+        {"with": "〜限り (4課: 今月限り・できる限り)", "diff": "「{今月|こんげつ}{限|かぎ}りで{閉店|へいてん}」 = đóng cửa **tính đến hết** tháng này; 「できる限り」 = **hết mức** có thể. Không có 「に」, nghĩa là \"giới hạn cuối / mức tối đa\", không phải \"chỉ riêng\"."}
+      ],
+      "mistakes": [
+        "✗ {会員|かいいん}の{方|かた}に{限|かぎ}り、{駐車場|ちゅうしゃじょう}を{利用|りよう}できません。→ ○ 会員以外の方は、駐車場を利用できません。(vế sau phủ định)",
+        "✗ {学生|がくせい}に{限|かぎ}り、{必|かなら}ず{受付|うけつけ}で{学生証|がくせいしょう}を{見|み}せなさい。→ vế sau là mệnh lệnh; nên viết 「学生の方は、受付で学生証をご提示ください」",
+        "✗ {来店|らいてん}する{限|かぎ}り、{割引|わりびき}します。→ ○ ご来店のお客様に限り、… (に限り chỉ đi với danh từ)"
+      ],
+      "tip": "Thấy chỗ trống đứng sau **danh từ chỉ người / ngày / trường hợp** (〜の方・お客様・本日・場合・先着〜名) và vế sau là **無料・割引・ご利用いただけます・受け付けます** → chọn 「に限り」."
+    },
+    {
+      "id": "b05-2",
+      "pattern": "〜限り(は)",
+      "reading": "〜かぎり(は)",
+      "meaning": "Chừng nào còn… thì (vẫn)…; 〜ない限り: trừ khi…, nếu không… thì…",
+      "structure": ["V辞書形／Vている／Vない ＋ 限り(は)", "い形 ＋ 限り(は)", "な形 ＋ な／である ＋ 限り(は)", "N ＋ である ＋ 限り(は)"],
+      "explain": "Hãy hình dung một **cái khung thời gian**: chừng nào trạng thái A **còn kéo dài**, thì B **cũng còn đúng**. A thay đổi → B mới có thể thay đổi. Vì vậy mẫu này mang nghĩa **điều kiện**: A là điều kiện để B tiếp tục.\n\n- **Dạng khẳng định**: 「{健康|けんこう}である{限|かぎ}り、{働|はたら}き{続|つづ}けたい」 = chừng nào còn khoẻ, tôi muốn tiếp tục làm việc.\n- **Dạng phủ định 〜ない限り** (rất hay ra đề): \"**nếu không** A thì B (thường là kết quả xấu / không xảy ra)\", tức \"**trừ khi** A\". 「{謝|あやま}らない{限|かぎ}り、{許|ゆる}さない」 = chừng nào chưa xin lỗi thì tôi không tha → trừ khi xin lỗi.\n- Thêm 「は」 (限りは) chỉ để nhấn mạnh, nghĩa không đổi.\n\nCả A và B đều là **trạng thái** (hoặc quy luật, ý định, phán đoán), không phải một hành động xảy ra một lần rồi thôi.",
+      "nuance": "Sách nhấn mạnh: **cả vế trước lẫn vế sau đều là từ chỉ trạng thái**, và vì là câu điều kiện nên **vế sau không dùng thì quá khứ** (không kể lại chuyện đã xảy ra). Vế sau hay là: trạng thái / khả năng (〜できない・〜ならない), phán đoán (〜だろう・〜はずだ・〜と思う), quy luật; ý chí kiểu 〜たい・〜つもりだ chỉ hợp khi nói về việc **kéo dài** (〜続けたい). Nếu vế sau là **một sự việc / hành động xảy ra một lần** (今度の試合で負ける・家を出る) hoặc lời nhờ vả (〜てください) thì bài tập của sách coi là không hợp. Sắc thái hơi cứng, hay gặp trong lời hứa, lời tuyên bố, văn viết.",
+      "examples": [
+        {"ja": "{体|からだ}が{元気|げんき}な{限|かぎ}り、この{仕事|しごと}を{続|つづ}けるつもりです。", "vi": "Chừng nào cơ thể còn khoẻ, tôi định sẽ tiếp tục công việc này.", "note": "な形 + な + 限り · vế sau là ý định"},
+        {"ja": "このチームにいる{限|かぎ}りは、{勝|か}つために{全力|ぜんりょく}を{尽|つ}くしたい。", "vi": "Chừng nào còn ở trong đội này, tôi muốn dốc hết sức để chiến thắng.", "note": "限りは = nhấn mạnh"},
+        {"ja": "{日本|にほん}に{住|す}んでいる{限|かぎ}り、{地震|じしん}の{心配|しんぱい}から{完全|かんぜん}に{逃|のが}れることはできない。", "vi": "Chừng nào còn sống ở Nhật, không thể nào thoát hoàn toàn khỏi nỗi lo động đất.", "note": "Vている + 限り"},
+        {"ja": "{雨|あめ}が{降|ふ}らない{限|かぎ}り、{花火|はなび}{大会|たいかい}は{予定|よてい}どおり{行|おこな}われます。", "vi": "Trừ khi trời mưa, lễ hội pháo hoa sẽ được tổ chức như dự kiến.", "note": "Vない + 限り = trừ khi"},
+        {"ja": "{本人|ほんにん}が{反省|はんせい}しない{限|かぎ}り、{同|おな}じ{失敗|しっぱい}を{繰|く}り{返|かえ}すだろう。", "vi": "Chừng nào bản thân cậu ta chưa tự nhìn lại, cậu ta sẽ còn lặp lại sai lầm đó.", "note": "ない限り + phán đoán 〜だろう"},
+        {"ja": "パスワードが{知|し}られない{限|かぎ}り、{他人|たにん}がこのアカウントに{入|はい}ることはできません。", "vi": "Chừng nào mật khẩu không bị lộ thì người khác không thể vào tài khoản này.", "note": ""}
+      ],
+      "compare": [
+        {"with": "〜うちは (N3)", "diff": "「うちは」 chỉ đơn thuần \"trong khoảng thời gian…\" (若いうちは無理がきく). 「限り」 nhấn mạnh **điều kiện**: A còn thì B còn, A mất thì B mới đổi — mạnh và dứt khoát hơn."},
+        {"with": "〜なければ／〜ないと", "diff": "「ない限り」 mạnh hơn 「なければ」: hàm ý **chỉ có A mới thay đổi được tình hình**, ngoài ra không cách nào khác. Hay đi với kết quả tiêu cực hoặc sự khẳng định chắc chắn."},
+        {"with": "〜限りでは (mục 3)", "diff": "「限りでは」 đi với động từ **thông tin** (見る・聞く・知る・調べる) = \"theo những gì tôi biết\". 「限り(は)」 là **điều kiện / trạng thái kéo dài**."}
+      ],
+      "mistakes": [
+        "✗ {学生|がくせい}である{限|かぎ}り、{毎晩|まいばん}{遅|おそ}くまで{勉強|べんきょう}した。→ ○ 学生である限り、勉強するのは当然だ。(vế sau không ở quá khứ)",
+        "✗ {駅|えき}に{着|つ}いた{限|かぎ}り、すぐに{連絡|れんらく}します。→ ○ 駅に着いたら、すぐに連絡します。(「着いた」 là một hành động tức thời, không phải trạng thái kéo dài)",
+        "✗ {先生|せんせい}な{限|かぎ}り → ○ 先生である限り (danh từ phải đi với である)"
+      ],
+      "tip": "Trong đề, 「〜ない（　　）」 + vế sau là 「〜できない／〜はずがない／〜だろう」 → gần như chắc chắn là 「限り」. Nếu thấy 限り mà vế sau ở thể た kể lại chuyện cũ → đó là bẫy."
+    },
+    {
+      "id": "b05-3",
+      "pattern": "〜限りでは",
+      "reading": "〜かぎりでは",
+      "meaning": "Theo (trong phạm vi) những gì tôi biết / thấy / nghe / điều tra được thì…",
+      "structure": ["N ＋ の ＋ 限りでは (調査の限りでは・記憶の限りでは)", "V辞書形／Vた形／Vている形 ＋ 限りでは", "(động từ thông tin: 見る・聞く・読む・知る・覚えている・調べる・調査する)"],
+      "explain": "Người nói **vẽ một vòng tròn quanh lượng thông tin mình đang có**, rồi nói: \"trong vòng tròn này thì sự thật là thế này — ngoài vòng tròn thì tôi không dám chắc\". Đây là cách nói **thận trọng, khiêm tốn, giữ an toàn** cho phát ngôn của mình.\n\n- 「{私|わたし}の{知|し}る{限|かぎ}りでは」 = theo như tôi biết (知る限り là dạng văn viết của 知っている限り).\n- 「ざっと{見|み}た{限|かぎ}りでは」 = xem lướt qua thì thấy…\n- 「{調|しら}べた{限|かぎ}りでは」 = theo những gì đã điều tra được.\n\nVế sau là **một nhận định / thông tin** rút ra từ nguồn đó, và thường mang giọng phỏng đoán: 〜ようだ・〜そうだ・〜らしい・〜と思う・〜はずだ・〜(問題は)ない.\n\nCó thể bỏ 「では」 hoặc chỉ dùng 「で」: 「{見|み}る{限|かぎ}り」「{聞|き}いた{限|かぎ}りで」 — nghĩa như nhau.",
+      "nuance": "Chỉ đi với những từ **liên quan tới việc thu nhận thông tin**. Không gắn với động từ hành động thông thường (✗ 走った限りでは, ✗ 住んでいる限りでは). Sắc thái khách quan, lịch sự, hay dùng trong báo cáo, cuộc họp, khi trả lời câu hỏi mà mình không chắc 100%.",
+      "examples": [
+        {"ja": "{私|わたし}の{知|し}る{限|かぎ}りでは、{彼|かれ}はまだ{独身|どくしん}のはずだ。", "vi": "Theo những gì tôi biết thì anh ấy chắc vẫn còn độc thân.", "note": "知る限り = 知っている限り (văn viết)"},
+        {"ja": "{天気|てんき}{予報|よほう}を{見|み}た{限|かぎ}りでは、{週末|しゅうまつ}は{晴|は}れそうだ。", "vi": "Xem dự báo thời tiết thì có vẻ cuối tuần trời sẽ nắng.", "note": "Vた + 限りでは + 〜そうだ"},
+        {"ja": "{現時点|げんじてん}で{調|しら}べた{限|かぎ}りでは、システムに{異常|いじょう}は{見|み}つかっていません。", "vi": "Theo những gì đã kiểm tra tính đến thời điểm này, chưa phát hiện bất thường nào trong hệ thống.", "note": "Câu báo cáo công việc"},
+        {"ja": "{説明書|せつめいしょ}を{読|よ}んだ{限|かぎ}りでは、{操作|そうさ}はそれほど{難|むずか}しくなさそうだ。", "vi": "Đọc sách hướng dẫn thì thấy thao tác có vẻ không khó lắm.", "note": ""},
+        {"ja": "{今回|こんかい}の{調査|ちょうさ}の{限|かぎ}りでは、{利用者|りようしゃ}の{満足度|まんぞくど}は{高|たか}いと{言|い}える。", "vi": "Trong phạm vi cuộc khảo sát lần này, có thể nói mức độ hài lòng của người dùng là cao.", "note": "N の限りでは"},
+        {"ja": "{私|わたし}が{覚|おぼ}えている{限|かぎ}りでは、あの{店|みせ}は{月曜日|げつようび}が{定休日|ていきゅうび}だったと{思|おも}う。", "vi": "Theo tôi nhớ thì quán đó nghỉ cố định vào thứ Hai.", "note": "Vている + 限りでは"}
+      ],
+      "compare": [
+        {"with": "〜限り(は) (mục 2)", "diff": "Khác hẳn về nghĩa: 「限り(は)」 = \"chừng nào còn…\" (điều kiện). 「限りでは」 = \"theo những gì…\" (phạm vi thông tin). Nhìn động từ đứng trước: 知る・見る・聞く・調べる → 限りでは."},
+        {"with": "〜によると／〜によれば (N3)", "diff": "「によると」 chỉ **nguồn tin** (ai đó nói) và vế sau là truyền đạt lại (〜そうだ・〜らしい). 「限りでは」 là **nhận định của chính người nói**, kèm lời rào đón \"trong phạm vi tôi biết thôi\"."}
+      ],
+      "mistakes": [
+        "✗ {私|わたし}がこの{町|まち}に{住|す}んでいる{限|かぎ}りでは、{治安|ちあん}はいい。→ ○ 私の知る限りでは、この町の治安はいい。(住む không phải động từ thông tin)",
+        "✗ {天気|てんき}{予報|よほう}を{見|み}る{限|かぎ}りは、{明日|あした}は{晴|は}れるそうだ。→ ○ 見る限りでは／見る限り (限りは là mẫu điều kiện)"
+      ],
+      "tip": "Ngay trước chỗ trống có **知る・見る・聞く・読む・調べる・覚えている・調査** → đáp án là 「限りでは」 (hoặc 「限り」). Vế sau có 〜ようだ・〜そうだ・〜はずだ là dấu hiệu củng cố."
+    },
+    {
+      "id": "b05-4",
+      "pattern": "〜に限って",
+      "reading": "〜にかぎって",
+      "meaning": "Đúng lúc / đúng hôm… lại…; riêng… thì chắc chắn không…",
+      "structure": ["N ＋ に限って", "(thường gặp: 今日に限って・その日に限って・〜時に限って・〜日に限って・人名／うちの子に限って)"],
+      "explain": "Cả ba nghĩa đều có chung hình ảnh: **chỉ tay vào một lần / một người cụ thể** và nói \"riêng cái này thì **khác hẳn**\". Sách chia làm ba cách dùng:\n\n- **A. Đúng lần đó lại khác thường ngày**: 「いつもは〜のに、今日に限って…」. Chỉ nêu sự khác lạ (có thể tốt hoặc xấu), hay kèm thắc mắc \"không biết có chuyện gì\". 「{普段|ふだん}{遅刻|ちこく}しない{彼|かれ}が、{今日|きょう}に{限|かぎ}って{遅|おく}れてきた」.\n- **B. Đúng lúc (cần / quan trọng) thì lại gặp chuyện xui**: những chuyện không may **trùng hợp một cách đáng ghét**, người nói **bực bội, than phiền**. 「{急|いそ}いでいる{時|とき}に{限|かぎ}って、{電車|でんしゃ}が{遅|おく}れる」 — luật Murphy phiên bản tiếng Nhật.\n- **C. Riêng người đó thì chắc chắn không làm chuyện xấu**: thể hiện **niềm tin tuyệt đối**. Vế sau là phán đoán phủ định: 〜はずがない・〜わけがない・〜ことはない. 「うちの{子|こ}に{限|かぎ}って、そんなことをするはずがない」.",
+      "nuance": "Văn nói lẫn văn viết đều dùng, mang **cảm xúc của người nói** (ngạc nhiên ở A, bất mãn ở B, tin tưởng ở C). Khác với 「に限り」 không mang cảm xúc mà chỉ thông báo quy định. Nghĩa C hay xuất hiện trong câu \"tôi đã tin là… vậy mà…\" (〜と思っていたのに).",
+      "examples": [
+        {"ja": "いつもは{時間|じかん}に{正確|せいかく}な{部長|ぶちょう}が、{今朝|けさ}に{限|かぎ}って30{分|ぷん}も{遅刻|ちこく}してきた。", "vi": "Trưởng phòng vốn luôn đúng giờ, vậy mà đúng sáng nay lại đến muộn tận 30 phút.", "note": "A: khác thường ngày"},
+        {"ja": "{普段|ふだん}は{行列|ぎょうれつ}ができるラーメン{屋|や}が、その{日|ひ}に{限|かぎ}ってがらがらだった。", "vi": "Quán ramen bình thường lúc nào cũng xếp hàng dài, riêng hôm đó lại vắng tanh.", "note": "A: sự khác lạ không nhất thiết là xấu"},
+        {"ja": "{傘|かさ}を{持|も}たずに{出|で}かけた{日|ひ}に{限|かぎ}って、{夕方|ゆうがた}から{大雨|おおあめ}になる。", "vi": "Cứ hôm nào ra ngoài không mang ô là y như rằng chiều lại mưa to.", "note": "B: trùng hợp xui xẻo, giọng than phiền"},
+        {"ja": "{急|いそ}いでいる{時|とき}に{限|かぎ}って、エレベーターがなかなか{来|こ}ない。", "vi": "Đúng lúc đang vội thì thang máy mãi chẳng chịu đến.", "note": "B: V時 + に限って"},
+        {"ja": "まじめな{山田|やまだ}さんに{限|かぎ}って、{会社|かいしゃ}のお{金|かね}を{使|つか}い{込|こ}むはずがない。", "vi": "Riêng anh Yamada nghiêm túc như thế thì không đời nào lại biển thủ tiền công ty.", "note": "C: niềm tin · vế sau 〜はずがない"},
+        {"ja": "あの{慎重|しんちょう}な{兄|あに}に{限|かぎ}って、{怪|あや}しいメールのリンクを{開|ひら}くわけがない。", "vi": "Ông anh cẩn thận như thế thì chẳng có lý nào lại bấm vào đường link trong email đáng ngờ.", "note": "C: 〜わけがない"}
+      ],
+      "compare": [
+        {"with": "〜に限り (mục 1)", "diff": "「に限り」 = \"chỉ riêng… được ưu đãi\" — thông báo, không cảm xúc. 「に限って」 = \"đúng lần này lại khác / lại xui\" hoặc \"riêng người này thì không\" — **có cảm xúc** của người nói."},
+        {"with": "〜に限らず (6課)", "diff": "「に限らず」 = \"**không chỉ** … mà cả …\" (mở rộng phạm vi). Ngược hướng với 「に限って」 (thu hẹp vào một trường hợp)."},
+        {"with": "〜くせに", "diff": "Cũng có giọng bực bội, nhưng 「くせに」 trách móc **người làm trái với tư cách của mình** (biết mà không làm). 「に限って」(B) than phiền về **sự trùng hợp xui** của hoàn cảnh."}
+      ],
+      "mistakes": [
+        "✗ {彼|かれ}に{限|かぎ}って、きっとまたミスをするだろう。→ ○ 彼に限って、ミスをするはずがない。(nghĩa C cần phán đoán phủ định, thể hiện niềm tin)",
+        "✗ {暇|ひま}な{日|ひ}に{限|かぎ}って、{電車|でんしゃ}が{遅|おく}れて{困|こま}る。→ ○ 急いでいる日に限って、… (nghĩa B: chuyện xui phải rơi vào lúc **mình cần / bất lợi nhất**)",
+        "✗ {雨|あめ}が{降|ふ}らないに{限|かぎ}って → に限って chỉ đi với danh từ (〜時に限って・〜日に限って)"
+      ],
+      "tip": "Có 「いつもは／普段は〜のに」 hoặc 「〜時に／〜日に」 + chuyện xui ở vế sau → 「に限って」. Có tên người / 「うちの子」 + 「〜はずがない／わけがない」 → cũng là 「に限って」 (nghĩa C)."
+    }
+  ],
+  "summary": [
+    {"pattern": "〜に限り", "meaning": "chỉ riêng… (được ưu đãi)", "key": "N + に限り; thông báo, quảng cáo; vế sau không phủ định / mệnh lệnh"},
+    {"pattern": "〜限り(は)", "meaning": "chừng nào còn…; 〜ない限り = trừ khi", "key": "trạng thái kéo dài = điều kiện; vế sau không ở quá khứ; N である限り"},
+    {"pattern": "〜限りでは", "meaning": "theo những gì tôi biết / thấy…", "key": "đi với 知る・見る・聞く・調べる; vế sau là nhận định thận trọng"},
+    {"pattern": "〜に限って", "meaning": "đúng lúc đó lại…; riêng người đó thì không…", "key": "A khác thường · B xui xẻo (bực bội) · C tin tưởng + はずがない"}
+  ],
+  "quiz": [
+    {"id": "b05-q1", "kind": "form", "ref": "b05-1", "q": "{会員|かいいん}カードをお{持|も}ちの{方|かた}（　　）、{駐車場|ちゅうしゃじょう}を3{時間|じかん}{無料|むりょう}でご{利用|りよう}いただけます。", "options": ["に限り", "限りでは", "とたんに", "に際して"], "answer": 0, "vi": "Chỉ những quý khách có thẻ hội viên mới được dùng bãi đỗ xe miễn phí 3 tiếng.", "why": "Danh từ chỉ người (お持ちの方) + ưu đãi (無料でご利用いただけます) → **に限り**. 「限りでは」 cần động từ thông tin (知る・見る…) hoặc 「Nの限りでは」, và không hợp nghĩa; 「とたんに」 cần Vた; 「に際して」 đi với danh từ chỉ sự kiện (開店・入学…), không đi với người."},
+    {"id": "b05-q2", "kind": "form", "ref": "b05-2", "q": "この{薬|くすり}は、{医師|いし}の{処方箋|しょほうせん}がない（　　）、{購入|こうにゅう}することができません。", "options": ["に限り", "限りでは", "限り", "に限って"], "answer": 2, "vi": "Thuốc này không thể mua được nếu không có đơn của bác sĩ.", "why": "「ない限り」 = trừ khi / nếu không…, vế sau 〜できません → **限り**. 「に限り」「に限って」 chỉ nối với danh từ, không nối với 「ない」; 「ない限りでは」 sai vì 限りでは chỉ đi với động từ thông tin."},
+    {"id": "b05-q3", "kind": "form", "ref": "b05-3", "q": "{私|わたし}が{調|しら}べた（　　）、この{地域|ちいき}で{大|おお}きな{地震|じしん}が{起|お}きたという{記録|きろく}は{見当|みあ}たらない。", "options": ["に限り", "限りでは", "に限って", "に際して"], "answer": 1, "vi": "Theo những gì tôi đã tìm hiểu, không thấy có ghi chép nào về trận động đất lớn ở khu vực này.", "why": "「調べた」 là động từ thu thập thông tin, vế sau là nhận định → **限りでは**. 「に限り」「に限って」 chỉ nối với danh từ, không nối với 「調べた」; 「に際して」 cần danh từ / V辞書形 chỉ một dịp, sự kiện (出発に際して), không nối với Vた và cũng không có nghĩa \"theo những gì…\"."},
+    {"id": "b05-q4", "kind": "form", "ref": "b05-4", "q": "{傘|かさ}を{持|も}たずに{出|で}かけた{日|ひ}（　　）、{帰|かえ}りに{大雨|おおあめ}に{降|ふ}られる。", "options": ["に限り", "限りでは", "である限り", "に限って"], "answer": 3, "vi": "Cứ hôm nào ra ngoài không mang ô là y như rằng lúc về bị mắc mưa to.", "why": "Đúng hôm bất lợi thì chuyện xui lại xảy ra, giọng than phiền → **に限って** (nghĩa B). 「に限り」 là văn thông báo ưu đãi, không đi với chuyện xui; 「日限りでは」「日である限り」 sai cả nghĩa lẫn cách nối."},
+    {"id": "b05-q5", "kind": "order", "ref": "b05-4", "q": "まじめな ＿＿＿ ＿＿＿ ★ ＿＿＿ と{信|しん}じている。", "options": ["限って", "するはずがない", "彼に", "無断欠勤など"], "order": [2, 0, 3, 1], "answer": 3, "vi": "Tôi tin rằng người nghiêm túc như anh ấy thì không đời nào lại tự ý nghỉ làm.", "why": "まじめな **彼に 限って 無断欠勤など するはずがない** と信じている → ★ (ô thứ 3) = 「無断欠勤など」. Nghĩa C của 「に限って」: N に限って + 〜はずがない; 「まじめな」 phải bổ nghĩa cho danh từ 「彼」."},
+    {"id": "b05-q6", "kind": "usage", "ref": "b05-2", "q": "「〜{限|かぎ}り」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["学生である限り、毎晩遅くまで勉強した。", "この雨が続く限り、洗濯物は外に干せない。", "彼は駅に着いた限り、すぐに電話をくれた。", "健康である限りでは、もっと運動したほうがいい。"], "answer": 1, "vi": "(2) Chừng nào cơn mưa này còn kéo dài, không thể phơi quần áo ngoài trời.", "why": "(2): trạng thái kéo dài (雨が続く) + kết quả kéo theo → đúng. (1) vế sau ở quá khứ, kể lại chuyện cũ → sai. (3) 「着いた」 là hành động tức thời, phải dùng 「着くとすぐ」「着いたらすぐ」. (4) 「限りでは」 chỉ đi với động từ thông tin; muốn nói điều kiện phải dùng 「限り」 — mà nghĩa cũng không hợp."}
+  ],
+  "practice": [
+    {"id": "b05-p1", "kind": "form", "ref": "b05-1", "q": "{満|まん}65{歳|さい}{以上|いじょう}の{方|かた}（　　）、{入館料|にゅうかんりょう}が{無料|むりょう}となります。ご{入館|にゅうかん}の{際|さい}は、{年齢|ねんれい}のわかるものをご{提示|ていじ}ください。", "options": ["に際して", "に限り", "の限りでは", "とたんに"], "answer": 1, "vi": "Chỉ những người từ 65 tuổi trở lên được miễn phí vé vào. Khi vào, xin vui lòng xuất trình giấy tờ có ghi tuổi.", "why": "Thông báo ưu đãi dành riêng cho một nhóm người → **に限り**. 「に際して」 cần danh từ sự kiện; 「方の限りでは」 vô nghĩa (限りでは cần nguồn thông tin); 「とたんに」 cần Vた."},
+    {"id": "b05-p2", "kind": "usage", "ref": "b05-1", "q": "「〜に{限|かぎ}り」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["急いでいる時に限り、電車が遅れる。", "会員の方に限り、この部屋には入れません。", "当店では、現金でお支払いの方に限り、ポイントが2倍になります。", "うちの子に限り、うそをつくはずがない。"], "answer": 2, "vi": "(3) Tại cửa hàng chúng tôi, chỉ khách thanh toán bằng tiền mặt mới được nhân đôi điểm.", "why": "(3): đối tượng được ưu đãi + quyền lợi → đúng. (1) trùng hợp xui → phải là 「時に限って」. (2) vế sau phủ định → không dùng 「に限り」. (4) niềm tin \"không đời nào\" → 「うちの子に限って」."},
+    {"id": "b05-p3", "kind": "order", "ref": "b05-3", "q": "{資料|しりょう}を ＿＿＿ ＿＿＿ ★ ＿＿＿ {問題|もんだい}はなさそうだ。", "options": ["見た", "特に", "限りでは", "ざっと"], "order": [3, 0, 2, 1], "answer": 2, "vi": "Xem lướt qua tài liệu thì có vẻ không có vấn đề gì đặc biệt.", "why": "資料を **ざっと 見た 限りでは 特に** 問題はなさそうだ → ★ (ô thứ 3) = 「限りでは」. Trạng từ 「ざっと」 bổ nghĩa cho 「見た」; 「特に」 đi với 「問題はない」."},
+    {"id": "b05-p4", "kind": "order", "ref": "b05-2", "q": "{本人|ほんにん}が ＿＿＿ ＿＿＿ ★ ＿＿＿ {進|すす}めることはできない。", "options": ["手続きを", "限り", "同意", "しない"], "order": [2, 3, 1, 0], "answer": 1, "vi": "Chừng nào bản thân người đó chưa đồng ý thì không thể tiến hành thủ tục.", "why": "本人が **同意 しない 限り 手続きを** 進めることはできない → ★ (ô thứ 3) = 「限り」. 「同意しない限り」 = trừ khi đồng ý; 「手続きを」 là tân ngữ của 「進める」."},
+    {"id": "b05-p5", "kind": "form", "ref": "b05-4", "q": "いつもは{口数|くちかず}の{少|すく}ない{父|ちち}が、{今夜|こんや}（　　）よくしゃべる。{何|なに}かいいことでもあったのだろうか。", "options": ["に限り", "の限り", "限りでは", "に限って"], "answer": 3, "vi": "Bố tôi bình thường ít nói, vậy mà riêng tối nay lại nói rất nhiều. Không biết có chuyện gì vui không nhỉ.", "why": "「いつもは〜が、今夜（　）」 — đúng lần này khác thường → **に限って** (nghĩa A). 「に限り」 dùng cho quy định / ưu đãi, không mô tả sự khác lạ; 「今夜の限り」 không phải cách nói đúng; 「今夜限りでは」 sai vì 今夜 không phải nguồn thông tin."},
+    {"id": "b05-p6", "kind": "form", "ref": "b05-4", "q": "あんなに{優|やさ}しい{田中|たなか}さん（　　）、{陰|かげ}で{人|ひと}の{悪口|わるぐち}を{言|い}うはずがない。", "options": ["に限って", "限りは", "に限り", "の限りでは"], "answer": 0, "vi": "Người hiền lành như chị Tanaka thì không đời nào lại nói xấu người khác sau lưng.", "why": "Tên người + 〜はずがない, thể hiện niềm tin → **に限って** (nghĩa C). 「限りは」 phải nối với 「である」 (田中さんである限りは) và nghĩa \"chừng nào còn là…\" không hợp; 「に限り」 là văn thông báo; 「の限りでは」 cần nguồn thông tin."},
+    {"id": "b05-p7", "kind": "form", "ref": "b05-2", "q": "よほどの{理由|りゆう}がない（　　）、{一度|いちど}{決|き}めた{方針|ほうしん}を{変|か}えるべきではない。", "options": ["限り", "に限って", "限りでは", "に限り"], "answer": 0, "vi": "Trừ khi có lý do thật đặc biệt, không nên thay đổi phương châm đã quyết định.", "why": "「〜ない限り」 = trừ khi → **限り**. 「に限って」「に限り」 không nối với 「ない」; 「ない限りでは」 sai vì 限りでは chỉ dùng với động từ thông tin."},
+    {"id": "b05-p8", "kind": "form", "ref": "b05-2", "q": "この{会社|かいしゃ}に{勤|つと}めている（　　）、{毎月|まいつき}{住宅|じゅうたく}{手当|てあて}が{支給|しきゅう}される。", "options": ["に限って", "限りでは", "限り", "とたん"], "answer": 2, "vi": "Chừng nào còn làm việc ở công ty này, hằng tháng sẽ được trợ cấp nhà ở.", "why": "Trạng thái kéo dài (勤めている) là điều kiện cho kết quả (支給される) → **限り**. 「勤めている限りでは」 sai vì 勤める không phải động từ thông tin; 「に限って」 chỉ nối với N; 「とたん」 cần Vた và vế sau bất ngờ."},
+    {"id": "b05-p9", "kind": "form", "ref": "b05-3", "q": "{今回|こんかい}の{調査|ちょうさ}（　　）、{若|わか}い{世代|せだい}ほど{紙|かみ}の{新聞|しんぶん}を{読|よ}まない{傾向|けいこう}がある。", "options": ["に限って", "の限りでは", "限り", "に限り"], "answer": 1, "vi": "Theo kết quả cuộc khảo sát lần này, thế hệ càng trẻ thì càng có xu hướng không đọc báo giấy.", "why": "「調査」 là nguồn thông tin, vế sau là nhận định rút ra → **の限りでは** (N の限りでは). 「に限って」 sẽ mang nghĩa \"đúng lần khảo sát này lại…\" — không hợp vì vế sau là xu hướng chung; 「調査限り」 sai cách nối; 「に限り」 là ưu đãi."},
+    {"id": "b05-p10", "kind": "form", "ref": "b05-4", "q": "{大事|だいじ}な{面接|めんせつ}の{日|ひ}（　　）、{目覚|めざ}まし{時計|どけい}が{鳴|な}らなかった。", "options": ["に限って", "の限りでは", "に限り", "限りは"], "answer": 0, "vi": "Đúng vào hôm phỏng vấn quan trọng thì đồng hồ báo thức lại không reo.", "why": "Đúng lúc quan trọng thì gặp chuyện xui → **に限って** (nghĩa B). 「に限り」 không đi với chuyện xấu và là văn thông báo; 「日の限りでは」「日限りは」 không có nghĩa phù hợp."},
+    {"id": "b05-p11", "kind": "usage", "ref": "b05-3", "q": "「〜{限|かぎ}りでは」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["お金がある限りでは、毎月旅行に行きたい。", "この券は学生の限りでは使えます。", "彼に限りでは、遅刻するはずがない。", "私が見た限りでは、会場にはまだ空席がたくさんあった。"], "answer": 3, "vi": "(4) Theo những gì tôi thấy thì trong hội trường vẫn còn nhiều ghế trống.", "why": "(4): 「見た」 là động từ thông tin, vế sau là điều quan sát được → đúng. (1) điều kiện \"chừng nào còn tiền\" → 「ある限り」. (2) ưu đãi riêng → 「学生に限り」. (3) niềm tin → 「彼に限って」."}
+  ],
+  "test": [
+    {"id": "b05-t1", "kind": "form", "ref": "b05-2", "q": "{人間|にんげん}は{生|い}きている（　　）、いくつになっても{新|あたら}しいことを{学|まな}ぶことができる。", "options": ["に限って", "限り", "限りでは", "に限り"], "answer": 1, "vi": "Con người chừng nào còn sống thì dù bao nhiêu tuổi vẫn có thể học điều mới.", "why": "Trạng thái kéo dài (生きている) = điều kiện → **限り**. 「生きている限りでは」 sai vì 生きる không phải động từ thông tin; 「に限って」「に限り」 chỉ nối với danh từ."},
+    {"id": "b05-t2", "kind": "form", "ref": "b05-3", "q": "{先輩|せんぱい}から{聞|き}いた（　　）、あの{教授|きょうじゅ}の{授業|じゅぎょう}はかなり{厳|きび}しいらしい。", "options": ["限りでは", "に限って", "とたん", "に限り"], "answer": 0, "vi": "Theo những gì nghe các anh chị khoá trên kể, lớp của giáo sư đó có vẻ khá khắt khe.", "why": "「聞いた」 = thu nhận thông tin, vế sau 〜らしい → **限りでは**. 「に限って」「に限り」 không nối với động từ; 「聞いたとたん」 cần vế sau là phản ứng bất ngờ ngay lập tức, không phải một nhận định."},
+    {"id": "b05-t3", "kind": "form", "ref": "b05-4", "q": "{洗車|せんしゃ}した{翌日|よくじつ}（　　）{雨|あめ}が{降|ふ}るんだから、いやになるよ。", "options": ["に限り", "限りでは", "である限り", "に限って"], "answer": 3, "vi": "Cứ đúng hôm sau khi rửa xe là trời lại mưa, chán thật đấy.", "why": "Trùng hợp xui xẻo + giọng than phiền (いやになる) → **に限って** (nghĩa B). 「に限り」 không dùng cho chuyện xấu; 「翌日限りでは」 không phải nguồn thông tin; 「翌日である限り」 = \"chừng nào còn là hôm sau\" — vô nghĩa."},
+    {"id": "b05-t4", "kind": "form", "ref": "b05-1", "q": "{先着|せんちゃく}100{名様|めいさま}（　　）、オリジナルのエコバッグをプレゼントいたします。", "options": ["限りでは", "にあたって", "に限り", "である限り"], "answer": 2, "vi": "Chỉ 100 vị khách đến sớm nhất sẽ được tặng túi vải thiết kế riêng.", "why": "Thông báo ưu đãi dành riêng cho một nhóm → **に限り**. 「限りでは」 cần động từ thông tin; 「にあたって」 cần danh từ chỉ sự kiện (開店にあたって); 「100名様である限り」 = \"chừng nào còn là 100 người\" — vô nghĩa."},
+    {"id": "b05-t5", "kind": "order", "ref": "b05-4", "q": "{急|いそ}いで ＿＿＿ ＿＿＿ ★ ＿＿＿ {来|こ}ないものだ。", "options": ["限って", "時に", "なかなかタクシーが", "いる"], "order": [3, 1, 0, 2], "answer": 0, "vi": "Đúng lúc đang vội là taxi mãi chẳng thấy đâu, đời là vậy.", "why": "急いで **いる 時に 限って なかなかタクシーが** 来ないものだ → ★ (ô thứ 3) = 「限って」. 「急いで」 + 「いる」 → 「急いでいる時に限って」 (nghĩa B); 「なかなか」 đi với phủ định 「来ない」."},
+    {"id": "b05-t6", "kind": "order", "ref": "b05-2", "q": "この{店|みせ}は、{法律|ほうりつ}が ＿＿＿ ＿＿＿ ★ ＿＿＿ を{続|つづ}けることができる。", "options": ["営業", "変わらない", "今までどおり", "限り"], "order": [1, 3, 2, 0], "answer": 2, "vi": "Chừng nào luật chưa thay đổi, cửa hàng này vẫn có thể tiếp tục kinh doanh như từ trước đến nay.", "why": "この店は、法律が **変わらない 限り 今までどおり 営業** を続けることができる → ★ (ô thứ 3) = 「今までどおり」. 「法律が」 đi với 「変わらない」; 「営業」 phải đứng ngay trước 「を続ける」, và 「今までどおり」 bổ nghĩa cho cụm đó."},
+    {"id": "b05-t7", "kind": "usage", "ref": "b05-4", "q": "「〜に{限|かぎ}って」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["彼に限って、きっと約束を破るだろう。", "私の知るに限って、彼はまだ独身だ。", "雨が降らないに限って、試合を行います。", "いつも静かな教室が、今日に限ってにぎやかだ。"], "answer": 3, "vi": "(4) Lớp học bình thường lúc nào cũng yên tĩnh, vậy mà riêng hôm nay lại ồn ào.", "why": "(4): 「いつも〜が、今日に限って」 — khác thường ngày → đúng (nghĩa A). (1) nghĩa C phải là niềm tin \"không đời nào\" (約束を破るはずがない). (2) phạm vi thông tin → 「知る限りでは」. (3) điều kiện \"trừ khi\" → 「降らない限り」; に限って không nối với thể ない."}
+  ]
+}

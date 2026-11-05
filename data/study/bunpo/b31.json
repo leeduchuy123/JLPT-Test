@@ -1,0 +1,292 @@
+{
+  "id": "b31",
+  "track": "bunpo",
+  "intro": "Bài ôn tập này gom các mẫu có 「わけ」 và 「ところ」 đã học ở 12・18・20・25課, thêm **2 mẫu mới**: 〜わけだ・〜というわけだ và 〜ところから・〜ことから.\n\n**わけ = lý lẽ, lẽ tự nhiên** (訳: lý do, đạo lý). Hiểu gốc này là đoán được nghĩa của cả nhóm:\n- **わけがない** = không có lý nào → **không thể nào** (phủ định toàn bộ, chắc chắn).\n- **わけではない** = không phải là lẽ đó → **không hẳn là** (phủ định một phần).\n- **わけにはいかない** = không có lý nào để làm → **không thể làm** (vì đạo lý, trách nhiệm — không phải vì thiếu khả năng).\n- **ないわけにはいかない** = không thể không làm → **buộc phải làm**.\n- **わけだ** = theo lẽ tự nhiên thì ra như vậy → **thảo nào / tức là**.\n\n**ところ = chỗ, điểm, thời điểm, mức độ**:\n- **たところ** = ở thời điểm vừa làm A → **làm A thì (kết quả)…**\n- **ところだった** = đã ở ngay điểm sắp xảy ra → **suýt nữa**.\n- **どころではない／どころか** = không phải ở mức đó → **đâu chỉ… / chẳng những không… mà ngược lại / đâu phải lúc để…**\n- **ところから** = từ điểm (đặc điểm) đó → **vì, căn cứ vào** (đặt tên, phán đoán).\n\n**Chỗ hay mất điểm**: わけがない ↔ わけではない ↔ わけにはいかない (ba mẫu na ná nhau nhưng nghĩa khác hẳn); どころではない có **hai** nghĩa (12課 mức độ ↔ 18課 không phải lúc); たところ (kết quả) ↔ たところだ (vừa mới) ↔ ところだった (suýt).",
+  "points": [
+    {
+      "id": "b31-1",
+      "pattern": "〜わけがない",
+      "reading": "〜わけがない",
+      "meaning": "Làm gì có chuyện…, không thể nào… (phủ định chắc chắn dựa trên lý lẽ)",
+      "structure": ["V・い形 普通形 ＋ わけがない", "な形 ＋ な／である ＋ わけがない", "N ＋ の／である ＋ わけがない", "Biến thể: わけはない; văn nói: わけない／わけないじゃない"],
+      "explain": "わけ = lý lẽ → 「わけがない」 = **không có lý nào** mà như thế được. Người nói khẳng định gần như 100% điều đó **không thể xảy ra / không đúng**, dựa trên một căn cứ rõ ràng (thường nêu ở vế trước). (Đã học ở 12課.)\n\n- 「{毎日|まいにち}{遊|あそ}んでばかりいる{彼|かれ}が{合格|ごうかく}するわけがない」 = suốt ngày chơi bời thế thì làm gì có chuyện đỗ.\n\nCách nhớ: **がない** = \"không có (lý)\" → phủ định **toàn bộ**.",
+      "nuance": "Thường là phán đoán về **người khác / sự việc**, ít dùng để nói về quyết định của chính mình (lúc đó dùng わけにはいかない). Giọng chắc chắn, có thể hơi gay gắt.",
+      "examples": [
+        {"ja": "{毎日|まいにち}{遊|あそ}んでばかりいる{彼|かれ}が、{試験|しけん}に{受|う}かるわけがない。", "vi": "Suốt ngày chỉ chơi bời thế thì làm gì có chuyện anh ta thi đỗ.", "note": "Vế trước là căn cứ"},
+        {"ja": "あの{真面目|まじめ}な{田中|たなか}さんが{嘘|うそ}をつくわけがない。", "vi": "Anh Tanaka nghiêm túc thế, không đời nào lại nói dối.", "note": ""},
+        {"ja": "{料理上手|りょうりじょうず}な{母|はは}が{作|つく}ったんだから、まずいわけがないよ。", "vi": "Mẹ nấu ăn giỏi thế mà làm thì làm gì có chuyện dở.", "note": "い形 ＋ わけがない"},
+        {"ja": "「この{仕事|しごと}、{一日|いちにち}で{終|お}わる？」「{終|お}わるわけないじゃない。{一週間|いっしゅうかん}はかかるよ。」", "vi": "\"Việc này một ngày xong không?\" — \"Xong sao được. Ít nhất cũng mất một tuần.\"", "note": "Văn nói: わけない(じゃない)"}
+      ],
+      "compare": [
+        {"with": "〜はずがない", "diff": "Gần như thay được cho nhau. 「はずがない」 thiên về **dựa trên thông tin / tính toán** (theo lịch thì không thể…); 「わけがない」 thiên về **lý lẽ, lẽ thường**."},
+        {"with": "〜わけではない (b31-2)", "diff": "「わけがない」 = **chắc chắn không**. 「わけではない」 = **không hẳn là** (phủ định một phần). 嫌いなわけがない = không thể nào ghét; 嫌いなわけではない = không phải là ghét (nhưng cũng không thích lắm)."},
+        {"with": "〜ものか (12課)", "diff": "「ものか」 cùng phủ định mạnh nhưng là **phản ứng cảm xúc**, văn nói; 「わけがない」 bình tĩnh, dựa lý lẽ hơn."}
+      ],
+      "mistakes": [
+        "✗ {熱|ねつ}があるので、{会社|かいしゃ}に{行|い}くわけがない。(muốn nói: tôi không thể đi) → ○ 行けない／行くわけにはいかない",
+        "✗ {静|しず}かわけがない → ○ 静か**な**わけがない"
+      ],
+      "tip": "Vế trước nêu căn cứ rõ (あんなに〜／〜ばかりいる／〜んだから) và câu phủ định chắc nịch về người khác → わけがない."
+    },
+    {
+      "id": "b31-2",
+      "pattern": "〜わけではない・〜というわけではない",
+      "reading": "〜わけではない・〜というわけではない",
+      "meaning": "Không hẳn là…, không phải là… (phủ định một phần)",
+      "structure": ["V・い形 普通形 ＋ わけではない", "な形 ＋ な／である ＋ わけではない", "N ＋ の／な／である ＋ わけではない", "普通形 (N・な形: だ có thể lược) ＋ というわけではない", "Văn nói: わけじゃない・ってわけじゃない"],
+      "explain": "Phủ định **điều người nghe có thể suy ra** từ tình huống, nhưng không phủ định hoàn toàn. 「{甘|あま}いものが{嫌|きら}いなわけではない」 = không phải là tôi ghét đồ ngọt (chỉ là đang kiêng). (Đã học ở 12課.)\n\nRất hay đi với: 全部・いつも・必ずしも・特に・別に・〜からといって.\n\n- 「というわけではない」 nhẹ hơn, giống \"cũng không hẳn là…\".",
+      "nuance": "Thường đi kèm vế giải thích (〜が、〜だけだ). Giọng mềm, dùng để đính chính, tránh hiểu lầm.",
+      "examples": [
+        {"ja": "{甘|あま}いものが{嫌|きら}いなわけではないが、{今|いま}はダイエット{中|ちゅう}なので{控|ひか}えている。", "vi": "Không phải tôi ghét đồ ngọt, chỉ là đang ăn kiêng nên hạn chế thôi.", "note": "な形 ＋ な ＋ わけではない"},
+        {"ja": "{値段|ねだん}の{高|たか}い{店|みせ}がいつもおいしいというわけではない。", "vi": "Không hẳn quán đắt lúc nào cũng ngon.", "note": "いつも〜というわけではない"},
+        {"ja": "{別|べつ}に{怒|おこ}っているわけじゃないよ。ちょっと{疲|つか}れているだけ。", "vi": "Có phải tôi giận đâu. Chỉ hơi mệt thôi.", "note": "別に〜わけじゃない (văn nói)"},
+        {"ja": "{毎日|まいにち}{残業|ざんぎょう}しているが、{仕事|しごと}が{嫌|いや}だというわけではない。", "vi": "Ngày nào cũng tăng ca, nhưng không phải là tôi ghét công việc.", "note": ""}
+      ],
+      "compare": [
+        {"with": "〜わけがない (b31-1)", "diff": "Phủ định **toàn bộ, chắc chắn** ↔ わけではない phủ định **một phần, đính chính**."},
+        {"with": "〜というものではない (12課, b30-2)", "diff": "「というものではない」 bác bỏ một **quy luật chung** \"cứ A là B\" (〜ばいいというものではない). 「わけではない」 đính chính một **suy luận cụ thể**."}
+      ],
+      "mistakes": [
+        "✗ {彼|かれ}が{嫌|きら}いなわけではないので、{一緒|いっしょ}に{行|い}かない。→ logic ngược; ○ 彼が嫌いなわけではないが、今日は一人で行きたい。"
+      ],
+      "tip": "Thấy 「別に／必ずしも／全部／いつも／〜からといって」 + câu đính chính → わけではない."
+    },
+    {
+      "id": "b31-3",
+      "pattern": "〜わけにはいかない・〜わけにもいかない",
+      "reading": "〜わけにはいかない・〜わけにもいかない",
+      "meaning": "Không thể… (vì lẽ thường, trách nhiệm, tình thế — không phải vì thiếu khả năng)",
+      "structure": ["V辞書形 ＋ わけにはいかない", "V辞書形 ＋ わけにもいかない (cũng không thể…)", "Nối câu: 〜わけにはいかず／〜わけにもいかず"],
+      "explain": "Về khả năng thì **làm được**, nhưng vì **đạo lý, trách nhiệm, quan hệ, hoàn cảnh** nên **không thể** làm. 「{車|くるま}で{来|き}たので、お{酒|さけ}を{飲|の}むわけにはいかない」 = đi xe đến nên không thể uống rượu. (Đã học ở 18課.)\n\n- 「わけにもいかない」: \"**cũng** không thể…\" — khi người nói đang bế tắc giữa hai lựa chọn đều không ổn.\n\nCách nhớ: \"không có **lý lẽ** nào cho phép (いかない = không đi được)\".",
+      "nuance": "Chủ ngữ thường là **chính người nói**, động từ phải là hành động có ý chí. Không dùng khi lý do là thiếu năng lực (✗ 泳げないから泳ぐわけにはいかない).",
+      "examples": [
+        {"ja": "{車|くるま}で{来|き}たので、お{酒|さけ}を{飲|の}むわけにはいかない。", "vi": "Tôi đi ô tô đến nên không thể uống rượu được.", "note": "Lý do: luật, lẽ thường"},
+        {"ja": "{友達|ともだち}から{預|あず}かった{手紙|てがみ}だから、{勝手|かって}に{開|あ}けるわけにはいかない。", "vi": "Thư bạn nhờ giữ hộ nên không thể tự ý bóc ra.", "note": "Lý do: đạo lý"},
+        {"ja": "{熱|ねつ}があるが、{今日|きょう}は{代|か}わりの{人|ひと}がいないので{休|やす}むわけにもいかない。", "vi": "Bị sốt, nhưng hôm nay không có người thay nên cũng không thể nghỉ.", "note": "わけにもいかない: bế tắc"},
+        {"ja": "{一度|いちど}{引|ひ}き{受|う}けた{以上|いじょう}、{途中|とちゅう}でやめるわけにはいかない。", "vi": "Một khi đã nhận rồi thì không thể bỏ ngang giữa chừng.", "note": "〜以上 ＋ わけにはいかない"}
+      ],
+      "compare": [
+        {"with": "〜できない／Vられない", "diff": "「できない」 = không có **khả năng**. 「わけにはいかない」 = có khả năng nhưng **không được phép làm** vì lý do xã hội, tâm lý."},
+        {"with": "〜ないわけにはいかない (25課, b31-4)", "diff": "Thêm ない → nghĩa đảo: **buộc phải làm**."}
+      ],
+      "mistakes": [
+        "✗ {泳|およ}げないので、{海|うみ}に{入|はい}るわけにはいかない。→ lý do là khả năng; ○ 泳げないので、海には入れない。",
+        "✗ {飲|の}んだわけにはいかない → ○ 飲むわけにはいかない (V辞書形)"
+      ],
+      "tip": "Vế trước nêu lý do trách nhiệm / quan hệ (〜から／〜以上／大事な〜) và chủ ngữ là người nói → わけにはいかない."
+    },
+    {
+      "id": "b31-4",
+      "pattern": "〜ないわけに(は)いかない",
+      "reading": "〜ないわけに(は)いかない",
+      "meaning": "Không thể không…, buộc phải… (vì nghĩa vụ, quan hệ, tình thế)",
+      "structure": ["Vない形 ＋ わけに(は)いかない", "Vない形 ＋ わけにもいかない", "Quá khứ: 〜ないわけにはいかなかった"],
+      "explain": "Phủ định của 「わけにはいかない」: **không làm thì không được** → buộc phải làm, dù có thể không muốn. 「{世話|せわ}になった{先輩|せんぱい}の{頼|たの}みだから、{引|ひ}き{受|う}けないわけにはいかない」. (Đã học ở 25課.)\n\nLý do thường là **quan hệ xã hội, nghĩa vụ, trách nhiệm**: người trên nhờ, việc mình gây ra, sự kiện quan trọng của người thân.",
+      "nuance": "Thường kèm cảm giác **miễn cưỡng** hoặc \"phải làm cho phải đạo\". Chủ ngữ là người nói.",
+      "examples": [
+        {"ja": "{世話|せわ}になった{先輩|せんぱい}の{頼|たの}みだから、{引|ひ}き{受|う}けないわけにはいかない。", "vi": "Là lời nhờ của đàn anh từng giúp mình nên không thể không nhận.", "note": "Quan hệ, ân tình"},
+        {"ja": "{明日|あした}は{試験|しけん}だから、{眠|ねむ}くても{勉強|べんきょう}しないわけにはいかない。", "vi": "Mai thi rồi nên dù buồn ngủ cũng phải học.", "note": ""},
+        {"ja": "{自分|じぶん}のミスで{迷惑|めいわく}をかけたのだから、{謝|あやま}らないわけにはいかない。", "vi": "Lỗi của mình gây phiền cho người ta nên không thể không xin lỗi.", "note": "Trách nhiệm"},
+        {"ja": "{子|こ}どもが{見|み}ているのだから、{親|おや}として{手本|てほん}を{見|み}せないわけにはいかない。", "vi": "Con đang nhìn nên với tư cách cha mẹ, phải làm gương thôi.", "note": "〜として ＋ ないわけにはいかない"}
+      ],
+      "compare": [
+        {"with": "〜ざるを得ない (25課)", "diff": "Nghĩa gần như nhau. 「ざるを得ない」 văn viết, nhấn \"không còn lựa chọn nào khác\" (thường do hoàn cảnh); 「ないわけにはいかない」 nhấn lý do **đạo lý, quan hệ**."},
+        {"with": "〜なければならない", "diff": "Nghĩa vụ trung tính. 「ないわけにはいかない」 có thêm sắc thái \"xét về tình về lý thì không thể không\"."}
+      ],
+      "mistakes": [
+        "✗ {出席|しゅっせき}しなくわけにはいかない → ○ 出席しないわけにはいかない"
+      ],
+      "tip": "Vế trước là quan hệ / nghĩa vụ (〜の頼みだから・招待されたから・自分のミスで) và chỗ trống sau Vない → ないわけにはいかない."
+    },
+    {
+      "id": "b31-5",
+      "pattern": "〜わけだ・〜というわけだ ＊",
+      "reading": "〜わけだ・〜というわけだ",
+      "meaning": "Thảo nào… / (Như vậy) tức là… / Đương nhiên là…",
+      "structure": ["V・い形 普通形 ＋ わけだ", "な形 ＋ な／である ＋ わけだ", "N ＋ の／な／である ＋ わけだ", "普通形 (N・な形: だ có thể lược) ＋ というわけだ", "Hay đi với: どうりで・なるほど・それで・つまり・ということは"],
+      "explain": "**Mẫu mới.** わけ = lý lẽ → 「わけだ」 = **theo lẽ tự nhiên thì kết quả là như vậy**. Người nói ghép thông tin A với kết quả B và thấy B là **đương nhiên**. Ba cách dùng:\n\n- **① Thảo nào** (biết lý do rồi nên hiểu kết quả): 「{窓|まど}が{開|あ}いていたのか。どうりで{寒|さむ}いわけだ」 = cửa sổ mở à, thảo nào lạnh.\n- **② Suy ra, tính ra**: 「{一日|いちにち}{二時間|にじかん}ずつ{五日|いつか}で、{十時間|じゅうじかん}{勉強|べんきょう}したわけだ」 = vậy là đã học 10 tiếng.\n- **③ Nói lại cho rõ / xác nhận** (thường là 「というわけだ」): 「つまり、{来月|らいげつ}から{値上|ねあ}げというわけですね」 = tức là từ tháng sau tăng giá, phải không.",
+      "nuance": "Phải có **căn cứ** (thông tin vừa nghe, con số, sự thật) ở ngữ cảnh trước. Không dùng cho dự đoán không có căn cứ. 「というわけだ」 hơi nhấn vào việc **tóm tắt / diễn đạt lại**.",
+      "examples": [
+        {"ja": "{毎晩|まいばん}{三時|さんじ}までゲームをしているの？それじゃ{朝|あさ}{起|お}きられないわけだ。", "vi": "Đêm nào cũng chơi game tới 3 giờ à? Thế thì thảo nào sáng không dậy nổi.", "note": "① thảo nào"},
+        {"ja": "{窓|まど}が{開|あ}いていたのか。どうりで{寒|さむ}いわけだ。", "vi": "Hoá ra cửa sổ mở. Thảo nào lạnh thế.", "note": "① どうりで〜わけだ"},
+        {"ja": "{一日|いちにち}{三十|さんじゅう}ページずつ{読|よ}めば、{十日|とおか}で{三百|さんびゃく}ページ{読|よ}めるわけだ。", "vi": "Mỗi ngày đọc 30 trang thì mười ngày sẽ đọc được 300 trang.", "note": "② tính ra"},
+        {"ja": "「{来月|らいげつ}から{在宅勤務|ざいたくきんむ}が{週三日|しゅうみっか}になります。」「つまり、{会社|かいしゃ}に{行|い}くのは{週二日|しゅうふつか}というわけですね。」", "vi": "\"Từ tháng sau làm ở nhà ba ngày một tuần.\" — \"Tức là chỉ lên công ty hai ngày một tuần, phải không ạ.\"", "note": "③ つまり〜というわけだ"},
+        {"ja": "{社長|しゃちょう}の{息子|むすこ}なのか。それで{若|わか}いのに{部長|ぶちょう}なわけだ。", "vi": "Hoá ra là con trai giám đốc. Thảo nào trẻ vậy mà đã làm trưởng phòng.", "note": "N ＋ な ＋ わけだ"}
+      ],
+      "compare": [
+        {"with": "〜はずだ", "diff": "Nghĩa ① gần như thay được (どうりで寒いはずだ). Nhưng 「はずだ」 còn dùng để **dự đoán trước** khi biết kết quả (彼はもうすぐ来るはずだ); 「わけだ」 không dùng để dự đoán, chỉ dùng khi đã có căn cứ và kết quả."},
+        {"with": "〜ということだ (b30-27)", "diff": "Nghĩa ③ \"tức là\" gần 「ということだ」. Nhưng 「ということだ」 còn nghĩa **nghe nói**, còn 「わけだ」 thì không."},
+        {"with": "〜わけがない (b31-1)", "diff": "「わけだ」 = đương nhiên là vậy; 「わけがない」 = đương nhiên **không** thể."}
+      ],
+      "mistakes": [
+        "✗ {明日|あした}はたぶん{雨|あめ}が{降|ふ}るわけだ。→ dự đoán không căn cứ; ○ 明日はたぶん雨が降るだろう。",
+        "✗ {静|しず}かだわけだ → ○ 静か**な**わけだ"
+      ],
+      "tip": "Có どうりで／なるほど／それで (thảo nào) hoặc つまり／ということは (tức là) hoặc phép tính → わけだ."
+    },
+    {
+      "id": "b31-6",
+      "pattern": "〜どころではない・〜どころか",
+      "reading": "〜どころではない・〜どころか",
+      "meaning": "Đâu chỉ ở mức… (mà còn hơn) / Chẳng những không… mà ngược lại…",
+      "structure": ["V・い形 普通形 ＋ どころではない／どころか", "な形 (な) ＋ どころではない／どころか", "N ＋ どころではない／どころか", "N1 どころか N2 も〜ない"],
+      "explain": "どころ = ところ = \"mức, chỗ\" → \"**không phải ở mức A**\". Ba hướng dùng: (Đã học ở 12課.)\n\n- **(a) Mức độ còn hơn A nhiều**: 「{寒|さむ}いどころではない。{凍|こお}えそうだ」 = lạnh gì mà lạnh, sắp chết cóng.\n- **(b) Ngược hẳn với A** (A là kỳ vọng): 「{雨|あめ}は{弱|よわ}まるどころか、ますます{強|つよ}くなった」 = mưa chẳng những không nhỏ đi mà ngược lại còn to hơn.\n- **(c) N1 どころか N2 も〜ない**: cái dễ hơn còn không được: 「{漢字|かんじ}どころか、ひらがなも{書|か}けない」.",
+      "nuance": "Mang sắc thái ngạc nhiên, cường điệu. 「どころか」 nối hai vế trong một câu; 「どころではない」 thường đứng cuối câu hoặc 「どころではなく」 nối câu.",
+      "examples": [
+        {"ja": "{雨|あめ}は{弱|よわ}まるどころか、ますます{激|はげ}しくなってきた。", "vi": "Mưa chẳng những không ngớt mà còn ngày càng dữ dội hơn.", "note": "(b) ngược với kỳ vọng"},
+        {"ja": "{手伝|てつだ}ってくれるどころか、{弟|おとうと}は{邪魔|じゃま}ばかりする。", "vi": "Thằng em chẳng giúp gì thì thôi, lại còn toàn phá đám.", "note": "(b)"},
+        {"ja": "{娘|むすめ}は{漢字|かんじ}どころか、ひらがなもまだ{書|か}けない。", "vi": "Con gái tôi đừng nói kanji, đến hiragana còn chưa viết được.", "note": "(c) N どころか N も〜ない"},
+        {"ja": "「{山|やま}の{上|うえ}は{寒|さむ}かった？」「{寒|さむ}いどころじゃないよ。{凍|こお}えるかと{思|おも}った。」", "vi": "\"Trên núi có lạnh không?\" — \"Lạnh gì mà lạnh, tưởng chết cóng luôn.\"", "note": "(a) どころじゃない (văn nói)"},
+        {"ja": "{弟|おとうと}の{部屋|へや}は{散|ち}らかっているどころではない。{床|ゆか}が{見|み}えないほどだ。", "vi": "Phòng em trai tôi đâu chỉ là bừa bộn. Bừa đến mức không thấy sàn nhà.", "note": "(a) mức độ vượt xa — どころではない cuối câu"}
+      ],
+      "compare": [
+        {"with": "〜どころではない (18課, b31-7)", "diff": "18課: 「V／N ＋ どころではない」 = **không phải lúc / không có điều kiện để làm** (忙しくて旅行どころではない). 12課: so sánh **mức độ** hoặc **đảo ngược**. Mẹo: nếu thay bằng 「〜できる状況ではない」 mà câu vẫn ổn → 18課."},
+        {"with": "〜ばかりか (6課)", "diff": "「ばかりか」 = không chỉ A mà còn B, **cùng chiều**. 「どころか」 thường mang ý **ngược chiều / vượt xa** kỳ vọng."}
+      ],
+      "mistakes": [
+        "✗ {彼|かれ}は{優|やさ}しいどころか、{親切|しんせつ}だ。→ hai vế cùng chiều, không có gì vượt xa / đảo ngược; ○ 彼は優しいうえに、親切だ。"
+      ],
+      "tip": "Vế sau có 「ますます」「逆に」「かえって」 hoặc 「〜も〜ない」 → どころか. Vế sau là mức độ cường điệu (凍えそう) → どころではない (a)."
+    },
+    {
+      "id": "b31-7",
+      "pattern": "〜どころではない (18課)",
+      "reading": "〜どころではない",
+      "meaning": "Không phải lúc để…, không còn tâm trí / điều kiện để…",
+      "structure": ["V辞書形 ＋ どころではない", "N ＋ どころではない", "Nối câu: 〜どころではなく", "Văn nói: 〜どころじゃない／それどころじゃない"],
+      "explain": "Vì đang có một **chuyện lớn hơn** (bận, ốm, lo, sự cố) nên **không ở trong tình trạng** có thể làm A — dù A là việc bình thường hoặc đang mong. 「{来週|らいしゅう}{試験|しけん}だから、{今|いま}は{遊|あそ}ぶどころではない」 = tuần sau thi rồi, giờ đâu phải lúc chơi. (Đã học ở 18課.)\n\nCâu cửa miệng: 「それどころじゃない！」 = giờ không phải lúc cho chuyện đó!",
+      "nuance": "Lý do thường được nêu ngay trước (〜て／〜ので). A thường là việc vui / bình thường: 旅行, 花見, 勉強, 食事, 仕事.",
+      "examples": [
+        {"ja": "{来週|らいしゅう}{試験|しけん}があるので、{今|いま}は{遊|あそ}びに{行|い}くどころではない。", "vi": "Tuần sau có kỳ thi nên giờ đâu phải lúc đi chơi.", "note": "V辞書形 ＋ どころではない"},
+        {"ja": "{隣|となり}の{工事|こうじ}の{音|おと}がうるさくて、{勉強|べんきょう}どころではない。", "vi": "Tiếng công trình bên cạnh ồn quá, học hành gì nổi.", "note": "N ＋ どころではない"},
+        {"ja": "{花見|はなみ}に{行|い}ったが、{人|ひと}が{多|おお}すぎて{花|はな}を{見|み}るどころではなかった。", "vi": "Đi ngắm hoa nhưng người đông quá, chẳng ngắm được hoa gì cả.", "note": ""},
+        {"ja": "「{週末|しゅうまつ}、{映画|えいが}でもどう？」「ごめん、{締|し}め{切|き}り{前|まえ}でそれどころじゃないんだ。」", "vi": "\"Cuối tuần đi xem phim không?\" — \"Xin lỗi, sắp hạn chót rồi, giờ đâu phải lúc.\"", "note": "それどころじゃない"}
+      ],
+      "compare": [
+        {"with": "〜どころではない・〜どころか (12課, b31-6)", "diff": "12課 so sánh **mức độ / đảo ngược**; 18課 nói **không có điều kiện để làm**. 18課 hay có lý do khó khăn đi trước (忙しくて・病気で)."},
+        {"with": "〜わけにはいかない (18課)", "diff": "「わけにはいかない」 = không được làm vì **đạo lý / trách nhiệm**. 「どころではない」 = không làm nổi vì **hoàn cảnh quá bận, quá rối**."}
+      ],
+      "mistakes": [
+        "✗ {忙|いそが}しくて{旅行|りょこう}するどころか。→ thiếu vế sau; ○ 忙しくて旅行するどころではない。"
+      ],
+      "tip": "Vế trước là khó khăn (忙しい・病気・騒がしい) + một hoạt động bình thường / vui trước chỗ trống → どころではない (18課)."
+    },
+    {
+      "id": "b31-8",
+      "pattern": "〜たところ",
+      "reading": "〜たところ",
+      "meaning": "(Thử) làm… thì (phát hiện ra / kết quả là)…",
+      "structure": ["Vた形 ＋ ところ、〜た", "Hay gặp: 〜てみたところ・問い合わせたところ・相談したところ・調べたところ"],
+      "explain": "A là hành động người nói **làm có chủ đích** (hỏi, thử, kiểm tra, nhờ…); B là **kết quả / điều phát hiện ra** sau đó, ở thể quá khứ. 「{店|みせ}に{問|と}い{合|あ}わせたところ、{在庫|ざいこ}があるとのことだった」. (Đã học ở 20課.)\n\nCách nhớ: ところ = \"thời điểm\" → \"**vào lúc** tôi làm A thì (thấy) B\".",
+      "nuance": "Văn hơi trang trọng, hợp báo cáo, email. B là sự việc ngoài tầm kiểm soát của người nói (kết quả, phản hồi), **không** phải ý chí, mệnh lệnh; không dùng cho thói quen hay tương lai.",
+      "examples": [
+        {"ja": "{駅員|えきいん}に{聞|き}いたところ、{電車|でんしゃ}は{十分|じゅっぷん}ほど{遅|おく}れているということだった。", "vi": "Hỏi nhân viên nhà ga thì được biết tàu đang trễ khoảng 10 phút.", "note": "Hỏi → thông tin nhận được"},
+        {"ja": "{新|あたら}しいシャンプーを{使|つか}ってみたところ、{髪|かみ}がさらさらになった。", "vi": "Dùng thử dầu gội mới thì tóc trở nên mượt hẳn.", "note": "〜てみたところ"},
+        {"ja": "{部長|ぶちょう}に{企画書|きかくしょ}を{見|み}せたところ、すぐに{許可|きょか}が{出|で}た。", "vi": "Đưa bản kế hoạch cho trưởng phòng xem thì được duyệt ngay.", "note": ""},
+        {"ja": "{久|ひさ}しぶりに{実家|じっか}に{電話|でんわ}したところ、{父|ちち}が{入院|にゅういん}していることがわかった。", "vi": "Lâu lắm mới gọi điện về nhà thì mới biết bố đang nằm viện.", "note": "B là phát hiện bất ngờ"}
+      ],
+      "compare": [
+        {"with": "〜たら (phát hiện)", "diff": "「たら」 cũng dùng được (聞いたら…) và rộng hơn, văn nói. 「たところ」 trang trọng hơn, chỉ dùng cho **kết quả đã xảy ra**."},
+        {"with": "Vたところだ／Vたところで", "diff": "「Vたところだ」 = **vừa mới** làm xong (今帰ったところだ). 「Vたところで」 = **dù có** làm cũng vô ích (今から急いだところで間に合わない). Ba dạng khác hẳn nhau."}
+      ],
+      "mistakes": [
+        "✗ {家|いえ}に{帰|かえ}ったところ、{母|はは}に{電話|でんわ}しよう。→ vế sau là ý chí; ○ 家に帰ったら、母に電話しよう。",
+        "✗ {毎朝|まいあさ}コーヒーを{飲|の}んだところ、{目|め}が{覚|さ}める。→ thói quen; ○ 毎朝コーヒーを飲むと、目が覚める。"
+      ],
+      "tip": "Vế trước là hành động hỏi / thử / kiểm tra ở thể た, vế sau là kết quả ở thể た → たところ."
+    },
+    {
+      "id": "b31-9",
+      "pattern": "〜ところだった",
+      "reading": "〜ところだった",
+      "meaning": "Suýt nữa thì… (nhưng may là không xảy ra)",
+      "structure": ["V辞書形 ＋ ところだった", "Vない形 ＋ ところだった", "Hay đi với: もう少しで・危うく・うっかり; hoặc điều kiện 〜たら／〜ば／〜なければ"],
+      "explain": "Đã ở **ngay sát điểm** xảy ra một việc (thường là xấu) nhưng **cuối cùng không xảy ra**. 「もう{少|すこ}しで{電車|でんしゃ}に{乗|の}り{遅|おく}れるところだった」 = suýt nữa thì lỡ tàu. (Đã học ở 20課.)\n\nCách nhớ: ところ = \"điểm\" + だった (quá khứ) → \"đã đứng ngay ở điểm đó\".\n\nHay đi kèm giả định: 「{教|おし}えてくれなかったら、{忘|わす}れるところだった」 = nếu không được nhắc thì suýt quên.",
+      "nuance": "Thường là chuyện xấu được tránh trong gang tấc, kèm cảm giác **thở phào**. Cũng dùng cho chuyện tốt suýt có được: 「{優勝|ゆうしょう}できるところだったのに」 (tiếc nuối).",
+      "examples": [
+        {"ja": "{寝坊|ねぼう}して、もう{少|すこ}しで{飛行機|ひこうき}に{乗|の}り{遅|おく}れるところだった。", "vi": "Ngủ quên, suýt nữa thì lỡ chuyến bay.", "note": "もう少しで〜ところだった"},
+        {"ja": "{危|あや}うく{大事|だいじ}なデータを{全部|ぜんぶ}{消|け}してしまうところだった。", "vi": "Suýt chút nữa là xoá sạch dữ liệu quan trọng.", "note": "危うく〜ところだった"},
+        {"ja": "{友達|ともだち}が{教|おし}えてくれなかったら、{締|し}め{切|き}りを{忘|わす}れるところだった。", "vi": "Nếu bạn không nhắc thì tôi đã quên mất hạn chót rồi.", "note": "〜なかったら ＋ ところだった"},
+        {"ja": "あと{一点|いってん}で{優勝|ゆうしょう}できるところだったのに、{本当|ほんとう}に{悔|くや}しい。", "vi": "Chỉ thiếu một điểm nữa là vô địch, thật là tiếc.", "note": "Chuyện tốt suýt có: 〜ところだったのに"}
+      ],
+      "compare": [
+        {"with": "〜そうになった", "diff": "「転びそうになった」 = suýt ngã — thường cho **động tác, phản ứng cơ thể** tức thời. 「ところだった」 rộng hơn, hay đi với tình huống, hậu quả (lỡ tàu, quên hạn)."},
+        {"with": "V辞書形 ＋ ところだ", "diff": "「出かけるところだ」 = **sắp** đi (hiện tại). 「ところだった」 = **suýt** (quá khứ, cuối cùng không xảy ra)."}
+      ],
+      "mistakes": [
+        "✗ もう{少|すこ}しで{遅刻|ちこく}したところだった。→ ○ 遅刻するところだった (V辞書形)"
+      ],
+      "tip": "Có もう少しで／危うく／〜なかったら và vế sau là chuyện xấu đã tránh được → ところだった."
+    },
+    {
+      "id": "b31-10",
+      "pattern": "〜ところから・〜ことから ＊",
+      "reading": "〜ところから・〜ことから",
+      "meaning": "Từ chỗ…, vì… (căn cứ để đặt tên, để phán đoán, khởi nguồn sự việc)",
+      "structure": ["V・い形 普通形 ＋ ところから／ことから", "な形 ＋ な／である ＋ ところから／ことから", "N ＋ である ＋ ところから／ことから", "Vế sau hay gặp: 〜と呼ばれる・〜という名前がついた・〜とわかった・〜と考えられる"],
+      "explain": "**Mẫu mới.** Nêu **căn cứ khách quan** (một đặc điểm, một sự thật) dẫn tới vế sau. Ba tình huống điển hình:\n\n- **Đặt tên / gọi tên**: 「{形|かたち}が{亀|かめ}に{似|に}ているところから、「{亀島|かめじま}」と{呼|よ}ばれている」.\n- **Phán đoán**: 「{指紋|しもん}が{一致|いっち}したことから、{犯人|はんにん}だとわかった」.\n- **Khởi nguồn của một sự việc**: 「{席|せき}が{隣|となり}だったことから、{親|した}しくなった」 = nhờ ngồi cạnh nhau mà thân nhau.\n\nCách nhớ: ところ／こと = \"điểm / sự việc\" + から = \"**xuất phát từ** điểm đó\".",
+      "nuance": "Văn viết, giọng giải thích (bách khoa, tin tức, hướng dẫn du lịch). Vế sau là **kết quả, nhận định khách quan**, không là ý chí, mệnh lệnh, rủ rê. 「ところから」 đặc biệt hay dùng cho **nguồn gốc tên gọi**; 「ことから」 dùng rộng hơn.",
+      "examples": [
+        {"ja": "この{島|しま}は{形|かたち}が{亀|かめ}に{似|に}ているところから、「{亀島|かめじま}」と{呼|よ}ばれている。", "vi": "Hòn đảo này có hình dáng giống con rùa nên được gọi là \"đảo Rùa\".", "note": "Đặt tên"},
+        {"ja": "この{地区|ちく}は、{昔|むかし}{塩|しお}を{作|つく}っていたことから「{塩田町|しおたまち}」と{名付|なづ}けられた。", "vi": "Khu vực này ngày xưa làm muối nên được đặt tên là \"phường Ruộng Muối\".", "note": "Đặt tên (ことから)"},
+        {"ja": "{道路|どうろ}に{長|なが}いブレーキの{跡|あと}が{残|のこ}っていたことから、{事故|じこ}の{原因|げんいん}はスピードの{出|だ}しすぎだと{考|かんが}えられている。", "vi": "Từ việc trên đường còn vết phanh dài, người ta cho rằng nguyên nhân tai nạn là chạy quá tốc độ.", "note": "Phán đoán"},
+        {"ja": "{大学|だいがく}で{隣|となり}の{席|せき}になったことから、{二人|ふたり}の{交流|こうりゅう}が{始|はじ}まった。", "vi": "Từ chỗ ngồi cạnh nhau ở trường đại học mà hai người bắt đầu qua lại.", "note": "Khởi nguồn sự việc"}
+      ],
+      "compare": [
+        {"with": "〜から／〜ので", "diff": "Lý do chung, vế sau tự do (kể cả ý chí, mệnh lệnh). 「ところから／ことから」 chỉ nêu **căn cứ khách quan** dẫn tới kết quả / nhận định."},
+        {"with": "〜ことに (b30-25)", "diff": "「ことに」 đi sau từ **cảm xúc** (驚いたことに); 「ことから」 đi sau **sự thật làm căn cứ**."}
+      ],
+      "mistakes": [
+        "✗ {雨|あめ}が{降|ふ}りそうなことから、{傘|かさ}を{持|も}って{行|い}きなさい。→ vế sau là mệnh lệnh; ○ 雨が降りそうだから、傘を持って行きなさい。"
+      ],
+      "tip": "Vế sau có 「〜と呼ばれる／〜という名がついた／〜とわかった／〜と考えられる」 → ところから／ことから."
+    }
+  ],
+  "summary": [
+    {"pattern": "〜わけがない", "meaning": "không thể nào…", "key": "phủ định toàn bộ, có căn cứ; 12課"},
+    {"pattern": "〜わけではない・〜というわけではない", "meaning": "không hẳn là…", "key": "phủ định một phần; 別に・必ずしも・からといって"},
+    {"pattern": "〜わけにはいかない・〜わけにもいかない", "meaning": "không thể làm (vì đạo lý)", "key": "V辞書形; làm được nhưng không được phép; 18課"},
+    {"pattern": "〜ないわけに(は)いかない", "meaning": "không thể không…, buộc phải", "key": "Vない; quan hệ, nghĩa vụ; 25課"},
+    {"pattern": "〜わけだ・〜というわけだ ＊", "meaning": "thảo nào / tức là", "key": "どうりで・なるほど・つまり; phải có căn cứ"},
+    {"pattern": "〜どころではない・〜どころか (12課)", "meaning": "đâu chỉ… / chẳng những không… mà ngược lại", "key": "mức độ vượt xa / đảo ngược; N どころか N も〜ない"},
+    {"pattern": "〜どころではない (18課)", "meaning": "đâu phải lúc để…", "key": "lý do khó khăn + hoạt động bình thường; それどころじゃない"},
+    {"pattern": "〜たところ", "meaning": "làm… thì (kết quả)…", "key": "Vた + ところ + kết quả thể た; không ý chí"},
+    {"pattern": "〜ところだった", "meaning": "suýt nữa thì…", "key": "V辞書形; もう少しで・危うく"},
+    {"pattern": "〜ところから・〜ことから ＊", "meaning": "vì, từ chỗ… (căn cứ)", "key": "đặt tên, phán đoán; văn viết"},
+    {"pattern": "So sánh: わけがない ↔ わけではない ↔ わけにはいかない", "meaning": "không thể nào ↔ không hẳn ↔ không được phép làm", "key": "phán đoán ↔ đính chính ↔ ý chí bị ràng buộc"},
+    {"pattern": "So sánh: たところ ↔ たところだ ↔ ところだった", "meaning": "làm thì… ↔ vừa mới ↔ suýt", "key": "kết quả ↔ thời điểm ↔ tránh được trong gang tấc"}
+  ],
+  "quiz": [
+    {"id": "b31-q1", "kind": "form", "ref": "b31-1", "q": "{一度|いちど}も{練習|れんしゅう}に{来|こ}なかった{彼|かれ}が、レギュラーに{選|えら}ばれる（　　）。", "options": ["わけがない", "わけではない", "わけにはいかない", "わけだ"], "answer": 0, "vi": "Anh ta chưa đến buổi tập nào, làm gì có chuyện được chọn vào đội hình chính.", "why": "Vế trước là căn cứ rõ ràng → phủ định chắc chắn **わけがない**. 「わけではない」 = không hẳn là — quá yếu, không khớp căn cứ mạnh; 「わけにはいかない」 cần hành động có ý chí của chủ thể, 「選ばれる」 là bị động; 「わけだ」 = thảo nào được chọn — trái logic."},
+    {"id": "b31-q2", "kind": "form", "ref": "b31-2", "q": "{料理|りょうり}が{嫌|きら}いな（　　）が、{仕事|しごと}が{忙|いそが}しくて{作|つく}る{時間|じかん}がないのだ。", "options": ["わけがない", "わけにはいかない", "わけではない", "ところだった"], "answer": 2, "vi": "Không phải là tôi ghét nấu ăn, chỉ là công việc bận nên không có thời gian nấu.", "why": "Đính chính một suy luận (không nấu → chắc ghét nấu) rồi giải thích lý do thật → **わけではない**. 「わけがない」 phủ định chắc nịch, không hợp với cấu trúc \"〜が、(lý do thật)\"; 「わけにはいかない」 cần V辞書形 có ý chí; 「嫌いなところだった」 = suýt ghét — vô nghĩa."},
+    {"id": "b31-q3", "kind": "form", "ref": "b31-3", "q": "この{書類|しょるい}は{会社|かいしゃ}の{機密|きみつ}なので、たとえ{家族|かぞく}でも{見|み}せる（　　）。", "options": ["わけだ", "わけにはいかない", "わけではない", "ところだった"], "answer": 1, "vi": "Tài liệu này là bí mật công ty nên dù là người nhà tôi cũng không thể cho xem.", "why": "Có khả năng cho xem nhưng vì trách nhiệm (機密) nên không được → **わけにはいかない**. 「見せるわけだ」 = thảo nào cho xem — trái nghĩa; 「わけではない」 = không hẳn là cho xem — không khớp với 「たとえ〜でも」; 「見せるところだった」 = suýt cho xem — không hợp với lý do 「ので」 ở hiện tại."},
+    {"id": "b31-q4", "kind": "form", "ref": "b31-5", "q": "「{田中|たなか}さん、{先月|せんげつ}まで{五年間|ごねんかん}ロンドンに{住|す}んでいたそうですよ。」「なるほど、{英語|えいご}が{上手|じょうず}な（　　）。」", "options": ["わけがない", "わけにはいかない", "ところだ", "わけだ"], "answer": 3, "vi": "\"Nghe nói anh Tanaka sống ở London 5 năm, tới tận tháng trước.\" — \"Ra vậy, thảo nào tiếng Anh giỏi thế.\"", "why": "「なるほど」 + vừa biết lý do → thảo nào **わけだ**. 「わけがない」 trái ngược với thông tin vừa nghe; 「わけにはいかない」 cần V辞書形 có ý chí; 「上手なところだ」 không phải cách nói đúng."},
+    {"id": "b31-q5", "kind": "form", "ref": "b31-6", "q": "{節約|せつやく}のつもりで{自炊|じすい}を{始|はじ}めたが、{食費|しょくひ}は{減|へ}る（　　）、{前|まえ}より{増|ふ}えてしまった。", "options": ["ところで", "わけにはいかず", "どころか", "ところから"], "answer": 2, "vi": "Bắt đầu tự nấu ăn để tiết kiệm, nhưng tiền ăn chẳng những không giảm mà còn tăng hơn trước.", "why": "Kết quả **ngược** với kỳ vọng (減る ↔ 増えた) → **どころか**. 「減るところで」 sai hình thức (〜たところで mới là \"dù có\"); 「わけにはいかず」 cần hành động có ý chí, 「減る」 không phải; 「ところから」 nêu căn cứ khách quan, không diễn tả sự đảo ngược."},
+    {"id": "b31-q6", "kind": "form", "ref": "b31-8", "q": "{駅|えき}の{忘|わす}れ{物|もの}センターに{問|と}い{合|あ}わせた（　　）、{財布|さいふ}が{届|とど}いていた。", "options": ["ところ", "ところだった", "どころか", "わけに"], "answer": 0, "vi": "Hỏi trung tâm đồ thất lạc của nhà ga thì thấy ví đã được gửi tới đó.", "why": "Hành động hỏi (問い合わせた) + kết quả phát hiện ở thể た → **たところ**. 「ところだった」 = suýt — phải đứng cuối và đi với V辞書形; 「どころか」 diễn tả đảo ngược; 「わけに」 không đứng một mình."},
+    {"id": "b31-q7", "kind": "form", "ref": "b31-10", "q": "この{坂|さか}は、{昔|むかし}{狐|きつね}がよく{出|で}た（　　）「{狐坂|きつねざか}」と{呼|よ}ばれるようになった。", "options": ["どころか", "ところから", "ところだった", "わけには"], "answer": 1, "vi": "Con dốc này ngày xưa hay có cáo xuất hiện, từ đó mà được gọi là \"dốc Cáo\".", "why": "Vế sau là tên gọi 「〜と呼ばれる」, vế trước là căn cứ → **ところから**. 「どころか」 diễn tả đảo ngược / vượt mức; 「ところだった」 = suýt, đứng cuối câu; 「わけには」 phải đi với 「いかない」."}
+  ],
+  "practice": [
+    {"id": "b31-p1", "kind": "form", "ref": "b31-4", "q": "{恩師|おんし}の{退職|たいしょく}パーティーなので、{遠|とお}くても{出席|しゅっせき}し（　　）。", "options": ["ないわけではない", "ないわけにはいかない", "ないどころではない", "ないところだった"], "answer": 1, "vi": "Là tiệc chia tay nghỉ hưu của thầy cũ nên dù xa cũng không thể không dự.", "why": "Quan hệ, ân tình (恩師) → nghĩa vụ phải làm **ないわけにはいかない**. 「ないわけではない」 = không phải là không dự — đính chính yếu ớt, không khớp với 「なので」 và 「〜ても」; 「ないどころではない」 không phải mẫu đúng; 「ないところだった」 = suýt không dự — sai thì và sai ngữ cảnh."},
+    {"id": "b31-p2", "kind": "form", "ref": "b31-7", "q": "{子|こ}どもが{急|きゅう}に{入院|にゅういん}して、{正月|しょうがつ}の{旅行|りょこう}（　　）。", "options": ["というわけではなかった", "のところだった", "のわけがなかった", "どころではなかった"], "answer": 3, "vi": "Con đột ngột phải nhập viện, nên đâu còn tâm trí nào cho chuyến du lịch Tết.", "why": "Lý do khó khăn (入院) + hoạt động vui (旅行) → **どころではなかった** (18課). 「というわけではなかった」 = không hẳn là du lịch — vô nghĩa ở đây; 「のところだった」「のわけがなかった」 không phải cách nói tự nhiên với danh từ 旅行 và không diễn tả \"không có điều kiện để làm\"."},
+    {"id": "b31-p3", "kind": "form", "ref": "b31-9", "q": "{雨|あめ}で{濡|ぬ}れた{階段|かいだん}で{足|あし}を{滑|すべ}らせて、{危|あや}うく{下|した}まで{落|お}ちる（　　）。", "options": ["ところだった", "どころではなかった", "わけではなかった", "ところから"], "answer": 0, "vi": "Trượt chân trên cầu thang ướt mưa, suýt nữa thì ngã lăn xuống tận dưới.", "why": "「危うく」 + chuyện xấu được tránh trong gang tấc → **ところだった**. 「落ちるどころではなかった」 = không phải lúc để ngã — vô nghĩa; 「落ちるわけではなかった」 = không hẳn là ngã — không đi với 危うく; 「ところから」 cần vế sau."},
+    {"id": "b31-p4", "kind": "form", "ref": "b31-5", "q": "{一日|いちにち}に{二十分|にじゅっぷん}ずつ{歩|ある}けば、{一週間|いっしゅうかん}で{二時間|にじかん}{以上|いじょう}{歩|ある}く（　　）。", "options": ["わけがない", "わけにはいかない", "わけだ", "どころではない"], "answer": 2, "vi": "Mỗi ngày đi bộ 20 phút thì một tuần sẽ là hơn hai tiếng.", "why": "Phép tính (20 phút × 7 ngày) → suy ra kết quả **わけだ**. 「わけがない」 phủ định trái với phép tính; 「わけにはいかない」 = không được phép đi bộ — vô lý; 「どころではない」 = không phải lúc đi bộ — trái nghĩa."},
+    {"id": "b31-p5", "kind": "usage", "ref": "b31-1", "q": "「〜わけがない」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["子どもが熱を出したので、会社を休むわけがない。", "この服は高かったわけがないが、とても気に入っている。", "あの店はいつも行列ができているから、まずいわけがない。", "雨が降ったわけがないので、試合は中止になった。"], "answer": 2, "vi": "(3) Quán đó lúc nào cũng xếp hàng dài, nên không thể nào dở được.", "why": "(3) căn cứ (いつも行列) → phủ định chắc chắn → đúng. (1) con ốm thì càng phải nghỉ — logic ngược; muốn nói \"buộc phải\" thì 休まないわけにはいかない. (2) cấu trúc đính chính 〜が、気に入っている cần 「高かったわけではないが」. (4) vế lý do mâu thuẫn với kết quả \"trận đấu bị huỷ\"."},
+    {"id": "b31-p6", "kind": "form", "ref": "b31-6", "q": "{彼|かれ}の{日本語|にほんご}は{上手|じょうず}（　　）、{今|いま}では{通訳|つうやく}の{仕事|しごと}までしているそうだ。", "options": ["どころではなく", "なわけではなく", "なところで", "なわけがなく"], "answer": 0, "vi": "Tiếng Nhật của anh ấy đâu chỉ là giỏi, nghe nói giờ còn làm cả phiên dịch.", "why": "Mức độ vượt xa \"giỏi\" (đến mức làm phiên dịch, có 「まで」) → **どころではなく** (12課 nghĩa a). 「なわけではなく」 = không hẳn là giỏi — mâu thuẫn với vế sau; 「なところで」 vô nghĩa; 「なわけがなく」 = không thể nào giỏi — mâu thuẫn."},
+    {"id": "b31-p7", "kind": "order", "ref": "b31-8", "q": "{店|みせ}に ＿＿＿ ＿＿＿ ★ ＿＿＿ もう{売|う}り{切|き}れだった。", "options": ["その商品は", "みた", "ところ", "問い合わせて"], "order": [3, 1, 2, 0], "answer": 2, "vi": "Thử hỏi cửa hàng thì món hàng đó đã bán hết rồi.", "why": "店に **問い合わせて みた ところ その商品は** もう売り切れだった → ★ (ô thứ 3) = 「ところ」. 「〜てみた＋ところ」 là một khối; chủ ngữ của vế kết quả 「その商品は」 đứng sau."},
+    {"id": "b31-p8", "kind": "form", "ref": "b31-3", "q": "{上司|じょうし}に{誘|さそ}われたので、{疲|つか}れていたが{断|ことわ}る（　　）、{最後|さいご}まで{付|つ}き{合|あ}った。", "options": ["わけだから", "わけにもいかず", "わけではなく", "ところから"], "answer": 1, "vi": "Được sếp rủ nên dù mệt tôi cũng không thể từ chối, đành đi cùng tới cuối.", "why": "Quan hệ trên–dưới khiến không thể từ chối dù mệt → **わけにもいかず**. 「断るわけだから」 = vì đương nhiên là từ chối — mâu thuẫn với 最後まで付き合った; 「わけではなく」 = không phải là từ chối — đính chính vô lý ở đây; 「ところから」 nêu căn cứ khách quan, không diễn tả sự miễn cưỡng."},
+    {"id": "b31-p9", "kind": "form", "ref": "b31-10", "q": "{彼|かれ}の{話|はな}し{方|かた}に{関西|かんさい}のなまりがある（　　）、{大阪|おおさか}の{出身|しゅっしん}だとわかった。", "options": ["ことから", "わけには", "ところだった", "どころか"], "answer": 0, "vi": "Từ việc giọng nói anh ấy có âm điệu vùng Kansai, tôi biết anh ấy là người Osaka.", "why": "Căn cứ khách quan (なまり) → phán đoán 「〜とわかった」 → **ことから**. 「わけには」 phải đi với いかない; 「ところだった」 = suýt, đứng cuối câu; 「どころか」 diễn tả đảo ngược, không hợp."},
+    {"id": "b31-p10", "kind": "order", "ref": "b31-2", "q": "{毎日|まいにち}{忙|いそが}しいが、 ＿＿＿ ＿＿＿ ★ ＿＿＿ 。", "options": ["わけではない", "休めない", "全然", "という"], "order": [2, 1, 3, 0], "answer": 3, "vi": "Ngày nào cũng bận, nhưng không hẳn là hoàn toàn không nghỉ được.", "why": "毎日忙しいが、**全然 休めない という わけではない** → ★ (ô thứ 3) = 「という」. 「全然」 bổ nghĩa cho 「休めない」; khối 「という＋わけではない」 đứng cuối."},
+    {"id": "b31-p11", "kind": "form", "ref": "b31-6", "q": "{彼|かれ}は{謝|あやま}る（　　）、「お{前|まえ}が{悪|わる}い」と{逆|ぎゃく}に{怒|おこ}り{出|だ}した。", "options": ["ところから", "どころか", "ところで", "わけだ"], "answer": 1, "vi": "Anh ta chẳng những không xin lỗi mà ngược lại còn nổi giận \"tại mày đấy\".", "why": "「逆に」 → hành động ngược với kỳ vọng (xin lỗi) → **どころか**. 「謝るところから」 = từ chỗ xin lỗi — mâu thuẫn; 「謝るところで」 sai hình thức (phải là 謝ったところで = dù có xin lỗi); 「わけだ」 đứng giữa câu như vậy là sai."},
+    {"id": "b31-p12", "kind": "form", "ref": "b31-4", "q": "{部長|ぶちょう}に{直接|ちょくせつ}{頼|たの}まれた{仕事|しごと}だから、やらない（　　）。", "options": ["わけにはいかない", "わけがある", "どころではない", "ところだった"], "answer": 0, "vi": "Là việc trưởng phòng trực tiếp giao nên không thể không làm.", "why": "Người trên trực tiếp nhờ → nghĩa vụ **ないわけにはいかない**. 「やらないわけがある」 không phải cách nói đúng (chỉ có dạng hỏi ngược わけがあるか); 「やらないどころではない」 không phải mẫu đúng; 「やらないところだった」 = suýt không làm — không hợp với 「だから」 ở hiện tại."}
+  ],
+  "test": [
+    {"id": "b31-t1", "kind": "form", "ref": "b31-1", "q": "こんな{簡単|かんたん}な{計算|けいさん}を、{専門家|せんもんか}の{彼|かれ}が{間違|まちが}える（　　）。", "options": ["わけだ", "わけがない", "どころではない", "わけではない"], "answer": 1, "vi": "Phép tính đơn giản thế này, anh ấy là chuyên gia, làm gì có chuyện tính sai.", "why": "Căn cứ (簡単な + 専門家) → phủ định chắc chắn **わけがない**. 「わけだ」 = thảo nào tính sai — trái với căn cứ; 「どころではない」 = không phải lúc để tính sai — vô nghĩa; 「わけではない」 = không hẳn là tính sai — câu không có gì để đính chính."},
+    {"id": "b31-t2", "kind": "form", "ref": "b31-5", "q": "「{実|じつ}は{彼|かれ}、{元|もと}プロの{料理人|りょうりにん}なんです。」「だからあんなに{包丁|ほうちょう}の{使|つか}い{方|かた}がうまい（　　）ね。」", "options": ["というわけです", "わけにはいきません", "どころではありません", "ところでした"], "answer": 0, "vi": "\"Thật ra anh ấy từng là đầu bếp chuyên nghiệp đấy.\" — \"Thảo nào anh ấy dùng dao khéo đến vậy nhỉ.\"", "why": "「だから」 + hiểu ra kết quả từ thông tin vừa nghe → **というわけです** (thảo nào). 「うまいわけにはいきません」 = không được phép khéo — vô nghĩa; 「うまいどころではありません」 = đâu chỉ là khéo — không khớp với 「だから〜ね」 (xác nhận lý do); 「うまいところでした」 = suýt khéo — vô nghĩa."},
+    {"id": "b31-t3", "kind": "form", "ref": "b31-7", "q": "{電車|でんしゃ}の{中|なか}で{財布|さいふ}をなくしてしまい、{楽|たの}しく{食事|しょくじ}をする（　　）。", "options": ["わけだった", "ところから", "わけがあった", "どころではなかった"], "answer": 3, "vi": "Bị mất ví trên tàu, nên đâu còn tâm trạng nào mà ăn uống vui vẻ.", "why": "Sự cố (mất ví) khiến không còn tâm trí cho một hoạt động vui → **どころではなかった** (18課). 「わけだった」 = đương nhiên là ăn vui — trái logic; 「ところから」 cần vế sau; 「わけがあった」 = có lý do — không khớp."},
+    {"id": "b31-t4", "kind": "order", "ref": "b31-9", "q": "ぼんやりしていて、もう{少|すこ}しで ＿＿＿ ＿＿＿ ★ ＿＿＿ 。", "options": ["乗ってしまう", "ところだった", "違う", "電車に"], "order": [2, 3, 0, 1], "answer": 0, "vi": "Lơ đãng quá, suýt nữa thì lên nhầm tàu.", "why": "もう少しで **違う 電車に 乗ってしまう ところだった** → ★ (ô thứ 3) = 「乗ってしまう」. 「違う」 bổ nghĩa cho 「電車」; 「ところだった」 đi sau V辞書形 「乗ってしまう」 và đứng cuối."},
+    {"id": "b31-t5", "kind": "order", "ref": "b31-10", "q": "この{町|まち}は、 ＿＿＿ ＿＿＿ ★ ＿＿＿ という{名前|なまえ}がついた。", "options": ["ところから", "「富士見町」", "富士山が", "よく見える"], "order": [2, 3, 0, 1], "answer": 0, "vi": "Thị trấn này nhìn thấy núi Phú Sĩ rất rõ nên được đặt tên là \"Fujimi-chō\".", "why": "この町は、**富士山が よく見える ところから 「富士見町」** という名前がついた → ★ (ô thứ 3) = 「ところから」. Căn cứ 「富士山がよく見える」 + 「ところから」, tên gọi đứng ngay trước 「という」."},
+    {"id": "b31-t6", "kind": "usage", "ref": "b31-8", "q": "「〜たところ」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["家に帰ったところ、宿題をしなさい。", "明日、田中さんに会ったところ、本を返すつもりだ。", "先生に相談したところ、もう一度挑戦してみるように勧められた。", "毎朝コーヒーを飲んだところ、目が覚める。"], "answer": 2, "vi": "(3) Tôi hỏi ý kiến thầy thì được thầy khuyên thử sức thêm lần nữa.", "why": "(3) hành động hỏi ý kiến + kết quả nhận được ở thể た → đúng. (1) vế sau là mệnh lệnh → 帰ったら; (2) chuyện tương lai + ý định → 会ったら; (4) thói quen lặp lại → 飲むと."},
+    {"id": "b31-t7", "kind": "form", "ref": "b31-4", "q": "{社長|しゃちょう}が{自|みずか}ら{来|き}てくださったのだから、{挨拶|あいさつ}に{行|い}か（　　）。", "options": ["ないわけだ", "ないわけにはいかない", "ないどころではない", "ないところだった"], "answer": 1, "vi": "Giám đốc đã đích thân đến, nên không thể không đi chào hỏi.", "why": "Phép lịch sự với người trên → buộc phải làm **ないわけにはいかない**. 「行かないわけだ」 = thảo nào không đi — trái logic; 「ないどころではない」 không phải mẫu đúng; 「行かないところだった」 = suýt không đi — sai thì, không hợp với 「のだから」."},
+    {"id": "b31-t8", "kind": "form", "ref": "b31-2", "q": "{日本|にほん}に{住|す}んでいるからといって、{誰|だれ}でも{敬語|けいご}が{上手|じょうず}に{使|つか}える（　　）。", "options": ["わけだ", "わけにはいかない", "わけではない", "どころか"], "answer": 2, "vi": "Không phải cứ sống ở Nhật là ai cũng dùng kính ngữ giỏi.", "why": "Khung cố định 「〜からといって、〜わけではない」 (phủ định một phần) → **わけではない**. 「わけだ」 = đương nhiên dùng giỏi — trái với からといって; 「わけにはいかない」 cần hành động có ý chí, 「使える」 là thể khả năng; 「どころか」 cần vế sau."}
+  ]
+}

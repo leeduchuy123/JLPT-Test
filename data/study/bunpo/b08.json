@@ -1,0 +1,171 @@
+{
+  "id": "b08",
+  "track": "bunpo",
+  "intro": "Cả 5 mẫu trong bài đều trả lời câu hỏi **\"dựa vào cái gì / theo cái gì / dành cho ai?\"**. Chúng giống nhau ở chỗ đều có một **cái chuẩn** đứng trước, nhưng quan hệ giữa cái chuẩn và hành động phía sau thì khác nhau:\n\n- **〜をもとに(して)**: cái chuẩn là **nguyên liệu, gợi ý** → từ đó **tạo ra cái mới** (viết, làm phim, thiết kế…). Có thể biến tấu, không cần giống hệt.\n- **〜に基づいて**: cái chuẩn là **căn cứ** (luật, số liệu, kế hoạch, kết quả điều tra) → hành động **bám theo, không làm trái**.\n- **〜に沿って**: cái chuẩn như **một đường chạy dài** (phương châm, quy trình, kỳ vọng) → hành động **men theo, đi đúng hướng**.\n- **〜のもとで・〜のもとに**: \"**dưới** sự…\" — dưới sự dìu dắt của một người, dưới một điều kiện / sự quản lý / sự đồng ý.\n- **〜向けだ**: \"**dành cho**\" một đối tượng cụ thể (trẻ em, người mới học, thị trường nước ngoài).\n\nĐiểm then chốt để không mất điểm: nhớ **trợ từ** đi kèm — **を**もとに, **に**基づいて, **に**沿って, **の**もとで／**の**もとに, **N**向け. Đề N2 rất hay bẫy ở chỗ này.",
+  "points": [
+    {
+      "id": "b08-1",
+      "pattern": "〜をもとに(して)",
+      "reading": "〜をもとに(して)",
+      "meaning": "Dựa trên, lấy… làm chất liệu / gợi ý (để tạo ra cái mới)",
+      "structure": ["N ＋ をもとに(して)", "N ＋ をもとにした ＋ N", "N ＋ をもとに ＋ V (書く・作る・デザインする…)"],
+      "explain": "「もと」 ở đây là **gốc, nền, chất liệu ban đầu**. 「Aをもとに B」 = lấy A làm **điểm xuất phát** rồi **tạo ra** B. A có thể là chuyện có thật, trải nghiệm, lời kể, dữ liệu, ý tưởng, bản phác thảo…; B là **sản phẩm mới**: tiểu thuyết, phim, thiết kế, kế hoạch, bức vẽ.\n\nHình dung: một nhà văn đặt cuốn nhật ký của ông nội lên bàn, rồi từ đó viết ra một cuốn tiểu thuyết. Cuốn nhật ký là 「もと」, cuốn tiểu thuyết là thứ được tạo ra.\n\n- Vì là \"chất liệu để sáng tạo\", B **không cần giống hệt A** — có thể thêm thắt, biến tấu.\n- Động từ phía sau thường là động từ **tạo ra**: 作る・書く・描く・デザインする・考え出す・まとめる・できる.\n- Bổ nghĩa danh từ: 「実話をもとにした映画」 (bộ phim dựa trên chuyện có thật).",
+      "nuance": "Không dùng cho **nguyên vật liệu thật** (bột, gỗ, sợi len…) — khi đó dùng 「で」 hoặc 「から」: 「{木|き}で{机|つくえ}を{作|つく}る」. Văn phong trung tính, dùng được cả văn nói lẫn văn viết. Trợ từ đứng trước luôn là **を**.",
+      "examples": [
+        {"ja": "{祖母|そぼ}から{聞|き}いた{昔話|むかしばなし}をもとにして、{絵本|えほん}を{書|か}いた。", "vi": "Tôi viết một cuốn truyện tranh dựa trên những câu chuyện xưa nghe từ bà.", "note": "Lời kể (chất liệu) → sáng tác mới"},
+        {"ja": "{目撃者|もくげきしゃ}の{証言|しょうげん}をもとに、{犯人|はんにん}の{似顔絵|にがおえ}が{作成|さくせい}された。", "vi": "Bức chân dung phác hoạ của thủ phạm đã được vẽ dựa trên lời khai của nhân chứng.", "note": "Tin tức · vế sau là sản phẩm được tạo ra"},
+        {"ja": "この{料理|りょうり}は、{母|はは}の{味|あじ}をもとに{少|すこ}しアレンジしたものです。", "vi": "Món này là tôi lấy hương vị món mẹ nấu làm gốc rồi biến tấu đi một chút.", "note": "Có thể biến tấu, không cần giống hệt"},
+        {"ja": "{古|ふる}い{写真|しゃしん}をもとにした{町|まち}の{模型|もけい}が、{博物館|はくぶつかん}に{展示|てんじ}されている。", "vi": "Mô hình thị trấn được dựng dựa trên những bức ảnh cũ đang được trưng bày ở bảo tàng.", "note": "をもとにした + N"},
+        {"ja": "{会社|かいしゃ}のロゴは、{創業者|そうぎょうしゃ}の{名前|なまえ}の{頭文字|かしらもじ}をもとにデザインされた。", "vi": "Logo công ty được thiết kế dựa trên chữ cái đầu tên của người sáng lập.", "note": "をもとに + デザインする"}
+      ],
+      "compare": [
+        {"with": "〜に基づいて", "diff": "「をもとに」: A là **chất liệu** để **sáng tạo** cái mới, được phép biến tấu. 「に基づいて」: A là **căn cứ / tiêu chuẩn**, hành động phải **bám đúng**, không làm trái (法律に基づいて判断する). Chuyện có thật dùng được cả hai: 実話をもとにした映画／事実に基づいた映画."},
+        {"with": "〜で／〜から (nguyên liệu)", "diff": "Nguyên liệu vật chất dùng 「で・から」: 牛乳からチーズを作る. 「をもとに」 chỉ dùng cho chất liệu **thông tin / tinh thần** (ý tưởng, câu chuyện, dữ liệu)."}
+      ],
+      "mistakes": [
+        "✗ {小麦粉|こむぎこ}をもとにパンを{焼|や}いた。→ ○ 小麦粉でパンを焼いた。(nguyên liệu thật)",
+        "✗ {日記|にっき}にもとにして{小説|しょうせつ}を{書|か}いた。→ ○ 日記**を**もとにして (trợ từ là を)",
+        "✗ {会社|かいしゃ}の{規則|きそく}をもとにして、{毎朝|まいあさ}9{時|じ}に{出勤|しゅっきん}する。→ ○ 規則に従って／規則に沿って (vế sau không tạo ra cái mới)"
+      ],
+      "tip": "Trước chỗ trống có **を** và vế sau là động từ **tạo ra** (作られた・書いた・デザインした) → chọn 「をもとに(して)」. Nếu trước chỗ trống là **に** thì loại ngay 「もとに」."
+    },
+    {
+      "id": "b08-2",
+      "pattern": "〜に基づいて",
+      "reading": "〜にもとづいて",
+      "meaning": "Căn cứ vào, dựa theo (luật, số liệu, kế hoạch…) mà làm",
+      "structure": ["N ＋ に基づいて／に基づき", "N ＋ に基づく／に基づいた ＋ N"],
+      "explain": "「基づく」 = đặt nền móng trên. 「Aに基づいて B」 = lấy A làm **căn cứ, cơ sở** rồi làm B **đúng theo** A. A thường là thứ mang tính **tiêu chuẩn, khách quan**: 法律・規則・データ・調査結果・計画・方針・事実・経験・契約.\n\nHình dung một trọng tài cầm cuốn luật: quyết định nào cũng phải \"có căn cứ\" trong cuốn luật đó. Khác với 「をもとに」 (lấy làm chất liệu rồi sáng tạo tự do), 「に基づいて」 mang cảm giác **không được làm lệch khỏi căn cứ**.\n\n- Vế sau thường là hành động mang tính **phán đoán, quyết định, thực thi**: 判断する・決める・計画を立てる・行う・処分する・作成する.\n- 「に基づき」 là dạng văn viết (thông báo, văn bản pháp lý).\n- Bổ nghĩa danh từ: 「データに基づく分析」「経験に基づいたアドバイス」.",
+      "nuance": "Hơi cứng, hay gặp trong văn bản hành chính, báo cáo, tin tức. Trợ từ luôn là **に** (không phải を). Không dùng với nguyên liệu vật chất, cũng không dùng với **người**: ✗ 「{社長|しゃちょう}に基づいて」 → nói 「社長の{指示|しじ}に基づいて」.",
+      "examples": [
+        {"ja": "{調査|ちょうさ}の{結果|けっか}に{基|もと}づいて、{新|あら}たな{交通|こうつう}{安全|あんぜん}{対策|たいさく}がまとめられた。", "vi": "Căn cứ vào kết quả điều tra, các biện pháp an toàn giao thông mới đã được tổng hợp.", "note": "Căn cứ khách quan → biện pháp"},
+        {"ja": "{法律|ほうりつ}に{基|もと}づき、{違反者|いはんしゃ}には{罰金|ばっきん}が{科|か}されます。", "vi": "Theo quy định của pháp luật, người vi phạm sẽ bị phạt tiền.", "note": "に基づき = dạng văn viết"},
+        {"ja": "{医師|いし}は{最新|さいしん}の{診療|しんりょう}ガイドラインに{基|もと}づいて、{治療|ちりょう}の{方法|ほうほう}を{決|き}めた。", "vi": "Bác sĩ đã quyết định phương pháp điều trị căn cứ vào hướng dẫn điều trị mới nhất.", "note": "Vế sau là quyết định"},
+        {"ja": "{長年|ながねん}の{経験|けいけん}に{基|もと}づいたアドバイスには{説得力|せっとくりょく}がある。", "vi": "Lời khuyên dựa trên kinh nghiệm nhiều năm thì có sức thuyết phục.", "note": "に基づいた + N"},
+        {"ja": "{契約|けいやく}に{基|もと}づく{支払|しはら}いは、{毎月|まいつき}{末日|まつじつ}に{行|おこな}われます。", "vi": "Việc thanh toán theo hợp đồng được thực hiện vào ngày cuối mỗi tháng.", "note": "に基づく + N"}
+      ],
+      "compare": [
+        {"with": "〜をもとに(して)", "diff": "「をもとに」 = chất liệu để **tạo ra** cái mới (tiểu thuyết, thiết kế), cho phép biến tấu. 「に基づいて」 = **căn cứ** để **phán đoán / thực thi**, phải bám sát. Nhớ thêm trợ từ: **を**もとに ↔ **に**基づいて."},
+        {"with": "〜に沿って", "diff": "「に基づいて」 nhìn A như **nền móng** đứng yên bên dưới. 「に沿って」 nhìn A như **một đường kẻ / dòng chảy** và hành động men theo nó suốt quá trình (計画に沿って進める). Với 期待・希望 (kỳ vọng) chỉ dùng 「に沿う」, không dùng 「に基づく」 với nghĩa \"đáp ứng\"."}
+      ],
+      "mistakes": [
+        "✗ データを{基|もと}づいて{判断|はんだん}する。→ ○ データ**に**基づいて",
+        "✗ {先生|せんせい}に{基|もと}づいて{勉強|べんきょう}した。→ ○ 先生の指導に基づいて／先生のもとで勉強した (không dùng với người)"
+      ],
+      "tip": "Thấy danh từ **mang tính căn cứ khách quan** (法・規則・データ・調査・事実・計画・契約) + に + chỗ trống, vế sau là 判断・決定・実施 → 「に基づいて」."
+    },
+    {
+      "id": "b08-3",
+      "pattern": "〜に沿って",
+      "reading": "〜にそって",
+      "meaning": "Theo đúng, bám theo (phương châm, quy trình, mong muốn…); dọc theo",
+      "structure": ["N ＋ に沿って", "N ＋ に沿う／に沿った ＋ N"],
+      "explain": "「沿う」 nghĩa gốc là **chạy dọc theo** một đường: 「{川|かわ}に{沿|そ}って{歩|ある}く」 (đi dọc bờ sông). Từ hình ảnh đó, 「Aに沿って B」 = coi A như **một con đường đã vạch sẵn**, rồi B **đi men theo, không chệch ra ngoài**.\n\nA thường là: 方針・計画・マニュアル・ルール・手順・テーマ・流れ・スケジュール, và các từ chỉ **mong muốn của người khác**: 期待・希望・要望・意向.\n\n- Vế sau là **hành động kéo dài, có tiến trình**: 進める・行う・作る・書き進める・運営する・対応する.\n- 「ご期待に沿う／ご希望に沿う」 = **đáp ứng** kỳ vọng / mong muốn — cụm rất hay gặp trong kinh doanh. Từ chối lịch sự: 「ご希望に沿えず、申し訳ございません」 (rất tiếc không đáp ứng được mong muốn của quý khách).",
+      "nuance": "Trung tính đến trang trọng. Trợ từ là **に**. Nghĩa \"dọc theo\" (vật lý) và nghĩa \"theo đúng\" (trừu tượng) đều dùng được, nhưng đề N2 chủ yếu hỏi nghĩa trừu tượng.",
+      "examples": [
+        {"ja": "{線路|せんろ}に{沿|そ}って、{桜|さくら}の{木|き}がずらりと{植|う}えられている。", "vi": "Dọc theo đường ray, hàng anh đào được trồng thẳng tắp.", "note": "Nghĩa gốc: dọc theo (vật lý)"},
+        {"ja": "マニュアルに{沿|そ}って{操作|そうさ}すれば、{初|はじ}めての{人|ひと}でも{迷|まよ}いません。", "vi": "Nếu thao tác theo đúng sách hướng dẫn thì người dùng lần đầu cũng không bị lúng túng.", "note": "Quy trình → hành động có trình tự"},
+        {"ja": "お{客様|きゃくさま}のご{要望|ようぼう}に{沿|そ}ったプランをご{提案|ていあん}いたします。", "vi": "Chúng tôi xin đề xuất phương án đáp ứng đúng yêu cầu của quý khách.", "note": "に沿った + N · văn kinh doanh"},
+        {"ja": "{会社|かいしゃ}の{方針|ほうしん}に{沿|そ}わない{企画|きかく}は、なかなか{通|とお}らない。", "vi": "Những đề án không đi theo phương châm của công ty thì khó mà được duyệt.", "note": "Dạng phủ định 沿わない"},
+        {"ja": "{誠|まこと}に{申|もう}し{訳|わけ}ございませんが、ご{希望|きぼう}に{沿|そ}うことはできかねます。", "vi": "Thành thật xin lỗi, chúng tôi không thể đáp ứng mong muốn của quý khách.", "note": "希望に沿う = đáp ứng mong muốn"}
+      ],
+      "compare": [
+        {"with": "〜に基づいて", "diff": "「に基づいて」: A là **căn cứ** (luật, số liệu) để phán đoán. 「に沿って」: A là **đường hướng / trình tự** để hành động men theo suốt quá trình. 「期待・希望・要望」 đi với 「に沿う」 (đáp ứng), không đi với 「に基づく」."},
+        {"with": "〜に従って", "diff": "「指示に従って」 = **tuân theo** mệnh lệnh, quy định (sắc thái phục tùng). 「方針に沿って」 = **đi đúng hướng** của phương châm (sắc thái hài hoà, phù hợp). Nhiều trường hợp thay được cho nhau, nhưng 「命令に沿う」 nghe lạ, còn 「ご期待に従う」 thì sai."}
+      ],
+      "mistakes": [
+        "✗ {計画|けいかく}を{沿|そ}って{進|すす}める。→ ○ 計画**に**沿って進める",
+        "✗ ご{期待|きたい}に{基|もと}づけるよう{頑張|がんば}ります。→ ○ ご期待に沿えるよう頑張ります。"
+      ],
+      "tip": "Danh từ trước chỗ trống là **方針・計画・マニュアル・テーマ・流れ** (có trình tự) hoặc **期待・希望・要望** → 「に沿って／に沿った」. Nếu sau chỗ trống là danh từ thì phải chọn 「に沿った／に沿う」, không phải 「に沿って」."
+    },
+    {
+      "id": "b08-4",
+      "pattern": "〜のもとで・〜のもとに",
+      "reading": "〜のもとで・〜のもとに",
+      "meaning": "Dưới (sự dìu dắt / ảnh hưởng của…); dưới (điều kiện, sự quản lý, danh nghĩa…)",
+      "structure": ["N ＋ のもとで", "N ＋ のもとに", "〜という名のもとに (nhân danh…)"],
+      "explain": "「もと」 ở đây viết là 「下」: **ở dưới**. Hình dung mình đứng **dưới tán** của một người hay một điều kiện, chịu sự che chở / chi phối của nó. Hai dạng chia việc khá rõ:\n\n- **のもとで** + **người** (先生・監督・師匠・両親・上司) hoặc **môi trường** (青空・一定の条件・温度): \"dưới sự dìu dắt / che chở / ảnh hưởng của…\". Vế sau là hành động như 学ぶ・働く・育つ・暮らす・練習に励む. 「{名医|めいい}のもとで{学|まな}ぶ」 = học dưới trướng một danh y.\n- **のもとに** + danh từ chỉ **điều kiện, tình trạng** mang tính trừu tượng: 管理・指導・了解・許可・同意・協力・約束・名・法. Nghĩa \"trong điều kiện có…, dưới sự…\". Vế sau là hành động hoặc **trạng thái** (続いている・平等だ・運営されている).\n\nHai cụm cố định cần thuộc: 「{法|ほう}のもとに{平等|びょうどう}」 (bình đẳng trước pháp luật) và 「〜という{名|な}のもとに」 (nhân danh…, lấy danh nghĩa… — thường mang ý **phê phán**: núp bóng danh nghĩa tốt đẹp để làm điều xấu).",
+      "nuance": "Văn phong hơi trang trọng, hay gặp trong văn viết, tin tức. Với 「のもとで」 + người, người đó phải là người **có ảnh hưởng / che chở** với chủ thể (thầy, huấn luyện viên, cha mẹ, cấp trên) — không dùng với người nhỏ hơn mình hay con vật. Bài tập của sách cũng cho thấy vế sau là **hành động đang làm** (習っている・頑張っている・暮らしている), còn **kết quả / sự thay đổi** (上手になった・実力がついた・好きになった) thì không hợp. Ranh giới もとで／もとに không tuyệt đối (「一定の条件のもとで／もとに」 đều được), nhưng trong đề: **người → もとで**, **管理・了解・名 → もとに**.",
+      "examples": [
+        {"ja": "{彼女|かのじょ}はパリの{有名|ゆうめい}なシェフのもとで、{五年間|ごねんかん}{修業|しゅぎょう}を{積|つ}んだ。", "vi": "Cô ấy đã khổ luyện 5 năm dưới trướng một đầu bếp nổi tiếng ở Paris.", "note": "Người + のもとで"},
+        {"ja": "{秋|あき}の{青空|あおぞら}のもとで、{運動会|うんどうかい}が{盛大|せいだい}に{行|おこな}われた。", "vi": "Dưới bầu trời thu trong xanh, hội thao đã được tổ chức rầm rộ.", "note": "Môi trường + のもとで"},
+        {"ja": "{新|あたら}しい{治療法|ちりょうほう}は、{患者|かんじゃ}{本人|ほんにん}の{同意|どうい}のもとに{試|ため}された。", "vi": "Phương pháp điều trị mới đã được thử nghiệm với sự đồng ý của chính bệnh nhân.", "note": "Điều kiện + のもとに"},
+        {"ja": "その{土地|とち}は{現在|げんざい}、{国|くに}の{管理|かんり}のもとに{置|お}かれている。", "vi": "Khu đất đó hiện đang nằm dưới sự quản lý của nhà nước.", "note": "管理のもとに"},
+        {"ja": "すべての{国民|こくみん}は{法|ほう}のもとに{平等|びょうどう}である。", "vi": "Mọi công dân đều bình đẳng trước pháp luật.", "note": "Vế sau là trạng thái"},
+        {"ja": "「{教育|きょういく}」という{名|な}のもとに、{子|こ}どもに{暴力|ぼうりょく}をふるうことは{許|ゆる}されない。", "vi": "Không thể chấp nhận việc nhân danh \"giáo dục\" mà dùng bạo lực với trẻ em.", "note": "という名のもとに = nhân danh (phê phán)"}
+      ],
+      "compare": [
+        {"with": "〜をもとに(して)", "diff": "Rất dễ nhầm vì đều có 「もと」. 「**を**もとに」 = dựa trên chất liệu (元・基) để tạo ra cái mới. 「**の**もとで／もとに」 = ở **dưới** (下) sự dìu dắt / điều kiện. Nhìn trợ từ: を → もとに(して); の → もとで／もとに."},
+        {"with": "〜の下(した)で", "diff": "「木の{下|した}で」 = dưới gốc cây (vị trí vật lý). 「先生のもとで」 = dưới sự dìu dắt (quan hệ ảnh hưởng). Cùng chữ 下 nhưng đọc もと thì mang nghĩa trừu tượng."}
+      ],
+      "mistakes": [
+        "✗ {田中|たなか}{先生|せんせい}をもとに{研究|けんきゅう}している。→ ○ 田中先生**のもとで**研究している。",
+        "✗ 「{平和|へいわ}」という{名|な}のもとで{戦争|せんそう}が{行|おこな}われた。→ ○ 〜という名**のもとに** (cụm cố định)"
+      ],
+      "tip": "Chỗ trống đứng sau 「の」: nếu danh từ là **người / bầu trời / môi trường** → 「もとで」; nếu là **管理・指導・了解・許可・協力・名・法** → 「もとに」."
+    },
+    {
+      "id": "b08-5",
+      "pattern": "〜向けだ",
+      "reading": "〜むけだ",
+      "meaning": "Dành cho, hướng tới (một đối tượng cụ thể)",
+      "structure": ["N ＋ 向けだ", "N ＋ 向けの ＋ N", "N ＋ 向けに ＋ V (作る・設計する・開発する…)"],
+      "explain": "「向ける」 = hướng về. 「A向け」 = **được làm ra nhắm tới A**. Người làm đã nghĩ sẵn trong đầu \"cái này là cho ai\" ngay từ khâu thiết kế.\n\nA thường là **người**: 子ども・高齢者・初心者・女性・留学生・一人暮らしの人, hoặc **thị trường / nơi đến**: 海外向け・アジア向け・輸出向け.\n\n- Vế sau thường là động từ **làm ra, thiết kế**: 作る・設計する・デザインする・編集する・開発する・販売する.\n- Hình ảnh nhớ: trên bìa sách có dòng chữ 「{初心者|しょしんしゃ}{向|む}け」 — sách viết **cho** người mới bắt đầu.\n- Điều thú vị: 向け chỉ **ý định** của người làm, không nói ai thực sự dùng. 「若者向けのアプリが高齢者に人気」 hoàn toàn bình thường.",
+      "nuance": "Trung tính, dùng rộng rãi trong quảng cáo, mô tả sản phẩm, tin tức. Không đọc là むき — 「向き」 là mẫu khác (\"phù hợp với\").",
+      "examples": [
+        {"ja": "この{番組|ばんぐみ}は{小学生|しょうがくせい}{向|む}けに{作|つく}られているので、{説明|せつめい}がとても{分|わ}かりやすい。", "vi": "Chương trình này được làm cho học sinh tiểu học nên phần giải thích rất dễ hiểu.", "note": "向けに + 作る"},
+        {"ja": "{駅|えき}には{外国人|がいこくじん}{観光客|かんこうきゃく}{向|む}けのパンフレットが{五|ご}か{国語|こくご}で{用意|ようい}されている。", "vi": "Ở nhà ga có sẵn tờ rơi bằng 5 thứ tiếng dành cho khách du lịch nước ngoài.", "note": "向けの + N"},
+        {"ja": "{仕事|しごと}が{終|お}わってから、{初心者|しょしんしゃ}{向|む}けのギター{教室|きょうしつ}に{通|かよ}っている。", "vi": "Sau giờ làm, tôi đi học một lớp guitar dành cho người mới bắt đầu.", "note": ""},
+        {"ja": "この{工場|こうじょう}で{作|つく}られる{部品|ぶひん}は、ほとんどが{海外|かいがい}{向|む}けだ。", "vi": "Linh kiện sản xuất ở nhà máy này hầu hết là hàng dành cho thị trường nước ngoài.", "note": "向けだ · đối tượng là thị trường"},
+        {"ja": "{若者|わかもの}{向|む}けに{開発|かいはつ}されたアプリが、{意外|いがい}にも{高齢者|こうれいしゃ}の{間|あいだ}で{人気|にんき}を{集|あつ}めている。", "vi": "Ứng dụng được phát triển cho giới trẻ lại bất ngờ được người cao tuổi ưa chuộng.", "note": "向け = ý định của người làm, không phải người dùng thực tế"}
+      ],
+      "compare": [
+        {"with": "〜向きだ", "diff": "「向け」 = **được làm ra cho** A (ý định từ đầu). 「向き」 = **phù hợp với** A (tính chất tự nhiên, dù không ai cố ý). 「子ども向けの本」 = sách viết cho trẻ con; 「この本は子ども向きだ」 = cuốn này hợp với trẻ con (dù có thể vốn viết cho người lớn)."},
+        {"with": "〜用", "diff": "「子ども用の自転車」 = xe đạp **để** trẻ con dùng (đồ dùng theo kích cỡ / chức năng). 「子ども向けの番組」 = chương trình **nhắm tới** trẻ con (nội dung). Đồ vật dùng trực tiếp thì 「用」 tự nhiên hơn; nội dung, dịch vụ thì 「向け」."}
+      ],
+      "mistakes": [
+        "✗ {高齢者|こうれいしゃ}に{向|む}けのマンション → ○ 高齢者**向けの**マンション (không có に)",
+        "✗ この{仕事|しごと}は{細|こま}かい{作業|さぎょう}が{好|す}きな{人|ひと}{向|む}けだ。→ ○ 〜好きな人**向き**だ (đang nói công việc **hợp với tính cách** ai, không phải công việc được thiết kế cho ai → 向き tự nhiên hơn)"
+      ],
+      "tip": "Danh từ chỉ **đối tượng người dùng / thị trường** + chỗ trống + 作られた・設計された・開発された → 「向けに」. Nếu câu nói về **sự phù hợp tự nhiên** (性格・体質) thì nghĩ tới 「向き」."
+    }
+  ],
+  "summary": [
+    {"pattern": "〜をもとに(して)", "meaning": "dựa trên (chất liệu) để tạo ra", "key": "を + もとに; vế sau 作る・書く・デザインする; không dùng cho nguyên liệu thật"},
+    {"pattern": "〜に基づいて", "meaning": "căn cứ vào", "key": "に + 基づいて; luật, số liệu, kế hoạch; vế sau phán đoán / thực thi"},
+    {"pattern": "〜に沿って", "meaning": "theo đúng, bám theo; dọc theo", "key": "方針・手順・マニュアル; 期待・希望に沿う = đáp ứng"},
+    {"pattern": "〜のもとで・〜のもとに", "meaning": "dưới sự…", "key": "người → もとで; 管理・了解・名・法 → もとに"},
+    {"pattern": "〜向けだ", "meaning": "dành cho (đối tượng)", "key": "N向けの N／N向けに V; ≠ 向き (phù hợp)"}
+  ],
+  "quiz": [
+    {"id": "b08-q1", "kind": "form", "ref": "b08-1", "q": "{祖父|そふ}が{残|のこ}した{日記|にっき}（　　）、{戦時中|せんじちゅう}の{暮|く}らしを{描|えが}いた{小説|しょうせつ}を{書|か}いた。", "options": ["のもとで", "をもとにして", "向けに", "に沿った"], "answer": 1, "vi": "Tôi đã viết một cuốn tiểu thuyết miêu tả cuộc sống thời chiến dựa trên cuốn nhật ký ông nội để lại.", "why": "Cuốn nhật ký là **chất liệu**, cuốn tiểu thuyết là sản phẩm mới được tạo ra → **をもとにして**. 「のもとで」 cần người / môi trường (dưới sự dìu dắt), không hợp với 日記; 「向けに」 = dành cho đối tượng, nhật ký không phải người đọc; 「に沿った」 phải đi kèm danh từ ngay sau, mà sau chỗ trống là dấu phẩy."},
+    {"id": "b08-q2", "kind": "form", "ref": "b08-2", "q": "この{制度|せいど}は、{昨年|さくねん}{改正|かいせい}された{法律|ほうりつ}（　　）{運用|うんよう}されている。", "options": ["に基づいて", "をもとにした", "向けの", "に基づく"], "answer": 0, "vi": "Chế độ này đang được vận hành căn cứ vào bộ luật được sửa đổi năm ngoái.", "why": "Luật là **căn cứ**, sau chỗ trống là động từ 「運用されている」 → cần dạng nối với động từ: **に基づいて**. 「に基づく」「をもとにした」「向けの」 đều là dạng bổ nghĩa cho **danh từ**, không đứng trước động từ được; ngoài ra 「向け」 về nghĩa cũng không hợp (luật không phải đối tượng)."},
+    {"id": "b08-q3", "kind": "form", "ref": "b08-3", "q": "{新入社員|しんにゅうしゃいん}{研修|けんしゅう}は、{人事部|じんじぶ}が{作成|さくせい}したスケジュール（　　）{行|おこな}われます。", "options": ["向けに", "のもとに", "に沿って", "をもとに"], "answer": 2, "vi": "Khoá đào tạo nhân viên mới sẽ được tiến hành theo đúng lịch trình do phòng nhân sự lập ra.", "why": "Lịch trình là **một trình tự đã vạch sẵn**, việc đào tạo diễn ra men theo nó → **に沿って**. 「をもとに」 dùng khi tạo ra cái mới từ chất liệu, không phải \"tiến hành theo trình tự\"; 「のもとに」 đi với 管理・了解・名…; 「向けに」 = dành cho đối tượng (người), スケジュール không phải đối tượng."},
+    {"id": "b08-q4", "kind": "form", "ref": "b08-4", "q": "{兄|あに}は{厳|きび}しいことで{知|し}られる{師匠|ししょう}の（　　）、{十年|じゅうねん}{間|かん}{陶芸|とうげい}を{学|まな}んだ。", "options": ["もとにして", "向けに", "もとで", "沿って"], "answer": 2, "vi": "Anh tôi đã học nghề gốm suốt mười năm dưới sự dìu dắt của một người thầy nổi tiếng nghiêm khắc.", "why": "Danh từ chỉ **người** (師匠) + の + chỗ trống, vế sau là 学ぶ → **もとで** (dưới sự dìu dắt). 「もとにして」 phải đi với を (をもとにして), và không dùng với người; 「沿って」 cần に (に沿って); 「師匠の向けに」 sai cả cấu trúc lẫn nghĩa."},
+    {"id": "b08-q5", "kind": "form", "ref": "b08-5", "q": "このスマートフォンは{文字|もじ}が{大|おお}きく、{操作|そうさ}も{簡単|かんたん}で、{高齢者|こうれいしゃ}（　　）{開発|かいはつ}されたものだ。", "options": ["向けに", "のもとで", "に基づいて", "をもとに"], "answer": 0, "vi": "Chiếc điện thoại này chữ to, thao tác đơn giản, được phát triển dành cho người cao tuổi.", "why": "Người cao tuổi là **đối tượng** mà sản phẩm nhắm tới → **向けに**. 「のもとで」 = dưới sự dìu dắt của người cao tuổi — vô nghĩa ở đây; 「に基づいて」「をもとに」 cần một căn cứ / chất liệu (dữ liệu, ý tưởng), không phải nhóm người dùng."},
+    {"id": "b08-q6", "kind": "usage", "ref": "b08-3", "q": "「〜に{沿|そ}って」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["小麦粉に沿って、おいしいパンを焼いた。", "子どもに沿って作られたおもちゃが人気だ。", "祖母に沿って、毎日元気に暮らしている。", "先生のアドバイスに沿って、レポートを書き直した。"], "answer": 3, "vi": "(4) Tôi đã viết lại bài báo cáo theo đúng lời khuyên của thầy.", "why": "(4) Lời khuyên là đường hướng, việc viết lại men theo nó → đúng. (1) nguyên liệu thật → 小麦粉で; (2) đối tượng người dùng → 子ども向けに; (3) sống dưới sự che chở của bà → 祖母のもとで."}
+  ],
+  "practice": [
+    {"id": "b08-p1", "kind": "form", "ref": "b08-1", "q": "アンケートで{集|あつ}めたお{客様|きゃくさま}の{声|こえ}（　　）、{新商品|しんしょうひん}のアイデアを{考|かんが}え{出|だ}した。", "options": ["をもとに", "のもとで", "向けに", "に沿う"], "answer": 0, "vi": "Chúng tôi đã nghĩ ra ý tưởng sản phẩm mới dựa trên ý kiến khách hàng thu thập qua phiếu khảo sát.", "why": "Ý kiến khách hàng là **chất liệu**, vế sau 考え出す là **tạo ra** ý tưởng mới → **をもとに**. 「のもとで」 dùng với người / môi trường; 「向けに」 = dành cho đối tượng — 「お客様の声」 không phải đối tượng; 「に沿う」 là dạng bổ nghĩa danh từ, không đứng trước dấu phẩy."},
+    {"id": "b08-p2", "kind": "form", "ref": "b08-2", "q": "{医師|いし}は{検査|けんさ}の{結果|けっか}（　　）{診断|しんだん}を{下|くだ}す。", "options": ["向けに", "のもとに", "をもとにした", "に基づいて"], "answer": 3, "vi": "Bác sĩ đưa ra chẩn đoán căn cứ vào kết quả xét nghiệm.", "why": "Kết quả xét nghiệm là **căn cứ khách quan**, vế sau là **phán đoán** (診断を下す) → **に基づいて**. 「をもとにした」 phải đi với danh từ phía sau; 「のもとに」 đi với 管理・了解・名…, không đi với 結果; 「向けに」 chỉ đối tượng."},
+    {"id": "b08-p3", "kind": "form", "ref": "b08-3", "q": "{皆様|みなさま}のご{期待|きたい}に（　　）よう、{社員|しゃいん}{一同|いちどう}{全力|ぜんりょく}を{尽|つ}くしてまいります。", "options": ["基づける", "沿える", "向ける", "もとにする"], "answer": 1, "vi": "Toàn thể nhân viên chúng tôi sẽ dốc hết sức để có thể đáp ứng kỳ vọng của quý vị.", "why": "「期待に沿う」 = đáp ứng kỳ vọng; thể khả năng 「沿える」 + よう → **沿える**. 「基づく」 không có nghĩa \"đáp ứng\" và không dùng với 期待; 「期待に向ける」 không thành nghĩa; 「もとにする」 cần を, không đi với に."},
+    {"id": "b08-p4", "kind": "form", "ref": "b08-4", "q": "{商店街|しょうてんがい}の{再開発|さいかいはつ}は、{地元|じもと}{住民|じゅうみん}の{協力|きょうりょく}の（　　）{進|すす}められている。", "options": ["もとに", "向けに", "沿って", "基づき"], "answer": 0, "vi": "Việc tái phát triển khu phố mua sắm đang được tiến hành với sự hợp tác của người dân địa phương.", "why": "「協力」 là danh từ chỉ **điều kiện / tình trạng** + の + chỗ trống → **もとに**. 「沿って」「基づき」 phải đi với に (協力に沿って ✗ về nghĩa, và 「協力の沿って」 sai trợ từ); 「協力の向けに」 sai cấu trúc."},
+    {"id": "b08-p5", "kind": "form", "ref": "b08-5", "q": "{当社|とうしゃ}では、{留学生|りゅうがくせい}（　　）{就職|しゅうしょく}ガイドブックを{無料|むりょう}で{配布|はいふ}しています。", "options": ["向けの", "のもとでの", "に沿った", "に基づく"], "answer": 0, "vi": "Công ty chúng tôi phát miễn phí sách hướng dẫn tìm việc dành cho du học sinh.", "why": "Du học sinh là **đối tượng** của cuốn sách → **向けの**. 「に沿った」「に基づく」 cần danh từ mang tính đường hướng / căn cứ (方針・データ), không phải nhóm người; 「留学生のもとでの」 = dưới sự dìu dắt của du học sinh — không hợp nghĩa."},
+    {"id": "b08-p6", "kind": "form", "ref": "b08-1", "q": "この{絵|え}は、{画家|がか}が{子|こ}どもの{頃|ころ}に{見|み}た{夢|ゆめ}を（　　）{描|えが}かれたそうだ。", "options": ["基づいて", "もとにして", "沿って", "向けて"], "answer": 1, "vi": "Nghe nói bức tranh này được vẽ dựa trên giấc mơ mà hoạ sĩ thấy hồi nhỏ.", "why": "Trước chỗ trống là **を** và vế sau là 描く (tạo ra) → **もとにして**. 「基づいて」「沿って」 phải đi với に; 「夢を向けて」 = hướng giấc mơ về đâu đó — không thành nghĩa."},
+    {"id": "b08-p7", "kind": "form", "ref": "b08-4", "q": "「{自由|じゆう}」という{名|な}の（　　）、{他人|たにん}を{傷|きず}つける{発言|はつげん}が{許|ゆる}されてよいはずがない。", "options": ["向けに", "もとで", "もとに", "沿って"], "answer": 2, "vi": "Không thể nào chấp nhận những phát ngôn làm tổn thương người khác nhân danh \"tự do\".", "why": "Cụm cố định 「〜という名の**もとに**」 = nhân danh… (thường mang ý phê phán). 「もとで」 dùng với người / môi trường; 「沿って」 cần に; 「名の向けに」 sai cấu trúc."},
+    {"id": "b08-p8", "kind": "order", "ref": "b08-3", "q": "{駅前|えきまえ}の{工事|こうじ}は ＿＿＿ ＿＿＿ ★ ＿＿＿ {進|すす}められている。", "options": ["沿って", "計画に", "市が", "作った"], "order": [2, 3, 1, 0], "answer": 1, "vi": "Công trình trước nhà ga đang được tiến hành theo đúng kế hoạch mà thành phố đã lập ra.", "why": "駅前の工事は **市が 作った 計画に 沿って** 進められている → ★ (ô thứ 3) = 「計画に」. 「市が」 là chủ ngữ của 「作った」; 「作った」 bổ nghĩa cho 「計画」; 「に沿って」 nối với động từ 「進められている」."},
+    {"id": "b08-p9", "kind": "order", "ref": "b08-5", "q": "これは ＿＿＿ ＿＿＿ ★ ＿＿＿ {料理|りょうり}{番組|ばんぐみ}です。", "options": ["作られた", "一人暮らしの", "向けに", "学生"], "order": [1, 3, 2, 0], "answer": 2, "vi": "Đây là chương trình nấu ăn được làm dành cho sinh viên sống một mình.", "why": "これは **一人暮らしの 学生 向けに 作られた** 料理番組です → ★ = 「向けに」. 「一人暮らしの」 bổ nghĩa cho 「学生」; 「N向けに + V」; 「作られた」 bổ nghĩa cho 「料理番組」."},
+    {"id": "b08-p10", "kind": "usage", "ref": "b08-2", "q": "「〜に{基|もと}づいて」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["母に基づいて、毎日家事を手伝っている。", "若者に基づいて、新しいゲームを開発した。", "小麦粉に基づいて、パンを焼いた。", "長年の研究に基づいて、新しい理論が発表された。"], "answer": 3, "vi": "(4) Một lý thuyết mới đã được công bố dựa trên nhiều năm nghiên cứu.", "why": "(4) Nghiên cứu là **căn cứ** cho lý thuyết → đúng. (1) không dùng 基づく với người → 母の言いつけに従って…; (2) đối tượng người dùng → 若者向けに; (3) nguyên liệu thật → 小麦粉で."},
+    {"id": "b08-p11", "kind": "form", "ref": "b08-2", "q": "{裁判|さいばん}では、{個人|こじん}の{感情|かんじょう}ではなく{証拠|しょうこ}（　　）{判断|はんだん}しなければならない。", "options": ["向けに", "のもとで", "に基づいて", "をもとにした"], "answer": 2, "vi": "Trong xét xử, phải phán quyết căn cứ vào chứng cứ chứ không phải cảm xúc cá nhân.", "why": "Chứng cứ là **căn cứ**, vế sau là **phán đoán** → **に基づいて**. 「をもとにした」 phải theo sau bởi danh từ; 「のもとで」 dùng với người / môi trường; 「向けに」 chỉ đối tượng."}
+  ],
+  "test": [
+    {"id": "b08-t1", "kind": "form", "ref": "b08-3", "q": "{当店|とうてん}では、お{客様|きゃくさま}のご{予算|よさん}とご{要望|ようぼう}（　　）{花束|はなたば}をお{作|つく}りいたします。", "options": ["向けに", "に沿った", "のもとで", "に沿って"], "answer": 1, "vi": "Cửa hàng chúng tôi xin làm bó hoa đáp ứng đúng ngân sách và yêu cầu của quý khách.", "why": "「要望に沿う」 = đáp ứng yêu cầu, và sau chỗ trống là **danh từ** 「花束」 → cần dạng bổ nghĩa **に沿った**. 「に沿って」 đúng nghĩa nhưng sai dạng (không trực tiếp bổ nghĩa danh từ); 「向けに」 = dành cho đối tượng; 「のもとで」 cần người / môi trường."},
+    {"id": "b08-t2", "kind": "form", "ref": "b08-1", "q": "この{歌|うた}は、{災害|さいがい}で{家|いえ}を{失|うしな}った{人々|ひとびと}から{届|とど}いた{手紙|てがみ}（　　）{作|つく}られたものだ。", "options": ["をもとに", "のもとで", "向けに", "に沿って"], "answer": 0, "vi": "Bài hát này được sáng tác dựa trên những lá thư gửi đến từ những người mất nhà vì thảm hoạ.", "why": "Lá thư là **chất liệu** để sáng tác bài hát → **をもとに**. 「手紙向けに」: lá thư không phải đối tượng nghe; 「手紙のもとで」 vô nghĩa; 「手紙に沿って」 = men theo lá thư suốt quá trình — không hợp với việc sáng tác từ chất liệu."},
+    {"id": "b08-t3", "kind": "form", "ref": "b08-4", "q": "{新人|しんじん}{選手|せんしゅ}たちは、{経験|けいけん}{豊|ゆた}かな{監督|かんとく}の（　　）、{毎日|まいにち}{厳|きび}しい{練習|れんしゅう}に{励|はげ}んでいる。", "options": ["向けに", "もとにして", "沿って", "もとで"], "answer": 3, "vi": "Các tuyển thủ mới ngày nào cũng miệt mài luyện tập vất vả dưới sự dẫn dắt của vị huấn luyện viên giàu kinh nghiệm.", "why": "Người (監督) + の + chỗ trống, vế sau là hành động đang làm (練習に励む) → **もとで**. 「もとにして」 phải đi với を và không dùng với người; 「沿って」 cần に; 「監督の向けに」 sai cấu trúc."},
+    {"id": "b08-t4", "kind": "form", "ref": "b08-5", "q": "{国内|こくない}の{自動車|じどうしゃ}メーカー{各社|かくしゃ}は、{東南|とうなん}アジア（　　）{小型車|こがたしゃ}を{次々|つぎつぎ}に{発売|はつばい}している。", "options": ["に基づいて", "向けに", "をもとに", "のもとで"], "answer": 1, "vi": "Các hãng ô tô trong nước liên tiếp tung ra những mẫu xe cỡ nhỏ dành cho thị trường Đông Nam Á.", "why": "Đông Nam Á là **thị trường đích** mà sản phẩm nhắm tới → **向けに**. 「に基づいて」「をもとに」 cần căn cứ / chất liệu (dữ liệu, thiết kế cũ); 「のもとで」 = dưới sự dìu dắt / điều kiện — không hợp."},
+    {"id": "b08-t5", "kind": "order", "ref": "b08-2", "q": "この{報告書|ほうこくしょ}は ＿＿＿ ＿＿＿ ★ ＿＿＿ まとめられた。", "options": ["基づいて", "行った", "全国で", "調査に"], "order": [2, 1, 3, 0], "answer": 3, "vi": "Bản báo cáo này được tổng hợp dựa trên cuộc điều tra đã tiến hành trên toàn quốc.", "why": "この報告書は **全国で 行った 調査に 基づいて** まとめられた → ★ (ô thứ 3) = 「調査に」. 「全国で」 bổ nghĩa cho 「行った」, 「行った」 bổ nghĩa cho 「調査」, 「に基づいて」 nối với động từ 「まとめられた」."},
+    {"id": "b08-t6", "kind": "order", "ref": "b08-4", "q": "この{図書館|としょかん}は ＿＿＿ ＿＿＿ ★ ＿＿＿ いる。", "options": ["もとに", "市の", "運営されて", "管理の"], "order": [1, 3, 0, 2], "answer": 0, "vi": "Thư viện này đang được vận hành dưới sự quản lý của thành phố.", "why": "この図書館は **市の 管理の もとに 運営されて** いる → ★ = 「もとに」. 「管理」 là danh từ điều kiện nên đi với 「のもとに」; 「運営されて」 + 「いる」 đứng cuối."},
+    {"id": "b08-t7", "kind": "usage", "ref": "b08-1", "q": "「〜をもとにして」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["木をもとにして、本棚を作った。", "有名な先生をもとにして、ピアノを習っている。", "実際の事件をもとにして、ドラマの脚本が書かれた。", "会社の規則をもとにして、毎朝9時に出勤している。"], "answer": 2, "vi": "(3) Kịch bản phim truyền hình được viết dựa trên một vụ án có thật.", "why": "(3) Vụ án là chất liệu, kịch bản là sản phẩm sáng tác → đúng. (1) nguyên liệu vật chất → 木で; (2) học dưới sự dìu dắt của người → 先生のもとで; (4) tuân thủ quy định, không tạo ra cái mới → 規則に従って."}
+  ]
+}

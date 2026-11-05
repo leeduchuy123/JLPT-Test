@@ -1,0 +1,1664 @@
+{
+  "id": "g01",
+  "track": "goi",
+  "intro": "Bài đầu tiên của sách xoay quanh **những người ở quanh mình**: họ hàng, bạn bè, người quen, đồng nghiệp. Từ vựng chia làm 3 vòng tròn:\n\n- **Gia đình / họ hàng** (親類): tổ tiên, con cháu, ông bà, con một, con út, sinh đôi, quê nhà (実家)…\n- **Bạn bè / người quen / quan hệ trên–dưới** (友人・知人): 仲良し, 知り合い, 上司—部下, 先輩—後輩, 目上—目下, 年上—年下… và cách **gọi gia đình người khác một cách lịch sự** (奥様, ご主人, お嬢ちゃん, 坊ちゃん, 〜氏, 〜夫妻, 〜夫人).\n- **Giao tiếp** (付き合い): 親しい付き合い, 約束を守る／破る, 言葉遣い, 握手, お辞儀.\n\nPhần 語形成 dạy 4 \"khuôn\" rất năng suất: **〜仲間, 〜合い, 取り〜, 〜遣い**. Cuối bài có 4 phó từ hay ra đề: **長年, たとえ〜ても, ちっとも〜ない, まるで〜ようだ**.\n\nĐiểm then chốt khi thi: (1) cách đọc 訓 của các từ 親孝行 (おや), 目上・目下 (め), 同い年 (おない); (2) cặp đối 目上↔目下, 年上↔年下, 上司↔部下, 先輩↔後輩, 祖先↔子孫; (3) âm đục 遣い → **づかい** khi ghép.",
+  "sections": [
+    {
+      "title": "家族／親類",
+      "title_vi": "Gia đình / họ hàng",
+      "words": [
+        {
+          "id": "g01-w1",
+          "w": "親類",
+          "r": "しんるい",
+          "hv": "THÂN LOẠI",
+          "pos": "名",
+          "vi": "họ hàng, bà con (những người có quan hệ máu mủ hoặc thông gia)",
+          "key": true,
+          "ex": {
+            "ja": "お{正月|しょうがつ}には{親類|しんるい}が{祖父|そふ}の{家|いえ}に{集|あつ}まる。",
+            "vi": "Dịp Tết, họ hàng tụ họp ở nhà ông nội."
+          },
+          "col": [
+            "親類の集まり",
+            "親類付き合い",
+            "遠い親類"
+          ],
+          "rel": "≒ 親戚(しんせき)",
+          "note": "家族 = những người sống chung / gia đình ruột thịt gần (bố mẹ, anh chị em). 親類・親戚 = rộng hơn: cô dì chú bác, anh chị em họ… 親類 hơi cứng hơn 親戚 một chút, nghĩa gần như nhau."
+        },
+        {
+          "id": "g01-w2",
+          "w": "祖先",
+          "r": "そせん",
+          "hv": "TỔ TIÊN",
+          "pos": "名",
+          "vi": "tổ tiên",
+          "key": true,
+          "ex": {
+            "ja": "{日本|にほん}ではお{盆|ぼん}に{祖先|そせん}の{霊|れい}を{迎|むか}える{習慣|しゅうかん}がある。",
+            "vi": "Ở Nhật có tập tục đón vong linh tổ tiên vào dịp Obon."
+          },
+          "col": [
+            "祖先を敬う",
+            "人類の祖先"
+          ],
+          "rel": "≒ 先祖(せんぞ)　↔ 子孫",
+          "note": "祖先 còn dùng cho loài vật / nhân loại theo nghĩa sinh học (人類の祖先, 鳥の祖先は恐竜). 先祖 nghiêng về tổ tiên của một dòng họ (先祖代々, 先祖のお墓)."
+        },
+        {
+          "id": "g01-w3",
+          "w": "子孫",
+          "r": "しそん",
+          "hv": "TỬ TÔN",
+          "pos": "名",
+          "vi": "con cháu, hậu duệ",
+          "key": true,
+          "ex": {
+            "ja": "この{美|うつく}しい{森|もり}を{子孫|しそん}に{残|のこ}していきたい。",
+            "vi": "Tôi muốn giữ lại khu rừng đẹp này cho con cháu đời sau."
+          },
+          "col": [
+            "子孫に残す",
+            "子孫が繁栄する"
+          ],
+          "rel": "↔ 祖先",
+          "note": "Đọc là **しそん**, không phải こまご. Mẹo: Hán Việt TỬ TÔN → し・そん."
+        },
+        {
+          "id": "g01-w4",
+          "w": "祖父母",
+          "r": "そふぼ",
+          "hv": "TỔ PHỤ MẪU",
+          "pos": "名",
+          "vi": "ông bà",
+          "key": true,
+          "ex": {
+            "ja": "{両親|りょうしん}が{働|はたら}いていたので、{私|わたし}は{祖父母|そふぼ}に{育|そだ}てられた。",
+            "vi": "Vì bố mẹ đi làm nên tôi được ông bà nuôi lớn."
+          },
+          "col": [
+            "祖父母の家"
+          ],
+          "note": "祖父(そふ) = ông, 祖母(そぼ) = bà. Khi nói với người ngoài về ông bà mình dùng 祖父・祖母; gọi trực tiếp thì おじいさん・おばあさん."
+        },
+        {
+          "id": "g01-w5",
+          "w": "孫",
+          "r": "まご",
+          "hv": "TÔN",
+          "pos": "名",
+          "vi": "cháu (con của con mình)",
+          "key": true,
+          "ex": {
+            "ja": "{母|はは}は{孫|まご}の{顔|かお}を{見|み}るのを{何|なに}より{楽|たの}しみにしている。",
+            "vi": "Mẹ tôi mong được gặp mặt cháu hơn bất cứ điều gì."
+          },
+          "col": [
+            "初孫(はつまご)",
+            "孫が生まれる"
+          ],
+          "note": "Chỉ là cháu nội/ngoại (thế hệ dưới 2 đời). Cháu gọi bằng cô/chú (con của anh chị em) là 甥(おい)・姪(めい), không phải 孫."
+        },
+        {
+          "id": "g01-w6",
+          "w": "三世代",
+          "r": "さんせだい",
+          "hv": "TAM THẾ ĐẠI",
+          "pos": "名",
+          "vi": "ba thế hệ (ông bà – bố mẹ – con cái)",
+          "key": true,
+          "ex": {
+            "ja": "{最近|さいきん}は{三世代|さんせだい}が{一緒|いっしょ}に{暮|く}らす{家庭|かてい}が{減|へ}っている。",
+            "vi": "Gần đây số gia đình ba thế hệ sống chung đang giảm."
+          },
+          "col": [
+            "三世代同居",
+            "若い世代",
+            "世代交代"
+          ],
+          "note": "世代(せだい) = thế hệ. 若い世代 = thế hệ trẻ, 世代の差 = khoảng cách thế hệ."
+        },
+        {
+          "id": "g01-w7",
+          "w": "一家",
+          "r": "いっか",
+          "hv": "NHẤT GIA",
+          "pos": "名",
+          "vi": "cả nhà, cả gia đình (một hộ)",
+          "key": true,
+          "ex": {
+            "ja": "{山田|やまだ}さん{一家|いっか}は{毎年|まいとし}{夏|なつ}になると{海|うみ}へ{出|で}かける。",
+            "vi": "Cả nhà anh Yamada năm nào cứ đến hè là đi biển."
+          },
+          "col": [
+            "一家で出かける",
+            "〇〇さん一家",
+            "一家の主(あるじ)"
+          ],
+          "rel": "≒ 家族全員",
+          "note": "Gắn thẳng sau tên: 田中さん一家 (không cần の). 家族 thì phải nói 田中さんの家族. Đọc いっか, không phải いちか."
+        },
+        {
+          "id": "g01-w8",
+          "w": "集まり",
+          "r": "あつまり",
+          "hv": "TẬP",
+          "pos": "名",
+          "vi": "buổi tụ họp, cuộc gặp mặt",
+          "key": true,
+          "ex": {
+            "ja": "{来週|らいしゅう}の{親類|しんるい}の{集|あつ}まりには、{久|ひさ}しぶりに{叔父|おじ}も{来|く}るそうだ。",
+            "vi": "Nghe nói buổi họp mặt họ hàng tuần sau, lâu lắm chú tôi mới đến."
+          },
+          "col": [
+            "集まりに出る",
+            "集まりが悪い (ít người đến)"
+          ],
+          "note": "Danh từ hóa từ 集まる. 「集まりが悪い」 = người đến thưa thớt."
+        },
+        {
+          "id": "g01-w9",
+          "w": "親孝行",
+          "r": "おやこうこう",
+          "hv": "THÂN HIẾU HẠNH",
+          "pos": "名・な形・自動",
+          "vi": "hiếu thảo với cha mẹ; việc làm hiếu thảo",
+          "key": true,
+          "ex": {
+            "ja": "{初|はじ}めての{給料|きゅうりょう}で{両親|りょうしん}を{温泉|おんせん}に{連|つ}れて{行|い}き、{少|すこ}しは{親孝行|おやこうこう}ができた。",
+            "vi": "Lần đầu có lương, tôi đưa bố mẹ đi suối nước nóng, coi như đã báo hiếu được chút ít."
+          },
+          "col": [
+            "親孝行をする",
+            "親孝行な息子"
+          ],
+          "rel": "↔ 親不孝(おやふこう)",
+          "note": "親 ở đây đọc **おや** (訓), 孝行 đọc こうこう. Bẫy đề: しんこうこう."
+        },
+        {
+          "id": "g01-w10",
+          "w": "実家",
+          "r": "じっか",
+          "hv": "THỰC GIA",
+          "pos": "名",
+          "vi": "nhà bố mẹ đẻ, nhà gốc (nơi mình sinh ra lớn lên)",
+          "key": true,
+          "ex": {
+            "ja": "{結婚|けっこん}してからも、{月|つき}に{一度|いちど}は{実家|じっか}に{顔|かお}を{出|だ}している。",
+            "vi": "Kể cả sau khi lấy chồng, mỗi tháng tôi vẫn về nhà bố mẹ đẻ một lần."
+          },
+          "col": [
+            "実家に帰る",
+            "実家が懐かしい",
+            "実家暮らし"
+          ],
+          "note": "Không phải \"nhà thật\". Đây là nhà của bố mẹ, nơi mình đã rời đi (vì lập gia đình, đi làm xa). Người đang sống với bố mẹ: 実家暮らし."
+        },
+        {
+          "id": "g01-w11",
+          "w": "懐かしい",
+          "r": "なつかしい",
+          "hv": "HOÀI",
+          "pos": "い形",
+          "vi": "nhớ nhung, gợi nhớ (cảm giác ấm áp khi nghĩ về điều cũ)",
+          "key": true,
+          "ex": {
+            "ja": "{古|ふる}いアルバムを{開|ひら}いたら、{学生|がくせい}{時代|じだい}の{懐|なつ}かしい{写真|しゃしん}が{出|で}てきた。",
+            "vi": "Mở album cũ ra thì thấy những tấm ảnh thời sinh viên đầy kỷ niệm."
+          },
+          "col": [
+            "子どものころが懐かしい",
+            "懐かしい曲"
+          ],
+          "note": "Chỉ dùng cho thứ **đã từng trải qua** rồi nhớ lại. Không dùng cho nhớ người đang ở xa theo kiểu \"nhớ bạn quá\" ngay bây giờ (→ 会いたい／恋しい). Cẩn thận: 人懐っこい = dễ gần, khác nghĩa."
+        },
+        {
+          "id": "g01-w12",
+          "w": "姉妹",
+          "r": "しまい",
+          "hv": "TỈ MUỘI",
+          "pos": "名",
+          "vi": "chị em gái",
+          "key": true,
+          "ex": {
+            "ja": "{田中|たなか}さんは{三人|さんにん}{姉妹|しまい}の{長女|ちょうじょ}で、{面倒見|めんどうみ}がいい。",
+            "vi": "Chị Tanaka là con cả trong ba chị em gái nên rất biết chăm lo người khác."
+          },
+          "col": [
+            "三人姉妹",
+            "姉妹都市 (thành phố kết nghĩa)"
+          ],
+          "rel": "cf. 兄弟(きょうだい)",
+          "note": "兄弟 có thể chỉ chung anh chị em; 姉妹 chỉ toàn con gái. 姉妹都市 = thành phố kết nghĩa."
+        },
+        {
+          "id": "g01-w13",
+          "w": "末っ子",
+          "r": "すえっこ",
+          "hv": "MẠT TỬ",
+          "pos": "名",
+          "vi": "con út",
+          "key": true,
+          "ex": {
+            "ja": "{末|すえ}っ{子|こ}の{弟|おとうと}は{家族|かぞく}みんなに{甘|あま}やかされて{育|そだ}った。",
+            "vi": "Thằng em út được cả nhà nuông chiều từ nhỏ."
+          },
+          "rel": "↔ 長男・長女 (con cả)",
+          "note": "末 = cuối (MẠT). Đừng nhầm với 未 (VỊ, chưa) — nét ngang trên dài hơn là 末."
+        },
+        {
+          "id": "g01-w14",
+          "w": "一人っ子",
+          "r": "ひとりっこ",
+          "hv": "NHẤT NHÂN TỬ",
+          "pos": "名",
+          "vi": "con một",
+          "key": true,
+          "ex": {
+            "ja": "{一人|ひとり}っ{子|こ}なので、{兄弟|きょうだい}げんかをしたことがない。",
+            "vi": "Vì là con một nên tôi chưa từng cãi nhau với anh chị em."
+          },
+          "note": "〜っ子 là hậu tố \"đứa trẻ…\": 末っ子, 一人っ子, 江戸っ子 (người gốc Edo)."
+        },
+        {
+          "id": "g01-w15",
+          "w": "双子",
+          "r": "ふたご",
+          "hv": "SONG TỬ",
+          "pos": "名",
+          "vi": "sinh đôi, cặp song sinh",
+          "key": true,
+          "ex": {
+            "ja": "あの{双子|ふたご}は{顔|かお}がそっくりで、{先生|せんせい}もよく{間違|まちが}える。",
+            "vi": "Cặp sinh đôi đó mặt giống hệt nhau, đến thầy giáo cũng hay nhầm."
+          },
+          "col": [
+            "双子の兄",
+            "双子のように似ている"
+          ],
+          "note": "Đọc ふた**ご** (có âm đục). Không đọc そうし."
+        }
+      ]
+    },
+    {
+      "title": "友人／知人・知り合い",
+      "title_vi": "Bạn bè / người quen",
+      "words": [
+        {
+          "id": "g01-w16",
+          "w": "仲良し",
+          "r": "なかよし",
+          "hv": "TRỌNG LƯƠNG",
+          "pos": "名",
+          "vi": "bạn thân, (quan hệ) thân thiết, hoà thuận",
+          "key": true,
+          "ex": {
+            "ja": "{隣|となり}の{家|いえ}の{子|こ}とうちの{娘|むすめ}は{大|だい}の{仲良|なかよ}しだ。",
+            "vi": "Con nhà bên và con gái tôi là đôi bạn rất thân."
+          },
+          "col": [
+            "大の仲良し",
+            "仲良しグループ"
+          ],
+          "rel": "≒ 仲がいい／親しい友達",
+          "note": "仲良し là danh từ: 「二人は仲良しだ」. Còn tính từ thì nói 「仲がいい」. Động từ: 仲良くする."
+        },
+        {
+          "id": "g01-w17",
+          "w": "仲間",
+          "r": "なかま",
+          "hv": "TRỌNG GIAN",
+          "pos": "名",
+          "vi": "bạn bè cùng nhóm, đồng đội, người cùng hội",
+          "key": true,
+          "ex": {
+            "ja": "{困|こま}ったときに{助|たす}けてくれる{仲間|なかま}がいるのは{心強|こころづよ}い。",
+            "vi": "Có những người bạn đồng hành giúp đỡ khi khó khăn thật là yên tâm."
+          },
+          "col": [
+            "仲間に入る",
+            "仲間外れ (bị cho ra rìa)",
+            "仕事仲間"
+          ],
+          "note": "仲間 nhấn vào **cùng làm một việc / cùng một nhóm** (cùng chơi, cùng làm, cùng học), chưa chắc đã thân thiết như 仲良し."
+        },
+        {
+          "id": "g01-w18",
+          "w": "知人",
+          "r": "ちじん",
+          "hv": "TRI NHÂN",
+          "pos": "名",
+          "vi": "người quen (văn viết, trang trọng)",
+          "key": true,
+          "ex": {
+            "ja": "{知人|ちじん}の{紹介|しょうかい}で、{今|いま}の{会社|かいしゃ}に{就職|しゅうしょく}した。",
+            "vi": "Tôi vào làm ở công ty hiện tại nhờ người quen giới thiệu."
+          },
+          "rel": "≒ 知り合い",
+          "note": "知人 cứng hơn 知り合い, hay gặp trong tin tức, văn bản (知人の男性). Nghĩa: biết nhau nhưng **chưa phải bạn thân**."
+        },
+        {
+          "id": "g01-w19",
+          "w": "知り合い",
+          "r": "しりあい",
+          "hv": "TRI HỢP",
+          "pos": "名",
+          "vi": "người quen; sự quen biết",
+          "key": true,
+          "ex": {
+            "ja": "{彼|かれ}は{顔|かお}が{広|ひろ}くて、どこへ{行|い}っても{知|し}り{合|あ}いがいる。",
+            "vi": "Anh ấy quen biết rộng, đi đâu cũng có người quen."
+          },
+          "col": [
+            "知り合いが多い",
+            "知り合いになる",
+            "知り合う (động từ)"
+          ],
+          "rel": "≒ 知人",
+          "note": "Văn nói thông dụng hơn 知人. Động từ gốc: 知り合う = làm quen với nhau (大学で知り合った)."
+        },
+        {
+          "id": "g01-w20",
+          "w": "奥様",
+          "r": "おくさま",
+          "hv": "ÁO DẠNG",
+          "pos": "名",
+          "vi": "phu nhân, vợ (của người khác — kính ngữ)",
+          "key": true,
+          "ex": {
+            "ja": "{部長|ぶちょう}、{奥様|おくさま}にもどうぞよろしくお{伝|つた}えください。",
+            "vi": "Thưa trưởng phòng, xin gửi lời hỏi thăm đến phu nhân giúp tôi."
+          },
+          "rel": "↔ ご主人",
+          "note": "Vợ người khác: 奥様 (lịch sự nhất) / 奥さん. Vợ mình (nói với người ngoài): 妻 / 家内. Không gọi vợ mình là 奥様."
+        },
+        {
+          "id": "g01-w21",
+          "w": "ご主人",
+          "r": "ごしゅじん",
+          "hv": "CHỦ NHÂN",
+          "pos": "名",
+          "vi": "chồng (của người khác — kính ngữ)",
+          "key": false,
+          "ex": {
+            "ja": "ご{主人|しゅじん}はお{元気|げんき}ですか。",
+            "vi": "Chồng chị có khoẻ không ạ?"
+          },
+          "rel": "↔ 奥様",
+          "note": "Chồng mình: 夫 / 主人 (không có ご)."
+        },
+        {
+          "id": "g01-w22",
+          "w": "お母様",
+          "r": "おかあさま",
+          "hv": "MẪU DẠNG",
+          "pos": "名",
+          "vi": "mẹ (của người khác — kính ngữ)",
+          "key": true,
+          "ex": {
+            "ja": "お{母様|かあさま}のお{加減|かげん}はいかがですか。",
+            "vi": "Sức khoẻ của mẹ anh dạo này thế nào ạ?"
+          },
+          "rel": "↔ お父様",
+          "note": "Mẹ mình nói với người ngoài: 母. お母様 dùng cho mẹ của người đối diện / người được kính trọng."
+        },
+        {
+          "id": "g01-w23",
+          "w": "お父様",
+          "r": "おとうさま",
+          "hv": "PHỤ DẠNG",
+          "pos": "名",
+          "vi": "bố, cha (của người khác — kính ngữ)",
+          "key": true,
+          "ex": {
+            "ja": "{先日|せんじつ}はお{父様|とうさま}にも{大変|たいへん}お{世話|せわ}になりました。",
+            "vi": "Hôm trước tôi cũng đã được bố của anh giúp đỡ rất nhiều."
+          },
+          "rel": "↔ お母様"
+        },
+        {
+          "id": "g01-w24",
+          "w": "お嬢ちゃん",
+          "r": "おじょうちゃん",
+          "hv": "NƯƠNG",
+          "pos": "名",
+          "vi": "cô bé, con gái nhỏ (của người khác)",
+          "key": true,
+          "ex": {
+            "ja": "かわいいお{嬢|じょう}ちゃんですね。おいくつですか。",
+            "vi": "Bé gái dễ thương quá. Cháu mấy tuổi rồi ạ?"
+          },
+          "rel": "↔ (お)坊ちゃん　≒ 娘さん",
+          "note": "お嬢ちゃん dùng cho bé gái nhỏ. Với con gái đã lớn của người khác dùng お嬢さん / お嬢様 (lịch sự hơn)."
+        },
+        {
+          "id": "g01-w25",
+          "w": "坊ちゃん",
+          "r": "ぼっちゃん",
+          "hv": "PHƯỜNG",
+          "pos": "名",
+          "vi": "cậu bé, con trai (của người khác)",
+          "key": true,
+          "ex": {
+            "ja": "{社長|しゃちょう}のお{坊|ぼっ}ちゃんは{来年|らいねん}{小学生|しょうがくせい}になるそうだ。",
+            "vi": "Nghe nói cậu con trai của giám đốc sang năm vào tiểu học."
+          },
+          "rel": "≒ 息子さん　↔ お嬢ちゃん",
+          "note": "Đọc ぼ**っ**ちゃん. Cách nói 「お坊ちゃん育ち」 còn mang nghĩa mỉa: cậu ấm, được nuông chiều, không hiểu sự đời."
+        },
+        {
+          "id": "g01-w26",
+          "w": "氏",
+          "r": "し",
+          "hv": "THỊ",
+          "pos": "接尾",
+          "vi": "ông/bà… (gắn sau họ tên, văn viết, trang trọng)",
+          "key": true,
+          "ex": {
+            "ja": "{本日|ほんじつ}の{講演|こうえん}は、{作家|さっか}の{鈴木|すずき}{一郎|いちろう}{氏|し}にお{願|ねが}いしております。",
+            "vi": "Bài diễn thuyết hôm nay do nhà văn Suzuki Ichiro đảm nhận."
+          },
+          "col": [
+            "田中氏",
+            "両氏 (cả hai ông/bà)"
+          ],
+          "note": "Gặp nhiều trong báo chí, văn bản. Khi nói chuyện trực tiếp không gọi người đối diện là 〜氏 (→ 〜さん／〜様)."
+        },
+        {
+          "id": "g01-w27",
+          "w": "夫妻",
+          "r": "ふさい",
+          "hv": "PHU THÊ",
+          "pos": "名",
+          "vi": "vợ chồng (ông bà…; cách gọi trang trọng một cặp vợ chồng)",
+          "key": true,
+          "ex": {
+            "ja": "{式|しき}には、{大使|たいし}ご{夫妻|ふさい}も{出席|しゅっせき}された。",
+            "vi": "Vợ chồng ngài đại sứ cũng đã đến dự buổi lễ."
+          },
+          "col": [
+            "田中氏ご夫妻",
+            "ご夫妻で"
+          ],
+          "rel": "≒ 夫婦(ふうふ)",
+          "note": "夫婦 = vợ chồng nói chung (cả vợ chồng mình). 夫妻 = cách gọi trang trọng cặp vợ chồng **người khác**, thường kèm ご: 〜ご夫妻."
+        },
+        {
+          "id": "g01-w28",
+          "w": "夫人",
+          "r": "ふじん",
+          "hv": "PHU NHÂN",
+          "pos": "名",
+          "vi": "phu nhân, bà (vợ của người có địa vị)",
+          "key": true,
+          "ex": {
+            "ja": "{首相|しゅしょう}{夫人|ふじん}が{小学校|しょうがっこう}を{訪問|ほうもん}した。",
+            "vi": "Phu nhân thủ tướng đã đến thăm một trường tiểu học."
+          },
+          "col": [
+            "〇〇夫人",
+            "大統領夫人"
+          ],
+          "note": "Đừng nhầm với 婦人(ふじん) = phụ nữ nói chung (婦人服 = quần áo nữ). Cùng âm, khác chữ: 夫人 là **vợ của ai đó**."
+        },
+        {
+          "id": "g01-w29",
+          "w": "職場",
+          "r": "しょくば",
+          "hv": "CHỨC TRƯỜNG",
+          "pos": "名",
+          "vi": "nơi làm việc, chỗ làm",
+          "key": true,
+          "ex": {
+            "ja": "{職場|しょくば}の{雰囲気|ふんいき}がいいので、{毎日|まいにち}{楽|たの}しく{働|はたら}けている。",
+            "vi": "Không khí nơi làm việc tốt nên ngày nào tôi cũng làm việc vui vẻ."
+          },
+          "col": [
+            "職場の人間関係",
+            "職場の同僚"
+          ]
+        },
+        {
+          "id": "g01-w30",
+          "w": "上司",
+          "r": "じょうし",
+          "hv": "THƯỢNG TI",
+          "pos": "名",
+          "vi": "cấp trên, sếp",
+          "key": true,
+          "ex": {
+            "ja": "{上司|じょうし}に{相談|そうだん}してから、{取引先|とりひきさき}に{返事|へんじ}をします。",
+            "vi": "Tôi sẽ trao đổi với cấp trên rồi trả lời đối tác."
+          },
+          "rel": "↔ 部下",
+          "note": "Quan hệ theo **chức vụ** trong công ty (không liên quan tuổi tác)."
+        },
+        {
+          "id": "g01-w31",
+          "w": "部下",
+          "r": "ぶか",
+          "hv": "BỘ HẠ",
+          "pos": "名",
+          "vi": "cấp dưới, nhân viên dưới quyền",
+          "key": true,
+          "ex": {
+            "ja": "{彼女|かのじょ}は{部下|ぶか}の{意見|いけん}にもきちんと{耳|みみ}を{傾|かたむ}ける。",
+            "vi": "Chị ấy luôn chịu lắng nghe cả ý kiến của cấp dưới."
+          },
+          "rel": "↔ 上司"
+        },
+        {
+          "id": "g01-w32",
+          "w": "先輩",
+          "r": "せんぱい",
+          "hv": "TIÊN BỐI",
+          "pos": "名",
+          "vi": "đàn anh, đàn chị, tiền bối (vào trường / công ty trước)",
+          "key": true,
+          "ex": {
+            "ja": "{大学|だいがく}の{先輩|せんぱい}に{就職|しゅうしょく}{活動|かつどう}のアドバイスをもらった。",
+            "vi": "Tôi được đàn anh khoá trên ở đại học cho lời khuyên về việc tìm việc."
+          },
+          "rel": "↔ 後輩",
+          "note": "Tính theo **ai vào trước** (khoá, năm vào công ty), không theo tuổi. Người ít tuổi hơn vẫn có thể là 先輩 của mình."
+        },
+        {
+          "id": "g01-w33",
+          "w": "後輩",
+          "r": "こうはい",
+          "hv": "HẬU BỐI",
+          "pos": "名",
+          "vi": "đàn em, hậu bối (vào sau)",
+          "key": true,
+          "ex": {
+            "ja": "{後輩|こうはい}に{仕事|しごと}を{教|おし}えるのも{大切|たいせつ}な{役目|やくめ}だ。",
+            "vi": "Dạy việc cho đàn em cũng là một vai trò quan trọng."
+          },
+          "rel": "↔ 先輩"
+        },
+        {
+          "id": "g01-w34",
+          "w": "目上",
+          "r": "めうえ",
+          "hv": "MỤC THƯỢNG",
+          "pos": "名",
+          "vi": "người trên (về tuổi tác, địa vị)",
+          "key": true,
+          "ex": {
+            "ja": "{目上|めうえ}の{人|ひと}には{敬語|けいご}を{使|つか}うのが{普通|ふつう}だ。",
+            "vi": "Với người trên, dùng kính ngữ là chuyện bình thường."
+          },
+          "col": [
+            "目上の人"
+          ],
+          "rel": "↔ 目下",
+          "note": "Bao trùm nhất: gồm người lớn tuổi hơn, cấp trên, thầy cô, khách hàng… Gần như luôn đi với 「目上の人」."
+        },
+        {
+          "id": "g01-w35",
+          "w": "目下",
+          "r": "めした",
+          "hv": "MỤC HẠ",
+          "pos": "名",
+          "vi": "người dưới (về tuổi tác, địa vị)",
+          "key": true,
+          "ex": {
+            "ja": "{目下|めした}の{人|ひと}に{対|たい}しても{偉|えら}そうな{態度|たいど}を{取|と}らないようにしている。",
+            "vi": "Tôi cố gắng không tỏ thái độ hách dịch kể cả với người dưới."
+          },
+          "rel": "↔ 目上",
+          "note": "Bẫy đọc: 目下 còn đọc **もっか** với nghĩa khác hẳn = \"hiện nay, hiện tại\" (目下調査中 = hiện đang điều tra). Nghĩa \"người dưới\" thì đọc めした."
+        },
+        {
+          "id": "g01-w36",
+          "w": "年上",
+          "r": "としうえ",
+          "hv": "NIÊN THƯỢNG",
+          "pos": "名",
+          "vi": "lớn tuổi hơn",
+          "key": true,
+          "ex": {
+            "ja": "{兄|あに}の{奥|おく}さんは{兄|あに}より{五|いつ}つ{年上|としうえ}だ。",
+            "vi": "Vợ anh trai tôi hơn anh ấy năm tuổi."
+          },
+          "rel": "↔ 年下",
+          "note": "Chỉ so **tuổi**. 「AはBより三つ年上だ」= A hơn B ba tuổi."
+        },
+        {
+          "id": "g01-w37",
+          "w": "年下",
+          "r": "としした",
+          "hv": "NIÊN HẠ",
+          "pos": "名",
+          "vi": "ít tuổi hơn",
+          "key": true,
+          "ex": {
+            "ja": "{年下|としした}の{上司|じょうし}にどう{接|せっ}すればいいか{悩|なや}んでいる。",
+            "vi": "Tôi đang băn khoăn không biết nên cư xử thế nào với cấp trên ít tuổi hơn mình."
+          },
+          "rel": "↔ 年上"
+        },
+        {
+          "id": "g01-w38",
+          "w": "同い年",
+          "r": "おないどし",
+          "hv": "ĐỒNG NIÊN",
+          "pos": "名",
+          "vi": "bằng tuổi, cùng tuổi",
+          "key": true,
+          "ex": {
+            "ja": "{彼|かれ}とは{同|おな}い{年|どし}なので、{敬語|けいご}を{使|つか}わずに{話|はな}している。",
+            "vi": "Tôi và anh ấy bằng tuổi nên nói chuyện không dùng kính ngữ."
+          },
+          "rel": "≒ 同じ年",
+          "note": "Cách đọc đặc biệt: 同 = **おない**, 年 = **どし** (đục). Không đọc どうねん."
+        }
+      ]
+    },
+    {
+      "title": "付き合い",
+      "title_vi": "Giao tiếp, quan hệ với mọi người",
+      "words": [
+        {
+          "id": "g01-w39",
+          "w": "周囲",
+          "r": "しゅうい",
+          "hv": "CHU VI",
+          "pos": "名",
+          "vi": "xung quanh; những người xung quanh",
+          "key": true,
+          "ex": {
+            "ja": "{周囲|しゅうい}の{人々|ひとびと}の{支|ささ}えがあったからこそ、ここまで{頑張|がんば}れた。",
+            "vi": "Chính nhờ sự hỗ trợ của những người xung quanh mà tôi mới cố gắng được đến hôm nay."
+          },
+          "col": [
+            "周囲の目",
+            "周囲の反対",
+            "池の周囲"
+          ],
+          "rel": "≒ 周り",
+          "note": "Hai nghĩa: (1) vùng xung quanh một vật (池の周囲を歩く); (2) những người xung quanh mình (周囲の目を気にする = để ý ánh mắt người khác)."
+        },
+        {
+          "id": "g01-w40",
+          "w": "親しい",
+          "r": "したしい",
+          "hv": "THÂN",
+          "pos": "い形",
+          "vi": "thân, thân thiết, gần gũi",
+          "key": true,
+          "ex": {
+            "ja": "{親|した}しい{友人|ゆうじん}だけを{招|まね}いて、{小|ちい}さな{誕生日会|たんじょうびかい}を{開|ひら}いた。",
+            "vi": "Tôi chỉ mời những người bạn thân, tổ chức một bữa tiệc sinh nhật nhỏ."
+          },
+          "col": [
+            "親しい付き合い",
+            "親しい間柄",
+            "親しくなる"
+          ],
+          "note": "Chỉ dùng cho **quan hệ giữa người với người**. Không dùng cho vật, đồ ăn, thời tiết (→ 懐かしい, 穏やかな…)."
+        },
+        {
+          "id": "g01-w41",
+          "w": "付き合い",
+          "r": "つきあい",
+          "hv": "PHÓ HỢP",
+          "pos": "名",
+          "vi": "sự giao thiệp, qua lại; quan hệ (bạn bè, công việc, yêu đương)",
+          "key": true,
+          "ex": {
+            "ja": "{仕事|しごと}の{付|つ}き{合|あ}いで、{週|しゅう}に{二回|にかい}は{飲|の}み{会|かい}がある。",
+            "vi": "Vì giao thiệp công việc, mỗi tuần có hai lần đi nhậu."
+          },
+          "col": [
+            "親しい付き合い",
+            "付き合いがいい／悪い",
+            "近所付き合い",
+            "長い付き合い"
+          ],
+          "note": "「付き合いがいい」 = hay nhận lời rủ rê, xã giao tốt. Động từ 付き合う: (1) giao du, (2) hẹn hò yêu đương, (3) đi cùng ai cho có bạn (買い物に付き合う)."
+        },
+        {
+          "id": "g01-w42",
+          "w": "コミュニケーション",
+          "r": "こみゅにけーしょん",
+          "hv": "",
+          "pos": "名",
+          "vi": "giao tiếp, trao đổi",
+          "key": true,
+          "ex": {
+            "ja": "{言葉|ことば}が{通|つう}じなくても、{笑顔|えがお}でコミュニケーションを{取|と}ることはできる。",
+            "vi": "Dù ngôn ngữ không thông, vẫn có thể giao tiếp bằng nụ cười."
+          },
+          "col": [
+            "コミュニケーションを取る",
+            "コミュニケーション能力"
+          ],
+          "note": "Cụm hay gặp nhất là **コミュニケーションを取る** (giao tiếp, trao đổi với nhau). コミュニケーションする cũng có nhưng ít gặp hơn trong đề."
+        },
+        {
+          "id": "g01-w43",
+          "w": "守る",
+          "r": "まもる",
+          "hv": "THỦ",
+          "pos": "他動",
+          "vi": "giữ (lời hứa, quy tắc); bảo vệ",
+          "key": true,
+          "ex": {
+            "ja": "{彼|かれ}は{一度|いちど}した{約束|やくそく}は{必|かなら}ず{守|まも}る{人|ひと}だ。",
+            "vi": "Anh ấy là người đã hứa thì nhất định giữ lời."
+          },
+          "col": [
+            "約束を守る",
+            "ルールを守る",
+            "時間を守る",
+            "家族を守る"
+          ],
+          "rel": "↔ 破る"
+        },
+        {
+          "id": "g01-w44",
+          "w": "破る",
+          "r": "やぶる",
+          "hv": "PHÁ",
+          "pos": "他動",
+          "vi": "phá (lời hứa), vi phạm (quy tắc); xé rách; phá (kỷ lục)",
+          "key": true,
+          "ex": {
+            "ja": "{約束|やくそく}を{破|やぶ}ってばかりいると、{友達|ともだち}を{失|うしな}うよ。",
+            "vi": "Cứ thất hứa mãi thì sẽ mất bạn đấy."
+          },
+          "col": [
+            "約束を破る",
+            "規則を破る",
+            "記録を破る",
+            "紙を破る"
+          ],
+          "rel": "↔ 守る",
+          "note": "Tự động từ: 破れる (紙が破れる = giấy bị rách). 約束を破る = thất hứa (có lỗi), khác với 約束を取り消す = huỷ hẹn (có báo trước)."
+        },
+        {
+          "id": "g01-w45",
+          "w": "取り消す",
+          "r": "とりけす",
+          "hv": "THỦ TIÊU",
+          "pos": "他動",
+          "vi": "huỷ bỏ, rút lại (đặt chỗ, đơn, lời nói, quyết định)",
+          "key": true,
+          "ex": {
+            "ja": "{熱|ねつ}が{出|で}たので、{明日|あした}のレストランの{予約|よやく}を{取|と}り{消|け}した。",
+            "vi": "Vì bị sốt nên tôi đã huỷ đặt bàn nhà hàng ngày mai."
+          },
+          "col": [
+            "予約を取り消す",
+            "約束を取り消す",
+            "発言を取り消す",
+            "取り消し (danh từ)"
+          ],
+          "rel": "≒ キャンセルする",
+          "note": "Chỉ dùng cho những thứ **trừu tượng đã quyết định / đã đăng ký / đã nói**. Không dùng cho việc tắt đèn, xoá chữ (→ 消す)."
+        },
+        {
+          "id": "g01-w46",
+          "w": "言葉遣い",
+          "r": "ことばづかい",
+          "hv": "NGÔN DIỆP KHIỂN",
+          "pos": "名",
+          "vi": "cách dùng từ, cách ăn nói",
+          "key": true,
+          "ex": {
+            "ja": "{接客|せっきゃく}の{仕事|しごと}では、{丁寧|ていねい}な{言葉遣|ことばづか}いが{求|もと}められる。",
+            "vi": "Công việc tiếp khách đòi hỏi cách ăn nói lịch sự."
+          },
+          "col": [
+            "言葉遣いが丁寧だ／乱暴だ",
+            "言葉遣いに気をつける"
+          ],
+          "note": "遣い đọc **づかい** khi đứng sau từ khác (rendaku). Viết 遣, không viết 使 trong từ này."
+        },
+        {
+          "id": "g01-w47",
+          "w": "握手",
+          "r": "あくしゅ",
+          "hv": "ÁC THỦ",
+          "pos": "名・自動",
+          "vi": "bắt tay",
+          "key": true,
+          "ex": {
+            "ja": "{試合|しあい}が{終|お}わると、{両|りょう}チームの{選手|せんしゅ}は{握手|あくしゅ}を{交|か}わした。",
+            "vi": "Trận đấu kết thúc, cầu thủ hai đội bắt tay nhau."
+          },
+          "col": [
+            "握手する",
+            "握手を交わす",
+            "握手を求める"
+          ],
+          "note": "〔người〕と握手する. 握 = nắm (握る)."
+        },
+        {
+          "id": "g01-w48",
+          "w": "お辞儀",
+          "r": "おじぎ",
+          "hv": "TỪ NGHI",
+          "pos": "名・自動",
+          "vi": "cúi chào",
+          "key": true,
+          "ex": {
+            "ja": "{日本|にほん}では{挨拶|あいさつ}をするとき、{軽|かる}くお{辞儀|じぎ}をすることが{多|おお}い。",
+            "vi": "Ở Nhật, khi chào hỏi người ta thường cúi chào nhẹ."
+          },
+          "col": [
+            "お辞儀をする",
+            "深くお辞儀をする"
+          ],
+          "note": "Gần như luôn dùng ở dạng お辞儀. Đây là **động tác cúi người**, không phải lời chào bằng miệng (→ 挨拶) hay sự từ chức (→ 辞職)."
+        }
+      ]
+    },
+    {
+      "title": "語形成",
+      "title_vi": "Cấu tạo từ: 〜仲間・〜合い・取り〜・〜遣い",
+      "words": [
+        {
+          "id": "g01-w49",
+          "w": "仕事仲間",
+          "r": "しごとなかま",
+          "hv": "SĨ SỰ TRỌNG GIAN",
+          "pos": "名",
+          "vi": "bạn đồng nghiệp, người cùng làm việc",
+          "key": true,
+          "ex": {
+            "ja": "{仕事|しごと}{仲間|なかま}と{一緒|いっしょ}に{新|あたら}しい{会社|かいしゃ}を{立|た}ち{上|あ}げた。",
+            "vi": "Tôi cùng các bạn đồng nghiệp lập ra một công ty mới."
+          },
+          "rel": "≒ 同僚(どうりょう)"
+        },
+        {
+          "id": "g01-w50",
+          "w": "勉強仲間",
+          "r": "べんきょうなかま",
+          "hv": "MIỄN CƯỜNG TRỌNG GIAN",
+          "pos": "名",
+          "vi": "bạn cùng học",
+          "key": false,
+          "ex": {
+            "ja": "{試験|しけん}{前|まえ}は{勉強|べんきょう}{仲間|なかま}と{図書館|としょかん}に{集|あつ}まる。",
+            "vi": "Trước kỳ thi, tôi tụ tập với nhóm bạn cùng học ở thư viện."
+          }
+        },
+        {
+          "id": "g01-w51",
+          "w": "飲み仲間",
+          "r": "のみなかま",
+          "hv": "ẨM TRỌNG GIAN",
+          "pos": "名",
+          "vi": "bạn nhậu",
+          "key": false,
+          "ex": {
+            "ja": "{父|ちち}には{近所|きんじょ}に{古|ふる}くからの{飲|の}み{仲間|なかま}がいる。",
+            "vi": "Bố tôi có mấy người bạn nhậu lâu năm trong xóm."
+          }
+        },
+        {
+          "id": "g01-w52",
+          "w": "話し合い",
+          "r": "はなしあい",
+          "hv": "THOẠI HỢP",
+          "pos": "名",
+          "vi": "cuộc thảo luận, bàn bạc (để đi đến thống nhất)",
+          "key": true,
+          "ex": {
+            "ja": "{何度|なんど}も{話|はな}し{合|あ}いを{重|かさ}ねて、ようやく{結論|けつろん}が{出|で}た。",
+            "vi": "Bàn bạc đi bàn bạc lại nhiều lần, cuối cùng cũng ra được kết luận."
+          },
+          "col": [
+            "話し合いをする",
+            "話し合いで決める"
+          ],
+          "note": "話し合う = hai bên cùng nói với nhau. 〜合う = \"làm qua lại với nhau\"."
+        },
+        {
+          "id": "g01-w53",
+          "w": "取り出す",
+          "r": "とりだす",
+          "hv": "THỦ XUẤT",
+          "pos": "他動",
+          "vi": "lấy ra (từ trong túi, hộp…)",
+          "key": true,
+          "ex": {
+            "ja": "{彼|かれ}はポケットから{鍵|かぎ}を{取|と}り{出|だ}して、ドアを{開|あ}けた。",
+            "vi": "Anh ấy lấy chìa khoá ra khỏi túi rồi mở cửa."
+          },
+          "col": [
+            "かばんから取り出す",
+            "データを取り出す"
+          ]
+        },
+        {
+          "id": "g01-w54",
+          "w": "取り替える",
+          "r": "とりかえる",
+          "hv": "THỦ THẾ",
+          "pos": "他動",
+          "vi": "thay (cái mới), đổi (lấy cái khác)",
+          "key": true,
+          "ex": {
+            "ja": "{切|き}れた{電球|でんきゅう}を{新|あたら}しいものに{取|と}り{替|か}えた。",
+            "vi": "Tôi đã thay bóng đèn bị cháy bằng bóng mới."
+          },
+          "col": [
+            "AをBに取り替える",
+            "AとBを取り替える",
+            "不良品を取り替える"
+          ],
+          "rel": "≒ 交換する"
+        },
+        {
+          "id": "g01-w55",
+          "w": "金遣い",
+          "r": "かねづかい",
+          "hv": "KIM KHIỂN",
+          "pos": "名",
+          "vi": "cách tiêu tiền",
+          "key": true,
+          "ex": {
+            "ja": "{弟|おとうと}は{金遣|かねづか}いが{荒|あら}くて、いつも{月末|げつまつ}にはお{金|かね}がない。",
+            "vi": "Em tôi tiêu tiền hoang phí nên cuối tháng lúc nào cũng hết tiền."
+          },
+          "col": [
+            "金遣いが荒い (tiêu hoang)"
+          ],
+          "note": "Cụm gần như cố định: 金遣いが荒い."
+        },
+        {
+          "id": "g01-w56",
+          "w": "気遣い",
+          "r": "きづかい",
+          "hv": "KHÍ KHIỂN",
+          "pos": "名",
+          "vi": "sự quan tâm, chu đáo, để ý đến cảm xúc người khác",
+          "key": true,
+          "ex": {
+            "ja": "お{気遣|きづか}いいただき、ありがとうございます。",
+            "vi": "Cảm ơn anh đã quan tâm ạ."
+          },
+          "col": [
+            "気遣いができる人",
+            "お気遣いなく (xin đừng bận tâm)"
+          ],
+          "rel": "≒ 心遣い・配慮",
+          "note": "Động từ: 気遣う (lo lắng, quan tâm cho ai). 「お気遣いなく」 là câu đáp lễ rất hay dùng khi được mời đồ ăn uống."
+        }
+      ]
+    },
+    {
+      "title": "副詞など",
+      "title_vi": "Phó từ trong câu ví dụ",
+      "words": [
+        {
+          "id": "g01-w57",
+          "w": "長年",
+          "r": "ながねん",
+          "hv": "TRƯỜNG NIÊN",
+          "pos": "名・副",
+          "vi": "nhiều năm, lâu năm",
+          "key": true,
+          "ex": {
+            "ja": "{長年|ながねん}の{夢|ゆめ}だった{自分|じぶん}の{店|みせ}を、ついに{開|ひら}くことができた。",
+            "vi": "Cuối cùng tôi cũng mở được cửa hàng riêng — giấc mơ ấp ủ nhiều năm."
+          },
+          "col": [
+            "長年の夢",
+            "長年の経験",
+            "長年勤めた会社"
+          ],
+          "note": "Đọc **ながねん** (訓+音). Dùng được như phó từ: 長年住んでいる. Không đọc ちょうねん."
+        },
+        {
+          "id": "g01-w58",
+          "w": "たとえ",
+          "r": "たとえ",
+          "hv": "",
+          "pos": "副",
+          "vi": "cho dù, dẫu (… thì cũng…)",
+          "key": true,
+          "ex": {
+            "ja": "たとえ{家族|かぞく}に{反対|はんたい}されても、{私|わたし}はこの{道|みち}に{進|すす}みたい。",
+            "vi": "Cho dù bị gia đình phản đối, tôi vẫn muốn đi theo con đường này."
+          },
+          "col": [
+            "たとえ〜ても／〜でも",
+            "たとえ〜としても"
+          ],
+          "rel": "≒ 仮に〜ても",
+          "note": "Luôn đi cặp với **〜ても／〜でも** phía sau. Đừng nhầm với danh từ 例え(たとえ) = ví dụ, ẩn dụ."
+        },
+        {
+          "id": "g01-w59",
+          "w": "ちっとも",
+          "r": "ちっとも",
+          "hv": "",
+          "pos": "副",
+          "vi": "chẳng… chút nào (đi với phủ định)",
+          "key": true,
+          "ex": {
+            "ja": "{何度|なんど}{説明|せつめい}を{聞|き}いても、ちっとも{分|わ}からない。",
+            "vi": "Nghe giải thích bao nhiêu lần vẫn chẳng hiểu chút nào."
+          },
+          "col": [
+            "ちっとも〜ない"
+          ],
+          "rel": "≒ 少しも〜ない・全然〜ない",
+          "note": "Văn nói. Phía sau **bắt buộc phủ định**. Mạnh hơn あまり〜ない (không… lắm)."
+        },
+        {
+          "id": "g01-w60",
+          "w": "まるで",
+          "r": "まるで",
+          "hv": "",
+          "pos": "副",
+          "vi": "y như là, cứ như thể; (với phủ định) hoàn toàn không",
+          "key": true,
+          "ex": {
+            "ja": "{今日|きょう}は{暖|あたた}かくて、まるで{春|はる}のようだ。",
+            "vi": "Hôm nay ấm áp, cứ như mùa xuân vậy."
+          },
+          "col": [
+            "まるで〜ようだ／〜みたいだ",
+            "まるで〜ない"
+          ],
+          "rel": "≒ あたかも (văn viết)",
+          "senses": [
+            {
+              "vi": "y như là (đi với 〜ようだ／みたいだ)",
+              "ex": {
+                "ja": "{二人|ふたり}はまるで{本当|ほんとう}の{姉妹|しまい}のように{仲|なか}がいい。",
+                "vi": "Hai người thân nhau cứ như chị em ruột."
+              }
+            },
+            {
+              "vi": "hoàn toàn không (đi với phủ định)",
+              "ex": {
+                "ja": "{彼|かれ}は{料理|りょうり}がまるでできない。",
+                "vi": "Anh ấy hoàn toàn không biết nấu ăn."
+              }
+            }
+          ],
+          "note": "Nghĩa chính hay ra đề: **so sánh ví von** — sau まるで gần như chắc chắn có 〜ようだ／みたいだ."
+        },
+        {
+          "id": "g01-w61",
+          "w": "〜振り",
+          "r": "ぶり",
+          "hv": "CHẤN",
+          "pos": "接尾",
+          "vi": "sau (khoảng thời gian) mới lại…",
+          "key": false,
+          "ex": {
+            "ja": "{五年|ごねん}ぶりに{故郷|こきょう}の{町|まち}を{歩|ある}いた。",
+            "vi": "Sau năm năm tôi mới lại dạo bước trên phố quê."
+          },
+          "col": [
+            "久しぶり",
+            "〇年ぶりに"
+          ],
+          "note": "Thường viết bằng hiragana ぶり. 「十年ぶりに会う」 = gặp lại sau mười năm."
+        }
+      ]
+    }
+  ],
+  "focus": [
+    {
+      "title": "家族・親類・親戚・一家 — bốn từ \"gia đình\" khác nhau thế nào?",
+      "body": "- **家族(かぞく)**: những người trong một nhà — bố mẹ, vợ chồng, con cái. 「私の家族は四人です」.\n- **一家(いっか)**: \"cả nhà\" như **một đơn vị**, hay gắn sau tên người: 「{鈴木|すずき}さん一家」「一家で{引|ひ}っ{越|こ}す」. Không cần の.\n- **親類(しんるい)・親戚(しんせき)**: họ hàng **ngoài** gia đình nhỏ: cô dì chú bác, anh chị em họ, ông bà bên ngoại… 「親類の集まり」= họp mặt họ hàng.\n- **実家(じっか)**: không phải người mà là **ngôi nhà** của bố mẹ đẻ.\n\nMẹo phân biệt trong đề: thấy tên người + chỗ trống + động từ chỉ hành động cả nhà (引っ越す, 出かける) → **一家**. Thấy \"đông người, ở xa, gặp vào dịp lễ\" → **親類**."
+    },
+    {
+      "title": "Gọi người nhà của người khác cho lịch sự",
+      "body": "Tiếng Nhật tách hẳn \"người nhà mình\" (khiêm tốn) và \"người nhà người khác\" (kính trọng):\n\n- Vợ: **妻・家内** (mình) ↔ **奥様・奥さん** (người khác)\n- Chồng: **夫・主人** (mình) ↔ **ご主人** (người khác)\n- Bố mẹ: **父・母** ↔ **お父様・お母様**\n- Con gái nhỏ: **娘** ↔ **お嬢ちゃん** (lớn hơn: お嬢さん)\n- Con trai nhỏ: **息子** ↔ **(お)坊ちゃん**\n\nTrong văn bản, báo chí còn có:\n- **〜氏**: ông/bà + họ tên (田中一郎氏).\n- **〜ご夫妻**: ông bà… (cặp vợ chồng): 田中氏ご夫妻.\n- **〜夫人**: phu nhân của người có địa vị: 首相夫人. Cẩn thận với 婦人 (phụ nữ nói chung).\n\nCâu hỏi 言い換え hay hỏi: お坊ちゃん ≒ **息子さん**, お嬢さん ≒ **娘さん**."
+    },
+    {
+      "title": "Quan hệ trên – dưới: 目上・年上・上司・先輩",
+      "body": "Bốn cặp này đều là \"trên – dưới\" nhưng **tiêu chí** khác nhau:\n\n- **年上 ↔ 年下** (+ 同い年): chỉ so **tuổi**.\n- **先輩 ↔ 後輩**: so **ai vào trước** (trường, câu lạc bộ, công ty). Có thể 先輩 ít tuổi hơn mình.\n- **上司 ↔ 部下**: so **chức vụ** trong công việc.\n- **目上 ↔ 目下**: khái niệm **tổng hợp** — người mình cần kính trọng (lớn tuổi, chức cao, thầy cô, khách). Hay đi với 「〜の人」 và với chủ đề kính ngữ, lễ phép.\n\nVí dụ: 「{年下|としした}の{上司|じょうし}」 = cấp trên ít tuổi hơn mình — vừa 年下 vừa 目上!\n\nBẫy đọc: **目下** = めした (người dưới) nhưng **もっか** = hiện nay (目下{検討中|けんとうちゅう})."
+    },
+    {
+      "title": "語形成: 〜仲間・〜合い・取り〜・〜遣い",
+      "body": "- **〜仲間(なかま)**: N/Vます + 仲間 = \"bạn cùng… \": 仕事仲間, 勉強仲間, 飲み仲間, 遊び仲間, 釣り仲間.\n- **〜合い(あい)**: Vます + 合い = danh từ \"làm qua lại với nhau\": 知り合い (quen nhau), 付き合い (giao du), 話し合い (bàn bạc), 助け合い (giúp đỡ lẫn nhau). Gốc là động từ 〜合う.\n- **取り〜(とり)**: tiền tố nhấn mạnh hành động bằng tay / dứt khoát: 取り消す (huỷ), 取り出す (lấy ra), 取り替える (thay), 取り入れる (tiếp thu), 取り上げる (tịch thu, đưa ra bàn). Nghĩa chính nằm ở động từ phía sau.\n- **〜遣い(づかい)**: \"cách dùng…\" — 言葉遣い (cách ăn nói), 金遣い (cách tiêu tiền), 気遣い (sự quan tâm), 心遣い (sự chu đáo), 無駄遣い (tiêu phí). Đọc **づかい** (đục) và viết **遣**; còn 使い dùng cho \"người được sai đi\" / \"cách sử dụng (đồ vật)\" như 人使い, 使い方.\n\nMẹo 語形成 trong đề: chỗ trống ở **đầu** là 取り〜; ở **cuối** sau tên hoạt động là 仲間; sau Vます chỉ quan hệ hai chiều là 合い; sau 言葉・金・気 là 遣い."
+    },
+    {
+      "title": "Bốn phó từ: 長年・たとえ・ちっとも・まるで",
+      "body": "Mỗi phó từ có một \"bạn đồng hành\" bắt buộc phía sau — nhớ cặp là làm được bài:\n\n- **たとえ** + 〜**ても／でも**: 「たとえ{雨|あめ}が{降|ふ}っても{行|い}く」 (dù mưa vẫn đi).\n- **ちっとも** + **phủ định**: 「ちっとも{痛|いた}くない」 (chẳng đau chút nào) ≒ 少しも／全然.\n- **まるで** + 〜**ようだ／みたいだ**: 「まるで{夢|ゆめ}のようだ」 (cứ như mơ).\n- **長年** + N / động từ kéo dài: 「長年の{友人|ゆうじん}」「長年{住|す}んだ{町|まち}」.\n\nTrong 文脈規定, hãy nhìn **đuôi câu**: có 〜ようだ → まるで; có 〜ない → ちっとも; có 〜ても → たとえ."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "g01-q1",
+      "kind": "read",
+      "ref": "g01-w9",
+      "q": "{彼|かれ}は{毎月|まいつき}{両親|りょうしん}に{仕送|しおく}りをしている[[u:親孝行]]な{息子|むすこ}だ。",
+      "options": [
+        "しんこうこう",
+        "おやこうこう",
+        "おやこうぎょう",
+        "しんこうぎょう"
+      ],
+      "answer": 1,
+      "vi": "Anh ấy là đứa con hiếu thảo, tháng nào cũng gửi tiền về cho bố mẹ.",
+      "why": "親孝行 = **おやこうこう**: 親 đọc theo âm 訓 おや, 孝行 đọc こうこう. (1)(4) đọc 親 là しん — sai; (3)(4) đọc 行 là ぎょう — sai (ぎょう là cách đọc trong 行事, 銀行 thì là こう)."
+    },
+    {
+      "id": "g01-q2",
+      "kind": "write",
+      "ref": "g01-w10",
+      "q": "{夏休|なつやす}みは{家族|かぞく}を{連|つ}れて[[u:じっか]]に{帰|かえ}るつもりだ。",
+      "options": [
+        "実家",
+        "実価",
+        "室家",
+        "日家"
+      ],
+      "answer": 0,
+      "vi": "Nghỉ hè tôi định đưa gia đình về nhà bố mẹ đẻ.",
+      "why": "じっか = **実家** (nhà bố mẹ đẻ). 実価 dùng chữ 価 (giá cả) — không phải \"nhà\", không đi với 帰る; 室家・日家 không phải từ."
+    },
+    {
+      "id": "g01-q3",
+      "kind": "context",
+      "ref": "g01-w14",
+      "q": "{兄弟|きょうだい}がいない{私|わたし}は（　　）なので、{子|こ}どものころは{少|すこ}し{寂|さび}しかった。",
+      "options": [
+        "末っ子",
+        "一人っ子",
+        "双子",
+        "子孫"
+      ],
+      "answer": 1,
+      "vi": "Tôi không có anh chị em, là con một nên hồi nhỏ hơi cô đơn.",
+      "why": "\"Không có anh chị em\" → **一人っ子** (con một). 末っ子 = con út (phải có anh chị); 双子 = sinh đôi (có anh chị em sinh đôi); 子孫 = con cháu đời sau, không dùng để nói về bản thân như vậy."
+    },
+    {
+      "id": "g01-q4",
+      "kind": "context",
+      "ref": "g01-w34",
+      "q": "（　　）の{人|ひと}と{話|はな}すときは、{言葉遣|ことばづか}いに{気|き}をつけなさい。",
+      "options": [
+        "目下",
+        "年下",
+        "目上",
+        "後輩"
+      ],
+      "answer": 2,
+      "vi": "Khi nói chuyện với người trên thì hãy chú ý cách ăn nói.",
+      "why": "Cần chú ý lời ăn tiếng nói (kính ngữ) với **目上** (người trên). 目下・年下・後輩 đều là người dưới — không phải đối tượng cần đặc biệt giữ lễ trong ngữ cảnh này."
+    },
+    {
+      "id": "g01-q5",
+      "kind": "paraphrase",
+      "ref": "g01-w16",
+      "q": "{二人|ふたり}は{幼稚園|ようちえん}のころからの[[u:仲良し]]だ。",
+      "options": [
+        "知り合い",
+        "親類",
+        "仕事仲間",
+        "親しい友達"
+      ],
+      "answer": 3,
+      "vi": "Hai người là bạn thân từ hồi mẫu giáo.",
+      "why": "仲良し = **親しい友達** (bạn thân). 知り合い chỉ là người quen — chưa chắc thân; 親類 là họ hàng; 仕事仲間 là đồng nghiệp — không hợp với \"từ hồi mẫu giáo\"."
+    },
+    {
+      "id": "g01-q6",
+      "kind": "formation",
+      "ref": "g01-w49",
+      "q": "{同|おな}じ{会社|かいしゃ}で{働|はたら}く{仕事|しごと}（　　）と、{週末|しゅうまつ}にキャンプに{行|い}った。",
+      "options": [
+        "仲間",
+        "合い",
+        "友人",
+        "同士"
+      ],
+      "answer": 0,
+      "vi": "Tôi đi cắm trại cuối tuần với các bạn đồng nghiệp cùng công ty.",
+      "why": "仕事 + **仲間** = bạn cùng làm việc. 仕事合い không có; 仕事友人 không phải từ ghép (phải nói 仕事上の友人); 仕事同士 sai (同士 đi sau người: 友達同士)."
+    },
+    {
+      "id": "g01-q7",
+      "kind": "formation",
+      "ref": "g01-w52",
+      "q": "{子|こ}どもの{進学|しんがく}について、{夫婦|ふうふ}で{何度|なんど}も{話|はな}し（　　）をした。",
+      "options": [
+        "遣い",
+        "合い",
+        "仲間",
+        "取り"
+      ],
+      "answer": 1,
+      "vi": "Về chuyện học lên của con, vợ chồng tôi đã bàn bạc nhiều lần.",
+      "why": "Hai người cùng nói qua lại để đi đến quyết định → 話し**合い**. 話し遣い không có (言葉遣い mới đúng); 話し仲間 = bạn để trò chuyện, không đi với 「をした」 theo nghĩa bàn bạc; 取り là tiền tố đứng trước động từ."
+    },
+    {
+      "id": "g01-q8",
+      "kind": "usage",
+      "ref": "g01-w45",
+      "q": "{取|と}り{消|け}す",
+      "options": [
+        "部屋が暗くなったので、電気を取り消した。",
+        "黒板の字を取り消してください。",
+        "悲しい気持ちを取り消すために、音楽を聴いた。",
+        "急用ができたので、ホテルの予約を取り消した。"
+      ],
+      "answer": 3,
+      "vi": "(4) Vì có việc gấp nên tôi đã huỷ đặt phòng khách sạn.",
+      "why": "(4) đúng: 取り消す dùng cho **thứ đã đăng ký / quyết định** (予約, 注文, 発言). (1) tắt đèn → 消した; (2) xoá chữ → 消して; (3) xua nỗi buồn → 紛らす／忘れる."
+    },
+    {
+      "id": "g01-q9",
+      "kind": "paraphrase",
+      "ref": "g01-w59",
+      "q": "{彼|かれ}の{冗談|じょうだん}は[[u:ちっとも]]おもしろくなかった。",
+      "options": [
+        "あまり",
+        "必ずしも",
+        "全然",
+        "かなり"
+      ],
+      "answer": 2,
+      "vi": "Câu đùa của anh ta chẳng buồn cười chút nào.",
+      "why": "ちっとも〜ない = **全然〜ない** (hoàn toàn không). あまり〜ない = không… lắm (yếu hơn, vẫn còn chút buồn cười); 必ずしも〜ない = không hẳn là… (phủ định một phần); かなり〜ない không mang nghĩa \"chẳng chút nào\"."
+    },
+    {
+      "id": "g01-q10",
+      "kind": "context",
+      "ref": "g01-w60",
+      "q": "{十年|じゅうねん}ぶりに{会|あ}った{兄|あに}は、（　　）{別人|べつじん}のように{痩|や}せていた。",
+      "options": [
+        "たとえ",
+        "ちっとも",
+        "長年",
+        "まるで"
+      ],
+      "answer": 3,
+      "vi": "Anh trai tôi, gặp lại sau mười năm, gầy đến mức cứ như người khác.",
+      "why": "Đuôi 〜のように → **まるで**. たとえ cần 〜ても; ちっとも cần phủ định; 長年 = nhiều năm, không đi với so sánh ví von."
+    }
+  ],
+  "practice": [
+    {
+      "id": "g01-p1",
+      "kind": "read",
+      "ref": "g01-w2",
+      "q": "{私|わたし}たちの[[u:祖先]]は、{江戸|えど}{時代|じだい}からこの{村|むら}で{暮|く}らしていたそうだ。",
+      "options": [
+        "そうせん",
+        "そせん",
+        "しょせん",
+        "そぜん"
+      ],
+      "answer": 1,
+      "vi": "Nghe nói tổ tiên chúng tôi đã sống ở làng này từ thời Edo.",
+      "why": "祖先 = **そせん** (祖 = そ, âm ngắn). そうせん kéo dài sai; しょせん là phó từ 所詮 (rốt cuộc); そぜん sai âm đục."
+    },
+    {
+      "id": "g01-p2",
+      "kind": "read",
+      "ref": "g01-w15",
+      "q": "{彼女|かのじょ}たちは[[u:双子]]なので、{声|こえ}までそっくりだ。",
+      "options": [
+        "ふたこ",
+        "そうし",
+        "ふたご",
+        "そうご"
+      ],
+      "answer": 2,
+      "vi": "Hai cô ấy là chị em sinh đôi nên đến cả giọng nói cũng giống hệt.",
+      "why": "双子 = **ふたご** (訓読み, có âm đục ご). ふたこ thiếu âm đục; そうし・そうご là đọc theo âm Hán — không dùng cho từ này."
+    },
+    {
+      "id": "g01-p3",
+      "kind": "write",
+      "ref": "g01-w29",
+      "q": "{父|ちち}の[[u:しょくば]]は{家|いえ}から{電車|でんしゃ}で{一時間|いちじかん}ほどかかる。",
+      "options": [
+        "職場",
+        "織場",
+        "職揚",
+        "識場"
+      ],
+      "answer": 0,
+      "vi": "Chỗ làm của bố tôi cách nhà khoảng một tiếng đi tàu.",
+      "why": "しょくば = **職場** (職 = chức vụ, công việc; 場 = nơi chốn). 織 (dệt) và 識 (biết) chỉ giống bộ phận bên phải; 揚 (giương lên) giống 場 nhưng bộ 手 — sai."
+    },
+    {
+      "id": "g01-p4",
+      "kind": "write",
+      "ref": "g01-w48",
+      "q": "{新入|しんにゅう}{社員|しゃいん}たちは、{社長|しゃちょう}に{向|む}かって{深|ふか}く[[u:おじぎ]]をした。",
+      "options": [
+        "お辞議",
+        "お辞儀",
+        "お事儀",
+        "お次儀"
+      ],
+      "answer": 1,
+      "vi": "Các nhân viên mới cúi chào giám đốc thật sâu.",
+      "why": "おじぎ = **お辞儀** (辞 + 儀 bộ nhân đứng 亻). 議 (bộ ngôn, như 会議) là bẫy giống hình; 事・次 sai chữ đầu."
+    },
+    {
+      "id": "g01-p5",
+      "kind": "context",
+      "ref": "g01-w47",
+      "q": "{初|はじ}めて{会|あ}った{取引先|とりひきさき}の{社長|しゃちょう}と（　　）をしたら、{手|て}がとても{大|おお}きかった。",
+      "options": [
+        "お辞儀",
+        "付き合い",
+        "話し合い",
+        "握手"
+      ],
+      "answer": 3,
+      "vi": "Khi bắt tay vị giám đốc đối tác lần đầu gặp, tôi thấy tay ông ấy rất to.",
+      "why": "Biết được \"tay rất to\" → phải chạm tay → **握手**. お辞儀 là cúi chào, không chạm tay; 付き合い là quan hệ lâu dài, không phải hành động lần đầu gặp; 話し合い là bàn bạc."
+    },
+    {
+      "id": "g01-p6",
+      "kind": "context",
+      "ref": "g01-w7",
+      "q": "{来月|らいげつ}、{隣|となり}の{田中|たなか}さん（　　）は{大阪|おおさか}へ{引|ひ}っ{越|こ}すそうだ。",
+      "options": [
+        "一家",
+        "家族",
+        "親類",
+        "実家"
+      ],
+      "answer": 0,
+      "vi": "Nghe nói tháng sau cả nhà anh Tanaka bên cạnh sẽ chuyển lên Osaka.",
+      "why": "Gắn trực tiếp sau tên người để chỉ cả nhà → **一家** (田中さん一家). 家族 phải có の (田中さんの家族); 親類 là họ hàng — không ở \"bên cạnh\" và cả họ không cùng chuyển nhà; 実家 là ngôi nhà, không phải người."
+    },
+    {
+      "id": "g01-p7",
+      "kind": "context",
+      "ref": "g01-w43",
+      "q": "{彼|かれ}は{約束|やくそく}を（　　）{人|ひと}だから、{必|かなら}ず{時間|じかん}どおりに{来|く}るよ。",
+      "options": [
+        "破る",
+        "守る",
+        "取り消す",
+        "取り出す"
+      ],
+      "answer": 1,
+      "vi": "Anh ấy là người giữ lời hứa nên chắc chắn sẽ đến đúng giờ.",
+      "why": "\"Chắc chắn đến đúng giờ\" → người **守る** (giữ) lời hứa. 破る = thất hứa (ngược nghĩa); 取り消す = huỷ hẹn — không dẫn tới \"đến đúng giờ\"; 取り出す = lấy ra, không đi với 約束."
+    },
+    {
+      "id": "g01-p8",
+      "kind": "paraphrase",
+      "ref": "g01-w37",
+      "q": "{妻|つま}は{私|わたし}より[[u:三つ年下だ]]。",
+      "options": [
+        "三歳若い",
+        "三歳年をとっている",
+        "三年先輩だ",
+        "同い年だ"
+      ],
+      "answer": 0,
+      "vi": "Vợ tôi kém tôi ba tuổi.",
+      "why": "年下 = ít tuổi hơn → **三歳若い**. (2) là \"già hơn ba tuổi\" = 年上 (ngược nghĩa); (3) 先輩 là vào trước, không liên quan tuổi; (4) 同い年 = bằng tuổi."
+    },
+    {
+      "id": "g01-p9",
+      "kind": "paraphrase",
+      "ref": "g01-w18",
+      "q": "{駅前|えきまえ}で{偶然|ぐうぜん}、[[u:知人]]に{会|あ}った。",
+      "options": [
+        "親類",
+        "上司",
+        "知り合い",
+        "同い年の人"
+      ],
+      "answer": 2,
+      "vi": "Tôi tình cờ gặp một người quen trước cửa ga.",
+      "why": "知人 = **知り合い** (người quen). 親類 là họ hàng; 上司 là cấp trên; 同い年の人 là người bằng tuổi — đều không phải nghĩa của 知人."
+    },
+    {
+      "id": "g01-p10",
+      "kind": "formation",
+      "ref": "g01-w55",
+      "q": "{兄|あに}は{金|かね}（　　）が{荒|あら}くて、{給料|きゅうりょう}をもらうとすぐに{使|つか}ってしまう。",
+      "options": [
+        "付き",
+        "合い",
+        "遣い",
+        "仲間"
+      ],
+      "answer": 2,
+      "vi": "Anh tôi tiêu tiền hoang phí, nhận lương xong là tiêu sạch ngay.",
+      "why": "Cụm cố định **金遣いが荒い** (tiêu hoang). 金付き・金合い không phải từ; 金仲間 không có nghĩa."
+    },
+    {
+      "id": "g01-p11",
+      "kind": "formation",
+      "ref": "g01-w53",
+      "q": "かばんから{本|ほん}を（　　）{出|だ}して、{机|つくえ}の{上|うえ}に{置|お}いた。",
+      "options": [
+        "取り",
+        "見",
+        "飛び",
+        "呼び"
+      ],
+      "answer": 0,
+      "vi": "Tôi lấy cuốn sách ra khỏi cặp rồi đặt lên bàn.",
+      "why": "Lấy vật ra khỏi túi/cặp → **取り出す**. 見出す = tìm ra (ý nghĩa, giải pháp); 飛び出す = lao ra (tự động từ); 呼び出す = gọi ra (người)."
+    },
+    {
+      "id": "g01-p12",
+      "kind": "usage",
+      "ref": "g01-w40",
+      "q": "{親|した}しい",
+      "options": [
+        "この料理は親しい味がして、なんだかほっとする。",
+        "新しいスマホの使い方にもうすっかり親しくなった。",
+        "今日は風もなく親しい天気で、気持ちがいい。",
+        "彼とは大学時代から親しく付き合っている。"
+      ],
+      "answer": 3,
+      "vi": "(4) Tôi và anh ấy giao du thân thiết từ thời đại học.",
+      "why": "親しい chỉ dùng cho **quan hệ giữa người với người** → (4) đúng. (1) vị quen thuộc → 懐かしい味／なじみの味; (2) quen cách dùng → 慣れた; (3) thời tiết dễ chịu → 穏やかな."
+    },
+    {
+      "id": "g01-p13",
+      "kind": "usage",
+      "ref": "g01-w11",
+      "q": "{懐|なつ}かしい",
+      "options": [
+        "初めて行く国なので、とても懐かしい。",
+        "明日の面接のことが懐かしくて眠れない。",
+        "彼は懐かしい性格なので、誰とでもすぐ仲良くなる。",
+        "子どものころによく聴いた歌が流れてきて、懐かしくなった。"
+      ],
+      "answer": 3,
+      "vi": "(4) Bài hát hồi nhỏ hay nghe vang lên, tôi thấy bồi hồi nhớ lại.",
+      "why": "懐かしい = nhớ về điều **đã từng trải qua** → (4) đúng. (1) nơi chưa từng đến không thể \"nhớ\" → 楽しみ; (2) lo lắng → 心配で; (3) dễ gần → 人懐っこい (từ khác)."
+    },
+    {
+      "id": "g01-p14",
+      "kind": "context",
+      "ref": "g01-w57",
+      "q": "{父|ちち}は（　　）{勤|つと}めた{会社|かいしゃ}を、{今年|ことし}{定年|ていねん}で{退職|たいしょく}した。",
+      "options": [
+        "たとえ",
+        "長年",
+        "まるで",
+        "ちっとも"
+      ],
+      "answer": 1,
+      "vi": "Năm nay bố tôi về hưu, nghỉ ở công ty đã làm nhiều năm.",
+      "why": "Làm việc một thời gian dài → **長年**. たとえ cần 〜ても; まるで cần 〜ようだ; ちっとも cần phủ định — câu này không có các đuôi đó."
+    }
+  ],
+  "test": [
+    {
+      "id": "g01-t1",
+      "kind": "read",
+      "ref": "g01-w3",
+      "q": "この{寺|てら}は、{有名|ゆうめい}な{武士|ぶし}の[[u:子孫]]が{今|いま}も{守|まも}り{続|つづ}けている。",
+      "options": [
+        "こまご",
+        "しそん",
+        "しまご",
+        "こそん"
+      ],
+      "answer": 1,
+      "vi": "Ngôi chùa này đến nay vẫn được con cháu của một võ sĩ nổi tiếng gìn giữ.",
+      "why": "子孫 = **しそん** (đọc âm Hán cả hai chữ: 子 = し, 孫 = そん). こまご・しまご trộn với 訓 まご của 孫; こそん dùng 訓 của 子 — đều sai."
+    },
+    {
+      "id": "g01-t2",
+      "kind": "read",
+      "ref": "g01-w35",
+      "q": "[[u:目下]]の{人|ひと}にも{丁寧|ていねい}な{言葉|ことば}で{話|はな}す{部長|ぶちょう}を、{皆|みな}{尊敬|そんけい}している。",
+      "options": [
+        "めした",
+        "もっか",
+        "めしも",
+        "もくか"
+      ],
+      "answer": 0,
+      "vi": "Mọi người đều kính trọng trưởng phòng — người nói năng lịch sự kể cả với người dưới.",
+      "why": "Nghĩa \"người dưới\" (đối lập với 目上) → **めした**. もっか cũng viết 目下 nhưng nghĩa là \"hiện nay\" (目下検討中) — không hợp với 「の人」; めしも・もくか không tồn tại."
+    },
+    {
+      "id": "g01-t3",
+      "kind": "write",
+      "ref": "g01-w39",
+      "q": "[[u:しゅうい]]の{反対|はんたい}を{押|お}し{切|き}って、{彼|かれ}は{海外|かいがい}の{大学|だいがく}に{進学|しんがく}した。",
+      "options": [
+        "周位",
+        "週囲",
+        "周囲",
+        "囲周"
+      ],
+      "answer": 2,
+      "vi": "Bất chấp sự phản đối của những người xung quanh, anh ấy đã vào học ở một trường đại học nước ngoài.",
+      "why": "しゅうい = **周囲** (CHU VI). 周位: 位 = vị trí, sai; 週囲: 週 = tuần, sai bộ; 囲周 đảo ngược thứ tự."
+    },
+    {
+      "id": "g01-t4",
+      "kind": "write",
+      "ref": "g01-w13",
+      "q": "{私|わたし}は{五人|ごにん}{兄弟|きょうだい}の[[u:すえっこ]]なので、よく{兄|あに}たちの{服|ふく}を{着|き}せられた。",
+      "options": [
+        "未っ子",
+        "末っ子",
+        "終っ子",
+        "尾っ子"
+      ],
+      "answer": 1,
+      "vi": "Tôi là con út trong năm anh em nên hay phải mặc lại quần áo của các anh.",
+      "why": "すえっこ = **末っ子** (末 = cuối, MẠT). 未 (VỊ, chưa) giống hình nhưng nét ngang trên ngắn hơn — bẫy kinh điển; 終・尾 cùng ý \"cuối\" nhưng không đọc すえ trong từ này."
+    },
+    {
+      "id": "g01-t5",
+      "kind": "context",
+      "ref": "g01-w46",
+      "q": "{面接|めんせつ}では、{服装|ふくそう}だけでなく（　　）にも{気|き}をつけたほうがいい。",
+      "options": [
+        "金遣い",
+        "付き合い",
+        "知り合い",
+        "言葉遣い"
+      ],
+      "answer": 3,
+      "vi": "Khi phỏng vấn, không chỉ trang phục mà cũng nên để ý cách ăn nói.",
+      "why": "Thứ thể hiện ra trong buổi phỏng vấn cùng với trang phục → **言葉遣い** (cách ăn nói). 金遣い là cách tiêu tiền — không lộ ra trong phỏng vấn; 付き合い・知り合い là quan hệ, không phải thứ cần \"chú ý\" khi phỏng vấn."
+    },
+    {
+      "id": "g01-t6",
+      "kind": "context",
+      "ref": "g01-w27",
+      "q": "{結婚式|けっこんしき}には、{社長|しゃちょう}ご（　　）がお{二人|ふたり}で{出席|しゅっせき}してくださった。",
+      "options": [
+        "夫人",
+        "主人",
+        "夫妻",
+        "氏"
+      ],
+      "answer": 2,
+      "vi": "Vợ chồng giám đốc đã cùng nhau đến dự đám cưới.",
+      "why": "\"お二人で\" → cả vợ lẫn chồng → **ご夫妻**. 夫人 chỉ người vợ (một người); ご主人 chỉ người chồng; 氏 là hậu tố sau họ tên, không đi sau 社長ご〜."
+    },
+    {
+      "id": "g01-t7",
+      "kind": "paraphrase",
+      "ref": "g01-w25",
+      "q": "あちらが{部長|ぶちょう}の[[u:お坊ちゃん]]です。",
+      "options": [
+        "娘さん",
+        "息子さん",
+        "お孫さん",
+        "ご主人"
+      ],
+      "answer": 1,
+      "vi": "Đằng kia là cậu con trai của trưởng phòng.",
+      "why": "(お)坊ちゃん = con trai (nhỏ) của người khác ≒ **息子さん**. 娘さん ≒ お嬢さん (con gái); お孫さん = cháu; ご主人 = chồng."
+    },
+    {
+      "id": "g01-t8",
+      "kind": "paraphrase",
+      "ref": "g01-w58",
+      "q": "[[u:たとえ]]{家族|かぞく}に{反対|はんたい}されても、この{仕事|しごと}を{続|つづ}けるつもりだ。",
+      "options": [
+        "まるで",
+        "ちっとも",
+        "仮に",
+        "ようやく"
+      ],
+      "answer": 2,
+      "vi": "Cho dù bị gia đình phản đối, tôi vẫn định tiếp tục công việc này.",
+      "why": "たとえ〜ても ≒ **仮に〜ても** (giả sử có… thì cũng). まるで = y như; ちっとも = chẳng chút nào (phủ định); ようやく = cuối cùng thì — không có nghĩa giả định."
+    },
+    {
+      "id": "g01-t9",
+      "kind": "formation",
+      "ref": "g01-w54",
+      "q": "サイズが{合|あ}わなかったので、{店|みせ}で{大|おお}きいものと（　　）{替|か}えてもらった。",
+      "options": [
+        "取り",
+        "乗り",
+        "書き",
+        "切り"
+      ],
+      "answer": 0,
+      "vi": "Vì không vừa cỡ nên tôi nhờ cửa hàng đổi sang cái to hơn.",
+      "why": "Đổi hàng lấy cái khác → **取り替える**. 乗り換える = đổi tàu xe; 書き換える = viết lại; 切り替える = chuyển đổi (chế độ, tâm trạng) — không dùng cho đổi hàng ở cửa hàng."
+    },
+    {
+      "id": "g01-t10",
+      "kind": "usage",
+      "ref": "g01-w41",
+      "q": "{付|つ}き{合|あ}い",
+      "options": [
+        "この服とその靴は付き合いがいいですね。",
+        "駅までの付き合いは歩いて十分ぐらいです。",
+        "試験の付き合いは来週発表されます。",
+        "山田さんは付き合いがいいので、誘えばたいてい来てくれる。"
+      ],
+      "answer": 3,
+      "vi": "(4) Anh Yamada xã giao tốt nên rủ là hầu như anh ấy đều đến.",
+      "why": "付き合い = quan hệ giao thiệp giữa **người với người**; 「付き合いがいい」 = hay nhận lời rủ → (4) đúng. (1) đồ hợp nhau → 合う／相性がいい; (2) quãng đường → 道のり; (3) kết quả → 結果."
+    },
+    {
+      "id": "g01-t11",
+      "kind": "usage",
+      "ref": "g01-w34",
+      "q": "{目上|めうえ}",
+      "options": [
+        "目上の人に「ご苦労さまでした」と言うのは失礼だとされている。",
+        "彼は目上が高いので、遠くまでよく見える。",
+        "私の目上には弟が一人います。",
+        "目上の棚に本を置いておきました。"
+      ],
+      "answer": 0,
+      "vi": "(1) Người ta cho rằng nói 「ご苦労さまでした」 với người trên là thất lễ.",
+      "why": "目上 = người trên về tuổi tác/địa vị, thường dùng trong chủ đề lễ phép → (1) đúng. (2) chiều cao → 背が高い; (3) em trai là người dưới, và phải nói 「私には弟が…」; (4) vị trí vật lý → 上の棚／目の高さより上."
+    }
+  ]
+}

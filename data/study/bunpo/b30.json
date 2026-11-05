@@ -1,0 +1,709 @@
+{
+  "id": "b30",
+  "track": "bunpo",
+  "intro": "Đây là bài **ôn tập – hệ thống hoá**: gom toàn bộ các mẫu có 「もの」 và 「こと」 rải rác từ 12課 đến 26課, cộng thêm **5 mẫu mới** (〜こと, 〜ことなく, 〜ことに, 〜ことは〜が, 〜ということだ・〜とのことだ). Rất nhiều mẫu trông gần như giống nhau (ものだ có tới 4 nghĩa, ことだ có 2 nghĩa, ものか ↔ ないものか ↔ ことか…), nên mục tiêu của bài không phải học thêm nghĩa mới mà là **phân biệt cho nhanh** khi gặp trong đề.\n\n**Cách nhìn tổng quát**\n- **もの** gốc là \"vật, cái nói chung\" → nghiêng về **cái chung, bản chất, lẽ thường, cảm xúc của người nói**. Các mặt của もの: bản chất / chân lý chung (ものだ), lời răn theo lẽ thường (ものだ・ものではない), hồi tưởng (たものだ), cảm thán (ものだ), mong ước (たいものだ・ないものか), thanh minh (ものだから・もの), phủ định mạnh (ものか), nhượng bộ (ものの), giả định khó xảy ra (ものなら・ようものなら), đánh giá (というものだ・というものではない), cảm nhận (ものがある).\n- **こと** gốc là \"sự việc cụ thể\" → nghiêng về **một việc cụ thể trước mắt**. Các mặt của こと: lời khuyên cụ thể (ことだ), không cần (ことはない), cảm thán về một việc (ことだ・ことに・ことか), điều kiện bắt buộc (ないことには), lý do (ことだし・のことだから), chủ đề (のこととなると), mệnh lệnh văn bản (こと), \"mà không\" (ことなく), thừa nhận rồi phản bác (ことは〜が), truyền đạt (ということだ・とのことだ).\n\n**Ba cặp hay bị đánh đố**\n- Khuyên: 「ものだ」 = **đạo lý chung cho mọi người** (目上の人には敬語を使うものだ) ↔ 「ことだ」 = **lời khuyên cho chính người nghe trong hoàn cảnh này** (合格したければ毎日練習することだ).\n- Cảm thán: 「ものだ」 = cảm thán về **bản chất sự đời** (時間が経つのは早いものだ) ↔ 「ことだ／ことに」 = cảm xúc về **một sự việc cụ thể** (うらやましいことだ, 残念なことに).\n- Hình thức gần nhau: 「V辞書形＋ものか」 = **đời nào…** ↔ 「Vない＋ものか」 = **không có cách nào… sao** (mong) ↔ 「どんなに〜ことか」 = **biết bao nhiêu** (cảm thán mức độ).\n\nMỗi mục dưới đây đều ghi rõ đã học ở bài nào (xem lại bài đó nếu cần) và tập trung vào **dấu hiệu nhận diện**.",
+  "points": [
+    {
+      "id": "b30-1",
+      "pattern": "〜ものか",
+      "reading": "〜ものか",
+      "meaning": "Đời nào…! Làm gì có chuyện…! / Nhất định không… (phủ định mạnh, đầy cảm xúc)",
+      "structure": ["V普通形 ＋ ものか", "い形 ＋ ものか", "な形・N ＋ な ＋ ものか", "Văn nói: もんか; mềm/lịch sự: ものですか"],
+      "explain": "Về hình thức là câu hỏi tu từ \"lẽ nào lại…?\", nhưng nghĩa thật là **phủ định thật mạnh**, kèm cảm xúc (bực, tự ái, quyết tâm). Đã học ở hai bài với hai hướng:\n\n- **12課 — phủ định một nhận định**: 「あんな{人|ひと}が{謝|あやま}るものか」 = hắn mà xin lỗi á, đời nào.\n- **24課 — ý chí phủ định của bản thân**: 「{二度|にど}と{行|い}くものか」 = tôi nhất định không bao giờ đi nữa.\n\nCách nhớ: もの + か = \"có cái chuyện đó à?\" → **không có đâu**. Câu đọc xuống giọng, không phải câu hỏi thật.",
+      "nuance": "Văn nói, cảm xúc mạnh; không dùng trong văn bản trang trọng. Nghĩa phủ định đã nằm sẵn trong ものか, nên động từ phía trước để **thể khẳng định**. Nếu thấy 「Vない＋ものか」 thì đó là mẫu khác (mong ước — b30-13).",
+      "examples": [
+        {"ja": "あんな{失礼|しつれい}な{店|みせ}、{二度|にど}と{行|い}くものか。", "vi": "Cái quán vô lễ đó, đời nào tôi quay lại lần nữa.", "note": "Ý chí phủ định của bản thân (24課)"},
+        {"ja": "{彼|かれ}がそんなに{簡単|かんたん}に{諦|あきら}めるものか。きっとまた{挑戦|ちょうせん}するよ。", "vi": "Anh ấy đời nào bỏ cuộc dễ như thế. Chắc chắn sẽ thử lại thôi.", "note": "Phủ định nhận định về người khác (12課)"},
+        {"ja": "こんな{安|やす}い{給料|きゅうりょう}で{家族|かぞく}を{養|やしな}えるものか。", "vi": "Đồng lương bèo bọt thế này thì nuôi gia đình sao nổi.", "note": "Động từ khả năng + ものか"},
+        {"ja": "「{怖|こわ}くないの？」「{怖|こわ}いもんか。{平気|へいき}だよ。」", "vi": "\"Không sợ à?\" — \"Sợ gì mà sợ. Bình thường thôi.\"", "note": "もんか = văn nói thân mật"},
+        {"ja": "{一人暮|ひとりぐ}らしが{寂|さび}しいものですか。{毎日|まいにち}{自由|じゆう}で{楽|たの}しいですよ。", "vi": "Sống một mình mà buồn ư? Làm gì có. Ngày nào cũng tự do, vui lắm.", "note": "ものですか: mềm hơn, nữ giới hay dùng"}
+      ],
+      "compare": [
+        {"with": "〜わけがない (12課, xem b31)", "diff": "「わけがない」 phủ định dựa trên **lý lẽ, căn cứ**, giọng bình tĩnh hơn. 「ものか」 là **phản ứng cảm xúc**, thường bật ra trong hội thoại."},
+        {"with": "〜ないもの(だろう)か (26課)", "diff": "Chỉ khác ở 「ない」 mà nghĩa ngược hẳn: 「{治|なお}るものか」 = đời nào khỏi; 「{治|なお}らないものか」 = mong sao khỏi được."}
+      ],
+      "mistakes": [
+        "✗ あんな{店|みせ}、{二度|にど}と{行|い}かないものか。→ ○ 二度と行くものか。(ものか đã mang nghĩa phủ định)",
+        "✗ {会議|かいぎ}の{資料|しりょう}には{誤|あやま}りがあるものか。→ văn bản trang trọng không dùng ものか; ○ 誤りがあるはずがない。"
+      ],
+      "tip": "Dấu hiệu: 「二度と」「なんか」「あんな〜」 + cảm xúc bực bội → ものか. Kiểm tra động từ trước chỗ trống: khẳng định → ものか (phủ định); phủ định ない → ないものか (mong ước)."
+    },
+    {
+      "id": "b30-2",
+      "pattern": "〜というものではない・〜というものでもない",
+      "reading": "〜というものではない・〜というものでもない",
+      "meaning": "Không phải cứ… là được / là đúng (bác bỏ một quan niệm đơn giản)",
+      "structure": ["普通形 ＋ というものではない／というものでもない", "Hay gặp: 〜ば／〜たら／〜さえ〜ば ＋ いい ＋ というものではない"],
+      "explain": "Dùng để **chỉnh lại một suy nghĩ \"cứ A là B\"** mà nhiều người hay tin. Người nói không phủ định hẳn A, chỉ nói \"chuyện không đơn giản như vậy\". (Đã học ở 12課.)\n\nHình ảnh: một người lớn tuổi nghe ai đó nói \"cứ đắt là ngon\" liền lắc đầu: 「{高|たか}ければいいというものではない」.\n\n- 「というものでもない」 nhẹ hơn một chút: \"cũng không hẳn là…\".",
+      "nuance": "Phủ định một **quy luật chung**, không dùng để phủ định một sự việc cụ thể của một người (cái đó là 「わけではない」). Vế trước rất hay có 〜ば／〜たら／〜さえ.",
+      "examples": [
+        {"ja": "{薬|くすり}はたくさん{飲|の}めば{早|はや}く{治|なお}るというものではない。", "vi": "Không phải cứ uống thật nhiều thuốc là khỏi nhanh.", "note": "〜ば〜というものではない"},
+        {"ja": "{勉強|べんきょう}は{長時間|ちょうじかん}やればいいというものでもない。{集中|しゅうちゅう}できるかどうかが{大切|たいせつ}だ。", "vi": "Học cũng không hẳn cứ ngồi thật lâu là được. Quan trọng là có tập trung được hay không.", "note": "でもない: nhẹ hơn"},
+        {"ja": "{謝|あやま}りさえすれば{何|なん}でも{許|ゆる}されるというものではないよ。", "vi": "Không phải cứ xin lỗi là cái gì cũng được tha thứ đâu.", "note": "〜さえ〜ば"},
+        {"ja": "{人|ひと}が{多|おお}ければ{作業|さぎょう}が{早|はや}く{終|お}わるというものではない。", "vi": "Không phải cứ đông người là công việc xong nhanh.", "note": ""}
+      ],
+      "compare": [
+        {"with": "〜わけではない (12課, xem b31-2)", "diff": "「わけではない」 phủ định một phần **một sự việc cụ thể** (嫌いなわけではない = không phải là tôi ghét). 「というものではない」 phủ định **một quy luật chung** \"cứ A là B\"."},
+        {"with": "〜というものだ (23課)", "diff": "Dạng khẳng định có nghĩa khác: \"đó đúng là…\" (đánh giá). Đừng nghĩ というものではない là phủ định đơn thuần của というものだ."}
+      ],
+      "mistakes": [
+        "✗ {田中|たなか}さんは{明日|あした}{来|く}るというものではない。→ ○ 来るわけではない / 来るとは限らない (nói về một người cụ thể)"
+      ],
+      "tip": "Thấy 「〜ば(いい)」「〜たら」「〜さえ」 ở vế trước + câu mang ý \"không đơn giản thế\" → というものではない."
+    },
+    {
+      "id": "b30-3",
+      "pattern": "〜ものの・〜とはいうものの",
+      "reading": "〜ものの・〜とはいうものの",
+      "meaning": "Tuy… nhưng (thực tế lại không như mong đợi)",
+      "structure": ["V・い形 普通形 ＋ ものの", "な形 ＋ な／である ＋ ものの", "N ＋ である ＋ ものの", "普通形 (N・な形: だ thường lược) ＋ とはいうものの", "Đầu câu: とはいうものの、〜"],
+      "explain": "Thừa nhận A là thật, nhưng B tiếp theo lại **đi ngược kỳ vọng tự nhiên** từ A. Vế B rất hay là tình trạng \"chưa làm được, chưa tiến triển\": 「{買|か}ったものの、まだ{使|つか}っていない」. (Đã học ở 14課.)\n\n- **とはいうものの**: \"nói thì nói là A vậy, nhưng…\" — người nói nhắc lại một nhận định (của mình hoặc chung) rồi bổ sung thực tế ngược lại. Có thể đứng **đầu câu** như một liên từ.",
+      "nuance": "Văn viết, hơi cứng. Vế sau là sự thật / nhận xét, **không** là ý chí, mệnh lệnh, rủ rê của người nói.",
+      "examples": [
+        {"ja": "{運動|うんどう}しようと{思|おも}ってジムに{入会|にゅうかい}したものの、まだ{二回|にかい}しか{行|い}っていない。", "vi": "Định tập thể dục nên đăng ký phòng gym, nhưng mới đi được có hai lần.", "note": "Vế sau: chưa làm được như dự định"},
+        {"ja": "{日本|にほん}に{来|き}て{三年|さんねん}になるものの、{敬語|けいご}にはなかなか{慣|な}れない。", "vi": "Tuy sang Nhật đã ba năm, tôi vẫn mãi không quen được kính ngữ.", "note": ""},
+        {"ja": "{春|はる}とはいうものの、{朝晩|あさばん}はまだ{冬|ふゆ}のように{寒|さむ}い。", "vi": "Nói là xuân thì nói vậy, chứ sáng tối vẫn lạnh như mùa đông.", "note": "N ＋ とはいうものの"},
+        {"ja": "{明日|あした}から{本気|ほんき}で{勉強|べんきょう}する。とはいうものの、{何|なに}から{始|はじ}めればいいかわからない。", "vi": "Từ mai sẽ học nghiêm túc. Nói vậy chứ chẳng biết bắt đầu từ đâu.", "note": "とはいうものの đầu câu"}
+      ],
+      "compare": [
+        {"with": "〜にもかかわらず (14課)", "diff": "「にもかかわらず」 nhấn mạnh sự **bất ngờ / phê phán** (dù vậy mà vẫn…). 「ものの」 nhẹ hơn, hay dùng khi kể về bản thân: làm rồi nhưng chưa ra kết quả."},
+        {"with": "〜ものなら (15課)", "diff": "Cùng có もの nhưng 「ものなら」 là **giả định** (nếu có thể…). 「ものの」 nói về **sự thật** đã/đang xảy ra."}
+      ],
+      "mistakes": [
+        "✗ {雨|あめ}が{降|ふ}っているものの、{出|で}かけましょう。→ vế sau là rủ rê; ○ 雨が降っているけれど、出かけましょう。"
+      ],
+      "tip": "Vế sau có 「まだ〜ない」「なかなか〜ない」「〜しか〜ない」 (chưa đạt kỳ vọng) → ứng viên số 1 là ものの."
+    },
+    {
+      "id": "b30-4",
+      "pattern": "〜ものなら",
+      "reading": "〜ものなら",
+      "meaning": "Nếu có thể… thì (muốn lắm, nhưng gần như không thể)",
+      "structure": ["V可能形 (辞書形) ＋ ものなら", "Vế sau: 〜たい／〜てあげたい／〜てみろ"],
+      "explain": "Giả định một việc **rất khó hoặc không thể** thực hiện, và vế sau là **mong muốn** người nói ấp ủ. 「できるものなら、もう{一度|いちど}{若|わか}いころに{戻|もど}りたい」. (Đã học ở 15課.)\n\nNghĩa thứ hai: **thách thức** — 「やれるものならやってみろ」 = có giỏi thì làm thử xem (tao không tin mày làm được).",
+      "nuance": "Phía trước gần như luôn là **động từ khả năng** (できる・行ける・戻れる・代われる). Vế sau là mong muốn / thách thức, không phải sự thật khách quan.",
+      "examples": [
+        {"ja": "できるものなら、もう{一度|いちど}{学生時代|がくせいじだい}に{戻|もど}りたい。", "vi": "Nếu có thể, tôi muốn quay lại thời sinh viên một lần nữa.", "note": "できるものなら: cụm hay gặp nhất"},
+        {"ja": "{代|か}われるものなら、{病気|びょうき}の{娘|むすめ}と{代|か}わってあげたい。", "vi": "Nếu đổi chỗ được, tôi muốn chịu bệnh thay cho con gái.", "note": ""},
+        {"ja": "{行|い}けるものなら、{今|いま}すぐにでも{故郷|こきょう}へ{飛|と}んで{帰|かえ}りたい。", "vi": "Nếu đi được thì tôi muốn bay ngay về quê lúc này.", "note": ""},
+        {"ja": "「この{記録|きろく}、{破|やぶ}れるものなら{破|やぶ}ってみろ」とチャンピオンは{笑|わら}った。", "vi": "\"Kỷ lục này, có giỏi thì phá thử xem\" — nhà vô địch cười nói.", "note": "Nghĩa thách thức: 〜ものなら〜てみろ"}
+      ],
+      "compare": [
+        {"with": "〜(よ)うものなら (15課)", "diff": "Chỉ thêm 「よう」 mà nghĩa khác hẳn: 「(よ)うものなら」 = **nếu lỡ làm… thì hậu quả tồi tệ**. 「ものなら」 = nếu có thể thì **muốn**."}
+      ],
+      "mistakes": [
+        "✗ {時間|じかん}があるものなら、{旅行|りょこう}したい。→ việc bình thường dễ xảy ra; ○ 時間があれば、旅行したい。"
+      ],
+      "tip": "Trước chỗ trống là động từ khả năng (〜える／〜られる) và vế sau là 〜たい／〜てみろ → ものなら."
+    },
+    {
+      "id": "b30-5",
+      "pattern": "〜(よ)うものなら",
+      "reading": "〜(よ)うものなら",
+      "meaning": "Nếu lỡ… thì (sẽ có chuyện tồi tệ)",
+      "structure": ["V意向形 (〜よう／〜おう) ＋ ものなら"],
+      "explain": "Giả định \"**chỉ cần lỡ** làm A thôi\" là sẽ kéo theo hậu quả **rất tệ** B. Thường mang giọng cường điệu, than thở. (Đã học ở 15課.)\n\nHình ảnh: một bãi mìn — 「{少|すこ}しでも{遅刻|ちこく}しようものなら、{部長|ぶちょう}に{怒鳴|どな}られる」 = chỉ cần trễ một chút thôi là bị trưởng phòng quát ngay.",
+      "nuance": "Vế sau là **hậu quả xấu** (bị mắng, rắc rối lớn, không cứu vãn được). Văn nói lẫn văn viết đều dùng. Dấu hiệu hình thức rất rõ: **thể ý chí** + ものなら.",
+      "examples": [
+        {"ja": "うちの{課長|かちょう}は{厳|きび}しくて、{一分|いっぷん}でも{遅刻|ちこく}しようものなら{大声|おおごえ}で{怒鳴|どな}られる。", "vi": "Trưởng nhóm tôi rất nghiêm, chỉ cần trễ một phút thôi là bị quát ầm lên.", "note": "する → しようものなら"},
+        {"ja": "この{急|きゅう}な{坂|さか}でブレーキが{壊|こわ}れようものなら、{大事故|だいじこ}になるだろう。", "vi": "Ở con dốc gắt này mà phanh lỡ hỏng thì sẽ thành tai nạn lớn.", "note": "壊れる → 壊れよう"},
+        {"ja": "{妻|つま}の{誕生日|たんじょうび}を{忘|わす}れようものなら、{一週間|いっしゅうかん}は{口|くち}をきいてもらえない。", "vi": "Mà lỡ quên sinh nhật vợ thì cả tuần cô ấy không thèm nói chuyện.", "note": "Cường điệu, hài hước"},
+        {"ja": "{弟|おとうと}に{秘密|ひみつ}を{話|はな}そうものなら、{次|つぎ}の{日|ひ}にはクラス{中|じゅう}に{広|ひろ}まっている。", "vi": "Lỡ kể bí mật cho em trai thì hôm sau cả lớp đã biết hết.", "note": "話す → 話そう"}
+      ],
+      "compare": [
+        {"with": "〜ものなら (15課)", "diff": "「ものなら」: thể khả năng + mong muốn. 「(よ)うものなら」: thể ý chí + hậu quả xấu."},
+        {"with": "〜たら／〜と", "diff": "Điều kiện trung tính, không có sắc thái \"chỉ cần lỡ… là toi\"."}
+      ],
+      "mistakes": [
+        "✗ {遅刻|ちこく}するものなら → ○ 遅刻しようものなら (phải là thể ý chí)",
+        "✗ {彼|かれ}に{頼|たの}もうものなら、すぐ{手伝|てつだ}ってくれる。→ vế sau là kết quả tốt; ○ 彼に頼めば、すぐ手伝ってくれる。"
+      ],
+      "tip": "Thấy thể ý chí (〜よう／〜おう) ngay trước chỗ trống và vế sau là hậu quả xấu → (よ)うものなら."
+    },
+    {
+      "id": "b30-6",
+      "pattern": "〜ものだから・〜もので・〜もの",
+      "reading": "〜ものだから・〜もので・〜もの",
+      "meaning": "Tại vì… (phân trần, thanh minh lý do)",
+      "structure": ["普通形 ＋ ものだから／もので (な形・N ＋ な)", "Cuối câu: 普通形 ＋ もの／もん (thường: 〜んだもの)", "Lịch sự: ものですから"],
+      "explain": "Nêu lý do để **biện minh, xin lỗi, giải thích vì sao mình làm chưa tốt**: \"tại vì… nên mới thế\". (Đã học ở 16課.)\n\n- 「ものだから／もので」 đứng giữa câu: 「{道|みち}が{混|こ}んでいたもので、{遅|おく}れてしまいました」.\n- 「〜もの／もん」 đứng **cuối câu**: kiểu nũng nịu, cãi lại của trẻ con, phụ nữ, người thân: 「だって、{眠|ねむ}いんだもん」 = tại buồn ngủ mà.",
+      "nuance": "Vế sau thường là kết quả không mong muốn hoặc lời xin lỗi; **không** dùng mệnh lệnh, nhờ vả, rủ rê ở vế sau. 「〜もん」 rất thân mật, không dùng với người trên.",
+      "examples": [
+        {"ja": "すみません、{道|みち}が{混|こ}んでいたものですから、{遅|おく}れてしまいました。", "vi": "Xin lỗi, tại đường đông quá nên tôi đến muộn.", "note": "ものですから: lịch sự, khi xin lỗi"},
+        {"ja": "{急|きゅう}な{用事|ようじ}ができたもので、{今日|きょう}の{飲|の}み{会|かい}には{行|い}けなくなりました。", "vi": "Vì có việc đột xuất nên hôm nay tôi không đi nhậu được nữa.", "note": "もので"},
+        {"ja": "{一人|ひとり}っ{子|こ}なものだから、{両親|りょうしん}にかなり{甘|あま}やかされて{育|そだ}った。", "vi": "Vì là con một nên tôi lớn lên được bố mẹ chiều khá nhiều.", "note": "N ＋ な ＋ ものだから"},
+        {"ja": "「どうして{電話|でんわ}に{出|で}なかったの？」「だって、{会議中|かいぎちゅう}だったんだもの。」", "vi": "\"Sao không nghe máy?\" — \"Thì tại đang họp mà.\"", "note": "〜もの cuối câu, đi với だって"},
+        {"ja": "「{野菜|やさい}も{食|た}べなさい。」「いやだ。{苦|にが}いんだもん。」", "vi": "\"Ăn cả rau nữa đi.\" — \"Không đâu. Đắng lắm mà.\"", "note": "もん: trẻ con nũng nịu"}
+      ],
+      "compare": [
+        {"with": "〜ことだし (17課)", "diff": "Ngược chiều nhau: 「ことだし」 nêu lý do để **dẫn tới quyết định / rủ rê** (vế sau có 〜よう・〜ましょう). 「ものだから」 nêu lý do để **thanh minh** cho kết quả đã xảy ra."},
+        {"with": "〜から／〜ので", "diff": "Trung tính, vế sau tự do. 「ものだから」 mang sắc thái \"không phải lỗi tôi đâu, tại…\"."}
+      ],
+      "mistakes": [
+        "✗ {暑|あつ}いものだから、{窓|まど}を{開|あ}けてください。→ vế sau là nhờ vả; ○ 暑いので、窓を開けてください。"
+      ],
+      "tip": "Câu có 「すみません」「遅れて」「〜てしまいました」 (xin lỗi, thanh minh) → ものだから／もので. Cuối câu có 「だって、〜んだ(もの)」 → もの."
+    },
+    {
+      "id": "b30-7",
+      "pattern": "〜ものだ (本来の性質)",
+      "reading": "〜ものだ",
+      "meaning": "Vốn dĩ là…, (người / vật) thường là như thế — chân lý chung",
+      "structure": ["V辞書形／Vない形 ＋ ものだ", "い形 ＋ ものだ", "な形 ＋ な ＋ ものだ", "Văn nói: もんだ"],
+      "explain": "Nói về **bản chất, xu hướng tự nhiên** của con người, xã hội, sự vật — điều mà ai cũng thấy đúng. (Đã học ở 23課.)\n\nVí dụ: 「{人|ひと}は{誰|だれ}でも{失敗|しっぱい}するものだ」 = con người ai cũng có lúc sai.\n\nCách nhớ: もの = \"cái, thứ nói chung\" → câu đang nói về **cả một loại**, không phải một cá nhân. Chủ ngữ hay là 人, 人間, 子どもというもの, 誰でも, お金というのは….",
+      "nuance": "Không dùng để kể về thói quen của **một người cụ thể** hay một sự việc cụ thể. Không mang tính răn dạy (cái đó là nghĩa 24課, b30-9), chỉ **mô tả** sự thật chung.",
+      "examples": [
+        {"ja": "お{金|かね}というのは、{使|つか}えばすぐなくなるものだ。", "vi": "Tiền ấy mà, tiêu là hết ngay.", "note": "〜というのは ＋ ものだ"},
+        {"ja": "{子|こ}どもは{親|おや}の{言|い}うとおりにはしないものだ。", "vi": "Trẻ con vốn dĩ chẳng bao giờ làm đúng như bố mẹ bảo.", "note": "Vない ＋ ものだ"},
+        {"ja": "{誰|だれ}でも{初|はじ}めは{失敗|しっぱい}するものだから、{気|き}にしなくていい。", "vi": "Ai lúc đầu cũng thất bại cả, nên đừng bận tâm.", "note": "ものだから ở đây = ものだ ＋ から"},
+        {"ja": "{人|ひと}の{好|この}みは{年齢|ねんれい}とともに{変|か}わるものだ。", "vi": "Sở thích của con người thay đổi theo tuổi tác.", "note": ""}
+      ],
+      "compare": [
+        {"with": "〜ものだ (24課 — khuyên, b30-9)", "diff": "23課 **mô tả** \"vốn là thế\"; 24課 **răn dạy** \"phải làm thế\". Mẹo: đổi thành 〜べきだ mà nghĩa vẫn ổn → 24課."},
+        {"with": "〜ものだ (26課 — cảm thán, b30-12)", "diff": "26課 là người nói **xúc động** khi nhận ra chân lý (早いものだ!). 23課 trình bày khách quan hơn."}
+      ],
+      "mistakes": [
+        "✗ {田中|たなか}さんは{毎朝|まいあさ}{走|はし}るものだ。→ thói quen một người; ○ 田中さんは毎朝走っている。"
+      ],
+      "tip": "Chủ ngữ chung chung (人は／誰でも／〜というものは) + chỗ trống cuối câu → ものだ."
+    },
+    {
+      "id": "b30-8",
+      "pattern": "〜というものだ",
+      "reading": "〜というものだ",
+      "meaning": "Đó mới đúng là… / Thế thì đúng là… (đánh giá, kết luận mạnh)",
+      "structure": ["普通形 (N・な形: だ thường lược) ＋ というものだ", "Hay gặp: 〜のは ＋ 無理／無責任／わがまま／当然 ＋ というものだ"],
+      "explain": "Người nói nhìn một hành vi / tình huống cụ thể rồi **phán một câu kết luận**: \"cái đó, xét đúng bản chất, gọi là X\". (Đã học ở 23課.)\n\n- 「{一晩|ひとばん}で{全部|ぜんぶ}やれなんて、{無理|むり}というものだ」 = bắt làm hết trong một đêm thì đúng là vô lý.\n- Cũng dùng cho kết luận tích cực: 「それが{友情|ゆうじょう}というものだ」 = đó mới là tình bạn.",
+      "nuance": "Giọng chắc chắn, hơi \"dạy đời\". Hay đi với danh từ / tính từ đánh giá: 無理, 無責任, わがまま, 当然, 親切, 常識, 人情.",
+      "examples": [
+        {"ja": "{締|し}め{切|き}り{直前|ちょくぜん}に{仕事|しごと}を{全部|ぜんぶ}{人|ひと}に{押|お}し{付|つ}けるのは、{無責任|むせきにん}というものだ。", "vi": "Sát hạn chót lại đẩy hết việc cho người khác thì đúng là vô trách nhiệm.", "note": "〜のは ＋ 評価語 ＋ というものだ"},
+        {"ja": "{一晩|ひとばん}で{本|ほん}を{一冊|いっさつ}{訳|やく}せなんて、それは{無理|むり}というものだ。", "vi": "Bắt dịch cả cuốn sách trong một đêm, thế thì đúng là bất khả thi.", "note": ""},
+        {"ja": "{困|こま}っている{人|ひと}がいたら{黙|だま}って{助|たす}ける。それが{本当|ほんとう}の{優|やさ}しさというものだ。", "vi": "Thấy người gặp khó thì lặng lẽ giúp. Đó mới là sự tử tế thật sự.", "note": "Kết luận tích cực"},
+        {"ja": "{苦労|くろう}して{手|て}に{入|い}れたものほど{大切|たいせつ}に{思|おも}える。それが{人情|にんじょう}というものだ。", "vi": "Thứ gì vất vả mới có được thì càng thấy quý. Đó là lẽ thường tình của con người.", "note": ""}
+      ],
+      "compare": [
+        {"with": "〜ものだ (23課)", "diff": "「ものだ」 nói bản chất chung của một loại. 「というものだ」 **đánh giá một hành vi cụ thể** bằng một nhãn (無責任, 無理…)."},
+        {"with": "〜ということだ (b30-27)", "diff": "「ということだ」 = nghe nói / tức là (truyền đạt, suy ra). 「というものだ」 = đó đúng là (đánh giá). Trước 「というものだ」 thường là từ đánh giá, trước 「ということだ」 là một mệnh đề thông tin."}
+      ],
+      "mistakes": [
+        "✗ {天気|てんき}{予報|よほう}によると、{明日|あした}は{雨|あめ}というものだ。→ ○ 明日は雨だということだ (truyền đạt)"
+      ],
+      "tip": "Chủ đề 「〜のは」 / 「それは」 + từ đánh giá (無理・わがまま・当然) + chỗ trống → というものだ."
+    },
+    {
+      "id": "b30-9",
+      "pattern": "〜ものだ・〜ものではない (忠告)",
+      "reading": "〜ものだ・〜ものではない",
+      "meaning": "(Theo lẽ thường) người ta nên… / không nên…",
+      "structure": ["V辞書形／Vない形 ＋ ものだ", "V辞書形 ＋ ものではない", "Văn nói: もんだ／ものじゃない／もんじゃない"],
+      "explain": "Lời **răn dạy dựa trên đạo lý, phép lịch sự chung** — thường từ người lớn nói với người nhỏ: \"ở đời ai cũng phải thế\". (Đã học ở 24課.)\n\n- 「{目上|めうえ}の{人|ひと}には{敬語|けいご}を{使|つか}うものだ」 = với người trên thì phải dùng kính ngữ.\n- 「{人|ひと}の{悪口|わるぐち}を{言|い}うものではない」 = không được nói xấu người khác.\n\nĐiểm then chốt: lời khuyên này **áp dụng cho mọi người**, không phụ thuộc hoàn cảnh riêng của người nghe.",
+      "nuance": "Giọng dạy dỗ, có thể nghe gia trưởng nếu nói với người ngang hàng. Không dùng với người trên.",
+      "examples": [
+        {"ja": "{目上|めうえ}の{人|ひと}には{敬語|けいご}を{使|つか}うものだ。", "vi": "Với người trên thì phải dùng kính ngữ.", "note": "Đạo lý chung"},
+        {"ja": "{食|た}べ{物|もの}を{粗末|そまつ}にするものではない。", "vi": "Không được phí phạm đồ ăn.", "note": "ものではない"},
+        {"ja": "{夜|よる}{遅|おそ}くに{人|ひと}の{家|いえ}に{電話|でんわ}するものじゃないよ。", "vi": "Không ai lại gọi điện đến nhà người ta lúc khuya thế đâu.", "note": "ものじゃない: văn nói"},
+        {"ja": "{借|か}りたものは{早|はや}めに{返|かえ}すものです。", "vi": "Đồ đi mượn thì nên trả sớm.", "note": ""}
+      ],
+      "compare": [
+        {"with": "〜ことだ (24課, b30-19)", "diff": "「ものだ」 = **đạo lý chung**, ai cũng phải. 「ことだ」 = **lời khuyên riêng** cho người nghe trong hoàn cảnh cụ thể, hay đi với 〜たければ／〜なら."},
+        {"with": "〜べきだ (23課)", "diff": "「べきだ」 nghĩa vụ mạnh, cứng hơn, dùng được cho ý kiến riêng (政府は〜べきだ). 「ものだ」 dựa trên lẽ thường xã hội."}
+      ],
+      "mistakes": [
+        "✗ {目上|めうえ}の{人|ひと}に{失礼|しつれい}なことを{言|い}わないものではない。→ ○ 失礼なことを言うものではない (ものではない đi với V辞書形)"
+      ],
+      "tip": "Nội dung là phép lịch sự / đạo lý (目上・人前・食べ物を残す・約束を守る) và người nói đang dạy dỗ → ものだ／ものではない."
+    },
+    {
+      "id": "b30-10",
+      "pattern": "〜たいものだ・〜てほしいものだ",
+      "reading": "〜たいものだ・〜てほしいものだ",
+      "meaning": "Thật mong… / Thật muốn… (mong ước tha thiết)",
+      "structure": ["Vます ＋ たいものだ", "Vて形 ＋ ほしいものだ", "Vない形 ＋ でほしいものだ"],
+      "explain": "Thêm 「ものだ」 vào 「たい／てほしい」 để biến mong muốn thường thành **nỗi mong mỏi sâu sắc, ấp ủ lâu**. Thường là chuyện lớn: ước mơ đời người, mong xã hội tốt lên. (Đã học ở 26課.)\n\n- 「いつか{世界一周|せかいいっしゅう}をしてみたいものだ」 = ước gì có ngày đi vòng quanh thế giới.\n- 「てほしいものだ」: mong **người khác / xã hội** thay đổi.",
+      "nuance": "Văn hơi trang trọng, có chút hoài bão. Không dùng cho ham muốn vặt tức thời: 「{今|いま}、{水|みず}が{飲|の}みたいものだ」 nghe rất lạ.",
+      "examples": [
+        {"ja": "{一度|いちど}でいいから、オーロラを{自分|じぶん}の{目|め}で{見|み}てみたいものだ。", "vi": "Chỉ một lần thôi cũng được, tôi thật muốn tận mắt ngắm cực quang.", "note": "〜てみたいものだ"},
+        {"ja": "{定年後|ていねんご}は{田舎|いなか}でのんびり{暮|く}らしたいものだ。", "vi": "Về hưu rồi tôi rất mong được sống thong thả ở quê.", "note": ""},
+        {"ja": "{子|こ}どもたちには、{自分|じぶん}の{好|す}きな{道|みち}を{進|すす}んでほしいものだ。", "vi": "Tôi thật mong các con sẽ đi theo con đường mình yêu thích.", "note": "Mong người khác"},
+        {"ja": "{政治家|せいじか}には、もっと{国民|こくみん}の{声|こえ}に{耳|みみ}を{傾|かたむ}けてほしいものです。", "vi": "Tôi rất mong các chính trị gia lắng nghe tiếng nói của người dân hơn nữa.", "note": "Mong xã hội thay đổi"},
+        {"ja": "こんな{悲|かな}しい{事故|じこ}は、もう{二度|にど}と{起|お}きないでほしいものだ。", "vi": "Mong sao những tai nạn đau lòng như thế này đừng bao giờ xảy ra nữa.", "note": "Vないでほしいものだ"}
+      ],
+      "compare": [
+        {"with": "〜ないもの(だろう)か (26課)", "diff": "「ないものか」 = mong một việc **khó**, đang **tìm cách** thực hiện (何とか〜ないものか). 「たいものだ」 = bày tỏ ước muốn, không có sắc thái tìm cách."}
+      ],
+      "mistakes": [
+        "✗ のどが{渇|かわ}いた。ジュースが{飲|の}みたいものだ。→ ham muốn tức thời; ○ ジュースが飲みたい。"
+      ],
+      "tip": "Câu nói về ước mơ / mong xã hội tốt lên, chỗ trống sau 〜たい／〜てほしい → ものだ."
+    },
+    {
+      "id": "b30-11",
+      "pattern": "〜たものだ (回想)",
+      "reading": "〜たものだ",
+      "meaning": "Hồi đó (tôi) thường hay… (hoài niệm thói quen xưa)",
+      "structure": ["Vた形 ＋ ものだ", "Hay đi với: よく・毎日・〜ころは・昔は・学生時代は"],
+      "explain": "Nhớ lại **thói quen lặp đi lặp lại** trong quá khứ, kèm cảm xúc **hoài niệm**. 「{昔|むかし}はよく{祖父|そふ}と{釣|つ}りに{行|い}ったものだ」 = ngày xưa tôi hay đi câu cá với ông lắm. (Đã học ở 26課.)\n\nCách nhớ: Vた + ものだ = \"**những cái** (もの) đã làm ngày xưa\" → giọng kể chuyện ngày xưa của ông bà.",
+      "nuance": "Chỉ dùng cho việc **lặp lại nhiều lần**, đã khá xa trong quá khứ. Không dùng cho việc xảy ra một lần, hay chuyện mới hôm qua.",
+      "examples": [
+        {"ja": "{子|こ}どものころは、{夏休|なつやす}みになると{毎日|まいにち}{川|かわ}で{魚|さかな}を{捕|と}ったものだ。", "vi": "Hồi nhỏ, cứ đến nghỉ hè là ngày nào tôi cũng ra sông bắt cá.", "note": "〜ころは ＋ 毎日 ＋ Vたものだ"},
+        {"ja": "{学生時代|がくせいじだい}はお{金|かね}がなくて、よくインスタントラーメンばかり{食|た}べたものだ。", "vi": "Thời sinh viên không có tiền, tôi hay ăn toàn mì gói.", "note": "よく ＋ Vたものだ"},
+        {"ja": "{昔|むかし}はこの{辺|あた}りも{田|た}んぼばかりで、{夜|よる}になるとカエルがうるさく{鳴|な}いたものだ。", "vi": "Ngày xưa quanh đây toàn ruộng, cứ tối đến là ếch kêu inh ỏi.", "note": "Hồi tưởng cảnh vật"},
+        {"ja": "{若|わか}いころは{終電|しゅうでん}まで{友達|ともだち}と{語|かた}り{合|あ}ったものだが、{今|いま}はすぐ{眠|ねむ}くなる。", "vi": "Hồi trẻ tôi hay ngồi tâm sự với bạn tới chuyến tàu cuối, giờ thì chẳng mấy chốc đã buồn ngủ.", "note": "ものだが: đối lập xưa ↔ nay"}
+      ],
+      "compare": [
+        {"with": "〜たことがある", "diff": "「たことがある」 = **đã từng** (kinh nghiệm, dù chỉ một lần), không hoài niệm. 「たものだ」 = **hay làm**, lặp lại nhiều lần, có cảm xúc nhớ nhung."}
+      ],
+      "mistakes": [
+        "✗ {昨日|きのう}、{駅|えき}で{先生|せんせい}に{会|あ}ったものだ。→ việc một lần, mới xảy ra; ○ 昨日、駅で先生に会った。",
+        "✗ {一度|いちど}だけ{富士山|ふじさん}に{登|のぼ}ったものだ。→ ○ 一度だけ富士山に登ったことがある。"
+      ],
+      "tip": "Có mốc thời gian xa (子どものころ・学生時代・昔は) + từ chỉ tần suất (よく・毎日) + Vた → ものだ."
+    },
+    {
+      "id": "b30-12",
+      "pattern": "〜ものだ (感慨)",
+      "reading": "〜ものだ",
+      "meaning": "Thật là…! (cảm thán về bản chất sự việc / thán phục, ngán ngẩm)",
+      "structure": ["V・い形 普通形 ＋ ものだ", "な形 ＋ な ＋ ものだ", "Hay gặp: よく〜ものだ／〜ものですね"],
+      "explain": "Người nói **xúc động** khi chợt nhận ra một điều \"đời là vậy\": 「{人|ひと}の{縁|えん}というのは{不思議|ふしぎ}なものだ」 = duyên phận giữa người với người thật kỳ lạ. (Đã học ở 26課.)\n\nHai kiểu hay gặp:\n- **Cảm thán về lẽ đời**: 世の中は狭いものだ (thế giới nhỏ thật), 人の心はわからないものだ.\n- **よく〜ものだ**: thán phục hoặc ngán ngẩm trước việc người khác làm được: 「よくこんな{寒|さむ}い{日|ひ}に{泳|およ}げるものだ」 = trời lạnh thế này mà cũng bơi được, giỏi thật (hoặc: điên thật).",
+      "nuance": "Có cảm xúc của người nói, nhưng vẫn mang hơi hướng **khái quát** (đúng là thế mà). Khác 「ことだ」 cảm thán chỉ gắn với **một sự việc cụ thể**.",
+      "examples": [
+        {"ja": "{月日|つきひ}が{経|た}つのは{本当|ほんとう}に{早|はや}いものですね。もう{年末|ねんまつ}ですよ。", "vi": "Ngày tháng trôi qua nhanh thật đấy. Đã cuối năm rồi.", "note": "〜ものですね: cảm thán, tìm sự đồng cảm"},
+        {"ja": "{世|よ}の{中|なか}は{狭|せま}いものだ。{旅先|たびさき}で{高校|こうこう}の{同級生|どうきゅうせい}に{会|あ}うなんて。", "vi": "Thế giới nhỏ thật. Ai ngờ đi du lịch lại gặp bạn cùng lớp cấp ba.", "note": ""},
+        {"ja": "よくこんな{細|こま}かい{作業|さぎょう}を{何時間|なんじかん}も{続|つづ}けられるものだ。", "vi": "Công việc tỉ mỉ thế này mà làm liền mấy tiếng được, giỏi thật.", "note": "よく〜ものだ: thán phục"},
+        {"ja": "{人|ひと}の{心|こころ}というのは、わからないものだ。", "vi": "Lòng người đúng là khó đoán.", "note": ""}
+      ],
+      "compare": [
+        {"with": "〜ことだ (26課, b30-21)", "diff": "「ことだ」 cảm thán về **một sự việc cụ thể** (娘さんが合格したとは、めでたいことだ). 「ものだ」 cảm thán về **lẽ đời / bản chất** (子どもの成長は早いものだ)."},
+        {"with": "〜ものだ (23課)", "diff": "Cùng nói bản chất, nhưng 26課 có **cảm xúc**, hay có 本当に／よく／〜ですね."}
+      ],
+      "mistakes": [
+        "✗ よくこんな{寒|さむ}い{日|ひ}に{泳|およ}げることだ。→ ○ よく〜泳げるものだ (khung cố định よく〜ものだ)"
+      ],
+      "tip": "Thấy 「よく〜」 (thán phục) hoặc 「早い／狭い／わからない + ですね」 (cảm thán lẽ đời) → ものだ."
+    },
+    {
+      "id": "b30-13",
+      "pattern": "〜ないもの(だろう)か",
+      "reading": "〜ないもの(だろう)か",
+      "meaning": "Không có cách nào… sao? Mong sao… (ước một việc khó)",
+      "structure": ["Vない形 (thường là thể khả năng) ＋ ものか／ものだろうか／ものでしょうか", "N ＋ はないものか", "Hay đi với: 何とか・どうにか・もう少し"],
+      "explain": "Người nói **rất mong** một việc khó xảy ra và đang **nghĩ cách**: 「どうにかしてこの{赤字|あかじ}を{減|へ}らせないものか」 = có cách nào giảm được khoản lỗ này không nhỉ. (Đã học ở 26課.)\n\nĐọc sát nghĩa: \"Lẽ nào lại **không** thể… sao?\" → tức là \"mong là có thể\".",
+      "nuance": "Tâm trạng sốt ruột, mong mỏi. 「ものだろうか／ものでしょうか」 mềm hơn, hay dùng khi hỏi ý kiến người khác.",
+      "examples": [
+        {"ja": "{何|なん}とかして{二人|ふたり}を{仲直|なかなお}りさせられないものか。", "vi": "Có cách nào làm cho hai người làm lành với nhau không nhỉ.", "note": "何とか ＋ Vないものか"},
+        {"ja": "{毎朝|まいあさ}の{満員電車|まんいんでんしゃ}、もう{少|すこ}し{楽|らく}にならないものだろうか。", "vi": "Tàu chật cứng mỗi sáng, giá mà dễ chịu hơn một chút thì hay biết mấy.", "note": "ものだろうか: mềm hơn"},
+        {"ja": "この{古|ふる}い{写真|しゃしん}をもっときれいに{直|なお}せないものかと{思|おも}って、{専門店|せんもんてん}に{持|も}っていった。", "vi": "Nghĩ xem có cách nào phục hồi tấm ảnh cũ này đẹp hơn không, tôi mang nó tới tiệm chuyên.", "note": "〜ないものかと思う"},
+        {"ja": "{仕事|しごと}と{育児|いくじ}を{両立|りょうりつ}できるいい{方法|ほうほう}はないものか。", "vi": "Không có cách nào hay để cân bằng công việc và chăm con sao.", "note": "N ＋ はないものか"}
+      ],
+      "compare": [
+        {"with": "〜ものか (12・24課, b30-1)", "diff": "Hình thức chỉ khác 「ない」: 「Vる＋ものか」 = **đời nào** (phủ định); 「Vない＋ものか」 = **mong sao** (ước muốn)."},
+        {"with": "〜たいものだ (26課)", "diff": "「たいものだ」 chỉ bày tỏ ước muốn; 「ないものか」 có thêm sắc thái **đang tìm cách** vì việc đó khó."}
+      ],
+      "mistakes": [
+        "✗ {何|なん}とか{試験|しけん}に{合格|ごうかく}できるものか。→ nghĩa thành \"đời nào đỗ được\"; ○ 何とか合格できないものか。"
+      ],
+      "tip": "何とか／どうにか + Vない + chỗ trống → ものか／ものだろうか. Đừng nhầm với ことか (cảm thán mức độ, cần どんなに／何度)."
+    },
+    {
+      "id": "b30-14",
+      "pattern": "〜ものがある",
+      "reading": "〜ものがある",
+      "meaning": "Có cái gì đó (thật)… / thật sự… (cảm nhận mạnh về một đặc điểm)",
+      "structure": ["V辞書形 ＋ ものがある", "い形 ＋ ものがある", "な形 ＋ な ＋ ものがある", "Khung hay gặp: N には 〜ものがある"],
+      "explain": "Người nói cảm thấy ở một người / vật / tình huống **một điều gì đó** rất đáng chú ý, rồi gọi tên cảm nhận ấy: 「{彼|かれ}の{演奏|えんそう}には{人|ひと}の{心|こころ}を{打|う}つものがある」 = tiếng đàn của anh ấy có cái gì đó lay động lòng người. (Đã học ở 26課.)\n\nCũng dùng để nói giảm cảm giác khó chịu: 「{一人|ひとり}で{年末|ねんまつ}を{過|す}ごすのは{寂|さび}しいものがある」 = đón cuối năm một mình thì quả là có phần cô đơn.",
+      "nuance": "Văn viết / phát biểu nhận xét. Người nói đánh giá dựa trên **cảm nhận**, không phải dữ kiện. Khung 「〜には…ものがある」 rất đặc trưng.",
+      "examples": [
+        {"ja": "{彼|かれ}のスピーチには、{聞|き}く{人|ひと}を{引|ひ}きつけるものがある。", "vi": "Bài phát biểu của anh ấy có sức cuốn hút người nghe.", "note": "N には 〜ものがある"},
+        {"ja": "{毎晩|まいばん}{遅|おそ}くまで{隣|となり}の{部屋|へや}の{騒音|そうおん}が{続|つづ}くのは、つらいものがある。", "vi": "Đêm nào tiếng ồn từ phòng bên cũng kéo dài tới khuya thì quả thật là khổ sở.", "note": "い形 ＋ ものがある"},
+        {"ja": "この{若|わか}い{選手|せんしゅ}の{成長|せいちょう}ぶりには、{目|め}を{見張|みは}るものがある。", "vi": "Sự tiến bộ của vận động viên trẻ này thật đáng kinh ngạc.", "note": "目を見張る = tròn mắt kinh ngạc"},
+        {"ja": "{言葉|ことば}の{通|つう}じない{国|くに}で{一人|ひとり}で{病院|びょういん}に{行|い}くのは、{不安|ふあん}なものがある。", "vi": "Một mình đi bệnh viện ở nước không thông ngôn ngữ thì thật có phần bất an.", "note": "な形 ＋ な ＋ ものがある"}
+      ],
+      "compare": [
+        {"with": "〜ことがある", "diff": "「ことがある」 = thỉnh thoảng có khi / đã từng (nói tần suất, kinh nghiệm). 「ものがある」 = có một **phẩm chất, cảm giác** đáng chú ý."}
+      ],
+      "mistakes": [
+        "✗ {彼|かれ}の{絵|え}には{人|ひと}を{感動|かんどう}させることがある。→ ○ 感動させるものがある"
+      ],
+      "tip": "Khung 「Nには ＿＿」 + động từ / tính từ đánh giá (心を打つ・目を見張る・つらい) → ものがある."
+    },
+    {
+      "id": "b30-15",
+      "pattern": "〜(のこと)となると",
+      "reading": "〜(のこと)となると",
+      "meaning": "Hễ nói đến (chuyện)… là (người đó thay đổi hẳn)",
+      "structure": ["N ＋ (のこと)となると"],
+      "explain": "Khi chủ đề chuyển sang N — thứ người đó **rất mê** hoặc **rất kém** — thì thái độ của họ khác hẳn bình thường. 「{父|ちち}は{釣|つ}りのこととなると{子|こ}どものようになる」 = cứ nói tới câu cá là bố như trẻ con. (Đã học ở 13課.)\n\nCách nhớ: 「となると」 = \"khi trở thành chuyện…\" → công tắc bật lên.",
+      "nuance": "Vế sau là sự **thay đổi đặc biệt** so với bình thường (mắt sáng lên, nói không ngừng, hoặc trở nên vô dụng). Hay có 普段は〜が／なのに ở trước để tạo tương phản.",
+      "examples": [
+        {"ja": "{父|ちち}は{普段|ふだん}おとなしいが、{野球|やきゅう}のこととなると{急|きゅう}に{熱|あつ}くなる。", "vi": "Bố tôi bình thường điềm đạm, nhưng hễ nói đến bóng chày là sôi nổi hẳn lên.", "note": "普段は〜が ＋ のこととなると"},
+        {"ja": "{彼女|かのじょ}は{仕事|しごと}は{完璧|かんぺき}なのに、{料理|りょうり}となるとまるでだめだ。", "vi": "Cô ấy làm việc thì hoàn hảo, nhưng cứ đến chuyện nấu nướng là chịu thua hoàn toàn.", "note": "Lược のこと"},
+        {"ja": "{母|はは}は{子|こ}どものこととなると、{周|まわ}りが{見|み}えなくなる。", "vi": "Mẹ tôi hễ dính đến chuyện con cái là chẳng còn để ý xung quanh.", "note": ""},
+        {"ja": "{専門|せんもん}の{歴史|れきし}のこととなると、{先生|せんせい}の{話|はなし}は{何時間|なんじかん}でも{止|と}まらない。", "vi": "Cứ nói đến lịch sử, chuyên ngành của thầy, là thầy nói mấy tiếng cũng không dừng.", "note": ""}
+      ],
+      "compare": [
+        {"with": "〜となると (15課 — giả định)", "diff": "「留学するとなると、お金がかかる」 = **nếu thành ra** đi du học thì tốn tiền (V + となると). 「Nのこととなると」 = hễ đụng tới chủ đề N."},
+        {"with": "〜のことだから (17課)", "diff": "「のことだから」 dựa vào tính cách **một người** để đoán (彼のことだから…). 「のこととなると」 nói về **chủ đề** làm người đó thay đổi."}
+      ],
+      "mistakes": [
+        "✗ {田中|たなか}さんのこととなると、きっと{遅|おく}れて{来|く}るだろう。→ dự đoán theo tính cách; ○ 田中さんのことだから、きっと遅れて来るだろう。"
+      ],
+      "tip": "Câu có tương phản 「普段は〜が」 và N là sở thích / điểm yếu → (のこと)となると."
+    },
+    {
+      "id": "b30-16",
+      "pattern": "〜ないことには",
+      "reading": "〜ないことには",
+      "meaning": "Nếu không… thì (không thể…)",
+      "structure": ["Vない形 ＋ ことには", "い形 −く ＋ ないことには", "な形・N ＋ で(は)ないことには", "Vế sau: thể phủ định (〜ない／〜できない／わからない)"],
+      "explain": "A là **điều kiện không thể thiếu**: chưa có A thì B không thể thành. 「{実際|じっさい}に{見|み}ないことには、{何|なん}とも{言|い}えない」 = chưa tận mắt xem thì chưa nói được gì. (Đã học ở 15課.)\n\nCông thức nhớ: **ないことには ＋ ない** — hai lần phủ định kẹp nhau.",
+      "nuance": "Vế sau **bắt buộc** mang nghĩa phủ định / không thể. Giọng hơi nặng nề, nhấn mạnh tính cần thiết.",
+      "examples": [
+        {"ja": "{実際|じっさい}に{会|あ}って{話|はな}してみないことには、どんな{人|ひと}かわからない。", "vi": "Chưa gặp nói chuyện trực tiếp thì không biết người đó thế nào.", "note": ""},
+        {"ja": "{社長|しゃちょう}の{許可|きょか}がないことには、{新|あたら}しい{店|みせ}は{出|だ}せない。", "vi": "Không có sự cho phép của giám đốc thì không thể mở cửa hàng mới.", "note": "N がない ＋ ことには"},
+        {"ja": "{体|からだ}が{健康|けんこう}でないことには、いい{仕事|しごと}はできない。", "vi": "Cơ thể không khoẻ mạnh thì không thể làm tốt công việc.", "note": "な形 ＋ でないことには"},
+        {"ja": "{材料|ざいりょう}が{届|とど}かないことには、{工事|こうじ}を{始|はじ}めようがない。", "vi": "Vật liệu chưa đến thì không có cách nào khởi công.", "note": "Vế sau: 〜ようがない"}
+      ],
+      "compare": [
+        {"with": "〜てからでないと (3課)", "diff": "Gần nghĩa nhưng 「てからでないと」 nhấn **thứ tự trước–sau** (làm A xong rồi mới B). 「ないことには」 nhấn A là **điều kiện tối cần**."},
+        {"with": "〜ものなら (15課)", "diff": "Cũng là giả định, nhưng 「ものなら」 + mong muốn; 「ないことには」 + không thể."}
+      ],
+      "mistakes": [
+        "✗ {練習|れんしゅう}しないことには、{上手|じょうず}になる。→ vế sau phải phủ định; ○ 練習しないことには、上手にならない。"
+      ],
+      "tip": "Vế sau có 「〜ない／わからない／〜ようがない」 và vế trước là Vない → ないことには."
+    },
+    {
+      "id": "b30-17",
+      "pattern": "〜ことだし",
+      "reading": "〜ことだし",
+      "meaning": "Vì cũng… nên (nêu một lý do nhẹ để quyết định / rủ rê)",
+      "structure": ["V・い形 普通形 ＋ ことだし", "な形 ＋ な／である ＋ ことだし", "N ＋ である ＋ ことだし", "Hay có 「も」: 〜もVたことだし"],
+      "explain": "Nêu **một trong vài lý do** (thường nhẹ nhàng) để dẫn tới **quyết định, đề nghị, rủ rê**: 「{天気|てんき}もいいことだし、{散歩|さんぽ}でもしようか」 = trời cũng đẹp, hay mình đi dạo nhé. (Đã học ở 17課.)\n\nCách nhớ: し = \"và còn…\" → đây chỉ là một lý do trong số nhiều, không nặng nề.",
+      "nuance": "Vế sau thường là **ý chí / đề nghị** (〜よう, 〜ましょう, 〜ませんか, 〜ようと思う). Văn nói, tự nhiên trong hội thoại.",
+      "examples": [
+        {"ja": "{会議|かいぎ}も{早|はや}く{終|お}わったことだし、{今日|きょう}はみんなで{飲|の}みに{行|い}こうか。", "vi": "Cuộc họp cũng xong sớm rồi, hôm nay cả nhóm đi nhậu nhé.", "note": "Vế sau: rủ rê"},
+        {"ja": "みんな{揃|そろ}ったことだし、{会議|かいぎ}を{始|はじ}めましょう。", "vi": "Mọi người cũng đủ cả rồi, ta bắt đầu họp nhé.", "note": ""},
+        {"ja": "{給料|きゅうりょう}も{入|はい}ったことだし、ちょっといいレストランで{食事|しょくじ}しよう。", "vi": "Lương cũng về rồi, đi ăn nhà hàng sang một chút đi.", "note": ""},
+        {"ja": "{子|こ}どもも{大|おお}きくなったことだし、そろそろ{仕事|しごと}に{復帰|ふっき}しようと{思|おも}う。", "vi": "Con cũng lớn rồi, tôi định sắp tới sẽ đi làm lại.", "note": "〜ようと思う"}
+      ],
+      "compare": [
+        {"with": "〜ものだから (16課)", "diff": "「ものだから」 = thanh minh cho **kết quả đã xảy ra**, vế sau không là ý chí. 「ことだし」 = lý do để **quyết định / rủ rê**."},
+        {"with": "〜のことだから (17課)", "diff": "「のことだから」 đi với **danh từ chỉ người** để đoán; 「ことだし」 đi với mệnh đề chỉ tình huống."}
+      ],
+      "mistakes": [
+        "✗ {寝坊|ねぼう}したことだし、{遅刻|ちこく}してしまいました。→ thanh minh; ○ 寝坊したものですから、遅刻してしまいました。"
+      ],
+      "tip": "Vế sau có 〜よう／〜ましょう／〜ませんか và vế trước hay có 「も」 → ことだし."
+    },
+    {
+      "id": "b30-18",
+      "pattern": "〜のことだから",
+      "reading": "〜のことだから",
+      "meaning": "Vì là (người đó) nên chắc chắn là…",
+      "structure": ["N (người, tổ chức) ＋ のことだから", "Trước N thường có định ngữ chỉ tính cách: 真面目な彼のことだから"],
+      "explain": "Dựa vào **những gì mình biết rõ về tính cách, thói quen** của một người để **đoán** hành động của họ: 「{慎重|しんちょう}な{彼女|かのじょ}のことだから、もう{準備|じゅんび}してあるだろう」 = cô ấy cẩn thận thế, chắc đã chuẩn bị rồi. (Đã học ở 17課.)\n\nCách nhớ: 「N のこと」 = \"mọi chuyện về N\" → \"N mà, ai lạ gì\".",
+      "nuance": "Vế sau thường là **suy đoán**: きっと, 〜だろう, 〜に違いない, 〜はずだ. Có thể tích cực hoặc tiêu cực (いつも遅刻する彼のことだから…).",
+      "examples": [
+        {"ja": "{几帳面|きちょうめん}な{山本|やまもと}さんのことだから、{書類|しょるい}はもう{準備|じゅんび}してあるだろう。", "vi": "Anh Yamamoto chỉn chu thế, chắc giấy tờ đã chuẩn bị sẵn rồi.", "note": "Vế sau: だろう"},
+        {"ja": "{食|く}いしん{坊|ぼう}の{弟|おとうと}のことだから、ケーキはもう{全部|ぜんぶ}{食|た}べてしまったに{違|ちが}いない。", "vi": "Thằng em tham ăn thế, chắc chắn đã chén sạch bánh rồi.", "note": "Vế sau: に違いない"},
+        {"ja": "{優|やさ}しい{彼女|かのじょ}のことだから、きっと{許|ゆる}してくれるよ。", "vi": "Cô ấy hiền thế, chắc chắn sẽ tha thứ cho cậu thôi.", "note": ""},
+        {"ja": "いつも{遅刻|ちこく}する{彼|かれ}のことだから、{今日|きょう}も{時間|じかん}どおりには{来|こ}ないだろう。", "vi": "Anh ta lúc nào cũng trễ, hôm nay chắc cũng không đến đúng giờ đâu.", "note": "Tiêu cực"}
+      ],
+      "compare": [
+        {"with": "N ＋ だから", "diff": "「彼だから」 chỉ nêu lý do; 「彼のことだから」 nhấn mạnh **hiểu biết của người nói về con người đó**, dẫn tới suy đoán."},
+        {"with": "〜ことだし (17課)", "diff": "「ことだし」 → vế sau là quyết định / rủ rê. 「のことだから」 → vế sau là suy đoán."}
+      ],
+      "mistakes": [
+        "✗ {真面目|まじめ}な{彼|かれ}ことだから → ○ 真面目な彼**の**ことだから (danh từ cần の)"
+      ],
+      "tip": "Trước chỗ trống là [tính cách] + danh từ chỉ người, vế sau có きっと／だろう／に違いない → のことだから."
+    },
+    {
+      "id": "b30-19",
+      "pattern": "〜ことだ (忠告)",
+      "reading": "〜ことだ",
+      "meaning": "(Muốn… thì) nên…, tốt nhất là… (lời khuyên cụ thể)",
+      "structure": ["V辞書形 ＋ ことだ", "Vない形 ＋ ことだ", "Khung hay gặp: 〜たければ／〜なら／〜には、〜ことだ"],
+      "explain": "Lời khuyên **dành riêng cho người nghe trong hoàn cảnh cụ thể**: \"nếu muốn X thì cách tốt nhất là làm Y\". 「{疲|つか}れが{取|と}れないなら、まずしっかり{寝|ね}ることだ」 = mệt mãi không hết thì trước hết nên ngủ cho đủ. (Đã học ở 24課.)\n\nNgười nói thường ở vị trí trên / có kinh nghiệm hơn.",
+      "nuance": "Không dùng với người trên (nghe như ra lệnh). Hay đi kèm điều kiện 〜たければ／〜なら, hoặc với 何より／まず.",
+      "examples": [
+        {"ja": "{日本語|にほんご}が{上手|じょうず}になりたければ、{日本人|にほんじん}と{話|はな}す{機会|きかい}をたくさん{作|つく}ることだ。", "vi": "Muốn giỏi tiếng Nhật thì nên tạo thật nhiều cơ hội nói chuyện với người Nhật.", "note": "〜たければ〜ことだ"},
+        {"ja": "{人|ひと}に{信頼|しんらい}されたいなら、まず{約束|やくそく}を{守|まも}ることだ。", "vi": "Muốn được người khác tin tưởng thì trước hết phải giữ lời hứa.", "note": "〜なら〜ことだ"},
+        {"ja": "{面接|めんせつ}の{前|まえ}は、あまり{考|かんが}えすぎないことだ。", "vi": "Trước buổi phỏng vấn thì đừng suy nghĩ nhiều quá.", "note": "Vない ＋ ことだ"},
+        {"ja": "{失敗|しっぱい}したくなかったら、{準備|じゅんび}にしっかり{時間|じかん}をかけることです。", "vi": "Nếu không muốn thất bại thì hãy dành đủ thời gian để chuẩn bị.", "note": "ことです: lịch sự hơn"}
+      ],
+      "compare": [
+        {"with": "〜ものだ (24課, b30-9)", "diff": "「ものだ」 = đạo lý chung của xã hội. 「ことだ」 = lời khuyên cho **chính người nghe, gắn với mục tiêu / tình huống của họ**. Thấy 〜たければ／〜なら → ことだ."},
+        {"with": "〜ことだ (26課 — cảm thán, b30-21)", "diff": "Cảm thán đi với **tính từ** (うらやましいことだ). Khuyên đi với **động từ** (V辞書形／Vない)."}
+      ],
+      "mistakes": [
+        "✗ {社長|しゃちょう}、もう{少|すこ}し{休|やす}むことです。→ không khuyên kiểu này với người trên; ○ 少しお休みになったほうがいいと思います。"
+      ],
+      "tip": "Vế trước có 〜たければ／〜なら／〜には + chỗ trống sau động từ → ことだ."
+    },
+    {
+      "id": "b30-20",
+      "pattern": "〜ことはない",
+      "reading": "〜ことはない",
+      "meaning": "Không cần phải…",
+      "structure": ["V辞書形 ＋ ことはない", "Hay đi với: わざわざ・そんなに・何も"],
+      "explain": "Trấn an hoặc khuyên người nghe: **việc đó không cần thiết** đâu. 「{心配|しんぱい}することはないよ」 = không cần lo đâu. (Đã học ở 24課.)\n\nCó hơi ấm hơn 「必要はない」 vì người nói đang quan tâm, an ủi.",
+      "nuance": "Văn nói lẫn viết. Thường là lời an ủi, hoặc nhận xét \"làm thế là thừa\". Hay đi với 「わざわざ」「何も」.",
+      "examples": [
+        {"ja": "{君|きみ}のせいじゃないんだから、そんなに{謝|あやま}ることはないよ。", "vi": "Có phải lỗi của cậu đâu, không cần xin lỗi nhiều thế.", "note": "Trấn an"},
+        {"ja": "{近|ちか}くのスーパーでも{売|う}っているから、わざわざ{遠|とお}くの{店|みせ}まで{買|か}いに{行|い}くことはない。", "vi": "Siêu thị gần nhà cũng bán mà, không cần cất công đi tận cửa hàng xa để mua.", "note": "わざわざ〜ことはない"},
+        {"ja": "まだ{一回|いっかい}{失敗|しっぱい}しただけだ。{諦|あきら}めることはない。", "vi": "Mới thất bại có một lần. Không việc gì phải bỏ cuộc.", "note": ""},
+        {"ja": "{高|たか}いお{金|かね}を{払|はら}ってまで{塾|じゅく}に{通|かよ}うことはないと{思|おも}う。", "vi": "Tôi nghĩ không cần thiết phải bỏ nhiều tiền đi học thêm.", "note": "〜てまで〜ことはない"}
+      ],
+      "compare": [
+        {"with": "〜ことがない", "diff": "「Vたことがない」 = **chưa từng**. 「V辞書形＋ことはない」 = **không cần**. Một chữ は／が và thể động từ đổi cả nghĩa."},
+        {"with": "〜ないことはない", "diff": "「行かないことはない」 = không phải là không đi (có thể đi). Đây là phủ định kép, khác hẳn 「行くことはない」."}
+      ],
+      "mistakes": [
+        "✗ {心配|しんぱい}したことはないよ。→ ○ 心配することはないよ (V辞書形)"
+      ],
+      "tip": "Vế trước nêu lý do \"không cần\" (〜から／〜だけだ), câu mang ý an ủi → ことはない."
+    },
+    {
+      "id": "b30-21",
+      "pattern": "〜ことだ (感情)",
+      "reading": "〜ことだ",
+      "meaning": "Thật là…! (cảm xúc về một sự việc cụ thể)",
+      "structure": ["い形 ＋ ことだ", "な形 ＋ な ＋ ことだ", "Vた形 (困った・驚いた) ＋ ことだ", "Hay đi với: 本当に・まったく・なんと"],
+      "explain": "Người nói bày tỏ cảm xúc (vui, tiếc, ngưỡng mộ, ngạc nhiên, hoặc mỉa mai) về **một sự việc cụ thể vừa nghe / vừa thấy**: 「お{子|こ}さんが{合格|ごうかく}されたとは、おめでたいことです」. (Đã học ở 26課.)\n\nĐiểm nhận diện: phía trước là **tính từ cảm xúc / đánh giá** (うらやましい, ありがたい, 残念な, 結構な…).",
+      "nuance": "Có thể mang **mỉa mai**: 「まったく{結構|けっこう}なことだ」 = sướng nhỉ (giọng châm chọc). Văn hơi trang trọng, người lớn tuổi hay dùng.",
+      "examples": [
+        {"ja": "{家族|かぞく}みんなが{健康|けんこう}で{暮|く}らせるのは、{本当|ほんとう}にありがたいことだ。", "vi": "Cả nhà được sống khoẻ mạnh, thật là điều đáng biết ơn.", "note": "い形 ＋ ことだ"},
+        {"ja": "{十年|じゅうねん}も{同|おな}じ{店|みせ}を{続|つづ}けているなんて、すごいことですね。", "vi": "Giữ được một cửa hàng suốt mười năm, thật là đáng nể.", "note": ""},
+        {"ja": "{若|わか}い{人|ひと}が{本|ほん}を{読|よ}まなくなったのは、{残念|ざんねん}なことだ。", "vi": "Người trẻ không còn đọc sách nữa, thật đáng tiếc.", "note": "な形 ＋ な ＋ ことだ"},
+        {"ja": "{部長|ぶちょう}はまた{一か月|いっかげつ}の{休暇|きゅうか}だそうだ。まったく{結構|けっこう}なことだ。", "vi": "Nghe nói trưởng phòng lại nghỉ phép một tháng. Sướng thật đấy.", "note": "Mỉa mai"}
+      ],
+      "compare": [
+        {"with": "〜ものだ (26課 — cảm thán, b30-12)", "diff": "「ものだ」: cảm thán về **lẽ đời chung**. 「ことだ」: cảm thán về **một việc cụ thể**."},
+        {"with": "〜ことに (b30-25)", "diff": "Cùng là cảm xúc với một sự việc; 「ことに」 đặt cảm xúc **ở đầu câu** rồi kể sự việc, 「ことだ」 kể sự việc rồi **chốt cảm xúc ở cuối**."}
+      ],
+      "mistakes": [
+        "✗ {残念|ざんねん}ことだ → ○ 残念**な**ことだ"
+      ],
+      "tip": "Cuối câu, trước chỗ trống là tính từ cảm xúc (ありがたい・うらやましい・残念な) → ことだ. Nếu trước chỗ trống là động từ + có 〜たければ → ことだ khuyên."
+    },
+    {
+      "id": "b30-22",
+      "pattern": "〜ことだろう・〜ことか",
+      "reading": "〜ことだろう・〜ことか",
+      "meaning": "… biết bao! / … biết bao nhiêu lần! (cảm thán mức độ)",
+      "structure": ["どんなに／どれほど／何度／なんと ＋ 普通形 ＋ ことか／ことだろう", "な形 ＋ な／である ＋ ことか", "(ことだろう còn dùng: さぞ〜ことだろう = chắc hẳn… lắm)"],
+      "explain": "Nhấn mạnh **mức độ rất lớn** của cảm xúc hoặc số lần: 「{何度|なんど}{諦|あきら}めかけたことか」 = không biết bao nhiêu lần tôi suýt bỏ cuộc. (Đã học ở 26課.)\n\n- Gần như luôn có **từ để hỏi chỉ mức độ** đi trước: どんなに, どれほど, 何度, 何回, なんと.\n- 「さぞ〜ことだろう」: tưởng tượng cảm xúc của **người khác**: ご{両親|りょうしん}もさぞお{喜|よろこ}びのことでしょう.",
+      "nuance": "Văn viết, giàu cảm xúc. Câu dù có từ để hỏi nhưng không phải câu hỏi thật.",
+      "examples": [
+        {"ja": "この{日|ひ}をどんなに{待|ま}っていたことか。", "vi": "Tôi đã chờ ngày này biết bao lâu!", "note": "どんなに〜ことか"},
+        {"ja": "{遠|とお}くに{住|す}む{両親|りょうしん}は、{孫|まご}の{誕生|たんじょう}をさぞ{喜|よろこ}んでいることだろう。", "vi": "Bố mẹ ở xa chắc hẳn vui mừng lắm khi có cháu.", "note": "さぞ〜ことだろう: đoán cảm xúc người khác"},
+        {"ja": "この{資格|しかく}を{取|と}るまでに、{何度|なんど}{諦|あきら}めようと{思|おも}ったことか。", "vi": "Để lấy được chứng chỉ này, không biết bao nhiêu lần tôi đã định bỏ cuộc.", "note": "何度〜ことか"},
+        {"ja": "{留学中|りゅうがくちゅう}、{友達|ともだち}の{励|はげ}ましにどれほど{助|たす}けられたことだろう。", "vi": "Thời du học, tôi đã được những lời động viên của bạn bè giúp đỡ biết chừng nào.", "note": "どれほど〜ことだろう"}
+      ],
+      "compare": [
+        {"with": "〜ものか (b30-1)", "diff": "「ものか」 = phủ định (đời nào). 「ことか」 = cảm thán mức độ, có 何度／どんなに. ✗ 何度言ったものか."},
+        {"with": "〜ことだ (26課 — cảm thán)", "diff": "「ことだ」 không cần từ chỉ mức độ; 「ことか」 thì gần như bắt buộc có."}
+      ],
+      "mistakes": [
+        "✗ {何度|なんど}{諦|あきら}めかけたものか。→ ○ 何度諦めかけたことか。"
+      ],
+      "tip": "Thấy どんなに／どれほど／何度／なんと trong câu và chỗ trống ở cuối → ことか／ことだろう."
+    },
+    {
+      "id": "b30-23",
+      "pattern": "〜こと (指示) ＊",
+      "reading": "〜こと",
+      "meaning": "Phải… / Không được… (quy định, chỉ thị viết)",
+      "structure": ["V辞書形 ＋ こと", "Vない形 ＋ こと"],
+      "explain": "**Mẫu mới.** Kết thúc câu bằng 「こと」 để đưa ra **chỉ thị, quy định**: \"phải làm…\", \"không được làm…\". Gặp trong nội quy, biển báo, đề thi, lời giáo viên viết lên bảng, hướng dẫn công việc.\n\n- 「{答|こた}えは{鉛筆|えんぴつ}で{書|か}くこと」 = câu trả lời phải viết bằng bút chì.\n- 「{廊下|ろうか}を{走|はし}らないこと」 = không được chạy ngoài hành lang.\n\nHình ảnh: tờ giấy dán trên tường với các gạch đầu dòng — mỗi dòng kết thúc bằng こと.",
+      "nuance": "**Văn viết**, giọng ra lệnh khô, ngắn gọn. Không dùng với người trên, không dùng trong hội thoại lịch sự. Không thêm です／ます.",
+      "examples": [
+        {"ja": "【{注意|ちゅうい}】{館内|かんない}では{携帯電話|けいたいでんわ}の{電源|でんげん}を{切|き}ること。", "vi": "[Lưu ý] Trong toà nhà phải tắt nguồn điện thoại.", "note": "Biển thông báo"},
+        {"ja": "{解答|かいとう}は{必|かなら}ず{黒|くろ}のボールペンで{記入|きにゅう}すること。", "vi": "Câu trả lời bắt buộc phải điền bằng bút bi đen.", "note": "Đề thi, mẫu đơn"},
+        {"ja": "{実験室|じっけんしつ}では{飲食|いんしょく}をしないこと。", "vi": "Không được ăn uống trong phòng thí nghiệm.", "note": "Vない ＋ こと"},
+        {"ja": "{明日|あした}の{遠足|えんそく}は{八時半|はちじはん}までに{校門|こうもん}に{集合|しゅうごう}すること。{遅|おく}れないこと。", "vi": "Buổi dã ngoại ngày mai, phải tập trung ở cổng trường trước 8 giờ rưỡi. Không được đến muộn.", "note": "Lời dặn của giáo viên"}
+      ],
+      "compare": [
+        {"with": "〜なさい", "diff": "「なさい」 là mệnh lệnh **nói** của người trên (bố mẹ, thầy). 「こと」 là chỉ thị **viết**, mang tính quy định chung."},
+        {"with": "〜ことだ (24課)", "diff": "「ことだ」 = lời khuyên (nên…), mềm hơn, nói với một người cụ thể. 「こと」 = quy định, bắt buộc."}
+      ],
+      "mistakes": [
+        "✗ {先生|せんせい}、{明日|あした}は{九時|くじ}に{来|く}ること。→ không dùng với người trên",
+        "✗ {提出|ていしゅつ}したこと。→ ○ 提出すること (không dùng thể た)"
+      ],
+      "tip": "Câu có 【注意】【規則】, nội quy, đề bài, và chỗ trống ở cuối câu sau V辞書形／Vない → こと."
+    },
+    {
+      "id": "b30-24",
+      "pattern": "〜ことなく ＊",
+      "reading": "〜ことなく",
+      "meaning": "Mà không…, không hề… (vẫn tiếp tục / vẫn làm)",
+      "structure": ["V辞書形 ＋ ことなく"],
+      "explain": "**Mẫu mới.** \"Làm B **mà không** làm A\" — A thường là điều **bình thường lẽ ra phải xảy ra** (nghỉ, nản, thay đổi, hỏi ai…), nên câu mang ý nhấn mạnh sự bền bỉ, kiên định hoặc bất thường.\n\n- 「{一度|いちど}も{振|ふ}り{返|かえ}ることなく{去|さ}っていった」 = bỏ đi mà không hề ngoảnh lại lần nào.\n- 「{誰|だれ}にも{相談|そうだん}することなく{決|き}めた」 = quyết định mà không bàn với ai.\n\nNghĩa giống 「〜ないで／〜ずに」, nhưng **trang trọng, văn viết** và nhấn mạnh hơn.",
+      "nuance": "Văn viết, tin tức, tiểu sử, diễn văn. Hay đi với 一度も／少しも／誰にも／最後まで. Không dùng cho hành động vặt hằng ngày (✗ 歯を磨くことなく寝た nghe rất cứng).",
+      "examples": [
+        {"ja": "{彼女|かのじょ}は{誰|だれ}にも{相談|そうだん}することなく、{一人|ひとり}で{会社|かいしゃ}を{辞|や}めてしまった。", "vi": "Cô ấy không hề bàn với ai, tự mình nghỉ việc.", "note": "誰にも〜ことなく"},
+        {"ja": "{選手|せんしゅ}たちは{最後|さいご}まで{諦|あきら}めることなく{戦|たたか}い{続|つづ}けた。", "vi": "Các tuyển thủ đã chiến đấu đến cùng mà không hề bỏ cuộc.", "note": ""},
+        {"ja": "この{寺|てら}は{何百年|なんびゃくねん}もの{間|あいだ}、{一度|いちど}も{火事|かじ}に{遭|あ}うことなく{残|のこ}ってきた。", "vi": "Ngôi chùa này suốt mấy trăm năm chưa một lần gặp hoả hoạn, vẫn còn tồn tại.", "note": "一度も〜ことなく"},
+        {"ja": "{地図|ちず}アプリのおかげで、{迷|まよ}うことなく{目的地|もくてきち}に{着|つ}けた。", "vi": "Nhờ ứng dụng bản đồ mà tôi đến nơi không bị lạc chút nào.", "note": ""}
+      ],
+      "compare": [
+        {"with": "〜ないで／〜ずに", "diff": "Nghĩa như nhau. 「ないで」 văn nói; 「ずに」 hơi viết; 「ことなく」 trang trọng nhất, nhấn mạnh \"không một lần nào\"."},
+        {"with": "〜ことはない (24課)", "diff": "「ことはない」 = không cần (cuối câu). 「ことなく」 = mà không (giữa câu, nối tiếp hành động)."}
+      ],
+      "mistakes": [
+        "✗ {休|やす}まないことなく → ○ 休むことなく (đã có なく = phủ định)",
+        "✗ {休|やす}んだことなく → ○ 休むことなく (luôn V辞書形)"
+      ],
+      "tip": "Câu có 一度も／少しも／誰にも／最後まで và chỗ trống ở giữa câu sau V辞書形, vế sau là hành động tiếp tục → ことなく."
+    },
+    {
+      "id": "b30-25",
+      "pattern": "〜ことに ＊",
+      "reading": "〜ことに",
+      "meaning": "Thật là… là / Điều… là (đặt cảm xúc lên trước rồi kể sự việc)",
+      "structure": ["Vた形 ＋ ことに (驚いた・困った・あきれた)", "い形 ＋ ことに (うれしい・ありがたい)", "な形 ＋ な ＋ ことに (残念な・不思議な・幸いな)"],
+      "explain": "**Mẫu mới.** Người nói **nói cảm xúc của mình trước**, rồi mới kể sự việc gây ra cảm xúc ấy. Giống tiếng Việt: \"Đáng ngạc nhiên là…\", \"May mắn thay…\", \"Tiếc là…\".\n\n- 「{驚|おどろ}いたことに、{彼|かれ}は{一人|ひとり}で{全部|ぜんぶ}{作|つく}ったそうだ」 = điều đáng ngạc nhiên là anh ấy tự làm hết một mình.\n- 「{残念|ざんねん}なことに、{雨|あめ}で{試合|しあい}は{中止|ちゅうし}になった」.\n\nCác cụm hay gặp nhất: 驚いたことに・うれしいことに・残念なことに・不思議なことに・幸いなことに・ありがたいことに・困ったことに.",
+      "nuance": "Chỉ đi với từ chỉ **cảm xúc / đánh giá**. Vế sau là **sự việc thực tế** (đã / đang xảy ra), không phải ý chí, mệnh lệnh, mong muốn. Văn viết hơi trang trọng.",
+      "examples": [
+        {"ja": "{驚|おどろ}いたことに、{八十歳|はちじゅっさい}の{祖母|そぼ}がフルマラソンを{完走|かんそう}した。", "vi": "Đáng kinh ngạc là bà tôi 80 tuổi đã chạy hết cự ly marathon.", "note": "Vた ＋ ことに"},
+        {"ja": "{残念|ざんねん}なことに、{楽|たの}しみにしていたコンサートが{中止|ちゅうし}になった。", "vi": "Tiếc là buổi hoà nhạc tôi mong chờ đã bị huỷ.", "note": "な形 ＋ な ＋ ことに"},
+        {"ja": "うれしいことに、{留学時代|りゅうがくじだい}の{友人|ゆうじん}が{結婚式|けっこんしき}に{来|き}てくれた。", "vi": "Vui thay, bạn bè thời du học đã đến dự đám cưới của tôi.", "note": "い形 ＋ ことに"},
+        {"ja": "{幸|さいわ}いなことに、その{事故|じこ}でけが{人|にん}は{一人|ひとり}も{出|で}なかった。", "vi": "May mắn là vụ tai nạn đó không có ai bị thương.", "note": ""}
+      ],
+      "compare": [
+        {"with": "〜ことだ (26課, b30-21)", "diff": "「ことだ」 chốt cảm xúc **cuối câu**; 「ことに」 đặt cảm xúc **đầu câu**. Nội dung cảm xúc giống nhau."},
+        {"with": "〜ことから (b31-10)", "diff": "「ことから」 nêu **căn cứ / nguyên nhân** khách quan; 「ことに」 nêu **cảm xúc** người nói."}
+      ],
+      "mistakes": [
+        "✗ うれしくないことに → ○ 残念なことに (không dùng thể phủ định)",
+        "✗ うれしいことに、{来週|らいしゅう}{旅行|りょこう}に{行|い}こう。→ vế sau là rủ rê; ○ うれしいことに、来週旅行に行けることになった。"
+      ],
+      "tip": "Chỗ trống ngay sau một từ cảm xúc **ở đầu câu**, phía sau còn cả một mệnh đề sự việc → ことに."
+    },
+    {
+      "id": "b30-26",
+      "pattern": "〜ことは〜が ＊",
+      "reading": "〜ことは〜が",
+      "meaning": "… thì có… thật đấy, nhưng… (thừa nhận ở mức tối thiểu rồi hạ xuống)",
+      "structure": ["V・い形 普通形 ＋ ことは ＋ (lặp lại cùng từ) ＋ が／けど", "な形 ＋ な ＋ ことは ＋ な形 ＋ だ ＋ が", "N ＋ な ＋ ことは ＋ N ＋ だ ＋ が (ít gặp hơn)", "Ví dụ khung: 読んだことは読んだが／高いことは高いが／便利なことは便利だが"],
+      "explain": "**Mẫu mới.** Lặp lại **cùng một từ** hai lần: \"A thì đúng là A (tôi thừa nhận)… **nhưng** (thực ra không được như mong đợi)\". Người nói xác nhận sự thật ở mức thấp nhất, rồi đưa ra điểm quan trọng hơn ở vế sau.\n\n- 「{行|い}ったことは{行|い}ったが、すぐ{帰|かえ}ってきた」 = đi thì có đi, nhưng về ngay.\n- 「この{部屋|へや}は{狭|せま}いことは{狭|せま}いが、{日当|ひあ}たりがとてもいい」 = phòng này chật thì có chật thật, nhưng rất nhiều nắng.\n\nVế sau có thể tiêu cực (chưa đạt) hoặc tích cực (bù lại).",
+      "nuance": "Văn nói lẫn viết. Giọng hơi miễn cưỡng, dè dặt. Bắt buộc **cùng một từ** ở hai vị trí và cùng thì (quá khứ ↔ quá khứ).",
+      "examples": [
+        {"ja": "{招待状|しょうたいじょう}は{受|う}け{取|と}ったことは{受|う}け{取|と}ったが、まだ{返事|へんじ}をしていない。", "vi": "Thiệp mời thì nhận được rồi đấy, nhưng tôi vẫn chưa trả lời.", "note": "Vた ことは Vた が"},
+        {"ja": "このアパートは{駅|えき}から{近|ちか}いことは{近|ちか}いが、{家賃|やちん}がかなり{高|たか}い。", "vi": "Căn hộ này gần ga thì gần thật, nhưng tiền thuê khá đắt.", "note": "い形"},
+        {"ja": "{彼|かれ}の{説明|せつめい}は{丁寧|ていねい}なことは{丁寧|ていねい}だが、{長|なが}すぎて{要点|ようてん}がわからない。", "vi": "Lời giải thích của anh ấy kỹ thì kỹ thật, nhưng dài quá nên không nắm được ý chính.", "note": "な形: 丁寧なことは丁寧だが"},
+        {"ja": "{試験|しけん}の{問題|もんだい}は{全部|ぜんぶ}{解|と}いたことは{解|と}いたけど、{自信|じしん}はあまりない。", "vi": "Đề thi thì làm hết rồi, nhưng không tự tin lắm.", "note": "Văn nói: けど"}
+      ],
+      "compare": [
+        {"with": "〜ものの (14課)", "diff": "Cả hai đều \"tuy… nhưng\". 「ことは〜が」 có cấu trúc **lặp từ**, nhấn mạnh việc chỉ thừa nhận ở mức tối thiểu. 「ものの」 không lặp từ."},
+        {"with": "〜には〜が", "diff": "「行くには行くが」 cũng có nghĩa tương tự (đi thì đi đấy, nhưng…), thường với V辞書形."}
+      ],
+      "mistakes": [
+        "✗ {高|たか}いことは{安|やす}いが → phải lặp **cùng** một từ: 高いことは高いが",
+        "✗ {便利|べんり}ことは{便利|べんり}だが → ○ 便利**な**ことは便利だが"
+      ],
+      "tip": "Dạng 並べ替え: ghép trước khối 「X ことは X が」 (X giống hệt nhau), rồi mới đặt vế sau."
+    },
+    {
+      "id": "b30-27",
+      "pattern": "〜ということだ・〜とのことだ ＊",
+      "reading": "〜ということだ・〜とのことだ",
+      "meaning": "Nghe nói… / (Có lời nhắn) rằng… — truyền đạt lại",
+      "structure": ["普通形 ＋ ということだ", "普通形 ＋ とのことだ (trang trọng hơn)", "Hay đi với: 〜によると・〜の話では／〜から連絡があり"],
+      "explain": "**Mẫu mới.** Cách nói **truyền đạt** thông tin nghe từ người khác hoặc từ báo, thông báo — giống 「〜そうだ」 (伝聞).\n\n- 「ということだ」: \"nghe nói / người ta bảo là…\". Còn một nghĩa nữa: **\"tức là, có nghĩa là\"** (kết luận) — 「{締|し}め{切|き}りが{延|の}びたということは、まだ{直|なお}せるということだ」.\n- 「とのことだ」: trang trọng hơn, đặc biệt hay dùng để **chuyển lời nhắn** trong công việc: 「{部長|ぶちょう}は{少|すこ}し{遅|おく}れるとのことです」. Cụm cố định: 「よろしくとのことでした」 = (anh ấy) gửi lời hỏi thăm.",
+      "nuance": "「とのことだ」 thuộc văn viết, email, báo cáo với cấp trên; 「ということだ」 dùng cả nói và viết. Cả hai đều cần có **nguồn thông tin** (ai nói, đọc ở đâu) trong ngữ cảnh.",
+      "examples": [
+        {"ja": "{新聞|しんぶん}によると、{来年|らいねん}この{駅|えき}の{近|ちか}くに{大|おお}きな{病院|びょういん}が{建|た}つということだ。", "vi": "Theo báo, sang năm sẽ có một bệnh viện lớn được xây gần ga này.", "note": "〜によると〜ということだ"},
+        {"ja": "{山田様|やまださま}より、{明日|あした}の{打|う}ち{合|あ}わせは{予定|よてい}どおり{行|おこな}うとのことです。", "vi": "Ông Yamada báo rằng buổi họp ngày mai vẫn diễn ra theo đúng kế hoạch.", "note": "とのことです: chuyển lời trong công việc"},
+        {"ja": "{友達|ともだち}の{話|はなし}では、あの{店|みせ}は{来月|らいげつ}で{閉店|へいてん}するということだ。", "vi": "Theo lời bạn tôi, cửa hàng đó sẽ đóng cửa vào tháng sau.", "note": ""},
+        {"ja": "{田中|たなか}さんが、{先生|せんせい}によろしくとのことでした。", "vi": "Anh Tanaka nhờ tôi gửi lời hỏi thăm thầy.", "note": "Cụm cố định よろしくとのことだ"},
+        {"ja": "{締|し}め{切|き}りが{一週間|いっしゅうかん}{延|の}びたということは、まだ{修正|しゅうせい}できるということだ。", "vi": "Hạn chót được lùi một tuần, tức là vẫn còn sửa được.", "note": "Nghĩa 2: tức là (kết luận)"}
+      ],
+      "compare": [
+        {"with": "〜そうだ (伝聞)", "diff": "Nghĩa như nhau. 「そうだ」 phổ biến trong văn nói; 「とのことだ」 trang trọng hơn, hợp email / báo cáo."},
+        {"with": "〜というものだ (23課, b30-8)", "diff": "「というものだ」 = **đánh giá** (đó đúng là vô trách nhiệm). 「ということだ」 = **truyền đạt / suy ra**."},
+        {"with": "〜わけだ (b31-5)", "diff": "Nghĩa \"tức là\" của 「ということだ」 gần với 「というわけだ」 (b31): cả hai đều diễn đạt lại / rút ra kết luận."}
+      ],
+      "mistakes": [
+        "✗ {部長|ぶちょう}は{遅|おく}れるというものです。→ ○ 部長は遅れるとのことです。",
+        "✗ {明日|あした}は{休|やす}みだとのことです (nói về quyết định của chính mình) → truyền đạt phải là thông tin **từ người khác**."
+      ],
+      "tip": "Có nguồn tin (〜によると／〜から連絡があり／〜の話では) và câu chỉ chuyển lại nội dung → ということだ／とのことだ; bối cảnh công việc, lời nhắn → とのことだ."
+    }
+  ],
+  "summary": [
+    {"pattern": "〜ものか", "meaning": "đời nào…! / nhất định không…", "key": "V khẳng định + ものか; cảm xúc mạnh; 12・24課"},
+    {"pattern": "〜というものではない", "meaning": "không phải cứ… là được", "key": "〜ば／〜たら／〜さえ…; bác bỏ quan niệm chung"},
+    {"pattern": "〜ものの・〜とはいうものの", "meaning": "tuy… nhưng", "key": "vế sau: chưa đạt kỳ vọng; không ý chí"},
+    {"pattern": "〜ものなら", "meaning": "nếu có thể… (thì muốn)", "key": "thể khả năng + たい／てみろ"},
+    {"pattern": "〜(よ)うものなら", "meaning": "nếu lỡ… thì toi", "key": "thể ý chí + hậu quả xấu"},
+    {"pattern": "〜ものだから・〜もので・〜もの", "meaning": "tại vì… (thanh minh)", "key": "xin lỗi, phân trần; 〜もん cuối câu"},
+    {"pattern": "〜ものだ (23課)", "meaning": "vốn dĩ là…", "key": "chân lý chung; chủ ngữ 人は／誰でも"},
+    {"pattern": "〜というものだ", "meaning": "đó đúng là…", "key": "〜のは + 無理／無責任 + というものだ"},
+    {"pattern": "〜ものだ・〜ものではない (24課)", "meaning": "người ta nên / không nên…", "key": "đạo lý chung, dạy dỗ"},
+    {"pattern": "〜たいものだ・〜てほしいものだ", "meaning": "thật mong…", "key": "ước mơ lớn, lâu dài"},
+    {"pattern": "〜たものだ (26課)", "meaning": "hồi đó hay…", "key": "Vた + よく／昔; thói quen xưa, hoài niệm"},
+    {"pattern": "〜ものだ (26課)", "meaning": "thật là…! (lẽ đời)", "key": "早いものだ; よく〜ものだ"},
+    {"pattern": "〜ないもの(だろう)か", "meaning": "mong sao…, có cách nào…", "key": "何とか + Vない + ものか"},
+    {"pattern": "〜ものがある", "meaning": "có cái gì đó thật…", "key": "Nには〜ものがある; cảm nhận"},
+    {"pattern": "〜(のこと)となると", "meaning": "hễ nói tới… là", "key": "sở thích / điểm yếu; thái độ đổi hẳn"},
+    {"pattern": "〜ないことには", "meaning": "nếu không… thì không…", "key": "vế sau bắt buộc phủ định"},
+    {"pattern": "〜ことだし", "meaning": "vì cũng… nên", "key": "vế sau: quyết định / rủ rê"},
+    {"pattern": "〜のことだから", "meaning": "N mà, chắc là…", "key": "người + tính cách; vế sau suy đoán"},
+    {"pattern": "〜ことだ (24課)", "meaning": "nên…", "key": "〜たければ／〜なら + V + ことだ"},
+    {"pattern": "〜ことはない", "meaning": "không cần…", "key": "V辞書形; an ủi; ≠ ことがない (chưa từng)"},
+    {"pattern": "〜ことだ (26課)", "meaning": "thật là…! (việc cụ thể)", "key": "tính từ cảm xúc + ことだ; có thể mỉa mai"},
+    {"pattern": "〜ことだろう・〜ことか", "meaning": "biết bao!", "key": "どんなに／何度 + ことか"},
+    {"pattern": "〜こと ＊", "meaning": "phải… / không được…", "key": "nội quy, đề bài; văn viết"},
+    {"pattern": "〜ことなく ＊", "meaning": "mà không…", "key": "V辞書形; 一度も／最後まで; = ずに (trang trọng)"},
+    {"pattern": "〜ことに ＊", "meaning": "điều… là", "key": "cảm xúc đầu câu: 驚いたことに・残念なことに"},
+    {"pattern": "〜ことは〜が ＊", "meaning": "… thì có… nhưng", "key": "lặp cùng một từ"},
+    {"pattern": "〜ということだ・〜とのことだ ＊", "meaning": "nghe nói / lời nhắn", "key": "có nguồn tin; とのことだ trang trọng"},
+    {"pattern": "So sánh: ものだ ↔ ことだ (khuyên)", "meaning": "đạo lý chung ↔ lời khuyên riêng", "key": "có 〜たければ／〜なら → ことだ"},
+    {"pattern": "So sánh: ものだ ↔ ことだ・ことに (cảm thán)", "meaning": "lẽ đời ↔ một sự việc cụ thể", "key": "早いものだ ↔ うらやましいことだ／残念なことに"},
+    {"pattern": "So sánh: ものか ↔ ないものか ↔ ことか", "meaning": "đời nào ↔ mong sao ↔ biết bao", "key": "V khẳng định／Vない＋何とか／どんなに・何度"}
+  ],
+  "quiz": [
+    {"id": "b30-q1", "kind": "form", "ref": "b30-1", "q": "「あの{人|ひと}にまた{会|あ}いたい？」「あんな{嘘|うそ}つきに、{二度|にど}と{会|あ}う（　　）。」", "options": ["ものか", "ことか", "ものだ", "ことだ"], "answer": 0, "vi": "\"Có muốn gặp lại người đó không?\" — \"Kẻ nói dối như thế, đời nào tôi gặp lại lần nữa.\"", "why": "「二度と」 + cảm xúc bực bội → phủ định ý chí mạnh **ものか**. 「ことか」 là cảm thán mức độ, cần どんなに／何度 và không mang nghĩa phủ định; 「ものだ」 (lẽ thường) và 「ことだ」 (lời khuyên) đều thành \"nên gặp lại\" — trái ngược hoàn toàn với 二度と và với người nói đang giận."},
+    {"id": "b30-q2", "kind": "form", "ref": "b30-3", "q": "{運転免許|うんてんめんきょ}は{取|と}った（　　）、{怖|こわ}くてまだ{一度|いちど}も{一人|ひとり}で{運転|うんてん}していない。", "options": ["ことに", "ものの", "ことだし", "ものなら"], "answer": 1, "vi": "Bằng lái thì đã lấy rồi, nhưng vì sợ nên tôi vẫn chưa lái một mình lần nào.", "why": "Thừa nhận A (đã có bằng) nhưng B không như kỳ vọng (chưa lái) → **ものの**. 「ことに」 chỉ đi sau từ cảm xúc (驚いたことに…); 「ことだし」 là lý do dẫn tới quyết định, rủ rê — ở đây vế sau lại là \"chưa lái\", không khớp; 「ものなら」 là giả định, không nối với sự thật đã xảy ra (取った)."},
+    {"id": "b30-q3", "kind": "form", "ref": "b30-5", "q": "うちの{父|ちち}は{厳|きび}しくて、{門限|もんげん}を{一分|いっぷん}でも{過|す}ぎ（　　）、{家|いえ}に{入|い}れてもらえない。", "options": ["たものの", "ることなく", "ようものなら", "るものなら"], "answer": 2, "vi": "Bố tôi nghiêm lắm, chỉ cần lỡ về quá giờ giới nghiêm một phút thôi là không được vào nhà.", "why": "「一分でも」 + hậu quả xấu (không được vào nhà) → **過ぎようものなら** (thể ý chí + ものなら). 「過ぎるものなら」 = nếu có thể thì… (cần thể khả năng + mong muốn); 「過ぎることなく」 = mà không quá giờ, mâu thuẫn với vế sau; 「過ぎたものの」 nói về một sự thật đã xảy ra, không hợp với câu mô tả quy luật \"cứ lỡ… là…\"."},
+    {"id": "b30-q4", "kind": "form", "ref": "b30-6", "q": "すみません、{目覚|めざ}まし{時計|どけい}が{鳴|な}らなかった（　　）、{遅刻|ちこく}してしまいました。", "options": ["ことだし", "ことなく", "ことには", "ものですから"], "answer": 3, "vi": "Xin lỗi, tại đồng hồ báo thức không reo nên tôi bị muộn.", "why": "Xin lỗi + thanh minh lý do cho kết quả xấu → **ものですから**. 「ことだし」 nêu lý do để quyết định / rủ rê, không dùng để thanh minh; 「ことなく」 cần V辞書形 (鳴ることなく) và nghĩa \"mà không\"; 「ないことには」 phải đi với Vない (không phải Vなかった) và vế sau phải là \"không thể\"."},
+    {"id": "b30-q5", "kind": "form", "ref": "b30-7", "q": "{人|ひと}は{誰|だれ}でも、{褒|ほ}められればうれしい（　　）。", "options": ["ことだ", "ものだ", "ことに", "ことか"], "answer": 1, "vi": "Con người ai cũng vậy, được khen là vui.", "why": "Chủ ngữ chung chung 「人は誰でも」, nói bản chất con người → **ものだ** (23課). 「ことだ」 cảm thán về một sự việc cụ thể, không dùng cho chân lý chung; 「ことに」 phải đứng đầu câu và có mệnh đề theo sau; 「ことか」 cần từ chỉ mức độ (どんなに…)."},
+    {"id": "b30-q6", "kind": "form", "ref": "b30-11", "q": "{学生|がくせい}のころは、{試験|しけん}の{前|まえ}になるとよく{友達|ともだち}と{徹夜|てつや}で{勉強|べんきょう}した（　　）。", "options": ["ものだ", "ことだ", "ものがある", "ことか"], "answer": 0, "vi": "Hồi sinh viên, cứ trước kỳ thi là tôi hay thức trắng đêm học cùng bạn bè.", "why": "「学生のころ」 + 「よく」 + Vた → hồi tưởng thói quen xưa **ものだ**. 「Vたことだ」 không có nghĩa này (ことだ khuyên cần V辞書形, ことだ cảm thán cần tính từ); 「ものがある」 nói phẩm chất / cảm nhận, không đi với Vた kể chuyện; 「ことか」 thiếu từ chỉ mức độ どんなに／何度."},
+    {"id": "b30-q7", "kind": "form", "ref": "b30-13", "q": "この{渋滞|じゅうたい}、{何|なん}とかもう{少|すこ}し{早|はや}く{抜|ぬ}けられない（　　）。", "options": ["ことだ", "わけだ", "ことか", "ものだろうか"], "answer": 3, "vi": "Cái kẹt xe này, có cách nào thoát ra nhanh hơn chút không nhỉ.", "why": "「何とか」 + Vない (khả năng) → mong muốn tha thiết **ないものだろうか**. 「ないことだ」 = khuyên \"đừng…\", trái nghĩa với 何とか; 「ないわけだ」 = thảo nào không…, mâu thuẫn với 何とか (đang mong); 「ないことか」 không phải mẫu đúng — ことか cần どんなに／何度."},
+    {"id": "b30-q8", "kind": "form", "ref": "b30-14", "q": "{一人|ひとり}で{三人|さんにん}の{子|こ}どもを{育|そだ}てた{母|はは}の{苦労|くろう}には、{想像|そうぞう}を{超|こ}える（　　）。", "options": ["ことがある", "ことだ", "ものがある", "ものだ"], "answer": 2, "vi": "Nỗi vất vả của mẹ, người một mình nuôi ba đứa con, có những điều vượt quá sức tưởng tượng.", "why": "Khung 「Nには〜ものがある」: cảm nhận một đặc điểm mạnh mẽ → **ものがある**. 「ことがある」 = thỉnh thoảng / đã từng, không hợp với khung 「Nには」 nói về phẩm chất; 「ことだ」「ものだ」 kết thúc câu không khớp với trợ từ 「には」 ở đầu."},
+    {"id": "b30-q9", "kind": "form", "ref": "b30-15", "q": "{兄|あに}は{普段|ふだん}は{無口|むくち}だが、サッカーの（　　）、{何時間|なんじかん}でも{話|はな}し{続|つづ}ける。", "options": ["ことだから", "ことなく", "こととなると", "ことには"], "answer": 2, "vi": "Anh tôi bình thường ít nói, nhưng hễ nói đến bóng đá là nói mấy tiếng liền không dứt.", "why": "Tương phản 「普段は〜が」 + sở thích (サッカー) làm thái độ đổi hẳn → **のこととなると**. 「のことだから」 đi với danh từ chỉ **người** để suy đoán; 「ことなく」 cần V辞書形; 「ことには」 chỉ dùng trong khung 「Vないことには」."},
+    {"id": "b30-q10", "kind": "form", "ref": "b30-16", "q": "{実際|じっさい}に{使|つか}ってみない（　　）、この{機械|きかい}の{良|よ}さはわからない。", "options": ["ことには", "ものの", "ことなく", "ものなら"], "answer": 0, "vi": "Chưa dùng thử thực tế thì không thể hiểu được cái hay của chiếc máy này.", "why": "Vない + chỗ trống + vế sau phủ định (わからない) → **ないことには**. 「みないものの」 = tuy không thử nhưng… — không logic với vế sau; 「ことなく」 phải đi với V辞書形 (みることなく); 「ものなら」 cần thể khả năng + mong muốn."},
+    {"id": "b30-q11", "kind": "form", "ref": "b30-17", "q": "{仕事|しごと}も{一段落|いちだんらく}した（　　）、{今日|きょう}は{早|はや}めに{帰|かえ}ろう。", "options": ["ものだから", "ことだし", "ものの", "ことに"], "answer": 1, "vi": "Công việc cũng xong một phần rồi, hôm nay về sớm thôi.", "why": "Lý do nhẹ (có 「も」) dẫn tới quyết định 〜よう → **ことだし**. 「ものだから」 dùng để thanh minh, vế sau không được là ý chí 〜よう; 「ものの」 = tuy… nhưng, ngược nghĩa; 「ことに」 chỉ đi sau từ cảm xúc."},
+    {"id": "b30-q12", "kind": "form", "ref": "b30-18", "q": "{時間|じかん}に{厳|きび}しい{山田|やまだ}さん（　　）、もう{会場|かいじょう}に{着|つ}いているに{違|ちが}いない。", "options": ["のものだから", "のこととなると", "ことだし", "のことだから"], "answer": 3, "vi": "Anh Yamada khắt khe về giờ giấc thế, chắc chắn đã đến hội trường rồi.", "why": "[tính cách] + người + suy đoán (に違いない) → **のことだから**. 「のものだから」 không phải mẫu đúng; 「のこととなると」 = hễ nói tới chủ đề…, vế sau phải là sự thay đổi thái độ, không phải suy đoán; 「ことだし」 không nối trực tiếp với danh từ chỉ người và vế sau thường là ý chí / rủ rê."},
+    {"id": "b30-q13", "kind": "order", "ref": "b30-22", "q": "{合格|ごうかく}の{知|し}らせを{聞|き}いて、{母|はは}が ＿＿＿ ＿＿＿ ★ ＿＿＿ 。", "options": ["くれた", "ことか", "どれほど", "喜んで"], "order": [2, 3, 0, 1], "answer": 0, "vi": "Nghe tin tôi đỗ, mẹ đã vui mừng cho tôi biết chừng nào.", "why": "母が **どれほど 喜んで くれた ことか** → ★ (ô thứ 3) = 「くれた」. Khung cảm thán: từ chỉ mức độ 「どれほど」 đứng đầu, 「ことか」 đứng cuối; 「喜んで＋くれた」 là một cụm."},
+    {"id": "b30-q14", "kind": "form", "ref": "b30-24", "q": "{彼|かれ}は{三十年間|さんじゅうねんかん}、{一日|いちにち}も{休|やす}む（　　）{店|みせ}を{開|あ}け{続|つづ}けた。", "options": ["ものの", "ことには", "ことなく", "ものなら"], "answer": 2, "vi": "Suốt ba mươi năm, ông ấy mở cửa hàng liên tục không nghỉ một ngày nào.", "why": "「一日も」 + V辞書形 + hành động tiếp tục → **ことなく** (mà không). 「ものの」 cho nghĩa \"tuy nghỉ nhưng\", mâu thuẫn với 一日も; 「ことには」 chỉ dùng với Vない; 「ものなら」 là giả định + mong muốn."}
+  ],
+  "practice": [
+    {"id": "b30-p1", "kind": "form", "ref": "b30-2", "q": "{料理|りょうり}は{高|たか}い{材料|ざいりょう}を{使|つか}えばおいしくなる（　　）。{大切|たいせつ}なのは{作|つく}り{方|かた}だ。", "options": ["ものだ", "というものではない", "ことだ", "とのことだ"], "answer": 1, "vi": "Nấu ăn không phải cứ dùng nguyên liệu đắt là ngon. Quan trọng là cách nấu.", "why": "「〜ば」 + câu sau phản bác (大切なのは作り方) → bác bỏ quan niệm \"cứ A là B\": **というものではない**. 「ものだ」 khẳng định \"vốn là ngon\" — mâu thuẫn với câu sau; 「ことだ」 là lời khuyên, phải đi với hành động của người nghe; 「とのことだ」 là truyền đạt lời người khác, không có nguồn tin và cũng mâu thuẫn với câu sau."},
+    {"id": "b30-p2", "kind": "form", "ref": "b30-4", "q": "{休|やす}める（　　）、{一週間|いっしゅうかん}ぐらい{仕事|しごと}を{休|やす}んで{温泉|おんせん}に{行|い}きたい。", "options": ["ことには", "ようものなら", "ものの", "ものなら"], "answer": 3, "vi": "Nếu nghỉ được thì tôi muốn nghỉ làm cỡ một tuần để đi suối nước nóng.", "why": "Thể khả năng 「休める」 + mong muốn 〜たい → **ものなら**. 「ようものなら」 cần thể ý chí (休もう) và vế sau là hậu quả xấu; 「ものの」 nói sự thật \"tuy nghỉ được nhưng\", không đi với 〜たい theo kiểu này; 「ことには」 chỉ dùng trong 「Vないことには」."},
+    {"id": "b30-p3", "kind": "form", "ref": "b30-8", "q": "{人|ひと}の{意見|いけん}を{全然|ぜんぜん}{聞|き}かずに{一人|ひとり}で{決|き}めてしまうのは、わがまま（　　）。", "options": ["というものだ", "ことだ", "とのことだ", "ものがある"], "answer": 0, "vi": "Hoàn toàn không nghe ý kiến ai mà tự mình quyết định, thế thì đúng là ích kỷ.", "why": "「〜のは」 + từ đánh giá 「わがまま」 → **というものだ**. 「わがままことだ」 sai hình thức (な形 cần な: わがままなことだ); 「とのことだ」 là truyền đạt, không có nguồn tin; 「ものがある」 cũng cần な (わがままなものがある) và không đi với chủ đề 「〜のは」 kiểu phán xét này."},
+    {"id": "b30-p4", "kind": "form", "ref": "b30-9", "q": "（{母|はは}が{子|こ}どもに）「{人|ひと}の{物|もの}を{勝手|かって}に{使|つか}う（　　）。{使|つか}う{前|まえ}に{必|かなら}ず{一言|ひとこと}{断|ことわ}りなさい。」", "options": ["ものだ", "ものか", "ものではない", "ことだ"], "answer": 2, "vi": "(Mẹ nói với con) \"Không được tự tiện dùng đồ của người khác. Trước khi dùng nhất định phải hỏi một tiếng.\"", "why": "Người lớn răn dạy theo đạo lý chung → **ものではない**. 「ものだ」 và 「ことだ」 sẽ thành \"nên tự tiện dùng\", trái với câu sau 「断りなさい」; 「ものか」 = đời nào tôi dùng — ý chí của người nói, không hợp với lời dạy con."},
+    {"id": "b30-p5", "kind": "form", "ref": "b30-10", "q": "{早|はや}く{戦争|せんそう}のない{世界|せかい}になって（　　）。", "options": ["ほしいものか", "ほしいことだ", "ほしいものがある", "ほしいものだ"], "answer": 3, "vi": "Thật mong thế giới sớm không còn chiến tranh.", "why": "Mong ước lớn, lâu dài → **〜てほしいものだ**. 「ほしいものか」 = đời nào muốn, trái nghĩa; 「ほしいことだ」 không phải mẫu đúng; 「ほしいものがある」 = có thứ tôi muốn (ほしい là tính từ bổ nghĩa cho もの) — không nối được với 「〜になって」."},
+    {"id": "b30-p6", "kind": "form", "ref": "b30-12", "q": "{十年|じゅうねん}ぶりに{会|あ}った{姪|めい}が、もう{大学生|だいがくせい}だなんて。{子|こ}どもの{成長|せいちょう}は{早|はや}い（　　）。", "options": ["ことか", "ものだ", "ものか", "ことはない"], "answer": 1, "vi": "Mười năm mới gặp lại mà cháu gái đã là sinh viên rồi. Trẻ con lớn nhanh thật.", "why": "Cảm thán về lẽ đời (trẻ con lớn nhanh) → **ものだ** (26課). 「早いことか」 thiếu từ chỉ mức độ (どんなに早いことか mới đúng); 「早いものか」 = đời nào nhanh, ngược với ngữ cảnh; 「ことはない」 phải đi với động từ và nghĩa \"không cần\"."},
+    {"id": "b30-p7", "kind": "form", "ref": "b30-19", "q": "N2に{合格|ごうかく}したければ、まず{毎日|まいにち}{少|すこ}しずつでも{単語|たんご}を{覚|おぼ}える（　　）。", "options": ["ことだ", "ことか", "ものか", "というものではない"], "answer": 0, "vi": "Nếu muốn đỗ N2 thì trước hết nên học thuộc từ vựng mỗi ngày, dù chỉ một ít.", "why": "Khung 「〜たければ、〜ことだ」: lời khuyên cụ thể → **ことだ**. 「ことか」 cần どんなに／何度; 「覚えるものか」 = đời nào học thuộc, trái với 合格したければ; 「というものではない」 = không phải cứ học thuộc là được — mâu thuẫn với 「まず」 (đang khuyên nên làm)."},
+    {"id": "b30-p8", "kind": "order", "ref": "b30-20", "q": "まだ{時間|じかん}は{十分|じゅうぶん}ある ＿＿＿ ＿＿＿ ★ ＿＿＿ よ。", "options": ["急ぐ", "ことはない", "から", "そんなに"], "order": [2, 3, 0, 1], "answer": 0, "vi": "Vẫn còn đủ thời gian, nên không cần vội thế đâu.", "why": "まだ時間は十分ある **から そんなに 急ぐ ことはない** よ → ★ (ô thứ 3) = 「急ぐ」. 「ある」 cần 「から」 ngay sau; 「そんなに」 bổ nghĩa cho 「急ぐ」; 「ことはない」 đi sau V辞書形."},
+    {"id": "b30-p9", "kind": "form", "ref": "b30-21", "q": "{八十歳|はちじゅっさい}を{過|す}ぎても{毎日|まいにち}{山|やま}に{登|のぼ}っているなんて、{本当|ほんとう}にお{元気|げんき}な（　　）。", "options": ["ものか", "ことだ", "ことはない", "ものの"], "answer": 1, "vi": "Ngoài 80 tuổi mà ngày nào cũng leo núi, thật là khoẻ mạnh quá.", "why": "Cảm thán về một sự việc cụ thể, sau な形 + な → **ことだ** (26課). 「元気なものか」 = khoẻ gì mà khoẻ, trái với lời khen; 「ことはない」 cần động từ, nghĩa \"không cần\"; 「ものの」 phải có vế sau, không đứng cuối câu."},
+    {"id": "b30-p10", "kind": "form", "ref": "b30-23", "q": "【{図書館|としょかん}の{利用規則|りようきそく}】{借|か}りた{本|ほん}は{二週間|にしゅうかん}{以内|いない}に{返却|へんきゃく}する（　　）。", "options": ["ものか", "ことか", "ことに", "こと"], "answer": 3, "vi": "[Nội quy thư viện] Sách mượn phải trả trong vòng hai tuần.", "why": "Văn bản nội quy, chỉ thị viết → **こと**. 「ものか」 = đời nào trả — vô lý trong nội quy; 「ことか」 cần từ chỉ mức độ; 「ことに」 phải có mệnh đề tiếp theo và đi với từ cảm xúc."},
+    {"id": "b30-p11", "kind": "form", "ref": "b30-25", "q": "{不思議|ふしぎ}な（　　）、{十年前|じゅうねんまえ}になくした{指輪|ゆびわ}が{引|ひ}き{出|だ}しの{奥|おく}から{出|で}てきた。", "options": ["ことに", "ものの", "ことなく", "ことだし"], "answer": 0, "vi": "Lạ thay, chiếc nhẫn tôi đánh mất mười năm trước lại xuất hiện từ góc sâu của ngăn kéo.", "why": "Cảm xúc người nói đặt ở đầu câu, sau đó kể sự việc → **不思議なことに**. 「不思議なものの」 = tuy lạ nhưng… — không có quan hệ \"nhưng\" ở đây; 「ことなく」 cần V辞書形; 「不思議なことだし」 = vì cũng lạ nên… — vế sau không phải quyết định hay rủ rê."},
+    {"id": "b30-p12", "kind": "order", "ref": "b30-26", "q": "{駅|えき}まで ＿＿＿ ＿＿＿ ★ ＿＿＿ 、{片道|かたみち}{四十分|よんじゅっぷん}もかかるので{毎日|まいにち}は{無理|むり}だ。", "options": ["行ける", "ことは", "歩いて", "行けるが"], "order": [2, 0, 1, 3], "answer": 1, "vi": "Đi bộ đến ga thì cũng đi được đấy, nhưng mất tận 40 phút một chiều nên ngày nào cũng vậy thì không nổi.", "why": "駅まで **歩いて 行ける ことは 行けるが**、片道四十分もかかるので… → ★ (ô thứ 3) = 「ことは」. Khung lặp từ 「X ことは X が」 với X = 「行ける」; 「歩いて」 bổ nghĩa cho 「行ける」 đầu tiên nên đứng đầu."}
+  ],
+  "test": [
+    {"id": "b30-t1", "kind": "form", "ref": "b30-27", "q": "{先|さき}ほど{佐藤|さとう}さんから{連絡|れんらく}があり、{電車|でんしゃ}が{止|と}まっているので{到着|とうちゃく}が{三十分|さんじゅっぷん}ほど{遅|おく}れる（　　）。", "options": ["というものです", "とのことです", "ものです", "ことです"], "answer": 1, "vi": "Vừa rồi anh Sato liên lạc, báo rằng tàu bị dừng nên anh ấy sẽ đến muộn khoảng 30 phút.", "why": "Có nguồn tin (佐藤さんから連絡があり), chuyển lời trong công việc → **とのことです**. 「というものです」 là đánh giá (đó đúng là…); 「ものです」 nói lẽ thường / hồi tưởng; 「ことです」 là lời khuyên — đều không truyền đạt được lời nhắn."},
+    {"id": "b30-t2", "kind": "usage", "ref": "b30-11", "q": "「〜たものだ」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["昨日、駅前で偶然先生に会ったものだ。", "私は来年、日本の大学に入ったものだ。", "一度だけ北海道へスキーに行ったものだ。", "子どものころは、暗くなるまで外で遊んだものだ。"], "answer": 3, "vi": "(4) Hồi nhỏ, tôi hay chơi ngoài trời cho tới khi tối mịt.", "why": "(4) mốc xa 「子どものころ」 + thói quen lặp lại → hồi tưởng **たものだ** đúng. (1) việc một lần, mới hôm qua → 会った; (2) dự định tương lai → 入るつもりだ; (3) kinh nghiệm một lần → 行ったことがある."},
+    {"id": "b30-t3", "kind": "form", "ref": "b30-5", "q": "この{子|こ}は{少|すこ}しでも{目|め}を{離|はな}そう（　　）、すぐにどこかへ{行|い}ってしまう。", "options": ["ものなら", "ことなら", "ものの", "ことには"], "answer": 0, "vi": "Đứa bé này, chỉ cần lơ là rời mắt một chút là nó chạy đi đâu mất ngay.", "why": "Thể ý chí 「離そう」 + hậu quả xấu → **(よ)うものなら**. 「離そうことなら」「離そうことには」 không tồn tại (ことには cần Vない); 「離そうものの」 cũng sai hình thức — ものの đi với thể thường."},
+    {"id": "b30-t4", "kind": "form", "ref": "b30-19", "q": "{風邪|かぜ}を{早|はや}く{治|なお}したいなら、{無理|むり}をしないでゆっくり{休|やす}む（　　）。", "options": ["ものか", "ことか", "ことだ", "ことはない"], "answer": 2, "vi": "Nếu muốn mau khỏi cảm thì đừng gắng sức, nên nghỉ ngơi thong thả.", "why": "「〜たいなら」 + lời khuyên cụ thể → **ことだ**. 「休むものか」 = đời nào nghỉ, trái với 治したいなら; 「休むことか」 cần どんなに／何度; 「休むことはない」 = không cần nghỉ — mâu thuẫn với 無理をしないで."},
+    {"id": "b30-t5", "kind": "order", "ref": "b30-27", "q": "{天気予報|てんきよほう}に ＿＿＿ ＿＿＿ ★ ＿＿＿ 。", "options": ["ということだ", "明日は", "雪になる", "よると"], "order": [3, 1, 2, 0], "answer": 2, "vi": "Theo dự báo thời tiết, ngày mai trời sẽ có tuyết.", "why": "天気予報に **よると 明日は 雪になる ということだ** → ★ (ô thứ 3) = 「雪になる」. 「に」 đi với 「よると」 (nguồn tin), 「ということだ」 đứng cuối sau mệnh đề thể thường."},
+    {"id": "b30-t6", "kind": "form", "ref": "b30-1", "q": "{彼|かれ}が{約束|やくそく}を{守|まも}る（　　）。{今|いま}まで{一度|いちど}も{守|まも}ったことがないんだから。", "options": ["ないものか", "ものか", "ことだ", "ものがある"], "answer": 1, "vi": "Anh ta mà giữ lời hứa á? Đời nào. Từ trước đến giờ đã giữ lần nào đâu.", "why": "Câu sau là lý do để phủ định mạnh → **ものか**. 「守るないものか」 sai hình thức (phải là 守らないものか, và nghĩa là \"mong sao giữ lời\" — trái ngữ cảnh); 「守ることだ」 là lời khuyên; 「守るものがある」 = có điều cần bảo vệ — khác nghĩa hoàn toàn."},
+    {"id": "b30-t7", "kind": "form", "ref": "b30-3", "q": "{給料|きゅうりょう}が{上|あ}がった。（　　）、{物価|ぶっか}も{上|あ}がっているので{生活|せいかつ}は{少|すこ}しも{楽|らく}にならない。", "options": ["とはいうものの", "ということは", "ことには", "そのことだから"], "answer": 0, "vi": "Lương đã tăng. Nói vậy chứ vật giá cũng tăng nên cuộc sống chẳng dễ thở hơn chút nào.", "why": "Đầu câu, thừa nhận câu trước rồi nêu thực tế trái kỳ vọng → **とはいうものの**. 「ということは」 = tức là — dẫn tới kết luận cùng chiều, không hợp với vế sau tiêu cực; 「ことには」 không đứng đầu câu; 「そのことだから」 không phải cách nói đúng (のことだから đi với người để suy đoán)."},
+    {"id": "b30-t8", "kind": "order", "ref": "b30-14", "q": "この{作家|さっか}の{作品|さくひん}には ＿＿＿ ＿＿＿ ★ ＿＿＿ 。", "options": ["心に", "ものがある", "読む人の", "深く残る"], "order": [2, 0, 3, 1], "answer": 3, "vi": "Tác phẩm của nhà văn này có một điều gì đó đọng lại sâu sắc trong lòng người đọc.", "why": "作品には **読む人の 心に 深く残る ものがある** → ★ (ô thứ 3) = 「深く残る」. Khung 「Nには〜ものがある」; 「読む人の」 bổ nghĩa cho 「心」, 「心に深く残る」 là định ngữ của 「もの」."}
+  ]
+}

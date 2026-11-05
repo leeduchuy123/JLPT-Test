@@ -1,0 +1,244 @@
+{
+  "id": "b39",
+  "track": "bunpo",
+  "intro": "Câu điều kiện là chỗ **quyết định mạch văn**: người viết đang **giả định** một chuyện chưa xảy ra, hay đang nói về một chuyện **đã thành sự thật**? Câu sau sẽ là ý chí, lời khuyên, hay chỉ là kết quả tự nhiên? Trong 問題9, các phương án thường là **cùng một động từ với bốn kiểu điều kiện** (住んでいれば／住んでいなければ／住んでいても／住んでいなくても) — chọn sai một chữ là cả câu đảo nghĩa.\n\nBài này gồm hai phần:\n- **Phần A — と・ば・たら・なら・ても・のに**: hai câu hỏi phải tự đặt ra: ① Đuôi câu có phải **ý chí / mong muốn / nhờ vả** không? (nếu có thì loại と, thường loại ば, loại のに). ② Câu trước nói chuyện **chưa xảy ra (仮定)** hay **đã xảy ra (確定)**?\n- **Phần B — các khuôn điều kiện \"đặc biệt\"**: 〜ては (kết quả xấu), 〜としたら／〜となったら (giả sử ↔ một khi đã thành), 〜(よ)うものなら (lỡ mà… thì to chuyện), 〜ないことには・〜を抜きにしては (không… thì không thể), 〜としても・〜にせよ (dù cho…). Mỗi khuôn có **đuôi câu đặc trưng** — nhận ra đuôi là nhận ra đáp án.\n\nNguyên tắc chung: **đọc câu trước** để biết chuyện là giả định hay thật, **đọc đuôi câu** để biết mẫu nào được phép.",
+  "points": [
+    {
+      "id": "b39-1",
+      "pattern": "と・ば・たら・なら／のに・ても：文末の制限",
+      "reading": "と・ば・たら・なら／のに・ても：ぶんまつのせいげん",
+      "meaning": "Đuôi câu là ý chí / mong muốn / nhờ vả → dùng たら・なら (ば có điều kiện), không dùng と; のに không đi với ý chí, ても thì được",
+      "structure": ["A と、B：B là kết quả tự nhiên / phát hiện — ✗ ý chí, mong muốn, nhờ vả, mệnh lệnh", "A ば、B：A là động từ hành động → B ✗ ý chí・nhờ vả; A là trạng thái (い形・ある・いる・できる・〜ない) → B được", "A たら、B：B tự do (〜たい・〜よう・〜てください đều được)", "A なら、B：B tự do, thường là lời khuyên / ý kiến; B có thể xảy ra trước A", "A のに、B：B là sự thật trái mong đợi — ✗ ý chí", "A ても、B：B tự do — 〜ても、我慢しよう ○"],
+      "explain": "Bốn mẫu điều kiện N4–N3 được ôn lại dưới góc nhìn **\"đuôi câu được phép là gì\"**:\n\n- **と** = \"hễ A là B\" — B xảy ra **tự nhiên, tất yếu** (quy luật, máy móc, chỉ đường, thói quen) hoặc là **phát hiện** (〜と、〜た). Vì B \"tự xảy ra\", nó **không thể** là ý chí của người nói: ✗ 「冬になると、スキーに行きたい」. ○ 「冬になると、この湖は凍る」.\n- **ば** = \"nếu có A thì mới có B\". Nếu A là **động từ hành động** thì B không được là ý chí / nhờ vả: ✗ 「レポートを書き終われば、メールで送ってください」. Nhưng nếu A là **trạng thái** (tính từ, ある, できる, 〜ない…) thì được: ○ 「安ければ買いたい」「時間があれば行こう」.\n- **たら** = \"khi / nếu A (xảy ra) rồi thì\" — **tự do nhất**, B là gì cũng được: 「書き終わったら、送ってください」.\n- **なら** = \"nếu (định / là) A thì\" — thường tiếp lời người khác, B là **lời khuyên, ý kiến, yêu cầu**: 「レポートを出すなら、先にコピーを取っておいてね」. B có thể xảy ra **trước** A: 「日本へ行くなら、JRパスを買っておくといい」.\n\nCặp **のに ↔ ても**:\n- **のに** = \"vậy mà\" — A là sự thật, B là sự thật **trái mong đợi**, kèm bất mãn. B không thể là ý chí: ✗ 「眠いのに、もう少し起きていよう」 → ○ 「眠いのに、仕事が終わらない」.\n- **ても** = \"dù… cũng\" — B tự do, có thể là quyết tâm: ○ 「眠くても、もう少し起きていよう」.",
+      "nuance": "Mẹo nhớ: と và のに là hai mẫu **\"khách quan\"** — chúng chỉ kể chuyện đã/sẽ tự xảy ra, không chứa ý muốn của người nói. Nên hễ đuôi có 〜たい／〜よう／〜てください／〜ましょう／〜つもりだ → gạch と và のに trước tiên. ば thì phải xem vế A là hành động hay trạng thái.",
+      "examples": [
+        {"ja": "{春|はる}になったら、{家族|かぞく}で{京都|きょうと}へ{旅行|りょこう}に{行|い}きたい。", "vi": "Sang xuân, tôi muốn cùng gia đình đi du lịch Kyoto.", "note": "たら + mong muốn ○ (✗ 春になると、行きたい)"},
+        {"ja": "{春|はる}になると、この{川|かわ}の{両岸|りょうがん}に{桜|さくら}が{咲|さ}き{誇|ほこ}る。", "vi": "Cứ đến xuân, hai bên bờ sông này hoa anh đào nở rộ.", "note": "と + kết quả tự nhiên ○"},
+        {"ja": "{駅|えき}に{着|つ}いたら、{電話|でんわ}をください。{車|くるま}で{迎|むか}えに{行|い}きます。", "vi": "Đến ga thì gọi điện cho tôi nhé. Tôi sẽ lái xe ra đón.", "note": "たら + nhờ vả (✗ 着くと、電話をください)"},
+        {"ja": "その{資料|しりょう}を{読|よ}むなら、{読|よ}み{終|お}わった{後|あと}で{私|わたし}にも{貸|か}してください。", "vi": "Nếu anh định đọc tài liệu đó thì đọc xong cho tôi mượn với.", "note": "なら + nhờ vả (tiếp lời người khác)"},
+        {"ja": "{値段|ねだん}がもう{少|すこ}し{安|やす}ければ、すぐにでも{買|か}いたいのだが。", "vi": "Giá mà rẻ hơn chút nữa thì tôi muốn mua ngay.", "note": "ば với tính từ (trạng thái) → vế sau là mong muốn vẫn được"},
+        {"ja": "{熱|ねつ}が{少|すこ}しあっても、{明日|あした}の{試験|しけん}は{受|う}けるつもりだ。", "vi": "Dù có hơi sốt, tôi vẫn định đi thi ngày mai.", "note": "ても + ý chí ○ (✗ 熱があるのに、受けるつもりだ)"}
+      ],
+      "compare": [
+        {"with": "たら ↔ なら", "diff": "「たら」: A xảy ra **trước** rồi B (着いたら電話して). 「なら」: B có thể xảy ra **trước** A (行くなら、切符を買っておいて). Đề hay dùng ví dụ kiểu này để phân biệt."},
+        {"with": "のに ↔ けれども／ても", "diff": "「のに」 chứa cảm xúc bất mãn, ngạc nhiên về **một sự thật**. 「ても」 là nhượng bộ giả định hoặc thật, vế sau thoải mái hơn, có thể là quyết tâm."}
+      ],
+      "mistakes": [
+        "✗ {週末|しゅうまつ}になると、{映画|えいが}を{見|み}に{行|い}こう。→ ○ 週末になったら、映画を見に行こう。",
+        "✗ この{本|ほん}を{読|よ}めば、{感想|かんそう}を{聞|き}かせてください。→ ○ 読んだら／読むなら、感想を聞かせてください。",
+        "✗ {疲|つか}れているのに、もう{少|すこ}し{頑張|がんば}ろう。→ ○ 疲れていても、もう少し頑張ろう。"
+      ],
+      "tip": "Nhìn đuôi câu trước: có **〜たい・〜よう・〜てください・〜つもりだ** → loại と và のに; loại ば nếu vế A là động từ hành động. Còn lại たら／なら／ても — chọn theo nghĩa (sau khi / nếu định / dù)."
+    },
+    {
+      "id": "b39-2",
+      "pattern": "仮定か確定か（前の文との関係）",
+      "reading": "かていかかくていか（まえのぶんとのかんけい）",
+      "meaning": "Câu trước nói việc chưa xảy ra (giả định) hay đã xảy ra (xác định) quyết định dạng điều kiện ở câu sau",
+      "structure": ["仮定 (chưa xảy ra)：〜るなら／〜れば／〜たら／〜ても", "確定 (đã xảy ra, biết qua người khác)：〜た(の)なら ＋ lời khuyên / ý kiến", "確定 (kể lại thực tế)：〜たら、〜た (phát hiện / kết quả)", "確定：〜ても、〜ている／〜た (dù đã… vẫn…)", "確定 (trạng thái hiện có)：N であれば／N なら ＋ 〜はずだ", "反事実 (trái thực tế)：〜ば／〜たら ＋ 〜た(のに／はずだ／かもしれない)"],
+      "explain": "Trong đoạn văn, câu điều kiện thường **tiếp nối câu trước**. Hãy xem câu trước đang nói chuyện **chưa thành** hay **đã thành** sự thật.\n\n**① Câu trước: 「将来、留学したい」 (chưa xảy ra — 仮定)**\n- 留学**するなら**、早めに準備したほうがいい. (nếu định đi thì…)\n- 留学**すれば**、視野が広がるだろう. (nếu đi thì sẽ…)\n- 留学**したら**、現地の友達をたくさん作りたい. (khi đi rồi thì…)\n- 留学**しても**、日本の友達とは連絡を取り続けたい. (dù có đi thì…)\n\n**② Câu trước: 「弟は去年留学した」 (đã xảy ra — 確定)**\n- 留学**したのなら**、英語で話してみてほしい. (đã đi rồi thì…) — **phải có た**.\n- 留学**したら**、性格が明るくなったようだ. (đi rồi thì thực tế đã…) — 〜たら + 〜た.\n- 留学**しても**、相変わらず英語は苦手らしい. (dù đã đi vẫn…)\n\n**③ Câu trước nói trạng thái đang có: 「彼は小学校の教師だ」**\n- 教師**であれば**、子どもの扱いには慣れているはずだ.\n\nThêm một kiểu hay gặp trong văn: **trái thực tế** — 「〜ば／〜たら、〜た(のに／はずだ)」: 「もっと早く知っていれば、助けられたのに」 (nhưng thực tế đã không biết).",
+      "nuance": "Bẫy phổ biến nhất: câu trước đã nói sự việc **đã xảy ra** mà vẫn chọn 「〜るなら」. ✗ 「弟は先月車を買った。車を買うなら、今度乗せてほしい」 → ○ 「車を買ったのなら」. Ngược lại, chuyện mới chỉ là mong muốn mà dùng 「〜たのなら」 cũng sai. Hội thoại hay rút gọn 「〜たのなら」 thành 「〜たなら」「〜たんなら」.",
+      "examples": [
+        {"ja": "{留学|りゅうがく}するなら、{早|はや}めにビザの{準備|じゅんび}を{始|はじ}めたほうがいい。", "vi": "Nếu định đi du học thì nên bắt đầu chuẩn bị visa sớm.", "note": "仮定: chưa đi"},
+        {"ja": "{留学|りゅうがく}すれば、{語学力|ごがくりょく}だけでなく{視野|しや}も{広|ひろ}がるだろう。", "vi": "Nếu đi du học thì không chỉ năng lực ngoại ngữ mà tầm nhìn cũng sẽ rộng ra.", "note": "仮定"},
+        {"ja": "{留学|りゅうがく}が{決|き}まったのなら、{今|いま}から{現地|げんち}の{言葉|ことば}を{勉強|べんきょう}しておきなさい。", "vi": "Đã quyết định đi du học rồi thì từ giờ hãy học trước tiếng bản địa đi.", "note": "確定: 〜たのなら + lời khuyên"},
+        {"ja": "{実際|じっさい}に{留学|りゅうがく}してみたら、{想像|そうぞう}{以上|いじょう}に{大変|たいへん}だった。", "vi": "Thực tế đi du học rồi mới thấy vất vả hơn tưởng tượng.", "note": "確定: 〜たら、〜た"},
+        {"ja": "{留学|りゅうがく}から{帰|かえ}ってきても、{彼|かれ}は{毎朝|まいあさ}{英語|えいご}のニュースを{聞|き}いている。", "vi": "Dù đã du học về, sáng nào anh ấy vẫn nghe tin tức bằng tiếng Anh.", "note": "確定: 〜ても、〜ている"},
+        {"ja": "あのとき{一言|ひとこと}{謝|あやま}っていれば、{二人|ふたり}は{別|わか}れずに{済|す}んだかもしれない。", "vi": "Giá lúc đó chịu xin lỗi một câu thì có lẽ hai người đã không phải chia tay.", "note": "反事実: 〜ていれば、〜た(かもしれない)"}
+      ],
+      "compare": [
+        {"with": "〜るなら ↔ 〜たのなら", "diff": "「買うなら」 = nếu (định) mua. 「買ったのなら」 = nếu (đúng là) đã mua rồi. Câu trước kể việc đã xảy ra → chọn 〜たのなら."},
+        {"with": "〜たら、〜た ↔ 〜ば、〜た", "diff": "「薬を飲んだら、熱が下がった」 = thực tế đã uống và hạ sốt. 「薬を飲めば、熱が下がった(のに)」 = giá mà uống thì đã hạ sốt (thực tế không uống)."}
+      ],
+      "mistakes": [
+        "✗ {姉|あね}は{去年|きょねん}{資格|しかく}を{取|と}った。{資格|しかく}を{取|と}るなら、それを{仕事|しごと}に{生|い}かしてほしい。→ ○ 資格を取ったのなら、…",
+        "✗ {昨日|きのう}{薬|くすり}を{飲|の}めば、{熱|ねつ}が{下|さ}がった。(nghe như 'giá mà uống') → ○ 昨日薬を飲んだら、熱が下がった。"
+      ],
+      "tip": "Trong 問題9, quay lại **câu ngay trước chỗ trống**: nó kết thúc bằng 〜た／〜ことになった／〜そうだ (đã thành sự thật) → chọn **〜たのなら／〜たら〜た／〜ても〜ている**. Nó là mong muốn, dự định (〜たい／〜つもりだ) → chọn **〜るなら／〜ば／〜たら**."
+    },
+    {
+      "id": "b39-3",
+      "pattern": "〜ては",
+      "reading": "〜ては",
+      "meaning": "Nếu (cứ)… thì (kết quả xấu); cứ… như thế này thì…",
+      "structure": ["Vて ＋ は ＋ kết quả tiêu cực (困る・だめだ・〜ない・危ない)", "い形くて ＋ は／な形・N ＋ では", "Vられて ＋ は ＋ 困る (bị người khác làm… thì phiền)", "(確定) こんなに／こう〜ては、〜ない"],
+      "explain": "「〜ては」 là điều kiện **bi quan**: \"nếu mà A thì sẽ (thành) chuyện không hay\". Vế sau **luôn là kết quả tiêu cực**: 困る, だめだ, 危ない, 〜できない, 〜ないだろう…\n\nNó dùng được cho cả hai trường hợp:\n- **仮定**: 「台風が近づいている。こんな日に海で泳いでは危ない」 — giả sử bơi thì nguy.\n- **確定** (tình trạng đang diễn ra, thường đi với こんなに／こう／毎日): 「こう毎日会議が続いては、自分の仕事が少しも進まない」 — thực tế đang họp liên tục.\n\nHình ảnh: người nói **nhăn mặt, lắc đầu** trước một tình huống. Rất hay đi với bị động: 「会議のたびに遅刻されては困ります」 (bị anh đi trễ mãi thì phiền).",
+      "nuance": "Văn nói lẫn văn viết, dạng nói tắt: 〜ちゃ／〜じゃ (行っちゃだめ). Không dùng khi vế sau là kết quả tốt (✗ 「よく勉強しては、合格できる」), cũng không đi với ý chí / nhờ vả. Phân biệt với 「〜ては〜」 lặp lại (書いては消し、書いては消し = viết rồi xoá, viết rồi xoá) — nghĩa khác hẳn.",
+      "examples": [
+        {"ja": "そんなに{毎晩|まいばん}{夜更|よふ}かしをしては、{体|からだ}を{壊|こわ}してしまうよ。", "vi": "Đêm nào cũng thức khuya như thế thì sẽ hỏng người mất.", "note": "Vて + は + kết quả xấu"},
+        {"ja": "{毎日|まいにち}こう{暑|あつ}くては、{仕事|しごと}に{集中|しゅうちゅう}できない。", "vi": "Ngày nào cũng nóng thế này thì không thể tập trung làm việc.", "note": "確定 · い形くては"},
+        {"ja": "{説明|せつめい}がこんなに{複雑|ふくざつ}では、お{客|きゃく}さまは{理解|りかい}できないだろう。", "vi": "Giải thích phức tạp đến thế này thì khách hàng sẽ không hiểu được đâu.", "note": "な形 + では"},
+        {"ja": "{会議|かいぎ}のたびに{遅刻|ちこく}されては、{困|こま}ります。", "vi": "Cứ mỗi lần họp là anh lại đến muộn thì phiền lắm.", "note": "Vられては + 困る"},
+        {"ja": "{練習|れんしゅう}を{休|やす}んでばかりいては、{試合|しあい}には{出|で}してもらえないよ。", "vi": "Cứ nghỉ tập suốt thế thì sẽ không được cho ra sân đâu.", "note": "〜てばかりいては"}
+      ],
+      "compare": [
+        {"with": "〜ば／〜たら", "diff": "「ば／たら」 trung tính, vế sau tốt hay xấu đều được. 「ては」 chỉ dẫn đến kết quả xấu và chứa sự bất mãn / cảnh báo của người nói."},
+        {"with": "〜ないことには (b39-6)", "diff": "「〜ないことには」 = nếu KHÔNG làm A thì B không thành. 「〜ては」 = nếu LÀM A (một điều không nên) thì hỏng. Hai mẫu như hai mặt của một đồng xu."}
+      ],
+      "mistakes": [
+        "✗ よく{勉強|べんきょう}しては、{合格|ごうかく}できる。→ ○ よく勉強すれば、合格できる。(ては chỉ dẫn đến kết quả xấu)",
+        "✗ {雨|あめ}が{降|ふ}っては、{傘|かさ}を{持|も}っていきなさい。→ ○ 雨が降ったら／降りそうなら、…"
+      ],
+      "tip": "Thấy vế sau là **困る／だめだ／危ない／〜できない／〜ないだろう**, và vế trước có **こんなに／こう／そんなに／〜てばかりいて** → nghĩ ngay tới 「〜ては」."
+    },
+    {
+      "id": "b39-4",
+      "pattern": "〜としたら・〜とすれば・〜とすると／〜となったら・〜となれば・〜となると",
+      "reading": "〜としたら・〜とすれば・〜とすると／〜となったら・〜となれば・〜となると",
+      "meaning": "Giả sử… thì (とする: đặt giả thiết trong đầu) / Một khi đã (thành ra)… thì (となる: tình huống thật sự xảy ra)",
+      "structure": ["普通形 ＋ としたら／とすれば／とすると (仮定)", "普通形 ＋ となったら／となれば／となると (tình huống đã / sắp thành thật)", "N ＋ (だ)としたら／N ＋ となると", "いざ〜となると (đến lúc thật sự… thì)"],
+      "explain": "Hai nhóm này khác nhau đúng ở động từ gốc:\n\n**する → 〜としたら／とすれば／とすると = \"giả sử, coi như là\"** (仮定)\nNgười nói **tự đặt một giả thiết** trong đầu, có thể chẳng bao giờ thành. Câu trước thường là mong muốn, nghi ngờ, câu hỏi:\n- 「来年、転職を考えている。もし転職する**としたら**、IT業界がいい」.\n- 「この絵は有名な画家の作品だろうか。本物だ**とすれば**、数億円の価値がある」.\n\n**なる → 〜となったら／となれば／となると = \"một khi đã thành ra, khi tình hình đi đến chỗ…\"** (thường 確定)\nTình huống **đã xác định** hoặc **sắp thật sự xảy ra**, và người nói phản ứng với nó:\n- 「台風で明日の便が欠航になった。飛行機が飛ばない**となったら**、新幹線で帰るしかない」.\n- 「検査の結果、手術が必要だとわかった。手術**となれば**、しばらく仕事を休まなければならない」.\n- 「いざ一人で暮らす**となると**、不安も大きい」.\n\nNhớ nhanh: **とする = trong đầu** / **となる = ngoài đời**.",
+      "nuance": "「としたら・とすれば」 hay đi với もし／仮に và vế sau là câu hỏi, mong muốn, phỏng đoán (〜か, 〜たい, 〜だろう). 「となると・となれば」 hay đi với いざ／いよいよ／実際に, vế sau là hệ quả tất yếu, nghĩa vụ (〜なければならない, 〜は難しい). 「N となると」 còn có nghĩa \"hễ nói đến N thì…\" (料理となると、彼は人が変わる).",
+      "examples": [
+        {"ja": "もし{宝|たから}くじで{一億円|いちおくえん}{当|あ}たったとしたら、{何|なに}に{使|つか}いますか。", "vi": "Giả sử trúng xổ số một trăm triệu yên thì bạn sẽ dùng vào việc gì?", "note": "仮定 · vế sau là câu hỏi"},
+        {"ja": "{彼|かれ}の{話|はなし}が{事実|じじつ}だとすれば、{会社|かいしゃ}は{大|おお}きな{損害|そんがい}を{受|う}けることになる。", "vi": "Nếu lời anh ta là sự thật thì công ty sẽ chịu thiệt hại lớn.", "note": "仮定 · chưa xác minh"},
+        {"ja": "{明日|あした}の{朝|あさ}{出発|しゅっぱつ}するとすると、{今夜中|こんやじゅう}に{荷造|にづく}りを{終|お}えなければならない。", "vi": "Nếu sáng mai xuất phát thì phải đóng gói hành lý xong trong tối nay.", "note": "仮定 → suy ra hệ quả"},
+        {"ja": "{工場|こうじょう}の{閉鎖|へいさ}が{正式|せいしき}に{決|き}まった。{閉鎖|へいさ}となれば、{多|おお}くの{人|ひと}が{職|しょく}を{失|うしな}う。", "vi": "Việc đóng cửa nhà máy đã chính thức được quyết định. Một khi đóng cửa thì nhiều người sẽ mất việc.", "note": "確定 · N となれば"},
+        {"ja": "{結婚式|けっこんしき}は{来月|らいげつ}に{決|き}まった。{来月|らいげつ}となると、{準備|じゅんび}の{時間|じかん}はほとんどない。", "vi": "Đám cưới đã chốt vào tháng sau. Tháng sau thì gần như không còn thời gian chuẩn bị.", "note": "確定 · N となると"},
+        {"ja": "いざ{自分|じぶん}で{料理|りょうり}を{作|つく}るとなると、{何|なに}から{始|はじ}めればいいかわからない。", "vi": "Đến lúc thật sự phải tự nấu ăn thì chẳng biết bắt đầu từ đâu.", "note": "いざ〜となると"}
+      ],
+      "compare": [
+        {"with": "〜たら／〜ば", "diff": "「たら／ば」 là điều kiện chung. 「としたら」 nhấn mạnh tính **giả thiết** (\"cứ cho là\"), 「となると」 nhấn mạnh **tình huống đã thay đổi** và hệ quả của nó."},
+        {"with": "〜にしては (b39-7 compare)", "diff": "「にしては」 = \"so với… thì\" (子どもにしては上手だ) — không phải điều kiện. Đề hay đặt cạnh 「としては」「にしては」 để gây nhiễu."}
+      ],
+      "mistakes": [
+        "✗ {試験|しけん}が{中止|ちゅうし}に{決|き}まった。もし{中止|ちゅうし}だとしたら、{今日|きょう}は{休|やす}める。→ ○ 中止となったら／中止なら、… (đã xác định thì không \"giả sử\")",
+        "△ いよいよ{来週|らいしゅう}{引|ひ}っ{越|こ}すとしたら、{準備|じゅんび}が{大変|たいへん}だ。→ ○ いよいよ来週引っ越すとなると、… (いよいよ = sắp thật sự)"
+      ],
+      "tip": "Câu trước là **sự thật đã quyết / tin đã xác nhận**, hoặc có **いざ・いよいよ・実際に** → chọn **となると／となれば／となったら**. Câu có **もし・仮に**, vế sau là câu hỏi / mong muốn → chọn **としたら／とすれば**."
+    },
+    {
+      "id": "b39-5",
+      "pattern": "〜(よ)うものなら",
+      "reading": "〜(よ)うものなら",
+      "meaning": "Nếu lỡ mà… thì (hậu quả nghiêm trọng)",
+      "structure": ["V意向形 ＋ ものなら (行こうものなら・食べようものなら・しようものなら)", "Thường đi với：少しでも／一度でも／ちょっとでも／一口でも", "(văn nói) 〜ようもんなら"],
+      "explain": "Người nói giả định một hành động / sự việc (thường là một việc **nhỏ**, đi với 少しでも・一度でも) — và tuyên bố rằng hễ làm nó thì **hậu quả sẽ rất tệ**. Có tính **phóng đại** rõ rệt.\n\n「私は猫アレルギーで、猫に少しでも触ろ**うものなら**、くしゃみが止まらなくなる」 — chỉ cần lỡ chạm vào mèo một chút là hắt hơi không dứt.\n\nCấu trúc dùng **thể ý hướng** (〜よう) — cách nhớ: \"**hễ có ý** định làm (よう) thì **coi chừng** (ものなら)\".\n\nVế sau: hậu quả xấu, phản ứng dữ dội — 〜てしまう, 大変なことになる, 〜られる (bị mắng, bị đuổi), 〜かわからない.",
+      "nuance": "Chỉ dùng cho **giả định** (chưa xảy ra). Dùng cả trong văn nói lẫn văn viết (cả bài bình luận: 被害が拡大しようものなら…), sắc thái cường điệu; khi nói chuyện đời thường thì hơi hài hước hoặc than phiền. Vế sau không phải ý chí của người nói.",
+      "examples": [
+        {"ja": "うちの{父|ちち}は{厳|きび}しくて、{門限|もんげん}に{少|すこ}しでも{遅|おく}れようものなら、{家|いえ}に{入|い}れてもらえない。", "vi": "Bố tôi khắt khe lắm, lỡ về trễ giờ quy định một chút thôi là không được vào nhà.", "note": "少しでも + 〜ようものなら"},
+        {"ja": "この{犬|いぬ}は{臆病|おくびょう}で、{知|し}らない{人|ひと}が{近|ちか}づこうものなら、{激|はげ}しく{吠|ほ}え{出|だ}す。", "vi": "Con chó này nhát lắm, người lạ mà lại gần là nó sủa dữ dội.", "note": ""},
+        {"ja": "{会議|かいぎ}で{部長|ぶちょう}の{意見|いけん}に{反対|はんたい}しようものなら、{後|あと}で{何|なに}を{言|い}われるかわからない。", "vi": "Trong cuộc họp mà lỡ phản đối ý kiến trưởng phòng thì chẳng biết sau đó sẽ bị nói gì.", "note": "vế sau: 〜かわからない"},
+        {"ja": "{試験中|しけんちゅう}にスマートフォンを{見|み}ようものなら、その{場|ば}で{失格|しっかく}になる。", "vi": "Trong giờ thi mà lỡ xem điện thoại là bị loại ngay tại chỗ.", "note": ""},
+        {"ja": "{姉|あね}の{前|まえ}で{体重|たいじゅう}の{話|はなし}をしようものなら、{一日中|いちにちじゅう}{機嫌|きげん}が{悪|わる}くなる。", "vi": "Lỡ nhắc chuyện cân nặng trước mặt chị tôi là chị ấy cáu cả ngày.", "note": "phóng đại, hài hước"}
+      ],
+      "compare": [
+        {"with": "V可能形 ＋ ものなら", "diff": "「行ける**ものなら**行きたい」 = nếu mà đi được thì muốn đi lắm (điều khó thực hiện). Thể **khả năng** + ものなら + mong muốn — khác hẳn thể **ý hướng** + ものなら + hậu quả xấu."},
+        {"with": "〜ては (b39-3)", "diff": "Cả hai đều dẫn tới kết quả xấu. 「ては」 dùng được cho tình trạng thật (確定) và không phóng đại; 「ようものなら」 chỉ giả định và nhấn mạnh \"chỉ cần lỡ một chút\"."}
+      ],
+      "mistakes": [
+        "✗ {一度|いちど}でも{休|やす}もうものなら、{頑張|がんば}ろう。→ vế sau phải là hậu quả xấu: ○ 一度でも休もうものなら、クビになる。",
+        "✗ {行|い}けようものなら、{行|い}きたい。→ ○ 行けるものなら行きたい。(mẫu khác)"
+      ],
+      "tip": "Nhận dạng bằng hình thức: chỗ trống đứng sau **thể ý hướng** (〜よう／〜おう) và trước **ものなら** → đáp án. Ngược lại, nếu phương án là 「〜ものなら」 mà vế sau là \"muốn…\" thì phải chọn thể khả năng (〜れるものなら)."
+    },
+    {
+      "id": "b39-6",
+      "pattern": "〜ないことには・〜を抜きにしては",
+      "reading": "〜ないことには・〜をぬきにしては",
+      "meaning": "Nếu không… thì không thể… / Nếu bỏ… ra thì không thể…",
+      "structure": ["Vない形／い形くない／な形・N でない ＋ ことには ＋ 〜ない (できない・わからない・始まらない)", "N ＋ を抜きにしては ＋ 〜ない (語れない・成り立たない)", "N ＋ 抜きでは／抜きには ＋ 〜ない", "(nghĩa khác) N ＋ は抜きにして = gác… sang một bên"],
+      "explain": "Cả hai mẫu cùng nói: **X là điều kiện không thể thiếu** — không có X thì Y không thành. Vế sau **gần như luôn là phủ định / khả năng phủ định**.\n\n- **〜ないことには〜ない**: nhấn mạnh \"phải **làm** X trước đã, chưa làm thì chưa nói được gì\". 「まず現場を見てみよう。実際に見てみ**ないことには**、修理にいくらかかるか**言えない**」.\n- **〜を抜きにしては〜ない**: X là **một yếu tố / một người** không thể bỏ ra ngoài. 「鈴木さんはこの企画の中心人物だ。鈴木さんを**抜きにしては**、話が前に進ま**ない**」.\n\nCả hai dùng được cho:\n- **仮定**: 会ってみないことには… (chưa gặp).\n- **確定**: 「今は人手が足りない。人が集まら**ない**ことには、新しい店は開けない」 (thực tế đang thiếu người).",
+      "nuance": "Văn phong hơi cứng, hay gặp trong nghị luận, phát biểu. 「を抜きにして」 **không có は** và vế sau không phủ định thì mang nghĩa khác: \"gác… sang bên\" (冗談は抜きにして、本題に入ろう). Vế sau của hai mẫu chính không phải ý chí / nhờ vả.",
+      "examples": [
+        {"ja": "{実際|じっさい}に{使|つか}ってみないことには、この{製品|せいひん}の{良|よ}さはわからない。", "vi": "Không dùng thử thực tế thì không thể biết cái hay của sản phẩm này.", "note": "Vない + ことには + わからない"},
+        {"ja": "{体|からだ}が{丈夫|じょうぶ}でないことには、どんな{仕事|しごと}も{長|なが}くは{続|つづ}けられない。", "vi": "Cơ thể không khoẻ mạnh thì việc gì cũng không làm lâu dài được.", "note": "な形 + でないことには"},
+        {"ja": "{予算|よさん}が{決|き}まらないことには、{具体的|ぐたいてき}な{計画|けいかく}は{立|た}てられない。", "vi": "Ngân sách chưa quyết thì không thể lập kế hoạch cụ thể.", "note": ""},
+        {"ja": "{地元|じもと}の{人々|ひとびと}の{協力|きょうりょく}を{抜|ぬ}きにしては、この{祭|まつ}りは{成|な}り{立|た}たない。", "vi": "Không có sự hợp tác của người dân địa phương thì lễ hội này không thể diễn ra.", "note": "N を抜きにしては + 成り立たない"},
+        {"ja": "この{町|まち}の{歴史|れきし}は、{港|みなと}の{存在|そんざい}を{抜|ぬ}きにしては{語|かた}れない。", "vi": "Lịch sử thị trấn này không thể kể mà bỏ qua sự tồn tại của bến cảng.", "note": "〜抜きにしては語れない (cụm hay gặp)"},
+        {"ja": "{堅|かた}いあいさつは{抜|ぬ}きにして、さっそく{本題|ほんだい}に{入|はい}りましょう。", "vi": "Thôi bỏ qua mấy lời chào hỏi khách sáo, vào thẳng vấn đề chính luôn nhé.", "note": "は抜きにして = gác lại (nghĩa khác, vế sau tự do)"}
+      ],
+      "compare": [
+        {"with": "〜なければ", "diff": "「〜なければ」 trung tính. 「〜ないことには」 mạnh hơn, nhấn mạnh **điều kiện tiên quyết**, vế sau gần như bắt buộc phủ định."},
+        {"with": "〜てからでないと", "diff": "\"Chưa… thì chưa thể\" — nhấn **thứ tự** (làm A xong rồi mới B): 「確認してからでないと、返事できない」. 「ないことには」 nhấn **điều kiện cần**."}
+      ],
+      "mistakes": [
+        "✗ {練習|れんしゅう}しないことには、{上手|じょうず}になる。→ ○ 練習しないことには、上手にならない。",
+        "✗ {先生|せんせい}を{抜|ぬ}きにしては、{旅行|りょこう}に{行|い}こう。→ vế sau phải là \"không thể\": ○ 先生を抜きにしては、旅行の計画は立てられない。"
+      ],
+      "tip": "Vế sau là **〜ない／〜できない／〜わからない／何とも言えない／始まらない**, vế trước là \"điều kiện cần\" → chọn 「〜ないことには」 (với động từ) hoặc 「〜を抜きにしては」 (với danh từ)."
+    },
+    {
+      "id": "b39-7",
+      "pattern": "〜としても・〜にしても・〜にせよ・〜にしろ",
+      "reading": "〜としても・〜にしても・〜にせよ・〜にしろ",
+      "meaning": "Cho dù (giả sử)… thì cũng… / Dù (thực tế là)… nhưng…",
+      "structure": ["普通形 ＋ としても (chủ yếu giả định; hay đi với たとえ)", "普通形 (な形・N: だ có thể bỏ／〜である) ＋ にしても／にせよ／にしろ", "(確定) 〜のはわかる。しかし、〜にせよ、〜はずだ／べきだ", "Cặp: A にしろ B にしろ／A にせよ B にせよ (dù A hay B)", "疑問詞 ＋ にせよ／にしても：何があったにせよ"],
+      "explain": "Bốn mẫu đều là **nhượng bộ**: \"dù A thì B vẫn…\". Khác nhau ở độ giả định và văn phong:\n\n- **〜としても**: chủ yếu **giả định** (\"giả sử… đi nữa\"), thường có たとえ／仮に đứng trước. 「たとえ反対されたとしても、この道に進むつもりだ」.\n- **〜にしても・〜にせよ・〜にしろ**: dùng được cả **giả định** lẫn **sự thật đã biết**. 「今月は予算が厳しいのはわかる。しかし、いくら厳しい**にせよ**、安全のための費用まで削るべきではない」 — thực tế ngân sách đang eo hẹp (確定).\n  - にしても: văn nói hơn.\n  - にせよ・にしろ: cứng, văn viết (せよ／しろ là mệnh lệnh của する).\n\nVế sau thường là **phán đoán, ý kiến, yêu cầu của người nói**: 〜はずだ, 〜べきだ, 〜だろう, 〜ない, 〜てください. Dạng cặp 「AにしろBにしろ」 = \"dù A hay B thì cũng…\": 「行くにしろ行かないにしろ、連絡はください」.",
+      "nuance": "Không dùng 「〜としても」 khi vế trước là sự thật hiển nhiên đang diễn ra (khi đó dùng 〜ても／〜にしても). Không nhầm với 「〜にしては」 (\"so với… thì\": 初めてにしては上手だ) và 「〜としては」 (\"với tư cách là\").",
+      "examples": [
+        {"ja": "たとえ{両親|りょうしん}に{反対|はんたい}されたとしても、{私|わたし}はこの{道|みち}に{進|すす}むつもりだ。", "vi": "Dù có bị bố mẹ phản đối đi nữa, tôi vẫn định theo con đường này.", "note": "たとえ〜としても + ý chí"},
+        {"ja": "{今|いま}から{急|いそ}いだとしても、{終電|しゅうでん}には{間|ま}に{合|あ}わないだろう。", "vi": "Giả sử bây giờ có vội thì cũng không kịp chuyến tàu cuối đâu.", "note": "仮定 + phỏng đoán"},
+        {"ja": "{体調|たいちょう}が{悪|わる}かったにしても、{連絡|れんらく}ぐらいはするべきだった。", "vi": "Dù là lúc đó không khoẻ thì cũng nên liên lạc một tiếng chứ.", "note": "確定 + đánh giá (べきだった)"},
+        {"ja": "{理由|りゆう}はどうであるにせよ、{約束|やくそく}を{破|やぶ}ったのは{事実|じじつ}だ。", "vi": "Dù lý do là gì đi nữa, việc thất hứa vẫn là sự thật.", "note": "疑問詞 + にせよ"},
+        {"ja": "{参加|さんか}するにしろしないにしろ、{金曜日|きんようび}までに{返事|へんじ}をください。", "vi": "Dù tham gia hay không thì cũng xin trả lời trước thứ Sáu.", "note": "AにしろBにしろ"},
+        {"ja": "{冗談|じょうだん}にしても、{言|い}っていいことと{悪|わる}いことがある。", "vi": "Dù là nói đùa thì cũng có điều được nói và điều không được nói.", "note": "N + にしても"}
+      ],
+      "compare": [
+        {"with": "〜ても", "diff": "「ても」 trung tính, dùng mọi nơi. 「としても」 nhấn tính giả định hơn; 「にせよ／にしろ」 cứng hơn và thường mang ý kiến, phán xét."},
+        {"with": "〜にしては", "diff": "「にしては」 = \"so với… thì (khác mong đợi)\": 「彼は初心者にしては上手だ」. Không phải nhượng bộ. Đề hay dùng làm phương án nhiễu."}
+      ],
+      "mistakes": [
+        "✗ たとえ{雨|あめ}が{降|ふ}ったら、{試合|しあい}は{行|おこな}う。→ ○ たとえ雨が降ったとしても／降っても、…",
+        "✗ {値段|ねだん}が{高|たか}いにしても、{買|か}った。→ ○ 値段が高いにしても、品質を考えれば買う価値はある。(vế sau là đánh giá của người nói, ngược chiều với vế trước)"
+      ],
+      "tip": "Có 「たとえ」 hoặc 「どんなに／いくら」 ở đầu → loại ngay たら／ば／なら, chọn **〜ても／〜としても／〜にせよ**. Vế sau có **はずだ／べきだ** và vế trước là sự thật đã biết → **〜にしても／〜にせよ**."
+    }
+  ],
+  "summary": [
+    {"pattern": "と・ば・たら・なら／のに・ても", "meaning": "đuôi câu được phép", "key": "ý chí / nhờ vả → たら・なら・ても; ✗ と・のに; ば chỉ khi A là trạng thái"},
+    {"pattern": "仮定か確定か", "meaning": "chưa xảy ra / đã xảy ra", "key": "đã xảy ra → 〜たのなら, 〜たら〜た, 〜ても〜ている; trái thực tế → 〜ば〜たのに"},
+    {"pattern": "〜ては", "meaning": "nếu (cứ)… thì (xấu)", "key": "vế sau: 困る・だめだ・〜ない; cả 仮定 lẫn 確定"},
+    {"pattern": "〜としたら／〜となると", "meaning": "giả sử… / một khi đã…", "key": "とする = trong đầu (もし・仮に); となる = ngoài đời (いざ・いよいよ)"},
+    {"pattern": "〜(よ)うものなら", "meaning": "lỡ mà… thì to chuyện", "key": "thể ý hướng + ものなら; 少しでも／一度でも; hậu quả xấu"},
+    {"pattern": "〜ないことには・〜を抜きにしては", "meaning": "không… thì không thể", "key": "vế sau phủ định; V → ないことには, N → を抜きにしては"},
+    {"pattern": "〜としても・〜にしても・〜にせよ・〜にしろ", "meaning": "dù cho… cũng…", "key": "たとえ〜としても; にせよ／にしろ cứng; AにしろBにしろ"}
+  ],
+  "passages": {
+    "p1": {
+      "title": "失敗を恐れずに",
+      "kind": "エッセイ",
+      "ja": "　{私|わたし}は{子|こ}どものころから{人前|ひとまえ}で{話|はな}すのが{苦手|にがて}だった。{授業中|じゅぎょうちゅう}に{先生|せんせい}に{指名|しめい}されると、{顔|かお}が{真|ま}っ{赤|か}になり、{声|こえ}も{震|ふる}えてしまう。{自分|じぶん}から{手|て}を{挙|あ}げて{発言|はつげん}するなど、とても{考|かんが}えられなかった。\n　ところが、{大学|だいがく}のゼミでは{毎週|まいしゅう}{発表|はっぴょう}をしなければならない。しかも、{担当|たんとう}の{日|ひ}に{一度|いちど}でも{休|やす}もう（　1　）、{単位|たんい}はもらえないという{厳|きび}しいルールがあった。{初|はじ}めての{発表|はっぴょう}の{前|まえ}の{晩|ばん}、{私|わたし}はほとんど{眠|ねむ}れなかった。\n　{当日|とうじつ}、{緊張|きんちょう}している{私|わたし}に、{指導|しどう}{教員|きょういん}がこう{声|こえ}をかけてくれた。「{上手|じょうず}に{話|はな}そうとしなくていいんですよ。たとえ（　2　）、{誰|だれ}も{笑|わら}ったりしません。」\n　その{言葉|ことば}で{気持|きも}ちが{楽|らく}になり、{何|なん}とか{最後|さいご}まで{話|はな}すことができた。うまく{話|はな}せなかった（　3　）、あの{日|ひ}の{経験|けいけん}がなければ、{今|いま}の{私|わたし}はなかっただろう。\n　{何事|なにごと}も、{実際|じっさい}にやってみない（　4　）、{自分|じぶん}に{何|なに}ができるかはわからない。{失敗|しっぱい}を{恐|おそ}れて{何|なに}もしなければ、{失敗|しっぱい}はしないが、{成長|せいちょう}もしないのである。",
+      "vi": "Từ nhỏ tôi đã ngại nói trước đám đông. Trong giờ học mà bị thầy cô gọi tên là mặt đỏ bừng, giọng cũng run lên. Chuyện tự giơ tay phát biểu thì tôi không dám nghĩ tới.\n\nThế nhưng ở seminar đại học, tuần nào cũng phải thuyết trình. Hơn nữa còn có một quy định nghiêm khắc: vào ngày được phân công mà lỡ nghỉ dù chỉ một lần là không được cấp tín chỉ. Đêm trước buổi thuyết trình đầu tiên, tôi gần như không ngủ được.\n\nHôm đó, thấy tôi căng thẳng, thầy hướng dẫn đã nói với tôi thế này: \"Em không cần cố nói cho hay đâu. Dù em có nói sai đi nữa thì cũng chẳng ai cười cả.\"\n\nNhờ câu nói ấy mà tôi thấy nhẹ nhõm, và bằng cách nào đó đã nói được đến cuối. Dù rằng tôi đã nói không trôi chảy, nhưng nếu không có trải nghiệm hôm đó thì có lẽ đã không có tôi của bây giờ.\n\nViệc gì cũng vậy, không thực sự làm thử thì không thể biết mình làm được gì. Nếu vì sợ thất bại mà không làm gì cả thì sẽ không thất bại, nhưng cũng sẽ không trưởng thành."
+    },
+    "p2": {
+      "title": "備えあれば",
+      "kind": "コラム",
+      "ja": "　{大|おお}きな{地震|じしん}は、いつどこで{起|お}きてもおかしくないと{言|い}われている。しかし、{自分|じぶん}や{家族|かぞく}が{被害|ひがい}に{遭|あ}うかもしれないと{本気|ほんき}で{考|かんが}えている{人|ひと}は、{意外|いがい}に{少|すく}ない。\n　もし{今夜|こんや}、{大地震|だいじしん}が（　1　）、あなたはまず{何|なに}をするだろうか。{家具|かぐ}が{倒|たお}れてきたら、{逃|に}げ{道|みち}がふさがれてしまうかもしれない。{停電|ていでん}になれば、{明|あ}かりも{暖房|だんぼう}も{使|つか}えない。\n　{過去|かこ}の{地震|じしん}でも、{倒|たお}れた{家具|かぐ}の{下敷|したじ}きになってけがをした{人|ひと}が{少|すく}なくなかった。{前|まえ}もって{家具|かぐ}を{固定|こてい}（　2　）、{防|ふせ}げたけがも{多|おお}かったはずだ。\n　また、{水|みず}や{食料|しょくりょう}の{備|そな}えも{欠|か}かせない。{災害|さいがい}の{後|あと}、{救援|きゅうえん}{物資|ぶっし}が{届|とど}くまでには{数日|すうじつ}かかることがある。{三日分|みっかぶん}の{水|みず}と{食料|しょくりょう}を{用意|ようい}しておか（　3　）、その{間|あいだ}を{乗|の}り{切|き}るのは{難|むずか}しい。\n　もちろん、どれだけ{準備|じゅんび}した（　4　）、{被害|ひがい}を{完全|かんぜん}に{防|ふせ}ぐことはできない。それでも、{備|そな}えがあるかどうかで、{助|たす}かる{命|いのち}の{数|かず}は{大|おお}きく{変|か}わるはずだ。",
+      "vi": "Người ta nói động đất lớn có thể xảy ra bất cứ lúc nào, ở bất cứ đâu. Thế nhưng, số người thật sự nghĩ rằng bản thân hay gia đình mình có thể bị thiệt hại lại ít đến bất ngờ.\n\nGiả sử đêm nay xảy ra động đất lớn, việc đầu tiên bạn sẽ làm là gì? Nếu đồ đạc đổ xuống, có thể đường thoát sẽ bị chặn. Nếu mất điện thì cả đèn lẫn máy sưởi đều không dùng được.\n\nTrong các trận động đất trước đây cũng có không ít người bị thương vì bị đồ đạc đổ đè lên. Giá mà cố định đồ đạc từ trước thì hẳn đã tránh được nhiều ca bị thương.\n\nNgoài ra, dự trữ nước và lương thực cũng là điều không thể thiếu. Sau thảm hoạ, có khi phải mất vài ngày hàng cứu trợ mới đến nơi. Nếu không chuẩn bị sẵn nước và lương thực cho ba ngày thì khó mà vượt qua khoảng thời gian đó.\n\nDĩ nhiên, dù chuẩn bị đến đâu đi nữa cũng không thể ngăn hoàn toàn thiệt hại. Dù vậy, có chuẩn bị hay không chắc chắn sẽ làm thay đổi rất nhiều số sinh mạng được cứu."
+    }
+  },
+  "quiz": [
+    {"id": "b39-q1", "kind": "form", "ref": "b39-1", "q": "{東京|とうきょう}に（　　）、{連絡|れんらく}してください。{駅|えき}まで{車|くるま}で{迎|むか}えに{行|い}きます。", "options": ["来ると", "来れば", "来るのに", "来たら"], "answer": 3, "vi": "Khi đến Tokyo thì liên lạc cho tôi nhé. Tôi sẽ lái xe ra ga đón.", "why": "Vế sau là **nhờ vả** (〜てください) → **来たら**. (1) 「と」 không đi với nhờ vả; (2) 「ば」 + động từ hành động 「来る」 cũng không đi với nhờ vả; (3) 「のに」 = vậy mà, sai nghĩa và không đi với nhờ vả."},
+    {"id": "b39-q2", "kind": "form", "ref": "b39-2", "q": "A「{兄|あに}が{来月|らいげつ}、{結婚|けっこん}することになったんだ。」\nB「そう、お{兄|にい}さんが{結婚|けっこん}する（　　）、お{祝|いわ}いに{何|なに}か{贈|おく}りたいな。」", "options": ["と", "のなら", "のに", "ても"], "answer": 1, "vi": "A: \"Anh tôi sắp cưới vào tháng sau đấy.\" B: \"Thế à, nếu anh cậu cưới thì mình muốn tặng gì đó mừng.\"", "why": "B tiếp lời thông tin **đã xác định** từ A (〜ことになった), vế sau là mong muốn → **のなら**. (1) 「と」 không đi với 〜たい; (3) 「のに」 = vậy mà — sai nghĩa; (4) 「ても」 = dù có cưới — mâu thuẫn với ý muốn tặng quà mừng."},
+    {"id": "b39-q3", "kind": "form", "ref": "b39-3", "q": "こんなに{毎日|まいにち}{雨|あめ}が{続|つづ}いて（　　）、{洗濯物|せんたくもの}がちっとも{乾|かわ}かない。", "options": ["も", "なら", "は", "さえ"], "answer": 2, "vi": "Mưa liên tục mỗi ngày thế này thì quần áo phơi chẳng khô chút nào.", "why": "Tình trạng đang diễn ra (こんなに) dẫn tới kết quả xấu → **続いては** (確定 của 〜ては). (1) 「続いても」 = dù mưa vẫn không khô — vô lý; (2) 「続いてなら」 sai ngữ pháp; (4) 「てさえ」 phải đi với 〜ば (〜てさえいれば)."},
+    {"id": "b39-q4", "kind": "form", "ref": "b39-4", "q": "この{話|はなし}がもし{本当|ほんとう}だ（　　）、{大変|たいへん}なことになる。まず{事実|じじつ}を{確|たし}かめよう。", "options": ["としたら", "となっても", "としては", "にしては"], "answer": 0, "vi": "Nếu chuyện này là thật thì sẽ thành chuyện lớn. Trước hết hãy xác minh sự thật đã.", "why": "Chưa xác minh (もし, まず事実を確かめよう) → giả định → **としたら**. (2) 「となっても」 = dù có thành ra thật đi nữa — ngược nghĩa với 大変なことになる; (3) 「としては」 = với tư cách là; (4) 「にしては」 = so với… thì."},
+    {"id": "b39-q5", "kind": "form", "ref": "b39-5", "q": "{祖母|そぼ}はとても{厳|きび}しく、{食|た}べ{物|もの}を{少|すこ}しでも{残|のこ}そう（　　）、{何十分|なんじゅっぷん}もお{説教|せっきょう}をされる。", "options": ["ては", "ものなら", "ことには", "にせよ"], "answer": 1, "vi": "Bà tôi rất nghiêm, lỡ để thừa đồ ăn dù chỉ một chút là bị giảng đạo lý cả mấy chục phút.", "why": "Thể ý hướng 「残そう」 + 少しでも + hậu quả nặng → **ものなら**. (1) 「〜ては」 phải nối với thể て (残しては), không nối với 「残そう」; (3) 「ことには」 cần thể ない; (4) 「にせよ」 không nối với thể ý hướng."},
+    {"id": "b39-q6", "kind": "form", "ref": "b39-6", "q": "{本人|ほんにん}に{直接|ちょくせつ}{聞|き}いてみない（　　）、{会社|かいしゃ}を{辞|や}めた{本当|ほんとう}の{理由|りゆう}はわからない。", "options": ["ものなら", "にしても", "ことには", "ものの"], "answer": 2, "vi": "Không hỏi trực tiếp anh ấy thì không biết được lý do thật sự anh ấy nghỉ việc.", "why": "Điều kiện cần + vế sau phủ định (わからない) → **ないことには**. (1) 「〜ないものなら」 không phải khuôn đúng (ものなら đi với thể ý hướng / khả năng); (2) 「聞いてみないにしても」 = dù không hỏi — ngược nghĩa; (4) 「ものの」 = tuy… nhưng, sai nghĩa."},
+    {"id": "b39-q7", "kind": "usage", "ref": "b39-7", "q": "「〜にせよ」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["行くにせよ行かないにせよ、早めに決めたほうがいい。", "雨が降るにせよ、傘を持っていかなかった。", "明日は晴れるにせよ、ピクニックに行こう。", "値段が安いにせよ、たくさん買った。"], "answer": 0, "vi": "(1) Dù đi hay không đi thì cũng nên quyết định sớm.", "why": "(1) cặp 「AにせよBにせよ」 + lời khuyên → đúng. (2) vế sau là việc đã xảy ra, không đối lập với vế trước; (3) \"dù trời nắng thì cũng đi dã ngoại\" — không có quan hệ nhượng bộ; (4) \"dù rẻ nhưng đã mua nhiều\" — quan hệ thuận, không phải nhượng bộ."}
+  ],
+  "practice": [
+    {"id": "b39-p1", "kind": "form", "ref": "b39-1", "q": "{少|すこ}し{疲|つか}れて（　　）、{今日|きょう}は{最後|さいご}まで{残|のこ}って{準備|じゅんび}を{手伝|てつだ}うつもりだ。", "options": ["いるのに", "いても", "いると", "いるなら"], "answer": 1, "vi": "Dù có hơi mệt, hôm nay tôi vẫn định ở lại đến cuối để giúp chuẩn bị.", "why": "Vế sau là **ý chí** (つもりだ), quan hệ nhượng bộ → **いても**. (1) 「のに」 không đi với ý chí; (3) 「と」 không đi với ý chí; (4) 「疲れているなら」 = nếu mệt thì… — sai nghĩa (mệt thì càng ở lại?)."},
+    {"id": "b39-p2", "kind": "form", "ref": "b39-1", "q": "この{道|みち}をまっすぐ（　　）、{左手|ひだりて}に{郵便局|ゆうびんきょく}が{見|み}えてきます。", "options": ["行くなら", "行っては", "行くと", "行くにしても"], "answer": 2, "vi": "Đi thẳng con đường này thì sẽ thấy bưu điện ở bên tay trái.", "why": "Chỉ đường — kết quả **tự nhiên, tất yếu** → **行くと**. (1) 「行くなら」 dùng khi tiếp lời ý định của người khác và vế sau là lời khuyên, không phải kết quả tự nhiên; (2) 「ては」 cần kết quả xấu; (4) 「にしても」 nhượng bộ — sai nghĩa."},
+    {"id": "b39-p3", "kind": "form", "ref": "b39-2", "q": "A「{昨日|きのう}、{新|あたら}しいパソコンを{買|か}ったんだ。」\nB「（　　）、{古|ふる}いのは{私|わたし}に{譲|ゆず}ってくれない？」", "options": ["買うなら", "買えば", "買うと", "買ったのなら"], "answer": 3, "vi": "A: \"Hôm qua mình mua máy tính mới rồi.\" B: \"Đã mua rồi thì nhượng lại cái cũ cho mình được không?\"", "why": "Việc mua **đã xảy ra** (確定) + vế sau là nhờ vả → **買ったのなら**. (1) 「買うなら」 = nếu định mua — mâu thuẫn với 昨日買った; (2) 「ば」 + động từ hành động không đi với nhờ vả; (3) 「と」 không đi với nhờ vả."},
+    {"id": "b39-p4", "kind": "form", "ref": "b39-3", "q": "{社員|しゃいん}にこんなに{次々|つぎつぎ}と（　　）、{会社|かいしゃ}はやっていけない。", "options": ["辞められても", "辞められては", "辞められるのに", "辞められてから"], "answer": 1, "vi": "Nhân viên cứ lần lượt nghỉ việc thế này thì công ty không trụ nổi.", "why": "Tình trạng đang diễn ra (こんなに次々と), bị động gây phiền + kết quả xấu → **辞められては**. (1) 「ても」 = dù có nghỉ thì cũng không trụ — vô lý; (3) 「のに」 = vậy mà — quan hệ không khớp; (4) 「てから」 chỉ thứ tự thời gian."},
+    {"id": "b39-p5", "kind": "form", "ref": "b39-4", "q": "いよいよ{来週|らいしゅう}から{海外|かいがい}{勤務|きんむ}が{始|はじ}まる。{実際|じっさい}に{外国|がいこく}で{暮|く}らす（　　）、やはり{不安|ふあん}も{大|おお}きい。", "options": ["としたら", "にしては", "となると", "ものなら"], "answer": 2, "vi": "Cuối cùng từ tuần sau tôi bắt đầu làm việc ở nước ngoài. Đến lúc thật sự sống ở nước ngoài thì quả là cũng lo lắng nhiều.", "why": "Việc **đã quyết** (いよいよ来週から), sắp thành thật → **となると**. (1) 「としたら」 là giả định trong đầu, không hợp với việc đã chốt; (2) 「にしては」 = so với… thì; (4) 「ものなら」 cần thể ý hướng / khả năng."},
+    {"id": "b39-p6", "kind": "form", "ref": "b39-6", "q": "{現地|げんち}の{人々|ひとびと}の{協力|きょうりょく}を（　　）、この{調査|ちょうさ}はとても{進|すす}められなかっただろう。", "options": ["抜こうものなら", "抜きにしても", "抜くとしたら", "抜きにしては"], "answer": 3, "vi": "Nếu không có sự hợp tác của người dân địa phương thì cuộc khảo sát này hẳn đã không thể tiến hành được.", "why": "N + **を抜きにしては** + vế phủ định (進められなかった) = thiếu X thì không thể. (1) 「抜こうものなら」 không dùng cho \"sự hợp tác\" và câu phản thực tế; (2) 「抜きにしても」 = dù gác X lại — ngược nghĩa; (3) 「抜くとしたら」 = giả sử rút bỏ — không tự nhiên với 協力 và với câu đã kết thúc ở quá khứ."},
+    {"id": "b39-p7", "kind": "order", "ref": "b39-6", "q": "{実物|じつぶつ}を ＿＿＿ ＿＿＿ ★ ＿＿＿ {判断|はんだん}できない。", "options": ["みない", "品質の良し悪しは", "ことには", "見て"], "order": [3, 0, 2, 1], "answer": 2, "vi": "Không xem thử hàng thật thì không thể đánh giá chất lượng tốt hay xấu.", "why": "実物を **見て みない ことには 品質の良し悪しは** 判断できない → ★ = 「ことには」. Khối 「Vてみないことには」 + vế phủ định 「判断できない」."},
+    {"id": "b39-p8", "kind": "order", "ref": "b39-4", "q": "もし ＿＿＿ ＿＿＿ ★ ＿＿＿ {行|い}ってみたいですか。", "options": ["いつの時代に", "としたら", "過去に", "戻れる"], "order": [2, 3, 1, 0], "answer": 1, "vi": "Nếu có thể quay về quá khứ, bạn muốn đến thời đại nào?", "why": "もし **過去に 戻れる としたら いつの時代に** 行ってみたいですか → ★ = 「としたら」. 「もし」 + giả định không có thật → 「〜としたら」; vế sau là câu hỏi."},
+    {"id": "b39-p9", "kind": "passage", "ref": "b39-5", "pass": "p1", "q": "（　1　）に{入|はい}るものはどれか。", "options": ["ものなら", "ことには", "としたら", "にしても"], "answer": 0, "vi": "Hơn nữa còn có một quy định nghiêm khắc: vào ngày được phân công mà lỡ nghỉ dù chỉ một lần là không được cấp tín chỉ.", "why": "Thể ý hướng 「休もう」 + 「一度でも」 + hậu quả nặng → **ものなら**. (2) 「ことには」 cần thể ない; (3) 「休もうとしたら」 = khi định nghỉ thì… — nghĩa khác, không nói lên quy định; (4) 「休もうにしても」 không phải khuôn tự nhiên."},
+    {"id": "b39-p10", "kind": "passage", "ref": "b39-7", "pass": "p1", "q": "（　2　）に{入|はい}るものはどれか。", "options": ["間違えたら", "間違えたとしても", "間違えれば", "間違えるなら"], "answer": 1, "vi": "Dù em có nói sai đi nữa thì cũng chẳng ai cười cả.", "why": "「たとえ」 đòi vế nhượng bộ **〜ても／〜としても** → **間違えたとしても**. (1)(3)(4) 「たら／ば／なら」 là điều kiện thuận, không đi với たとえ và làm câu thành \"nếu sai thì không ai cười\" — mất ý nhượng bộ."},
+    {"id": "b39-p11", "kind": "passage", "ref": "b39-7", "pass": "p1", "q": "（　3　）に{入|はい}るものはどれか。", "options": ["からには", "としたら", "にしても", "ものなら"], "answer": 2, "vi": "Dù rằng tôi đã nói không trôi chảy, nhưng nếu không có trải nghiệm hôm đó thì có lẽ đã không có tôi của bây giờ.", "why": "Vế trước là **sự thật đã biết** (nói không hay), vế sau là đánh giá ngược chiều → nhượng bộ 確定 **にしても**. (1) 「からには」 = một khi đã… thì phải — sai nghĩa; (2) 「としたら」 là giả định, trong khi việc nói không hay đã xảy ra; (4) 「ものなら」 không nối với thể た."},
+    {"id": "b39-p12", "kind": "passage", "ref": "b39-6", "pass": "p1", "q": "（　4　）に{入|はい}るものはどれか。", "options": ["ものなら", "にせよ", "としても", "ことには"], "answer": 3, "vi": "Việc gì cũng vậy, không thực sự làm thử thì không thể biết mình làm được gì.", "why": "「やってみない」 + vế phủ định (わからない) = điều kiện cần → **ないことには**. (1) 「〜ないものなら」 không phải khuôn đúng; (2) 「やってみないにせよ」 = dù không làm — ngược nghĩa; (3) 「としても」 = giả sử không làm đi nữa — ngược với ý \"phải làm mới biết\"."}
+  ],
+  "test": [
+    {"id": "b39-t1", "kind": "passage", "ref": "b39-4", "pass": "p2", "q": "（　1　）に{入|はい}るものはどれか。", "options": ["起きると", "起きたとしたら", "起きようものなら", "起きても"], "answer": 1, "vi": "Giả sử đêm nay xảy ra động đất lớn, việc đầu tiên bạn sẽ làm là gì?", "why": "「もし」 + giả định + vế sau là **câu hỏi** → **起きたとしたら**. (1) 「と」 diễn tả kết quả tự nhiên, không hợp với câu hỏi về hành động của người đọc; (3) 「ようものなら」 cần vế sau là hậu quả xấu, không phải câu hỏi; (4) 「ても」 nhượng bộ — sai nghĩa."},
+    {"id": "b39-t2", "kind": "passage", "ref": "b39-2", "pass": "p2", "q": "（　2　）に{入|はい}るものはどれか。", "options": ["していれば", "していても", "しているのに", "していては"], "answer": 0, "vi": "Giá mà cố định đồ đạc từ trước thì hẳn đã tránh được nhiều ca bị thương.", "why": "Trái thực tế: thực tế đã không cố định → 「〜ば、〜た(はずだ)」 → **していれば**. (2) 「ても」 = dù có cố định — ngược nghĩa; (3) 「のに」 = vậy mà, nhưng việc cố định đã không xảy ra; (4) 「ては」 dẫn tới kết quả xấu, trong khi vế sau là \"tránh được\"."},
+    {"id": "b39-t3", "kind": "passage", "ref": "b39-6", "pass": "p2", "q": "（　3　）に{入|はい}るものはどれか。", "options": ["ないにしても", "ないものなら", "ないことには", "なくても"], "answer": 2, "vi": "Nếu không chuẩn bị sẵn nước và lương thực cho ba ngày thì khó mà vượt qua khoảng thời gian đó.", "why": "Điều kiện cần + vế sau mang nghĩa phủ định (難しい) → **ないことには**. (1) 「ないにしても」 và (4) 「なくても」 đều là nhượng bộ (\"dù không chuẩn bị\") — ngược ý; (2) 「〜ないものなら」 không phải khuôn đúng."},
+    {"id": "b39-t4", "kind": "passage", "ref": "b39-7", "pass": "p2", "q": "（　4　）に{入|はい}るものはどれか。", "options": ["となれば", "ことには", "としたら", "としても"], "answer": 3, "vi": "Dĩ nhiên, dù chuẩn bị đến đâu đi nữa cũng không thể ngăn hoàn toàn thiệt hại.", "why": "「どれだけ〜」 + nhượng bộ → **としても**. (1) 「となれば」 = một khi đã… thì — mất ý nhượng bộ; (2) 「ことには」 cần thể ない; (3) 「としたら」 = giả sử chuẩn bị thì không thể ngăn — điều kiện thuận, mâu thuẫn với logic."},
+    {"id": "b39-t5", "kind": "form", "ref": "b39-1", "q": "たとえ{雨|あめ}が{降|ふ}って（　　）、{試合|しあい}は{予定|よてい}{通|どお}り{行|おこな}います。", "options": ["いると", "いれば", "いても", "いるのに"], "answer": 2, "vi": "Dù trời có mưa, trận đấu vẫn diễn ra theo kế hoạch.", "why": "「たとえ」 + nhượng bộ, vế sau là quyết định → **いても**. (1) 「と」 và (2) 「ば」 là điều kiện thuận, không đi với たとえ; (4) 「のに」 không đi với たとえ và không đi với vế sau là quyết định."},
+    {"id": "b39-t6", "kind": "form", "ref": "b39-2", "q": "A「{山田|やまだ}さん、{来月|らいげつ}で{会社|かいしゃ}を{辞|や}めることになったそうですよ。」\nB「えっ、{辞|や}める（　　）、{送別会|そうべつかい}を{開|ひら}かないといけませんね。」", "options": ["のなら", "のに", "ものなら", "ことには"], "answer": 0, "vi": "A: \"Nghe nói anh Yamada sẽ nghỉ việc vào cuối tháng sau đấy.\" B: \"Ồ, nếu anh ấy nghỉ thì phải tổ chức tiệc chia tay thôi.\"", "why": "Tiếp lời thông tin nghe từ người khác + vế sau là nghĩa vụ / đề xuất → **のなら**. (2) 「のに」 = vậy mà — sai nghĩa; (3) 「ものなら」 cần thể ý hướng / khả năng; (4) 「ことには」 cần thể ない và vế sau phủ định."},
+    {"id": "b39-t7", "kind": "usage", "ref": "b39-3", "q": "「〜ては」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["毎日運動しては、健康になれる。", "隣がこんなに騒がしくては、勉強に集中できない。", "駅に着いては、すぐ電話してください。", "もう少し安くては、ぜひ買いたい。"], "answer": 1, "vi": "(2) Nhà bên ồn ào thế này thì không thể tập trung học được.", "why": "(2) tình trạng đang diễn ra + kết quả xấu (集中できない) → đúng. (1) kết quả tốt → 運動すれば; (3) vế sau là nhờ vả → 着いたら; (4) vế sau là mong muốn → 安ければ."},
+    {"id": "b39-t8", "kind": "order", "ref": "b39-5", "q": "{妹|いもうと}は{甘|あま}いものに{目|め}がなく、{冷蔵庫|れいぞうこ}にケーキを ＿＿＿ ＿＿＿ ★ ＿＿＿ しまう。", "options": ["すぐに", "食べて", "入れておこう", "ものなら"], "order": [2, 3, 0, 1], "answer": 0, "vi": "Em gái tôi mê đồ ngọt, cứ cho bánh vào tủ lạnh là nó ăn sạch ngay.", "why": "冷蔵庫にケーキを **入れておこう ものなら すぐに 食べて** しまう → ★ = 「すぐに」. Thể ý hướng 「入れておこう」 + 「ものなら」, vế sau là hậu quả 「食べてしまう」."}
+  ]
+}

@@ -1,0 +1,847 @@
+{
+  "id": "b42",
+  "track": "bunpo",
+  "intro": "Bài này là công cụ thứ ba để giữ điểm nhìn: **bị động (受身)**, **sai khiến (使役)** và **bị động sai khiến (使役受身)**. Ba dạng này của cùng một động từ hay xuất hiện **cùng lúc trong bốn phương án** của 問題9, ví dụ: 待った／待たれた／待たせた／待たされた. Muốn chọn đúng, hãy trả lời ba câu hỏi:\n\n1. **Chủ ngữ của chỗ trống là ai?** (thường là 「わたし」, hoặc nhân vật chính của đoạn văn)\n2. **Ai thực sự làm hành động?**\n3. **Chủ ngữ muốn hay không muốn việc đó? Có ai ép không?**\n\nBức tranh chung:\n\n- **受身 (V-られる)**: chủ ngữ **chịu tác động** từ hành động của người khác → máy quay ở phía người bị tác động. Ngoài ra còn dùng khi **không cần nói ai làm** (この寺は15世紀に建てられた) và để diễn tả cảm xúc **tự nhiên nảy sinh** (自発: 思い出される).\n- **使役 (V-させる)**: chủ ngữ là người **bắt / cho phép** người khác làm, hoặc là **nguyên nhân** gây ra cảm xúc (友達を待たせる, 親を心配させる).\n- **使役受身 (V-させられる／V-される)**: chủ ngữ (thường là \"tôi\") **bị bắt phải làm** việc mình không muốn, hoặc bị một sự việc **khiến cho** nảy sinh cảm xúc (がっかりさせられた, 考えさせられた).\n\nTiếng Việt có \"bị / được\" (bị động), \"bắt / cho / làm cho\" (sai khiến) và \"bị bắt phải\" (bị động sai khiến), nhưng ta dùng chúng ít và tùy hứng. Tiếng Nhật dùng chúng **một cách có hệ thống** để chủ ngữ đứng yên ở phía người viết. Đó là lý do sau khi đọc một đoạn văn, bạn cần nhớ rõ: **đoạn này đang kể từ phía ai?**",
+  "points": [
+    {
+      "id": "b42-1",
+      "pattern": "受身①：話者が他者の行為の影響を受ける（直接・間接）",
+      "reading": "うけみ①：わしゃがたしゃのこういのえいきょうをうける",
+      "meaning": "Người nói (hoặc người thân cận) chịu tác động trực tiếp / gián tiếp từ hành động của người khác",
+      "structure": [
+        "Trực tiếp: わたしは ＋ 人に ＋ V受身 (しかられる・ほめられる・誘われる)",
+        "Sở hữu: わたしは ＋ 人に ＋ (đồ của mình)を ＋ V受身 (足を踏まれる・財布を盗まれる)",
+        "Gián tiếp (迷惑): わたしは ＋ 人／ものに ＋ 自動詞受身 (雨に降られる・子どもに泣かれる)"
+      ],
+      "explain": "Dùng bị động khi **người nói** (hoặc người **gần gũi về tâm lý** với người nói như mẹ, anh, con…) là bên **chịu ảnh hưởng** từ việc người khác làm. Chủ ngữ bị động giữ máy quay ở phía người đó.\n\nCó ba kiểu cần nhớ:\n\n- **Trực tiếp**: hành động nhắm thẳng vào mình. 「わたしは山田さんにドライブに誘われた」 (tôi được anh Yamada rủ đi chơi).\n- **Bị động sở hữu (持ち主の受身)**: hành động nhắm vào **đồ vật / bộ phận cơ thể** của mình. Tiếng Nhật đặt **người** làm chủ ngữ, đồ vật đi với を: 「わたしは電車で足を踏まれた」, không nói 「わたしの足は踏まれた」.\n- **Bị động gián tiếp (迷惑の受身)**: việc người khác làm (kể cả với **tự động từ**) gián tiếp gây phiền cho mình. 「雨に降られた」 (bị mưa — mưa làm mình khổ), 「夜中に赤ちゃんに泣かれた」, 「隣の人に騒がれて眠れなかった」. Tiếng Việt không có cấu trúc này — dịch là \"bị…\" kèm ý phiền toái.\n\nNhớ: bị động **không phải lúc nào cũng xấu** (ほめられる, 選ばれる, 招待される đều là việc tốt), nhưng bị động gián tiếp thì **luôn mang nghĩa phiền**.",
+      "nuance": "- Người làm hành động đi với **「に」** (không phải が, を).\n- Chủ ngữ có thể là người thân: 「母は電車の中で誰かに足を踏まれてけがをした」 — người viết đứng về phía mẹ.\n- Việc tốt người khác làm cho mình thường dùng 〜てもらう／〜てくれる (b43) tự nhiên hơn bị động.",
+      "examples": [
+        {
+          "ja": "わたしは{友人|ゆうじん}の{結婚式|けっこんしき}で{乾杯|かんぱい}のあいさつを{頼|たの}まれた。",
+          "vi": "Tôi được bạn nhờ phát biểu nâng ly ở đám cưới.",
+          "note": "Trực tiếp"
+        },
+        {
+          "ja": "{母|はは}は{旅行先|りょこうさき}のホテルでバッグを{盗|ぬす}まれたそうだ。",
+          "vi": "Nghe nói mẹ tôi bị trộm túi xách ở khách sạn trong chuyến du lịch.",
+          "note": "Sở hữu · chủ ngữ là người thân của người nói"
+        },
+        {
+          "ja": "{出|で}かけようとしたとたん{雨|あめ}に{降|ふ}られて、{予定|よてい}がすべてだめになった。",
+          "vi": "Vừa định ra ngoài thì bị mưa, thế là mọi kế hoạch hỏng hết.",
+          "note": "Gián tiếp · 自動詞 降る → 降られる"
+        },
+        {
+          "ja": "{夜中|よなか}に{赤|あか}ちゃんに{何度|なんど}も{泣|な}かれて、ほとんど{眠|ねむ}れなかった。",
+          "vi": "Nửa đêm em bé khóc mấy lần nên tôi gần như không ngủ được.",
+          "note": "Gián tiếp · 泣く → 泣かれる"
+        },
+        {
+          "ja": "{電車|でんしゃ}が{揺|ゆ}れたとき、{隣|となり}の{人|ひと}に{足|あし}を{思|おも}い{切|き}り{踏|ふ}まれた。",
+          "vi": "Lúc tàu rung lắc, tôi bị người bên cạnh giẫm mạnh vào chân.",
+          "note": "Sở hữu: わたしは〜に足を踏まれた"
+        },
+        {
+          "ja": "{試験|しけん}の{前|まえ}の{晩|ばん}に{隣|となり}の{部屋|へや}で{騒|さわ}がれて、{本当|ほんとう}に{困|こま}った。",
+          "vi": "Đêm trước hôm thi bị phòng bên làm ồn, tôi khổ sở vô cùng.",
+          "note": "Gián tiếp · 騒ぐ → 騒がれる"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜てもらう・〜てくれる (b43)",
+          "diff": "Việc tốt có lòng biết ơn: 「先輩に手伝ってもらった」. Bị động 「先輩に手伝われた」 lại nghe như bị làm phiền — không dùng."
+        },
+        {
+          "with": "Tự động từ (b40)",
+          "diff": "「財布がなくなった」 chỉ nói kết quả. 「財布を盗まれた」 nói rõ có người làm và mình là nạn nhân."
+        }
+      ],
+      "mistakes": [
+        "✗ わたしの{足|あし}は{隣|となり}の{人|ひと}に{踏|ふ}まれた。→ ○ わたしは隣の人に足を踏まれた。",
+        "✗ わたしは{泥棒|どろぼう}を{財布|さいふ}に{盗|ぬす}まれた。→ ○ 泥棒に財布を盗まれた。(người làm đi với に, đồ vật đi với を)",
+        "✗ {先輩|せんぱい}に{引|ひ}っ{越|こ}しを{手伝|てつだ}われて、{助|たす}かった。→ ○ 手伝ってもらって、助かった。"
+      ],
+      "tip": "Có **「(người / mưa…)に」** trước chỗ trống, và chủ ngữ ẩn là \"tôi\" (hoặc người nhà) chịu thiệt / chịu tác động → chọn **V-られる**."
+    },
+    {
+      "id": "b42-2",
+      "pattern": "受身②：動作主を言う必要がないとき（〜によって）",
+      "reading": "うけみ②：どうさぬしをいうひつようがないとき（〜によって）",
+      "meaning": "Chủ đề là sự vật / sự kiện, người làm không rõ hoặc không quan trọng; người tạo ra → 〜によって",
+      "structure": [
+        "N（chủ đề） ＋ は／が ＋ V受身: この寺は15世紀に建てられた",
+        "N ＋ は ＋ 人 ＋ によって ＋ V受身 (sáng tác, phát minh, phát hiện, xây dựng…)",
+        "〜と言われている・〜と考えられている・〜に愛されている (xã hội nói chung)"
+      ],
+      "explain": "Trong tin tức, lịch sử, văn giải thích, **chủ đề của câu là sự vật hoặc sự kiện** (ngôi chùa, cuốn sách, người bị thương…). Ai làm thì **không biết, không quan trọng, hoặc ai cũng biết** — nên không cần nói. Lúc đó dùng bị động để giữ sự vật làm chủ ngữ:\n\n- 「けが人はすぐに病院に運ばれた」 (người bị thương được đưa ngay đến bệnh viện — ai đưa? không quan trọng).\n- 「この寺は約八百年前に建てられた」 (ai xây? không rõ).\n- 「この祭りは毎年八月に行われる」.\n\nKhi người làm là **thông tin quan trọng đi kèm chủ đề** — thường là người **sáng tác, phát minh, phát hiện, xây dựng, truyền bá** — thì dùng **「〜によって」** thay cho 「に」: 「電話はベルによって発明された」, 「この小説は若い作家によって書かれた」.\n\nTiếng Việt cũng nói \"được xây dựng\", \"được phát minh bởi\", nên phần này khá quen. Điểm cần nhớ là **chọn によって chứ không phải に** khi nói về người tạo ra.",
+      "nuance": "- 「〜に書かれた」 (với người viết) là sai; phải 「〜によって書かれた」.\n- 「〜と言われている」「〜と考えられている」 = người ta nói / người ta cho rằng — rất hay gặp trong văn bình luận.\n- Văn trang trọng (báo, sách giáo khoa) dùng bị động kiểu này rất nhiều.",
+      "examples": [
+        {
+          "ja": "{事故|じこ}でけがをした{人|ひと}たちは、すぐに{近|ちか}くの{病院|びょういん}に{運|はこ}ばれた。",
+          "vi": "Những người bị thương trong vụ tai nạn đã được đưa ngay đến bệnh viện gần đó.",
+          "note": "Người làm không quan trọng"
+        },
+        {
+          "ja": "この{城|しろ}は{約|やく}{四百年前|よんひゃくねんまえ}に{建|た}てられ、{今|いま}も{当時|とうじ}の{姿|すがた}を{残|のこ}している。",
+          "vi": "Toà thành này được xây khoảng 400 năm trước và đến nay vẫn giữ nguyên dáng vẻ thời đó.",
+          "note": "Chủ đề là toà thành"
+        },
+        {
+          "ja": "{電話|でんわ}は{十九世紀|じゅうきゅうせいき}にベルによって{発明|はつめい}された。",
+          "vi": "Điện thoại được Bell phát minh vào thế kỷ 19.",
+          "note": "Người phát minh → によって"
+        },
+        {
+          "ja": "{次|つぎ}の{国際会議|こくさいかいぎ}は、{来年|らいねん}{大阪|おおさか}で{開|ひら}かれる{予定|よてい}だ。",
+          "vi": "Hội nghị quốc tế lần tới dự kiến được tổ chức tại Osaka vào năm sau.",
+          "note": "Tin tức · không cần nói ai tổ chức"
+        },
+        {
+          "ja": "この{地方|ちほう}では、{昔|むかし}から{質|しつ}のいい{米|こめ}が{作|つく}られてきた。",
+          "vi": "Vùng này từ xưa đến nay vẫn trồng ra loại gạo chất lượng tốt.",
+          "note": "受身 + てきた (b41)"
+        },
+        {
+          "ja": "{和食|わしょく}は{健康|けんこう}にいいと{言|い}われ、{海外|かいがい}でも{人気|にんき}が{高|たか}まっている。",
+          "vi": "Món ăn Nhật được cho là tốt cho sức khoẻ và đang ngày càng được ưa chuộng ở nước ngoài.",
+          "note": "〜と言われる = người ta nói"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜に (bị động thường)",
+          "diff": "「先生にしかられた」: người làm là người tác động trực tiếp lên chủ ngữ. 「〜によって」: người **tạo ra** sự vật, văn phong khách quan."
+        },
+        {
+          "with": "〜によって (nhờ / tùy theo)",
+          "diff": "「によって」 còn nghĩa \"tùy theo\" (人によって違う) và \"do, bởi\" (台風によって被害が出た). Trong câu bị động với động từ sáng tạo, nó chỉ người làm."
+        }
+      ],
+      "mistakes": [
+        "✗ この{寺|てら}は{十五世紀|じゅうごせいき}に{建|た}てた。→ ○ 建てられた。(chủ đề là ngôi chùa)",
+        "✗ この{小説|しょうせつ}は{夏目漱石|なつめそうせき}に{書|か}かれた。→ ○ 夏目漱石によって書かれた。"
+      ],
+      "tip": "Câu có **chủ đề là đồ vật / công trình / sự kiện** và động từ như 建てる・作る・行う・開く・発明する・書く → bị động. Thấy chỗ trống trước 「書かれた・発明された・建てられた」 với tên người → **によって**."
+    },
+    {
+      "id": "b42-3",
+      "pattern": "受身③：自発（思い出される・感じられる・思われる）",
+      "reading": "うけみ③：じはつ（おもいだされる・かんじられる・おもわれる）",
+      "meaning": "Cảm xúc, suy nghĩ tự nhiên nảy sinh, không do ý chí",
+      "structure": [
+        "N ＋ が ＋ 思い出される・感じられる・案じられる・しのばれる",
+        "〜と思われる・〜と考えられる (văn viết: \"có lẽ là…, có thể cho rằng…\")"
+      ],
+      "explain": "Một số động từ chỉ **tâm lý, suy nghĩ** (思う, 思い出す, 感じる, 考える, 案じる, しのぶ, 待つ…) ở dạng 〜られる có nghĩa \"**tự nhiên** (mà) nhớ / cảm thấy / nghĩ\", không phải mình cố ý. Gọi là **自発**.\n\n- 「この写真を見ると、学生時代のことが**思い出される**」 = nhìn bức ảnh là **tự nhiên** nhớ về thời sinh viên.\n- 「秋の夕暮れは寂しく**感じられる**」 = chiều thu **gợi cảm giác** buồn.\n- 「景気の回復にはまだ時間がかかると**思われる**」 = **có lẽ** kinh tế còn lâu mới phục hồi.\n\nĐặc điểm ngữ pháp: đối tượng của cảm xúc đi với **「が」** (không phải を), còn người cảm nhận thường **ẩn** (là người viết, hoặc người nói chung). Nhờ vậy câu nghe **khách quan, mềm mại** — rất hợp với văn tùy bút và bình luận.\n\nTiếng Việt tương đương: \"tự nhiên nhớ đến…\", \"(cái gì) gợi lên cảm giác…\", \"có vẻ như…\".",
+      "nuance": "- 「思い出す」 (chủ động: mình cố nhớ) ↔ 「思い出される」 (tự nhiên nhớ đến). Khi chỗ trống đi sau 「〜が」 với động từ tâm lý → nghĩ đến 自発.\n- 「〜と思われる」 trong bài luận là cách nêu ý kiến **khiêm tốn**, không khẳng định mạnh như 「〜と思う」.",
+      "examples": [
+        {
+          "ja": "{古|ふる}いアルバムを{開|ひら}くと、{祖父|そふ}と{過|す}ごした{夏|なつ}の{日|ひ}が{思|おも}い{出|だ}される。",
+          "vi": "Mở cuốn album cũ ra, tự nhiên tôi nhớ lại những ngày hè bên ông.",
+          "note": "N が 思い出される"
+        },
+        {
+          "ja": "この{調査|ちょうさ}の{結果|けっか}から、{若者|わかもの}の{読書離|どくしょばな}れはさらに{進|すす}むと{思|おも}われる。",
+          "vi": "Từ kết quả khảo sát này, có lẽ xu hướng giới trẻ xa rời sách vở sẽ còn tăng.",
+          "note": "〜と思われる: văn bình luận"
+        },
+        {
+          "ja": "{誰|だれ}もいない{夜|よる}の{教室|きょうしつ}は、{昼間|ひるま}よりずっと{広|ひろ}く{感|かん}じられる。",
+          "vi": "Lớp học ban đêm không một bóng người có cảm giác rộng hơn nhiều so với ban ngày.",
+          "note": "N は〜く感じられる"
+        },
+        {
+          "ja": "{一人|ひとり}で{暮|く}らしている{母|はは}の{体|からだ}のことが{案|あん}じられる。",
+          "vi": "Tôi không khỏi lo lắng cho sức khoẻ của mẹ đang sống một mình.",
+          "note": "案じられる = lo lắng (không kìm được)"
+        },
+        {
+          "ja": "{事故|じこ}の{原因|げんいん}は、{機械|きかい}の{点検|てんけん}{不足|ぶそく}だと{考|かんが}えられる。",
+          "vi": "Có thể cho rằng nguyên nhân tai nạn là do thiếu kiểm tra máy móc.",
+          "note": "〜と考えられる"
+        }
+      ],
+      "compare": [
+        {
+          "with": "思い出す／思い出される",
+          "diff": "「昔のことを思い出す」: chủ động, có thể cố ý. 「昔のことが思い出される」: tự nhiên hiện về. Chú ý trợ từ: を ↔ が."
+        },
+        {
+          "with": "Thể khả năng (考えられる)",
+          "diff": "「考えられない」 thường là khả năng phủ định (\"không thể tưởng tượng nổi\"). 「〜と考えられる」 ở thể khẳng định trong văn viết thường là 自発 / suy đoán."
+        }
+      ],
+      "mistakes": [
+        "✗ この{曲|きょく}を{聞|き}くと、{昔|むかし}の{友達|ともだち}が{思|おも}い{出|だ}す。→ ○ 昔の友達が思い出される／昔の友達を思い出す。",
+        "✗ {雨|あめ}の{音|おと}を{聞|き}いていると、{寂|さび}しく{感|かん}じさせる。→ ○ 寂しく感じられる。"
+      ],
+      "tip": "Động từ tâm lý (思う・思い出す・感じる・案じる) đứng sau **「〜が」** hoặc **「〜と」** trong văn tùy bút / bình luận → chọn dạng **〜られる (自発)**, không chọn 〜させる hay 〜させられる."
+    },
+    {
+      "id": "b42-4",
+      "pattern": "使役①：強制・許可",
+      "reading": "しえき①：きょうせい・きょか",
+      "meaning": "Bắt người khác làm (cưỡng ép) / cho phép người khác làm",
+      "structure": [
+        "強制: X(trên) は ＋ Y を／に ＋ V使役 (走らせる・書かせる)",
+        "許可: X は ＋ Y に ＋ V使役 (言わせる・選ばせる) ／ 〜させてくれる・〜させてください",
+        "自動詞: Yを／Yに 〜させる · 他動詞: Yに Nを 〜させる"
+      ],
+      "explain": "**使役 (V-させる)**: chủ ngữ là người **khiến người khác làm** một việc. Có hai nghĩa chính:\n\n- **強制 — bắt buộc**: 「監督は選手を毎日走らせた」 (huấn luyện viên bắt cầu thủ chạy mỗi ngày), 「部長は新人に報告書を書かせた」.\n- **許可 — cho phép**: 「先生は学生たちに自由に意見を言わせた」 (thầy để học sinh tự do nêu ý kiến), 「両親は妹に好きな仕事を選ばせた」. Nghĩa này hay đi với 〜てくれる／〜ていただく: 「父は留学させてくれた」, 「今日は早く帰らせていただけませんか」.\n\nChủ ngữ thường là người có **vị trí cao hơn** hoặc có **trách nhiệm** (cha mẹ, thầy, cấp trên, huấn luyện viên). Tiếng Việt dùng \"**bắt**\" hoặc \"**cho / để**\" — tiếng Nhật chỉ có một dạng させる, phải đoán nghĩa qua ngữ cảnh.\n\nQuan trọng về điểm nhìn: câu sai khiến đứng ở phía **người ra lệnh / cho phép**. Nếu đoạn văn kể từ phía người **bị bắt** (thường là \"tôi\"), hãy chuyển sang **使役受身** (b42-6): 「わたしは部長に報告書を書かされた」.",
+      "nuance": "- Không dùng 〜させる với người **trên mình**: ✗ 「部長に資料を見させた」 → ○ 「部長に資料を見ていただいた」.\n- Với tự động từ, 「Yを」 nghe ép buộc hơn, 「Yに」 nghe tôn trọng ý muốn của Y hơn.\n- 「〜させてください」 = xin phép cho mình làm.",
+      "examples": [
+        {
+          "ja": "{監督|かんとく}は{試合|しあい}に{負|ま}けた{選手|せんしゅ}たちを、{次|つぎ}の{日|ひ}から{毎朝|まいあさ}{五|ご}キロ{走|はし}らせた。",
+          "vi": "Huấn luyện viên bắt các cầu thủ thua trận chạy 5 km mỗi sáng kể từ hôm sau.",
+          "note": "強制 · 自動詞: 選手を走らせる"
+        },
+        {
+          "ja": "{部長|ぶちょう}は{新人|しんじん}に{会議|かいぎ}の{議事録|ぎじろく}を{書|か}かせた。",
+          "vi": "Trưởng phòng bắt nhân viên mới viết biên bản cuộc họp.",
+          "note": "他動詞: Yに Nを 書かせる"
+        },
+        {
+          "ja": "{父|ちち}は{反対|はんたい}せずに、わたしに{好|す}きな{大学|だいがく}を{選|えら}ばせてくれた。",
+          "vi": "Bố không phản đối mà để tôi tự chọn trường đại học mình thích.",
+          "note": "許可 + てくれる"
+        },
+        {
+          "ja": "{体調|たいちょう}がよくないので、{今日|きょう}は{早|はや}めに{帰|かえ}らせていただけませんか。",
+          "vi": "Tôi thấy không khoẻ, hôm nay cho phép tôi về sớm được không ạ?",
+          "note": "Xin phép: 〜させていただけませんか"
+        },
+        {
+          "ja": "{先生|せんせい}は{留学生|りゅうがくせい}たちに、{発表|はっぴょう}のテーマを{自由|じゆう}に{決|き}めさせた。",
+          "vi": "Cô giáo để các du học sinh tự do chọn đề tài thuyết trình.",
+          "note": "許可"
+        },
+        {
+          "ja": "{嫌|きら}いな{野菜|やさい}を{子|こ}どもに{食|た}べさせるのは、なかなか{難|むずか}しい。",
+          "vi": "Bắt trẻ con ăn loại rau chúng ghét quả là chuyện không dễ.",
+          "note": "強制"
+        }
+      ],
+      "compare": [
+        {
+          "with": "使役受身 (b42-6)",
+          "diff": "Cùng sự việc, khác điểm nhìn: 「部長は新人に議事録を書かせた」 (từ phía trưởng phòng) ↔ 「新人は部長に議事録を書かされた」 (từ phía nhân viên mới)."
+        },
+        {
+          "with": "〜てもらう",
+          "diff": "「後輩に手伝わせた」: ra lệnh, bắt làm. 「後輩に手伝ってもらった」: nhờ, và biết ơn."
+        }
+      ],
+      "mistakes": [
+        "✗ {先生|せんせい}はわたしに{作文|さくぶん}を{書|か}かせられた。→ ○ 先生はわたしに作文を書かせた。／わたしは先生に作文を書かされた。",
+        "✗ {部長|ぶちょう}に{資料|しりょう}をチェックさせた。→ ○ 部長に資料をチェックしていただいた。"
+      ],
+      "tip": "Chủ ngữ là **người trên / người có quyền** và có 「(người dưới)に／を」 → 〜させる. Nếu đoạn văn kể từ phía người dưới (\"tôi\") → chuyển sang 〜させられる."
+    },
+    {
+      "id": "b42-5",
+      "pattern": "使役②：感情・行為の原因（待たせる・心配させる・楽しませる）",
+      "reading": "しえき②：かんじょう・こういのげんいん",
+      "meaning": "Chủ ngữ là nguyên nhân khiến người khác tự nhiên nảy sinh cảm xúc / hành động",
+      "structure": [
+        "X ＋ が／は ＋ Y を ＋ 感情動詞の使役 (心配させる・驚かせる・喜ばせる・がっかりさせる・困らせる)",
+        "X が Y を 待たせる・笑わせる・泣かせる・楽しませる",
+        "X có thể là đồ vật / sự việc: 美しい景色が観光客を楽しませる"
+      ],
+      "explain": "Nghĩa thứ ba của 使役: **không ai ép buộc ai**, chỉ là **việc X làm (hoặc bản thân X) khiến Y tự nhiên** cảm thấy / làm gì đó.\n\n- 「寝坊して友達を三十分も**待たせて**しまった」 — tôi ngủ quên → bạn phải chờ (tôi không \"bắt\" bạn chờ, nhưng tôi là nguyên nhân).\n- 「遅くまで連絡せず、両親を**心配させた**」.\n- 「彼の冗談はいつもみんなを**笑わせる**」.\n- Chủ ngữ là đồ vật: 「公園のバラが訪れる人を**楽しませている**」.\n\nTiếng Việt nói \"**làm cho** / **khiến** ai…\" (làm bố mẹ lo, làm bạn phải chờ). Hay đi với 「〜てしまう」 khi người nói **áy náy** vì đã gây ra điều đó.\n\nVề điểm nhìn: khi **\"tôi\" là nguyên nhân** → dùng 使役 với chủ ngữ \"tôi\". Khi **\"tôi\" là người chịu cảm xúc** → hoặc dùng động từ thường (わたしはがっかりした), hoặc dùng 使役受身 (わたしは彼にがっかりさせられた — b42-6).",
+      "nuance": "- Người bị tác động thường đi với **「を」**: 友達を待たせる, 母を喜ばせる.\n- 「〜させてしまった」 = áy náy vì đã gây ra (待たせてしまった, 心配させてしまった).\n- Đừng nhầm với bị động: 「友達に待たれた」 gần như không dùng.",
+      "examples": [
+        {
+          "ja": "{寝坊|ねぼう}して、{友達|ともだち}を{駅|えき}で{三十分|さんじゅっぷん}も{待|ま}たせてしまった。",
+          "vi": "Tôi ngủ quên, làm bạn phải đợi ở ga những 30 phút.",
+          "note": "Tôi là nguyên nhân · てしまった = áy náy"
+        },
+        {
+          "ja": "{連絡|れんらく}もしないで{夜遅|よるおそ}く{帰|かえ}り、{両親|りょうしん}をひどく{心配|しんぱい}させた。",
+          "vi": "Tôi về khuya mà không báo, làm bố mẹ lo lắng vô cùng.",
+          "note": "心配する → 心配させる"
+        },
+        {
+          "ja": "{彼女|かのじょ}はいつも{面白|おもしろ}い{話|はなし}をして、{周|まわ}りの{人|ひと}を{笑|わら}わせている。",
+          "vi": "Cô ấy lúc nào cũng kể chuyện vui, làm mọi người xung quanh bật cười.",
+          "note": "笑う → 笑わせる"
+        },
+        {
+          "ja": "{毎年|まいとし}{春|はる}になると、{川沿|かわぞ}いの{桜|さくら}が{多|おお}くの{花見客|はなみきゃく}を{楽|たの}しませている。",
+          "vi": "Mỗi độ xuân về, hàng anh đào ven sông lại làm say lòng biết bao người đi ngắm hoa.",
+          "note": "Chủ ngữ là cảnh vật"
+        },
+        {
+          "ja": "{期待|きたい}されていたのに{結果|けっか}を{出|だ}せず、{監督|かんとく}をがっかりさせてしまった。",
+          "vi": "Được kỳ vọng vậy mà không đạt kết quả, tôi đã làm huấn luyện viên thất vọng.",
+          "note": "がっかりする → がっかりさせる"
+        },
+        {
+          "ja": "{誕生日|たんじょうび}にこっそり{帰国|きこく}して、{母|はは}を{驚|おどろ}かせた。",
+          "vi": "Tôi lén về nước đúng sinh nhật để làm mẹ bất ngờ.",
+          "note": "驚く → 驚かせる"
+        }
+      ],
+      "compare": [
+        {
+          "with": "使役① (強制)",
+          "diff": "「選手を走らせた」: ra lệnh, có ý chí. 「友達を待たせた」: không ra lệnh, chỉ là nguyên nhân."
+        },
+        {
+          "with": "Động từ cảm xúc thường",
+          "diff": "「母は驚いた」: chủ ngữ là người cảm thấy. 「わたしは母を驚かせた」: chủ ngữ là người gây ra cảm xúc. Chọn theo việc đoạn văn đang kể từ phía ai."
+        }
+      ],
+      "mistakes": [
+        "✗ {約束|やくそく}に{遅|おく}れて、{友達|ともだち}に{待|ま}たれた。→ ○ 友達を待たせた。",
+        "✗ その{知|し}らせは{家族|かぞく}を{喜|よろこ}んだ。→ ○ 家族を喜ばせた。(を + người cảm thấy → 使役)"
+      ],
+      "tip": "Có **「(người)を」 + động từ cảm xúc** (心配・驚く・喜ぶ・がっかり・困る・待つ) và chủ ngữ là người / việc gây ra → chọn **〜させる**. Có 「〜てしまった」 đi sau → càng chắc chắn."
+    },
+    {
+      "id": "b42-6",
+      "pattern": "使役受身：強制されてする・感情が引き起こされる",
+      "reading": "しえきうけみ：きょうせいされてする・かんじょうがひきおこされる",
+      "meaning": "Bị bắt phải làm trái ý mình / bị một việc khiến cho nảy sinh cảm xúc",
+      "structure": [
+        "強制: わたしは ＋ 人に ＋ V使役受身 (手伝いをさせられる・書かされる・待たされる)",
+        "感情: わたしは ＋ 人／ことに ＋ 感情動詞の使役受身 (がっかりさせられる・考えさせられる・反省させられる・驚かされる)",
+        "Dạng: nhóm 1 → 〜される (書かされる, 待たされる; trừ 〜す: 話させられる); nhóm 2 → 〜させられる; する → させられる; 来る → 来させられる"
+      ],
+      "explain": "**使役受身** = sai khiến + bị động. Chủ ngữ (thường là \"tôi\") là người **bị khiến cho** làm gì đó. Đây là cách giữ điểm nhìn ở phía \"tôi\" khi người khác **bắt** mình làm.\n\n**1. Bị ép làm điều mình không muốn** — luôn có cảm giác **khó chịu, bất đắc dĩ**:\n- 「子どものころ、毎日母に部屋の掃除をさせられた」 (bị mẹ bắt dọn phòng).\n- 「病院で二時間も待たされた」 (bị bắt chờ hai tiếng — dù không ai ra lệnh, mình phải chịu).\n- 「入社したとき、社内の規則を全部覚えさせられた」.\n\n**2. Một sự việc khiến mình nảy sinh cảm xúc / suy nghĩ** (tự nhiên, không cưỡng được):\n- 「彼の無責任な態度にはがっかりさせられた」.\n- 「この映画には、家族の大切さを考えさせられた」 (bộ phim **khiến tôi phải suy nghĩ** về…).\n- 「子どもたちの真剣な姿に反省させられた」.\n\nSo với 「がっかりした」「考えた」 thường, dạng này nhấn mạnh \"**chính sự việc kia** đã khiến tôi như vậy\" — nghe sâu sắc hơn, hay dùng trong văn tùy bút, bình luận.",
+      "nuance": "- Nghĩa 2 chủ yếu dùng cho cảm xúc **tiêu cực hoặc nghiêm túc** (がっかり, 反省, 考える, 驚く, 心配). Cảm xúc vui vẻ rất ít dùng: không nói 「楽しませられた」, mà 「楽しかった」 hoặc 「楽しませてもらった」.\n- Việc tốt người khác làm cho mình → dùng 〜させてもらう／〜させてくれる, không dùng 使役受身: ✗ 「先輩においしい料理を食べさせられて、うれしかった」.",
+      "examples": [
+        {
+          "ja": "{子|こ}どものころ、{出|で}かけるたびに{兄|あに}に{重|おも}い{荷物|にもつ}を{持|も}たされた。",
+          "vi": "Hồi nhỏ, mỗi lần đi đâu tôi đều bị anh trai bắt xách đồ nặng.",
+          "note": "持つ → 持たされる (nhóm 1, dạng ngắn)"
+        },
+        {
+          "ja": "{新人|しんじん}のころは、{興味|きょうみ}のない{飲|の}み{会|かい}に{何度|なんど}も{参加|さんか}させられた。",
+          "vi": "Hồi mới vào công ty, tôi bị bắt tham gia không biết bao nhiêu buổi nhậu mình chẳng hứng thú.",
+          "note": "する → させられる"
+        },
+        {
+          "ja": "{予約|よやく}していたのに、{病院|びょういん}で{二時間|にじかん}も{待|ま}たされた。",
+          "vi": "Đã đặt lịch rồi mà vẫn bị bắt chờ ở bệnh viện những hai tiếng.",
+          "note": "待つ → 待たされる"
+        },
+        {
+          "ja": "この{映画|えいが}を{見|み}て、{家族|かぞく}と{過|す}ごす{時間|じかん}の{大切|たいせつ}さを{考|かんが}えさせられた。",
+          "vi": "Xem bộ phim này, tôi không khỏi suy nghĩ về giá trị của thời gian bên gia đình.",
+          "note": "Cảm xúc / suy nghĩ do sự việc gây ra"
+        },
+        {
+          "ja": "{何度|なんど}も{約束|やくそく}を{破|やぶ}る{彼|かれ}の{態度|たいど}には、すっかりがっかりさせられた。",
+          "vi": "Thái độ thất hứa hết lần này đến lần khác của anh ta khiến tôi hoàn toàn thất vọng.",
+          "note": "〜には がっかりさせられた"
+        },
+        {
+          "ja": "{子|こ}どもたちが{真剣|しんけん}に{話|はな}し{合|あ}う{姿|すがた}に、{大人|おとな}のわたしの{方|ほう}が{反省|はんせい}させられた。",
+          "vi": "Nhìn bọn trẻ nghiêm túc bàn bạc với nhau, chính người lớn như tôi lại phải tự xem lại mình.",
+          "note": "反省する → 反省させられる"
+        }
+      ],
+      "compare": [
+        {
+          "with": "受身 (b42-1)",
+          "diff": "「母にしかられた」: mẹ làm hành động (mắng) lên tôi. 「母に掃除をさせられた」: mẹ bắt **tôi làm** hành động (dọn dẹp)."
+        },
+        {
+          "with": "〜させてもらう (b43)",
+          "diff": "「先生に発表させてもらった」 = được thầy cho phép thuyết trình (mình muốn, biết ơn). 「先生に発表させられた」 = bị thầy bắt thuyết trình (mình không muốn)."
+        }
+      ],
+      "mistakes": [
+        "✗ {先輩|せんぱい}においしいケーキを{食|た}べさせられて、{幸|しあわ}せだった。→ ○ 食べさせてもらって、幸せだった。",
+        "✗ {母|はは}は{子|こ}どもに{手伝|てつだ}いをさせられた。(khi mẹ là người bắt) → ○ 母は子どもに手伝いをさせた。",
+        "✗ {待|ま}たせられた (nhóm 1 thường dùng dạng ngắn) → ○ 待たされた"
+      ],
+      "tip": "Chủ ngữ là \"tôi\", có 「(người)に」, và mạch văn cho thấy **tôi không muốn** (嫌だった, 大変だった, 疲れた) → **〜させられる／〜される**. Cụm cố định hay ra đề: 考えさせられる・がっかりさせられる・待たされる."
+    }
+  ],
+  "summary": [
+    {
+      "pattern": "受身① 影響を受ける",
+      "meaning": "tôi / người nhà chịu tác động",
+      "key": "人に V-られる · 足を踏まれる · 雨に降られる"
+    },
+    {
+      "pattern": "受身② 動作主不要",
+      "meaning": "chủ đề là sự vật, không cần nói ai làm",
+      "key": "建てられた・行われる · người tạo ra → によって"
+    },
+    {
+      "pattern": "受身③ 自発",
+      "meaning": "tự nhiên nhớ / cảm thấy / nghĩ",
+      "key": "N が 思い出される・感じられる · 〜と思われる"
+    },
+    {
+      "pattern": "使役① 強制・許可",
+      "meaning": "bắt / cho phép người khác làm",
+      "key": "người trên là chủ ngữ · 〜させてくれる／させてください"
+    },
+    {
+      "pattern": "使役② 原因",
+      "meaning": "làm cho người khác cảm thấy / phải…",
+      "key": "人を 待たせる・心配させる・楽しませる"
+    },
+    {
+      "pattern": "使役受身",
+      "meaning": "bị bắt phải… / bị khiến cho…",
+      "key": "待たされる・考えさせられる · không dùng cho việc tốt"
+    }
+  ],
+  "passages": {
+    "p1": {
+      "title": "厳しかった先生",
+      "kind": "エッセイ",
+      "ja": "　{中学時代|ちゅうがくじだい}、わたしはバスケットボール{部|ぶ}に{入|はい}っていた。{顧問|こもん}の{先生|せんせい}はとても{厳|きび}しい{人|ひと}で、{練習|れんしゅう}の{最初|さいしょ}に、わたしたちは{必|かなら}ずグラウンドを{十周|じっしゅう}（　1　）。{真夏|まなつ}の{暑|あつ}い{日|ひ}も、{雪|ゆき}がちらつく{寒|さむ}い{日|ひ}も{同|おな}じだったので、{部員|ぶいん}はみんな{先生|せんせい}を{怖|こわ}がっていた。\n　ところが、{二年生|にねんせい}の{秋|あき}、{大事|だいじ}な{試合|しあい}の{一週間前|いっしゅうかんまえ}に、{先生|せんせい}は{突然|とつぜん}「{今日|きょう}からの{練習|れんしゅう}メニューは{自分|じぶん}たちで{考|かんが}えなさい」と{言|い}って、わたしたちに{練習|れんしゅう}の{内容|ないよう}をすべて（　2　）。{初|はじ}めは{戸惑|とまど}ったが、みんなで{意見|いけん}を{出|だ}し{合|あ}ううちに、チームの{雰囲気|ふんいき}が{少|すこ}しずつ{変|か}わっていった。\n　{結局|けっきょく}、その{試合|しあい}には{負|ま}けてしまった。{帰|かえ}りのバスで{泣|な}いているわたしたちに、{先生|せんせい}は「{自分|じぶん}たちでよく{考|かんが}えて{練習|れんしゅう}していた。{試合|しあい}の{結果|けっか}より、そのことがうれしい」と{言|い}った。その{一言|ひとこと}に、わたしは{先生|せんせい}の{厳|きび}しさの{本当|ほんとう}の{意味|いみ}を{改|あらた}めて（　3　）。\n　あのころ、わたしは{毎晩|まいばん}{遅|おそ}くまで{体育館|たいいくかん}に{残|のこ}って、{両親|りょうしん}をずいぶん（　4　）。それでも{何|なに}も{言|い}わずに{待|ま}っていてくれた{両親|りょうしん}にも、{今|いま}は{心|こころ}から{感謝|かんしゃ}している。",
+      "vi": "Hồi cấp hai, tôi ở trong câu lạc bộ bóng rổ. Thầy phụ trách là người rất nghiêm khắc; đầu mỗi buổi tập, chúng tôi luôn bị bắt chạy mười vòng sân. Ngày hè nóng như đổ lửa hay ngày đông lất phất tuyết cũng vậy, nên thành viên nào cũng sợ thầy.\nThế nhưng mùa thu năm lớp tám, một tuần trước trận đấu quan trọng, thầy đột nhiên bảo: \"Từ hôm nay các em tự nghĩ giáo án tập luyện đi\", rồi để chúng tôi tự quyết định toàn bộ nội dung buổi tập. Lúc đầu chúng tôi lúng túng, nhưng trong lúc cùng nhau đưa ra ý kiến, không khí của đội dần dần thay đổi.\nRốt cuộc, trận đấu ấy chúng tôi thua. Trên chuyến xe buýt về, thầy nói với đám học trò đang khóc: \"Các em đã tự suy nghĩ kỹ và tập luyện. Điều đó làm thầy vui hơn kết quả trận đấu.\" Câu nói ấy khiến tôi phải suy nghĩ lại về ý nghĩa thật sự của sự nghiêm khắc của thầy.\nHồi đó, tối nào tôi cũng ở lại nhà thi đấu đến khuya, làm bố mẹ lo lắng không ít. Đến giờ tôi vẫn biết ơn từ đáy lòng bố mẹ, những người đã lặng lẽ chờ tôi mà không nói một lời."
+    },
+    "p2": {
+      "title": "雨の日の寺",
+      "kind": "随筆",
+      "ja": "　{先月|せんげつ}、{京都|きょうと}の{北|きた}にある{小|ちい}さな{寺|てら}を{訪|たず}ねた。この{寺|てら}は{今|いま}から{八百年|はっぴゃくねん}ほど{前|まえ}に（　1　）もので、{本堂|ほんどう}の{柱|はしら}には{長|なが}い{年月|ねんげつ}の{跡|あと}がはっきりと{残|のこ}っている。\n　ところが、{山門|さんもん}をくぐったとたん、{激|はげ}しい{雨|あめ}に（　2　）。{傘|かさ}を{持|も}っていなかったので、しばらく{軒下|のきした}で{雨宿|あまやど}りをするしかなかった。すると、{若|わか}いお{坊|ぼう}さんが{声|こえ}をかけてくれ、{本堂|ほんどう}の{中|なか}に{入|い}れてくれた。\n　{本堂|ほんどう}には{古|ふる}い{仏像|ぶつぞう}がいくつも{並|なら}んでいた。{説明|せつめい}の{札|ふだ}によると、これらは{鎌倉時代|かまくらじだい}の{有名|ゆうめい}な{仏師|ぶっし}（　3　）{作|つく}られたものだという。\n　{薄暗|うすぐら}い{本堂|ほんどう}で{雨|あめ}の{音|おと}を{聞|き}いていると、{子|こ}どものころ{祖母|そぼ}に{連|つ}れられて{近所|きんじょ}の{寺|てら}に{通|かよ}った{日々|ひび}が、{自然|しぜん}と（　4　）。あのころは{退屈|たいくつ}なだけだった{寺|てら}での{時間|じかん}が、{今|いま}のわたしにはなぜかとても{大切|たいせつ}なものに（　5　）。{雨|あめ}がやむまでの{一時間|いちじかん}は、{思|おも}いがけない{贈|おく}り{物|もの}だった。",
+      "vi": "Tháng trước, tôi đến thăm một ngôi chùa nhỏ ở phía bắc Kyoto. Ngôi chùa này được xây cách đây khoảng tám trăm năm, trên những cây cột của chính điện vẫn còn in rõ dấu vết năm tháng.\nVậy mà vừa bước qua cổng chùa, tôi đã bị một trận mưa xối xả. Không mang ô, tôi chỉ còn cách đứng trú dưới mái hiên một lúc. Bỗng một vị sư trẻ cất tiếng gọi và cho tôi vào trong chính điện.\nTrong chính điện có nhiều pho tượng Phật cổ xếp hàng. Theo tấm bảng giới thiệu, những pho tượng này do một nhà tạc tượng Phật nổi tiếng thời Kamakura tạo nên.\nNgồi nghe tiếng mưa trong chính điện tranh tối tranh sáng, những ngày thơ bé được bà dẫn đến ngôi chùa gần nhà tự nhiên hiện về. Khoảng thời gian ở chùa hồi ấy tôi chỉ thấy chán ngắt, vậy mà với tôi bây giờ, không hiểu sao lại thấy vô cùng quý giá. Một tiếng đồng hồ chờ mưa tạnh hôm ấy là một món quà không ngờ."
+    }
+  },
+  "quiz": [
+    {
+      "id": "b42-q1",
+      "kind": "form",
+      "ref": "b42-1",
+      "q": "{混|こ}んだバスの{中|なか}で、{隣|となり}の{人|ひと}にぬれた{傘|かさ}でスカートを（　　）、{最悪|さいあく}の{気分|きぶん}だった。",
+      "options": [
+        "ぬらして",
+        "ぬらされて",
+        "ぬれさせて",
+        "ぬらさせて"
+      ],
+      "answer": 1,
+      "vi": "Trên chuyến xe buýt chật cứng, tôi bị người bên cạnh làm ướt váy bằng cái ô ướt, tâm trạng tồi tệ hết sức.",
+      "why": "Chủ ngữ ẩn là tôi (最悪の気分だった), người khác làm ướt **đồ của tôi** (スカートを) → bị động sở hữu **ぬらされて**. 「ぬらして」: tôi làm ướt — không hợp với 「隣の人に」. 「ぬれさせて」「ぬらさせて」 là sai khiến — tôi bắt ai đó làm ướt, sai nghĩa."
+    },
+    {
+      "id": "b42-q2",
+      "kind": "form",
+      "ref": "b42-2",
+      "q": "この{小説|しょうせつ}は{世界|せかい}{三十|さんじゅう}か{国|こく}{以上|いじょう}の{言葉|ことば}に（　　）いる。",
+      "options": [
+        "翻訳して",
+        "翻訳させて",
+        "翻訳されて",
+        "翻訳させられて"
+      ],
+      "answer": 2,
+      "vi": "Cuốn tiểu thuyết này đã được dịch ra ngôn ngữ của hơn 30 nước.",
+      "why": "Chủ đề là cuốn tiểu thuyết, ai dịch không quan trọng → bị động **翻訳されて**いる. 「翻訳して」: cuốn sách tự dịch — vô lý. 「翻訳させて」: sách bắt ai dịch. 「翻訳させられて」: sách bị bắt phải dịch — đều sai."
+    },
+    {
+      "id": "b42-q3",
+      "kind": "form",
+      "ref": "b42-3",
+      "q": "{戦争|せんそう}を{描|えが}いたこの{絵|え}からは、{作者|さくしゃ}の{強|つよ}い{怒|いか}りが（　　）。",
+      "options": [
+        "感じられる",
+        "感じる",
+        "感じさせる",
+        "感じさせられる"
+      ],
+      "answer": 0,
+      "vi": "Từ bức tranh vẽ về chiến tranh này, người xem cảm nhận được nỗi giận dữ mãnh liệt của tác giả.",
+      "why": "Đối tượng cảm nhận đi với **「が」** (怒りが), người cảm nhận ẩn (người xem nói chung) → 自発 **感じられる**. 「感じる」 cần chủ ngữ là người và 「を」. 「感じさせる」 cần 「を」 (この絵は怒りを感じさせる). 「感じさせられる」: nỗi giận bị khiến cảm thấy — vô nghĩa."
+    },
+    {
+      "id": "b42-q4",
+      "kind": "form",
+      "ref": "b42-4",
+      "q": "{監督|かんとく}は、{試合|しあい}でミスを{続|つづ}けた{選手|せんしゅ}たちに、{夜|よる}{遅|おそ}くまで{守備|しゅび}の{練習|れんしゅう}を（　　）。",
+      "options": [
+        "された",
+        "させられた",
+        "してもらった",
+        "させた"
+      ],
+      "answer": 3,
+      "vi": "Huấn luyện viên bắt các cầu thủ liên tục mắc lỗi trong trận tập phòng ngự đến tận khuya.",
+      "why": "Chủ ngữ là **監督** (người trên), người làm là 選手たち (đi với に), nghĩa ép buộc → **させた**. 「された」 = huấn luyện viên bị (ai) làm. 「させられた」 = huấn luyện viên bị bắt tập. 「してもらった」 = được cầu thủ làm giúp — không hợp với việc tập luyện do lỗi."
+    },
+    {
+      "id": "b42-q5",
+      "kind": "form",
+      "ref": "b42-5",
+      "q": "{寝坊|ねぼう}して、{雨|あめ}の{中|なか}、{友達|ともだち}を{一時間|いちじかん}も（　　）しまった。",
+      "options": [
+        "待って",
+        "待たれて",
+        "待たせて",
+        "待たされて"
+      ],
+      "answer": 2,
+      "vi": "Tôi ngủ quên, để bạn phải đợi dưới mưa những một tiếng đồng hồ.",
+      "why": "Tôi (ngủ quên) là **nguyên nhân** khiến bạn phải chờ, có 「友達を」 → 使役 **待たせて**しまった (áy náy). 「待って」: tôi chờ bạn — trái với việc tôi ngủ quên. 「待たれて」 gần như không dùng. 「待たされて」: tôi bị bắt chờ — ngược vai."
+    },
+    {
+      "id": "b42-q6",
+      "kind": "form",
+      "ref": "b42-6",
+      "q": "{子|こ}どものころ、{毎朝|まいあさ}{母|はは}に{苦手|にがて}な{牛乳|ぎゅうにゅう}を（　　）、{本当|ほんとう}に{嫌|いや}だった。",
+      "options": [
+        "飲ませて",
+        "飲まされて",
+        "飲まれて",
+        "飲んであげて"
+      ],
+      "answer": 1,
+      "vi": "Hồi nhỏ, sáng nào tôi cũng bị mẹ bắt uống sữa — thứ tôi rất ghét — thật sự khổ sở.",
+      "why": "Chủ ngữ là tôi (嫌だった), mẹ là người bắt (「母に」), tôi không muốn → 使役受身 **飲まされて**. 「飲ませて」: tôi bắt mẹ uống — ngược vai. 「飲まれて」: sữa bị mẹ uống mất (bị động gián tiếp) — không hợp với 「苦手な」. 「飲んであげて」: uống giúp mẹ — sai nghĩa."
+    },
+    {
+      "id": "b42-q7",
+      "kind": "usage",
+      "ref": "b42-1",
+      "q": "{受身|うけみ}の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "わたしは喫茶店で隣の席の人にたばこを吸われて、とても迷惑だった。",
+        "わたしは先生に宿題を忘れられて、しかられた。",
+        "母はわたしに誕生日の料理を作られて、とても喜んだ。",
+        "弟は駅前で自転車を盗んで、とても困っていた。"
+      ],
+      "answer": 0,
+      "vi": "(1) Tôi bị người ngồi bàn bên hút thuốc trong quán cà phê, thật là phiền.",
+      "why": "(1) bị động gián tiếp (迷惑) với chủ ngữ là tôi → đúng. (2) người quên bài tập là tôi → 「宿題を忘れて、先生にしかられた」. (3) việc tốt tôi làm cho mẹ → 「わたしが作った料理を、母はとても喜んだ」 (hoặc 〜てあげた). (4) em tôi là nạn nhân → 「自転車を盗まれて」."
+    }
+  ],
+  "practice": [
+    {
+      "id": "b42-p1",
+      "kind": "passage",
+      "ref": "b42-6",
+      "pass": "p1",
+      "q": "（　1　）に{入|はい}るものはどれか。",
+      "options": [
+        "走らせた",
+        "走られた",
+        "走らされた",
+        "走らせてもらった"
+      ],
+      "answer": 2,
+      "vi": "…đầu mỗi buổi tập, chúng tôi luôn bị bắt chạy mười vòng sân.",
+      "why": "Chủ ngữ là **わたしたち**, thầy rất nghiêm (厳しい人), mọi người sợ thầy → bị ép chạy = 使役受身 **走らされた**. 「走らせた」: chúng tôi bắt (ai) chạy — sai vai. 「走られた」: bị (ai) chạy làm phiền — vô nghĩa. 「走らせてもらった」: chúng tôi xin được chạy — trái với 「怖がっていた」."
+    },
+    {
+      "id": "b42-p2",
+      "kind": "passage",
+      "ref": "b42-4",
+      "pass": "p1",
+      "q": "（　2　）に{入|はい}るものはどれか。",
+      "options": [
+        "決めさせた",
+        "決められた",
+        "決めさせられた",
+        "決まらせた"
+      ],
+      "answer": 0,
+      "vi": "…rồi để chúng tôi tự quyết định toàn bộ nội dung buổi tập.",
+      "why": "Chủ ngữ là **先生は** (…と言って), thầy **cho phép** học trò tự quyết (「自分たちで考えなさい」) → 使役 (許可) **決めさせた**. 「決められた」: thầy bị (ai) quyết định — sai. 「決めさせられた」: thầy bị bắt quyết định — sai vai. 「決まらせた」 không phải dạng đúng (決まる là 自動詞, không đi với 内容を)."
+    },
+    {
+      "id": "b42-p3",
+      "kind": "passage",
+      "ref": "b42-6",
+      "pass": "p1",
+      "q": "（　3　）に{入|はい}るものはどれか。",
+      "options": [
+        "考えさせた",
+        "考えられた",
+        "考えさせてあげた",
+        "考えさせられた"
+      ],
+      "answer": 3,
+      "vi": "Câu nói ấy khiến tôi phải suy nghĩ lại về ý nghĩa thật sự của sự nghiêm khắc của thầy.",
+      "why": "「その一言に、わたしは…」: câu nói của thầy là nguyên nhân, \"tôi\" là người bị khiến cho suy nghĩ → 使役受身 (cảm xúc / suy nghĩ) **考えさせられた**. 「考えさせた」: tôi bắt ai suy nghĩ — sai vai. 「考えられた」 (khả năng / 自発) không đi với 「その一言に、わたしは〜を」. 「考えさせてあげた」: tôi cho ai suy nghĩ — vô lý."
+    },
+    {
+      "id": "b42-p4",
+      "kind": "passage",
+      "ref": "b42-5",
+      "pass": "p1",
+      "q": "（　4　）に{入|はい}るものはどれか。",
+      "options": [
+        "心配した",
+        "心配させた",
+        "心配された",
+        "心配させられた"
+      ],
+      "answer": 1,
+      "vi": "Hồi đó, tối nào tôi cũng ở lại nhà thi đấu đến khuya, làm bố mẹ lo lắng không ít.",
+      "why": "Tôi về khuya → **nguyên nhân** khiến bố mẹ lo; có 「両親を」 → 使役 **心配させた**. 「心配した」: tôi lo cho bố mẹ — không phải hệ quả của việc mình về khuya. 「心配された」 phải đi với 「両親に」, không phải 「を」. 「心配させられた」: tôi bị bố mẹ khiến cho lo — ngược vai."
+    },
+    {
+      "id": "b42-p5",
+      "kind": "form",
+      "ref": "b42-1",
+      "q": "{大切|たいせつ}にしまっておいた{日記|にっき}を{弟|おとうと}に{勝手|かって}に（　　）、{本気|ほんき}で{腹|はら}が{立|た}った。",
+      "options": [
+        "読んで",
+        "読ませて",
+        "読まされて",
+        "読まれて"
+      ],
+      "answer": 3,
+      "vi": "Bị em trai tự ý đọc cuốn nhật ký tôi cất kỹ, tôi tức điên lên.",
+      "why": "Tôi tức giận (chủ ngữ), em trai làm hành động với **đồ của tôi** (日記を), 「弟に」 → bị động **読まれて**. 「読んで」: tôi đọc — không hợp với 「弟に」 và 「勝手に」. 「読ませて」: tôi cho em đọc — trái với việc tức giận. 「読まされて」: tôi bị bắt đọc nhật ký của mình — vô lý."
+    },
+    {
+      "id": "b42-p6",
+      "kind": "form",
+      "ref": "b42-2",
+      "q": "{来年|らいねん}{完成|かんせい}する{新|あたら}しい{美術館|びじゅつかん}は、{世界的|せかいてき}に{有名|ゆうめい}な{建築家|けんちくか}（　　）{設計|せっけい}された。",
+      "options": [
+        "にとって",
+        "によって",
+        "に対して",
+        "について"
+      ],
+      "answer": 1,
+      "vi": "Bảo tàng mỹ thuật mới sẽ hoàn thành vào năm sau được thiết kế bởi một kiến trúc sư nổi tiếng thế giới.",
+      "why": "Bị động với động từ sáng tạo (設計する), người tạo ra là thông tin quan trọng → **によって**. 「にとって」 = đối với (ai đó, về mặt đánh giá). 「に対して」 = đối với / trái lại. 「について」 = về (chủ đề). Ba từ này không chỉ người làm hành động."
+    },
+    {
+      "id": "b42-p7",
+      "kind": "form",
+      "ref": "b42-5",
+      "q": "{山田|やまだ}さんはいつも{冗談|じょうだん}を{言|い}って、{会議|かいぎ}の{重|おも}い{雰囲気|ふんいき}を{和|やわ}らげ、{周|まわ}りの{人|ひと}を（　　）。",
+      "options": [
+        "笑われている",
+        "笑わされている",
+        "笑わせている",
+        "笑ってもらっている"
+      ],
+      "answer": 2,
+      "vi": "Anh Yamada lúc nào cũng nói đùa, làm dịu bầu không khí nặng nề của cuộc họp và khiến mọi người xung quanh bật cười.",
+      "why": "Anh Yamada (chủ ngữ) là **nguyên nhân** khiến mọi người cười, có 「周りの人を」 → **笑わせている**. 「笑われている」: anh ấy bị mọi người cười chê — sai nghĩa và trợ từ. 「笑わされている」: anh ấy bị khiến phải cười — ngược vai. 「笑ってもらっている」 phải đi với 「人に」 và nghĩa là nhờ người ta cười."
+    },
+    {
+      "id": "b42-p8",
+      "kind": "form",
+      "ref": "b42-6",
+      "q": "{楽|たの}しみにしていた{映画|えいが}だったが、{話|はなし}の{展開|てんかい}があまりにも{単純|たんじゅん}で、{正直|しょうじき}（　　）。",
+      "options": [
+        "がっかりさせた",
+        "がっかりされた",
+        "がっかりさせてあげた",
+        "がっかりさせられた"
+      ],
+      "answer": 3,
+      "vi": "Đó là bộ phim tôi rất mong chờ, nhưng cốt truyện đơn giản quá, nói thật là tôi thất vọng.",
+      "why": "Chủ ngữ ẩn là tôi (楽しみにしていた), bộ phim là nguyên nhân khiến tôi thất vọng → 使役受身 **がっかりさせられた**. 「がっかりさせた」: tôi làm ai đó thất vọng — sai vai. 「がっかりされた」: tôi bị người khác thất vọng về mình. 「がっかりさせてあげた」 vô lý."
+    },
+    {
+      "id": "b42-p9",
+      "kind": "order",
+      "ref": "b42-4",
+      "q": "{部長|ぶちょう}は、{経験|けいけん}の{浅|あさ}い ＿＿＿ ＿＿＿ ★ ＿＿＿ くれた。",
+      "options": [
+        "企画の",
+        "リーダーを",
+        "わたしにも",
+        "やらせて"
+      ],
+      "order": [
+        2,
+        0,
+        1,
+        3
+      ],
+      "answer": 1,
+      "vi": "Trưởng phòng đã cho cả một người còn ít kinh nghiệm như tôi làm trưởng nhóm dự án.",
+      "why": "部長は、経験の浅い **わたしにも 企画の リーダーを やらせて** くれた → ★ (ô thứ 3) = 「リーダーを」. 「経験の浅い」 chỉ bổ nghĩa được cho 「わたし」 nên 「わたしにも」 đứng đầu; 「企画の」 phải đứng ngay trước 「リーダーを」; 「やらせて」 nối với 「くれた」. 使役 (許可) + てくれる: được người trên cho phép làm."
+    },
+    {
+      "id": "b42-p10",
+      "kind": "order",
+      "ref": "b42-6",
+      "q": "{子|こ}どものころは、{毎週|まいしゅう}{母|はは}にピアノの ＿＿＿ ★ ＿＿＿ ＿＿＿ たまらなかった。",
+      "options": [
+        "のが",
+        "練習を",
+        "させられる",
+        "嫌で"
+      ],
+      "order": [
+        1,
+        2,
+        0,
+        3
+      ],
+      "answer": 2,
+      "vi": "Hồi nhỏ, việc tuần nào cũng bị mẹ bắt tập piano khiến tôi ghét vô cùng.",
+      "why": "子どものころは、毎週母にピアノの **練習を させられる のが 嫌で** たまらなかった → ★ (ô thứ 2) = 「させられる」. 「ピアノの」 phải nối với 「練習を」; 使役受身 của する là させられる; 「〜のが嫌でたまらない」 là khuôn cố định."
+    },
+    {
+      "id": "b42-p11",
+      "kind": "usage",
+      "ref": "b42-6",
+      "q": "{使役受身|しえきうけみ}の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "先輩においしいケーキを食べさせられて、とても幸せだった。",
+        "部長に急に出張に行かされて、週末の予定がだめになった。",
+        "わたしは弟に宿題を手伝わされてあげた。",
+        "彼の素晴らしい演奏に、わたしは深く感動させた。"
+      ],
+      "answer": 1,
+      "vi": "(2) Bị trưởng phòng đột ngột bắt đi công tác, kế hoạch cuối tuần của tôi đổ bể.",
+      "why": "(2) bị ép làm việc mình không muốn (予定がだめになった) → 「行かされて」 đúng. (1) việc tốt, mình vui → 「食べさせてもらって」. (3) 使役受身 không ghép với 〜てあげる. (4) tôi là người cảm động → 「感動した」 (hoặc 「感動させられた」), không phải 「感動させた」."
+    },
+    {
+      "id": "b42-p12",
+      "kind": "usage",
+      "ref": "b42-3",
+      "q": "{受身|うけみ}の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "このお寺は、今から六百年前に建てた。",
+        "その本は今でも多くの若者に読ませている。",
+        "雨の音を聞いていると、なんだか寂しく感じさせる。",
+        "この写真を見ると、故郷の家族のことが思い出される。"
+      ],
+      "answer": 3,
+      "vi": "(4) Nhìn bức ảnh này, tôi tự nhiên nhớ đến gia đình ở quê.",
+      "why": "(4) 自発: 「〜が思い出される」 → đúng. (1) chủ đề là ngôi chùa → 「建てられた」. (2) chủ đề là cuốn sách, nhiều người đọc → 「読まれている」. (3) cảm xúc tự nhiên nảy sinh → 「寂しく感じられる」."
+    }
+  ],
+  "test": [
+    {
+      "id": "b42-t1",
+      "kind": "passage",
+      "ref": "b42-2",
+      "pass": "p2",
+      "q": "（　1　）に{入|はい}るものはどれか。",
+      "options": [
+        "建てた",
+        "建てられた",
+        "建たせた",
+        "建てさせられた"
+      ],
+      "answer": 1,
+      "vi": "Ngôi chùa này được xây cách đây khoảng tám trăm năm…",
+      "why": "Chủ đề là **この寺は**, ai xây không rõ / không quan trọng → bị động **建てられた**. 「建てた」: ngôi chùa tự xây — vô lý. 「建たせた」 sai hình thức (建つ là 自動詞). 「建てさせられた」: chùa bị bắt xây — vô nghĩa."
+    },
+    {
+      "id": "b42-t2",
+      "kind": "passage",
+      "ref": "b42-1",
+      "pass": "p2",
+      "q": "（　2　）に{入|はい}るものはどれか。",
+      "options": [
+        "降った",
+        "降らせた",
+        "降らされた",
+        "降られた"
+      ],
+      "answer": 3,
+      "vi": "Vậy mà vừa bước qua cổng chùa, tôi đã bị một trận mưa xối xả.",
+      "why": "Chủ ngữ ẩn là tôi (くぐったとたん, 傘を持っていなかった), mưa gây phiền cho tôi, có 「雨に」 → bị động gián tiếp **降られた**. 「降った」 cần 「雨が」. 「降らせた」: tôi làm cho mưa rơi — vô lý. 「降らされた」: tôi bị bắt phải mưa — vô nghĩa."
+    },
+    {
+      "id": "b42-t3",
+      "kind": "passage",
+      "ref": "b42-2",
+      "pass": "p2",
+      "q": "（　3　）に{入|はい}るものはどれか。",
+      "options": [
+        "によって",
+        "にとって",
+        "に対して",
+        "にかけて"
+      ],
+      "answer": 0,
+      "vi": "…những pho tượng này do một nhà tạc tượng Phật nổi tiếng thời Kamakura tạo nên.",
+      "why": "Bị động với động từ tạo ra (作られた), người tạo ra là thông tin quan trọng → **によって**. 「にとって」 = đối với (đánh giá). 「に対して」 = đối với / trái lại. 「にかけて」 = trải suốt (khoảng thời gian / không gian)."
+    },
+    {
+      "id": "b42-t4",
+      "kind": "passage",
+      "ref": "b42-3",
+      "pass": "p2",
+      "q": "（　4　）に{入|はい}るものはどれか。",
+      "options": [
+        "思い出した",
+        "思い出させた",
+        "思い出された",
+        "思い出させられた"
+      ],
+      "answer": 2,
+      "vi": "…những ngày thơ bé được bà dẫn đến ngôi chùa gần nhà tự nhiên hiện về.",
+      "why": "Đối tượng đi với **「が」** (日々が) và có 「自然と」 → 自発 **思い出された**. 「思い出した」 cần 「日々を」. 「思い出させた」: những ngày đó khiến ai nhớ — cần 「を」 và người bị tác động. 「思い出させられた」 sai cấu trúc với chủ ngữ 日々."
+    },
+    {
+      "id": "b42-t5",
+      "kind": "passage",
+      "ref": "b42-3",
+      "pass": "p2",
+      "q": "（　5　）に{入|はい}るものはどれか。",
+      "options": [
+        "感じさせる",
+        "感じさせられる",
+        "感じた",
+        "感じられる"
+      ],
+      "answer": 3,
+      "vi": "…vậy mà với tôi bây giờ, không hiểu sao lại thấy vô cùng quý giá.",
+      "why": "Chủ ngữ là **時間が** (sự vật), người cảm nhận đi với **「わたしには」** → khuôn 自発 「XにはYが〜に感じられる」: **感じられる**. 「感じた」: 感じる không đi với 「〜には」 (phải là 「わたしは〜を感じた」), thì quá khứ cũng lệch với 「今のわたしには」. 「感じさせる」 = (cái gì) khiến người khác cảm thấy — không nói về cảm nhận của 「わたしには」. 「感じさせられる」 sai chủ ngữ (thời gian không bị khiến cảm thấy)."
+    },
+    {
+      "id": "b42-t6",
+      "kind": "form",
+      "ref": "b42-4",
+      "q": "{山本先生|やまもとせんせい}は、{授業|じゅぎょう}の{最後|さいご}の{十分間|じっぷんかん}で、{留学生|りゅうがくせい}たちに{自由|じゆう}に{意見|いけん}を（　　）。",
+      "options": [
+        "言われた",
+        "言わせた",
+        "言わされた",
+        "言わせられた"
+      ],
+      "answer": 1,
+      "vi": "Thầy Yamamoto dành mười phút cuối giờ để các du học sinh tự do phát biểu ý kiến.",
+      "why": "Chủ ngữ là thầy (người trên), 「留学生たちに」 là người làm, 「自由に」 → 使役 (許可) **言わせた**. 「言われた」: thầy bị (du học sinh) nói. 「言わされた」「言わせられた」: thầy bị bắt nói — đều ngược vai."
+    },
+    {
+      "id": "b42-t7",
+      "kind": "order",
+      "ref": "b42-5",
+      "q": "{高校生|こうこうせい}のころ、 ＿＿＿ ＿＿＿ ★ ＿＿＿ ことがある。",
+      "options": [
+        "心配させた",
+        "帰らずに",
+        "夜遅くまで",
+        "両親を"
+      ],
+      "order": [
+        2,
+        1,
+        3,
+        0
+      ],
+      "answer": 3,
+      "vi": "Hồi cấp ba, có lần tôi không về nhà đến tận khuya, làm bố mẹ lo lắng.",
+      "why": "高校生のころ、**夜遅くまで 帰らずに 両親を 心配させた** ことがある → ★ (ô thứ 3) = 「両親を」. 使役 chỉ nguyên nhân: tôi khiến bố mẹ lo; 「両親を」 đứng ngay trước 「心配させた」."
+    },
+    {
+      "id": "b42-t8",
+      "kind": "usage",
+      "ref": "b42-4",
+      "q": "{使役|しえき}の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "その会社の社長は、社員に毎日遅くまで残業させているらしい。",
+        "わたしは先生に作文を三回も書き直させて、大変だった。",
+        "母はわたしに部屋の掃除をさせられて、怒っていた。",
+        "その店員は、お客さんを長い時間待たされた。"
+      ],
+      "answer": 0,
+      "vi": "(1) Nghe nói giám đốc công ty đó ngày nào cũng bắt nhân viên làm thêm đến khuya.",
+      "why": "(1) chủ ngữ là người trên (社長), bắt người dưới (社員に) làm → 「残業させている」 đúng. (2) tôi là người bị bắt viết lại (大変だった) → 「書き直させられて」. (3) mẹ là người bắt → 「母はわたしに掃除をさせた」. (4) nhân viên là nguyên nhân, có 「お客さんを」 → 「待たせた」."
+    }
+  ]
+}

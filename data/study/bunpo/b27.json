@@ -1,0 +1,1410 @@
+{
+  "id": "b27",
+  "track": "bunpo",
+  "intro": "Bài này không có mẫu \"mới tinh\" nhiều — nó là bài **ôn tập theo một góc nhìn mới**: rất nhiều mẫu ngữ pháp N2 thực chất là **một động từ bình thường bị \"đóng băng\" thành mẫu**. Chỉ cần biết nghĩa gốc của động từ, bạn có thể đoán ra nghĩa ngữ pháp mà không cần học thuộc.\n\n- 「{渡|わた}る」 = đi qua (cầu, sông) → 「〜にわたって」 = **trải suốt** một khoảng.\n- 「{通|とお}す／{通|つう}じる」 = xuyên qua, thông suốt → 「〜を通して／を通じて」 = **qua trung gian**, hoặc **suốt** cả thời gian.\n- 「{巡|めぐ}る」 = đi vòng quanh → 「〜をめぐって」 = (tranh cãi) **xoay quanh** một vấn đề.\n- 「{沿|そ}う」 = men theo → 「〜に沿って」 = **dọc theo / làm đúng theo**.\n- 「{基|もと}づく」 = đặt trên nền → 「〜に基づいて」 = **căn cứ vào**.\n- 「{伴|ともな}う」 = đi kèm, 「{連|つ}れる」 = dẫn theo, 「{従|したが}う」 = đi theo → các mẫu **A thay đổi kéo B thay đổi theo**.\n\n**Ba quy luật giúp làm đề:**\n1. **Trợ từ**: đa số đi với 「に」 (に対して, に関して, に沿って…). Riêng 「を通じて／を通して／をめぐって」 đi với 「を」 vì danh từ là **thứ bị đi xuyên qua / đi vòng quanh** (tân ngữ).\n2. **Chúng vẫn chia như động từ**: dạng て (に基づいて) ↔ dạng nối văn viết (に基づき), và khi đứng trước danh từ thì dùng thể る／た hoặc 「〜ての」: に関する{調査|ちょうさ}, に基づいた{判断|はんだん}, に対しての{意見|いけん}, にわたる{工事|こうじ}, をめぐる{争|あらそ}い. Đề 問題7 rất hay hỏi đúng chỗ này.\n3. **Hai mẫu mới** của bài: 「〜において」 (gốc 「{於|お}く」 — động từ cổ, ngày nay không dùng nữa, nên chỉ cần học như một khối) và 「〜に{先立|さきだ}って」 (先 + 立つ = đứng trước).\n\nCác mẫu đã học ở 1課–16課: mỗi mục có ghi \"xem …課\" để bạn quay lại khi cần; ở đây ta tập trung vào **mối liên hệ với động từ gốc** và những điểm dễ nhầm giữa các mẫu.",
+  "points": [
+    {
+      "id": "b27-1",
+      "pattern": "〜に際して・〜にあたって",
+      "reading": "〜にさいして・〜にあたって",
+      "meaning": "Nhân dịp, khi bắt tay vào (một việc quan trọng) — gốc 際する・当たる",
+      "structure": [
+        "N ＋ に際して／にあたって",
+        "V辞書形 ＋ に際して／にあたって",
+        "に際し／にあたり (văn viết)",
+        "に際しての N／にあたっての N"
+      ],
+      "explain": "Đã học ở 1課. Ở đây hãy nhìn vào **động từ gốc**:\n\n- 「{際|さい}する」 = gặp đúng (một dịp, một thời điểm). → 「〜に際して」 = **đúng vào dịp** 〜.\n- 「{当|あ}たる」 = chạm vào, đối mặt (日が当たる = nắng chiếu vào; {難問|なんもん}に当たる = đối mặt với bài toán khó). → 「〜にあたって」 = **khi đứng trước / bắt tay vào** 〜, nên vế sau hay là sự **chuẩn bị, quyết tâm, lời chào**.\n\nCả hai đi với **sự kiện quan trọng, mang tính bước ngoặt**: 開会, 卒業, 就任, 出発, 出版, 契約, 新年度… Vì gốc là động từ nên có dạng nối văn viết 「に際し／にあたり」 và dạng bổ nghĩa danh từ 「に際しての N／にあたっての N」.",
+      "nuance": "Rất trang trọng (diễn văn, văn bản, lời chào). Không dùng cho việc vặt hằng ngày. Trong đề N2 hai mẫu gần như thay được cho nhau.",
+      "examples": [
+        {
+          "ja": "{新年度|しんねんど}を{迎|むか}えるにあたって、{各部署|かくぶしょ}の{目標|もくひょう}を{見直|みなお}した。",
+          "vi": "Trước thềm năm tài chính mới, chúng tôi đã xem lại mục tiêu của từng bộ phận.",
+          "note": "V辞書形 + にあたって · vế sau là sự chuẩn bị"
+        },
+        {
+          "ja": "{帰国|きこく}に{際|さい}して、ホストファミリーに{感謝|かんしゃ}の{手紙|てがみ}を{書|か}いた。",
+          "vi": "Nhân dịp về nước, tôi đã viết thư cảm ơn gia đình bản xứ.",
+          "note": "N + に際して"
+        },
+        {
+          "ja": "{本書|ほんしょ}の{出版|しゅっぱん}にあたり、{多|おお}くの{方|かた}にご{協力|きょうりょく}いただきました。",
+          "vi": "Nhân dịp xuất bản cuốn sách này, chúng tôi đã nhận được sự giúp đỡ của rất nhiều người.",
+          "note": "にあたり = dạng văn viết"
+        },
+        {
+          "ja": "{工事|こうじ}{開始|かいし}に{際|さい}しての{住民|じゅうみん}{説明会|せつめいかい}は、{来週|らいしゅう}{行|おこな}われる{予定|よてい}だ。",
+          "vi": "Buổi giải thích cho cư dân nhân dịp khởi công dự kiến sẽ được tổ chức vào tuần sau.",
+          "note": "に際しての + N"
+        },
+        {
+          "ja": "{一人暮|ひとりぐ}らしを{始|はじ}めるにあたって、{家計簿|かけいぼ}をつけることにした。",
+          "vi": "Khi bắt đầu sống một mình, tôi quyết định ghi sổ chi tiêu.",
+          "note": "Bước ngoặt cá nhân cũng được, vế sau là quyết tâm"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜際(に) (xem 1課)",
+          "diff": "「際」 = \"khi\" trang trọng, dùng cả cho việc lặp lại (お{降|お}りの際). 「に際して／にあたって」 chỉ dùng cho **dịp đặc biệt**."
+        },
+        {
+          "with": "〜に先立って (trong bài này)",
+          "diff": "「に先立って」 nhấn mạnh **thứ tự**: B làm **trước** khi A diễn ra. 「にあたって」 nhấn mạnh **tâm thế** khi đứng trước A."
+        }
+      ],
+      "mistakes": [
+        "✗ {毎朝|まいあさ}{顔|かお}を{洗|あら}うにあたって、{石|せっ}けんを{使|つか}う。→ việc hằng ngày, dùng 「とき」.",
+        "✗ {卒業|そつぎょう}にあたっての、{先生|せんせい}に{挨拶|あいさつ}した。→ ○ 卒業にあたって、… (「〜ての」 chỉ dùng khi ngay sau là danh từ)"
+      ],
+      "tip": "Trước chỗ trống là danh từ sự kiện lớn (開店・就任・出発・契約) và vế sau là lời chào / chuẩn bị → 「に際して／にあたって」."
+    },
+    {
+      "id": "b27-2",
+      "pattern": "〜にわたって",
+      "reading": "〜にわたって",
+      "meaning": "Trải suốt, kéo dài suốt (một khoảng thời gian / không gian / phạm vi) — gốc 渡る",
+      "structure": [
+        "N(khoảng thời gian・phạm vi) ＋ にわたって／にわたり",
+        "N ＋ にわたる N／にわたった N"
+      ],
+      "explain": "「{渡|わた}る」 = đi qua từ bờ này sang bờ kia ({橋|はし}を渡る, {海|うみ}を渡る). Hãy hình dung **một cây cầu bắc ngang suốt cả quãng**: 「10年にわたって」 = suốt 10 năm, từ đầu đến cuối; 「全国にわたって」 = trải khắp cả nước.\n\nVì thế danh từ đứng trước phải là **một khoảng có độ dài / độ rộng**: 3時間, 10年間, 長期間, 全国, 広い範囲, 多方面, 5回, 全ページ, 「AからBに」…\n\nVế sau thường là việc diễn ra **trên quy mô lớn, kéo dài** (工事, 調査, 雨, 会議, 活躍…). Người nói muốn nhấn mạnh: \"lâu / rộng thật đấy\".",
+      "nuance": "Văn viết, tin tức, báo cáo. Không đi với một **thời điểm** (3時, 月曜日) hay khoảng quá nhỏ, tầm thường (ちょっとの間).",
+      "examples": [
+        {
+          "ja": "{台風|たいふう}の{影響|えいきょう}で、{九州|きゅうしゅう}から{東北|とうほく}にわたる{広|ひろ}い{地域|ちいき}で{大雨|おおあめ}となった。",
+          "vi": "Do ảnh hưởng của bão, mưa lớn đã xảy ra trên một vùng rộng trải từ Kyushu đến Tohoku.",
+          "note": "AからBにわたる + N"
+        },
+        {
+          "ja": "{会議|かいぎ}は5{時間|じかん}にわたって{続|つづ}いたが、{結論|けつろん}は{出|で}なかった。",
+          "vi": "Cuộc họp kéo dài suốt 5 tiếng nhưng vẫn không đi đến kết luận.",
+          "note": "Nhấn mạnh \"lâu thật\""
+        },
+        {
+          "ja": "この{本|ほん}は、20{年|ねん}にわたる{調査|ちょうさ}の{結果|けっか}をまとめたものだ。",
+          "vi": "Cuốn sách này tổng hợp kết quả của cuộc điều tra kéo dài 20 năm.",
+          "note": "にわたる + N"
+        },
+        {
+          "ja": "{手術|しゅじゅつ}は{長時間|ちょうじかん}にわたり、{家族|かぞく}は{待合室|まちあいしつ}で{祈|いの}り{続|つづ}けた。",
+          "vi": "Ca phẫu thuật kéo dài rất lâu, gia đình cứ cầu nguyện mãi trong phòng chờ.",
+          "note": "にわたり = dạng văn viết"
+        },
+        {
+          "ja": "{彼|かれ}は{政治|せいじ}、{経済|けいざい}、{文化|ぶんか}と{多方面|たほうめん}にわたって{活躍|かつやく}している。",
+          "vi": "Ông ấy hoạt động sôi nổi trên nhiều lĩnh vực: chính trị, kinh tế, văn hoá.",
+          "note": "Phạm vi lĩnh vực"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜を通じて (suốt) (trong bài này, xem 4課)",
+          "diff": "「一年を通じて暖かい」: một **trạng thái không đổi** suốt cả khoảng. 「一年にわたって工事が続く」: một **sự việc** trải dài, có ý \"lâu / quy mô lớn\"."
+        },
+        {
+          "with": "〜から〜まで",
+          "diff": "Trung tính, chỉ nêu điểm đầu – cuối. 「にわたって」 thêm cảm giác **toàn bộ khoảng đó đều bị phủ kín**."
+        }
+      ],
+      "mistakes": [
+        "✗ {会議|かいぎ}は3{時|じ}にわたって{続|つづ}いた。→ ○ 3時間にわたって (cần khoảng, không phải thời điểm)",
+        "✗ これは{五日間|いつかかん}にわたって{工事|こうじ}の{記録|きろく}だ。→ ○ 5日間にわたる工事の記録だ (ngay trước danh từ dùng 「にわたる」; 「にわたっての」 cũng được nhưng ít gặp hơn)"
+      ],
+      "tip": "Trước chỗ trống là **số + 年間／時間／回** hoặc 全国・広範囲・多方面 → nghĩ ngay tới 「にわたって／にわたる」."
+    },
+    {
+      "id": "b27-3",
+      "pattern": "〜を通じて・〜を通して",
+      "reading": "〜をつうじて・〜をとおして",
+      "meaning": "(1) Thông qua (trung gian, phương tiện) (2) Suốt (cả khoảng thời gian) — gốc 通じる・通す",
+      "structure": [
+        "N ＋ を通じて／を通して",
+        "を通じ (văn viết)",
+        "を通じての N／を通しての N"
+      ],
+      "explain": "「{通|つう}じる」 = thông suốt ({道|みち}が通じる, {電話|でんわ}が通じる, {気持|きも}ちが通じる); 「{通|とお}す」 = cho đi xuyên qua ({針|はり}に{糸|いと}を通す, {光|ひかり}を通す). Cả hai cho hình ảnh **một đường ống xuyên qua N**, từ đó sinh ra hai nghĩa:\n\n- **(1) Qua trung gian / phương tiện**: thông tin, quan hệ, bài học \"chảy xuyên qua\" N để tới đích: インターネットを通じて, 友人を通して紹介してもらう, 経験を通して学ぶ.\n- **(2) Suốt cả khoảng**: đường ống chạy liền mạch từ đầu đến cuối: 一年を通じて暖かい, 生涯を通して.\n\nTại sao là 「を」? Vì N là **thứ bị đi xuyên qua** — tân ngữ của 通す. Đây là lỗi trợ từ rất hay bị bẫy trong đề.",
+      "nuance": "「を通して」 hơi nhấn mạnh N là phương tiện **con người chủ động dùng** (人を通して頼む, 体験を通して学ぶ); 「を通じて」 hợp với kênh thông tin, giao lưu, và nghĩa \"suốt\". Trong đề N2 hai dạng gần như thay được. Nghĩa (2) đi với trạng thái kéo dài, không đi với một sự kiện đơn lẻ.",
+      "examples": [
+        {
+          "ja": "{留学|りゅうがく}{生活|せいかつ}を{通|とお}して、{異文化|いぶんか}を{理解|りかい}することの{大切|たいせつ}さを{学|まな}んだ。",
+          "vi": "Qua cuộc sống du học, tôi đã học được tầm quan trọng của việc hiểu nền văn hoá khác.",
+          "note": "Nghĩa (1): qua trải nghiệm"
+        },
+        {
+          "ja": "この{地域|ちいき}は{一年|いちねん}を{通|つう}じて{気温|きおん}の{変化|へんか}が{少|すく}ない。",
+          "vi": "Vùng này nhiệt độ ít thay đổi quanh năm.",
+          "note": "Nghĩa (2): suốt cả năm — trạng thái"
+        },
+        {
+          "ja": "{知人|ちじん}を{通|とお}して、{今|いま}の{会社|かいしゃ}の{社長|しゃちょう}を{紹介|しょうかい}してもらった。",
+          "vi": "Thông qua một người quen, tôi được giới thiệu với giám đốc công ty hiện tại.",
+          "note": "Người làm trung gian"
+        },
+        {
+          "ja": "SNSを{通|つう}じて{知|し}り{合|あ}った{相手|あいて}と{結婚|けっこん}する{人|ひと}も{増|ふ}えている。",
+          "vi": "Số người kết hôn với người quen qua mạng xã hội cũng đang tăng.",
+          "note": "Kênh thông tin"
+        },
+        {
+          "ja": "{彼女|かのじょ}は{生涯|しょうがい}を{通|とお}して、{子|こ}どもの{教育|きょういく}に{力|ちから}を{注|そそ}いだ。",
+          "vi": "Suốt cả cuộc đời, bà đã dồn sức cho việc giáo dục trẻ em.",
+          "note": "Nghĩa (2): suốt đời"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜にわたって (trong bài này)",
+          "diff": "Cả hai đều có thể là \"suốt\". 「にわたって」 nhấn mạnh **quy mô lớn** của một sự việc; 「を通じて」 nói một trạng thái **liên tục, không đứt quãng**."
+        },
+        {
+          "with": "〜によって (phương tiện)",
+          "diff": "「話し合いによって解決する」 = **bằng cách** (phương pháp). 「友人を通して頼む」 = **qua tay** ai / kênh nào (trung gian)."
+        }
+      ],
+      "mistakes": [
+        "✗ インターネットに{通|つう}じて{情報|じょうほう}を{集|あつ}める。→ ○ インターネットを通じて",
+        "✗ {夏休|なつやす}みを{通|つう}じて、{一度|いちど}だけ{海|うみ}に{行|い}った。→ một sự kiện đơn lẻ → ○ 夏休み{中|ちゅう}に"
+      ],
+      "tip": "Chỗ trống đứng sau N mà **không có trợ từ** và phương án có 「を通じて」 lẫn 「に通じて」 → chọn dạng có 「を」."
+    },
+    {
+      "id": "b27-4",
+      "pattern": "〜に限って",
+      "reading": "〜にかぎって",
+      "meaning": "(1) Riêng (người) đó thì nhất định không (2) Đúng vào lúc… thì lại… (3) 〜に限り: chỉ riêng — gốc 限る",
+      "structure": [
+        "N(người) ＋ に限って ＋ 〜ない(はずだ)",
+        "N／Vる・Vた時 ＋ に限って",
+        "N ＋ に限り (thông báo)"
+      ],
+      "explain": "「{限|かぎ}る」 = giới hạn, khoanh vùng. 「に限って」 = **khoanh riêng N ra** khỏi mọi thứ khác. Từ đó có ba cách dùng (xem 5課):\n\n- **(1) Niềm tin**: 「うちの子に限って{嘘|うそ}はつかない」 — người khác thì không biết, chứ **riêng** con tôi thì chắc chắn không. Thường đi với phủ định, 〜はずがない.\n- **(2) Than xui**: 「{急|いそ}いでいる時に限って{電車|でんしゃ}が{遅|おく}れる」 — **đúng ngay** lúc đó (trong tất cả các lúc) thì lại gặp chuyện tệ.\n- **(3) 〜に限り** (thông báo): **chỉ** dành cho / **chỉ** trong: 先着50名に限り, 本日に限り.",
+      "nuance": "(2) mang sắc thái bực bội, than thở; (1) là niềm tin chủ quan của người nói; (3) là văn thông báo, quảng cáo.",
+      "examples": [
+        {
+          "ja": "{急|いそ}いでいる{時|とき}に{限|かぎ}って、{電車|でんしゃ}が{遅|おく}れる。",
+          "vi": "Cứ đúng lúc đang vội là tàu lại trễ.",
+          "note": "Nghĩa (2): than xui"
+        },
+        {
+          "ja": "{真面目|まじめ}な{彼|かれ}に{限|かぎ}って、{約束|やくそく}を{破|やぶ}るはずがない。",
+          "vi": "Riêng anh ấy, người nghiêm túc như vậy, thì không thể nào thất hứa.",
+          "note": "Nghĩa (1): + はずがない"
+        },
+        {
+          "ja": "{本日|ほんじつ}に{限|かぎ}り、{全品|ぜんぴん}{半額|はんがく}でご{提供|ていきょう}いたします。",
+          "vi": "Chỉ riêng hôm nay, tất cả sản phẩm giảm nửa giá.",
+          "note": "Nghĩa (3): に限り"
+        },
+        {
+          "ja": "{大事|だいじ}な{試験|しけん}の{前日|ぜんじつ}に{限|かぎ}って{熱|ねつ}が{出|で}るんだから、{本当|ほんとう}についていない。",
+          "vi": "Cứ đúng hôm trước kỳ thi quan trọng là bị sốt, đúng là đen đủi.",
+          "note": "ついていない = xui"
+        },
+        {
+          "ja": "{会員|かいいん}の{方|かた}に{限|かぎ}り、{駐車場|ちゅうしゃじょう}を{無料|むりょう}でご{利用|りよう}いただけます。",
+          "vi": "Chỉ hội viên mới được dùng bãi đỗ xe miễn phí.",
+          "note": "Giới hạn đối tượng"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜に限らず (xem 6課)",
+          "diff": "Ngược nghĩa: 「に限らず」 = **không chỉ** N mà cả cái khác nữa (子どもに限らず大人も)."
+        },
+        {
+          "with": "〜限り (xem 4課・5課)",
+          "diff": "「限り」 không có に = \"chừng nào còn… / trong phạm vi…\" (体が{動|うご}く限り働く). 「に限って」 = \"riêng / đúng vào\"."
+        }
+      ],
+      "mistakes": [
+        "✗ {暇|ひま}な{日|ひ}に{限|かぎ}って、{友達|ともだち}から{電話|でんわ}が{来|き}て{嬉|うれ}しかった。→ nghĩa (2) dùng cho chuyện xui, không dùng cho chuyện vui.",
+        "✗ {子|こ}どもに{限|かぎ}って、{大人|おとな}も{楽|たの}しめる。→ ○ 子どもに限らず"
+      ],
+      "tip": "Vế sau là chuyện xui xẻo (雨が降る・遅れる・故障する) và trước chỗ trống là 「〜時／〜日」 → 「に限って」."
+    },
+    {
+      "id": "b27-5",
+      "pattern": "〜に関して",
+      "reading": "〜にかんして",
+      "meaning": "Về, liên quan đến (trang trọng của について) — gốc 関する",
+      "structure": [
+        "N ＋ に関して／に関し",
+        "N ＋ に関する N／に関しての N",
+        "N ＋ に関しては (về mặt … thì)"
+      ],
+      "explain": "「{関|かん}する」 = dính dáng, liên quan (関係 = quan hệ). 「〜に関して」 = **về, liên quan đến** N — nghĩa giống 「〜について」 nhưng **trang trọng hơn**, gặp nhiều trong báo cáo, thông báo, hội thảo, tin tức (xem 7課).\n\nĐiểm dễ ra đề nhất là **dạng đứng trước danh từ**: 「{環境|かんきょう}に関する{調査|ちょうさ}」 (rất phổ biến) hoặc 「環境に関しての調査」. Còn 「に関しては」 dùng để **khoanh chủ đề**: \"về chuyện ~ thì…\" (thường so với chuyện khác).",
+      "nuance": "Trung tính, chỉ nêu chủ đề. Không mang ý \"tranh cãi\" như をめぐって, cũng không chỉ đối tượng của thái độ như に対して.",
+      "examples": [
+        {
+          "ja": "{新|あたら}しい{制度|せいど}に{関|かん}して、ご{不明|ふめい}な{点|てん}がございましたらお{問|と}い{合|あ}わせください。",
+          "vi": "Nếu có điểm nào chưa rõ về chế độ mới, xin vui lòng liên hệ.",
+          "note": "Văn thông báo"
+        },
+        {
+          "ja": "{若者|わかもの}の{読書|どくしょ}{習慣|しゅうかん}に{関|かん}する{調査|ちょうさ}が{行|おこな}われた。",
+          "vi": "Một cuộc khảo sát về thói quen đọc sách của giới trẻ đã được tiến hành.",
+          "note": "に関する + N"
+        },
+        {
+          "ja": "{料理|りょうり}に{関|かん}しては、{彼|かれ}の{右|みぎ}に{出|で}る{者|もの}はいない。",
+          "vi": "Về khoản nấu ăn thì không ai qua được anh ấy.",
+          "note": "に関しては = khoanh chủ đề"
+        },
+        {
+          "ja": "{事故|じこ}の{原因|げんいん}に{関|かん}し、{現在|げんざい}{詳|くわ}しく{調査|ちょうさ}を{進|すす}めております。",
+          "vi": "Về nguyên nhân vụ tai nạn, hiện chúng tôi đang tiến hành điều tra chi tiết.",
+          "note": "に関し = văn viết"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜について",
+          "diff": "Nghĩa như nhau; 「について」 dùng được cả trong hội thoại thường ngày, 「に関して」 cứng hơn."
+        },
+        {
+          "with": "〜をめぐって (trong bài này)",
+          "diff": "「をめぐって」 = **nhiều bên tranh luận, đối lập** xoay quanh vấn đề. 「に関して」 chỉ nói chủ đề, không có ý tranh cãi."
+        }
+      ],
+      "mistakes": [
+        "✗ {環境|かんきょう}に{関|かん}し{調査|ちょうさ}が{行|おこな}われた。→ ○ 環境に関する調査が… (trước danh từ phải dùng に関する／に関しての)",
+        "✗ {客|きゃく}に{関|かん}して{丁寧|ていねい}に{話|はな}す。→ ○ 客に対して (đối tượng hướng tới của thái độ)"
+      ],
+      "tip": "Chỗ trống nằm ngay trước một danh từ như 調査・研究・資料・質問・情報 → ưu tiên 「に関する」."
+    },
+    {
+      "id": "b27-6",
+      "pattern": "〜をめぐって",
+      "reading": "〜をめぐって",
+      "meaning": "Xoay quanh (vấn đề gây tranh cãi, đối lập) — gốc 巡る",
+      "structure": [
+        "N ＋ をめぐって／をめぐり",
+        "N ＋ をめぐる N"
+      ],
+      "explain": "「{巡|めぐ}る」 = đi vòng quanh ({島|しま}を巡る, {名所|めいしょ}巡り). Hình ảnh: **một vấn đề nằm ở giữa, nhiều người đứng vòng quanh**, mỗi người kéo về một phía. Vì vậy 「〜をめぐって」 hầu như luôn đi với **tranh luận, đối lập, tranh giành** (xem 7課).\n\nVế sau điển hình: 議論する, 争う, 対立する, 意見が分かれる, もめる, 裁判, さまざまな意見が出る, 噂が飛び交う.\n\nTrợ từ là 「を」 vì N là **thứ bị đi vòng quanh** — giống 「島を巡る」.",
+      "nuance": "Danh từ đứng trước là vấn đề có **nhiều bên liên quan** (計画, 予算, 遺産, 選挙, 問題, 解釈…). Không dùng khi chỉ \"viết / nói về\" một chủ đề trung tính.",
+      "examples": [
+        {
+          "ja": "{新|あたら}しい{空港|くうこう}の{建設|けんせつ}をめぐって、{住民|じゅうみん}の{意見|いけん}が{二|ふた}つに{分|わ}かれている。",
+          "vi": "Xoay quanh việc xây sân bay mới, ý kiến người dân chia làm hai phe.",
+          "note": "Vế sau: 意見が分かれる"
+        },
+        {
+          "ja": "{遺産|いさん}をめぐる{兄弟|きょうだい}の{争|あらそ}いは、{裁判|さいばん}にまで{発展|はってん}した。",
+          "vi": "Cuộc tranh chấp thừa kế giữa anh em đã đi đến cả toà án.",
+          "note": "をめぐる + N"
+        },
+        {
+          "ja": "{増税|ぞうぜい}をめぐり、{国会|こっかい}では{激|はげ}しい{議論|ぎろん}が{交|か}わされた。",
+          "vi": "Xoay quanh việc tăng thuế, quốc hội đã tranh luận gay gắt.",
+          "note": "をめぐり = văn viết, tin tức"
+        },
+        {
+          "ja": "{一人|ひとり}の{女性|じょせい}をめぐって、{二人|ふたり}の{男|おとこ}がライバル{関係|かんけい}になった。",
+          "vi": "Vì cùng theo đuổi một cô gái, hai người đàn ông trở thành tình địch.",
+          "note": "Tranh giành"
+        },
+        {
+          "ja": "ドラマの{結末|けつまつ}をめぐって、ネット{上|じょう}でさまざまな{意見|いけん}が{飛|と}び{交|か}っている。",
+          "vi": "Xoay quanh cái kết của bộ phim, trên mạng đang có đủ loại ý kiến trái chiều.",
+          "note": "飛び交う = bay qua bay lại"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜に関して (trong bài này)",
+          "diff": "「に関して」 = chủ đề trung tính. 「をめぐって」 = chủ đề **gây tranh cãi**, vế sau là đối lập/tranh luận."
+        },
+        {
+          "with": "〜について",
+          "diff": "「歴史についてレポートを書く」 ○ nhưng 「歴史をめぐってレポートを書く」 ✗ — viết báo cáo không phải là tranh cãi."
+        }
+      ],
+      "mistakes": [
+        "✗ {日本|にほん}の{歴史|れきし}をめぐって{発表|はっぴょう}した。→ ○ 日本の歴史について／に関して",
+        "✗ {予算|よさん}にめぐって{対立|たいりつ}が{続|つづ}く。→ ○ 予算をめぐって"
+      ],
+      "tip": "Thấy cuối câu có 対立・議論・争い・意見が分かれる → chỗ trống trước đó gần như chắc chắn là 「をめぐって／をめぐる」."
+    },
+    {
+      "id": "b27-7",
+      "pattern": "〜に対して",
+      "reading": "〜にたいして",
+      "meaning": "(1) Đối với, hướng tới (2) Trái lại, còn (so sánh) (3) Cứ … thì (tỉ lệ) — gốc 対する",
+      "structure": [
+        "N ＋ に対して／に対し",
+        "N ＋ に対する N／に対しての N",
+        "普通形(なN／なA → な・である) ＋ のに対して"
+      ],
+      "explain": "「{対|たい}する」 = đứng đối diện, đối mặt (対面, 反対). Từ hình ảnh \"đối diện\" có ba nghĩa (xem 7課):\n\n- **(1) Hướng tới**: hành động, thái độ, cảm xúc **chĩa thẳng vào** đối tượng: お客様に対して丁寧に話す, 質問に対して答える, 政府に対して抗議する.\n- **(2) Đối chiếu**: đặt hai sự việc **đối mặt nhau** để so sánh: 「兄が{活発|かっぱつ}なのに対して、弟はおとなしい」.\n- **(3) Tỉ lệ**: 学生10人に対して教師1人 (cứ 10 học sinh thì có 1 giáo viên).",
+      "nuance": "Nghĩa (2) cần 「の」 trước に対して khi vế trước là mệnh đề (のに対して). Nghĩa (1) nói về **tác động / thái độ hướng tới**, không phải **đánh giá từ góc nhìn của ai** (đó là にとって).",
+      "examples": [
+        {
+          "ja": "{目上|めうえ}の{人|ひと}に{対|たい}しては、{敬語|けいご}を{使|つか}うべきだ。",
+          "vi": "Đối với người trên thì nên dùng kính ngữ.",
+          "note": "Nghĩa (1): thái độ hướng tới"
+        },
+        {
+          "ja": "{住民|じゅうみん}の{質問|しつもん}に{対|たい}して、{市長|しちょう}は{丁寧|ていねい}に{答|こた}えた。",
+          "vi": "Trước câu hỏi của người dân, thị trưởng đã trả lời cặn kẽ.",
+          "note": "Nghĩa (1)"
+        },
+        {
+          "ja": "{都市部|としぶ}では{人口|じんこう}が{増|ふ}えているのに{対|たい}し、{農村部|のうそんぶ}では{減少|げんしょう}が{続|つづ}いている。",
+          "vi": "Trong khi dân số ở thành thị tăng thì ở nông thôn vẫn tiếp tục giảm.",
+          "note": "Nghĩa (2): のに対し"
+        },
+        {
+          "ja": "{環境|かんきょう}{問題|もんだい}に{対|たい}する{関心|かんしん}が{高|たか}まっている。",
+          "vi": "Mối quan tâm đối với vấn đề môi trường đang tăng lên.",
+          "note": "に対する + N"
+        },
+        {
+          "ja": "{学生|がくせい}5{人|にん}に{対|たい}して{教員|きょういん}1{人|にん}の{割合|わりあい}で{指導|しどう}を{行|おこな}う。",
+          "vi": "Việc giảng dạy được thực hiện với tỉ lệ cứ 5 sinh viên có 1 giảng viên.",
+          "note": "Nghĩa (3): tỉ lệ"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜にとって (xem 19課)",
+          "diff": "「私にとって大切な人」 = **xét từ góc của tôi** thì quan trọng. 「私に対して優しい」 = **cư xử với tôi** thì dịu dàng. 「にとって」 + đánh giá (大切だ・難しい); 「に対して」 + hành động / thái độ."
+        },
+        {
+          "with": "〜に関して (trong bài này)",
+          "diff": "「質問に関して」 = về chủ đề câu hỏi; 「質問に対して答える」 = đáp lại câu hỏi (hướng tới)."
+        }
+      ],
+      "mistakes": [
+        "✗ {私|わたし}に{対|たい}して、この{写真|しゃしん}は{宝物|たからもの}だ。→ ○ 私にとって",
+        "✗ {兄|あに}は{背|せ}が{高|たか}いに{対|たい}して、… → ○ 背が高いのに対して"
+      ],
+      "tip": "Câu có **hai vế tương phản** (都市↔農村, 兄↔弟) → 「のに対して」. Vế sau là tính từ đánh giá (大切だ・難しい) → nghĩ tới 「にとって」, không phải 「に対して」."
+    },
+    {
+      "id": "b27-8",
+      "pattern": "〜にこたえて",
+      "reading": "〜にこたえて",
+      "meaning": "Đáp lại, đáp ứng (kỳ vọng, yêu cầu, lời kêu gọi của người khác) — gốc 応える",
+      "structure": [
+        "N(期待・要望・声援・要求・ニーズ) ＋ にこたえて／にこたえ",
+        "N ＋ にこたえる N"
+      ],
+      "explain": "Có hai chữ こたえる: 「{答|こた}える」 = trả lời câu hỏi, còn 「{応|こた}える」 = **đáp lại tấm lòng, mong đợi** của người khác bằng hành động. Mẫu này dùng chữ 応える (thường viết hiragana).\n\n「〜にこたえて」 = người ta **mong / yêu cầu / cổ vũ** điều gì, và chủ thể **làm điều đó để đáp lại** (xem 7課). Danh từ đứng trước gần như luôn thuộc nhóm: 期待, 要望, 要求, 声援, 声, 呼びかけ, ニーズ, リクエスト, 拍手.\n\nHình ảnh: khán giả vỗ tay (yêu cầu) → ca sĩ hát thêm một bài (đáp lại).",
+      "nuance": "Vế sau là hành động tích cực, thiện chí. Không dùng với danh từ chỉ mức độ, số lượng (年齢, 予算) — đó là 「に応じて」.",
+      "examples": [
+        {
+          "ja": "{観客|かんきゃく}の{拍手|はくしゅ}にこたえて、{歌手|かしゅ}はもう{一曲|いっきょく}{歌|うた}った。",
+          "vi": "Đáp lại tràng pháo tay của khán giả, ca sĩ đã hát thêm một bài.",
+          "note": ""
+        },
+        {
+          "ja": "{利用者|りようしゃ}の{要望|ようぼう}にこたえ、{図書館|としょかん}の{開館|かいかん}{時間|じかん}を{夜|よる}9{時|じ}まで{延長|えんちょう}した。",
+          "vi": "Đáp ứng mong muốn của người dùng, thư viện đã kéo dài giờ mở cửa đến 9 giờ tối.",
+          "note": "にこたえ = văn viết"
+        },
+        {
+          "ja": "{両親|りょうしん}の{期待|きたい}にこたえようと、{彼|かれ}は{毎晩|まいばん}{遅|おそ}くまで{勉強|べんきょう}した。",
+          "vi": "Để đáp lại kỳ vọng của bố mẹ, cậu ấy học đến khuya mỗi tối.",
+          "note": "Dùng như động từ: にこたえようと"
+        },
+        {
+          "ja": "{消費者|しょうひしゃ}のニーズにこたえる{商品|しょうひん}を{開発|かいはつ}しなければならない。",
+          "vi": "Phải phát triển những sản phẩm đáp ứng nhu cầu người tiêu dùng.",
+          "note": "にこたえる + N"
+        },
+        {
+          "ja": "{地元|じもと}の{声|こえ}にこたえて、{閉店|へいてん}した{商店街|しょうてんがい}の{祭|まつ}りが{復活|ふっかつ}した。",
+          "vi": "Đáp lại tiếng nói của người dân địa phương, lễ hội của khu phố buôn bán đã được khôi phục.",
+          "note": "声 = ý kiến, nguyện vọng"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜に応じて (trong bài này)",
+          "diff": "「に応じて」 = **tương ứng, điều chỉnh theo** mức độ (年齢に応じて). 「にこたえて」 = **đáp lại tấm lòng** (期待にこたえて). 「要望」 đi được với cả hai, nhưng 「期待・声援」 chỉ đi với にこたえて, 「年齢・予算」 chỉ đi với に応じて."
+        }
+      ],
+      "mistakes": [
+        "✗ {先生|せんせい}の{質問|しつもん}に{応|こた}えて、{手|て}を{挙|あ}げた。→ trả lời câu hỏi là 「答える」, không phải mẫu này.",
+        "✗ {年齢|ねんれい}にこたえて{料金|りょうきん}が{変|か}わる。→ ○ 年齢に応じて"
+      ],
+      "tip": "Trước chỗ trống là 期待・声援・要望・呼びかけ → 「にこたえて」. Nếu là 年齢・能力・予算・状況 → 「に応じて」."
+    },
+    {
+      "id": "b27-9",
+      "pattern": "〜に基づいて",
+      "reading": "〜にもとづいて",
+      "meaning": "Dựa trên, căn cứ vào (dữ liệu, sự thật, luật, kinh nghiệm) — gốc 基づく",
+      "structure": [
+        "N ＋ に基づいて／に基づき",
+        "N ＋ に基づく N／に基づいた N"
+      ],
+      "explain": "「{基|もと}づく」 = 基 (もと: nền móng) + つく (gắn vào) → **đặt chân lên nền móng** N. Vì thế 「〜に基づいて」 = làm việc gì đó **lấy N làm căn cứ**, đứng vững trên N, không được rời khỏi nó (xem 8課).\n\nDanh từ hay gặp: データ, 調査結果, 事実, 法律, 規則, 経験, 計画, 証拠, 根拠, 理論.\n\nVí dụ hình ảnh: 「{法律|ほうりつ}に基づいて{裁判|さいばん}を行う」 — phiên toà phải đứng trên nền của luật, không thể tuỳ tiện.",
+      "nuance": "Văn viết, trang trọng; hay xuất hiện trong báo cáo, luật, tin tức. Nhấn mạnh tính **khách quan, có căn cứ**.",
+      "examples": [
+        {
+          "ja": "{調査|ちょうさ}の{結果|けっか}に{基|もと}づいて、{新|あたら}しい{販売|はんばい}{計画|けいかく}を{立|た}てた。",
+          "vi": "Dựa trên kết quả khảo sát, chúng tôi đã lập kế hoạch bán hàng mới.",
+          "note": ""
+        },
+        {
+          "ja": "この{映画|えいが}は、{実際|じっさい}にあった{事件|じけん}に{基|もと}づいて{作|つく}られている。",
+          "vi": "Bộ phim này được làm dựa trên một vụ án có thật.",
+          "note": "事実に基づく = dựa trên sự thật"
+        },
+        {
+          "ja": "{規則|きそく}に{基|もと}づき、{遅刻|ちこく}が3{回|かい}を{超|こ}えた{者|もの}は{欠席|けっせき}{扱|あつか}いとする。",
+          "vi": "Căn cứ theo quy định, ai đi muộn quá 3 lần sẽ bị tính là vắng mặt.",
+          "note": "に基づき = văn viết"
+        },
+        {
+          "ja": "{長年|ながねん}の{経験|けいけん}に{基|もと}づいた{判断|はんだん}だから、{信頼|しんらい}できる。",
+          "vi": "Đó là phán đoán dựa trên kinh nghiệm nhiều năm nên có thể tin được.",
+          "note": "に基づいた + N"
+        },
+        {
+          "ja": "{科学的|かがくてき}な{根拠|こんきょ}に{基|もと}づく{情報|じょうほう}だけを{発信|はっしん}すべきだ。",
+          "vi": "Chỉ nên đưa ra những thông tin dựa trên căn cứ khoa học.",
+          "note": "に基づく + N"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜をもとに(して) (xem 8課)",
+          "diff": "「をもとに」 = lấy N làm **chất liệu / gợi ý** để tạo ra cái mới, có thể biến tấu (小説をもとに映画を作る). 「に基づいて」 = lấy N làm **căn cứ** và bám sát nó (法律に基づいて). Chú ý trợ từ: 「を」もとに ↔ 「に」基づいて."
+        },
+        {
+          "with": "〜に沿って (trong bài này)",
+          "diff": "「に沿って」 = đi **đúng theo** một con đường đã vạch sẵn (計画・方針・マニュアル). 「に基づいて」 = lấy làm **nền / bằng chứng** (データ・事実・法律)."
+        }
+      ],
+      "mistakes": [
+        "✗ データを{基|もと}づいて{分析|ぶんせき}する。→ ○ データに基づいて (hoặc データをもとに)",
+        "✗ それは{法律|ほうりつ}に{基|もと}づいて{判断|はんだん}だ。→ ○ 法律に基づく／基づいた判断だ (ngay trước danh từ dùng 「基づく／基づいた」)"
+      ],
+      "tip": "Phân biệt bằng trợ từ đứng trước chỗ trống: thấy 「を」 → 「もとに」; thấy 「に」 → 「基づいて」."
+    },
+    {
+      "id": "b27-10",
+      "pattern": "〜に沿って",
+      "reading": "〜にそって",
+      "meaning": "(1) Dọc theo (2) Theo đúng, bám sát (kế hoạch, phương châm, mong muốn) — gốc 沿う",
+      "structure": [
+        "N ＋ に沿って／に沿い",
+        "N ＋ に沿った N／に沿う N"
+      ],
+      "explain": "「{沿|そ}う」 = men theo, chạy sát theo ({川沿|かわぞ}いの{道|みち} = con đường ven sông). Hai nghĩa (xem 8課):\n\n- **(1) Vật lý — dọc theo**: 川, 道, 線路, 海岸, 壁: 「川に沿って{桜|さくら}が{咲|さ}いている」.\n- **(2) Trừu tượng — làm đúng theo**: 方針, 計画, マニュアル, 流れ, 希望, 期待, 趣旨: giống như đi men theo **con đường đã được vạch sẵn**, không lệch ra ngoài.\n\nCâu lịch sự hay gặp trong công việc: 「ご{希望|きぼう}に沿えず、{申|もう}し{訳|わけ}ございません」 = Rất tiếc chúng tôi không đáp ứng được mong muốn của quý khách.",
+      "nuance": "Nghĩa (2) dùng với thứ có **\"hướng đi\" định sẵn** (kế hoạch, quy trình, ý muốn). Với dữ liệu, sự thật làm bằng chứng thì dùng に基づいて.",
+      "examples": [
+        {
+          "ja": "{線路|せんろ}に{沿|そ}って{細|ほそ}い{道|みち}が{続|つづ}いている。",
+          "vi": "Một con đường nhỏ chạy dọc theo đường ray.",
+          "note": "Nghĩa (1)"
+        },
+        {
+          "ja": "{会議|かいぎ}は、{事前|じぜん}にお{配|くば}りした{資料|しりょう}に{沿|そ}って{進|すす}めます。",
+          "vi": "Cuộc họp sẽ tiến hành theo tài liệu đã phát trước.",
+          "note": "Nghĩa (2): bám theo trình tự"
+        },
+        {
+          "ja": "お{客様|きゃくさま}のご{希望|きぼう}に{沿|そ}ったプランをご{提案|ていあん}いたします。",
+          "vi": "Chúng tôi sẽ đề xuất gói dịch vụ đúng với mong muốn của quý khách.",
+          "note": "に沿った + N"
+        },
+        {
+          "ja": "{会社|かいしゃ}の{方針|ほうしん}に{沿|そ}い、{来年度|らいねんど}から{在宅|ざいたく}{勤務|きんむ}を{導入|どうにゅう}する。",
+          "vi": "Theo phương châm của công ty, từ năm sau sẽ áp dụng làm việc tại nhà.",
+          "note": "に沿い = văn viết"
+        },
+        {
+          "ja": "せっかくのご{依頼|いらい}ですが、ご{期待|きたい}に{沿|そ}うことができず{申|もう}し{訳|わけ}ありません。",
+          "vi": "Thật có lỗi vì dù được nhờ nhưng chúng tôi không đáp ứng được kỳ vọng của anh chị.",
+          "note": "Dùng như động từ: 期待に沿う"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜にしたがって (trong bài này)",
+          "diff": "「指示にしたがって」 = **tuân lệnh** (có người ra lệnh, mình làm theo). 「計画に沿って」 = **bám theo lộ trình** đã vạch."
+        },
+        {
+          "with": "〜に基づいて (trong bài này)",
+          "diff": "Xem mục 「に基づいて」: căn cứ / bằng chứng ↔ lộ trình định sẵn."
+        }
+      ],
+      "mistakes": [
+        "✗ {川|かわ}を{沿|そ}って{歩|ある}く。→ ○ 川に沿って (sông là thứ ta đi sát bên, trợ từ に)",
+        "✗ {実験|じっけん}データに{沿|そ}って{結論|けつろん}を{出|だ}した。→ tự nhiên hơn: データに基づいて"
+      ],
+      "tip": "Trước chỗ trống là 川・道・線路・海岸 (vật dài) hoặc 方針・計画・マニュアル・ご希望 → 「に沿って」."
+    },
+    {
+      "id": "b27-11",
+      "pattern": "〜にしたがって・〜につれて",
+      "reading": "〜にしたがって・〜につれて",
+      "meaning": "A càng thay đổi thì B càng thay đổi theo; (したがって) làm theo — gốc 従う・連れる",
+      "structure": [
+        "V辞書形／N(変化) ＋ にしたがって／につれて",
+        "にしたがい／につれ (văn viết)",
+        "N(指示・規則) ＋ にしたがって (làm theo)"
+      ],
+      "explain": "「{従|したが}う」 = đi theo sau, tuân theo; 「{連|つ}れる」 = dẫn theo ({犬|いぬ}を連れて{散歩|さんぽ}する). Cả hai cho hình ảnh **A đi trước, B lẽo đẽo theo sau** (xem 9課):\n\n- 「〜につれて」: A thay đổi dần → **kéo theo** B thay đổi dần (tỉ lệ thuận). **Chỉ có nghĩa này.**\n- 「〜にしたがって」: (1) giống につれて; (2) **làm theo** chỉ thị, quy tắc, hướng dẫn: 「{係員|かかりいん}の{指示|しじ}にしたがって{避難|ひなん}する」 — nghĩa này につれて không có (vì 連れる không có nghĩa \"tuân lệnh\").\n\nỞ nghĩa biến đổi, vế trước là từ chỉ **thay đổi** (年をとる, 時間が経つ, 進む, 増える, 上がる, 成長, 発展), vế sau cũng là **thay đổi dần dần**.",
+      "nuance": "Không dùng cho một sự kiện xảy ra một lần (結婚する, 卒業する). Với 「につれて」 vế sau thường là sự thay đổi tự nhiên, ít khi là ý chí / mệnh lệnh của người nói; còn 「指示にしたがってください」 thì hoàn toàn bình thường.",
+      "examples": [
+        {
+          "ja": "{年|とし}をとるにつれて、{昔|むかし}のことをよく{思|おも}い{出|だ}すようになった。",
+          "vi": "Càng có tuổi, tôi càng hay nhớ về chuyện ngày xưa.",
+          "note": "Thay đổi dần → thay đổi dần"
+        },
+        {
+          "ja": "{山|やま}を{登|のぼ}るにしたがって、{気温|きおん}がどんどん{下|さ}がってきた。",
+          "vi": "Càng leo lên núi, nhiệt độ càng giảm nhanh.",
+          "note": "Nghĩa (1) của したがって"
+        },
+        {
+          "ja": "{時間|じかん}が{経|た}つにつれ、{事故|じこ}の{詳|くわ}しい{状況|じょうきょう}が{明|あき}らかになってきた。",
+          "vi": "Thời gian càng trôi qua, tình hình chi tiết của vụ tai nạn càng được làm rõ.",
+          "note": "につれ = văn viết"
+        },
+        {
+          "ja": "{係員|かかりいん}の{指示|しじ}にしたがって、{落|お}ち{着|つ}いて{避難|ひなん}してください。",
+          "vi": "Hãy bình tĩnh sơ tán theo hướng dẫn của nhân viên.",
+          "note": "Nghĩa (2): làm theo — につれて không dùng được"
+        },
+        {
+          "ja": "{町|まち}が{発展|はってん}するにしたがって、{自然|しぜん}が{少|すく}なくなっていった。",
+          "vi": "Thành phố càng phát triển thì thiên nhiên càng ít đi.",
+          "note": ""
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜に伴って (trong bài này)",
+          "diff": "「に伴って」 có cả nghĩa biến đổi lẫn nghĩa **một sự kiện kéo theo** (移転に伴い住所が変わる); văn viết, cứng. 「につれて」 chỉ biến đổi dần dần."
+        },
+        {
+          "with": "〜とともに",
+          "diff": "「とともに」 = cùng với (nhiều nghĩa: cùng ai, đồng thời, thay đổi cùng). Rộng hơn, ít cụ thể hơn."
+        }
+      ],
+      "mistakes": [
+        "✗ {先生|せんせい}の{指示|しじ}につれて{作業|さぎょう}をする。→ ○ 指示にしたがって",
+        "✗ {結婚|けっこん}するにつれて{仕事|しごと}を{辞|や}めた。→ một sự kiện đơn lẻ → ○ 結婚を{機|き}に"
+      ],
+      "tip": "Có danh từ 指示・命令・規則・説明 trước chỗ trống → chỉ 「にしたがって」 đúng. Có hai vế thay đổi (〜なる・〜てくる) → cả hai mẫu đều được, xem phương án còn lại."
+    },
+    {
+      "id": "b27-12",
+      "pattern": "〜に伴って",
+      "reading": "〜にともなって",
+      "meaning": "(1) Cùng với sự thay đổi của A, B cũng thay đổi (2) Do / kèm theo (một sự kiện) — gốc 伴う",
+      "structure": [
+        "N ＋ に伴って／に伴い",
+        "V辞書形 ＋ の ＋ に伴って",
+        "N ＋ に伴う N"
+      ],
+      "explain": "「{伴|ともな}う」 = đi kèm, mang theo: 「{危険|きけん}を伴う{仕事|しごと}」 = công việc đi kèm nguy hiểm, 「{自由|じゆう}には{責任|せきにん}が伴う」 = tự do luôn đi kèm trách nhiệm. Từ đó (xem 9課):\n\n- **(1) Biến đổi song song**: A thay đổi kéo B thay đổi: 「高齢化に伴って、介護の需要が高まる」 — giống につれて nhưng **cứng, văn viết, tin tức**, thường với thay đổi ở quy mô xã hội.\n- **(2) Sự kiện kéo theo**: một việc A (xảy ra một lần) thì B xảy ra **kèm theo / như hệ quả**: 「{移転|いてん}に伴い、電話番号が変わります」. Nghĩa này につれて không có.\n\nKhi vế trước là động từ, phải danh từ hoá bằng 「の」: 人口が増えるのに伴って.",
+      "nuance": "Văn viết, thông báo chính thức, tin tức. Trong hội thoại thường ngày dùng につれて／とともに hoặc ので sẽ tự nhiên hơn.",
+      "examples": [
+        {
+          "ja": "{高齢化|こうれいか}に{伴|ともな}って、{介護|かいご}{職員|しょくいん}の{需要|じゅよう}が{高|たか}まっている。",
+          "vi": "Cùng với sự già hoá dân số, nhu cầu về nhân viên chăm sóc đang tăng.",
+          "note": "Nghĩa (1)"
+        },
+        {
+          "ja": "{本社|ほんしゃ}の{移転|いてん}に{伴|ともな}い、{電話|でんわ}{番号|ばんごう}が{変更|へんこう}になります。",
+          "vi": "Do việc chuyển trụ sở chính, số điện thoại sẽ thay đổi.",
+          "note": "Nghĩa (2): một sự kiện kéo theo"
+        },
+        {
+          "ja": "{台風|たいふう}の{接近|せっきん}に{伴|ともな}う{運休|うんきゅう}の{情報|じょうほう}をお{知|し}らせします。",
+          "vi": "Xin thông báo thông tin tạm ngừng chạy tàu do bão đến gần.",
+          "note": "に伴う + N"
+        },
+        {
+          "ja": "{経済|けいざい}が{成長|せいちょう}するのに{伴|ともな}って、{人々|ひとびと}の{生活|せいかつ}{様式|ようしき}も{変|か}わってきた。",
+          "vi": "Cùng với sự tăng trưởng kinh tế, lối sống của người dân cũng thay đổi.",
+          "note": "V辞書形 + の + に伴って"
+        },
+        {
+          "ja": "{自由|じゆう}には{必|かなら}ず{責任|せきにん}が{伴|ともな}う。",
+          "vi": "Tự do bao giờ cũng đi kèm trách nhiệm.",
+          "note": "Động từ gốc 伴う"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜につれて (trong bài này)",
+          "diff": "「につれて」 chỉ nói **biến đổi dần**, văn nói được. 「に伴って」 thêm nghĩa **một sự kiện kéo theo kết quả**, và cứng hơn."
+        },
+        {
+          "with": "〜によって (nguyên nhân)",
+          "diff": "「事故によって電車が止まった」 = nguyên nhân trực tiếp. 「移転に伴って番号が変わる」 = việc **đi kèm** theo một thay đổi có kế hoạch."
+        }
+      ],
+      "mistakes": [
+        "✗ {人口|じんこう}が{増|ふ}えるに{伴|ともな}って… → ○ 増えるのに伴って (động từ cần の)",
+        "✗ {工事|こうじ}につれて、{道路|どうろ}が{通行止|つうこうど}めになる。→ một sự kiện kéo theo → ○ 工事に伴って"
+      ],
+      "tip": "Văn thông báo (〜になります・お知らせします) + danh từ sự kiện (移転・工事・改正・接近) → 「に伴い／に伴う」."
+    },
+    {
+      "id": "b27-13",
+      "pattern": "〜に応じて",
+      "reading": "〜におうじて",
+      "meaning": "Tương ứng với, tuỳ theo (mức độ, nhu cầu, tình huống) mà điều chỉnh cho phù hợp — gốc 応じる",
+      "structure": [
+        "N ＋ に応じて／に応じ",
+        "N ＋ に応じた N"
+      ],
+      "explain": "「{応|おう}じる」 = ứng với, đáp ứng ({注文|ちゅうもん}に応じる = nhận đơn, {取材|しゅざい}に応じる = nhận lời phỏng vấn). 「〜に応じて」 = **N thay đổi thế nào thì B được điều chỉnh tương ứng cho khớp** (xem 9課).\n\nHình ảnh: một **núm vặn** — vặn N lên thì B lên, vặn N xuống thì B xuống. Danh từ đứng trước là thứ **có nhiều mức / nhiều trường hợp**: 予算, 年齢, 能力, レベル, 状況, 必要, 季節, 収入, 人数, 希望, 成績.\n\nVế sau thường là: 変える, 決める, 選ぶ, 調整する, 支払う, 〜が違う…",
+      "nuance": "Trung tính, dùng được cả văn nói lẫn văn viết. Trọng tâm là **sự phù hợp / tương ứng**, không phải \"đáp lại tấm lòng\".",
+      "examples": [
+        {
+          "ja": "{参加|さんか}{人数|にんずう}に{応|おう}じて、{会場|かいじょう}の{広|ひろ}さを{決|き}めます。",
+          "vi": "Chúng tôi sẽ quyết định độ rộng hội trường tuỳ theo số người tham gia.",
+          "note": ""
+        },
+        {
+          "ja": "この{塾|じゅく}では、{生徒|せいと}のレベルに{応|おう}じた{授業|じゅぎょう}を{行|おこな}っている。",
+          "vi": "Trung tâm này dạy theo trình độ phù hợp với từng học sinh.",
+          "note": "に応じた + N"
+        },
+        {
+          "ja": "{季節|きせつ}に{応|おう}じて、{店|みせ}のメニューを{少|すこ}しずつ{変|か}えている。",
+          "vi": "Chúng tôi thay đổi thực đơn của quán từng chút theo mùa.",
+          "note": ""
+        },
+        {
+          "ja": "この{会社|かいしゃ}では、{成果|せいか}に{応|おう}じてボーナスが{支払|しはら}われる。",
+          "vi": "Ở công ty này tiền thưởng được trả tương ứng với thành tích.",
+          "note": ""
+        },
+        {
+          "ja": "{社長|しゃちょう}は{記者|きしゃ}の{取材|しゅざい}に{応|おう}じ、{今後|こんご}の{方針|ほうしん}を{説明|せつめい}した。",
+          "vi": "Giám đốc nhận lời phỏng vấn của phóng viên và giải thích phương hướng sắp tới.",
+          "note": "Động từ gốc: 取材に応じる = nhận lời"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜にこたえて (trong bài này)",
+          "diff": "Xem mục 「にこたえて」: 期待・声援 → にこたえて; 年齢・予算・レベル → に応じて."
+        },
+        {
+          "with": "〜によって (tuỳ theo)",
+          "diff": "「国によって習慣が違う」 chỉ nói **khác nhau**. 「予算に応じて選ぶ」 = chủ động **điều chỉnh cho khớp**."
+        }
+      ],
+      "mistakes": [
+        "✗ {両親|りょうしん}の{期待|きたい}に{応|おう}じて{医者|いしゃ}になった。→ ○ 期待にこたえて",
+        "✗ これは{年齢|ねんれい}に{応|おう}じて{料金|りょうきん}です。→ ○ 年齢に応じた料金です (ngay trước danh từ phải dùng 「に応じた」)"
+      ],
+      "tip": "Danh từ trước chỗ trống có **nhiều mức** (予算・年齢・体力・人数) và vế sau là điều chỉnh / lựa chọn → 「に応じて」."
+    },
+    {
+      "id": "b27-14",
+      "pattern": "〜によって",
+      "reading": "〜によって",
+      "meaning": "(1) Do, vì (2) Bằng (cách) (3) Bởi (người làm) (4) Tuỳ theo — gốc 拠る・因る",
+      "structure": [
+        "N ＋ によって／により",
+        "N ＋ による N",
+        "N ＋ によっては (tuỳ trường hợp có khi…)"
+      ],
+      "explain": "「よる」 (拠る・因る・依る) = **dựa vào**. Mọi nghĩa của 「によって」 đều xuất phát từ \"dựa vào N\":\n\n- **(1) Nguyên nhân** (xem 16課): kết quả dựa vào nguyên nhân N: 「{事故|じこ}によって{電車|でんしゃ}が{遅|おく}れた」.\n- **(2) Phương tiện / cách thức**: 「{話|はな}し{合|あ}いによって{解決|かいけつ}する」.\n- **(3) Người tạo ra** trong câu bị động (tác phẩm, phát minh, công trình): 「この{寺|てら}は〇〇によって{建|た}てられた」.\n- **(4) Tuỳ theo**: kết quả khác nhau dựa vào N: 「{人|ひと}によって{考|かんが}え{方|かた}が{違|ちが}う」. 「によっては」 = **tuỳ trường hợp, có khi**….",
+      "nuance": "Nghĩa (1) cứng, hay gặp trong tin tức; vế sau là sự thật đã xảy ra, không phải ý chí / mệnh lệnh (khi đó dùng から・ので). Nghĩa (3) dùng cho người **tạo ra** thứ gì, không dùng cho bị động thường ngày (母に叱られた).",
+      "examples": [
+        {
+          "ja": "{大雪|おおゆき}によって、{高速|こうそく}{道路|どうろ}が{一部|いちぶ}{通行止|つうこうど}めになった。",
+          "vi": "Do tuyết rơi dày, một phần đường cao tốc đã bị cấm lưu thông.",
+          "note": "Nghĩa (1): nguyên nhân"
+        },
+        {
+          "ja": "{地震|じしん}による{被害|ひがい}は、{予想|よそう}{以上|いじょう}に{大|おお}きかった。",
+          "vi": "Thiệt hại do động đất lớn hơn dự đoán.",
+          "note": "による + N"
+        },
+        {
+          "ja": "『{源氏|げんじ}{物語|ものがたり}』は{紫式部|むらさきしきぶ}によって{書|か}かれた。",
+          "vi": "\"Truyện Genji\" được viết bởi Murasaki Shikibu.",
+          "note": "Nghĩa (3): người tạo ra tác phẩm"
+        },
+        {
+          "ja": "{問題|もんだい}は{話|はな}し{合|あ}いによって{解決|かいけつ}すべきだ。",
+          "vi": "Vấn đề nên được giải quyết bằng thương lượng.",
+          "note": "Nghĩa (2): cách thức — vế sau có thể là ý kiến"
+        },
+        {
+          "ja": "{地域|ちいき}によっては、{今夜|こんや}{雪|ゆき}になるところもあるでしょう。",
+          "vi": "Tuỳ khu vực, đêm nay có nơi sẽ có tuyết.",
+          "note": "によっては = có nơi / có khi"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜おかげで／〜せいで (xem 16課)",
+          "diff": "Cũng là nguyên nhân nhưng có **cảm xúc** (biết ơn / trách móc). 「によって」 khách quan, như bản tin."
+        },
+        {
+          "with": "〜に応じて (trong bài này)",
+          "diff": "「によって」 (tuỳ theo) chỉ nêu sự khác nhau; 「に応じて」 = chủ động điều chỉnh cho phù hợp."
+        }
+      ],
+      "mistakes": [
+        "✗ {雨|あめ}によって、{傘|かさ}を{持|も}って{行|い}きなさい。→ ○ 雨だから／雨なので (vế sau là mệnh lệnh)",
+        "✗ この{絵|え}は{有名|ゆうめい}な{画家|がか}に{描|か}かれた。→ ○ 画家によって描かれた (bị động chỉ người tạo tác phẩm)"
+      ],
+      "tip": "Câu bị động về tác phẩm / phát minh (書かれた・建てられた・発明された) → 「によって」. Vế sau là 「〜ところもある・〜場合もある」 → 「によっては」."
+    },
+    {
+      "id": "b27-15",
+      "pattern": "〜において・〜における",
+      "reading": "〜において・〜における",
+      "meaning": "Ở, tại, trong (địa điểm / thời đại / lĩnh vực) — phiên bản trang trọng của で (mới)",
+      "structure": [
+        "N ＋ において／においては／においても",
+        "N ＋ における N"
+      ],
+      "explain": "**Mẫu mới.** Gốc là động từ cổ 「{於|お}く」 (= ở, tại), ngày nay **không còn dùng riêng**, nên đừng cố liên hệ với 置く — chỉ cần nhớ cả khối: 「において」 = **で**, nhưng là bản **trang trọng, văn viết**.\n\nDùng ở hai kiểu ngữ cảnh:\n- **Nơi / lúc một sự kiện được tổ chức**: 「{午後|ごご}の{部|ぶ}は{第|だい}2{会議室|かいぎしつ}において{行|おこな}います」 (= 第2会議室で).\n- **Lĩnh vực, thời đại, phạm vi mà một trạng thái / vấn đề tồn tại**: 現代社会において, ビジネスにおいて, 医療の分野において, 江戸時代において.\n\nDạng đứng trước danh từ là 「**における** N」: 「日本における外国人労働者」 — rất hay gặp trong tiêu đề, bài báo, luận văn. 「においては／においても」 = riêng trong / cả trong lĩnh vực đó.",
+      "nuance": "Không dùng trong hội thoại thân mật (✗ 昨日駅前においてラーメンを食べた). Không dùng để chỉ **nơi tồn tại** của người / vật (đó là 「に」: ✗ 机の上において本がある). Không dùng cho đánh giá theo góc nhìn của ai (đó là にとって).",
+      "examples": [
+        {
+          "ja": "{入学式|にゅうがくしき}は4{月|がつ}5{日|か}、{本校|ほんこう}{体育館|たいいくかん}において{行|おこな}われます。",
+          "vi": "Lễ nhập học sẽ được tổ chức vào ngày 5 tháng 4 tại nhà thi đấu của trường.",
+          "note": "Nơi tổ chức sự kiện = で (trang trọng)"
+        },
+        {
+          "ja": "{現代|げんだい}{社会|しゃかい}において、スマートフォンは{欠|か}かせない{道具|どうぐ}となった。",
+          "vi": "Trong xã hội hiện đại, điện thoại thông minh đã trở thành công cụ không thể thiếu.",
+          "note": "Phạm vi / thời đại"
+        },
+        {
+          "ja": "{医療|いりょう}の{分野|ぶんや}においても、AIの{活用|かつよう}が{進|すす}んでいる。",
+          "vi": "Ngay cả trong lĩnh vực y tế, việc ứng dụng AI cũng đang tiến triển.",
+          "note": "においても"
+        },
+        {
+          "ja": "{日本|にほん}における{外国人|がいこくじん}{労働者|ろうどうしゃ}の{数|かず}は、{年々|ねんねん}{増|ふ}えている。",
+          "vi": "Số lao động nước ngoài tại Nhật đang tăng hằng năm.",
+          "note": "における + N"
+        },
+        {
+          "ja": "{交渉|こうしょう}においては、{相手|あいて}の{立場|たちば}を{理解|りかい}することが{何|なに}より{重要|じゅうよう}だ。",
+          "vi": "Trong đàm phán, hiểu lập trường của đối phương là quan trọng hơn hết.",
+          "note": "においては = riêng trong việc đó"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜で",
+          "diff": "Nghĩa như nhau. 「で」 dùng mọi nơi; 「において」 chỉ hợp văn bản, phát biểu, thông báo. Trước danh từ: 「での」 ↔ 「における」."
+        },
+        {
+          "with": "〜にとって (xem 19課)",
+          "diff": "「ビジネスにおいて重要だ」 = trong lĩnh vực kinh doanh thì quan trọng. 「私にとって重要だ」 = xét từ góc của tôi. Người → にとって; lĩnh vực / nơi chốn → において."
+        }
+      ],
+      "mistakes": [
+        "✗ {机|つくえ}の{上|うえ}において{辞書|じしょ}がある。→ ○ 机の上に辞書がある (nơi tồn tại)",
+        "✗ これは{日本|にほん}において{生活|せいかつ}の{記録|きろく}だ。→ ○ 日本における生活の記録だ (ngay trước danh từ dùng 「における」; 「においての」 ít gặp hơn)"
+      ],
+      "tip": "Câu văn thông báo / tiêu đề luận văn, chỗ trống ngay trước danh từ (〜の役割・〜の現状・〜の問題) → 「における」."
+    },
+    {
+      "id": "b27-16",
+      "pattern": "〜に先立って",
+      "reading": "〜にさきだって",
+      "meaning": "Trước khi (một sự kiện chính) diễn ra, thì làm trước việc gì đó (mới)",
+      "structure": [
+        "N ＋ に先立って／に先立ち",
+        "V辞書形 ＋ に先立って",
+        "N ＋ に先立つ N"
+      ],
+      "explain": "**Mẫu mới.** 「{先立|さきだ}つ」 = 先 (trước) + 立つ (đứng) → **đứng ở phía trước, đi trước**. Hình ảnh: người cầm cờ đi trước đoàn diễu hành.\n\n「A に先立って B」 = **trước khi A (sự kiện chính) diễn ra, B được làm trước** — B thường là bước chuẩn bị, mở màn, hoặc việc liên quan cần xong trước.\n\nA thường là sự kiện có lịch trình: 公開, 発売, 開幕, 開会, 工事, 試合, 選挙, 出発, 契約. B thường là: 説明会, 試写会, 記者会見, 調査, 挨拶, 点検, 演奏.\n\nNgoài ra còn quán ngữ hay gặp trong bài đọc: 「先立つもの」 = thứ cần trước tiên (thường là tiền).",
+      "nuance": "Trang trọng, hay gặp trong tin tức, thông báo. Không dùng cho việc vặt cá nhân hằng ngày (✗ 寝るに先立って歯を磨く → 寝る前に).",
+      "examples": [
+        {
+          "ja": "{映画|えいが}の{公開|こうかい}に{先立|さきだ}って、{主演|しゅえん}{俳優|はいゆう}による{舞台|ぶたい}{挨拶|あいさつ}が{行|おこな}われた。",
+          "vi": "Trước khi bộ phim công chiếu, nam diễn viên chính đã có buổi chào khán giả trên sân khấu.",
+          "note": "N + に先立って"
+        },
+        {
+          "ja": "{工事|こうじ}を{始|はじ}めるに{先立|さきだ}ち、{近隣|きんりん}の{住民|じゅうみん}に{説明会|せつめいかい}を{開|ひら}いた。",
+          "vi": "Trước khi khởi công, chúng tôi đã mở buổi giải thích cho cư dân xung quanh.",
+          "note": "V辞書形 + に先立ち"
+        },
+        {
+          "ja": "{新製品|しんせいひん}の{発売|はつばい}に{先立|さきだ}つ{記者|きしゃ}{会見|かいけん}で、{社長|しゃちょう}{自|みずか}らが{商品|しょうひん}を{紹介|しょうかい}した。",
+          "vi": "Tại buổi họp báo trước khi ra mắt sản phẩm mới, đích thân giám đốc đã giới thiệu sản phẩm.",
+          "note": "に先立つ + N"
+        },
+        {
+          "ja": "{試合|しあい}に{先立|さきだ}って、{両国|りょうこく}の{国歌|こっか}が{演奏|えんそう}された。",
+          "vi": "Trước trận đấu, quốc ca của hai nước được cử hành.",
+          "note": ""
+        },
+        {
+          "ja": "{海外|かいがい}{赴任|ふにん}に{先立|さきだ}ち、{社員|しゃいん}は{三|さん}か{月|げつ}の{語学|ごがく}{研修|けんしゅう}を{受|う}ける。",
+          "vi": "Trước khi đi công tác dài hạn ở nước ngoài, nhân viên sẽ học ngoại ngữ trong ba tháng.",
+          "note": ""
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜にあたって (trong bài này, xem 1課)",
+          "diff": "「にあたって」 = tâm thế **khi đối diện** với việc đó (có thể là ngay lúc diễn ra: 開会にあたり挨拶する). 「に先立って」 nhấn mạnh **thứ tự**: B xong **trước** A."
+        },
+        {
+          "with": "〜前に",
+          "diff": "Trung tính, đời thường. 「に先立って」 trang trọng, đi với sự kiện chính thức."
+        }
+      ],
+      "mistakes": [
+        "✗ {寝|ね}るに{先立|さきだ}って{歯|は}を{磨|みが}く。→ ○ 寝る前に",
+        "✗ {発売|はつばい}を{先立|さきだ}って… → ○ 発売に先立って (trợ từ に)"
+      ],
+      "tip": "Vế sau là sự kiện **mở màn / chuẩn bị** (試写会・説明会・記者会見・点検) cho một sự kiện lớn phía trước → 「に先立って」."
+    }
+  ],
+  "summary": [
+    {
+      "pattern": "〜に際して・〜にあたって",
+      "meaning": "nhân dịp, khi bắt tay vào",
+      "key": "際する・当たる; sự kiện lớn; に際しての N"
+    },
+    {
+      "pattern": "〜にわたって",
+      "meaning": "trải suốt",
+      "key": "渡る; khoảng thời gian / phạm vi rộng; にわたる N"
+    },
+    {
+      "pattern": "〜を通じて・〜を通して",
+      "meaning": "thông qua / suốt",
+      "key": "通す; trợ từ を; trung gian hoặc cả khoảng"
+    },
+    {
+      "pattern": "〜に限って",
+      "meaning": "riêng… thì không / đúng lúc… lại",
+      "key": "限る; than xui; に限り = chỉ riêng"
+    },
+    {
+      "pattern": "〜に関して",
+      "meaning": "về, liên quan đến",
+      "key": "関する; trang trọng của について; に関する N"
+    },
+    {
+      "pattern": "〜をめぐって",
+      "meaning": "xoay quanh (tranh cãi)",
+      "key": "巡る; trợ từ を; vế sau 対立・議論"
+    },
+    {
+      "pattern": "〜に対して",
+      "meaning": "đối với / trái lại",
+      "key": "対する; hướng tới; のに対して = so sánh"
+    },
+    {
+      "pattern": "〜にこたえて",
+      "meaning": "đáp lại (kỳ vọng)",
+      "key": "応える; 期待・要望・声援"
+    },
+    {
+      "pattern": "〜に基づいて",
+      "meaning": "căn cứ vào",
+      "key": "基づく; データ・法律・事実; ≠ をもとに"
+    },
+    {
+      "pattern": "〜に沿って",
+      "meaning": "dọc theo / đúng theo",
+      "key": "沿う; 川・道 / 方針・計画・ご希望"
+    },
+    {
+      "pattern": "〜にしたがって・〜につれて",
+      "meaning": "càng… càng / làm theo",
+      "key": "従う・連れる; 指示 → chỉ したがって"
+    },
+    {
+      "pattern": "〜に伴って",
+      "meaning": "cùng với / kéo theo",
+      "key": "伴う; văn viết; 移転・工事に伴い"
+    },
+    {
+      "pattern": "〜に応じて",
+      "meaning": "tương ứng, tuỳ theo",
+      "key": "応じる; 予算・年齢・レベル; に応じた N"
+    },
+    {
+      "pattern": "〜によって",
+      "meaning": "do / bằng / bởi / tuỳ",
+      "key": "拠る; bị động tác phẩm; によっては"
+    },
+    {
+      "pattern": "〜において・〜における",
+      "meaning": "ở, tại, trong (trang trọng)",
+      "key": "於く (cổ); = で; における N"
+    },
+    {
+      "pattern": "〜に先立って",
+      "meaning": "trước khi (sự kiện chính)",
+      "key": "先立つ; B làm trước A; に先立つ N"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b27-q1",
+      "kind": "form",
+      "ref": "b27-2",
+      "q": "この{遺跡|いせき}の{発掘|はっくつ}{調査|ちょうさ}は、30{年|ねん}（　　）{続|つづ}けられてきた。",
+      "options": [
+        "にわたって",
+        "に応じて",
+        "に沿って",
+        "に限って"
+      ],
+      "answer": 0,
+      "vi": "Cuộc khai quật di tích này đã được tiến hành suốt 30 năm.",
+      "why": "「30年」 là một khoảng thời gian dài, vế sau là sự việc kéo dài → **にわたって** (渡る = trải qua suốt). 「に応じて」 cần danh từ có nhiều mức để điều chỉnh; 「に沿って」 cần con đường / kế hoạch; 「に限って」 = riêng / đúng lúc, không hợp nghĩa."
+    },
+    {
+      "id": "b27-q2",
+      "kind": "form",
+      "ref": "b27-3",
+      "q": "{大学|だいがく}の{先輩|せんぱい}（　　）、{憧|あこが}れていた{作家|さっか}に{会|あ}うことができた。",
+      "options": [
+        "に対して",
+        "に関して",
+        "を通して",
+        "をめぐって"
+      ],
+      "answer": 2,
+      "vi": "Thông qua một đàn anh đại học, tôi đã được gặp nhà văn mà mình hằng ngưỡng mộ.",
+      "why": "Đàn anh là **người trung gian** giúp gặp nhà văn → **を通して**. 「に対して」 = hướng thái độ tới đàn anh; 「に関して」 = về chủ đề đàn anh; 「をめぐって」 = tranh cãi xoay quanh — đều không hợp."
+    },
+    {
+      "id": "b27-q3",
+      "kind": "form",
+      "ref": "b27-6",
+      "q": "{駅前|えきまえ}の{再開発|さいかいはつ}{計画|けいかく}（　　）、{市|し}と{地元|じもと}の{商店街|しょうてんがい}が{対立|たいりつ}している。",
+      "options": [
+        "に応じて",
+        "をめぐって",
+        "に先立って",
+        "に沿って"
+      ],
+      "answer": 1,
+      "vi": "Xoay quanh kế hoạch tái phát triển khu trước ga, thành phố và khu phố buôn bán địa phương đang đối đầu nhau.",
+      "why": "Vế sau là 「対立している」 (hai bên đối lập) → **をめぐって**. 「に沿って」 = làm đúng theo kế hoạch — trái với ý đối lập; 「に先立って」 = trước khi; 「に応じて」 = điều chỉnh theo mức độ."
+    },
+    {
+      "id": "b27-q4",
+      "kind": "form",
+      "ref": "b27-8",
+      "q": "{車|くるま}いすを{使|つか}う{人々|ひとびと}の{声|こえ}（　　）、{駅|えき}にエレベーターが{設置|せっち}された。",
+      "options": [
+        "に限って",
+        "にわたって",
+        "に先立って",
+        "にこたえて"
+      ],
+      "answer": 3,
+      "vi": "Đáp lại tiếng nói của những người dùng xe lăn, nhà ga đã lắp thang máy.",
+      "why": "「声」 = nguyện vọng của người khác, vế sau là hành động đáp ứng → **にこたえて** (応える = đáp lại). 「に限って」 vô nghĩa ở đây; 「にわたって」 cần khoảng thời gian / phạm vi; 「に先立って」 cần sự kiện chính diễn ra sau."
+    },
+    {
+      "id": "b27-q5",
+      "kind": "form",
+      "ref": "b27-15",
+      "q": "{本|ほん}{大会|たいかい}は{来月|らいげつ}10{日|か}、{市民|しみん}{体育館|たいいくかん}（　　）{開催|かいさい}されます。",
+      "options": [
+        "に対して",
+        "において",
+        "にわたって",
+        "に伴って"
+      ],
+      "answer": 1,
+      "vi": "Giải đấu sẽ được tổ chức tại nhà thi đấu thành phố vào ngày 10 tháng sau.",
+      "why": "Nơi tổ chức sự kiện, văn thông báo trang trọng → **において** (= で). 「に対して」 chỉ hướng tác động; 「にわたって」 cần khoảng / phạm vi rộng, không chỉ một địa điểm cụ thể; 「に伴って」 cần sự kiện kéo theo."
+    },
+    {
+      "id": "b27-q6",
+      "kind": "form",
+      "ref": "b27-16",
+      "q": "{新作|しんさく}ゲームの{発売|はつばい}（　　）、{全国|ぜんこく}5か{所|しょ}で{体験会|たいけんかい}が{開|ひら}かれた。",
+      "options": [
+        "に先立って",
+        "につれて",
+        "をめぐって",
+        "に対して"
+      ],
+      "answer": 0,
+      "vi": "Trước khi ra mắt trò chơi mới, các buổi chơi thử đã được tổ chức tại 5 địa điểm trên toàn quốc.",
+      "why": "Buổi chơi thử là sự kiện **mở màn trước** ngày phát hành → **に先立って**. 「につれて」 cần sự thay đổi dần; 「をめぐって」 cần tranh cãi; 「発売に対して」 không hợp nghĩa."
+    },
+    {
+      "id": "b27-q7",
+      "kind": "order",
+      "ref": "b27-11",
+      "q": "{子|こ}どもが ＿＿＿ ★ ＿＿＿ ＿＿＿ お{金|かね}も{増|ふ}えていく。",
+      "options": [
+        "かかる",
+        "成長する",
+        "{教育|きょういく}に",
+        "につれて"
+      ],
+      "order": [
+        1,
+        3,
+        2,
+        0
+      ],
+      "answer": 3,
+      "vi": "Con cái càng lớn thì số tiền chi cho việc học cũng tăng lên.",
+      "why": "子どもが **成長する につれて 教育に かかる** お金も増えていく → ★ (ô thứ 2) = 「につれて」. 「につれて」 đứng ngay sau động từ chỉ thay đổi 「成長する」; vế sau 「教育にかかる」 bổ nghĩa cho 「お金」. Không thể đưa 「教育にかかる」 lên trước vì 「かかる」 không nối được với 「成長する」."
+    },
+    {
+      "id": "b27-q8",
+      "kind": "usage",
+      "ref": "b27-7",
+      "q": "「〜に{対|たい}して」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "私に対して、家族は何よりも大切な存在だ。",
+        "日本の歴史に対してレポートを書いた。",
+        "姉が社交的なのに対して、妹は人見知りだ。",
+        "大雨に対して、試合が中止になった。"
+      ],
+      "answer": 2,
+      "vi": "(3) Trong khi chị gái hoà đồng thì em gái lại nhút nhát với người lạ.",
+      "why": "(3) đặt hai người đối diện nhau để so sánh → 「のに対して」 đúng. (1) đánh giá từ góc nhìn của tôi → 「私にとって」; (2) chủ đề bài báo cáo → 「について／に関して」; (4) nguyên nhân → 「大雨によって／のため」."
+    }
+  ],
+  "practice": [
+    {
+      "id": "b27-p1",
+      "kind": "form",
+      "ref": "b27-1",
+      "q": "{社会人|しゃかいじん}としての{生活|せいかつ}を{始|はじ}める（　　）、{新入|しんにゅう}{社員|しゃいん}たちは{一週間|いっしゅうかん}の{研修|けんしゅう}を{受|う}けた。",
+      "options": [
+        "につれて",
+        "にあたって",
+        "をめぐって",
+        "に限って"
+      ],
+      "answer": 1,
+      "vi": "Khi bắt đầu cuộc sống của người đi làm, các nhân viên mới đã tham gia khoá đào tạo một tuần.",
+      "why": "Một bước ngoặt quan trọng + vế sau là sự chuẩn bị → **にあたって** (当たる = đứng trước, đối mặt). 「につれて」 cần thay đổi dần; 「をめぐって」 cần tranh cãi; 「に限って」 = riêng / đúng lúc xui."
+    },
+    {
+      "id": "b27-p2",
+      "kind": "form",
+      "ref": "b27-4",
+      "q": "{傘|かさ}を{持|も}たずに{出|で}かけた{日|ひ}（　　）、{夕方|ゆうがた}から{雨|あめ}が{降|ふ}り{出|だ}す。",
+      "options": [
+        "にわたって",
+        "に応じて",
+        "において",
+        "に限って"
+      ],
+      "answer": 3,
+      "vi": "Cứ hôm nào ra ngoài không mang ô là y như rằng chiều lại mưa.",
+      "why": "Than xui: **đúng vào** hôm không mang ô thì lại mưa → **に限って** (限る = khoanh riêng). 「にわたって」 cần khoảng dài; 「に応じて」 = tương ứng mức độ; 「において」 = nơi chốn trang trọng."
+    },
+    {
+      "id": "b27-p3",
+      "kind": "form",
+      "ref": "b27-5",
+      "q": "{個人|こじん}{情報|じょうほう}の{取|と}り{扱|あつか}い（　　）は、{当社|とうしゃ}のホームページをご{確認|かくにん}ください。",
+      "options": [
+        "に関して",
+        "に伴って",
+        "にこたえて",
+        "に先立って"
+      ],
+      "answer": 0,
+      "vi": "Về việc xử lý thông tin cá nhân, xin vui lòng xem trang web của công ty chúng tôi.",
+      "why": "Nêu **chủ đề** trong văn thông báo → **に関して(は)**. 「に伴って」 = kéo theo; 「にこたえて」 cần kỳ vọng / yêu cầu; 「に先立って」 = trước khi — đều không hợp với 「〜は、ご確認ください」."
+    },
+    {
+      "id": "b27-p4",
+      "kind": "form",
+      "ref": "b27-9",
+      "q": "この{報告書|ほうこくしょ}は、{現地|げんち}で{集|あつ}めたデータ（　　）{作成|さくせい}されたものです。",
+      "options": [
+        "に対して",
+        "に先立って",
+        "に基づいて",
+        "に限って"
+      ],
+      "answer": 2,
+      "vi": "Bản báo cáo này được soạn dựa trên dữ liệu thu thập tại hiện trường.",
+      "why": "Dữ liệu là **căn cứ** của báo cáo → **に基づいて** (基づく = đặt trên nền). 「に対して」 = hướng tới; 「に先立って」 = trước khi; 「に限って」 = chỉ riêng / đúng lúc."
+    },
+    {
+      "id": "b27-p5",
+      "kind": "form",
+      "ref": "b27-10",
+      "q": "{海岸|かいがん}（　　）{続|つづ}く{遊歩道|ゆうほどう}は、{朝|あさ}の{散歩|さんぽ}にぴったりだ。",
+      "options": [
+        "に応じて",
+        "をめぐって",
+        "に沿って",
+        "にこたえて"
+      ],
+      "answer": 2,
+      "vi": "Con đường đi bộ chạy dọc bờ biển rất hợp để tản bộ buổi sáng.",
+      "why": "Đường đi bộ chạy **dọc theo** bờ biển → **に沿って** (沿う = men theo). 「をめぐって」 mang nghĩa tranh cãi, không phải \"vòng quanh\" về mặt vật lý trong ngữ pháp này; 「に応じて」「にこたえて」 không hợp nghĩa."
+    },
+    {
+      "id": "b27-p6",
+      "kind": "form",
+      "ref": "b27-12",
+      "q": "{駅|えき}の{改修|かいしゅう}{工事|こうじ}（　　）、{来月|らいげつ}から{東口|ひがしぐち}がご{利用|りよう}いただけなくなります。",
+      "options": [
+        "に伴い",
+        "につれ",
+        "に対し",
+        "に限り"
+      ],
+      "answer": 0,
+      "vi": "Do công trình cải tạo nhà ga, từ tháng sau quý khách sẽ không sử dụng được cửa Đông.",
+      "why": "Một sự kiện (工事) **kéo theo** hệ quả, văn thông báo → **に伴い**. 「につれ」 chỉ dùng cho thay đổi dần dần song song; 「に対し」 = hướng tới / đối chiếu; 「に限り」 = chỉ riêng."
+    },
+    {
+      "id": "b27-p7",
+      "kind": "form",
+      "ref": "b27-13",
+      "q": "このジムでは、{利用者|りようしゃ}の{体力|たいりょく}（　　）トレーニングメニューを{作|つく}ってくれる。",
+      "options": [
+        "にこたえた",
+        "をめぐった",
+        "に先立った",
+        "に応じた"
+      ],
+      "answer": 3,
+      "vi": "Phòng gym này lập thực đơn tập luyện phù hợp với thể lực của từng người.",
+      "why": "「体力」 có nhiều mức, thực đơn được điều chỉnh cho khớp → **に応じた** + N. 「にこたえた」 cần kỳ vọng / yêu cầu; 「をめぐった」 cần tranh cãi (và dạng thường là をめぐる); 「に先立った」 sai nghĩa."
+    },
+    {
+      "id": "b27-p8",
+      "kind": "form",
+      "ref": "b27-14",
+      "q": "{国|くに}（　　）、{食事|しょくじ}のマナーはずいぶん{違|ちが}う。",
+      "options": [
+        "に対して",
+        "によって",
+        "にわたって",
+        "において"
+      ],
+      "answer": 1,
+      "vi": "Tuỳ từng nước mà phép tắc ăn uống khác nhau khá nhiều.",
+      "why": "Vế sau 「違う」 → \"**tuỳ theo**\" → **によって**. 「において」 = ở một nơi cụ thể, không mang nghĩa \"mỗi nước mỗi khác\"; 「にわたって」 = trải suốt; 「に対して」 = hướng tới."
+    },
+    {
+      "id": "b27-p9",
+      "kind": "order",
+      "ref": "b27-15",
+      "q": "{私|わたし}は{江戸|えど}{時代|じだい}の ＿＿＿ ＿＿＿ ★ ＿＿＿ について{研究|けんきゅう}している。",
+      "options": [
+        "女性の",
+        "日本",
+        "における",
+        "役割"
+      ],
+      "order": [
+        1,
+        2,
+        0,
+        3
+      ],
+      "answer": 0,
+      "vi": "Tôi đang nghiên cứu về vai trò của phụ nữ ở Nhật Bản thời Edo.",
+      "why": "江戸時代の **日本 における 女性の 役割** について → ★ (ô thứ 3) = 「女性の」. 「における」 phải đứng ngay sau danh từ nơi chốn 「日本」 và bổ nghĩa cho cụm 「女性の役割」."
+    },
+    {
+      "id": "b27-p10",
+      "kind": "form",
+      "ref": "b27-11",
+      "q": "{画面|がめん}に{表示|ひょうじ}される{説明|せつめい}（　　）、{操作|そうさ}を{進|すす}めてください。",
+      "options": [
+        "につれて",
+        "に伴って",
+        "にしたがって",
+        "にわたって"
+      ],
+      "answer": 2,
+      "vi": "Hãy thao tác theo hướng dẫn hiển thị trên màn hình.",
+      "why": "**Làm theo** hướng dẫn → **にしたがって** (従う = tuân theo). 「につれて」「に伴って」 chỉ có nghĩa biến đổi song song / kéo theo, không có nghĩa \"làm theo chỉ dẫn\"; 「にわたって」 = trải suốt."
+    },
+    {
+      "id": "b27-p11",
+      "kind": "usage",
+      "ref": "b27-3",
+      "q": "「〜を{通|つう}じて」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "夏休みを通じて、一度だけ海に行った。",
+        "彼とはインターネットに通じて知り合った。",
+        "会議は午後3時を通じて行われた。",
+        "この島は一年を通じて観光客が絶えない。"
+      ],
+      "answer": 3,
+      "vi": "(4) Hòn đảo này quanh năm không ngớt khách du lịch.",
+      "why": "(4) trạng thái liên tục suốt cả năm → đúng. (1) một sự kiện đơn lẻ, không phải trạng thái suốt kỳ nghỉ → 夏休み中に; (2) sai trợ từ → インターネットを通じて; (3) 「3時」 là thời điểm, không phải khoảng → 3時に."
+    },
+    {
+      "id": "b27-p12",
+      "kind": "order",
+      "ref": "b27-6",
+      "q": "{新|あたら}しいダムの ＿＿＿ ＿＿＿ ★ ＿＿＿ {今|いま}も{続|つづ}いている。",
+      "options": [
+        "対立が",
+        "住民同士の",
+        "建設",
+        "をめぐる"
+      ],
+      "order": [
+        2,
+        3,
+        1,
+        0
+      ],
+      "answer": 1,
+      "vi": "Sự đối lập giữa các cư dân xoay quanh việc xây đập mới đến nay vẫn còn tiếp diễn.",
+      "why": "新しいダムの **建設 をめぐる 住民同士の 対立が** 今も続いている → ★ (ô thứ 3) = 「住民同士の」. 「をめぐる」 đứng sau danh từ vấn đề 「建設」 và bổ nghĩa cho 「対立」; 「対立が」 là chủ ngữ của 「続いている」 nên đứng cuối."
+    }
+  ],
+  "test": [
+    {
+      "id": "b27-t1",
+      "kind": "form",
+      "ref": "b27-8",
+      "q": "{監督|かんとく}の{期待|きたい}（　　）、{彼|かれ}は{決勝|けっしょう}で2{点|てん}を{決|き}めた。",
+      "options": [
+        "に応じて",
+        "に基づいて",
+        "にこたえて",
+        "に関して"
+      ],
+      "answer": 2,
+      "vi": "Đáp lại kỳ vọng của huấn luyện viên, anh ấy đã ghi 2 bàn trong trận chung kết.",
+      "why": "「期待」 + hành động đáp lại → **にこたえて**. 「期待に応じて」 không tự nhiên vì 応じて dùng cho mức độ / số lượng cần điều chỉnh; 「に基づいて」 cần căn cứ khách quan; 「に関して」 chỉ nêu chủ đề."
+    },
+    {
+      "id": "b27-t2",
+      "kind": "form",
+      "ref": "b27-16",
+      "q": "{投票日|とうひょうび}（　　）、{各|かく}{候補者|こうほしゃ}が{政策|せいさく}を{語|かた}る{討論会|とうろんかい}が{開|ひら}かれた。",
+      "options": [
+        "に先立ち",
+        "に伴い",
+        "に応じ",
+        "に対し"
+      ],
+      "answer": 0,
+      "vi": "Trước ngày bỏ phiếu, một buổi tranh luận để các ứng viên trình bày chính sách đã được tổ chức.",
+      "why": "Buổi tranh luận diễn ra **trước** sự kiện chính (ngày bỏ phiếu) → **に先立ち**. 「に伴い」 = kéo theo (không có quan hệ trước–sau); 「に応じ」 = tương ứng mức độ; 「に対し」 = hướng tới."
+    },
+    {
+      "id": "b27-t3",
+      "kind": "form",
+      "ref": "b27-7",
+      "q": "{昼間|ひるま}は{観光客|かんこうきゃく}でにぎわう（　　）、{夜|よる}になるとこの{通|とお}りは{静|しず}まり{返|かえ}る。",
+      "options": [
+        "のにしたがって",
+        "のに伴って",
+        "のによって",
+        "のに対して"
+      ],
+      "answer": 3,
+      "vi": "Trong khi ban ngày nhộn nhịp khách du lịch thì đến đêm con phố này lại im phăng phắc.",
+      "why": "Hai vế **tương phản** (ngày nhộn nhịp ↔ đêm im ắng) → **のに対して**. 「のにしたがって」「のに伴って」 = A thay đổi kéo B thay đổi theo (cùng chiều), không phải đối chiếu; 「のによって」 sai cấu trúc."
+    },
+    {
+      "id": "b27-t4",
+      "kind": "form",
+      "ref": "b27-2",
+      "q": "{三日間|みっかかん}（　　）{話|はな}し{合|あ}いの{末|すえ}、{両社|りょうしゃ}はようやく{合意|ごうい}に{至|いた}った。",
+      "options": [
+        "に沿った",
+        "にわたる",
+        "に限った",
+        "に先立つ"
+      ],
+      "answer": 1,
+      "vi": "Sau cuộc thương lượng kéo dài suốt ba ngày, hai công ty cuối cùng đã đạt được thoả thuận.",
+      "why": "Khoảng thời gian + danh từ 「話し合い」 → **にわたる** + N. 「に沿った」 cần lộ trình / kế hoạch; 「に限った」 = chỉ giới hạn trong; 「三日間に先立つ」 không có nghĩa."
+    },
+    {
+      "id": "b27-t5",
+      "kind": "order",
+      "ref": "b27-9",
+      "q": "{裁判|さいばん}は ＿＿＿ ＿＿＿ ★ ＿＿＿ {行|おこな}われなければならない。",
+      "options": [
+        "{従|したが}って",
+        "{手続|てつづ}きに",
+        "{法律|ほうりつ}に",
+        "{基|もと}づいた"
+      ],
+      "order": [
+        2,
+        3,
+        1,
+        0
+      ],
+      "answer": 1,
+      "vi": "Phiên toà phải được tiến hành theo đúng thủ tục dựa trên pháp luật.",
+      "why": "裁判は **法律に 基づいた 手続きに 従って** 行われなければならない → ★ (ô thứ 3) = 「手続きに」. 「法律に基づいた」 bổ nghĩa cho danh từ 「手続き」 (dạng 基づいた + N); 「手続きに従って」 bổ nghĩa cho 「行われる」. Đảo thành 「手続きに基づいた法律に従って」 thì vô nghĩa, còn 「基づいた」 không thể đứng ngay trước động từ 「行われる」."
+    },
+    {
+      "id": "b27-t6",
+      "kind": "form",
+      "ref": "b27-14",
+      "q": "{天候|てんこう}（　　）、{花火|はなび}{大会|たいかい}は{中止|ちゅうし}になる{場合|ばあい}もございます。",
+      "options": [
+        "に沿っては",
+        "に先立っては",
+        "に対しては",
+        "によっては"
+      ],
+      "answer": 3,
+      "vi": "Tuỳ thời tiết, lễ hội pháo hoa cũng có trường hợp bị huỷ.",
+      "why": "Vế sau 「〜場合もある」 → **によっては** (tuỳ trường hợp, có khi). 「に沿っては」 = theo đúng; 「に先立っては」 = trước khi; 「に対しては」 = đối với — không hợp nghĩa \"tuỳ\"."
+    },
+    {
+      "id": "b27-t7",
+      "kind": "usage",
+      "ref": "b27-15",
+      "q": "「〜において」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "卒業式は本校講堂において執り行われます。",
+        "机の上において、辞書が置いてある。",
+        "昨日、友達と駅前のカフェにおいてお茶を飲んだよ。",
+        "私において、この仕事は難しすぎる。"
+      ],
+      "answer": 0,
+      "vi": "(1) Lễ tốt nghiệp sẽ được cử hành tại giảng đường của trường.",
+      "why": "(1) nơi tổ chức sự kiện, văn trang trọng → đúng. (2) nơi tồn tại của đồ vật → 机の上に; (3) hội thoại thân mật → カフェで; (4) đánh giá từ góc nhìn của người → 私にとって."
+    },
+    {
+      "id": "b27-t8",
+      "kind": "order",
+      "ref": "b27-12",
+      "q": "{会議|かいぎ}では、{地方|ちほう}の ＿＿＿ ＿＿＿ ★ ＿＿＿ {話|はな}し{合|あ}われた。",
+      "options": [
+        "伴う",
+        "問題が",
+        "さまざまな",
+        "人口減少に"
+      ],
+      "order": [
+        3,
+        0,
+        2,
+        1
+      ],
+      "answer": 2,
+      "vi": "Trong cuộc họp, nhiều vấn đề kéo theo sự suy giảm dân số ở các địa phương đã được thảo luận.",
+      "why": "地方の **人口減少に 伴う さまざまな 問題が** 話し合われた → ★ (ô thứ 3) = 「さまざまな」. 「〜に伴う」 + danh từ; 「さまざまな」 bổ nghĩa cho 「問題」; 「問題が」 là chủ ngữ của 「話し合われた」."
+    }
+  ]
+}

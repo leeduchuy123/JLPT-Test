@@ -1,0 +1,743 @@
+{
+  "id": "b09",
+  "track": "bunpo",
+  "intro": "Bài này gom các mẫu nói về **quan hệ \"A thay đổi / A thế nào → B cũng thay đổi theo\"**. Có thể chia làm ba nhóm:\n\n- **Nhóm \"càng… càng…\" (song song thay đổi)**: 〜につれて・〜にしたがって, 〜に伴って・〜とともに. A biến đổi → B biến đổi theo. Khác nhau ở chỗ: có nhấn mạnh **từng bước dần dần** không (につれて) hay nhìn **cả sự thay đổi nói chung** (に伴って), và có dùng được với thay đổi **không theo một chiều** (tăng–giảm) không.\n- **Nhóm \"tuỳ vào A mà B khác đi\"**: 〜次第だ (kết quả **được quyết định bởi** A), 〜に応じて (**điều chỉnh cho phù hợp** với A).\n- **〜につけて**: \"cứ mỗi lần… là lại (cảm thấy)…\" — vế sau là **cảm xúc, suy nghĩ** tự trào lên.\n\nĐiểm then chốt để không mất điểm:\n- Trước 〜につれて／にしたがって／に伴って／とともに phải là **từ chỉ sự biến đổi** (進む・増える・高くなる・〜化・変化・発展…), không phải hành động một lần.\n- 〜次第 gắn **thẳng vào danh từ** (天気次第), còn 〜に応じて cần trợ từ **に**.\n- 〜につけて gắn vào **động từ cảm nhận** (見る・聞く・読む・思う), vế sau là cảm xúc.",
+  "points": [
+    {
+      "id": "b09-1",
+      "pattern": "〜につれて・〜にしたがって",
+      "reading": "〜につれて・〜にしたがって",
+      "meaning": "Càng… thì càng…; cùng với việc A thay đổi dần thì B cũng thay đổi theo",
+      "structure": [
+        "V辞書形 ＋ につれて／にしたがって",
+        "N (danh từ chỉ biến đổi: 進歩・変化・成長…) ＋ につれて／にしたがって",
+        "Dạng văn viết: 〜につれ／〜にしたがい"
+      ],
+      "explain": "Hình dung hai chiếc kim đồng hồ chạy cùng nhau: kim A nhích một chút thì kim B cũng nhích theo một chút. 「AにつれてB」 = **A thay đổi dần dần, kéo theo B thay đổi dần dần**.\n\n- Vế A phải là **sự biến đổi có tiến trình**: 進む・上がる・増える・多くなる・年を取る・成長する・〜化が進む. Không dùng với hành động xảy ra một lần (着く・卒業する).\n- Vế B cũng là **sự biến đổi** (〜てくる・〜ていく・〜くなる・〜ようになる là dấu hiệu rất hay gặp).\n\n**Khác nhau giữa hai mẫu:**\n- **につれて** (連れる = dắt theo): B bị A \"dắt theo\" một cách **tự nhiên**. Chỉ dùng khi cả hai bên thay đổi **theo một chiều** (càng ngày càng…). Vế sau **không** là hành động có chủ ý.\n- **にしたがって** (従う = đi theo): phạm vi rộng hơn một chút, dùng được cả khi thay đổi không hẳn một chiều (vd 「{気圧|きあつ}の{変化|へんか}にしたがって、{頭痛|ずつう}がひどくなったり{軽|かる}くなったりする」); nhưng vế sau phần lớn cũng là thay đổi tự nhiên.\n\n**Nghĩa thứ hai của にしたがって** (đã học ở N3): 「N + にしたがって」 = **làm theo** (chỉ thị, quy định, hướng dẫn): 「{係員|かかりいん}の{指示|しじ}にしたがって」. Nghĩa này **không** thay được bằng につれて.",
+      "nuance": "Trung tính; につれ／にしたがい là dạng văn viết. Vế sau thường không phải ý chí, mệnh lệnh, rủ rê (✗ 「暖かくなるにつれて、出かけましょう」). Với につれて điều này càng chặt.",
+      "examples": [
+        {
+          "ja": "{日|ひ}が{沈|しず}むにつれて、{気温|きおん}がぐっと{下|さ}がってきた。",
+          "vi": "Mặt trời càng lặn xuống thì nhiệt độ càng giảm hẳn.",
+          "note": "V辞書形 + につれて · vế sau 〜てきた"
+        },
+        {
+          "ja": "{練習|れんしゅう}を{重|かさ}ねるにつれて、{少|すこ}しずつ{自信|じしん}がついてきた。",
+          "vi": "Càng luyện tập nhiều tôi càng dần dần có thêm tự tin.",
+          "note": "Thay đổi từng bước"
+        },
+        {
+          "ja": "{物語|ものがたり}が{進|すす}むにつれ、{主人公|しゅじんこう}の{過去|かこ}が{明|あき}らかになっていく。",
+          "vi": "Câu chuyện càng tiến triển thì quá khứ của nhân vật chính càng dần sáng tỏ.",
+          "note": "につれ = dạng văn viết"
+        },
+        {
+          "ja": "{標高|ひょうこう}が{上|あ}がるにしたがって、{植物|しょくぶつ}の{種類|しゅるい}も{変|か}わっていく。",
+          "vi": "Độ cao càng tăng thì chủng loại thực vật cũng thay đổi theo.",
+          "note": "にしたがって · mô tả quy luật"
+        },
+        {
+          "ja": "{都市化|としか}にしたがい、{昔|むかし}ながらの{商店|しょうてん}が{次々|つぎつぎ}と{姿|すがた}を{消|け}した。",
+          "vi": "Cùng với quá trình đô thị hoá, các cửa hàng kiểu xưa lần lượt biến mất.",
+          "note": "N (〜化) + にしたがい"
+        },
+        {
+          "ja": "{地震|じしん}の{際|さい}は、{係員|かかりいん}の{指示|しじ}にしたがって{落|お}ち{着|つ}いて{避難|ひなん}してください。",
+          "vi": "Khi có động đất, hãy bình tĩnh sơ tán theo hướng dẫn của nhân viên.",
+          "note": "Nghĩa 2: làm theo chỉ thị (không thay bằng につれて)"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜に伴って・〜とともに",
+          "diff": "「につれて」 nhấn vào **từng bước dần dần** song song (càng… càng…), văn phong trung tính. 「に伴って」 cứng hơn, nhìn **toàn bộ sự thay đổi** như một khối, và vế sau có thể là **hành động có chủ ý** (〜を見直す, 〜する必要がある)."
+        },
+        {
+          "with": "〜ば〜ほど",
+          "diff": "「高く登れば登るほど」 cũng là \"càng… càng…\" nhưng có thể nói về **mức độ** (càng đắt càng tốt) chứ không nhất thiết là thay đổi theo thời gian. 「につれて」 luôn gắn với **sự biến đổi đang diễn ra**."
+        }
+      ],
+      "mistakes": [
+        "✗ {駅|えき}に{着|つ}くにつれて、{友達|ともだち}に{電話|でんわ}した。→ ○ 駅に着いたら、すぐ友達に電話した。(A là việc một lần, B là hành động có chủ ý)",
+        "✗ {先生|せんせい}の{指示|しじ}につれて{行動|こうどう}する。→ ○ 先生の指示**にしたがって** (nghĩa \"làm theo\" chỉ có ở にしたがって)",
+        "✗ {暖|あたた}かくなるにつれて、{旅行|りょこう}に{行|い}こう。→ vế sau là ý chí, không dùng được."
+      ],
+      "tip": "Vế sau có 「〜てくる／〜ていく／だんだん／ますます／次第に」 và vế trước là động từ biến đổi → 「につれて／にしたがって」. Nếu trước chỗ trống là 指示・ルール・規則 → chỉ 「にしたがって」."
+    },
+    {
+      "id": "b09-2",
+      "pattern": "〜に伴って・〜とともに",
+      "reading": "〜にともなって・〜とともに",
+      "meaning": "Cùng với (sự thay đổi của A) thì B cũng thay đổi; kéo theo",
+      "structure": [
+        "V辞書形 ＋ に伴って／とともに",
+        "N (danh từ chỉ biến đổi) ＋ に伴って／とともに",
+        "N ＋ に伴う ＋ N",
+        "Dạng văn viết: 〜に伴い"
+      ],
+      "explain": "Đây là **cách nói cứng, văn viết** của ý \"A thay đổi thì B cũng thay đổi\". Gặp nhiều trong tin tức, báo cáo, thông báo.\n\n「伴う」 = **đi kèm, kéo theo**. Hình dung A là đầu tàu, B là toa phía sau: đầu tàu chuyển động thì toa cũng chuyển động theo.\n\n- **に伴って**: dùng được cả khi A thay đổi **không theo một chiều** (増減 tăng–giảm, 変化 biến động). Vế sau có thể là **hành động có chủ ý** để thích ứng: 「{気温|きおん}の{変化|へんか}に{伴|ともな}って、エアコンの{設定|せってい}を{調整|ちょうせい}する」.\n- **とともに**: chỉ dùng khi thay đổi **theo một chiều** (phát triển, tăng lên, già đi…).\n- Cả hai **không nhấn vào từng bước dần dần** như につれて, mà nhìn **toàn bộ sự thay đổi**.\n\n**Cách dùng rất hay gặp của に伴い**: trong thông báo, A là một **sự kiện** dẫn đến B: 「{工事|こうじ}に{伴|ともな}い、{通行止|つうこうど}めとなります」 (do thi công nên sẽ cấm đường). Ở đây không phải \"càng… càng…\" mà là \"**kèm theo / do** việc A\".\n\nNgoài ra 「とともに」 còn hai nghĩa khác đã gặp: \"**cùng với** (người)\" — 「{仲間|なかま}とともに{戦|たたか}う」, và \"**đồng thời**\" — 「{卒業|そつぎょう}するとともに{上京|じょうきょう}した」.",
+      "nuance": "Văn viết, trang trọng (sách gắn nhãn 硬い言い方). Hội thoại thân mật ít dùng. Danh từ phía trước thường là từ Hán ghép chỉ biến đổi: 増加・普及・発展・高齢化・進歩・変化・移転.",
+      "examples": [
+        {
+          "ja": "{人口|じんこう}の{増加|ぞうか}に{伴|ともな}って、{住宅|じゅうたく}{不足|ぶそく}が{深刻|しんこく}になってきた。",
+          "vi": "Cùng với sự gia tăng dân số, tình trạng thiếu nhà ở ngày càng trầm trọng.",
+          "note": "N + に伴って · văn tin tức"
+        },
+        {
+          "ja": "{会員|かいいん}{数|すう}の{増減|ぞうげん}に{伴|ともな}って、{会費|かいひ}の{金額|きんがく}を{見直|みなお}すことにした。",
+          "vi": "Theo sự tăng giảm số hội viên, chúng tôi quyết định xem xét lại mức hội phí.",
+          "note": "Thay đổi không một chiều + hành động có chủ ý → に伴って được, とともに/につれて không"
+        },
+        {
+          "ja": "{技術|ぎじゅつ}の{進歩|しんぽ}とともに、{私|わたし}たちの{働|はたら}き{方|かた}も{大|おお}きく{変|か}わった。",
+          "vi": "Cùng với sự tiến bộ của công nghệ, cách làm việc của chúng ta cũng thay đổi lớn.",
+          "note": "Thay đổi một chiều → とともに"
+        },
+        {
+          "ja": "{年齢|ねんれい}とともに{体力|たいりょく}が{落|お}ちていくのは、{自然|しぜん}なことだ。",
+          "vi": "Thể lực suy giảm theo tuổi tác là chuyện tự nhiên.",
+          "note": ""
+        },
+        {
+          "ja": "{駅|えき}の{改修|かいしゅう}{工事|こうじ}に{伴|ともな}い、{東口|ひがしぐち}は{当分|とうぶん}の{間|あいだ}{閉鎖|へいさ}されます。",
+          "vi": "Do việc cải tạo nhà ga, cửa phía Đông sẽ bị đóng trong một thời gian.",
+          "note": "に伴い = do / kèm theo sự kiện A (văn thông báo)"
+        },
+        {
+          "ja": "{事業|じぎょう}の{拡大|かくだい}に{伴|ともな}う{人手|ひとで}{不足|ぶそく}が{課題|かだい}となっている。",
+          "vi": "Tình trạng thiếu nhân lực kéo theo việc mở rộng kinh doanh đang là vấn đề cần giải quyết.",
+          "note": "に伴う + N"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜につれて・〜にしたがって",
+          "diff": "「につれて」: trung tính hơn, nhấn **từng bước dần dần**, vế sau là thay đổi tự nhiên. 「に伴って」: cứng, nhìn **cả khối thay đổi**, dùng được với 増減・変化, vế sau có thể là hành động có chủ ý."
+        },
+        {
+          "with": "〜に応じて",
+          "diff": "「売上の増減に伴って」 = **đi kèm** với tăng giảm doanh số thì B thay đổi. 「売上に応じて」 = B được **điều chỉnh cho tương xứng** với mức doanh số (con người chủ động chọn mức). に応じて đi với **danh từ chỉ mức độ / loại** (年齢・予算), không cần là từ chỉ biến đổi."
+        }
+      ],
+      "mistakes": [
+        "✗ {気温|きおん}の{上下|じょうげ}とともに、{体調|たいちょう}が{変|か}わる。→ ○ 気温の上下**に伴って** (thay đổi lên–xuống, không một chiều)",
+        "✗ {引|ひ}っ{越|こ}しに{伴|ともな}って、{楽|たの}しかった。→ vế sau phải là sự thay đổi / hệ quả, không phải cảm tưởng."
+      ],
+      "tip": "Danh từ Hán ghép chỉ biến đổi (普及・増加・高齢化・発展) + chỗ trống, câu mang màu **tin tức / thông báo** → 「に伴って／に伴い」. Gặp 「増減・変動・上下」 thì loại 「とともに」「につれて」 (còn 「に伴って」「にしたがって」 vẫn dùng được)."
+    },
+    {
+      "id": "b09-3",
+      "pattern": "〜次第だ",
+      "reading": "〜しだいだ",
+      "meaning": "Tuỳ vào…, phụ thuộc vào… (A quyết định kết quả)",
+      "structure": [
+        "N ＋ 次第だ",
+        "N ＋ 次第で ＋ V (決まる・変わる…)",
+        "N ＋ 次第では ＋ (một khả năng)",
+        "〜かどうかは N 次第だ"
+      ],
+      "explain": "「A次第」 = **mọi chuyện \"nằm trong tay\" A**. A thế nào thì kết quả thế ấy. Câu kinh điển: 「{合格|ごうかく}できるかどうかは{努力|どりょく}{次第|しだい}だ」 — đỗ hay không là tuỳ vào nỗ lực.\n\n- A là danh từ có **nhiều mức, nhiều khả năng khác nhau**: 天気・努力・やり方・考え方・結果・相手・予算・あなた.\n- **A次第だ / A次第で〜**: vế sau là 決まる・変わる・増えたり減ったりする, hoặc mẫu 「〜かどうかは A次第だ」.\n- **A次第では〜**: \"tuỳ vào A mà **cũng có khi**…\" — chỉ ra **một khả năng cụ thể** trong nhiều khả năng: 「{結果|けっか}{次第|しだい}では{入院|にゅういん}も{必要|ひつよう}だ」. Vế sau hay có 〜かもしれない・〜こともある・〜可能性もある.\n\nCách nhớ: 次第 vốn nghĩa là \"thứ tự, trình tự\" → \"kết quả xếp hàng **đi sau** A\": A đến đâu, kết quả theo đến đó.",
+      "nuance": "Gắn **thẳng vào danh từ**, không có trợ từ (天気次第, ✗ 天気に次第). Dùng được cả văn nói lẫn văn viết. Hay dùng để **đẩy quyết định / trách nhiệm** sang A: 「あとは君次第だ」 (còn lại là tuỳ cậu).",
+      "examples": [
+        {
+          "ja": "{週末|しゅうまつ}のキャンプに{行|い}けるかどうかは、{天気|てんき}{次第|しだい}です。",
+          "vi": "Cuối tuần có đi cắm trại được hay không là tuỳ thời tiết.",
+          "note": "〜かどうかは N次第だ"
+        },
+        {
+          "ja": "{同|おな}じ{料理|りょうり}でも、{材料|ざいりょう}{次第|しだい}で{味|あじ}が{大|おお}きく{変|か}わる。",
+          "vi": "Cùng một món nhưng tuỳ nguyên liệu mà hương vị khác hẳn nhau.",
+          "note": "N次第で + 変わる"
+        },
+        {
+          "ja": "{勉強|べんきょう}は{始|はじ}める{年齢|ねんれい}ではなく、{続|つづ}け{方|かた}{次第|しだい}だ。",
+          "vi": "Việc học không phụ thuộc vào tuổi bắt đầu, mà tuỳ vào cách duy trì.",
+          "note": ""
+        },
+        {
+          "ja": "{検査|けんさ}の{結果|けっか}{次第|しだい}では、{手術|しゅじゅつ}が{必要|ひつよう}になるかもしれません。",
+          "vi": "Tuỳ kết quả xét nghiệm, có thể sẽ cần phẫu thuật.",
+          "note": "次第では + một khả năng (かもしれない)"
+        },
+        {
+          "ja": "{新商品|しんしょうひん}の{売|う}れ{行|ゆ}き{次第|しだい}で、{追加|ついか}{生産|せいさん}するかどうかを{決|き}めます。",
+          "vi": "Tuỳ tình hình bán sản phẩm mới mà chúng tôi sẽ quyết định có sản xuất thêm hay không.",
+          "note": "Văn công việc"
+        },
+        {
+          "ja": "やるかやらないかは、{君|きみ}{次第|しだい}だよ。",
+          "vi": "Làm hay không là tuỳ cậu đấy.",
+          "note": "Người + 次第 · văn nói"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜に応じて",
+          "diff": "「次第」: A **quyết định** kết quả (thường không kiểm soát được: thời tiết, kết quả, đối phương). 「に応じて」: con người **chủ động điều chỉnh** B cho **khớp** với A (予算に応じてメニューを決める). Hình thức: 次第 gắn thẳng vào N, に応じて cần に."
+        },
+        {
+          "with": "Vます ＋ 次第 / 〜という次第だ",
+          "diff": "Hai mẫu khác cùng chữ: 「{決|き}まり{次第|しだい}ご{連絡|れんらく}します」 = **ngay sau khi** quyết định (gắn với **Vます**); 「〜という{次第|しだい}です」 = **sự tình là như vậy** (giải thích lý do, trang trọng). Nhận diện bằng thứ đứng trước: **danh từ** → \"tuỳ vào\"."
+        },
+        {
+          "with": "〜によって",
+          "diff": "「人によって考え方が違う」 = **khác nhau theo** từng người (liệt kê sự khác biệt, trung tính). 「君次第だ」 nhấn mạnh **A là yếu tố quyết định**."
+        }
+      ],
+      "mistakes": [
+        "✗ {天気|てんき}に{次第|しだい}で{出発|しゅっぱつ}する。→ ○ 天気次第で (không có trợ từ)",
+        "✗ {努力|どりょく}{次第|しだい}では、{必|かなら}ず{合格|ごうかく}できる。→ ○ 努力次第で、合格できる／努力次第では、合格できるかもしれない (「では」 chỉ ra **một khả năng** trong nhiều khả năng — có thể tốt hoặc xấu — nên không đi với 「必ず」)"
+      ],
+      "tip": "Trước chỗ trống là **danh từ trần** (không trợ từ) và câu có 「〜かどうかは」「決まる」「変わる」 → 「次第」. Vế sau có 「かもしれない／こともある」 → 「次第では」."
+    },
+    {
+      "id": "b09-4",
+      "pattern": "〜に応じて",
+      "reading": "〜におうじて",
+      "meaning": "Tương ứng với, tuỳ theo… mà (điều chỉnh cho phù hợp)",
+      "structure": [
+        "N ＋ に応じて／に応じ",
+        "N ＋ に応じた ＋ N"
+      ],
+      "explain": "「応じる」 = **đáp lại, tương ứng**. 「Aに応じてB」 = **B được thay đổi / chọn sao cho khớp với A**. A là thứ mà **mỗi trường hợp mỗi khác**: 予算・年齢・収入・体力・天候・季節・レベル・希望・ニーズ・必要・状況.\n\nHình dung tiệm may: khách mập thì cắt áo rộng, khách gầy thì cắt áo vừa — áo **được may tương ứng với** dáng người. Đó chính là に応じて.\n\n- Vế sau mang nghĩa **\"thay đổi cho phù hợp\"**: 変える・決める・選ぶ・分ける・調整する・支払われる・異なる.\n- Cụm rất hay gặp: 「{必要|ひつよう}に{応|おう}じて」 (khi cần thiết), 「{状況|じょうきょう}に{応|おう}じて」 (tuỳ tình hình), 「{能力|のうりょく}に{応|おう}じた{給料|きゅうりょう}」.\n\n**Cách dùng khác của 応じる** (cũng hay gặp): 「{要求|ようきゅう}／{質問|しつもん}／インタビュー／{誘|さそ}いに{応|おう}じる」 = **đáp ứng, chấp nhận** lời đề nghị. 「{住民|じゅうみん}の{要望|ようぼう}に{応|おう}じて」 = đáp ứng yêu cầu của người dân.",
+      "nuance": "Trung tính đến hơi trang trọng, rất hay gặp trong văn bản hướng dẫn, quy định, dịch vụ. Danh từ trước に応じて **không cần** là từ chỉ biến đổi (khác につれて／に伴って), mà là thứ **có nhiều mức / nhiều loại**.",
+      "examples": [
+        {
+          "ja": "この{教室|きょうしつ}では、{生徒|せいと}のレベルに{応|おう}じてクラスを{三|みっ}つに{分|わ}けている。",
+          "vi": "Ở lớp học này, học viên được chia làm ba lớp tuỳ theo trình độ.",
+          "note": "Chia / chọn cho phù hợp"
+        },
+        {
+          "ja": "{働|はたら}いた{時間|じかん}に{応|おう}じて{給料|きゅうりょう}が{支払|しはら}われます。",
+          "vi": "Tiền lương được trả tương ứng với số giờ làm việc.",
+          "note": "Văn quy định"
+        },
+        {
+          "ja": "{季節|きせつ}に{応|おう}じて、{店内|てんない}の{飾|かざ}りやメニューを{変|か}えている。",
+          "vi": "Tuỳ theo mùa mà chúng tôi thay đổi cách trang trí trong quán và thực đơn.",
+          "note": ""
+        },
+        {
+          "ja": "{必要|ひつよう}に{応|おう}じて、{資料|しりょう}を{追加|ついか}してください。",
+          "vi": "Khi cần thiết, hãy bổ sung thêm tài liệu.",
+          "note": "必要に応じて = khi cần (cụm cố định)"
+        },
+        {
+          "ja": "{能力|のうりょく}に{応|おう}じた{仕事|しごと}を{任|まか}せることが、{社員|しゃいん}を{育|そだ}てる{第一歩|だいいっぽ}だ。",
+          "vi": "Giao việc tương xứng với năng lực là bước đầu tiên để đào tạo nhân viên.",
+          "note": "に応じた + N"
+        },
+        {
+          "ja": "{住民|じゅうみん}の{要望|ようぼう}に{応|おう}じて、{図書館|としょかん}の{開館|かいかん}{時間|じかん}が{延長|えんちょう}された。",
+          "vi": "Đáp ứng yêu cầu của người dân, giờ mở cửa thư viện đã được kéo dài.",
+          "note": "Nghĩa \"đáp ứng (yêu cầu)\""
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜次第だ",
+          "diff": "「次第」: A **quyết định** kết quả, người nói thường bị động. 「に応じて」: con người **chủ động điều chỉnh** cho khớp. Nhiều câu dùng được cả hai (成績次第で／成績に応じて奨学金の額が決まる), nhưng chỉ 「に応じて」 có dạng 「に応じた + N」 và chỉ 「次第では」 có nghĩa \"cũng có khi\"."
+        },
+        {
+          "with": "〜によって",
+          "diff": "「国によって習慣が違う」 = khác nhau theo từng nước (chỉ nêu sự khác biệt). 「年齢に応じて料金を変える」 = **chủ động** đặt mức phí cho phù hợp với tuổi."
+        },
+        {
+          "with": "〜に応えて",
+          "diff": "「期待に応えて」 (こたえて) = **đáp lại** kỳ vọng bằng kết quả tốt. 「要望に応じて」 (おうじて) = **chấp nhận / làm theo** yêu cầu, hoặc điều chỉnh tương ứng."
+        }
+      ],
+      "mistakes": [
+        "✗ {春|はる}になるに{応|おう}じて、{桜|さくら}が{咲|さ}き{始|はじ}めた。→ ○ 春になるにつれて／春になると (に応じて không đi với động từ biến đổi tự nhiên)",
+        "✗ {予算|よさん}に{応|おう}じのメニュー → ○ 予算**に応じた**メニュー"
+      ],
+      "tip": "Trước chỗ trống là danh từ có **nhiều mức** (年齢・予算・レベル・人数・体力・季節・ニーズ) và vế sau là **変える・決める・選ぶ・分ける・調整する** → 「に応じて」. Sau chỗ trống là danh từ → 「に応じた」."
+    },
+    {
+      "id": "b09-5",
+      "pattern": "〜につけて",
+      "reading": "〜につけて",
+      "meaning": "Cứ mỗi lần… là lại (cảm thấy, nghĩ đến)…",
+      "structure": [
+        "V辞書形 ＋ につけ(て)",
+        "何かにつけて (hễ có dịp là…)"
+      ],
+      "explain": "「AにつけてB」 = **cứ hễ A là trong lòng lại tự nhiên trào lên cảm xúc / suy nghĩ B**. A là hành động **tiếp nhận**: 見る・聞く・読む・思う・考える・口にする; B là **hoạt động của tâm trí**: 思い出す・心配になる・懐かしい・反省する・〜と思う・感じる.\n\nHình dung: mỗi lần nghe bài hát cũ, ký ức tuổi học trò lại ùa về. Bài hát là \"công tắc\", cảm xúc là thứ tự bật lên — người nói **không cố ý**.\n\n- Vì B là cảm xúc tự trào lên nên **không** đặt hành động có chủ ý vào vế sau (✗ 見るにつけ、写真を撮る).\n- **何かにつけて**: thành ngữ \"hễ có chuyện gì / có dịp là…\". Riêng cụm này vế sau **không nhất thiết** là cảm xúc: 「{母|はは}は{何|なに}かにつけて{私|わたし}に{電話|でんわ}してくる」 (mẹ hễ có chuyện gì là gọi cho tôi).\n- Biết thêm: 「よいにつけ{悪|わる}いにつけ」 = dù tốt hay xấu (cặp đối lập, dạng cố định).",
+      "nuance": "Hơi văn viết, hơi cảm xúc, gợi cảm giác chiêm nghiệm. 「につけ」 (không て) là dạng văn viết hay gặp hơn. Vế sau không là ý chí, mệnh lệnh, nhờ vả.",
+      "examples": [
+        {
+          "ja": "この{写真|しゃしん}を{見|み}るにつけて、{仲間|なかま}と{過|す}ごした{学生|がくせい}{時代|じだい}が{懐|なつ}かしく{思|おも}い{出|だ}される。",
+          "vi": "Mỗi lần nhìn bức ảnh này, tôi lại bồi hồi nhớ về thời sinh viên bên bạn bè.",
+          "note": "見る + につけて + 思い出される"
+        },
+        {
+          "ja": "{物価|ぶっか}{高|だか}のニュースを{聞|き}くにつけ、{年金|ねんきん}で{暮|く}らす{両親|りょうしん}のことが{気|き}にかかる。",
+          "vi": "Mỗi lần nghe tin giá cả tăng, tôi lại lo cho bố mẹ đang sống bằng lương hưu.",
+          "note": "Cảm xúc lo lắng tự trào lên"
+        },
+        {
+          "ja": "{同期|どうき}の{活躍|かつやく}を{耳|みみ}にするにつけ、{自分|じぶん}ももっと{頑張|がんば}らなければと{思|おも}う。",
+          "vi": "Cứ mỗi lần nghe tin đồng nghiệp cùng khoá thành công, tôi lại nghĩ mình cũng phải cố gắng hơn.",
+          "note": "Vế sau 〜と思う"
+        },
+        {
+          "ja": "{故郷|こきょう}の{味|あじ}を{口|くち}にするにつけ、{母|はは}の{笑顔|えがお}が{目|め}に{浮|う}かぶ。",
+          "vi": "Mỗi lần nếm lại hương vị quê nhà, nụ cười của mẹ lại hiện lên trước mắt.",
+          "note": ""
+        },
+        {
+          "ja": "{隣|となり}のおばあさんは、{何|なに}かにつけて{手作|てづく}りのお{菓子|かし}を{持|も}ってきてくれる。",
+          "vi": "Bà cụ nhà bên hễ có dịp là lại mang bánh tự làm sang cho chúng tôi.",
+          "note": "何かにつけて: vế sau không cần là cảm xúc"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜たびに",
+          "diff": "「たびに」 = mỗi lần… thì… — trung tính, vế sau là **bất cứ sự việc gì** (会うたびにお金を借りる). 「につけて」 chỉ đi với động từ **tiếp nhận** và vế sau là **cảm xúc, suy nghĩ**."
+        },
+        {
+          "with": "〜につれて",
+          "diff": "Chỉ khác một chữ! 「につれて」 = càng… càng… (biến đổi song song). 「につけて」 = cứ mỗi lần… lại cảm thấy… Xem vế sau: biến đổi (〜くなっていく) → につれて; cảm xúc (思い出す・心配になる) → につけて."
+        }
+      ],
+      "mistakes": [
+        "✗ {手紙|てがみ}を{読|よ}むにつけ、{返事|へんじ}を{書|か}いた。→ ○ 手紙を読むたびに… / 読んですぐ… (vế sau là hành động có chủ ý)",
+        "✗ {雨|あめ}が{降|ふ}るにつけ、{川|かわ}の{水|みず}が{増|ふ}える。→ ○ 雨が降るたびに／降ると (vế sau không phải cảm xúc)"
+      ],
+      "tip": "Vế trước là 見る・聞く・読む・思う… và vế sau là 思い出す・心配になる・懐かしい・〜と思う → 「につけ(て)」. Thấy 「何か（　　）」 + hành động lặp đi lặp lại → 「何かにつけて」."
+    }
+  ],
+  "summary": [
+    {
+      "pattern": "〜につれて・〜にしたがって",
+      "meaning": "càng… càng…",
+      "key": "biến đổi dần, một chiều; vế sau tự nhiên; にしたがって còn = làm theo (指示)"
+    },
+    {
+      "pattern": "〜に伴って・〜とともに",
+      "meaning": "cùng với (thay đổi) thì…; kéo theo",
+      "key": "văn viết; 増減 → に伴って (không とともに); に伴い trong thông báo"
+    },
+    {
+      "pattern": "〜次第だ",
+      "meaning": "tuỳ vào…",
+      "key": "N trần + 次第; 次第で決まる; 次第では + một khả năng"
+    },
+    {
+      "pattern": "〜に応じて",
+      "meaning": "tương ứng với, điều chỉnh theo",
+      "key": "年齢・予算・レベル; に応じた N; chủ động điều chỉnh"
+    },
+    {
+      "pattern": "〜につけて",
+      "meaning": "cứ mỗi lần… lại (cảm thấy)",
+      "key": "見る・聞く + につけ; vế sau là cảm xúc; 何かにつけて"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b09-q1",
+      "kind": "form",
+      "ref": "b09-1",
+      "q": "{日|ひ}が{高|たか}くなる（　　）、{海辺|うみべ}には{家族|かぞく}{連|づ}れの{姿|すがた}が{増|ふ}えてきた。",
+      "options": [
+        "につれて",
+        "次第で",
+        "につけて",
+        "に応じて"
+      ],
+      "answer": 0,
+      "vi": "Mặt trời càng lên cao thì trên bãi biển càng nhiều gia đình kéo đến.",
+      "why": "Hai sự biến đổi song song (mặt trời lên cao ↔ người đông dần, 〜てきた) → **につれて**. 「次第で」 gắn với danh từ, không gắn với V辞書形; 「につけて」 cần động từ tiếp nhận và vế sau là cảm xúc; 「に応じて」 cần danh từ có nhiều mức (年齢・予算), không gắn với V辞書形."
+    },
+    {
+      "id": "b09-q2",
+      "kind": "form",
+      "ref": "b09-2",
+      "q": "{高齢化|こうれいか}の{進行|しんこう}（　　）、{医療費|いりょうひ}が{年々|ねんねん}{増|ふ}え{続|つづ}けている。",
+      "options": [
+        "次第で",
+        "に伴って",
+        "につけて",
+        "をもとに"
+      ],
+      "answer": 1,
+      "vi": "Cùng với sự tiến triển của già hoá dân số, chi phí y tế tiếp tục tăng qua từng năm.",
+      "why": "Danh từ Hán ghép chỉ biến đổi (高齢化の進行), văn tin tức, B thay đổi theo → **に伴って**. 「次第で」 = tuỳ vào — không hợp vì không phải \"kết quả phụ thuộc vào mức độ\"; 「につけて」 cần V辞書形 tiếp nhận; 「をもとに」 = lấy làm chất liệu để tạo ra (bài 8)."
+    },
+    {
+      "id": "b09-q3",
+      "kind": "form",
+      "ref": "b09-3",
+      "q": "{合格|ごうかく}できるかどうかは、これからの{君|きみ}の{頑張|がんば}り（　　）だ。",
+      "options": [
+        "に応じて",
+        "につれて",
+        "次第",
+        "とともに"
+      ],
+      "answer": 2,
+      "vi": "Có đỗ được hay không là tuỳ vào sự cố gắng của cậu từ giờ trở đi.",
+      "why": "Khung 「〜かどうかは N **次第**だ」. 「に応じて」「につれて」「とともに」 không đứng trước 「だ」 để kết câu như vậy, và về nghĩa cũng không phải \"điều chỉnh\" hay \"biến đổi song song\"."
+    },
+    {
+      "id": "b09-q4",
+      "kind": "form",
+      "ref": "b09-4",
+      "q": "この{保険|ほけん}は、{加入者|かにゅうしゃ}の{希望|きぼう}（　　）{補償|ほしょう}の{内容|ないよう}を{自由|じゆう}に{組|く}み{合|あ}わせることができます。",
+      "options": [
+        "につけて",
+        "につれて",
+        "とともに",
+        "に応じて"
+      ],
+      "answer": 3,
+      "vi": "Bảo hiểm này cho phép tự do kết hợp nội dung bồi thường tuỳ theo mong muốn của người tham gia.",
+      "why": "Nội dung được **điều chỉnh cho khớp** với mong muốn của từng người → **に応じて**. 「希望につれて」「希望とともに」 cần danh từ chỉ **biến đổi** (希望 không phải sự biến đổi); 「につけて」 phải gắn với động từ (見るにつけ), không gắn với danh từ."
+    },
+    {
+      "id": "b09-q5",
+      "kind": "form",
+      "ref": "b09-5",
+      "q": "{実家|じっか}から{届|とど}いた{野菜|やさい}を{見|み}る（　　）、{田舎|いなか}で{暮|く}らす{両親|りょうしん}の{顔|かお}が{浮|う}かんでくる。",
+      "options": [
+        "に応じて",
+        "につけ",
+        "次第で",
+        "に伴い"
+      ],
+      "answer": 1,
+      "vi": "Mỗi lần nhìn rau củ gửi từ nhà lên, gương mặt bố mẹ đang sống ở quê lại hiện lên.",
+      "why": "Động từ tiếp nhận (見る) + cảm xúc / hình ảnh tự trào lên → **につけ**. 「見るに伴い」 sai vì 見る không phải sự biến đổi; 「次第で」 gắn với danh từ; 「に応じて」 cần danh từ có nhiều mức."
+    },
+    {
+      "id": "b09-q6",
+      "kind": "usage",
+      "ref": "b09-1",
+      "q": "「〜につれて」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "駅に着くにつれて、友達に電話した。",
+        "部長の指示につれて、会議の資料を作った。",
+        "夜が更けるにつれて、町は静かになっていった。",
+        "大学を卒業するにつれて、留学するつもりだ。"
+      ],
+      "answer": 2,
+      "vi": "(3) Đêm càng về khuya, thị trấn càng trở nên yên tĩnh.",
+      "why": "(3) Hai biến đổi song song, vế sau là thay đổi tự nhiên (〜ていった) → đúng. (1) 着く là việc một lần, vế sau là hành động có chủ ý → 着いたら; (2) \"làm theo chỉ thị\" phải là 指示にしたがって; (4) 卒業する là việc một lần và vế sau là ý định → 卒業したら."
+    }
+  ],
+  "practice": [
+    {
+      "id": "b09-p1",
+      "kind": "form",
+      "ref": "b09-1",
+      "q": "{工事|こうじ}が{進|すす}む（　　）、{新|あたら}しい{駅|えき}ビルの{全体像|ぜんたいぞう}が{見|み}えてきた。",
+      "options": [
+        "にしたがって",
+        "次第で",
+        "に応じて",
+        "につけて"
+      ],
+      "answer": 0,
+      "vi": "Công trình càng tiến triển thì toàn cảnh toà nhà ga mới càng hiện rõ.",
+      "why": "進む là động từ biến đổi, vế sau 〜てきた là thay đổi tự nhiên → **にしたがって**. 「次第で」「に応じて」 gắn với danh từ; 「につけて」 cần động từ tiếp nhận + cảm xúc."
+    },
+    {
+      "id": "b09-p2",
+      "kind": "form",
+      "ref": "b09-2",
+      "q": "{新|あたら}しい{条例|じょうれい}の{施行|しこう}（　　）、ごみの{出|だ}し{方|かた}が{一部|いちぶ}{変更|へんこう}になります。",
+      "options": [
+        "次第で",
+        "につけ",
+        "に伴い",
+        "に応じて"
+      ],
+      "answer": 2,
+      "vi": "Do quy định mới của thành phố có hiệu lực, cách bỏ rác sẽ thay đổi một phần.",
+      "why": "Văn thông báo: sự kiện A (施行) **kéo theo** thay đổi B → **に伴い**. 「施行次第で」 = tuỳ vào việc thi hành — 施行 không có nhiều mức để \"tuỳ\"; 「に応じて」 cũng cần danh từ có nhiều mức; 「につけ」 gắn với V辞書形."
+    },
+    {
+      "id": "b09-p3",
+      "kind": "form",
+      "ref": "b09-2",
+      "q": "{売上|うりあげ}の{増減|ぞうげん}（　　）、{社員|しゃいん}のボーナスの{額|がく}も{変|か}わる。",
+      "options": [
+        "とともに",
+        "につれて",
+        "に伴って",
+        "につけて"
+      ],
+      "answer": 2,
+      "vi": "Theo sự tăng giảm doanh số, mức thưởng của nhân viên cũng thay đổi.",
+      "why": "「増減」 là thay đổi **không theo một chiều** → **に伴って** dùng được, còn 「とともに」「につれて」 chỉ dùng với thay đổi một chiều. 「につけて」 cần động từ tiếp nhận + cảm xúc."
+    },
+    {
+      "id": "b09-p4",
+      "kind": "form",
+      "ref": "b09-3",
+      "q": "{明日|あした}の{花火|はなび}{大会|たいかい}は、{風|かぜ}の{強|つよ}さ（　　）{中止|ちゅうし}になる{可能性|かのうせい}もある。",
+      "options": [
+        "次第では",
+        "とともに",
+        "につれて",
+        "に伴って"
+      ],
+      "answer": 0,
+      "vi": "Lễ hội pháo hoa ngày mai có khả năng sẽ bị huỷ tuỳ vào sức gió.",
+      "why": "Nêu **một khả năng** (中止になる可能性もある) trong nhiều khả năng tuỳ vào A → **次第では**. 「とともに」「につれて」「に伴って」 diễn tả biến đổi song song, không hợp với một kết cục \"có thể xảy ra\" như bị huỷ."
+    },
+    {
+      "id": "b09-p5",
+      "kind": "form",
+      "ref": "b09-4",
+      "q": "{当|とう}センターでは、{利用|りよう}する{人数|にんずう}（　　）、{大|だい}・{中|ちゅう}・{小|しょう}の{会議室|かいぎしつ}を{選|えら}ぶことができます。",
+      "options": [
+        "につれて",
+        "につけて",
+        "とともに",
+        "に応じて"
+      ],
+      "answer": 3,
+      "vi": "Tại trung tâm này, bạn có thể chọn phòng họp lớn, vừa hoặc nhỏ tuỳ theo số người sử dụng.",
+      "why": "Chọn phòng cho **khớp** với số người → **に応じて**. 「人数につれて／とともに」 cần sự biến đổi (人数が増えるにつれて), mà ở đây chỉ là chọn theo từng mức; 「につけて」 gắn với V辞書形."
+    },
+    {
+      "id": "b09-p6",
+      "kind": "form",
+      "ref": "b09-5",
+      "q": "この{曲|きょく}を{耳|みみ}にする（　　）、{初|はじ}めて{一人|ひとり}で{海外|かいがい}へ{行|い}った{日|ひ}の{不安|ふあん}と{興奮|こうふん}がよみがえる。",
+      "options": [
+        "次第で",
+        "につけ",
+        "に応じて",
+        "に伴って"
+      ],
+      "answer": 1,
+      "vi": "Mỗi lần nghe bài hát này, nỗi bồn chồn và háo hức của ngày đầu tiên một mình ra nước ngoài lại sống dậy.",
+      "why": "Động từ tiếp nhận (耳にする) + cảm xúc sống dậy (よみがえる) → **につけ**. 「耳にするに伴って」 sai vì 耳にする không phải sự biến đổi; 「次第で」「に応じて」 gắn với danh từ."
+    },
+    {
+      "id": "b09-p7",
+      "kind": "form",
+      "ref": "b09-3",
+      "q": "{見積|みつ}もりの{金額|きんがく}（　　）、{他|ほか}の{業者|ぎょうしゃ}に{頼|たの}むことも{考|かんが}えている。",
+      "options": [
+        "につれて",
+        "につけて",
+        "とともに",
+        "次第では"
+      ],
+      "answer": 3,
+      "vi": "Tuỳ vào số tiền báo giá, tôi cũng đang tính đến chuyện nhờ đơn vị khác.",
+      "why": "Danh từ trần + một khả năng (〜ことも考えている) → **次第では**. 「につれて」「とともに」 cần sự biến đổi song song; 「につけて」 gắn với V辞書形 và vế sau là cảm xúc."
+    },
+    {
+      "id": "b09-p8",
+      "kind": "order",
+      "ref": "b09-1",
+      "q": "{山|やま}を ＿＿＿ ＿＿＿ ★ ＿＿＿ なっていく。",
+      "options": [
+        "薄く",
+        "空気が",
+        "にしたがって",
+        "登る"
+      ],
+      "order": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "answer": 1,
+      "vi": "Càng leo lên núi, không khí càng trở nên loãng.",
+      "why": "山を **登る にしたがって 空気が 薄く** なっていく → ★ (ô thứ 3) = 「空気が」. 「を」 cần động từ 「登る」 ngay sau; 「V辞書形 + にしたがって」; 「薄く」 nối với 「なっていく」."
+    },
+    {
+      "id": "b09-p9",
+      "kind": "order",
+      "ref": "b09-4",
+      "q": "この{教室|きょうしつ}では ＿＿＿ ＿＿＿ ★ ＿＿＿ {使|つか}っています。",
+      "options": [
+        "教材を",
+        "応じた",
+        "生徒の",
+        "レベルに"
+      ],
+      "order": [
+        2,
+        3,
+        1,
+        0
+      ],
+      "answer": 1,
+      "vi": "Ở lớp học này, chúng tôi dùng giáo trình phù hợp với trình độ của học viên.",
+      "why": "この教室では **生徒の レベルに 応じた 教材を** 使っています → ★ = 「応じた」. 「に応じた + N」 bổ nghĩa cho 「教材」; 「教材を」 là tân ngữ của 「使っています」."
+    },
+    {
+      "id": "b09-p10",
+      "kind": "usage",
+      "ref": "b09-5",
+      "q": "「〜につけ」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "彼の手紙を読むにつけ、すぐに返事を書いた。",
+        "雨が降るにつけ、川の水が増えていく。",
+        "故郷の写真を見るにつけ、帰りたい気持ちが強くなる。",
+        "駅に着くにつけ、電話してください。"
+      ],
+      "answer": 2,
+      "vi": "(3) Mỗi lần nhìn ảnh quê nhà, nỗi nhớ muốn về lại càng da diết.",
+      "why": "(3) Động từ tiếp nhận + cảm xúc tự trào lên → đúng. (1) vế sau là hành động có chủ ý → 読んで、すぐに…; (2) hiện tượng tự nhiên, không phải cảm xúc → 降るたびに／降るにつれて; (4) vế sau là nhờ vả → 着いたら."
+    },
+    {
+      "id": "b09-p11",
+      "kind": "form",
+      "ref": "b09-2",
+      "q": "{戦後|せんご}、{経済|けいざい}の{発展|はってん}（　　）、{人々|ひとびと}の{暮|く}らしは{豊|ゆた}かになっていった。",
+      "options": [
+        "とともに",
+        "次第で",
+        "につけて",
+        "に応じて"
+      ],
+      "answer": 0,
+      "vi": "Sau chiến tranh, cùng với sự phát triển kinh tế, đời sống người dân ngày càng sung túc.",
+      "why": "Biến đổi **một chiều** (phát triển ↔ sung túc dần) → **とともに**. 「次第で」 = tuỳ vào, không hợp với mô tả lịch sử đã xảy ra; 「に応じて」 = chủ động điều chỉnh, không hợp; 「につけて」 gắn với V辞書形."
+    }
+  ],
+  "test": [
+    {
+      "id": "b09-t1",
+      "kind": "form",
+      "ref": "b09-1",
+      "q": "{年|とし}を{重|かさ}ねる（　　）、{父|ちち}がよく{言|い}っていた{言葉|ことば}の{意味|いみ}が{分|わ}かるようになってきた。",
+      "options": [
+        "次第で",
+        "に応じて",
+        "につれて",
+        "につけて"
+      ],
+      "answer": 2,
+      "vi": "Càng thêm tuổi, tôi càng hiểu ra ý nghĩa những lời bố hay nói.",
+      "why": "Biến đổi dần (年を重ねる) ↔ biến đổi dần (分かるようになってきた) → **につれて**. 「につけて」 cần động từ tiếp nhận (見る・聞く) và cảm xúc tức thời; 「次第で」「に応じて」 gắn với danh từ."
+    },
+    {
+      "id": "b09-t2",
+      "kind": "form",
+      "ref": "b09-2",
+      "q": "{記録的|きろくてき}な{大雪|おおゆき}（　　）、{一部|いちぶ}の{列車|れっしゃ}の{運転|うんてん}を{見合|みあ}わせております。",
+      "options": [
+        "次第で",
+        "に伴い",
+        "につけ",
+        "につれて"
+      ],
+      "answer": 1,
+      "vi": "Do tuyết rơi dày kỷ lục, chúng tôi tạm dừng chạy một số chuyến tàu.",
+      "why": "Văn thông báo: sự việc A (大雪) kéo theo B → **に伴い**. 「大雪次第で」 = tuỳ vào tuyết — câu đang thông báo việc đã xảy ra chứ không nói \"tuỳ mức độ\" nên không hợp; 「大雪につれて」 cần một sự biến đổi dần (雪が強くなるにつれて); 「につけ」 gắn với V辞書形 tiếp nhận."
+    },
+    {
+      "id": "b09-t3",
+      "kind": "form",
+      "ref": "b09-3",
+      "q": "このアプリは{使|つか}い{方|かた}（　　）、{語学|ごがく}の{勉強|べんきょう}にも{役立|やくだ}てることができる。",
+      "options": [
+        "次第で",
+        "につれて",
+        "とともに",
+        "につけて"
+      ],
+      "answer": 0,
+      "vi": "Tuỳ vào cách dùng, ứng dụng này cũng có thể tận dụng cho việc học ngoại ngữ.",
+      "why": "Danh từ trần 「使い方」 + kết quả thay đổi tuỳ nó → **次第で**. 「使い方につれて／とともに」 cần sự biến đổi; 「につけて」 gắn với V辞書形."
+    },
+    {
+      "id": "b09-t4",
+      "kind": "form",
+      "ref": "b09-4",
+      "q": "{当社|とうしゃ}の{給与|きゅうよ}は、{仕事|しごと}の{成果|せいか}（　　）{決|き}まる{仕組|しく}みになっている。",
+      "options": [
+        "につれて",
+        "につけて",
+        "とともに",
+        "に応じて"
+      ],
+      "answer": 3,
+      "vi": "Lương ở công ty chúng tôi được quyết định tương ứng với thành quả công việc.",
+      "why": "Mức lương được đặt **tương xứng** với thành quả → **に応じて**. 「成果につれて／とともに」 cần danh từ chỉ biến đổi (成果が上がるにつれて); 「につけて」 gắn với V辞書形 và vế sau là cảm xúc."
+    },
+    {
+      "id": "b09-t5",
+      "kind": "form",
+      "ref": "b09-5",
+      "q": "{課長|かちょう}は（　　）{昔|むかし}の{自慢話|じまんばなし}を{始|はじ}めるので、{部下|ぶか}たちはうんざりしている。",
+      "options": [
+        "何かにつけて",
+        "何かに応じて",
+        "何か次第で",
+        "何かにつれて"
+      ],
+      "answer": 0,
+      "vi": "Trưởng phòng hễ có dịp là lại kể chuyện khoe khoang ngày xưa nên cấp dưới ngán ngẩm.",
+      "why": "Thành ngữ **何かにつけて** = hễ có dịp là… (hành động lặp đi lặp lại). Ba phương án còn lại không phải cụm cố định và không thành nghĩa."
+    },
+    {
+      "id": "b09-t6",
+      "kind": "order",
+      "ref": "b09-3",
+      "q": "この{企画|きかく}は ＿＿＿ ＿＿＿ ★ ＿＿＿ かもしれない。",
+      "options": [
+        "次第では",
+        "判断",
+        "部長の",
+        "中止になる"
+      ],
+      "order": [
+        2,
+        1,
+        0,
+        3
+      ],
+      "answer": 0,
+      "vi": "Tuỳ vào phán đoán của trưởng phòng, kế hoạch này có thể bị huỷ.",
+      "why": "この企画は **部長の 判断 次第では 中止になる** かもしれない → ★ (ô thứ 3) = 「次第では」. 「次第」 gắn thẳng sau danh từ 「判断」; 「次第では」 đi với khả năng 「〜かもしれない」."
+    },
+    {
+      "id": "b09-t7",
+      "kind": "order",
+      "ref": "b09-2",
+      "q": "{情報|じょうほう}{技術|ぎじゅつ}の ＿＿＿ ＿＿＿ ★ ＿＿＿ {変化|へんか}した。",
+      "options": [
+        "大きく",
+        "とともに",
+        "発達",
+        "働き方も"
+      ],
+      "order": [
+        2,
+        1,
+        3,
+        0
+      ],
+      "answer": 3,
+      "vi": "Cùng với sự phát triển của công nghệ thông tin, cách làm việc cũng đã thay đổi lớn.",
+      "why": "情報技術の **発達 とともに 働き方も 大きく** 変化した → ★ = 「働き方も」. 「N + とともに」; 「大きく」 là trạng từ bổ nghĩa cho 「変化した」 nên đứng ngay trước nó."
+    },
+    {
+      "id": "b09-t8",
+      "kind": "usage",
+      "ref": "b09-4",
+      "q": "「〜に{応|おう}じて」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "春になるに応じて、桜が咲き始めた。",
+        "商品の売れ行きに応じて、生産量を調整している。",
+        "子どもに応じて作られた絵本がたくさん並んでいる。",
+        "先生の話を聞くに応じて、昔のことを思い出した。"
+      ],
+      "answer": 1,
+      "vi": "(2) Chúng tôi điều chỉnh sản lượng tương ứng với tình hình tiêu thụ sản phẩm.",
+      "why": "(2) Chủ động **điều chỉnh** cho khớp với mức tiêu thụ → đúng. (1) biến đổi tự nhiên → 春になるにつれて; (3) đối tượng được nhắm tới → 子ども向けに; (4) động từ tiếp nhận + hồi tưởng → 聞くにつけ."
+    }
+  ]
+}

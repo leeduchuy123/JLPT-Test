@@ -1,0 +1,853 @@
+{
+  "id": "b47",
+  "track": "bunpo",
+  "intro": "Người Nhật viết văn rất ghét **lặp lại thừa**. Một khi người đọc đã biết đang nói về ai / cái gì, từ đó sẽ bị **lược bỏ (省略)**, hoặc được gọi bằng **một từ khác (言い換え)**. Nhờ vậy câu văn gọn mà các câu vẫn dính chặt vào nhau.\n\nTiếng Việt cũng hay lược chủ ngữ, nhưng thường thay bằng \"nó, anh ấy, cái đó\". Tiếng Nhật thì **bỏ hẳn** — người học Việt hay viết 「{私|わたし}は…{私|わたし}は…」「{彼|かれ}は…{彼|かれ}は…」 nên câu nghe nặng nề, \"dịch máy\".\n\nBài này gồm ba mảng:\n- **Khi nào được lược** (mục 1–3): từ lặp lại; từ vừa được giới thiệu bằng 「が」; chủ đề 「〜は」 đang tiếp diễn.\n- **Khi nào KHÔNG được lược** (mục 4) và **cách khôi phục chủ ngữ bị lược** để chọn đúng thể bị động / sai khiến / cho – nhận (mục 5).\n- **Lặp lại và nói cách khác** (mục 6–7): khi nào nên lặp đúng từ khoá, khi nào thay bằng từ cùng loại hoặc một danh từ \"tóm\" nội dung (この習慣, こうした傾向…).\n\nTrong ví dụ của bài, phần đặt trong （　） là phần **đã được lược** — khi viết thật thì không ghi ra.\n\n**Trong 問題9**, kiến thức này giúp bạn: (1) chọn phương án **không lặp thừa**; (2) xác định **ai là chủ ngữ** khi bốn phương án chỉ khác nhau ở 〜する／〜される／〜させる; (3) chọn đúng **danh từ thay thế** cho nội dung phía trước.",
+  "points": [
+    {
+      "id": "b47-1",
+      "pattern": "繰り返しになる語の省略",
+      "reading": "くりかえしになるごのしょうりゃく",
+      "meaning": "Lược bỏ từ đã xuất hiện ở câu trước (chủ ngữ, tân ngữ, nơi chốn…)",
+      "structure": [
+        "文1：N を V。 文2：(N を) V。",
+        "文1：N は〜。 文2：(N は) 〜。",
+        "Lược cả trợ từ đi kèm (を・は・に…)"
+      ],
+      "explain": "Quy tắc gốc của cả bài: **từ nào đã xuất hiện ở câu trước, nếu câu sau lại cần đúng từ đó và người đọc chắc chắn hiểu, thì bỏ đi** — bỏ luôn cả trợ từ đi kèm.\n\nCó thể lược đủ loại thành phần:\n- **Chủ ngữ / chủ đề**: 父は… (父は) …\n- **Tân ngữ**: カメラを集めている。(カメラを) 50台集めた。\n- **Nơi chốn, đối tượng**: 大阪に出張する。(大阪には) 三日間滞在する。\n\nHình ảnh dễ nhớ: câu văn Nhật giống một cuộc trò chuyện giữa hai người **đang cùng nhìn vào một thứ** — không ai cứ phải gọi tên nó mãi. Lặp lại liên tục chỉ khiến câu trở nên ấu trĩ như bài văn của học sinh tiểu học.",
+      "nuance": "Chỉ lược khi người đọc **khôi phục được chắc chắn**. Văn bản cần độ chính xác cao (hợp đồng, quy định, luận văn) lược ít hơn văn kể chuyện, tản văn. Không lạm dụng 「彼」「彼女」「それ」 để thay — trong tiếng Nhật, đại từ lặp liên tục cũng nặng nề không kém.",
+      "examples": [
+        {
+          "ja": "{父|ちち}は{古|ふる}いカメラを{集|あつ}めている。もう50{台|だい}{以上|いじょう}（カメラを）{集|あつ}めたらしい。",
+          "vi": "Bố tôi sưu tầm máy ảnh cũ. Nghe nói đã sưu tầm được hơn 50 chiếc.",
+          "note": "Lược tân ngữ (và cả chủ ngữ 父は)"
+        },
+        {
+          "ja": "レポートの{締|し}め{切|き}りは{金曜日|きんようび}なのに、まだ（レポートを）{半分|はんぶん}しか{書|か}いていない。",
+          "vi": "Hạn nộp báo cáo là thứ Sáu mà tôi mới viết được một nửa.",
+          "note": "Lược tân ngữ trong cùng một câu"
+        },
+        {
+          "ja": "{田中|たなか}さんは{来週|らいしゅう}{大阪|おおさか}に{出張|しゅっちょう}する。（{田中|たなか}さんは）（{大阪|おおさか}には）{三日間|みっかかん}{滞在|たいざい}する{予定|よてい}だ。",
+          "vi": "Anh Tanaka tuần sau đi công tác Osaka. Dự định ở lại ba ngày.",
+          "note": "Lược cùng lúc chủ ngữ và nơi chốn"
+        },
+        {
+          "ja": "{先週|せんしゅう}、{京都|きょうと}へ{紅葉|こうよう}を{見|み}に{行|い}った。（{紅葉|こうよう}は）ちょうど{見頃|みごろ}で、どの{寺|てら}も{人|ひと}でいっぱいだった。",
+          "vi": "Tuần trước tôi đi Kyoto ngắm lá đỏ. Đúng mùa đẹp nhất, chùa nào cũng đông nghịt người.",
+          "note": "Lược chủ ngữ của câu sau (紅葉)"
+        },
+        {
+          "ja": "{新|あたら}しいパソコンを{買|か}った。（パソコンは）{軽|かる}くて、どこへでも{持|も}っていける。",
+          "vi": "Tôi mua máy tính mới. Nhẹ nên mang đi đâu cũng được.",
+          "note": "Tân ngữ của câu 1 → chủ ngữ bị lược ở câu 2"
+        }
+      ],
+      "compare": [
+        {
+          "with": "Dùng đại từ 彼・彼女・それ",
+          "diff": "Người Việt hay thay bằng \"anh ấy / nó\" → 「彼は」「それは」 lặp lại liên tục. Tiếng Nhật tự nhiên nhất là **bỏ hẳn**; đại từ chỉ dùng khi thật sự cần nhấn mạnh hoặc tránh nhầm."
+        }
+      ],
+      "mistakes": [
+        "✗ {弟|おとうと}はサッカーが{好|す}きだ。{弟|おとうと}は{毎日|まいにち}{練習|れんしゅう}している。{弟|おとうと}は{将来|しょうらい}{選手|せんしゅ}になりたいそうだ。→ ○ {弟|おとうと}はサッカーが{好|す}きだ。{毎日|まいにち}{練習|れんしゅう}していて、{将来|しょうらい}は{選手|せんしゅ}になりたいそうだ。",
+        "✗ {私|わたし}は{昨日|きのう}{映画|えいが}を{見|み}ました。{私|わたし}はその{映画|えいが}がとても{面白|おもしろ}いと{思|おも}いました。→ ○ {昨日|きのう}{映画|えいが}を{見|み}ました。とても{面白|おもしろ}かったです。"
+      ],
+      "tip": "Trong 問題9, nếu một phương án **lặp lại nguyên danh từ vừa xuất hiện** (「田中さんは」「その本を」) còn phương án khác gọn hơn mà vẫn rõ nghĩa, phương án gọn thường là đáp án — trừ khi có hai người / hai vật dễ nhầm (xem mục 4)."
+    },
+    {
+      "id": "b47-2",
+      "pattern": "「〜が」で出た語を「〜は」で受けるときの省略",
+      "reading": "「〜が」でででたごを「〜は」でうけるときのしょうりゃく",
+      "meaning": "Thứ vừa được giới thiệu bằng 「が」, câu sau nói tiếp về nó thì bỏ 「N は」",
+      "structure": [
+        "文1：(nơi chốn) に N が いる／ある／来た／届いた。",
+        "文2：(N は) + miêu tả N。",
+        "Tương tự: 文1：N を V。 文2：(N は) 〜。"
+      ],
+      "explain": "Đây là cặp đôi \"**が giới thiệu – は nói tiếp**\" (xem thêm b45 「は・が」). Câu 1 dùng 「が」 để **đưa một thứ mới** vào câu chuyện: 「{公園|こうえん}のベンチに{老人|ろうじん}が{座|すわ}っていた」. Từ câu 2, nó đã thành **thông tin cũ**, lẽ ra phải là 「老人は…」. Nhưng vì quá rõ ràng nên **「老人は」 bị lược luôn**: 「{鳩|はと}にパンくずをやっていた」.\n\nĐiều tương tự xảy ra khi thứ đó xuất hiện ở câu trước với 「を」 (tân ngữ): 「{父|ちち}が{時計|とけい}をくれた。（{時計|とけい}は）{父|ちち}が{若|わか}いころに{使|つか}っていたものだ」.\n\nCâu sau thường là **phần giải thích, miêu tả thêm** về thứ vừa được giới thiệu: nó là gì, trông thế nào, của ai, từ đâu đến.",
+      "nuance": "Có thể giữ lại 「その N は」 khi muốn nhấn mạnh hoặc khi giữa hai câu có chen thứ khác vào. Nhưng khi câu 2 chỉ **miêu tả / giải thích thêm** về thứ đó thì **không dùng lại 「N が」** — 「が」 là để giới thiệu cái mới (✗ メモがあった。メモが母からだった). (Trường hợp đặc biệt dùng が cho thứ đã biết — mạch văn đổi hướng, tường thuật biến cố — xem b45.)",
+      "examples": [
+        {
+          "ja": "{公園|こうえん}のベンチに{老人|ろうじん}が{座|すわ}っていた。（{老人|ろうじん}は）{鳩|はと}にパンくずをやっていた。",
+          "vi": "Trên băng ghế công viên có một ông cụ đang ngồi. Ông đang cho chim bồ câu ăn vụn bánh mì.",
+          "note": "が giới thiệu → câu sau lược 「老人は」"
+        },
+        {
+          "ja": "{先月|せんげつ}、{近所|きんじょ}にラーメン{屋|や}がオープンした。（その{店|みせ}は）{開店|かいてん}{前|まえ}から{行列|ぎょうれつ}ができるほどの{人気|にんき}だ。",
+          "vi": "Tháng trước gần nhà mở một quán mì ramen. Đông đến mức chưa mở cửa đã có hàng người xếp.",
+          "note": ""
+        },
+        {
+          "ja": "{昨日|きのう}、{古|ふる}い{友人|ゆうじん}から{手紙|てがみ}が{届|とど}いた。（{手紙|てがみ}は）{便箋|びんせん}10{枚|まい}にもなる{長|なが}いものだった。",
+          "vi": "Hôm qua tôi nhận được thư của một người bạn cũ. Đó là một lá thư dài tới 10 trang.",
+          "note": "届いた → câu sau miêu tả lá thư"
+        },
+        {
+          "ja": "{父|ちち}が{誕生日|たんじょうび}に{腕時計|うでどけい}をくれた。（{腕時計|うでどけい}は）{父|ちち}が{若|わか}いころに{使|つか}っていたものだという。",
+          "vi": "Bố tặng tôi chiếc đồng hồ đeo tay vào ngày sinh nhật. Nghe nói đó là chiếc bố dùng hồi trẻ.",
+          "note": "Tân ngữ (を) → chủ đề bị lược"
+        },
+        {
+          "ja": "{机|つくえ}の{上|うえ}にメモが{置|お}いてあった。{見|み}ると、{母|はは}からだった。",
+          "vi": "Trên bàn có để một mẩu giấy nhắn. Nhìn thì thấy là của mẹ.",
+          "note": "Không cần 「メモは」 (người đọc tự hiểu); ✗ 「メモが母からだった」"
+        }
+      ],
+      "compare": [
+        {
+          "with": "b45 「は・が」の使い分け",
+          "diff": "「が」 = giới thiệu thông tin **mới**; 「は」 = nói tiếp về thông tin **cũ**. Bài này bổ sung: thông tin cũ đó thường còn được **lược hẳn**."
+        }
+      ],
+      "mistakes": [
+        "✗ {玄関|げんかん}に{荷物|にもつ}が{届|とど}いていた。{荷物|にもつ}が{実家|じっか}からだった。→ ○ …{届|とど}いていた。{実家|じっか}からだった。",
+        "✗ {駅前|えきまえ}に{新|あたら}しいビルが{建|た}った。{新|あたら}しいビルは{新|あたら}しいビルで、30{階|かい}もある。→ ○ …{建|た}った。30{階|かい}{建|だ}てだそうだ。"
+      ],
+      "tip": "Câu trước có 「〜が」 + động từ xuất hiện / tồn tại (いる・ある・来た・届いた・できた・置いてあった) → câu sau thường bắt đầu **thẳng bằng phần miêu tả**, không có chủ ngữ. Phương án nào dùng lại 「N が」 cho thứ đó → loại."
+    },
+    {
+      "id": "b47-3",
+      "pattern": "同じ主題が続くときの省略",
+      "reading": "おなじしゅだいがつづくときのしょうりゃく",
+      "meaning": "Chủ đề (〜は) vẫn tiếp tục ở các câu sau thì không nhắc lại",
+      "structure": [
+        "文1：A は〜。 文2：(A は) 〜。 文3：(A は) 〜。",
+        "Câu sau có thể có 「〜は」 khác mang nghĩa đối chiếu / thời gian (夏は・夜は), chủ đề chính vẫn là A"
+      ],
+      "explain": "Một khi đã đặt **chủ đề** bằng 「A は」, chủ đề ấy **có hiệu lực cho các câu tiếp theo** cho đến khi xuất hiện chủ đề mới. Giống như **bật một kênh truyền hình**: kênh vẫn giữ nguyên cho đến khi bạn bấm chuyển.\n\nTrường hợp hay gặp nhất là **「私は」**: trong bài viết về bản thân, 「私は」 có khi chỉ xuất hiện một lần ở đầu bài, thậm chí không xuất hiện lần nào.\n\nChú ý: câu sau có thể chứa 「〜は」 khác, như 「{夏|なつ}は」「{最初|さいしょ}は」. Có hai khả năng, phải xét theo nghĩa:\n- Đó là 「は」 **đối chiếu / thời điểm** đứng cạnh chủ đề cũ đã bị lược: 「この{町|まち}は{海|うみ}に{面|めん}している。（この{町|まち}は）{夏|なつ}は{海水浴客|かいすいよくきゃく}でにぎわう」 → nhộn nhịp là **thị trấn này** vào mùa hè.\n- Hoặc chính nó trở thành **chủ đề mới** và lại được lược ở câu tiếp theo: 「{週末|しゅうまつ}は{道|みち}が{混|こ}む。（{週末|しゅうまつ}は）{早|はや}めに{出|で}ないと{間|ま}に{合|あ}わない」.",
+      "nuance": "Chủ đề có thể kéo dài qua nhiều câu, thậm chí nhiều đoạn. Muốn đổi chủ đề thì phải **ghi rõ** chủ đề mới (mục 4); chủ đề mới đó lại được lược ở các câu tiếp theo nếu vẫn tiếp diễn.",
+      "examples": [
+        {
+          "ja": "この{町|まち}は{海|うみ}に{面|めん}している。（この{町|まち}は）{夏|なつ}は{海水浴客|かいすいよくきゃく}でにぎわうが、{冬|ふゆ}はひっそりとしている。",
+          "vi": "Thị trấn này nằm sát biển. Mùa hè thì nhộn nhịp khách tắm biển, còn mùa đông lại vắng lặng.",
+          "note": "夏は／冬は = đối chiếu; chủ đề vẫn là この町"
+        },
+        {
+          "ja": "{私|わたし}は{去年|きょねん}から{陶芸|とうげい}を{習|なら}っている。（{私|わたし}は）{最初|さいしょ}は{茶碗|ちゃわん}{一|ひと}つ{作|つく}れなかったが、{今|いま}では{友人|ゆうじん}に{贈|おく}れるほどになった。",
+          "vi": "Tôi học làm gốm từ năm ngoái. Lúc đầu một cái bát cũng không làm nổi, giờ thì đã đủ để làm quà tặng bạn bè.",
+          "note": "最初は = thời điểm, không phải chủ đề mới"
+        },
+        {
+          "ja": "{兄|あに}は{料理|りょうり}が{得意|とくい}だ。（{兄|あに}は）{休日|きゅうじつ}になると{朝|あさ}から{台所|だいどころ}に{立|た}ち、{家族|かぞく}{全員|ぜんいん}の{食事|しょくじ}を{作|つく}ってくれる。",
+          "vi": "Anh tôi nấu ăn giỏi. Cứ đến ngày nghỉ là anh đứng bếp từ sáng, nấu cho cả nhà.",
+          "note": "Chủ đề 兄 kéo dài qua cả câu dài"
+        },
+        {
+          "ja": "{日本|にほん}の{夏|なつ}は{蒸|む}し{暑|あつ}い。（{日本|にほん}の{夏|なつ}は）{気温|きおん}だけでなく{湿度|しつど}も{高|たか}いため、{体力|たいりょく}を{消耗|しょうもう}しやすい。",
+          "vi": "Mùa hè Nhật Bản oi bức. Không chỉ nhiệt độ mà độ ẩm cũng cao nên dễ hao tổn thể lực.",
+          "note": ""
+        },
+        {
+          "ja": "{最近|さいきん}、よく{眠|ねむ}れない。{仕事|しごと}のことが{気|き}になって、{夜中|よなか}に{何度|なんど}も{目|め}が{覚|さ}めてしまうのだ。",
+          "vi": "Dạo này tôi ngủ không ngon. Cứ lo chuyện công việc nên nửa đêm tỉnh giấc mấy lần.",
+          "note": "「私は」 không xuất hiện lần nào"
+        }
+      ],
+      "compare": [
+        {
+          "with": "Chủ đề mới (b47-4)",
+          "diff": "「夏は」「最初は」 chỉ là đối chiếu trong phạm vi chủ đề cũ. Còn khi một **người / vật khác** trở thành đối tượng được nói đến (「{店|みせ}は{駅|えき}の{近|ちか}くにある」), đó là chủ đề mới và phải ghi rõ."
+        }
+      ],
+      "mistakes": [
+        "✗ {私|わたし}は{毎朝|まいあさ}6{時|じ}に{起|お}きます。{私|わたし}は{顔|かお}を{洗|あら}って、{私|わたし}は{朝|あさ}ご{飯|はん}を{食|た}べます。→ ○ {毎朝|まいあさ}6{時|じ}に{起|お}きます。{顔|かお}を{洗|あら}って、{朝|あさ}ご{飯|はん}を{食|た}べます。",
+        "✗ {週末|しゅうまつ}は{道|みち}が{混|こ}む。{週末|しゅうまつ}は{早|はや}めに{出|で}ないと、{週末|しゅうまつ}は{約束|やくそく}に{間|ま}に{合|あ}わない。→ ○ {週末|しゅうまつ}は{道|みち}が{混|こ}む。{早|はや}めに{出|で}ないと{約束|やくそく}に{間|ま}に{合|あ}わない。(「週末は」 là chủ đề tiếp diễn → lược)"
+      ],
+      "tip": "Muốn tìm chủ ngữ bị lược, hãy **lùi về câu gần nhất có 「〜は」 chỉ chủ đề** rồi thử đặt nó vào chỗ trống xem có hợp nghĩa không (「夏は」「最初は」 có khi chỉ là đối chiếu đứng cạnh chủ đề cũ, có khi lại là chủ đề mới). Chủ đề vẫn giữ cho đến khi có chủ đề mới."
+    },
+    {
+      "id": "b47-4",
+      "pattern": "省略しない場合",
+      "reading": "しょうりゃくしないばあい",
+      "meaning": "Khi KHÔNG được lược: dễ nhầm đối tượng, chủ đề thay đổi, có đối chiếu",
+      "structure": [
+        "Có hai người / vật có thể là chủ ngữ → ghi rõ: A が B に〜。B は〜。",
+        "Chủ đề đổi sang thứ khác → ghi rõ chủ đề mới: …。N は〜。",
+        "Quay lại chủ đề cũ sau khi đã đổi → ghi lại: …。A は〜。",
+        "Đối chiếu hai đối tượng: A は〜が、B は〜。"
+      ],
+      "explain": "Lược là để gọn, **không phải để đánh đố** người đọc. Có ba trường hợp phải giữ lại chủ ngữ / chủ đề:\n\n1. **Có hai ứng viên**: câu trước có hai người (A が B に…) → câu sau nếu lược thì không biết ai làm. 「{中村|なかむら}さんが{小川|おがわ}さんに{道|みち}を{尋|たず}ねた。{丁寧|ていねい}に{地図|ちず}を{描|か}いてくれた」 → ai vẽ bản đồ? Phải viết 「小川さんは」.\n2. **Chủ đề thay đổi**: đang nói về \"tôi\" (lược), câu sau nói về **ngọn núi** → phải viết 「山は」. Nếu sau đó lại quay về \"tôi\" mà dễ nhầm thì cũng ghi lại.\n3. **Đối chiếu**: 「{兄|あに}は{肉|にく}が{好|す}きだが、{私|わたし}は{魚|さかな}のほうが{好|す}きだ」 — mất 「私は」 là mất ý so sánh.\n\nQuy tắc ngón tay cái: **chỉ có MỘT ứng viên hợp lý → lược; có từ HAI trở lên → ghi rõ.**",
+      "nuance": "Đôi khi ngữ cảnh tự loại trừ ứng viên (đồ vật không thể \"nói\", \"đi làm\"), khi đó vẫn lược được. Nhưng trong 問題9, nếu phương án có chủ ngữ rõ ràng giúp tránh nhầm, đó thường là đáp án.",
+      "examples": [
+        {
+          "ja": "{山田|やまだ}さんが{佐藤|さとう}さんに{急|いそ}ぎの{仕事|しごと}を{頼|たの}んだ。{佐藤|さとう}さんは{嫌|いや}な{顔|かお}一つせずに{引|ひ}き{受|う}けた。",
+          "vi": "Chị Yamada nhờ anh Sato một việc gấp. Anh Sato nhận lời mà không hề tỏ vẻ khó chịu.",
+          "note": "Hai người → phải ghi 「佐藤さんは」"
+        },
+        {
+          "ja": "{会議|かいぎ}には{部長|ぶちょう}と{課長|かちょう}が{出席|しゅっせき}した。{課長|かちょう}は{最後|さいご}まで{一言|ひとこと}も{発言|はつげん}しなかった。",
+          "vi": "Cuộc họp có trưởng phòng và phó phòng tham dự. Phó phòng từ đầu đến cuối không phát biểu một lời.",
+          "note": "Hai ứng viên → ghi rõ"
+        },
+        {
+          "ja": "{私|わたし}は{週末|しゅうまつ}になると{近所|きんじょ}の{山|やま}に{登|のぼ}る。{特別|とくべつ}な{装備|そうび}はいらない。{山|やま}は{標高|ひょうこう}500メートルほどで、{一時間|いちじかん}あれば{頂上|ちょうじょう}に{着|つ}く。",
+          "vi": "Cứ cuối tuần là tôi leo ngọn núi gần nhà. Không cần trang bị gì đặc biệt. Núi cao khoảng 500 mét, một tiếng là lên đến đỉnh.",
+          "note": "Chủ đề đổi từ 私 sang 山 → ghi 「山は」"
+        },
+        {
+          "ja": "{父|ちち}は{昨年|さくねん}{定年|ていねん}を{迎|むか}えた。{会社|かいしゃ}は{父|ちち}のために{送別会|そうべつかい}を{開|ひら}いてくれた。{父|ちち}はその{日|ひ}のことを{今|いま}でもうれしそうに{話|はな}す。",
+          "vi": "Bố tôi nghỉ hưu năm ngoái. Công ty đã tổ chức tiệc chia tay cho bố. Đến giờ bố vẫn kể về hôm đó một cách vui vẻ.",
+          "note": "父 → 会社 → quay lại 父: ghi lại 「父は」"
+        },
+        {
+          "ja": "{姉|あね}は{朝型|あさがた}だが、{私|わたし}は{夜|よる}のほうが{集中|しゅうちゅう}できる。",
+          "vi": "Chị tôi là người làm việc buổi sáng, còn tôi thì tập trung được vào ban đêm hơn.",
+          "note": "Đối chiếu → không lược 「私は」"
+        }
+      ],
+      "compare": [
+        {
+          "with": "b47-3 (chủ đề tiếp diễn)",
+          "diff": "Chủ đề **giữ nguyên** → lược. Chủ đề **thay đổi** hoặc **có hai ứng viên** → ghi rõ."
+        }
+      ],
+      "mistakes": [
+        "✗ {中村|なかむら}さんが{小川|おがわ}さんに{電話|でんわ}をかけた。すぐに{会社|かいしゃ}を{出|で}た。(ai rời công ty?) → ○ {小川|おがわ}さんはすぐに{会社|かいしゃ}を{出|で}た。",
+        "✗ {私|わたし}は{駅前|えきまえ}のパン{屋|や}でアルバイトをしている。{朝|あさ}6{時|じ}に{開|あ}き、{昼|ひる}には{売|う}り{切|き}れることも{多|おお}い。→ ○ …アルバイトをしている。{店|みせ}は{朝|あさ}6{時|じ}に{開|あ}き、… (chủ đề đổi từ 私 sang 店 → phải ghi rõ)"
+      ],
+      "tip": "Khi phương án khác nhau ở chỗ **có / không có chủ ngữ** (「彼は」「その店は」「〇〇さんは」), hãy hỏi: câu trước có **hai người / hai vật** không? Chủ đề có **vừa đổi** không? Nếu có → chọn phương án ghi rõ."
+    },
+    {
+      "id": "b47-5",
+      "pattern": "省略された主語を見抜く（受身・使役・授受）",
+      "reading": "しょうりゃくされたしゅごをみぬく",
+      "meaning": "Khôi phục chủ ngữ bị lược để chọn đúng thể bị động / sai khiến / cho – nhận",
+      "structure": [
+        "(私は) X に Vられる (bị / được X làm)",
+        "(私は) X に Vさせられる (bị X bắt làm)",
+        "X が (私に) Vてくれる ／ (私は) X に Vてもらう",
+        "X が (私の方へ) Vてくる"
+      ],
+      "explain": "Đây là ứng dụng quan trọng nhất của bài trong đề thi. Rất nhiều câu 問題9 có bốn phương án **chỉ khác nhau ở thể động từ**: 言ってしまう／言われてしまう／言わせてしまう／言わされてしまう. Muốn chọn đúng, phải trả lời được: **chủ ngữ bị lược của câu này là ai?**\n\nCách làm 3 bước:\n1. Tìm **chủ đề / người kể** (thường là 私 hoặc nhân vật chính đang được nói đến).\n2. Xác định **ai thực sự làm hành động** trong chỗ trống.\n3. Nếu người làm ≠ chủ ngữ bị lược và hành động **hướng về** chủ ngữ đó → dùng **受身 (〜られる)**, **〜てくれる / 〜てもらう**, **〜てくる**. Nếu chủ ngữ bị ép làm → **使役受身**.\n\nLý do: văn Nhật giữ **điểm nhìn (視点)** cố định ở chủ đề / người viết — chi tiết xem b40–b43. Chủ ngữ bị lược chính là \"camera\" của câu.",
+      "nuance": "Mặc định, chủ ngữ bị lược thường là **người viết (私)** hoặc **nhân vật chủ đề**. Đừng đọc lướt: chỉ cần nhầm chủ ngữ là chọn sai thể.",
+      "examples": [
+        {
+          "ja": "{昨日|きのう}、{満員|まんいん}{電車|でんしゃ}で{隣|となり}の{人|ひと}に{足|あし}を{踏|ふ}まれた。（{私|わたし}は）{謝|あやま}ってもらえなかったので、{一日中|いちにちじゅう}{嫌|いや}な{気分|きぶん}だった。",
+          "vi": "Hôm qua trên chuyến tàu chật cứng, tôi bị người bên cạnh giẫm vào chân. Vì không được xin lỗi nên cả ngày tôi khó chịu.",
+          "note": "Chủ ngữ bị lược = 私 → 踏まれた, 謝ってもらえなかった"
+        },
+        {
+          "ja": "{佐藤|さとう}さんは{入社|にゅうしゃ}して{半年|はんとし}だ。（{佐藤|さとう}さんは）{先週|せんしゅう}、{部長|ぶちょう}に{大事|だいじ}な{仕事|しごと}を{任|まか}された。",
+          "vi": "Anh Sato mới vào công ty nửa năm. Tuần trước anh được trưởng phòng giao một công việc quan trọng.",
+          "note": "Chủ đề 佐藤さん → bị động 任された"
+        },
+        {
+          "ja": "{母|はは}は{子|こ}どものころ、{毎日|まいにち}ピアノを{練習|れんしゅう}させられたそうだ。だから{今|いま}でもピアノの{音|おと}を{聞|き}くと{少|すこ}し{緊張|きんちょう}するという。",
+          "vi": "Nghe nói hồi nhỏ mẹ tôi bị bắt tập đàn piano mỗi ngày. Vì thế đến giờ cứ nghe tiếng piano là mẹ lại hơi căng thẳng.",
+          "note": "使役受身: mẹ bị ép làm"
+        },
+        {
+          "ja": "{留学|りゅうがく}していたころ、ホストファミリーがよく{家庭|かてい}{料理|りょうり}を{教|おし}えてくれた。",
+          "vi": "Hồi du học, gia đình bản xứ thường dạy tôi nấu các món ăn gia đình.",
+          "note": "(私に) bị lược → 〜てくれた chỉ hướng về người viết"
+        },
+        {
+          "ja": "{初対面|しょたいめん}の{人|ひと}にいきなり{年齢|ねんれい}を{聞|き}かれて、{戸惑|とまど}ってしまった。",
+          "vi": "Bị một người mới gặp lần đầu hỏi tuổi đột ngột, tôi bối rối.",
+          "note": "Chủ ngữ 私 không xuất hiện → 聞かれて"
+        }
+      ],
+      "compare": [
+        {
+          "with": "b42 受身・使役・使役受身／b43 あげる・もらう・くれる",
+          "diff": "Hai bài đó dạy **hình thức**; bài này dạy bước trước đó: **tìm ra chủ ngữ bị lược** để biết cần hình thức nào."
+        }
+      ],
+      "mistakes": [
+        "✗ {友達|ともだち}に{誘|さそ}って、{映画|えいが}を{見|み}に{行|い}った。→ ○ {友達|ともだち}に{誘|さそ}われて、… (chủ ngữ bị lược 私 là người được mời)",
+        "✗ {先生|せんせい}に{作文|さくぶん}を{褒|ほ}めてくれた。→ ○ {先生|せんせい}が{作文|さくぶん}を{褒|ほ}めてくれた／{先生|せんせい}に{作文|さくぶん}を{褒|ほ}めてもらった。"
+      ],
+      "tip": "Bốn phương án chỉ khác nhau ở thể (〜する／〜される／〜させる／〜させられる, 〜てあげる／〜てくれる) → dừng lại, viết nhanh ra lề: **\"ai làm → ai chịu\"**. Chủ ngữ bị lược thường là người viết hoặc nhân vật chủ đề."
+    },
+    {
+      "id": "b47-6",
+      "pattern": "繰り返し（同じ語を繰り返す）",
+      "reading": "くりかえし",
+      "meaning": "Lặp lại đúng từ khoá để giữ mạch, nhấn mạnh hoặc tránh nhầm",
+      "structure": [
+        "Từ khoá / thuật ngữ của bài → giữ nguyên một cách gọi suốt bài",
+        "Định nghĩa: 「X」とは、〜である。X は〜。",
+        "Nhấn mạnh: X を〜。X から〜。X は〜。"
+      ],
+      "explain": "Nghe có vẻ ngược với mục 1–3, nhưng không mâu thuẫn: tiếng Nhật **lược những từ phụ** (私は, đối tượng hiển nhiên) nhưng **lặp lại những từ khoá** quan trọng.\n\n- **Giữ mạch bài viết**: từ khoá xuất hiện lặp lại như sợi chỉ xuyên suốt, giúp người đọc biết bài đang nói về cái gì. Ví dụ bài về 「{水|みず}」: 水を大切に… 水は… 水を運ぶ….\n- **Thuật ngữ phải nhất quán**: trong luận văn, báo cáo, nếu đã gọi là 「{孤食|こしょく}」 thì gọi như vậy đến cuối. Đổi tên tuỳ tiện (lúc テレワーク, lúc リモートワーク, lúc 在宅勤務) khiến người đọc tưởng là ba thứ khác nhau. Khác với thói quen \"tránh lặp từ\" khi học viết văn tiếng Việt!\n- **Nhấn mạnh, tạo nhịp**: 「{失敗|しっぱい}を{恐|おそ}れるな。{失敗|しっぱい}から{学|まな}べ」.\n- **Tránh nhầm lẫn**: như mục 4, lặp lại tên người khi có hai nhân vật.",
+      "nuance": "Lặp **từ khoá** thì tốt, lặp **chủ ngữ hiển nhiên** thì nặng nề. Đặc biệt không thay thuật ngữ bằng đại từ 「それ」「これ」 khi thuật ngữ đó là đối tượng chính của câu định nghĩa.",
+      "examples": [
+        {
+          "ja": "{祖母|そぼ}はよく「{水|みず}を{大切|たいせつ}にしなさい」と{言|い}っていた。{祖母|そぼ}の{育|そだ}った{村|むら}では、{水|みず}は{毎朝|まいあさ}{井戸|いど}から{運|はこ}ぶものだったからだ。",
+          "vi": "Bà tôi hay nói \"phải quý nước\". Bởi vì ở ngôi làng bà lớn lên, nước là thứ mỗi sáng phải gánh từ giếng về.",
+          "note": "Từ khoá 水 lặp lại xuyên suốt"
+        },
+        {
+          "ja": "「{読|よ}む{力|ちから}」とは{何|なに}だろうか。{読|よ}む{力|ちから}とは、{文字|もじ}を{追|お}うことではなく、{書|か}き{手|て}の{意図|いと}をつかむ{力|ちから}である。",
+          "vi": "\"Năng lực đọc\" là gì? Năng lực đọc không phải là dò theo từng chữ, mà là khả năng nắm bắt ý đồ của người viết.",
+          "note": "Câu định nghĩa → lặp nguyên thuật ngữ"
+        },
+        {
+          "ja": "{本研究|ほんけんきゅう}では、{一人|ひとり}で{食事|しょくじ}をとることを「{孤食|こしょく}」と{呼|よ}ぶ。{孤食|こしょく}は{高齢者|こうれいしゃ}だけでなく、{子|こ}どもの{間|あいだ}にも{広|ひろ}がっている。",
+          "vi": "Trong nghiên cứu này, việc ăn một mình được gọi là \"cô thực\". Cô thực không chỉ ở người cao tuổi mà còn lan rộng cả ở trẻ em.",
+          "note": "Thuật ngữ nhất quán"
+        },
+        {
+          "ja": "{失敗|しっぱい}を{恐|おそ}れてはいけない。{失敗|しっぱい}から{学|まな}べることは{多|おお}い。{失敗|しっぱい}しない{人|ひと}とは、{何|なに}も{挑戦|ちょうせん}していない{人|ひと}のことだ。",
+          "vi": "Đừng sợ thất bại. Có nhiều điều học được từ thất bại. Người không bao giờ thất bại là người chưa thử thách điều gì.",
+          "note": "Lặp để nhấn mạnh, tạo nhịp"
+        }
+      ],
+      "compare": [
+        {
+          "with": "b47-7 言い換え",
+          "diff": "「繰り返し」 = dùng **đúng từ cũ** (giữ thuật ngữ, nhấn mạnh). 「言い換え」 = dùng **từ khác** nhưng chỉ cùng một thứ (tóm nội dung, từ bao quát hơn)."
+        }
+      ],
+      "mistakes": [
+        "✗ (báo cáo) {本稿|ほんこう}では{在宅|ざいたく}{勤務|きんむ}について{述|の}べる。テレワークの{利点|りてん}は…。リモートワークの{課題|かだい}は…。→ ○ giữ một thuật ngữ 「{在宅|ざいたく}{勤務|きんむ}」 xuyên suốt",
+        "△ 「{孤食|こしょく}」とは{一人|ひとり}で{食事|しょくじ}をとることだ。それは{子|こ}どもにも{広|ひろ}がっている。→ ○ {孤食|こしょく}は{子|こ}どもにも{広|ひろ}がっている。(không sai ngữ pháp, nhưng đối tượng chính của bài thì lặp thuật ngữ sẽ rõ hơn)"
+      ],
+      "tip": "Trong 問題9, phương án chứa **đúng từ khoá** của đoạn (từ đã được định nghĩa / đặt trong 「」 ở trên) thường là manh mối nối với câu trước. Phương án thay bằng 「彼」「この人」 cho một khái niệm → loại."
+    },
+    {
+      "id": "b47-7",
+      "pattern": "言い換え（別の言葉で言い換える）",
+      "reading": "いいかえ",
+      "meaning": "Gọi lại nội dung trước bằng từ khác: từ cùng nghĩa, từ bao quát, danh từ \"tóm\" nội dung",
+      "structure": [
+        "Từ cụ thể → từ bao quát: トマト・キュウリ → これらの野菜",
+        "Cả một hành động / sự việc → danh từ tóm: 毎朝5キロ走る → この習慣",
+        "Mong muốn → その夢／その目標; xu hướng → こうした傾向; sự việc → この影響／その出来事",
+        "Chỉ thị + danh từ: この／その／こうした／そうした ＋ N (xem b44)"
+      ],
+      "explain": "Thay vì lặp lại nguyên một câu dài, tiếng Nhật thường **gói nội dung đó vào một danh từ** rồi gọi lại bằng 「この〜」「その〜」「こうした〜」. Có ba kiểu:\n\n1. **Từ đồng nghĩa / gần nghĩa**: 「{引|ひ}っ{越|こ}しのアルバイト」 → 「{力仕事|ちからしごと}」.\n2. **Từ bao quát (thượng vị)**: トマト・キュウリ・ナス → 「これらの{野菜|やさい}」; 地震・台風・大雨 → 「こうした{災害|さいがい}」.\n3. **Danh từ \"tóm\" nội dung**: cả một câu được gọi lại bằng một danh từ phù hợp **loại** của nó:\n   - việc làm lặp đi lặp lại → 習慣\n   - điều muốn đạt trong tương lai → 夢・目標\n   - xu hướng chung trong xã hội → 傾向・風潮\n   - điều khó khăn cần giải quyết → 問題・課題\n   - kết quả do một sự việc gây ra → 影響\n   - suy nghĩ sai lệch → 思い込み\n\nĐiểm mấu chốt khi làm bài: danh từ thay thế phải **khớp loại** (習慣 không thể gọi là 事件) và **khớp số lượng** (nhiều thứ → これらの).",
+      "nuance": "Danh từ \"tóm\" giúp câu văn mạch lạc và mang sắc thái văn viết. Đi kèm thường là 「この・その・こうした・そうした」 — cách chọn こ／そ xem b44.",
+      "examples": [
+        {
+          "ja": "{兄|あに}は{毎朝|まいあさ}5キロ{走|はし}り、{夜|よる}は{腕立|うでた}て{伏|ふ}せを100{回|かい}する。この{習慣|しゅうかん}をもう10{年|ねん}も{続|つづ}けている。",
+          "vi": "Anh tôi mỗi sáng chạy 5 km, tối hít đất 100 cái. Thói quen này anh đã duy trì suốt 10 năm.",
+          "note": "Hành động lặp lại → この習慣"
+        },
+        {
+          "ja": "{最近|さいきん}、{若者|わかもの}の{間|あいだ}でテレビを{持|も}たない{人|ひと}が{増|ふ}えている。こうした{傾向|けいこう}は{都市部|としぶ}で{特|とく}に{目立|めだ}つ。",
+          "vi": "Gần đây, số người trẻ không sở hữu tivi đang tăng. Xu hướng này đặc biệt rõ ở thành thị.",
+          "note": "Hiện tượng xã hội → こうした傾向"
+        },
+        {
+          "ja": "{庭|にわ}でトマトとキュウリとナスを{育|そだ}てている。{夏|なつ}になると、これらの{野菜|やさい}が{毎日|まいにち}のように{食卓|しょくたく}に{並|なら}ぶ。",
+          "vi": "Tôi trồng cà chua, dưa chuột và cà tím ngoài vườn. Đến mùa hè, những loại rau này gần như ngày nào cũng có trên bàn ăn.",
+          "note": "Từ cụ thể → từ bao quát, số nhiều → これらの"
+        },
+        {
+          "ja": "{彼|かれ}は「{三年|さんねん}{以内|いない}にN1に{合格|ごうかく}する」と{決|き}めた。その{目標|もくひょう}を{紙|かみ}に{書|か}いて、{机|つくえ}の{前|まえ}に{貼|は}っている。",
+          "vi": "Anh ấy quyết tâm \"đỗ N1 trong vòng ba năm\". Anh viết mục tiêu đó ra giấy và dán trước bàn học.",
+          "note": "Điều muốn đạt → その目標"
+        },
+        {
+          "ja": "{駅|えき}の{近|ちか}くで{火事|かじ}があり、{電車|でんしゃ}が{二時間|にじかん}{止|と}まった。この{影響|えいきょう}で、{約|やく}{三万人|さんまんにん}の{足|あし}が{乱|みだ}れた。",
+          "vi": "Có hoả hoạn gần ga, tàu dừng hai tiếng. Do ảnh hưởng này, việc đi lại của khoảng ba vạn người bị đảo lộn.",
+          "note": "Sự việc → この影響"
+        }
+      ],
+      "compare": [
+        {
+          "with": "b47-6 繰り返し",
+          "diff": "Lặp **đúng từ** khi đó là thuật ngữ / từ khoá. Dùng **danh từ tóm** khi muốn gọi lại **cả một nội dung** (một câu, một chuỗi hành động)."
+        },
+        {
+          "with": "b44 「こ・そ・あ」",
+          "diff": "Bài này chọn **danh từ** (習慣・目標・傾向…); b44 chọn **từ chỉ thị** đi trước (この／その／あの)."
+        }
+      ],
+      "mistakes": [
+        "✗ {毎朝|まいあさ}5キロ{走|はし}っている。この{事件|じけん}をもう10{年|ねん}{続|つづ}けている。→ ○ この{習慣|しゅうかん}を… (danh từ phải khớp loại nội dung)",
+        "✗ トマトとキュウリを{育|そだ}てている。この{野菜|やさい}は{夏|なつ}によく{育|そだ}つ。→ ○ これらの{野菜|やさい}は… (hai thứ trở lên → これらの)"
+      ],
+      "tip": "Gặp chỗ trống dạng 「この（　）」「その（　）」「こうした（　）」: quay lại câu trước, tự hỏi **\"nội dung đó thuộc loại gì?\"** (thói quen? mục tiêu? xu hướng? ảnh hưởng?) và **\"một hay nhiều?\"**, rồi chọn danh từ khớp cả hai."
+    }
+  ],
+  "summary": [
+    {
+      "pattern": "繰り返しになる語の省略",
+      "meaning": "lược từ đã xuất hiện",
+      "key": "chủ ngữ, tân ngữ, nơi chốn đều lược được; không lạm dụng 彼・それ"
+    },
+    {
+      "pattern": "「が」で出た語 → 「は」で受けて省略",
+      "meaning": "が giới thiệu, câu sau lược N は",
+      "key": "câu sau miêu tả thẳng; không dùng lại N が"
+    },
+    {
+      "pattern": "同じ主題が続くときの省略",
+      "meaning": "chủ đề tiếp diễn thì lược",
+      "key": "夏は・最初は là đối chiếu, chủ đề vẫn giữ"
+    },
+    {
+      "pattern": "省略しない場合",
+      "meaning": "khi không được lược",
+      "key": "hai ứng viên / đổi chủ đề / đối chiếu → ghi rõ"
+    },
+    {
+      "pattern": "省略された主語を見抜く",
+      "meaning": "khôi phục chủ ngữ để chọn thể",
+      "key": "ai làm → ai chịu: 受身・使役受身・てくれる／てもらう"
+    },
+    {
+      "pattern": "繰り返し",
+      "meaning": "lặp đúng từ khoá",
+      "key": "thuật ngữ nhất quán; nhấn mạnh; tránh nhầm"
+    },
+    {
+      "pattern": "言い換え",
+      "meaning": "gọi lại bằng từ khác",
+      "key": "khớp loại (習慣・目標・傾向・影響) và số lượng (これらの)"
+    }
+  ],
+  "passages": {
+    "p1": {
+      "title": "隣の人",
+      "kind": "エッセイ",
+      "ja": "{先月|せんげつ}、{会社|かいしゃ}の{近|ちか}くのアパートに{引|ひ}っ{越|こ}した。{前|まえ}の{部屋|へや}より{狭|せま}いが、{駅|えき}まで{歩|ある}いて5{分|ふん}で、（　1　）。\n\n　{引|ひ}っ{越|こ}した{日|ひ}の{夕方|ゆうがた}、{隣|となり}の{部屋|へや}にあいさつに{行|い}った。ドアを{開|あ}けてくれたのは、{七十代|ななじゅうだい}くらいの{女性|じょせい}だった。（　2　）{一人|ひとり}で{暮|く}らしているそうで、「{困|こま}ったことがあったら、いつでも{言|い}ってね」と{笑顔|えがお}で{言|い}ってくれた。\n\n　{一週間|いっしゅうかん}ほどたったある{晩|ばん}、{仕事|しごと}から{帰|かえ}ると、ドアノブに{紙袋|かみぶくろ}がかけてあった。{中|なか}には{手作|てづく}りの{煮物|にもの}と{短|みじか}い{手紙|てがみ}が{入|はい}っていた。「{作|つく}りすぎたので、よかったらどうぞ」。{隣|となり}の{女性|じょせい}からだった。\n\n　{都会|とかい}では{隣|となり}に{誰|だれ}が{住|す}んでいるかも{知|し}らないのが{普通|ふつう}だと{思|おも}っていた。（　3　）があったので、{温|あたた}かい{煮物|にもの}が{余計|よけい}にうれしかった。{今度|こんど}の{休|やす}みには、{故郷|こきょう}から{送|おく}られてきたりんごを（　4　）つもりだ。",
+      "vi": "Tháng trước tôi chuyển đến một căn hộ gần công ty. Chật hơn phòng cũ, nhưng đi bộ đến ga chỉ 5 phút nên (1) việc đi làm dễ dàng hơn hẳn.\n\nChiều hôm chuyển đến, tôi sang chào phòng bên cạnh. Người mở cửa là một phụ nữ khoảng bảy mươi tuổi. Nghe nói (2) từ khi mất chồng bà sống một mình, bà tươi cười bảo: \"Có gì khó khăn thì cứ nói với bà nhé.\"\n\nKhoảng một tuần sau, một tối đi làm về, tôi thấy trên tay nắm cửa có treo một túi giấy. Bên trong có món rau củ hầm tự nấu và một mẩu thư ngắn: \"Bà nấu nhiều quá, nếu được thì cháu dùng nhé.\" Là của bà hàng xóm.\n\nTôi vẫn nghĩ ở thành phố, chuyện không biết ai sống cạnh nhà mình là bình thường. Vì đã có (3) suy nghĩ cố hữu ấy nên món hầm ấm áp kia càng khiến tôi vui hơn. Kỳ nghỉ tới, tôi định (4) mang số táo quê nhà gửi lên sang biếu bà để đáp lễ."
+    },
+    "p2": {
+      "title": "時計店の木村さん",
+      "kind": "エッセイ",
+      "ja": "{駅前|えきまえ}の{商店街|しょうてんがい}に、{古|ふる}い{時計|とけい}{店|てん}がある。{店主|てんしゅ}の{木村|きむら}さんは{八十歳|はちじゅっさい}を{過|す}ぎた{今|いま}も、{毎日|まいにち}{店|みせ}に{立|た}っている。\n\n　{先日|せんじつ}、{祖父|そふ}の{形見|かたみ}の{腕時計|うでどけい}が{動|うご}かなくなったので、その{店|みせ}に{持|も}っていった。{木村|きむら}さんは{時計|とけい}を{手|て}に{取|と}ると、しばらく{黙|だま}って{眺|なが}めていた。（　1　）、「これは{五十年|ごじゅうねん}{前|まえ}の{国産品|こくさんひん}ですね。{部品|ぶひん}はもう{作|つく}られていないけれど、{何|なん}とかしましょう」と{言|い}った。\n\n　{二週間|にしゅうかん}{後|ご}、{時計|とけい}は{再|ふたた}び{時|とき}を{刻|きざ}み{始|はじ}めた。{代金|だいきん}を{払|はら}おうとすると、（　2　）。「{直|なお}すのが{楽|たの}しかったから」と{言|い}うのだ。\n\n　{最近|さいきん}は、{物|もの}が{壊|こわ}れたら{修理|しゅうり}せずに{新|あたら}しいものを{買|か}うのが{当|あ}たり{前|まえ}になっている。そのほうが{安|やす}く{済|す}むことも{多|おお}い。（　3　）を{責|せ}めるつもりはない。ただ、{一|ひと}つの{物|もの}を{長|なが}く{大切|たいせつ}に{使|つか}う{喜|よろこ}びを、（　4　）。{今度|こんど}{店|みせ}の{前|まえ}を{通|とお}ったら、{改|あらた}めてお{礼|れい}を{言|い}おうと{思|おも}う。",
+      "vi": "Ở khu phố mua sắm trước ga có một tiệm đồng hồ cũ. Ông chủ tiệm Kimura dù đã ngoài tám mươi vẫn ngày ngày đứng bán.\n\nHôm trước, chiếc đồng hồ đeo tay ông tôi để lại không chạy nữa nên tôi mang đến tiệm. Ông Kimura cầm chiếc đồng hồ lên, lặng lẽ ngắm một lúc. (1) Rồi ông ngẩng lên và nói: \"Đây là hàng nội địa từ năm mươi năm trước nhỉ. Linh kiện giờ không còn sản xuất nữa, nhưng để tôi xoay xở xem sao.\"\n\nHai tuần sau, chiếc đồng hồ lại bắt đầu chạy. Khi tôi định trả tiền thì (2) bị ông từ chối. Ông bảo: \"Vì sửa nó vui lắm.\"\n\nGần đây, đồ hỏng thì không sửa mà mua cái mới đã trở thành chuyện đương nhiên. Làm vậy nhiều khi còn rẻ hơn. Tôi không có ý trách (3) cách nghĩ đó. Chỉ là, niềm vui khi dùng một món đồ thật lâu và trân trọng nó, (4) tôi cảm thấy mình đã được ông Kimura dạy cho. Lần tới đi ngang qua tiệm, tôi định sẽ cảm ơn ông thêm một lần nữa."
+    }
+  },
+  "quiz": [
+    {
+      "id": "b47-q1",
+      "kind": "form",
+      "ref": "b47-7",
+      "q": "{祖父|そふ}は{毎朝|まいあさ}5{時|じ}に{起|お}きて、{近所|きんじょ}の{神社|じんじゃ}まで{散歩|さんぽ}する。この（　　）は、もう40{年|ねん}も{続|つづ}いているそうだ。",
+      "options": [
+        "習慣",
+        "事件",
+        "目標",
+        "傾向"
+      ],
+      "answer": 0,
+      "vi": "Ông tôi mỗi sáng dậy lúc 5 giờ và đi dạo đến đền thờ gần nhà. Nghe nói thói quen này đã kéo dài suốt 40 năm.",
+      "why": "Nội dung trước là **việc làm lặp đi lặp lại mỗi ngày** → danh từ tóm phù hợp là **習慣**. 「事件」 = vụ việc (thường xấu, một lần); 「目標」 = điều muốn đạt được trong tương lai; 「傾向」 = xu hướng chung của nhiều người / xã hội, không dùng cho thói quen một người."
+    },
+    {
+      "id": "b47-q2",
+      "kind": "form",
+      "ref": "b47-5",
+      "q": "{子|こ}どものころ、{体|からだ}が{弱|よわ}かった。よく{熱|ねつ}を{出|だ}しては、{母|はは}に{病院|びょういん}へ（　　）。",
+      "options": [
+        "連れていった",
+        "連れていかれた",
+        "連れていかせた",
+        "連れていってあげた"
+      ],
+      "answer": 1,
+      "vi": "Hồi nhỏ tôi yếu ớt. Hay bị sốt, rồi lại được mẹ đưa đến bệnh viện.",
+      "why": "Chủ ngữ bị lược là **người viết (私)** — người bị sốt. Người làm hành động là 「母」 (có 「に」) → **bị động 連れていかれた**. 「連れていった」 = tôi đưa (ai đó) đi; 「連れていかせた」 = tôi bắt (mẹ) đưa đi — sai; 「連れていってあげた」 = tôi đưa (mẹ) đi giúp — sai hướng."
+    },
+    {
+      "id": "b47-q3",
+      "kind": "usage",
+      "ref": "b47-3",
+      "q": "{最|もっと}も{自然|しぜん}な{文章|ぶんしょう}を{選|えら}びなさい。",
+      "options": [
+        "私は毎朝ジョギングをしている。私は走り終わると、私はシャワーを浴びる。",
+        "毎朝ジョギングをしている。ジョギングは走り終わると、シャワーを浴びる。",
+        "毎朝ジョギングをしている。走り終わると、シャワーを浴びてから朝食をとる。",
+        "私は毎朝ジョギングをしている。彼は走り終わると、シャワーを浴びる。"
+      ],
+      "answer": 2,
+      "vi": "(3) Sáng nào tôi cũng chạy bộ. Chạy xong thì tắm rồi ăn sáng.",
+      "why": "(3): chủ đề \"tôi\" tiếp diễn → lược hết, tự nhiên. (1) lặp 「私は」 ba lần — nặng nề; (2) đặt 「ジョギングは」 làm chủ đề — \"môn chạy bộ chạy xong thì tắm\" vô nghĩa; (4) 「彼は」 làm đổi sang người khác, trong khi người chạy là \"tôi\"."
+    },
+    {
+      "id": "b47-q4",
+      "kind": "form",
+      "ref": "b47-2",
+      "q": "{玄関|げんかん}の{前|まえ}に{小包|こづつみ}が{置|お}いてあった。（　　）、{北海道|ほっかいどう}に{住|す}む{叔母|おば}からだった。",
+      "options": [
+        "送り状を見ると",
+        "小包が",
+        "小包を見ると、小包は",
+        "それが見ると"
+      ],
+      "answer": 0,
+      "vi": "Trước cửa có để một bưu kiện. Xem phiếu gửi thì thấy là của dì tôi ở Hokkaido.",
+      "why": "Bưu kiện đã được giới thiệu bằng 「が」 ở câu trước → câu sau **lược chủ đề**, chỉ cần 「送り状を見ると」 → tự nhiên. 「小包が」 dùng 「が」 cho thông tin đã biết — sai; phương án 3 lặp 「小包」 hai lần thừa; 「それが見ると」 sai ngữ pháp (bưu kiện không thể \"nhìn\")."
+    },
+    {
+      "id": "b47-q5",
+      "kind": "form",
+      "ref": "b47-4",
+      "q": "{会議|かいぎ}には{部長|ぶちょう}と{新入|しんにゅう}{社員|しゃいん}の{田中|たなか}さんが{出席|しゅっせき}した。{部長|ぶちょう}が{意見|いけん}を{求|もと}めると、（　　）{緊張|きんちょう}した{様子|ようす}で{話|はな}し{始|はじ}めた。",
+      "options": [
+        "部長は",
+        "田中さんは",
+        "それは",
+        "彼らは"
+      ],
+      "answer": 1,
+      "vi": "Cuộc họp có trưởng phòng và nhân viên mới Tanaka tham dự. Khi trưởng phòng hỏi ý kiến, anh Tanaka bắt đầu nói với vẻ căng thẳng.",
+      "why": "Có **hai ứng viên** (部長・田中さん) → không lược, phải ghi rõ người nói là **田中さんは** (người được hỏi ý kiến, đang căng thẳng). 「部長は」 sai người — trưởng phòng là người hỏi; 「それは」 chỉ vật; 「彼らは」 là cả hai người — không hợp với \"được hỏi ý kiến rồi bắt đầu nói\"."
+    },
+    {
+      "id": "b47-q6",
+      "kind": "form",
+      "ref": "b47-7",
+      "q": "{日本|にほん}では{地震|じしん}、{台風|たいふう}、{大雨|おおあめ}による{被害|ひがい}が{毎年|まいとし}のように{起|お}きている。（　　）に{備|そな}えるため、{多|おお}くの{家庭|かてい}が{非常|ひじょう}{食|しょく}を{用意|ようい}している。",
+      "options": [
+        "この事故",
+        "その夢",
+        "こうした趣味",
+        "これらの災害"
+      ],
+      "answer": 3,
+      "vi": "Ở Nhật, thiệt hại do động đất, bão, mưa lớn xảy ra gần như hằng năm. Để phòng bị những thảm hoạ này, nhiều gia đình chuẩn bị sẵn đồ ăn khẩn cấp.",
+      "why": "Ba hiện tượng tự nhiên → từ bao quát **災害**, số nhiều → **これらの災害**. 「この事故」 = tai nạn (do con người, một vụ); 「その夢」「こうした趣味」 hoàn toàn không khớp loại nội dung."
+    },
+    {
+      "id": "b47-q7",
+      "kind": "form",
+      "ref": "b47-6",
+      "q": "この{論文|ろんぶん}では、{一人|ひとり}で{食事|しょくじ}をとることを「{孤食|こしょく}」と{呼|よ}ぶ。（　　）は{近年|きんねん}、{子|こ}どもの{間|あいだ}でも{増|ふ}えている。",
+      "options": [
+        "彼",
+        "この人",
+        "孤食",
+        "食事"
+      ],
+      "answer": 2,
+      "vi": "Trong luận văn này, việc ăn một mình được gọi là \"cô thực\". Cô thực những năm gần đây đang gia tăng cả ở trẻ em.",
+      "why": "Thuật ngữ vừa được định nghĩa và là đối tượng chính → **lặp lại đúng thuật ngữ 孤食**. 「彼」「この人」 chỉ người, không chỉ hiện tượng; 「食事」 làm sai nghĩa (\"bữa ăn tăng lên ở trẻ em\" — không phải điều đang bàn)."
+    }
+  ],
+  "practice": [
+    {
+      "id": "b47-p1",
+      "kind": "passage",
+      "ref": "b47-3",
+      "pass": "p1",
+      "q": "（　1　）に{入|はい}る{最|もっと}もよいものを{選|えら}びなさい。",
+      "options": [
+        "通勤がずいぶん楽になった",
+        "私が通勤をずいぶん楽にさせた",
+        "アパートは通勤がずいぶん楽にされた",
+        "前の部屋は通勤が楽だった"
+      ],
+      "answer": 0,
+      "vi": "…đi bộ đến ga chỉ 5 phút nên việc đi làm dễ dàng hơn hẳn.",
+      "why": "Chủ đề \"tôi\" và căn hộ mới tiếp diễn, câu chỉ cần nêu kết quả → **通勤がずいぶん楽になった**. (2) 「楽にさせた」 sai thể (sai khiến vô nghĩa); (3) 「楽にされた」 bị động vô nghĩa; (4) đổi chủ đề sang phòng cũ và mâu thuẫn với 「駅まで歩いて5分で」 (ưu điểm của căn mới)."
+    },
+    {
+      "id": "b47-p2",
+      "kind": "passage",
+      "ref": "b47-5",
+      "pass": "p1",
+      "q": "（　2　）に{入|はい}る{最|もっと}もよいものを{選|えら}びなさい。",
+      "options": [
+        "ご主人に亡くされてから",
+        "私を亡くしてから",
+        "ご主人を亡くしてから",
+        "ご主人が亡くしてから"
+      ],
+      "answer": 2,
+      "vi": "Nghe nói từ khi mất chồng bà sống một mình…",
+      "why": "Chủ ngữ bị lược là **người phụ nữ** vừa được giới thiệu (lược theo mục 2). 「〜を亡くす」 = mất (người thân) → **ご主人を亡くしてから**. (1) bị động 「ご主人に亡くされて」 = bị chồng làm mất — vô nghĩa; (2) 「私を」 sai người; (4) 「ご主人が亡くして」 = chồng làm mất (ai đó) — sai chủ ngữ."
+    },
+    {
+      "id": "b47-p3",
+      "kind": "passage",
+      "ref": "b47-7",
+      "pass": "p1",
+      "q": "（　3　）に{入|はい}る{最|もっと}もよいものを{選|えら}びなさい。",
+      "options": [
+        "その事件",
+        "こうした趣味",
+        "この夢",
+        "そんな思い込み"
+      ],
+      "answer": 3,
+      "vi": "Vì đã có suy nghĩ cố hữu ấy nên món hầm ấm áp kia càng khiến tôi vui hơn.",
+      "why": "Câu trước là một **suy nghĩ (có phần sai lệch)** của người viết: \"ở thành phố không biết hàng xóm là bình thường\" → danh từ tóm: **そんな思い込み** (định kiến, suy nghĩ cố hữu). 「事件」 = vụ việc; 「趣味」 = sở thích; 「夢」 = ước mơ — không khớp loại nội dung."
+    },
+    {
+      "id": "b47-p4",
+      "kind": "passage",
+      "ref": "b47-5",
+      "pass": "p1",
+      "q": "（　4　）に{入|はい}る{最|もっと}もよいものを{選|えら}びなさい。",
+      "options": [
+        "お返しに持っていく",
+        "お返しに持ってきてもらう",
+        "お返しに持っていかれる",
+        "お返しに持たせられる"
+      ],
+      "answer": 0,
+      "vi": "Kỳ nghỉ tới, tôi định mang số táo quê nhà gửi lên sang biếu bà để đáp lễ.",
+      "why": "Chủ ngữ bị lược là **người viết**, và có 「つもりだ」 (ý định của chính mình) → động từ chủ động **持っていく**. (2) 「持ってきてもらう」 = nhờ người khác mang đến — ngược hướng đáp lễ; (3) bị động 「持っていかれる」 = bị mang đi mất; (4) 「持たせられる」 = bị bắt mang — không đi với つもり."
+    },
+    {
+      "id": "b47-p5",
+      "kind": "form",
+      "ref": "b47-7",
+      "q": "{最近|さいきん}は{紙|かみ}の{地図|ちず}を{使|つか}わず、スマートフォンで{道|みち}を{調|しら}べる{人|ひと}がほとんどだ。（　　）のせいか、{道|みち}を{覚|おぼ}えられない{人|ひと}が{増|ふ}えたという{声|こえ}もある。",
+      "options": [
+        "この目標",
+        "その事故",
+        "こうした変化",
+        "これらの夢"
+      ],
+      "answer": 2,
+      "vi": "Gần đây hầu hết mọi người không dùng bản đồ giấy mà tra đường bằng điện thoại. Có lẽ do sự thay đổi này mà có ý kiến cho rằng số người không nhớ được đường đã tăng lên.",
+      "why": "Nội dung trước là **một thay đổi trong thói quen xã hội** → **こうした変化**. 「目標」 = điều muốn đạt; 「事故」 = tai nạn; 「これらの夢」 vừa sai loại vừa sai số lượng."
+    },
+    {
+      "id": "b47-p6",
+      "kind": "form",
+      "ref": "b47-5",
+      "q": "{先日|せんじつ}、{駅|えき}で{外国人|がいこくじん}{観光客|かんこうきゃく}に{道|みち}を（　　）。{英語|えいご}がうまく{話|はな}せなかったので、{地図|ちず}を{描|か}いて{説明|せつめい}した。",
+      "options": [
+        "聞いた",
+        "聞かれた",
+        "聞かせた",
+        "聞いてもらった"
+      ],
+      "answer": 1,
+      "vi": "Hôm trước, ở nhà ga tôi bị một khách du lịch nước ngoài hỏi đường. Vì không nói tiếng Anh giỏi nên tôi vẽ bản đồ để giải thích.",
+      "why": "Câu sau: chủ ngữ bị lược (私) là người **giải thích** đường → người hỏi là khách du lịch → **聞かれた**. 「聞いた」 = tôi hỏi khách — mâu thuẫn với việc tôi giải thích; 「聞かせた」 = cho nghe / bắt hỏi — sai; 「聞いてもらった」 = nhờ khách hỏi giùm — vô nghĩa."
+    },
+    {
+      "id": "b47-p7",
+      "kind": "usage",
+      "ref": "b47-4",
+      "q": "{最|もっと}も{自然|しぜん}な{文章|ぶんしょう}を{選|えら}びなさい。",
+      "options": [
+        "中村さんが小川さんに書類を渡した。すぐに内容を確認し始めた。",
+        "中村さんが小川さんに書類を渡した。小川さんがすぐに中村さんが渡した書類を確認し始めた。",
+        "中村さんが小川さんに書類を渡した。彼女はすぐに彼の内容を確認し始めた。",
+        "中村さんが小川さんに書類を渡した。小川さんはすぐに内容を確認し始めた。"
+      ],
+      "answer": 3,
+      "vi": "(4) Chị Nakamura đưa tài liệu cho anh Ogawa. Anh Ogawa lập tức bắt đầu kiểm tra nội dung.",
+      "why": "(4): có hai người → ghi rõ 「小川さんは」, phần còn lại lược gọn → đúng. (1) lược chủ ngữ khi có hai ứng viên → không biết ai kiểm tra; (2) dùng 「が」 cho người đã biết và lặp thừa cả cụm 「中村さんが渡した書類」; (3) 「彼女」「彼」 không rõ là ai, 「彼の内容」 sai nghĩa."
+    },
+    {
+      "id": "b47-p8",
+      "kind": "form",
+      "ref": "b47-2",
+      "q": "{夜中|よなか}に{電話|でんわ}が{鳴|な}った。（　　）、{間違|まちが}い{電話|でんわ}だった。",
+      "options": [
+        "出てみると",
+        "電話が出ると",
+        "電話は出てみると",
+        "私が電話を鳴らすと"
+      ],
+      "answer": 0,
+      "vi": "Nửa đêm điện thoại reo. Nghe máy thì hoá ra là gọi nhầm số.",
+      "why": "「電話」 đã xuất hiện ở câu trước → câu sau lược, chỉ cần **出てみると** (= 電話に出てみると). 「電話が出ると」 sai (điện thoại không \"nghe máy\"); 「電話は出てみると」 sai trợ từ (phải là 電話に) và thừa; 「私が電話を鳴らすと」 đảo ngược sự việc."
+    },
+    {
+      "id": "b47-p9",
+      "kind": "form",
+      "ref": "b47-3",
+      "q": "{私|わたし}の{故郷|こきょう}は{山|やま}に{囲|かこ}まれた{小|ちい}さな{町|まち}だ。（　　）{雪|ゆき}に{閉|と}ざされるが、{秋|あき}は{紅葉|こうよう}が{見事|みごと}で、{多|おお}くの{観光客|かんこうきゃく}が{訪|おとず}れる。",
+      "options": [
+        "私は冬に",
+        "冬は",
+        "山は冬を",
+        "故郷が冬に"
+      ],
+      "answer": 1,
+      "vi": "Quê tôi là một thị trấn nhỏ được núi bao quanh. Mùa đông thì bị tuyết vây kín, nhưng mùa thu lá đỏ tuyệt đẹp nên có nhiều khách du lịch ghé thăm.",
+      "why": "Chủ đề 「故郷」 vẫn tiếp diễn → lược; chỉ cần 「**冬は**」 (は đối chiếu với 「秋は」 phía sau). 「私は冬に」 đổi chủ ngữ sang người viết — \"tôi bị tuyết vây\" sai ý; 「山は冬を」 sai trợ từ và chủ ngữ; 「故郷が冬に」 dùng 「が」 cho chủ đề đã biết và lặp thừa."
+    },
+    {
+      "id": "b47-p10",
+      "kind": "form",
+      "ref": "b47-7",
+      "q": "{健康|けんこう}{診断|しんだん}で{血圧|けつあつ}が{高|たか}いと{言|い}われた。（　　）をきっかけに、{塩分|えんぶん}を{控|ひか}えた{食事|しょくじ}を{心|こころ}がけるようになった。",
+      "options": [
+        "これらのこと",
+        "そのこと",
+        "その習慣",
+        "あの夢"
+      ],
+      "answer": 1,
+      "vi": "Khi khám sức khoẻ, tôi bị nói là huyết áp cao. Nhân việc đó, tôi bắt đầu chú ý ăn uống bớt muối.",
+      "why": "Gọi lại **một sự việc** (bị nói huyết áp cao) → **そのこと**. 「これらのこと」 dùng cho nhiều việc — ở đây chỉ có một; 「その習慣」 sai loại (bị nói một lần không phải thói quen); 「あの夢」 hoàn toàn không khớp."
+    },
+    {
+      "id": "b47-p11",
+      "kind": "order",
+      "ref": "b47-7",
+      "q": "{母|はは}は{毎年|まいとし}{庭|にわ}でトマトやナスを{育|そだ}てている。{夏|なつ}になると、＿＿＿ ＿＿＿ ★ ＿＿＿ 。",
+      "options": [
+        "野菜を",
+        "食卓に並ぶ",
+        "使った料理が",
+        "これらの"
+      ],
+      "order": [
+        3,
+        0,
+        2,
+        1
+      ],
+      "answer": 2,
+      "vi": "Mẹ tôi năm nào cũng trồng cà chua, cà tím ngoài vườn. Đến mùa hè, những món ăn dùng các loại rau này được dọn lên bàn.",
+      "why": "**これらの 野菜を 使った料理が 食卓に並ぶ** → ★ (ô thứ 3) = 「使った料理が」. 「これらの」 (nhiều thứ → số nhiều) gọi lại トマト・ナス và phải đứng trước danh từ 「野菜」; 「野菜を使った」 bổ nghĩa cho 「料理」; câu kết bằng 「食卓に並ぶ」."
+    },
+    {
+      "id": "b47-p12",
+      "kind": "order",
+      "ref": "b47-5",
+      "q": "{初|はじ}めて{会|あ}った{人|ひと}に ＿＿＿ ＿＿＿ ★ ＿＿＿ しまった。",
+      "options": [
+        "聞かれて",
+        "困って",
+        "年齢を",
+        "答えに"
+      ],
+      "order": [
+        2,
+        0,
+        3,
+        1
+      ],
+      "answer": 3,
+      "vi": "Bị người mới gặp lần đầu hỏi tuổi, tôi lúng túng không biết trả lời sao.",
+      "why": "{初|はじ}めて{会|あ}った{人|ひと}に **年齢を 聞かれて 答えに 困って** しまった → ★ = 「答えに」. Chủ ngữ bị lược là 私, người hỏi là 「人に」 → bị động 「聞かれて」; 「答えに困る」 = bí câu trả lời; 「困って」 nối với 「しまった」."
+    }
+  ],
+  "test": [
+    {
+      "id": "b47-t1",
+      "kind": "passage",
+      "ref": "b47-3",
+      "pass": "p2",
+      "q": "（　1　）に{入|はい}る{最|もっと}もよいものを{選|えら}びなさい。",
+      "options": [
+        "やがて顔を上げて",
+        "やがて私は顔を上げて",
+        "やがて時計は顔を上げて",
+        "やがて祖父が顔を上げて"
+      ],
+      "answer": 0,
+      "vi": "Rồi ông ngẩng lên và nói: \"Đây là hàng nội địa từ năm mươi năm trước nhỉ…\"",
+      "why": "Chủ đề 「木村さんは」 ở câu trước vẫn tiếp diễn → lược → **やがて顔を上げて**. 「私は」 đổi người nói sang người viết — nhưng lời nhận định chuyên môn là của thợ sửa; 「時計は顔を上げて」 vô nghĩa; 「祖父が」 sai — người ông đã mất (形見), không có mặt."
+    },
+    {
+      "id": "b47-t2",
+      "kind": "passage",
+      "ref": "b47-5",
+      "pass": "p2",
+      "q": "（　2　）に{入|はい}る{最|もっと}もよいものを{選|えら}びなさい。",
+      "options": [
+        "木村さんを断った",
+        "木村さんに断らせた",
+        "木村さんが断ってもらった",
+        "木村さんに断られた"
+      ],
+      "answer": 3,
+      "vi": "Khi tôi định trả tiền thì bị ông Kimura từ chối.",
+      "why": "Chủ ngữ bị lược là **người viết** (người định trả tiền); người từ chối là ông Kimura (câu sau 「直すのが楽しかったから」 là lời của ông) → bị động **木村さんに断られた**. (1) tôi từ chối ông — sai; (2) tôi bắt ông từ chối — vô lý; (3) 「が〜てもらった」 sai cấu trúc."
+    },
+    {
+      "id": "b47-t3",
+      "kind": "passage",
+      "ref": "b47-7",
+      "pass": "p2",
+      "q": "（　3　）に{入|はい}る{最|もっと}もよいものを{選|えら}びなさい。",
+      "options": [
+        "その腕時計",
+        "この目標",
+        "そうした考え方",
+        "あの部品"
+      ],
+      "answer": 2,
+      "vi": "Tôi không có ý trách cách nghĩ đó.",
+      "why": "Nội dung trước là **một cách suy nghĩ phổ biến** (hỏng thì mua mới) → danh từ tóm: **そうした考え方**. 「その腕時計」「あの部品」 là đồ vật — không thể \"trách\" theo nghĩa này và không khớp nội dung câu trước; 「この目標」 sai loại."
+    },
+    {
+      "id": "b47-t4",
+      "kind": "passage",
+      "ref": "b47-5",
+      "pass": "p2",
+      "q": "（　4　）に{入|はい}る{最|もっと}もよいものを{選|えら}びなさい。",
+      "options": [
+        "木村さんは私に教えてもらった気がする",
+        "私は木村さんに教えてもらった気がする",
+        "私は木村さんに教えてあげた気がする",
+        "木村さんは私を教えさせた気がする"
+      ],
+      "answer": 1,
+      "vi": "Chỉ là, niềm vui khi dùng một món đồ thật lâu và trân trọng nó, tôi cảm thấy mình đã được ông Kimura dạy cho.",
+      "why": "Người học được bài học là **người viết**, người dạy là ông Kimura → **私は木村さんに教えてもらった**. (1) đảo ngược: ông Kimura được tôi dạy; (3) tôi dạy ông — ngược nội dung bài; (4) 「私を教えさせた」 sai ngữ pháp và nghĩa."
+    },
+    {
+      "id": "b47-t5",
+      "kind": "form",
+      "ref": "b47-7",
+      "q": "{父|ちち}は{若|わか}いころ、{自転車|じてんしゃ}で{日本|にほん}{一周|いっしゅう}をしたいと{思|おも}っていた。{定年|ていねん}{後|ご}、六十五{歳|さい}にして（　　）を{実現|じつげん}させた。",
+      "options": [
+        "この習慣",
+        "その事故",
+        "これらの問題",
+        "その夢"
+      ],
+      "answer": 3,
+      "vi": "Hồi trẻ bố tôi muốn đạp xe vòng quanh Nhật Bản. Sau khi nghỉ hưu, ở tuổi 65 bố đã biến ước mơ đó thành hiện thực.",
+      "why": "Nội dung trước là **mong muốn từ lâu** (〜たいと思っていた) + động từ 「実現させる」 → **その夢**. 「習慣」 = việc làm lặp lại; 「事故」 = tai nạn; 「これらの問題」 sai loại và số lượng."
+    },
+    {
+      "id": "b47-t6",
+      "kind": "usage",
+      "ref": "b47-1",
+      "q": "{最|もっと}も{自然|しぜん}な{文章|ぶんしょう}を{選|えら}びなさい。",
+      "options": [
+        "私は昨日、本屋で料理の本を買った。私はその本を家で読んだ。私はその本がとても役に立つと思った。",
+        "昨日、本屋で料理の本を買った。本屋が家で読んでみると、とても分かりやすかった。",
+        "昨日、本屋で料理の本を買った。家で読んでみると、写真が多くてとても分かりやすかった。",
+        "昨日、本屋で料理の本を買った。彼が家でそれを読んでみると、それはとても分かりやすかった。"
+      ],
+      "answer": 2,
+      "vi": "(3) Hôm qua tôi mua một cuốn sách nấu ăn ở hiệu sách. Về nhà đọc thử thì thấy nhiều ảnh, rất dễ hiểu.",
+      "why": "(3): \"tôi\" và \"cuốn sách\" đều đã rõ → lược gọn, tự nhiên. (1) lặp 「私は」「その本」 liên tục — nặng nề; (2) 「本屋が」 biến hiệu sách thành người đọc — vô nghĩa; (4) 「彼が」 đổi sang người khác, 「それ」 lặp thừa."
+    },
+    {
+      "id": "b47-t7",
+      "kind": "order",
+      "ref": "b47-4",
+      "q": "{兄|あに}は{肉|にく}{料理|りょうり}が{好|す}きだが、＿＿＿ ＿＿＿ ★ ＿＿＿ 。",
+      "options": [
+        "ほうが",
+        "好きだ",
+        "私は",
+        "魚料理の"
+      ],
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answer": 0,
+      "vi": "Anh tôi thích món thịt, còn tôi thì thích món cá hơn.",
+      "why": "…が、**私は 魚料理の ほうが 好きだ** → ★ (ô thứ 3) = 「ほうが」. Câu **đối chiếu** hai người nên phải ghi rõ 「私は」, không lược; 「N のほうが好きだ」 là khuôn so sánh."
+    },
+    {
+      "id": "b47-t8",
+      "kind": "form",
+      "ref": "b47-5",
+      "q": "{新|あたら}しいプロジェクトのリーダーに（　　）、{責任|せきにん}の{重|おも}さに{夜|よる}も{眠|ねむ}れなくなった。",
+      "options": [
+        "選んで",
+        "選ばれて",
+        "選ばせて",
+        "選ばせられて"
+      ],
+      "answer": 1,
+      "vi": "Được chọn làm trưởng nhóm dự án mới, tôi trằn trọc cả đêm vì sức nặng của trách nhiệm.",
+      "why": "Chủ ngữ bị lược là **người viết** — người mất ngủ vì trách nhiệm, tức là người **được chọn** → bị động **選ばれて**. 「選んで」 = tôi chọn (ai đó); 「選ばせて」 = tôi bắt (ai đó) chọn; 「選ばせられて」 = tôi bị bắt phải chọn — đều không hợp với \"リーダーに\"."
+    }
+  ]
+}

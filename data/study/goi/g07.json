@@ -1,0 +1,2226 @@
+{
+  "id": "g07",
+  "track": "goi",
+  "intro": "Chương này là bộ từ vựng về **sở thích và giải trí**, chia làm ba mảng lớn:\n\n- **スポーツ**: luyện tập (訓練・指導・上達) và thi đấu (出場・活躍・勝敗・引き分け). Học theo **cặp đối**: 攻める↔守る, 敵↔味方, 破る↔敗れる.\n- **文芸** (văn chương): người viết (作家・著者・筆者), loại tác phẩm (古典・随筆・評論), các phần của một cuốn sách (目次・索引・粗筋).\n- **演劇・その他**: sân khấu (舞台・幕・セリフ・客席) và các thú vui thủ công (裁縫・編み物・工芸・彫る・削る).\n\nĐiểm then chốt khi thi:\n- Rất nhiều **từ đồng âm khác chữ**: 攻める／責める, 敗れる／破れる, 彫る／掘る, 賞品／商品 — dạng bài **viết kanji** rất thích hỏi.\n- Tiền tố / hậu tố của bài: **名〜** (名作・名場面・名曲), **未〜** (未発表・未完成), **〜的** (印象的・古典的), **〜訳** (現代語訳・日本語訳).\n- 4 phó từ: ひょっとすると (biết đâu), わずか (chỉ một chút), まさに (chính là / đúng lúc), 実に (thật sự là).",
+  "sections": [
+    {
+      "title": "スポーツ ― 練習",
+      "title_vi": "Thể thao: luyện tập",
+      "words": [
+        {
+          "id": "g07-w1",
+          "w": "練習",
+          "r": "れんしゅう",
+          "hv": "LUYỆN TẬP",
+          "pos": "名・他動",
+          "vi": "luyện tập, tập",
+          "ex": {
+            "ja": "{試合|しあい}{前|まえ}は{毎日|まいにち}3{時間|じかん}{練習|れんしゅう}する。",
+            "vi": "Trước trận đấu ngày nào cũng tập 3 tiếng."
+          }
+        },
+        {
+          "id": "g07-w2",
+          "w": "訓練",
+          "r": "くんれん",
+          "hv": "HUẤN LUYỆN",
+          "pos": "名・他動",
+          "vi": "huấn luyện, rèn luyện (có hệ thống, lặp đi lặp lại)",
+          "key": true,
+          "ex": {
+            "ja": "{盲導犬|もうどうけん}になるまでには、{長|なが}い{訓練|くんれん}が{必要|ひつよう}だ。",
+            "vi": "Để trở thành chó dẫn đường cần một thời gian huấn luyện dài."
+          },
+          "col": [
+            "避難訓練",
+            "職業訓練",
+            "厳しい訓練を受ける"
+          ],
+          "rel": "≒ トレーニング",
+          "note": "訓練 dùng cho cả kỹ năng nghề, phản xạ, động vật (避難訓練 = diễn tập sơ tán). トレーニング thiên về **tập thể lực**."
+        },
+        {
+          "id": "g07-w3",
+          "w": "トレーニング",
+          "r": "とれーにんぐ",
+          "hv": "",
+          "pos": "名・自動",
+          "vi": "tập luyện (thể lực), training",
+          "key": true,
+          "ex": {
+            "ja": "{彼|かれ}は{毎朝|まいあさ}ジムでトレーニングをしてから{出社|しゅっしゃ}する。",
+            "vi": "Mỗi sáng anh ấy tập ở phòng gym rồi mới đi làm."
+          },
+          "col": [
+            "筋力トレーニング（筋トレ）",
+            "トレーニングウェア"
+          ],
+          "rel": "≒ 訓練"
+        },
+        {
+          "id": "g07-w4",
+          "w": "監督",
+          "r": "かんとく",
+          "hv": "GIÁM ĐỐC",
+          "pos": "名・他動",
+          "vi": "huấn luyện viên trưởng; đạo diễn; giám sát",
+          "key": true,
+          "senses": [
+            {
+              "vi": "HLV trưởng (đội thể thao)",
+              "ex": {
+                "ja": "{新|あたら}しい{監督|かんとく}は{若|わか}い{選手|せんしゅ}を{積極的|せっきょくてき}に{使|つか}う。",
+                "vi": "Tân HLV trưởng mạnh dạn sử dụng cầu thủ trẻ."
+              }
+            },
+            {
+              "vi": "đạo diễn (phim, kịch)",
+              "ex": {
+                "ja": "この{映画|えいが}の{監督|かんとく}は、{以前|いぜん}{俳優|はいゆう}だった。",
+                "vi": "Đạo diễn bộ phim này trước kia từng là diễn viên."
+              }
+            },
+            {
+              "vi": "giám sát, coi (thi, công trình)",
+              "ex": {
+                "ja": "{試験|しけん}{中|ちゅう}は{先生|せんせい}が{二人|ふたり}で{監督|かんとく}する。",
+                "vi": "Trong giờ thi có hai thầy cô coi thi."
+              }
+            }
+          ],
+          "note": "**Bẫy cho người Việt**: 監督 đọc Hán Việt là “giám đốc” nhưng **không phải** giám đốc công ty (= 社長). Nghĩa là người chỉ huy, giám sát một tập thể/hoạt động."
+        },
+        {
+          "id": "g07-w5",
+          "w": "コーチ",
+          "r": "こーち",
+          "hv": "",
+          "pos": "名・他動",
+          "vi": "huấn luyện viên; huấn luyện",
+          "key": true,
+          "ex": {
+            "ja": "{元|もと}{選手|せんしゅ}の{兄|あに}が、{地元|じもと}の{少年|しょうねん}チームをコーチしている。",
+            "vi": "Anh tôi, một cựu cầu thủ, đang huấn luyện đội thiếu niên ở địa phương."
+          },
+          "note": "監督 là người đứng đầu, chịu trách nhiệm cả đội; コーチ là người phụ trách huấn luyện kỹ thuật dưới quyền 監督."
+        },
+        {
+          "id": "g07-w6",
+          "w": "指導",
+          "r": "しどう",
+          "hv": "CHỈ ĐẠO",
+          "pos": "名・他動",
+          "vi": "hướng dẫn, chỉ bảo, dìu dắt",
+          "key": true,
+          "ex": {
+            "ja": "{田中|たなか}{先生|せんせい}の{丁寧|ていねい}な{指導|しどう}のおかげで、{論文|ろんぶん}を{書|か}き{上|あ}げることができた。",
+            "vi": "Nhờ sự hướng dẫn tận tình của thầy Tanaka mà tôi đã viết xong luận văn."
+          },
+          "col": [
+            "指導者",
+            "指導を受ける",
+            "技術指導"
+          ],
+          "note": "Không mang nghĩa “chỉ đạo” kiểu ra lệnh từ trên xuống như tiếng Việt; chủ yếu là **dạy dỗ, hướng dẫn** (thầy → trò, HLV → VĐV)."
+        },
+        {
+          "id": "g07-w7",
+          "w": "技術",
+          "r": "ぎじゅつ",
+          "hv": "KỸ THUẬT",
+          "pos": "名",
+          "vi": "kỹ thuật, kỹ năng",
+          "ex": {
+            "ja": "{彼|かれ}はボールを{止|と}める{技術|ぎじゅつ}が{高|たか}い。",
+            "vi": "Kỹ thuật khống chế bóng của anh ấy rất tốt."
+          },
+          "col": [
+            "技術が上達する"
+          ]
+        },
+        {
+          "id": "g07-w8",
+          "w": "上達",
+          "r": "じょうたつ",
+          "hv": "THƯỢNG ĐẠT",
+          "pos": "名・自動",
+          "vi": "tiến bộ, khá lên (kỹ năng, tay nghề)",
+          "key": true,
+          "ex": {
+            "ja": "{毎日|まいにち}{少|すこ}しずつでも{弾|ひ}いていれば、ギターは{必|かなら}ず{上達|じょうたつ}する。",
+            "vi": "Mỗi ngày chơi một chút thôi thì guitar chắc chắn sẽ tiến bộ."
+          },
+          "col": [
+            "日本語が上達する",
+            "腕が上達する",
+            "上達が早い"
+          ],
+          "rel": "≒ 上手になる",
+          "note": "Chỉ dùng cho **kỹ năng của con người** (ngoại ngữ, thể thao, nhạc cụ). Khoa học, xã hội “tiến bộ” → 進歩; mức độ, chất lượng nâng lên → 向上."
+        }
+      ]
+    },
+    {
+      "title": "スポーツ ― 競技",
+      "title_vi": "Thể thao: thi đấu",
+      "words": [
+        {
+          "id": "g07-w9",
+          "w": "競技",
+          "r": "きょうぎ",
+          "hv": "CẠNH KỸ",
+          "pos": "名",
+          "vi": "môn thi đấu; cuộc thi đấu",
+          "key": true,
+          "ex": {
+            "ja": "オリンピックでは{三十|さんじゅう}を{超|こ}える{競技|きょうぎ}が{行|おこな}われる。",
+            "vi": "Ở Olympic có hơn 30 môn thi đấu được tổ chức."
+          },
+          "col": [
+            "競技場",
+            "団体競技／個人競技",
+            "陸上競技"
+          ]
+        },
+        {
+          "id": "g07-w10",
+          "w": "試合",
+          "r": "しあい",
+          "hv": "THÍ HỢP",
+          "pos": "名",
+          "vi": "trận đấu",
+          "ex": {
+            "ja": "{雨|あめ}で{試合|しあい}が{中止|ちゅうし}になった。",
+            "vi": "Trận đấu bị hủy vì mưa."
+          }
+        },
+        {
+          "id": "g07-w11",
+          "w": "出場",
+          "r": "しゅつじょう",
+          "hv": "XUẤT TRƯỜNG",
+          "pos": "名・自動",
+          "vi": "tham gia thi đấu, ra sân, dự thi",
+          "key": true,
+          "ex": {
+            "ja": "{地元|じもと}の{高校|こうこう}が、{初|はじ}めて{全国|ぜんこく}{大会|たいかい}に{出場|しゅつじょう}する。",
+            "vi": "Trường cấp 3 ở quê lần đầu tiên tham dự giải toàn quốc."
+          },
+          "col": [
+            "大会に出場する",
+            "初出場",
+            "出場停止"
+          ],
+          "rel": "↔ 欠場（けつじょう）",
+          "note": "Dùng trợ từ **に**: 試合に出場する. Không dùng cho người xem (người xem thì 観戦する)."
+        },
+        {
+          "id": "g07-w12",
+          "w": "見事",
+          "r": "みごと",
+          "hv": "KIẾN SỰ",
+          "pos": "な形",
+          "vi": "tuyệt vời, ngoạn mục, đáng khen",
+          "key": true,
+          "ex": {
+            "ja": "{彼女|かのじょ}は{最後|さいご}のジャンプを{見事|みごと}に{決|き}めた。",
+            "vi": "Cô ấy đã thực hiện cú nhảy cuối cùng một cách ngoạn mục."
+          },
+          "col": [
+            "見事な演技",
+            "見事に成功する"
+          ],
+          "rel": "≒ すばらしい",
+          "note": "「見事に」 còn dùng **mỉa mai**: 「{見事|みごと}に{失敗|しっぱい}した」 = thất bại hoàn toàn, thất bại “ngoạn mục”."
+        },
+        {
+          "id": "g07-w13",
+          "w": "活躍",
+          "r": "かつやく",
+          "hv": "HOẠT DƯỢC",
+          "pos": "名・自動",
+          "vi": "hoạt động tích cực, tỏa sáng, thể hiện xuất sắc",
+          "key": true,
+          "ex": {
+            "ja": "{日本|にほん}{人|じん}{選手|せんしゅ}がヨーロッパのリーグで{大|おお}いに{活躍|かつやく}している。",
+            "vi": "Các cầu thủ Nhật đang tỏa sáng rực rỡ ở giải châu Âu."
+          },
+          "col": [
+            "活躍する",
+            "大活躍",
+            "活躍が期待される"
+          ],
+          "note": "Luôn mang nghĩa **tốt**: làm được việc nổi bật, có thành tích. Khác 活動 (hoạt động nói chung, trung tính: 火山の活動, クラブ活動)."
+        },
+        {
+          "id": "g07-w14",
+          "w": "ミス",
+          "r": "みす",
+          "hv": "",
+          "pos": "名・自動",
+          "vi": "lỗi, sai sót (mistake)",
+          "key": true,
+          "ex": {
+            "ja": "{小|ちい}さなミスが{重|かさ}なって、{試合|しあい}に{負|ま}けてしまった。",
+            "vi": "Những lỗi nhỏ chồng chất khiến chúng tôi thua trận."
+          },
+          "col": [
+            "ミスをする",
+            "ミスが多い",
+            "計算ミス"
+          ],
+          "rel": "≒ 失敗・間違い"
+        },
+        {
+          "id": "g07-w15",
+          "w": "従う",
+          "r": "したがう",
+          "hv": "TÒNG",
+          "pos": "自動",
+          "vi": "tuân theo, làm theo",
+          "key": true,
+          "ex": {
+            "ja": "{係員|かかりいん}の{指示|しじ}に{従|したが}って、{順番|じゅんばん}に{会場|かいじょう}へお{入|はい}りください。",
+            "vi": "Xin hãy làm theo hướng dẫn của nhân viên và lần lượt vào hội trường."
+          },
+          "col": [
+            "ルールに従う",
+            "命令に従う",
+            "指示に従う"
+          ],
+          "rel": "↔ 逆らう・違反する",
+          "note": "Trợ từ **に**: ルール**に**従う (không phải ルールを従う)."
+        },
+        {
+          "id": "g07-w16",
+          "w": "違反",
+          "r": "いはん",
+          "hv": "VI PHẢN",
+          "pos": "名・自動",
+          "vi": "vi phạm (luật, quy định)",
+          "key": true,
+          "ex": {
+            "ja": "スピード{違反|いはん}で{警察|けいさつ}に{止|と}められた。",
+            "vi": "Tôi bị cảnh sát chặn lại vì chạy quá tốc độ."
+          },
+          "col": [
+            "ルールに違反する",
+            "交通違反",
+            "契約違反",
+            "違反者"
+          ],
+          "rel": "↔ 従う・守る"
+        },
+        {
+          "id": "g07-w17",
+          "w": "観客",
+          "r": "かんきゃく",
+          "hv": "QUAN KHÁCH",
+          "pos": "名",
+          "vi": "khán giả (xem trực tiếp)",
+          "key": true,
+          "ex": {
+            "ja": "{決勝戦|けっしょうせん}には{五万|ごまん}{人|にん}の{観客|かんきゃく}が{集|あつ}まった。",
+            "vi": "Trận chung kết có 5 vạn khán giả đến xem."
+          },
+          "col": [
+            "観客席",
+            "観客が入る"
+          ],
+          "note": "観客: người xem tại chỗ (thể thao, kịch, phim). Xem TV → 視聴者; nghe diễn thuyết/hoà nhạc → 聴衆; đọc → 読者. Lưu ý HV “quan khách” ≠ “khách quý” trong tiếng Việt."
+        },
+        {
+          "id": "g07-w18",
+          "w": "応援",
+          "r": "おうえん",
+          "hv": "ỨNG VIỆN",
+          "pos": "名・他動",
+          "vi": "cổ vũ; ủng hộ, giúp sức",
+          "key": true,
+          "ex": {
+            "ja": "{家族|かぞく}みんなで{兄|あに}の{夢|ゆめ}を{応援|おうえん}している。",
+            "vi": "Cả nhà đều ủng hộ ước mơ của anh tôi."
+          },
+          "col": [
+            "チームを応援する",
+            "応援団",
+            "応援に駆けつける"
+          ],
+          "note": "Hai nghĩa: (1) hò reo cổ vũ trong thi đấu; (2) ủng hộ tinh thần, giúp sức cho ai đạt mục tiêu."
+        },
+        {
+          "id": "g07-w19",
+          "w": "ベテラン",
+          "r": "べてらん",
+          "hv": "",
+          "pos": "名",
+          "vi": "người kỳ cựu, lão luyện",
+          "key": true,
+          "ex": {
+            "ja": "この{道|みち}三十{年|ねん}のベテランの{職人|しょくにん}に{話|はなし}を{聞|き}いた。",
+            "vi": "Tôi đã nói chuyện với một người thợ lão luyện 30 năm trong nghề."
+          },
+          "rel": "↔ 新人・初心者"
+        },
+        {
+          "id": "g07-w20",
+          "w": "選手",
+          "r": "せんしゅ",
+          "hv": "TUYỂN THỦ",
+          "pos": "名",
+          "vi": "vận động viên, cầu thủ",
+          "ex": {
+            "ja": "{彼|かれ}は{代表|だいひょう}{選手|せんしゅ}に{選|えら}ばれた。",
+            "vi": "Anh ấy được chọn làm tuyển thủ quốc gia."
+          }
+        },
+        {
+          "id": "g07-w21",
+          "w": "引退",
+          "r": "いんたい",
+          "hv": "DẪN THOÁI",
+          "pos": "名・自動",
+          "vi": "giải nghệ, rút lui (khỏi sự nghiệp, vị trí)",
+          "key": true,
+          "ex": {
+            "ja": "{人気|にんき}{歌手|かしゅ}が{突然|とつぜん}{引退|いんたい}を{発表|はっぴょう}し、ファンを{驚|おどろ}かせた。",
+            "vi": "Ca sĩ nổi tiếng bất ngờ tuyên bố giải nghệ khiến người hâm mộ sửng sốt."
+          },
+          "col": [
+            "現役を引退する",
+            "引退試合",
+            "政界から引退する"
+          ],
+          "note": "Chỉ dùng khi **rời bỏ hẳn sự nghiệp / vị trí lâu năm** (VĐV, nghệ sĩ, chính khách). Không tham gia **một giải đấu** → {欠場|けつじょう}（する）／{棄権|きけん}; thôi học trước khi tốt nghiệp → {退学|たいがく}; bỏ thuốc → やめる."
+        },
+        {
+          "id": "g07-w22",
+          "w": "敵",
+          "r": "てき",
+          "hv": "ĐỊCH",
+          "pos": "名",
+          "vi": "đối thủ, kẻ địch",
+          "key": true,
+          "ex": {
+            "ja": "{彼|かれ}は{正直|しょうじき}すぎて、{会社|かいしゃ}の{中|なか}に{敵|てき}が{多|おお}い。",
+            "vi": "Anh ta thẳng thắn quá nên trong công ty có nhiều kẻ thù."
+          },
+          "rel": "↔ 味方",
+          "col": [
+            "敵チーム",
+            "敵に回す（biến ai đó thành kẻ thù）"
+          ]
+        },
+        {
+          "id": "g07-w23",
+          "w": "攻める",
+          "r": "せめる",
+          "hv": "CÔNG",
+          "pos": "他動",
+          "vi": "tấn công",
+          "key": true,
+          "ex": {
+            "ja": "{前半|ぜんはん}は{相手|あいて}に{攻|せ}められてばかりだった。",
+            "vi": "Hiệp một chúng tôi toàn bị đối phương tấn công."
+          },
+          "rel": "↔ 守る",
+          "note": "Đồng âm: **責める**（せめる）= trách móc, đổ lỗi: 「{失敗|しっぱい}した{部下|ぶか}を{責|せ}める」. Mẹo: 攻 có bộ 攵 (đánh) → tấn công; 責 có 貝 (tiền, nợ) → bắt chịu trách nhiệm."
+        },
+        {
+          "id": "g07-w24",
+          "w": "味方",
+          "r": "みかた",
+          "hv": "VỊ PHƯƠNG",
+          "pos": "名・自動",
+          "vi": "phe mình, đồng minh; đứng về phía ai",
+          "key": true,
+          "ex": {
+            "ja": "{誰|だれ}が{何|なん}と{言|い}おうと、{私|わたし}はあなたの{味方|みかた}だよ。",
+            "vi": "Dù ai nói gì đi nữa, mình vẫn đứng về phía cậu."
+          },
+          "col": [
+            "味方になる",
+            "〜に味方する",
+            "味方チーム"
+          ],
+          "rel": "↔ 敵",
+          "note": "Đồng âm: **見方**（みかた）= cách nhìn, quan điểm. 味方 = “phía mình”, 見方 = “cách nhìn”."
+        },
+        {
+          "id": "g07-w25",
+          "w": "守る",
+          "r": "まもる",
+          "hv": "THỦ",
+          "pos": "他動",
+          "vi": "phòng thủ, bảo vệ; giữ (lời hứa, luật)",
+          "key": true,
+          "ex": {
+            "ja": "1{点|てん}{差|さ}を{最後|さいご}まで{守|まも}り{切|き}って{優勝|ゆうしょう}した。",
+            "vi": "Giữ vững cách biệt một điểm đến cuối cùng và giành chức vô địch."
+          },
+          "col": [
+            "ゴールを守る",
+            "約束を守る",
+            "ルールを守る"
+          ],
+          "rel": "↔ 攻める／破る（約束を破る）"
+        },
+        {
+          "id": "g07-w26",
+          "w": "勝敗",
+          "r": "しょうはい",
+          "hv": "THẮNG BẠI",
+          "pos": "名",
+          "vi": "thắng bại, kết quả thắng thua",
+          "key": true,
+          "ex": {
+            "ja": "{最後|さいご}の{一球|いっきゅう}で{勝敗|しょうはい}が{決|き}まった。",
+            "vi": "Thắng bại được định đoạt ở cú bóng cuối cùng."
+          },
+          "col": [
+            "勝敗が決まる",
+            "勝敗を分ける"
+          ],
+          "note": "勝敗 chỉ **kết quả** (ai thắng ai thua). Xem focus để phân biệt với 勝負."
+        },
+        {
+          "id": "g07-w27",
+          "w": "勝負",
+          "r": "しょうぶ",
+          "hv": "THẮNG PHỤ",
+          "pos": "名・自動",
+          "vi": "cuộc so tài; phân thắng thua; đấu",
+          "key": true,
+          "ex": {
+            "ja": "{実力|じつりょく}が{同|おな}じくらいなので、いい{勝負|しょうぶ}になりそうだ。",
+            "vi": "Thực lực hai bên ngang nhau nên chắc sẽ là một trận so tài hay."
+          },
+          "col": [
+            "勝負する",
+            "勝負がつく",
+            "真剣勝負",
+            "名勝負"
+          ]
+        },
+        {
+          "id": "g07-w28",
+          "w": "破る",
+          "r": "やぶる",
+          "hv": "PHÁ",
+          "pos": "他動",
+          "vi": "đánh bại; phá (kỷ lục); xé; thất (hứa)",
+          "key": true,
+          "senses": [
+            {
+              "vi": "đánh bại (đối thủ)",
+              "ex": {
+                "ja": "{無名|むめい}の{新人|しんじん}が{前回|ぜんかい}の{王者|おうじゃ}を{破|やぶ}った。",
+                "vi": "Một tân binh vô danh đã đánh bại nhà vô địch mùa trước."
+              }
+            },
+            {
+              "vi": "phá (kỷ lục)",
+              "ex": {
+                "ja": "{彼女|かのじょ}は{十年|じゅうねん}ぶりに{日本|にほん}{記録|きろく}を{破|やぶ}った。",
+                "vi": "Cô ấy đã phá kỷ lục quốc gia sau 10 năm."
+              }
+            },
+            {
+              "vi": "xé; thất hứa, vi phạm",
+              "ex": {
+                "ja": "{約束|やくそく}を{破|やぶ}るような{人|ひと}は{信用|しんよう}できない。",
+                "vi": "Không thể tin người hay thất hứa."
+              }
+            }
+          ],
+          "col": [
+            "敵を破る",
+            "記録を破る",
+            "約束を破る",
+            "紙を破る"
+          ],
+          "rel": "↔ 敗れる（bị đánh bại）"
+        },
+        {
+          "id": "g07-w29",
+          "w": "敗れる",
+          "r": "やぶれる",
+          "hv": "BẠI",
+          "pos": "自動",
+          "vi": "thua, bại trận",
+          "key": true,
+          "ex": {
+            "ja": "{決勝|けっしょう}で{敗|やぶ}れたものの、{選手|せんしゅ}たちは{堂々|どうどう}としていた。",
+            "vi": "Tuy thua ở chung kết nhưng các cầu thủ vẫn hiên ngang."
+          },
+          "col": [
+            "敵に敗れる",
+            "試合に敗れる",
+            "決勝で敗れる"
+          ],
+          "rel": "≒ 負ける ↔ 勝つ・破る",
+          "note": "Trang trọng hơn 負ける (văn báo chí, tường thuật). Đồng âm: **破れる** = bị rách (紙が破れる). Thua trận → luôn viết **敗**."
+        },
+        {
+          "id": "g07-w30",
+          "w": "引き分け",
+          "r": "ひきわけ",
+          "hv": "DẪN PHÂN",
+          "pos": "名",
+          "vi": "hòa (không phân thắng bại)",
+          "key": true,
+          "ex": {
+            "ja": "{延長戦|えんちょうせん}でも{決着|けっちゃく}がつかず、{試合|しあい}は{引|ひ}き{分|わ}けになった。",
+            "vi": "Hiệp phụ cũng không phân thắng bại, trận đấu kết thúc với tỉ số hòa."
+          },
+          "col": [
+            "引き分けになる",
+            "引き分けに終わる"
+          ],
+          "note": "Động từ: 引き分ける (hòa nhau)."
+        },
+        {
+          "id": "g07-w31",
+          "w": "賞品",
+          "r": "しょうひん",
+          "hv": "THƯỞNG PHẨM",
+          "pos": "名",
+          "vi": "phần thưởng (bằng hiện vật)",
+          "key": true,
+          "ex": {
+            "ja": "ビンゴ{大会|たいかい}の{一等|いっとう}の{賞品|しょうひん}は{旅行券|りょこうけん}だった。",
+            "vi": "Phần thưởng giải nhất trò bingo là phiếu du lịch."
+          },
+          "note": "Đồng âm: **商品** = hàng hóa (để bán). 賞 = thưởng (賞をもらう), 商 = buôn bán (商売)."
+        },
+        {
+          "id": "g07-w32",
+          "w": "賞金",
+          "r": "しょうきん",
+          "hv": "THƯỞNG KIM",
+          "pos": "名",
+          "vi": "tiền thưởng",
+          "key": true,
+          "ex": {
+            "ja": "{優勝|ゆうしょう}{賞金|しょうきん}の{一部|いちぶ}を{被災地|ひさいち}に{寄付|きふ}した。",
+            "vi": "Anh ấy quyên góp một phần tiền thưởng vô địch cho vùng bị thiên tai."
+          },
+          "col": [
+            "賞金をもらう",
+            "賞金を獲得する"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "文芸 ― 作家・作品",
+      "title_vi": "Văn chương: người viết, tác phẩm",
+      "words": [
+        {
+          "id": "g07-w33",
+          "w": "趣味",
+          "r": "しゅみ",
+          "hv": "THÚ VỊ",
+          "pos": "名",
+          "vi": "sở thích; gu, khiếu thẩm mỹ",
+          "ex": {
+            "ja": "あの{人|ひと}は{服|ふく}の{趣味|しゅみ}がいい。",
+            "vi": "Người đó có gu ăn mặc đẹp."
+          },
+          "note": "HV “thú vị” nhưng nghĩa là **sở thích**, không phải “thú vị” (= 面白い)."
+        },
+        {
+          "id": "g07-w34",
+          "w": "読書",
+          "r": "どくしょ",
+          "hv": "ĐỘC THƯ",
+          "pos": "名・自動",
+          "vi": "đọc sách",
+          "key": true,
+          "ex": {
+            "ja": "{寝|ね}る{前|まえ}の三十{分|ぷん}は{読書|どくしょ}の{時間|じかん}と{決|き}めている。",
+            "vi": "Tôi dành 30 phút trước khi ngủ để đọc sách."
+          },
+          "col": [
+            "読書感想文",
+            "読書家（người ham đọc sách）"
+          ]
+        },
+        {
+          "id": "g07-w35",
+          "w": "作家",
+          "r": "さっか",
+          "hv": "TÁC GIA",
+          "pos": "名",
+          "vi": "nhà văn, tác giả (nghề viết)",
+          "key": true,
+          "ex": {
+            "ja": "{会社|かいしゃ}を{辞|や}めて、{作家|さっか}として{生|い}きていく{決心|けっしん}をした。",
+            "vi": "Anh ấy quyết định nghỉ việc công ty và sống bằng nghề viết văn."
+          },
+          "col": [
+            "人気作家",
+            "推理作家"
+          ]
+        },
+        {
+          "id": "g07-w36",
+          "w": "著者",
+          "r": "ちょしゃ",
+          "hv": "TRỨ GIẢ",
+          "pos": "名",
+          "vi": "tác giả (của một cuốn sách cụ thể)",
+          "key": true,
+          "ex": {
+            "ja": "{本|ほん}の{最後|さいご}のページに{著者|ちょしゃ}の{経歴|けいれき}が{載|の}っている。",
+            "vi": "Ở trang cuối sách có in tiểu sử của tác giả."
+          },
+          "note": "Luôn gắn với **một cuốn sách**: この本の著者. Không chỉ nghề (nghề → 作家)."
+        },
+        {
+          "id": "g07-w37",
+          "w": "筆者",
+          "r": "ひっしゃ",
+          "hv": "BÚT GIẢ",
+          "pos": "名",
+          "vi": "người viết (bài văn, bài báo này)",
+          "key": true,
+          "ex": {
+            "ja": "{筆者|ひっしゃ}がこの{文章|ぶんしょう}で{最|もっと}も{言|い}いたいことは{何|なん}ですか。",
+            "vi": "Điều người viết muốn nói nhất trong bài văn này là gì?"
+          },
+          "note": "Từ “quen mặt” trong đề đọc hiểu: 「筆者の考えに合うものはどれか」. Dùng cho bài văn, bài báo, bài luận (kể cả khi người viết tự xưng mình)."
+        },
+        {
+          "id": "g07-w38",
+          "w": "古典",
+          "r": "こてん",
+          "hv": "CỔ ĐIỂN",
+          "pos": "名",
+          "vi": "tác phẩm cổ điển, kinh điển",
+          "key": true,
+          "ex": {
+            "ja": "{高校|こうこう}の{授業|じゅぎょう}で、{千年|せんねん}{前|まえ}の{古典|こてん}を{読|よ}んだ。",
+            "vi": "Trong giờ học cấp 3, chúng tôi đã đọc một tác phẩm cổ điển từ ngàn năm trước."
+          },
+          "col": [
+            "古典文学",
+            "古典音楽（クラシック）",
+            "古典的"
+          ]
+        },
+        {
+          "id": "g07-w39",
+          "w": "現代語",
+          "r": "げんだいご",
+          "hv": "HIỆN ĐẠI NGỮ",
+          "pos": "名",
+          "vi": "ngôn ngữ hiện đại (tiếng Nhật ngày nay)",
+          "key": true,
+          "ex": {
+            "ja": "{昔|むかし}の{手紙|てがみ}を{現代語|げんだいご}に{直|なお}して{読|よ}んでみた。",
+            "vi": "Tôi thử chuyển bức thư xưa sang tiếng Nhật hiện đại để đọc."
+          },
+          "rel": "↔ 古語"
+        },
+        {
+          "id": "g07-w40",
+          "w": "訳す",
+          "r": "やくす",
+          "hv": "DỊCH",
+          "pos": "他動",
+          "vi": "dịch (từ ngôn ngữ này sang ngôn ngữ khác)",
+          "key": true,
+          "ex": {
+            "ja": "この{詩|し}を{ベトナム語|べとなむご}に{訳|やく}すのはとても{難|むずか}しい。",
+            "vi": "Dịch bài thơ này sang tiếng Việt rất khó."
+          },
+          "col": [
+            "〜を〜に訳す",
+            "英語に訳す"
+          ],
+          "rel": "≒ 翻訳する",
+          "note": "Trợ từ: [nguồn] **を** [đích] **に** 訳す."
+        },
+        {
+          "id": "g07-w41",
+          "w": "現代語訳",
+          "r": "げんだいごやく",
+          "hv": "HIỆN ĐẠI NGỮ DỊCH",
+          "pos": "名",
+          "vi": "bản dịch sang ngôn ngữ hiện đại",
+          "key": true,
+          "ex": {
+            "ja": "{原文|げんぶん}の{横|よこ}に{現代語訳|げんだいごやく}が{付|つ}いているので、{初心者|しょしんしゃ}でも{読|よ}める。",
+            "vi": "Bên cạnh nguyên văn có kèm bản dịch hiện đại nên người mới cũng đọc được."
+          },
+          "col": [
+            "現代語訳を付ける"
+          ]
+        },
+        {
+          "id": "g07-w42",
+          "w": "名作",
+          "r": "めいさく",
+          "hv": "DANH TÁC",
+          "pos": "名",
+          "vi": "tác phẩm nổi tiếng, danh tác",
+          "key": true,
+          "ex": {
+            "ja": "{子|こ}どもの{頃|ころ}に{読|よ}んだ{名作|めいさく}を、{大人|おとな}になってもう{一度|いちど}{読|よ}み{返|かえ}した。",
+            "vi": "Tôi đọc lại danh tác đã đọc hồi nhỏ khi đã trưởng thành."
+          },
+          "col": [
+            "名作が生まれる",
+            "不朽の名作（kiệt tác bất hủ）"
+          ]
+        },
+        {
+          "id": "g07-w43",
+          "w": "傑作",
+          "r": "けっさく",
+          "hv": "KIỆT TÁC",
+          "pos": "名・な形",
+          "vi": "kiệt tác; (khẩu ngữ) buồn cười, độc đáo",
+          "key": true,
+          "senses": [
+            {
+              "vi": "kiệt tác, tác phẩm xuất sắc nhất",
+              "ex": {
+                "ja": "この{絵|え}は{彼|かれ}の{晩年|ばんねん}の{傑作|けっさく}とされている。",
+                "vi": "Bức tranh này được xem là kiệt tác thời cuối đời của ông."
+              }
+            },
+            {
+              "vi": "(khẩu ngữ) buồn cười, “hết chỗ nói”",
+              "ex": {
+                "ja": "{社長|しゃちょう}の{言|い}い{訳|わけ}は{傑作|けっさく}だったね。",
+                "vi": "Lời bào chữa của giám đốc đúng là buồn cười hết chỗ nói."
+              }
+            }
+          ],
+          "note": "名作 = tác phẩm **nổi tiếng**, được nhiều người biết. 傑作 = tác phẩm **xuất sắc nhất** (về chất lượng), nhất là trong số tác phẩm của một người."
+        },
+        {
+          "id": "g07-w44",
+          "w": "印象的",
+          "r": "いんしょうてき",
+          "hv": "ẤN TƯỢNG ĐÍCH",
+          "pos": "な形",
+          "vi": "ấn tượng, gây ấn tượng mạnh",
+          "key": true,
+          "ex": {
+            "ja": "{主人公|しゅじんこう}が{母親|ははおや}と{再会|さいかい}する{場面|ばめん}が{特|とく}に{印象的|いんしょうてき}だった。",
+            "vi": "Cảnh nhân vật chính gặp lại mẹ đặc biệt ấn tượng."
+          },
+          "note": "Không nói 「印象な」. Có thể nói 「印象に残る」「印象が強い」."
+        },
+        {
+          "id": "g07-w45",
+          "w": "名場面",
+          "r": "めいばめん",
+          "hv": "DANH TRƯỜNG DIỆN",
+          "pos": "名",
+          "vi": "cảnh nổi tiếng, cảnh đáng nhớ",
+          "key": true,
+          "ex": {
+            "ja": "{番組|ばんぐみ}では、{昔|むかし}のドラマの{名場面|めいばめん}が{次々|つぎつぎ}に{紹介|しょうかい}された。",
+            "vi": "Chương trình lần lượt giới thiệu những cảnh kinh điển của các bộ phim truyền hình xưa."
+          }
+        },
+        {
+          "id": "g07-w46",
+          "w": "未発表",
+          "r": "みはっぴょう",
+          "hv": "VỊ PHÁT BIỂU",
+          "pos": "名",
+          "vi": "chưa công bố, chưa ra mắt",
+          "key": true,
+          "ex": {
+            "ja": "{亡|な}くなった{歌手|かしゅ}の{未発表|みはっぴょう}の{曲|きょく}が、CDになって{発売|はつばい}された。",
+            "vi": "Bài hát chưa từng công bố của ca sĩ quá cố đã được phát hành thành CD."
+          }
+        },
+        {
+          "id": "g07-w47",
+          "w": "随筆",
+          "r": "ずいひつ",
+          "hv": "TÙY BÚT",
+          "pos": "名",
+          "vi": "tùy bút, tản văn",
+          "key": true,
+          "ex": {
+            "ja": "{彼|かれ}の{随筆|ずいひつ}には、{日々|ひび}の{暮|く}らしの{小|ちい}さな{発見|はっけん}が{書|か}かれている。",
+            "vi": "Tùy bút của ông viết về những phát hiện nhỏ trong cuộc sống thường ngày."
+          },
+          "rel": "≒ エッセイ",
+          "note": "Văn viết tự do theo cảm nghĩ (khác 小説 = hư cấu, 評論 = phân tích, phê bình)."
+        },
+        {
+          "id": "g07-w48",
+          "w": "粗筋",
+          "r": "あらすじ",
+          "hv": "THÔ CÂN",
+          "pos": "名",
+          "vi": "tóm tắt nội dung, cốt truyện (đại ý)",
+          "key": true,
+          "ex": {
+            "ja": "{映画|えいが}を{見|み}る{前|まえ}に、ネットで{粗筋|あらすじ}だけ{確認|かくにん}した。",
+            "vi": "Trước khi xem phim, tôi chỉ xem qua tóm tắt nội dung trên mạng."
+          },
+          "col": [
+            "粗筋を説明する",
+            "粗筋を話す"
+          ],
+          "note": "Thường viết bằng hiragana あらすじ. 粗 = sơ sài, 筋 = mạch truyện → “mạch truyện vắn tắt”."
+        },
+        {
+          "id": "g07-w49",
+          "w": "文芸",
+          "r": "ぶんげい",
+          "hv": "VĂN NGHỆ",
+          "pos": "名",
+          "vi": "văn chương, văn học nghệ thuật",
+          "key": false,
+          "ex": {
+            "ja": "{大学|だいがく}では{文芸|ぶんげい}サークルに{入|はい}って、{小説|しょうせつ}を{書|か}いていた。",
+            "vi": "Hồi đại học tôi tham gia câu lạc bộ văn chương và viết tiểu thuyết."
+          },
+          "note": "Khác “văn nghệ” (ca múa nhạc) trong tiếng Việt: 文芸 chủ yếu là **văn học** (tiểu thuyết, thơ, tùy bút)."
+        },
+        {
+          "id": "g07-w50",
+          "w": "文芸作品",
+          "r": "ぶんげいさくひん",
+          "hv": "VĂN NGHỆ TÁC PHẨM",
+          "pos": "名",
+          "vi": "tác phẩm văn học",
+          "key": true,
+          "ex": {
+            "ja": "この{雑誌|ざっし}は{毎月|まいつき}{新人|しんじん}の{文芸作品|ぶんげいさくひん}を{紹介|しょうかい}している。",
+            "vi": "Tạp chí này mỗi tháng giới thiệu tác phẩm văn học của cây bút mới."
+          }
+        },
+        {
+          "id": "g07-w51",
+          "w": "解説",
+          "r": "かいせつ",
+          "hv": "GIẢI THUYẾT",
+          "pos": "名・他動",
+          "vi": "giải thích, bình giảng, bình luận (cho người khác hiểu)",
+          "key": true,
+          "ex": {
+            "ja": "{専門家|せんもんか}がニュースの{背景|はいけい}を{分|わ}かりやすく{解説|かいせつ}した。",
+            "vi": "Chuyên gia đã giải thích bối cảnh của tin tức một cách dễ hiểu."
+          },
+          "col": [
+            "解説者",
+            "解説書",
+            "作品を解説する"
+          ],
+          "note": "解説: giải thích nội dung, ý nghĩa cho người nghe/đọc. 解決 = giải quyết; 解答 = lời giải đáp án."
+        }
+      ]
+    },
+    {
+      "title": "文芸 ― 書籍",
+      "title_vi": "Văn chương: sách",
+      "words": [
+        {
+          "id": "g07-w52",
+          "w": "書籍",
+          "r": "しょせき",
+          "hv": "THƯ TỊCH",
+          "pos": "名",
+          "vi": "sách, ấn phẩm (cách nói trang trọng)",
+          "key": true,
+          "ex": {
+            "ja": "{最近|さいきん}は{紙|かみ}の{本|ほん}より{電子|でんし}{書籍|しょせき}で{読|よ}む{人|ひと}が{増|ふ}えている。",
+            "vi": "Gần đây số người đọc sách điện tử nhiều hơn sách giấy."
+          },
+          "col": [
+            "電子書籍",
+            "書籍売り場"
+          ]
+        },
+        {
+          "id": "g07-w53",
+          "w": "目次",
+          "r": "もくじ",
+          "hv": "MỤC THỨ",
+          "pos": "名",
+          "vi": "mục lục",
+          "key": true,
+          "ex": {
+            "ja": "{目次|もくじ}を{見|み}れば、この{本|ほん}の{全体|ぜんたい}の{流|なが}れが{分|わ}かる。",
+            "vi": "Nhìn mục lục là biết được mạch tổng thể của cuốn sách."
+          }
+        },
+        {
+          "id": "g07-w54",
+          "w": "索引",
+          "r": "さくいん",
+          "hv": "SÁCH DẪN",
+          "pos": "名",
+          "vi": "bảng tra cứu (index, cuối sách)",
+          "key": true,
+          "ex": {
+            "ja": "{知|し}りたい{言葉|ことば}は、{巻末|かんまつ}の{索引|さくいん}から{探|さが}すと{早|はや}い。",
+            "vi": "Từ cần tìm thì tra ở bảng tra cuối sách sẽ nhanh."
+          },
+          "note": "目次 ở **đầu** sách, theo thứ tự chương; 索引 ở **cuối** sách, theo thứ tự あいうえお."
+        },
+        {
+          "id": "g07-w55",
+          "w": "評論",
+          "r": "ひょうろん",
+          "hv": "BÌNH LUẬN",
+          "pos": "名・他動",
+          "vi": "bình luận, phê bình (bài viết phân tích, đánh giá)",
+          "key": true,
+          "ex": {
+            "ja": "{彼|かれ}は{映画|えいが}{評論|ひょうろん}の{分野|ぶんや}で{名|な}の{知|し}られた{人物|じんぶつ}だ。",
+            "vi": "Ông ấy là người có tiếng trong lĩnh vực phê bình điện ảnh."
+          },
+          "col": [
+            "評論家",
+            "評論を執筆する",
+            "文芸評論"
+          ]
+        },
+        {
+          "id": "g07-w56",
+          "w": "執筆",
+          "r": "しっぴつ",
+          "hv": "CHẤP BÚT",
+          "pos": "名・他動",
+          "vi": "viết, chấp bút (sách, bài báo)",
+          "key": true,
+          "ex": {
+            "ja": "{先生|せんせい}は{現在|げんざい}、{来年|らいねん}{出版|しゅっぱん}する{本|ほん}を{執筆|しっぴつ}中だ。",
+            "vi": "Thầy hiện đang viết cuốn sách sẽ xuất bản vào năm sau."
+          },
+          "col": [
+            "執筆者",
+            "原稿を執筆する"
+          ],
+          "rel": "≒ 書く",
+          "note": "Chỉ dùng cho việc viết **tác phẩm, bài viết** để công bố; không dùng cho viết thư, ghi chép."
+        }
+      ]
+    },
+    {
+      "title": "その他 ― 演劇・芝居",
+      "title_vi": "Khác: sân khấu, kịch",
+      "words": [
+        {
+          "id": "g07-w57",
+          "w": "演劇",
+          "r": "えんげき",
+          "hv": "DIỄN KỊCH",
+          "pos": "名",
+          "vi": "kịch, nghệ thuật sân khấu",
+          "key": true,
+          "ex": {
+            "ja": "{高校|こうこう}{時代|じだい}は{演劇|えんげき}{部|ぶ}で{主役|しゅやく}を{務|つと}めた。",
+            "vi": "Thời cấp 3 tôi đóng vai chính trong câu lạc bộ kịch."
+          }
+        },
+        {
+          "id": "g07-w58",
+          "w": "芝居",
+          "r": "しばい",
+          "hv": "CHI CƯ",
+          "pos": "名・自動",
+          "vi": "vở kịch; sự giả vờ, đóng kịch",
+          "key": true,
+          "senses": [
+            {
+              "vi": "vở kịch, buổi diễn kịch",
+              "ex": {
+                "ja": "{週末|しゅうまつ}は{母|はは}と{芝居|しばい}を{見|み}に{行|い}く{予定|よてい}だ。",
+                "vi": "Cuối tuần tôi định đi xem kịch với mẹ."
+              }
+            },
+            {
+              "vi": "giả vờ, diễn kịch (để lừa)",
+              "ex": {
+                "ja": "{泣|な}いていたのは{芝居|しばい}で、{本当|ほんとう}は{全然|ぜんぜん}{悲|かな}しくなかったらしい。",
+                "vi": "Nghe nói khóc lóc chỉ là đóng kịch, thật ra chẳng buồn chút nào."
+              }
+            }
+          ],
+          "col": [
+            "芝居をする",
+            "芝居を見る",
+            "芝居がかった（điệu bộ, kịch cỡm）"
+          ],
+          "note": "Đừng nhầm với **芝生**（しばふ）= bãi cỏ."
+        },
+        {
+          "id": "g07-w59",
+          "w": "〜役",
+          "r": "〜やく",
+          "hv": "DỊCH",
+          "pos": "名・接尾",
+          "vi": "vai (diễn); vai trò",
+          "key": true,
+          "ex": {
+            "ja": "{彼女|かのじょ}は{今度|こんど}のドラマで{医者|いしゃ}の{役|やく}を{演|えん}じる。",
+            "vi": "Cô ấy sẽ đóng vai bác sĩ trong bộ phim sắp tới."
+          },
+          "col": [
+            "主役",
+            "悪役",
+            "〜役を演じる",
+            "まとめ役（người điều phối）"
+          ]
+        },
+        {
+          "id": "g07-w60",
+          "w": "役者",
+          "r": "やくしゃ",
+          "hv": "DỊCH GIẢ",
+          "pos": "名",
+          "vi": "diễn viên (nhất là kịch sân khấu)",
+          "key": true,
+          "ex": {
+            "ja": "あの{役者|やくしゃ}は{声|こえ}だけで{観客|かんきゃく}を{泣|な}かせることができる。",
+            "vi": "Diễn viên đó chỉ bằng giọng nói cũng có thể làm khán giả khóc."
+          },
+          "rel": "≒ 俳優",
+          "note": "HV “dịch giả” nhưng **không phải** người dịch (người dịch = 翻訳者・訳者)."
+        },
+        {
+          "id": "g07-w61",
+          "w": "演技",
+          "r": "えんぎ",
+          "hv": "DIỄN KỸ",
+          "pos": "名・自動",
+          "vi": "diễn xuất; phần trình diễn (thể dục dụng cụ, trượt băng)",
+          "key": true,
+          "ex": {
+            "ja": "{子役|こやく}とは{思|おも}えないほど、{自然|しぜん}な{演技|えんぎ}だった。",
+            "vi": "Diễn xuất tự nhiên đến mức không nghĩ là diễn viên nhí."
+          },
+          "col": [
+            "演技がうまい",
+            "演技力"
+          ],
+          "note": "Cũng dùng như 芝居 (2): 「あの{涙|なみだ}は{演技|えんぎ}だ」 = nước mắt đó là diễn."
+        },
+        {
+          "id": "g07-w62",
+          "w": "劇場",
+          "r": "げきじょう",
+          "hv": "KỊCH TRƯỜNG",
+          "pos": "名",
+          "vi": "nhà hát",
+          "key": true,
+          "ex": {
+            "ja": "{駅前|えきまえ}に{新|あたら}しい{劇場|げきじょう}ができて、{町|まち}がにぎやかになった。",
+            "vi": "Trước ga có nhà hát mới nên khu phố trở nên náo nhiệt."
+          }
+        },
+        {
+          "id": "g07-w63",
+          "w": "客席",
+          "r": "きゃくせき",
+          "hv": "KHÁCH TỊCH",
+          "pos": "名",
+          "vi": "hàng ghế khán giả",
+          "key": true,
+          "ex": {
+            "ja": "{演奏|えんそう}が{終|お}わると、{客席|きゃくせき}から{大|おお}きな{拍手|はくしゅ}が{起|お}こった。",
+            "vi": "Khi buổi biểu diễn kết thúc, từ hàng ghế khán giả vang lên tràng pháo tay lớn."
+          }
+        },
+        {
+          "id": "g07-w64",
+          "w": "満員",
+          "r": "まんいん",
+          "hv": "MÃN VIÊN",
+          "pos": "名",
+          "vi": "chật kín người, hết chỗ",
+          "key": true,
+          "ex": {
+            "ja": "{朝|あさ}の{満員|まんいん}{電車|でんしゃ}には、もう{慣|な}れた。",
+            "vi": "Tôi đã quen với tàu chật cứng người buổi sáng rồi."
+          },
+          "col": [
+            "満員電車",
+            "満員御礼（cảm ơn vì đã kín chỗ）"
+          ],
+          "rel": "≒ 満席（hết ghế）",
+          "note": "Dùng 「満員だ」「満員になる」, không nói 「満員する」."
+        },
+        {
+          "id": "g07-w65",
+          "w": "舞台",
+          "r": "ぶたい",
+          "hv": "VŨ ĐÀI",
+          "pos": "名",
+          "vi": "sân khấu; bối cảnh (câu chuyện), vũ đài",
+          "key": true,
+          "senses": [
+            {
+              "vi": "sân khấu",
+              "ex": {
+                "ja": "{初|はつ}{舞台|ぶたい}の{日|ひ}は{緊張|きんちょう}で{足|あし}が{震|ふる}えた。",
+                "vi": "Hôm lần đầu lên sân khấu, chân tôi run vì hồi hộp."
+              }
+            },
+            {
+              "vi": "bối cảnh (nơi câu chuyện diễn ra); vũ đài",
+              "ex": {
+                "ja": "この{小説|しょうせつ}は{明治|めいじ}{時代|じだい}の{長崎|ながさき}が{舞台|ぶたい}だ。",
+                "vi": "Cuốn tiểu thuyết này lấy bối cảnh Nagasaki thời Minh Trị."
+              }
+            }
+          ],
+          "col": [
+            "舞台に立つ",
+            "世界の舞台で活躍する"
+          ],
+          "rel": "≒ ステージ"
+        },
+        {
+          "id": "g07-w66",
+          "w": "ステージ",
+          "r": "すてーじ",
+          "hv": "",
+          "pos": "名",
+          "vi": "sân khấu (stage)",
+          "key": true,
+          "ex": {
+            "ja": "ライブの{最後|さいご}に、メンバー{全員|ぜんいん}がステージに{並|なら}んだ。",
+            "vi": "Cuối buổi live, tất cả thành viên xếp hàng trên sân khấu."
+          },
+          "rel": "≒ 舞台"
+        },
+        {
+          "id": "g07-w67",
+          "w": "幕",
+          "r": "まく",
+          "hv": "MẠC",
+          "pos": "名",
+          "vi": "màn (sân khấu); hồi (kịch)",
+          "key": true,
+          "ex": {
+            "ja": "{幕|まく}が{上|あ}がると、{会場|かいじょう}は{一瞬|いっしゅん}で{静|しず}かになった。",
+            "vi": "Màn vừa kéo lên, hội trường lập tức im phăng phắc."
+          },
+          "col": [
+            "幕が上がる・開く（bắt đầu）",
+            "幕が下りる・閉じる（kết thúc）",
+            "第一幕"
+          ],
+          "note": "Dùng ẩn dụ cho sự kiện: 「{大会|たいかい}の{幕|まく}が{開|あ}いた」 = giải đấu đã khai mạc."
+        },
+        {
+          "id": "g07-w68",
+          "w": "セリフ",
+          "r": "せりふ",
+          "hv": "",
+          "pos": "名",
+          "vi": "lời thoại; câu nói (của ai đó)",
+          "key": true,
+          "ex": {
+            "ja": "{本番|ほんばん}で{緊張|きんちょう}して、セリフを{一つ|ひとつ}{忘|わす}れてしまった。",
+            "vi": "Lúc diễn thật vì hồi hộp nên tôi quên mất một câu thoại."
+          },
+          "col": [
+            "セリフを覚える",
+            "決めゼリフ（câu thoại đặc trưng）"
+          ],
+          "note": "Kanji: 台詞. Trong đời thường: 「それはこっちのセリフだ」 = câu đó phải để tôi nói mới đúng."
+        }
+      ]
+    },
+    {
+      "title": "その他 ― 音楽・手芸",
+      "title_vi": "Khác: âm nhạc, thủ công",
+      "words": [
+        {
+          "id": "g07-w69",
+          "w": "曲",
+          "r": "きょく",
+          "hv": "KHÚC",
+          "pos": "名",
+          "vi": "bản nhạc, ca khúc",
+          "key": true,
+          "ex": {
+            "ja": "この{曲|きょく}を{聞|き}くと、{学生|がくせい}{時代|じだい}を{思|おも}い{出|だ}す。",
+            "vi": "Nghe bản nhạc này là tôi nhớ lại thời sinh viên."
+          }
+        },
+        {
+          "id": "g07-w70",
+          "w": "演奏",
+          "r": "えんそう",
+          "hv": "DIỄN TẤU",
+          "pos": "名・他動",
+          "vi": "biểu diễn (nhạc cụ), trình tấu",
+          "key": true,
+          "ex": {
+            "ja": "{彼|かれ}はバイオリンで{有名|ゆうめい}な{曲|きょく}を{演奏|えんそう}した。",
+            "vi": "Anh ấy đã trình tấu một bản nhạc nổi tiếng bằng violin."
+          },
+          "col": [
+            "演奏会",
+            "曲を演奏する",
+            "生演奏"
+          ],
+          "note": "演奏 = chơi **nhạc cụ**. Hát → 歌う; diễn kịch → 演じる; nói chung trình diễn → 公演・上演."
+        },
+        {
+          "id": "g07-w71",
+          "w": "裁縫",
+          "r": "さいほう",
+          "hv": "TÀI PHÙNG",
+          "pos": "名",
+          "vi": "may vá",
+          "key": true,
+          "ex": {
+            "ja": "{祖母|そぼ}は{裁縫|さいほう}が{得意|とくい}で、{孫|まご}の{服|ふく}を{全部|ぜんぶ}{手作|てづく}りしている。",
+            "vi": "Bà tôi khéo may vá, tự tay may toàn bộ quần áo cho cháu."
+          },
+          "col": [
+            "裁縫道具",
+            "裁縫箱"
+          ]
+        },
+        {
+          "id": "g07-w72",
+          "w": "編み物",
+          "r": "あみもの",
+          "hv": "BIÊN VẬT",
+          "pos": "名",
+          "vi": "đan len, đồ đan",
+          "key": true,
+          "ex": {
+            "ja": "{冬|ふゆ}になると、{編|あ}み{物|もの}をしながらテレビを{見|み}るのが{楽|たの}しみだ。",
+            "vi": "Đến mùa đông, vừa đan len vừa xem tivi là niềm vui của tôi."
+          },
+          "col": [
+            "セーターを編む"
+          ]
+        },
+        {
+          "id": "g07-w73",
+          "w": "工芸",
+          "r": "こうげい",
+          "hv": "CÔNG NGHỆ",
+          "pos": "名",
+          "vi": "thủ công mỹ nghệ",
+          "key": true,
+          "ex": {
+            "ja": "{漆器|しっき}は{日本|にほん}を{代表|だいひょう}する{伝統|でんとう}{工芸|こうげい}の{一つ|ひとつ}だ。",
+            "vi": "Đồ sơn mài là một trong những nghề thủ công truyền thống tiêu biểu của Nhật."
+          },
+          "col": [
+            "伝統工芸",
+            "工芸品"
+          ],
+          "note": "HV “công nghệ” nhưng **không phải** công nghệ kỹ thuật (= 技術・テクノロジー). 芸 = nghệ (nghệ thuật)."
+        },
+        {
+          "id": "g07-w74",
+          "w": "人形",
+          "r": "にんぎょう",
+          "hv": "NHÂN HÌNH",
+          "pos": "名",
+          "vi": "búp bê, con rối",
+          "ex": {
+            "ja": "{娘|むすめ}は{毎晩|まいばん}お{気|き}に{入|い}りの{人形|にんぎょう}と{一緒|いっしょ}に{寝|ね}る。",
+            "vi": "Con gái tôi tối nào cũng ngủ cùng con búp bê yêu thích."
+          }
+        },
+        {
+          "id": "g07-w75",
+          "w": "綿",
+          "r": "わた",
+          "hv": "MIÊN",
+          "pos": "名",
+          "vi": "bông (để nhồi, độn)",
+          "key": true,
+          "ex": {
+            "ja": "{古|ふる}いクッションに{新|あたら}しい{綿|わた}を{入|い}れ{直|なお}した。",
+            "vi": "Tôi nhồi lại bông mới vào chiếc gối tựa cũ."
+          },
+          "note": "Đọc **わた** khi là bông nhồi/bông gòn; đọc **めん** khi là chất liệu vải cotton: 綿100%（めんひゃくパーセント）."
+        },
+        {
+          "id": "g07-w76",
+          "w": "詰める",
+          "r": "つめる",
+          "hv": "CẬT",
+          "pos": "他動",
+          "vi": "nhồi, nhét đầy; dồn, xích lại (chỗ ngồi)",
+          "key": true,
+          "senses": [
+            {
+              "vi": "nhồi, nhét, đóng (vào hộp, túi)",
+              "ex": {
+                "ja": "{母|はは}は{毎朝|まいあさ}{弁当|べんとう}{箱|ばこ}におかずを{詰|つ}めてくれる。",
+                "vi": "Mỗi sáng mẹ xếp thức ăn vào hộp cơm cho tôi."
+              }
+            },
+            {
+              "vi": "dồn lại, xích lại (thu hẹp khoảng trống)",
+              "ex": {
+                "ja": "すみません、もう{少|すこ}し{奥|おく}へ{詰|つ}めていただけますか。",
+                "vi": "Xin lỗi, anh có thể xích vào trong thêm một chút được không?"
+              }
+            }
+          ],
+          "col": [
+            "綿を詰める",
+            "箱に詰める",
+            "席を詰める",
+            "息を詰める（nín thở）"
+          ],
+          "note": "Tự động từ: **詰まる** (bị tắc, bị nghẹt): 「{鼻|はな}が{詰|つ}まる」. Chú ý: 詰める là **tha động từ** — người làm đầy một vật chứa (箱に荷物を詰める). Nói đám đông chật kín thì dùng 「{混|こ}んでいる」「ぎっしり{乗|の}っている」, không dùng ✗ {電車|でんしゃ}に{人|ひと}が{詰|つ}めている. Điền thông tin vào giấy là 「{記入|きにゅう}する」「{書|か}き{入|い}れる」, không phải 詰める."
+        },
+        {
+          "id": "g07-w77",
+          "w": "削る",
+          "r": "けずる",
+          "hv": "TƯỚC",
+          "pos": "他動",
+          "vi": "gọt, bào; cắt giảm, xóa bớt",
+          "key": true,
+          "senses": [
+            {
+              "vi": "gọt, bào (bằng dao, máy)",
+              "ex": {
+                "ja": "{鉛筆|えんぴつ}をナイフで{削|けず}るのは、{意外|いがい}と{難|むずか}しい。",
+                "vi": "Gọt bút chì bằng dao khó hơn mình tưởng."
+              }
+            },
+            {
+              "vi": "cắt giảm (chi phí, thời gian); xóa bớt (câu chữ)",
+              "ex": {
+                "ja": "{予算|よさん}が{足|た}りないので、{広告|こうこく}{費|ひ}を{削|けず}ることになった。",
+                "vi": "Vì thiếu ngân sách nên quyết định cắt giảm chi phí quảng cáo."
+              }
+            }
+          ],
+          "col": [
+            "木を削る",
+            "鉛筆を削る",
+            "費用を削る",
+            "睡眠時間を削る"
+          ]
+        },
+        {
+          "id": "g07-w78",
+          "w": "彫る",
+          "r": "ほる",
+          "hv": "ĐIÊU",
+          "pos": "他動",
+          "vi": "khắc, chạm, tạc",
+          "key": true,
+          "ex": {
+            "ja": "{指輪|ゆびわ}の{内側|うちがわ}に{二人|ふたり}の{名前|なまえ}を{彫|ほ}ってもらった。",
+            "vi": "Tôi nhờ khắc tên hai đứa vào mặt trong chiếc nhẫn."
+          },
+          "col": [
+            "木を彫る",
+            "仏像を彫る",
+            "彫刻（ちょうこく）"
+          ],
+          "note": "Đồng âm: **掘る**（ほる）= đào (穴を掘る, 芋を掘る). 彫 có 彡 (nét hoa văn) → khắc; 掘 có 扌 (tay) + 屈 → đào bới."
+        }
+      ]
+    },
+    {
+      "title": "語形成",
+      "title_vi": "Cấu tạo từ: tiền tố, hậu tố",
+      "words": [
+        {
+          "id": "g07-w79",
+          "w": "〜訳",
+          "r": "〜やく",
+          "hv": "DỊCH",
+          "pos": "接尾",
+          "vi": "bản dịch (sang …)",
+          "key": false,
+          "ex": {
+            "ja": "この{絵本|えほん}は{英訳|えいやく}も{出版|しゅっぱん}されている。",
+            "vi": "Cuốn sách tranh này cũng có bản dịch tiếng Anh được xuất bản."
+          },
+          "col": [
+            "現代語訳",
+            "日本語訳",
+            "英訳",
+            "翻訳",
+            "通訳"
+          ]
+        },
+        {
+          "id": "g07-w80",
+          "w": "日本語訳",
+          "r": "にほんごやく",
+          "hv": "NHẬT BẢN NGỮ DỊCH",
+          "pos": "名",
+          "vi": "bản dịch tiếng Nhật",
+          "key": false,
+          "ex": {
+            "ja": "{契約書|けいやくしょ}には{日本語訳|にほんごやく}が{付|つ}いていなかった。",
+            "vi": "Bản hợp đồng không kèm bản dịch tiếng Nhật."
+          }
+        },
+        {
+          "id": "g07-w81",
+          "w": "〜的",
+          "r": "〜てき",
+          "hv": "ĐÍCH",
+          "pos": "接尾",
+          "vi": "mang tính …, có vẻ … (biến danh từ thành tính từ đuôi な)",
+          "key": false,
+          "ex": {
+            "ja": "{彼|かれ}の{考|かんが}え{方|かた}は{現実的|げんじつてき}で、{分|わ}かりやすい。",
+            "vi": "Cách suy nghĩ của anh ấy thực tế và dễ hiểu."
+          },
+          "col": [
+            "印象的",
+            "古典的",
+            "伝統的",
+            "具体的",
+            "積極的"
+          ]
+        },
+        {
+          "id": "g07-w82",
+          "w": "古典的",
+          "r": "こてんてき",
+          "hv": "CỔ ĐIỂN ĐÍCH",
+          "pos": "な形",
+          "vi": "cổ điển, kiểu xưa (theo lối truyền thống)",
+          "key": true,
+          "ex": {
+            "ja": "それは{簡単|かんたん}だが、{今|いま}でもよく{使|つか}われる{古典的|こてんてき}な{手口|てぐち}の{詐欺|さぎ}だ。",
+            "vi": "Đó là kiểu lừa đảo cổ điển, đơn giản nhưng đến giờ vẫn hay được dùng."
+          }
+        },
+        {
+          "id": "g07-w83",
+          "w": "名〜",
+          "r": "めい〜",
+          "hv": "DANH",
+          "pos": "接頭",
+          "vi": "nổi tiếng, xuất sắc, hay",
+          "key": true,
+          "ex": {
+            "ja": "{彼|かれ}は{若|わか}い{頃|ころ}から{名選手|めいせんしゅ}として{知|し}られていた。",
+            "vi": "Ông ấy từ trẻ đã nổi tiếng là một cầu thủ xuất sắc."
+          },
+          "col": [
+            "名作",
+            "名場面",
+            "名勝負",
+            "名曲",
+            "名所",
+            "名人"
+          ]
+        },
+        {
+          "id": "g07-w84",
+          "w": "名勝負",
+          "r": "めいしょうぶ",
+          "hv": "DANH THẮNG PHỤ",
+          "pos": "名",
+          "vi": "trận đấu hay, trận đấu để đời",
+          "key": true,
+          "ex": {
+            "ja": "{二人|ふたり}の{対戦|たいせん}は、テニスの{歴史|れきし}に{残|のこ}る{名勝負|めいしょうぶ}だった。",
+            "vi": "Cuộc đối đầu của hai người là một trận đấu để đời trong lịch sử quần vợt."
+          }
+        },
+        {
+          "id": "g07-w85",
+          "w": "名曲",
+          "r": "めいきょく",
+          "hv": "DANH KHÚC",
+          "pos": "名",
+          "vi": "bản nhạc nổi tiếng, ca khúc bất hủ",
+          "key": true,
+          "ex": {
+            "ja": "{何十年|なんじゅうねん}{経|た}っても{歌|うた}われ{続|つづ}けるのが{名曲|めいきょく}だ。",
+            "vi": "Ca khúc bất hủ là bài hát dù mấy chục năm vẫn được hát mãi."
+          }
+        },
+        {
+          "id": "g07-w86",
+          "w": "未〜",
+          "r": "み〜",
+          "hv": "VỊ",
+          "pos": "接頭",
+          "vi": "chưa … (việc đáng lẽ sẽ xảy ra nhưng chưa xảy ra)",
+          "key": false,
+          "ex": {
+            "ja": "{未成年|みせいねん}にお{酒|さけ}を{売|う}ることは{法律|ほうりつ}で{禁止|きんし}されている。",
+            "vi": "Bán rượu cho người chưa thành niên bị pháp luật cấm."
+          },
+          "col": [
+            "未発表",
+            "未完成",
+            "未成年",
+            "未経験",
+            "未解決",
+            "未定"
+          ]
+        },
+        {
+          "id": "g07-w87",
+          "w": "未完成",
+          "r": "みかんせい",
+          "hv": "VỊ HOÀN THÀNH",
+          "pos": "名・な形",
+          "vi": "chưa hoàn thành, dang dở",
+          "key": true,
+          "ex": {
+            "ja": "{新|あたら}しい{駅|えき}ビルはまだ{未完成|みかんせい}だが、{一部|いちぶ}の{店|みせ}は{営業|えいぎょう}を{始|はじ}めた。",
+            "vi": "Tòa nhà ga mới vẫn chưa hoàn thành nhưng một số cửa hàng đã bắt đầu kinh doanh."
+          }
+        }
+      ]
+    },
+    {
+      "title": "例文の副詞",
+      "title_vi": "Phó từ trong câu ví dụ",
+      "words": [
+        {
+          "id": "g07-w88",
+          "w": "ひょっとすると",
+          "r": "ひょっとすると",
+          "hv": "",
+          "pos": "副",
+          "vi": "biết đâu, không chừng, có khi",
+          "key": true,
+          "ex": {
+            "ja": "ひょっとすると、{彼|かれ}はもう{全部|ぜんぶ}{知|し}っているのかもしれない。",
+            "vi": "Không chừng anh ấy đã biết hết mọi chuyện rồi."
+          },
+          "rel": "≒ もしかすると・もしかしたら",
+          "note": "Gần như luôn đi với **〜かもしれない** ở cuối câu. Diễn tả khả năng thấp nhưng có thể xảy ra."
+        },
+        {
+          "id": "g07-w89",
+          "w": "わずか",
+          "r": "わずか",
+          "hv": "",
+          "pos": "副・な形",
+          "vi": "chỉ, vỏn vẹn; một chút ít",
+          "key": true,
+          "ex": {
+            "ja": "{発売|はつばい}からわずか{一時間|いちじかん}で、チケットは{売|う}り{切|き}れた。",
+            "vi": "Chỉ vỏn vẹn một tiếng sau khi mở bán, vé đã hết sạch."
+          },
+          "col": [
+            "わずかな差",
+            "わずかに〜",
+            "残りわずか"
+          ],
+          "rel": "≒ たった・ほんの",
+          "note": "Nhấn mạnh số lượng/thời gian **rất ít**. Kanji: 僅か (thường viết hiragana)."
+        },
+        {
+          "id": "g07-w90",
+          "w": "まさに",
+          "r": "まさに",
+          "hv": "",
+          "pos": "副",
+          "vi": "chính là, đúng là; (今まさに) đúng lúc sắp",
+          "key": true,
+          "senses": [
+            {
+              "vi": "chính là, quả đúng là",
+              "ex": {
+                "ja": "この{景色|けしき}は、まさに{絵|え}のような{美|うつく}しさだ。",
+                "vi": "Phong cảnh này đúng là đẹp như tranh."
+              }
+            },
+            {
+              "vi": "今まさに〜ところ: đúng lúc sắp / đang …",
+              "ex": {
+                "ja": "{飛行機|ひこうき}は{今|いま}まさに{離陸|りりく}しようとしている。",
+                "vi": "Máy bay đúng lúc này đang chuẩn bị cất cánh."
+              }
+            }
+          ],
+          "rel": "≒ 確かに・ちょうど"
+        },
+        {
+          "id": "g07-w91",
+          "w": "実に",
+          "r": "じつに",
+          "hv": "THỰC",
+          "pos": "副",
+          "vi": "thật là, thực sự (nhấn mạnh cảm xúc, văn viết)",
+          "key": true,
+          "ex": {
+            "ja": "{十年|じゅうねん}ぶりに{会|あ}った{友人|ゆうじん}と{話|はな}すのは、{実|じつ}に{楽|たの}しかった。",
+            "vi": "Nói chuyện với người bạn sau 10 năm gặp lại thật sự rất vui."
+          },
+          "rel": "≒ 本当に・非常に",
+          "note": "Trang trọng hơn 本当に; thường đứng trước tính từ chỉ cảm xúc/đánh giá."
+        }
+      ]
+    }
+  ],
+  "focus": [
+    {
+      "title": "作家・著者・筆者 — ba kiểu “người viết”",
+      "body": "Cả ba đều dịch là “tác giả”, nhưng đề N2 rất hay bắt phân biệt:\n\n- **作家**（さっか）: **nghề nghiệp** — người viết văn chuyên nghiệp. 「{将来|しょうらい}は{作家|さっか}になりたい」.\n- **著者**（ちょしゃ）: tác giả **của một cuốn sách cụ thể**. 「この{本|ほん}の{著者|ちょしゃ}」. Không ai “mơ làm 著者”.\n- **筆者**（ひっしゃ）: người viết **bài văn / bài báo đang được nói đến**. Gặp liên tục trong đề đọc hiểu: 「{筆者|ひっしゃ}の{考|かんが}え」.\n\n- **作者**（さくしゃ）: người **làm ra một tác phẩm cụ thể** (truyện, tranh, bài hát): 「この{絵|え}の{作者|さくしゃ}」. Cũng không dùng cho ước mơ nghề nghiệp: ✗ {作者|さくしゃ}になりたい → ○ {作家|さっか}になりたい.\n\nMẹo: 作家 = nghề; 作者 = gắn với **một tác phẩm**; 著者 = gắn với **sách**; 筆者 = gắn với **bài viết**. Cùng họ: 読者 (độc giả), 編集者 (biên tập viên), 訳者 (người dịch)."
+    },
+    {
+      "title": "Từ đồng âm khác chữ — “bẫy” của dạng bài viết kanji",
+      "body": "Chương này có nhiều cặp **đọc giống hệt nhau**. Phải nhìn **nghĩa trong câu** để chọn chữ:\n\n- **攻める** (tấn công đối thủ) ／ **責める** (trách móc người có lỗi)\n- **敗れる** (thua trận) ／ **破れる** (bị rách: {紙|かみ}が{破|やぶ}れる)\n- **彫る** (khắc, tạc) ／ **掘る** (đào: {穴|あな}を{掘|ほ}る)\n- **賞品** (phần thưởng hiện vật) ／ **商品** (hàng hóa)\n- **味方** (phe mình) ／ **見方** (cách nhìn)\n\nMẹo theo bộ thủ: 攻 = 攵 (đánh), 責 = 貝 (tiền nợ → trách nhiệm); 彫 = 彡 (hoa văn), 掘 = 扌 (tay đào); 賞 = 貝 (của cải ban thưởng)."
+    },
+    {
+      "title": "破る vs 敗れる — ai thắng, ai thua?",
+      "body": "Hai từ cùng đọc gần giống (やぶる／やぶれる) nhưng **ngược nghĩa nhau** trong thi đấu:\n\n- **A が B を破る** = A **đánh bại** B (A thắng). Tha động từ, trợ từ **を**.\n- **A が B に敗れる** = A **bị B đánh bại** (A thua). Tự động từ, trợ từ **に**.\n\nVí dụ cùng một trận: 「{日本|にほん}がブラジルを{破|やぶ}った」 = 「ブラジルが{日本|にほん}に{敗|やぶ}れた」.\n\nMẹo nhìn trợ từ: thấy **〜を** → 破る (thắng); thấy **〜に** → 敗れる (thua). Cặp tương tự: 攻める↔守る, 敵↔味方, 勝つ↔負ける.\n\nĐừng quên 破る còn: 記録を破る (phá kỷ lục), 約束を破る (thất hứa) — đều có nghĩa “phá vỡ cái đang tồn tại”."
+    },
+    {
+      "title": "勝敗 vs 勝負 vs 引き分け",
+      "body": "- **勝敗**: **kết quả** thắng/thua. Đi với 決まる, 分ける: 「{勝敗|しょうはい}を{分|わ}けたのは{一本|いっぽん}のシュートだった」 (Thứ phân định thắng bại là một cú sút).\n- **勝負**: **cuộc so tài** (quá trình đấu), có thể làm động từ 勝負する: 「{正々堂々|せいせいどうどう}と{勝負|しょうぶ}しよう」 (Hãy đấu một cách đường đường chính chính). Còn có 勝負がつく (phân định xong), いい勝負 (trận ngang tài), 名勝負.\n- **引き分け**: kết quả **hòa**: 「{引|ひ}き{分|わ}けに{終|お}わる」.\n\nMẹo: 勝敗 = “kết quả”, 勝負 = “trận đấu”. Không nói 「勝敗する」, nhưng nói được 「勝負する」."
+    },
+    {
+      "title": "Tiền tố 名〜・未〜 và hậu tố 〜的・〜訳",
+      "body": "**名〜**（めい）= nổi tiếng / xuất sắc: 名作, 名場面, 名勝負, 名曲, 名所, 名人, 名物.\n\n**未〜**（み）= **chưa** (sau này có thể sẽ có): 未発表, 未完成, 未成年, 未経験, 未解決, 未定.\nĐừng nhầm với các tiền tố phủ định khác:\n- **不〜** = không (tính chất xấu): 不便, 不安, 不足\n- **非〜** = phi, không phải: 非常識, 非公式\n- **無〜** = không có: 無料, 無責任, 無意味\nMẹo: 未 = “**chưa**” (thời gian), các chữ kia = “không”. 未成年 là “chưa đến tuổi trưởng thành” — rồi sẽ đến.\n\n**〜的**（てき）: biến danh từ thành tính từ な: 印象的な場面, 古典的な方法. Không có 「印象な」.\n\n**〜訳**（やく）: bản dịch: 現代語訳, 日本語訳, 英訳 (えいやく). Nhớ phân biệt 通訳 (phiên dịch nói) và 翻訳 (dịch viết)."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "g07-q1",
+      "kind": "read",
+      "ref": "g07-w61",
+      "q": "あの{俳優|はいゆう}は[[u:演技]]がとても{自然|しぜん}で、{本当|ほんとう}にその{人物|じんぶつ}に{見|み}える。",
+      "options": [
+        "えんき",
+        "えんぎ",
+        "えんじ",
+        "いんぎ"
+      ],
+      "answer": 1,
+      "vi": "Diễn xuất của diễn viên đó rất tự nhiên, trông như đúng là nhân vật ấy.",
+      "why": "演 = えん, 技 = ぎ (như 技術 ぎじゅつ) → **えんぎ**. 「えんき」 là 延期 (hoãn lại); 「えんじ」 là 園児 (trẻ mẫu giáo); 「いんぎ」 không phải từ có nghĩa."
+    },
+    {
+      "id": "g07-q2",
+      "kind": "write",
+      "ref": "g07-w56",
+      "q": "{先生|せんせい}は{今|いま}、{新|あたら}しい{教科書|きょうかしょ}を[[u:しっぴつ]]している。",
+      "options": [
+        "執筆",
+        "実筆",
+        "執書",
+        "質筆"
+      ],
+      "answer": 0,
+      "vi": "Thầy hiện đang viết một cuốn sách giáo khoa mới.",
+      "why": "しっぴつ = **執筆** (chấp bút: cầm bút viết). 「実筆」「質筆」 dùng sai chữ しつ (実 = thật, 質 = chất); 「執書」 sai chữ ひつ — 書 đọc là しょ."
+    },
+    {
+      "id": "g07-q3",
+      "kind": "context",
+      "ref": "g07-w30",
+      "q": "{決勝戦|けっしょうせん}は{最後|さいご}までどちらも{点|てん}が{入|はい}らず、0{対|たい}0の（　　）に{終|お}わった。",
+      "options": [
+        "勝敗",
+        "違反",
+        "引退",
+        "引き分け"
+      ],
+      "answer": 3,
+      "vi": "Trận chung kết đến cuối cùng hai bên đều không ghi được bàn, kết thúc với tỉ số hòa 0–0.",
+      "why": "0–0, không ai thắng → **引き分け** (hòa), cụm cố định 引き分けに終わる. 「勝敗」 là kết quả thắng thua, không “kết thúc với 勝敗”; 「違反」 = vi phạm; 「引退」 = giải nghệ."
+    },
+    {
+      "id": "g07-q4",
+      "kind": "context",
+      "ref": "g07-w29",
+      "q": "{日本|にほん}チームは{準決勝|じゅんけっしょう}で{強豪|きょうごう}ブラジルに（　　）、{決勝|けっしょう}{進出|しんしゅつ}を{逃|のが}した。",
+      "options": [
+        "破って",
+        "攻めて",
+        "敗れて",
+        "守って"
+      ],
+      "answer": 2,
+      "vi": "Đội Nhật thua đội mạnh Brazil ở bán kết và lỡ cơ hội vào chung kết.",
+      "why": "「ブラジル**に**」 + mất vé chung kết → bị thua → **敗れて**. 「破って」 cần を (ブラジルを破って) và nghĩa là thắng, mâu thuẫn với 逃した; 「攻めて」「守って」 đều đi với を và không giải thích việc bị loại."
+    },
+    {
+      "id": "g07-q5",
+      "kind": "paraphrase",
+      "ref": "g07-w48",
+      "q": "この{映画|えいが}の[[u:粗筋]]を{教|おし}えてくれない？",
+      "options": [
+        "監督の名前",
+        "大体の内容",
+        "一番いい場面",
+        "作られた時代"
+      ],
+      "answer": 1,
+      "vi": "Kể cho mình nghe tóm tắt nội dung bộ phim này được không?",
+      "why": "粗筋 (あらすじ) = câu chuyện tóm gọn → **大体の内容**. 「一番いい場面」 là 名場面; 「監督の名前」「作られた時代」 không liên quan đến nghĩa của từ."
+    },
+    {
+      "id": "g07-q6",
+      "kind": "formation",
+      "ref": "g07-w86",
+      "q": "（　　）{成年|せいねん}の{飲酒|いんしゅ}は{法律|ほうりつ}で{禁止|きんし}されている。",
+      "options": [
+        "不",
+        "非",
+        "未",
+        "無"
+      ],
+      "answer": 2,
+      "vi": "Việc uống rượu của người chưa thành niên bị pháp luật cấm.",
+      "why": "“Chưa đến tuổi trưởng thành” → **未成年**. 「不」 (không, tính chất xấu: 不便), 「非」 (phi: 非常識), 「無」 (không có: 無料) đều không ghép với 成年."
+    },
+    {
+      "id": "g07-q7",
+      "kind": "usage",
+      "ref": "g07-w77",
+      "q": "{削|けず}る",
+      "options": [
+        "予算が足りないので、旅行の費用を少し削ることにした。",
+        "髪が伸びたので、美容院で短く削ってもらった。",
+        "書き間違えた字を消しゴムで削った。",
+        "りんごの皮を削ってから、子どもに食べさせた。"
+      ],
+      "answer": 0,
+      "vi": "(1) Vì thiếu ngân sách nên tôi quyết định cắt bớt một ít chi phí chuyến đi.",
+      "why": "(1) 費用を削る = cắt giảm chi phí → đúng. (2) tóc thì 切る (cắt); (3) chữ viết sai thì 消す (xóa); (4) vỏ táo thì むく (gọt vỏ). 削る là gọt, bào **bề mặt vật cứng** (gỗ, bút chì) hoặc cắt giảm số lượng."
+    },
+    {
+      "id": "g07-q8",
+      "kind": "paraphrase",
+      "ref": "g07-w89",
+      "q": "{駅|えき}から{会場|かいじょう}までは[[u:わずか]]5{分|ふん}だ。",
+      "options": [
+        "およそ",
+        "たった",
+        "ちょうど",
+        "少なくとも"
+      ],
+      "answer": 1,
+      "vi": "Từ ga đến hội trường chỉ vỏn vẹn 5 phút.",
+      "why": "わずか + số lượng = “chỉ có”, nhấn mạnh **ít** → **たった**. 「およそ」 = khoảng chừng; 「ちょうど」 = vừa đúng; 「少なくとも」 = ít nhất — không có sắc thái “ít ỏi”."
+    },
+    {
+      "id": "g07-q9",
+      "kind": "context",
+      "ref": "g07-w18",
+      "q": "スタンドの{観客|かんきゃく}は{声|こえ}を{合|あ}わせて{地元|じもと}のチームを（　　）した。",
+      "options": [
+        "応援",
+        "指導",
+        "活躍",
+        "上達"
+      ],
+      "answer": 0,
+      "vi": "Khán giả trên khán đài đồng thanh cổ vũ đội nhà.",
+      "why": "Khán giả hò reo cho đội → **応援**. 「指導」 là việc của HLV, thầy giáo; 「活躍」 là tự động từ (チームが活躍する), không có を; 「上達」 cũng là tự động từ chỉ kỹ năng tiến bộ."
+    }
+  ],
+  "practice": [
+    {
+      "id": "g07-p1",
+      "kind": "read",
+      "ref": "g07-w43",
+      "q": "この{絵|え}は、{彼|かれ}が{残|のこ}した{作品|さくひん}の{中|なか}でも{最高|さいこう}の[[u:傑作]]だと{言|い}われている。",
+      "options": [
+        "けっさく",
+        "けつさく",
+        "げっさく",
+        "けっさ"
+      ],
+      "answer": 0,
+      "vi": "Bức tranh này được cho là kiệt tác xuất sắc nhất trong số tác phẩm ông để lại.",
+      "why": "傑 (けつ) + 作 (さく) → âm つ biến thành âm ngắt っ: **けっさく**. 「けつさく」 thiếu biến âm; 「げっさく」 sai âm đục; 「けっさ」 thiếu く."
+    },
+    {
+      "id": "g07-p2",
+      "kind": "read",
+      "ref": "g07-w54",
+      "q": "{分|わ}からない{用語|ようご}は、{巻末|かんまつ}の[[u:索引]]で{調|しら}べてください。",
+      "options": [
+        "さくびき",
+        "そくいん",
+        "さっいん",
+        "さくいん"
+      ],
+      "answer": 3,
+      "vi": "Thuật ngữ nào không hiểu thì hãy tra ở bảng tra cuối sách.",
+      "why": "索 (さく) + 引 (いん) → **さくいん**. 「さくびき」 nhầm với cách đọc 引く (ひく); 「そくいん」 sai âm 索; 「さっいん」 không có biến âm っ trước nguyên âm い."
+    },
+    {
+      "id": "g07-p3",
+      "kind": "write",
+      "ref": "g07-w29",
+      "q": "{前回|ぜんかい}の{優勝|ゆうしょう}チームが、まさかの{一回戦|いっかいせん}で[[u:やぶれた]]。",
+      "options": [
+        "破れた",
+        "敗れた",
+        "負れた",
+        "壊れた"
+      ],
+      "answer": 1,
+      "vi": "Đội vô địch mùa trước đã bất ngờ thua ngay ở vòng một.",
+      "why": "Thua trong thi đấu → **敗れた**. 「破れた」 = bị rách (紙が破れた); 「負れた」 không tồn tại (負ける đọc まける); 「壊れた」 đọc こわれた = bị hỏng."
+    },
+    {
+      "id": "g07-p4",
+      "kind": "write",
+      "ref": "g07-w23",
+      "q": "{後半|こうはん}に{入|はい}ると、{相手|あいて}チームがずっと[[u:せめて]]いた。",
+      "options": [
+        "責めて",
+        "迫めて",
+        "戦めて",
+        "攻めて"
+      ],
+      "answer": 3,
+      "vi": "Sang hiệp hai, đội đối phương liên tục tấn công.",
+      "why": "Tấn công trong thi đấu → **攻めて**. 「責めて」 cũng đọc せめて nhưng là trách móc người có lỗi; 「迫めて」「戦めて」 không phải cách viết đúng (迫る＝せまる, 戦う＝たたかう)."
+    },
+    {
+      "id": "g07-p5",
+      "kind": "context",
+      "ref": "g07-w36",
+      "q": "この{本|ほん}の（　　）は、{元|もと}プロ{野球|やきゅう}{選手|せんしゅ}だそうだ。",
+      "options": [
+        "著者",
+        "読者",
+        "役者",
+        "観客"
+      ],
+      "answer": 0,
+      "vi": "Nghe nói tác giả cuốn sách này là cựu cầu thủ bóng chày chuyên nghiệp.",
+      "why": "Người viết **cuốn sách cụ thể** → **著者**. 「読者」 là người đọc; 「役者」 là diễn viên; 「観客」 là khán giả — đều không phải người viết sách."
+    },
+    {
+      "id": "g07-p6",
+      "kind": "context",
+      "ref": "g07-w64",
+      "q": "{人気|にんき}{歌手|かしゅ}のコンサートとあって、{会場|かいじょう}は{開演|かいえん}{前|まえ}から（　　）だった。",
+      "options": [
+        "満点",
+        "満員",
+        "満期",
+        "満足"
+      ],
+      "answer": 1,
+      "vi": "Vì là buổi hòa nhạc của ca sĩ nổi tiếng nên hội trường đã chật kín người từ trước giờ diễn.",
+      "why": "Hội trường đầy người → **満員**. 「満点」 = điểm tuyệt đối; 「満期」 = đáo hạn (bảo hiểm, tiền gửi); 「満足」 = hài lòng, chủ ngữ phải là người."
+    },
+    {
+      "id": "g07-p7",
+      "kind": "context",
+      "ref": "g07-w8",
+      "q": "{毎日|まいにち}{練習|れんしゅう}したおかげで、ピアノがずいぶん（　　）した。",
+      "options": [
+        "上昇",
+        "発達",
+        "向上",
+        "上達"
+      ],
+      "answer": 3,
+      "vi": "Nhờ ngày nào cũng tập nên tôi chơi piano tiến bộ hẳn.",
+      "why": "Kỹ năng của người (piano, ngoại ngữ) khá lên → **上達**. 「上昇」 = (nhiệt độ, giá) tăng; 「発達」 = (cơ thể, công nghệ, áp thấp) phát triển; 「向上」 đi với 能力・技術・品質 (技術が向上する), không nói 「ピアノが向上する」."
+    },
+    {
+      "id": "g07-p8",
+      "kind": "paraphrase",
+      "ref": "g07-w47",
+      "q": "{彼女|かのじょ}は{小説|しょうせつ}だけでなく、[[u:随筆]]もたくさん{書|か}いている。",
+      "options": [
+        "評論",
+        "詩",
+        "日記",
+        "エッセイ"
+      ],
+      "answer": 3,
+      "vi": "Cô ấy không chỉ viết tiểu thuyết mà còn viết rất nhiều tùy bút.",
+      "why": "随筆 = văn viết tự do theo cảm nghĩ → **エッセイ**. 「評論」 = bài phê bình, phân tích; 「詩」 = thơ; 「日記」 = nhật ký (viết cho bản thân, không phải thể loại văn chương xuất bản)."
+    },
+    {
+      "id": "g07-p9",
+      "kind": "paraphrase",
+      "ref": "g07-w88",
+      "q": "[[u:ひょっとすると]]、{明日|あした}の{試合|しあい}は{中止|ちゅうし}になるかもしれない。",
+      "options": [
+        "必ず",
+        "やっと",
+        "もしかしたら",
+        "きっと"
+      ],
+      "answer": 2,
+      "vi": "Không chừng trận đấu ngày mai sẽ bị hủy.",
+      "why": "ひょっとすると = khả năng thấp, đi với かもしれない → **もしかしたら**. 「必ず」「きっと」 là chắc chắn (mâu thuẫn với かもしれない); 「やっと」 = cuối cùng thì."
+    },
+    {
+      "id": "g07-p10",
+      "kind": "formation",
+      "ref": "g07-w81",
+      "q": "{町|まち}の{伝統|でんとう}（　　）な{祭|まつ}りを、{次|つぎ}の{世代|せだい}に{伝|つた}えたい。",
+      "options": [
+        "性",
+        "化",
+        "的",
+        "式"
+      ],
+      "answer": 2,
+      "vi": "Tôi muốn truyền lại lễ hội truyền thống của thị trấn cho thế hệ sau.",
+      "why": "Sau chỗ trống là 「な」 → cần hậu tố tạo tính từ な → **伝統的な**. 「性」「化」「式」 tạo danh từ (伝統性, 〜化, 〜式), không đi trực tiếp với な."
+    },
+    {
+      "id": "g07-p11",
+      "kind": "usage",
+      "ref": "g07-w58",
+      "q": "{芝居|しばい}",
+      "options": [
+        "天気がいいので、公園の芝居の上でお弁当を食べた。",
+        "毎朝、軽い芝居をしてから会社に行く。",
+        "彼は泣いているように見えたが、あれは芝居だったらしい。",
+        "友人のピアノの芝居を聞きに行った。"
+      ],
+      "answer": 2,
+      "vi": "(3) Anh ta trông như đang khóc, nhưng nghe nói đó chỉ là đóng kịch.",
+      "why": "(3) 芝居 = sự giả vờ → đúng. (1) bãi cỏ là **芝生**（しばふ）; (2) vận động buổi sáng là 体操・運動; (4) chơi đàn là **演奏**."
+    },
+    {
+      "id": "g07-p12",
+      "kind": "usage",
+      "ref": "g07-w13",
+      "q": "{活躍|かつやく}",
+      "options": [
+        "兄は毎朝、公園で一時間ほど活躍している。",
+        "この大学の卒業生の多くが、海外で活躍している。",
+        "その火山は百年ぶりに再び活躍し始めた。",
+        "この薬は飲むとすぐに活躍するので便利だ。"
+      ],
+      "answer": 1,
+      "vi": "(2) Nhiều cựu sinh viên của trường đại học này đang hoạt động tích cực, thành công ở nước ngoài.",
+      "why": "(2) 活躍 = làm việc nổi bật, có thành tích → đúng. (1) tập thể dục là 運動; (3) núi lửa dùng **活動** (hoạt động, trung tính); (4) thuốc có tác dụng là **効く**."
+    },
+    {
+      "id": "g07-p13",
+      "kind": "context",
+      "ref": "g07-w76",
+      "q": "{後|あと}から{来|き}た{方|かた}も{座|すわ}れるように、{少|すこ}し{席|せき}を（　　）いただけますか。",
+      "options": [
+        "締めて",
+        "閉めて",
+        "詰めて",
+        "止めて"
+      ],
+      "answer": 2,
+      "vi": "Anh có thể xích lại một chút để người đến sau cũng ngồi được không?",
+      "why": "Thu hẹp khoảng trống giữa các chỗ ngồi → **席を詰める**. 「締める」 = thắt, siết (ベルトを締める); 「閉める」 = đóng (ドアを閉める); 「止める」 = dừng lại."
+    },
+    {
+      "id": "g07-p14",
+      "kind": "read",
+      "ref": "g07-w65",
+      "q": "{夏休|なつやす}みに、{好|す}きな{小説|しょうせつ}の[[u:舞台]]となった{町|まち}を{訪|たず}ねた。",
+      "options": [
+        "ぶだい",
+        "ぶたい",
+        "まいだい",
+        "むたい"
+      ],
+      "answer": 1,
+      "vi": "Kỳ nghỉ hè tôi đã đến thăm thị trấn là bối cảnh của cuốn tiểu thuyết mình yêu thích.",
+      "why": "舞 (ぶ) + 台 (たい) → **ぶたい** (台 ở đây không đục). 「ぶだい」 sai âm đục; 「まいだい」 lấy âm 舞う (まう); 「むたい」 sai âm 舞. Lưu ý nghĩa 舞台 ở đây là **bối cảnh câu chuyện**."
+    }
+  ],
+  "test": [
+    {
+      "id": "g07-t1",
+      "kind": "read",
+      "ref": "g07-w4",
+      "q": "{新|あたら}しい[[u:監督]]が{来|き}てから、チームはなかなか{負|ま}けなくなった。",
+      "options": [
+        "かんとく",
+        "かんどく",
+        "けんとく",
+        "かんとう"
+      ],
+      "answer": 0,
+      "vi": "Từ khi có HLV trưởng mới, đội bóng hầu như không còn thua.",
+      "why": "監 (かん) + 督 (とく) → **かんとく**. 「かんどく」 sai âm đục; 「けんとく」 sai âm 監; 「かんとう」 là 関東 (vùng Kanto)."
+    },
+    {
+      "id": "g07-t2",
+      "kind": "read",
+      "ref": "g07-w63",
+      "q": "{幕|まく}が{下|お}りると、[[u:客席]]から{大|おお}きな{拍手|はくしゅ}が{起|お}こった。",
+      "options": [
+        "かくせき",
+        "きゃくざ",
+        "きゃくせき",
+        "きゃっせき"
+      ],
+      "answer": 2,
+      "vi": "Khi màn hạ xuống, từ hàng ghế khán giả vang lên tràng pháo tay lớn.",
+      "why": "客 (きゃく) + 席 (せき) → **きゃくせき**. 「かくせき」 dùng âm かく (như 旅客 りょかく) — không dùng ở đây; 「きゃくざ」 đọc 席 sai; 「きゃっせき」 không có biến âm っ."
+    },
+    {
+      "id": "g07-t3",
+      "kind": "write",
+      "ref": "g07-w78",
+      "q": "{木|き}を[[u:ほって]]、{小|ちい}さな{仏像|ぶつぞう}を{作|つく}った。",
+      "options": [
+        "掘って",
+        "刻って",
+        "削って",
+        "彫って"
+      ],
+      "answer": 3,
+      "vi": "Tôi khắc gỗ làm một bức tượng Phật nhỏ.",
+      "why": "Khắc, tạc gỗ → **彫って**. 「掘って」 cũng đọc ほって nhưng là đào (đất, hố); 「刻って」 không phải cách viết (刻む＝きざむ); 「削って」 đọc けずって = gọt, bào."
+    },
+    {
+      "id": "g07-t4",
+      "kind": "write",
+      "ref": "g07-w31",
+      "q": "{大会|たいかい}で{優勝|ゆうしょう}した{人|ひと}には、[[u:しょうひん]]として{自転車|じてんしゃ}が{贈|おく}られる。",
+      "options": [
+        "商品",
+        "賞品",
+        "償品",
+        "章品"
+      ],
+      "answer": 1,
+      "vi": "Người vô địch giải đấu sẽ được tặng một chiếc xe đạp làm phần thưởng.",
+      "why": "Phần thưởng hiện vật → **賞品**. 「商品」 cùng đọc しょうひん nhưng là hàng hóa để bán; 「償品」「章品」 không phải từ (償 = bồi thường, 章 = chương)."
+    },
+    {
+      "id": "g07-t5",
+      "kind": "context",
+      "ref": "g07-w51",
+      "q": "{試合|しあい}の{中継|ちゅうけい}では、{元|もと}{選手|せんしゅ}が{一|ひと}つ{一|ひと}つのプレーを{分|わ}かりやすく（　　）してくれる。",
+      "options": [
+        "解説",
+        "解決",
+        "解答",
+        "分解"
+      ],
+      "answer": 0,
+      "vi": "Trong chương trình tường thuật trận đấu, cựu cầu thủ giải thích từng pha bóng một cách dễ hiểu.",
+      "why": "Giải thích cho người xem hiểu → **解説**. 「解決」 = giải quyết vấn đề; 「解答」 = trả lời câu hỏi, đáp án; 「分解」 = tháo rời (máy móc)."
+    },
+    {
+      "id": "g07-t6",
+      "kind": "context",
+      "ref": "g07-w15",
+      "q": "{試合|しあい}{中|ちゅう}は、{審判|しんぱん}の{判定|はんてい}に{必|かなら}ず（　　）なければならない。",
+      "options": [
+        "守ら",
+        "従わ",
+        "違反し",
+        "攻め"
+      ],
+      "answer": 1,
+      "vi": "Trong trận đấu, nhất định phải tuân theo phán quyết của trọng tài.",
+      "why": "「判定**に**」 + tuân theo → **従わ**なければならない. 「守る」 đi với を (ルールを守る); 「違反し」 nghĩa ngược lại (vi phạm) và không hợp với 必ず〜なければならない; 「攻め」 cũng cần を."
+    },
+    {
+      "id": "g07-t7",
+      "kind": "context",
+      "ref": "g07-w21",
+      "q": "{長年|ながねん}チームを{支|ささ}えてきたベテラン{選手|せんしゅ}が、{今|こん}シーズン{限|かぎ}りでの（　　）を{発表|はっぴょう}した。",
+      "options": [
+        "退場",
+        "退院",
+        "撤退",
+        "引退"
+      ],
+      "answer": 3,
+      "vi": "Cầu thủ kỳ cựu gắn bó với đội nhiều năm đã tuyên bố giải nghệ sau mùa giải này.",
+      "why": "Rời bỏ sự nghiệp thi đấu → **引退**. 「退場」 = rời sân (bị đuổi, hết lượt); 「退院」 = ra viện; 「撤退」 = rút lui (quân đội, doanh nghiệp rút khỏi thị trường)."
+    },
+    {
+      "id": "g07-t8",
+      "kind": "paraphrase",
+      "ref": "g07-w91",
+      "q": "この{小説|しょうせつ}は[[u:実に]]よくできている。",
+      "options": [
+        "意外に",
+        "わりと",
+        "本当に",
+        "一応"
+      ],
+      "answer": 2,
+      "vi": "Cuốn tiểu thuyết này được viết thật sự rất hay.",
+      "why": "実に = nhấn mạnh “thật sự” → **本当に**. 「意外に」 = không ngờ; 「わりと」 = tương đối (giảm mức độ); 「一応」 = tạm gọi là."
+    },
+    {
+      "id": "g07-t9",
+      "kind": "paraphrase",
+      "ref": "g07-w12",
+      "q": "{張|は}り{切|き}って{準備|じゅんび}した{計画|けいかく}は、[[u:見事に]]{失敗|しっぱい}した。",
+      "options": [
+        "少しだけ",
+        "完全に",
+        "思ったとおり",
+        "ゆっくりと"
+      ],
+      "answer": 1,
+      "vi": "Kế hoạch được chuẩn bị đầy hăng hái đã thất bại hoàn toàn.",
+      "why": "見事に + kết quả xấu = cách nói mỉa mai “hoàn toàn, triệt để” → **完全に**. 「少しだけ」 ngược nghĩa; 「思ったとおり」 = đúng như dự đoán (không có trong câu); 「ゆっくりと」 không liên quan."
+    },
+    {
+      "id": "g07-t10",
+      "kind": "usage",
+      "ref": "g07-w24",
+      "q": "{味方|みかた}",
+      "options": [
+        "彼はものの味方が普通の人と少し違う。",
+        "この料理は味方が薄くて、物足りない。",
+        "困ったときは、家族が必ず味方になってくれる。",
+        "試合で味方に負けて、とても悔しかった。"
+      ],
+      "answer": 2,
+      "vi": "(3) Khi gặp khó khăn, gia đình nhất định sẽ đứng về phía tôi.",
+      "why": "(3) 味方になる = đứng về phía mình → đúng. (1) cách nhìn là **見方**; (2) vị món ăn là **味**（味が薄い）; (4) thua thì thua **敵 / 相手**, không thua “phe mình”."
+    },
+    {
+      "id": "g07-t11",
+      "kind": "usage",
+      "ref": "g07-w18",
+      "q": "{応援|おうえん}",
+      "options": [
+        "毎晩、母の料理を応援している。",
+        "彼の夢を家族みんなで応援している。",
+        "先生の質問に大きな声で応援した。",
+        "道に迷った観光客を駅まで応援してあげた。"
+      ],
+      "answer": 1,
+      "vi": "(2) Cả gia đình đều ủng hộ ước mơ của anh ấy.",
+      "why": "(2) 夢を応援する = ủng hộ ước mơ → đúng. (1) phụ nấu ăn là **手伝う**; (3) trả lời câu hỏi là **答える・返事する**; (4) chỉ đường cho khách là **案内する**."
+    },
+    {
+      "id": "g07-t12",
+      "kind": "formation",
+      "ref": "g07-w83",
+      "q": "この{映画|えいが}の（　　）{場面|ばめん}だけを{集|あつ}めた{動画|どうが}が、ネットで{人気|にんき}だ。",
+      "options": [
+        "高",
+        "良",
+        "上",
+        "名"
+      ],
+      "answer": 3,
+      "vi": "Video tổng hợp những cảnh kinh điển của bộ phim này đang được ưa chuộng trên mạng.",
+      "why": "Cảnh nổi tiếng, đáng nhớ → **名場面**（めいばめん）. 「高」「良」「上」 không ghép với 場面 thành từ (không có 高場面, 良場面, 上場面)."
+    }
+  ]
+}

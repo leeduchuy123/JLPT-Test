@@ -1,0 +1,664 @@
+{
+  "id": "b10",
+  "track": "bunpo",
+  "intro": "Bài này là các cách **liệt kê nâng cao** — anh em của 「〜や〜など」「〜とか〜とか」 đã học ở N4–N3. Mỗi mẫu liệt kê với **một mục đích khác nhau**, và nhìn vế sau là đoán được mẫu nào:\n\n- **〜やら〜やら**: liệt kê **nhiều thứ lộn xộn**, \"nào là… nào là…\", thường để than **bận rộn, vất vả** hoặc tả **cảm xúc lẫn lộn**. Vế sau hay là 〜で大変だ・いろいろだ・〜気持ちだ.\n- **〜というか〜というか**: **cùng một sự vật**, người nói thử hai cách diễn đạt mà chưa chọn được cách nào đúng nhất: \"nói là A cũng được, B cũng được\". Vế sau hay có **とにかく**.\n- **〜にしても〜にしても・〜にしろ〜にしろ・〜にせよ〜にせよ**: đưa ra hai trường hợp, \"**dù là A hay B thì cũng…**\". Vế sau là **nhận định / lời khuyên** của người nói, áp dụng cho cả hai.\n- **〜といった**: nêu vài **ví dụ tiêu biểu** rồi gom lại bằng một **danh từ** chung: 「地震や台風といった災害」.\n\nĐiểm then chốt: đề N2 thường đưa cả 4 mẫu vào cùng một câu hỏi (dạng 2 chỗ trống). Hãy hỏi: (1) hai thứ được nêu là **khác nhau** hay **cùng một thứ**? (2) vế sau là **than vãn / mô tả**, **nhận định chung**, hay là **danh từ**?",
+  "points": [
+    {
+      "id": "b10-1",
+      "pattern": "〜やら〜やら",
+      "reading": "〜やら〜やら",
+      "meaning": "Nào là… nào là… (nhiều thứ lẫn lộn, thường vất vả / cảm xúc lẫn lộn)",
+      "structure": [
+        "N ＋ やら ＋ N ＋ やら",
+        "V辞書形 ＋ やら ＋ V辞書形 ＋ やら",
+        "い形 ＋ やら ＋ い形 ＋ やら",
+        "〜やら〜やらで ＋ 大変だ／忙しい…"
+      ],
+      "explain": "「やら」 vốn mang sắc thái **không rõ ràng** (何やら = cái gì đó). 「AやらBやら」 = \"**nào là A, nào là B**, rồi còn đủ thứ nữa\" — nhiều thứ dồn dập, **chưa được sắp xếp gọn gàng**, người nói không kể hết ra được.\n\nHình dung căn phòng bừa bộn: sách vở, quần áo, túi nilon vứt khắp nơi. Khi tả cảnh đó, bạn sẽ nói 「{本|ほん}やら{服|ふく}やらが{散|ち}らかっている」.\n\nHai cách dùng chính:\n- **Liệt kê sự việc / đồ vật** → nhấn mạnh \"nhiều quá, vất vả quá\": 「{掃除|そうじ}やら{洗濯|せんたく}やらで{休|やす}む{暇|ひま}がない」. Dạng 「〜やら〜やらで」 (で = vì) rất hay gặp.\n- **Liệt kê cảm xúc** (い形 / động từ chỉ cảm xúc) → nhiều cảm xúc **lẫn lộn cùng lúc**: 「うれしいやら{恥|は}ずかしいやら」 (vừa vui vừa ngượng).",
+      "nuance": "Mang tính **chủ quan, văn nói đến văn viết nhẹ**. Thường dùng cho chuyện **vất vả, phiền phức** hoặc cảm xúc rối bời; không hợp với liệt kê trung tính, trang trọng (thông báo, kính ngữ) — khi đó dùng 「〜や〜など」.",
+      "examples": [
+        {
+          "ja": "{年末|ねんまつ}は{大掃除|おおそうじ}やら{年賀状|ねんがじょう}{書|か}きやらで、{毎年|まいとし}{慌|あわ}ただしい。",
+          "vi": "Cuối năm nào là tổng vệ sinh, nào là viết thiệp chúc Tết, năm nào cũng tất bật.",
+          "note": "N やら N やらで + bận rộn"
+        },
+        {
+          "ja": "{部屋|へや}の{床|ゆか}には、{雑誌|ざっし}やら{脱|ぬ}いだ{服|ふく}やらが{散|ち}らばっている。",
+          "vi": "Trên sàn phòng, nào tạp chí nào quần áo cởi ra vứt lung tung.",
+          "note": "Tả cảnh bừa bộn"
+        },
+        {
+          "ja": "{満員|まんいん}{電車|でんしゃ}の{中|なか}は{暑|あつ}いやら{苦|くる}しいやらで、{降|お}りたときにはくたくただった。",
+          "vi": "Trong tàu chật cứng vừa nóng vừa ngột ngạt, lúc xuống tàu thì tôi mệt rã rời.",
+          "note": "い形 + やら"
+        },
+        {
+          "ja": "{久|ひさ}しぶりに{孫|まご}が{訪|たず}ねてきて、{祖父|そふ}は{驚|おどろ}くやら{喜|よろこ}ぶやら、{大騒|おおさわ}ぎだった。",
+          "vi": "Lâu lắm cháu mới đến thăm, ông tôi vừa ngạc nhiên vừa mừng rỡ, cuống cả lên.",
+          "note": "V辞書形 + やら · cảm xúc lẫn lộn"
+        },
+        {
+          "ja": "{初|はじ}めてのスピーチで{社長|しゃちょう}の{名前|なまえ}を{間違|まちが}えてしまい、{恥|は}ずかしいやら{申|もう}し{訳|わけ}ないやらで、{顔|かお}が{上|あ}げられなかった。",
+          "vi": "Lần đầu phát biểu mà gọi nhầm tên giám đốc, tôi vừa xấu hổ vừa áy náy, không dám ngẩng mặt lên.",
+          "note": "Cảm xúc tiêu cực lẫn lộn"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜や〜など",
+          "diff": "「や〜など」: liệt kê **trung tính**, gọn gàng, dùng được trong văn trang trọng. 「やら〜やら」: liệt kê **chủ quan**, nhấn \"nhiều quá, lộn xộn, vất vả\"."
+        },
+        {
+          "with": "〜とか〜とか",
+          "diff": "「とか〜とか」: văn nói, nêu ví dụ, dùng được cả cho **gợi ý / lời khuyên** (「{運動|うんどう}するとか{早|はや}く{寝|ね}るとかしたら？」). 「やら〜やら」 không dùng để khuyên, mà để **than / tả** tình trạng."
+        },
+        {
+          "with": "〜というか〜というか",
+          "diff": "「やら」: **nhiều thứ khác nhau** cùng tồn tại (vừa vui vừa buồn — hai cảm xúc). 「というか」: **một thứ**, hai cách gọi tên (thận trọng hay nhút nhát — một tính cách)."
+        }
+      ],
+      "mistakes": [
+        "✗ {明日|あした}の{会議|かいぎ}には、{社長|しゃちょう}やら{部長|ぶちょう}やらがご{出席|しゅっせき}になります。→ ○ 社長や部長などが… (thông báo trang trọng, trung tính)",
+        "✗ {疲|つか}れたときは、{温泉|おんせん}に{行|い}くやら{早|はや}く{寝|ね}るやらしなさい。→ ○ 温泉に行くとか早く寝るとか… (lời khuyên dùng とか)"
+      ],
+      "tip": "Vế sau là 「〜で大変だ／忙しい／くたくただ／いろいろだ」 hoặc tả **cảm xúc lẫn lộn** → 「やら〜やら」. Dạng hai chỗ trống mà sau chỗ trống thứ hai có 「で」 → gần như chắc chắn là 「やら」."
+    },
+    {
+      "id": "b10-2",
+      "pattern": "〜というか〜というか",
+      "reading": "〜というか〜というか",
+      "meaning": "Nói là… cũng được, mà… cũng được (hai cách diễn tả cùng một thứ)",
+      "structure": [
+        "普通形 ＋ というか ＋ 普通形 ＋ というか",
+        "な形 (bỏ だ)／N (bỏ だ) ＋ というか",
+        "〜というか〜というか、とにかく〜"
+      ],
+      "explain": "Người nói đang **đứng trước một thứ duy nhất** (một người, một món ăn, một cảm giác) và **lục tìm từ** để tả nó: \"nói là A thì cũng đúng, mà nói là B thì cũng đúng\". Không chọn được từ nào hoàn hảo nên đưa ra cả hai.\n\nVí dụ: một người dám nghỉ việc để đi vòng quanh thế giới — 「{大胆|だいたん}というか{無謀|むぼう}というか」 (gọi là gan dạ cũng được, liều lĩnh cũng được). Cả hai từ đều chỉ **cùng một hành động**, nhìn từ hai góc.\n\n- Hai từ thường **gần nghĩa** hoặc là **hai mặt** của một tính chất (真面目 ↔ 堅い, 個性的 ↔ 変わっている).\n- Vế sau rất hay có **とにかく** (dù sao thì…) để chốt lại ấn tượng chung.\n- Dùng để nói **ấn tượng, đánh giá chủ quan**, không dùng cho sự thật khách quan.",
+      "nuance": "Văn nói là chính, mang sắc thái **ngập ngừng, chọn lời** — hay dùng để nói khéo một nhận xét hơi tiêu cực (「{個性的|こせいてき}というか…」 = nói giảm). Với な形 và danh từ thì **bỏ だ**: 「{静|しず}かというか」, không nói 「静かだというか」 trong dạng chuẩn.",
+      "examples": [
+        {
+          "ja": "{会社|かいしゃ}を{辞|や}めて{世界|せかい}{一周|いっしゅう}だなんて、{彼|かれ}は{大胆|だいたん}というか{無謀|むぼう}というか……。",
+          "vi": "Bỏ việc để đi vòng quanh thế giới — anh ta gọi là gan dạ cũng được, mà liều lĩnh cũng phải…",
+          "note": "な形 + というか · hai góc nhìn về một hành động"
+        },
+        {
+          "ja": "{新|あたら}しい{上司|じょうし}は{真面目|まじめ}というか{堅|かた}いというか、{冗談|じょうだん}がまったく{通|つう}じない。",
+          "vi": "Sếp mới gọi là nghiêm túc cũng được, cứng nhắc cũng được, nói đùa chẳng hiểu gì cả.",
+          "note": "Nói khéo một nhận xét tiêu cực"
+        },
+        {
+          "ja": "あの{店|みせ}のカレーは{個性的|こせいてき}というか{不思議|ふしぎ}というか、とにかく{一度|いちど}{食|た}べたら{忘|わす}れられない{味|あじ}だ。",
+          "vi": "Món cà ri ở quán đó nói là độc đáo cũng được, kỳ lạ cũng được, nói chung ăn một lần là không quên được.",
+          "note": "とにかく chốt ấn tượng"
+        },
+        {
+          "ja": "{合格|ごうかく}の{知|し}らせを{見|み}たときは、うれしいというか{信|しん}じられないというか、{手|て}が{震|ふる}えた。",
+          "vi": "Lúc nhìn thấy thông báo đỗ, không biết nên gọi là vui hay là không tin nổi nữa, tay tôi run lên.",
+          "note": "い形 + というか · một cảm giác khó gọi tên"
+        },
+        {
+          "ja": "この{家|いえ}は{古|ふる}いというか{歴史|れきし}があるというか、{柱|はしら}の{一本|いっぽん}にも{味|あじ}わいがある。",
+          "vi": "Ngôi nhà này nói là cũ cũng được, mà nói là có bề dày lịch sử cũng được, đến cây cột cũng có nét riêng.",
+          "note": "Hai cách nhìn: tiêu cực ↔ tích cực"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜やら〜やら",
+          "diff": "「やら」 = **nhiều thứ khác nhau** chồng chất (việc này, việc kia; vui và buồn). 「というか」 = **một thứ**, hai cách diễn đạt. Hỏi: hai từ có cùng chỉ một đối tượng không? Có → というか."
+        },
+        {
+          "with": "〜というより",
+          "diff": "「AというよりB」 = **không hẳn A mà đúng hơn là B** — người nói đã **chọn** B. 「AというかBというか」 = **chưa chọn được**, cả hai đều tạm đúng."
+        },
+        {
+          "with": "〜か〜か",
+          "diff": "Khi **không biết sự thật** (là bác sĩ hay luật sư? mưa hay tuyết?) thì dùng 「〜か〜か」 hoặc 「〜なのか〜なのか」, không dùng 「というか」 (vốn là đánh giá chủ quan)."
+        }
+      ],
+      "mistakes": [
+        "✗ {明日|あした}は{雨|あめ}というか{雪|ゆき}というか、{天気|てんき}{予報|よほう}を{見|み}よう。→ ○ 明日は雨か雪か、天気予報を見よう。(sự thật khách quan chưa biết)",
+        "✗ {机|つくえ}の{上|うえ}には{本|ほん}というかノートというかがたくさんある。→ ○ 本やらノートやらがたくさんある。(nhiều thứ khác nhau)"
+      ],
+      "tip": "Hai từ **gần nghĩa / hai mặt của một tính chất** + 「とにかく」 phía sau → 「というか〜というか」. Nếu hai thứ là **hai việc / hai đồ vật khác nhau** thì loại ngay."
+    },
+    {
+      "id": "b10-3",
+      "pattern": "〜にしても〜にしても・〜にしろ〜にしろ・〜にせよ〜にせよ",
+      "reading": "〜にしても〜にしても・〜にしろ〜にしろ・〜にせよ〜にせよ",
+      "meaning": "Dù là A hay B thì cũng…; cả A lẫn B đều…",
+      "structure": [
+        "N ＋ にしても／にしろ／にせよ (lặp 2 lần)",
+        "V辞書形 ＋ にしても … V辞書形 ＋ にしても",
+        "V辞書形 ＋ にしろ … Vない形 ＋ にしろ (cặp đối lập: 行くにしろ行かないにしろ)"
+      ],
+      "explain": "Người nói đưa ra **hai trường hợp** rồi kết luận: \"**chọn bên nào thì cũng như nhau**, điều tôi nói đúng với cả hai\".\n\nCó hai kiểu cặp:\n- **Hai ví dụ cùng nhóm**: 「{電車|でんしゃ}にしろバスにしろ」 (tàu hay xe buýt — cùng là phương tiện công cộng), 「{手紙|てがみ}にせよメールにせよ」.\n- **Hai phương án đối lập**: 「{賛成|さんせい}するにしても{反対|はんたい}するにしても」, 「{行|い}くにしろ{行|い}かないにしろ」 (đi hay không đi).\n\nVế sau là **phán đoán, nhận định, lời khuyên, yêu cầu** của người nói, áp dụng chung cho cả hai: 「〜ほうがいい」「〜べきだ」「〜てください」「〜が必要だ」「〜は大切だ」.\n\nCách nhớ: 「にしても」 = \"cho dù có **coi là** A đi nữa\" → \"coi là A cũng thế, coi là B cũng thế\".",
+      "nuance": "Ba dạng cùng nghĩa, khác **độ trang trọng**: にしても (trung tính, văn nói được) < にしろ < **にせよ** (cứng hơn, văn viết). Vế sau **không phải câu hỏi** và **không phải mô tả một sự việc cụ thể đã xảy ra** (✗ 「肉にしろ魚にしろ、昨日たくさん食べた」), vì mẫu này dùng để đưa ra nhận định chung.",
+      "examples": [
+        {
+          "ja": "{電車|でんしゃ}にしろバスにしろ、{空港|くうこう}までは{一時間|いちじかん}{以上|いじょう}かかる。",
+          "vi": "Dù đi tàu hay xe buýt thì đến sân bay cũng mất hơn một tiếng.",
+          "note": "Hai ví dụ cùng nhóm · nhận định chung"
+        },
+        {
+          "ja": "{進学|しんがく}するにしても{就職|しゅうしょく}するにしても、{一度|いちど}{家族|かぞく}とよく{話|はな}し{合|あ}ったほうがいい。",
+          "vi": "Dù học lên hay đi làm thì cũng nên nói chuyện kỹ với gia đình một lần.",
+          "note": "Cặp đối lập · vế sau là lời khuyên"
+        },
+        {
+          "ja": "{賛成|さんせい}するにせよ{反対|はんたい}するにせよ、{理由|りゆう}をはっきり{述|の}べてください。",
+          "vi": "Dù tán thành hay phản đối, xin hãy nêu rõ lý do.",
+          "note": "にせよ = trang trọng · vế sau là yêu cầu"
+        },
+        {
+          "ja": "{引|ひ}き{受|う}けるにしろ{引|ひ}き{受|う}けないにしろ、{返事|へんじ}は{早|はや}めにするべきだ。",
+          "vi": "Nhận hay không nhận thì cũng nên trả lời sớm.",
+          "note": "V辞書形 / Vない形"
+        },
+        {
+          "ja": "{大企業|だいきぎょう}にせよ{中小|ちゅうしょう}{企業|きぎょう}にせよ、{人手|ひとで}{不足|ぶそく}は{深刻|しんこく}な{問題|もんだい}だ。",
+          "vi": "Dù là doanh nghiệp lớn hay doanh nghiệp vừa và nhỏ, thiếu nhân lực đều là vấn đề nghiêm trọng.",
+          "note": "Văn báo chí"
+        },
+        {
+          "ja": "{日本酒|にほんしゅ}にしてもワインにしても、{飲|の}みすぎは{体|からだ}によくない。",
+          "vi": "Rượu sake hay rượu vang thì uống quá nhiều cũng đều không tốt cho sức khoẻ.",
+          "note": "にしても · văn nói"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜にしても (đơn lẻ, bài 15)",
+          "diff": "「{遅|おく}れるにしても、{連絡|れんらく}ぐらいしなさい」 = **cho dù** A (chấp nhận A) **thì cũng**… — chỉ một trường hợp. Dạng lặp 「〜にしても〜にしても」 = dù A **hay** B."
+        },
+        {
+          "with": "〜も〜も",
+          "diff": "「電車もバスも混んでいる」 = **mô tả sự thật** cả hai đều đông. 「電車にしろバスにしろ」 mang tính **giả định, nhận định**: chọn bên nào thì kết luận cũng không đổi."
+        },
+        {
+          "with": "〜といい〜といい",
+          "diff": "「{味|あじ}といい{値段|ねだん}といい、{文句|もんく}なしだ」 = xét **từng mặt của một thứ** để khen / chê. 「にしろ〜にしろ」 = hai **trường hợp / lựa chọn** khác nhau, cùng một kết luận."
+        }
+      ],
+      "mistakes": [
+        "✗ {行|い}くにしろ{行|い}かないにしろ、どうしますか。→ vế sau không được là câu hỏi. ○ 行くにしろ行かないにしろ、連絡してください。",
+        "✗ {映画|えいが}を{見|み}るにせよ{買|か}い{物|もの}をするにせよ、{昨日|きのう}は{楽|たの}しかった。→ vế sau không mô tả một sự việc cụ thể đã qua. ○ 昨日は映画を見たり買い物をしたりして楽しかった。"
+      ],
+      "tip": "Vế sau là **nhận định chung / lời khuyên** (〜ほうがいい・〜べきだ・〜必要だ・〜てください) và hai vế trước là **hai lựa chọn** → 「にしても／にしろ／にせよ」. Thấy cặp 「Vる〜Vない」 (行く・行かない) → gần như chắc chắn là mẫu này."
+    },
+    {
+      "id": "b10-4",
+      "pattern": "〜といった",
+      "reading": "〜といった",
+      "meaning": "Như là… (nêu ví dụ tiêu biểu, rồi gom bằng một danh từ)",
+      "structure": [
+        "N ＋ といった ＋ N",
+        "N1 や N2 ＋ といった ＋ N",
+        "N1、N2、N3 ＋ といった ＋ N",
+        "「câu trích dẫn」＋ といった ＋ N (ý kiến, ý nghĩa…)"
+      ],
+      "explain": "「AといったB」 = \"**B, chẳng hạn như A**\". A là vài **ví dụ tiêu biểu**, B là **danh từ chung** bao trùm. Người nghe hiểu là **ngoài A ra còn nhiều thứ khác nữa**.\n\nCông thức hay gặp nhất: 「{地震|じしん}や{台風|たいふう}といった{自然|しぜん}{災害|さいがい}」 — thiên tai, chẳng hạn như động đất, bão.\n\n- Thường kết hợp với 「や」「とか」 hoặc dấu phẩy: 「AやBといったC」「AとかBといったC」.\n- **Luôn có danh từ phía sau** (といった + N). Không đứng cuối câu.\n- Khi nêu ví dụ cho **một nhóm** thì thường đưa **từ hai ví dụ trở lên** (「バスや{地下鉄|ちかてつ}といった{交通|こうつう}{手段|しゅだん}」). Chỉ một ví dụ (「地下鉄といった交通手段」) nghe thiếu tự nhiên; nếu chỉ có một thứ để gọi tên thì dùng 「という」.\n- Cách dùng thứ hai: nêu **một ví dụ đại diện** để nói **nội dung đại khái**: 「「もう{限界|げんかい}だ」といった{声|こえ}」 (những tiếng than kiểu như \"hết chịu nổi rồi\"), 「〜といった{意味|いみ}で{使|つか}われる」 (được dùng với nghĩa đại loại là…).",
+      "nuance": "Trung tính, hơi văn viết — rất hay gặp trong báo chí, giới thiệu, văn giải thích. Sắc thái \"chỉ là ví dụ, không phải danh sách đầy đủ\".",
+      "examples": [
+        {
+          "ja": "{地震|じしん}や{台風|たいふう}といった{自然|しぜん}{災害|さいがい}に{備|そな}えて、{非常|ひじょう}{食|しょく}を{用意|ようい}しておこう。",
+          "vi": "Hãy chuẩn bị sẵn đồ ăn dự trữ để phòng các thiên tai như động đất, bão.",
+          "note": "N や N といった + N"
+        },
+        {
+          "ja": "この{工房|こうぼう}では、{醤油|しょうゆ}や{味噌|みそ}といった{昔|むかし}ながらの{調味料|ちょうみりょう}を{手作|てづく}りしている。",
+          "vi": "Xưởng này làm thủ công các loại gia vị truyền thống như nước tương, miso.",
+          "note": ""
+        },
+        {
+          "ja": "{駅|えき}の{案内|あんない}{表示|ひょうじ}には、{英語|えいご}、{中国語|ちゅうごくご}、{韓国語|かんこくご}といった{外国語|がいこくご}も{併記|へいき}されている。",
+          "vi": "Bảng chỉ dẫn ở nhà ga có ghi kèm cả các ngoại ngữ như tiếng Anh, tiếng Trung, tiếng Hàn.",
+          "note": "Liệt kê bằng dấu phẩy"
+        },
+        {
+          "ja": "{会議|かいぎ}では「{予算|よさん}が{足|た}りない」「{人手|ひとで}が{足|た}りない」といった{意見|いけん}が{相次|あいつ}いだ。",
+          "vi": "Trong cuộc họp, liên tiếp có những ý kiến kiểu như \"thiếu ngân sách\", \"thiếu người\".",
+          "note": "Trích dẫn + といった + 意見"
+        },
+        {
+          "ja": "{彼女|かのじょ}は「{信|しん}じられない」といった{表情|ひょうじょう}で、{私|わたし}の{話|はなし}を{聞|き}いていた。",
+          "vi": "Cô ấy nghe tôi kể với vẻ mặt kiểu như \"không thể tin nổi\".",
+          "note": "Một ví dụ → nội dung đại khái"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜という",
+          "diff": "「という」 = **gọi tên / định nghĩa** đúng một thứ: 「「{金継|きんつ}ぎ」という{技術|ぎじゅつ}」 (kỹ thuật **tên là** kintsugi). 「といった」 = **nêu ví dụ**, còn nhiều thứ khác: 「{金継|きんつ}ぎや{漆塗|うるしぬ}りといった{技術|ぎじゅつ}」. Tên riêng / thứ người nghe chưa biết → という."
+        },
+        {
+          "with": "〜や〜など",
+          "diff": "Nghĩa gần như nhau. 「AやBなどのC」 = trung tính, đời thường; 「AやBといったC」 = hơi văn viết hơn, và nhấn rằng A, B là **ví dụ tiêu biểu** của nhóm C."
+        }
+      ],
+      "mistakes": [
+        "✗ {海外|かいがい}では{寿司|すし}や{天|てん}ぷらといったが{人気|にんき}だ。→ ○ 寿司や天ぷらといった**日本料理**が人気だ。(といった phải có danh từ phía sau)",
+        "✗ これは「ポチ」といった{犬|いぬ}です。→ ○ 「ポチ」**という**犬です。(gọi tên một con chó cụ thể)"
+      ],
+      "tip": "Trước chỗ trống có 「や／とか／dấu phẩy」 nêu ví dụ, sau chỗ trống là **danh từ chung** (災害・野菜・技術・意見) → 「といった」. Nếu chỉ có **một tên riêng** để giới thiệu → 「という」."
+    }
+  ],
+  "summary": [
+    {
+      "pattern": "〜やら〜やら",
+      "meaning": "nào là… nào là…",
+      "key": "nhiều thứ lộn xộn, vất vả; cảm xúc lẫn lộn; 〜やらで大変"
+    },
+    {
+      "pattern": "〜というか〜というか",
+      "meaning": "nói là A cũng được, B cũng được",
+      "key": "cùng một thứ, hai cách tả; + とにかく; bỏ だ"
+    },
+    {
+      "pattern": "〜にしても〜にしても・〜にしろ〜にしろ・〜にせよ〜にせよ",
+      "meaning": "dù A hay B thì cũng…",
+      "key": "vế sau nhận định / khuyên; không hỏi, không kể việc đã qua; にせよ cứng nhất"
+    },
+    {
+      "pattern": "〜といった",
+      "meaning": "như là… (ví dụ tiêu biểu)",
+      "key": "AやBといった + N; ≠ という (gọi tên)"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b10-q1",
+      "kind": "form",
+      "ref": "b10-1",
+      "q": "{子|こ}どもが{熱|ねつ}を{出|だ}す（　　）{車|くるま}が{故障|こしょう}する（　　）で、{散々|さんざん}な{一週間|いっしゅうかん}だった。",
+      "options": [
+        "やら／やら",
+        "というか／というか",
+        "にしろ／にしろ",
+        "といった／といった"
+      ],
+      "answer": 0,
+      "vi": "Nào là con bị sốt, nào là xe hỏng, đúng là một tuần tồi tệ.",
+      "why": "Hai sự việc **khác nhau** dồn dập, vế sau là than vãn, có 「で」 sau chỗ trống thứ hai → **やら／やら**. 「というか」 dùng cho hai cách tả **một thứ**; 「にしろ〜にしろ」 cần vế sau là nhận định chung, không phải kể chuyện đã qua; 「といった」 phải có danh từ ngay sau."
+    },
+    {
+      "id": "b10-q2",
+      "kind": "form",
+      "ref": "b10-2",
+      "q": "{彼女|かのじょ}の{話|はな}し{方|かた}は{率直|そっちょく}（　　）{遠慮|えんりょ}がない（　　）、{聞|き}いていてどきっとすることがある。",
+      "options": [
+        "にせよ／にせよ",
+        "やら／やら",
+        "というか／というか",
+        "といった／といった"
+      ],
+      "answer": 2,
+      "vi": "Cách nói chuyện của cô ấy gọi là thẳng thắn cũng được, không kiêng nể cũng được, nghe mà nhiều lúc giật mình.",
+      "why": "Hai cách diễn tả **cùng một** cách nói chuyện (thẳng thắn ↔ không kiêng nể) → **というか／というか**. 「やら」 dùng cho nhiều thứ khác nhau chồng chất; 「にせよ〜にせよ」 đưa ra hai trường hợp lựa chọn; 「といった」 cần danh từ phía sau."
+    },
+    {
+      "id": "b10-q3",
+      "kind": "form",
+      "ref": "b10-3",
+      "q": "{進学|しんがく}する（　　）{就職|しゅうしょく}する（　　）、{自分|じぶん}で{決|き}めた{道|みち}なら{最後|さいご}まで{頑張|がんば}りなさい。",
+      "options": [
+        "やら／やら",
+        "にしても／にしても",
+        "というか／というか",
+        "といった／といった"
+      ],
+      "answer": 1,
+      "vi": "Dù học lên hay đi làm, nếu là con đường con tự chọn thì hãy cố gắng đến cùng.",
+      "why": "Hai **lựa chọn**, vế sau là lời khuyên áp dụng cho cả hai → **にしても／にしても**. 「やら」 không đi với lời khuyên; 「というか」 là hai cách tả một thứ; 「といった」 cần danh từ phía sau."
+    },
+    {
+      "id": "b10-q4",
+      "kind": "form",
+      "ref": "b10-4",
+      "q": "{当館|とうかん}では、{着物|きもの}の{着付|きつ}けや{茶道|さどう}（　　）{日本|にほん}の{伝統|でんとう}{文化|ぶんか}を{体験|たいけん}できます。",
+      "options": [
+        "にしろ",
+        "といった",
+        "やら",
+        "というか"
+      ],
+      "answer": 1,
+      "vi": "Tại đây, bạn có thể trải nghiệm các nét văn hoá truyền thống Nhật Bản như mặc kimono, trà đạo.",
+      "why": "Nêu ví dụ bằng 「や」 rồi gom lại bằng danh từ chung 「伝統文化」 → **といった**. 「やら」「にしろ」「というか」 đều phải dùng theo cặp lặp lại, và không trực tiếp bổ nghĩa cho danh từ phía sau."
+    },
+    {
+      "id": "b10-q5",
+      "kind": "usage",
+      "ref": "b10-3",
+      "q": "「〜にしろ〜にしろ」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "肉にしろ魚にしろ、昨日の夕食でたくさん食べた。",
+        "行くにしろ行かないにしろ、どうしますか。",
+        "ケーキにしろクッキーにしろ、テーブルにたくさん並んでいた。",
+        "賛成にしろ反対にしろ、自分の意見ははっきり言うべきだ。"
+      ],
+      "answer": 3,
+      "vi": "(4) Dù tán thành hay phản đối, cũng nên nói rõ ý kiến của mình.",
+      "why": "(4) Hai lựa chọn đối lập + nhận định chung (〜べきだ) → đúng. (1) kể một sự việc cụ thể đã qua → 肉も魚も…; (2) vế sau là câu hỏi; (3) tả cảnh nhiều đồ → ケーキやらクッキーやら／ケーキやクッキーが."
+    },
+    {
+      "id": "b10-q6",
+      "kind": "form",
+      "ref": "b10-1",
+      "q": "{一人|ひとり}{暮|ぐ}らしを{始|はじ}める{日|ひ}、{母|はは}は{心配|しんぱい}する（　　）{寂|さび}しがる（　　）で、{駅|えき}で{見送|みおく}るときには{涙|なみだ}ぐんでいた。",
+      "options": [
+        "にしろ／にしろ",
+        "というか／というか",
+        "といった／といった",
+        "やら／やら"
+      ],
+      "answer": 3,
+      "vi": "Hôm tôi bắt đầu sống một mình, mẹ vừa lo lắng vừa buồn, lúc tiễn ở ga thì rưng rưng nước mắt.",
+      "why": "Nhiều **cảm xúc khác nhau lẫn lộn**, sau chỗ trống thứ hai có 「で」 → **やら／やら**. 「というか」 cũng nói về cảm xúc nhưng không đi với 「で」 và dùng khi tìm từ cho **một** cảm giác; 「にしろ」 cần nhận định chung; 「といった」 cần danh từ."
+    }
+  ],
+  "practice": [
+    {
+      "id": "b10-p1",
+      "kind": "form",
+      "ref": "b10-1",
+      "q": "{週末|しゅうまつ}は{洗濯|せんたく}（　　）{部屋|へや}の{片付|かたづ}け（　　）で、ゆっくり{休|やす}む{暇|ひま}もない。",
+      "options": [
+        "といった／といった",
+        "にせよ／にせよ",
+        "やら／やら",
+        "というか／というか"
+      ],
+      "answer": 2,
+      "vi": "Cuối tuần nào là giặt giũ, nào là dọn phòng, chẳng có lúc nào nghỉ ngơi thong thả.",
+      "why": "Hai việc khác nhau dồn dập + 「で」 + than bận → **やら／やら**. 「にせよ」 cần nhận định chung; 「というか」 cho một thứ; 「といった」 không dùng theo cặp và cần danh từ phía sau."
+    },
+    {
+      "id": "b10-p2",
+      "kind": "form",
+      "ref": "b10-2",
+      "q": "うちの{犬|いぬ}は{人懐|ひとなつ}っこい（　　）{警戒心|けいかいしん}がない（　　）、{知|し}らない{人|ひと}にもしっぽを{振|ふ}ってついていく。",
+      "options": [
+        "というか／というか",
+        "やら／やら",
+        "にしろ／にしろ",
+        "といった／といった"
+      ],
+      "answer": 0,
+      "vi": "Con chó nhà tôi gọi là thân thiện cũng được, mà không biết đề phòng cũng đúng, gặp người lạ cũng vẫy đuôi đi theo.",
+      "why": "Hai cách nhìn **cùng một tính cách** (thân thiện ↔ thiếu cảnh giác) → **というか／というか**. 「やら」 dùng cho nhiều thứ khác nhau, giọng than vãn; 「にしろ」 đưa ra hai lựa chọn; 「といった」 cần danh từ."
+    },
+    {
+      "id": "b10-p3",
+      "kind": "form",
+      "ref": "b10-3",
+      "q": "{手紙|てがみ}（　　）メール（　　）、{目上|めうえ}の{人|ひと}に{送|おく}る{文章|ぶんしょう}は{言葉|ことば}{遣|づか}いに{気|き}をつけるべきだ。",
+      "options": [
+        "やら／やら",
+        "というか／というか",
+        "といった／といった",
+        "にせよ／にせよ"
+      ],
+      "answer": 3,
+      "vi": "Dù là thư tay hay email, văn bản gửi người trên thì nên cẩn thận lời lẽ.",
+      "why": "Hai trường hợp cùng nhóm + nhận định chung (〜べきだ) → **にせよ／にせよ**. 「やら」 không đi với 〜べきだ; 「というか」 cho hai cách tả một thứ; 「といった」 cần danh từ phía sau."
+    },
+    {
+      "id": "b10-p4",
+      "kind": "form",
+      "ref": "b10-4",
+      "q": "{駅前|えきまえ}にはコンビニやドラッグストア（　　）{生活|せいかつ}に{便利|べんり}な{店|みせ}が{揃|そろ}っている。",
+      "options": [
+        "といった",
+        "にせよ",
+        "やら",
+        "というか"
+      ],
+      "answer": 0,
+      "vi": "Trước nhà ga có đủ các cửa hàng tiện cho sinh hoạt như cửa hàng tiện lợi, hiệu thuốc.",
+      "why": "Ví dụ nêu bằng 「や」 + danh từ chung 「店」 → **といった**. 「やら」「にせよ」「というか」 phải lặp theo cặp và không nối trực tiếp với danh từ phía sau."
+    },
+    {
+      "id": "b10-p5",
+      "kind": "form",
+      "ref": "b10-4",
+      "q": "これは「{金継|きんつ}ぎ」（　　）{技術|ぎじゅつ}で、{割|わ}れた{器|うつわ}を{漆|うるし}と{金|きん}で{直|なお}すものです。",
+      "options": [
+        "といった",
+        "という",
+        "やら",
+        "にしても"
+      ],
+      "answer": 1,
+      "vi": "Đây là kỹ thuật gọi là \"kintsugi\", dùng sơn mài và vàng để sửa đồ gốm bị vỡ.",
+      "why": "Giới thiệu **tên gọi** của đúng một kỹ thuật → **という**. 「といった」 dùng để nêu **ví dụ** trong một nhóm (còn những thứ khác), không hợp khi đang định nghĩa một thứ cụ thể; 「やら」「にしても」 không thành câu."
+    },
+    {
+      "id": "b10-p6",
+      "kind": "form",
+      "ref": "b10-3",
+      "q": "{依頼|いらい}を{引|ひ}き{受|う}ける（　　）{断|ことわ}る（　　）、{返事|へんじ}は{早|はや}めにしたほうがいい。",
+      "options": [
+        "やら／やら",
+        "にしろ／にしろ",
+        "といった／といった",
+        "というか／というか"
+      ],
+      "answer": 1,
+      "vi": "Dù nhận lời hay từ chối thì cũng nên trả lời sớm.",
+      "why": "Hai **lựa chọn đối lập** + lời khuyên (〜ほうがいい) → **にしろ／にしろ**. 「やら」 không đi với lời khuyên; 「というか」 cho hai cách tả một thứ; 「といった」 cần danh từ."
+    },
+    {
+      "id": "b10-p7",
+      "kind": "usage",
+      "ref": "b10-2",
+      "q": "「〜というか〜というか」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "彼は医者というか弁護士というか、職業はまだ聞いていない。",
+        "姉の部屋は個性的というか独特というか、とにかく不思議な雰囲気だ。",
+        "明日は雨というか雪というか、天気予報で確認しよう。",
+        "机の上には本というかノートというかがたくさん置いてある。"
+      ],
+      "answer": 1,
+      "vi": "(2) Phòng chị tôi gọi là cá tính cũng được, độc đáo cũng được, nói chung có bầu không khí rất lạ.",
+      "why": "(2) Hai cách tả **cùng một** căn phòng + とにかく → đúng. (1)(3) là sự thật **chưa biết**, cần 「〜か〜か」 (医者なのか弁護士なのか／雨か雪か); (4) nhiều đồ vật khác nhau → 本やらノートやら."
+    },
+    {
+      "id": "b10-p8",
+      "kind": "order",
+      "ref": "b10-1",
+      "q": "{合格|ごうかく}の{知|し}らせを{聞|き}いて、うれしいやら ＿＿＿ ＿＿＿ ★ ＿＿＿ しまった。",
+      "options": [
+        "泣き出して",
+        "ほっとするやら",
+        "思わず",
+        "で"
+      ],
+      "order": [
+        1,
+        3,
+        2,
+        0
+      ],
+      "answer": 2,
+      "vi": "Nghe tin đỗ, tôi vừa mừng vừa nhẹ nhõm nên bất giác bật khóc.",
+      "why": "合格の知らせを聞いて、うれしいやら **ほっとするやら で 思わず 泣き出して** しまった → ★ (ô thứ 3) = 「思わず」. Cụm 「〜やら」 thứ hai đứng ngay sau 「うれしいやら」, 「で」 (vì) theo sau cặp やら; 「思わず」 bổ nghĩa cho 「泣き出す」 nên đứng ngay trước nó; 「泣き出して」 nối với 「しまった」."
+    },
+    {
+      "id": "b10-p9",
+      "kind": "order",
+      "ref": "b10-4",
+      "q": "{当店|とうてん}では{青森|あおもり}{産|さん}の ＿＿＿ ＿＿＿ ★ ＿＿＿ {販売|はんばい}しています。",
+      "options": [
+        "果物を",
+        "といった",
+        "りんごや",
+        "ぶどう"
+      ],
+      "order": [
+        2,
+        3,
+        1,
+        0
+      ],
+      "answer": 1,
+      "vi": "Cửa hàng chúng tôi bán các loại trái cây như táo, nho sản xuất ở Aomori.",
+      "why": "青森産の **りんごや ぶどう といった 果物を** 販売しています → ★ = 「といった」. 「りんごや」 có 「や」 nên phải đứng trước 「ぶどう」; 「といった」 + danh từ chung 「果物」."
+    },
+    {
+      "id": "b10-p10",
+      "kind": "order",
+      "ref": "b10-3",
+      "q": "{車|くるま}を{買|か}うにせよ ＿＿＿ ＿＿＿ ★ ＿＿＿ だ。",
+      "options": [
+        "ある程度の",
+        "必要",
+        "借りるにせよ",
+        "お金が"
+      ],
+      "order": [
+        2,
+        0,
+        3,
+        1
+      ],
+      "answer": 3,
+      "vi": "Dù mua xe hay thuê xe thì cũng cần một khoản tiền nhất định.",
+      "why": "車を買うにせよ **借りるにせよ ある程度の お金が 必要** だ → ★ (ô thứ 3) = 「お金が」. 「借りるにせよ」 ghép cặp với 「買うにせよ」 nên đứng ngay sau nó; 「ある程度の」 bổ nghĩa cho 「お金」; 「お金が必要だ」 là vế nhận định chung."
+    },
+    {
+      "id": "b10-p11",
+      "kind": "usage",
+      "ref": "b10-1",
+      "q": "「〜やら〜やら」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "机の上には、ペンやら書類やらがごちゃごちゃに置いてあった。",
+        "明日の式典には、社長やら部長やらがご出席になる予定です。",
+        "雨が降るやら降らないやら、傘を持っていきなさい。",
+        "彼は親切やら優しいやら、とにかくいい人だ。"
+      ],
+      "answer": 0,
+      "vi": "(1) Trên bàn nào bút nào giấy tờ để lộn xộn.",
+      "why": "(1) Nhiều đồ vật khác nhau, lộn xộn → đúng. (2) thông báo trang trọng, liệt kê trung tính → 社長や部長などが; (3) hai lựa chọn + lời khuyên → 降るにしろ降らないにしろ; (4) hai cách khen **cùng một** tính cách + とにかく → 親切というか優しいというか."
+    }
+  ],
+  "test": [
+    {
+      "id": "b10-t1",
+      "kind": "form",
+      "ref": "b10-4",
+      "q": "{残業|ざんぎょう}が{続|つづ}き、「もう{限界|げんかい}だ」（　　）{声|こえ}が{社員|しゃいん}の{間|あいだ}から{上|あ}がっている。",
+      "options": [
+        "というか",
+        "にしても",
+        "といった",
+        "やら"
+      ],
+      "answer": 2,
+      "vi": "Làm thêm giờ triền miên, trong nhân viên đang có những tiếng than kiểu như \"hết chịu nổi rồi\".",
+      "why": "Trích một **ví dụ đại diện** rồi gom bằng danh từ 「声」 → **といった**. 「というか」「にしても」「やら」 phải dùng theo cặp và không trực tiếp bổ nghĩa cho danh từ."
+    },
+    {
+      "id": "b10-t2",
+      "kind": "form",
+      "ref": "b10-3",
+      "q": "{和食|わしょく}（　　）{洋食|ようしょく}（　　）、{料理|りょうり}は{見|み}た{目|め}も{大切|たいせつ}だ。",
+      "options": [
+        "やら／やら",
+        "というか／というか",
+        "といった／といった",
+        "にしろ／にしろ"
+      ],
+      "answer": 3,
+      "vi": "Dù là món Nhật hay món Âu, hình thức trình bày món ăn cũng quan trọng.",
+      "why": "Hai trường hợp cùng nhóm + **nhận định chung** (〜は大切だ) → **にしろ／にしろ**. 「やら」 dùng để than / tả sự lộn xộn; 「というか」 là hai cách tả một thứ; 「といった」 cần danh từ phía sau."
+    },
+    {
+      "id": "b10-t3",
+      "kind": "form",
+      "ref": "b10-1",
+      "q": "{旅先|たびさき}で{財布|さいふ}をなくし、{警察|けいさつ}に{行|い}く（　　）カード{会社|がいしゃ}に{電話|でんわ}する（　　）で、{観光|かんこう}どころではなかった。",
+      "options": [
+        "にせよ／にせよ",
+        "やら／やら",
+        "というか／というか",
+        "といった／といった"
+      ],
+      "answer": 1,
+      "vi": "Mất ví khi đi du lịch, nào là đến đồn cảnh sát, nào là gọi điện cho công ty thẻ, chẳng còn tâm trí đâu mà tham quan.",
+      "why": "Nhiều việc khác nhau dồn dập + 「で」 + kết quả vất vả → **やら／やら**. 「にせよ」 cần nhận định chung, không kể chuyện đã qua; 「というか」 cho một thứ; 「といった」 cần danh từ."
+    },
+    {
+      "id": "b10-t4",
+      "kind": "form",
+      "ref": "b10-2",
+      "q": "この{絵|え}は{斬新|ざんしん}（　　）{奇抜|きばつ}（　　）、とにかく{一度|いちど}{見|み}たら{忘|わす}れられない。",
+      "options": [
+        "というか／というか",
+        "やら／やら",
+        "といった／といった",
+        "にしても／にしても"
+      ],
+      "answer": 0,
+      "vi": "Bức tranh này gọi là mới lạ cũng được, kỳ quặc cũng được, nói chung xem một lần là không quên được.",
+      "why": "Hai cách tả **cùng một bức tranh** + 「とにかく」 → **というか／というか**. 「にしても〜にしても」 đưa ra hai **trường hợp giả định**, không dùng để tả ấn tượng về một thứ đang ở trước mắt (và không gắn trực tiếp vào な形); 「やら」 cho nhiều thứ khác nhau; 「といった」 cần danh từ."
+    },
+    {
+      "id": "b10-t5",
+      "kind": "usage",
+      "ref": "b10-3",
+      "q": "「〜にせよ〜にせよ」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "晴れるにせよ雨が降るにせよ、明日の試合は予定どおり行われる。",
+        "映画を見るにせよ買い物をするにせよ、昨日は一日中楽しかった。",
+        "進学するにせよ就職するにせよ、あなたはどちらにしますか。",
+        "部屋にはテレビにせよ冷蔵庫にせよ、いろいろな家電が置いてあった。"
+      ],
+      "answer": 0,
+      "vi": "(1) Dù trời nắng hay mưa, trận đấu ngày mai vẫn diễn ra như dự định.",
+      "why": "(1) Hai trường hợp đối lập + nhận định chung → đúng. (2) kể một ngày cụ thể đã qua → 映画を見たり買い物をしたりして; (3) vế sau là câu hỏi; (4) tả cảnh nhiều đồ → テレビや冷蔵庫といった家電."
+    },
+    {
+      "id": "b10-t6",
+      "kind": "order",
+      "ref": "b10-4",
+      "q": "{最近|さいきん}は ＿＿＿ ＿＿＿ ★ ＿＿＿ {増|ふ}えている。",
+      "options": [
+        "新しい働き方が",
+        "在宅勤務",
+        "副業や",
+        "といった"
+      ],
+      "order": [
+        2,
+        1,
+        3,
+        0
+      ],
+      "answer": 3,
+      "vi": "Gần đây, những cách làm việc mới như làm nghề tay trái hay làm việc tại nhà đang tăng lên.",
+      "why": "最近は **副業や 在宅勤務 といった 新しい働き方が** 増えている → ★ (ô thứ 3) = 「といった」. 「副業や」 có 「や」 nên đứng trước 「在宅勤務」; 「といった」 + danh từ chung; 「新しい働き方が」 là chủ ngữ của 「増えている」."
+    },
+    {
+      "id": "b10-t7",
+      "kind": "order",
+      "ref": "b10-1",
+      "q": "{会議|かいぎ}の{前|まえ}は{資料|しりょう}のコピーやら ＿＿＿ ＿＿＿ ★ ＿＿＿ {一日中|いちにちじゅう}{走|はし}り{回|まわ}っていた。",
+      "options": [
+        "社内を",
+        "で",
+        "会場の",
+        "準備やら"
+      ],
+      "order": [
+        2,
+        3,
+        1,
+        0
+      ],
+      "answer": 1,
+      "vi": "Trước cuộc họp, nào là photo tài liệu, nào là chuẩn bị hội trường, tôi chạy khắp công ty cả ngày.",
+      "why": "資料のコピーやら **会場の 準備やら で 社内を** 一日中走り回っていた → ★ = 「で」. Cụm 「〜やら」 thứ hai là 「会場の準備やら」, 「で」 (vì) đứng ngay sau, 「社内を」 là tân ngữ chỉ nơi chốn của 「走り回る」."
+    }
+  ]
+}

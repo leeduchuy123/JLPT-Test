@@ -1,0 +1,239 @@
+{
+  "id": "b23",
+  "track": "bunpo",
+  "intro": "Bài này gom 7 mẫu mà người nói dùng để **nêu cảm nghĩ, đánh giá và khẳng định quan điểm của mình**. Chia thành 3 nhóm cho dễ nhớ:\n\n- **Nhóm \"lẽ thường\"**: 〜ものだ (bản chất chung, \"vốn dĩ là vậy\") và 〜というものだ (áp lẽ thường vào **một trường hợp cụ thể** để đánh giá: \"thế là vô lý\", \"thế mới là tình bạn\").\n- **Nhóm \"chỉ là ↔ chính là\"**: 〜にすぎない (chỉ là… thôi — **hạ thấp**) và 〜にほかならない (chính là…, không gì khác — **khẳng định mạnh**). Hai mẫu này là một cặp đối nghịch, đề rất hay đặt cạnh nhau.\n- **Nhóm \"nên làm gì\"**: 〜に越したことはない (được thế thì tốt nhất, nhưng không bắt buộc), 〜しかない・〜よりほかない (chỉ còn cách…), 〜べきだ／〜べきではない (nên / không nên — theo lẽ phải của người nói).\n\nĐiểm then chốt: 「〜ものだ」 xuất hiện ở 3 bài với 3 nghĩa khác nhau. **Bài này (23課)** = nêu **bản chất, chân lý chung** (人間は失敗するものだ). 24課 = **lời khuyên theo phép tắc xã hội** (目上の人には敬語を使うものだ). 26課 = **hồi tưởng** (Vたものだ) và **cảm thán** (時間がたつのは早いものだ).",
+  "points": [
+    {
+      "id": "b23-1",
+      "pattern": "〜ものだ",
+      "reading": "〜ものだ",
+      "meaning": "Vốn dĩ là…, (người / vật) thường là như thế — nêu bản chất, chân lý chung",
+      "structure": ["V辞書形／Vない形 ＋ ものだ", "い形 ＋ ものだ", "な形 ＋ な ＋ ものだ", "Văn nói: 〜もんだ／〜ものです"],
+      "explain": "Người nói **không nói về một người hay một việc cụ thể**, mà nêu một **sự thật chung, bản chất, quy luật** của con người, xã hội, sự vật — kiểu \"người ta vốn là vậy mà\", \"đời là thế\". Hình dung một người từng trải đang nói câu triết lý đời thường.\n\nVí dụ: 「{年|とし}を{取|と}ると、{朝|あさ}{早|はや}く{目|め}が{覚|さ}めるものだ」 — Có tuổi thì người ta hay thức dậy sớm (chuyện thường tình).\n\n- **Chủ ngữ là danh từ chung**: 人間, 人, 子ども, 親, 世の中, 時間… chứ không phải \"anh Tanaka\", \"con tôi\".\n- Hay đi với điều kiện chung: **〜と／〜ば／〜ても／〜ときに限って ＋ ものだ** (\"hễ… thì vốn dĩ…\").\n- Rất hay dùng để **an ủi, giải thích, chấp nhận**: \"chuyện đó bình thường thôi\" — 「{誰|だれ}でも{初|はじ}めは{緊張|きんちょう}するものだよ」.\n- Phủ định: **〜ないものだ** (vốn dĩ không…): 「{自分|じぶん}の{欠点|けってん}にはなかなか{気|き}づかないものだ」.",
+      "nuance": "- **Không dùng thể quá khứ**: 「〜たものだ」 là nghĩa khác (hồi tưởng thói quen cũ — 26課).\n- Chủ ngữ mang tính **tổng quát**; nếu nói về một cá nhân cụ thể thì câu không còn là \"chân lý\" nữa.\n- Văn phong trung tính, dùng cả nói lẫn viết; thân mật → 〜もんだ／〜もんだよ.\n- Đừng nhầm với 「〜ものだ」 khuyên bảo (24課): bài này chỉ **mô tả** sự vật vốn thế nào, không bảo ai phải làm gì.",
+      "examples": [
+        {"ja": "{誰|だれ}でも{初|はじ}めは{失敗|しっぱい}するものだ。{気|き}にしなくていいよ。", "vi": "Ai lúc đầu cũng thất bại thôi. Đừng bận tâm.", "note": "An ủi bằng \"lẽ thường\""},
+        {"ja": "{忙|いそが}しいときに{限|かぎ}って、{急|きゅう}な{仕事|しごと}が{入|はい}ってくるものだ。", "vi": "Cứ đúng lúc bận rộn là y như rằng lại có việc gấp ập tới.", "note": "〜ときに限って〜ものだ: quy luật \"oái oăm\""},
+        {"ja": "{子|こ}どもというのは、{親|おや}が{思|おも}っている{以上|いじょう}に{親|おや}を{見|み}ているものだ。", "vi": "Trẻ con vốn để ý đến bố mẹ nhiều hơn bố mẹ tưởng.", "note": "N というのは〜ものだ: khuôn nêu bản chất"},
+        {"ja": "いくら{仲|なか}のいい{友人|ゆうじん}でも、お{金|かね}の{貸|か}し{借|か}りをすると{関係|かんけい}が{気|き}まずくなるものだ。", "vi": "Dù là bạn thân đến mấy, hễ vay mượn tiền là quan hệ dễ trở nên khó xử.", "note": "〜ても／〜と ＋ ものだ"},
+        {"ja": "{健康|けんこう}のありがたさは、{病気|びょうき}になって{初|はじ}めてわかるものです。", "vi": "Giá trị của sức khoẻ, phải đến khi ốm rồi mới hiểu ra.", "note": "Lịch sự: ものです"},
+        {"ja": "{環境|かんきょう}が{変|か}わると、{慣|な}れるまで{時間|じかん}がかかるもんだよ。", "vi": "Môi trường thay đổi thì phải mất thời gian mới quen, chuyện bình thường mà.", "note": "Văn nói: もんだ"}
+      ],
+      "compare": [
+        {"with": "〜ものだ (24課: lời khuyên)", "diff": "24課 nói **nên làm gì** theo phép tắc xã hội: 「{目上|めうえ}の{人|ひと}には{敬語|けいご}を{使|つか}うものだ」 (với người trên thì phải dùng kính ngữ). Bài này chỉ **mô tả bản chất**. Mẹo: dịch thử bằng \"nên/phải\" — nghe hợp → 24課; dịch bằng \"vốn dĩ là vậy\" nghe hợp → 23課."},
+        {"with": "〜ものだ (26課: hồi tưởng・cảm thán)", "diff": "「Vたものだ」 = hồi tưởng thói quen quá khứ (子どものころはよく川で{泳|およ}いだものだ). Cảm thán = cảm xúc của người nói lúc đó (時間がたつのは早いものだ). Bài này: không dùng thể た, nêu điều đúng với **mọi người, mọi lúc**."},
+        {"with": "〜はずだ", "diff": "「はずだ」 = suy luận từ căn cứ về **một trường hợp cụ thể** (彼はもう着いたはずだ). 「ものだ」 = quy luật chung, không cần căn cứ cụ thể."}
+      ],
+      "mistakes": [
+        "✗ {田中|たなか}さんは{朝|あさ}{早|はや}く{起|お}きるものだ。→ ○ 田中さんは毎朝早く起きる。(cá nhân cụ thể, không phải chân lý chung)",
+        "✗ {人間|にんげん}は{失敗|しっぱい}したものだ。→ ○ 人間は失敗するものだ。(thể た biến thành nghĩa hồi tưởng)"
+      ],
+      "tip": "Thấy chủ ngữ chung (人間・人・子ども・親・世の中) + câu nghe như châm ngôn, \"chuyện thường tình\", nhất là có 〜と・〜ば・〜ても・〜ときに限って ở trước → 「ものだ」."
+    },
+    {
+      "id": "b23-2",
+      "pattern": "〜というものだ",
+      "reading": "〜というものだ",
+      "meaning": "Thế là…, như thế mới (gọi) là… — đánh giá một việc cụ thể theo lẽ thường",
+      "structure": ["V普通形／い形 ＋ というものだ", "な形 ＋ というものだ (bỏ だ: 無理というものだ)", "N ＋ というものだ (bỏ だ: 親心というものだ)", "Văn nói: 〜ってもんだ"],
+      "explain": "Người nói nhìn **một sự việc / hành vi cụ thể** rồi **dán cho nó một nhãn đánh giá** dựa trên lẽ thường: \"cái đó gọi là vô lý\", \"thế mới gọi là tình bạn\". Hình dung người nói như trọng tài giơ tấm bảng: **無理!** **わがまま!** **それがプロ!**\n\nKhác với 「ものだ」 (nói chung chung về bản chất), 「というものだ」 luôn **gắn với tình huống đang bàn**, thường mở đầu bằng 「それは／そんなの／〜なんて／〜のは」.\n\nCó hai hướng dùng:\n- **Phê phán**: 「{連絡|れんらく}もしないで{休|やす}むなんて、{無責任|むせきにん}というものだ」 — Nghỉ mà không báo thì thật là vô trách nhiệm.\n- **Khẳng định giá trị**: 「それが{本当|ほんとう}の{優|やさ}しさというものだ」 — Đó mới chính là sự tử tế thật sự.\n\nTừ hay đi kèm: 無理・無茶・わがまま・身勝手・無責任・迷惑・非常識・当然・親心・友情・愛・プロ.",
+      "nuance": "- Là **đánh giá theo lẽ thường**, mang tính lý trí — **không dùng để bày tỏ cảm xúc riêng** (✗ うれしいというものだ, ✗ 悲しいというものだ).\n- Văn phong hơi cứng, hay gặp khi tranh luận, phê bình, viết bình luận.\n- Thêm 「だろう」 để làm mềm: 「〜というものだろう」.\n- Đừng nhầm với 「〜というものではない」 (12課) — đó là phủ định một quan niệm \"cứ… là…\", không phải dạng phủ định của mẫu này.",
+      "examples": [
+        {"ja": "{締|し}め{切|き}りの{前日|ぜんじつ}に{仕様|しよう}を{全部|ぜんぶ}{変|か}えろというのは、{無茶|むちゃ}というものだ。", "vi": "Ngay trước hạn chót một ngày mà bắt đổi toàn bộ thông số thì đúng là quá quắt.", "note": "Phê phán · な形 ＋ というものだ (không có だ)"},
+        {"ja": "{会議|かいぎ}に{一度|いちど}も{出|で}ないで、{決|き}まったことに{文句|もんく}を{言|い}うのは{身勝手|みがって}というものだ。", "vi": "Không dự cuộc họp lần nào mà lại phàn nàn về những điều đã quyết thì thật là ích kỷ.", "note": "〜のは〜というものだ"},
+        {"ja": "{困|こま}ったときに{黙|だま}って{手|て}を{貸|か}してくれる。それが{本当|ほんとう}の{友情|ゆうじょう}というものだ。", "vi": "Khi mình gặp khó thì lặng lẽ giúp một tay. Đó mới chính là tình bạn thật sự.", "note": "Khẳng định giá trị: それが〜というものだ"},
+        {"ja": "{子|こ}どもの{将来|しょうらい}を{思|おも}って、あえて{厳|きび}しくする。それが{親心|おやごころ}というものだろう。", "vi": "Vì nghĩ cho tương lai của con mà cố tình nghiêm khắc. Có lẽ đó chính là tấm lòng cha mẹ.", "note": "〜というものだろう: làm mềm"},
+        {"ja": "せっかくここまで{来|き}たのに、{今|いま}{諦|あきら}めるのはもったいないというものだ。", "vi": "Đã cất công đến được đây rồi mà giờ bỏ cuộc thì thật là phí.", "note": "い形 ＋ というものだ: đánh giá theo lẽ thường"}
+      ],
+      "compare": [
+        {"with": "〜ものだ (b23-1)", "diff": "「ものだ」 = chân lý chung (人間は〜ものだ), không có tình huống cụ thể. 「というものだ」 = đánh giá **một trường hợp cụ thể** (それは〜というものだ)."},
+        {"with": "〜というものではない (12課)", "diff": "「お{金|かね}があれば{幸|しあわ}せというものではない」 = không phải cứ có tiền là hạnh phúc — bác bỏ một quan niệm chung. Nghĩa và chức năng khác hẳn 「というものだ」."},
+        {"with": "〜に違いない／〜はずだ", "diff": "Đó là **suy đoán**. 「というものだ」 là **đánh giá**, người nói không đoán gì cả mà phán xét việc đã rõ."}
+      ],
+      "mistakes": [
+        "✗ {試験|しけん}に{合格|ごうかく}できて、うれしいというものだ。→ ○ 合格できて本当にうれしい。(cảm xúc cá nhân, không dùng というものだ)",
+        "✗ それは{無理|むり}だというものだ。→ ○ それは無理というものだ。(な形・N thường bỏ だ)"
+      ],
+      "tip": "Câu có 「それは／そんなの／〜なんて」 + một từ **đánh giá** (無理・わがまま・迷惑・身勝手・当然) trước chỗ trống, hoặc 「それが」 + danh từ giá trị (友情・愛・親心・プロ) → 「というものだ」."
+    },
+    {
+      "id": "b23-3",
+      "pattern": "〜にすぎない",
+      "reading": "〜にすぎない",
+      "meaning": "Chỉ là… mà thôi, chẳng qua chỉ là… (không hơn)",
+      "structure": ["N ＋ にすぎない", "V普通形 ＋ にすぎない", "な形 ＋ である ＋ にすぎない (không nối thẳng: ✗ 有名にすぎない)", "N ＋ である ＋ にすぎない", "Văn viết nối câu: 〜にすぎず、…"],
+      "explain": "Gốc: 過ぎる (vượt quá) + ない → \"**không vượt quá** mức đó\" → chỉ đến thế thôi. Người nói **cố tình hạ thấp**: cho rằng con số nhỏ, việc không quan trọng, người không có gì đặc biệt.\n\n- **Con số nhỏ**: 「{賛成|さんせい}した{人|ひと}は{全体|ぜんたい}の5%にすぎない」 — Người tán thành chỉ chiếm 5%.\n- **Thân phận, vị trí**: 「{私|わたし}は{一|いち}{社員|しゃいん}にすぎない」 — Tôi chỉ là một nhân viên quèn.\n- **Hành động (khiêm tốn)**: 「{少|すこ}し{手伝|てつだ}ったにすぎません」 — Tôi chỉ giúp một chút thôi.\n- **Lời nói, tin tức (không đáng tin)**: 「それは{噂|うわさ}にすぎない」 — Đó chỉ là tin đồn.\n\nHay đi cùng **ただ／単に／ほんの／わずか／たった** để nhấn thêm chữ \"chỉ\".",
+      "nuance": "- Văn viết, hơi cứng; hội thoại thường dùng 「〜だけだ」, lịch sự/khiêm tốn thì 「〜にすぎません」.\n- Luôn mang sắc thái **đánh giá thấp** (ít, nhỏ, không đáng kể). Không dùng khi muốn nói số lượng là **nhiều / đáng kể**.\n- 「〜だけだ」 trung tính hơn; 「にすぎない」 có ý \"chẳng có gì to tát\" rõ hơn.",
+      "examples": [
+        {"ja": "{日本|にほん}の{食料|しょくりょう}{自給率|じきゅうりつ}は、カロリーベースで{約|やく}38%にすぎない。", "vi": "Tỷ lệ tự cung lương thực của Nhật tính theo calo chỉ khoảng 38%.", "note": "Con số nhỏ · văn tin tức"},
+        {"ja": "{私|わたし}はただのアルバイトにすぎないので、{値引|ねび}きするかどうかは{決|き}められません。", "vi": "Tôi chỉ là nhân viên làm thêm nên không thể quyết định có giảm giá hay không.", "note": "ただの N ＋ にすぎない"},
+        {"ja": "ネットに{出回|でまわ}っている{情報|じょうほう}は{噂|うわさ}にすぎない。{信|しん}じないほうがいい。", "vi": "Thông tin lan truyền trên mạng chỉ là tin đồn. Đừng tin thì hơn.", "note": ""},
+        {"ja": "{今回|こんかい}の{成功|せいこう}はチーム{全員|ぜんいん}の{力|ちから}によるもので、{私|わたし}は{少|すこ}し{手伝|てつだ}ったにすぎません。", "vi": "Thành công lần này là nhờ sức của cả đội, tôi chỉ giúp một chút thôi.", "note": "Vた ＋ にすぎない · khiêm tốn"},
+        {"ja": "{彼|かれ}が{言|い}っていることは、{責任|せきにん}を{逃|のが}れるための{言|い}い{訳|わけ}にすぎない。", "vi": "Những gì anh ta nói chẳng qua chỉ là lời bào chữa để trốn tránh trách nhiệm.", "note": ""},
+        {"ja": "{一度|いちど}{勝|か}てたのは{偶然|ぐうぜん}にすぎず、{実力|じつりょく}とは{言|い}えない。", "vi": "Thắng được một lần chỉ là ngẫu nhiên, chưa thể gọi là thực lực.", "note": "にすぎず、〜: văn viết, nối câu"}
+      ],
+      "compare": [
+        {"with": "〜にほかならない (b23-4)", "diff": "Ngược hướng: 「にすぎない」 = \"chỉ là X\" (**hạ thấp**); 「にほかならない」 = \"chính là X, không gì khác\" (**khẳng định, nâng tầm**)."},
+        {"with": "〜だけだ", "diff": "Nghĩa gần nhau. 「だけだ」 trung tính, văn nói; 「にすぎない」 cứng hơn và rõ ý \"không đáng kể\"."},
+        {"with": "N しかない", "diff": "「3{人|にん}しかいない」 (chỉ có 3 người) — しか + phủ định của động từ. 「3人にすぎない」 nối thẳng sau danh từ, văn viết."}
+      ],
+      "mistakes": [
+        "✗ {参加者|さんかしゃ}は1{万|まん}{人|にん}にすぎず、{大成功|だいせいこう}だった。→ ○ 参加者は1万人にも上り、大成功だった。(にすぎない = ít, mâu thuẫn với \"thành công lớn\")",
+        "✗ {彼|かれ}は{学生|がくせい}だにすぎない。→ ○ 学生にすぎない／学生であるにすぎない",
+        "✗ {今回|こんかい}の{値上|ねあ}がりは{一時的|いちじてき}にすぎない。→ ○ 一時的であるにすぎない／一時的なものにすぎない (な形 phải đi qua である)"
+      ],
+      "tip": "Thấy ただ・単に・ほんの・わずか・たった hoặc ngữ cảnh khiêm tốn / coi nhẹ → 「にすぎない」. Nếu câu muốn nhấn \"chính là, không gì khác\" (thường có まさに) → 「にほかならない」."
+    },
+    {
+      "id": "b23-4",
+      "pattern": "〜にほかならない",
+      "reading": "〜にほかならない",
+      "meaning": "Chính là…, không gì khác ngoài… (khẳng định dứt khoát)",
+      "structure": ["N ＋ にほかならない", "普通形 ＋ から ＋ にほかならない (chính là vì…)", "Khuôn hay gặp: AのはBにほかならない／AとはBにほかならない"],
+      "explain": "ほか = cái khác; ならない = không thể là. Ghép lại: \"**không thể là cái gì khác ngoài X**\" → X chính là câu trả lời duy nhất. Người nói **khẳng định dứt khoát** bản chất, nguyên nhân thật của sự việc.\n\nKhuôn hay gặp nhất: 「**AのはBにほかならない**」 = \"A (xảy ra) chính là vì / chính là B\".\n\n- **N ＋ にほかならない**: 「{合格|ごうかく}は{努力|どりょく}の{結果|けっか}にほかならない」 — Thi đỗ chính là kết quả của nỗ lực.\n- **〜から ＋ にほかならない** (nêu lý do thật): 「{先生|せんせい}が{厳|きび}しいのは、{君|きみ}に{期待|きたい}しているからにほかならない」 — Thầy nghiêm khắc chính là vì kỳ vọng ở em.\n- **AとはBにほかならない** (định nghĩa): 「{教育|きょういく}とは{未来|みらい}への{投資|とうし}にほかならない」.\n\nHay đi với 「まさに」 ở trước để nhấn thêm.",
+      "nuance": "- **Văn cứng, văn viết**: diễn văn, bài luận, bình luận báo chí. Không dùng cho chuyện vặt.\n- Là **khẳng định**, không phải phỏng đoán — không dùng cho tương lai chưa biết.\n- Mệnh đề (động từ, tính từ) phải đi qua 「から」 hoặc 「こと」: 〜からにほかならない／〜ことにほかならない.",
+      "examples": [
+        {"ja": "この{賞|しょう}をいただけたのは、{支|ささ}えてくれたスタッフのおかげにほかなりません。", "vi": "Việc tôi nhận được giải thưởng này chính là nhờ các nhân viên đã hỗ trợ tôi.", "note": "〜のは〜おかげにほかならない · phát biểu nhận giải"},
+        {"ja": "{失敗|しっぱい}を{恐|おそ}れて{何|なに}もしないのは、{成長|せいちょう}の{機会|きかい}を{捨|す}てることにほかならない。", "vi": "Sợ thất bại mà không làm gì thì chính là vứt bỏ cơ hội trưởng thành.", "note": "Vこと ＋ にほかならない"},
+        {"ja": "{親|おや}が{口|くち}うるさく{言|い}うのは、{子|こ}どもを{心配|しんぱい}しているからにほかならない。", "vi": "Bố mẹ hay cằn nhằn chính là vì lo cho con.", "note": "〜から ＋ にほかならない"},
+        {"ja": "{今回|こんかい}の{事故|じこ}は、{安全|あんぜん}{確認|かくにん}を{怠|おこた}ったことによる{人災|じんさい}にほかならない。", "vi": "Vụ tai nạn lần này không gì khác chính là thảm hoạ do con người gây ra vì lơ là kiểm tra an toàn.", "note": "Văn bình luận, tin tức"},
+        {"ja": "{読書|どくしょ}とは、{著者|ちょしゃ}との{対話|たいわ}にほかならない。", "vi": "Đọc sách chính là một cuộc đối thoại với tác giả.", "note": "〜とは〜にほかならない: định nghĩa"}
+      ],
+      "compare": [
+        {"with": "〜にすぎない (b23-3)", "diff": "「にすぎない」 hạ thấp (\"chỉ là\"), 「にほかならない」 khẳng định, tôn lên (\"chính là\"). Có 「まさに」 → chỉ hợp với にほかならない."},
+        {"with": "〜に違いない (22課)", "diff": "「に違いない」 = **phỏng đoán** chắc chắn (\"chắc chắn là\"). 「にほかならない」 = **khẳng định bản chất / nguyên nhân** của điều đã biết, không phải đoán."},
+        {"with": "〜ほかない (b23-6)", "diff": "Cùng chữ ほか nhưng 「V辞書形＋ほかない」 = \"chỉ còn cách V\". 「N＋にほかならない」 = \"chính là N\". Nhìn vào chữ 「に」 và chữ 「なら」."}
+      ],
+      "mistakes": [
+        "✗ {明日|あした}は{雨|あめ}にほかならない。→ ○ 明日は雨に違いない。(dự đoán thì dùng に違いない)",
+        "✗ {合格|ごうかく}したのは{努力|どりょく}したにほかならない。→ ○ 努力したからにほかならない (mệnh đề phải đi qua から)",
+        "✗ {成功|せいこう}の{鍵|かぎ}は{努力|どりょく}であるにほかならない。→ ○ 努力にほかならない (N nối thẳng, không chèn である／だ)"
+      ],
+      "tip": "Khuôn 「〜のは、〜（から）＿＿」 ở cuối câu nghị luận → nghĩ ngay tới 「にほかならない」. Nếu phương án có cả にすぎない và にほかならない → xem câu muốn **coi nhẹ** hay **khẳng định / tôn lên**."
+    },
+    {
+      "id": "b23-5",
+      "pattern": "〜に越したことはない",
+      "reading": "〜にこしたことはない",
+      "meaning": "… là tốt nhất, được… thì còn gì bằng (nhưng không bắt buộc)",
+      "structure": ["V辞書形／Vない形 ＋ に越したことはない", "い形 ＋ に越したことはない", "な形／N ＋ (である) ＋ に越したことはない", "Cụm cố định: それに越したことはない／用心に越したことはない"],
+      "explain": "越す = vượt qua. \"**Không có gì vượt qua được X**\" → X là tốt nhất.\n\nNhưng sắc thái then chốt là: **không phải tuyệt đối phải như vậy**, chỉ là \"được thế thì tốt hơn cả\" — một điều **hiển nhiên ai cũng đồng ý** (rẻ thì tốt, an toàn thì tốt, đến sớm thì tốt).\n\nVì thế mẫu này rất hay có:\n- **もちろん／できれば** ở phía trước,\n- **が／けれど** ở phía sau để quay về thực tế: 「お{金|かね}はあるに{越|こ}したことはないが、それがすべてではない」 — Tiền thì có vẫn hơn, nhưng đó không phải là tất cả.\n\nHai cụm nên thuộc lòng: 「**用心に越したことはない**」 (cẩn thận vẫn hơn) và 「**それに越したことはない**」 (thế thì còn gì bằng).",
+      "nuance": "- Giọng điềm đạm, dùng cả nói lẫn viết. Nội dung là **lẽ thường chung**, không phải sở thích kỳ lạ của cá nhân.\n- Chỉ dùng **thể hiện tại** (không có 〜たに越したことはない).\n- **Không dùng cho điều bắt buộc**: muốn nói \"phải\" thì dùng なければならない／べきだ.",
+      "examples": [
+        {"ja": "{部屋|へや}は{広|ひろ}いに{越|こ}したことはないが、{家賃|やちん}が{高|たか}くなるのは{困|こま}る。", "vi": "Phòng thì rộng là tốt nhất, nhưng tiền thuê cao lên thì khổ.", "note": "い形 ＋ に越したことはない ＋ が"},
+        {"ja": "{地震|じしん}はいつ{来|く}るかわからない。{用心|ようじん}するに{越|こ}したことはない。", "vi": "Động đất chẳng biết lúc nào sẽ đến. Cẩn thận vẫn hơn.", "note": ""},
+        {"ja": "{契約書|けいやくしょ}の{内容|ないよう}は、{専門家|せんもんか}に{確認|かくにん}してもらうに{越|こ}したことはない。", "vi": "Nội dung hợp đồng thì nhờ chuyên gia kiểm tra là tốt nhất.", "note": ""},
+        {"ja": "{薬|くすり}は{飲|の}まないに{越|こ}したことはないが、{痛|いた}みがひどいときは{我慢|がまん}しないでください。", "vi": "Thuốc thì không phải uống là tốt nhất, nhưng khi đau nhiều thì đừng cố chịu.", "note": "Vない ＋ に越したことはない"},
+        {"ja": "{報道|ほうどう}の{情報|じょうほう}は{正確|せいかく}であるに{越|こ}したことはないが、{速|はや}さも{求|もと}められる。", "vi": "Thông tin báo chí thì chính xác là tốt nhất, nhưng tốc độ cũng được đòi hỏi.", "note": "な形 ＋ である ＋ に越したことはない"},
+        {"ja": "A「{会議|かいぎ}、30{分|ぷん}で{終|お}わるといいね。」B「それに{越|こ}したことはないけど、{無理|むり}だろうね。」", "vi": "A: \"Họp được 30 phút là xong thì hay nhỉ.\" B: \"Thế thì còn gì bằng, nhưng chắc không được đâu.\"", "note": "それに越したことはない: cụm cố định"}
+      ],
+      "compare": [
+        {"with": "〜ほうがいい", "diff": "「ほうがいい」 = lời khuyên trực tiếp cho người nghe trong tình huống cụ thể. 「に越したことはない」 = nêu lẽ thường chung \"được vậy thì tốt nhất\", nhẹ và khách quan hơn, thường kèm \"nhưng…\"."},
+        {"with": "〜べきだ (b23-7)", "diff": "「べきだ」 = nên / phải (lẽ phải, mạnh). 「に越したことはない」 = **không bắt buộc**, chỉ là tốt hơn."},
+        {"with": "〜に限る (N3)", "diff": "「{疲|つか}れたときは{寝|ね}るに{限|かぎ}る」 = \"… là nhất\" — ý kiến tâm đắc, chủ quan của người nói. 「に越したことはない」 = điều ai cũng đồng ý, giọng dè dặt."}
+      ],
+      "mistakes": [
+        "✗ {昨日|きのう}は{早|はや}く{寝|ね}たに{越|こ}したことはない。→ ○ 試験の前は早く寝るに越したことはない。(không dùng thể た)",
+        "✗ {書類|しょるい}は{明日|あした}までに{必|かなら}ず{出|だ}すに{越|こ}したことはない。→ ○ 必ず出さなければならない。(điều bắt buộc)"
+      ],
+      "tip": "Thấy 「もちろん／できれば」 ở trước và 「が／けど」 ngay sau chỗ trống (quay về thực tế) → 「に越したことはない」. Thuộc lòng 「用心に越したことはない」."
+    },
+    {
+      "id": "b23-6",
+      "pattern": "〜しかない・〜よりほかない",
+      "reading": "〜しかない・〜よりほかない",
+      "meaning": "Chỉ còn cách…, đành phải… (không có lựa chọn khác)",
+      "structure": ["V辞書形 ＋ しかない", "V辞書形 ＋ よりほかない／ほかない／ほかはない", "Văn viết: V辞書形 ＋ よりほか(に)しかたがない"],
+      "explain": "Hình dung đứng trước ngã ba mà **mọi lối khác đều bị chặn, chỉ còn một con đường**. 「しかない」 = \"ngoài việc V ra thì không còn (cách nào)\"; 「よりほかない」 = \"không có cách nào khác hơn V\".\n\nCó hai sắc thái:\n- **Bất đắc dĩ, cam chịu** (nghĩa chính): 「{終電|しゅうでん}が{出|で}てしまった。タクシーで{帰|かえ}るしかない」 — Lỡ chuyến tàu cuối rồi, đành đi taxi về.\n- **Quyết tâm / chủ động chọn vì quá hợp**: 「ここまで{来|き}たら、やるしかない！」 (Đến nước này rồi thì chỉ có làm thôi!); 「{好|す}きなバンドが{近所|きんじょ}でライブ？ {行|い}くしかない！」 (phải đi thôi!).\n\nCâu phía trước thường nêu **tình huống bế tắc**: 〜てしまった、〜以上、〜なら、ここまで来たら…",
+      "nuance": "- 「しかない」: rất thông dụng, cả nói lẫn viết. 「よりほかない／ほかはない」: cứng hơn, thiên về văn viết.\n- Chủ ngữ thường là người nói / chúng ta.\n- Đừng nhầm với 「N しかない」 = \"chỉ có N\" (お金が千円しかない) — đó là trợ từ しか nói về **số lượng**. Mẫu này là **V辞書形 ＋ しかない** nói về **cách làm**.",
+      "examples": [
+        {"ja": "{最終|さいしゅう}バスに{乗|の}り{遅|おく}れてしまった。{駅|えき}まで{歩|ある}くしかない。", "vi": "Lỡ mất chuyến xe buýt cuối rồi. Chỉ còn cách đi bộ ra ga.", "note": "Bất đắc dĩ"},
+        {"ja": "{自分|じぶん}で{選|えら}んだ{道|みち}なのだから、{最後|さいご}まで{頑張|がんば}るしかない。", "vi": "Là con đường mình tự chọn nên chỉ còn cách cố gắng đến cùng.", "note": "Quyết tâm"},
+        {"ja": "{部品|ぶひん}が{届|とど}かない{以上|いじょう}、{生産|せいさん}を{一時|いちじ}{停止|ていし}するよりほかない。", "vi": "Một khi linh kiện chưa về thì đành phải tạm ngừng sản xuất.", "note": "〜以上、〜よりほかない · văn công việc"},
+        {"ja": "{医者|いしゃ}に{手術|しゅじゅつ}が{必要|ひつよう}だと{言|い}われたら、{受|う}けるほかはないだろう。", "vi": "Nếu bác sĩ bảo cần phải mổ thì có lẽ chỉ còn cách chấp nhận thôi.", "note": "ほかはない"},
+        {"ja": "{大好|だいす}きなバンドが{地元|じもと}でライブをするなんて、これは{行|い}くしかない！", "vi": "Ban nhạc mình mê lại diễn ngay ở quê nhà, thế thì phải đi thôi!", "note": "Chủ động chọn, giọng hào hứng"},
+        {"ja": "{誰|だれ}も{手伝|てつだ}ってくれないなら、{一人|ひとり}でやるよりほかにしかたがない。", "vi": "Nếu không ai giúp thì đành phải tự làm một mình chứ biết sao.", "note": "よりほか(に)しかたがない"}
+      ],
+      "compare": [
+        {"with": "〜ざるを得ない (25課)", "diff": "Cũng là \"buộc phải\", nhưng 「ざるを得ない」 nhấn **áp lực từ bên ngoài ép mình làm trái ý muốn**, văn cứng. 「しかない」 đơn giản là \"không còn lựa chọn khác\", và còn có nghĩa hào hứng \"phải làm thôi!\"."},
+        {"with": "〜にほかならない (b23-4)", "diff": "「Vよりほかない」 = chỉ còn cách V. 「Nにほかならない」 = chính là N. Có 「より」 trước chỗ trống → đáp án là 「ほかない」."},
+        {"with": "〜に越したことはない (b23-5)", "diff": "「に越したことはない」 = có nhiều lựa chọn, cái này tốt nhất. 「しかない」 = chỉ còn **một** lựa chọn duy nhất."}
+      ],
+      "mistakes": [
+        "✗ {諦|あきら}めたしかない。→ ○ 諦めるしかない。(luôn là V辞書形)",
+        "✗ {帰|かえ}るよりほかならない。→ ○ 帰るよりほかない。(ほかならない là mẫu khác)"
+      ],
+      "tip": "Câu trước nêu tình huống bế tắc (〜てしまった・〜以上・〜なら・ここまで来たら) → 「しかない／ほかない」. Thấy 「より」 ngay trước chỗ trống → chọn 「ほかない」, không chọn 「ほかならない」."
+    },
+    {
+      "id": "b23-7",
+      "pattern": "〜べきだ／〜べきではない",
+      "reading": "〜べきだ／〜べきではない",
+      "meaning": "Nên…, phải… / không nên… (theo lẽ phải, quan điểm của người nói)",
+      "structure": ["V辞書形 ＋ べきだ／べきではない", "する → するべき／すべき", "V辞書形 ＋ べき ＋ N (読むべき本)", "V辞書形 ＋ べきだった (đáng lẽ nên…)", "い形 → 〜くあるべきだ; な形／N → 〜であるべきだ"],
+      "explain": "「べき」 = \"đó là điều **đúng đắn, hợp lẽ phải** cần làm\" theo **quan điểm đạo lý của người nói**. Mạnh hơn 「ほうがいい」, mang màu **chủ trương, quan điểm**.\n\n- **〜べきだ**: nên / phải — 「{約束|やくそく}は{守|まも}るべきだ」.\n- **〜べきではない**: không nên — 「{人|ひと}の{悪口|わるぐち}は{言|い}うべきではない」. (Không nói ✗ 言わないべきだ.)\n- **〜べきだった**: đáng lẽ đã nên… (hối tiếc / trách) — 「もっと{早|はや}く{相談|そうだん}するべきだった」.\n- **〜べき ＋ N**: N cần / đáng để… — 「{読|よ}むべき{本|ほん}」 (sách nên đọc), 「{目指|めざ}すべき{社会|しゃかい}」 (xã hội cần hướng tới), 「{本来|ほんらい}あるべき{姿|すがた}」 (hình mẫu vốn phải có).\n\nCách nhớ: べき là **lẽ phải** (người nói thấy đúng), không phải **luật** (quy định bắt buộc).",
+      "nuance": "- Là **chủ trương của người nói** → không dùng cho điều do **luật, quy định** đặt ra (khi đó dùng 〜なければならない／〜てはいけない／〜禁止).\n- **Tránh nói thẳng với người trên** (sếp, thầy, khách) vì nghe như dạy đời; nên nói 「〜たほうがよろしいのではないでしょうか」.\n- Chỉ đi với hành động có chủ ý; không dùng cho hiện tượng tự nhiên (✗ 雨が降るべきだ).\n- 「すべき」 nghe văn viết hơn 「するべき」, nghĩa như nhau.",
+      "examples": [
+        {"ja": "{一度|いちど}{引|ひ}き{受|う}けた{仕事|しごと}は、{最後|さいご}まで{責任|せきにん}を{持|も}つべきだ。", "vi": "Công việc đã nhận thì phải có trách nhiệm đến cùng.", "note": ""},
+        {"ja": "{子|こ}どもの{前|まえ}で{夫婦|ふうふ}げんかをするべきではない。", "vi": "Vợ chồng không nên cãi nhau trước mặt con cái.", "note": "べきではない (phủ định đặt ở cuối)"},
+        {"ja": "{雨|あめ}の{予報|よほう}が{出|で}ていたんだから、{傘|かさ}を{持|も}ってくるべきだった。", "vi": "Dự báo đã có mưa thì đáng lẽ phải mang ô theo.", "note": "べきだった: hối tiếc"},
+        {"ja": "{高齢化|こうれいか}が{進|すす}む{中|なか}で、{国|くに}が{優先|ゆうせん}すべき{課題|かだい}は{何|なん}だろうか。", "vi": "Trong bối cảnh già hoá dân số ngày càng tăng, vấn đề mà nhà nước cần ưu tiên là gì?", "note": "すべき ＋ N"},
+        {"ja": "{学生|がくせい}のうちに{読|よ}んでおくべき{本|ほん}を、{先生|せんせい}に{教|おし}えていただいた。", "vi": "Tôi được thầy chỉ cho những cuốn sách nên đọc khi còn là sinh viên.", "note": "Vておく ＋ べき ＋ N"},
+        {"ja": "{教師|きょうし}はどの{生徒|せいと}に{対|たい}しても{公平|こうへい}であるべきだ。", "vi": "Giáo viên phải công bằng với mọi học sinh.", "note": "な形 ＋ であるべきだ"}
+      ],
+      "compare": [
+        {"with": "〜ほうがいい", "diff": "「ほうがいい」 = lời khuyên mềm, cụ thể (thuốc, ô, áo khoác…). 「べきだ」 = lẽ phải, mạnh hơn, có thể nghe như phán xét."},
+        {"with": "〜なければならない", "diff": "「なければならない」 = phải vì **nghĩa vụ, quy định, hoàn cảnh** (khách quan). 「べきだ」 = phải vì người nói cho là **đúng** (chủ quan). Luật, nội quy → なければならない／てはいけない."},
+        {"with": "〜ものだ (24課)", "diff": "「ものだ」 (24課) khuyên theo **phép tắc xã hội chung**, giọng mềm, chung chung. 「べきだ」 là **ý kiến riêng** của người nói, áp được vào vấn đề cụ thể: 「{政府|せいふ}は{税金|ぜいきん}の{使|つか}い{道|みち}を{公開|こうかい}すべきだ」."}
+      ],
+      "mistakes": [
+        "✗ {人|ひと}の{悪口|わるぐち}を{言|い}わないべきだ。→ ○ 言うべきではない。",
+        "✗ (thông báo của toà nhà) {館内|かんない}でたばこを{吸|す}うべきではありません。→ ○ 館内は禁煙です。(quy định → không dùng べき)",
+        "✗ (nói với sếp) {部長|ぶちょう}、{会議|かいぎ}を{延期|えんき}するべきです。→ ○ 延期したほうがよろしいのではないでしょうか。"
+      ],
+      "tip": "Đề hay hỏi dạng nối: する → **すべき／するべき**; phủ định → **べきではない** (không phải ないべき); bổ nghĩa → **べき ＋ N**; hối tiếc → **べきだった**. Ngữ cảnh là luật, nội quy → loại べき."
+    }
+  ],
+  "summary": [
+    {"pattern": "〜ものだ", "meaning": "vốn dĩ là vậy (chân lý chung)", "key": "chủ ngữ chung; không dùng thể た; ≠ ものだ 24課・26課"},
+    {"pattern": "〜というものだ", "meaning": "thế là… / thế mới là…", "key": "đánh giá việc cụ thể; それは無理というものだ; không dùng cho cảm xúc"},
+    {"pattern": "〜にすぎない", "meaning": "chỉ là… thôi", "key": "hạ thấp; ただ・わずか・ほんの; khiêm tốn"},
+    {"pattern": "〜にほかならない", "meaning": "chính là…", "key": "khẳng định mạnh; 〜のは〜からにほかならない; văn cứng"},
+    {"pattern": "〜に越したことはない", "meaning": "… là tốt nhất (không bắt buộc)", "key": "lẽ thường; thường + が…; 用心に越したことはない"},
+    {"pattern": "〜しかない・〜よりほかない", "meaning": "chỉ còn cách…", "key": "V辞書形; tình huống bế tắc / quyết tâm"},
+    {"pattern": "〜べきだ／〜べきではない", "meaning": "nên / không nên (lẽ phải)", "key": "すべき; べきではない; べきだった; べき＋N; không dùng cho luật"}
+  ],
+  "quiz": [
+    {"id": "b23-q1", "kind": "form", "ref": "b23-1", "q": "{人間|にんげん}は{誰|だれ}でも、{自分|じぶん}の{欠点|けってん}にはなかなか{気|き}づかない（　　）。", "options": ["ものだ", "というものだ", "にすぎない", "べきだ"], "answer": 0, "vi": "Con người ai cũng vậy, khó mà nhận ra khuyết điểm của chính mình.", "why": "Chủ ngữ chung (人間は誰でも), nêu bản chất con người → **ものだ**. 「というものだ」 dùng để đánh giá một việc cụ thể (それは〜というものだ), không hợp câu nói chung về con người; 「にすぎない」 (chỉ là) không hợp nghĩa; 「べきだ」 không nối với Vない (phải là べきではない) và nghĩa \"không nên nhận ra\" thì vô lý."},
+    {"id": "b23-q2", "kind": "form", "ref": "b23-2", "q": "{約束|やくそく}の{時間|じかん}に2{時間|じかん}も{遅|おく}れてきて{謝|あやま}りもしないなんて、それは{非常識|ひじょうしき}（　　）。", "options": ["にすぎない", "というものだ", "に越したことはない", "しかない"], "answer": 1, "vi": "Đến trễ hẹn tận 2 tiếng mà còn không xin lỗi, thế thì đúng là thiếu ý thức.", "why": "「〜なんて、それは」 + từ đánh giá 「非常識」 → đánh giá việc cụ thể theo lẽ thường → **というものだ**. 「にすぎない」 lại hạ nhẹ vấn đề (chỉ là thiếu ý thức thôi) — trái với giọng phê phán; 「に越したことはない」 = \"thiếu ý thức là tốt nhất\" vô lý; 「しかない」 cần V辞書形."},
+    {"id": "b23-q3", "kind": "form", "ref": "b23-3", "q": "{今回|こんかい}の{調査|ちょうさ}で「{毎日|まいにち}{運動|うんどう}している」と{答|こた}えた{人|ひと}は、{全体|ぜんたい}のわずか8%（　　）。", "options": ["にほかならなかった", "に越したことはなかった", "にすぎなかった", "というものだった"], "answer": 2, "vi": "Trong cuộc khảo sát lần này, số người trả lời \"ngày nào cũng vận động\" chỉ chiếm vỏn vẹn 8%.", "why": "「わずか」 + con số nhỏ → **にすぎなかった** (chỉ…). 「にほかならない」 = \"chính là\", không đi với わずか; 「に越したことはない」 = tốt nhất là, vô nghĩa ở đây; 「というものだ」 là đánh giá theo lẽ thường, không dùng để báo con số."},
+    {"id": "b23-q4", "kind": "form", "ref": "b23-4", "q": "{彼|かれ}がこれほど{短期間|たんきかん}で{上達|じょうたつ}したのは、{毎日|まいにち}の{地道|じみち}な{努力|どりょく}の{結果|けっか}（　　）。", "options": ["に越したことはない", "よりほかない", "にほかならない", "べきだ"], "answer": 2, "vi": "Việc anh ấy tiến bộ trong thời gian ngắn như vậy chính là kết quả của nỗ lực bền bỉ mỗi ngày.", "why": "Khuôn 「〜のは、N（結果）＿＿」: khẳng định nguyên nhân thật → **にほかならない**. 「よりほかない」 phải nối V辞書形; 「結果に越したことはない」 (kết quả là tốt nhất) vô nghĩa; 「べきだ」 không nối trực tiếp sau danh từ (phải là であるべきだ) và nghĩa \"nên\" không hợp."},
+    {"id": "b23-q5", "kind": "form", "ref": "b23-5", "q": "{夜道|よみち}を{一人|ひとり}で{歩|ある}くときは、{気|き}をつける（　　）。", "options": ["にほかならない", "にすぎない", "というものだ", "に越したことはない"], "answer": 3, "vi": "Khi đi bộ một mình trên đường đêm thì cẩn thận vẫn hơn.", "why": "Lời khuyên theo lẽ thường \"cẩn thận là tốt nhất\" → **に越したことはない**. 「にほかならない」 cần N hoặc 〜から; 「にすぎない」 (chỉ là cẩn thận thôi) vô nghĩa; 「というものだ」 dùng để đánh giá một hành vi đã có, không dùng để khuyên."},
+    {"id": "b23-q6", "kind": "form", "ref": "b23-6", "q": "{台風|たいふう}で{飛行機|ひこうき}が{全便|ぜんびん}{欠航|けっこう}になってしまった。{今夜|こんや}は{空港|くうこう}の{近|ちか}くのホテルに{泊|と}まる（　　）。", "options": ["べきではない", "しかない", "にすぎない", "ものだ"], "answer": 1, "vi": "Vì bão mà toàn bộ chuyến bay bị huỷ. Tối nay đành phải ngủ ở khách sạn gần sân bay thôi.", "why": "Tình huống bế tắc (〜てしまった) → không còn lựa chọn khác → **しかない**. 「べきではない」 trái nghĩa với tình huống; 「にすぎない」 (chỉ là ngủ khách sạn) không hợp; 「ものだ」 biến câu thành chân lý chung \"người ta vốn ngủ khách sạn\" — sai, đây là chuyện cụ thể tối nay."},
+    {"id": "b23-q7", "kind": "order", "ref": "b23-7", "q": "{自分|じぶん}の{間違|まちが}いに{気|き}づいたら、＿＿＿ ＿＿＿ ★ ＿＿＿ と{思|おも}う。", "options": ["謝る", "べきだ", "言い訳を", "しないで"], "order": [2, 3, 0, 1], "answer": 0, "vi": "Tôi nghĩ khi nhận ra lỗi của mình thì nên xin lỗi mà không bào chữa.", "why": "Câu đúng: 自分の間違いに気づいたら、**言い訳を しないで 謝る べきだ** と思う → ★ (ô thứ 3) = 「謝る」. 「べき」 đứng ngay sau V辞書形 (謝る); 「言い訳を」 cần động từ 「しないで」 ngay sau."}
+  ],
+  "practice": [
+    {"id": "b23-p1", "kind": "form", "ref": "b23-1", "q": "{高|たか}い{薬|くすり}を{飲|の}んでも、{風邪|かぜ}はそう{簡単|かんたん}には{治|なお}らない（　　）。{結局|けっきょく}は{休|やす}むのが{一番|いちばん}だ。", "options": ["べきだ", "ものだ", "にほかならない", "よりほかない"], "answer": 1, "vi": "Dù uống thuốc đắt tiền thì cảm cúm vốn dĩ cũng chẳng khỏi dễ dàng như vậy. Rốt cuộc nghỉ ngơi là tốt nhất.", "why": "Nêu quy luật chung (〜ても〜ない) → **ものだ**. 「べきだ」 không nối với Vない; 「にほかならない」 cần N hoặc 〜から; 「よりほかない」 chỉ nối V辞書形 của hành động có chủ ý (cách giải quyết), không nối với 治らない."},
+    {"id": "b23-p2", "kind": "form", "ref": "b23-2", "q": "{言葉|ことば}にされなくても、{客|きゃく}が{何|なに}を{求|もと}めているかを{察|さっ}して{動|うご}く。それがプロ（　　）。", "options": ["というものだ", "にすぎない", "ものだ", "べきだ"], "answer": 0, "vi": "Dù khách không nói ra, vẫn đoán được khách cần gì mà hành động. Đó mới chính là dân chuyên nghiệp.", "why": "「それが」 + danh từ giá trị (プロ) → khẳng định \"thế mới là…\" → **というものだ**. 「ものだ」 không nối thẳng sau danh từ (プロものだ ✗); 「それがプロにすぎない」 mâu thuẫn với giọng khen; 「べきだ」 cần V辞書形 hoặc であるべきだ."},
+    {"id": "b23-p3", "kind": "form", "ref": "b23-3", "q": "{社長|しゃちょう}と{呼|よ}ばれてはいますが、{社員|しゃいん}5{人|にん}の{小|ちい}さな{会社|かいしゃ}の{経営者|けいえいしゃ}（　　）。", "options": ["にほかなりません", "というものです", "にすぎません", "に越したことはありません"], "answer": 2, "vi": "Tuy được gọi là giám đốc, nhưng tôi chỉ là chủ một công ty nhỏ có 5 nhân viên thôi.", "why": "「〜てはいますが」 + tự hạ thấp mình (khiêm tốn) → **にすぎません**. 「にほかなりません」 lại khẳng định mạnh, trái với ý khiêm tốn; 「というものです」 là đánh giá theo lẽ thường, không dùng để nói về thân phận mình; 「に越したことはありません」 = tốt nhất là…, không hợp."},
+    {"id": "b23-p4", "kind": "form", "ref": "b23-4", "q": "この{発見|はっけん}は、まさに{医学|いがく}の{歴史|れきし}を{塗|ぬ}り{替|か}える{出来事|できごと}（　　）。", "options": ["にすぎない", "よりほかない", "に越したことはない", "にほかならない"], "answer": 3, "vi": "Phát hiện này chính là một sự kiện viết lại lịch sử y học.", "why": "「まさに」 + đánh giá rất cao → khẳng định \"chính là\" → **にほかならない**. 「にすぎない」 hạ thấp, mâu thuẫn với まさに; 「よりほかない」 nối V辞書形; 「に越したことはない」 (sự kiện là tốt nhất) vô nghĩa."},
+    {"id": "b23-p5", "kind": "form", "ref": "b23-5", "q": "{引|ひ}っ{越|こ}し{先|さき}は{職場|しょくば}に{近|ちか}い（　　）が、{家賃|やちん}との{兼|か}ね{合|あ}いもある。", "options": ["に越したことはない", "にほかならない", "というものだ", "べきだ"], "answer": 0, "vi": "Chỗ chuyển đến thì gần chỗ làm là tốt nhất, nhưng còn phải cân nhắc với tiền thuê nhà.", "why": "Điều ai cũng thấy tốt + 「が」 quay về thực tế → **に越したことはない**. 「にほかならない」 cần N/から; 「というものだ」 đánh giá việc cụ thể, không hợp với 〜が、兼ね合いもある; 「べきだ」 không nối với い形 (phải là 近くあるべきだ) và nghĩa bắt buộc không hợp."},
+    {"id": "b23-p6", "kind": "form", "ref": "b23-6", "q": "{契約|けいやく}を{打|う}ち{切|き}ると{言|い}われた{以上|いじょう}、{新|あたら}しい{取引先|とりひきさき}を{探|さが}す（　　）。", "options": ["ほかならない", "よりほかない", "べきではない", "にすぎない"], "answer": 1, "vi": "Một khi đã bị báo là cắt hợp đồng thì chỉ còn cách tìm đối tác mới.", "why": "「〜以上」 (một khi đã…) + không còn lựa chọn → **よりほかない**. 「ほかならない」 là bẫy — đó là mẫu 「Nにほかならない」 (chính là), không nối V辞書形; 「べきではない」 trái ngữ cảnh; 「にすぎない」 (chỉ là tìm) vô nghĩa."},
+    {"id": "b23-p7", "kind": "form", "ref": "b23-7", "q": "{環境|かんきょう}を{守|まも}るために、{私|わたし}たち{一人|ひとり}ひとりが{今|いま}できることから（　　）。", "options": ["始めないべきだ", "始めるべきだ", "始めたべきだ", "始めるべきではない"], "answer": 1, "vi": "Để bảo vệ môi trường, mỗi người chúng ta nên bắt đầu từ những việc có thể làm ngay bây giờ.", "why": "**始めるべきだ**: V辞書形 + べきだ. 「始めないべきだ」 sai dạng (phủ định phải là べきではない); 「始めたべきだ」 sai (không nối Vた); 「始めるべきではない」 đúng dạng nhưng trái nghĩa với \"để bảo vệ môi trường\"."},
+    {"id": "b23-p8", "kind": "form", "ref": "b23-7", "q": "{結局|けっきょく}{締|し}め{切|き}りに{間|ま}に{合|あ}わなかった。もっと{早|はや}く{取|と}りかかる（　　）。", "options": ["しかなかった", "ものだった", "べきだった", "に越したことはなかった"], "answer": 2, "vi": "Rốt cuộc không kịp hạn chót. Đáng lẽ mình phải bắt tay vào sớm hơn.", "why": "Hối tiếc về việc đã không làm → **べきだった**. 「しかなかった」 = hồi đó chỉ còn cách bắt tay sớm hơn — vô lý; 「ものだった」 là hồi tưởng thói quen, không hợp; 「に越したことはない」 chỉ dùng thể hiện tại."},
+    {"id": "b23-p9", "kind": "order", "ref": "b23-3", "q": "{彼|かれ}が{言|い}っていることは、＿＿＿ ＿＿＿ ★ ＿＿＿ 。", "options": ["ための", "言い訳にすぎない", "責任を", "逃れる"], "order": [2, 3, 0, 1], "answer": 0, "vi": "Những gì anh ta nói chẳng qua chỉ là lời bào chữa để trốn tránh trách nhiệm.", "why": "Câu đúng: 彼が言っていることは、**責任を 逃れる ための 言い訳にすぎない** → ★ (ô thứ 3) = 「ための」. 「責任を」 cần động từ 「逃れる」; 「V辞書形＋ための＋N」 bổ nghĩa cho 「言い訳」; 「にすぎない」 kết câu."},
+    {"id": "b23-p10", "kind": "order", "ref": "b23-5", "q": "{非常食|ひじょうしょく}は ＿＿＿ ＿＿＿ ★ ＿＿＿ 、{置|お}き{場所|ばしょ}にも{限|かぎ}りがある。", "options": ["に越したことは", "用意しておく", "ないが", "多めに"], "order": [3, 1, 0, 2], "answer": 0, "vi": "Đồ ăn khẩn cấp thì chuẩn bị sẵn nhiều một chút là tốt nhất, nhưng chỗ để cũng có hạn.", "why": "Câu đúng: 非常食は **多めに 用意しておく に越したことは ないが**、置き場所にも限りがある → ★ (ô thứ 3) = 「に越したことは」. Trạng từ 「多めに」 đứng trước động từ; 「V辞書形＋に越したことはない」 + 「が」 quay về thực tế."},
+    {"id": "b23-p11", "kind": "usage", "ref": "b23-2", "q": "「〜というものだ」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["{試験|しけん}に{合格|ごうかく}できて、{本当|ほんとう}にうれしいというものだ。", "{空|そら}が{暗|くら}いから、{明日|あした}はきっと{雨|あめ}が{降|ふ}るというものだ。", "{私|わたし}は{毎朝|まいあさ}コーヒーを{一杯|いっぱい}{飲|の}むというものだ。", "{休日|きゅうじつ}に{部下|ぶか}を{呼|よ}び{出|だ}して{仕事|しごと}をさせるなんて、{身勝手|みがって}というものだ。"], "answer": 3, "vi": "(4) Gọi cấp dưới đến làm việc vào ngày nghỉ thì đúng là ích kỷ.", "why": "(4) đánh giá một hành vi cụ thể theo lẽ thường bằng từ đánh giá 「身勝手」 → đúng. (1) cảm xúc cá nhân → chỉ cần 「本当にうれしい」; (2) là dự đoán → 「降るに違いない」; (3) thói quen cá nhân, không có gì để đánh giá."},
+    {"id": "b23-p12", "kind": "usage", "ref": "b23-6", "q": "「〜しかない」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["{明日|あした}は{休|やす}みなので、{昼|ひる}までゆっくり{寝|ね}たしかない。", "このレストランの{料理|りょうり}は{本当|ほんとう}においしいしかない。", "{電車|でんしゃ}が{止|と}まってしまったので、{歩|ある}いて{帰|かえ}るしかない。", "{雨|あめ}がやんだので、{傘|かさ}を{持|も}っていくしかない。"], "answer": 2, "vi": "(3) Tàu ngừng chạy mất rồi nên chỉ còn cách đi bộ về.", "why": "(3) tình huống bế tắc + V辞書形 + しかない → đúng. (1) sai dạng (Vた) và không có gì bế tắc; (2) しかない không nối với い形 để khen; (4) mưa đã tạnh mà \"chỉ còn cách mang ô\" là vô lý."}
+  ],
+  "test": [
+    {"id": "b23-t1", "kind": "form", "ref": "b23-1", "q": "{人|ひと}は{他人|たにん}の{成功|せいこう}より{失敗|しっぱい}の{話|はなし}のほうに{興味|きょうみ}を{持|も}つ（　　）。", "options": ["にすぎない", "べきだ", "ものだ", "というものではない"], "answer": 2, "vi": "Con người vốn dĩ quan tâm đến chuyện thất bại của người khác hơn là chuyện thành công.", "why": "Chủ ngữ chung 「人は」, nêu bản chất con người → **ものだ**. 「べきだ」 thành \"người ta nên quan tâm tới thất bại của người khác\" — vô lý; 「にすぎない」 (chỉ là) không hợp; 「というものではない」 (không phải cứ… là…) cần một quan niệm điều kiện để bác bỏ, không hợp câu này."},
+    {"id": "b23-t2", "kind": "form", "ref": "b23-2", "q": "{一度|いちど}{失敗|しっぱい}したくらいで{部下|ぶか}を{担当|たんとう}から{外|はず}すのは、{厳|きび}しすぎる（　　）。", "options": ["にほかならない", "というものだ", "しかない", "に越したことはない"], "answer": 1, "vi": "Chỉ vì thất bại một lần mà cho cấp dưới thôi phụ trách thì thật là quá khắt khe.", "why": "「〜のは」 + đánh giá theo lẽ thường một việc cụ thể → **というものだ** (nối được với い形/V普通形). 「にほかならない」 không nối thẳng sau い形/động từ (cần から); 「しかない」 cần hành động có chủ ý; 「厳しすぎるに越したことはない」 = quá khắt khe là tốt nhất — vô lý."},
+    {"id": "b23-t3", "kind": "form", "ref": "b23-3", "q": "{彼|かれ}は{有名|ゆうめい}な{評論家|ひょうろんか}を{名乗|なの}っているが、{実際|じっさい}は{本|ほん}を{一冊|いっさつ}{出|だ}しただけの{素人|しろうと}（　　）。", "options": ["にすぎない", "にほかならない", "に越したことはない", "べきだ"], "answer": 0, "vi": "Anh ta tự xưng là nhà phê bình nổi tiếng, nhưng thực ra chỉ là một người nghiệp dư mới ra được đúng một cuốn sách.", "why": "「〜が、実際は〜だけの」: hạ thấp, vạch trần → **にすぎない**. 「にほかならない」 khẳng định trang trọng, không hợp giọng coi nhẹ; 「に越したことはない」 vô nghĩa; 「べきだ」 không nối thẳng sau danh từ."},
+    {"id": "b23-t4", "kind": "order", "ref": "b23-4", "q": "この{町|まち}が{観光地|かんこうち}として{人気|にんき}を{集|あつ}めているのは、＿＿＿ ＿＿＿ ★ ＿＿＿ 。", "options": ["景観を守ってきた", "にほかならない", "から", "住民が"], "order": [3, 0, 2, 1], "answer": 2, "vi": "Thị trấn này thu hút được nhiều khách du lịch chính là vì người dân đã gìn giữ cảnh quan.", "why": "Câu đúng: 〜のは、**住民が 景観を守ってきた から にほかならない** → ★ (ô thứ 3) = 「から」. Mệnh đề phải đi qua 「から」 rồi mới nối 「にほかならない」; chủ ngữ 「住民が」 đứng trước vị ngữ."},
+    {"id": "b23-t5", "kind": "form", "ref": "b23-5", "q": "お{金|かね}はある（　　）が、お{金|かね}さえあれば{幸|しあわ}せになれるというものでもない。", "options": ["に越したことはない", "にすぎない", "しかない", "べきだ"], "answer": 0, "vi": "Tiền thì có vẫn hơn, nhưng không phải cứ có tiền là hạnh phúc.", "why": "Điều ai cũng thấy tốt + 「が」 quay về thực tế → **に越したことはない**. 「にすぎない」 (chỉ là có tiền) không hợp; 「しかない」 cần hành động có chủ ý (ある không phải); 「あるべきだ」 = \"tiền phải có\" — nghĩa bắt buộc, không hợp với vế sau mềm mỏng."},
+    {"id": "b23-t6", "kind": "order", "ref": "b23-6", "q": "{終電|しゅうでん}を{逃|のが}してしまったので、＿＿＿ ＿＿＿ ★ ＿＿＿ 。", "options": ["しかない", "朝を待つ", "駅前の", "ネットカフェで"], "order": [2, 3, 1, 0], "answer": 1, "vi": "Lỡ mất chuyến tàu cuối rồi nên chỉ còn cách đợi trời sáng ở quán net trước ga.", "why": "Câu đúng: **駅前の ネットカフェで 朝を待つ しかない** → ★ (ô thứ 3) = 「朝を待つ」. 「駅前の」 bổ nghĩa cho danh từ 「ネットカフェ」; 「しかない」 đứng ngay sau V辞書形 「待つ」."},
+    {"id": "b23-t7", "kind": "form", "ref": "b23-7", "q": "{災害|さいがい}が{起|お}きた{直後|ちょくご}に{行政|ぎょうせい}がまず（　　）ことは、{被害|ひがい}の{状況|じょうきょう}を{正確|せいかく}に{把握|はあく}することだ。", "options": ["するべきでない", "すべき", "すべきな", "するべきの"], "answer": 1, "vi": "Việc đầu tiên chính quyền cần làm ngay sau khi xảy ra thảm hoạ là nắm chính xác tình hình thiệt hại.", "why": "Bổ nghĩa cho danh từ 「こと」: **すべき ＋ N** (する → すべき). 「すべきな」「するべきの」 sai — べき nối thẳng vào danh từ, không cần な／の; 「するべきでない」 đúng dạng nhưng trái nghĩa (\"việc không nên làm là nắm tình hình\" — vô lý)."},
+    {"id": "b23-t8", "kind": "usage", "ref": "b23-7", "q": "「〜べきだ」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["{天気|てんき}{予報|よほう}によると、{明日|あした}は{雨|あめ}が{降|ふ}るべきだ。", "{昨日|きのう}のパーティーはとても{楽|たの}しいべきだった。", "この{薬|くすり}は{一日|いちにち}{三回|さんかい}、{食後|しょくご}に{飲|の}まないべきです。", "{若|わか}い{人|ひと}も、{選挙|せんきょ}にはきちんと{行|い}くべきだと{思|おも}う。"], "answer": 3, "vi": "(4) Tôi nghĩ người trẻ cũng nên đi bầu cử đàng hoàng.", "why": "(4) quan điểm của người nói về lẽ phải, V辞書形 + べきだ → đúng. (1) hiện tượng tự nhiên, không có ý chí → 「降るそうだ」; (2) い形 không nối thẳng với べき, nghĩa cũng sai; (3) phủ định phải là 「飲むべきではない」, và hướng dẫn dùng thuốc là quy định → 「飲んでください」."}
+  ]
+}

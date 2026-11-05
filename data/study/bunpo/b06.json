@@ -1,0 +1,180 @@
+{
+  "id": "b06",
+  "track": "bunpo",
+  "intro": "Năm mẫu trong bài đều là các phiên bản N2 của 「〜だけでなく、〜も」 (không chỉ… mà còn…). Nghĩa gần như giống nhau, nên đề thi thường phân biệt chúng bằng **cách nối** và **sắc thái**:\n\n- **〜に限らず**: \"không giới hạn ở…\" → mở rộng ra **cả một phạm vi lớn** (みんな・いつも・どこでも・さまざまな). Chỉ đi với **danh từ**.\n- **〜のみならず**: \"không chỉ… mà (một thứ cùng cấp) cũng…\" — **văn viết, cứng**. Đi được với danh từ lẫn mệnh đề, còn đứng đầu câu làm liên từ.\n- **〜ばかりか**: \"chẳng những… mà thậm chí…\" — vế sau **gây bất ngờ, mức độ cao hơn**, hay đi với 〜まで・〜さえ.\n- **〜はもとより**: \"… thì đương nhiên rồi, cả … cũng\" — vế trước là ví dụ **hiển nhiên**. Chỉ đi với **danh từ (+ trợ từ)**.\n- **〜上(に)**: \"đã… lại còn…\" — cộng dồn hai đặc điểm **cùng chiều** (tốt + tốt, xấu + xấu).\n\nQuy tắc chung: vế sau thường có 「も」 (hoặc まで・さえ), và hai vế phải **cùng hướng** — không ghép một điểm tốt với một điểm xấu. Riêng ばかりか và 上に **không** dùng với câu nhờ vả, mệnh lệnh.",
+  "points": [
+    {
+      "id": "b06-1",
+      "pattern": "〜に限らず",
+      "reading": "〜にかぎらず",
+      "meaning": "Không chỉ (riêng)… mà (rộng ra) cả…",
+      "structure": ["N ＋ に限らず"],
+      "explain": "Dịch sát: \"**không giới hạn ở** N\". Người nói lấy một phạm vi hẹp (N) rồi **phá cái khung đó**, mở rộng ra **một phạm vi lớn hơn hẳn** chứa cả N.\n\nHình dung: 「{子|こ}どもに{限|かぎ}らず、{大人|おとな}も{楽|たの}しめる」 — khung \"trẻ em\" bị phá, giờ là \"mọi lứa tuổi\".\n\n- Vế sau rất hay có từ chỉ **phạm vi rộng / toàn thể**: みんな・誰でも・いつでも・どこでも・さまざまな・〜中(世界中)・全体・すべて, hoặc trợ từ 「も」.\n- Đây là chính dạng phủ định của 「〜に限る」 (chỉ giới hạn ở) — đối lập trực tiếp với 「〜に限り」「〜に限って」 ở 5課.",
+      "nuance": "Dùng được cả văn nói lẫn văn viết, mức trang trọng trung bình. Chỉ nối với **danh từ** (không nói 「歌うに限らず」). Khác với のみならず: に限らず nhấn vào việc **mở rộng ra cả phạm vi chung**, chứ không chỉ thêm một mục bên cạnh.",
+      "examples": [
+        {"ja": "このカフェは、{若者|わかもの}に{限|かぎ}らず、{年配|ねんぱい}の{人|ひと}にも{人気|にんき}がある。", "vi": "Quán cà phê này không chỉ được giới trẻ mà cả người lớn tuổi cũng yêu thích.", "note": "N に限らず 〜も"},
+        {"ja": "スマートフォンの{使|つか}いすぎは、{子|こ}どもに{限|かぎ}らず{大人|おとな}にとっても{問題|もんだい}だ。", "vi": "Việc dùng điện thoại quá nhiều không chỉ là vấn đề của trẻ em mà cả với người lớn.", "note": ""},
+        {"ja": "{日本|にほん}に{限|かぎ}らず、{世界中|せかいじゅう}で{少子|しょうし}{高齢化|こうれいか}が{進|すす}んでいる。", "vi": "Không chỉ ở Nhật mà trên khắp thế giới, tình trạng ít con và già hoá dân số đang tiến triển.", "note": "Vế sau: phạm vi rộng (世界中)"},
+        {"ja": "{彼|かれ}は{野球|やきゅう}に{限|かぎ}らず、スポーツなら{何|なん}でも{得意|とくい}だ。", "vi": "Anh ấy không chỉ giỏi bóng chày mà môn thể thao nào cũng giỏi.", "note": "何でも = mở rộng toàn bộ"},
+        {"ja": "{雨|あめ}の{日|ひ}に{限|かぎ}らず、この{道|みち}はいつも{渋滞|じゅうたい}している。", "vi": "Không chỉ ngày mưa, con đường này lúc nào cũng kẹt xe.", "note": "いつも = mở rộng về thời gian"},
+        {"ja": "この{窓口|まどぐち}では、{税金|ぜいきん}に{限|かぎ}らず、さまざまな{手続|てつづ}きの{相談|そうだん}ができます。", "vi": "Tại quầy này, không chỉ chuyện thuế mà bạn có thể được tư vấn nhiều loại thủ tục khác nhau.", "note": "さまざまな = phạm vi rộng"}
+      ],
+      "compare": [
+        {"with": "〜に限り／〜に限って (5課)", "diff": "Ngược nghĩa: 「に限り」「に限って」 **thu hẹp** vào một trường hợp (chỉ riêng…). 「に限らず」 **mở rộng** ra (không chỉ…). Trong đề, ba mẫu này hay được đặt cạnh nhau làm bẫy — nhìn vế sau: có 「も」/từ chỉ toàn thể → に限らず."},
+        {"with": "〜のみならず", "diff": "Theo sách, 「に限らず」 luôn là **mở rộng từ N ra một phạm vi lớn hơn chứa N** (子ども → 大人も・みんな). 「のみならず」 làm được việc đó, **và** còn dùng được khi chỉ **thêm một mục khác cùng cấp** (電気代のみならずガス代も). Ngoài ra のみならず nối được cả mệnh đề, còn に限らず chỉ nối danh từ."}
+      ],
+      "mistakes": [
+        "✗ {彼|かれ}は{歌|うた}うに{限|かぎ}らず、ダンスも{上手|じょうず}だ。→ ○ 歌に限らず／歌うのみならず (に限らず chỉ đi với danh từ)",
+        "✗ {今日|きょう}に{限|かぎ}らず、{珍|めずら}しく{彼|かれ}が{遅刻|ちこく}した。→ ○ 今日に限って、… (nghĩa \"đúng hôm nay lại khác thường\")"
+      ],
+      "tip": "Thấy N + chỗ trống, vế sau có 「も」 hoặc 「みんな／いつも／どこでも／さまざまな／〜中」 → 「に限らず」. Đừng để chữ 「限」 lừa thành 「に限って」."
+    },
+    {
+      "id": "b06-2",
+      "pattern": "〜のみならず",
+      "reading": "〜のみならず",
+      "meaning": "Không chỉ… mà còn… (văn viết, trang trọng)",
+      "structure": ["N ＋ のみならず", "V普通形 ／ い形普通形 ＋ のみならず", "な形 ＋ である ＋ のみならず", "N ＋ である ＋ のみならず", "Đầu câu (liên từ): 〜。のみならず、〜"],
+      "explain": "「のみ」 là dạng văn viết của 「だけ」, 「ならず」 là dạng văn viết của 「ではなく」 → 「のみならず」 = **「だけでなく」 phiên bản văn viết**. Gặp nhiều trong báo chí, bài luận, văn bản chính thức, bài phát biểu.\n\n- Vế trước là một mục, vế sau thêm **một mục khác cùng cấp độ** (「{電気代|でんきだい}のみならずガス{代|だい}も」) hoặc mở rộng ra **một phạm vi lớn hơn** (「{国内|こくない}のみならず{海外|かいがい}でも」) — vế sau thường có 「も」. Sách lưu ý: chính khả năng thêm mục **cùng cấp** là điểm 「のみならず」 khác 「に限らず」.\n- Nối được với **mệnh đề**: 「{遅刻|ちこく}したのみならず、{連絡|れんらく}もしなかった」.\n- 「N として のみならず」: không chỉ với tư cách A mà cả với tư cách B.\n- Có thể đứng **đầu câu** như một liên từ = 「それだけでなく」: 「…。のみならず、…」.",
+      "nuance": "Cứng, văn viết (sách ghi rõ 硬い言い方). Trong hội thoại thường ngày nghe khá kiểu cách — nói chuyện thì dùng 「だけじゃなくて」. Với な形 và danh từ **phải có 「である」** khi là vị ngữ: 「{便利|べんり}であるのみならず」 (không phải 便利なのみならず).",
+      "examples": [
+        {"ja": "この{映画|えいが}は{国内|こくない}のみならず、{海外|かいがい}でも{高|たか}く{評価|ひょうか}されている。", "vi": "Bộ phim này không chỉ được đánh giá cao trong nước mà cả ở nước ngoài.", "note": "N のみならず 〜でも"},
+        {"ja": "{彼女|かのじょ}は{歌手|かしゅ}としてのみならず、{作曲家|さっきょくか}としても{活躍|かつやく}している。", "vi": "Cô ấy không chỉ hoạt động với tư cách ca sĩ mà còn với tư cách nhà soạn nhạc.", "note": "N としてのみならず"},
+        {"ja": "{物価|ぶっか}が{上|あ}がっているのみならず、{実質|じっしつ}{賃金|ちんぎん}も{下|さ}がり{続|つづ}けている。", "vi": "Không chỉ vật giá đang tăng mà lương thực tế cũng liên tục giảm.", "note": "V普通形 + のみならず · văn báo chí"},
+        {"ja": "{値上|ねあ}げの{影響|えいきょう}は{家計|かけい}のみならず、{中小|ちゅうしょう}{企業|きぎょう}の{経営|けいえい}にも{及|およ}んでいる。", "vi": "Ảnh hưởng của việc tăng giá không chỉ lan tới chi tiêu gia đình mà cả việc kinh doanh của các doanh nghiệp vừa và nhỏ.", "note": "Thêm một mục cùng cấp (〜にも)"},
+        {"ja": "{彼|かれ}は{約束|やくそく}の{時間|じかん}に{遅|おく}れたのみならず、{一言|ひとこと}の{連絡|れんらく}さえしてこなかった。", "vi": "Anh ta không chỉ đến trễ giờ hẹn mà còn chẳng thèm báo lấy một câu.", "note": "Vた + のみならず ・ 〜さえ"},
+        {"ja": "その{計画|けいかく}には{莫大|ばくだい}な{費用|ひよう}がかかる。のみならず、{実現|じつげん}の{可能性|かのうせい}も{低|ひく}い。", "vi": "Kế hoạch đó tốn kém vô cùng. Không những thế, khả năng thực hiện được cũng thấp.", "note": "Đầu câu = それだけでなく (văn viết)"}
+      ],
+      "compare": [
+        {"with": "〜だけでなく／〜ばかりでなく (N3)", "diff": "Cùng nghĩa. 「だけでなく」 dùng mọi nơi; 「のみならず」 là văn viết trang trọng."},
+        {"with": "〜ばかりか", "diff": "「ばかりか」 có thêm sắc thái **ngạc nhiên, mức độ tăng dần** (thậm chí cả…), và **không** đứng đầu câu làm liên từ. 「のみならず」 trung tính hơn, đứng đầu câu được."},
+        {"with": "〜に限らず", "diff": "「に限らず」 chỉ đi với N và mở rộng ra cả phạm vi chung. 「のみならず」 nối được cả mệnh đề và thường chỉ thêm một mục cùng cấp."}
+      ],
+      "mistakes": [
+        "✗ この{町|まち}は{便利|べんり}なのみならず、{自然|しぜん}も{豊|ゆた}かだ。→ ○ 便利であるのみならず、…",
+        "✗ (nói chuyện với bạn) 「{昨日|きのう}のパーティー、{料理|りょうり}のみならず{音楽|おんがく}もよかったよね」→ nghe kiểu cách; tự nhiên hơn: 料理だけじゃなくて音楽もよかったよね"
+      ],
+      "tip": "Nếu chỗ trống đứng **đầu câu** (sau dấu 。) mang nghĩa \"không những thế\" → chỉ có 「のみならず」 được (ばかりか・上に・はもとより đều không đứng đầu câu). Nếu trước chỗ trống là **động từ**, loại ngay に限らず và はもとより."
+    },
+    {
+      "id": "b06-3",
+      "pattern": "〜ばかりか",
+      "reading": "〜ばかりか",
+      "meaning": "Chẳng những… mà (thậm chí) còn…",
+      "structure": ["N ＋ ばかりか", "V普通形 ／ い形普通形 ＋ ばかりか", "な形 ＋ な／である ＋ ばかりか", "N ＋ である ＋ ばかりか"],
+      "explain": "Vế trước đã là chuyện **đáng nói** (không bình thường), vậy mà vế sau còn thêm một chuyện **đáng ngạc nhiên hơn nữa**. Cảm giác như leo thang: \"đã… rồi, **thế mà còn**…\".\n\n- Vế sau thường có 「も」「まで」「さえ」 để nhấn mạnh mức độ: 「{漢字|かんじ}ばかりか、ひらがなさえ{読|よ}めない」.\n- Hai vế **cùng chiều**: tốt + tốt hơn, hoặc (rất hay gặp) xấu + xấu hơn.\n- Dạng đặc biệt **〜ないばかりか、かえって／逆に〜**: \"chẳng những không… mà ngược lại còn…\": 「{薬|くすり}が{効|き}かないばかりか、かえって{悪化|あっか}した」 (chẳng những không đỡ mà còn nặng thêm).",
+      "nuance": "Dùng cả văn nói lẫn văn viết. Chứa **cảm xúc** của người nói (ngạc nhiên, khâm phục hoặc bực bội). Vế sau **không** được là nhờ vả, mệnh lệnh, rủ rê (✗ 〜ばかりか、〜てください). Vì vế sau phải gây cảm giác **bất ngờ**, nó thường là một **sự thật được miêu tả**; khi vế sau là dự định của chính người nói (〜ていこうと考えている) thì bài tập của sách chọn 「のみならず」 chứ không chọn ばかりか. Chú ý cách nối: な形 + **な** + ばかりか (khác với のみならず phải dùng である).",
+      "examples": [
+        {"ja": "{弟|おとうと}は{宿題|しゅくだい}をしなかったばかりか、{授業|じゅぎょう}にも{遅刻|ちこく}した。", "vi": "Thằng em chẳng những không làm bài tập mà còn đi học muộn.", "note": "Xấu + xấu"},
+        {"ja": "このアプリは{操作|そうさ}が{簡単|かんたん}なばかりか、{広告|こうこく}も{一切|いっさい}{表示|ひょうじ}されない。", "vi": "Ứng dụng này chẳng những thao tác đơn giản mà còn hoàn toàn không hiện quảng cáo.", "note": "な形 + な + ばかりか · tốt + tốt"},
+        {"ja": "その{歌手|かしゅ}は{日本|にほん}ばかりか、アジア{各国|かっこく}でも{人気|にんき}がある。", "vi": "Ca sĩ đó chẳng những nổi tiếng ở Nhật mà còn ở khắp các nước châu Á.", "note": "N ばかりか 〜でも"},
+        {"ja": "{風邪|かぜ}{薬|ぐすり}を{飲|の}んだのに、{熱|ねつ}が{下|さ}がらないばかりか、ますます{上|あ}がってしまった。", "vi": "Đã uống thuốc cảm rồi mà chẳng những không hạ sốt, nhiệt độ còn tăng thêm.", "note": "〜ないばかりか、ますます／かえって"},
+        {"ja": "{祭|まつ}りには{近所|きんじょ}の{人|ひと}ばかりか、{遠|とお}くの{町|まち}からも{見物客|けんぶつきゃく}が{集|あつ}まった。", "vi": "Lễ hội chẳng những có người dân quanh đây mà khách từ những thị trấn xa cũng kéo đến xem.", "note": ""},
+        {"ja": "{彼|かれ}は{借|か}りた{本|ほん}を{返|かえ}さないばかりか、{友達|ともだち}に{又貸|またが}しまでしていた。", "vi": "Anh ta chẳng những không trả sách đã mượn mà còn cho bạn mượn lại nữa.", "note": "〜まで = thậm chí cả (mức độ cao hơn)"}
+      ],
+      "compare": [
+        {"with": "〜上(に)", "diff": "「上に」 chỉ **cộng dồn** hai đặc điểm, giọng khách quan hơn. 「ばかりか」 có sự **leo thang, bất ngờ** (thậm chí…), hay đi với まで・さえ・かえって."},
+        {"with": "〜どころか (12課)", "diff": "「どころか」 = \"đâu chỉ không… mà **ngược lại** hoàn toàn\": 「{謝|あやま}るどころか、{怒|おこ}り{出|だ}した」 (đâu có xin lỗi, lại còn nổi giận). 「ばかりか」 thì vế trước **là sự thật** và vế sau thêm vào cùng chiều: 「謝らないばかりか、怒り出した」."},
+        {"with": "〜ばかりでなく (N3)", "diff": "Nghĩa gần giống, 「ばかりでなく」 trung tính hơn; 「ばかりか」 nhấn mạnh sự bất ngờ ở vế sau."}
+      ],
+      "mistakes": [
+        "✗ {野菜|やさい}ばかりか、{肉|にく}もしっかり{食|た}べなさい。→ ○ 野菜だけでなく、肉もしっかり食べなさい。(vế sau là mệnh lệnh)",
+        "✗ この{部屋|へや}は{広|ひろ}いばかりか、{日当|ひあ}たりが{悪|わる}い。→ ○ この部屋は広いが、日当たりが悪い。(hai vế ngược chiều)"
+      ],
+      "tip": "Vế sau có 「まで」「さえ」「かえって」「ますます」 hoặc giọng ngạc nhiên / bực bội → nghĩ ngay tới 「ばかりか」. Nếu trước chỗ trống là な形 + な → loại のみならず (cần である)."
+    },
+    {
+      "id": "b06-4",
+      "pattern": "〜はもとより",
+      "reading": "〜はもとより",
+      "meaning": "… thì đương nhiên rồi, (ngay cả) … cũng…",
+      "structure": ["N ＋ はもとより", "N ＋ trợ từ ＋ はもとより (〜ではもとより・〜にはもとより)"],
+      "explain": "「もとより」 = vốn dĩ, đương nhiên. Người nói đưa ra **một ví dụ mà ai cũng thấy là hiển nhiên** (A), rồi thêm **một ví dụ khác ít hiển nhiên hơn** (B): \"A thì khỏi phải nói, đến B cũng…\".\n\nVí dụ: 「この{店|みせ}は{味|あじ}はもとより、{盛|も}り{付|つ}けも{美|うつく}しい」 — Quán này vị ngon là chuyện đương nhiên (quán ăn thì phải ngon), đến cách bày biện cũng đẹp.\n\n- Vế sau thường có 「も」.\n- Có thể kẹp trợ từ: 「{教室|きょうしつ}ではもとより」「{家族|かぞく}にはもとより」.\n- Về nghĩa, gần như là phiên bản trang trọng của 「〜はもちろん」 (N3).",
+      "nuance": "Trang trọng, văn viết (sách ghi 硬い言い方) — hay gặp trong thông báo, lời xin lỗi chính thức, giới thiệu sản phẩm. Khác với ばかりか・上に, vế sau **có thể là lời yêu cầu / kêu gọi** (〜てください): 「{店内|てんない}はもとより、{店|みせ}の{前|まえ}でも{喫煙|きつえん}はご{遠慮|えんりょ}ください」. Chỉ nối với danh từ (+ trợ từ), không nối trực tiếp với động từ.",
+      "examples": [
+        {"ja": "このラーメンは、{味|あじ}はもとより、スープの{香|かお}りもすばらしい。", "vi": "Món ramen này, vị ngon thì khỏi nói rồi, đến mùi thơm của nước dùng cũng tuyệt vời.", "note": "A hiển nhiên (味) → B thêm vào (香り)"},
+        {"ja": "この{漫画|まんが}は{子|こ}どもはもとより、{大人|おとな}が{読|よ}んでも{十分|じゅうぶん}{楽|たの}しめる。", "vi": "Bộ truyện tranh này trẻ em thì đương nhiên rồi, người lớn đọc cũng thấy rất thú vị.", "note": ""},
+        {"ja": "{彼|かれ}は{英語|えいご}はもとより、{中国語|ちゅうごくご}やスペイン{語|ご}も{話|はな}せる。", "vi": "Anh ấy tiếng Anh thì khỏi nói, còn nói được cả tiếng Trung và tiếng Tây Ban Nha.", "note": ""},
+        {"ja": "{職場|しょくば}ではもとより、{家|いえ}に{帰|かえ}ってからも{仕事|しごと}のことが{頭|あたま}から{離|はな}れない。", "vi": "Ở chỗ làm thì đã đành, về đến nhà rồi mà chuyện công việc vẫn không ra khỏi đầu.", "note": "N + で + はもとより"},
+        {"ja": "{事故|じこ}に{遭|あ}われた{方|かた}にはもとより、そのご{家族|かぞく}にも{心|こころ}よりお{詫|わ}び{申|もう}し{上|あ}げます。", "vi": "Chúng tôi xin thành thật xin lỗi những người bị nạn, và cả gia đình của họ.", "note": "N + に + はもとより · lời xin lỗi chính thức"},
+        {"ja": "{館内|かんない}はもとより、{敷地内|しきちない}でのご{喫煙|きつえん}もご{遠慮|えんりょ}ください。", "vi": "Trong toà nhà thì đương nhiên, ngay cả trong khuôn viên cũng xin vui lòng không hút thuốc.", "note": "Vế sau là lời yêu cầu — はもとより dùng được"}
+      ],
+      "compare": [
+        {"with": "〜はもちろん (N3)", "diff": "Nghĩa giống nhau. 「はもちろん」 dùng cả khi nói chuyện; 「はもとより」 cứng hơn, hợp văn viết, thông báo."},
+        {"with": "〜ばかりか", "diff": "「ばかりか」: vế trước là chuyện **đáng ngạc nhiên**, vế sau còn hơn thế. 「はもとより」: vế trước là chuyện **hiển nhiên**, ai cũng biết. Ngoài ra はもとより dùng được với câu yêu cầu, ばかりか thì không."},
+        {"with": "〜はおろか (N1)", "diff": "「はおろか」 cũng có cấu trúc A … B も, nhưng hầu như chỉ dùng cho **chuyện tiêu cực, phủ định**: 「{漢字|かんじ}はおろか、ひらがなも{書|か}けない」."}
+      ],
+      "mistakes": [
+        "✗ {彼|かれ}は{漢字|かんじ}が{読|よ}めるはもとより、{書|か}くこともできる。→ ○ 漢字を読むのはもとより、… (động từ phải danh từ hoá bằng の)",
+        "✗ {日曜日|にちようび}はもとより、{平日|へいじつ}は{休|やす}みだ。→ ○ 日曜日はもとより、平日も休みだ。(vế sau phải **thêm vào** bằng 「も」, không phải đối lập bằng 「は」)"
+      ],
+      "tip": "Vế trước là thứ **đương nhiên phải có** (店→味, 学生→勉強, 本人→家族) và vế sau có 「も」 → 「はもとより」. Thấy câu yêu cầu kiểu 〜ください ở vế sau thì loại ばかりか・上に, giữ lại はもとより."
+    },
+    {
+      "id": "b06-5",
+      "pattern": "〜上(に)",
+      "reading": "〜うえ(に)",
+      "meaning": "Đã… lại còn… (cộng dồn hai điều cùng chiều)",
+      "structure": ["V普通形 ／ い形普通形 ＋ 上(に)", "な形 ＋ な／である ＋ 上(に)", "N ＋ の／である ＋ 上(に)"],
+      "explain": "「上」 = bên trên. Hình dung **xếp chồng**: đặt điều B **lên trên** điều A. Dịch tự nhiên: \"đã… lại còn…\", \"vừa… lại vừa…\", \"không những… mà…\".\n\n- **Tốt + tốt**: 「この{部屋|へや}は{駅|えき}に{近|ちか}い{上|うえ}に、{家賃|やちん}も{安|やす}い」 → càng muốn thuê.\n- **Xấu + xấu**: 「{道|みち}に{迷|まよ}った{上|うえ}に、{雨|あめ}まで{降|ふ}ってきた」 → càng khổ.\n\nĐiều kiện bắt buộc: **hai vế phải cùng một chiều đánh giá**. Không được ghép một điều tốt với một điều xấu, cũng không ghép hai chuyện chẳng liên quan gì.\n\nCó thể bỏ 「に」: 「〜{上|うえ}、〜」 (hơi văn viết).",
+      "nuance": "Dùng được cả văn nói và văn viết, giọng khá khách quan (ít cảm xúc hơn ばかりか). Vế sau **không** là nhờ vả, mệnh lệnh, rủ rê. Chú ý cách nối danh từ: 「{寝不足|ねぶそく}**の**{上|うえ}に」 hoặc 「〜**である**{上|うえ}に」.",
+      "examples": [
+        {"ja": "このマンションは{駅|えき}から{近|ちか}い{上|うえ}に、{家賃|やちん}も{手頃|てごろ}だ。", "vi": "Căn hộ này đã gần ga lại còn có giá thuê phải chăng.", "note": "い形 + 上に · tốt + tốt"},
+        {"ja": "{知|し}らない{町|まち}で{道|みち}に{迷|まよ}った{上|うえ}に、{雨|あめ}まで{降|ふ}ってきた。", "vi": "Đã lạc đường ở một thành phố lạ, trời lại còn đổ mưa.", "note": "Vた + 上に · xấu + xấu"},
+        {"ja": "{彼女|かのじょ}は{頭|あたま}がいい{上|うえ}に、{性格|せいかく}も{明|あか}るいので、みんなに{好|す}かれている。", "vi": "Cô ấy vừa thông minh lại vừa vui vẻ nên được mọi người quý mến.", "note": ""},
+        {"ja": "{昨日|きのう}は{残業|ざんぎょう}で{疲|つか}れていた{上|うえ}に、{電車|でんしゃ}が{止|と}まって、{家|いえ}に{着|つ}いたのは{夜中|よなか}だった。", "vi": "Hôm qua đã mệt vì tăng ca, tàu lại còn ngừng chạy, về đến nhà thì đã nửa đêm.", "note": "Vế sau có thể ở quá khứ"},
+        {"ja": "{新|あたら}しい{課長|かちょう}は{厳|きび}しい{上|うえ}に、{細|こま}かいことにまで{口|くち}を{出|だ}す。", "vi": "Trưởng nhóm mới đã nghiêm khắc lại còn xen vào cả những chuyện vặt vãnh.", "note": "まで = nhấn mạnh"},
+        {"ja": "{今年|ことし}は{雨|あめ}が{少|すく}ない{上|うえ}、{猛暑|もうしょ}が{続|つづ}き、{野菜|やさい}の{値段|ねだん}が{高騰|こうとう}している。", "vi": "Năm nay đã ít mưa lại còn nắng nóng kéo dài, nên giá rau tăng vọt.", "note": "上、 (bỏ に) · văn tin tức"}
+      ],
+      "compare": [
+        {"with": "〜上で (3課)", "diff": "「Vた上で」 = \"**sau khi** làm A (một cách cẩn thận) rồi mới B\": 「よく{考|かんが}えた{上|うえ}で{決|き}める」. 「上に」 = \"đã A **lại còn** B\". Một chữ で／に đổi hẳn nghĩa — đề rất hay bẫy chỗ này."},
+        {"with": "〜し (N4)", "diff": "「し」 liệt kê lý do, nhẹ nhàng, văn nói. 「上に」 nhấn mạnh sự **chồng chất** của hai điều cùng chiều."},
+        {"with": "〜ばかりか", "diff": "Hai mẫu thường thay được cho nhau. 「ばかりか」 thêm sắc thái **bất ngờ / leo thang**, hay đi với まで・さえ; 「上に」 trung tính hơn."}
+      ],
+      "mistakes": [
+        "✗ このパソコンは{軽|かる}い{上|うえ}に、{値段|ねだん}が{高|たか}い。→ ○ このパソコンは軽いが、値段が高い。(tốt + xấu: ngược chiều)",
+        "✗ この{店|みせ}は{安|やす}い{上|うえ}に、ぜひ{行|い}ってみてください。→ vế sau là lời khuyên/nhờ vả; nên nói: この店は安くておいしいので、ぜひ行ってみてください",
+        "✗ {寝不足|ねぶそく}な{上|うえ}に → ○ 寝不足の上に (寝不足 là danh từ)"
+      ],
+      "tip": "Kiểm tra hai vế có **cùng chiều** không (tốt + tốt / xấu + xấu) và vế sau có 「も」 không → 上に. Nếu vế trước là 「よく考えた・相談した・確認した」 và vế sau là quyết định / hành động tiếp theo → đó là 「上で」, không phải 「上に」."
+    }
+  ],
+  "summary": [
+    {"pattern": "〜に限らず", "meaning": "không chỉ… mà cả (phạm vi rộng)", "key": "chỉ N; vế sau みんな・いつも・さまざまな・〜も"},
+    {"pattern": "〜のみならず", "meaning": "không chỉ… mà còn… (văn viết)", "key": "N / mệnh đề (な・N + である); đứng đầu câu được"},
+    {"pattern": "〜ばかりか", "meaning": "chẳng những… mà thậm chí…", "key": "bất ngờ, leo thang; まで・さえ・かえって; không nhờ vả"},
+    {"pattern": "〜はもとより", "meaning": "… thì đương nhiên, cả … cũng", "key": "N (+ trợ từ); A hiển nhiên; vế sau có thể là yêu cầu"},
+    {"pattern": "〜上(に)", "meaning": "đã… lại còn…", "key": "hai điều cùng chiều; N の上に; ≠ 上で (sau khi)"}
+  ],
+  "quiz": [
+    {"id": "b06-q1", "kind": "form", "ref": "b06-1", "q": "この{病気|びょうき}は{高齢者|こうれいしゃ}（　　）、{若|わか}い{人|ひと}でもかかることがある。", "options": ["に限って", "に限り", "に限らず", "限りでは"], "answer": 2, "vi": "Căn bệnh này không chỉ người cao tuổi mà người trẻ cũng có thể mắc phải.", "why": "Vế sau mở rộng ra 「若い人でも」 → **に限らず** (không chỉ…). 「に限って」 = \"đúng người già thì lại…\", mâu thuẫn với vế sau; 「に限り」 = chỉ riêng (ưu đãi); 「限りでは」 cần động từ thông tin."},
+    {"id": "b06-q2", "kind": "form", "ref": "b06-2", "q": "{彼|かれ}は{日本語|にほんご}が{話|はな}せる（　　）、{日本|にほん}の{歴史|れきし}にもかなり{詳|くわ}しい。", "options": ["はもとより", "のみならず", "に限らず", "に限って"], "answer": 1, "vi": "Anh ấy không chỉ nói được tiếng Nhật mà còn khá am hiểu lịch sử Nhật Bản.", "why": "Trước chỗ trống là **động từ** 「話せる」 → chỉ 「のみならず」 nối được. 「はもとより」「に限らず」「に限って」 đều chỉ đi với danh từ (muốn dùng はもとより phải nói 「日本語はもとより」)."},
+    {"id": "b06-q3", "kind": "form", "ref": "b06-3", "q": "{薬|くすり}を{飲|の}んだのに、{熱|ねつ}が{下|さ}がらない（　　）、かえって{高|たか}くなってしまった。", "options": ["ばかりか", "上に", "はもとより", "に限らず"], "answer": 0, "vi": "Đã uống thuốc rồi mà chẳng những không hạ sốt, ngược lại còn sốt cao hơn.", "why": "Khuôn 「〜ないばかりか、かえって〜」 = chẳng những không… mà ngược lại còn… → **ばかりか**. 「上に」 chỉ cộng dồn hai đặc điểm, không đi với 「かえって」 (biểu thị đảo chiều); 「はもとより」「に限らず」 chỉ nối danh từ."},
+    {"id": "b06-q4", "kind": "form", "ref": "b06-4", "q": "{入院|にゅういん}{中|ちゅう}は、{家族|かぞく}（　　）、{友人|ゆうじん}や{会社|かいしゃ}の{同僚|どうりょう}からもたくさん{励|はげ}ましをもらった。", "options": ["はもとより", "に限って", "に限り", "限りでは"], "answer": 0, "vi": "Trong thời gian nằm viện, gia đình thì đương nhiên rồi, tôi còn nhận được rất nhiều lời động viên từ bạn bè và đồng nghiệp.", "why": "Gia đình động viên là **hiển nhiên**, vế sau thêm người khác với 「も」 → **はもとより**. 「に限って」「に限り」 thu hẹp phạm vi, mâu thuẫn với 「〜からも」; 「家族限りでは」 không có nghĩa."},
+    {"id": "b06-q5", "kind": "form", "ref": "b06-5", "q": "この{辺|あた}りは{夜|よる}になると{暗|くら}い（　　）、{人通|ひとどお}りも{少|すく}ないので、{気|き}をつけたほうがいい。", "options": ["に限らず", "上に", "はもとより", "限りでは"], "answer": 1, "vi": "Khu này đến tối đã tối tăm lại còn vắng người qua lại, nên cẩn thận thì hơn.", "why": "Hai điều xấu cùng chiều (暗い + 人通りが少ない), trước chỗ trống là い形 → **上に**. 「に限らず」「はもとより」 chỉ nối danh từ; 「暗い限りでは」 sai vì 限りでは cần động từ thông tin."},
+    {"id": "b06-q6", "kind": "order", "ref": "b06-3", "q": "{留学|りゅうがく}{経験|けいけん}のある{兄|あに}は ＿＿＿ ＿＿＿ ★ ＿＿＿ {話|はな}せるそうだ。", "options": ["ばかりか", "まで", "英語", "アラビア語"], "order": [2, 0, 3, 1], "answer": 3, "vi": "Nghe nói anh tôi, người từng du học, chẳng những nói được tiếng Anh mà còn nói được cả tiếng Ả Rập.", "why": "兄は **英語 ばかりか アラビア語 まで** 話せるそうだ → ★ (ô thứ 3) = 「アラビア語」. Khuôn 「A ばかりか B まで」: B là thứ gây bất ngờ hơn."},
+    {"id": "b06-q7", "kind": "usage", "ref": "b06-5", "q": "「〜{上|うえ}に」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["このパソコンは軽い上に、値段が高い。", "この店は安い上に、ぜひ一度行ってみてください。", "彼は仕事ができる上に、人柄もいいので、みんなに頼りにされている。", "よく考えた上に、返事をします。"], "answer": 2, "vi": "(3) Anh ấy đã giỏi việc lại còn tính tình tốt, nên được mọi người tin cậy.", "why": "(3): hai điểm tốt cùng chiều → đúng. (1) tốt + xấu (ngược chiều) → phải dùng 「が」. (2) vế sau là lời khuyên, 上に không dùng được. (4) \"sau khi suy nghĩ kỹ rồi mới…\" → 「考えた上で」."}
+  ],
+  "practice": [
+    {"id": "b06-p1", "kind": "form", "ref": "b06-1", "q": "{最近|さいきん}は{都市部|としぶ}（　　）、{地方|ちほう}の{小|ちい}さな{商店|しょうてん}でもキャッシュレス{決済|けっさい}が{広|ひろ}がっている。", "options": ["に限って", "に限らず", "に限り", "にあたって"], "answer": 1, "vi": "Gần đây không chỉ ở thành phố mà ngay cả các cửa hàng nhỏ ở địa phương cũng đang phổ biến thanh toán không tiền mặt.", "why": "Vế sau mở rộng phạm vi 「地方〜でも」 → **に限らず**. 「に限って」「に限り」 thu hẹp lại (chỉ riêng…), mâu thuẫn với 「でも」; 「にあたって」 cần danh từ chỉ sự kiện."},
+    {"id": "b06-p2", "kind": "form", "ref": "b06-2", "q": "この{計画|けいかく}は{莫大|ばくだい}な{費用|ひよう}がかかる。（　　）、{周辺|しゅうへん}の{環境|かんきょう}への{影響|えいきょう}も{心配|しんぱい}されている。", "options": ["上に", "ばかりか", "はもとより", "のみならず"], "answer": 3, "vi": "Kế hoạch này tốn chi phí khổng lồ. Không những thế, ảnh hưởng đến môi trường xung quanh cũng đang bị lo ngại.", "why": "Chỗ trống đứng **đầu câu** làm liên từ → chỉ **のみならず** dùng được (= それだけでなく). 「上に」 muốn đứng đầu câu phải thành 「その上」; 「ばかりか」「はもとより」 không đứng đầu câu."},
+    {"id": "b06-p3", "kind": "form", "ref": "b06-3", "q": "{弟|おとうと}は{借|か}りたお{金|かね}を{返|かえ}さない（　　）、お{礼|れい}の{一言|ひとこと}さえ{言|い}わない。", "options": ["に限らず", "ばかりか", "はもとより", "とたん"], "answer": 1, "vi": "Em trai tôi chẳng những không trả tiền đã mượn mà đến một lời cảm ơn cũng không nói.", "why": "Xấu + xấu hơn, vế sau có 「さえ」 → **ばかりか**. 「に限らず」「はもとより」 chỉ nối danh từ; 「とたん」 cần Vた và diễn tả việc xảy ra ngay sau đó."},
+    {"id": "b06-p4", "kind": "form", "ref": "b06-4", "q": "{当|とう}ホテルでは、お{客様|きゃくさま}の{安全|あんぜん}（　　）、{快適|かいてき}さにも{十分|じゅうぶん}{配慮|はいりょ}しております。", "options": ["に限って", "に際して", "限りでは", "はもとより"], "answer": 3, "vi": "Tại khách sạn chúng tôi, an toàn của quý khách là điều đương nhiên, chúng tôi còn hết sức chú trọng đến sự thoải mái.", "why": "An toàn là điều **hiển nhiên** khách sạn phải lo, vế sau thêm 「快適さにも」 → **はもとより**. 「に限って」 = đúng lúc đó lại khác thường; 「に際して」 cần danh từ chỉ sự kiện; 「安全限りでは」 vô nghĩa."},
+    {"id": "b06-p5", "kind": "form", "ref": "b06-5", "q": "{今日|きょう}は{朝|あさ}から{雨|あめ}（　　）{風|かぜ}も{強|つよ}いので、{外出|がいしゅつ}は{控|ひか}えることにした。", "options": ["な上に", "に上に", "の上に", "である上で"], "answer": 2, "vi": "Hôm nay từ sáng đã mưa lại còn gió mạnh, nên tôi quyết định hạn chế ra ngoài.", "why": "「雨」 là danh từ → **の上に** (hoặc 「である上に」). 「な上に」 chỉ dùng cho な形; 「に上に」 sai; 「である上で」 là mẫu \"sau khi\" (上で), không hợp nghĩa."},
+    {"id": "b06-p6", "kind": "form", "ref": "b06-2", "q": "{彼女|かのじょ}は{女優|じょゆう}として（　　）、{映画|えいが}{監督|かんとく}としても{高|たか}い{評価|ひょうか}を{得|え}ている。", "options": ["のみならず", "に限らず", "上に", "に限って"], "answer": 0, "vi": "Cô ấy không chỉ được đánh giá cao với tư cách diễn viên mà còn với tư cách đạo diễn phim.", "why": "「N としてのみならず、N としても」 → **のみならず**. 「としてに限らず」「として上に」「としてに限って」 đều sai cách nối (に限らず・に限って đi thẳng sau danh từ; 上に cần mệnh đề / N の)."},
+    {"id": "b06-p7", "kind": "order", "ref": "b06-1", "q": "この{問題|もんだい}は ＿＿＿ ＿＿＿ ★ ＿＿＿ {関係|かんけい}している。", "options": ["深く", "すべての世代に", "限らず", "若者に"], "order": [3, 2, 1, 0], "answer": 1, "vi": "Vấn đề này không chỉ liên quan tới giới trẻ mà còn liên quan sâu sắc tới mọi thế hệ.", "why": "この問題は **若者に 限らず すべての世代に 深く** 関係している → ★ (ô thứ 3) = 「すべての世代に」. 「に限らず」 + từ chỉ phạm vi rộng (すべての); 「深く」 bổ nghĩa cho 「関係している」."},
+    {"id": "b06-p8", "kind": "order", "ref": "b06-5", "q": "{新|あたら}しい{職場|しょくば}は ＿＿＿ ＿＿＿ ★ ＿＿＿ 、とても{満足|まんぞく}している。", "options": ["いいので", "上に", "人間関係も", "通勤が楽な"], "order": [3, 1, 2, 0], "answer": 2, "vi": "Chỗ làm mới đã đi lại thuận tiện, quan hệ đồng nghiệp lại tốt, nên tôi rất hài lòng.", "why": "新しい職場は **通勤が楽な 上に 人間関係も いいので**、とても満足している → ★ (ô thứ 3) = 「人間関係も」. な形 + な + 上に; vế sau có 「も」."},
+    {"id": "b06-p9", "kind": "usage", "ref": "b06-4", "q": "「〜はもとより」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["この映画は、映像の美しさはもとより、音楽もすばらしい。", "彼は漢字が読めるはもとより、書くこともできる。", "日曜日はもとより、平日は店が休みだ。", "旅行の準備はもとより、ぜひ楽しんできてください。"], "answer": 0, "vi": "(1) Bộ phim này hình ảnh đẹp thì khỏi nói, đến âm nhạc cũng tuyệt vời.", "why": "(1): A hiển nhiên (映像の美しさ) + B thêm vào với 「も」 → đúng. (2) động từ không nối trực tiếp với はもとより (phải là 「読むのはもとより」). (3) vế sau dùng 「は」 đối lập, không phải 「も」 thêm vào → vô nghĩa. (4) vế sau không phải một ví dụ cùng loại với 「旅行の準備」."},
+    {"id": "b06-p10", "kind": "form", "ref": "b06-3", "q": "{母|はは}は{料理|りょうり}が{得意|とくい}な（　　）、{和菓子|わがし}まで{手作|てづく}りしてしまう。", "options": ["のみならず", "に限らず", "はもとより", "ばかりか"], "answer": 3, "vi": "Mẹ tôi chẳng những nấu ăn giỏi mà còn tự tay làm được cả bánh ngọt kiểu Nhật.", "why": "「得意**な**」 + chỗ trống, vế sau có 「まで」 → **ばかりか** (な形 + な + ばかりか). 「のみならず」 cần 「得意であるのみならず」; 「に限らず」「はもとより」 chỉ nối danh từ."},
+    {"id": "b06-p11", "kind": "usage", "ref": "b06-1", "q": "「〜に{限|かぎ}らず」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["彼は歌うに限らず、ダンスも上手だ。", "今日に限らず、なぜか彼は珍しく遅刻した。", "この店は、日曜日に限らず、毎日夜10時まで営業している。", "雨の日に限らず、晴れた日だけ散歩に出かける。"], "answer": 2, "vi": "(3) Cửa hàng này không chỉ Chủ nhật mà ngày nào cũng mở cửa đến 10 giờ tối.", "why": "(3): N に限らず + phạm vi rộng (毎日) → đúng. (1) に限らず không nối với động từ (歌に限らず／歌うのみならず). (2) \"đúng hôm nay lại khác thường\" → 「今日に限って」. (4) vế sau 「晴れた日だけ」 lại thu hẹp, mâu thuẫn với 「に限らず」."}
+  ],
+  "test": [
+    {"id": "b06-t1", "kind": "form", "ref": "b06-5", "q": "この{地域|ちいき}は{交通|こうつう}が{不便|ふべん}な（　　）、{日用品|にちようひん}を{買|か}える{店|みせ}も{少|すく}ない。", "options": ["上で", "に限らず", "上に", "はもとより"], "answer": 2, "vi": "Khu vực này đã đi lại bất tiện lại còn ít cửa hàng bán đồ dùng hằng ngày.", "why": "Hai điều bất lợi cùng chiều, な形 + な → **上に**. 「上で」 = sau khi (làm gì) — không hợp; 「に限らず」「はもとより」 chỉ nối danh từ, không nối 「不便な」."},
+    {"id": "b06-t2", "kind": "form", "ref": "b06-2", "q": "{今回|こんかい}の{不正|ふせい}は、{会社|かいしゃ}の{信用|しんよう}を{大|おお}きく{傷|きず}つけた（　　）、{業界|ぎょうかい}{全体|ぜんたい}のイメージまで{悪化|あっか}させた。", "options": ["に限らず", "のみならず", "はもとより", "に限って"], "answer": 1, "vi": "Vụ gian lận lần này không chỉ làm tổn hại nghiêm trọng uy tín của công ty mà còn làm xấu đi hình ảnh của cả ngành.", "why": "Trước chỗ trống là động từ thể た 「傷つけた」, văn phong báo chí → **のみならず**. 「に限らず」「はもとより」「に限って」 chỉ đi với danh từ."},
+    {"id": "b06-t3", "kind": "form", "ref": "b06-4", "q": "この{資格|しかく}があれば、{国内|こくない}（　　）、{海外|かいがい}の{企業|きぎょう}でも{働|はたら}くことができる。", "options": ["はもとより", "に限って", "に限り", "の上に"], "answer": 0, "vi": "Nếu có chứng chỉ này, trong nước thì đương nhiên, ngay cả ở doanh nghiệp nước ngoài cũng có thể làm việc.", "why": "Trong nước là chuyện hiển nhiên, vế sau thêm 「海外〜でも」 → **はもとより**. 「に限って」「に限り」 thu hẹp phạm vi, mâu thuẫn với 「でも」; 「の上に」 dùng để cộng dồn đặc điểm / tình trạng, không dùng để nối hai địa điểm như vậy."},
+    {"id": "b06-t4", "kind": "form", "ref": "b06-3", "q": "その{選手|せんしゅ}の{突然|とつぜん}の{引退|いんたい}{発表|はっぴょう}には、ファン（　　）、{普段|ふだん}スポーツに{興味|きょうみ}のない{人|ひと}までが{驚|おどろ}いた。", "options": ["上に", "に限って", "限りでは", "ばかりか"], "answer": 3, "vi": "Thông báo giải nghệ đột ngột của vận động viên đó khiến chẳng những người hâm mộ mà cả những người bình thường không quan tâm đến thể thao cũng bất ngờ.", "why": "N + chỗ trống + 「〜までが」 (thậm chí cả…) → **ばかりか**. 「上に」 với danh từ cần 「の」 (ファンの上に) và không dùng để liệt kê người; 「に限って」 thu hẹp, mâu thuẫn với 「まで」; 「限りでは」 cần động từ thông tin."},
+    {"id": "b06-t5", "kind": "order", "ref": "b06-2", "q": "この{技術|ぎじゅつ}は ＿＿＿ ＿＿＿ ★ ＿＿＿ {応用|おうよう}も{期待|きたい}されている。", "options": ["への", "農業や教育", "医療の", "分野のみならず"], "order": [2, 3, 1, 0], "answer": 1, "vi": "Công nghệ này được kỳ vọng ứng dụng không chỉ trong lĩnh vực y tế mà cả vào nông nghiệp và giáo dục.", "why": "この技術は **医療の 分野のみならず 農業や教育 への** 応用も期待されている → ★ (ô thứ 3) = 「農業や教育」. 「医療の」 bổ nghĩa 「分野」; 「農業や教育への」 bổ nghĩa 「応用」."},
+    {"id": "b06-t6", "kind": "order", "ref": "b06-4", "q": "{試験|しけん}の ＿＿＿ ＿＿＿ ★ ＿＿＿ {規則|きそく}{正|ただ}しい{生活|せいかつ}を{心|こころ}がけている。", "options": ["できるだけ", "前の日は", "普段から", "もとより"], "order": [1, 3, 2, 0], "answer": 2, "vi": "Không chỉ ngày trước kỳ thi, mà ngay cả bình thường tôi cũng cố gắng sống điều độ hết mức có thể.", "why": "試験の **前の日は もとより 普段から できるだけ** 規則正しい生活を心がけている → ★ (ô thứ 3) = 「普段から」. 「は」 + 「もとより」 ghép thành 「はもとより」; 「できるだけ」 bổ nghĩa cho 「規則正しい生活を心がける」."},
+    {"id": "b06-t7", "kind": "usage", "ref": "b06-3", "q": "「〜ばかりか」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["彼女はピアノが弾けるばかりか、作曲までできる。", "野菜ばかりか、肉もしっかり食べなさい。", "この部屋は広いばかりか、日当たりが悪い。", "会議に遅れたばかりか、すぐに謝ったので許してもらえた。"], "answer": 0, "vi": "(1) Cô ấy chẳng những chơi được piano mà còn sáng tác được nhạc.", "why": "(1): tốt + tốt hơn, có 「まで」 → đúng. (2) vế sau là mệnh lệnh → không dùng ばかりか (dùng 「だけでなく」). (3) tốt + xấu, ngược chiều → dùng 「が」. (4) lỗi + hành động tốt (謝った) → không cùng chiều, ばかりか không hợp."}
+  ]
+}

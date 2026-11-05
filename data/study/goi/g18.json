@@ -1,0 +1,1954 @@
+{
+  "id": "g18",
+  "track": "goi",
+  "intro": "Bài này có hai mảng rất khác nhau:\n\n- **Vấn đề môi trường (環境問題)**: từ vựng báo chí, hầu hết là 漢語 có âm Hán Việt dễ đoán — 環境保護 (bảo hộ môi trường), 温暖化 (ấm lên), 汚染 (ô nhiễm), 公害 (công hại), 排出量 (lượng thải)… Phần khó là **động từ đi kèm**: 影響を**及ぼす**／影響が**及ぶ**, 排出量を**制限する**, ごみを**回収する**, 下水道を**整備する**, 問題を**解決する**.\n- **Tự nhiên (自然)**: động vật và thực vật — nhiều từ **thuần Nhật (和語)** đọc bằng 訓読み nên phải học thuộc cách đọc: 獲物 (えもの), 群れ (むれ), 鶏 (にわとり), 雄 (おす)／雌 (めす), 茎 (くき), つぼみ, 杉 (すぎ), 子牛 (こうし).\n\nBa điểm then chốt: (1) cặp **tự/tha 及ぶ ↔ 及ぼす**; (2) phân biệt **飼育 (nuôi động vật) ↔ 栽培 (trồng cây)** và **繁殖 ↔ 絶滅**; (3) các tiền tố/hậu tố tạo từ: **〜化** (温暖化・砂漠化・深刻化), **〜量**, **古〜** (ふる), **子〜** (こ), **見〜**, **取り〜**.",
+  "sections": [
+    {
+      "title": "環境問題",
+      "title_vi": "Vấn đề môi trường",
+      "words": [
+        {
+          "id": "g18-w1",
+          "w": "環境保護",
+          "r": "かんきょうほご",
+          "hv": "HOÀN CẢNH BẢO HỘ",
+          "pos": "名",
+          "vi": "bảo vệ môi trường",
+          "key": true,
+          "ex": {
+            "ja": "この{会社|かいしゃ}は{売|う}り{上|あ}げの{一部|いちぶ}を{環境|かんきょう}{保護|ほご}{団体|だんたい}に{寄付|きふ}している。",
+            "vi": "Công ty này quyên góp một phần doanh thu cho tổ chức bảo vệ môi trường."
+          },
+          "col": [
+            "環境保護に取り組む",
+            "環境保護活動"
+          ],
+          "note": "保護 = bảo vệ khỏi nguy hại (動物を保護する, 個人情報の保護)."
+        },
+        {
+          "id": "g18-w2",
+          "w": "地球温暖化",
+          "r": "ちきゅうおんだんか",
+          "hv": "ĐỊA CẦU ÔN NOÃN HOÁ",
+          "pos": "名",
+          "vi": "sự nóng lên toàn cầu",
+          "key": true,
+          "ex": {
+            "ja": "{地球|ちきゅう}{温暖化|おんだんか}が{進|すす}むと、{海面|かいめん}が{上昇|じょうしょう}すると{言|い}われている。",
+            "vi": "Người ta nói nếu trái đất tiếp tục nóng lên thì mực nước biển sẽ dâng."
+          },
+          "col": [
+            "地球温暖化が進む",
+            "地球温暖化を防ぐ"
+          ]
+        },
+        {
+          "id": "g18-w3",
+          "w": "気候",
+          "r": "きこう",
+          "hv": "KHÍ HẬU",
+          "pos": "名",
+          "vi": "khí hậu",
+          "key": true,
+          "ex": {
+            "ja": "{沖縄|おきなわ}は{一年中|いちねんじゅう}{暖|あたた}かい{気候|きこう}だ。",
+            "vi": "Okinawa có khí hậu ấm áp quanh năm."
+          },
+          "note": "気候 = thời tiết trung bình trong thời gian dài của một vùng; 天気・天候 = thời tiết của một ngày / một thời gian ngắn."
+        },
+        {
+          "id": "g18-w4",
+          "w": "変動",
+          "r": "へんどう",
+          "hv": "BIẾN ĐỘNG",
+          "pos": "名・自動",
+          "vi": "biến động, dao động, thay đổi (lên xuống)",
+          "key": true,
+          "ex": {
+            "ja": "{為替|かわせ}レートは{毎日|まいにち}{変動|へんどう}している。",
+            "vi": "Tỷ giá hối đoái biến động hằng ngày."
+          },
+          "col": [
+            "気候が変動する",
+            "価格の変動",
+            "変動が激しい"
+          ],
+          "note": "変動 = thay đổi **lên xuống liên tục** (giá, nhiệt độ, số liệu). Thay đổi một lần, cố định → 変化."
+        },
+        {
+          "id": "g18-w5",
+          "w": "気候変動",
+          "r": "きこうへんどう",
+          "hv": "KHÍ HẬU BIẾN ĐỘNG",
+          "pos": "名",
+          "vi": "biến đổi khí hậu",
+          "key": true,
+          "ex": {
+            "ja": "{気候|きこう}{変動|へんどう}の{影響|えいきょう}で、{記録的|きろくてき}な{大雨|おおあめ}が{増|ふ}えている。",
+            "vi": "Do ảnh hưởng của biến đổi khí hậu, những trận mưa lớn kỷ lục đang gia tăng."
+          },
+          "col": [
+            "気候変動が起こる",
+            "気候変動対策"
+          ]
+        },
+        {
+          "id": "g18-w6",
+          "w": "温暖化",
+          "r": "おんだんか",
+          "hv": "ÔN NOÃN HOÁ",
+          "pos": "名・自動",
+          "vi": "sự ấm lên (của khí hậu)",
+          "key": true,
+          "ex": {
+            "ja": "{温暖化|おんだんか}のせいで、{冬|ふゆ}に{雪|ゆき}が{降|ふ}らない{地域|ちいき}が{増|ふ}えた。",
+            "vi": "Do khí hậu ấm lên, số vùng không có tuyết vào mùa đông đã tăng."
+          },
+          "col": [
+            "温暖化が進む",
+            "温暖化対策"
+          ],
+          "note": "温暖 (ôn hoà, ấm áp: 温暖な気候) + 化 (hoá)."
+        },
+        {
+          "id": "g18-w7",
+          "w": "砂漠化",
+          "r": "さばくか",
+          "hv": "SA MẠC HOÁ",
+          "pos": "名・自動",
+          "vi": "sa mạc hoá",
+          "key": true,
+          "ex": {
+            "ja": "{木|き}を{切|き}りすぎたことが、{砂漠化|さばくか}の{原因|げんいん}の{一|ひと}つだ。",
+            "vi": "Việc chặt quá nhiều cây là một trong những nguyên nhân gây sa mạc hoá."
+          },
+          "col": [
+            "砂漠化が進む",
+            "砂漠化を食い止める"
+          ]
+        },
+        {
+          "id": "g18-w8",
+          "w": "二酸化炭素",
+          "r": "にさんかたんそ",
+          "hv": "NHỊ TOAN HOÁ THÁN TỐ",
+          "pos": "名",
+          "vi": "khí CO2, đioxit cacbon",
+          "key": true,
+          "ex": {
+            "ja": "{植物|しょくぶつ}は{二酸化炭素|にさんかたんそ}を{吸収|きゅうしゅう}して{酸素|さんそ}を{出|だ}す。",
+            "vi": "Thực vật hấp thụ CO2 và nhả ra oxy."
+          },
+          "note": "酸素 (さんそ) = oxy, 炭素 (たんそ) = cacbon, 水素 (すいそ) = hydro."
+        },
+        {
+          "id": "g18-w9",
+          "w": "排出量",
+          "r": "はいしゅつりょう",
+          "hv": "BÀI XUẤT LƯỢNG",
+          "pos": "名",
+          "vi": "lượng khí thải, lượng thải ra",
+          "key": true,
+          "ex": {
+            "ja": "{電気|でんき}{自動車|じどうしゃ}は{走行中|そうこうちゅう}の{二酸化炭素|にさんかたんそ}の{排出量|はいしゅつりょう}がゼロだ。",
+            "vi": "Ô tô điện có lượng thải CO2 bằng 0 khi đang chạy."
+          },
+          "col": [
+            "排出量を減らす",
+            "排出量を制限する"
+          ],
+          "note": "排出 = thải ra ngoài (ガス, 汚水, ごみ). 排 = bài trừ, đẩy ra."
+        },
+        {
+          "id": "g18-w10",
+          "w": "制限",
+          "r": "せいげん",
+          "hv": "CHẾ HẠN",
+          "pos": "名・他動",
+          "vi": "hạn chế, giới hạn",
+          "key": true,
+          "ex": {
+            "ja": "この{道路|どうろ}は{夜間|やかん}、{大型|おおがた}トラックの{通行|つうこう}が{制限|せいげん}されている。",
+            "vi": "Con đường này hạn chế xe tải cỡ lớn lưu thông vào ban đêm."
+          },
+          "col": [
+            "制限速度",
+            "年齢制限",
+            "制限時間",
+            "食事を制限する"
+          ],
+          "rel": "≒ 制約"
+        },
+        {
+          "id": "g18-w11",
+          "w": "有害",
+          "r": "ゆうがい",
+          "hv": "HỮU HẠI",
+          "pos": "な形・名",
+          "vi": "có hại, độc hại",
+          "key": true,
+          "ex": {
+            "ja": "たばこの{煙|けむり}には{体|からだ}に{有害|ゆうがい}な{成分|せいぶん}が{多|おお}く{含|ふく}まれている。",
+            "vi": "Khói thuốc lá chứa nhiều thành phần có hại cho cơ thể."
+          },
+          "col": [
+            "有害な物質",
+            "有害物質",
+            "人体に有害だ"
+          ],
+          "rel": "↔ 無害",
+          "note": "Đọc ゆう**がい** (有 đọc ゆう như 有名). Khác 有効 (ゆうこう, có hiệu lực)."
+        },
+        {
+          "id": "g18-w12",
+          "w": "物質",
+          "r": "ぶっしつ",
+          "hv": "VẬT CHẤT",
+          "pos": "名",
+          "vi": "chất, vật chất",
+          "key": true,
+          "ex": {
+            "ja": "{水|みず}の{中|なか}から{微量|びりょう}の{化学|かがく}{物質|ぶっしつ}が{検出|けんしゅつ}された。",
+            "vi": "Một lượng nhỏ hoá chất đã được phát hiện trong nước."
+          },
+          "col": [
+            "有害物質",
+            "化学物質"
+          ],
+          "note": "Đọc ぶっ**しつ** (có っ). 物質 = chất (khái niệm khoa học); 物資 (ぶっし) = hàng hoá, nhu yếu phẩm (救援物資)."
+        },
+        {
+          "id": "g18-w13",
+          "w": "自然環境",
+          "r": "しぜんかんきょう",
+          "hv": "TỰ NHIÊN HOÀN CẢNH",
+          "pos": "名",
+          "vi": "môi trường tự nhiên",
+          "key": true,
+          "ex": {
+            "ja": "ダムの{建設|けんせつ}は{周辺|しゅうへん}の{自然|しぜん}{環境|かんきょう}を{大|おお}きく{変|か}えてしまう。",
+            "vi": "Việc xây đập làm thay đổi lớn môi trường tự nhiên xung quanh."
+          }
+        },
+        {
+          "id": "g18-w14",
+          "w": "影響",
+          "r": "えいきょう",
+          "hv": "ẢNH HƯỞNG",
+          "pos": "名・自動",
+          "vi": "ảnh hưởng",
+          "key": true,
+          "ex": {
+            "ja": "{子|こ}どもの{頃|ころ}に{読|よ}んだ{本|ほん}から{大|おお}きな{影響|えいきょう}を{受|う}けた。",
+            "vi": "Tôi chịu ảnh hưởng lớn từ những cuốn sách đọc hồi nhỏ."
+          },
+          "col": [
+            "影響を受ける",
+            "影響を与える",
+            "影響を及ぼす",
+            "影響が及ぶ"
+          ]
+        },
+        {
+          "id": "g18-w15",
+          "w": "及ぼす",
+          "r": "およぼす",
+          "hv": "CẬP",
+          "pos": "他動",
+          "vi": "gây ra (ảnh hưởng, thiệt hại) lan tới",
+          "key": true,
+          "ex": {
+            "ja": "スマートフォンの{使|つか}いすぎは、{子|こ}どもの{視力|しりょく}に{悪影響|あくえいきょう}を{及|およ}ぼすおそれがある。",
+            "vi": "Dùng điện thoại quá nhiều có nguy cơ gây ảnh hưởng xấu đến thị lực của trẻ."
+          },
+          "col": [
+            "影響を及ぼす",
+            "被害を及ぼす",
+            "危険を及ぼす"
+          ],
+          "note": "**Tha động từ**: [A が] B に影響**を**及ぼす. Thường đi với ảnh hưởng **xấu**, văn viết."
+        },
+        {
+          "id": "g18-w16",
+          "w": "及ぶ",
+          "r": "およぶ",
+          "hv": "CẬP",
+          "pos": "自動",
+          "vi": "lan tới, đạt tới; kéo dài đến (con số, phạm vi)",
+          "key": true,
+          "senses": [
+            {
+              "vi": "(ảnh hưởng, thiệt hại) lan tới",
+              "ex": {
+                "ja": "{大雨|おおあめ}の{被害|ひがい}は{県内|けんない}{全域|ぜんいき}に{及|およ}んだ。",
+                "vi": "Thiệt hại do mưa lớn đã lan ra toàn tỉnh."
+              }
+            },
+            {
+              "vi": "đạt tới, kéo dài tới (con số, thời gian)",
+              "ex": {
+                "ja": "{会議|かいぎ}は{五時間|ごじかん}に{及|およ}んだ。",
+                "vi": "Cuộc họp kéo dài tới năm tiếng."
+              }
+            },
+            {
+              "vi": "(〜には及ばない) không cần phải…; không bằng",
+              "ex": {
+                "ja": "わざわざ{来|き}ていただくには{及|およ}びません。",
+                "vi": "Không cần anh phải cất công đến đâu ạ."
+              }
+            }
+          ],
+          "col": [
+            "影響が及ぶ",
+            "被害が及ぶ",
+            "〜に及ぶ"
+          ],
+          "note": "**Tự động từ**: 影響**が**及ぶ. Xem focus 及ぶ ↔ 及ぼす."
+        },
+        {
+          "id": "g18-w17",
+          "w": "自然破壊",
+          "r": "しぜんはかい",
+          "hv": "TỰ NHIÊN PHÁ HOẠI",
+          "pos": "名",
+          "vi": "sự tàn phá thiên nhiên",
+          "key": true,
+          "ex": {
+            "ja": "{開発|かいはつ}による{自然|しぜん}{破壊|はかい}が{野生|やせい}{動物|どうぶつ}の{住|す}む{場所|ばしょ}を{奪|うば}っている。",
+            "vi": "Sự tàn phá thiên nhiên do khai thác đang cướp đi nơi sống của động vật hoang dã."
+          },
+          "col": [
+            "自然破壊が進む",
+            "自然破壊を防ぐ"
+          ],
+          "rel": "≒ 環境破壊"
+        },
+        {
+          "id": "g18-w18",
+          "w": "現状",
+          "r": "げんじょう",
+          "hv": "HIỆN TRẠNG",
+          "pos": "名",
+          "vi": "hiện trạng, tình hình hiện tại",
+          "key": true,
+          "ex": {
+            "ja": "{現状|げんじょう}のままでは、{目標|もくひょう}の{達成|たっせい}は{難|むずか}しい。",
+            "vi": "Nếu cứ giữ tình trạng như hiện nay thì khó đạt mục tiêu."
+          },
+          "col": [
+            "現状を知る",
+            "現状を把握する",
+            "現状維持"
+          ],
+          "note": "Đọc げん**じょう**. Đừng nhầm với 現場 (げんば, hiện trường)."
+        },
+        {
+          "id": "g18-w19",
+          "w": "回収",
+          "r": "かいしゅう",
+          "hv": "HỒI THU",
+          "pos": "名・他動",
+          "vi": "thu gom, thu hồi",
+          "key": true,
+          "ex": {
+            "ja": "{欠陥|けっかん}が{見|み}つかったため、メーカーは{製品|せいひん}を{回収|かいしゅう}している。",
+            "vi": "Do phát hiện lỗi, nhà sản xuất đang thu hồi sản phẩm."
+          },
+          "col": [
+            "ごみを回収する",
+            "資源回収",
+            "アンケートを回収する"
+          ],
+          "note": "Thu lại những thứ đã phát ra / đã dùng: ごみ, 用紙, 製品 lỗi. Khác 収集 (thu thập, sưu tầm) và 回復."
+        },
+        {
+          "id": "g18-w20",
+          "w": "リサイクル",
+          "r": "りさいくる",
+          "hv": "",
+          "pos": "名・他動",
+          "vi": "tái chế",
+          "key": true,
+          "ex": {
+            "ja": "{使用済|しようず}みの{携帯|けいたい}{電話|でんわ}から{金|きん}を{取|と}り{出|だ}してリサイクルする。",
+            "vi": "Lấy vàng ra từ điện thoại đã qua sử dụng để tái chế."
+          },
+          "rel": "≒ 再利用・再生"
+        },
+        {
+          "id": "g18-w21",
+          "w": "ペットボトル",
+          "r": "ぺっとぼとる",
+          "hv": "",
+          "pos": "名",
+          "vi": "chai nhựa (PET)",
+          "key": true,
+          "ex": {
+            "ja": "ペットボトルはキャップとラベルを{外|はず}してから{捨|す}ててください。",
+            "vi": "Chai nhựa xin hãy tháo nắp và nhãn rồi mới vứt."
+          }
+        },
+        {
+          "id": "g18-w22",
+          "w": "古新聞",
+          "r": "ふるしんぶん",
+          "hv": "CỔ TÂN VĂN",
+          "pos": "名",
+          "vi": "báo cũ",
+          "key": true,
+          "ex": {
+            "ja": "{古新聞|ふるしんぶん}は{引|ひ}っ{越|こ}しのとき、{食器|しょっき}を{包|つつ}むのに{便利|べんり}だ。",
+            "vi": "Báo cũ tiện để gói bát đĩa khi chuyển nhà."
+          },
+          "note": "古〜 đọc **ふる** (訓読み): 古新聞, 古雑誌, 古着 (ふるぎ, quần áo cũ). Không đọc こしんぶん."
+        },
+        {
+          "id": "g18-w23",
+          "w": "牛乳パック",
+          "r": "ぎゅうにゅうぱっく",
+          "hv": "NGƯU NHŨ",
+          "pos": "名",
+          "vi": "hộp giấy đựng sữa",
+          "key": true,
+          "ex": {
+            "ja": "{牛乳|ぎゅうにゅう}パックは{洗|あら}って{開|ひら}いてから、スーパーの{回収|かいしゅう}{箱|ばこ}に{入|い}れる。",
+            "vi": "Hộp sữa giấy thì rửa sạch, mở ra rồi bỏ vào thùng thu gom ở siêu thị."
+          }
+        },
+        {
+          "id": "g18-w24",
+          "w": "瓶",
+          "r": "びん",
+          "hv": "BÌNH",
+          "pos": "名",
+          "vi": "chai, lọ (thuỷ tinh)",
+          "key": true,
+          "ex": {
+            "ja": "{空|あ}き{瓶|びん}は{火曜日|かようび}に{出|だ}してください。",
+            "vi": "Chai lọ rỗng xin hãy bỏ ra vào thứ Ba."
+          },
+          "col": [
+            "空き瓶",
+            "瓶ビール",
+            "ガラス瓶"
+          ],
+          "note": "Thường viết かな: びん."
+        },
+        {
+          "id": "g18-w25",
+          "w": "缶",
+          "r": "かん",
+          "hv": "QUÁN",
+          "pos": "名",
+          "vi": "lon, hộp kim loại",
+          "key": true,
+          "ex": {
+            "ja": "{自動販売機|じどうはんばいき}の{横|よこ}に、{空|あ}き{缶|かん}を{入|い}れる{箱|はこ}がある。",
+            "vi": "Bên cạnh máy bán hàng tự động có thùng bỏ vỏ lon."
+          },
+          "col": [
+            "空き缶",
+            "缶詰 (かんづめ)",
+            "缶コーヒー"
+          ]
+        },
+        {
+          "id": "g18-w26",
+          "w": "大気",
+          "r": "たいき",
+          "hv": "ĐẠI KHÍ",
+          "pos": "名",
+          "vi": "khí quyển, không khí (bao quanh trái đất)",
+          "key": true,
+          "ex": {
+            "ja": "{工場|こうじょう}が{減|へ}って、{都市|とし}の{大気|たいき}はきれいになった。",
+            "vi": "Nhà máy giảm đi nên không khí ở thành phố đã sạch hơn."
+          },
+          "note": "Đọc **たい**き (không phải だいき)."
+        },
+        {
+          "id": "g18-w27",
+          "w": "汚染",
+          "r": "おせん",
+          "hv": "Ô NHIỄM",
+          "pos": "名・自他動",
+          "vi": "ô nhiễm, làm ô nhiễm",
+          "key": true,
+          "ex": {
+            "ja": "{事故|じこ}で{流|なが}れ{出|だ}した{油|あぶら}が{海|うみ}を{汚染|おせん}した。",
+            "vi": "Dầu tràn ra do tai nạn đã làm ô nhiễm biển."
+          },
+          "col": [
+            "大気が汚染される",
+            "水質汚染",
+            "土壌汚染"
+          ]
+        },
+        {
+          "id": "g18-w28",
+          "w": "深刻",
+          "r": "しんこく",
+          "hv": "THÂM KHẮC",
+          "pos": "な形",
+          "vi": "nghiêm trọng, trầm trọng",
+          "key": true,
+          "ex": {
+            "ja": "{人手|ひとで}{不足|ぶそく}は{介護|かいご}の{現場|げんば}で{特|とく}に{深刻|しんこく}だ。",
+            "vi": "Thiếu nhân lực đặc biệt nghiêm trọng ở các cơ sở chăm sóc người già."
+          },
+          "col": [
+            "深刻な問題",
+            "深刻な顔",
+            "深刻化する"
+          ],
+          "rel": "≒ 重大",
+          "note": "「深刻な顔」 = vẻ mặt nghiêm trọng, lo âu."
+        },
+        {
+          "id": "g18-w29",
+          "w": "公害",
+          "r": "こうがい",
+          "hv": "CÔNG HẠI",
+          "pos": "名",
+          "vi": "ô nhiễm công nghiệp, \"công hại\" (tác hại môi trường do hoạt động sản xuất gây ra cho cộng đồng)",
+          "key": true,
+          "ex": {
+            "ja": "{日本|にほん}では{一九六〇年代|せんきゅうひゃくろくじゅうねんだい}に{公害|こうがい}が{大|おお}きな{社会|しゃかい}{問題|もんだい}になった。",
+            "vi": "Ở Nhật, vào những năm 1960 ô nhiễm công nghiệp đã trở thành vấn đề xã hội lớn."
+          },
+          "col": [
+            "公害問題",
+            "公害病"
+          ],
+          "note": "Cùng âm こうがい: 郊外 (ngoại ô). Ngữ cảnh môi trường → 公害."
+        },
+        {
+          "id": "g18-w30",
+          "w": "騒音",
+          "r": "そうおん",
+          "hv": "TAO ÂM",
+          "pos": "名",
+          "vi": "tiếng ồn",
+          "key": true,
+          "ex": {
+            "ja": "{線路|せんろ}の{近|ちか}くに{住|す}んでいるので、{電車|でんしゃ}の{騒音|そうおん}に{悩|なや}まされている。",
+            "vi": "Sống gần đường ray nên tôi bị tiếng ồn tàu điện làm phiền."
+          },
+          "col": [
+            "騒音問題",
+            "騒音がひどい"
+          ],
+          "note": "騒 = 騒ぐ (さわぐ, làm ồn)."
+        },
+        {
+          "id": "g18-w31",
+          "w": "大気汚染",
+          "r": "たいきおせん",
+          "hv": "ĐẠI KHÍ Ô NHIỄM",
+          "pos": "名",
+          "vi": "ô nhiễm không khí",
+          "key": true,
+          "ex": {
+            "ja": "{大気|たいき}{汚染|おせん}がひどい{日|ひ}は、マスクをして{外出|がいしゅつ}する。",
+            "vi": "Ngày ô nhiễm không khí nặng tôi đeo khẩu trang khi ra ngoài."
+          }
+        },
+        {
+          "id": "g18-w32",
+          "w": "解決",
+          "r": "かいけつ",
+          "hv": "GIẢI QUYẾT",
+          "pos": "名・自他動",
+          "vi": "giải quyết",
+          "ex": {
+            "ja": "{話|はな}し{合|あ}いで{問題|もんだい}が{解決|かいけつ}してよかった。",
+            "vi": "May là vấn đề đã được giải quyết bằng thương lượng."
+          },
+          "col": [
+            "問題を解決する",
+            "解決策"
+          ],
+          "key": true
+        },
+        {
+          "id": "g18-w33",
+          "w": "下水道",
+          "r": "げすいどう",
+          "hv": "HẠ THỦY ĐẠO",
+          "pos": "名",
+          "vi": "hệ thống cống thoát nước",
+          "key": true,
+          "ex": {
+            "ja": "{下水道|げすいどう}が{整備|せいび}されて、{川|かわ}の{水|みず}がきれいになった。",
+            "vi": "Hệ thống cống được xây dựng hoàn chỉnh nên nước sông đã sạch hơn."
+          },
+          "rel": "↔ 上水道 (nước máy)",
+          "note": "下 đọc **げ** (như 下品, 下車)."
+        },
+        {
+          "id": "g18-w34",
+          "w": "整備",
+          "r": "せいび",
+          "hv": "CHỈNH BỊ",
+          "pos": "名・他動",
+          "vi": "xây dựng hoàn chỉnh (cơ sở hạ tầng); bảo dưỡng (máy móc)",
+          "key": true,
+          "senses": [
+            {
+              "vi": "xây dựng, hoàn thiện (đường sá, hệ thống, chế độ)",
+              "ex": {
+                "ja": "{市|し}は{駅|えき}{周辺|しゅうへん}の{道路|どうろ}を{整備|せいび}する{予定|よてい}だ。",
+                "vi": "Thành phố dự định cải tạo hoàn chỉnh đường sá quanh nhà ga."
+              }
+            },
+            {
+              "vi": "bảo dưỡng, kiểm tra (xe, máy bay)",
+              "ex": {
+                "ja": "{飛行機|ひこうき}は{毎回|まいかい}{出発|しゅっぱつ}{前|まえ}に{整備|せいび}される。",
+                "vi": "Máy bay được bảo dưỡng trước mỗi lần cất cánh."
+              }
+            }
+          ],
+          "col": [
+            "下水道を整備する",
+            "環境を整備する",
+            "整備士"
+          ],
+          "note": "Khác 整理 (sắp xếp đồ đạc, giấy tờ) — 整備 là làm cho **hệ thống / máy móc** sẵn sàng hoạt động."
+        }
+      ]
+    },
+    {
+      "title": "動物",
+      "title_vi": "Động vật",
+      "words": [
+        {
+          "id": "g18-w35",
+          "w": "繁殖",
+          "r": "はんしょく",
+          "hv": "PHỒN THỰC",
+          "pos": "名・自動",
+          "vi": "sinh sôi, sinh sản",
+          "key": true,
+          "ex": {
+            "ja": "{夏|なつ}は{気温|きおん}が{高|たか}く、{細菌|さいきん}が{繁殖|はんしょく}しやすい。",
+            "vi": "Mùa hè nhiệt độ cao nên vi khuẩn dễ sinh sôi."
+          },
+          "col": [
+            "繁殖期",
+            "繁殖力"
+          ],
+          "rel": "↔ 絶滅"
+        },
+        {
+          "id": "g18-w36",
+          "w": "絶滅",
+          "r": "ぜつめつ",
+          "hv": "TUYỆT DIỆT",
+          "pos": "名・自動",
+          "vi": "tuyệt chủng",
+          "key": true,
+          "ex": {
+            "ja": "トキは{一度|いちど}{日本|にほん}で{絶滅|ぜつめつ}したが、{今|いま}は{保護|ほご}されて{数|かず}が{増|ふ}えている。",
+            "vi": "Cò quăm Nhật từng tuyệt chủng ở Nhật một lần, nay được bảo vệ và số lượng đang tăng."
+          },
+          "col": [
+            "絶滅の危機",
+            "絶滅危惧種",
+            "絶滅する"
+          ],
+          "note": "滅 (diệt) — trong 滅びる. Đừng viết thành 減 (giảm)."
+        },
+        {
+          "id": "g18-w37",
+          "w": "獲物",
+          "r": "えもの",
+          "hv": "HOẠCH VẬT",
+          "pos": "名",
+          "vi": "con mồi; thứ săn bắt được",
+          "key": true,
+          "ex": {
+            "ja": "ワシは{空|そら}の{高|たか}いところから{獲物|えもの}を{探|さが}す。",
+            "vi": "Đại bàng tìm con mồi từ trên cao."
+          },
+          "note": "Đọc **えもの** (訓読み đặc biệt), không phải かくぶつ."
+        },
+        {
+          "id": "g18-w38",
+          "w": "襲う",
+          "r": "おそう",
+          "hv": "TẬP",
+          "pos": "他動",
+          "vi": "tấn công, tập kích; (thiên tai, cảm giác) ập đến",
+          "key": true,
+          "ex": {
+            "ja": "{昼食|ちゅうしょく}の{後|あと}、{強|つよ}い{眠気|ねむけ}に{襲|おそ}われた。",
+            "vi": "Sau bữa trưa, cơn buồn ngủ dữ dội ập đến."
+          },
+          "col": [
+            "獲物を襲う",
+            "台風が襲う",
+            "不安に襲われる"
+          ],
+          "note": "Hay dùng ở bị động: 「台風に襲われる」「眠気に襲われる」."
+        },
+        {
+          "id": "g18-w39",
+          "w": "えさ",
+          "r": "えさ",
+          "hv": "NHĨ",
+          "pos": "名",
+          "vi": "thức ăn cho động vật; mồi (câu cá)",
+          "key": true,
+          "ex": {
+            "ja": "{毎朝|まいあさ}、{金魚|きんぎょ}にえさをやるのが{弟|おとうと}の{仕事|しごと}だ。",
+            "vi": "Cho cá vàng ăn mỗi sáng là việc của em trai tôi."
+          },
+          "col": [
+            "えさをやる",
+            "えさに群がる"
+          ],
+          "note": "Kanji 餌 (ít dùng). Nói \"cho ăn\" với động vật dùng **やる／あげる**: えさをやる."
+        },
+        {
+          "id": "g18-w40",
+          "w": "群がる",
+          "r": "むらがる",
+          "hv": "QUẦN",
+          "pos": "自動",
+          "vi": "bu lại, xúm lại thành đám",
+          "key": true,
+          "ex": {
+            "ja": "{人気|にんき}{歌手|かしゅ}の{周|まわ}りにファンが{群|むら}がった。",
+            "vi": "Người hâm mộ xúm quanh ca sĩ nổi tiếng."
+          },
+          "col": [
+            "えさに群がる",
+            "〜に群がる"
+          ],
+          "note": "Đọc **むら**がる (không phải むれがる)."
+        },
+        {
+          "id": "g18-w41",
+          "w": "群れ",
+          "r": "むれ",
+          "hv": "QUẦN",
+          "pos": "名",
+          "vi": "bầy, đàn",
+          "key": true,
+          "ex": {
+            "ja": "イワシは{大|おお}きな{群|む}れを{作|つく}って{泳|およ}ぐ。",
+            "vi": "Cá mòi bơi thành những đàn lớn."
+          },
+          "col": [
+            "群れで行動する",
+            "群れを作る"
+          ],
+          "note": "Động từ: 群れる (むれる, tụ thành đàn) — khác cách đọc với 群がる (むらがる)."
+        },
+        {
+          "id": "g18-w79",
+          "w": "羊",
+          "r": "ひつじ",
+          "hv": "DƯƠNG",
+          "pos": "名",
+          "vi": "con cừu",
+          "key": true,
+          "ex": {
+            "ja": "{牧場|ぼくじょう}では{羊|ひつじ}が{群|む}れになって{草|くさ}を{食|た}べていた。",
+            "vi": "Ở trang trại, đàn cừu đang tụm lại thành bầy ăn cỏ."
+          },
+          "note": "Thường đi cùng 群れ: 羊の群れ (đàn cừu)."
+        },
+        {
+          "id": "g18-w42",
+          "w": "行動",
+          "r": "こうどう",
+          "hv": "HÀNH ĐỘNG",
+          "pos": "名・自動",
+          "vi": "hành động, hoạt động",
+          "ex": {
+            "ja": "{言葉|ことば}より{行動|こうどう}で{示|しめ}してほしい。",
+            "vi": "Tôi muốn anh thể hiện bằng hành động hơn là lời nói."
+          },
+          "col": [
+            "群れで行動する",
+            "団体行動"
+          ]
+        },
+        {
+          "id": "g18-w43",
+          "w": "小屋",
+          "r": "こや",
+          "hv": "TIỂU ỐC",
+          "pos": "名",
+          "vi": "chuồng, lán, túp lều",
+          "key": true,
+          "ex": {
+            "ja": "{山|やま}の{小屋|こや}で{一晩|ひとばん}{泊|と}まってから{頂上|ちょうじょう}を{目指|めざ}した。",
+            "vi": "Nghỉ một đêm ở lán trên núi rồi mới lên đỉnh."
+          },
+          "col": [
+            "山小屋",
+            "犬小屋",
+            "鶏小屋"
+          ]
+        },
+        {
+          "id": "g18-w44",
+          "w": "鶏",
+          "r": "にわとり",
+          "hv": "KÊ",
+          "pos": "名",
+          "vi": "con gà",
+          "key": true,
+          "ex": {
+            "ja": "{祖母|そぼ}の{家|いえ}では{鶏|にわとり}を{飼|か}っていて、{毎朝|まいあさ}{卵|たまご}を{取|と}る。",
+            "vi": "Nhà bà tôi nuôi gà, sáng nào cũng lấy trứng."
+          },
+          "note": "Thịt gà là 鶏肉 (とりにく hoặc けいにく)."
+        },
+        {
+          "id": "g18-w45",
+          "w": "飼育",
+          "r": "しいく",
+          "hv": "TỰ DỤC",
+          "pos": "名・他動",
+          "vi": "nuôi (động vật)",
+          "key": true,
+          "ex": {
+            "ja": "{小学校|しょうがっこう}では{子|こ}どもたちが{交代|こうたい}でウサギを{飼育|しいく}している。",
+            "vi": "Ở trường tiểu học, các em thay phiên nhau nuôi thỏ."
+          },
+          "col": [
+            "飼育係",
+            "飼育員",
+            "家畜を飼育する"
+          ],
+          "note": "Chỉ dùng cho **động vật**. Người → 育てる・育成; cây → 栽培."
+        },
+        {
+          "id": "g18-w46",
+          "w": "危害",
+          "r": "きがい",
+          "hv": "NGUY HẠI",
+          "pos": "名",
+          "vi": "sự làm hại, gây nguy hiểm (cho người)",
+          "key": true,
+          "ex": {
+            "ja": "{山|やま}でクマに{会|あ}っても、{刺激|しげき}しなければ{危害|きがい}を{加|くわ}えることは{少|すく}ない。",
+            "vi": "Gặp gấu trên núi, nếu không kích động thì ít khi nó gây hại."
+          },
+          "col": [
+            "危害を加える",
+            "危害を及ぼす"
+          ],
+          "note": "Động từ đi kèm: 危害を**加える**. 被害 (thiệt hại) là phía **bị** — 被害を受ける."
+        },
+        {
+          "id": "g18-w80",
+          "w": "クマ",
+          "r": "くま",
+          "hv": "",
+          "pos": "名",
+          "vi": "con gấu (viết kanji: 熊)",
+          "key": true,
+          "ex": {
+            "ja": "{山道|やまみち}でクマに{出会|であ}わないよう、{鈴|すず}を{鳴|な}らしながら{歩|ある}いた。",
+            "vi": "Tôi vừa đi vừa rung chuông để không chạm trán gấu trên đường núi."
+          },
+          "note": "Tên động vật trong văn bản khoa học, tin tức hay viết bằng katakana (クマ, ウサギ, キツネ)."
+        },
+        {
+          "id": "g18-w47",
+          "w": "加える",
+          "r": "くわえる",
+          "hv": "GIA",
+          "pos": "他動",
+          "vi": "thêm vào; gây (tác động lên ai)",
+          "ex": {
+            "ja": "{塩|しお}を{少|すこ}し{加|くわ}えると、{味|あじ}がぐっと{良|よ}くなる。",
+            "vi": "Thêm một chút muối thì vị ngon hẳn lên."
+          },
+          "col": [
+            "危害を加える",
+            "圧力を加える",
+            "仲間に加える"
+          ]
+        },
+        {
+          "id": "g18-w81",
+          "w": "ヒヨコ",
+          "r": "ひよこ",
+          "hv": "",
+          "pos": "名",
+          "vi": "gà con",
+          "key": true,
+          "ex": {
+            "ja": "{卵|たまご}からかえったばかりのヒヨコは、{雄|おす}か{雌|めす}か{見分|みわ}けにくい。",
+            "vi": "Gà con vừa nở khỏi trứng rất khó phân biệt trống hay mái."
+          }
+        },
+        {
+          "id": "g18-w48",
+          "w": "雄",
+          "r": "おす",
+          "hv": "HÙNG",
+          "pos": "名",
+          "vi": "con đực",
+          "key": true,
+          "ex": {
+            "ja": "ライオンは{雄|おす}にだけたてがみがある。",
+            "vi": "Sư tử chỉ con đực mới có bờm."
+          },
+          "rel": "↔ 雌",
+          "note": "Dùng cho động vật. Người → 男性. Từ ghép Hán: 雄大 (ゆうだい, hùng vĩ)."
+        },
+        {
+          "id": "g18-w49",
+          "w": "雌",
+          "r": "めす",
+          "hv": "THƯ",
+          "pos": "名",
+          "vi": "con cái",
+          "key": true,
+          "ex": {
+            "ja": "この{猫|ねこ}は{雌|めす}で、{去年|きょねん}{子|こ}どもを{四匹|よんひき}{産|う}んだ。",
+            "vi": "Con mèo này là mèo cái, năm ngoái đẻ bốn con."
+          },
+          "rel": "↔ 雄",
+          "note": "Mẹo nhớ: **お**す = **o**toko (đực), **め**す = **me** (女 め trong 女神 めがみ)."
+        },
+        {
+          "id": "g18-w50",
+          "w": "見分ける",
+          "r": "みわける",
+          "hv": "KIẾN PHÂN",
+          "pos": "他動",
+          "vi": "phân biệt (bằng mắt), nhận ra sự khác nhau",
+          "key": true,
+          "ex": {
+            "ja": "{双子|ふたご}の{兄弟|きょうだい}はよく{似|に}ていて、{親|おや}でも{見分|みわ}けるのが{難|むずか}しい。",
+            "vi": "Cặp anh em sinh đôi giống nhau đến mức bố mẹ cũng khó phân biệt."
+          },
+          "col": [
+            "本物と偽物を見分ける",
+            "AとBを見分ける"
+          ],
+          "rel": "≒ 区別する・識別する"
+        },
+        {
+          "id": "g18-w51",
+          "w": "一頭",
+          "r": "いっとう",
+          "hv": "NHẤT ĐẦU",
+          "pos": "名",
+          "vi": "một con (đếm động vật lớn)",
+          "key": true,
+          "ex": {
+            "ja": "{動物園|どうぶつえん}でキリンの{赤|あか}ちゃんが{一頭|いっとう}{生|う}まれた。",
+            "vi": "Ở sở thú, một con hươu cao cổ con đã chào đời."
+          },
+          "note": "〜頭 (とう) đếm **động vật lớn** (bò, ngựa, voi, sư tử); 〜匹 (ひき) đếm động vật nhỏ (mèo, chó nhỏ, cá); 〜羽 (わ) đếm chim, thỏ."
+        },
+        {
+          "id": "g18-w52",
+          "w": "昆虫",
+          "r": "こんちゅう",
+          "hv": "CÔN TRÙNG",
+          "pos": "名",
+          "vi": "côn trùng",
+          "key": true,
+          "ex": {
+            "ja": "{夏休|なつやす}みに{森|もり}で{珍|めずら}しい{昆虫|こんちゅう}を{見|み}つけた。",
+            "vi": "Kỳ nghỉ hè tôi tìm thấy một loài côn trùng hiếm trong rừng."
+          },
+          "rel": "≒ 虫 (văn nói)"
+        },
+        {
+          "id": "g18-w53",
+          "w": "観察",
+          "r": "かんさつ",
+          "hv": "QUAN SÁT",
+          "pos": "名・他動",
+          "vi": "quan sát (kỹ lưỡng, để tìm hiểu)",
+          "ex": {
+            "ja": "アサガオの{成長|せいちょう}を{毎日|まいにち}{観察|かんさつ}して、{日記|にっき}に{記録|きろく}した。",
+            "vi": "Tôi quan sát sự lớn lên của cây bìm bìm mỗi ngày và ghi vào nhật ký."
+          },
+          "col": [
+            "観察日記",
+            "観察力",
+            "経過を観察する"
+          ],
+          "note": "Khác 観測 (đo đạc thiên văn, thời tiết bằng máy) và 監視 (giám sát, canh chừng)."
+        }
+      ]
+    },
+    {
+      "title": "植物",
+      "title_vi": "Thực vật",
+      "words": [
+        {
+          "id": "g18-w82",
+          "w": "植物",
+          "r": "しょくぶつ",
+          "hv": "THỰC VẬT",
+          "pos": "名",
+          "vi": "thực vật, cây cỏ",
+          "key": true,
+          "ex": {
+            "ja": "この{植物|しょくぶつ}は{日光|にっこう}が{少|すく}なくてもよく{育|そだ}つ。",
+            "vi": "Loài cây này dù ít ánh nắng vẫn lớn tốt."
+          },
+          "col": [
+            "植物の品種",
+            "観葉植物",
+            "植物園"
+          ]
+        },
+        {
+          "id": "g18-w54",
+          "w": "植える",
+          "r": "うえる",
+          "hv": "THỰC",
+          "pos": "他動",
+          "vi": "trồng (cây, hoa)",
+          "key": true,
+          "ex": {
+            "ja": "{卒業|そつぎょう}{記念|きねん}に{校庭|こうてい}に{桜|さくら}の{木|き}を{植|う}えた。",
+            "vi": "Để kỷ niệm tốt nghiệp, chúng tôi trồng cây anh đào ở sân trường."
+          },
+          "col": [
+            "木を植える",
+            "苗を植える"
+          ],
+          "note": "植える = đặt cây/cây con xuống đất. Gieo hạt → 種をまく."
+        },
+        {
+          "id": "g18-w55",
+          "w": "栽培",
+          "r": "さいばい",
+          "hv": "TÀI BỒI",
+          "pos": "名・他動",
+          "vi": "trồng trọt, canh tác (cây có mục đích thu hoạch)",
+          "key": true,
+          "ex": {
+            "ja": "この{地方|ちほう}では{昔|むかし}からお{茶|ちゃ}が{栽培|さいばい}されている。",
+            "vi": "Vùng này từ xưa đã trồng chè."
+          },
+          "col": [
+            "作物を栽培する",
+            "有機栽培",
+            "家庭菜園で栽培する"
+          ],
+          "note": "栽 (TÀI, trồng — có bộ 木) ≠ 裁 (TÀI, phân xử — bộ 衣)."
+        },
+        {
+          "id": "g18-w56",
+          "w": "品種",
+          "r": "ひんしゅ",
+          "hv": "PHẨM CHỦNG",
+          "pos": "名",
+          "vi": "giống (cây trồng, vật nuôi)",
+          "key": true,
+          "ex": {
+            "ja": "{寒|さむ}さに{強|つよ}い{米|こめ}の{新|しん}{品種|ひんしゅ}が{開発|かいはつ}された。",
+            "vi": "Một giống lúa mới chịu lạnh tốt đã được tạo ra."
+          },
+          "col": [
+            "品種改良",
+            "新品種"
+          ],
+          "note": "Đọc ひん**しゅ** (種 đọc しゅ như 種類 しゅるい)."
+        },
+        {
+          "id": "g18-w57",
+          "w": "発芽",
+          "r": "はつが",
+          "hv": "PHÁT NHA",
+          "pos": "名・自動",
+          "vi": "nảy mầm",
+          "key": true,
+          "ex": {
+            "ja": "{種|たね}は{水|みず}と{温度|おんど}の{条件|じょうけん}がそろうと{発芽|はつが}する。",
+            "vi": "Hạt sẽ nảy mầm khi đủ điều kiện nước và nhiệt độ."
+          },
+          "col": [
+            "種が発芽する"
+          ],
+          "rel": "≒ 芽が出る",
+          "note": "芽 (め) = mầm; đọc **が** trong từ Hán."
+        },
+        {
+          "id": "g18-w58",
+          "w": "茎",
+          "r": "くき",
+          "hv": "HÀNH",
+          "pos": "名",
+          "vi": "thân cây (thân thảo), cuống",
+          "key": true,
+          "ex": {
+            "ja": "ひまわりの{茎|くき}はまっすぐ{上|うえ}に{伸|の}びる。",
+            "vi": "Thân cây hướng dương vươn thẳng lên trên."
+          },
+          "note": "茎 = thân **mềm** của cây cỏ, hoa; thân cây gỗ lớn → 幹 (みき)."
+        },
+        {
+          "id": "g18-w59",
+          "w": "伸びる",
+          "r": "のびる",
+          "hv": "THÂN",
+          "pos": "自動",
+          "vi": "dài ra, vươn ra; tăng lên",
+          "ex": {
+            "ja": "{雨|あめ}が{続|つづ}いて、{庭|にわ}の{草|くさ}がずいぶん{伸|の}びた。",
+            "vi": "Mưa liên tục nên cỏ trong vườn mọc dài ra nhiều."
+          },
+          "col": [
+            "茎が伸びる",
+            "背が伸びる",
+            "売り上げが伸びる"
+          ]
+        },
+        {
+          "id": "g18-w60",
+          "w": "つぼみ",
+          "r": "つぼみ",
+          "hv": "",
+          "pos": "名",
+          "vi": "nụ hoa",
+          "key": true,
+          "ex": {
+            "ja": "{暖|あたた}かい{日|ひ}が{続|つづ}き、チューリップのつぼみが{色|いろ}づいてきた。",
+            "vi": "Những ngày ấm áp kéo dài, nụ tulip đã bắt đầu lên màu."
+          },
+          "col": [
+            "つぼみが膨らむ",
+            "つぼみが開く"
+          ],
+          "note": "Kanji 蕾 (ít dùng, thường viết かな)."
+        },
+        {
+          "id": "g18-w61",
+          "w": "膨らむ",
+          "r": "ふくらむ",
+          "hv": "BÀNH",
+          "pos": "自動",
+          "vi": "phồng lên, căng lên; (kế hoạch, kỳ vọng) lớn dần",
+          "key": true,
+          "ex": {
+            "ja": "{旅行|りょこう}の{計画|けいかく}を{立|た}てているうちに、{期待|きたい}がどんどん{膨|ふく}らんだ。",
+            "vi": "Trong lúc lên kế hoạch du lịch, kỳ vọng cứ thế lớn dần."
+          },
+          "col": [
+            "つぼみが膨らむ",
+            "夢が膨らむ",
+            "予算が膨らむ"
+          ],
+          "rel": "tha động từ: 膨らませる"
+        },
+        {
+          "id": "g18-w62",
+          "w": "開花",
+          "r": "かいか",
+          "hv": "KHAI HOA",
+          "pos": "名・自動",
+          "vi": "(hoa) nở; (tài năng) nở rộ",
+          "key": true,
+          "ex": {
+            "ja": "{今年|ことし}は{暖冬|だんとう}で、{桜|さくら}の{開花|かいか}が{例年|れいねん}より{早|はや}い。",
+            "vi": "Năm nay đông ấm nên hoa anh đào nở sớm hơn mọi năm."
+          },
+          "col": [
+            "開花予想",
+            "開花宣言",
+            "才能が開花する"
+          ]
+        },
+        {
+          "id": "g18-w63",
+          "w": "杉",
+          "r": "すぎ",
+          "hv": "SAM",
+          "pos": "名",
+          "vi": "cây tuyết tùng Nhật (sugi)",
+          "key": true,
+          "ex": {
+            "ja": "この{神社|じんじゃ}の{杉|すぎ}は{樹齢|じゅれい}{千年|せんねん}を{超|こ}えるという。",
+            "vi": "Nghe nói cây tuyết tùng ở đền này đã hơn nghìn tuổi."
+          }
+        },
+        {
+          "id": "g18-w64",
+          "w": "花粉",
+          "r": "かふん",
+          "hv": "HOA PHẤN",
+          "pos": "名",
+          "vi": "phấn hoa",
+          "key": true,
+          "ex": {
+            "ja": "{毎年|まいとし}{三月|さんがつ}になると、{花粉|かふん}のせいでくしゃみが{止|と}まらない。",
+            "vi": "Cứ đến tháng Ba hằng năm là tôi hắt hơi không ngừng vì phấn hoa."
+          },
+          "col": [
+            "花粉が飛ぶ",
+            "花粉症"
+          ],
+          "note": "花粉症 (かふんしょう) = dị ứng phấn hoa — \"bệnh quốc dân\" mùa xuân ở Nhật, chủ yếu do phấn cây 杉."
+        }
+      ]
+    },
+    {
+      "title": "語形成",
+      "title_vi": "Từ ghép, tiền tố, hậu tố",
+      "words": [
+        {
+          "id": "g18-w65",
+          "w": "自然保護",
+          "r": "しぜんほご",
+          "hv": "TỰ NHIÊN BẢO HỘ",
+          "pos": "名",
+          "vi": "bảo tồn thiên nhiên",
+          "ex": {
+            "ja": "{国立|こくりつ}{公園|こうえん}では{自然|しぜん}{保護|ほご}のため、{植物|しょくぶつ}の{採取|さいしゅ}が{禁止|きんし}されている。",
+            "vi": "Trong công viên quốc gia, để bảo tồn thiên nhiên, việc hái cây cỏ bị cấm."
+          },
+          "note": "〜保護: 環境保護, 自然保護, 動物保護, 個人情報保護.",
+          "key": true
+        },
+        {
+          "id": "g18-w66",
+          "w": "取り組む",
+          "r": "とりくむ",
+          "hv": "THỦ TỔ",
+          "pos": "自動",
+          "vi": "dồn sức giải quyết, nỗ lực thực hiện",
+          "ex": {
+            "ja": "{学校|がっこう}{全体|ぜんたい}で{節電|せつでん}に{取|と}り{組|く}んでいる。",
+            "vi": "Cả trường đang cùng nỗ lực tiết kiệm điện."
+          },
+          "col": [
+            "環境保護に取り組む",
+            "課題に取り組む"
+          ],
+          "note": "Đã học ở bài chính trị. Trợ từ **に**."
+        },
+        {
+          "id": "g18-w67",
+          "w": "取り入れる",
+          "r": "とりいれる",
+          "hv": "THỦ NHẬP",
+          "pos": "他動",
+          "vi": "tiếp thu, đưa vào áp dụng; thu (đồ) vào",
+          "key": true,
+          "senses": [
+            {
+              "vi": "tiếp thu, áp dụng (ý kiến, cái mới)",
+              "ex": {
+                "ja": "{日本|にほん}は{明治|めいじ}{時代|じだい}に{西洋|せいよう}の{技術|ぎじゅつ}を{積極的|せっきょくてき}に{取|と}り{入|い}れた。",
+                "vi": "Thời Minh Trị, Nhật Bản đã tích cực tiếp thu kỹ thuật phương Tây."
+              }
+            },
+            {
+              "vi": "thu vào trong (đồ phơi); thu hoạch",
+              "ex": {
+                "ja": "{雨|あめ}が{降|ふ}り{出|だ}したので、{急|いそ}いで{洗濯物|せんたくもの}を{取|と}り{入|い}れた。",
+                "vi": "Trời đổ mưa nên tôi vội thu quần áo phơi vào."
+              }
+            }
+          ],
+          "col": [
+            "意見を取り入れる",
+            "新技術を取り入れる"
+          ]
+        },
+        {
+          "id": "g18-w68",
+          "w": "深刻化",
+          "r": "しんこくか",
+          "hv": "THÂM KHẮC HOÁ",
+          "pos": "名・自動",
+          "vi": "trở nên nghiêm trọng hơn",
+          "ex": {
+            "ja": "{少子|しょうし}{高齢化|こうれいか}による{人手|ひとで}{不足|ぶそく}が{深刻化|しんこくか}している。",
+            "vi": "Tình trạng thiếu nhân lực do dân số già và ít sinh đang ngày càng nghiêm trọng."
+          },
+          "key": true
+        },
+        {
+          "id": "g18-w69",
+          "w": "産出量",
+          "r": "さんしゅつりょう",
+          "hv": "SẢN XUẤT LƯỢNG",
+          "pos": "名",
+          "vi": "sản lượng khai thác (khoáng sản, tài nguyên)",
+          "ex": {
+            "ja": "この{国|くに}は{石油|せきゆ}の{産出量|さんしゅつりょう}が{世界|せかい}{一位|いちい}だ。",
+            "vi": "Nước này đứng đầu thế giới về sản lượng khai thác dầu mỏ."
+          },
+          "note": "産出 = khai thác / sinh ra từ đất (石油, 金, 石炭). Hàng hoá do nhà máy làm ra → 生産量.",
+          "key": true
+        },
+        {
+          "id": "g18-w70",
+          "w": "環境破壊",
+          "r": "かんきょうはかい",
+          "hv": "HOÀN CẢNH PHÁ HOẠI",
+          "pos": "名",
+          "vi": "phá hoại môi trường",
+          "ex": {
+            "ja": "{便利|べんり}な{生活|せいかつ}が{環境|かんきょう}{破壊|はかい}につながっていることもある。",
+            "vi": "Cuộc sống tiện nghi đôi khi cũng dẫn đến phá hoại môi trường."
+          },
+          "key": true
+        },
+        {
+          "id": "g18-w71",
+          "w": "古雑誌",
+          "r": "ふるざっし",
+          "hv": "CỔ TẠP CHÍ",
+          "pos": "名",
+          "vi": "tạp chí cũ",
+          "ex": {
+            "ja": "{古雑誌|ふるざっし}は{資源|しげん}ごみとして{回収|かいしゅう}される。",
+            "vi": "Tạp chí cũ được thu gom như rác tái chế."
+          }
+        },
+        {
+          "id": "g18-w72",
+          "w": "紙パック",
+          "r": "かみぱっく",
+          "hv": "CHỈ",
+          "pos": "名",
+          "vi": "hộp giấy (đựng đồ uống)",
+          "ex": {
+            "ja": "{紙|かみ}パックのジュースにストローを{刺|さ}して{飲|の}んだ。",
+            "vi": "Tôi cắm ống hút vào hộp nước ép giấy để uống."
+          }
+        },
+        {
+          "id": "g18-w73",
+          "w": "見誤る",
+          "r": "みあやまる",
+          "hv": "KIẾN NGỘ",
+          "pos": "他動",
+          "vi": "nhìn nhầm; đánh giá sai",
+          "key": true,
+          "ex": {
+            "ja": "{相手|あいて}の{実力|じつりょく}を{見誤|みあやま}って、{試合|しあい}に{負|ま}けてしまった。",
+            "vi": "Đánh giá sai thực lực đối thủ nên đã thua trận."
+          },
+          "rel": "≒ 見間違える",
+          "note": "見〜 + động từ: 見分ける (phân biệt), 見誤る (nhìn nhầm), 見落とす (bỏ sót), 見直す (xem lại), 見逃す (bỏ lỡ / bỏ qua)."
+        },
+        {
+          "id": "g18-w74",
+          "w": "子牛",
+          "r": "こうし",
+          "hv": "TỬ NGƯU",
+          "pos": "名",
+          "vi": "con bê, bò con",
+          "key": true,
+          "ex": {
+            "ja": "{牧場|ぼくじょう}で{生|う}まれたばかりの{子牛|こうし}が{立|た}ち{上|あ}がろうとしている。",
+            "vi": "Con bê vừa sinh ra ở trang trại đang cố đứng dậy."
+          },
+          "note": "こ (子) + うし (牛) → **こうし** (không phải こぎゅう). 子〜 = con non: 子犬 (こいぬ), 子猫 (こねこ), 子ウサギ."
+        },
+        {
+          "id": "g18-w75",
+          "w": "子ウサギ",
+          "r": "こうさぎ",
+          "hv": "TỬ",
+          "pos": "名",
+          "vi": "thỏ con",
+          "ex": {
+            "ja": "{巣|す}の{中|なか}で{子|こ}ウサギが{五匹|ごひき}{眠|ねむ}っていた。",
+            "vi": "Năm chú thỏ con đang ngủ trong hang."
+          },
+          "key": true
+        }
+      ]
+    },
+    {
+      "title": "例文の副詞",
+      "title_vi": "Phó từ trong câu ví dụ",
+      "words": [
+        {
+          "id": "g18-w76",
+          "w": "ついに",
+          "r": "ついに",
+          "hv": "",
+          "pos": "副",
+          "vi": "cuối cùng thì, rốt cuộc (sau một quá trình dài)",
+          "key": true,
+          "ex": {
+            "ja": "{十年|じゅうねん}かけて{建|た}てていたビルが、ついに{完成|かんせい}した。",
+            "vi": "Toà nhà xây suốt mười năm cuối cùng đã hoàn thành."
+          },
+          "rel": "≒ とうとう・やっと",
+          "note": "ついに／とうとう dùng được cho cả kết quả tốt lẫn xấu (ついに倒れた). やっと chỉ dùng cho kết quả **mong đợi**, có cảm giác nhẹ nhõm. Thể phủ định: ついに〜なかった = rốt cuộc vẫn không…"
+        },
+        {
+          "id": "g18-w77",
+          "w": "徐々に",
+          "r": "じょじょに",
+          "hv": "TỪ TỪ",
+          "pos": "副",
+          "vi": "dần dần, từ từ",
+          "key": true,
+          "ex": {
+            "ja": "{新|あたら}しい{職場|しょくば}にも{徐々|じょじょ}に{慣|な}れてきた。",
+            "vi": "Tôi cũng dần quen với nơi làm việc mới."
+          },
+          "rel": "≒ 少しずつ・だんだん ↔ 急に",
+          "note": "Văn viết hơn だんだん. 々 là ký hiệu lặp chữ: 徐々 = 徐徐."
+        },
+        {
+          "id": "g18-w78",
+          "w": "思いのほか",
+          "r": "おもいのほか",
+          "hv": "TƯ",
+          "pos": "副",
+          "vi": "không ngờ, hơn mình nghĩ, ngoài dự tính",
+          "key": true,
+          "ex": {
+            "ja": "{難|むずか}しいと{思|おも}っていた{試験|しけん}が、{思|おも}いのほか{簡単|かんたん}だった。",
+            "vi": "Kỳ thi tưởng khó hoá ra dễ không ngờ."
+          },
+          "rel": "≒ 意外に・予想以上に",
+          "note": "Kanji 思いの外. Dùng khi kết quả **khác dự đoán** (cả tốt lẫn xấu)."
+        }
+      ]
+    }
+  ],
+  "focus": [
+    {
+      "title": "及ぶ (tự động từ) ↔ 及ぼす (tha động từ)",
+      "body": "Đây là cặp hay ra đề nhất của bài. Nhớ theo trợ từ:\n\n- **影響・被害 が 及ぶ** (tự): ảnh hưởng **lan tới** — 「被害は町全体に及んだ」.\n- **影響・被害 を 及ぼす** (tha): [nguyên nhân] **gây** ảnh hưởng lên — 「排気ガスは健康に悪影響を及ぼす」.\n\nMẹo: 〜**す** thường là tha động từ (出す, 消す, 及ぼす) — có ai đó \"làm cho\" xảy ra.\n\nNghĩa khác của 及ぶ (gặp trong 読解):\n- **〜に及ぶ** = lên tới (con số, thời gian lớn): 「交渉は十時間に及んだ」「被害額は百億円に及ぶ」.\n- **〜には及ばない** = không cần phải…: 「心配するには及ばない」; hoặc = không bằng: 「彼の実力には及ばない」.\n\nSo sánh với 与える: 影響を**与える** (trung tính, có thể tốt: 子どもに良い影響を与える) vs 影響を**及ぼす** (thường là xấu, phạm vi lan rộng, văn viết)."
+    },
+    {
+      "title": "Hậu tố 〜化 và 〜量",
+      "body": "**〜化 (か)** = \"trở thành, chuyển sang trạng thái…\" — gắn sau danh từ / tính từ Hán để tạo danh từ chỉ **quá trình biến đổi**. Đi với động từ **進む** hoặc **する**:\n- 温暖化 (ấm lên), 砂漠化 (sa mạc hoá), 深刻化 (trở nên nghiêm trọng)\n- 少子化 (ít con), 高齢化 (già hoá), 過疎化 (thưa dân), 都市化 (đô thị hoá), 国際化, 自動化, 映画化 (chuyển thể thành phim)\n- 「温暖化が**進む**」「問題が**深刻化する**」「小説を**映画化する**」\n\n**〜量 (りょう)** = lượng:\n- 排出量 (lượng thải), 産出量 (sản lượng khai thác), 生産量 (sản lượng sản xuất), 使用量, 降水量 (lượng mưa)\n- Động từ: 〜量が**増える／減る**, 〜量を**制限する／削減する**.\n\nBẫy 語形成: 「過疎**化**」 không phải 過疎性 / 過疎的; 「排出**量**」 không phải 排出数."
+    },
+    {
+      "title": "Nuôi và trồng: 飼育・栽培・植える・繁殖",
+      "body": "- **飼育 (しいく)**: nuôi **động vật** (một cách có kế hoạch, chuyên môn) — 動物園でパンダを飼育する. Đời thường: 飼う (ペットを飼う). ✗ 子どもを飼育する (rất xúc phạm) → 育てる.\n- **栽培 (さいばい)**: trồng **cây** để thu hoạch — 野菜・お茶・米を栽培する. Đời thường: 育てる・作る.\n- **植える (うえる)**: hành động **đặt cây xuống đất** — 木を植える. Gieo hạt → 種を**まく**.\n- **繁殖 (はんしょく)**: (động/thực vật, vi khuẩn) **tự sinh sôi** — 細菌が繁殖する. ↔ **絶滅** (tuyệt chủng).\n- **育成 (いくせい)**: đào tạo, bồi dưỡng **con người** — 人材を育成する.\n\nVòng đời thực vật để nhớ: 種をまく → **発芽する** → **茎**が伸びる → **つぼみ**が膨らむ → **開花する** → **花粉**が飛ぶ."
+    },
+    {
+      "title": "Môi trường: 汚染・公害・騒音・破壊 và 回収・整備",
+      "body": "**Các loại vấn đề**:\n- **汚染 (おせん)**: làm **bẩn** không khí, nước, đất bằng chất độc — 大気汚染, 水質汚染. Có thể dùng như động từ: 海が汚染される.\n- **公害 (こうがい)**: tác hại cho **cộng đồng** do sản xuất công nghiệp (ô nhiễm, tiếng ồn, sụt lún…) — khái niệm chung bao gồm cả 大気汚染 và 騒音.\n- **騒音 (そうおん)**: tiếng ồn gây khó chịu.\n- **破壊 (はかい)**: **phá huỷ** — 自然破壊, 環境破壊.\n- **有害 (ゆうがい)**: tính từ \"có hại\" — 有害な物質.\n\n**Các hành động giải quyết**:\n- **回収 (かいしゅう)**: thu gom lại — ごみ・空き缶・アンケートを回収する; thu hồi sản phẩm lỗi.\n- **リサイクル**: tái chế — ペットボトル, 古新聞, 牛乳パック, 瓶, 缶.\n- **整備 (せいび)**: xây dựng hoàn chỉnh hạ tầng — 下水道・道路を整備する; bảo dưỡng máy móc. ≠ 整理 (sắp xếp đồ).\n- **制限 (せいげん)**: hạn chế — 排出量を制限する.\n- **解決 (かいけつ)**: giải quyết — 深刻な問題を解決する."
+    },
+    {
+      "title": "Tiền tố và động từ ghép: 古〜・子〜・見〜・取り〜",
+      "body": "Phần này chủ yếu là **cách đọc** — đề 問題1 hay hỏi:\n- **古〜 (ふる)**: 古新聞 (ふるしんぶん), 古雑誌 (ふるざっし), 古着 (ふるぎ), 古本 (ふるほん). Không đọc こ.\n- **子〜 (こ)**: 子牛 (**こうし**), 子ウサギ (こうさぎ), 子犬 (こいぬ), 子猫 (こねこ). Kết hợp 訓 + 訓, không đọc ぎゅう.\n- **見〜**: 見分ける (phân biệt), 見誤る (nhìn nhầm, đánh giá sai), 見落とす (bỏ sót), 見直す (xem xét lại), 見逃す (bỏ qua).\n- **取り〜**: 取り組む (dồn sức giải quyết: 〜に取り組む), 取り入れる (tiếp thu, áp dụng: 意見を取り入れる; thu đồ phơi vào), 取り出す (lấy ra), 取り消す (huỷ bỏ).\n\nPhân biệt 見誤る ↔ 見落とす: 見誤る = **có thấy nhưng nhận nhầm** (赤を青と見誤る); 見落とす = **không thấy, bỏ sót** (ミスを見落とす).\n\nĐơn vị đếm động vật: 一**頭** (いっとう, con lớn: 牛・馬・象), 一**匹** (いっぴき, con nhỏ: 猫・魚・虫), 一**羽** (いちわ, chim, thỏ)."
+    },
+    {
+      "title": "Phó từ: ついに・徐々に・思いのほか",
+      "body": "- **ついに**: \"**cuối cùng thì**\" — kết quả xảy ra sau một quá trình dài (chờ đợi, cố gắng, hoặc xấu dần). 「十年かけて研究を続け、ついに新しい品種が完成した」「無理を続けて、ついに倒れた」. ≒ とうとう. Khác **やっと** (chỉ dùng cho kết quả **mong muốn**, kèm cảm giác nhẹ nhõm).\n- **徐々に**: \"**dần dần**\" — thay đổi chậm, từng chút một. 「汚染が徐々に広がる」. ≒ 少しずつ・だんだん; ↔ 急に・いきなり.\n- **思いのほか**: \"**không ngờ là**\" — kết quả khác với dự đoán. 「思いのほか時間がかかった」. ≒ 意外に・予想以上に.\n\nMẹo làm bài: có **quá trình dài + kết quả** (何度も〜たが、十年後に…) → ついに; có **mức độ thay đổi chậm** (〜てきた、〜ていく) → 徐々に; có **dự đoán trước đó** (〜と思っていたが) → 思いのほか."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "g18-q1",
+      "kind": "read",
+      "ref": "g18-w9",
+      "q": "{自動車|じどうしゃ}からの[[u:排出]]ガスを{減|へ}らす{技術|ぎじゅつ}が{進|すす}んでいる。",
+      "options": [
+        "はいでる",
+        "ひしゅつ",
+        "はいしゅつ",
+        "はいすい"
+      ],
+      "answer": 2,
+      "vi": "Công nghệ giảm khí thải từ ô tô đang tiến bộ.",
+      "why": "排 **はい** + 出 **しゅつ** → **はいしゅつ** (thải ra). はいすい là 排水 (thoát nước) — bẫy cùng chữ 排; はいでる trộn âm 訓 でる của 出 — sai; ひしゅつ sai âm của 排."
+    },
+    {
+      "id": "g18-q2",
+      "kind": "write",
+      "ref": "g18-w27",
+      "q": "{工場|こうじょう}から{流|なが}れ{出|で}た{排水|はいすい}で、{川|かわ}が[[u:おせん]]された。",
+      "options": [
+        "汚染",
+        "汚泉",
+        "汗染",
+        "汚洗"
+      ],
+      "answer": 0,
+      "vi": "Sông đã bị ô nhiễm do nước thải chảy ra từ nhà máy.",
+      "why": "おせん = **汚染** (汚 bẩn + 染 nhuộm, thấm). 泉 (いずみ, suối) và 洗 (せん, rửa) cùng âm せん nhưng sai nghĩa; 汗 (あせ, mồ hôi) trông giống 汚."
+    },
+    {
+      "id": "g18-q3",
+      "kind": "context",
+      "ref": "g18-w15",
+      "q": "{睡眠|すいみん}{不足|ぶそく}が{続|つづ}くと、{心|こころ}と{体|からだ}の{健康|けんこう}に{悪|わる}い{影響|えいきょう}を（　　）。",
+      "options": [
+        "加える",
+        "及ぶ",
+        "起こす",
+        "及ぼす"
+      ],
+      "answer": 3,
+      "vi": "Thiếu ngủ kéo dài sẽ gây ảnh hưởng xấu đến sức khoẻ tinh thần và thể chất.",
+      "why": "影響**を** + tha động từ → **及ぼす**. 及ぶ là tự động từ (影響**が**及ぶ) nên không đi với を — bẫy chính của câu; 加える đi với 危害・圧力; 「影響を起こす」 không phải cụm tự nhiên."
+    },
+    {
+      "id": "g18-q4",
+      "kind": "paraphrase",
+      "ref": "g18-w77",
+      "q": "{薬|くすり}を{飲|の}み{始|はじ}めてから、{症状|しょうじょう}は[[u:徐々に]]{良|よ}くなっている。",
+      "options": [
+        "急に",
+        "少しずつ",
+        "すっかり",
+        "ますます"
+      ],
+      "answer": 1,
+      "vi": "Từ khi bắt đầu uống thuốc, triệu chứng đang dần dần tốt lên.",
+      "why": "徐々に = từ từ, từng chút → **少しずつ**. 急に là ngược nghĩa; すっかり = hoàn toàn (kết quả đã trọn vẹn); ますます = càng ngày càng (nhấn mạnh mức độ tăng thêm, không phải tốc độ chậm)."
+    },
+    {
+      "id": "g18-q5",
+      "kind": "formation",
+      "ref": "g18-w68",
+      "q": "{若者|わかもの}が{都会|とかい}へ{出|で}ていき、{山間部|さんかんぶ}の{村|むら}では{過疎|かそ}（　　）が{進|すす}んでいる。",
+      "options": [
+        "性",
+        "化",
+        "的",
+        "状"
+      ],
+      "answer": 1,
+      "vi": "Thanh niên ra thành phố nên các làng vùng núi đang ngày càng thưa dân.",
+      "why": "Quá trình biến đổi + 進む → **〜化** (過疎化, giống 温暖化・砂漠化). 〜性 (tính chất), 〜的 (mang tính) và 〜状 (hình dạng, trạng thái) không đi với 進む để chỉ quá trình."
+    },
+    {
+      "id": "g18-q6",
+      "kind": "context",
+      "ref": "g18-w55",
+      "q": "この{農家|のうか}では、{農薬|のうやく}を{使|つか}わずに{野菜|やさい}を（　　）している。",
+      "options": [
+        "飼育",
+        "繁殖",
+        "観察",
+        "栽培"
+      ],
+      "answer": 3,
+      "vi": "Nhà nông này trồng rau mà không dùng thuốc trừ sâu.",
+      "why": "Trồng cây để thu hoạch → **栽培**. 飼育 chỉ dùng cho động vật; 繁殖 là tự sinh sôi (tự động từ, không có tân ngữ を); 観察 là quan sát, không liên quan đến thuốc trừ sâu."
+    },
+    {
+      "id": "g18-q7",
+      "kind": "usage",
+      "ref": "g18-w38",
+      "q": "{襲|おそ}う",
+      "options": [
+        "{夜中|よなか}にキツネが{小屋|こや}の{鶏|にわとり}を[[u:襲った]]。",
+        "{彼|かれ}は{有名|ゆうめい}な{選手|せんしゅ}を[[u:襲って]]、サインをもらった。",
+        "{週末|しゅうまつ}は{友達|ともだち}の{家|いえ}を[[u:襲って]]、{一緒|いっしょ}に{宿題|しゅくだい}をした。",
+        "{子|こ}どもたちが{転|ころ}がるボールを[[u:襲って]]{走|はし}り{回|まわ}っている。"
+      ],
+      "answer": 0,
+      "vi": "(1) Nửa đêm con cáo đã tấn công đàn gà trong chuồng.",
+      "why": "襲う = tấn công bất ngờ để gây hại → (1) đúng. (2) đến gặp xin chữ ký → 訪ねて・追いかけて; (3) đến nhà bạn → 訪ねて; (4) đuổi theo quả bóng → 追いかけて. Cả ba đều thiếu ý \"gây hại\"."
+    },
+    {
+      "id": "g18-q8",
+      "kind": "context",
+      "ref": "g18-w40",
+      "q": "{公園|こうえん}でパンくずをまくと、ハトがすぐに（　　）。",
+      "options": [
+        "襲った",
+        "繁殖した",
+        "群がってきた",
+        "観察した"
+      ],
+      "answer": 2,
+      "vi": "Rắc vụn bánh mì ở công viên là đàn bồ câu bu lại ngay.",
+      "why": "Nhiều con xúm lại chỗ có thức ăn → **群がってきた**. 襲った = tấn công (bồ câu không tấn công vụn bánh); 繁殖した = sinh sôi, không thể xảy ra \"ngay lập tức\"; 観察した là hành động của con người."
+    },
+    {
+      "id": "g18-q9",
+      "kind": "paraphrase",
+      "ref": "g18-w78",
+      "q": "{初|はじ}めて{作|つく}ったケーキは、[[u:思いのほか]]おいしくできた。",
+      "options": [
+        "予想以上に",
+        "思った通り",
+        "やはり",
+        "わざと"
+      ],
+      "answer": 0,
+      "vi": "Chiếc bánh làm lần đầu ngon hơn mình nghĩ.",
+      "why": "思いのほか = khác với dự đoán (ở đây là tốt hơn) → **予想以上に**. 思った通り và やはり là ngược nghĩa (đúng như dự đoán) — bẫy vì cùng có 思う; わざと = cố ý."
+    }
+  ],
+  "practice": [
+    {
+      "id": "g18-p1",
+      "kind": "read",
+      "ref": "g18-w35",
+      "q": "この{池|いけ}では{外来種|がいらいしゅ}の{魚|さかな}が[[u:繁殖]]している。",
+      "options": [
+        "はんしき",
+        "ぱんしょく",
+        "ばんしょく",
+        "はんしょく"
+      ],
+      "answer": 3,
+      "vi": "Ở cái ao này, loài cá ngoại lai đang sinh sôi.",
+      "why": "繁 **はん** (繁栄 はんえい) + 殖 **しょく** (増殖 ぞうしょく) → **はんしょく**. はんしき sai âm của 殖; ぱんしょく và ばんしょく biến âm sai ở đầu từ."
+    },
+    {
+      "id": "g18-p2",
+      "kind": "read",
+      "ref": "g18-w49",
+      "q": "この{鳥|とり}は[[u:雌]]のほうが{体|からだ}が{大|おお}きい。",
+      "options": [
+        "おす",
+        "めす",
+        "めず",
+        "しゅ"
+      ],
+      "answer": 1,
+      "vi": "Loài chim này con cái to hơn con đực.",
+      "why": "雌 đọc **めす** (con cái). おす là 雄 (con đực) — bẫy đối nghĩa; めず sai âm đục; しゅ không phải cách đọc của 雌 (âm Hán là し, như 雌雄 しゆう)."
+    },
+    {
+      "id": "g18-p3",
+      "kind": "write",
+      "ref": "g18-w36",
+      "q": "この{動物|どうぶつ}は{数|かず}が{減|へ}り、[[u:ぜつめつ]]の{危機|きき}にある。",
+      "options": [
+        "絶減",
+        "切滅",
+        "絶滅",
+        "絶威"
+      ],
+      "answer": 2,
+      "vi": "Loài vật này số lượng giảm, đang có nguy cơ tuyệt chủng.",
+      "why": "ぜつめつ = **絶滅** (絶 tuyệt + 滅 diệt). 減 (giảm) trông rất giống 滅 nhưng đọc げん; 切 đọc せつ không phải ぜつ; 威 (い, uy) chỉ giống một phần nét của 滅."
+    },
+    {
+      "id": "g18-p4",
+      "kind": "write",
+      "ref": "g18-w55",
+      "q": "{温室|おんしつ}でメロンを[[u:さいばい]]している。",
+      "options": [
+        "栽培",
+        "裁培",
+        "栽倍",
+        "載培"
+      ],
+      "answer": 0,
+      "vi": "Tôi trồng dưa lưới trong nhà kính.",
+      "why": "さいばい = **栽培** (栽 có bộ 木 = cây + 培 có bộ 土 = đất). 裁 (bộ 衣, phân xử: 裁判) và 載 (bộ 車, đăng: 記載) cùng âm さい; 倍 (bội) chỉ giống phần phải của 培."
+    },
+    {
+      "id": "g18-p5",
+      "kind": "context",
+      "ref": "g18-w19",
+      "q": "{使|つか}い{終|お}わった{電池|でんち}は、{店頭|てんとう}の{専用|せんよう}ボックスで（　　）しています。",
+      "options": [
+        "整備",
+        "排出",
+        "回収",
+        "制限"
+      ],
+      "answer": 2,
+      "vi": "Pin đã dùng xong được thu gom tại hộp chuyên dụng ở cửa hàng.",
+      "why": "Thu lại đồ đã dùng → **回収**. 整備 là xây dựng / bảo dưỡng hệ thống; 排出 là thải ra (ngược hướng); 制限 là hạn chế."
+    },
+    {
+      "id": "g18-p6",
+      "kind": "context",
+      "ref": "g18-w34",
+      "q": "{災害|さいがい}に{強|つよ}い{町|まち}にするため、{道路|どうろ}や{下水道|げすいどう}を（　　）する{計画|けいかく}が{進|すす}んでいる。",
+      "options": [
+        "回収",
+        "制限",
+        "観察",
+        "整備"
+      ],
+      "answer": 3,
+      "vi": "Để thị trấn chống chịu thiên tai tốt hơn, kế hoạch cải tạo đường sá và hệ thống cống đang được tiến hành.",
+      "why": "Xây dựng, hoàn thiện cơ sở hạ tầng → **整備**. 回収 = thu gom (không dùng cho đường sá); 制限 = hạn chế; 観察 = quan sát — đều không làm cho thị trấn 災害に強い."
+    },
+    {
+      "id": "g18-p7",
+      "kind": "context",
+      "ref": "g18-w50",
+      "q": "この{二|ふた}つのキノコはよく{似|に}ていて、{専門家|せんもんか}でないと（　　）のが{難|むずか}しい。",
+      "options": [
+        "見誤る",
+        "見分ける",
+        "見直す",
+        "見送る"
+      ],
+      "answer": 1,
+      "vi": "Hai loại nấm này rất giống nhau, không phải chuyên gia thì khó phân biệt.",
+      "why": "Hai thứ giống nhau → khó **見分ける** (phân biệt). 見誤る (nhìn nhầm) mà \"khó nhìn nhầm\" thì ngược logic; 見直す = xem xét lại; 見送る = tiễn / hoãn."
+    },
+    {
+      "id": "g18-p8",
+      "kind": "paraphrase",
+      "ref": "g18-w28",
+      "q": "{世界|せかい}の{水|みず}{不足|ぶそく}は{年々|ねんねん}[[u:深刻に]]なっている。",
+      "options": [
+        "重大に",
+        "複雑に",
+        "明らかに",
+        "身近に"
+      ],
+      "answer": 0,
+      "vi": "Tình trạng thiếu nước trên thế giới năm sau nghiêm trọng hơn năm trước.",
+      "why": "深刻 = nghiêm trọng → **重大に**. 複雑に (phức tạp) là bẫy gần nghĩa nhưng nói về độ rối, không phải độ nguy hiểm; 明らかに = rõ ràng; 身近に = gần gũi."
+    },
+    {
+      "id": "g18-p9",
+      "kind": "paraphrase",
+      "ref": "g18-w18",
+      "q": "まず{森林|しんりん}の[[u:現状]]を{知|し}ることが{大切|たいせつ}だ。",
+      "options": [
+        "歴史",
+        "将来",
+        "原因",
+        "今の状態"
+      ],
+      "answer": 3,
+      "vi": "Trước hết điều quan trọng là biết hiện trạng của rừng.",
+      "why": "現状 = 現 (hiện tại) + 状 (trạng thái) → **今の状態**. 歴史 (quá khứ) và 将来 (tương lai) sai thời điểm; 原因 (nguyên nhân) là khái niệm khác."
+    },
+    {
+      "id": "g18-p10",
+      "kind": "formation",
+      "ref": "g18-w71",
+      "q": "（　　）{雑誌|ざっし}はひもで{縛|しば}って、{月曜日|げつようび}に{出|だ}してください。",
+      "options": [
+        "旧",
+        "前",
+        "古",
+        "昔"
+      ],
+      "answer": 2,
+      "vi": "Tạp chí cũ xin hãy buộc dây lại và bỏ ra vào thứ Hai.",
+      "why": "Đồ cũ đã dùng xong → **古雑誌** (ふるざっし), giống 古新聞. 旧 (きゅう) dùng cho \"cũ, trước kia\" về chế độ, tên gọi (旧姓, 旧館), không ghép với 雑誌; 前〜 = trước (前回); 昔 không phải tiền tố."
+    },
+    {
+      "id": "g18-p11",
+      "kind": "usage",
+      "ref": "g18-w16",
+      "q": "{及|およ}ぶ",
+      "options": [
+        "{台風|たいふう}の{被害|ひがい}は{広|ひろ}い{範囲|はんい}に[[u:及んだ]]。",
+        "{彼|かれ}の{言動|げんどう}は{周|まわ}りの{人|ひと}に{悪|わる}い{影響|えいきょう}を[[u:及んで]]いる。",
+        "{駅|えき}まで{走|はし}ったが、{終電|しゅうでん}に[[u:及ばなかった]]。",
+        "{先生|せんせい}に{会|あ}うために{職員室|しょくいんしつ}へ[[u:及んだ]]。"
+      ],
+      "answer": 0,
+      "vi": "(1) Thiệt hại của cơn bão đã lan ra một phạm vi rộng.",
+      "why": "及ぶ (tự động từ) = lan tới → (1) đúng: 被害が〜に及ぶ. (2) có 影響**を** nên phải dùng tha động từ → 及ぼして; (3) không kịp chuyến tàu cuối → 間に合わなかった; (4) đi đến phòng giáo viên → 行った."
+    },
+    {
+      "id": "g18-p12",
+      "kind": "usage",
+      "ref": "g18-w45",
+      "q": "{飼育|しいく}",
+      "options": [
+        "{庭|にわ}の{畑|はたけ}でトマトを[[u:飼育]]している。",
+        "{動物園|どうぶつえん}では{専門|せんもん}の{職員|しょくいん}がパンダを[[u:飼育]]している。",
+        "{両親|りょうしん}は{三人|さんにん}の{子|こ}どもを{大切|たいせつ}に[[u:飼育]]した。",
+        "{会社|かいしゃ}は{若手|わかて}{社員|しゃいん}を[[u:飼育]]するための{研修|けんしゅう}を{行|おこな}っている。"
+      ],
+      "answer": 1,
+      "vi": "(2) Ở sở thú, nhân viên chuyên trách nuôi gấu trúc.",
+      "why": "飼育 chỉ dùng cho **động vật** → (2) đúng. (1) cây trồng → 栽培; (3) nuôi con → 育てた (dùng 飼育 cho người là xúc phạm); (4) đào tạo nhân viên → 育成."
+    },
+    {
+      "id": "g18-p13",
+      "kind": "context",
+      "ref": "g18-w76",
+      "q": "{何度|なんど}も{失敗|しっぱい}したが、{十回目|じっかいめ}の{挑戦|ちょうせん}で（　　）{成功|せいこう}した。",
+      "options": [
+        "徐々に",
+        "思いのほか",
+        "ついに",
+        "いきなり"
+      ],
+      "answer": 2,
+      "vi": "Thất bại nhiều lần, nhưng đến lần thử thứ mười thì cuối cùng đã thành công.",
+      "why": "Quá trình dài (何度も失敗) + kết quả cuối → **ついに**. 徐々に là thay đổi từ từ, không hợp với một lần thành công; 思いのほか cần có dự đoán trước đó; いきなり = đột ngột không qua bước nào, mâu thuẫn với \"thất bại nhiều lần\"."
+    }
+  ],
+  "test": [
+    {
+      "id": "g18-t1",
+      "kind": "read",
+      "ref": "g18-w64",
+      "q": "{春|はる}は[[u:花粉]]のせいで{目|め}がかゆくなる。",
+      "options": [
+        "かふ",
+        "かふん",
+        "はなこ",
+        "かぶん"
+      ],
+      "answer": 1,
+      "vi": "Mùa xuân mắt bị ngứa vì phấn hoa.",
+      "why": "花 **か** + 粉 **ふん** (粉末 ふんまつ) → **かふん**. かふ thiếu ん; はなこ dùng âm 訓 của cả hai chữ — sai; かぶん biến âm đục sai."
+    },
+    {
+      "id": "g18-t2",
+      "kind": "read",
+      "ref": "g18-w74",
+      "q": "{牧場|ぼくじょう}で{元気|げんき}な[[u:子牛]]が{生|う}まれた。",
+      "options": [
+        "こぎゅう",
+        "しぎゅう",
+        "こうじ",
+        "こうし"
+      ],
+      "answer": 3,
+      "vi": "Ở trang trại, một chú bê khoẻ mạnh đã chào đời.",
+      "why": "子 **こ** (訓) + 牛 **うし** (訓) → **こうし**. こぎゅう và しぎゅう dùng âm Hán ぎゅう — sai vì đây là từ thuần Nhật; こうじ biến âm đục sai (こうじ là 工事)."
+    },
+    {
+      "id": "g18-t3",
+      "kind": "write",
+      "ref": "g18-w61",
+      "q": "{梅|うめ}のつぼみが{少|すこ}しずつ[[u:ふくらんで]]きた。",
+      "options": [
+        "膨らんで",
+        "服らんで",
+        "福らんで",
+        "副らんで"
+      ],
+      "answer": 0,
+      "vi": "Nụ hoa mơ đang dần căng phồng lên.",
+      "why": "ふくらむ = **膨らむ** (bộ 月 = thịt, cơ thể → phồng lên). 服 (quần áo), 福 (phúc) và 副 (phó) đều đọc ふく nhưng không có nghĩa \"phồng\"."
+    },
+    {
+      "id": "g18-t4",
+      "kind": "write",
+      "ref": "g18-w52",
+      "q": "{夏休|なつやす}みの{宿題|しゅくだい}で[[u:こんちゅう]]の{標本|ひょうほん}を{作|つく}った。",
+      "options": [
+        "混虫",
+        "昆中",
+        "昆虫",
+        "根虫"
+      ],
+      "answer": 2,
+      "vi": "Tôi làm mẫu tiêu bản côn trùng cho bài tập hè.",
+      "why": "こんちゅう = **昆虫** (côn trùng). 混 (hỗn) và 根 (căn) cùng âm こん nhưng sai chữ; 中 cùng âm ちゅう nhưng không mang nghĩa \"sâu bọ\" như 虫."
+    },
+    {
+      "id": "g18-t5",
+      "kind": "context",
+      "ref": "g18-w57",
+      "q": "{種|たね}をまいてから{一週間|いっしゅうかん}たって、ようやく（　　）した。",
+      "options": [
+        "開花",
+        "繁殖",
+        "栽培",
+        "発芽"
+      ],
+      "answer": 3,
+      "vi": "Gieo hạt được một tuần thì cuối cùng cũng nảy mầm.",
+      "why": "Ngay sau khi gieo hạt → **発芽** (nảy mầm). 開花 (nở hoa) không thể xảy ra một tuần sau khi gieo; 繁殖 là sinh sôi; 栽培 là việc con người trồng, không phải điều \"cuối cùng cũng xảy ra\"."
+    },
+    {
+      "id": "g18-t6",
+      "kind": "context",
+      "ref": "g18-w46",
+      "q": "この{犬|いぬ}はとてもおとなしく、{人|ひと}に（　　）を{加|くわ}えることはない。",
+      "options": [
+        "危害",
+        "被害",
+        "公害",
+        "迷惑"
+      ],
+      "answer": 0,
+      "vi": "Con chó này rất hiền, không bao giờ làm hại người.",
+      "why": "Cụm cố định **危害を加える** (gây hại cho thân thể người). 被害 là thiệt hại **phía bị** (被害を受ける); 公害 là ô nhiễm công nghiệp; 迷惑 đi với かける (迷惑をかける = làm phiền), không đi với 加える và cũng không phải \"làm hại\"."
+    },
+    {
+      "id": "g18-t7",
+      "kind": "context",
+      "ref": "g18-w11",
+      "q": "{古|ふる}い{建物|たてもの}の{壁|かべ}から、{人体|じんたい}に（　　）な{物質|ぶっしつ}が{見|み}つかった。",
+      "options": [
+        "深刻",
+        "有効",
+        "有害",
+        "有利"
+      ],
+      "answer": 2,
+      "vi": "Chất có hại cho cơ thể người đã được tìm thấy trong tường của toà nhà cũ.",
+      "why": "〜に**有害**な物質 = chất có hại cho… 有効 (có hiệu quả) và 有利 (có lợi) ngược nghĩa với ngữ cảnh \"phát hiện trong tường cũ\"; 深刻 (nghiêm trọng) dùng cho vấn đề, tình hình, không dùng 人体に深刻な物質."
+    },
+    {
+      "id": "g18-t8",
+      "kind": "paraphrase",
+      "ref": "g18-w41",
+      "q": "{夕方|ゆうがた}の{空|そら}を、{渡|わた}り{鳥|どり}の[[u:群れ]]が{飛|と}んでいく。",
+      "options": [
+        "親子",
+        "集団",
+        "鳴き声",
+        "影"
+      ],
+      "answer": 1,
+      "vi": "Một đàn chim di cư bay ngang bầu trời chiều.",
+      "why": "群れ = đàn, bầy → **集団**. 親子 (cha mẹ và con) chỉ là một nhóm nhỏ cụ thể; 鳴き声 (tiếng kêu) và 影 (bóng) không phải nghĩa của 群れ."
+    },
+    {
+      "id": "g18-t9",
+      "kind": "paraphrase",
+      "ref": "g18-w73",
+      "q": "{霧|きり}が{濃|こ}くて、{信号|しんごう}の{色|いろ}を[[u:見誤った]]。",
+      "options": [
+        "見間違えた",
+        "見落とした",
+        "見つめた",
+        "見分けた"
+      ],
+      "answer": 0,
+      "vi": "Sương mù dày đặc nên tôi đã nhìn nhầm màu đèn tín hiệu.",
+      "why": "見誤る = có nhìn nhưng nhận nhầm → **見間違えた**. 見落とした = không nhìn thấy, bỏ sót (bẫy gần nghĩa); 見つめた = nhìn chằm chằm; 見分けた = phân biệt được (ngược nghĩa)."
+    },
+    {
+      "id": "g18-t10",
+      "kind": "usage",
+      "ref": "g18-w10",
+      "q": "{制限|せいげん}",
+      "options": [
+        "{健康|けんこう}のため、{毎朝|まいあさ}{三十分|さんじゅっぷん}の{散歩|さんぽ}を[[u:制限]]している。",
+        "{机|つくえ}の{上|うえ}の{書類|しょるい}を[[u:制限]]して、きれいに{並|なら}べた。",
+        "{逃|に}げていた{犯人|はんにん}が{警察|けいさつ}に[[u:制限]]された。",
+        "{医者|いしゃ}に{言|い}われて、{一日|いちにち}の{塩分|えんぶん}の{量|りょう}を[[u:制限]]している。"
+      ],
+      "answer": 3,
+      "vi": "(4) Theo lời bác sĩ, tôi đang hạn chế lượng muối mỗi ngày.",
+      "why": "制限 = đặt giới hạn, không cho vượt quá → (4) đúng. (1) đi bộ đều đặn là thói quen tốt → 続けている・習慣にしている; (2) sắp xếp giấy tờ → 整理; (3) bắt giữ tội phạm → 逮捕."
+    },
+    {
+      "id": "g18-t11",
+      "kind": "usage",
+      "ref": "g18-w67",
+      "q": "{取|と}り{入|い}れる",
+      "options": [
+        "{財布|さいふ}を{拾|ひろ}ったので、{交番|こうばん}に[[u:取り入れた]]。",
+        "{社員|しゃいん}の{意見|いけん}を[[u:取り入れて]]、{新|あたら}しい{休暇|きゅうか}{制度|せいど}を{作|つく}った。",
+        "{駅|えき}で{友人|ゆうじん}を[[u:取り入れて]]、{一緒|いっしょ}に{帰|かえ}った。",
+        "{電車|でんしゃ}に{乗|の}るとき、{切符|きっぷ}を{改札|かいさつ}に[[u:取り入れた]]。"
+      ],
+      "answer": 1,
+      "vi": "(2) Tiếp thu ý kiến của nhân viên, công ty đã xây dựng chế độ nghỉ phép mới.",
+      "why": "取り入れる = tiếp thu, đưa vào áp dụng → (2) đúng. (1) nộp ví nhặt được → 届けた; (3) đón bạn → 迎えて; (4) đưa vé vào máy soát → 入れた・通した."
+    }
+  ]
+}

@@ -1,0 +1,2162 @@
+{
+  "id": "g15",
+  "track": "goi",
+  "intro": "Bài này là **từ vựng thời sự**: vụ án (事件), tai nạn (事故) và thiên tai (災害). Đây là nhóm từ gặp dày đặc trong tin tức, bài đọc hiểu và cả phần nghe N2.\n\nCách học hiệu quả: đi theo **diễn biến của một bản tin**.\n- **事件**: 事件が起きる → 警察が現場を**捜査**する → **証拠**が見つかる → 犯人を**逮捕**する／犯人が**捕まる**.\n- **事故**: 子供が**飛び出す** → 車が**衝突**する → 警察が違反を**取り締まる** → **保険金**が出る.\n- **災害**: 災害に**備える** → **警報**が出る → 住民に**警戒**を**呼びかける** → **避難**する → **被災者**を**救済**する → 停電が**復旧**する.\n\nĐiểm hay ra đề:\n- **Đọc đúng**: 行方 (ゆくえ), 詐欺 (さぎ), 河川 (かせん), 復旧 (ふっきゅう), 避難 (ひなん — đừng nhầm 非難 = chỉ trích).\n- **Động từ ghép**: 取り締まる／取り押さえる, 差しかかる／差し押さえる, 飛び出す／飛び込む.\n- **Hậu tố**: 〜事件, 〜対策, 〜防止, 〜事故, 〜違反, 〜警報, 〜崩れ, 被災〜.\n- **Phó từ trong tin tức**: 依然として, まさか, 直ちに, 非常に, そう〜ない.",
+  "sections": [
+    {
+      "title": "事件",
+      "title_vi": "Vụ án, tội phạm",
+      "words": [
+        {
+          "id": "g15-w1",
+          "w": "殺人事件",
+          "r": "さつじんじけん",
+          "hv": "SÁT NHÂN SỰ KIỆN",
+          "pos": "名",
+          "vi": "vụ án giết người",
+          "key": true,
+          "ex": {
+            "ja": "{静|しず}かな{住宅街|じゅうたくがい}で{殺人事件|さつじんじけん}が{起|お}き、{住民|じゅうみん}は{不安|ふあん}を{感|かん}じている。",
+            "vi": "Một vụ án mạng xảy ra ở khu dân cư yên tĩnh khiến người dân lo lắng."
+          },
+          "col": [
+            "殺人事件が起きる",
+            "殺人事件を捜査する"
+          ],
+          "note": "事件 = **vụ việc do con người gây ra** (thường là tội phạm, gây chú ý). Tai nạn ngoài ý muốn → 事故."
+        },
+        {
+          "id": "g15-w2",
+          "w": "犯人",
+          "r": "はんにん",
+          "hv": "PHẠM NHÂN",
+          "pos": "名",
+          "vi": "thủ phạm, kẻ phạm tội",
+          "key": true,
+          "ex": {
+            "ja": "{防犯|ぼうはん}カメラの{映像|えいぞう}から、{犯人|はんにん}の{特徴|とくちょう}が{分|わ}かった。",
+            "vi": "Từ hình ảnh camera an ninh, người ta đã biết được đặc điểm của thủ phạm."
+          },
+          "col": [
+            "犯人を逮捕する",
+            "犯人が捕まる",
+            "犯人を捜す"
+          ],
+          "note": "Bẫy Hán Việt: 犯人 = **thủ phạm (chưa chắc đã bị bắt)**, không phải \"phạm nhân đang ngồi tù\" (= 受刑者)."
+        },
+        {
+          "id": "g15-w3",
+          "w": "逮捕",
+          "r": "たいほ",
+          "hv": "ĐÃI BỘ",
+          "pos": "名・他動",
+          "vi": "bắt giữ (do cảnh sát, theo pháp luật)",
+          "key": true,
+          "ex": {
+            "ja": "{男|おとこ}は{空港|くうこう}で{出国|しゅっこく}しようとしたところを{逮捕|たいほ}された。",
+            "vi": "Gã đàn ông bị bắt ở sân bay đúng lúc định xuất cảnh."
+          },
+          "col": [
+            "犯人を逮捕する",
+            "逮捕される",
+            "現行犯逮捕"
+          ],
+          "rel": "≒ 捕まえる",
+          "note": "Chủ thể là **cảnh sát / cơ quan pháp luật**, văn phong tin tức. Đọc たい**ほ** (không đục, không trường âm)."
+        },
+        {
+          "id": "g15-w4",
+          "w": "捕まえる",
+          "r": "つかまえる",
+          "hv": "BỘ",
+          "pos": "他動",
+          "vi": "bắt, tóm (người, con vật); bắt (taxi)",
+          "key": false,
+          "ex": {
+            "ja": "{逃|に}げたインコを{捕|つか}まえるのに、{一時間|いちじかん}もかかった。",
+            "vi": "Bắt lại con vẹt xổng chuồng mất tận một tiếng."
+          },
+          "col": [
+            "犯人を捕まえる",
+            "タクシーを捕まえる"
+          ],
+          "rel": "自動詞: 捕まる"
+        },
+        {
+          "id": "g15-w5",
+          "w": "捕まる",
+          "r": "つかまる",
+          "hv": "BỘ",
+          "pos": "自動",
+          "vi": "bị bắt; níu, bám vào",
+          "key": true,
+          "senses": [
+            {
+              "vi": "bị bắt",
+              "ex": {
+                "ja": "{何年|なんねん}も{逃|に}げていた{犯人|はんにん}が、ついに{捕|つか}まった。",
+                "vi": "Tên tội phạm trốn chạy suốt nhiều năm cuối cùng đã bị bắt."
+              }
+            },
+            {
+              "vi": "níu, bám vào (〜に捕まる)",
+              "ex": {
+                "ja": "{電車|でんしゃ}が{揺|ゆ}れるので、つり{革|かわ}にお{捕|つか}まりください。",
+                "vi": "Tàu rung lắc, xin quý khách bám vào tay nắm."
+              }
+            }
+          ],
+          "col": [
+            "犯人が捕まる",
+            "手すりに捕まる"
+          ],
+          "rel": "他動詞: 捕まえる",
+          "note": "Tự động từ: 犯人**が**捕まる (= 犯人が捕まえられる). Đừng viết ✗ 犯人を捕まる."
+        },
+        {
+          "id": "g15-w6",
+          "w": "強盗",
+          "r": "ごうとう",
+          "hv": "CƯỜNG ĐẠO",
+          "pos": "名",
+          "vi": "cướp (dùng vũ lực); kẻ cướp",
+          "key": true,
+          "ex": {
+            "ja": "{深夜|しんや}の{銀行|ぎんこう}に{強盗|ごうとう}が{入|はい}り、{現金|げんきん}が{奪|うば}われた。",
+            "vi": "Kẻ cướp đột nhập ngân hàng lúc nửa đêm, tiền mặt bị cướp mất."
+          },
+          "col": [
+            "強盗が入る",
+            "強盗事件",
+            "銀行強盗"
+          ],
+          "note": "強盗 = cướp **có đe doạ, bạo lực**. Lấy trộm lén lút → 泥棒 (どろぼう) / 窃盗 (せっとう). Đọc **ご**うとう (強 = ごう, như 強引)."
+        },
+        {
+          "id": "g15-w7",
+          "w": "奪う",
+          "r": "うばう",
+          "hv": "ĐOẠT",
+          "pos": "他動",
+          "vi": "cướp, tước đoạt",
+          "key": true,
+          "ex": {
+            "ja": "{突然|とつぜん}の{事故|じこ}が、{彼|かれ}から{歩|ある}く{自由|じゆう}を{奪|うば}った。",
+            "vi": "Tai nạn bất ngờ đã tước đi khả năng tự do đi lại của anh ấy."
+          },
+          "col": [
+            "金を奪う",
+            "命を奪う",
+            "心を奪われる",
+            "目を奪われる"
+          ],
+          "note": "Nghĩa bóng hay gặp: 「美しい景色に目を奪われた」 (bị cảnh đẹp hút mắt), 「心を奪われる」 (bị mê hoặc)."
+        },
+        {
+          "id": "g15-w8",
+          "w": "逃げる",
+          "r": "にげる",
+          "hv": "ĐÀO",
+          "pos": "自動",
+          "vi": "chạy trốn, bỏ chạy",
+          "key": false,
+          "ex": {
+            "ja": "{犯人|はんにん}は{盗|ぬす}んだ{車|くるま}で{北|きた}へ{逃|に}げたらしい。",
+            "vi": "Nghe nói thủ phạm đã bỏ trốn lên phía bắc bằng chiếc xe ăn trộm."
+          },
+          "col": [
+            "金を奪って逃げる",
+            "逃げ出す",
+            "責任から逃げる"
+          ]
+        },
+        {
+          "id": "g15-w9",
+          "w": "一人暮らし",
+          "r": "ひとりぐらし",
+          "hv": "NHẤT NHÂN MỘ",
+          "pos": "名",
+          "vi": "sống một mình",
+          "key": true,
+          "ex": {
+            "ja": "{大学|だいがく}に{入|はい}ってから、{初|はじ}めて{一人暮|ひとりぐ}らしを{始|はじ}めた。",
+            "vi": "Vào đại học tôi mới lần đầu sống một mình."
+          },
+          "col": [
+            "一人暮らしのお年寄り",
+            "一人暮らしをする"
+          ]
+        },
+        {
+          "id": "g15-w10",
+          "w": "お年寄り",
+          "r": "おとしより",
+          "hv": "NIÊN KÝ",
+          "pos": "名",
+          "vi": "người già, người cao tuổi (lịch sự)",
+          "key": false,
+          "ex": {
+            "ja": "バスの{中|なか}で、お{年寄|としよ}りに{席|せき}を{譲|ゆず}った。",
+            "vi": "Trên xe buýt, tôi nhường ghế cho một cụ già."
+          },
+          "rel": "≒ 高齢者",
+          "note": "高齢者 dùng trong văn bản, thống kê; お年寄り dùng trong đời thường, giọng ân cần."
+        },
+        {
+          "id": "g15-w11",
+          "w": "ねらう",
+          "r": "ねらう",
+          "hv": "THƯ",
+          "pos": "他動",
+          "vi": "nhắm vào, nhắm tới (mục tiêu)",
+          "key": true,
+          "senses": [
+            {
+              "vi": "nhắm làm mục tiêu (để tấn công, lừa đảo)",
+              "ex": {
+                "ja": "{観光客|かんこうきゃく}をねらったスリが{増|ふ}えているので、ご{注意|ちゅうい}ください。",
+                "vi": "Bọn móc túi nhắm vào khách du lịch đang tăng, xin hãy cẩn thận."
+              }
+            },
+            {
+              "vi": "nhắm tới (kết quả mong muốn)",
+              "ex": {
+                "ja": "{今年|ことし}こそ{優勝|ゆうしょう}をねらって、{毎日|まいにち}{練習|れんしゅう}している。",
+                "vi": "Năm nay quyết nhắm tới chức vô địch nên ngày nào cũng tập luyện."
+              }
+            }
+          ],
+          "col": [
+            "お年寄りをねらう",
+            "優勝をねらう",
+            "ねらい"
+          ],
+          "note": "Kanji: 狙う. Danh từ 「ねらい」 = mục đích, ý đồ."
+        },
+        {
+          "id": "g15-w12",
+          "w": "殺す",
+          "r": "ころす",
+          "hv": "SÁT",
+          "pos": "他動",
+          "vi": "giết; kìm nén (tiếng, cảm xúc)",
+          "key": true,
+          "ex": {
+            "ja": "{赤|あか}ちゃんが{寝|ね}ているので、{声|こえ}を{殺|ころ}して{話|はな}した。",
+            "vi": "Em bé đang ngủ nên tôi nén giọng nói thật khẽ."
+          },
+          "col": [
+            "人を殺す",
+            "声を殺す",
+            "息を殺す"
+          ],
+          "note": "Nghĩa bóng: 「息を殺す」 = nín thở."
+        },
+        {
+          "id": "g15-w13",
+          "w": "被害",
+          "r": "ひがい",
+          "hv": "BỊ HẠI",
+          "pos": "名",
+          "vi": "thiệt hại, sự bị hại",
+          "key": true,
+          "ex": {
+            "ja": "{台風|たいふう}による{農作物|のうさくもつ}の{被害|ひがい}は、{予想|よそう}以上に{大|おお}きかった。",
+            "vi": "Thiệt hại về nông sản do bão lớn hơn dự đoán."
+          },
+          "col": [
+            "被害に遭う",
+            "被害を受ける",
+            "被害が出る",
+            "被害者"
+          ],
+          "rel": "↔ 加害",
+          "note": "被 = bị. 被害 là **thiệt hại phải chịu**; 災害 là **bản thân thảm hoạ**. ○ 災害で被害が出た."
+        },
+        {
+          "id": "g15-w14",
+          "w": "遭う",
+          "r": "あう",
+          "hv": "TAO",
+          "pos": "自動",
+          "vi": "gặp phải (chuyện không hay)",
+          "key": true,
+          "ex": {
+            "ja": "{帰|かえ}り{道|みち}で{夕立|ゆうだち}に{遭|あ}って、びしょ{濡|ぬ}れになった。",
+            "vi": "Trên đường về gặp mưa rào, tôi ướt sũng."
+          },
+          "col": [
+            "被害に遭う",
+            "事故に遭う",
+            "ひどい目に遭う"
+          ],
+          "note": "Cùng âm あう nhưng: 会う = gặp người; **遭う** = gặp tai hoạ (事故・災害・被害・雨). Luôn là **〜に遭う**."
+        },
+        {
+          "id": "g15-w15",
+          "w": "盗難",
+          "r": "とうなん",
+          "hv": "ĐẠO NẠN",
+          "pos": "名",
+          "vi": "nạn trộm cắp, bị mất trộm",
+          "key": true,
+          "ex": {
+            "ja": "{駅前|えきまえ}では{自転車|じてんしゃ}の{盗難|とうなん}が{相次|あいつ}いでいる。",
+            "vi": "Trước ga liên tiếp xảy ra các vụ mất trộm xe đạp."
+          },
+          "col": [
+            "盗難の被害に遭う",
+            "盗難届",
+            "盗難防止"
+          ]
+        },
+        {
+          "id": "g15-w16",
+          "w": "詐欺",
+          "r": "さぎ",
+          "hv": "TRÁ KHI",
+          "pos": "名",
+          "vi": "lừa đảo",
+          "key": true,
+          "ex": {
+            "ja": "{息子|むすこ}を{装|よそお}った{電話|でんわ}でお{金|かね}をだまし{取|と}る{詐欺|さぎ}が{後|あと}を{絶|た}たない。",
+            "vi": "Các vụ lừa đảo giả làm con trai gọi điện để lừa tiền vẫn không dứt."
+          },
+          "col": [
+            "詐欺の被害に遭う",
+            "詐欺師",
+            "振り込め詐欺"
+          ],
+          "note": "Đọc **さぎ** — ngắn, không trường âm."
+        },
+        {
+          "id": "g15-w17",
+          "w": "罪",
+          "r": "つみ",
+          "hv": "TỘI",
+          "pos": "名",
+          "vi": "tội, tội lỗi",
+          "key": true,
+          "ex": {
+            "ja": "{彼|かれ}は{自分|じぶん}の{罪|つみ}を{認|みと}めて、{被害者|ひがいしゃ}に{謝罪|しゃざい}した。",
+            "vi": "Anh ta nhận tội và xin lỗi người bị hại."
+          },
+          "col": [
+            "罪を犯す",
+            "罪を認める",
+            "罪を償う"
+          ]
+        },
+        {
+          "id": "g15-w18",
+          "w": "犯す",
+          "r": "おかす",
+          "hv": "PHẠM",
+          "pos": "他動",
+          "vi": "phạm (tội, lỗi, luật)",
+          "key": true,
+          "ex": {
+            "ja": "{誰|だれ}でも{一度|いちど}や{二度|にど}は{過|あやま}ちを{犯|おか}すものだ。",
+            "vi": "Ai cũng có lúc mắc sai lầm một hai lần."
+          },
+          "col": [
+            "罪を犯す",
+            "過ちを犯す",
+            "法を犯す",
+            "ミスを犯す"
+          ],
+          "note": "Đối tượng: 罪・過ち・法律・ミス. Đồng âm khác chữ: 侵す (xâm phạm: 権利を侵す), 冒す (liều: 危険を冒す)."
+        },
+        {
+          "id": "g15-w19",
+          "w": "行方",
+          "r": "ゆくえ",
+          "hv": "HÀNH PHƯƠNG",
+          "pos": "名",
+          "vi": "tung tích, nơi đến (của người/vật mất tích); diễn biến sắp tới",
+          "key": true,
+          "ex": {
+            "ja": "{登山|とざん}に{出|で}かけた{男性|だんせい}の{行方|ゆくえ}が、{三日前|みっかまえ}から{分|わ}からなくなっている。",
+            "vi": "Một người đàn ông đi leo núi đã mất tích từ ba ngày trước."
+          },
+          "col": [
+            "行方がわからなくなる",
+            "行方不明",
+            "試合の行方"
+          ],
+          "note": "Đọc đặc biệt **ゆくえ** (熟字訓). Nghĩa gốc: **nơi người/vật đã đi tới, hướng đang đi tới** (行った先・進んでいく先) — nên dùng cho người/vật mất tích và cho diễn biến sắp tới (「試合の行方」 = cục diện trận đấu). Không dùng cho cách đi / đường đi (→ 行き方) hay điểm đến của một chuyến đi có mục đích (→ 行き先)."
+        },
+        {
+          "id": "g15-w20",
+          "w": "現場",
+          "r": "げんば",
+          "hv": "HIỆN TRƯỜNG",
+          "pos": "名",
+          "vi": "hiện trường; nơi làm việc thực tế",
+          "key": true,
+          "ex": {
+            "ja": "{事故|じこ}の{現場|げんば}には、{今|いま}も{花|はな}が{供|そな}えられている。",
+            "vi": "Tại hiện trường vụ tai nạn đến giờ vẫn có hoa được đặt viếng."
+          },
+          "col": [
+            "現場を捜査する",
+            "事故現場",
+            "工事現場",
+            "現場の声"
+          ],
+          "note": "Đọc げん**ば** (không phải げんじょう). Nghĩa rộng: 「教育の現場」 = nơi giảng dạy thực tế."
+        },
+        {
+          "id": "g15-w21",
+          "w": "捜査",
+          "r": "そうさ",
+          "hv": "SƯU TRA",
+          "pos": "名・他動",
+          "vi": "điều tra (của cảnh sát)",
+          "key": true,
+          "ex": {
+            "ja": "{警察|けいさつ}は{被害者|ひがいしゃ}の{周辺|しゅうへん}の{人物|じんぶつ}を{中心|ちゅうしん}に{捜査|そうさ}している。",
+            "vi": "Cảnh sát đang điều tra tập trung vào những người xung quanh nạn nhân."
+          },
+          "col": [
+            "現場を捜査する",
+            "捜査を進める",
+            "捜査本部"
+          ],
+          "rel": "≒ 調べる",
+          "note": "Chỉ dùng cho **cảnh sát, công tố**. Đồng âm: 操作 (thao tác máy — bài 13). Gần nghĩa: 捜索 (そうさく) = **lục soát, tìm kiếm** người/vật."
+        },
+        {
+          "id": "g15-w22",
+          "w": "証拠",
+          "r": "しょうこ",
+          "hv": "CHỨNG CỨ",
+          "pos": "名",
+          "vi": "bằng chứng, chứng cứ",
+          "key": true,
+          "ex": {
+            "ja": "{顔|かお}が{赤|あか}いのは、{熱|ねつ}がある{証拠|しょうこ}だよ。",
+            "vi": "Mặt đỏ thế kia là bằng chứng bị sốt đấy."
+          },
+          "col": [
+            "証拠が見つかる",
+            "証拠を残す",
+            "〜のが何よりの証拠だ"
+          ],
+          "note": "Dùng cả đời thường: 「〜のが証拠だ」 = (điều đó) chứng tỏ…"
+        },
+        {
+          "id": "g15-w23",
+          "w": "防犯対策",
+          "r": "ぼうはんたいさく",
+          "hv": "PHÒNG PHẠM ĐỐI SÁCH",
+          "pos": "名",
+          "vi": "biện pháp phòng chống tội phạm",
+          "key": true,
+          "ex": {
+            "ja": "{防犯対策|ぼうはんたいさく}として、マンションの{入口|いりぐち}にカメラを{付|つ}けた。",
+            "vi": "Để phòng chống tội phạm, chung cư đã gắn camera ở lối vào."
+          },
+          "col": [
+            "防犯対策を強化する",
+            "防犯カメラ",
+            "防犯ベル"
+          ]
+        },
+        {
+          "id": "g15-w24",
+          "w": "強化",
+          "r": "きょうか",
+          "hv": "CƯỜNG HOÁ",
+          "pos": "名・他動",
+          "vi": "tăng cường, củng cố",
+          "key": true,
+          "ex": {
+            "ja": "{大会|たいかい}の{期間中|きかんちゅう}は、{空港|くうこう}の{警備|けいび}が{強化|きょうか}される。",
+            "vi": "Trong thời gian diễn ra giải đấu, an ninh sân bay sẽ được tăng cường."
+          },
+          "col": [
+            "対策を強化する",
+            "警備を強化する",
+            "強化合宿"
+          ],
+          "rel": "↔ 弱化・緩和"
+        },
+        {
+          "id": "g15-w25",
+          "w": "犯罪防止",
+          "r": "はんざいぼうし",
+          "hv": "PHẠM TỘI PHÒNG CHỈ",
+          "pos": "名",
+          "vi": "phòng ngừa tội phạm",
+          "key": true,
+          "ex": {
+            "ja": "{夜|よる}の{道|みち}を{明|あか}るくすることは、{犯罪防止|はんざいぼうし}にもつながる。",
+            "vi": "Làm sáng đường vào ban đêm cũng góp phần phòng ngừa tội phạm."
+          },
+          "col": [
+            "犯罪防止に努める"
+          ],
+          "rel": "≒ 防犯"
+        },
+        {
+          "id": "g15-w26",
+          "w": "努める",
+          "r": "つとめる",
+          "hv": "NỖ",
+          "pos": "自動",
+          "vi": "nỗ lực, cố gắng (để đạt…)",
+          "key": false,
+          "ex": {
+            "ja": "{当社|とうしゃ}は、お{客様|きゃくさま}の{個人|こじん}{情報|じょうほう}の{保護|ほご}に{努|つと}めております。",
+            "vi": "Công ty chúng tôi luôn nỗ lực bảo vệ thông tin cá nhân của khách hàng."
+          },
+          "col": [
+            "〜に努める",
+            "防止に努める",
+            "努めて明るく振る舞う"
+          ],
+          "note": "Ba chữ cùng đọc つとめる: **努める** (nỗ lực: 〜に努める), **勤める** (làm việc ở: 会社に勤める), **務める** (đảm nhận vai trò: 司会を務める)."
+        }
+      ]
+    },
+    {
+      "title": "事故",
+      "title_vi": "Tai nạn",
+      "words": [
+        {
+          "id": "g15-w27",
+          "w": "交通事故",
+          "r": "こうつうじこ",
+          "hv": "GIAO THÔNG SỰ CỐ",
+          "pos": "名",
+          "vi": "tai nạn giao thông",
+          "key": true,
+          "ex": {
+            "ja": "{雪|ゆき}の{日|ひ}は、スリップによる{交通事故|こうつうじこ}が{増|ふ}える。",
+            "vi": "Ngày tuyết rơi, tai nạn giao thông do trượt bánh tăng lên."
+          },
+          "col": [
+            "交通事故に遭う",
+            "交通事故を起こす"
+          ],
+          "note": "Người bị nạn: 事故**に遭う**; người gây ra: 事故**を起こす**."
+        },
+        {
+          "id": "g15-w28",
+          "w": "飛び出す",
+          "r": "とびだす",
+          "hv": "PHI XUẤT",
+          "pos": "自動",
+          "vi": "lao ra, phóng ra (đột ngột)",
+          "key": true,
+          "ex": {
+            "ja": "{角|かど}から{自転車|じてんしゃ}が{飛|と}び{出|だ}してきて、{慌|あわ}ててブレーキを{踏|ふ}んだ。",
+            "vi": "Một chiếc xe đạp lao ra từ góc đường, tôi vội đạp phanh."
+          },
+          "col": [
+            "道路に飛び出す",
+            "家を飛び出す",
+            "飛び出し注意"
+          ]
+        },
+        {
+          "id": "g15-w29",
+          "w": "スピード違反",
+          "r": "すぴーどいはん",
+          "hv": "… VI PHẢN",
+          "pos": "名",
+          "vi": "vi phạm tốc độ, chạy quá tốc độ",
+          "key": true,
+          "ex": {
+            "ja": "{急|いそ}いでいたので、ついスピード{違反|いはん}をしてしまった。",
+            "vi": "Vì đang vội nên tôi lỡ chạy quá tốc độ."
+          },
+          "col": [
+            "スピード違反を取り締まる",
+            "スピード違反で捕まる"
+          ]
+        },
+        {
+          "id": "g15-w30",
+          "w": "取り締まる",
+          "r": "とりしまる",
+          "hv": "THỦ ĐẾ",
+          "pos": "他動",
+          "vi": "kiểm soát, xử lý vi phạm (để giữ trật tự)",
+          "key": true,
+          "ex": {
+            "ja": "{警察|けいさつ}は{年末|ねんまつ}に{飲酒|いんしゅ}{運転|うんてん}を{厳|きび}しく{取|と}り{締|し}まる。",
+            "vi": "Cảnh sát kiểm soát chặt việc lái xe khi say vào dịp cuối năm."
+          },
+          "col": [
+            "違反を取り締まる",
+            "取り締まり",
+            "取締役（とりしまりやく）"
+          ],
+          "note": "Đối tượng là **hành vi vi phạm nói chung** (違反・飲酒運転・密輸), không phải một người cụ thể. 「取締役」 = thành viên hội đồng quản trị."
+        },
+        {
+          "id": "g15-w31",
+          "w": "交差点",
+          "r": "こうさてん",
+          "hv": "GIAO SAI ĐIỂM",
+          "pos": "名",
+          "vi": "ngã tư, giao lộ",
+          "key": false,
+          "ex": {
+            "ja": "{次|つぎ}の{交差点|こうさてん}を{右|みぎ}に{曲|ま}がると、{病院|びょういん}が{見|み}えます。",
+            "vi": "Rẽ phải ở ngã tư tới là sẽ thấy bệnh viện."
+          },
+          "col": [
+            "交差点に差しかかる",
+            "交差点を渡る"
+          ]
+        },
+        {
+          "id": "g15-w32",
+          "w": "差しかかる",
+          "r": "さしかかる",
+          "hv": "SAI",
+          "pos": "自動",
+          "vi": "vừa tới (một địa điểm / giai đoạn)",
+          "key": true,
+          "ex": {
+            "ja": "{話|はなし}が{大事|だいじ}なところに{差|さ}しかかったとき、{電話|でんわ}が{鳴|な}った。",
+            "vi": "Đúng lúc câu chuyện vừa đến đoạn quan trọng thì điện thoại reo."
+          },
+          "col": [
+            "交差点に差しかかる",
+            "坂道に差しかかる",
+            "梅雨に差しかかる"
+          ],
+          "note": "Nghĩa: **vừa đúng lúc tới** điểm/giai đoạn đó (ちょうどその場所にたどり着く) — 〜に差しかかる. Dùng cho nơi chốn (交差点・カーブ・橋・坂) và thời kỳ (終盤・雨季)."
+        },
+        {
+          "id": "g15-w33",
+          "w": "衝突",
+          "r": "しょうとつ",
+          "hv": "XUNG ĐỘT",
+          "pos": "名・自動",
+          "vi": "va chạm, đâm vào; xung đột (ý kiến)",
+          "key": true,
+          "ex": {
+            "ja": "{会議|かいぎ}で{二人|ふたり}の{意見|いけん}が{真|ま}っ{向|こう}から{衝突|しょうとつ}した。",
+            "vi": "Trong cuộc họp, ý kiến hai người va chạm gay gắt."
+          },
+          "col": [
+            "車と衝突する",
+            "正面衝突",
+            "意見が衝突する"
+          ],
+          "rel": "≒ ぶつかる",
+          "note": "Bẫy Hán Việt: 衝突 (XUNG ĐỘT) trước hết là **va chạm vật lý** (xe đâm xe), nghĩa bóng mới là xung đột ý kiến."
+        },
+        {
+          "id": "g15-w34",
+          "w": "保険",
+          "r": "ほけん",
+          "hv": "BẢO HIỂM",
+          "pos": "名",
+          "vi": "bảo hiểm",
+          "key": true,
+          "ex": {
+            "ja": "{海外|かいがい}{旅行|りょこう}の{前|まえ}に、{念|ねん}のため{保険|ほけん}を{掛|か}けておいた。",
+            "vi": "Trước khi đi du lịch nước ngoài, tôi mua bảo hiểm cho chắc."
+          },
+          "col": [
+            "保険を掛ける",
+            "保険に入る",
+            "健康保険"
+          ],
+          "note": "「保険を掛ける」 còn có nghĩa bóng: chuẩn bị phương án dự phòng."
+        },
+        {
+          "id": "g15-w35",
+          "w": "保険金",
+          "r": "ほけんきん",
+          "hv": "BẢO HIỂM KIM",
+          "pos": "名",
+          "vi": "tiền bảo hiểm (được chi trả)",
+          "key": true,
+          "ex": {
+            "ja": "{火事|かじ}で{家|いえ}が{焼|や}けたが、{保険金|ほけんきん}で{建|た}て{直|なお}すことができた。",
+            "vi": "Nhà bị cháy, nhưng nhờ tiền bảo hiểm mà xây lại được."
+          },
+          "col": [
+            "保険金が出る",
+            "保険金を受け取る"
+          ],
+          "note": "Phí phải đóng hằng tháng → 保険料 (ほけんりょう)."
+        }
+      ]
+    },
+    {
+      "title": "災害",
+      "title_vi": "Thiên tai, thảm hoạ",
+      "words": [
+        {
+          "id": "g15-w36",
+          "w": "災害",
+          "r": "さいがい",
+          "hv": "TAI HẠI",
+          "pos": "名",
+          "vi": "thảm hoạ, thiên tai",
+          "key": true,
+          "ex": {
+            "ja": "{日本|にほん}は{地震|じしん}や{台風|たいふう}など、{自然|しぜん}{災害|さいがい}の{多|おお}い{国|くに}だ。",
+            "vi": "Nhật Bản là đất nước nhiều thiên tai như động đất, bão."
+          },
+          "col": [
+            "災害が発生する",
+            "災害に備える",
+            "自然災害",
+            "災害時"
+          ]
+        },
+        {
+          "id": "g15-w37",
+          "w": "発生",
+          "r": "はっせい",
+          "hv": "PHÁT SINH",
+          "pos": "名・自動",
+          "vi": "xảy ra, phát sinh",
+          "key": true,
+          "ex": {
+            "ja": "{南|みなみ}の{海上|かいじょう}で{台風|たいふう}が{発生|はっせい}した。",
+            "vi": "Một cơn bão đã hình thành trên vùng biển phía nam."
+          },
+          "col": [
+            "災害が発生する",
+            "事故が発生する",
+            "問題が発生する"
+          ],
+          "rel": "≒ 起こる",
+          "note": "Văn tin tức, trang trọng của 起こる. Tự động từ: 「〜が発生する」."
+        },
+        {
+          "id": "g15-w38",
+          "w": "備える",
+          "r": "そなえる",
+          "hv": "BỊ",
+          "pos": "他動",
+          "vi": "chuẩn bị sẵn, phòng bị (cho điều có thể xảy ra)",
+          "key": true,
+          "ex": {
+            "ja": "{老後|ろうご}に{備|そな}えて、{若|わか}いうちから{少|すこ}しずつ{貯金|ちょきん}している。",
+            "vi": "Để phòng khi về già, tôi để dành dần từ khi còn trẻ."
+          },
+          "col": [
+            "災害に備える",
+            "試験に備える",
+            "備え",
+            "備えあれば憂いなし"
+          ],
+          "note": "Cấu trúc: **[việc có thể xảy ra] に備える**. 「備えあれば憂いなし」 = có chuẩn bị thì không lo (cẩn tắc vô áy náy)."
+        },
+        {
+          "id": "g15-w39",
+          "w": "住民",
+          "r": "じゅうみん",
+          "hv": "TRÚ DÂN",
+          "pos": "名",
+          "vi": "cư dân, người dân sống ở khu vực",
+          "key": false,
+          "ex": {
+            "ja": "{新|あたら}しい{道路|どうろ}の{計画|けいかく}に、{地元|じもと}の{住民|じゅうみん}が{反対|はんたい}している。",
+            "vi": "Người dân địa phương phản đối kế hoạch làm đường mới."
+          },
+          "col": [
+            "住民に呼びかける",
+            "住民票",
+            "地域住民"
+          ]
+        },
+        {
+          "id": "g15-w40",
+          "w": "警戒",
+          "r": "けいかい",
+          "hv": "CẢNH GIỚI",
+          "pos": "名・他動",
+          "vi": "cảnh giác, đề phòng",
+          "key": true,
+          "ex": {
+            "ja": "{猫|ねこ}は{知|し}らない{人|ひと}を{警戒|けいかい}して、{近|ちか}づこうとしない。",
+            "vi": "Con mèo cảnh giác với người lạ, không chịu lại gần."
+          },
+          "col": [
+            "警戒を呼びかける",
+            "警戒が必要だ",
+            "警戒心"
+          ]
+        },
+        {
+          "id": "g15-w41",
+          "w": "呼びかける",
+          "r": "よびかける",
+          "hv": "HÔ",
+          "pos": "他動",
+          "vi": "kêu gọi; gọi (ai đó)",
+          "key": false,
+          "ex": {
+            "ja": "{市|し}は{市民|しみん}に{節水|せっすい}を{呼|よ}びかけている。",
+            "vi": "Thành phố đang kêu gọi người dân tiết kiệm nước."
+          },
+          "col": [
+            "警戒を呼びかける",
+            "協力を呼びかける",
+            "呼びかけ"
+          ],
+          "note": "Cấu trúc: **[người] に [việc] を呼びかける**."
+        },
+        {
+          "id": "g15-w42",
+          "w": "大雨洪水警報",
+          "r": "おおあめこうずいけいほう",
+          "hv": "ĐẠI VŨ HỒNG THUỶ CẢNH BÁO",
+          "pos": "名",
+          "vi": "cảnh báo mưa lớn và lũ lụt",
+          "key": true,
+          "ex": {
+            "ja": "{大雨洪水警報|おおあめこうずいけいほう}が{出|で}たため、{学校|がっこう}は{休校|きゅうこう}になった。",
+            "vi": "Vì có cảnh báo mưa lớn và lũ lụt nên trường được nghỉ học."
+          },
+          "col": [
+            "警報が出る",
+            "警報が解除される"
+          ],
+          "note": "Mức độ: 注意報 (chú ý) < **警報** (cảnh báo) < 特別警報 (cảnh báo đặc biệt)."
+        },
+        {
+          "id": "g15-w43",
+          "w": "土砂崩れ",
+          "r": "どしゃくずれ",
+          "hv": "THỔ SA BĂNG",
+          "pos": "名",
+          "vi": "sạt lở đất",
+          "key": true,
+          "ex": {
+            "ja": "{山道|やまみち}で{土砂崩|どしゃくず}れが{起|お}き、{村|むら}へ{行|い}く{道|みち}がふさがれた。",
+            "vi": "Sạt lở đất trên đường núi đã chặn mất con đường vào làng."
+          },
+          "col": [
+            "土砂崩れが起きる",
+            "がけ崩れ"
+          ],
+          "note": "Đọc **どしゃ** (土 = ど, 砂 = しゃ — âm đặc biệt). 崩れる = sụp đổ."
+        },
+        {
+          "id": "g15-w44",
+          "w": "河川",
+          "r": "かせん",
+          "hv": "HÀ XUYÊN",
+          "pos": "名",
+          "vi": "sông ngòi (văn viết)",
+          "key": true,
+          "ex": {
+            "ja": "{大雨|おおあめ}のときは、{河川|かせん}に{近|ちか}づかないでください。",
+            "vi": "Khi mưa lớn, xin đừng đến gần sông ngòi."
+          },
+          "col": [
+            "河川がはんらんする",
+            "一級河川"
+          ],
+          "rel": "≒ 川",
+          "note": "Cách nói **văn bản, hành chính** của 川. Đọc か**せん** (川 = せん)."
+        },
+        {
+          "id": "g15-w45",
+          "w": "はんらん",
+          "r": "はんらん",
+          "hv": "PHIẾM LẠM",
+          "pos": "名・自動",
+          "vi": "(sông) tràn bờ, ngập lụt; tràn lan",
+          "key": true,
+          "senses": [
+            {
+              "vi": "nước sông tràn bờ",
+              "ex": {
+                "ja": "{記録的|きろくてき}な{大雨|おおあめ}で、{町|まち}を{流|なが}れる{川|かわ}がはんらんした。",
+                "vi": "Do mưa lớn kỷ lục, con sông chảy qua thị trấn đã tràn bờ."
+              }
+            },
+            {
+              "vi": "tràn lan, tràn ngập (thông tin, hàng hoá)",
+              "ex": {
+                "ja": "ネットには{真偽|しんぎ}の{分|わ}からない{情報|じょうほう}がはんらんしている。",
+                "vi": "Trên mạng tràn lan những thông tin không rõ thật giả."
+              }
+            }
+          ],
+          "col": [
+            "河川がはんらんする",
+            "情報がはんらんする"
+          ],
+          "note": "Kanji: 氾濫 (thường viết bằng hiragana vì chữ khó)."
+        },
+        {
+          "id": "g15-w46",
+          "w": "火山",
+          "r": "かざん",
+          "hv": "HOẢ SƠN",
+          "pos": "名",
+          "vi": "núi lửa",
+          "key": false,
+          "ex": {
+            "ja": "{日本|にほん}には{百|ひゃく}を{超|こ}える{活|かつ}{火山|かざん}がある。",
+            "vi": "Nhật Bản có hơn 100 núi lửa đang hoạt động."
+          },
+          "col": [
+            "火山が噴火する",
+            "活火山",
+            "火山灰"
+          ]
+        },
+        {
+          "id": "g15-w47",
+          "w": "噴火",
+          "r": "ふんか",
+          "hv": "PHÚN HOẢ",
+          "pos": "名・自動",
+          "vi": "(núi lửa) phun trào",
+          "key": true,
+          "ex": {
+            "ja": "{噴火|ふんか}の{影響|えいきょう}で、{周辺|しゅうへん}の{空港|くうこう}は{閉鎖|へいさ}された。",
+            "vi": "Do ảnh hưởng của vụ phun trào, các sân bay lân cận đã bị đóng cửa."
+          },
+          "col": [
+            "火山が噴火する",
+            "噴火警報"
+          ],
+          "note": "噴 = phun (噴水 ふんすい = đài phun nước)."
+        },
+        {
+          "id": "g15-w48",
+          "w": "避難",
+          "r": "ひなん",
+          "hv": "TỴ NẠN",
+          "pos": "名・自動",
+          "vi": "sơ tán, lánh nạn",
+          "key": true,
+          "ex": {
+            "ja": "{川|かわ}の{水位|すいい}が{上|あ}がってきたので、{近|ちか}くの{小学校|しょうがっこう}に{避難|ひなん}した。",
+            "vi": "Mực nước sông dâng lên nên chúng tôi sơ tán đến trường tiểu học gần đó."
+          },
+          "col": [
+            "安全な場所へ避難する",
+            "避難所",
+            "避難訓練",
+            "避難指示"
+          ],
+          "note": "Bẫy đồng âm: **非難** (ひなん) = chỉ trích, phê phán. 避 = tránh (避ける)."
+        },
+        {
+          "id": "g15-w49",
+          "w": "被災者",
+          "r": "ひさいしゃ",
+          "hv": "BỊ TAI GIẢ",
+          "pos": "名",
+          "vi": "nạn nhân thiên tai, người bị thiệt hại do thảm hoạ",
+          "key": true,
+          "ex": {
+            "ja": "{全国|ぜんこく}から{被災者|ひさいしゃ}のために{毛布|もうふ}や{水|みず}が{送|おく}られてきた。",
+            "vi": "Chăn và nước từ khắp cả nước được gửi đến cho người dân vùng thiên tai."
+          },
+          "col": [
+            "被災者を救済する",
+            "被災者を支援する"
+          ],
+          "note": "Phân biệt: **被災者** = nạn nhân **thiên tai**; **被害者** = nạn nhân **tội phạm / tai nạn** nói chung."
+        },
+        {
+          "id": "g15-w50",
+          "w": "救済",
+          "r": "きゅうさい",
+          "hv": "CỨU TẾ",
+          "pos": "名・他動",
+          "vi": "cứu trợ, giúp đỡ (người gặp khó khăn, thường về vật chất, chế độ)",
+          "key": true,
+          "ex": {
+            "ja": "{国|くに}は{仕事|しごと}を{失|うしな}った{人|ひと}を{救済|きゅうさい}するための{制度|せいど}を{作|つく}った。",
+            "vi": "Nhà nước đã lập chế độ để cứu trợ những người mất việc."
+          },
+          "col": [
+            "被災者を救済する",
+            "救済措置",
+            "救済策"
+          ],
+          "note": "救済 = **giúp thoát khỏi hoàn cảnh khó khăn** bằng tiền, chính sách. Cứu người đang gặp nguy hiểm tính mạng → 救助 (きゅうじょ)."
+        },
+        {
+          "id": "g15-w51",
+          "w": "保護",
+          "r": "ほご",
+          "hv": "BẢO HỘ",
+          "pos": "名・他動",
+          "vi": "bảo vệ, che chở; tạm giữ (người lạc, động vật)",
+          "key": true,
+          "ex": {
+            "ja": "{迷子|まいご}になっていた{男|おとこ}の{子|こ}は、{駅員|えきいん}に{保護|ほご}された。",
+            "vi": "Cậu bé bị lạc đã được nhân viên nhà ga trông giữ an toàn."
+          },
+          "col": [
+            "被災者を保護する",
+            "自然保護",
+            "個人情報保護"
+          ],
+          "note": "Trong tin tức, 「〜が保護された」 thường nghĩa là **được tìm thấy và đưa về nơi an toàn**."
+        },
+        {
+          "id": "g15-w52",
+          "w": "食糧",
+          "r": "しょくりょう",
+          "hv": "THỰC LƯƠNG",
+          "pos": "名",
+          "vi": "lương thực",
+          "key": true,
+          "ex": {
+            "ja": "{世界|せかい}の{人口|じんこう}が{増|ふ}え{続|つづ}けると、{食糧|しょくりょう}{不足|ぶそく}が{深刻|しんこく}になる。",
+            "vi": "Nếu dân số thế giới tiếp tục tăng, tình trạng thiếu lương thực sẽ trở nên nghiêm trọng."
+          },
+          "col": [
+            "食糧を確保する",
+            "食糧不足",
+            "食糧問題"
+          ],
+          "rel": "≒ 食べ物",
+          "note": "食糧 = lương thực chính (gạo, lúa mì…) để sống; 食料 (cùng âm) = thực phẩm nói chung (食料品)."
+        },
+        {
+          "id": "g15-w53",
+          "w": "確保",
+          "r": "かくほ",
+          "hv": "XÁC BẢO",
+          "pos": "名・他動",
+          "vi": "đảm bảo có được, giữ chắc (chỗ, nguồn, thời gian)",
+          "key": true,
+          "ex": {
+            "ja": "{忙|いそが}しくても、{毎日|まいにち}{三十分|さんじゅっぷん}は{勉強|べんきょう}の{時間|じかん}を{確保|かくほ}している。",
+            "vi": "Dù bận, ngày nào tôi cũng giữ chắc 30 phút để học."
+          },
+          "col": [
+            "食糧を確保する",
+            "席を確保する",
+            "安全を確保する",
+            "人材を確保する"
+          ]
+        },
+        {
+          "id": "g15-w54",
+          "w": "停電",
+          "r": "ていでん",
+          "hv": "ĐÌNH ĐIỆN",
+          "pos": "名・自動",
+          "vi": "mất điện, cúp điện",
+          "key": true,
+          "ex": {
+            "ja": "{停電|ていでん}に{備|そな}えて、{懐中電灯|かいちゅうでんとう}を{用意|ようい}しておこう。",
+            "vi": "Hãy chuẩn bị sẵn đèn pin phòng khi mất điện."
+          },
+          "col": [
+            "停電する",
+            "停電が復旧する"
+          ]
+        },
+        {
+          "id": "g15-w55",
+          "w": "復旧",
+          "r": "ふっきゅう",
+          "hv": "PHỤC CỰU",
+          "pos": "名・自他動",
+          "vi": "khôi phục (như cũ) — điện, nước, giao thông",
+          "key": true,
+          "ex": {
+            "ja": "{地震|じしん}で{止|と}まっていた{水道|すいどう}が、{三日|みっか}ぶりに{復旧|ふっきゅう}した。",
+            "vi": "Nước máy bị ngắt do động đất đã được khôi phục sau ba ngày."
+          },
+          "col": [
+            "停電が復旧する",
+            "復旧作業",
+            "復旧の見込み"
+          ],
+          "note": "Đọc **ふっきゅう** (có っ). 復旧 = khôi phục **hạ tầng** về như cũ; **復興** (ふっこう) = tái thiết **cả vùng, cả đời sống** sau thảm hoạ."
+        }
+      ]
+    },
+    {
+      "title": "語形成",
+      "title_vi": "Ghép từ, tiền tố – hậu tố",
+      "words": [
+        {
+          "id": "g15-w56",
+          "w": "〜事件",
+          "r": "じけん",
+          "hv": "SỰ KIỆN",
+          "pos": "接尾",
+          "vi": "vụ (án)…",
+          "key": true,
+          "ex": {
+            "ja": "{昨夜|さくや}、{駅前|えきまえ}の{宝石店|ほうせきてん}で{強盗事件|ごうとうじけん}があった。",
+            "vi": "Tối qua đã xảy ra một vụ cướp ở tiệm kim hoàn trước ga."
+          },
+          "col": [
+            "殺人事件",
+            "強盗事件",
+            "誘拐事件"
+          ]
+        },
+        {
+          "id": "g15-w78",
+          "w": "強盗事件",
+          "r": "ごうとうじけん",
+          "hv": "CƯỜNG ĐẠO SỰ KIỆN",
+          "pos": "名",
+          "vi": "vụ cướp",
+          "key": true,
+          "ex": {
+            "ja": "{強盗事件|ごうとうじけん}の{犯人|はんにん}は、{事件|じけん}の{二日後|ふつかご}に{逮捕|たいほ}された。",
+            "vi": "Thủ phạm vụ cướp đã bị bắt hai ngày sau khi vụ việc xảy ra."
+          },
+          "col": [
+            "強盗事件が起きる"
+          ]
+        },
+        {
+          "id": "g15-w79",
+          "w": "〜対策",
+          "r": "〜たいさく",
+          "hv": "ĐỐI SÁCH",
+          "pos": "接尾",
+          "vi": "biện pháp phòng chống …",
+          "key": false,
+          "ex": {
+            "ja": "{夏|なつ}は{熱中症|ねっちゅうしょう}{対策|たいさく}として、こまめに{水|みず}を{飲|の}むようにしている。",
+            "vi": "Mùa hè, để phòng say nắng, tôi chịu khó uống nước thường xuyên."
+          },
+          "col": [
+            "防犯対策",
+            "防災対策",
+            "地震対策"
+          ]
+        },
+        {
+          "id": "g15-w57",
+          "w": "防災対策",
+          "r": "ぼうさいたいさく",
+          "hv": "PHÒNG TAI ĐỐI SÁCH",
+          "pos": "名",
+          "vi": "biện pháp phòng chống thiên tai",
+          "key": true,
+          "ex": {
+            "ja": "{学校|がっこう}では{防災対策|ぼうさいたいさく}の{一|ひと}つとして、{毎月|まいつき}{避難|ひなん}{訓練|くんれん}を{行|おこな}っている。",
+            "vi": "Ở trường, một trong các biện pháp phòng chống thiên tai là diễn tập sơ tán hằng tháng."
+          },
+          "col": [
+            "防犯対策",
+            "防災グッズ"
+          ],
+          "note": "防 (PHÒNG) + 犯 = 防犯 (phòng tội phạm); 防 + 災 = 防災 (phòng thiên tai)."
+        },
+        {
+          "id": "g15-w58",
+          "w": "〜防止",
+          "r": "ぼうし",
+          "hv": "PHÒNG CHỈ",
+          "pos": "接尾",
+          "vi": "phòng ngừa…, ngăn chặn…",
+          "key": true,
+          "ex": {
+            "ja": "{転落|てんらく}{防止|ぼうし}のため、ホームに{柵|さく}が{設置|せっち}された。",
+            "vi": "Để phòng ngừa ngã xuống đường ray, sân ga đã được lắp rào chắn."
+          },
+          "col": [
+            "犯罪防止",
+            "再発防止",
+            "事故防止",
+            "盗難防止"
+          ]
+        },
+        {
+          "id": "g15-w59",
+          "w": "再発防止",
+          "r": "さいはつぼうし",
+          "hv": "TÁI PHÁT PHÒNG CHỈ",
+          "pos": "名",
+          "vi": "ngăn ngừa tái diễn",
+          "key": true,
+          "ex": {
+            "ja": "{会社|かいしゃ}は{謝罪|しゃざい}し、{再発防止|さいはつぼうし}に{全力|ぜんりょく}を{尽|つ}くすと{約束|やくそく}した。",
+            "vi": "Công ty đã xin lỗi và hứa dốc toàn lực ngăn chuyện tái diễn."
+          },
+          "col": [
+            "再発防止策",
+            "再発防止に努める"
+          ],
+          "note": "Cụm cực kỳ hay gặp trong lời xin lỗi chính thức của doanh nghiệp."
+        },
+        {
+          "id": "g15-w60",
+          "w": "事故防止",
+          "r": "じこぼうし",
+          "hv": "SỰ CỐ PHÒNG CHỈ",
+          "pos": "名",
+          "vi": "phòng ngừa tai nạn",
+          "key": false,
+          "ex": {
+            "ja": "{工事|こうじ}{現場|げんば}では、{事故防止|じこぼうし}のためヘルメットの{着用|ちゃくよう}が{義務|ぎむ}だ。",
+            "vi": "Ở công trường, đội mũ bảo hiểm là bắt buộc để phòng ngừa tai nạn."
+          }
+        },
+        {
+          "id": "g15-w80",
+          "w": "〜事故",
+          "r": "〜じこ",
+          "hv": "SỰ CỐ",
+          "pos": "接尾",
+          "vi": "tai nạn …, sự cố …",
+          "key": false,
+          "ex": {
+            "ja": "{工場|こうじょう}で{爆発|ばくはつ}{事故|じこ}があり、{近|ちか}くの{住民|じゅうみん}が{避難|ひなん}した。",
+            "vi": "Ở nhà máy xảy ra vụ nổ, người dân gần đó đã phải sơ tán."
+          },
+          "col": [
+            "交通事故",
+            "死亡事故",
+            "人身事故"
+          ]
+        },
+        {
+          "id": "g15-w61",
+          "w": "死亡事故",
+          "r": "しぼうじこ",
+          "hv": "TỬ VONG SỰ CỐ",
+          "pos": "名",
+          "vi": "tai nạn chết người",
+          "key": true,
+          "ex": {
+            "ja": "このカーブでは{去年|きょねん}、{死亡事故|しぼうじこ}が{二件|にけん}{起|お}きている。",
+            "vi": "Năm ngoái ở khúc cua này đã xảy ra hai vụ tai nạn chết người."
+          },
+          "col": [
+            "交通事故",
+            "〜事故"
+          ]
+        },
+        {
+          "id": "g15-w81",
+          "w": "飛び〜",
+          "r": "とび〜",
+          "hv": "PHI",
+          "pos": "接頭",
+          "vi": "(tiền tố động từ) lao, phóng (đột ngột, mạnh)",
+          "key": false,
+          "ex": {
+            "ja": "{猫|ねこ}が{急|きゅう}に{机|つくえ}の{上|うえ}に{飛|と}び{乗|の}った。",
+            "vi": "Con mèo đột nhiên nhảy phắt lên bàn."
+          },
+          "col": [
+            "飛び出す",
+            "飛び込む",
+            "飛び乗る",
+            "飛び降りる"
+          ]
+        },
+        {
+          "id": "g15-w62",
+          "w": "飛び込む",
+          "r": "とびこむ",
+          "hv": "PHI",
+          "pos": "自動",
+          "vi": "nhảy vào, lao vào; xông vào (lĩnh vực mới)",
+          "key": true,
+          "ex": {
+            "ja": "{彼|かれ}は{大学|だいがく}を{卒業|そつぎょう}してすぐ、{芸能界|げいのうかい}に{飛|と}び{込|こ}んだ。",
+            "vi": "Vừa tốt nghiệp đại học, anh ấy đã lao vào giới giải trí."
+          },
+          "col": [
+            "川に飛び込む",
+            "電車に飛び込む",
+            "新しい世界に飛び込む"
+          ],
+          "note": "飛び出す = lao **ra ngoài**; 飛び込む = lao **vào trong**."
+        },
+        {
+          "id": "g15-w63",
+          "w": "〜違反",
+          "r": "いはん",
+          "hv": "VI PHẢN",
+          "pos": "接尾",
+          "vi": "vi phạm…",
+          "key": true,
+          "ex": {
+            "ja": "{会社|かいしゃ}の{情報|じょうほう}を{外部|がいぶ}に{漏|も}らすのは{契約|けいやく}{違反|いはん}だ。",
+            "vi": "Làm lộ thông tin công ty ra ngoài là vi phạm hợp đồng."
+          },
+          "col": [
+            "スピード違反",
+            "駐車違反",
+            "ルール違反",
+            "違反者"
+          ]
+        },
+        {
+          "id": "g15-w64",
+          "w": "駐車違反",
+          "r": "ちゅうしゃいはん",
+          "hv": "TRÚ XA VI PHẢN",
+          "pos": "名",
+          "vi": "đỗ xe sai quy định",
+          "key": true,
+          "ex": {
+            "ja": "{五分|ごふん}だけのつもりで{車|くるま}を{止|と}めたら、{駐車違反|ちゅうしゃいはん}の{紙|かみ}を{貼|は}られた。",
+            "vi": "Định đỗ xe có năm phút mà đã bị dán giấy phạt đỗ sai chỗ."
+          }
+        },
+        {
+          "id": "g15-w82",
+          "w": "取り〜",
+          "r": "とり〜",
+          "hv": "THỦ",
+          "pos": "接頭",
+          "vi": "(tiền tố động từ) nhấn mạnh hành động, làm cho chắc / dứt khoát",
+          "key": false,
+          "ex": {
+            "ja": "{予約|よやく}を{取|と}り{消|け}したいのですが、{手数料|てすうりょう}はかかりますか。",
+            "vi": "Tôi muốn huỷ đặt chỗ, có mất phí không ạ?"
+          },
+          "col": [
+            "取り締まる",
+            "取り押さえる",
+            "取り消す",
+            "取り組む"
+          ]
+        },
+        {
+          "id": "g15-w65",
+          "w": "取り押さえる",
+          "r": "とりおさえる",
+          "hv": "THỦ ÁP",
+          "pos": "他動",
+          "vi": "khống chế, đè giữ (người đang chống cự / bỏ chạy)",
+          "key": true,
+          "ex": {
+            "ja": "ナイフを{持|も}って{暴|あば}れていた{男|おとこ}は、{警備員|けいびいん}に{取|と}り{押|お}さえられた。",
+            "vi": "Gã đàn ông cầm dao quậy phá đã bị nhân viên bảo vệ khống chế."
+          },
+          "col": [
+            "犯人を取り押さえる"
+          ],
+          "note": "Đối tượng là **một người cụ thể ngay tại chỗ** (dùng sức giữ lại). So với 取り締まる (kiểm soát hành vi vi phạm nói chung)."
+        },
+        {
+          "id": "g15-w83",
+          "w": "差し〜",
+          "r": "さし〜",
+          "hv": "SAI",
+          "pos": "接頭",
+          "vi": "(tiền tố động từ) đưa ra / hướng tới; mỗi từ ghép có nghĩa riêng cần học thuộc",
+          "key": true,
+          "ex": {
+            "ja": "{困|こま}っている{人|ひと}に{手|て}を{差|さ}し{伸|の}べる。",
+            "vi": "Chìa tay giúp đỡ người đang gặp khó khăn."
+          },
+          "col": [
+            "差しかかる",
+            "差し押さえる",
+            "差し出す",
+            "差し上げる"
+          ],
+          "note": "Hai từ của bài: 差しかかる (vừa tới chỗ/giai đoạn) và 差し押さえる (kê biên tài sản). Đừng nhầm với 取り押さえる (khống chế một người)."
+        },
+        {
+          "id": "g15-w66",
+          "w": "差し押さえる",
+          "r": "さしおさえる",
+          "hv": "SAI ÁP",
+          "pos": "他動",
+          "vi": "tịch biên, kê biên (tài sản theo pháp luật)",
+          "key": true,
+          "ex": {
+            "ja": "{税金|ぜいきん}を{長|なが}い{間|あいだ}{払|はら}わなかったため、{家|いえ}を{差|さ}し{押|お}さえられた。",
+            "vi": "Vì không nộp thuế trong thời gian dài, ngôi nhà đã bị kê biên."
+          },
+          "col": [
+            "財産を差し押さえる",
+            "差し押さえ"
+          ],
+          "note": "Đối tượng là **tài sản**, chủ thể là cơ quan pháp luật / thuế. Khác 取り押さえる (giữ người)."
+        },
+        {
+          "id": "g15-w67",
+          "w": "〜警報",
+          "r": "けいほう",
+          "hv": "CẢNH BÁO",
+          "pos": "接尾",
+          "vi": "cảnh báo…",
+          "key": true,
+          "ex": {
+            "ja": "{地震|じしん}の{直後|ちょくご}、{沿岸部|えんがんぶ}に{津波警報|つなみけいほう}が{出|で}された。",
+            "vi": "Ngay sau động đất, cảnh báo sóng thần được ban bố cho vùng ven biển."
+          },
+          "col": [
+            "大雨洪水警報",
+            "津波警報",
+            "暴風警報",
+            "警報が解除される"
+          ]
+        },
+        {
+          "id": "g15-w68",
+          "w": "津波警報",
+          "r": "つなみけいほう",
+          "hv": "TÂN BA CẢNH BÁO",
+          "pos": "名",
+          "vi": "cảnh báo sóng thần",
+          "key": true,
+          "ex": {
+            "ja": "{津波警報|つなみけいほう}が{解除|かいじょ}されるまで、{海|うみ}には{近|ちか}づかないでください。",
+            "vi": "Cho đến khi cảnh báo sóng thần được dỡ bỏ, xin đừng lại gần biển."
+          }
+        },
+        {
+          "id": "g15-w69",
+          "w": "〜崩れ",
+          "r": "くずれ",
+          "hv": "BĂNG",
+          "pos": "接尾",
+          "vi": "sự sụp, lở…",
+          "key": true,
+          "ex": {
+            "ja": "このシャツは{洗濯|せんたく}しても{型崩|かたくず}れしにくい。",
+            "vi": "Chiếc áo sơ mi này giặt rồi cũng khó bị mất dáng."
+          },
+          "col": [
+            "土砂崩れ",
+            "がけ崩れ",
+            "荷崩れ",
+            "型崩れ"
+          ]
+        },
+        {
+          "id": "g15-w70",
+          "w": "がけ崩れ",
+          "r": "がけくずれ",
+          "hv": "NHAI BĂNG",
+          "pos": "名",
+          "vi": "lở vách núi, sạt taluy",
+          "key": true,
+          "ex": {
+            "ja": "{線路|せんろ}の{近|ちか}くでがけ{崩|くず}れが{起|お}き、{電車|でんしゃ}が{運転|うんてん}を{見合|みあ}わせている。",
+            "vi": "Do lở vách núi gần đường ray, tàu tạm ngừng chạy."
+          },
+          "note": "Kanji: 崖崩れ. 土砂崩れ = đất đá đổ xuống (rộng); がけ崩れ = vách dốc đổ sập."
+        },
+        {
+          "id": "g15-w71",
+          "w": "被災〜",
+          "r": "ひさい",
+          "hv": "BỊ TAI",
+          "pos": "接頭",
+          "vi": "bị thiên tai…",
+          "key": true,
+          "ex": {
+            "ja": "{地震|じしん}で{被災|ひさい}した{工場|こうじょう}は、{半年|はんとし}{後|ご}に{再開|さいかい}した。",
+            "vi": "Nhà máy bị thiệt hại do động đất đã hoạt động trở lại sau nửa năm."
+          },
+          "col": [
+            "被災者",
+            "被災地",
+            "被災する"
+          ]
+        },
+        {
+          "id": "g15-w72",
+          "w": "被災地",
+          "r": "ひさいち",
+          "hv": "BỊ TAI ĐỊA",
+          "pos": "名",
+          "vi": "vùng bị thiên tai",
+          "key": true,
+          "ex": {
+            "ja": "{夏休|なつやす}みに{被災地|ひさいち}でボランティア{活動|かつどう}をした。",
+            "vi": "Kỳ nghỉ hè tôi đi làm tình nguyện ở vùng thiên tai."
+          },
+          "col": [
+            "被災地を支援する",
+            "被災地の復興"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "例文の言葉（副詞など）",
+      "title_vi": "Phó từ trong câu ví dụ",
+      "words": [
+        {
+          "id": "g15-w73",
+          "w": "そう（〜ない）",
+          "r": "そう",
+          "hv": "",
+          "pos": "副",
+          "vi": "(không) đến mức đó, (không) … lắm",
+          "key": true,
+          "ex": {
+            "ja": "{試験|しけん}まではまだ{時間|じかん}があるから、そう{焦|あせ}らなくてもいい。",
+            "vi": "Còn thời gian trước kỳ thi nên không cần cuống lên thế đâu."
+          },
+          "col": [
+            "そう遠くない",
+            "そう簡単ではない",
+            "そう多くない"
+          ],
+          "rel": "≒ それほど・あまり",
+          "note": "Đi với **phủ định**: そう + 形容詞 + ない = không … lắm. 「そう遠くない将来」 = trong tương lai không xa."
+        },
+        {
+          "id": "g15-w74",
+          "w": "依然（として）",
+          "r": "いぜん（として）",
+          "hv": "Y NHIÊN",
+          "pos": "副",
+          "vi": "vẫn như cũ, vẫn còn (dù đã có thay đổi / nỗ lực)",
+          "key": true,
+          "ex": {
+            "ja": "{治療|ちりょう}を{続|つづ}けているが、{患者|かんじゃ}は{依然|いぜん}として{意識|いしき}が{戻|もど}らない。",
+            "vi": "Dù vẫn tiếp tục điều trị, bệnh nhân vẫn chưa tỉnh lại."
+          },
+          "col": [
+            "依然として〜ない",
+            "依然として高い"
+          ],
+          "rel": "≒ 相変わらず・今でも",
+          "note": "Văn tin tức, trang trọng. Hàm ý **tình hình (thường là xấu) chưa thay đổi**. Đừng nhầm 以前 (いぜん = trước đây)."
+        },
+        {
+          "id": "g15-w75",
+          "w": "まさか",
+          "r": "まさか",
+          "hv": "",
+          "pos": "副",
+          "vi": "không lẽ nào, không thể ngờ",
+          "key": true,
+          "ex": {
+            "ja": "まさか{自分|じぶん}が{宝|たから}くじに{当|あ}たるとは{思|おも}わなかった。",
+            "vi": "Tôi không thể ngờ chính mình lại trúng xổ số."
+          },
+          "col": [
+            "まさか〜とは思わなかった",
+            "まさか〜ないだろう",
+            "まさかの時"
+          ],
+          "note": "Đi với **phủ định / bất ngờ**: まさか〜ないだろう (chắc không đến nỗi…), まさか〜なんて (không ngờ…). 「まさかの時」 = khi bất trắc."
+        },
+        {
+          "id": "g15-w76",
+          "w": "非常に",
+          "r": "ひじょうに",
+          "hv": "PHI THƯỜNG",
+          "pos": "副",
+          "vi": "rất, vô cùng (văn viết, trang trọng)",
+          "key": true,
+          "ex": {
+            "ja": "{今回|こんかい}の{調査|ちょうさ}{結果|けっか}は、{非常|ひじょう}に{興味深|きょうみぶか}いものだった。",
+            "vi": "Kết quả khảo sát lần này vô cùng thú vị."
+          },
+          "col": [
+            "非常に危険だ",
+            "非常に重要だ"
+          ],
+          "rel": "≒ とても・大変",
+          "note": "「非常」 đứng một mình = khẩn cấp: 非常口 (lối thoát hiểm), 非常時."
+        },
+        {
+          "id": "g15-w77",
+          "w": "直ちに",
+          "r": "ただちに",
+          "hv": "TRỰC",
+          "pos": "副",
+          "vi": "ngay lập tức (trang trọng, chỉ thị)",
+          "key": true,
+          "ex": {
+            "ja": "{異常|いじょう}を{発見|はっけん}した{場合|ばあい}は、{直|ただ}ちに{係員|かかりいん}に{知|し}らせてください。",
+            "vi": "Nếu phát hiện điều bất thường, hãy báo ngay cho nhân viên."
+          },
+          "col": [
+            "直ちに避難する",
+            "直ちに対応する"
+          ],
+          "rel": "≒ すぐに",
+          "note": "Giọng **chỉ thị, khẩn cấp** (thông báo, luật, tin tức). Văn nói thường dùng すぐに. Đừng đọc nhầm ちょくに / なおちに."
+        }
+      ]
+    }
+  ],
+  "focus": [
+    {
+      "title": "Bắt tội phạm: 逮捕する・捕まえる・捕まる・取り押さえる",
+      "body": "- **逮捕する (たいほ)**: cảnh sát **bắt giữ theo pháp luật** — văn tin tức. 「警察は男を逮捕した」.\n- **捕まえる** (tha động từ): **ai đó bắt** người/con vật — dùng được cho cả dân thường. 「通行人が泥棒を捕まえた」「蝉を捕まえる」.\n- **捕まる** (tự động từ): **bị bắt** — 「犯人が捕まった」. Còn nghĩa \"bám vào\": 手すりに捕まる.\n- **取り押さえる**: **dùng sức khống chế** một người đang chống cự **ngay tại chỗ**. 「暴れる男を三人で取り押さえた」.\n\nThứ tự trong bản tin: 店員が犯人を**取り押さえ**、駆けつけた警察官が**逮捕**した → 犯人が**捕まった**.\n\nĐối chiếu: **取り締まる** không phải bắt một người, mà là **kiểm soát cả một loại vi phạm** (スピード違反を取り締まる)."
+    },
+    {
+      "title": "遭う・被害・災害・被災 — ai chịu gì?",
+      "body": "- **〜に遭う (あう)**: gặp phải chuyện xấu — 事故に遭う, 被害に遭う, 詐欺に遭う, ひどい目に遭う. (会う = gặp người.)\n- **災害 (さいがい)**: bản thân **thảm hoạ** (động đất, lũ…) — 災害が発生する, 災害に備える.\n- **被害 (ひがい)**: **thiệt hại** phải chịu — 被害が出る, 被害を受ける, 盗難の被害に遭う. Người chịu: **被害者** (nạn nhân nói chung) ↔ 加害者 (kẻ gây hại).\n- **被災 (ひさい)**: **bị thiên tai** — 被災する, **被災者** (nạn nhân thiên tai), **被災地** (vùng bị nạn).\n\nMẹo: chữ **被** = \"bị\" (giống tiếng Việt): 被害 = bị hại, 被災 = bị tai (hoạ). Câu: 「台風という**災害**で、多くの家が**被害**を受け、**被災者**は**被災地**の避難所に避難した」."
+    },
+    {
+      "title": "Động từ ghép 取り〜・差し〜・飛び〜",
+      "body": "- **取り締まる**: kiểm soát vi phạm (警察が違反を取り締まる). Danh từ: 取り締まり.\n- **取り押さえる**: khống chế người tại chỗ (犯人を取り押さえる).\n- **差しかかる**: vừa tới một điểm/giai đoạn (交差点に差しかかる, 試合が終盤に差しかかる).\n- **差し押さえる**: kê biên tài sản (財産を差し押さえる).\n- **飛び出す**: lao ra (道路に飛び出す, 家を飛び出す = bỏ nhà ra đi).\n- **飛び込む**: lao vào (川に飛び込む, 新しい業界に飛び込む).\n\nMẹo phân biệt hai cặp 〜押さえる: **取り**押さえる → **người** (dùng tay giữ); **差し**押さえる → **tài sản** (pháp luật giữ). Đề 語形成 hay cho 4 lựa chọn 飛び／取り／差し／引き trước cùng một phần sau."
+    },
+    {
+      "title": "Sau thảm hoạ: 避難・救済・保護・確保・復旧",
+      "body": "- **避難 (ひなん)**: người dân **lánh** đến nơi an toàn — 高台へ避難する, 避難所. ✗ 非難 (chỉ trích).\n- **救済 (きゅうさい)**: nhà nước / tổ chức **cứu trợ** người gặp khó khăn (tiền, chế độ) — 被災者を救済する.\n  ≠ **救助 (きゅうじょ)**: cứu người đang gặp nguy hiểm tính mạng (giải cứu khỏi đống đổ nát).\n- **保護 (ほご)**: **che chở, trông giữ** an toàn — 迷子を保護する, 自然保護.\n- **確保 (かくほ)**: **đảm bảo có được** thứ cần thiết — 食糧・水・避難場所・人手を確保する.\n- **復旧 (ふっきゅう)**: hạ tầng **trở lại như cũ** — 停電・鉄道・水道が復旧する.\n  ≠ **復興 (ふっこう)**: tái thiết cả vùng, đời sống (被災地の復興)."
+    },
+    {
+      "title": "Phó từ tin tức: 依然として・まさか・直ちに・非常に・そう〜ない",
+      "body": "- **依然として**: vẫn y như cũ (dù đã có nỗ lực) — 「対策を強化したが、事故は依然として減らない」. ≒ 相変わらず (văn nói). ✗ nhầm với 以前 (trước đây).\n- **まさか**: không thể tin nổi — đi với phủ định / ngạc nhiên: 「まさか彼が犯人だとは」「まさか雨は降らないだろう」.\n- **直ちに**: **ngay lập tức** — giọng chỉ thị khẩn cấp: 「直ちに避難してください」. Mạnh và trang trọng hơn すぐに.\n- **非常に**: rất (văn viết) — 「非常に危険な状態」.\n- **そう〜ない**: không … lắm ≒ それほど〜ない — 「犯人が捕まる日もそう遠くない」 (ngày bắt được thủ phạm không còn xa)."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "g15-q1",
+      "kind": "read",
+      "ref": "g15-w3",
+      "q": "{警察|けいさつ}は{事件|じけん}の{三日後|みっかご}に{犯人|はんにん}を[[u:逮捕]]した。",
+      "options": [
+        "たいぼ",
+        "たいほ",
+        "だいほ",
+        "たいほう"
+      ],
+      "answer": 1,
+      "vi": "Cảnh sát bắt giữ thủ phạm ba ngày sau vụ án.",
+      "why": "逮捕 = **たいほ** (捕 = ほ như 捕獲 ほかく). たいぼ / だいほ đục sai chỗ; たいほう thêm trường âm (là 大砲 = đại bác)."
+    },
+    {
+      "id": "g15-q2",
+      "kind": "read",
+      "ref": "g15-w19",
+      "q": "[[u:行方]]がわからなくなった{登山者|とざんしゃ}の{捜索|そうさく}が{続|つづ}いている。",
+      "options": [
+        "ゆくえ",
+        "こうほう",
+        "いきかた",
+        "ゆきさき"
+      ],
+      "answer": 0,
+      "vi": "Cuộc tìm kiếm người leo núi mất tích vẫn đang tiếp tục.",
+      "why": "行方 là cách đọc đặc biệt **ゆくえ**. こうほう là 後方 / 広報; いきかた là 行き方 (đường đi đến); ゆきさき là 行き先 (điểm đến) — từ có thật nhưng viết khác."
+    },
+    {
+      "id": "g15-q3",
+      "kind": "write",
+      "ref": "g15-w48",
+      "q": "{津波|つなみ}{警報|けいほう}が{出|で}たら、すぐに{高台|たかだい}へ[[u:ひなん]]してください。",
+      "options": [
+        "非難",
+        "避難",
+        "批難",
+        "避離"
+      ],
+      "answer": 1,
+      "vi": "Khi có cảnh báo sóng thần, hãy sơ tán ngay lên vùng đất cao.",
+      "why": "Lánh nạn → **避難** (避 = tránh, 避ける). **非難** cũng đọc ひなん nhưng nghĩa là chỉ trích — bẫy đồng âm kinh điển; 批難 là cách viết cũ của nghĩa \"chỉ trích\"; 避離 không tồn tại."
+    },
+    {
+      "id": "g15-q4",
+      "kind": "context",
+      "ref": "g15-w14",
+      "q": "{駅前|えきまえ}に{止|と}めておいた{自転車|じてんしゃ}が{盗|ぬす}まれ、{盗難|とうなん}の{被害|ひがい}に（　　）。",
+      "options": [
+        "当たった",
+        "受けた",
+        "起きた",
+        "遭った"
+      ],
+      "answer": 3,
+      "vi": "Xe đạp để ở trước ga bị lấy trộm, tôi đã gặp phải nạn trộm cắp.",
+      "why": "Cụm cố định **被害に遭う** (gặp phải thiệt hại). 受ける đi với を (被害を受ける) — ở đây có 「に」 nên sai; 当たる = trúng (くじに当たる); 起きる là tự động từ, chủ ngữ phải là 事件・事故."
+    },
+    {
+      "id": "g15-q5",
+      "kind": "context",
+      "ref": "g15-w32",
+      "q": "{車|くるま}が{急|きゅう}な{坂道|さかみち}に（　　）と、エンジンの{音|おと}が{大|おお}きくなった。",
+      "options": [
+        "取りかかる",
+        "飛びかかる",
+        "差しかかる",
+        "寄りかかる"
+      ],
+      "answer": 2,
+      "vi": "Khi xe vừa tới đoạn dốc đứng, tiếng động cơ to hẳn lên.",
+      "why": "Vừa tới một địa điểm → **差しかかる** (〜に差しかかる). 取りかかる = bắt tay vào làm việc (仕事に取りかかる); 飛びかかる = vồ lấy (con vật tấn công); 寄りかかる = dựa vào (壁に寄りかかる)."
+    },
+    {
+      "id": "g15-q6",
+      "kind": "formation",
+      "ref": "g15-w59",
+      "q": "{同|おな}じミスが{二度|にど}と{起|お}きないよう、{再発|さいはつ}（　　）のための{対策|たいさく}を{話|はな}し{合|あ}った。",
+      "options": [
+        "防止",
+        "禁止",
+        "中止",
+        "停止"
+      ],
+      "answer": 0,
+      "vi": "Chúng tôi đã bàn biện pháp ngăn ngừa tái diễn để lỗi tương tự không xảy ra lần nữa.",
+      "why": "Ngăn điều xấu xảy ra → 再発**防止**. 禁止 = cấm (một hành vi của người: 喫煙禁止); 中止 = huỷ (việc đã định); 停止 = dừng (máy, hoạt động) — không ghép với 再発."
+    },
+    {
+      "id": "g15-q7",
+      "kind": "paraphrase",
+      "ref": "g15-w77",
+      "q": "{揺|ゆ}れを{感|かん}じたら、[[u:直ちに]]{火|ひ}を{消|け}してください。",
+      "options": [
+        "ゆっくり",
+        "すぐに",
+        "必ず",
+        "静かに"
+      ],
+      "answer": 1,
+      "vi": "Khi cảm thấy rung lắc, hãy tắt lửa ngay lập tức.",
+      "why": "直ちに = **すぐに** (ngay lập tức). 必ず = nhất định (nói tính bắt buộc, không nói thời gian); ゆっくり và 静かに nói cách làm — nghĩa khác."
+    },
+    {
+      "id": "g15-q8",
+      "kind": "usage",
+      "ref": "g15-w18",
+      "q": "「{犯|おか}す」",
+      "options": [
+        "{友達|ともだち}に{借|か}りた{本|ほん}を{雨|あめ}で{犯|おか}してしまった。",
+        "{泥棒|どろぼう}が{隣|となり}の{家|いえ}に{犯|おか}して、{宝石|ほうせき}を{盗|ぬす}んだ。",
+        "{彼|かれ}は{若|わか}いころに{犯|おか}した{罪|つみ}を、{今|いま}でも{後悔|こうかい}している。",
+        "{警察|けいさつ}は{逃|に}げた{男|おとこ}を{犯|おか}して、ついに{捕|つか}まえた。"
+      ],
+      "answer": 2,
+      "vi": "(3) Anh ấy đến giờ vẫn hối hận về tội lỗi đã phạm hồi trẻ.",
+      "why": "犯す + **罪・過ち・法** → (3) đúng. (1) làm hỏng sách → 汚して／濡らして; (2) đột nhập → 侵入して; (4) đuổi theo → 追いかけて."
+    },
+    {
+      "id": "g15-q9",
+      "kind": "context",
+      "ref": "g15-w75",
+      "q": "（　　）あの{真面目|まじめ}な{彼|かれ}が{詐欺|さぎ}をしていたなんて、{今|いま}でも{信|しん}じられない。",
+      "options": [
+        "まさか",
+        "やはり",
+        "依然として",
+        "直ちに"
+      ],
+      "answer": 0,
+      "vi": "Không thể ngờ người nghiêm túc như anh ấy lại đi lừa đảo, đến giờ tôi vẫn không tin nổi.",
+      "why": "Bất ngờ, không tin nổi (〜なんて、信じられない) → **まさか**. やはり = quả nhiên (đúng như dự đoán — ngược ý); 依然として = vẫn như cũ; 直ちに = ngay lập tức."
+    },
+    {
+      "id": "g15-q10",
+      "kind": "context",
+      "ref": "g15-w74",
+      "q": "{大雨|おおあめ}から{一週間|いっしゅうかん}が{経|た}つが、{行方|ゆくえ}{不明|ふめい}の{人|ひと}は（　　）{三十人|さんじゅうにん}を{超|こ}えている。",
+      "options": [
+        "まさか",
+        "非常に",
+        "そう",
+        "依然として"
+      ],
+      "answer": 3,
+      "vi": "Đã một tuần kể từ trận mưa lớn, nhưng số người mất tích vẫn còn trên 30 người.",
+      "why": "Dù thời gian trôi qua, tình hình **vẫn chưa thay đổi** → **依然として**. まさか cần ý bất ngờ / phủ định; 非常に bổ nghĩa tính từ (非常に多い), không đi với 「三十人を超えている」 kiểu này; そう phải đi với phủ định (そう多くない)."
+    }
+  ],
+  "practice": [
+    {
+      "id": "g15-p1",
+      "kind": "read",
+      "ref": "g15-w22",
+      "q": "{犯人|はんにん}につながる[[u:証拠]]は、{何|なに}も{見|み}つからなかった。",
+      "options": [
+        "しょうご",
+        "しょうこ",
+        "しょこ",
+        "せいこ"
+      ],
+      "answer": 1,
+      "vi": "Không tìm thấy bất kỳ bằng chứng nào dẫn tới thủ phạm.",
+      "why": "証拠 = **しょうこ** (証 = しょう như 証明, 拠 = こ). しょうご là 正午 (giữa trưa); しょこ thiếu trường âm; せいこ sai âm."
+    },
+    {
+      "id": "g15-p2",
+      "kind": "read",
+      "ref": "g15-w47",
+      "q": "{火山|かざん}が[[u:噴火]]して、{周辺|しゅうへん}の{村|むら}に{灰|はい}が{降|ふ}った。",
+      "options": [
+        "ぶんか",
+        "ふんび",
+        "ほんか",
+        "ふんか"
+      ],
+      "answer": 3,
+      "vi": "Núi lửa phun trào, tro bụi rơi xuống các làng xung quanh.",
+      "why": "噴火 = **ふんか** (噴 = ふん như 噴水, 火 = か như 火山). ぶんか là 文化 — bẫy âm đục; ふんび dùng âm Kun sai; ほんか không có."
+    },
+    {
+      "id": "g15-p3",
+      "kind": "read",
+      "ref": "g15-w55",
+      "q": "{大雪|おおゆき}で{止|と}まっていた{電車|でんしゃ}が、{夕方|ゆうがた}になってようやく[[u:復旧]]した。",
+      "options": [
+        "ふくきゅう",
+        "ふっきゅう",
+        "ふうきゅう",
+        "ふっきょう"
+      ],
+      "answer": 1,
+      "vi": "Tàu bị ngừng vì tuyết lớn, đến chiều tối mới chạy lại được.",
+      "why": "復旧 = **ふっきゅう**: ふく + きゅう → く biến thành っ (giống 復活 ふっかつ). ふくきゅう chưa biến âm; ふうきゅう sai; ふっきょう sai âm 旧."
+    },
+    {
+      "id": "g15-p4",
+      "kind": "write",
+      "ref": "g15-w33",
+      "q": "{交差点|こうさてん}でトラックとバスが[[u:しょうとつ]]した。",
+      "options": [
+        "衡突",
+        "衝空",
+        "衝突",
+        "衝実"
+      ],
+      "answer": 2,
+      "vi": "Xe tải và xe buýt va chạm nhau ở ngã tư.",
+      "why": "**衝突** = 衝 (xung, đâm vào) + 突 (đột, đâm thẳng — 突然). 衡 (cân bằng, 均衡) trông giống 衝; 空 và 実 trông giống 突 nhưng sai."
+    },
+    {
+      "id": "g15-p5",
+      "kind": "write",
+      "ref": "g15-w53",
+      "q": "{避難所|ひなんじょ}では、まず{水|みず}と{食糧|しょくりょう}を[[u:かくほ]]することが{大切|たいせつ}だ。",
+      "options": [
+        "確保",
+        "確補",
+        "格保",
+        "確捕"
+      ],
+      "answer": 0,
+      "vi": "Ở nơi sơ tán, việc đầu tiên quan trọng là đảm bảo có nước và lương thực.",
+      "why": "**確保** = 確 (chắc chắn) + 保 (giữ). 補 (bổ sung) và 捕 (bắt) đồng âm ほ nhưng sai nghĩa; 格 (cách) đồng âm かく nhưng sai."
+    },
+    {
+      "id": "g15-p6",
+      "kind": "context",
+      "ref": "g15-w30",
+      "q": "{年末|ねんまつ}は{飲酒|いんしゅ}{運転|うんてん}を（　　）ため、{警察|けいさつ}があちこちで{検問|けんもん}を{行|おこな}っている。",
+      "options": [
+        "取り押さえる",
+        "取り締まる",
+        "差し押さえる",
+        "引き締める"
+      ],
+      "answer": 1,
+      "vi": "Cuối năm, để kiểm soát lái xe khi say, cảnh sát lập chốt kiểm tra khắp nơi.",
+      "why": "Kiểm soát **một loại vi phạm** → **取り締まる**. 取り押さえる = khống chế một người cụ thể; 差し押さえる = kê biên tài sản; 引き締める = thắt chặt (気を引き締める, 予算を引き締める) — không đi với 飲酒運転を."
+    },
+    {
+      "id": "g15-p7",
+      "kind": "context",
+      "ref": "g15-w38",
+      "q": "{大地震|だいじしん}に（　　）、{本棚|ほんだな}を{壁|かべ}に{固定|こてい}しておいた。",
+      "options": [
+        "備えて",
+        "構えて",
+        "整えて",
+        "揃えて"
+      ],
+      "answer": 0,
+      "vi": "Để phòng động đất lớn, tôi đã cố định giá sách vào tường.",
+      "why": "[việc có thể xảy ra] **に備える** = phòng bị. 構える = thủ thế, dựng (家を構える); 整える = sắp xếp gọn gàng; 揃える = gom cho đủ bộ — không đi với 「地震に」."
+    },
+    {
+      "id": "g15-p8",
+      "kind": "context",
+      "ref": "g15-w41",
+      "q": "{気象庁|きしょうちょう}は、{土砂崩|どしゃくず}れや{河川|かせん}のはんらんへの{警戒|けいかい}を（　　）。",
+      "options": [
+        "話しかけた",
+        "問いかけた",
+        "呼びかけた",
+        "働きかけた"
+      ],
+      "answer": 2,
+      "vi": "Cơ quan khí tượng đã kêu gọi cảnh giác với sạt lở đất và sông tràn bờ.",
+      "why": "警戒を**呼びかける** = kêu gọi (mọi người) cảnh giác. 話しかける = bắt chuyện; 問いかける = đặt câu hỏi; 働きかける = tác động, vận động (人に〜するよう働きかける) — không đi với 警戒を."
+    },
+    {
+      "id": "g15-p9",
+      "kind": "context",
+      "ref": "g15-w13",
+      "q": "{今回|こんかい}の{台風|たいふう}による（　　）は、{県内|けんない}だけで{百億円|ひゃくおくえん}を{超|こ}えた。",
+      "options": [
+        "被害",
+        "災害",
+        "被災",
+        "危害"
+      ],
+      "answer": 0,
+      "vi": "Thiệt hại do cơn bão lần này riêng trong tỉnh đã vượt quá 10 tỷ yên.",
+      "why": "Thiệt hại (tính bằng tiền) → **被害**. 災害 là bản thân thảm hoạ (台風という災害), không \"vượt 100 tỷ yên\"; 被災 = việc bị thiên tai (động từ 被災する); 危害 = sự gây hại cho người (危害を加える)."
+    },
+    {
+      "id": "g15-p10",
+      "kind": "formation",
+      "ref": "g15-w28",
+      "q": "ボールを{追|お}いかけて、{子供|こども}が{急|きゅう}に{道路|どうろ}に（　　）{出|だ}してきた。",
+      "options": [
+        "抜け",
+        "飛び",
+        "逃げ",
+        "取り"
+      ],
+      "answer": 1,
+      "vi": "Đuổi theo quả bóng, một đứa trẻ bất ngờ lao ra đường.",
+      "why": "Lao ra bất ngờ → **飛び**出す. 抜け出す = lén thoát ra (授業を抜け出す); 逃げ出す = bỏ chạy khỏi nơi nguy hiểm; 取り出す = lấy ra (đồ vật) — không hợp với 「ボールを追いかけて道路に」."
+    },
+    {
+      "id": "g15-p11",
+      "kind": "formation",
+      "ref": "g15-w70",
+      "q": "{大雨|おおあめ}のため、{山沿|やまぞ}いの{道路|どうろ}でがけ（　　）が{起|お}きた。",
+      "options": [
+        "倒れ",
+        "壊れ",
+        "割れ",
+        "崩れ"
+      ],
+      "answer": 3,
+      "vi": "Do mưa lớn, đã xảy ra lở vách núi trên con đường ven núi.",
+      "why": "Vách núi đổ sập → がけ**崩れ** (như 土砂崩れ). 倒れ (đổ ngã — cây, người), 壊れ (hỏng — máy móc), 割れ (nứt vỡ — kính, bát) không ghép với がけ."
+    },
+    {
+      "id": "g15-p12",
+      "kind": "formation",
+      "ref": "g15-w72",
+      "q": "{地震|じしん}の{後|あと}、（　　）{地|ち}には{全国|ぜんこく}からボランティアが{集|あつ}まった。",
+      "options": [
+        "災難",
+        "遭難",
+        "被災",
+        "被告"
+      ],
+      "answer": 2,
+      "vi": "Sau trận động đất, tình nguyện viên từ khắp cả nước đã đổ về vùng bị nạn.",
+      "why": "Vùng bị thiên tai → **被災**地. 災難 (tai ương nói chung) và 遭難 (gặp nạn trên núi, biển) không ghép với 地 theo nghĩa này; 被告 = bị cáo (toà án)."
+    },
+    {
+      "id": "g15-p13",
+      "kind": "paraphrase",
+      "ref": "g15-w7",
+      "q": "{男|おとこ}は{後|うし}ろから{女性|じょせい}のバッグを[[u:奪って]]{逃|に}げた。",
+      "options": [
+        "無理やり取って",
+        "拾って",
+        "こっそり借りて",
+        "落として"
+      ],
+      "answer": 0,
+      "vi": "Gã đàn ông giật túi của người phụ nữ từ phía sau rồi bỏ chạy.",
+      "why": "奪う = lấy bằng sức mạnh ≒ **無理やり取る**. 拾う = nhặt (đồ rơi); こっそり借りる = lén mượn (có ý trả lại); 落とす = đánh rơi — nghĩa khác."
+    },
+    {
+      "id": "g15-p14",
+      "kind": "usage",
+      "ref": "g15-w21",
+      "q": "「{捜査|そうさ}」",
+      "options": [
+        "{病院|びょういん}で{体|からだ}を{捜査|そうさ}してもらったが、{異常|いじょう}はなかった。",
+        "このパソコンは{捜査|そうさ}が{簡単|かんたん}で、{誰|だれ}でも{使|つか}える。",
+        "{図書館|としょかん}で{論文|ろんぶん}の{資料|しりょう}を{捜査|そうさ}した。",
+        "{警察|けいさつ}は{詐欺|さぎ}グループの{事務所|じむしょ}を{中心|ちゅうしん}に{捜査|そうさ}を{進|すす}めている。"
+      ],
+      "answer": 3,
+      "vi": "(4) Cảnh sát đang đẩy mạnh điều tra, tập trung vào văn phòng của nhóm lừa đảo.",
+      "why": "捜査 chỉ dùng cho **cảnh sát / công tố điều tra vụ án** → (4) đúng. (1) khám bệnh → 検査; (2) thao tác máy → **操作** (đồng âm そうさ); (3) tra cứu tài liệu → 調べた／検索した."
+    }
+  ],
+  "test": [
+    {
+      "id": "g15-t1",
+      "kind": "read",
+      "ref": "g15-w16",
+      "q": "{一人暮|ひとりぐ}らしの{高齢者|こうれいしゃ}をねらった[[u:詐欺]]が{増|ふ}えている。",
+      "options": [
+        "さき",
+        "ざぎ",
+        "さぎ",
+        "さくぎ"
+      ],
+      "answer": 2,
+      "vi": "Các vụ lừa đảo nhắm vào người cao tuổi sống một mình đang gia tăng.",
+      "why": "詐欺 = **さぎ** (詐 = さ, 欺 = ぎ — âm đục, như 欺く あざむく). さき thiếu đục (là 先); ざぎ đục sai chỗ; さくぎ thêm âm."
+    },
+    {
+      "id": "g15-t2",
+      "kind": "read",
+      "ref": "g15-w44",
+      "q": "{大雨|おおあめ}の{影響|えいきょう}で、{県内|けんない}の[[u:河川]]が{増水|ぞうすい}している。",
+      "options": [
+        "かわかわ",
+        "かせん",
+        "かがわ",
+        "がせん"
+      ],
+      "answer": 1,
+      "vi": "Do ảnh hưởng của mưa lớn, sông ngòi trong tỉnh đang dâng nước.",
+      "why": "河川 = **かせん** (河 = か như 運河, 川 = せん). かわかわ là đọc Kun sai; かがわ là địa danh 香川; がせん đục sai."
+    },
+    {
+      "id": "g15-t3",
+      "kind": "read",
+      "ref": "g15-w52",
+      "q": "{戦争中|せんそうちゅう}は{国中|くにじゅう}で[[u:食糧]]が{足|た}りなかったという。",
+      "options": [
+        "しょくりょ",
+        "しょくろう",
+        "しょっりょう",
+        "しょくりょう"
+      ],
+      "answer": 3,
+      "vi": "Nghe nói thời chiến cả nước đều thiếu lương thực.",
+      "why": "食糧 = **しょくりょう** (糧 = りょう, giống 料). しょくりょ thiếu trường âm; しょくろう sai âm; しょっりょう biến âm sai (chỉ có っ trước k/s/t/p)."
+    },
+    {
+      "id": "g15-t4",
+      "kind": "write",
+      "ref": "g15-w54",
+      "q": "{雷|かみなり}が{落|お}ちて[[u:ていでん]]し、{冷蔵庫|れいぞうこ}も{止|と}まってしまった。",
+      "options": [
+        "停電",
+        "亭電",
+        "定電",
+        "停雷"
+      ],
+      "answer": 0,
+      "vi": "Sét đánh gây mất điện, tủ lạnh cũng ngừng chạy.",
+      "why": "**停電** = 停 (dừng, 停止) + 電 (điện). 亭 (đình, quán) thiếu bộ 亻; 定 (định) đồng âm てい; 雷 (sấm) trông giống 電 nhưng sai."
+    },
+    {
+      "id": "g15-t5",
+      "kind": "write",
+      "ref": "g15-w6",
+      "q": "{深夜|しんや}のコンビニに[[u:ごうとう]]が{入|はい}り、{店員|てんいん}がけがをした。",
+      "options": [
+        "剛盗",
+        "強盗",
+        "強到",
+        "強逃"
+      ],
+      "answer": 1,
+      "vi": "Một tên cướp đột nhập cửa hàng tiện lợi lúc nửa đêm, nhân viên bị thương.",
+      "why": "**強盗** = 強 (cưỡng, mạnh) + 盗 (đạo, trộm — 盗む). 剛 (cương) đồng âm ごう; 到 (đến) đồng âm とう; 逃 (chạy trốn) đồng âm とう — đều sai nghĩa."
+    },
+    {
+      "id": "g15-t6",
+      "kind": "context",
+      "ref": "g15-w50",
+      "q": "{政府|せいふ}は、{大雨|おおあめ}で{家|いえ}を{失|うしな}った{人々|ひとびと}を（　　）するための{制度|せいど}を{作|つく}った。",
+      "options": [
+        "確保",
+        "復旧",
+        "救済",
+        "強化"
+      ],
+      "answer": 2,
+      "vi": "Chính phủ đã lập chế độ để cứu trợ những người mất nhà do mưa lớn.",
+      "why": "Giúp **người** gặp khó khăn bằng chính sách → **救済**. 確保 đối tượng là vật cần có (食糧・場所); 復旧 là hạ tầng trở lại như cũ; 強化 = tăng cường — không dùng với 「人々を」."
+    },
+    {
+      "id": "g15-t7",
+      "kind": "context",
+      "ref": "g15-w26",
+      "q": "{当店|とうてん}では、{防犯|ぼうはん}カメラを{増|ふ}やすなどして{万引|まんび}き{防止|ぼうし}に（　　）おります。",
+      "options": [
+        "備えて",
+        "頼って",
+        "応じて",
+        "努めて"
+      ],
+      "answer": 3,
+      "vi": "Cửa hàng chúng tôi đang nỗ lực phòng chống trộm đồ, chẳng hạn như tăng thêm camera an ninh.",
+      "why": "Cụm cố định **〜防止に努める** (nỗ lực ngăn chặn). 備える = phòng bị cho điều có thể xảy ra (防止に備える không tự nhiên); 頼る = dựa vào; 応じる = đáp ứng (要望に応じる) — đều không đi với 「防止に」."
+    },
+    {
+      "id": "g15-t8",
+      "kind": "context",
+      "ref": "g15-w37",
+      "q": "{山|やま}の{中|なか}で{火災|かさい}が（　　）し、{消防車|しょうぼうしゃ}が{何台|なんだい}も{出動|しゅつどう}した。",
+      "options": [
+        "発生",
+        "発達",
+        "発見",
+        "発展"
+      ],
+      "answer": 0,
+      "vi": "Một đám cháy đã xảy ra trên núi, rất nhiều xe cứu hoả được điều động.",
+      "why": "Sự cố **xảy ra** → **発生**する. 発達 = phát triển (cơ thể, công nghệ, áp thấp: 台風が発達する); 発見 = phát hiện (cần chủ thể người, 〜を発見する); 発展 = phát triển (kinh tế, đô thị)."
+    },
+    {
+      "id": "g15-t9",
+      "kind": "paraphrase",
+      "ref": "g15-w73",
+      "q": "{駅|えき}から{会場|かいじょう}までは[[u:そう遠くない]]ので、{歩|ある}いて{行|い}きましょう。",
+      "options": [
+        "全然遠くない",
+        "それほど遠くない",
+        "とても遠い",
+        "かなり遠い"
+      ],
+      "answer": 1,
+      "vi": "Từ ga đến hội trường không xa lắm, chúng ta đi bộ thôi.",
+      "why": "そう〜ない = không … lắm ≒ **それほど〜ない**. 全然遠くない = hoàn toàn không xa (mạnh hơn, khác sắc thái); とても遠い / かなり遠い là nghĩa ngược."
+    },
+    {
+      "id": "g15-t10",
+      "kind": "usage",
+      "ref": "g15-w53",
+      "q": "「{確保|かくほ}」",
+      "options": [
+        "{人気|にんき}の{花火|はなび}{大会|たいかい}なので、{朝早|あさはや}くから{並|なら}んで{場所|ばしょ}を{確保|かくほ}した。",
+        "{書類|しょるい}に{間違|まちが}いがないか、もう{一度|いちど}{確保|かくほ}してください。",
+        "{医者|いしゃ}の{努力|どりょく}で、{患者|かんじゃ}の{命|いのち}は{確保|かくほ}された。",
+        "{彼女|かのじょ}は{試験|しけん}に{確保|かくほ}するために、{毎日|まいにち}{勉強|べんきょう}している。"
+      ],
+      "answer": 0,
+      "vi": "(1) Vì là lễ hội pháo hoa nổi tiếng nên tôi xếp hàng từ sáng sớm để giữ chỗ.",
+      "why": "確保 = **đảm bảo có được** chỗ / vật / thời gian → (1) đúng. (2) kiểm tra lại → 確認; (3) giữ được tính mạng → 命は救われた／助かった; (4) đỗ kỳ thi → 合格する."
+    },
+    {
+      "id": "g15-t11",
+      "kind": "context",
+      "ref": "g15-w77",
+      "q": "{津波|つなみ}{警報|けいほう}が{発表|はっぴょう}されました。{海岸|かいがん}{付近|ふきん}の{方|かた}は（　　）{高|たか}い{場所|ばしょ}へ{避難|ひなん}してください。",
+      "options": [
+        "まさか",
+        "依然として",
+        "直ちに",
+        "そう"
+      ],
+      "answer": 2,
+      "vi": "Cảnh báo sóng thần đã được ban bố. Người dân gần bờ biển hãy lập tức sơ tán lên chỗ cao.",
+      "why": "Chỉ thị khẩn cấp → **直ちに** (ngay lập tức). まさか cần ý bất ngờ / phủ định; 依然として = vẫn như cũ; そう phải đi với phủ định (そう〜ない)."
+    },
+    {
+      "id": "g15-t12",
+      "kind": "formation",
+      "ref": "g15-w65",
+      "q": "{店員|てんいん}が、{逃|に}げようとした{万引|まんび}きの{男|おとこ}をその{場|ば}で（　　）{押|お}さえた。",
+      "options": [
+        "差し",
+        "引き",
+        "飛び",
+        "取り"
+      ],
+      "answer": 3,
+      "vi": "Nhân viên cửa hàng đã khống chế ngay tại chỗ gã trộm đồ đang định bỏ chạy.",
+      "why": "Khống chế một **người** tại chỗ → **取り**押さえる. 差し押さえる = kê biên **tài sản** (pháp luật); 「引き押さえる」「飛び押さえる」 không tồn tại."
+    }
+  ]
+}

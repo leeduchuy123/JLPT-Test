@@ -1,0 +1,838 @@
+{
+  "id": "b26",
+  "track": "bunpo",
+  "intro": "Bài này là các cách nói **mong ước** và **cảm thán** — câu chở theo cảm xúc của người nói chứ không chỉ thông tin.\n\n- **Mong ước**: 〜たいものだ・〜てほしいものだ (ước nguyện tha thiết), 〜ないもの(だろう)か (mong một việc khó: “có cách nào… không nhỉ”).\n- **Cảm thán**: 〜ものだ (hoài niệm / cảm khái), 〜ものがある (có cái gì đó thật…), 〜ことだ (thật là…!), 〜ことだろう・〜ことか (… biết bao!).\n\n**Cảnh báo quan trọng**: 「ものだ」 và 「ことだ」 xuất hiện ở nhiều bài với nghĩa khác nhau. Bảng phân biệt:\n- **23課 ものだ** – bản chất, chân lý chung: 「{人|ひと}は{見|み}かけによらないものだ」 (con người không thể đánh giá qua vẻ ngoài).\n- **24課 ものだ／ものではない** – lời khuyên theo lẽ thường: 「{借|か}りた{物|もの}はすぐ{返|かえ}すものだ」 (đồ mượn thì phải trả ngay).\n- **26課 ものだ (bài này)** – (A) **Vた＋ものだ**: hồi tưởng thói quen xưa; (B) **cảm thán**: 「よくやったものだ」.\n- **24課 ことだ** – lời khuyên: **V辞書形／Vない＋ことだ** 「{早|はや}く{寝|ね}ることだ」.\n- **26課 ことだ (bài này)** – cảm thán: **tính từ＋ことだ** 「ありがたいことだ」.\n\nMẹo phân biệt nhanh: nhìn **từ đứng trước** và **ngữ cảnh** — Vた + よく / 昔は → hồi tưởng; tính từ cảm xúc + ことだ → cảm thán; V辞書形 + ことだ / ものだ mang ý “nên” → lời khuyên.",
+  "points": [
+    {
+      "id": "b26-1",
+      "pattern": "〜たいものだ・〜てほしいものだ",
+      "reading": "〜たいものだ・〜てほしいものだ",
+      "meaning": "Thật mong được… / Mong sao (ai đó, điều gì đó)… (ước muốn tha thiết, cảm khái)",
+      "structure": [
+        "Vます形 ＋ たいものだ",
+        "Vて形／Vないで ＋ ほしいものだ",
+        "Văn nói: 〜たいものです・〜たいもんだ(なあ)"
+      ],
+      "explain": "Thêm 「ものだ」 vào sau 「たい／てほしい」 làm ước muốn trở nên **sâu sắc, tha thiết, mang chút suy tư**. Không phải kiểu “muốn uống nước” mà là “ước gì một lần trong đời được…”.\n\nHai trường hợp hay dùng:\n- **Ước nguyện từ đáy lòng** — thường là việc lớn, lâu dài, khó: 「いつか{自分|じぶん}の{店|みせ}を{持|も}ちたいものだ」 (mong một ngày có cửa hàng riêng).\n- **Mong muốn chung về xã hội / người khác**, giọng “giá mà…”: 「{若者|わかもの}にはもっと{本|ほん}を{読|よ}んでほしいものだ」 — thường ngầm **phàn nàn nhẹ** về hiện trạng.\n\nPhân vai rõ ràng:\n- **たいものだ**: người muốn làm là **chính người nói**.\n- **てほしいものだ**: người nói mong **người khác / sự vật** (thời tiết, xã hội…) làm hoặc trở nên như thế.",
+      "nuance": "- **Không dùng để nhờ trực tiếp** người trước mặt làm một việc cụ thể: ✗ 「ちょっとペンを{貸|か}してほしいものです」 → nghe như đang mỉa. Muốn nhờ thì 〜てくれませんか／〜ていただけませんか.\n- Cũng **không dùng cho mong muốn cụ thể, trước mắt** (món ăn đang bày trước mặt, việc định làm ngay hôm nay): ✗ 「{今夜|こんや}はカレーが{食|た}べたいものだ」 → ○ 「今夜はカレーが食べたいなあ」. たいものだ dành cho ước nguyện từ đáy lòng hoặc mong muốn mang tính chung.\n- Giọng hơi già dặn, cảm khái; hay đi với ぜひ, {一度|いちど}(は), いつか, もっと, {早|はや}く, {何|なん}とか và đuôi 〜なあ.\n- Thường ở cuối câu dạng ものだ／ものです／もんだ, không dùng thể quá khứ.",
+      "examples": [
+        {
+          "ja": "{生|い}きているうちに、{一度|いちど}は{宇宙|うちゅう}から{地球|ちきゅう}を{眺|なが}めてみたいものだ。",
+          "vi": "Khi còn sống, tôi mong ít nhất một lần được ngắm Trái Đất từ vũ trụ.",
+          "note": "Ước nguyện lớn của người nói"
+        },
+        {
+          "ja": "{毎日|まいにち}{寒|さむ}い{日|ひ}が{続|つづ}いている。{早|はや}く{暖|あたた}かくなってほしいものだ。",
+          "vi": "Ngày nào cũng lạnh. Mong sao trời sớm ấm lên.",
+          "note": "Mong sự vật / thời tiết → てほしい"
+        },
+        {
+          "ja": "{定年|ていねん}{後|ご}は、{夫婦|ふうふ}でゆっくり{世界|せかい}を{旅|たび}したいものです。",
+          "vi": "Sau khi nghỉ hưu, vợ chồng tôi mong được thong thả đi du lịch khắp thế giới.",
+          "note": "Lịch sự: 〜たいものです"
+        },
+        {
+          "ja": "{電車|でんしゃ}の{中|なか}では、もう{少|すこ}しマナーを{守|まも}ってほしいものだ。",
+          "vi": "Trên tàu, mong mọi người giữ phép lịch sự hơn một chút.",
+          "note": "Mong chung, ngầm phàn nàn"
+        },
+        {
+          "ja": "{大切|たいせつ}な{伝統|でんとう}だからこそ、{次|つぎ}の{世代|せだい}にも{受|う}け{継|つ}いでいってほしいものだ。",
+          "vi": "Chính vì là truyền thống quý giá nên mong rằng thế hệ sau cũng sẽ tiếp nối.",
+          "note": ""
+        },
+        {
+          "ja": "{同|おな}じ{失敗|しっぱい}だけは、{二度|にど}と{繰|く}り{返|かえ}さないでほしいものだ。",
+          "vi": "Mong sao đừng bao giờ lặp lại thất bại như thế nữa.",
+          "note": "Vないで ＋ ほしいものだ"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜たい／〜てほしい (thường)",
+          "diff": "Dạng thường chỉ nêu mong muốn, dùng được để nhờ trực tiếp (「{窓|まど}を{開|あ}けてほしいんだけど」). Thêm ものだ → ước muốn tha thiết, mang tính cảm khái, chung chung; không dùng để nhờ."
+        },
+        {
+          "with": "〜ないもの(だろう)か (26課-3)",
+          "diff": "Cũng là mong ước, nhưng cho việc **khó thực hiện**, người nói đang bế tắc, giọng “có cách nào… không nhỉ”."
+        }
+      ],
+      "mistakes": [
+        "✗ {課長|かちょう}、この{書類|しょるい}に{目|め}を{通|とお}してほしいものです。→ nhờ trực tiếp → ○ 目を通していただけませんか",
+        "✗ {私|わたし}は{来年|らいねん}{留学|りゅうがく}してほしいものだ。→ chủ thể là mình → ○ 留学したいものだ",
+        "✗ {食|た}べるたいものだ → ○ 食べたいものだ (Vます形 ＋ たい)"
+      ],
+      "tip": "Cuối câu nói về ước nguyện, có ぜひ／一度は／いつか／もっと → たいものだ (mình làm) hoặc てほしいものだ (người khác / sự vật). Kiểm tra **chủ thể** để chọn đúng một trong hai."
+    },
+    {
+      "id": "b26-2",
+      "pattern": "〜ものだ",
+      "reading": "〜ものだ",
+      "meaning": "(A) Hồi đó hay… lắm (hoài niệm) · (B) Thật là…! (cảm thán, thán phục, ngán ngẩm)",
+      "structure": [
+        "(A) Vた形 ＋ ものだ",
+        "(B) V／い形 普通形 ＋ ものだ",
+        "(B) な形 −な ＋ ものだ",
+        "Văn nói: 〜もんだ"
+      ],
+      "explain": "Bài này dạy **hai** nghĩa của ものだ — cả hai đều chở **cảm xúc** của người nói (khác ものだ của 23課 và 24課, xem phần so sánh).\n\n**A. Hồi tưởng thói quen trong quá khứ** — “hồi đó hay… lắm (giờ nhớ ghê)”.\n- Cấu trúc: **Vた ＋ ものだ**.\n- Hay đi với: よく, {毎日|まいにち}のように, 〜ころは, 〜ときは, {昔|むかし}は.\n- Việc phải **lặp đi lặp lại** nhiều lần (thói quen), **không** phải sự kiện chỉ xảy ra một lần.\n- Hay kết hợp 「〜たものだが、{今|いま}は…」 để so sánh với hiện tại.\n\n**B. Cảm thán mạnh** — người nói cảm nhận sâu sắc một sự thật: thán phục, ngạc nhiên, cảm khái, hoặc ngán ngẩm.\n- Hay đi với: よく(も), ずいぶん, {本当|ほんとう}に, なんと, 〜ものだなあ.\n- 「**よく〜たものだ**」 = “thế mà cũng… được (giỏi ghê / liều ghê)”: 「よく{一人|ひとり}でここまで{来|き}たものだ」.\n- Cảm khái kiểu “đúng là… thật”: 「{子|こ}どもの{成長|せいちょう}は{早|はや}いものだ」, 「{大|おお}きくなったものだね」 (nói khi gặp lại đứa trẻ sau nhiều năm).\n\nChú ý chữ **よく**: ở nghĩa A là “thường, hay” (よく{遊|あそ}んだものだ = hồi đó hay chơi), ở nghĩa B là “giỏi thật, thế mà cũng” (よく{合格|ごうかく}したものだ = thế mà cũng đỗ được). Ngữ cảnh quyết định.",
+      "nuance": "- Nghĩa A: chỉ cho việc **lặp lại** (✗ {去年|きょねん}{一度|いちど}{京都|きょうと}に{行|い}ったものだ). Chủ thể thường là người nói hoặc người trong hồi ức của người nói.\n- Nghĩa B: **không dùng cho hành động có ý chí của chính người nói** (✗ {明日|あした}は{早|はや}く{起|お}きるものだ — nếu muốn nói kế hoạch). Thường đi với từ đánh giá chủ quan và trạng từ よく・ずいぶん・本当に.\n- Văn nói: 〜もんだ, 〜もんですね.",
+      "examples": [
+        {
+          "ja": "{学生|がくせい}のころは、{試験|しけん}の{前|まえ}になると{友達|ともだち}の{家|いえ}に{集|あつ}まって{徹夜|てつや}したものだ。",
+          "vi": "Hồi sinh viên, cứ trước kỳ thi là tụi tôi lại tụ tập nhà bạn thức trắng đêm.",
+          "note": "(A) Vた ＋ ものだ · thói quen lặp lại"
+        },
+        {
+          "ja": "{昔|むかし}は{家族|かぞく}みんなでテレビの{前|まえ}に{集|あつ}まって{歌番組|うたばんぐみ}を{見|み}たものだが、{今|いま}はそれぞれスマホを{見|み}ている。",
+          "vi": "Ngày xưa cả nhà hay quây quần trước tivi xem chương trình ca nhạc, còn giờ mỗi người một cái điện thoại.",
+          "note": "(A) 〜たものだが、今は…"
+        },
+        {
+          "ja": "{祖父|そふ}は{若|わか}いころ、{毎朝|まいあさ}{五時|ごじ}に{起|お}きて{畑|はたけ}に{出|で}たものだと{言|い}っている。",
+          "vi": "Ông tôi kể hồi trẻ sáng nào cũng dậy lúc năm giờ ra đồng.",
+          "note": "(A) hồi tưởng của người khác, kể lại bằng と言っている"
+        },
+        {
+          "ja": "{十年|じゅうねん}ぶりに{会|あ}った{姪|めい}は、すっかり{大人|おとな}になっていた。{子|こ}どもの{成長|せいちょう}は{早|はや}いものだ。",
+          "vi": "Đứa cháu gái mười năm mới gặp lại đã thành người lớn hẳn. Trẻ con lớn nhanh thật.",
+          "note": "(B) cảm khái"
+        },
+        {
+          "ja": "あんなに{難|むずか}しい{試験|しけん}に、よく{一回|いっかい}で{合格|ごうかく}したものだ。",
+          "vi": "Kỳ thi khó thế mà cũng đỗ ngay lần đầu, giỏi thật.",
+          "note": "(B) よく〜たものだ = thán phục"
+        },
+        {
+          "ja": "{他人|たにん}の{傘|かさ}を{黙|だま}って{持|も}っていくなんて、ひどい{人|ひと}もいるものだ。",
+          "vi": "Lẳng lặng cầm ô của người khác đi, đúng là cũng có người tệ thật.",
+          "note": "(B) ngán ngẩm"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜ものだ (23課: bản chất)",
+          "diff": "「{人間|にんげん}は{一人|ひとり}では{生|い}きられないものだ」: nói về **bản chất chung** (con người, trẻ con, thời gian…), V辞書形, không có cảm xúc cá nhân. Bài này (A) là Vた và **kỷ niệm riêng**."
+        },
+        {
+          "with": "〜ものだ／〜ものではない (24課: lời khuyên)",
+          "diff": "「{目上|めうえ}の{人|ひと}には{敬語|けいご}を{使|つか}うものだ」 = “nên / phải” theo lẽ thường, V辞書形, hướng tới người nghe. Bài này không khuyên ai cả."
+        },
+        {
+          "with": "〜たことがある",
+          "diff": "「行ったことがある」 = kinh nghiệm (một lần là đủ). 「よく行ったものだ」 = thói quen xưa, kèm hoài niệm."
+        }
+      ],
+      "mistakes": [
+        "✗ {先月|せんげつ}、{一度|いちど}だけ{富士山|ふじさん}に{登|のぼ}ったものだ。→ việc một lần ○ 登ったことがある／登った",
+        "✗ {来年|らいねん}こそ{日本|にほん}へ{行|い}くものだ。(nói kế hoạch của mình) → ○ 行きたいものだ／行くつもりだ",
+        "Hiểu nhầm よく: 「よく{合格|ごうかく}したものだ」 không phải “thường đỗ”, mà là “thế mà cũng đỗ được, giỏi thật”."
+      ],
+      "tip": "Vた ＋ ものだ đi với よく／〜ころは／昔は và một việc lặp lại → nghĩa A (hoài niệm). Tính từ đánh giá, よく〜たものだ khen ngợi, ずいぶん／本当に → nghĩa B. Câu nói “con người / trẻ con thì…” (chân lý) → 23課; câu “nên / phải” → 24課."
+    },
+    {
+      "id": "b26-3",
+      "pattern": "〜ないもの(だろう)か",
+      "reading": "〜ないもの(だろう)か",
+      "meaning": "Không có cách nào để… sao? / Giá mà bằng cách nào đó… (mong một việc khó thành hiện thực)",
+      "structure": [
+        "Vない形 ＋ もの(だろう)か",
+        "Động từ: dạng khả năng (できる・会える・行ける…) hoặc động từ không ý chí (治る・やむ・見つかる・〜くなる…)",
+        "Đi kèm: 何とか・どうにか・どうにかして・もう少し",
+        "Biến thể: 〜ないものかな(あ)・〜ないものでしょうか"
+      ],
+      "explain": "Hình thức là câu hỏi người nói tự đặt ra: “Không thể… được sao nhỉ?”, nhưng thực chất là **ước mong tha thiết** rằng điều đó xảy ra — dù biết là **khó**.\n\nHình ảnh: một người bế tắc, nhìn trời thở dài “có cách nào… không đây”. 「{何|なん}とかしてこの{渋滞|じゅうたい}が{解消|かいしょう}しないものか」 = Giá mà có cách nào cho cái nạn tắc đường này hết đi.\n\nVì đây là mong một điều **mình không tự quyết được**, động từ đứng trước phải là:\n- **dạng khả năng**: 〜できない, 〜られない, {会|あ}えない, {行|い}けない…\n- hoặc **động từ không ý chí**: {治|なお}らない, やまない, {見|み}つからない, {安|やす}くならない…\nNếu dùng động từ ý chí thường (行かない, やらない), câu thành “chẳng lẽ (ai đó) không đi sao” — sai nghĩa.\n\nCách dùng phụ: **đề nghị / nhờ khéo** trong đàm phán: 「もう{少|すこ}し{安|やす}くならないものでしょうか」 (có thể bớt thêm chút được không ạ).",
+      "nuance": "- Giọng than thở, tha thiết; thường là tự nói một mình hoặc tâm sự. ものだろうか／ものでしょうか mềm và lịch sự hơn ものか.\n- **Phân biệt với 〜ものか (24課)**: V辞書形 ＋ ものか = “đời nào lại…!” (phủ định mạnh): 「あんな{店|みせ}、{二度|にど}と{行|い}くものか」. Có **ない** → mong ước; không có ない → phủ định mạnh.",
+      "examples": [
+        {
+          "ja": "この{長|なが}い{会議|かいぎ}、もう{少|すこ}し{短|みじか}くならないものか。",
+          "vi": "Cái cuộc họp dài lê thê này, giá mà ngắn bớt đi một chút.",
+          "note": "Động từ không ý chí: 短くなる"
+        },
+        {
+          "ja": "{何|なん}とかして、{明日|あした}までに{消|き}えたデータを{復元|ふくげん}できないものだろうか。",
+          "vi": "Có cách nào khôi phục được dữ liệu bị mất trước ngày mai không nhỉ.",
+          "note": "Dạng khả năng: 復元できる"
+        },
+        {
+          "ja": "{一度|いちど}でいいから、{憧|あこが}れの{選手|せんしゅ}に{会|あ}えないものかなあ。",
+          "vi": "Chỉ một lần thôi cũng được, giá mà được gặp cầu thủ mình hằng ngưỡng mộ.",
+          "note": "〜ないものかなあ: văn nói"
+        },
+        {
+          "ja": "{家賃|やちん}をもう{少|すこ}し{安|やす}くしていただけないものでしょうか。",
+          "vi": "Không biết có thể giảm tiền thuê nhà thêm một chút được không ạ.",
+          "note": "Đề nghị khéo trong đàm phán"
+        },
+        {
+          "ja": "{世界|せかい}から{争|あらそ}いがなくならないものだろうか。",
+          "vi": "Giá mà trên thế giới không còn chiến tranh xung đột.",
+          "note": "Mong ước lớn, khó thành"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜ものか (24課)",
+          "diff": "「{行|い}くものか」 = đời nào tôi đi! (phủ định mạnh). 「{行|い}けないものか」 = có cách nào đi được không nhỉ (mong ước). Khác nhau ở ない và ở dạng khả năng."
+        },
+        {
+          "with": "〜たいものだ (26課-1)",
+          "diff": "たいものだ: ước muốn tha thiết nói chung. ないものか: việc **khó**, người nói đang **tìm cách**, bế tắc."
+        }
+      ],
+      "mistakes": [
+        "✗ {何|なん}とかして{試験|しけん}に{合格|ごうかく}しないものか。→ ○ 合格できないものか (dạng khả năng)",
+        "✗ {何|なん}とか{雨|あめ}がやむものか。(= đời nào mưa tạnh!) → ○ 雨がやまないものか"
+      ],
+      "tip": "Chỗ trống sau 「何とか／どうにか」 + mong một việc khó → 〜ないもの(だろう)か; kiểm tra động từ trước nó phải là dạng khả năng hoặc không ý chí. Nếu không có ない → đó là ものか phủ định của 24課."
+    },
+    {
+      "id": "b26-4",
+      "pattern": "〜ものがある",
+      "reading": "〜ものがある",
+      "meaning": "Có cái gì đó thật…, quả là có phần… (cảm nhận của người nói)",
+      "structure": [
+        "V辞書形／Vない形 ＋ ものがある",
+        "い形 ＋ ものがある",
+        "な形 −な ＋ ものがある",
+        "(phần đứng trước ở thì hiện tại; quá khứ thì đổi đuôi: 〜ものがあった)"
+      ],
+      "explain": "Nghĩa đen: “có một thứ gì đó …”. Người nói **cảm nhận** ở sự việc một tính chất nào đó, nhưng diễn đạt **gián tiếp, chừng mực** thay vì khẳng định thẳng.\n\nSo sánh: 「つらい」 = khổ. 「つらいものがある」 = quả thật cũng có phần khổ đấy — nghe chín chắn, kiềm chế hơn.\n\nHai hướng thường gặp:\n- **Đánh giá cao**: 「{光|ひか}るものがある」 (có tố chất nổi bật), 「{見|み}るべきものがある」 (có điểm đáng xem), 「{人|ひと}を{引|ひ}きつけるものがある」, 「{胸|むね}を{打|う}つものがある」.\n- **Cảm thấy nặng nề**: 「つらいものがある」, 「{寂|さび}しいものがある」, 「{納得|なっとく}しがたいものがある」, 「きついものがある」.\n\nCâu hay có dạng: **[đối tượng] には ＋ 〜ものがある** (ở trong… có cái gì đó…).",
+      "nuance": "- Dùng để nói **cảm tưởng** về sự vật, hoàn cảnh, năng lực của ai đó. Không dùng cho sự thật khách quan đo đếm được (✗ {東京|とうきょう}の{人口|じんこう}は{多|おお}いものがある).\n- Văn phong chững chạc, gặp nhiều trong bình luận, phê bình, phát biểu.\n- Đừng nhầm với nghĩa đen 「{食|た}べるものがある」 = có đồ ăn.",
+      "examples": [
+        {
+          "ja": "{長年|ながねん}{一緒|いっしょ}に{働|はたら}いてきた{同僚|どうりょう}が{辞|や}めていくのは、{寂|さび}しいものがある。",
+          "vi": "Đồng nghiệp gắn bó bao năm nghỉ việc, quả thật cũng có phần buồn.",
+          "note": "い形 ＋ ものがある"
+        },
+        {
+          "ja": "{新人|しんじん}とはいえ、{彼女|かのじょ}の{企画|きかく}には{光|ひか}るものがある。",
+          "vi": "Tuy là người mới nhưng bản kế hoạch của cô ấy có điểm sáng nổi bật.",
+          "note": "光るものがある = có tố chất"
+        },
+        {
+          "ja": "{被災地|ひさいち}の{今|いま}を{伝|つた}える{写真|しゃしん}には、{胸|むね}に{迫|せま}るものがある。",
+          "vi": "Những bức ảnh ghi lại vùng thiên tai hiện nay có sức lay động lòng người.",
+          "note": "〜には ＋ ものがある"
+        },
+        {
+          "ja": "この{年|とし}になって{毎日|まいにち}{階段|かいだん}で{五階|ごかい}まで{上|のぼ}るのは、さすがにきついものがある。",
+          "vi": "Đến tuổi này mà ngày nào cũng leo bộ lên tầng năm thì quả thật cũng hơi đuối.",
+          "note": "Cảm nhận chủ quan"
+        },
+        {
+          "ja": "{二十年|にじゅうねん}{前|まえ}の{映画|えいが}だが、その{映像|えいぞう}の{美|うつく}しさには{今|いま}{見|み}ても{驚|おどろ}くべきものがある。",
+          "vi": "Là phim từ hai mươi năm trước, nhưng vẻ đẹp hình ảnh đến giờ xem vẫn thấy đáng kinh ngạc.",
+          "note": "〜べきものがある"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜ものだ (26課-2 nghĩa B)",
+          "diff": "「{寂|さび}しいものだ」 = (nói chung) đúng là buồn thật — cảm khái mang tính khái quát. 「寂しいものがある」 = (trong việc cụ thể này) có phần buồn — kiềm chế, gắn với một đối tượng cụ thể."
+        },
+        {
+          "with": "Nghĩa đen 〜ものがある",
+          "diff": "「{冷蔵庫|れいぞうこ}に{食|た}べるものがある」 = có đồ ăn (もの = đồ vật). Mẫu ngữ pháp thì もの là “cái gì đó” trừu tượng, đi với từ cảm nhận."
+        }
+      ],
+      "mistakes": [
+        "✗ {彼|かれ}の{演技|えんぎ}には{感動的|かんどうてき}ものがある。→ ○ 感動的なものがある (な形 cần な)",
+        "✗ {東京|とうきょう}の{人口|じんこう}は{多|おお}いものがある。→ sự thật khách quan, nói thẳng ○ 東京の人口は多い"
+      ],
+      "tip": "Câu nêu cảm tưởng về một tác phẩm / năng lực / hoàn cảnh, có dạng 「〜には（　　）」 và trước chỗ trống là từ cảm nhận (つらい・光る・胸を打つ・人を引きつける) → ものがある."
+    },
+    {
+      "id": "b26-5",
+      "pattern": "〜ことだ",
+      "reading": "〜ことだ",
+      "meaning": "Thật là…! (ngạc nhiên, cảm động, vui, tiếc, hoặc mỉa mai về một sự việc)",
+      "structure": [
+        "い形 ＋ ことだ",
+        "な形 −な ＋ ことだ",
+        "Vた形 ＋ ことだ (động từ mang tính tính từ: 困った・驚いた・ばかげた)",
+        "Đi kèm: なんと・本当に・まったく"
+      ],
+      "explain": "Gắn 「ことだ」 sau một **tính từ đánh giá** để thốt lên cảm xúc về **một sự việc cụ thể** vừa thấy / vừa kể: “thật là… biết bao!”.\n\nCảm xúc có thể là:\n- **Vui, biết ơn**: ありがたいことだ, めでたいことだ, {結構|けっこう}なことだ.\n- **Ngạc nhiên, thán phục**: すごいことだ, {驚|おどろ}いたことだ.\n- **Buồn, tiếc, phiền**: {残念|ざんねん}なことだ, {悲|かな}しいことだ, {困|こま}ったことだ, {情|なさ}けないことだ.\n- **Mỉa mai**: 「{仕事|しごと}もしないで{遊|あそ}んでばかり。{気楽|きらく}なことだ」 (sướng nhỉ — thực ra là chê). 「結構なことだ」 cũng hay dùng để mỉa.\n\n**Phân biệt với ことだ của 24課 (lời khuyên)**:\n- 24課: **V辞書形／Vない形** ＋ ことだ = “tốt nhất là nên…”: 「{合格|ごうかく}したければ{毎日|まいにち}{勉強|べんきょう}することだ」.\n- 26課: **tính từ** ＋ ことだ = cảm thán: 「{毎日|まいにち}{勉強|べんきょう}するとは、{偉|えら}いことだ」.\nChỉ cần nhìn **từ loại đứng trước**.",
+      "nuance": "- Biểu lộ cảm xúc chủ quan của người nói, thường là lời bình ở **cuối** đoạn kể. Hơi cứng, người lớn tuổi hay dùng.\n- Họ hàng với N3 「〜ことに」 (đứng đầu câu): 「{残念|ざんねん}なことに、{試合|しあい}は{中止|ちゅうし}になった」 = Đáng tiếc là trận đấu bị huỷ. ことに đứng trước sự việc, ことだ đứng sau để bình.",
+      "examples": [
+        {
+          "ja": "{両親|りょうしん}とも{八十|はちじゅう}を{過|す}ぎたが、まだ{元気|げんき}に{暮|く}らしている。ありがたいことだ。",
+          "vi": "Bố mẹ tôi đều đã ngoài tám mươi mà vẫn sống khoẻ mạnh. Thật đáng biết ơn.",
+          "note": "い形 ＋ ことだ · biết ơn"
+        },
+        {
+          "ja": "{子|こ}どもへの{虐待|ぎゃくたい}のニュースが{後|あと}を{絶|た}たない。{本当|ほんとう}に{悲|かな}しいことだ。",
+          "vi": "Tin tức bạo hành trẻ em cứ không dứt. Thật đau lòng.",
+          "note": "本当に〜ことだ"
+        },
+        {
+          "ja": "{大事|だいじ}な{書類|しょるい}が{見|み}つからないうえに、{担当者|たんとうしゃ}は{今日|きょう}{休|やす}みだ。{困|こま}ったことだ。",
+          "vi": "Đã không tìm thấy tài liệu quan trọng mà người phụ trách hôm nay lại nghỉ. Thật là phiền.",
+          "note": "Vた (困った) ＋ ことだ"
+        },
+        {
+          "ja": "{部長|ぶちょう}は{仕事|しごと}を{全部|ぜんぶ}{部下|ぶか}に{任|まか}せて、{毎日|まいにち}ゴルフの{話|はなし}ばかり。{結構|けっこう}なことだ。",
+          "vi": "Trưởng phòng giao hết việc cho cấp dưới, ngày nào cũng chỉ nói chuyện golf. Sướng nhỉ.",
+          "note": "Mỉa mai"
+        },
+        {
+          "ja": "{結婚|けっこん}{五十|ごじゅう}{周年|しゅうねん}を{家族|かぞく}そろって{祝|いわ}えるとは、めでたいことだ。",
+          "vi": "Cả nhà quây quần mừng kỷ niệm 50 năm ngày cưới, thật là đáng mừng.",
+          "note": "めでたいことだ"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜ことだ (24課: lời khuyên)",
+          "diff": "V辞書形／Vない ＋ ことだ = “nên…” (「{早|はや}く{寝|ね}ることだ」). Tính từ ＋ ことだ = cảm thán. Cùng chữ, khác hẳn nghĩa."
+        },
+        {
+          "with": "〜ものだ (26課-2 nghĩa B)",
+          "diff": "Cả hai đều cảm thán. ことだ: bình về **một sự việc cụ thể** vừa nói tới (ありがたいことだ). ものだ: cảm khái **sâu, mang tính khái quát** (「{時|とき}が{経|た}つのは{早|はや}いものだ」), hoặc よく〜たものだ."
+        },
+        {
+          "with": "〜ことに (N3)",
+          "diff": "「{驚|おどろ}いたことに」 đứng **đầu** câu, báo trước cảm xúc; 「〜ことだ」 đứng **cuối**, bình sau khi kể."
+        }
+      ],
+      "mistakes": [
+        "✗ {残念|ざんねん}ことだ → ○ 残念なことだ (な形 cần な)",
+        "Hiểu nhầm: 「{無理|むり}をしないことだ」 là **lời khuyên** (đừng cố quá), không phải cảm thán."
+      ],
+      "tip": "Cuối câu bình về một sự việc vừa kể, chỗ trống ngay sau tính từ (ありがたい・残念な・困った・気楽な) → ことだ. Nếu trước chỗ trống là V辞書形 và câu có ý “nên làm gì” → đó là ことだ của 24課."
+    },
+    {
+      "id": "b26-6",
+      "pattern": "〜ことだろう・〜ことか",
+      "reading": "〜ことだろう・〜ことか",
+      "meaning": "… biết bao! / Biết bao nhiêu lần… (nhấn mạnh mức độ — văn viết)",
+      "structure": [
+        "Từ chỉ mức độ dạng nghi vấn (どんなに・どれほど・どれだけ・何度・何回・何年・いったい・なんと) ＋ 普通形 ＋ ことだろう／ことか",
+        "な形 −な／−である ＋ ことだろう／ことか",
+        "N −である ＋ ことだろう／ことか"
+      ],
+      "explain": "Mượn hình thức câu hỏi nhưng **không hỏi** — mà để **cảm thán về mức độ**: “biết bao nhiêu…”, “… đến nhường nào!”.\n\n「{何度|なんど}{電話|でんわ}したことか」 = Tôi đã gọi biết bao nhiêu lần (vậy mà…)!\n「{無事|ぶじ}だと{聞|き}いて、どんなに{安心|あんしん}したことか」 = Nghe tin bình an, tôi đã nhẹ nhõm biết bao!\n\nBắt buộc có **từ chỉ mức độ dạng nghi vấn** đi kèm: どんなに, どれほど, どれだけ, 何度, 何回, いったい, なんと… Không có nó thì câu không đứng được.\n\n- **ことか**: cảm xúc mạnh, dứt khoát, thường là cảm xúc của chính người nói.\n- **ことだろう**: mềm hơn; ngoài cảm thán còn dùng để **phỏng đoán cảm xúc người khác**: 「ご{両親|りょうしん}はさぞ{喜|よろこ}んだことだろう」 (bố mẹ cậu chắc hẳn vui lắm).",
+      "nuance": "- Sách ghi rõ là **văn viết** (書き言葉). Hội thoại hằng ngày thường nói 「すごく〜」 hoặc 「どんなに〜か」.\n- Khi nói với người nghe, 「何度言ったことか」 thường ngầm trách: “đã nói bao nhiêu lần rồi (mà không nghe)”.\n- 「なんと〜ことか」 dùng để thốt lên về điều **đã / đang thực sự xảy ra**. Khi **phỏng đoán** một cảm xúc chưa xảy ra hoặc của người khác (〜たら…ことだろう), dùng どんなに／どれほど: ✗ 「{合格|ごうかく}を{知|し}ったら、{祖父|そふ}はなんと{喜|よろこ}ぶことだろう」 → ○ どんなに喜ぶことだろう.\n- Đừng nhầm với 〜ものか (phủ định mạnh, 24課).",
+      "examples": [
+        {
+          "ja": "{大学|だいがく}に{合格|ごうかく}したと{聞|き}いて、{両親|りょうしん}はどんなに{喜|よろこ}んだことだろう。",
+          "vi": "Nghe tin con đỗ đại học, chắc hẳn bố mẹ đã vui mừng biết bao.",
+          "note": "ことだろう: phỏng đoán cảm xúc người khác"
+        },
+        {
+          "ja": "この{仕事|しごと}を{辞|や}めようと{思|おも}ったことが、これまでに{何度|なんど}あったことか。",
+          "vi": "Từ trước đến nay đã biết bao lần tôi định bỏ công việc này.",
+          "note": "何度 ＋ ことか"
+        },
+        {
+          "ja": "{雪|ゆき}の{中|なか}で{一時間|いちじかん}も{待|ま}たされて、どれほど{寒|さむ}かったことか。",
+          "vi": "Bị bắt đợi một tiếng giữa trời tuyết, lạnh biết chừng nào.",
+          "note": "い形 普通形 ＋ ことか"
+        },
+        {
+          "ja": "{留学中|りゅうがくちゅう}、{友人|ゆうじん}たちの{励|はげ}ましにどれだけ{救|すく}われたことか。",
+          "vi": "Thời du học, tôi đã được những lời động viên của bạn bè cứu rỗi biết bao nhiêu.",
+          "note": ""
+        },
+        {
+          "ja": "{一人|ひとり}で{三人|さんにん}の{子|こ}どもを{育|そだ}てるのは、いったいどれほど{大変|たいへん}なことだろう。",
+          "vi": "Một mình nuôi ba đứa con thì vất vả đến nhường nào.",
+          "note": "な形 −な ＋ ことだろう"
+        },
+        {
+          "ja": "{手術|しゅじゅつ}が{成功|せいこう}したという{電話|でんわ}を{受|う}けたとき、なんとうれしかったことか。",
+          "vi": "Lúc nhận điện thoại báo ca phẫu thuật thành công, tôi đã vui biết bao.",
+          "note": "なんと ＋ ことか"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜ものか (24課)",
+          "diff": "「{行|い}くものか」 = đời nào đi (phủ định mạnh). 「どんなに{行|い}きたかったことか」 = đã muốn đi biết bao (cảm thán mức độ). Đi với どんなに／何度 cảm thán thì dùng ことか, không dùng ものか."
+        },
+        {
+          "with": "〜ことだ (26課-5)",
+          "diff": "ことだ: “thật là…!” về một sự việc, **không** cần từ nghi vấn. ことか／ことだろう: nhấn **mức độ**, **bắt buộc** có どんなに・何度…"
+        },
+        {
+          "with": "さぞ〜ことだろう (phỏng đoán)",
+          "diff": "「さぞ{疲|つか}れたことでしょう」 = chắc hẳn anh mệt lắm — dùng ことだろう để đoán cảm xúc người khác, rất hay gặp trong thư từ."
+        }
+      ],
+      "mistakes": [
+        "✗ うれしかったことか。→ ○ どんなにうれしかったことか (cần từ chỉ mức độ)",
+        "✗ どれほど{大変|たいへん}だことか → ○ 大変なことか／大変であることか (な形 hiện tại: な／である)",
+        "✗ {何度|なんど}{注意|ちゅうい}したものだ → ○ 何度注意したことか (「何度」 là từ nghi vấn; muốn dùng ものだ phải nói 「何度も」)"
+      ],
+      "tip": "Câu có どんなに／どれほど／何度／いったい／なんと + chỗ trống cuối câu → ことか／ことだろう. Không có từ nghi vấn nào → loại hai đáp án này."
+    }
+  ],
+  "summary": [
+    {
+      "pattern": "〜たいものだ・〜てほしいものだ",
+      "meaning": "thật mong…, mong sao…",
+      "key": "ước nguyện tha thiết; không dùng để nhờ trực tiếp"
+    },
+    {
+      "pattern": "〜ものだ",
+      "meaning": "(A) hồi đó hay… (B) thật là…!",
+      "key": "(A) Vた + よく/昔は, việc lặp lại; (B) よく〜たものだ, cảm khái"
+    },
+    {
+      "pattern": "〜ないもの(だろう)か",
+      "meaning": "có cách nào… không nhỉ",
+      "key": "việc khó; V khả năng / không ý chí; 何とか"
+    },
+    {
+      "pattern": "〜ものがある",
+      "meaning": "có cái gì đó thật…",
+      "key": "cảm tưởng chừng mực; 〜には…ものがある"
+    },
+    {
+      "pattern": "〜ことだ",
+      "meaning": "thật là…!",
+      "key": "tính từ + ことだ (≠ 24課 V辞書形 + ことだ = lời khuyên)"
+    },
+    {
+      "pattern": "〜ことだろう・〜ことか",
+      "meaning": "… biết bao!",
+      "key": "bắt buộc どんなに・何度・どれほど; văn viết"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b26-q1",
+      "kind": "form",
+      "ref": "b26-1",
+      "q": "{何年|なんねん}も{挑戦|ちょうせん}してきたのだから、{私|わたし}も{今年|ことし}こそN2に{合格|ごうかく}し（　　）。",
+      "options": [
+        "たいものだ",
+        "てほしいものだ",
+        "たものだ",
+        "たいことか"
+      ],
+      "answer": 0,
+      "vi": "Đã thử sức bao nhiêu năm rồi, năm nay nhất định tôi cũng mong đỗ được N2.",
+      "why": "Chủ thể là chính người nói (私も) → **たいものだ**. 「てほしいものだ」 là mong người khác làm; 「たものだ」 là hồi tưởng thói quen xưa, không hợp với 今年こそ; 「たいことか」 cần từ nghi vấn như どんなに."
+    },
+    {
+      "id": "b26-q2",
+      "kind": "form",
+      "ref": "b26-2",
+      "q": "{子|こ}どものころは、{暗|くら}くなるまで{近所|きんじょ}の{空|あ}き{地|ち}で{野球|やきゅう}をした（　　）。",
+      "options": [
+        "ことだ",
+        "ものがある",
+        "ものだ",
+        "ものか"
+      ],
+      "answer": 2,
+      "vi": "Hồi nhỏ, tôi hay chơi bóng chày ở bãi đất trống gần nhà cho đến tối mịt.",
+      "why": "Hồi tưởng thói quen xưa (子どものころ + Vた) → **ものだ**. 「ことだ」 cảm thán cần tính từ; 「ものがある」 không đi với Vた; 「ものか」 là phủ định mạnh."
+    },
+    {
+      "id": "b26-q3",
+      "kind": "form",
+      "ref": "b26-3",
+      "q": "{毎朝|まいあさ}の{満員|まんいん}{電車|でんしゃ}には{本当|ほんとう}にうんざりする。もう{少|すこ}し{楽|らく}に{通勤|つうきん}でき（　　）。",
+      "options": [
+        "ないことだ",
+        "ないものだろうか",
+        "たいものがある",
+        "ないものだ"
+      ],
+      "answer": 1,
+      "vi": "Tàu chật cứng mỗi sáng làm tôi phát ngán. Giá mà có cách nào đi làm nhẹ nhàng hơn một chút.",
+      "why": "Mong một việc khó, động từ ở dạng khả năng (できる) → **できないものだろうか**. 「できないことだ」 nghe như lời khuyên/nhận xét vô nghĩa; 「たいものがある」 sai kết hợp; 「できないものだ」 = vốn dĩ không thể (23課) — mâu thuẫn với ý mong muốn."
+    },
+    {
+      "id": "b26-q4",
+      "kind": "form",
+      "ref": "b26-4",
+      "q": "{長年|ながねん}{暮|く}らした{町|まち}を{離|はな}れるのは、やはり{寂|さび}しい（　　）。",
+      "options": [
+        "ないものか",
+        "ことか",
+        "てほしいものだ",
+        "ものがある"
+      ],
+      "answer": 3,
+      "vi": "Rời xa thị trấn mình đã sống bao năm, quả thật cũng có phần buồn.",
+      "why": "Cảm tưởng chừng mực của người nói → **寂しいものがある**. 「寂しいないものか」 sai chia; 「寂しいことか」 thiếu từ nghi vấn (どんなに); 「寂しいてほしい」 sai cấu trúc."
+    },
+    {
+      "id": "b26-q5",
+      "kind": "form",
+      "ref": "b26-5",
+      "q": "{八十歳|はちじゅっさい}を{過|す}ぎても{毎日|まいにち}{元気|げんき}に{働|はたら}けるとは、{結構|けっこう}な（　　）。",
+      "options": [
+        "ものがある",
+        "ことだ",
+        "ことか",
+        "ものだろうか"
+      ],
+      "answer": 1,
+      "vi": "Ngoài tám mươi tuổi mà ngày nào cũng làm việc khoẻ mạnh, thật là đáng quý.",
+      "why": "Bình luận cảm xúc về một sự việc cụ thể, sau な形 → **結構なことだ**. 「ものがある」 không đi với 結構な theo nghĩa này; 「ことか」 cần từ nghi vấn; 「ものだろうか」 là câu nghi ngờ, không hợp."
+    },
+    {
+      "id": "b26-q6",
+      "kind": "form",
+      "ref": "b26-6",
+      "q": "{初|はじ}めて{子|こ}どもが{生|う}まれたとき、どんなにうれしかった（　　）。",
+      "options": [
+        "ものだ",
+        "ものがある",
+        "ことか",
+        "ことだ"
+      ],
+      "answer": 2,
+      "vi": "Lần đầu tiên con chào đời, tôi đã vui sướng biết bao.",
+      "why": "Có 「どんなに」 → cảm thán mức độ **ことか**. 「ものだ」「ことだ」 không đi với từ nghi vấn どんなに; 「ものがある」 không đi với thể quá khứ của tính từ."
+    },
+    {
+      "id": "b26-q7",
+      "kind": "usage",
+      "ref": "b26-2",
+      "q": "「〜ものだ」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "{去年|きょねん}の{夏|なつ}、{一度|いちど}だけ{北海道|ほっかいどう}へ{行|い}ったものだ。",
+        "{私|わたし}は{明日|あした}から{毎朝|まいあさ}ジョギングするものだ。",
+        "{昨日|きのう}は{一日中|いちにちじゅう}{雨|あめ}が{降|ふ}ったものだ。",
+        "こんなに{難|むずか}しい{問題|もんだい}を、よく{一人|ひとり}で{解|と}いたものだ。"
+      ],
+      "answer": 3,
+      "vi": "(4) Bài khó thế này mà cũng tự giải một mình được, giỏi thật.",
+      "why": "(4) よく〜たものだ = thán phục → đúng. (1) việc chỉ một lần, không phải thói quen → 行ったことがある／行った. (2) kế hoạch có ý chí của chính mình → するつもりだ. (3) một sự việc đơn thuần hôm qua, không có cảm thán hay hoài niệm."
+    }
+  ],
+  "practice": [
+    {
+      "id": "b26-p1",
+      "kind": "form",
+      "ref": "b26-1",
+      "q": "{若|わか}い{人|ひと}たちには、{失敗|しっぱい}を{恐|おそ}れずにどんどん{挑戦|ちょうせん}して（　　）。",
+      "options": [
+        "みたいものだ",
+        "ほしいものだ",
+        "いたものだ",
+        "ほしいことか"
+      ],
+      "answer": 1,
+      "vi": "Mong sao các bạn trẻ đừng sợ thất bại mà cứ mạnh dạn thử thách.",
+      "why": "「若い人たちには」 → mong người khác làm → **てほしいものだ**. 「てみたいものだ」 là người nói muốn tự thử; 「ていたものだ」 là hồi tưởng; 「ほしいことか」 cần từ nghi vấn."
+    },
+    {
+      "id": "b26-p2",
+      "kind": "usage",
+      "ref": "b26-1",
+      "q": "「〜てほしいものだ」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "すみません、その{塩|しお}を{取|と}ってほしいものです。",
+        "{私|わたし}は{来年|らいねん}こそ{留学|りゅうがく}してほしいものだ。",
+        "{一日|いちにち}も{早|はや}く、{戦争|せんそう}のない{世界|せかい}になってほしいものだ。",
+        "{課長|かちょう}、この{書類|しょるい}に{目|め}を{通|とお}してほしいものですが。"
+      ],
+      "answer": 2,
+      "vi": "(3) Mong sao thế giới sớm ngày không còn chiến tranh.",
+      "why": "(3) ước nguyện tha thiết, mang tính chung → đúng. (1) và (4) là nhờ trực tiếp một việc cụ thể → 取ってもらえますか／目を通していただけませんか. (2) chủ thể là chính mình → 留学したいものだ."
+    },
+    {
+      "id": "b26-p3",
+      "kind": "form",
+      "ref": "b26-2",
+      "q": "{学生|がくせい}のころはお{金|かね}がなくて、{毎日|まいにち}のようにインスタントラーメンを{食|た}べた（　　）。",
+      "options": [
+        "ものだ",
+        "ことだ",
+        "ものではない",
+        "ことか"
+      ],
+      "answer": 0,
+      "vi": "Hồi sinh viên không có tiền, gần như ngày nào tôi cũng ăn mì gói.",
+      "why": "Hồi tưởng thói quen xưa (学生のころ, 毎日のように + Vた) → **ものだ**. 「ことだ」 cảm thán đi với tính từ; 「ものではない」 là lời khuyên “không nên” (24課) và không đi với Vた; 「ことか」 thiếu từ nghi vấn."
+    },
+    {
+      "id": "b26-p4",
+      "kind": "form",
+      "ref": "b26-2",
+      "q": "あれほど{周|まわ}りに{反対|はんたい}されたのに、{彼|かれ}はよく{一人|ひとり}で{店|みせ}を{開|ひら}いた（　　）。",
+      "options": [
+        "ものがある",
+        "ないものか",
+        "たいものだ",
+        "ものだ"
+      ],
+      "answer": 3,
+      "vi": "Bị mọi người phản đối đến thế mà anh ấy vẫn tự mình mở được cửa hàng, giỏi thật.",
+      "why": "「よく〜たものだ」 = thán phục → **ものだ**. 「ものがある」 không đi với Vた; 「開いたないものか」「開いたたいものだ」 sai cấu trúc."
+    },
+    {
+      "id": "b26-p5",
+      "kind": "form",
+      "ref": "b26-3",
+      "q": "{隣|となり}のビルの{工事|こうじ}の{音|おと}がうるさくて、{在宅|ざいたく}{勤務|きんむ}に{集中|しゅうちゅう}できない。もう{少|すこ}し{静|しず}かにならない（　　）。",
+      "options": [
+        "ことか",
+        "ものがある",
+        "ものか",
+        "ものだ"
+      ],
+      "answer": 2,
+      "vi": "Tiếng thi công ở toà nhà bên ồn quá, làm việc ở nhà không tập trung được. Giá mà yên tĩnh hơn một chút.",
+      "why": "Mong một việc mình không quyết được (静かになる — không ý chí) → **ならないものか**. 「ことか」 cần từ nghi vấn; 「ものがある」 không hợp nghĩa; 「ならないものだ」 = vốn dĩ không yên được (nhận định chung), không phải mong ước."
+    },
+    {
+      "id": "b26-p6",
+      "kind": "form",
+      "ref": "b26-3",
+      "q": "{何|なん}とかして{今月中|こんげつちゅう}にこの{仕事|しごと}を（　　）ものだろうか。",
+      "options": [
+        "終わらせられない",
+        "終わらせない",
+        "終わらせる",
+        "終わらせたい"
+      ],
+      "answer": 0,
+      "vi": "Có cách nào hoàn thành công việc này trong tháng không nhỉ.",
+      "why": "〜ないものだろうか đi với **dạng khả năng** → **終わらせられない**. 「終わらせない」 (ý chí) thành “chẳng lẽ không làm xong sao” — sai nghĩa; 「終わらせる」 + ものだろうか = nghi ngờ “liệu có ai làm xong không”; 「終わらせたい」 không ghép với ものだろうか theo nghĩa này."
+    },
+    {
+      "id": "b26-p7",
+      "kind": "form",
+      "ref": "b26-4",
+      "q": "{彼|かれ}の{演奏|えんそう}は{技術的|ぎじゅつてき}にはまだ{未熟|みじゅく}だが、{聞|き}く{人|ひと}の{心|こころ}を{打|う}つ（　　）。",
+      "options": [
+        "ことだ",
+        "ものだろうか",
+        "ことか",
+        "ものがある"
+      ],
+      "answer": 3,
+      "vi": "Tiếng đàn của anh ấy về kỹ thuật còn non, nhưng có cái gì đó chạm đến trái tim người nghe.",
+      "why": "Cảm tưởng / đánh giá năng lực một cách chừng mực → **ものがある**. 「心を打つことだ」 thành lời khuyên “nên làm lay động lòng người” — lạc ngữ cảnh; 「ものだろうか」 thành câu nghi ngờ, mâu thuẫn với だが; 「ことか」 thiếu từ nghi vấn."
+    },
+    {
+      "id": "b26-p8",
+      "kind": "form",
+      "ref": "b26-5",
+      "q": "{試験|しけん}{前|まえ}だというのに、{弟|おとうと}は{毎晩|まいばん}ゲームばかりしている。{気楽|きらく}な（　　）。",
+      "options": [
+        "ものがある",
+        "ないものか",
+        "ことだ",
+        "ことか"
+      ],
+      "answer": 2,
+      "vi": "Sắp thi đến nơi mà tối nào thằng em cũng chỉ chơi game. Sướng nhỉ.",
+      "why": "Bình (mỉa mai) về một sự việc cụ thể, sau な形 → **気楽なことだ**. 「気楽なものがある」 không tự nhiên; 「気楽なないものか」 sai chia; 「ことか」 thiếu từ nghi vấn."
+    },
+    {
+      "id": "b26-p9",
+      "kind": "form",
+      "ref": "b26-6",
+      "q": "この{橋|はし}が{完成|かんせい}するまでに、いったいどれほど{多|おお}くの{人|ひと}が{苦労|くろう}した（　　）。",
+      "options": [
+        "ものがある",
+        "ことだろう",
+        "ものだ",
+        "ないものか"
+      ],
+      "answer": 1,
+      "vi": "Để cây cầu này hoàn thành, không biết đã có biết bao nhiêu người phải vất vả.",
+      "why": "Có 「いったいどれほど」 → **ことだろう**. 「ものがある」 không đi với Vた; 「ものだ」 không đi với từ nghi vấn; 「苦労したないものか」 sai chia."
+    },
+    {
+      "id": "b26-p10",
+      "kind": "order",
+      "ref": "b26-6",
+      "q": "{母|はは}の{手術|しゅじゅつ}が{成功|せいこう}したと{聞|き}いたときは、{家族|かぞく}みんな ＿＿＿ ＿＿＿ ★ ＿＿＿ 。",
+      "options": [
+        "した",
+        "ことか",
+        "どんなに",
+        "ほっと"
+      ],
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answer": 0,
+      "vi": "Khi nghe tin ca phẫu thuật của mẹ thành công, cả nhà đã nhẹ nhõm biết bao.",
+      "why": "家族みんな **どんなに ほっと した ことか** → ★ = 「した」. Từ nghi vấn 「どんなに」 đứng đầu, 「ほっとする」 → 「ほっとした」, cuối cùng 「ことか」."
+    },
+    {
+      "id": "b26-p11",
+      "kind": "order",
+      "ref": "b26-4",
+      "q": "{子|こ}どもたちの{真剣|しんけん}な{演技|えんぎ}には、＿＿＿ ＿＿＿ ★ ＿＿＿ 。",
+      "options": [
+        "ものがある",
+        "{動|うご}かす",
+        "{大人|おとな}の",
+        "{心|こころ}を"
+      ],
+      "order": [
+        2,
+        3,
+        1,
+        0
+      ],
+      "answer": 1,
+      "vi": "Màn diễn nghiêm túc của các em nhỏ có sức lay động cả lòng người lớn.",
+      "why": "演技には **大人の 心を 動かす ものがある** → ★ = 「動かす」. 「大人の」 bổ nghĩa cho 「心」, 「心を動かす」 là cụm động từ, đứng trước 「ものがある」."
+    },
+    {
+      "id": "b26-p12",
+      "kind": "usage",
+      "ref": "b26-5",
+      "q": "「〜ことだ」が「{本当|ほんとう}に〜だ」という{驚|おどろ}きや{感動|かんどう}を{表|あらわ}しているものを{選|えら}びなさい。",
+      "options": [
+        "{合格|ごうかく}したければ、{毎日|まいにち}{少|すこ}しずつでも{勉強|べんきょう}することだ。",
+        "{風邪|かぜ}をひいたときは、{無理|むり}をしないで{早|はや}く{寝|ね}ることだ。",
+        "{私|わたし}の{楽|たの}しみは、{週末|しゅうまつ}に{映画|えいが}を{見|み}ることだ。",
+        "{九十歳|きゅうじゅっさい}でフルマラソンを{完走|かんそう}したなんて、すごいことだ。"
+      ],
+      "answer": 3,
+      "vi": "(4) Chín mươi tuổi mà chạy hết cả cuộc marathon, thật là phi thường.",
+      "why": "(4) tính từ すごい ＋ ことだ = cảm thán → đúng. (1)(2) V辞書形 ＋ ことだ = lời khuyên (24課). (3) こと chỉ là danh từ hoá (“việc xem phim”)."
+    }
+  ],
+  "test": [
+    {
+      "id": "b26-t1",
+      "kind": "form",
+      "ref": "b26-1",
+      "q": "{一度|いちど}でいいから、あの{有名|ゆうめい}なレストランで{食事|しょくじ}をしてみ（　　）。",
+      "options": [
+        "たいものだ",
+        "たものだ",
+        "たいものがある",
+        "たいことか"
+      ],
+      "answer": 0,
+      "vi": "Chỉ một lần thôi cũng được, tôi mong được thử ăn ở nhà hàng nổi tiếng đó.",
+      "why": "「一度でいいから」 + ước muốn của người nói → **たいものだ**. 「たものだ」 là hồi tưởng thói quen — mâu thuẫn với “chỉ một lần thôi cũng được”; 「たいものがある」 sai kết hợp; 「たいことか」 thiếu từ nghi vấn."
+    },
+    {
+      "id": "b26-t2",
+      "kind": "form",
+      "ref": "b26-3",
+      "q": "この{渋滞|じゅうたい}、どうにかならない（　　）。このままでは{約束|やくそく}の{時間|じかん}に{間|ま}に{合|あ}わない。",
+      "options": [
+        "ことかなあ",
+        "ものがあるなあ",
+        "ことだなあ",
+        "ものかなあ"
+      ],
+      "answer": 3,
+      "vi": "Cái vụ tắc đường này, có cách nào thoát không nhỉ. Cứ thế này thì không kịp giờ hẹn.",
+      "why": "「どうにかならない」 + mong muốn thoát khỏi tình huống khó → **ないものかなあ**. 「ことかなあ」 không phải mẫu đúng; 「ものがある」「ことだ」 không đi với câu mong ước dạng ない."
+    },
+    {
+      "id": "b26-t3",
+      "kind": "form",
+      "ref": "b26-4",
+      "q": "{彼|かれ}のスピーチには、{聞|き}く{人|ひと}を{引|ひ}きつける{不思議|ふしぎ}（　　）ものがある。",
+      "options": [
+        "の",
+        "な",
+        "だ",
+        "で"
+      ],
+      "answer": 1,
+      "vi": "Bài phát biểu của anh ấy có một sức hút kỳ lạ đối với người nghe.",
+      "why": "な形 ＋ ものがある → **不思議なものがある**. 「の」 dùng cho danh từ; 「だ」「で」 không bổ nghĩa được cho danh từ もの."
+    },
+    {
+      "id": "b26-t4",
+      "kind": "form",
+      "ref": "b26-5",
+      "q": "{近所|きんじょ}の{公園|こうえん}が{取|と}り{壊|こわ}されて{駐車場|ちゅうしゃじょう}になるそうだ。{子|こ}どもたちの{遊|あそ}び{場|ば}がなくなるのは{残念|ざんねん}な（　　）。",
+      "options": [
+        "ものか",
+        "ことか",
+        "ことだ",
+        "ないものか"
+      ],
+      "answer": 2,
+      "vi": "Nghe nói công viên gần nhà sẽ bị phá để làm bãi đỗ xe. Bọn trẻ mất chỗ chơi, thật là đáng tiếc.",
+      "why": "Bình cảm xúc về một sự việc cụ thể → **残念なことだ**. 「残念なものか」 = “đời nào đáng tiếc” — trái nghĩa; 「ことか」 thiếu từ nghi vấn; 「残念なないものか」 sai chia."
+    },
+    {
+      "id": "b26-t5",
+      "kind": "form",
+      "ref": "b26-6",
+      "q": "{一人暮|ひとりぐ}らしを{始|はじ}めてから、{母|はは}の{手料理|てりょうり}を{何度|なんど}{恋|こい}しく{思|おも}った（　　）。",
+      "options": [
+        "ことか",
+        "ものだ",
+        "ものがある",
+        "ことだ"
+      ],
+      "answer": 0,
+      "vi": "Từ khi sống một mình, không biết bao lần tôi thèm nhớ những món mẹ nấu.",
+      "why": "「何度」 (từ nghi vấn, không có も) → cảm thán mức độ **ことか**. 「ものだ」 chỉ đi được nếu là 「何度も」; 「ものがある」 không đi với Vた; 「ことだ」 không đi với từ nghi vấn."
+    },
+    {
+      "id": "b26-t6",
+      "kind": "order",
+      "ref": "b26-1",
+      "q": "{子|こ}どもたちには、{自然|しぜん}の{中|なか}で ＿＿＿ ＿＿＿ ★ ＿＿＿ 。",
+      "options": [
+        "{育|そだ}って",
+        "ものだ",
+        "のびのびと",
+        "ほしい"
+      ],
+      "order": [
+        2,
+        0,
+        3,
+        1
+      ],
+      "answer": 3,
+      "vi": "Mong sao các con được lớn lên tự do thoải mái giữa thiên nhiên.",
+      "why": "自然の中で **のびのびと 育って ほしい ものだ** → ★ = 「ほしい」. Trạng từ 「のびのびと」 bổ nghĩa cho 「育つ」, rồi 「育って＋ほしい＋ものだ」."
+    },
+    {
+      "id": "b26-t7",
+      "kind": "order",
+      "ref": "b26-3",
+      "q": "{言葉|ことば}が{通|つう}じなくても、{相手|あいて}に{気持|きも}ちを ＿＿＿ ＿＿＿ ★ ＿＿＿ 。",
+      "options": [
+        "{方法|ほうほう}は",
+        "ものだろうか",
+        "ない",
+        "{伝|つた}える"
+      ],
+      "order": [
+        3,
+        0,
+        2,
+        1
+      ],
+      "answer": 2,
+      "vi": "Dù ngôn ngữ không thông, liệu có cách nào truyền đạt được tình cảm của mình tới đối phương không nhỉ.",
+      "why": "気持ちを **伝える 方法は ない ものだろうか** → ★ = 「ない」. 「気持ちを」 cần động từ ngay sau (伝える), 「伝える」 bổ nghĩa cho 「方法」, rồi 「ない＋ものだろうか」 (ない là động từ không ý chí nên hợp mẫu)."
+    },
+    {
+      "id": "b26-t8",
+      "kind": "usage",
+      "ref": "b26-2",
+      "q": "「〜ものだ」が「{昔|むかし}よく〜した」と{過去|かこ}を{懐|なつ}かしむ{意味|いみ}で{使|つか}われているものを{選|えら}びなさい。",
+      "options": [
+        "{人|ひと}の{心|こころ}というのは{変|か}わりやすいものだ。",
+        "{目上|めうえ}の{人|ひと}には{敬語|けいご}を{使|つか}うものだ。",
+        "{学生|がくせい}{時代|じだい}は、{週末|しゅうまつ}になると{友達|ともだち}と{夜通|よどお}し{語|かた}り{合|あ}ったものだ。",
+        "よくこんな{細|こま}かいところまで{覚|おぼ}えていたものだ。"
+      ],
+      "answer": 2,
+      "vi": "(3) Thời sinh viên, cứ cuối tuần là tôi lại cùng bạn bè trò chuyện thâu đêm.",
+      "why": "(3) Vた + thói quen lặp lại trong quá khứ (週末になると) → hoài niệm, đúng. (1) bản chất chung (23課). (2) lời khuyên theo lẽ thường (24課). (4) よく〜たものだ = thán phục (nghĩa B của bài này), không phải hoài niệm."
+    }
+  ]
+}

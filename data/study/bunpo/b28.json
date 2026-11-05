@@ -1,0 +1,1157 @@
+{
+  "id": "b28",
+  "track": "bunpo",
+  "intro": "Rất nhiều mẫu N2 có chứa hai động từ \"nhạt\" nhất tiếng Nhật: 「{言|い}う」 và 「する」. Trong các mẫu này, chúng **không còn nghĩa đen** (nói / làm) mà đứng thay cho một động từ cụ thể hơn:\n\n- **言う → nhắc đến, gọi tên, nêu ý kiến**: 「AといえばB」 = hễ **nhắc đến** A là nghĩ ngay tới B; 「AといったB」 = những thứ **gọi là** A…; 「Aといっても」 = **dù nói là** A (nhưng thực ra…).\n- **する → coi là, giả định, đặt mình vào, phán đoán**: 「Aとすれば」 = **coi như** A là thật; 「Aにしても」 = **dù cho là** A; 「Aにしては」 = **lấy A làm thước đo**; 「Aにしたら」 = **đặt mình vào chỗ** A; 「Aからすると」 = **lấy A làm điểm xuất phát** để phán đoán.\n\n**Mẹo nhận dạng:** vì là động từ nên chúng có đủ bộ thể điều kiện 〜ば／〜と／〜たら và nghĩa gần như không đổi:\n- 言う: といえば・というと・といったら\n- する: とすれば・とすると・としたら / にすれば・にしたら / からすれば・からすると\n\nNên khi gặp một dạng lạ, hãy **đưa về động từ gốc + trợ từ đứng trước**: 「と」 (trích dẫn, giả định — \"là A\"), 「に」 (vị trí / tiêu chuẩn — \"ở chỗ A\"), 「から」 (điểm xuất phát — \"từ A\"). Ba trợ từ này chính là chìa khoá để phân biệt にしては／としては, にしたら／としたら, からして／からすると.\n\nHai mẫu mới của bài: 「〜とはいいながら」 và 「〜からすると・〜からいうと」. Các mẫu còn lại đã gặp ở 4課, 10課, 13–15課, 19課 — mỗi mục có ghi \"xem …課\".",
+  "points": [
+    {
+      "id": "b28-1",
+      "pattern": "〜といった",
+      "reading": "〜といった",
+      "meaning": "Như là, chẳng hạn như (nêu vài ví dụ tiêu biểu cho một nhóm)",
+      "structure": [
+        "N1(や／、)N2 ＋ といった ＋ N(nhóm chung)"
+      ],
+      "explain": "Gốc: 「と言った」 = \"(những thứ) được **gọi là** A, B\". Người nói đưa ra **vài cái tên tiêu biểu**, rồi gom chúng bằng một danh từ chung phía sau (xem 10課).\n\nCông thức: **[ví dụ 1] や [ví dụ 2] といった [danh từ nhóm]**: 「京都や奈良といった古い町」 = những thành phố cổ như Kyoto, Nara.\n\nDanh từ nhóm phía sau thường là từ bao quát: 町, 料理, 国, スポーツ, 症状, 問題, 災害, 分野. Ngầm hiểu: **còn những cái khác nữa**, đây chỉ là ví dụ.",
+      "nuance": "Luôn **đứng trước danh từ**, không kết thúc câu. Trung tính, dùng cả văn viết lẫn nói lịch sự. Không dùng để gọi tên **một** người / vật cụ thể (đó là 「という」).",
+      "examples": [
+        {
+          "ja": "{京都|きょうと}や{奈良|なら}といった{古|ふる}い{町|まち}には、{毎年|まいとし}{多|おお}くの{観光客|かんこうきゃく}が{訪|おとず}れる。",
+          "vi": "Những thành phố cổ như Kyoto, Nara mỗi năm đón rất nhiều khách du lịch.",
+          "note": "AやBといった + N"
+        },
+        {
+          "ja": "{漢字|かんじ}や{敬語|けいご}といった{日本語|にほんご}の{難|むずか}しい{部分|ぶぶん}も、アプリで{楽|たの}しく{学|まな}べる。",
+          "vi": "Ngay cả những phần khó của tiếng Nhật như kanji hay kính ngữ cũng có thể học vui vẻ bằng ứng dụng.",
+          "note": ""
+        },
+        {
+          "ja": "この{店|みせ}では、{餃子|ぎょうざ}、{春巻|はるま}き、シューマイといった{点心|てんしん}が{人気|にんき}だ。",
+          "vi": "Ở quán này, các món điểm tâm như sủi cảo, chả giò, xíu mại rất được ưa chuộng.",
+          "note": "Liệt kê bằng 「、」"
+        },
+        {
+          "ja": "{頭痛|ずつう}やめまいといった{症状|しょうじょう}が{出|で}たら、すぐに{医師|いし}に{相談|そうだん}してください。",
+          "vi": "Nếu xuất hiện các triệu chứng như đau đầu, chóng mặt, hãy hỏi ý kiến bác sĩ ngay.",
+          "note": "Văn hướng dẫn"
+        },
+        {
+          "ja": "{少子化|しょうしか}や{高齢化|こうれいか}といった{社会|しゃかい}{問題|もんだい}について、グループで{話|はな}し{合|あ}った。",
+          "vi": "Chúng tôi thảo luận theo nhóm về các vấn đề xã hội như tỉ lệ sinh giảm, già hoá dân số.",
+          "note": ""
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜という N",
+          "diff": "「さくらという店」 = cái quán **tên là** Sakura (một cái cụ thể). 「さくらや梅といった花」 = các loài hoa **như** anh đào, mơ (ví dụ của nhóm)."
+        },
+        {
+          "with": "〜など／〜やら〜やら (xem 10課)",
+          "diff": "「など」 đứng sau danh sách, có thể kết câu. 「やら〜やら」 = đủ thứ lộn xộn, hay kèm than phiền. 「といった」 trung tính, bắt buộc có danh từ nhóm phía sau."
+        }
+      ],
+      "mistakes": [
+        "✗ {彼女|かのじょ}が{好|す}きな{果物|くだもの}は、りんごやみかんといった。→ ○ …りんごやみかんといった果物だ (cần danh từ phía sau)",
+        "✗ {昨日|きのう}、{山田|やまだ}さんといった{人|ひと}から{電話|でんわ}があった。→ ○ 山田さんという人 (một người cụ thể)"
+      ],
+      "tip": "Trước chỗ trống là **danh sách** (AやB／A、B), sau chỗ trống là **danh từ nhóm** → 「といった」."
+    },
+    {
+      "id": "b28-2",
+      "pattern": "〜といえば・〜というと",
+      "reading": "〜といえば・〜というと",
+      "meaning": "Nói đến A thì (nghĩ ngay đến B) / nhân nhắc đến A…",
+      "structure": [
+        "N ＋ といえば／というと",
+        "普通形 ＋ といえば (nhắc lại lời người khác)",
+        "というと、〜ということですか (hỏi lại)"
+      ],
+      "explain": "Gốc: 「と言えば」 = \"**nếu nhắc đến** A\". A như một **nút bấm**: vừa nghe A, người nói lập tức nhảy sang điều liên tưởng (xem 13課).\n\n- **(1) Nêu điều tiêu biểu nhất**: 「北海道といえば、やっぱり海産物だ」 — nhắc tới Hokkaido là phải nói tới hải sản.\n- **(2) Chuyển đề tài trong hội thoại**: bắt lấy một từ người kia vừa nói rồi rẽ sang chuyện liên quan: 「大阪に出張なんだ」「大阪といえば、新しい店ができたらしいよ」.\n- **というと** dùng như (1)(2), và thêm một chức năng: **hỏi lại để xác nhận**: 「というと、つまり〜ということですか」 = \"vậy tức là…?\".",
+      "nuance": "Văn nói rất nhiều. Vế sau là điều **liên tưởng / thông tin liên quan**, không phải lặp lại thông tin trung tính về A.",
+      "examples": [
+        {
+          "ja": "{北海道|ほっかいどう}といえば、やっぱり{新鮮|しんせん}な{海産物|かいさんぶつ}だろう。",
+          "vi": "Nhắc đến Hokkaido thì đương nhiên phải là hải sản tươi rồi.",
+          "note": "(1) điều tiêu biểu"
+        },
+        {
+          "ja": "「{来週|らいしゅう}、{大阪|おおさか}に{出張|しゅっちょう}なんだ。」「{大阪|おおさか}といえば、{駅前|えきまえ}に{新|あたら}しいたこ{焼|や}き{屋|や}ができたらしいよ。」",
+          "vi": "\"Tuần sau tớ đi công tác Osaka.\" \"Nhắc đến Osaka mới nhớ, nghe nói trước ga mới mở một quán takoyaki đấy.\"",
+          "note": "(2) chuyển đề tài"
+        },
+        {
+          "ja": "{田中|たなか}さんというと、いつも{笑顔|えがお}で{挨拶|あいさつ}してくれる{姿|すがた}が{思|おも}い{浮|う}かぶ。",
+          "vi": "Nói đến anh Tanaka là tôi lại hình dung ra dáng anh ấy lúc nào cũng tươi cười chào hỏi.",
+          "note": "というと + 思い浮かぶ"
+        },
+        {
+          "ja": "「{来月|らいげつ}から{在宅|ざいたく}{勤務|きんむ}が{始|はじ}まります。」「というと、{毎日|まいにち}{会社|かいしゃ}に{来|こ}なくてもいいということですか。」",
+          "vi": "\"Từ tháng sau sẽ bắt đầu làm việc tại nhà.\" \"Vậy tức là không cần đến công ty hằng ngày nữa phải không ạ?\"",
+          "note": "というと = hỏi lại xác nhận"
+        },
+        {
+          "ja": "{子|こ}どもの{頃|ころ}の{夏休|なつやす}みというと、{祖父母|そふぼ}の{家|いえ}で{過|す}ごした{日々|ひび}を{思|おも}い{出|だ}す。",
+          "vi": "Nói đến kỳ nghỉ hè hồi nhỏ, tôi lại nhớ những ngày ở nhà ông bà.",
+          "note": ""
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜といったら (trong bài này)",
+          "diff": "Nghĩa (1) giống nhau, nhưng 「といったら」 giọng **mạnh, cảm xúc** hơn, và có thêm nghĩa \"A thì… không tả nổi\"."
+        },
+        {
+          "with": "〜とは (xem 13課)",
+          "diff": "「とは」 = **định nghĩa** A là gì (「愛とは何か」). 「といえば」 = **liên tưởng** từ A sang B."
+        }
+      ],
+      "mistakes": [
+        "✗ {大阪|おおさか}というと、{私|わたし}は{大阪|おおさか}に{住|す}んでいます。→ vế sau phải là điều **liên tưởng** từ A, không phải thông tin trung tính.",
+        "✗ {北海道|ほっかいどう}にいえば… → ○ 北海道といえば (trợ từ trích dẫn と)"
+      ],
+      "tip": "Hội thoại: người B lặp lại một từ người A vừa nói rồi + chỗ trống → 「といえば」. Đứng đầu câu trả lời và cuối có 「〜ということですか」 → 「というと」."
+    },
+    {
+      "id": "b28-3",
+      "pattern": "〜といったら",
+      "reading": "〜といったら",
+      "meaning": "(1) Nhắc đến A thì (phải là) B (2) A thì… (mức độ) không gì tả nổi",
+      "structure": [
+        "N ＋ といったら",
+        "N(〜さ・cảm xúc) ＋ といったら(ない／ありはしない)"
+      ],
+      "explain": "Gốc: 「と言ったら」 = \"nếu nói đến A\" (xem 13課). Có hai cách dùng:\n\n- **(1) Như といえば nhưng mạnh hơn**: \"nhắc tới A thì **phải là** B, còn gì nữa\": 「日本の冬のスポーツといったら、スキーだ」.\n- **(2) Cảm thán mức độ**: A là danh từ chỉ **mức độ / cảm xúc** (〜さ: 寒さ, 嬉しさ, 恥ずかしさ, 美しさ; hoặc 驚き, 緊張…). Người nói **bỏ lửng** vì không tìm được lời: 「あの時の恥ずかしさといったら…」 → thường kết bằng 「〜といったらない」 = **cực kỳ, không gì bằng**.",
+      "nuance": "Nghĩa (2) là văn nói, nhiều cảm xúc (ngạc nhiên, xấu hổ, vui sướng, bực mình). 「〜といったらない」 là khuôn cố định: phủ định nhưng nghĩa là **cực kỳ**.",
+      "examples": [
+        {
+          "ja": "{日本|にほん}の{冬|ふゆ}のスポーツといったら、やはりスキーとスケートだ。",
+          "vi": "Nhắc đến môn thể thao mùa đông của Nhật thì phải là trượt tuyết và trượt băng.",
+          "note": "(1)"
+        },
+        {
+          "ja": "{頂上|ちょうじょう}から{見|み}た{朝日|あさひ}の{美|うつく}しさといったら、{言葉|ことば}では{表|あらわ}せないほどだった。",
+          "vi": "Vẻ đẹp của mặt trời mọc nhìn từ đỉnh núi thì không lời nào tả xiết.",
+          "note": "(2) 〜さ + といったら"
+        },
+        {
+          "ja": "{満員|まんいん}{電車|でんしゃ}で{転|ころ}んでしまった。あの{恥|は}ずかしさといったらなかった。",
+          "vi": "Tôi bị ngã trên chuyến tàu chật cứng người. Xấu hổ không để đâu cho hết.",
+          "note": "〜といったらない = cực kỳ"
+        },
+        {
+          "ja": "うちの{家族|かぞく}で{旅行|りょこう}といったら、{毎年|まいとし}{決|き}まって{温泉|おんせん}だ。",
+          "vi": "Nhà tôi mà nói đến du lịch thì năm nào cũng là đi suối nước nóng.",
+          "note": "(1)"
+        },
+        {
+          "ja": "{子犬|こいぬ}のいたずらといったら、もう{手|て}がつけられない。",
+          "vi": "Cái trò nghịch của con cún thì đúng là hết cách chịu nổi.",
+          "note": "(2) bực mà buồn cười"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜といえば (trong bài này)",
+          "diff": "「といえば」 trung tính, hay dùng để **chuyển đề tài**. 「といったら」 nhấn mạnh **cảm xúc / mức độ**; ít dùng để chuyển đề tài."
+        },
+        {
+          "with": "〜ことか (xem 26課)",
+          "diff": "Cũng là cảm thán mức độ, nhưng 「どんなに〜ことか」 đi với từ để hỏi. 「〜さといったらない」 đi với danh từ mức độ."
+        }
+      ],
+      "mistakes": [
+        "✗ あの{時|とき}の{寒|さむ}さといったらあった。→ ○ 寒さといったらなかった (khuôn cố định 〜といったらない)",
+        "Phân biệt với nghĩa đen: 「{行|い}くといったら{行|い}く」 = đã nói đi là đi (quyết tâm), không phải mẫu này."
+      ],
+      "tip": "Trước chỗ trống là **danh từ đuôi 〜さ** (寒さ・美しさ・恥ずかしさ) và cuối câu là 「なかった／ない」 → 「といったら」."
+    },
+    {
+      "id": "b28-4",
+      "pattern": "〜といっても",
+      "reading": "〜といっても",
+      "meaning": "Nói là A, nhưng thực ra (không đến mức như người ta tưởng)",
+      "structure": [
+        "N ＋ といっても",
+        "普通形 ＋ といっても"
+      ],
+      "explain": "Gốc: 「と言っても」 = \"**dù nói là** A đi nữa\" (xem 14課). Người nói **tự hạ bớt ấn tượng** mà từ A gây ra: nghe 「社長」 thì tưởng to tát, nhưng thật ra là công ty 3 người.\n\nCông thức: **A (nghe có vẻ lớn) といっても + B (thực tế nhỏ / ít / đơn giản)**.\n\nVế sau hay có: 〜だけだ, 〜程度だ, それほど〜ない, 少し, ちょっと, まだ.",
+      "nuance": "Văn nói lẫn văn viết. Vế sau **luôn đi xuống** so với ấn tượng của A — không dùng để khen thêm.",
+      "examples": [
+        {
+          "ja": "{社長|しゃちょう}といっても、{社員|しゃいん}3{人|にん}の{小|ちい}さな{会社|かいしゃ}です。",
+          "vi": "Gọi là giám đốc chứ thực ra công ty nhỏ chỉ có 3 nhân viên.",
+          "note": "N + といっても"
+        },
+        {
+          "ja": "{英語|えいご}が{話|はな}せるといっても、{日常|にちじょう}{会話|かいわ}{程度|ていど}です。",
+          "vi": "Nói là biết tiếng Anh chứ chỉ ở mức giao tiếp hằng ngày thôi.",
+          "note": "〜程度だ"
+        },
+        {
+          "ja": "{春|はる}になったといっても、{朝晩|あさばん}はまだ{冷|ひ}える。",
+          "vi": "Dù nói là đã sang xuân nhưng sáng tối trời vẫn còn lạnh.",
+          "note": ""
+        },
+        {
+          "ja": "{貯金|ちょきん}があるといっても、{海外|かいがい}{旅行|りょこう}に{行|い}けるほどではない。",
+          "vi": "Có tiền tiết kiệm đấy, nhưng không đến mức đi du lịch nước ngoài được.",
+          "note": "〜ほどではない"
+        },
+        {
+          "ja": "「{週末|しゅうまつ}は{旅行|りょこう}だったんでしょう?」「{旅行|りょこう}といっても、{隣|となり}の{県|けん}に{一泊|いっぱく}しただけだよ。」",
+          "vi": "\"Cuối tuần đi du lịch phải không?\" \"Du lịch gì đâu, chỉ ngủ lại một đêm ở tỉnh bên cạnh thôi.\"",
+          "note": "〜だけだ"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜からといって (trong bài này)",
+          "diff": "「からといって」 = phản bác **suy luận** (A nên chắc B → không đâu). 「といっても」 = sửa lại **mức độ** của A (nghe lớn nhưng thực nhỏ)."
+        },
+        {
+          "with": "〜とはいいながら (trong bài này)",
+          "diff": "「とはいいながら」 = A là sự thật nhưng thực tế **trái với điều A gợi ra** (văn viết). 「といっても」 = A **không lớn như tưởng**."
+        }
+      ],
+      "mistakes": [
+        "✗ ピアノが{弾|ひ}けるといっても、コンクールで{優勝|ゆうしょう}するほど{上手|じょうず}だ。→ vế sau phải hạ ấn tượng xuống: ○ …{簡単|かんたん}な{曲|きょく}が弾ける程度だ.",
+        "✗ {社長|しゃちょう}にいっても… → ○ 社長といっても"
+      ],
+      "tip": "Vế sau có 「だけ・程度・それほど〜ない」 → 「といっても」 là ứng viên số 1."
+    },
+    {
+      "id": "b28-5",
+      "pattern": "〜からといって",
+      "reading": "〜からといって",
+      "meaning": "Chỉ vì A mà (không có nghĩa là / không nên) B",
+      "structure": [
+        "普通形 ＋ からといって ＋ 〜とは限らない／わけではない／〜てはいけない"
+      ],
+      "explain": "Gốc: 「から」 (lý do) + 「と言って」 = \"**lấy lý do A ra mà nói / mà làm** B\". Người nói **bác bỏ cách suy luận** \"vì A nên chắc chắn B\" (xem 14課).\n\n「有名な大学を出たからといって、仕事ができるとは限らない」 — tốt nghiệp trường nổi tiếng ≠ chắc chắn làm việc giỏi.\n\nVế sau **gần như luôn phủ định**: とは限らない, わけではない, というわけではない, 〜てはいけない, 〜ことはない, 〜ない.",
+      "nuance": "Mang giọng khuyên răn, phản bác. Không dùng khi vế sau là hệ quả bình thường của A (khi đó chỉ cần から／ので).",
+      "examples": [
+        {
+          "ja": "{安|やす}いからといって、{必要|ひつよう}のないものまで{買|か}ってはいけない。",
+          "vi": "Rẻ thì rẻ, nhưng không được mua cả những thứ không cần.",
+          "note": "+ てはいけない"
+        },
+        {
+          "ja": "{有名|ゆうめい}な{大学|だいがく}を{出|で}たからといって、{仕事|しごと}ができるとは{限|かぎ}らない。",
+          "vi": "Tốt nghiệp đại học danh tiếng chưa chắc đã làm việc giỏi.",
+          "note": "+ とは限らない"
+        },
+        {
+          "ja": "{一度|いちど}{失敗|しっぱい}したからといって、{諦|あきら}めることはない。",
+          "vi": "Chỉ vì thất bại một lần thì không cần phải bỏ cuộc.",
+          "note": "+ ことはない"
+        },
+        {
+          "ja": "{値段|ねだん}が{高|たか}いからといって、{品質|ひんしつ}がいいというわけではない。",
+          "vi": "Giá đắt không có nghĩa là chất lượng tốt.",
+          "note": "+ わけではない"
+        },
+        {
+          "ja": "{外国人|がいこくじん}だからといって、{特別|とくべつ}{扱|あつか}いされたくはない。",
+          "vi": "Tôi không muốn được đối xử đặc biệt chỉ vì mình là người nước ngoài.",
+          "note": "N + だからといって"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜からには (xem 17課)",
+          "diff": "Ngược hướng: 「からには」 = vì đã A **thì nhất định phải** B (khẳng định). 「からといって」 = vì A **mà** B thì **không đúng** (phủ định)."
+        },
+        {
+          "with": "〜といっても (trong bài này)",
+          "diff": "Xem mục 「といっても」: sửa mức độ ↔ bác suy luận."
+        }
+      ],
+      "mistakes": [
+        "✗ {雨|あめ}が{降|ふ}ったからといって、{試合|しあい}は{中止|ちゅうし}になった。→ ○ 雨が降ったので (vế sau là hệ quả bình thường, không phải bác bỏ)",
+        "✗ {熱|ねつ}があるからといって、{今日|きょう}は{休|やす}みます。→ ○ 熱があるので"
+      ],
+      "tip": "Cuối câu có 「とは限らない／わけではない／ことはない」 → chỗ trống thường là 「からといって」."
+    },
+    {
+      "id": "b28-6",
+      "pattern": "〜とはいいながら",
+      "reading": "〜とはいいながら",
+      "meaning": "Tuy nói là A (sự thật), nhưng thực tế lại khác với điều A gợi ra (mới)",
+      "structure": [
+        "N(だ) ＋ とはいいながら",
+        "なA(だ) ＋ とはいいながら",
+        "V・いA 普通形 ＋ とはいいながら"
+      ],
+      "explain": "**Mẫu mới.** Tách ra: 「と」 (trích dẫn) + 「は」 (nhấn mạnh) + 「言いながら」 (ながら = tuy… nhưng, như 〜ながらも ở 14課). → \"**tuy vẫn nói là / tuy đúng là** A, nhưng…\".\n\nA là một **sự thật được thừa nhận** (医者だ, 春だ, 分かっている, 景気が回復した), và vế sau là **thực tế không như người ta chờ đợi** từ A:\n- 「{医者|いしゃ}とはいいながら、{自分|じぶん}の{健康|けんこう}{管理|かんり}はまったくできていない」 — tuy là bác sĩ (đáng lẽ giữ sức khoẻ giỏi) nhưng việc tự chăm sóc sức khoẻ của mình thì chẳng ra sao.\n\nKhuôn rất hay gặp: 「(頭では)分かっているとはいいながら、つい〜てしまう」 — biết vậy mà vẫn…",
+      "nuance": "Văn viết, hơi cứng; thường mang giọng **tự nhận, thú nhận** hoặc nhận xét về xã hội. Gần nghĩa 「とはいうものの」 (14課). Vế sau thường là **thực tế / trạng thái** trái kỳ vọng, không phải mệnh lệnh hay lời rủ.",
+      "examples": [
+        {
+          "ja": "{料理|りょうり}{研究家|けんきゅうか}とはいいながら、{家|いえ}では{簡単|かんたん}なものしか{作|つく}らない。",
+          "vi": "Tuy là chuyên gia ẩm thực, nhưng ở nhà tôi chỉ nấu những món đơn giản.",
+          "note": "N + とはいいながら"
+        },
+        {
+          "ja": "{暦|こよみ}の{上|うえ}では{秋|あき}とはいいながら、{毎日|まいにち}35{度|ど}を{超|こ}える{暑|あつ}さが{続|つづ}いている。",
+          "vi": "Theo lịch thì đã sang thu, vậy mà ngày nào cũng nóng trên 35 độ.",
+          "note": "暦の上では = theo lịch"
+        },
+        {
+          "ja": "{体|からだ}に{悪|わる}いと{分|わ}かっているとはいいながら、つい{夜更|よふ}かしをしてしまう。",
+          "vi": "Biết là có hại cho sức khoẻ, vậy mà tôi vẫn cứ thức khuya.",
+          "note": "Khuôn 分かっているとはいいながら、つい〜"
+        },
+        {
+          "ja": "{親友|しんゆう}とはいいながら、{彼|かれ}が{本当|ほんとう}は{何|なに}を{考|かんが}えているのか、いまだによく{分|わ}からない。",
+          "vi": "Tuy là bạn thân, nhưng đến giờ tôi vẫn chưa thật hiểu anh ấy thực sự nghĩ gì.",
+          "note": ""
+        },
+        {
+          "ja": "{景気|けいき}が{回復|かいふく}したとはいいながら、{庶民|しょみん}の{生活|せいかつ}は{少|すこ}しも{楽|らく}になっていない。",
+          "vi": "Tuy nói là kinh tế đã phục hồi, nhưng đời sống người dân thường chẳng dễ thở hơn chút nào.",
+          "note": "Nhận xét xã hội"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜とはいうものの・〜ものの (xem 14課)",
+          "diff": "Gần như đồng nghĩa, cùng là văn viết. Trong đề có thể thay nhau."
+        },
+        {
+          "with": "〜といっても (trong bài này)",
+          "diff": "「といっても」 = A **không lớn như tưởng** (社長といっても小さな会社). 「とはいいながら」 = A đúng là vậy, nhưng thực tế **đi ngược** điều A gợi ra."
+        }
+      ],
+      "mistakes": [
+        "✗ {春|はる}とはいいながら、{桜|さくら}が{満開|まんかい}できれいだ。→ vế sau phải **trái kỳ vọng** từ A (春とはいいながら、まだ寒い).",
+        "✗ {分|わ}かっているとはいいながら、もう{夜更|よふ}かしはしないつもりだ。→ vế sau thuận theo A (biết hại thì bỏ), không phải thực tế trái kỳ vọng; muốn nói ý định thì dùng 「〜から、もう〜ない」."
+      ],
+      "tip": "Trước chỗ trống là sự thật hiển nhiên (〜は春だ・医者だ・分かっている), sau là việc **ngược lại** (まだ寒い・つい〜てしまう) → 「とはいいながら」."
+    },
+    {
+      "id": "b28-7",
+      "pattern": "〜からして",
+      "reading": "〜からして",
+      "meaning": "(1) Ngay từ (cái cơ bản như) A đã… (2) Xét từ A thì (suy đoán)",
+      "structure": [
+        "N ＋ からして"
+      ],
+      "explain": "Gốc: 「から」 (điểm xuất phát) + 「して」 (する). Xem 4課. Hai cách dùng:\n\n- **(1) \"Ngay từ A đã…\"**: lấy **một ví dụ nhỏ nhất, đầu tiên, bề ngoài nhất** để nói rằng mọi thứ còn lại chắc cũng thế: 「この{小説|しょうせつ}は{表紙|ひょうし}からして{暗|くら}い{雰囲気|ふんいき}だ」 — mới cái bìa đã thấy u ám, nội dung chắc còn nặng nề hơn. Danh từ thường là thứ \"cửa ngõ\": 名前, 題名, 入り口, 服装, 言い方, 第一印象, 部長 (người đứng đầu).\n- **(2) \"Xét từ A thì\"**: A là **căn cứ nhìn thấy** để suy đoán: 「あの表情からして、試験はうまくいかなかったようだ」.",
+      "nuance": "Nghĩa (1) thường mang **đánh giá tiêu cực** (chê) nhưng cũng có thể khen. Vế sau là nhận xét / suy đoán, không phải ý chí.",
+      "examples": [
+        {
+          "ja": "この{店|みせ}は{入|い}り{口|ぐち}からして{高級|こうきゅう}そうで、{気軽|きがる}には{入|はい}れない。",
+          "vi": "Quán này mới nhìn cửa vào đã thấy sang trọng, không dám bước vào tuỳ tiện.",
+          "note": "(1) cửa ngõ đầu tiên"
+        },
+        {
+          "ja": "{部長|ぶちょう}からして{時間|じかん}を{守|まも}らないのだから、{部下|ぶか}が{遅刻|ちこく}するのも{無理|むり}はない。",
+          "vi": "Ngay cả trưởng phòng còn không đúng giờ thì nhân viên đi muộn cũng phải thôi.",
+          "note": "(1) người đứng đầu đã vậy"
+        },
+        {
+          "ja": "{彼|かれ}は{話|はな}し{方|かた}からして{偉|えら}そうで、どうも{好|す}きになれない。",
+          "vi": "Anh ta ngay từ cách nói chuyện đã ra vẻ ta đây, tôi không sao ưa nổi.",
+          "note": "(1) chê"
+        },
+        {
+          "ja": "あの{表情|ひょうじょう}からして、{試験|しけん}はうまくいかなかったようだ。",
+          "vi": "Nhìn vẻ mặt đó thì có vẻ bài thi không suôn sẻ.",
+          "note": "(2) căn cứ để suy đoán"
+        },
+        {
+          "ja": "このドラマは{第一話|だいいちわ}からして{面白|おもしろ}く、{最後|さいご}まで{一気|いっき}に{見|み}てしまった。",
+          "vi": "Bộ phim này ngay từ tập một đã hay, tôi xem một mạch đến hết.",
+          "note": "(1) khen"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜からすると (trong bài này)",
+          "diff": "Nghĩa (2) gần giống. 「からすると」 trung tính, dùng cả với lập trường (消費者からすると). 「からして」 có thêm sắc thái **\"ngay cả\"** (nghĩa 1)."
+        },
+        {
+          "with": "〜をはじめ (xem 4課)",
+          "diff": "「をはじめ」 = nêu ví dụ tiêu biểu **đứng đầu danh sách**, trung tính / tích cực (社長をはじめ社員全員). 「からして」 = lấy cái nhỏ nhất để suy ra tất cả, thường là chê."
+        }
+      ],
+      "mistakes": [
+        "✗ {名前|なまえ}をして{変|へん}だ。→ ○ 名前からして変だ",
+        "✗ {彼|かれ}は{服装|ふくそう}からして、{真面目|まじめ}に{働|はたら}こう。→ vế sau là nhận xét / suy đoán, không phải ý chí."
+      ],
+      "tip": "Danh từ trước chỗ trống là thứ **bề ngoài / đầu tiên** (題名・名前・入り口・言い方・第一印象) và vế sau là đánh giá → 「からして」."
+    },
+    {
+      "id": "b28-8",
+      "pattern": "〜としたら・〜とすれば・〜とすると",
+      "reading": "〜としたら・〜とすれば・〜とすると",
+      "meaning": "Nếu giả sử A (là thật) thì…",
+      "structure": [
+        "普通形 ＋ としたら／とすれば／とすると",
+        "N・なA ＋ (だ) ＋ としたら"
+      ],
+      "explain": "Gốc: 「と」 + 「する」 = \"**coi như** A là đúng\" → giả định (xem 15課). Ba dạng chỉ là ba thể điều kiện たら／ば／と của する nên nghĩa gần như nhau.\n\nHai tình huống chính:\n- **(1) Giả định tưởng tượng** (chưa xảy ra, khó xảy ra): 「もし{一日|いちにち}だけ{透明|とうめい}{人間|にんげん}になれるとしたら…」.\n- **(2) Tiếp nhận thông tin rồi suy luận**: \"nếu (điều vừa biết) là thật, thì…\": 「彼の話が本当だとすると、会社は大変なことになる」.\n\nVế sau thường là **suy đoán, câu hỏi, ý kiến**: 〜だろう, 〜かもしれない, 〜か, 〜なければならない, 〜べきだ.",
+      "nuance": "「とすると」 hay dùng cho suy luận logic (từ thông tin có sẵn); 「としたら」 hợp với giả định tưởng tượng. Không dùng cho điều kiện **chắc chắn** xảy ra theo quy luật (✗ 春になるとしたら桜が咲く → 春になると).",
+      "examples": [
+        {
+          "ja": "もし{一日|いちにち}だけ{透明|とうめい}{人間|にんげん}になれるとしたら、{何|なに}をしてみたいですか。",
+          "vi": "Nếu được trở thành người tàng hình chỉ trong một ngày thì bạn muốn thử làm gì?",
+          "note": "(1) giả định tưởng tượng"
+        },
+        {
+          "ja": "{電車|でんしゃ}で2{時間|じかん}かかるとすれば、{朝|あさ}7{時|じ}には{家|いえ}を{出|で}なければならない。",
+          "vi": "Nếu đi tàu mất 2 tiếng thì phải ra khỏi nhà lúc 7 giờ sáng.",
+          "note": "Tính toán, suy luận"
+        },
+        {
+          "ja": "{彼|かれ}の{話|はなし}が{本当|ほんとう}だとすると、{会社|かいしゃ}は{大変|たいへん}なことになる。",
+          "vi": "Nếu lời anh ta là thật thì công ty sẽ gặp chuyện lớn.",
+          "note": "(2) N + だとすると"
+        },
+        {
+          "ja": "{留学|りゅうがく}するとしたら、{物価|ぶっか}の{安|やす}い{国|くに}がいいな。",
+          "vi": "Nếu đi du học thì tôi muốn đến nước có vật giá rẻ.",
+          "note": "Vế sau là mong muốn — dùng được"
+        },
+        {
+          "ja": "{明日|あした}{大雨|おおあめ}になるとすれば、{試合|しあい}は{延期|えんき}するべきだろう。",
+          "vi": "Nếu ngày mai mưa to thì có lẽ nên hoãn trận đấu.",
+          "note": "+ べきだろう"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜としても (xem 15課)",
+          "diff": "「としても」 = **dù cho** A đi nữa thì B vẫn vậy (nhượng bộ). 「としたら」 = **nếu** A thì B (điều kiện)."
+        },
+        {
+          "with": "〜にしたら (trong bài này)",
+          "diff": "Cùng する nhưng khác trợ từ: 「と」したら = giả định A là thật; 「に」したら = đặt mình vào vị trí **người** A. 「子どもとしたら」 ≠ 「子どもにしたら」."
+        }
+      ],
+      "mistakes": [
+        "✗ {春|はる}になるとしたら、{桜|さくら}が{咲|さ}く。→ ○ 春になると (quy luật tất yếu)",
+        "✗ {本当|ほんとう}なとすれば → ○ 本当だとすれば (なA／N cần だ)"
+      ],
+      "tip": "Có 「もし」 ở đầu câu, hoặc vế sau là 「〜だろう・〜か」 sau khi nghe một thông tin → 「としたら／とすれば／とすると」."
+    },
+    {
+      "id": "b28-9",
+      "pattern": "〜にしても・〜にしろ",
+      "reading": "〜にしても・〜にしろ",
+      "meaning": "Dù (cho) là A đi nữa thì cũng… / dù A hay B",
+      "structure": [
+        "普通形 ＋ にしても／にしろ (N・なA: không cần だ)",
+        "疑問詞 ＋ 〜にしても／にしろ",
+        "AにしろBにしろ／AにしてもBにしても"
+      ],
+      "explain": "Gốc: 「に」 + 「する」 = \"**dù có coi là** A đi nữa\" → nhượng bộ: người nói **chấp nhận A**, nhưng vẫn khẳng định B (xem 15課).\n\n- 「忙しいにしても、電話一本ぐらいできるでしょう」 — cứ cho là bận đi, thì một cuộc điện thoại cũng gọi được chứ.\n- Với **từ để hỏi**: 「何をするにしろ、健康が一番だ」 = dù làm gì đi nữa.\n- **AにしろBにしろ**: dù A hay B (xem 10課): 「参加するにしろしないにしろ、返事をください」.\n\nMức độ trang trọng: にしても (văn nói) < にしろ < にせよ (văn viết, xem b29).",
+      "nuance": "Vế sau thường là **ý kiến, yêu cầu, phán đoán, phê phán** của người nói (〜べきだ, 〜てほしい, 〜でしょう, 〜はよくない). Danh từ đi thẳng với にしても, không chen だ.",
+      "examples": [
+        {
+          "ja": "{忙|いそが}しいにしても、{電話|でんわ}{一本|いっぽん}ぐらいはできるでしょう。",
+          "vi": "Bận thì bận, nhưng một cuộc điện thoại thì cũng gọi được chứ.",
+          "note": "Vế sau: phê phán nhẹ"
+        },
+        {
+          "ja": "{冗談|じょうだん}にしても、{言|い}っていいことと{悪|わる}いことがある。",
+          "vi": "Dù là nói đùa đi nữa thì cũng có chuyện nên nói và không nên nói.",
+          "note": "N + にしても"
+        },
+        {
+          "ja": "{何|なに}をするにしろ、{健康|けんこう}が{一番|いちばん}{大切|たいせつ}だ。",
+          "vi": "Dù làm gì đi nữa thì sức khoẻ vẫn là quan trọng nhất.",
+          "note": "Từ để hỏi + にしろ"
+        },
+        {
+          "ja": "{参加|さんか}するにしろしないにしろ、{金曜日|きんようび}までに{返事|へんじ}をください。",
+          "vi": "Dù tham gia hay không thì cũng xin trả lời trước thứ Sáu.",
+          "note": "AにしろBにしろ"
+        },
+        {
+          "ja": "いくら{安|やす}いにしても、こんなに{質|しつ}の{悪|わる}いものは{買|か}いたくない。",
+          "vi": "Dù rẻ đến mấy, tôi cũng không muốn mua thứ chất lượng tệ thế này.",
+          "note": "いくら〜にしても"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜にしては (trong bài này)",
+          "diff": "「にしても」 = **dù** A thì B vẫn (nhượng bộ). 「にしては」 = **so với** A thì B bất ngờ (lấy A làm thước đo). Chỉ khác một chữ — đọc kỹ đáp án!"
+        },
+        {
+          "with": "〜にせよ (xem b29 — 古い言葉)",
+          "diff": "Nghĩa giống hệt, chỉ là dạng cổ / văn viết hơn."
+        }
+      ],
+      "mistakes": [
+        "✗ {雨|あめ}だにしても、{行|い}きます。→ ○ 雨にしても (N đi thẳng với にしても)",
+        "✗ {学生|がくせい}にしても、よく{勉強|べんきょう}するね (ý muốn \"so với học sinh\") → ○ 学生にしては…"
+      ],
+      "tip": "Có 「いくら／たとえ／何・誰・どこ」 hoặc cấu trúc lặp 「〜にしろ〜にしろ」 → chọn 「にしても／にしろ」, không phải 「にしては」."
+    },
+    {
+      "id": "b28-10",
+      "pattern": "〜にしては",
+      "reading": "〜にしては",
+      "meaning": "So với (tiêu chuẩn của) A thì… (khác với dự đoán)",
+      "structure": [
+        "N ＋ にしては",
+        "V普通形 ＋ にしては"
+      ],
+      "explain": "Gốc: 「に」 + 「する」 + 「ては」 = \"nếu **lấy A làm thước đo**\" (xem 19課). A là một **sự thật cụ thể** (đúng là trẻ con, đúng là lần đầu, đúng là tháng 11), và B **lệch khỏi mức bình thường** mà A gợi ra — có thể khen hoặc chê.\n\n- 「初めて作ったにしては、おいしい」 — với một người làm lần đầu thì ngon bất ngờ.\n- 「プロにしては、ミスが多い」 — là dân chuyên nghiệp mà mắc lỗi nhiều quá.\n\nDanh từ hay gặp: 初めて, 初心者, 学生, 子ども, 〜歳, 〜月, プロ, 駅前, 〜年住んでいる.",
+      "nuance": "Vế sau là **nhận xét, đánh giá** của người nói, không phải ý chí / mong muốn. A thường là danh từ hoặc động từ cụ thể; với tính từ chỉ mức độ thì dùng 「わりに」 tự nhiên hơn.",
+      "examples": [
+        {
+          "ja": "{彼|かれ}は{日本|にほん}に{来|き}て{半年|はんとし}にしては、{日本語|にほんご}がとても{上手|じょうず}だ。",
+          "vi": "So với người mới sang Nhật nửa năm thì tiếng Nhật của anh ấy rất giỏi.",
+          "note": "Khen"
+        },
+        {
+          "ja": "{初|はじ}めて{作|つく}ったにしては、なかなかおいしいケーキだ。",
+          "vi": "Làm lần đầu mà bánh ngon ra phết.",
+          "note": "V普通形 + にしては"
+        },
+        {
+          "ja": "この{部屋|へや}は{駅前|えきまえ}にしては{家賃|やちん}が{安|やす}い。",
+          "vi": "Phòng này ở ngay trước ga mà tiền thuê rẻ.",
+          "note": ""
+        },
+        {
+          "ja": "プロの{選手|せんしゅ}にしては、{今日|きょう}のプレーはミスが{多|おお}すぎた。",
+          "vi": "Là cầu thủ chuyên nghiệp mà hôm nay chơi mắc lỗi nhiều quá.",
+          "note": "Chê"
+        },
+        {
+          "ja": "11{月|がつ}にしては{暖|あたた}かい{日|ひ}が{続|つづ}いている。",
+          "vi": "So với tháng 11 thì mấy hôm nay ấm quá.",
+          "note": ""
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜わりに(は) (xem 19課)",
+          "diff": "「わりに」 đi với **mức độ** (値段のわりに, 年齢のわりに, 安いわりに). 「にしては」 đi với **sự thật cụ thể** (10歳にしては, 初めて作ったにしては)."
+        },
+        {
+          "with": "〜としては",
+          "diff": "「としては」 = **với tư cách / ở vị trí** A (私としては賛成だ). 「にしては」 = so với chuẩn A thì bất ngờ."
+        }
+      ],
+      "mistakes": [
+        "✗ {学生|がくせい}にしては、もっと{勉強|べんきょう}するつもりだ。→ vế sau là đánh giá, không phải ý định.",
+        "✗ {安|やす}いにしては{品質|ひんしつ}がいい。→ tự nhiên hơn: 安いわりに品質がいい"
+      ],
+      "tip": "Vế sau là **khen / chê bất ngờ** (上手だ・おいしい・多すぎる) và A là con số, mùa, thân phận cụ thể → 「にしては」."
+    },
+    {
+      "id": "b28-11",
+      "pattern": "〜にしたら・〜にすれば",
+      "reading": "〜にしたら・〜にすれば",
+      "meaning": "Đứng ở vị trí của A mà nghĩ thì… (đoán tâm lý, suy nghĩ của A)",
+      "structure": [
+        "N(người・tổ chức) ＋ にしたら／にすれば／にしてみれば"
+      ],
+      "explain": "Gốc: 「に」 (vị trí) + 「する」 (đóng vai, trở thành) + たら／ば → \"nếu **đặt mình vào chỗ** A\" (xem 19課).\n\nNgười nói **tưởng tượng cảm xúc / suy nghĩ của một người khác**: 「{新人|しんじん}にしたら、{会議|かいぎ}で{意見|いけん}を{言|い}うのは{勇気|ゆうき}がいるだろう」 — đứng ở vị trí người mới thì phát biểu ý kiến trong cuộc họp hẳn cần can đảm lắm.\n\nVế sau thường là **suy đoán tâm lý**: 〜だろう, 〜はずだ, 〜かもしれない, 〜のだ, 〜ものだ, 困る／嬉しい／つらい.\n\n「にしてみれば」 = nhấn mạnh hơn: \"thử đứng ở chỗ A mà xem\".",
+      "nuance": "Danh từ là **người hoặc bên liên quan** (子ども, 親, 店, 会社, 住民). Thường nói về người khác; khi nói 「私にしてみれば」 là để đối lập cách nhìn của mình với người khác.",
+      "examples": [
+        {
+          "ja": "{子|こ}どもにしたら、{親|おや}の{転勤|てんきん}で{何度|なんど}も{学校|がっこう}が{変|か}わるのはつらいだろう。",
+          "vi": "Đứng ở phía con trẻ, việc phải chuyển trường nhiều lần vì bố mẹ đổi chỗ làm hẳn là khổ lắm.",
+          "note": "+ だろう"
+        },
+        {
+          "ja": "{祖母|そぼ}にしたら、{孫|まご}からの{電話|でんわ}が{何|なに}よりの{楽|たの}しみなのだ。",
+          "vi": "Với bà tôi thì cuộc điện thoại của cháu là niềm vui hơn hết đấy.",
+          "note": "+ のだ"
+        },
+        {
+          "ja": "{店|みせ}にすれば、{雨|あめ}の{日|ひ}にお{客|きゃく}が{減|へ}るのは{大|おお}きな{痛手|いたで}だ。",
+          "vi": "Về phía cửa hàng, ngày mưa khách giảm là một tổn thất lớn.",
+          "note": "Tổ chức cũng được"
+        },
+        {
+          "ja": "{先生|せんせい}にしてみれば、{何度|なんど}{注意|ちゅうい}しても{宿題|しゅくだい}を{出|だ}さない{学生|がくせい}は{頭|あたま}の{痛|いた}い{存在|そんざい}だろう。",
+          "vi": "Thử đặt mình vào vị trí giáo viên, sinh viên nhắc bao lần vẫn không nộp bài hẳn là nỗi đau đầu.",
+          "note": "にしてみれば"
+        },
+        {
+          "ja": "{住民|じゅうみん}にすれば、{夜中|よなか}の{工事|こうじ}の{音|おと}は{我慢|がまん}できないものだ。",
+          "vi": "Đối với người dân, tiếng ồn công trình lúc nửa đêm là thứ không thể chịu được.",
+          "note": "+ ものだ"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜にとって (xem 19課)",
+          "diff": "「にとって」 + **đánh giá khách quan** (大切だ・難しい・必要だ). 「にしたら」 + **cảm xúc / suy nghĩ tưởng tượng** của người đó (つらいだろう・心配なのだ)."
+        },
+        {
+          "with": "〜にしては (trong bài này)",
+          "diff": "「母にしたら」 = đứng ở vị trí mẹ mà nghĩ. 「母にしては」 = so với một bà mẹ thì (bất ngờ). Đừng nhầm hai chữ cuối."
+        }
+      ],
+      "mistakes": [
+        "✗ {部長|ぶちょう}にすれば、{会議|かいぎ}に{出席|しゅっせき}してください。→ vế sau phải là suy đoán tâm lý, không phải yêu cầu.",
+        "✗ {子|こ}どもとしたら、つらいだろう (ý: đứng ở vị trí đứa trẻ) → ○ 子どもにしたら (「と」したら = giả định)"
+      ],
+      "tip": "Danh từ chỉ **người** + chỗ trống + vế sau có 「〜だろう・〜はずだ」 nói về cảm xúc của người đó → 「にしたら／にすれば」."
+    },
+    {
+      "id": "b28-12",
+      "pattern": "〜からすると・〜からいうと",
+      "reading": "〜からすると・〜からいうと",
+      "meaning": "Xét từ (góc độ / lập trường / căn cứ) A thì… (mới)",
+      "structure": [
+        "N ＋ からすると／からすれば",
+        "N ＋ からいうと／からいえば"
+      ],
+      "explain": "**Mẫu mới.** Gốc: 「から」 (điểm xuất phát) + 「する」 (phán đoán) hoặc 「言う」 (nói ra) → \"nếu **lấy A làm điểm xuất phát** để phán đoán / để nói\".\n\nDanh từ A có hai loại:\n- **Lập trường, góc nhìn**: 医師の立場からいうと, 消費者からすると, 日本人の感覚からすれば.\n- **Căn cứ, tiêu chí**: 性能からすると, 燃費からすると, この足跡からすると, 結果からいうと.\n\nVế sau là **nhận định, đánh giá, suy đoán** (〜だ, 〜ほうがいい, 〜ようだ, 〜はずだ).\n\nQuán ngữ cực hay gặp: 「**結論からいうと**」 = nói kết luận trước nhé.",
+      "nuance": "「からいうと／からいえば」 hợp với **tiêu chí, quan điểm trừu tượng** (立場, 観点, 結論, 経験). 「からすると／からすれば」 rộng hơn, dùng được cả với **căn cứ cụ thể nhìn thấy** (表情, 足跡, 口ぶり) để suy đoán.",
+      "examples": [
+        {
+          "ja": "{燃費|ねんぴ}からすると、この{車|くるま}のほうがずっと{経済的|けいざいてき}だ。",
+          "vi": "Xét về mức tiêu hao nhiên liệu thì chiếc xe này kinh tế hơn nhiều.",
+          "note": "Tiêu chí so sánh"
+        },
+        {
+          "ja": "{教師|きょうし}の{立場|たちば}からいうと、{宿題|しゅくだい}は{少|すこ}しずつでも{毎日|まいにち}やってほしい。",
+          "vi": "Từ góc độ giáo viên mà nói, tôi muốn các em làm bài tập mỗi ngày, dù ít thôi cũng được.",
+          "note": "立場からいうと"
+        },
+        {
+          "ja": "{結論|けつろん}からいうと、{今回|こんかい}の{計画|けいかく}は{中止|ちゅうし}すべきです。",
+          "vi": "Nói kết luận trước: kế hoạch lần này nên dừng lại.",
+          "note": "Quán ngữ"
+        },
+        {
+          "ja": "この{足跡|あしあと}の{大|おお}きさからすると、かなり{大|おお}きな{動物|どうぶつ}のようだ。",
+          "vi": "Xét kích thước dấu chân này thì có vẻ là một con vật khá lớn.",
+          "note": "Căn cứ cụ thể → suy đoán"
+        },
+        {
+          "ja": "{日本人|にほんじん}の{感覚|かんかく}からすれば、{約束|やくそく}の{時間|じかん}に{遅|おく}れるのはかなり{失礼|しつれい}なことだ。",
+          "vi": "Theo cảm nhận của người Nhật thì đến muộn giờ hẹn là việc khá thất lễ.",
+          "note": "からすれば"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜からして (trong bài này)",
+          "diff": "「からして」 có sắc thái **\"ngay cả cái nhỏ nhất đã…\"**. 「からすると」 chỉ đơn thuần **\"xét từ\"**."
+        },
+        {
+          "with": "〜にしたら (trong bài này)",
+          "diff": "「にしたら」 = đoán **cảm xúc** của một người cụ thể. 「からすると」 = phán đoán dựa trên **lập trường / tiêu chí**, khách quan hơn."
+        }
+      ],
+      "mistakes": [
+        "✗ {性能|せいのう}をすると… → ○ 性能からすると",
+        "Quán ngữ là 「結論からいうと／言えば」; 「結論からすると」 nghe kém tự nhiên."
+      ],
+      "tip": "Trước chỗ trống là 立場・観点・点・面・結論 hoặc một tiêu chí (値段・性能) → 「からいうと／からすると」."
+    }
+  ],
+  "summary": [
+    {
+      "pattern": "〜といった",
+      "meaning": "như là (liệt kê ví dụ)",
+      "key": "AやBといった + N nhóm"
+    },
+    {
+      "pattern": "〜といえば・〜というと",
+      "meaning": "nói đến A thì…",
+      "key": "liên tưởng / chuyển đề tài; というと = hỏi lại"
+    },
+    {
+      "pattern": "〜といったら",
+      "meaning": "nhắc đến A thì / A thì không tả nổi",
+      "key": "〜さといったらない = cực kỳ"
+    },
+    {
+      "pattern": "〜といっても",
+      "meaning": "nói là A nhưng thực ra…",
+      "key": "hạ mức độ; 〜だけ・程度"
+    },
+    {
+      "pattern": "〜からといって",
+      "meaning": "chỉ vì A mà…",
+      "key": "+ とは限らない／わけではない"
+    },
+    {
+      "pattern": "〜とはいいながら",
+      "meaning": "tuy là A nhưng…",
+      "key": "mới; văn viết; ≈ とはいうものの"
+    },
+    {
+      "pattern": "〜からして",
+      "meaning": "ngay từ A đã… / xét từ A",
+      "key": "題名・入り口・言い方; thường chê"
+    },
+    {
+      "pattern": "〜としたら・〜とすれば・〜とすると",
+      "meaning": "nếu giả sử A",
+      "key": "と + する = coi như; + だろう・か"
+    },
+    {
+      "pattern": "〜にしても・〜にしろ",
+      "meaning": "dù là A thì cũng",
+      "key": "nhượng bộ; 何〜にしろ; AにしろBにしろ"
+    },
+    {
+      "pattern": "〜にしては",
+      "meaning": "so với A thì (bất ngờ)",
+      "key": "A là sự thật cụ thể; ≠ にしても"
+    },
+    {
+      "pattern": "〜にしたら・〜にすれば",
+      "meaning": "đứng ở vị trí A mà nghĩ",
+      "key": "N người + đoán cảm xúc (だろう)"
+    },
+    {
+      "pattern": "〜からすると・〜からいうと",
+      "meaning": "xét từ góc độ A",
+      "key": "mới; 立場・性能; 結論からいうと"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b28-q1",
+      "kind": "form",
+      "ref": "b28-1",
+      "q": "この{図書館|としょかん}では、{絵本|えほん}の{読|よ}み{聞|き}かせや{工作|こうさく}{教室|きょうしつ}（　　）イベントが{毎月|まいつき}{開|ひら}かれている。",
+      "options": [
+        "といえば",
+        "といった",
+        "といっても",
+        "とすれば"
+      ],
+      "answer": 1,
+      "vi": "Thư viện này mỗi tháng đều tổ chức các sự kiện như đọc truyện tranh cho trẻ, lớp thủ công.",
+      "why": "Trước chỗ trống là danh sách ví dụ (〜や〜), sau là danh từ nhóm 「イベント」 → **といった**. 「といえば」 cần vế sau là điều liên tưởng, không nối thẳng với danh từ; 「といっても」 = nói là… nhưng; 「とすれば」 = giả định."
+    },
+    {
+      "id": "b28-q2",
+      "kind": "form",
+      "ref": "b28-4",
+      "q": "「お{宅|たく}には{庭|にわ}があるんですか。」「ええ。でも{庭|にわ}（　　）、{花|はな}を{少|すこ}し{植|う}えているだけの{狭|せま}いところですよ。」",
+      "options": [
+        "といったら",
+        "からして",
+        "にしては",
+        "といっても"
+      ],
+      "answer": 3,
+      "vi": "\"Nhà anh có vườn à?\" \"Vâng. Nhưng gọi là vườn chứ chỉ là chỗ hẹp trồng ít hoa thôi.\"",
+      "why": "Người nói **hạ ấn tượng** của từ 「庭」 xuống (〜だけの狭いところ) → **といっても**. 「といったら」 là nhấn mạnh / cảm thán; 「からして」 = ngay từ A đã…; 「にしては」 = so với A thì bất ngờ — không hợp."
+    },
+    {
+      "id": "b28-q3",
+      "kind": "form",
+      "ref": "b28-5",
+      "q": "{日本人|にほんじん}だ（　　）、{誰|だれ}でも{敬語|けいご}を{正|ただ}しく{使|つか}えるわけではない。",
+      "options": [
+        "からといって",
+        "からして",
+        "としたら",
+        "というと"
+      ],
+      "answer": 0,
+      "vi": "Không phải cứ là người Nhật thì ai cũng dùng kính ngữ đúng.",
+      "why": "Cuối câu 「わけではない」 bác bỏ suy luận \"là người Nhật ⇒ dùng kính ngữ giỏi\" → **からといって**. 「からして」 đi thẳng với danh từ (日本人からして), không có だ; 「としたら」 = giả định; 「というと」 = nhắc đến."
+    },
+    {
+      "id": "b28-q4",
+      "kind": "form",
+      "ref": "b28-10",
+      "q": "{入社|にゅうしゃ}{一年目|いちねんめ}（　　）、{彼|かれ}のプレゼンはとても{堂々|どうどう}としていた。",
+      "options": [
+        "にしたら",
+        "にしても",
+        "にしては",
+        "からといって"
+      ],
+      "answer": 2,
+      "vi": "So với một nhân viên mới vào năm đầu thì bài thuyết trình của anh ấy rất tự tin.",
+      "why": "Lấy 「入社一年目」 làm thước đo, kết quả **bất ngờ** (rất tự tin) → **にしては**. 「にしたら」 = đứng ở vị trí người đó mà nghĩ; 「にしても」 = dù là… thì cũng (nhượng bộ); 「からといって」 cần vế sau phủ định."
+    },
+    {
+      "id": "b28-q5",
+      "kind": "form",
+      "ref": "b28-6",
+      "q": "{頭|あたま}では{分|わ}かっている（　　）、{甘|あま}いものを{見|み}るとつい{手|て}が{出|で}てしまう。",
+      "options": [
+        "とはいいながら",
+        "といった",
+        "とすれば",
+        "からすると"
+      ],
+      "answer": 0,
+      "vi": "Dù trong đầu biết rõ, vậy mà cứ thấy đồ ngọt là tay lại vô thức với lấy.",
+      "why": "A là sự thật (biết là không nên), vế sau **trái với điều đó** (つい〜てしまう) → **とはいいながら**. 「といった」 cần danh từ phía sau; 「とすれば」 = giả định; 「からすると」 = xét từ góc độ."
+    },
+    {
+      "id": "b28-q6",
+      "kind": "form",
+      "ref": "b28-11",
+      "q": "{転校|てんこう}を{繰|く}り{返|かえ}してきた{子|こ}ども（　　）、{新|あたら}しい{友達|ともだち}を{作|つく}るのは{簡単|かんたん}なことではないだろう。",
+      "options": [
+        "にしては",
+        "からして",
+        "といえば",
+        "にしたら"
+      ],
+      "answer": 3,
+      "vi": "Đứng ở vị trí một đứa trẻ phải chuyển trường liên tục, việc kết bạn mới hẳn không dễ dàng.",
+      "why": "Đặt mình vào chỗ **người** A rồi đoán cảm xúc (〜だろう) → **にしたら**. 「にしては」 = so với… thì bất ngờ; 「からして」 = ngay từ…; 「といえば」 = nhắc đến… (chuyển đề tài)."
+    },
+    {
+      "id": "b28-q7",
+      "kind": "order",
+      "ref": "b28-12",
+      "q": "{専門家|せんもんか}の ＿＿＿ ＿＿＿ ★ ＿＿＿ {危険|きけん}だそうだ。",
+      "options": [
+        "からいうと",
+        "かなり",
+        "その方法は",
+        "立場"
+      ],
+      "order": [
+        3,
+        0,
+        2,
+        1
+      ],
+      "answer": 2,
+      "vi": "Nghe nói xét từ góc độ chuyên gia thì phương pháp đó khá nguy hiểm.",
+      "why": "専門家の **立場 からいうと その方法は かなり** 危険だそうだ → ★ (ô thứ 3) = 「その方法は」. 「の」 cần danh từ 「立場」; 「からいうと」 theo sau; chủ đề 「その方法は」 rồi trạng từ 「かなり」 bổ nghĩa cho 「危険」."
+    }
+  ],
+  "practice": [
+    {
+      "id": "b28-p1",
+      "kind": "form",
+      "ref": "b28-2",
+      "q": "「{昨日|きのう}、{駅前|えきまえ}で{山本|やまもと}さんに{会|あ}ったよ。」「{山本|やまもと}さん（　　）、{来月|らいげつ}{結婚|けっこん}するらしいね。」",
+      "options": [
+        "といえば",
+        "からといって",
+        "にしては",
+        "としたら"
+      ],
+      "answer": 0,
+      "vi": "\"Hôm qua tớ gặp anh Yamamoto trước ga đấy.\" \"Nhắc đến anh Yamamoto mới nhớ, nghe nói tháng sau anh ấy cưới nhỉ.\"",
+      "why": "Bắt lấy cái tên người kia vừa nói để **chuyển sang thông tin liên quan** → **といえば**. 「からといって」 cần phủ định; 「にしては」 cần đánh giá bất ngờ; 「としたら」 = giả định, không hợp hội thoại này."
+    },
+    {
+      "id": "b28-p2",
+      "kind": "form",
+      "ref": "b28-3",
+      "q": "やっと{頂上|ちょうじょう}に{着|つ}いた{時|とき}の{気持|きも}ちよさ（　　）なかった。",
+      "options": [
+        "からして",
+        "にしろ",
+        "といったら",
+        "といっても"
+      ],
+      "answer": 2,
+      "vi": "Cảm giác sảng khoái khi cuối cùng cũng lên tới đỉnh thì không gì sánh được.",
+      "why": "Danh từ mức độ đuôi 〜さ + 「なかった」 → khuôn **〜といったらない** (cực kỳ). 「からして」「にしろ」「といっても」 không tạo thành khuôn cảm thán với 「ない」."
+    },
+    {
+      "id": "b28-p3",
+      "kind": "form",
+      "ref": "b28-7",
+      "q": "あの{店|みせ}は{店員|てんいん}の{言葉|ことば}づかい（　　）{乱暴|らんぼう}で、{二度|にど}と{行|い}きたくない。",
+      "options": [
+        "といった",
+        "からして",
+        "にしたら",
+        "とすれば"
+      ],
+      "answer": 1,
+      "vi": "Quán đó ngay từ cách ăn nói của nhân viên đã thô lỗ, tôi không muốn quay lại lần nữa.",
+      "why": "Lấy một điểm \"cửa ngõ\" (cách nói của nhân viên) để chê cả quán → **からして**. 「といった」 cần danh sách + danh từ nhóm; 「にしたら」 cần danh từ người và suy đoán tâm lý; 「とすれば」 = giả định."
+    },
+    {
+      "id": "b28-p4",
+      "kind": "form",
+      "ref": "b28-8",
+      "q": "もし{一億円|いちおくえん}もらえる（　　）、{何|なに}に{使|つか}いますか。",
+      "options": [
+        "からして",
+        "にしては",
+        "からといって",
+        "としたら"
+      ],
+      "answer": 3,
+      "vi": "Nếu được nhận một trăm triệu yên thì bạn sẽ dùng vào việc gì?",
+      "why": "「もし」 + giả định tưởng tượng + câu hỏi → **としたら**. 「からして」 cần danh từ; 「にしては」 cần sự thật để so sánh; 「からといって」 cần vế sau phủ định."
+    },
+    {
+      "id": "b28-p5",
+      "kind": "form",
+      "ref": "b28-9",
+      "q": "たとえ{冗談|じょうだん}（　　）、{人|ひと}の{外見|がいけん}を{笑|わら}うのはよくない。",
+      "options": [
+        "にしては",
+        "からすると",
+        "といえば",
+        "にしても"
+      ],
+      "answer": 3,
+      "vi": "Dù là nói đùa đi nữa, cười chê ngoại hình người khác là không tốt.",
+      "why": "「たとえ」 + nhượng bộ + vế sau phê phán → **にしても**. 「にしては」 = so với… (đây không phải đánh giá bất ngờ); 「からすると」 = xét từ góc độ; 「といえば」 = nhắc đến."
+    },
+    {
+      "id": "b28-p6",
+      "kind": "usage",
+      "ref": "b28-1",
+      "q": "「〜といった」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "昨日、山田さんといった人から電話がありました。",
+        "地震や台風といった自然災害に備えておく必要がある。",
+        "彼女が好きな果物は、りんごやみかんといった。",
+        "日本の首都といった東京に住んでいます。"
+      ],
+      "answer": 1,
+      "vi": "(2) Cần chuẩn bị sẵn sàng trước các thiên tai như động đất, bão.",
+      "why": "(2) danh sách ví dụ + danh từ nhóm 「自然災害」 → đúng. (1) một người cụ thể → 山田さんという人; (3) không có danh từ nhóm phía sau; (4) đây là đồng vị, không phải liệt kê → 日本の首都である東京."
+    },
+    {
+      "id": "b28-p7",
+      "kind": "form",
+      "ref": "b28-12",
+      "q": "これまでの{成績|せいせき}（　　）、{彼|かれ}の{合格|ごうかく}はまず{間違|まちが}いないだろう。",
+      "options": [
+        "からすると",
+        "からといって",
+        "といっても",
+        "にしても"
+      ],
+      "answer": 0,
+      "vi": "Xét theo thành tích từ trước đến nay thì việc cậu ấy đỗ gần như chắc chắn.",
+      "why": "Thành tích là **căn cứ** để suy đoán (〜だろう) → **からすると**. 「からといって」 cần vế sau phủ định; 「といっても」 hạ mức độ; 「にしても」 = dù là… thì cũng — không hợp nghĩa."
+    },
+    {
+      "id": "b28-p8",
+      "kind": "order",
+      "ref": "b28-5",
+      "q": "{値段|ねだん}が ＿＿＿ ＿＿＿ ★ ＿＿＿ {限|かぎ}らない。",
+      "options": [
+        "いいとは",
+        "高い",
+        "品質が",
+        "からといって"
+      ],
+      "order": [
+        1,
+        3,
+        2,
+        0
+      ],
+      "answer": 2,
+      "vi": "Giá đắt không có nghĩa là chất lượng chắc chắn tốt.",
+      "why": "値段が **高い からといって 品質が いいとは** 限らない → ★ (ô thứ 3) = 「品質が」. 「からといって」 đứng sau thể thường 「高い」; vế sau 「品質がいいとは限らない」."
+    },
+    {
+      "id": "b28-p9",
+      "kind": "form",
+      "ref": "b28-10",
+      "q": "この{料理|りょうり}は、{料理|りょうり}{教室|きょうしつ}に{通|かよ}い{始|はじ}めたばかりの{人|ひと}が{作|つく}った（　　）よくできている。",
+      "options": [
+        "にしたら",
+        "にしては",
+        "からいうと",
+        "としたら"
+      ],
+      "answer": 1,
+      "vi": "Món ăn này, so với người mới bắt đầu đi học nấu ăn làm, thì khá là được.",
+      "why": "Lấy \"người mới học\" làm thước đo, kết quả tốt **bất ngờ** → **にしては**. 「にしたら」 = đặt mình vào vị trí; 「からいうと」 cần danh từ lập trường / tiêu chí; 「としたら」 = giả định."
+    },
+    {
+      "id": "b28-p10",
+      "kind": "form",
+      "ref": "b28-6",
+      "q": "{暦|こよみ}の{上|うえ}では{春|はる}（　　）、{北国|きたぐに}ではまだ{雪|ゆき}が{深|ふか}く{積|つ}もっている。",
+      "options": [
+        "といえば",
+        "からして",
+        "にすれば",
+        "とはいいながら"
+      ],
+      "answer": 3,
+      "vi": "Tuy theo lịch đã là mùa xuân, nhưng ở miền Bắc tuyết vẫn còn phủ dày.",
+      "why": "A là sự thật (theo lịch là xuân), vế sau **trái với điều A gợi ra** (vẫn tuyết dày) → **とはいいながら**. 「といえば」 = liên tưởng; 「からして」 = ngay từ…; 「にすれば」 cần danh từ người."
+    },
+    {
+      "id": "b28-p11",
+      "kind": "form",
+      "ref": "b28-9",
+      "q": "{電車|でんしゃ}で{行|い}くにしろ、バスで{行|い}く（　　）、{一時間|いちじかん}はかかるだろう。",
+      "options": [
+        "にしろ",
+        "にしては",
+        "といっても",
+        "とすれば"
+      ],
+      "answer": 0,
+      "vi": "Dù đi tàu hay đi xe buýt thì chắc cũng mất một tiếng.",
+      "why": "Khuôn lặp **AにしろBにしろ** = dù A hay B. Vế đầu đã có 「にしろ」 → vế sau cũng là 「にしろ」. Các phương án khác không tạo được cặp này."
+    },
+    {
+      "id": "b28-p12",
+      "kind": "order",
+      "ref": "b28-11",
+      "q": "{店|みせ}に ＿＿＿ ＿＿＿ ★ ＿＿＿ {来|き}てほしいと{思|おも}っているだろう。",
+      "options": [
+        "{客|きゃく}に",
+        "すれば",
+        "{多|おお}くの",
+        "{少|すこ}しでも"
+      ],
+      "order": [
+        1,
+        3,
+        2,
+        0
+      ],
+      "answer": 2,
+      "vi": "Về phía cửa hàng, hẳn họ mong càng nhiều khách đến càng tốt.",
+      "why": "店に **すれば 少しでも 多くの 客に** 来てほしいと思っているだろう → ★ (ô thứ 3) = 「多くの」. 「店に」 + 「すれば」 thành mẫu 「にすれば」 (đứng ở vị trí cửa hàng); cụm cố định 「少しでも多くの + N」; 「客に来てほしい」."
+    }
+  ],
+  "test": [
+    {
+      "id": "b28-t1",
+      "kind": "form",
+      "ref": "b28-2",
+      "q": "「{来月|らいげつ}から{会議|かいぎ}はすべてオンラインで{行|おこな}います。」「（　　）、{会社|かいしゃ}に{来|こ}なくてもいいということですか。」",
+      "options": [
+        "といったら",
+        "というと",
+        "からして",
+        "にしては"
+      ],
+      "answer": 1,
+      "vi": "\"Từ tháng sau mọi cuộc họp sẽ tổ chức trực tuyến.\" \"Vậy tức là không cần đến công ty cũng được phải không ạ?\"",
+      "why": "Đứng đầu câu, **hỏi lại để xác nhận** ý người kia (〜ということですか) → **というと**. 「といったら」 không dùng để hỏi lại; 「からして」「にしては」 cần danh từ phía trước."
+    },
+    {
+      "id": "b28-t2",
+      "kind": "form",
+      "ref": "b28-4",
+      "q": "{日本|にほん}に{住|す}んでいた（　　）、{実際|じっさい}は{半年|はんとし}だけなので、{日本語|にほんご}はあまり{話|はな}せません。",
+      "options": [
+        "からして",
+        "にしたら",
+        "からすると",
+        "といっても"
+      ],
+      "answer": 3,
+      "vi": "Nói là từng sống ở Nhật chứ thực ra chỉ nửa năm thôi, nên tôi không nói tiếng Nhật được mấy.",
+      "why": "Người nói **hạ ấn tượng** (từng sống ở Nhật → chỉ nửa năm) → **といっても**. 「からして」「にしたら」「からすると」 đều đi với danh từ, không nối với 「住んでいた」 và không có nghĩa hạ mức độ."
+    },
+    {
+      "id": "b28-t3",
+      "kind": "form",
+      "ref": "b28-8",
+      "q": "{会議|かいぎ}が3{時|じ}に{終|お}わる（　　）、5{時|じ}の{新幹線|しんかんせん}には{十分|じゅうぶん}{間|ま}に{合|あ}うね。",
+      "options": [
+        "とすると",
+        "にしては",
+        "といっても",
+        "からといって"
+      ],
+      "answer": 0,
+      "vi": "Nếu cuộc họp kết thúc lúc 3 giờ thì kịp chuyến Shinkansen 5 giờ thừa sức nhỉ.",
+      "why": "Tiếp nhận thông tin (họp xong lúc 3 giờ) rồi **suy luận** → **とすると**. 「にしては」 = so với… thì bất ngờ, không có nghĩa điều kiện; 「といっても」 hạ mức độ; 「からといって」 cần vế sau phủ định."
+    },
+    {
+      "id": "b28-t4",
+      "kind": "form",
+      "ref": "b28-3",
+      "q": "{初|はじ}めて{大|おお}きな{舞台|ぶたい}に{立|た}った{時|とき}の{緊張|きんちょう}（　　）、{今|いま}でも{忘|わす}れられない。",
+      "options": [
+        "にしては",
+        "からといって",
+        "といったら",
+        "とすれば"
+      ],
+      "answer": 2,
+      "vi": "Sự hồi hộp khi lần đầu đứng trên sân khấu lớn thì đến giờ tôi vẫn không quên được.",
+      "why": "Danh từ cảm xúc 「緊張」 + nhấn mạnh mức độ → **といったら**. 「にしては」 = so với… bất ngờ; 「からといって」 cần phủ định suy luận; 「とすれば」 = giả định."
+    },
+    {
+      "id": "b28-t5",
+      "kind": "order",
+      "ref": "b28-7",
+      "q": "このレストランは ＿＿＿ ＿＿＿ ★ ＿＿＿ {違|ちが}う。",
+      "options": [
+        "雰囲気",
+        "ほかの店とは",
+        "からして",
+        "店の"
+      ],
+      "order": [
+        3,
+        0,
+        2,
+        1
+      ],
+      "answer": 2,
+      "vi": "Nhà hàng này ngay từ bầu không khí trong quán đã khác hẳn các quán khác.",
+      "why": "このレストランは **店の 雰囲気 からして ほかの店とは** 違う → ★ (ô thứ 3) = 「からして」. 「店の」 bổ nghĩa cho 「雰囲気」; 「からして」 đứng ngay sau danh từ; 「ほかの店とは違う」."
+    },
+    {
+      "id": "b28-t6",
+      "kind": "form",
+      "ref": "b28-12",
+      "q": "{結論|けつろん}（　　）、この{計画|けいかく}には{反対|はんたい}です。{理由|りゆう}は{三|みっ}つあります。",
+      "options": [
+        "からいうと",
+        "からといって",
+        "にしては",
+        "にしろ"
+      ],
+      "answer": 0,
+      "vi": "Nói kết luận trước: tôi phản đối kế hoạch này. Lý do có ba.",
+      "why": "Quán ngữ **結論からいうと** = nói kết luận trước. 「からといって」 cần vế sau phủ định; 「にしては」 = so với…; 「結論にしろ」 không có nghĩa."
+    },
+    {
+      "id": "b28-t7",
+      "kind": "usage",
+      "ref": "b28-5",
+      "q": "「〜からといって」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "雨が降ったからといって、試合は中止になった。",
+        "熱があるからといって、今日は学校を休みます。",
+        "試験に合格したからといって、みんなでお祝いしよう。",
+        "一度断られたからといって、諦める必要はない。"
+      ],
+      "answer": 3,
+      "vi": "(4) Chỉ vì bị từ chối một lần thì không cần phải bỏ cuộc.",
+      "why": "(4) bác bỏ suy luận \"bị từ chối ⇒ bỏ cuộc\" bằng 「必要はない」 → đúng. (1)(2)(3) vế sau là **hệ quả bình thường / ý định / rủ rê** của lý do, không phải phản bác → chỉ cần dùng 「ので／から」."
+    },
+    {
+      "id": "b28-t8",
+      "kind": "order",
+      "ref": "b28-9",
+      "q": "{理由|りゆう}が ＿＿＿ ＿＿＿ ★ ＿＿＿ べきだ。",
+      "options": [
+        "謝る",
+        "無断で休んだことは",
+        "何で",
+        "あるにしても"
+      ],
+      "order": [
+        2,
+        3,
+        1,
+        0
+      ],
+      "answer": 1,
+      "vi": "Dù lý do là gì đi nữa thì việc nghỉ không xin phép cũng phải xin lỗi.",
+      "why": "理由が **何で あるにしても 無断で休んだことは 謝る** べきだ → ★ (ô thứ 3) = 「無断で休んだことは」. Từ để hỏi 「何で」 + 「あるにしても」 = dù là gì; 「謝る」 đứng ngay trước 「べきだ」."
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "id": "d06",
+  "track": "dokkai",
+  "intro": "Từ bài này chuyển sang phần **kỹ thuật giải từng loại câu hỏi**. Loại đầu tiên và gặp nhiều nhất trong 内容理解: câu hỏi về **指示語** (từ chỉ thị) — 「[[u:それ]]は{何|なに}を{指|さ}しているか」「[[u:そういう{感覚|かんかく}]]とは何か」.\n\n指示語 là các từ こ・そ・あ・ど: これ／それ, この〜／その〜, こう／そう, こういう／そういう, こうした／そうした, こんな／そんな, そこ, このこと／そのこと… Tiếng Nhật dùng chúng liên tục để **khỏi lặp lại** một ý đã nói. Câu hỏi 指示語 thực chất là: \"Hãy khôi phục lại cái ý bị thay thế\".\n\nBa điều then chốt:\n- **Đáp án hầu như luôn nằm phía TRƯỚC** 指示語, và gần nhất là **câu ngay trước**. Hãy luôn bắt đầu tìm từ đó.\n- Nếu là dạng **指示語 + danh từ** (そういう感覚, この方法, そうした経験), danh từ đó là **gợi ý loại đáp án**: \"感覚\" thì phải tìm một cảm giác/ suy nghĩ, \"方法\" thì phải tìm một cách làm.\n- Luôn **thay đáp án vào chỗ gạch chân** và đọc lại câu — nếu câu không thông hoặc trái logic của tác giả thì sai.\n\nBẫy phổ biến của đề: phương án là **danh từ nằm gần** 指示語 nhưng không phải thứ được chỉ; phương án **thiếu hoặc thừa** một phần; phương án lấy nội dung ở **đoạn khác**.",
+  "strategy": [
+    {
+      "title": "Bước 1 · Đọc cả bài, nắm chủ đề trước",
+      "body": "Đừng nhảy ngay vào chỗ gạch chân. Đọc lướt cả bài, để ý từ khoá lặp lại để biết bài nói về gì. Khi đã hiểu mạch lập luận (tác giả đang khen cái gì, chê cái gì), bạn sẽ loại được những phương án \"đúng chữ nhưng sai mạch\" rất nhanh.\n\nTừ khoá lặp lại, và đôi khi cả **tiêu đề bài / tên sách ghi ở cuối đoạn trích**, cho bạn đoán trước chủ đề (không phải lúc nào cũng đúng, nhưng là gợi ý tốt)."
+    },
+    {
+      "title": "Bước 2 · Xác định HÌNH DẠNG của 指示語 → biết đáp án thuộc loại gì",
+      "body": "Mỗi loại 指示語 thay cho một loại nội dung khác nhau:\n- **これ／それ**: một vật, một việc, một hành động (thường dạng danh từ hoá: 〜こと).\n- **こう／そう**: một **nội dung** (câu nói, suy nghĩ) hoặc **cách thức**: 「そう信じていた」 = tin vào nội dung đó.\n- **この／その／そういう／そうした ＋ N**: nội dung thuộc loại N. Danh từ N là **gợi ý mạnh nhất**.\n- **そこ**: một chỗ, nhưng trong 評論 thường là **một điểm / một tình huống** trừu tượng (「そこに問題がある」).\n- **このように／こうして**: tổng kết cả đoạn trước.\n\nVí dụ: 「[[u:この方法]]で育った従業員は…」 → đáp án phải là **một cách làm** (〜させてから…教える方法), không thể là một con người hay một kết quả."
+    },
+    {
+      "title": "Bước 3 · Đọc kỹ câu chứa 指示語 — dùng vị ngữ làm bộ lọc",
+      "body": "Xem 指示語 đóng vai trò gì trong câu và **vị ngữ** nói gì về nó. Vị ngữ cho biết đáp án phải có tính chất gì.\n\nVí dụ: 「速く正確に記録することは機械にもできるが、[[u:これ]]は自分の頭でしかできない」 → これ = thứ \"chỉ làm được bằng đầu óc của mình\" và **đối lập** với \"ghi chép nhanh, chính xác\". Chỉ riêng câu này đã loại được phương án \"ghi chép nhanh, chính xác\"."
+    },
+    {
+      "title": "Bước 4 · Tìm ngược về phía trước — câu ngay trước là ưu tiên số 1",
+      "body": "- Thông thường: đọc **câu ngay trước** 指示語; nếu chưa thấy, lùi thêm từng câu.\n- 指示語 ở **đầu đoạn** (こうした現象を知っておくと…) thường tóm **cả đoạn (hoặc vài đoạn) trước**.\n- **Chuỗi 指示語**: nếu thứ bạn tìm thấy lại là một 指示語 khác (それ → これ → そんなこと), phải lùi tiếp cho đến khi gặp nội dung thật.\n- **Ngoại lệ chỉ về phía sau**: 「こう言った」「次のような」「以下の」「こんな話がある」 → nội dung nằm **ngay sau** (thường là một câu trích 「…」).\n- **こ vs そ** trong văn viết: **そ** chỉ thứ vừa được nhắc đến (khách quan); **こ** chỉ thứ tác giả đang tập trung bàn, hoặc thứ sắp nói tới. あ hiếm gặp trong 評論 (dùng cho ký ức chung giữa người nói và người nghe)."
+    },
+    {
+      "title": "Bước 5 · Diễn đạt lại và THAY VÀO chỗ gạch chân",
+      "body": "Đáp án đúng thường **diễn đạt lại** (言い換え, xem d02) nội dung trong bài, không chép nguyên văn. Vì vậy:\n1. Tự tóm nội dung bạn vừa tìm được thành một cụm ngắn.\n2. Thay phương án vào chỗ 指示語, đọc lại câu: 「〔ghi chép nhanh, chính xác〕は自分の頭でしかできない」 → vô lý → loại.\n3. Phương án đúng phải **vừa đủ**: không thiếu phần quan trọng, không thêm thông tin ngoài bài."
+    },
+    {
+      "title": "Bước 6 · Loại phương án theo 4 kiểu bẫy",
+      "body": "- **Bẫy \"gần nhưng sai\"**: danh từ đứng sát 指示語 nhưng không phải thứ được chỉ (vd そこ → chọn nhầm địa điểm cụ thể).\n- **Bẫy \"thiếu / thừa\"**: lấy đúng một nửa nội dung, hoặc thêm điều bài không nói.\n- **Bẫy \"sai vị trí\"**: nội dung có trong bài nhưng ở đoạn khác, không phải thứ 指示語 thay thế.\n- **Bẫy \"ngược vai\"**: lấy vế **bị đối lập** với thứ được chỉ (A ↔ これ, chọn A)."
+    }
+  ],
+  "signals": [
+    {
+      "ja": "これ／それ",
+      "vi": "cái này / cái đó, việc này / việc đó",
+      "note": "Thay cho vật hoặc việc. Đáp án thường có dạng 「〜こと」 hoặc danh từ."
+    },
+    {
+      "ja": "この〜／その〜",
+      "vi": "… này / … đó",
+      "note": "Danh từ đi sau là gợi ý: 「その判断」 → tìm một phán đoán; 「その道のり」 → tìm một quá trình."
+    },
+    {
+      "ja": "こう／そう",
+      "vi": "như thế này / như thế",
+      "note": "Thay cho một nội dung nói/nghĩ: 「当時の私はそう信じていた」. 「こう言った」 thường chỉ về **phía sau**: 「いつもこう言った。『…』」."
+    },
+    {
+      "ja": "こういう／そういう／こうした／そうした ＋ N",
+      "vi": "N như thế này / N như thế",
+      "note": "Hay tóm cả một câu hoặc cả một đoạn: 「そうした経験」 = những trải nghiệm vừa kể (có thể gồm nhiều ví dụ)."
+    },
+    {
+      "ja": "このような／そのような",
+      "vi": "như thế này / như thế (trang trọng)",
+      "note": "Giống こういう／そういう nhưng văn viết hơn."
+    },
+    {
+      "ja": "こんな／そんな",
+      "vi": "như thế này / như thế (khẩu ngữ)",
+      "note": "Đôi khi kèm sắc thái đánh giá (coi nhẹ, chê, bất ngờ): 「そんなやり方では、誰もついてこない」."
+    },
+    {
+      "ja": "このこと／そのこと",
+      "vi": "việc này / việc đó",
+      "note": "Thay cho cả một **mệnh đề** (một sự việc), không phải một từ đơn."
+    },
+    {
+      "ja": "そこ",
+      "vi": "chỗ đó / điểm đó / tình huống đó",
+      "note": "Trong 評論 thường trừu tượng: 「そこには…心理が働いている」 = trong tình trạng đó. Đừng vội chọn một địa điểm cụ thể."
+    },
+    {
+      "ja": "このように／こうして",
+      "vi": "như vậy / cứ thế",
+      "note": "Tổng kết quá trình hoặc nội dung vừa trình bày ở trước."
+    },
+    {
+      "ja": "次のような／以下の／こんな話がある",
+      "vi": "như sau / dưới đây",
+      "note": "**Chỉ về phía sau** — nội dung nằm ngay tiếp theo."
+    },
+    {
+      "ja": "{前者|ぜんしゃ}／{後者|こうしゃ}",
+      "vi": "cái trước / cái sau",
+      "note": "Cùng nhóm với 指示語: chỉ vế thứ nhất / thứ hai trong hai thứ vừa liệt kê."
+    },
+    {
+      "ja": "それは〜からだ／それで／そのため",
+      "vi": "đó là vì… / vì thế",
+      "note": "それ ở đây chỉ sự việc vừa nêu; dùng để nối lý do – kết quả (liên quan d09)."
+    },
+    {
+      "ja": "あの〜",
+      "vi": "… ấy (cái mà cả hai cùng biết)",
+      "note": "Chỉ ký ức chung / điều ai cũng biết; ít gặp trong 評論, hay gặp trong エッセイ kể chuyện."
+    }
+  ],
+  "passages": {
+    "p1": {
+      "title": "黒板を撮影する学生",
+      "kind": "評論",
+      "ja": "{授業|じゅぎょう}の{終|お}わりに、{黒板|こくばん}をスマートフォンで{撮影|さつえい}する{学生|がくせい}が{増|ふ}えている。ノートに{書|か}き{写|うつ}すより{速|はや}く、{正確|せいかく}に{記録|きろく}できるのだから、それ{自体|じたい}は{合理的|ごうりてき}な{方法|ほうほう}だと言える。\n\nただ、気になるのは、撮影した{写真|しゃしん}を{後|あと}で{見返|みかえ}す学生が{意外|いがい}に少ないことだ。ある{調査|ちょうさ}では、{半数|はんすう}{以上|いじょう}が「ほとんど見ない」と{答|こた}えたという。{撮|と}った{時点|じてん}で{安心|あんしん}してしまい、{内容|ないよう}を自分のものにした気になっているのだろう。\n\n手で書き写す{作業|さぎょう}には、時間がかかる。しかし、その{遅|おそ}さには{意味|いみ}がある。書きながら、どこが{大事|だいじ}か、前の{説明|せつめい}とどうつながるかを、私たちは{無意識|むいしき}のうちに{考|かんが}えている。速く正確に記録することは{機械|きかい}にもできるが、[[u1:これ]]は自分の{頭|あたま}でしかできない。\n\nもちろん、写真を撮ること自体が悪いわけではない。問題は、記録することと{理解|りかい}することを同じだと{思|おも}い{込|こ}んでしまう点にある。撮った写真をもとに、自分の{言葉|ことば}で{短|みじか}くまとめ{直|なお}してみる。[[u2:そうしたひと{手間|てま}]]を{加|くわ}えるだけで、写真は{単|たん}なる記録から、自分の{学|まな}びに{変|か}わるはずだ。",
+      "vi": "Cuối giờ học, số sinh viên chụp bảng bằng điện thoại đang tăng lên. Vì nhanh hơn chép vào vở và ghi lại được chính xác, có thể nói bản thân việc đó là một phương pháp hợp lý.\n\nChỉ có điều, điều khiến tôi bận tâm là số sinh viên xem lại ảnh đã chụp ít đến bất ngờ. Nghe nói trong một cuộc khảo sát, quá nửa trả lời là “hầu như không xem”. Có lẽ họ yên tâm ngay từ lúc chụp và tưởng rằng mình đã biến nội dung thành của mình rồi.\n\nViệc chép tay tốn thời gian. Nhưng sự chậm chạp đó có ý nghĩa. Trong khi viết, chúng ta vô thức suy nghĩ xem chỗ nào quan trọng, nó liên kết với phần giải thích trước như thế nào. Ghi lại nhanh và chính xác thì máy móc cũng làm được, nhưng (1) điều này thì chỉ có bộ óc của chính mình mới làm được.\n\nTất nhiên, bản thân việc chụp ảnh không phải là xấu. Vấn đề nằm ở chỗ đinh ninh rằng ghi chép và hiểu là một. Dựa vào ảnh đã chụp, thử tóm tắt lại ngắn gọn bằng lời của mình. Chỉ cần thêm (2) một chút công sức như vậy, bức ảnh hẳn sẽ chuyển từ một bản ghi đơn thuần thành việc học của chính mình."
+    },
+    "p2": {
+      "title": "行列が行列を呼ぶ",
+      "kind": "評論",
+      "ja": "{人気|にんき}の店の前に長い{行列|ぎょうれつ}ができていると、つい自分も{並|なら}んでみたくなる。多くの人が{選|えら}んでいるのだから、きっとおいしいに{違|ちが}いないと{考|かんが}えるからだ。[[u1:その{判断|はんだん}]]は、{必|かなら}ずしも{間違|まちが}いではない。{何|なに}も{情報|じょうほう}がないときに、{他人|たにん}の{選択|せんたく}を{参考|さんこう}にするのは、{失敗|しっぱい}を{避|さ}けるための{知恵|ちえ}でもある。\n\nしかし、行列がさらに行列を{呼|よ}ぶこともある。{最初|さいしょ}は{数人|すうにん}が{偶然|ぐうぜん}並んでいただけなのに、それを見た人が{加|くわ}わり、さらにそれを見た人が加わる。こうして、{味|あじ}とはあまり{関係|かんけい}なく、「並んでいるから人気がある」という{状態|じょうたい}が生まれてしまう。[[u2:そこ]]には、{実際|じっさい}の{評価|ひょうか}よりも、{周|まわ}りに合わせたいという{心理|しんり}が{強|つよ}く{働|はたら}いている。\n\n同じようなことは、インターネットの{世界|せかい}でも{起|お}きている。たくさん「いいね」がついた{投稿|とうこう}ほど目に入りやすく、さらに多くの「いいね」を{集|あつ}める。{中身|なかみ}が{優|すぐ}れているから{注目|ちゅうもく}されるのか、注目されているから優れて見えるのか、{区別|くべつ}するのは{難|むずか}しい。\n\n[[u3:こうした{現象|げんしょう}]]を知っておくと、{数|かず}の多さに{振|ふ}り{回|まわ}されずにすむ。行列に並ぶのも悪くはないが、ときには「自分は{本当|ほんとう}にこれが{欲|ほ}しいのか」と{問|と}い{直|なお}してみたい。",
+      "vi": "Khi thấy một hàng dài trước một quán nổi tiếng, ta bất giác cũng muốn thử xếp hàng. Bởi vì ta nghĩ rằng nhiều người đã chọn thì chắc chắn phải ngon. (1) Phán đoán đó không hẳn là sai. Khi không có thông tin gì, tham khảo lựa chọn của người khác cũng là một sự khôn ngoan để tránh thất bại.\n\nTuy nhiên, cũng có khi hàng người lại kéo thêm hàng người. Ban đầu chỉ là vài người tình cờ đứng xếp hàng, vậy mà người nhìn thấy cảnh đó nhập vào, rồi người nhìn thấy cảnh đó lại nhập vào tiếp. Cứ thế, một trạng thái “vì có người xếp hàng nên được ưa chuộng” ra đời, chẳng mấy liên quan đến hương vị. (2) Ở đó, tâm lý muốn hùa theo người xung quanh tác động mạnh hơn cả đánh giá thực tế.\n\nĐiều tương tự cũng đang xảy ra trong thế giới internet. Bài đăng càng có nhiều lượt “thích” thì càng dễ lọt vào mắt người khác, rồi lại thu thêm nhiều lượt “thích” nữa. Được chú ý vì nội dung hay, hay trông có vẻ hay vì được chú ý — thật khó mà phân biệt.\n\nNếu biết trước (3) những hiện tượng như vậy, ta sẽ không bị số đông xoay như chong chóng. Xếp hàng cũng không có gì xấu, nhưng đôi khi tôi muốn tự hỏi lại: “Mình có thật sự muốn thứ này không?”"
+    },
+    "p3": {
+      "title": "祖母の料理の教え",
+      "kind": "エッセイ",
+      "ja": "{祖母|そぼ}は{料理|りょうり}を{教|おし}えてくれるとき、いつもこう言った。「{分量|ぶんりょう}は書いておいてもいいけれど、{最後|さいご}は自分の{舌|した}で決めなさい」。{若|わか}いころの私には、[[u1:それ]]がずいぶんいい{加減|かげん}な教え方に{思|おも}えた。レシピの{通|とお}りに作りさえすれば、{誰|だれ}でも同じ{味|あじ}が出せる。{当時|とうじ}の私は[[u2:そう]]{信|しん}じていたからだ。しかし、自分で{台所|だいどころ}に{立|た}つようになって、{考|かんが}えが{変|か}わった。同じ{野菜|やさい}でも{季節|きせつ}によって{甘|あま}さが{違|ちが}うし、その日の{体調|たいちょう}によって、おいしいと{感|かん}じる{塩加減|しおかげん}も変わる。{数字|すうじ}はあくまで{出発点|しゅっぱつてん}にすぎない。祖母が{伝|つた}えたかったのは、レシピに{頼|たよ}りきらず、目の前の{材料|ざいりょう}と食べる人に合わせて考える{姿勢|しせい}だったのだと思う。",
+      "vi": "Mỗi khi dạy tôi nấu ăn, bà tôi luôn nói thế này: “Lượng gia vị thì cứ ghi lại cũng được, nhưng cuối cùng hãy quyết định bằng lưỡi của mình.” Với tôi hồi trẻ, (1) điều đó có vẻ là một cách dạy khá tuỳ tiện. Chỉ cần nấu đúng theo công thức thì ai cũng tạo ra được cùng một vị. Bởi vì hồi đó tôi tin (2) như vậy. Nhưng từ khi tự mình vào bếp, suy nghĩ của tôi đã thay đổi. Cùng một loại rau nhưng độ ngọt khác nhau theo mùa, và tuỳ thể trạng hôm đó mà độ mặn mình thấy ngon cũng thay đổi. Con số rốt cuộc cũng chỉ là điểm xuất phát. Tôi nghĩ điều bà muốn truyền lại là thái độ không phụ thuộc hoàn toàn vào công thức, mà suy nghĩ sao cho hợp với nguyên liệu trước mắt và người sẽ ăn."
+    },
+    "p4": {
+      "title": "マニュアルと考える力",
+      "kind": "評論",
+      "ja": "{新人|しんじん}に{仕事|しごと}を{教|おし}えるとき、多くの{職場|しょくば}ではマニュアルが使われる。{手順|てじゅん}が{細|こま}かく書かれていれば、{誰|だれ}が{担当|たんとう}しても{一定|いってい}の{質|しつ}を{保|たも}つことができる。{忙|いそが}しい{先輩|せんぱい}が{毎回|まいかい}同じ{説明|せつめい}をくり{返|かえ}す{手間|てま}も{省|はぶ}ける。\n\nところが、マニュアルがよくできている職場ほど、新人が{育|そだ}たないという話を聞くことがある。書かれた手順を{守|まも}ってさえいれば、とりあえず仕事は{回|まわ}る。そのため、なぜその手順なのかを{考|かんが}える{機会|きかい}がなくなってしまうのだ。[[u1:そういう{状態|じょうたい}]]では、マニュアルに書かれていない{事態|じたい}が{起|お}きたとき、どう{動|うご}けばよいかわからない。\n\nある{旅館|りょかん}の{女将|おかみ}は、新人に手順を教える前に、{必|かなら}ず「お{客様|きゃくさま}はこのとき何を{感|かん}じていると思う？」と{尋|たず}ねるそうだ。お{茶|ちゃ}を出す{順番|じゅんばん}一つにも{理由|りゆう}がある。それを自分で考えさせてから、{初|はじ}めて手順を見せる。{遠回|とおまわ}りなようだが、[[u2:この{方法|ほうほう}]]で育った{従業員|じゅうぎょういん}は、{思|おも}いがけない{場面|ばめん}でも、お客様の{立場|たちば}に立って自分で{判断|はんだん}できるようになるという。\n\nマニュアルは、考えることの{代|か}わりではなく、考えるための{土台|どだい}であるべきだろう。",
+      "vi": "Khi dạy việc cho người mới, ở nhiều nơi làm việc người ta dùng sổ tay hướng dẫn. Nếu quy trình được viết chi tiết thì dù ai phụ trách cũng giữ được chất lượng nhất định. Cũng tiết kiệm được công sức của các đàn anh bận rộn phải lặp lại cùng một lời giải thích mỗi lần.\n\nThế nhưng, đôi khi tôi nghe chuyện rằng nơi nào sổ tay càng được soạn kỹ thì người mới càng không trưởng thành. Chỉ cần tuân theo quy trình đã viết là công việc tạm thời vẫn chạy. Vì vậy, họ mất đi cơ hội suy nghĩ xem tại sao quy trình lại như thế. Trong (1) tình trạng như vậy, khi xảy ra tình huống không được ghi trong sổ tay, họ không biết nên hành động thế nào.\n\nNghe nói bà chủ một nhà trọ kiểu Nhật, trước khi dạy quy trình cho người mới, luôn hỏi: “Em nghĩ lúc này khách đang cảm thấy gì?” Ngay cả thứ tự rót trà cũng có lý do. Cho người mới tự suy nghĩ về điều đó, rồi mới cho xem quy trình. Tưởng như đi đường vòng, nhưng nghe nói những nhân viên được đào tạo bằng (2) phương pháp này, ngay cả trong những tình huống bất ngờ cũng có thể tự phán đoán, đứng trên lập trường của khách.\n\nSổ tay hướng dẫn có lẽ nên là nền móng để suy nghĩ, chứ không phải là thứ thay thế cho việc suy nghĩ."
+    },
+    "p5": {
+      "title": "若いうちの苦労",
+      "kind": "エッセイ",
+      "ja": "「{若|わか}いうちの{苦労|くろう}は{買|か}ってでもせよ」という{言葉|ことば}がある。若いときの苦労は{将来|しょうらい}{必|かなら}ず{役|やく}に{立|た}つから、自分から{求|もと}めてでも{経験|けいけん}しておけ、という{意味|いみ}だ。{最近|さいきん}では、[[u:この{考|かんが}え{方|かた}]]は{古|ふる}いと言われることも多い。{理不尽|りふじん}な{長時間|ちょうじかん}{労働|ろうどう}を{正当化|せいとうか}するために使われてきた{面|めん}があるからだろう。{確|たし}かに、意味のない{我慢|がまん}を{若者|わかもの}に{強|し}いるのは{間違|まちが}っている。ただ、自分で{選|えら}んだ{難|むずか}しい{挑戦|ちょうせん}に{取|と}り{組|く}み、{失敗|しっぱい}しながら{工夫|くふう}した経験が、{後|あと}になって{支|ささ}えになるのも{事実|じじつ}だ。苦労そのものに{価値|かち}があるのではなく、その中で何を考えたかが{問|と}われているのだと思う。",
+      "vi": "Có câu nói: “Gian khổ lúc còn trẻ thì dù phải bỏ tiền ra mua cũng nên trải qua.” Nghĩa là gian khổ thời trẻ chắc chắn sẽ có ích về sau, nên dù phải tự mình tìm đến cũng hãy trải nghiệm trước đi. Gần đây, người ta cũng hay nói rằng (cách suy nghĩ này) đã lỗi thời. Có lẽ là vì nó từng bị dùng để biện minh cho việc làm thêm giờ dài một cách vô lý. Đúng là bắt người trẻ chịu đựng những điều vô nghĩa là sai. Nhưng cũng là sự thật rằng trải nghiệm tự mình theo đuổi một thử thách khó do mình chọn, vừa thất bại vừa tìm tòi cách làm, về sau sẽ trở thành chỗ dựa. Tôi nghĩ giá trị không nằm ở bản thân gian khổ, mà điều được đặt ra là ta đã suy nghĩ được gì trong lúc đó."
+    },
+    "p6": {
+      "title": "地図アプリと町の記憶",
+      "kind": "エッセイ",
+      "ja": "{地図|ちず}アプリが{普及|ふきゅう}してから、知らない{町|まち}でも{迷|まよ}うことはほとんどなくなった。{目的地|もくてきち}を{入力|にゅうりょく}すれば、{曲|ま}がる{角|かど}まで{画面|がめん}が教えてくれる。[[u1:これ]]ほど{心強|こころづよ}い{道具|どうぐ}はないだろう。\n\nけれども、{最近|さいきん}ふと{気|き}づいたことがある。アプリに{従|したが}って{何度|なんど}も{通|とお}った道なのに、地図を{閉|と}じると、自分がどこにいるのかまるでわからないのだ。画面の{矢印|やじるし}ばかり見ていて、町の{景色|けしき}をほとんど見ていなかったのである。\n\nかつては、迷えば人に道を{尋|たず}ねるしかなかった。{商店|しょうてん}のおじさんが店の外まで出てきて、「あの赤いポストを右ですよ」と教えてくれたりもした。{遠回|とおまわ}りをして、{偶然|ぐうぜん}いい{喫茶店|きっさてん}を{見|み}つけたこともある。[[u2:そうした{経験|けいけん}]]の一つ一つが、町の{記憶|きおく}として{体|からだ}に{残|のこ}っていた。\n\nアプリを使うなとは言わない。ただ、{急|いそ}ぐ{必要|ひつよう}のない日くらいは、画面を閉じて{歩|ある}いてみるのもいい。[[u3:そのとき]]{初|はじ}めて、町は{通|とお}り{過|す}ぎる{場所|ばしょ}から、自分が知っている場所に{変|か}わるのかもしれない。",
+      "vi": "Từ khi ứng dụng bản đồ trở nên phổ biến, ngay cả ở thành phố lạ tôi cũng hầu như không còn bị lạc. Chỉ cần nhập điểm đến là màn hình chỉ cho cả góc phố phải rẽ. Có lẽ không có công cụ nào đáng tin cậy bằng (1) thứ này.\n\nNhưng gần đây tôi chợt nhận ra một điều. Dù là con đường đã đi qua nhiều lần theo chỉ dẫn của ứng dụng, vậy mà hễ tắt bản đồ là tôi hoàn toàn không biết mình đang ở đâu. Hoá ra tôi chỉ toàn nhìn mũi tên trên màn hình, hầu như chẳng nhìn cảnh vật của phố phường.\n\nNgày xưa, hễ lạc đường thì chỉ còn cách hỏi người khác. Có khi ông chủ tiệm đi hẳn ra ngoài cửa để chỉ: “Đến cái hòm thư màu đỏ kia thì rẽ phải nhé.” Cũng có lần đi đường vòng mà tình cờ tìm được một quán cà phê hay. Từng (2) trải nghiệm như thế đã đọng lại trong cơ thể như ký ức về phố phường.\n\nTôi không nói là đừng dùng ứng dụng. Chỉ là ít nhất vào những ngày không cần vội, thử tắt màn hình đi bộ cũng hay. Có lẽ phải đến (3) lúc đó, thành phố mới chuyển từ một nơi ta đi ngang qua thành một nơi ta thực sự biết."
+    },
+    "p7": {
+      "title": "二つの仕事の進め方",
+      "kind": "評論",
+      "ja": "{仕事|しごと}の{進|すす}め{方|かた}には、大きく分けて二つのタイプがあるようだ。{計画|けいかく}を{細|こま}かく{立|た}ててから{動|うご}き{出|だ}す人と、とりあえず{手|て}をつけてから{考|かんが}える人である。[[u1:{前者|ぜんしゃ}]]は大きな{失敗|しっぱい}が少ない{代|か}わりに、{準備|じゅんび}に時間をかけすぎて、{機会|きかい}を{逃|のが}してしまうことがある。{一方|いっぽう}、{後者|こうしゃ}は動きが{速|はや}いが、{途中|とちゅう}で{何度|なんど}もやり{直|なお}しが{必要|ひつよう}になりがちだ。どちらが{優|すぐ}れているというものではない。{大切|たいせつ}なのは、自分がどちらに{傾|かたむ}きやすいかを知り、[[u2:その{弱点|じゃくてん}]]を{意識|いしき}しておくことだろう。",
+      "vi": "Có vẻ như cách tiến hành công việc chia làm hai kiểu lớn: người lập kế hoạch chi tiết rồi mới bắt đầu hành động, và người cứ bắt tay vào làm trước rồi mới suy nghĩ. (1) Kiểu trước thì ít thất bại lớn, nhưng bù lại đôi khi tốn quá nhiều thời gian chuẩn bị mà bỏ lỡ cơ hội. Mặt khác, kiểu sau thì hành động nhanh, nhưng giữa chừng hay phải làm lại nhiều lần. Không có chuyện kiểu nào ưu việt hơn. Điều quan trọng có lẽ là biết mình dễ nghiêng về kiểu nào và luôn ý thức về (2) điểm yếu đó."
+    }
+  },
+  "worked": [
+    {
+      "id": "d06-w1",
+      "kind": "passage",
+      "pass": "p1",
+      "q": "「[[u1:これ]]」は{何|なに}を{指|さ}しているか。",
+      "options": [
+        "{黒板|こくばん}の{内容|ないよう}を{速|はや}く{正確|せいかく}に{記録|きろく}すること",
+        "書きながら、内容の{大事|だいじ}な点や前の{説明|せつめい}とのつながりを{考|かんが}えること",
+        "{撮影|さつえい}した{写真|しゃしん}を{後|あと}で{見返|みかえ}すこと",
+        "手で書き{写|うつ}すのに時間をかけること"
+      ],
+      "answer": 1,
+      "vi": "「これ」 chỉ việc vừa viết vừa suy nghĩ về những điểm quan trọng của nội dung và mối liên kết với phần giải thích trước.",
+      "why": "Câu ngay trước: 「書きながら、どこが大事か、前の説明とどうつながるかを、私たちは無意識のうちに考えている」 → これ = việc suy nghĩ đó. Thay vào: 「〔書きながら大事な点やつながりを考えること〕は自分の頭でしかできない」 → hợp lý → phương án 2.\n- (1) Bẫy \"ngược vai\": đây là vế **đối lập** với これ trong cùng câu (機械にもできる**が**、これは…).\n- (3) Nội dung ở **đoạn 2**, không liên quan câu chứa これ.\n- (4) Bẫy \"gần nhưng thiếu\": 「遅さ」 chỉ là điều kiện; thứ \"chỉ đầu óc làm được\" là **việc suy nghĩ**, không phải việc tốn thời gian.",
+      "walkthrough": "**① Đọc câu hỏi**: 「これは何を指しているか」 → 指示語 đơn, thay cho **một việc**. Đáp án sẽ có dạng 「〜こと」.\n\n**② Đọc câu chứa 指示語**: 「速く正確に記録することは機械にもできる**が**、これは自分の頭でしかできない」.\n- Có 「が」 đối lập: [ghi nhanh, chính xác → máy làm được] ↔ [これ → chỉ đầu óc mình làm được].\n- Vị ngữ 「自分の頭でしかできない」 là **bộ lọc**: đáp án phải là một hoạt động **của trí óc**, và **khác** với việc ghi chép.\n→ Loại ngay phương án 1 (chính là vế bị đối lập).\n\n**③ Lùi về câu ngay trước**: 「書きながら、どこが大事か、前の説明とどうつながるかを、私たちは無意識のうちに**考えている**」 → đây đúng là hoạt động trí óc. Ứng viên: \"việc suy nghĩ chỗ nào quan trọng và liên kết thế nào\".\n\n**④ Kiểm tra câu trước nữa**: 「その遅さには意味がある」 — その遅さ = sự chậm của việc chép tay. Câu này chỉ báo trước rằng \"sự chậm có ý nghĩa\", còn ý nghĩa cụ thể là câu tiếp theo (suy nghĩ). Vì vậy phương án 4 (tốn thời gian) chỉ là \"cái vỏ\", chưa phải nội dung.\n\n**⑤ Thay vào**: 「書きながら大事な点やつながりを考えることは、自分の頭でしかできない」 → thông, đúng mạch (tác giả đánh giá cao việc tự suy nghĩ) → **phương án 2**.\n\n**⑥ Bài học**: Khi câu chứa 指示語 có cấu trúc **A は〜が、これは〜**, thì A **không bao giờ** là đáp án — đề rất thích đặt A thành phương án nhiễu."
+    },
+    {
+      "id": "d06-w2",
+      "kind": "passage",
+      "pass": "p1",
+      "q": "「[[u2:そうしたひと{手間|てま}]]」とは{何|なに}か。",
+      "options": [
+        "{授業|じゅぎょう}の{終|お}わりに{黒板|こくばん}を{撮影|さつえい}すること",
+        "撮った{写真|しゃしん}を{後|あと}で{何度|なんど}も{見返|みかえ}すこと",
+        "ノートに黒板の{内容|ないよう}をすべて書き{写|うつ}すこと",
+        "撮った写真をもとに、自分の{言葉|ことば}で{短|みじか}くまとめ{直|なお}すこと"
+      ],
+      "answer": 3,
+      "vi": "「そうしたひと手間」 là việc dựa vào ảnh đã chụp để tóm tắt lại ngắn gọn bằng lời của mình.",
+      "why": "Dạng **指示語 + N**: N = 「ひと手間」 (một chút công sức thêm vào). Câu ngay trước: 「撮った写真をもとに、自分の言葉で短くまとめ直してみる」 → đây chính là \"công sức thêm\" → phương án 4.\n- (1) Chụp ảnh là việc **đã có**, không phải thứ \"thêm vào\" (加える) để biến ảnh thành việc học.\n- (2) Có liên quan đến đoạn 2 nhưng bài không đề nghị \"xem lại nhiều lần\"; bẫy \"sai vị trí\".\n- (3) Bài không bảo bỏ ảnh để chép hết vào vở; câu 「写真を撮ること自体が悪いわけではない」 cho thấy tác giả vẫn chấp nhận ảnh.",
+      "walkthrough": "**① Hình dạng**: 「そうした ＋ ひと手間」 → tìm **một hành động nhỏ được thêm vào**. Danh từ 「ひと手間」 (một công đoạn, một chút công sức) là gợi ý.\n\n**② Câu chứa 指示語**: 「そうしたひと手間を**加える**だけで、写真は単なる記録から、自分の学びに変わる」 → vị ngữ cho biết: thứ này được **thêm vào** sau khi chụp, và có tác dụng biến \"bản ghi\" thành \"việc học\".\n\n**③ Câu ngay trước**: 「撮った写真をもとに、自分の言葉で短くまとめ直してみる」 → một hành động cụ thể, làm **sau** khi chụp → khớp hoàn toàn với \"ひと手間を加える\".\n\n**④ Liên hệ ý chính**: Tác giả nói vấn đề là 「記録することと理解することを同じだと思い込んでしまう」. Tự tóm tắt bằng lời mình = biến ghi chép thành hiểu → logic nhất quán.\n\n**⑤ Loại trừ**: (1) chụp ảnh = \"記録\", chính là thứ cần được bổ sung chứ không phải phần bổ sung; (2) xem lại = ý ở đoạn 2, không phải đề xuất; (3) chép hết = ngược với thái độ chấp nhận chụp ảnh.\n\n**⑥ Bài học**: Với 「そうした／こうした + N」, hãy hỏi \"trong bài, cái gì là một N?\" — ở đây chỉ có một hành động duy nhất được đề xuất làm thêm."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "d06-q1",
+      "kind": "passage",
+      "pass": "p2",
+      "q": "「[[u1:その{判断|はんだん}]]」とはどのような判断か。",
+      "options": [
+        "{行列|ぎょうれつ}に{並|なら}ぶ時間がもったいないという判断",
+        "多くの人が並んでいる店は、おいしいはずだという判断",
+        "{何|なに}も{情報|じょうほう}がないときは、店に入らないほうがいいという判断",
+        "{他人|たにん}の{選択|せんたく}は{参考|さんこう}にしないほうがいいという判断"
+      ],
+      "answer": 1,
+      "vi": "「その判断」 là phán đoán rằng quán có nhiều người xếp hàng thì hẳn là ngon.",
+      "why": "Câu ngay trước: 「多くの人が選んでいるのだから、きっとおいしいに違いないと**考える**からだ」 → 考える = 判断 (指示語 + N: \"phán đoán\" = điều người ta nghĩ) → phương án 2.\n- (1) Bài không nói xếp hàng là phí thời gian.\n- (3) Ngược: khi không có thông tin, tham khảo người khác là 「知恵」, không phải \"không vào quán\".\n- (4) Ngược: câu sau nói việc tham khảo lựa chọn của người khác 「必ずしも間違いではない」."
+    },
+    {
+      "id": "d06-q2",
+      "kind": "passage",
+      "pass": "p2",
+      "q": "「[[u2:そこ]]」は{何|なに}を{指|さ}しているか。",
+      "options": [
+        "{味|あじ}とはあまり{関係|かんけい}なく、{並|なら}んでいることが{人気|にんき}の{理由|りゆう}になっている{状態|じょうたい}",
+        "{最初|さいしょ}に{数人|すうにん}が{偶然|ぐうぜん}並んでいた店の前",
+        "{実際|じっさい}においしいと{評価|ひょうか}されている店",
+        "インターネット上でたくさん「いいね」がついた{投稿|とうこう}"
+      ],
+      "answer": 0,
+      "vi": "「そこ」 chỉ trạng thái “vì có người xếp hàng nên được ưa chuộng”, chẳng mấy liên quan đến hương vị.",
+      "why": "「そこ」 trong 評論 thường chỉ **một tình huống**, không phải địa điểm. Câu ngay trước: 「こうして、味とはあまり関係なく、『並んでいるから人気がある』という**状態**が生まれてしまう」 → そこ = trạng thái đó. Thay vào: 「その状態には、実際の評価よりも、周りに合わせたいという心理が強く働いている」 → hợp lý → phương án 1.\n- (2) Bẫy \"gần nhưng sai\": đọc そこ là địa điểm cụ thể (trước cửa quán).\n- (3) Ngược: trạng thái này **không dựa vào** đánh giá thực tế.\n- (4) Nội dung ở đoạn 3, sau 指示語 → sai vị trí."
+    },
+    {
+      "id": "d06-q3",
+      "kind": "passage",
+      "pass": "p2",
+      "q": "「[[u3:こうした{現象|げんしょう}]]」とはどのような現象か。",
+      "options": [
+        "おいしい店ほど{行列|ぎょうれつ}が{短|みじか}くなる現象",
+        "インターネットの{投稿|とうこう}の{中身|なかみ}がだんだん悪くなる現象",
+        "多くの人が{選|えら}んでいるということ{自体|じたい}が、さらに人を{集|あつ}める現象",
+        "人々が自分の{欲|ほ}しいものをよく{考|かんが}えて選ぶ現象"
+      ],
+      "answer": 2,
+      "vi": "「こうした現象」 là hiện tượng: chính việc có nhiều người chọn lại thu hút thêm người khác.",
+      "why": "指示語 ở **đầu đoạn cuối** → tóm **các đoạn trước**: hàng người kéo thêm hàng người (đoạn 2) và lượt \"thích\" kéo thêm lượt \"thích\" (đoạn 3, 「同じようなこと」). Điểm chung = \"số đông tự nó thu hút thêm số đông\" → phương án 3.\n- (1) Bài không nói điều này.\n- (2) Bài nói khó phân biệt nội dung hay hay không, chứ không nói nội dung xấu đi.\n- (4) Đây là điều tác giả **mong** (問い直してみたい), ngược với hiện tượng được mô tả."
+    }
+  ],
+  "practice": [
+    {
+      "id": "d06-p1",
+      "kind": "passage",
+      "pass": "p3",
+      "q": "「[[u1:それ]]」は{何|なに}を{指|さ}しているか。",
+      "options": [
+        "{祖母|そぼ}が{料理|りょうり}の{分量|ぶんりょう}を書いておいてくれたこと",
+        "レシピの{通|とお}りに作れば、同じ{味|あじ}が出せるということ",
+        "分量は{参考|さんこう}にしてもいいが、{最後|さいご}は自分の{味覚|みかく}で決めるようにという教え",
+        "{季節|きせつ}によって{野菜|やさい}の{甘|あま}さが{違|ちが}うということ"
+      ],
+      "answer": 2,
+      "vi": "「それ」 chỉ lời dạy: lượng gia vị có thể tham khảo, nhưng cuối cùng phải quyết định bằng vị giác của mình.",
+      "why": "Câu ngay trước là lời bà: 「分量は書いておいてもいいけれど、最後は自分の舌で決めなさい」. Vị ngữ của câu chứa それ: 「いい加減な**教え方**に思えた」 → それ phải là **một lời dạy** → phương án 3 (舌 → 味覚 là 言い換え).\n- (1) Bà không \"ghi hộ\" lượng gia vị; và đó không phải \"cách dạy\".\n- (2) Đây là niềm tin của **tác giả hồi trẻ** (thứ mà 「そう」 ở câu sau chỉ tới), ngược với lời bà.\n- (4) Là điều tác giả nhận ra **sau này**, nằm phía sau 指示語."
+    },
+    {
+      "id": "d06-p2",
+      "kind": "passage",
+      "pass": "p3",
+      "q": "「[[u2:そう]]」は{何|なに}を{指|さ}しているか。",
+      "options": [
+        "レシピの{通|とお}りに作れば、{誰|だれ}が作っても同じ{味|あじ}になるということ",
+        "{祖母|そぼ}の{教|おし}え{方|かた}はいい{加減|かげん}だということ",
+        "{最後|さいご}は自分の{舌|した}で味を決めるべきだということ",
+        "その日の{体調|たいちょう}によって、おいしいと{感|かん}じる{塩加減|しおかげん}が{変|か}わるということ"
+      ],
+      "answer": 0,
+      "vi": "「そう」 chỉ niềm tin rằng chỉ cần nấu theo đúng công thức thì ai nấu cũng ra cùng một vị.",
+      "why": "「そう信じていた」 → そう = **nội dung** được tin. Câu ngay trước: 「レシピの通りに作りさえすれば、誰でも同じ味が出せる」 → phương án 1.\n- (2) Bẫy tinh vi: tác giả hồi trẻ cũng nghĩ vậy, nhưng câu 「当時の私はそう信じていた**から**だ」 là **lý do** khiến tác giả thấy cách dạy tuỳ tiện. Nếu そう = \"cách dạy tuỳ tiện\" thì câu thành \"tôi thấy tuỳ tiện vì tôi tin là nó tuỳ tiện\" → vòng tròn, vô nghĩa.\n- (3) Là lời của bà, đối lập với niềm tin của tác giả hồi đó.\n- (4) Điều tác giả nhận ra sau này (しかし…考えが変わった)."
+    },
+    {
+      "id": "d06-p3",
+      "kind": "passage",
+      "pass": "p4",
+      "q": "「[[u1:そういう{状態|じょうたい}]]」とはどのような状態か。",
+      "options": [
+        "{先輩|せんぱい}が{新人|しんじん}に{毎回|まいかい}同じ{説明|せつめい}をくり{返|かえ}している状態",
+        "{手順|てじゅん}を{守|まも}るだけで{仕事|しごと}ができてしまい、その{理由|りゆう}を{考|かんが}えない状態",
+        "マニュアルの手順が{細|こま}かく書かれていない状態",
+        "マニュアルに書かれていない{事態|じたい}が{次々|つぎつぎ}に{起|お}きる状態"
+      ],
+      "answer": 1,
+      "vi": "「そういう状態」 là trạng thái chỉ cần tuân theo quy trình là làm được việc, nên không suy nghĩ về lý do của nó.",
+      "why": "Hai câu ngay trước: 「書かれた手順を守ってさえいれば、とりあえず仕事は回る。そのため、なぜその手順なのかを考える機会がなくなってしまう」 → そういう状態 = tóm cả hai câu → phương án 2. Thay vào: 「〔理由を考えない状態〕では、書かれていない事態が起きたとき、どう動けばよいかわからない」 → hợp lý.\n- (1) Nội dung đoạn 1, lại là việc mà sổ tay **giúp tránh** (手間も省ける).\n- (3) Ngược: vấn đề là sổ tay **quá tốt** (よくできている).\n- (4) Câu chứa 指示語 nói \"khi xảy ra tình huống không có trong sổ\" — đó là **hệ quả**, không phải trạng thái được chỉ."
+    },
+    {
+      "id": "d06-p4",
+      "kind": "passage",
+      "pass": "p4",
+      "q": "「[[u2:この{方法|ほうほう}]]」とはどのような方法か。",
+      "options": [
+        "{手順|てじゅん}を{細|こま}かく書いたマニュアルを、{新人|しんじん}に{最初|さいしょ}に読ませる方法",
+        "お{茶|ちゃ}を出す{順番|じゅんばん}を、くり{返|かえ}し{練習|れんしゅう}させる方法",
+        "{客|きゃく}が何を{感|かん}じるかを新人に{考|かんが}えさせてから、手順を{教|おし}える方法",
+        "{思|おも}いがけない{場面|ばめん}で、新人に{自由|じゆう}に{判断|はんだん}させる方法"
+      ],
+      "answer": 2,
+      "vi": "「この方法」 là cách cho người mới suy nghĩ xem khách cảm thấy gì rồi mới dạy quy trình.",
+      "why": "N = 「方法」 → tìm **cách làm** của bà chủ nhà trọ: 「手順を教える前に、必ず『お客様はこのとき何を感じていると思う？』と尋ねる」 + 「それを自分で考えさせてから、初めて手順を見せる」 → phương án 3.\n- (1) Ngược thứ tự: bà **hỏi trước**, cho xem quy trình **sau**.\n- (2) お茶を出す順番 chỉ là ví dụ về \"mọi thứ đều có lý do\", không phải phương pháp luyện tập.\n- (4) Tự phán đoán trong tình huống bất ngờ là **kết quả** của phương pháp, không phải phương pháp."
+    },
+    {
+      "id": "d06-p5",
+      "kind": "passage",
+      "pass": "p5",
+      "q": "「[[u:この{考|かんが}え{方|かた}]]」とはどのような考え方か。",
+      "options": [
+        "{理不尽|りふじん}な{長時間|ちょうじかん}{労働|ろうどう}は{間違|まちが}っているという考え方",
+        "{苦労|くろう}そのものではなく、その中で考えたことに{価値|かち}があるという考え方",
+        "{意味|いみ}のない{我慢|がまん}を、{若者|わかもの}に{強|し}いてはいけないという考え方",
+        "{若|わか}いときの苦労は{将来|しょうらい}{役|やく}に{立|た}つので、{進|すす}んで{経験|けいけん}するべきだという考え方"
+      ],
+      "answer": 3,
+      "vi": "「この考え方」 là cách nghĩ rằng gian khổ thời trẻ sẽ có ích về sau, nên hãy chủ động trải nghiệm.",
+      "why": "Câu ngay trước giải thích nghĩa của câu tục ngữ: 「若いときの苦労は将来必ず役に立つから、自分から求めてでも経験しておけ、という意味だ」 → この考え方 = cách nghĩ đó, và vị ngữ 「古いと言われる」 khớp (bị chê lỗi thời) → phương án 4 (自分から求めて → 進んで là 言い換え).\n- (1)(3) Là lập luận **phản đối** cách nghĩ đó (nằm phía sau, là lý do nó bị chê).\n- (2) Là **kết luận của tác giả** ở câu cuối — bẫy \"sai vị trí\" và \"ngược vai\"."
+    }
+  ],
+  "test": [
+    {
+      "id": "d06-t1",
+      "kind": "passage",
+      "pass": "p6",
+      "q": "「[[u1:これ]]」は{何|なに}を{指|さ}しているか。",
+      "options": [
+        "知らない{町|まち}で{道|みち}に{迷|まよ}うこと",
+        "{目的地|もくてきち}を入れると、{曲|ま}がる{角|かど}まで{案内|あんない}してくれる{地図|ちず}アプリ",
+        "町の{景色|けしき}をよく見ながら{歩|ある}くこと",
+        "人に道を{尋|たず}ねること"
+      ],
+      "answer": 1,
+      "vi": "「これ」 chỉ ứng dụng bản đồ — chỉ cần nhập điểm đến là chỉ đường đến tận góc phố phải rẽ.",
+      "why": "Vị ngữ 「これほど心強い**道具**はない」 → これ là **một công cụ**. Hai câu trước nói về 地図アプリ: 「目的地を入力すれば、曲がる角まで画面が教えてくれる」 → phương án 2.\n- (1) Là thứ đã \"hầu như không còn\" nhờ app, không phải công cụ.\n- (3)(4) Nội dung ở đoạn 2–3, lại là những việc đối lập với việc dùng app."
+    },
+    {
+      "id": "d06-t2",
+      "kind": "passage",
+      "pass": "p6",
+      "q": "「[[u2:そうした{経験|けいけん}]]」とはどのような経験か。",
+      "options": [
+        "{地図|ちず}アプリの{矢印|やじるし}を見ながら、{何度|なんど}も同じ{道|みち}を{通|とお}った経験",
+        "アプリを{閉|と}じて、自分のいる場所がわからなくなった経験",
+        "道に{迷|まよ}い、人に{尋|たず}ねたり{遠回|とおまわ}りをしたりしながら{町|まち}を{歩|ある}いた経験",
+        "店の外に出て、{客|きゃく}に道を教えてあげた経験"
+      ],
+      "answer": 2,
+      "vi": "「そうした経験」 là những trải nghiệm lạc đường, hỏi người khác, đi đường vòng khi đi bộ trong phố.",
+      "why": "「そうした経験」 tóm **cả đoạn 3**: hỏi đường người khác (尋ねるしかなかった, 商店のおじさんが教えてくれた) và đi vòng rồi tình cờ tìm được quán cà phê (遠回りをして…). Vị ngữ 「町の記憶として体に残っていた」 khớp → phương án 3.\n- (1)(2) Là trải nghiệm ở đoạn 2 với app — chính là thứ **không** để lại ký ức (bẫy ngược vai).\n- (4) Người chỉ đường là ông chủ tiệm, không phải tác giả → sai chủ thể."
+    },
+    {
+      "id": "d06-t3",
+      "kind": "passage",
+      "pass": "p6",
+      "q": "「[[u3:そのとき]]」とはいつか。",
+      "options": [
+        "{急|いそ}がない日に、{地図|ちず}アプリを使わずに{町|まち}を{歩|ある}いたとき",
+        "地図アプリで{目的地|もくてきち}を{入力|にゅうりょく}したとき",
+        "{商店|しょうてん}のおじさんに{道|みち}を教えてもらったとき",
+        "地図を{閉|と}じて、自分の{居場所|いばしょ}がわからないと{気|き}づいたとき"
+      ],
+      "answer": 0,
+      "vi": "「そのとき」 là lúc đi bộ trong phố mà không dùng ứng dụng bản đồ vào ngày không cần vội.",
+      "why": "Câu ngay trước: 「急ぐ必要のない日くらいは、画面を閉じて歩いてみるのもいい」 → そのとき = lúc làm điều đó. Thay vào: 「〔急がない日にアプリを閉じて歩いた〕とき初めて、町は…自分が知っている場所に変わる」 → đúng mạch → phương án 1.\n- (2) Ngược: dùng app thì phố chỉ là nơi đi ngang qua.\n- (3) Là chuyện ngày xưa (đoạn 3), không phải đề xuất ở hiện tại.\n- (4) Bẫy \"gần chữ\": cũng có 「地図を閉じる」 nhưng là chi tiết ở đoạn 2 (phát hiện mình không biết đường), không phải lúc phố trở thành nơi quen."
+    },
+    {
+      "id": "d06-t4",
+      "kind": "passage",
+      "pass": "p7",
+      "q": "「[[u1:{前者|ぜんしゃ}]]」は{何|なに}を{指|さ}しているか。",
+      "options": [
+        "大きな{失敗|しっぱい}をしたことがない人",
+        "とりあえず{手|て}をつけてから{考|かんが}える人",
+        "{途中|とちゅう}で{何度|なんど}もやり{直|なお}しをする人",
+        "{計画|けいかく}を{細|こま}かく{立|た}ててから{動|うご}き{出|だ}す人"
+      ],
+      "answer": 3,
+      "vi": "「前者」 chỉ người lập kế hoạch chi tiết rồi mới bắt đầu hành động.",
+      "why": "前者 = cái được nêu **trước** trong cặp liệt kê ở câu ngay trước: 「計画を細かく立ててから動き出す人**と**、とりあえず手をつけてから考える人」 → phương án 4.\n- (1) Bẫy \"nói quá\": bài nói 前者 「大きな失敗が少ない」 (ít), không phải \"chưa từng\".\n- (2)(3) Là 後者 và đặc điểm của 後者."
+    },
+    {
+      "id": "d06-t5",
+      "kind": "passage",
+      "pass": "p7",
+      "q": "「[[u2:その{弱点|じゃくてん}]]」とは{何|なに}か。",
+      "options": [
+        "どちらのタイプの人も、{仕事|しごと}が{遅|おそ}くなりやすいという弱点",
+        "自分が{傾|かたむ}きやすいタイプの弱点、つまり{準備|じゅんび}に時間をかけすぎることや、やり{直|なお}しが多くなること",
+        "二つのタイプのどちらが{優|すぐ}れているかわからないという弱点",
+        "{周|まわ}りの人がどちらのタイプなのか知らないという弱点"
+      ],
+      "answer": 1,
+      "vi": "「その弱点」 là điểm yếu của kiểu mà bản thân dễ nghiêng về: tốn quá nhiều thời gian chuẩn bị, hoặc phải làm lại nhiều lần.",
+      "why": "「その」 chỉ 「自分がどちらに傾きやすいか」 ngay trước → \"điểm yếu của kiểu mình nghiêng về\". Nội dung cụ thể của từng điểm yếu nằm ở câu 3–4: 前者 → 準備に時間をかけすぎて機会を逃す; 後者 → やり直しが必要になりがち → phương án 2.\n- (1) Sai: 後者 「動きが速い」; điểm yếu của hai kiểu khác nhau.\n- (3) Tác giả nói 「どちらが優れているというものではない」 — đó là nhận định, không phải điểm yếu.\n- (4) Bài không đề cập người xung quanh."
+    }
+  ]
+}

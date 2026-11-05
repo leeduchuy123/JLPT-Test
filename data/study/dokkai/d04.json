@@ -1,0 +1,265 @@
+{
+  "id": "d04",
+  "track": "dokkai",
+  "intro": "Nhiều bài 評論・エッセイ được xây quanh **một câu hỏi do chính tác giả đặt ra** — 疑問提示文 (câu hỏi nêu vấn đề). Ví dụ: 「では、なぜ私たちは〜のだろうか」「本当にそうだろうか」. Câu hỏi này giống tấm biển báo: **\"Bài này sẽ trả lời điều này\"**. Vì vậy:\n\n**Câu hỏi + câu trả lời của tác giả = ý chính của bài.**\n\nCó hai loại câu hỏi, và mỗi loại cho bạn biết trước câu trả lời sẽ có **hình dạng** gì:\n- **疑問詞疑問文** (có từ để hỏi なぜ・どうして・何・どう・どのように・どうすれば…): câu trả lời là **một nội dung** (một lý do, một định nghĩa, một cách làm).\n- **Yes-No疑問文** (không có từ để hỏi, cuối câu là 「〜だろうか」「〜(の)か」): câu trả lời là **có / không** kèm lý lẽ. Đặc biệt 「本当に〜だろうか」「果たして〜だろうか」 sau khi nêu một quan niệm phổ biến → tác giả hầu như luôn đáp **\"không hẳn vậy\"**.\n\nHai cái bẫy lớn:\n- 「〜ではないだろうか」「〜のではないか」 ở cuối bài **không phải câu hỏi** mà là cách khẳng định mềm (\"chẳng phải là… sao\" = tôi cho rằng…). Đó thường chính là **câu trả lời**.\n- Phương án sai thường là **quan niệm phổ biến mà tác giả đặt câu hỏi để phản bác**, hoặc **câu trả lời tác giả đã loại bỏ** trên đường đi đến câu trả lời thật.",
+  "strategy": [
+    {"title": "Bước 1 — Tìm và khoanh câu hỏi của tác giả", "body": "Quét các câu kết thúc bằng 「〜か。」「〜だろうか。」「〜のだろうか。」「〜でしょうか。」. Với mỗi câu, xác định:\n- Đây là câu hỏi **tác giả tự đặt ra để bàn** (thường đứng ở cuối đoạn 1 hoặc thành một đoạn riêng, hay mở đầu bằng 「では」「それでは」「そもそも」)? → **câu hỏi chính**.\n- Hay chỉ là câu hỏi gợi chuyện, hỏi người đọc **có từng trải qua** một chuyện không (「そんな経験はないだろうか」)? → mở bài, không phải trọng tâm.\n  Lưu ý: câu hướng tới người đọc mà hỏi thẳng vào **chủ đề** (「みなさんは、〜とは何だと考えるでしょうか」) thì vẫn là **câu hỏi chính**, và phần sau sẽ trả lời nó.\n- Hay là 「〜ではないだろうか」「〜のではないか」? → **không phải câu hỏi**, mà là ý kiến của tác giả.\n\nMẹo: câu hỏi chính thường xuất hiện **ngay sau phần mô tả hiện tượng / quan niệm phổ biến**."},
+    {"title": "Bước 2 — Xác định loại câu hỏi → đoán hình dạng câu trả lời", "body": "- 「なぜ／どうして〜のか」 → tìm **lý do**: 「〜からだ」「〜ためだ」「〜のである」.\n- 「〜とは何か／〜とはどういうことか」 → tìm **định nghĩa**: 「〜とは〜ことだ」「つまり〜ことなのである」.\n- 「どうすれば〜のか／どう〜ばいいのか」 → tìm **cách làm**: 「〜ことだ」「〜べきだ」「大切なのは〜」「私が勧めたいのは〜」.\n- 「本当に〜だろうか／果たして〜と言えるだろうか」 → chuẩn bị tinh thần cho câu trả lời **\"không\" / \"không hẳn\"**, rồi tìm **lý do tác giả phản bác**."},
+    {"title": "Bước 3 — Tìm câu trả lời (thường ở đoạn sau hoặc đoạn cuối)", "body": "Tín hiệu câu trả lời: 「私は〜と思う／考える」「つまり」「要するに」「大切なのは〜」「〜のである」「〜なのだ」「〜ではないだろうか」.\n\nCâu trả lời không phải lúc nào cũng nằm gọn trong một câu. Kiểu rất hay gặp ở N2 là **trả lời bằng cách loại trừ dần**:\n- Đoạn A: 「まず考えられるのは〜。しかし…」 → phương án A bị chê.\n- Đoạn B: 「反対に〜のは、もっと避けたい」 → phương án B bị chê nặng hơn.\n- Đoạn C: 「私が勧めたいのは〜」 → **đây mới là câu trả lời**.\n\nHãy ghi nhanh bên lề: A ✗ (vì…), B ✗ (vì…), C ○."},
+    {"title": "Bước 4 — Ghép \"câu hỏi + câu trả lời\" thành một câu", "body": "Viết ra nháp: \"Hỏi: …? → Đáp: … (vì …).\" Câu này chính là ý chính. Khi đề hỏi 「筆者が最も言いたいことは何か」「問いに対する筆者の答えは何か」「筆者は〜についてどう考えているか」, đối chiếu thẳng với câu này.\n\nVí dụ: \"Hỏi: Giới trẻ thật sự không còn đọc nữa sao? → Đáp: Không phải; lượng đọc không giảm, chỉ có nơi và hình thức đọc thay đổi.\""},
+    {"title": "Bước 5 — Loại phương án theo 4 kiểu bẫy", "body": "- **Bẫy quan niệm phổ biến**: phương án lặp lại đúng điều mà tác giả nêu ra để nghi ngờ (「〜と言われる」「〜という声も聞かれる」) → sai.\n- **Bẫy câu trả lời bị loại**: phương án là đáp án A hoặc B mà tác giả đã chê ở giữa bài → sai.\n- **Bẫy hiện tượng / ví dụ**: phương án chỉ mô tả hiện tượng mở bài hoặc một ví dụ, chưa phải câu trả lời → sai.\n- **Bẫy nói quá**: bài nói 「必ずしも〜ない」「〜かもしれない」「ときには」 mà phương án nói 「絶対に」「すべて」「まったく」 → sai."}
+  ],
+  "signals": [
+    {"ja": "なぜ〜のだろうか／どうして〜のか", "vi": "tại sao…? → bài sẽ đưa ra lý do", "note": "Tìm 「〜からだ」「〜ためである」「〜のである」 phía sau."},
+    {"ja": "では、〜のか／それでは、〜だろうか", "vi": "vậy thì…? — chuyển sang câu hỏi chính", "note": "「では」 đứng đầu câu hỏi = tín hiệu mạnh nhất của 疑問提示文."},
+    {"ja": "〜とは何だろうか／〜とはどういうことか", "vi": "… là gì? / … nghĩa là thế nào?", "note": "Câu trả lời thường có dạng 「〜とは、〜ことなのである」."},
+    {"ja": "どうすれば〜のだろうか／どう〜ばいいのか", "vi": "làm thế nào để…?", "note": "Câu trả lời: 「〜ことだ」「〜べきだ」「大切なのは〜」「私が勧めたいのは〜」."},
+    {"ja": "本当に〜だろうか／本当にそうなのだろうか", "vi": "liệu có thật là… không?", "note": "Đứng sau một quan niệm phổ biến → tác giả sắp phản bác. Đáp án gần như luôn là \"không hẳn\"."},
+    {"ja": "果たして〜だろうか／果たして〜と言えるだろうか", "vi": "liệu rốt cuộc có… không? (nghi ngờ mạnh)", "note": "{果|は}たして{本当|ほんとう}の{親切|しんせつ}と{言|い}えるだろうか → ý: chưa chắc là tử tế thật."},
+    {"ja": "そもそも〜のか", "vi": "ngay từ đầu, rốt cuộc là… để làm gì?", "note": "Quay về câu hỏi gốc rễ; câu trả lời thường là quan điểm cốt lõi."},
+    {"ja": "〜ではないだろうか／〜のではないか", "vi": "chẳng phải là… sao (= tôi cho rằng…) — KHÔNG phải câu hỏi", "note": "Ở cuối đoạn/bài, đây là **chủ trương** của tác giả, thường chính là câu trả lời."},
+    {"ja": "〜だろうか。いや、〜", "vi": "liệu có…? Không, … (tự hỏi tự đáp – 反語)", "note": "{誰|だれ}がそれを{責|せ}められるだろうか。いや、{誰|だれ}にも{責|せ}められない。"},
+    {"ja": "〜と言われる／〜と考えられがちだ／〜という声も聞かれる", "vi": "người ta nói… / dễ bị nghĩ là… / có ý kiến cho rằng…", "note": "Báo hiệu **quan niệm phổ biến** — mục tiêu của câu hỏi nghi ngờ, thường thành phương án nhiễu."},
+    {"ja": "まず考えられるのは〜／反対に〜", "vi": "trước hết có thể nghĩ đến… / ngược lại…", "note": "Liệt kê các câu trả lời **ứng viên**, thường sẽ bị loại."},
+    {"ja": "私は、〜と思う／〜と考える／私が勧めたいのは〜", "vi": "tôi cho rằng… / điều tôi muốn khuyên là…", "note": "Câu trả lời của chính tác giả."},
+    {"ja": "つまり〜／要するに〜", "vi": "tức là… / nói tóm lại…", "note": "Gom câu trả lời lại thành một câu — đọc kỹ câu chứa từ này."},
+    {"ja": "大切なのは、AではなくBだ／問うべきなのは〜", "vi": "điều quan trọng không phải A mà là B / điều nên hỏi là…", "note": "B = câu trả lời; A = bẫy."},
+    {"ja": "〜という経験はないだろうか／〜したことはないでしょうか", "vi": "bạn có từng… không?", "note": "Hỏi người đọc về **trải nghiệm** để gợi chuyện ở mở bài → **không** phải câu hỏi chính. Nhưng 「みなさんは、〜とは何だと考えるでしょうか」 (hỏi thẳng vào chủ đề, có từ để hỏi 何) lại **là** câu hỏi chính."}
+  ],
+  "passages": {
+    "p1": {
+      "title": "「忙しい」という言葉",
+      "kind": "エッセイ",
+      "ja": "「{最近|さいきん}どう?」と聞かれて、「いやあ、{忙|いそが}しくて」と答える人は多い。{実際|じっさい}にはそれほど忙しくない日でも、つい同じ{言葉|ことば}が口をついて出る。では、なぜ{私|わたし}たちはこれほど「忙しい」と言いたがるのだろうか。\nもちろん、本当に時間が{足|た}りないという人もいるだろう。しかし、{休日|きゅうじつ}に何も{予定|よてい}がないことを{恥|は}ずかしそうに{打|う}ち{明|あ}ける人がいることを考えると、{理由|りゆう}はそれだけではなさそうだ。\n私は、「忙しい」という言葉の{裏|うら}には、「自分は{周|まわ}りから必要とされている」と{確|たし}かめたい{気持|きも}ちが{隠|かく}れているのだと思う。予定が{詰|つ}まっていることは、{頼|たよ}りにされていることの{証拠|しょうこ}のように{感|かん}じられる。{逆|ぎゃく}に{暇|ひま}であることは、{誰|だれ}からも{求|もと}められていないことを{意味|いみ}するようで{不安|ふあん}になる。つまり、「忙しい」は{単|たん}なる{状況|じょうきょう}の{説明|せつめい}ではなく、自分の{価値|かち}を{確認|かくにん}するための言葉になっているのである。\nだとすれば、予定を{埋|う}めることで{安心|あんしん}を{得|え}ようとするのは、少し{寂|さび}しいことかもしれない。人の価値は、{手帳|てちょう}の黒さで{測|はか}れるものではないのだから。",
+      "vi": "Khi được hỏi \"Dạo này thế nào?\", nhiều người trả lời \"Ôi, bận lắm\". Ngay cả những ngày thực ra chẳng bận đến thế, câu ấy vẫn cứ buột ra khỏi miệng. Vậy thì, tại sao chúng ta lại thích nói \"bận\" đến vậy?\nĐương nhiên cũng có người thực sự không đủ thời gian. Nhưng khi nghĩ đến việc có những người ngượng ngùng thú nhận rằng ngày nghỉ mình chẳng có kế hoạch gì, thì có vẻ lý do không chỉ có thế.\nTôi nghĩ rằng đằng sau chữ \"bận\" ẩn giấu mong muốn được xác nhận rằng \"mình đang được mọi người xung quanh cần đến\". Lịch kín mít có cảm giác như bằng chứng cho thấy mình đang được tin cậy. Ngược lại, rảnh rỗi lại khiến ta bất an, như thể điều đó có nghĩa là chẳng ai cần đến mình. Tức là, \"bận\" không còn đơn thuần là lời mô tả tình trạng, mà đã trở thành một từ để xác nhận giá trị của bản thân.\nNếu đúng vậy, thì việc tìm kiếm sự an tâm bằng cách lấp đầy lịch hẹn có lẽ là điều hơi buồn. Bởi giá trị của con người đâu phải thứ đo được bằng độ kín đen của cuốn sổ lịch."
+    },
+    "p2": {
+      "title": "若者の「読書離れ」",
+      "kind": "評論",
+      "ja": "「{近頃|ちかごろ}の{若者|わかもの}は本を読まなくなった」という{嘆|なげ}きを、{私|わたし}たちは何度耳にしてきただろう。電車の中を{見回|みまわ}しても、本を{開|ひら}いている若い人はたしかに少ない。誰もがスマートフォンの{画面|がめん}に目を{落|お}としている。だが、{彼|かれ}らは本当に{文字|もじ}を読まなくなったのだろうか。\n画面をのぞいてみると、{意外|いがい}な{光景|こうけい}に気づく。{動画|どうが}を見ている人ばかりではない。インターネット上に{連載|れんさい}される{小説|しょうせつ}を{追|お}いかけている人、{専門家|せんもんか}の長い{解説|かいせつ}{記事|きじ}を読み{込|こ}んでいる人、{友人|ゆうじん}と{何十行|なんじゅうぎょう}にもわたる{文章|ぶんしょう}をやり{取|と}りしている人もいる。一日に目にする文字の{量|りょう}だけで言えば、むしろ上の{世代|せだい}よりも多いかもしれない。\n{変|か}わったのは、読む量ではなく、読む場所と形なのだ。紙の本が売れないことだけを見て「{読書離|どくしょばな}れ」と{決|き}めつけるのは、{物事|ものごと}の{一面|いちめん}しか見ていないことになる。{問|と}うべきなのは「読むか読まないか」ではなく、何をどのように読んでいるか、そしてその読み方で何が{得|え}られ、何が{失|うしな}われているのか、ということではないだろうか。",
+      "vi": "Chúng ta đã bao nhiêu lần nghe lời than thở \"Giới trẻ dạo này không còn đọc sách nữa\"? Nhìn quanh trong tàu điện, đúng là rất ít người trẻ mở sách. Ai cũng cúi nhìn màn hình điện thoại. Nhưng liệu họ có thật sự không còn đọc chữ nữa không?\nThử nhìn vào màn hình, ta sẽ nhận ra một cảnh tượng bất ngờ. Không phải ai cũng đang xem video. Có người đang theo dõi tiểu thuyết đăng dài kỳ trên mạng, có người đang đọc kỹ những bài phân tích dài của chuyên gia, cũng có người đang trao đổi với bạn bè những đoạn văn dài đến mấy chục dòng. Chỉ xét về lượng chữ nhìn thấy trong một ngày, có khi họ còn nhiều hơn thế hệ đi trước.\nThứ đã thay đổi không phải là lượng đọc, mà là nơi đọc và hình thức đọc. Chỉ nhìn việc sách giấy bán không chạy mà khẳng định chắc nịch là \"xa rời việc đọc\" thì tức là chỉ thấy một mặt của sự việc. Chẳng phải điều ta nên hỏi là đọc cái gì, đọc như thế nào, và với cách đọc ấy thì ta được gì, mất gì — chứ không phải \"đọc hay không đọc\" — hay sao?"
+    },
+    "p3": {
+      "title": "休むということ",
+      "kind": "解説",
+      "ja": "{週末|しゅうまつ}は一日中家で{横|よこ}になっていたのに、月曜日の朝になってもまったく{疲|つか}れが{取|と}れていない。そんな{経験|けいけん}はないだろうか。体を動かさずにじっとしていれば疲れは{回復|かいふく}する、と{私|わたし}たちは考えがちだ。しかし、どうもそれだけでは{足|た}りないらしい。\nでは、本当の{意味|いみ}で「休む」とはどういうことなのだろうか。\n{現代|げんだい}の仕事の多くは、体よりも頭や{神経|しんけい}を使うものだ。一日中パソコンに向かい、メールに{返信|へんしん}し、{会議|かいぎ}で気を{遣|つか}う。こうした疲れは、ソファに{寝転|ねころ}がってスマートフォンを{眺|なが}めていても{消|き}えない。体は{止|と}まっていても、頭は{次々|つぎつぎ}と{流|なが}れてくる{情報|じょうほう}を{処理|しょり}し{続|つづ}けているからだ。\n大切なのは、{普段|ふだん}使っている{部分|ぶぶん}を止め、普段使っていない部分を動かすことである。{机|つくえ}に向かう仕事の人なら、{散歩|さんぽ}をしたり、{土|つち}をいじったり、{料理|りょうり}をしたりするほうが、よほど頭は休まる。{反対|はんたい}に、一日中立ち仕事をしている人には、静かに本を読む時間が何よりの{休息|きゅうそく}になるだろう。つまり、休むとは何もしないことではなく、疲れている部分とは{別|べつ}の部分を使って、{心身|しんしん}のバランスを{取|と}り{戻|もど}すことなのである。",
+      "vi": "Cuối tuần nằm dài ở nhà suốt cả ngày, vậy mà đến sáng thứ Hai vẫn chẳng hết mệt chút nào. Bạn có từng như thế không? Chúng ta hay nghĩ rằng cứ nằm yên không vận động thì sẽ hồi phục. Nhưng có vẻ như chỉ thế thôi là chưa đủ.\nVậy thì, \"nghỉ ngơi\" theo đúng nghĩa là gì?\nPhần lớn công việc hiện đại dùng đầu óc và thần kinh nhiều hơn là cơ thể. Cả ngày ngồi trước máy tính, trả lời email, giữ ý tứ trong các cuộc họp. Kiểu mệt mỏi này không biến mất dù ta nằm dài trên sofa lướt điện thoại. Bởi vì dù cơ thể đã dừng, đầu óc vẫn tiếp tục xử lý thông tin ào ạt chảy đến.\nĐiều quan trọng là dừng phần mình vẫn dùng hằng ngày lại, và vận động phần thường ngày không dùng đến. Với người làm việc bàn giấy, đi dạo, làm vườn hay nấu ăn còn giúp đầu óc nghỉ ngơi hơn nhiều. Ngược lại, với người cả ngày làm công việc phải đứng, khoảng thời gian yên tĩnh đọc sách có lẽ sẽ là sự nghỉ ngơi tốt nhất. Tức là, nghỉ ngơi không phải là không làm gì cả, mà là dùng phần khác với phần đang mệt để lấy lại sự cân bằng cho thân và tâm."
+    },
+    "p4": {
+      "title": "先回りの親切",
+      "kind": "エッセイ",
+      "ja": "{新人|しんじん}に仕事を教えるとき、{私|わたし}たちはつい、自分がかつて{失敗|しっぱい}したところを{先回|さきまわ}りして{伝|つた}えたくなる。「ここは{間違|まちが}えやすいから、こうしておけばいい」。{相手|あいて}が同じ{苦労|くろう}をしないように、という{善意|ぜんい}からである。だが、失敗しない{方法|ほうほう}を前もってすべて教えることは、{果|は}たして本当の{親切|しんせつ}と言えるだろうか。\n言われた{通|とお}りにやってうまくいった人は、なぜそれでうまくいくのかを知らないままでいる。だから、少しでも{状況|じょうきょう}が{変|か}わると、どうしていいか分からなくなってしまう。{一方|いっぽう}、自分で失敗し、{原因|げんいん}を考え、やり方を{改|あらた}めた人は、{手順|てじゅん}の{意味|いみ}そのものを{理解|りかい}している。初めて{出会|であ}う問題にも、{応用|おうよう}が{利|き}くのだ。\nもちろん、{取|と}り{返|かえ}しのつかない失敗は{防|ふせ}がなければならない。しかし、小さな失敗であれば、あえて{見守|みまも}り、後で{一緒|いっしょ}に{振|ふ}り{返|かえ}る。そのほうが、長い目で見れば相手のためになるはずである。",
+      "vi": "Khi dạy việc cho nhân viên mới, chúng ta thường bất giác muốn nói trước cho họ những chỗ mà mình từng mắc lỗi. \"Chỗ này dễ sai lắm, cứ làm thế này là được.\" Đó là xuất phát từ thiện ý, mong đối phương không phải chịu vất vả giống mình. Nhưng, dạy trước tất cả các cách để không thất bại, liệu có thể gọi là sự tử tế thật sự hay không?\nNgười làm theo đúng lời được dặn và thành công vẫn cứ không biết vì sao làm như thế thì thành công. Vì vậy, chỉ cần tình huống thay đổi một chút là họ không biết phải làm sao. Trong khi đó, người tự mình thất bại, suy nghĩ nguyên nhân rồi sửa lại cách làm thì hiểu được chính ý nghĩa của từng bước. Ngay cả với vấn đề lần đầu gặp, họ cũng biết vận dụng linh hoạt.\nĐương nhiên, những thất bại không thể cứu vãn thì phải ngăn chặn. Nhưng nếu là thất bại nhỏ, ta cố ý đứng ngoài dõi theo, rồi sau đó cùng nhau nhìn lại. Nhìn về lâu dài, cách đó chắc chắn sẽ có ích cho đối phương hơn."
+    },
+    "p5": {
+      "title": "子どもの「なぜ」",
+      "kind": "エッセイ",
+      "ja": "三歳から五歳ごろの子どもは、{驚|おどろ}くほど「なぜ」を口にする。なぜ空は青いの、なぜ月はついてくるの、なぜ大人は夜{遅|おそ}くまで起きていていいの。一日に{何十回|なんじゅっかい}も聞かれ、{疲|つか}れ{果|は}てている親も多いだろう。では、子どもの「なぜ」に、親はどう{向|む}き{合|あ}えばいいのだろうか。\nまず考えられるのは、{正確|せいかく}な{知識|ちしき}を教えることだ。{図鑑|ずかん}を開き、光の{性質|せいしつ}を{説明|せつめい}する。{間違|まちが}ってはいないが、{幼|おさな}い子どもにとっては{難|むずか}しすぎることが多いうえ、答えをもらった{時点|じてん}で{会話|かいわ}が終わってしまう。\n{反対|はんたい}に、「そういうものなの」「大きくなったら分かるよ」と{軽|かる}く{流|なが}してしまうのは、もっと{避|さ}けたい。何度もそう言われた子どもは、聞いても{無駄|むだ}だと{学|まな}び、やがて{疑問|ぎもん}を持つこと{自体|じたい}をやめてしまうからだ。\n{私|わたし}が{勧|すす}めたいのは、「どうしてだと思う?」と{問|と}い{返|かえ}してみることである。子どもは自分なりの答えを{一生懸命|いっしょうけんめい}に考える。それがどんなに{的外|まとはず}れでも、まずは「おもしろい考えだね」と{受|う}け{止|と}め、それから{一緒|いっしょ}に{調|しら}べればいい。大切なのは正しい答えを{与|あた}えることではなく、考える楽しさを{親子|おやこ}で{分|わ}かち{合|あ}うことなのだ。",
+      "vi": "Trẻ từ khoảng ba đến năm tuổi nói \"tại sao\" nhiều đến kinh ngạc. Tại sao trời lại xanh, tại sao mặt trăng cứ đi theo mình, tại sao người lớn được thức khuya. Bị hỏi đến mấy chục lần mỗi ngày, hẳn nhiều bố mẹ đã mệt rã rời. Vậy thì, bố mẹ nên đối diện với những câu \"tại sao\" của con như thế nào?\nĐiều trước tiên có thể nghĩ đến là dạy kiến thức chính xác. Mở sách tranh bách khoa, giải thích tính chất của ánh sáng. Làm vậy không sai, nhưng với trẻ nhỏ thì thường quá khó, hơn nữa cuộc trò chuyện sẽ kết thúc ngay lúc trẻ nhận được câu trả lời.\nNgược lại, gạt đi nhẹ tênh kiểu \"Nó là thế đấy\", \"Lớn lên con sẽ hiểu\" thì càng nên tránh hơn. Bởi đứa trẻ bị nói như vậy nhiều lần sẽ học được rằng có hỏi cũng vô ích, rồi dần dần thôi luôn cả việc đặt câu hỏi.\nĐiều tôi muốn khuyên là thử hỏi lại: \"Con nghĩ tại sao?\" Trẻ sẽ cố gắng hết sức nghĩ ra câu trả lời theo cách của mình. Dù câu trả lời đó trật lất đến đâu, trước hết hãy đón nhận \"Ý nghĩ thú vị nhỉ\", rồi sau đó cùng nhau tìm hiểu là được. Điều quan trọng không phải là đưa ra câu trả lời đúng, mà là cha mẹ và con cùng chia sẻ niềm vui của việc suy nghĩ."
+    },
+    "p6": {
+      "title": "外国語を学ぶ意味",
+      "kind": "評論",
+      "ja": "{最近|さいきん}の{自動翻訳|じどうほんやく}の{進歩|しんぽ}には目を{見張|みは}るものがある。スマートフォンに話しかければ、{数秒|すうびょう}で{相手|あいて}の{言葉|ことば}に{訳|やく}してくれる。{旅行|りょこう}や{簡単|かんたん}な{商談|しょうだん}なら、もはや{困|こま}ることはほとんどないだろう。そのため、「これからの{時代|じだい}、{苦労|くろう}して{外国語|がいこくご}を{学|まな}ぶ必要はないのではないか」という声も聞かれるようになった。\n[[u:本当にそうだろうか]]。\nたしかに、{情報|じょうほう}を{伝|つた}えるだけなら{機械|きかい}で{十分|じゅうぶん}かもしれない。しかし、言葉には情報{以上|いじょう}のものが{含|ふく}まれている。たとえば、ある{言語|げんご}には雨の{降|ふ}り方を{表|あらわ}す言葉が{数十|すうじゅう}もあり、別の言語には{家族|かぞく}の{呼|よ}び方が{驚|おどろ}くほど{細|こま}かく分かれている。そこには、その言葉を話す{人々|ひとびと}が何を大切にし、世界をどのように{切|き}り{分|わ}けて見ているかが表れている。{翻訳機|ほんやくき}は言葉を{置|お}き{換|か}えてはくれるが、この見え方の{違|ちが}いまでは教えてくれない。\nでは、外国語を学ぶことの本当の{意味|いみ}はどこにあるのか。{私|わたし}は、それは自分とは{異|こと}なる物の{見方|みかた}を、自分の中に{取|と}り{込|こ}むことにあると考える。{慣|な}れない{文法|ぶんぽう}に{戸惑|とまど}い、訳せない言葉に{出会|であ}うたびに、私たちは自分の{当|あ}たり前が{唯一|ゆいいつ}のものではないことを知る。その{経験|けいけん}こそが、相手を深く{理解|りかい}しようとする{姿勢|しせい}を育てるのである。機械が{便利|べんり}になればなるほど、自分の力で言葉を学ぶことの{価値|かち}は、むしろ高まっていくのかもしれない。",
+      "vi": "Sự tiến bộ của dịch tự động gần đây thật đáng kinh ngạc. Chỉ cần nói vào điện thoại, vài giây sau nó đã dịch sang ngôn ngữ của đối phương. Nếu là du lịch hay đàm phán đơn giản thì gần như chẳng còn gì phải lúng túng nữa. Vì thế mà bắt đầu có ý kiến: \"Thời đại tới đây, chẳng phải không cần vất vả học ngoại ngữ nữa sao?\"\nLiệu có thật như vậy không?\nĐúng là nếu chỉ để truyền đạt thông tin thì máy móc có lẽ là đủ. Nhưng trong ngôn ngữ chứa đựng nhiều thứ hơn thông tin. Chẳng hạn, có ngôn ngữ có đến mấy chục từ diễn tả kiểu mưa rơi, lại có ngôn ngữ phân chia cách gọi người trong gia đình chi tiết đến bất ngờ. Ở đó thể hiện việc những người nói ngôn ngữ ấy coi trọng điều gì, và phân chia, nhìn nhận thế giới như thế nào. Máy dịch có thể thay từ này bằng từ kia, nhưng không dạy cho ta sự khác biệt trong cách nhìn ấy.\nVậy thì, ý nghĩa thật sự của việc học ngoại ngữ nằm ở đâu? Tôi cho rằng nó nằm ở việc đưa vào bên trong mình một cách nhìn sự vật khác với mình. Mỗi lần bối rối trước ngữ pháp lạ, mỗi lần gặp một từ không dịch được, ta lại biết rằng cái \"đương nhiên\" của mình không phải là duy nhất. Chính trải nghiệm ấy nuôi dưỡng thái độ muốn hiểu đối phương một cách sâu sắc. Máy móc càng tiện lợi, có lẽ giá trị của việc tự mình học ngôn ngữ lại càng tăng lên."
+    },
+    "p7": {
+      "title": "手書きの手紙",
+      "kind": "エッセイ",
+      "ja": "メールやメッセージアプリが{普及|ふきゅう}した今、{手書|てが}きの手紙を出す{機会|きかい}はめっきり{減|へ}った。速くて安く、書き{直|なお}しも{簡単|かんたん}なのだから、{当然|とうぜん}のことだ。では、手書きの手紙はもう必要ないのだろうか。\n{先日|せんじつ}、{入院|にゅういん}していた{祖母|そぼ}が{退院|たいいん}したとき、{孫|まご}たちからの手紙を何度も読み{返|かえ}していたと聞いた。字は{決|けっ}してきれいではなかったし、書かれていたのは短い言葉ばかりだったという。それでも祖母には、{一文字|ひともじ}ずつ書いてくれた時間そのものが{嬉|うれ}しかったのだろう。{便利|べんり}さが{当|あ}たり前になった{時代|じだい}だからこそ、{手間|てま}をかけること{自体|じたい}が{気持|きも}ちを{伝|つた}える{手段|しゅだん}になるのではないだろうか。",
+      "vi": "Giờ đây khi email và ứng dụng nhắn tin đã phổ biến, cơ hội gửi thư viết tay giảm hẳn. Nhanh, rẻ, lại dễ sửa, nên đó là điều đương nhiên. Vậy thì, thư viết tay không còn cần thiết nữa sao?\nHôm trước, tôi nghe kể rằng khi bà tôi xuất viện, bà đã đọc đi đọc lại những lá thư của các cháu. Chữ chẳng đẹp chút nào, và nghe nói trong thư toàn là những câu ngắn. Dù vậy, có lẽ với bà, chính khoảng thời gian các cháu nắn nót viết từng chữ cho bà mới là điều khiến bà vui. Chẳng phải chính vì đây là thời đại mà sự tiện lợi đã trở thành đương nhiên, nên bản thân việc bỏ công sức lại trở thành một cách để truyền đạt tình cảm hay sao?"
+    }
+  },
+  "worked": [
+    {
+      "id": "d04-w1", "kind": "passage", "pass": "p1",
+      "q": "{筆者|ひっしゃ}によると、人が「{忙|いそが}しい」と言いたがるのはなぜか。",
+      "options": [
+        "{実際|じっさい}に仕事が多く、時間が{足|た}りない人が{増|ふ}えているから",
+        "「{忙|いそが}しい」と{言|い}っておけば、{周|まわ}りの{人|ひと}に{気|き}を{遣|つか}わせずに{済|す}むから",
+        "周りから必要とされていることを{確|たし}かめて、{安心|あんしん}したいから",
+        "忙しいと言えば、{面倒|めんどう}な{頼|たの}みごとを{断|ことわ}ることができるから"
+      ],
+      "answer": 2,
+      "vi": "Theo tác giả, vì sao người ta thích nói \"bận\"? → Vì muốn xác nhận rằng mình được người xung quanh cần đến để thấy yên tâm.",
+      "why": "Câu trả lời của tác giả ở đoạn 3: 「私は、『忙しい』という言葉の裏には、『自分は周りから必要とされている』と確かめたい気持ちが隠れているのだと思う」, gói lại bằng 「つまり…自分の価値を確認するための言葉」; đoạn cuối nói thêm 「予定を埋めることで安心を得ようとする」 → phương án 3.\n- (1) **Câu trả lời bị loại**: đoạn 2 thừa nhận 「本当に時間が足りないという人もいる」 nhưng ngay sau đó 「理由はそれだけではなさそうだ」. Hơn nữa bài không nói số người như vậy \"tăng lên\".\n- (2) **Không có trong bài**: bài không hề nói đến việc tránh làm phiền hay làm người khác phải ý tứ. Lý do tác giả đưa ra là hướng vào **bản thân** (muốn xác nhận giá trị của mình), không phải vì người khác.\n- (4) Không có trong bài.",
+      "walkthrough": "**① Bước 1 — Tìm câu hỏi**: Cuối đoạn 1: 「**では**、**なぜ**私たちはこれほど『忙しい』と言いたがる**のだろうか**」. Có 「では」 + 「なぜ」 → đây là câu hỏi chính của bài, loại 疑問詞 (hỏi lý do).\n\n**② Bước 2 — Đoán hình dạng câu trả lời**: hỏi なぜ → phía sau sẽ có một **lý do**. Tìm 「〜からだ」「〜のだと思う」「つまり」.\n\n**③ Bước 3 — Theo dõi các ứng viên**:\n- Đoạn 2: ứng viên A \"vì thật sự thiếu thời gian\" → 「もちろん…いるだろう。しかし…それだけではなさそうだ」 → A bị gạt sang bên (không phải lý do chính).\n- Đoạn 3: 「**私は**、…確かめたい気持ちが隠れている**のだと思う**」 → câu trả lời của tác giả. Câu 「**つまり**、…自分の価値を確認するための言葉になっている**のである**」 gói lại.\n- Đoạn 4: bình luận thêm (hơi buồn, giá trị con người không đo bằng lịch).\n\n**④ Bước 4 — Ghép**: \"Tại sao người ta thích nói 'bận'? → Vì muốn xác nhận mình được cần đến (xác nhận giá trị bản thân) để yên tâm.\"\n\n**⑤ Bước 5 — Loại trừ**: (1) là ứng viên A đã bị gạt; (2)(4) không có trong bài. → (3)."
+    },
+    {
+      "id": "d04-w2", "kind": "passage", "pass": "p2",
+      "q": "{筆者|ひっしゃ}は、「{若者|わかもの}が本を読まなくなった」という見方について、どう考えているか。",
+      "options": [
+        "紙の本を読む若者が{減|へ}ったのは{事実|じじつ}なので、正しい見方だ。",
+        "読む{量|りょう}が減ったのではなく、読む場所や形が{変|か}わっただけなので、{一面的|いちめんてき}な見方だ。",
+        "若者は{文字|もじ}より{動画|どうが}を{好|この}むようになったので、{読書|どくしょ}の{習慣|しゅうかん}を{取|と}り{戻|もど}させるべきだ。",
+        "若者は上の{世代|せだい}よりも多くの本を読んでいるので、まったく{逆|ぎゃく}の見方だ。"
+      ],
+      "answer": 1,
+      "vi": "Tác giả nghĩ gì về quan niệm \"giới trẻ không còn đọc sách\"? → Đó là cách nhìn phiến diện, vì lượng đọc không giảm mà chỉ có nơi và hình thức đọc thay đổi.",
+      "why": "Câu hỏi của tác giả 「だが、彼らは本当に文字を読まなくなったのだろうか」 (Yes-No, nghi ngờ quan niệm phổ biến). Câu trả lời ở đoạn 3: 「変わったのは、読む量ではなく、読む場所と形なのだ」 + 「『読書離れ』と決めつけるのは、物事の一面しか見ていない」 → phương án 2.\n- (1) **Bẫy quan niệm phổ biến**: đúng là ít người mở sách giấy, nhưng tác giả cho rằng kết luận từ đó là phiến diện.\n- (3) Ngược với đoạn 2: 「動画を見ている人ばかりではない」; tác giả cũng không khuyên \"lấy lại thói quen đọc sách\".\n- (4) **Nói quá + đổi từ**: bài nói lượng **chữ** (文字) có thể nhiều hơn 「かもしれない」, không nói đọc nhiều **sách** hơn, cũng không gọi là \"hoàn toàn ngược lại\".",
+      "walkthrough": "**① Bước 1 — Tìm câu hỏi**: Đoạn 1 mở bằng quan niệm phổ biến 「『近頃の若者は本を読まなくなった』という嘆き」, rồi kết đoạn bằng 「**だが**、彼らは**本当に**文字を読まなくなった**のだろうか**」. Lưu ý câu 「何度耳にしてきただろう」 ở đầu chỉ là cảm thán (\"đã bao lần nghe rồi\"), không phải câu hỏi chính.\n\n**② Bước 2 — Loại câu hỏi**: Yes-No, có 「本当に」 sau một quan niệm phổ biến → đoán trước: tác giả sẽ trả lời **\"không hẳn\"**, và bài sẽ đưa căn cứ phản bác.\n\n**③ Bước 3 — Tìm câu trả lời**:\n- Đoạn 2 = **căn cứ**: người trẻ đọc tiểu thuyết mạng, bài phân tích dài, nhắn tin dài.\n- Đoạn 3 = **câu trả lời**: 「変わったのは、読む量**ではなく**、読む場所と形**なのだ**」 + phê phán 「決めつけるのは…一面しか見ていない」.\n- Câu cuối 「〜ということ**ではないだろうか**」 không phải câu hỏi mà là đề xuất của tác giả: nên hỏi \"đọc gì, đọc thế nào\".\n\n**④ Bước 4 — Ghép**: \"Giới trẻ thật sự không đọc nữa? → Không phải; lượng đọc không giảm, chỉ có nơi và hình thức thay đổi; nói 'xa rời việc đọc' là phiến diện.\"\n\n**⑤ Bước 5 — Loại trừ**: (1) bẫy quan niệm phổ biến; (3) trái căn cứ đoạn 2; (4) nói quá (「まったく」, đổi 文字 thành 本). → (2)."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "d04-q1", "kind": "passage", "pass": "p3",
+      "q": "この{文章|ぶんしょう}で、{筆者|ひっしゃ}が{読者|どくしゃ}に{投|な}げかけ、{答|こた}えようとしている{問|と}いは何か。",
+      "options": [
+        "なぜ月曜日の朝になっても{疲|つか}れが{取|と}れていないのか",
+        "本当の{意味|いみ}で休むとはどういうことか",
+        "どうすれば仕事の疲れをためずに{済|す}むのか",
+        "{週末|しゅうまつ}はどこで{過|す}ごすのが{最|もっと}もよいか"
+      ],
+      "answer": 1,
+      "vi": "Câu hỏi mà tác giả đặt ra và định trả lời trong bài là gì? → \"Nghỉ ngơi\" theo đúng nghĩa là gì?",
+      "why": "Câu hỏi chính đứng thành một đoạn riêng, mở đầu bằng 「では」: 「では、本当の意味で『休む』とはどういうことなのだろうか」 → phương án 2. Bài cũng kết thúc bằng câu trả lời đúng khuôn 「つまり、休むとは〜ことなのである」.\n- (1) Đó là **hiện tượng mở bài** (「そんな経験はないだろうか」 chỉ là câu gợi chuyện với người đọc).\n- (3) Bài không bàn cách \"không tích mệt\" trong công việc, mà bàn cách nghỉ sau khi đã mệt.\n- (4) Không phải chủ đề; bài không bàn về địa điểm."
+    },
+    {
+      "id": "d04-q2", "kind": "passage", "pass": "p3",
+      "q": "{筆者|ひっしゃ}によると、ソファでスマートフォンを{眺|なが}めていても{疲|つか}れが{消|き}えないのはなぜか。",
+      "options": [
+        "体は休んでいても、頭は{情報|じょうほう}を{処理|しょり}し{続|つづ}けているから",
+        "体を動かさないと、体の疲れが{回復|かいふく}しないから",
+        "スマートフォンの{画面|がめん}を見続けると、目が疲れてしまうから",
+        "ソファに{寝転|ねころ}がると、かえって{姿勢|しせい}が悪くなるから"
+      ],
+      "answer": 0,
+      "vi": "Theo tác giả, vì sao nằm sofa lướt điện thoại vẫn không hết mệt? → Vì dù cơ thể nghỉ, đầu óc vẫn tiếp tục xử lý thông tin.",
+      "why": "Câu có 「〜からだ」 ngay sau: 「体は止まっていても、頭は次々と流れてくる情報を処理し続けているからだ」 → phương án 1.\n- (2) Bài nói mệt mỏi hiện đại là mệt **đầu óc, thần kinh**, không phải mệt cơ thể.\n- (3)(4) Mắt mỏi, tư thế xấu — có thể đúng ngoài đời nhưng **không có trong bài**. Đừng chọn theo kiến thức thường thức."
+    },
+    {
+      "id": "d04-q3", "kind": "passage", "pass": "p3",
+      "q": "文章中の{問|と}いに{対|たい}する{筆者|ひっしゃ}の答えとして、{最|もっと}も{適当|てきとう}なものはどれか。",
+      "options": [
+        "{休日|きゅうじつ}はできるだけ体を動かさず、家でじっとしていること",
+        "休日にも仕事のことを{忘|わす}れずに、頭を使い続けること",
+        "{普段|ふだん}{疲|つか}れている{部分|ぶぶん}とは{別|べつ}の部分を使って、{心身|しんしん}のバランスを{取|と}り{戻|もど}すこと",
+        "どんな仕事の人も、{散歩|さんぽ}や{料理|りょうり}など、体を動かすことをすること"
+      ],
+      "answer": 2,
+      "vi": "Câu trả lời của tác giả cho câu hỏi trong bài là gì? → Dùng phần khác với phần thường ngày đang mệt để lấy lại cân bằng cho thân và tâm.",
+      "why": "Câu trả lời gói trong 「つまり、休むとは何もしないことではなく、疲れている部分とは別の部分を使って、心身のバランスを取り戻すことなのである」 → phương án 3.\n- (1) **Bẫy quan niệm phổ biến**: chính là cái 「私たちは考えがちだ」 mà tác giả nói 「それだけでは足りない」.\n- (2) Ngược ý: cần **dừng** phần đang dùng (頭).\n- (4) **Nói quá**: đi dạo, nấu ăn chỉ hợp với người làm bàn giấy; người làm việc phải đứng thì nên đọc sách."
+    }
+  ],
+  "practice": [
+    {
+      "id": "d04-p1", "kind": "passage", "pass": "p4",
+      "q": "{筆者|ひっしゃ}は、{失敗|しっぱい}しない{方法|ほうほう}を前もってすべて教えることについて、どう考えているか。",
+      "options": [
+        "{相手|あいて}が自分で考え、{理解|りかい}する{機会|きかい}を{奪|うば}うことになり、{必|かなら}ずしも{親切|しんせつ}とは言えない。",
+        "相手が同じ{苦労|くろう}をしなくて{済|す}むので、本当の親切だと言える。",
+        "{取|と}り{返|かえ}しのつかない失敗につながるので、{絶対|ぜったい}にしてはいけない。",
+        "{新人|しんじん}は失敗の{原因|げんいん}を考えようとしないので、教えても{意味|いみ}がない。"
+      ],
+      "answer": 0,
+      "vi": "Tác giả nghĩ gì về việc dạy trước mọi cách để không thất bại? → Điều đó lấy mất cơ hội tự suy nghĩ, tự hiểu của đối phương, nên chưa chắc đã là tử tế.",
+      "why": "Câu hỏi 「果たして本当の親切と言えるだろうか」 (Yes-No, 果たして → đoán \"không hẳn\"). Đoạn 2 giải thích: người chỉ làm theo lời dặn 「なぜそれでうまくいくのかを知らないまま」, còn người tự thất bại thì 「手順の意味そのものを理解している」 → dạy hết trước = lấy mất cơ hội đó → phương án 1.\n- (2) **Bẫy quan niệm phổ biến**: đó là 「善意」 mà tác giả đặt câu hỏi để nghi ngờ.\n- (3) Ngược: chính việc 「取り返しのつかない失敗」 thì tác giả nói **phải ngăn**; và không có 「絶対に」.\n- (4) Bài không chê người mới lười suy nghĩ."
+    },
+    {
+      "id": "d04-p2", "kind": "passage", "pass": "p4",
+      "q": "{筆者|ひっしゃ}の考えに合うものはどれか。",
+      "options": [
+        "{新人|しんじん}には、どんな{失敗|しっぱい}でも{経験|けいけん}させてみるべきだ。",
+        "失敗の経験が多い人ほど、新人に仕事を教えるのが上手だ。",
+        "言われた{通|とお}りにやってうまくいけば、{手順|てじゅん}の{意味|いみ}も{自然|しぜん}に{理解|りかい}できる。",
+        "小さな失敗は{見守|みまも}り、後で{一緒|いっしょ}に{振|ふ}り{返|かえ}るほうが、{相手|あいて}の{成長|せいちょう}につながる。"
+      ],
+      "answer": 3,
+      "vi": "Điều nào phù hợp với suy nghĩ của tác giả? → Với thất bại nhỏ, đứng ngoài dõi theo rồi cùng nhìn lại sẽ giúp đối phương trưởng thành hơn.",
+      "why": "Đoạn cuối là cách làm tác giả đề xuất: 「小さな失敗であれば、あえて見守り、後で一緒に振り返る。そのほうが、長い目で見れば相手のためになるはずである」 → phương án 4.\n- (1) **Nói quá**: 「どんな失敗でも」 trái với 「取り返しのつかない失敗は防がなければならない」.\n- (2) Bài không so sánh khả năng dạy của người từng thất bại.\n- (3) Ngược: người làm theo lời dặn 「なぜそれでうまくいくのかを知らないまま」."
+    },
+    {
+      "id": "d04-p3", "kind": "passage", "pass": "p5",
+      "q": "{筆者|ひっしゃ}が「もっと{避|さ}けたい」と考えている{対応|たいおう}はどれか。",
+      "options": [
+        "{図鑑|ずかん}を使って、{正確|せいかく}な{知識|ちしき}を教えること",
+        "「どうしてだと思う?」と{問|と}い{返|かえ}して、子どもに考えさせること",
+        "子どもの{的外|まとはず}れな答えを、まずはそのまま{受|う}け{止|と}めること",
+        "「大きくなったら分かる」と言って、まともに答えないこと"
+      ],
+      "answer": 3,
+      "vi": "Cách ứng xử mà tác giả cho là \"càng nên tránh hơn\" là gì? → Nói \"lớn lên con sẽ hiểu\" và không trả lời đàng hoàng.",
+      "why": "Đoạn 3: 「反対に、『そういうものなの』『大きくなったら分かるよ』と軽く流してしまうのは、もっと避けたい」 → phương án 4. 「もっと」 = so với cách ở đoạn 2 (dạy kiến thức chính xác), cách này còn tệ hơn.\n- (1) Là ứng viên ở đoạn 2 — bị chê nhẹ (「間違ってはいないが…」), không phải \"càng nên tránh\".\n- (2)(3) Là **câu trả lời tác giả khuyên** ở đoạn 4 — ngược hẳn."
+    },
+    {
+      "id": "d04-p4", "kind": "passage", "pass": "p5",
+      "q": "{筆者|ひっしゃ}が、{正確|せいかく}な{知識|ちしき}を教えることを{最善|さいぜん}の{対応|たいおう}だと考えていないのはなぜか。",
+      "options": [
+        "親が{間違|まちが}った知識を教えてしまうおそれがあるから",
+        "子どもには{難|むずか}しすぎることが多く、{会話|かいわ}もそこで終わってしまうから",
+        "子どもが{疑問|ぎもん}を持つこと{自体|じたい}をやめてしまうから",
+        "{図鑑|ずかん}で{調|しら}べるのは時間がかかり、親が{疲|つか}れてしまうから"
+      ],
+      "answer": 1,
+      "vi": "Vì sao tác giả không coi việc dạy kiến thức chính xác là cách tốt nhất? → Vì thường quá khó với trẻ, và cuộc trò chuyện kết thúc ngay tại đó.",
+      "why": "Đoạn 2: 「間違ってはいないが、幼い子どもにとっては難しすぎることが多いうえ、答えをもらった時点で会話が終わってしまう」 → phương án 2.\n- (1) Ngược: tác giả nói 「間違ってはいない」.\n- (3) **Gán nhầm lý do**: 「疑問を持つこと自体をやめてしまう」 là hậu quả của cách 「軽く流す」 ở đoạn 3.\n- (4) Mệt mỏi của bố mẹ được nhắc ở đoạn 1 vì bị hỏi nhiều, không phải vì tra sách."
+    },
+    {
+      "id": "d04-p5", "kind": "passage", "pass": "p5",
+      "q": "文章中の{問|と}いに{対|たい}する{筆者|ひっしゃ}の答えとして、{最|もっと}も{適当|てきとう}なものはどれか。",
+      "options": [
+        "子どもに考えさせ、その考えを{受|う}け{止|と}めたうえで、{一緒|いっしょ}に{調|しら}べる。",
+        "子どもが自分で正しい答えを見つけるまで、親は何も教えない。",
+        "{正確|せいかく}な{知識|ちしき}を、子どもに分かる{易|やさ}しい言葉に{直|なお}して教える。",
+        "子どもの{質問|しつもん}には、一日に答える{回数|かいすう}を決めておく。"
+      ],
+      "answer": 0,
+      "vi": "Câu trả lời của tác giả cho câu hỏi trong bài là gì? → Cho trẻ tự suy nghĩ, đón nhận suy nghĩ đó rồi cùng nhau tìm hiểu.",
+      "why": "Câu hỏi: 「子どもの『なぜ』に、親はどう向き合えばいいのだろうか」 (hỏi cách làm). Đoạn 2, 3 loại hai cách; đoạn 4 「私が勧めたいのは、『どうしてだと思う?』と問い返してみること…まずは…受け止め、それから一緒に調べればいい」 → phương án 1.\n- (2) Ngược: tác giả bảo **cùng tìm hiểu**, và nói 「大切なのは正しい答えを与えることではなく」 — không phải đợi trẻ tìm ra đáp án đúng.\n- (3) Là biến thể của **câu trả lời bị loại** ở đoạn 2 (vẫn là \"đưa đáp án\", hội thoại vẫn kết thúc).\n- (4) Không có trong bài."
+    }
+  ],
+  "test": [
+    {
+      "id": "d04-t1", "kind": "passage", "pass": "p6",
+      "q": "[[u:本当にそうだろうか]]とあるが、{筆者|ひっしゃ}はどのような考えを{疑|うたが}っているのか。",
+      "options": [
+        "{自動翻訳|じどうほんやく}は、{旅行|りょこう}や{簡単|かんたん}な{商談|しょうだん}で{役|やく}に立つという考え",
+        "自動翻訳があれば、{苦労|くろう}して{外国語|がいこくご}を{学|まな}ぶ必要はないという考え",
+        "外国語を学ぶには、{大変|たいへん}な苦労が必要だという考え",
+        "{言葉|ことば}には、{情報|じょうほう}{以上|いじょう}のものが{含|ふく}まれているという考え"
+      ],
+      "answer": 1,
+      "vi": "Tác giả đang nghi ngờ suy nghĩ nào? → Suy nghĩ rằng có dịch tự động thì không cần vất vả học ngoại ngữ.",
+      "why": "「そう」 chỉ câu ngay trước: 「『これからの時代、苦労して外国語を学ぶ必要はないのではないか』という声」 → phương án 2. Chú ý: 「〜のではないか」 ở đây nằm trong 「 」 và là **ý kiến của người khác** (「という声」), không phải chủ trương của tác giả.\n- (1) Tác giả **thừa nhận** điều này (「もはや困ることはほとんどないだろう」「たしかに…機械で十分かもしれない」).\n- (3) Không phải nội dung bị nghi ngờ; 「苦労して」 chỉ là chi tiết trong câu được trích.\n- (4) Đây là **luận điểm của chính tác giả** dùng để phản bác."
+    },
+    {
+      "id": "d04-t2", "kind": "passage", "pass": "p6",
+      "q": "{筆者|ひっしゃ}によると、{翻訳機|ほんやくき}が{教|おし}えてくれないものは何か。",
+      "options": [
+        "{外国語|がいこくご}の{単語|たんご}が持つ{正確|せいかく}な{意味|いみ}",
+        "{相手|あいて}の{言葉|ことば}に{訳|やく}すためにかかる時間",
+        "言葉の{背景|はいけい}にある、その{言語|げんご}を話す{人々|ひとびと}の物の{見方|みかた}",
+        "雨の{降|ふ}り方や{家族|かぞく}の{呼|よ}び方を{表|あらわ}す、たくさんの言葉"
+      ],
+      "answer": 2,
+      "vi": "Theo tác giả, máy dịch không dạy cho ta điều gì? → Cách nhìn sự vật của những người nói ngôn ngữ đó, nằm sau từ ngữ.",
+      "why": "「翻訳機は言葉を置き換えてはくれるが、**この見え方の違い**までは教えてくれない」. 「この見え方」 chỉ câu trước: 「その言葉を話す人々が何を大切にし、世界をどのように切り分けて見ているか」 → phương án 3.\n- (1) Máy dịch **có** chuyển nghĩa từ (「言葉を置き換えてはくれる」).\n- (2) Bài nói máy dịch chỉ mất 「数秒」 — không liên quan.\n- (4) **Bẫy ví dụ**: mưa và cách gọi người thân chỉ là ví dụ minh hoạ cho \"cách nhìn thế giới\", không phải thứ máy không dạy."
+    },
+    {
+      "id": "d04-t3", "kind": "passage", "pass": "p6",
+      "q": "{筆者|ひっしゃ}の考える「{外国語|がいこくご}を{学|まな}ぶことの本当の{意味|いみ}」とは何か。",
+      "options": [
+        "{自動翻訳|じどうほんやく}よりも{正確|せいかく}に、{相手|あいて}に{情報|じょうほう}を{伝|つた}えられるようになること",
+        "{慣|な}れない{文法|ぶんぽう}や{訳|やく}せない{言葉|ことば}を、一つずつ{覚|おぼ}えていくこと",
+        "自分の{当|あ}たり前を{捨|す}てて、相手の国の考え方に合わせられるようになること",
+        "自分とは{異|こと}なる物の{見方|みかた}を知り、相手を深く{理解|りかい}しようとする{姿勢|しせい}を身につけること"
+      ],
+      "answer": 3,
+      "vi": "\"Ý nghĩa thật sự của việc học ngoại ngữ\" theo tác giả là gì? → Biết được cách nhìn khác với mình và có được thái độ muốn hiểu sâu đối phương.",
+      "why": "Câu hỏi thứ hai của bài: 「では、外国語を学ぶことの本当の意味はどこにあるのか」 (疑問詞). Câu trả lời ngay sau: 「私は、それは自分とは異なる物の見方を、自分の中に取り込むことにあると考える」 + 「その経験こそが、相手を深く理解しようとする姿勢を育てる」 → phương án 4.\n- (1) Truyền thông tin thì tác giả nói 「機械で十分かもしれない」 — không phải ý nghĩa thật sự.\n- (2) Bối rối trước ngữ pháp lạ là **quá trình / trải nghiệm**, không phải mục đích \"học thuộc từng cái\".\n- (3) **Nói quá / sai hướng**: tác giả nói biết rằng cái đương nhiên của mình 「唯一のものではない」, chứ không bảo **vứt bỏ** nó và chiều theo người khác."
+    },
+    {
+      "id": "d04-t4", "kind": "passage", "pass": "p7",
+      "q": "文章中の{問|と}いに{対|たい}する{筆者|ひっしゃ}の答えとして、{最|もっと}も{適当|てきとう}なものはどれか。",
+      "options": [
+        "メールのほうが速くて安いので、{手書|てが}きの手紙はもう必要ない。",
+        "字がきれいに書けなければ、手書きの手紙では{気持|きも}ちが{伝|つた}わらない。",
+        "{入院|にゅういん}している人には、メールではなく手書きの手紙を{送|おく}るべきだ。",
+        "{手間|てま}をかけること自体が気持ちを伝えるので、手書きの手紙には今も{価値|かち}がある。"
+      ],
+      "answer": 3,
+      "vi": "Câu trả lời của tác giả cho câu hỏi trong bài là gì? → Bản thân việc bỏ công sức đã truyền đạt tình cảm, nên thư viết tay đến nay vẫn có giá trị.",
+      "why": "Câu hỏi: 「では、手書きの手紙はもう必要ないのだろうか」 (Yes-No). Câu cuối 「…手間をかけること自体が気持ちを伝える手段になるのではないだろうか」 — **không phải câu hỏi** mà là câu trả lời mềm của tác giả: thư tay vẫn có ý nghĩa → phương án 4.\n- (1) **Bẫy quan niệm phổ biến**: tác giả công nhận email tiện (「当然のことだ」) nhưng đặt câu hỏi để đi ngược lại.\n- (2) Ngược: chữ 「決してきれいではなかった」 mà bà vẫn vui.\n- (3) **Bẫy ví dụ + nói quá**: chuyện người bà nằm viện chỉ là ví dụ; bài không đưa ra quy tắc 「べきだ」."
+    }
+  ]
+}

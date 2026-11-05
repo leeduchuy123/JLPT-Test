@@ -1,0 +1,167 @@
+{
+  "id": "b01",
+  "track": "bunpo",
+  "intro": "Bài này gom 5 mẫu đều trả lời câu hỏi **\"khi nào?\"**, nhưng chia làm hai nhóm rất khác nhau:\n\n- **Nhóm \"lúc / nhân dịp\"**: 〜際(に), 〜に際して・〜にあたって. Chỉ là cách nói **trang trọng** của 「〜とき」, hay gặp trong thông báo, hướng dẫn, phát biểu.\n- **Nhóm \"vừa… thì ngay lập tức…\"**: 〜たとたん(に), 〜(か)と思うと・〜(か)と思ったら, 〜か〜ないかのうちに. Diễn tả hai việc xảy ra **sát nhau**, việc sau thường **bất ngờ**.\n\nĐiểm then chốt để không mất điểm: nhóm 2 **không đi với ý chí, nhờ vả, mệnh lệnh của người nói** ở vế sau (không nói 「〜たとたん、帰りましょう」). Vế sau là một **sự việc đã xảy ra** mà người nói quan sát được.",
+  "points": [
+    {
+      "id": "b01-1",
+      "pattern": "〜際(に)",
+      "reading": "〜さい(に)",
+      "meaning": "Khi, lúc, nhân lúc (cách nói trang trọng của 〜とき)",
+      "structure": ["V辞書形／Vた形 ＋ 際(に)", "N ＋ の ＋ 際(に)", "この際 (nhân dịp này)"],
+      "explain": "Nghĩa giống hệt 「〜とき」, nhưng **cứng và lịch sự hơn**. Bạn sẽ gặp nó trên biển báo, trong email công việc, thông báo của khách sạn, nhà ga, thủ tục hành chính.\n\nCách hiểu dễ nhất: cứ thấy 「際」 thì đọc trong đầu là **\"khi\"**, rồi nhớ rằng câu đó đang ở **văn phong công việc / thông báo**.\n\n- **V辞書形 + 際**: khi *sắp / đang* làm việc đó. 「お{降|お}りの際は…」 = khi (quý khách) xuống xe.\n- **Vた形 + 際**: khi *đã* làm xong việc đó. 「{来日|らいにち}した際に…」 = khi (đã) sang Nhật.\n- **この際**: thành ngữ \"nhân dịp này / nhân tiện lần này\", thường đi với một quyết định: 「この際、はっきり言っておきます」.",
+      "nuance": "Chủ yếu gắn với **động từ / danh từ chỉ hành động, sự việc** (使う, 受け取る, 利用, 支払い…), dùng nhiều ở **nơi công cộng, văn bản chính thức**; ít dùng cho chuyện bình thường hằng ngày (「{毎日|まいにち}{学校|がっこう}へ{行|い}く{際|さい}」「ご飯を食べる際、テレビを見る」 nghe rất kỳ).\n\nKhông gắn với **trạng thái / tính chất**: ✗「{発音|はつおん}がわからない{際|さい}」「{若|わか}い{際|さい}」「{子|こ}どもの{際|さい}」 → dùng 「とき」. Văn phong cứng nên vế sau cũng thường trang trọng (〜なければならない, 〜ください), không hợp với lối nói suồng sã như 〜ちゃだめ.",
+      "examples": [
+        {"ja": "お{降|お}りの{際|さい}は、お{忘|わす}れ{物|もの}のないようご{注意|ちゅうい}ください。", "vi": "Khi xuống xe, xin quý khách chú ý đừng để quên đồ.", "note": "N の際 · câu thông báo trên tàu/xe buýt"},
+        {"ja": "パスワードを{変更|へんこう}する{際|さい}には、{本人|ほんにん}{確認|かくにん}が{必要|ひつよう}です。", "vi": "Khi thay đổi mật khẩu cần xác minh danh tính.", "note": "V辞書形 + 際: trước / trong lúc làm"},
+        {"ja": "{先日|せんじつ}{御社|おんしゃ}に{伺|うかが}った{際|さい}、{部長|ぶちょう}にご{挨拶|あいさつ}できず{失礼|しつれい}いたしました。", "vi": "Hôm trước khi đến thăm quý công ty, tôi thất lễ vì chưa kịp chào trưởng phòng.", "note": "Vた + 際: việc đã xảy ra · email công việc"},
+        {"ja": "{非常|ひじょう}の{際|さい}は、この{階段|かいだん}を{使|つか}ってください。", "vi": "Trong trường hợp khẩn cấp, hãy dùng cầu thang này.", "note": "非常の際 = khi khẩn cấp (cụm cố định)"},
+        {"ja": "この{際|さい}だから、{言|い}いたいことは{全部|ぜんぶ}{言|い}ってしまおう。", "vi": "Nhân dịp này, những gì muốn nói thì nói hết luôn đi.", "note": "この際 = nhân dịp này"}
+      ],
+      "compare": [
+        {"with": "〜とき", "diff": "Nghĩa như nhau. 「とき」 dùng mọi nơi; 「際」 chỉ hợp văn trang trọng và không dùng cho trạng thái kéo dài (thời thơ ấu, lúc còn trẻ…)."},
+        {"with": "〜に際して", "diff": "「に際して」 nhấn mạnh **một dịp đặc biệt, quan trọng, chỉ xảy ra một lần** (khai trương, tốt nghiệp, ký hợp đồng). 「際」 dùng được cả cho những việc lặp lại nhiều lần trong thủ tục / thông báo (khi đổi mật khẩu, khi xuống xe, khi thanh toán)."}
+      ],
+      "mistakes": [
+        "✗ {子|こ}どもの{際|さい}、よく{川|かわ}で{遊|あそ}んだ。→ ○ 子どものとき、… (trạng thái kéo dài, không phải một thời điểm)",
+        "✗ {食事|しょくじ}際に → ○ {食事|しょくじ}の際に (danh từ phải có の)"
+      ],
+      "tip": "Trong đề, nếu câu có màu sắc **thông báo / kính ngữ** (ご〜ください, お〜の, いたします) và chỗ trống mang nghĩa \"khi\", 「際」 gần như luôn là đáp án."
+    },
+    {
+      "id": "b01-2",
+      "pattern": "〜に際して・〜にあたって",
+      "reading": "〜にさいして・〜にあたって",
+      "meaning": "Nhân dịp, trước khi bắt đầu (một việc quan trọng)",
+      "structure": ["V辞書形 ＋ に際して／にあたって", "N ＋ に際して／にあたって", "Dạng bổ nghĩa danh từ: 〜に際しての N／〜にあたっての N"],
+      "explain": "Hai mẫu này dùng khi nói về **một sự kiện lớn, mang tính bước ngoặt**: bắt đầu dự án, khai trương, tốt nghiệp, nhập học, kết hôn, ký hợp đồng, xuất ngoại… Vế sau thường là **sự chuẩn bị, lời chào, lời cảm ơn, lưu ý** liên quan đến sự kiện đó.\n\nHình dung như lời phát biểu trong buổi lễ: 「{新社屋|しんしゃおく}の{完成|かんせい}にあたって、ひと{言|こと}ご{挨拶|あいさつ}申し上げます」 — Nhân dịp hoàn thành trụ sở mới, tôi xin có đôi lời.\n\n- **にあたって**: nghiêng về \"**trước khi bắt tay vào** việc đó, cần / đã làm gì\" (tâm thế chuẩn bị). Gốc từ 当たる = đối diện, đương đầu.\n- **に際して**: nghiêng về \"**đúng vào dịp** đó\". Trong đề N2, hai mẫu gần như thay được cho nhau.",
+      "nuance": "Rất trang trọng — gặp trong diễn văn, văn bản chính thức, thư mời, hướng dẫn thủ tục. Đi với việc **có chủ ý, đặc biệt, chỉ một lần** (kết hôn, mở cửa hàng, phẫu thuật, du học); không dùng cho việc nhỏ hằng ngày: không nói 「{歯|は}を{磨|みが}くにあたって」「{出勤|しゅっきん}するにあたって」.\n\n- **Vế sau chủ yếu là hành động** (chuẩn bị, hỏi, phát biểu, tổ chức…), không phải cảm xúc hay trạng thái: ✗「{移転|いてん}にあたって、とてもうれしいです」 ✗「{旅行|りょこう}に{際|さい}して、{体調|たいちょう}が{悪|わる}かった」.\n- **にあたって** gắn với việc mang tính **tích cực, chủ động hướng tới**, nên không đi với từ mang hình ảnh tiêu cực như 別れ・入院・倒産. Những từ này dùng 「に際して」 (hoặc 「際」).",
+      "examples": [
+        {"ja": "{留学|りゅうがく}に{際|さい}して、{両親|りょうしん}から{手紙|てがみ}をもらった。", "vi": "Nhân dịp đi du học, tôi nhận được thư của bố mẹ.", "note": "N + に際して · sự kiện lớn trong đời"},
+        {"ja": "{新|あたら}しい{事業|じぎょう}を{始|はじ}めるにあたって、{市場|しじょう}{調査|ちょうさ}を{徹底的|てっていてき}に{行|おこな}った。", "vi": "Trước khi bắt đầu mảng kinh doanh mới, chúng tôi đã khảo sát thị trường kỹ lưỡng.", "note": "V辞書形 + にあたって · vế sau là sự chuẩn bị"},
+        {"ja": "{契約|けいやく}に{際|さい}しての{注意|ちゅうい}{事項|じこう}は、{裏面|りめん}をご{覧|らん}ください。", "vi": "Các điều cần lưu ý khi ký hợp đồng, xin xem ở mặt sau.", "note": "に際しての + N"},
+        {"ja": "{開会|かいかい}にあたり、{主催者|しゅさいしゃ}を{代表|だいひょう}してご{挨拶|あいさつ}{申|もう}し{上|あ}げます。", "vi": "Nhân dịp khai mạc, tôi xin thay mặt ban tổ chức phát biểu đôi lời.", "note": "にあたり = dạng văn viết của にあたって"},
+        {"ja": "{卒業|そつぎょう}にあたって、お{世話|せわ}になった{先生方|せんせいがた}に{感謝|かんしゃ}の{気持|きも}ちを{伝|つた}えたい。", "vi": "Nhân dịp tốt nghiệp, tôi muốn gửi lời cảm ơn đến các thầy cô đã giúp đỡ mình.", "note": "Vế sau là ý muốn của người nói — vẫn dùng được (khác nhóm たとたん)"}
+      ],
+      "compare": [
+        {"with": "〜際(に)", "diff": "「際」 = \"khi\" trang trọng, dùng cả cho việc lặp lại. 「に際して／にあたって」 = \"nhân dịp\" một sự kiện **đặc biệt, quan trọng**."},
+        {"with": "〜に先立って", "diff": "「に先立って」 = \"**trước khi** (việc A diễn ra) thì làm B\", nhấn vào **thứ tự trước–sau**. 「にあたって」 nhấn vào tâm thế khi đối diện với việc đó."}
+      ],
+      "mistakes": [
+        "✗ {毎朝|まいあさ}{電車|でんしゃ}に{乗|の}るにあたって、{切符|きっぷ}を{買|か}う。→ việc thường ngày, dùng 「とき」 hoặc 「際」",
+        "Dạng nối danh từ là 「に際しての」「にあたっての」, không phải 「に際してN」.",
+        "✗ {父|ちち}の{入院|にゅういん}にあたって、{必要|ひつよう}な{物|もの}をそろえた。→ ○ 父の入院に際して、… (にあたって không đi với việc tiêu cực)"
+      ],
+      "tip": "Thấy từ chỉ **sự kiện lớn** (開店・開会・入学・卒業・結婚・出発・契約・就任) ngay trước chỗ trống → nghĩ ngay tới 「に際して／にあたって」."
+    },
+    {
+      "id": "b01-3",
+      "pattern": "〜たとたん(に)",
+      "reading": "〜たとたん(に)",
+      "meaning": "Vừa mới… thì ngay lập tức… (xảy ra điều bất ngờ)",
+      "structure": ["Vた形 ＋ とたん(に)"],
+      "explain": "Diễn tả: **ngay khoảnh khắc** việc A vừa xảy ra thì việc B (thường là **bất ngờ, ngoài dự đoán**) xảy ra liền. Hình dung một cú \"cắt cảnh\": cửa vừa mở → con mèo lao ra.\n\nCông thức nhớ: **[hành động xảy ra trong tích tắc]** た + とたん + **[sự việc bất ngờ, đã xảy ra]**.\n\n- Vế trước thường là động từ **xảy ra tức thì**: 立ち上がる, 開ける, 着く, 聞く, 飲む, 外に出る…\n- Vế sau là **sự thật đã xảy ra mà người nói chứng kiến**, thường ở thể た.\n- Dịch tự nhiên: \"vừa… thì…\", \"… cái là…\", \"ngay khi…\".",
+      "nuance": "Vế sau **không** được là ý chí, mong muốn, mệnh lệnh, rủ rê của người nói (〜よう, 〜たい, 〜てください, 〜ましょう). Thường vế sau cũng không phải hành động có chủ ý của chính người nói, mà là việc \"tự xảy ra\" hoặc phản ứng không kiểm soát được (chóng mặt, nước mắt trào ra…).",
+      "examples": [
+        {"ja": "{窓|まど}を{開|あ}けたとたん、{強|つよ}い{風|かぜ}が{吹|ふ}き{込|こ}んできた。", "vi": "Vừa mở cửa sổ ra thì một cơn gió mạnh thổi ùa vào.", "note": "Vế sau là sự việc bất ngờ"},
+        {"ja": "{試験|しけん}が{終|お}わったとたんに、{急|きゅう}にお{腹|なか}が{空|す}いてきた。", "vi": "Thi vừa xong là tự nhiên thấy đói bụng ngay.", "note": "Phản ứng cơ thể tự nhiên — hợp với たとたん"},
+        {"ja": "{彼|かれ}は{社長|しゃちょう}になったとたん、{態度|たいど}が{大|おお}きくなった。", "vi": "Anh ta vừa lên giám đốc là thái độ trở nên kênh kiệu ngay.", "note": "Sắc thái phê phán, ngạc nhiên"},
+        {"ja": "{玄関|げんかん}のドアを{開|あ}けたとたん、{猫|ねこ}が{外|そと}へ{飛|と}び{出|だ}していった。", "vi": "Tôi vừa mở cửa ra vào là con mèo phóng vụt ra ngoài.", "note": ""},
+        {"ja": "{名前|なまえ}を{呼|よ}ばれたとたん、{頭|あたま}が{真|ま}っ{白|しろ}になった。", "vi": "Vừa bị gọi tên là đầu óc trống rỗng.", "note": "Người nói không kiểm soát được phản ứng"}
+      ],
+      "compare": [
+        {"with": "〜(か)と思うと／〜(か)と思ったら", "diff": "「たとたん」 dùng được cho **cả bản thân người nói** (tôi vừa đứng dậy thì chóng mặt). 「と思ったら」 thường dùng để mô tả **người khác / sự vật** mà người nói quan sát, và hay có sự **thay đổi đột ngột, đối lập** (vừa khóc đã cười)."},
+        {"with": "〜とすぐ／〜てすぐ", "diff": "「てすぐ」 chỉ nói thứ tự trung tính (làm A rồi làm B ngay), vế sau có thể là ý chí: 「家に帰ってすぐ寝よう」 ○. 「たとたん」 thì không: 「家に帰ったとたん寝よう」 ✗."}
+      ],
+      "mistakes": [
+        "✗ {家|いえ}に{着|つ}いたとたん、{電話|でんわ}してください。→ ○ 家に着いたら、すぐ電話してください。(vế sau là nhờ vả)",
+        "✗ {窓|まど}を{開|あ}けるとたん… → ○ 開けたとたん (luôn là thể た)"
+      ],
+      "tip": "Loại đáp án 「たとたん」 nếu vế sau có 〜てください・〜ましょう・〜つもりだ・〜たい. Nếu vế sau là sự việc bất ngờ ở thể た → ứng viên số 1."
+    },
+    {
+      "id": "b01-4",
+      "pattern": "〜(か)と思うと・〜(か)と思ったら",
+      "reading": "〜(か)とおもうと・〜(か)とおもったら",
+      "meaning": "Vừa mới… thì đã… (thay đổi đột ngột mà người nói quan sát thấy)",
+      "structure": ["Vた形 ＋ (か)と思うと／(か)と思ったら"],
+      "explain": "Người nói **đứng ngoài quan sát** một người/vật: việc A vừa xảy ra, chưa kịp \"nghĩ là A\" thì **đã chuyển sang B**. Vế B thường **trái ngược hoặc rất khác** A, tạo cảm giác \"thay đổi chóng mặt\".\n\nVí dụ: 「{息子|むすこ}はご{飯|はん}を{食|た}べ{終|お}わったかと{思|おも}うと、もう{自分|じぶん}の{部屋|へや}でゲームを{始|はじ}めている」 — Thằng con vừa ăn xong đó mà đã vào phòng chơi game rồi.\n\nCách hiểu theo nghĩa đen giúp nhớ lâu: \"**Vừa tưởng là** (と思う) A xảy ra **thì** đã B\". Chính vì có \"tưởng\" (思う) nên chủ ngữ của việc A **không phải người nói**.",
+      "nuance": "- **Không dùng cho hành động của chính mình** (vì mình không \"quan sát\" mình): ✗ 「私は家に帰ったかと思うと、寝てしまった」.\n- Vế sau không phải ý chí/mệnh lệnh.\n- 「と思ったら」 còn một nghĩa khác (không thuộc mẫu này): \"cứ tưởng là… hoá ra…\" — 「{誰|だれ}かと{思|おも}ったら、{田中|たなか}さんだったのか」 (cứ tưởng ai, hoá ra là anh Tanaka).",
+      "examples": [
+        {"ja": "{空|そら}が{急|きゅう}に{暗|くら}くなったかと{思|おも}うと、{激|はげ}しい{雨|あめ}が{降|ふ}り{出|だ}した。", "vi": "Trời vừa tối sầm lại thì mưa đã trút xuống dữ dội.", "note": "Quan sát thiên nhiên"},
+        {"ja": "{弟|おとうと}は{帰|かえ}ってきたかと{思|おも}ったら、またすぐ{遊|あそ}びに{出|で}かけてしまった。", "vi": "Thằng em vừa về đến nhà đó mà lại đi chơi ngay rồi.", "note": "Chủ ngữ là người khác (弟)"},
+        {"ja": "やっと{洗濯物|せんたくもの}が{乾|かわ}いたと{思|おも}ったら、{急|きゅう}に{雨|あめ}が{降|ふ}ってきた。", "vi": "Đồ phơi vừa khô được đó thì trời lại đổ mưa.", "note": "Bỏ か cũng được (と思ったら); vế sau là việc ngoài ý muốn, không phải hành động của người nói"},
+        {"ja": "この{季節|きせつ}は、{暑|あつ}くなったかと{思|おも}うと{急|きゅう}に{寒|さむ}くなる。", "vi": "Mùa này, vừa nóng lên được tí là lại lạnh đột ngột.", "note": "Vế trước vẫn là Vた; vế sau ở thể る để mô tả hiện tượng lặp lại"},
+        {"ja": "{電車|でんしゃ}が{止|と}まったかと{思|おも}ったら、すぐにまた{動|うご}き{出|だ}した。", "vi": "Tàu vừa dừng lại thì đã chạy tiếp ngay.", "note": ""}
+      ],
+      "compare": [
+        {"with": "〜たとたん(に)", "diff": "「たとたん」: nhấn mạnh **khoảnh khắc** và tính **bất ngờ**, dùng được cho bản thân. 「かと思うと」: nhấn mạnh **sự chuyển đổi nhanh / đối lập**, người nói là **người quan sát** người/vật khác."},
+        {"with": "〜か〜ないかのうちに", "diff": "「か〜ないかのうちに」 còn sát hơn nữa: A **còn chưa xong hẳn** thì B đã bắt đầu."}
+      ],
+      "mistakes": [
+        "✗ {私|わたし}は{席|せき}に{座|すわ}ったかと{思|おも}うと、{眠|ねむ}ってしまった。→ ○ 私は席に座ったとたん、眠ってしまった。",
+        "✗ {雨|あめ}がやんだかと{思|おも}ったら、{出|で}かけましょう。→ vế sau là rủ rê, không dùng được."
+      ],
+      "tip": "Nếu câu có **hai trạng thái trái nhau** (泣く↔笑う, 晴れる↔降る, 止まる↔動く) và chủ ngữ là **người khác / thiên nhiên** → chọn 「かと思うと／かと思ったら」."
+    },
+    {
+      "id": "b01-5",
+      "pattern": "〜か〜ないかのうちに",
+      "reading": "〜か〜ないかのうちに",
+      "meaning": "Chưa kịp… xong thì đã… (gần như đồng thời)",
+      "structure": ["V辞書形／Vた形 ＋ か ＋ Vない形 ＋ かのうちに", "(cùng một động từ lặp lại: 終わるか終わらないかのうちに)"],
+      "explain": "Dịch sát nghĩa: \"**trong lúc còn chưa rõ là đã A hay chưa A**\" thì B đã xảy ra. Tức là A và B **gần như cùng lúc**, A còn đang dở thì B đã chen vào.\n\nVí dụ: 「ベルが{鳴|な}るか{鳴|な}らないかのうちに、{学生|がくせい}たちは{教室|きょうしつ}を{飛|と}び{出|だ}した」 — Chuông còn chưa reo dứt, học sinh đã lao ra khỏi lớp.\n\nĐây là mẫu \"sát giờ\" **mạnh nhất** trong bài. So sánh độ sát:\n- てすぐ < たとたん ≈ かと思うと < **か〜ないかのうちに** (gần như đồng thời).",
+      "nuance": "Phải lặp **cùng một động từ** ở dạng khẳng định và phủ định. Vế sau là sự việc thực tế đã xảy ra, không phải ý chí/mệnh lệnh. Động từ phía trước thường là việc diễn ra tức thì: 鳴る, 終わる, 着く, 座る, 横になる, 明ける…",
+      "examples": [
+        {"ja": "{彼女|かのじょ}は{電車|でんしゃ}の{席|せき}に{座|すわ}るか{座|すわ}らないかのうちに、{眠|ねむ}ってしまった。", "vi": "Cô ấy vừa đặt mông xuống ghế tàu là đã ngủ mất.", "note": ""},
+        {"ja": "{夜|よ}が{明|あ}けるか{明|あ}けないかのうちに、{父|ちち}は{畑|はたけ}へ{出|で}かけた。", "vi": "Trời còn chưa sáng hẳn, bố đã ra đồng.", "note": "夜が明ける = trời sáng"},
+        {"ja": "{試合|しあい}{終了|しゅうりょう}の{笛|ふえ}が{鳴|な}ったか{鳴|な}らないかのうちに、{観客|かんきゃく}は{一斉|いっせい}に{立|た}ち{上|あ}がった。", "vi": "Tiếng còi kết thúc trận đấu còn chưa dứt, khán giả đã đồng loạt đứng bật dậy.", "note": "Dạng Vた か Vない か"},
+        {"ja": "{話|はなし}が{終|お}わるか{終|お}わらないかのうちに、{彼|かれ}は{反論|はんろん}し{始|はじ}めた。", "vi": "Tôi còn chưa nói hết câu, anh ta đã bắt đầu phản bác.", "note": ""}
+      ],
+      "compare": [
+        {"with": "〜たとたん(に)", "diff": "「たとたん」: A **đã xong** rồi B xảy ra ngay. 「か〜ないかのうちに」: A **còn chưa xong hẳn** thì B đã xảy ra — sát hơn."},
+        {"with": "〜うちに (2課)", "diff": "「〜うちに」 đơn lẻ = \"trong lúc / nhân lúc còn…\" (若いうちに) — khác hoàn toàn. Đừng bị nhầm vì cùng có 「うちに」."}
+      ],
+      "mistakes": [
+        "✗ {座|すわ}るか{立|た}たないかのうちに → phải là cùng một động từ: 座るか座らないかのうちに",
+        "✗ {授業|じゅぎょう}が{終|お}わるか{終|お}わらないかのうちに、{帰|かえ}りましょう。→ vế sau là rủ rê, không dùng được."
+      ],
+      "tip": "Dạng bài 並べ替え hay cho các mảnh 「か」「ないか」「のうちに」 và động từ lặp lại — hãy ghép trước khối 「V るか V ないかのうちに」 rồi mới đặt vào câu."
+    }
+  ],
+  "summary": [
+    {"pattern": "〜際(に)", "meaning": "khi (trang trọng)", "key": "thông báo, email, văn bản; N の際"},
+    {"pattern": "〜に際して・〜にあたって", "meaning": "nhân dịp (sự kiện lớn)", "key": "khai trương, tốt nghiệp, hợp đồng… + chuẩn bị / lời chào"},
+    {"pattern": "〜たとたん(に)", "meaning": "vừa… thì ngay lập tức…", "key": "Vた; vế sau bất ngờ; không ý chí"},
+    {"pattern": "〜(か)と思うと・〜(か)と思ったら", "meaning": "vừa… thì đã…", "key": "quan sát người khác/thiên nhiên; hai trạng thái trái nhau"},
+    {"pattern": "〜か〜ないかのうちに", "meaning": "chưa kịp… xong đã…", "key": "lặp cùng động từ; gần như đồng thời"}
+  ],
+  "quiz": [
+    {"id": "b01-q1", "kind": "form", "ref": "b01-1", "q": "{当|とう}ホテルをご{利用|りよう}の（　　）、フロントで{身分証明書|みぶんしょうめいしょ}をご{提示|ていじ}ください。", "options": ["際は", "とたんに", "かと思うと", "うちに"], "answer": 0, "vi": "Khi sử dụng khách sạn, xin vui lòng xuất trình giấy tờ tùy thân tại quầy lễ tân.", "why": "Câu thông báo trang trọng (ご〜ください), cần nghĩa \"khi\" → **際は**. 「とたんに」「かと思うと」 cần Vた và vế sau không được là nhờ vả; 「うちに」 = trong lúc còn…, không hợp."},
+    {"id": "b01-q2", "kind": "form", "ref": "b01-2", "q": "{新製品|しんせいひん}の{発売|はつばい}（　　）、{記者|きしゃ}{会見|かいけん}が{開|ひら}かれた。", "options": ["かと思ったら", "にあたって", "たとたん", "か発売しないかのうちに"], "answer": 1, "vi": "Nhân dịp ra mắt sản phẩm mới, một buổi họp báo đã được tổ chức.", "why": "「発売」 là sự kiện quan trọng, vế sau là hoạt động gắn với sự kiện → **にあたって**. 「たとたん」 phải nối với Vた (発売したとたん); 「かと思ったら」 cũng cần Vた; phương án 4 sai cấu trúc (phải lặp cùng động từ: 発売するかしないか)."},
+    {"id": "b01-q3", "kind": "form", "ref": "b01-3", "q": "{会議室|かいぎしつ}に{入|はい}った（　　）、{全員|ぜんいん}が{一斉|いっせい}にこちらを{見|み}た。", "options": ["かのうちに", "にあたって", "とたん", "うちに"], "answer": 2, "vi": "Tôi vừa bước vào phòng họp thì tất cả mọi người đồng loạt nhìn về phía tôi.", "why": "Vた + chỗ trống + sự việc bất ngờ ngay lập tức → **とたん**. 「入ったかのうちに」 thiếu vế phủ định (phải là 入ったか入らないかのうちに); 「にあたって」 nối V辞書形 và cần sự kiện quan trọng; 「入ったうちに」 sai ngữ pháp."},
+    {"id": "b01-q4", "kind": "form", "ref": "b01-4", "q": "{妹|いもうと}は{今|いま}{泣|な}いていた（　　）、もうテレビを{見|み}て{笑|わら}っている。", "options": ["に際して", "際に", "にあたって", "かと思うと"], "answer": 3, "vi": "Em gái tôi vừa mới khóc đó mà giờ đã xem tivi cười rồi.", "why": "Người nói quan sát người khác (妹), hai trạng thái trái ngược (khóc ↔ cười) → **かと思うと**. Ba phương án còn lại đều là \"khi / nhân dịp\", không diễn tả sự thay đổi đột ngột."},
+    {"id": "b01-q5", "kind": "order", "ref": "b01-5", "q": "{授業|じゅぎょう}の ＿＿＿ ＿＿＿ ★ ＿＿＿、{学生|がくせい}たちは{教室|きょうしつ}を{出|で}ていった。", "options": ["鳴らない", "チャイムが", "かのうちに", "鳴るか"], "order": [1, 3, 0, 2], "answer": 0, "vi": "Chuông hết giờ còn chưa reo dứt thì học sinh đã ra khỏi lớp.", "why": "Ghép khối: 授業の **チャイムが 鳴るか 鳴らない かのうちに** → vị trí ★ là ô thứ 3 = 「鳴らない」 (phương án 1). Mẹo: ghép 「鳴るか」+「鳴らない」+「かのうちに」 trước, danh từ chủ ngữ 「チャイムが」 đứng đầu."},
+    {"id": "b01-q6", "kind": "usage", "ref": "b01-3", "q": "「〜たとたん」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["駅に着いたとたん、私に電話してください。", "大学を卒業したとたん、留学しようと思っている。", "薬を飲んだとたん、気分が悪くなった。", "毎朝起きるとたん、コーヒーを飲む。"], "answer": 2, "vi": "(3) Vừa uống thuốc xong thì tôi thấy khó chịu ngay.", "why": "Phương án 3: vế sau là sự việc bất ngờ đã xảy ra → đúng. (1) vế sau là nhờ vả; (2) vế sau là ý định 〜ようと思う; (4) dùng thể る và là thói quen hằng ngày, chỉ cần 「起きるとすぐ」."}
+  ],
+  "practice": [
+    {"id": "b01-p1", "kind": "form", "ref": "b01-1", "q": "{商品|しょうひん}を{返品|へんぴん}する（　　）は、レシートが{必要|ひつよう}です。", "options": ["とたん", "際", "かと思うと", "か返品しないかのうちに"], "answer": 1, "vi": "Khi trả lại hàng thì cần có hoá đơn.", "why": "Thông tin hướng dẫn, nghĩa \"khi\" → **際**. 「返品するとたん」 sai (とたん cần Vた); 「かと思うと」 cần Vた và chủ thể quan sát; phương án 4 vế sau không phải sự việc xảy ra ngay."},
+    {"id": "b01-p2", "kind": "form", "ref": "b01-2", "q": "{社長|しゃちょう}{就任|しゅうにん}（　　）、{新社長|しんしゃちょう}は{社員|しゃいん}{全員|ぜんいん}にメッセージを{送|おく}った。", "options": ["に際して", "たとたん", "かと思ったら", "ないかのうちに"], "answer": 0, "vi": "Nhân dịp nhậm chức, tân giám đốc đã gửi thông điệp tới toàn thể nhân viên.", "why": "「就任」 là sự kiện quan trọng → **に際して**. 「たとたん」「かと思ったら」 không nối trực tiếp với danh từ; phương án 4 sai cấu trúc."},
+    {"id": "b01-p3", "kind": "form", "ref": "b01-3", "q": "{冷房|れいぼう}の{効|き}いた{店|みせ}から{外|そと}に{出|で}た（　　）、{熱気|ねっき}で{汗|あせ}が{噴|ふ}き{出|だ}した。", "options": ["に際して", "にあたって", "とたんに", "かのうちに"], "answer": 2, "vi": "Vừa bước ra khỏi cửa hàng có điều hoà là mồ hôi túa ra vì hơi nóng.", "why": "Vた + phản ứng cơ thể bất ngờ ngay lập tức → **とたんに**. 「に際して」「にあたって」 nối V辞書形 / N, dành cho sự kiện quan trọng có chủ ý, và vế sau phải là hành động; 「出たかのうちに」 thiếu vế 「出ないか」."},
+    {"id": "b01-p4", "kind": "form", "ref": "b01-4", "q": "{子犬|こいぬ}は{庭|にわ}を{走|はし}り{回|まわ}っていた（　　）、{急|きゅう}に{座|すわ}り{込|こ}んで{寝|ね}てしまった。", "options": ["に際して", "かと思ったら", "際に", "にあたり"], "answer": 1, "vi": "Chú cún vừa mới chạy khắp vườn đó mà đã ngồi phịch xuống ngủ mất.", "why": "Quan sát con vật, hai trạng thái trái ngược (chạy nhảy ↔ ngủ) → **かと思ったら**."},
+    {"id": "b01-p5", "kind": "form", "ref": "b01-5", "q": "{横|よこ}になるか（　　）うちに、{彼|かれ}はいびきをかき{始|はじ}めた。", "options": ["ならないかの", "ならないの", "なるかの", "ならなくての"], "answer": 0, "vi": "Anh ấy vừa nằm xuống là đã bắt đầu ngáy.", "why": "Cấu trúc cố định 「V るか V ないかのうちに」 → 横になるか**ならないかの**うちに (lặp lại động từ なる); đáp án là 「ならないかの」."},
+    {"id": "b01-p6", "kind": "order", "ref": "b01-2", "q": "{海外|かいがい}{支社|ししゃ}を ＿＿＿ ＿＿＿ ★ ＿＿＿ {行|おこな}われた。", "options": ["にあたって", "現地での", "開設する", "調査が"], "order": [2, 0, 1, 3], "answer": 1, "vi": "Trước khi mở chi nhánh ở nước ngoài, một cuộc khảo sát tại chỗ đã được tiến hành.", "why": "海外支社を **開設する にあたって 現地での 調査が** 行われた → ★ (ô thứ 3) = 「現地での」. 「を」 cần động từ ngay sau: 開設する; 「現地での」 bổ nghĩa cho 「調査」."},
+    {"id": "b01-p7", "kind": "usage", "ref": "b01-4", "q": "「〜かと思ったら」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["私は家に帰ったかと思ったら、すぐ寝てしまった。", "雨がやんだかと思ったら、散歩に行きましょう。", "赤ちゃんが静かになったかと思ったら、また泣き出した。", "留学するかと思ったら、パスポートを申請した。"], "answer": 2, "vi": "(3) Em bé vừa im lặng được một chút thì lại khóc tiếp.", "why": "(3) quan sát người khác, hai trạng thái đối lập → đúng. (1) chủ ngữ là chính mình; (2) vế sau là rủ rê; (4) dùng thể る và vế sau là hành động có chủ ý, nên dùng 「留学するにあたって」."},
+    {"id": "b01-p8", "kind": "form", "ref": "b01-1", "q": "{先日|せんじつ}{京都|きょうと}を{訪|おとず}れた（　　）、{偶然|ぐうぜん}{昔|むかし}の{友人|ゆうじん}に{会|あ}った。", "options": ["際", "にあたって", "か訪れないかのうちに", "かと思うと"], "answer": 0, "vi": "Hôm trước khi đến Kyoto, tôi tình cờ gặp lại một người bạn cũ.", "why": "\"Khi (đã) đến Kyoto\" — kể lại trang trọng, trung tính → **際**. 「かと思うと」 không dùng cho hành động của chính người nói (訪れた là việc của tôi); 「にあたって」 nối V辞書形 và mang ý chuẩn bị; 「訪れたか訪れないかのうちに」 đòi hỏi B xảy ra gần như đồng thời, không hợp với \"trong chuyến đi thì tình cờ gặp\"."},
+    {"id": "b01-p9", "kind": "form", "ref": "b01-3", "q": "{今日|きょう}は{汗|あせ}をかいたので、{家|いえ}に（　　）シャワーを{浴|あ}びるつもりだ。", "options": ["帰ったとたん", "帰ってすぐ", "帰ったかと思うと", "帰るか帰らないかのうちに"], "answer": 1, "vi": "Hôm nay đổ mồ hôi nhiều nên về đến nhà tôi định tắm ngay.", "why": "Vế sau là **ý định** của người nói (〜つもりだ). 「てすぐ」 chỉ trình tự trung tính nên đi được với ý định → **帰ってすぐ**. 「たとたん」「かと思うと」「か〜ないかのうちに」 đều không nhận vế sau là ý chí / ý định của người nói (và 「かと思うと」 còn không dùng cho hành động của chính mình)."},
+    {"id": "b01-p10", "kind": "order", "ref": "b01-3", "q": "{電話|でんわ}を ＿＿＿ ＿＿＿ ★ ＿＿＿ {鳴|な}った。", "options": ["とたん", "切った", "チャイムが", "玄関の"], "order": [1, 0, 3, 2], "answer": 3, "vi": "Tôi vừa cúp máy thì chuông cửa reo.", "why": "電話を **切った とたん 玄関の チャイムが** 鳴った → ★ (ô thứ 3) = 「玄関の」. 「電話を」 cần động từ ngay sau → 「切った」; 「とたん」 phải đứng sau Vた; 「玄関の」 bổ nghĩa 「チャイム」, và 「チャイムが」 là chủ ngữ của 「鳴った」."}
+  ],
+  "test": [
+    {"id": "b01-t1", "kind": "form", "ref": "b01-2", "q": "{本日|ほんじつ}の{開店|かいてん}（　　）、{一言|ひとこと}ご{挨拶|あいさつ}{申|もう}し{上|あ}げます。", "options": ["したとたん", "の際だから", "かと思うと", "にあたりまして"], "answer": 3, "vi": "Nhân dịp khai trương hôm nay, tôi xin có đôi lời chào hỏi.", "why": "Phát biểu nhân sự kiện quan trọng → **にあたりまして** (dạng lịch sự của にあたって). 「の際だから」 không hợp nghĩa; 「したとたん」「かと思うと」 không đi với lời chào có chủ ý."},
+    {"id": "b01-t2", "kind": "form", "ref": "b01-3", "q": "{一口|ひとくち}{食|た}べた（　　）、あまりの{辛|から}さに{涙|なみだ}が{出|で}てきた。", "options": ["とたん", "に際して", "にあたって", "うちに"], "answer": 0, "vi": "Vừa ăn một miếng là nước mắt chảy ra vì cay quá.", "why": "Vた + phản ứng không kiểm soát, ngay lập tức → **とたん**. 「に際して」「にあたって」 nối V辞書形 / N, dùng cho sự kiện quan trọng và vế sau là hành động có chủ ý; 「食べたうちに」 sai ngữ pháp."},
+    {"id": "b01-t3", "kind": "form", "ref": "b01-5", "q": "{目覚|めざ}まし{時計|どけい}が{鳴|な}るか{鳴|な}らない（　　）、{彼|かれ}は{飛|と}び{起|お}きた。", "options": ["うちに", "かのうちに", "とたんに", "かと思うと"], "answer": 1, "vi": "Đồng hồ báo thức vừa reo là anh ấy bật dậy ngay.", "why": "Khung cố định 「鳴るか鳴らない**かのうちに**」. Thiếu 「か」 thì sai (phương án 1)."},
+    {"id": "b01-t4", "kind": "form", "ref": "b01-4", "q": "{空|そら}が{光|ひか}った（　　）、{大|おお}きな{雷|かみなり}の{音|おと}が{響|ひび}いた。", "options": ["に際して", "にあたって", "かと思うと", "際は"], "answer": 2, "vi": "Bầu trời vừa loé sáng thì một tiếng sấm lớn vang lên.", "why": "Quan sát thiên nhiên, B nối tiếp A ngay lập tức → **かと思うと**. (「光ったとたん」 cũng tự nhiên nhưng không có trong lựa chọn.) Ba phương án còn lại là \"khi / nhân dịp\"."},
+    {"id": "b01-t5", "kind": "usage", "ref": "b01-1", "q": "「{際|さい}」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["学生の際、よく図書館で勉強した。", "お支払いの際は、こちらのカードもご利用いただけます。", "若い際に、もっと勉強しておけばよかった。", "家に着く際、友達から電話が来たとたんだ。"], "answer": 1, "vi": "(2) Khi thanh toán, quý khách cũng có thể dùng thẻ này.", "why": "(2) văn thông báo, N の際 → đúng. (1) 「学生」 là thời kỳ kéo dài → 学生のとき; (3) 「際」 không gắn với tính từ / trạng thái → 若いときに; (4) sai cấu trúc."},
+    {"id": "b01-t6", "kind": "order", "ref": "b01-2", "q": "{本学|ほんがく}への ＿＿＿ ＿＿＿ ★ ＿＿＿ をよく{読|よ}んでください。", "options": ["入学に", "書類", "際しての", "注意事項が書かれた"], "order": [0, 2, 3, 1], "answer": 3, "vi": "Hãy đọc kỹ tài liệu ghi các điều lưu ý khi nhập học vào trường.", "why": "本学への **入学に 際しての 注意事項が書かれた 書類** をよく読んでください → ★ = 「注意事項が書かれた」. 「に際しての」 + N (注意事項)."}
+  ]
+}

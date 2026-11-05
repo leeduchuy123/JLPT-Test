@@ -1,0 +1,1308 @@
+{
+  "id": "g24",
+  "track": "goi",
+  "intro": "Bài cuối của chương **意味がたくさんある言葉** (từ nhiều nghĩa), lần này là **tính từ và danh từ**. Mỗi từ có một **hình ảnh gốc** cụ thể (thường là nghĩa vật lý: sóng, lưỡi dao, con dốc, khuôn bánh…), rồi được mở rộng sang nghĩa trừu tượng về **con người, tính cách, tình hình**. Nắm được hình ảnh gốc thì nghĩa mở rộng tự nhiên hiện ra.\n\n- **Tính từ (12 từ)**: 荒い・粗い, 恐ろしい, 穏やか, 勝手, くどい, 険しい, 純粋, 粗末, やかましい, 鋭い, 鈍い. Ví dụ 険しい: con dốc hiểm trở → nét mặt căng thẳng → con đường phía trước gian nan.\n- **Danh từ (8 từ)**: 裏, 影・陰, 型, 形, 波, 幅, 文句. Ví dụ 幅: bề rộng con đường → phạm vi lựa chọn → độ chênh của giá cả.\n\nPhần ウォーミングアップ của sách hỏi một từ hợp cả ba chỗ: 「{道|みち}の（　）が{狭|せま}い」「{気温|きおん}の{変化|へんか}の（　）が{大|おお}きい」「{選択|せんたく}の（　）が{広|ひろ}がる」 → đáp án là **幅(はば)** — đúng tinh thần cả bài.\n\nĐiểm then chốt khi thi:\n- **連語 (cụm đi kèm)**: đề 文脈規定 thường chỉ cho danh từ đi kèm — 勘が**鋭い**, 金遣いが**荒い**, 粒が**粗い**, 食べ物を**粗末**にする, 時間に**やかましい**, 気分に**波**がある, 値段に**幅**がある, 職場の**勝手**がわからない.\n- **Cặp cùng âm khác chữ**: 荒い／粗い (あらい), 影／陰 (かげ), 型／形 (かた／かたち).\n- **用法**: chọn câu mà từ được dùng **đúng một trong các nghĩa** — câu sai thường mượn nghĩa của một từ gần nghĩa (dùng 鋭い thay cho 急な, 穏やか thay cho 手頃な…).",
+  "sections": [
+    {
+      "title": "形容詞",
+      "title_vi": "Tính từ nhiều nghĩa",
+      "words": [
+        {
+          "id": "g24-w1",
+          "w": "荒い",
+          "r": "あらい",
+          "hv": "HOANG",
+          "pos": "い形",
+          "vi": "mạnh, dữ dội; (cách đối xử) thô bạo, mạnh tay, hoang phí",
+          "key": true,
+          "senses": [
+            {
+              "vi": "(hơi thở, sóng, gió) mạnh, dữ dội, gấp",
+              "ex": {
+                "ja": "{全力|ぜんりょく}で{階段|かいだん}を{駆|か}け{上|あ}がったので、{息|いき}が{荒|あら}くなった。",
+                "vi": "Chạy hết sức lên cầu thang nên tôi thở hổn hển."
+              }
+            },
+            {
+              "vi": "(cách làm, cách dùng người / tiền / lời nói) thô bạo, mạnh tay, phung phí",
+              "ex": {
+                "ja": "あの{店長|てんちょう}は{人遣|ひとづか}いが{荒|あら}いので、アルバイトがすぐに{辞|や}めてしまう。",
+                "vi": "Ông cửa hàng trưởng đó sai khiến người ta quá tay nên nhân viên làm thêm nghỉ liền."
+              }
+            }
+          ],
+          "col": [
+            "{息|いき}が{荒|あら}い",
+            "{波|なみ}が{荒|あら}い",
+            "{運転|うんてん}が{荒|あら}い",
+            "{言葉遣|ことばづか}いが{荒|あら}い",
+            "{金遣|かねづか}いが{荒|あら}い",
+            "{人遣|ひとづか}いが{荒|あら}い"
+          ],
+          "rel": "↔ {穏|おだ}やか",
+          "note": "荒 = HOANG (hoang dã, dữ dội). Hình ảnh gốc: **năng lượng mạnh, không kiềm chế được**. Nghĩa 2 gần như luôn đi với danh từ chỉ **cách làm**: 運転, 使い方, 〜遣い. Động từ cùng gốc: 荒れる (biển động, da nứt nẻ, cuộc họp hỗn loạn), 荒らす (phá phách)."
+        },
+        {
+          "id": "g24-w2",
+          "w": "粗い",
+          "r": "あらい",
+          "hv": "THÔ",
+          "pos": "い形",
+          "vi": "thô, to hạt, thưa; (công việc) sơ sài, làm ẩu",
+          "key": true,
+          "senses": [
+            {
+              "vi": "(hạt, mắt lưới, bề mặt) thô, to, thưa — không mịn, không khít",
+              "ex": {
+                "ja": "この{紙|かみ}は{表面|ひょうめん}が{粗|あら}くて、{細|こま}かい{字|じ}が{書|か}きにくい。",
+                "vi": "Tờ giấy này mặt nhám nên khó viết chữ nhỏ."
+              }
+            },
+            {
+              "vi": "(sản phẩm, công việc, kế hoạch) sơ sài, thiếu tỉ mỉ",
+              "ex": {
+                "ja": "{急|いそ}いでまとめた{企画書|きかくしょ}なので、まだ{内容|ないよう}が{粗|あら}い。",
+                "vi": "Bản kế hoạch gom vội nên nội dung vẫn còn sơ sài."
+              }
+            }
+          ],
+          "col": [
+            "{粒|つぶ}が{粗|あら}い",
+            "{網|あみ}の{目|め}が{粗|あら}い",
+            "きめが{粗|あら}い",
+            "{作|つく}りが{粗|あら}い",
+            "{仕事|しごと}が{粗|あら}い"
+          ],
+          "rel": "↔ {細|こま}かい",
+          "note": "粗 = THÔ (thô sơ). Hình ảnh gốc: **hạt to, khe hở lớn, không tinh**. Mẹo nhớ: 粗 có bộ 米 (gạo) → hạt gạo xay thô. Cùng đọc あらい với 荒い — đề 漢字表記 rất hay hỏi cặp này (xem focus)."
+        },
+        {
+          "id": "g24-w3",
+          "w": "恐ろしい",
+          "r": "おそろしい",
+          "hv": "KHỦNG",
+          "pos": "い形",
+          "vi": "đáng sợ, khủng khiếp; (mức độ) kinh khủng, ghê gớm",
+          "key": true,
+          "senses": [
+            {
+              "vi": "đáng sợ, khủng khiếp",
+              "ex": {
+                "ja": "{夜中|よなか}に{一人|ひとり}で{恐|おそ}ろしい{映画|えいが}を{見|み}て、{眠|ねむ}れなくなった。",
+                "vi": "Nửa đêm xem một mình bộ phim kinh dị, thế là tôi mất ngủ."
+              }
+            },
+            {
+              "vi": "(恐ろしく＋tính từ / 恐ろしいほど) đến mức kinh ngạc, cực kỳ — dùng được cả nghĩa tốt",
+              "ex": {
+                "ja": "この{辺|あた}りは{家賃|やちん}が{恐|おそ}ろしく{高|たか}い。",
+                "vi": "Khu này tiền thuê nhà đắt kinh khủng."
+              }
+            }
+          ],
+          "col": [
+            "{恐|おそ}ろしい{事件|じけん}",
+            "{恐|おそ}ろしい{顔|かお}",
+            "{恐|おそ}ろしく〜",
+            "{恐|おそ}ろしいほど〜"
+          ],
+          "rel": "≒ {怖|こわ}い",
+          "note": "怖い thiên về cảm giác sợ của bản thân (văn nói); 恐ろしい khách quan hơn, nặng hơn. Nghĩa 2 chỉ **mức độ vượt xa bình thường**: 恐ろしく頭がいい = thông minh đến đáng sợ (là lời khen)."
+        },
+        {
+          "id": "g24-w4",
+          "w": "穏やか",
+          "r": "おだやか",
+          "hv": "ỔN",
+          "pos": "な形",
+          "vi": "êm ả, yên ả; (tính cách) điềm đạm, hiền hoà",
+          "key": true,
+          "senses": [
+            {
+              "vi": "(thời tiết, biển, nét mặt) êm ả, dịu dàng, không biến động",
+              "ex": {
+                "ja": "{今日|きょう}は{風|かぜ}もなく、{穏|おだ}やかな{一日|いちにち}だった。",
+                "vi": "Hôm nay không có gió, một ngày thật êm ả."
+              }
+            },
+            {
+              "vi": "(tính cách, lời nói) điềm đạm, hiền, không nóng nảy",
+              "ex": {
+                "ja": "{祖母|そぼ}はどんなときも{穏|おだ}やかな{口調|くちょう}で{話|はな}す。",
+                "vi": "Bà tôi lúc nào cũng nói bằng giọng điềm đạm."
+              }
+            }
+          ],
+          "col": [
+            "{穏|おだ}やかな{天気|てんき}",
+            "{穏|おだ}やかな{海|うみ}",
+            "{穏|おだ}やかな{笑顔|えがお}",
+            "{穏|おだ}やかな{人|ひと}",
+            "{穏|おだ}やかな{性格|せいかく}"
+          ],
+          "rel": "↔ {荒|あら}い・{激|はげ}しい",
+          "note": "Hình ảnh gốc: **mặt nước không gợn sóng**. Thành ngữ 「穏やかではない」 = (tình hình, lời nói) đáng lo, không yên ổn: 「{辞|や}めるなんて、{穏|おだ}やかじゃないね」. Không dùng cho giá cả (→ 手頃な) hay đồ ăn. Dốc, đường cong thoai thoải, quy định lỏng → dùng 緩やか(ゆるやか), không phải 穏やか (✗ 穏やかな山道／カーブ／規則)."
+        },
+        {
+          "id": "g24-w5",
+          "w": "勝手",
+          "r": "かって",
+          "hv": "THẮNG THỦ",
+          "pos": "名・な形",
+          "vi": "tuỳ tiện, ích kỷ; tự ý; cách làm / tình hình quen thuộc của một nơi",
+          "key": true,
+          "senses": [
+            {
+              "vi": "(な形) tuỳ tiện, chỉ nghĩ cho mình",
+              "ex": {
+                "ja": "{自分|じぶん}の{都合|つごう}ばかり{言|い}うなんて、{勝手|かって}な{人|ひと}だ。",
+                "vi": "Chỉ toàn nói chuyện tiện cho mình, đúng là người ích kỷ."
+              }
+            },
+            {
+              "vi": "(勝手に) tự ý, không xin phép; (máy móc) tự nó…",
+              "ex": {
+                "ja": "{弟|おとうと}が{私|わたし}のパソコンを{勝手|かって}に{使|つか}っていた。",
+                "vi": "Em trai tôi đã tự ý dùng máy tính của tôi."
+              }
+            },
+            {
+              "vi": "(名) cách thức, tình hình, sự quen thuộc với nơi chốn / công việc",
+              "ex": {
+                "ja": "{転勤|てんきん}したばかりで、まだ{新|あたら}しい{支店|してん}の{勝手|かって}がわからない。",
+                "vi": "Mới chuyển công tác nên tôi vẫn chưa quen cách làm việc ở chi nhánh mới."
+              }
+            }
+          ],
+          "col": [
+            "{自分勝手|じぶんかって}",
+            "{勝手|かって}に〜",
+            "{勝手|かって}がわからない",
+            "{勝手|かって}が{違|ちが}う",
+            "{使|つか}い{勝手|がって}がいい"
+          ],
+          "rel": "≒ わがまま (nghĩa 1)",
+          "note": "Hình ảnh gốc: **theo ý của bản thân**. Nghĩa 2 còn dùng cho vật: ドアが勝手に開いた = cửa tự mở. Nghĩa 3 hay gặp trong cụm 「勝手がわからない／勝手が違う」 (khác nơi mình quen nên lúng túng) và 使い勝手 (độ tiện dụng, đọc **がって**)."
+        },
+        {
+          "id": "g24-w6",
+          "w": "くどい",
+          "r": "くどい",
+          "hv": "",
+          "pos": "い形",
+          "vi": "dài dòng, lải nhải; (vị, màu) quá đậm, ngấy",
+          "key": true,
+          "senses": [
+            {
+              "vi": "(lời nói, giải thích) lặp đi lặp lại, dài dòng đến phát chán",
+              "ex": {
+                "ja": "{説明|せつめい}がくどいと、{聞|き}いている{人|ひと}はかえって{分|わ}からなくなる。",
+                "vi": "Giải thích dài dòng quá thì người nghe lại càng không hiểu."
+              }
+            },
+            {
+              "vi": "(vị, màu, trang trí) quá đậm, quá nặng, gây ngấy",
+              "ex": {
+                "ja": "このラーメンはスープの{味|あじ}がくどくて、{最後|さいご}まで{飲|の}めなかった。",
+                "vi": "Nước dùng của bát ramen này đậm quá, tôi không uống hết được."
+              }
+            }
+          ],
+          "col": [
+            "{話|はなし}がくどい",
+            "{説明|せつめい}がくどい",
+            "{味|あじ}がくどい",
+            "{色|いろ}がくどい"
+          ],
+          "rel": "≒ しつこい",
+          "note": "Hình ảnh gốc: **quá nhiều đến mức ngấy**. Cả hai nghĩa đều là đánh giá tiêu cực. しつこい gần nghĩa nhưng còn dùng cho người bám dai (しつこい勧誘); くどい chủ yếu cho lời nói và vị."
+        },
+        {
+          "id": "g24-w7",
+          "w": "険しい",
+          "r": "けわしい",
+          "hv": "HIỂM",
+          "pos": "い形",
+          "vi": "dốc đứng, hiểm trở; (nét mặt) nghiêm, căng thẳng; (tương lai) gian nan",
+          "key": true,
+          "senses": [
+            {
+              "vi": "(núi, đường) dốc, hiểm trở",
+              "ex": {
+                "ja": "{頂上|ちょうじょう}までは{険|けわ}しい{岩|いわ}の{道|みち}が{続|つづ}く。",
+                "vi": "Đường đá hiểm trở kéo dài tới tận đỉnh."
+              }
+            },
+            {
+              "vi": "(nét mặt, ánh mắt) nghiêm nghị, gay gắt, như đang giận / lo",
+              "ex": {
+                "ja": "{検査|けんさ}の{結果|けっか}を{見|み}た{医者|いしゃ}は、{急|きゅう}に{険|けわ}しい{顔|かお}になった。",
+                "vi": "Xem kết quả xét nghiệm xong, bác sĩ bỗng nghiêm mặt lại."
+              }
+            },
+            {
+              "vi": "(con đường phía trước, tình hình) gian nan, khó khăn",
+              "ex": {
+                "ja": "{初出場|はつしゅつじょう}のチームにとって、{優勝|ゆうしょう}までの{道|みち}のりは{険|けわ}しい。",
+                "vi": "Với đội lần đầu tham dự, con đường đến chức vô địch rất gian nan."
+              }
+            }
+          ],
+          "col": [
+            "{険|けわ}しい{山道|やまみち}",
+            "{険|けわ}しい{坂|さか}",
+            "{険|けわ}しい{顔|かお}",
+            "{険|けわ}しい{目|め}つき",
+            "{険|けわ}しい{道|みち}のり"
+          ],
+          "note": "Hình ảnh gốc: **vách dốc khó vượt qua**. Đọc けわしい — đừng nhầm với 厳しい(きびしい) hay 激しい(はげしい). 「険しい顔」 thường do giận, lo lắng, căng thẳng. Lưu ý: nói **nét mặt** thì dùng 険しい顔／目つき, nhưng không dùng 「険しい人」 để chỉ người đáng sợ, khó gần (→ 怖い人)."
+        },
+        {
+          "id": "g24-w8",
+          "w": "純粋",
+          "r": "じゅんすい",
+          "hv": "THUẦN TÚY",
+          "pos": "な形",
+          "vi": "nguyên chất, thuần chủng; (tâm hồn) trong sáng, chân thành",
+          "key": true,
+          "senses": [
+            {
+              "vi": "không pha tạp, nguyên chất, thuần chủng",
+              "ex": {
+                "ja": "この{指輪|ゆびわ}は{純粋|じゅんすい}な{金|きん}で{作|つく}られている。",
+                "vi": "Chiếc nhẫn này làm bằng vàng nguyên chất."
+              }
+            },
+            {
+              "vi": "(lòng, tình cảm) trong sáng, chân thành, không vụ lợi",
+              "ex": {
+                "ja": "{子|こ}どもの{純粋|じゅんすい}な{質問|しつもん}に、{大人|おとな}が{答|こた}えられないこともある。",
+                "vi": "Có những câu hỏi ngây thơ của trẻ con mà người lớn cũng không trả lời được."
+              }
+            }
+          ],
+          "col": [
+            "{純粋|じゅんすい}な{日本犬|にほんけん}",
+            "{純粋|じゅんすい}な{京都弁|きょうとべん}",
+            "{純粋|じゅんすい}な{気持|きも}ち",
+            "{純粋|じゅんすい}な{心|こころ}"
+          ],
+          "note": "Hình ảnh gốc: **không lẫn thứ gì khác**. Với người, 純粋 là khen (trong sáng), nhưng tuỳ ngữ cảnh có thể hàm ý “ngây thơ, dễ bị lừa”. Phân biệt: 純粋 nhấn **không pha tạp**; 素直 nhấn **ngoan, dễ nghe lời**."
+        },
+        {
+          "id": "g24-w9",
+          "w": "粗末",
+          "r": "そまつ",
+          "hv": "THÔ MẠT",
+          "pos": "な形",
+          "vi": "xoàng, tồi tàn, đạm bạc; (粗末にする) coi rẻ, phung phí",
+          "key": true,
+          "senses": [
+            {
+              "vi": "chất lượng kém, đơn sơ, xoàng xĩnh",
+              "ex": {
+                "ja": "{学生|がくせい}{時代|じだい}は{粗末|そまつ}なアパートに{住|す}んでいたが、{毎日|まいにち}が{楽|たの}しかった。",
+                "vi": "Thời sinh viên tôi sống trong một căn hộ tồi tàn, nhưng ngày nào cũng vui."
+              }
+            },
+            {
+              "vi": "(粗末にする／粗末に扱う) không trân trọng, phí phạm, coi rẻ",
+              "ex": {
+                "ja": "{命|いのち}を{粗末|そまつ}にするようなことは、{絶対|ぜったい}にしないでほしい。",
+                "vi": "Mong cậu tuyệt đối đừng làm những việc coi rẻ mạng sống của mình."
+              }
+            }
+          ],
+          "col": [
+            "{粗末|そまつ}な{服|ふく}",
+            "{粗末|そまつ}な{食事|しょくじ}",
+            "{粗末|そまつ}な{家具|かぐ}",
+            "{粗末|そまつ}にする",
+            "{粗末|そまつ}に{扱|あつか}う"
+          ],
+          "rel": "↔ {立派|りっぱ}・{豪華|ごうか}",
+          "note": "Nghĩa 2 hay đi với 食べ物・物・お金・命・時間. Câu khiêm tốn quen thuộc: 「{粗末|そまつ}なものですが…」 (khi tặng quà, mời ăn), 「お{粗末|そまつ}さまでした」 (đáp lại sau khi khách ăn xong)."
+        },
+        {
+          "id": "g24-w10",
+          "w": "やかましい",
+          "r": "やかましい",
+          "hv": "",
+          "pos": "い形",
+          "vi": "ồn ào; hay cằn nhằn, (quy định) nghiêm ngặt; khó tính (về…)",
+          "key": true,
+          "senses": [
+            {
+              "vi": "ồn ào đến khó chịu",
+              "ex": {
+                "ja": "{隣|となり}の{部屋|へや}のテレビの{音|おと}がやかましくて、{眠|ねむ}れない。",
+                "vi": "Tiếng tivi phòng bên ồn quá, tôi không ngủ được."
+              }
+            },
+            {
+              "vi": "(lời nhắc, quy định) lắm điều, cằn nhằn, nghiêm ngặt",
+              "ex": {
+                "ja": "{高校|こうこう}のころは、{髪型|かみがた}についての{校則|こうそく}がやかましかった。",
+                "vi": "Hồi cấp ba, nội quy về kiểu tóc rất nghiêm ngặt."
+              }
+            },
+            {
+              "vi": "(人が〜にやかましい) khó tính, kỹ tính về một chuyện",
+              "ex": {
+                "ja": "{父|ちち}は{食事|しょくじ}のマナーにやかましい。",
+                "vi": "Bố tôi rất khó tính về phép ăn uống."
+              }
+            }
+          ],
+          "col": [
+            "{音|おと}がやかましい",
+            "やかましく{言|い}う",
+            "{規則|きそく}がやかましい",
+            "{時間|じかん}にやかましい",
+            "{口|くち}やかましい"
+          ],
+          "rel": "≒ うるさい",
+          "note": "Gần như trùng nghĩa với うるさい ở cả 3 nghĩa (ồn / cằn nhằn / khó tính); やかましい nghe mạnh hơn, hơi cổ hơn. Khuôn nghĩa 3: **N に やかましい** (時間に, 礼儀に, 味に). 口やかましい = hay càm ràm."
+        },
+        {
+          "id": "g24-w11",
+          "w": "鋭い",
+          "r": "するどい",
+          "hv": "DUỆ",
+          "pos": "い形",
+          "vi": "sắc, nhọn; nhạy bén; (đau, ánh mắt) dữ dội, sắc lạnh; sắc sảo",
+          "key": true,
+          "senses": [
+            {
+              "vi": "(lưỡi dao, răng, móng) sắc, nhọn",
+              "ex": {
+                "ja": "{猫|ねこ}の{鋭|するど}いつめで{手|て}をひっかかれた。",
+                "vi": "Tôi bị móng sắc của con mèo cào vào tay."
+              }
+            },
+            {
+              "vi": "(cảm giác, trực giác) nhạy bén",
+              "ex": {
+                "ja": "{彼女|かのじょ}は{勘|かん}が{鋭|するど}いので、うそをついてもすぐにばれる。",
+                "vi": "Cô ấy rất nhạy nên có nói dối cũng bị lộ ngay."
+              }
+            },
+            {
+              "vi": "(cơn đau, ánh mắt, đòn tấn công) mạnh, đột ngột, sắc lạnh",
+              "ex": {
+                "ja": "{重|おも}い{荷物|にもつ}を{持|も}ち{上|あ}げた{瞬間|しゅんかん}、{腰|こし}に{鋭|するど}い{痛|いた}みが{走|はし}った。",
+                "vi": "Đúng lúc nhấc kiện hàng nặng lên, một cơn đau nhói chạy dọc thắt lưng."
+              }
+            },
+            {
+              "vi": "(nhận xét, câu hỏi, phân tích) sắc sảo, đúng trọng tâm",
+              "ex": {
+                "ja": "{記者|きしゃ}の{鋭|するど}い{質問|しつもん}に、{大臣|だいじん}は{何|なに}も{答|こた}えられなかった。",
+                "vi": "Trước câu hỏi sắc sảo của phóng viên, ông bộ trưởng không trả lời được gì."
+              }
+            }
+          ],
+          "col": [
+            "{鋭|するど}い{刃|は}",
+            "{切|き}れ{味|あじ}が{鋭|するど}い",
+            "{勘|かん}が{鋭|するど}い",
+            "{鋭|するど}い{痛|いた}み",
+            "{鋭|するど}い{目|め}つき",
+            "{鋭|するど}い{指摘|してき}",
+            "{鋭|するど}い{批判|ひはん}"
+          ],
+          "rel": "↔ {鈍|にぶ}い",
+          "note": "Hình ảnh gốc: **mũi nhọn đâm vào** — nhanh, mạnh, trúng điểm. Không dùng cho độ dốc (✗鋭い坂 → ○急な坂) hay góc độ thông thường. Gần như mọi nghĩa của 鋭い đều có từ đối 鈍い (xem focus)."
+        },
+        {
+          "id": "g24-w12",
+          "w": "鈍い",
+          "r": "にぶい",
+          "hv": "ĐỘN",
+          "pos": "い形",
+          "vi": "cùn; chậm hiểu, kém nhạy; (đau, âm thanh, ánh sáng) âm ỉ, đục, mờ; chậm chạp",
+          "key": true,
+          "senses": [
+            {
+              "vi": "(dao, kéo) cùn",
+              "ex": {
+                "ja": "{長|なが}く{使|つか}ったはさみは{切|き}れ{味|あじ}が{鈍|にぶ}くなる。",
+                "vi": "Kéo dùng lâu thì sẽ cùn đi."
+              }
+            },
+            {
+              "vi": "(đầu óc, cảm giác) chậm, kém nhạy",
+              "ex": {
+                "ja": "{彼|かれ}は{人|ひと}の{気持|きも}ちに{鈍|にぶ}くて、よく{相手|あいて}を{怒|おこ}らせてしまう。",
+                "vi": "Anh ấy kém nhạy với cảm xúc người khác nên hay làm người ta giận."
+              }
+            },
+            {
+              "vi": "(cơn đau, âm thanh, ánh sáng) âm ỉ, đục, mờ — không rõ nét",
+              "ex": {
+                "ja": "{遠|とお}くで{何|なに}かがぶつかるような{鈍|にぶ}い{音|おと}がした。",
+                "vi": "Đằng xa có tiếng động trầm đục như có gì va vào nhau."
+              }
+            },
+            {
+              "vi": "(động tác, phản ứng) chậm chạp, ì",
+              "ex": {
+                "ja": "{寒|さむ}さで{指|ゆび}の{動|うご}きが{鈍|にぶ}くなった。",
+                "vi": "Vì lạnh mà ngón tay cử động chậm chạp hẳn."
+              }
+            }
+          ],
+          "col": [
+            "{切|き}れ{味|あじ}が{鈍|にぶ}い",
+            "{頭|あたま}の{回転|かいてん}が{鈍|にぶ}い",
+            "{運動神経|うんどうしんけい}が{鈍|にぶ}い",
+            "{鈍|にぶ}い{痛|いた}み",
+            "{鈍|にぶ}い{光|ひかり}",
+            "{反応|はんのう}が{鈍|にぶ}い"
+          ],
+          "rel": "↔ {鋭|するど}い",
+          "note": "Hình ảnh gốc: **lưỡi dao đã mòn** — chậm, mờ, không sắc nét. 鈍い痛み = đau âm ỉ, kéo dài (đối với 鋭い痛み = đau nhói). Từ liên quan: 鈍感(どんかん) = vô tâm, kém nhạy ↔ 敏感."
+        }
+      ]
+    },
+    {
+      "title": "名詞",
+      "title_vi": "Danh từ nhiều nghĩa",
+      "words": [
+        {
+          "id": "g24-w13",
+          "w": "裏",
+          "r": "うら",
+          "hv": "LÝ",
+          "pos": "名",
+          "vi": "mặt sau; phía sau (nhà); mặt khuất, chuyện ngầm",
+          "key": true,
+          "senses": [
+            {
+              "vi": "mặt sau, mặt trái (của tờ giấy, vật phẳng)",
+              "ex": {
+                "ja": "{申込書|もうしこみしょ}の{裏|うら}にも{記入欄|きにゅうらん}があるので、{注意|ちゅうい}してください。",
+                "vi": "Mặt sau tờ đơn cũng có ô cần điền, xin lưu ý."
+              }
+            },
+            {
+              "vi": "phía sau (nhà, toà nhà), lối sau",
+              "ex": {
+                "ja": "{店|みせ}の{裏|うら}に{小|ちい}さな{駐車場|ちゅうしゃじょう}がある。",
+                "vi": "Phía sau cửa hàng có một bãi đỗ xe nhỏ."
+              }
+            },
+            {
+              "vi": "mặt khuất, chuyện ngầm mà người ngoài không thấy",
+              "ex": {
+                "ja": "{彼|かれ}の{優|やさ}しい{言葉|ことば}の{裏|うら}には、{何|なに}か{目的|もくてき}があるような{気|き}がする。",
+                "vi": "Tôi có cảm giác đằng sau những lời ngọt ngào của anh ta có mục đích gì đó."
+              }
+            }
+          ],
+          "col": [
+            "{表紙|ひょうし}の{裏|うら}",
+            "{裏口|うらぐち}",
+            "{裏|うら}で〜する",
+            "{裏|うら}の{意味|いみ}",
+            "{裏|うら}を{返|かえ}せば"
+          ],
+          "rel": "↔ {表|おもて}",
+          "note": "Hình ảnh gốc: **phía không được nhìn thấy** (đối lập với 表). Từ ghép hay gặp: 裏切る (phản bội), 裏付ける (làm căn cứ chứng minh), 舞台裏 (hậu trường), 裏取引 (giao dịch ngầm)."
+        },
+        {
+          "id": "g24-w14",
+          "w": "影",
+          "r": "かげ",
+          "hv": "ẢNH",
+          "pos": "名",
+          "vi": "cái bóng; bóng dáng; hình phản chiếu",
+          "key": true,
+          "senses": [
+            {
+              "vi": "cái bóng do vật chắn ánh sáng tạo ra; bóng dáng (người) thấp thoáng",
+              "ex": {
+                "ja": "{夕日|ゆうひ}に{照|て}らされて、{地面|じめん}に{自分|じぶん}の{長|なが}い{影|かげ}ができた。",
+                "vi": "Dưới ánh hoàng hôn, bóng tôi đổ dài trên mặt đất."
+              }
+            },
+            {
+              "vi": "hình ảnh phản chiếu (trên gương, mặt nước)",
+              "ex": {
+                "ja": "{静|しず}かな{湖|みずうみ}に{山|やま}の{影|かげ}が{映|うつ}っている。",
+                "vi": "Bóng núi in trên mặt hồ phẳng lặng."
+              }
+            }
+          ],
+          "col": [
+            "{影|かげ}ができる",
+            "{影|かげ}が{映|うつ}る",
+            "{人|ひと}の{影|かげ}",
+            "{影|かげ}も{形|かたち}もない"
+          ],
+          "note": "影 = **hình** sinh ra từ ánh sáng: bóng đen in xuống, hình phản chiếu, bóng dáng mờ. 「影も形もない」 = biến mất không để lại dấu vết. Phân biệt với 陰 (chỗ bị che) — xem focus."
+        },
+        {
+          "id": "g24-w15",
+          "w": "陰",
+          "r": "かげ",
+          "hv": "ÂM",
+          "pos": "名",
+          "vi": "chỗ râm; chỗ khuất phía sau; (陰で) sau lưng, âm thầm",
+          "key": true,
+          "senses": [
+            {
+              "vi": "chỗ râm, nơi ánh nắng không chiếu tới",
+              "ex": {
+                "ja": "{暑|あつ}い{日|ひ}は、{犬|いぬ}も{建物|たてもの}の{陰|かげ}で{寝|ね}ている。",
+                "vi": "Ngày nóng, đến con chó cũng nằm ngủ trong bóng râm của toà nhà."
+              }
+            },
+            {
+              "vi": "chỗ khuất sau một vật, khó bị nhìn thấy",
+              "ex": {
+                "ja": "{息子|むすこ}はカーテンの{陰|かげ}に{隠|かく}れて、{私|わたし}を{驚|おどろ}かそうとした。",
+                "vi": "Con trai tôi trốn sau rèm cửa định doạ tôi giật mình."
+              }
+            },
+            {
+              "vi": "(陰で) sau lưng người khác, âm thầm không ai thấy",
+              "ex": {
+                "ja": "{彼|かれ}の{成功|せいこう}は、{陰|かげ}で{支|ささ}え{続|つづ}けた{家族|かぞく}のおかげだ。",
+                "vi": "Thành công của anh ấy là nhờ gia đình đã âm thầm hỗ trợ suốt thời gian qua."
+              }
+            }
+          ],
+          "col": [
+            "{木|き}の{陰|かげ}",
+            "{日陰|ひかげ}",
+            "ドアの{陰|かげ}",
+            "{陰|かげ}で{支|ささ}える",
+            "{陰口|かげぐち}",
+            "お{陰|かげ}"
+          ],
+          "note": "陰 = **chỗ** bị che khuất (khuất ánh sáng hoặc khuất tầm nhìn). 「陰で」 có hai sắc thái: tốt (陰で支える = âm thầm giúp) và xấu (陰で悪口を言う = nói xấu sau lưng; 陰口 = lời nói xấu sau lưng). おかげ (nhờ có) vốn là お陰."
+        },
+        {
+          "id": "g24-w16",
+          "w": "型",
+          "r": "かた",
+          "hv": "HÌNH",
+          "pos": "名",
+          "vi": "khuôn; kiểu, mẫu, đời (sản phẩm); khuôn mẫu, lề lối",
+          "key": true,
+          "senses": [
+            {
+              "vi": "khuôn (để đổ, nướng, cắt theo)",
+              "ex": {
+                "ja": "{星|ほし}の{型|かた}でクッキーの{生地|きじ}を{抜|ぬ}いた。",
+                "vi": "Tôi dùng khuôn hình ngôi sao để cắt bột bánh quy."
+              }
+            },
+            {
+              "vi": "kiểu, mẫu, đời (của sản phẩm); loại",
+              "ex": {
+                "ja": "この{車|くるま}は{型|かた}が{古|ふる}いので、{部品|ぶひん}が{手|て}に{入|はい}りにくい。",
+                "vi": "Chiếc xe này là đời cũ nên khó kiếm phụ tùng."
+              }
+            },
+            {
+              "vi": "khuôn mẫu, lề lối cố định (cách làm theo thói quen, hình thức)",
+              "ex": {
+                "ja": "{型|かた}にはまった{挨拶|あいさつ}より、{自分|じぶん}の{言葉|ことば}で{話|はな}したほうが{気持|きも}ちが{伝|つた}わる。",
+                "vi": "Nói bằng lời của chính mình sẽ truyền tải cảm xúc tốt hơn là lời chào theo khuôn mẫu."
+              }
+            }
+          ],
+          "col": [
+            "{型|かた}を{抜|ぬ}く",
+            "{型|かた}を{取|と}る",
+            "{型|かた}にはめる",
+            "{型|かた}が{古|ふる}い",
+            "{新型|しんがた}",
+            "{型通|かたどお}り",
+            "{型破|かたやぶ}り"
+          ],
+          "note": "型 = **khuôn mẫu cố định để lặp lại** (có trước, đồ vật làm theo nó). Khi ghép sau từ khác đọc **がた**: 新型(しんがた), 大型, 血液型(けつえきがた). 型破り = phá cách, không theo lối mòn. Hình dáng bên ngoài hay **hình thức** của sự việc thì dùng 形, không dùng 型: ✗ 家族の型が変わる／不思議な型のビル／型だけの会議 → ○ 形."
+        },
+        {
+          "id": "g24-w17",
+          "w": "形",
+          "r": "かたち",
+          "hv": "HÌNH",
+          "pos": "名",
+          "vi": "hình dạng, hình dáng; hình thức (của sự việc)",
+          "key": true,
+          "senses": [
+            {
+              "vi": "hình dạng, hình dáng bên ngoài",
+              "ex": {
+                "ja": "この{島|しま}は{上|うえ}から{見|み}るとハートの{形|かたち}をしている。",
+                "vi": "Hòn đảo này nhìn từ trên cao có hình trái tim."
+              }
+            },
+            {
+              "vi": "hình thức, dạng thức (cách một việc được tiến hành)",
+              "ex": {
+                "ja": "{在宅勤務|ざいたくきんむ}が{増|ふ}え、{働|はたら}き{方|かた}の{形|かたち}が{変|か}わりつつある。",
+                "vi": "Làm việc tại nhà tăng lên, hình thức làm việc đang dần thay đổi."
+              }
+            }
+          ],
+          "col": [
+            "〜の{形|かたち}をした",
+            "{形|かたち}が{崩|くず}れる",
+            "{形|かたち}を{変|か}える",
+            "{形|かたち}だけ",
+            "{形|かたち}にする"
+          ],
+          "note": "形 = **hình dáng thực tế** của một vật / dạng mà sự việc thể hiện ra. 「形だけ(の)」 = chỉ cho có hình thức (形だけの謝罪). 「形にする」 = biến ý tưởng thành thứ cụ thể."
+        },
+        {
+          "id": "g24-w18",
+          "w": "波",
+          "r": "なみ",
+          "hv": "BA",
+          "pos": "名",
+          "vi": "sóng; làn sóng, trào lưu, dòng (người); sự lên xuống thất thường",
+          "key": true,
+          "senses": [
+            {
+              "vi": "sóng (nước)",
+              "ex": {
+                "ja": "{風|かぜ}が{強|つよ}くなり、{波|なみ}が{岸|きし}に{激|はげ}しく{打|う}ち{寄|よ}せている。",
+                "vi": "Gió mạnh lên, sóng đánh dữ dội vào bờ."
+              }
+            },
+            {
+              "vi": "làn sóng, trào lưu (thời đại, xã hội); dòng người",
+              "ex": {
+                "ja": "{小|ちい}さな{書店|しょてん}もネット{販売|はんばい}の{波|なみ}に{乗|の}って{売|う}り{上|あ}げを{伸|の}ばした。",
+                "vi": "Hiệu sách nhỏ cũng theo làn sóng bán hàng online mà tăng được doanh thu."
+              }
+            },
+            {
+              "vi": "(〜に波がある) sự lên xuống, lúc tốt lúc xấu",
+              "ex": {
+                "ja": "{彼|かれ}は{調子|ちょうし}に{波|なみ}がある{選手|せんしゅ}で、{勝|か}つ{日|ひ}と{負|ま}ける{日|ひ}の{差|さ}が{大|おお}きい。",
+                "vi": "Anh ấy là tuyển thủ phong độ thất thường, ngày thắng ngày thua khác nhau rất xa."
+              }
+            }
+          ],
+          "col": [
+            "{波|なみ}が{高|たか}い",
+            "{時代|じだい}の{波|なみ}",
+            "{人|ひと}の{波|なみ}",
+            "{波|なみ}に{乗|の}る",
+            "{成績|せいせき}に{波|なみ}がある",
+            "{気分|きぶん}に{波|なみ}がある"
+          ],
+          "note": "Hình ảnh gốc: **nhấp nhô lên xuống và lan tới liên tục**. 「〜に波がある」 = không ổn định. 「波に乗る」 = thuận theo xu thế, đang lên. 人の波 = dòng người đông nghịt."
+        },
+        {
+          "id": "g24-w19",
+          "w": "幅",
+          "r": "はば",
+          "hv": "PHÚC",
+          "pos": "名",
+          "vi": "bề rộng; phạm vi; độ chênh, biên độ",
+          "key": true,
+          "senses": [
+            {
+              "vi": "bề rộng, chiều ngang",
+              "ex": {
+                "ja": "この{棚|たな}は{幅|はば}が{九十|きゅうじゅう}センチあるので、{冷蔵庫|れいぞうこ}の{横|よこ}には{入|はい}らない。",
+                "vi": "Cái kệ này rộng 90 cm nên không đặt vừa cạnh tủ lạnh."
+              }
+            },
+            {
+              "vi": "phạm vi, độ rộng (của hoạt động, lựa chọn, kiến thức)",
+              "ex": {
+                "ja": "{留学|りゅうがく}したことで、{仕事|しごと}の{幅|はば}が{広|ひろ}がった。",
+                "vi": "Nhờ đi du học mà phạm vi công việc của tôi được mở rộng."
+              }
+            },
+            {
+              "vi": "(〜に幅がある) độ chênh giữa mức thấp nhất và cao nhất",
+              "ex": {
+                "ja": "{参加者|さんかしゃ}の{年齢|ねんれい}には{幅|はば}があり、{十代|じゅうだい}から{八十代|はちじゅうだい}までいる。",
+                "vi": "Độ tuổi người tham gia chênh nhau nhiều, từ thiếu niên đến người tám mươi."
+              }
+            }
+          ],
+          "col": [
+            "{道|みち}の{幅|はば}",
+            "{幅|はば}が{広|ひろ}い／{狭|せま}い",
+            "{選択|せんたく}の{幅|はば}",
+            "{活動|かつどう}の{幅|はば}",
+            "{値段|ねだん}に{幅|はば}がある",
+            "{幅|はば}を{利|き}かせる"
+          ],
+          "note": "Hình ảnh gốc: **khoảng cách từ mép này sang mép kia**. Từ đó ra nghĩa 2 (phạm vi rộng / hẹp) và nghĩa 3 (khoảng chênh từ thấp đến cao: 〜に幅がある). 「幅を利かせる」 = có thế lực, lấn át người khác. Từ đơn đọc **はば**; ghép cũng thường là はば (大幅(おおはば) = với biên độ lớn, 横幅 = chiều ngang). Âm On ふく gần như chỉ gặp trong từ chuyên môn (幅員). Bẫy 用法: sự **lên xuống thất thường theo thời gian** là 波 (✗ 気分に幅がある → ○ 気分に波がある); **quãng đường dài bao xa** là 距離 (✗ 駅まで幅がある)."
+        },
+        {
+          "id": "g24-w20",
+          "w": "文句",
+          "r": "もんく",
+          "hv": "VĂN CÚ",
+          "pos": "名",
+          "vi": "lời phàn nàn; câu chữ, lời văn",
+          "key": true,
+          "senses": [
+            {
+              "vi": "lời phàn nàn, kêu ca, bất mãn",
+              "ex": {
+                "ja": "{料理|りょうり}が{出|で}てくるのが{遅|おそ}いと、{客|きゃく}に{文句|もんく}を{言|い}われた。",
+                "vi": "Bị khách phàn nàn vì món ăn ra chậm."
+              }
+            },
+            {
+              "vi": "câu chữ, lời (bài hát, quảng cáo, câu nói quen)",
+              "ex": {
+                "ja": "「{今|いま}だけ{半額|はんがく}」という{宣伝文句|せんでんもんく}につられて、つい{買|か}ってしまった。",
+                "vi": "Bị câu quảng cáo “Giảm nửa giá chỉ hôm nay” dụ, tôi lỡ mua mất."
+              }
+            }
+          ],
+          "col": [
+            "{文句|もんく}を{言|い}う",
+            "{文句|もんく}を{付|つ}ける",
+            "{文句|もんく}を{並|なら}べる",
+            "{文句|もんく}なし",
+            "{決|き}まり{文句|もんく}",
+            "{宣伝文句|せんでんもんく}"
+          ],
+          "rel": "≒ {不満|ふまん}・{苦情|くじょう} (nghĩa 1)",
+          "note": "「文句なし(に)」 = không chê vào đâu được (文句なしの優勝). 決まり文句 = câu nói sáo, câu cửa miệng. 文句を付ける = bới móc, gây sự."
+        }
+      ]
+    }
+  ],
+  "focus": [
+    {
+      "title": "荒い vs 粗い — cùng đọc あらい, khác hình ảnh",
+      "body": "Hai chữ đều đọc **あらい** và đều mang cảm giác “không mềm mại”, nhưng hình ảnh gốc khác hẳn:\n\n- **荒い (HOANG)** = **mạnh, dữ, không kiềm chế** → nói về **sức mạnh / thái độ**.\n  ・Tự nhiên, cơ thể: 波が荒い (sóng dữ), 息が荒い (thở hổn hển)\n  ・Cách đối xử: 運転が荒い, 言葉遣いが荒い, 人遣いが荒い, 金遣いが荒い (tiêu hoang)\n- **粗い (THÔ)** = **to hạt, có khe hở, không tinh** → nói về **kết cấu / độ tỉ mỉ**.\n  ・Vật chất: 粒が粗い, 網の目が粗い, 肌のきめが粗い\n  ・Công việc: 仕事が粗い, 作りが粗い (làm ẩu, sơ sài)\n\nPhép thử nhanh: hỏi “có **mạnh / dữ** không?” → 荒い. Hỏi “có **mịn / tỉ mỉ** không?” → 粗い.\n\n- ✗ {金遣|かねづか}いが{粗|あら}い → ○ {金遣|かねづか}いが{荒|あら}い (tiêu tiền mạnh tay, không phải “thô”)\n- ✗ {網|あみ}の{目|め}が{荒|あら}い → ○ {網|あみ}の{目|め}が{粗|あら}い (khe lưới to)\n\nTừ đối: 荒い ↔ **穏やか**; 粗い ↔ **細かい**."
+    },
+    {
+      "title": "鋭い ↔ 鈍い — hai từ đối xứng hoàn hảo",
+      "body": "Hình ảnh gốc là **lưỡi dao**: 鋭い = sắc bén, 鈍い = cùn. Mọi nghĩa mở rộng đều đi theo cặp:\n\n- **Lưỡi dao**: 切れ味が鋭い ↔ 切れ味が鈍い\n- **Cảm giác / đầu óc**: 勘・感覚が鋭い (nhạy) ↔ 勘・感覚・頭の回転が鈍い (chậm, kém nhạy)\n- **Cơn đau**: 鋭い痛み (đau nhói, đột ngột) ↔ 鈍い痛み (đau âm ỉ, kéo dài)\n- **Âm thanh / ánh sáng**: 鋭い音 (chói, the thé) ↔ 鈍い音・鈍い光 (trầm đục, mờ)\n- **Nhận xét / quan sát**: 鋭い質問・指摘・観察・分析・批判 (sắc sảo)\n- **Động tác**: 動き・反応・動作が鈍い (chậm chạp) — chiều này thường chỉ dùng 鈍い\n\nVí dụ đối chiếu:\n- {彼|かれ}は{観察|かんさつ}が{鋭|するど}い。 (Anh ấy quan sát rất tinh.)\n- {疲|つか}れていると{反応|はんのう}が{鈍|にぶ}くなる。 (Mệt thì phản ứng chậm đi.)\n\nBẫy 用法: 鋭い không dùng cho độ dốc, độ cong (✗鋭い坂 → ○急な坂・険しい坂), cũng không dùng cho mùi vị (✗鋭い味 → ○辛い／刺激が強い)."
+    },
+    {
+      "title": "影・陰 (かげ) và 裏 — bóng, chỗ khuất, mặt sau",
+      "body": "- **影** = **hình** do ánh sáng tạo ra — thứ **nhìn thấy được**: cái bóng đổ xuống đất, bóng người thấp thoáng sau cửa kính, hình phản chiếu trong gương / mặt nước.\n  ・{窓|まど}に{人|ひと}の{影|かげ}が{見|み}えた。 (Thấy bóng người qua cửa sổ.)\n- **陰** = **chỗ** bị che — nơi ánh sáng hoặc tầm mắt **không tới**: bóng râm, chỗ khuất sau cửa, và nghĩa bóng “sau lưng, âm thầm”.\n  ・{木|き}の{陰|かげ}で{休|やす}む。 (Nghỉ dưới bóng râm cái cây.)\n  ・{陰|かげ}で{支|ささ}える／{陰口|かげぐち}を{言|い}う。\n- **裏** = **mặt sau / phía sau** của một vật có hai mặt (giấy, nhà), và nghĩa bóng “mặt khuất, chuyện ngầm” (裏で不正をする, 言葉の裏).\n\nPhân biệt nhanh:\n- “Thấy **hình** đen / phản chiếu” → 影. “**Ở trong / nấp sau** chỗ khuất” → 陰. “**Mặt bên kia** của tờ giấy, toà nhà” → 裏.\n- ✗ {木|き}の{影|かげ}に{座|すわ}る → ○ {木|き}の{陰|かげ}に{座|すわ}る (ngồi trong chỗ râm, không phải ngồi lên cái bóng)\n- ✗ {鏡|かがみ}に{映|うつ}った{陰|かげ} → ○ {鏡|かがみ}に{映|うつ}った{影|かげ}\n- 陰で vs 裏で: 陰で支える (âm thầm giúp — sắc thái tốt hoặc trung tính); 裏で取引する (làm chuyện mờ ám — thường tiêu cực)."
+    },
+    {
+      "title": "型 (かた) vs 形 (かたち)",
+      "body": "Cùng chữ Hán HÌNH nhưng:\n\n- **型** = **khuôn mẫu có sẵn để làm theo / lặp lại**.\n  ・Khuôn vật lý: ケーキの型, 型を抜く, 型を取る (lấy khuôn, in mẫu)\n  ・Kiểu, đời sản phẩm: 新しい型のテレビ, 型が古い, 新型, 大型, 血液型\n  ・Lề lối cố định: 型通りの挨拶 (chào theo khuôn sáo), 型にはまる (rập khuôn), 型破り (phá cách)\n- **形** = **hình dáng thực tế** mà ta nhìn thấy / hình thức sự việc thể hiện ra.\n  ・リンゴの形のクッキー, 形が崩れる (mất dáng)\n  ・結婚式の形が変わる (hình thức đám cưới thay đổi), 形だけの謝罪 (xin lỗi lấy lệ)\n\nMẹo: **型 là cái khuôn, 形 là cái hình** — bánh quy được làm **bằng** 型 và **có** 形 ngôi sao.\n- ✗ {古|ふる}い{形|かたち}の{車|くるま} (nói về đời xe) → ○ {古|ふる}い{型|かた}の{車|くるま}\n- ✗ ハートの{型|かた}をした{島|しま} → ○ ハートの{形|かたち}をした{島|しま}"
+    },
+    {
+      "title": "Danh từ có nghĩa trừu tượng: 波・幅・文句",
+      "body": "Ba danh từ này hay ra 文脈規定 ở **nghĩa trừu tượng**, nhận ra nhờ khuôn câu:\n\n- **波**\n  ・〜**に波がある** = lúc lên lúc xuống: 成績に波がある, 気分に波がある, 景気に波がある\n  ・〜**の波** = làn sóng, dòng: 時代の波, 人の波 (dòng người), IT化の波\n  ・**波に乗る** = thuận theo xu thế, đang lúc thuận lợi\n- **幅**\n  ・〜**の幅が広がる／狭まる** = phạm vi: 選択の幅, 活動の幅, 興味の幅\n  ・〜**に幅がある** = có độ chênh: 値段に幅がある, 年齢に幅がある, 点数に幅がある\n- **文句**\n  ・**文句を言う／付ける／並べる** = phàn nàn, bới móc\n  ・**〜文句** = câu chữ: 宣伝文句, 決まり文句, 歌の文句\n  ・**文句なし** = hoàn hảo, không ai chê được\n\nChú ý hai khuôn giống nhau 「〜に波がある」 và 「〜に幅がある」: **波** = thay đổi **theo thời gian** (lúc tốt lúc xấu), **幅** = chênh lệch **giữa các đối tượng cùng lúc** (cái rẻ cái đắt).\n- {彼|かれ}の{成績|せいせき}には{波|なみ}がある。 (Điểm của cậu ấy lúc cao lúc thấp.)\n- この{店|みせ}の{商品|しょうひん}は{値段|ねだん}に{幅|はば}がある。 (Hàng ở đây có đủ mức giá.)"
+    },
+    {
+      "title": "Tính từ “từ cảnh vật sang con người” và các cụm cố định",
+      "body": "Nhiều tính từ trong bài vốn tả **thiên nhiên / đồ vật**, rồi được dùng cho **tính cách, nét mặt, thái độ**:\n\n- **穏やか**: biển lặng, trời êm → người điềm đạm (穏やかな人). Ngược lại: 荒い・激しい.\n- **険しい**: núi dốc → mặt nghiêm, căng (険しい顔) → tương lai gian nan (険しい道のり).\n- **純粋**: vàng nguyên chất, giống thuần chủng → tâm hồn trong sáng (純粋な心).\n- **くどい**: vị đậm ngấy → lời nói lải nhải (話がくどい).\n- **やかましい**: tiếng ồn → người hay cằn nhằn → người khó tính (時間にやかましい).\n- **恐ろしい**: đáng sợ → mức độ cực kỳ (恐ろしく速い).\n\nCụm cố định cần thuộc (đề rất hay hỏi):\n- **粗末にする／粗末に扱う** = phí phạm, không trân trọng (食べ物を粗末にする)\n- **勝手がわからない／勝手が違う** = chưa quen cách làm ở chỗ mới\n- **勝手に〜** = tự ý, không xin phép\n- **N にやかましい** = khó tính về N\n- **恐ろしく＋Adj** = Adj kinh khủng\n\n- ✗ {穏|おだ}やかな{値段|ねだん} → ○ {手頃|てごろ}な{値段|ねだん}\n- ✗ {粗末|そまつ}な{性格|せいかく} → ○ だらしない{性格|せいかく}"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "g24-q1",
+      "kind": "read",
+      "ref": "g24-w7",
+      "q": "{父|ちち}は{手紙|てがみ}を{読|よ}みながら、[[u:険しい]]{顔|かお}をしていた。",
+      "options": [
+        "けわしい",
+        "きびしい",
+        "はげしい",
+        "あやうい"
+      ],
+      "answer": 0,
+      "vi": "Bố vừa đọc thư vừa nghiêm mặt lại.",
+      "why": "険しい = **けわしい** (nghĩa 2: nét mặt nghiêm, căng thẳng). きびしい là 厳しい (nghiêm khắc); はげしい là 激しい (dữ dội); あやうい là 危うい (nguy hiểm) — đều là chữ khác."
+    },
+    {
+      "id": "g24-q2",
+      "kind": "write",
+      "ref": "g24-w2",
+      "q": "この{店|みせ}のコーヒーは、{豆|まめ}をわざと[[u:あらく]]{挽|ひ}いてある。",
+      "options": [
+        "荒く",
+        "粗く",
+        "洗く",
+        "損く"
+      ],
+      "answer": 1,
+      "vi": "Cà phê của quán này cố tình xay hạt thô.",
+      "why": "Xay hạt **to, không mịn** → nói về kết cấu → **粗く**. 荒く là “mạnh, dữ” (波が荒い, 運転が荒い) — không phải độ mịn; 洗 (rửa) và 損 (tổn) không đọc あら trong tính từ."
+    },
+    {
+      "id": "g24-q3",
+      "kind": "context",
+      "ref": "g24-w11",
+      "q": "{犬|いぬ}は{感覚|かんかく}が（　　）ので、{遠|とお}くの{小|ちい}さな{音|おと}も{聞|き}き{分|わ}けられる。",
+      "options": [
+        "鈍い",
+        "荒い",
+        "鋭い",
+        "険しい"
+      ],
+      "answer": 2,
+      "vi": "Chó có giác quan nhạy bén nên nghe được cả tiếng động nhỏ ở xa.",
+      "why": "Nghe được cả tiếng nhỏ ở xa → giác quan **鋭い** (nhạy). 鈍い ngược nghĩa (kém nhạy) — mâu thuẫn với vế sau; 荒い dùng cho 息・波・運転, không dùng cho 感覚; 険しい dùng cho núi, nét mặt."
+    },
+    {
+      "id": "g24-q4",
+      "kind": "context",
+      "ref": "g24-w5",
+      "q": "{新|あたら}しい{職場|しょくば}はまだ（　　）がわからず、{何|なに}をするにも{時間|じかん}がかかる。",
+      "options": [
+        "型",
+        "文句",
+        "幅",
+        "勝手"
+      ],
+      "answer": 3,
+      "vi": "Ở chỗ làm mới tôi vẫn chưa quen cách làm việc nên làm gì cũng mất thời gian.",
+      "why": "Cụm **勝手がわからない** = chưa nắm cách thức, tình hình của nơi mới. 型がわからない chỉ nói về khuôn / kiểu sản phẩm; 文句 là lời phàn nàn; 幅 là bề rộng / phạm vi — không hợp với “chưa quen chỗ làm”."
+    },
+    {
+      "id": "g24-q5",
+      "kind": "paraphrase",
+      "ref": "g24-w6",
+      "q": "{部長|ぶちょう}の{話|はなし}はいつも[[u:くどい]]。",
+      "options": [
+        "しつこくて長い",
+        "難しくて分かりにくい",
+        "短くて物足りない",
+        "声が大きくてうるさい"
+      ],
+      "answer": 0,
+      "vi": "Bài nói của trưởng phòng lúc nào cũng lải nhải dài dòng.",
+      "why": "話がくどい = lặp đi lặp lại, dài đến phát chán → **しつこくて長い**. (2) khó hiểu là 難解 — くどい không nói về độ khó; (3) ngược nghĩa; (4) うるさい nói về âm lượng, không phải nội dung lặp lại."
+    },
+    {
+      "id": "g24-q6",
+      "kind": "usage",
+      "ref": "g24-w9",
+      "q": "{粗末|そまつ}",
+      "options": [
+        "彼は粗末な性格なので、約束をよく忘れる。",
+        "この料理は味が粗末で、もう少し塩がほしい。",
+        "食べ物を粗末にしてはいけないと、祖母によく言われた。",
+        "粗末な雨が一日中降り続いた。"
+      ],
+      "answer": 2,
+      "vi": "(3) Bà thường dặn tôi không được phí phạm đồ ăn.",
+      "why": "(3) đúng: **粗末にする** = không trân trọng, phí phạm. (1) tính cách hay quên → だらしない／いい加減な; (2) vị nhạt → 味が薄い; (4) mưa nhỏ, lâm thâm → 小雨／しとしと降る. 粗末 chỉ dùng cho đồ vật kém chất lượng (粗末な服・家・食事) và cụm 粗末にする."
+    },
+    {
+      "id": "g24-q7",
+      "kind": "context",
+      "ref": "g24-w15",
+      "q": "{暑|あつ}いので、あの{大|おお}きな{木|き}の（　　）で{少|すこ}し{休|やす}もう。",
+      "options": [
+        "影",
+        "陰",
+        "裏",
+        "型"
+      ],
+      "answer": 1,
+      "vi": "Nóng quá, ta nghỉ một chút dưới bóng râm của cái cây to kia đi.",
+      "why": "Chỗ ánh nắng không chiếu tới, ngồi vào được → **陰** (木の陰). 影 là cái bóng in xuống / hình phản chiếu — thứ để nhìn, không phải chỗ để vào nghỉ; 木の裏 = phía sau thân cây (không nói tới nắng); 型 là khuôn."
+    },
+    {
+      "id": "g24-q8",
+      "kind": "context",
+      "ref": "g24-w19",
+      "q": "{大学|だいがく}でいろいろな{国|くに}の{人|ひと}と{出会|であ}い、{物|もの}の{考|かんが}え{方|かた}の（　　）が{広|ひろ}がった。",
+      "options": [
+        "波",
+        "形",
+        "裏",
+        "幅"
+      ],
+      "answer": 3,
+      "vi": "Gặp gỡ người từ nhiều nước ở đại học, cách suy nghĩ của tôi rộng mở hơn.",
+      "why": "〜の**幅**が広がる = phạm vi được mở rộng. 波が広がる chỉ làn sóng lan ra (không phải phạm vi suy nghĩ); 形 là hình dạng — không “rộng ra”; 裏 là mặt sau."
+    },
+    {
+      "id": "g24-q9",
+      "kind": "usage",
+      "ref": "g24-w18",
+      "q": "{波|なみ}",
+      "options": [
+        "駅までの波は歩いて十分ぐらいだ。",
+        "新しい波のスマホに買い換えた。",
+        "彼女は気分に波があるので、日によって態度が違う。",
+        "彼は仕事が多くても波を言わない。"
+      ],
+      "answer": 2,
+      "vi": "(3) Cô ấy tâm trạng thất thường nên mỗi ngày thái độ một khác.",
+      "why": "(3) đúng: **〜に波がある** = lúc lên lúc xuống. (1) quãng đường → 道のり; (2) đời / kiểu máy → 型; (4) phàn nàn → 文句を言わない."
+    }
+  ],
+  "practice": [
+    {
+      "id": "g24-p1",
+      "kind": "read",
+      "ref": "g24-w12",
+      "q": "{最近|さいきん}{運動|うんどう}{不足|ぶそく}で、{体|からだ}の{動|うご}きが[[u:鈍く]]なった。",
+      "options": [
+        "どんく",
+        "にごく",
+        "にぶく",
+        "ぬるく"
+      ],
+      "answer": 2,
+      "vi": "Gần đây thiếu vận động nên cơ thể cử động chậm chạp hẳn.",
+      "why": "鈍い = **にぶい** → 鈍く = にぶく. どん là âm On (鈍感 どんかん) — không dùng cho tính từ; にごく lẫn với 濁る(にごる); ぬるく là 温い (âm ấm)."
+    },
+    {
+      "id": "g24-p2",
+      "kind": "read",
+      "ref": "g24-w8",
+      "q": "{子|こ}どものころの[[u:純粋]]な{気持|きも}ちを{忘|わす}れたくない。",
+      "options": [
+        "じゅんすい",
+        "じゅんすつ",
+        "しゅんすい",
+        "じゅんさい"
+      ],
+      "answer": 0,
+      "vi": "Tôi không muốn quên tấm lòng trong sáng của thời thơ ấu.",
+      "why": "純粋 = **じゅんすい** (純 = じゅん có âm đục, 粋 = すい). じゅんすつ sai âm 粋; しゅんすい thiếu âm đục; じゅんさい là tên một loại rau (蓴菜)."
+    },
+    {
+      "id": "g24-p3",
+      "kind": "write",
+      "ref": "g24-w4",
+      "q": "{山田|やまだ}さんはいつも[[u:おだやか]]で、{怒|おこ}ったところを{見|み}たことがない。",
+      "options": [
+        "隠やか",
+        "温やか",
+        "緩やか",
+        "穏やか"
+      ],
+      "answer": 3,
+      "vi": "Anh Yamada lúc nào cũng điềm đạm, tôi chưa từng thấy anh ấy nổi giận.",
+      "why": "おだやか = **穏やか** (bộ 禾 bên trái). 隠 (ẨN, giấu) giống phần phải nhưng bộ 阝 — bẫy hình dạng; 温 (ÔN, ấm) giống nghĩa nhưng không đọc おだ; 緩やか đọc ゆるやか (thoai thoải, chậm)."
+    },
+    {
+      "id": "g24-p4",
+      "kind": "write",
+      "ref": "g24-w20",
+      "q": "{注文|ちゅうもん}と{違|ちが}う{料理|りょうり}が{来|き}たので、{店員|てんいん}に[[u:もんく]]を{言|い}った。",
+      "options": [
+        "問句",
+        "文句",
+        "文区",
+        "門句"
+      ],
+      "answer": 1,
+      "vi": "Món ăn mang ra khác món đã gọi nên tôi phàn nàn với nhân viên.",
+      "why": "もんく = **文句** (VĂN CÚ: 文 đọc もん như trong 注文). 問・門 cũng đọc もん nhưng sai chữ; 区 (khu) đọc く nhưng không phải “câu chữ”."
+    },
+    {
+      "id": "g24-p5",
+      "kind": "context",
+      "ref": "g24-w1",
+      "q": "{兄|あに}は{金遣|かねづか}いが（　　）、{給料日|きゅうりょうび}の{前|まえ}になるといつもお{金|かね}を{借|か}りに{来|く}る。",
+      "options": [
+        "粗くて",
+        "荒くて",
+        "鋭くて",
+        "くどくて"
+      ],
+      "answer": 1,
+      "vi": "Anh tôi tiêu tiền hoang phí nên cứ trước ngày lĩnh lương là lại đến vay tiền.",
+      "why": "Cụm cố định **金遣いが荒い** = tiêu hoang (cách dùng mạnh tay). 粗い nói về hạt / độ tỉ mỉ — bẫy cùng âm; 鋭い (sắc bén) và くどい (dài dòng, ngấy) không đi với 金遣い."
+    },
+    {
+      "id": "g24-p6",
+      "kind": "context",
+      "ref": "g24-w3",
+      "q": "{彼|かれ}は（　　）{記憶力|きおくりょく}がよく、{一度|いちど}{会|あ}った{人|ひと}の{名前|なまえ}は{絶対|ぜったい}に{忘|わす}れない。",
+      "options": [
+        "恐ろしく",
+        "やかましく",
+        "険しく",
+        "穏やかに"
+      ],
+      "answer": 0,
+      "vi": "Anh ấy có trí nhớ tốt kinh khủng, người đã gặp một lần là không bao giờ quên tên.",
+      "why": "**恐ろしく＋tính từ** = (tốt / xấu) đến mức đáng kinh ngạc → 恐ろしく記憶力がいい. やかましく (ồn, cằn nhằn), 険しく (dốc, nghiêm), 穏やかに (êm ả) đều không bổ nghĩa chỉ mức độ cho よい."
+    },
+    {
+      "id": "g24-p7",
+      "kind": "context",
+      "ref": "g24-w10",
+      "q": "{祖父|そふ}は{礼儀|れいぎ}に（　　）{人|ひと}で、{食事中|しょくじちゅう}に{肘|ひじ}をつくとすぐに{注意|ちゅうい}された。",
+      "options": [
+        "くどい",
+        "鋭い",
+        "粗い",
+        "やかましい"
+      ],
+      "answer": 3,
+      "vi": "Ông tôi rất khó tính về lễ nghi, cứ chống khuỷu tay lúc ăn là bị nhắc ngay.",
+      "why": "Khuôn **N にやかましい** = khó tính, kỹ tính về N. くどい nói về lời lặp lại / vị ngấy, không đi với 「礼儀に」; 鋭い (nhạy bén) không có khuôn 〜に; 粗い là thô, sơ sài."
+    },
+    {
+      "id": "g24-p8",
+      "kind": "context",
+      "ref": "g24-w16",
+      "q": "（　　）にはまった{考|かんが}え{方|かた}しかできない{人|ひと}に、{新|あたら}しい{企画|きかく}は{任|まか}せられない。",
+      "options": [
+        "形",
+        "影",
+        "型",
+        "裏"
+      ],
+      "answer": 2,
+      "vi": "Không thể giao kế hoạch mới cho người chỉ biết suy nghĩ rập khuôn.",
+      "why": "**型にはまる** = rập khuôn, theo lối mòn. 形 là hình dáng — không có cụm 形にはまる; 影・裏 không đi với はまる theo nghĩa này."
+    },
+    {
+      "id": "g24-p9",
+      "kind": "paraphrase",
+      "ref": "g24-w13",
+      "q": "あの{会社|かいしゃ}は[[u:裏で]]{政治家|せいじか}と{取引|とりひき}をしていたらしい。",
+      "options": [
+        "人に知られないように",
+        "会社の外で",
+        "正式な手続きで",
+        "何度も繰り返して"
+      ],
+      "answer": 0,
+      "vi": "Nghe nói công ty đó đã ngầm giao dịch với chính trị gia.",
+      "why": "裏で = ở mặt khuất, lén lút → **人に知られないように**. (2) chỉ nơi chốn — 裏 ở đây không phải “phía sau toà nhà”; (3) ngược nghĩa (công khai, chính thức); (4) là 再三, không liên quan."
+    },
+    {
+      "id": "g24-p10",
+      "kind": "paraphrase",
+      "ref": "g24-w20",
+      "q": "{彼女|かのじょ}は{仕事|しごと}がどんなに{多|おお}くても[[u:文句を言わない]]。",
+      "options": [
+        "冗談を言わない",
+        "意見を変えない",
+        "休みを取らない",
+        "不満を口にしない"
+      ],
+      "answer": 3,
+      "vi": "Dù việc nhiều đến đâu cô ấy cũng không kêu ca.",
+      "why": "文句を言う = nói ra sự bất mãn → **不満を口にしない**. 冗談 là câu đùa; 意見を変えない là giữ quan điểm; 休みを取らない là không nghỉ — đều không phải nghĩa của 文句."
+    },
+    {
+      "id": "g24-p11",
+      "kind": "usage",
+      "ref": "g24-w11",
+      "q": "{鋭|するど}い",
+      "options": [
+        "この包丁は古くなって鋭くなったので、新しいのを買った。",
+        "彼女は観察が鋭くて、人の小さな変化にもすぐ気づく。",
+        "鋭い坂を上るのは、お年寄りには大変だ。",
+        "今日は鋭い天気で、洗濯物がよく乾く。"
+      ],
+      "answer": 1,
+      "vi": "(2) Cô ấy quan sát tinh tường, thay đổi nhỏ của người khác cũng nhận ra ngay.",
+      "why": "(2) đúng: 観察が鋭い = quan sát sắc sảo. (1) dao cũ thì **cùn** đi → 鈍くなった; (3) dốc đứng → 急な坂／険しい坂; (4) trời nắng tốt → いい天気／からっとした天気."
+    },
+    {
+      "id": "g24-p12",
+      "kind": "usage",
+      "ref": "g24-w4",
+      "q": "{穏|おだ}やか",
+      "options": [
+        "穏やかな値段なので、学生にもよく売れている。",
+        "台風が近づいていて、海がとても穏やかだ。",
+        "兄は穏やかな性格で、めったに大きな声を出さない。",
+        "穏やかな字で丁寧に書いてください。"
+      ],
+      "answer": 2,
+      "vi": "(3) Anh tôi tính điềm đạm, hiếm khi to tiếng.",
+      "why": "(3) đúng: 穏やかな性格 = tính hiền hoà. (1) giá phải chăng → 手頃な値段; (2) bão sắp đến thì biển **động** → 荒れている／波が荒い (mâu thuẫn); (4) chữ dễ đọc → きれいな字／読みやすい字."
+    },
+    {
+      "id": "g24-p13",
+      "kind": "usage",
+      "ref": "g24-w14",
+      "q": "{影|かげ}",
+      "options": [
+        "夕方になると、自分の影が長く伸びる。",
+        "母はいつも影で家族を支えてくれた。",
+        "彼は影口ばかり言うので、みんなに嫌われている。",
+        "この話には影の意味があるようだ。"
+      ],
+      "answer": 0,
+      "vi": "(1) Đến chiều tối, bóng của mình đổ dài ra.",
+      "why": "(1) đúng: 影 = cái bóng do ánh sáng tạo ra. (2) âm thầm hỗ trợ → **陰**で支える; (3) nói xấu sau lưng → **陰**口; (4) ý ngầm → **裏**の意味."
+    }
+  ],
+  "test": [
+    {
+      "id": "g24-t1",
+      "kind": "read",
+      "ref": "g24-w9",
+      "q": "{子|こ}どもたちに{物|もの}を[[u:粗末]]にしないよう{教|おし}えている。",
+      "options": [
+        "そうまつ",
+        "そまつ",
+        "あらまつ",
+        "そばつ"
+      ],
+      "answer": 1,
+      "vi": "Tôi dạy bọn trẻ không được phí phạm đồ đạc.",
+      "why": "粗末 = **そまつ** (粗 = そ, âm ngắn). そうまつ kéo dài sai; あらまつ dùng âm 訓 あら của 粗い — sai; そばつ đọc 末 thành ばつ — sai."
+    },
+    {
+      "id": "g24-t2",
+      "kind": "read",
+      "ref": "g24-w19",
+      "q": "この{川|かわ}の[[u:幅]]は{約|やく}{五十|ごじゅう}メートルある。",
+      "options": [
+        "はば",
+        "ふく",
+        "ほろ",
+        "はし"
+      ],
+      "answer": 0,
+      "vi": "Con sông này rộng khoảng 50 mét.",
+      "why": "幅 = **はば** (訓読み). ふく là âm On (chỉ gặp trong từ rất hiếm như 幅員) — từ đơn không đọc như vậy; ほろ là 幌 (mui xe); はし là 端 (mép) hoặc 橋 (cầu)."
+    },
+    {
+      "id": "g24-t3",
+      "kind": "write",
+      "ref": "g24-w11",
+      "q": "{彼|かれ}の[[u:するどい]]{指摘|してき}に、{会議|かいぎ}の{参加者|さんかしゃ}は{皆|みな}{黙|だま}ってしまった。",
+      "options": [
+        "鈍い",
+        "税い",
+        "説い",
+        "鋭い"
+      ],
+      "answer": 3,
+      "vi": "Trước lời chỉ ra sắc sảo của anh ấy, mọi người trong cuộc họp đều im lặng.",
+      "why": "するどい = **鋭い** (bộ 金 — kim loại sắc). 鈍い cũng bộ 金 nhưng đọc にぶい, nghĩa ngược lại; 税 (thuế) và 説 (thuyết) chỉ giống phần bên phải 兌."
+    },
+    {
+      "id": "g24-t4",
+      "kind": "context",
+      "ref": "g24-w8",
+      "q": "この{温泉|おんせん}は{水|みず}を{一切|いっさい}{加|くわ}えていない、（　　）な{源泉|げんせん}だそうだ。",
+      "options": [
+        "粗末",
+        "穏やか",
+        "純粋",
+        "勝手"
+      ],
+      "answer": 2,
+      "vi": "Nghe nói suối nước nóng này là nguồn nguyên chất, không pha thêm chút nước nào.",
+      "why": "Không pha thêm gì → **純粋** (nguyên chất). 粗末 = kém chất lượng, xoàng (mâu thuẫn với ý khen); 穏やか = êm ả — không nói về độ nguyên chất; 勝手 = tuỳ tiện."
+    },
+    {
+      "id": "g24-t5",
+      "kind": "context",
+      "ref": "g24-w12",
+      "q": "{朝|あさ}から{頭|あたま}の{奥|おく}に（　　）{痛|いた}みがあって、{仕事|しごと}に{集中|しゅうちゅう}できない。",
+      "options": [
+        "粗い",
+        "鈍い",
+        "険しい",
+        "やかましい"
+      ],
+      "answer": 1,
+      "vi": "Từ sáng đầu tôi cứ đau âm ỉ, không tập trung làm việc được.",
+      "why": "Cơn đau âm ỉ, kéo dài, không rõ chỗ → **鈍い痛み**. 粗い (thô), 険しい (dốc, nghiêm), やかましい (ồn) không đi với 痛み."
+    },
+    {
+      "id": "g24-t6",
+      "kind": "context",
+      "ref": "g24-w17",
+      "q": "{彼|かれ}は（　　）だけの{謝罪|しゃざい}をして、すぐに{帰|かえ}ってしまった。",
+      "options": [
+        "形",
+        "型",
+        "影",
+        "幅"
+      ],
+      "answer": 0,
+      "vi": "Anh ta xin lỗi lấy lệ rồi về ngay.",
+      "why": "**形だけ(の)** = chỉ có hình thức, không thật lòng. 型 là khuôn mẫu (型通り mới mang nghĩa “theo khuôn sáo”, không có 型だけの謝罪); 影 (bóng) và 幅 (bề rộng) không hợp nghĩa."
+    },
+    {
+      "id": "g24-t7",
+      "kind": "paraphrase",
+      "ref": "g24-w5",
+      "q": "{人|ひと}のパソコンを[[u:勝手に]]{使|つか}わないでください。",
+      "options": [
+        "乱暴に",
+        "長い時間",
+        "何度も",
+        "許可なく"
+      ],
+      "answer": 3,
+      "vi": "Xin đừng tự ý dùng máy tính của người khác.",
+      "why": "勝手に = theo ý mình, không xin phép → **許可なく**. 乱暴に là thô bạo (cách dùng); 長い時間 và 何度も nói về thời gian / số lần — không phải nghĩa của 勝手に."
+    },
+    {
+      "id": "g24-t8",
+      "kind": "paraphrase",
+      "ref": "g24-w7",
+      "q": "{社長|しゃちょう}は[[u:険しい]]{目|め}つきで{報告書|ほうこくしょ}を{読|よ}んでいた。",
+      "options": [
+        "眠そうな",
+        "悲しそうな",
+        "怒っているような",
+        "楽しそうな"
+      ],
+      "answer": 2,
+      "vi": "Giám đốc đọc bản báo cáo với ánh mắt gay gắt.",
+      "why": "険しい目つき = ánh mắt nghiêm, căng thẳng như đang giận → **怒っているような**. 眠そう (buồn ngủ), 悲しそう (buồn), 楽しそう (vui) đều không có sắc thái “gay gắt” của 険しい."
+    },
+    {
+      "id": "g24-t9",
+      "kind": "usage",
+      "ref": "g24-w19",
+      "q": "{幅|はば}",
+      "options": [
+        "彼女はいつも幅な服を着ている。",
+        "この店は値段に幅があって、安い物から高い物までそろっている。",
+        "台風で海の幅が高くなった。",
+        "雨の幅がだんだん強くなってきた。"
+      ],
+      "answer": 1,
+      "vi": "(2) Cửa hàng này giá cả đa dạng, có từ đồ rẻ đến đồ đắt.",
+      "why": "(2) đúng: **値段に幅がある** = có độ chênh từ thấp đến cao. (1) 幅 là danh từ, không có dạng 幅な (→ ゆったりした服); (3) sóng cao → 波が高い; (4) mưa nặng hạt hơn → 雨脚／雨の勢いが強くなる."
+    },
+    {
+      "id": "g24-t10",
+      "kind": "usage",
+      "ref": "g24-w6",
+      "q": "くどい",
+      "options": [
+        "くどい山道を三時間も歩いた。",
+        "夜中に工事のくどい音がして眠れなかった。",
+        "彼はくどい人で、何をやっても失敗しない。",
+        "このケーキはクリームが多すぎて、少しくどい。"
+      ],
+      "answer": 3,
+      "vi": "(4) Cái bánh này nhiều kem quá nên hơi ngấy.",
+      "why": "(4) đúng: くどい = vị quá đậm, gây ngấy. (1) đường núi dốc → 険しい山道; (2) tiếng ồn → やかましい／うるさい音; (3) người giỏi, chắc chắn → しっかりした人 (くどい人 = người nói dai, phản nghĩa khen)."
+    },
+    {
+      "id": "g24-t11",
+      "kind": "usage",
+      "ref": "g24-w13",
+      "q": "{裏|うら}",
+      "options": [
+        "写真の裏に、撮った日付と場所を書いておいた。",
+        "暑いので、木の裏に入って休もう。",
+        "鏡に映った自分の裏を見て驚いた。",
+        "この料理の裏は少し甘すぎる。"
+      ],
+      "answer": 0,
+      "vi": "(1) Tôi đã ghi ngày và nơi chụp ở mặt sau tấm ảnh.",
+      "why": "(1) đúng: 裏 = mặt sau của vật phẳng. (2) chỗ râm → 木の**陰**; (3) hình phản chiếu → 自分の**影**／姿; (4) vị → 味."
+    }
+  ]
+}

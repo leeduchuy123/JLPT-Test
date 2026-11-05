@@ -1,0 +1,1861 @@
+{
+  "id": "g13",
+  "track": "goi",
+  "intro": "Bài này là **từ vựng máy tính – Internet** mà ngày nào bạn cũng gặp trên màn hình: lưu, xoá, đính kèm, kết nối, khởi động… Phần lớn là **từ Hán Việt 2 chữ + する**, nên rất dễ đoán nghĩa nếu bạn nắm âm Hán Việt: 削除 (TƯỚC TRỪ = gọt bỏ) → xoá, 保存 (BẢO TỒN) → lưu, 接続 (TIẾP TỤC = nối tiếp) → kết nối.\n\nBa điểm hay bị hỏi trong đề:\n- **Cặp từ gần nghĩa**: 削除 / 消去, 拡大 / 増大, 変更 / 修正 / 設定, 起動 / 立ち上げる.\n- **Đọc đúng âm**: 保存 (ほ**ぞ**ん), 添付 (てん**ぷ**), 縮小 (しゅ**く**しょう), 検索 (けん**さく**) — rất dễ nhầm trường âm / âm đục.\n- **Ghép từ (語形成)**: 通信〜, 〜機能, オンライン〜, 〜対策, 再〜, 立ち〜.\n\nCuối bài có 3 phó từ hay đi kèm: **一瞬** (trong nháy mắt), **若干** (một chút — trang trọng), **今や** (giờ đây thì đã…).",
+  "sections": [
+    {
+      "title": "メール・文書作成",
+      "title_vi": "Email, soạn văn bản",
+      "words": [
+        {
+          "id": "g13-w1",
+          "w": "ファイル",
+          "r": "ふぁいる",
+          "hv": "",
+          "pos": "名",
+          "vi": "tệp, file",
+          "key": true,
+          "ex": {
+            "ja": "{必要|ひつよう}なファイルだけをフォルダにまとめておいた。",
+            "vi": "Tôi đã gom riêng các file cần thiết vào một thư mục."
+          },
+          "col": [
+            "ファイルを開く",
+            "ファイルを削除する",
+            "ファイルを作成する",
+            "添付ファイル"
+          ],
+          "note": "Cũng chỉ bìa kẹp hồ sơ bằng giấy (クリアファイル)."
+        },
+        {
+          "id": "g13-w2",
+          "w": "削除",
+          "r": "さくじょ",
+          "hv": "TƯỚC TRỪ",
+          "pos": "名・他動",
+          "vi": "xoá (một mục, một phần ra khỏi tổng thể)",
+          "key": true,
+          "ex": {
+            "ja": "{間違|まちが}って{大事|だいじ}なメールを{削除|さくじょ}してしまった。",
+            "vi": "Tôi lỡ tay xoá mất một email quan trọng."
+          },
+          "col": [
+            "ファイルを削除する",
+            "名前をリストから削除する",
+            "一文を削除する"
+          ],
+          "rel": "≒ 消す ↔ 追加",
+          "note": "Dùng cả ngoài máy tính: 「名簿から名前を削除する」「文章の一部を削除する」 = gạch bỏ một phần khỏi danh sách, văn bản."
+        },
+        {
+          "id": "g13-w3",
+          "w": "消去",
+          "r": "しょうきょ",
+          "hv": "TIÊU KHỨ",
+          "pos": "名・他動",
+          "vi": "xoá sạch (dữ liệu, bộ nhớ), làm biến mất hoàn toàn",
+          "key": true,
+          "ex": {
+            "ja": "{古|ふる}いハードディスクは、データを{完全|かんぜん}に{消去|しょうきょ}してから{処分|しょぶん}する。",
+            "vi": "Ổ cứng cũ thì xoá sạch dữ liệu rồi mới vứt bỏ."
+          },
+          "col": [
+            "データを消去する",
+            "記録を消去する",
+            "消去法"
+          ],
+          "rel": "≒ 削除",
+          "note": "Không dùng cho vật thật hằng ngày: ✗ 電気を消去する / ✗ 黒板の字を消去する → dùng 「消す」. 「消去法」 = phương pháp loại trừ (khi làm trắc nghiệm)."
+        },
+        {
+          "id": "g13-w4",
+          "w": "作成",
+          "r": "さくせい",
+          "hv": "TÁC THÀNH",
+          "pos": "名・他動",
+          "vi": "soạn, lập, tạo (văn bản, tài liệu, kế hoạch)",
+          "key": true,
+          "ex": {
+            "ja": "{来週|らいしゅう}の{会議|かいぎ}までに{企画書|きかくしょ}を{作成|さくせい}しなければならない。",
+            "vi": "Tôi phải soạn xong bản đề xuất trước cuộc họp tuần sau."
+          },
+          "col": [
+            "書類を作成する",
+            "資料を作成する",
+            "新規作成"
+          ],
+          "rel": "≒ 作る",
+          "note": "Đối tượng là **giấy tờ, dữ liệu, kế hoạch** — không nói 「料理を作成する」. Đừng nhầm với 「作製」 (chế tạo đồ vật) và 「製作」 (sản xuất phim, đồ thủ công)."
+        },
+        {
+          "id": "g13-w5",
+          "w": "コピー",
+          "r": "こぴー",
+          "hv": "",
+          "pos": "名・他動",
+          "vi": "sao chép, photo; bản sao",
+          "key": true,
+          "ex": {
+            "ja": "この{表|ひょう}をコピーして、{別|べつ}のファイルに{貼|は}り{付|つ}けてください。",
+            "vi": "Hãy sao chép bảng này rồi dán sang file khác."
+          },
+          "col": [
+            "コピーを取る",
+            "コピー＆ペースト（コピペ）"
+          ],
+          "rel": "≒ 複写"
+        },
+        {
+          "id": "g13-w6",
+          "w": "メール",
+          "r": "めーる",
+          "hv": "",
+          "pos": "名",
+          "vi": "thư điện tử, email",
+          "key": true,
+          "ex": {
+            "ja": "{返事|へんじ}が{遅|おく}れてしまい、{失礼|しつれい}なメールにならないよう{言葉|ことば}を{選|えら}んだ。",
+            "vi": "Vì trả lời muộn nên tôi chọn lời cẩn thận để email không bị thất lễ."
+          },
+          "col": [
+            "メールを送信する",
+            "メールを受信する",
+            "メールを送受信する",
+            "迷惑メール"
+          ]
+        },
+        {
+          "id": "g13-w7",
+          "w": "送信",
+          "r": "そうしん",
+          "hv": "TỐNG TÍN",
+          "pos": "名・他動",
+          "vi": "gửi (tin, dữ liệu, email)",
+          "key": true,
+          "ex": {
+            "ja": "{送信|そうしん}ボタンを{押|お}した{直後|ちょくご}に、{宛先|あてさき}の{間違|まちが}いに{気|き}づいた。",
+            "vi": "Ngay sau khi bấm nút gửi, tôi mới nhận ra mình nhập sai địa chỉ người nhận."
+          },
+          "col": [
+            "メールを送信する",
+            "送信者",
+            "一斉送信"
+          ],
+          "rel": "↔ 受信"
+        },
+        {
+          "id": "g13-w8",
+          "w": "受信",
+          "r": "じゅしん",
+          "hv": "THỤ TÍN",
+          "pos": "名・他動",
+          "vi": "nhận (tin, tín hiệu, email)",
+          "key": true,
+          "ex": {
+            "ja": "{海外|かいがい}からのメールが{受信|じゅしん}できない{状態|じょうたい}が{続|つづ}いている。",
+            "vi": "Tình trạng không nhận được email từ nước ngoài vẫn đang tiếp diễn."
+          },
+          "col": [
+            "メールを受信する",
+            "受信箱",
+            "電波を受信する"
+          ],
+          "rel": "↔ 送信"
+        },
+        {
+          "id": "g13-w9",
+          "w": "送受信",
+          "r": "そうじゅしん",
+          "hv": "TỐNG THỤ TÍN",
+          "pos": "名・他動",
+          "vi": "gửi và nhận",
+          "key": true,
+          "ex": {
+            "ja": "{新|あたら}しいスマホに{替|か}えたら、メールの{送受信|そうじゅしん}が{速|はや}くなった。",
+            "vi": "Đổi sang điện thoại mới thì việc gửi nhận email nhanh hơn hẳn."
+          },
+          "col": [
+            "メールを送受信する",
+            "データの送受信"
+          ],
+          "note": "送 + 受 + 信: ghép 送信 và 受信 thành một từ. Kiểu ghép tương tự: 輸出入 (xuất nhập khẩu), 乗降 (lên xuống xe)."
+        },
+        {
+          "id": "g13-w10",
+          "w": "添付",
+          "r": "てんぷ",
+          "hv": "THIÊM PHÓ",
+          "pos": "名・他動",
+          "vi": "đính kèm",
+          "key": true,
+          "ex": {
+            "ja": "{見積書|みつもりしょ}を{添付|てんぷ}いたしましたので、ご{確認|かくにん}ください。",
+            "vi": "Tôi đã đính kèm bảng báo giá, xin anh/chị kiểm tra giúp."
+          },
+          "col": [
+            "メールにファイルを添付する",
+            "添付ファイル",
+            "写真を添付する"
+          ],
+          "note": "Đọc là てん**ぷ** (âm bán đục), không phải てんふ. Cũng dùng cho giấy tờ thật: 「申込書に写真を添付する」 (đính kèm ảnh vào đơn)."
+        },
+        {
+          "id": "g13-w11",
+          "w": "通信機能",
+          "r": "つうしんきのう",
+          "hv": "THÔNG TÍN CƠ NĂNG",
+          "pos": "名",
+          "vi": "chức năng kết nối / truyền dữ liệu",
+          "key": true,
+          "ex": {
+            "ja": "この{腕時計|うでどけい}には{通信機能|つうしんきのう}があり、スマホと{連動|れんどう}できる。",
+            "vi": "Chiếc đồng hồ đeo tay này có chức năng kết nối, có thể liên động với điện thoại."
+          },
+          "col": [
+            "通信機能を使う",
+            "通信機能付き"
+          ],
+          "note": "Xem phần 語形成: 通信〜 và 〜機能."
+        },
+        {
+          "id": "g13-w12",
+          "w": "変更",
+          "r": "へんこう",
+          "hv": "BIẾN CANH",
+          "pos": "名・他動",
+          "vi": "thay đổi (kế hoạch, cài đặt, nội dung đã định)",
+          "key": true,
+          "ex": {
+            "ja": "パスワードは{三|さん}か{月|げつ}ごとに{変更|へんこう}することをおすすめします。",
+            "vi": "Chúng tôi khuyên bạn nên đổi mật khẩu ba tháng một lần."
+          },
+          "col": [
+            "設定を変更する",
+            "予定を変更する",
+            "変更になる"
+          ],
+          "rel": "≒ 変える",
+          "note": "変更 là **con người chủ động đổi** cái đã định sẵn. Còn 変化 là **tự biến đổi** (気温が変化する). ✗ 予定が変化になった → ○ 予定が変更になった."
+        },
+        {
+          "id": "g13-w13",
+          "w": "設定",
+          "r": "せってい",
+          "hv": "THIẾT ĐỊNH",
+          "pos": "名・他動",
+          "vi": "cài đặt, thiết lập",
+          "key": true,
+          "ex": {
+            "ja": "{目覚|めざ}ましを{六時|ろくじ}に{設定|せってい}したのに、{鳴|な}らなかった。",
+            "vi": "Tôi đã cài báo thức lúc 6 giờ mà nó không reo."
+          },
+          "col": [
+            "設定を変更する",
+            "初期設定",
+            "目標を設定する"
+          ],
+          "note": "Ngoài máy móc còn dùng cho mục tiêu, bối cảnh: 「目標を設定する」 (đặt mục tiêu), 「物語の設定」 (bối cảnh truyện)."
+        },
+        {
+          "id": "g13-w14",
+          "w": "フォント",
+          "r": "ふぉんと",
+          "hv": "",
+          "pos": "名",
+          "vi": "phông chữ, kiểu chữ",
+          "key": true,
+          "ex": {
+            "ja": "{発表|はっぴょう}{資料|しりょう}は、{遠|とお}くからでも{読|よ}みやすいフォントを{選|えら}ぼう。",
+            "vi": "Với tài liệu thuyết trình, hãy chọn phông chữ dễ đọc kể cả khi nhìn từ xa."
+          },
+          "col": [
+            "フォントの種類",
+            "フォントを変更する",
+            "フォントサイズ"
+          ],
+          "rel": "≒ 字体・書体"
+        },
+        {
+          "id": "g13-w15",
+          "w": "種類",
+          "r": "しゅるい",
+          "hv": "CHỦNG LOẠI",
+          "pos": "名",
+          "vi": "loại, chủng loại",
+          "key": false,
+          "ex": {
+            "ja": "このソフトでは{百|ひゃく}{種類|しゅるい}{以上|いじょう}のフォントが{使|つか}える。",
+            "vi": "Phần mềm này dùng được hơn 100 loại phông chữ."
+          },
+          "col": [
+            "フォントの種類",
+            "〜種類の"
+          ]
+        },
+        {
+          "id": "g13-w16",
+          "w": "挿入",
+          "r": "そうにゅう",
+          "hv": "SÁP NHẬP",
+          "pos": "名・他動",
+          "vi": "chèn vào (giữa), cắm vào",
+          "key": true,
+          "ex": {
+            "ja": "{文章|ぶんしょう}の{途中|とちゅう}に{写真|しゃしん}を{挿入|そうにゅう}すると、{分|わ}かりやすくなる。",
+            "vi": "Chèn ảnh vào giữa bài viết thì sẽ dễ hiểu hơn."
+          },
+          "col": [
+            "表を挿入する",
+            "グラフを挿入する",
+            "カードを挿入する"
+          ],
+          "note": "Hình ảnh: **nhét vào giữa** một thứ đang có sẵn (văn bản, khe thẻ). Khác 添付 = gửi kèm theo bên ngoài (email + file)."
+        },
+        {
+          "id": "g13-w17",
+          "w": "表",
+          "r": "ひょう",
+          "hv": "BIỂU",
+          "pos": "名",
+          "vi": "bảng (biểu)",
+          "key": true,
+          "ex": {
+            "ja": "{毎月|まいつき}の{支出|ししゅつ}を{表|ひょう}にまとめてみたら、{無駄|むだ}が{見|み}えてきた。",
+            "vi": "Thử tổng hợp chi tiêu hằng tháng thành bảng thì thấy rõ những khoản lãng phí."
+          },
+          "col": [
+            "表を作る",
+            "表にまとめる",
+            "時刻表"
+          ],
+          "note": "Đọc ひょう khi là \"bảng\". Đừng nhầm với 表 (おもて) = mặt trước."
+        },
+        {
+          "id": "g13-w18",
+          "w": "グラフ",
+          "r": "ぐらふ",
+          "hv": "",
+          "pos": "名",
+          "vi": "biểu đồ, đồ thị",
+          "key": true,
+          "ex": {
+            "ja": "{売上|うりあげ}の{変化|へんか}は、{折|お}れ{線|せん}グラフで{示|しめ}すと{分|わ}かりやすい。",
+            "vi": "Sự thay đổi doanh thu thể hiện bằng biểu đồ đường thì dễ hiểu."
+          },
+          "col": [
+            "グラフを挿入する",
+            "棒グラフ",
+            "円グラフ"
+          ]
+        },
+        {
+          "id": "g13-w19",
+          "w": "図",
+          "r": "ず",
+          "hv": "ĐỒ",
+          "pos": "名",
+          "vi": "hình vẽ, sơ đồ",
+          "key": true,
+          "ex": {
+            "ja": "{説明|せつめい}だけでは{分|わ}かりにくいので、{図|ず}を{使|つか}って{示|しめ}した。",
+            "vi": "Chỉ giải thích bằng lời thì khó hiểu nên tôi dùng sơ đồ để minh hoạ."
+          },
+          "col": [
+            "図を拡大する",
+            "図を縮小する",
+            "地図",
+            "図表"
+          ]
+        },
+        {
+          "id": "g13-w20",
+          "w": "拡大",
+          "r": "かくだい",
+          "hv": "KHUẾCH ĐẠI",
+          "pos": "名・自他動",
+          "vi": "phóng to, mở rộng (kích thước, phạm vi)",
+          "key": true,
+          "ex": {
+            "ja": "スマホの{画面|がめん}を{二本|にほん}の{指|ゆび}で{広|ひろ}げると、{写真|しゃしん}が{拡大|かくだい}される。",
+            "vi": "Dùng hai ngón tay kéo rộng màn hình điện thoại thì ảnh sẽ được phóng to."
+          },
+          "col": [
+            "図を拡大する",
+            "事業を拡大する",
+            "被害が拡大する",
+            "拡大コピー"
+          ],
+          "rel": "↔ 縮小",
+          "note": "Dùng cho **kích thước, phạm vi, quy mô**: 画像・地図・事業・被害・感染. Còn **số lượng, mức độ** tăng thì là 増大 / 増加."
+        },
+        {
+          "id": "g13-w21",
+          "w": "縮小",
+          "r": "しゅくしょう",
+          "hv": "SÚC TIỂU",
+          "pos": "名・自他動",
+          "vi": "thu nhỏ, cắt giảm (quy mô)",
+          "key": true,
+          "ex": {
+            "ja": "{予算|よさん}が{減|へ}ったため、イベントの{規模|きぼ}を{縮小|しゅくしょう}することになった。",
+            "vi": "Vì ngân sách bị cắt nên quy mô sự kiện phải thu hẹp lại."
+          },
+          "col": [
+            "図を縮小する",
+            "規模を縮小する",
+            "縮小コピー"
+          ],
+          "rel": "↔ 拡大",
+          "note": "Đọc しゅ**く**しょう — 縮 có âm く giống 縮む (ちぢむ, co lại)."
+        },
+        {
+          "id": "g13-w22",
+          "w": "文書",
+          "r": "ぶんしょ",
+          "hv": "VĂN THƯ",
+          "pos": "名",
+          "vi": "văn bản, giấy tờ",
+          "key": true,
+          "ex": {
+            "ja": "{重要|じゅうよう}な{連絡|れんらく}は、{口頭|こうとう}ではなく{文書|ぶんしょ}で{残|のこ}しておこう。",
+            "vi": "Những liên lạc quan trọng nên lưu bằng văn bản chứ đừng chỉ nói miệng."
+          },
+          "col": [
+            "文書を作成する",
+            "文書をプリントアウトする",
+            "公文書"
+          ],
+          "note": "Đọc ぶん**しょ** (không phải ぶんしょう). 「文章」(ぶんしょう) = bài văn, câu văn; 「文書」 = tài liệu, giấy tờ."
+        },
+        {
+          "id": "g13-w23",
+          "w": "プリントアウト",
+          "r": "ぷりんとあうと",
+          "hv": "",
+          "pos": "名・他動",
+          "vi": "in ra (từ máy tính)",
+          "key": true,
+          "ex": {
+            "ja": "{搭乗券|とうじょうけん}をプリントアウトして{空港|くうこう}に{持|も}っていった。",
+            "vi": "Tôi in vé lên máy bay ra rồi mang đến sân bay."
+          },
+          "col": [
+            "文書をプリントアウトする"
+          ],
+          "rel": "≒ 印刷する"
+        },
+        {
+          "id": "g13-w24",
+          "w": "データ",
+          "r": "でーた",
+          "hv": "",
+          "pos": "名",
+          "vi": "dữ liệu",
+          "key": true,
+          "ex": {
+            "ja": "{停電|ていでん}で{作業中|さぎょうちゅう}のデータが{全部|ぜんぶ}{消|き}えてしまった。",
+            "vi": "Mất điện làm toàn bộ dữ liệu đang làm dở biến mất."
+          },
+          "col": [
+            "データを保存する",
+            "データを消去する",
+            "データを入力する"
+          ]
+        },
+        {
+          "id": "g13-w25",
+          "w": "保存",
+          "r": "ほぞん",
+          "hv": "BẢO TỒN",
+          "pos": "名・他動",
+          "vi": "lưu (dữ liệu); bảo quản",
+          "key": true,
+          "ex": {
+            "ja": "こまめに{保存|ほぞん}しておかないと、{急|きゅう}なトラブルで{作業|さぎょう}が{無駄|むだ}になる。",
+            "vi": "Nếu không chịu khó lưu thường xuyên, gặp sự cố bất ngờ là công sức đổ sông đổ biển."
+          },
+          "col": [
+            "データを保存する",
+            "上書き保存",
+            "保存料",
+            "冷蔵保存"
+          ],
+          "note": "Đọc ほ**ぞ**ん — âm đục, không có trường âm. Nghĩa rộng: bảo quản thực phẩm (冷蔵保存), giữ gìn di tích (文化財の保存)."
+        }
+      ]
+    },
+    {
+      "title": "インターネット",
+      "title_vi": "Internet",
+      "words": [
+        {
+          "id": "g13-w26",
+          "w": "インターネット",
+          "r": "いんたーねっと",
+          "hv": "",
+          "pos": "名",
+          "vi": "Internet (gọi tắt: ネット)",
+          "key": false,
+          "ex": {
+            "ja": "{最近|さいきん}はニュースをインターネットで{読|よ}む{人|ひと}が{増|ふ}えた。",
+            "vi": "Gần đây số người đọc tin tức trên Internet đã tăng lên."
+          },
+          "col": [
+            "インターネットに接続する",
+            "インターネットで検索する"
+          ]
+        },
+        {
+          "id": "g13-w27",
+          "w": "接続",
+          "r": "せつぞく",
+          "hv": "TIẾP TỤC",
+          "pos": "名・自他動",
+          "vi": "kết nối, nối (vào mạng, thiết bị, chuyến tàu)",
+          "key": true,
+          "ex": {
+            "ja": "ホテルのWi-Fiに{接続|せつぞく}できなくて、{仕事|しごと}のメールが{読|よ}めなかった。",
+            "vi": "Không kết nối được Wi-Fi của khách sạn nên tôi không đọc được email công việc."
+          },
+          "col": [
+            "インターネットに接続する",
+            "プリンターを接続する",
+            "電車の接続が悪い",
+            "接続詞"
+          ],
+          "note": "Trợ từ: **〜に接続する** (kết nối vào…). Còn dùng cho tàu xe: 「この駅で特急に接続する」 = nối chuyến với tàu tốc hành."
+        },
+        {
+          "id": "g13-w28",
+          "w": "検索",
+          "r": "けんさく",
+          "hv": "KIỂM SÁCH",
+          "pos": "名・他動",
+          "vi": "tìm kiếm (thông tin bằng máy tính, từ khoá)",
+          "key": true,
+          "ex": {
+            "ja": "{気|き}になる{言葉|ことば}は、すぐにスマホで{検索|けんさく}する{習慣|しゅうかん}がある。",
+            "vi": "Tôi có thói quen hễ gặp từ nào thắc mắc là tra ngay bằng điện thoại."
+          },
+          "col": [
+            "インターネットで検索する",
+            "キーワードで検索する",
+            "検索エンジン"
+          ],
+          "note": "Chỉ dùng cho việc **tra thông tin trong cơ sở dữ liệu**. Tìm đồ thất lạc → 探す; cảnh sát lục soát → 捜索 (そうさく)."
+        },
+        {
+          "id": "g13-w29",
+          "w": "通信速度",
+          "r": "つうしんそくど",
+          "hv": "THÔNG TÍN TỐC ĐỘ",
+          "pos": "名",
+          "vi": "tốc độ truyền dữ liệu, tốc độ mạng",
+          "key": true,
+          "ex": {
+            "ja": "{夜|よる}になると{利用者|りようしゃ}が{増|ふ}えて、{通信速度|つうしんそくど}が{落|お}ちる。",
+            "vi": "Cứ đến tối số người dùng tăng lên là tốc độ mạng giảm."
+          },
+          "col": [
+            "通信速度が速い／遅い",
+            "通信速度が落ちる"
+          ]
+        },
+        {
+          "id": "g13-w30",
+          "w": "オンラインショッピング",
+          "r": "おんらいんしょっぴんぐ",
+          "hv": "",
+          "pos": "名",
+          "vi": "mua sắm trực tuyến",
+          "key": true,
+          "ex": {
+            "ja": "{忙|いそが}しい{人|ひと}にとって、オンラインショッピングは{欠|か}かせないサービスだ。",
+            "vi": "Với người bận rộn, mua sắm trực tuyến là dịch vụ không thể thiếu."
+          },
+          "col": [
+            "オンラインショッピングを楽しむ"
+          ],
+          "rel": "≒ ネットショッピング・通販"
+        },
+        {
+          "id": "g13-w31",
+          "w": "ホームページ",
+          "r": "ほーむぺーじ",
+          "hv": "",
+          "pos": "名",
+          "vi": "trang web, trang chủ",
+          "key": true,
+          "ex": {
+            "ja": "{詳|くわ}しい{営業|えいぎょう}{時間|じかん}は、{店|みせ}のホームページでご{確認|かくにん}ください。",
+            "vi": "Giờ mở cửa chi tiết, xin xem trên trang web của cửa hàng."
+          },
+          "col": [
+            "ホームページを見る",
+            "ホームページを開設する"
+          ],
+          "rel": "≒ ウェブサイト"
+        },
+        {
+          "id": "g13-w32",
+          "w": "ウェブサイト",
+          "r": "うぇぶさいと",
+          "hv": "",
+          "pos": "名",
+          "vi": "website",
+          "key": true,
+          "ex": {
+            "ja": "{怪|あや}しいウェブサイトには、{個人|こじん}{情報|じょうほう}を{入力|にゅうりょく}しないこと。",
+            "vi": "Đừng nhập thông tin cá nhân vào những website đáng ngờ."
+          },
+          "col": [
+            "ウェブサイトを見る",
+            "公式ウェブサイト"
+          ],
+          "rel": "≒ ホームページ・サイト"
+        },
+        {
+          "id": "g13-w33",
+          "w": "ウイルス",
+          "r": "ういるす",
+          "hv": "",
+          "pos": "名",
+          "vi": "virus (máy tính; cũng là virus sinh học)",
+          "key": true,
+          "ex": {
+            "ja": "{知|し}らない{人|ひと}からの{添付|てんぷ}ファイルを{開|ひら}いたら、ウイルスに{感染|かんせん}した。",
+            "vi": "Mở file đính kèm của người lạ xong thì máy bị nhiễm virus."
+          },
+          "col": [
+            "ウイルスに感染する",
+            "ウイルス対策",
+            "ウイルスにやられる"
+          ]
+        },
+        {
+          "id": "g13-w34",
+          "w": "対策",
+          "r": "たいさく",
+          "hv": "ĐỐI SÁCH",
+          "pos": "名",
+          "vi": "biện pháp đối phó, cách phòng chống",
+          "key": true,
+          "ex": {
+            "ja": "{夏|なつ}の{暑|あつ}さ{対策|たいさく}として、{社内|しゃない}の{服装|ふくそう}が{自由|じゆう}になった。",
+            "vi": "Như một biện pháp chống nóng mùa hè, trang phục trong công ty đã được tự do."
+          },
+          "col": [
+            "ウイルス対策をする",
+            "対策を立てる",
+            "対策を講じる",
+            "〜対策"
+          ],
+          "note": "Rất hay dùng như hậu tố: ウイルス対策・迷惑メール対策・地震対策・試験対策 (luyện thi)."
+        },
+        {
+          "id": "g13-w35",
+          "w": "ソフト",
+          "r": "そふと",
+          "hv": "",
+          "pos": "名",
+          "vi": "phần mềm (ソフトウェア)",
+          "key": true,
+          "ex": {
+            "ja": "{会社|かいしゃ}のパソコンに{勝手|かって}にソフトを{入|い}れてはいけない。",
+            "vi": "Không được tự ý cài phần mềm vào máy tính của công ty."
+          },
+          "col": [
+            "ソフトをダウンロードする",
+            "ソフトをインストールする"
+          ],
+          "rel": "↔ ハード（ハードウェア）",
+          "note": "「ソフトな」 (な形) lại là \"mềm mại, nhẹ nhàng\": ソフトな話し方."
+        },
+        {
+          "id": "g13-w36",
+          "w": "ダウンロード",
+          "r": "だうんろーど",
+          "hv": "",
+          "pos": "名・他動",
+          "vi": "tải xuống",
+          "key": true,
+          "ex": {
+            "ja": "{申込書|もうしこみしょ}は{市|し}のホームページからダウンロードできる。",
+            "vi": "Mẫu đơn có thể tải về từ trang web của thành phố."
+          },
+          "col": [
+            "ソフトをダウンロードする",
+            "無料ダウンロード"
+          ],
+          "rel": "↔ アップロード"
+        },
+        {
+          "id": "g13-w37",
+          "w": "インストール",
+          "r": "いんすとーる",
+          "hv": "",
+          "pos": "名・他動",
+          "vi": "cài đặt (phần mềm)",
+          "key": true,
+          "ex": {
+            "ja": "{新|あたら}しいアプリをインストールしたら、スマホの{動|うご}きが{重|おも}くなった。",
+            "vi": "Cài ứng dụng mới xong thì điện thoại chạy ì hẳn."
+          },
+          "col": [
+            "ソフトをインストールする",
+            "再インストール"
+          ],
+          "rel": "↔ アンインストール",
+          "note": "Khác 設定: インストール = **đưa phần mềm vào máy**; 設定 = **chỉnh các thông số** sau khi đã có."
+        }
+      ]
+    },
+    {
+      "title": "その他",
+      "title_vi": "Thao tác khác",
+      "words": [
+        {
+          "id": "g13-w38",
+          "w": "プログラム",
+          "r": "ぷろぐらむ",
+          "hv": "",
+          "pos": "名",
+          "vi": "chương trình (máy tính); chương trình biểu diễn",
+          "key": true,
+          "ex": {
+            "ja": "このプログラムは、{毎朝|まいあさ}{自動的|じどうてき}にデータを{集計|しゅうけい}する。",
+            "vi": "Chương trình này mỗi sáng tự động tổng hợp dữ liệu."
+          },
+          "col": [
+            "プログラムを起動する",
+            "プログラムを終了する",
+            "コンサートのプログラム"
+          ]
+        },
+        {
+          "id": "g13-w39",
+          "w": "起動",
+          "r": "きどう",
+          "hv": "KHỞI ĐỘNG",
+          "pos": "名・自他動",
+          "vi": "khởi động (máy, chương trình)",
+          "key": true,
+          "ex": {
+            "ja": "{古|ふる}いパソコンなので、{起動|きどう}するまでに{三分|さんぷん}もかかる。",
+            "vi": "Vì là máy tính cũ nên khởi động mất tận ba phút."
+          },
+          "col": [
+            "パソコンを起動する",
+            "アプリが起動しない"
+          ],
+          "rel": "≒ 立ち上げる ↔ 終了"
+        },
+        {
+          "id": "g13-w40",
+          "w": "立ち上げる",
+          "r": "たちあげる",
+          "hv": "LẬP THƯỢNG",
+          "pos": "他動",
+          "vi": "khởi động (máy); thành lập, khởi xướng (công ty, dự án)",
+          "key": true,
+          "senses": [
+            {
+              "vi": "khởi động máy tính, chương trình (≒ 起動する)",
+              "ex": {
+                "ja": "{朝|あさ}{出社|しゅっしゃ}したら、まずパソコンを{立|た}ち{上|あ}げてメールを{確認|かくにん}する。",
+                "vi": "Sáng đến công ty, việc đầu tiên tôi làm là bật máy tính lên và kiểm tra email."
+              }
+            },
+            {
+              "vi": "thành lập, khởi động (tổ chức, dự án)",
+              "ex": {
+                "ja": "{彼女|かのじょ}は{大学|だいがく}{時代|じだい}の{仲間|なかま}とベンチャー{企業|きぎょう}を{立|た}ち{上|あ}げた。",
+                "vi": "Cô ấy đã cùng bạn bè thời đại học thành lập một công ty khởi nghiệp."
+              }
+            }
+          ],
+          "col": [
+            "パソコンを立ち上げる",
+            "会社を立ち上げる",
+            "プロジェクトを立ち上げる"
+          ],
+          "rel": "自動詞: 立ち上がる",
+          "note": "Tha động từ (〜を立ち上げる). Tự động từ tương ứng: 「パソコンが立ち上がる」."
+        },
+        {
+          "id": "g13-w41",
+          "w": "再起動",
+          "r": "さいきどう",
+          "hv": "TÁI KHỞI ĐỘNG",
+          "pos": "名・自他動",
+          "vi": "khởi động lại",
+          "key": true,
+          "ex": {
+            "ja": "{画面|がめん}が{固|かた}まって{動|うご}かないときは、{再起動|さいきどう}してみてください。",
+            "vi": "Khi màn hình bị đơ không chạy, hãy thử khởi động lại."
+          },
+          "col": [
+            "パソコンを再起動する"
+          ],
+          "note": "再 (TÁI) = lại lần nữa. Xem phần 語形成."
+        },
+        {
+          "id": "g13-w42",
+          "w": "終了",
+          "r": "しゅうりょう",
+          "hv": "CHUNG LIỄU",
+          "pos": "名・自他動",
+          "vi": "kết thúc, thoát (chương trình)",
+          "key": true,
+          "ex": {
+            "ja": "{本日|ほんじつ}の{受付|うけつけ}は{終了|しゅうりょう}いたしました。",
+            "vi": "Việc tiếp nhận hôm nay đã kết thúc."
+          },
+          "col": [
+            "プログラムを終了する",
+            "試合終了",
+            "受付終了"
+          ],
+          "rel": "≒ 終わる ↔ 開始・起動",
+          "note": "Văn trang trọng của 終わる. Khác 完了 (かんりょう) = **hoàn tất** một việc đến nơi đến chốn (準備完了・ダウンロード完了)."
+        },
+        {
+          "id": "g13-w43",
+          "w": "操作",
+          "r": "そうさ",
+          "hv": "THAO TÁC",
+          "pos": "名・他動",
+          "vi": "thao tác, vận hành (máy móc)",
+          "key": true,
+          "ex": {
+            "ja": "{祖母|そぼ}でも{使|つか}えるように、{操作|そうさ}が{簡単|かんたん}な{携帯|けいたい}を{選|えら}んだ。",
+            "vi": "Để bà cũng dùng được, tôi chọn chiếc điện thoại thao tác đơn giản."
+          },
+          "col": [
+            "パソコンを操作する",
+            "操作ミス",
+            "遠隔操作",
+            "世論を操作する"
+          ],
+          "note": "Bẫy đồng âm: 捜査 (そうさ, cảnh sát điều tra — bài 15). 操 có bộ 扌 (tay) → dùng tay điều khiển."
+        },
+        {
+          "id": "g13-w44",
+          "w": "修理",
+          "r": "しゅうり",
+          "hv": "TU LÝ",
+          "pos": "名・他動",
+          "vi": "sửa chữa (đồ vật, máy móc)",
+          "key": true,
+          "ex": {
+            "ja": "{洗濯機|せんたくき}を{修理|しゅうり}に{出|だ}したら、{新品|しんぴん}を{買|か}うのと{変|か}わらない{値段|ねだん}だった。",
+            "vi": "Đem máy giặt đi sửa thì giá chẳng khác gì mua cái mới."
+          },
+          "col": [
+            "修理に出す",
+            "修理を頼む",
+            "修理代"
+          ],
+          "rel": "≒ 直す",
+          "note": "修理 cho **đồ vật hỏng**. Sửa **lỗi sai trong văn bản, kế hoạch** → 修正 (しゅうせい)."
+        },
+        {
+          "id": "g13-w45",
+          "w": "中古",
+          "r": "ちゅうこ",
+          "hv": "TRUNG CỔ",
+          "pos": "名",
+          "vi": "đồ cũ, đã qua sử dụng",
+          "key": true,
+          "ex": {
+            "ja": "{学生|がくせい}のころは、{中古|ちゅうこ}の{自転車|じてんしゃ}に{五年|ごねん}も{乗|の}っていた。",
+            "vi": "Hồi sinh viên, tôi đi chiếc xe đạp cũ suốt năm năm."
+          },
+          "col": [
+            "中古のパソコン",
+            "中古車",
+            "中古品"
+          ],
+          "rel": "↔ 新品",
+          "note": "Chỉ dùng cho **hàng hoá đã qua sử dụng**. Đồ ăn cũ → 古くなった; bạn cũ → 古い友人／旧友."
+        },
+        {
+          "id": "g13-w46",
+          "w": "モニター",
+          "r": "もにたー",
+          "hv": "",
+          "pos": "名",
+          "vi": "màn hình; người dùng thử (sản phẩm)",
+          "key": true,
+          "ex": {
+            "ja": "{目|め}が{疲|つか}れるので、モニターの{明|あか}るさを{少|すこ}し{下|さ}げた。",
+            "vi": "Vì mỏi mắt nên tôi giảm độ sáng màn hình một chút."
+          },
+          "col": [
+            "モニターが暗い",
+            "モニターを見る",
+            "商品モニター"
+          ],
+          "rel": "≒ 画面・ディスプレイ"
+        }
+      ]
+    },
+    {
+      "title": "語形成",
+      "title_vi": "Ghép từ, tiền tố – hậu tố",
+      "words": [
+        {
+          "id": "g13-w47",
+          "w": "通信〜",
+          "r": "つうしん",
+          "hv": "THÔNG TÍN",
+          "pos": "接頭",
+          "vi": "(liên quan đến) truyền tin, liên lạc từ xa",
+          "key": true,
+          "ex": {
+            "ja": "{通信|つうしん}{会社|がいしゃ}を{変|か}えたら、スマホ{代|だい}が{半分|はんぶん}になった。",
+            "vi": "Đổi nhà mạng xong thì tiền điện thoại giảm một nửa."
+          },
+          "col": [
+            "通信機能",
+            "通信教育",
+            "通信速度",
+            "通信販売（通販）"
+          ]
+        },
+        {
+          "id": "g13-w48",
+          "w": "通信教育",
+          "r": "つうしんきょういく",
+          "hv": "THÔNG TÍN GIÁO DỤC",
+          "pos": "名",
+          "vi": "giáo dục từ xa, học hàm thụ",
+          "key": false,
+          "ex": {
+            "ja": "{父|ちち}は{働|はたら}きながら{通信教育|つうしんきょういく}で{大学|だいがく}を{卒業|そつぎょう}した。",
+            "vi": "Bố tôi vừa đi làm vừa tốt nghiệp đại học theo hệ đào tạo từ xa."
+          },
+          "col": [
+            "通信教育を受ける"
+          ]
+        },
+        {
+          "id": "g13-w49",
+          "w": "〜機能",
+          "r": "きのう",
+          "hv": "CƠ NĂNG",
+          "pos": "接尾",
+          "vi": "chức năng…",
+          "key": true,
+          "ex": {
+            "ja": "このカメラには{手|て}ぶれを{防|ふせ}ぐ{機能|きのう}がついている。",
+            "vi": "Máy ảnh này có chức năng chống rung tay."
+          },
+          "col": [
+            "通信機能",
+            "印刷機能",
+            "検索機能",
+            "機能がつく",
+            "機能的な"
+          ],
+          "note": "Khác 性能 (せいのう) = **hiệu năng, độ tốt** của máy (性能がいい). 機能 = máy **làm được việc gì**."
+        },
+        {
+          "id": "g13-w50",
+          "w": "印刷機能",
+          "r": "いんさつきのう",
+          "hv": "ẤN LOÁT CƠ NĂNG",
+          "pos": "名",
+          "vi": "chức năng in",
+          "key": true,
+          "ex": {
+            "ja": "この{複合機|ふくごうき}は{印刷機能|いんさつきのう}だけでなく、スキャン{機能|きのう}もある。",
+            "vi": "Máy đa năng này không chỉ có chức năng in mà còn có chức năng quét."
+          },
+          "col": [
+            "両面印刷機能"
+          ]
+        },
+        {
+          "id": "g13-w51",
+          "w": "オンライン〜",
+          "r": "おんらいん",
+          "hv": "",
+          "pos": "接頭",
+          "vi": "trực tuyến…",
+          "key": true,
+          "ex": {
+            "ja": "{最近|さいきん}は{面接|めんせつ}もオンラインで{行|おこな}う{会社|かいしゃ}が{多|おお}い。",
+            "vi": "Gần đây nhiều công ty phỏng vấn cũng làm trực tuyến."
+          },
+          "col": [
+            "オンラインショッピング",
+            "オンラインショップ",
+            "オンラインゲーム",
+            "オンライン会議"
+          ],
+          "rel": "↔ オフライン"
+        },
+        {
+          "id": "g13-w52",
+          "w": "オンラインショップ",
+          "r": "おんらいんしょっぷ",
+          "hv": "",
+          "pos": "名",
+          "vi": "cửa hàng trực tuyến",
+          "key": true,
+          "ex": {
+            "ja": "その{雑貨|ざっか}{店|てん}は、{実店舗|じつてんぽ}を{閉|と}じてオンラインショップだけにした。",
+            "vi": "Cửa hàng tạp hoá đó đóng cửa tiệm thật, chỉ còn bán qua cửa hàng trực tuyến."
+          },
+          "col": [
+            "オンラインショップで買う"
+          ],
+          "rel": "≒ ネットショップ"
+        },
+        {
+          "id": "g13-w53",
+          "w": "オンラインゲーム",
+          "r": "おんらいんげーむ",
+          "hv": "",
+          "pos": "名",
+          "vi": "trò chơi trực tuyến",
+          "key": false,
+          "ex": {
+            "ja": "{弟|おとうと}は{毎晩|まいばん}、{海外|かいがい}の{友達|ともだち}とオンラインゲームをしている。",
+            "vi": "Em trai tôi tối nào cũng chơi game trực tuyến với bạn nước ngoài."
+          }
+        },
+        {
+          "id": "g13-w62",
+          "w": "〜対策",
+          "r": "〜たいさく",
+          "hv": "ĐỐI SÁCH",
+          "pos": "接尾",
+          "vi": "biện pháp phòng chống …, đối phó với …",
+          "key": true,
+          "ex": {
+            "ja": "{試験|しけん}{対策|たいさく}として、{過去問|かこもん}を{毎日|まいにち}{一回分|いっかいぶん}ずつ{解|と}いている。",
+            "vi": "Để luyện thi, mỗi ngày tôi giải một đề thi cũ."
+          },
+          "col": [
+            "ウイルス対策",
+            "迷惑メール対策",
+            "地震対策",
+            "試験対策"
+          ],
+          "note": "Cấu trúc: [vấn đề cần phòng / việc cần vượt qua] + 対策 (ウイルス対策, 地震対策, 試験対策 = luyện thi). Dạng đầy đủ: 「〜に対する対策」「〜の対策を立てる」."
+        },
+        {
+          "id": "g13-w63",
+          "w": "ウイルス対策",
+          "r": "ういるすたいさく",
+          "hv": "ĐỐI SÁCH",
+          "pos": "名",
+          "vi": "biện pháp chống virus (máy tính)",
+          "key": true,
+          "ex": {
+            "ja": "{会社|かいしゃ}のパソコンには、すべてウイルス{対策|たいさく}ソフトが{入|はい}っている。",
+            "vi": "Tất cả máy tính ở công ty đều được cài phần mềm diệt virus."
+          },
+          "col": [
+            "ウイルス対策ソフト",
+            "ウイルス対策をする"
+          ]
+        },
+        {
+          "id": "g13-w54",
+          "w": "迷惑メール対策",
+          "r": "めいわくめーるたいさく",
+          "hv": "MÊ HOẶC … ĐỐI SÁCH",
+          "pos": "名",
+          "vi": "biện pháp chống thư rác",
+          "key": true,
+          "ex": {
+            "ja": "{迷惑|めいわく}メール{対策|たいさく}として、{知|し}らないアドレスからのメールは{別|べつ}のフォルダに{入|はい}るようにした。",
+            "vi": "Để chống thư rác, tôi cài cho thư từ địa chỉ lạ tự vào một thư mục riêng."
+          },
+          "col": [
+            "ウイルス対策",
+            "迷惑メール"
+          ],
+          "note": "Cấu trúc: [vấn đề cần phòng] + 対策. Xem thêm 防犯対策・防災対策 ở bài 15."
+        },
+        {
+          "id": "g13-w64",
+          "w": "立ち〜",
+          "r": "たち〜",
+          "hv": "LẬP",
+          "pos": "接頭",
+          "vi": "(tiền tố động từ) đứng lên / bắt đầu, khởi động …",
+          "key": false,
+          "ex": {
+            "ja": "{会社|かいしゃ}の{帰|かえ}りに、{駅前|えきまえ}の{本屋|ほんや}に{立|た}ち{寄|よ}った。",
+            "vi": "Trên đường đi làm về, tôi ghé qua hiệu sách trước ga."
+          },
+          "col": [
+            "立ち上げる",
+            "立ち上がる",
+            "立ち止まる",
+            "立ち寄る"
+          ],
+          "note": "Trong bài này cần nhớ cặp 立ち上げる (他) ／ 立ち上がる (自) về khởi động máy."
+        },
+        {
+          "id": "g13-w55",
+          "w": "立ち上がる",
+          "r": "たちあがる",
+          "hv": "LẬP THƯỢNG",
+          "pos": "自動",
+          "vi": "(máy) khởi động xong; đứng dậy; vùng lên hành động",
+          "key": true,
+          "ex": {
+            "ja": "パソコンが{立|た}ち{上|あ}がるまで、コーヒーを{入|い}れて{待|ま}った。",
+            "vi": "Trong lúc chờ máy tính khởi động xong, tôi pha cà phê."
+          },
+          "col": [
+            "パソコンが立ち上がる",
+            "席から立ち上がる",
+            "住民が立ち上がる"
+          ],
+          "rel": "他動詞: 立ち上げる"
+        },
+        {
+          "id": "g13-w65",
+          "w": "〜上げる",
+          "r": "〜あげる",
+          "hv": "THƯỢNG",
+          "pos": "接尾",
+          "vi": "(hậu tố động từ) làm cho lên cao / làm cho đạt tới, hoàn thành",
+          "key": true,
+          "ex": {
+            "ja": "{締|し}め{切|き}りの{前日|ぜんじつ}に、やっとレポートを{書|か}き{上|あ}げた。",
+            "vi": "Hôm trước hạn chót, cuối cùng tôi cũng viết xong bản báo cáo."
+          },
+          "col": [
+            "立ち上げる",
+            "盛り上げる",
+            "書き上げる",
+            "仕上げる"
+          ],
+          "note": "Tha động từ; tự động từ tương ứng là 〜上がる: 盛り上げる／盛り上がる, 立ち上げる／立ち上がる."
+        },
+        {
+          "id": "g13-w56",
+          "w": "盛り上げる",
+          "r": "もりあげる",
+          "hv": "THỊNH THƯỢNG",
+          "pos": "他動",
+          "vi": "làm cho sôi nổi, khuấy động không khí",
+          "key": false,
+          "ex": {
+            "ja": "{司会者|しかいしゃ}の{冗談|じょうだん}が{会場|かいじょう}を{盛|も}り{上|あ}げた。",
+            "vi": "Câu đùa của MC đã làm cả hội trường sôi động hẳn lên."
+          },
+          "col": [
+            "場を盛り上げる",
+            "パーティーを盛り上げる"
+          ],
+          "rel": "自動詞: 盛り上がる",
+          "note": "〜上げる = đẩy lên / làm cho đạt tới: 立ち上げる, 盛り上げる, 仕上げる (hoàn thành), 書き上げる (viết xong)."
+        },
+        {
+          "id": "g13-w66",
+          "w": "再〜",
+          "r": "さい〜",
+          "hv": "TÁI",
+          "pos": "接頭",
+          "vi": "lại, … lại lần nữa",
+          "key": true,
+          "ex": {
+            "ja": "カードをなくしたので、{銀行|ぎんこう}で{再発行|さいはっこう}してもらった。",
+            "vi": "Vì làm mất thẻ nên tôi đã được ngân hàng cấp lại."
+          },
+          "col": [
+            "再起動",
+            "再インストール",
+            "再発行",
+            "再放送",
+            "再確認"
+          ],
+          "note": "Đọc さい (không phải ふたたび) khi làm tiền tố. Ghép được cả với từ ngoại lai: 再インストール, 再ダウンロード."
+        },
+        {
+          "id": "g13-w57",
+          "w": "再インストール",
+          "r": "さいいんすとーる",
+          "hv": "TÁI",
+          "pos": "名・他動",
+          "vi": "cài đặt lại",
+          "key": true,
+          "ex": {
+            "ja": "アプリが{開|ひら}かなくなったので、{一度|いちど}{削除|さくじょ}して{再|さい}インストールした。",
+            "vi": "Ứng dụng không mở được nữa nên tôi xoá đi rồi cài lại."
+          },
+          "col": [
+            "再起動",
+            "再発行",
+            "再利用",
+            "再確認"
+          ],
+          "note": "再〜 (さい) = làm lại lần nữa. Ghép được cả với từ ngoại lai: 再インストール, 再ダウンロード."
+        }
+      ]
+    },
+    {
+      "title": "例文の言葉（副詞など）",
+      "title_vi": "Phó từ và từ trong câu ví dụ",
+      "words": [
+        {
+          "id": "g13-w58",
+          "w": "入力",
+          "r": "にゅうりょく",
+          "hv": "NHẬP LỰC",
+          "pos": "名・他動",
+          "vi": "nhập (dữ liệu, chữ)",
+          "key": false,
+          "ex": {
+            "ja": "{住所|じゅうしょ}を{入力|にゅうりょく}すると、{近|ちか}くの{店|みせ}が{表示|ひょうじ}される。",
+            "vi": "Nhập địa chỉ vào thì các cửa hàng gần đó sẽ hiện ra."
+          },
+          "col": [
+            "データを入力する",
+            "入力ミス"
+          ],
+          "rel": "↔ 出力"
+        },
+        {
+          "id": "g13-w59",
+          "w": "一瞬",
+          "r": "いっしゅん",
+          "hv": "NHẤT THUẤN",
+          "pos": "名・副",
+          "vi": "một khoảnh khắc, trong nháy mắt",
+          "key": true,
+          "ex": {
+            "ja": "{名前|なまえ}を{呼|よ}ばれて、{一瞬|いっしゅん}{誰|だれ}だか{分|わ}からなかった。",
+            "vi": "Bị gọi tên, trong một thoáng tôi không nhận ra là ai."
+          },
+          "col": [
+            "一瞬で消える",
+            "一瞬のうちに",
+            "一瞬の出来事"
+          ],
+          "rel": "≒ 瞬間・あっという間",
+          "note": "Dùng như phó từ (一瞬, 一瞬で) hoặc danh từ (一瞬の油断 = một phút lơ là)."
+        },
+        {
+          "id": "g13-w60",
+          "w": "若干",
+          "r": "じゃっかん",
+          "hv": "NHƯỢC CAN",
+          "pos": "副・名",
+          "vi": "một chút, đôi chút; một số ít (trang trọng)",
+          "key": true,
+          "ex": {
+            "ja": "{当初|とうしょ}の{予定|よてい}より{費用|ひよう}が{若干|じゃっかん}{増|ふ}える{見込|みこ}みです。",
+            "vi": "Dự kiến chi phí sẽ tăng đôi chút so với kế hoạch ban đầu."
+          },
+          "col": [
+            "若干名募集",
+            "若干の違い",
+            "若干高い"
+          ],
+          "rel": "≒ 少し・多少",
+          "note": "Nghe **trang trọng, khách quan** hơn 少し. 「若干名」 trong thông báo tuyển dụng = \"vài người\" (không nói 多少名・少々名)."
+        },
+        {
+          "id": "g13-w61",
+          "w": "今や",
+          "r": "いまや",
+          "hv": "KIM",
+          "pos": "副",
+          "vi": "giờ đây (thì đã), bây giờ (khác hẳn trước kia)",
+          "key": true,
+          "ex": {
+            "ja": "{小|ちい}さな{町|まち}の{工場|こうじょう}だったその{会社|かいしゃ}は、{今|いま}や{世界中|せかいじゅう}に{支社|ししゃ}を{持|も}つ。",
+            "vi": "Công ty đó vốn là xưởng nhỏ ở thị trấn, giờ đây đã có chi nhánh khắp thế giới."
+          },
+          "col": [
+            "今や〜だ",
+            "今や遅しと（待つ）"
+          ],
+          "rel": "≒ 今では",
+          "note": "Hàm ý **so với trước kia đã thay đổi lớn**. Khác 今にも (sắp… đến nơi: 今にも雨が降りそうだ) và 今さら (giờ mới…, muộn rồi)."
+        }
+      ]
+    }
+  ],
+  "focus": [
+    {
+      "title": "Phân biệt 削除・消去・消す",
+      "body": "Cả ba đều dịch là \"xoá\", nhưng phạm vi khác nhau:\n\n- **消す**: từ thuần Nhật, dùng cho **mọi thứ** — tắt đèn, tẩy chữ, xoá file, dập lửa.\n- **削除 (さくじょ)**: \"gọt bỏ\" **một phần** ra khỏi tổng thể — xoá một file trong thư mục, một dòng trong văn bản, một tên trong danh sách. 「名簿から名前を削除する」.\n- **消去 (しょうきょ)**: xoá **sạch, làm biến mất hẳn** — thường là dữ liệu, bộ nhớ, ghi âm. 「データを完全に消去する」.\n\nMẹo nhớ: 削 = **gọt** (削る) → bỏ một mẩu; 消 + 去 = **tắt + đi mất** → mất sạch.\n\n✗ 電気を削除する／消去する → ○ 電気を**消す**\n✗ 疲れを消去する → ○ 疲れを**取る**／ストレスを**解消**する"
+    },
+    {
+      "title": "起動・立ち上げる・再起動・終了 — và cặp 立ち上げる／立ち上がる",
+      "body": "Vòng đời của một chương trình: **起動する／立ち上げる** (bật) → **操作する** (thao tác) → **保存する** (lưu) → **終了する** (thoát). Gặp sự cố → **再起動する**.\n\n- 起動 (Hán Việt, trang trọng) ≒ 立ち上げる (thuần Nhật, văn nói công sở). Đề 言い換え rất hay cho cặp này.\n- Cặp tự / tha: 「パソコン**を**立ち上げる」(tôi bật máy) ↔ 「パソコン**が**立ち上がる」(máy khởi động xong).\n- 立ち上げる còn nghĩa **thành lập**: 会社・団体・プロジェクトを立ち上げる.\n\n〜上げる (bài 語形成): **立ち上げる**, **盛り上げる** (làm sôi nổi), 仕上げる (làm xong), 書き上げる (viết xong). Tự động từ tương ứng đều là 〜上がる: 盛り上がる, 仕上がる."
+    },
+    {
+      "title": "設定・変更・修正・変換 — \"chỉnh\" kiểu nào?",
+      "body": "- **設定 (せってい)**: **đặt** thông số lần đầu / thiết lập — 「アラームを七時に設定する」「目標を設定する」.\n- **変更 (へんこう)**: **đổi** cái đã định thành cái khác — 「設定を変更する」「予定が変更になる」.\n- **修正 (しゅうせい)**: **sửa chỗ sai** cho đúng — 「誤字を修正する」「計画を修正する」.\n- **変換 (へんかん)**: **chuyển đổi dạng** — 「ひらがなを漢字に変換する」「PDFに変換する」.\n- **修理 (しゅうり)**: **sửa đồ vật hỏng** — 「パソコンを修理に出す」.\n\nVí dụ phân biệt: 「写真が暗く写ったので、明るさを（修正）した」 — chỉnh cái chưa đẹp cho đúng → 修正, không phải 修理 (đồ hỏng) hay 変換 (đổi định dạng)."
+    },
+    {
+      "title": "拡大・縮小 và 増大・増加・増量",
+      "body": "- **拡大 (かくだい) ↔ 縮小 (しゅくしょう)**: thay đổi **kích thước, phạm vi, quy mô** — ảnh, bản đồ, chữ trên màn hình, kinh doanh, thiệt hại lan rộng (被害が拡大する).\n- **増大 (ぞうだい)**: **mức độ, khối lượng** trừu tượng tăng lớn — 不安が増大する, 負担が増大する.\n- **増加 (ぞうか) ↔ 減少**: **số lượng** đếm được tăng — 人口が増加する.\n- **増量 (ぞうりょう)**: **lượng sản phẩm** tăng thêm — 「今なら20%増量」.\n\nMẹo: 拡 có bộ 扌 + 広 (rộng) → **làm rộng ra**. Câu có 画面・写真・地図・文字 + phóng to → luôn là **拡大**."
+    },
+    {
+      "title": "語形成: 通信〜・〜機能・オンライン〜・〜対策・再〜",
+      "body": "- **通信〜** (truyền tin từ xa): 通信機能, 通信速度, **通信教育** (học từ xa), 通信販売 → 通販.\n- **〜機能** (chức năng): 通信機能, 印刷機能, 検索機能, 翻訳機能.\n- **オンライン〜**: オンラインショッピング, オンラインショップ, オンラインゲーム, オンライン授業.\n- **〜対策** (biện pháp đối phó với…): ウイルス対策, 迷惑メール対策, 地震対策, 試験対策. Trước 対策 là **cái cần chống lại**.\n- **再〜** (さい, làm lại): 再起動, 再インストール, 再発行, 再確認, 再利用.\n\nBẫy trong đề: 「（ ）インストール」 với các lựa chọn 新・再・最・復 → chỉ 再 mang nghĩa \"lại lần nữa\". 最 (さい) cùng âm nhưng nghĩa là \"nhất\" (最新, 最高)."
+    },
+    {
+      "title": "Phó từ 一瞬・若干・今や",
+      "body": "- **一瞬 (いっしゅん)**: thời gian **cực ngắn**, một cái chớp mắt. 「一瞬、画面が真っ暗になった」. ≒ あっという間 (nhưng あっという間 nhấn \"trôi qua nhanh không ngờ\", hay dùng cho khoảng thời gian dài: 一年があっという間に過ぎた).\n- **若干 (じゃっかん)**: **một chút, một ít**, giọng khách quan, trang trọng (báo cáo, thông báo). 「若干の変更があります」「若干名募集」. Văn nói thường dùng 少し・ちょっと.\n- **今や (いまや)**: \"**giờ đây thì đã…**\" — luôn ngầm so sánh với quá khứ khác hẳn. 「今やスマホは生活必需品だ」.\n  - Đừng nhầm: **今にも** + 〜そうだ = sắp… đến nơi; **今さら** = (đến) giờ mới…, đã muộn."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "g13-q1",
+      "kind": "read",
+      "ref": "g13-w25",
+      "q": "{作業|さぎょう}が{終|お}わったら、{必|かなら}ずデータを[[u:保存]]してください。",
+      "options": [
+        "ほそん",
+        "ほぞん",
+        "ほうぞん",
+        "ぼぞん"
+      ],
+      "answer": 1,
+      "vi": "Làm xong thì nhất định phải lưu dữ liệu.",
+      "why": "保存 đọc là **ほぞん**: 保 = ほ (ngắn, như 保険 ほけん), 存 = ぞん (đục, như 存じる ぞんじる). ほそん thiếu âm đục; ほうぞん thêm trường âm sai; ぼぞん đục sai chỗ."
+    },
+    {
+      "id": "g13-q2",
+      "kind": "write",
+      "ref": "g13-w2",
+      "q": "{不要|ふよう}になったファイルは[[u:さくじょ]]しておきましょう。",
+      "options": [
+        "削除",
+        "削徐",
+        "索除",
+        "消除"
+      ],
+      "answer": 0,
+      "vi": "Những file không còn cần nữa thì hãy xoá đi.",
+      "why": "**削除** = 削 (gọt, 削る) + 除 (trừ bỏ, 除く). 徐 (từ từ, như 徐行) sai chữ; 索 là chữ trong 検索 (tìm); 消除 không phải từ thông dụng (chỉ có 消去・解消)."
+    },
+    {
+      "id": "g13-q3",
+      "kind": "context",
+      "ref": "g13-w10",
+      "q": "このメールには{会議|かいぎ}の{資料|しりょう}が（　　）されているので、{事前|じぜん}に{目|め}を{通|とお}しておいてください。",
+      "options": [
+        "挿入",
+        "添付",
+        "接続",
+        "入力"
+      ],
+      "answer": 1,
+      "vi": "Email này có đính kèm tài liệu cuộc họp, hãy xem qua trước nhé.",
+      "why": "Gửi kèm file theo email → **添付**. 挿入 = chèn vào giữa văn bản (không dùng cho email + tài liệu); 接続 = kết nối mạng/thiết bị; 入力 = gõ nhập dữ liệu, không phải \"kèm tài liệu\"."
+    },
+    {
+      "id": "g13-q4",
+      "kind": "context",
+      "ref": "g13-w27",
+      "q": "{山奥|やまおく}の{旅館|りょかん}だったので、インターネットに（　　）できなかった。",
+      "options": [
+        "検索",
+        "受信",
+        "接続",
+        "起動"
+      ],
+      "answer": 2,
+      "vi": "Vì là nhà trọ sâu trong núi nên tôi không kết nối được Internet.",
+      "why": "「インターネット**に**〜できない」 → **接続** (kết nối vào…). 検索 = tra cứu (インターネットで検索); 受信 đi với メール・電波 (を受信); 起動 dùng cho máy/chương trình, không dùng với 「インターネットに」."
+    },
+    {
+      "id": "g13-q5",
+      "kind": "formation",
+      "ref": "g13-w57",
+      "q": "{古|ふる}いバージョンを{削除|さくじょ}して、ソフトを（　　）インストールしたら{直|なお}った。",
+      "options": [
+        "新",
+        "最",
+        "復",
+        "再"
+      ],
+      "answer": 3,
+      "vi": "Xoá phiên bản cũ rồi cài lại phần mềm thì máy chạy bình thường.",
+      "why": "Cài **lại lần nữa** → **再**インストール. 新 (mới) không ghép với インストール; 最 (さい, \"nhất\") cùng âm nhưng sai nghĩa — bẫy phát âm; 復 (phục hồi) chỉ có trong 復旧・回復, không làm tiền tố như vậy."
+    },
+    {
+      "id": "g13-q6",
+      "kind": "paraphrase",
+      "ref": "g13-w60",
+      "q": "{新|あたら}しいモデルは、{前|まえ}のモデルより{値段|ねだん}が[[u:若干]]{高|たか}い。",
+      "options": [
+        "かなり",
+        "ずっと",
+        "やはり",
+        "少し"
+      ],
+      "answer": 3,
+      "vi": "Mẫu mới đắt hơn mẫu cũ một chút.",
+      "why": "若干 = **少し** (một chút, giọng trang trọng). かなり (khá nhiều) và ずっと (hơn hẳn) nói mức độ lớn — ngược nghĩa; やはり (quả nhiên) không chỉ mức độ."
+    },
+    {
+      "id": "g13-q7",
+      "kind": "context",
+      "ref": "g13-w20",
+      "q": "{文字|もじ}が{小|ちい}さくて{読|よ}みにくいので、{画面|がめん}を200%に（　　）して{表示|ひょうじ}した。",
+      "options": [
+        "拡大",
+        "増大",
+        "縮小",
+        "増加"
+      ],
+      "answer": 0,
+      "vi": "Chữ nhỏ khó đọc nên tôi phóng to màn hình lên 200%.",
+      "why": "Phóng to **kích thước** hiển thị → **拡大**. 増大 dùng cho mức độ/khối lượng trừu tượng (不安が増大); 縮小 là thu nhỏ — ngược nghĩa; 増加 dùng cho số lượng (人口が増加), không dùng cho kích cỡ màn hình."
+    },
+    {
+      "id": "g13-q8",
+      "kind": "usage",
+      "ref": "g13-w28",
+      "q": "「{検索|けんさく}」",
+      "options": [
+        "{落|お}とした{財布|さいふ}を{検索|けんさく}するために、{駅|えき}まで{戻|もど}った。",
+        "{店|みせ}の{名前|なまえ}を{入力|にゅうりょく}して{検索|けんさく}すると、{地図|ちず}が{表示|ひょうじ}された。",
+        "{警察|けいさつ}は{朝|あさ}から{山|やま}の{中|なか}を{検索|けんさく}している。",
+        "{彼|かれ}は{毎晩|まいばん}、{自分|じぶん}の{将来|しょうらい}について{検索|けんさく}している。"
+      ],
+      "answer": 1,
+      "vi": "(2) Nhập tên cửa hàng rồi tìm kiếm thì bản đồ hiện ra.",
+      "why": "検索 = tra **thông tin** bằng từ khoá trong máy tính/cơ sở dữ liệu → (2) đúng. (1) tìm đồ thất lạc → 探す; (3) cảnh sát lục soát một khu vực → 捜索 (そうさく); (4) suy nghĩ về tương lai → 考える／模索する."
+    },
+    {
+      "id": "g13-q9",
+      "kind": "context",
+      "ref": "g13-w61",
+      "q": "{昔|むかし}は{珍|めずら}しかった{電子|でんし}マネーも、（　　）{誰|だれ}もが{当|あ}たり{前|まえ}に{使|つか}っている。",
+      "options": [
+        "一瞬",
+        "若干",
+        "今や",
+        "今にも"
+      ],
+      "answer": 2,
+      "vi": "Tiền điện tử ngày xưa hiếm hoi, giờ đây thì ai cũng dùng như chuyện bình thường.",
+      "why": "Đối lập 「昔は〜」 với hiện tại đã khác hẳn → **今や**. 一瞬 (trong chớp mắt) không hợp trạng thái lâu dài; 若干 (một chút) mâu thuẫn với 誰もが; 今にも phải đi với 〜そうだ (sắp…)."
+    },
+    {
+      "id": "g13-q10",
+      "kind": "context",
+      "ref": "g13-w59",
+      "q": "{雷|かみなり}が{落|お}ちて（　　）{電気|でんき}が{消|き}えたが、すぐに{元|もと}に{戻|もど}った。",
+      "options": [
+        "一瞬",
+        "今や",
+        "若干",
+        "一斉"
+      ],
+      "answer": 0,
+      "vi": "Sét đánh làm điện tắt trong chốc lát nhưng có lại ngay.",
+      "why": "「すぐに元に戻った」 → mất điện **rất ngắn** → **一瞬**. 今や cần đối lập quá khứ–hiện tại; 若干 chỉ mức độ (một chút), không chỉ thời gian; 一斉 phải là 一斉に (đồng loạt) và nói về nhiều thứ cùng lúc."
+    }
+  ],
+  "practice": [
+    {
+      "id": "g13-p1",
+      "kind": "read",
+      "ref": "g13-w28",
+      "q": "{駅|えき}の{近|ちか}くにある{安|やす}いカフェをネットで[[u:検索]]した。",
+      "options": [
+        "けんさく",
+        "けんさ",
+        "けいさく",
+        "けんざく"
+      ],
+      "answer": 0,
+      "vi": "Tôi đã tìm trên mạng quán cà phê rẻ gần ga.",
+      "why": "検索 = **けんさく** (検 = けん như 検査, 索 = さく như 思索). けんさ là 検査 (kiểm tra); けいさく không có; けんざく đục sai."
+    },
+    {
+      "id": "g13-p2",
+      "kind": "read",
+      "ref": "g13-w21",
+      "q": "{容量|ようりょう}が{大|おお}きいので、{写真|しゃしん}を[[u:縮小]]してから{送|おく}った。",
+      "options": [
+        "しゅうしょう",
+        "しゅくしょ",
+        "しゅくしょう",
+        "しゅくじょう"
+      ],
+      "answer": 2,
+      "vi": "Vì dung lượng lớn nên tôi thu nhỏ ảnh rồi mới gửi.",
+      "why": "縮小 = **しゅくしょう** (縮 = しゅく như 短縮, 小 = しょう như 小学校). しゅうしょう thêm trường âm ở 縮; しゅくしょ thiếu trường âm ở 小; しゅくじょう sai âm đục."
+    },
+    {
+      "id": "g13-p3",
+      "kind": "write",
+      "ref": "g13-w43",
+      "q": "この{機械|きかい}は[[u:そうさ]]が{簡単|かんたん}で、{説明書|せつめいしょ}を{読|よ}まなくても{使|つか}える。",
+      "options": [
+        "捜査",
+        "操作",
+        "燥作",
+        "掃作"
+      ],
+      "answer": 1,
+      "vi": "Máy này thao tác đơn giản, không đọc hướng dẫn cũng dùng được.",
+      "why": "Điều khiển máy móc bằng tay → **操作** (操: bộ 扌, 操る = điều khiển). 捜査 cũng đọc そうさ nhưng là \"cảnh sát điều tra\" — bẫy đồng âm; 燥 (khô, 乾燥) và 掃 (quét, 掃除) sai chữ."
+    },
+    {
+      "id": "g13-p4",
+      "kind": "write",
+      "ref": "g13-w10",
+      "q": "{履歴書|りれきしょ}をメールに[[u:てんぷ]]して{送|おく}ってください。",
+      "options": [
+        "点付",
+        "添府",
+        "天付",
+        "添付"
+      ],
+      "answer": 3,
+      "vi": "Hãy đính kèm sơ yếu lý lịch vào email rồi gửi đi.",
+      "why": "**添付** = 添 (thêm vào, 添える) + 付 (gắn, 付ける). Các phương án khác dùng chữ đồng âm てん (点・天) hoặc ふ (府) nhưng không mang nghĩa \"kèm theo\"."
+    },
+    {
+      "id": "g13-p5",
+      "kind": "context",
+      "ref": "g13-w9",
+      "q": "{海外|かいがい}にいても、スマホがあればメールの（　　）は{問題|もんだい}なくできる。",
+      "options": [
+        "挿入",
+        "縮小",
+        "送受信",
+        "変換"
+      ],
+      "answer": 2,
+      "vi": "Dù ở nước ngoài, chỉ cần có điện thoại là gửi nhận email không vấn đề gì.",
+      "why": "Việc gửi và nhận email → **送受信**. 挿入 (chèn vào), 縮小 (thu nhỏ), 変換 (chuyển đổi dạng) đều không phải thao tác cơ bản với \"メール\" như vậy."
+    },
+    {
+      "id": "g13-p6",
+      "kind": "context",
+      "ref": "g13-w16",
+      "q": "{報告書|ほうこくしょ}の{二|に}ページ{目|め}に、{売上|うりあげ}の{推移|すいい}を{示|しめ}すグラフを（　　）した。",
+      "options": [
+        "挿入",
+        "導入",
+        "接続",
+        "登録"
+      ],
+      "answer": 0,
+      "vi": "Tôi chèn biểu đồ thể hiện diễn biến doanh thu vào trang 2 của báo cáo.",
+      "why": "Đặt thêm một thứ **vào giữa** văn bản ở vị trí cụ thể (二ページ目に) → **挿入**. 導入 = đưa vào áp dụng (hệ thống, chế độ); 接続 = nối mạng/thiết bị; 登録 = đăng ký."
+    },
+    {
+      "id": "g13-p7",
+      "kind": "context",
+      "ref": "g13-w45",
+      "q": "{新品|しんぴん}は{予算|よさん}オーバーなので、（　　）のパソコンを{探|さが}すことにした。",
+      "options": [
+        "古代",
+        "中古",
+        "古典",
+        "復古"
+      ],
+      "answer": 1,
+      "vi": "Máy mới thì vượt ngân sách nên tôi quyết định tìm máy tính cũ.",
+      "why": "Đối lập với 新品 → hàng đã qua sử dụng **中古**. 古代 = thời cổ đại; 古典 = tác phẩm kinh điển; 復古 = phục cổ, quay về cái xưa — đều không phải \"đồ cũ giá rẻ\"."
+    },
+    {
+      "id": "g13-p8",
+      "kind": "paraphrase",
+      "ref": "g13-w23",
+      "q": "{明日|あした}の{会議|かいぎ}の{資料|しりょう}を{十部|じゅうぶ}[[u:プリントアウトして]]おいてください。",
+      "options": [
+        "印刷して",
+        "保存して",
+        "整理して",
+        "作成して"
+      ],
+      "answer": 0,
+      "vi": "Hãy in sẵn 10 bản tài liệu cho cuộc họp ngày mai.",
+      "why": "プリントアウト = in từ máy tính ra giấy = **印刷する**. 「保存する」 chỉ lưu dữ liệu trong máy, chưa ra giấy; 「整理する」 (sắp xếp) và 「作成する」 (soạn ra) là hành động khác. (Chú ý: コピー là sao chụp từ bản giấy có sẵn — gần nhưng không đồng nghĩa.)"
+    },
+    {
+      "id": "g13-p9",
+      "kind": "formation",
+      "ref": "g13-w34",
+      "q": "ウイルス（　　）ソフトを{入|い}れておけば、ひとまず{安心|あんしん}だ。",
+      "options": [
+        "政策",
+        "対立",
+        "対策",
+        "作戦"
+      ],
+      "answer": 2,
+      "vi": "Cài phần mềm diệt virus vào thì tạm yên tâm.",
+      "why": "[cái cần phòng] + **対策** = biện pháp chống… → ウイルス対策ソフト. 政策 = chính sách nhà nước; 対立 = đối lập, mâu thuẫn; 作戦 = chiến thuật — không làm hậu tố kiểu này."
+    },
+    {
+      "id": "g13-p10",
+      "kind": "formation",
+      "ref": "g13-w49",
+      "q": "このプリンターには、{紙|かみ}の{両面|りょうめん}に{自動|じどう}で{印刷|いんさつ}する（　　）がついている。",
+      "options": [
+        "機械",
+        "性能",
+        "効能",
+        "機能"
+      ],
+      "answer": 3,
+      "vi": "Máy in này có chức năng tự động in hai mặt giấy.",
+      "why": "Máy **làm được việc gì** → **機能** (〜機能がつく). 性能 = độ tốt, hiệu năng (性能がいい), không \"gắn vào\"; 効能 = công dụng của thuốc, suối nước nóng; 機械 = bản thân cái máy."
+    },
+    {
+      "id": "g13-p11",
+      "kind": "usage",
+      "ref": "g13-w43",
+      "q": "「{操作|そうさ}」",
+      "options": [
+        "{壊|こわ}れた{時計|とけい}を{近所|きんじょ}の{店|みせ}で{操作|そうさ}してもらった。",
+        "{母|はは}は{毎朝|まいあさ}、{庭|にわ}の{花|はな}を{丁寧|ていねい}に{操作|そうさ}している。",
+        "このアプリは{操作|そうさ}が{分|わ}かりやすく、{初|はじ}めてでもすぐ{使|つか}えた。",
+        "{警察|けいさつ}は{犯人|はんにん}の{行方|ゆくえ}を{操作|そうさ}している。"
+      ],
+      "answer": 2,
+      "vi": "(3) Ứng dụng này thao tác dễ hiểu, lần đầu dùng cũng dùng được ngay.",
+      "why": "操作 = thao tác, điều khiển **máy móc, ứng dụng** → (3) đúng. (1) sửa đồng hồ hỏng → 修理; (2) chăm sóc hoa → 世話をする; (4) cảnh sát truy tìm → **捜査** (cùng âm そうさ — bẫy đồng âm)."
+    },
+    {
+      "id": "g13-p12",
+      "kind": "paraphrase",
+      "ref": "g13-w61",
+      "q": "{在宅|ざいたく}{勤務|きんむ}は、[[u:今や]]{珍|めずら}しいことではない。",
+      "options": [
+        "今にも",
+        "今さら",
+        "今まで",
+        "今では"
+      ],
+      "answer": 3,
+      "vi": "Làm việc tại nhà giờ đây không còn là chuyện hiếm.",
+      "why": "今や = \"giờ đây (khác trước)\" ≒ **今では**. 今にも = sắp… (đi với 〜そうだ); 今さら = giờ mới… (muộn rồi); 今まで = cho đến nay — nghĩa ngược (nói về quá khứ)."
+    },
+    {
+      "id": "g13-p13",
+      "kind": "context",
+      "ref": "g13-w42",
+      "q": "{作業|さぎょう}が{済|す}んだら、アプリを（　　）させてから{電源|でんげん}を{切|き}ってください。",
+      "options": [
+        "終了",
+        "完了",
+        "中止",
+        "解消"
+      ],
+      "answer": 0,
+      "vi": "Làm xong việc thì hãy thoát ứng dụng rồi mới tắt nguồn.",
+      "why": "Thoát chương trình → **終了**させる. 完了 = hoàn tất công việc (アプリを完了させる không tự nhiên); 中止 = huỷ bỏ việc định làm; 解消 = giải toả (ストレス, hợp đồng), không dùng cho phần mềm."
+    },
+    {
+      "id": "g13-p14",
+      "kind": "read",
+      "ref": "g13-w29",
+      "q": "この{地域|ちいき}は、{夜|よる}になると[[u:通信速度]]がかなり{遅|おそ}くなる。",
+      "options": [
+        "とうしんそくど",
+        "つうしんそくど",
+        "つうじんそくど",
+        "つうしんぞくど"
+      ],
+      "answer": 1,
+      "vi": "Khu vực này cứ tối đến là tốc độ mạng chậm đi đáng kể.",
+      "why": "**つうしんそくど**: 通 = つう (như 通学), 信 = しん, 速度 = そくど. とう là âm khác của 通 nhưng không dùng ở đây; じん và ぞく là đục sai."
+    }
+  ],
+  "test": [
+    {
+      "id": "g13-t1",
+      "kind": "read",
+      "ref": "g13-w39",
+      "q": "このパソコンは[[u:起動]]するのにずいぶん{時間|じかん}がかかる。",
+      "options": [
+        "きとう",
+        "ぎどう",
+        "きどお",
+        "きどう"
+      ],
+      "answer": 3,
+      "vi": "Máy tính này khởi động mất khá nhiều thời gian.",
+      "why": "起動 = **きどう** (起 = き như 起床, 動 = どう như 運動). きとう (祈祷 = cầu khấn) thiếu âm đục; ぎどう đục sai chỗ; きどお sai cách ghi trường âm."
+    },
+    {
+      "id": "g13-t2",
+      "kind": "read",
+      "ref": "g13-w10",
+      "q": "[[u:添付]]ファイルを{開|ひら}く{前|まえ}に、{送信者|そうしんしゃ}をよく{確認|かくにん}しよう。",
+      "options": [
+        "てんふ",
+        "てんぷ",
+        "そえふ",
+        "てんぶ"
+      ],
+      "answer": 1,
+      "vi": "Trước khi mở file đính kèm, hãy kiểm tra kỹ người gửi.",
+      "why": "添付 = **てんぷ**: 付 (ふ) đứng sau ん bị biến âm thành ぷ — cần học thuộc riêng từ này. てんふ và てんぶ sai âm; そえふ ghép âm kun 添える sai."
+    },
+    {
+      "id": "g13-t3",
+      "kind": "write",
+      "ref": "g13-w20",
+      "q": "{地図|ちず}を[[u:かくだい]]すると、{細|こま}かい{道|みち}まで{見|み}えるようになる。",
+      "options": [
+        "拡大",
+        "格大",
+        "拡代",
+        "確大"
+      ],
+      "answer": 0,
+      "vi": "Phóng to bản đồ thì thấy được cả những con đường nhỏ.",
+      "why": "**拡大** = 拡 (mở rộng, bộ 扌 + 広) + 大. 格 (cách, 性格) và 確 (chắc chắn, 確認) cùng âm かく nhưng sai nghĩa; 代 (thay thế) cùng âm だい nhưng sai."
+    },
+    {
+      "id": "g13-t4",
+      "kind": "write",
+      "ref": "g13-w27",
+      "q": "{空港|くうこう}の{無料|むりょう}Wi-Fiに[[u:せつぞく]]できなくて{困|こま}った。",
+      "options": [
+        "接統",
+        "摂続",
+        "接続",
+        "節続"
+      ],
+      "answer": 2,
+      "vi": "Tôi gặp rắc rối vì không kết nối được Wi-Fi miễn phí ở sân bay.",
+      "why": "**接続** = 接 (tiếp xúc) + 続 (tiếp nối, 続く). 統 (thống, 統一) trông giống 続 nhưng sai; 摂 (nhiếp, 摂取) và 節 (tiết, 季節) cùng âm せつ nhưng sai nghĩa."
+    },
+    {
+      "id": "g13-t5",
+      "kind": "context",
+      "ref": "g13-w12",
+      "q": "{台風|たいふう}の{影響|えいきょう}で{出張|しゅっちょう}の{日程|にってい}が（　　）になったので、ホテルを{予約|よやく}し{直|なお}した。",
+      "options": [
+        "変更",
+        "変換",
+        "交換",
+        "変化"
+      ],
+      "answer": 0,
+      "vi": "Do ảnh hưởng của bão, lịch công tác bị thay đổi nên tôi phải đặt lại khách sạn.",
+      "why": "Lịch đã định bị đổi → **変更**になる. 変換 = đổi định dạng (かな→漢字); 交換 = đổi cái này lấy cái kia; 変化 là tự biến đổi, dùng 「変化する」 chứ không 「変化になる」."
+    },
+    {
+      "id": "g13-t6",
+      "kind": "context",
+      "ref": "g13-w25",
+      "q": "{大事|だいじ}な{写真|しゃしん}は、パソコンだけでなく{外付|そとづ}けのハードディスクにも（　　）しておいたほうがいい。",
+      "options": [
+        "保護",
+        "保存",
+        "保険",
+        "保証"
+      ],
+      "answer": 1,
+      "vi": "Ảnh quan trọng không chỉ để trong máy tính mà nên lưu cả vào ổ cứng ngoài.",
+      "why": "Lưu dữ liệu vào thiết bị → **保存**. 保護 = bảo vệ (người, động vật, dữ liệu khỏi bị sửa) — không đi với 「〜に」 chỉ nơi lưu; 保険 = bảo hiểm; 保証 = bảo hành, bảo đảm."
+    },
+    {
+      "id": "g13-t7",
+      "kind": "formation",
+      "ref": "g13-w40",
+      "q": "{彼|かれ}は{会社|かいしゃ}を{辞|や}めて、{友人|ゆうじん}と{二人|ふたり}で{新|あたら}しい{会社|かいしゃ}を（　　）{上|あ}げた。",
+      "options": [
+        "盛り",
+        "持ち",
+        "取り",
+        "立ち"
+      ],
+      "answer": 3,
+      "vi": "Anh ấy nghỉ việc và cùng một người bạn thành lập công ty mới.",
+      "why": "Thành lập công ty → **立ち上げる**. 盛り上げる = làm sôi nổi không khí; 持ち上げる = nhấc lên / tâng bốc; 取り上げる = tịch thu, đưa ra bàn — đều không đi với 「会社を（thành lập）」."
+    },
+    {
+      "id": "g13-t8",
+      "kind": "paraphrase",
+      "ref": "g13-w59",
+      "q": "{強|つよ}い{光|ひかり}で、[[u:一瞬]]{前|まえ}が{見|み}えなくなった。",
+      "options": [
+        "しばらくの間",
+        "ほんの短い間",
+        "長い間",
+        "いつの間にか"
+      ],
+      "answer": 1,
+      "vi": "Vì ánh sáng mạnh, trong một khoảnh khắc tôi không nhìn thấy phía trước.",
+      "why": "一瞬 = thời gian **cực ngắn** ≒ **ほんの短い間**. しばらくの間 (một lúc, khá lâu) và 長い間 (lâu) dài hơn nhiều; いつの間にか = không biết từ lúc nào — nghĩa khác."
+    },
+    {
+      "id": "g13-t9",
+      "kind": "usage",
+      "ref": "g13-w45",
+      "q": "「{中古|ちゅうこ}」",
+      "options": [
+        "{久|ひさ}しぶりに{中古|ちゅうこ}の{友人|ゆうじん}に{会|あ}って、{昔話|むかしばなし}をした。",
+        "{冷蔵庫|れいぞうこ}に{入|い}れておいた{牛乳|ぎゅうにゅう}が{中古|ちゅうこ}になってしまった。",
+        "{祖父|そふ}は{中古|ちゅうこ}な{考|かんが}え{方|かた}をする{人|ひと}だ。",
+        "{兄|あに}が{使|つか}っていた{中古|ちゅうこ}の{車|くるま}を{安|やす}く{譲|ゆず}ってもらった。"
+      ],
+      "answer": 3,
+      "vi": "(4) Tôi được anh trai nhượng lại rẻ chiếc xe cũ anh ấy từng đi.",
+      "why": "中古 = **hàng hoá đã qua sử dụng** → (4) đúng. (1) bạn cũ → 古い友人／旧友; (2) sữa để lâu → 古くなった; (3) 中古 là danh từ, không có dạng 中古な; ý \"cổ hủ\" → 古風な／古い考え方."
+    },
+    {
+      "id": "g13-t10",
+      "kind": "context",
+      "ref": "g13-w44",
+      "q": "{画面|がめん}が{割|わ}れてしまったので、スマホを（　　）に{出|だ}した。",
+      "options": [
+        "操作",
+        "修正",
+        "修理",
+        "手入れ"
+      ],
+      "answer": 2,
+      "vi": "Màn hình bị vỡ nên tôi đem điện thoại đi sửa.",
+      "why": "Đồ vật hỏng → **修理に出す**. 修正 = sửa lỗi sai (văn bản, kế hoạch); 操作 = thao tác; 手入れ = chăm sóc, bảo dưỡng định kỳ (không \"đem đi\" theo cụm này)."
+    },
+    {
+      "id": "g13-t11",
+      "kind": "context",
+      "ref": "g13-w60",
+      "q": "【アルバイト{募集|ぼしゅう}】{週末|しゅうまつ}に{働|はたら}けるスタッフを（　　）{名|めい}{募集|ぼしゅう}しています。",
+      "options": [
+        "一瞬",
+        "多少",
+        "若干",
+        "少々"
+      ],
+      "answer": 2,
+      "vi": "[Tuyển làm thêm] Chúng tôi đang tuyển vài nhân viên làm được cuối tuần.",
+      "why": "Cụm cố định trong thông báo tuyển dụng: **若干名** (vài người). 多少 và 少々 cũng nghĩa \"một ít\" nhưng không ghép với 名; 一瞬 chỉ thời gian."
+    },
+    {
+      "id": "g13-t12",
+      "kind": "context",
+      "ref": "g13-w8",
+      "q": "{知|し}らないアドレスからのメールは（　　）しないように、{設定|せってい}を{変|か}えた。",
+      "options": [
+        "受信",
+        "送信",
+        "通信",
+        "返信"
+      ],
+      "answer": 0,
+      "vi": "Tôi đã đổi cài đặt để không nhận email từ địa chỉ lạ.",
+      "why": "Thư **từ** người khác gửi đến → **受信** (nhận). 送信 = gửi đi, 返信 = trả lời — hướng ngược lại; 通信 là việc liên lạc nói chung, không đi với 「メールを〜しない」 theo nghĩa chặn thư."
+    }
+  ]
+}

@@ -1,0 +1,1900 @@
+{
+  "id": "g10",
+  "track": "goi",
+  "intro": "Bài này gom từ vựng về **trường học, thi cử, ngành học và nghiên cứu**. Phần lớn là từ Hán Nhật nên người Việt đoán nghĩa khá nhanh qua âm Hán Việt — nhưng cũng chính vì vậy mà dễ **sập bẫy \"bạn giả\"**:\n\n- 「{答案|とうあん}」 **không phải** \"đáp án\" mà là **bài làm** của thí sinh (đáp án đúng là 「{正解|せいかい}」「{解答|かいとう}」).\n- 「{教授|きょうじゅ}」 là **giáo sư đại học** (chức danh), 「{講師|こうし}」 là **giảng viên**, 「{教師|きょうし}」 là **giáo viên** nói chung.\n- 「{児童|じどう}」 chỉ học sinh **tiểu học**, 「{生徒|せいと}」 là học sinh **cấp 2, cấp 3**, còn 「{学生|がくせい}」 là **sinh viên**.\n\nCác nhóm chính: (1) trường lớp và người dạy, (2) thi cử, (3) thành tích, (4) các ngành khoa học, (5) hoạt động nghiên cứu. Cuối bài có **語形成** (今〜・〜目・〜学・〜学部/〜学科・参考〜) và 4 **phó từ** hay ra đề: 必死に・ひとまず・次第に・めったに〜ない.\n\nMẹo học: đọc to cả **cụm** chứ không học từ đơn — 「{単位|たんい}を{取|と}る」「{答案|とうあん}を{出|だ}す」「{説|せつ}を{証明|しょうめい}する」「{参考文献|さんこうぶんけん}を{引用|いんよう}する」. Đề 文脈規定 hầu như luôn hỏi theo cụm.",
+  "sections": [
+    {
+      "title": "学校",
+      "title_vi": "Trường lớp, người học và người dạy",
+      "words": [
+        {
+          "id": "g10-w1",
+          "w": "児童",
+          "r": "じどう",
+          "hv": "NHI ĐỒNG",
+          "pos": "名",
+          "vi": "học sinh tiểu học; trẻ em (văn bản pháp luật, hành chính)",
+          "key": true,
+          "ex": {
+            "ja": "この{小学校|しょうがっこう}の{児童|じどう}{数|すう}は{年々|ねんねん}{減|へ}っている。",
+            "vi": "Số học sinh của trường tiểu học này giảm dần qua từng năm."
+          },
+          "col": [
+            "児童数",
+            "児童館",
+            "児童虐待",
+            "児童文学"
+          ],
+          "note": "Văn trang trọng, báo chí. Nói chuyện thường ngày thì dùng 「小学生」."
+        },
+        {
+          "id": "g10-w2",
+          "w": "生徒",
+          "r": "せいと",
+          "hv": "SINH ĐỒ",
+          "pos": "名",
+          "vi": "học sinh (trung học cơ sở, trung học phổ thông); học trò của lớp năng khiếu",
+          "key": true,
+          "ex": {
+            "ja": "{先生|せんせい}は{生徒|せいと}{一人一人|ひとりひとり}の{話|はなし}をよく{聞|き}いてくれる。",
+            "vi": "Thầy lắng nghe kỹ từng học sinh một."
+          },
+          "col": [
+            "生徒会",
+            "全校生徒",
+            "ピアノ教室の生徒"
+          ],
+          "note": "Sinh viên đại học là 「学生」, không gọi là 生徒."
+        },
+        {
+          "id": "g10-w3",
+          "w": "進学",
+          "r": "しんがく",
+          "hv": "TIẾN HỌC",
+          "pos": "名・自動",
+          "vi": "học lên (bậc cao hơn)",
+          "key": true,
+          "ex": {
+            "ja": "{高校|こうこう}を{卒業|そつぎょう}したら、{就職|しゅうしょく}せずに{大学|だいがく}に{進学|しんがく}するつもりだ。",
+            "vi": "Tốt nghiệp cấp 3 xong, tôi định không đi làm mà học lên đại học."
+          },
+          "col": [
+            "大学に進学する",
+            "進学率",
+            "進学校"
+          ],
+          "rel": "↔ 就職"
+        },
+        {
+          "id": "g10-w4",
+          "w": "転校",
+          "r": "てんこう",
+          "hv": "CHUYỂN HIỆU",
+          "pos": "名・自動",
+          "vi": "chuyển trường",
+          "key": true,
+          "ex": {
+            "ja": "{父|ちち}の{転勤|てんきん}で、{私|わたし}は{小学校|しょうがっこう}を{三回|さんかい}も{転校|てんこう}した。",
+            "vi": "Vì bố chuyển công tác, tôi đã chuyển trường tiểu học tới ba lần."
+          },
+          "col": [
+            "転校生",
+            "〜に転校する"
+          ],
+          "note": "Cùng họ với 転勤 (chuyển nơi làm việc), 転居 (chuyển nhà)."
+        },
+        {
+          "id": "g10-w5",
+          "w": "在学中",
+          "r": "ざいがくちゅう",
+          "hv": "TẠI HỌC TRUNG",
+          "pos": "名",
+          "vi": "đang theo học (tại trường), trong thời gian đi học",
+          "key": true,
+          "ex": {
+            "ja": "{在学中|ざいがくちゅう}に{一度|いちど}は{海外|かいがい}に{留学|りゅうがく}してみたい。",
+            "vi": "Trong thời gian còn đi học, tôi muốn thử du học nước ngoài một lần."
+          },
+          "col": [
+            "大学に在学中だ",
+            "在学証明書",
+            "在学生"
+          ]
+        },
+        {
+          "id": "g10-w6",
+          "w": "国立大学",
+          "r": "こくりつだいがく",
+          "hv": "QUỐC LẬP ĐẠI HỌC",
+          "pos": "名",
+          "vi": "đại học quốc lập (do nhà nước lập)",
+          "key": true,
+          "ex": {
+            "ja": "{国立大学|こくりつだいがく}は{私立|しりつ}より{学費|がくひ}が{安|やす}いので、{人気|にんき}がある。",
+            "vi": "Đại học quốc lập học phí rẻ hơn trường tư nên được ưa chuộng."
+          },
+          "rel": "↔ 私立大学",
+          "note": "Ngoài ra còn 公立大学 (đại học công lập do địa phương lập)."
+        },
+        {
+          "id": "g10-w7",
+          "w": "私立大学",
+          "r": "しりつだいがく",
+          "hv": "TƯ LẬP ĐẠI HỌC",
+          "pos": "名",
+          "vi": "đại học tư thục",
+          "key": true,
+          "ex": {
+            "ja": "{姉|あね}は{東京|とうきょう}の{私立大学|しりつだいがく}に{通|かよ}っている。",
+            "vi": "Chị tôi đang học ở một trường đại học tư ở Tokyo."
+          },
+          "rel": "↔ 国立大学",
+          "note": "Để khỏi nghe nhầm với 市立 (しりつ, do thành phố lập), người Nhật hay gọi 私立 là 「わたくしりつ」 và 市立 là 「いちりつ」."
+        },
+        {
+          "id": "g10-w8",
+          "w": "大学院",
+          "r": "だいがくいん",
+          "hv": "ĐẠI HỌC VIỆN",
+          "pos": "名",
+          "vi": "cao học, sau đại học (thạc sĩ, tiến sĩ)",
+          "key": true,
+          "ex": {
+            "ja": "{研究|けんきゅう}を{続|つづ}けたいので、{大学院|だいがくいん}に{進|すす}むことにした。",
+            "vi": "Vì muốn tiếp tục nghiên cứu nên tôi quyết định học lên cao học."
+          },
+          "col": [
+            "大学院生",
+            "大学院に進む",
+            "修士課程",
+            "博士課程"
+          ],
+          "note": "Không phải \"học viện\" nói chung."
+        },
+        {
+          "id": "g10-w9",
+          "w": "ゼミ",
+          "r": "ぜみ",
+          "hv": "",
+          "pos": "名",
+          "vi": "seminar, lớp chuyên đề nhóm nhỏ do một giáo sư hướng dẫn",
+          "key": true,
+          "ex": {
+            "ja": "ゼミでは{毎週|まいしゅう}、{学生|がくせい}が{順番|じゅんばん}に{発表|はっぴょう}する。",
+            "vi": "Ở lớp seminar, mỗi tuần sinh viên lần lượt thuyết trình."
+          },
+          "col": [
+            "ゼミを取る",
+            "ゼミに入る",
+            "田中ゼミ",
+            "ゼミ合宿"
+          ],
+          "note": "Viết tắt của ゼミナール (tiếng Đức Seminar). 「〇〇ゼミ」 = nhóm của giáo sư 〇〇."
+        },
+        {
+          "id": "g10-w10",
+          "w": "演習",
+          "r": "えんしゅう",
+          "hv": "DIỄN TẬP",
+          "pos": "名・他動",
+          "vi": "giờ thực hành, bài tập ứng dụng (môn học); diễn tập",
+          "key": true,
+          "ex": {
+            "ja": "{講義|こうぎ}で{習|なら}った{公式|こうしき}を、{演習|えんしゅう}の{時間|じかん}に{実際|じっさい}に{使|つか}ってみる。",
+            "vi": "Công thức học trong giờ lý thuyết sẽ được dùng thử thật trong giờ thực hành."
+          },
+          "col": [
+            "演習の授業",
+            "演習問題",
+            "防災演習"
+          ],
+          "rel": "↔ 講義"
+        },
+        {
+          "id": "g10-w11",
+          "w": "単位",
+          "r": "たんい",
+          "hv": "ĐƠN VỊ",
+          "pos": "名",
+          "vi": "tín chỉ (học phần); đơn vị (đo lường)",
+          "key": true,
+          "ex": {
+            "ja": "{出席|しゅっせき}が{足|た}りなくて、{必修|ひっしゅう}{科目|かもく}の{単位|たんい}を{落|お}としてしまった。",
+            "vi": "Vì không đủ số buổi có mặt, tôi đã trượt tín chỉ môn bắt buộc."
+          },
+          "col": [
+            "単位を取る",
+            "単位を落とす",
+            "単位が足りない",
+            "卒業単位"
+          ],
+          "senses": [
+            {
+              "vi": "đơn vị đo",
+              "ex": {
+                "ja": "{長|なが}さの{単位|たんい}はメートルで{書|か}いてください。",
+                "vi": "Hãy ghi đơn vị chiều dài bằng mét."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g10-w12",
+          "w": "休講",
+          "r": "きゅうこう",
+          "hv": "HƯU GIẢNG",
+          "pos": "名・自動",
+          "vi": "nghỉ dạy, buổi học bị hủy (do giảng viên)",
+          "key": true,
+          "ex": {
+            "ja": "{教授|きょうじゅ}の{急用|きゅうよう}で{三限|さんげん}が{休講|きゅうこう}になり、{早|はや}く{帰|かえ}れた。",
+            "vi": "Do giáo sư có việc gấp, tiết 3 được nghỉ nên tôi được về sớm."
+          },
+          "col": [
+            "休講になる",
+            "休講のお知らせ"
+          ],
+          "note": "Người nghỉ là **người dạy**. Học sinh nghỉ là 欠席. Cửa hàng/công ty nghỉ là 休業."
+        },
+        {
+          "id": "g10-w13",
+          "w": "自習",
+          "r": "じしゅう",
+          "hv": "TỰ TẬP",
+          "pos": "名・自他動",
+          "vi": "tự học (thường là khi không có giáo viên)",
+          "key": true,
+          "ex": {
+            "ja": "{先生|せんせい}が{会議|かいぎ}で{来|こ}られないので、この{時間|じかん}は{自習|じしゅう}です。",
+            "vi": "Thầy bận họp không đến được nên giờ này lớp tự học."
+          },
+          "col": [
+            "自習室",
+            "自習時間",
+            "自習になる"
+          ],
+          "note": "Khác 独学 (tự học một mình không theo trường lớp nào)."
+        },
+        {
+          "id": "g10-w14",
+          "w": "今学期",
+          "r": "こんがっき",
+          "hv": "KIM HỌC KỲ",
+          "pos": "名",
+          "vi": "học kỳ này",
+          "key": true,
+          "ex": {
+            "ja": "{今学期|こんがっき}は{必修|ひっしゅう}の{授業|じゅぎょう}が{多|おお}くて{忙|いそが}しい。",
+            "vi": "Học kỳ này có nhiều môn bắt buộc nên bận rộn."
+          },
+          "col": [
+            "前学期",
+            "来学期",
+            "一学期"
+          ],
+          "note": "今 đọc là 「こん」 khi làm tiền tố: 今学期・今年度・今世紀・今回."
+        },
+        {
+          "id": "g10-w15",
+          "w": "時間割",
+          "r": "じかんわり",
+          "hv": "THỜI GIAN CÁT",
+          "pos": "名",
+          "vi": "thời khóa biểu",
+          "key": true,
+          "ex": {
+            "ja": "{時間割|じかんわり}を{見|み}ると、{水曜日|すいようび}は{授業|じゅぎょう}が{午前|ごぜん}だけだ。",
+            "vi": "Xem thời khóa biểu thì thứ Tư chỉ có tiết buổi sáng."
+          },
+          "col": [
+            "時間割を組む",
+            "時間割表"
+          ],
+          "note": "割 đọc 「わり」 (chia ra). Lịch trình chung là スケジュール / 日程."
+        },
+        {
+          "id": "g10-w16",
+          "w": "一時間目",
+          "r": "いちじかんめ",
+          "hv": "NHẤT THỜI GIAN MỤC",
+          "pos": "名",
+          "vi": "tiết thứ nhất",
+          "key": true,
+          "ex": {
+            "ja": "{月曜日|げつようび}の{一時間目|いちじかんめ}は{眠|ねむ}くて{集中|しゅうちゅう}できない。",
+            "vi": "Tiết một ngày thứ Hai buồn ngủ nên không tập trung được."
+          },
+          "col": [
+            "二時間目",
+            "〜時間目"
+          ],
+          "note": "〜目 = thứ tự (xem 語形成). Đại học hay nói 一限 (いちげん)."
+        },
+        {
+          "id": "g10-w17",
+          "w": "科目",
+          "r": "かもく",
+          "hv": "KHOA MỤC",
+          "pos": "名",
+          "vi": "môn học",
+          "key": true,
+          "ex": {
+            "ja": "{得意|とくい}な{科目|かもく}は{数学|すうがく}で、{苦手|にがて}な{科目|かもく}は{歴史|れきし}だ。",
+            "vi": "Môn sở trường là toán, môn kém là lịch sử."
+          },
+          "col": [
+            "必修科目",
+            "選択科目",
+            "受験科目"
+          ]
+        },
+        {
+          "id": "g10-w18",
+          "w": "国語",
+          "r": "こくご",
+          "hv": "QUỐC NGỮ",
+          "pos": "名",
+          "vi": "môn Quốc ngữ (môn tiếng Nhật ở trường Nhật); ngôn ngữ quốc gia",
+          "key": true,
+          "ex": {
+            "ja": "{国語|こくご}の{授業|じゅぎょう}で{夏目漱石|なつめそうせき}の{小説|しょうせつ}を{読|よ}んだ。",
+            "vi": "Trong giờ Quốc ngữ chúng tôi đọc tiểu thuyết của Natsume Soseki."
+          },
+          "col": [
+            "国語辞典",
+            "国語の先生"
+          ],
+          "note": "Người nước ngoài học tiếng Nhật thì gọi là 日本語, không gọi 国語."
+        },
+        {
+          "id": "g10-w19",
+          "w": "教師",
+          "r": "きょうし",
+          "hv": "GIÁO SƯ",
+          "pos": "名",
+          "vi": "giáo viên, thầy cô (nghề dạy học nói chung)",
+          "key": true,
+          "ex": {
+            "ja": "{子|こ}どもの{頃|ころ}から{教師|きょうし}になるのが{夢|ゆめ}だった。",
+            "vi": "Từ nhỏ ước mơ của tôi là trở thành giáo viên."
+          },
+          "col": [
+            "家庭教師",
+            "日本語教師",
+            "教師を目指す"
+          ],
+          "note": "Bẫy Hán Việt: 教師 = **giáo viên**, không phải \"giáo sư\" đại học (cái đó là 教授)."
+        },
+        {
+          "id": "g10-w20",
+          "w": "教員",
+          "r": "きょういん",
+          "hv": "GIÁO VIÊN",
+          "pos": "名",
+          "vi": "giáo viên, cán bộ giảng dạy (cách gọi theo chức vụ, hành chính)",
+          "key": true,
+          "ex": {
+            "ja": "{教員|きょういん}{免許|めんきょ}を{取|と}るために、{教育学|きょういくがく}の{授業|じゅぎょう}も{受|う}けている。",
+            "vi": "Để lấy chứng chỉ giáo viên, tôi cũng học các môn giáo dục học."
+          },
+          "col": [
+            "教員免許",
+            "教員採用試験",
+            "教職員"
+          ],
+          "rel": "≒ 教師"
+        },
+        {
+          "id": "g10-w21",
+          "w": "教授",
+          "r": "きょうじゅ",
+          "hv": "GIÁO THỤ",
+          "pos": "名",
+          "vi": "giáo sư (đại học)",
+          "key": true,
+          "ex": {
+            "ja": "{山本|やまもと}{教授|きょうじゅ}は{日本|にほん}の{経済史|けいざいし}を{研究|けんきゅう}している。",
+            "vi": "Giáo sư Yamamoto nghiên cứu lịch sử kinh tế Nhật Bản."
+          },
+          "col": [
+            "准教授",
+            "名誉教授",
+            "〜教授のゼミ"
+          ],
+          "note": "Thứ bậc ở đại học: 教授 > 准教授 > 講師 > 助教."
+        },
+        {
+          "id": "g10-w22",
+          "w": "講師",
+          "r": "こうし",
+          "hv": "GIẢNG SƯ",
+          "pos": "名",
+          "vi": "giảng viên; diễn giả, người đứng lớp (trung tâm, buổi hội thảo)",
+          "key": true,
+          "ex": {
+            "ja": "{週末|しゅうまつ}は{料理|りょうり}{教室|きょうしつ}で{講師|こうし}をしている。",
+            "vi": "Cuối tuần tôi làm người đứng lớp ở một lớp dạy nấu ăn."
+          },
+          "col": [
+            "非常勤講師",
+            "塾の講師",
+            "講師を招く"
+          ]
+        },
+        {
+          "id": "g10-w23",
+          "w": "担当",
+          "r": "たんとう",
+          "hv": "ĐẢM ĐƯƠNG",
+          "pos": "名・他動",
+          "vi": "phụ trách, đảm nhận",
+          "key": true,
+          "ex": {
+            "ja": "{来年度|らいねんど}から、{鈴木|すずき}{先生|せんせい}が{英語|えいご}を{担当|たんとう}することになった。",
+            "vi": "Từ năm học tới, thầy Suzuki sẽ phụ trách môn tiếng Anh."
+          },
+          "col": [
+            "授業を担当する",
+            "担当者",
+            "担当の先生"
+          ],
+          "rel": "≒ 受け持つ",
+          "note": "Dùng rộng cả ở công ty: 営業担当, ご担当の方."
+        },
+        {
+          "id": "g10-w24",
+          "w": "受け持つ",
+          "r": "うけもつ",
+          "hv": "THỤ TRÌ",
+          "pos": "他動",
+          "vi": "phụ trách, nhận dạy (một lớp, một môn)",
+          "key": true,
+          "ex": {
+            "ja": "{佐藤|さとう}{先生|せんせい}は{今年|ことし}、{二年|にねん}{三組|さんくみ}を{受|う}け{持|も}っている。",
+            "vi": "Năm nay cô Sato chủ nhiệm lớp 2-3."
+          },
+          "col": [
+            "クラスを受け持つ",
+            "受け持ちの先生"
+          ],
+          "rel": "≒ 担当する",
+          "note": "Thuần Nhật, mềm hơn 担当する; rất hay đi với クラス・授業・科目."
+        },
+        {
+          "id": "g10-w25",
+          "w": "教育実習",
+          "r": "きょういくじっしゅう",
+          "hv": "GIÁO DỤC THỰC TẬP",
+          "pos": "名",
+          "vi": "thực tập sư phạm",
+          "key": true,
+          "ex": {
+            "ja": "{教育実習|きょういくじっしゅう}で{母校|ぼこう}に{戻|もど}り、{三週間|さんしゅうかん}{授業|じゅぎょう}をした。",
+            "vi": "Đi thực tập sư phạm, tôi quay về trường cũ và đứng lớp ba tuần."
+          },
+          "col": [
+            "教育実習生",
+            "教育実習に参加する"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "試験",
+      "title_vi": "Thi cử",
+      "words": [
+        {
+          "id": "g10-w26",
+          "w": "採点",
+          "r": "さいてん",
+          "hv": "THÁI ĐIỂM",
+          "pos": "名・他動",
+          "vi": "chấm điểm",
+          "key": true,
+          "ex": {
+            "ja": "{先生|せんせい}は{週末|しゅうまつ}に{百枚|ひゃくまい}{以上|いじょう}の{答案|とうあん}を{採点|さいてん}した。",
+            "vi": "Cuối tuần thầy đã chấm hơn một trăm bài thi."
+          },
+          "col": [
+            "答案を採点する",
+            "採点ミス",
+            "採点が甘い／厳しい"
+          ],
+          "note": "Đừng nhầm cách viết: 採 (hái, chọn) — không phải 再 hay 際."
+        },
+        {
+          "id": "g10-w27",
+          "w": "中間試験",
+          "r": "ちゅうかんしけん",
+          "hv": "TRUNG GIAN THÍ NGHIỆM",
+          "pos": "名",
+          "vi": "thi giữa kỳ",
+          "key": true,
+          "ex": {
+            "ja": "{中間試験|ちゅうかんしけん}の{結果|けっか}が{悪|わる}かったので、{期末|きまつ}は{頑張|がんば}りたい。",
+            "vi": "Kết quả thi giữa kỳ tệ nên cuối kỳ tôi muốn cố gắng."
+          },
+          "col": [
+            "中間テスト"
+          ]
+        },
+        {
+          "id": "g10-w28",
+          "w": "期末試験",
+          "r": "きまつしけん",
+          "hv": "KỲ MẠT THÍ NGHIỆM",
+          "pos": "名",
+          "vi": "thi cuối kỳ",
+          "key": true,
+          "ex": {
+            "ja": "{期末試験|きまつしけん}の{前|まえ}の{一週間|いっしゅうかん}は、{図書館|としょかん}がいつも{満席|まんせき}だ。",
+            "vi": "Tuần trước kỳ thi cuối kỳ, thư viện lúc nào cũng kín chỗ."
+          },
+          "col": [
+            "期末テスト",
+            "期末レポート"
+          ],
+          "note": "期末 = cuối kỳ (末 = cuối). Cũng có 年度末, 月末."
+        },
+        {
+          "id": "g10-w29",
+          "w": "筆記試験",
+          "r": "ひっきしけん",
+          "hv": "BÚT KÝ THÍ NGHIỆM",
+          "pos": "名",
+          "vi": "thi viết",
+          "key": true,
+          "ex": {
+            "ja": "{筆記試験|ひっきしけん}に{合格|ごうかく}した{人|ひと}だけが{面接|めんせつ}に{進|すす}める。",
+            "vi": "Chỉ những ai đỗ phần thi viết mới được vào vòng phỏng vấn."
+          },
+          "rel": "↔ 面接試験・実技試験・口頭試験",
+          "col": [
+            "筆記用具"
+          ]
+        },
+        {
+          "id": "g10-w30",
+          "w": "答案",
+          "r": "とうあん",
+          "hv": "ĐÁP ÁN",
+          "pos": "名",
+          "vi": "bài làm, bài thi (tờ giấy thí sinh viết câu trả lời)",
+          "key": true,
+          "ex": {
+            "ja": "{時間|じかん}になったら、{答案|とうあん}を{裏返|うらがえ}しにして{机|つくえ}の{上|うえ}に{置|お}いてください。",
+            "vi": "Hết giờ, hãy úp bài làm xuống và đặt trên bàn."
+          },
+          "col": [
+            "答案を出す",
+            "答案用紙",
+            "答案を返す"
+          ],
+          "note": "**Bạn giả!** Tiếng Việt \"đáp án\" = lời giải đúng → tiếng Nhật là 正解 / 解答 / 模範解答. 答案 là **bài làm** (có thể sai)."
+        },
+        {
+          "id": "g10-w31",
+          "w": "教科書",
+          "r": "きょうかしょ",
+          "hv": "GIÁO KHOA THƯ",
+          "pos": "名",
+          "vi": "sách giáo khoa",
+          "key": true,
+          "ex": {
+            "ja": "{教科書|きょうかしょ}を{家|いえ}に{忘|わす}れて、{隣|となり}の{人|ひと}に{見|み}せてもらった。",
+            "vi": "Quên sách giáo khoa ở nhà, tôi phải nhờ người bên cạnh cho xem chung."
+          },
+          "rel": "≠ 参考書 (sách tham khảo)"
+        },
+        {
+          "id": "g10-w32",
+          "w": "暗記",
+          "r": "あんき",
+          "hv": "ÁM KÝ",
+          "pos": "名・他動",
+          "vi": "học thuộc lòng",
+          "key": true,
+          "ex": {
+            "ja": "{単語|たんご}を{暗記|あんき}するだけでなく、{例文|れいぶん}の{中|なか}で{使|つか}ってみることが{大切|たいせつ}だ。",
+            "vi": "Không chỉ học thuộc từ đơn mà cần thử dùng chúng trong câu ví dụ."
+          },
+          "col": [
+            "丸暗記",
+            "暗記カード",
+            "暗記力"
+          ],
+          "rel": "≒ 覚える",
+          "note": "丸暗記 = học vẹt (thuộc nguyên si, không hiểu)."
+        },
+        {
+          "id": "g10-w33",
+          "w": "問い",
+          "r": "とい",
+          "hv": "VẤN",
+          "pos": "名",
+          "vi": "câu hỏi (trong đề thi, hoặc câu hỏi mang tính triết lý)",
+          "key": true,
+          "ex": {
+            "ja": "「{幸|しあわ}せとは{何|なん}だろう」という{問|と}いに、{簡単|かんたん}な{答|こた}えはない。",
+            "vi": "Câu hỏi \"hạnh phúc là gì\" không có câu trả lời đơn giản."
+          },
+          "col": [
+            "問いに答える",
+            "問いを立てる",
+            "次の問い"
+          ],
+          "note": "Danh từ của 問う. Văn viết/đề thi. Hỏi bình thường thì dùng 質問. Không nói 「問いをする」. 問い cũng không thay được cho 「{問題|もんだい}」 (vấn đề cần giải quyết: ✗ {環境|かんきょう}の{問|と}い → ○ {環境問題|かんきょうもんだい}) hay 「{疑問|ぎもん}」 (điều còn nghi ngờ, chưa rõ đúng sai)."
+        }
+      ]
+    },
+    {
+      "title": "成績・学力",
+      "title_vi": "Thành tích, học lực",
+      "words": [
+        {
+          "id": "g10-w34",
+          "w": "成績",
+          "r": "せいせき",
+          "hv": "THÀNH TÍCH",
+          "pos": "名",
+          "vi": "kết quả học tập, điểm số; thành tích (thi đấu, kinh doanh)",
+          "key": true,
+          "ex": {
+            "ja": "{塾|じゅく}に{通|かよ}い{始|はじ}めてから、{数学|すうがく}の{成績|せいせき}が{上|あ}がった。",
+            "vi": "Từ khi bắt đầu đi học thêm, điểm toán của tôi đã tăng."
+          },
+          "col": [
+            "成績が上がる／下がる",
+            "成績表",
+            "営業成績"
+          ]
+        },
+        {
+          "id": "g10-w35",
+          "w": "学力",
+          "r": "がくりょく",
+          "hv": "HỌC LỰC",
+          "pos": "名",
+          "vi": "học lực, năng lực học tập (kiến thức thật sự có)",
+          "key": true,
+          "ex": {
+            "ja": "{全国|ぜんこく}の{中学生|ちゅうがくせい}を{対象|たいしょう}に{学力|がくりょく}テストが{行|おこな}われた。",
+            "vi": "Một bài kiểm tra học lực dành cho học sinh cấp 2 toàn quốc đã được tổ chức."
+          },
+          "col": [
+            "学力が低下する",
+            "学力テスト",
+            "基礎学力"
+          ]
+        },
+        {
+          "id": "g10-w36",
+          "w": "評価",
+          "r": "ひょうか",
+          "hv": "BÌNH GIÁ",
+          "pos": "名・他動",
+          "vi": "đánh giá; đánh giá cao, công nhận giá trị",
+          "key": true,
+          "ex": {
+            "ja": "この{授業|じゅぎょう}は、{試験|しけん}だけでなく{毎回|まいかい}のレポートでも{評価|ひょうか}される。",
+            "vi": "Môn này được đánh giá không chỉ qua bài thi mà còn qua bài báo cáo mỗi buổi."
+          },
+          "col": [
+            "高く評価する",
+            "評価が高い",
+            "正当な評価",
+            "人事評価"
+          ],
+          "note": "Dùng một mình 「評価する」 thường đã mang nghĩa tích cực = \"đánh giá cao\". Không dùng cho việc đoán giá, dự báo. Lời khen chê lan truyền trong xã hội (quán này nổi tiếng ngon…) là 「{評判|ひょうばん}」, không phải 評価: ✗ この{店|みせ}は{評価|ひょうか}だ → ○ {評判|ひょうばん}がいい／{高|たか}く{評価|ひょうか}されている."
+        },
+        {
+          "id": "g10-w37",
+          "w": "優れる",
+          "r": "すぐれる",
+          "hv": "ƯU",
+          "pos": "自動",
+          "vi": "xuất sắc, vượt trội, giỏi hơn",
+          "key": true,
+          "ex": {
+            "ja": "{彼女|かのじょ}は{語学|ごがく}の{才能|さいのう}に{優|すぐ}れていて、{五|いつ}つの{言語|げんご}を{話|はな}せる。",
+            "vi": "Cô ấy có năng khiếu ngôn ngữ xuất sắc, nói được năm thứ tiếng."
+          },
+          "col": [
+            "〜に優れている",
+            "優れた作品",
+            "気分が優れない"
+          ],
+          "rel": "≒ 秀でる・勝る ↔ 劣る",
+          "note": "Gần như luôn ở dạng 「優れている」「優れた＋N」. Với sức khoẻ chỉ dùng phủ định: 「顔色／気分が優れない」."
+        }
+      ]
+    },
+    {
+      "title": "学問",
+      "title_vi": "Các ngành học",
+      "words": [
+        {
+          "id": "g10-w38",
+          "w": "自然科学",
+          "r": "しぜんかがく",
+          "hv": "TỰ NHIÊN KHOA HỌC",
+          "pos": "名",
+          "vi": "khoa học tự nhiên",
+          "key": true,
+          "ex": {
+            "ja": "{自然科学|しぜんかがく}の{分野|ぶんや}では、{実験|じっけん}で{仮説|かせつ}を{確|たし}かめることが{基本|きほん}だ。",
+            "vi": "Trong lĩnh vực khoa học tự nhiên, kiểm chứng giả thuyết bằng thí nghiệm là điều cơ bản."
+          }
+        },
+        {
+          "id": "g10-w39",
+          "w": "物理学",
+          "r": "ぶつりがく",
+          "hv": "VẬT LÝ HỌC",
+          "pos": "名",
+          "vi": "vật lý học",
+          "key": true,
+          "ex": {
+            "ja": "{宇宙|うちゅう}の{仕組|しく}みを{知|し}りたくて、{物理学|ぶつりがく}を{学|まな}び{始|はじ}めた。",
+            "vi": "Vì muốn biết cơ chế của vũ trụ, tôi bắt đầu học vật lý."
+          }
+        },
+        {
+          "id": "g10-w40",
+          "w": "化学",
+          "r": "かがく",
+          "hv": "HOÁ HỌC",
+          "pos": "名",
+          "vi": "hoá học",
+          "key": true,
+          "ex": {
+            "ja": "{化学|かがく}の{授業|じゅぎょう}で、{二|ふた}つの{液体|えきたい}を{混|ま}ぜて{色|いろ}の{変化|へんか}を{観察|かんさつ}した。",
+            "vi": "Trong giờ hoá, chúng tôi trộn hai chất lỏng và quan sát sự đổi màu."
+          },
+          "note": "Đọc giống 科学 (khoa học) nên người Nhật hay nói 「ばけがく」 để phân biệt."
+        },
+        {
+          "id": "g10-w41",
+          "w": "生物学",
+          "r": "せいぶつがく",
+          "hv": "SINH VẬT HỌC",
+          "pos": "名",
+          "vi": "sinh học",
+          "key": false,
+          "ex": {
+            "ja": "{海|うみ}の{生|い}き{物|もの}が{好|す}きで、{大学|だいがく}では{生物学|せいぶつがく}を{選|えら}んだ。",
+            "vi": "Vì thích sinh vật biển, ở đại học tôi chọn ngành sinh học."
+          }
+        },
+        {
+          "id": "g10-w42",
+          "w": "社会科学",
+          "r": "しゃかいかがく",
+          "hv": "XÃ HỘI KHOA HỌC",
+          "pos": "名",
+          "vi": "khoa học xã hội",
+          "key": true,
+          "ex": {
+            "ja": "{経済学|けいざいがく}や{法学|ほうがく}は{社会科学|しゃかいかがく}に{含|ふく}まれる。",
+            "vi": "Kinh tế học và luật học thuộc khoa học xã hội."
+          }
+        },
+        {
+          "id": "g10-w43",
+          "w": "経済学",
+          "r": "けいざいがく",
+          "hv": "KINH TẾ HỌC",
+          "pos": "名",
+          "vi": "kinh tế học",
+          "key": false,
+          "ex": {
+            "ja": "{経済学|けいざいがく}を{学|まな}ぶと、{物価|ぶっか}が{上|あ}がる{理由|りゆう}がわかるようになる。",
+            "vi": "Học kinh tế học thì sẽ hiểu được lý do giá cả tăng."
+          }
+        },
+        {
+          "id": "g10-w44",
+          "w": "政治学",
+          "r": "せいじがく",
+          "hv": "CHÍNH TRỊ HỌC",
+          "pos": "名",
+          "vi": "chính trị học",
+          "key": false,
+          "ex": {
+            "ja": "{政治学|せいじがく}のゼミで、{各国|かっこく}の{選挙|せんきょ}{制度|せいど}を{比較|ひかく}した。",
+            "vi": "Ở seminar chính trị học, chúng tôi so sánh chế độ bầu cử các nước."
+          }
+        },
+        {
+          "id": "g10-w45",
+          "w": "社会学",
+          "r": "しゃかいがく",
+          "hv": "XÃ HỘI HỌC",
+          "pos": "名",
+          "vi": "xã hội học",
+          "key": false,
+          "ex": {
+            "ja": "{社会学|しゃかいがく}の{調査|ちょうさ}で、{若者|わかもの}の{働|はたら}き{方|かた}についてアンケートを{取|と}った。",
+            "vi": "Trong một khảo sát xã hội học, chúng tôi lấy phiếu hỏi về cách làm việc của giới trẻ."
+          }
+        },
+        {
+          "id": "g10-w46",
+          "w": "人文科学",
+          "r": "じんぶんかがく",
+          "hv": "NHÂN VĂN KHOA HỌC",
+          "pos": "名",
+          "vi": "khoa học nhân văn",
+          "key": true,
+          "ex": {
+            "ja": "{人文科学|じんぶんかがく}は、{文学|ぶんがく}・{歴史|れきし}・{哲学|てつがく}などを{通|とお}して{人間|にんげん}を{考|かんが}える{学問|がくもん}だ。",
+            "vi": "Khoa học nhân văn là ngành tìm hiểu con người qua văn học, lịch sử, triết học..."
+          },
+          "note": "人文 đọc 「じんぶん」, không phải にんぶん."
+        },
+        {
+          "id": "g10-w47",
+          "w": "文学",
+          "r": "ぶんがく",
+          "hv": "VĂN HỌC",
+          "pos": "名",
+          "vi": "văn học",
+          "key": true,
+          "ex": {
+            "ja": "{祖母|そぼ}の{影響|えいきょう}で、{古|ふる}い{日本|にほん}の{文学|ぶんがく}に{興味|きょうみ}を{持|も}った。",
+            "vi": "Do ảnh hưởng của bà, tôi bắt đầu quan tâm đến văn học cổ Nhật Bản."
+          },
+          "col": [
+            "文学作品",
+            "近代文学",
+            "児童文学"
+          ]
+        },
+        {
+          "id": "g10-w48",
+          "w": "哲学",
+          "r": "てつがく",
+          "hv": "TRIẾT HỌC",
+          "pos": "名",
+          "vi": "triết học; triết lý (sống, làm việc)",
+          "key": true,
+          "ex": {
+            "ja": "あの{社長|しゃちょう}には、{仕事|しごと}に{対|たい}する{独自|どくじ}の{哲学|てつがく}がある。",
+            "vi": "Vị giám đốc đó có triết lý riêng về công việc."
+          },
+          "col": [
+            "哲学者",
+            "人生哲学"
+          ]
+        },
+        {
+          "id": "g10-w49",
+          "w": "言語学",
+          "r": "げんごがく",
+          "hv": "NGÔN NGỮ HỌC",
+          "pos": "名",
+          "vi": "ngôn ngữ học",
+          "key": false,
+          "ex": {
+            "ja": "{言語学|げんごがく}では、{方言|ほうげん}の{違|ちが}いも{大切|たいせつ}な{研究|けんきゅう}{対象|たいしょう}になる。",
+            "vi": "Trong ngôn ngữ học, sự khác nhau giữa các phương ngữ cũng là đối tượng nghiên cứu quan trọng."
+          }
+        },
+        {
+          "id": "g10-w50",
+          "w": "文学部",
+          "r": "ぶんがくぶ",
+          "hv": "VĂN HỌC BỘ",
+          "pos": "名",
+          "vi": "khoa Văn (trong trường đại học)",
+          "key": true,
+          "ex": {
+            "ja": "{文学部|ぶんがくぶ}の{学生|がくせい}は、{本|ほん}を{読|よ}む{量|りょう}が{本当|ほんとう}に{多|おお}い。",
+            "vi": "Sinh viên khoa Văn đọc sách nhiều thật sự."
+          },
+          "col": [
+            "法学部",
+            "経済学部",
+            "工学部"
+          ],
+          "note": "〜学部 = khoa lớn (faculty); bên trong chia thành 〜学科 (ngành/bộ môn)."
+        },
+        {
+          "id": "g10-w51",
+          "w": "英文学科",
+          "r": "えいぶんがっか",
+          "hv": "ANH VĂN HỌC KHOA",
+          "pos": "名",
+          "vi": "ngành Văn học Anh",
+          "key": true,
+          "ex": {
+            "ja": "{私|わたし}は{文学部|ぶんがくぶ}{英文学科|えいぶんがっか}で、シェークスピアを{研究|けんきゅう}している。",
+            "vi": "Tôi học ngành Văn học Anh, khoa Văn, đang nghiên cứu Shakespeare."
+          },
+          "note": "学科 đọc 「がっか」 (âm ku + ka → っか)."
+        },
+        {
+          "id": "g10-w52",
+          "w": "英文学",
+          "r": "えいぶんがく",
+          "hv": "ANH VĂN HỌC",
+          "pos": "名",
+          "vi": "văn học Anh",
+          "key": false,
+          "ex": {
+            "ja": "{英文学|えいぶんがく}の{名作|めいさく}を{原書|げんしょ}で{読|よ}めるようになりたい。",
+            "vi": "Tôi muốn đọc được các kiệt tác văn học Anh bằng nguyên bản."
+          }
+        },
+        {
+          "id": "g10-w53",
+          "w": "専攻",
+          "r": "せんこう",
+          "hv": "CHUYÊN CÔNG",
+          "pos": "名・他動",
+          "vi": "chuyên ngành; học chuyên về",
+          "key": true,
+          "ex": {
+            "ja": "{大学|だいがく}では{心理学|しんりがく}を{専攻|せんこう}したが、{今|いま}は{全然|ぜんぜん}{違|ちが}う{仕事|しごと}をしている。",
+            "vi": "Ở đại học tôi học chuyên ngành tâm lý học, nhưng giờ làm công việc hoàn toàn khác."
+          },
+          "col": [
+            "〜を専攻する",
+            "ご専攻は？",
+            "専攻分野"
+          ],
+          "note": "Đồng âm khác nghĩa: 選考 (tuyển chọn hồ sơ), 先攻 (đánh trước, trong thể thao)."
+        }
+      ]
+    },
+    {
+      "title": "研究",
+      "title_vi": "Nghiên cứu",
+      "words": [
+        {
+          "id": "g10-w54",
+          "w": "参考文献",
+          "r": "さんこうぶんけん",
+          "hv": "THAM KHẢO VĂN HIẾN",
+          "pos": "名",
+          "vi": "tài liệu tham khảo (danh mục sách, bài báo đã dùng khi viết)",
+          "key": true,
+          "ex": {
+            "ja": "レポートの{最後|さいご}には、{必|かなら}ず{参考文献|さんこうぶんけん}を{書|か}くこと。",
+            "vi": "Cuối bài báo cáo nhất định phải ghi tài liệu tham khảo."
+          },
+          "col": [
+            "参考文献を挙げる",
+            "参考文献リスト"
+          ]
+        },
+        {
+          "id": "g10-w55",
+          "w": "引用",
+          "r": "いんよう",
+          "hv": "DẪN DỤNG",
+          "pos": "名・他動",
+          "vi": "trích dẫn",
+          "key": true,
+          "ex": {
+            "ja": "{他人|たにん}の{文章|ぶんしょう}を{引用|いんよう}するときは、{出典|しゅってん}を{明記|めいき}しなければならない。",
+            "vi": "Khi trích dẫn văn của người khác thì phải ghi rõ nguồn."
+          },
+          "col": [
+            "文献を引用する",
+            "引用文",
+            "〜から引用する"
+          ]
+        },
+        {
+          "id": "g10-w56",
+          "w": "妥当",
+          "r": "だとう",
+          "hv": "THỎA ĐÁNG",
+          "pos": "な形",
+          "vi": "thỏa đáng, hợp lý, phù hợp",
+          "key": true,
+          "ex": {
+            "ja": "{結論|けつろん}を{出|だ}す{前|まえ}に、その{調査|ちょうさ}{方法|ほうほう}が{妥当|だとう}かどうか{検討|けんとう}すべきだ。",
+            "vi": "Trước khi kết luận, nên xem xét phương pháp khảo sát đó có hợp lý hay không."
+          },
+          "col": [
+            "妥当な判断",
+            "妥当な金額",
+            "妥当性"
+          ],
+          "rel": "≒ 適切・適当",
+          "note": "Văn viết, cứng. Hay đi với 判断・結論・方法・価格."
+        },
+        {
+          "id": "g10-w57",
+          "w": "実験",
+          "r": "じっけん",
+          "hv": "THỰC NGHIỆM",
+          "pos": "名・他動",
+          "vi": "thí nghiệm",
+          "key": true,
+          "ex": {
+            "ja": "{同|おな}じ{条件|じょうけん}で{三回|さんかい}{実験|じっけん}を{行|おこな}い、{結果|けっか}を{比|くら}べた。",
+            "vi": "Chúng tôi làm thí nghiệm ba lần với cùng điều kiện rồi so sánh kết quả."
+          },
+          "col": [
+            "実験を行う",
+            "実験に成功する",
+            "動物実験"
+          ]
+        },
+        {
+          "id": "g10-w58",
+          "w": "まとめる",
+          "r": "まとめる",
+          "hv": "",
+          "pos": "他動",
+          "vi": "tổng hợp, tóm tắt; gom lại; hoàn thành (một bài viết, thỏa thuận)",
+          "key": true,
+          "ex": {
+            "ja": "{実験|じっけん}の{結果|けっか}を{表|ひょう}にまとめて、{来週|らいしゅう}のゼミで{報告|ほうこく}する。",
+            "vi": "Tôi sẽ tổng hợp kết quả thí nghiệm thành bảng và báo cáo ở seminar tuần sau."
+          },
+          "col": [
+            "意見をまとめる",
+            "結果をまとめる",
+            "荷物をまとめる",
+            "話をまとめる"
+          ],
+          "rel": "自動: まとまる",
+          "note": "まとめ = phần tổng kết; まとめて = gộp lại (まとめて払う = trả gộp một lần)."
+        },
+        {
+          "id": "g10-w59",
+          "w": "説",
+          "r": "せつ",
+          "hv": "THUYẾT",
+          "pos": "名",
+          "vi": "thuyết, giả thuyết, ý kiến (học thuật)",
+          "key": true,
+          "ex": {
+            "ja": "{恐竜|きょうりゅう}が{絶滅|ぜつめつ}した{原因|げんいん}については、いくつかの{説|せつ}がある。",
+            "vi": "Về nguyên nhân khủng long tuyệt chủng, có một vài giả thuyết."
+          },
+          "col": [
+            "説を立てる",
+            "説を唱える",
+            "新説",
+            "一説によると"
+          ]
+        },
+        {
+          "id": "g10-w60",
+          "w": "証明",
+          "r": "しょうめい",
+          "hv": "CHỨNG MINH",
+          "pos": "名・他動",
+          "vi": "chứng minh; chứng nhận",
+          "key": true,
+          "ex": {
+            "ja": "{彼|かれ}は{新|あたら}しいデータを{使|つか}って、{自分|じぶん}の{説|せつ}が{正|ただ}しいことを{証明|しょうめい}した。",
+            "vi": "Anh ấy dùng dữ liệu mới để chứng minh thuyết của mình là đúng."
+          },
+          "col": [
+            "身分証明書",
+            "無実を証明する",
+            "証明写真"
+          ],
+          "note": "Đừng nhầm 照明 (しょうめい, đèn chiếu sáng)."
+        },
+        {
+          "id": "g10-w61",
+          "w": "論文",
+          "r": "ろんぶん",
+          "hv": "LUẬN VĂN",
+          "pos": "名",
+          "vi": "bài luận, bài báo khoa học, luận văn",
+          "key": true,
+          "ex": {
+            "ja": "{卒業|そつぎょう}{論文|ろんぶん}のテーマがなかなか{決|き}まらない。",
+            "vi": "Mãi mà tôi chưa chọn được đề tài khóa luận tốt nghiệp."
+          },
+          "col": [
+            "論文を書く",
+            "卒業論文（卒論）",
+            "論文を発表する"
+          ]
+        },
+        {
+          "id": "g10-w62",
+          "w": "学会",
+          "r": "がっかい",
+          "hv": "HỌC HỘI",
+          "pos": "名",
+          "vi": "hội nghị khoa học; hội học thuật",
+          "key": true,
+          "ex": {
+            "ja": "{来月|らいげつ}、{京都|きょうと}で{開|ひら}かれる{学会|がっかい}で{研究|けんきゅう}{成果|せいか}を{発表|はっぴょう}する。",
+            "vi": "Tháng sau tôi sẽ công bố kết quả nghiên cứu tại hội nghị khoa học tổ chức ở Kyoto."
+          },
+          "col": [
+            "学会に出る",
+            "学会で発表する",
+            "日本語教育学会"
+          ]
+        },
+        {
+          "id": "g10-w63",
+          "w": "発表",
+          "r": "はっぴょう",
+          "hv": "PHÁT BIỂU",
+          "pos": "名・他動",
+          "vi": "công bố; thuyết trình",
+          "key": false,
+          "ex": {
+            "ja": "{合格者|ごうかくしゃ}の{番号|ばんごう}は{来週|らいしゅう}{発表|はっぴょう}される。",
+            "vi": "Số báo danh của người đỗ sẽ được công bố vào tuần sau."
+          },
+          "note": "Bẫy Hán Việt: 発表 không phải \"phát biểu ý kiến\" trong cuộc họp (cái đó là 発言)."
+        }
+      ]
+    },
+    {
+      "title": "語形成",
+      "title_vi": "Tạo từ: tiền tố, hậu tố",
+      "words": [
+        {
+          "id": "g10-w64",
+          "w": "今〜",
+          "r": "こん〜",
+          "hv": "KIM",
+          "pos": "接頭",
+          "vi": "… này, … hiện tại (kỳ / năm / lần đang diễn ra)",
+          "key": true,
+          "ex": {
+            "ja": "{今回|こんかい}の{旅行|りょこう}は{今年度|こんねんど}の{予算|よさん}から{出|で}る。",
+            "vi": "Chuyến đi lần này được chi từ ngân sách năm tài chính này."
+          },
+          "col": [
+            "今学期",
+            "今年度",
+            "今世紀",
+            "今回",
+            "今大会"
+          ]
+        },
+        {
+          "id": "g10-w65",
+          "w": "今年度",
+          "r": "こんねんど",
+          "hv": "KIM NIÊN ĐỘ",
+          "pos": "名",
+          "vi": "năm học / năm tài chính này",
+          "key": true,
+          "ex": {
+            "ja": "{今年度|こんねんど}から、{留学生|りゅうがくせい}{向|む}けの{奨学金|しょうがくきん}が{増|ふ}えた。",
+            "vi": "Từ năm học này, học bổng dành cho du học sinh đã tăng."
+          },
+          "note": "Năm học/năm tài chính ở Nhật bắt đầu tháng 4. 「今年」 = năm dương lịch này; 「今年度」 = tính từ tháng 4."
+        },
+        {
+          "id": "g10-w66",
+          "w": "〜目",
+          "r": "〜め",
+          "hv": "MỤC",
+          "pos": "接尾",
+          "vi": "thứ … (chỉ thứ tự)",
+          "key": true,
+          "ex": {
+            "ja": "{右|みぎ}から{三番目|さんばんめ}の{席|せき}が{私|わたし}の{席|せき}です。",
+            "vi": "Ghế thứ ba từ bên phải là ghế của tôi."
+          },
+          "col": [
+            "一時間目",
+            "三日目",
+            "五番目",
+            "二回目",
+            "三人目"
+          ]
+        },
+        {
+          "id": "g10-w67",
+          "w": "三日目",
+          "r": "みっかめ",
+          "hv": "TAM NHẬT MỤC",
+          "pos": "名",
+          "vi": "ngày thứ ba",
+          "key": false,
+          "ex": {
+            "ja": "{合宿|がっしゅく}{三日目|みっかめ}になると、みんな{疲|つか}れが{出|で}てきた。",
+            "vi": "Đến ngày thứ ba của đợt tập huấn, mọi người bắt đầu thấm mệt."
+          },
+          "note": "三日 = ba ngày (khoảng thời gian) / mùng 3; 三日目 = ngày thứ ba (thứ tự)."
+        },
+        {
+          "id": "g10-w68",
+          "w": "五番目",
+          "r": "ごばんめ",
+          "hv": "NGŨ PHIÊN MỤC",
+          "pos": "名",
+          "vi": "thứ năm (theo thứ tự)",
+          "key": false,
+          "ex": {
+            "ja": "{面接|めんせつ}の{順番|じゅんばん}は{五番目|ごばんめ}だから、まだ{時間|じかん}がある。",
+            "vi": "Thứ tự phỏng vấn của tôi là thứ năm nên vẫn còn thời gian."
+          }
+        },
+        {
+          "id": "g10-w69",
+          "w": "〜学",
+          "r": "〜がく",
+          "hv": "HỌC",
+          "pos": "接尾",
+          "vi": "ngành học, môn học …",
+          "key": true,
+          "ex": {
+            "ja": "{心理学|しんりがく}や{教育学|きょういくがく}など、{人|ひと}に{関|かか}わる{学問|がくもん}に{興味|きょうみ}がある。",
+            "vi": "Tôi quan tâm đến các ngành liên quan đến con người như tâm lý học, giáo dục học."
+          },
+          "col": [
+            "物理学",
+            "生物学",
+            "経済学",
+            "心理学",
+            "言語学"
+          ]
+        },
+        {
+          "id": "g10-w70",
+          "w": "〜学部・〜学科",
+          "r": "〜がくぶ・〜がっか",
+          "hv": "HỌC BỘ・HỌC KHOA",
+          "pos": "接尾",
+          "vi": "khoa … (đơn vị lớn) / ngành, bộ môn … (đơn vị nhỏ trong khoa)",
+          "key": true,
+          "ex": {
+            "ja": "{工学部|こうがくぶ}の{中|なか}には、{機械|きかい}{工学科|こうがっか}や{建築|けんちく}{学科|がっか}などがある。",
+            "vi": "Trong khoa Kỹ thuật có các ngành như Cơ khí, Kiến trúc..."
+          },
+          "col": [
+            "文学部",
+            "法学部",
+            "英文学科",
+            "建築学科"
+          ]
+        },
+        {
+          "id": "g10-w71",
+          "w": "参考〜",
+          "r": "さんこう〜",
+          "hv": "THAM KHẢO",
+          "pos": "接頭",
+          "vi": "… tham khảo",
+          "key": true,
+          "ex": {
+            "ja": "{参考|さんこう}までに、{去年|きょねん}の{資料|しりょう}もお{送|おく}りします。",
+            "vi": "Để tham khảo, tôi gửi kèm cả tài liệu năm ngoái."
+          },
+          "col": [
+            "参考文献",
+            "参考書",
+            "参考資料",
+            "参考になる"
+          ]
+        },
+        {
+          "id": "g10-w72",
+          "w": "参考書",
+          "r": "さんこうしょ",
+          "hv": "THAM KHẢO THƯ",
+          "pos": "名",
+          "vi": "sách tham khảo, sách luyện thi",
+          "key": true,
+          "ex": {
+            "ja": "{教科書|きょうかしょ}だけではわかりにくいので、{説明|せつめい}が{丁寧|ていねい}な{参考書|さんこうしょ}を{買|か}った。",
+            "vi": "Chỉ có sách giáo khoa thì khó hiểu nên tôi đã mua một cuốn sách tham khảo giải thích kỹ."
+          },
+          "note": "参考書 = sách bổ trợ học tập (luyện thi); 参考文献 = danh mục tài liệu dùng khi viết luận văn."
+        }
+      ]
+    },
+    {
+      "title": "副詞",
+      "title_vi": "Phó từ (trong 例文)",
+      "words": [
+        {
+          "id": "g10-w73",
+          "w": "必死に",
+          "r": "ひっしに",
+          "hv": "TẤT TỬ",
+          "pos": "副",
+          "vi": "liều mạng, dốc hết sức, cuống cuồng",
+          "key": true,
+          "ex": {
+            "ja": "{最終|さいしゅう}バスに{間|ま}に{合|あ}うように、{必死|ひっし}に{走|はし}った。",
+            "vi": "Tôi chạy thục mạng cho kịp chuyến xe buýt cuối."
+          },
+          "col": [
+            "必死に勉強する",
+            "必死の努力",
+            "必死だ"
+          ],
+          "rel": "≒ 懸命に・一生懸命",
+          "note": "Nghĩa đen \"chắc chắn chết\" → cố như thể sống còn. Thường kèm cảm giác gấp gáp, căng thẳng."
+        },
+        {
+          "id": "g10-w74",
+          "w": "ひとまず",
+          "r": "ひとまず",
+          "hv": "",
+          "pos": "副",
+          "vi": "tạm thời, trước mắt (cứ làm thế đã, rồi tính tiếp)",
+          "key": true,
+          "ex": {
+            "ja": "{熱|ねつ}が{下|さ}がったので、ひとまず{安心|あんしん}した。",
+            "vi": "Hạ sốt rồi nên trước mắt tôi đã yên tâm."
+          },
+          "rel": "≒ とりあえず・いったん",
+          "note": "Hàm ý: việc lớn chưa xong hẳn, nhưng tạm dừng / tạm ổn ở một mốc."
+        },
+        {
+          "id": "g10-w75",
+          "w": "次第に",
+          "r": "しだいに",
+          "hv": "THỨ ĐỆ",
+          "pos": "副",
+          "vi": "dần dần, từ từ",
+          "key": true,
+          "ex": {
+            "ja": "{最初|さいしょ}は{緊張|きんちょう}していたが、{次第|しだい}にクラスの{雰囲気|ふんいき}に{慣|な}れてきた。",
+            "vi": "Lúc đầu còn căng thẳng, nhưng dần dần tôi đã quen với không khí lớp."
+          },
+          "rel": "≒ だんだん・徐々に ↔ 急に",
+          "note": "Văn viết hơn だんだん. Thường đi với động từ biến đổi: 〜てくる／〜ていく／〜なる. Khác 「〜次第」 (ngay sau khi / tùy vào) trong ngữ pháp."
+        },
+        {
+          "id": "g10-w76",
+          "w": "めったに",
+          "r": "めったに",
+          "hv": "",
+          "pos": "副",
+          "vi": "hiếm khi (luôn đi với phủ định: めったに〜ない)",
+          "key": true,
+          "ex": {
+            "ja": "{兄|あに}は{忙|いそが}しくて、{実家|じっか}にはめったに{帰|かえ}ってこない。",
+            "vi": "Anh tôi bận nên hiếm khi về nhà bố mẹ."
+          },
+          "col": [
+            "めったにない",
+            "めったに〜ない"
+          ],
+          "rel": "≒ ほとんど〜ない ↔ しょっちゅう",
+          "note": "Bắt buộc đi với phủ định. 「めったにない機会」 = cơ hội hiếm có. Khác 「たまに」 (thỉnh thoảng) đi với khẳng định."
+        }
+      ]
+    }
+  ],
+  "focus": [
+    {
+      "title": "児童・生徒・学生 — gọi người học theo cấp",
+      "body": "Ba từ này đều dịch là \"học sinh\", nhưng tiếng Nhật chia theo **cấp học**:\n\n- **児童** (じどう): học sinh **tiểu học** — dùng trong văn bản, tin tức, nhà trường. Ngoài đời: 小学生.\n- **生徒** (せいと): học sinh **cấp 2, cấp 3** (và học trò lớp năng khiếu: ピアノの生徒).\n- **学生** (がくせい): **sinh viên** đại học, cao đẳng, trường nghề.\n\nVí dụ: 「{全校|ぜんこう}{児童|じどう}」 (toàn thể học sinh trường tiểu học), 「{生徒会|せいとかい}」 (hội học sinh cấp 3), 「{学生証|がくせいしょう}」 (thẻ sinh viên).\n\nCác động từ đi kèm cũng cần nhớ: 進学する (học lên), 転校する (chuyển trường), 在学中だ (đang theo học). 「大学院に**進む**」 cũng rất hay dùng thay cho 進学する."
+    },
+    {
+      "title": "Người dạy: 教師・教員・教授・講師 và 担当する・受け持つ",
+      "body": "- **教師**: nghề giáo nói chung — 「{家庭教師|かていきょうし}」 (gia sư), 「日本語教師」.\n- **教員**: giáo viên nhìn từ góc **chức vụ, hành chính** — 「{教員|きょういん}{免許|めんきょ}」, 「{教員|きょういん}{採用|さいよう}{試験|しけん}」.\n- **教授**: **giáo sư** đại học — một chức danh. Đây là bẫy Hán Việt: \"giáo sư\" của tiếng Việt ứng với 教授, còn 教師 (GIÁO SƯ) chỉ là giáo viên!\n- **講師**: **giảng viên** ở đại học, hoặc người đứng lớp ở trung tâm, diễn giả của buổi hội thảo.\n\n**担当する vs 受け持つ** — cả hai = \"phụ trách\":\n- 担当する: Hán Nhật, dùng mọi nơi (trường, công ty): 「{営業|えいぎょう}を{担当|たんとう}する」, 「担当者」.\n- 受け持つ: thuần Nhật, mềm hơn, đặc biệt hay đi với **lớp học**: 「{三年|さんねん}{二組|にくみ}を{受|う}け{持|も}つ」.\nĐề 言い換え hay cho 受け持つ ≒ 担当する."
+    },
+    {
+      "title": "Bạn giả Hán Việt trong phòng thi: 答案・解答・問い・発表",
+      "body": "- **答案** (ĐÁP ÁN) = **bài làm** của thí sinh, có thể đúng hoặc sai: 「{答案|とうあん}を{出|だ}す」 (nộp bài), 「答案用紙」 (giấy làm bài).\n- \"Đáp án\" theo nghĩa tiếng Việt (lời giải đúng) = **正解** / **解答** / **模範解答**.\n- **問い** = câu hỏi trong đề hoặc câu hỏi lớn mang tính triết lý: 「{次|つぎ}の{問|と}いに{答|こた}えなさい」. Hỏi han thường ngày → 質問.\n- **採点** = chấm điểm (thầy làm). **評価** = đánh giá (rộng hơn: cả thái độ, quá trình).\n- **発表** = công bố / thuyết trình (không phải \"phát biểu ý kiến\" — đó là 発言).\n\nCâu nhớ: 「{先生|せんせい}は{答案|とうあん}を{採点|さいてん}し、{正解|せいかい}を{発表|はっぴょう}した」 — Thầy chấm bài làm rồi công bố đáp án."
+    },
+    {
+      "title": "成績・学力・評価・優れる",
+      "body": "- **成績** = **kết quả, điểm số** đo được (trên bảng điểm): 成績が上がる／下がる, 成績表. Cũng dùng cho kinh doanh, thể thao: 営業成績.\n- **学力** = **năng lực học** thực sự trong đầu: 学力が低下する, 基礎学力. Điểm cao chưa chắc học lực cao!\n- **評価する** = đánh giá; dùng một mình thường là đánh giá **tốt**: 「{彼|かれ}の{努力|どりょく}は{評価|ひょうか}されている」 = nỗ lực của anh ấy được ghi nhận.\n- **優れる** gần như chỉ dùng ở hai dạng: 「〜に**優れている**」 và 「**優れた**＋N」. Không nói 「優れる人」. Với sức khoẻ, tâm trạng chỉ dùng **phủ định**: 「{気分|きぶん}が{優|すぐ}れない」 (thấy không khoẻ). ✗ 「気分が優れたので出かけた」."
+    },
+    {
+      "title": "語形成: 今〜・〜目・〜学・〜学部/〜学科・参考〜",
+      "body": "- **今〜 (こん)**: \"… này\" — 今学期, 今年度, 今世紀, 今回, 今大会. Chú ý đọc **こん**, không phải いま.\n- **〜目 (め)**: biến số đếm thành **thứ tự** — 一時間目 (tiết 1), 三日目 (ngày thứ 3), 五番目 (thứ 5), 二回目 (lần thứ 2). So sánh: 三日 = ba ngày, 三日目 = ngày thứ ba.\n- **〜学 (がく)**: tên ngành — 物理学, 心理学, 経済学.\n- **〜学部 / 〜学科**: 学部 là **khoa lớn** (文学部, 法学部), 学科 là **ngành nhỏ** bên trong (英文学科). Thứ tự: 〇〇大学 → 文学部 → 英文学科. Chú ý 学科 đọc **がっか**.\n- **参考〜**: 参考文献 (tài liệu tham khảo của luận văn), 参考書 (sách tham khảo/luyện thi), 参考資料. Cụm 「参考になる」 = có ích để tham khảo."
+    },
+    {
+      "title": "Bốn phó từ: 必死に・ひとまず・次第に・めったに〜ない",
+      "body": "- **必死に**: dốc toàn lực, như thể sống còn — 「{必死|ひっし}に{逃|に}げる」, 「必死に勉強する」.\n- **ひとまず**: **tạm thời, trước mắt** — việc chưa xong hẳn nhưng dừng ở một mốc. 「ひとまず{休憩|きゅうけい}しよう」 ≒ とりあえず／いったん.\n- **次第に**: **dần dần** — đi với động từ biến đổi (〜てくる, 〜ていく, 〜なる). ≒ だんだん, 徐々に. ↔ 急に.\n- **めったに〜ない**: **hiếm khi** — bắt buộc có phủ định. 「めったに{怒|おこ}らない」. Dạng 「めったにない＋N」 = hiếm có.\n\nMẹo làm bài: thấy vế sau có **ない** và nghĩa \"ít khi\" → めったに. Thấy **てくる/ていく** → 次第に. Thấy \"trước hết, tạm\" → ひとまず."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "g10-q1",
+      "kind": "read",
+      "ref": "g10-w30",
+      "q": "{試験|しけん}{終了|しゅうりょう}のベルが{鳴|な}ったら、すぐに[[u:答案]]を{提出|ていしゅつ}してください。",
+      "options": [
+        "とうあん",
+        "こたえあん",
+        "とあん",
+        "どうあん"
+      ],
+      "answer": 0,
+      "vi": "Khi chuông hết giờ thi reo, hãy nộp bài làm ngay.",
+      "why": "答案 = **とうあん** (答 on-yomi とう, 案 あん). 「こたえあん」 trộn kun-yomi với on-yomi — không có. 「とあん」 thiếu trường âm; 「どうあん」 sai âm đục."
+    },
+    {
+      "id": "g10-q2",
+      "kind": "write",
+      "ref": "g10-w26",
+      "q": "{先生|せんせい}は{期末|きまつ}テストの[[u:さいてん]]に{追|お}われている。",
+      "options": [
+        "再点",
+        "採点",
+        "細点",
+        "際点"
+      ],
+      "answer": 1,
+      "vi": "Thầy đang bận tối mắt với việc chấm bài thi cuối kỳ.",
+      "why": "Chấm điểm = **採点** (採 = chọn, lấy). 再点・細点・際点 đều không phải từ; chúng chỉ mượn chữ cùng âm さい (再 = lại, 細 = nhỏ, 際 = lúc)."
+    },
+    {
+      "id": "g10-q3",
+      "kind": "context",
+      "ref": "g10-w12",
+      "q": "{今日|きょう}の{三時間目|さんじかんめ}は{先生|せんせい}の{都合|つごう}で（　　）になったので、{学生|がくせい}たちは{早|はや}めに{帰|かえ}った。",
+      "options": [
+        "欠席",
+        "自習",
+        "休講",
+        "休業"
+      ],
+      "answer": 2,
+      "vi": "Tiết ba hôm nay được nghỉ vì giảng viên có việc nên sinh viên về sớm.",
+      "why": "Giảng viên nghỉ dạy, buổi học bị hủy → **休講**. 「自習」 = vẫn ở lớp tự học, mâu thuẫn với 帰った. 「欠席」 là sinh viên vắng mặt, không phải do 先生の都合. 「休業」 dùng cho cửa hàng, công ty."
+    },
+    {
+      "id": "g10-q4",
+      "kind": "context",
+      "ref": "g10-w11",
+      "q": "この{授業|じゅぎょう}は{出席|しゅっせき}が{七割|ななわり}に{足|た}りないと、（　　）がもらえないので{注意|ちゅうい}してください。",
+      "options": [
+        "科目",
+        "時間割",
+        "専攻",
+        "単位"
+      ],
+      "answer": 3,
+      "vi": "Môn này nếu có mặt dưới 70% sẽ không được cấp tín chỉ, các bạn hãy chú ý.",
+      "why": "Cụm cố định 「**単位**がもらえる／を取る／を落とす」. 「科目」 là môn học, không \"được cấp\"; 「時間割」 = thời khóa biểu; 「専攻」 = chuyên ngành — đều không hợp với もらえない do thiếu buổi."
+    },
+    {
+      "id": "g10-q5",
+      "kind": "paraphrase",
+      "ref": "g10-w24",
+      "q": "{田中|たなか}{先生|せんせい}は{今年|ことし}、{一年生|いちねんせい}のクラスを[[u:受け持って]]いる。",
+      "options": [
+        "担当して",
+        "見学して",
+        "支持して",
+        "訪問して"
+      ],
+      "answer": 0,
+      "vi": "Năm nay cô Tanaka phụ trách lớp năm nhất.",
+      "why": "受け持つ = nhận phụ trách → ≒ **担当する**. 「見学する」 = đi tham quan học hỏi; 「支持する」 = ủng hộ; 「訪問する」 = đến thăm — không ai trong số này là \"phụ trách lớp\"."
+    },
+    {
+      "id": "g10-q6",
+      "kind": "usage",
+      "ref": "g10-w53",
+      "q": "{専攻|せんこう}",
+      "options": [
+        "彼はクラスの代表に専攻された。",
+        "大学では日本の近代史を専攻していた。",
+        "彼女は料理が専攻で、何でも上手に作る。",
+        "この会社は来年の新入社員を専攻している。"
+      ],
+      "answer": 1,
+      "vi": "(2) Ở đại học tôi học chuyên ngành lịch sử cận đại Nhật Bản.",
+      "why": "(2) 専攻 = học chuyên về một ngành → đúng. (1) được chọn làm đại diện → 選ばれた／選出された. (3) giỏi nấu ăn → 得意. (4) tuyển chọn nhân viên → 選考している (đồng âm khác chữ)."
+    },
+    {
+      "id": "g10-q7",
+      "kind": "context",
+      "ref": "g10-w76",
+      "q": "{祖父|そふ}は{穏|おだ}やかな{人|ひと}で、（　　）{怒|おこ}ることはなかった。",
+      "options": [
+        "次第に",
+        "ひとまず",
+        "必死に",
+        "めったに"
+      ],
+      "answer": 3,
+      "vi": "Ông tôi là người hiền hoà, hiếm khi nổi giận.",
+      "why": "Vế sau là phủ định 「〜ことはなかった」 và nghĩa \"hiếm khi\" → **めったに**. 「次第に」 (dần dần) cần động từ biến đổi; 「ひとまず」 (tạm thời) không hợp với tính cách lâu dài; 「必死に怒る」 vô nghĩa."
+    },
+    {
+      "id": "g10-q8",
+      "kind": "formation",
+      "ref": "g10-w66",
+      "q": "{合宿|がっしゅく}の{三日|みっか}（　　）は{雨|あめ}だったので、{室内|しつない}で{練習|れんしゅう}した。",
+      "options": [
+        "目",
+        "番",
+        "回",
+        "度"
+      ],
+      "answer": 0,
+      "vi": "Ngày thứ ba của đợt tập huấn trời mưa nên chúng tôi tập trong nhà.",
+      "why": "Biến \"ba ngày\" thành \"ngày **thứ** ba\" → hậu tố **〜目**: 三日目. 「番」 cần 〜番目 (三番目); 「三日回」「三日度」 không tồn tại."
+    },
+    {
+      "id": "g10-q9",
+      "kind": "paraphrase",
+      "ref": "g10-w56",
+      "q": "{専門家|せんもんか}の{意見|いけん}を{聞|き}いて{決|き}めたのだから、その{判断|はんだん}は[[u:妥当]]だと{思|おも}う。",
+      "options": [
+        "意外",
+        "適切",
+        "危険",
+        "強引"
+      ],
+      "answer": 1,
+      "vi": "Vì đã quyết định sau khi nghe ý kiến chuyên gia nên tôi nghĩ phán đoán đó là hợp lý.",
+      "why": "妥当 = hợp lý, thỏa đáng → ≒ **適切**. 「意外」 = bất ngờ; 「危険」 = nguy hiểm; 「強引」 = cưỡng ép, bất chấp — đều trái với ngữ cảnh \"đã hỏi chuyên gia\"."
+    }
+  ],
+  "practice": [
+    {
+      "id": "g10-p1",
+      "kind": "read",
+      "ref": "g10-w32",
+      "q": "{漢字|かんじ}は[[u:暗記]]するだけでなく、{実際|じっさい}に{書|か}いてみることが{大切|たいせつ}だ。",
+      "options": [
+        "あんぎ",
+        "おんき",
+        "あんき",
+        "あんじ"
+      ],
+      "answer": 2,
+      "vi": "Chữ Hán không chỉ học thuộc mà còn cần thực sự viết thử.",
+      "why": "暗記 = **あんき** (暗 あん, 記 き). 「あんぎ」 đục sai; 「おんき」 nhầm 暗 với 音; 「あんじ」 nhầm 記 với 示・字."
+    },
+    {
+      "id": "g10-p2",
+      "kind": "read",
+      "ref": "g10-w37",
+      "q": "この{車|くるま}は{燃費|ねんぴ}の{面|めん}で{他社|たしゃ}の{製品|せいひん}より[[u:優れて]]いる。",
+      "options": [
+        "ひいでて",
+        "すぐれて",
+        "まさって",
+        "ゆうれて"
+      ],
+      "answer": 1,
+      "vi": "Chiếc xe này vượt trội hơn sản phẩm của các hãng khác về mặt tiết kiệm nhiên liệu.",
+      "why": "優れる = **すぐれる**. 「ひいでる」 là cách đọc của 秀でる, 「まさる」 của 勝る — nghĩa gần nhưng chữ khác. 「ゆうれる」 không tồn tại (優 on-yomi là ゆう nhưng không làm động từ)."
+    },
+    {
+      "id": "g10-p3",
+      "kind": "write",
+      "ref": "g10-w53",
+      "q": "{彼|かれ}は{大学院|だいがくいん}で{環境|かんきょう}{経済学|けいざいがく}を[[u:せんこう]]している。",
+      "options": [
+        "選考",
+        "先攻",
+        "専行",
+        "専攻"
+      ],
+      "answer": 3,
+      "vi": "Anh ấy học chuyên ngành kinh tế môi trường ở cao học.",
+      "why": "Học chuyên ngành = **専攻** (専 = chuyên, 攻 = đi sâu vào). 「選考」 = tuyển chọn hồ sơ; 「先攻」 = đánh trước (thể thao); 「専行」 (独断専行 = tự ý làm) không mang nghĩa học."
+    },
+    {
+      "id": "g10-p4",
+      "kind": "write",
+      "ref": "g10-w55",
+      "q": "{有名|ゆうめい}な{作家|さっか}の{言葉|ことば}を[[u:いんよう]]して、スピーチを{始|はじ}めた。",
+      "options": [
+        "引用",
+        "飲用",
+        "印用",
+        "引要"
+      ],
+      "answer": 0,
+      "vi": "Tôi mở đầu bài phát biểu bằng cách trích dẫn câu nói của một nhà văn nổi tiếng.",
+      "why": "Trích dẫn = **引用** (引 = kéo, 用 = dùng → kéo lời người khác về dùng). 「飲用」 = để uống (飲用水); 「印用」「引要」 không phải từ."
+    },
+    {
+      "id": "g10-p5",
+      "kind": "context",
+      "ref": "g10-w5",
+      "q": "{兄|あに}は{今|いま}、{大学院|だいがくいん}に（　　）で、{来年|らいねん}{卒業|そつぎょう}する{予定|よてい}だ。",
+      "options": [
+        "進学中",
+        "在学中",
+        "専攻中",
+        "入学中"
+      ],
+      "answer": 1,
+      "vi": "Anh tôi hiện đang theo học cao học và dự định tốt nghiệp năm sau.",
+      "why": "\"Đang theo học tại trường\" = **在学中**. 「進学」「入学」 là hành động diễn ra một lần (vào trường) nên không thêm 中 kiểu này; 「専攻中」 cần tân ngữ ngành học (〜を専攻中) và không đi với 大学院に."
+    },
+    {
+      "id": "g10-p6",
+      "kind": "context",
+      "ref": "g10-w4",
+      "q": "{父|ちち}の{転勤|てんきん}が{決|き}まり、{私|わたし}は{二学期|にがっき}から{大阪|おおさか}の{中学校|ちゅうがっこう}に（　　）することになった。",
+      "options": [
+        "進学",
+        "留学",
+        "転校",
+        "通学"
+      ],
+      "answer": 2,
+      "vi": "Bố được điều chuyển công tác nên từ học kỳ hai tôi sẽ chuyển sang một trường cấp 2 ở Osaka.",
+      "why": "Giữa năm học, chuyển sang trường khác cùng cấp → **転校**. 「進学」 = lên cấp cao hơn; 「留学」 = du học nước ngoài; 「通学する」 chỉ việc đi học hằng ngày, không đi với 二学期から〜ことになった một cách hợp lý."
+    },
+    {
+      "id": "g10-p7",
+      "kind": "context",
+      "ref": "g10-w60",
+      "q": "{彼女|かのじょ}は{十年|じゅうねん}かけて{実験|じっけん}を{重|かさ}ね、ついに{自分|じぶん}の{説|せつ}が{正|ただ}しいことを（　　）した。",
+      "options": [
+        "証明",
+        "発明",
+        "表明",
+        "照明"
+      ],
+      "answer": 0,
+      "vi": "Cô ấy làm thí nghiệm suốt mười năm và cuối cùng đã chứng minh được thuyết của mình là đúng.",
+      "why": "Dùng thí nghiệm để cho thấy thuyết là đúng → **証明**. 「発明」 = phát minh (tạo ra vật mới); 「表明」 = bày tỏ (lập trường); 「照明」 = đèn chiếu sáng, đồng âm với 証明."
+    },
+    {
+      "id": "g10-p8",
+      "kind": "paraphrase",
+      "ref": "g10-w74",
+      "q": "{議論|ぎろん}が{長|なが}くなったので、[[u:ひとまず]]ここで{休憩|きゅうけい}にしましょう。",
+      "options": [
+        "いきなり",
+        "ようやく",
+        "とりあえず",
+        "いっそう"
+      ],
+      "answer": 2,
+      "vi": "Cuộc thảo luận đã kéo dài nên trước mắt hãy nghỉ giải lao ở đây.",
+      "why": "ひとまず = tạm thời, trước hết → ≒ **とりあえず**. 「いきなり」 = đột ngột; 「ようやく」 = mãi rồi cũng; 「いっそう」 = càng thêm."
+    },
+    {
+      "id": "g10-p9",
+      "kind": "paraphrase",
+      "ref": "g10-w75",
+      "q": "{三月|さんがつ}に{入|はい}って、[[u:次第に]]{日|ひ}が{長|なが}くなってきた。",
+      "options": [
+        "急に",
+        "やっと",
+        "さっそく",
+        "だんだん"
+      ],
+      "answer": 3,
+      "vi": "Sang tháng Ba, ngày dần dần dài ra.",
+      "why": "次第に = dần dần → ≒ **だんだん**. 「急に」 trái nghĩa (đột ngột); 「やっと」 = cuối cùng thì; 「さっそく」 = ngay lập tức."
+    },
+    {
+      "id": "g10-p10",
+      "kind": "usage",
+      "ref": "g10-w36",
+      "q": "{評価|ひょうか}",
+      "options": [
+        "明日の天気を評価して、傘を持っていくかどうか決めよう。",
+        "新しい部長は、部下の小さな努力もきちんと評価してくれる。",
+        "友達に旅行の計画を評価したら、すぐに賛成してくれた。",
+        "店員にこの服の値段を評価してもらった。"
+      ],
+      "answer": 1,
+      "vi": "(2) Trưởng phòng mới ghi nhận cả những nỗ lực nhỏ của cấp dưới.",
+      "why": "(2) 評価する = ghi nhận, đánh giá cao → đúng. (1) đoán thời tiết → 予想して. (3) đem kế hoạch ra bàn → 相談したら. (4) hỏi giá → 値段を聞いた／確認してもらった."
+    },
+    {
+      "id": "g10-p11",
+      "kind": "formation",
+      "ref": "g10-w70",
+      "q": "{私|わたし}は{文学部|ぶんがくぶ}{英文|えいぶん}（　　）の{二年生|にねんせい}で、{詩|し}を{研究|けんきゅう}しています。",
+      "options": [
+        "学級",
+        "学院",
+        "学会",
+        "学科"
+      ],
+      "answer": 3,
+      "vi": "Tôi là sinh viên năm hai ngành Văn học Anh, khoa Văn, đang nghiên cứu thơ.",
+      "why": "Đơn vị nhỏ bên trong 学部 là **学科** → 英文学科. 「学級」 = lớp học ở trường phổ thông; 「学院」 = học viện (tên trường); 「学会」 = hội nghị khoa học."
+    },
+    {
+      "id": "g10-p12",
+      "kind": "context",
+      "ref": "g10-w73",
+      "q": "{財布|さいふ}を{落|お}としたことに{気|き}づき、{来|き}た{道|みち}を（　　）{探|さが}した。",
+      "options": [
+        "必死に",
+        "めったに",
+        "ひとまず",
+        "次第に"
+      ],
+      "answer": 0,
+      "vi": "Nhận ra đã đánh rơi ví, tôi cuống cuồng tìm lại trên con đường vừa đi qua.",
+      "why": "Tình huống gấp, dốc hết sức → **必死に**. 「めったに」 cần phủ định; 「ひとまず探した」 (tạm tìm) không hợp với tâm trạng hoảng hốt; 「次第に」 cần động từ biến đổi."
+    },
+    {
+      "id": "g10-p13",
+      "kind": "usage",
+      "ref": "g10-w33",
+      "q": "{問|と}い",
+      "options": [
+        "道がわからなかったので、交番で問いをした。",
+        "次の文章を読んで、後の問いに答えなさい。",
+        "先生にわからないところを問いに行った。",
+        "彼の問いは、毎朝六時に起きることだ。"
+      ],
+      "answer": 1,
+      "vi": "(2) Hãy đọc đoạn văn sau và trả lời các câu hỏi phía sau.",
+      "why": "(2) 問い = câu hỏi trong đề thi → đúng. (1) không nói 「問いをする」 → 質問をした／道を聞いた. (3) đi hỏi → 質問しに行った／聞きに行った. (4) thói quen → 習慣."
+    }
+  ],
+  "test": [
+    {
+      "id": "g10-t1",
+      "kind": "read",
+      "ref": "g10-w1",
+      "q": "{登下校|とうげこう}の{時間|じかん}は、[[u:児童]]の{安全|あんぜん}のために{地域|ちいき}の{人|ひと}が{見守|みまも}っている。",
+      "options": [
+        "にどう",
+        "じどう",
+        "じど",
+        "こどう"
+      ],
+      "answer": 1,
+      "vi": "Vào giờ đi học và tan học, người dân trong vùng trông chừng để bảo đảm an toàn cho học sinh tiểu học.",
+      "why": "児童 = **じどう** (児 じ, 童 どう). 「にどう」 nhầm với âm に của 児 trong 小児 (しょうに) nhưng không dùng ở đây; 「じど」 thiếu trường âm; 「こどう」 nhầm theo nghĩa 子ども."
+    },
+    {
+      "id": "g10-t2",
+      "kind": "read",
+      "ref": "g10-w22",
+      "q": "{週末|しゅうまつ}のセミナーには、{外部|がいぶ}から[[u:講師]]を{招|まね}く{予定|よてい}だ。",
+      "options": [
+        "こうじ",
+        "きょうし",
+        "こし",
+        "こうし"
+      ],
+      "answer": 3,
+      "vi": "Buổi hội thảo cuối tuần dự định mời diễn giả từ bên ngoài.",
+      "why": "講師 = **こうし**. 「きょうし」 là cách đọc của 教師 — chữ khác. 「こうじ」 (工事 = thi công) sai âm đục; 「こし」 thiếu trường âm."
+    },
+    {
+      "id": "g10-t3",
+      "kind": "write",
+      "ref": "g10-w61",
+      "q": "{卒業|そつぎょう}[[u:ろんぶん]]の{締|し}め{切|き}りまで、あと{一か月|いっかげつ}しかない。",
+      "options": [
+        "論文",
+        "輪文",
+        "論分",
+        "倫文"
+      ],
+      "answer": 0,
+      "vi": "Chỉ còn một tháng nữa là hạn nộp khóa luận tốt nghiệp.",
+      "why": "Bài luận = **論文** (論 = bàn luận, có bộ 言). 「輪」 (bánh xe) và 「倫」 (luân lý) cùng phần 侖 nên dễ nhầm; 「論分」 sai chữ 文."
+    },
+    {
+      "id": "g10-t4",
+      "kind": "write",
+      "ref": "g10-w57",
+      "q": "{新|あたら}しい{薬|くすり}の{効果|こうか}を{確|たし}かめるため、[[u:じっけん]]を{繰|く}り{返|かえ}した。",
+      "options": [
+        "実検",
+        "実験",
+        "失験",
+        "実剣"
+      ],
+      "answer": 1,
+      "vi": "Để kiểm chứng hiệu quả của thuốc mới, chúng tôi lặp lại thí nghiệm nhiều lần.",
+      "why": "Thí nghiệm = **実験** (験 bộ 馬, như 試験・経験). 「検」 (bộ 木, như 検査) là lỗi hay gặp nhất; 「失験」「実剣」 không phải từ."
+    },
+    {
+      "id": "g10-t5",
+      "kind": "context",
+      "ref": "g10-w15",
+      "q": "（　　）によると、{木曜日|もくようび}の{二時間目|にじかんめ}は{化学|かがく}の{実験|じっけん}だ。",
+      "options": [
+        "教科書",
+        "単位",
+        "時間割",
+        "学期"
+      ],
+      "answer": 2,
+      "vi": "Theo thời khóa biểu, tiết hai thứ Năm là giờ thí nghiệm hóa.",
+      "why": "Biết tiết nào học môn gì → **時間割** (thời khóa biểu). 「教科書」 không ghi lịch học; 「単位」 = tín chỉ; 「学期」 = học kỳ, không cho biết thứ Năm tiết hai."
+    },
+    {
+      "id": "g10-t6",
+      "kind": "context",
+      "ref": "g10-w54",
+      "q": "レポートを{書|か}くときに{使|つか}った（　　）は、{最後|さいご}のページにまとめて{書|か}いてください。",
+      "options": [
+        "参考文献",
+        "答案",
+        "単位",
+        "時間割"
+      ],
+      "answer": 0,
+      "vi": "Các tài liệu tham khảo đã dùng khi viết báo cáo, hãy ghi gộp ở trang cuối.",
+      "why": "Danh mục tài liệu đã dùng, ghi cuối bài báo cáo → **参考文献**. 「単位」 = tín chỉ (thứ nhận được khi qua môn), không “dùng để viết” báo cáo; 「答案」 = bài làm thi; 「時間割」 = thời khóa biểu. (Lưu ý: 「参考書」 là sách luyện thi/bổ trợ cho học sinh, còn danh sách nguồn trong báo cáo, luận văn gọi là 参考文献.)"
+    },
+    {
+      "id": "g10-t7",
+      "kind": "paraphrase",
+      "ref": "g10-w13",
+      "q": "{先生|せんせい}が{会議|かいぎ}に{出|で}ているので、{今|いま}の{時間|じかん}は[[u:自習]]だ。",
+      "options": [
+        "授業がなくなり、学生は家に帰る",
+        "学生が自分たちで勉強する",
+        "別の先生が授業をする",
+        "学生が先生の手伝いをする"
+      ],
+      "answer": 1,
+      "vi": "Vì thầy đang họp nên giờ này lớp tự học.",
+      "why": "自習 = học sinh **tự học** (không có giáo viên dạy). (1) là 休講 — học sinh vẫn ở lớp chứ không về; (3) là 代講 (dạy thay); (4) không liên quan."
+    },
+    {
+      "id": "g10-t8",
+      "kind": "formation",
+      "ref": "g10-w69",
+      "q": "{人|ひと}の{心|こころ}の{働|はたら}きに{興味|きょうみ}があるので、{大学|だいがく}で{心理|しんり}（　　）を{学|まな}びたい。",
+      "options": [
+        "論",
+        "科",
+        "部",
+        "学"
+      ],
+      "answer": 3,
+      "vi": "Vì quan tâm đến hoạt động của tâm trí con người, tôi muốn học tâm lý học ở đại học.",
+      "why": "Tên ngành học = N + **学** → 心理学. 「心理論」「心理部」 không phải tên ngành; 「〜科」 thường cần 学科 (心理学科) chứ 「心理科」 không dùng để chỉ môn học ở đại học."
+    },
+    {
+      "id": "g10-t9",
+      "kind": "usage",
+      "ref": "g10-w37",
+      "q": "{優|すぐ}れる",
+      "options": [
+        "今日は気分が優れたので、久しぶりに散歩に出かけた。",
+        "彼は来月、課長から部長に優れる予定だ。",
+        "この地域は昔から、質の優れたお茶の産地として知られている。",
+        "テストの点数が前回より十点優れた。"
+      ],
+      "answer": 2,
+      "vi": "(3) Vùng này từ xưa đã nổi tiếng là nơi sản xuất trà chất lượng vượt trội.",
+      "why": "(3) 優れた＋N = xuất sắc → đúng. (1) với 気分 chỉ dùng phủ định 「優れない」 → 気分がよかった. (2) lên chức → 昇進する. (4) điểm tăng → 上がった."
+    },
+    {
+      "id": "g10-t10",
+      "kind": "context",
+      "ref": "g10-w58",
+      "q": "{会議|かいぎ}で{出|で}た{意見|いけん}を（　　）、{部長|ぶちょう}に{報告書|ほうこくしょ}を{提出|ていしゅつ}した。",
+      "options": [
+        "まとめて",
+        "証明して",
+        "暗記して",
+        "引用して"
+      ],
+      "answer": 0,
+      "vi": "Tôi tổng hợp các ý kiến nêu ra trong cuộc họp rồi nộp báo cáo cho trưởng phòng.",
+      "why": "Gom nhiều ý kiến thành một báo cáo → **まとめて** (意見をまとめる). 「証明して」 = chứng minh; 「暗記して」 = học thuộc; 「引用して」 = trích dẫn — không phù hợp với việc làm báo cáo từ ý kiến cuộc họp."
+    },
+    {
+      "id": "g10-t11",
+      "kind": "usage",
+      "ref": "g10-w76",
+      "q": "めったに",
+      "options": [
+        "彼はめったに遅刻するので、いつも先生に注意されている。",
+        "めったに頑張れば、きっと合格できるだろう。",
+        "今日はめったに暑くて、何もする気にならない。",
+        "この辺りでは、冬でも雪はめったに降らない。"
+      ],
+      "answer": 3,
+      "vi": "(4) Vùng này ngay cả mùa đông cũng hiếm khi có tuyết.",
+      "why": "めったに phải đi với phủ định → (4) 「めったに降らない」 đúng. (1) khẳng định, ý \"hay\" → よく／しょっちゅう遅刻する. (2) cố gắng hết sức → 必死に／一生懸命. (3) nóng khủng khiếp → ひどく／やけに暑くて."
+    }
+  ]
+}

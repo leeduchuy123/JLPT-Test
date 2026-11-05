@@ -1,0 +1,206 @@
+{
+  "id": "b02",
+  "track": "bunpo",
+  "intro": "Bài này gom 6 mẫu đều nói về một việc **đang diễn ra / đang trong quá trình**. Có thể chia thành ba nhóm:\n\n- **Nhóm \"đang giữa chừng\"**: 〜最中だ, 〜うちに. Một hành động đang diễn ra thì có chuyện xảy ra (最中: chuyện bất ngờ chen ngang; うちに: thay đổi dần dần), hoặc \"nhân lúc còn… thì làm ngay\" (うちに).\n- **Nhóm \"xu hướng thay đổi\"**: 〜ばかりだ・〜一方だ (cứ thế một chiều, thường là xấu đi), 〜つつある (đang dần dần thay đổi), 〜(よ)うとしている (sắp sửa thay đổi ngay trước mắt). Ba mẫu này đều đi với **động từ chỉ sự biến đổi** (増える, 減る, 変わる, 始まる…).\n- **Nhóm \"đồng thời\"**: 〜つつ = 〜ながら nhưng là văn viết.\n\nĐiểm then chốt để không mất điểm: **nhìn dạng nối**. 一方だ／ばかりだ đi với **V辞書形** (増える一方だ), つつある／つつ đi với **Vます形** (増えつつある), (よ)うとしている đi với **thể ý hướng** (始まろうとしている), 最中 đi với **Vている／Nの**. Rất nhiều câu trong đề chỉ cần kiểm tra dạng nối là loại được 2–3 phương án.",
+  "points": [
+    {
+      "id": "b02-1",
+      "pattern": "〜最中だ",
+      "reading": "〜さいちゅうだ",
+      "meaning": "Đúng lúc đang giữa chừng…, đang lúc cao điểm của…",
+      "structure": ["N ＋ の ＋ 最中だ／最中に", "Vている ＋ 最中だ／最中に", "真っ最中 (nhấn mạnh: đúng giữa lúc…)"],
+      "explain": "「最中」 (đọc là **さいちゅう**) nghĩa đen là \"chính giữa\". 「〜の最中」 = **đúng lúc một việc đang diễn ra sôi nổi nhất, đang làm dở**. Nó giống 「〜ているところだ」 nhưng mạnh hơn: nhấn mạnh việc đó **đang ở giữa chừng, chưa xong**.\n\nHai cách dùng chính:\n- **〜最中に、+ sự việc bất ngờ**: đang làm dở thì có chuyện **chen ngang, phá đám** (điện thoại reo, mất điện, mưa đổ, khách đến…). Đây là cách dùng hay gặp nhất trong đề.\n- **〜最中だ (cuối câu)**: \"đang dở việc\" — thường để giải thích lý do **không thể làm việc khác / đừng làm phiền**: 「今、会議の最中だから、後で電話して」.\n\nHình dung: bạn đang hát karaoke **say sưa nhất** thì mất điện — đó chính là 「歌っている最中に停電した」.",
+      "nuance": "- Dùng cho **hoạt động đang diễn ra có đầu có cuối** (họp, thi, ăn, nấu, phát biểu, trận đấu, điều tra…). **Không** dùng cho trạng thái kéo dài kiểu sống ở đâu, làm ở công ty nào, du học một năm: ✗ 「東京に住んでいる最中に」.\n- Không nhầm với 「もなか」 (cũng viết 最中) là một loại bánh kẹo Nhật.\n- Dùng được cả văn nói lẫn văn viết; 「真っ最中」 nghe khẩu ngữ, nhấn mạnh hơn.",
+      "examples": [
+        {"ja": "{会議|かいぎ}の{最中|さいちゅう}に、{携帯|けいたい}が{鳴|な}り{出|だ}して{恥|は}ずかしい{思|おも}いをした。", "vi": "Đang giữa cuộc họp thì điện thoại reo lên, xấu hổ quá.", "note": "N の最中に + sự cố bất ngờ"},
+        {"ja": "{料理|りょうり}をしている{最中|さいちゅう}に、{突然|とつぜん}ガスが{止|と}まってしまった。", "vi": "Đang nấu ăn dở thì đột nhiên bị mất ga.", "note": "Vている + 最中に"},
+        {"ja": "ただいま{原因|げんいん}を{調査|ちょうさ}している{最中|さいちゅう}ですので、もうしばらくお{待|ま}ちください。", "vi": "Hiện chúng tôi đang trong quá trình điều tra nguyên nhân, xin quý khách vui lòng chờ thêm ít phút.", "note": "最中だ cuối câu: giải thích tình trạng đang dở"},
+        {"ja": "{兄|あに}は{今|いま}、{受験|じゅけん}{勉強|べんきょう}の{真|ま}っ{最中|さいちゅう}だから、{静|しず}かにしてあげて。", "vi": "Anh trai đang ôn thi nước rút, nên giữ yên lặng cho anh ấy nhé.", "note": "真っ最中 = đúng lúc cao điểm"},
+        {"ja": "{試合|しあい}の{最中|さいちゅう}に{雷|かみなり}が{鳴|な}り{始|はじ}め、{試合|しあい}は{一時|いちじ}{中断|ちゅうだん}となった。", "vi": "Giữa trận đấu sấm bắt đầu nổ, nên trận đấu bị tạm dừng.", "note": "Văn tin tức"}
+      ],
+      "compare": [
+        {"with": "〜ているところだ (N4)", "diff": "「ているところだ」 chỉ trung tính \"đang làm\". 「最中だ」 nhấn mạnh **đang ở giữa chừng, cao điểm**, và 「最中に」 gần như luôn kèm một chuyện **chen ngang bất ngờ**."},
+        {"with": "〜うちに", "diff": "「〜ているうちに」 = đang làm A thì **dần dần, tự nhiên** thay đổi B (quen dần, buồn ngủ dần). 「〜最中に」 = đang làm A thì **đột ngột** có B cắt ngang."},
+        {"with": "〜間に", "diff": "「間に」 = trong khoảng thời gian (dài ngắn đều được, kể cả trạng thái: 留守の間に, 日本にいる間に). 「最中に」 chỉ dùng cho một **hoạt động đang sôi nổi**."}
+      ],
+      "mistakes": [
+        "✗ {東京|とうきょう}に{住|す}んでいる{最中|さいちゅう}に、{富士山|ふじさん}に{登|のぼ}った。→ ○ 東京に住んでいる間に、… (trạng thái kéo dài)",
+        "✗ {会議|かいぎ}{最中|さいちゅう}に → ○ 会議の最中に (danh từ cần の)",
+        "✗ {掃除|そうじ}する{最中|さいちゅう}に → ○ 掃除している最中に (động từ phải ở dạng ている)"
+      ],
+      "tip": "Vế sau là chuyện **phá đám bất ngờ** (電話が鳴る・停電・雨が降り出す・地震・客が来る) → 「最中に」. Phương án nhiễu hay gặp: dùng 最中 với trạng thái kéo dài (留学している・勤めている・住んでいる) — loại ngay."
+    },
+    {
+      "id": "b02-2",
+      "pattern": "〜うちに",
+      "reading": "〜うちに",
+      "meaning": "A: Nhân lúc còn… (làm ngay kẻo muộn) / B: Trong lúc đang… thì (dần dần, lúc nào không hay) …",
+      "structure": ["A: N ＋ の／い形 ＋ い／な形 ＋ な／V辞書形・Vている・Vない ＋ うちに", "B: V辞書形・Vている・Vない ＋ うちに", "知らないうちに／気づかないうちに (lúc nào không hay)"],
+      "explain": "「うち」 = \"bên trong\" một khoảng thời gian. Mẫu này có **hai nghĩa khác nhau**, phân biệt bằng **vế sau**.\n\n**A. Nhân lúc còn… thì làm (tranh thủ)**\nTrạng thái A **rồi sẽ mất đi**, và khi nó mất đi thì việc B sẽ **khó làm / không làm được nữa**, nên làm B ngay **trong lúc A còn**. Vế sau là **hành động có ý chí**: 〜よう, 〜たい, 〜ておく, 〜てください, 〜なければ.\n- 「若いうちに」 = nhân lúc còn trẻ (già rồi thì khó).\n- 「熱いうちに」 = nhân lúc còn nóng (nguội thì mất ngon).\n- **Vないうちに** = \"trước khi (chuyện không mong muốn) xảy ra\": 「雨が降らないうちに帰ろう」 = về thôi kẻo mưa. Mẹo: muốn nói \"trước khi mưa\" thì dùng **phủ định** 降らないうちに, không phải 降るうちに.\n\n**B. Đang làm A (kéo dài) thì B thay đổi lúc nào không hay**\nTrong lúc A đang diễn ra / lặp đi lặp lại, B **tự nhiên, dần dần** thay đổi. Vế sau là **biến đổi không có ý chí**: 〜てくる, 〜ようになる, 〜てしまう, 〜なる.\n- 「話しているうちに、仲良くなった」 = nói chuyện một hồi thì thân nhau lúc nào không hay.\n- 「知らないうちに」 = lúc nào không biết.",
+      "nuance": "- Phía trước うちに phải là thứ **có độ dài thời gian** (còn trẻ, còn sáng, đang đọc, chưa quên…), không phải hành động tức thời: ✗ 「日本に来るうちに」.\n- Nghĩa A: vế sau là ý chí/mong muốn của người nói. Nghĩa B: vế sau là sự thay đổi người nói không chủ động làm.\n- Nghĩa A hàm ý **\"nếu đợi thì sẽ muộn\"** — đây là khác biệt với 「〜前に」 (chỉ đơn thuần thứ tự trước–sau).",
+      "examples": [
+        {"ja": "{日|ひ}が{暮|く}れないうちに、{山|やま}を{下|お}りよう。", "vi": "Xuống núi thôi, kẻo trời tối.", "note": "A · Vないうちに = trước khi (điều không mong muốn) xảy ra"},
+        {"ja": "{若|わか}いうちに、いろいろな{国|くに}を{旅|たび}しておきたい。", "vi": "Tôi muốn đi du lịch nhiều nước nhân lúc còn trẻ.", "note": "A · い形 + うちに, vế sau là mong muốn"},
+        {"ja": "{記憶|きおく}が{新|あたら}しいうちに、{会議|かいぎ}の{内容|ないよう}をまとめておこう。", "vi": "Nhân lúc còn nhớ rõ, mình tóm tắt nội dung cuộc họp luôn đi.", "note": "A · 〜ておこう: chuẩn bị trước"},
+        {"ja": "{毎日|まいにち}{通|かよ}っているうちに、{店|みせ}の{人|ひと}とすっかり{顔|かお}なじみになった。", "vi": "Ngày nào cũng ghé nên dần dần tôi thành người quen của nhân viên quán lúc nào không hay.", "note": "B · hành động lặp lại → thay đổi tự nhiên"},
+        {"ja": "{本|ほん}を{読|よ}んでいるうちに、いつの{間|ま}にか{眠|ねむ}ってしまった。", "vi": "Đang đọc sách thì ngủ thiếp đi lúc nào không biết.", "note": "B · 〜てしまった: không có ý chí"},
+        {"ja": "{知|し}らないうちに、{子|こ}どもたちはずいぶん{大|おお}きくなっていた。", "vi": "Lúc nào không hay, bọn trẻ đã lớn lên nhiều rồi.", "note": "B · cụm cố định 知らないうちに"}
+      ],
+      "compare": [
+        {"with": "〜前に", "diff": "「前に」 chỉ nói thứ tự: làm B trước A. 「うちに」 (nghĩa A) thêm cảm giác **\"tranh thủ kẻo muộn\"**. 「日本に来る前に勉強した」 ○, 「日本に来るうちに」 ✗."},
+        {"with": "〜間に", "diff": "「間に」 = trong khoảng thời gian đó có việc gì xảy ra (留守の間に泥棒に入られた). 「うちに」 nghĩa B nhấn vào **sự thay đổi dần dần** trong khoảng đó."},
+        {"with": "〜最中に", "diff": "「最中に」 = đang làm dở thì **đột ngột** bị chen ngang. 「うちに」 nghĩa B = **từ từ, tự nhiên** thay đổi."}
+      ],
+      "mistakes": [
+        "✗ {雨|あめ}が{降|ふ}るうちに{帰|かえ}ろう。→ ○ 雨が降らないうちに帰ろう。(muốn về \"trước khi mưa\" → dùng thể phủ định)",
+        "✗ {日本|にほん}に{来|く}るうちに、ひらがなを{覚|おぼ}えた。→ ○ 日本に来る前に、… (来る là hành động tức thời)"
+      ],
+      "tip": "Nhìn vế sau: **ý chí** (〜よう・〜たい・〜ておく・〜てください) → nghĩa A \"nhân lúc còn\". **Thay đổi tự nhiên** (〜てきた・〜ようになった・〜てしまった) + vế trước là việc kéo dài/lặp lại → nghĩa B. Câu chọn dạng động từ trước うちに: muốn nói \"trước khi X xảy ra\" thì chọn **Xない**."
+    },
+    {
+      "id": "b02-3",
+      "pattern": "〜ばかりだ・〜一方だ",
+      "reading": "〜ばかりだ・〜いっぽうだ",
+      "meaning": "Cứ ngày càng… (thay đổi theo một chiều, thường là xấu đi)",
+      "structure": ["V辞書形 ＋ ばかりだ", "V辞書形 ＋ 一方だ", "V辞書形 ＋ 一方の ＋ N (増える一方の借金)"],
+      "explain": "「一方」 = **một phía, một hướng**. 「〜一方だ」 = sự việc **cứ thế tiến về một hướng**, không dừng lại, không quay đầu. 「〜ばかりだ」 cũng vậy: \"**chỉ toàn** là tiến theo chiều đó\".\n\nHình dung một mũi tên chỉ đi lên (hoặc đi xuống) mãi: giá cả 「上がる一方だ」, dân số 「減る一方だ」, quan hệ 「悪くなるばかりだ」.\n\n- Động từ phía trước phải là **động từ chỉ sự biến đổi**: 増える・減る・上がる・下がる・広がる・高まる・悪化する・〜くなる・〜になる…\n- **ばかりだ**: đa số trường hợp dùng cho chiều **xấu đi**, có giọng than thở, lo lắng.\n- **一方だ**: cũng thường là chiều xấu, nhưng dùng được cho chiều tốt / trung tính (売り上げは伸びる一方だ), giọng khách quan hơn, hay gặp trong tin tức, báo cáo.",
+      "nuance": "- Diễn tả **xu hướng tiếp diễn**, không dùng cho một thay đổi xảy ra một lần.\n- Luôn là **V辞書形**: ✗ 増えた一方だ.\n- Đừng nhầm với các ばかり khác: 「Vたばかり」 = vừa mới, 「Nばかり」 = toàn là, 「Vてばかりいる」 = chỉ toàn làm…; và 「〜一方(で)、〜」 ở giữa câu = \"mặt khác\".",
+      "examples": [
+        {"ja": "{円安|えんやす}の{影響|えいきょう}で、{生活費|せいかつひ}は{上|あ}がる{一方|いっぽう}だ。", "vi": "Do ảnh hưởng của đồng yên yếu, chi phí sinh hoạt cứ tăng mãi.", "note": "一方だ · văn tin tức"},
+        {"ja": "{薬|くすり}を{飲|の}んでも、{熱|ねつ}は{上|あ}がるばかりだった。", "vi": "Dù đã uống thuốc nhưng cơn sốt chỉ càng lúc càng tăng.", "note": "ばかりだ · giọng lo lắng"},
+        {"ja": "{若者|わかもの}が{都会|とかい}へ{出|で}ていくため、この{町|まち}の{人口|じんこう}は{減|へ}る{一方|いっぽう}だ。", "vi": "Vì người trẻ cứ lên thành phố, dân số thị trấn này giảm mãi không ngừng.", "note": "減る一方だ · xu hướng không dừng lại"},
+        {"ja": "{二人|ふたり}の{関係|かんけい}は、{話|はな}し{合|あ}うたびに{悪|わる}くなるばかりだ。", "vi": "Quan hệ của hai người cứ mỗi lần nói chuyện lại càng tệ hơn.", "note": "〜くなる + ばかりだ"},
+        {"ja": "オンライン{授業|じゅぎょう}の{需要|じゅよう}は、{今後|こんご}も{高|たか}まる{一方|いっぽう}だろう。", "vi": "Nhu cầu học trực tuyến có lẽ từ nay về sau vẫn sẽ tiếp tục tăng.", "note": "一方だ dùng được cho chiều trung tính / tích cực"}
+      ],
+      "compare": [
+        {"with": "〜つつある", "diff": "「つつある」 = **đang trong quá trình** thay đổi (trung tính, chỉ nói đang dần dần). 「一方だ」 = **cứ một chiều không dừng**, thường kèm lo ngại. Dạng nối cũng khác: 増え**つつある** (ます形) / 増える**一方だ** (辞書形)."},
+        {"with": "〜ばかりか／Vたばかり／Vてばかりいる", "diff": "Chỉ 「**V辞書形 + ばかりだ**」 mới là \"ngày càng…\". 「食べたばかり」 = vừa ăn xong; 「遊んでばかりいる」 = chỉ toàn chơi; 「〜ばかりか」 (6課) = không những… mà còn."},
+        {"with": "〜一方(で)、〜", "diff": "Ở giữa câu, 「Aする一方で、B」 thường là **\"mặt khác\"** (đối lập A–B): 「収入が増える一方で、支出も増えた」. Ở cuối câu, 「〜一方だ」 mới chắc chắn là \"ngày càng\"."}
+      ],
+      "mistakes": [
+        "✗ {交通費|こうつうひ}は{値上|ねあ}がりした{一方|いっぽう}だ。→ ○ 値上がりする一方だ。(phải là V辞書形)",
+        "✗ {毎日|まいにち}{勉強|べんきょう}する{一方|いっぽう}だ。→ động từ không chỉ sự biến đổi; muốn nói \"chỉ toàn học\" thì dùng 勉強してばかりいる",
+        "△ {彼|かれ}の{日本語|にほんご}は{上手|じょうず}になるばかりだ。→ ばかりだ mang sắc thái xấu nên nghe lạ; ○ どんどん上手になっている"
+      ],
+      "tip": "Chỗ trống đứng sau **động từ biến đổi ở dạng 辞書形** + bối cảnh xấu đi liên tục (物価・人口減少・悪化・病状) → 「一方だ／ばかりだ」. Nếu động từ đứng trước ở dạng ます形 (増え・減り) → không phải mẫu này, mà là 「つつある」."
+    },
+    {
+      "id": "b02-4",
+      "pattern": "〜(よ)うとしている",
+      "reading": "〜(よ)うとしている",
+      "meaning": "Sắp sửa…, đang ngay trước lúc… (một thay đổi sắp xảy ra)",
+      "structure": ["V意向形 (う・よう形) ＋ としている", "V意向形 ＋ としていた／とした ＋ とき・ところに"],
+      "explain": "Nghĩa đen: \"đang **định** (よう) trở thành…\" → dùng cho **sự vật, tình huống** thì thành nghĩa **\"sắp sửa, chỉ còn một chút nữa là…\"**. Hình dung kim đồng hồ chỉ còn vài giây là chạm 12 giờ: 「今、新しい年が始まろうとしている」.\n\n- Thường đi với **động từ xảy ra trong tích tắc / đánh dấu một bước ngoặt**: 始まる・終わる・沈む・開く・閉まる・生まれる・明ける・経つ…\n- Hay đi kèm 「今まさに」「まもなく」「もうすぐ」.\n- Dạng 「〜(よ)うとしていた／とした とき・ところに」 = \"ngay lúc **vừa định / sắp sửa** … thì …\": 「家を出ようとしたとき、電話が鳴った」. Ở dạng này chủ ngữ có thể là người (= vừa định làm).",
+      "nuance": "- Đây là **cách nói cứng, văn viết** (tiểu thuyết, tin tức, diễn văn). Hội thoại hằng ngày nói 「もうすぐ始まる」「〜ところだ」.\n- Thể ý hướng phải chia đúng: 始まる → 始まろう, 終わる → 終わろう, 沈む → 沈もう, 開ける → 開けよう, する → しよう.\n- Với động từ hành động của người ở hiện tại (「彼は本を読もうとしている」), nghĩa thường hiểu là **\"định / cố gắng làm\"** chứ không còn là \"sắp thay đổi\".",
+      "examples": [
+        {"ja": "{長|なが}かった{夏休|なつやす}みも、もうすぐ{終|お}わろうとしている。", "vi": "Kỳ nghỉ hè dài cũng sắp sửa kết thúc rồi.", "note": "終わる → 終わろう"},
+        {"ja": "{太陽|たいよう}が{西|にし}の{海|うみ}に{沈|しず}もうとしている。", "vi": "Mặt trời đang sắp lặn xuống biển phía tây.", "note": "Văn miêu tả, chủ ngữ là sự vật"},
+        {"ja": "{彼|かれ}がこの{会社|かいしゃ}に{入|はい}って、まもなく20{年|ねん}が{経|た}とうとしている。", "vi": "Anh ấy vào công ty này, chẳng mấy chốc nữa là tròn 20 năm.", "note": "経つ → 経とう; まもなく + (よ)うとしている"},
+        {"ja": "{電車|でんしゃ}のドアが{閉|し}まろうとしたとき、{一人|ひとり}の{男性|だんせい}が{駆|か}け{込|こ}んできた。", "vi": "Đúng lúc cửa tàu sắp đóng thì một người đàn ông lao vào.", "note": "〜ようとしたとき: ngay trước khoảnh khắc đó"},
+        {"ja": "{家|いえ}を{出|で}ようとしていたところに、{宅配便|たくはいびん}が{届|とど}いた。", "vi": "Đúng lúc tôi vừa định ra khỏi nhà thì hàng chuyển phát tới.", "note": "Chủ ngữ là người → \"vừa định làm\""},
+        {"ja": "AIの{登場|とうじょう}によって、{働|はたら}き{方|かた}は{大|おお}きな{転換点|てんかんてん}を{迎|むか}えようとしている。", "vi": "Với sự xuất hiện của AI, cách làm việc sắp bước vào một bước ngoặt lớn.", "note": "Văn báo chí"}
+      ],
+      "compare": [
+        {"with": "〜つつある", "diff": "「つつある」: thay đổi **đã bắt đầu và đang tiến triển** (回復しつつある). 「(よ)うとしている」: thay đổi **chưa xảy ra**, đang ở ngay sát mép."},
+        {"with": "V辞書形 + ところだ (N4)", "diff": "「出かけるところだ」 = sắp đi (văn nói, thường là hành động của người). 「(よ)うとしている」 = cứng hơn, hay dùng cho sự vật, thời gian, thời đại."}
+      ],
+      "mistakes": [
+        "✗ {桜|さくら}が{咲|さ}くとしている。→ ○ 桜が咲こうとしている。(phải dùng thể ý hướng)",
+        "△ {会議|かいぎ}が{始|はじ}まろうとしているから、{早|はや}く{来|き}て。→ đúng ngữ pháp nhưng quá cứng cho hội thoại; ○ もうすぐ始まるから、早く来て。",
+        "✗ {物価|ぶっか}が{少|すこ}しずつ{上|あ}がろうとしている。→ ○ 物価が少しずつ上がりつつある。(thay đổi từ từ, kéo dài → つつある; (よ)うとしている dành cho thay đổi xảy ra trong khoảnh khắc)"
+      ],
+      "tip": "Thấy 「まさに・まもなく・もうすぐ」 + động từ tức thời (始まる・終わる・沈む・閉まる) và chỗ trống ở cuối → 「(よ)うとしている」. Kiểm tra phương án có chia đúng thể ý hướng (〜ろう・〜もう・〜よう) hay không."
+    },
+    {
+      "id": "b02-5",
+      "pattern": "〜つつある",
+      "reading": "〜つつある",
+      "meaning": "Đang dần dần…, đang trong quá trình… (thay đổi đang tiến triển)",
+      "structure": ["Vます形 (bỏ ます) ＋ つつある", "Vます形 ＋ つつあった (quá khứ)"],
+      "explain": "Diễn tả một **sự thay đổi đang tiến triển từng chút một**, chưa kết thúc. Hình dung **thanh tiến trình (progress bar)** đang chạy: 30%… 50%… 70%…\n\n- Đi với **động từ chỉ sự biến đổi**: 回復する・増える・減る・変わる・広がる・進む・近づく・失われる・定着する…\n- Hay đi kèm trạng từ chỉ sự từ từ: 「次第に」「徐々に」「少しずつ」「着実に」「確実に」.\n- Gần nghĩa với 「〜てきている」 nhưng **cứng hơn nhiều**: tin tức, báo cáo, luận văn, diễn văn.",
+      "nuance": "- Văn viết, trang trọng. Hội thoại thường nói 「増えてきている」「よくなってきた」.\n- **Không** dùng với hành động bình thường của người (食べる, 読む, 歩く): ✗ 「今ご飯を食べつつある」 → ○ 食べている.\n- Không dùng cho việc sẽ xảy ra trong tương lai (✗ 来月開きつつある).\n- Dạng nối là **ます形**: 増え**つつある**, 回復し**つつある** — không phải 増えるつつある.",
+      "examples": [
+        {"ja": "{大型|おおがた}の{台風|たいふう}が{九州|きゅうしゅう}に{近|ちか}づきつつある。", "vi": "Một cơn bão lớn đang dần tiến gần Kyushu.", "note": "近づく → 近づき + つつある · bản tin thời tiết"},
+        {"ja": "{父|ちち}の{病状|びょうじょう}は{少|すこ}しずつ{回復|かいふく}しつつある。", "vi": "Bệnh tình của bố đang hồi phục từng chút một.", "note": "する → し + つつある"},
+        {"ja": "{地方|ちほう}の{伝統|でんとう}{行事|ぎょうじ}が、{担|にな}い{手|て}{不足|ぶそく}で{失|うしな}われつつある。", "vi": "Các lễ hội truyền thống ở địa phương đang dần mai một vì thiếu người kế thừa.", "note": "Thể bị động 失われる cũng dùng được"},
+        {"ja": "キャッシュレス{決済|けっさい}が、{若者|わかもの}を{中心|ちゅうしん}に{急速|きゅうそく}に{広|ひろ}がりつつある。", "vi": "Thanh toán không tiền mặt đang lan rộng nhanh chóng, chủ yếu trong giới trẻ.", "note": ""},
+        {"ja": "{当時|とうじ}、{人々|ひとびと}の{価値観|かちかん}は{大|おお}きく{変|か}わりつつあった。", "vi": "Thời đó, quan niệm giá trị của mọi người đang thay đổi lớn.", "note": "つつあった: quá trình đang diễn ra trong quá khứ"}
+      ],
+      "compare": [
+        {"with": "〜一方だ・〜ばかりだ", "diff": "「一方だ」 = cứ một chiều không dừng, thường mang lo ngại; nối với **辞書形**. 「つつある」 = khách quan, chỉ nói \"đang dần dần\"; nối với **ます形**."},
+        {"with": "〜(よ)うとしている", "diff": "「(よ)うとしている」 = **sắp** xảy ra (chưa bắt đầu). 「つつある」 = **đã bắt đầu và đang tiến triển**."},
+        {"with": "〜つつ", "diff": "「つつ」 (không có ある) = \"vừa… vừa…\" (= ながら), hoàn toàn khác nghĩa. Mẹo: câu **kết thúc** ngay sau đó → つつある; câu **còn tiếp** (、…) → つつ."}
+      ],
+      "mistakes": [
+        "✗ {人口|じんこう}が{増|ふ}えるつつある。→ ○ 増えつつある。(ます形)",
+        "✗ {彼|かれ}は{今|いま}、{部屋|へや}で{本|ほん}を{読|よ}みつつある。→ ○ 本を読んでいる。(hành động thường, không phải sự biến đổi)"
+      ],
+      "tip": "Thấy 「次第に・徐々に・着実に・少しずつ」 hoặc chủ đề tin tức (景気・環境・人口・技術) + động từ biến đổi ở **ます形** đứng trước chỗ trống → 「つつある」."
+    },
+    {
+      "id": "b02-6",
+      "pattern": "〜つつ",
+      "reading": "〜つつ",
+      "meaning": "Vừa… vừa… (= ながら, văn viết)",
+      "structure": ["Vます形 (bỏ ます) ＋ つつ"],
+      "explain": "「〜つつ」 chính là 「〜ながら」 phiên bản **văn viết, trang trọng**: làm A **đồng thời** làm B. Hành động chính là B, A là hành động đi kèm.\n\n- Hai vế phải **cùng một chủ ngữ** (cùng một người vừa làm A vừa làm B).\n- Động từ thường là hành động **có thời lượng**, hay là hoạt động trí óc: 考える・悩む・確認する・楽しむ・眺める・話し合う・意識する…\n- Hay gặp trong văn bản công việc, diễn văn: 「皆様のご意見を伺いつつ、計画を進めてまいります」.\n\nLưu ý: 「つつ」 còn một nghĩa nữa là **\"mặc dù\"** (thường ở dạng 「つつ(も)」, học ở 14課): 「悪いと知りつつ、やってしまった」 = biết là xấu nhưng vẫn làm.",
+      "nuance": "- Văn viết, cứng. Trong hội thoại thân mật dùng 「ながら」 (「音楽を聞きながら勉強する」), dùng 「つつ」 sẽ nghe như đọc văn bản.\n- Không dùng khi hai vế có hai chủ ngữ khác nhau.\n- Động từ trước つつ phải là hành động **kéo dài một khoảng thời gian** (考える, こぐ, 眺める, 話し合う). Động từ xảy ra trong tích tắc như 座る, 乗る, 立つ không dùng được: ✗「{椅子|いす}に{座|すわ}りつつ、{本|ほん}を{読|よ}んだ」 → ○ 椅子に座って本を読んだ.\n- Dạng nối là ます形: 考え**つつ**, 確認し**つつ** (không phải 考えるつつ).",
+      "examples": [
+        {"ja": "{周囲|しゅうい}の{意見|いけん}も{聞|き}きつつ、{慎重|しんちょう}に{判断|はんだん}したいと{思|おも}います。", "vi": "Tôi muốn vừa lắng nghe ý kiến mọi người xung quanh vừa đưa ra phán đoán một cách thận trọng.", "note": "Văn phát biểu, công việc"},
+        {"ja": "{地図|ちず}を{確認|かくにん}しつつ、{目的地|もくてきち}へ{向|む}かった。", "vi": "Vừa xem bản đồ vừa hướng về điểm đến.", "note": "する → し + つつ"},
+        {"ja": "{学生|がくせい}たちは{美|うつく}しい{景色|けしき}を{眺|なが}めつつ、{山道|やまみち}を{登|のぼ}っていった。", "vi": "Các học sinh vừa ngắm cảnh đẹp vừa leo con đường núi.", "note": ""},
+        {"ja": "{彼|かれ}は{会社|かいしゃ}に{勤|つと}めつつ、{夜間|やかん}の{大学院|だいがくいん}に{通|かよ}っている。", "vi": "Anh ấy vừa đi làm ở công ty vừa theo học cao học buổi tối.", "note": "Hai việc song song trong một thời gian dài"},
+        {"ja": "{体|からだ}に{悪|わる}いと{知|し}りつつ、ついタバコに{手|て}が{伸|の}びてしまう。", "vi": "Biết là có hại cho sức khoẻ mà vẫn cứ với tay lấy thuốc lá.", "note": "Nghĩa \"mặc dù\" (つつも) — xem 14課"}
+      ],
+      "compare": [
+        {"with": "〜ながら (N4)", "diff": "Nghĩa giống nhau. 「ながら」 dùng được mọi nơi; 「つつ」 chỉ hợp văn viết, văn trang trọng."},
+        {"with": "〜つつある", "diff": "「つつある」 = đang dần thay đổi (kết thúc câu). 「つつ」 = vừa… vừa… (nối hai vế). Chỉ khác chữ 「ある」 nên đề rất hay gài."},
+        {"with": "〜つつ(も) (14課)", "diff": "Khi hai vế **trái ngược** nhau (biết… mà vẫn…, nghĩ… nhưng…) thì つつ là \"mặc dù\". Thường đi với 知る・思う・言う・分かる."}
+      ],
+      "mistakes": [
+        "✗ {私|わたし}はテレビを{見|み}つつ、{妹|いもうと}は{勉強|べんきょう}した。→ hai chủ ngữ khác nhau; ○ 私がテレビを見ている間、妹は勉強していた。",
+        "✗ {考|かんが}えるつつ → ○ 考えつつ (ます形)"
+      ],
+      "tip": "Phân biệt nhanh: sau chỗ trống còn vế câu khác → 「つつ」; câu kết thúc → 「つつある」. Văn trang trọng (〜てまいります・〜たいと思います) + \"vừa… vừa…\" → つつ."
+    }
+  ],
+  "summary": [
+    {"pattern": "〜最中だ", "meaning": "đúng lúc đang giữa chừng", "key": "Vている／Nの + 最中に + chuyện bất ngờ chen ngang"},
+    {"pattern": "〜うちに", "meaning": "A: nhân lúc còn… / B: đang… thì dần dần…", "key": "A: vế sau ý chí; Vないうちに = trước khi. B: vế sau thay đổi tự nhiên"},
+    {"pattern": "〜ばかりだ・〜一方だ", "meaning": "ngày càng… (một chiều)", "key": "V辞書形; động từ biến đổi; ばかりだ thường xấu"},
+    {"pattern": "〜(よ)うとしている", "meaning": "sắp sửa…", "key": "thể ý hướng; động từ tức thời; văn viết"},
+    {"pattern": "〜つつある", "meaning": "đang dần dần…", "key": "Vます形; động từ biến đổi; tin tức, văn viết"},
+    {"pattern": "〜つつ", "meaning": "vừa… vừa… (= ながら)", "key": "Vます形; cùng chủ ngữ; văn viết"}
+  ],
+  "quiz": [
+    {"id": "b02-q1", "kind": "form", "ref": "b02-1", "q": "{大事|だいじ}なプレゼンの（　　）、{急|きゅう}にパソコンの{画面|がめん}が{真|ま}っ{暗|くら}になった。", "options": ["最中に", "うちに", "一方で", "つつ"], "answer": 0, "vi": "Đang giữa buổi thuyết trình quan trọng thì màn hình máy tính đột nhiên tối đen.", "why": "Đang ở giữa một hoạt động (プレゼン) thì có sự cố bất ngờ chen ngang → **最中に**. 「Nのうちに」 chỉ dùng với trạng thái kéo dài (学生のうちに), không dùng cho sự kiện kiểu プレゼン; 「一方で」 = mặt khác, không hợp nghĩa; 「つつ」 phải nối với Vます形, không nối với 「Nの」."},
+    {"id": "b02-q2", "kind": "form", "ref": "b02-2", "q": "{雨|あめ}が（　　）うちに、{洗濯物|せんたくもの}を{取|と}り{込|こ}もう。", "options": ["降る", "降った", "降らない", "降っている"], "answer": 2, "vi": "Mình mang quần áo phơi vào thôi, kẻo trời mưa.", "why": "Muốn làm \"trước khi chuyện không mong muốn (mưa) xảy ra\" → **降らないうちに**. 「降るうちに」 không có nghĩa \"trước khi mưa\"; 「降ったうちに」 sai ngữ pháp; 「降っているうちに」 = trong lúc đang mưa → mâu thuẫn với việc mang đồ vào kẻo ướt."},
+    {"id": "b02-q3", "kind": "form", "ref": "b02-3", "q": "{駅前|えきまえ}に{大型|おおがた}スーパーができてから、{商店街|しょうてんがい}の{客|きゃく}は{減|へ}る（　　）だ。", "options": ["最中", "一方", "うち", "つつ"], "answer": 1, "vi": "Từ khi trước ga mở siêu thị lớn, khách ở khu phố mua sắm cứ giảm mãi.", "why": "V辞書形 (減る) + **一方だ** = cứ giảm theo một chiều. 「最中」 phải nối với Vている (減っている最中) và không dùng cho xu hướng; 「減るうちだ」 sai ngữ pháp; 「つつ」 nối với ます形 (減りつつ) và không đứng với だ."},
+    {"id": "b02-q4", "kind": "form", "ref": "b02-4", "q": "{長|なが}い{冬|ふゆ}が{終|お}わり、{北国|きたぐに}にもようやく{春|はる}が（　　）。", "options": ["訪れる一方だ", "訪れている最中だ", "訪れるばかりだ", "訪れようとしている"], "answer": 3, "vi": "Mùa đông dài đã qua, xứ bắc cuối cùng cũng sắp đón mùa xuân.", "why": "Mùa xuân đến là một bước ngoặt **sắp xảy ra** → **訪れようとしている**. 「一方だ」「ばかりだ」 diễn tả xu hướng tăng/giảm liên tục, không dùng cho việc mùa xuân đến; 「最中だ」 dùng cho hoạt động đang làm dở, không hợp với hiện tượng tự nhiên này."},
+    {"id": "b02-q5", "kind": "form", "ref": "b02-5", "q": "{政府|せいふ}の{対策|たいさく}により、{物価|ぶっか}の{上昇|じょうしょう}は{徐々|じょじょ}に{落|お}ち{着|つ}き（　　）。", "options": ["一方だ", "最中だ", "つつある", "ばかりだ"], "answer": 2, "vi": "Nhờ các biện pháp của chính phủ, đà tăng giá đang dần dần ổn định lại.", "why": "Vます形 (落ち着き) + **つつある**, cùng với 「徐々に」 = đang dần dần. 「一方だ」「ばかりだ」 phải nối với V辞書形 (落ち着く一方だ); 「最中だ」 phải nối với Vている."},
+    {"id": "b02-q6", "kind": "order", "ref": "b02-6", "q": "{部長|ぶちょう}は{部下|ぶか}の{意見|いけん}に ＿＿＿ ＿＿＿ ★ ＿＿＿ {下|くだ}した。", "options": ["つつ", "最終的な判断を", "耳を", "傾け"], "order": [2, 3, 0, 1], "answer": 0, "vi": "Trưởng phòng vừa lắng nghe ý kiến của cấp dưới vừa đưa ra quyết định cuối cùng.", "why": "部下の意見に **耳を 傾け つつ 最終的な判断を** 下した → ★ (ô thứ 3) = 「つつ」. 「耳を傾ける」 = lắng nghe; 「傾け」 là ます形 nên đứng ngay trước 「つつ」; 「判断を下す」 = đưa ra phán đoán nên 「最終的な判断を」 đứng sát 「下した」."},
+    {"id": "b02-q7", "kind": "form", "ref": "b02-2", "q": "{毎朝|まいあさ}ジョギングを{続|つづ}けている（　　）、{体重|たいじゅう}が{自然|しぜん}に{減|へ}ってきた。", "options": ["最中に", "うちに", "一方で", "つつある"], "answer": 1, "vi": "Cứ duy trì chạy bộ mỗi sáng, cân nặng đã tự nhiên giảm xuống.", "why": "Hành động lặp lại kéo dài → thay đổi tự nhiên (〜てきた) → **うちに** (nghĩa B). 「最中に」 dùng khi có chuyện đột ngột chen ngang; 「一方で」 = mặt khác (đối lập), không hợp; 「つつある」 là cách kết câu, không nối được hai vế."}
+  ],
+  "practice": [
+    {"id": "b02-p1", "kind": "form", "ref": "b02-1", "q": "{大切|たいせつ}な{取引先|とりひきさき}と{電話|でんわ}で{話|はな}している（　　）、{隣|となり}の{部屋|へや}で{工事|こうじ}が{始|はじ}まった。", "options": ["一方で", "最中に", "つつ", "ばかりで"], "answer": 1, "vi": "Đang nói chuyện điện thoại với đối tác quan trọng thì phòng bên cạnh bắt đầu thi công.", "why": "Đang giữa cuộc điện thoại thì bị chuyện bất ngờ chen ngang → **最中に**. 「話している一方で」 = một mặt thì nói chuyện, mặt khác… (đối lập) — không hợp; 「つつ」 phải nối với ます形 (話しつつ); 「話しているばかりで」 = chỉ toàn nói (mà không làm), không hợp nghĩa."},
+    {"id": "b02-p2", "kind": "form", "ref": "b02-2", "q": "{祖母|そぼ}が{元気|げんき}な（　　）、{一緒|いっしょ}に{温泉|おんせん}{旅行|りょこう}に{行|い}っておきたい。", "options": ["うちに", "最中に", "一方で", "とたんに"], "answer": 0, "vi": "Nhân lúc bà còn khoẻ, tôi muốn cùng bà đi du lịch suối nước nóng.", "why": "Trạng thái 「元気だ」 rồi sẽ không còn mãi, vế sau là mong muốn 〜ておきたい → **うちに** (nghĩa A). 「最中に」 không dùng với tính từ chỉ trạng thái; 「一方で」 = mặt khác; 「とたんに」 phải nối với Vた."},
+    {"id": "b02-p3", "kind": "form", "ref": "b02-2", "q": "{彼|かれ}の{話|はなし}を{何度|なんど}も{聞|き}いている（　　）、だんだん{彼|かれ}の{気持|きも}ちが{分|わ}かるようになった。", "options": ["最中に", "ところに", "一方で", "うちに"], "answer": 3, "vi": "Nghe anh ấy kể đi kể lại nhiều lần, dần dần tôi hiểu được cảm xúc của anh ấy.", "why": "Hành động lặp lại + thay đổi dần dần (だんだん〜ようになった) → **うちに** (nghĩa B). 「最中に」「ところに」 đều dùng khi có một sự việc **đột ngột** xảy ra đúng lúc đó, không hợp với thay đổi từ từ; 「一方で」 = mặt khác."},
+    {"id": "b02-p4", "kind": "form", "ref": "b02-3", "q": "{環境|かんきょう}{問題|もんだい}への{関心|かんしん}は、{年々|ねんねん}（　　）。", "options": ["高まった最中だ", "高まるうちだ", "高まる一方だ", "高まろうとした"], "answer": 2, "vi": "Mối quan tâm đến vấn đề môi trường cứ tăng lên theo từng năm.", "why": "「年々」 = xu hướng liên tục, V辞書形 + **一方だ**. 「最中」 không nối với Vた và không dùng cho xu hướng; 「高まるうちだ」 sai ngữ pháp; 「高まろうとした」 = đã sắp tăng (một lần, quá khứ), mâu thuẫn với 「年々」."},
+    {"id": "b02-p5", "kind": "form", "ref": "b02-4", "q": "{飛行機|ひこうき}がまさに{離陸|りりく}（　　）とき、{機内|きない}で{急病人|きゅうびょうにん}が{出|で}た。", "options": ["しつつ", "する一方の", "しようとした", "している最中の"], "answer": 2, "vi": "Đúng lúc máy bay sắp cất cánh thì trên máy bay có người bị bệnh đột ngột.", "why": "「まさに」 + ngay trước khoảnh khắc thay đổi → **しようとした**とき. 「しつつ」 phải có vế câu tiếp theo, không nối với 「とき」; 「する一方の」 chỉ xu hướng tăng/giảm; 「最中のとき」 bị thừa (最中 đã mang nghĩa \"lúc\") và cũng không hợp nghĩa \"sắp\"."},
+    {"id": "b02-p6", "kind": "form", "ref": "b02-5", "q": "{長年|ながねん}の{研究|けんきゅう}によって、この{病気|びょうき}の{仕組|しく}みが{明|あき}らかになり（　　）。", "options": ["一方だ", "つつある", "ばかりだ", "ようとする"], "answer": 1, "vi": "Nhờ nhiều năm nghiên cứu, cơ chế của căn bệnh này đang dần được làm sáng tỏ.", "why": "Vます形 (なり) + **つつある** = đang dần dần. 「一方だ」「ばかりだ」 cần V辞書形 (なる一方だ); 「ようとする」 cần thể ý hướng (なろうとする)."},
+    {"id": "b02-p7", "kind": "form", "ref": "b02-6", "q": "{社員|しゃいん}{一人一人|ひとりひとり}の{生活|せいかつ}を{守|まも}り（　　）、{会社|かいしゃ}の{経営|けいえい}を{立|た}て{直|なお}さなければならない。", "options": ["つつある", "つつ", "一方だ", "最中に"], "answer": 1, "vi": "Chúng ta phải vừa bảo vệ cuộc sống của từng nhân viên vừa vực dậy việc kinh doanh của công ty.", "why": "Câu còn vế sau, cùng một chủ ngữ làm hai việc song song → **つつ**. 「つつある」 là kết câu, không nối được; 「一方だ」 cần 辞書形 và là kết câu; 「最中に」 cần Vている／Nの."},
+    {"id": "b02-p8", "kind": "order", "ref": "b02-3", "q": "{一度|いちど}{信頼|しんらい}を{失|うしな}ってから、{彼|かれ}と{上司|じょうし}の ＿＿＿ ＿＿＿ ★ ＿＿＿ 。", "options": ["悪くなる", "一方だった", "関係は", "ますます"], "order": [2, 3, 0, 1], "answer": 0, "vi": "Từ khi mất lòng tin một lần, quan hệ giữa anh ấy và cấp trên ngày càng xấu đi.", "why": "彼と上司の **関係は ますます 悪くなる 一方だった** → ★ (ô thứ 3) = 「悪くなる」. 「の」 phải nối với danh từ nên 「関係は」 đứng đầu; 「一方だった」 cần V辞書形 đứng ngay trước (悪くなる)."},
+    {"id": "b02-p9", "kind": "order", "ref": "b02-2", "q": "{資料|しりょう}には ＿＿＿ ＿＿＿ ★ ＿＿＿ おいてください。", "options": ["始まらない", "目を通して", "うちに", "会議が"], "order": [3, 0, 2, 1], "answer": 2, "vi": "Hãy đọc qua tài liệu trước khi cuộc họp bắt đầu.", "why": "資料には **会議が 始まらない うちに 目を通して** おいてください → ★ (ô thứ 3) = 「うちに」. 「目を通す」 = đọc lướt qua, 「目を通して」 phải đứng ngay trước 「おいてください」; 「Vないうちに」 = trước khi V."},
+    {"id": "b02-p10", "kind": "usage", "ref": "b02-1", "q": "「〜{最中|さいちゅう}に」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["{日本|にほん}に{住|す}んでいる{最中|さいちゅう}に、{富士山|ふじさん}に{三回|さんかい}{登|のぼ}った。", "{雨|あめ}が{降|ふ}らない{最中|さいちゅう}に、{買|か}い{物|もの}に{行|い}ってこよう。", "{子|こ}どものころの{最中|さいちゅう}に、よく{川|かわ}で{泳|およ}いだ。", "お{風呂|ふろ}に{入|はい}っている{最中|さいちゅう}に、{玄関|げんかん}のチャイムが{鳴|な}った。"], "answer": 3, "vi": "(4) Đang tắm dở thì chuông cửa reo.", "why": "(4) đang giữa một hoạt động thì có chuyện bất ngờ chen ngang → đúng. (1) 「住んでいる」 là trạng thái kéo dài → 住んでいる間に; (2) \"trước khi mưa\" phải là 降らないうちに; (3) 「子どものころ」 là một thời kỳ, không phải hoạt động → 子どものころ、…"},
+    {"id": "b02-p11", "kind": "usage", "ref": "b02-5", "q": "「〜つつある」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["この{地域|ちいき}では、{空|あ}き{家|や}の{数|かず}が{年々|ねんねん}{増|ふ}えつつある。", "{彼|かれ}は{今|いま}、{部屋|へや}で{本|ほん}を{読|よ}みつつある。", "{雨|あめ}が{降|ふ}りつつある、{傘|かさ}を{差|さ}して{歩|ある}いた。", "{来月|らいげつ}、{駅前|えきまえ}に{新|あたら}しい{店|みせ}が{開|ひら}きつつある。"], "answer": 0, "vi": "(1) Ở khu vực này, số nhà bỏ trống đang tăng dần theo từng năm.", "why": "(1) động từ biến đổi 増える + つつある, bối cảnh xu hướng → đúng. (2) 「読む」 là hành động thường → 読んでいる; (3) つつある không nối hai vế câu → 降る中、傘を差して歩いた; (4) chuyện tương lai, xảy ra một lần → 開く予定だ."}
+  ],
+  "test": [
+    {"id": "b02-t1", "kind": "form", "ref": "b02-2", "q": "{記憶|きおく}が{薄|うす}れない（　　）、{事故|じこ}の{状況|じょうきょう}を{詳|くわ}しく{記録|きろく}しておくべきだ。", "options": ["最中に", "一方で", "うちに", "ところで"], "answer": 2, "vi": "Nên ghi chép lại chi tiết tình hình vụ tai nạn trước khi trí nhớ phai nhạt.", "why": "Vないうちに + 〜ておくべきだ (hành động có ý chí, tranh thủ) → **うちに**. 「最中に」 cần Vている／Nの; 「一方で」 = mặt khác; 「ところで」 sau Vない không có nghĩa \"trước khi\"."},
+    {"id": "b02-t2", "kind": "form", "ref": "b02-1", "q": "{彼|かれ}は{今|いま}、{新|あたら}しいアプリの{開発|かいはつ}の{真|ま}っ（　　）で、{週末|しゅうまつ}も{休|やす}めないらしい。", "options": ["最中", "一方", "うち", "つつ"], "answer": 0, "vi": "Nghe nói anh ấy đang ở giữa giai đoạn phát triển ứng dụng mới nên cuối tuần cũng không được nghỉ.", "why": "Cụm cố định 「**真っ最中**」 = đúng giữa lúc cao điểm. 「真っ一方」「真っうち」「真っつつ」 đều không tồn tại."},
+    {"id": "b02-t3", "kind": "form", "ref": "b02-4", "q": "{試合|しあい}{終了|しゅうりょう}{時間|じかん}が{迫|せま}り、{選手|せんしゅ}たちの{体力|たいりょく}も{限界|げんかい}に（　　）。", "options": ["達する最中だった", "達するうちだった", "達しつつだった", "達しようとしていた"], "answer": 3, "vi": "Thời gian kết thúc trận đấu đang tới gần, thể lực của các cầu thủ cũng sắp chạm giới hạn.", "why": "Sắp chạm tới một mốc (限界) → **達しようとしていた**. 「最中」 phải nối với Vている; 「達するうちだった」 sai ngữ pháp; 「つつ」 không kết câu với だった (phải là 達しつつあった)."},
+    {"id": "b02-t4", "kind": "form", "ref": "b02-3", "q": "{少子化|しょうしか}が{進|すす}み、この{村|むら}の{小学校|しょうがっこう}の{児童数|じどうすう}は{減|へ}る（　　）。", "options": ["つつある", "一方だ", "うちだ", "ようとしている"], "answer": 1, "vi": "Tình trạng ít con ngày càng nghiêm trọng, số học sinh tiểu học của làng này cứ giảm mãi.", "why": "V辞書形 (減る) + **一方だ**. 「つつある」 cần ます形 (減りつつある); 「減るうちだ」 sai ngữ pháp; 「ようとしている」 cần thể ý hướng (減ろうとしている). Câu này chỉ cần kiểm tra dạng nối là ra."},
+    {"id": "b02-t5", "kind": "order", "ref": "b02-4", "q": "{長|なが}かった{工事|こうじ}が ＿＿＿ ＿＿＿ ★ ＿＿＿ 、{思|おも}わぬ{問題|もんだい}が{見|み}つかった。", "options": ["ところに", "終わろう", "ようやく", "としていた"], "order": [2, 1, 3, 0], "answer": 3, "vi": "Đúng lúc công trình kéo dài cuối cùng cũng sắp xong thì lại phát hiện ra một vấn đề không ngờ tới.", "why": "長かった工事が **ようやく 終わろう としていた ところに**、… → ★ (ô thứ 3) = 「としていた」. Trạng từ 「ようやく」 đứng trước động từ; 「終わろう」+「としていた」 tạo thành mẫu; 「ところに」 = đúng lúc đó thì."},
+    {"id": "b02-t6", "kind": "order", "ref": "b02-6", "q": "{彼女|かのじょ}は{家族|かぞく}との{時間|じかん}を ＿＿＿ ＿＿＿ ★ ＿＿＿ {追|お}い{続|つづ}けている。", "options": ["自分の夢も", "つつ", "大切に", "し"], "order": [2, 3, 1, 0], "answer": 1, "vi": "Cô ấy vừa trân trọng thời gian bên gia đình vừa tiếp tục theo đuổi ước mơ của bản thân.", "why": "家族との時間を **大切に し つつ 自分の夢も** 追い続けている → ★ (ô thứ 3) = 「つつ」. 「〜を大切にする」 → ます形 「大切にし」 + つつ; 「夢も」 là tân ngữ của 「追い続ける」 nên đứng cuối."},
+    {"id": "b02-t7", "kind": "usage", "ref": "b02-2", "q": "「〜うちに」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["{暗|くら}くならないうちに、{子|こ}どもたちを{家|いえ}に{帰|かえ}らせましょう。", "{日本|にほん}に{来|く}るうちに、ひらがなを{覚|おぼ}えた。", "{地震|じしん}が{起|お}きたうちに、テーブルの{下|した}に{隠|かく}れた。", "{会議|かいぎ}が{始|はじ}まるうちに、{資料|しりょう}を{配|くば}っておいてください。"], "answer": 0, "vi": "(1) Hãy cho bọn trẻ về nhà trước khi trời tối.", "why": "(1) Vないうちに + hành động ý chí → đúng. (2) 「来る」 là hành động tức thời → 来る前に; (3) phản ứng ngay khi động đất → 起きたとき; (4) \"trước khi họp\" → 始まらないうちに／始まる前に."}
+  ]
+}

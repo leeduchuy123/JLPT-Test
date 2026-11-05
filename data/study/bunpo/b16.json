@@ -1,0 +1,179 @@
+{
+  "id": "b16",
+  "track": "bunpo",
+  "intro": "Bài này là các cách nói **nguyên nhân / lý do** ngoài 「〜から・〜ので・〜ために」 của N3. Mỗi mẫu gắn với một **tình huống** hoặc một **cảm xúc** cụ thể:\n\n- **〜によって**: nguyên nhân hoặc phương tiện, giọng **khách quan, cứng** (tin tức, văn bản).\n- **〜ものだから・〜もので・〜もの**: lý do kiểu **thanh minh, phân trần** (“tại vì… nên…”) — văn nói.\n- **〜おかげだ／〜せいだ**: nguyên nhân kèm **đánh giá**: tốt → おかげ (nhờ), xấu → せい (tại, do).\n- **〜あまり・あまりの〜に**: vì **quá** (lo, vui, cẩn thận, nóng…) **nên** dẫn đến kết quả bất thường.\n- **〜につき**: lý do trên **biển báo, thông báo** (“do đang sửa chữa nên…”).\n\nĐiểm then chốt: hầu hết các mẫu này (ものだから, おかげ/せい, あまり) **không đi với mệnh lệnh / ý chí** ở vế sau — khác với 「から」 dùng thoải mái 「寒いから窓を閉めて」. Khi vế sau là nhờ vả, mệnh lệnh, đáp án thường chỉ có thể là 「から／ので」.",
+  "points": [
+    {
+      "id": "b16-1",
+      "pattern": "〜によって",
+      "reading": "〜によって",
+      "meaning": "Do, vì (nguyên nhân) ／ Bằng, thông qua (phương tiện, cách thức)",
+      "structure": ["N ＋ によって／により (văn viết)", "V辞書形／Vた ＋ こと ＋ によって (交替したことによって・導入することにより)", "N ＋ による ＋ N"],
+      "explain": "「よる」 = dựa vào. 「〜によって」 = “**dựa vào A mà có B**”. Trong bài này có **hai nghĩa**:\n\n- **Nguyên nhân** (A gây ra kết quả B): 「{踏切|ふみきり}{事故|じこ}によって、{電車|でんしゃ}が{遅|おく}れた」 — Do tai nạn ở chỗ chắn tàu, tàu bị trễ. Giống 「〜で」 nhưng **khách quan, trang trọng** — giọng bản tin, thông báo.\n- **Phương tiện / cách thức** (dùng A để làm B): 「{話|はな}し{合|あ}いによって{解決|かいけつ}する」 — Giải quyết bằng thương lượng. Giống 「〜で」 nhưng cứng hơn.\n\nDạng 「**による ＋ N**」 rất hay gặp trong đề và trong tin tức: 「{地震|じしん}による{被害|ひがい}」 (thiệt hại do động đất), 「{電話|でんわ}による{問|と}い{合|あ}わせ」 (hỏi đáp qua điện thoại). 「**により**」 là dạng văn viết của 「によって」.",
+      "nuance": "Văn **cứng, khách quan**. Với nghĩa phương tiện, **không dùng cho dụng cụ cá nhân đời thường** (điện thoại, bút, tàu điện…) khi kể chuyện của mình: ✗ 「{電話|でんわ}によって{友達|ともだち}と{話|はな}した」 → ○ 「電話で友達と話した」. Tuy vậy, dạng bổ nghĩa danh từ thì dùng được: 「電話による{受付|うけつけ}」 ○. Trong thông báo trang trọng, phương tiện nên là từ cứng như 「{文書|ぶんしょ}・{書面|しょめん}」 (文書によりお知らせします), không phải 手紙・電話.\n\nVới nghĩa nguyên nhân, vế sau là **kết quả / sự thay đổi khách quan** (遅れた・変わった・混乱した), không phải cảm xúc hay đánh giá chủ quan của người nói: ✗ 「{先生|せんせい}に{出会|であ}ったことによって、うれしかった」 → ○ 「…ことによって、{考|かんが}え{方|かた}が{大|おお}きく{変|か}わった」.",
+      "examples": [
+        {"ja": "{大雨|おおあめ}による{土砂崩|どしゃくず}れで、{国道|こくどう}が{通行止|つうこうど}めになっている。", "vi": "Do sạt lở đất vì mưa lớn, quốc lộ đang bị cấm lưu thông.", "note": "Nguyên nhân · による ＋ N"},
+        {"ja": "{運転手|うんてんしゅ}の{不注意|ふちゅうい}によって、{大|おお}きな{事故|じこ}が{起|お}きた。", "vi": "Do sự bất cẩn của tài xế mà một vụ tai nạn lớn đã xảy ra.", "note": "Nguyên nhân · giọng bản tin"},
+        {"ja": "{新薬|しんやく}の{開発|かいはつ}により、{多|おお}くの{患者|かんじゃ}の{命|いのち}が{救|すく}われた。", "vi": "Nhờ việc phát triển thuốc mới, sinh mạng của nhiều bệnh nhân đã được cứu.", "note": "により = dạng văn viết"},
+        {"ja": "{問題|もんだい}は{力|ちから}ではなく、{話|はな}し{合|あ}いによって{解決|かいけつ}すべきだ。", "vi": "Vấn đề nên được giải quyết bằng đối thoại chứ không phải bằng vũ lực.", "note": "Phương tiện / cách thức"},
+        {"ja": "{代表|だいひょう}は{全員|ぜんいん}の{投票|とうひょう}によって{決|き}めることになった。", "vi": "Người đại diện sẽ được quyết định bằng cách bỏ phiếu toàn thể.", "note": "Phương tiện"},
+        {"ja": "お{申|もう}し{込|こ}みは、インターネットによる{受付|うけつけ}のみとなっております。", "vi": "Việc đăng ký chỉ được tiếp nhận qua Internet.", "note": "による ＋ N · dùng được dù là phương tiện thông thường"}
+      ],
+      "compare": [
+        {"with": "〜で", "diff": "「で」 dùng mọi lúc (雨で, 電話で). 「によって」 là bản trang trọng, khách quan của 「で」; không hợp với dụng cụ cá nhân trong chuyện đời thường."},
+        {"with": "〜によって (các nghĩa khác)", "diff": "Còn hai nghĩa sẽ gặp ở bài khác: **chủ thể trong câu bị động** (「この{寺|てら}は{有名|ゆうめい}な{僧|そう}によって{建|た}てられた」) và **tùy theo** (「{人|ひと}によって{考|かんが}え{方|かた}が{違|ちが}う」). Đọc vế sau để biết nghĩa nào."},
+        {"with": "〜せいで／〜おかげで", "diff": "「によって」 chỉ nêu nguyên nhân **trung tính**, không đánh giá tốt xấu. 「せいで／おかげで」 có cảm xúc của người nói."}
+      ],
+      "mistakes": [
+        "✗ {台風|たいふう}によって{被害|ひがい} → ○ 台風による被害 (trước danh từ phải là による)",
+        "✗ ペンによって{手紙|てがみ}を{書|か}いた。→ ○ ペンで手紙を書いた (dụng cụ cá nhân)"
+      ],
+      "tip": "Câu văn tin tức với nguyên nhân là **sự kiện / hiện tượng** (事故・地震・台風・導入・開発) → 「によって／により」. Nếu ngay sau chỗ trống là **danh từ** (被害・影響・問い合わせ) → chọn 「による」."
+    },
+    {
+      "id": "b16-2",
+      "pattern": "〜ものだから・〜もので・〜もの",
+      "reading": "〜ものだから・〜もので・〜もの",
+      "meaning": "Tại vì… nên… (thanh minh, phân trần lý do cá nhân)",
+      "structure": ["普通形 ＋ ものだから／もので (な形 ＋ な, N ＋ な)", "普通形 ＋ もの (cuối câu; hay gặp dạng 〜んだもの／〜だもの: 大嫌いなんだもの)", "Lịch sự: ものですから; thân mật: もんだから・もんで・もん"],
+      "explain": "Đây là **lý do để thanh minh**: người nói giải thích “**không phải tôi cố ý, mà là do hoàn cảnh**”. Thường dùng khi xin lỗi, giải thích vì sao đến muộn, vì sao làm sai.\n\n「すみません、{電車|でんしゃ}が{遅|おく}れたものですから…」 — Xin lỗi, tại tàu trễ ạ…\n\n- **ものだから／もので**: nối hai vế: “tại vì A nên (lỡ) B”. Vế sau hay là 〜てしまった, 〜できなかった, 〜遅くなった.\n- Câu **có thể bỏ lửng** sau 「ものですから」「もので」 — người nghe tự hiểu: 「ちょっと{用事|ようじ}があったもので…」.\n- Cũng dùng khi **mức độ quá cao khiến mình lỡ làm**: 「あまりに{安|やす}かったものだから、つい{買|か}ってしまった」.\n- **〜もの (cuối câu)**: lý do kiểu **nũng nịu, cãi lý**, hay đi với 「だって」. Chủ yếu **phụ nữ, trẻ em** dùng trong hội thoại thân mật: 「だって、{知|し}らなかったんだもん」.",
+      "nuance": "Văn **nói**, mang tính cá nhân. Vế sau **không** dùng mệnh lệnh, nhờ vả, xin phép, ý chí: ✗ 「{寒|さむ}いものだから、{窓|まど}を{閉|し}めてください」 → ○ 「寒いから、…」; ✗ 「{疲|つか}れたものだから、ここで{休|やす}んでもいいですか」. Vế sau là **sự việc / trạng thái đã xảy ra** (〜てしまった・〜てきた・〜できなかった). 「もんだから・もんで・もん」 suồng sã hơn nữa. Không dùng 「ものだから」 trong văn bản trang trọng hay khi nêu lý do khách quan (báo cáo, tin tức).",
+      "examples": [
+        {"ja": "{電車|でんしゃ}が{遅|おく}れたものですから、{会議|かいぎ}に{遅|おく}れてしまいました。", "vi": "Tại tàu bị trễ nên tôi đã đến họp muộn ạ.", "note": "Thanh minh · lịch sự: ものですから"},
+        {"ja": "{初|はじ}めてなものですから、{勝手|かって}がわからなくてすみません。", "vi": "Vì là lần đầu nên tôi chưa quen cách làm, xin lỗi nhé.", "note": "な形 ＋ な ＋ ものですから"},
+        {"ja": "あまりに{安|やす}かったものだから、つい{三|みっ}つも{買|か}ってしまった。", "vi": "Tại rẻ quá nên lỡ mua tận ba cái.", "note": "Mức độ cao → lỡ làm"},
+        {"ja": "「どうして{電話|でんわ}に{出|で}なかったの？」「ごめん、{運転中|うんてんちゅう}だったもんで…」", "vi": "“Sao không nghe máy?” — “Xin lỗi, tại đang lái xe…”", "note": "もんで + bỏ lửng"},
+        {"ja": "{子|こ}どもが{熱|ねつ}を{出|だ}したもので、{今日|きょう}は{早|はや}めに{失礼|しつれい}しました。", "vi": "Vì con bị sốt nên hôm nay tôi xin phép về sớm.", "note": "もので"},
+        {"ja": "「どうしてピーマンを{残|のこ}すの？」「だって、{苦|にが}いんだもん。」", "vi": "“Sao lại để thừa ớt chuông thế?” — “Tại nó đắng mà.”", "note": "Cuối câu もん · trẻ con, nũng nịu"}
+      ],
+      "compare": [
+        {"with": "〜から・〜ので (N4)", "diff": "「から」 dùng được với mệnh lệnh, ý chí (寒いから閉めて). 「ので」 lịch sự, khách quan hơn. 「ものだから」 nhấn mạnh **“tôi không có lỗi, tại hoàn cảnh”**, và không đi với mệnh lệnh / ý chí."},
+        {"with": "〜もの (cuối câu) và 〜ものだ", "diff": "「〜だもん」 = lý do nũng nịu. 「〜ものだ」 (23課, 26課) = chân lý / hồi tưởng / cảm thán — hoàn toàn khác."}
+      ],
+      "mistakes": [
+        "✗ {時間|じかん}がないものだから、タクシーで{行|い}こう。→ ○ 時間がないから、タクシーで行こう。(vế sau là ý chí)",
+        "✗ {初|はじ}めてものですから → ○ 初めて**な**ものですから (N／な形 cần な)"
+      ],
+      "tip": "Bối cảnh **xin lỗi, giải thích vì sao trễ / sai** + vế sau là 〜てしまいました → 「ものですから／もので」. Nếu vế sau là 〜てください／〜ましょう, loại 「ものだから」."
+    },
+    {
+      "id": "b16-3",
+      "pattern": "〜おかげだ／〜せいだ",
+      "reading": "〜おかげだ／〜せいだ",
+      "meaning": "Nhờ có… (kết quả tốt) ／ Tại, do… (kết quả xấu)",
+      "structure": ["N ＋ の ＋ おかげだ／せいだ", "V／い形 普通形 ＋ おかげだ／せいだ", "な形 ＋ な ＋ おかげだ／せいだ", "Các dạng: おかげで／せいで (giữa câu)・おかげか／せいか (có lẽ nhờ / có lẽ tại)・〜のせいにする (đổ lỗi)"],
+      "explain": "Hai mẫu này giống nhau về hình thức, **ngược nhau về cảm xúc**:\n\n- **おかげ** (お蔭 — “bóng che chở”): kết quả **tốt**, người nói **biết ơn**. 「{先生|せんせい}のおかげで{合格|ごうかく}できました」 — Nhờ thầy mà em đỗ.\n- **せい**: kết quả **xấu**, người nói **đổ lỗi / trách**. 「{寝不足|ねぶそく}のせいで{集中|しゅうちゅう}できない」 — Tại thiếu ngủ mà không tập trung được.\n\nCác biến thể nên thuộc:\n- **〜せいか／〜おかげか**: “**có lẽ** là tại / nhờ…” — người nói **không chắc chắn** về nguyên nhân: 「{年|とし}のせいか、{疲|つか}れやすい」.\n- **〜のせいにする**: đổ lỗi cho ai/cái gì: 「{失敗|しっぱい}を{部下|ぶか}のせいにする」.\n- **Dùng ngược (mỉa mai)**: 「おかげで」 cho kết quả xấu để **châm biếm**: 「{君|きみ}が{余計|よけい}なことを{言|い}ってくれたおかげで、{大変|たいへん}なことになったよ」 — “Nhờ” cậu nói thừa mà giờ to chuyện rồi đấy.\n- Câu cửa miệng: 「おかげさまで」 = nhờ trời / nhờ anh chị (đáp lại lời hỏi thăm).",
+      "nuance": "Văn nói lẫn viết. Vế sau là **kết quả đã xảy ra / trạng thái thực tế**, **không** phải ý chí, quyết định, mệnh lệnh của người nói (✗ 「{雨|あめ}のせいで、{家|いえ}にいよう」; ✗ 「{体力|たいりょく}がついたおかげで、マラソンに{出|で}ることにした」 → ○ 「…おかげで、マラソンも{走|はし}れるようになった」). Với 「せいだ」, chú ý không dùng cho kết quả tốt và ngược lại.",
+      "examples": [
+        {"ja": "{先輩|せんぱい}が{丁寧|ていねい}にアドバイスしてくれたおかげで、{面接|めんせつ}がうまくいった。", "vi": "Nhờ đàn anh tận tình góp ý mà buổi phỏng vấn suôn sẻ.", "note": "Vた ＋ おかげで · biết ơn"},
+        {"ja": "{毎日|まいにち}{歩|ある}いているおかげか、{最近|さいきん}{体調|たいちょう}がいい。", "vi": "Có lẽ nhờ ngày nào cũng đi bộ mà dạo này sức khỏe tốt.", "note": "おかげか: không chắc chắn"},
+        {"ja": "{寝不足|ねぶそく}のせいで、{午後|ごご}の{会議|かいぎ}にまったく{集中|しゅうちゅう}できなかった。", "vi": "Tại thiếu ngủ mà cuộc họp buổi chiều tôi chẳng tập trung được chút nào.", "note": "N の せいで"},
+        {"ja": "{年|とし}のせいか、{最近|さいきん}{物忘|ものわす}れがひどくなった。", "vi": "Chắc tại tuổi tác mà dạo này hay quên kinh khủng.", "note": "せいか: có lẽ tại"},
+        {"ja": "{試合|しあい}に{負|ま}けたのは{私|わたし}のせいだ。{本当|ほんとう}にごめん。", "vi": "Thua trận là tại tôi. Thật sự xin lỗi.", "note": "〜のは〜のせいだ"},
+        {"ja": "{君|きみ}が{余計|よけい}なことを{言|い}ってくれたおかげで、{話|はなし}がすっかりこじれてしまったよ。", "vi": "“Nhờ” cậu nói thừa mà chuyện giờ rối tung cả lên.", "note": "Mỉa mai: 〜てくれたおかげで + kết quả xấu"}
+      ],
+      "compare": [
+        {"with": "〜ために (N3, nguyên nhân)", "diff": "「ために」 nêu nguyên nhân trung tính, văn viết: 「{事故|じこ}のために{遅|おく}れた」. 「おかげ／せい」 thêm **cảm xúc**: biết ơn hoặc trách móc."},
+        {"with": "〜によって", "diff": "「によって」 khách quan, không đánh giá; 「せいで」 có ý đổ lỗi, 「おかげで」 có ý cảm ơn."}
+      ],
+      "mistakes": [
+        "✗ {先生|せんせい}のせいで{合格|ごうかく}できました。→ ○ 先生のおかげで… (kết quả tốt)",
+        "✗ {雨|あめ}せいで → ○ 雨**の**せいで (N cần の)",
+        "✗ {暑|あつ}いせいで、エアコンをつけよう。→ vế sau là ý chí; dùng 暑いから"
+      ],
+      "tip": "Đọc vế sau trước: **tốt** → おかげ; **xấu** → せい; có “có lẽ” (なんだか, 最近…) → 〜せいか／おかげか. Trong đề thi, mặc định là tốt → おかげ, xấu → せい (vd: tại mưa mà trận đấu bị hoãn → せいで, không phải おかげで). Cách dùng mỉa mai chỉ khi có tín hiệu rõ như 「〜てくれたおかげで」 + giọng trách."
+    },
+    {
+      "id": "b16-4",
+      "pattern": "〜あまり・あまりの〜に",
+      "reading": "〜あまり・あまりの〜に",
+      "meaning": "Vì quá… nên (dẫn đến kết quả bất thường, thường là xấu)",
+      "structure": ["N ＋ の ＋ あまり", "V／い形 普通形 (khẳng định) ＋ あまり (な形 ＋ な)", "あまりの ＋ N ＋ に (N thường là danh từ từ tính từ: 暑さ・寒さ・痛さ・美しさ・ショック)"],
+      "explain": "「あまり」 gốc là “phần thừa ra”. 「〜あまり」 = **“vì A vượt quá mức bình thường”** nên B — một kết quả **không bình thường** xảy ra (thường là điều không mong muốn).\n\n「{嬉|うれ}しさのあまり、{泣|な}き{出|だ}してしまった」 — Vui quá mà bật khóc.\n\nHai dạng:\n- **〜あまり**: trước là danh từ cảm xúc / trạng thái (緊張・心配・喜び・悲しみ・驚き) + の, hoặc động từ (心配する・気にする・急ぐ・考えすぎる): 「{完璧|かんぺき}を{求|もと}めるあまり、{何|なに}も{進|すす}まない」.\n- **あまりの ＋ N ＋ に**: “**do cái N quá mức**”: 「あまりの{暑|あつ}さに、{倒|たお}れる{人|ひと}が{出|で}た」 — Nóng quá đến mức có người ngất. N thường là dạng 〜さ của tính từ (暑さ・寒さ・痛さ・高さ) hoặc từ chỉ cú sốc (ショック・変化・ひどさ).\n\nVế sau thường là **phản ứng không kiểm soát được**: khóc, ngất, mất lời, làm sai, không ngủ được…",
+      "nuance": "Hơi văn viết. Vế sau là **kết quả thực tế đã xảy ra**, thường là xấu / bất thường; **không** dùng ý chí, mong muốn, nhờ vả của người nói (✗ 「{心配|しんぱい}のあまり、{電話|でんわ}してください」). Trước 「あまり」 là thể **khẳng định**, không dùng thể phủ định.\n\nVế sau phải là **phản ứng / kết quả cụ thể, khác thường** (khóc, ngẩn người, mất ngủ, làm hỏng…), không phải chỉ là nhận xét hay lặp lại cảm xúc ở vế trước: ✗ 「うれしさのあまり、とてもうれしかった」, ✗ 「あまりの{寒|さむ}さに、{寒|さむ}いと{思|おも}う」.",
+      "examples": [
+        {"ja": "{合格|ごうかく}の{知|し}らせを{聞|き}いて、{嬉|うれ}しさのあまり{泣|な}き{出|だ}してしまった。", "vi": "Nghe tin đỗ, tôi vui quá mà bật khóc.", "note": "N の あまり · cảm xúc mạnh"},
+        {"ja": "{子|こ}どもの{将来|しょうらい}を{心配|しんぱい}するあまり、{口|くち}うるさくなってしまう{親|おや}も{多|おお}い。", "vi": "Có nhiều bậc cha mẹ vì quá lo cho tương lai con mà trở nên cằn nhằn.", "note": "V辞書形 ＋ あまり"},
+        {"ja": "{締|し}め{切|き}りを{気|き}にするあまり、{内容|ないよう}が{雑|ざつ}になってしまった。", "vi": "Vì quá để tâm đến hạn chót mà nội dung trở nên cẩu thả.", "note": "Kết quả xấu"},
+        {"ja": "{完璧|かんぺき}を{求|もと}めるあまり、{彼|かれ}は{一歩|いっぽ}も{前|まえ}に{進|すす}めなくなった。", "vi": "Vì đòi hỏi sự hoàn hảo quá mức, anh ấy không tiến lên được bước nào nữa.", "note": ""},
+        {"ja": "あまりの{暑|あつ}さに、{外|そと}に{出|で}る{気|き}になれない。", "vi": "Nóng quá đến mức chẳng muốn ra ngoài.", "note": "あまりの ＋ 〜さ ＋ に"},
+        {"ja": "{請求書|せいきゅうしょ}の{金額|きんがく}のあまりの{高|たか}さに、{思|おも}わず{声|こえ}を{上|あ}げてしまった。", "vi": "Số tiền trên hóa đơn cao quá đến mức tôi bất giác kêu lên.", "note": "N の あまりの N に"}
+      ],
+      "compare": [
+        {"with": "あまりに(も)〜 (phó từ)", "diff": "「あまりに(も){高|たか}い」 = quá đắt (phó từ đứng trước tính từ). 「あまりの{高|たか}さに」 = vì cái đắt quá mức (đứng trước danh từ + に). Đề hay bẫy: 「あまりに暑さに」 ✗."},
+        {"with": "〜すぎて", "diff": "「〜すぎて」 trung tính, đời thường: 「{暑|あつ}すぎて{眠|ねむ}れない」. 「あまり」 trang trọng hơn và nhấn mạnh trạng thái **vượt ngưỡng** dẫn tới phản ứng bất thường."},
+        {"with": "〜ものだから", "diff": "Cũng dùng được cho mức độ cao (あまりに安かったものだから) nhưng là văn nói, mang tính thanh minh. 「あまり」 là miêu tả khách quan hơn."}
+      ],
+      "mistakes": [
+        "✗ あまりに{寒|さむ}さに → ○ あまりの寒さに",
+        "✗ {心配|しんぱい}あまり → ○ 心配**の**あまり／心配するあまり",
+        "✗ {嬉|うれ}しさのあまり、{一緒|いっしょ}に{歌|うた}いましょう。→ vế sau là rủ rê, không dùng được"
+      ],
+      "tip": "Trước chỗ trống là **danh từ cảm xúc + の** (緊張の・喜びの・心配の) và vế sau là phản ứng mất kiểm soát → 「あまり」. Sau chỗ trống là **〜さに** → 「あまりの」."
+    },
+    {
+      "id": "b16-5",
+      "pattern": "〜につき",
+      "reading": "〜につき",
+      "meaning": "Do, vì (đang trong tình trạng…) — lý do trên thông báo, biển báo",
+      "structure": ["N ＋ につき", "Hay gặp: 工事中につき・準備中につき・改装につき・好評につき・雨天につき"],
+      "explain": "Đây là cách nêu lý do **chỉ dùng trong thông báo chính thức**: tờ giấy dán ở cửa hàng, biển báo, thông báo của công ty, nhà ga. Nó báo cho mọi người biết: “**Vì đang trong tình trạng A, nên B**”.\n\nHình dung tấm biển treo ở cửa một quán ăn: 「{準備中|じゅんびちゅう}につき、しばらくお{待|ま}ちください」 — Đang chuẩn bị, xin vui lòng chờ một chút.\n\n- Danh từ phía trước thường mô tả **tình trạng hiện tại**: 工事中, 清掃中, 改装中, 定休日, 雨天, 満席, 好評.\n- Vế sau là **thông báo, yêu cầu lịch sự, lệnh cấm**: 〜いたします, 〜ください, 〜を禁止します, 〜となりました.",
+      "nuance": "**Rất cứng, văn viết, dùng cho thông báo / biển báo / văn bản chính thức**. Không dùng trong hội thoại hằng ngày hay chuyện cá nhân: ✗ 「{頭|あたま}が{痛|いた}いにつき、{帰|かえ}るね」. Đi trực tiếp với **danh từ**.",
+      "examples": [
+        {"ja": "{店内|てんない}{改装|かいそう}につき、{今月|こんげつ}いっぱい{休業|きゅうぎょう}いたします。", "vi": "Do sửa sang lại cửa hàng, chúng tôi xin tạm nghỉ đến hết tháng này.", "note": "Giấy dán ở cửa hàng"},
+        {"ja": "{工事中|こうじちゅう}につき、{関係者|かんけいしゃ}{以外|いがい}の{立|た}ち{入|い}りを{禁止|きんし}します。", "vi": "Đang thi công, cấm người không phận sự vào.", "note": "Biển báo công trường"},
+        {"ja": "ご{好評|こうひょう}につき、{販売|はんばい}{期間|きかん}を{延長|えんちょう}いたしました。", "vi": "Do được đón nhận nhiệt tình, chúng tôi đã kéo dài thời gian bán.", "note": "Lý do tích cực cũng được"},
+        {"ja": "{雨天|うてん}につき、{本日|ほんじつ}の{花火大会|はなびたいかい}は{中止|ちゅうし}となりました。", "vi": "Do trời mưa, lễ hội pháo hoa hôm nay đã bị hủy.", "note": "Thông báo của ban tổ chức"},
+        {"ja": "{当店|とうてん}は{全席|ぜんせき}{禁煙|きんえん}につき、おたばこはご{遠慮|えんりょ}ください。", "vi": "Cửa hàng chúng tôi cấm hút thuốc toàn bộ chỗ ngồi, xin quý khách vui lòng không hút thuốc.", "note": "Vế sau: yêu cầu lịch sự"}
+      ],
+      "compare": [
+        {"with": "〜につき (= mỗi, cho mỗi)", "diff": "Cùng hình thức nhưng nghĩa khác: 「{一人|ひとり}につき{二枚|にまい}まで」 = mỗi người tối đa 2 tấm. Phía trước là **đơn vị số lượng** (一人・一個・一時間) → nghĩa “mỗi”; phía trước là **tình trạng** (工事中・雨天) → nghĩa “do”."},
+        {"with": "〜のため", "diff": "「のため」 cũng dùng trong thông báo (工事のため通行止め) và cả văn thường. 「につき」 cứng hơn nữa, gần như chỉ xuất hiện trên giấy dán / biển báo."},
+        {"with": "〜について", "diff": "「について」 = về (chủ đề). Đừng nhầm vì nhìn giống nhau."}
+      ],
+      "mistakes": [
+        "✗ {今日|きょう}は{疲|つか}れたにつき、{早|はや}く{寝|ね}る。→ chuyện cá nhân, dùng 疲れたから",
+        "✗ {工事|こうじ}するにつき → ○ 工事中につき (đi với danh từ)"
+      ],
+      "tip": "Câu có dáng **biển báo / giấy dán** (〜いたします・ご遠慮ください・〜を禁止します・本日・当店) và trước chỗ trống là **danh từ tình trạng** (〜中・雨天・改装) → 「につき」."
+    }
+  ],
+  "summary": [
+    {"pattern": "〜によって", "meaning": "do (nguyên nhân) / bằng (phương tiện)", "key": "khách quan, tin tức; による ＋ N; không dùng với dụng cụ cá nhân"},
+    {"pattern": "〜ものだから・〜もので・〜もの", "meaning": "tại vì… (thanh minh)", "key": "văn nói; N/な形 ＋ な; vế sau không mệnh lệnh/ý chí; だって〜もん"},
+    {"pattern": "〜おかげだ／〜せいだ", "meaning": "nhờ (tốt) / tại (xấu)", "key": "N の; 〜せいか = có lẽ tại; おかげで mỉa mai"},
+    {"pattern": "〜あまり・あまりの〜に", "meaning": "vì quá… nên…", "key": "N の あまり; あまりの 〜さ に; kết quả bất thường"},
+    {"pattern": "〜につき", "meaning": "do (thông báo)", "key": "biển báo, giấy dán; N tình trạng ＋ につき"}
+  ],
+  "quiz": [
+    {"id": "b16-q1", "kind": "form", "ref": "b16-1", "q": "{首相|しゅしょう}の{突然|とつぜん}の{辞任|じにん}（　　）、{政界|せいかい}は{大|おお}きく{混乱|こんらん}した。", "options": ["によって", "につき", "のあまり", "もので"], "answer": 0, "vi": "Do việc thủ tướng đột ngột từ chức, chính giới đã rơi vào hỗn loạn lớn.", "why": "Nguyên nhân khách quan, giọng bản tin → **によって**. 「につき」 chỉ dùng trên thông báo / biển báo với vế sau là thông báo; 「のあまり」 cần danh từ chỉ cảm xúc / mức độ (辞任 không phải); 「もので」 là thanh minh cá nhân và N phải là 「辞任なもので」."},
+    {"id": "b16-q2", "kind": "form", "ref": "b16-2", "q": "「すみません、{目覚|めざ}まし{時計|どけい}が{鳴|な}らなかった（　　）、{遅刻|ちこく}してしまいました。」", "options": ["によって", "ものですから", "あまり", "につき"], "answer": 1, "vi": "“Xin lỗi, tại đồng hồ báo thức không reo nên tôi đã đến muộn ạ.”", "why": "Xin lỗi + thanh minh lý do cá nhân → **ものですから**. 「によって」「につき」 chỉ đi với danh từ; 「あまり」 cần thể khẳng định chỉ mức độ quá cao, không đi với 「鳴らなかった」."},
+    {"id": "b16-q3", "kind": "form", "ref": "b16-3", "q": "{毎朝|まいあさ}ジョギングを{続|つづ}けている（　　）、{最近|さいきん}は{風邪|かぜ}をひかなくなった。", "options": ["せいで", "おかげで", "あまり", "ものの"], "answer": 1, "vi": "Nhờ duy trì chạy bộ mỗi sáng mà dạo này tôi không còn bị cảm nữa.", "why": "Kết quả **tốt** (không bị cảm) → **おかげで**. 「せいで」 dùng cho kết quả xấu; 「あまり」 cần mức độ quá mức dẫn đến kết quả bất thường; 「ものの」 = tuy… nhưng, không hợp nghĩa."},
+    {"id": "b16-q4", "kind": "form", "ref": "b16-4", "q": "{初|はじ}めての{舞台|ぶたい}で、{緊張|きんちょう}の（　　）セリフを{全部|ぜんぶ}{忘|わす}れてしまった。", "options": ["によって", "おかげで", "ものだから", "あまり"], "answer": 3, "vi": "Trên sân khấu đầu tiên, tôi căng thẳng quá mà quên sạch lời thoại.", "why": "Danh từ cảm xúc + の + phản ứng mất kiểm soát → **あまり**. 「緊張のによって」 sai hình thức; 「緊張のおかげで」 sai nghĩa (kết quả xấu); 「ものだから」 phải là 「緊張していたものだから」, không nối với 「の」."},
+    {"id": "b16-q5", "kind": "form", "ref": "b16-5", "q": "【お{知|し}らせ】{本日|ほんじつ}はエレベーターの{点検|てんけん}（　　）、10{時|じ}から12{時|じ}までご{利用|りよう}いただけません。", "options": ["のあまり", "のおかげで", "につき", "もので"], "answer": 2, "vi": "[Thông báo] Hôm nay do kiểm tra bảo dưỡng thang máy, quý khách không thể sử dụng từ 10 giờ đến 12 giờ.", "why": "Thông báo chính thức + N tình trạng → **につき**. 「のあまり」 cần mức độ quá cao; 「のおかげで」 dùng cho kết quả tốt và không hợp văn thông báo; 「もので」 là thanh minh cá nhân, văn nói."},
+    {"id": "b16-q6", "kind": "order", "ref": "b16-4", "q": "{頂上|ちょうじょう}に{着|つ}くと、＿＿＿ ＿＿＿ ★ ＿＿＿ {失|うしな}った。", "options": ["美しさに", "言葉を", "景色の", "あまりの"], "order": [2, 3, 0, 1], "answer": 0, "vi": "Lên đến đỉnh, cảnh đẹp quá đến mức tôi không nói nên lời.", "why": "**景色の あまりの 美しさに 言葉を** 失った → ★ (ô thứ 3) = 「美しさに」. Khung 「N の あまりの 〜さ に」; 「言葉を失う」 = không nói nên lời."},
+    {"id": "b16-q7", "kind": "usage", "ref": "b16-2", "q": "「〜ものだから」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["寒いものだから、窓を閉めてください。", "時間がないものだから、タクシーで行こう。", "道を間違えたものですから、遅くなってしまいました。", "便利なものだから、みんなも使いなさい。"], "answer": 2, "vi": "(3) Tại tôi đi nhầm đường nên đã đến muộn ạ.", "why": "(3) thanh minh + kết quả đã xảy ra → đúng. (1) vế sau là nhờ vả; (2) vế sau là ý chí 〜よう; (4) vế sau là mệnh lệnh. Ba trường hợp đó phải dùng 「から」."}
+  ],
+  "practice": [
+    {"id": "b16-p1", "kind": "form", "ref": "b16-1", "q": "{会議|かいぎ}の{出席者|しゅっせきしゃ}は{抽選|ちゅうせん}（　　）{決|き}めることになった。", "options": ["のせいで", "につき", "によって", "のあまり"], "answer": 2, "vi": "Người tham dự cuộc họp sẽ được quyết định bằng cách bốc thăm.", "why": "Phương tiện / cách thức → **によって**. 「のせいで」 = tại (kết quả xấu); 「につき」 là lý do trên thông báo, không mang nghĩa phương tiện; 「のあまり」 = vì quá mức."},
+    {"id": "b16-p2", "kind": "form", "ref": "b16-1", "q": "{今回|こんかい}の{台風|たいふう}（　　）{被害|ひがい}は、{全国|ぜんこく}{各地|かくち}に{広|ひろ}がっている。", "options": ["による", "によって", "につき", "のおかげの"], "answer": 0, "vi": "Thiệt hại do cơn bão lần này đang lan rộng khắp cả nước.", "why": "Ngay sau chỗ trống là danh từ 「被害」 → phải dùng dạng bổ nghĩa **による**. 「によって」 không đứng trực tiếp trước danh từ; 「につき」 không bổ nghĩa danh từ; 「おかげ」 dùng cho kết quả tốt."},
+    {"id": "b16-p3", "kind": "form", "ref": "b16-2", "q": "「{昨日|きのう}はどうして{来|こ}なかったの？」「ごめん、{急|きゅう}に{熱|ねつ}が{出|で}ちゃった（　　）……。」", "options": ["おかげで", "もんで", "あまり", "につき"], "answer": 1, "vi": "“Sao hôm qua không đến?” — “Xin lỗi, tại tự nhiên bị sốt…”", "why": "Hội thoại thân mật, thanh minh và bỏ lửng câu → **もんで** (dạng nói của もので). 「おかげで」 cho kết quả tốt; 「あまり」 cần mức độ quá cao; 「につき」 chỉ dùng trong thông báo."},
+    {"id": "b16-p4", "kind": "form", "ref": "b16-2", "q": "「どうしてピーマンを{残|のこ}すの？」「だって、{苦|にが}いんだ（　　）。」", "options": ["せい", "あまり", "につき", "もん"], "answer": 3, "vi": "“Sao lại để thừa ớt chuông?” — “Tại nó đắng mà.”", "why": "「だって〜んだもん」 = lý do kiểu nũng nịu của trẻ con → **もん**. 「〜んだせい」「〜んだあまり」「〜んだにつき」 đều sai hình thức và không thể đứng cuối câu như vậy."},
+    {"id": "b16-p5", "kind": "form", "ref": "b16-3", "q": "{昨夜|さくや}{飲|の}みすぎた（　　）、{朝|あさ}から{頭|あたま}が{痛|いた}くてたまらない。", "options": ["おかげか", "せいか", "ものの", "によって"], "answer": 1, "vi": "Chắc tại tối qua uống quá chén mà từ sáng đầu cứ đau như búa bổ.", "why": "Kết quả xấu + nguyên nhân phỏng đoán → **せいか**. 「おかげか」 dùng cho kết quả tốt; 「ものの」 = tuy… nhưng; 「によって」 chỉ đi với danh từ."},
+    {"id": "b16-p6", "kind": "form", "ref": "b16-3", "q": "{皆様|みなさま}のご{支援|しえん}の（　　）、{無事|ぶじ}に{大会|たいかい}を{終|お}えることができました。", "options": ["せいで", "あまり", "おかげで", "ものだから"], "answer": 2, "vi": "Nhờ sự ủng hộ của quý vị mà đại hội đã kết thúc tốt đẹp.", "why": "Kết quả tốt + biết ơn → **おかげで**. 「せいで」 cho kết quả xấu; 「支援のあまり」 = vì ủng hộ quá mức — sai nghĩa; 「ものだから」 không nối với 「の」 và mang sắc thái thanh minh."},
+    {"id": "b16-p7", "kind": "form", "ref": "b16-4", "q": "{息子|むすこ}の{帰|かえ}りが{遅|おそ}いのを{心配|しんぱい}する（　　）、{母|はは}は{一晩中|ひとばんじゅう}{眠|ねむ}れなかった。", "options": ["あまり", "おかげで", "につき", "によって"], "answer": 0, "vi": "Vì quá lo lắng con trai về muộn, mẹ tôi đã thức trắng cả đêm.", "why": "V辞書形 + mức độ cảm xúc quá cao → kết quả bất thường → **あまり**. 「おかげで」 cho kết quả tốt; 「につき」「によって」 chỉ đi với danh từ."},
+    {"id": "b16-p8", "kind": "form", "ref": "b16-4", "q": "（　　）{寒|さむ}さに、{水道管|すいどうかん}が{凍|こお}って{破裂|はれつ}してしまった。", "options": ["あまりに", "あまり", "あまりも", "あまりの"], "answer": 3, "vi": "Lạnh quá đến mức ống nước bị đóng băng rồi vỡ.", "why": "Trước danh từ 「寒さ」 phải dùng **あまりの** (あまりの ＋ N ＋ に). 「あまりに」 là phó từ, đứng trước tính từ (あまりに寒い); 「あまり」「あまりも」 không đứng trước danh từ như vậy."},
+    {"id": "b16-p9", "kind": "form", "ref": "b16-5", "q": "【お{知|し}らせ】ご{好評|こうひょう}（　　）、{期間限定|きかんげんてい}メニューの{販売|はんばい}を{来月|らいげつ}まで{延長|えんちょう}いたします。", "options": ["のあまり", "につき", "のせいで", "もので"], "answer": 1, "vi": "[Thông báo] Do được đón nhận nhiệt tình, chúng tôi kéo dài thời gian bán thực đơn giới hạn đến tháng sau.", "why": "Thông báo chính thức + N tình trạng → **につき**. 「のせいで」 cho kết quả xấu; 「のあまり」 dẫn đến kết quả bất thường không kiểm soát, không hợp với quyết định có chủ ý 「延長いたします」; 「もので」 là văn nói thanh minh."},
+    {"id": "b16-p10", "kind": "order", "ref": "b16-3", "q": "{彼|かれ}はいつも{自分|じぶん}の{失敗|しっぱい}を ＿＿＿ ＿＿＿ ★ ＿＿＿。", "options": ["ばかりいる", "せいに", "部下の", "して"], "order": [2, 1, 3, 0], "answer": 3, "vi": "Anh ta lúc nào cũng đổ lỗi thất bại của mình cho cấp dưới.", "why": "自分の失敗を **部下の せいに して ばかりいる** → ★ (ô thứ 3) = 「して」. 「AをBのせいにする」 = đổ lỗi A cho B; 「Vてばかりいる」 = suốt ngày chỉ…"},
+    {"id": "b16-p11", "kind": "order", "ref": "b16-2", "q": "{初|はじ}めて ＿＿＿ ＿＿＿ ★ ＿＿＿ {迷|まよ}ってしまいました。", "options": ["道に", "ものですから", "来た", "場所な"], "order": [2, 3, 1, 0], "answer": 1, "vi": "Vì là nơi tôi đến lần đầu nên đã bị lạc đường ạ.", "why": "初めて **来た 場所な ものですから 道に** 迷ってしまいました → ★ (ô thứ 3) = 「ものですから」. 「初めて来た」 bổ nghĩa cho 「場所」; N + な + ものですから; 「道に迷う」 = lạc đường."}
+  ],
+  "test": [
+    {"id": "b16-t1", "kind": "form", "ref": "b16-1", "q": "この{美術館|びじゅつかん}は、{地元|じもと}{企業|きぎょう}からの{寄付|きふ}（　　）{建設|けんせつ}された。", "options": ["につき", "のあまり", "によって", "もので"], "answer": 2, "vi": "Bảo tàng mỹ thuật này được xây dựng bằng tiền quyên góp từ các doanh nghiệp địa phương.", "why": "Phương tiện / nguồn lực để thực hiện → **によって**. 「につき」 là lý do trên thông báo; 「のあまり」 = vì quá mức; 「もので」 là thanh minh cá nhân, văn nói."},
+    {"id": "b16-t2", "kind": "form", "ref": "b16-2", "q": "「{部長|ぶちょう}、{申|もう}し{訳|わけ}ありません。{資料|しりょう}の{準備|じゅんび}に{手間取|てまど}っていた（　　）、{会議|かいぎ}の{開始|かいし}が{遅|おく}れてしまいました。」", "options": ["ものですから", "によって", "あまり", "につき"], "answer": 0, "vi": "“Thưa trưởng phòng, tôi xin lỗi. Tại tôi mất nhiều thời gian chuẩn bị tài liệu nên cuộc họp bị bắt đầu muộn.”", "why": "Xin lỗi + thanh minh → **ものですから**. 「によって」「につき」 chỉ đi với danh từ; 「あまり」 cần mức độ quá cao (手間取る không phải cảm xúc / mức độ)."},
+    {"id": "b16-t3", "kind": "form", "ref": "b16-3", "q": "{隣|となり}の{工事|こうじ}の{音|おと}の（　　）、{昨夜|さくや}はほとんど{眠|ねむ}れなかった。", "options": ["おかげで", "せいで", "あまりに", "ものだから"], "answer": 1, "vi": "Tại tiếng ồn công trình bên cạnh mà tối qua tôi gần như không ngủ được.", "why": "N + の + kết quả xấu → **せいで**. 「おかげで」 cho kết quả tốt; 「あまりに」 là phó từ, không đứng sau 「の」; 「ものだから」 không nối với 「の」 (phải là 音がうるさかったものだから)."},
+    {"id": "b16-t4", "kind": "form", "ref": "b16-4", "q": "どうしても{勝|か}ちたいと{思|おも}う（　　）、{選手|せんしゅ}たちの{動|うご}きは{硬|かた}くなっていた。", "options": ["によって", "あまり", "おかげで", "につき"], "answer": 1, "vi": "Vì quá khao khát chiến thắng, động tác của các cầu thủ trở nên cứng nhắc.", "why": "Cảm xúc quá mức → kết quả bất thường (động tác cứng) → **あまり**. 「によって」「につき」 chỉ đi với danh từ; 「おかげで」 cho kết quả tốt."},
+    {"id": "b16-t5", "kind": "usage", "ref": "b16-5", "q": "「〜につき」が「{理由|りゆう}」の{意味|いみ}で{正|ただ}しく{使|つか}われているものを{選|えら}びなさい。", "options": ["お一人様につき、二点までお買い求めいただけます。", "雨につき、傘を持って行こう。", "彼は病気につき、みんなとても心配している。", "改装工事中につき、しばらく休業いたします。"], "answer": 3, "vi": "(4) Do đang sửa chữa cải tạo, chúng tôi xin tạm nghỉ một thời gian.", "why": "(4) thông báo chính thức + N tình trạng → 「につき」 nghĩa lý do, đúng. (1) dùng đúng ngữ pháp nhưng là nghĩa “**mỗi**” (mỗi người), không phải lý do; (2) chuyện cá nhân + ý chí, phải là 雨だから; (3) hội thoại thường, phải là 病気なので."},
+    {"id": "b16-t6", "kind": "order", "ref": "b16-1", "q": "＿＿＿ ＿＿＿ ★ ＿＿＿、{復旧|ふっきゅう}の{見通|みとお}しは{立|た}っていない。", "options": ["被害が大きく", "大雨", "線路の", "による"], "order": [1, 3, 2, 0], "answer": 2, "vi": "Thiệt hại đường ray do mưa lớn rất nặng nề, chưa có triển vọng khôi phục.", "why": "**大雨 による 線路の 被害が大きく**、… → ★ (ô thứ 3) = 「線路の」. 「による」 phải đứng ngay sau 「大雨」 và trước cụm danh từ 「線路の被害」."},
+    {"id": "b16-t7", "kind": "order", "ref": "b16-4", "q": "{彼女|かのじょ}は ＿＿＿ ＿＿＿ ★ ＿＿＿ {泣|な}き{出|だ}した。", "options": ["喜びのあまり", "聞いて", "合格の", "知らせを"], "order": [2, 3, 1, 0], "answer": 1, "vi": "Nghe tin đỗ, cô ấy vui quá mà bật khóc.", "why": "彼女は **合格の 知らせを 聞いて 喜びのあまり** 泣き出した → ★ (ô thứ 3) = 「聞いて」. 「喜びのあまり」 đứng ngay trước phản ứng 「泣き出した」."}
+  ]
+}

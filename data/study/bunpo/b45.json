@@ -1,0 +1,812 @@
+{
+  "id": "b45",
+  "track": "bunpo",
+  "intro": "「は」 và 「が」 là cặp trợ từ khiến người học tiếng Nhật đau đầu nhất — và tiếng Việt không có gì tương đương, vì tiếng Việt không có trợ từ. Tin tốt: trong **văn bản**, cách chọn は／が có quy luật khá rõ.\n\nHai chức năng cơ bản:\n- **は = đề tài (主題)**: \"nói về cái gì\". 「明日の会議**は**田中さんが司会をする」 → đang nói về *cuộc họp ngày mai*.\n- **が = chủ thể (主格)**: \"ai / cái gì làm, ở trạng thái đó\". 「田中さん**が**」 → người làm là *Tanaka*.\n\nTrong một đoạn văn:\n1. **Lần đầu xuất hiện / người đọc chưa xác định được → が**; **đã xuất hiện / người đọc đã biết → は**. Giống tiếng Việt \"**một** bác tiều phu\" (が) → \"bác tiều phu **ấy**\" (は).\n2. Lần đầu xuất hiện nhưng vẫn dùng **は**: khi **đối chiếu** hai thứ (対比) hoặc **nêu riêng một thứ ra làm đề tài** (取り立て, chân lý chung, định nghĩa).\n3. Đã xuất hiện nhưng vẫn dùng **が**: khi **mạch văn chuyển hướng** đột ngột, khi **báo tin / tường thuật sự việc**, khi kể cảnh vừa phát hiện.\n4. Câu **「〜は〜が」**: は nêu đề tài, が nêu đặc điểm của đề tài đó (象は鼻が長い).\n5. Trong **mệnh đề phụ** (bổ nghĩa danh từ, 〜とき, 〜こと…) và với **từ để hỏi**, chủ ngữ dùng **が**.\n\nĐề 問題9 rất thích hỏi は／が vì nó buộc người đọc phải hiểu mạch văn, không thể chỉ nhìn một câu.",
+  "points": [
+    {
+      "id": "b45-1",
+      "pattern": "「は」と「が」の基本 ― 新しい情報は「が」、既に出た情報は「は」",
+      "reading": "「は」と「が」のきほん",
+      "meaning": "Lần đầu xuất hiện (người đọc chưa xác định được) → が; đã xuất hiện hoặc người đọc đã biết → は",
+      "structure": [
+        "Lần đầu: ある N が／一人の N が〜",
+        "Lần sau: N は〜 ／ その N は〜",
+        "Người đọc đã biết sẵn (tên riêng quen thuộc, 太陽, 日本, 私): N は〜",
+        "Hiện tượng vừa nhìn thấy (現象文): あ、雨が降ってきた／空に虹が出ている"
+      ],
+      "explain": "Hãy tưởng tượng người đọc đang cầm một **danh sách nhân vật** trong đầu. Khi một nhân vật **chưa có trong danh sách** bước vào câu chuyện, ta dùng **が** để \"giới thiệu\" họ. Từ đó trở đi, họ đã có trong danh sách, ta dùng **は** để \"nói tiếp về\" họ.\n\n「昔、ある村に一人の木こり**が**住んでいました。木こり**は**毎日山へ木を切りに行きました。ある日、木こり**は**川で一匹の小さな亀**が**動けなくなっているのを見つけました。亀**は**…」\n\n- Lần đầu: 木こりが, 亀が (người đọc chưa biết đó là ai).\n- Lần sau: 木こりは, 亀は.\n\nSo với tiếng Việt: \"Ngày xưa có **một** bác tiều phu… Bác tiều phu **ấy**…\" — tiếng Việt dùng \"một\" / \"ấy\", tiếng Nhật dùng が / は. Nhớ cặp này sẽ rất dễ.\n\nNgoài ra, khi **kể lại một cảnh vừa nhìn thấy** (không có đề tài nào cả), cũng dùng が: 「あ、雨**が**降ってきた」「空に虹**が**出ている」.",
+      "nuance": "- Dùng は cho một thứ lần đầu xuất hiện (✗ 「昔、ある村におじいさんは住んでいました」) nghe như người đọc đã biết ông cụ đó là ai — rất lạ.\n- Dùng が cho thứ đã biết khi chỉ mô tả bình thường (✗ 「子猫が生まれて間もないようだ」 ở câu thứ hai) nghe như \"chính con mèo, chứ không phải ai khác\" — thừa nhấn mạnh.",
+      "examples": [
+        {
+          "ja": "{駅|えき}の{近|ちか}くに{古|ふる}い{喫茶店|きっさてん}がある。その{店|みせ}は{創業|そうぎょう}{五十年|ごじゅうねん}になるそうだ。",
+          "vi": "Gần ga có một quán cà phê cũ. Nghe nói quán ấy đã mở được 50 năm.",
+          "note": "Lần đầu: 喫茶店が → lần sau: その店は"
+        },
+        {
+          "ja": "{昨日|きのう}、{会社|かいしゃ}に{一通|いっつう}の{手紙|てがみ}が{届|とど}いた。{手紙|てがみ}は{十年前|じゅうねんまえ}に{退職|たいしょく}した{先輩|せんぱい}からだった。",
+          "vi": "Hôm qua có một lá thư gửi đến công ty. Lá thư là của một đàn anh đã nghỉ việc từ mười năm trước.",
+          "note": "一通の手紙が → 手紙は"
+        },
+        {
+          "ja": "{公園|こうえん}で{小|ちい}さな{女|おんな}の{子|こ}が{泣|な}いていた。{女|おんな}の{子|こ}は{母親|ははおや}を{探|さが}しているようだった。",
+          "vi": "Ở công viên có một bé gái đang khóc. Cô bé có vẻ đang tìm mẹ.",
+          "note": ""
+        },
+        {
+          "ja": "{田中|たなか}さんは{来週|らいしゅう}から{大阪|おおさか}に{出張|しゅっちょう}する。",
+          "vi": "Anh Tanaka từ tuần sau sẽ đi công tác Osaka.",
+          "note": "Người cả hai bên đều biết → は ngay từ đầu"
+        },
+        {
+          "ja": "あ、{窓|まど}の{外|そと}で{雪|ゆき}が{降|ふ}り{始|はじ}めた。",
+          "vi": "A, ngoài cửa sổ tuyết bắt đầu rơi rồi.",
+          "note": "Kể cảnh vừa nhìn thấy → が"
+        }
+      ],
+      "compare": [
+        {
+          "with": "Tiếng Việt \"một … / … ấy\"",
+          "diff": "\"Một con mèo đang kêu\" ≈ 一匹の猫が鳴いている; \"Con mèo ấy rất nhỏ\" ≈ その猫は小さい. Thấy mình muốn nói \"một…\" → が; muốn nói \"…ấy / …đó\" → は."
+        }
+      ],
+      "mistakes": [
+        "✗ {昔|むかし}、ある{村|むら}におじいさんは{住|す}んでいました。→ ○ おじいさんが住んでいました",
+        "✗ {駅前|えきまえ}に{新|あたら}しい{本屋|ほんや}ができた。{本屋|ほんや}が{駅|えき}から{一分|いっぷん}のところにある。→ ○ その本屋は…"
+      ],
+      "tip": "Trong đoạn văn, **lật ngược lên trên** xem danh từ trước chỗ trống đã xuất hiện chưa. Chưa (thường có ある／一人の／一匹の) → が. Rồi → は (trừ các trường hợp đặc biệt ở điểm 4, 6)."
+    },
+    {
+      "id": "b45-2",
+      "pattern": "初めて出ても「は」― 対比",
+      "reading": "はじめてでても「は」― たいひ",
+      "meaning": "Dù lần đầu xuất hiện, khi đối chiếu hai thứ thì dùng は",
+      "structure": [
+        "A は〜が、B は〜",
+        "A は〜。一方、B は〜",
+        "Thời gian đối chiếu: 昔は〜、今は〜／平日は〜、週末は〜",
+        "Tân ngữ đối chiếu: 肉は食べるが、魚は食べない"
+      ],
+      "explain": "Khi người viết đặt **hai thứ cạnh nhau để so sánh**, cả hai đều mang は — kể cả khi chúng mới xuất hiện lần đầu. は ở đây mang nghĩa **\"còn… thì…\"**.\n\n- 「兄**は**スポーツが得意だが、弟**は**読書が好きだ」 — anh **thì** giỏi thể thao, còn em **thì** thích đọc sách.\n- 「日本に来た当時**は**日本語がわからなかった。今**は**もう困らない」 — hồi mới sang **thì**…, bây giờ **thì**….\n\nTiếng Việt có một chữ rất giống: **\"thì\"**. \"Anh thì cao, em thì thấp.\" Thấy mình muốn chèn \"thì\" để so sánh → は.\n\nは đối chiếu có thể gắn vào **mọi thành phần**, không chỉ chủ ngữ: tân ngữ (肉は食べる), thời gian (平日は), nơi chốn (東京では), thậm chí sau trợ từ khác (には, とは, からは).",
+      "nuance": "- Đôi khi chỉ có **một vế** được nói ra, vế kia ngầm hiểu: 「お酒**は**飲みません」 → (những thứ khác thì uống, nhưng) rượu thì không. Đây cũng là は đối chiếu.\n- Tín hiệu mạnh: 一方, それに対して, 〜が、〜, しかし, cặp từ trái nghĩa (昔↔今, 表↔裏, 昼↔夜).",
+      "examples": [
+        {
+          "ja": "{兄|あに}はスポーツが{得意|とくい}だが、{弟|おとうと}は{本|ほん}を{読|よ}むのが{好|す}きだ。",
+          "vi": "Anh trai thì giỏi thể thao, còn em trai thì thích đọc sách.",
+          "note": "Hai người được đối chiếu → cả hai は"
+        },
+        {
+          "ja": "{平日|へいじつ}は{仕事|しごと}で{忙|いそが}しいが、{週末|しゅうまつ}はゆっくり{休|やす}める。",
+          "vi": "Ngày thường thì bận việc, nhưng cuối tuần thì được nghỉ ngơi thong thả.",
+          "note": "Thời gian đối chiếu"
+        },
+        {
+          "ja": "{肉|にく}は{食|た}べるが、{魚|さかな}は{食|た}べない。",
+          "vi": "Thịt thì ăn, nhưng cá thì không.",
+          "note": "Tân ngữ đối chiếu: を → は"
+        },
+        {
+          "ja": "{昼|ひる}はずいぶん{暖|あたた}かくなったが、{朝晩|あさばん}はまだ{冷|ひ}える。",
+          "vi": "Ban ngày đã ấm lên nhiều, nhưng sáng sớm và tối thì vẫn còn lạnh.",
+          "note": ""
+        },
+        {
+          "ja": "{十年前|じゅうねんまえ}は{田|た}んぼばかりだったこの{辺|あた}りも、{今|いま}はマンションが{立|た}ち{並|なら}んでいる。",
+          "vi": "Vùng này mười năm trước toàn là ruộng, giờ thì chung cư mọc san sát.",
+          "note": "昔 ↔ 今"
+        },
+        {
+          "ja": "{表側|おもてがわ}には{傷|きず}がないが、{裏側|うらがわ}には{細|こま}かい{傷|きず}がたくさんある。",
+          "vi": "Mặt trước thì không có vết xước, nhưng mặt sau thì có rất nhiều vết xước nhỏ.",
+          "note": "には: に + は đối chiếu"
+        }
+      ],
+      "compare": [
+        {
+          "with": "は (đề tài, điểm 1)",
+          "diff": "は đề tài: nói tiếp về thứ đã biết. は đối chiếu: so sánh hai thứ, có thể mới xuất hiện. Cùng một chữ nhưng lý do khác nhau."
+        },
+        {
+          "with": "も",
+          "diff": "「AはXだが、BはY」 = khác nhau. 「AもBもX」 = giống nhau. Đề hay đặt も làm phương án nhiễu cho câu đối chiếu."
+        }
+      ],
+      "mistakes": [
+        "✗ {兄|あに}がスポーツが{得意|とくい}だが、{弟|おとうと}が{読書|どくしょ}が{好|す}きだ。→ ○ 兄は…、弟は…",
+        "✗ {表側|おもてがわ}には{傷|きず}がないが、{裏側|うらがわ}にも{傷|きず}がある。(も = cũng, mâu thuẫn với が đối lập) → ○ 裏側には"
+      ],
+      "tip": "Thấy **một phần đã có は** + 〜が、/ 一方 / しかし + phần thứ hai có chỗ trống → phần thứ hai cũng là **は** (hoặc には・では…)."
+    },
+    {
+      "id": "b45-3",
+      "pattern": "初めて出ても「は」― 取り立て",
+      "reading": "はじめてでても「は」― とりたて",
+      "meaning": "Dù lần đầu xuất hiện, khi nêu riêng một thứ ra làm đề tài (chân lý chung, định nghĩa, tân ngữ được nêu lên) thì dùng は",
+      "structure": [
+        "N は〜ものだ (chân lý chung)",
+        "N とは／N というのは〜 (định nghĩa)",
+        "[người] は N は〜 (tân ngữ được nêu lên làm đề tài)",
+        "Câu mở đầu bài văn giải thích: N は〜"
+      ],
+      "explain": "取り立て = **\"nhấc riêng ra\"**. Người viết chọn một thứ, **nhấc nó ra khỏi câu** và đặt lên đầu làm đề tài, rồi nói điều gì đó về nó.\n\nCác trường hợp hay gặp:\n- **Chân lý chung, nhận xét tổng quát**: 「人間**は**一人では生きられない」「子ども**は**親の背中を見て育つものだ」. Đây là lần đầu nhắc đến 人間 / 子ども, nhưng người đọc ai cũng biết \"con người\" là gì → は.\n- **Định nghĩa, giải thích**: 「梅雨**とは**、六月ごろに雨の日が続く時期のことだ」.\n- **Câu mở đầu bài văn giải thích**: 「月**は**、いつも同じ面を地球に向けている」 — chủ đề của cả bài.\n- **Tân ngữ được nhấc lên**: 「私はこの店のラーメン**は**もう何十回も食べた」 — vốn là ラーメンを食べた, nhưng người viết đưa \"món ramen của quán này\" ra làm đề tài để nói tiếp.\n\nCách hiểu bằng tiếng Việt: \"**Nói về** X **thì**…\", \"X **ấy mà**…\".",
+      "nuance": "- Danh từ chỉ **loại chung** (人間, 子ども, 言葉, 健康) mà làm chủ ngữ của câu chân lý thì gần như luôn là は; dùng が sẽ nghe như \"chính con người (chứ không phải loài khác)…\".\n- Trong câu chân lý chung, đuôi câu hay là 〜ものだ／〜ことだ／〜のである.",
+      "examples": [
+        {
+          "ja": "{人間|にんげん}は{一人|ひとり}では{生|い}きていけない。",
+          "vi": "Con người không thể sống một mình.",
+          "note": "Chân lý chung"
+        },
+        {
+          "ja": "{子|こ}どもは{親|おや}の{言葉|ことば}より{行動|こうどう}をまねるものだ。",
+          "vi": "Trẻ con thường bắt chước hành động hơn là lời nói của cha mẹ.",
+          "note": "〜は〜ものだ"
+        },
+        {
+          "ja": "{健康|けんこう}というのは、{失|うしな}って{初|はじ}めてありがたさがわかるものだ。",
+          "vi": "Sức khoẻ là thứ chỉ khi mất đi mới hiểu được giá trị.",
+          "note": "というのは: nêu đề tài để định nghĩa/nhận xét"
+        },
+        {
+          "ja": "{私|わたし}は{和食|わしょく}の{中|なか}でも{天|てん}ぷらはよく{作|つく}る。",
+          "vi": "Trong các món Nhật, riêng tempura thì tôi hay làm.",
+          "note": "Tân ngữ nhấc lên: 天ぷらを → 天ぷらは"
+        },
+        {
+          "ja": "{日本|にほん}の{夏|なつ}は、{気温|きおん}だけでなく{湿度|しつど}も{高|たか}い。",
+          "vi": "Mùa hè Nhật Bản không chỉ nóng mà độ ẩm cũng cao.",
+          "note": "Câu mở đầu bài giải thích"
+        }
+      ],
+      "compare": [
+        {
+          "with": "は đối chiếu (điểm 2)",
+          "diff": "対比 luôn có (hoặc ngầm có) **hai** thứ đem ra so. 取り立て chỉ nhấc **một** thứ lên làm đề tài, không nhất thiết so với gì."
+        }
+      ],
+      "mistakes": [
+        "✗ {人間|にんげん}が{一人|ひとり}では{生|い}きていけない。(câu chân lý chung) → ○ 人間は…",
+        "✗ {言葉|ことば}が{時代|じだい}とともに{変化|へんか}するものだ。→ ○ 言葉は…ものだ"
+      ],
+      "tip": "Chỗ trống đứng sau một **danh từ chỉ loại chung** và câu kết thúc bằng **〜ものだ／〜のである** → は. Câu **đầu tiên** của bài văn giải thích, nêu chủ đề cả bài → は."
+    },
+    {
+      "id": "b45-4",
+      "pattern": "既に出ていても「が」― 流れの変化・出来事の報告",
+      "reading": "すでにでていても「が」",
+      "meaning": "Dù đã xuất hiện, khi mạch văn chuyển hướng đột ngột, khi báo tin / tường thuật sự việc, hay kể cảnh vừa phát hiện → が",
+      "structure": [
+        "ところが／そのとき／ある日、N が〜 (chuyển hướng)",
+        "[sự việc]。そのため、N が〜 (tường thuật diễn biến)",
+        "〜と、N が〜ていた (cảnh vừa phát hiện)",
+        "Tin tức: 今朝、〜で事故が起きた"
+      ],
+      "explain": "は giống như **\"tiếp tục nói về đề tài cũ\"** — câu chuyện trôi êm. Khi câu chuyện **bị ngắt** bởi một sự việc mới, đột ngột, người viết không còn \"nói về\" ai nữa mà **thuật lại một sự việc** — lúc đó dùng **が**, dù nhân vật đã xuất hiện trước đó.\n\n**1. Mạch văn chuyển hướng lớn.** 「うちの家族はみんな朝が早い。ところがある朝、いつも一番に起きる祖母**が**なかなか起きてこなかった」. 祖母 đã nằm trong 家族, nhưng câu này là một **biến cố** → が.\n\n**2. Tường thuật sự việc, tin tức.** 「昨夜、大雨で川があふれた。その影響で、国道**が**一時通行止めになった」. Người viết không bàn về \"tàu điện\" mà báo **chuyện gì đã xảy ra**.\n\n**3. Cảnh vừa phát hiện.** 「台所へ行くと、父**が**冷蔵庫の前に座っていた」 — khuôn 〜と、N が〜ていた.\n\nCâu hỏi tự kiểm tra: **câu này trả lời \"X thế nào?\" (→ は) hay \"đã xảy ra chuyện gì?\" (→ が)**.",
+      "nuance": "- Tín hiệu: ところが, そのとき, ある日, 突然, 急に, 〜と (phát hiện), そのため／その影響で (diễn biến), 今朝・昨夜 + sự cố.\n- Đây là quy tắc thiên về **sắc thái**; đề thi chỉ hỏi ở những chỗ mà ngữ cảnh rất rõ là một biến cố.",
+      "examples": [
+        {
+          "ja": "{家族|かぞく}で{毎年|まいとし}{夏|なつ}には{海|うみ}へ{行|い}っていた。ところが{去年|きょねん}、{父|ちち}が{急|きゅう}に「{今年|ことし}は{山|やま}にしよう」と{言|い}い{出|だ}した。",
+          "vi": "Cả nhà năm nào hè cũng đi biển. Vậy mà năm ngoái, bố đột nhiên nói \"Năm nay đi núi đi.\"",
+          "note": "ところが + biến cố → が"
+        },
+        {
+          "ja": "{会議|かいぎ}は{順調|じゅんちょう}に{進|すす}んでいた。そのとき、{部長|ぶちょう}が{突然|とつぜん}{立|た}ち{上|あ}がった。",
+          "vi": "Cuộc họp đang diễn ra suôn sẻ. Đúng lúc đó, trưởng phòng đột nhiên đứng bật dậy.",
+          "note": "そのとき + hành động đột ngột"
+        },
+        {
+          "ja": "{昨夜|さくや}、{大雪|おおゆき}で{空港|くうこう}の{滑走路|かっそうろ}が{閉鎖|へいさ}された。そのため、{朝|あさ}の{便|びん}が{全|すべ}て{欠航|けっこう}になった。",
+          "vi": "Đêm qua tuyết lớn khiến đường băng sân bay bị đóng. Vì thế tất cả các chuyến bay buổi sáng đều bị huỷ.",
+          "note": "Tường thuật diễn biến"
+        },
+        {
+          "ja": "{商店街|しょうてんがい}の{夏祭|なつまつ}りは{五十年|ごじゅうねん}{以上|いじょう}{続|つづ}いてきた。その{祭|まつ}りが、{今年|ことし}で{最後|さいご}になるという。",
+          "vi": "Lễ hội mùa hè của khu phố đã kéo dài hơn 50 năm. Nghe nói lễ hội ấy năm nay sẽ là lần cuối cùng.",
+          "note": "Tin mới về đề tài cũ → が"
+        },
+        {
+          "ja": "{夜中|よなか}に{目|め}を{覚|さ}ますと、{窓|まど}の{外|そと}で{猫|ねこ}が{鳴|な}いていた。",
+          "vi": "Nửa đêm tỉnh dậy thì thấy ngoài cửa sổ có con mèo đang kêu.",
+          "note": "〜と、N が〜ていた (cảnh phát hiện)"
+        }
+      ],
+      "compare": [
+        {
+          "with": "は (điểm 1)",
+          "diff": "「父は毎朝散歩する」 = nói về bố (thói quen). 「ある朝、父が倒れた」 = báo một biến cố. Cùng nhân vật, khác loại câu."
+        }
+      ],
+      "mistakes": [
+        "✗ ({目|め}を{覚|さ}ますと…) {居間|いま}で{父|ちち}はテレビを{見|み}ていた。(cảnh vừa phát hiện) → ○ 父がテレビを見ていた",
+        "✗ {今日|きょう}{午前|ごぜん}、{市内|しない}で{停電|ていでん}は{発生|はっせい}した。→ ○ 停電が発生した"
+      ],
+      "tip": "Trước chỗ trống có **ところが／そのとき／ある日／突然**, hoặc khuôn **〜と、＿＿〜ていた**, hoặc đoạn văn là **tin tức về sự cố** → chọn **が**."
+    },
+    {
+      "id": "b45-5",
+      "pattern": "「〜は〜が」文",
+      "reading": "〜は〜がぶん",
+      "meaning": "は nêu đề tài, が nêu bộ phận / khía cạnh mang đặc điểm của đề tài đó",
+      "structure": [
+        "[đề tài] は [bộ phận / khía cạnh] が [tính chất]: 象は鼻が長い",
+        "[người] は [đối tượng] が 好きだ／上手だ／わかる／ほしい／できる",
+        "[người] は [người thân] が いる／ある"
+      ],
+      "explain": "Câu nổi tiếng nhất về は／が: 「象**は**鼻**が**長い」 — Con voi (nói về voi) thì **cái vòi** dài.\n\nCấu trúc hai tầng:\n- Tầng ngoài: **は** nêu **đề tài** (con voi, thành phố này, cô ấy).\n- Tầng trong: **が** nêu **bộ phận / khía cạnh** cụ thể và tính chất của nó (vòi dài, nước ngon, nấu ăn giỏi).\n\nTrong văn bản, khuôn này hay xuất hiện khi người viết **mô tả đặc điểm** của một đề tài vừa được nêu: 「夏休みに北海道を旅行した。北海道**は**牛乳**が**本当においしかった」.\n\nCũng thuộc khuôn này là các tính từ / động từ chỉ **cảm xúc, khả năng, sở hữu**: 好き・嫌い・上手・下手・わかる・できる・ほしい・ある・いる — đối tượng đi với **が**: 「彼女**は**料理**が**上手だ」「私**は**兄**が**二人いる」.\n\nTiếng Việt cũng có cấu trúc rất giống: \"Thành phố này **thì** nước ngon\", \"Voi **thì** vòi dài\" — chữ \"thì\" ↔ は.",
+      "nuance": "- Bên trong mệnh đề bổ nghĩa, phần は của khuôn này đổi thành が／の: 「鼻**が**長い動物」「水**の**おいしい町」.\n- Phần が có thể đổi thành は nếu muốn **đối chiếu** khía cạnh đó với khía cạnh khác: 「この町は水**は**おいしいが、空気**は**悪い」.",
+      "examples": [
+        {
+          "ja": "この{町|まち}は{水|みず}がおいしいことで{知|し}られている。",
+          "vi": "Thị trấn này nổi tiếng là nước ngon.",
+          "note": "は (đề tài) + が (khía cạnh)"
+        },
+        {
+          "ja": "{京都|きょうと}は{秋|あき}が{一番|いちばん}{美|うつく}しいと{言|い}われる。",
+          "vi": "Người ta nói Kyoto đẹp nhất vào mùa thu.",
+          "note": ""
+        },
+        {
+          "ja": "{彼女|かのじょ}は{料理|りょうり}が{上手|じょうず}で、{特|とく}に{和食|わしょく}が{得意|とくい}だ。",
+          "vi": "Cô ấy nấu ăn giỏi, đặc biệt là món Nhật.",
+          "note": "上手・得意 → đối tượng + が"
+        },
+        {
+          "ja": "{久|ひさ}しぶりに{帰|かえ}った{田舎|いなか}は、{星|ほし}が{驚|おどろ}くほどきれいだった。",
+          "vi": "Về lại quê sau bao lâu, sao trên trời đẹp đến kinh ngạc.",
+          "note": "Mô tả đặc điểm của đề tài vừa nêu"
+        },
+        {
+          "ja": "{祖父|そふ}は{九十歳|きゅうじゅっさい}を{過|す}ぎた{今|いま}も{耳|みみ}がよく{聞|き}こえる。",
+          "vi": "Ông tôi đã ngoài chín mươi mà tai vẫn còn rất thính.",
+          "note": ""
+        },
+        {
+          "ja": "{私|わたし}は{兄|あに}が{二人|ふたり}いる。",
+          "vi": "Tôi có hai người anh trai.",
+          "note": "Sở hữu (いる／ある) → が"
+        }
+      ],
+      "compare": [
+        {
+          "with": "「〜の〜は」",
+          "diff": "「象の鼻は長い」 cũng đúng, nhưng đề tài là *cái vòi của voi*. 「象は鼻が長い」 đề tài là *con voi* — hợp khi đang nói về voi và kể đặc điểm của nó."
+        }
+      ],
+      "mistakes": [
+        "✗ {彼女|かのじょ}は{料理|りょうり}を{上手|じょうず}だ。→ ○ 料理が上手だ",
+        "✗ {私|わたし}の{故郷|こきょう}は{桃|もも}はおいしいことで{有名|ゆうめい}だ。(bên trong こと-clause) → ○ 桃がおいしいことで…"
+      ],
+      "tip": "Câu đã có **[đề tài]は** ở đầu, phía sau là một tính từ mô tả (長い, おいしい, きれい, 上手, 有名…) → danh từ đứng ngay trước tính từ đó mang **が**."
+    },
+    {
+      "id": "b45-6",
+      "pattern": "従属節の中の「が」・疑問詞＋「が」",
+      "reading": "じゅうぞくせつのなかの「が」・ぎもんし＋「が」",
+      "meaning": "Trong mệnh đề phụ (bổ nghĩa danh từ, 〜とき, 〜こと, 〜なら…) và với từ để hỏi, chủ ngữ dùng が",
+      "structure": [
+        "[N が V] N2 は〜: 母が作るカレーは〜",
+        "N が〜とき／〜たら／〜なら、[N2 は]〜",
+        "N が〜ことは／〜のは〜",
+        "誰が／何が〜か (từ để hỏi) → trả lời: N が〜"
+      ],
+      "explain": "は có \"tầm với\" rất xa: nó là đề tài của **cả câu** cho đến cuối câu. Vì vậy, chủ ngữ **bên trong một mệnh đề phụ** (chỉ sống trong mệnh đề đó) phải dùng **が**.\n\nSo sánh:\n- 「父**が**帰ってきたとき、私**は**宿題をしていた」 — bố về (mệnh đề phụ, が); **tôi** đang làm bài (cả câu, は).\n- 「父**は**帰ってきたとき、宿題をしていた」 — **bố** về và **bố** đang làm bài! Chủ ngữ của cả hai vế đều là bố.\n\nCác loại mệnh đề phụ hay gặp: **bổ nghĩa danh từ** (母が作ったケーキ), **〜とき／〜たら／〜ば／〜なら／〜前に／〜あとで**, **〜こと／〜の**.\n\nVới **từ để hỏi** làm chủ ngữ (誰, 何, どれ, どこ), luôn là **が**: 「誰**が**この絵を描いたの？」 — và câu trả lời cũng dùng が: 「妹**が**描きました」. Không bao giờ nói 「誰は」.\n\nMẹo tiếng Việt: \"cái bánh **mẹ làm**\" — phần \"mẹ làm\" chỉ là một mảnh nhỏ bổ nghĩa cho \"cái bánh\" → が. Đề tài lớn của câu (\"cái bánh ấy thì ngon\") → は.",
+      "nuance": "- Trong mệnh đề bổ nghĩa danh từ, が có thể đổi thành の: 「母**の**作るカレー」.\n- Ngoại lệ: mệnh đề 〜が、〜 (nhưng), 〜けれど, 〜から và cả 〜ので／〜のに **có thể mang は**, vì chúng \"độc lập\" hơn (「兄は背が高いが、弟は低い」「今日は休みなので、ゆっくり寝た」). Với các mệnh đề này, chọn は hay が theo quy tắc đề tài/đối chiếu như câu thường.",
+      "examples": [
+        {
+          "ja": "{母|はは}が{作|つく}るカレーは、どの{店|みせ}のカレーよりもおいしい。",
+          "vi": "Món cà ri mẹ nấu ngon hơn cà ri ở bất kỳ quán nào.",
+          "note": "Bổ nghĩa danh từ → が; đề tài cả câu → は"
+        },
+        {
+          "ja": "{私|わたし}が{帰|かえ}ったとき、{家|いえ}には{誰|だれ}もいなかった。",
+          "vi": "Khi tôi về thì trong nhà không có ai.",
+          "note": "〜とき → が"
+        },
+        {
+          "ja": "{先生|せんせい}が{勧|すす}めてくださった{本|ほん}は、とても{面白|おもしろ}かった。",
+          "vi": "Cuốn sách thầy giới thiệu cho tôi rất thú vị.",
+          "note": ""
+        },
+        {
+          "ja": "「{誰|だれ}がこの{企画|きかく}を{考|かんが}えたんですか。」「{入社|にゅうしゃ}{二年目|にねんめ}の{山田|やまだ}さんが{考|かんが}えました。」",
+          "vi": "\"Ai đã nghĩ ra kế hoạch này vậy?\" — \"Anh Yamada, nhân viên năm thứ hai, đã nghĩ ra.\"",
+          "note": "Từ để hỏi + が; câu trả lời + が"
+        },
+        {
+          "ja": "{彼|かれ}が{来|こ}ないなら、{会議|かいぎ}は{来週|らいしゅう}に{延期|えんき}しよう。",
+          "vi": "Nếu anh ấy không đến thì hoãn cuộc họp sang tuần sau đi.",
+          "note": "〜なら → が"
+        },
+        {
+          "ja": "{山田|やまだ}さんが{会社|かいしゃ}を{辞|や}めることは、まだ{誰|だれ}にも{話|はな}していない。",
+          "vi": "Chuyện anh Yamada nghỉ việc, tôi vẫn chưa nói với ai.",
+          "note": "〜こと → が"
+        }
+      ],
+      "compare": [
+        {
+          "with": "「〜は、〜とき〜」",
+          "diff": "「私は駅に着いたとき、電話した」 = **tôi** đến ga và **tôi** gọi điện (cùng chủ ngữ). 「私が駅に着いたとき、彼が電話してきた」 = hai chủ ngữ khác nhau."
+        }
+      ],
+      "mistakes": [
+        "✗ {私|わたし}は{作|つく}ったケーキを、{友達|ともだち}がおいしいと{言|い}ってくれた。→ ○ 私が作ったケーキを…",
+        "✗ {誰|だれ}は{窓|まど}を{割|わ}ったんですか。→ ○ 誰が…",
+        "✗ {兄|あに}は{合格|ごうかく}したとき、{母|はは}は{泣|な}いて{喜|よろこ}んだ。→ ○ 兄が合格したとき、母は…"
+      ],
+      "tip": "Chỗ trống nằm **trong cụm bổ nghĩa danh từ** hoặc **trước 〜とき／〜たら／〜なら／〜こと**, và chủ ngữ của cụm đó **khác** chủ ngữ câu chính → **が**. Thấy **từ để hỏi** → luôn **が**."
+    }
+  ],
+  "summary": [
+    {
+      "pattern": "が (thông tin mới) ↔ は (đã biết)",
+      "meaning": "\"một…\" ↔ \"…ấy\"",
+      "key": "ある／一人の N が → その N は; cảnh vừa thấy → が"
+    },
+    {
+      "pattern": "は đối chiếu (対比)",
+      "meaning": "\"còn… thì…\"",
+      "key": "A は〜が、B は〜; 一方; 昔は↔今は; には・では"
+    },
+    {
+      "pattern": "は nêu đề tài (取り立て)",
+      "meaning": "\"nói về X thì…\"",
+      "key": "chân lý chung 〜ものだ; định nghĩa とは; câu mở đầu bài giải thích"
+    },
+    {
+      "pattern": "が dù đã xuất hiện",
+      "meaning": "biến cố, tin tức",
+      "key": "ところが／そのとき／ある日; 〜と、N が〜ていた; sự cố, diễn biến"
+    },
+    {
+      "pattern": "〜は〜が",
+      "meaning": "đề tài + khía cạnh",
+      "key": "象は鼻が長い; 好き・上手・わかる・いる + が"
+    },
+    {
+      "pattern": "が trong mệnh đề phụ, từ để hỏi",
+      "meaning": "chủ ngữ cục bộ",
+      "key": "N が V N2; 〜とき・〜こと・〜なら; 誰が"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b45-q1",
+      "kind": "form",
+      "ref": "b45-1",
+      "q": "{昔|むかし}、ある{海辺|うみべ}の{村|むら}に{一人|ひとり}の{若|わか}い{漁師|りょうし}（　　）{住|す}んでいました。",
+      "options": [
+        "は",
+        "が",
+        "も",
+        "を"
+      ],
+      "answer": 1,
+      "vi": "Ngày xưa, ở một làng ven biển có một chàng ngư dân trẻ sinh sống.",
+      "why": "Nhân vật **lần đầu xuất hiện** (一人の若い漁師) → **が**. 「は」 nghe như người đọc đã biết chàng ngư dân đó. 「も」 = cũng — không có ai khác để so. 「を」 sai vì 住む là tự động từ."
+    },
+    {
+      "id": "b45-q2",
+      "kind": "form",
+      "ref": "b45-2",
+      "q": "{兄|あに}は{理系|りけい}の{科目|かもく}が{得意|とくい}だが、{弟|おとうと}（　　）{国語|こくご}や{歴史|れきし}のほうが{好|す}きだ。",
+      "options": [
+        "が",
+        "を",
+        "は",
+        "に"
+      ],
+      "answer": 2,
+      "vi": "Anh trai thì giỏi các môn tự nhiên, còn em trai thì thích văn và lịch sử hơn.",
+      "why": "Hai người được **đối chiếu** (兄は〜が、弟は〜) → **は**. 「が」 làm mất nghĩa đối chiếu và trùng với 好きだ có が sẵn. 「を」「に」 sai cấu trúc với 好きだ."
+    },
+    {
+      "id": "b45-q3",
+      "kind": "form",
+      "ref": "b45-3",
+      "q": "そもそも{言葉|ことば}（　　）、{時代|じだい}とともに{少|すこ}しずつ{変化|へんか}していくものである。",
+      "options": [
+        "は",
+        "が",
+        "を",
+        "で"
+      ],
+      "answer": 0,
+      "vi": "Vốn dĩ ngôn ngữ là thứ thay đổi dần theo thời đại.",
+      "why": "Câu **chân lý chung** về một loại sự vật, kết thúc bằng 〜ものである → **は** (取り立て). 「が」 nghe như \"chính ngôn ngữ (chứ không phải thứ khác)\" — không hợp câu nhận xét tổng quát. 「を」「で」 sai vì 変化していく là tự động từ."
+    },
+    {
+      "id": "b45-q4",
+      "kind": "form",
+      "ref": "b45-4",
+      "q": "{今日|きょう}{午前|ごぜん}{十時|じゅうじ}ごろ、{市内|しない}の{広|ひろ}い{範囲|はんい}で{大規模|だいきぼ}な{停電|ていでん}（　　）{発生|はっせい}した。",
+      "options": [
+        "は",
+        "を",
+        "に",
+        "が"
+      ],
+      "answer": 3,
+      "vi": "Khoảng 10 giờ sáng nay, một vụ mất điện quy mô lớn đã xảy ra trên diện rộng trong thành phố.",
+      "why": "Câu **tin tức** thuật lại một sự việc vừa xảy ra → **が**. 「は」 biến 停電 thành đề tài đã biết / đối chiếu — không hợp với bản tin. 「を」「に」 sai vì 発生する là tự động từ, cần chủ ngữ."
+    },
+    {
+      "id": "b45-q5",
+      "kind": "form",
+      "ref": "b45-5",
+      "q": "この{島|しま}は（　　）、{一年中|いちねんじゅう}{観光客|かんこうきゃく}が{絶|た}えない。",
+      "options": [
+        "海がきれいで",
+        "海はきれいなのに",
+        "海にきれいで",
+        "海できれいで"
+      ],
+      "answer": 0,
+      "vi": "Hòn đảo này biển đẹp nên quanh năm không ngớt khách du lịch.",
+      "why": "Khuôn **[đề tài]は [khía cạnh]が [tính chất]** → この島は**海がきれいで**. 「海はきれいなのに」: のに mang nghĩa trái ngược, mâu thuẫn với việc đông khách. 「海にきれいで」「海できれいで」 sai trợ từ."
+    },
+    {
+      "id": "b45-q6",
+      "kind": "usage",
+      "ref": "b45-6",
+      "q": "「は・が」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "私は作ったケーキを、友達がおいしいと言ってくれた。",
+        "父が帰ってきたとき、私は宿題をしていた。",
+        "誰はこの窓を割ったんですか。",
+        "あ、あそこに田中さんはいる。"
+      ],
+      "answer": 1,
+      "vi": "(2) Khi bố về thì tôi đang làm bài tập.",
+      "why": "(2) mệnh đề 〜とき có chủ ngữ riêng (父が), câu chính có đề tài 私は ○. (1) 「作った」 là mệnh đề bổ nghĩa cho ケーキ → 私が作ったケーキ. (3) từ để hỏi luôn đi với が → 誰が. (4) cảnh vừa phát hiện → 田中さんがいる."
+    }
+  ],
+  "passages": {
+    "p1": {
+      "title": "父と子猫",
+      "kind": "随筆",
+      "ja": "{去年|きょねん}の{秋|あき}、{近所|きんじょ}の{公園|こうえん}で{一匹|いっぴき}の{子猫|こねこ}（　1　）{鳴|な}いているのを{見|み}つけた。{子猫|こねこ}（　2　）まだ{生|う}まれて{間|ま}もないようで、{雨|あめ}にぬれて{小|ちい}さく{震|ふる}えていた。{放|ほう}っておけず、わたしは{子猫|こねこ}を{家|いえ}に{連|つ}れて{帰|かえ}った。\n\nわたしの{家族|かぞく}は、もともと{動物|どうぶつ}があまり{好|す}きではない。{特|とく}に{父|ちち}は、「{動物|どうぶつ}を{家|いえ}の{中|なか}で{飼|か}うなんてとんでもない」というのが{口癖|くちぐせ}だった。ところが、その{夜|よる}、のどが{渇|かわ}いて{台所|だいどころ}へ{行|い}くと、{薄暗|うすぐら}い{居間|いま}で{父|ちち}（　3　）{子猫|こねこ}にミルクを{飲|の}ませていた。スプーンで{少|すこ}しずつ、とても{慎重|しんちょう}に。わたしに{気|き}づくと、{父|ちち}は{気|き}まずそうに「{腹|はら}が{減|へ}っているようだったから」とだけ{言|い}った。\n\nそれから{一年|いちねん}が{経|た}った。{子猫|こねこ}は「ミケ」と{名付|なづ}けられ、{今|いま}ではすっかり{家族|かぞく}の{一員|いちいん}だ。{母|はは}は{今|いま}でも{少|すこ}し{猫|ねこ}を{怖|こわ}がっている。{一方|いっぽう}、{父|ちち}（　4　）、{休|やす}みの{日|ひ}になるとミケとソファで{昼寝|ひるね}をしている。あの{口癖|くちぐせ}は、いつの{間|ま}にか{聞|き}かなくなった。",
+      "vi": "Mùa thu năm ngoái, tôi bắt gặp một chú mèo con đang kêu ở công viên gần nhà. Chú mèo con có vẻ mới sinh chưa được bao lâu, bị ướt mưa và run lẩy bẩy. Không nỡ bỏ mặc, tôi mang mèo con về nhà.\n\nGia đình tôi vốn không thích động vật lắm. Đặc biệt bố tôi có câu cửa miệng: \"Nuôi động vật trong nhà là chuyện không thể chấp nhận được.\" Vậy mà đêm hôm đó, khi tôi khát nước đi xuống bếp, thì thấy trong phòng khách mờ tối, bố đang cho mèo con uống sữa. Từng chút một bằng thìa, vô cùng cẩn thận. Khi nhận ra tôi, bố chỉ ngượng ngùng nói: \"Trông nó có vẻ đói.\"\n\nTừ đó đến nay đã một năm. Mèo con được đặt tên là \"Mike\" và giờ đã hoàn toàn là một thành viên trong gia đình. Mẹ tôi đến giờ vẫn còn hơi sợ mèo. Còn bố thì cứ đến ngày nghỉ là lại nằm ngủ trưa trên ghế sofa cùng Mike. Câu cửa miệng ngày nào, chẳng biết từ lúc nào đã không còn nghe thấy nữa."
+    },
+    "p2": {
+      "title": "月の裏側",
+      "kind": "説明文",
+      "ja": "{夜空|よぞら}に{浮|う}かぶ{月|つき}（　1　）、いつも{同|おな}じ{面|めん}を{地球|ちきゅう}に{向|む}けている。そのため、わたしたちは{月|つき}の{裏側|うらがわ}を{地上|ちじょう}から{直接|ちょくせつ}{見|み}ることができない。これは、{月|つき}が{一回|いっかい}{自転|じてん}する{間|あいだ}に、{地球|ちきゅう}の{周|まわ}りをちょうど{一周|いっしゅう}するからである。\n\nでは、{月|つき}の{裏側|うらがわ}はどうなっているのだろうか。{長|なが}い{間|あいだ}、それを{知|し}る{方法|ほうほう}はなかった。ところが{一九五九年|せんきゅうひゃくごじゅうきゅうねん}、{旧|きゅう}ソ{連|れん}の{探査機|たんさき}（　2　）、{初|はじ}めて{裏側|うらがわ}の{撮影|さつえい}に{成功|せいこう}した。{送|おく}られてきた{写真|しゃしん}を{見|み}て、{科学者|かがくしゃ}たちは{驚|おどろ}いた。{表側|おもてがわ}には「{海|うみ}」と{呼|よ}ばれる{黒|くろ}く{平|たい}らな{部分|ぶぶん}が{多|おお}いのに、{裏側|うらがわ}（　3　）それがほとんど{見|み}られなかったのである。\n\nなぜ{表|おもて}と{裏|うら}でこれほど{違|ちが}うのか。その{理由|りゆう}については、{今|いま}もさまざまな{説|せつ}があり、{研究|けんきゅう}が{続|つづ}けられている。わたしたち（　4　）{毎晩|まいばん}{何気|なにげ}なく{見上|みあ}げている{月|つき}にも、まだ{多|おお}くの{謎|なぞ}が{残|のこ}されているのだ。",
+      "vi": "Mặt Trăng lơ lửng trên bầu trời đêm luôn hướng cùng một mặt về phía Trái Đất. Vì vậy, từ mặt đất chúng ta không thể trực tiếp nhìn thấy mặt sau của Mặt Trăng. Điều này là do trong khoảng thời gian Mặt Trăng tự quay một vòng, nó cũng quay quanh Trái Đất đúng một vòng.\n\nVậy mặt sau của Mặt Trăng trông như thế nào? Trong một thời gian dài, không có cách nào để biết điều đó. Thế nhưng vào năm 1959, một tàu thăm dò của Liên Xô cũ lần đầu tiên chụp được ảnh mặt sau. Nhìn những bức ảnh được gửi về, các nhà khoa học đã kinh ngạc. Mặt trước có nhiều vùng tối và bằng phẳng được gọi là \"biển\", vậy mà ở mặt sau hầu như không thấy chúng.\n\nVì sao mặt trước và mặt sau lại khác nhau đến vậy? Về lý do này, đến nay vẫn có nhiều giả thuyết và việc nghiên cứu vẫn đang tiếp tục. Ngay cả Mặt Trăng mà chúng ta vẫn vô tình ngước nhìn mỗi tối cũng còn ẩn chứa biết bao điều bí ẩn."
+    }
+  },
+  "practice": [
+    {
+      "id": "b45-p1",
+      "kind": "passage",
+      "ref": "b45-6",
+      "pass": "p1",
+      "q": "（　1　）に{入|はい}るものはどれか。",
+      "options": [
+        "は",
+        "が",
+        "を",
+        "も"
+      ],
+      "answer": 1,
+      "vi": "Mùa thu năm ngoái, tôi bắt gặp một chú mèo con đang kêu ở công viên gần nhà.",
+      "why": "Mèo con **lần đầu xuất hiện** (一匹の子猫) và lại nằm **trong mệnh đề phụ** 〜のを見つけた (chủ ngữ câu chính là わたし) → **が**. 「は」 sai vì vừa là thông tin mới vừa nằm trong mệnh đề phụ. 「を」 sai vì 鳴く là tự động từ. 「も」 = cũng — không có con vật nào khác trước đó."
+    },
+    {
+      "id": "b45-p2",
+      "kind": "passage",
+      "ref": "b45-1",
+      "pass": "p1",
+      "q": "（　2　）に{入|はい}るものはどれか。",
+      "options": [
+        "が",
+        "を",
+        "は",
+        "も"
+      ],
+      "answer": 2,
+      "vi": "Chú mèo con có vẻ mới sinh chưa được bao lâu, bị ướt mưa và run lẩy bẩy.",
+      "why": "Mèo con **đã xuất hiện** ở câu trước, câu này mô tả tiếp về nó → **は** (\"chú mèo con ấy\"). 「が」 nghe như nhấn mạnh \"chính con mèo (chứ không phải thứ khác)\" — thừa. 「を」 sai cấu trúc. 「も」 = cũng — không có đối tượng nào khác."
+    },
+    {
+      "id": "b45-p3",
+      "kind": "passage",
+      "ref": "b45-4",
+      "pass": "p1",
+      "q": "（　3　）に{入|はい}るものはどれか。",
+      "options": [
+        "が",
+        "は",
+        "を",
+        "に"
+      ],
+      "answer": 0,
+      "vi": "… khi tôi khát nước đi xuống bếp, thì thấy trong phòng khách mờ tối, bố đang cho mèo con uống sữa.",
+      "why": "Dù 父 đã xuất hiện, đây là **cảnh vừa phát hiện** sau 「ところが」 và khuôn **〜と、N が〜ていた** → **が**. 「は」 biến câu thành lời nhận xét về bố, làm mất cảm giác bất ngờ của cảnh vừa thấy. 「を」「に」 sai vì 父 là người cho uống (飲ませる), không phải tân ngữ hay người nhận."
+    },
+    {
+      "id": "b45-p4",
+      "kind": "passage",
+      "ref": "b45-2",
+      "pass": "p1",
+      "q": "（　4　）に{入|はい}るものはどれか。",
+      "options": [
+        "が",
+        "を",
+        "に",
+        "は"
+      ],
+      "answer": 3,
+      "vi": "Còn bố thì cứ đến ngày nghỉ là lại nằm ngủ trưa trên ghế sofa cùng Mike.",
+      "why": "「母は今でも少し猫を怖がっている。**一方**、父…」 — hai người được **đối chiếu** → **は**. 「が」 làm mất nghĩa đối chiếu mà 一方 đòi hỏi. 「を」「に」 sai vì 父 là người ngủ trưa (chủ thể)."
+    },
+    {
+      "id": "b45-p5",
+      "kind": "form",
+      "ref": "b45-1",
+      "q": "{先日|せんじつ}、{家|いえ}の{前|まえ}に{見慣|みな}れない{車|くるま}（　　）{一台|いちだい}{止|と}まっていた。",
+      "options": [
+        "は",
+        "を",
+        "が",
+        "も"
+      ],
+      "answer": 2,
+      "vi": "Hôm trước, có một chiếc xe lạ đỗ trước nhà tôi.",
+      "why": "Chiếc xe **lần đầu xuất hiện**, người viết kể lại cảnh mình thấy → **が**. 「は」 nghe như người đọc đã biết chiếc xe. 「を」 sai vì 止まる là tự động từ. 「も」 = cũng — không có xe nào khác được nhắc."
+    },
+    {
+      "id": "b45-p6",
+      "kind": "form",
+      "ref": "b45-2",
+      "q": "{平日|へいじつ}（　　）{毎朝|まいあさ}{六時|ろくじ}に{起|お}きるが、{休日|きゅうじつ}は{昼|ひる}まで{寝|ね}ていることが{多|おお}い。",
+      "options": [
+        "が",
+        "は",
+        "を",
+        "へ"
+      ],
+      "answer": 1,
+      "vi": "Ngày thường thì sáng nào tôi cũng dậy lúc 6 giờ, nhưng ngày nghỉ thì hay ngủ đến trưa.",
+      "why": "Hai khoảng thời gian **đối chiếu** (平日 ↔ 休日は) → **は**. 「平日が」 biến ngày thường thành chủ ngữ của 起きる — vô nghĩa. 「を」「へ」 sai trợ từ."
+    },
+    {
+      "id": "b45-p7",
+      "kind": "form",
+      "ref": "b45-3",
+      "q": "{子|こ}ども（　　）、{親|おや}が{言|い}うことより{親|おや}がすることをまねて{育|そだ}つものだ。",
+      "options": [
+        "が",
+        "を",
+        "に",
+        "は"
+      ],
+      "answer": 3,
+      "vi": "Trẻ con lớn lên bằng cách bắt chước những gì cha mẹ làm hơn là những gì cha mẹ nói.",
+      "why": "Câu **chân lý chung** về \"trẻ con\" nói chung, kết thúc bằng 〜ものだ → **は**. 「が」 nghe như \"chính trẻ con (chứ không ai khác)\" — không hợp. 「を」「に」 sai vì 子ども là chủ thể của まねる／育つ. (Lưu ý: 親が言うこと／親がすること dùng が vì nằm trong mệnh đề bổ nghĩa.)"
+    },
+    {
+      "id": "b45-p8",
+      "kind": "form",
+      "ref": "b45-5",
+      "q": "{私|わたし}の{故郷|こきょう}は（　　）ことで{有名|ゆうめい}だ。",
+      "options": [
+        "桃がおいしい",
+        "桃はおいしい",
+        "桃をおいしい",
+        "桃でおいしい"
+      ],
+      "answer": 0,
+      "vi": "Quê tôi nổi tiếng vì đào ngon.",
+      "why": "Khuôn **〜は〜が**: 故郷は (đề tài) + 桃が (khía cạnh), lại nằm trong mệnh đề 〜こと → **桃がおいしい**. 「桃はおいしい」: は không đứng được bên trong mệnh đề こと. 「を」「で」 sai vì おいしい là tính từ."
+    },
+    {
+      "id": "b45-p9",
+      "kind": "form",
+      "ref": "b45-6",
+      "q": "{兄|あに}（　　）{第一志望|だいいちしぼう}の{大学|だいがく}に{合格|ごうかく}したとき、{母|はは}は{泣|な}いて{喜|よろこ}んだ。",
+      "options": [
+        "は",
+        "で",
+        "を",
+        "が"
+      ],
+      "answer": 3,
+      "vi": "Khi anh trai đỗ vào trường đại học nguyện vọng một, mẹ đã khóc vì vui mừng.",
+      "why": "兄 là chủ ngữ **trong mệnh đề 〜とき**, khác với chủ ngữ câu chính (母は) → **が**. 「兄は」 sẽ biến anh thành đề tài cả câu, xung đột với 「母は」. 「で」「を」 sai trợ từ."
+    },
+    {
+      "id": "b45-p10",
+      "kind": "order",
+      "ref": "b45-6",
+      "q": "＿＿＿ ＿＿＿ ★ ＿＿＿ {一番|いちばん}だと{思|おも}う。",
+      "options": [
+        "カレーは",
+        "世界で",
+        "母が",
+        "作る"
+      ],
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answer": 0,
+      "vi": "Tôi nghĩ món cà ri mẹ nấu là ngon nhất thế giới.",
+      "why": "**母が 作る カレーは 世界で** 一番だと思う → ★ = 「カレーは」. 「母が作る」 là mệnh đề bổ nghĩa (が) cho 「カレー」, còn 「カレーは」 là đề tài của cả câu; 「世界で一番」 là cụm cố định."
+    },
+    {
+      "id": "b45-p11",
+      "kind": "order",
+      "ref": "b45-5",
+      "q": "この{町|まち}は ＿＿＿ ＿＿＿ ★ ＿＿＿ {観光客|かんこうきゃく}が{多|おお}い。",
+      "options": [
+        "一年中",
+        "残っていて",
+        "古い",
+        "町並みが"
+      ],
+      "order": [
+        2,
+        3,
+        1,
+        0
+      ],
+      "answer": 1,
+      "vi": "Thị trấn này vẫn còn giữ được những dãy phố cổ nên quanh năm đông khách du lịch.",
+      "why": "この町は **古い 町並みが 残っていて 一年中** 観光客が多い → ★ = 「残っていて」. Khuôn 〜は〜が: この町は (đề tài) + 町並みが残っている (đặc điểm); 「一年中」 bổ nghĩa cho 「多い」 phía sau."
+    },
+    {
+      "id": "b45-p12",
+      "kind": "usage",
+      "ref": "b45-2",
+      "q": "「は」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "あ、空に虹は出ている。",
+        "私は昨日読んだ本はとても面白かった。",
+        "平日は朝早く起きるが、日曜日は昼まで寝ている。",
+        "だれは一番早く会社に来ましたか。"
+      ],
+      "answer": 2,
+      "vi": "(3) Ngày thường thì tôi dậy sớm, nhưng chủ nhật thì ngủ đến trưa.",
+      "why": "(3) đối chiếu 平日 ↔ 日曜日 → は ○. (1) cảnh vừa nhìn thấy → 虹が出ている. (2) 「私」 là chủ ngữ của mệnh đề bổ nghĩa 「昨日読んだ」 → 私が昨日読んだ本は. (4) từ để hỏi → だれが."
+    }
+  ],
+  "test": [
+    {
+      "id": "b45-t1",
+      "kind": "passage",
+      "ref": "b45-3",
+      "pass": "p2",
+      "q": "（　1　）に{入|はい}るものはどれか。",
+      "options": [
+        "は",
+        "が",
+        "を",
+        "に"
+      ],
+      "answer": 0,
+      "vi": "Mặt Trăng lơ lửng trên bầu trời đêm luôn hướng cùng một mặt về phía Trái Đất.",
+      "why": "Câu **mở đầu bài văn giải thích**, nêu đề tài của cả bài (月) và một sự thật chung về nó → **は** (取り立て). 「が」 nghe như \"chính Mặt Trăng (chứ không phải vật khác)\" — không hợp câu mở bài. 「を」「に」 sai vì 月 là chủ thể của 向けている."
+    },
+    {
+      "id": "b45-t2",
+      "kind": "passage",
+      "ref": "b45-4",
+      "pass": "p2",
+      "q": "（　2　）に{入|はい}るものはどれか。",
+      "options": [
+        "は",
+        "が",
+        "を",
+        "で"
+      ],
+      "answer": 1,
+      "vi": "Thế nhưng vào năm 1959, một tàu thăm dò của Liên Xô cũ lần đầu tiên chụp được ảnh mặt sau.",
+      "why": "Sau 「ところが」, một nhân vật **mới xuất hiện** (旧ソ連の探査機) và một **sự kiện** được thuật lại → **が**. 「は」 coi tàu thăm dò như đề tài đã biết — không hợp. 「を」 sai vì 探査機 là chủ thể của 成功した. 「で」 sai nghĩa (dùng tàu thăm dò làm phương tiện thì thiếu chủ ngữ)."
+    },
+    {
+      "id": "b45-t3",
+      "kind": "passage",
+      "ref": "b45-2",
+      "pass": "p2",
+      "q": "（　3　）に{入|はい}るものはどれか。",
+      "options": [
+        "が",
+        "を",
+        "には",
+        "にも"
+      ],
+      "answer": 2,
+      "vi": "Mặt trước có nhiều vùng tối và bằng phẳng được gọi là \"biển\", vậy mà ở mặt sau hầu như không thấy chúng.",
+      "why": "「表側**には**…多いのに、裏側…」 — mặt trước và mặt sau được **đối chiếu** → **には**. 「裏側が」「裏側を」 sai cấu trúc (chủ ngữ của 見られなかった là それ). 「にも」 = cũng — mâu thuẫn với 「のに」 (mặt trước nhiều mà mặt sau \"cũng\" không có là vô lý)."
+    },
+    {
+      "id": "b45-t4",
+      "kind": "passage",
+      "ref": "b45-6",
+      "pass": "p2",
+      "q": "（　4　）に{入|はい}るものはどれか。",
+      "options": [
+        "が",
+        "は",
+        "を",
+        "に"
+      ],
+      "answer": 0,
+      "vi": "Ngay cả Mặt Trăng mà chúng ta vẫn vô tình ngước nhìn mỗi tối cũng còn ẩn chứa biết bao điều bí ẩn.",
+      "why": "「わたしたち＿毎晩何気なく見上げている」 là **mệnh đề bổ nghĩa** cho 「月」 → **が**. 「は」 không đứng được trong mệnh đề bổ nghĩa (sẽ biến わたしたち thành đề tài cả câu, xung đột với 「月にも…残されている」). 「を」「に」 sai vì わたしたち là người ngước nhìn."
+    },
+    {
+      "id": "b45-t5",
+      "kind": "form",
+      "ref": "b45-4",
+      "q": "{試合|しあい}は１{対|たい}０のまま{終盤|しゅうばん}を{迎|むか}えた。{誰|だれ}もが{勝利|しょうり}を{確信|かくしん}したそのとき、{相手|あいて}チーム（　　）{同点|どうてん}ゴールを{決|き}めた。",
+      "options": [
+        "は",
+        "を",
+        "に",
+        "が"
+      ],
+      "answer": 3,
+      "vi": "Trận đấu bước vào những phút cuối với tỉ số 1-0. Đúng lúc ai cũng tin chắc sẽ thắng, đội đối phương đã ghi bàn gỡ hoà.",
+      "why": "「そのとき」 + một **biến cố đột ngột** làm câu chuyện đổi hướng → **が**. 「は」 biến đội đối phương thành đề tài để nhận xét, làm mất tính bất ngờ. 「を」「に」 sai vì 相手チーム là chủ thể của 決めた."
+    },
+    {
+      "id": "b45-t6",
+      "kind": "usage",
+      "ref": "b45-1",
+      "q": "「は・が」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "昔々、ある山奥におじいさんは住んでいました。",
+        "私が子どものころ住んでいた町は、今ではすっかり変わってしまった。",
+        "駅前に新しい本屋ができた。本屋が駅から歩いて一分のところにある。",
+        "誰は今日の会議に来ないんですか。"
+      ],
+      "answer": 1,
+      "vi": "(2) Thị trấn nơi tôi sống hồi nhỏ, giờ đã thay đổi hoàn toàn.",
+      "why": "(2) 「私が…住んでいた」 là mệnh đề bổ nghĩa (が), 「町は」 là đề tài cả câu ○. (1) nhân vật lần đầu xuất hiện → おじいさんが. (3) hiệu sách đã xuất hiện ở câu trước, câu sau mô tả tiếp → その本屋は. (4) từ để hỏi → 誰が."
+    },
+    {
+      "id": "b45-t7",
+      "kind": "order",
+      "ref": "b45-6",
+      "q": "{山田|やまだ}さんが ＿＿＿ ＿＿＿ ★ ＿＿＿ 、{誰|だれ}も{知|し}らなかった。",
+      "options": [
+        "辞める",
+        "本人以外",
+        "会社を",
+        "ことは"
+      ],
+      "order": [
+        2,
+        0,
+        3,
+        1
+      ],
+      "answer": 3,
+      "vi": "Chuyện anh Yamada nghỉ việc thì ngoài chính anh ấy ra không ai biết.",
+      "why": "山田さんが **会社を 辞める ことは 本人以外**、誰も知らなかった → ★ = 「ことは」. 「山田さんが」 là chủ ngữ trong mệnh đề 〜こと (が); 「ことは」 nêu cả chuyện đó làm đề tài; 「本人以外」 đi với 「誰も知らなかった」."
+    },
+    {
+      "id": "b45-t8",
+      "kind": "order",
+      "ref": "b45-5",
+      "q": "{祖父|そふ}は ＿＿＿ ＿＿＿ ★ ＿＿＿ 、{毎朝|まいあさ}{新聞|しんぶん}を{隅|すみ}から{隅|すみ}まで{読|よ}んでいる。",
+      "options": [
+        "今も",
+        "よく",
+        "目が",
+        "九十歳を過ぎた"
+      ],
+      "order": [
+        3,
+        0,
+        2,
+        1
+      ],
+      "answer": 2,
+      "vi": "Ông tôi đã ngoài chín mươi mà mắt vẫn còn rất tinh, sáng nào cũng đọc báo từ đầu đến cuối.",
+      "why": "祖父は **九十歳を過ぎた 今も 目が よく**、… → ★ = 「目が」. Khuôn 〜は〜が: 祖父は (đề tài) + 目がいい (khía cạnh); 「九十歳を過ぎた」 bổ nghĩa cho 「今」."
+    }
+  ]
+}

@@ -1,0 +1,835 @@
+{
+  "id": "b18",
+  "track": "bunpo",
+  "intro": "Ở N3 bạn đã biết 「信じ**られない**」 (thể khả năng), 「分かり**にくい**」, 「入り**づらい**」. Bài này học **6 cách nói \"không thể / khó / có thể\" ở mức N2**. Điều quan trọng nhất: **hầu hết các mẫu này KHÔNG nói về năng lực** (biết bơi, nói được tiếng Anh…). Mỗi mẫu gắn với **một loại lý do** khiến việc đó không làm được:\n\n- **〜がたい**: khó về mặt **tâm lý, tình cảm** — khó mà tin, khó mà tha thứ, khó mà diễn tả.\n- **〜わけにはいかない／〜わけにもいかない**: không thể vì **lẽ thường, đạo đức, trách nhiệm, sĩ diện** — \"làm thế thì không được\".\n- **〜かねる**: không thể vì **lập trường, quy định, hoàn cảnh** — cách **từ chối lịch sự** (お答えしかねます).\n- **〜ようがない**: **không có cách nào** (không biết làm thế nào) — hoặc \"không thể nào xảy ra được\".\n- **〜どころではない**: **không có điều kiện / tâm trí** (vì bận, ốm, ồn, lo…) để làm việc mình muốn.\n- **〜得る／〜得ない**: **khả năng logic** — việc đó có thể / không thể xảy ra.\n\nBẫy kinh điển trong đề: 「〜かねる」 (không thể) ↔ 「〜かねない」 (22課, \"có thể sẽ…\" điều xấu) — trông gần giống nhau nhưng nghĩa gần như ngược lại.",
+  "points": [
+    {
+      "id": "b18-1",
+      "pattern": "〜がたい",
+      "reading": "〜がたい",
+      "meaning": "Khó mà… (về mặt tâm lý, tình cảm)",
+      "structure": [
+        "Vます ＋ がたい",
+        "Hay gặp: 信じがたい・理解しがたい・想像しがたい・許しがたい・言いがたい・忘れがたい・耐えがたい・得がたい・近寄りがたい・動かしがたい"
+      ],
+      "explain": "「がたい」 viết bằng chữ 難い (= khó). 「VがたいN」 nghĩa là: **muốn làm cũng khó mà làm được, vì lòng mình không cho phép / đầu óc không chấp nhận nổi**.\n\nHình dung: nghe tin một người hiền lành phạm tội → \"**khó mà tin nổi**\" 「{信|しん}じがたい」. Không phải vì bạn không có khả năng tin, mà vì **trong lòng** không chấp nhận được.\n\n- Đi với động từ chỉ **hoạt động của tâm trí**: 信じる, 理解する, 想像する, 認める, 許す, 受け入れる, 忘れる.\n- Hoặc động từ chỉ **phát ngôn, biểu đạt**: 言う, 表す, 説明する → 「{言葉|ことば}では{表|あらわ}しがたい」 khó diễn tả thành lời.\n- Vài cụm cố định nên thuộc: 「{得|え}がたい{経験|けいけん}」 trải nghiệm hiếm có, quý giá; 「{近寄|ちかよ}りがたい」 khó gần; 「{動|うご}かしがたい{事実|じじつ}」 sự thật không thể chối cãi; 「{何|なに}ものにも{代|か}えがたい」 không gì thay thế được.",
+      "nuance": "Văn viết, hơi trang trọng. **Không dùng cho khó khăn vật lý hay năng lực**: không nói 「この{石|いし}は{重|おも}くて{持|も}ち{上|あ}げがたい」 (→ 持ち上げられない／持ち上げにくい). Chia như tính từ い: がたく, がたかった, がたいN.",
+      "examples": [
+        {
+          "ja": "あんなに{優|やさ}しい{彼|かれ}が{暴力|ぼうりょく}をふるったなんて、{信|しん}じがたい。",
+          "vi": "Người hiền lành như anh ấy mà lại dùng bạo lực, thật khó mà tin nổi.",
+          "note": "Tâm lý không chấp nhận"
+        },
+        {
+          "ja": "{子|こ}どもを{狙|ねら}った{犯罪|はんざい}は、{到底|とうてい}{許|ゆる}しがたい。",
+          "vi": "Tội ác nhắm vào trẻ em là điều tuyệt đối không thể tha thứ.",
+          "note": "到底〜がたい: nhấn mạnh \"hoàn toàn không thể\""
+        },
+        {
+          "ja": "{山頂|さんちょう}から{見|み}た{朝日|あさひ}の{美|うつく}しさは、{言葉|ことば}では{表|あらわ}しがたい。",
+          "vi": "Vẻ đẹp của mặt trời mọc nhìn từ đỉnh núi khó mà diễn tả bằng lời.",
+          "note": "Động từ biểu đạt"
+        },
+        {
+          "ja": "{留学|りゅうがく}{中|ちゅう}の{一年|いちねん}は、{何|なに}ものにも{代|か}えがたい{経験|けいけん}になった。",
+          "vi": "Một năm du học đã trở thành trải nghiệm không gì thay thế được.",
+          "note": "Cụm cố định 何ものにも代えがたい"
+        },
+        {
+          "ja": "{部長|ぶちょう}はいつも{厳|きび}しい{顔|かお}をしていて、{近寄|ちかよ}りがたい{雰囲気|ふんいき}がある。",
+          "vi": "Trưởng phòng lúc nào cũng nghiêm mặt, toát ra vẻ khó gần.",
+          "note": "がたい + N"
+        },
+        {
+          "ja": "{証拠|しょうこ}がこれだけそろえば、{彼|かれ}が{関|かか}わっていたことは{動|うご}かしがたい{事実|じじつ}だ。",
+          "vi": "Bằng chứng đầy đủ thế này thì việc anh ta có dính líu là sự thật không thể chối cãi.",
+          "note": "Cụm cố định 動かしがたい事実"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜にくい",
+          "diff": "「にくい」 = khó (về mặt **vật lý, khách quan**, làm được nhưng tốn sức): 読みにくい字, 歩きにくい道. 「がたい」 = khó về **tâm lý**, gần như \"không thể\"."
+        },
+        {
+          "with": "〜づらい",
+          "diff": "「づらい」 = khó vì **người làm thấy khổ, ngại** (thể chất hoặc tâm lý), văn nói: 言いづらい, 歩きづらい靴. 「がたい」 trang trọng hơn và mạnh hơn."
+        },
+        {
+          "with": "〜かねる (bài này)",
+          "diff": "「かねる」: không thể vì **lập trường / hoàn cảnh**, dùng để từ chối lịch sự (お答えしかねます). 「がたい」: khó vì **cảm xúc**. 「賛成しかねる」 (với tư cách của tôi thì không tán thành được) ≠ 「信じがたい」 (khó tin)."
+        }
+      ],
+      "mistakes": [
+        "✗ この{薬|くすり}は{粒|つぶ}が{大|おお}きくて{飲|の}みがたい。→ ○ 飲みにくい (khó vật lý)",
+        "✗ {私|わたし}は{英語|えいご}が{話|はな}しがたい。→ ○ 英語がうまく話せない (năng lực)"
+      ],
+      "tip": "Động từ trước chỗ trống là 信じ・理解し・想像し・許し・表し… và câu có sắc thái kinh ngạc / phẫn nộ / cảm động → chọn 「がたい」. Nếu là khó khăn vật lý (読む, 歩く, 飲む) → 「にくい」."
+    },
+    {
+      "id": "b18-2",
+      "pattern": "〜わけにはいかない・〜わけにもいかない",
+      "reading": "〜わけにはいかない・〜わけにもいかない",
+      "meaning": "Không thể (vì lẽ thường, đạo đức, trách nhiệm) / cũng không thể…",
+      "structure": [
+        "V辞書形 ＋ わけにはいかない",
+        "V辞書形 ＋ わけにもいかない",
+        "Nối câu: 〜わけにはいかず／〜わけにもいかず"
+      ],
+      "explain": "「Vわけにはいかない」 = \"**Về khả năng thì làm được, nhưng xét lẽ thường, đạo lý, trách nhiệm, hoàn cảnh xã hội thì không được phép làm**.\"\n\nHình dung: bạn bị sốt nhẹ, nằm nhà thì hoàn toàn được — nhưng hôm nay có buổi thuyết trình quan trọng, nên 「{休|やす}むわけにはいかない」 — không thể nghỉ (vì trách nhiệm).\n\n- **〜わけにはいかない**: không thể làm việc đó (vì lý do xã hội / tâm lý).\n- **〜わけにもいかない**: \"**cũng không thể** làm thế\". Chữ 「も」 cho thấy người nói đang **bế tắc**: phương án A không được, mà phương án B (thường là phương án dễ nghĩ tới) **cũng** không được. 「{終電|しゅうでん}がない。タクシーは{高|たか}いし、{友達|ともだち}を{夜中|よなか}に{起|お}こすわけにもいかない…」.\n- Hay dùng dạng nối 「〜わけにもいかず、〜」 để kể sự lúng túng: \"không thể… nên đành…\".",
+      "nuance": "**Không dùng cho năng lực** hay việc không kiểm soát được (✗ 泳げないので、泳ぐわけにはいかない — muốn nói không biết bơi thì dùng 泳げない). Chủ ngữ thường là **ngôi thứ nhất** (tôi). Lý do phải là **lý do xã hội / tâm lý** (trách nhiệm, phép lịch sự, ngại người khác nghĩ gì…). Nếu lý do là **điều kiện vật lý, khách quan** khiến việc đó không thể thực hiện (không có xe, chưa có người yêu, trời xấu, ốm không dậy nổi) thì dùng thể khả năng: 車がないので行けない, chứ không phải 行くわけにはいかない. Văn nói lẫn văn viết đều dùng.",
+      "examples": [
+        {
+          "ja": "{大切|たいせつ}な{商談|しょうだん}があるので、{熱|ねつ}が{少|すこ}しあっても{休|やす}むわけにはいかない。",
+          "vi": "Có buổi đàm phán quan trọng nên dù hơi sốt tôi cũng không thể nghỉ.",
+          "note": "Lý do trách nhiệm"
+        },
+        {
+          "ja": "{友達|ともだち}に{秘密|ひみつ}だと{言|い}われたので、あなたにも{話|はな}すわけにはいかないんです。",
+          "vi": "Bạn tôi đã dặn đây là bí mật nên tôi không thể kể cho bạn được.",
+          "note": "Lý do đạo đức, giữ lời"
+        },
+        {
+          "ja": "{車|くるま}で{来|き}ているから、お{酒|さけ}を{飲|の}むわけにはいかない。",
+          "vi": "Tôi đi xe hơi đến nên không thể uống rượu.",
+          "note": "Quy định xã hội"
+        },
+        {
+          "ja": "{一度|いちど}{引|ひ}き{受|う}けた{以上|いじょう}、{今更|いまさら}{断|ことわ}るわけにはいかない。",
+          "vi": "Đã nhận lời rồi thì giờ không thể từ chối được nữa.",
+          "note": "Kết hợp 以上 (17課)"
+        },
+        {
+          "ja": "{明日|あした}は{試験|しけん}だが、{親友|しんゆう}の{結婚式|けっこんしき}を{欠席|けっせき}するわけにもいかない。",
+          "vi": "Mai thi rồi, nhưng đám cưới bạn thân thì cũng không thể vắng mặt được.",
+          "note": "わけにもいかない: thế bí"
+        },
+        {
+          "ja": "{上司|じょうし}の{案|あん}には{反対|はんたい}だったが、{新人|しんじん}の{私|わたし}が{口|くち}を{出|だ}すわけにもいかず、{黙|だま}っていた。",
+          "vi": "Tôi phản đối phương án của sếp, nhưng là lính mới thì cũng không thể xen vào, nên đành im lặng.",
+          "note": "わけにもいかず + kết quả"
+        }
+      ],
+      "compare": [
+        {
+          "with": "Thể khả năng (〜られない)",
+          "diff": "「行けない」 = không đi được (vì lý do bất kỳ, kể cả năng lực, điều kiện). 「行くわけにはいかない」 = **đi được nhưng không nên / không được phép đi** vì lý do xã hội, đạo lý."
+        },
+        {
+          "with": "〜ないわけにはいかない (25課)",
+          "diff": "Thêm ない phía trước thì nghĩa thành \"**không thể không** → phải\": 「{行|い}かないわけにはいかない」 = buộc phải đi. Đọc kỹ thể của động từ trước わけ."
+        },
+        {
+          "with": "〜わけがない",
+          "diff": "「わけがない」 = \"**không đời nào** có chuyện đó\" (phán đoán khả năng): 彼が来るわけがない. 「わけにはいかない」 = \"không thể làm\" (quyết định hành động của mình)."
+        }
+      ],
+      "mistakes": [
+        "✗ {足|あし}を{怪我|けが}したので、{走|はし}るわけにはいかない。→ nếu là không chạy được về thể chất: ○ 走れない (dùng わけにはいかない chỉ khi ý là \"chạy thì không nên\", vd. bác sĩ cấm)",
+        "✗ {明日|あした}は{雨|あめ}が{降|ふ}るわけにはいかない。→ hiện tượng tự nhiên không dùng được"
+      ],
+      "tip": "Câu có lý do kiểu **trách nhiệm, quy tắc, lễ nghĩa** (大事な会議がある, 約束した, 車で来た, 先輩の頼みだ) + \"không thể làm\" → 「わけにはいかない」. Có cảnh **bế tắc, cái này cũng không được** → 「わけにもいかない」. Khi phải chọn **lý do** cho 「〜ので、…わけにはいかない」: loại phương án nêu điều kiện vật lý (không có xe, không có tiền, trời mưa), chọn phương án nêu trách nhiệm / quan hệ xã hội (được giao việc gấp, chưa có việc làm ổn định…)."
+    },
+    {
+      "id": "b18-3",
+      "pattern": "〜かねる",
+      "reading": "〜かねる",
+      "meaning": "Khó lòng, không thể (vì lập trường / hoàn cảnh) — từ chối lịch sự",
+      "structure": [
+        "Vます ＋ かねる",
+        "Lịch sự: 〜かねます／お〜しかねます／〜いたしかねます",
+        "見かねて (không nỡ đứng nhìn)／待ちかねて (chờ không nổi nữa)"
+      ],
+      "explain": "「Vかねる」 = \"**Với lập trường, quy định hay hoàn cảnh của tôi, tôi không thể làm việc đó**\" — dù có muốn làm cũng không được. Đây là cách nói **mềm mỏng, lịch sự** thay cho 「できない」, cực kỳ phổ biến trong **kinh doanh, chăm sóc khách hàng**.\n\nHình dung nhân viên tổng đài: 「{申|もう}し{訳|わけ}ございませんが、その{件|けん}については{分|わ}かりかねます」 — Xin lỗi, về việc đó tôi không rõ ạ (không nói thẳng 分かりません).\n\nCác cách dùng nên thuộc:\n- **Từ chối lịch sự**: お答えしかねます, お受けいたしかねます, ご期待に沿いかねます.\n- **Không thể đồng ý**: 賛成しかねる, 納得しかねる, 同意しかねる.\n- **Do dự, chưa quyết được**: 「{決|き}めかねている」 — phân vân mãi không quyết được.\n- **見かねて**: \"**không nỡ đứng nhìn**\" (thấy ai đó khổ quá, không thể làm ngơ, nên ra tay giúp): 「{見|み}かねて{手伝|てつだ}った」. Cũng có 「{見|み}るに{見|み}かねて」 mạnh hơn.\n- **待ちかねる**: \"**chờ không nổi nữa**, sốt ruột chờ mãi\": 「{返事|へんじ}を{待|ま}ちかねて、{自分|じぶん}から{電話|でんわ}した」 (chờ mãi không được hồi âm nên tự gọi). 「お{待|ま}ちかねの〜」 = cái mà mọi người mong chờ.",
+      "nuance": "**Không dùng cho năng lực** (✗ 私は泳ぎかねる). Văn phong lịch sự, trang trọng. Chú ý thể khẳng định 「かねる」 = **không thể**; thể phủ định 「かねない」 lại là một mẫu khác (= có nguy cơ…). 「かねます」 = không thể; 「かねません」 = có thể sẽ (xấu).",
+      "examples": [
+        {
+          "ja": "{申|もう}し{訳|わけ}ございませんが、{個人|こじん}{情報|じょうほう}に{関|かん}するご{質問|しつもん}にはお{答|こた}えしかねます。",
+          "vi": "Thành thật xin lỗi, chúng tôi không thể trả lời các câu hỏi liên quan đến thông tin cá nhân.",
+          "note": "お〜しかねます: từ chối lịch sự"
+        },
+        {
+          "ja": "{担当者|たんとうしゃ}が{不在|ふざい}のため、{詳|くわ}しいことは{分|わ}かりかねます。",
+          "vi": "Do người phụ trách vắng mặt nên chúng tôi chưa thể nắm rõ chi tiết ạ.",
+          "note": "分かりかねます thay cho 分かりません"
+        },
+        {
+          "ja": "お{気持|きも}ちはよく{分|わ}かりますが、その{条件|じょうけん}ではお{引|ひ}き{受|う}けしかねます。",
+          "vi": "Tôi rất hiểu tâm ý của anh/chị, nhưng với điều kiện đó thì chúng tôi khó lòng nhận được.",
+          "note": ""
+        },
+        {
+          "ja": "{彼|かれ}の{考|かんが}え{方|かた}には、どうしても{賛成|さんせい}しかねる。",
+          "vi": "Với cách nghĩ của anh ta, tôi thật sự không thể tán thành.",
+          "note": "Lập trường của người nói"
+        },
+        {
+          "ja": "{東京|とうきょう}の{会社|かいしゃ}と{地元|じもと}の{会社|かいしゃ}、どちらに{就職|しゅうしょく}するか、まだ{決|き}めかねている。",
+          "vi": "Công ty ở Tokyo hay công ty ở quê, tôi vẫn còn phân vân chưa quyết được.",
+          "note": "決めかねる: do dự"
+        },
+        {
+          "ja": "{重|おも}い{荷物|にもつ}を{抱|かか}えて{階段|かいだん}を{上|のぼ}るお{年寄|としよ}りを{見|み}かねて、{声|こえ}をかけた。",
+          "vi": "Không nỡ đứng nhìn cụ già ôm hành lý nặng leo cầu thang, tôi đã lên tiếng giúp.",
+          "note": "見かねて + hành động giúp đỡ"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜かねない (22課)",
+          "diff": "「かねない」 = \"**có nguy cơ, e là sẽ**…\" (kết quả xấu): 事故になりかねない. 「かねる」 = \"**không thể**\". Hai mẫu gần như ngược nghĩa — bẫy hàng đầu của đề."
+        },
+        {
+          "with": "〜できない／可能形",
+          "diff": "「できない」 nói thẳng, có thể do năng lực. 「かねる」 ngụ ý \"**tôi muốn giúp nhưng vì vị trí / quy định nên không thể**\" → mềm và lịch sự hơn nhiều."
+        },
+        {
+          "with": "〜がたい (bài này)",
+          "diff": "「がたい」: khó vì cảm xúc (信じがたい). 「かねる」: không thể vì lập trường, thường dùng khi **từ chối người khác**."
+        }
+      ],
+      "mistakes": [
+        "✗ このままでは{事故|じこ}になりかねます。→ ○ 事故になりかねません (nghĩa \"có nguy cơ\" dùng かねない)",
+        "✗ {私|わたし}はピアノが{弾|ひ}きかねる。→ ○ ピアノが弾けない (năng lực)"
+      ],
+      "tip": "Câu có kính ngữ / khiêm nhường ngữ (申し訳ございませんが, お〜, いたし) + nghĩa \"không thể đáp ứng\" → 「かねます」. Nhớ kiểm tra: đáp án có 「ません」 phía sau (かねません) là **bẫy**. Còn nếu lý do chỉ là ốm / không biết làm (風邪を引いたので学校に…) thì dùng thể khả năng 行けません, không phải 行きかねます."
+    },
+    {
+      "id": "b18-4",
+      "pattern": "〜ようがない",
+      "reading": "〜ようがない",
+      "meaning": "Không có cách nào để… / không thể nào… được",
+      "structure": [
+        "Vます ＋ ようがない",
+        "Nする → Nのしようがない／Nしようがない (連絡のしようがない)",
+        "Mạnh hơn: 〜ようもない"
+      ],
+      "explain": "「よう」 ở đây là 様 = **cách, phương pháp** (như trong 「やり{様|よう}」 cách làm). Vậy 「Vようがない」 = \"**không có cách nào để V**\". Có hai cách dùng:\n\n- **(1) Muốn làm nhưng không có phương pháp / phương tiện**: 「{連絡先|れんらくさき}が{分|わ}からないので、{知|し}らせようがない」 — không biết địa chỉ liên lạc nên muốn báo cũng chẳng có cách nào báo. Cụm hay gặp: 「〜としか{言|い}いようがない」 = \"chỉ có thể nói là…\" (không còn cách diễn tả nào khác): 「{運|うん}が{悪|わる}かったとしか{言|い}いようがない」.\n- **(2) \"Không thể nào xảy ra được\"** (≈ 〜はずがない, nhấn mạnh không có khả năng): 「まっすぐ{一本|いっぽん}{道|みち}だから、{迷|まよ}いようがない」 — đường thẳng một lèo, có muốn lạc cũng không lạc nổi.\n\nVới động từ 「Nする」: chèn の → 「{連絡|れんらく}のしようがない」「{説明|せつめい}のしようがない」 (cũng nói 連絡しようがない).",
+      "nuance": "Nhấn mạnh **sự bất lực hoàn toàn** (\"bó tay\"). Thường đi kèm lý do vì sao không có cách: 〜ので／〜から／〜ては. Văn nói lẫn văn viết. 「しようがない」 (=しょうがない) là thành ngữ \"đành chịu\", gốc cũng từ mẫu này.",
+      "examples": [
+        {
+          "ja": "{住所|じゅうしょ}も{電話番号|でんわばんごう}も{分|わ}からないので、{連絡|れんらく}のしようがない。",
+          "vi": "Không biết cả địa chỉ lẫn số điện thoại nên chẳng có cách nào liên lạc.",
+          "note": "N のしようがない · nghĩa (1)"
+        },
+        {
+          "ja": "ここまで{壊|こわ}れてしまっては、もう{直|なお}しようがない。",
+          "vi": "Hỏng đến mức này rồi thì không còn cách nào sửa được nữa.",
+          "note": "〜ては + ようがない"
+        },
+        {
+          "ja": "あの{場面|ばめん}で{逆転|ぎゃくてん}ゴールを{決|き}めるなんて、{見事|みごと}としか{言|い}いようがない。",
+          "vi": "Ghi bàn lội ngược dòng trong tình huống đó thì chỉ có thể nói là tuyệt vời.",
+          "note": "としか言いようがない"
+        },
+        {
+          "ja": "{材料|ざいりょう}が{届|とど}かなければ、{料理|りょうり}の{作|つく}りようがない。",
+          "vi": "Nếu nguyên liệu không tới thì chẳng có cách nào nấu được.",
+          "note": ""
+        },
+        {
+          "ja": "{駅|えき}を{出|で}たら{目|め}の{前|まえ}がホテルだから、{迷|まよ}いようがないよ。",
+          "vi": "Ra khỏi ga là khách sạn ngay trước mặt, muốn lạc cũng không lạc được đâu.",
+          "note": "Nghĩa (2): không thể nào xảy ra"
+        },
+        {
+          "ja": "{答|こた}えを{選|えら}ぶだけの{簡単|かんたん}な{作業|さぎょう}だから、{失敗|しっぱい}しようがない。",
+          "vi": "Chỉ là việc chọn đáp án đơn giản thôi, có muốn làm hỏng cũng không được.",
+          "note": "Nghĩa (2)"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜られない (thể khả năng)",
+          "diff": "「直せない」 = không sửa được (nói chung). 「直しようがない」 nhấn mạnh **không tồn tại phương pháp nào** — mức tuyệt vọng cao hơn."
+        },
+        {
+          "with": "〜はずがない／〜わけがない",
+          "diff": "Nghĩa (2) gần với 「はずがない」, nhưng 「ようがない」 giải thích lý do là **điều kiện không cho phép điều đó xảy ra** (đường thẳng → không thể lạc)."
+        },
+        {
+          "with": "〜どころではない (bài này)",
+          "diff": "「どころではない」: có cách, nhưng **không có thời gian / tâm trí**. 「ようがない」: **không có cách**."
+        }
+      ],
+      "mistakes": [
+        "✗ {連絡|れんらく}するようがない → ○ 連絡しようがない／連絡のしようがない (Vます + ようがない)",
+        "✗ {彼|かれ}は{泳|およ}ぎようがない。(ý: không biết bơi) → ○ 彼は泳げない"
+      ],
+      "tip": "Câu nêu lý do **thiếu thông tin / thiếu phương tiện** (分からない, ない, 壊れた) + \"không làm được\" → 「ようがない」. Lý do kiểu **đau bụng, không có thời gian** (người có cách nhưng không có điều kiện) không hợp với ようがない; **năng lực kém** (mới học nên không viết được kanji khó) cũng không → dùng 書けない. Thấy 「としか言い（　）」 → đáp án gần như chắc chắn là 「ようがない」."
+    },
+    {
+      "id": "b18-5",
+      "pattern": "〜どころではない",
+      "reading": "〜どころではない",
+      "meaning": "Đâu phải lúc để… / không còn tâm trí, điều kiện để…",
+      "structure": [
+        "V辞書形 ＋ どころではない",
+        "N ＋ どころではない",
+        "Nối câu: 〜どころではなく",
+        "Văn nói: 〜どころじゃない／それどころじゃない"
+      ],
+      "explain": "「Aどころではない」 = \"**Hoàn cảnh hiện tại hoàn toàn không cho phép làm A**\" — vì đang quá bận, thiếu tiền, ốm, ồn ào, lo lắng… A thường là việc **dễ chịu, mình mong muốn** (du lịch, ăn uống thong thả, ngắm hoa, nghỉ ngơi).\n\nHình dung: bạn rủ đi ngắm hoa anh đào, người kia đang ngập trong việc chuyển nhà: 「{花見|はなみ}どころじゃないよ！」 — Đâu phải lúc mà ngắm hoa!\n\n- Lý do thường được nêu ngay trước: 〜て／〜ので (忙しくて, うるさくて, 病気で).\n- 「それどころではない」 = \"không phải lúc cho chuyện đó\", rất hay dùng trong hội thoại.\n- Dạng nối 「〜どころではなく」 để nói tiếp hậu quả.",
+      "nuance": "Mang cảm xúc **sốt ruột, bức bối** của người nói. Danh từ đứng trước thường là danh từ chỉ hoạt động (旅行, 勉強, 食事, 花見, 仕事). Không phải là năng lực, mà là **tình huống**.",
+      "examples": [
+        {
+          "ja": "{仕事|しごと}が{山積|やまづ}みで、{今週|こんしゅう}は{飲|の}み{会|かい}どころではない。",
+          "vi": "Việc chất đống như núi, tuần này đâu phải lúc đi nhậu.",
+          "note": "N + どころではない"
+        },
+        {
+          "ja": "{試験|しけん}{前|まえ}の{一週間|いっしゅうかん}は、{遊|あそ}ぶどころではなかった。",
+          "vi": "Tuần trước kỳ thi thì làm gì có tâm trí mà chơi.",
+          "note": "V辞書形 + どころではない"
+        },
+        {
+          "ja": "{隣|となり}の{部屋|へや}の{工事|こうじ}がうるさくて、{昼寝|ひるね}どころではない。",
+          "vi": "Phòng bên cạnh sửa chữa ồn quá, ngủ trưa sao nổi.",
+          "note": "Lý do: ồn"
+        },
+        {
+          "ja": "{財布|さいふ}をなくしたことに{気|き}づいて、{買|か}い{物|もの}を{楽|たの}しむどころではなくなった。",
+          "vi": "Phát hiện ra mất ví, tôi chẳng còn tâm trí nào mà tận hưởng chuyện mua sắm nữa.",
+          "note": "どころではなくなった: chuyển thành không thể"
+        },
+        {
+          "ja": "{子|こ}どもが{熱|ねつ}を{出|だ}してしまい、{年末|ねんまつ}は{大掃除|おおそうじ}どころではなかった。",
+          "vi": "Con bị sốt nên cuối năm làm gì còn thời gian mà tổng vệ sinh.",
+          "note": ""
+        },
+        {
+          "ja": "「{週末|しゅうまつ}、キャンプに{行|い}かない？」「ごめん、{引|ひ}っ{越|こ}しの{準備|じゅんび}でそれどころじゃないんだ。」",
+          "vi": "\"Cuối tuần đi cắm trại không?\" — \"Xin lỗi, tớ đang lo chuẩn bị chuyển nhà, đâu phải lúc cho chuyện đó.\"",
+          "note": "それどころじゃない: văn nói"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜どころか (12課)",
+          "diff": "「どころか」 = \"**chẳng những không… mà ngược lại**…\": 「{痩|や}せるどころか{太|ふと}った」. 「どころではない」 = \"**không phải lúc để**…\". Đuôi khác nhau hoàn toàn về nghĩa."
+        },
+        {
+          "with": "〜ようがない (bài này)",
+          "diff": "「ようがない」: không có **cách**. 「どころではない」: có cách nhưng **không có điều kiện, tâm trí**."
+        },
+        {
+          "with": "〜わけにはいかない (bài này)",
+          "diff": "「わけにはいかない」: không được làm vì **đạo lý, trách nhiệm**. 「どころではない」: không làm được vì **quá bận / quá rối**."
+        }
+      ],
+      "mistakes": [
+        "✗ {旅行|りょこう}するのどころではない → ○ 旅行するどころではない／旅行どころではない",
+        "✗ {泳|およ}げないので、{海水浴|かいすいよく}どころではない。→ không phải năng lực; ○ 泳げないので、海水浴は楽しめない"
+      ],
+      "tip": "Vế trước là lý do kiểu **忙しくて／うるさくて／心配で／お金がなくて**, trước chỗ trống là một **hoạt động vui vẻ** (旅行, 花見, デート, 食事を楽しむ) → 「どころではない」."
+    },
+    {
+      "id": "b18-6",
+      "pattern": "〜得る／〜得ない",
+      "reading": "〜うる(える)／〜えない",
+      "meaning": "Có thể (xảy ra) / không thể (có, xảy ra)",
+      "structure": [
+        "Vます ＋ 得る (đọc うる, đôi khi える)",
+        "Vます ＋ 得ない (đọc えない)",
+        "Chia: 得ます(えます)・得た(えた)・得て(えて)",
+        "Hay gặp: あり得る／あり得ない・起こり得る・考え得る・予想し得る・知り得ない"
+      ],
+      "explain": "「得る」 nguyên nghĩa là \"đạt được\". Gắn sau động từ, nó thành \"**có khả năng xảy ra / có thể xảy ra (về mặt logic)**\".\n\n- **〜得る**: \"chuyện đó **hoàn toàn có thể** xảy ra\": 「{地震|じしん}はいつでも{起|お}こり{得|う}る」.\n- **〜得ない**: \"chuyện đó **không thể có / không thể xảy ra**\": 「そんなことはあり{得|え}ない」 — không thể có chuyện đó.\n- 「考え得る」 = có thể nghĩ ra: 「{考|かんが}え{得|う}る{限|かぎ}りの{方法|ほうほう}」 — mọi cách có thể nghĩ ra.\n\n**Cách đọc**: dạng khẳng định ở thể từ điển thường đọc **うる** (起こりうる, ありうる; ありえる cũng dùng trong văn nói). Các dạng chia khác luôn đọc **え**: えない, えます, えた.",
+      "nuance": "Văn viết, sắc thái **khách quan, phân tích** (báo chí, văn nghị luận). **Không dùng cho năng lực cá nhân** (✗ 英語が話し得る → 話せる) hoặc **khả năng do tình huống** cụ thể (✗ お酒を飲んでいないから運転し得る → 運転できる). Dùng để nói về **khả năng tồn tại / xảy ra của sự việc**.",
+      "examples": [
+        {
+          "ja": "{大|おお}きな{地震|じしん}は、いつどこで{起|お}こってもおかしくない。{誰|だれ}にでも{起|お}こり{得|う}ることだ。",
+          "vi": "Động đất lớn xảy ra lúc nào ở đâu cũng không lạ. Đó là chuyện có thể xảy đến với bất kỳ ai.",
+          "note": "起こり得る (うる)"
+        },
+        {
+          "ja": "{考|かんが}え{得|う}る{限|かぎ}りの{方法|ほうほう}を{試|ため}したが、{問題|もんだい}は{解決|かいけつ}しなかった。",
+          "vi": "Đã thử mọi cách có thể nghĩ ra nhưng vấn đề vẫn không được giải quyết.",
+          "note": "考え得る限り"
+        },
+        {
+          "ja": "{締|し}め{切|き}りが{早|はや}まることもあり{得|う}るので、{今|いま}のうちに{準備|じゅんび}しておこう。",
+          "vi": "Hạn chót cũng có thể bị dời sớm lên, nên chuẩn bị ngay từ bây giờ thôi.",
+          "note": "あり得る"
+        },
+        {
+          "ja": "{真面目|まじめ}な{彼|かれ}が{会社|かいしゃ}のお{金|かね}を{使|つか}い{込|こ}むなんて、あり{得|え}ない。",
+          "vi": "Người nghiêm túc như anh ấy mà biển thủ tiền công ty thì không thể có chuyện đó.",
+          "note": "あり得ない (えない)"
+        },
+        {
+          "ja": "{関係者|かんけいしゃ}でなければ{知|し}り{得|え}ない{情報|じょうほう}が、なぜか{外部|がいぶ}に{漏|も}れていた。",
+          "vi": "Thông tin mà nếu không phải người trong cuộc thì không thể biết được, không hiểu sao lại bị lọt ra ngoài.",
+          "note": "知り得ない + N"
+        },
+        {
+          "ja": "AIが{人間|にんげん}の{仕事|しごと}の{一部|いちぶ}を{奪|うば}うという{事態|じたい}は、{十分|じゅうぶん}{予想|よそう}し{得|う}る。",
+          "vi": "Tình huống AI lấy mất một phần công việc của con người là điều hoàn toàn có thể dự đoán.",
+          "note": "Văn nghị luận"
+        }
+      ],
+      "compare": [
+        {
+          "with": "Thể khả năng (〜できる／〜られる)",
+          "diff": "「話せる」「運転できる」 = năng lực / điều kiện cá nhân. 「得る」 = **khả năng sự việc xảy ra** (logic, khách quan)."
+        },
+        {
+          "with": "〜かねない (22課)",
+          "diff": "「かねない」 cũng là \"có thể xảy ra\" nhưng **chỉ dùng cho điều xấu** và có giọng lo ngại. 「得る」 trung tính, tốt xấu đều được."
+        },
+        {
+          "with": "〜がたい (bài này)",
+          "diff": "「理解しがたい」 = khó mà hiểu (cảm xúc không chấp nhận). 「理解し得ない」 = về logic không thể hiểu được."
+        }
+      ],
+      "mistakes": [
+        "✗ {彼|かれ}は{英語|えいご}が{話|はな}し{得|う}る。→ ○ 彼は英語が話せる (năng lực cá nhân)",
+        "✗ ありうない → ○ ありえない (phủ định luôn đọc え)"
+      ],
+      "tip": "Chủ ngữ là **sự việc** (事故, ミス, 変化, 事態) và câu bàn về khả năng xảy ra → 「得る」. Câu bày tỏ \"không thể có chuyện đó\" → 「あり得ない」. Đừng nhầm 「あり得ない」 với 「ありがたい」 (biết ơn)!"
+    }
+  ],
+  "summary": [
+    {
+      "pattern": "〜がたい",
+      "meaning": "khó mà… (tâm lý)",
+      "key": "信じ・理解し・許し・表し + がたい; không dùng cho vật lý / năng lực"
+    },
+    {
+      "pattern": "〜わけにはいかない・〜わけにもいかない",
+      "meaning": "không thể (vì đạo lý, trách nhiệm) / cũng không thể",
+      "key": "V辞書形; ngôi 1; わけにもいかない = thế bí"
+    },
+    {
+      "pattern": "〜かねる",
+      "meaning": "khó lòng, không thể (từ chối lịch sự)",
+      "key": "お〜しかねます; 決めかねる; 見かねて・待ちかねて; ≠ かねない"
+    },
+    {
+      "pattern": "〜ようがない",
+      "meaning": "không có cách nào / không thể nào",
+      "key": "Vます; Nのしようがない; としか言いようがない"
+    },
+    {
+      "pattern": "〜どころではない",
+      "meaning": "đâu phải lúc để…",
+      "key": "bận / ốm / ồn + hoạt động vui; ≠ どころか"
+    },
+    {
+      "pattern": "〜得る／〜得ない",
+      "meaning": "có thể / không thể xảy ra",
+      "key": "うる／えない; khả năng logic, không phải năng lực"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b18-q1",
+      "kind": "form",
+      "ref": "b18-1",
+      "q": "{十年|じゅうねん}も{一緒|いっしょ}に{働|はたら}いてきた{彼|かれ}が{会社|かいしゃ}を{裏切|うらぎ}ったとは、{信|しん}じ（　　）。",
+      "options": [
+        "かねない",
+        "ようがある",
+        "がたい",
+        "得る"
+      ],
+      "answer": 2,
+      "vi": "Thật khó mà tin được người đã cùng làm việc mười năm như anh ấy lại phản bội công ty.",
+      "why": "Cú sốc tâm lý, \"khó mà tin\" → **がたい**. 「信じかねない」 = có nguy cơ tin (xấu) — vô nghĩa; 「ようがある」 không phải cách nói tự nhiên; 「信じ得る」 = có thể tin, trái với sắc thái kinh ngạc của 「とは」."
+    },
+    {
+      "id": "b18-q2",
+      "kind": "form",
+      "ref": "b18-2",
+      "q": "{熱|ねつ}が{少|すこ}しあるが、{今日|きょう}は{大事|だいじ}なプレゼンがあるから、{会社|かいしゃ}を{休|やす}む（　　）。",
+      "options": [
+        "わけにはいかない",
+        "ことにした",
+        "しかない",
+        "べきだ"
+      ],
+      "answer": 0,
+      "vi": "Tôi hơi sốt, nhưng hôm nay có buổi thuyết trình quan trọng nên không thể nghỉ làm.",
+      "why": "Nghỉ thì được, nhưng vì trách nhiệm (大事なプレゼン) nên không được nghỉ → **わけにはいかない**. 「ことにした」 = quyết định nghỉ — ngược với lý do \"có buổi thuyết trình quan trọng\"; 「しかない」「べきだ」 = buộc phải / nên nghỉ, cũng ngược với lý do đưa ra."
+    },
+    {
+      "id": "b18-q3",
+      "kind": "form",
+      "ref": "b18-3",
+      "q": "{恐|おそ}れ{入|い}りますが、{当店|とうてん}ではお{客様|きゃくさま}のご{都合|つごう}による{返品|へんぴん}はお{受|う}けし（　　）。",
+      "options": [
+        "かねません",
+        "がたいです",
+        "得ます",
+        "かねます"
+      ],
+      "answer": 3,
+      "vi": "Xin thứ lỗi, cửa hàng chúng tôi không thể nhận trả hàng vì lý do cá nhân của quý khách.",
+      "why": "Từ chối lịch sự theo quy định của cửa hàng → **かねます**. 「かねません」 = có nguy cơ sẽ nhận (nghĩa ngược, bẫy); 「がたいです」 dùng cho khó khăn tâm lý, không dùng để từ chối theo quy định; 「得ます」 = có thể nhận, trái với 「恐れ入りますが」."
+    },
+    {
+      "id": "b18-q4",
+      "kind": "form",
+      "ref": "b18-4",
+      "q": "{犯人|はんにん}の{顔|かお}は{一度|いちど}も{見|み}ていないのだから、{警察|けいさつ}に{聞|き}かれても{答|こた}え（　　）。",
+      "options": [
+        "かねない",
+        "ようがない",
+        "得る",
+        "がたい"
+      ],
+      "answer": 1,
+      "vi": "Tôi chưa từng nhìn thấy mặt thủ phạm nên dù cảnh sát hỏi cũng chẳng có cách nào trả lời.",
+      "why": "Không có thông tin → không có cách trả lời → **ようがない**. 「答えがたい」 = khó trả lời vì ngại / tế nhị, nhưng ở đây lý do là thiếu thông tin; 「答えかねない」 = có nguy cơ trả lời, vô nghĩa; 「答え得る」 = có thể trả lời, ngược nghĩa."
+    },
+    {
+      "id": "b18-q5",
+      "kind": "form",
+      "ref": "b18-5",
+      "q": "{来週|らいしゅう}{引|ひ}っ{越|こ}しなので、{今|いま}は{友達|ともだち}と{旅行|りょこう}の{計画|けいかく}を{立|た}てる（　　）。",
+      "options": [
+        "わけがない",
+        "かねない",
+        "どころではない",
+        "ようがない"
+      ],
+      "answer": 2,
+      "vi": "Tuần sau chuyển nhà nên giờ đâu phải lúc lên kế hoạch du lịch với bạn bè.",
+      "why": "Bận chuyển nhà → không có điều kiện làm việc vui → **どころではない**. 「わけがない」 là phán đoán \"không đời nào\" — không hợp khi nói về chính mình vì bận; 「立てるかねない」「立てるようがない」 sai cách nối (phải là Vます: 立てかねない／立てようがない)."
+    },
+    {
+      "id": "b18-q6",
+      "kind": "order",
+      "ref": "b18-6",
+      "q": "{事故|じこ}は ＿＿＿ ＿＿＿ ★ ＿＿＿ {心|こころ}がけが{大切|たいせつ}だ。",
+      "options": [
+        "得る",
+        "という",
+        "起こり",
+        "誰にでも"
+      ],
+      "order": [
+        3,
+        2,
+        0,
+        1
+      ],
+      "answer": 0,
+      "vi": "Điều quan trọng là luôn tâm niệm rằng tai nạn có thể xảy đến với bất kỳ ai.",
+      "why": "事故は **誰にでも 起こり 得る という** 心がけが大切だ → ★ (ô thứ 3) = 「得る」. 「起こり」 là Vます nên phải đi liền với 「得る」; 「という」 nối mệnh đề với danh từ 「心がけ」."
+    },
+    {
+      "id": "b18-q7",
+      "kind": "usage",
+      "ref": "b18-3",
+      "q": "「〜かねる」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "私は泳ぎかねるので、プールには行きません。",
+        "このまま放っておくと、大事故になりかねます。",
+        "この料理は辛すぎて、私には食べかねる。",
+        "部下が困っているのを見かねて、部長が手を貸した。"
+      ],
+      "answer": 3,
+      "vi": "(4) Không nỡ thấy cấp dưới gặp khó khăn, trưởng phòng đã ra tay giúp.",
+      "why": "(4) 「見かねて」 = không nỡ đứng nhìn → đúng. (1) năng lực → 泳げない; (2) nghĩa \"có nguy cơ\" phải là 「なりかねません」; (3) khó khăn thể chất → 食べられない."
+    }
+  ],
+  "practice": [
+    {
+      "id": "b18-p1",
+      "kind": "form",
+      "ref": "b18-1",
+      "q": "{戦争|せんそう}を{経験|けいけん}した{祖父|そふ}の{話|はなし}は、{平和|へいわ}な{時代|じだい}に{育|そだ}った{私|わたし}たちには{想像|そうぞう}し（　　）ほど{悲惨|ひさん}なものだった。",
+      "options": [
+        "かねない",
+        "がたい",
+        "得る",
+        "どころではない"
+      ],
+      "answer": 1,
+      "vi": "Câu chuyện của ông tôi, người từng trải qua chiến tranh, bi thảm đến mức thế hệ lớn lên trong thời bình như chúng tôi khó mà tưởng tượng nổi.",
+      "why": "\"Bi thảm đến mức khó mà tưởng tượng\" → **がたい**. 「想像し得るほど悲惨」 ngược logic; 「かねない」 = có nguy cơ (xấu), vô nghĩa ở đây; 「想像しどころではない」 sai cách nối (どころではない đi sau V辞書形 / N)."
+    },
+    {
+      "id": "b18-p2",
+      "kind": "form",
+      "ref": "b18-2",
+      "q": "{先輩|せんぱい}に{誘|さそ}われる{飲|の}み{会|かい}には{正直|しょうじき}{行|い}きたくないが、{毎回|まいかい}{断|ことわ}る（　　）、{困|こま}っている。",
+      "options": [
+        "ことなく",
+        "ほかなく",
+        "どころではなく",
+        "わけにもいかず"
+      ],
+      "answer": 3,
+      "vi": "Thật lòng tôi không muốn đi những buổi nhậu đàn anh rủ, nhưng lần nào cũng từ chối thì cũng không được, nên đang khó xử.",
+      "why": "Không muốn đi, nhưng từ chối mãi **cũng** không được (thế bí) → **わけにもいかず**. 「ことなく」 = mà không từ chối — mâu thuẫn với 困っている; 「ほかなく」 = đành phải từ chối — mâu thuẫn với 「行きたくないが」; 「どころではなく」 = không phải lúc để từ chối — vô nghĩa."
+    },
+    {
+      "id": "b18-p3",
+      "kind": "form",
+      "ref": "b18-3",
+      "q": "{二社|にしゃ}から{内定|ないてい}をもらったが、どちらに{入社|にゅうしゃ}するか{決|き}め（　　）いる。",
+      "options": [
+        "かねて",
+        "がたくて",
+        "得て",
+        "ようがなくて"
+      ],
+      "answer": 0,
+      "vi": "Tôi nhận được thư mời làm việc từ hai công ty nhưng vẫn đang phân vân chưa quyết được vào công ty nào.",
+      "why": "「決めかねている」 = phân vân mãi chưa quyết được → **かねて**. 「がたくて」「ようがなくて」 là dạng tính từ, không nối được với 「いる」; 「決め得ている」 không phải cách nói tồn tại."
+    },
+    {
+      "id": "b18-p4",
+      "kind": "form",
+      "ref": "b18-4",
+      "q": "この{機械|きかい}は{操作|そうさ}ボタンが{一|ひと}つしかないから、{使|つか}い{方|かた}を{間違|まちが}え（　　）。",
+      "options": [
+        "がたい",
+        "かねない",
+        "ようがない",
+        "得る"
+      ],
+      "answer": 2,
+      "vi": "Cái máy này chỉ có đúng một nút bấm nên có muốn dùng sai cũng không được.",
+      "why": "Điều kiện (chỉ có một nút) khiến việc nhầm **không thể xảy ra** → **ようがない** (nghĩa 2). 「間違えかねない」「間違え得る」 = có thể nhầm, ngược với lý do; 「がたい」 chỉ khó khăn tâm lý."
+    },
+    {
+      "id": "b18-p5",
+      "kind": "form",
+      "ref": "b18-5",
+      "q": "{腰|こし}を{痛|いた}めてしまって、{楽|たの}しみにしていたゴルフ（　　）。",
+      "options": [
+        "にほかならない",
+        "どころではない",
+        "わけにはいかない",
+        "ようがない"
+      ],
+      "answer": 1,
+      "vi": "Bị đau lưng nên môn golf mong chờ bấy lâu giờ đâu còn chơi được nữa.",
+      "why": "Bị đau → không có điều kiện làm việc vui (ゴルフ) → **どころではない** (N + どころではない). 「わけにはいかない」「ようがない」 không nối trực tiếp với danh từ; 「にほかならない」 = chính là…, vô nghĩa ở đây."
+    },
+    {
+      "id": "b18-p6",
+      "kind": "form",
+      "ref": "b18-6",
+      "q": "{毎日|まいにち}{三時間|さんじかん}しか{寝|ね}ないで{働|はたら}き{続|つづ}けるなんて、{普通|ふつう}ではあり（　　）。",
+      "options": [
+        "がたい",
+        "かねる",
+        "得る",
+        "得ない"
+      ],
+      "answer": 3,
+      "vi": "Ngày nào cũng chỉ ngủ ba tiếng rồi làm việc liên tục — bình thường thì không thể có chuyện đó.",
+      "why": "「なんて」 thể hiện kinh ngạc, phủ nhận → **あり得ない**. 「ありがたい」 = biết ơn (bẫy âm); 「ありかねる」 không tồn tại; 「あり得る」 = có thể có, ngược sắc thái."
+    },
+    {
+      "id": "b18-p7",
+      "kind": "form",
+      "ref": "b18-1",
+      "q": "この{錠剤|じょうざい}は{粒|つぶ}が{大|おお}きくて{飲|の}み（　　）。",
+      "options": [
+        "にくい",
+        "がたい",
+        "かねる",
+        "得ない"
+      ],
+      "answer": 0,
+      "vi": "Viên thuốc này to nên khó nuốt.",
+      "why": "Khó khăn **vật lý** → **にくい**. 「がたい」 chỉ dùng cho khó khăn tâm lý (信じがたい); 「かねる」 dùng cho lập trường / từ chối; 「飲み得ない」 = về logic không thể uống — quá mức và không tự nhiên."
+    },
+    {
+      "id": "b18-p8",
+      "kind": "form",
+      "ref": "b18-2",
+      "q": "{今日|きょう}は{車|くるま}で{来|き}ているので、お{酒|さけ}を{飲|の}む（　　）んです。",
+      "options": [
+        "ほかない",
+        "ようがない",
+        "わけにはいかない",
+        "がたい"
+      ],
+      "answer": 2,
+      "vi": "Hôm nay tôi lái xe đến nên không thể uống rượu được.",
+      "why": "Uống thì được, nhưng vì quy định / lẽ thường (lái xe) nên không được → **わけにはいかない**. 「ほかない」 = buộc phải uống, ngược nghĩa; 「飲むようがない」「飲むがたい」 sai cách nối (cần Vます: 飲みようがない／飲みがたい)."
+    },
+    {
+      "id": "b18-p9",
+      "kind": "order",
+      "ref": "b18-4",
+      "q": "{冷蔵庫|れいぞうこ}に{材料|ざいりょう}が ＿＿＿ ＿＿＿ ★ ＿＿＿ 。",
+      "options": [
+        "ようがない",
+        "作り",
+        "何も",
+        "ないのだから"
+      ],
+      "order": [
+        2,
+        3,
+        1,
+        0
+      ],
+      "answer": 1,
+      "vi": "Trong tủ lạnh chẳng có chút nguyên liệu nào thì làm sao mà nấu được.",
+      "why": "材料が **何も ないのだから 作り ようがない** → ★ (ô thứ 3) = 「作り」. 「何も」 đi với phủ định 「ない」; 「作り」 (Vます) + 「ようがない」."
+    },
+    {
+      "id": "b18-p10",
+      "kind": "order",
+      "ref": "b18-2",
+      "q": "{体調|たいちょう}が{悪|わる}いが、{明日|あした}は{大事|だいじ}な ＿＿＿ ＿＿＿ ★ ＿＿＿ 。",
+      "options": [
+        "簡単に",
+        "わけにもいかない",
+        "取引先との会議だから",
+        "休む"
+      ],
+      "order": [
+        2,
+        0,
+        3,
+        1
+      ],
+      "answer": 3,
+      "vi": "Tôi không khoẻ, nhưng mai có cuộc họp quan trọng với đối tác nên cũng không thể dễ dàng nghỉ được.",
+      "why": "大事な **取引先との会議だから 簡単に 休む わけにもいかない** → ★ (ô thứ 3) = 「休む」. 「大事な」 bổ nghĩa cho 「取引先との会議」; trạng từ 「簡単に」 đứng trước động từ; V辞書形 + わけにもいかない."
+    },
+    {
+      "id": "b18-p11",
+      "kind": "usage",
+      "ref": "b18-6",
+      "q": "「〜得る」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "人為的なミスは、どんなに注意していても起こり得る。",
+        "私は英語が話し得るので、通訳を頼まれた。",
+        "今日はお酒を飲んでいないから、運転し得る。",
+        "この問題は難しすぎて、子どもには解き得る。"
+      ],
+      "answer": 0,
+      "vi": "(1) Lỗi do con người thì dù cẩn thận đến đâu cũng có thể xảy ra.",
+      "why": "(1) khả năng một sự việc xảy ra → đúng. (2) năng lực cá nhân → 話せる; (3) khả năng do tình huống cụ thể → 運転できる; (4) mâu thuẫn logic (khó quá mà lại \"có thể giải\") — nếu muốn: 「子どもには解けない」."
+    }
+  ],
+  "test": [
+    {
+      "id": "b18-t1",
+      "kind": "form",
+      "ref": "b18-3",
+      "q": "お{客様|きゃくさま}のご{要望|ようぼう}は{理解|りかい}しておりますが、{規則|きそく}により、そのようなご{依頼|いらい}はお{引|ひ}き{受|う}け（　　）。",
+      "options": [
+        "しかねません",
+        "しがたいです",
+        "いたしかねます",
+        "いたし得ません"
+      ],
+      "answer": 2,
+      "vi": "Chúng tôi hiểu mong muốn của quý khách, nhưng theo quy định, chúng tôi không thể nhận yêu cầu như vậy.",
+      "why": "Từ chối lịch sự theo quy định → **いたしかねます**. 「しかねません」 = có nguy cơ sẽ nhận — nghĩa ngược (bẫy かねない); 「しがたいです」 là khó khăn tâm lý, không phải cách từ chối khách; 「いたし得ません」 không tự nhiên trong lời từ chối."
+    },
+    {
+      "id": "b18-t2",
+      "kind": "form",
+      "ref": "b18-4",
+      "q": "{完璧|かんぺき}に{準備|じゅんび}していたのに{当日|とうじつ}{大雨|おおあめ}で{中止|ちゅうし}になるなんて、{運|うん}が{悪|わる}かったとしか{言|い}い（　　）。",
+      "options": [
+        "ようがない",
+        "かねない",
+        "がたい",
+        "得る"
+      ],
+      "answer": 0,
+      "vi": "Chuẩn bị hoàn hảo rồi mà đúng hôm đó mưa to phải huỷ, chỉ có thể nói là xui xẻo.",
+      "why": "Khung cố định 「〜としか言いようがない」 → **ようがない**. 「しか」 cần một vị ngữ phủ định nên 「言いがたい」「言い得る」 không đi được với 「としか」; 「言いかねない」 = có nguy cơ nói ra, vô nghĩa."
+    },
+    {
+      "id": "b18-t3",
+      "kind": "form",
+      "ref": "b18-5",
+      "q": "{突然|とつぜん}{部長|ぶちょう}から{大量|たいりょう}の{仕事|しごと}を{頼|たの}まれて、{週末|しゅうまつ}はデート（　　）。",
+      "options": [
+        "わけにはいかなかった",
+        "ようがなかった",
+        "にすぎなかった",
+        "どころではなかった"
+      ],
+      "answer": 3,
+      "vi": "Bất ngờ bị trưởng phòng giao cả đống việc, cuối tuần đâu còn thời gian mà hẹn hò.",
+      "why": "Quá bận → không có điều kiện làm việc vui → **どころではなかった**. 「わけにはいかない」「ようがない」 không nối trực tiếp với danh từ 「デート」; 「にすぎなかった」 = chỉ là…, vô nghĩa."
+    },
+    {
+      "id": "b18-t4",
+      "kind": "form",
+      "ref": "b18-1",
+      "q": "{何度|なんど}{注意|ちゅうい}しても{同|おな}じミスを{繰|く}り{返|かえ}す{彼|かれ}の{態度|たいど}は、どうにも{理解|りかい}し（　　）。",
+      "options": [
+        "かねない",
+        "がたい",
+        "得る",
+        "ようがある"
+      ],
+      "answer": 1,
+      "vi": "Thái độ của anh ta, nhắc bao nhiêu lần vẫn lặp lại cùng một lỗi, thật khó mà hiểu nổi.",
+      "why": "Bức xúc, không chấp nhận nổi về mặt tâm lý → **がたい**. 「理解しかねない」 = có nguy cơ hiểu — vô nghĩa (đừng nhầm với 理解しかねる); 「理解し得る」 = có thể hiểu, ngược với 「どうにも」; 「ようがある」 không tự nhiên."
+    },
+    {
+      "id": "b18-t5",
+      "kind": "usage",
+      "ref": "b18-2",
+      "q": "「〜わけにはいかない」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "背が低いので、高い棚に手が届くわけにはいかない。",
+        "明日は雨が降るわけにはいかない。",
+        "お客様の個人情報を、本人の許可なく他人に教えるわけにはいかない。",
+        "熱が高すぎて、ベッドから起き上がるわけにはいかない。"
+      ],
+      "answer": 2,
+      "vi": "(3) Không thể tiết lộ thông tin cá nhân của khách hàng cho người khác khi chưa có sự cho phép của họ.",
+      "why": "(3) làm được nhưng vì đạo đức nghề nghiệp nên không được làm → đúng. (1) khả năng thể chất → 届かない; (2) hiện tượng tự nhiên không dùng được; (4) không làm nổi về thể chất → 起き上がれない."
+    },
+    {
+      "id": "b18-t6",
+      "kind": "order",
+      "ref": "b18-3",
+      "q": "{道|みち}に{迷|まよ}って{困|こま}っている{観光客|かんこうきゃく}を ＿＿＿ ＿＿＿ ★ ＿＿＿ 。",
+      "options": [
+        "かけた",
+        "声を",
+        "見かねた",
+        "店員が"
+      ],
+      "order": [
+        2,
+        3,
+        1,
+        0
+      ],
+      "answer": 1,
+      "vi": "Không nỡ nhìn du khách lạc đường đang bối rối, một nhân viên cửa hàng đã lên tiếng hỏi han.",
+      "why": "観光客を **見かねた 店員が 声を かけた** → ★ (ô thứ 3) = 「声を」. 「〜を見かねた」 bổ nghĩa cho 「店員」; cụm cố định 「声をかける」."
+    },
+    {
+      "id": "b18-t7",
+      "kind": "order",
+      "ref": "b18-5",
+      "q": "{試験|しけん}の{結果|けっか}が ＿＿＿ ＿＿＿ ★ ＿＿＿ 。",
+      "options": [
+        "楽しむ",
+        "旅行を",
+        "気になって",
+        "どころではなかった"
+      ],
+      "order": [
+        2,
+        1,
+        0,
+        3
+      ],
+      "answer": 0,
+      "vi": "Cứ lo lắng về kết quả thi nên tôi chẳng còn tâm trí nào để tận hưởng chuyến du lịch.",
+      "why": "試験の結果が **気になって 旅行を 楽しむ どころではなかった** → ★ (ô thứ 3) = 「楽しむ」. 「〜が気になって」 nêu lý do; 「旅行を楽しむ」 là hoạt động bị cản trở; V辞書形 + どころではない."
+    }
+  ]
+}

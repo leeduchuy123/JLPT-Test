@@ -1,0 +1,362 @@
+{
+  "id": "d07",
+  "track": "dokkai",
+  "intro": "Bài này luyện dạng câu hỏi: 「〜のは**だれ**か」「**何が**〜のか」「**何を**〜のか」「**何と**／**何に**〜のか」. Tức là hỏi **ai** làm, **cái gì** xảy ra, làm **cái gì**, nói **với ai / về cái gì**.\n\n**Vì sao dạng này khó?** Tiếng Nhật **rất hay lược bỏ chủ ngữ và tân ngữ** khi người viết nghĩ rằng người đọc đã tự hiểu. Phần gạch chân thường chỉ là một cụm động từ trơ trọi như 「次の材料を手配する」「思いもしない」 — chủ ngữ của nó nằm ở câu trước, có khi cách đó ba, bốn câu. Người Việt quen đọc theo kiểu \"ai đứng gần động từ nhất thì là chủ ngữ\", và đề thi cố tình đặt **danh từ gần nhất** đó vào một phương án nhiễu.\n\n**Ba nguyên tắc vàng của bài:**\n- **Chủ đề với 「は」 được \"giữ\" qua nhiều câu.** Văn kiểu 「Aは〜。〜。〜。」: các câu sau không có chủ ngữ thì chủ ngữ vẫn là A, cho tới khi xuất hiện một chủ đề mới.\n- **「が」 nằm trong mệnh đề phụ** (〜と、〜とき、〜ので、〜たら、〜ても) chỉ là chủ ngữ của mệnh đề phụ đó, **không** thay chủ ngữ của câu chính. 「料理人が料理を始めると、（彼らは）もう一皿作る」.\n- **Bị động, cho–nhận, 〜ほう／〜側 làm đổi góc nhìn.** 「言われたほう」 là người **bị** nói; 「代わってもらった人」 là người **được** làm thay, không phải người làm.\n\n**Cách làm chung:** viết lại câu gạch chân thành một câu đầy đủ có ô trống, ví dụ 「（　だれ　）が次の材料を手配する」, rồi đi tìm trong văn bản danh từ khớp vào ô đó và **thử thay vào** để kiểm tra. Bài này dùng chung kỹ năng với bài 指示語 (d06): nếu trong câu gạch chân có 「それ」「その人」「彼ら」, hãy giải quyết từ chỉ thị trước.",
+  "strategy": [
+    {
+      "title": "Bước 1 — Đọc lướt, khoanh các \"nhân vật\"",
+      "body": "Đọc nhanh toàn bài để biết chủ đề, đồng thời **khoanh tròn mọi người / nhóm người / sự vật** xuất hiện: 料理人, フードスタイリスト, 新人, 指導役, 課長… Đây chính là kho ứng viên: phương án của đề gần như luôn là các danh từ có trong bài, nên điều quan trọng không phải là \"có trong bài không\" mà là **\"có đúng vai không\"**.\n\nMẹo: ghi tạm quan hệ giữa các nhân vật (ai dạy ai, ai tặng ai, ai nói với ai) bằng mũi tên. Với bài có hai phe (người tặng ↔ người nhận, người dạy ↔ người học), chia đôi ngay từ đầu."
+    },
+    {
+      "title": "Bước 2 — Biến câu hỏi thành câu có ô trống",
+      "body": "Viết lại câu hỏi thành câu khẳng định có ô trống và xác định **vai** đang bị hỏi:\n- 「思いもしないのはだれか」 → 「（だれ）**が**思いもしない」 → hỏi **chủ ngữ**.\n- 「何が整理されていくのか」 → 「（何）**が**整理されていく」 → hỏi chủ ngữ của câu **bị động** (cái bị tác động).\n- 「だれがだれに尋ねるのか」 → hỏi cả người làm lẫn đối tượng (に).\n- 「何について不満を言ったのか」 → hỏi nội dung / đối tượng.\n- 「（いまは）違うとは、何とどう違うのか」 → hỏi **vế được so sánh bị lược** (〜と). Câu ngắn như 「いまは違う」 ngầm đối lập với một vế ở phía trước (むかしは… ↔ いまは…). Tìm cả hai vế, tóm mỗi vế một câu, rồi chọn phương án mô tả **đúng cả hai** — phương án nhiễu thường đúng một vế và bịa ở vế kia.\n\nĐồng thời nhìn **dạng động từ** trong phần gạch chân: thể bị động 〜られる? khả năng 〜られる? 〜てもらう / 〜てくれる? kính ngữ? Dạng động từ quyết định góc nhìn (Bước 4)."
+    },
+    {
+      "title": "Bước 3 — Lần ngược lên tìm chủ đề đang \"chạy\"",
+      "body": "Từ câu gạch chân, đi **ngược lên từng câu một** và hỏi: câu này chủ ngữ là ai?\n- Câu không có chủ ngữ → tiếp tục đi lên.\n- Gặp **danh từ + は** (hoặc 彼らは, 本人は, 〜のほうは) → đó là ứng viên mạnh nhất, vì chủ đề は được giữ cho các câu sau.\n- Gặp **danh từ + が trong mệnh đề phụ** (〜が…と、〜が…とき) → **bỏ qua**, đó chỉ là chủ ngữ phụ.\n- Có câu xen kẽ đổi chủ đề tạm thời (vd 「料理は、実はこちらだ」)? Xem động từ của câu gạch chân cần chủ ngữ loại gì: 洗う, 手配する cần **người**, nên phải quay về chủ đề là người.\n\nĐôi khi chủ ngữ nằm **sau** phần gạch chân (câu kết luận, câu giải thích 〜からだ / 〜のだ), nên đọc thêm 1–2 câu phía sau."
+    },
+    {
+      "title": "Bước 4 — Kiểm tra góc nhìn: bị động, cho–nhận, ほう／側",
+      "body": "Đây là chỗ mất điểm nhiều nhất. Bảng tra nhanh:\n- **Aが Bに 〜られる** (bị động): A là người **chịu** tác động, B là người **làm**. 「妻に指摘されて驚いた」 → người驚いた là người bị chỉ ra (chồng).\n- **〜られる** cũng có thể là **khả năng** (尋ねられる = có thể hỏi). Nếu có 「気軽に」「〜にも」「〜なら」 đi kèm, nghĩ đến nghĩa khả năng.\n- **Aが Bに 〜てもらう**: A **nhận** lợi ích, B **làm**. 「仕事を代わってもらった人」 = người được đồng nghiệp làm thay.\n- **Bが（Aに）〜てくれる**: B làm cho **người nói / phe người nói**. 「手を挙げてくれた」 → người làm là người ngoài, người hưởng là phe người viết.\n- **〜ほう／〜側**: 渡すほう ↔ 受け取る側, 教える側 ↔ 教えられる側.\n- **〜がる／〜がっている／〜たがる** → chủ ngữ là **ngôi thứ ba**; tính từ cảm xúc trơn (うれしい, 不安だ) không có dấu hiệu → thường là **người viết**.\n- **Kính ngữ** (おっしゃる, なさる) → chủ ngữ là người bề trên; **khiêm nhường ngữ** (伺う, いたす) → chủ ngữ là người viết / phe mình."
+    },
+    {
+      "title": "Bước 5 — Thay vào, đọc lại, loại trừ",
+      "body": "Thay từng phương án vào ô trống ở Bước 2, đọc lại **câu trước – câu gạch chân – câu sau**. Phương án đúng phải trơn tru về cả ngữ pháp lẫn logic.\n\nBa kiểu phương án nhiễu hay gặp:\n- **Danh từ gần nhất** nhưng nằm trong mệnh đề phụ hoặc là đối tượng (を／に), không phải chủ ngữ.\n- **Ngược góc nhìn**: người tặng ↔ người nhận, người hỏi ↔ người được hỏi, người làm thay ↔ người được làm thay.\n- **Có liên quan nhưng không được viết**: một người có trong chủ đề chung nhưng không làm hành động đó (vd 視聴者, 課長).\n\nNếu câu hỏi dạng 「だれがだれに」, kiểm tra **cả hai vế**: nhiều phương án đúng một vế, sai vế kia."
+    }
+  ],
+  "signals": [
+    {
+      "ja": "Aは〜。〜。〜。",
+      "vi": "Chủ đề は được giữ qua nhiều câu",
+      "note": "「彼らは材料を買い、野菜を切る。当日は…整える。」 → các câu sau vẫn là 彼ら."
+    },
+    {
+      "ja": "Bが〜と／とき／ので、（A は）〜",
+      "vi": "が trong mệnh đề phụ chỉ là chủ ngữ phụ",
+      "note": "「料理人が始めると、もう一皿作る」 → người làm thêm đĩa không phải 料理人."
+    },
+    {
+      "ja": "AはBが〜",
+      "vi": "は = chủ đề lớn, が = chủ ngữ nhỏ bên trong",
+      "note": "「新人は質問が多い」: chủ đề là 新人, 質問 là thứ \"nhiều\"."
+    },
+    {
+      "ja": "〜られる（受身）＋ 〜に／〜から／〜によって",
+      "vi": "Bị động: chủ ngữ là người / vật chịu tác động",
+      "note": "「妻から指摘された」 → chồng bị chỉ ra, vợ là người chỉ ra."
+    },
+    {
+      "ja": "〜られる（可能）",
+      "vi": "Có thể làm (không phải bị động)",
+      "note": "「気軽に尋ねられる」 = có thể hỏi một cách thoải mái; chủ ngữ là người hỏi."
+    },
+    {
+      "ja": "AがBに〜てもらう／〜ていただく",
+      "vi": "A được B làm cho",
+      "note": "Người **làm** là B (đứng với に). 「代わってもらった人」 = người được làm thay."
+    },
+    {
+      "ja": "〜てくれる／〜てくださる",
+      "vi": "Người khác làm cho phe người nói",
+      "note": "「学生が手を挙げてくれた」 → người làm là học sinh, người hưởng là phe người viết."
+    },
+    {
+      "ja": "〜ほう・〜側",
+      "vi": "Phía, bên (đối lập hai phe)",
+      "note": "渡すほう ↔ 受け取る側, 言ったほう ↔ 言われたほう."
+    },
+    {
+      "ja": "本人・自身・自分",
+      "vi": "Chính người đó",
+      "note": "Chỉ về chủ đề của câu, không phải người viết. 「本人にしてみれば」 = theo bản thân người (được nói đến) đó."
+    },
+    {
+      "ja": "彼・彼女・彼ら・その人・こちら",
+      "vi": "Đại từ chỉ người",
+      "note": "Giải như từ chỉ thị (d06): tìm danh từ người phía trước. 「こちら」 trong lời nói = phía người đang nói."
+    },
+    {
+      "ja": "〜のは〜だ（分裂文）",
+      "vi": "Câu tách nhấn mạnh: người / vật làm việc đó là…",
+      "note": "「手を挙げてくれたのが学生たちだった」 → đáp án nằm ngay sau のは／のが."
+    },
+    {
+      "ja": "〜がる・〜がっている・〜たがる",
+      "vi": "Cảm xúc / mong muốn của ngôi thứ ba",
+      "note": "「子どもが不安がる」; còn 「不安だ」 trơn thường là người viết."
+    },
+    {
+      "ja": "お〜になる・〜なさる ／ お〜する・伺う",
+      "vi": "Kính ngữ ↔ khiêm nhường ngữ",
+      "note": "Kính ngữ → chủ ngữ là người trên / khách; khiêm nhường → người viết / phe mình."
+    },
+    {
+      "ja": "〜も",
+      "vi": "Thêm một chủ thể khác cùng làm",
+      "note": "「新人のほうも〜」 → chuyển sang phe 新人, đồng thời báo hiệu cả hai phe đều có lợi."
+    },
+    {
+      "ja": "Aは〜。…。Bは違う／Bは〜とは違う",
+      "vi": "Vế so sánh bị lược: \"khác\" là khác với A ở trước",
+      "note": "「以前は休日も会社に出る人が多かった。…。いまは違う。」 → 違う = khác với 「以前」: phải tóm cả hai vế (trước: đi làm cả ngày nghỉ ↔ nay: không còn như thế)."
+    }
+  ],
+  "passages": {
+    "p1": {
+      "title": "料理番組の裏側",
+      "kind": "解説",
+      "ja": "テレビの{料理番組|りょうりばんぐみ}で、{出演|しゅつえん}する{料理人|りょうりにん}の{手元|てもと}が{美|うつく}しく{映|うつ}るのは、フードスタイリストのおかげである。{彼|かれ}らは{撮影|さつえい}の{前日|ぜんじつ}までに{材料|ざいりょう}を{買|か}いそろえ、{野菜|やさい}を{同|おな}じ{大|おお}きさに{切|き}って{準備|じゅんび}しておく。{当日|とうじつ}、{料理人|りょうりにん}がカメラの{前|まえ}で{料理|りょうり}を{始|はじ}めると、スタジオの{隅|すみ}で{完成品|かんせいひん}をもう{一皿|ひとさら}{作|つく}り、{盛|も}り{付|つ}けを{整|ととの}える。{番組|ばんぐみ}の{最後|さいご}に{画面|がめん}に{映|うつ}る{料理|りょうり}は、{実|じつ}はこちらであることが{多|おお}い。そして{撮影|さつえい}が{終|お}わると、{使|つか}った{道具|どうぐ}を{洗|あら}い、{翌週|よくしゅう}の{献立|こんだて}に{合|あ}わせて[[u:{次|つぎ}の{材料|ざいりょう}を{手配|てはい}する]]のである。",
+      "vi": "Trong các chương trình dạy nấu ăn trên tivi, việc những gì nằm trong tay đầu bếp tham gia chương trình hiện lên màn hình thật đẹp là nhờ có các food stylist (người tạo hình món ăn). Họ mua sắm đủ nguyên liệu muộn nhất là trước ngày quay một hôm, cắt rau thành những miếng to bằng nhau để chuẩn bị sẵn. Vào ngày quay, khi đầu bếp bắt đầu nấu trước ống kính thì họ làm thêm một đĩa thành phẩm nữa ở góc trường quay và chỉnh sửa lại cách bày biện. Món ăn hiện lên màn hình ở cuối chương trình thực ra thường là đĩa này. Và khi buổi quay kết thúc, họ rửa dụng cụ đã dùng rồi đặt mua nguyên liệu tiếp theo cho phù hợp với thực đơn của tuần sau."
+    },
+    "p2": {
+      "title": "お土産の重さ",
+      "kind": "エッセイ",
+      "ja": "{旅行|りょこう}のたびに、{職場|しょくば}の{全員|ぜんいん}にお{土産|みやげ}を{配|くば}る{人|ひと}がいる。{本人|ほんにん}にしてみれば、{留守|るす}の{間|あいだ}に{仕事|しごと}を{代|か}わってもらったお{礼|れい}のつもりなのだろう。{確|たし}かに、もらって{悪|わる}い{気|き}はしない。しかし、{毎回|まいかい}{受|う}け{取|と}る{側|がわ}は、{次|つぎ}に{自分|じぶん}が{旅行|りょこう}に{行|い}ったとき、{同|おな}じようにしなければならないと{感|かん}じてしまう。お{返|かえ}しのお{土産|みやげ}を{選|えら}ぶのが{面倒|めんどう}だという{声|こえ}も{聞|き}く。{一方|いっぽう}、{渡|わた}すほうは{相手|あいて}に{喜|よろこ}んでもらいたい{一心|いっしん}である。{自分|じぶん}の{気遣|きづか}いが{相手|あいて}の{重荷|おもに}になっているなどとは、[[u:{思|おも}いもしない]]だろう。{親切|しんせつ}は、{受|う}ける{人|ひと}の{立場|たちば}に{立|た}ってこそ{本当|ほんとう}の{親切|しんせつ}になるのだ。",
+      "vi": "Có những người cứ mỗi lần đi du lịch là lại phát quà cho tất cả mọi người ở chỗ làm. Theo bản thân người đó thì có lẽ đây là quà cảm ơn vì đã được (đồng nghiệp) làm thay công việc trong lúc mình vắng mặt. Quả thật, được nhận quà thì chẳng ai thấy khó chịu. Nhưng phía người lần nào cũng nhận lại cảm thấy rằng lần sau khi mình đi du lịch, mình cũng phải làm y như vậy. Cũng nghe có người than rằng chọn quà đáp lễ thật là phiền. Trong khi đó, phía người tặng thì một lòng chỉ mong đối phương vui. Hẳn họ không hề nghĩ rằng sự chu đáo của mình lại đang trở thành gánh nặng cho người khác. Lòng tốt chỉ trở thành lòng tốt thật sự khi ta đứng ở vị trí của người nhận."
+    },
+    "p3": {
+      "title": "教えることで学ぶ",
+      "kind": "解説",
+      "ja": "{入社|にゅうしゃ}{三年目|さんねんめ}の{社員|しゃいん}に{新人|しんじん}の{指導|しどう}を{任|まか}せる{会社|かいしゃ}が{増|ふ}えている。{指導役|しどうやく}に{選|えら}ばれた{社員|しゃいん}は、{初|はじ}めのうちは{戸惑|とまど}うことが{多|おお}いという。{自分|じぶん}では{当|あ}たり{前|まえ}にできている{作業|さぎょう}でも、なぜそうするのかと{新人|しんじん}に{聞|き}かれると、[[u1:うまく{説明|せつめい}できない]]からだ。そこで{彼|かれ}らは、{改|あらた}めてマニュアルを{読|よ}み{直|なお}したり、{先輩|せんぱい}に{確認|かくにん}したりする。こうして{説明|せつめい}の{準備|じゅんび}をするうちに、{感覚|かんかく}でこなしていた{仕事|しごと}が、[[u2:{言葉|ことば}で{整理|せいり}されていく]]。\n{一方|いっぽう}、{新人|しんじん}のほうも、{年|とし}の{近|ちか}い{相手|あいて}になら{遠慮|えんりょ}せずに{質問|しつもん}できる。{課長|かちょう}のような{上|うえ}の{立場|たちば}の{人|ひと}には{聞|き}きにくい{基本的|きほんてき}なことも、{気軽|きがる}に[[u3:{尋|たず}ねられる]]のである。\n{教|おし}えられる{側|がわ}だけでなく、{教|おし}える{側|がわ}にとっても{得|え}るものが{大|おお}きい。この{仕組|しく}みが{広|ひろ}がっている{理由|りゆう}は、そこにあるのだろう。",
+      "vi": "Ngày càng có nhiều công ty giao việc hướng dẫn nhân viên mới cho những nhân viên vào công ty được ba năm. Nghe nói những nhân viên được chọn làm người hướng dẫn, lúc đầu thường hay lúng túng. Bởi vì ngay cả những công việc mà bản thân họ vẫn làm được một cách đương nhiên, khi bị nhân viên mới hỏi “tại sao lại làm như vậy” thì họ không giải thích được trôi chảy. Vì thế, họ đọc lại sổ tay hướng dẫn, hoặc hỏi lại các tiền bối. Trong quá trình chuẩn bị để giải thích như vậy, những công việc trước đây họ làm theo cảm tính dần dần được sắp xếp lại bằng lời.\nMặt khác, về phía nhân viên mới, với người gần tuổi mình thì họ có thể đặt câu hỏi mà không ngại ngần. Cả những điều cơ bản mà khó hỏi người ở vị trí cao như trưởng phòng, họ cũng có thể hỏi một cách thoải mái.\nKhông chỉ phía được dạy mà cả phía dạy cũng thu được nhiều điều. Có lẽ lý do cơ chế này đang lan rộng nằm ở chỗ đó."
+    },
+    "p4": {
+      "title": "祭りを支える人々",
+      "kind": "エッセイ",
+      "ja": "{私|わたし}の{住|す}む{町|まち}では、{毎年|まいとし}{夏|なつ}に{小|ちい}さな{祭|まつ}りが{開|ひら}かれる。{数年前|すうねんまえ}までは{町内会|ちょうないかい}の{高齢者|こうれいしゃ}が{中心|ちゅうしん}になって{準備|じゅんび}をしていたが、{体力的|たいりょくてき}に{難|むずか}しくなり、{一時|いちじ}は{中止|ちゅうし}も{検討|けんとう}された。そのとき[[u1:{手|て}を{挙|あ}げてくれた]]のが、{近所|きんじょ}の{大学|だいがく}の{学生|がくせい}たちだった。\n{学生|がくせい}たちは{重|おも}いテントを{運|はこ}ぶだけでなく、SNSで{祭|まつ}りの{情報|じょうほう}を{発信|はっしん}し、{若|わか}い{家族|かぞく}を{呼|よ}び{込|こ}んだ。{高齢者|こうれいしゃ}たちは、{昔|むかし}から{伝|つた}わる{踊|おど}りや{屋台|やたい}の{作|つく}り{方|かた}を{学生|がくせい}に{教|おし}え、{学生|がくせい}は{熱心|ねっしん}にそれをメモした。{去年|きょねん}の{祭|まつ}りの{後|あと}、ある{学生|がくせい}が「{教|おし}えてもらうばかりで、{恩返|おんがえ}しができていません」と{話|はな}すと、{町内会長|ちょうないかいちょう}は「とんでもない。[[u2:{助|たす}けられている]]のはこちらのほうだ」と{笑|わら}った。",
+      "vi": "Ở thị trấn nơi tôi sống, hằng năm vào mùa hè có tổ chức một lễ hội nhỏ. Cho đến vài năm trước, những người cao tuổi trong hội khu phố vẫn là lực lượng chính lo chuẩn bị, nhưng rồi sức khoẻ không cho phép nữa, có lúc người ta đã tính đến chuyện dừng tổ chức. Những người khi đó đã xung phong đứng ra giúp chính là các sinh viên của trường đại học gần đó.\nCác sinh viên không chỉ khuân những chiếc lều nặng mà còn đăng thông tin lễ hội lên mạng xã hội, kéo được các gia đình trẻ đến. Những người cao tuổi dạy cho sinh viên các điệu múa và cách dựng quầy hàng được truyền lại từ xưa, còn sinh viên thì chăm chú ghi chép lại. Sau lễ hội năm ngoái, khi một sinh viên nói: “Chúng em chỉ toàn được các bác dạy cho, chưa đền đáp được gì cả”, thì hội trưởng hội khu phố cười bảo: “Đâu có. Người được giúp đỡ là phía chúng tôi mới đúng.”"
+    },
+    "p5": {
+      "title": "「わかりました」の中身",
+      "kind": "評論",
+      "ja": "{病院|びょういん}で{医師|いし}から{薬|くすり}の{飲|の}み{方|かた}を{説明|せつめい}されたあと、「わかりました」と{答|こた}えたのに、{家|いえ}に{帰|かえ}ると{何|なに}も{覚|おぼ}えていなかったという{経験|けいけん}はないだろうか。{医師|いし}の{側|がわ}は、{患者|かんじゃ}がうなずいたのを{見|み}て、{伝|つた}わったものと{考|かんが}える。しかし{患者|かんじゃ}は、{忙|いそが}しそうな{医師|いし}に{遠慮|えんりょ}して、わからない{点|てん}があっても{聞|き}き{返|かえ}さないことが{多|おお}い。\nある{病院|びょういん}では、この{問題|もんだい}を{解決|かいけつ}するために、{説明|せつめい}の{最後|さいご}に{患者|かんじゃ}{自身|じしん}の{言葉|ことば}で{内容|ないよう}を{繰|く}り{返|かえ}してもらうことにした。すると、{医師|いし}が{十分|じゅうぶん}に{伝|つた}えたつもりの{内容|ないよう}が、{半分|はんぶん}{程度|ていど}しか[[u1:{理解|りかい}されていなかった]]ことがわかったという。{初|はじ}めは「{時間|じかん}がかかる」と[[u2:{不満|ふまん}を{言|い}う]]{医師|いし}もいたが、{今|いま}では、{薬|くすり}の{飲|の}み{間違|まちが}いが{減|へ}ったことで、かえって{診察|しんさつ}の{手間|てま}が{省|はぶ}けると[[u3:{評価|ひょうか}されている]]そうだ。\n「わかりました」という{一言|ひとこと}は、{必|かなら}ずしも{理解|りかい}の{証拠|しょうこ}ではない。{伝|つた}える{側|がわ}は、{相手|あいて}がうなずいたかどうかではなく、{何|なに}が{伝|つた}わったかを{確|たし}かめる{必要|ひつよう}があるのだ。",
+      "vi": "Bạn đã bao giờ gặp chuyện này chưa: ở bệnh viện, sau khi được bác sĩ giải thích cách uống thuốc, bạn đáp “Tôi hiểu rồi”, vậy mà về đến nhà thì chẳng nhớ gì cả? Phía bác sĩ thấy bệnh nhân gật đầu thì cho rằng mình đã truyền đạt được. Nhưng bệnh nhân thì vì ngại người bác sĩ trông có vẻ bận rộn nên dù có điểm chưa hiểu cũng thường không hỏi lại.\nỞ một bệnh viện nọ, để giải quyết vấn đề này, người ta quyết định cuối buổi giải thích sẽ nhờ bệnh nhân tự nhắc lại nội dung bằng lời của chính mình. Kết quả là họ phát hiện ra những nội dung mà bác sĩ tưởng đã truyền đạt đầy đủ thì (bệnh nhân) chỉ hiểu được khoảng một nửa. Lúc đầu cũng có bác sĩ phàn nàn rằng “mất thời gian”, nhưng nghe nói đến nay cách làm này lại được đánh giá là nhờ số ca uống nhầm thuốc giảm đi mà công khám bệnh ngược lại còn được tiết kiệm.\nMột câu “Tôi hiểu rồi” không hẳn là bằng chứng của sự hiểu. Phía người truyền đạt cần xác nhận xem điều gì đã được truyền tới, chứ không phải đối phương có gật đầu hay không."
+    },
+    "p6": {
+      "title": "「手伝う」という言葉",
+      "kind": "評論",
+      "ja": "「{夫|おっと}はよく{家事|かじ}を{手伝|てつだ}ってくれます」。{共働|ともばたら}きの{妻|つま}がこう{話|はな}すのを{聞|き}くと、{仲|なか}のいい{夫婦|ふうふ}だと{思|おも}う{人|ひと}が{多|おお}いだろう。しかし、この{言葉|ことば}に{違和感|いわかん}を{覚|おぼ}える{人|ひと}も{増|ふ}えている。「{手伝|てつだ}う」とは、{本来|ほんらい}{他人|たにん}の{仕事|しごと}に{力|ちから}を{貸|か}すことだ。つまりこの{言|い}い{方|かた}には、{家事|かじ}は{妻|つま}の{仕事|しごと}だという{前提|ぜんてい}が{隠|かく}れている。\n{知人|ちじん}の{男性|だんせい}は、{料理|りょうり}も{洗濯|せんたく}もこなす。{本人|ほんにん}は{家事|かじ}を{分担|ぶんたん}しているつもりだったが、ある{日|ひ}、{妻|つま}から「{言|い}われたことしかしないのね」と{指摘|してき}されて[[u1:{驚|おどろ}いた]]という。{彼|かれ}が{作|つく}るのは{妻|つま}が{決|き}めた{献立|こんだて}で、{洗剤|せんざい}が{切|き}れていても、[[u2:{頼|たの}まれるまで{買|か}いに{行|い}かなかった]]。{何|なに}を、いつ、どれだけ{用意|ようい}するかを{考|かんが}える{役目|やくめ}は、すべて{妻|つま}に{任|まか}せていたのである。{彼|かれ}は「{作業|さぎょう}は{半分|はんぶん}でも、[[u3:{頭|あたま}を{使|つか}っていたのは{妻|つま}だけだった]]」と{振|ふ}り{返|かえ}る。\n{家事|かじ}とは、{目|め}に{見|み}える{作業|さぎょう}だけを{指|さ}すのではない。{家族|かぞく}に{必要|ひつよう}なものに{気|き}づき、{計画|けいかく}を{立|た}てることも{含|ふく}めて{家事|かじ}なのだ。それを{二人|ふたり}で{担|にな}って{初|はじ}めて、「{手伝|てつだ}い」ではなく「{分担|ぶんたん}」と[[u4:{呼|よ}べる]]のではないだろうか。",
+      "vi": "“Chồng tôi hay giúp tôi làm việc nhà lắm.” Nghe một người vợ trong gia đình hai vợ chồng cùng đi làm nói vậy, chắc nhiều người sẽ nghĩ đó là một cặp vợ chồng hoà thuận. Tuy nhiên, số người thấy câu nói này có gì đó không ổn cũng đang tăng lên. “Giúp” (手伝う) vốn có nghĩa là góp sức vào công việc của người khác. Tức là trong cách nói này ẩn chứa một tiền đề: việc nhà là việc của vợ.\nMột người đàn ông quen của tôi làm được cả nấu ăn lẫn giặt giũ. Bản thân anh ấy vẫn tưởng mình đang chia sẻ việc nhà, nhưng nghe kể một hôm anh bị vợ chỉ ra rằng “Anh chỉ làm những gì được bảo thôi nhỉ” và đã rất bất ngờ. Món anh nấu là thực đơn do vợ quyết định, nước giặt có hết thì anh cũng không đi mua cho đến khi được nhờ. Vai trò nghĩ xem cần chuẩn bị cái gì, khi nào, bao nhiêu, anh đều phó mặc hết cho vợ. Anh nhìn lại: “Công việc tay chân thì chia đôi, nhưng người phải động não chỉ có mình vợ tôi.”\nViệc nhà không chỉ là những thao tác nhìn thấy được. Nhận ra những gì gia đình cần và lên kế hoạch cũng là việc nhà. Phải chăng chỉ khi hai người cùng gánh vác cả những điều đó thì mới có thể gọi là “chia sẻ” chứ không phải là “giúp”?"
+    }
+  },
+  "worked": [
+    {
+      "id": "d07-w1",
+      "kind": "passage",
+      "pass": "p1",
+      "q": "[[u:{次|つぎ}の{材料|ざいりょう}を{手配|てはい}する]]のはだれか。",
+      "options": [
+        "{番組|ばんぐみ}に{出演|しゅつえん}する{料理人|りょうりにん}",
+        "フードスタイリスト",
+        "{番組|ばんぐみ}を{見|み}ている{視聴者|しちょうしゃ}",
+        "{番組|ばんぐみ}の{献立|こんだて}を{決|き}める{人|ひと}"
+      ],
+      "answer": 1,
+      "vi": "Người đặt mua nguyên liệu tiếp theo là ai? → Food stylist (người tạo hình món ăn).",
+      "why": "Đoạn văn mở bằng chủ đề 「（料理人の手元が美しく映るのは）フードスタイリストのおかげである」, câu 2 đặt chủ đề 「**彼らは**」 = フードスタイリスト. Từ đó các câu sau không có chủ ngữ mới chỉ người, nên chủ ngữ của 「洗い、…手配する」 vẫn là 彼ら.\n- 1 sai: 「料理人が」 chỉ xuất hiện trong mệnh đề phụ 「料理人がカメラの前で料理を始めると」 — chỉ là chủ ngữ của mệnh đề 〜と, không phải người làm các việc ở sau.\n- 3 sai: người xem không được nhắc đến trong bài.\n- 4 sai: 「献立」 có trong câu gạch chân nhưng là thứ dùng để căn cứ (翌週の献立に合わせて), bài không nói ai quyết định thực đơn.",
+      "walkthrough": "**① Đọc câu hỏi, viết lại có ô trống:** 「（だれ）が次の材料を手配する」 → hỏi **chủ ngữ**.\n\n**② Khoanh nhân vật:** 料理人, フードスタイリスト (= 彼ら). Hai người, hai vai: 料理人 đứng trước ống kính, フードスタイリスト làm việc phía sau.\n\n**③ Lần ngược từ câu gạch chân:**\n- Câu gạch chân 「そして撮影が終わると、使った道具を洗い、…手配する」: 「撮影が」 nằm trong mệnh đề 〜と, là chủ ngữ phụ (buổi quay kết thúc). Động từ chính 洗う・手配する **không có chủ ngữ** → đi lên.\n- Câu trước 「番組の最後に画面に映る料理は、実はこちらである」: chủ đề tạm thời là 料理. Nhưng 料理 không thể \"rửa dụng cụ\" hay \"đặt mua nguyên liệu\" → câu này chỉ là câu chú thích, bỏ qua.\n- Câu trước nữa 「料理人がカメラの前で料理を始めると、スタジオの隅で完成品をもう一皿作り…」: **bẫy chính**. 料理人が nằm trong mệnh đề 〜と; vế chính (もう一皿作り) cũng không có chủ ngữ. Thêm nữa, địa điểm đối lập 「カメラの前で」 ↔ 「スタジオの隅で」 cho thấy đây là hai người khác nhau.\n- Câu 2: 「**彼らは**…」 → tìm thấy chủ đề は. 彼ら = フードスタイリスト ở câu 1.\n\n**④ Thay vào kiểm tra:** 「フードスタイリストが道具を洗い、次の材料を手配する」 → khớp với cả đoạn (họ lo nguyên liệu từ trước ngày quay, nay lo tiếp cho tuần sau).\n\n**⑤ Loại trừ:** 料理人 là danh từ người **gần nhất** có が → phương án nhiễu điển hình. 視聴者 không có trong bài. 献立を決める人 lấy chữ 「献立」 trong câu gạch chân để đánh lừa.\n\n**Bài học:** một chủ đề は ở đầu đoạn có thể \"chạy\" suốt 4–5 câu; が trong mệnh đề 〜と／〜とき không làm đổi chủ ngữ."
+    },
+    {
+      "id": "d07-w2",
+      "kind": "passage",
+      "pass": "p2",
+      "q": "[[u:{思|おも}いもしない]]のはだれか。",
+      "options": [
+        "{留守|るす}の{間|あいだ}に{仕事|しごと}を{代|か}わった{同僚|どうりょう}",
+        "お{返|かえ}しのお{土産|みやげ}を{選|えら}ぶのが{面倒|めんどう}だと{思|おも}う{人|ひと}",
+        "{留守|るす}の{間|あいだ}に{仕事|しごと}を{代|か}わってもらった{人|ひと}",
+        "お{土産|みやげ}をもらって{悪|わる}い{気|き}はしない{人|ひと}"
+      ],
+      "answer": 2,
+      "vi": "Người “không hề nghĩ (rằng sự chu đáo của mình là gánh nặng)” là ai? → Người đã được làm thay công việc lúc vắng mặt (tức người tặng quà).",
+      "why": "Câu ngay trước: 「一方、**渡すほうは**相手に喜んでもらいたい一心である」 → chủ đề chuyển sang **phía người tặng**. Câu gạch chân không có chủ ngữ và có 「自分の気遣いが**相手の**重荷になっている」 → \"mình\" là người tặng, \"đối phương\" là người nhận. Người tặng, theo câu 2, là người tặng quà để cảm ơn vì 「留守の間に仕事を**代わってもらった**」 → phương án 3.\n- 1 sai: người 「代わった」 (làm thay) là đồng nghiệp, tức **phía nhận quà** — ngược góc nhìn của 〜てもらう.\n- 2 sai: người thấy chọn quà đáp lễ phiền là phía nhận; họ chính là người cảm thấy gánh nặng, không phải người \"không hề nghĩ\".\n- 4 sai: 「もらって悪い気はしない」 nói về người nhận (người viết nói chung), không phải người tặng.",
+      "walkthrough": "**① Câu có ô trống:** 「（だれ）が［自分の気遣いが相手の重荷になっているなどとは］思いもしない」.\n\n**② Chia hai phe ngay từ đầu:** bài này có **người tặng** (お土産を配る人 = 本人 = 渡すほう) và **người nhận** (職場の全員 = 受け取る側). Ghi ra:\n- Người tặng: 配る人 / 本人 / 渡すほう / 代わってもらった人.\n- Người nhận: 受け取る側 / 代わった同僚 / お返しを選ぶ人.\n\n**③ Lần ngược:** câu ngay trước có 「一方、**渡すほうは**」. 「一方」 là tín hiệu chuyển phe, 「渡すほう」 = người tặng. Câu gạch chân không có chủ đề mới → chủ ngữ vẫn là 渡すほう. 「自分」 và 「相手」 trong câu cũng xác nhận: \"mình\" (người tặng) chu đáo, còn \"đối phương\" (người nhận) bị nặng lòng.\n\n**④ Dịch phương án sang \"phe\":** đề không viết thẳng 「渡すほう」 mà đổi cách nói — đây là chỗ cần hiểu 〜てもらう.\n- 「仕事を代わってもらった人」: người **được** làm thay → người đi du lịch → người tặng ✔.\n- 「仕事を代わった同僚」: người **làm thay** → người nhận ✗.\nHai phương án chỉ khác nhau đúng chữ 「もらった」 — đề thi rất thích kiểu bẫy này.\n\n**⑤ Loại các phương án còn lại:** 2 và 4 đều là đặc điểm của phía người nhận.\n\n**Bài học:** khi bài có hai phe, gán **mọi cách gọi** về đúng phe của nó (本人, 〜ほう, 〜側, 〜てもらった人…). Đáp án thường được viết bằng một cách gọi **khác** với cách gọi trong câu gần phần gạch chân."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "d07-q1",
+      "kind": "passage",
+      "pass": "p3",
+      "q": "[[u1:うまく{説明|せつめい}できない]]のはだれか。",
+      "options": [
+        "{新人|しんじん}の{質問|しつもん}に{答|こた}える{課長|かちょう}",
+        "{入社|にゅうしゃ}したばかりの{新人|しんじん}",
+        "{新人|しんじん}に{作業|さぎょう}の{理由|りゆう}を{聞|き}かれた{指導役|しどうやく}の{社員|しゃいん}",
+        "マニュアルを{作|つく}った{先輩|せんぱい}"
+      ],
+      "answer": 2,
+      "vi": "Ai là người không giải thích được trôi chảy? → Nhân viên hướng dẫn bị nhân viên mới hỏi lý do của công việc.",
+      "why": "Câu 2 có chủ đề 「**指導役に選ばれた社員は**、初めのうちは戸惑うことが多い」, câu 3 là câu giải thích lý do (〜からだ) cho câu 2 nên vẫn cùng chủ ngữ. Trong câu 3, 「新人に聞かれると」 là **bị động**: người bị hỏi là 指導役, người hỏi là 新人 (に). Thêm 「自分では当たり前にできている作業」 → \"mình\" là người đã làm quen việc, tức 指導役. → 3.\n- 2 sai: 新人 là danh từ gần nhất nhưng đứng với 「に」 trong câu bị động → là người **hỏi**, không phải người giải thích.\n- 1 sai: 課長 chỉ xuất hiện ở đoạn 2, là người mà nhân viên mới ngại hỏi.\n- 4 sai: 先輩 là người mà 指導役 đi hỏi lại; bài không nói ai làm マニュアル."
+    },
+    {
+      "id": "d07-q2",
+      "kind": "passage",
+      "pass": "p3",
+      "q": "[[u2:{言葉|ことば}で{整理|せいり}されていく]]とあるが、{何|なに}が{言葉|ことば}で{整理|せいり}されていくのか。",
+      "options": [
+        "{指導役|しどうやく}の{社員|しゃいん}が、それまで{感覚|かんかく}で{行|おこな}っていた{仕事|しごと}",
+        "{新人|しんじん}がマニュアルを{読|よ}んで{覚|おぼ}えた{知識|ちしき}",
+        "{先輩|せんぱい}が{新人|しんじん}のために{確認|かくにん}した{作業|さぎょう}の{手順|てじゅん}",
+        "{新人|しんじん}から{聞|き}かれた{質問|しつもん}とその{答|こた}え"
+      ],
+      "answer": 0,
+      "vi": "Cái gì dần dần được sắp xếp lại bằng lời? → Công việc mà nhân viên hướng dẫn trước đây làm theo cảm tính.",
+      "why": "Câu gạch chân là câu bị động có chủ ngữ ngay trước: 「感覚でこなしていた**仕事が**、言葉で整理されていく」. Ai làm việc đó theo cảm tính? Câu trước có chủ đề 「そこで**彼らは**」 = 指導役の社員, và 「説明の準備をするうちに」 cũng là việc của họ. → 1.\n- 2 sai: người đọc lại マニュアル là 指導役 (彼ら), không phải 新人.\n- 3 sai: 指導役 đi hỏi 先輩 (先輩に確認した), không phải 先輩 tự xác nhận cho 新人.\n- 4 sai: câu hỏi của 新人 là **nguyên nhân** khiến họ chuẩn bị; thứ được sắp xếp lại là công việc (仕事), không phải bản thân câu hỏi."
+    },
+    {
+      "id": "d07-q3",
+      "kind": "passage",
+      "pass": "p3",
+      "q": "[[u3:{尋|たず}ねられる]]とあるが、だれがだれに{尋|たず}ねるのか。",
+      "options": [
+        "{指導役|しどうやく}の{社員|しゃいん}が、{課長|かちょう}に",
+        "{新人|しんじん}が、{指導役|しどうやく}の{社員|しゃいん}に",
+        "{新人|しんじん}が、{課長|かちょう}に",
+        "{課長|かちょう}が、{新人|しんじん}に"
+      ],
+      "answer": 1,
+      "vi": "Ai hỏi ai? → Nhân viên mới hỏi nhân viên hướng dẫn.",
+      "why": "Đoạn 2 mở bằng 「一方、**新人のほうも**、年の近い相手になら遠慮せずに質問できる」 → chủ ngữ là 新人, người được hỏi là 「年の近い相手」 = 指導役 (nhân viên năm thứ ba). Câu gạch chân nói tiếp ý đó: 「尋ねられる」 ở đây là **thể khả năng** (có thể hỏi), không phải bị động — vì có 「気軽に」 và song song với 「質問できる」 ở câu trước. → 2.\n- 3 sai: 「課長…には聞きにくい」 = những điều **khó hỏi** trưởng phòng; nhờ có người hướng dẫn mà hỏi được, chứ không phải hỏi trưởng phòng.\n- 4 sai: hiểu nhầm 尋ねられる là bị động (\"bị hỏi\") và lấy 課長 làm người hỏi.\n- 1 sai: 指導役 hỏi 先輩 ở đoạn 1, không hỏi 課長; và đoạn 2 nói về phía 新人."
+    }
+  ],
+  "practice": [
+    {
+      "id": "d07-p1",
+      "kind": "passage",
+      "pass": "p4",
+      "q": "[[u1:{手|て}を{挙|あ}げてくれた]]とあるが、だれが{何|なに}をすると{申|もう}し{出|で}たのか。",
+      "options": [
+        "{学生|がくせい}たちが、{祭|まつ}りの{準備|じゅんび}を{引|ひ}き{受|う}けると{申|もう}し{出|で}た。",
+        "{高齢者|こうれいしゃ}たちが、{祭|まつ}りを{中止|ちゅうし}すると{申|もう}し{出|で}た。",
+        "{若|わか}い{家族|かぞく}が、{祭|まつ}りに{参加|さんか}すると{申|もう}し{出|で}た。",
+        "{町内会長|ちょうないかいちょう}が、{学生|がくせい}に{協力|きょうりょく}を{頼|たの}むと{申|もう}し{出|で}た。"
+      ],
+      "answer": 0,
+      "vi": "Ai đã xung phong làm gì? → Các sinh viên xung phong nhận việc chuẩn bị lễ hội.",
+      "why": "Câu gạch chân là **câu tách**: 「そのとき手を挙げてくれた**のが、**近所の大学の**学生たちだった**」 → người làm ngay sau 「のが」. 「手を挙げる」 = giơ tay xung phong; 「〜てくれた」 cho biết người làm là người ngoài, làm vì phe người viết (khu phố). Làm gì? Bối cảnh câu trước: người cao tuổi không còn sức chuẩn bị, đã tính dừng lễ hội → sinh viên nhận phần chuẩn bị (đoạn 2: khuân lều, quảng bá). → 1.\n- 2 sai: 「中止も検討された」 là bị động, là tình hình trước đó, không phải điều được \"xung phong\".\n- 3 sai: gia đình trẻ là người được sinh viên kéo đến (呼び込んだ), xảy ra sau.\n- 4 sai: hội trưởng chỉ xuất hiện ở cuối bài, không có chuyện nhờ vả."
+    },
+    {
+      "id": "d07-p2",
+      "kind": "passage",
+      "pass": "p4",
+      "q": "[[u2:{助|たす}けられている]]のはだれか。",
+      "options": [
+        "{踊|おど}りや{屋台|やたい}の{作|つく}り{方|かた}を{教|おし}えてもらった{学生|がくせい}たち",
+        "SNSを{見|み}て{祭|まつ}りに{来|き}た{若|わか}い{家族|かぞく}",
+        "{祭|まつ}りの{中止|ちゅうし}を{検討|けんとう}した{大学|だいがく}",
+        "{町内会長|ちょうないかいちょう}をはじめとする{町内会|ちょうないかい}の{高齢者|こうれいしゃ}たち"
+      ],
+      "answer": 3,
+      "vi": "Ai là người được giúp đỡ? → Những người cao tuổi trong hội khu phố, đứng đầu là hội trưởng.",
+      "why": "Câu gạch chân nằm trong lời của hội trưởng: 「助けられているのは**こちらのほう**だ」. 「こちら」 trong lời nói = **phía người đang nói** = hội trưởng và hội khu phố (những người cao tuổi). Đây là lời đáp lại sinh viên: sinh viên nói 「教えてもらうばかり」 (chúng em chỉ được nhận), hội trưởng phủ định 「とんでもない」 và nói ngược lại — chính phía ông mới được giúp (sinh viên khuân lều, quảng bá, cứu lễ hội khỏi bị dừng). → 4.\n- 1 sai: đó là cách nghĩ của sinh viên, bị hội trưởng phủ định bằng 「とんでもない」. Đây là bẫy ngược góc nhìn.\n- 2 sai: gia đình trẻ không liên quan đến lời trao đổi này.\n- 3 sai: người tính dừng lễ hội không phải trường đại học; 「中止も検討された」 nói về phía khu phố."
+    },
+    {
+      "id": "d07-p3",
+      "kind": "passage",
+      "pass": "p5",
+      "q": "[[u1:{理解|りかい}されていなかった]]とあるが、だれが{何|なに}を{理解|りかい}していなかったのか。",
+      "options": [
+        "{医師|いし}が、{患者|かんじゃ}のわからない{点|てん}を",
+        "{患者|かんじゃ}が、{自分|じぶん}の{言葉|ことば}で{繰|く}り{返|かえ}す{方法|ほうほう}を",
+        "{患者|かんじゃ}が、{医師|いし}の{説明|せつめい}した{内容|ないよう}を",
+        "{医師|いし}が、{患者|かんじゃ}が{遠慮|えんりょ}していることを"
+      ],
+      "answer": 2,
+      "vi": "Ai đã không hiểu cái gì? → Bệnh nhân đã không hiểu nội dung bác sĩ giải thích.",
+      "why": "Câu bị động: 「医師が十分に伝えたつもりの**内容が**、半分程度しか理解されていなかった」 → thứ được (không được) hiểu là **nội dung bác sĩ truyền đạt**. Người hiểu bị lược đi, nhưng người nghe giải thích là bệnh nhân, và đây là kết quả phát hiện khi bắt 「患者自身の言葉で内容を繰り返してもらう」. → 3.\n- 1 và 4 sai: 「医師が」 trong câu là chủ ngữ của mệnh đề bổ nghĩa 「医師が十分に伝えたつもりの（内容）」 — bác sĩ là người **truyền đạt**, không phải người không hiểu. Đây là bẫy \"danh từ có が gần nhất\".\n- 2 sai: \"nhắc lại bằng lời của mình\" là phương pháp kiểm tra, không phải thứ bệnh nhân không hiểu."
+    },
+    {
+      "id": "d07-p4",
+      "kind": "passage",
+      "pass": "p5",
+      "q": "[[u2:{不満|ふまん}を{言|い}う]]とあるが、{医師|いし}は{何|なに}について{不満|ふまん}を{言|い}ったのか。",
+      "options": [
+        "{患者|かんじゃ}がわからない{点|てん}を{聞|き}き{返|かえ}さないこと",
+        "{患者|かんじゃ}に{内容|ないよう}を{繰|く}り{返|かえ}してもらうと{時間|じかん}がかかること",
+        "{患者|かんじゃ}が{薬|くすり}の{飲|の}み{方|かた}を{間違|まちが}えること",
+        "{病院|びょういん}が{医師|いし}の{説明|せつめい}の{仕方|しかた}を{調|しら}べたこと"
+      ],
+      "answer": 1,
+      "vi": "Bác sĩ phàn nàn về điều gì? → Việc nhờ bệnh nhân nhắc lại nội dung thì mất thời gian.",
+      "why": "Nội dung phàn nàn nằm ngay trong dấu ngoặc trước đó: 「初めは『**時間がかかる**』と不満を言う医師もいた」. Cái gì mất thời gian? Cách làm vừa được giới thiệu ở câu trước: 「説明の最後に患者自身の言葉で内容を繰り返してもらう」. 「初めは」 cũng cho biết đây là phản ứng lúc mới áp dụng cách làm đó. → 2.\n- 1 sai: bệnh nhân không hỏi lại là **vấn đề ban đầu** (đoạn 1), không phải điều bác sĩ phàn nàn.\n- 3 sai: uống nhầm thuốc là thứ **giảm đi** nhờ cách làm mới.\n- 4 sai: bài không nói bệnh viện điều tra cách giải thích của bác sĩ."
+    },
+    {
+      "id": "d07-p5",
+      "kind": "passage",
+      "pass": "p5",
+      "q": "[[u3:{評価|ひょうか}されている]]とあるが、{何|なに}が{評価|ひょうか}されているのか。",
+      "options": [
+        "{説明|せつめい}の{最後|さいご}に、{患者|かんじゃ}に{内容|ないよう}を{自分|じぶん}の{言葉|ことば}で{繰|く}り{返|かえ}してもらうやり{方|かた}",
+        "{医師|いし}が{時間|じかん}をかけて、ていねいに{説明|せつめい}すること",
+        "{患者|かんじゃ}が{遠慮|えんりょ}せずに{医師|いし}に{聞|き}き{返|かえ}すようになったこと",
+        "{薬|くすり}の{飲|の}み{間違|まちが}いを{減|へ}らすために{作|つく}られた{説明書|せつめいしょ}"
+      ],
+      "answer": 0,
+      "vi": "Cái gì được đánh giá (cao)? → Cách làm nhờ bệnh nhân nhắc lại nội dung bằng lời của mình ở cuối buổi giải thích.",
+      "why": "Câu gạch chân: 「初めは…不満を言う医師もいた**が**、今では、…かえって診察の手間が省けると評価されている」. Cấu trúc 「初めは A だが、今では B」 nói về **cùng một đối tượng**: thứ ban đầu bị chê là mất thời gian, nay được khen → chính là cách làm mới (繰り返してもらうこと). Người đánh giá được lược đi (các bác sĩ). 「かえって」 = trái với lời chê lúc đầu. → 1.\n- 2 sai: bài không nói bác sĩ giải thích lâu hơn; ngược lại, cách làm mới giúp tiết kiệm công.\n- 3 sai: bài không nói bệnh nhân đã thay đổi thái độ hỏi lại.\n- 4 sai: không có tờ hướng dẫn nào trong bài; 「飲み間違いが減った」 là kết quả, không phải thứ được đánh giá."
+    }
+  ],
+  "test": [
+    {
+      "id": "d07-t1",
+      "kind": "passage",
+      "pass": "p6",
+      "q": "[[u1:{驚|おどろ}いた]]のはだれか。",
+      "options": [
+        "{知人|ちじん}の{男性|だんせい}",
+        "{男性|だんせい}の{妻|つま}",
+        "{筆者|ひっしゃ}",
+        "「{手伝|てつだ}う」という{言葉|ことば}に{違和感|いわかん}を{覚|おぼ}える{人|ひと}"
+      ],
+      "answer": 0,
+      "vi": "Ai là người đã bất ngờ? → Người đàn ông quen (của tác giả).",
+      "why": "Đoạn 2 mở bằng chủ đề 「**知人の男性は**」, câu tiếp theo dùng 「**本人は**家事を分担しているつもりだったが、ある日、妻から…と**指摘されて**驚いた」. 「妻から指摘される」 là bị động → người bị chỉ ra là 本人 (người đàn ông), người chỉ ra là vợ. Người bị chỉ ra thì bất ngờ → 1. 「という」 ở cuối cho biết tác giả kể lại chuyện nghe được.\n- 2 sai: vợ là người **nói** (đứng với から trong câu bị động).\n- 3 sai: tác giả chỉ thuật lại (〜という), không phải người bất ngờ.\n- 4 sai: nhóm người thấy 違和感 xuất hiện ở đoạn 1, là chủ đề chung, không phải nhân vật trong câu chuyện này."
+    },
+    {
+      "id": "d07-t2",
+      "kind": "passage",
+      "pass": "p6",
+      "q": "[[u2:{頼|たの}まれるまで{買|か}いに{行|い}かなかった]]とあるが、だれがだれに{頼|たの}まれるのか。",
+      "options": [
+        "{妻|つま}が、{夫|おっと}に{頼|たの}まれる",
+        "{筆者|ひっしゃ}が、{知人|ちじん}の{男性|だんせい}に{頼|たの}まれる",
+        "{夫|おっと}が、{店|みせ}の{人|ひと}に{頼|たの}まれる",
+        "{夫|おっと}が、{妻|つま}に{頼|たの}まれる"
+      ],
+      "answer": 3,
+      "vi": "Ai được ai nhờ? → Người chồng được vợ nhờ.",
+      "why": "Câu này: 「彼が作るのは妻が決めた献立で、（彼は）洗剤が切れていても、頼まれるまで買いに行かなかった」 — 「彼が」 nằm trong cụm 「彼が作るの」, nhưng chủ đề đang \"chạy\" từ đầu đoạn vẫn là người đàn ông (知人の男性は／本人は), và vế sau không có chủ ngữ mới → người không đi mua là anh ấy (người chồng). 「頼まれる」 là bị động → chủ ngữ là chồng, người nhờ bị lược đi. Ai nhờ? Câu sau giải thích: mọi việc nghĩ xem cần gì đều 「妻に任せていた」, và lời vợ 「言われたことしかしないのね」 → người ra lệnh / nhờ là vợ. → 4.\n- 1 sai: ngược chiều bị động (vợ không phải người được nhờ).\n- 2 sai: tác giả không tham gia vào chuyện trong nhà người đàn ông.\n- 3 sai: 「店の人」 không có trong bài."
+    },
+    {
+      "id": "d07-t3",
+      "kind": "passage",
+      "pass": "p6",
+      "q": "[[u3:{頭|あたま}を{使|つか}っていたのは{妻|つま}だけだった]]とあるが、{妻|つま}は{何|なに}について{頭|あたま}を{使|つか}っていたのか。",
+      "options": [
+        "{夫|おっと}に{家事|かじ}を{手伝|てつだ}わせる{方法|ほうほう}",
+        "{料理|りょうり}や{洗濯|せんたく}を{早|はや}く{終|お}わらせる{方法|ほうほう}",
+        "{家族|かぞく}に{何|なに}が、いつ、どれだけ{必要|ひつよう}かということ",
+        "{夫|おっと}に{言|い}われた{家事|かじ}を{正|ただ}しく{行|おこな}うこと"
+      ],
+      "answer": 2,
+      "vi": "Người vợ đã phải động não về điều gì? → Gia đình cần cái gì, khi nào, bao nhiêu.",
+      "why": "Câu ngay trước câu gạch chân: 「**何を、いつ、どれだけ用意するかを考える役目は**、すべて妻に任せていたのである」. 「頭を使う」 = suy nghĩ, chính là 「考える役目」 này. Đoạn 3 cũng nhắc lại: 「家族に必要なものに気づき、計画を立てること」. → 3.\n- 1 sai: bài không nói vợ tìm cách bắt chồng giúp.\n- 2 sai: tốc độ làm việc nhà không được nhắc đến.\n- 4 sai: ngược vai — người \"làm theo lời được bảo\" là **chồng** (言われたことしかしない), không phải vợ."
+    },
+    {
+      "id": "d07-t4",
+      "kind": "passage",
+      "pass": "p6",
+      "q": "[[u4:{呼|よ}べる]]とあるが、{何|なに}が「{分担|ぶんたん}」と{呼|よ}べるのか。",
+      "options": [
+        "{夫婦|ふうふ}が、{目|め}に{見|み}える{作業|さぎょう}を{半分|はんぶん}ずつ{行|おこな}うこと",
+        "{必要|ひつよう}なものに{気|き}づき{計画|けいかく}を{立|た}てることまで{含|ふく}めて、{二人|ふたり}で{家事|かじ}を{担|にな}うこと",
+        "{妻|つま}に{頼|たの}まれた{家事|かじ}を、{夫|おっと}がすべて{引|ひ}き{受|う}けること",
+        "{妻|つま}が{家事|かじ}の{計画|けいかく}を{立|た}て、{夫|おっと}がそれを{実行|じっこう}すること"
+      ],
+      "answer": 1,
+      "vi": "Cái gì có thể gọi là “chia sẻ”? → Hai người cùng gánh vác việc nhà, kể cả việc nhận ra những thứ cần thiết và lên kế hoạch.",
+      "why": "Câu gạch chân: 「**それを**二人で担って初めて、『手伝い』ではなく『分担』と呼べる」. Chủ ngữ của 「呼べる」 là việc 「それを二人で担う」, mà 「それ」 = 家事 theo định nghĩa ở câu trước: 「目に見える作業だけ…ではない。家族に必要なものに気づき、計画を立てることも含めて家事なのだ」. → 2. (「呼べる」 ở đây là thể khả năng: có thể gọi là.)\n- 1 sai: đây chính là trường hợp của người đàn ông (作業は半分) mà bài phê phán.\n- 3 sai: làm hết việc được nhờ vẫn là \"chỉ làm khi được bảo\".\n- 4 sai: vợ lên kế hoạch, chồng làm theo = đúng tình trạng cũ trong bài, vẫn chỉ là 「手伝い」."
+    }
+  ]
+}

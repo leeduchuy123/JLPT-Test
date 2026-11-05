@@ -1,0 +1,174 @@
+{
+  "id": "b13",
+  "track": "bunpo",
+  "intro": "Ở N3 ta dùng 「〜は」 và 「〜というのは」 để nêu chủ đề. Bài này là các cách **đưa một từ lên làm chủ đề** nhưng kèm theo **mục đích riêng**:\n\n- **Định nghĩa / giải thích**: 〜とは (\"X là…\") — cứng, văn viết.\n- **Liên tưởng, nối chuyện**: 〜といえば (nhặt lời vừa nói để kéo sang chuyện liên quan), 〜というと・〜といえば・〜といったら (nhắc đến X là nghĩ ngay đến Y; 〜というと còn để **hỏi lại xác nhận**).\n- **Nhượng bộ**: 〜といえば〜が (\"nói là X thì cũng X thật, nhưng…\").\n- **Thái độ đặc biệt**: 〜(のこと)となると (\"hễ động đến X là người đó thay đổi hẳn\").\n- **Mức độ cực đoan**: 〜といったら (\"nói đến cái sự X ấy thì… không tả nổi\").\n\nMẹo chung để chọn đáp án: **nhìn vế sau**.\n- Vế sau là định nghĩa (〜ことだ・〜という意味だ) → とは.\n- Vế sau là thứ nghĩ đến / chuyện liên quan → といえば・というと.\n- Vế sau lặp lại cùng từ + が／けど → といえば (nhượng bộ).\n- Vế sau là thái độ thay đổi khác thường → (のこと)となると.\n- Vế sau là cảm xúc / mức độ không tả nổi (〜ない ほど) → といったら.",
+  "points": [
+    {
+      "id": "b13-1",
+      "pattern": "〜とは",
+      "reading": "〜とは",
+      "meaning": "X là… (định nghĩa, giải thích nghĩa hoặc bản chất)",
+      "structure": ["N ＋ とは", "「từ / cụm từ」 ＋ とは", "Vế sau: 〜だ・〜である・〜のことだ・〜という意味だ・どういう意味ですか"],
+      "explain": "「〜とは」 là phiên bản **cứng, trang trọng** của 「〜というのは」 (N3). Dùng khi muốn **định nghĩa một từ** hoặc nói lên **bản chất** của một khái niệm.\n\nHai kiểu hay gặp:\n- **Giải thích nghĩa của từ**: 「「{過疎|かそ}」とは、{人口|じんこう}が{減|へ}りすぎて…ことだ」 — giống câu trong từ điển, sách giáo khoa.\n- **Nói về bản chất** (mang tính triết lý): 「{真|しん}の{友人|ゆうじん}とは、{困|こま}ったときに{助|たす}けてくれる{人|ひと}のことだ」 — Bạn thật sự là người giúp mình lúc khó khăn.\n\nVế sau luôn là câu **giải thích / định nghĩa**: 「〜だ」「〜である」「〜のことだ」「〜という意味だ」, hoặc câu hỏi nghĩa 「〜とはどういう意味ですか」「〜とは{何|なに}か」.",
+      "nuance": "Văn viết, cứng (từ điển, báo, bài luận, sách giáo khoa). Văn nói thân mật dùng 「〜って」: 「「{積読|つんどく}」って{何|なに}？」.\n\nCòn một 「〜とは」 khác (không thuộc mẫu này): **ngạc nhiên** — 「まさか{彼|かれ}が{優勝|ゆうしょう}するとは」 = Không ngờ anh ta lại vô địch. Phân biệt: kiểu định nghĩa đứng sau **danh từ / từ trong ngoặc**, vế sau là giải thích; kiểu ngạc nhiên đứng sau **mệnh đề**, hay đi với 「まさか」「〜とは{思|おも}わなかった」.",
+      "examples": [
+        {"ja": "「{過疎|かそ}」とは、{人口|じんこう}が{大幅|おおはば}に{減|へ}って、{地域|ちいき}の{生活|せいかつ}が{成|な}り{立|た}ちにくくなることだ。", "vi": "\"Kaso\" (suy giảm dân số) là tình trạng dân số giảm mạnh khiến đời sống của vùng khó duy trì.", "note": "Định nghĩa từ · vế sau 〜ことだ"},
+        {"ja": "{真|しん}の{友人|ゆうじん}とは、{困|こま}ったときにこそそばにいてくれる{人|ひと}のことだ。", "vi": "Bạn thật sự là người ở bên ta chính vào lúc khó khăn.", "note": "Bản chất · 〜のことだ"},
+        {"ja": "「SDGs」とは{何|なに}の{略|りゃく}ですか。", "vi": "\"SDGs\" là viết tắt của cái gì vậy?", "note": "Câu hỏi về nghĩa"},
+        {"ja": "{仕事|しごと}とは、お{金|かね}を{稼|かせ}ぐためだけのものではなく、{自分|じぶん}を{成長|せいちょう}させてくれる{場|ば}である。", "vi": "Công việc không chỉ là để kiếm tiền, mà còn là nơi giúp bản thân trưởng thành.", "note": "Văn bài luận · 〜である"},
+        {"ja": "「{先生|せんせい}」とは、{日本|にほん}では{教師|きょうし}だけでなく{医者|いしゃ}や{弁護士|べんごし}を{呼|よ}ぶときにも{使|つか}う{言葉|ことば}だ。", "vi": "\"Sensei\" là từ mà ở Nhật không chỉ dùng để gọi giáo viên mà cả bác sĩ hay luật sư.", "note": "Giải thích cách dùng từ · 「X」とは đứng đầu câu"}
+      ],
+      "compare": [
+        {"with": "〜というのは (N3)", "diff": "Cùng nghĩa. 「というのは」 dùng cả trong hội thoại lịch sự; 「とは」 cứng hơn, chủ yếu dùng trong văn viết / phát biểu; khi nói chuyện lịch sự vẫn hay gặp câu hỏi nghĩa 「〜とはどういう意味ですか」."},
+        {"with": "〜というと・〜といえば", "diff": "「とは」 = **định nghĩa** X (X là gì). 「というと／といえば」 = **liên tưởng** (nhắc đến X thì nghĩ đến Y). 「{京都|きょうと}とは」 → phải giải thích Kyoto là gì; 「京都といえば」 → kể ra thứ tiêu biểu của Kyoto."}
+      ],
+      "mistakes": [
+        "✗ {日本|にほん}の{夏|なつ}とは、{花火|はなび}を{思|おも}い{出|だ}す。→ ○ 日本の夏**というと**、花火を思い出す (vế sau là liên tưởng, không phải định nghĩa)",
+        "✗ 「{推|お}し」とは、{最近|さいきん}よく{使|つか}う。→ ○ 「推し」とは、〜**のことだ** / 「推し」は最近よく使う言葉だ (sau とは phải là câu giải thích)"
+      ],
+      "tip": "Trước chỗ trống là **một từ trong ngoặc 「」** hoặc khái niệm trừu tượng, và cuối câu là 「〜ことだ／〜という意味だ／〜である」 → 「とは」."
+    },
+    {
+      "id": "b13-2",
+      "pattern": "〜といえば",
+      "reading": "〜といえば",
+      "meaning": "(A) Nhắc đến X mới nhớ…; (B) Nói X thì cũng X thật, nhưng…",
+      "structure": ["(A) Từ được nhắc tới (N / V / A) ＋ といえば", "(B) 普通形 (な形・N: だ có thể lược) ＋ といえば ＋ (lặp lại cùng từ) ＋ が／けれど"],
+      "explain": "Mẫu này có **hai cách dùng hoàn toàn khác nhau**, sách tách thành A và B.\n\n**A. Nhặt một từ để nối sang chuyện liên quan** (\"nhắc đến X mới nhớ…\")\nTrong hội thoại, ai đó (hoặc chính mình) vừa nói đến X. Ta **nhặt lấy từ đó** rồi dùng nó làm \"cầu nối\" sang **một chuyện khác có liên quan**. Từ được nhặt không nhất thiết đúng nguyên văn: có thể là một phần hay khái niệm gần của nó (nghe 「デジカメ」 thì nhặt 「カメラ」), hoặc một từ trong chính lời mình, trong điều mình chợt nhớ ra.\n- A: 「{駅前|えきまえ}に{新|あたら}しいカフェができたよ。」\n- B: 「カフェといえば、{田中|たなか}さんが{来年|らいねん}カフェを{開|ひら}くらしいよ。」\nCái hay của mẫu: chuyển chủ đề **một cách tự nhiên**, không đột ngột như 「ところで」.\n\n**B. Nhượng bộ: \"X thì cũng X thật, nhưng…\"**\nCông thức: **[từ X] といえば [từ X] だ／が／けれど**, phải **lặp lại cùng một từ**. Người nói **thừa nhận** X một phần, rồi đưa ra ý thật sự muốn nói ở vế sau.\n- 「このかばんは{高|たか}いといえば{高|たか}いが、{一生|いっしょう}{使|つか}えるなら{安|やす}いものだ」 — Cái túi này đắt thì cũng đắt thật, nhưng dùng được cả đời thì lại là rẻ.",
+      "nuance": "(A) chủ yếu là văn nói, hội thoại; vế sau là chuyện **liên quan**, thường là thông tin mới, tin đồn, kỷ niệm. Không dùng để chuyển sang chuyện **không liên quan** (khi đó dùng 「ところで」).\n\n(B) sắc thái **dè dặt, không khẳng định mạnh**; vế sau mới là ý chính. Rất giống 「〜ことは〜が」 (N3: 高いことは高いが).",
+      "examples": [
+        {"ja": "「{駅前|えきまえ}に{新|あたら}しいカフェができたよ。」「カフェといえば、{田中|たなか}さんが{来年|らいねん}{自分|じぶん}の{店|みせ}を{開|ひら}くらしいよ。」", "vi": "\"Trước ga mới mở một quán cà phê đấy.\" — \"Nhắc đến quán cà phê mới nhớ, nghe nói sang năm anh Tanaka sẽ mở quán riêng đấy.\"", "note": "(A) nhặt từ của người kia"},
+        {"ja": "「{最近|さいきん}、{急|きゅう}に{寒|さむ}くなりましたね。」「{寒|さむ}いといえば、{来週|らいしゅう}は{雪|ゆき}が{降|ふ}るかもしれないそうですよ。」", "vi": "\"Dạo này trời bỗng lạnh hẳn nhỉ.\" — \"Nói đến lạnh, nghe bảo tuần sau có khi có tuyết đấy.\"", "note": "(A) nhặt cả tính từ"},
+        {"ja": "{昨日|きのう}、{昔|むかし}のアルバムを{見|み}ていた。アルバムといえば、{結婚式|けっこんしき}の{写真|しゃしん}をまだ{整理|せいり}していなかった。", "vi": "Hôm qua tôi xem lại album cũ. Nhắc đến album mới nhớ, ảnh cưới tôi vẫn chưa sắp xếp.", "note": "(A) nhặt từ do chính mình nói"},
+        {"ja": "このかばんは{高|たか}いといえば{高|たか}いが、{一生|いっしょう}{使|つか}えると{思|おも}えば{安|やす}いものだ。", "vi": "Cái túi này đắt thì cũng đắt thật, nhưng nghĩ đến việc dùng được cả đời thì lại là rẻ.", "note": "(B) い形 lặp lại + が"},
+        {"ja": "{今|いま}の{仕事|しごと}に{不満|ふまん}があるといえばあるけれど、{辞|や}めるほどではない。", "vi": "Bất mãn với công việc hiện tại thì cũng có, nhưng chưa đến mức phải nghỉ.", "note": "(B) động từ lặp lại: あるといえばある"},
+        {"ja": "{彼|かれ}の{説明|せつめい}は{丁寧|ていねい}といえば{丁寧|ていねい}だが、{少|すこ}し{長|なが}すぎる。", "vi": "Lời giải thích của anh ấy tỉ mỉ thì cũng tỉ mỉ thật, nhưng hơi dài quá.", "note": "(B) な形 (だ lược) lặp lại + だが"}
+      ],
+      "compare": [
+        {"with": "ところで (N4)", "diff": "「ところで」 = đổi sang chủ đề **bất kỳ**. 「Xといえば」 (A) = đổi sang chủ đề **liên quan đến X**, phải nhặt lại từ X."},
+        {"with": "〜ことは〜が (N3)", "diff": "Nghĩa (B) gần như giống hệt: 「高いことは高いが」 ≈ 「高いといえば高いが」. Cả hai đều phải lặp lại cùng một từ."},
+        {"with": "〜というと・〜といえば・〜といったら (b13-3)", "diff": "Mục 3 là **liên tưởng hình ảnh tiêu biểu** (nhắc đến X là ai cũng nghĩ ngay đến Y). Mục 2 (A) là **nối chuyện trong hội thoại** (nhặt từ để kể chuyện khác). Trong thực tế 「といえば」 dùng được cho cả hai."}
+      ],
+      "mistakes": [
+        "✗ {高|たか}いといえば{安|やす}いが… → ○ 高いといえば**高い**が… (B phải lặp lại cùng một từ)",
+        "✗ 「{明日|あした}{雨|あめ}だって。」「{雨|あめ}といえば、{今|いま}{何時|なんじ}？」→ chuyện không liên quan → dùng 「ところで」."
+      ],
+      "tip": "Sau chỗ trống **lặp lại đúng từ đứng trước** + が／けど → 「といえば」 (nhượng bộ). Trong hội thoại, người thứ hai **nhặt lại từ** của người thứ nhất rồi kể chuyện khác → 「といえば」 (A)."
+    },
+    {
+      "id": "b13-3",
+      "pattern": "〜というと・〜といえば・〜といったら",
+      "reading": "〜というと・〜といえば・〜といったら",
+      "meaning": "Nhắc đến X là nghĩ ngay đến Y; (というと) X tức là… phải không?",
+      "structure": ["N ＋ というと／といえば／といったら", "V・A 普通形 ＋ というと／といえば／といったら", "Hỏi lại: [lời người kia] ＋ というと、〜ですか／〜ね"],
+      "explain": "**Nghĩa chính: liên tưởng ngay lập tức.** \"Hễ nói đến X là trong đầu hiện ra ngay Y\" — Y thường là **hình ảnh tiêu biểu, đại diện** mà ai cũng nghĩ tới.\n- 「ベトナム{料理|りょうり}といえば、やっぱりフォーだ」 — Nói đến món Việt thì đương nhiên là phở.\n- 「{日本|にほん}の{夏|なつ}というと、{花火|はなび}を{思|おも}い{出|だ}す」.\nVế sau hay có 「{思|おも}い{浮|う}かべる」「{思|おも}い{出|だ}す」「やっぱり」「{何|なん}といっても」.\n\nBa dạng 「というと・といえば・といったら」 dùng được thay nhau cho nghĩa này; 「といったら」 nghe **suồng sã, nhấn mạnh** hơn một chút.\n\n**Nghĩa riêng của 「というと」: hỏi lại để xác nhận.** Ta lặp lại lời người kia vừa nói rồi hỏi \"X, tức là… phải không?\" để chắc mình hiểu đúng:\n- A: 「{来月|らいげつ}から{在宅|ざいたく}{勤務|きんむ}になるんです。」\n- B: 「{在宅|ざいたく}{勤務|きんむ}というと、{毎日|まいにち}{家|いえ}で{仕事|しごと}をするということですか。」\nVế sau là câu **xác nhận**: 〜ですか, 〜ね, 〜ということ？. Nghĩa này **chỉ dùng 「というと」** (văn nói: 「っていうと」).",
+      "nuance": "Văn nói và văn viết đều dùng (といったら thiên về văn nói). Vế sau là **điều nghĩ đến / liên tưởng**, không phải định nghĩa. Đừng nhầm 「といったら」 ở đây với 「といったら」 mục 5 (mức độ không tả nổi): mục 5 đi với **danh từ chỉ mức độ** (〜さ: 美しさ, 寒さ) và vế sau là cảm xúc mạnh.",
+      "examples": [
+        {"ja": "{日本|にほん}の{夏|なつ}というと、{花火|はなび}と{盆踊|ぼんおど}りを{思|おも}い{出|だ}す。", "vi": "Nhắc đến mùa hè Nhật Bản là tôi nhớ ngay đến pháo hoa và điệu múa Bon.", "note": "Liên tưởng · 思い出す"},
+        {"ja": "ベトナム{料理|りょうり}といえば、やはりフォーが{一番|いちばん}{有名|ゆうめい}だろう。", "vi": "Nói đến món ăn Việt Nam thì có lẽ phở vẫn là nổi tiếng nhất.", "note": "Hình ảnh tiêu biểu · やはり"},
+        {"ja": "{京都|きょうと}といったら、{何|なん}といっても{古|ふる}いお{寺|てら}と{紅葉|こうよう}だ。", "vi": "Nói đến Kyoto thì gì thì gì cũng phải là chùa cổ và lá đỏ.", "note": "といったら · nhấn mạnh hơn"},
+        {"ja": "「{来月|らいげつ}から{在宅|ざいたく}{勤務|きんむ}になるんです。」「{在宅|ざいたく}{勤務|きんむ}というと、{毎日|まいにち}{家|いえ}で{仕事|しごと}をするということですか。」", "vi": "\"Từ tháng sau tôi chuyển sang làm việc tại nhà.\" — \"Làm việc tại nhà, tức là ngày nào cũng làm ở nhà phải không?\"", "note": "Hỏi lại xác nhận · chỉ dùng というと"},
+        {"ja": "「{例|れい}の{件|けん}、どうなりましたか。」「{例|れい}の{件|けん}というと、{新|あたら}しい{店舗|てんぽ}の{計画|けいかく}のことですね。」", "vi": "\"Vụ đó thế nào rồi?\" — \"Vụ đó, ý anh là kế hoạch mở cửa hàng mới nhỉ.\"", "note": "Xác nhận · 〜のことですね"}
+      ],
+      "compare": [
+        {"with": "〜とは", "diff": "「とは」: **định nghĩa** (X là gì). 「というと」: **liên tưởng** (nhắc X thì nghĩ đến Y) hoặc **xác nhận** (X tức là…?)."},
+        {"with": "〜といえば (A, b13-2)", "diff": "Mục 2 (A): nhặt từ để **kể chuyện khác có liên quan** (カフェといえば、田中さんが…). Mục 3: nhắc đến X thì **hình ảnh tiêu biểu** của X hiện ra (ベトナム料理といえばフォー)."},
+        {"with": "〜といったら (b13-5)", "diff": "Mục 5: **danh từ mức độ** (忙しさ・美しさ) + vế sau là cảm xúc không tả nổi. Mục 3: danh từ thường + thứ được liên tưởng."}
+      ],
+      "mistakes": [
+        "✗ 「{在宅|ざいたく}{勤務|きんむ}といったら、{毎日|まいにち}{家|いえ}で{働|はたら}くということですか。」→ ○ 在宅勤務**というと**… (hỏi lại xác nhận chỉ dùng というと)",
+        "✗ 「{京都|きょうと}というと、{日本|にほん}の{古|ふる}い{都|みやこ}のことである。」→ đây là định nghĩa → ○ 京都**とは**…"
+      ],
+      "tip": "Vế sau có 「思い浮かべる／思い出す／やっぱり／何といっても」 → nhóm 「というと・といえば・といったら」. Vế sau là **câu hỏi xác nhận** (〜ということですか, 〜のことですね) → chỉ 「というと」."
+    },
+    {
+      "id": "b13-4",
+      "pattern": "〜(のこと)となると",
+      "reading": "〜(のこと)となると",
+      "meaning": "Hễ động đến chuyện X là (người đó) thay đổi hẳn thái độ",
+      "structure": ["N ＋ (のこと) ＋ となると", "Vế sau: thái độ khác thường — 目の色が変わる・人が変わる・夢中になる・急に黙る・厳しくなる…"],
+      "explain": "Mẫu này mô tả **tính cách / thói quen** của một người: bình thường thì thế này, nhưng **hễ cứ đụng đến chủ đề X** là **thái độ thay đổi hẳn**, khác hẳn ngày thường.\n\nHình ảnh: một ông bố ít nói, nhưng cứ nhắc đến câu cá là mắt sáng rỡ, nói không dứt — 「{父|ちち}は{釣|つ}りのこととなると、{子|こ}どものようにはしゃぐ」.\n\nCông thức nhớ: **(Bình thường thì…) + [chủ đề X] (のこと)となると + [thái độ khác thường]**.\n- Thường có vế đối lập phía trước: 「{普段|ふだん}は〜が／も」.\n- Vế sau là các cụm như 「{目|め}の{色|いろ}が{変|か}わる」 (mắt sáng rực lên), 「{人|ひと}が{変|か}わったように」 (như biến thành người khác), 「{夢中|むちゅう}になる」, 「{熱|あつ}く{語|かた}る」, 「{急|きゅう}に{黙|だま}る」, 「{厳|きび}しくなる」, 「{甘|あま}くなる」.",
+      "nuance": "Mô tả **khuynh hướng lặp lại** của một người (thường là người khác), không phải một sự việc xảy ra một lần. Vế sau phải là **thái độ khác với bình thường**; nếu chỉ là thông tin trung tính thì không dùng.\n\nĐừng nhầm với 「〜となると」 ở **bài 15** = \"nếu (đã) như thế thì…\" (giả định): 「{留学|りゅうがく}するとなると、お{金|かね}がかかる」. Ở bài này, X là **chủ đề / sở thích** (N のこと) và vế sau là **thái độ**.",
+      "examples": [
+        {"ja": "{普段|ふだん}は{無口|むくち}な{兄|あに}も、サッカーのこととなると{急|きゅう}によくしゃべり{出|だ}す。", "vi": "Anh trai tôi bình thường ít nói, vậy mà hễ động đến bóng đá là bỗng nói luôn miệng.", "note": "普段は〜も + のこととなると"},
+        {"ja": "{母|はは}は{優|やさ}しいが、お{金|かね}のこととなると{急|きゅう}に{厳|きび}しくなる。", "vi": "Mẹ tôi hiền, nhưng hễ đụng đến chuyện tiền bạc là trở nên nghiêm khắc hẳn.", "note": ""},
+        {"ja": "{彼女|かのじょ}は{猫|ねこ}のこととなると、{目|め}の{色|いろ}が{変|か}わる。", "vi": "Cô ấy cứ nhắc đến mèo là mắt sáng rực lên.", "note": "目の色が変わる = say mê, hăng hái hẳn lên"},
+        {"ja": "{部長|ぶちょう}は{仕事|しごと}には{厳|きび}しいが、{孫|まご}のこととなるとすっかり{甘|あま}くなる。", "vi": "Trưởng phòng rất nghiêm khắc trong công việc, nhưng hễ nhắc đến cháu là mềm nhũn hẳn ra.", "note": "Đối lập 厳しい ↔ 甘い"},
+        {"ja": "{自分|じぶん}の{健康|けんこう}のこととなると、{人|ひと}は{誰|だれ}でも{神経質|しんけいしつ}になるものだ。", "vi": "Hễ động đến sức khoẻ của bản thân thì ai cũng trở nên lo lắng thái quá.", "note": "Khuynh hướng chung của con người"},
+        {"ja": "{祖父|そふ}は{戦争|せんそう}の{話|はなし}となると、{急|きゅう}に{黙|だま}り{込|こ}んでしまう。", "vi": "Ông tôi hễ nói đến chuyện chiến tranh là bỗng im lặng hẳn.", "note": "N (話) + となると · thay đổi theo hướng im lặng"}
+      ],
+      "compare": [
+        {"with": "〜となると (15課)", "diff": "Bài 15: giả định \"nếu như (thật sự) thế thì…\" — 「{結婚|けっこん}するとなると、{準備|じゅんび}が{大変|たいへん}だ」. Bài này: \"hễ đụng đến chủ đề X thì **thái độ** của ai đó thay đổi\". Có 「のこと」 và vế sau là thái độ → bài này."},
+        {"with": "〜に関しては／〜については", "diff": "Chỉ nêu chủ đề một cách trung tính (về X thì…). 「(のこと)となると」 nhấn mạnh **sự thay đổi thái độ khác thường**."}
+      ],
+      "mistakes": [
+        "✗ {歴史|れきし}のこととなると、この{本|ほん}に{書|か}いてある。→ vế sau là thông tin trung tính → ○ 歴史**については**、この本に書いてある",
+        "✗ {兄|あに}はゲームのこととなると、{昨日|きのう}{新|あたら}しいソフトを{買|か}った。→ sự việc một lần, không phải thái độ → không dùng được."
+      ],
+      "tip": "Câu có cấu trúc **「普段は〜が／も、Xのこと（　）」** và vế sau là 「目の色が変わる／人が変わる／夢中になる／急に〜」 → 「となると」."
+    },
+    {
+      "id": "b13-5",
+      "pattern": "〜といったら",
+      "reading": "〜といったら",
+      "meaning": "Nói đến cái sự (mức độ) X ấy thì… (không tả nổi, cực kỳ)",
+      "structure": ["N (thường là danh từ chỉ mức độ: 〜さ・驚き・感動…) ＋ といったら", "Vế sau: 〜ない／〜ほどだ／cảm thán; có thể lược bỏ (〜といったら……)", "Biến thể: N ＋ といったらない (= cực kỳ, N1)"],
+      "explain": "Người nói đưa ra **một mức độ / cảm xúc** (X) và nhấn mạnh rằng nó **vượt xa bình thường**, đến mức **không diễn tả nổi**.\n\nX thường là **danh từ chỉ mức độ** tạo bằng 「〜さ」 hoặc danh từ cảm xúc: {忙|いそが}しさ, {寒|さむ}さ, {美|うつく}しさ, {怖|こわ}さ, うれしさ, {恥|は}ずかしさ, {驚|おどろ}き, {感動|かんどう}, {景色|けしき}…\n\nVế sau là:\n- **Không thể diễn tả / không thể tưởng tượng**: 「{言葉|ことば}では{言|い}い{表|あらわ}せない」「{想像|そうぞう}もできない」.\n- **〜ほどだ**: mức độ đến nỗi… 「{倒|たお}れそうになるほどだ」.\n- **Bỏ lửng**: 「あの{時|とき}の{怖|こわ}さといったら……」 — người nghe tự hiểu là kinh khủng lắm.\n\nDịch tự nhiên: \"cái sự… ấy thì thôi rồi\", \"phải nói là… không tả nổi\".",
+      "nuance": "Mang **cảm xúc mạnh** (ngạc nhiên, cảm động, kinh hãi, xấu hổ…), dùng nhiều trong văn nói và văn kể chuyện. Vế sau phải là mức độ **cực đoan**; không dùng khi mức độ bình thường.\n\n「〜といったらない」 (N1) = \"… hết chỗ nói\": 「あの{時|とき}の{恥|は}ずかしさといったらなかった」 = Lúc đó xấu hổ hết chỗ nói.",
+      "examples": [
+        {"ja": "{初|はじ}めてオーロラを{見|み}たときの{感動|かんどう}といったら、{言葉|ことば}では{言|い}い{表|あらわ}せない。", "vi": "Cái cảm xúc khi lần đầu nhìn thấy cực quang ấy, không lời nào tả nổi.", "note": "Vế sau: không thể diễn tả"},
+        {"ja": "{真夏|まなつ}の{満員|まんいん}{電車|でんしゃ}の{暑|あつ}さといったら、{本当|ほんとう}に{倒|たお}れそうになるほどだ。", "vi": "Cái nóng trên chuyến tàu chật cứng giữa mùa hè ấy, thật sự nóng đến mức muốn ngất.", "note": "〜さ + といったら + ほどだ"},
+        {"ja": "{合格|ごうかく}{発表|はっぴょう}で{自分|じぶん}の{番号|ばんごう}を{見|み}つけたときのうれしさといったら、{今|いま}でも{忘|わす}れられない。", "vi": "Niềm vui khi tìm thấy số báo danh của mình trên bảng kết quả ấy, đến giờ tôi vẫn không quên được.", "note": "Cảm xúc tích cực"},
+        {"ja": "{彼|かれ}の{部屋|へや}の{散|ち}らかりようといったら……。{足|あし}の{踏|ふ}み{場|ば}もない。", "vi": "Phòng của cậu ta bừa bộn thì thôi rồi… Không còn chỗ mà đặt chân.", "note": "Bỏ lửng vế sau"},
+        {"ja": "{大勢|おおぜい}の{前|まえ}で{転|ころ}んだときの{恥|は}ずかしさといったらなかった。", "vi": "Cái lúc ngã trước bao nhiêu người, xấu hổ hết chỗ nói.", "note": "〜といったらない = cực kỳ"}
+      ],
+      "compare": [
+        {"with": "〜というと・〜といえば・〜といったら (b13-3)", "diff": "Mục 3: danh từ thường + **thứ được liên tưởng** (京都といったら紅葉だ). Mục 5: **danh từ mức độ / cảm xúc** + vế sau **không tả nổi / cực đoan** (美しさといったら言葉にできない)."},
+        {"with": "〜ほど／〜くらい (N3)", "diff": "「ほど」 so mức độ bằng ví dụ cụ thể. 「といったら」 đưa mức độ lên làm chủ đề để **cảm thán**, và thường kết hợp với 「〜ほどだ」 ở vế sau."}
+      ],
+      "mistakes": [
+        "✗ {忙|いそが}しいといったら、{寝|ね}る{時間|じかん}もない。→ ○ **忙しさ**といったら… (dùng danh từ mức độ)",
+        "✗ {昨日|きのう}の{寒|さむ}さといったら、まあまあだった。→ vế sau phải là mức độ cực đoan.",
+        "✗ {面接|めんせつ}の{前|まえ}の{緊張|きんちょう}といったら、とても{緊張|きんちょう}した。→ vế sau chỉ lặp lại cảm xúc, chưa nói lên mức độ bất thường → ○ 緊張といったら、{手|て}が{震|ふる}えて{名前|なまえ}も{書|か}けないほどだった"
+      ],
+      "tip": "Trước chỗ trống là **danh từ đuôi 〜さ** hoặc danh từ cảm xúc (驚き・感動・怖さ) và vế sau là 「言葉にできない／想像もできない／〜ほどだ」 hoặc 「……」 → 「といったら」."
+    }
+  ],
+  "summary": [
+    {"pattern": "〜とは", "meaning": "X là… (định nghĩa)", "key": "văn viết; vế sau 〜ことだ・〜という意味だ"},
+    {"pattern": "〜といえば", "meaning": "(A) nhắc đến X mới nhớ; (B) X thì cũng X, nhưng…", "key": "(A) nhặt từ để nối chuyện; (B) lặp cùng từ + が／けど"},
+    {"pattern": "〜というと・〜といえば・〜といったら", "meaning": "nhắc đến X là nghĩ ngay đến Y", "key": "hình ảnh tiêu biểu; というと còn để hỏi lại xác nhận"},
+    {"pattern": "〜(のこと)となると", "meaning": "hễ động đến X là thay đổi thái độ", "key": "普段は〜が; 目の色が変わる・人が変わる"},
+    {"pattern": "〜といったら", "meaning": "nói đến mức độ X thì… không tả nổi", "key": "danh từ 〜さ／cảm xúc; 言葉にできない・〜ほどだ・……"}
+  ],
+  "quiz": [
+    {"id": "b13-q1", "kind": "form", "ref": "b13-1", "q": "「{終活|しゅうかつ}」（　　）、{人生|じんせい}の{最期|さいご}に{向|む}けて{自分|じぶん}で{準備|じゅんび}をしておくことである。", "options": ["とは", "といったら", "となると", "といえば"], "answer": 0, "vi": "\"Shūkatsu\" là việc tự mình chuẩn bị sẵn cho những ngày cuối đời.", "why": "Từ trong ngoặc + vế sau là định nghĩa 「〜ことである」 → **とは**. 「といったら」 = mức độ cực đoan / liên tưởng; 「となると」 = thái độ thay đổi / giả định; 「といえば」 = liên tưởng, nối chuyện — vế sau không phải định nghĩa."},
+    {"id": "b13-q2", "kind": "form", "ref": "b13-2", "q": "この{町|まち}は{不便|ふべん}（　　）{不便|ふべん}だが、{自然|しぜん}が{豊|ゆた}かでとても{気|き}に{入|い}っている。", "options": ["とは", "となると", "といえば", "どころか"], "answer": 2, "vi": "Thị trấn này bất tiện thì cũng bất tiện thật, nhưng thiên nhiên phong phú nên tôi rất thích.", "why": "Lặp lại cùng từ 「不便…不便だが」 → nhượng bộ **といえば**. 「とは」 cần vế sau là định nghĩa; 「となると」 không có cấu trúc lặp từ; 「どころか」 = chẳng những không… mà còn, không hợp."},
+    {"id": "b13-q3", "kind": "form", "ref": "b13-3", "q": "「{来週|らいしゅう}の{研修|けんしゅう}、あの{先生|せんせい}が{来|く}るそうですよ。」「あの{先生|せんせい}（　　）、{去年|きょねん}{講演|こうえん}をしてくださった{佐藤|さとう}{先生|せんせい}のことですか。」", "options": ["となると", "というと", "にしては", "からといって"], "answer": 1, "vi": "\"Nghe nói khoá đào tạo tuần sau thầy ấy sẽ đến.\" — \"Thầy ấy, tức là thầy Sato đã đến diễn thuyết năm ngoái phải không?\"", "why": "Lặp lại lời người kia rồi hỏi xác nhận 「〜のことですか」 → **というと**. 「となると」 = thái độ thay đổi / giả định; 「にしては」 = so với… thì (bài 19); 「からといって」 = không phải vì… mà…"},
+    {"id": "b13-q4", "kind": "form", "ref": "b13-4", "q": "{普段|ふだん}はおとなしい{弟|おとうと}も、ゲームのこと（　　）、{人|ひと}が{変|か}わったように{熱|あつ}く{語|かた}り{出|だ}す。", "options": ["とは", "というと", "となると", "といったら"], "answer": 2, "vi": "Em trai tôi bình thường hiền lành, vậy mà hễ động đến game là như biến thành người khác, nói say sưa.", "why": "「普段は〜も」 + 「のこと」 + thái độ khác thường 「人が変わったように」 → **となると**. 「とは」 cần định nghĩa; 「というと」 = liên tưởng / xác nhận; 「といったら」 = mức độ không tả nổi — đều không diễn tả thói quen thay đổi thái độ."},
+    {"id": "b13-q5", "kind": "form", "ref": "b13-5", "q": "{山頂|さんちょう}から{見|み}た{朝日|あさひ}の{美|うつく}しさ（　　）、{言葉|ことば}にできないほどだった。", "options": ["となると", "とは", "をはじめ", "といったら"], "answer": 3, "vi": "Vẻ đẹp của mặt trời mọc nhìn từ đỉnh núi ấy, đẹp đến mức không lời nào tả nổi.", "why": "Danh từ mức độ 「美しさ」 + vế sau 「言葉にできないほど」 → **といったら**. 「となると」 cần thái độ thay đổi; 「とは」 cần định nghĩa; 「をはじめ」 = tiêu biểu là… để liệt kê."},
+    {"id": "b13-q6", "kind": "order", "ref": "b13-3", "q": "{日本|にほん}の ＿＿＿ ＿＿＿ ★ ＿＿＿ 。", "options": ["思い浮かべる", "紅葉を", "秋", "というと"], "order": [2, 3, 1, 0], "answer": 1, "vi": "Nhắc đến mùa thu Nhật Bản là tôi nghĩ ngay đến lá đỏ.", "why": "日本の **秋 というと 紅葉を 思い浮かべる** → ★ = 「紅葉を」. 「日本の」 cần danh từ ngay sau (秋); 「というと」 + điều được liên tưởng 「紅葉を思い浮かべる」."}
+  ],
+  "practice": [
+    {"id": "b13-p1", "kind": "form", "ref": "b13-1", "q": "「{積読|つんどく}」（　　）、{買|か}った{本|ほん}を{読|よ}まずに{積|つ}んだままにしておくことを{意味|いみ}する。", "options": ["といったら", "となると", "とは", "にとって"], "answer": 2, "vi": "\"Tsundoku\" có nghĩa là mua sách về rồi để chất đống mà không đọc.", "why": "Từ trong ngoặc + 「〜ことを意味する」 → **とは**. 「といったら」 = mức độ / liên tưởng; 「となると」 = thái độ thay đổi; 「にとって」 = đối với ai đó."},
+    {"id": "b13-p2", "kind": "form", "ref": "b13-2", "q": "「{昨日|きのう}、{駅|えき}で{偶然|ぐうぜん}{山本|やまもと}さんに{会|あ}ったよ。」「{山本|やまもと}さん（　　）、{今度|こんど}{結婚|けっこん}するらしいね。」", "options": ["となると", "といえば", "とは", "にしては"], "answer": 1, "vi": "\"Hôm qua tớ tình cờ gặp anh Yamamoto ở ga đấy.\" — \"Nhắc đến anh Yamamoto mới nhớ, nghe nói sắp tới anh ấy cưới vợ nhỉ.\"", "why": "Nhặt lại từ của người kia để kể chuyện liên quan → **といえば** (A). 「となると」 cần thái độ thay đổi; 「とは」 cần định nghĩa; 「にしては」 = so với… thì, không hợp."},
+    {"id": "b13-p3", "kind": "form", "ref": "b13-2", "q": "{彼|かれ}の{提案|ていあん}には{賛成|さんせい}（　　）{賛成|さんせい}だが、{予算|よさん}の{面|めん}で{少|すこ}し{不安|ふあん}が{残|のこ}る。", "options": ["といえば", "とは", "となると", "どころか"], "answer": 0, "vi": "Với đề xuất của anh ấy, tôi tán thành thì cũng tán thành, nhưng về mặt ngân sách vẫn còn hơi lo.", "why": "Lặp cùng từ 「賛成…賛成だが」 → nhượng bộ **といえば**. 「とは」 = định nghĩa; 「となると」 không có cấu trúc lặp từ; 「どころか」 = chẳng những không…, sai nghĩa."},
+    {"id": "b13-p4", "kind": "form", "ref": "b13-3", "q": "フランス（　　）、エッフェル{塔|とう}やワインを{思|おも}い{浮|う}かべる{人|ひと}が{多|おお}いだろう。", "options": ["とは", "となると", "にかかわらず", "というと"], "answer": 3, "vi": "Nhắc đến nước Pháp, chắc nhiều người nghĩ ngay đến tháp Eiffel và rượu vang.", "why": "Vế sau 「思い浮かべる」 = liên tưởng → **というと**. 「とは」 cần định nghĩa (フランスとは〜国だ); 「となると」 cần thái độ thay đổi; 「にかかわらず」 = bất kể."},
+    {"id": "b13-p5", "kind": "form", "ref": "b13-4", "q": "{父|ちち}は{普段|ふだん}は{穏|おだ}やかだが、{自分|じぶん}が{応援|おうえん}している{野球|やきゅう}チームのこと（　　）、{急|きゅう}にむきになる。", "options": ["とは", "となると", "といえば", "といったら"], "answer": 1, "vi": "Bố tôi bình thường điềm đạm, nhưng hễ nhắc đến đội bóng chày bố cổ vũ là bỗng nổi máu tranh cãi.", "why": "「普段は〜が」 + 「のこと」 + thái độ thay đổi 「急にむきになる」 → **となると**. 「とは」 = định nghĩa; 「といえば」 = nối chuyện liên quan / nhượng bộ; 「といったら」 = mức độ không tả nổi."},
+    {"id": "b13-p6", "kind": "form", "ref": "b13-5", "q": "{一人|ひとり}で{初|はじ}めて{海外|かいがい}の{空港|くうこう}に{着|つ}いたときの{心細|こころぼそ}さ（　　）、{今|いま}{思|おも}い{出|だ}しても{涙|なみだ}が{出|で}そうになる。", "options": ["といったら", "とは", "となると", "というと"], "answer": 0, "vi": "Cái cảm giác chơi vơi khi lần đầu một mình đặt chân đến sân bay nước ngoài ấy, giờ nhớ lại vẫn muốn rơi nước mắt.", "why": "Danh từ cảm xúc 「心細さ」 + vế sau mức độ mạnh → **といったら**. 「とは」 = định nghĩa; 「となると」 = thái độ thay đổi; 「というと」 = liên tưởng / xác nhận, không nhấn mạnh mức độ."},
+    {"id": "b13-p7", "kind": "form", "ref": "b13-3", "q": "「{実家|じっか}の{近|ちか}くに{引|ひ}っ{越|こ}すことにしたんです。」「{実家|じっか}の{近|ちか}く（　　）、{北海道|ほっかいどう}に{戻|もど}るということですか。」", "options": ["どころか", "というと", "にかかわらず", "ものか"], "answer": 1, "vi": "\"Tôi quyết định chuyển về gần nhà bố mẹ.\" — \"Gần nhà bố mẹ, tức là anh về lại Hokkaido phải không?\"", "why": "Lặp lời người kia + hỏi xác nhận 「〜ということですか」 → **というと**. 「どころか」 = chẳng những không…; 「にかかわらず」 = bất kể; 「ものか」 = đời nào…, đều không hợp."},
+    {"id": "b13-p8", "kind": "order", "ref": "b13-1", "q": "{真|しん}の ＿＿＿ ＿＿＿ ★ ＿＿＿ ことだ。", "options": ["とは", "わかる", "強さ", "人の痛みが"], "order": [2, 0, 3, 1], "answer": 3, "vi": "Sức mạnh thật sự là thấu hiểu được nỗi đau của người khác.", "why": "真の **強さ とは 人の痛みが わかる** ことだ → ★ = 「人の痛みが」. 「真の」 cần danh từ (強さ); 「とは」 + định nghĩa 「人の痛みがわかることだ」."},
+    {"id": "b13-p9", "kind": "order", "ref": "b13-4", "q": "{父|ちち}は ＿＿＿ ＿＿＿ ★ ＿＿＿ はしゃぐ。", "options": ["ように", "こととなると", "釣りの", "子どもの"], "order": [2, 1, 3, 0], "answer": 3, "vi": "Bố tôi hễ nhắc đến câu cá là phấn khích như trẻ con.", "why": "父は **釣りの こととなると 子どもの ように** はしゃぐ → ★ = 「子どもの」. 「釣りの」 + 「こと」 = chủ đề; 「子どものように」 bổ nghĩa cho 「はしゃぐ」 (thái độ khác thường)."},
+    {"id": "b13-p10", "kind": "usage", "ref": "b13-5", "q": "「〜といったら」（{程度|ていど}を{強調|きょうちょう}する{使|つか}い{方|かた}）が{正|ただ}しいものを{選|えら}びなさい。", "options": ["寒いといったら、コートを着てください。", "日本語の勉強といったら、毎日2時間しています。", "このラーメンのおいしさといったら、一度食べたら忘れられないほどだ。", "あの店の値段の安さといったら、少し高めだった。"], "answer": 2, "vi": "(3) Độ ngon của tô ramen này thì thôi rồi, ăn một lần là không quên được.", "why": "(3) danh từ mức độ 「おいしさ」 + vế sau cực đoan 「忘れられないほど」 → đúng. (1) vế sau là nhờ vả, không phải mức độ; (2) chỉ là thông tin trung tính → 日本語の勉強は…; (4) mâu thuẫn (安さ ↔ 高め) và mức độ không cực đoan."},
+    {"id": "b13-p11", "kind": "usage", "ref": "b13-1", "q": "「〜とは」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。", "options": ["「温故知新」とは、古いことを学んで新しい知識を得るという意味だ。", "京都とは、去年の夏に家族で行きました。", "日本の夏とは、花火を思い出す。", "あの店のケーキとは、おいしさが忘れられない。"], "answer": 0, "vi": "(1) \"Ôn cố tri tân\" có nghĩa là học cái cũ để biết thêm cái mới.", "why": "(1) từ trong ngoặc + 「〜という意味だ」 → đúng. (2) vế sau là kể chuyện, không phải định nghĩa → 京都には; (3) liên tưởng → 日本の夏というと; (4) cảm xúc về mức độ → ケーキのおいしさといったら."}
+  ],
+  "test": [
+    {"id": "b13-t1", "kind": "form", "ref": "b13-1", "q": "「{推|お}し」（　　）、{自分|じぶん}が{特|とく}に{応援|おうえん}している{人|ひと}やキャラクターのことである。", "options": ["となると", "といったら", "とは", "にしては"], "answer": 2, "vi": "\"Oshi\" là người hoặc nhân vật mà mình đặc biệt ủng hộ, yêu thích.", "why": "Từ trong ngoặc + 「〜のことである」 → **とは**. 「となると」 = thái độ thay đổi; 「といったら」 = mức độ / liên tưởng; 「にしては」 = so với… thì."},
+    {"id": "b13-t2", "kind": "form", "ref": "b13-2", "q": "{料理|りょうり}は{得意|とくい}（　　）{得意|とくい}だが、{人|ひと}に{教|おし}えられるほどではない。", "options": ["となると", "といえば", "とは", "どころか"], "answer": 1, "vi": "Nấu ăn thì tôi cũng giỏi thật, nhưng chưa đến mức dạy được người khác.", "why": "Lặp cùng từ 「得意…得意だが」 → nhượng bộ **といえば**. 「となると」「とは」 không có cấu trúc lặp từ; 「どころか」 = chẳng những không…"},
+    {"id": "b13-t3", "kind": "form", "ref": "b13-4", "q": "{彼|かれ}は{冷静|れいせい}な{人|ひと}だが、{自分|じぶん}の{子|こ}どものこと（　　）、{周|まわ}りが{見|み}えなくなる。", "options": ["となると", "とは", "というと", "にかかわらず"], "answer": 0, "vi": "Anh ấy là người điềm tĩnh, nhưng hễ đụng đến chuyện con mình là chẳng còn nhìn thấy gì xung quanh.", "why": "Bình thường điềm tĩnh ↔ hễ động đến con là mất bình tĩnh → **となると**. 「とは」 = định nghĩa; 「というと」 = liên tưởng / xác nhận; 「にかかわらず」 = bất kể."},
+    {"id": "b13-t4", "kind": "form", "ref": "b13-5", "q": "{試験|しけん}に{落|お}ちたと{知|し}ったときのショック（　　）、しばらく{何|なに}も{食|た}べられないほどだった。", "options": ["とは", "といえば", "となると", "といったら"], "answer": 3, "vi": "Cú sốc khi biết mình trượt ấy, lớn đến mức một thời gian tôi chẳng ăn uống được gì.", "why": "Danh từ cảm xúc 「ショック」 + vế sau 「〜ほどだった」 → **といったら**. 「とは」 = định nghĩa; 「といえば」 = nối chuyện liên quan / nhượng bộ; 「となると」 = thói quen thay đổi thái độ."},
+    {"id": "b13-t5", "kind": "form", "ref": "b13-3", "q": "{大阪|おおさか}（　　）、たこ{焼|や}きとお{笑|わら}いのイメージが{強|つよ}い。", "options": ["とは", "にしては", "にかかわらず", "といえば"], "answer": 3, "vi": "Nhắc đến Osaka là người ta có ấn tượng mạnh về takoyaki và hài kịch.", "why": "Hình ảnh tiêu biểu được liên tưởng → **といえば**. 「とは」 cần định nghĩa (大阪とは〜都市だ); 「にしては」 = so với… thì; 「にかかわらず」 = bất kể."},
+    {"id": "b13-t6", "kind": "order", "ref": "b13-2", "q": "この{仕事|しごと}は ＿＿＿ ＿＿＿ ★ ＿＿＿ やりがいがある。", "options": ["けれど", "大変だ", "といえば", "大変"], "order": [3, 2, 1, 0], "answer": 1, "vi": "Công việc này vất vả thì cũng vất vả thật, nhưng rất đáng làm.", "why": "この仕事は **大変 といえば 大変だ けれど** やりがいがある → ★ = 「大変だ」. Khung nhượng bộ: X といえば X だ けれど…"},
+    {"id": "b13-t7", "kind": "order", "ref": "b13-3", "q": "「{来年|らいねん}から{留学|りゅうがく}するんだ。」「 ＿＿＿ ＿＿＿ ★ ＿＿＿ ということ？」", "options": ["一年間", "留学", "日本にいない", "というと"], "order": [1, 3, 0, 2], "answer": 0, "vi": "\"Từ năm sau tớ đi du học.\" — \"Du học, tức là cậu sẽ không ở Nhật một năm à?\"", "why": "**留学 というと 一年間 日本にいない** ということ？ → ★ = 「一年間」. Hỏi lại xác nhận: lặp lời người kia + 「というと」 + nội dung muốn xác nhận + 「ということ？」."}
+  ]
+}

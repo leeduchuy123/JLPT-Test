@@ -1,0 +1,2458 @@
+{
+  "id": "g14",
+  "track": "goi",
+  "intro": "Bài này là từ vựng về **các sự kiện trong đời người và trong năm**: lễ tết (年中行事) và **冠婚葬祭 (かんこんそうさい)** — bốn dịp lớn của đời người: 冠 (trưởng thành), 婚 (cưới hỏi), 葬 (tang lễ), 祭 (cúng giỗ tổ tiên).\n\nSách chia theo dòng đời: **gặp gỡ → hẹn hò → cầu hôn → cưới → nuôi con → con trưởng thành → tang lễ, giỗ chạp**. Học theo câu chuyện này sẽ dễ nhớ hơn học rời từng từ.\n\nĐiểm hay ra đề:\n- **Cụm động từ cố định (連語)**: 家庭を**築く**, 役割を**果たす**, 手続きを**済ませる**, 交際を**申し込む**, 資金を**ためる**, ストレスを**解消する**, 死を**惜しむ**.\n- **Cặp gần nghĩa**: 祈る／願う, 役割／役目, 豪華／盛大／華やか, 惜しむ／嘆く.\n- **Hậu tố**: 〜者 (既婚者), 〜児 (四歳児), 〜園, 〜所 (保育所), 〜式, 〜的, 〜相手, 〜費用.\n- **Phó từ**: すくすく, のびのび (lớn lên khoẻ mạnh / thoải mái), なかなか〜ない, できるだけ.",
+  "sections": [
+    {
+      "title": "年中行事",
+      "title_vi": "Lễ tết trong năm",
+      "words": [
+        {
+          "id": "g14-w1",
+          "w": "年中行事",
+          "r": "ねんちゅうぎょうじ",
+          "hv": "NIÊN TRUNG HÀNH SỰ",
+          "pos": "名",
+          "vi": "các lễ hội, phong tục diễn ra định kỳ hằng năm",
+          "key": false,
+          "ex": {
+            "ja": "お{正月|しょうがつ}やお{盆|ぼん}は、{日本|にほん}の{代表的|だいひょうてき}な{年中行事|ねんちゅうぎょうじ}だ。",
+            "vi": "Tết và lễ Obon là những lễ hội thường niên tiêu biểu của Nhật Bản."
+          }
+        },
+        {
+          "id": "g14-w2",
+          "w": "新年",
+          "r": "しんねん",
+          "hv": "TÂN NIÊN",
+          "pos": "名",
+          "vi": "năm mới",
+          "key": true,
+          "ex": {
+            "ja": "{新年|しんねん}を{迎|むか}えるにあたって、{家中|いえじゅう}を{大掃除|おおそうじ}した。",
+            "vi": "Để đón năm mới, tôi tổng vệ sinh cả nhà."
+          },
+          "col": [
+            "新年を祝う",
+            "新年を迎える",
+            "新年会"
+          ]
+        },
+        {
+          "id": "g14-w3",
+          "w": "祝う",
+          "r": "いわう",
+          "hv": "CHÚC",
+          "pos": "他動",
+          "vi": "chúc mừng, ăn mừng",
+          "key": false,
+          "ex": {
+            "ja": "{祖母|そぼ}の{米寿|べいじゅ}を{祝|いわ}って、{親戚|しんせき}が{全員|ぜんいん}{集|あつ}まった。",
+            "vi": "Để mừng thọ 88 tuổi của bà, họ hàng tụ họp đông đủ."
+          },
+          "col": [
+            "新年を祝う",
+            "誕生日を祝う",
+            "お祝い"
+          ],
+          "note": "Đối tượng là **việc tốt đã/đang xảy ra** (合格・結婚・誕生). Cầu mong việc chưa xảy ra → 祈る／願う."
+        },
+        {
+          "id": "g14-w4",
+          "w": "伝統的",
+          "r": "でんとうてき",
+          "hv": "TRUYỀN THỐNG ĐÍCH",
+          "pos": "な形",
+          "vi": "mang tính truyền thống",
+          "key": true,
+          "ex": {
+            "ja": "この{村|むら}では、{今|いま}も{伝統的|でんとうてき}な{方法|ほうほう}で{紙|かみ}を{作|つく}っている。",
+            "vi": "Ở làng này, người ta vẫn làm giấy bằng phương pháp truyền thống."
+          },
+          "col": [
+            "伝統的な行事",
+            "伝統的な料理",
+            "伝統を守る"
+          ]
+        },
+        {
+          "id": "g14-w5",
+          "w": "行事",
+          "r": "ぎょうじ",
+          "hv": "HÀNH SỰ",
+          "pos": "名",
+          "vi": "sự kiện, lễ (được tổ chức theo lệ)",
+          "key": true,
+          "ex": {
+            "ja": "{運動会|うんどうかい}は{学校|がっこう}の{行事|ぎょうじ}の{中|なか}でいちばん{盛|も}り{上|あ}がる。",
+            "vi": "Hội thao là sự kiện sôi nổi nhất trong các sự kiện của trường."
+          },
+          "col": [
+            "行事を行う",
+            "学校行事",
+            "年中行事"
+          ],
+          "note": "Đọc ぎょう**じ** (không phải こうじ — 工事 là công trình xây dựng). 行事 là sự kiện **theo lệ, định kỳ**; còn イベント là sự kiện nói chung."
+        },
+        {
+          "id": "g14-w6",
+          "w": "神",
+          "r": "かみ",
+          "hv": "THẦN",
+          "pos": "名",
+          "vi": "thần, thần linh",
+          "key": true,
+          "ex": {
+            "ja": "{日本|にほん}では、{山|やま}や{川|かわ}にも{神|かみ}が{宿|やど}ると{考|かんが}えられてきた。",
+            "vi": "Ở Nhật, người ta từ xưa tin rằng thần linh ngự cả trong núi và sông."
+          },
+          "col": [
+            "神に祈る",
+            "神様",
+            "神社"
+          ]
+        },
+        {
+          "id": "g14-w7",
+          "w": "仏",
+          "r": "ほとけ",
+          "hv": "PHẬT",
+          "pos": "名",
+          "vi": "Phật; người đã khuất (cách nói kiêng)",
+          "key": true,
+          "ex": {
+            "ja": "{祖母|そぼ}は{毎朝|まいあさ}、{仏|ほとけ}さまに{手|て}を{合|あ}わせている。",
+            "vi": "Sáng nào bà tôi cũng chắp tay vái Phật."
+          },
+          "col": [
+            "神や仏に祈る",
+            "仏壇"
+          ]
+        },
+        {
+          "id": "g14-w8",
+          "w": "祈る",
+          "r": "いのる",
+          "hv": "KỲ",
+          "pos": "他動",
+          "vi": "cầu nguyện, cầu chúc",
+          "key": true,
+          "ex": {
+            "ja": "{被災地|ひさいち}の{一日|いちにち}も{早|はや}い{復興|ふっこう}を{祈|いの}っています。",
+            "vi": "Tôi cầu mong vùng thiên tai sớm ngày nào hay ngày ấy được khôi phục."
+          },
+          "col": [
+            "神に祈る",
+            "成功を祈る",
+            "ご冥福をお祈りします"
+          ],
+          "rel": "≒ 願う",
+          "note": "Có sắc thái **hướng tới thần linh / sức mạnh ngoài mình**, trang nghiêm. 「ご健康をお祈りします」 hay dùng cuối thư."
+        },
+        {
+          "id": "g14-w9",
+          "w": "願う",
+          "r": "ねがう",
+          "hv": "NGUYỆN",
+          "pos": "他動",
+          "vi": "mong muốn, ước, cầu mong",
+          "key": true,
+          "ex": {
+            "ja": "{親|おや}はいつも{子供|こども}の{幸|しあわ}せを{願|ねが}っているものだ。",
+            "vi": "Cha mẹ lúc nào cũng mong con cái được hạnh phúc."
+          },
+          "col": [
+            "幸せを願う",
+            "願いがかなう",
+            "お願いする"
+          ],
+          "rel": "≒ 祈る・望む"
+        }
+      ]
+    },
+    {
+      "title": "冠婚葬祭 ― 出会い・結婚",
+      "title_vi": "Gặp gỡ, cưới hỏi",
+      "words": [
+        {
+          "id": "g14-w10",
+          "w": "冠婚葬祭",
+          "r": "かんこんそうさい",
+          "hv": "QUAN HÔN TÁNG TẾ",
+          "pos": "名",
+          "vi": "các lễ lớn trong đời (trưởng thành, cưới, tang, giỗ); hiếu hỉ",
+          "key": false,
+          "ex": {
+            "ja": "{冠婚葬祭|かんこんそうさい}のマナーは、{地域|ちいき}によって{少|すこ}しずつ{違|ちが}う。",
+            "vi": "Phép tắc trong các dịp hiếu hỉ khác nhau đôi chút tuỳ vùng."
+          },
+          "note": "冠 = lễ trưởng thành (成人式), 婚 = cưới, 葬 = tang, 祭 = cúng tổ tiên (法事)."
+        },
+        {
+          "id": "g14-w11",
+          "w": "出会う",
+          "r": "であう",
+          "hv": "XUẤT HỘI",
+          "pos": "自動",
+          "vi": "gặp gỡ (tình cờ / lần đầu); danh từ: 出会い",
+          "key": true,
+          "ex": {
+            "ja": "{夫|おっと}とは{旅行先|りょこうさき}の{小|ちい}さな{駅|えき}で{出会|であ}った。",
+            "vi": "Tôi gặp chồng mình lần đầu ở một nhà ga nhỏ trong chuyến du lịch."
+          },
+          "col": [
+            "〜と出会う",
+            "出会いがある",
+            "運命の出会い"
+          ],
+          "note": "出会う = gặp **lần đầu / tình cờ**, mang tính bước ngoặt. Hẹn gặp đã biết trước → 会う."
+        },
+        {
+          "id": "g14-w12",
+          "w": "結婚相手",
+          "r": "けっこんあいて",
+          "hv": "KẾT HÔN TƯƠNG THỦ",
+          "pos": "名",
+          "vi": "người kết hôn, bạn đời (tương lai)",
+          "key": true,
+          "ex": {
+            "ja": "{結婚相手|けっこんあいて}に{求|もと}める{条件|じょうけん}は、{人|ひと}によってさまざまだ。",
+            "vi": "Điều kiện đặt ra cho người bạn đời mỗi người mỗi khác."
+          },
+          "col": [
+            "結婚相手を探す",
+            "結婚相手としてふさわしい"
+          ]
+        },
+        {
+          "id": "g14-w13",
+          "w": "ふさわしい",
+          "r": "ふさわしい",
+          "hv": "",
+          "pos": "い形",
+          "vi": "xứng đáng, phù hợp (với vị trí, hoàn cảnh)",
+          "key": true,
+          "ex": {
+            "ja": "{面接|めんせつ}には、その{場|ば}にふさわしい{服装|ふくそう}で{行|い}くべきだ。",
+            "vi": "Đi phỏng vấn thì nên mặc trang phục phù hợp với hoàn cảnh."
+          },
+          "col": [
+            "〜にふさわしい",
+            "〜としてふさわしい"
+          ],
+          "rel": "≒ 適している・似合う",
+          "note": "Cấu trúc: **N にふさわしい** / **N としてふさわしい**. Nghe trang trọng, đánh giá theo chuẩn mực (xứng tầm), khác 似合う (hợp về ngoại hình: 服が似合う)."
+        },
+        {
+          "id": "g14-w14",
+          "w": "交際",
+          "r": "こうさい",
+          "hv": "GIAO TẾ",
+          "pos": "名・自動",
+          "vi": "hẹn hò, quan hệ yêu đương; giao thiệp",
+          "key": true,
+          "ex": {
+            "ja": "{二人|ふたり}は{三年|さんねん}の{交際|こうさい}を{経|へ}て、{来月|らいげつ}{結婚|けっこん}する。",
+            "vi": "Hai người sau ba năm hẹn hò sẽ cưới vào tháng sau."
+          },
+          "col": [
+            "交際を申し込む",
+            "〜と交際する",
+            "交際費"
+          ],
+          "rel": "≒ 付き合う",
+          "note": "Là cách nói trang trọng của 付き合う. 「交際費」 = chi phí tiếp khách (trong công ty)."
+        },
+        {
+          "id": "g14-w15",
+          "w": "申し込む",
+          "r": "もうしこむ",
+          "hv": "THÂN",
+          "pos": "他動",
+          "vi": "đề nghị, ngỏ lời; đăng ký; danh từ: 申し込み",
+          "key": true,
+          "senses": [
+            {
+              "vi": "ngỏ lời (hẹn hò, cầu hôn)",
+              "ex": {
+                "ja": "{勇気|ゆうき}を{出|だ}して、{彼女|かのじょ}に{交際|こうさい}を{申|もう}し{込|こ}んだ。",
+                "vi": "Tôi lấy hết can đảm ngỏ lời hẹn hò với cô ấy."
+              }
+            },
+            {
+              "vi": "đăng ký (tham gia, sử dụng dịch vụ)",
+              "ex": {
+                "ja": "マラソン{大会|たいかい}への{参加|さんか}をネットで{申|もう}し{込|こ}んだ。",
+                "vi": "Tôi đã đăng ký tham gia giải marathon qua mạng."
+              }
+            }
+          ],
+          "col": [
+            "交際を申し込む",
+            "結婚の申し込みをする",
+            "申込書"
+          ]
+        },
+        {
+          "id": "g14-w16",
+          "w": "承諾",
+          "r": "しょうだく",
+          "hv": "THỪA NẶC",
+          "pos": "名・他動",
+          "vi": "chấp thuận, đồng ý (lời đề nghị)",
+          "key": true,
+          "ex": {
+            "ja": "{本人|ほんにん}の{承諾|しょうだく}なしに、{写真|しゃしん}をネットに{載|の}せてはいけない。",
+            "vi": "Không được đăng ảnh lên mạng khi chưa có sự đồng ý của người đó."
+          },
+          "col": [
+            "申し込みを承諾する",
+            "承諾を得る",
+            "承諾書"
+          ],
+          "rel": "≒ 受ける・引き受ける ↔ 断る",
+          "note": "Đọc しょう**だく** (đục). Dùng khi **đồng ý với yêu cầu / đề nghị của người khác**."
+        },
+        {
+          "id": "g14-w17",
+          "w": "断る",
+          "r": "ことわる",
+          "hv": "ĐOẠN",
+          "pos": "他動",
+          "vi": "từ chối",
+          "key": false,
+          "ex": {
+            "ja": "{上司|じょうし}の{誘|さそ}いを{断|ことわ}るのは、なかなか{難|むずか}しい。",
+            "vi": "Từ chối lời mời của sếp quả thật khá khó."
+          },
+          "col": [
+            "申し込みを断る",
+            "はっきり断る",
+            "お断りします"
+          ],
+          "rel": "↔ 受ける・承諾する"
+        },
+        {
+          "id": "g14-w18",
+          "w": "説得",
+          "r": "せっとく",
+          "hv": "THUYẾT ĐẮC",
+          "pos": "名・他動",
+          "vi": "thuyết phục",
+          "key": true,
+          "ex": {
+            "ja": "{禁煙|きんえん}するよう{何度|なんど}も{父|ちち}を{説得|せっとく}したが、{聞|き}いてもらえなかった。",
+            "vi": "Tôi đã nhiều lần thuyết phục bố bỏ thuốc nhưng ông không nghe."
+          },
+          "col": [
+            "両親を説得する",
+            "説得力がある"
+          ],
+          "note": "Đối tượng là **người** (〜を説得する). 「説得力」 = sức thuyết phục."
+        },
+        {
+          "id": "g14-w19",
+          "w": "許す",
+          "r": "ゆるす",
+          "hv": "HỨA",
+          "pos": "他動",
+          "vi": "cho phép; tha thứ",
+          "key": true,
+          "senses": [
+            {
+              "vi": "cho phép",
+              "ex": {
+                "ja": "{父|ちち}はやっと{私|わたし}の{一人暮|ひとりぐ}らしを{許|ゆる}してくれた。",
+                "vi": "Cuối cùng bố cũng cho phép tôi sống một mình."
+              }
+            },
+            {
+              "vi": "tha thứ",
+              "ex": {
+                "ja": "{嘘|うそ}をついたことを、{彼女|かのじょ}はまだ{許|ゆる}してくれない。",
+                "vi": "Cô ấy vẫn chưa tha thứ cho chuyện tôi nói dối."
+              }
+            }
+          ],
+          "col": [
+            "結婚を許す",
+            "罪を許す",
+            "時間が許す限り"
+          ]
+        },
+        {
+          "id": "g14-w20",
+          "w": "家庭",
+          "r": "かてい",
+          "hv": "GIA ĐÌNH",
+          "pos": "名",
+          "vi": "gia đình, tổ ấm",
+          "key": false,
+          "ex": {
+            "ja": "{仕事|しごと}と{家庭|かてい}を{両立|りょうりつ}させるのは{簡単|かんたん}ではない。",
+            "vi": "Cân bằng giữa công việc và gia đình không phải chuyện dễ."
+          },
+          "col": [
+            "家庭を築く",
+            "家庭的な人",
+            "家庭料理"
+          ],
+          "note": "家庭 = gia đình như **một tổ ấm, nơi sinh hoạt**; 家族 = **các thành viên** trong nhà. 「家庭を築く」 không nói 「家族を築く」."
+        },
+        {
+          "id": "g14-w21",
+          "w": "築く",
+          "r": "きずく",
+          "hv": "TRÚC",
+          "pos": "他動",
+          "vi": "xây dựng, gây dựng (thứ cần thời gian, công sức)",
+          "key": true,
+          "ex": {
+            "ja": "{彼|かれ}は{一代|いちだい}で{大|おお}きな{会社|かいしゃ}を{築|きず}いた。",
+            "vi": "Ông ấy gây dựng nên một công ty lớn chỉ trong một đời người."
+          },
+          "col": [
+            "家庭を築く",
+            "信頼関係を築く",
+            "地位を築く",
+            "城を築く"
+          ],
+          "note": "Đối tượng thường **trừu tượng**: 家庭・関係・信頼・地位・財産. Xây nhà cụ thể → 建てる."
+        },
+        {
+          "id": "g14-w22",
+          "w": "婚約",
+          "r": "こんやく",
+          "hv": "HÔN ƯỚC",
+          "pos": "名・自動",
+          "vi": "đính hôn",
+          "key": true,
+          "ex": {
+            "ja": "{婚約|こんやく}したことを、まず{両親|りょうしん}に{報告|ほうこく}した。",
+            "vi": "Tôi báo tin đính hôn cho bố mẹ trước tiên."
+          },
+          "col": [
+            "〜と婚約する",
+            "婚約を解消する",
+            "婚約指輪",
+            "婚約者"
+          ]
+        },
+        {
+          "id": "g14-w23",
+          "w": "解消",
+          "r": "かいしょう",
+          "hv": "GIẢI TIÊU",
+          "pos": "名・他動",
+          "vi": "huỷ bỏ (quan hệ, hợp đồng); giải toả, xoá bỏ (vấn đề)",
+          "key": true,
+          "senses": [
+            {
+              "vi": "huỷ bỏ một quan hệ / cam kết",
+              "ex": {
+                "ja": "{性格|せいかく}の{違|ちが}いから、{二人|ふたり}は{婚約|こんやく}を{解消|かいしょう}した。",
+                "vi": "Vì khác biệt tính cách, hai người đã huỷ hôn ước."
+              }
+            },
+            {
+              "vi": "giải toả, làm hết (căng thẳng, tình trạng xấu)",
+              "ex": {
+                "ja": "{週末|しゅうまつ}のテニスが、{私|わたし}のストレス{解消|かいしょう}になっている。",
+                "vi": "Chơi tennis cuối tuần là cách giải toả căng thẳng của tôi."
+              }
+            }
+          ],
+          "col": [
+            "婚約を解消する",
+            "ストレスを解消する",
+            "渋滞を解消する",
+            "不安が解消される"
+          ],
+          "note": "Khác 解決 (giải quyết **vấn đề, sự việc**: 事件を解決する). 解消 = làm **một trạng thái xấu biến mất** (渋滞・不満・ストレス) hoặc **chấm dứt quan hệ**."
+        },
+        {
+          "id": "g14-w24",
+          "w": "既婚者",
+          "r": "きこんしゃ",
+          "hv": "KÝ HÔN GIẢ",
+          "pos": "名",
+          "vi": "người đã kết hôn",
+          "key": true,
+          "ex": {
+            "ja": "この{会社|かいしゃ}の{社員|しゃいん}の{約|やく}{六割|ろくわり}が{既婚者|きこんしゃ}だ。",
+            "vi": "Khoảng 60% nhân viên công ty này đã lập gia đình."
+          },
+          "rel": "↔ 未婚者・独身者",
+          "note": "既 = đã (既に すでに)."
+        },
+        {
+          "id": "g14-w25",
+          "w": "離婚",
+          "r": "りこん",
+          "hv": "LY HÔN",
+          "pos": "名・自動",
+          "vi": "ly hôn",
+          "key": true,
+          "ex": {
+            "ja": "{両親|りょうしん}が{離婚|りこん}してから、{母|はは}と{二人|ふたり}で{暮|く}らしている。",
+            "vi": "Từ khi bố mẹ ly hôn, tôi sống với mẹ."
+          },
+          "col": [
+            "〜と離婚する",
+            "離婚届"
+          ],
+          "rel": "↔ 結婚"
+        },
+        {
+          "id": "g14-w26",
+          "w": "独身",
+          "r": "どくしん",
+          "hv": "ĐỘC THÂN",
+          "pos": "名",
+          "vi": "độc thân",
+          "key": true,
+          "ex": {
+            "ja": "{兄|あに}は{四十|よんじゅう}を{過|す}ぎても{独身|どくしん}で、{自由|じゆう}な{生活|せいかつ}を{楽|たの}しんでいる。",
+            "vi": "Anh tôi ngoài 40 vẫn độc thân và tận hưởng cuộc sống tự do."
+          },
+          "col": [
+            "独身に戻る",
+            "独身生活",
+            "独身者"
+          ]
+        },
+        {
+          "id": "g14-w27",
+          "w": "正式",
+          "r": "せいしき",
+          "hv": "CHÍNH THỨC",
+          "pos": "名・な形",
+          "vi": "chính thức",
+          "key": true,
+          "ex": {
+            "ja": "{新|あたら}しい{店|みせ}の{開店日|かいてんび}は、{来週|らいしゅう}{正式|せいしき}に{発表|はっぴょう}される。",
+            "vi": "Ngày khai trương cửa hàng mới sẽ được công bố chính thức vào tuần sau."
+          },
+          "col": [
+            "正式に結婚する",
+            "正式に発表する",
+            "正式な書類"
+          ],
+          "rel": "↔ 非公式・仮"
+        },
+        {
+          "id": "g14-w28",
+          "w": "発表",
+          "r": "はっぴょう",
+          "hv": "PHÁT BIỂU",
+          "pos": "名・他動",
+          "vi": "công bố, thông báo; thuyết trình",
+          "key": false,
+          "ex": {
+            "ja": "{人気|にんき}{俳優|はいゆう}の{結婚|けっこん}{発表|はっぴょう}に、ファンは{驚|おどろ}いた。",
+            "vi": "Người hâm mộ bất ngờ trước việc nam diễn viên nổi tiếng công bố kết hôn."
+          },
+          "col": [
+            "正式に発表する",
+            "合格発表",
+            "研究発表"
+          ],
+          "note": "Bẫy Hán Việt: 発表 (PHÁT BIỂU) trong tiếng Nhật = **công bố / trình bày**, không phải \"phát biểu ý kiến\" (= 発言)."
+        },
+        {
+          "id": "g14-w29",
+          "w": "打ち合わせ",
+          "r": "うちあわせ",
+          "hv": "ĐẢ HỢP",
+          "pos": "名・自動",
+          "vi": "buổi trao đổi, bàn bạc trước (để chuẩn bị)",
+          "key": true,
+          "ex": {
+            "ja": "{明日|あした}は{取引先|とりひきさき}と{新商品|しんしょうひん}の{打|う}ち{合|あ}わせがある。",
+            "vi": "Ngày mai có buổi trao đổi với đối tác về sản phẩm mới."
+          },
+          "col": [
+            "結婚式の打ち合わせ",
+            "打ち合わせをする"
+          ],
+          "rel": "≒ ミーティング",
+          "note": "Là buổi bàn **chi tiết thực hiện** của một việc sắp làm. Đừng nhầm: 待ち合わせ (hẹn gặp ở đâu đó), 問い合わせ (hỏi thông tin), 詰め合わせ (hộp quà nhiều loại). Nói chuyện xin lời khuyên đơn thuần → 相談, không phải 打ち合わせ."
+        },
+        {
+          "id": "g14-w30",
+          "w": "資金",
+          "r": "しきん",
+          "hv": "TƯ KIM",
+          "pos": "名",
+          "vi": "vốn, quỹ, tiền dành cho mục đích nhất định",
+          "key": true,
+          "ex": {
+            "ja": "{店|みせ}を{開|ひら}く{資金|しきん}を{集|あつ}めるために、{十年|じゅうねん}{働|はたら}いた。",
+            "vi": "Tôi đã làm việc mười năm để gom vốn mở cửa hàng."
+          },
+          "col": [
+            "資金をためる",
+            "資金を集める",
+            "結婚資金",
+            "資金不足"
+          ]
+        },
+        {
+          "id": "g14-w31",
+          "w": "ためる",
+          "r": "ためる",
+          "hv": "",
+          "pos": "他動",
+          "vi": "tích (tiền), dồn ứ (căng thẳng, việc) — 貯める・溜める",
+          "key": true,
+          "senses": [
+            {
+              "vi": "tiết kiệm, để dành (tiền) — thường viết 貯める",
+              "ex": {
+                "ja": "{結婚式|けっこんしき}のために、{毎月|まいつき}{五万円|ごまんえん}ずつ{貯|た}めている。",
+                "vi": "Tôi để dành mỗi tháng 50.000 yên cho đám cưới."
+              }
+            },
+            {
+              "vi": "để dồn ứ (điều không tốt) — thường viết 溜める",
+              "ex": {
+                "ja": "ストレスをためすぎると、{体|からだ}にも{悪|わる}い{影響|えいきょう}が{出|で}る。",
+                "vi": "Dồn nén căng thẳng quá nhiều sẽ ảnh hưởng xấu cả đến cơ thể."
+              }
+            }
+          ],
+          "col": [
+            "資金をためる",
+            "ストレスをためる",
+            "仕事をためる",
+            "目に涙をためる"
+          ],
+          "rel": "自動詞: たまる",
+          "note": "Đối lập: ストレスを**ためる** ↔ ストレスを**解消する**. 「目に涙をためる」 = rưng rưng nước mắt."
+        },
+        {
+          "id": "g14-w32",
+          "w": "手続き",
+          "r": "てつづき",
+          "hv": "THỦ TỤC",
+          "pos": "名・自動",
+          "vi": "thủ tục",
+          "key": true,
+          "ex": {
+            "ja": "{結婚|けっこん}したら、{名字|みょうじ}の{変更|へんこう}などさまざまな{手続|てつづ}きが{必要|ひつよう}になる。",
+            "vi": "Kết hôn xong sẽ cần rất nhiều thủ tục như đổi họ."
+          },
+          "col": [
+            "手続きを済ませる",
+            "手続きをする",
+            "入学手続き"
+          ]
+        },
+        {
+          "id": "g14-w33",
+          "w": "済ませる",
+          "r": "すませる",
+          "hv": "TẾ",
+          "pos": "他動",
+          "vi": "làm xong, giải quyết xong; xoay xở cho xong (bằng cách đơn giản)",
+          "key": false,
+          "senses": [
+            {
+              "vi": "làm xong việc phải làm",
+              "ex": {
+                "ja": "{出発|しゅっぱつ}の{前|まえ}に、{両替|りょうがえ}を{済|す}ませておこう。",
+                "vi": "Hãy đổi tiền cho xong trước khi khởi hành."
+              }
+            },
+            {
+              "vi": "xoay xở, tạm cho xong (〜で済ませる)",
+              "ex": {
+                "ja": "{忙|いそが}しくて、{昼|ひる}ご{飯|はん}はパン{一|ひと}つで{済|す}ませた。",
+                "vi": "Bận quá nên bữa trưa tôi ăn tạm một cái bánh mì cho xong."
+              }
+            }
+          ],
+          "col": [
+            "手続きを済ませる",
+            "支払いを済ませる",
+            "〜で済ませる"
+          ],
+          "rel": "自動詞: 済む"
+        },
+        {
+          "id": "g14-w34",
+          "w": "招待",
+          "r": "しょうたい",
+          "hv": "CHIÊU ĐÃI",
+          "pos": "名・他動",
+          "vi": "mời (đến dự)",
+          "key": false,
+          "ex": {
+            "ja": "{大学|だいがく}{時代|じだい}の{恩師|おんし}を{結婚式|けっこんしき}に{招待|しょうたい}した。",
+            "vi": "Tôi mời thầy cũ thời đại học đến dự đám cưới."
+          },
+          "col": [
+            "結婚式に招待する",
+            "招待状",
+            "招待客"
+          ],
+          "note": "Bẫy Hán Việt: 招待 (CHIÊU ĐÃI) = **mời**, không phải \"chiêu đãi ăn uống\" (= ごちそうする・もてなす)."
+        },
+        {
+          "id": "g14-w35",
+          "w": "親戚",
+          "r": "しんせき",
+          "hv": "THÂN THÍCH",
+          "pos": "名",
+          "vi": "họ hàng, bà con",
+          "key": true,
+          "ex": {
+            "ja": "{遠|とお}い{親戚|しんせき}より{近|ちか}くの{他人|たにん}、ということわざがある。",
+            "vi": "Có câu tục ngữ: bà con xa không bằng láng giềng gần."
+          },
+          "col": [
+            "親戚を招待する",
+            "親戚付き合い"
+          ],
+          "rel": "≒ 親類"
+        },
+        {
+          "id": "g14-w36",
+          "w": "同僚",
+          "r": "どうりょう",
+          "hv": "ĐỒNG LIÊU",
+          "pos": "名",
+          "vi": "đồng nghiệp",
+          "key": true,
+          "ex": {
+            "ja": "{仕事|しごと}が{終|お}わってから、{同僚|どうりょう}と{軽|かる}く{飲|の}みに{行|い}った。",
+            "vi": "Tan làm tôi đi uống nhẹ với đồng nghiệp."
+          },
+          "note": "同僚 = người **cùng cấp bậc / cùng nơi làm**. Cấp trên → 上司, cấp dưới → 部下."
+        },
+        {
+          "id": "g14-w37",
+          "w": "花嫁",
+          "r": "はなよめ",
+          "hv": "HOA GIÁ",
+          "pos": "名",
+          "vi": "cô dâu",
+          "key": true,
+          "ex": {
+            "ja": "{白|しろ}いドレスの{花嫁|はなよめ}が{入場|にゅうじょう}すると、{会場|かいじょう}から{拍手|はくしゅ}が{起|お}こった。",
+            "vi": "Cô dâu mặc váy trắng vừa bước vào, cả hội trường vỗ tay."
+          },
+          "rel": "↔ 花婿",
+          "note": "嫁 (よめ) = con dâu / vợ. 花 thêm vào để chỉ **ngày cưới**."
+        },
+        {
+          "id": "g14-w38",
+          "w": "花婿",
+          "r": "はなむこ",
+          "hv": "HOA TẾ",
+          "pos": "名",
+          "vi": "chú rể",
+          "key": true,
+          "ex": {
+            "ja": "{緊張|きんちょう}した{花婿|はなむこ}は、{挨拶|あいさつ}の{言葉|ことば}を{忘|わす}れてしまった。",
+            "vi": "Chú rể căng thẳng quá nên quên mất lời chào."
+          },
+          "rel": "↔ 花嫁 ≒ 新郎",
+          "note": "Văn trang trọng: 新郎 (しんろう, chú rể) / 新婦 (しんぷ, cô dâu)."
+        },
+        {
+          "id": "g14-w39",
+          "w": "永遠",
+          "r": "えいえん",
+          "hv": "VĨNH VIỄN",
+          "pos": "名・な形",
+          "vi": "vĩnh viễn, mãi mãi",
+          "key": true,
+          "ex": {
+            "ja": "あの{夏|なつ}の{思|おも}い{出|で}は、{永遠|えいえん}に{忘|わす}れないだろう。",
+            "vi": "Kỷ niệm mùa hè ấy có lẽ tôi sẽ không bao giờ quên."
+          },
+          "col": [
+            "永遠の愛",
+            "永遠に続く"
+          ],
+          "rel": "≒ 永久（えいきゅう）"
+        },
+        {
+          "id": "g14-w40",
+          "w": "誓う",
+          "r": "ちかう",
+          "hv": "THỆ",
+          "pos": "他動",
+          "vi": "thề, hứa chắc chắn",
+          "key": true,
+          "ex": {
+            "ja": "{二度|にど}と{同|おな}じ{失敗|しっぱい}はしないと、{自分|じぶん}に{誓|ちか}った。",
+            "vi": "Tôi tự thề với bản thân sẽ không lặp lại thất bại đó."
+          },
+          "col": [
+            "永遠の愛を誓う",
+            "〜と心に誓う",
+            "誓い"
+          ],
+          "note": "誓う = cam kết **về hành động của chính mình** trong tương lai. Khác 祈る (cầu cho điều mình không tự quyết được)."
+        },
+        {
+          "id": "g14-w41",
+          "w": "豪華",
+          "r": "ごうか",
+          "hv": "HÀO HOA",
+          "pos": "な形",
+          "vi": "xa hoa, sang trọng, lộng lẫy (tốn tiền)",
+          "key": true,
+          "ex": {
+            "ja": "{記念日|きねんび}に、ホテルの{豪華|ごうか}なディナーを{予約|よやく}した。",
+            "vi": "Nhân ngày kỷ niệm, tôi đặt bữa tối sang trọng ở khách sạn."
+          },
+          "col": [
+            "豪華な結婚式",
+            "豪華客船",
+            "豪華な料理"
+          ],
+          "rel": "↔ 質素"
+        },
+        {
+          "id": "g14-w42",
+          "w": "盛大",
+          "r": "せいだい",
+          "hv": "THỊNH ĐẠI",
+          "pos": "な形",
+          "vi": "long trọng, hoành tráng (quy mô lớn, đông người)",
+          "key": true,
+          "ex": {
+            "ja": "{優勝|ゆうしょう}したチームは、{地元|じもと}で{盛大|せいだい}な{歓迎|かんげい}を{受|う}けた。",
+            "vi": "Đội vô địch được chào đón long trọng ở quê nhà."
+          },
+          "col": [
+            "盛大な結婚式",
+            "盛大な拍手",
+            "盛大に行う"
+          ],
+          "note": "Dùng cho **sự kiện, buổi lễ, tràng pháo tay** — nhấn vào quy mô và độ náo nhiệt, không nói về độ đắt tiền của đồ vật."
+        },
+        {
+          "id": "g14-w43",
+          "w": "華やか",
+          "r": "はなやか",
+          "hv": "HOA",
+          "pos": "な形",
+          "vi": "rực rỡ, lộng lẫy, hào nhoáng (đẹp, thu hút ánh nhìn)",
+          "key": true,
+          "ex": {
+            "ja": "{着物|きもの}を{着|き}た{女性|じょせい}が{多|おお}く、{会場|かいじょう}はとても{華|はな}やかだった。",
+            "vi": "Nhiều phụ nữ mặc kimono nên hội trường thật rực rỡ."
+          },
+          "col": [
+            "華やかな結婚式",
+            "華やかな世界",
+            "華やかな雰囲気"
+          ],
+          "note": "Ấn tượng **thị giác, bầu không khí** tươi sáng như hoa. 「華やかな芸能界」 = giới showbiz hào nhoáng."
+        }
+      ]
+    },
+    {
+      "title": "冠婚葬祭 ― 子供の成長・成人式",
+      "title_vi": "Con cái lớn lên, lễ trưởng thành",
+      "words": [
+        {
+          "id": "g14-w44",
+          "w": "育つ",
+          "r": "そだつ",
+          "hv": "DỤC",
+          "pos": "自動",
+          "vi": "lớn lên, được nuôi lớn",
+          "key": true,
+          "ex": {
+            "ja": "{私|わたし}は{海|うみ}の{近|ちか}くの{町|まち}で{生|う}まれ{育|そだ}った。",
+            "vi": "Tôi sinh ra và lớn lên ở một thị trấn gần biển."
+          },
+          "col": [
+            "子供が育つ",
+            "すくすく育つ",
+            "のびのび育つ"
+          ],
+          "rel": "他動詞: 育てる"
+        },
+        {
+          "id": "g14-w45",
+          "w": "成長",
+          "r": "せいちょう",
+          "hv": "THÀNH TRƯỞNG",
+          "pos": "名・自動",
+          "vi": "trưởng thành, lớn lên; tăng trưởng",
+          "key": true,
+          "ex": {
+            "ja": "{留学|りゅうがく}を{通|とお}して、{娘|むすめ}は{精神的|せいしんてき}に{大|おお}きく{成長|せいちょう}した。",
+            "vi": "Qua đợt du học, con gái tôi đã trưởng thành rất nhiều về mặt tinh thần."
+          },
+          "col": [
+            "子供が成長する",
+            "経済成長",
+            "成長期"
+          ],
+          "note": "Dùng cho người, cây cối và cả kinh tế (経済成長). 育つ thiên về \"được nuôi lớn\"; 成長 nhấn vào **sự lớn lên, tiến bộ**."
+        },
+        {
+          "id": "g14-w94",
+          "w": "父親",
+          "r": "ちちおや",
+          "hv": "PHỤ THÂN",
+          "pos": "名",
+          "vi": "người cha, bố (cách nói khách quan)",
+          "key": true,
+          "ex": {
+            "ja": "{最近|さいきん}は{子育|こそだ}てに{積極的|せっきょくてき}な{父親|ちちおや}が{増|ふ}えている。",
+            "vi": "Gần đây ngày càng nhiều ông bố tích cực tham gia nuôi dạy con."
+          },
+          "col": [
+            "父親の役割",
+            "父親になる"
+          ],
+          "rel": "↔ 母親",
+          "note": "Cách nói trung tính, khách quan (tin tức, văn viết, khi nói về bố người khác). Khi gọi hoặc kể về bố mình trong hội thoại thân mật thường dùng 父／お父さん."
+        },
+        {
+          "id": "g14-w95",
+          "w": "母親",
+          "r": "ははおや",
+          "hv": "MẪU THÂN",
+          "pos": "名",
+          "vi": "người mẹ (cách nói khách quan)",
+          "key": true,
+          "ex": {
+            "ja": "{母親|ははおや}になってから、{時間|じかん}の{使|つか}い{方|かた}が{大|おお}きく{変|か}わった。",
+            "vi": "Từ khi làm mẹ, cách tôi sử dụng thời gian đã thay đổi hẳn."
+          },
+          "col": [
+            "母親の役目",
+            "母親としての役割"
+          ],
+          "rel": "↔ 父親"
+        },
+        {
+          "id": "g14-w46",
+          "w": "果たす",
+          "r": "はたす",
+          "hv": "QUẢ",
+          "pos": "他動",
+          "vi": "hoàn thành, làm tròn (vai trò, trách nhiệm, lời hứa)",
+          "key": true,
+          "ex": {
+            "ja": "{彼|かれ}は{十年前|じゅうねんまえ}の{約束|やくそく}を{果|は}たすために、{故郷|こきょう}へ{帰|かえ}った。",
+            "vi": "Anh ấy về quê để thực hiện lời hứa từ mười năm trước."
+          },
+          "col": [
+            "役割を果たす",
+            "責任を果たす",
+            "約束を果たす",
+            "目的を果たす"
+          ],
+          "note": "Đối tượng luôn là **nghĩa vụ, mục tiêu đã đặt ra**: 役割・役目・責任・義務・約束・夢. 「使い果たす」 = dùng cạn sạch."
+        },
+        {
+          "id": "g14-w47",
+          "w": "役割",
+          "r": "やくわり",
+          "hv": "DỊCH CÁT",
+          "pos": "名",
+          "vi": "vai trò, phần việc được phân",
+          "key": true,
+          "ex": {
+            "ja": "{森|もり}は{雨水|あまみず}をためて{洪水|こうずい}を{防|ふせ}ぐ{役割|やくわり}も{持|も}っている。",
+            "vi": "Rừng còn có vai trò giữ nước mưa, ngăn lũ lụt."
+          },
+          "col": [
+            "役割を果たす",
+            "役割分担",
+            "重要な役割"
+          ],
+          "rel": "≒ 役目"
+        },
+        {
+          "id": "g14-w48",
+          "w": "役目",
+          "r": "やくめ",
+          "hv": "DỊCH MỤC",
+          "pos": "名",
+          "vi": "nhiệm vụ, bổn phận (phải làm)",
+          "key": true,
+          "ex": {
+            "ja": "{新人|しんじん}に{仕事|しごと}を{教|おし}えるのは、{先輩|せんぱい}である{私|わたし}の{役目|やくめ}だ。",
+            "vi": "Dạy việc cho người mới là nhiệm vụ của tôi — người đi trước."
+          },
+          "col": [
+            "役目を果たす",
+            "役目を終える"
+          ],
+          "rel": "≒ 役割・任務"
+        },
+        {
+          "id": "g14-w49",
+          "w": "預ける",
+          "r": "あずける",
+          "hv": "DỰ",
+          "pos": "他動",
+          "vi": "gửi (người, đồ vật, tiền) cho ai đó trông giữ",
+          "key": true,
+          "ex": {
+            "ja": "{旅行中|りょこうちゅう}は、{犬|いぬ}をペットホテルに{預|あず}けることにした。",
+            "vi": "Trong lúc đi du lịch, tôi quyết định gửi chó ở khách sạn thú cưng."
+          },
+          "col": [
+            "子供を保育所に預ける",
+            "荷物を預ける",
+            "お金を銀行に預ける"
+          ],
+          "rel": "自動詞: 預かる (nhận trông giữ)",
+          "note": "Người gửi: **預ける**. Người nhận giữ: **預かる** (「お荷物をお預かりします」)."
+        },
+        {
+          "id": "g14-w50",
+          "w": "幼稚園",
+          "r": "ようちえん",
+          "hv": "ẤU TRĨ VIÊN",
+          "pos": "名",
+          "vi": "trường mẫu giáo",
+          "key": true,
+          "ex": {
+            "ja": "{息子|むすこ}は{四月|しがつ}から{近|ちか}くの{幼稚園|ようちえん}に{通|かよ}っている。",
+            "vi": "Con trai tôi đi học mẫu giáo gần nhà từ tháng 4."
+          },
+          "col": [
+            "幼稚園に通う",
+            "幼稚園児"
+          ],
+          "note": "Ở Nhật: 幼稚園 = trường mẫu giáo (giáo dục, 3–6 tuổi, thuộc Bộ Giáo dục); 保育所／保育園 = nhà trẻ trông trẻ cho bố mẹ đi làm (từ 0 tuổi)."
+        },
+        {
+          "id": "g14-w51",
+          "w": "保育所",
+          "r": "ほいくしょ",
+          "hv": "BẢO DỤC SỞ",
+          "pos": "名",
+          "vi": "nhà trẻ (trông trẻ khi bố mẹ đi làm)",
+          "key": true,
+          "ex": {
+            "ja": "{保育所|ほいくしょ}に{空|あ}きがなくて、{仕事|しごと}に{戻|もど}れない{親|おや}も{多|おお}い。",
+            "vi": "Nhiều phụ huynh không thể đi làm lại vì nhà trẻ hết chỗ."
+          },
+          "col": [
+            "保育所に預ける"
+          ],
+          "rel": "≒ 保育園"
+        },
+        {
+          "id": "g14-w52",
+          "w": "育児",
+          "r": "いくじ",
+          "hv": "DỤC NHI",
+          "pos": "名",
+          "vi": "việc nuôi dạy con nhỏ",
+          "key": false,
+          "ex": {
+            "ja": "{最近|さいきん}は{育児|いくじ}{休暇|きゅうか}を{取|と}る{父親|ちちおや}も{増|ふ}えてきた。",
+            "vi": "Gần đây số ông bố nghỉ phép chăm con cũng tăng lên."
+          },
+          "col": [
+            "育児に奮闘する",
+            "育児休暇（育休）",
+            "育児と仕事"
+          ]
+        },
+        {
+          "id": "g14-w53",
+          "w": "奮闘",
+          "r": "ふんとう",
+          "hv": "PHẤN ĐẤU",
+          "pos": "名・自動",
+          "vi": "vật lộn, dốc sức chiến đấu (với việc khó)",
+          "key": true,
+          "ex": {
+            "ja": "{新|あたら}しい{店長|てんちょう}は、{赤字|あかじ}の{店|みせ}を{立|た}て{直|なお}そうと{奮闘|ふんとう}している。",
+            "vi": "Cửa hàng trưởng mới đang dốc sức vực dậy cửa hàng thua lỗ."
+          },
+          "col": [
+            "育児に奮闘する",
+            "孤軍奮闘"
+          ],
+          "rel": "≒ 頑張る",
+          "note": "Hình ảnh: **hăng hái chiến đấu** với khó khăn trước mắt. Khác 奮発 (ふんぱつ = chịu chi mạnh tay)."
+        },
+        {
+          "id": "g14-w54",
+          "w": "ストレス",
+          "r": "すとれす",
+          "hv": "",
+          "pos": "名",
+          "vi": "căng thẳng, stress",
+          "key": true,
+          "ex": {
+            "ja": "{人間|にんげん}{関係|かんけい}のストレスで、{夜|よる}{眠|ねむ}れなくなった。",
+            "vi": "Vì căng thẳng trong các mối quan hệ, tôi không ngủ được vào ban đêm."
+          },
+          "col": [
+            "ストレスをためる",
+            "ストレスを解消する",
+            "ストレスがたまる"
+          ]
+        },
+        {
+          "id": "g14-w55",
+          "w": "成人",
+          "r": "せいじん",
+          "hv": "THÀNH NHÂN",
+          "pos": "名・自動",
+          "vi": "người trưởng thành; trở thành người lớn",
+          "key": true,
+          "ex": {
+            "ja": "{日本|にほん}では2022{年|ねん}から、18{歳|さい}で{成人|せいじん}することになった。",
+            "vi": "Ở Nhật, từ năm 2022 người ta trở thành người trưởng thành ở tuổi 18."
+          },
+          "col": [
+            "子供が成人する",
+            "成人の日"
+          ],
+          "rel": "≒ 大人"
+        },
+        {
+          "id": "g14-w56",
+          "w": "成人式",
+          "r": "せいじんしき",
+          "hv": "THÀNH NHÂN THỨC",
+          "pos": "名",
+          "vi": "lễ trưởng thành",
+          "key": true,
+          "ex": {
+            "ja": "{成人式|せいじんしき}で、{中学|ちゅうがく}の{同級生|どうきゅうせい}と{久|ひさ}しぶりに{会|あ}った。",
+            "vi": "Ở lễ trưởng thành, tôi gặp lại bạn cùng lớp cấp hai sau bao năm."
+          },
+          "note": "Tổ chức vào 成人の日 (thứ Hai tuần thứ 2 tháng 1). Con gái thường mặc 振袖 (ふりそで)."
+        }
+      ]
+    },
+    {
+      "title": "冠婚葬祭 ― 葬式・法事",
+      "title_vi": "Tang lễ, giỗ chạp",
+      "words": [
+        {
+          "id": "g14-w57",
+          "w": "葬式",
+          "r": "そうしき",
+          "hv": "TÁNG THỨC",
+          "pos": "名",
+          "vi": "đám tang",
+          "key": true,
+          "ex": {
+            "ja": "{恩師|おんし}のお{葬式|そうしき}には、{千人|せんにん}{近|ちか}い{教|おし}え{子|ご}が{集|あつ}まった。",
+            "vi": "Gần một nghìn học trò cũ đã đến dự đám tang của thầy."
+          },
+          "col": [
+            "葬式をする",
+            "お葬式に出る"
+          ],
+          "rel": "≒ 葬儀"
+        },
+        {
+          "id": "g14-w58",
+          "w": "法事",
+          "r": "ほうじ",
+          "hv": "PHÁP SỰ",
+          "pos": "名",
+          "vi": "lễ cúng (giỗ) theo nghi thức Phật giáo",
+          "key": true,
+          "ex": {
+            "ja": "{祖父|そふ}の{七回忌|ななかいき}の{法事|ほうじ}で、{久|ひさ}しぶりに{親戚|しんせき}が{集|あつ}まった。",
+            "vi": "Tại lễ giỗ năm thứ bảy (七回忌) của ông, họ hàng mới lại tụ họp sau thời gian dài."
+          },
+          "col": [
+            "法事をする",
+            "法事に出る"
+          ]
+        },
+        {
+          "id": "g14-w59",
+          "w": "葬儀",
+          "r": "そうぎ",
+          "hv": "TÁNG NGHI",
+          "pos": "名",
+          "vi": "tang lễ (trang trọng)",
+          "key": true,
+          "ex": {
+            "ja": "{葬儀|そうぎ}は{故人|こじん}の{希望|きぼう}で、{家族|かぞく}だけで{行|おこな}われた。",
+            "vi": "Theo nguyện vọng của người quá cố, tang lễ chỉ có gia đình tham dự."
+          },
+          "col": [
+            "葬儀費用",
+            "葬儀に参列する"
+          ],
+          "rel": "≒ 葬式"
+        },
+        {
+          "id": "g14-w60",
+          "w": "費用",
+          "r": "ひよう",
+          "hv": "PHÍ DỤNG",
+          "pos": "名",
+          "vi": "chi phí",
+          "key": true,
+          "ex": {
+            "ja": "{引|ひ}っ{越|こ}しの{費用|ひよう}は、{会社|かいしゃ}が{負担|ふたん}してくれる。",
+            "vi": "Chi phí chuyển nhà do công ty chi trả."
+          },
+          "col": [
+            "費用が掛かる",
+            "葬儀費用",
+            "出産費用",
+            "費用を負担する"
+          ]
+        },
+        {
+          "id": "g14-w61",
+          "w": "掛かる",
+          "r": "かかる",
+          "hv": "QUẢI",
+          "pos": "自動",
+          "vi": "tốn (tiền, thời gian)",
+          "key": false,
+          "ex": {
+            "ja": "{子供|こども}{一人|ひとり}を{大学|だいがく}まで{行|い}かせるには、かなりお{金|かね}が{掛|か}かる。",
+            "vi": "Cho một đứa con học đến đại học tốn khá nhiều tiền."
+          },
+          "col": [
+            "費用が掛かる",
+            "時間が掛かる"
+          ]
+        },
+        {
+          "id": "g14-w62",
+          "w": "先祖",
+          "r": "せんぞ",
+          "hv": "TIÊN TỔ",
+          "pos": "名",
+          "vi": "tổ tiên",
+          "key": false,
+          "ex": {
+            "ja": "お{盆|ぼん}には{先祖|せんぞ}の{霊|れい}が{家|いえ}に{帰|かえ}ってくると{言|い}われている。",
+            "vi": "Người ta nói vào dịp Obon linh hồn tổ tiên sẽ trở về nhà."
+          },
+          "col": [
+            "先祖の墓",
+            "先祖代々"
+          ],
+          "rel": "≒ 祖先 ↔ 子孫",
+          "note": "Đọc せん**ぞ** (đục). 「祖先」 (そせん) cùng nghĩa, hay dùng trong văn khoa học (人類の祖先)."
+        },
+        {
+          "id": "g14-w63",
+          "w": "墓",
+          "r": "はか",
+          "hv": "MỘ",
+          "pos": "名",
+          "vi": "mộ, ngôi mộ",
+          "key": true,
+          "ex": {
+            "ja": "{故郷|こきょう}の{山|やま}の{上|うえ}に、{家族|かぞく}の{墓|はか}がある。",
+            "vi": "Trên ngọn núi ở quê có ngôi mộ của gia đình tôi."
+          },
+          "col": [
+            "お墓",
+            "墓参り",
+            "墓地"
+          ]
+        },
+        {
+          "id": "g14-w64",
+          "w": "墓参り",
+          "r": "はかまいり",
+          "hv": "MỘ THAM",
+          "pos": "名・自動",
+          "vi": "đi viếng mộ, tảo mộ",
+          "key": true,
+          "ex": {
+            "ja": "{毎年|まいとし}お{彼岸|ひがん}には、{家族|かぞく}で{墓参|はかまい}りに{行|い}く。",
+            "vi": "Mỗi năm vào dịp Higan, cả nhà tôi đi viếng mộ."
+          },
+          "col": [
+            "墓参りをする",
+            "お墓参り"
+          ]
+        },
+        {
+          "id": "g14-w65",
+          "w": "墓地",
+          "r": "ぼち",
+          "hv": "MỘ ĐỊA",
+          "pos": "名",
+          "vi": "nghĩa trang",
+          "key": true,
+          "ex": {
+            "ja": "{寺|てら}の{裏|うら}の{墓地|ぼち}は、{桜|さくら}の{名所|めいしょ}としても{知|し}られている。",
+            "vi": "Nghĩa trang sau chùa còn nổi tiếng là nơi ngắm hoa anh đào."
+          },
+          "col": [
+            "墓地に眠る",
+            "墓地に埋める"
+          ],
+          "note": "Âm On: 墓 = ぼ (墓地・墓石 ぼせき). Âm Kun: はか (お墓・墓参り)."
+        },
+        {
+          "id": "g14-w66",
+          "w": "眠る",
+          "r": "ねむる",
+          "hv": "MIÊN",
+          "pos": "自動",
+          "vi": "ngủ; yên nghỉ (người đã mất)",
+          "key": true,
+          "ex": {
+            "ja": "{祖父|そふ}は{生|う}まれ{故郷|こきょう}の{墓地|ぼち}に{眠|ねむ}っている。",
+            "vi": "Ông tôi yên nghỉ ở nghĩa trang nơi quê hương ông sinh ra."
+          },
+          "col": [
+            "墓地に眠る",
+            "安らかに眠る"
+          ]
+        },
+        {
+          "id": "g14-w67",
+          "w": "埋める",
+          "r": "うめる",
+          "hv": "MAI",
+          "pos": "他動",
+          "vi": "chôn, lấp; lấp đầy",
+          "key": true,
+          "ex": {
+            "ja": "{亡|な}くなった{猫|ねこ}を{庭|にわ}の{木|き}の{下|した}に{埋|う}めた。",
+            "vi": "Tôi chôn con mèo đã chết dưới gốc cây trong vườn."
+          },
+          "col": [
+            "墓地に埋める",
+            "穴を埋める",
+            "空欄を埋める",
+            "赤字を埋める"
+          ],
+          "note": "Nghĩa mở rộng hay gặp: 「空欄を埋める」 (điền vào chỗ trống), 「赤字を埋める」 (bù lỗ)."
+        },
+        {
+          "id": "g14-w68",
+          "w": "天国",
+          "r": "てんごく",
+          "hv": "THIÊN QUỐC",
+          "pos": "名",
+          "vi": "thiên đường; nơi tuyệt vời",
+          "key": true,
+          "ex": {
+            "ja": "{天国|てんごく}のおじいちゃんも、きっと{喜|よろこ}んでいるよ。",
+            "vi": "Ông trên thiên đường chắc chắn cũng đang vui đấy."
+          },
+          "col": [
+            "天国へ行く",
+            "歩行者天国"
+          ],
+          "rel": "↔ 地獄",
+          "note": "「歩行者天国」 = phố đi bộ (cấm xe vào cuối tuần)."
+        },
+        {
+          "id": "g14-w69",
+          "w": "地獄",
+          "r": "じごく",
+          "hv": "ĐỊA NGỤC",
+          "pos": "名",
+          "vi": "địa ngục; cảnh khổ sở",
+          "key": true,
+          "ex": {
+            "ja": "{冷房|れいぼう}のない{満員|まんいん}{電車|でんしゃ}は、まさに{地獄|じごく}だった。",
+            "vi": "Tàu chật kín người mà không có điều hoà đúng là địa ngục."
+          },
+          "col": [
+            "地獄へ落ちる",
+            "受験地獄",
+            "通勤地獄"
+          ],
+          "rel": "↔ 天国"
+        },
+        {
+          "id": "g14-w70",
+          "w": "故人",
+          "r": "こじん",
+          "hv": "CỐ NHÂN",
+          "pos": "名",
+          "vi": "người đã khuất, người quá cố",
+          "key": true,
+          "ex": {
+            "ja": "{式|しき}では、{故人|こじん}が{好|す}きだった{曲|きょく}が{静|しず}かに{流|なが}れていた。",
+            "vi": "Trong buổi lễ, bản nhạc người quá cố yêu thích vang lên khe khẽ."
+          },
+          "col": [
+            "故人となる",
+            "故人を偲ぶ"
+          ],
+          "note": "Bẫy Hán Việt: 故人 **không phải** \"bạn cũ\" (cố nhân trong tiếng Việt) mà là **người đã mất**. Đồng âm khác nghĩa: 個人 (こじん, cá nhân)."
+        },
+        {
+          "id": "g14-w71",
+          "w": "惜しむ",
+          "r": "おしむ",
+          "hv": "TÍCH",
+          "pos": "他動",
+          "vi": "tiếc thương; tiếc (không nỡ rời / không nỡ bỏ ra)",
+          "key": true,
+          "senses": [
+            {
+              "vi": "tiếc thương (cái chết, sự ra đi)",
+              "ex": {
+                "ja": "{多|おお}くの{人|ひと}が{名監督|めいかんとく}の{早|はや}すぎる{死|し}を{惜|お}しんだ。",
+                "vi": "Nhiều người tiếc thương cái chết quá sớm của vị đạo diễn tài ba."
+              }
+            },
+            {
+              "vi": "tiếc, không nỡ (別れを惜しむ) / tiếc công sức (〜を惜しまない)",
+              "ex": {
+                "ja": "{彼|かれ}は{夢|ゆめ}のためなら{努力|どりょく}を{惜|お}しまない。",
+                "vi": "Vì ước mơ, anh ấy không tiếc công sức."
+              }
+            }
+          ],
+          "col": [
+            "死を惜しむ",
+            "別れを惜しむ",
+            "努力を惜しまない"
+          ],
+          "note": "Nét nghĩa chung: **coi trọng điều đó nên tiếc khi mất đi**. Tính từ liên quan: 惜しい (tiếc quá, suýt nữa)."
+        },
+        {
+          "id": "g14-w72",
+          "w": "嘆く",
+          "r": "なげく",
+          "hv": "THÁN",
+          "pos": "他動",
+          "vi": "than khóc, than thở, đau buồn",
+          "key": true,
+          "ex": {
+            "ja": "{彼|かれ}は{自分|じぶん}の{不運|ふうん}を{嘆|なげ}くばかりで、{何|なに}もしようとしない。",
+            "vi": "Anh ta chỉ than thở về số phận đen đủi mà chẳng chịu làm gì."
+          },
+          "col": [
+            "死を嘆く",
+            "不運を嘆く",
+            "嘆かわしい"
+          ],
+          "rel": "≒ 悲しむ",
+          "note": "嘆く = buồn và **bộc lộ ra** (than vãn, khóc than). 惜しむ = tiếc vì thấy đáng quý."
+        }
+      ]
+    },
+    {
+      "title": "語形成",
+      "title_vi": "Ghép từ, tiền tố – hậu tố",
+      "words": [
+        {
+          "id": "g14-w73",
+          "w": "〜的",
+          "r": "てき",
+          "hv": "ĐÍCH",
+          "pos": "接尾",
+          "vi": "mang tính…, có tính chất…",
+          "key": false,
+          "ex": {
+            "ja": "{彼|かれ}の{意見|いけん}はいつも{具体的|ぐたいてき}で{分|わ}かりやすい。",
+            "vi": "Ý kiến của anh ấy lúc nào cũng cụ thể, dễ hiểu."
+          },
+          "col": [
+            "伝統的",
+            "形式的",
+            "具体的",
+            "家庭的"
+          ],
+          "note": "N + 的 → tính từ đuôi な: 伝統的な行事, 形式的に行う."
+        },
+        {
+          "id": "g14-w74",
+          "w": "形式的",
+          "r": "けいしきてき",
+          "hv": "HÌNH THỨC ĐÍCH",
+          "pos": "な形",
+          "vi": "mang tính hình thức (chỉ làm cho có)",
+          "key": true,
+          "ex": {
+            "ja": "{面接|めんせつ}は{形式的|けいしきてき}なもので、{採用|さいよう}はもう{決|き}まっていたらしい。",
+            "vi": "Buổi phỏng vấn chỉ là hình thức, nghe nói việc tuyển đã được quyết từ trước."
+          },
+          "col": [
+            "形式的な挨拶",
+            "形式的に行う"
+          ],
+          "note": "Thường mang sắc thái **chê**: chỉ có vỏ, không có thực chất."
+        },
+        {
+          "id": "g14-w75",
+          "w": "〜相手",
+          "r": "あいて",
+          "hv": "TƯƠNG THỦ",
+          "pos": "接尾",
+          "vi": "đối tượng (để cùng làm gì), người…",
+          "key": true,
+          "ex": {
+            "ja": "{英語|えいご}を{練習|れんしゅう}したいので、{会話|かいわ}の{相手|あいて}を{探|さが}している。",
+            "vi": "Tôi muốn luyện tiếng Anh nên đang tìm người cùng nói chuyện."
+          },
+          "col": [
+            "結婚相手",
+            "相談相手",
+            "話し相手",
+            "練習相手"
+          ]
+        },
+        {
+          "id": "g14-w76",
+          "w": "相談相手",
+          "r": "そうだんあいて",
+          "hv": "TƯƠNG ĐÀM TƯƠNG THỦ",
+          "pos": "名",
+          "vi": "người để tâm sự, hỏi ý kiến",
+          "key": true,
+          "ex": {
+            "ja": "{大学|だいがく}の{先輩|せんぱい}は、{今|いま}でも{仕事|しごと}の{相談相手|そうだんあいて}だ。",
+            "vi": "Đàn anh đại học đến giờ vẫn là người tôi hỏi ý kiến về công việc."
+          }
+        },
+        {
+          "id": "g14-w77",
+          "w": "話し相手",
+          "r": "はなしあいて",
+          "hv": "THOẠI TƯƠNG THỦ",
+          "pos": "名",
+          "vi": "người để trò chuyện cùng",
+          "key": false,
+          "ex": {
+            "ja": "{一人暮|ひとりぐ}らしの{祖母|そぼ}には、{話|はな}し{相手|あいて}が{必要|ひつよう}だ。",
+            "vi": "Bà sống một mình nên cần có người để trò chuyện."
+          },
+          "note": "Đừng nhầm: 話し手 (người nói ↔ 聞き手), 話し方 (cách nói), 話し合い (cuộc thảo luận)."
+        },
+        {
+          "id": "g14-w78",
+          "w": "〜込む",
+          "r": "こむ",
+          "hv": "",
+          "pos": "接尾",
+          "vi": "(làm) vào trong; (làm) cho đến nơi đến chốn",
+          "key": true,
+          "ex": {
+            "ja": "{雨|あめ}が{降|ふ}ってきたので、{急|いそ}いで{洗濯物|せんたくもの}を{取|と}り{込|こ}んだ。",
+            "vi": "Trời đổ mưa nên tôi vội rút quần áo phơi vào."
+          },
+          "col": [
+            "申し込む",
+            "払い込む",
+            "取り込む",
+            "飛び込む"
+          ]
+        },
+        {
+          "id": "g14-w79",
+          "w": "払い込む",
+          "r": "はらいこむ",
+          "hv": "PHẤT",
+          "pos": "他動",
+          "vi": "nộp tiền (vào tài khoản), chuyển khoản thanh toán",
+          "key": true,
+          "ex": {
+            "ja": "{授業料|じゅぎょうりょう}は{今月|こんげつ}{末|まつ}までに{指定|してい}の{口座|こうざ}に{払|はら}い{込|こ}んでください。",
+            "vi": "Học phí xin chuyển vào tài khoản chỉ định trước cuối tháng này."
+          },
+          "col": [
+            "銀行に払い込む",
+            "払込用紙"
+          ],
+          "rel": "≒ 振り込む"
+        },
+        {
+          "id": "g14-w80",
+          "w": "〜者",
+          "r": "しゃ",
+          "hv": "GIẢ",
+          "pos": "接尾",
+          "vi": "người (thuộc nhóm / trạng thái…)",
+          "key": true,
+          "ex": {
+            "ja": "この{調査|ちょうさ}は、{県内|けんない}に{住|す}む{高齢者|こうれいしゃ}を{対象|たいしょう}にしている。",
+            "vi": "Cuộc khảo sát này nhắm tới người cao tuổi sống trong tỉnh."
+          },
+          "col": [
+            "既婚者",
+            "独身者",
+            "未婚者",
+            "参加者"
+          ]
+        },
+        {
+          "id": "g14-w81",
+          "w": "独身者",
+          "r": "どくしんしゃ",
+          "hv": "ĐỘC THÂN GIẢ",
+          "pos": "名",
+          "vi": "người độc thân",
+          "key": true,
+          "ex": {
+            "ja": "{都市部|としぶ}では{独身者|どくしんしゃ}{向|む}けの{小|ちい}さなマンションが{人気|にんき}だ。",
+            "vi": "Ở thành phố, căn hộ nhỏ dành cho người độc thân rất được ưa chuộng."
+          }
+        },
+        {
+          "id": "g14-w82",
+          "w": "未婚者",
+          "r": "みこんしゃ",
+          "hv": "VỊ HÔN GIẢ",
+          "pos": "名",
+          "vi": "người chưa kết hôn",
+          "key": true,
+          "ex": {
+            "ja": "{三十代|さんじゅうだい}の{未婚者|みこんしゃ}の{割合|わりあい}は、{年々|ねんねん}{増|ふ}えている。",
+            "vi": "Tỉ lệ người chưa kết hôn ở độ tuổi 30 tăng qua từng năm."
+          },
+          "rel": "↔ 既婚者",
+          "note": "未 = chưa (未来・未定). 既 = đã. Cặp 既〜／未〜 rất hay ra đề."
+        },
+        {
+          "id": "g14-w83",
+          "w": "〜式",
+          "r": "しき",
+          "hv": "THỨC",
+          "pos": "接尾",
+          "vi": "lễ…, buổi lễ",
+          "key": true,
+          "ex": {
+            "ja": "{卒業式|そつぎょうしき}では、{思|おも}わず{涙|なみだ}が{出|で}た。",
+            "vi": "Tại lễ tốt nghiệp, nước mắt tôi bất giác rơi."
+          },
+          "col": [
+            "結婚式",
+            "成人式",
+            "入学式",
+            "卒業式"
+          ],
+          "note": "Còn nghĩa \"kiểu, phương thức\": 日本式, 和式トイレ."
+        },
+        {
+          "id": "g14-w84",
+          "w": "〜児",
+          "r": "じ",
+          "hv": "NHI",
+          "pos": "接尾",
+          "vi": "trẻ em (… tuổi / thuộc nhóm…)",
+          "key": true,
+          "ex": {
+            "ja": "この{絵本|えほん}は{三歳児|さんさいじ}でも{楽|たの}しめるように{作|つく}られている。",
+            "vi": "Cuốn sách tranh này được làm để trẻ 3 tuổi cũng có thể thích thú."
+          },
+          "col": [
+            "四歳児",
+            "幼稚園児（園児）",
+            "新生児",
+            "育児"
+          ]
+        },
+        {
+          "id": "g14-w96",
+          "w": "四歳児",
+          "r": "よんさいじ",
+          "hv": "TỨ TUẾ NHI",
+          "pos": "名",
+          "vi": "trẻ bốn tuổi",
+          "key": true,
+          "ex": {
+            "ja": "{四歳児|よんさいじ}のクラスでは、{簡単|かんたん}なひらがなの{読|よ}み{方|かた}も{教|おし}えている。",
+            "vi": "Ở lớp trẻ bốn tuổi, người ta còn dạy cả cách đọc hiragana đơn giản."
+          },
+          "note": "Số tuổi + 歳児: 一歳児, 三歳児, 五歳児. Đọc 四歳 là よんさい (không phải しさい)."
+        },
+        {
+          "id": "g14-w85",
+          "w": "幼稚園児",
+          "r": "ようちえんじ",
+          "hv": "ẤU TRĨ VIÊN NHI",
+          "pos": "名",
+          "vi": "trẻ mẫu giáo (gọi tắt: 園児)",
+          "key": true,
+          "ex": {
+            "ja": "{黄色|きいろ}い{帽子|ぼうし}をかぶった{園児|えんじ}たちが、{公園|こうえん}で{遊|あそ}んでいる。",
+            "vi": "Các bé mẫu giáo đội mũ vàng đang chơi trong công viên."
+          }
+        },
+        {
+          "id": "g14-w86",
+          "w": "〜園",
+          "r": "えん",
+          "hv": "VIÊN",
+          "pos": "接尾",
+          "vi": "vườn, khu…; trường (mẫu giáo)",
+          "key": true,
+          "ex": {
+            "ja": "{週末|しゅうまつ}は{子供|こども}を{連|つ}れて{動物園|どうぶつえん}に{行|い}った。",
+            "vi": "Cuối tuần tôi dẫn con đi sở thú."
+          },
+          "col": [
+            "幼稚園",
+            "動物園",
+            "保育園",
+            "遊園地"
+          ]
+        },
+        {
+          "id": "g14-w87",
+          "w": "〜所",
+          "r": "しょ／じょ",
+          "hv": "SỞ",
+          "pos": "接尾",
+          "vi": "nơi, cơ sở…",
+          "key": true,
+          "ex": {
+            "ja": "{市役所|しやくしょ}の{近|ちか}くに{新|あたら}しい{託児所|たくじしょ}ができた。",
+            "vi": "Gần toà thị chính mới có một nhà giữ trẻ."
+          },
+          "col": [
+            "保育所",
+            "託児所",
+            "研究所",
+            "事務所"
+          ]
+        },
+        {
+          "id": "g14-w88",
+          "w": "託児所",
+          "r": "たくじしょ",
+          "hv": "THÁC NHI SỞ",
+          "pos": "名",
+          "vi": "nơi giữ trẻ (thường ngắn hạn, trong công ty, trung tâm…)",
+          "key": true,
+          "ex": {
+            "ja": "このデパートには、{買|か}い{物|もの}の{間|あいだ}{子供|こども}を{見|み}てくれる{託児所|たくじしょ}がある。",
+            "vi": "Trung tâm thương mại này có chỗ giữ trẻ trong lúc bố mẹ mua sắm."
+          },
+          "note": "託 = gửi gắm (委託・託す)."
+        },
+        {
+          "id": "g14-w97",
+          "w": "〜費用",
+          "r": "〜ひよう",
+          "hv": "PHÍ DỤNG",
+          "pos": "接尾",
+          "vi": "chi phí cho …",
+          "key": true,
+          "ex": {
+            "ja": "{引|ひ}っ{越|こ}し{費用|ひよう}を{抑|おさ}えるために、{平日|へいじつ}に{引|ひ}っ{越|こ}すことにした。",
+            "vi": "Để giảm chi phí chuyển nhà, tôi quyết định chuyển vào ngày thường."
+          },
+          "col": [
+            "葬儀費用",
+            "出産費用",
+            "引っ越し費用",
+            "旅行費用"
+          ],
+          "note": "Đi sau danh từ chỉ **một việc, sự kiện** cần chi tiền. So với 〜費 (宣伝費・生活費) gắn liền thành một từ ngắn; 〜費用 thường ghép với từ dài hơn."
+        },
+        {
+          "id": "g14-w98",
+          "w": "葬儀費用",
+          "r": "そうぎひよう",
+          "hv": "TÁNG NGHI PHÍ DỤNG",
+          "pos": "名",
+          "vi": "chi phí tang lễ",
+          "key": true,
+          "ex": {
+            "ja": "{葬儀費用|そうぎひよう}が{心配|しんぱい}で、{生前|せいぜん}に{準備|じゅんび}しておく{人|ひと}も{多|おお}い。",
+            "vi": "Vì lo về chi phí tang lễ, nhiều người chuẩn bị sẵn từ khi còn sống."
+          },
+          "col": [
+            "葬儀費用が掛かる"
+          ]
+        },
+        {
+          "id": "g14-w89",
+          "w": "出産費用",
+          "r": "しゅっさんひよう",
+          "hv": "XUẤT SẢN PHÍ DỤNG",
+          "pos": "名",
+          "vi": "chi phí sinh nở",
+          "key": true,
+          "ex": {
+            "ja": "{出産費用|しゅっさんひよう}の{一部|いちぶ}は{国|くに}の{制度|せいど}で{補助|ほじょ}される。",
+            "vi": "Một phần chi phí sinh nở được nhà nước hỗ trợ."
+          },
+          "col": [
+            "葬儀費用",
+            "〜費用"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "例文の言葉（副詞など）",
+      "title_vi": "Phó từ trong câu ví dụ",
+      "words": [
+        {
+          "id": "g14-w90",
+          "w": "なかなか",
+          "r": "なかなか",
+          "hv": "",
+          "pos": "副",
+          "vi": "(+ phủ định) mãi mà không…, khó mà…; (+ khẳng định) khá là…",
+          "key": true,
+          "senses": [
+            {
+              "vi": "+ 〜ない: mãi không, chẳng dễ gì",
+              "ex": {
+                "ja": "{渋滞|じゅうたい}で、バスがなかなか{来|こ}ない。",
+                "vi": "Vì kẹt xe, xe buýt mãi chẳng đến."
+              }
+            },
+            {
+              "vi": "+ khẳng định: khá, hơn mong đợi",
+              "ex": {
+                "ja": "{初|はじ}めて{作|つく}ったにしては、なかなかおいしい。",
+                "vi": "Lần đầu nấu mà khá ngon đấy."
+              }
+            }
+          ],
+          "col": [
+            "なかなか〜ない",
+            "なかなか許してもらえない"
+          ]
+        },
+        {
+          "id": "g14-w91",
+          "w": "できるだけ",
+          "r": "できるだけ",
+          "hv": "",
+          "pos": "副",
+          "vi": "càng… càng tốt, trong khả năng có thể",
+          "key": true,
+          "ex": {
+            "ja": "{書類|しょるい}はできるだけ{早|はや}く{提出|ていしゅつ}してください。",
+            "vi": "Hãy nộp giấy tờ sớm nhất có thể."
+          },
+          "col": [
+            "できるだけ早く",
+            "できるだけのことをする"
+          ],
+          "rel": "≒ なるべく・可能な限り"
+        },
+        {
+          "id": "g14-w92",
+          "w": "すくすく",
+          "r": "すくすく",
+          "hv": "",
+          "pos": "副",
+          "vi": "(lớn lên) nhanh và khoẻ mạnh",
+          "key": true,
+          "ex": {
+            "ja": "{生|う}まれたときは{小|ちい}さかった{息子|むすこ}も、{今|いま}ではすくすくと{育|そだ}っている。",
+            "vi": "Thằng con lúc sinh ra bé xíu, giờ đã lớn nhanh khoẻ mạnh."
+          },
+          "col": [
+            "すくすく（と）育つ",
+            "すくすく伸びる"
+          ],
+          "note": "Chỉ dùng cho **trẻ em, cây cối lớn lên** thuận lợi."
+        },
+        {
+          "id": "g14-w93",
+          "w": "のびのび",
+          "r": "のびのび",
+          "hv": "",
+          "pos": "副",
+          "vi": "thoải mái, tự do, không gò bó",
+          "key": true,
+          "ex": {
+            "ja": "{細|こま}かいルールのない{学校|がっこう}で、{生徒|せいと}たちはのびのびと{学|まな}んでいる。",
+            "vi": "Ở ngôi trường không có quy định vụn vặt, học sinh học tập thật thoải mái."
+          },
+          "col": [
+            "のびのび（と）育つ",
+            "のびのびと遊ぶ",
+            "のびのびした性格"
+          ],
+          "note": "Nhấn vào **không bị kìm kẹp, được tự do phát triển**, không nhất thiết là lớn nhanh."
+        }
+      ]
+    }
+  ],
+  "focus": [
+    {
+      "title": "祝う・祈る・願う・誓う — bốn động từ của các buổi lễ",
+      "body": "- **祝う (いわう)**: mừng một việc **tốt đã xảy ra** — 合格を祝う, 誕生日を祝う, 新年を祝う.\n- **祈る (いのる)**: cầu với **thần linh / sức mạnh ngoài mình** cho điều mình không tự quyết được — 神に祈る, 平和を祈る, 「ご冥福をお祈りします」(cầu cho người mất được siêu thoát).\n- **願う (ねがう)**: **mong muốn** nói chung (không cần thần linh) — 子供の幸せを願う. 祈る và 願う gần nhau, nhưng 祈る trang nghiêm hơn.\n- **誓う (ちかう)**: **thề, cam kết** về hành động **của chính mình** — 永遠の愛を誓う, 禁煙を誓う.\n\nVí dụ: 合格を**祈る** (trước kỳ thi) → 合格を**祝う** (sau khi đỗ) → 「来年も頑張る」と**誓う**."
+    },
+    {
+      "title": "Cặp連語 với ためる và 解消する",
+      "body": "Hai động từ này đi theo cặp đối lập:\n- 資金／お金を**ためる** (貯める): để dành tiền — tích cực.\n- ストレス／疲れ／仕事を**ためる** (溜める): để dồn ứ — tiêu cực. → ストレスを**解消する** (giải toả).\n\n**解消 (かいしょう)** = làm một trạng thái / quan hệ **biến mất**:\n- 婚約を解消する (huỷ hôn ước), 契約を解消する (chấm dứt hợp đồng)\n- ストレス解消, 渋滞を解消する (giải toả ùn tắc), 不安が解消される\n\nPhân biệt với **解決 (かいけつ)**: giải quyết **một vấn đề / vụ việc** có lời giải — 問題を解決する, 事件が解決する. ✗ ストレスを解決する."
+    },
+    {
+      "title": "役割・役目 và 果たす",
+      "body": "Cả hai đều đi với **果たす** (làm tròn): 役割を果たす, 役目を果たす.\n\n- **役割 (やくわり)**: **vai trò / chức năng** trong một hệ thống, có thể dùng cho cả vật: 「森は水をためる役割を持つ」「チームの中での役割」.\n- **役目 (やくめ)**: **nhiệm vụ, bổn phận** người đó phải làm, sắc thái trách nhiệm cá nhân: 「子供を守るのは親の役目だ」「役目を終える」.\n\nTrong đề, hai từ thường **thay được nhau** (言い換え ≒ 仕事・任務). Cẩn thận với nhóm 役〜 khác: 役所 (cơ quan hành chính), 役者 (diễn viên), 役人 (công chức), 役立つ (có ích).\n\n**果たす** đi với: 役割・役目・責任・義務・約束・目的・夢. Không đi với hành trình, quãng đường (✗ 旅を果たす → 旅を終える)."
+    },
+    {
+      "title": "豪華・盛大・華やか — ba kiểu \"hoành tráng\"",
+      "body": "Cả ba đều có thể đứng trước 結婚式, nhưng nhấn vào điểm khác nhau:\n- **豪華 (ごうか)**: **tốn tiền, sang trọng** — đồ ăn, khách sạn, quà, nội thất. 豪華なディナー, 豪華客船.\n- **盛大 (せいだい)**: **quy mô lớn, đông người, náo nhiệt** — lễ, tiệc, tràng vỗ tay. 盛大な拍手, 盛大に祝う.\n- **華やか (はなやか)**: **rực rỡ, thu hút ánh nhìn** như hoa — trang phục, không khí, giới showbiz. 華やかな衣装, 華やかな世界.\n\nMẹo: hỏi \"đắt?\" → 豪華; \"đông và to?\" → 盛大; \"đẹp lung linh?\" → 華やか.\n✗ 盛大な料理 → ○ 豪華な料理　／　✗ 豪華な拍手 → ○ 盛大な拍手"
+    },
+    {
+      "title": "語形成: 〜者・〜児・〜園・〜所・〜式・〜的・〜相手・〜込む・〜費用",
+      "body": "- **〜者 (しゃ)**: người — 既婚者, 未婚者, 独身者. Nhớ cặp **既 (đã) ↔ 未 (chưa)**.\n- **〜児 (じ)**: trẻ em — 四歳児, 幼稚園児 (園児), 新生児.\n- **〜園 (えん)**: 幼稚園, 保育園, 動物園.\n- **〜所 (しょ)**: 保育所, 託児所, 研究所.\n- **〜式 (しき)**: buổi lễ — 成人式, 結婚式, 入学式.\n- **〜的 (てき)**: → な形容詞 — 伝統的な, 形式的な.\n- **〜相手 (あいて)**: đối tượng cùng làm — 結婚相手, 相談相手, 話し相手.\n- **〜込む (こむ)**: vào trong / đến cùng — 申し込む, 払い込む.\n- **〜費用 (ひよう)**: chi phí cho… — 葬儀費用, 出産費用.\n\nBẫy hay gặp: 「話し（ ）」 — 相手 (người trò chuyện) / 手 (người nói) / 方 (cách nói) / 合い (thảo luận): phải đọc nghĩa cả câu."
+    },
+    {
+      "title": "Phó từ: すくすく・のびのび・なかなか・できるだけ",
+      "body": "- **すくすく(と)**: lớn **nhanh và khoẻ** — chỉ dùng cho trẻ em, cây. 「赤ちゃんがすくすく育つ」.\n- **のびのび(と)**: **thoải mái, không gò bó** — 「自然の中でのびのび遊ぶ」「のびのびした字」. Có thể dùng cho người lớn: 「休暇でのびのびと過ごす」.\n  → 「すくすく育つ」 nhấn vào **sức khoẻ, tốc độ lớn**; 「のびのび育つ」 nhấn vào **môi trường tự do**.\n- **なかなか + 〜ない**: mãi mà không… (việc mong đợi khó xảy ra) — 「親がなかなか結婚を許してくれない」. **なかなか + khẳng định**: khá là… (hơn mong đợi).\n- **できるだけ**: trong khả năng có thể ≒ なるべく — 「できるだけたくさんの人を招待したい」."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "g14-q1",
+      "kind": "read",
+      "ref": "g14-w21",
+      "q": "{結婚|けっこん}したら、{二人|ふたり}で{温|あたた}かい{家庭|かてい}を[[u:築き]]たい。",
+      "options": [
+        "きづき",
+        "つづき",
+        "きずき",
+        "ちくき"
+      ],
+      "answer": 2,
+      "vi": "Kết hôn rồi, tôi muốn cùng nhau xây dựng một tổ ấm ấm áp.",
+      "why": "築く = **きずく** → 築き = きずき. きづき là 気づき (nhận ra) — bẫy vì phát âm gần giống; つづき là 続き (phần tiếp); ちく là âm On của 築 (建築 けんちく) nhưng không dùng cho động từ."
+    },
+    {
+      "id": "g14-q2",
+      "kind": "write",
+      "ref": "g14-w14",
+      "q": "{彼|かれ}とは{三年|さんねん}[[u:こうさい]]してから{結婚|けっこん}した。",
+      "options": [
+        "交際",
+        "交済",
+        "校際",
+        "効際"
+      ],
+      "answer": 0,
+      "vi": "Tôi hẹn hò với anh ấy ba năm rồi mới cưới.",
+      "why": "**交際** = 交 (giao, qua lại) + 際 (tế, quan hệ — như 国際). 済 (tế, xong) cùng âm さい nhưng sai nghĩa; 校 (trường) và 効 (hiệu quả) cùng âm こう nhưng sai."
+    },
+    {
+      "id": "g14-q3",
+      "kind": "context",
+      "ref": "g14-w18",
+      "q": "{留学|りゅうがく}に{反対|はんたい}する{両親|りょうしん}を（　　）するのに、{半年|はんとし}もかかった。",
+      "options": [
+        "承諾",
+        "説得",
+        "招待",
+        "交際"
+      ],
+      "answer": 1,
+      "vi": "Tôi mất cả nửa năm để thuyết phục bố mẹ vốn phản đối việc du học.",
+      "why": "Làm cho người đang phản đối đồng ý → **説得** (〜を説得する). 承諾 là việc **bố mẹ** làm (đồng ý), không phải 「両親を承諾する」; 招待 = mời; 交際 = hẹn hò, không hợp."
+    },
+    {
+      "id": "g14-q4",
+      "kind": "context",
+      "ref": "g14-w42",
+      "q": "{創立|そうりつ}{百|ひゃく}{周年|しゅうねん}を{記念|きねん}して、{千人|せんにん}{規模|きぼ}の（　　）なパーティーが{開|ひら}かれた。",
+      "options": [
+        "盛大",
+        "大幅",
+        "莫大",
+        "膨大"
+      ],
+      "answer": 0,
+      "vi": "Để kỷ niệm 100 năm thành lập, một bữa tiệc hoành tráng quy mô nghìn người đã được tổ chức.",
+      "why": "Sự kiện quy mô lớn, đông người → **盛大な**パーティー. 大幅 = (thay đổi) mạnh, nhiều (大幅な値上げ); 莫大 = khổng lồ (tiền: 莫大な費用); 膨大 = đồ sộ (lượng dữ liệu, tài liệu) — đều không dùng cho buổi tiệc."
+    },
+    {
+      "id": "g14-q5",
+      "kind": "formation",
+      "ref": "g14-w80",
+      "q": "このアンケートは、{既婚|きこん}（　　）だけを{対象|たいしょう}にしている。",
+      "options": [
+        "人",
+        "家",
+        "員",
+        "者"
+      ],
+      "answer": 3,
+      "vi": "Bảng khảo sát này chỉ nhắm tới những người đã kết hôn.",
+      "why": "既婚 + **者** = 既婚者 (người đã kết hôn), giống 独身者・未婚者. 「既婚人」「既婚家」「既婚員」 không tồn tại; 〜員 chỉ thành viên tổ chức (会社員・店員)."
+    },
+    {
+      "id": "g14-q6",
+      "kind": "paraphrase",
+      "ref": "g14-w13",
+      "q": "{彼女|かのじょ}こそ、{次|つぎ}のリーダーに[[u:ふさわしい]]{人|ひと}だ。",
+      "options": [
+        "似ている",
+        "向いている",
+        "慣れている",
+        "憧れている"
+      ],
+      "answer": 1,
+      "vi": "Chính cô ấy là người xứng đáng làm trưởng nhóm tiếp theo.",
+      "why": "ふさわしい = phù hợp, xứng tầm ≒ **向いている** (hợp với vai trò). 似ている = giống nhau (ngoại hình); 慣れている = đã quen; 憧れている = ngưỡng mộ — nghĩa khác."
+    },
+    {
+      "id": "g14-q7",
+      "kind": "context",
+      "ref": "g14-w49",
+      "q": "{仕事|しごと}に{復帰|ふっき}するため、{一歳|いっさい}の{娘|むすめ}を{保育所|ほいくしょ}に（　　）ことにした。",
+      "options": [
+        "譲る",
+        "届ける",
+        "預ける",
+        "備える"
+      ],
+      "answer": 2,
+      "vi": "Để quay lại làm việc, tôi quyết định gửi con gái một tuổi vào nhà trẻ.",
+      "why": "Gửi người/vật cho nơi khác trông giữ tạm → **預ける**. 譲る = nhường, cho hẳn; 届ける = mang đến giao (đồ vật); 備える = chuẩn bị đề phòng."
+    },
+    {
+      "id": "g14-q8",
+      "kind": "usage",
+      "ref": "g14-w46",
+      "q": "「{果|は}たす」",
+      "options": [
+        "{長|なが}い{旅|たび}を{果|は}たして、やっと{家|いえ}に{着|つ}いた。",
+        "{社長|しゃちょう}としての{責任|せきにん}を{最後|さいご}まで{果|は}たした。",
+        "{山|やま}の{頂上|ちょうじょう}に{果|は}たすまで{三時間|さんじかん}かかった。",
+        "{財布|さいふ}に{入|はい}っていたお{金|かね}を{全部|ぜんぶ}{果|は}たした。"
+      ],
+      "answer": 1,
+      "vi": "(2) Ông ấy đã làm tròn trách nhiệm của một giám đốc đến cùng.",
+      "why": "果たす + **trách nhiệm / vai trò / lời hứa** → (2) đúng. (1) kết thúc chuyến đi → 終えて; (3) lên tới đỉnh → たどり着く; (4) tiêu hết tiền → 使い果たした (phải có 使い〜)."
+    },
+    {
+      "id": "g14-q9",
+      "kind": "context",
+      "ref": "g14-w92",
+      "q": "{病気|びょうき}ひとつせず、{赤|あか}ちゃんは（　　）{大|おお}きくなった。",
+      "options": [
+        "ぶらぶら",
+        "そわそわ",
+        "ぐずぐず",
+        "すくすく"
+      ],
+      "answer": 3,
+      "vi": "Không ốm đau gì, em bé lớn lên nhanh và khoẻ mạnh.",
+      "why": "Trẻ lớn nhanh, khoẻ → **すくすく**. ぶらぶら = lang thang, rảnh rỗi; そわそわ = bồn chồn; ぐずぐず = lề mề, chần chừ."
+    },
+    {
+      "id": "g14-q10",
+      "kind": "context",
+      "ref": "g14-w93",
+      "q": "{都会|とかい}を{離|はな}れて、{広|ひろ}い{自然|しぜん}の{中|なか}で{子供|こども}たちを（　　）{遊|あそ}ばせたい。",
+      "options": [
+        "のびのび",
+        "はらはら",
+        "いらいら",
+        "びくびく"
+      ],
+      "answer": 0,
+      "vi": "Tôi muốn rời thành phố để cho bọn trẻ chơi thoả thích giữa thiên nhiên rộng lớn.",
+      "why": "Tự do, không gò bó → **のびのび**. はらはら = lo thót tim; いらいら = bực bội; びくびく = sợ sệt — đều là cảm xúc tiêu cực."
+    }
+  ],
+  "practice": [
+    {
+      "id": "g14-p1",
+      "kind": "read",
+      "ref": "g14-w16",
+      "q": "この{件|けん}は、{部長|ぶちょう}の[[u:承諾]]を{得|え}てから{進|すす}めてください。",
+      "options": [
+        "しょうたく",
+        "しょうだく",
+        "じょうだく",
+        "しょうらく"
+      ],
+      "answer": 1,
+      "vi": "Việc này hãy làm sau khi được trưởng phòng đồng ý.",
+      "why": "承諾 = **しょうだく** (諾 = だく, đục). しょうたく thiếu đục; じょうだく đục sai chỗ; しょうらく không có."
+    },
+    {
+      "id": "g14-p2",
+      "kind": "read",
+      "ref": "g14-w59",
+      "q": "[[u:葬儀]]は{故人|こじん}の{希望|きぼう}で、ごく{親|した}しい{人|ひと}だけで{行|おこな}われた。",
+      "options": [
+        "そうぎ",
+        "そうき",
+        "しょうぎ",
+        "そぎ"
+      ],
+      "answer": 0,
+      "vi": "Theo nguyện vọng của người quá cố, tang lễ chỉ có những người rất thân thiết tham dự.",
+      "why": "葬儀 = **そうぎ** (葬 = そう như 葬式, 儀 = ぎ như 礼儀). そうき thiếu đục; しょうぎ là 将棋 (cờ Nhật); そぎ thiếu trường âm."
+    },
+    {
+      "id": "g14-p3",
+      "kind": "read",
+      "ref": "g14-w62",
+      "q": "お{盆|ぼん}には[[u:先祖]]の{霊|れい}を{家|いえ}に{迎|むか}える。",
+      "options": [
+        "せんそ",
+        "さきぞ",
+        "せんぞう",
+        "せんぞ"
+      ],
+      "answer": 3,
+      "vi": "Vào dịp Obon người ta đón linh hồn tổ tiên về nhà.",
+      "why": "先祖 = **せんぞ** (祖 đục thành ぞ sau ん). せんそ thiếu đục; さきぞ lẫn âm Kun của 先; せんぞう thêm trường âm."
+    },
+    {
+      "id": "g14-p4",
+      "kind": "write",
+      "ref": "g14-w40",
+      "q": "{二人|ふたり}は{家族|かぞく}の{前|まえ}で{永遠|えいえん}の{愛|あい}を[[u:ちかった]]。",
+      "options": [
+        "警った",
+        "哲った",
+        "誓った",
+        "逝った"
+      ],
+      "answer": 2,
+      "vi": "Hai người thề nguyện tình yêu vĩnh cửu trước mặt gia đình.",
+      "why": "**誓う** = 折 + 言 (nói lời không thể bẻ lại). 警 (cảnh, 警察) có 言 nhưng phần trên là 敬; 哲 (triết) là 折 + 口; 逝く (ゆく/いく) = qua đời — đều trông giống nhưng sai."
+    },
+    {
+      "id": "g14-p5",
+      "kind": "write",
+      "ref": "g14-w25",
+      "q": "{二人|ふたり}は{結婚|けっこん}して{五年目|ごねんめ}に[[u:りこん]]した。",
+      "options": [
+        "離婚",
+        "難婚",
+        "離根",
+        "利婚"
+      ],
+      "answer": 0,
+      "vi": "Hai người ly hôn vào năm thứ năm sau khi cưới.",
+      "why": "**離婚** = 離 (rời xa, 離れる) + 婚 (hôn nhân). 難 (khó) trông giống 離; 根 (rễ) đồng âm こん; 利 (lợi) đồng âm り — sai nghĩa."
+    },
+    {
+      "id": "g14-p6",
+      "kind": "context",
+      "ref": "g14-w29",
+      "q": "{式場|しきじょう}の{担当者|たんとうしゃ}と、{料理|りょうり}や{席順|せきじゅん}について{何度|なんど}も（　　）を{重|かさ}ねた。",
+      "options": [
+        "待ち合わせ",
+        "打ち合わせ",
+        "問い合わせ",
+        "詰め合わせ"
+      ],
+      "answer": 1,
+      "vi": "Chúng tôi đã nhiều lần trao đổi với người phụ trách hội trường về món ăn và sơ đồ chỗ ngồi.",
+      "why": "Bàn bạc chi tiết để chuẩn bị → **打ち合わせ**. 待ち合わせ = hẹn gặp ở một địa điểm; 問い合わせ = hỏi thông tin (một chiều); 詰め合わせ = hộp đựng nhiều loại đồ."
+    },
+    {
+      "id": "g14-p7",
+      "kind": "context",
+      "ref": "g14-w33",
+      "q": "{引|ひ}っ{越|こ}す{前|まえ}に、{市役所|しやくしょ}での{手続|てつづ}きを{全部|ぜんぶ}（　　）おいた。",
+      "options": [
+        "済ませて",
+        "果たして",
+        "築いて",
+        "許して"
+      ],
+      "answer": 0,
+      "vi": "Trước khi chuyển nhà, tôi đã làm xong hết thủ tục ở toà thị chính.",
+      "why": "Cụm cố định 手続きを**済ませる** (làm xong thủ tục). 果たす đi với 責任・役割; 築く đi với 家庭・関係; 許す = cho phép — không đi với 手続き."
+    },
+    {
+      "id": "g14-p8",
+      "kind": "context",
+      "ref": "g14-w71",
+      "q": "{多|おお}くのファンが、{若|わか}くして{亡|な}くなった{歌手|かしゅ}の{死|し}を（　　）。",
+      "options": [
+        "嫌った",
+        "恐れた",
+        "惜しんだ",
+        "許した"
+      ],
+      "answer": 2,
+      "vi": "Nhiều người hâm mộ tiếc thương cái chết khi còn trẻ của ca sĩ.",
+      "why": "死を**惜しむ** = tiếc thương sự ra đi của người đáng quý. 嫌う = ghét; 恐れる = sợ (死を恐れる là sợ cái chết của chính mình — không hợp ngữ cảnh fan); 許す = tha thứ."
+    },
+    {
+      "id": "g14-p9",
+      "kind": "formation",
+      "ref": "g14-w84",
+      "q": "この{幼稚園|ようちえん}には、{三歳|さんさい}（　　）から{五歳|ごさい}（　　）まで、{約|やく}{百人|ひゃくにん}が{通|かよ}っている。",
+      "options": [
+        "子",
+        "人",
+        "者",
+        "児"
+      ],
+      "answer": 3,
+      "vi": "Trường mẫu giáo này có khoảng 100 trẻ từ 3 đến 5 tuổi theo học.",
+      "why": "Số tuổi + **児** (三歳児・五歳児) = trẻ … tuổi. 「三歳子」「三歳人」「三歳者」 không dùng; 〜者 dành cho người lớn theo nhóm (既婚者・高齢者)."
+    },
+    {
+      "id": "g14-p10",
+      "kind": "formation",
+      "ref": "g14-w77",
+      "q": "{一人暮|ひとりぐ}らしの{祖母|そぼ}には、{毎日|まいにち}{話|はな}し（　　）になってくれる{人|ひと}が{必要|ひつよう}だ。",
+      "options": [
+        "相手",
+        "方",
+        "手",
+        "合い"
+      ],
+      "answer": 0,
+      "vi": "Bà sống một mình nên cần có người ngày ngày trò chuyện cùng.",
+      "why": "Người cùng trò chuyện → 話し**相手**. 話し方 = cách nói; 話し手 = người nói (đối lập 聞き手); 話し合い = cuộc thảo luận — đều là từ có thật nhưng không hợp với 「〜になってくれる人」."
+    },
+    {
+      "id": "g14-p11",
+      "kind": "formation",
+      "ref": "g14-w15",
+      "q": "{来年|らいねん}の{成人式|せいじんしき}で{着|き}る{振袖|ふりそで}のレンタルを、{早|はや}めに{申|もう}し（　　）。",
+      "options": [
+        "上げた",
+        "出した",
+        "込んだ",
+        "付けた"
+      ],
+      "answer": 2,
+      "vi": "Tôi đã đăng ký sớm việc thuê áo furisode để mặc trong lễ trưởng thành năm sau.",
+      "why": "Đăng ký dịch vụ → 申し**込む**. 申し上げる = khiêm nhường ngữ của 言う (nói); 申し出る là động từ riêng (tự nguyện đề nghị) chứ không phải 「申し出す」; 申し付ける = ra lệnh cho cấp dưới — đều sai nghĩa."
+    },
+    {
+      "id": "g14-p12",
+      "kind": "paraphrase",
+      "ref": "g14-w16",
+      "q": "{悩|なや}んだ{末|すえ}、{両親|りょうしん}は{二人|ふたり}の{結婚|けっこん}を[[u:承諾した]]。",
+      "options": [
+        "反対した",
+        "延期した",
+        "認めた",
+        "祝った"
+      ],
+      "answer": 2,
+      "vi": "Sau nhiều đắn đo, bố mẹ đã chấp thuận cho hai người kết hôn.",
+      "why": "承諾する = đồng ý với đề nghị ≒ **認めた** (chấp nhận, cho phép). 反対した là nghĩa ngược; 延期した = hoãn; 祝った = chúc mừng (xảy ra sau khi đã đồng ý, nghĩa khác)."
+    },
+    {
+      "id": "g14-p13",
+      "kind": "usage",
+      "ref": "g14-w21",
+      "q": "「{築|きず}く」",
+      "options": [
+        "{週末|しゅうまつ}に、{部屋|へや}の{家具|かぐ}を{新|あたら}しく{築|きず}いた。",
+        "{毎朝|まいあさ}、{健康|けんこう}のために{体操|たいそう}を{築|きず}いている。",
+        "{料理|りょうり}の{腕|うで}を{築|きず}くために、{教室|きょうしつ}に{通|かよ}っている。",
+        "{長年|ながねん}かけて、{取引先|とりひきさき}との{信頼|しんらい}{関係|かんけい}を{築|きず}いてきた。"
+      ],
+      "answer": 3,
+      "vi": "(4) Chúng tôi đã mất nhiều năm để xây dựng quan hệ tin cậy với đối tác.",
+      "why": "築く + thứ **cần thời gian gây dựng** (関係・信頼・家庭・地位) → (4) đúng. (1) đồ đạc → 買い替えた／組み立てた; (2) thói quen → 続けている; (3) tay nghề → 磨く／上げる."
+    },
+    {
+      "id": "g14-p14",
+      "kind": "context",
+      "ref": "g14-w72",
+      "q": "{彼|かれ}は{自分|じぶん}の{不運|ふうん}を（　　）ばかりで、{状況|じょうきょう}を{変|か}えようとしない。",
+      "options": [
+        "惜しむ",
+        "嘆く",
+        "祈る",
+        "誓う"
+      ],
+      "answer": 1,
+      "vi": "Anh ta chỉ biết than thở về sự đen đủi của mình mà không chịu thay đổi tình hình.",
+      "why": "Than vãn về điều không may → 不運を**嘆く**. 惜しむ là tiếc **điều quý giá** (死・別れ), không phải vận rủi; 祈る = cầu mong; 誓う = thề — đều không đi với 不運を."
+    }
+  ],
+  "test": [
+    {
+      "id": "g14-t1",
+      "kind": "read",
+      "ref": "g14-w41",
+      "q": "{一生|いっしょう}に{一度|いちど}のことなので、[[u:豪華]]な{結婚式|けっこんしき}を{挙|あ}げたい。",
+      "options": [
+        "こうか",
+        "ごか",
+        "ごうか",
+        "ごうけ"
+      ],
+      "answer": 2,
+      "vi": "Vì là chuyện một lần trong đời nên tôi muốn tổ chức đám cưới thật sang trọng.",
+      "why": "豪華 = **ごうか** (豪 = ごう như 豪雨, 華 = か như 中華). こうか là 効果 / 高価 — bẫy đồng âm gần; ごか thiếu trường âm; け là âm khác của 華 (華厳) không dùng ở đây."
+    },
+    {
+      "id": "g14-t2",
+      "kind": "read",
+      "ref": "g14-w65",
+      "q": "{寺|てら}の{裏|うら}には{古|ふる}い[[u:墓地]]が{広|ひろ}がっている。",
+      "options": [
+        "はかち",
+        "ぼち",
+        "ぼじ",
+        "ばくち"
+      ],
+      "answer": 1,
+      "vi": "Phía sau chùa trải rộng một nghĩa trang cổ.",
+      "why": "墓地 = **ぼち** (âm On 墓 = ぼ, 地 = ち). はかち trộn âm Kun; ぼじ đục sai; ばくち là 博打 (cờ bạc)."
+    },
+    {
+      "id": "g14-t3",
+      "kind": "write",
+      "ref": "g14-w39",
+      "q": "[[u:えいえん]]に{続|つづ}く{幸|しあわ}せなどない、と{祖母|そぼ}はよく{言|い}っていた。",
+      "options": [
+        "永遠",
+        "水遠",
+        "永園",
+        "泳遠"
+      ],
+      "answer": 0,
+      "vi": "Bà tôi hay nói rằng chẳng có hạnh phúc nào kéo dài mãi mãi.",
+      "why": "**永遠** = 永 (vĩnh, lâu dài) + 遠 (viễn, xa). 水 thiếu nét chấm của 永; 園 (vườn) đồng âm えん; 泳 (bơi) có thêm bộ 氵."
+    },
+    {
+      "id": "g14-t4",
+      "kind": "write",
+      "ref": "g14-w35",
+      "q": "お{正月|しょうがつ}には、{祖父|そふ}の{家|いえ}に[[u:しんせき]]が{集|あつ}まる。",
+      "options": [
+        "新戚",
+        "親戚",
+        "親籍",
+        "深戚"
+      ],
+      "answer": 1,
+      "vi": "Vào dịp Tết, họ hàng tụ tập ở nhà ông.",
+      "why": "**親戚** = 親 (thân) + 戚 (thích, bà con). 新 (mới) và 深 (sâu) đồng âm しん; 籍 (tịch, 国籍) đồng âm せき nhưng sai nghĩa."
+    },
+    {
+      "id": "g14-t5",
+      "kind": "context",
+      "ref": "g14-w23",
+      "q": "{転職|てんしょく}して{通勤|つうきん}{時間|じかん}が{短|みじか}くなってから、{長年|ながねん}の{睡眠|すいみん}{不足|ぶそく}が（　　）された。",
+      "options": [
+        "解約",
+        "解放",
+        "解消",
+        "解散"
+      ],
+      "answer": 2,
+      "vi": "Từ khi chuyển việc và thời gian đi làm ngắn lại, tình trạng thiếu ngủ nhiều năm đã được giải toả.",
+      "why": "Một **trạng thái xấu** biến mất → **解消** (睡眠不足が解消される). 解約 = huỷ hợp đồng (携帯を解約する); 解放 = giải phóng (〜から解放される — chủ ngữ là người được thoát ra, không phải 睡眠不足); 解散 = giải tán (nhóm, quốc hội). Lưu ý: 解決 cũng gần nhưng dùng cho vấn đề/vụ việc có lời giải."
+    },
+    {
+      "id": "g14-t6",
+      "kind": "context",
+      "ref": "g14-w43",
+      "q": "{桜|さくら}が{咲|さ}き{始|はじ}めて、{町|まち}の{雰囲気|ふんいき}が{一気|いっき}に（　　）になった。",
+      "options": [
+        "豪華",
+        "華やか",
+        "盛大",
+        "高価"
+      ],
+      "answer": 1,
+      "vi": "Hoa anh đào bắt đầu nở, không khí thị trấn bỗng chốc trở nên rực rỡ.",
+      "why": "Không khí tươi sáng, đẹp như hoa → **華やか**. 豪華 = sang trọng tốn tiền (đồ vật, đồ ăn); 盛大 = quy mô lớn (buổi lễ, tiệc); 高価 = đắt tiền (chỉ dùng cho đồ vật, không dùng cho 雰囲気)."
+    },
+    {
+      "id": "g14-t7",
+      "kind": "paraphrase",
+      "ref": "g14-w14",
+      "q": "{二人|ふたり}は{大学|だいがく}{時代|じだい}から[[u:交際して]]いる。",
+      "options": [
+        "知り合って",
+        "話し合って",
+        "助け合って",
+        "付き合って"
+      ],
+      "answer": 3,
+      "vi": "Hai người hẹn hò với nhau từ thời đại học.",
+      "why": "交際する (hẹn hò, quan hệ yêu đương) ≒ **付き合う**. 知り合う = quen biết (chưa chắc yêu); 話し合う = thảo luận; 助け合う = giúp đỡ nhau."
+    },
+    {
+      "id": "g14-t8",
+      "kind": "usage",
+      "ref": "g14-w3",
+      "q": "「{祝|いわ}う」",
+      "options": [
+        "{友人|ゆうじん}の{大学|だいがく}{合格|ごうかく}を{祝|いわ}って、みんなで{食事|しょくじ}に{行|い}った。",
+        "{試験|しけん}に{合格|ごうかく}できるよう、{神社|じんじゃ}で{祝|いわ}った。",
+        "{亡|な}くなった{祖父|そふ}の{冥福|めいふく}を{祝|いわ}った。",
+        "{明日|あした}から{禁煙|きんえん}すると、{家族|かぞく}の{前|まえ}で{祝|いわ}った。"
+      ],
+      "answer": 0,
+      "vi": "(1) Mừng bạn đỗ đại học, cả nhóm cùng đi ăn.",
+      "why": "祝う = mừng **việc tốt đã xảy ra** → (1) đúng. (2) cầu mong trước kỳ thi → 祈った; (3) cầu siêu cho người mất → 祈った; (4) cam kết bỏ thuốc → 誓った."
+    },
+    {
+      "id": "g14-t9",
+      "kind": "context",
+      "ref": "g14-w47",
+      "q": "{母親|ははおや}としての（　　）を{果|は}たしながら、{仕事|しごと}でも{成果|せいか}を{上|あ}げている。",
+      "options": [
+        "役者",
+        "役所",
+        "役人",
+        "役割"
+      ],
+      "answer": 3,
+      "vi": "Cô ấy vừa làm tròn vai trò người mẹ vừa đạt thành tích trong công việc.",
+      "why": "〜を果たす + vai trò → **役割**. 役者 = diễn viên; 役所 = cơ quan hành chính; 役人 = công chức — cùng chữ 役 nhưng không đi với 果たす."
+    },
+    {
+      "id": "g14-t10",
+      "kind": "context",
+      "ref": "g14-w90",
+      "q": "{何度|なんど}{頼|たの}んでも、{父|ちち}は（　　）{一人暮|ひとりぐ}らしを{許|ゆる}してくれなかった。",
+      "options": [
+        "できるだけ",
+        "すっかり",
+        "なかなか",
+        "のびのび"
+      ],
+      "answer": 2,
+      "vi": "Dù tôi nhờ bao nhiêu lần, bố vẫn mãi không cho tôi sống một mình.",
+      "why": "**なかなか + 〜ない** = mãi mà không (dù đã cố). できるだけ đi với ý chí khẳng định (できるだけ早く); すっかり = hoàn toàn (thường khẳng định: すっかり忘れた); のびのび = thoải mái — không hợp với phủ định này."
+    },
+    {
+      "id": "g14-t11",
+      "kind": "formation",
+      "ref": "g14-w88",
+      "q": "{共働|ともばたら}きの{社員|しゃいん}のために、{会社|かいしゃ}の{中|なか}に{託児|たくじ}（　　）が{作|つく}られた。",
+      "options": [
+        "館",
+        "場",
+        "園",
+        "所"
+      ],
+      "answer": 3,
+      "vi": "Công ty đã mở một nơi giữ trẻ ngay trong công ty cho các nhân viên có vợ chồng cùng đi làm.",
+      "why": "託児 + **所** = 託児所 (giống 保育所). 「託児館」「託児場」「託児園」 không dùng; 〜園 đi với 幼稚園・保育園・動物園."
+    },
+    {
+      "id": "g14-t12",
+      "kind": "formation",
+      "ref": "g14-w74",
+      "q": "{社長|しゃちょう}の{挨拶|あいさつ}は{形式|けいしき}（　　）なもので、{心|こころ}がこもっていなかった。",
+      "options": [
+        "的",
+        "式",
+        "性",
+        "化"
+      ],
+      "answer": 0,
+      "vi": "Lời chào của giám đốc chỉ mang tính hình thức, không có chút thành ý.",
+      "why": "Cần tính từ đuôi な (〜なもの) → 形式**的** (mang tính hình thức). 形式化 (hình thức hoá) và 形式性 là danh từ, không đi với 「〜なもの」; 「形式式」 không có."
+    }
+  ]
+}

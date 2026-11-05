@@ -1,0 +1,251 @@
+{
+  "id": "d14",
+  "track": "dokkai",
+  "intro": "Bài này luyện dạng **説明書き (văn bản hướng dẫn)**: sách hướng dẫn sử dụng đồ điện, tờ hướng dẫn dùng thuốc, hướng dẫn thủ tục (trả hàng – đổi hàng, đăng ký, cấp lại), nội quy sử dụng cơ sở (bể bơi, bãi gửi xe, hộp nhận hàng của chung cư)… Đây cũng là văn bản của **問題14 情報検索**: dài, nhiều mục, nhưng bạn chỉ cần một phần nhỏ.\n\nKhác với お知らせ (thông báo một **sự kiện**: ngày nào, ở đâu), 説明書き cho biết **cách làm**: làm theo thứ tự nào, cần mang gì, ai được dùng, điều gì bị cấm, và **ngoại lệ** là gì. Câu hỏi thường là:\n- 「〜さんは、まず何をしなければならないか」 → **thứ tự các bước**.\n- 「〜の場合、どうすればいいか／いくらかかるか」 → **áp điều kiện** (tuổi, loại hàng, đã trả tiền hay chưa…) vào một người cụ thể.\n- 「説明と合うものはどれか」 → kiểm từng quy định, nhất là điều cấm và ngoại lệ.\n\nVì văn bản hướng dẫn có **bố cục cố định** (使い方 → 注意 → お手入れ; 用法・用量 → してはいけないこと → 相談すること; 条件 → 送料 → 手続きの流れ), người đọc giỏi không đọc từ đầu, mà **nhảy đến đúng mục** rồi đọc thật kỹ mục đó, kể cả các dòng ※ nhỏ. Phương án nhiễu thường: **thiếu một bước / một món đồ**, **đảo thứ tự**, **dùng quy định của nhóm khác** (tuổi khác, loại hàng khác), hoặc nhầm **khuyến nghị** (〜をおすすめします) với **bắt buộc** (〜こと).",
+  "strategy": [
+    {"title": "Bước 1 · Đọc câu hỏi, lập \"hồ sơ\" nhân vật", "body": "Trong 説明書き, cùng một quy định có thể đúng với người này mà sai với người kia. Vì vậy trước hết hãy gạch trong câu hỏi:\n- **Thuộc nhóm nào**: tuổi (13歳 → nhóm 11歳以上15歳未満), sống trong / ngoài thành phố, học sinh hay người đi làm, dùng xe đạp hay xe máy.\n- **Tình trạng của đồ vật**: hàng giảm giá hay giá thường, đã dùng chưa, có lỗi không, là hàng lạnh hay không.\n- **Thời điểm**: mấy giờ, đã qua bao lâu (\"thứ Hai gửi, thứ Sáu mới thấy\").\n- **Câu hỏi muốn gì**: 「最初に」 (bước đầu tiên), 「いくら」 (tổng tiền), 「どうすればいいか」 (cả chuỗi hành động).\n\nCâu hỏi thường đưa thông tin **gián tiếp** (số phòng thay vì tầng, tuổi thay vì nhóm, thứ trong tuần thay vì ngày) — bạn phải tự \"dịch\" sang ngôn ngữ của văn bản."},
+    {"title": "Bước 2 · Nhận ra bố cục và nhảy đến đúng mục", "body": "Mỗi loại 説明書き có những mục quen thuộc:\n- **Đồ điện**: 使い方 (các bước) → ランプ表示・故障かな?と思ったら (xử lý sự cố) → お手入れ → 安全上の注意.\n- **Thuốc**: 効能・効果 (chữa gì) → 用法・用量 (ai, mấy viên, mấy lần, cách nhau bao lâu, uống **lúc nào**: 食前 = trước bữa ăn, 食後 = sau bữa ăn, 食間 = giữa hai bữa — **không** phải “trong bữa ăn”) → 注意 / してはいけないこと (cấm tuyệt đối, thường là nơi chứa đáp án) → 相談すること (phải hỏi bác sĩ trước) → 保管.\n- **Thủ tục**: 対象・条件 → 料金・送料 → 手続きの流れ (①②③) → 必要なもの → ※ ngoại lệ.\n- **Cơ sở**: 営業時間・休館日 → 料金 → ご利用にあたって (quy định).\n\nĐọc tiêu đề các mục (chữ trong 【 】, ■, số thứ tự) trước, rồi chỉ đọc kỹ mục liên quan đến câu hỏi."},
+    {"title": "Bước 3 · Theo dõi thứ tự các bước", "body": "Câu hỏi 「まず／最初に何をするか」 hay 「正しい手順はどれか」 kiểm tra thứ tự. Hãy để ý:\n- Số thứ tự ①②③ / 1．2．3．\n- Từ nối thứ tự **ngay trong một bước**: 「電源を切っ**てから**給水」, 「記入**の上**、提出」, 「検品が終わり**次第**、返金」, 「〜**前に**」.\n- Bước bị **giấu trong ※**: 「※『炊飯』ボタンを押さないと、予約は設定されません」 → bỏ bước này là hỏng.\n- Khi có sự cố (đèn nhấp nháy, mất thẻ…), văn bản thường dẫn sang **một quy trình khác** (「下記『お手入れ』の手順で」) → bước đầu tiên là bước 1 **của quy trình đó**, không phải hành động nghe hợp lý nhất.\n\nPhương án nhiễu kiểu thứ tự: đúng tất cả các việc nhưng **đảo hai bước**, hoặc **bỏ sót một bước**.\n\nVới thủ tục vẽ thành **sơ đồ** (khung ①② nối bằng mũi tên ⇩), hãy đọc cả **chữ nằm trên mũi tên** — đó thường là điều kiện thời gian giữa hai bước (「翌日以降」 = sớm nhất là hôm sau, **không** nhận ngay trong ngày; 「〜日以内」 = quá hạn phải làm lại từ đầu). Các ô 「必要なもの」 đặt cạnh từng bước có thể **khác nhau**: lúc đăng ký cần A, lúc nhận cần A **và** B — phương án chỉ mang một món là sai."},
+    {"title": "Bước 4 · Phân biệt: bắt buộc / cấm / khuyến nghị / cần hỏi", "body": "Văn bản hướng dẫn có nhiều \"mức độ\" khác nhau, đề thi rất thích đánh tráo chúng:\n- **Bắt buộc**: 必ず〜, 〜こと, 〜が必要です, 〜してください.\n- **Cấm**: 〜ないでください, 〜しないこと, 〜禁止, 〜不可, 〜できません, 〜お受けできません.\n- **Khuyến nghị** (không bắt buộc): 〜をおすすめします, なるべく〜, 〜ほうがよい.\n- **Phải hỏi trước** (không phải cấm): 〜の人は医師または薬剤師にご相談ください.\n\nVí dụ: 「8時間以内の予約をおすすめします」 ≠ \"phải đặt trong vòng 8 tiếng\"; người bị viêm loét dạ dày ở mục 相談すること **không bị cấm** dùng thuốc, nhưng phải hỏi bác sĩ trước.\n\nĐồng thời gạch các **món cần mang** (「この連絡票 ＋ 本人確認書類」): phương án thiếu một món là sai."},
+    {"title": "Bước 5 · Soi điều kiện, ngoại lệ và con số", "body": "Mọi quy định đều có phạm vi. Kiểm tra:\n- **Phạm vi tuổi**: 以上 (gồm mốc), 以下 (gồm mốc), 未満 (không gồm mốc). 「11歳以上15歳未満」 = 11–14 tuổi; người 15 tuổi thuộc nhóm 「15歳以上」.\n- **Ngoại lệ**: ただし, ※, 〜を除く, 〜に限り, 〜のみ, 〜以外.\n- **Rẽ nhánh**: 「〜の場合は」 — lớp người A làm thế này, lớp người B làm thế kia (hàng lỗi ↔ khách đổi ý; nhận tại nhà ↔ nhận tại văn phòng).\n- **Thời gian**: 〜以内, 〜日前から前日まで, 最長〜時間, 〜単位, 「1時間未満も1時間とします」.\n- **Tiền**: ai trả (当社負担 / お客様負担; 着払い = bên nhận trả, 元払い = bên gửi trả), cộng thêm phí (再発行手数料, 超過料金, 帽子代…).\n\nVới câu hỏi tính tiền, ghi ra nháp **từng khoản** rồi cộng — phương án nhiễu thường là kết quả của việc **quên một khoản** hoặc **dùng nhầm bảng giá của nhóm khác**."},
+    {"title": "Bước 6 · Loại phương án theo từng mảnh", "body": "Tách mỗi phương án thành: **làm gì – khi nào – ở đâu – mang gì – trả bao nhiêu**, rồi đối chiếu từng mảnh với dòng tương ứng. Các bẫy hay gặp:\n- **Sai nhánh**: dùng quy định của nhóm tuổi / loại hàng / loại vé khác.\n- **Bỏ qua ngoại lệ**: chọn quy định chung trong khi nhân vật thuộc trường hợp ただし／※.\n- **Thiếu bước / thiếu món**: \"chỉ mang thẻ\" trong khi cần thẻ + giấy tờ tuỳ thân.\n- **Đảo thứ tự**: gửi hàng trước rồi mới đăng ký.\n- **Nhầm mức độ**: biến \"khuyến nghị\" thành \"bắt buộc\", \"cần hỏi bác sĩ\" thành \"cấm\".\n- **Thêm điều không có**: \"được hoàn tiền\", \"gọi điện là được\" — nghe hợp lý nhưng văn bản không viết.\n\nNếu còn phân vân giữa hai phương án, quay lại câu hỏi xem mình đã dùng **hết** chi tiết trong \"hồ sơ\" nhân vật chưa — mỗi chi tiết thường dùng để loại một phương án."}
+  ],
+  "signals": [
+    {"ja": "〜の{上|うえ}(で)", "vi": "sau khi… rồi (mới)", "note": "Thứ tự bắt buộc. 「{申込書|もうしこみしょ}にご{記入|きにゅう}の{上|うえ}、お{持|も}ちください」 = điền xong rồi mới mang đến."},
+    {"ja": "〜てから／〜た{後|あと}(で)", "vi": "sau khi…", "note": "「{電源|でんげん}を{切|き}ってから{給水|きゅうすい}してください」 → tắt điện là bước trước."},
+    {"ja": "〜{前|まえ}に／あらかじめ／{事前|じぜん}に", "vi": "trước khi… / sẵn từ trước", "note": "「{服用|ふくよう}{前|まえ}に{医師|いし}にご{相談|そうだん}ください」"},
+    {"ja": "〜{次第|しだい}", "vi": "ngay khi… (xong) thì", "note": "「{検品|けんぴん}が{終|お}わり{次第|しだい}、{返金|へんきん}します」 → hoàn tiền sau khi kiểm hàng xong, không phải ngay khi gửi."},
+    {"ja": "{必|かなら}ず〜／〜こと／〜が{必要|ひつよう}です", "vi": "nhất định phải / phải… / cần…", "note": "Mức **bắt buộc**. 「{服用|ふくよう}{間隔|かんかく}は6{時間|じかん}{以上|いじょう}おくこと」"},
+    {"ja": "〜ないでください／〜しないこと／{禁止|きんし}／{不可|ふか}", "vi": "đừng… / không được… / cấm / không được phép", "note": "Mức **cấm**. Thường kèm lý do 「〜の{原因|げんいん}になります」「〜のおそれがあります」."},
+    {"ja": "〜は{控|ひか}えてください", "vi": "xin hạn chế / tránh…", "note": "Thực chất là lời yêu cầu **đừng** làm: 「{香辛料|こうしんりょう}は{控|ひか}えてください」 → phương án “ăn đồ cay” là sai."},
+    {"ja": "〜ても{構|かま}いません", "vi": "… cũng được", "note": "Cho phép, **không** bắt buộc: 「{水|みず}は{飲|の}んでも{構|かま}いません」 → uống nước được; phương án “không được uống gì cả” là sai, “phải uống nước” cũng sai."},
+    {"ja": "〜をおすすめします／なるべく〜","vi": "khuyến nghị… / cố gắng… (nếu được)", "note": "Chỉ là **khuyến nghị**, không bắt buộc — bẫy: phương án viết thành \"phải\"."},
+    {"ja": "〜にご{相談|そうだん}ください", "vi": "hãy hỏi ý kiến…", "note": "Không phải cấm: được làm, nhưng phải hỏi trước. Phân biệt với mục してはいけないこと."},
+    {"ja": "〜に{限|かぎ}り／〜に{限|かぎ}ります／〜のみ", "vi": "chỉ… / giới hạn ở…", "note": "「{未使用|みしよう}の{商品|しょうひん}に{限|かぎ}ります」 → hàng đã dùng thì không được."},
+    {"ja": "〜を{除|のぞ}き／〜を{除|のぞ}く／〜{以外|いがい}", "vi": "trừ…, ngoài…", "note": "「({不良品|ふりょうひん}を{除|のぞ}く)」 → hàng lỗi là ngoại lệ, vẫn được đổi trả."},
+    {"ja": "{以上|いじょう}／{以下|いか}／{未満|みまん}", "vi": "từ… trở lên / từ… trở xuống / dưới… (không gồm)", "note": "「11{歳|さい}{以上|いじょう}15{歳|さい}{未満|みまん}」 = 11–14 tuổi. Người đúng 15 tuổi thuộc nhóm khác."},
+    {"ja": "〜{以内|いない}／{最長|さいちょう}〜／〜{単位|たんい}", "vi": "trong vòng… / tối đa… / theo đơn vị…", "note": "「{到着|とうちゃく}{後|ご}8{日|か}{以内|いない}」「{最長|さいちょう}13{時間|じかん}」「10{分|ぷん}{単位|たんい}」 — luôn hỏi: tính **từ lúc nào**?"},
+    {"ja": "〜{場合|ばあい}は", "vi": "trong trường hợp…", "note": "Rẽ nhánh: 「{不良品|ふりょうひん}の{場合|ばあい}」↔「お{客様|きゃくさま}のご{都合|つごう}の{場合|ばあい}」. Xác định nhân vật thuộc nhánh nào."},
+    {"ja": "{当社|とうしゃ}{負担|ふたん}／お{客様|きゃくさま}{負担|ふたん}", "vi": "công ty chịu / khách chịu (chi phí)", "note": "Đi kèm {着払|ちゃくばら}い (người **nhận** trả phí gửi) và {元払|もとばら}い (người **gửi** trả)."},
+    {"ja": "{承|うけたまわ}ります／お{受|う}けできません", "vi": "(chúng tôi) xin nhận / không thể nhận", "note": "Kính ngữ của 「{受|う}け{付|つ}けます／{受|う}け{付|つ}けません」, hay gặp trong điều kiện đổi trả."}
+  ],
+  "passages": {
+    "p1": {
+      "title": "加湿器の取扱説明書",
+      "kind": "情報検索(取扱説明書)",
+      "ja": "スチーム{式|しき}{加湿器|かしつき}　KS-300　{取扱|とりあつかい}{説明書|せつめいしょ}({抜粋|ばっすい})\n\n【{使|つか}い{方|かた}】\n1．タンクを{本体|ほんたい}から{外|はず}し、{水道水|すいどうすい}を「MAX」の{線|せん}まで{入|い}れる。\n　※お{湯|ゆ}・{井戸水|いどみず}・{浄水器|じょうすいき}の{水|みず}は{使|つか}わないでください。{故障|こしょう}やカビの{原因|げんいん}になります。\n2．タンクを{本体|ほんたい}に{戻|もど}し、{電源|でんげん}プラグをコンセントに{差|さ}し{込|こ}む。\n3．「{電源|でんげん}」ボタンを{押|お}す。{運転|うんてん}ランプ({緑|みどり})が{点灯|てんとう}し、{約|やく}10{分|ぷん}{後|ご}に{蒸気|じょうき}が{出|で}{始|はじ}める。\n4．「{強|きょう}／{弱|じゃく}」ボタンで{加湿量|かしつりょう}を{選|えら}ぶ。\n\n【ランプ{表示|ひょうじ}について】\n・{給水|きゅうすい}ランプ(オレンジ)が{点灯|てんとう}：タンクの{水|みず}がなくなりました。{電源|でんげん}を{切|き}ってから{給水|きゅうすい}してください。\n・お{手入|てい}れランプ({赤|あか})が{点滅|てんめつ}：{内部|ないぶ}に{汚|よご}れがたまっています。{下記|かき}「お{手入|てい}れ」の{手順|てじゅん}で{洗浄|せんじょう}してください。\n・すべてのランプが{点滅|てんめつ}：{故障|こしょう}のおそれがあります。すぐに{使用|しよう}をやめ、{販売店|はんばいてん}にご{相談|そうだん}ください。\n\n【お{手入|てい}れ(クエン{酸|さん}{洗浄|せんじょう})】\n1．{電源|でんげん}を{切|き}ってプラグを{抜|ぬ}き、{本体|ほんたい}が{冷|さ}めるまで1{時間|じかん}{以上|いじょう}{置|お}く。\n2．タンクの{水|みず}を{捨|す}て、{付属|ふぞく}のクエン{酸|さん}1{袋|ふくろ}を{溶|と}かしたぬるま{湯|ゆ}を{入|い}れる。\n　※この{時|とき}に{限|かぎ}り、40℃{以下|いか}のぬるま{湯|ゆ}を{使|つか}ってください。\n3．タンクを{戻|もど}してプラグを{差|さ}し{込|こ}み、「お{手入|てい}れ」ボタンを3{秒|びょう}{押|お}す。{約|やく}1{時間|じかん}で{洗浄|せんじょう}が{終|お}わり、ランプが{消|き}える。\n4．タンクを{水|みず}ですすぎ、{新|あたら}しい{水道水|すいどうすい}を{入|い}れてから{運転|うんてん}を{再開|さいかい}する。\n\n【{安全上|あんぜんじょう}のご{注意|ちゅうい}】\n・{運転|うんてん}{中|ちゅう}および{停止|ていし}{後|ご}1{時間|じかん}は、{蒸気|じょうき}の{吹|ふ}き{出|だ}し{口|ぐち}に{触|ふ}れないでください。やけどの{原因|げんいん}になります。\n・{運転|うんてん}{中|ちゅう}は、{本体|ほんたい}を{持|も}ち{上|あ}げたり{動|うご}かしたりしないでください。",
+      "vi": "Máy tạo ẩm kiểu hơi nước KS-300 — Sách hướng dẫn sử dụng (trích)\n\n【Cách dùng】\n1. Tháo bình nước khỏi thân máy, đổ nước máy đến vạch \"MAX\".\n   ※ Không dùng nước nóng, nước giếng, nước qua máy lọc. Đó là nguyên nhân gây hỏng máy và nấm mốc.\n2. Lắp bình vào thân máy, cắm phích điện vào ổ.\n3. Nhấn nút \"Nguồn\". Đèn hoạt động (xanh lá) sáng, khoảng 10 phút sau hơi nước bắt đầu ra.\n4. Chọn lượng tạo ẩm bằng nút \"Mạnh/Yếu\".\n\n【Về các đèn báo】\n・Đèn cấp nước (cam) sáng: bình đã hết nước. Hãy tắt nguồn rồi mới đổ thêm nước.\n・Đèn vệ sinh (đỏ) nhấp nháy: bên trong đã đọng bẩn. Hãy làm sạch theo các bước \"Vệ sinh\" dưới đây.\n・Tất cả đèn nhấp nháy: có nguy cơ máy bị hỏng. Hãy ngừng sử dụng ngay và liên hệ cửa hàng bán.\n\n【Vệ sinh (rửa bằng axit citric)】\n1. Tắt nguồn, rút phích, để từ 1 tiếng trở lên cho đến khi thân máy nguội.\n2. Đổ nước trong bình đi, cho vào nước ấm đã hoà tan 1 gói axit citric kèm theo máy.\n   ※ Chỉ riêng lúc này, hãy dùng nước ấm dưới 40℃.\n3. Lắp bình lại, cắm phích, nhấn giữ nút \"Vệ sinh\" 3 giây. Khoảng 1 tiếng sau việc làm sạch kết thúc và đèn tắt.\n4. Tráng bình bằng nước, đổ nước máy mới vào rồi mới cho máy chạy lại.\n\n【Lưu ý an toàn】\n・Trong khi máy chạy và trong 1 tiếng sau khi tắt, không chạm vào miệng thoát hơi. Đó là nguyên nhân gây bỏng.\n・Trong khi máy chạy, không nhấc lên hay di chuyển thân máy."
+    },
+    "p2": {
+      "title": "宅配ボックスのご利用方法",
+      "kind": "情報検索(利用案内)",
+      "ja": "グリーンコート{宅配|たくはい}ボックス　ご{利用|りよう}{方法|ほうほう}\n\nこのマンションの{宅配|たくはい}ボックスは、{配達員|はいたついん}がお{荷物|にもつ}を{入|い}れ、{居住者|きょじゅうしゃ}の{方|かた}が{暗証|あんしょう}{番号|ばんごう}で{取|と}り{出|だ}すしくみです。\n\n■お{荷物|にもつ}の{受|う}け{取|と}り{方|かた}\n①{郵便受|ゆうびんう}けに{入|はい}っている「お{預|あず}かり{通知|つうち}」で、ボックスの{番号|ばんごう}と4{桁|けた}の{暗証|あんしょう}{番号|ばんごう}を{確認|かくにん}する。\n②{操作|そうさ}パネルの「{受|う}け{取|と}り」を{押|お}し、{部屋|へや}{番号|ばんごう}を{入力|にゅうりょく}する。\n③{暗証|あんしょう}{番号|ばんごう}を{入力|にゅうりょく}すると、ボックスの{扉|とびら}が{開|ひら}く。\n④お{荷物|にもつ}を{取|と}り{出|だ}したら{扉|とびら}を{閉|し}め、「{終了|しゅうりょう}」を{押|お}す。\n　※「{終了|しゅうりょう}」を{押|お}さないと、{次|つぎ}の{方|かた}がボックスを{使|つか}えません。\n\n■ご{注意|ちゅうい}\n・お{荷物|にもつ}は、お{預|あず}かりから72{時間|じかん}{以内|いない}に{取|と}り{出|だ}してください。72{時間|じかん}を{過|す}ぎたお{荷物|にもつ}は{管理|かんり}{会社|がいしゃ}が{回収|かいしゅう}し、{管理室|かんりしつ}で{保管|ほかん}します。{管理室|かんりしつ}でのお{受|う}け{取|と}りには、お{部屋|へや}の{鍵|かぎ}または{身分|みぶん}{証明書|しょうめいしょ}が{必要|ひつよう}です({管理室|かんりしつ}：{平日|へいじつ}9時〜17時)。\n・{冷蔵|れいぞう}・{冷凍|れいとう}{品|ひん}、{現金|げんきん}{書留|かきとめ}、{生|い}き{物|もの}は、{宅配|たくはい}ボックスではお{預|あず}かりできません。\n・お{預|あず}かり{通知|つうち}をなくした{場合|ばあい}は、ご{自身|じしん}でボックスを{開|ひら}けることはできません。{管理室|かんりしつ}にお{問|と}い{合|あ}わせください。\n・ボックスからの{発送|はっそう}(お{荷物|にもつ}を{送|おく}ること)は、「はやて{運輸|うんゆ}」に{限|かぎ}りご{利用|りよう}いただけます。\n\n{管理|かんり}{会社|がいしゃ}：グリーン{住宅|じゅうたく}サービス",
+      "vi": "Hộp nhận hàng Green Court — Cách sử dụng\n\nHộp nhận hàng của chung cư này hoạt động như sau: nhân viên giao hàng cho hàng vào, cư dân lấy ra bằng mã số bí mật.\n\n■ Cách nhận hàng\n① Xem \"Giấy báo giữ hàng\" trong hộp thư để xác nhận số hộp và mã bí mật 4 chữ số.\n② Nhấn \"Nhận hàng\" trên bảng điều khiển, nhập số phòng.\n③ Nhập mã bí mật thì cửa hộp sẽ mở.\n④ Lấy hàng ra xong, đóng cửa lại và nhấn \"Kết thúc\".\n   ※ Nếu không nhấn \"Kết thúc\", người sau sẽ không dùng được hộp.\n\n■ Lưu ý\n・Hãy lấy hàng ra trong vòng 72 giờ kể từ khi hàng được gửi vào hộp. Hàng quá 72 giờ sẽ được công ty quản lý thu lại và giữ ở phòng quản lý. Để nhận hàng ở phòng quản lý cần chìa khoá phòng hoặc giấy tờ tuỳ thân (phòng quản lý: ngày thường 9:00–17:00).\n・Hàng lạnh, hàng đông lạnh, thư bảo đảm chứa tiền mặt và động vật sống không thể gửi vào hộp nhận hàng.\n・Trường hợp làm mất giấy báo giữ hàng, cư dân không thể tự mở hộp. Hãy liên hệ phòng quản lý.\n・Việc gửi hàng đi từ hộp (gửi bưu kiện) chỉ dùng được với \"Vận tải Hayate\".\n\nCông ty quản lý: Green Housing Service"
+    },
+    "p3": {
+      "title": "解熱鎮痛薬の説明書",
+      "kind": "情報検索(薬の説明書)",
+      "ja": "{解熱|げねつ}{鎮痛|ちんつう}{薬|やく}「ネツナオール{錠|じょう}」\n\n【{効能|こうのう}】{頭痛|ずつう}・{歯痛|しつう}・{生理痛|せいりつう}・{発熱|はつねつ}{時|じ}の{解熱|げねつ}\n\n【{用法|ようほう}・{用量|ようりょう}】\n・15{歳|さい}{以上|いじょう}：1{回|かい}2{錠|じょう}\n・11{歳|さい}{以上|いじょう}15{歳|さい}{未満|みまん}：1{回|かい}1{錠|じょう}\n・11{歳|さい}{未満|みまん}：{服用|ふくよう}しないこと\n1{日|にち}2{回|かい}を{限度|げんど}とし、{服用|ふくよう}{間隔|かんかく}は6{時間|じかん}{以上|いじょう}おくこと。\nなるべく{空腹|くうふく}{時|じ}を{避|さ}けて、{水|みず}またはぬるま{湯|ゆ}で{服用|ふくよう}してください。\n\n【してはいけないこと】\n1．{次|つぎ}の{人|ひと}は{服用|ふくよう}しないでください。\n　(1){本剤|ほんざい}によるアレルギー{症状|しょうじょう}({発疹|ほっしん}・かゆみなど)を{起|お}こしたことがある{人|ひと}\n　(2){出産|しゅっさん}{予定日|よていび}12{週|しゅう}{以内|いない}の{妊婦|にんぷ}\n2．{服用|ふくよう}{前後|ぜんご}は{飲酒|いんしゅ}しないでください。\n3．{長期|ちょうき}{連用|れんよう}しないでください。\n\n【{相談|そうだん}すること】\n{次|つぎ}の{人|ひと}は、{服用|ふくよう}{前|まえ}に{医師|いし}または{薬剤師|やくざいし}にご{相談|そうだん}ください。\n・{胃|い}・{十二指腸|じゅうにしちょう}{潰瘍|かいよう}にかかったことがある{人|ひと}\n・{他|ほか}の{薬|くすり}を{服用|ふくよう}している{人|ひと}\n・{授乳|じゅにゅう}{中|ちゅう}の{人|ひと}\n※5{回|かい}ほど{服用|ふくよう}しても{症状|しょうじょう}がよくならない{場合|ばあい}は、{服用|ふくよう}を{中止|ちゅうし}し、{医師|いし}または{薬剤師|やくざいし}にご{相談|そうだん}ください。\n\n【{保管|ほかん}{方法|ほうほう}】\n・{直射|ちょくしゃ}{日光|にっこう}・{湿気|しっけ}を{避|さ}け、{涼|すず}しい{所|ところ}に{保管|ほかん}してください。\n・{小児|しょうに}の{手|て}の{届|とど}かない{所|ところ}に{保管|ほかん}してください。",
+      "vi": "Thuốc hạ sốt giảm đau \"Netsunaoru\" (dạng viên)\n\n【Công dụng】Đau đầu, đau răng, đau bụng kinh, hạ sốt khi bị sốt\n\n【Cách dùng, liều lượng】\n・Từ 15 tuổi trở lên: mỗi lần 2 viên\n・Từ 11 tuổi đến dưới 15 tuổi: mỗi lần 1 viên\n・Dưới 11 tuổi: không được dùng\nTối đa 2 lần một ngày, khoảng cách giữa hai lần uống phải từ 6 tiếng trở lên.\nCố gắng tránh uống lúc bụng đói, uống với nước lọc hoặc nước ấm.\n\n【Những điều không được làm】\n1. Những người sau không được dùng thuốc:\n  (1) Người từng bị dị ứng (phát ban, ngứa…) do thuốc này\n  (2) Phụ nữ mang thai trong vòng 12 tuần trước ngày dự sinh\n2. Không uống rượu bia trước và sau khi dùng thuốc.\n3. Không dùng liên tục trong thời gian dài.\n\n【Những điều cần hỏi ý kiến】\nNhững người sau hãy hỏi ý kiến bác sĩ hoặc dược sĩ trước khi dùng:\n・Người từng bị loét dạ dày, tá tràng\n・Người đang dùng thuốc khác\n・Người đang cho con bú\n※ Nếu uống khoảng 5 lần mà triệu chứng không đỡ, hãy ngừng dùng và hỏi ý kiến bác sĩ hoặc dược sĩ.\n\n【Cách bảo quản】\n・Tránh ánh nắng trực tiếp và độ ẩm, bảo quản ở nơi mát.\n・Để xa tầm tay trẻ em."
+    },
+    "p4": {
+      "title": "返品・交換について",
+      "kind": "情報検索(手続きの説明)",
+      "ja": "ファッション{通販|つうはん}「ルミエ」　{返品|へんぴん}・{交換|こうかん}について\n\n{商品|しょうひん}{到着|とうちゃく}{後|ご}8{日|か}{以内|いない}にお{手続|てつづ}きいただいた{場合|ばあい}に{限|かぎ}り、{返品|へんぴん}・{交換|こうかん}を{承|うけたまわ}ります。\n\n■{返品|へんぴん}・{交換|こうかん}の{条件|じょうけん}\n・{未使用|みしよう}で、タグが{付|つ}いた{状態|じょうたい}の{商品|しょうひん}に{限|かぎ}ります。\n・セール{品|ひん}は{交換|こうかん}のみ{可能|かのう}です。{返品|へんぴん}はお{受|う}けできません。\n・{下着|したぎ}・{水着|みずぎ}・アクセサリーは、{衛生上|えいせいじょう}の{理由|りゆう}により、{返品|へんぴん}・{交換|こうかん}をお{受|う}けできません({不良品|ふりょうひん}を{除|のぞ}く)。\n\n■{送料|そうりょう}について\n・{不良品|ふりょうひん}・{誤配送|ごはいそう}の{場合|ばあい}：{当社|とうしゃ}{負担|ふたん}({着払|ちゃくばら}いでお{送|おく}りください)\n・お{客様|きゃくさま}のご{都合|つごう}(サイズが{合|あ}わない、イメージと{違|ちが}うなど)の{場合|ばあい}：お{客様|きゃくさま}{負担|ふたん}({元払|もとばら}いでお{送|おく}りください)\n※お{客様|きゃくさま}のご{都合|つごう}による{交換|こうかん}の{場合|ばあい}は、{交換|こうかん}{商品|しょうひん}をお{送|おく}りする{際|さい}の{送料|そうりょう}(550{円|えん})もご{負担|ふたん}いただきます。\n\n■お{手続|てつづ}きの{流|なが}れ\n①マイページの「{注文|ちゅうもん}{履歴|りれき}」から「{返品|へんぴん}・{交換|こうかん}{申請|しんせい}」を{選|えら}び、{理由|りゆう}を{入力|にゅうりょく}する。\n②{当社|とうしゃ}から{届|とど}く「{受付|うけつけ}{完了|かんりょう}メール」に{記載|きさい}された{返品|へんぴん}{番号|ばんごう}を、{納品書|のうひんしょ}に{書|か}き{込|こ}む。\n③{納品書|のうひんしょ}と{一緒|いっしょ}に{商品|しょうひん}を{梱包|こんぽう}し、メール{受信|じゅしん}{後|ご}7{日|か}{以内|いない}に{発送|はっそう}する。\n④{商品|しょうひん}が{当社|とうしゃ}に{届|とど}き、{検品|けんぴん}が{終|お}わり{次第|しだい}、{返金|へんきん}または{交換|こうかん}{商品|しょうひん}の{発送|はっそう}を{行|おこな}う。\n※①の{申請|しんせい}をせずにお{送|おく}りいただいた{商品|しょうひん}は、お{受|う}け{取|と}りできません。\n※{返金|へんきん}は、ご{注文|ちゅうもん}{時|じ}のお{支払|しはら}い{方法|ほうほう}で{行|おこな}います。{代金|だいきん}{引換|ひきかえ}でお{支払|しはら}いの{方|かた}には、ご{指定|してい}の{銀行|ぎんこう}{口座|こうざ}へお{振|ふ}り{込|こ}みします({振込|ふりこみ}{手数料|てすうりょう}は{当社|とうしゃ}{負担|ふたん})。",
+      "vi": "Cửa hàng thời trang trực tuyến \"Lumie\" — Về việc trả hàng, đổi hàng\n\nChúng tôi chỉ nhận trả hàng, đổi hàng khi quý khách làm thủ tục trong vòng 8 ngày sau khi nhận hàng.\n\n■ Điều kiện trả hàng, đổi hàng\n・Chỉ áp dụng với sản phẩm chưa sử dụng, còn nguyên mác.\n・Hàng giảm giá chỉ được đổi. Không nhận trả hàng.\n・Đồ lót, đồ bơi, phụ kiện trang sức: vì lý do vệ sinh, không nhận trả hay đổi (trừ hàng lỗi).\n\n■ Về phí vận chuyển\n・Hàng lỗi, giao nhầm: công ty chịu (vui lòng gửi theo hình thức người nhận trả phí – 着払い).\n・Do khách hàng (không vừa cỡ, khác với hình dung…): khách chịu (vui lòng gửi theo hình thức người gửi trả phí – 元払い).\n※ Trường hợp đổi hàng do khách hàng, quý khách cũng chịu phí vận chuyển (550 yên) khi chúng tôi gửi hàng đổi.\n\n■ Trình tự thủ tục\n① Từ \"Lịch sử đơn hàng\" trên trang cá nhân, chọn \"Yêu cầu trả/đổi hàng\" và nhập lý do.\n② Ghi mã trả hàng được ghi trong \"Email xác nhận tiếp nhận\" do chúng tôi gửi vào phiếu giao hàng.\n③ Đóng gói sản phẩm cùng phiếu giao hàng, gửi đi trong vòng 7 ngày sau khi nhận email.\n④ Ngay khi sản phẩm đến công ty và kiểm hàng xong, chúng tôi sẽ hoàn tiền hoặc gửi hàng đổi.\n※ Sản phẩm gửi đến mà chưa làm yêu cầu ở bước ① sẽ không được tiếp nhận.\n※ Tiền được hoàn theo phương thức thanh toán lúc đặt hàng. Quý khách trả tiền khi nhận hàng (COD) sẽ được chuyển khoản vào tài khoản ngân hàng chỉ định (phí chuyển khoản do công ty chịu)."
+    },
+    "p5": {
+      "title": "市民プールのご利用案内",
+      "kind": "情報検索(施設の利用案内)",
+      "ja": "みなと{市民|しみん}プール　ご{利用|りよう}{案内|あんない}\n\n【{営業|えいぎょう}{時間|じかん}】9:00〜21:00({入場|にゅうじょう}は20:00まで)\n【{休館日|きゅうかんび}】{毎週|まいしゅう}{月曜日|げつようび}({祝日|しゅくじつ}の{場合|ばあい}は{翌日|よくじつ})、12月29日〜1月3日\n\n【{利用|りよう}{料金|りょうきん}(2{時間|じかん})】\n・{一般|いっぱん}({高校生|こうこうせい}{以上|いじょう})　400{円|えん}\n・{小|しょう}・{中学生|ちゅうがくせい}　150{円|えん}\n・65{歳|さい}{以上|いじょう}の{市民|しみん}　200{円|えん}({年齢|ねんれい}と{住所|じゅうしょ}がわかるものを{受付|うけつけ}でご{提示|ていじ}ください)\n・{小学校|しょうがっこう}{入学|にゅうがく}{前|まえ}のお{子様|こさま}　{無料|むりょう}\n※2{時間|じかん}を{超|こ}えた{場合|ばあい}は、{超過|ちょうか}1{時間|じかん}ごと(1{時間|じかん}{未満|みまん}も1{時間|じかん}とします)に、{上記|じょうき}{料金|りょうきん}の{半額|はんがく}をいただきます。\n※11{回|かい}{分|ぶん}の{料金|りょうきん}で12{回|かい}{利用|りよう}できる{回数券|かいすうけん}もあります({一般|いっぱん}のみ)。\n\n【ご{利用|りよう}にあたって】\n・{水泳帽|すいえいぼう}を{必|かなら}ず{着用|ちゃくよう}してください。お{持|も}ちでない{方|かた}は、{受付|うけつけ}でお{求|もと}めいただけます(300{円|えん})。\n・{小学|しょうがく}3{年生|ねんせい}{以下|いか}のお{子様|こさま}は、{水着|みずぎ}を{着|き}た{保護者|ほごしゃ}(16{歳|さい}{以上|いじょう})の{付|つ}き{添|そ}いが{必要|ひつよう}です。{保護者|ほごしゃ}{1人|ひとり}につき、お{子様|こさま}{2人|ふたり}までとします。\n・{平日|へいじつ}17時〜19時は、スイミング{教室|きょうしつ}のため、25mプールのうち2コースのみご{利用|りよう}いただけます。\n・{飲食|いんしょく}は2{階|かい}{休憩室|きゅうけいしつ}でのみ{可能|かのう}です。プールサイドへの{飲|の}み{物|もの}の{持|も}ち{込|こ}みは、ふた{付|つ}きの{容器|ようき}に{入|はい}った{水|みず}・スポーツドリンクに{限|かぎ}ります。",
+      "vi": "Bể bơi thành phố Minato — Hướng dẫn sử dụng\n\n【Giờ mở cửa】9:00–21:00 (vào cửa đến 20:00)\n【Ngày nghỉ】Thứ Hai hằng tuần (nếu là ngày lễ thì nghỉ hôm sau), 29/12 – 3/1\n\n【Giá vé (2 tiếng)】\n・Người thường (từ học sinh cấp 3 trở lên): 400 yên\n・Học sinh tiểu học, trung học cơ sở: 150 yên\n・Cư dân thành phố từ 65 tuổi trở lên: 200 yên (vui lòng xuất trình giấy tờ cho biết tuổi và địa chỉ tại quầy)\n・Trẻ chưa vào tiểu học: miễn phí\n※ Nếu quá 2 tiếng, cứ mỗi 1 tiếng vượt (dưới 1 tiếng cũng tính là 1 tiếng) sẽ thu một nửa giá vé ở trên.\n※ Có vé tập: trả tiền 11 lần, dùng được 12 lần (chỉ cho người thường).\n\n【Khi sử dụng】\n・Nhất định phải đội mũ bơi. Ai không có có thể mua ở quầy (300 yên).\n・Trẻ từ lớp 3 tiểu học trở xuống cần có người giám hộ (từ 16 tuổi trở lên) mặc đồ bơi đi kèm. Mỗi người giám hộ kèm tối đa 2 trẻ.\n・Ngày thường 17:00–19:00 có lớp dạy bơi, nên trong bể 25m chỉ dùng được 2 làn.\n・Chỉ được ăn uống ở phòng nghỉ tầng 2. Đồ uống mang ra khu vực thành bể chỉ giới hạn ở nước lọc và nước thể thao đựng trong bình có nắp."
+    },
+    "p6": {
+      "title": "市営駐輪場 定期利用のご案内",
+      "kind": "情報検索(利用案内)",
+      "ja": "みなみ{市営|しえい}{駐輪場|ちゅうりんじょう}　{定期|ていき}{利用|りよう}のご{案内|あんない}\n\n【{対象|たいしょう}】{市内|しない}に{在住|ざいじゅう}・{在勤|ざいきん}・{在学|ざいがく}の{方|かた}\n\n【{料金|りょうきん}】\n・{自転車|じてんしゃ}({一般|いっぱん})：1か{月|げつ}2,000{円|えん}／3か{月|げつ}5,700{円|えん}\n・{自転車|じてんしゃ}({学生|がくせい})：1か{月|げつ}1,200{円|えん}／3か{月|げつ}3,400{円|えん}\n・{原付|げんつき}バイク(50cc{以下|いか})：1か{月|げつ}3,000{円|えん}\n　※{原付|げんつき}バイクには、3か{月|げつ}{券|けん}・{学生|がくせい}{料金|りょうきん}はありません。\n※{学生|がくせい}{料金|りょうきん}は、{中学生|ちゅうがくせい}{以上|いじょう}の{学生|がくせい}が{対象|たいしょう}です。お{申|もう}し{込|こ}みの{際|さい}に{学生証|がくせいしょう}をご{提示|ていじ}ください。\n\n【{新規|しんき}のお{申|もう}し{込|こ}み】\n①{駅前|えきまえ}{管理|かんり}{事務所|じむしょ}で{申込書|もうしこみしょ}に{記入|きにゅう}する。\n②{本人|ほんにん}{確認|かくにん}{書類|しょるい}を{提示|ていじ}する({市外|しがい}にお{住|す}まいで、{市内|しない}に{在勤|ざいきん}・{在学|ざいがく}の{方|かた}は、{社員証|しゃいんしょう}または{学生証|がくせいしょう}も{必要|ひつよう}です)。\n③{料金|りょうきん}を{支払|しはら}い、{定期|ていき}{利用|りよう}シールを{受|う}け{取|と}る。\n④シールを{車体|しゃたい}の{後|うし}ろの{泥|どろ}よけに{貼|は}る。\n※お{申|もう}し{込|こ}みは、{利用|りよう}{開始|かいし}{日|び}の10{日|か}{前|まえ}から{受|う}け{付|つ}けます。\n※{空|あ}きがない{場合|ばあい}は、キャンセル{待|ま}ちとなります。\n\n【{更新|こうしん}】\n・{期限|きげん}の10{日|か}{前|まえ}から{期限|きげん}の{前日|ぜんじつ}までに、{利用|りよう}{証|しょう}を{持|も}って{管理|かんり}{事務所|じむしょ}へお{越|こ}しください。\n・{期限|きげん}を{過|す}ぎると、{更新|こうしん}ではなく{新規|しんき}のお{申|もう}し{込|こ}みとなり、{空|あ}きがなければご{利用|りよう}いただけません。\n\n【その{他|た}】\n・シールを{他|ほか}の{車体|しゃたい}に{貼|は}り{替|か}えることはできません。{自転車|じてんしゃ}などを{買|か}い{替|か}えた{場合|ばあい}は、{管理|かんり}{事務所|じむしょ}でシールの{再発行|さいはっこう}({手数料|てすうりょう}300{円|えん})を{受|う}けてください。\n・シールのない{自転車|じてんしゃ}や、{指定|してい}{場所|ばしょ}{以外|いがい}に{止|と}めた{自転車|じてんしゃ}は、{警告|けいこく}の{上|うえ}、{撤去|てっきょ}することがあります。\n\n【{駅前|えきまえ}{管理|かんり}{事務所|じむしょ}】{午前|ごぜん}6時〜{午後|ごご}10時({年中|ねんじゅう}{無休|むきゅう})",
+      "vi": "Bãi gửi xe đạp thành phố Minami — Hướng dẫn gửi xe theo kỳ (vé tháng)\n\n【Đối tượng】Người sống, làm việc hoặc học tập trong thành phố\n\n【Giá】\n・Xe đạp (thường): 1 tháng 2.000 yên / 3 tháng 5.700 yên\n・Xe đạp (học sinh, sinh viên): 1 tháng 1.200 yên / 3 tháng 3.400 yên\n・Xe máy nhỏ (dưới 50cc): 1 tháng 3.000 yên\n  ※ Xe máy nhỏ không có vé 3 tháng và không có giá học sinh, sinh viên.\n※ Giá học sinh, sinh viên áp dụng cho học sinh từ cấp 2 trở lên. Vui lòng xuất trình thẻ học sinh/sinh viên khi đăng ký.\n\n【Đăng ký mới】\n① Điền đơn đăng ký tại văn phòng quản lý trước ga.\n② Xuất trình giấy tờ xác nhận bản thân (người sống ngoài thành phố nhưng làm việc hoặc học trong thành phố cần thêm thẻ nhân viên hoặc thẻ sinh viên).\n③ Trả tiền và nhận tem gửi xe theo kỳ.\n④ Dán tem lên tấm chắn bùn phía sau xe.\n※ Nhận đăng ký từ 10 ngày trước ngày bắt đầu sử dụng.\n※ Nếu hết chỗ, quý vị sẽ vào danh sách chờ.\n\n【Gia hạn】\n・Từ 10 ngày trước hạn đến ngày hôm trước ngày hết hạn, vui lòng mang giấy chứng nhận sử dụng đến văn phòng quản lý.\n・Nếu quá hạn, sẽ không phải gia hạn mà thành đăng ký mới; nếu hết chỗ thì không thể sử dụng.\n\n【Khác】\n・Không thể bóc tem dán sang xe khác. Nếu mua xe mới thay xe cũ, vui lòng làm thủ tục cấp lại tem ở văn phòng quản lý (phí 300 yên).\n・Xe không có tem hoặc xe đỗ ngoài khu vực quy định có thể bị cảnh cáo rồi di dời.\n\n【Văn phòng quản lý trước ga】6:00 sáng – 10:00 tối (mở cửa quanh năm)"
+    },
+    "p7": {
+      "title": "炊飯器の予約炊飯のしかた",
+      "kind": "情報検索(取扱説明書)",
+      "ja": "マイコン{炊飯器|すいはんき}　RC-10　{予約|よやく}{炊飯|すいはん}のしかた\n\n「{予約|よやく}」は、ご{飯|はん}が{炊|た}き{上|あ}がる{時刻|じこく}を{設定|せってい}する{機能|きのう}です。{炊|た}き{始|はじ}める{時刻|じこく}ではありませんので、ご{注意|ちゅうい}ください。\n\n【{手順|てじゅん}】\n1．{洗|あら}ったお{米|こめ}と{水|みず}を{内釜|うちがま}に{入|い}れ、{本体|ほんたい}にセットしてふたを{閉|し}める。\n2．「メニュー」ボタンで{炊|た}き{方|かた}を{選|えら}ぶ。\n3．「{予約|よやく}」ボタンを{押|お}し、「{時|じ}」「{分|ふん}」ボタンで{炊|た}き{上|あ}がり{時刻|じこく}を{合|あ}わせる(10{分|ぷん}{単位|たんい})。\n4．「{炊飯|すいはん}」ボタンを{押|お}す。{予約|よやく}ランプが{点灯|てんとう}したら{設定|せってい}{完了|かんりょう}です。\n　※「{炊飯|すいはん}」ボタンを{押|お}さないと、{予約|よやく}は{設定|せってい}されません。\n\n【{予約|よやく}できる{時間|じかん}】\n・{現在|げんざい}の{時刻|じこく}から、{最長|さいちょう}13{時間|じかん}{先|さき}まで{予約|よやく}できます。\n・{白米|はくまい}：{炊|た}き{上|あ}がり{時刻|じこく}が{現在|げんざい}から1{時間|じかん}{未満|みまん}の{場合|ばあい}は、{予約|よやく}されず、すぐに{炊飯|すいはん}を{始|はじ}めます。\n・{玄米|げんまい}：{水|みず}を{吸|す}わせるのに{時間|じかん}がかかるため、{炊|た}き{上|あ}がり{時刻|じこく}は{現在|げんざい}から2{時間|じかん}{以上|いじょう}{先|さき}に{設定|せってい}してください。\n・「{炊|た}き{込|こ}みご{飯|はん}」「おかゆ」：{具|ぐ}や{調味料|ちょうみりょう}が{傷|いた}んだり、うまく{炊|た}けなかったりするため、{予約|よやく}できません。\n\n【ご{注意|ちゅうい}】\n・{夏|なつ}など{室温|しつおん}が{高|たか}い{時期|じき}は、お{米|こめ}が{傷|いた}むことがあるため、8{時間|じかん}{以内|いない}の{予約|よやく}をおすすめします。\n・{予約|よやく}{中|ちゅう}に{停電|ていでん}したり、プラグが{抜|ぬ}けたりした{場合|ばあい}は、{予約|よやく}が{取|と}り{消|け}されます。{電気|でんき}が{戻|もど}っても{自動|じどう}では{炊飯|すいはん}を{始|はじ}めませんので、もう{一度|いちど}{設定|せってい}し{直|なお}してください。",
+      "vi": "Nồi cơm điện tử RC-10 — Cách hẹn giờ nấu\n\n\"Hẹn giờ\" là chức năng cài **thời điểm cơm chín**. Đây không phải thời điểm bắt đầu nấu, xin lưu ý.\n\n【Các bước】\n1. Cho gạo đã vo và nước vào lòng nồi, đặt vào thân nồi và đóng nắp.\n2. Chọn kiểu nấu bằng nút \"Menu\".\n3. Nhấn nút \"Hẹn giờ\", dùng nút \"Giờ\" và \"Phút\" để chỉnh thời điểm cơm chín (theo bước 10 phút).\n4. Nhấn nút \"Nấu\". Khi đèn hẹn giờ sáng là cài đặt xong.\n   ※ Nếu không nhấn nút \"Nấu\" thì hẹn giờ sẽ không được cài.\n\n【Thời gian có thể hẹn】\n・Có thể hẹn tối đa đến 13 tiếng tính từ thời điểm hiện tại.\n・Gạo trắng: nếu thời điểm cơm chín cách hiện tại dưới 1 tiếng thì sẽ không hẹn giờ mà bắt đầu nấu ngay.\n・Gạo lứt: vì cần thời gian cho gạo ngấm nước, hãy đặt thời điểm cơm chín cách hiện tại từ 2 tiếng trở lên.\n・\"Cơm trộn thập cẩm\", \"cháo\": không thể hẹn giờ, vì nguyên liệu, gia vị có thể bị hỏng hoặc nấu không ngon.\n\n【Lưu ý】\n・Vào mùa có nhiệt độ phòng cao như mùa hè, gạo có thể bị hỏng nên chúng tôi khuyến nghị hẹn trong vòng 8 tiếng.\n・Nếu trong lúc hẹn giờ bị mất điện hoặc phích cắm bị tuột, hẹn giờ sẽ bị huỷ. Kể cả khi có điện lại, nồi cũng không tự bắt đầu nấu, vì vậy hãy cài đặt lại."
+    }
+  },
+  "worked": [
+    {"id": "d14-w1", "kind": "passage", "pass": "p1",
+     "q": "{加湿器|かしつき}を{使|つか}っている{途中|とちゅう}で、{赤|あか}いランプが{点滅|てんめつ}し{始|はじ}めた。ほかのランプは{点滅|てんめつ}していない。{最初|さいしょ}にしなければならないことは{何|なに}か。",
+     "options": [
+       "「お{手入|てい}れ」ボタンを3{秒|びょう}{押|お}して、{洗浄|せんじょう}を{始|はじ}める。",
+       "タンクの{水|みず}を{捨|す}てて、クエン{酸|さん}を{溶|と}かしたぬるま{湯|ゆ}を{入|い}れる。",
+       "{電源|でんげん}を{切|き}ってプラグを{抜|ぬ}き、{本体|ほんたい}が{冷|さ}めるまで1{時間|じかん}{以上|いじょう}{待|ま}つ。",
+       "{故障|こしょう}のおそれがあるので、すぐに{使用|しよう}をやめて{販売店|はんばいてん}に{相談|そうだん}する。"
+     ],
+     "answer": 2,
+     "vi": "Đang dùng máy tạo ẩm thì đèn đỏ bắt đầu nhấp nháy, các đèn khác không nhấp nháy. Việc phải làm đầu tiên là gì? → (3) Tắt nguồn, rút phích và chờ từ 1 tiếng trở lên cho đến khi máy nguội.",
+     "why": "【ランプ表示】: 「お手入れランプ(赤)が点滅：…下記『お手入れ』の手順で洗浄してください」 → chuyển sang quy trình 【お手入れ】, bước **1**: 「電源を切ってプラグを抜き、本体が冷めるまで1時間以上置く」.\n- (1) Là bước **3** của quy trình vệ sinh → sai thứ tự.\n- (2) Là bước **2** → sai thứ tự.\n- (3) **Đúng**: bước 1.\n- (4) Là xử lý khi **tất cả** các đèn nhấp nháy (すべてのランプが点滅); ở đây chỉ đèn đỏ → sai nhánh.",
+     "walkthrough": "**① Lập hồ sơ**: đèn **đỏ** nhấp nháy; các đèn **khác không** nhấp nháy (chi tiết này có mặt để loại phương án (4)). Câu hỏi: 「**最初に**」 → bước đầu tiên.\n\n**② Nhảy đến đúng mục**: sự cố về đèn → mục 【ランプ表示について】. Có ba dòng: cam sáng / đỏ nhấp nháy / tất cả nhấp nháy. Chọn dòng **đỏ nhấp nháy** — đây là bước chọn nhánh.\n\n**③ Đi theo \"mũi tên\"**: dòng đó không tự nói cách làm, mà dẫn sang 「下記『お手入れ』の手順で」. Đây là đặc điểm của 説明書き: các mục **trỏ sang nhau**. Bước đầu tiên của bạn là bước 1 của mục 【お手入れ】.\n\n**④ Đọc bước 1 cho hết câu**: 「電源を切ってプラグを抜き、本体が冷めるまで1時間以上置く」 — có ba hành động nối bằng て, và thời gian chờ \"từ 1 tiếng trở lên\". Lý do hiện ra ở 【安全上のご注意】: 「停止後1時間は…触れないでください。やけどの原因になります」.\n\n**⑤ Loại trừ**: (1) và (2) là những việc **có trong quy trình** nhưng ở bước sau — kiểu bẫy \"đúng việc, sai thứ tự\". (4) là phản ứng nghe rất hợp lý khi máy báo lỗi, nhưng nó thuộc nhánh 「すべてのランプが点滅」. Còn (3).\n\n**Bài học**: với câu hỏi 「最初に」, hãy tìm **số 1** của đúng quy trình, và cảnh giác với những phương án là bước 2, bước 3 của chính quy trình đó."},
+    {"id": "d14-w2", "kind": "passage", "pass": "p2",
+     "q": "{金曜日|きんようび}の{夜|よる}に{帰宅|きたく}すると、{月曜日|げつようび}の{夜|よる}に{預|あず}けられた{荷物|にもつ}の「お{預|あず}かり{通知|つうち}」が{郵便受|ゆうびんう}けに{入|はい}っていた。{荷物|にもつ}を{受|う}け{取|と}るにはどうすればよいか。",
+     "options": [
+       "{次|つぎ}の{平日|へいじつ}の9時から17時の{間|あいだ}に、{部屋|へや}の{鍵|かぎ}か{身分|みぶん}{証明書|しょうめいしょ}を{持|も}って{管理室|かんりしつ}へ{行|い}く。",
+       "{操作|そうさ}パネルで{部屋|へや}{番号|ばんごう}と{暗証|あんしょう}{番号|ばんごう}を{入力|にゅうりょく}し、ボックスから{取|と}り{出|だ}す。",
+       "すぐに{管理室|かんりしつ}へ{行|い}き、お{預|あず}かり{通知|つうち}を{見|み}せて{荷物|にもつ}を{受|う}け{取|と}る。",
+       "{管理|かんり}{会社|がいしゃ}に{連絡|れんらく}して、もう{一度|いちど}ボックスに{荷物|にもつ}を{入|い}れてもらう。"
+     ],
+     "answer": 0,
+     "vi": "Tối thứ Sáu về nhà thì thấy trong hộp thư có giấy báo giữ hàng cho kiện hàng được gửi vào tối thứ Hai. Để nhận hàng thì phải làm thế nào? → (1) Trong khoảng 9:00–17:00 của ngày thường tiếp theo, mang chìa khoá phòng hoặc giấy tờ tuỳ thân đến phòng quản lý.",
+     "why": "Tối thứ Hai → tối thứ Sáu ≈ **96 giờ** > 72 giờ. Dòng 【ご注意】: 「72時間を過ぎたお荷物は管理会社が回収し、管理室で保管します。管理室でのお受け取りには、お部屋の鍵または身分証明書が必要です(管理室：平日9時〜17時)」.\n- (1) **Đúng**: tối thứ Sáu phòng quản lý đã đóng → ngày thường tiếp theo; mang 鍵 hoặc 身分証明書.\n- (2) Quy trình ①〜④ chỉ dùng được **trong 72 giờ**; hàng đã bị thu về → sai nhánh.\n- (3) \"Ngay lập tức\" là tối thứ Sáu — ngoài giờ (平日9〜17時); và giấy cần mang là 鍵／身分証明書, không phải お預かり通知.\n- (4) Không có trong văn bản.",
+     "walkthrough": "**① Lập hồ sơ**: hai mốc thời gian — hàng vào hộp **tối thứ Hai**, người nhận phát hiện **tối thứ Sáu**. Đề không nói số giờ: bạn phải tự tính.\n\n**② Tìm con số trong văn bản**: mục 【ご注意】 có 「72時間以内」. Tính: thứ Hai tối → thứ Ba tối (24h) → thứ Tư (48h) → thứ Năm (72h) → thứ Sáu tối (96h). **Quá hạn.**\n\n**③ Đọc tiếp nhánh \"quá hạn\"**: 「72時間を過ぎたお荷物は…管理室で保管」 + điều kiện nhận: **mang gì** (鍵 hoặc 身分証明書) và **khi nào** (平日9時〜17時).\n\n**④ Áp thời điểm vào giờ mở cửa**: bây giờ là **tối** thứ Sáu → phòng quản lý đã đóng; thứ Bảy, Chủ nhật không phải 平日 → sớm nhất là **thứ Hai tuần sau**. Vì vậy phương án đúng nói 「次の平日の9時から17時の間に」.\n\n**⑤ Loại trừ**:\n- (2) là quy trình bình thường — bẫy cho người **không tính giờ**.\n- (3) đúng nơi nhưng sai thời điểm và sai giấy tờ (hai mảnh sai).\n- (4) bịa ra.\n\n**Bài học**: khi câu hỏi cho hai mốc thời gian, gần như chắc chắn văn bản có một **giới hạn thời gian** (以内, 〜時間) và một **giờ tiếp nhận** — bạn cần dùng cả hai."}
+  ],
+  "quiz": [
+    {"id": "d14-q1", "kind": "passage", "pass": "p3",
+     "q": "13{歳|さい}の{娘|むすめ}が{熱|ねつ}を{出|だ}したので、{朝|あさ}8時、{朝食|ちょうしょく}の{後|あと}にこの{薬|くすり}を{飲|の}ませた。{午後|ごご}1時になっても{熱|ねつ}が{下|さ}がらない。{次|つぎ}に{飲|の}ませることができるのは{何時|なんじ}からで、{何錠|なんじょう}か。",
+     "options": [
+       "{今|いま}すぐ(1時)に1{錠|じょう}",
+       "{午後|ごご}2時から1{錠|じょう}",
+       "{午後|ごご}2時から2{錠|じょう}",
+       "1{日|にち}1{回|かい}までなので、{今日|きょう}はもう{飲|の}ませられない"
+     ],
+     "answer": 1,
+     "vi": "Con gái 13 tuổi bị sốt nên lúc 8 giờ sáng, sau bữa sáng, đã cho uống thuốc này. Đến 1 giờ chiều vẫn chưa hạ sốt. Lần tiếp theo được uống từ mấy giờ, mấy viên? → (2) Từ 2 giờ chiều, 1 viên.",
+     "why": "13 tuổi → nhóm 「11歳以上15歳未満：1回1錠」. Khoảng cách: 「服用間隔は6時間以上おくこと」 → 8:00 + 6 tiếng = **14:00**. Số lần: 「1日2回を限度」 → còn được uống 1 lần nữa.\n- (1) 13:00 mới cách 5 tiếng → vi phạm 6時間以上.\n- (2) **Đúng**.\n- (3) 2 viên là liều của người **từ 15 tuổi** → sai nhóm tuổi.\n- (4) Giới hạn là **2 lần**/ngày, không phải 1."},
+    {"id": "d14-q2", "kind": "passage", "pass": "p3",
+     "q": "{次|つぎ}の{人|ひと}のうち、{医師|いし}や{薬剤師|やくざいし}に{相談|そうだん}しなくても、この{薬|くすり}を{飲|の}んでよいのは{誰|だれ}か。",
+     "options": [
+       "{以前|いぜん}この{薬|くすり}を{飲|の}んで、{体|からだ}にかゆみが{出|で}たことがある30{歳|さい}の{男性|だんせい}",
+       "3{年|ねん}{前|まえ}に{胃潰瘍|いかいよう}で{入院|にゅういん}したことがある45{歳|さい}の{女性|じょせい}",
+       "{歯|は}が{痛|いた}くて{眠|ねむ}れない18{歳|さい}の{大学生|だいがくせい}",
+       "{今夜|こんや}お{酒|さけ}を{飲|の}んだ{後|あと}で、この{薬|くすり}を{飲|の}もうと{思|おも}っている25{歳|さい}の{会社員|かいしゃいん}"
+     ],
+     "answer": 2,
+     "vi": "Trong những người sau, ai có thể uống thuốc này mà không cần hỏi bác sĩ hay dược sĩ? → (3) Sinh viên 18 tuổi bị đau răng không ngủ được.",
+     "why": "Phải kiểm từng người với hai mục 【してはいけないこと】 (cấm) và 【相談すること】 (phải hỏi trước).\n- (1) Từng bị ngứa do thuốc này → 「本剤によるアレルギー症状(発疹・かゆみなど)を起こしたことがある人」 → **cấm** dùng.\n- (2) Từng bị loét dạ dày → mục 相談すること → phải **hỏi trước** (không bị cấm, nhưng không thỏa \"không cần hỏi\").\n- (3) **Đúng**: 歯痛 nằm trong 効能, 18 tuổi → 2 viên, không thuộc nhóm cấm hay nhóm cần hỏi.\n- (4) 「服用前後は飲酒しないでください」 → uống thuốc sau khi uống rượu là **cấm**."},
+    {"id": "d14-q3", "kind": "passage", "pass": "p3",
+     "q": "この{薬|くすり}の{説明|せつめい}と{合|あ}っているものはどれか。",
+     "options": [
+       "{空腹|くうふく}{時|じ}に{飲|の}むと、よく{効|き}く。",
+       "{症状|しょうじょう}が{治|おさ}まるまで、{毎日|まいにち}{続|つづ}けて{飲|の}むのがよい。",
+       "15{歳|さい}{未満|みまん}の{子|こ}どもは、{飲|の}んではいけない。",
+       "5{回|かい}ほど{飲|の}んでもよくならないときは、{飲|の}むのをやめて{医師|いし}などに{相談|そうだん}する。"
+     ],
+     "answer": 3,
+     "vi": "Điều nào khớp với hướng dẫn của thuốc này? → (4) Nếu uống khoảng 5 lần mà không đỡ thì ngừng uống và hỏi ý kiến bác sĩ…",
+     "why": "Dòng ※ cuối mục 相談すること: 「5回ほど服用しても症状がよくならない場合は、服用を中止し、医師または薬剤師にご相談ください」.\n- (1) Ngược với 「なるべく空腹時を避けて」.\n- (2) Ngược với 「長期連用しないでください」.\n- (3) Chỉ **dưới 11 tuổi** mới không được uống; 11–14 tuổi uống 1 viên → nhầm mốc tuổi.\n- (4) **Đúng**."}
+  ],
+  "practice": [
+    {"id": "d14-p1", "kind": "passage", "pass": "p4",
+     "q": "セールで{買|か}ったセーター({未使用|みしよう}・タグ{付|つ}き)が{昨日|きのう}{届|とど}いたが、{色|いろ}がイメージと{違|ちが}った。お{金|かね}を{返|かえ}してもらいたいと{思|おも}っている。どうなるか。",
+     "options": [
+       "8{日|か}{以内|いない}に{申請|しんせい}すれば、{送料|そうりょう}を{自分|じぶん}で{払|はら}って{返品|へんぴん}できる。",
+       "{返品|へんぴん}はできないが、{送料|そうりょう}を{自分|じぶん}で{負担|ふたん}すれば、{交換|こうかん}はできる。",
+       "{不良品|ふりょうひん}ではないので、{返品|へんぴん}も{交換|こうかん}もできない。",
+       "{着払|ちゃくばら}いで{送|おく}れば、{送料|そうりょう}をかけずに{返品|へんぴん}できる。"
+     ],
+     "answer": 1,
+     "vi": "Chiếc áo len mua giảm giá (chưa dùng, còn mác) vừa đến hôm qua nhưng màu khác với hình dung. Người mua muốn được hoàn tiền. Kết quả sẽ thế nào? → (2) Không trả hàng được, nhưng nếu tự chịu phí gửi thì có thể đổi hàng.",
+     "why": "Điều kiện: 「セール品は交換のみ可能です。返品はお受けできません」 → không hoàn tiền được. Lý do \"màu khác hình dung\" = 「お客様のご都合(…イメージと違うなど)」 → 「お客様負担(元払い)」, và khi đổi còn chịu cả phí gửi hàng đổi.\n- (1) Bỏ qua quy định **hàng giảm giá** không được trả.\n- (2) **Đúng**.\n- (3) Hàng giảm giá vẫn **đổi** được; điều kiện \"chỉ hàng lỗi\" là của đồ lót / đồ bơi / phụ kiện → sai nhánh.\n- (4) 着払い (công ty trả phí) chỉ dành cho hàng lỗi / giao nhầm, và hàng giảm giá cũng không trả được."},
+    {"id": "d14-p2", "kind": "passage", "pass": "p4",
+     "q": "{届|とど}いたシャツに{汚|よご}れがついていたので、{新|あたら}しいものと{交換|こうかん}したい。{正|ただ}しい{手順|てじゅん}はどれか。",
+     "options": [
+       "{納品書|のうひんしょ}に{汚|よご}れの{場所|ばしょ}を{書|か}いて{着払|ちゃくばら}いで{商品|しょうひん}を{送|おく}り、その{後|あと}マイページで{申請|しんせい}する。",
+       "マイページで{申請|しんせい}し、メールに{書|か}かれた{返品|へんぴん}{番号|ばんごう}を{納品書|のうひんしょ}に{書|か}いて、{元払|もとばら}いで{商品|しょうひん}を{送|おく}る。",
+       "すぐに{着払|ちゃくばら}いで{商品|しょうひん}を{送|おく}り、{届|とど}いたことをメールで{確認|かくにん}してから{申請|しんせい}する。",
+       "マイページで{申請|しんせい}し、メールに{書|か}かれた{返品|へんぴん}{番号|ばんごう}を{納品書|のうひんしょ}に{書|か}いて、{着払|ちゃくばら}いで{商品|しょうひん}を{送|おく}る。"
+     ],
+     "answer": 3,
+     "vi": "Chiếc áo sơ mi nhận được bị dính bẩn nên muốn đổi cái mới. Trình tự đúng là gì? → (4) Gửi yêu cầu trên trang cá nhân, ghi mã trả hàng trong email vào phiếu giao hàng, gửi hàng theo hình thức người nhận trả phí (着払い).",
+     "why": "Áo bị bẩn → **不良品** → 「当社負担(着払いでお送りください)」. Thứ tự: ① 申請 → ② ghi 返品番号 vào 納品書 → ③ gửi. Và 「※①の申請をせずにお送りいただいた商品は、お受け取りできません」.\n- (1) **Đảo thứ tự** (gửi trước, đăng ký sau) → hàng bị từ chối.\n- (2) Thứ tự đúng nhưng **元払い** là cho trường hợp khách đổi ý → khách mất tiền oan.\n- (3) Gửi trước khi đăng ký → bị từ chối.\n- (4) **Đúng**: đúng thứ tự và đúng hình thức gửi."},
+    {"id": "d14-p3", "kind": "passage", "pass": "p4",
+     "q": "{通常|つうじょう}{価格|かかく}で{買|か}ったズボン({未使用|みしよう})のサイズが{合|あ}わなかったので、{一|ひと}つ{大|おお}きいサイズに{交換|こうかん}したい。{客|きゃく}が{負担|ふたん}する{送料|そうりょう}はどれか。",
+     "options": [
+       "{送料|そうりょう}はかからない。",
+       "{商品|しょうひん}を{店|みせ}に{送|おく}るときの{送料|そうりょう}だけ。",
+       "{商品|しょうひん}を{店|みせ}に{送|おく}るときの{送料|そうりょう}と、{交換|こうかん}{商品|しょうひん}を{送|おく}ってもらうときの{送料|そうりょう}550{円|えん}。",
+       "{交換|こうかん}{商品|しょうひん}を{送|おく}ってもらうときの{送料|そうりょう}550{円|えん}だけ。"
+     ],
+     "answer": 2,
+     "vi": "Chiếc quần mua giá thường (chưa dùng) không vừa cỡ nên muốn đổi sang cỡ lớn hơn một số. Khách phải chịu phí vận chuyển nào? → (3) Phí gửi hàng đến cửa hàng và 550 yên phí gửi hàng đổi.",
+     "why": "\"Không vừa cỡ\" = 「お客様のご都合(サイズが合わない…)」 → 「お客様負担(元払いでお送りください)」 — khách trả phí **gửi đi**. Thêm dòng ※: 「お客様のご都合による交換の場合は、交換商品をお送りする際の送料(550円)もご負担いただきます」 — chữ **も** cho biết đây là khoản **cộng thêm**.\n- (1) Nhầm với nhánh hàng lỗi.\n- (2) Quên dòng ※.\n- (3) **Đúng**: hai khoản.\n- (4) Quên rằng 元払い nghĩa là khách tự trả phí gửi đi."},
+    {"id": "d14-p4", "kind": "passage", "pass": "p5",
+     "q": "{市内|しない}に{住|す}む70{歳|さい}の{祖父|そふ}が、{小学|しょうがく}2{年生|ねんせい}と5{歳|さい}の{孫|まご}を{連|つ}れてプールに{行|い}く。{祖父|そふ}は{運転|うんてん}{免許証|めんきょしょう}を{持|も}って{行|い}く。{料金|りょうきん}と{注意|ちゅうい}として{正|ただ}しいものはどれか。",
+     "options": [
+       "{3人|さんにん}で350{円|えん}で、{祖父|そふ}も{水着|みずぎ}を{着|き}てプールに{入|はい}らなければならない。",
+       "{3人|さんにん}で350{円|えん}で、{祖父|そふ}はプールサイドで{見|み}ていればよい。",
+       "{3人|さんにん}で500{円|えん}で、{祖父|そふ}も{水着|みずぎ}を{着|き}てプールに{入|はい}らなければならない。",
+       "{3人|さんにん}で550{円|えん}で、{祖父|そふ}はプールサイドで{見|み}ていればよい。"
+     ],
+     "answer": 0,
+     "vi": "Ông 70 tuổi sống trong thành phố dẫn cháu học lớp 2 và cháu 5 tuổi đi bơi, ông mang theo bằng lái xe. Điều nào đúng về giá vé và lưu ý? → (1) Ba người 350 yên, và ông cũng phải mặc đồ bơi xuống bể.",
+     "why": "Giá: ông = 「65歳以上の市民 200円」 (bằng lái cho biết tuổi và địa chỉ), cháu lớp 2 = 「小・中学生 150円」, cháu 5 tuổi = 「小学校入学前のお子様 無料」 → 200 + 150 + 0 = **350 yên**. Lưu ý: 「小学3年生以下のお子様は、**水着を着た**保護者(16歳以上)の付き添いが必要です。保護者1人につき、お子様2人まで」 → ông kèm đúng 2 cháu, và phải mặc đồ bơi.\n- (1) **Đúng**.\n- (2) Giá đúng nhưng bỏ qua điều kiện 「水着を着た」.\n- (3) 500 = tính cháu 5 tuổi như học sinh tiểu học (150) → sai nhóm.\n- (4) 550 = tính ông theo giá người thường (400) và sai cả điều kiện đi kèm."},
+    {"id": "d14-p5", "kind": "passage", "pass": "p5",
+     "q": "{会社員|かいしゃいん}の{田中|たなか}さん(35{歳|さい})は、{水泳帽|すいえいぼう}を{持|も}っていない。{平日|へいじつ}の18時に{入場|にゅうじょう}し、2{時間|じかん}{半|はん}{泳|およ}ぐつもりだ。{全部|ぜんぶ}でいくら{必要|ひつよう}か。",
+     "options": [
+       "400{円|えん}",
+       "600{円|えん}",
+       "700{円|えん}",
+       "900{円|えん}"
+     ],
+     "answer": 3,
+     "vi": "Anh Tanaka (35 tuổi, nhân viên công ty) không có mũ bơi. Anh vào bể lúc 18 giờ ngày thường và định bơi 2 tiếng rưỡi. Tổng cộng cần bao nhiêu tiền? → (4) 900 yên.",
+     "why": "Cộng từng khoản:\n- Vé 2 tiếng, 一般: **400 yên**.\n- Vượt 30 phút: 「超過1時間ごと(1時間未満も1時間とします)に、上記料金の半額」 → 30 phút tính là 1 tiếng → 400 ÷ 2 = **200 yên**.\n- Mũ bơi: 「水泳帽を必ず着用…お持ちでない方は、受付でお求めいただけます(300円)」 → **300 yên**.\nTổng: 400 + 200 + 300 = **900 yên**.\n- (1) Chỉ tính vé.\n- (2) 600 = quên mũ bơi.\n- (3) 700 = quên phí vượt giờ (tưởng 30 phút không tính).\n- (4) **Đúng**.\nThông tin 「平日17時〜19時は…2コースのみ」 là chi tiết **gây nhiễu**, không ảnh hưởng đến tiền."}
+  ],
+  "test": [
+    {"id": "d14-t1", "kind": "passage", "pass": "p6",
+     "q": "{隣|となり}の{市|し}に{住|す}み、みなみ{市|し}の{大学|だいがく}に{通|かよ}っているハンさんは、{原付|げんつき}バイクで{駅|えき}まで{来|き}ている。この{駐輪場|ちゅうりんじょう}を3か{月|げつ}{続|つづ}けて{利用|りよう}したい。{正|ただ}しいものはどれか。",
+     "options": [
+       "{学生|がくせい}{料金|りょうきん}が{使|つか}えるので、3か{月|げつ}3,400{円|えん}で{利用|りよう}できる。",
+       "{市外|しがい}に{住|す}んでいるので、この{駐輪場|ちゅうりんじょう}の{定期|ていき}は{利用|りよう}できない。",
+       "3か{月|げつ}{券|けん}がないので、1か{月|げつ}3,000{円|えん}の{定期|ていき}を{期限|きげん}が{来|く}るたびに{更新|こうしん}する。",
+       "{学生証|がくせいしょう}を{見|み}せれば、1か{月|げつ}1,200{円|えん}で{利用|りよう}できる。"
+     ],
+     "answer": 2,
+     "vi": "Han sống ở thành phố bên cạnh, học đại học ở thành phố Minami, đi xe máy nhỏ đến ga. Han muốn dùng bãi gửi xe này liên tục 3 tháng. Điều nào đúng? → (3) Vì không có vé 3 tháng nên mua vé 1 tháng 3.000 yên và gia hạn mỗi khi hết hạn.",
+     "why": "Đối tượng: 「市内に在住・在勤・**在学**の方」 → Han học trong thành phố nên **được** dùng (khi đăng ký cần thêm 学生証). Loại xe: 原付 → 「1か月3,000円」 và 「※原付バイクには、3か月券・学生料金はありません」.\n- (1) 3.400 yên là giá **xe đạp** sinh viên → sai nhánh loại xe.\n- (2) Bỏ qua chữ 在学 trong 【対象】.\n- (3) **Đúng**.\n- (4) 1.200 yên cũng là giá **xe đạp** sinh viên; xe máy nhỏ không có giá sinh viên."},
+    {"id": "d14-t2", "kind": "passage", "pass": "p6",
+     "q": "{自転車|じてんしゃ}の{定期|ていき}{利用|りよう}の{期限|きげん}が6月30日である。{更新|こうしん}の{手続|てつづ}きができるのはいつか。",
+     "options": [
+       "6月20日から6月29日まで",
+       "6月20日から6月30日まで",
+       "6月21日から7月10日まで",
+       "7月1日から7月10日まで"
+     ],
+     "answer": 0,
+     "vi": "Hạn gửi xe đạp theo kỳ là ngày 30/6. Có thể làm thủ tục gia hạn khi nào? → (1) Từ 20/6 đến 29/6.",
+     "why": "【更新】: 「期限の10日前から期限の**前日**までに」 → 30 − 10 = **20/6**; ngày hôm trước hạn = **29/6**. Và 「期限を過ぎると、更新ではなく新規のお申し込みとなり」.\n- (1) **Đúng**.\n- (2) Ngày 30 là chính ngày hết hạn, không phải 前日 → bỏ qua chữ 前日.\n- (3)(4) Sau ngày 30 là **quá hạn** → không còn là gia hạn mà là đăng ký mới (và có thể hết chỗ)."},
+    {"id": "d14-t3", "kind": "passage", "pass": "p6",
+     "q": "{定期|ていき}{利用|りよう}{中|ちゅう}の{自転車|じてんしゃ}が{古|ふる}くなったので、{新|あたら}しい{自転車|じてんしゃ}に{買|か}い{替|か}えた。どうすればよいか。",
+     "options": [
+       "{古|ふる}い{自転車|じてんしゃ}のシールをはがして、{新|あたら}しい{自転車|じてんしゃ}に{貼|は}り{替|か}える。",
+       "{管理|かんり}{事務所|じむしょ}で、{手数料|てすうりょう}300{円|えん}を{払|はら}ってシールを{再発行|さいはっこう}してもらう。",
+       "{新規|しんき}の{申|もう}し{込|こ}みをして、{定期|ていき}の{料金|りょうきん}をもう{一度|いちど}{全額|ぜんがく}{払|はら}う。",
+       "{期限|きげん}が{切|き}れるまでは、シールのない{新|あたら}しい{自転車|じてんしゃ}をそのまま{止|と}めておく。"
+     ],
+     "answer": 1,
+     "vi": "Chiếc xe đạp đang gửi theo kỳ đã cũ nên đã mua xe mới thay. Nên làm gì? → (2) Trả phí 300 yên ở văn phòng quản lý để được cấp lại tem.",
+     "why": "【その他】: 「シールを他の車体に貼り替えることはできません。自転車などを買い替えた場合は、管理事務所でシールの再発行(手数料300円)を受けてください」.\n- (1) Bị cấm rõ ràng (貼り替えることはできません).\n- (2) **Đúng**.\n- (3) Không cần đăng ký mới và trả lại toàn bộ — chỉ mất phí 300 yên.\n- (4) 「シールのない自転車…は、警告の上、撤去することがあります」 → xe có thể bị di dời."},
+    {"id": "d14-t4", "kind": "passage", "pass": "p7",
+     "q": "{夜|よる}10時に、{翌朝|よくあさ}7時に{白米|はくまい}が{炊|た}き{上|あ}がるようにしたい。{正|ただ}しい{操作|そうさ}はどれか。",
+     "options": [
+       "「{予約|よやく}」ボタンを{押|お}して、{炊|た}き{始|はじ}める{時刻|じこく}の6時10{分|ぷん}に{合|あ}わせ、「{炊飯|すいはん}」ボタンを{押|お}す。",
+       "「{予約|よやく}」ボタンを{押|お}して7時00{分|ぷん}に{合|あ}わせ、「{炊飯|すいはん}」ボタンを{押|お}す。",
+       "「{炊飯|すいはん}」ボタンを{押|お}してから、「{予約|よやく}」ボタンを{押|お}して7時00{分|ぷん}に{合|あ}わせる。",
+       "「{予約|よやく}」ボタンを{押|お}して7時00{分|ぷん}に{合|あ}わせる。これで{設定|せってい}は{完了|かんりょう}する。"
+     ],
+     "answer": 1,
+     "vi": "Lúc 10 giờ tối, muốn cơm trắng chín lúc 7 giờ sáng hôm sau. Thao tác đúng là gì? → (2) Nhấn \"Hẹn giờ\", chỉnh 7:00, rồi nhấn \"Nấu\".",
+     "why": "Câu mở đầu: 「『予約』は、ご飯が**炊き上がる時刻**を設定する機能です。炊き始める時刻ではありません」 → đặt **7:00**. Thứ tự: bước 3 (予約 → chỉnh giờ) rồi bước 4 (炊飯), và 「※『炊飯』ボタンを押さないと、予約は設定されません」. 22:00 → 7:00 là 9 tiếng, trong giới hạn 13 tiếng.\n- (1) Đặt **giờ bắt đầu nấu** → đúng cái bẫy mà câu đầu văn bản cảnh báo.\n- (2) **Đúng**.\n- (3) **Đảo thứ tự** hai bước 3 và 4.\n- (4) **Thiếu bước**: không nhấn 炊飯 thì hẹn giờ không được cài."},
+    {"id": "d14-t5", "kind": "passage", "pass": "p7",
+     "q": "この{炊飯器|すいはんき}の{予約|よやく}について、{説明|せつめい}と{合|あ}っているものはどれか。",
+     "options": [
+       "{炊|た}き{込|こ}みご{飯|はん}は、{最長|さいちょう}13{時間|じかん}{先|さき}まで{予約|よやく}できる。",
+       "{夏|なつ}は、8{時間|じかん}{以上|いじょう}{先|さき}の{時刻|じこく}に{予約|よやく}しなければならない。",
+       "{予約|よやく}{中|ちゅう}に{停電|ていでん}しても、{電気|でんき}が{戻|もど}れば{予約|よやく}した{時刻|じこく}に{炊|た}き{上|あ}がる。",
+       "{玄米|げんまい}を{予約|よやく}するときは、{炊|た}き{上|あ}がり{時刻|じこく}を{現在|げんざい}から2{時間|じかん}{以上|いじょう}{後|あと}にする{必要|ひつよう}がある。"
+     ],
+     "answer": 3,
+     "vi": "Điều nào khớp với hướng dẫn hẹn giờ của nồi cơm này? → (4) Khi hẹn giờ nấu gạo lứt, cần đặt thời điểm cơm chín cách hiện tại từ 2 tiếng trở lên.",
+     "why": "Dòng 玄米: 「炊き上がり時刻は現在から2時間以上先に設定してください」.\n- (1) 「炊き込みご飯」「おかゆ」 → 「予約できません」; 13 tiếng là giới hạn chung → bẫy áp quy định chung cho trường hợp ngoại lệ.\n- (2) **Nhầm mức độ và đảo nghĩa**: văn bản chỉ 「8時間**以内**の予約を**おすすめします**」 — là khuyến nghị, và là \"trong vòng\" 8 tiếng chứ không phải \"từ 8 tiếng trở lên\".\n- (3) Ngược với 「予約が取り消されます。電気が戻っても自動では炊飯を始めません」.\n- (4) **Đúng**."}
+  ]
+}

@@ -1,0 +1,886 @@
+{
+  "id": "b35",
+  "track": "bunpo",
+  "intro": "Bài này trả lời một câu hỏi rất hay gặp trong 並べ替え: **mảnh nào được phép đứng ngay trước danh từ?**\n\nTrong tiếng Nhật, mọi thứ bổ nghĩa cho danh từ đều đứng **trước** danh từ (ngược với tiếng Việt). Nhưng không phải dạng nào cũng gắn thẳng vào danh từ được:\n\n- **Trợ từ** (まで, で, と, から, へ) muốn gắn vào danh từ phải **thêm の**: 東京駅までの切符. Riêng **に → への**.\n- **Cụm thay trợ từ** dạng て (にあたって, を通じて, として…) cũng **thêm の**: 親としての責任.\n- Cụm gốc **động từ** (をもとにする, に基づく, に沿う, に応じる, にわたる, による…) bổ nghĩa danh từ như động từ thường: **た形** hoặc **辞書形**: 民話をもとにした歌, 地震による津波.\n- **Nội dung** của danh từ thông tin (知らせ, うわさ, 連絡…) nối bằng **という／との**.\n- Khi danh từ có nhiều phần bổ nghĩa: cụm 「〜という」 dài đứng **xa**, tính từ / その・あの đứng **sát** danh từ.\n\n**Mẹo giải 並べ替え bài này:** tìm danh từ \"đích\" trước (thường là mảnh đứng cuối cụm hoặc mảnh kèm が／を／は), rồi hỏi: mảnh nào kết thúc bằng 〜の／〜た／〜る／〜という? Mảnh đó đứng **ngay trước** danh từ. Mảnh kết thúc bằng 〜て／〜に／〜を thì **không** thể đứng ngay trước danh từ — nó phải nối với động từ.",
+  "points": [
+    {
+      "id": "b35-1",
+      "pattern": "助詞＋の＋名詞",
+      "reading": "じょし＋の＋めいし",
+      "meaning": "Cụm 「N＋trợ từ」 muốn bổ nghĩa danh từ phải thêm の: までの・での・との・からの・への",
+      "structure": [
+        "N1 ＋ まで／で／と／から ＋ の ＋ N2",
+        "N1 ＋ に／へ ＋ (V) ＋ N2 → N1 ＋ への ＋ N2（✗ にの）",
+        "N1 ＋ を ＋ V(danh động từ) → N1 ＋ の ＋ N2（✗ をの）"
+      ],
+      "explain": "Hãy bắt đầu từ một câu có động từ: 「{東京駅|とうきょうえき}まで{行|い}く{切符|きっぷ}」 (vé đi đến ga Tokyo). Nếu muốn **bỏ động từ** cho gọn, cụm 「東京駅まで」 phải bám vào danh từ 「切符」 — và chất keo là **の**: 「東京駅**までの**切符」.\n\nQuy tắc chuyển:\n- で → **での**: {海外|かいがい}で{暮|く}らす{生活|せいかつ} → 海外での生活\n- と → **との**: {両親|りょうしん}と{話|はな}し{合|あ}う → 両親との話し合い\n- から → **からの**: {友達|ともだち}から{来|き}た{手紙|てがみ} → 友達からの手紙\n- に／へ → **への** (không có 「にの」): {母|はは}にあげる{贈|おく}り{物|もの} → 母への贈り物\n- を → không có 「をの」; dùng **の** thay: {日本語|にほんご}を{勉強|べんきょう}する → 日本語の勉強\n\nTrợ từ là thứ chỉ **quan hệ** (đến đâu, ở đâu, với ai, từ ai, cho ai); khi thêm の, quan hệ đó được giữ nguyên.",
+      "nuance": "Bỏ trợ từ chỉ còn 「の」 thì nghĩa thường bị mơ hồ: 「{先生|せんせい}の{手紙|てがみ}」 có thể là thư thầy viết hoặc thư về thầy; 「先生からの手紙」 = thư thầy gửi, 「先生への手紙」 = thư gửi thầy. Vì vậy đề N2 hay hỏi đúng trợ từ + の.",
+      "examples": [
+        {
+          "ja": "{空港|くうこう}までのバスは、{駅|えき}の{東口|ひがしぐち}から{出|で}ている。",
+          "vi": "Xe buýt đi sân bay xuất phát từ cửa Đông của nhà ga.",
+          "note": "まで + の"
+        },
+        {
+          "ja": "{海外|かいがい}での{生活|せいかつ}にもようやく{慣|な}れてきた。",
+          "vi": "Cuối cùng tôi cũng đã quen với cuộc sống ở nước ngoài.",
+          "note": "で + の"
+        },
+        {
+          "ja": "{取引先|とりひきさき}との{打|う}ち{合|あ}わせは{午後|ごご}三{時|じ}からです。",
+          "vi": "Cuộc họp với đối tác bắt đầu từ 3 giờ chiều.",
+          "note": "と + の"
+        },
+        {
+          "ja": "{先輩|せんぱい}からのアドバイスを{参考|さんこう}にして、{履歴書|りれきしょ}を{書|か}き{直|なお}した。",
+          "vi": "Tôi đã viết lại sơ yếu lý lịch dựa trên lời khuyên của đàn anh.",
+          "note": "から + の"
+        },
+        {
+          "ja": "{母|はは}への{誕生日|たんじょうび}プレゼントを{選|えら}んでいる。",
+          "vi": "Tôi đang chọn quà sinh nhật cho mẹ.",
+          "note": "に → への (✗ 母にの)"
+        },
+        {
+          "ja": "{毎朝|まいあさ}、{英語|えいご}の{勉強|べんきょう}を三十{分|ぷん}している。",
+          "vi": "Sáng nào tôi cũng học tiếng Anh 30 phút.",
+          "note": "英語を勉強する → 英語の勉強"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜への vs 〜に向けた／〜に対する",
+          "diff": "「への」 chỉ hướng / người nhận chung chung (母への手紙). 「に対する」 nhấn vào đối tượng của thái độ, hành động (客に対する態度) — xem b35-4."
+        },
+        {
+          "with": "N1のN2 (không có trợ từ)",
+          "diff": "Ngắn nhưng dễ mơ hồ. Khi quan hệ là \"từ / đến / với / ở\", người Nhật thường giữ trợ từ: 大阪からのお客様 (khách đến từ Osaka) rõ hơn 大阪のお客様 (khách người Osaka)."
+        }
+      ],
+      "mistakes": [
+        "✗ {母|はは}にのプレゼント → ○ {母|はは}へのプレゼント",
+        "✗ {大阪|おおさか}からお{客様|きゃくさま}を{案内|あんない}した (muốn nói \"dẫn khách đến từ Osaka\"; câu này lại thành \"dẫn khách đi từ Osaka\") → ○ {大阪|おおさか}からのお{客様|きゃくさま}を{案内|あんない}した",
+        "✗ {日本語|にほんご}をの{勉強|べんきょう} → ○ {日本語|にほんご}の{勉強|べんきょう}"
+      ],
+      "tip": "Trong 並べ替え, mảnh 「〜までの」「〜での」「〜との」「〜からの」「〜への」 luôn đứng **ngay trước một danh từ**. Mảnh 「〜まで」「〜で」 không có の thì phải đi với động từ."
+    },
+    {
+      "id": "b35-2",
+      "pattern": "助詞相当語＋の＋名詞（〜にあたっての・〜に際しての・〜のもとでの・〜を通じての・〜としての）",
+      "reading": "じょしそうとうご＋の＋めいし",
+      "meaning": "Cụm thay trợ từ dạng 〜て／〜として muốn bổ nghĩa danh từ thì thêm の",
+      "structure": [
+        "N ＋ にあたって／に際して ＋ の ＋ N",
+        "N ＋ のもとで ＋ の ＋ N",
+        "N ＋ を通じて／をめぐって ＋ の ＋ N",
+        "N ＋ について／にとって／に向けて ＋ の ＋ N",
+        "N ＋ として ＋ の ＋ N"
+      ],
+      "explain": "Nhiều mẫu N2 kết thúc bằng 「て」 (にあたって, に際して, のもとで, を通じて, について, に向けて…) hoặc 「として」. Chúng hoạt động như **một trợ từ dài** (助詞相当語). Vì vậy quy tắc giống b35-1: muốn gắn vào danh từ thì **thêm の**.\n\n- {就職|しゅうしょく}するにあたって{必要|ひつよう}な{準備|じゅんび} → 就職するにあたって**の**準備\n- {親|おや}として{果|は}たす{責任|せきにん} → 親として**の**責任\n- {大使館|たいしかん}を{通|つう}じて{連絡|れんらく}する → 大使館を通じて**の**連絡\n\nHình dung chữ 「て」 là **bàn tay đưa ra để nắm động từ**. Nếu phía sau không còn động từ mà là danh từ, bàn tay đó cần đeo thêm găng 「の」 mới nắm được danh từ.",
+      "nuance": "Văn phong trang trọng, gặp nhiều trong văn bản thông báo, báo chí. Một số mẫu có dạng tương đương: 「について」 → 「についての」 hoặc 「に関する」; 「に対して」 → 「に対しての」 hoặc 「に対する」.",
+      "examples": [
+        {
+          "ja": "{留学|りゅうがく}にあたっての{準備|じゅんび}は、{思|おも}ったより{大変|たいへん}だった。",
+          "vi": "Việc chuẩn bị trước khi đi du học vất vả hơn tôi nghĩ.",
+          "note": "にあたって + の"
+        },
+        {
+          "ja": "{入社|にゅうしゃ}に{際|さい}しての{手続|てつづ}きについて{説明|せつめい}します。",
+          "vi": "Tôi xin giải thích về các thủ tục khi vào công ty.",
+          "note": "に際して + の"
+        },
+        {
+          "ja": "{新|あたら}しい{社長|しゃちょう}のもとでの{改革|かいかく}が{始|はじ}まった。",
+          "vi": "Công cuộc cải cách dưới sự lãnh đạo của tân giám đốc đã bắt đầu.",
+          "note": "のもとで + の"
+        },
+        {
+          "ja": "インターネットを{通|つう}じての{販売|はんばい}が{売|う}り{上|あ}げの{半分|はんぶん}を{占|し}めている。",
+          "vi": "Doanh số bán qua Internet chiếm một nửa tổng doanh thu.",
+          "note": "を通じて + の"
+        },
+        {
+          "ja": "{教師|きょうし}としての{責任|せきにん}を{強|つよ}く{感|かん}じている。",
+          "vi": "Tôi cảm nhận rõ trách nhiệm của một người thầy.",
+          "note": "として + の"
+        },
+        {
+          "ja": "{環境|かんきょう}{問題|もんだい}についての{意見|いけん}を{求|もと}められた。",
+          "vi": "Tôi được hỏi ý kiến về vấn đề môi trường.",
+          "note": "について + の"
+        }
+      ],
+      "compare": [
+        {
+          "with": "Dạng て (không の)",
+          "diff": "「親として責任を果たす」 — 「として」 bổ nghĩa cho **động từ** 果たす. 「親としての責任」 — bổ nghĩa cho **danh từ** 責任. Phía sau là gì quyết định có の hay không."
+        },
+        {
+          "with": "〜に関する／〜に対する (b35-4)",
+          "diff": "Hai mẫu này có sẵn dạng 辞書形 để gắn vào danh từ, nên 「に関しての」 và 「に関する」 đều được, nhưng 「に関する」 phổ biến hơn."
+        }
+      ],
+      "mistakes": [
+        "✗ これは{留学|りゅうがく}にあたって{準備|じゅんび}のリストです → ○ これは{留学|りゅうがく}にあたっての{準備|じゅんび}のリストです",
+        "✗ これは{教師|きょうし}として{責任|せきにん}の{問題|もんだい}だ → ○ これは{教師|きょうし}としての{責任|せきにん}の{問題|もんだい}だ"
+      ],
+      "tip": "Mảnh kết thúc bằng 「〜ての」「〜としての」 phải đứng **liền trước một mảnh danh từ**. Nếu ngay sau nó là mảnh động từ thì bạn đã xếp sai."
+    },
+    {
+      "id": "b35-3",
+      "pattern": "助詞相当語のた形＋名詞（〜をもとにした・〜に基づいた・〜に沿った・〜に応じた）",
+      "reading": "じょしそうとうごのたけい＋めいし",
+      "meaning": "Mẫu gốc động từ đổi 〜て → 〜た để bổ nghĩa danh từ",
+      "structure": [
+        "N ＋ をもとにして → をもとにした ＋ N",
+        "N ＋ に基づいて → に基づいた ＋ N",
+        "N ＋ に沿って → に沿った ＋ N",
+        "N ＋ に応じて → に応じた ＋ N",
+        "N ＋ を中心として／を目的として → を中心とした／を目的とした ＋ N"
+      ],
+      "explain": "Khác với nhóm b35-2, các mẫu này được tạo từ một **động từ thật**: もとにする, {基|もと}づく, {沿|そ}う, {応|おう}じる, とする. Mà động từ thì bổ nghĩa danh từ bằng chính nó, giống 「{昨日|きのう}{買|か}った{本|ほん}」. Vì vậy chỉ cần đổi 「て」 → 「**た**」:\n\n- {民話|みんわ}をもとにして{作|つく}った{歌|うた} → 民話をもとに**した**歌\n- {経験|けいけん}に基づいて{判断|はんだん}する → 経験に基づい**た**判断\n- {計画表|けいかくひょう}に沿って{進|すす}める → 計画表に沿っ**た**進行\n- {年齢|ねんれい}に応じて{調整|ちょうせい}する → 年齢に応じ**た**調整\n\nCách phân biệt nhanh với b35-2: **bỏ chữ て, phần còn lại có phải động từ không?** 「もとにし(て)」→ もとにする ✔ (động từ) → dùng た. 「として(の)」「にとって(の)」 → không đứng một mình như động từ bình thường → dùng の.",
+      "nuance": "「に基づく」「に沿う」 cũng dùng được ở 辞書形 (に基づく判断, に沿う計画) — xem b35-4. 「〜をもとにしての」「〜に応じての」 tuy có gặp nhưng ít tự nhiên; trong đề hãy chọn dạng た.",
+      "examples": [
+        {
+          "ja": "このドラマは{実話|じつわ}をもとにした{作品|さくひん}だ。",
+          "vi": "Bộ phim truyền hình này là tác phẩm dựa trên chuyện có thật.",
+          "note": "をもとにした + N"
+        },
+        {
+          "ja": "{調査|ちょうさ}{結果|けっか}に{基|もと}づいた{提案|ていあん}なので、{説得力|せっとくりょく}がある。",
+          "vi": "Vì là đề xuất dựa trên kết quả khảo sát nên có sức thuyết phục.",
+          "note": "に基づいた + N"
+        },
+        {
+          "ja": "{会社|かいしゃ}の{方針|ほうしん}に{沿|そ}った{企画|きかく}を{考|かんが}えてください。",
+          "vi": "Hãy nghĩ một kế hoạch phù hợp với phương châm của công ty.",
+          "note": "に沿った + N"
+        },
+        {
+          "ja": "{収入|しゅうにゅう}に{応|おう}じた{税金|ぜいきん}を{納|おさ}めることになっている。",
+          "vi": "Theo quy định, mỗi người nộp thuế tương ứng với thu nhập.",
+          "note": "に応じた + N"
+        },
+        {
+          "ja": "{若者|わかもの}を{中心|ちゅうしん}としたボランティア{団体|だんたい}が{活動|かつどう}している。",
+          "vi": "Một nhóm tình nguyện chủ yếu là người trẻ đang hoạt động.",
+          "note": "を中心とした + N"
+        },
+        {
+          "ja": "{留学生|りゅうがくせい}を{対象|たいしょう}にしたアンケートを{実施|じっし}した。",
+          "vi": "Đã tiến hành một cuộc khảo sát dành cho du học sinh.",
+          "note": "を対象にした + N"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜をもとにして (dạng て)",
+          "diff": "「実話をもとにして**作られた**」 — sau là động từ. 「実話をもとに**した作品**」 — sau là danh từ."
+        },
+        {
+          "with": "〜としての (b35-2)",
+          "diff": "「として」 không đổi thành 「とした」 khi nói tư cách: 親としての責任 (✗ 親とした責任). 「とした」 chỉ dùng trong khuôn 「AをBとした」 (lấy A làm B)."
+        }
+      ],
+      "mistakes": [
+        "✗ このドラマは{実話|じつわ}をもとにして{作品|さくひん}だ。→ ○ …{実話|じつわ}をもとにした{作品|さくひん}だ。",
+        "✗ {年齢|ねんれい}に{応|おう}じの{料金|りょうきん} → ○ {年齢|ねんれい}に{応|おう}じた{料金|りょうきん}"
+      ],
+      "tip": "Trong 並べ替え: mảnh 「〜にした」「〜とした」「〜づいた」「〜沿った」「〜応じた」 đứng **liền trước danh từ**; mảnh 「〜にして」「〜づいて」 thì đi với động từ."
+    },
+    {
+      "id": "b35-4",
+      "pattern": "助詞相当語の辞書形＋名詞（〜にわたる・〜をはじめとする・〜に関する・〜に対する・〜に伴う・〜による・〜における）",
+      "reading": "じょしそうとうごのじしょけい＋めいし",
+      "meaning": "Mẫu gốc động từ dùng 辞書形 để bổ nghĩa danh từ",
+      "structure": [
+        "N ＋ にわたる ＋ N（5年にわたる工事）",
+        "N ＋ をはじめとする ＋ N",
+        "N ＋ に関する／に対する ＋ N",
+        "N ＋ にこたえる／に基づく／に沿う／に伴う ＋ N",
+        "N ＋ による ＋ N（地震による津波）",
+        "N ＋ における ＋ N（京都における会議）"
+      ],
+      "explain": "Nhóm này cũng gốc động từ (わたる, はじめとする, {関|かん}する, {対|たい}する, {伴|ともな}う, よる, おける…), nhưng khi gắn vào danh từ, dạng **từ điển (る／う)** là dạng chuẩn:\n\n- {工事|こうじ}は5{年|ねん}にわたって{続|つづ}けられた → 5年に**わたる**工事\n- {事故|じこ}{原因|げんいん}に{関|かん}して{調|しら}べる → 事故原因に**関する**調査\n- {地震|じしん}によって{津波|つなみ}が{起|お}きた → 地震に**よる**津波\n- {京都|きょうと}において{会議|かいぎ}が{開|ひら}かれた → 京都に**おける**会議\n\nCặp hay bị đánh đố nhất: **による** (✗ によっての) và **における** (văn viết; 「においての」 rất ít dùng). Hãy thuộc lòng cả cặp **て ↔ る**: にわたって↔にわたる, に関して↔に関する, に対して↔に対する, に伴って↔に伴う, によって↔による, において↔における, をはじめとして↔をはじめとする.",
+      "nuance": "「に基づく／に基づいた」, 「に沿う／に沿った」 đều đúng. 「に関しての」「に対しての」 cũng có nhưng 「に関する」「に対する」 phổ biến hơn. 「における」 là văn viết trang trọng (= での).",
+      "examples": [
+        {
+          "ja": "三{日間|かかん}にわたる{会議|かいぎ}がようやく{終|お}わった。",
+          "vi": "Cuộc họp kéo dài suốt ba ngày cuối cùng cũng kết thúc.",
+          "note": "にわたる + N"
+        },
+        {
+          "ja": "{台風|たいふう}による{被害|ひがい}は{予想|よそう}以上だった。",
+          "vi": "Thiệt hại do bão gây ra lớn hơn dự đoán.",
+          "note": "による + N"
+        },
+        {
+          "ja": "{現代|げんだい}{社会|しゃかい}における{家族|かぞく}の{役割|やくわり}について{考|かんが}える。",
+          "vi": "Suy nghĩ về vai trò của gia đình trong xã hội hiện đại.",
+          "note": "における + N (văn viết)"
+        },
+        {
+          "ja": "{東京|とうきょう}をはじめとする{大都市|だいとし}では、{家賃|やちん}が{高|たか}い。",
+          "vi": "Ở các thành phố lớn, tiêu biểu là Tokyo, tiền thuê nhà rất đắt.",
+          "note": "をはじめとする + N"
+        },
+        {
+          "ja": "{人口|じんこう}{減少|げんしょう}に{伴|ともな}う{問題|もんだい}が{各地|かくち}で{起|お}きている。",
+          "vi": "Các vấn đề đi kèm với sự suy giảm dân số đang xảy ra ở nhiều nơi.",
+          "note": "に伴う + N"
+        },
+        {
+          "ja": "{消費者|しょうひしゃ}の{要望|ようぼう}にこたえる{新商品|しんしょうひん}が{発売|はつばい}された。",
+          "vi": "Một sản phẩm mới đáp ứng mong muốn của người tiêu dùng đã được tung ra.",
+          "note": "にこたえる + N"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜による vs 〜によって",
+          "diff": "「によって」 nối với **động từ** (地震によって津波が起きた). 「による」 nối với **danh từ** (地震による津波)."
+        },
+        {
+          "with": "〜における vs 〜での",
+          "diff": "Nghĩa như nhau (ở, trong). 「における」 cứng, dùng trong văn bản học thuật, báo chí; 「での」 dùng mọi nơi."
+        }
+      ],
+      "mistakes": [
+        "✗ {地震|じしん}によっての{津波|つなみ} → ○ {地震|じしん}による{津波|つなみ}",
+        "✗ {客|きゃく}に{対|たい}して{態度|たいど}が{問題|もんだい}になった → ○ {客|きゃく}に{対|たい}する{態度|たいど}が{問題|もんだい}になった (bổ nghĩa danh từ 態度 → dạng る)",
+        "✗ {京都|きょうと}においての{会議|かいぎ} (ít dùng) → ○ {京都|きょうと}における{会議|かいぎ}"
+      ],
+      "tip": "Mảnh kết thúc bằng 「〜る／〜う」 của các mẫu trên (わたる・関する・対する・伴う・よる・おける) là **cái móc gắn vào danh từ**: sau nó phải là mảnh danh từ."
+    },
+    {
+      "id": "b35-5",
+      "pattern": "「〜という・〜との」＋名詞（内容を説明する場合）",
+      "reading": "〜という・〜との＋めいし",
+      "meaning": "Nêu nội dung của danh từ thông tin: tin rằng…, lời đồn rằng…, liên lạc rằng…",
+      "structure": [
+        "普通形（câu hoàn chỉnh）＋ という ＋ N（知らせ・うわさ・評判・話・意見・ニュース）",
+        "普通形 ＋ との ＋ N（連絡・手紙・返事・指示・意見）— văn viết"
+      ],
+      "explain": "Có những danh từ giống **chiếc phong bì**: 知らせ (tin báo), うわさ (lời đồn), {評判|ひょうばん} (tiếng tăm), 連絡 (liên lạc), 手紙, 意見, ニュース… Bên trong phong bì là **một câu hoàn chỉnh**. Để \"nhét\" câu đó vào, dùng **という** (hoặc **との**, trang trọng hơn).\n\nSo sánh hai kiểu bổ nghĩa:\n- 「{弟|おとうと}が{割|わ}った{窓|まど}ガラス」 = cái kính **mà** em trai làm vỡ (câu mô tả tấm kính — không cần という).\n- 「弟が窓ガラスを割った**という知らせ**」 = tin báo **rằng** em trai làm vỡ kính (câu là **nội dung** của tin).\n\nCách kiểm tra: dịch sang tiếng Việt được thành \"N **rằng** …\" → cần という.\n「との」 = 「という」 dạng văn viết, thường đi với lời nhắn được chuyển lại: 「〜との{連絡|れんらく}がありました」.",
+      "nuance": "Trong văn nói thân mật đôi khi bỏ という (日本が勝ったニュース), nhưng trong đề N2 dạng có 「という」 mới là đáp án chuẩn. 「との」 chủ yếu đi với danh từ **truyền đạt lời nhắn / thông tin** (連絡・手紙・返事・指示・意見・知らせ); với 評判・うわさ・話 thì 「という」 tự nhiên hơn.",
+      "examples": [
+        {
+          "ja": "{祖父|そふ}が{入院|にゅういん}したという{知|し}らせを{受|う}けて、{急|いそ}いで{実家|じっか}に{帰|かえ}った。",
+          "vi": "Nhận được tin ông nhập viện, tôi vội về quê.",
+          "note": "câu + という + 知らせ"
+        },
+        {
+          "ja": "あの{店|みせ}は、{値段|ねだん}の{割|わり}においしいという{評判|ひょうばん}だ。",
+          "vi": "Quán đó nổi tiếng là ngon so với giá tiền.",
+          "note": "という + 評判"
+        },
+        {
+          "ja": "{駅前|えきまえ}に{大型|おおがた}スーパーができるといううわさを{聞|き}いた。",
+          "vi": "Tôi nghe đồn trước ga sắp có siêu thị lớn.",
+          "note": "という + うわさ"
+        },
+        {
+          "ja": "{取引先|とりひきさき}から、{会議|かいぎ}の{日程|にってい}を{変更|へんこう}したいとの{連絡|れんらく}があった。",
+          "vi": "Đối tác liên lạc rằng họ muốn đổi lịch họp.",
+          "note": "との + 連絡 (văn công việc)"
+        },
+        {
+          "ja": "{社員|しゃいん}から、{在宅|ざいたく}{勤務|きんむ}を{増|ふ}やしてほしいという{意見|いけん}が{多|おお}く{出|で}ている。",
+          "vi": "Nhiều nhân viên đưa ra ý kiến mong tăng số ngày làm việc tại nhà.",
+          "note": "という + 意見"
+        }
+      ],
+      "compare": [
+        {
+          "with": "〜といった (b34)",
+          "diff": "「といった」 đưa **ví dụ** của một nhóm (寿司や天ぷらといった和食). 「という」 nêu **nội dung** của danh từ thông tin."
+        },
+        {
+          "with": "Bổ nghĩa thường (không という)",
+          "diff": "「田中さんが書いた手紙」 = lá thư anh Tanaka viết. 「田中さんが来るという手紙」 = lá thư báo rằng anh Tanaka sẽ đến."
+        }
+      ],
+      "mistakes": [
+        "✗ {大雨|おおあめ}が{降|ふ}るとニュース → ○ {大雨|おおあめ}が{降|ふ}るというニュース",
+        "✗ {部長|ぶちょう}が{遅|おく}れるの{連絡|れんらく} → ○ {部長|ぶちょう}が{遅|おく}れるとの{連絡|れんらく}"
+      ],
+      "tip": "Thấy danh từ thông tin (知らせ・うわさ・連絡・評判・ニュース・意見) ở cuối cụm → mảnh 「という／との」 đứng ngay trước nó, còn câu nội dung (kết thúc bằng thể thường) đứng trước 「という」."
+    },
+    {
+      "id": "b35-6",
+      "pattern": "名詞の前の順番（〜という＋形容詞／その・あの＋名詞）",
+      "reading": "めいしのまえのじゅんばん",
+      "meaning": "Nhiều phần bổ nghĩa cùng một danh từ: cụm 「という」 đứng xa, tính từ / その・あの đứng sát danh từ",
+      "structure": [
+        "[nội dung] という ＋ [い形／な形] ＋ N",
+        "[nội dung] という ＋ [その／あの／こんな] ＋ N",
+        "[cụm dài: 〜にわたる／〜に関する…] ＋ [tính từ] ＋ N"
+      ],
+      "explain": "Khi một danh từ có **hai lớp** bổ nghĩa, tiếng Nhật xếp như **búp bê Nga**: lớp **ngắn, nói về tính chất** (tính từ, その／あの) nằm **sát** danh từ; lớp **dài, nói về nội dung** (cụm という) nằm **ngoài**.\n\n- 兄が結婚する という **うれしい** 手紙 (○)\n- おばけが出る という **変な** うわさ (○)\n- 日本チームが金メダルを取った という **あの** ニュース (○)\n\nNếu đặt tính từ ra ngoài, nghĩa thường bị lệch: 「**変な**おばけが出るといううわさ」 = lời đồn rằng có **con ma kỳ quái** xuất hiện (tính từ bổ nghĩa cho \"con ma\", không cho \"lời đồn\").\n\nTiếng Việt thì ngược lại (\"lá thư **vui** báo rằng anh tôi cưới\"), nên người Việt rất hay xếp sai chỗ này.",
+      "nuance": "Quy tắc tương tự với các cụm dài khác: 「5年にわたる**大規模な**工事」, 「少子化に関する**新しい**方針」. Từ chỉ định 「この／その／あの」 bình thường đứng đầu (あの赤い車), nhưng khi có cụm という, chúng thường đứng **sau** という, sát danh từ.",
+      "examples": [
+        {
+          "ja": "{息子|むすこ}から、{第一|だいいち}{志望|しぼう}の{大学|だいがく}に{合格|ごうかく}したといううれしい{電話|でんわ}があった。",
+          "vi": "Con trai gọi điện báo tin vui là đã đỗ trường đại học nguyện vọng một.",
+          "note": "という + うれしい + N"
+        },
+        {
+          "ja": "{夜中|よなか}に{幽霊|ゆうれい}が{出|で}るという{妙|みょう}なうわさが{広|ひろ}まっている。",
+          "vi": "Có một lời đồn kỳ lạ rằng nửa đêm có ma xuất hiện đang lan ra.",
+          "note": "という + 妙な + N"
+        },
+        {
+          "ja": "{会社|かいしゃ}が{倒産|とうさん}するかもしれないという{嫌|いや}な{予感|よかん}がした。",
+          "vi": "Tôi có linh cảm chẳng lành rằng công ty có thể phá sản.",
+          "note": "という + 嫌な + 予感"
+        },
+        {
+          "ja": "{山田|やまだ}さんが{会社|かいしゃ}を{辞|や}めるというあの{話|はなし}は、{本当|ほんとう}だったらしい。",
+          "vi": "Chuyện anh Yamada nghỉ việc ấy hình như là thật.",
+          "note": "という + あの + N"
+        },
+        {
+          "ja": "{半年|はんとし}にわたる{大規模|だいきぼ}な{工事|こうじ}が、やっと{終|お}わった。",
+          "vi": "Công trình quy mô lớn kéo dài nửa năm cuối cùng cũng xong.",
+          "note": "cụm dài + tính từ + N"
+        }
+      ],
+      "compare": [
+        {
+          "with": "Trật tự tiếng Việt",
+          "diff": "Tiếng Việt: danh từ → tính từ → nội dung (\"tin **vui** rằng…\"). Tiếng Nhật: nội dung → という → tính từ → danh từ. Đảo ngược hoàn toàn."
+        },
+        {
+          "with": "Tính từ đứng đầu",
+          "diff": "Tính từ đứng đầu câu bổ nghĩa sẽ bám vào **danh từ gần nó nhất** bên trong cụm, nên nghĩa đổi: 「うれしい兄が…」 = \"người anh vui vẻ\"."
+        }
+      ],
+      "mistakes": [
+        "✗ うれしい{合格|ごうかく}したという{電話|でんわ} → ○ {合格|ごうかく}したといううれしい{電話|でんわ}",
+        "✗ {妙|みょう}な{幽霊|ゆうれい}が{出|で}るといううわさ (\"con ma kỳ lạ\") → ○ {幽霊|ゆうれい}が{出|で}るという{妙|みょう}なうわさ"
+      ],
+      "tip": "Trong 並べ替え có cả mảnh 「〜という」 và mảnh 「tính từ + N」 → thứ tự luôn là **câu nội dung → という → tính từ + N**. Mảnh 「うれしい〜」「突然の〜」 thường đứng ngay sau 「という」."
+    }
+  ],
+  "summary": [
+    {
+      "pattern": "助詞＋の＋N",
+      "meaning": "までの・での・との・からの・への",
+      "key": "に → への; không có にの／をの"
+    },
+    {
+      "pattern": "〜ての／〜としての＋N",
+      "meaning": "にあたっての・を通じての・としての…",
+      "key": "mẫu dạng て + の trước danh từ"
+    },
+    {
+      "pattern": "〜た＋N",
+      "meaning": "をもとにした・に基づいた・に沿った・に応じた",
+      "key": "gốc động từ: て → た"
+    },
+    {
+      "pattern": "〜る＋N",
+      "meaning": "にわたる・に関する・に対する・に伴う・による・における",
+      "key": "thuộc cặp によって↔による, において↔における"
+    },
+    {
+      "pattern": "〜という／との＋N",
+      "meaning": "N rằng … (nội dung)",
+      "key": "知らせ・うわさ・連絡・評判・ニュース"
+    },
+    {
+      "pattern": "〜という＋形容詞＋N",
+      "meaning": "thứ tự trước danh từ",
+      "key": "cụm という xa, tính từ / あの sát danh từ"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "b35-q1",
+      "kind": "form",
+      "ref": "b35-1",
+      "q": "{夜|よる}、{遠|とお}くに{住|す}む{友人|ゆうじん}（　　）{手紙|てがみ}を{書|か}いた。",
+      "options": [
+        "にの",
+        "への",
+        "からの",
+        "との"
+      ],
+      "answer": 1,
+      "vi": "Buổi tối, tôi đã viết thư cho người bạn sống ở xa.",
+      "why": "Người nhận + danh từ → **への**. 「にの」 không tồn tại; 「からの手紙を書く」 vô lý (thư bạn gửi thì mình không viết); 「との手紙」 không tự nhiên."
+    },
+    {
+      "id": "b35-q2",
+      "kind": "order",
+      "ref": "b35-2",
+      "q": "{子|こ}どもが{生|う}まれてから、＿＿＿ ＿＿＿ ★ ＿＿＿ {考|かんが}えるようになった。",
+      "options": [
+        "について",
+        "親",
+        "責任",
+        "としての"
+      ],
+      "order": [
+        1,
+        3,
+        2,
+        0
+      ],
+      "answer": 2,
+      "vi": "Từ khi có con, tôi bắt đầu suy nghĩ về trách nhiệm của người làm cha mẹ.",
+      "why": "子どもが生まれてから、**親 としての 責任 について** 考えるようになった → ★ = 「責任」.\n「としての」 phải đứng ngay trước danh từ 「責任」; 「について」 nối với động từ 「考える」 nên đứng cuối."
+    },
+    {
+      "id": "b35-q3",
+      "kind": "order",
+      "ref": "b35-3",
+      "q": "{年齢|ねんれい}や{体力|たいりょく}に ＿＿＿ ＿＿＿ ★ ＿＿＿ 。",
+      "options": [
+        "大切だ",
+        "続けることが",
+        "運動を",
+        "応じた"
+      ],
+      "order": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "answer": 1,
+      "vi": "Điều quan trọng là duy trì việc vận động phù hợp với tuổi tác và thể lực.",
+      "why": "年齢や体力に **応じた 運動を 続けることが 大切だ** → ★ = 「続けることが」.\n「に」 trước ô đầu → 「応じた」; 「応じた」 (dạng た) phải đứng ngay trước danh từ 「運動」."
+    },
+    {
+      "id": "b35-q4",
+      "kind": "form",
+      "ref": "b35-4",
+      "q": "{大雪|おおゆき}（　　）{交通|こうつう}の{乱|みだ}れは、{明日|あした}の{朝|あさ}まで{続|つづ}く{見込|みこ}みだ。",
+      "options": [
+        "によって",
+        "に対する",
+        "にとっての",
+        "による"
+      ],
+      "answer": 3,
+      "vi": "Tình trạng giao thông hỗn loạn do tuyết lớn dự kiến sẽ kéo dài đến sáng mai.",
+      "why": "Nguyên nhân + danh từ 「乱れ」 → **による**. 「によって」 phải nối với động từ; 「に対する」 = đối với (sai nghĩa); 「にとっての」 = xét từ lập trường của (sai nghĩa)."
+    },
+    {
+      "id": "b35-q5",
+      "kind": "order",
+      "ref": "b35-5",
+      "q": "{部長|ぶちょう}から、＿＿＿ ＿＿＿ ★ ＿＿＿ があった。",
+      "options": [
+        "との",
+        "連絡",
+        "会議に",
+        "遅れる"
+      ],
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answer": 0,
+      "vi": "Trưởng phòng đã liên lạc rằng sẽ đến họp muộn.",
+      "why": "部長から、**会議に 遅れる との 連絡** があった → ★ = 「との」.\n「会議に遅れる」 là nội dung; 「との」 nối nội dung với danh từ thông tin 「連絡」; 「連絡があった」."
+    },
+    {
+      "id": "b35-q6",
+      "kind": "order",
+      "ref": "b35-6",
+      "q": "{姉|あね}から ＿＿＿ ＿＿＿ ★ ＿＿＿ 。",
+      "options": [
+        "という",
+        "届いた",
+        "子どもが生まれた",
+        "うれしいメールが"
+      ],
+      "order": [
+        2,
+        0,
+        3,
+        1
+      ],
+      "answer": 3,
+      "vi": "Chị gái gửi đến một email vui báo rằng chị đã sinh em bé.",
+      "why": "姉から **子どもが生まれた という うれしいメールが 届いた** → ★ = 「うれしいメールが」.\nThứ tự trước danh từ: nội dung → 「という」 → tính từ 「うれしい」 sát danh từ 「メール」; động từ 「届いた」 cuối câu."
+    }
+  ],
+  "practice": [
+    {
+      "id": "b35-p1",
+      "kind": "order",
+      "ref": "b35-1",
+      "q": "{空港|くうこう} ＿＿＿ ＿＿＿ ★ ＿＿＿ {出|で}ています。",
+      "options": [
+        "駅前から",
+        "直行",
+        "までの",
+        "バスが"
+      ],
+      "order": [
+        2,
+        1,
+        3,
+        0
+      ],
+      "answer": 3,
+      "vi": "Xe buýt chạy thẳng đến sân bay xuất phát từ trước nhà ga.",
+      "why": "空港 **までの 直行 バスが 駅前から** 出ています → ★ = 「バスが」.\n「空港」 + 「までの」 + danh từ 「直行バス」; 「駅前から」 nối với động từ 「出ています」."
+    },
+    {
+      "id": "b35-p2",
+      "kind": "form",
+      "ref": "b35-1",
+      "q": "{海外|かいがい}（　　）{生活|せいかつ}が{長|なが}かったので、{日本|にほん}の{習慣|しゅうかん}を{忘|わす}れてしまった。",
+      "options": [
+        "で",
+        "での",
+        "にの",
+        "への"
+      ],
+      "answer": 1,
+      "vi": "Vì sống ở nước ngoài lâu nên tôi quên mất phong tục Nhật.",
+      "why": "Nơi chốn + danh từ 「生活」 → **での**. 「で」 không gắn thẳng vào danh từ; 「にの」 không tồn tại; 「への」 chỉ hướng (sai nghĩa)."
+    },
+    {
+      "id": "b35-p3",
+      "kind": "order",
+      "ref": "b35-2",
+      "q": "{新|あたら}しい{監督|かんとく}の ＿＿＿ ＿＿＿ ★ ＿＿＿ 。",
+      "options": [
+        "厳しい",
+        "始まった",
+        "練習が",
+        "もとでの"
+      ],
+      "order": [
+        3,
+        0,
+        2,
+        1
+      ],
+      "answer": 2,
+      "vi": "Những buổi tập khắc nghiệt dưới sự dẫn dắt của huấn luyện viên mới đã bắt đầu.",
+      "why": "新しい監督の **もとでの 厳しい 練習が 始まった** → ★ = 「練習が」.\n「監督の」 + 「もとでの」 (thêm の vì đứng trước danh từ); tính từ 「厳しい」 sát danh từ 「練習」."
+    },
+    {
+      "id": "b35-p4",
+      "kind": "order",
+      "ref": "b35-2",
+      "q": "{本日|ほんじつ}は、{工事|こうじ} ＿＿＿ ＿＿＿ ★ ＿＿＿ {説明|せつめい}いたします。",
+      "options": [
+        "ついて",
+        "注意事項に",
+        "際しての",
+        "開始に"
+      ],
+      "order": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "answer": 1,
+      "vi": "Hôm nay, tôi xin giải thích về những điều cần lưu ý khi bắt đầu thi công.",
+      "why": "本日は、工事 **開始に 際しての 注意事項に ついて** 説明いたします → ★ = 「注意事項に」.\n「開始に際しての」 + danh từ 「注意事項」; 「〜について」 nối với động từ 「説明する」."
+    },
+    {
+      "id": "b35-p5",
+      "kind": "form",
+      "ref": "b35-3",
+      "q": "この{店|みせ}は、{客|きゃく}の{予算|よさん}（　　）{料理|りょうり}が{評判|ひょうばん}だ。",
+      "options": [
+        "に応じた",
+        "に応じて",
+        "に対して",
+        "について"
+      ],
+      "answer": 0,
+      "vi": "Quán này nổi tiếng với các món ăn phù hợp với ngân sách của khách.",
+      "why": "Chỗ trống đứng trước danh từ 「料理」 (chủ ngữ của 評判だ) → dạng bổ nghĩa danh từ **に応じた**. 「に応じて」「に対して」「について」 là dạng nối với động từ, không gắn được vào 「料理が評判だ」."
+    },
+    {
+      "id": "b35-p6",
+      "kind": "order",
+      "ref": "b35-3",
+      "q": "{部長|ぶちょう}は ＿＿＿ ＿＿＿ ★ ＿＿＿ を{下|くだ}した。",
+      "options": [
+        "経験に",
+        "冷静な判断",
+        "長年の",
+        "基づいた"
+      ],
+      "order": [
+        2,
+        0,
+        3,
+        1
+      ],
+      "answer": 3,
+      "vi": "Trưởng phòng đã đưa ra một quyết định bình tĩnh dựa trên kinh nghiệm nhiều năm.",
+      "why": "部長は **長年の 経験に 基づいた 冷静な判断** を下した → ★ = 「基づいた」.\n「長年の」 + danh từ 「経験」; 「に基づいた」 đứng ngay trước danh từ 「判断」; 「判断を下す」 = đưa ra phán đoán."
+    },
+    {
+      "id": "b35-p7",
+      "kind": "order",
+      "ref": "b35-4",
+      "q": "{来週|らいしゅう}から{駅前|えきまえ}で、＿＿＿ ＿＿＿ ★ ＿＿＿ {行|おこな}われる。",
+      "options": [
+        "道路の拡張",
+        "工事が",
+        "半年",
+        "にわたる"
+      ],
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answer": 0,
+      "vi": "Từ tuần sau, trước nhà ga sẽ tiến hành công trình mở rộng đường kéo dài nửa năm.",
+      "why": "来週から駅前で、**半年 にわたる 道路の拡張 工事が** 行われる → ★ = 「道路の拡張」.\n「半年 + にわたる」 (辞書形) phải đứng ngay trước danh từ → 「道路の拡張工事」; 「工事が」 là chủ ngữ của 「行われる」. Không thể đặt 「道路の拡張」 trước 「半年」 vì giữa 「拡張」 và 「半年」 không có trợ từ nối."
+    },
+    {
+      "id": "b35-p8",
+      "kind": "order",
+      "ref": "b35-4",
+      "q": "{政府|せいふ}は{昨日|きのう}、＿＿＿ ＿＿＿ ★ ＿＿＿ 。",
+      "options": [
+        "発表した",
+        "少子化対策",
+        "方針を",
+        "に関する"
+      ],
+      "order": [
+        1,
+        3,
+        2,
+        0
+      ],
+      "answer": 2,
+      "vi": "Hôm qua chính phủ đã công bố phương châm liên quan đến các biện pháp đối phó với tình trạng giảm sinh.",
+      "why": "政府は昨日、**少子化対策 に関する 方針を 発表した** → ★ = 「方針を」.\n「N + に関する」 (辞書形) phải đứng ngay trước danh từ 「方針」; 「方針を発表した」 kết câu."
+    },
+    {
+      "id": "b35-p9",
+      "kind": "form",
+      "ref": "b35-5",
+      "q": "{明日|あした}の{試合|しあい}は{中止|ちゅうし}になる（　　）うわさが{流|なが}れている。",
+      "options": [
+        "ことの",
+        "という",
+        "ための",
+        "ほどの"
+      ],
+      "answer": 1,
+      "vi": "Đang có tin đồn rằng trận đấu ngày mai sẽ bị huỷ.",
+      "why": "「うわさ」 là danh từ thông tin, câu trước là **nội dung** của nó → **という**. 「ことの」「ための」「ほどの」 không nêu nội dung."
+    },
+    {
+      "id": "b35-p10",
+      "kind": "order",
+      "ref": "b35-5",
+      "q": "{取引先|とりひきさき}から、{契約|けいやく}の ＿＿＿ ＿＿＿ ★ ＿＿＿ が{届|とど}いた。",
+      "options": [
+        "メール",
+        "確認したい",
+        "内容を",
+        "との"
+      ],
+      "order": [
+        2,
+        1,
+        3,
+        0
+      ],
+      "answer": 3,
+      "vi": "Đối tác gửi email nói rằng họ muốn xác nhận lại nội dung hợp đồng.",
+      "why": "取引先から、契約の **内容を 確認したい との メール** が届いた → ★ = 「との」.\n「契約の」 + danh từ 「内容」; nội dung 「内容を確認したい」 + 「との」 + 「メール」."
+    },
+    {
+      "id": "b35-p11",
+      "kind": "order",
+      "ref": "b35-6",
+      "q": "{近所|きんじょ}の{山|やま}で ＿＿＿ ＿＿＿ ★ ＿＿＿ 。",
+      "options": [
+        "広まっている",
+        "クマが出た",
+        "恐ろしいうわさが",
+        "という"
+      ],
+      "order": [
+        1,
+        3,
+        2,
+        0
+      ],
+      "answer": 2,
+      "vi": "Đang lan truyền một lời đồn đáng sợ rằng ở ngọn núi gần nhà có gấu xuất hiện.",
+      "why": "近所の山で **クマが出た という 恐ろしいうわさが 広まっている** → ★ = 「恐ろしいうわさが」.\nNội dung → 「という」 → tính từ + danh từ 「恐ろしいうわさ」; 「広まっている」 cuối câu."
+    }
+  ],
+  "test": [
+    {
+      "id": "b35-t1",
+      "kind": "order",
+      "ref": "b35-1",
+      "q": "{先週|せんしゅう}、＿＿＿ ＿＿＿ ★ ＿＿＿ が{行|おこな}われた。",
+      "options": [
+        "組合",
+        "経営側と",
+        "話し合い",
+        "との"
+      ],
+      "order": [
+        1,
+        0,
+        3,
+        2
+      ],
+      "answer": 3,
+      "vi": "Tuần trước đã diễn ra cuộc đàm phán giữa phía ban giám đốc và công đoàn.",
+      "why": "先週、**経営側と 組合 との 話し合い** が行われた → ★ = 「との」.\n「AとBとの + N」: trợ từ 「と」 + 「の」 trước danh từ 「話し合い」."
+    },
+    {
+      "id": "b35-t2",
+      "kind": "order",
+      "ref": "b35-2",
+      "q": "{彼|かれ}は ＿＿＿ ＿＿＿ ★ ＿＿＿ を{持|も}って{働|はたら}いている。",
+      "options": [
+        "強い",
+        "誇り",
+        "としての",
+        "医師"
+      ],
+      "order": [
+        3,
+        2,
+        0,
+        1
+      ],
+      "answer": 0,
+      "vi": "Anh ấy làm việc với niềm tự hào mạnh mẽ của một người bác sĩ.",
+      "why": "彼は **医師 としての 強い 誇り** を持って働いている → ★ = 「強い」.\n「医師としての」 bổ nghĩa danh từ; tính từ 「強い」 đứng sát danh từ 「誇り」 (cụm dài xa, tính từ gần)."
+    },
+    {
+      "id": "b35-t3",
+      "kind": "form",
+      "ref": "b35-3",
+      "q": "{専門家|せんもんか}は、この{建物|たてもの}が{国|くに}の{基準|きじゅん}（　　）{設計|せっけい}であることを{確認|かくにん}した。",
+      "options": [
+        "に関して",
+        "に基づいた",
+        "をめぐって",
+        "に基づいて"
+      ],
+      "answer": 1,
+      "vi": "Chuyên gia đã xác nhận toà nhà này được thiết kế dựa trên tiêu chuẩn quốc gia.",
+      "why": "Chỗ trống đứng trước danh từ 「設計」 → dạng bổ nghĩa danh từ **に基づいた**. 「に基づいて」 cần động từ phía sau; 「に関して」「をめぐって」 sai nghĩa và cũng là dạng nối động từ."
+    },
+    {
+      "id": "b35-t4",
+      "kind": "order",
+      "ref": "b35-4",
+      "q": "{少子化|しょうしか}に ＿＿＿ ＿＿＿ ★ ＿＿＿ {進|すす}められている。",
+      "options": [
+        "各地で",
+        "伴う",
+        "統合が",
+        "小学校の"
+      ],
+      "order": [
+        1,
+        3,
+        2,
+        0
+      ],
+      "answer": 2,
+      "vi": "Việc sáp nhập các trường tiểu học do tình trạng giảm sinh đang được tiến hành ở nhiều nơi.",
+      "why": "少子化に **伴う 小学校の 統合が 各地で** 進められている → ★ = 「統合が」.\n「に」 trước ô đầu → 「伴う」; 「伴う」 (辞書形) + danh từ 「小学校の統合」; 「各地で」 bổ nghĩa cho 「進められている」."
+    },
+    {
+      "id": "b35-t5",
+      "kind": "order",
+      "ref": "b35-4",
+      "q": "この{本|ほん}は、{江戸|えど}{時代|じだい} ＿＿＿ ＿＿＿ ★ ＿＿＿ 。",
+      "options": [
+        "暮らしを",
+        "紹介している",
+        "における",
+        "庶民の"
+      ],
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answer": 0,
+      "vi": "Cuốn sách này giới thiệu cuộc sống của thường dân thời Edo.",
+      "why": "この本は、江戸時代 **における 庶民の 暮らしを 紹介している** → ★ = 「暮らしを」.\n「N + における」 (văn viết) + danh từ 「庶民の暮らし」; động từ 「紹介している」 cuối câu."
+    },
+    {
+      "id": "b35-t6",
+      "kind": "order",
+      "ref": "b35-5",
+      "q": "{父|ちち}が ＿＿＿ ＿＿＿ ★ ＿＿＿ 、{家族|かぞく}みんなで{喜|よろこ}んだ。",
+      "options": [
+        "受けて",
+        "知らせを",
+        "という",
+        "退院できる"
+      ],
+      "order": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "answer": 1,
+      "vi": "Nhận được tin bố có thể xuất viện, cả nhà đều vui mừng.",
+      "why": "父が **退院できる という 知らせを 受けて**、家族みんなで喜んだ → ★ = 「知らせを」.\n「父が」 + vị ngữ 「退院できる」 là nội dung; 「という」 + 「知らせ」; 「知らせを受ける」."
+    },
+    {
+      "id": "b35-t7",
+      "kind": "order",
+      "ref": "b35-6",
+      "q": "{会社|かいしゃ}が{来年|らいねん}{本社|ほんしゃ}を ＿＿＿ ＿＿＿ ★ ＿＿＿ 、{社員|しゃいん}たちは{驚|おどろ}いた。",
+      "options": [
+        "発表に",
+        "という",
+        "突然の",
+        "移転する"
+      ],
+      "order": [
+        3,
+        1,
+        2,
+        0
+      ],
+      "answer": 2,
+      "vi": "Trước thông báo đột ngột rằng công ty sẽ chuyển trụ sở chính vào năm sau, các nhân viên đều bất ngờ.",
+      "why": "会社が来年本社を **移転する という 突然の 発表に**、社員たちは驚いた → ★ = 「突然の」.\n「本社を」 cần động từ 「移転する」; nội dung → 「という」 → 「突然の」 sát danh từ 「発表」; 「〜に驚く」."
+    },
+    {
+      "id": "b35-t8",
+      "kind": "form",
+      "ref": "b35-2",
+      "q": "{環境|かんきょう}{問題|もんだい}（　　）{講演会|こうえんかい}は、{来週|らいしゅう}の{土曜日|どようび}に{開|ひら}かれます。",
+      "options": [
+        "について",
+        "にとっての",
+        "についての",
+        "をめぐって"
+      ],
+      "answer": 2,
+      "vi": "Buổi diễn thuyết về vấn đề môi trường sẽ được tổ chức vào thứ Bảy tuần sau.",
+      "why": "Chỗ trống đứng trước danh từ 「講演会」 → **についての**. 「について」「をめぐって」 là dạng nối với động từ; 「にとっての」 = xét từ lập trường của (sai nghĩa)."
+    }
+  ]
+}
