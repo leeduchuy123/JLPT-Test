@@ -22,9 +22,11 @@ export async function render(app, route) {
   applyFurigana();
   const idx = await loadIndex();
   const [sub, a, b] = route.segs;
-  if (sub === 'lesson') return lessonPage(app, idx, a, b);
-  if (sub === 'do') return runPage(app, idx, decodeURIComponent(a || ''), route.params);
-  return overview(app, idx, route.params);
+  let inner;
+  if (sub === 'lesson') { app.dataset.track = a; inner = await lessonPage(app, idx, a, b); }
+  else if (sub === 'do') { app.dataset.track = decodeURIComponent(a || '').split(':')[0]; inner = await runPage(app, idx, decodeURIComponent(a || ''), route.params); }
+  else overview(app, idx, route.params);
+  return () => { delete app.dataset.track; if (typeof inner === 'function') inner(); };
 }
 
 const trackOf = (idx, id) => idx.tracks.find(t => t.id === id);
@@ -51,6 +53,7 @@ function overview(app, idx, params) {
   let tid = params.t || localStorage.getItem(LAST_TRACK_KEY) || 'bunpo';
   if (!trackOf(idx, tid)) tid = 'bunpo';
   localStorage.setItem(LAST_TRACK_KEY, tid);
+  app.dataset.track = tid;
   const track = trackOf(idx, tid);
   const st = trackStatus(track);
   const todayTs = Date.now();
@@ -116,7 +119,7 @@ function overview(app, idx, params) {
   }
 
   app.innerHTML = `
-    <div class="row between mb">
+    <div class="row between mb study-hero">
       <div>
         <h1 style="margin-bottom:.1em">Học N2 <span class="jp muted" style="font-size:.7em">新完全マスター</span></h1>
         <p class="muted" style="margin:0">Học theo bài của sách, giải thích tiếng Việt chi tiết, ví dụ và bài tập tự soạn. Mỗi tuần 4 bài + 2 buổi 練習 + 1 まとめ問題.</p>

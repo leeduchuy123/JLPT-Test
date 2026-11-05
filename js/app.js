@@ -88,7 +88,7 @@ export function applyTheme() {
   if (t === 'light' || t === 'dark') root.setAttribute('data-theme', t); else root.removeAttribute('data-theme');
   root.classList.toggle('sys-dark', mq.matches);
   const dark = t === 'dark' || (t === 'system' && mq.matches);
-  $('meta[name="theme-color"]')?.setAttribute('content', dark ? '#141c2f' : '#1c5cab');
+  $('meta[name="theme-color"]')?.setAttribute('content', dark ? '#221c15' : '#fbf6ea');
 }
 mq.addEventListener('change', applyTheme);
 
