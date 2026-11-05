@@ -399,21 +399,128 @@ function groupByPassage(qs) {
 }
 
 /**
- * Vẽ các nhóm câu hỏi vào container.
+ * Vẽ các nhóm câu hỏi vào container dưới dạng thẻ: mỗi lần hiện một câu, chuyển ngang giữa các câu
+ * (nút ← →, dãy số câu, phím ← → / 1–4 / Enter, vuốt ngang). Câu thuộc đoạn văn hiện kèm đoạn văn của nhóm.
  * mode: 'instant' (chữa ngay khi chọn) | 'exam' (chỉ ghi lựa chọn) | 'review' (hiện đáp án + giải thích)
+ * Vẽ lại cùng container (vd. sau khi nộp bài) thì giữ nguyên câu đang xem.
  */
 function renderGroups(container, groups, { mode, answers, onAnswer, tid, startNo = 1 }) {
+  const keepIdx = container._carousel?.idx ?? 0;
+  container._carousel?.destroy();
   let no = startNo;
   container.innerHTML = '';
+  const items = []; // { q, card, wrap }
+  const stage = document.createElement('div');
+  stage.className = 'q-stage';
+  const handleAnswer = (q) => {
+    paintDots();
+    onAnswer?.(q);
+    // bài thi: chọn xong tự sang câu sau (vẫn quay lại đổi được)
+    if (mode !== 'exam') return;
+    const at = ctl.idx;
+    setTimeout(() => {
+      if (container._carousel === ctl && ctl.idx === at && items[at].q === q && at < items.length - 1) go(at + 1);
+    }, 260);
+  };
   for (const g of groups) {
     const wrap = document.createElement('div');
     wrap.className = 'q-group' + (g.passage ? ' with-passage' : '');
     if (g.passage) wrap.insertAdjacentHTML('beforeend', passageHTML(g.passage, { reveal: mode === 'review' }));
     const col = document.createElement('div');
-    for (const q of g.qs) col.appendChild(questionCard(q, no++, { mode, answers, onAnswer, tid, group: wrap }));
+    for (const q of g.qs) {
+      const card = questionCard(q, no++, { mode, answers, onAnswer: handleAnswer, tid, group: wrap });
+      col.appendChild(card);
+      items.push({ q, card, wrap });
+    }
     wrap.appendChild(col);
-    container.appendChild(wrap);
+    stage.appendChild(wrap);
   }
+  const n = items.length;
+  container.innerHTML = `
+    <div class="q-carousel">
+      <div class="navigator q-dots">${items.map((_, i) => `<button type="button" data-go="${i}" title="Câu ${i + 1}">${i + 1}</button>`).join('')}</div>
+      <div class="q-slot"></div>
+      <div class="q-pager">
+        <button type="button" class="btn btn-sm" data-step="-1">← Câu trước</button>
+        <span class="q-count small muted"></span>
+        <button type="button" class="btn btn-sm" data-step="1">Câu tiếp →</button>
+      </div>
+    </div>`;
+  const root = container.firstElementChild;
+  root.querySelector('.q-slot').replaceWith(stage);
+  const dots = [...root.querySelectorAll('[data-go]')];
+  const [prevBtn, nextBtn] = root.querySelectorAll('[data-step]');
+  const countEl = root.querySelector('.q-count');
+
+  function paintDots() {
+    items.forEach(({ q }, i) => {
+      const sel = answers[q.id];
+      const reveal = mode === 'review' || (mode === 'instant' && sel != null);
+      const d = dots[i];
+      d.classList.toggle('cur', i === ctl.idx);
+      d.classList.toggle('done', mode === 'exam' && sel != null);
+      d.classList.toggle('ok', reveal && sel === q.answer);
+      d.classList.toggle('ng', reveal && sel !== q.answer);
+    });
+    const cur = items[ctl.idx];
+    const answered = cur && answers[cur.q.id] != null;
+    prevBtn.disabled = ctl.idx === 0;
+    nextBtn.disabled = ctl.idx === n - 1;
+    nextBtn.classList.toggle('btn-primary', answered && ctl.idx < n - 1);
+    const done = items.filter(({ q }) => answers[q.id] != null).length;
+    countEl.textContent = `Câu ${ctl.idx + 1}/${n}` + (mode === 'review' ? '' : ` · đã làm ${done}`);
+  }
+
+  function go(i, { scroll = true } = {}) {
+    if (!n) return;
+    i = Math.max(0, Math.min(n - 1, i));
+    const dir = i >= ctl.idx ? 1 : -1;
+    ctl.idx = i;
+    const cur = items[i];
+    for (const it of items) {
+      it.wrap.hidden = it.wrap !== cur.wrap;
+      it.card.hidden = it.card !== cur.card;
+    }
+    cur.card.classList.remove('q-anim');
+    void cur.card.offsetWidth; // chạy lại hiệu ứng trượt
+    cur.card.style.setProperty('--dx', `${dir * 28}px`);
+    cur.card.classList.add('q-anim');
+    paintDots();
+    if (scroll && root.getBoundingClientRect().top < 70) root.scrollIntoView({ block: 'start', behavior: 'smooth' });
+  }
+
+  root.addEventListener('click', (e) => {
+    const g = e.target.closest('[data-go]');
+    if (g) { go(Number(g.dataset.go)); return; }
+    const s = e.target.closest('[data-step]');
+    if (s) go(ctl.idx + Number(s.dataset.step));
+  });
+  // vuốt ngang để chuyển câu (điện thoại)
+  let t0 = null;
+  stage.addEventListener('touchstart', (e) => { const t = e.touches[0]; t0 = { x: t.clientX, y: t.clientY }; }, { passive: true });
+  stage.addEventListener('touchend', (e) => {
+    if (!t0) return;
+    const t = e.changedTouches[0], dx = t.clientX - t0.x, dy = t.clientY - t0.y;
+    t0 = null;
+    if (Math.abs(dx) > 60 && Math.abs(dy) < 45 && !e.target.closest('.study-passage')) go(ctl.idx + (dx < 0 ? 1 : -1), { scroll: false });
+  }, { passive: true });
+  const onKey = (e) => {
+    if (!container.isConnected || container._carousel !== ctl) { ctl.destroy(); return; }
+    const tgt = e.target instanceof Element ? e.target : null;
+    if (e.ctrlKey || e.metaKey || e.altKey || tgt?.closest('input, textarea, select, [contenteditable]')) return;
+    if (document.querySelector('.modal-back')) return;
+    if (e.key === 'ArrowRight') { go(ctl.idx + 1); e.preventDefault(); }
+    else if (e.key === 'ArrowLeft') { go(ctl.idx - 1); e.preventDefault(); }
+    else if (e.key === 'Enter' && answers[items[ctl.idx].q.id] != null && !tgt?.closest('button, a')) go(ctl.idx + 1);
+    else if (/^[1-4]$/.test(e.key)) {
+      const b = items[ctl.idx].card.querySelectorAll('.opt')[Number(e.key) - 1];
+      if (b && !b.disabled) b.click();
+    }
+  };
+  document.addEventListener('keydown', onKey);
+  const ctl = { idx: 0, go, destroy: () => document.removeEventListener('keydown', onKey) };
+  container._carousel = ctl;
+  go(keepIdx < n ? keepIdx : 0, { scroll: false });
 }
 
 function questionCard(q, no, { mode, answers, onAnswer, tid, group }) {

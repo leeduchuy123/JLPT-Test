@@ -122,3 +122,17 @@ a.act-row:hover { border-color: var(--primary); background: var(--surface-2); }
 .score-big span { font-size: 1.1rem; color: var(--muted); }
 .timer.over { color: var(--warn); background: var(--warn-soft); }
 .study-today .row + .row { border-top: 1px solid var(--border); padding-top: .5rem; margin-top: .5rem; }
+
+/* ---------- Câu hỏi dạng thẻ (mỗi lần một câu, chuyển ngang) ---------- */
+.q-carousel { scroll-margin-top: 120px; }
+.q-dots { margin-bottom: .75rem; grid-template-columns: repeat(auto-fill, minmax(34px, 1fr)); }
+.q-dots button { height: 32px; cursor: pointer; }
+.q-stage { overflow-x: clip; }
+.q-stage .q-group { margin-bottom: 0; }
+.q-pager { position: sticky; bottom: calc(.5rem + env(safe-area-inset-bottom, 0px)); z-index: 5; display: flex; align-items: center; justify-content: space-between; gap: .5rem;
+  margin-top: .75rem; padding: .45rem .55rem; border: 1px solid var(--border); border-radius: var(--radius);
+  background: color-mix(in srgb, var(--surface) 94%, transparent); backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px); box-shadow: var(--shadow); }
+.q-pager .q-count { font-variant-numeric: tabular-nums; text-align: center; }
+.q-anim { animation: q-in .2s ease-out; }
+@keyframes q-in { from { opacity: 0; transform: translateX(var(--dx, 28px)); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) { .q-anim { animation: none; } }
