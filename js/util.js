@@ -116,15 +116,20 @@ export const normJa = (s) => (s || '')
 
 /** Render stem: turn ___ / ＿＿＿ blanks into a styled blank; ★ highlighted. */
 export function renderStem(text) {
-  let h = esc(text || '');
+  // [[img:URL]] = image embedded in a passage (tables / notices the source only has as pictures);
+  // pulled out first so the underline rules below can't touch "_" inside the URL
+  const imgs = [];
+  let h = esc(text || '').replace(/\[\[img:(https?:\/\/[^\s\]"]+)\]\]\n?/g, (_, u) => `\u0000${imgs.push(u) - 1}\u0000`);
   h = h.replace(/\n/g, '<br>');
   // ＿từ＿ = gạch chân từ được hỏi; ＿＿＿ = chỗ trống
   h = h.replace(/＿([^＿\s]{1,25}?)＿/g, '<u>$1</u>');
-  h = h.replace(/[＿_]{2,}/g, '<u>　　　</u>');
+  // inline-block, not underlined spaces: trailing spaces "hang" at a line wrap and the blank vanished
+  h = h.replace(/[＿_]{2,}\s*([0-9０-９]{1,2})\s*[＿_]{2,}/g, '<span class="blank">$1</span>');
+  h = h.replace(/[＿_]{2,}/g, '<span class="blank"></span>');
   h = h.replace(/(^|[^<])_([^_<]{1,25}?)_(?!\w)/g, '$1<u>$2</u>');
   h = h.replace(/（\s*）/g, '（　　）');
   h = h.replace(/★/g, '<b style="color:var(--accent)">★</b>');
-  return h;
+  return h.replace(/\u0000(\d+)\u0000/g, (_, i) => `<img class="stem-img" src="${imgs[i]}" alt="" loading="lazy">`);
 }
 
 export function avg(arr) { return arr.length ? arr.reduce((a, b) => a + b, 0) / arr.length : 0; }

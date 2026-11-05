@@ -88,6 +88,78 @@ def loose_key(q):
     return norm(q['question']) + '|' + norm(q['options'][q['answer']]) + media_key(q)
 
 
+def load_fixes():
+    path = os.path.join(ROOT, 'crawl', 'fixes.json')
+    if not os.path.exists(path):
+        return {'questions': {}, 'passages': {}}
+    with open(path, encoding='utf-8') as f:
+        data = json.load(f)
+    return {'questions': data.get('questions') or {}, 'passages': data.get('passages') or {}}
+
+
+def _replace_all(text, pairs, where, unmatched):
+    for old, new in pairs:
+        if old not in (text or ''):
+            unmatched.append(f'{where}: {old[:40]!r}')
+            continue
+        text = text.replace(old, new)
+    return text
+
+
+def apply_fixes(q, fixes, unmatched):
+    """Manual corrections from crawl/fixes.json (the raw crawl output stays untouched)."""
+    pf = fixes['passages'].get(q.get('passage_id'))
+    fx = fixes['questions'].get(q['id'])
+    if not pf and not fx:
+        return q
+    q = dict(q)
+    if pf and q.get('passage'):
+        q['passage'] = _replace_all(q['passage'], pf.get('replace') or [], q['passage_id'], unmatched)
+    if fx:
+        for field, pairs in (fx.get('replace') or {}).items():
+            q[field] = _replace_all(q.get(field), pairs, f"{q['id']}.{field}", unmatched)
+        if fx.get('options'):
+            q['options'] = list(q['options'])
+            for i, o in fx['options'].items():
+                q['options'][int(i)] = o
+        q.update(fx.get('set') or {})
+    return q
+
+
+SLOT_RUN_RE = re.compile(r'[＿★＊](?:[ 　]+[＿★＊])+')
+
+
+def _slots(m):
+    """'＿ ＿ ＊ ＿' (4 tokens) or '＿ ＿ ＿ ★ ＿ ＿ ＿ ＿ ＿' (2 tokens per slot) -> standard ★ row."""
+    toks = re.findall(r'[＿★＊]', m.group(0))
+    stars = [i for i, t in enumerate(toks) if t in '★＊']
+    if len(stars) != 1:
+        return m.group(0)
+    if len(toks) == 4:
+        k = stars[0]
+    elif len(toks) == 9:
+        k = stars[0] // 2
+    else:
+        return m.group(0)
+    return ' '.join('＿★＿' if i == k else '＿＿＿' for i in range(4))
+
+
+def normalize_stem(stem, t, source):
+    """Format fixes for stems whose blank / target markers the app can't show as-is."""
+    if t == 'grammar_form' and '★' in stem:
+        t = 'sentence_order'
+    if t == 'sentence_order':
+        stem = SLOT_RUN_RE.sub(_slots, stem)
+    elif source in FIX_SPACING:
+        stem = re.sub(r'＿(?:[ 　]+＿)+', '＿＿＿', stem)   # "＿ ＿" = one blank
+    # "sentence\nword": the asked word on its own line -> underline it in the sentence
+    if t in ('kanji_reading', 'orthography', 'paraphrase') and '＿' not in stem:
+        m = re.fullmatch(r'(.+)\n([^\n]{1,12})', stem)
+        if m and m.group(1).count(m.group(2)) == 1:
+            stem = m.group(1).replace(m.group(2), f'＿{m.group(2)}＿')
+    return stem, t
+
+
 def slug(s):
     s = unicodedata.normalize('NFKD', s)
     s = ''.join(c for c in s if not unicodedata.combining(c))
@@ -104,7 +176,7 @@ def clean_text(s):
     return s.strip()
 
 
-def load_raw():
+def load_raw(fixes, unmatched):
     questions = []
     # tier A sources first so that, when a duplicate exists, the exam-derived copy is the one kept
     paths = sorted(glob.glob(os.path.join(RAW, '*.json')),
@@ -129,7 +201,7 @@ def load_raw():
                 continue
             if q.get('source') == 'jlptpt' and q.get('type') == 'listening':
                 continue  # site's own AI-voiced samples, not official
-            questions.append(q)
+            questions.append(apply_fixes(q, fixes, unmatched))
             n += 1
         print(f'   {name}: {n}')
     return questions
@@ -158,6 +230,9 @@ def validate(q):
         section = TYPE_SECTION[t]
     if not stem and section != 'choukai':
         return None
+    stem, t2 = normalize_stem(stem, t, q['source'])
+    mondai = q.get('mondai') if t2 == t else None
+    t = t2
     # passage questions need a passage
     needs_passage = t in ('text_grammar', 'reading_short', 'reading_mid', 'reading_long', 'info_retrieval')
     if needs_passage and not (q.get('passage') or '').strip():
@@ -166,7 +241,7 @@ def validate(q):
         return None
     out = {
         'id': q['id'], 'source': q['source'], 'source_url': q.get('source_url'), 'exam': q.get('exam'),
-        'section': section, 'mondai': q.get('mondai') or TYPE_MONDAI.get(t), 'type': t,
+        'section': section, 'mondai': mondai or TYPE_MONDAI.get(t), 'type': t,
         'tier': 'B' if q['source'] in TIER_B else 'A',
         'passage_id': q.get('passage_id') if needs_passage or q.get('passage') else None,
         'question': stem or '（音声を聞いて答えてください）', 'options': opts, 'answer': q['answer'],
@@ -207,7 +282,12 @@ def load_explanations():
 
 def main():
     print('Loading raw…')
-    raw = load_raw()
+    fixes, unmatched = load_fixes(), []
+    raw = load_raw(fixes, unmatched)
+    if unmatched:
+        print(f'!! {len(unmatched)} fixes.json replacements found nothing (source changed?):')
+        for u in unmatched:
+            print('     ', u)
     print(f'   raw total: {len(raw)}')
     explain, passage_vi = load_explanations()
     print(f'   explanations: {len(explain)} questions, {len(passage_vi)} passages')
@@ -266,6 +346,19 @@ def main():
             note = e.get('note') or ''
             # teacher flagged: wrong/ambiguous key or a typo that breaks the stem (type-mislabel flags are harmless)
             if '(?)' in note and not re.search(r'\(\?\)\s*Đề gắn nhãn', note):
+                nq['suspect'] = True
+        fx = fixes['questions'].get(nq['id']) or {}
+        if fx.get('ex'):
+            ex = dict(nq.get('ex') or {})
+            if fx['ex'].get('opts'):
+                ex['opts'] = list(ex.get('opts') or [''] * len(nq['options']))
+                for i, o in fx['ex']['opts'].items():
+                    ex['opts'][int(i)] = o
+            ex.update({k2: v2 for k2, v2 in fx['ex'].items() if k2 != 'opts'})
+            nq['ex'] = ex
+        if 'suspect' in fx:
+            nq.pop('suspect', None)
+            if fx['suspect']:
                 nq['suspect'] = True
         out.append(nq)
 

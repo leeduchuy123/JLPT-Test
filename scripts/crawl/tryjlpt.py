@@ -112,8 +112,11 @@ def exam_detail(exam_id: int) -> dict:
 RUBY_RE = re.compile(r"<ruby>", re.I)
 
 
-def html_to_text(html: str) -> tuple[str, str | None, bool]:
-    """Return (plain text, first image url or None, had_ruby)."""
+def html_to_text(html: str, inline_images: bool = False) -> tuple[str, str | None, bool]:
+    """Return (plain text, first image url or None, had_ruby).
+
+    inline_images: keep each <img> in place as a "[[img:URL]]" line (passages whose tables /
+    notices exist only as pictures) instead of dropping it."""
     if not html:
         return "", None, False
     had_ruby = bool(RUBY_RE.search(html))
@@ -125,7 +128,10 @@ def html_to_text(html: str) -> tuple[str, str | None, bool]:
         src = (img.get("src") or "").strip()
         if src and image is None:
             image = absolutize(src)
-        img.decompose()
+        if src and inline_images:
+            img.replace_with(f"\n[[img:{absolutize(src).replace('http://storage.dekiru.vn', STORAGE)}]]\n")
+        else:
+            img.decompose()
     for span in soup.find_all("span", class_="content_underline"):
         span.replace_with(" ＿★＿ " if "★" in span.get_text() else " ＿＿＿ ")
     for span in soup.find_all("span", class_="content_number_highlight"):
@@ -293,7 +299,7 @@ def parse_exam(exam: dict, detail: dict) -> list:
             title, _i, _r = html_to_text(item.get("Title") or "")
             title = norm_space(title)
             num = mondai_number(title)
-            passage, _pi, _pr = html_to_text(item.get("Sapo") or "")
+            passage, _pi, _pr = html_to_text(item.get("Sapo") or "", inline_images=True)
             passage_id = f"{SOURCE}:{exam['id']}-{item.get('Id')}"
             if btype == 1:
                 if num is None and title:

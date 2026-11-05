@@ -187,6 +187,8 @@ table.tbl { width: 100%; border-collapse: collapse; font-size: .92rem; }
 .q-num { font-weight: 700; color: var(--muted); }
 .q-text { font-family: var(--font-jp); font-size: 1.15rem; line-height: 1.9; margin-bottom: .9rem; white-space: pre-wrap; }
 .q-text u { text-decoration: underline; text-underline-offset: .2em; }
+.blank { display: inline-block; min-width: 3.5em; min-height: 1.1em; line-height: 1.1; text-align: center; border-bottom: 2px solid currentColor; vertical-align: -.15em; margin: 0 .2em; }
+.stem-img { display: block; max-width: 100%; margin: .5rem 0; border-radius: 8px; background: #fff; }
 .options { display: grid; gap: .5rem; grid-template-columns: 1fr; }
 @media (min-width: 640px) { .options.short { grid-template-columns: 1fr 1fr; } }
 .opt { display: flex; align-items: flex-start; gap: .65rem; text-align: left; width: 100%; padding: .65rem .85rem; border: 1px solid var(--border-strong); border-radius: var(--radius-sm); background: var(--surface); font-family: var(--font-jp); font-size: 1.05rem; line-height: 1.6; transition: border-color .12s, background .12s; }
