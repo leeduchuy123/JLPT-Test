@@ -494,21 +494,6 @@
       "why": "Vế sau là **ý định của người nói** (お呼びいたします) về việc sắp tới → **でき次第**. 「たとたん」「たところ」「たきり」 đều mô tả sự việc **đã xảy ra**, vế sau không được là ý định / nhờ vả."
     },
     {
-      "id": "b33-q2",
-      "kind": "usage",
-      "ref": "b33-2",
-      "q": "{次|つぎ}の{文|ぶん}のうち、{正|ただ}しいものを{選|えら}びなさい。",
-      "options": [
-        "雨が降っているにもかかわらず、出かけましょう。",
-        "時間がないものだから、急いでください。",
-        "道が混んでいたものだから、約束の時間に遅れてしまった。",
-        "駅に着いたところ、すぐに電話してください。"
-      ],
-      "answer": 2,
-      "vi": "(3) Vì đường đông quá nên tôi bị trễ giờ hẹn.",
-      "why": "(3) 「ものだから」 + kết quả có thật (lời bào chữa) → đúng. (1) 「にもかかわらず」 + rủ rê ✗ → 雨が降っていても; (2) 「ものだから」 + nhờ vả ✗ → 時間がないから; (4) 「たところ」 + nhờ vả ✗ → 着いたら."
-    },
-    {
       "id": "b33-q3",
       "kind": "form",
       "ref": "b33-3",
@@ -524,34 +509,79 @@
       "why": "「Nのことだから」 dựa vào tính cách quen thuộc để **đoán** → vế sau là phỏng đoán 「きっと〜だろう」. Ba phương án còn lại là rủ rê, nhờ vả, mong muốn — không hợp với 「のことだから」."
     },
     {
-      "id": "b33-q4",
-      "kind": "usage",
-      "ref": "b33-4",
-      "q": "{次|つぎ}の{文|ぶん}のうち、{正|ただ}しいものを{選|えら}びなさい。",
-      "options": [
-        "弟は、テストの結果が気になってしかたがない。",
-        "私は、彼の冗談に笑わずにはいられなかった。",
-        "田中さんは、一度富士山に登ってみたいものだ。",
-        "兄は、恋人に会いたくてならない。"
-      ],
-      "answer": 1,
-      "vi": "(2) Tôi không thể nhịn cười trước câu đùa của anh ấy.",
-      "why": "Các mẫu nội tâm dùng cho **ngôi thứ nhất**. (2) chủ ngữ 私 → đúng. (1)(3)(4) chủ ngữ là người khác mà không có ようだ／らしい: 気になってしかたがないようだ, 登ってみたいらしい, 会いたくてならないようだ."
-    },
-    {
-      "id": "b33-q5",
+      "id": "b33-q12",
       "kind": "form",
       "ref": "b33-5",
-      "q": "{隣|となり}の{部屋|へや}の{人|ひと}は（　　）、{夜|よる}になっても{電気|でんき}がつかない。",
+      "q": "{西|にし}の{空|そら}に{黒|くろ}い{雲|くも}が{広|ひろ}がった（　　）、{大粒|おおつぶ}の{雨|あめ}が{窓|まど}を{叩|たた}き{始|はじ}めた。",
       "options": [
-        "旅行に出かけたとみえて",
-        "旅行に出かけたばかりに",
-        "旅行に出かけ次第",
-        "旅行に出かけようものなら"
+        "次第",
+        "かと思うと",
+        "からには",
+        "ものなら"
       ],
-      "answer": 0,
-      "vi": "Người phòng bên xem chừng đi du lịch rồi, tối rồi mà đèn vẫn không bật.",
-      "why": "Đoán về **người khác** từ dấu hiệu nhìn thấy (đèn không bật) → **とみえて**. 「ばかりに」 cần kết quả xấu do lỗi lầm, không hợp; 「次第」 cần vế sau là ý chí về việc sắp tới; 「(よ)うものなら」 cần vế sau là dự đoán hậu quả xấu."
+      "answer": 1,
+      "vi": "Mây đen vừa lan ra khắp trời phía tây thì những hạt mưa to đã bắt đầu đập vào cửa sổ.",
+      "why": "Người nói **quan sát** một sự thay đổi bên ngoài (chủ ngữ là mây, không phải mình), B xảy ra ngay sau A → **かと思うと**. 「次第」 cần V ます形 và vế sau là ý chí / nhờ vả về việc sắp làm; 「からには」 cần vế sau là ý chí, nghĩa vụ; 「ものなら」 đi với 可能形 / 意向形 để nói giả định, không kể sự việc đã xảy ra."
+    },
+    {
+      "id": "b33-q7",
+      "kind": "form",
+      "ref": "b33-7",
+      "q": "{山田|やまだ}さんは{語学|ごがく}（　　）、{社内|しゃない}で{誰|だれ}にも{負|ま}けない。",
+      "options": [
+        "のせいで",
+        "のあげく",
+        "ばかりに",
+        "にかけては"
+      ],
+      "answer": 3,
+      "vi": "Về khoản ngoại ngữ thì trong công ty không ai bằng anh Yamada.",
+      "why": "Khen sở trường + 「誰にも負けない」 → **にかけては**. 「せいで」 đổ lỗi (tiêu cực); 「あげく」 cần một quá trình vất vả trước đó; 「ばかりに」 không nối trực tiếp với danh từ và chỉ kết quả xấu."
+    },
+    {
+      "id": "b33-q8",
+      "kind": "form",
+      "ref": "b33-1",
+      "q": "{代表|だいひょう}に{選|えら}ばれた（　　）、チームのために{全力|ぜんりょく}を{尽|つ}くすつもりだ。",
+      "options": [
+        "ものの",
+        "とたん",
+        "以上は",
+        "あまり"
+      ],
+      "answer": 2,
+      "vi": "Một khi đã được chọn làm đại diện thì tôi định sẽ dốc toàn lực vì đội.",
+      "why": "Vế sau là **ý định của người nói** (〜つもりだ) dựa trên một tình thế đã xác định → **以上は** (một khi đã… thì). 「ものの」 = tuy… nhưng, dẫn tới tình trạng chưa như ý, không đi với ý chí; 「とたん」 mô tả việc bất ngờ đã xảy ra; 「あまり」 = vì quá…, dẫn tới kết quả có thật — cả ba đều thuộc nhóm cấm ý chí ở vế sau."
+    },
+    {
+      "id": "b33-q9",
+      "kind": "form",
+      "ref": "b33-2",
+      "q": "{料理教室|りょうりきょうしつ}に{通|かよ}い{始|はじ}めた（　　）、{仕事|しごと}が{忙|いそが}しくて{一度|いちど}しか{行|い}けていない。",
+      "options": [
+        "からには",
+        "以上",
+        "ことだし",
+        "ものの"
+      ],
+      "answer": 3,
+      "vi": "Tuy đã bắt đầu đăng ký lớp nấu ăn, nhưng vì công việc bận nên mới đi được đúng một buổi.",
+      "why": "Vế sau là **tình trạng thực tế chưa như ý** (一度しか行けていない) → **ものの** (tuy… nhưng). 「からには」「以上」 = một khi đã… thì phải / sẽ… — vế sau cần ý chí, nghĩa vụ; 「ことだし」 = vì cũng… nên (đề nghị / quyết định) — không hợp với kết quả trái ý."
+    },
+    {
+      "id": "b33-q11",
+      "kind": "form",
+      "ref": "b33-4",
+      "q": "{私|わたし}も{一度|いちど}でいいから、オーロラを{自分|じぶん}の{目|め}で（　　）。",
+      "options": [
+        "見てみたがる",
+        "見るおそれがある",
+        "見てみたいらしい",
+        "見てみたいものだ"
+      ],
+      "answer": 3,
+      "vi": "Tôi cũng vậy, chỉ một lần thôi cũng được, mong được tận mắt ngắm cực quang.",
+      "why": "Chủ ngữ là **私** + mong ước thiết tha → **たいものだ** (mẫu dùng cho ngôi thứ nhất). 「たがる」 dùng cho **người khác**; 「らしい」 = nghe nói / hình như — không nói về mong muốn của chính mình như vậy; 「おそれがある」 = e rằng (chuyện xấu) — không hợp với ước mơ."
     },
     {
       "id": "b33-q6",
@@ -569,19 +599,214 @@
       "why": "Vô địch là **chuyện tốt** → dùng mẫu trung tính **かもしれない**. 「かねない」「おそれがある」 chỉ dùng cho khả năng xảy ra **điều xấu**; 「どころではない」 = không phải lúc để…, mâu thuẫn với 「練習を続ければ」."
     },
     {
-      "id": "b33-q7",
+      "id": "b33-q10",
       "kind": "form",
-      "ref": "b33-7",
-      "q": "{山田|やまだ}さんは{語学|ごがく}（　　）、{社内|しゃない}で{誰|だれ}にも{負|ま}けない。",
+      "ref": "b33-3",
+      "q": "{何|なん}でも{完璧|かんぺき}にこなす{山本|やまもと}さん（　　）、{今回|こんかい}の{発表|はっぴょう}もきっとうまくいくだろう。",
       "options": [
-        "のせいで",
-        "のあげく",
-        "ばかりに",
-        "にかけては"
+        "のくせに",
+        "のあまり",
+        "にかけては",
+        "のことだから"
       ],
       "answer": 3,
-      "vi": "Về khoản ngoại ngữ thì trong công ty không ai bằng anh Yamada.",
-      "why": "Khen sở trường + 「誰にも負けない」 → **にかけては**. 「せいで」 đổ lỗi (tiêu cực); 「あげく」 cần một quá trình vất vả trước đó; 「ばかりに」 không nối trực tiếp với danh từ và chỉ kết quả xấu."
+      "vi": "Anh Yamamoto vốn việc gì cũng làm hoàn hảo, nên chắc chắn bài thuyết trình lần này cũng sẽ suôn sẻ thôi.",
+      "why": "Dựa vào tính cách ai cũng biết của một người để **đoán** (きっと〜だろう) → **のことだから**. 「のくせに」 = vậy mà… (trách móc), mâu thuẫn với lời khen; 「のあまり」 đi sau danh từ cảm xúc / trạng thái (心配のあまり), không đi sau tên người; 「にかけては」 cần lĩnh vực sở trường (語学にかけては), không đi sau tên người."
+    },
+    {
+      "id": "b33-q5",
+      "kind": "form",
+      "ref": "b33-5",
+      "q": "{隣|となり}の{部屋|へや}の{人|ひと}は（　　）、{夜|よる}になっても{電気|でんき}がつかない。",
+      "options": [
+        "旅行に出かけたとみえて",
+        "旅行に出かけたばかりに",
+        "旅行に出かけ次第",
+        "旅行に出かけようものなら"
+      ],
+      "answer": 0,
+      "vi": "Người phòng bên xem chừng đi du lịch rồi, tối rồi mà đèn vẫn không bật.",
+      "why": "Đoán về **người khác** từ dấu hiệu nhìn thấy (đèn không bật) → **とみえて**. 「ばかりに」 cần kết quả xấu do lỗi lầm, không hợp; 「次第」 cần vế sau là ý chí về việc sắp tới; 「(よ)うものなら」 cần vế sau là dự đoán hậu quả xấu."
+    },
+    {
+      "id": "b33-q14",
+      "kind": "form",
+      "ref": "b33-7",
+      "q": "この{旅館|りょかん}は{一泊|いっぱく}{五万円|ごまんえん}もするが、{料理|りょうり}もサービスも{一流|いちりゅう}で、{高|たか}い（　　）。",
+      "options": [
+        "ばかりだ",
+        "せいだ",
+        "だけのことはある",
+        "おそれがある"
+      ],
+      "answer": 2,
+      "vi": "Nhà trọ này một đêm những 50.000 yên, nhưng đồ ăn lẫn dịch vụ đều hạng nhất, đúng là đắt xắt ra miếng.",
+      "why": "Giá cao **tương xứng** với chất lượng → lời **khen** **だけのことはある**. 「ばかりだ」 = ngày càng… (xu hướng xấu đi), không hợp; 「せいだ」 = tại vì (đổ lỗi cho kết quả xấu) — trong câu không có kết quả xấu nào; 「おそれがある」 = e rằng sẽ xảy ra chuyện xấu — không hợp với câu khen."
+    },
+    {
+      "id": "b33-q13",
+      "kind": "form",
+      "ref": "b33-6",
+      "q": "{彼|かれ}は{会議|かいぎ}で{社長|しゃちょう}に{逆|さか}らった（　　）、{地方|ちほう}の{支店|してん}に{異動|いどう}させられてしまった。",
+      "options": [
+        "だけあって",
+        "以上",
+        "にかけては",
+        "ばかりに"
+      ],
+      "answer": 3,
+      "vi": "Chỉ vì cãi lại giám đốc trong cuộc họp mà anh ấy bị điều chuyển về chi nhánh địa phương.",
+      "why": "Chỉ vì một việc mà dẫn tới **kết quả xấu** (異動させられてしまった) → **ばかりに**. 「だけあって」 dùng để **khen** (xứng đáng là…), mâu thuẫn với kết quả xấu; 「以上」 cần vế sau là ý chí / nghĩa vụ; 「にかけては」 đi sau danh từ chỉ lĩnh vực sở trường, không nối với Vた."
+    },
+    {
+      "id": "b33-q15",
+      "kind": "order",
+      "ref": "b33-1",
+      "q": "{今夜|こんや}の{決勝戦|けっしょうせん}だけは、 ＿＿＿ ＿＿＿ ★ ＿＿＿ 。",
+      "options": [
+        "見に行きたい",
+        "でも",
+        "休んで",
+        "仕事を"
+      ],
+      "order": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "answer": 1,
+      "vi": "Riêng trận chung kết tối nay thì dù phải nghỉ làm tôi cũng muốn đi xem.",
+      "why": "決勝戦だけは、**仕事を 休んで でも 見に行きたい** → ★ (ô thứ 3) = 「でも」. 「Vて＋でも」 = dù phải làm cả việc X, và vế sau là **mong muốn / ý chí** của người nói (〜たい) — đúng đặc điểm của nhóm b33-1."
+    },
+    {
+      "id": "b33-q16",
+      "kind": "order",
+      "ref": "b33-2",
+      "q": "{電車|でんしゃ}が{事故|じこ}で ＿＿＿ ＿＿＿ ＿＿＿ ★ 、{大切|たいせつ}な{会議|かいぎ}に{遅|おく}れてしまった。",
+      "options": [
+        "一時間も",
+        "しまった",
+        "ものだから",
+        "止まって"
+      ],
+      "order": [
+        0,
+        3,
+        1,
+        2
+      ],
+      "answer": 2,
+      "vi": "Tàu bị dừng tới cả tiếng đồng hồ vì tai nạn, nên tôi đã đến trễ cuộc họp quan trọng.",
+      "why": "事故で **一時間も 止まって しまった ものだから** → ★ (ô thứ 4) = 「ものだから」. 「ものだから」 nêu lý do để **giải thích / thanh minh** cho một kết quả có thật (遅れてしまった) — vế sau không phải ý chí, nên câu hợp với nhóm b33-2."
+    },
+    {
+      "id": "b33-q17",
+      "kind": "order",
+      "ref": "b33-3",
+      "q": "{短気|たんき}な{部長|ぶちょう}の{前|まえ}で ＿＿＿ ★ ＿＿＿ ＿＿＿ 、{大変|たいへん}なことになるに{違|ちが}いない。",
+      "options": [
+        "口に",
+        "しよう",
+        "反対意見でも",
+        "ものなら"
+      ],
+      "order": [
+        2,
+        0,
+        1,
+        3
+      ],
+      "answer": 0,
+      "vi": "Trước mặt ông trưởng phòng nóng tính mà lỡ nói ra ý kiến phản đối thì chắc chắn sẽ to chuyện.",
+      "why": "部長の前で **反対意見でも 口に しよう ものなら** → ★ (ô thứ 2) = 「口に」. 「口にする」 (nói ra) chuyển sang 意向形 「口にしよう」 rồi nối 「ものなら」; vế sau là **dự đoán hậu quả xấu** (〜に違いない) — đúng đặc điểm của 「(よ)うものなら」."
+    },
+    {
+      "id": "b33-q18",
+      "kind": "order",
+      "ref": "b33-4",
+      "q": "{父|ちち}は{定年|ていねん}{後|ご}も{働|はたら}き{続|つづ}けたいと{言|い}っていたが、{医者|いしゃ}に{止|と}められて ＿＿＿ ＿＿＿ ★ ＿＿＿ 。",
+      "options": [
+        "得ない",
+        "ようだ",
+        "あきらめ",
+        "ざるを"
+      ],
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answer": 0,
+      "vi": "Bố tôi từng nói muốn tiếp tục làm việc cả sau khi nghỉ hưu, nhưng bị bác sĩ ngăn nên có vẻ đành phải từ bỏ.",
+      "why": "医者に止められて **あきらめ ざるを 得ない ようだ** → ★ (ô thứ 3) = 「得ない」. 「ざるを得ない」 là mẫu của ngôi thứ nhất; chủ ngữ là **父** (người khác) nên phải thêm 「ようだ」 ở cuối. 「あきらめ」 (Vない bỏ ない) + 「ざるを得ない」."
+    },
+    {
+      "id": "b33-q19",
+      "kind": "order",
+      "ref": "b33-6",
+      "q": "{睡眠不足|すいみんぶそく}のまま{車|くるま}を{運転|うんてん}すると、 ＿＿＿ ＿＿＿ ★ ＿＿＿ 。",
+      "options": [
+        "かねない",
+        "つながり",
+        "大きな",
+        "事故に"
+      ],
+      "order": [
+        2,
+        3,
+        1,
+        0
+      ],
+      "answer": 1,
+      "vi": "Lái xe khi thiếu ngủ có thể dẫn tới tai nạn lớn.",
+      "why": "運転すると、**大きな 事故に つながり かねない** → ★ (ô thứ 3) = 「つながり」. 「Vます＋かねない」 = có thể xảy ra **chuyện xấu**; 「大きな」 bổ nghĩa cho 「事故」, 「事故につながる」 là cụm cố định."
+    },
+    {
+      "id": "b33-q2",
+      "kind": "usage",
+      "ref": "b33-2",
+      "q": "{次|つぎ}の{文|ぶん}のうち、{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "雨が降っているにもかかわらず、出かけましょう。",
+        "時間がないものだから、急いでください。",
+        "道が混んでいたものだから、約束の時間に遅れてしまった。",
+        "駅に着いたところ、すぐに電話してください。"
+      ],
+      "answer": 2,
+      "vi": "(3) Vì đường đông quá nên tôi bị trễ giờ hẹn.",
+      "why": "(3) 「ものだから」 + kết quả có thật (lời bào chữa) → đúng. (1) 「にもかかわらず」 + rủ rê ✗ → 雨が降っていても; (2) 「ものだから」 + nhờ vả ✗ → 時間がないから; (4) 「たところ」 + nhờ vả ✗ → 着いたら."
+    },
+    {
+      "id": "b33-q20",
+      "kind": "usage",
+      "ref": "b33-7",
+      "q": "{次|つぎ}の{文|ぶん}のうち、{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "友人が手伝ってくれたおかげで、引っ越しが半日で終わった。",
+        "新しい規則にかけては、明日説明会が開かれる。",
+        "有名な店だけあって、料理がまずくてがっかりした。",
+        "彼は料理にかけては、全然できない。"
+      ],
+      "answer": 0,
+      "vi": "(1) Nhờ bạn giúp mà việc chuyển nhà xong chỉ trong nửa ngày.",
+      "why": "Nhóm b33-7 dùng cho **kết quả tốt / lời khen**. (1) 「おかげで」 + kết quả tốt → đúng. (2) chủ đề khách quan, không phải khen sở trường → 新しい規則に関して; (3) 「だけあって」 chỉ dùng để khen, không đi với kết quả đáng thất vọng → 有名な店なのに; (4) 「にかけては」 phải đi với lời khen 「誰にも負けない／一番だ」, không đi với 「全然できない」."
+    },
+    {
+      "id": "b33-q4",
+      "kind": "usage",
+      "ref": "b33-4",
+      "q": "{次|つぎ}の{文|ぶん}のうち、{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "弟は、テストの結果が気になってしかたがない。",
+        "私は、彼の冗談に笑わずにはいられなかった。",
+        "田中さんは、一度富士山に登ってみたいものだ。",
+        "兄は、恋人に会いたくてならない。"
+      ],
+      "answer": 1,
+      "vi": "(2) Tôi không thể nhịn cười trước câu đùa của anh ấy.",
+      "why": "Các mẫu nội tâm dùng cho **ngôi thứ nhất**. (2) chủ ngữ 私 → đúng. (1)(3)(4) chủ ngữ là người khác mà không có ようだ／らしい: 気になってしかたがないようだ, 登ってみたいらしい, 会いたくてならないようだ."
     }
   ],
   "practice": [

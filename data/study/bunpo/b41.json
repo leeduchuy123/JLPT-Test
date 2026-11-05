@@ -431,6 +431,21 @@
       "why": "「ここで待っていて」 → người nói sẽ quay về chỗ này → \"mua rồi về\" = **買ってくる**. 「買っていく」 = mua rồi đi luôn (không quay lại). 「きた／いった」 là thể quá khứ, không hợp với việc sắp làm."
     },
     {
+      "id": "b41-q12",
+      "kind": "form",
+      "ref": "b41-5",
+      "q": "{部屋|へや}の{大掃除|おおそうじ}をしていたら、{引|ひ}き{出|だ}しの{奥|おく}から、なくしたと{思|おも}っていた{指輪|ゆびわ}が{出|で}て（　　）。",
+      "options": [
+        "きた",
+        "いった",
+        "いく",
+        "おいた"
+      ],
+      "answer": 0,
+      "vi": "Đang tổng vệ sinh phòng thì từ sâu trong ngăn kéo, chiếc nhẫn tôi tưởng đã mất bỗng lộ ra.",
+      "why": "Đồ vật **xuất hiện** trước mắt người nói (出現) → **出てきた**. 「出ていった」 = rời đi xa khỏi chỗ người nói (như người bước ra ngoài) — chiếc nhẫn không \"bỏ đi\". 「出ていく」 vừa sai hướng vừa là thể hiện tại. 「〜ておいた」 cần hành động có chủ ý của người — nhẫn không tự \"làm sẵn\"."
+    },
+    {
       "id": "b41-q3",
       "kind": "form",
       "ref": "b41-3",
@@ -444,6 +459,36 @@
       "answer": 2,
       "vi": "Mười năm kể từ khi sang Nhật, tôi đã trải qua đủ thứ vất vả, nhưng giờ ngày nào cũng vui.",
       "why": "Khoảng thời gian **từ quá khứ đến nay** (来てから十年, 今は…) → **苦労してきた**. 「いく」 hướng về tương lai. 「くる」 thể hiện tại không hợp. 「いった」 nhìn từ quá khứ đi ra xa, không nối với 「今は」."
+    },
+    {
+      "id": "b41-q13",
+      "kind": "form",
+      "ref": "b41-6",
+      "q": "{先月|せんげつ}{退職|たいしょく}した{先輩|せんぱい}が、{今朝|けさ}{突然|とつぜん}「{近|ちか}いうちに{飲|の}みに{行|い}こう」とメールを{送|おく}って（　　）。",
+      "options": [
+        "いった",
+        "いく",
+        "きた",
+        "あげた"
+      ],
+      "answer": 2,
+      "vi": "Sáng nay, người đàn anh nghỉ việc hồi tháng trước bất ngờ gửi email cho tôi: \"Hôm nào đi nhậu nhé.\"",
+      "why": "Chủ ngữ là người khác (先輩), hành động **hướng về phía tôi** (gửi mail cho tôi) → **送ってきた**. 「送っていった」: hướng ra xa khỏi tôi — sai. 「送っていく」: vừa sai hướng vừa không hợp với 「今朝」 (đã xảy ra). 「送ってあげた」: あげる dùng khi hành động đi **từ phía mình** ra người khác — ngược hướng."
+    },
+    {
+      "id": "b41-q8",
+      "kind": "form",
+      "ref": "b41-2",
+      "q": "（{病院|びょういん}の{受付|うけつけ}で）{次回|じかい}は{検査|けんさ}の{結果|けっか}をご{説明|せつめい}しますので、ご{家族|かぞく}の{方|かた}も{一緒|いっしょ}に{連|つ}れて（　　）ください。",
+      "options": [
+        "きて",
+        "いって",
+        "おいて",
+        "しまって"
+      ],
+      "answer": 0,
+      "vi": "(Tại quầy lễ tân bệnh viện) Lần tới chúng tôi sẽ giải thích kết quả xét nghiệm, nên xin hãy dẫn cả người nhà đến cùng.",
+      "why": "Người nói (nhân viên lễ tân) đang ở bệnh viện — chính là nơi bệnh nhân sẽ đến lần sau → người nhà được dẫn **đến chỗ người nói**: **連れてきて**. 「連れていって」 chỉ đúng khi người nói không ở nơi đến (ví dụ hai người nhà dặn nhau ở nhà). 「連れておいて」 = dẫn đi trước để chuẩn bị — không hợp. 「連れてしまって」 = lỡ dẫn đi mất — sai nghĩa."
     },
     {
       "id": "b41-q4",
@@ -476,6 +521,21 @@
       "why": "Núi **hiện ra** trong tầm nhìn (出現) → **見えてきた**. 「見えていった」 sai hướng (xuất hiện không dùng いく). 「見えていく」 là thể hiện tại, sai hướng. 「見えておいた」 vô nghĩa (〜ておく cần hành động có chủ ý)."
     },
     {
+      "id": "b41-q9",
+      "kind": "form",
+      "ref": "b41-3",
+      "q": "{創業|そうぎょう}{以来|いらい}、この{会社|かいしゃ}は{一貫|いっかん}して{環境|かんきょう}にやさしい{製品|せいひん}づくりにこだわって（　　）。",
+      "options": [
+        "いった",
+        "いく",
+        "きた",
+        "おいた"
+      ],
+      "answer": 2,
+      "vi": "Từ khi thành lập đến nay, công ty này luôn kiên trì theo đuổi việc làm ra sản phẩm thân thiện với môi trường.",
+      "why": "「創業以来」 = từ lúc thành lập **cho đến bây giờ** → hành động kéo dài từ quá khứ đến nay: **こだわってきた**. 「いく」 hướng về tương lai, mâu thuẫn với 「以来」. 「いった」 kể một giai đoạn trong quá khứ đi ra xa, không nối đến hiện tại. 「〜ておいた」 = làm sẵn để chuẩn bị — sai nghĩa."
+    },
+    {
       "id": "b41-q6",
       "kind": "form",
       "ref": "b41-6",
@@ -489,6 +549,171 @@
       "answer": 2,
       "vi": "Dạo này một công ty lạ cứ gọi điện chào mời mãi, tôi rất phiền.",
       "why": "Cuộc gọi **hướng về phía tôi** → **かかってきて**. 「かかっていって」 sai hướng. 「〜ておいて」 cần hành động có chủ ý. 「〜てあって」 (自動詞 + てある) sai ngữ pháp."
+    },
+    {
+      "id": "b41-q10",
+      "kind": "form",
+      "ref": "b41-4",
+      "q": "{祖父|そふ}が{入院|にゅういん}して{一週間|いっしゅうかん}。ここ{数日|すうじつ}で{顔色|かおいろ}もだいぶよくなって（　　）。",
+      "options": [
+        "いった",
+        "きた",
+        "いく",
+        "あった"
+      ],
+      "answer": 1,
+      "vi": "Ông tôi nhập viện đã được một tuần. Mấy ngày nay sắc mặt ông cũng đã khá lên nhiều.",
+      "why": "「ここ数日で」 = trong mấy ngày **gần đây cho đến nay**, người nói đang nhìn thấy sự thay đổi → **よくなってきた**. 「いった」 dùng khi kể lại một giai đoạn đã khép lại trong quá khứ, không hợp với 「ここ数日」. 「いく」: dự đoán tương lai, không hợp với 「だいぶ」 (đã thay đổi nhiều rồi). 「〜てあった」 cần tha động từ có chủ ý — sai."
+    },
+    {
+      "id": "b41-q14",
+      "kind": "order",
+      "ref": "b41-1",
+      "q": "{窓|まど}から{外|そと}を{見|み}ていると、 ＿＿＿ ＿＿＿ ＿＿＿ ★ のが{見|み}えた。",
+      "options": [
+        "赤い傘を",
+        "帰ってくる",
+        "さした",
+        "母が"
+      ],
+      "answer": 1,
+      "order": [
+        0,
+        2,
+        3,
+        1
+      ],
+      "vi": "Đang nhìn ra ngoài cửa sổ thì tôi thấy mẹ che chiếc ô đỏ đang đi về nhà.",
+      "why": "Thứ tự: 赤い傘を → さした → 母が → 帰ってくる（★）. 「赤い傘をさした」 bổ nghĩa cho 「母」. Người nói ở trong nhà (nhìn qua cửa sổ), mẹ đi **về phía mình** → 「帰ってくる」, không phải 「帰っていく」."
+    },
+    {
+      "id": "b41-q15",
+      "kind": "order",
+      "ref": "b41-2",
+      "q": "{明日|あした}の{遠足|えんそく}には、 ＿＿＿ ★ ＿＿＿ ＿＿＿ ください。",
+      "options": [
+        "地図を",
+        "学校で",
+        "持ってきて",
+        "配った"
+      ],
+      "answer": 3,
+      "order": [
+        1,
+        3,
+        0,
+        2
+      ],
+      "vi": "Buổi dã ngoại ngày mai, các em hãy mang theo tấm bản đồ đã phát ở trường.",
+      "why": "Thứ tự: 学校で → 配った（★）→ 地図を → 持ってきて（ください）. 「学校で配った」 là mệnh đề bổ nghĩa cho 「地図」. Giáo viên sẽ có mặt ở buổi dã ngoại và dặn học sinh mang đồ **đến chỗ mình** → 「持ってきてください」."
+    },
+    {
+      "id": "b41-q17",
+      "kind": "order",
+      "ref": "b41-5",
+      "q": "{薬|くすり}を{飲|の}んで{少|すこ}し{休|やす}んでいるうちに、 ＿＿＿ ＿＿＿ ★ ＿＿＿ 。",
+      "options": [
+        "痛みが",
+        "引いて",
+        "いった",
+        "頭の"
+      ],
+      "answer": 1,
+      "order": [
+        3,
+        0,
+        1,
+        2
+      ],
+      "vi": "Uống thuốc rồi nghỉ một lúc, cơn đau đầu dịu dần đi.",
+      "why": "Thứ tự: 頭の → 痛みが → 引いて（★）→ いった. 「頭の」 bổ nghĩa cho 「痛み」. Cơn đau **mất dần** (消滅) → 「引いていく」; kể chuyện đã xảy ra → 「引いていった」."
+    },
+    {
+      "id": "b41-q16",
+      "kind": "order",
+      "ref": "b41-3",
+      "q": "{退職|たいしょく}した{後|あと}も、 ＿＿＿ ＿＿＿ ★ ＿＿＿ と{思|おも}っている。",
+      "options": [
+        "続けて",
+        "いきたい",
+        "地域の",
+        "ボランティア活動は"
+      ],
+      "answer": 0,
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "vi": "Kể cả sau khi nghỉ hưu, tôi vẫn muốn tiếp tục các hoạt động tình nguyện ở địa phương.",
+      "why": "Thứ tự: 地域の → ボランティア活動は → 続けて（★）→ いきたい. 「地域の」 bổ nghĩa cho 「ボランティア活動」. 「退職した後も」 hướng về **tương lai** + mong muốn 「〜たい」 → 「続けていきたい」 (tiếp tục từ nay về sau)."
+    },
+    {
+      "id": "b41-q18",
+      "kind": "order",
+      "ref": "b41-6",
+      "q": "{大家|おおや}さんが、 ＿＿＿ ＿＿＿ ＿＿＿ ★ ので、{車|くるま}を{手放|てばな}すことも{考|かんが}えている。",
+      "options": [
+        "駐車場の",
+        "上げたいと",
+        "料金を",
+        "言ってきた"
+      ],
+      "answer": 3,
+      "order": [
+        0,
+        2,
+        1,
+        3
+      ],
+      "vi": "Chủ nhà báo với tôi là muốn tăng phí bãi đỗ xe, nên tôi đang tính cả chuyện bán xe đi.",
+      "why": "Thứ tự: 駐車場の → 料金を → 上げたいと → 言ってきた（★）. 「駐車場の」 bổ nghĩa cho 「料金」; 「〜たいと言う」 là trích dẫn. Chủ nhà (người khác) nói **hướng về phía tôi** → 「言ってきた」."
+    },
+    {
+      "id": "b41-q11",
+      "kind": "form",
+      "ref": "b41-4",
+      "q": "1980{年代|ねんだい}に{入|はい}ると{工場|こうじょう}が{次々|つぎつぎ}に{閉鎖|へいさ}され、{町|まち}の{人口|じんこう}は{急速|きゅうそく}に{減|へ}って（　　）。そして1995{年|ねん}、{町|まち}はついに{隣|となり}の{市|し}に{合併|がっぺい}された。",
+      "options": [
+        "おいた",
+        "いく",
+        "くる",
+        "いった"
+      ],
+      "answer": 3,
+      "vi": "Bước sang thập niên 1980, các nhà máy lần lượt đóng cửa, dân số thị trấn giảm nhanh chóng. Rồi đến năm 1995, thị trấn cuối cùng bị sáp nhập vào thành phố bên cạnh.",
+      "why": "Đây là câu chuyện **lịch sử đã khép lại** (1980年代 → 1995年), người viết nhìn từ một mốc trong quá khứ đi về sau → **減っていった** (giảm dần theo thời gian). 「減っておいた」 sai: 〜ておく là làm sẵn có chủ ý, không dùng cho dân số tự giảm. 「いく」「くる」 là thể hiện tại, không hợp với mạch kể quá khứ (閉鎖され…合併された)."
+    },
+    {
+      "id": "b41-q19",
+      "kind": "usage",
+      "ref": "b41-2",
+      "q": "（　）{内|ない}の{状況|じょうきょう}から{見|み}て、「〜てくる・〜ていく」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "（出かける夫に）帰りにスーパーで牛乳を買っていってね。",
+        "（会社で同僚に）ちょっと銀行に行っていくので、電話があったらお願いします。",
+        "（玄関で家族に）今日は会社の飲み会だから、夕飯は食べてくるね。",
+        "（バス停で見送りながら）母は「じゃあね」と手を振って、バスに乗ってきた。"
+      ],
+      "answer": 2,
+      "vi": "(3) (Nói với người nhà ở cửa) Hôm nay công ty có tiệc nên em ăn tối bên ngoài rồi mới về nhé.",
+      "why": "(3) ăn ở ngoài **rồi quay về** nhà (chỗ người nghe) → 「食べてくる」 → đúng. (1) chồng mua sữa rồi mang về nhà → 「買ってきてね」. (2) đi ngân hàng rồi quay lại công ty → 「行ってくる」. (4) mẹ lên xe buýt và đi xa khỏi người nói đang tiễn → 「乗っていった」."
+    },
+    {
+      "id": "b41-q20",
+      "kind": "usage",
+      "ref": "b41-4",
+      "q": "「〜てきた・〜ていく」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "日本に来たばかりのころは納豆が苦手だったが、最近は少しずつおいしいと思えるようになってきた。",
+        "この十年で、駅前の様子はずいぶん変わっていく。",
+        "これから冬にかけて、日がますます短くなってきた。",
+        "今後、この地域の高齢化はさらに進んできただろう。"
+      ],
+      "answer": 0,
+      "vi": "(1) Hồi mới sang Nhật tôi rất ngại món natto, nhưng dạo gần đây tôi dần thấy nó ngon.",
+      "why": "(1) 「最近は少しずつ」 + thay đổi kéo dài đến hiện tại → 「〜ようになってきた」 → đúng. (2) 「この十年で」 nói giai đoạn đến nay → 「変わってきた」. (3) 「これから」 là tương lai → 「短くなっていく」, không dùng thể た. (4) 「今後」 → 「進んでいくだろう」; 「進んできただろう」 là quá khứ, mâu thuẫn với 「今後」."
     },
     {
       "id": "b41-q7",

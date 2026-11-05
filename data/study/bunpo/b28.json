@@ -730,6 +730,21 @@
       "why": "Trước chỗ trống là danh sách ví dụ (〜や〜), sau là danh từ nhóm 「イベント」 → **といった**. 「といえば」 cần vế sau là điều liên tưởng, không nối thẳng với danh từ; 「といっても」 = nói là… nhưng; 「とすれば」 = giả định."
     },
     {
+      "id": "b28-q8",
+      "kind": "form",
+      "ref": "b28-2",
+      "q": "「この{写真|しゃしん}、{去年|きょねん}の{社員|しゃいん}{旅行|りょこう}で{撮|と}ったんだ。」「{社員|しゃいん}{旅行|りょこう}（　　）、{今年|ことし}はどこに{行|い}くか、もう{決|き}まった?」",
+      "options": [
+        "からといって",
+        "といえば",
+        "にしては",
+        "といっても"
+      ],
+      "answer": 1,
+      "vi": "「Tấm ảnh này chụp trong chuyến du lịch công ty năm ngoái đấy.」「Nhắc đến du lịch công ty, năm nay đã quyết định đi đâu chưa?」",
+      "why": "Nhân từ khoá người kia vừa nói để **chuyển sang chuyện liên quan** → **といえば**. 「からといって」 = chỉ vì… mà, vế sau phải phản bác (〜とは限らない); 「にしては」 = so với… thì bất ngờ, vế sau là đánh giá; 「といっても」 = nói là… nhưng thực ra (hạ mức độ) — đều không hợp với một câu hỏi chuyển đề tài."
+    },
+    {
       "id": "b28-q2",
       "kind": "form",
       "ref": "b28-4",
@@ -760,6 +775,21 @@
       "why": "Cuối câu 「わけではない」 bác bỏ suy luận \"là người Nhật ⇒ dùng kính ngữ giỏi\" → **からといって**. 「からして」 đi thẳng với danh từ (日本人からして), không có だ; 「としたら」 = giả định; 「というと」 = nhắc đến."
     },
     {
+      "id": "b28-q10",
+      "kind": "form",
+      "ref": "b28-3",
+      "q": "この{町|まち}の{名物|めいぶつ}（　　）、{何|なん}といっても{川魚|かわざかな}の{塩焼|しおや}きだ。",
+      "options": [
+        "といったら",
+        "からといって",
+        "にしては",
+        "からして"
+      ],
+      "answer": 0,
+      "vi": "Nhắc đến đặc sản của thị trấn này thì phải kể đến cá sông nướng muối.",
+      "why": "Nêu chủ đề rồi khẳng định thứ **tiêu biểu nhất** gắn với nó → **といったら** (nghĩa 1, giống といえば nhưng giọng mạnh hơn). 「からといって」 cần vế sau phản bác (〜とは限らない); 「にしては」 = so với… thì bất ngờ, vế sau phải là đánh giá trái dự đoán; 「からして」 = ngay từ (chi tiết nhỏ) đã…, dùng để đánh giá cả tổng thể, không dùng để nêu cái tiêu biểu."
+    },
+    {
       "id": "b28-q4",
       "kind": "form",
       "ref": "b28-10",
@@ -773,6 +803,81 @@
       "answer": 2,
       "vi": "So với một nhân viên mới vào năm đầu thì bài thuyết trình của anh ấy rất tự tin.",
       "why": "Lấy 「入社一年目」 làm thước đo, kết quả **bất ngờ** (rất tự tin) → **にしては**. 「にしたら」 = đứng ở vị trí người đó mà nghĩ; 「にしても」 = dù là… thì cũng (nhượng bộ); 「からといって」 cần vế sau phủ định."
+    },
+    {
+      "id": "b28-q15",
+      "kind": "form",
+      "ref": "b28-7",
+      "q": "あの{映画|えいが}は、タイトル（　　）つまらなそうで、{見|み}る{気|き}になれない。",
+      "options": [
+        "といった",
+        "からして",
+        "にすれば",
+        "にしては"
+      ],
+      "answer": 1,
+      "vi": "Bộ phim đó ngay từ cái tên đã thấy chán, tôi chẳng muốn xem.",
+      "why": "Lấy chi tiết nhỏ nhất (cái tên) để đánh giá cả bộ phim → **からして** (ngay từ… đã). 「といった」 phải có danh từ nhóm đứng sau (AやBといったN); 「にすれば」 cần danh từ chỉ **người / bên liên quan** để đoán tâm lý, 「タイトル」 không phải người; 「にしては」 = so với… thì bất ngờ — \"so với tựa đề thì có vẻ chán\" vô nghĩa."
+    },
+    {
+      "id": "b28-q6",
+      "kind": "form",
+      "ref": "b28-11",
+      "q": "{転校|てんこう}を{繰|く}り{返|かえ}してきた{子|こ}ども（　　）、{新|あたら}しい{友達|ともだち}を{作|つく}るのは{簡単|かんたん}なことではないだろう。",
+      "options": [
+        "にしては",
+        "からして",
+        "といえば",
+        "にしたら"
+      ],
+      "answer": 3,
+      "vi": "Đứng ở vị trí một đứa trẻ phải chuyển trường liên tục, việc kết bạn mới hẳn không dễ dàng.",
+      "why": "Đặt mình vào chỗ **người** A rồi đoán cảm xúc (〜だろう) → **にしたら**. 「にしては」 = so với… thì bất ngờ; 「からして」 = ngay từ…; 「といえば」 = nhắc đến… (chuyển đề tài)."
+    },
+    {
+      "id": "b28-q19",
+      "kind": "form",
+      "ref": "b28-9",
+      "q": "どんな{仕事|しごと}を{選|えら}ぶ（　　）、{最初|さいしょ}の{三年間|さんねんかん}は{苦労|くろう}するものだ。",
+      "options": [
+        "からといって",
+        "としたら",
+        "にしては",
+        "にしても"
+      ],
+      "answer": 3,
+      "vi": "Dù chọn công việc nào đi nữa thì ba năm đầu cũng sẽ vất vả.",
+      "why": "Từ để hỏi 「どんな」 + **にしても** = dù là… nào thì cũng. 「としたら」 = nếu giả sử, không kết hợp với 「どんな」 để nói \"trường hợp nào cũng vậy\"; 「からといって」 cần một lý do cụ thể và vế sau phản bác; 「にしては」 = so với… thì bất ngờ."
+    },
+    {
+      "id": "b28-q23",
+      "kind": "form",
+      "ref": "b28-12",
+      "q": "{西|にし}の{空|そら}の{雲|くも}の{様子|ようす}（　　）、{午後|ごご}から{雨|あめ}になりそうだ。",
+      "options": [
+        "といっても",
+        "からといって",
+        "からすると",
+        "にしたら"
+      ],
+      "answer": 2,
+      "vi": "Xét từ dáng mây ở bầu trời phía tây thì có vẻ từ chiều trời sẽ mưa.",
+      "why": "Dựa vào **căn cứ nhìn thấy** (mây) để suy đoán (〜そうだ) → **からすると**. 「からといって」 cần vế sau phủ định / phản bác; 「といっても」 = nói là… nhưng thực ra (hạ mức độ); 「にしたら」 cần danh từ chỉ người."
+    },
+    {
+      "id": "b28-q17",
+      "kind": "form",
+      "ref": "b28-8",
+      "q": "その{話|はなし}が{事実|じじつ}（　　）、すぐに{警察|けいさつ}に{知|し}らせたほうがいい。",
+      "options": [
+        "にしたら",
+        "なとしたら",
+        "だとしたら",
+        "としては"
+      ],
+      "answer": 2,
+      "vi": "Nếu chuyện đó là sự thật thì nên báo ngay cho cảnh sát.",
+      "why": "Giả định \"nếu điều đó là thật\" → **としたら**; danh từ 「事実」 phải thêm **だ**: 「事実だとしたら」. 「なとしたら」 sai cách nối (な chỉ dùng trước danh từ); 「にしたら」 = đứng ở vị trí **người** A mà nghĩ, 「事実」 không phải người; 「としては」 = với tư cách / về phía A, không tạo nghĩa giả định."
     },
     {
       "id": "b28-q5",
@@ -790,19 +895,133 @@
       "why": "A là sự thật (biết là không nên), vế sau **trái với điều đó** (つい〜てしまう) → **とはいいながら**. 「といった」 cần danh từ phía sau; 「とすれば」 = giả định; 「からすると」 = xét từ góc độ."
     },
     {
-      "id": "b28-q6",
+      "id": "b28-q12",
       "kind": "form",
-      "ref": "b28-11",
-      "q": "{転校|てんこう}を{繰|く}り{返|かえ}してきた{子|こ}ども（　　）、{新|あたら}しい{友達|ともだち}を{作|つく}るのは{簡単|かんたん}なことではないだろう。",
+      "ref": "b28-4",
+      "q": "{料理|りょうり}ができる（　　）、カレーとチャーハンぐらいしか{作|つく}れない。",
       "options": [
-        "にしては",
-        "からして",
+        "としたら",
         "といえば",
-        "にしたら"
+        "からといって",
+        "といっても"
       ],
       "answer": 3,
-      "vi": "Đứng ở vị trí một đứa trẻ phải chuyển trường liên tục, việc kết bạn mới hẳn không dễ dàng.",
-      "why": "Đặt mình vào chỗ **người** A rồi đoán cảm xúc (〜だろう) → **にしたら**. 「にしては」 = so với… thì bất ngờ; 「からして」 = ngay từ…; 「といえば」 = nhắc đến… (chuyển đề tài)."
+      "vi": "Nói là biết nấu ăn, nhưng thật ra chỉ làm được cà ri với cơm chiên thôi.",
+      "why": "Vế sau **hạ mức độ** của 「料理ができる」 (nghe thì giỏi, thực ra chỉ vài món) → **といっても**. 「からといって」 cần vế sau phản bác một suy luận (〜とは限らない／〜わけではない), ở đây chỉ là sửa lại mức độ; 「としたら」 = nếu giả sử, không hợp với vế sau là sự thật; 「といえば」 = nhắc đến… thì liên tưởng tới, không có nghĩa \"nhưng thực ra\"."
+    },
+    {
+      "id": "b28-q21",
+      "kind": "form",
+      "ref": "b28-10",
+      "q": "この{店|みせ}のラーメンは、{八百円|はっぴゃくえん}（　　）{具|ぐ}がたくさん{入|はい}っていて{満足感|まんぞくかん}がある。",
+      "options": [
+        "にとって",
+        "からして",
+        "にしては",
+        "にしたら"
+      ],
+      "answer": 2,
+      "vi": "Mì ramen của quán này, so với giá 800 yên thì có rất nhiều đồ ăn kèm, ăn rất thoả mãn.",
+      "why": "Lấy 「八百円」 làm thước đo rồi nhận xét **vượt dự đoán** → **にしては**. 「にとって」 cần danh từ chỉ người / bên đánh giá (私にとって); 「からして」 = ngay từ… đã (lấy một chi tiết để đánh giá cả); 「にしたら」 = đứng ở vị trí **người** A mà nghĩ — giá tiền không phải người."
+    },
+    {
+      "id": "b28-q22",
+      "kind": "form",
+      "ref": "b28-11",
+      "q": "{毎朝|まいあさ}{五時|ごじ}に{起|お}きて{弁当|べんとう}を{作|つく}る{母|はは}（　　）、たまにはゆっくり{寝|ね}ていたいと{思|おも}うこともあるだろう。",
+      "options": [
+        "にしては",
+        "といえば",
+        "にしたら",
+        "にとって"
+      ],
+      "answer": 2,
+      "vi": "Đứng ở vị trí người mẹ sáng nào cũng dậy lúc 5 giờ làm cơm hộp, hẳn cũng có lúc muốn được ngủ thêm.",
+      "why": "Đặt mình vào vị trí **người mẹ** để đoán cảm xúc (〜と思うこともあるだろう) → **にしたら**. 「にとって」 đi với đánh giá khách quan (大切だ・大変だ), không đi với suy nghĩ 〜と思う của người đó; 「にしては」 = so với… thì bất ngờ; 「といえば」 = nhắc đến… thì liên tưởng, không dùng để đoán tâm lý."
+    },
+    {
+      "id": "b28-q24",
+      "kind": "order",
+      "ref": "b28-1",
+      "q": "この{博物館|はくぶつかん}では、＿＿＿ ＿＿＿ ★ ＿＿＿ {間近|まぢか}で{見|み}ることができる。",
+      "options": [
+        "{貴重|きちょう}な{文化財|ぶんかざい}を",
+        "といった",
+        "{古代|こだい}の{土器|どき}や",
+        "{鏡|かがみ}"
+      ],
+      "order": [
+        2,
+        3,
+        1,
+        0
+      ],
+      "answer": 1,
+      "vi": "Ở bảo tàng này, có thể ngắm tận mắt những di vật quý như đồ gốm và gương thời cổ đại.",
+      "why": "この博物館では、**古代の土器や 鏡 といった 貴重な文化財を** 間近で見ることができる → ★ (ô thứ 3) = 「といった」. Khuôn 「N1やN2といった＋N nhóm」: 「土器や」 cần N2 「鏡」 theo sau, rồi 「といった」, cuối cùng là danh từ nhóm 「貴重な文化財を」 làm tân ngữ cho 「見る」."
+    },
+    {
+      "id": "b28-q11",
+      "kind": "order",
+      "ref": "b28-3",
+      "q": "{初|はじ}めて{一人|ひとり}で{海外|かいがい}に ＿＿＿ ＿＿＿ ★ ＿＿＿ 。",
+      "options": [
+        "{心細|こころぼそ}さ",
+        "{行|い}った",
+        "といったらなかった",
+        "{時|とき}の"
+      ],
+      "order": [
+        1,
+        3,
+        0,
+        2
+      ],
+      "answer": 0,
+      "vi": "Cảm giác chơi vơi khi lần đầu tiên một mình ra nước ngoài thì không gì tả nổi.",
+      "why": "初めて一人で海外に **行った 時の 心細さ といったらなかった** → ★ (ô thứ 3) = 「心細さ」. 「海外に」 cần động từ 「行った」; 「行った時の」 bổ nghĩa cho danh từ mức độ 「心細さ」; khuôn 「N(〜さ)といったらない」 = cực kỳ, không tả nổi, nên 「といったらなかった」 đứng cuối."
+    },
+    {
+      "id": "b28-q13",
+      "kind": "order",
+      "ref": "b28-5",
+      "q": "メールの{返事|へんじ}が ＿＿＿ ＿＿＿ ★ ＿＿＿ わけではない。",
+      "options": [
+        "{嫌|きら}われている",
+        "{必|かなら}ずしも",
+        "{来|こ}ない",
+        "からといって"
+      ],
+      "order": [
+        2,
+        3,
+        1,
+        0
+      ],
+      "answer": 1,
+      "vi": "Chỉ vì không nhận được thư trả lời thì không hẳn là mình bị ghét.",
+      "why": "メールの返事が **来ない からといって 必ずしも 嫌われている** わけではない → ★ (ô thứ 3) = 「必ずしも」. 「返事が来ない」 là lý do; 「からといって」 nối sang vế phản bác; 「必ずしも〜わけではない」 là cặp hô ứng (không hẳn là), nên 「必ずしも」 đứng trước 「嫌われている」."
+    },
+    {
+      "id": "b28-q16",
+      "kind": "order",
+      "ref": "b28-7",
+      "q": "あの{店|みせ}は ＿＿＿ ＿＿＿ ★ ＿＿＿ 、とても{入|はい}る{気|き}になれない。",
+      "options": [
+        "からして",
+        "{汚|よご}れていて",
+        "{看板|かんばん}",
+        "{入|い}り{口|ぐち}の"
+      ],
+      "order": [
+        3,
+        2,
+        0,
+        1
+      ],
+      "answer": 0,
+      "vi": "Quán đó ngay cả tấm biển ở lối vào cũng bẩn thỉu, tôi chẳng muốn bước vào chút nào.",
+      "why": "あの店は **入り口の 看板 からして 汚れていて**、… → ★ (ô thứ 3) = 「からして」. 「入り口の」 bổ nghĩa cho danh từ 「看板」; 「からして」 đi ngay sau danh từ; phần nhận xét 「汚れていて」 đứng cuối, nối với 「とても入る気になれない」."
     },
     {
       "id": "b28-q7",
@@ -824,6 +1043,72 @@
       "answer": 2,
       "vi": "Nghe nói xét từ góc độ chuyên gia thì phương pháp đó khá nguy hiểm.",
       "why": "専門家の **立場 からいうと その方法は かなり** 危険だそうだ → ★ (ô thứ 3) = 「その方法は」. 「の」 cần danh từ 「立場」; 「からいうと」 theo sau; chủ đề 「その方法は」 rồi trạng từ 「かなり」 bổ nghĩa cho 「危険」."
+    },
+    {
+      "id": "b28-q18",
+      "kind": "order",
+      "ref": "b28-8",
+      "q": "{渡|わた}された ＿＿＿ ＿＿＿ ★ ＿＿＿ {駅|えき}からバスで{行|い}くしかなさそうだ。",
+      "options": [
+        "{旅館|りょかん}までは",
+        "とすれば",
+        "{正|ただ}しい",
+        "{地図|ちず}が"
+      ],
+      "order": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "answer": 1,
+      "vi": "Nếu tấm bản đồ được đưa cho là đúng thì đến nhà trọ chắc chỉ còn cách đi xe buýt từ ga.",
+      "why": "渡された **地図が 正しい とすれば 旅館までは** 駅からバスで行くしかなさそうだ → ★ (ô thứ 3) = 「とすれば」. 「渡された」 bổ nghĩa cho 「地図」; 「地図が正しい」 + 「とすれば」 = giả định để suy luận từ thông tin có sẵn; 「旅館までは」 là chủ đề của vế sau (đường tới nhà trọ)."
+    },
+    {
+      "id": "b28-q9",
+      "kind": "usage",
+      "ref": "b28-2",
+      "q": "「〜といえば」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "{夏祭|なつまつ}りといえば、{浴衣|ゆかた}を{着|き}て{屋台|やたい}を{回|まわ}るのが{一番|いちばん}の{楽|たの}しみだ。",
+        "{風邪|かぜ}をひいたといえば、{今日|きょう}は{学校|がっこう}を{休|やす}みます。",
+        "{勉強|べんきょう}しないといえば、{試験|しけん}に{合格|ごうかく}できない。",
+        "{彼|かれ}は{医者|いしゃ}といえば、まだ{研修中|けんしゅうちゅう}の{新人|しんじん}だ。"
+      ],
+      "answer": 0,
+      "vi": "(1) Nhắc đến lễ hội mùa hè thì niềm vui lớn nhất là mặc yukata đi dạo quanh các quầy hàng.",
+      "why": "(1) từ 「夏祭り」 **liên tưởng** ngay đến yukata, quầy hàng → đúng. (2) bị cảm nên nghỉ học là quan hệ lý do – kết quả → 「風邪をひいたので」. (3) là câu điều kiện \"nếu không học thì…\" → 「勉強しなければ」. (4) ý \"nói là bác sĩ nhưng thực ra mới là người mới đang thực tập\" → 「医者といっても」."
+    },
+    {
+      "id": "b28-q20",
+      "kind": "usage",
+      "ref": "b28-9",
+      "q": "「〜にしても」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "{新入|しんにゅう}{社員|しゃいん}にしても、ずいぶん{仕事|しごと}が{速|はや}いね。",
+        "{病気|びょうき}だにしても、{連絡|れんらく}ぐらいはできたはずだ。",
+        "{電車|でんしゃ}が{止|と}まったにしても、{会社|かいしゃ}に{遅刻|ちこく}した。",
+        "{休|やす}むにしても、{前日|ぜんじつ}までに{連絡|れんらく}を{入|い}れるべきだ。"
+      ],
+      "answer": 3,
+      "vi": "(4) Dù có nghỉ thì cũng nên báo trước muộn nhất là ngày hôm trước.",
+      "why": "(4) nhượng bộ \"dù nghỉ đi nữa\" + vế sau là **ý kiến** (〜べきだ) → đúng. (1) ý \"so với nhân viên mới thì nhanh\" → phải là 「にしては」. (2) danh từ đi thẳng với にしても, không chen だ (病気にしても／病気だったにしても). (3) vế sau là hệ quả bình thường của việc tàu dừng, không phải nhượng bộ → 「電車が止まったので」."
+    },
+    {
+      "id": "b28-q14",
+      "kind": "usage",
+      "ref": "b28-6",
+      "q": "「〜とはいいながら」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "{夏休|なつやす}みとはいいながら、{毎日|まいにち}{海|うみ}で{泳|およ}いでとても{楽|たの}しかった。",
+        "{明日|あした}は{休日|きゅうじつ}とはいいながら、{一緒|いっしょ}に{映画|えいが}を{見|み}に{行|い}こう。",
+        "{試験|しけん}に{合格|ごうかく}したとはいいながら、{家族|かぞく}みんなで{喜|よろこ}んだ。",
+        "{便利|べんり}な{時代|じだい}になったとはいいながら、{地方|ちほう}ではまだ{車|くるま}がないと{生活|せいかつ}できない。"
+      ],
+      "answer": 3,
+      "vi": "(4) Tuy nói là thời đại đã trở nên tiện lợi, nhưng ở vùng địa phương không có ô tô thì vẫn không sống được.",
+      "why": "(4) A là sự thật (thời đại tiện lợi) nhưng thực tế **trái với điều A gợi ra** (vẫn phải có xe) → đúng. (1) và (3) vế sau **thuận theo** A (nghỉ hè thì đi bơi vui; thi đỗ thì cả nhà mừng), không có gì trái kỳ vọng. (2) vế sau là lời rủ — 「とはいいながら」 không đi với rủ rê / mệnh lệnh."
     }
   ],
   "practice": [

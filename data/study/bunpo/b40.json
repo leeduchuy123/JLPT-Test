@@ -352,19 +352,19 @@
   },
   "quiz": [
     {
-      "id": "b40-q1",
+      "id": "b40-q7",
       "kind": "form",
       "ref": "b40-1",
-      "q": "{突然|とつぜん}{後|うし}ろから{声|こえ}を（　　）、{振|ふ}り{向|む}くと{高校|こうこう}の{同級生|どうきゅうせい}が{立|た}っていた。",
+      "q": "{図書館|としょかん}で{大|おお}きな{声|こえ}で{電話|でんわ}をしていたら、{係|かかり}の{人|ひと}に（　　）、{恥|は}ずかしい{思|おも}いをした。",
       "options": [
-        "かけて",
-        "かかって",
-        "かけられて",
-        "かけさせて"
+        "注意して",
+        "注意させて",
+        "注意させられて",
+        "注意されて"
       ],
-      "answer": 2,
-      "vi": "Đột nhiên có người gọi tôi từ phía sau, quay lại thì thấy bạn cùng lớp hồi cấp 3 đang đứng đó.",
-      "why": "Người quay lại (振り向く) là \"tôi\", nên vế trước cũng phải có chủ ngữ \"tôi\": người khác gọi → tôi **bị gọi** → **かけられて**. 「かけて」: tôi gọi từ phía sau rồi chính tôi quay lại — vô lý. 「かかって」 là 自動詞, không đi với 「声を」. 「かけさせて」: tôi bắt ai đó gọi — không hợp."
+      "answer": 3,
+      "vi": "Tôi đang nói điện thoại to tiếng trong thư viện thì bị nhân viên nhắc nhở, thật xấu hổ.",
+      "why": "Cả câu kể từ phía \"tôi\" (tôi gọi điện, tôi xấu hổ). Người nhắc là nhân viên (「係の人に」), người bị nhắc là tôi → bị động **注意されて**. 「注意して」: tôi nhắc nhân viên — trái với 「係の人に」 và với cảm giác xấu hổ ở vế sau. 「注意させて」: tôi bắt nhân viên đi nhắc (ai đó) — vô lý. 「注意させられて」: tôi bị bắt phải đi nhắc người khác — sai nghĩa."
     },
     {
       "id": "b40-q2",
@@ -382,6 +382,51 @@
       "why": "Chủ ngữ わたし, người dạy là bà (「祖母から」) → động từ của vai người học: **教わった**. 「教えた」「教えてあげた」: tôi dạy bà — trái với 「から」 và với câu sau. 「教えさせた」: tôi bắt (ai đó) dạy — sai nghĩa."
     },
     {
+      "id": "b40-q9",
+      "kind": "form",
+      "ref": "b40-3",
+      "q": "この{会議室|かいぎしつ}は、{人|ひと}がいなくなって{五分|ごふん}たつと、{自動的|じどうてき}に{電気|でんき}が（　　）ようになっている。",
+      "options": [
+        "消す",
+        "消させる",
+        "消える",
+        "消してある"
+      ],
+      "answer": 2,
+      "vi": "Phòng họp này được làm sao cho khi không còn ai được 5 phút thì đèn tự động tắt.",
+      "why": "Có 「電気が」 và 「自動的に」: không có người làm, ta chú ý vào bản thân cái đèn → 自動詞 **消える**. 「消す」「消させる」 là tha động từ / sai khiến, cần 「を」 và một người làm. 「消してある」 = ai đó đã cố ý tắt sẵn — mâu thuẫn với 「自動的に」 và với một cơ chế lặp đi lặp lại."
+    },
+    {
+      "id": "b40-q1",
+      "kind": "form",
+      "ref": "b40-1",
+      "q": "{突然|とつぜん}{後|うし}ろから{声|こえ}を（　　）、{振|ふ}り{向|む}くと{高校|こうこう}の{同級生|どうきゅうせい}が{立|た}っていた。",
+      "options": [
+        "かけて",
+        "かかって",
+        "かけられて",
+        "かけさせて"
+      ],
+      "answer": 2,
+      "vi": "Đột nhiên có người gọi tôi từ phía sau, quay lại thì thấy bạn cùng lớp hồi cấp 3 đang đứng đó.",
+      "why": "Người quay lại (振り向く) là \"tôi\", nên vế trước cũng phải có chủ ngữ \"tôi\": người khác gọi → tôi **bị gọi** → **かけられて**. 「かけて」: tôi gọi từ phía sau rồi chính tôi quay lại — vô lý. 「かかって」 là 自動詞, không đi với 「声を」. 「かけさせて」: tôi bắt ai đó gọi — không hợp."
+    },
+    {
+      "id": "b40-q8",
+      "kind": "form",
+      "ref": "b40-2",
+      "q": "チェックアウトの{後|あと}も{観光|かんこう}をしたいので、{夕方|ゆうがた}までフロントに{荷物|にもつ}を（　　）もいいですか。",
+      "options": [
+        "預けて",
+        "預かって",
+        "預けられて",
+        "預からせて"
+      ],
+      "answer": 0,
+      "vi": "Sau khi trả phòng tôi vẫn muốn đi tham quan, tôi gửi hành lý ở quầy lễ tân đến chiều tối có được không?",
+      "why": "Người nói là khách: muốn đi tham quan nên **gửi** hành lý cho quầy lễ tân giữ. Vai người gửi: 「(nơi / người nhận)に 預ける」 → **預けて**. 「預かって」 là động từ của vai **người giữ đồ** (khách sạn: フロントが荷物を預かる), khách không thể tự \"giữ hộ\" đồ của mình. 「預けられて」 là bị động — \"tôi\" bị ai gửi đồ cho, sai vai. 「預からせて」: bắt ai đó giữ đồ — không hợp với lời xin phép."
+    },
+    {
       "id": "b40-q3",
       "kind": "form",
       "ref": "b40-3",
@@ -395,6 +440,36 @@
       "answer": 0,
       "vi": "Vì trận động đất lúc nửa đêm, lọ hoa trên kệ rơi xuống vỡ mất.",
       "why": "Nguyên nhân là động đất, không có người làm; chủ ngữ 「花瓶が」 → 自動詞 **落ちて** (và 割れる cũng là 自動詞, cùng chủ ngữ 花瓶). 「落として」 cần 「を」 và một người làm. 「落とされて」 ngầm có thủ phạm. 「落とさせて」 là sai khiến — không hợp."
+    },
+    {
+      "id": "b40-q10",
+      "kind": "form",
+      "ref": "b40-4",
+      "q": "すみません、お{借|か}りした{本|ほん}を{雨|あめ}で（　　）しまいました。",
+      "options": [
+        "ぬれて",
+        "ぬらされて",
+        "ぬれさせて",
+        "ぬらして"
+      ],
+      "answer": 3,
+      "vi": "Xin lỗi, tôi đã để mưa làm ướt cuốn sách mượn của anh.",
+      "why": "Câu xin lỗi, nhận phần lỗi về mình → dùng 他動詞 **ぬらして** (「本を」 + ぬらす), dù nguyên nhân trực tiếp là mưa. 「ぬれて」 là 自動詞, không đi với 「本を」 (phải là 本がぬれて — nghe như đổ cho mưa). 「ぬらされて」: tôi bị ai đó làm ướt — sai trợ từ và né trách nhiệm. 「ぬれさせて」 là sai khiến của 自動詞 — không dùng ở đây."
+    },
+    {
+      "id": "b40-q12",
+      "kind": "form",
+      "ref": "b40-5",
+      "q": "{会議中|かいぎちゅう}、{部長|ぶちょう}から{急|きゅう}に{難|むずか}しい{質問|しつもん}を（　　）、{一瞬|いっしゅん}{頭|あたま}が{真|ま}っ{白|しろ}になった。",
+      "options": [
+        "されて",
+        "して",
+        "させて",
+        "させられて"
+      ],
+      "answer": 0,
+      "vi": "Trong cuộc họp, tôi bất ngờ bị trưởng phòng hỏi một câu khó, đầu óc trống rỗng trong giây lát.",
+      "why": "Vế sau (「頭が真っ白になった」) là chuyện của \"tôi\", nên vế trước 「〜て」 cũng phải có chủ ngữ \"tôi\". Người hỏi là trưởng phòng (「部長から」) → tôi **bị hỏi**: **されて**. 「して」: tôi hỏi — không hợp với 「部長から」. 「させて」: tôi bắt trưởng phòng hỏi. 「させられて」: tôi bị bắt phải đặt câu hỏi — đều sai nghĩa."
     },
     {
       "id": "b40-q4",
@@ -425,6 +500,171 @@
       "answer": 3,
       "vi": "Bố đeo kính lão vào rồi đọc đi đọc lại lá thư của cháu nhiều lần.",
       "why": "「〜て」 ở đây là trạng thái đi kèm: bố đeo kính + bố đọc → cùng chủ ngữ 「父は」 → 他動詞 **かけて** (めがねをかける). 「かかって」 là 自動詞, không đi với を. 「かけられて」 (bị ai đeo cho) và 「かけさせて」 (bắt ai đeo) đều làm lệch chủ ngữ."
+    },
+    {
+      "id": "b40-q11",
+      "kind": "form",
+      "ref": "b40-4",
+      "q": "{急|いそ}ぎの{用事|ようじ}があって{何度|なんど}もかけ{直|なお}したが、{課長|かちょう}の{携帯電話|けいたいでんわ}にはどうしても（　　）。",
+      "options": [
+        "つながなかった",
+        "つながらなかった",
+        "つながれなかった",
+        "つながせなかった"
+      ],
+      "answer": 1,
+      "vi": "Có việc gấp nên tôi gọi lại không biết bao nhiêu lần, nhưng thế nào cũng không gọi được vào điện thoại di động của trưởng phòng.",
+      "why": "Khuôn 「何度も〜したが、どうしても（　）」: đã cố gắng nhưng **kết quả** không xảy ra → 自動詞 phủ định **つながらなかった** (điện thoại không thông). 「つながなかった」 là 他動詞 つなぐ (nối máy) — cần 「を」 và thành nghĩa \"tôi đã không nối máy\", trái với việc gọi nhiều lần. 「つながれなかった」 (bị động của つなぐ) và 「つながせなかった」 (sai khiến) đều không hợp."
+    },
+    {
+      "id": "b40-q13",
+      "kind": "form",
+      "ref": "b40-5",
+      "q": "{大雪|おおゆき}で{電車|でんしゃ}が（　　）、{入学試験|にゅうがくしけん}の{開始|かいし}が{一時間|いちじかん}{遅|おく}れた。",
+      "options": [
+        "止めて",
+        "止まらせて",
+        "止まって",
+        "止めさせて"
+      ],
+      "answer": 2,
+      "vi": "Do tuyết rơi dày, tàu điện ngừng chạy nên giờ bắt đầu kỳ thi tuyển sinh bị lùi lại một tiếng.",
+      "why": "Ở đây 「〜て」 mang nghĩa **lý do** (= ので), nên hai vế được phép khác chủ ngữ: vế trước 「電車が」, vế sau 「開始が」. Với 「電車が」 và nguyên nhân là tuyết → 自動詞 **止まって**. 「止めて」「止めさせて」 là 他動詞 / sai khiến, cần 「を」 và người làm. 「止まらせて」: bắt tàu dừng — không có ai ra lệnh ở đây. Đừng máy móc ép hai vế cùng chủ ngữ khi 「て」 là lý do."
+    },
+    {
+      "id": "b40-q14",
+      "kind": "order",
+      "ref": "b40-1",
+      "q": "わたしは{子|こ}どものころ、 ＿＿＿ ＿＿＿ ★ ＿＿＿ があって、{今|いま}でも{犬|いぬ}が{苦手|にがて}だ。",
+      "options": [
+        "かまれた",
+        "こと",
+        "近所の",
+        "犬に"
+      ],
+      "answer": 0,
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "vi": "Hồi nhỏ tôi từng bị chó nhà hàng xóm cắn, nên đến giờ vẫn sợ chó.",
+      "why": "Thứ tự: 近所の → 犬に → かまれた（★）→ こと（があって）. 「近所の」 phải đứng trước danh từ 「犬」; con vật gây ra hành động đi với 「に」 + bị động 「かまれた」, rồi 「〜たことがある」 (kinh nghiệm). Nhờ bị động, chủ ngữ \"tôi\" giữ nguyên từ đầu đến cuối câu."
+    },
+    {
+      "id": "b40-q16",
+      "kind": "order",
+      "ref": "b40-3",
+      "q": "{忘|わす}れ{物|もの}を{取|と}りに{教室|きょうしつ}へ{戻|もど}ると、 ＿＿＿ ★ ＿＿＿ ＿＿＿ のに、{中|なか}には{誰|だれ}もいなかった。",
+      "options": [
+        "まま",
+        "電気が",
+        "になっていた",
+        "ついた"
+      ],
+      "answer": 3,
+      "order": [
+        1,
+        3,
+        0,
+        2
+      ],
+      "vi": "Quay lại lớp lấy đồ bỏ quên thì đèn vẫn đang bật nguyên, vậy mà bên trong chẳng có ai.",
+      "why": "Thứ tự: 電気が → ついた（★）→ まま → になっていた. Câu tả **trạng thái** người nói nhìn thấy, không nói ai bật → 自動詞 「電気がつく」 (đi với 「が」); 「〜たままになっている」 = vẫn để nguyên trạng thái đó."
+    },
+    {
+      "id": "b40-q15",
+      "kind": "order",
+      "ref": "b40-2",
+      "q": "{今|いま}でもギョーザを{作|つく}るときは、 ＿＿＿ ＿＿＿ ★ ＿＿＿ で{皮|かわ}を{包|つつ}んでいる。",
+      "options": [
+        "方法",
+        "教わった",
+        "料理教室の",
+        "先生に"
+      ],
+      "answer": 1,
+      "order": [
+        2,
+        3,
+        1,
+        0
+      ],
+      "vi": "Đến giờ mỗi khi làm há cảo, tôi vẫn gói vỏ theo cách đã được thầy ở lớp nấu ăn chỉ cho.",
+      "why": "Thứ tự: 料理教室の → 先生に → 教わった（★）→ 方法（で）. 「料理教室の」 bổ nghĩa cho 「先生」; 「先生に教わった」 là mệnh đề bổ nghĩa cho 「方法」. Chủ ngữ ẩn là \"tôi\" nên dùng 教わる (vai người học), người dạy đi với 「に」."
+    },
+    {
+      "id": "b40-q17",
+      "kind": "order",
+      "ref": "b40-4",
+      "q": "この{財布|さいふ}は ＿＿＿ ＿＿＿ ＿＿＿ ★ {入|はい}るので、{旅行|りょこう}に{便利|べんり}だ。",
+      "options": [
+        "わりに",
+        "十枚以上の",
+        "カードが",
+        "小さい"
+      ],
+      "answer": 2,
+      "order": [
+        3,
+        0,
+        1,
+        2
+      ],
+      "vi": "Cái ví này tuy nhỏ nhưng đựng được hơn mười tấm thẻ, nên rất tiện khi đi du lịch.",
+      "why": "Thứ tự: 小さい → わりに → 十枚以上の → カードが（★）→ 入る. 「入る」 ở đây nói **sức chứa** của đồ vật → 自動詞, thứ được chứa đi với 「が」 (カードが入る), không phải 「カードを入れる」. 「十枚以上の」 phải đứng ngay trước 「カード」."
+    },
+    {
+      "id": "b40-q18",
+      "kind": "order",
+      "ref": "b40-5",
+      "q": "＿＿＿ ＿＿＿ ＿＿＿ ★ 、わたしは{少|すこ}し{気持|きも}ちが{軽|かる}くなった。",
+      "options": [
+        "励まされて",
+        "先輩に",
+        "悩みを",
+        "聞いてくれた"
+      ],
+      "answer": 0,
+      "order": [
+        2,
+        3,
+        1,
+        0
+      ],
+      "vi": "Được người đàn anh đã lắng nghe nỗi lòng mình động viên, tôi thấy nhẹ lòng hơn một chút.",
+      "why": "Thứ tự: 悩みを → 聞いてくれた → 先輩に → 励まされて（★）. 「悩みを聞いてくれた」 bổ nghĩa cho 「先輩」. Vế sau có chủ ngữ 「わたしは」, nên vế trước 「〜て」 cũng phải là chuyện của \"tôi\" → bị động 「先輩に励まされて」 (nếu viết 「先輩が励まして」 thì hai vế lệch chủ ngữ)."
+    },
+    {
+      "id": "b40-q19",
+      "kind": "usage",
+      "ref": "b40-2",
+      "q": "{視点|してん}が{統一|とういつ}されていて、{最|もっと}も{自然|しぜん}な{文|ぶん}を{選|えら}びなさい。",
+      "options": [
+        "わたしたちは準決勝まで進んだが、強豪の相手チームがわたしたちに勝った。",
+        "引っ越しの日、わたしは大家さんから新しい部屋の鍵を受け取った。",
+        "わたしは兄が貸したお金で、新しいパソコンを買った。",
+        "大学で田中先生がわたしに経済学を教えて、わたしは経済に興味を持った。"
+      ],
+      "answer": 1,
+      "vi": "(2) Hôm chuyển nhà, tôi nhận chìa khoá phòng mới từ chủ nhà.",
+      "why": "(2) chủ ngữ \"tôi\", dùng động từ của vai mình (受け取る, người đưa đi với 「から」) → tự nhiên. (1) vế sau đột ngột lấy đội bạn làm chủ ngữ → nên là 「強豪の相手チームに負けた」. (3) câu có chủ ngữ \"tôi\" mà lại chen 「兄が貸した」 → nên là 「兄に借りたお金で」. (4) vế đầu chủ ngữ là thầy, vế sau là tôi → nên là 「田中先生に経済学を教わって」."
+    },
+    {
+      "id": "b40-q20",
+      "kind": "usage",
+      "ref": "b40-3",
+      "q": "{自動詞|じどうし}・{他動詞|たどうし}の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "部屋の窓が開けているので、少し寒い。",
+        "スイッチを押すと、ランプが赤くつけます。",
+        "サッカーボールが当たって、窓ガラスを割れてしまった。",
+        "急に強い風が吹いて、机の上の書類が床に散らばった。"
+      ],
+      "answer": 3,
+      "vi": "(4) Bỗng một cơn gió mạnh thổi tới, giấy tờ trên bàn rơi vương vãi xuống sàn.",
+      "why": "(4) gió thổi, giấy tờ tự tung ra — không có người làm → 自動詞 「散らばる」 với 「書類が」 → đúng. (1) 「窓が」 + 他動詞 開ける → phải là 「窓が開いている」 (hoặc 「窓が開けてある」 nếu có người cố ý mở). (2) máy phản ứng → 自動詞: 「ランプが赤くつきます」. (3) 「窓ガラスを」 + 自動詞 割れる sai trợ từ → 「窓ガラスが割れてしまった」."
     },
     {
       "id": "b40-q6",

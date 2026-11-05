@@ -452,6 +452,111 @@
       "why": "Quá trình dài (1年にわたる交渉) + kết quả tích cực (ついに合意した), giọng tin tức → **末**. 「あげく」 đúng ngữ pháp (Nのあげく) nhưng chỉ dùng cho kết quả xấu; 「交渉のきり」「交渉のところ」 sai cấu trúc."
     },
     {
+      "id": "b20-q6",
+      "kind": "form",
+      "ref": "b20-6",
+      "q": "{旅行中|りょこうちゅう}はずっと{天気|てんき}が{悪|わる}く、{楽|たの}しみにしていた{富士山|ふじさん}は{一度|いちど}も{見|み}（　　）。",
+      "options": [
+        "ずじまいだった",
+        "るところだった",
+        "たきりだった",
+        "た末だった"
+      ],
+      "answer": 0,
+      "vi": "Suốt chuyến đi trời xấu, ngọn núi Phú Sĩ mà tôi mong chờ rốt cuộc không được thấy lần nào.",
+      "why": "Mong muốn được thấy nhưng chuyến đi đã kết thúc mà không thấy → **見ずじまいだった**. 「見るところだった」 = suýt thấy, mâu thuẫn với 一度も; 「見たきり」 = đã thấy rồi, mâu thuẫn; 「見た末」 không có quá trình dài và sai nghĩa."
+    },
+    {
+      "id": "b20-q8",
+      "kind": "form",
+      "ref": "b20-1",
+      "q": "{新|あたら}しいシャンプーを{試|ため}してみた（　　）、{髪|かみ}がさらさらになった。",
+      "options": [
+        "ところで",
+        "きり",
+        "ところ",
+        "あげく"
+      ],
+      "answer": 2,
+      "vi": "Tôi thử dùng loại dầu gội mới thì tóc trở nên mượt hẳn.",
+      "why": "Làm thử **một lần** (試してみた) rồi thấy kết quả → **たところ**. 「たところで」 = \"dù có làm… cũng (vô ích)\", vế sau phải tiêu cực; 「きり」 = làm rồi từ đó việc tiếp theo không xảy ra, thường có phủ định; 「あげく」 cần một quá trình dài, rắc rối và kết quả xấu."
+    },
+    {
+      "id": "b20-q13",
+      "kind": "form",
+      "ref": "b20-2",
+      "q": "あの{漫画|まんが}は{去年|きょねん}{友人|ゆうじん}に{貸|か}した（　　）、まだ{返|かえ}ってこない。",
+      "options": [
+        "きり",
+        "末に",
+        "あげく",
+        "ところだった"
+      ],
+      "answer": 0,
+      "vi": "Bộ truyện tranh đó tôi cho bạn mượn từ năm ngoái, rồi đến giờ vẫn chưa thấy trả.",
+      "why": "Làm A (貸した) rồi việc tiếp theo mong đợi (trả lại) **mãi không đến** → **Vた + きり** + phủ định. 「末に」「あげく」 cần một quá trình dài (cho mượn là việc một lần); 「ところだった」 = suýt nữa, là đuôi câu."
+    },
+    {
+      "id": "b20-q11",
+      "kind": "form",
+      "ref": "b20-5",
+      "q": "{横断|おうだん}{歩道|ほどう}を{渡|わた}っていたら、{信号|しんごう}{無視|むし}の{車|くるま}が{突|つ}っ{込|こ}んできて、もう{少|すこ}しで（　　）。",
+      "options": [
+        "ひかれるところだった",
+        "ひかれたところだ",
+        "ひかれたきりだ",
+        "ひかれずじまいだった"
+      ],
+      "answer": 0,
+      "vi": "Đang qua vạch sang đường thì một chiếc xe vượt đèn đỏ lao tới, suýt nữa thì tôi bị cán.",
+      "why": "「もう少しで」 + chuyện xấu **suýt xảy ra nhưng không xảy ra** → **V辞書形 + ところだった**. 「たところだ」 = vừa mới (đã bị cán), mâu thuẫn với もう少しで; 「たきりだ」 = rồi từ đó không…; 「ずじまいだった」 = tiếc nuối vì việc **muốn làm** mà không làm được — không ai muốn bị xe cán."
+    },
+    {
+      "id": "b20-q9",
+      "kind": "form",
+      "ref": "b20-3",
+      "q": "{弟|おとうと}は{一時間|いちじかん}も{店|みせ}の{中|なか}を{歩|ある}き{回|まわ}った（　　）、{結局|けっきょく}{何|なに}も{買|か}わずに{帰|かえ}ってきた。",
+      "options": [
+        "ところ",
+        "きり",
+        "ところだった",
+        "あげく"
+      ],
+      "answer": 3,
+      "vi": "Em trai tôi đi lòng vòng trong cửa hàng suốt một tiếng, rốt cuộc chẳng mua gì mà về.",
+      "why": "Quá trình dài, mất công (一時間も歩き回った) + kết quả đáng ngán (結局何も買わず) → **あげく**. 「たところ」 dùng khi làm một việc rồi **phát hiện** kết quả ngoài tầm kiểm soát, còn \"không mua gì\" là hành động của chính người đó; 「きり」 = rồi từ đó không…; 「ところだった」 là đuôi câu (suýt nữa), không nối vào giữa câu."
+    },
+    {
+      "id": "b20-q10",
+      "kind": "form",
+      "ref": "b20-4",
+      "q": "{選手|せんしゅ}たちは{厳|きび}しい{練習|れんしゅう}を{重|かさ}ねた（　　）、{初|はじ}めて{全国|ぜんこく}{大会|たいかい}への{出場|しゅつじょう}を{決|き}めた。",
+      "options": [
+        "あげく",
+        "末に",
+        "きり",
+        "ところ"
+      ],
+      "answer": 1,
+      "vi": "Sau bao lần khổ luyện, các tuyển thủ lần đầu tiên giành được vé dự giải toàn quốc.",
+      "why": "Quá trình dài (練習を重ねた) → **kết quả tốt** → **末に**. 「あげく」 chỉ dùng cho kết quả **xấu**; 「たところ」 là làm **một lần** rồi biết kết quả, không hợp với 重ねた (lặp lại nhiều lần); 「きり」 = rồi từ đó không… nữa."
+    },
+    {
+      "id": "b20-q12",
+      "kind": "form",
+      "ref": "b20-6",
+      "q": "{出張|しゅっちょう}{先|さき}では{会議|かいぎ}{続|つづ}きで、{楽|たの}しみにしていた{観光|かんこう}は{何|なに}も（　　）{東京|とうきょう}に{戻|もど}ってきた。",
+      "options": [
+        "したきりで",
+        "した末に",
+        "したあげく",
+        "せずじまいで"
+      ],
+      "answer": 3,
+      "vi": "Ở nơi công tác toàn họp là họp, tôi chẳng đi tham quan được chỗ nào như mong đợi mà đã quay về Tokyo.",
+      "why": "Việc mong muốn (観光) rốt cuộc **không làm được**, đã hết cơ hội (đã về Tokyo) → **ずじまい**; する → **せず**じまい. 「何も」 cần vế phủ định nên 「したきり」「した末に」「したあげく」 (đều là thể khẳng định) không đứng sau 「何も」 được, và nghĩa cũng không hợp."
+    },
+    {
       "id": "b20-q5",
       "kind": "order",
       "ref": "b20-5",
@@ -473,19 +578,61 @@
       "why": "危うく **大事な 飛行機に 乗り遅れる ところだった** → ★ (ô thứ 3) = 「乗り遅れる」. 「大事な」 bổ nghĩa cho 「飛行機」; 「ところだった」 đứng sau V辞書形 và kết câu."
     },
     {
-      "id": "b20-q6",
-      "kind": "form",
-      "ref": "b20-6",
-      "q": "{旅行中|りょこうちゅう}はずっと{天気|てんき}が{悪|わる}く、{楽|たの}しみにしていた{富士山|ふじさん}は{一度|いちど}も{見|み}（　　）。",
+      "id": "b20-q15",
+      "kind": "order",
+      "ref": "b20-1",
+      "q": "ホテルに ＿＿＿ ＿＿＿ ★ ＿＿＿ 、あいにく{満室|まんしつ}だと{言|い}われた。",
       "options": [
-        "ずじまいだった",
-        "るところだった",
-        "たきりだった",
-        "た末だった"
+        "{週末|しゅうまつ}の",
+        "{問|と}い{合|あ}わせたところ",
+        "{空室|くうしつ}が",
+        "あるかどうか"
       ],
-      "answer": 0,
-      "vi": "Suốt chuyến đi trời xấu, ngọn núi Phú Sĩ mà tôi mong chờ rốt cuộc không được thấy lần nào.",
-      "why": "Mong muốn được thấy nhưng chuyến đi đã kết thúc mà không thấy → **見ずじまいだった**. 「見るところだった」 = suýt thấy, mâu thuẫn với 一度も; 「見たきり」 = đã thấy rồi, mâu thuẫn; 「見た末」 không có quá trình dài và sai nghĩa."
+      "answer": 3,
+      "order": [
+        0,
+        2,
+        3,
+        1
+      ],
+      "vi": "Tôi hỏi khách sạn xem cuối tuần còn phòng trống không thì được báo là rất tiếc đã kín phòng.",
+      "why": "ホテルに **週末の 空室が あるかどうか 問い合わせたところ**、… → ★ (ô thứ 3) = 「あるかどうか」. 「週末の」 bổ nghĩa cho 「空室」; 「〜かどうか」 là nội dung câu hỏi của 「問い合わせた」; 「たところ」 đứng cuối vế trước, sau đó là kết quả nằm ngoài dự tính (満室だと言われた)."
+    },
+    {
+      "id": "b20-q14",
+      "kind": "form",
+      "ref": "b20-3",
+      "q": "{激|はげ}しい{口論|こうろん}（　　）、{二人|ふたり}はとうとう{殴|なぐ}り{合|あ}いのけんかを{始|はじ}めてしまった。",
+      "options": [
+        "したきり",
+        "のあげく",
+        "するところだった",
+        "せずじまいで"
+      ],
+      "answer": 1,
+      "vi": "Sau một trận cãi vã dữ dội, rốt cuộc hai người lao vào đánh nhau.",
+      "why": "Danh từ 口論 (quá trình rắc rối) → kết quả xấu hơn nữa (殴り合い, とうとう〜てしまった) → **Nのあげく**. Trước chỗ trống là 「激しい + danh từ」 nên phải nối bằng 「の」; 「したきり」 vừa sai cách nối (激しい口論した ✗) vừa sai nghĩa; 「するところだった」 là đuôi câu; 「せずじまい」 = rốt cuộc không làm, ngược nghĩa."
+    },
+    {
+      "id": "b20-q18",
+      "kind": "order",
+      "ref": "b20-4",
+      "q": "{両親|りょうしん}は ＿＿＿ ＿＿＿ ★ ＿＿＿ 、{三十年|さんじゅうねん}{続|つづ}けた{店|みせ}を{閉|し}めることにした。",
+      "options": [
+        "かけて",
+        "{末|すえ}",
+        "{話|はな}し{合|あ}った",
+        "{半年|はんとし}"
+      ],
+      "answer": 2,
+      "order": [
+        3,
+        0,
+        2,
+        1
+      ],
+      "vi": "Sau nửa năm bàn bạc, bố mẹ tôi quyết định đóng cửa tiệm đã duy trì suốt ba mươi năm.",
+      "why": "両親は **半年 かけて 話し合った 末**、… → ★ (ô thứ 3) = 「話し合った」. 「半年かけて」 (mất nửa năm) bổ nghĩa cho 「話し合った」; 「Vた + 末」 = sau quá trình dài thì đi đến quyết định."
     },
     {
       "id": "b20-q7",
@@ -501,6 +648,78 @@
       "answer": 1,
       "vi": "(2) Từ khi chia tay anh ấy ở nhà ga, tôi chưa gặp lại lần nào.",
       "why": "(2) Vたきり + 一度も〜ていない → đúng. (1) trạng thái giữ nguyên trong lúc làm việc khác → 「かけたまま」; (3) vế sau là nhờ vả → 「帰ったら」; (4) thể る và nghĩa \"làm thì kết quả là\" → 「運動するようになって」."
+    },
+    {
+      "id": "b20-q17",
+      "kind": "order",
+      "ref": "b20-5",
+      "q": "{危|あや}うく、{会議|かいぎ}の{資料|しりょう}を{保存|ほぞん}しないまま ＿＿＿ ＿＿＿ ★ ＿＿＿ 。",
+      "options": [
+        "{電源|でんげん}を",
+        "{切|き}ってしまう",
+        "ところだった",
+        "パソコンの"
+      ],
+      "answer": 1,
+      "order": [
+        3,
+        0,
+        1,
+        2
+      ],
+      "vi": "Suýt nữa thì tôi tắt nguồn máy tính khi chưa lưu tài liệu họp.",
+      "why": "危うく、…保存しないまま **パソコンの 電源を 切ってしまう ところだった** → ★ (ô thứ 3) = 「切ってしまう」. 「パソコンの電源」 là một cụm danh từ; 「ところだった」 nối sau **thể từ điển** (切ってしまう), đi cùng 「危うく」."
+    },
+    {
+      "id": "b20-q16",
+      "kind": "order",
+      "ref": "b20-3",
+      "q": "{修理|しゅうり}に{一週間|いっしゅうかん}も{待|ま}たされ、{高|たか}い{修理代|しゅうりだい}を ＿＿＿ ＿＿＿ ★ ＿＿＿ 。",
+      "options": [
+        "パソコンは",
+        "{直|なお}らなかった",
+        "{払|はら}わされた",
+        "あげく"
+      ],
+      "answer": 0,
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "vi": "Phải chờ sửa cả tuần, lại bị bắt trả tiền sửa đắt đỏ, vậy mà rốt cuộc máy tính vẫn không sửa được.",
+      "why": "…高い修理代を **払わされた あげく パソコンは 直らなかった** → ★ (ô thứ 3) = 「パソコンは」. 「修理代を」 cần động từ 「払わされた」 ngay sau; 「Vた + あげく」 nối với kết quả xấu; chủ đề 「パソコンは」 đứng trước vị ngữ 「直らなかった」."
+    },
+    {
+      "id": "b20-q19",
+      "kind": "usage",
+      "ref": "b20-4",
+      "q": "「〜{末|すえ}(に)」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "{何度|なんど}も{話|はな}し{合|あ}った{末|すえ}に、{来週|らいしゅう}もう{一度|いちど}{集|あつ}まりましょう。",
+        "ちょっと{考|かんが}えた{末|すえ}に、{昼|ひる}ご{飯|はん}はカレーにした。",
+        "{苦労|くろう}{末|すえ}に{建|た}てた{家|いえ}を、{地震|じしん}で{失|うしな}ってしまった。",
+        "{十年|じゅうねん}に{及|およ}ぶ{裁判|さいばん}の{末|すえ}、{男性|だんせい}の{無罪|むざい}が{確定|かくてい}した。"
+      ],
+      "answer": 3,
+      "vi": "(4) Sau phiên toà kéo dài mười năm, người đàn ông đã được xác nhận vô tội.",
+      "why": "(4) quá trình dài (十年に及ぶ裁判) → kết quả đã xảy ra, văn tin tức → đúng. (1) vế sau là lời rủ (〜ましょう), 末に không dùng được; (2) 「ちょっと考えた」 quá ngắn, nhẹ, không phải quá trình dài; (3) danh từ cần の: 苦労**の**末に."
+    },
+    {
+      "id": "b20-q20",
+      "kind": "usage",
+      "ref": "b20-6",
+      "q": "「〜ずじまいだ」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "{来月|らいげつ}の{社員|しゃいん}{旅行|りょこう}には、{仕事|しごと}が{忙|いそが}しくて{行|い}かずじまいだ。",
+        "{弟|おとうと}は{毎朝|まいあさ}{寝坊|ねぼう}して、{朝|あさ}ご{飯|はん}を{食|た}べずじまいだ。",
+        "{図書館|としょかん}で{借|か}りた{本|ほん}は、{結局|けっきょく}{一|いち}ページも{読|よ}まずじまいで{返|かえ}してしまった。",
+        "{練習|れんしゅう}が{終|お}わったら、{片付|かたづ}けもしずじまいで{帰|かえ}ってください。"
+      ],
+      "answer": 2,
+      "vi": "(3) Cuốn sách mượn ở thư viện, rốt cuộc tôi chẳng đọc được trang nào mà đã đem trả.",
+      "why": "(3) định đọc mà rốt cuộc không đọc, và đã hết cơ hội (đã trả sách) → tiếc nuối → đúng. (1) chuyện tháng sau, vẫn còn cơ hội → 行かないつもりだ; (2) thói quen hằng ngày, không phải việc đã kết thúc → 食べないで出かける; (4) sai dạng (する → **せず**じまい) và vế sau là nhờ vả."
     }
   ],
   "practice": [

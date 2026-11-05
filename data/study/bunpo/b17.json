@@ -379,6 +379,96 @@
       "why": "Tính cách của một người (真面目な佐藤さん) + phán đoán (はずがない) → **のことだから**. 「佐藤さんことだし」「佐藤さんからには」 sai cách nối (cần の／である); 「ばかりに」 nói về nguyên nhân gây kết quả xấu đã xảy ra, không hợp với phán đoán."
     },
     {
+      "id": "b17-q4",
+      "kind": "form",
+      "ref": "b17-4",
+      "q": "パスワードをメモしておかなかった（　　）、{大事|だいじ}なファイルが{開|ひら}けなくなってしまった。",
+      "options": [
+        "ばかりに",
+        "からには",
+        "ことだし",
+        "以上は"
+      ],
+      "answer": 0,
+      "vi": "Chỉ vì không ghi lại mật khẩu mà giờ không mở được tập tin quan trọng.",
+      "why": "Sơ suất nhỏ → kết quả xấu ngoài ý muốn (〜てしまった), giọng hối tiếc → **ばかりに**. 「からには」「以上は」 cần vế sau là nghĩa vụ / ý chí; 「ことだし」 dẫn tới quyết định / rủ rê, không dẫn tới sự cố."
+    },
+    {
+      "id": "b17-q13",
+      "kind": "form",
+      "ref": "b17-3",
+      "q": "プロの{料理人|りょうりにん}が{作|つく}った（　　）、{見|み}た{目|め}も{味|あじ}も{素晴|すば}らしい。",
+      "options": [
+        "だけに",
+        "ばかりに",
+        "ことだし",
+        "上は"
+      ],
+      "answer": 0,
+      "vi": "Chính vì do đầu bếp chuyên nghiệp làm nên cả hình thức lẫn hương vị đều tuyệt vời.",
+      "why": "Nguyên nhân là một **đặc điểm nổi bật** (プロが作った), kết quả **tương xứng** (素晴らしい) → 「だけに」.\n- 「ばかりに」: dẫn tới kết quả **xấu** ngoài ý muốn; ở đây là lời khen.\n- 「ことだし」: vế sau phải là quyết định / lời rủ của người nói.\n- 「上は」: chỉ dùng khi chính người nói đã quyết / đã làm gì, vế sau là quyết tâm / nghĩa vụ (〜しかない); ở đây vế sau là lời nhận xét."
+    },
+    {
+      "id": "b17-q19",
+      "kind": "form",
+      "ref": "b17-5",
+      "q": "{会社|かいしゃ}を{辞|や}めて{独立|どくりつ}すると{決|き}めた（　　）、{何|なに}があっても{後戻|あともど}りはできない。",
+      "options": [
+        "上は",
+        "ばかりに",
+        "のことだから",
+        "ことだし"
+      ],
+      "answer": 0,
+      "vi": "Một khi đã quyết định nghỉ việc để ra làm riêng thì dù có chuyện gì cũng không thể quay lại.",
+      "why": "Vế trước là **quyết định đã đưa ra** (Vた), vế sau là **quyết tâm / phán đoán mạnh** → 「上は」 (= からには).\n- 「ばかりに」: vế sau phải là kết quả xấu đã xảy ra (〜てしまった), không phải quyết tâm 「何があっても」.\n- 「のことだから」: cần danh từ chỉ người.\n- 「ことだし」: lý do nhẹ cho một quyết định tuỳ ý (thôi thì…), không hợp với giọng dứt khoát 「何があっても後戻りはできない」."
+    },
+    {
+      "id": "b17-q7",
+      "kind": "form",
+      "ref": "b17-1",
+      "q": "{雨|あめ}も{止|や}んだ（　　）、{少|すこ}し{散歩|さんぽ}でもしてこようかな。",
+      "options": [
+        "ことだし",
+        "のことだから",
+        "ばかりに",
+        "だけに"
+      ],
+      "answer": 0,
+      "vi": "Mưa cũng tạnh rồi, thôi thì mình đi dạo một chút xem sao.",
+      "why": "Vế trước có 「も」, vế sau là **ý định nhẹ** của người nói (〜ようかな) → 「ことだし」 (= cũng đã… nên thôi thì…).\n- 「のことだから」: đi sau **danh từ chỉ người** (彼のことだから) và vế sau là phỏng đoán.\n- 「ばかりに」: vế sau phải là kết quả **xấu** đã xảy ra, không phải ý định.\n- 「だけに」: vế sau là sự việc / cảm xúc, không dùng với ý chí, rủ rê."
+    },
+    {
+      "id": "b17-q10",
+      "kind": "form",
+      "ref": "b17-2",
+      "q": "きれい{好|ず}きな{姉|あね}（　　）、{引|ひ}っ{越|こ}したばかりの{部屋|へや}も、もうすっかり{片付|かたづ}いているに{違|ちが}いない。",
+      "options": [
+        "ことだし",
+        "からには",
+        "のことだから",
+        "ばかりに"
+      ],
+      "answer": 2,
+      "vi": "Chị tôi vốn ưa sạch sẽ nên căn phòng vừa chuyển đến chắc chắn đã được dọn gọn gàng rồi.",
+      "why": "Trước chỗ trống là **tính cách + người** (きれい好きな姉), vế sau là **phỏng đoán** (〜に違いない) → 「のことだから」.\n- 「ことだし」: sau danh từ phải có 「の／である」 (姉のことだし), và vế sau phải là quyết định / lời rủ, không phải phỏng đoán.\n- 「からには」: danh từ cần 「である」, nghĩa “một khi đã… thì phải…” không hợp.\n- 「ばかりに」: danh từ cần 「である」, và vế sau phải là kết quả xấu đã xảy ra."
+    },
+    {
+      "id": "b17-q16",
+      "kind": "form",
+      "ref": "b17-4",
+      "q": "{私|わたし}が{余計|よけい}なことを{言|い}った（　　）、{二人|ふたり}はけんかになってしまった。",
+      "options": [
+        "おかげで",
+        "ことだし",
+        "ばかりに",
+        "以上"
+      ],
+      "answer": 2,
+      "vi": "Chỉ vì tôi nói một câu thừa thãi mà hai người họ đã cãi nhau.",
+      "why": "Nguyên nhân là một việc **nhỏ** của mình, kết quả **xấu ngoài ý muốn** (けんかになってしまった), giọng tiếc nuối → 「ばかりに」.\n- 「おかげで」: chỉ dùng cho kết quả tốt.\n- 「ことだし」: vế sau phải là quyết định / lời rủ, không phải sự việc đã xảy ra.\n- 「以上」: vế sau phải là ý chí / nghĩa vụ / phán đoán, không phải sự việc đã xảy ra."
+    },
+    {
       "id": "b17-q3",
       "kind": "form",
       "ref": "b17-3",
@@ -394,19 +484,133 @@
       "why": "Kỳ vọng lớn → thất vọng càng lớn (mức độ tương xứng) → **だけに**. 「ことだし」「からには」 cần vế sau là ý chí / nghĩa vụ chứ không phải cảm xúc đã xảy ra; 「上は」 chỉ nối với động từ và cũng cần vế sau là quyết tâm."
     },
     {
-      "id": "b17-q4",
+      "id": "b17-q18",
       "kind": "form",
+      "ref": "b17-5",
+      "q": "プロの{選手|せんしゅ}である（　　）、どんな{試合|しあい}でも{手|て}を{抜|ぬ}くわけにはいかない。",
+      "options": [
+        "上は",
+        "以上",
+        "ばかりに",
+        "のことだから"
+      ],
+      "answer": 1,
+      "vi": "Một khi đã là cầu thủ chuyên nghiệp thì trận nào cũng không thể chơi qua loa.",
+      "why": "Vế trước là **vai trò đã xác định** (プロの選手である), vế sau là **nghĩa vụ** (手を抜くわけにはいかない) → 「以上」.\n- 「上は」: chỉ nối với **động từ** (決めた上は), không đi sau 「N である」.\n- 「ばかりに」: vế sau phải là kết quả xấu đã xảy ra, không phải nghĩa vụ.\n- 「のことだから」: đi sau danh từ chỉ người (選手のことだから), không đi sau 「である」."
+    },
+    {
+      "id": "b17-q11",
+      "kind": "form",
+      "ref": "b17-2",
+      "q": "{好奇心|こうきしん}{旺盛|おうせい}な{祖母|そぼ}のことだから、{新|あたら}しいスマホもすぐに{使|つか}いこなして（　　）。",
+      "options": [
+        "しまった",
+        "しまうだろう",
+        "しまいなさい",
+        "しまおう"
+      ],
+      "answer": 1,
+      "vi": "Bà tôi vốn rất ham tìm hiểu nên chắc chắn sẽ dùng thành thạo ngay cả chiếc điện thoại mới thôi.",
+      "why": "Sau 「〜のことだから」 vế sau phải là **phỏng đoán** dựa trên tính cách (〜だろう／〜はずだ／〜に違いない) → 「しまうだろう」.\n- 「しまった」: câu kể sự thật đã xảy ra → không hợp với 「のことだから」.\n- 「しまいなさい」: mệnh lệnh — không thể ra lệnh cho bà, và không phải phỏng đoán.\n- 「しまおう」: ý chí của người nói, trong khi người dùng điện thoại là bà."
+    },
+    {
+      "id": "b17-q8",
+      "kind": "form",
+      "ref": "b17-1",
+      "q": "{部品|ぶひん}の{供給|きょうきゅう}が{止|と}まった（　　）、{工場|こうじょう}の{生産|せいさん}が{一時|いちじ}{停止|ていし}した。",
+      "options": [
+        "のことだから",
+        "ことだし",
+        "からには",
+        "ので"
+      ],
+      "answer": 3,
+      "vi": "Do nguồn cung linh kiện bị ngừng nên việc sản xuất của nhà máy đã tạm dừng.",
+      "why": "Vế sau là **kết quả khách quan đã xảy ra** (生産が一時停止した) → chỉ 「ので」 dùng được (câu phân biệt với ことだし).\n- 「ことだし」: vế sau phải là **quyết định / lời rủ** của người nói, không phải sự cố khách quan.\n- 「からには」: vế sau phải là ý chí / nghĩa vụ / phán đoán (〜なければならない…), không phải sự việc đã xảy ra.\n- 「のことだから」: cần danh từ chỉ người + phỏng đoán."
+    },
+    {
+      "id": "b17-q15",
+      "kind": "order",
+      "ref": "b17-3",
+      "q": "この{辺|あた}りは ＿＿＿ ＿＿＿ ★ ＿＿＿ 、{夜|よる}になると{人通|ひとどお}りがほとんどない。",
+      "options": [
+        "だけに",
+        "駅から",
+        "住宅街",
+        "遠い"
+      ],
+      "order": [
+        1,
+        3,
+        2,
+        0
+      ],
+      "answer": 2,
+      "vi": "Khu này chính vì là khu dân cư xa ga nên về đêm hầu như không có người qua lại.",
+      "why": "この辺りは **駅から 遠い 住宅街 だけに**、夜になると… → ★ (ô thứ 3) = 「住宅街」. 「駅から遠い」 bổ nghĩa cho 「住宅街」; 「N ＋ だけに」 (không có だ) nêu đặc điểm dẫn tới kết quả tương xứng (人通りがない)."
+    },
+    {
+      "id": "b17-q17",
+      "kind": "order",
       "ref": "b17-4",
-      "q": "パスワードをメモしておかなかった（　　）、{大事|だいじ}なファイルが{開|ひら}けなくなってしまった。",
+      "q": "{一度|いちど} ＿＿＿ ★ ＿＿＿ ＿＿＿ 、{彼|かれ}は{今|いま}も{周|まわ}りから{信用|しんよう}されていない。",
       "options": [
         "ばかりに",
-        "からには",
+        "ついた",
+        "小さな",
+        "うそを"
+      ],
+      "order": [
+        2,
+        3,
+        1,
+        0
+      ],
+      "answer": 3,
+      "vi": "Chỉ vì một lần nói dối nhỏ mà đến giờ anh ta vẫn không được mọi người tin tưởng.",
+      "why": "一度 **小さな うそを ついた ばかりに**、彼は今も… → ★ (ô thứ 2) = 「うそを」. 「Vた ＋ ばかりに」 + kết quả xấu kéo dài (信用されていない). Chú ý: đây không phải 「Vたばかり」 (vừa mới), vì vế sau nói hậu quả."
+    },
+    {
+      "id": "b17-q9",
+      "kind": "order",
+      "ref": "b17-1",
+      "q": "＿＿＿ ＿＿＿ ★ ＿＿＿ 、{今日|きょう}は{早|はや}めに{帰|かえ}ってゆっくり{休|やす}んだらどう？",
+      "options": [
+        "一段落した",
         "ことだし",
-        "以上は"
+        "大きな",
+        "仕事も"
+      ],
+      "order": [
+        2,
+        3,
+        0,
+        1
       ],
       "answer": 0,
-      "vi": "Chỉ vì không ghi lại mật khẩu mà giờ không mở được tập tin quan trọng.",
-      "why": "Sơ suất nhỏ → kết quả xấu ngoài ý muốn (〜てしまった), giọng hối tiếc → **ばかりに**. 「からには」「以上は」 cần vế sau là nghĩa vụ / ý chí; 「ことだし」 dẫn tới quyết định / rủ rê, không dẫn tới sự cố."
+      "vi": "Công việc lớn cũng đã xong một giai đoạn rồi, hôm nay về sớm nghỉ ngơi thong thả đi?",
+      "why": "**大きな 仕事も 一段落した ことだし**、今日は早めに帰って… → ★ (ô thứ 3) = 「一段落した」. 「V普通形 ＋ ことだし」 + vế sau là lời khuyên / đề nghị (〜たらどう？); 「大きな」 bổ nghĩa cho 「仕事」."
+    },
+    {
+      "id": "b17-q12",
+      "kind": "order",
+      "ref": "b17-2",
+      "q": "＿＿＿ ＿＿＿ ★ ＿＿＿ 、{明日|あした}の{会議|かいぎ}にもきっと{遅|おく}れてくるだろう。",
+      "options": [
+        "している",
+        "彼の",
+        "ことだから",
+        "寝坊ばかり"
+      ],
+      "order": [
+        3,
+        0,
+        1,
+        2
+      ],
+      "answer": 1,
+      "vi": "Anh ta lúc nào cũng ngủ quên, nên chắc chắn cuộc họp ngày mai cũng sẽ đến muộn thôi.",
+      "why": "**寝坊ばかり している 彼の ことだから**、明日の会議にもきっと… → ★ (ô thứ 3) = 「彼の」. Mệnh đề 「寝坊ばかりしている」 (thói quen) bổ nghĩa cho 「彼」; 「N ＋ のことだから」 + phỏng đoán 「きっと〜だろう」."
     },
     {
       "id": "b17-q5",
@@ -430,6 +634,21 @@
       "why": "社会人 **である 以上 自分の行動に 責任** を持つべきだ → ★ (ô thứ 3) = 「自分の行動に」. Danh từ + である + 以上; 「責任」 phải đứng ngay trước 「を持つ」."
     },
     {
+      "id": "b17-q14",
+      "kind": "usage",
+      "ref": "b17-3",
+      "q": "「〜だけに」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "このレストランは人気店だけに、予約してから行ってください。",
+        "彼は毎日努力しただけに、試験に落ちてしまった。",
+        "有名な店だだけに、いつも混んでいる。",
+        "彼女は長年アメリカに住んでいただけに、英語の発音がとてもきれいだ。"
+      ],
+      "answer": 3,
+      "vi": "(4) Chính vì đã sống ở Mỹ nhiều năm nên phát âm tiếng Anh của cô ấy rất chuẩn.",
+      "why": "(4) đặc điểm nổi bật (sống ở Mỹ lâu năm) → kết quả tương xứng (phát âm đẹp) → đúng.\n(1) vế sau là nhờ vả 「〜てください」 → 「だけに」 không dùng được; nên là 「人気店だから」.\n(2) không tương xứng: cố gắng mỗi ngày mà lại trượt là kết quả trái ngược; nếu muốn nói cảm xúc thì phải là 「努力しただけに、落ちたショックは大きかった」.\n(3) sai cách nối: danh từ nối thẳng 「店だけに」, không có 「だ」."
+    },
+    {
       "id": "b17-q6",
       "kind": "usage",
       "ref": "b17-4",
@@ -443,6 +662,21 @@
       "answer": 3,
       "vi": "(4) Chỉ vì ngủ quên mà tôi đã đến muộn buổi phỏng vấn quan trọng.",
       "why": "(4) sơ suất nhỏ → kết quả xấu, hối tiếc → đúng. (1) sai cách nối (N である ばかりに) và vế sau là rủ rê; (2) kết quả tốt → phải dùng 「おかげで」; (3) vế sau là nhờ vả, không dùng được."
+    },
+    {
+      "id": "b17-q20",
+      "kind": "usage",
+      "ref": "b17-5",
+      "q": "「〜以上」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "学生以上は、勉強を第一に考えるべきだ。",
+        "この店は人気がある以上、いつも行列ができている。",
+        "約束した以上、最後まで責任を持ってやり遂げるつもりだ。",
+        "雨が降るかもしれない以上、傘を持っていこう。"
+      ],
+      "answer": 2,
+      "vi": "(3) Một khi đã hứa thì tôi định sẽ có trách nhiệm làm đến cùng.",
+      "why": "(3) vế trước là sự thật đã xác định (約束した), vế sau là ý chí (つもりだ) → đúng.\n(1) danh từ phải nối bằng 「である」: 学生である以上; 「学生以上」 thành nghĩa “trên mức học sinh”.\n(2) vế sau là sự việc khách quan (行列ができている) → không dùng 「以上」; nên là 「人気があるので」.\n(4) vế trước chỉ là giả định mơ hồ (かもしれない), không phải sự thật đã xác định."
     }
   ],
   "practice": [

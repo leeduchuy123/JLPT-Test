@@ -409,6 +409,192 @@
   ],
   "quiz": [
     {
+      "id": "b36-q2",
+      "kind": "form",
+      "ref": "b36-1",
+      "q": "{体調|たいちょう}が{悪|わる}いが、{今日|きょう}の{式|しき}は{私|わたし}が{司会|しかい}なので、{休|やす}む（　　）。",
+      "options": [
+        "わけではない",
+        "わけにはいかない",
+        "ようがない",
+        "にすぎない"
+      ],
+      "answer": 1,
+      "vi": "Tôi không khoẻ nhưng hôm nay tôi là người dẫn chương trình buổi lễ nên không thể nghỉ.",
+      "why": "Có khả năng nghỉ nhưng **trách nhiệm** không cho phép → **わけにはいかない**. 「わけではない」 = không hẳn là (sai nghĩa); 「ようがない」 cần Vます (休みようがない) và sai nghĩa; 「にすぎない」 = chỉ là."
+    },
+    {
+      "id": "b36-q6",
+      "kind": "form",
+      "ref": "b36-5",
+      "q": "{一人|ひとり}で{海外|かいがい}に{行|い}った{娘|むすめ}のことが{心配|しんぱい}で（　　）。",
+      "options": [
+        "ほかならない",
+        "ならない",
+        "すぎない",
+        "ようがない"
+      ],
+      "answer": 1,
+      "vi": "Tôi lo cho đứa con gái một mình ra nước ngoài không yên.",
+      "why": "「な形-で + **ならない**」 = cảm xúc lo âu không kìm được. 「ほかならない」「すぎない」 cần 「に」 phía trước; 「ようがない」 cần Vます."
+    },
+    {
+      "id": "b36-q8",
+      "kind": "form",
+      "ref": "b36-4",
+      "q": "{私|わたし}はただの{一社員|いちしゃいん}（　　）ので、{会社|かいしゃ}の{方針|ほうしん}を{決|き}める{権限|けんげん}はありません。",
+      "options": [
+        "にほかならない",
+        "に違いない",
+        "にすぎない",
+        "に越したことはない"
+      ],
+      "answer": 2,
+      "vi": "Tôi chỉ là một nhân viên bình thường, nên không có quyền quyết định đường lối của công ty.",
+      "why": "「ただの」 + hạ thấp vai trò \"chỉ là\" → **にすぎない**.\n- 「にほかならない」 = chính là (nâng lên, khẳng định), ngược sắc thái với 「ただの」.\n- 「に違いない」 = chắc chắn là (suy đoán); không ai đoán về thân phận của chính mình.\n- 「に越したことはない」 = tốt nhất là, sai nghĩa."
+    },
+    {
+      "id": "b36-q9",
+      "kind": "form",
+      "ref": "b36-3",
+      "q": "{結果|けっか}は{明日|あした}メールでお{知|し}らせしますから、わざわざ{会社|かいしゃ}まで{確認|かくにん}しに{来|く}る（　　）よ。",
+      "options": [
+        "しかありません",
+        "ことはありません",
+        "にすぎません",
+        "どころではありません"
+      ],
+      "answer": 1,
+      "vi": "Ngày mai chúng tôi sẽ báo kết quả qua email, nên anh/chị không cần cất công đến tận công ty để xem đâu.",
+      "why": "「わざわざ」 + lời khuyên người nghe \"không cần\" → **V辞書形 + ことはない（ありません）**.\n- 「しかありません」 = chỉ còn cách đến, ngược với lý do \"sẽ báo qua email\".\n- 「にすぎません」 = chỉ là, không hợp nghĩa.\n- 「どころではありません」 = không phải lúc (vì bận), không có lý do bận ở đây."
+    },
+    {
+      "id": "b36-q10",
+      "kind": "form",
+      "ref": "b36-5",
+      "q": "{大事|だいじ}な{試合|しあい}で、{自分|じぶん}のミスのせいで{負|ま}けたと{思|おも}うと、{悔|くや}しくて（　　）。",
+      "options": [
+        "しかない",
+        "ほかならない",
+        "しかたがない",
+        "にすぎない"
+      ],
+      "answer": 2,
+      "vi": "Cứ nghĩ trận đấu quan trọng thua là do lỗi của mình là tôi tức tối không chịu nổi.",
+      "why": "い形-くて + **しかたがない** = cảm xúc (悔しい) trào lên không kìm được.\n- 「しかない」 = chỉ còn cách, cần V辞書形; 「悔しくてしかない」 không có — đừng nhầm với 「しかたがない」.\n- 「ほかならない」「にすぎない」 cần 「に」 và danh từ phía trước, không đi sau 「〜くて」."
+    },
+    {
+      "id": "b36-q11",
+      "kind": "form",
+      "ref": "b36-2",
+      "q": "{突然|とつぜん}{大事|だいじ}な{取引|とりひき}でトラブルが{起|お}きて、{昼|ひる}ご{飯|はん}を{食|た}べる（　　）。",
+      "options": [
+        "しかなかった",
+        "ようがなかった",
+        "にすぎなかった",
+        "どころではなかった"
+      ],
+      "answer": 3,
+      "vi": "Đột nhiên có sự cố trong một giao dịch quan trọng, nên tôi chẳng còn tâm trí đâu mà ăn trưa.",
+      "why": "Có lý do bận rối (〜て) + việc bình thường / thư thả bị gạt đi → **V辞書形 + どころではなかった** (không phải lúc để …).\n- 「しかなかった」 = chỉ còn cách ăn trưa, ngược ngữ cảnh.\n- 「ようがなかった」 cần Vます (食べようがなかった).\n- 「にすぎなかった」 = chỉ là ăn trưa, vô nghĩa ở đây."
+    },
+    {
+      "id": "b36-q12",
+      "kind": "form",
+      "ref": "b36-1",
+      "q": "{勉強|べんきょう}は、{長時間|ちょうじかん}やればいい（　　）。{集中|しゅうちゅう}することが{大切|たいせつ}だ。",
+      "options": [
+        "にすぎない",
+        "というものではない",
+        "わけにはいかない",
+        "ようがない"
+      ],
+      "answer": 1,
+      "vi": "Học hành không phải cứ học nhiều giờ là được. Điều quan trọng là tập trung.",
+      "why": "「〜ばいい + **というものではない**」 = không phải cứ … là được (phủ nhận một quan niệm chung).\n- 「にすぎない」 = chỉ là; 「やればいいにすぎない」 không thành câu.\n- 「わけにはいかない」 cần V辞書形 chỉ hành động có chủ ý (やるわけにはいかない), không đi sau 「いい」.\n- 「ようがない」 cần Vます (やりようがない)."
+    },
+    {
+      "id": "b36-q13",
+      "kind": "form",
+      "ref": "b36-6",
+      "q": "{業績|ぎょうせき}の{悪化|あっか}が{続|つづ}き、{会社|かいしゃ}は{工場|こうじょう}を{一|ひと}つ{閉鎖|へいさ}せ（　　）。",
+      "options": [
+        "ずにはいられなかった",
+        "ないではいられなかった",
+        "ないわけにはいかなかった",
+        "ざるを得なかった"
+      ],
+      "answer": 3,
+      "vi": "Do kết quả kinh doanh liên tục xấu đi, công ty đã buộc phải đóng cửa một nhà máy.",
+      "why": "Hoàn cảnh bên ngoài (kinh doanh xấu) ép buộc, chủ thể không muốn → **せ + ざるを得なかった** (する → せざるを得ない).\n- 「ずにはいられなかった」: dạng 「せずには」 đúng nhưng nghĩa là \"không kìm được\" (thôi thúc trong lòng) — không ai \"không kìm được mà đóng cửa nhà máy\".\n- 「ないではいられなかった」「ないわけにはいかなかった」: không nối được với 「せ」 (phải là 「閉鎖しないでは…」「閉鎖しないわけには…」)."
+    },
+    {
+      "id": "b36-q4",
+      "kind": "form",
+      "ref": "b36-3",
+      "q": "{小|ちい}さな{子|こ}どもを{一人|ひとり}で{家|いえ}に{残|のこ}して、{夜|よる}{遅|おそ}くまで{出|で}かける（　　）。",
+      "options": [
+        "ものではない",
+        "に違いない",
+        "どころではない",
+        "ようがない"
+      ],
+      "answer": 0,
+      "vi": "Không được để con nhỏ ở nhà một mình rồi đi ra ngoài đến tận khuya.",
+      "why": "Răn dạy theo **lẽ thường** → **ものではない**. 「に違いない」 = chắc chắn là (sai ý); 「どころではない」 = không phải lúc để; 「ようがない」 cần Vます."
+    },
+    {
+      "id": "b36-q14",
+      "kind": "form",
+      "ref": "b36-4",
+      "q": "{私|わたし}が{厳|きび}しく{注意|ちゅうい}するのは、{君|きみ}に{期待|きたい}している（　　）。",
+      "options": [
+        "からにほかならない",
+        "に違いない",
+        "に越したことはない",
+        "どころではない"
+      ],
+      "answer": 0,
+      "vi": "Tôi nhắc nhở cậu nghiêm khắc chính là vì tôi kỳ vọng ở cậu.",
+      "why": "Câu 「〜のは、…」 nêu lý do → **から + にほかならない** = chính là vì.\n- 「に違いない」: lý do của chính mình thì không \"đoán\", và câu 「〜のは」 nêu lý do cần 「から」.\n- 「に越したことはない」 = tốt nhất là, sai nghĩa.\n- 「どころではない」 = không phải lúc, sai nghĩa."
+    },
+    {
+      "id": "b36-q15",
+      "kind": "order",
+      "ref": "b36-5",
+      "q": "{留学|りゅうがく}して{半年|はんとし}。{最近|さいきん}はなぜか ＿＿＿ ＿＿＿ ★ ＿＿＿ 。",
+      "options": [
+        "会いたくて",
+        "しかたがない",
+        "国の",
+        "家族に"
+      ],
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answer": 0,
+      "vi": "Đi du học đã nửa năm. Dạo này chẳng hiểu sao tôi nhớ gia đình ở quê nhà da diết.",
+      "why": "最近はなぜか **国の 家族に 会いたくて しかたがない** → ★ (ô 3) = 「会いたくて」.\n「国の」 cần danh từ ngay sau → 「家族に」; 「家族に」 nối với 「会いたい」; mẫu 「〜たくて + しかたがない」 đứng cuối câu."
+    },
+    {
+      "id": "b36-q16",
+      "kind": "form",
+      "ref": "b36-6",
+      "q": "{親友|しんゆう}の{結婚式|けっこんしき}でスピーチを{頼|たの}まれたら、{人前|ひとまえ}で{話|はな}すのが{苦手|にがて}でも{引|ひ}き{受|う}け（　　）だろう。",
+      "options": [
+        "ないわけにはいかない",
+        "ないではいられない",
+        "ようがない",
+        "ないに越したことはない"
+      ],
+      "answer": 0,
+      "vi": "Nếu được bạn thân nhờ phát biểu trong đám cưới thì dù ngại nói trước đám đông, chắc cũng không thể không nhận lời.",
+      "why": "Vì tình nghĩa / hoàn cảnh nên **không thể không** nhận → 「引き受け + **ないわけにはいかない**」.\n- 「ないではいられない」 = không kìm được (thôi thúc cảm xúc), không hợp với việc nhận lời dù ngại.\n- 「ようがない」 = không có cách nào nhận, mâu thuẫn với 「苦手でも」.\n- 「ないに越したことはない」 = tốt nhất là đừng nhận, ngược với ý \"dù ngại cũng…\"."
+    },
+    {
       "id": "b36-q1",
       "kind": "order",
       "ref": "b36-1",
@@ -428,21 +614,6 @@
       "answer": 2,
       "vi": "Một người nghiêm túc như anh ấy thì không thể nào quên lời hứa quan trọng.",
       "why": "あんなに真面目な彼が、**大切な 約束を 忘れる わけが** ない → ★ = 「忘れる」.\n「わけが + ない」 = không thể nào; trước 「わけ」 là V辞書形 「忘れる」; tính từ 「大切な」 bổ nghĩa cho 「約束」."
-    },
-    {
-      "id": "b36-q2",
-      "kind": "form",
-      "ref": "b36-1",
-      "q": "{体調|たいちょう}が{悪|わる}いが、{今日|きょう}の{式|しき}は{私|わたし}が{司会|しかい}なので、{休|やす}む（　　）。",
-      "options": [
-        "わけではない",
-        "わけにはいかない",
-        "ようがない",
-        "にすぎない"
-      ],
-      "answer": 1,
-      "vi": "Tôi không khoẻ nhưng hôm nay tôi là người dẫn chương trình buổi lễ nên không thể nghỉ.",
-      "why": "Có khả năng nghỉ nhưng **trách nhiệm** không cho phép → **わけにはいかない**. 「わけではない」 = không hẳn là (sai nghĩa); 「ようがない」 cần Vます (休みようがない) và sai nghĩa; 「にすぎない」 = chỉ là."
     },
     {
       "id": "b36-q3",
@@ -466,19 +637,19 @@
       "why": "…わからないのでは、**連絡の しよう が ない** → ★ = 「が」.\nKhuôn 「N の + Vます(し) + ようがない」: 連絡のしようがない."
     },
     {
-      "id": "b36-q4",
+      "id": "b36-q17",
       "kind": "form",
-      "ref": "b36-3",
-      "q": "{小|ちい}さな{子|こ}どもを{一人|ひとり}で{家|いえ}に{残|のこ}して、{夜|よる}{遅|おそ}くまで{出|で}かける（　　）。",
+      "ref": "b36-5",
+      "q": "この{町|まち}で{育|そだ}った{私|わたし}には、{古|ふる}い{町並|まちな}みが{消|き}えていくのが{残念|ざんねん}に{思|おも}われて（　　）。",
       "options": [
-        "ものではない",
-        "に違いない",
-        "どころではない",
-        "ようがない"
+        "はならない",
+        "すぎない",
+        "ほかならない",
+        "ならない"
       ],
-      "answer": 0,
-      "vi": "Không được để con nhỏ ở nhà một mình rồi đi ra ngoài đến tận khuya.",
-      "why": "Răn dạy theo **lẽ thường** → **ものではない**. 「に違いない」 = chắc chắn là (sai ý); 「どころではない」 = không phải lúc để; 「ようがない」 cần Vます."
+      "answer": 3,
+      "vi": "Với tôi, người lớn lên ở thị trấn này, việc những dãy phố cổ dần biến mất khiến tôi tiếc nuối không nguôi.",
+      "why": "Động từ tự phát 「思われる」 + **てならない** = cảm giác tự trào lên không kìm được.\n- 「てはならない」 (có は) = cấm đoán \"không được\", sai nghĩa hoàn toàn.\n- 「すぎない」「ほかならない」 phải đi với 「に」 (にすぎない／にほかならない), không đi sau 「〜て」."
     },
     {
       "id": "b36-q5",
@@ -502,19 +673,19 @@
       "why": "試験の前の日は、**早く 寝る に 越したことはない** → ★ = 「に」.\n「V辞書形 + に + 越したことはない」 = tốt nhất là; trạng từ 「早く」 đứng trước động từ 「寝る」."
     },
     {
-      "id": "b36-q6",
-      "kind": "form",
-      "ref": "b36-5",
-      "q": "{一人|ひとり}で{海外|かいがい}に{行|い}った{娘|むすめ}のことが{心配|しんぱい}で（　　）。",
+      "id": "b36-q18",
+      "kind": "usage",
+      "ref": "b36-1",
+      "q": "「〜わけにはいかない」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
       "options": [
-        "ほかならない",
-        "ならない",
-        "すぎない",
-        "ようがない"
+        "天気予報によると、明日は雨が降るわけにはいかない。",
+        "この漢字は難しすぎて、私には読むわけにはいかない。",
+        "明日は大事な試験があるので、今夜は遅くまで遊ぶわけにはいかない。",
+        "薬を飲んだのに、熱が下がるわけにはいかない。"
       ],
-      "answer": 1,
-      "vi": "Tôi lo cho đứa con gái một mình ra nước ngoài không yên.",
-      "why": "「な形-で + **ならない**」 = cảm xúc lo âu không kìm được. 「ほかならない」「すぎない」 cần 「に」 phía trước; 「ようがない」 cần Vます."
+      "answer": 2,
+      "vi": "(3) Mai có kỳ thi quan trọng nên tối nay tôi không thể chơi đến khuya được.",
+      "why": "(3) đúng: hành động có chủ ý của người nói (遊ぶ), bị hoàn cảnh (kỳ thi) không cho phép.\n(1) 「雨が降る」 không phải hành động có chủ ý.\n(2) không đọc được vì **khả năng** → 「読めない」, không phải 「わけにはいかない」.\n(4) 「熱が下がる」 là hiện tượng tự nhiên, không có chủ ý (→ 「熱が下がらない」)."
     },
     {
       "id": "b36-q7",
@@ -536,6 +707,36 @@
       "answer": 2,
       "vi": "Câu đùa của anh ấy buồn cười quá, dù đang họp tôi cũng không nhịn được cười.",
       "why": "…おかしくて、**会議中なのに 笑わ ずには いられなかった** → ★ = 「ずには」.\nGốc Vない 「笑わ」 + 「ずには」 + 「いられない」; 「会議中なのに」 là vế nhượng bộ đứng đầu."
+    },
+    {
+      "id": "b36-q19",
+      "kind": "usage",
+      "ref": "b36-4",
+      "q": "「〜に{違|ちが}いない」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "私は来年の三月に大学を卒業するに違いない。",
+        "部屋の電気がついているから、兄はもう帰ってきているに違いない。",
+        "彼の話は本当だに違いない。",
+        "あの店のラーメンはおいしいに違いないので、もう三回も食べた。"
+      ],
+      "answer": 1,
+      "vi": "(2) Đèn trong phòng đang bật, chắc chắn anh tôi đã về rồi.",
+      "why": "(2) đúng: suy đoán chắc chắn dựa trên dấu hiệu (đèn đang bật).\n(1) việc của chính mình đã biết rõ (lịch tốt nghiệp) → không dùng suy đoán; nói 「卒業する予定だ」.\n(3) sai dạng nối: N／な形 bỏ だ → 「本当に違いない」.\n(4) đã ăn ba lần thì đã biết vị, không còn là suy đoán; và lý do 「ので」 không hợp."
+    },
+    {
+      "id": "b36-q20",
+      "kind": "usage",
+      "ref": "b36-2",
+      "q": "「〜ようがない」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "冷蔵庫が空っぽでは、夕食の作りようがない。",
+        "明日は休みなので、早く起きようがない。",
+        "彼に連絡するようがないので、手紙を書いた。",
+        "試験に合格しようがないので、毎日図書館で勉強している。"
+      ],
+      "answer": 0,
+      "vi": "(1) Tủ lạnh trống trơn thế này thì chẳng có cách nào nấu bữa tối.",
+      "why": "(1) đúng: 「N の + Vます + ようがない」 = không có cách nào để làm (vì thiếu điều kiện).\n(2) ngày nghỉ thì \"không cần\" dậy sớm (→ 早く起きる必要はない), không phải \"không có cách\".\n(3) sai dạng nối: phải là Vます → 「連絡しようがない」.\n(4) vế sau \"ngày nào cũng học\" mâu thuẫn với \"không có cách nào đỗ\"."
     }
   ],
   "practice": [

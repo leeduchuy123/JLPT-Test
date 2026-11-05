@@ -692,6 +692,21 @@
       "why": "Hai ưu điểm **cùng chiều** của cùng một khách sạn → **しかも** (添加). 「ところが」 cần vế sau trái dự đoán; 「すなわち」 cần hai thứ bằng nhau chính xác; 「ところで」 đổi sang chuyện khác — ở đây vẫn đang nói về khách sạn."
     },
     {
+      "id": "b46-q8",
+      "kind": "form",
+      "ref": "b46-10",
+      "q": "{皆様|みなさま}、{本日|ほんじつ}はお{忙|いそが}しい{中|なか}お{集|あつ}まりいただき、ありがとうございます。（　　）、{早速|さっそく}ですが、{会議|かいぎ}を{始|はじ}めさせていただきます。",
+      "options": [
+        "ところで",
+        "したがって",
+        "ところが",
+        "さて"
+      ],
+      "answer": 3,
+      "vi": "Thưa quý vị, cảm ơn quý vị hôm nay dù bận rộn vẫn có mặt đông đủ. Nào, xin phép được bắt đầu cuộc họp luôn.",
+      "why": "Sau **lời chào, lời cảm ơn mở đầu** là **việc chính đã định sẵn** (bắt đầu họp) → **さて**. 「ところで」 chuyển sang chuyện **khác hẳn, bất chợt** — cuộc họp chính là mục đích của buổi gặp, không phải chuyện ngoài lề; 「したがって」 = vì cảm ơn nên bắt đầu họp — không có quan hệ lô-gic; 「ところが」 cần vế sau là sự thật trái dự đoán."
+    },
+    {
       "id": "b46-q2",
       "kind": "form",
       "ref": "b46-4",
@@ -707,19 +722,19 @@
       "why": "A là **vấn đề**, B là **giải pháp có chủ ý** (〜ことにした) → **そこで**. 「すると」 dùng khi B tự xảy ra ngoài ý muốn; 「それとも」 chỉ dùng trong câu hỏi; 「もっとも」 là tự giới hạn lời vừa nói, không nối vấn đề → giải pháp."
     },
     {
-      "id": "b46-q3",
+      "id": "b46-q9",
       "kind": "form",
-      "ref": "b46-7",
-      "q": "{評判|ひょうばん}のパン{屋|や}に{朝|あさ}7{時|じ}から{並|なら}んだ。（　　）、{開店|かいてん}{前|まえ}に{整理券|せいりけん}はすべて{配|くば}り{終|お}わっていた。",
+      "ref": "b46-3",
+      "q": "{昨夜|さくや}、{市内|しない}の{変電所|へんでんしょ}で{火災|かさい}が{発生|はっせい}した。（　　）、{約|やく}2{万|まん}{世帯|せたい}で{朝|あさ}まで{停電|ていでん}が{続|つづ}いた。",
       "options": [
         "そこで",
-        "したがって",
-        "ところが",
-        "さらに"
+        "なぜなら",
+        "そのため",
+        "それとも"
       ],
       "answer": 2,
-      "vi": "Tôi xếp hàng ở tiệm bánh nổi tiếng từ 7 giờ sáng. Thế nhưng, trước giờ mở cửa phiếu số thứ tự đã phát hết.",
-      "why": "Đã cố đến sớm (kỳ vọng mua được) nhưng **sự thật lại trái ngược** → **ところが**. 「そこで」 cần B là hành động chủ ý; 「したがって」 = kết luận lô-gic (đến sớm → hết phiếu là vô lý); 「さらに」 = thêm thông tin cùng chiều."
+      "vi": "Đêm qua, một vụ cháy đã xảy ra ở trạm biến áp trong thành phố. Vì thế, khoảng 20.000 hộ gia đình bị mất điện kéo dài đến tận sáng.",
+      "why": "A (cháy trạm biến áp) là nguyên nhân, B (mất điện kéo dài) là **kết quả tự nhiên đã xảy ra** → **そのため**. 「そこで」 cần B là **hành động có chủ ý** con người chọn làm để đối phó (vd 〜ことにした) — mất điện không phải do ai quyết định; 「なぜなら」 đi ngược hướng (kết quả → lý do) và cần 〜からだ ở cuối câu; 「それとも」 chỉ dùng trong câu hỏi lựa chọn."
     },
     {
       "id": "b46-q4",
@@ -737,6 +752,51 @@
       "why": "Câu sau kết thúc bằng **〜からだ** và nêu **lý do** cho ý kiến trước → **なぜなら**. 「そのため」 đi theo hướng lý do → kết quả (ngược chiều); 「すると」「こうして」 dẫn tới sự việc / kết quả, không đi với 〜からだ."
     },
     {
+      "id": "b46-q10",
+      "kind": "form",
+      "ref": "b46-2",
+      "q": "{朝|あさ}、{庭|にわ}の{野菜|やさい}が{荒|あ}らされていた。{夜|よる}の{間|あいだ}に{近所|きんじょ}の{猫|ねこ}が{入|はい}ったのかもしれない。（　　）、{裏山|うらやま}から{狸|たぬき}が{下|お}りてきたのかもしれない。",
+      "options": [
+        "それとも",
+        "あるいは",
+        "したがって",
+        "それに対して"
+      ],
+      "answer": 1,
+      "vi": "Sáng ra, rau ngoài vườn bị phá tan hoang. Có thể con mèo hàng xóm đã vào trong đêm. Hoặc cũng có thể một con lửng chó từ ngọn đồi sau nhà đã xuống.",
+      "why": "Nêu thêm **một khả năng khác** bằng câu trần thuật 「〜かもしれない」 → **あるいは** (A かもしれない。あるいは B かもしれない). 「それとも」 cũng là \"hay là\" nhưng **chỉ dùng trong câu hỏi** (〜か。それとも〜か) — ở đây cả hai câu đều không phải câu hỏi; 「したがって」 = vì mèo vào nên lửng xuống — vô lý; 「それに対して」 so sánh hai đối tượng có đặc điểm khác nhau, không dùng để nêu một khả năng thay thế."
+    },
+    {
+      "id": "b46-q3",
+      "kind": "form",
+      "ref": "b46-7",
+      "q": "{評判|ひょうばん}のパン{屋|や}に{朝|あさ}7{時|じ}から{並|なら}んだ。（　　）、{開店|かいてん}{前|まえ}に{整理券|せいりけん}はすべて{配|くば}り{終|お}わっていた。",
+      "options": [
+        "そこで",
+        "したがって",
+        "ところが",
+        "さらに"
+      ],
+      "answer": 2,
+      "vi": "Tôi xếp hàng ở tiệm bánh nổi tiếng từ 7 giờ sáng. Thế nhưng, trước giờ mở cửa phiếu số thứ tự đã phát hết.",
+      "why": "Đã cố đến sớm (kỳ vọng mua được) nhưng **sự thật lại trái ngược** → **ところが**. 「そこで」 cần B là hành động chủ ý; 「したがって」 = kết luận lô-gic (đến sớm → hết phiếu là vô lý); 「さらに」 = thêm thông tin cùng chiều."
+    },
+    {
+      "id": "b46-q11",
+      "kind": "form",
+      "ref": "b46-5",
+      "q": "{和食|わしょく}では{旬|しゅん}の{食材|しょくざい}を{使|つか}い、{器|うつわ}や{盛|も}り{付|つ}けでも{季節|きせつ}を{表現|ひょうげん}する。また、{正月|しょうがつ}や{節句|せっく}など、{年中|ねんじゅう}{行事|ぎょうじ}と{結|むす}びついた{料理|りょうり}も{多|おお}い。（　　）、{和食|わしょく}は{季節|きせつ}の{移|うつ}り{変|か}わりと{深|ふか}く{関|かか}わる{食文化|しょくぶんか}だと{言|い}える。",
+      "options": [
+        "こうして",
+        "ところで",
+        "なぜなら",
+        "このように"
+      ],
+      "answer": 3,
+      "vi": "Ẩm thực Nhật dùng nguyên liệu đúng mùa, và cả bát đĩa lẫn cách bày biện cũng thể hiện mùa. Ngoài ra, có nhiều món gắn với các dịp lễ trong năm như Tết hay các tiết lễ. Như vậy, có thể nói ẩm thực Nhật là nền văn hoá ẩm thực gắn bó sâu sắc với sự chuyển mùa.",
+      "why": "Phía trước là **các ví dụ** (nguyên liệu, bát đĩa, món ngày lễ), phía sau là **nhận định khái quát** 「〜と言える」 → **このように** (tổng kết). 「こうして」 dẫn **kết quả cuối cùng của một chuỗi diễn biến** (thường 〜た) — đây không phải câu chuyện kể theo thời gian; 「ところで」 đổi sang chuyện khác — câu sau vẫn nói về 和食; 「なぜなら」 cần câu sau nêu lý do + 〜からだ."
+    },
+    {
       "id": "b46-q5",
       "kind": "form",
       "ref": "b46-8",
@@ -750,6 +810,21 @@
       "answer": 0,
       "vi": "Anh ta không nấu ăn, dọn dẹp giặt giũ cũng để người khác làm. Tóm lại là không làm chút việc nhà nào.",
       "why": "Gom nhiều ý phía trước thành một ý cốt lõi + 「〜ということだ」 → **要するに**. 「いわば」 cần một hình ảnh ví von (〜のようなものだ); 「ただし」 nêu ngoại lệ; 「一方」 so sánh với đối tượng khác."
+    },
+    {
+      "id": "b46-q12",
+      "kind": "form",
+      "ref": "b46-7",
+      "q": "{息子|むすこ}には{毎晩|まいばん}「{寝|ね}る{前|まえ}に{宿題|しゅくだい}を{済|す}ませなさい」と{言|い}っている。（　　）、{今朝|けさ}もまた{登校|とうこう}{直前|ちょくぜん}になって{慌|あわ}てて{宿題|しゅくだい}をやっていた。",
+      "options": [
+        "それなのに",
+        "そこで",
+        "すると",
+        "なぜなら"
+      ],
+      "answer": 0,
+      "vi": "Tối nào tôi cũng bảo con trai: \"Làm xong bài tập trước khi đi ngủ đi\". Vậy mà sáng nay nó lại cuống cuồng làm bài tập ngay trước giờ đi học.",
+      "why": "Đã nhắc mỗi tối (lẽ ra con phải làm xong từ tối) nhưng kết quả **lại trái ý**, kèm giọng **bực bội** của người nói (「今朝もまた」) → **それなのに**. 「そこで」 cần B là giải pháp có chủ ý của người nói; 「すると」 dẫn điều xảy ra ngay sau một hành động cụ thể, không mang cảm xúc trách móc và không nối với thói quen lặp lại 「言っている」; 「なぜなら」 cần câu sau là lý do + 〜からだ."
     },
     {
       "id": "b46-q6",
@@ -767,6 +842,21 @@
       "why": "Quy định chung + **ngoại lệ** (対象外) → **ただし**. 「さて」 chuyển sang việc chính khác; 「そのうえ」 thêm điều cùng chiều (nhưng ở đây là hạn chế, ngược chiều); 「すると」 dẫn sự việc xảy ra tiếp theo."
     },
     {
+      "id": "b46-q13",
+      "kind": "form",
+      "ref": "b46-10",
+      "q": "「{来週|らいしゅう}の{出張|しゅっちょう}の{準備|じゅんび}、{進|すす}んでる？」「うん、ほとんど{終|お}わったよ。（　　）、{駅前|えきまえ}に{新|あたら}しいカフェができたの、{知|し}ってる？」",
+      "options": [
+        "さて",
+        "ところで",
+        "だから",
+        "それでも"
+      ],
+      "answer": 1,
+      "vi": "\"Chuẩn bị cho chuyến công tác tuần sau tới đâu rồi?\" \"Ừ, gần xong rồi. À này, cậu biết trước ga mới mở một quán cà phê chưa?\"",
+      "why": "Đang nói chuyện công tác thì **bất chợt chuyển sang chuyện khác hẳn** (quán cà phê mới) → **ところで**. 「さて」 dùng để chuyển sang **phần chính / phần tiếp theo đã định** (sau lời chào, sau phần trước của bài nói) — quán cà phê không phải \"việc chính\" tiếp theo; 「だから」 nối nhân quả — chuẩn bị gần xong không phải lý do của câu hỏi về quán cà phê; 「それでも」 = dù vậy vẫn… — hai câu không có quan hệ ngược chiều."
+    },
+    {
       "id": "b46-q7",
       "kind": "usage",
       "ref": "b46-2",
@@ -780,6 +870,141 @@
       "answer": 1,
       "vi": "(2) Quý khách dùng cà phê ạ? Hay là dùng trà ạ?",
       "why": "「それとも」 **chỉ dùng trong câu hỏi lựa chọn** → (2) đúng. (1) là câu nhờ vả → 「あるいは／または」; (3) là so sánh hai người → 「それに対して」; (4) nêu khả năng khác → 「あるいは、〜かもしれない」."
+    },
+    {
+      "id": "b46-q14",
+      "kind": "order",
+      "ref": "b46-1",
+      "q": "{先月|せんげつ}{買|か}った{掃除機|そうじき}は ＿＿＿ ＿＿＿ ★ ＿＿＿ ので、とても{気|き}に{入|い}っている。",
+      "options": [
+        "静かで",
+        "吸引力も強い",
+        "しかも",
+        "音が"
+      ],
+      "order": [
+        3,
+        0,
+        2,
+        1
+      ],
+      "answer": 2,
+      "vi": "Chiếc máy hút bụi mua tháng trước chạy êm, mà lực hút lại còn mạnh nữa, nên tôi rất ưng.",
+      "why": "**音が 静かで しかも 吸引力も強い** ので → ★ (ô thứ 3) = 「しかも」. 「音が」 + 「静かで」 là đặc điểm thứ nhất (dạng 〜で để nối tiếp); 「しかも」 nối ngay trong câu theo khuôn **AくてしかもB / AでしかもB** để cộng thêm một đặc điểm **cùng chiều** (êm + hút mạnh đều là điểm cộng); 「吸引力も強い」 có 「も」 nên phải đứng sau, rồi nối với 「ので」."
+    },
+    {
+      "id": "b46-q15",
+      "kind": "usage",
+      "ref": "b46-4",
+      "q": "「すると」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "道に迷ってしまった。すると、近くの交番で道を聞くことにした。",
+        "このパソコンはとても軽い。すると、電池も長持ちする。",
+        "頭が痛かった。すると、薬を飲んで早めに寝た。",
+        "古いアルバムを開いてみた。すると、若いころの両親の写真が出てきた。"
+      ],
+      "answer": 3,
+      "vi": "(4) Tôi thử mở cuốn album cũ. Thế là những tấm ảnh thời trẻ của bố mẹ hiện ra.",
+      "why": "「すると」: A là một hành động, B là **điều tự xảy ra / phát hiện ra** ngay sau đó (〜た), không phải ý chí của người làm A → (4) đúng. (1) B là **giải pháp có chủ ý** cho vấn đề (〜ことにした) → 「そこで」; (2) cộng thêm ưu điểm cùng chiều → 「しかも／そのうえ」; (3) B là việc người nói **tự quyết làm** vì đau đầu → 「それで／だから」."
+    },
+    {
+      "id": "b46-q16",
+      "kind": "order",
+      "ref": "b46-3",
+      "q": "この{講座|こうざ}は、{申込者|もうしこみしゃ}が10{名|めい}{以上|いじょう}{集|あつ}まった{場合|ばあい}にのみ{開講|かいこう}する。＿＿＿ ★ ＿＿＿ ＿＿＿ {中止|ちゅうし}となる。",
+      "options": [
+        "申込者数が",
+        "場合は",
+        "したがって",
+        "10名に満たない"
+      ],
+      "order": [
+        2,
+        0,
+        3,
+        1
+      ],
+      "answer": 0,
+      "vi": "Khoá học này chỉ mở khi có từ 10 người đăng ký trở lên. Do đó, nếu số người đăng ký không đủ 10 người thì khoá học sẽ bị huỷ.",
+      "why": "**したがって 申込者数が 10名に満たない 場合は** 中止となる → ★ (ô thứ 2) = 「申込者数が」. Từ quy định ở câu trước suy ra **kết luận / quy định tương ứng** → 「したがって」 đứng đầu câu; 「申込者数が 10名に満たない」 là mệnh đề bổ nghĩa cho 「場合」; 「場合は」 nối với 「中止となる」."
+    },
+    {
+      "id": "b46-q17",
+      "kind": "order",
+      "ref": "b46-6",
+      "q": "{明日|あした}の{午前|ごぜん}の{打|う}ち{合|あ}わせですが、{午後|ごご}に{変更|へんこう}していただけないでしょうか。＿＿＿ ＿＿＿ ★ ＿＿＿ んです。",
+      "options": [
+        "取引先の方が",
+        "ことになった",
+        "というのは",
+        "急にいらっしゃる"
+      ],
+      "order": [
+        2,
+        0,
+        3,
+        1
+      ],
+      "answer": 3,
+      "vi": "Về buổi họp sáng mai, anh có thể đổi sang buổi chiều được không ạ? Là vì bên khách hàng đột nhiên sẽ đến công ty.",
+      "why": "**というのは 取引先の方が 急にいらっしゃる ことになった** んです → ★ (ô thứ 3) = 「急にいらっしゃる」. Câu trước là lời nhờ, câu sau **giải thích lý do / hoàn cảnh** → 「というのは」 đứng đầu, khớp với đuôi 「〜んです」 (giọng nói chuyện, mềm hơn 「なぜなら」); 「取引先の方が」 là chủ ngữ của 「いらっしゃる」; 「〜ことになった」 = đã được quyết định là…."
+    },
+    {
+      "id": "b46-q18",
+      "kind": "usage",
+      "ref": "b46-8",
+      "q": "「いわば」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "試験は来週の月曜日、いわば3月10日に行われる。",
+        "祖父にとって、この古い万年筆はいわば体の一部のようなものだ。",
+        "何度も説明したが、彼はいわば理解してくれなかった。",
+        "昨夜は大雨が降った。いわば、今日の試合は中止になった。"
+      ],
+      "answer": 1,
+      "vi": "(2) Với ông tôi, cây bút máy cũ này có thể nói như là một phần cơ thể vậy.",
+      "why": "「いわば」 = nói lại bằng **hình ảnh ví von** (〜のようなものだ) → (2) đúng. (1) hai danh từ **bằng nhau chính xác** (thứ Hai tuần sau = ngày 10/3) → 「すなわち／つまり」; (3) câu không có gì để ví von, ý là \"rốt cuộc\" → 「結局」; (4) B là kết quả của A → 「そのため」."
+    },
+    {
+      "id": "b46-q19",
+      "kind": "order",
+      "ref": "b46-5",
+      "q": "{江戸|えど}{時代|じだい}、この{地方|ちほう}の{村|むら}は{何度|なんど}も{洪水|こうずい}に{苦|くる}しめられた。そこで{村人|むらびと}たちは、{川|かわ}の{神|かみ}を{鎮|しず}めるために{毎年|まいとし}{夏|なつ}に{踊|おど}りを{奉納|ほうのう}するようになった。＿＿＿ ★ ＿＿＿ ＿＿＿ 「{川|かわ}{踊|おど}り」である。",
+      "options": [
+        "今も",
+        "続く",
+        "始まったのが",
+        "こうして"
+      ],
+      "order": [
+        3,
+        2,
+        0,
+        1
+      ],
+      "answer": 2,
+      "vi": "Thời Edo, các làng ở vùng này nhiều lần khốn khổ vì lũ lụt. Vì vậy, hằng năm vào mùa hè dân làng dâng điệu múa để xoa dịu thần sông. Và cái đã ra đời từ đó chính là \"Kawa-odori\" (điệu múa sông) vẫn còn được duy trì đến ngày nay.",
+      "why": "**こうして 始まったのが 今も 続く** 「川踊り」である → ★ (ô thứ 2) = 「始まったのが」. Câu trước kể **diễn biến** (lũ lụt → dân làng dâng múa), câu này nêu **kết quả cuối cùng** → 「こうして」 đứng đầu (không phải 「このように」, vốn dùng để tổng kết lý lẽ thành nhận định chung); 「こうして始まったのが〜である」 = \"cái ra đời từ đó chính là…\"; 「今も」 bổ nghĩa cho 「続く」, và 「続く」 bổ nghĩa cho 「川踊り」."
+    },
+    {
+      "id": "b46-q20",
+      "kind": "order",
+      "ref": "b46-9",
+      "q": "{駅前|えきまえ}のあのカフェは、いつ{行|い}っても{空|す}いている。＿＿＿ ＿＿＿ ★ ＿＿＿ 。",
+      "options": [
+        "限っての",
+        "もっとも",
+        "話だが",
+        "平日の昼間に"
+      ],
+      "order": [
+        1,
+        3,
+        0,
+        2
+      ],
+      "answer": 0,
+      "vi": "Quán cà phê trước ga đó lúc nào đến cũng vắng. Nói vậy chứ, đó chỉ là chuyện vào buổi trưa ngày thường thôi.",
+      "why": "**もっとも 平日の昼間に 限っての 話だが** → ★ (ô thứ 3) = 「限っての」. Người nói vừa khẳng định \"lúc nào cũng vắng\" rồi **tự giới hạn lại** → 「もっとも」 đứng đầu, và câu kết bằng 「〜が」 đúng khuôn của もっとも; 「平日の昼間に限っての話」 = chuyện chỉ đúng vào buổi trưa ngày thường; 「平日の昼間に」 phải đứng ngay trước 「限っての」."
     }
   ],
   "practice": [

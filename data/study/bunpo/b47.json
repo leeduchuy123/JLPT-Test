@@ -430,6 +430,21 @@
       "why": "Nội dung trước là **việc làm lặp đi lặp lại mỗi ngày** → danh từ tóm phù hợp là **習慣**. 「事件」 = vụ việc (thường xấu, một lần); 「目標」 = điều muốn đạt được trong tương lai; 「傾向」 = xu hướng chung của nhiều người / xã hội, không dùng cho thói quen một người."
     },
     {
+      "id": "b47-q8",
+      "kind": "form",
+      "ref": "b47-1",
+      "q": "{先週|せんしゅう}{買|か}ったばかりの{傘|かさ}を{電車|でんしゃ}に{置|お}き{忘|わす}れてしまった。{駅|えき}に{問|と}い{合|あ}わせたが、（　　）。",
+      "options": [
+        "駅がまだ見つからないそうだ",
+        "それをまだ見つかっていないそうだ",
+        "まだ見つかっていないそうだ",
+        "私はまだ見つけていないそうだ"
+      ],
+      "answer": 2,
+      "vi": "Tôi để quên trên tàu chiếc ô vừa mua tuần trước. Tôi đã hỏi nhà ga nhưng nghe nói vẫn chưa tìm thấy.",
+      "why": "Chủ ngữ bị lược của 「見つかっていない」 là **cái ô** vừa nhắc ở câu trước → không cần nhắc lại: **まだ見つかっていないそうだ**. (1) 「駅が見つからない」 = không tìm thấy nhà ga — sai nghĩa; (2) 「見つかる」 là tự động từ, không đi với 「を」 (muốn nhắc lại thì phải là 「傘は」, mà như thế cũng thừa); (4) 「私は見つけていないそうだ」 = \"nghe nói tôi chưa tìm thấy\" — tự nói về việc của mình mà dùng 「そうだ」 (nghe nói) là vô lý; người đang tìm là nhà ga."
+    },
+    {
       "id": "b47-q2",
       "kind": "form",
       "ref": "b47-5",
@@ -445,19 +460,19 @@
       "why": "Chủ ngữ bị lược là **người viết (私)** — người bị sốt. Người làm hành động là 「母」 (có 「に」) → **bị động 連れていかれた**. 「連れていった」 = tôi đưa (ai đó) đi; 「連れていかせた」 = tôi bắt (mẹ) đưa đi — sai; 「連れていってあげた」 = tôi đưa (mẹ) đi giúp — sai hướng."
     },
     {
-      "id": "b47-q3",
-      "kind": "usage",
+      "id": "b47-q9",
+      "kind": "form",
       "ref": "b47-3",
-      "q": "{最|もっと}も{自然|しぜん}な{文章|ぶんしょう}を{選|えら}びなさい。",
+      "q": "{叔父|おじ}は{若|わか}いころ{船乗|ふなの}りで、{世界|せかい}{中|じゅう}の{港|みなと}を{回|まわ}ったそうだ。（　　）{故郷|こきょう}の{島|しま}に{戻|もど}り、{小|ちい}さな{民宿|みんしゅく}を{営|いとな}んでいる。",
       "options": [
-        "私は毎朝ジョギングをしている。私は走り終わると、私はシャワーを浴びる。",
-        "毎朝ジョギングをしている。ジョギングは走り終わると、シャワーを浴びる。",
-        "毎朝ジョギングをしている。走り終わると、シャワーを浴びてから朝食をとる。",
-        "私は毎朝ジョギングをしている。彼は走り終わると、シャワーを浴びる。"
+        "今は",
+        "今が",
+        "島は今",
+        "船乗りは今"
       ],
-      "answer": 2,
-      "vi": "(3) Sáng nào tôi cũng chạy bộ. Chạy xong thì tắm rồi ăn sáng.",
-      "why": "(3): chủ đề \"tôi\" tiếp diễn → lược hết, tự nhiên. (1) lặp 「私は」 ba lần — nặng nề; (2) đặt 「ジョギングは」 làm chủ đề — \"môn chạy bộ chạy xong thì tắm\" vô nghĩa; (4) 「彼は」 làm đổi sang người khác, trong khi người chạy là \"tôi\"."
+      "answer": 0,
+      "vi": "Nghe nói chú tôi hồi trẻ là thuỷ thủ, đã đi khắp các cảng trên thế giới. Giờ thì chú đã về hòn đảo quê nhà và mở một nhà trọ nhỏ.",
+      "why": "Chủ đề 「叔父は」 vẫn tiếp tục nên không nhắc lại; 「今は」 chỉ là **đối chiếu thời gian** (hồi trẻ ↔ bây giờ) trong phạm vi chủ đề cũ → **今は**. 「今が」 dùng 「が」 cho từ chỉ thời gian ở đây là sai (câu không nói \"chính bây giờ là…\"); 「島は今」 biến hòn đảo thành chủ ngữ của 「戻り、営んでいる」 — vô lý; 「船乗りは今」 lại thành nói về \"thuỷ thủ\" nói chung, không phải chú tôi."
     },
     {
       "id": "b47-q4",
@@ -475,6 +490,21 @@
       "why": "Bưu kiện đã được giới thiệu bằng 「が」 ở câu trước → câu sau **lược chủ đề**, chỉ cần 「送り状を見ると」 → tự nhiên. 「小包が」 dùng 「が」 cho thông tin đã biết — sai; phương án 3 lặp 「小包」 hai lần thừa; 「それが見ると」 sai ngữ pháp (bưu kiện không thể \"nhìn\")."
     },
     {
+      "id": "b47-q10",
+      "kind": "form",
+      "ref": "b47-5",
+      "q": "{引|ひ}っ{越|こ}しの{日|ひ}、{大学|だいがく}{時代|じだい}の{友人|ゆうじん}が{三人|さんにん}も{手伝|てつだ}いに{来|き}て（　　）。おかげで、{予定|よてい}よりずっと{早|はや}く{片付|かたづ}いた。",
+      "options": [
+        "しまった",
+        "もらった",
+        "あげた",
+        "くれた"
+      ],
+      "answer": 3,
+      "vi": "Hôm chuyển nhà, có tận ba người bạn thời đại học đến giúp tôi. Nhờ vậy mà dọn dẹp xong sớm hơn dự định nhiều.",
+      "why": "Chủ ngữ là 「友人が」, người nhận ân huệ bị lược là **người viết (私)** → bạn làm cho tôi: **〜てくれた**. 「来てもらった」 cần chủ ngữ là tôi (（私は）友人に来てもらった), nhưng câu này có 「友人が」; 「来てあげた」 sai hướng (bạn làm cho người khác), mâu thuẫn với 「おかげで」; 「来てしまった」 mang sắc thái tiếc nuối / ngoài ý muốn, cũng mâu thuẫn với 「おかげで」."
+    },
+    {
       "id": "b47-q5",
       "kind": "form",
       "ref": "b47-4",
@@ -488,6 +518,81 @@
       "answer": 1,
       "vi": "Cuộc họp có trưởng phòng và nhân viên mới Tanaka tham dự. Khi trưởng phòng hỏi ý kiến, anh Tanaka bắt đầu nói với vẻ căng thẳng.",
       "why": "Có **hai ứng viên** (部長・田中さん) → không lược, phải ghi rõ người nói là **田中さんは** (người được hỏi ý kiến, đang căng thẳng). 「部長は」 sai người — trưởng phòng là người hỏi; 「それは」 chỉ vật; 「彼らは」 là cả hai người — không hợp với \"được hỏi ý kiến rồi bắt đầu nói\"."
+    },
+    {
+      "id": "b47-q11",
+      "kind": "form",
+      "ref": "b47-7",
+      "q": "{最近|さいきん}、{都会|とかい}での{仕事|しごと}を{辞|や}めて{地方|ちほう}に{移住|いじゅう}し、{農業|のうぎょう}を{始|はじ}める{若者|わかもの}が{増|ふ}えている。{国|くに}や{自治体|じちたい}も、（　　）を{後押|あとお}しする{制度|せいど}を{整|ととの}えつつある。",
+      "options": [
+        "この習慣",
+        "こうした動き",
+        "その事故",
+        "あの目標"
+      ],
+      "answer": 1,
+      "vi": "Gần đây, số người trẻ bỏ việc ở thành phố, chuyển về địa phương và bắt đầu làm nông đang tăng lên. Nhà nước và chính quyền địa phương cũng đang dần hoàn thiện các chế độ để hỗ trợ xu hướng này.",
+      "why": "Câu trước nói về một **xu hướng xã hội** (nhiều người trẻ về quê làm nông) → danh từ tóm phù hợp là **こうした動き** (những chuyển động / xu hướng như vậy). 「この習慣」 là thói quen lặp lại của một người — không khớp loại nội dung; 「その事故」 — không có tai nạn nào; 「あの目標」 — không có mục tiêu nào được nêu, và 「あの」 dùng cho thứ cả hai bên cùng biết, không dùng để chỉ nội dung vừa viết."
+    },
+    {
+      "id": "b47-q7",
+      "kind": "form",
+      "ref": "b47-6",
+      "q": "この{論文|ろんぶん}では、{一人|ひとり}で{食事|しょくじ}をとることを「{孤食|こしょく}」と{呼|よ}ぶ。（　　）は{近年|きんねん}、{子|こ}どもの{間|あいだ}でも{増|ふ}えている。",
+      "options": [
+        "彼",
+        "この人",
+        "孤食",
+        "食事"
+      ],
+      "answer": 2,
+      "vi": "Trong luận văn này, việc ăn một mình được gọi là \"cô thực\". Cô thực những năm gần đây đang gia tăng cả ở trẻ em.",
+      "why": "Thuật ngữ vừa được định nghĩa và là đối tượng chính → **lặp lại đúng thuật ngữ 孤食**. 「彼」「この人」 chỉ người, không chỉ hiện tượng; 「食事」 làm sai nghĩa (\"bữa ăn tăng lên ở trẻ em\" — không phải điều đang bàn)."
+    },
+    {
+      "id": "b47-q12",
+      "kind": "form",
+      "ref": "b47-4",
+      "q": "{私|わたし}は{去年|きょねん}から{駅前|えきまえ}の{英会話|えいかいわ}{教室|きょうしつ}に{通|かよ}っている。（　　）{生徒|せいと}が{五人|ごにん}{以下|いか}の{少人数制|しょうにんずうせい}なので、{一人|ひとり}ひとりがたくさん{話|はな}せる。",
+      "options": [
+        "私は",
+        "去年は",
+        "英会話が",
+        "教室は"
+      ],
+      "answer": 3,
+      "vi": "Từ năm ngoái tôi theo học một lớp hội thoại tiếng Anh trước ga. Lớp học theo hình thức sĩ số nhỏ, mỗi lớp từ năm học viên trở xuống, nên ai cũng được nói nhiều.",
+      "why": "Chủ đề đổi từ 「私」 sang **lớp học** (lớp học mới là thứ \"có sĩ số nhỏ\") → phải **ghi rõ chủ đề mới**: **教室は**. 「私は」 giữ chủ đề cũ, thành \"tôi là (lớp) sĩ số nhỏ\" — vô lý; 「去年は」 chỉ là mốc thời gian, không làm chủ ngữ cho 「少人数制」 và còn lệch thời (câu sau ở hiện tại); 「英会話が少人数制」 — môn hội thoại không phải thứ có sĩ số."
+    },
+    {
+      "id": "b47-q3",
+      "kind": "usage",
+      "ref": "b47-3",
+      "q": "{最|もっと}も{自然|しぜん}な{文章|ぶんしょう}を{選|えら}びなさい。",
+      "options": [
+        "私は毎朝ジョギングをしている。私は走り終わると、私はシャワーを浴びる。",
+        "毎朝ジョギングをしている。ジョギングは走り終わると、シャワーを浴びる。",
+        "毎朝ジョギングをしている。走り終わると、シャワーを浴びてから朝食をとる。",
+        "私は毎朝ジョギングをしている。彼は走り終わると、シャワーを浴びる。"
+      ],
+      "answer": 2,
+      "vi": "(3) Sáng nào tôi cũng chạy bộ. Chạy xong thì tắm rồi ăn sáng.",
+      "why": "(3): chủ đề \"tôi\" tiếp diễn → lược hết, tự nhiên. (1) lặp 「私は」 ba lần — nặng nề; (2) đặt 「ジョギングは」 làm chủ đề — \"môn chạy bộ chạy xong thì tắm\" vô nghĩa; (4) 「彼は」 làm đổi sang người khác, trong khi người chạy là \"tôi\"."
+    },
+    {
+      "id": "b47-q13",
+      "kind": "form",
+      "ref": "b47-5",
+      "q": "{新人|しんじん}のころは、{先輩|せんぱい}に{毎朝|まいあさ}{誰|だれ}よりも{早|はや}く{出社|しゅっしゃ}して、{事務所|じむしょ}の{掃除|そうじ}を（　　）。{今|いま}となってはいい{思|おも}い{出|で}だ。",
+      "options": [
+        "した",
+        "させた",
+        "させられた",
+        "してくれた"
+      ],
+      "answer": 2,
+      "vi": "Hồi còn là lính mới, sáng nào tôi cũng bị đàn anh bắt đến công ty sớm hơn mọi người để dọn văn phòng. Giờ nghĩ lại thì đó là một kỷ niệm đẹp.",
+      "why": "Chủ ngữ bị lược là **người viết (lúc còn là 新人)**; 「先輩に」 là người ra lệnh → tôi **bị đàn anh bắt làm**: 使役受身 **させられた**. 「した」 không đi được với 「先輩に」; 「させた」 = tôi bắt đàn anh dọn — ngược vai (lính mới không bắt đàn anh làm); 「してくれた」 cần chủ ngữ là 「先輩が」, và nghĩa \"đàn anh dọn giúp tôi\" không khớp với 「先輩に」 và 「新人のころは」."
     },
     {
       "id": "b47-q6",
@@ -505,19 +610,139 @@
       "why": "Ba hiện tượng tự nhiên → từ bao quát **災害**, số nhiều → **これらの災害**. 「この事故」 = tai nạn (do con người, một vụ); 「その夢」「こうした趣味」 hoàn toàn không khớp loại nội dung."
     },
     {
-      "id": "b47-q7",
-      "kind": "form",
-      "ref": "b47-6",
-      "q": "この{論文|ろんぶん}では、{一人|ひとり}で{食事|しょくじ}をとることを「{孤食|こしょく}」と{呼|よ}ぶ。（　　）は{近年|きんねん}、{子|こ}どもの{間|あいだ}でも{増|ふ}えている。",
+      "id": "b47-q14",
+      "kind": "usage",
+      "ref": "b47-1",
+      "q": "{最|もっと}も{自然|しぜん}な{文章|ぶんしょう}を{選|えら}びなさい。",
       "options": [
-        "彼",
-        "この人",
-        "孤食",
-        "食事"
+        "先週、北海道へ旅行した。札幌ではラーメンを食べ、小樽では運河沿いを散歩した。",
+        "先週、私は北海道へ旅行した。私は札幌でラーメンを食べ、私は小樽で運河沿いを散歩した。",
+        "先週、北海道へ旅行した。旅行は札幌でラーメンを食べ、小樽で運河沿いを散歩した。",
+        "先週、北海道へ旅行した。北海道は札幌ではラーメンを食べ、小樽では運河沿いを散歩した。"
+      ],
+      "answer": 0,
+      "vi": "(1) Tuần trước tôi đi du lịch Hokkaido. Ở Sapporo thì ăn ramen, ở Otaru thì đi dạo dọc kênh đào.",
+      "why": "Chủ ngữ 「私」 đã rõ → **lược hẳn**, chỉ giữ 「札幌では」「小樽では」 để đối chiếu → (1) tự nhiên nhất. (2) lặp 「私は」 ba lần — nặng nề, kiểu \"dịch máy\"; (3) 「旅行は」 làm chủ ngữ của 「食べ、散歩した」 — chuyến du lịch không thể ăn; (4) 「北海道は」 thành chủ ngữ của hành động ăn, đi dạo — sai."
+    },
+    {
+      "id": "b47-q15",
+      "kind": "order",
+      "ref": "b47-2",
+      "q": "{昨日|きのう}、{田舎|いなか}の{祖母|そぼ}から{段|だん}ボール{箱|ばこ}が{届|とど}いた。＿＿＿ ＿＿＿ ★ ＿＿＿ {野菜|やさい}がぎっしり{詰|つ}まっていた。",
+      "options": [
+        "とれたばかりの",
+        "祖母の畑で",
+        "開けると",
+        "中には"
+      ],
+      "order": [
+        2,
+        3,
+        1,
+        0
+      ],
+      "answer": 1,
+      "vi": "Hôm qua, một thùng các-tông từ bà ở quê gửi đến. Mở ra thì bên trong chật ních rau vừa hái từ vườn của bà.",
+      "why": "**開けると 中には 祖母の畑で とれたばかりの** 野菜が… → ★ (ô thứ 3) = 「祖母の畑で」. Thùng hàng vừa được giới thiệu bằng 「〜が届いた」, câu sau nói tiếp về nó nên **lược hẳn** 「段ボール箱を／箱の」: chỉ cần 「開けると」「中には」; 「祖母の畑で とれたばかりの」 là mệnh đề bổ nghĩa, phải đứng ngay trước 「野菜」."
+    },
+    {
+      "id": "b47-q16",
+      "kind": "order",
+      "ref": "b47-5",
+      "q": "{新入|しんにゅう}{社員|しゃいん}のころ、{上司|じょうし}に{毎日|まいにち}{日報|にっぽう}を ＿＿＿ ＿＿＿ ★ ＿＿＿ に{立|た}っている。",
+      "options": [
+        "ことが",
+        "役",
+        "書かされた",
+        "今になって"
+      ],
+      "order": [
+        2,
+        0,
+        3,
+        1
+      ],
+      "answer": 3,
+      "vi": "Hồi mới vào công ty, tôi bị cấp trên bắt ngày nào cũng viết báo cáo công việc; đến giờ việc đó lại trở nên có ích.",
+      "why": "**書かされた ことが 今になって 役** に立っている → ★ (ô thứ 3) = 「今になって」. Chủ ngữ bị lược là **người viết**, 「上司に」 là người bắt làm → 使役受身 「書かされた」 đứng ngay sau 「日報を」; 「〜ことが」 biến cả việc đó thành chủ ngữ của 「役に立っている」; 「今になって」 (đến bây giờ mới) chen trước 「役に立っている」."
+    },
+    {
+      "id": "b47-q17",
+      "kind": "order",
+      "ref": "b47-1",
+      "q": "{姉|あね}は{毎年|まいとし}、{私|わたし}の{誕生日|たんじょうび}に{手編|てあ}みのマフラーを{贈|おく}ってくれる。＿＿＿ ＿＿＿ ★ ＿＿＿ そうだ。",
+      "options": [
+        "一か月近く",
+        "かかる",
+        "一本",
+        "仕上げるのに"
+      ],
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answer": 0,
+      "vi": "Năm nào chị tôi cũng tặng tôi một chiếc khăn quàng tự tay đan vào dịp sinh nhật. Nghe nói để đan xong một chiếc mất gần một tháng.",
+      "why": "**一本 仕上げるのに 一か月近く かかる** そうだ → ★ (ô thứ 3) = 「一か月近く」. Câu sau không lặp lại 「姉は」「マフラーを」 vì đã rõ từ câu trước (**lược từ lặp lại**); 「一本」 (một chiếc — đếm khăn) đứng trước 「仕上げるのに」 (để hoàn thành), sau đó là thời gian 「一か月近く」 + 「かかる」."
+    },
+    {
+      "id": "b47-q18",
+      "kind": "order",
+      "ref": "b47-7",
+      "q": "{最近|さいきん}、{駅|えき}や{商店街|しょうてんがい}で{外国語|がいこくご}の{案内|あんない}{表示|ひょうじ}が{増|ふ}えている。＿＿＿ ＿＿＿ ★ ＿＿＿ {観光客|かんこうきゃく}から{好評|こうひょう}だ。",
+      "options": [
+        "読めない",
+        "取り組みは",
+        "日本語が",
+        "こうした"
+      ],
+      "order": [
+        3,
+        1,
+        2,
+        0
       ],
       "answer": 2,
-      "vi": "Trong luận văn này, việc ăn một mình được gọi là \"cô thực\". Cô thực những năm gần đây đang gia tăng cả ở trẻ em.",
-      "why": "Thuật ngữ vừa được định nghĩa và là đối tượng chính → **lặp lại đúng thuật ngữ 孤食**. 「彼」「この人」 chỉ người, không chỉ hiện tượng; 「食事」 làm sai nghĩa (\"bữa ăn tăng lên ở trẻ em\" — không phải điều đang bàn)."
+      "vi": "Gần đây, biển chỉ dẫn bằng tiếng nước ngoài ở nhà ga và khu phố mua sắm ngày càng nhiều. Những nỗ lực như vậy được du khách không đọc được tiếng Nhật đánh giá cao.",
+      "why": "**こうした 取り組みは 日本語が 読めない** 観光客から好評だ → ★ (ô thứ 3) = 「日本語が」. Nội dung câu trước (tăng biển chỉ dẫn tiếng nước ngoài) được **gọi lại bằng danh từ tóm** 「こうした取り組み」 làm chủ đề câu sau; 「日本語が読めない」 là mệnh đề bổ nghĩa đứng ngay trước 「観光客」."
+    },
+    {
+      "id": "b47-q19",
+      "kind": "usage",
+      "ref": "b47-4",
+      "q": "{最|もっと}も{自然|しぜん}な{文章|ぶんしょう}を{選|えら}びなさい。",
+      "options": [
+        "父は昨年、会社を辞めた。会社はその後まもなく他社と合併した。今は地元で小さな店を経営している。",
+        "父は昨年、会社を辞めた。会社はその後まもなく他社と合併した。父は今、地元で小さな店を経営している。",
+        "父は昨年、会社を辞めた。父は会社がその後まもなく他社と合併した。父は今、地元で小さな店を経営している。",
+        "父は昨年、会社を辞めた。それはその後まもなく他社と合併した。それは今、地元で小さな店を経営している。"
+      ],
+      "answer": 1,
+      "vi": "(2) Năm ngoái bố tôi nghỉ việc ở công ty. Ít lâu sau, công ty ấy sáp nhập với một công ty khác. Bây giờ bố đang kinh doanh một cửa hàng nhỏ ở quê.",
+      "why": "Chủ đề đổi từ 「父」 sang 「会社」, rồi **quay lại 「父」** → khi quay lại chủ đề cũ phải **ghi lại** 「父は」 → (2) đúng. (1) không ghi lại chủ đề, nên câu cuối đọc như vẫn nói về 「会社」 (\"công ty (sau sáp nhập) đang kinh doanh một cửa hàng nhỏ\") — không rõ ai; (3) 「父は会社が…合併した」 sai cấu trúc, lặp 「父」 thừa; (4) dùng 「それ」 cho cả công ty lẫn người — 「それは…経営している」 không thể chỉ bố."
+    },
+    {
+      "id": "b47-q20",
+      "kind": "order",
+      "ref": "b47-6",
+      "q": "{最近|さいきん}、「{終活|しゅうかつ}」という{言葉|ことば}をよく{耳|みみ}にする。＿＿＿ ＿＿＿ ★ ＿＿＿ {準備|じゅんび}のことである。",
+      "options": [
+        "人生の",
+        "自分らしく迎えるための",
+        "終活とは",
+        "最期を"
+      ],
+      "order": [
+        2,
+        0,
+        3,
+        1
+      ],
+      "answer": 3,
+      "vi": "Gần đây ta hay nghe thấy từ \"shūkatsu\". Shūkatsu là sự chuẩn bị để đón những ngày cuối đời theo cách của riêng mình.",
+      "why": "**終活とは 人生の 最期を 自分らしく迎えるための** 準備のことである → ★ (ô thứ 3) = 「最期を」. Câu định nghĩa thuật ngữ: **lặp lại đúng từ khoá** 「終活」 theo khuôn 「X とは〜のことである」, không thay bằng 「それ」; 「人生の最期を」 là tân ngữ của 「迎える」; 「自分らしく迎えるための」 bổ nghĩa cho 「準備」."
     }
   ],
   "practice": [

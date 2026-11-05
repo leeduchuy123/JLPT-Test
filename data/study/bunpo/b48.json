@@ -486,6 +486,21 @@
       "why": "Câu trước kết thúc bằng 「減っている」 (**普通体**) → câu này cũng phải là **考えられている**. 「考えられています」 là 丁寧体 — trộn văn phong; 「考えられてるんだ」 có dạng rút gọn てる + んだ (văn nói); 「考えられてますよね」 vừa rút gọn vừa có よね hướng tới người nghe."
     },
     {
+      "id": "b48-q8",
+      "kind": "form",
+      "ref": "b48-3",
+      "q": "（{報告書|ほうこくしょ}）{各|かく}{支店|してん}の{現状|げんじょう}を{把握|はあく}するため、{先月|せんげつ}、{担当者|たんとうしゃ}が{全国|ぜんこく}の{支店|してん}（　　）。",
+      "options": [
+        "訪問した",
+        "を訪問した",
+        "訪問したんだ",
+        "を訪問しちゃった"
+      ],
+      "answer": 1,
+      "vi": "(Báo cáo) Để nắm được tình hình hiện tại của từng chi nhánh, tháng trước người phụ trách đã đến thăm các chi nhánh trên toàn quốc.",
+      "why": "Văn báo cáo **không lược trợ từ** và không dùng dạng rút gọn → **を訪問した**. 「訪問した」 thiếu 「を」 (chỉ văn nói mới bỏ trợ từ); 「訪問したんだ」 vừa thiếu 「を」 vừa có 「〜んだ」 của văn nói; 「を訪問しちゃった」 có dạng rút gọn 「〜ちゃう」 (= てしまう) và sắc thái \"lỡ\" không hợp."
+    },
+    {
       "id": "b48-q2",
       "kind": "form",
       "ref": "b48-2",
@@ -499,6 +514,21 @@
       "answer": 2,
       "vi": "Kết quả khảo sát cho thấy khoảng một nửa học sinh cấp ba dùng điện thoại thông minh hơn 3 tiếng mỗi ngày.",
       "why": "Văn báo cáo khảo sát → dạng đầy đủ **使っている**. 「使ってる」 là dạng rút gọn của ている; 「使っちゃう」 = 使ってしまう (văn nói, thêm sắc thái không phù hợp); 「使ってるっていう」 có cả てる lẫn って."
+    },
+    {
+      "id": "b48-q9",
+      "kind": "form",
+      "ref": "b48-6",
+      "q": "（{報告書|ほうこくしょ}）{実験|じっけん}に{必要|ひつよう}な{機材|きざい}の{到着|とうちゃく}が{遅|おく}れた（　　）、{実験|じっけん}の{開始|かいし}は{一週間|いっしゅうかん}{延期|えんき}された。",
+      "options": [
+        "もんだから",
+        "ことだし",
+        "からさ",
+        "ため"
+      ],
+      "answer": 3,
+      "vi": "(Báo cáo) Do thiết bị cần cho thí nghiệm đến muộn, việc bắt đầu thí nghiệm đã bị hoãn một tuần.",
+      "why": "Báo cáo nêu nguyên nhân một cách khách quan → bản cứng **〜ため**. 「もんだから」 là văn nói, lại mang giọng phân trần, bào chữa; 「ことだし」 là văn nói, thường đi với quyết định / lời rủ của người nói (〜ことだし、〜しよう); 「からさ」 có trợ từ cuối 「さ」 của hội thoại."
     },
     {
       "id": "b48-q3",
@@ -516,34 +546,19 @@
       "why": "Báo cáo không nói trực tiếp với ai → nêu **nhận định của người viết**: **対応すべきだったと考える**. 「〜てくださいね」 là lời nhờ thân mật; 「ご対応いただきたいと存じます」 là kính ngữ trong thư, không hợp báo cáo; 「〜ましょう」 là lời rủ rê."
     },
     {
-      "id": "b48-q4",
+      "id": "b48-q10",
       "kind": "form",
-      "ref": "b48-5",
-      "q": "この{病気|びょうき}は{高齢者|こうれいしゃ}（　　）、{近年|きんねん}は{若|わか}い{世代|せだい}の{間|あいだ}でも{増加|ぞうか}している。",
+      "ref": "b48-1",
+      "q": "（{市|し}の{広報誌|こうほうし}）{今年|ことし}の{夏|なつ}も{厳|きび}しい{暑|あつ}さが{予想|よそう}されています。{外出|がいしゅつ}の{際|さい}は{帽子|ぼうし}をかぶり、こまめに{水分|すいぶん}をとりましょう。{特|とく}に{高齢|こうれい}の{方|かた}は{暑|あつ}さを{感|かん}じにくいため、{注意|ちゅうい}が（　　）。",
       "options": [
-        "だけじゃなくて",
-        "なんかより",
-        "とかじゃなくて",
-        "のみならず"
+        "必要だ",
+        "必要である",
+        "必要です",
+        "必要じゃん"
       ],
-      "answer": 3,
-      "vi": "Căn bệnh này không chỉ ở người cao tuổi mà những năm gần đây còn gia tăng cả trong thế hệ trẻ.",
-      "why": "Văn viết (増加している) + nghĩa \"không chỉ… mà còn\" → **のみならず**. 「だけじゃなくて」 cùng nghĩa nhưng là văn nói (じゃ); 「なんかより」 = \"so với cái thứ…\" — sai nghĩa và mang giọng coi thường; 「とかじゃなくて」 sai nghĩa và là văn nói."
-    },
-    {
-      "id": "b48-q5",
-      "kind": "form",
-      "ref": "b48-6",
-      "q": "このまま{森林|しんりん}の{伐採|ばっさい}が{続|つづ}けば、{多|おお}くの{野生|やせい}{動物|どうぶつ}が{住|す}む{場所|ばしょ}を{失|うしな}う（　　）。",
-      "options": [
-        "おそれがある",
-        "かもしんない",
-        "にきまってるよ",
-        "んじゃない"
-      ],
-      "answer": 0,
-      "vi": "Nếu việc chặt phá rừng cứ tiếp diễn, nhiều loài động vật hoang dã có nguy cơ mất nơi sinh sống.",
-      "why": "Văn viết + khả năng **xấu** → **おそれがある**. 「かもしんない」 là dạng nói của かもしれない; 「にきまってるよ」 rút gọn + よ, mang cảm xúc; 「んじゃない」 là văn nói."
+      "answer": 2,
+      "vi": "(Bản tin thành phố) Mùa hè năm nay cũng được dự báo sẽ nóng gay gắt. Khi ra ngoài, hãy đội mũ và uống nước thường xuyên. Đặc biệt, người cao tuổi khó cảm nhận được cái nóng nên cần chú ý.",
+      "why": "Các câu xung quanh đều kết thúc bằng **です・ます** (されています, とりましょう) → giữ thống nhất: **必要です**. 「必要だ」「必要である」 là 普通体 — chen vào bài です・ます là lỗi thiếu thống nhất văn phong; 「必要じゃん」 là văn nói thân mật."
     },
     {
       "id": "b48-q6",
@@ -561,6 +576,81 @@
       "why": "Động từ 漢語 「増加する」 + văn viết → phó từ cứng **徐々に** (Hán Việt: từ từ). 「すごく」 là văn nói; 「いっぱい」 không đi với 増加 (chỉ số lượng nhiều, văn nói); 「ちょっとずつ」 cùng nghĩa nhưng là văn nói."
     },
     {
+      "id": "b48-q11",
+      "kind": "form",
+      "ref": "b48-2",
+      "q": "（レポート）{予算|よさん}が{限|かぎ}られている{以上|いじょう}、{計画|けいかく}の{一部|いちぶ}を{見直|みなお}さ（　　）。",
+      "options": [
+        "なければならない",
+        "なきゃいけない",
+        "なくちゃならない",
+        "ないとだめなんだ"
+      ],
+      "answer": 0,
+      "vi": "(Báo cáo) Một khi ngân sách có hạn thì phải xem xét lại một phần kế hoạch.",
+      "why": "Văn báo cáo dùng dạng đầy đủ **〜なければならない**. 「なきゃ」「なくちゃ」 là dạng rút gọn của văn nói; 「〜ないとだめなんだ」 vừa là cách nói hội thoại (だめ) vừa có 「〜んだ」."
+    },
+    {
+      "id": "b48-q4",
+      "kind": "form",
+      "ref": "b48-5",
+      "q": "この{病気|びょうき}は{高齢者|こうれいしゃ}（　　）、{近年|きんねん}は{若|わか}い{世代|せだい}の{間|あいだ}でも{増加|ぞうか}している。",
+      "options": [
+        "だけじゃなくて",
+        "なんかより",
+        "とかじゃなくて",
+        "のみならず"
+      ],
+      "answer": 3,
+      "vi": "Căn bệnh này không chỉ ở người cao tuổi mà những năm gần đây còn gia tăng cả trong thế hệ trẻ.",
+      "why": "Văn viết (増加している) + nghĩa \"không chỉ… mà còn\" → **のみならず**. 「だけじゃなくて」 cùng nghĩa nhưng là văn nói (じゃ); 「なんかより」 = \"so với cái thứ…\" — sai nghĩa và mang giọng coi thường; 「とかじゃなくて」 sai nghĩa và là văn nói."
+    },
+    {
+      "id": "b48-q12",
+      "kind": "form",
+      "ref": "b48-4",
+      "q": "（{論説文|ろんせつぶん}）{災害|さいがい}はいつ{起|お}こるかわからない。{一人|ひとり}ひとりが{日頃|ひごろ}から{避難|ひなん}{場所|ばしょ}や{家族|かぞく}との{連絡|れんらく}{方法|ほうほう}を{確認|かくにん}しておく（　　）。",
+      "options": [
+        "ようにしてくださいね",
+        "ことをお願いいたします",
+        "ようにしましょう",
+        "必要がある"
+      ],
+      "answer": 3,
+      "vi": "(Bài luận) Thiên tai không biết lúc nào xảy ra. Mỗi người cần kiểm tra sẵn nơi sơ tán và cách liên lạc với gia đình ngay từ lúc bình thường.",
+      "why": "Bài luận thể だ・である, không nói thẳng với người đọc → nêu ý kiến bằng **〜必要がある**. 「〜てくださいね」 là lời nhờ trực tiếp + trợ từ cuối 「ね」; 「〜ことをお願いいたします」 là kính ngữ nhờ vả hướng tới người đọc (hợp với thông báo, thư); 「〜ましょう」 là lời rủ rê — cả ba không dùng trong văn luận."
+    },
+    {
+      "id": "b48-q5",
+      "kind": "form",
+      "ref": "b48-6",
+      "q": "このまま{森林|しんりん}の{伐採|ばっさい}が{続|つづ}けば、{多|おお}くの{野生|やせい}{動物|どうぶつ}が{住|す}む{場所|ばしょ}を{失|うしな}う（　　）。",
+      "options": [
+        "おそれがある",
+        "かもしんない",
+        "にきまってるよ",
+        "んじゃない"
+      ],
+      "answer": 0,
+      "vi": "Nếu việc chặt phá rừng cứ tiếp diễn, nhiều loài động vật hoang dã có nguy cơ mất nơi sinh sống.",
+      "why": "Văn viết + khả năng **xấu** → **おそれがある**. 「かもしんない」 là dạng nói của かもしれない; 「にきまってるよ」 rút gọn + よ, mang cảm xúc; 「んじゃない」 là văn nói."
+    },
+    {
+      "id": "b48-q13",
+      "kind": "form",
+      "ref": "b48-5",
+      "q": "（{新聞|しんぶん}）{原因|げんいん}が{何|なん}である（　　）、{同|おな}じ{事故|じこ}を{二度|にど}と{起|お}こさないための{対策|たいさく}が{急|いそ}がれる。",
+      "options": [
+        "にしたって",
+        "にせよ",
+        "だったら",
+        "だって"
+      ],
+      "answer": 1,
+      "vi": "(Báo) Dù nguyên nhân là gì đi nữa, cũng cần khẩn trương đưa ra biện pháp để không bao giờ xảy ra tai nạn tương tự nữa.",
+      "why": "「từ để hỏi + である + にせよ」 = dù là… đi nữa, văn viết cứng → **にせよ**. 「にしたって」 cùng nghĩa nhưng là văn nói, không hợp với văn báo (và không đi với 「である」); 「だったら」 là điều kiện \"nếu là\" của văn nói, không mang nghĩa nhượng bộ \"dù… đi nữa\"; 「だって」 là văn nói và không nối được sau 「である」."
+    },
+    {
       "id": "b48-q7",
       "kind": "usage",
       "ref": "b48-3",
@@ -574,6 +664,141 @@
       "answer": 2,
       "vi": "(3) Tuần trước, tôi đã đến hiện trường và điều tra tình hình thiệt hại.",
       "why": "(3): đủ trợ từ (へ, を), không rút gọn → đúng. (1) **lược trợ từ** へ／を; (2) có 「ちゃって」「てた」 (rút gọn); (4) có 「んだよね」 (văn nói, hướng tới người nghe)."
+    },
+    {
+      "id": "b48-q14",
+      "kind": "usage",
+      "ref": "b48-2",
+      "q": "{書|か}き{言葉|ことば}として{最|もっと}も{適切|てきせつ}なものを{選|えら}びなさい。",
+      "options": [
+        "新しい機械を導入したけど、作業時間はあんまり変わらなかった。",
+        "新しい機械を導入したが、作業時間はほとんど変わらなかった。",
+        "新しい機械を導入しちゃったが、作業時間はほとんど変わんなかった。",
+        "新しい機械を導入してたが、作業時間はほとんど変わらなかったんだ。"
+      ],
+      "answer": 1,
+      "vi": "(2) Đã đưa máy mới vào sử dụng nhưng thời gian làm việc hầu như không thay đổi.",
+      "why": "(2) nối hai vế bằng 「が」, động từ ở dạng đầy đủ → đúng văn viết. (1) 「けど」「あんまり」 là văn nói (văn viết: 「が」「あまり」); (3) 「〜ちゃった」 (= てしまった) và 「変わんなかった」 là dạng rút gọn; (4) 「〜てた」 (= ていた) và 「〜んだ」 là văn nói."
+    },
+    {
+      "id": "b48-q15",
+      "kind": "order",
+      "ref": "b48-4",
+      "q": "（{論説文|ろんせつぶん}）{若|わか}い{世代|せだい}にこそ、＿＿＿ ＿＿＿ ★ ＿＿＿ と{思|おも}う。",
+      "options": [
+        "町の将来を",
+        "考えてみてほしい",
+        "自分たちが",
+        "暮らす"
+      ],
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answer": 0,
+      "vi": "(Bài luận) Tôi mong chính thế hệ trẻ hãy thử suy nghĩ về tương lai của thành phố nơi mình đang sống.",
+      "why": "**自分たちが 暮らす 町の将来を 考えてみてほしい** と思う → ★ (ô thứ 3) = 「町の将来を」. 「自分たちが暮らす」 là mệnh đề bổ nghĩa cho 「町」; 「〜を考えてみてほしい」 + 「と思う」. Bài luận không ra lệnh thẳng cho người đọc (✗ 考えてみてください) mà nêu **mong muốn của người viết** bằng 「〜てほしい」."
+    },
+    {
+      "id": "b48-q16",
+      "kind": "order",
+      "ref": "b48-5",
+      "q": "（{新聞|しんぶん}）{企業|きぎょう}の{間|あいだ}では、＿＿＿ ＿＿＿ ★ ＿＿＿ {動|うご}きが{広|ひろ}がりつつある。",
+      "options": [
+        "時差出勤",
+        "柔軟な働き方を取り入れる",
+        "といった",
+        "在宅勤務や"
+      ],
+      "order": [
+        3,
+        0,
+        2,
+        1
+      ],
+      "answer": 2,
+      "vi": "(Báo) Trong giới doanh nghiệp, xu hướng áp dụng các cách làm việc linh hoạt như làm việc tại nhà hay đi làm lệch giờ đang dần lan rộng.",
+      "why": "**在宅勤務や 時差出勤 といった 柔軟な働き方を取り入れる** 動き → ★ (ô thứ 3) = 「といった」. 「A や B といった C」 là khuôn **liệt kê ví dụ** của văn viết (bản nói: 〜とか); 「在宅勤務や」 phải đứng ngay trước 「時差出勤」; 「柔軟な働き方を取り入れる」 bổ nghĩa cho 「動き」. Đuôi 「〜つつある」 cũng là bản cứng của 「〜てきている」."
+    },
+    {
+      "id": "b48-q17",
+      "kind": "usage",
+      "ref": "b48-7",
+      "q": "{新聞|しんぶん}{記事|きじ}の{文|ぶん}として{最|もっと}も{適切|てきせつ}なものを{選|えら}びなさい。",
+      "options": [
+        "調査の結果、やっぱり若者の新聞離れが進んでいることがわかった。",
+        "被災地には、全国からいっぱいの支援物資が届いている。",
+        "新しい駅ができて、駅前のマンションはどんどん増えちゃった。",
+        "今年に入り、市内の空き家の数は急速に増加している。"
+      ],
+      "answer": 3,
+      "vi": "(4) Từ đầu năm nay, số nhà bỏ trống trong thành phố đang tăng nhanh.",
+      "why": "(4) dùng phó từ cứng 「急速に」 đi với động từ 漢語 「増加している」 → đúng văn báo. (1) 「やっぱり」 là văn nói (→ やはり); (2) 「いっぱいの」 là văn nói (→ 大量の／多くの); (3) 「どんどん」 và 「〜ちゃった」 là văn nói (→ 急速に増加した)."
+    },
+    {
+      "id": "b48-q18",
+      "kind": "order",
+      "ref": "b48-1",
+      "q": "（{講演|こうえん}）{今|いま}は{変化|へんか}の{激|はげ}しい{時代|じだい}です。{私|わたし}たちに{求|もと}められているのは、＿＿＿ ＿＿＿ ★ ＿＿＿ 。",
+      "options": [
+        "挑戦し続ける",
+        "失敗を",
+        "姿勢ではないでしょうか",
+        "恐れずに"
+      ],
+      "order": [
+        1,
+        3,
+        0,
+        2
+      ],
+      "answer": 0,
+      "vi": "(Bài diễn thuyết) Bây giờ là thời đại biến đổi dữ dội. Điều chúng ta đang được đòi hỏi chẳng phải chính là tinh thần không sợ thất bại, không ngừng thử thách bản thân sao?",
+      "why": "**失敗を 恐れずに 挑戦し続ける 姿勢ではないでしょうか** → ★ (ô thứ 3) = 「挑戦し続ける」. 「失敗を恐れずに」 (không sợ thất bại) bổ nghĩa cho 「挑戦し続ける」, rồi cả cụm bổ nghĩa cho 「姿勢」. Bài nói ở thể **です・ます** (「時代です」) nên đuôi nêu ý kiến là 「〜ではないでしょうか」 chứ không phải 「〜ではないだろうか」."
+    },
+    {
+      "id": "b48-q19",
+      "kind": "order",
+      "ref": "b48-6",
+      "q": "（{論説文|ろんせつぶん}）この{政策|せいさく}が{失敗|しっぱい}に{終|お}わったのは、＿＿＿ ★ ＿＿＿ ＿＿＿ 。",
+      "options": [
+        "結果に",
+        "ほかならない",
+        "国民の声に",
+        "耳を傾けなかった"
+      ],
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answer": 3,
+      "vi": "(Bài luận) Chính sách này thất bại không gì khác chính là hậu quả của việc không lắng nghe tiếng nói của người dân.",
+      "why": "**国民の声に 耳を傾けなかった 結果に ほかならない** → ★ (ô thứ 2) = 「耳を傾けなかった」. 「〜に耳を傾ける」 = lắng nghe; mệnh đề đó bổ nghĩa cho 「結果」; 「N にほかならない」 = chính là N, không gì khác — cách khẳng định điềm tĩnh của văn luận (bản nói: 絶対〜だ)."
+    },
+    {
+      "id": "b48-q20",
+      "kind": "order",
+      "ref": "b48-7",
+      "q": "（{報告書|ほうこくしょ}）{調査|ちょうさ}の{結果|けっか}、「{将来|しょうらい}は{地方|ちほう}で{暮|く}らしたい」と{答|こた}えた{人|ひと}は{全体|ぜんたい}の{四割|よんわり}に{上|のぼ}った。{特|とく}に、＿＿＿ ＿＿＿ ★ ＿＿＿ {非常|ひじょう}に{高|たか}かった。",
+      "options": [
+        "考えを持つ",
+        "割合が",
+        "若者の",
+        "そのような"
+      ],
+      "order": [
+        3,
+        0,
+        2,
+        1
+      ],
+      "answer": 2,
+      "vi": "(Báo cáo) Kết quả khảo sát cho thấy số người trả lời \"sau này muốn sống ở địa phương\" chiếm tới 40% tổng số. Đặc biệt, tỉ lệ người trẻ có suy nghĩ như vậy rất cao.",
+      "why": "**そのような 考えを持つ 若者の 割合が** 非常に高かった → ★ (ô thứ 3) = 「若者の」. 「そのような」 (bản cứng của 「そんな」) đứng ngay trước danh từ 「考え」; 「そのような考えを持つ」 bổ nghĩa cho 「若者」; 「若者の割合が」 là chủ ngữ của 「非常に高かった」 (「非常に」 là bản cứng của 「すごく」)."
     }
   ],
   "practice": [

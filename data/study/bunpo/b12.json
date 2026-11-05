@@ -370,21 +370,6 @@
       "why": "Có căn cứ mạnh (一度も練習していないんだから) và người nói bác bỏ dứt khoát → **わけがない**. 「わけではない」 = không hẳn, không hợp với căn cứ mạnh; 「というものでもない」 cần quan niệm chung dạng 〜ば…; 「ものではない」 = không nên, sai nghĩa."
     },
     {
-      "id": "b12-q2",
-      "kind": "form",
-      "ref": "b12-2",
-      "q": "{少|すこ}し{休|やす}めば{治|なお}ると{思|おも}っていたが、{痛|いた}みは{治|おさ}まる（　　）、ますますひどくなった。",
-      "options": [
-        "どころか",
-        "わけではなく",
-        "ものか",
-        "にかかわらず"
-      ],
-      "answer": 0,
-      "vi": "Cứ tưởng nghỉ một chút là khỏi, ai ngờ cơn đau chẳng những không dịu đi mà còn nặng thêm.",
-      "why": "Hai vế **ngược chiều** (dịu đi ↔ nặng thêm) → **どころか**. 「わけではなく」 = không phải là… (không diễn tả kết quả trái mong đợi); 「ものか」 là câu cảm thán kết câu, không nối giữa câu; 「にかかわらず」 cần phạm vi / cặp đối lập."
-    },
-    {
       "id": "b12-q3",
       "kind": "form",
       "ref": "b12-3",
@@ -400,6 +385,21 @@
       "why": "「二度と」 + quyết tâm mạnh của bản thân → **ものか**. 「わけではない」 = không hẳn, quá nhẹ; 「どころではない」 = đâu chỉ là / không phải lúc; 「というものではない」 = bác bỏ quan niệm chung."
     },
     {
+      "id": "b12-q2",
+      "kind": "form",
+      "ref": "b12-2",
+      "q": "{少|すこ}し{休|やす}めば{治|なお}ると{思|おも}っていたが、{痛|いた}みは{治|おさ}まる（　　）、ますますひどくなった。",
+      "options": [
+        "どころか",
+        "わけではなく",
+        "ものか",
+        "にかかわらず"
+      ],
+      "answer": 0,
+      "vi": "Cứ tưởng nghỉ một chút là khỏi, ai ngờ cơn đau chẳng những không dịu đi mà còn nặng thêm.",
+      "why": "Hai vế **ngược chiều** (dịu đi ↔ nặng thêm) → **どころか**. 「わけではなく」 = không phải là… (không diễn tả kết quả trái mong đợi); 「ものか」 là câu cảm thán kết câu, không nối giữa câu; 「にかかわらず」 cần phạm vi / cặp đối lập."
+    },
+    {
       "id": "b12-q4",
       "kind": "form",
       "ref": "b12-4",
@@ -413,6 +413,210 @@
       "answer": 1,
       "vi": "\"Cậu ghét anh Tanaka à?\" — \"Không hẳn là ghét, nhưng hơi ngại anh ấy.\"",
       "why": "Làm mềm lời phủ định rồi nói ý thật sau 「けど」 → **わけじゃない**. 「わけがない」 (không thể nào ghét) mâu thuẫn với 「苦手」; 「ものか」 kết câu cảm thán, không đi với けど; 「どころか」 cần vế sau ngược chiều / mức cao hơn."
+    },
+    {
+      "id": "b12-q12",
+      "kind": "form",
+      "ref": "b12-3",
+      "q": "こんな{小|ちい}さなミスで、{会社|かいしゃ}が{潰|つぶ}れる（　　）。{心配|しんぱい}しすぎだよ。",
+      "options": [
+        "ものか",
+        "ものだ",
+        "に違いない",
+        "どころか"
+      ],
+      "answer": 0,
+      "vi": "Chỉ vì một lỗi nhỏ thế này mà công ty phá sản ư, đời nào! Cậu lo quá rồi đấy.",
+      "why": "Người nói **phủ định mạnh, đầy cảm xúc** trong hội thoại thân mật (心配しすぎだよ) → **ものか**. 「ものだ」 = \"lẽ thường là vậy\", trái với câu sau; 「に違いない」 = \"chắc chắn sẽ (phá sản)\", mâu thuẫn với 「心配しすぎだよ」; 「どころか」 phải có vế sau đi kèm, không dùng để kết câu."
+    },
+    {
+      "id": "b12-q7",
+      "kind": "form",
+      "ref": "b12-1",
+      "q": "「{新|あたら}しい{部屋|へや}、{静|しず}かでいいでしょう？」「まさか。{線路|せんろ}のすぐそばで、{一日中|いちにちじゅう}{電車|でんしゃ}の{音|おと}がするんだよ。{静|しず}か（　　）よ。」",
+      "options": [
+        "のわけがない",
+        "なわけがない",
+        "だわけがない",
+        "わけがない"
+      ],
+      "answer": 1,
+      "vi": "\"Phòng mới yên tĩnh, thích nhỉ?\" \"Làm gì có. Nằm ngay cạnh đường ray, cả ngày nghe tiếng tàu chạy. Yên tĩnh sao được.\"",
+      "why": "Người nói bác bỏ hoàn toàn (まさか, ngay cạnh đường ray) → わけがない. 静か là な形 nên nối bằng **な**: 「静か**な**わけがない」. 「だわけがない」 sai dạng (không dùng だ); 「のわけがない」 là cách nối của danh từ, không dùng cho な形; 「静かわけがない」 thiếu な."
+    },
+    {
+      "id": "b12-q18",
+      "kind": "form",
+      "ref": "b12-5",
+      "q": "{会議|かいぎ}は{参加者|さんかしゃ}が{多|おお}ければいい（　　）。{必要|ひつよう}な{人|ひと}だけを{集|あつ}めたほうが、{話|はなし}が{早|はや}く{進|すす}む。",
+      "options": [
+        "ことだ",
+        "わけだ",
+        "というものではない",
+        "に違いない"
+      ],
+      "answer": 2,
+      "vi": "Cuộc họp không phải cứ đông người tham dự là tốt. Chỉ tập hợp những người cần thiết thì câu chuyện tiến triển nhanh hơn.",
+      "why": "Có 「〜ければいい」 (cứ A là được) trước chỗ trống, người nói **bác bỏ một quan niệm chung** → **というものではない**. 「ことだ」 = lời khuyên \"nên…\", 「多ければいいことだ」 sai cấu trúc; 「わけだ」 (thảo nào / tức là) và 「に違いない」 (chắc chắn) đều khẳng định \"đông là tốt\", mâu thuẫn với câu sau."
+    },
+    {
+      "id": "b12-q10",
+      "kind": "form",
+      "ref": "b12-2",
+      "q": "{入院|にゅういん}{中|ちゅう}の{父|ちち}は、{歩|ある}く（　　）、{一人|ひとり}で{起|お}き{上|あ}がることさえできない。",
+      "options": [
+        "ばかりか",
+        "わけがなく",
+        "どころか",
+        "ものか"
+      ],
+      "answer": 2,
+      "vi": "Bố tôi đang nằm viện, đừng nói là đi lại, ngay cả tự mình ngồi dậy cũng không được.",
+      "why": "Kiểu \"**đừng nói A, ngay cả B (dễ hơn) cũng không**\", vế sau có 「さえ〜ない」 → **どころか**. 「ばかりか」 = \"không chỉ… mà còn…\", cùng chiều; muốn dùng phải nói 「歩け**ない**ばかりか」, còn 「歩くばかりか」 thì sai nghĩa; 「わけがなく」 = \"không thể nào đi\", không nối được với ý \"ngay cả… cũng không\"; 「ものか」 là phủ định cảm xúc đặt ở **cuối câu**, không đứng giữa câu như thế này."
+    },
+    {
+      "id": "b12-q13",
+      "kind": "form",
+      "ref": "b12-3",
+      "q": "「{部長|ぶちょう}の{息子|むすこ}さん、{優秀|ゆうしゅう}なんでしょう？」「{優秀|ゆうしゅう}（　　）。{遅刻|ちこく}ばかりで、{仕事|しごと}も{全然|ぜんぜん}{覚|おぼ}えないんだよ。」",
+      "options": [
+        "だものか",
+        "のものか",
+        "なものか",
+        "ものか"
+      ],
+      "answer": 2,
+      "vi": "\"Con trai trưởng phòng giỏi lắm phải không?\" \"Giỏi gì mà giỏi. Toàn đi muộn, việc cũng chẳng chịu học gì cả.\"",
+      "why": "Phủ định mạnh trong hội thoại → ものか. 優秀 là な形 nên phải là 「優秀**な**ものか」. 「だものか」 sai dạng (lỗi hay gặp); 「のものか」 không dùng cho な形; 「優秀ものか」 thiếu な."
+    },
+    {
+      "id": "b12-q15",
+      "kind": "form",
+      "ref": "b12-4",
+      "q": "{有名|ゆうめい}な{大学|だいがく}を{出|で}たからといって、{必|かなら}ずしも{仕事|しごと}ができる（　　）。",
+      "options": [
+        "わけがない",
+        "ものか",
+        "わけではない",
+        "どころではない"
+      ],
+      "answer": 2,
+      "vi": "Tốt nghiệp đại học danh tiếng không có nghĩa là nhất định sẽ làm việc giỏi.",
+      "why": "「必ずしも」 luôn đi với **phủ định một phần** (không hẳn là) → **わけではない**. 「わけがない」 bác bỏ hoàn toàn (người tốt nghiệp trường danh tiếng không thể nào làm giỏi — quá cực đoan, và không đi với 必ずしも); 「ものか」 là phản bác cảm xúc văn nói, cũng không đi với 必ずしも; 「どころではない」 không hợp nghĩa."
+    },
+    {
+      "id": "b12-q19",
+      "kind": "form",
+      "ref": "b12-5",
+      "q": "{日焼|ひや}け{止|ど}めは{一度|いちど}{塗|ぬ}れば{一日中|いちにちじゅう}{効果|こうか}が{続|つづ}く（　　）。{汗|あせ}をかいたら、こまめに{塗|ぬ}り{直|なお}そう。",
+      "options": [
+        "というものでもない",
+        "どころではない",
+        "に決まっている",
+        "わけだ"
+      ],
+      "answer": 0,
+      "vi": "Kem chống nắng không phải cứ bôi một lần là có tác dụng cả ngày. Khi ra mồ hôi thì hãy chịu khó bôi lại.",
+      "why": "「一度塗れば〜」 = quan niệm đơn giản \"cứ bôi một lần là…\", câu sau sửa lại quan niệm đó → **というものでもない**. 「に決まっている」 (chắc chắn) và 「わけだ」 (thảo nào) đều khẳng định, mâu thuẫn với lời khuyên bôi lại; 「どころではない」 = \"còn hơn mức đó / không phải lúc\", không hợp nghĩa."
+    },
+    {
+      "id": "b12-q8",
+      "kind": "form",
+      "ref": "b12-1",
+      "q": "{娘|むすめ}が{遠足|えんそく}を{休|やす}みたいと{言|い}っている。{何日|なんにち}も{前|まえ}から{楽|たの}しみにしていたのだから、{行|い}きたくない（　　）。{何|なに}かあったに{違|ちが}いない。",
+      "options": [
+        "わけだ",
+        "どころではない",
+        "というものではない",
+        "わけがない"
+      ],
+      "answer": 3,
+      "vi": "Con gái tôi nói muốn nghỉ buổi dã ngoại. Nó đã mong chờ từ mấy ngày trước, không thể nào lại không muốn đi. Chắc chắn đã có chuyện gì rồi.",
+      "why": "Người nói **tin chắc** dựa trên căn cứ (đã mong chờ nhiều ngày) → 「行きたくない**わけがない**」 = không thể nào lại không muốn đi. 「わけだ」 = \"thảo nào / hoá ra là\", trái với suy luận của câu; 「どころではない」 = \"còn hơn cả mức đó / không phải lúc\", không hợp nghĩa; 「というものではない」 bác bỏ một **quan niệm chung**, không dùng cho chuyện cụ thể của con gái."
+    },
+    {
+      "id": "b12-q14",
+      "kind": "order",
+      "ref": "b12-3",
+      "q": "{試合|しあい}に{負|ま}けたのは{悔|くや}しいが、＿＿＿ ＿＿＿ ★ ＿＿＿ 。",
+      "options": [
+        "{前|まえ}で",
+        "するものか",
+        "あいつの",
+        "{泣|な}いたり"
+      ],
+      "order": [
+        2,
+        0,
+        3,
+        1
+      ],
+      "answer": 3,
+      "vi": "Thua trận thì cay thật, nhưng đời nào tôi lại khóc trước mặt hắn.",
+      "why": "試合に負けたのは悔しいが、**あいつの 前で 泣いたり するものか** → ★ (ô thứ 3) = 「泣いたり」. 「あいつの前で」 chỉ nơi chốn; 「泣いたりする」 + 「ものか」 = nhất quyết không làm (ý chí của bản thân), và phải đứng cuối câu."
+    },
+    {
+      "id": "b12-q16",
+      "kind": "order",
+      "ref": "b12-4",
+      "q": "{今回|こんかい}の{失敗|しっぱい}は ＿＿＿ ＿＿＿ ★ ＿＿＿ 。チーム{全体|ぜんたい}の{問題|もんだい}だ。",
+      "options": [
+        "という",
+        "わけではない",
+        "{責任|せきにん}",
+        "{君|きみ}{一人|ひとり}の"
+      ],
+      "order": [
+        3,
+        2,
+        0,
+        1
+      ],
+      "answer": 0,
+      "vi": "Thất bại lần này không phải là trách nhiệm của riêng mình cậu. Đó là vấn đề của cả nhóm.",
+      "why": "今回の失敗は **君一人の 責任 という わけではない**。→ ★ (ô thứ 3) = 「という」. N + 「というわけではない」 = không hẳn là N; 「君一人の」 bổ nghĩa cho 「責任」. Câu sau (vấn đề của cả nhóm) cho thấy đây là phủ định một phần, không phải \"không thể nào\"."
+    },
+    {
+      "id": "b12-q9",
+      "kind": "order",
+      "ref": "b12-1",
+      "q": "{一度|いちど}{会|あ}っただけなんだから、{向|む}こうが ＿＿＿ ＿＿＿ ★ ＿＿＿ よ。",
+      "options": [
+        "{覚|おぼ}えている",
+        "わけがない",
+        "{私|わたし}の",
+        "{名前|なまえ}まで"
+      ],
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answer": 0,
+      "vi": "Mới gặp có một lần thôi, bên kia làm sao mà nhớ được cả tên tôi.",
+      "why": "一度会っただけなんだから、向こうが **私の 名前まで 覚えている わけがない** よ → ★ (ô thứ 3) = 「覚えている」. 「私の」 bổ nghĩa cho 「名前」; V普通形 「覚えている」 + 「わけがない」 đứng cuối câu, trước 「よ」."
+    },
+    {
+      "id": "b12-q11",
+      "kind": "order",
+      "ref": "b12-2",
+      "q": "{部屋|へや}の{片付|かたづ}けを{頼|たの}んだのに、{弟|おとうと}は ＿＿＿ ＿＿＿ ★ ＿＿＿ いった。",
+      "options": [
+        "{散|ち}らかして",
+        "どころか",
+        "{片付|かたづ}ける",
+        "さらに"
+      ],
+      "order": [
+        2,
+        1,
+        3,
+        0
+      ],
+      "answer": 3,
+      "vi": "Tôi đã nhờ em trai dọn phòng, vậy mà nó chẳng những không dọn lại còn bày bừa thêm rồi đi mất.",
+      "why": "弟は **片付ける どころか さらに 散らかして** いった → ★ (ô thứ 3) = 「さらに」. 「AどころかB」 kiểu **ngược chiều**: đáng lẽ dọn (A) thì lại bày bừa thêm (B); 「さらに」 bổ nghĩa cho 「散らかす」 nên đứng ngay trước nó; 「散らかして」 nối với 「いった」."
     },
     {
       "id": "b12-q5",
@@ -436,6 +640,21 @@
       "why": "高い道具を **使えば 上手に なるという ものではない** → ★ = 「なるという」. 「〜ば」 đứng trước, 「上手になる」 là kết quả, 「という + ものではない」 ghép thành mẫu."
     },
     {
+      "id": "b12-q17",
+      "kind": "usage",
+      "ref": "b12-4",
+      "q": "「〜わけではない」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "あの{店|みせ}は{今日|きょう}{定休日|ていきゅうび}だから、{開|あ}いているわけではない。",
+        "この{部屋|へや}は{静|しず}かだわけではないが、{日当|ひあ}たりがいい。",
+        "あんな{失礼|しつれい}な{人|ひと}とは、{二度|にど}と{話|はな}すわけではない。",
+        "{甘|あま}いものを{全然|ぜんぜん}{食|た}べないわけではないが、ケーキは{月|つき}に{一度|いちど}くらいだ。"
+      ],
+      "answer": 3,
+      "vi": "(4) Không phải là tôi hoàn toàn không ăn đồ ngọt, nhưng bánh kem thì khoảng một tháng một lần.",
+      "why": "Phương án 4: phủ định kép 「全然食べない**わけではない**」 = không phải là hoàn toàn không ăn (có ăn, nhưng ít), vế sau nói ý thật → đúng. (1) có lý do chắc chắn (hôm nay nghỉ định kỳ) → bác bỏ hoàn toàn: 「開いている**わけがない**」; (2) な形 không dùng だ → 「静か**な**わけではない」; (3) ý chí mạnh \"không bao giờ nói chuyện nữa\" → 「二度と話す**ものか**」."
+    },
+    {
       "id": "b12-q6",
       "kind": "usage",
       "ref": "b12-2",
@@ -449,6 +668,21 @@
       "answer": 3,
       "vi": "(4) Anh ta chẳng những không xin lỗi mà còn cãi lại \"là do phía cậu sai\".",
       "why": "(4) vế sau **ngược hẳn** với điều mong đợi (xin lỗi ↔ cãi lại) → đúng. (1) ý \"mặc dù\" → 雨が降っているにもかかわらず; (2) vế sau là rủ rê; (3) hai vế không có quan hệ \"còn xa mới…\" (chỉ là thông tin thêm)."
+    },
+    {
+      "id": "b12-q20",
+      "kind": "usage",
+      "ref": "b12-5",
+      "q": "「〜というものではない」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "{兄|あに}は{今朝|けさ}、{朝|あさ}ご{飯|はん}を{食|た}べなかったというものではない。",
+        "{子|こ}どもには、おもちゃをたくさん{与|あた}えればいいというものではない。",
+        "こんなに{雨|あめ}が{降|ふ}っているんだから、{試合|しあい}が{行|おこな}われるというものではない。",
+        "{仕事|しごと}が{忙|いそが}しくて、{今|いま}は{旅行|りょこう}するというものではない。"
+      ],
+      "answer": 1,
+      "vi": "(2) Với trẻ con, không phải cứ cho thật nhiều đồ chơi là tốt.",
+      "why": "Phương án 2: bác bỏ quan niệm chung \"cứ cho nhiều đồ chơi là được\" (〜ばいい) → đúng. (1) một sự việc **cụ thể, đơn lẻ** sáng nay → 「食べなかった**わけではない**」; (3) người nói tin chắc trận đấu không thể diễn ra → 「行われる**わけがない**」; (4) không có tâm trí / không phải lúc để đi du lịch → 「旅行**どころではない**」."
     }
   ],
   "practice": [

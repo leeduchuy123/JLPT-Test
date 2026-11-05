@@ -461,25 +461,184 @@
   ],
   "quiz": [
     {
-      "id": "b34-q1",
-      "kind": "order",
-      "ref": "b34-1",
-      "q": "この{薬|くすり}は、{医師|いし}の ＿＿＿ ＿＿＿ ★ ＿＿＿ ことになっている。",
+      "id": "b34-q8",
+      "kind": "form",
+      "ref": "b34-6",
+      "q": "たとえ{家族|かぞく}に{反対|はんたい}（　　）、{私|わたし}はこの{仕事|しごと}を{続|つづ}けるつもりだ。",
       "options": [
-        "薬局では",
-        "からでないと",
-        "診察を受けて",
-        "買えない"
+        "されれば",
+        "されても",
+        "されたら",
+        "されると"
       ],
-      "order": [
-        2,
-        1,
-        0,
-        3
+      "answer": 1,
+      "vi": "Cho dù gia đình phản đối, tôi vẫn định tiếp tục công việc này.",
+      "why": "「たとえ」 bắt buộc đi với **〜ても** (cho dù … đi nữa) → 「反対されても」.\n- 「されれば」「されたら」「されると」 đều là điều kiện \"nếu / hễ\", không ghép được với 「たとえ」 và cũng ngược nghĩa với vế sau \"vẫn tiếp tục\"."
+    },
+    {
+      "id": "b34-q9",
+      "kind": "form",
+      "ref": "b34-4",
+      "q": "{地震|じしん}や{台風|たいふう}（　　）{自然|しぜん}{災害|さいがい}に{備|そな}えて、{水|みず}や{食料|しょくりょう}を{用意|ようい}しておこう。",
+      "options": [
+        "によって",
+        "といった",
+        "に限って",
+        "にしろ"
+      ],
+      "answer": 1,
+      "vi": "Hãy chuẩn bị sẵn nước và lương thực để phòng các thiên tai như động đất, bão.",
+      "why": "「AやB **といった** N」: nêu ví dụ, theo sau là danh từ bao trùm 「自然災害」.\n- 「によって」 = do / tuỳ theo; 「地震や台風によって自然災害に備えて」 không thành câu.\n- 「に限って」 = riêng / đúng lúc, không nối hai danh từ.\n- 「にしろ」 = dù là, cũng không nối hai danh từ."
+    },
+    {
+      "id": "b34-q10",
+      "kind": "form",
+      "ref": "b34-5",
+      "q": "{関東|かんとう}{地方|ちほう}（　　）、{明日|あした}は{大雪|おおゆき}になるおそれがある。",
+      "options": [
+        "を中心で",
+        "に中心に",
+        "を中心に",
+        "が中心に"
+      ],
+      "answer": 2,
+      "vi": "Ngày mai có nguy cơ tuyết rơi dày, tập trung chủ yếu ở vùng Kanto.",
+      "why": "Khuôn **N を 中心 に** (lấy N làm trung tâm): trợ từ trước là 「を」, sau là 「に」.\n- 「を中心で」: sai trợ từ sau (không dùng で).\n- 「に中心に」: sai trợ từ trước.\n- 「が中心に」: phải là 「が中心となって」 mới được; 「が中心に、大雪になる」 không thành câu."
+    },
+    {
+      "id": "b34-q11",
+      "kind": "form",
+      "ref": "b34-2",
+      "q": "{値段|ねだん}が{高|たか}いからといって、{必|かなら}ずしも{品質|ひんしつ}がいい（　　）。",
+      "options": [
+        "に違いない",
+        "はずがない",
+        "わけがない",
+        "わけではない"
+      ],
+      "answer": 3,
+      "vi": "Không phải cứ giá đắt là chất lượng nhất định tốt.",
+      "why": "「からといって」 + 「必ずしも」 → cần **phủ định một phần**: 「わけではない」 (không hẳn là).\n- 「わけがない」「はずがない」 là phủ định hoàn toàn (không thể nào), không đi với 「必ずしも」.\n- 「に違いない」 là khẳng định chắc chắn, ngược nghĩa với 「からといって」."
+    },
+    {
+      "id": "b34-q12",
+      "kind": "form",
+      "ref": "b34-1",
+      "q": "この{町|まち}の{発展|はってん}は、{港|みなと}の{存在|そんざい}（　　）{語|かた}れない。",
+      "options": [
+        "に限って",
+        "として",
+        "を抜きにしては",
+        "にとって"
+      ],
+      "answer": 2,
+      "vi": "Sự phát triển của thị trấn này không thể kể mà bỏ qua sự tồn tại của bến cảng.",
+      "why": "Cuối câu là 「語れない」 (phủ định) → khuôn **N を抜きにしては 〜ない** = \"bỏ N ra thì không thể…\".\n- 「に限って」 = riêng N thì / đúng lúc N thì lại…, không hợp nghĩa.\n- 「として」 = với tư cách; 「港の存在として語れない」 vô nghĩa.\n- 「にとって」 = đối với (ai đó); sau nó phải là đánh giá (大切だ…), không đi với 語れない."
+    },
+    {
+      "id": "b34-q13",
+      "kind": "form",
+      "ref": "b34-3",
+      "q": "{彼|かれ}はこの{十年間|じゅうねんかん}、{一日|いちにち}（　　）{練習|れんしゅう}を{休|やす}んだことがない。",
+      "options": [
+        "として",
+        "にせよ",
+        "からといって",
+        "といった"
       ],
       "answer": 0,
-      "vi": "Theo quy định, thuốc này phải được bác sĩ khám rồi mới mua được ở hiệu thuốc.",
-      "why": "この薬は、医師の **診察を受けて からでないと 薬局では 買えない** ことになっている → ★ (ô 3) = 「薬局では」.\n「医師の」 cần danh từ ngay sau → 「診察を受けて」; Vて + 「からでないと」 thành một khối; cuối khuôn phải là phủ định 「買えない」, nên 「薬局では」 chen vào giữa."
+      "vi": "Suốt mười năm nay, anh ấy chưa nghỉ tập lấy một ngày nào.",
+      "why": "「一日」 (số một + 助数詞) + **として** + phủ định 「休んだことがない」 = không một ngày nào.\n- 「にせよ」 đi với từ để hỏi (何にせよ) hoặc nghĩa \"dù là\", không tạo nghĩa \"không một…\".\n- 「からといって」 nối với 普通形 (一日だからといって).\n- 「といった」 cần danh từ đi sau."
+    },
+    {
+      "id": "b34-q14",
+      "kind": "form",
+      "ref": "b34-6",
+      "q": "この{薬|くすり}は、{一日|いちにち}{一回|いっかい}{飲|の}み（　　）すれば{効果|こうか}がある。",
+      "options": [
+        "こそ",
+        "まで",
+        "ばかり",
+        "さえ"
+      ],
+      "answer": 3,
+      "vi": "Thuốc này chỉ cần uống mỗi ngày một lần là có hiệu quả.",
+      "why": "**Vます + さえ + すれば** = chỉ cần V là (điều kiện tối thiểu).\n- 「こそ」 không đi với 「すれば」 trong khuôn điều kiện này.\n- 「まで」「ばかり」 không gắn vào Vます để tạo 「〜すれば」 (nói \"toàn uống\" là 「飲んでばかり」)."
+    },
+    {
+      "id": "b34-q4",
+      "kind": "form",
+      "ref": "b34-4",
+      "q": "サッカーや{野球|やきゅう}（　　）チームで{行|おこな}うスポーツが{好|す}きだ。",
+      "options": [
+        "として",
+        "にしても",
+        "といった",
+        "からといって"
+      ],
+      "answer": 2,
+      "vi": "Tôi thích những môn thể thao chơi theo đội như bóng đá, bóng chày.",
+      "why": "Liệt kê ví dụ (サッカーや野球) rồi gom lại bằng danh từ chung 「スポーツ」 → **といった**. 「として」 = với tư cách; 「にしても」 = dù là; 「からといって」 cần vế phủ định và không nối trực tiếp vào danh từ."
+    },
+    {
+      "id": "b34-q15",
+      "kind": "form",
+      "ref": "b34-3",
+      "q": "{理由|りゆう}は{何|なん}（　　）、{無断|むだん}で{仕事|しごと}を{休|やす}むのはよくない。",
+      "options": [
+        "からといって",
+        "にしろ",
+        "として",
+        "といった"
+      ],
+      "answer": 1,
+      "vi": "Dù lý do là gì đi nữa thì nghỉ làm không xin phép cũng là không tốt.",
+      "why": "Từ để hỏi 「何」 + **にしろ** = dù là … nào đi nữa (= 何にしても／何にせよ).\n- 「からといって」 cần 普通形 đứng trước (何だからといって…) và vế sau là 「わけではない」.\n- 「として」 sau từ để hỏi phải đi với phủ định và số một (一人として…ない).\n- 「といった」 phải có danh từ đi sau."
+    },
+    {
+      "id": "b34-q7",
+      "kind": "form",
+      "ref": "b34-7",
+      "q": "{簡単|かんたん}な{手続|てつづ}きだから、なにも{会社|かいしゃ}を{休|やす}んでまで{行|い}く（　　）。",
+      "options": [
+        "ことか",
+        "わけがない",
+        "に限る",
+        "ことはない"
+      ],
+      "answer": 3,
+      "vi": "Thủ tục đơn giản thôi, đâu cần phải nghỉ làm để đi.",
+      "why": "「なにも」 + việc làm quá (nghỉ làm để đi) → đuôi **ことはない** (không cần). 「ことか」 là cảm thán, không đi với なにも; 「わけがない」 = không thể nào (sai ý); 「に限る」 = tốt nhất là, trái nghĩa."
+    },
+    {
+      "id": "b34-q16",
+      "kind": "form",
+      "ref": "b34-2",
+      "q": "ふだんは{空|す}いている{道|みち}なのに、{大事|だいじ}な{会議|かいぎ}がある{日|ひ}（　　）{渋滞|じゅうたい}している。",
+      "options": [
+        "に限って",
+        "に関して",
+        "に際して",
+        "にわたって"
+      ],
+      "answer": 0,
+      "vi": "Bình thường con đường này vắng, vậy mà đúng vào hôm có cuộc họp quan trọng thì lại tắc.",
+      "why": "「N に限って」 nghĩa thứ hai: **đúng vào lúc N thì lại (xui)** — không cần phủ định. Ngữ cảnh \"bình thường vắng, đúng hôm quan trọng lại tắc\" là chuẩn nghĩa này.\n- 「に関して」 = về (chủ đề).\n- 「に際して」 = nhân dịp / khi tiến hành việc trang trọng, không gắn với 「日」 để nói chuyện xui.\n- 「にわたって」 = suốt (khoảng thời gian / phạm vi), cần danh từ chỉ khoảng như 「三日間」."
+    },
+    {
+      "id": "b34-q17",
+      "kind": "form",
+      "ref": "b34-7",
+      "q": "{入院中|にゅういんちゅう}、{友人|ゆうじん}たちの{励|はげ}ましに（　　）{救|すく}われたことか。",
+      "options": [
+        "なにも",
+        "たとえ",
+        "どれほど",
+        "どちらにしても"
+      ],
+      "answer": 2,
+      "vi": "Trong thời gian nằm viện, những lời động viên của bạn bè đã cứu tôi biết bao nhiêu.",
+      "why": "Cuối câu 「〜たことか」 là cảm thán → phía trước phải có từ chỉ mức độ: **どれほど／なんと／何度**.\n- 「なにも」 đi với 「〜ことはない」 (đâu cần phải).\n- 「たとえ」 đi với 「〜ても」.\n- 「どちらにしても」 = dù thế nào đi nữa, không hô ứng với 「ことか」."
     },
     {
       "id": "b34-q2",
@@ -503,42 +662,6 @@
       "why": "日本人だ **からといって 敬語が 正しく使える わけではない** → ★ = 「正しく使える」.\n「だ」 + 「からといって」 nối liền; cuối khuôn là 「わけではない」; ở giữa là chủ ngữ 「敬語が」 + vị ngữ 「正しく使える」."
     },
     {
-      "id": "b34-q3",
-      "kind": "order",
-      "ref": "b34-3",
-      "q": "{新|あたら}しい{制度|せいど}の{内容|ないよう}を、＿＿＿ ＿＿＿ ★ ＿＿＿ 。",
-      "options": [
-        "正確に",
-        "社員は",
-        "理解していなかった",
-        "誰一人として"
-      ],
-      "order": [
-        1,
-        3,
-        0,
-        2
-      ],
-      "answer": 0,
-      "vi": "Không một nhân viên nào hiểu chính xác nội dung của chế độ mới.",
-      "why": "新しい制度の内容を、**社員は 誰一人として 正確に 理解していなかった** → ★ = 「正確に」.\nKhuôn 「誰一人として … ない」: phủ định 「理解していなかった」 đứng cuối; trạng từ 「正確に」 đứng ngay trước động từ nó bổ nghĩa."
-    },
-    {
-      "id": "b34-q4",
-      "kind": "form",
-      "ref": "b34-4",
-      "q": "サッカーや{野球|やきゅう}（　　）チームで{行|おこな}うスポーツが{好|す}きだ。",
-      "options": [
-        "として",
-        "にしても",
-        "といった",
-        "からといって"
-      ],
-      "answer": 2,
-      "vi": "Tôi thích những môn thể thao chơi theo đội như bóng đá, bóng chày.",
-      "why": "Liệt kê ví dụ (サッカーや野球) rồi gom lại bằng danh từ chung 「スポーツ」 → **といった**. 「として」 = với tư cách; 「にしても」 = dù là; 「からといって」 cần vế phủ định và không nối trực tiếp vào danh từ."
-    },
-    {
       "id": "b34-q5",
       "kind": "order",
       "ref": "b34-5",
@@ -558,6 +681,42 @@
       "answer": 1,
       "vi": "Nghe nói bộ phim này được làm dựa trên một vụ án đã thực sự xảy ra.",
       "why": "この映画は、**実際に 起きた 事件を もとにして** 作られたそうだ → ★ = 「事件を」.\nCặp 「〜を もとにして」 phải đi liền; 「起きた」 bổ nghĩa cho 「事件」, và 「実際に」 bổ nghĩa cho 「起きた」."
+    },
+    {
+      "id": "b34-q1",
+      "kind": "order",
+      "ref": "b34-1",
+      "q": "この{薬|くすり}は、{医師|いし}の ＿＿＿ ＿＿＿ ★ ＿＿＿ ことになっている。",
+      "options": [
+        "薬局では",
+        "からでないと",
+        "診察を受けて",
+        "買えない"
+      ],
+      "order": [
+        2,
+        1,
+        0,
+        3
+      ],
+      "answer": 0,
+      "vi": "Theo quy định, thuốc này phải được bác sĩ khám rồi mới mua được ở hiệu thuốc.",
+      "why": "この薬は、医師の **診察を受けて からでないと 薬局では 買えない** ことになっている → ★ (ô 3) = 「薬局では」.\n「医師の」 cần danh từ ngay sau → 「診察を受けて」; Vて + 「からでないと」 thành một khối; cuối khuôn phải là phủ định 「買えない」, nên 「薬局では」 chen vào giữa."
+    },
+    {
+      "id": "b34-q18",
+      "kind": "usage",
+      "ref": "b34-4",
+      "q": "「〜といった」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "父はビールや焼酎といった料理が好きだ。",
+        "週末は映画や買い物といったに出かけることが多い。",
+        "はじめまして。私は山田といった者です。",
+        "北海道や沖縄といった観光地は、毎年多くの旅行者でにぎわう。"
+      ],
+      "answer": 3,
+      "vi": "(4) Những điểm du lịch như Hokkaido hay Okinawa năm nào cũng đông nghịt du khách.",
+      "why": "(4) đúng: hai ví dụ + 「といった」 + danh từ bao trùm 「観光地」.\n(1) bia, rượu shochu không phải 「料理」 — danh từ sau phải bao gồm các ví dụ (→ お酒).\n(2) sau 「といった」 không có danh từ (→ 映画や買い物などに).\n(3) giới thiệu tên mình dùng 「という者」; 「といった」 là đưa ví dụ, không nêu tên."
     },
     {
       "id": "b34-q6",
@@ -581,19 +740,55 @@
       "why": "祖父は **おいしい もの さえ 食べていれば** 機嫌がいい → ★ = 「さえ」.\n「おいしい」 bổ nghĩa cho 「もの」; 「N + さえ + Vていれば」 là khuôn \"chỉ cần\"."
     },
     {
-      "id": "b34-q7",
-      "kind": "form",
-      "ref": "b34-7",
-      "q": "{簡単|かんたん}な{手続|てつづ}きだから、なにも{会社|かいしゃ}を{休|やす}んでまで{行|い}く（　　）。",
+      "id": "b34-q3",
+      "kind": "order",
+      "ref": "b34-3",
+      "q": "{新|あたら}しい{制度|せいど}の{内容|ないよう}を、＿＿＿ ＿＿＿ ★ ＿＿＿ 。",
       "options": [
-        "ことか",
-        "わけがない",
-        "に限る",
-        "ことはない"
+        "正確に",
+        "社員は",
+        "理解していなかった",
+        "誰一人として"
       ],
-      "answer": 3,
-      "vi": "Thủ tục đơn giản thôi, đâu cần phải nghỉ làm để đi.",
-      "why": "「なにも」 + việc làm quá (nghỉ làm để đi) → đuôi **ことはない** (không cần). 「ことか」 là cảm thán, không đi với なにも; 「わけがない」 = không thể nào (sai ý); 「に限る」 = tốt nhất là, trái nghĩa."
+      "order": [
+        1,
+        3,
+        0,
+        2
+      ],
+      "answer": 0,
+      "vi": "Không một nhân viên nào hiểu chính xác nội dung của chế độ mới.",
+      "why": "新しい制度の内容を、**社員は 誰一人として 正確に 理解していなかった** → ★ = 「正確に」.\nKhuôn 「誰一人として … ない」: phủ định 「理解していなかった」 đứng cuối; trạng từ 「正確に」 đứng ngay trước động từ nó bổ nghĩa."
+    },
+    {
+      "id": "b34-q19",
+      "kind": "usage",
+      "ref": "b34-5",
+      "q": "「〜を〜にして／〜を〜として」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "先輩のアドバイスをヒントにして、新しい商品のアイデアを考えた。",
+        "彼はクラスの代表をとして会議に出席した。",
+        "調査の結果にもとにして、計画を見直した。",
+        "留学をきっかけで、日本の文化に興味を持った。"
+      ],
+      "answer": 0,
+      "vi": "(1) Lấy lời khuyên của đàn anh làm gợi ý, tôi đã nghĩ ra ý tưởng cho sản phẩm mới.",
+      "why": "(1) đúng: 「A を B（ヒント）にして」 = lấy A làm gợi ý.\n(2) \"với tư cách đại diện\" chỉ là 「代表として」, không có 「を」.\n(3) sai trợ từ: 「結果をもとにして」 (hoặc 「結果に基づいて」).\n(4) sai trợ từ: 「留学をきっかけに」 (hoặc 「留学がきっかけで」)."
+    },
+    {
+      "id": "b34-q20",
+      "kind": "usage",
+      "ref": "b34-1",
+      "q": "「〜ないことには」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "毎日練習しないことには、上達するに決まっている。",
+        "本人に会って話を聞かないことには、本当の理由はわからない。",
+        "雨が降らないことには、試合は予定どおり行われた。",
+        "彼が来ないことには、先に食事を始めましょう。"
+      ],
+      "answer": 1,
+      "vi": "(2) Chưa gặp trực tiếp người đó để nghe chuyện thì chưa thể biết lý do thật.",
+      "why": "(2) đúng: 「ないことには」 + vế sau phủ định / bất khả 「わからない」.\n(1) vế sau là khẳng định 「上達するに決まっている」 → phải là 「上達しない」.\n(3) vế sau là sự việc đã xảy ra (khẳng định, quá khứ).\n(4) vế sau là lời rủ 「〜ましょう」; khuôn này không đi với rủ rê / mệnh lệnh."
     }
   ],
   "practice": [

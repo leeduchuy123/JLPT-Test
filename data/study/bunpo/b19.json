@@ -425,36 +425,6 @@
       "why": "「値段」 là từ chỉ mức độ chung (đắt/rẻ đều được) → **のわりに**. 「にしては」 cần sự thật cụ thể (500円にしては); 「値段だけあって」 không phải cách nói tự nhiên và だけあって cần đặc điểm được kỳ vọng; 「値段にとって」 vô nghĩa vì にとって cần người / tổ chức."
     },
     {
-      "id": "b19-q2",
-      "kind": "form",
-      "ref": "b19-2",
-      "q": "{料理|りょうり}{教室|きょうしつ}に{通|かよ}い{始|はじ}めてまだ{一か月|いっかげつ}（　　）、{兄|あに}の{作|つく}るカレーはなかなかの{味|あじ}だ。",
-      "options": [
-        "として",
-        "にとって",
-        "だけあって",
-        "にしては"
-      ],
-      "answer": 3,
-      "vi": "Mới đi học nấu ăn được một tháng mà món cà ri anh tôi nấu đã khá ngon.",
-      "why": "Sự thật cụ thể (mới một tháng) → kết quả ngoài dự đoán → **にしては**. 「だけあって」 cần A là cơ sở để kỳ vọng cao, mà \"mới một tháng\" thì ngược lại; 「として」「にとって」 không hợp nghĩa."
-    },
-    {
-      "id": "b19-q3",
-      "kind": "form",
-      "ref": "b19-3",
-      "q": "このマッサージチェア、{本当|ほんとう}に{気持|きも}ちいい。テレビで{何度|なんど}も{紹介|しょうかい}されていた（　　）。",
-      "options": [
-        "だけのことはある",
-        "わりにはいい",
-        "にしてはいい",
-        "どころではない"
-      ],
-      "answer": 0,
-      "vi": "Cái ghế massage này dễ chịu thật. Được giới thiệu trên tivi nhiều lần cũng phải thôi.",
-      "why": "Trải nghiệm tốt đúng như kỳ vọng (vì được TV giới thiệu) → **だけのことはある**. 「わりには」「にしては」 nghĩa là trái với kỳ vọng — nhưng được TV giới thiệu thì người ta kỳ vọng tốt, nên không có sự trái ngược; 「どころではない」 = không phải lúc để…, vô nghĩa."
-    },
-    {
       "id": "b19-q4",
       "kind": "form",
       "ref": "b19-4",
@@ -468,6 +438,21 @@
       "answer": 2,
       "vi": "Toà lâu đài này đã được công nhận là di sản thế giới với tư cách một công trình quý giá còn giữ nguyên dáng vẻ thời Edo.",
       "why": "Danh nghĩa / tư cách của vật + hành động (登録された) → **として**. 「にとって」「にしたら」 cần danh từ chỉ người và vế sau là đánh giá / suy đoán; 「建物わりに」 sai cách nối (cần の) và không hợp nghĩa."
+    },
+    {
+      "id": "b19-q2",
+      "kind": "form",
+      "ref": "b19-2",
+      "q": "{料理|りょうり}{教室|きょうしつ}に{通|かよ}い{始|はじ}めてまだ{一か月|いっかげつ}（　　）、{兄|あに}の{作|つく}るカレーはなかなかの{味|あじ}だ。",
+      "options": [
+        "として",
+        "にとって",
+        "だけあって",
+        "にしては"
+      ],
+      "answer": 3,
+      "vi": "Mới đi học nấu ăn được một tháng mà món cà ri anh tôi nấu đã khá ngon.",
+      "why": "Sự thật cụ thể (mới một tháng) → kết quả ngoài dự đoán → **にしては**. 「だけあって」 cần A là cơ sở để kỳ vọng cao, mà \"mới một tháng\" thì ngược lại; 「として」「にとって」 không hợp nghĩa."
     },
     {
       "id": "b19-q5",
@@ -485,6 +470,66 @@
       "why": "Góc nhìn của một người + đánh giá (絶対条件だ) → **にとって**. 「として」 cần danh từ chỉ vai trò, tư cách — 「私」 không phải vai trò; 「にしては」 = với… mà bất ngờ, không hợp; 「だけあって」 dùng để khen một kết quả tương xứng."
     },
     {
+      "id": "b19-q3",
+      "kind": "form",
+      "ref": "b19-3",
+      "q": "このマッサージチェア、{本当|ほんとう}に{気持|きも}ちいい。テレビで{何度|なんど}も{紹介|しょうかい}されていた（　　）。",
+      "options": [
+        "だけのことはある",
+        "わりにはいい",
+        "にしてはいい",
+        "どころではない"
+      ],
+      "answer": 0,
+      "vi": "Cái ghế massage này dễ chịu thật. Được giới thiệu trên tivi nhiều lần cũng phải thôi.",
+      "why": "Trải nghiệm tốt đúng như kỳ vọng (vì được TV giới thiệu) → **だけのことはある**. 「わりには」「にしては」 nghĩa là trái với kỳ vọng — nhưng được TV giới thiệu thì người ta kỳ vọng tốt, nên không có sự trái ngược; 「どころではない」 = không phải lúc để…, vô nghĩa."
+    },
+    {
+      "id": "b19-q11",
+      "kind": "form",
+      "ref": "b19-4",
+      "q": "{弟|おとうと}は{今年|ことし}の{春|はる}から、{交換|こうかん}{留学生|りゅうがくせい}（　　）アメリカの{大学|だいがく}で{学|まな}んでいる。",
+      "options": [
+        "として",
+        "にとって",
+        "にしては",
+        "にすれば"
+      ],
+      "answer": 0,
+      "vi": "Từ mùa xuân năm nay, em trai tôi theo học ở một trường đại học Mỹ với tư cách là du học sinh trao đổi.",
+      "why": "交換留学生 là **tư cách / thân phận** khi hành động (学んでいる) → **として**. 「にとって」 cần vế sau là đánh giá (大切だ, 難しい…), không phải hành động; 「にしては」 = \"với… mà lại (bất ngờ)\", ở đây không có gì bất ngờ; 「にすれば」 dùng để đoán tâm trạng người khác."
+    },
+    {
+      "id": "b19-q8",
+      "kind": "form",
+      "ref": "b19-1",
+      "q": "{兄|あに}の{車|くるま}は{古|ふる}い（　　）、エンジンの{調子|ちょうし}がよく、{故障|こしょう}もほとんどない。",
+      "options": [
+        "わりに",
+        "だけあって",
+        "にとって",
+        "として"
+      ],
+      "answer": 0,
+      "vi": "Xe của anh trai tôi so với độ cũ thì máy vẫn rất tốt, hầu như không hỏng hóc.",
+      "why": "Xe cũ → dự đoán hay hỏng, thực tế lại tốt → \"không tương xứng với mức độ\" → **わりに** (い形 + わりに). 「だけあって」 = kết quả **đúng như** kỳ vọng từ A, mà \"cũ\" thì không thể kỳ vọng máy tốt; 「にとって」「として」 chỉ đứng sau danh từ, không nối với tính từ 古い."
+    },
+    {
+      "id": "b19-q12",
+      "kind": "form",
+      "ref": "b19-5",
+      "q": "{在宅|ざいたく}{勤務|きんむ}が{増|ふ}えた{今|いま}、{多|おお}くの{会社員|かいしゃいん}（　　）{通勤|つうきん}{時間|じかん}がなくなったのは{大|おお}きなメリットだ。",
+      "options": [
+        "に対して",
+        "だけあって",
+        "にとって",
+        "にしては"
+      ],
+      "answer": 2,
+      "vi": "Giờ đây khi làm việc tại nhà tăng lên, đối với nhiều nhân viên văn phòng, việc không còn mất thời gian đi lại là một lợi ích lớn.",
+      "why": "Đứng ở góc nhìn của 会社員 để **đánh giá** (大きなメリットだ) → **にとって**. 「に対して」 = hành động / thái độ hướng tới ai đó (厳しい, 親切だ), không dùng cho đánh giá giá trị; 「だけあって」 (đúng như kỳ vọng) và 「にしては」 (trái kỳ vọng) đều không hợp nghĩa."
+    },
+    {
       "id": "b19-q6",
       "kind": "form",
       "ref": "b19-6",
@@ -500,6 +545,156 @@
       "why": "Hai lập trường đối lập (親 ↔ 子ども) + đoán cảm xúc người khác (〜かもしれない) → **にしてみれば**. 「だけあって」 là lời khen; 「にしては」 = trái với dự đoán về một sự thật, không phải đổi lập trường; 「子どもわりに」 sai cách nối."
     },
     {
+      "id": "b19-q9",
+      "kind": "form",
+      "ref": "b19-2",
+      "q": "{東京|とうきょう}{出身|しゅっしん}（　　）、{彼|かれ}は{電車|でんしゃ}の{乗|の}り{換|か}えにひどく{弱|よわ}い。",
+      "options": [
+        "として",
+        "にとって",
+        "だけあって",
+        "にしては"
+      ],
+      "answer": 3,
+      "vi": "Là người gốc Tokyo mà anh ấy lại rất kém khoản chuyển tàu.",
+      "why": "\"Xuất thân Tokyo\" là một **sự thật cụ thể** → người ta đoán sẽ rành tàu điện, thực tế ngược lại → **にしては**. 「だけあって」 = đúng như kỳ vọng, chỉ dùng để khen; 「として」 = với tư cách (không nói lên sự bất ngờ); 「にとって」 cần vế sau là đánh giá một sự vật từ góc nhìn người đó, không hợp ở đây."
+    },
+    {
+      "id": "b19-q10",
+      "kind": "form",
+      "ref": "b19-3",
+      "q": "この{腕時計|うでどけい}は{高|たか}かった（　　）、{十年|じゅうねん}{使|つか}っても{一度|いちど}も{狂|くる}ったことがない。",
+      "options": [
+        "わりに",
+        "にしては",
+        "だけあって",
+        "にとって"
+      ],
+      "answer": 2,
+      "vi": "Chiếc đồng hồ này quả không uổng tiền đắt, dùng mười năm mà chưa lần nào chạy sai giờ.",
+      "why": "Đắt → kỳ vọng tốt, và thực tế **đúng như vậy** (lời khen) → **だけあって**. 「わりに」「にしては」 dùng khi kết quả **trái** với kỳ vọng (đắt mà lại hỏng), không hợp; 「にとって」 không nối sau động từ 高かった."
+    },
+    {
+      "id": "b19-q16",
+      "kind": "order",
+      "ref": "b19-4",
+      "q": "{一度|いちど}{引|ひ}き{受|う}けた{仕事|しごと}を{途中|とちゅう}で{投|な}げ{出|だ}すのは、 ＿＿＿ ＿＿＿ ★ ＿＿＿ 。",
+      "options": [
+        "として",
+        "ことだ",
+        "プロ",
+        "{許|ゆる}されない"
+      ],
+      "answer": 3,
+      "order": [
+        2,
+        0,
+        3,
+        1
+      ],
+      "vi": "Bỏ dở giữa chừng một công việc đã nhận là điều không thể chấp nhận được với tư cách người chuyên nghiệp.",
+      "why": "…のは、**プロ として 許されない ことだ** → ★ (ô thứ 3) = 「許されない」. 「Nとして」 + phán đoán / đánh giá (許されない) là một cách dùng của として; 「許されない」 bổ nghĩa cho 「こと」."
+    },
+    {
+      "id": "b19-q14",
+      "kind": "order",
+      "ref": "b19-1",
+      "q": "このスーツケースは、 ＿＿＿ ★ ＿＿＿ ＿＿＿ {軽|かる}い。",
+      "options": [
+        "{見|み}た{目|め}の",
+        "{大|おお}きさの",
+        "ずいぶん",
+        "わりに"
+      ],
+      "answer": 1,
+      "order": [
+        0,
+        1,
+        3,
+        2
+      ],
+      "vi": "Chiếc vali này nhẹ hơn hẳn so với vẻ ngoài to lớn của nó.",
+      "why": "このスーツケースは、**見た目の 大きさの わりに ずいぶん** 軽い → ★ (ô thứ 2) = 「大きさの」. 「見た目の」 bổ nghĩa cho 「大きさ」; 「大きさ」 là từ có độ rộng nên đi với 「の + わりに」; trạng từ 「ずいぶん」 đứng ngay trước tính từ 軽い."
+    },
+    {
+      "id": "b19-q17",
+      "kind": "order",
+      "ref": "b19-5",
+      "q": "{人手|ひとで}{不足|ぶそく}の{解消|かいしょう}こそが、 ＿＿＿ ＿＿＿ ★ ＿＿＿ 。",
+      "options": [
+        "{課題|かだい}だ",
+        "{我|わ}が{社|しゃ}",
+        "{最大|さいだい}の",
+        "にとっての"
+      ],
+      "answer": 2,
+      "order": [
+        1,
+        3,
+        2,
+        0
+      ],
+      "vi": "Giải quyết tình trạng thiếu nhân lực chính là vấn đề lớn nhất đối với công ty chúng tôi.",
+      "why": "…こそが、**我が社 にとっての 最大の 課題だ** → ★ (ô thứ 3) = 「最大の」. 「Nにとっての + N」 bổ nghĩa cho danh từ; 「最大の」 đứng sát 「課題」. Đặt 「最大の」 lên trước 「我が社」 thì câu không tự nhiên."
+    },
+    {
+      "id": "b19-q15",
+      "kind": "order",
+      "ref": "b19-2",
+      "q": "{田中|たなか}さんは ＿＿＿ ＿＿＿ ★ ＿＿＿ 、{会議|かいぎ}での{発言|はつげん}が{的確|てきかく}だ。",
+      "options": [
+        "{入社|にゅうしゃ}",
+        "{新人|しんじん}",
+        "にしては",
+        "{一年目|いちねんめ}の"
+      ],
+      "answer": 1,
+      "order": [
+        0,
+        3,
+        1,
+        2
+      ],
+      "vi": "Anh Tanaka mới là nhân viên năm đầu mà phát biểu trong cuộc họp rất trúng vấn đề.",
+      "why": "田中さんは **入社 一年目の 新人 にしては**、… → ★ (ô thứ 3) = 「新人」. 「入社一年目」 là một cụm; 「一年目の」 bổ nghĩa cho 「新人」; 「にしては」 nối thẳng sau danh từ (không cần の), nêu sự thật cụ thể để dẫn tới đánh giá bất ngờ."
+    },
+    {
+      "id": "b19-q18",
+      "kind": "order",
+      "ref": "b19-3",
+      "q": "{鈴木|すずき}さんは ＿＿＿ ★ ＿＿＿ ＿＿＿ 、{説明|せつめい}の{要点|ようてん}がはっきりしていて{分|わ}かりやすい。",
+      "options": [
+        "だけあって",
+        "{長年|ながねん}",
+        "さすが",
+        "{教師|きょうし}をしていた"
+      ],
+      "answer": 1,
+      "order": [
+        2,
+        1,
+        3,
+        0
+      ],
+      "vi": "Anh Suzuki quả không hổ danh từng làm giáo viên nhiều năm, giải thích rõ ý chính và rất dễ hiểu.",
+      "why": "鈴木さんは **さすが 長年 教師をしていた だけあって**、… → ★ (ô thứ 2) = 「長年」. 「さすが」 hay mở đầu mẫu 「だけあって」; 「長年」 bổ nghĩa cho 「教師をしていた」; 「だけあって」 nối sau thể thường của động từ."
+    },
+    {
+      "id": "b19-q13",
+      "kind": "form",
+      "ref": "b19-6",
+      "q": "{今回|こんかい}の{値上|ねあ}げは{客|きゃく}には{痛|いた}いが、{店|みせ}の{側|がわ}（　　）{苦|くる}しい{決断|けつだん}だったに{違|ちが}いない。",
+      "options": [
+        "にしては",
+        "だけあって",
+        "わりに",
+        "にしても"
+      ],
+      "answer": 3,
+      "vi": "Lần tăng giá này khách hàng thấy đau ví, nhưng ngay cả phía cửa hàng chắc chắn cũng là một quyết định khó khăn.",
+      "why": "Hai phía đối lập (客 ↔ 店の側), đặt mình vào vị trí bên kia để đoán (〜に違いない), có ý \"**ngay cả** phía đó cũng…\" → **にしても**. 「にしては」 = với… mà lại (bất ngờ), không có ý đổi lập trường; 「だけあって」 là lời khen; 「わりに」 sau danh từ phải có の (店の側のわりに) và cũng không hợp nghĩa."
+    },
+    {
       "id": "b19-q7",
       "kind": "usage",
       "ref": "b19-5",
@@ -513,6 +708,36 @@
       "answer": 0,
       "vi": "(1) Thuốc này có vẻ quá đắng, khó uống đối với trẻ em.",
       "why": "(1) góc nhìn của trẻ em + đánh giá (苦すぎる, 飲みにくい) → đúng. (2) hành động hướng tới người khác → 学生に対して; (3) tư cách nghề nghiệp → 医者として; (4) vế sau là sự việc khách quan, không phải đánh giá từ góc nhìn của giám đốc."
+    },
+    {
+      "id": "b19-q19",
+      "kind": "usage",
+      "ref": "b19-1",
+      "q": "「〜わりに(は)」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "この{仕事|しごと}は{責任|せきにん}が{重|おも}いわりに、{給料|きゅうりょう}が{安|やす}い。",
+        "{値段|ねだん}わりに{品質|ひんしつ}がいいので、このスーパーをよく{利用|りよう}する。",
+        "{試験|しけん}まで{時間|じかん}がないわりに、もっと{集中|しゅうちゅう}して{勉強|べんきょう}しなさい。",
+        "さすが{一流|いちりゅう}の{選手|せんしゅ}のわりに、{動|うご}きに{無駄|むだ}がない。"
+      ],
+      "answer": 0,
+      "vi": "(1) Công việc này trách nhiệm nặng nề mà lương lại thấp (không tương xứng).",
+      "why": "(1) trách nhiệm nặng → đáng lẽ lương cao, thực tế thấp → đánh giá sự chênh lệch → đúng. (2) danh từ phải có の: 値段**の**わりに; (3) vế sau là mệnh lệnh (〜しなさい), わりに không dùng được; (4) 「さすが」 = đúng như kỳ vọng → phải là 一流の選手**だけあって**."
+    },
+    {
+      "id": "b19-q20",
+      "kind": "usage",
+      "ref": "b19-6",
+      "q": "「〜にしたら・〜にすれば・〜にしてみれば」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "{私|わたし}にしたら、この{写真|しゃしん}は{一生|いっしょう}の{宝物|たからもの}です。",
+        "{店長|てんちょう}はアルバイトの{学生|がくせい}にすれば{優|やさ}しく{接|せっ}している。",
+        "{試合|しあい}{直前|ちょくぜん}に{中止|ちゅうし}を{知|し}らされた{選手|せんしゅ}たちにしたら、{悔|くや}しくてたまらないだろう。",
+        "{彼|かれ}は{通訳|つうやく}にしてみれば、{国際|こくさい}{会議|かいぎ}で{活躍|かつやく}している。"
+      ],
+      "answer": 2,
+      "vi": "(3) Đứng ở vị trí các tuyển thủ bị báo huỷ ngay trước trận đấu thì chắc hẳn họ tiếc nuối không chịu nổi.",
+      "why": "(3) đặt mình vào vị trí người khác (選手たち) để đoán cảm xúc (〜だろう) → đúng. (1) nói về giá trị đối với chính mình → 私**にとって**; (2) hành động hướng tới người khác → 学生**に対して**優しく接する; (4) tư cách nghề nghiệp khi hoạt động → 通訳**として**活躍している."
     }
   ],
   "practice": [

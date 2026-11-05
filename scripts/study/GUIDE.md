@@ -65,7 +65,7 @@ Xem `b01.json`. Mỗi mẫu (point):
 - `mistakes`: 1–3 lỗi hay gặp, dạng `✗ … → ○ …`,
 - `tip`: mẹo nhận ra đáp án trong đề.
 Thêm: `intro` (bức tranh chung của bài: các mẫu liên quan nhau thế nào, điểm then chốt), `summary` (bảng ôn nhanh: `pattern`, `meaning`, `key`).
-Số câu: `quiz` 5–7, `practice` 10–12, `test` 6–8. Trộn `form` (đa số), `order` (≥ 2 mỗi bộ practice/test), `usage`.
+Số câu: `quiz` ~20 (bài > 10 mẫu: mỗi mẫu ≥ 1 câu, tối đa 28; xem EXPAND.md), `practice` 10–12, `test` 6–8. Trộn `form` (đa số), `order` (≥ 2 mỗi bộ practice/test), `usage`.
 
 Bài không có danh sách mẫu trong courses.json (IV A–G, 第2部, 第3部): đọc trang sách để lấy danh mục
 (`items` trong index.json được build_index.py tự lấy từ `pattern` của các point, không cần sửa courses.json). Với 第2部 / 第3部 (ngữ pháp câu & văn bản), mỗi point là một **quy tắc / điểm ngữ pháp**

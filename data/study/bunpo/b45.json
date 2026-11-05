@@ -399,6 +399,21 @@
       "why": "Hai người được **đối chiếu** (兄は〜が、弟は〜) → **は**. 「が」 làm mất nghĩa đối chiếu và trùng với 好きだ có が sẵn. 「を」「に」 sai cấu trúc với 好きだ."
     },
     {
+      "id": "b45-q7",
+      "kind": "form",
+      "ref": "b45-1",
+      "q": "{昨日|きのう}の{夕方|ゆうがた}、{事務所|じむしょ}に{一本|いっぽん}の{電話|でんわ}（　　）かかってきた。{電話|でんわ}の{主|ぬし}は、{二十年前|にじゅうねんまえ}に{転校|てんこう}していった{同級生|どうきゅうせい}だった。",
+      "options": [
+        "は",
+        "を",
+        "が",
+        "で"
+      ],
+      "answer": 2,
+      "vi": "Chiều hôm qua, có một cuộc điện thoại gọi đến văn phòng. Người gọi là một bạn cùng lớp đã chuyển trường đi từ hai mươi năm trước.",
+      "why": "「一本の電話」 **xuất hiện lần đầu** (người đọc chưa biết) → **が**. 「は」 nghe như cuộc điện thoại đó đã được nhắc từ trước. 「を」 sai vì かかってくる là tự động từ. 「で」 không thể đánh dấu chủ ngữ."
+    },
+    {
       "id": "b45-q3",
       "kind": "form",
       "ref": "b45-3",
@@ -412,6 +427,36 @@
       "answer": 0,
       "vi": "Vốn dĩ ngôn ngữ là thứ thay đổi dần theo thời đại.",
       "why": "Câu **chân lý chung** về một loại sự vật, kết thúc bằng 〜ものである → **は** (取り立て). 「が」 nghe như \"chính ngôn ngữ (chứ không phải thứ khác)\" — không hợp câu nhận xét tổng quát. 「を」「で」 sai vì 変化していく là tự động từ."
+    },
+    {
+      "id": "b45-q12",
+      "kind": "form",
+      "ref": "b45-6",
+      "q": "{新|あたら}しい{店|みせ}を{出|だ}すにあたって、{何|なに}（　　）{一番|いちばん}の{課題|かだい}だとお{考|かんが}えですか。",
+      "options": [
+        "に",
+        "も",
+        "は",
+        "が"
+      ],
+      "answer": 3,
+      "vi": "Khi mở cửa hàng mới, ông/bà cho rằng điều gì là vấn đề lớn nhất?",
+      "why": "**Từ để hỏi** làm chủ ngữ → luôn đi với **が** (何が). 「何は」 sai — từ để hỏi không làm chủ đề は được. 「何も」 đi với phủ định (= không… gì cả). 「何に」 không có động từ nào nhận trợ từ に ở đây."
+    },
+    {
+      "id": "b45-q8",
+      "kind": "form",
+      "ref": "b45-2",
+      "q": "この{町|まち}は{今|いま}でこそ{人気|にんき}の{観光地|かんこうち}だが、{二十年前|にじゅうねんまえ}（　　）{訪|おとず}れる{人|ひと}もほとんどいない{静|しず}かな{漁村|ぎょそん}だった。",
+      "options": [
+        "が",
+        "は",
+        "を",
+        "も"
+      ],
+      "answer": 1,
+      "vi": "Thị trấn này giờ là điểm du lịch nổi tiếng, nhưng hai mươi năm trước thì là một làng chài yên tĩnh, hầu như chẳng có ai ghé thăm.",
+      "why": "Đối chiếu **今 ↔ 二十年前** (今でこそ〜だが、…) → **は** (対比). 「が」 biến 「二十年前」 thành chủ ngữ — sai cấu trúc và mất ý đối chiếu. 「を」 sai cấu trúc. 「も」 = hai mươi năm trước cũng… — mâu thuẫn với 「今でこそ」 (chỉ bây giờ mới nổi tiếng)."
     },
     {
       "id": "b45-q4",
@@ -429,6 +474,21 @@
       "why": "Câu **tin tức** thuật lại một sự việc vừa xảy ra → **が**. 「は」 biến 停電 thành đề tài đã biết / đối chiếu — không hợp với bản tin. 「を」「に」 sai vì 発生する là tự động từ, cần chủ ngữ."
     },
     {
+      "id": "b45-q9",
+      "kind": "form",
+      "ref": "b45-3",
+      "q": "お{金|かね}（　　）、{使|つか}い{方|かた}{次第|しだい}で{人|ひと}を{幸|しあわ}せにも{不幸|ふこう}にもするものだ。",
+      "options": [
+        "が",
+        "を",
+        "に",
+        "は"
+      ],
+      "answer": 3,
+      "vi": "Tiền bạc là thứ, tuỳ cách dùng, có thể khiến con người hạnh phúc mà cũng có thể khiến họ bất hạnh.",
+      "why": "Câu **chân lý chung** về một loại sự vật, kết thúc bằng 〜ものだ → **は** (取り立て). 「が」 nghe như “chính tiền (chứ không phải thứ khác)” — không hợp câu nhận xét tổng quát. 「を」「に」 sai vì お金 là chủ thể của する."
+    },
+    {
       "id": "b45-q5",
       "kind": "form",
       "ref": "b45-5",
@@ -444,6 +504,156 @@
       "why": "Khuôn **[đề tài]は [khía cạnh]が [tính chất]** → この島は**海がきれいで**. 「海はきれいなのに」: のに mang nghĩa trái ngược, mâu thuẫn với việc đông khách. 「海にきれいで」「海できれいで」 sai trợ từ."
     },
     {
+      "id": "b45-q11",
+      "kind": "form",
+      "ref": "b45-6",
+      "q": "{子|こ}どもたち（　　）{寝静|ねしず}まった{後|あと}、{夫婦|ふうふ}で{映画|えいが}を{見|み}るのが{週末|しゅうまつ}のささやかな{楽|たの}しみだ。",
+      "options": [
+        "は",
+        "が",
+        "を",
+        "で"
+      ],
+      "answer": 1,
+      "vi": "Sau khi lũ trẻ đã ngủ say, hai vợ chồng cùng xem phim — đó là niềm vui nhỏ mỗi cuối tuần.",
+      "why": "「子どもたち〜寝静まった」 nằm trong **mệnh đề phụ** 〜後, có chủ ngữ riêng (người xem phim là 夫婦) → **が**. 「は」 không dùng cho chủ ngữ riêng của mệnh đề phụ. 「を」 sai vì 寝静まる là tự động từ. 「で」 không đánh dấu chủ ngữ."
+    },
+    {
+      "id": "b45-q14",
+      "kind": "order",
+      "ref": "b45-1",
+      "q": "{夕方|ゆうがた}の{駅前|えきまえ}に、＿＿＿ ＿＿＿ ＿＿＿ ★ 。その{犬|いぬ}は、{毎日|まいにち}{同|おな}じ{時刻|じこく}に{飼|か}い{主|ぬし}の{帰|かえ}りを{待|ま}っているのだという。",
+      "options": [
+        "犬がいた",
+        "一匹の",
+        "改札を",
+        "じっと見つめる"
+      ],
+      "order": [
+        2,
+        3,
+        1,
+        0
+      ],
+      "answer": 0,
+      "vi": "Chiều tối, trước nhà ga có một chú chó đang chăm chú nhìn về phía cửa soát vé. Nghe nói chú chó ấy ngày nào cũng chờ chủ về vào cùng một giờ.",
+      "why": "Ghép: **改札を じっと見つめる 一匹の 犬がいた** → ★ là ô cuối = 「犬がいた」. 「改札を」 là tân ngữ của 「見つめる」; 「一匹の」 phải đứng ngay trước 「犬」. Con chó **xuất hiện lần đầu** → 「犬が」; câu sau nhắc lại → 「その犬は」."
+    },
+    {
+      "id": "b45-q10",
+      "kind": "form",
+      "ref": "b45-4",
+      "q": "{家族|かぞく}{旅行|りょこう}の{準備|じゅんび}はすべて{順調|じゅんちょう}だった。ところが{出発|しゅっぱつ}の{前日|ぜんじつ}になって、{一緒|いっしょ}に{行|い}くはずだった{妹|いもうと}（　　）{急|きゅう}に{高|たか}い{熱|ねつ}を{出|だ}した。",
+      "options": [
+        "は",
+        "が",
+        "を",
+        "に"
+      ],
+      "answer": 1,
+      "vi": "Mọi khâu chuẩn bị cho chuyến du lịch gia đình đều suôn sẻ. Thế nhưng đến ngày trước hôm khởi hành, em gái tôi — người lẽ ra sẽ đi cùng — bỗng sốt cao.",
+      "why": "「ところが」 + 「急に」: mạch văn **đột ngột chuyển hướng**, câu tường thuật một biến cố → **が**. 「は」 biến câu thành lời nhận xét về em gái, làm mất cảm giác “sự cố bất ngờ xảy ra”. 「を」「に」 sai vì 妹 là chủ thể của 熱を出した."
+    },
+    {
+      "id": "b45-q13",
+      "kind": "form",
+      "ref": "b45-5",
+      "q": "{祖母|そぼ}は（　　）{人|ひと}で、{近所|きんじょ}の{人|ひと}たちからよく{相談|そうだん}を{持|も}ちかけられている。",
+      "options": [
+        "面倒見をいい",
+        "面倒見にいい",
+        "面倒見はいい",
+        "面倒見がいい"
+      ],
+      "answer": 3,
+      "vi": "Bà tôi là người hay chăm lo cho người khác, nên thường được hàng xóm tìm đến nhờ góp ý.",
+      "why": "Khuôn **[đề tài]は [khía cạnh]が [tính chất]**: 祖母は〜面倒見がいい. Phần này lại nằm **trong mệnh đề bổ nghĩa** cho 「人」, nên dùng が (hoặc の), không dùng は → **面倒見がいい**. 「面倒見はいい」 sai vì は không đứng trong mệnh đề bổ nghĩa (ở đây cũng không có gì để đối chiếu). 「を」「に」 sai vì いい là tính từ."
+    },
+    {
+      "id": "b45-q16",
+      "kind": "order",
+      "ref": "b45-3",
+      "q": "「{三日坊主|みっかぼうず}」 ＿＿＿ ＿＿＿ ★ ＿＿＿ {人|ひと}のことをいう。",
+      "options": [
+        "しても",
+        "長続きしない",
+        "とは",
+        "何を"
+      ],
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answer": 0,
+      "vi": "“Mikka bōzu” (hòa thượng ba ngày) là chỉ người làm gì cũng không bền.",
+      "why": "Ghép: 「三日坊主」 **とは 何を しても 長続きしない** 人のことをいう → ★ là ô thứ 3 = 「しても」. Câu **định nghĩa** dùng 「N とは〜のことをいう」 (cùng họ với は 取り立て: nhấc một từ lên làm đề tài); 「何をしても」 = dù làm gì; 「長続きしない」 bổ nghĩa cho 「人」."
+    },
+    {
+      "id": "b45-q15",
+      "kind": "order",
+      "ref": "b45-2",
+      "q": "{私|わたし}は、＿＿＿ ＿＿＿ ★ ＿＿＿ 、{自分|じぶん}で{作|つく}るのは{苦手|にがて}だ。",
+      "options": [
+        "料理を",
+        "大好きだが",
+        "食べるのは",
+        "おいしい"
+      ],
+      "order": [
+        3,
+        0,
+        2,
+        1
+      ],
+      "answer": 2,
+      "vi": "Tôi rất thích ăn đồ ngon, nhưng tự mình nấu thì lại kém.",
+      "why": "Ghép: **おいしい 料理を 食べるのは 大好きだが**、自分で作るのは苦手だ → ★ là ô thứ 3 = 「食べるのは」. Hai việc 「食べるの」 và 「作るの」 được **đối chiếu** → cả hai dùng は (〜のは〜が、〜のは〜). 「おいしい」 bổ nghĩa cho 「料理」."
+    },
+    {
+      "id": "b45-q17",
+      "kind": "order",
+      "ref": "b45-4",
+      "q": "{夜中|よなか}にふと ＿＿＿ ＿＿＿ ★ ＿＿＿ が{鳴|な}り{続|つづ}けていた。",
+      "options": [
+        "覚ますと",
+        "チャイム",
+        "玄関の",
+        "目を"
+      ],
+      "order": [
+        3,
+        0,
+        2,
+        1
+      ],
+      "answer": 2,
+      "vi": "Nửa đêm tôi chợt tỉnh giấc thì thấy chuông cửa ra vào đang reo liên hồi.",
+      "why": "Ghép: ふと **目を 覚ますと 玄関の チャイム** が鳴り続けていた → ★ là ô thứ 3 = 「玄関の」. 「目を覚ますと」 = vừa tỉnh dậy thì…; sau 〜と là **cảnh vừa phát hiện**, nên chủ ngữ dùng 「が」 (チャイムが), không dùng は."
+    },
+    {
+      "id": "b45-q18",
+      "kind": "order",
+      "ref": "b45-5",
+      "q": "この{新型|しんがた}のスマートフォンは、＿＿＿ ＿＿＿ ★ ＿＿＿ 、{若|わか}い{世代|せだい}に{人気|にんき}がある。",
+      "options": [
+        "わりに",
+        "軽くて",
+        "画面が",
+        "大きい"
+      ],
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answer": 0,
+      "vi": "Chiếc điện thoại thông minh đời mới này màn hình lớn mà lại nhẹ, nên được giới trẻ ưa chuộng.",
+      "why": "Ghép: この新型のスマートフォンは **画面が 大きい わりに 軽くて**、… → ★ là ô thứ 3 = 「わりに」. Khuôn **〜は〜が**: スマートフォン (đề tài) は, 画面 (bộ phận) が 大きい; 「〜わりに」 = so với… thì lại (nhẹ); 「軽くて」 nối với vế sau."
+    },
+    {
       "id": "b45-q6",
       "kind": "usage",
       "ref": "b45-6",
@@ -457,6 +667,36 @@
       "answer": 1,
       "vi": "(2) Khi bố về thì tôi đang làm bài tập.",
       "why": "(2) mệnh đề 〜とき có chủ ngữ riêng (父が), câu chính có đề tài 私は ○. (1) 「作った」 là mệnh đề bổ nghĩa cho ケーキ → 私が作ったケーキ. (3) từ để hỏi luôn đi với が → 誰が. (4) cảnh vừa phát hiện → 田中さんがいる."
+    },
+    {
+      "id": "b45-q19",
+      "kind": "usage",
+      "ref": "b45-4",
+      "q": "「は・が」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "今朝、駅前の交差点で交通事故は起きた。",
+        "来週の説明会が、山田さんは司会を担当する。",
+        "部屋に入ると、テーブルの上に見たことのない花束が置いてあった。",
+        "私は先週買った傘は、もう壊れてしまった。"
+      ],
+      "answer": 2,
+      "vi": "(3) Bước vào phòng thì thấy trên bàn có đặt một bó hoa tôi chưa từng thấy.",
+      "why": "(3) cảnh **vừa phát hiện** sau 〜と, vật lại xuất hiện lần đầu → 花束が ○. (1) tường thuật sự việc vừa xảy ra → 交通事故が起きた. (2) đề tài là 説明会, người làm là 山田さん → 来週の説明会は、山田さんが司会を担当する. (4) 「買った」 là mệnh đề bổ nghĩa cho 傘 → 私が先週買った傘は…."
+    },
+    {
+      "id": "b45-q20",
+      "kind": "usage",
+      "ref": "b45-6",
+      "q": "「は・が」の{使|つか}い{方|かた}が{正|ただ}しいものを{選|えら}びなさい。",
+      "options": [
+        "弟は描いた絵が、市のコンクールで入賞した。",
+        "どこは一番安く買えるか、ネットで調べてみた。",
+        "父は帰ってくるまで、夕食を待つことにした。",
+        "友人が勧めてくれたレストランは、予約が取れないほどの人気だった。"
+      ],
+      "answer": 3,
+      "vi": "(4) Nhà hàng mà bạn tôi giới thiệu đông khách đến mức không đặt được bàn.",
+      "why": "(4) chủ ngữ trong mệnh đề bổ nghĩa (友人が勧めてくれた) dùng が, đề tài của cả câu dùng は ○. (1) 「描いた」 bổ nghĩa cho 絵 → 弟が描いた絵. (2) từ để hỏi → どこが. (3) mệnh đề 〜まで có chủ ngữ riêng (bố về), người chờ là chúng tôi → 父が帰ってくるまで."
     }
   ],
   "passages": {

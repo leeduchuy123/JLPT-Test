@@ -323,21 +323,6 @@
       "why": "Trỏ lại 「本屋」 vừa nhắc, văn trung tính → **その**. 「あの」 không dùng trong văn để trỏ lại từ vừa viết (không phải hồi tưởng). 「どの」 là từ hỏi. 「あんな」 = như thế kia — cảm thán, không hợp."
     },
     {
-      "id": "b44-q2",
-      "kind": "form",
-      "ref": "b44-2",
-      "q": "{今年|ことし}の{夏|なつ}は{各地|かくち}で{水不足|みずぶそく}が{深刻|しんこく}だ。（　　）、{梅雨|つゆ}の{時期|じき}に{雨|あめ}がほとんど{降|ふ}らなかったためである。",
-      "options": [
-        "あれは",
-        "これは",
-        "そうは",
-        "こうして"
-      ],
-      "answer": 1,
-      "vi": "Mùa hè năm nay tình trạng thiếu nước ở nhiều nơi rất nghiêm trọng. Đó là do vào mùa mưa gần như không có mưa.",
-      "why": "Khuôn giải thích nguyên nhân **[hiện tượng]。これは〜ためである** → **これは**. 「あれは」 không dùng trong văn giải thích. 「そうは」 phải đi với phủ định (そうは思わない). 「こうして」 = cứ thế, bằng cách này — không đi với 〜ためである."
-    },
-    {
       "id": "b44-q3",
       "kind": "form",
       "ref": "b44-3",
@@ -351,6 +336,21 @@
       "answer": 0,
       "vi": "Nếu trận đấu ngày mai bị huỷ vì mưa thì khi đó chúng ta sẽ tập ở nhà thi đấu.",
       "why": "Thế giới **giả định** (もし〜たら) → chỉ dùng **その**. 「この」 dùng cho thứ người viết đang \"cầm\" — không hợp với việc chưa xảy ra. 「あの」 là hồi tưởng. 「どの」 là từ hỏi."
+    },
+    {
+      "id": "b44-q2",
+      "kind": "form",
+      "ref": "b44-2",
+      "q": "{今年|ことし}の{夏|なつ}は{各地|かくち}で{水不足|みずぶそく}が{深刻|しんこく}だ。（　　）、{梅雨|つゆ}の{時期|じき}に{雨|あめ}がほとんど{降|ふ}らなかったためである。",
+      "options": [
+        "あれは",
+        "これは",
+        "そうは",
+        "こうして"
+      ],
+      "answer": 1,
+      "vi": "Mùa hè năm nay tình trạng thiếu nước ở nhiều nơi rất nghiêm trọng. Đó là do vào mùa mưa gần như không có mưa.",
+      "why": "Khuôn giải thích nguyên nhân **[hiện tượng]。これは〜ためである** → **これは**. 「あれは」 không dùng trong văn giải thích. 「そうは」 phải đi với phủ định (そうは思わない). 「こうして」 = cứ thế, bằng cách này — không đi với 〜ためである."
     },
     {
       "id": "b44-q4",
@@ -368,6 +368,36 @@
       "why": "Người viết **hồi tưởng** một người trong ký ức, kèm câu 「今どこで何をしているのだろうか」 → **あの**. 「この」 không hợp với ký ức xa. 「どの人」 = người nào — sai vì người đó đã xác định. 「そんな人」 = người như thế — làm mất nghĩa \"chính người bạn đó\"."
     },
     {
+      "id": "b44-q7",
+      "kind": "form",
+      "ref": "b44-1",
+      "q": "この{春|はる}から、{妹|いもうと}は{小|ちい}さな{島|しま}の{小学校|しょうがっこう}で{教|おし}えている。（　　）には{信号|しんごう}が{一|ひと}つもなく、{全校|ぜんこう}{児童|じどう}はわずか{八人|はちにん}だという。",
+      "options": [
+        "あそこ",
+        "どこ",
+        "そこ",
+        "あれ"
+      ],
+      "answer": 2,
+      "vi": "Từ mùa xuân này, em gái tôi dạy ở một trường tiểu học trên một hòn đảo nhỏ. Nghe nói ở đó không có lấy một cột đèn giao thông, toàn trường chỉ có tám học sinh.",
+      "why": "Trỏ lại nơi vừa nhắc (小さな島) trong văn kể trung tính → mặc định **そこ**. 「あそこ」: あ không dùng để trỏ lại từ vừa viết; người viết cũng chưa từng đến đó nên không phải hồi tưởng. 「どこ」 là từ hỏi. 「あれ」 chỉ vật chứ không chỉ nơi chốn, lại là あ."
+    },
+    {
+      "id": "b44-q10",
+      "kind": "form",
+      "ref": "b44-3",
+      "q": "{応募|おうぼ}の{際|さい}は、{作品|さくひん}と（　　）{制作|せいさく}{意図|いと}を{説明|せつめい}した{短|みじか}い{文章|ぶんしょう}を、{一緒|いっしょ}に{提出|ていしゅつ}してください。",
+      "options": [
+        "この",
+        "あの",
+        "どの",
+        "その"
+      ],
+      "answer": 3,
+      "vi": "Khi dự tuyển, vui lòng nộp tác phẩm cùng với một đoạn văn ngắn giải thích ý đồ sáng tác của tác phẩm đó.",
+      "why": "Trỏ vào **từ đứng ngay trước trong cùng câu** (作品), lại nằm trong lời hướng dẫn 〜てください → bắt buộc **その** (khuôn 「N と その N2」). 「この」 không dùng để trỏ vào danh từ vừa đứng ngay trước kiểu này. 「あの」 là hồi tưởng. 「どの」 là từ hỏi."
+    },
+    {
       "id": "b44-q5",
       "kind": "form",
       "ref": "b44-5",
@@ -383,6 +413,186 @@
       "why": "Lời nói nằm **phía sau** chỗ trống → chỉ **こう** trỏ về phía sau được. 「そう」 chỉ trỏ về điều đã nói trước. 「ああ」 dùng cho hồi tưởng/ hội thoại. 「どう」 là từ hỏi."
     },
     {
+      "id": "b44-q8",
+      "kind": "form",
+      "ref": "b44-2",
+      "q": "「{急|いそ}がば{回|まわ}れ」。（　　）は、{急|いそ}ぐときほど、{遠回|とおまわ}りでも{安全|あんぜん}で{確実|かくじつ}な{方法|ほうほう}を{選|えら}べという{意味|いみ}のことわざだ。",
+      "options": [
+        "あれ",
+        "そこ",
+        "これ",
+        "どれ"
+      ],
+      "answer": 2,
+      "vi": "“Isogaba maware” (vội thì hãy đi đường vòng). Đây là câu tục ngữ mang ý: càng vội càng nên chọn cách an toàn, chắc chắn dù phải đi vòng.",
+      "why": "Người viết tự dẫn ra một câu nói / tục ngữ rồi giải thích → bắt buộc dùng **これ** (「〜」。これは〜). 「あれ」 không dùng trong văn giải thích. 「そこ」 chỉ nơi chốn / điểm, không chỉ một câu nói. 「どれ」 là từ hỏi."
+    },
+    {
+      "id": "b44-q11",
+      "kind": "form",
+      "ref": "b44-4",
+      "q": "（{手紙|てがみ}）{先日|せんじつ}の{同窓会|どうそうかい}では、{久|ひさ}しぶりにお{会|あ}いできてうれしかったです。{学生|がくせい}{時代|じだい}、{二人|ふたり}でよく{通|かよ}った{駅|えき}の{裏|うら}の{食堂|しょくどう}を{覚|おぼ}えていますか。（　　）{店|みせ}のカツカレーの{味|あじ}は、{今|いま}でも{忘|わす}れられません。",
+      "options": [
+        "あの",
+        "この",
+        "どの",
+        "こんな"
+      ],
+      "answer": 0,
+      "vi": "(Thư) Ở buổi họp lớp hôm trước, được gặp lại cậu sau bao lâu tớ vui lắm. Cậu còn nhớ cái quán ăn sau ga mà thời sinh viên hai đứa hay lui tới không? Vị cơm cà ri cốt lết của quán ấy đến giờ tớ vẫn không quên được.",
+      "why": "Đây là **ký ức chung** của người viết và người đọc thư (二人でよく通った, 覚えていますか) → **あの**. 「この」 dùng cho thứ người viết đang đem ra bàn ở hiện tại, không hợp với kỷ niệm xa. 「どの」 là từ hỏi. 「こんな店」 = quán như thế này — vừa sai điểm nhìn (こ) vừa làm mất nghĩa “chính cái quán đó”."
+    },
+    {
+      "id": "b44-q13",
+      "kind": "form",
+      "ref": "b44-5",
+      "q": "{十年|じゅうねん}ぶりに{会|あ}った{友人|ゆうじん}に、{中学|ちゅうがく}のときの{担任|たんにん}が（　　）{先生|せんせい}だったかと{聞|き}かれたが、{名前|なまえ}{以外|いがい}は{何|なに}も{思|おも}い{出|だ}せなかった。",
+      "options": [
+        "そんな",
+        "あんな",
+        "どんな",
+        "こんな"
+      ],
+      "answer": 2,
+      "vi": "Gặp lại người bạn sau mười năm, tôi bị hỏi thầy chủ nhiệm hồi cấp hai là người thế nào, nhưng ngoài cái tên ra tôi chẳng nhớ được gì.",
+      "why": "Câu hỏi gián tiếp 〜か về điều **chưa xác định** (thầy là người như thế nào) → **どんな**. 「そんな／あんな／こんな」 đều trỏ vào một tính chất đã biết, không tạo thành câu hỏi với 〜かと聞かれた; hơn nữa người viết chẳng nhớ gì nên không thể nói “như thế / như thế kia”."
+    },
+    {
+      "id": "b44-q16",
+      "kind": "order",
+      "ref": "b44-1",
+      "q": "{先日|せんじつ}、{友人|ゆうじん}から{古|ふる}い{写真集|しゃしんしゅう}を{借|か}りた。＿＿＿ ＿＿＿ ★ ＿＿＿ らしい。",
+      "options": [
+        "撮ったもの",
+        "それは",
+        "友人の",
+        "祖父が"
+      ],
+      "order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "answer": 3,
+      "vi": "Hôm trước tôi mượn của bạn một cuốn tập ảnh cũ. Nghe nói đó là ảnh do ông của bạn ấy chụp.",
+      "why": "Ghép: **それは 友人の 祖父が 撮ったもの** らしい → ★ là ô thứ 3 = 「祖父が」. Trỏ lại 「写真集」 vừa nhắc một cách trung tính → 「それは」 đứng đầu; 「友人の祖父」 là một cụm; 「〜が撮ったもの」 đứng ngay trước 「らしい」."
+    },
+    {
+      "id": "b44-q9",
+      "kind": "form",
+      "ref": "b44-2",
+      "q": "ある{調査|ちょうさ}では、{二十代|にじゅうだい}の{約|やく}{七割|ななわり}が「{転職|てんしょく}を{考|かんが}えたことがある」と{答|こた}えた。（　　）{結果|けっか}は、{一|ひと}つの{会社|かいしゃ}で{長|なが}く{働|はたら}くことに{対|たい}する{意識|いしき}の{変化|へんか}を{示|しめ}していると{言|い}えるだろう。",
+      "options": [
+        "あの",
+        "この",
+        "どの",
+        "あんな"
+      ],
+      "answer": 1,
+      "vi": "Trong một cuộc khảo sát, khoảng 70% người ở độ tuổi 20 trả lời “đã từng nghĩ đến chuyện chuyển việc”. Có thể nói kết quả này cho thấy sự thay đổi trong nhận thức về việc làm lâu dài ở một công ty.",
+      "why": "Người viết đưa ra **số liệu khảo sát** rồi phân tích → **この**結果. 「あの」 không dùng trong văn phân tích khách quan. 「どの」 là từ hỏi. 「あんな」 mang cảm xúc (ngạc nhiên, chê), không hợp với văn phân tích."
+    },
+    {
+      "id": "b44-q14",
+      "kind": "order",
+      "ref": "b44-5",
+      "q": "{祖母|そぼ}は、{私|わたし}が{落|お}ち{込|こ}んでいると、いつも ＿＿＿ ＿＿＿ ★ ＿＿＿ 。「{明|あ}けない{夜|よる}はないよ」。",
+      "options": [
+        "こう",
+        "言って",
+        "ものだ",
+        "くれた"
+      ],
+      "order": [
+        0,
+        1,
+        3,
+        2
+      ],
+      "answer": 3,
+      "vi": "Mỗi khi tôi buồn chán, bà tôi lại luôn nói với tôi thế này: “Không có đêm nào mà không sáng đâu.”",
+      "why": "Ghép: いつも **こう 言って くれた ものだ** → ★ là ô thứ 3 = 「くれた」. Lời nói nằm **phía sau** nên chỉ thị từ là 「こう」 (chỉ こ trỏ được về phía sau), đứng trước 「言って」; 「〜てくれたものだ」 = hồi đó thường hay… (hoài niệm)."
+    },
+    {
+      "id": "b44-q17",
+      "kind": "order",
+      "ref": "b44-4",
+      "q": "{二十年前|にじゅうねんまえ}、{初|はじ}めて{一人|ひとり}で{旅|たび}をした。{海辺|うみべ}の{町|まち}で ★ ＿＿＿ ＿＿＿ ＿＿＿ {美|うつく}しさは、{一生|いっしょう}{忘|わす}れないだろう。",
+      "options": [
+        "あの",
+        "夕日の",
+        "日",
+        "見た"
+      ],
+      "order": [
+        0,
+        2,
+        3,
+        1
+      ],
+      "answer": 0,
+      "vi": "Hai mươi năm trước, lần đầu tiên tôi đi du lịch một mình. Vẻ đẹp của hoàng hôn tôi ngắm hôm ấy ở thị trấn ven biển, có lẽ cả đời tôi sẽ không quên.",
+      "why": "Ghép: 海辺の町で **あの 日 見た 夕日の** 美しさは → ★ là ô đầu = 「あの」. Người viết **hồi tưởng** kỷ niệm riêng đầy cảm xúc (一生忘れないだろう) → 「あの日」; 「あの日見た」 bổ nghĩa cho 「夕日」, 「夕日の」 nối với 「美しさ」."
+    },
+    {
+      "id": "b44-q12",
+      "kind": "form",
+      "ref": "b44-5",
+      "q": "ラーメンもカレーも、もとは{外国|がいこく}から{伝|つた}わった{料理|りょうり}だ。それが{日本人|にほんじん}の{好|この}みに{合|あ}わせて{少|すこ}しずつ{形|かたち}を{変|か}え、{今|いま}では「{国民食|こくみんしょく}」と{呼|よ}ばれるまでになった。（　　）、{日本|にほん}の{食文化|しょくぶんか}は{外国|がいこく}の{影響|えいきょう}を{受|う}けながら{発展|はってん}してきたのである。",
+      "options": [
+        "あのように",
+        "このように",
+        "どのように",
+        "それなのに"
+      ],
+      "answer": 1,
+      "vi": "Cả ramen lẫn cà ri vốn đều là món ăn du nhập từ nước ngoài. Chúng dần thay đổi cho hợp khẩu vị người Nhật, đến nay đã được gọi là “món ăn quốc dân”. Như vậy, văn hoá ẩm thực Nhật Bản đã phát triển trong khi tiếp nhận ảnh hưởng của nước ngoài.",
+      "why": "Câu cuối **tóm tắt / kết luận** điều người viết vừa trình bày (〜のである) → **このように**. 「あのように」: あ không dùng trong văn giải thích để trỏ lại nội dung của bài. 「どのように」 là từ hỏi. 「それなのに」 = thế mà — chỉ quan hệ trái ngược, nhưng câu sau là kết luận cùng chiều."
+    },
+    {
+      "id": "b44-q18",
+      "kind": "order",
+      "ref": "b44-3",
+      "q": "「AIが{人間|にんげん}の{仕事|しごと}を{奪|うば}う」と{心配|しんぱい}する{声|こえ}もあるが、{必|かなら}ずしも ＿＿＿ ＿＿＿ ★ ＿＿＿ ないだろうか。",
+      "options": [
+        "のでは",
+        "限らない",
+        "そう",
+        "とは"
+      ],
+      "order": [
+        2,
+        3,
+        1,
+        0
+      ],
+      "answer": 1,
+      "vi": "Cũng có những tiếng nói lo ngại rằng “AI sẽ cướp mất việc làm của con người”, nhưng chẳng phải là chưa hẳn đã như vậy sao.",
+      "why": "Ghép: 必ずしも **そう とは 限らない のでは** ないだろうか → ★ là ô thứ 3 = 「限らない」. Phản bác ý kiến người khác → 「そう」 (không dùng こう); 「必ずしも〜とは限らない」 là cặp cố định; 「〜のではないだろうか」 khép câu."
+    },
+    {
+      "id": "b44-q15",
+      "kind": "order",
+      "ref": "b44-2",
+      "q": "「{時|とき}は{金|かね}なり」。＿＿＿ ＿＿＿ ★ ＿＿＿ 。",
+      "options": [
+        "父の",
+        "口癖だった",
+        "これは",
+        "亡くなった"
+      ],
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answer": 0,
+      "vi": "“Thời gian là vàng bạc.” Đây là câu cửa miệng của người cha đã khuất của tôi.",
+      "why": "Ghép: **これは 亡くなった 父の 口癖だった** → ★ là ô thứ 3 = 「父の」. Trỏ vào câu nói người viết vừa dẫn ra → 「これは」 đứng đầu làm chủ đề; 「亡くなった」 bổ nghĩa cho 「父」, 「父の」 bổ nghĩa cho 「口癖」."
+    },
+    {
       "id": "b44-q6",
       "kind": "usage",
       "ref": "b44-3",
@@ -396,6 +606,36 @@
       "answer": 2,
       "vi": "(3) Người ta nói giới trẻ không quan tâm đến chính trị, nhưng tôi không nghĩ vậy.",
       "why": "(3) phản bác ý kiến người khác → 「そうは思わない」 ○. (1) văn kể khách quan, trỏ lại từ vừa viết → その事故. (2) lời nói ở **phía sau** → こう言った. (4) câu giả định もし〜たら → その責任."
+    },
+    {
+      "id": "b44-q19",
+      "kind": "usage",
+      "ref": "b44-1",
+      "q": "{指示語|しじご}の{使|つか}い{方|かた}が{適切|てきせつ}なものを{選|えら}びなさい。",
+      "options": [
+        "兄は去年カナダに留学した。その間に、英語がとても上達したそうだ。",
+        "昨日、部長から新しい企画書を渡された。あの企画書を今日中に読まなければならない。",
+        "次のグラフを見てほしい。そのグラフから、売り上げが年々減っていることがわかる。",
+        "社長はあいさつの最後に、そう締めくくった。「皆さんの力を信じています」。"
+      ],
+      "answer": 0,
+      "vi": "(1) Anh tôi năm ngoái đi du học Canada. Nghe nói trong thời gian đó tiếng Anh của anh tiến bộ rất nhiều.",
+      "why": "(1) trỏ lại khoảng thời gian du học vừa nói, văn trung tính → その ○. (2) văn kể khách quan, trỏ lại từ vừa viết → その企画書, không dùng あ. (3) biểu đồ người viết đang đưa ra (次の) → このグラフ. (4) lời nói nằm **phía sau** → こう締めくくった."
+    },
+    {
+      "id": "b44-q20",
+      "kind": "usage",
+      "ref": "b44-4",
+      "q": "「あ」の{使|つか}い{方|かた}が{適切|てきせつ}なものを{選|えら}びなさい。",
+      "options": [
+        "報告書によると、先月の売り上げは前年を大きく下回った。あの原因を早急に調べる必要がある。",
+        "もし明日大雪が降ったら、あの日の練習は中止にします。",
+        "参加者は名札を必ず身につけてください。あれがないと会場に入れません。",
+        "高校の修学旅行で泊まった旅館の名前を、ふと思い出した。あの宿で食べた朝ご飯の味は、今でも覚えている。"
+      ],
+      "answer": 3,
+      "vi": "(4) Bỗng nhiên tôi nhớ ra tên nhà trọ đã ở trong chuyến đi tham quan hồi cấp ba. Vị bữa sáng ăn ở nhà trọ ấy, đến giờ tôi vẫn còn nhớ.",
+      "why": "(4) người viết **hồi tưởng** kỷ niệm riêng (ふと思い出した, 今でも覚えている) → あの宿 ○. (1) báo cáo khách quan → その原因. (2) câu giả định もし〜たら → その日. (3) trỏ vào thứ liên quan đến lời dặn (名札) → それがないと."
     }
   ],
   "passages": {
