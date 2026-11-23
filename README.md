@@ -15,6 +15,7 @@ Mục tiêu: tổng ôn N3 trong ~2 tháng bằng cách **làm đề → sai ở
 | **Xem sau** | SRS: câu bạn gắn cờ hoặc làm sai, lặp lại 1 → 3 → 7 → 14 → 30 → 60 ngày; đánh giá Quên / Khó / Nhớ / Dễ |
 | **Tiến độ** | Biểu đồ 30 ngày, độ chính xác theo phần và theo dạng bài, điểm thi thử theo thời gian, lịch sử, ước tính điểm JLPT |
 | **Ngữ pháp** | 422 mẫu gom từ 3.103 câu bunpo (công thức, ý nghĩa, giải thích, ví dụ từ đề). Học thẻ Nhớ/Quên: thẻ quên quay lại trong phiên và ôn theo lịch 1 → 3 → 7 → 14 → 30 → 60 ngày. Tab **★ Đề thi chính thức**: 189 mẫu đã ra trong 28 đề JLPT N3 thật (xếp theo số đề xuất hiện), có học thẻ riêng, bài kiểm tra trắc nghiệm kiểu Quizlet và trò ghép cặp |
+| **Từ láy** | Từ láy (ぺらぺら, どんどん, 時々 …) đã xuất hiện trong đề thật: 43 từ trong 30 đề N3 và 146 từ trong 31 đề N2 (7/2010 → 12/2025), xếp theo số đề có từ đó, kèm câu ví dụ lấy từ chính các đề. Học thẻ Nhớ/Quên theo cùng lịch lặp lại; trắc nghiệm 3 dạng (từ → nghĩa, nghĩa → từ, điền từ vào câu trong đề); **câu đề thật có từ láy** (41 câu N3, 55 câu N2, giữ nguyên lựa chọn và đáp án của đề); ghép cặp |
 | **Tra cứu** | Ngữ pháp N3, từ vựng N3, kanji N3 có tìm kiếm |
 | **Cài đặt** | Giao diện sáng/tối, ngày thi, mục tiêu ngày, tự thêm câu sai vào Xem sau, đồng bộ giữa các thiết bị, xuất/nhập/xoá dữ liệu, thống kê ngân hàng câu hỏi |
 
@@ -31,13 +32,16 @@ js/srs.js               # lịch lặp lại
 js/data.js              # tải bank/exams/refs, ghép đề, tìm tra cứu liên quan
 js/question.js          # render câu hỏi / đoạn văn / giải thích / hành động
 js/charts.js            # biểu đồ SVG thuần
-js/pages/*.js           # home, test, drill, review, progress, ref, settings
+js/pages/*.js           # home, test, drill, review, progress, grammar, redup (từ láy), ref, settings
 data/bank/<section>.json  # ngân hàng câu hỏi đã lọc trùng (moji, bunpo, dokkai, choukai)
 data/exams.json           # các bộ đề thật
 data/ref/*.json           # từ vựng / kanji / ngữ pháp N3
+data/redup.json           # từ láy trong đề N3 / N2 đã thi: từ, nghĩa, câu ví dụ, câu hỏi đề thật
 data/manifest.json        # thống kê build
 scripts/crawl/*.py        # crawler từng nguồn (xem SCHEMA.md)
 scripts/build_grammar.py  # crawl/grammar/out (sub agent phân loại câu theo mẫu) + bank → data/grammar.json
+scripts/crawl/masceron.py # tải đề N3 / N2 đã thi → crawl/redup/exams_<cấp>.json
+scripts/build_redup.py    # crawl/redup (đề + lexicon.json soạn tay) → data/redup.json
 scripts/build_bank.py     # gộp crawl/raw → data/ (lọc trùng, gắn giải thích)
 scripts/explain/          # chia lô & kiểm tra giải thích (crawl/explain/out/*.json)
 crawl/                    # dữ liệu thô + cache (không deploy)
@@ -68,6 +72,14 @@ python -I scripts/explain/make_batches.py   # tạo lô câu chưa có giải th
 python -I scripts/explain/validate.py       # kiểm tra giải thích
 ```
 Giải thích do AI viết theo vai giáo viên, lưu ở `crawl/explain/out/`, được gắn vào bank khi build.
+
+Từ láy:
+```bash
+python -I scripts/crawl/masceron.py N3 N2             # tải đề đã thi (mỗi trang chỉ tải một lần, có cache)
+python -I scripts/build_redup.py --candidates --new   # dạng lặp máy bắt được mà chưa phân loại
+python -I scripts/build_redup.py                      # → data/redup.json
+```
+Máy chỉ tìm ứng viên (AB+AB kể cả biến âm đục, X々, cụm kanji + kana lặp). Từ nào là từ láy, nghĩa tiếng Việt, nhóm và từ gần nghĩa nằm trong `crawl/redup/lexicon.json` (soạn tay); mục `skip` ghi các dạng lặp bị loại (trùng chữ ngẫu nhiên như 「…ていて」, lặp nhấn mạnh như 「おいしいおいしい」, chữ Hán ghép như 全然). Mã thẻ học là cách đọc của từ, nên N3 và N2 dùng chung một thẻ.
 
 ## Deploy Vercel
 Framework: **Other**, không build command, output root. `vercel.json` đã có cleanUrls + header bảo mật; `js/`, `css/`, `data/` luôn hỏi lại máy chủ (ETag) để không bị trộn file JS cũ/mới sau khi deploy. `.vercelignore` loại `crawl/`, `scripts/`, `docs/`. Thư mục `api/` được Vercel tự nhận làm Functions.
@@ -104,4 +116,5 @@ Nguồn hạng B (bài luyện tự sinh, độ khó không đều, có thể t�
 Lọc: trùng câu (1.304), câu thiếu đáp án/đoạn văn/audio, dạng "tất cả đều đúng", nguồn không phải N3 (jlpt.u-biq.org).
 Khi một câu bị gộp vào bản trùng, `data/aliases.json` ánh xạ id cũ sang id mới và app tự chuyển tiến độ học.
 Không lấy: nihonez, tryjlpt (phần cần đăng nhập), Mazii đề 4–15 (Premium), Migii (dữ liệu mã hoá).
+Từ láy: lấy từ 183 trang đề N3 / N2 đã thi (7/2010 → 12/2025) trên masceron-jlpt.pages.dev, bản lưu của dethitiengnhat.com. Trang này có `robots.txt` cấm bot; các trang đã được tải một lần ngày 2026-11-23 và nằm trong cache, đừng tải lại nếu không cần. 32 từ chỉ xuất hiện trong lựa chọn trả lời nên có thêm một câu ví dụ tự soạn (ghi rõ là ví dụ bổ sung).
 Chỉ dùng cho mục đích học cá nhân.

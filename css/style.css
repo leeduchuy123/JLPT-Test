@@ -330,3 +330,14 @@ ruby rt { font-size: .6em; color: var(--muted); }
 .tabs button.active { border-bottom-color: var(--accent); }
 .modal { background: var(--surface); background-image: var(--paper-noise); }
 .toast { font-family: var(--font-serif); }
+
+/* ============ Từ láy ============ */
+.rd-hl { background: var(--warn-soft); color: inherit; border-radius: 3px; padding: 0 .1em; font-weight: 600; }
+.rd-stem { font-size: 1.2rem; line-height: 1.9; }
+.rd-stem u, .rd-q u, .opt u { text-underline-offset: .2em; }
+@media (min-width: 640px) { .rd-opts { display: grid; grid-template-columns: 1fr 1fr; gap: 0 .5rem; } }
+.rd-q { padding: .45rem 0; border-top: 1px dashed var(--border); }
+.rd-q:first-of-type { border-top: 0; }
+.rd-q summary { cursor: pointer; }
+.rd-q ol { margin: .4rem 0 .2rem; }
+.rd-q .rd-ok { color: var(--good); font-weight: 600; }

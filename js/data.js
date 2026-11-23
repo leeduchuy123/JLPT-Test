@@ -129,6 +129,16 @@ export async function loadGrammar() {
 /** Mẫu ngữ pháp mà một câu hỏi kiểm tra (cần gọi sau loadGrammar). */
 export const grammarOfQ = (qid) => (grammarCache?.byQid.get(qid)) || [];
 
+/* ----- từ láy trong đề đã thi (data/redup.json, build bằng scripts/build_redup.py) ----- */
+let redupCache = null;
+export async function loadRedup() {
+  if (redupCache) return redupCache;
+  let raw;
+  try { raw = await fetchJSON('/data/redup.json'); } catch { raw = { words: [], levels: {}, groups: [] }; }
+  redupCache = { ...raw, byId: new Map(raw.words.map(w => [w.id, w])) };
+  return redupCache;
+}
+
 let refIndex = null;
 async function buildRefIndex() {
   if (refIndex) return refIndex;

@@ -24,6 +24,7 @@ const DEFAULTS = () => ({
   history: [],   // finished sessions
   srs: {},       // qid -> card (+ u: lúc sửa cuối)
   gcards: {},    // mã mẫu ngữ pháp -> thẻ SRS (như srs, thêm u)
+  wcards: {},    // từ láy (cách đọc) -> thẻ SRS, dùng chung cho N3 và N2
   notes: {},     // qid -> text
   inProgress: {},// sessionId -> session
   study: {},     // học N2: activityId -> {done, c, n, best, at, wrong, u}
@@ -162,6 +163,21 @@ export function dueGrammar(now = Date.now()) {
   return allGrammarCards().filter(c => srs.isDue(c, now)).sort((a, b) => a.due - b.due);
 }
 
+/* ----- thẻ từ láy: cùng lịch lặp, khoá là cách đọc của từ (N3 và N2 dùng chung một thẻ) ----- */
+export const wcardOf = (wid) => state.wcards[wid] || null;
+export function gradeWord(wid, grade) {
+  const card = state.wcards[wid] || srs.newCard(Date.now(), 'redup');
+  const next = srs.review(card, grade);
+  next.u = Date.now();
+  state.wcards[wid] = next;
+  commit();
+  return next;
+}
+export function resetWord(wid) { delete state.wcards[wid]; tomb('wcards', wid); commit(); }
+export function dueWords(now = Date.now()) {
+  return Object.entries(state.wcards).filter(([, c]) => srs.isDue(c, now)).map(([wid, c]) => ({ wid, ...c })).sort((a, b) => a.due - b.due);
+}
+
 /* ----- notes ----- */
 export const noteOf = (qid) => state.notes[qid] || '';
 export function setNote(qid, text) {
@@ -273,6 +289,7 @@ export function summarize(obj) {
     answered: n(obj.stats),
     srs: n(obj.srs),
     gcards: n(obj.gcards),
+    wcards: n(obj.wcards),
     notes: n(obj.notes),
     tests: (obj.history || []).length,
     study: n(obj.study),
